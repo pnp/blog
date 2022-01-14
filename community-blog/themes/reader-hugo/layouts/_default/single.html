@@ -1,0 +1,135 @@
+{{ define "main" }}
+
+<!-- checking blog -->
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
+
+{{ $sidebar:= site.Params.sidebar }}
+{{ $hasbar:= or (eq $sidebar `left`) (eq $sidebar `right`)}}
+{{ $layout:= site.Params.post_layout}}
+{{ $widget:= site.Params.widgets.sidebar }}
+
+<div class="py-4"></div>
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <!-- left sidebar -->
+      {{ if eq $sidebar "left" }}
+      <aside class="col-lg-4 order-2 order-lg-1">
+        {{- partial "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
+      </aside>
+      {{ end }}
+      <!-- /left sidebar -->
+
+      <div
+        class="{{if $hasbar}} col-lg-8 {{ else }} col-lg-10 mx-auto {{end}} {{if eq $sidebar `left`}} order-1 order-lg-2 {{end}} mb-5 mb-lg-0">
+        <article>
+          <!-- post thumb -->
+          {{ with .Params.images }}
+          <div class="post-slider mb-4">
+            {{ range .}}
+            {{ if (fileExists (add `assets/` .)) }}
+            {{ $image:= resources.Get . }}
+            {{ $imageMD:= $image.Fill "700x330" }}
+            {{ $imageSM:= $image.Fill "380x180" }}
+            <picture>
+              <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
+              <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">
+              <source srcset="{{$image.Permalink}}">
+              <img src="{{$image.Permalink}}" class="card-img" loading="lazy" alt="post-thumb">
+            </picture>
+            {{ else }}
+            <img src="{{ . | absURL }}" class="card-img" loading="lazy" alt="post-thumb">
+            {{ end }}
+            {{ end }}
+          </div>
+          {{ end }}
+          <!-- /post thumb -->
+
+          <h1 class="h2">{{ .Title }}</h1>
+          <ul class="card-meta my-3 list-inline">
+            <li class="list-inline-item">
+              <a href="{{ `author/` | relLangURL }}{{ .Params.author | urlize }}/" class="card-meta-author">
+                {{ $author:= .Params.author | urlize}}
+                {{ with site.GetPage $author }}
+                {{ if .Params.image }}
+                {{ $imagePath:= .Params.image }}
+                {{ if (fileExists (add "assets/" $imagePath)) }}
+                {{ $image:= resources.Get $imagePath }}
+                {{ $imageXS:= $image.Fill "20x20" }}
+                {{ .Scratch.Set "image" $imageXS.RelPermalink }}
+                {{ else }}
+                {{ .Scratch.Set "image" ($imagePath | absURL) }}
+                {{ end }}
+                <img loading="lazy" src="{{.Scratch.Get `image`}}" alt="{{ .Title }}" class="img-fluid">
+                {{else if .Params.Email}}
+                <img loading="lazy" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=20&pg&d=identicon">
+                {{ end }}
+                {{ end }}
+                <span>{{ .Params.author }}</span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <i class="far fa-clock"></i>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}
+            </li>
+            <li class="list-inline-item">
+              <i class="far fa-calendar-alt"></i>{{ .PublishDate.Format "02 Jan, 2006" }}
+            </li>
+            <li class="list-inline-item">
+              <ul class="card-meta-tag list-inline">
+                {{ $filter:= site.Params.main_taxonomy }}
+                {{ if eq $filter "tag" }}
+                {{ $taxonomies := .Params.tags }}
+                {{ range $taxonomies }}
+                <li class="list-inline-item"><a
+                    href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a></li>
+                {{ end }}
+                {{ else if eq $filter "category" }}
+                {{ $taxonomies := .Params.categories }}
+                {{ range $taxonomies }}
+                <li class="list-inline-item"><a
+                    href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a></li>
+                {{ end }}
+                {{ end }}
+              </ul>
+            </li>
+          </ul>
+          <div class="content">{{ .Content }}</div>
+        </article>
+        <!-- comments -->
+        {{ if site.DisqusShortname }}
+        <div class="mt-5 border-default border p-4 bg-white">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+        {{ end }}
+      </div>
+
+      <!-- right sidebar -->
+      {{ if eq $sidebar "right" }}
+      <aside class="col-lg-4">
+        {{- partial "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
+      </aside>
+      {{ end }}
+      <!-- /right sidebar -->
+    </div>
+  </div>
+</section>
+
+<!-- regular page -->
+{{ else }}
+{{ partial "page-header.html" . }}
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="content">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /regular page -->
+
+{{ end }}

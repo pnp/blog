@@ -1,0 +1,30 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: images
+  label: images
+- type: text
+  name: author
+  label: author
+  description: 'Ex: John Doe [use capitalize]'
+- type: text
+  name: description
+  label: meta description
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: type
+  label: type
+  description: Available type (regular, epic, popular, trending)

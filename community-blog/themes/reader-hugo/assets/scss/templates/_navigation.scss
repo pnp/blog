@@ -1,0 +1,153 @@
+.navigation {
+  border-bottom: 1px solid $border-color;
+  padding: 10px 0;
+  &.nav-bg {
+    background-color: $white;
+  }
+  @include desktop {
+    background-color: $white;
+  }
+}
+
+.nav-item {
+  margin: 0;
+
+  .nav-link {
+    text-transform: capitalize;
+    font-family: $primary-font;
+    font-weight: 600;
+  }
+}
+
+.navbar-white .navbar-nav .nav-link {
+  color: $text-color-dark;
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 20px;
+
+  @include desktop {
+    padding: 10px;
+  }
+}
+
+.navbar {
+  padding: 0;
+
+  .dropdown {
+    &:hover {
+      .dropdown-menu {
+        padding: 12px 14px;
+        visibility: visible;
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+
+    i{
+      font-size: 12px;
+    }
+
+    &-menu {
+      padding: 40px;
+      @include desktop {
+        padding: 12px 14px;
+      }
+      @extend .shadow;
+      border: 0;
+      top: calc(100% - 10px);
+      left: 15px;
+      border-radius: 5px;
+      background: $white;
+      transition: .2s ease;
+      display: block;
+      visibility: hidden;
+      opacity: 0;
+      transform: scale(.9);
+
+      @include desktop {
+        display: none;
+        opacity: 1;
+        visibility: visible;
+        transform: scale(1);
+        text-align: inherit;
+      }
+
+      &.show {
+        visibility: hidden;
+
+        @include desktop {
+          visibility: visible;
+          display: block;
+        }
+      }
+    }
+
+    &-item {
+      position: relative;
+      color: $text-color-dark;
+      transition: .2s ease;
+      font-size: inherit;
+      padding: 8px 10px;
+      border-radius: inherit;
+
+      &:hover {
+        color: $primary-color !important;
+        background-color: $light;
+      }
+    }
+  }
+}
+
+/* search */
+.search-bar {
+  position: relative;
+  background-color: $light;
+  input {
+    background-color: transparent;
+    border: 1px solid $border-color;
+    height: 40px;
+    padding-left: 15px;
+    position: relative;
+    border-radius: 5px;
+    z-index: 1;
+    &:focus{
+      border-color: $primary-color;
+      outline: 0;
+    }
+    &::placeholder{
+      font-size: 90%;
+    }
+    @include desktop {
+      width: 40px;
+      padding-left: 30px;
+      &:focus{
+        padding-left: 10px;
+        width: 200px;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        height: 50px;
+        right: 0;
+        background-color: $light;
+      }
+    }
+  }
+  &::after {
+    position: absolute;
+    content: "\f002";
+    font-family: $icon-font;
+    font-weight: 900;
+    right: 13px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: inherit;
+    z-index: 2;
+    padding-left: 10px;
+    pointer-events: none;
+  }
+}

@@ -1,0 +1,11 @@
+{{ "<!-- Search -->" | safeHTML }}
+{{ if site.Params.search }}
+<div class="widget">
+  <h4 class="widget-title"><span>{{ i18n "search" }}</span></h4>
+  <form action="{{ `search`| relLangURL }}" class="widget-search">
+    <input class="mb-3" id="search-query" name="s" type="search" placeholder="{{ i18n `search_placeholder`}}">
+    <i class="ti-search"></i>
+    <button type="submit" class="btn btn-primary btn-block">{{i18n "search"}}</button>
+  </form>
+</div>
+{{ end }}

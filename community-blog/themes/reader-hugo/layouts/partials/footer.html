@@ -1,0 +1,76 @@
+<!-- footer -->
+{{ if site.Params.background_shapes.footer_bg_image }}
+{{ if fileExists (add `assets/` site.Params.background_shapes.footer_bg_image) }}
+{{$img:= resources.Get (site.Params.background_shapes.footer_bg_image) }}
+<footer class="footer {{if not site.Params.background_shapes.enable}}bg-light pt-5{{end}}
+" {{if site.Params.background_shapes.enable}}style="background-image: url({{$img.RelPermalink}})"{{end}}>
+{{ else }}
+<footer class="footer">
+{{ end }}
+{{ else }}
+<footer class="footer">
+{{ end }}
+
+  {{if site.Params.background_shapes.enable}}
+  <!-- footer border -->
+  <svg class="footer-border" height="214" viewBox="0 0 2204 214" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M2203 213C2136.58 157.994 1942.77 -33.1996 1633.1 53.0486C1414.13 114.038 1200.92 188.208 967.765 118.127C820.12 73.7483 263.977 -143.754 0.999958 158.899"
+      stroke-width="2" />
+  </svg>
+  {{end}}
+
+  <!-- instagram feed -->
+  {{ if site.Params.instafeed.enable }}
+  <div class="mt-4 {{with site.Params.subscription.footer_subscription}}pt-5{{end}}">
+  {{ with site.Params.instafeed }}
+  <div class="instafeed text-center mb-5">
+    <h2 class="h3 mb-5">{{ i18n "instagram_post" | upper }}</h2>
+    {{ with .access_token }}
+    <div class="instagram-slider" id="instafeed" data-accessToken="{{.}}"></div>
+    {{ else }}
+    <div class="instagram-slider">
+      <div class="instagram-post"><img loading="lazy" src="{{`images/instafeed/1.jpg` | absURL}}"></div>
+      <div class="instagram-post"><img loading="lazy" src="{{`images/instafeed/2.jpg` | absURL}}"></div>
+      <div class="instagram-post"><img loading="lazy" src="{{`images/instafeed/3.jpg` | absURL}}"></div>
+      <div class="instagram-post"><img loading="lazy" src="{{`images/instafeed/4.jpg` | absURL}}"></div>
+      <div class="instagram-post"><img loading="lazy" src="{{`images/instafeed/5.jpg` | absURL}}"></div>
+      <div class="instagram-post"><img loading="lazy" src="{{`images/instafeed/6.jpg` | absURL}}"></div>
+      <div class="instagram-post"><img loading="lazy" src="{{`images/instafeed/7.jpg` | absURL}}"></div>
+      <div class="instagram-post"><img loading="lazy" src="{{`images/instafeed/8.jpg` | absURL}}"></div>
+      <div class="instagram-post"><img loading="lazy" src="{{`images/instafeed/4.jpg` | absURL}}"></div>
+      <div class="instagram-post"><img loading="lazy" src="{{`images/instafeed/5.jpg` | absURL}}"></div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+  </div>
+  {{ end }}
+  <!-- /instagram feed -->
+
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-5 text-center text-md-left mb-4">
+        <ul class="list-inline footer-list mb-0">
+          {{ range site.Menus.footer }}
+          <li class="list-inline-item"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col-md-2 text-center mb-4">
+        <a href="{{ site.BaseURL | relLangURL }}">
+          {{ partial "logo.html" . }}
+        </a>
+      </div>
+      <div class="col-md-5 text-md-right text-center mb-4">
+        <ul class="list-inline footer-list mb-0">
+          {{ range site.Params.social }}
+          <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col-12">
+        <div class="border-bottom border-default"></div>
+      </div>
+    </div>
+  </div>
+</footer>

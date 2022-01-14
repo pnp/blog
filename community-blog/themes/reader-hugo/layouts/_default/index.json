@@ -1,0 +1,20 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range (where site.RegularPages "Section" "post") -}}
+
+{{ with .Params.images }}
+{{ range first 1 . }}
+{{ if (fileExists (add `assets/` .)) }}
+{{ $image:= resources.Get . }}
+{{ $imageSM:= $image.Fill "460x200" }}
+{{ $.Scratch.Set "image" $imageSM.Permalink }}
+{{ else }}
+{{ $.Scratch.Set "image" (. | absURL) }}
+{{ end }}
+{{ end }}
+{{ end }}
+{{ $image:= $.Scratch.Get "image" }}
+
+  {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "image" $image "categories" .Params.categories "contents" .Plain "permalink" .Permalink) -}}
+
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

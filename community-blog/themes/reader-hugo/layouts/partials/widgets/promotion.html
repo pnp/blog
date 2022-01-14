@@ -1,0 +1,17 @@
+{{ "<!-- Promotion -->" | safeHTML }}
+{{ with site.Params.promotion}}
+<div class="promotion">
+  {{ if .image }}
+  {{ if fileExists (add `assets/` .image) }}
+  {{$img:= resources.Get (.image) }}
+  {{$img:= $img.Resize "560x webp"}}
+  <img loading="lazy" decoding="async" class="img-fluid w-100" src="{{$img.RelPermalink}}" width="{{$img.Width}}" height="{{$img.Height}}">
+  {{ end }}
+  {{ end }}
+  <div class="promotion-content">
+    <h5 class="text-white mb-3">{{.title | markdownify}}</h5>
+    <p class="text-white mb-4">{{.content | markdownify}}</p>
+    <a href="{{.button_link | safeURL }}" class="btn btn-primary">{{ .button_label }}</a>
+  </div>
+</div>
+{{ end }}

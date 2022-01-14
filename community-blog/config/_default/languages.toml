@@ -1,0 +1,12 @@
+################################### English language #####################################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content"
+weight = 1
+heading = "What Would You <br> Like To Read Today?"
+
+[en.about_me]
+title = "Hi, I am Alex!"
+image = "images/author.jpg"
+bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec iaculis tempus odio nunc laoreet . Libero ullamcorper."

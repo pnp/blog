@@ -1,0 +1,48 @@
+{{define "main"}}
+
+{{ partial "page-header.html" . }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row no-gutters">
+      {{ range where site.RegularPages "Section" "author" }}
+      <div class="col-lg-4 col-sm-6 author-block">
+        <div class="author-card text-center">
+
+          <a href="{{.Permalink}}">
+            {{ if .Params.image }}
+            {{ $imagePath:= .Params.image }}
+            {{ if (fileExists (add "assets/" $imagePath)) }}
+            {{ $image:= resources.Get $imagePath }}
+            {{ $img:= $image.Fill "320x320 webp" }}
+            <img loading="lazy" decoding="async" class="author-image mb-4" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="{{ .Title }}">
+            {{ end }}
+            {{else if .Params.Email}}
+            <img loading="lazy" decoding="async" class="author-image mb-4" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=320&pg&d=identicon">
+            {{ end }}
+          </a>
+
+          <h3 class="mb-2"><a href="{{ .Permalink }}" class="post-title">{{.Title}}</a></h3>
+          <p class="mb-3">{{.Params.Description | markdownify}}</p>
+          {{ $posts := where site.RegularPages "Params.author" .Title }}
+          {{ $post_item := len $posts}}
+          {{if eq $post_item 0 }}
+          <div class="mb-3">
+            <i class="ti-pencil-alt mr-2"></i><span class="text-primary">{{ len $posts }}</span> {{i18n "posts_by"}}
+          </div>
+          {{else}}
+          <a class="post-count" href="{{.Permalink}}#post"><i class="ti-pencil-alt mr-2"></i><span class="text-primary">{{ len $posts }}</span> {{i18n "posts_by"}}</a>
+          {{end}}
+          <ul class="list-inline social-icons">
+            {{ range .Params.social }}
+            <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{.icon }}"></i></a></li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

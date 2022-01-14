@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<div class="py-3"></div>
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10 mb-4">
+        <h1 class="h2 mb-5">{{i18n "search_for"}} 
+          <mark>
+            <script>
+              var keyword = (window.location.search).substr(3);
+              var result = keyword.replace("+", " ");
+              document.write(result);
+            </script>
+          </mark>
+        </h1>
+      </div>
+      <div class="col-lg-10">
+        <div id="search-results"></div>
+        <script id="search-result-template" type="text/x-js-template">
+          <article class="card mb-4" id="summary-${key}">
+            <div class="row card-body">
+              <div class="col-md-4 mb-4 mb-md-0">
+                ${ isset image }<img src="${image}" class="card-img" alt="post-thumb" style="height:200px; object-fit: cover;"> ${end}
+              </div>
+              <div class="col-md-8">
+                <h4 class="mb-3"><a class="post-title" href="${link}">${title}</a></h4>
+                <p>${snippet}</p>
+                ${ isset categories } <p class="mb-2">{{ i18n "categories" }} : ${categories}</p> ${end}
+                ${ isset tags }<p>{{i18n "tags"}} : ${tags}</p> ${end}
+                </ul>
+              </div>
+            </div>
+          </article>
+        </script>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- search index -->
+<script>var indexURL = {{ "index.json" | absLangURL }}</script>
+
+{{ end }}

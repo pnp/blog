@@ -1,0 +1,129 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: heading
+  label: Blog Post
+- type: document
+  path: exampleSite/content/english/post/_index.md
+  label: Blog Page (en)
+- type: document
+  path: exampleSite/content/french/post/_index.md
+  label: Blog Page (fr)
+- type: directory
+  path: exampleSite/content/english/post
+  label: Post (en)
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - post
+- type: directory
+  path: exampleSite/content/french/post
+  label: Post (fr)
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - post
+- type: heading
+  label: Author
+- type: document
+  path: exampleSite/content/english/author/_index.md
+  label: Author Page (en)
+- type: document
+  path: exampleSite/content/french/author/_index.md
+  label: Author Page (fr)
+- type: directory
+  path: exampleSite/content/english/author
+  label: Author (en)
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - author
+- type: directory
+  path: exampleSite/content/french/author
+  label: Author (fr)
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - author
+- type: heading
+  label: About
+- type: document
+  path: exampleSite/content/english/about-me.md
+  label: About Me (en)
+- type: document
+  path: exampleSite/content/french/about-me.md
+  label: About Me (fr)
+- type: document
+  path: exampleSite/content/english/about-us.md
+  label: About Us (en)
+- type: document
+  path: exampleSite/content/french/about-us.md
+  label: About Us (fr)
+- type: heading
+  label: Contact
+- type: document
+  path: exampleSite/content/english/contact.md
+  label: Contact Page (en)
+- type: document
+  path: exampleSite/content/french/contact.md
+  label: Contact Page (fr)
+- type: heading
+  label: All Pages
+- type: directory
+  path: exampleSite/content/english
+  label: All Page (en)
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/french
+  label: All Page (fr)
+  create: all
+  match: "**/*"
+- type: heading
+  label: Configuration
+- type: document
+  path: exampleSite/config/_default/config.toml
+  label: Configuration
+- type: document
+  path: exampleSite/config/_default/params.toml
+  label: Parameters
+- type: document
+  path: config.toml
+  label: Variables & Plugins
+- type: document
+  path: exampleSite/config/_default/languages.toml
+  label: Languages
+- type: document
+  path: exampleSite/config/_default/menus.en.toml
+  label: Menu (en)
+- type: document
+  path: exampleSite/config/_default/menus.fr.toml
+  label: Menu (fr)
+- type: directory
+  path: exampleSite/i18n
+  label: i18n Translations
+  create: documents
+  match: "**/*"
+upload_dir: exampleSite/assets/images
+public_path: "/images"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.74.3
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+version: 0.74.3

@@ -1,0 +1,70 @@
+{{ "<!-- navigation -->" | safeHTML }}
+<header class="navigation fixed-top">
+  <div class="container">
+    <!-- navbar -->
+    <nav class="navbar navbar-expand-lg navbar-white">
+      <a class="navbar-brand order-1" href="{{ site.BaseURL | relLangURL }}">
+        {{ partial "logo.html" . }}
+      </a>
+
+      {{ if eq site.Params.menu_align "left"}}
+      {{ .Scratch.Set "align" "mr-auto"}}
+      {{ .Scratch.Set "textAlign" "text-left"}}
+      {{ else if eq site.Params.menu_align "right"}}
+      {{ .Scratch.Set "align" "ml-auto"}}
+      {{ .Scratch.Set "textAlign" "text-right"}}
+      {{ else if eq site.Params.menu_align "center"}}
+      {{ .Scratch.Set "align" "mx-auto"}}
+      {{ .Scratch.Set "textAlign" "text-center"}}
+      {{ end }}
+      <div class="collapse navbar-collapse {{.Scratch.Get `textAlign`}} order-lg-2 order-3" id="navigation">
+        <ul class="navbar-nav {{.Scratch.Get `align`}}">
+          <!-- menu active -->
+          {{ $currentPage := . }}
+          {{ range site.Menus.main }}
+          {{ $menuURL := .URL | absLangURL }}
+          {{ $pageURL:= $currentPage.Permalink | absLangURL }}
+          {{ $active := eq $menuURL $pageURL }}
+          {{ if .HasChildren }}
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+              aria-expanded="false">
+              {{ .Name }} <i class="fas fa-angle-down ml-1"></i>
+            </a>
+            <div class="dropdown-menu">
+              {{ range .Children }}
+              <a class="dropdown-item " {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
+              href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{.URL}}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+              {{ end }}
+            </div>
+          </li>
+          {{ else }}
+          <li class="nav-item ">
+            <a class="nav-link" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
+            href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{.URL}}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+
+      <div class="order-2 order-lg-3 d-flex align-items-center">
+
+
+        {{ if site.Params.search }}
+        {{ "<!-- search -->" | safeHTML }}
+        <form class="search-bar" action="{{ `search`| relLangURL }}">
+          <input id="search-query" name="s" type="search"
+            placeholder="{{ i18n `search_placeholder`}}">
+        </form>
+        {{ end }}
+
+        <!-- collapse button -->
+        <button class="navbar-toggler border-0 order-1" type="button" data-toggle="collapse" data-target="#navigation" aria-label="Navbar Button">
+          <i class="fas fa-bars"></i>
+        </button>
+      </div>
+    </nav>
+  </div>
+</header>
+{{ "<!-- /navigation -->" | safeHTML }}

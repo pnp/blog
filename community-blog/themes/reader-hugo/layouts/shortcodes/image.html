@@ -1,0 +1,26 @@
+{{ $imagePath:= (.Get "src") }}
+{{ if findRE `^http` $imagePath }}
+{{ .Scratch.Set "image" $imagePath }}
+{{ else }}
+{{ if fileExists (add `assets/` $imagePath) }}
+{{ $img:= resources.Get $imagePath }}
+
+{{ $image_ext := path.Ext $img }}
+{{ $image_width := $img.Width }}
+
+{{ if and (gt $img.Width 750) (ne $image_ext ".gif") }}
+{{ $img_webp:= $img.Resize "750x webp" }}
+{{ .Scratch.Set "image" $img_webp.RelPermalink }}
+
+{{ else if and (lt $img.Width 750) (ne $image_ext ".gif") }}
+
+{{ $option := add (add (string $image_width) "x") " webp" }}
+{{ .Scratch.Set "image" ($img.Resize $option).RelPermalink }}
+
+{{ else }}
+{{ .Scratch.Set "image" $img.RelPermalink }}
+{{ end }}
+
+{{ end }}
+{{ end }}
+<img loading="lazy" decoding="async" class="w-100 d-block mb-4" src="{{.Scratch.Get `image`}}" alt="{{.Get `alt`}}">

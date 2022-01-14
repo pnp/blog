@@ -1,0 +1,112 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.png"
+# use `px` or `x` with logo_width, example: "100px".
+# Note: logo_width is not work with .svg file
+logo_width = "100x"
+# logo text will only show when logo is missing.
+logo_text = "Microsoft 365 PnP"
+ # menu align available option (left, right, or center )
+menu_align = "center"
+
+# OpenGraph / Twitter Card metadata
+description = "This is meta description"
+author = "Themefisher"
+# this image will be used as fallback if a page has no image of its own
+image = "images/logo.png"
+
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# Go to https://formspree.io, and create an account by click on signup button. Now verify your email address by click on varify button in the mail you got in your inbox. form action will looks like this contact_form_action = "https://formspree.io/your.name@email.com/" 
+
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script= ""
+
+# search
+search = true
+# banner
+banner = true
+# featured
+featured_post = true
+# layout
+post_layout= "full" # layout value (full, grid or list)
+# Sidebar
+sidebar = "right" # sidebar value (left, right or false)
+# main taxonomy that will show at header and post card
+main_taxonomy = "tag" # optional value (tag or category)
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# background shapes
+[background_shapes]
+enable = false
+# this image will be used as banner background
+banner_bg_image = "images/backgrounds/banner-bg.svg"
+# this image will be used as header background
+header_bg_image = "images/backgrounds/header-bg.svg"
+# this image will be used as wave background
+wave_bg_image = "images/backgrounds/wave-bg.svg"
+# this image will be used as footer background
+footer_bg_image = "images/backgrounds/footer-bg.svg"
+
+# Subscription
+[subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+# Instagram feed
+[instafeed]
+enable = false
+access_token = "" # place your instagram access token here
+
+# promotion
+[promotion]
+title = "M365 Chicago"
+content = "JOIN US ON FRIDAY, JANUARY 14, 2022!"
+image = "images/m365chicago.jpg"
+button_label = "Register"
+button_link = "http://m365chicago.com/"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+
+######################## sidebar widgets #########################
+[widgets]
+sidebar = ["authors", "promotion",  "subscription", "categories", "recent-post", "tags", "social"]
+# available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
+
+
+############################# social site ########################
+[[social]]
+name = "facebook"
+icon = "fab fa-facebook" # Fontawesome Icons : https://fontawesome.com/icons
+link = "https://www.facebook.com/OfficeDevPnP/"
+
+[[social]]
+name = "twitter"
+icon = "fab fa-twitter" # Fontawesome Icons : https://fontawesome.com/icons
+link = "https://twitter.com/m365pnp"
+
+[[social]]
+name = "linkedin"
+icon = "fab fa-linkedin-in" # Fontawesome Icons : https://fontawesome.com/icons
+link = "https://www.linkedin.com/company/m365pnp"
+
+[[social]]
+name = "github"
+icon = "fab fa-github" # Fontawesome Icons : https://fontawesome.com/icons
+link = "https://github.com/PnP"
+
+[[social]]
+name = "youtube"
+icon = "fab fa-youtube" # Fontawesome Icons : https://fontawesome.com/icons
+link = "https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w"

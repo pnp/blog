@@ -1,0 +1,1935 @@
+::: {#E80-007-3 .ServiceNodeInfoHeader}
+:::
+
+::: lia-page
+::: MinimumWidthContainer
+::: min-width-wrapper
+::: min-width
+::: lia-content
+::: {.lia-quilt .lia-quilt-blog-article-page .lia-quilt-layout-two-column-main-side-18-6 .lia-top-quilt}
+::: {.lia-quilt-row .lia-quilt-row-header}
+::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-header}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
+::: {.lia-quilt .lia-quilt-header .lia-quilt-layout-header .lia-component-quilt-header}
+::: {.lia-quilt-row .lia-quilt-row-main-header}
+::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-header}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
+::: {#cookie-banner .cookie-markup}
+:::
+
+::: {#readerAssistMessages .section .live-region aria-live="assertive" role="alert"}
+:::
+
+::: community-header-blank
+:::
+
+::: community-header-component
+::: community-header-wrapper
+::: container
+::: {#community-menu-wrapper-menu .menu-link}
+[](javascript:void(0)){#community-menu-wrapper-menu-link}
+
+::: {#community-menu-wrapper-menu-icon .menu-icon title=""}
+:::
+:::
+
+[![](https://techcommunity.microsoft.com/html/@6005EEFEC6E5ECADBBFC249DFA7D38A8/assets/Content/Images/GlobalHeader/MicrosoftLogo.png){.c-image
+itemprop="logo" role="presentation" aria-hidden="true"}
+[Microsoft]{role="presentation"
+aria-hidden="true"}](https://www.microsoft.com){#uhfLogo .c-logo
+.c-sgl-stk-uhfLogo}
+
+::: {.c-show-pipe aria-hidden="true"}
+:::
+
+[Tech Community](/){#uhfCatLogo .c-logo .c-cat-logo}
+
+::: container-inner
+::: {#community-menu-wrapper .community-menu-wrapper .community-menu-hidden-init}
+::: {#community-menu-wrapper-header-bar .community-header-bar}
+[](#){.community-header-button}
+
+::: community-menu-item-icon
+:::
+:::
+
+::: {#community-menu-wrapper-list .community-menu-list}
+::: {.community-menu-item .tab-homepage}
+[](/)
+
+::: {.mdl2-glyph .community-menu-item-icon}
+
+:::
+
+::: community-menu-item-title
+Home
+:::
+:::
+
+::: {.community-menu-item .community-menu-dropdown}
+[](#){.community-menu-item-desktop-view}
+
+::: {.c-glyph .community-menu-item-icon}
+
+:::
+
+::: community-menu-item-title-with-dropdownicon
+Community Hubs
+:::
+
+[](/t5/communities/ct-p/communities#category-filter-button-all){.community-menu-item-mobile-view
+.community-menu-item-allow-link}
+
+::: {.c-glyph .community-menu-item-icon}
+
+:::
+
+::: community-menu-item-title-with-dropdownicon
+Community Hubs
+:::
+
+::: {.dropdown .dropdown-communities .dropdown-events .dropdown-primary-nav}
+-   [Community Hubs
+    Home](/t5/communities/ct-p/communities#category-filter-button-all){#communities_home}
+-   [Products](/t5/communities/ct-p/communities#category-filter-button-products-services){#communities_products}
+-   [Special
+    Topics](/t5/communities/ct-p/communities#category-filter-button-solutions){#communities_special}
+-   [Video Hub](/t5/video-hub/ct-p/VideoHub){#communities_videohub}
+
+::: custom-community-hubs-menu-wrapper
+::: custom-community-hubs-menu-close
+Close
+:::
+
+::: custom-community-hubs-menu-content
+::: menu
+## [ Products]{#menu-link-prod title="Products"} [(72)]{.small} {#menu-products .active}
+
+## [ Special Topics ]{#menu-link-serv title="Special Topics"} [(41)]{.small} {#menu-services}
+
+## [ Video Hub ]{#menu-link-videohub title="VideoHub"} [(810)]{.small} {#menu-videohub}
+:::
+
+::: {#products-data .dataBlock .visible key="products"}
+::: {.hubs style="width: 600px"}
+### Most Active Hubs
+
+::: {.data style="flex-direction: column; height:310px"}
+<div>
+
+[Microsoft
+Teams](/t5/microsoft-teams/ct-p/MicrosoftTeams "Microsoft Teams")
+
+</div>
+
+<div>
+
+[Excel](/t5/excel/ct-p/Excel_Cat "Excel")
+
+</div>
+
+<div>
+
+[Exchange](/t5/exchange/ct-p/Exchange "Exchange")
+
+</div>
+
+<div>
+
+[SharePoint](/t5/sharepoint/ct-p/SharePoint "SharePoint")
+
+</div>
+
+<div>
+
+[Windows](/t5/windows-10/ct-p/Windows10 "Windows")
+
+</div>
+
+<div>
+
+[Office 365](/t5/office-365/ct-p/Office365 "Office 365")
+
+</div>
+
+<div>
+
+[Security, Compliance and
+Identity](/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance "Security, Compliance and Identity")
+
+</div>
+
+<div>
+
+[Windows
+Server](/t5/windows-server/ct-p/Windows-Server "Windows Server")
+
+</div>
+
+<div>
+
+[Microsoft Edge
+Insider](/t5/microsoft-edge-insider/ct-p/MicrosoftEdgeInsider "Microsoft Edge Insider")
+
+</div>
+
+<div>
+
+[Azure](/t5/azure-community/ct-p/Azure "Azure")
+
+</div>
+
+<div>
+
+[Microsoft 365](/t5/microsoft-365/ct-p/microsoft365 "Microsoft 365")
+
+</div>
+:::
+:::
+
+::: boxes
+[](/t5/azure-databases/ct-p/AzureDatabases "Azure Databases")
+
+::: {.box style="background-image: url('https://techcommunity.microsoft.com/html/@D05C7AA27EF9EB31779410FCB608734A/assets/bg-pink.png')"}
+::: title
+Azure Databases
+:::
+
+::: description
+Fully managed intelligent database services.
+:::
+:::
+
+[](/t5/project-bonsai/ct-p/ProjectBonsai "Autonomous Systems")
+
+::: {.box style="background-image: url('https://techcommunity.microsoft.com/html/@FC8AD6AC9A7EBDA58D7E6304E799EA40/assets/bg-orange.png')"}
+::: title
+Autonomous Systems
+:::
+
+::: description
+Create and optimise intelligence for industrial control systems.
+:::
+:::
+
+[](/t5/yammer/ct-p/Yammer "Yammer")
+
+::: {.box style="background-image: url('https://techcommunity.microsoft.com/html/@CF0293463F27444B05A952A3C4B6BF88/assets/bg-light-blue.png')"}
+::: title
+Yammer
+:::
+
+::: description
+Connect and engage across your organization.
+:::
+:::
+:::
+:::
+
+::: {#services-data .dataBlock key="services"}
+::: {.hubs style="width: 600px"}
+### Most Active Hubs
+
+::: {.data style="flex-direction: column; height:310px"}
+<div>
+
+[ITOps Talk](/t5/itops-talk/ct-p/ITOpsTalk "ITOps Talk")
+
+</div>
+
+<div>
+
+[Education
+Sector](/t5/education-sector/ct-p/EducationSector "Education Sector")
+
+</div>
+
+<div>
+
+[Microsoft
+Learn](/t5/microsoft-learn/ct-p/MicrosoftLearn "Microsoft Learn")
+
+</div>
+
+<div>
+
+[Microsoft
+Localization](/t5/microsoft-localization/ct-p/MicrosoftTranslation "Microsoft Localization")
+
+</div>
+
+<div>
+
+[Microsoft 365
+PnP](/t5/microsoft-365-pnp/ct-p/Microsoft365PnP "Microsoft 365 PnP")
+
+</div>
+
+<div>
+
+[Healthcare and Life
+Sciences](/t5/healthcare-and-life-sciences/ct-p/HealthcareAndLifeSciences "Healthcare and Life Sciences")
+
+</div>
+
+<div>
+
+[Public Sector](/t5/public-sector/ct-p/PublicSector "Public Sector")
+
+</div>
+
+<div>
+
+[Internet of Things
+(IoT)](/t5/internet-of-things-iot/ct-p/IoT "Internet of Things (IoT)")
+
+</div>
+
+<div>
+
+[Mixed
+Reality](/t5/mixed-reality/ct-p/MicrosoftMixedReality "Mixed Reality")
+
+</div>
+
+<div>
+
+[Enabling Remote
+Work](/t5/enabling-remote-work/ct-p/RemoteWork "Enabling Remote Work")
+
+</div>
+
+<div>
+
+[Small and Medium
+Business](/t5/small-and-medium-businesses/ct-p/SMB "Small and Medium Business")
+
+</div>
+:::
+:::
+
+::: boxes
+[](/t5/humans-of-it/ct-p/HumansofIT "Humans of IT")
+
+::: {.box style="background-image: url('https://techcommunity.microsoft.com/html/@A5C0BDB1059C6D1F73B8097424B50ED0/assets/bg-purple.png')"}
+::: title
+Humans of IT
+:::
+
+::: description
+Empowering technologists to achieve more by humanizing tech.
+:::
+:::
+
+[](/t5/green-tech/ct-p/GreenTech "Green Tech")
+
+::: {.box style="background-image: url('https://cdn.techcommunity.microsoft.com/lithium/MicrosoftLearn/Learn-Blue.png')"}
+::: title
+Green Tech
+:::
+
+::: description
+Raise awareness about sustainability in the tech sector
+:::
+:::
+
+[](/t5/mvp-award-program/ct-p/MVPAwardProgram "MVP Award Program")
+
+::: {.box style="background-image: url('https://techcommunity.microsoft.com/html/@02C247197A08F2DB06040AC786E1BF01/assets/bg-green.png')"}
+::: title
+MVP Award Program
+:::
+
+::: description
+Find out more about the Microsoft MVP Award Program.
+:::
+:::
+:::
+:::
+
+::: {#VideoHub-Data .dataBlock key="VideoHub"}
+::: {.hubs style="width: 838px"}
+### Video Hub
+
+::: {.data style="flex-direction: row; height:fit-content"}
+<div>
+
+[Azure](https://aka.ms/VideoHub/Azure "Azure")
+
+</div>
+
+<div>
+
+[Exchange](https://aka.ms/VideoHub/Exchange "Exchange")
+
+</div>
+
+<div>
+
+[Microsoft 365](https://aka.ms/VideoHub/Microsoft365 "Microsoft 365")
+
+</div>
+
+<div>
+
+[Microsoft 365
+Business](https://aka.ms/VideoHub/Microsoft365Business "Microsoft 365 Business")
+
+</div>
+
+<div>
+
+[Microsoft 365
+Enterprise](https://aka.ms/VideoHub/Microsoft365Business "Microsoft 365 Enterprise")
+
+</div>
+
+<div>
+
+[Microsoft Edge](https://aka.ms/VideoHub/MicrosoftEdge "Microsoft Edge")
+
+</div>
+
+<div>
+
+[Microsoft Outlook](https://aka.ms/VideoHub/Outlook "Microsoft Outlook")
+
+</div>
+
+<div>
+
+[Microsoft
+Teams](https://aka.ms/VideoHub/MicrosoftTeams "Microsoft Teams")
+
+</div>
+
+<div>
+
+[Security](https://aka.ms/VideoHub/Security "Security")
+
+</div>
+
+<div>
+
+[SharePoint](https://aka.ms/VideoHub/SharePoint "SharePoint")
+
+</div>
+
+<div>
+
+[Windows](https://aka.ms/VideoHub/Windows "Windows")
+
+</div>
+:::
+:::
+:::
+:::
+
+::: custom-community-hubs-menu-footer
+[Browse All Community
+Hubs](/t5/Communities/ct-p/communities){#browse-all-communities}
+:::
+:::
+:::
+:::
+
+::: {.community-menu-item .my-favorites}
+[](/t5/custom/page/page-id/Blogs){.community-menu-item-desktop-view}
+
+::: {.mdl2-glyph .community-menu-item-icon}
+
+:::
+
+::: community-menu-item-title
+Blogs
+:::
+
+[](/t5/custom/page/page-id/Blogs){.community-menu-item-mobile-view}
+
+::: {.mdl2-glyph .community-menu-item-icon}
+
+:::
+
+::: community-menu-item-title
+Blogs
+:::
+:::
+
+::: {.community-menu-item .tab-events .community-menu-dropdown}
+[](#){.community-menu-item-desktop-view}
+
+::: {.c-glyph .community-menu-item-icon}
+
+:::
+
+::: community-menu-item-title-with-dropdownicon
+Events
+:::
+
+[](#){.community-menu-item-mobile-view}
+
+::: {.c-glyph .community-menu-item-icon}
+
+:::
+
+::: community-menu-item-title-with-dropdownicon
+Events
+:::
+
+::: {.dropdown .dropdown-events .dropdown-primary-nav}
+-   [Events Home](/t5/Events/ct-p/Events)
+-   [Microsoft Ignite](https://myignite.microsoft.com/)
+-   [Microsoft Build](https://mybuild.microsoft.com/)
+-   [Community Events](/t5/Community-Events/ct-p/CommunityEvents)
+:::
+:::
+
+::: {.community-menu-item .tab-microsoft-learning .community-menu-dropdown}
+[](#){.community-menu-item-desktop-view}
+
+::: {.grad .community-menu-item-icon}
+:::
+
+::: community-menu-item-title-with-dropdownicon
+Microsoft Learn
+:::
+
+[](#){.community-menu-item-mobile-view}
+
+::: {.grad .community-menu-item-icon}
+:::
+
+::: community-menu-item-title-with-dropdownicon
+Microsoft Learn
+:::
+
+::: {.dropdown .dropdown-events .dropdown-primary-nav}
+-   [Home](%20https://docs.microsoft.com/learn/){.ms-learning-home-link
+    .community-menu-item-title}
+-   [Community](/t5/microsoft-learn/bd-p/MicrosoftLearn)
+-   [Blog](/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)
+-   [Azure](https://docs.microsoft.com/learn/azure/?WT.mc_id=techcom_header-webpage-m365)
+-   [Dynamics
+    365](https://docs.microsoft.com/learn/dynamics365/?WT.mc_id=techcom_header-webpage-m365)
+-   [Microsoft
+    365](https://docs.microsoft.com/learn/m365/?wt.mc_id=techcom_header-webpage-m365)
+-   [Security, Compliance &
+    Identity](https://docs.microsoft.com/learn/topics/sci/?wt.mc_id=techcom_header-webpage-m365)
+-   [Power
+    Platform](https://docs.microsoft.com/learn/powerplatform/?wt.mc_id=techcom_header-webpage-powerplatform)
+-   [Github](https://docs.microsoft.com/learn/github/?wt.mc_id=techcom_header-webpage-github)
+-   [Teams](https://docs.microsoft.com/learn/teams/?wt.mc_id=techcom_header-webpage-teams)
+-   [.NET](https://docs.microsoft.com/learn/dotnet/?wt.mc_id=techcom_header-webpage-dotnet)
+:::
+:::
+
+::: {.community-menu-item .tab-info-center}
+[](/t5/Community-Info-Center/ct-p/Community-Info-Center){.community-menu-item-desktop-view}
+
+::: {.c-glyph .community-menu-item-icon}
+
+:::
+
+::: community-menu-item-title
+Lounge
+:::
+
+[](/t5/Community-Info-Center/ct-p/Community-Info-Center){.community-menu-item-mobile-view}
+
+::: {.c-glyph .community-menu-item-icon}
+
+:::
+
+::: community-menu-item-title
+Lounge
+:::
+:::
+:::
+
+-   [[764K]{#community-menu-wrapper-vitality-stat-count-1
+    .community-menu-vitality-stat-count} [
+    Members]{#community-menu-wrapper-vitality-stat-title-1
+    .community-menu-vitality-stat-title}]{#community-menu-wrapper-vitality-stat-item-1}
+-   [[2,758]{#community-menu-wrapper-vitality-stat-count-2
+    .community-menu-vitality-stat-count} [
+    Online]{#community-menu-wrapper-vitality-stat-title-2
+    .community-menu-vitality-stat-title}]{#community-menu-wrapper-vitality-stat-item-2}
+-   [[2M]{#community-menu-wrapper-vitality-stat-count-3
+    .community-menu-vitality-stat-count} [
+    Discussions]{#community-menu-wrapper-vitality-stat-title-3
+    .community-menu-vitality-stat-title}]{#community-menu-wrapper-vitality-stat-item-3}
+:::
+
+::: nav-right
+::: {#search_container}
+::: {#search_btn}
+Search []{.btn-search}
+:::
+
+::: {#search_slider .hidden}
+::: custom-lia-search
+::: {#lia-searchformV32_1aead139346ba1 .SearchForm .lia-search-form-wrapper .lia-mode-default .lia-component-common-widget-search-form}
+::: lia-inline-ajax-feedback
+::: {#ajaxfeedback_1aead139346ba1 .AjaxFeedback}
+:::
+:::
+
+::: {#searchautocompletetoggle_1aead139346ba1}
+::: lia-inline-ajax-feedback
+::: {#ajaxfeedback_1aead139346ba1_0 .AjaxFeedback}
+:::
+:::
+
+::: t-invisible
+:::
+
+::: lia-inline-ajax-feedback
+::: {#feedback_1aead139346ba1 .AjaxFeedback}
+:::
+:::
+
+[ [ []{.lia-button-wrapper .lia-button-wrapper-secondary
+.lia-button-wrapper-searchForm-action} ]{.lia-search-input-field}
+]{.lia-search-input-wrapper} [cancel]{.lia-cancel-search}
+
+::: {.search-autocomplete-toggle-link .lia-js-hidden}
+[Turn on
+suggestions](https://techcommunity.microsoft.com/t5/blogs/v2/blogarticlepage.enableautocomplete:enableautocomplete?t:ac=blog-id/microsoft_365blog/article-id/2895&t:cp=action/contributions/searchactions){#enableAutoComplete_1aead139346ba1
+.lia-link-navigation .auto-complete-toggle-on
+.lia-link-ticket-post-action
+.lia-component-search-action-enable-auto-complete} [
+[[]{#display_1aead139346ba1 .lia-img-icon-help .lia-fa-icon .lia-fa-help
+.lia-fa
+alt="Auto-suggest helps you quickly narrow down your search results by suggesting possible matches as you type."
+aria-label="Help Icon" role="img"}](#){#link_1aead139346ba1
+.lia-link-navigation .help-icon .lia-tooltip-trigger}]{.HelpIcon}
+
+::: {#link_1aead139346ba1_0-tooltip-element .lia-content .lia-tooltip-pos-bottom-left .lia-panel-tooltip-wrapper role="alertdialog"}
+::: lia-tooltip-arrow
+:::
+
+::: lia-panel-tooltip
+::: content
+Auto-suggest helps you quickly narrow down your search results by
+suggesting possible matches as you type.
+:::
+:::
+:::
+:::
+:::
+
+::: spell-check-showing-result
+Showing results for []{#showingResult_1aead139346ba1
+.lia-link-navigation .show-results-for-link .lia-link-disabled}
+[](#){#showingMoreResult_1aead139346ba1 .lia-link-navigation
+.more-synonym-search-results-for-link} [
+]{.all-results-for-synonym-search}
+:::
+
+<div>
+
+[ Show [](#){#synonymSearchInstead_1aead139346ba1 .lia-link-navigation
+.synonym-search-instead-for-link} only  ]{.synonym-search-instead
+.lia-js-hidden} [ \| ]{.spell-check-and-synonym-search-instead
+.lia-js-hidden} [ Search instead for [](#){#searchInstead_1aead139346ba1
+.lia-link-navigation .search-instead-for-link}
+]{.spell-check-search-instead}
+
+</div>
+
+::: {.spell-check-do-you-mean .lia-component-search-widget-spellcheck}
+Did you mean: [](#){#doYouMean_1aead139346ba1 .lia-link-navigation
+.do-you-mean-link}
+:::
+:::
+:::
+:::
+:::
+
+::: sign-in-wrapper
+[Sign
+In](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&referer=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fmicrosoft-365-blog%2Fnew-shapesheet-cells-and-functions-in-visio-2010%2Fba-p%2F237582)
+:::
+
+::: notifications
+::: notify-icon
+[](/t5/notificationfeed/page)
+
+::: lia-notifications-messages-aggregate
+:::
+:::
+
+::: email-icon
+[](/t5/notes/privatenotespage)
+
+::: lia-notifications-messages-aggregate
+:::
+:::
+:::
+
+::: lia-component-common-widget-slide-out-user-menu
+::: {.lia-user-navigation-sign-in .lia-component-users-action-login-with-avatar}
+::: user-navigation-user-profile
+[Sign
+In](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&referer=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fmicrosoft-365-blog%2Fnew-shapesheet-cells-and-functions-in-visio-2010%2Fba-p%2F237582){#link_1_1aead13a670f37
+.lia-link-navigation .login-link .lia-authentication-link}
+:::
+
+::: {.UserAvatar .lia-user-avatar}
+[](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&referer=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fmicrosoft-365-blog%2Fnew-shapesheet-cells-and-functions-in-visio-2010%2Fba-p%2F237582){#link_2_1aead13a670f37
+.lia-link-navigation .login-link .lia-authentication-link}
+
+::: lia-anonymous-profile-icon
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: notifications-overlay-notif
+:::
+
+::: notifications-overlay-mail
+:::
+
+::: notifications-overlay-favorites
+:::
+:::
+:::
+:::
+
+::: {.lia-quilt-row .lia-quilt-row-sub-header}
+::: {.lia-quilt-column .lia-quilt-column-18 .lia-quilt-column-left .lia-quilt-column-breadcrumb .lia-mark-empty}
+:::
+
+::: {.lia-quilt-column .lia-quilt-column-06 .lia-quilt-column-right .lia-quilt-column-search-content}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-right}
+::: custom-lia-search
+::: {#lia-searchformV32 .SearchForm .lia-search-form-wrapper .lia-mode-default .lia-component-common-widget-search-form}
+::: lia-inline-ajax-feedback
+::: {#ajaxfeedback .AjaxFeedback}
+:::
+:::
+
+::: {#searchautocompletetoggle}
+::: lia-inline-ajax-feedback
+::: {#ajaxfeedback_0 .AjaxFeedback}
+:::
+:::
+
+::: t-invisible
+:::
+
+::: lia-inline-ajax-feedback
+::: {#feedback .AjaxFeedback}
+:::
+:::
+
+[ [ []{.lia-button-wrapper .lia-button-wrapper-secondary
+.lia-button-wrapper-searchForm-action} ]{.lia-search-input-field}
+]{.lia-search-input-wrapper} [cancel]{.lia-cancel-search}
+
+::: {.search-autocomplete-toggle-link .lia-js-hidden}
+[Turn on
+suggestions](https://techcommunity.microsoft.com/t5/blogs/v2/blogarticlepage.enableautocomplete:enableautocomplete?t:ac=blog-id/microsoft_365blog/article-id/2895&t:cp=action/contributions/searchactions){#enableAutoComplete
+.lia-link-navigation .auto-complete-toggle-on
+.lia-link-ticket-post-action
+.lia-component-search-action-enable-auto-complete} [ [[]{#display
+.lia-img-icon-help .lia-fa-icon .lia-fa-help .lia-fa
+alt="Auto-suggest helps you quickly narrow down your search results by suggesting possible matches as you type."
+aria-label="Help Icon" role="img"}](#){#link_0 .lia-link-navigation
+.help-icon .lia-tooltip-trigger}]{.HelpIcon}
+
+::: {#link_1-tooltip-element .lia-content .lia-tooltip-pos-bottom-left .lia-panel-tooltip-wrapper role="alertdialog"}
+::: lia-tooltip-arrow
+:::
+
+::: lia-panel-tooltip
+::: content
+Auto-suggest helps you quickly narrow down your search results by
+suggesting possible matches as you type.
+:::
+:::
+:::
+:::
+:::
+
+::: spell-check-showing-result
+Showing results for []{#showingResult .lia-link-navigation
+.show-results-for-link .lia-link-disabled} [](#){#showingMoreResult
+.lia-link-navigation .more-synonym-search-results-for-link} [
+]{.all-results-for-synonym-search}
+:::
+
+<div>
+
+[ Show [](#){#synonymSearchInstead .lia-link-navigation
+.synonym-search-instead-for-link} only  ]{.synonym-search-instead
+.lia-js-hidden} [ \| ]{.spell-check-and-synonym-search-instead
+.lia-js-hidden} [ Search instead for [](#){#searchInstead
+.lia-link-navigation .search-instead-for-link}
+]{.spell-check-search-instead}
+
+</div>
+
+::: {.spell-check-do-you-mean .lia-component-search-widget-spellcheck}
+Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {.lia-quilt-row .lia-quilt-row-feedback}
+::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-feedback}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
+:::
+:::
+:::
+:::
+
+::: {.custom-nda-blog-article-page-header-banner .lia-mark-empty}
+:::
+
+::: {.community-live-events-banner-blog-article-page-wrapper .lia-mark-empty}
+:::
+
+::: custom-blog-article-page-header-wrapper
+::: custom-common-widget-breadcrumb
+::: {.custom-common-widget-breadcrumb-wrapper .hidden}
+[Home](/){.BreadCrumb .home-nav-link}
+
+::: {.BreadCrumb .crumb-line .lia-breadcrumb .lia-component-common-widget-breadcrumb aria-label="breadcrumbs" role="navigation"}
+-   [Home](/){#link_1aead13ce4cf61 .lia-link-navigation .crumb-community
+    .lia-breadcrumb-community .lia-breadcrumb-forum}
+-    []{#display_1aead13ce4cf61 .lia-img-icon-list-separator-breadcrumb
+    .lia-fa-icon .lia-fa-list .lia-fa-separator .lia-fa-breadcrumb
+    .lia-fa alt="" aria-label="" role="img"}
+-   [Microsoft
+    365](/t5/microsoft-365/ct-p/microsoft365){#link_1aead13ce4cf61_0
+    .lia-link-navigation .crumb-category .lia-breadcrumb-category
+    .lia-breadcrumb-forum}
+-    []{#display_1aead13ce4cf61_0
+    .lia-img-icon-list-separator-breadcrumb .lia-fa-icon .lia-fa-list
+    .lia-fa-separator .lia-fa-breadcrumb .lia-fa alt="" aria-label=""
+    role="img"}
+-   [Microsoft 365
+    Blog](/t5/microsoft-365-blog/bg-p/microsoft_365blog){#link_1aead13ce4cf61_1
+    .lia-link-navigation .crumb-board .lia-breadcrumb-board
+    .lia-breadcrumb-forum}
+-    []{#display_1aead13ce4cf61_1
+    .lia-img-icon-list-separator-breadcrumb .lia-fa-icon .lia-fa-list
+    .lia-fa-separator .lia-fa-breadcrumb .lia-fa alt="" aria-label=""
+    role="img"}
+-   [New ShapeSheet Cells and Functions in Visio
+    2010]{#link_1aead13ce4cf61_2 .lia-link-navigation .child-thread
+    .lia-link-disabled aria-disabled="true" disabled="true" role="link"
+    aria-label="New ShapeSheet Cells and Functions in Visio 2010"}
+:::
+:::
+:::
+
+::: {.lia-menu-bar .lia-discussion-page-discussion-navigator .lia-component-article-navigator}
+::: lia-decoration-border-menu-bar
+::: lia-decoration-border-menu-bar-top
+<div>
+
+</div>
+:::
+
+::: lia-decoration-border-menu-bar-content
+<div>
+
+::: lia-menu-bar-buttons
+:::
+
+::: {#threadnavigator .lia-paging-full-wrapper}
+-   [[]{.lia-paging-page-arrow} [Back to
+    Blog]{.lia-paging-page-link}](/t5/microsoft-365-blog/bg-p/microsoft_365blog "Microsoft 365 Blog"){#link_2
+    .lia-link-navigation}
+-   [[]{.lia-paging-page-arrow} [Newer
+    Article]{.lia-paging-page-link}](/t5/microsoft-365-blog/custom-containers-lists-and-callouts-in-visio-2010/ba-p/237586 "Custom Containers, Lists and Callouts in Visio 2010"){#link_3
+    .lia-link-navigation}
+-   [[Older Article]{.lia-paging-page-link}
+    []{.lia-paging-page-arrow}](/t5/microsoft-365-blog/shapesheet-formula-autocomplete-amp-other-improvements/ba-p/237571 "ShapeSheet Formula AutoComplete & Other Improvements"){#link_4
+    .lia-link-navigation}
+:::
+
+</div>
+:::
+
+::: lia-decoration-border-menu-bar-bottom
+<div>
+
+</div>
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {.lia-quilt-row .lia-quilt-row-main}
+::: {.lia-quilt-column .lia-quilt-column-18 .lia-quilt-column-left .lia-quilt-column-main-content}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-left}
+::: ba-subject-header-wrapper
+::: ba-subject-wrapper
+::: ba-title
+# New ShapeSheet Cells and Functions in Visio 2010
+:::
+
+::: ba-option-wrapper
+::: {.lia-menu-bar .top-block .lia-component-menu-bar-without-options}
+::: lia-decoration-border-menu-bar
+::: lia-decoration-border-menu-bar-top
+<div>
+
+</div>
+:::
+
+::: lia-decoration-border-menu-bar-content
+<div>
+
+::: lia-menu-bar-buttons
+:::
+
+</div>
+:::
+
+::: lia-decoration-border-menu-bar-bottom
+<div>
+
+</div>
+:::
+:::
+:::
+:::
+:::
+
+::: ba-author-and-metrics-wrapper
+::: ba-author-wrapper
+By
+
+::: ba-author-info
+[ ]{.UserName .lia-user-name}
+
+::: UserAvatarWrapper
+::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Frequent .Visitor}
+[![visioblogs](https://techcommunity.microsoft.com/t5/image/serverpage/avatar-name/defaultavatar/avatar-theme/candy/avatar-collection/Microsoft/avatar-display-size/profile/version/2?xdesc=1.0 "visioblogs"){.lia-user-avatar-message
+.user-rank-ring style=""
+onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/179278){.UserAvatar
+.lia-link-navigation}
+:::
+
+::: {.user-profile-card user-id="179278"}
+::: contents
+::: spinner
+:::
+:::
+:::
+:::
+
+::: user-login
+[Team Visio](/t5/user/viewprofilepage/user-id/179278)
+:::
+:::
+:::
+
+::: ba-metrics-info
+[Published]{.ba-published-title} [Aug 26 2018 03:54
+AM]{.ba-published-date} [ 1,244 Views ]{.ba-view-count}
+:::
+:::
+:::
+
+::: custom-blog-article-wrapper
+::: {#messageview .lia-panel-message .message-uid-237582 .lia-component-article lia-message-uid="237582"}
+::: {#messageView2_1 .lia-message-view-wrapper .lia-js-data-messageUid-237582 .lia-component-forums-widget-message-view-two lia-message-uid="237582"}
+[ ]{#U237582} [ ]{#M2895}
+
+::: lia-inline-ajax-feedback
+::: {#ajaxfeedback_1 .AjaxFeedback}
+:::
+:::
+
+::: {.MessageView .lia-message-view-blog-topic-message .lia-message-view-display .lia-row-standard-unread .lia-thread-topic}
+[]{.lia-message-state-indicator}
+
+::: {.lia-quilt .lia-quilt-blog-topic-message .lia-quilt-layout-one-column-message}
+::: {.lia-quilt-row .lia-quilt-row-header}
+::: {.lia-quilt-column .lia-quilt-column-16 .lia-quilt-column-left .lia-quilt-column-header-left}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-left}
+::: {.lia-message-author-avatar .lia-component-author-avatar .lia-component-message-view-widget-author-avatar}
+::: UserAvatarWrapper
+::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Frequent .Visitor}
+[![visioblogs](https://techcommunity.microsoft.com/t5/image/serverpage/avatar-name/defaultavatar/avatar-theme/candy/avatar-collection/Microsoft/avatar-display-size/message/version/2?xdesc=1.0 "visioblogs"){.lia-user-avatar-message
+.user-rank-ring style=""
+onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/179278){.UserAvatar
+.lia-link-navigation}
+:::
+
+::: {.user-profile-card user-id="179278"}
+::: contents
+::: spinner
+:::
+:::
+:::
+:::
+:::
+
+::: lia-message-author-with-avatar
+[
+[visioblogs](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/179278){#link_5
+.lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
+.lia-user-name .lia-user-rank-Frequent-Visitor
+.lia-component-message-view-widget-author-username}
+:::
+
+::: {.lia-message-author-rank .lia-component-author-rank .lia-component-message-view-widget-author-rank}
+Frequent Visitor
+:::
+:::
+:::
+
+::: {.lia-quilt-column .lia-quilt-column-08 .lia-quilt-column-right .lia-quilt-column-header-right}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-right}
+::: {.lia-message-post-date .lia-component-post-date .lia-component-message-view-widget-post-date title="Posted on"}
+[ [‎Aug 26 2018]{.local-date} [03:54 AM]{.local-time} ]{.DateTime}
+:::
+
+::: {#actionMenuDropDown .lia-menu-navigation-wrapper .lia-js-hidden .lia-menu-action .lia-component-message-view-widget-action-menu}
+::: lia-menu-navigation
+::: dropdown-default-item
+[](# "Show option menu"){#dropDownLink .lia-js-menu-opener
+.default-menu-option .lia-js-mouseover-menu .lia-link-navigation}
+
+::: dropdown-positioning
+::: dropdown-positioning-static
+-   [Subscribe to RSS
+    Feed](/gxcuf89792/rss/message?board.id=microsoft_365blog&message.id=2895){#rssThread
+    .lia-link-navigation .rss-thread-link
+    .lia-component-rss-action-thread}
+-   [ []{.lia-separator-post} []{.lia-separator-pre} ]{.lia-separator
+    .lia-component-common-widget-link-separator}
+-   [Mark as New]{#markThreadUnread .lia-link-navigation
+    .mark-thread-unread .lia-link-disabled
+    .lia-component-forums-action-mark-thread-unread}
+-   [Mark as Read]{#markThreadRead .lia-link-navigation
+    .mark-thread-read .lia-link-disabled
+    .lia-component-forums-action-mark-thread-read}
+-   [ []{.lia-separator-post} []{.lia-separator-pre} ]{.lia-separator
+    .lia-component-common-widget-link-separator}
+-   [Bookmark]{#addThreadUserBookmark .lia-link-navigation
+    .addThreadUserBookmark .lia-link-disabled
+    .lia-component-subscriptions-action-add-thread-user-bookmark}
+-   [Subscribe]{#addThreadUserEmailSubscription .lia-link-navigation
+    .addThreadUserEmailSubscription .lia-link-disabled
+    .lia-component-subscriptions-action-add-thread-user-email}
+-   [ []{.lia-separator-post} []{.lia-separator-pre} ]{.lia-separator
+    .lia-component-common-widget-link-separator}
+-   [Email to a Friend]{#emailMessageToFriend .lia-link-navigation
+    .email_friend .lia-link-disabled
+    .lia-component-forums-action-email-message-to-friend}
+-   [ []{.lia-separator-post} []{.lia-separator-pre} ]{.lia-separator
+    .lia-component-common-widget-link-separator}
+-   [Printer Friendly
+    Page](/t5/blogs/blogarticleprintpage/blog-id/microsoft_365blog/article-id/2895){#printThread
+    .lia-link-navigation .print-article
+    .lia-component-forums-action-print-thread}
+-   [Report Inappropriate
+    Content](/t5/notifications/notifymoderatorpage/message-uid/237582){#reportAbuse
+    .lia-link-navigation .report-abuse-link
+    .lia-component-forums-action-report-abuse}
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {.lia-quilt-row .lia-quilt-row-main}
+::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-main}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
+::: {.lia-message-subject-wrapper .lia-component-subject .lia-component-message-view-widget-subject-with-options}
+::: MessageSubject
+::: MessageSubjectIcons
+# [ [New ShapeSheet Cells and Functions in Visio 2010](/t5/microsoft-365-blog/new-shapesheet-cells-and-functions-in-visio-2010/ba-p/237582){#link_6 .page-link .lia-link-navigation .lia-custom-event} ]{.lia-message-unread} {#new-shapesheet-cells-and-functions-in-visio-2010-1 .message-subject itemprop="name"}
+
+[]{#display_2 .lia-img-message-has-url .lia-fa-message .lia-fa-has
+.lia-fa-url .lia-fa title="Contains a hyperlink"
+alt="Message contains a hyperlink" aria-label="Contains a hyperlink"
+role="img"} []{#display_3 .lia-img-message-has-image .lia-fa-message
+.lia-fa-has .lia-fa-image .lia-fa title="Contains an image"
+alt="Message contains an image" aria-label="Contains an image"
+role="img"}
+:::
+:::
+:::
+
+::: {.lia-message-post-date .lia-component-post-date .lia-component-message-view-widget-post-date title="Posted on"}
+[ [‎Aug 26 2018]{.local-date} [03:54 AM]{.local-time} ]{.DateTime}
+:::
+
+::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
+::: {#bodyDisplay .lia-message-body itemprop="text"}
+::: lia-message-body-content
+**First published on MSDN on Jan, 04 2010**
+
+Our [previous
+post](http://blogs.msdn.com/visio/archive/2009/12/28/shapesheet-formula-autocomplete-other-improvements.aspx)
+introduced the improvements we made to the ShapeSheet window for shape
+developers.  In this post, we will continue with ShapeSheet development
+and dig deeper to examine the new ShapeSheet cells and functions
+available in Visio 2010.
+
+## **New Cells** {#toc-hId-1647565305}
+
+A number of new cells were added to both the PageSheet and the
+ShapeSheet to support new features in Visio 2010 and to expand the
+possibilities for shape development.  We will examine each one in turn.
+
+New PageSheet cells in Visio 2010:
+
+  ----------------- -------------------
+  **Section**       **Cell**
+  Page Layout       AvoidPageBreaks
+  Page Properties   DrawingResizeType
+  ----------------- -------------------
+
+New ShapeSheet cells in Visio 2010:
+
+  -------------- ---------------
+  **Section**    **Cell**
+  Shape Layout   DisplayLevel
+  Actions        FlyoutChild
+  Geometry       NoQuickDrag
+  Shape Layout   Relationships
+  -------------- ---------------
+
+Recall that you can view the PageSheet for a page or the ShapeSheet for
+a shape using the [Developer
+tab](http://blogs.msdn.com/visio/archive/2009/09/02/the-developer-tab-in-visio-2010.aspx)
+.
+
+[[![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44054i7D060582175502CB/image-size/large?v=v2&px=999){.lia-media-image
+role="button"
+li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44054i7D060582175502CB?v=v2"
+li-image-display-id="'44054i7D060582175502CB'" li-message-uid="'237582'"
+li-messages-message-image="true" li-bindable="" tabindex="0"
+li-bypass-lightbox-when-linked="true"
+li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
+.lia-image-align-inline
+style="width: 936px;"}](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/visio/WindowsLiveWriter/NewShapeSheetCellsandFunctionsinVisio201_FDED/image_12.png)
+
+### *AvoidPageBreaks cell* {#toc-hId--1101105161}
+
+This cell takes a TRUE or FALSE value and determines whether the [Auto
+Align and
+Space](http://blogs.msdn.com/visio/archive/2009/08/18/layout-improvements-in-visio-2010.aspx)
+features attempt to avoid placing shapes on page breaks.  This
+corresponds to the Space Shapes \> Avoid Page Breaks setting under the
+Position button on the Home tab.
+
+[[![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44055i966EAC5711652494/image-size/large?v=v2&px=999){.lia-media-image
+role="button"
+li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44055i966EAC5711652494?v=v2"
+li-image-display-id="'44055i966EAC5711652494'" li-message-uid="'237582'"
+li-messages-message-image="true" li-bindable="" tabindex="0"
+li-bypass-lightbox-when-linked="true"
+li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
+.lia-image-align-inline
+style="width: 315px;"}](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/visio/WindowsLiveWriter/NewShapeSheetCellsandFunctionsinVisio201_FDED/image_48.png)
+
+### *DrawingResizeType cell* {#toc-hId-641705174}
+
+This cell corresponds to the [Page Auto Size
+feature](http://blogs.msdn.com/visio/archive/2009/10/01/automatic-page-sizing-in-visio-2010.aspx)
+, which is found on the Design tab.  It takes three values.  Values 1
+and 2 correspond to Auto Size on and off, respectively.
+
+[[![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44056i485450ED5055E582/image-size/large?v=v2&px=999){.lia-media-image
+role="button"
+li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44056i485450ED5055E582?v=v2"
+li-image-display-id="'44056i485450ED5055E582'" li-message-uid="'237582'"
+li-messages-message-image="true" li-bindable="" tabindex="0"
+li-bypass-lightbox-when-linked="true"
+li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
+.lia-image-align-inline
+style="width: 254px;"}](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/visio/WindowsLiveWriter/NewShapeSheetCellsandFunctionsinVisio201_FDED/image_18.png)
+
+Zero is "undefined," which is the default state for a document created
+in Visio 2007 or prior, since this cell doesn't exist in those
+versions.  This value allows Visio to determine whether Auto Size is
+enabled for the user.  It makes a best guess by looking at the page size
+relative to common paper sizes and deciding whether the page size
+appears to have been customized, or left at a default size.  If the page
+is at a default size, Visio enables Auto Size so users can benefit from
+it; if customized, Visio assumes that a specific page size was chosen
+for a reason and disables Auto Size.  In any case, the user can change
+the setting by toggling the Auto Size button on the Design tab.
+
+### *DisplayLevel cell* {#toc-hId--1910451787}
+
+This cell defines ["bands" of
+Z-order](http://blogs.msdn.com/visio/archive/2009/08/27/details-on-container-behaviors.aspx)
+and is used to determine the default global Z-order position for a shape
+when it is added to the page.  Visio uses this to place containers
+behind the shapes they contain, regardless of what order they are added
+to the page.  Shapes with a higher DisplayLevel value are displayed on
+top of shapes with a lower value.  Each value of DisplayLevel, which
+ranges from --32767 to +32767, defines a band.
+
+As an example, consider a diagram with three masters, each with the
+DisplayLevel value shown.  Regardless of what order shapes with
+DisplayLevel 10, 20 or 30 are dropped, the 10s will always be behind the
+20s and 30s, and so forth.  The blue shape shown below is at the bottom
+of the Z-order and was dropped before the other two shapes at
+DisplayLevel 10.  DisplayLevel bands do not interfere with the Z-order
+commands on the [Home
+tab](http://blogs.msdn.com/visio/archive/2009/08/12/the-office-fluent-ui-in-the-visio-2010-technical-preview.aspx)
+-- Bring Forward / Send Backward and Bring to Front / Send to Back. 
+Using Bring to Front or Send to Back will initially only move the shape
+to the front or back of the Z-order for its band.  A subsequent use will
+move it to the global front or back of the Z-order.
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  [[![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44057i2CCF09EA951628B1/image-size/large?v=v2&px=999){.lia-media-image role="button" li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44057i2CCF09EA951628B1?v=v2" li-image-display-id="'44057i2CCF09EA951628B1'" li-message-uid="'237582'" li-messages-message-image="true" li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false"}]{.lia-inline-image-display-wrapper .lia-image-align-inline style="width: 183px;"}](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/visio/WindowsLiveWriter/NewShapeSheetCellsandFunctionsinVisio201_FDED/image_30.png)       [[![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44058iEC0185111FC62F8E/image-size/large?v=v2&px=999){.lia-media-image role="button" li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44058iEC0185111FC62F8E?v=v2" li-image-display-id="'44058iEC0185111FC62F8E'" li-message-uid="'237582'" li-messages-message-image="true" li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false"}]{.lia-inline-image-display-wrapper .lia-image-align-inline style="width: 184px;"}](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/visio/WindowsLiveWriter/NewShapeSheetCellsandFunctionsinVisio201_FDED/image_32.png)       [[![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44059iE6134148A2443C18/image-size/large?v=v2&px=999){.lia-media-image role="button" li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44059iE6134148A2443C18?v=v2" li-image-display-id="'44059iE6134148A2443C18'" li-message-uid="'237582'" li-messages-message-image="true" li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false"}]{.lia-inline-image-display-wrapper .lia-image-align-inline style="width: 184px;"}](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/visio/WindowsLiveWriter/NewShapeSheetCellsandFunctionsinVisio201_FDED/image_34.png)
+  Start with these shapes, with the given DisplayLevel values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     After pressing Bring to Front on the blue shape                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 After pressing Bring to Front on the blue shape again
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Notice the special --32768 value, which means that the shape has been
+pulled out of its band.  Visio stores the previous band in a formula in
+the DisplayLevel cell so it can be restored.  Note that changing the
+value of the DisplayLevel cell does not change the shape's Z-order, but
+the band will be taken into account the next time Visio needs to
+manipulate the shape's Z-order.
+
+### *FlyoutChild cell* {#toc-hId--167641452}
+
+This cell allows Actions, or custom right-click menu items, to be
+nested.  Any menu item whose FlyoutChild value is TRUE will appear in a
+flyout menu of the first row above it whose FlyoutChild is FALSE.  This
+allows one level of nesting.
+
+The Actions section below will show the following custom items on the
+right-click menu.
+
+[[![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44060i83EC9CC06B1F71E2/image-size/large?v=v2&px=999){.lia-media-image
+role="button"
+li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44060i83EC9CC06B1F71E2?v=v2"
+li-image-display-id="'44060i83EC9CC06B1F71E2'" li-message-uid="'237582'"
+li-messages-message-image="true" li-bindable="" tabindex="0"
+li-bypass-lightbox-when-linked="true"
+li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
+.lia-image-align-inline
+style="width: 476px;"}](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/visio/WindowsLiveWriter/NewShapeSheetCellsandFunctionsinVisio201_FDED/image_36.png)
+[[![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44061iE6F75EE3F5ECEE2D/image-size/large?v=v2&px=999){.lia-media-image
+role="button"
+li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44061iE6F75EE3F5ECEE2D?v=v2"
+li-image-display-id="'44061iE6F75EE3F5ECEE2D'" li-message-uid="'237582'"
+li-messages-message-image="true" li-bindable="" tabindex="0"
+li-bypass-lightbox-when-linked="true"
+li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
+.lia-image-align-inline
+style="width: 193px;"}](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/visio/WindowsLiveWriter/NewShapeSheetCellsandFunctionsinVisio201_FDED/image_38.png)
+
+If the value of FlyoutChild for B and C is TRUE, then those items
+appears in a flyout menu under A.
+
+[[![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44062i1955140E98A77A18/image-size/large?v=v2&px=999){.lia-media-image
+role="button"
+li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44062i1955140E98A77A18?v=v2"
+li-image-display-id="'44062i1955140E98A77A18'" li-message-uid="'237582'"
+li-messages-message-image="true" li-bindable="" tabindex="0"
+li-bypass-lightbox-when-linked="true"
+li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
+.lia-image-align-inline
+style="width: 270px;"}](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/visio/WindowsLiveWriter/NewShapeSheetCellsandFunctionsinVisio201_FDED/image_40.png)
+
+### *NoQuickDrag cell* {#toc-hId-1575168883}
+
+This cell allows a shape developer to control how click and drag inside
+a given geometry section of a shape works.  Typically, this picks up and
+moves a shape.  By setting this cell to TRUE, you can create a
+non-clickable (or non-selectable) filled geometry area that prevents
+picking up and moving the shape.  The
+[container](http://blogs.msdn.com/visio/archive/2009/08/27/details-on-container-behaviors.aspx)
+shapes new to Visio 2010 use this cell to allow click and drag to select
+shapes in the container rather than move the container.
+
+### *Relationships cell* {#toc-hId--976988078}
+
+This cell stores the relationships among containers, lists, callouts and
+shapes.  It uses a series of [DEPENDSON
+functions](http://msdn.microsoft.com/en-us/library/ms406681.aspx) , one
+for each different type of relationship the object has.  Note that
+changes to this cell will not trigger actual relationship changes; Visio
+only uses this as a means to store the relationship information.  This
+cell is not intended to be modified by users or shape developers.
+
+The types of relationships are listed below.
+
+  ----------- ----------------------------------------------------------------
+  **Value**   **Meaning**
+  1           Shapes that are members of this container
+  2           Shapes that are members of this list
+  3           Callouts that are associated with this shape
+  4           Containers that this shape is a member of
+  5           List that this list item is a member of
+  6           Shape associated with this callout
+  7           Container on the left boundary edge of which this shape sits
+  8           Container on the right boundary edge of which this shape sits
+  9           Container on the top boundary edge of which this shape sits
+  10          Container on the bottom boundary edge of which this shape sits
+  11          List that this list overlaps
+  ----------- ----------------------------------------------------------------
+
+A shape named Process that is a member of a container named Container 1
+would have a Relationships cell formula of this form:
+*=SUM(DEPENDSON(4,Container 1!SheetRef()))* .  The container's
+Relationship cell would look like:
+*=SUM(DEPENDSON(1,Process!SheetRef()))* .
+
+If the Process shape were pinned to the left edge of the container, its
+Relationships cell would be: *=SUM(DEPENDSON(7,Container
+1!SheetRef()),DEPENDSON(4,Container 1!SheetRef()))* .  The container's
+cell would remain as listed.
+
+A shape that is a member of two containers would look like:
+*=SUM(DEPENDSON(7),DEPENDSON(4,Container 1!SheetRef(),Container
+2!SheetRef()))* , and so forth.
+
+## **New Functions** {#toc-hId-962335762}
+
+We also added ShapeSheet functions that enable new developer scenarios,
+particularly for integrating with new Visio 2010 features.
+
+### *Containers and Lists* {#toc-hId--1786334704}
+
+A number of functions are designed to enable interaction with the new
+[container and
+list](http://blogs.msdn.com/visio/archive/2009/08/25/organizing-diagrams-with-containers.aspx)
+features.
+
+The following functions return a Sheet reference, or a reference to the
+shape.  (Such functions exist in Visio 2007 and previous versions, such
+as NAME and ID.)  This return value can then be used to call another
+function.  For example, *CALLOUTTARGETREF()!HASCATEGORY("Category")* .
+
+  ----------------------------------- -----------------------------------
+  **Function**                        **Description**
+
+  CALLOUTTARGETREF()                  Returns a Sheet reference to the
+                                      target shape that this callout is
+                                      associated with
+
+  CONTAINERSHEETREF(index, category)  Returns a Sheet reference to the
+                                      container shape that this shape is
+                                      a member of\
+                                      \-- The 1-based Index parameter
+                                      specifies which parent container to
+                                      return, where the topmost container
+                                      is ordered first\
+                                      \-- If category is specified, the
+                                      container must have that category
+                                      in order to be returned
+
+  LISTSHEETREF()                      Returns a Sheet reference to the
+                                      list container shape that this
+                                      shape is a member of
+  ----------------------------------- -----------------------------------
+
+The following functions return the number of associated shapes.
+
+  ------------------------ -----------------------------------------------------------------
+  **Function**             **Description**
+  CALLOUTCOUNT()           Returns the number of callout shapes associated with the shape
+  CONTAINERCOUNT()         Returns the number of containers the shape is a member of
+  CONTAINERMEMBERCOUNT()   Returns the number of member shapes in the container shape
+  LISTMEMBERCOUNT()        Returns the number of member shapes in the list container shape
+  ------------------------ -----------------------------------------------------------------
+
+The following functions
+
+  --------------------- -------------------------------------------------------------------------------
+  **Function**          **Description**
+  HASCATEGORY(string)   Returns TRUE if the specified string is found in the shape\'s categories list
+  LISTORDER()           Returns the 1-based order for the shape within a list
+  --------------------- -------------------------------------------------------------------------------
+
+In the example below, the rectangular process shape belongs to a
+container.  It shows the total number of shapes in the container using a
+text field with the formula
+*CONTAINERSHEETREF(1)!CONTAINERMEMBERCOUNT()* .
+
+[[![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44063i6AA2017086B94739/image-size/large?v=v2&px=999){.lia-media-image
+role="button"
+li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/44063i6AA2017086B94739?v=v2"
+li-image-display-id="'44063i6AA2017086B94739'" li-message-uid="'237582'"
+li-messages-message-image="true" li-bindable="" tabindex="0"
+li-bypass-lightbox-when-linked="true"
+li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
+.lia-image-align-inline
+style="width: 384px;"}](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/visio/WindowsLiveWriter/NewShapeSheetCellsandFunctionsinVisio201_FDED/image_5.png)
+
+### *Geometry Paths* {#toc-hId--43524369}
+
+Another set of functions enable detailed interaction with individual
+geometry paths among different shapes.  Each of these functions requires
+a specific Geometry section to be specified -- e.g.,
+*PATHSEGMENT(Sheet.1!Geometry2.Path, 0.4)* .  Points on a path are given
+as a percentage of the distance along the path.
+
+  ----------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------
+  **Function**                                                **Description**
+  ANGLEALONGPATH(section, percent, segment)                   Returns the tangent angle of a point on the path defined in a geometry section
+  DISTTOPATH(section, x, y)                                   Returns the shortest distance from the specified coordinates to a point on the path defined in a geometry section
+  NEARESTPOINTONPATH(section, x, y)                           Returns the point along the path defined in a geometry section that is nearest the specified coordinates
+  PATHLENGTH(section, segment)                                Returns the length of the path defined in a geometry section
+  PATHSEGMENT(section, percent)                               Returns the 1-based segment number containing a point on the path defined in a geometry section
+  POINTALONGPATH(section, percent, \[offset\], \[segment\])   Returns the coordinates of a point on or offset from the path defined in a geometry section
+  SEGMENTCOUNT(section, percent)                              Returns the number of line segments that make up the path defined in a geometry section
+  ----------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------
+
+These functions open up a broad set of interesting shape interactions
+that we're sure shape and solution developers will love.  We will write
+a more detailed post focusing on these functions soon.
+
+### *Miscellaneous* {#toc-hId-984124677}
+
+The last group of functions are various helpers that either support the
+new functions or fill in gaps.  The first four operate on a Sheet
+reference.
+
+  ------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------
+  **Function**                         **Description**
+  BOUNDINGBOXDIST(index)               Returns the measurement for the part of the shape\'s bounding box specified by the Index enumeration
+  BOUNDINGBOXRECT(index)               Returns the coordinate of an edge of the shape\'s bounding box specified by the Index enumeration
+  IS1D()                               Returns TRUE if the shape is one-dimensional
+  SHEETREF()                           Returns a Sheet reference for the specified shape
+  IFERROR(expression, altExpression)   Returns the evaluated result of the expression if it is not an error; otherwise returns the evaluated result of the alternate expression
+  MSOSHADE(color, deltaLum)            Modifies the color by decreasing its luminosity by the amount specified
+  MSOTINT(color, deltaLum)             Modifies the color by increasing its luminosity by the amount specified
+  VERSION()                            Returns an integer value matching the current version of the Visio application
+  ------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Index enumeration for BOUNDINGBOXDIST:
+
+  ----------- --------------------------------
+  **Value**   **Meaning**
+  0           Width
+  1           Height
+  2           Left edge to shape pin
+  3           Shape pin to right edge
+  4           Shape pin to top edge
+  5           Bottom edge to shape pin
+  6           Center of bounding box to PinX
+  7           Center of bounding box to PinY
+  ----------- --------------------------------
+
+Index enumeration for BOUNDINGBOXRECT:
+
+  ----------- -------------
+  **Value**   **Meaning**
+  0           Left edge
+  1           Right edge
+  2           Top edge
+  3           Bottom edge
+  ----------- -------------
+
+We also modified the following functions that existed in Visio 2007 and
+prior versions.  You can continue to use these as you have in the past
+-- e.g., *NAME()* -- or you can use them with a Sheet reference, such as
+*Sheet.4!NAME()* or *CONTAINERSHEETREF(1)!NAME()* .
+
+-   DATA1, DATA2, DATA3
+-   ID
+-   MASTERNAME
+-   NAME
+-   PAGENAME, BKGPAGENAME
+-   PAGENUMBER, BKGPAGENUMBER
+-   TYPE, TYPEDESC
+
+We hope you will find these useful in opening new opportunities for
+shapes and making your shape development tasks easier.  As always, we're
+interested in your feedback and suggestions via a comment on the blog or
+using [Send a
+Smile](http://blogs.technet.com/office2010/archive/2009/07/15/tell-us-what-you-think-about-office-2010-technical-preview.aspx)
+.
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {.lia-quilt-row .lia-quilt-row-footer}
+::: {.lia-quilt-column .lia-quilt-column-12 .lia-quilt-column-left .lia-quilt-column-footer-left}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-left}
+::: {#kudosButtonV2 .KudosButton .lia-button-image-kudos-wrapper .lia-component-kudos-widget-button-version-3 .lia-component-kudos-widget-button-horizontal .lia-component-kudos-widget-button .lia-component-kudos-action .lia-component-message-view-widget-kudos-action lia-kudos-id="237582"}
+::: {.lia-button-image-kudos .lia-button-image-kudos-horizontal .lia-button-image-kudos-enabled .lia-button-image-kudos-not-kudoed .lia-button aria-atomic="true" aria-live="assertive"}
+::: lia-button-image-kudos-count
+[ [ 0 ]{#messageKudosCount_1aead143f467f1 .MessageKudosCount
+.lia-component-kudos-widget-message-kudos-count itemprop="upvoteCount"}[
+Likes ]{.lia-button-image-kudos-label
+.lia-component-kudos-widget-kudos-count-label} ]{#link_7
+.lia-link-navigation .kudos-count-link .lia-link-disabled
+title="The total number of likes this post has received."}
+:::
+
+::: lia-button-image-kudos-give
+[Like](https://techcommunity.microsoft.com/t5/blogs/v2/blogarticlepage.kudosbuttonv2.kudoentity:kudoentity/kudosable-gid/237582?t:ac=blog-id/microsoft_365blog/article-id/2895&t:cp=kudos/contributions/tapletcontributionspage "Click here to give likes to this post."){#kudoEntity
+.lia-link-navigation .kudos-link .lia-link-ticket-post-action}
+:::
+:::
+:::
+:::
+:::
+
+::: {.lia-quilt-column .lia-quilt-column-12 .lia-quilt-column-right .lia-quilt-column-footer-right}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-right}
+::: {.lia-button-group .lia-component-comment-button .lia-component-message-view-widget-comment-button}
+:::
+:::
+:::
+:::
+
+::: {.lia-quilt-row .lia-quilt-row-mod-controls}
+::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-mod-controls-main}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-single .lia-mark-empty}
+:::
+:::
+:::
+
+::: {.lia-quilt-row .lia-quilt-row-sub-footer}
+::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-sub-footer .lia-mark-empty}
+:::
+:::
+:::
+:::
+:::
+
+::: {#progressBar .lia-progress .lia-js-hidden}
+::: lia-progress-indeterminate
+:::
+:::
+:::
+:::
+
+[]{#comment-on-this} [ ]{#feedback-successinformationbox_6}
+
+::: {#informationbox_6 .InfoMessage .lia-panel-feedback-banner-note .lia-component-comment-editor}
+::: {.lia-text role="alert"}
+You must be a registered user to add a comment. If you\'ve already
+registered, sign in. Otherwise, register and sign in.
+
+-   [Comment](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&redirectreason=permissiondenied&referer=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fmicrosoft-365-blog%2Fnew-shapesheet-cells-and-functions-in-visio-2010%2Fba-p%2F237582%23comment-on-this){#link_8
+    .lia-link-navigation .blog-link .lia-message-comment-post}
+:::
+:::
+:::
+:::
+
+::: {.lia-quilt-column .lia-quilt-column-06 .lia-quilt-column-right .lia-quilt-column-side-content}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-right}
+%3CLINGO-SUB%20id%3D%22lingo-sub-237582%22%20slang%3D%22en-US%22%3ENew%20ShapeSheet%20Cells%20and%20Functions%20in%20Visio%202010%3C%2FLINGO-SUB%3E%3CLINGO-BODY%20id%3D%22lingo-body-237582%22%20slang%3D%22en-US%22%3E%0A%20%26lt%3Bmeta%20http-equiv%3D%22Content-Type%22%20content%3D%22text%2Fhtml%3B%20charset%3DUTF-8%22%20%2F%26gt%3B%3CSTRONG%3E%20First%20published%20on%20MSDN%20on%20Jan%2C%2004%202010%20%3C%2FSTRONG%3E%20%3CBR%20%2F%3E%3CP%3EOur%20%3CA%20href%3D%22http%3A%2F%2Fblogs.msdn.com%2Fvisio%2Farchive%2F2009%2F12%2F28%2Fshapesheet-formula-autocomplete-other-improvements.aspx%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3Eprevious%20post%20%3C%2FA%3Eintroduced%20the%20improvements%20we%20made%20to%20the%20ShapeSheet%20window%20for%20shape%20developers.%26nbsp%3B%20In%20this%20post%2C%20we%20will%20continue%20with%20ShapeSheet%20development%20and%20dig%20deeper%20to%20examine%20the%20new%20ShapeSheet%20cells%20and%20functions%20available%20in%20Visio%202010.%3C%2FP%3E%0A%20%20%3CH2%20id%3D%22toc-hId-1647566024%22%20id%3D%22toc-hId-1816361892%22%3E%3CSTRONG%3E%20New%20Cells%20%3C%2FSTRONG%3E%3C%2FH2%3E%0A%20%20%3CP%3EA%20number%20of%20new%20cells%20were%20added%20to%20both%20the%20PageSheet%20and%20the%20ShapeSheet%20to%20support%20new%20features%20in%20Visio%202010%20and%20to%20expand%20the%20possibilities%20for%20shape%20development.%26nbsp%3B%20We%20will%20examine%20each%20one%20in%20turn.%3C%2FP%3E%0A%20%20%3CP%3ENew%20PageSheet%20cells%20in%20Visio%202010%3A%3C%2FP%3E%0A%20%20%3CTABLE%3E%0A%20%20%20%3CTBODY%3E%3CTR%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Section%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Cell%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EPage%20Layout%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EAvoidPageBreaks%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EPage%20Properties%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EDrawingResizeType%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%3C%2FTBODY%3E%3C%2FTABLE%3E%0A%20%20%3CP%3ENew%20ShapeSheet%20cells%20in%20Visio%202010%3A%3C%2FP%3E%0A%20%20%3CTABLE%3E%0A%20%20%20%3CTBODY%3E%3CTR%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Section%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Cell%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EShape%20Layout%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EDisplayLevel%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EActions%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EFlyoutChild%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EGeometry%3C%2FTD%3E%0A%20%20%20%20%3CTD%3ENoQuickDrag%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EShape%20Layout%3C%2FTD%3E%0A%20%20%20%20%3CTD%3ERelationships%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%3C%2FTBODY%3E%3C%2FTABLE%3E%0A%20%20%3CP%3ERecall%20that%20you%20can%20view%20the%20PageSheet%20for%20a%20page%20or%20the%20ShapeSheet%20for%20a%20shape%20using%20the%20%3CA%20href%3D%22http%3A%2F%2Fblogs.msdn.com%2Fvisio%2Farchive%2F2009%2F09%2F02%2Fthe-developer-tab-in-visio-2010.aspx%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3EDeveloper%20tab%20%3C%2FA%3E.%3C%2FP%3E%0A%20%20%3CP%3E%3CA%20href%3D%22https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FTNBlogsFS%2FBlogFileStorage%2Fblogs_msdn%2Fvisio%2FWindowsLiveWriter%2FNewShapeSheetCellsandFunctionsinVisio201_FDED%2Fimage_12.png%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3E%20%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F44054i7D060582175502CB%22%20%2F%3E%20%3C%2FA%3E%3C%2FP%3E%0A%20%20%3CH3%20id%3D%22toc-hId\--1101104442%22%20id%3D%22toc-hId\--932308574%22%3E%3CEM%3E%20AvoidPageBreaks%20cell%20%3C%2FEM%3E%3C%2FH3%3E%0A%20%20%3CP%3EThis%20cell%20takes%20a%20TRUE%20or%20FALSE%20value%20and%20determines%20whether%20the%20%3CA%20href%3D%22http%3A%2F%2Fblogs.msdn.com%2Fvisio%2Farchive%2F2009%2F08%2F18%2Flayout-improvements-in-visio-2010.aspx%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3EAuto%20Align%20and%20Space%20%3C%2FA%3Efeatures%20attempt%20to%20avoid%20placing%20shapes%20on%20page%20breaks.%26nbsp%3B%20This%20corresponds%20to%20the%20Space%20Shapes%20%26gt%3B%20Avoid%20Page%20Breaks%20setting%20under%20the%20Position%20button%20on%20the%20Home%20tab.%3C%2FP%3E%0A%20%20%3CP%3E%3CA%20href%3D%22https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FTNBlogsFS%2FBlogFileStorage%2Fblogs_msdn%2Fvisio%2FWindowsLiveWriter%2FNewShapeSheetCellsandFunctionsinVisio201_FDED%2Fimage_48.png%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3E%20%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F44055i966EAC5711652494%22%20%2F%3E%20%3C%2FA%3E%3C%2FP%3E%0A%20%20%3CH3%20id%3D%22toc-hId-641705893%22%20id%3D%22toc-hId-810501761%22%3E%3CEM%3E%20DrawingResizeType%20cell%20%3C%2FEM%3E%3C%2FH3%3E%0A%20%20%3CP%3EThis%20cell%20corresponds%20to%20the%20%3CA%20href%3D%22http%3A%2F%2Fblogs.msdn.com%2Fvisio%2Farchive%2F2009%2F10%2F01%2Fautomatic-page-sizing-in-visio-2010.aspx%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3EPage%20Auto%20Size%20feature%20%3C%2FA%3E%2C%20which%20is%20found%20on%20the%20Design%20tab.%26nbsp%3B%20It%20takes%20three%20values.%26nbsp%3B%20Values%201%20and%202%20correspond%20to%20Auto%20Size%20on%20and%20off%2C%20respectively.%3C%2FP%3E%0A%20%20%3CP%3E%3CA%20href%3D%22https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FTNBlogsFS%2FBlogFileStorage%2Fblogs_msdn%2Fvisio%2FWindowsLiveWriter%2FNewShapeSheetCellsandFunctionsinVisio201_FDED%2Fimage_18.png%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3E%20%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F44056i485450ED5055E582%22%20%2F%3E%20%3C%2FA%3E%3C%2FP%3E%0A%20%20%3CP%3EZero%20is%20%E2%80%9Cundefined%2C%E2%80%9D%20which%20is%20the%20default%20state%20for%20a%20document%20created%20in%20Visio%202007%20or%20prior%2C%20since%20this%20cell%20doesn%E2%80%99t%20exist%20in%20those%20versions.%26nbsp%3B%20This%20value%20allows%20Visio%20to%20determine%20whether%20Auto%20Size%20is%20enabled%20for%20the%20user.%26nbsp%3B%20It%20makes%20a%20best%20guess%20by%20looking%20at%20the%20page%20size%20relative%20to%20common%20paper%20sizes%20and%20deciding%20whether%20the%20page%20size%20appears%20to%20have%20been%20customized%2C%20or%20left%20at%20a%20default%20size.%26nbsp%3B%20If%20the%20page%20is%20at%20a%20default%20size%2C%20Visio%20enables%20Auto%20Size%20so%20users%20can%20benefit%20from%20it%3B%20if%20customized%2C%20Visio%20assumes%20that%20a%20specific%20page%20size%20was%20chosen%20for%20a%20reason%20and%20disables%20Auto%20Size.%26nbsp%3B%20In%20any%20case%2C%20the%20user%20can%20change%20the%20setting%20by%20toggling%20the%20Auto%20Size%20button%20on%20the%20Design%20tab.%3C%2FP%3E%0A%20%20%3CH3%20id%3D%22toc-hId\--1910451068%22%20id%3D%22toc-hId\--1741655200%22%3E%3CEM%3E%20DisplayLevel%20cell%20%3C%2FEM%3E%3C%2FH3%3E%0A%20%20%3CP%3EThis%20cell%20defines%20%3CA%20href%3D%22http%3A%2F%2Fblogs.msdn.com%2Fvisio%2Farchive%2F2009%2F08%2F27%2Fdetails-on-container-behaviors.aspx%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3E%E2%80%9Cbands%E2%80%9D%20of%20Z-order%20%3C%2FA%3Eand%20is%20used%20to%20determine%20the%20default%20global%20Z-order%20position%20for%20a%20shape%20when%20it%20is%20added%20to%20the%20page.%26nbsp%3B%20Visio%20uses%20this%20to%20place%20containers%20behind%20the%20shapes%20they%20contain%2C%20regardless%20of%20what%20order%20they%20are%20added%20to%20the%20page.%26nbsp%3B%20Shapes%20with%20a%20higher%20DisplayLevel%20value%20are%20displayed%20on%20top%20of%20shapes%20with%20a%20lower%20value.%26nbsp%3B%20Each%20value%20of%20DisplayLevel%2C%20which%20ranges%20from%20%E2%80%9332767%20to%20%2B32767%2C%20defines%20a%20band.%3C%2FP%3E%0A%20%20%3CP%3EAs%20an%20example%2C%20consider%20a%20diagram%20with%20three%20masters%2C%20each%20with%20the%20DisplayLevel%20value%20shown.%26nbsp%3B%20Regardless%20of%20what%20order%20shapes%20with%20DisplayLevel%2010%2C%2020%20or%2030%20are%20dropped%2C%20the%2010s%20will%20always%20be%20behind%20the%2020s%20and%2030s%2C%20and%20so%20forth.%26nbsp%3B%20The%20blue%20shape%20shown%20below%20is%20at%20the%20bottom%20of%20the%20Z-order%20and%20was%20dropped%20before%20the%20other%20two%20shapes%20at%20DisplayLevel%2010.%26nbsp%3B%20DisplayLevel%20bands%20do%20not%20interfere%20with%20the%20Z-order%20commands%20on%20the%20%3CA%20href%3D%22http%3A%2F%2Fblogs.msdn.com%2Fvisio%2Farchive%2F2009%2F08%2F12%2Fthe-office-fluent-ui-in-the-visio-2010-technical-preview.aspx%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3EHome%20tab%20%3C%2FA%3E%E2%80%93%20Bring%20Forward%20%2F%20Send%20Backward%20and%20Bring%20to%20Front%20%2F%20Send%20to%20Back.%26nbsp%3B%20Using%20Bring%20to%20Front%20or%20Send%20to%20Back%20will%20initially%20only%20move%20the%20shape%20to%20the%20front%20or%20back%20of%20the%20Z-order%20for%20its%20band.%26nbsp%3B%20A%20subsequent%20use%20will%20move%20it%20to%20the%20global%20front%20or%20back%20of%20the%20Z-order.%3C%2FP%3E%0A%20%20%3CTABLE%3E%0A%20%20%20%3CTBODY%3E%3CTR%3E%0A%20%20%20%20%3CTD%3E%3CA%20href%3D%22https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FTNBlogsFS%2FBlogFileStorage%2Fblogs_msdn%2Fvisio%2FWindowsLiveWriter%2FNewShapeSheetCellsandFunctionsinVisio201_FDED%2Fimage_30.png%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3E%20%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F44057i2CCF09EA951628B1%22%20%2F%3E%20%3C%2FA%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CA%20href%3D%22https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FTNBlogsFS%2FBlogFileStorage%2Fblogs_msdn%2Fvisio%2FWindowsLiveWriter%2FNewShapeSheetCellsandFunctionsinVisio201_FDED%2Fimage_32.png%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3E%20%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F44058iEC0185111FC62F8E%22%20%2F%3E%20%3C%2FA%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CA%20href%3D%22https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FTNBlogsFS%2FBlogFileStorage%2Fblogs_msdn%2Fvisio%2FWindowsLiveWriter%2FNewShapeSheetCellsandFunctionsinVisio201_FDED%2Fimage_34.png%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3E%20%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F44059iE6134148A2443C18%22%20%2F%3E%20%3C%2FA%3E%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EStart%20with%20these%20shapes%2C%20with%20the%20given%20DisplayLevel%20values%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EAfter%20pressing%20Bring%20to%20Front%20on%20the%20blue%20shape%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EAfter%20pressing%20Bring%20to%20Front%20on%20the%20blue%20shape%20again%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%3C%2FTBODY%3E%3C%2FTABLE%3E%0A%20%20%3CP%3ENotice%20the%20special%20%E2%80%9332768%20value%2C%20which%20means%20that%20the%20shape%20has%20been%20pulled%20out%20of%20its%20band.%26nbsp%3B%20Visio%20stores%20the%20previous%20band%20in%20a%20formula%20in%20the%20DisplayLevel%20cell%20so%20it%20can%20be%20restored.%26nbsp%3B%20Note%20that%20changing%20the%20value%20of%20the%20DisplayLevel%20cell%20does%20not%20change%20the%20shape%E2%80%99s%20Z-order%2C%20but%20the%20band%20will%20be%20taken%20into%20account%20the%20next%20time%20Visio%20needs%20to%20manipulate%20the%20shape%E2%80%99s%20Z-order.%3C%2FP%3E%0A%20%20%3CH3%20id%3D%22toc-hId\--167640733%22%20id%3D%22toc-hId-1155135%22%3E%3CEM%3E%20FlyoutChild%20cell%20%3C%2FEM%3E%3C%2FH3%3E%0A%20%20%3CP%3EThis%20cell%20allows%20Actions%2C%20or%20custom%20right-click%20menu%20items%2C%20to%20be%20nested.%26nbsp%3B%20Any%20menu%20item%20whose%20FlyoutChild%20value%20is%20TRUE%20will%20appear%20in%20a%20flyout%20menu%20of%20the%20first%20row%20above%20it%20whose%20FlyoutChild%20is%20FALSE.%26nbsp%3B%20This%20allows%20one%20level%20of%20nesting.%3C%2FP%3E%0A%20%20%3CP%3EThe%20Actions%20section%20below%20will%20show%20the%20following%20custom%20items%20on%20the%20right-click%20menu.%3C%2FP%3E%0A%20%20%3CP%3E%3CA%20href%3D%22https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FTNBlogsFS%2FBlogFileStorage%2Fblogs_msdn%2Fvisio%2FWindowsLiveWriter%2FNewShapeSheetCellsandFunctionsinVisio201_FDED%2Fimage_36.png%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3E%20%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F44060i83EC9CC06B1F71E2%22%20%2F%3E%20%3C%2FA%3E%20%3CA%20href%3D%22https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FTNBlogsFS%2FBlogFileStorage%2Fblogs_msdn%2Fvisio%2FWindowsLiveWriter%2FNewShapeSheetCellsandFunctionsinVisio201_FDED%2Fimage_38.png%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3E%20%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F44061iE6F75EE3F5ECEE2D%22%20%2F%3E%20%3C%2FA%3E%3C%2FP%3E%0A%20%20%3CP%3EIf%20the%20value%20of%20FlyoutChild%20for%20B%20and%20C%20is%20TRUE%2C%20then%20those%20items%20appears%20in%20a%20flyout%20menu%20under%20A.%3C%2FP%3E%0A%20%20%3CP%3E%3CA%20href%3D%22https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FTNBlogsFS%2FBlogFileStorage%2Fblogs_msdn%2Fvisio%2FWindowsLiveWriter%2FNewShapeSheetCellsandFunctionsinVisio201_FDED%2Fimage_40.png%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3E%20%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F44062i1955140E98A77A18%22%20%2F%3E%20%3C%2FA%3E%3C%2FP%3E%0A%20%20%3CH3%20id%3D%22toc-hId-1575169602%22%20id%3D%22toc-hId-1743965470%22%3E%3CEM%3E%20NoQuickDrag%20cell%20%3C%2FEM%3E%3C%2FH3%3E%0A%20%20%3CP%3EThis%20cell%20allows%20a%20shape%20developer%20to%20control%20how%20click%20and%20drag%20inside%20a%20given%20geometry%20section%20of%20a%20shape%20works.%26nbsp%3B%20Typically%2C%20this%20picks%20up%20and%20moves%20a%20shape.%26nbsp%3B%20By%20setting%20this%20cell%20to%20TRUE%2C%20you%20can%20create%20a%20non-clickable%20(or%20non-selectable)%20filled%20geometry%20area%20that%20prevents%20picking%20up%20and%20moving%20the%20shape.%26nbsp%3B%20The%20%3CA%20href%3D%22http%3A%2F%2Fblogs.msdn.com%2Fvisio%2Farchive%2F2009%2F08%2F27%2Fdetails-on-container-behaviors.aspx%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3Econtainer%20%3C%2FA%3Eshapes%20new%20to%20Visio%202010%20use%20this%20cell%20to%20allow%20click%20and%20drag%20to%20select%20shapes%20in%20the%20container%20rather%20than%20move%20the%20container.%3C%2FP%3E%0A%20%20%3CH3%20id%3D%22toc-hId\--976987359%22%20id%3D%22toc-hId\--808191491%22%3E%3CEM%3E%20Relationships%20cell%20%3C%2FEM%3E%3C%2FH3%3E%0A%20%20%3CP%3EThis%20cell%20stores%20the%20relationships%20among%20containers%2C%20lists%2C%20callouts%20and%20shapes.%26nbsp%3B%20It%20uses%20a%20series%20of%20%3CA%20href%3D%22http%3A%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2Fms406681.aspx%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3EDEPENDSON%20functions%20%3C%2FA%3E%2C%20one%20for%20each%20different%20type%20of%20relationship%20the%20object%20has.%26nbsp%3B%20Note%20that%20changes%20to%20this%20cell%20will%20not%20trigger%20actual%20relationship%20changes%3B%20Visio%20only%20uses%20this%20as%20a%20means%20to%20store%20the%20relationship%20information.%26nbsp%3B%20This%20cell%20is%20not%20intended%20to%20be%20modified%20by%20users%20or%20shape%20developers.%3C%2FP%3E%0A%20%20%3CP%3EThe%20types%20of%20relationships%20are%20listed%20below.%3C%2FP%3E%0A%20%20%3CTABLE%3E%0A%20%20%20%3CTBODY%3E%3CTR%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Value%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Meaning%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E1%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EShapes%20that%20are%20members%20of%20this%20container%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E2%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EShapes%20that%20are%20members%20of%20this%20list%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E3%3C%2FTD%3E%0A%20%20%20%20%3CTD%3ECallouts%20that%20are%20associated%20with%20this%20shape%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E4%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EContainers%20that%20this%20shape%20is%20a%20member%20of%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E5%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EList%20that%20this%20list%20item%20is%20a%20member%20of%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E6%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EShape%20associated%20with%20this%20callout%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E7%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EContainer%20on%20the%20left%20boundary%20edge%20of%20which%20this%20shape%20sits%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E8%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EContainer%20on%20the%20right%20boundary%20edge%20of%20which%20this%20shape%20sits%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E9%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EContainer%20on%20the%20top%20boundary%20edge%20of%20which%20this%20shape%20sits%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E10%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EContainer%20on%20the%20bottom%20boundary%20edge%20of%20which%20this%20shape%20sits%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E11%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EList%20that%20this%20list%20overlaps%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%3C%2FTBODY%3E%3C%2FTABLE%3E%0A%20%20%3CP%3EA%20shape%20named%20Process%20that%20is%20a%20member%20of%20a%20container%20named%20Container%201%20would%20have%20a%20Relationships%20cell%20formula%20of%20this%20form%3A%20%3CEM%3E%3DSUM(DEPENDSON(4%2CContainer%201!SheetRef()))%20%3C%2FEM%3E.%26nbsp%3B%20The%20container%E2%80%99s%20Relationship%20cell%20would%20look%20like%3A%20%3CEM%3E%3DSUM(DEPENDSON(1%2CProcess!SheetRef()))%20%3C%2FEM%3E.%3C%2FP%3E%0A%20%20%3CP%3EIf%20the%20Process%20shape%20were%20pinned%20to%20the%20left%20edge%20of%20the%20container%2C%20its%20Relationships%20cell%20would%20be%3A%20%3CEM%3E%3DSUM(DEPENDSON(7%2CContainer%201!SheetRef())%2CDEPENDSON(4%2CContainer%201!SheetRef()))%20%3C%2FEM%3E.%26nbsp%3B%20The%20container%E2%80%99s%20cell%20would%20remain%20as%20listed.%3C%2FP%3E%0A%20%20%3CP%3EA%20shape%20that%20is%20a%20member%20of%20two%20containers%20would%20look%20like%3A%20%3CEM%3E%3DSUM(DEPENDSON(7)%2CDEPENDSON(4%2CContainer%201!SheetRef()%2CContainer%202!SheetRef()))%20%3C%2FEM%3E%2C%20and%20so%20forth.%3C%2FP%3E%0A%20%20%3CH2%20id%3D%22toc-hId-962336481%22%20id%3D%22toc-hId-1131132349%22%3E%3CSTRONG%3E%20New%20Functions%20%3C%2FSTRONG%3E%3C%2FH2%3E%0A%20%20%3CP%3EWe%20also%20added%20ShapeSheet%20functions%20that%20enable%20new%20developer%20scenarios%2C%20particularly%20for%20integrating%20with%20new%20Visio%202010%20features.%3C%2FP%3E%0A%20%20%3CH3%20id%3D%22toc-hId\--1786333985%22%20id%3D%22toc-hId\--1617538117%22%3E%3CEM%3E%20Containers%20and%20Lists%20%3C%2FEM%3E%3C%2FH3%3E%0A%20%20%3CP%3EA%20number%20of%20functions%20are%20designed%20to%20enable%20interaction%20with%20the%20new%20%3CA%20href%3D%22http%3A%2F%2Fblogs.msdn.com%2Fvisio%2Farchive%2F2009%2F08%2F25%2Forganizing-diagrams-with-containers.aspx%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3Econtainer%20and%20list%20%3C%2FA%3Efeatures.%3C%2FP%3E%0A%20%20%3CP%3EThe%20following%20functions%20return%20a%20Sheet%20reference%2C%20or%20a%20reference%20to%20the%20shape.%26nbsp%3B%20(Such%20functions%20exist%20in%20Visio%202007%20and%20previous%20versions%2C%20such%20as%20NAME%20and%20ID.)%26nbsp%3B%20This%20return%20value%20can%20then%20be%20used%20to%20call%20another%20function.%26nbsp%3B%20For%20example%2C%20%3CEM%3ECALLOUTTARGETREF()!HASCATEGORY(%E2%80%9CCategory%E2%80%9D)%20%3C%2FEM%3E.%3C%2FP%3E%0A%20%20%3CTABLE%3E%0A%20%20%20%3CTBODY%3E%3CTR%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Function%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Description%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3ECALLOUTTARGETREF()%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20a%20Sheet%20reference%20to%20the%20target%20shape%20that%20this%20callout%20is%20associated%20with%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3ECONTAINERSHEETREF(index%2C%20category)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20a%20Sheet%20reference%20to%20the%20container%20shape%20that%20this%20shape%20is%20a%20member%20of%20%3CBR%20%2F%3E\--%20The%201-based%20Index%20parameter%20specifies%20which%20parent%20container%20to%20return%2C%20where%20the%20topmost%20container%20is%20ordered%20first%20%3CBR%20%2F%3E\--%20If%20category%20is%20specified%2C%20the%20container%20must%20have%20that%20category%20in%20order%20to%20be%20returned%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3ELISTSHEETREF()%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20a%20Sheet%20reference%20to%20the%20list%20container%20shape%20that%20this%20shape%20is%20a%20member%20of%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%3C%2FTBODY%3E%3C%2FTABLE%3E%0A%20%20%3CP%3EThe%20following%20functions%20return%20the%20number%20of%20associated%20shapes.%3C%2FP%3E%0A%20%20%3CTABLE%3E%0A%20%20%20%3CTBODY%3E%3CTR%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Function%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Description%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3ECALLOUTCOUNT()%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20number%20of%20callout%20shapes%20associated%20with%20the%20shape%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3ECONTAINERCOUNT()%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20number%20of%20containers%20the%20shape%20is%20a%20member%20of%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3ECONTAINERMEMBERCOUNT()%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20number%20of%20member%20shapes%20in%20the%20container%20shape%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3ELISTMEMBERCOUNT()%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20number%20of%20member%20shapes%20in%20the%20list%20container%20shape%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%3C%2FTBODY%3E%3C%2FTABLE%3E%0A%20%20%3CP%3EThe%20following%20functions%3C%2FP%3E%0A%20%20%3CTABLE%3E%0A%20%20%20%3CTBODY%3E%3CTR%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Function%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Description%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EHASCATEGORY(string)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20TRUE%20if%20the%20specified%20string%20is%20found%20in%20the%20shape\'s%20categories%20list%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3ELISTORDER()%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%201-based%20order%20for%20the%20shape%20within%20a%20list%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%3C%2FTBODY%3E%3C%2FTABLE%3E%0A%20%20%3CP%3EIn%20the%20example%20below%2C%20the%20rectangular%20process%20shape%20belongs%20to%20a%20container.%26nbsp%3B%20It%20shows%20the%20total%20number%20of%20shapes%20in%20the%20container%20using%20a%20text%20field%20with%20the%20formula%20%3CEM%3ECONTAINERSHEETREF(1)!CONTAINERMEMBERCOUNT()%20%3C%2FEM%3E.%3C%2FP%3E%0A%20%20%3CP%3E%3CA%20href%3D%22https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FTNBlogsFS%2FBlogFileStorage%2Fblogs_msdn%2Fvisio%2FWindowsLiveWriter%2FNewShapeSheetCellsandFunctionsinVisio201_FDED%2Fimage_5.png%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3E%20%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F44063i6AA2017086B94739%22%20%2F%3E%20%3C%2FA%3E%3C%2FP%3E%0A%20%20%3CH3%20id%3D%22toc-hId\--43523650%22%20id%3D%22toc-hId-125272218%22%3E%3CEM%3E%20Geometry%20Paths%20%3C%2FEM%3E%3C%2FH3%3E%0A%20%20%3CP%3EAnother%20set%20of%20functions%20enable%20detailed%20interaction%20with%20individual%20geometry%20paths%20among%20different%20shapes.%26nbsp%3B%20Each%20of%20these%20functions%20requires%20a%20specific%20Geometry%20section%20to%20be%20specified%20%E2%80%93%20e.g.%2C%20%3CEM%3EPATHSEGMENT(Sheet.1!Geometry2.Path%2C%200.4)%20%3C%2FEM%3E.%26nbsp%3B%20Points%20on%20a%20path%20are%20given%20as%20a%20percentage%20of%20the%20distance%20along%20the%20path.%3C%2FP%3E%0A%20%20%3CTABLE%3E%0A%20%20%20%3CTBODY%3E%3CTR%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Function%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Description%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EANGLEALONGPATH(section%2C%20percent%2C%20segment)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20tangent%20angle%20of%20a%20point%20on%20the%20path%20defined%20in%20a%20geometry%20section%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EDISTTOPATH(section%2C%20x%2C%20y)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20shortest%20distance%20from%20the%20specified%20coordinates%20to%20a%20point%20on%20the%20path%20defined%20in%20a%20geometry%20section%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3ENEARESTPOINTONPATH(section%2C%20x%2C%20y)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20point%20along%20the%20path%20defined%20in%20a%20geometry%20section%20that%20is%20nearest%20the%20specified%20coordinates%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EPATHLENGTH(section%2C%20segment)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20length%20of%20the%20path%20defined%20in%20a%20geometry%20section%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EPATHSEGMENT(section%2C%20percent)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%201-based%20segment%20number%20containing%20a%20point%20on%20the%20path%20defined%20in%20a%20geometry%20section%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EPOINTALONGPATH(section%2C%20percent%2C%20%5Boffset%5D%2C%20%5Bsegment%5D)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20coordinates%20of%20a%20point%20on%20or%20offset%20from%20the%20path%20defined%20in%20a%20geometry%20section%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3ESEGMENTCOUNT(section%2C%20percent)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20number%20of%20line%20segments%20that%20make%20up%20the%20path%20defined%20in%20a%20geometry%20section%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%3C%2FTBODY%3E%3C%2FTABLE%3E%0A%20%20%3CP%3EThese%20functions%20open%20up%20a%20broad%20set%20of%20interesting%20shape%20interactions%20that%20we%E2%80%99re%20sure%20shape%20and%20solution%20developers%20will%20love.%26nbsp%3B%20We%20will%20write%20a%20more%20detailed%20post%20focusing%20on%20these%20functions%20soon.%3C%2FP%3E%0A%20%20%3CH3%20id%3D%22toc-hId-984125396%22%20id%3D%22toc-hId-1152921264%22%3E%3CEM%3E%20Miscellaneous%20%3C%2FEM%3E%3C%2FH3%3E%0A%20%20%3CP%3EThe%20last%20group%20of%20functions%20are%20various%20helpers%20that%20either%20support%20the%20new%20functions%20or%20fill%20in%20gaps.%26nbsp%3B%20The%20first%20four%20operate%20on%20a%20Sheet%20reference.%3C%2FP%3E%0A%20%20%3CTABLE%3E%0A%20%20%20%3CTBODY%3E%3CTR%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Function%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Description%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EBOUNDINGBOXDIST(index)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20measurement%20for%20the%20part%20of%20the%20shape\'s%20bounding%20box%20specified%20by%20the%20Index%20enumeration%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EBOUNDINGBOXRECT(index)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20coordinate%20of%20an%20edge%20of%20the%20shape\'s%20bounding%20box%20specified%20by%20the%20Index%20enumeration%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EIS1D()%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20TRUE%20if%20the%20shape%20is%20one-dimensional%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3ESHEETREF()%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20a%20Sheet%20reference%20for%20the%20specified%20shape%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EIFERROR(expression%2C%20altExpression)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20the%20evaluated%20result%20of%20the%20expression%20if%20it%20is%20not%20an%20error%3B%20otherwise%20returns%20the%20evaluated%20result%20of%20the%20alternate%20expression%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EMSOSHADE(color%2C%20deltaLum)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EModifies%20the%20color%20by%20decreasing%20its%20luminosity%20by%20the%20amount%20specified%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EMSOTINT(color%2C%20deltaLum)%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EModifies%20the%20color%20by%20increasing%20its%20luminosity%20by%20the%20amount%20specified%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3EVERSION()%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EReturns%20an%20integer%20value%20matching%20the%20current%20version%20of%20the%20Visio%20application%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%3C%2FTBODY%3E%3C%2FTABLE%3E%0A%20%20%3CP%3E%3C%2FP%3E%0A%20%20%3CP%3EIndex%20enumeration%20for%20BOUNDINGBOXDIST%3A%3C%2FP%3E%0A%20%20%3CTABLE%3E%0A%20%20%20%3CTBODY%3E%3CTR%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Value%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Meaning%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E0%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EWidth%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E1%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EHeight%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E2%3C%2FTD%3E%0A%20%20%20%20%3CTD%3ELeft%20edge%20to%20shape%20pin%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E3%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EShape%20pin%20to%20right%20edge%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E4%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EShape%20pin%20to%20top%20edge%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E5%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EBottom%20edge%20to%20shape%20pin%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E6%3C%2FTD%3E%0A%20%20%20%20%3CTD%3ECenter%20of%20bounding%20box%20to%20PinX%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E7%3C%2FTD%3E%0A%20%20%20%20%3CTD%3ECenter%20of%20bounding%20box%20to%20PinY%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%3C%2FTBODY%3E%3C%2FTABLE%3E%0A%20%20%3CP%3EIndex%20enumeration%20for%20BOUNDINGBOXRECT%3A%3C%2FP%3E%0A%20%20%3CTABLE%3E%0A%20%20%20%3CTBODY%3E%3CTR%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Value%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%20%3CTD%3E%3CSTRONG%3E%20Meaning%20%3C%2FSTRONG%3E%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E0%3C%2FTD%3E%0A%20%20%20%20%3CTD%3ELeft%20edge%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E1%3C%2FTD%3E%0A%20%20%20%20%3CTD%3ERight%20edge%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E2%3C%2FTD%3E%0A%20%20%20%20%3CTD%3ETop%20edge%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%20%3CTR%3E%0A%20%20%20%20%3CTD%3E3%3C%2FTD%3E%0A%20%20%20%20%3CTD%3EBottom%20edge%3C%2FTD%3E%0A%20%20%20%3C%2FTR%3E%0A%20%20%3C%2FTBODY%3E%3C%2FTABLE%3E%0A%20%20%3CP%3EWe%20also%20modified%20the%20following%20functions%20that%20existed%20in%20Visio%202007%20and%20prior%20versions.%26nbsp%3B%20You%20can%20continue%20to%20use%20these%20as%20you%20have%20in%20the%20past%20%E2%80%93%20e.g.%2C%20%3CEM%3ENAME()%20%3C%2FEM%3E%E2%80%93%20or%20you%20can%20use%20them%20with%20a%20Sheet%20reference%2C%20such%20as%20%3CEM%3ESheet.4!NAME()%20%3C%2FEM%3Eor%20%3CEM%3ECONTAINERSHEETREF(1)!NAME()%20%3C%2FEM%3E.%3C%2FP%3E%0A%20%20%3CUL%3E%0A%20%20%20%3CLI%3EDATA1%2C%20DATA2%2C%20DATA3%3C%2FLI%3E%0A%20%20%20%3CLI%3EID%3C%2FLI%3E%0A%20%20%20%3CLI%3EMASTERNAME%3C%2FLI%3E%0A%20%20%20%3CLI%3ENAME%3C%2FLI%3E%0A%20%20%20%3CLI%3EPAGENAME%2C%20BKGPAGENAME%3C%2FLI%3E%0A%20%20%20%3CLI%3EPAGENUMBER%2C%20BKGPAGENUMBER%3C%2FLI%3E%0A%20%20%20%3CLI%3ETYPE%2C%20TYPEDESC%3C%2FLI%3E%0A%20%20%3C%2FUL%3E%0A%20%20%3CP%3EWe%20hope%20you%20will%20find%20these%20useful%20in%20opening%20new%20opportunities%20for%20shapes%20and%20making%20your%20shape%20development%20tasks%20easier.%26nbsp%3B%20As%20always%2C%20we%E2%80%99re%20interested%20in%20your%20feedback%20and%20suggestions%20via%20a%20comment%20on%20the%20blog%20or%20using%20%3CA%20href%3D%22http%3A%2F%2Fblogs.technet.com%2Foffice2010%2Farchive%2F2009%2F07%2F15%2Ftell-us-what-you-think-about-office-2010-technical-preview.aspx%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3ESend%20a%20Smile%20%3C%2FA%3E.%3C%2FP%3E%0A%20%0A%3C%2FLINGO-BODY%3E%3CLINGO-TEASER%20id%3D%22lingo-teaser-237582%22%20slang%3D%22en-US%22%3EFirst%20published%20on%20MSDN%20on%20Jan%2C%2004%202010%20Our%20previous%20post%20introduced%20the%20improvements%20we%20made%20to%20the%20ShapeSheet%20window%20for%20shape%20developers.%3C%2FLINGO-TEASER%3E%3CLINGO-LABS%20id%3D%22lingo-labs-237582%22%20slang%3D%22en-US%22%3E%3CLINGO-LABEL%3Eall%20posts%3C%2FLINGO-LABEL%3E%3CLINGO-LABEL%3Eshape%20design%3C%2FLINGO-LABEL%3E%3CLINGO-LABEL%3Evisio%202010%3C%2FLINGO-LABEL%3E%3C%2FLINGO-LABS%3E
+
+::: {#threadTranslationDashboard .Thread_Translation_Dashboard ng-controller="lingotekThreadTranslationCtrl" li-bindable=""}
+::: lingotek-admin-dashboard
+:::
+:::
+
+::: {style="clear:both"}
+:::
+
+::: {#contributorsTaplet .ContributorsTaplet .lia-component-tkb-widget-contributors-taplet}
+::: {.lia-panel .lia-panel-standard}
+::: lia-decoration-border
+::: lia-decoration-border-top
+<div>
+
+</div>
+:::
+
+::: lia-decoration-border-content
+<div>
+
+::: lia-panel-heading-bar-wrapper
+::: lia-panel-heading-bar
+[ Co-Authors ]{.lia-panel-heading-bar-title aria-level="3"
+role="heading"}
+:::
+:::
+
+::: lia-panel-content-wrapper
+::: lia-panel-content
+::: {.UserProfileSummary .lia-user-item .lia-js-data-userId-179278 .lia-user-info-group}
+::: UserAvatarWrapper
+::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Frequent .Visitor}
+[![visioblogs](https://techcommunity.microsoft.com/t5/image/serverpage/avatar-name/defaultavatar/avatar-theme/candy/avatar-collection/Microsoft/avatar-display-size/message/version/2?xdesc=1.0 "visioblogs"){.lia-user-avatar-message
+.user-rank-ring style=""
+onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/179278){.UserAvatar
+.lia-link-navigation}
+:::
+
+::: {.user-profile-card user-id="179278"}
+::: contents
+::: spinner
+:::
+:::
+:::
+:::
+
+::: lia-user-attributes
+::: lia-user-name
+[
+[visioblogs](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/179278){#link_9
+.lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
+.lia-user-name .lia-user-rank-Frequent-Visitor}
+:::
+:::
+:::
+:::
+:::
+
+</div>
+:::
+
+::: lia-decoration-border-bottom
+<div>
+
+</div>
+:::
+:::
+:::
+:::
+
+::: {.lia-panel .lia-panel-standard .ArticleRevisionInfoTaplet .Chrome .lia-component-tkb-widget-article-revision-info-taplet}
+::: lia-decoration-border
+::: lia-decoration-border-top
+<div>
+
+</div>
+:::
+
+::: lia-decoration-border-content
+<div>
+
+::: lia-panel-heading-bar-wrapper
+::: lia-panel-heading-bar
+[Version history]{.lia-panel-heading-bar-title aria-level="3"
+role="heading"}
+:::
+:::
+
+::: lia-panel-content-wrapper
+::: lia-panel-content
+::: lia-revision-info-wrapper
+::: lia-revision-info-content
+::: {.lia-revision-info-row .lia-revision-last-update-row}
+::: lia-revision-info-title-cell
+Last update:
+:::
+
+::: lia-revision-info-data-cell
+[ [‎Nov 08 2021]{.local-date} [04:03 PM]{.local-time} ]{.DateTime}
+:::
+:::
+
+::: {.lia-revision-info-row .lia-revision-author-row}
+::: lia-revision-info-title-cell
+Updated by:
+:::
+
+::: lia-revision-info-data-cell
+[
+[[Meenah_Khosraw]{.login-bold}](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/875458){#link_10
+.lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
+.lia-user-name .lia-user-rank-Community-Manager}
+:::
+:::
+
+::: {.lia-revision-info-row .lia-revision-article-history-link-row .lia-revision-info-data-cell-workflow}
+:::
+:::
+:::
+:::
+:::
+
+</div>
+:::
+
+::: lia-decoration-border-bottom
+<div>
+
+</div>
+:::
+:::
+:::
+
+::: {.lia-panel .lia-panel-standard .LabelsTaplet .Chrome .lia-component-labels-widget-labels-list .custom-blog-article-label-widget}
+::: lia-decoration-border
+::: lia-decoration-border-top
+<div>
+
+</div>
+:::
+
+::: lia-decoration-border-content
+::: lia-panel-heading-bar-wrapper
+::: lia-panel-heading-bar
+[Labels]{.lia-panel-heading-bar-title aria-level="4" role="heading"}
+:::
+:::
+
+::: lia-panel-content-wrapper
+::: lia-panel-content
+::: BlogLabelsTaplet
+::: LabelsList
+::: {.spinner .labels-spinner}
+:::
+
+::: labels-container
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: lia-decoration-border-bottom
+<div>
+
+</div>
+:::
+:::
+:::
+
+::: blog-article-social-share-widget-wrapper
+::: custom-social-share-component
+::: custom-social-share-widget
+::: {.lia-panel .lia-panel-standard .Chrome .custom-share-component style=""}
+::: lia-decoration-border
+::: lia-decoration-border-top
+<div>
+
+</div>
+:::
+
+::: lia-decoration-border-content
+<div>
+
+::: lia-panel-heading-bar-wrapper
+::: lia-panel-heading-bar
+## Share {#customShareWidget .lia-panel-heading-bar-title .hello}
+:::
+:::
+
+::: lia-panel-content-wrapper
+::: lia-panel-content
+-   [[Share to
+    LinkedIn]{.social-share-title}](http://www.linkedin.com/shareArticle?mini=true&url=https://techcommunity.microsoft.com/t5/microsoft-365-blog/new-shapesheet-cells-and-functions-in-visio-2010/ba-p/237582 "Share to LinkedIn"){.social-share-link
+    .social-share-linkedin}
+-   [[Share to
+    Facebook]{.social-share-title}](http://www.facebook.com/share.php?u=https://techcommunity.microsoft.com/t5/microsoft-365-blog/new-shapesheet-cells-and-functions-in-visio-2010/ba-p/237582 "Share to FaceBook"){.social-share-link
+    .social-share-facebook}
+-   [[Share to
+    Twitter]{.social-share-title}](http://twitter.com/share?text=Check%20out%20this%20post%20on%20the%20Microsoft%20Tech%20Community%20:%20New%20ShapeSheet%20Cells%20and%20Functions%20in%20Visio%202010%20-%20Microsoft%20Tech%20Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-blog/new-shapesheet-cells-and-functions-in-visio-2010/ba-p/237582 "Share to Twitter"){.social-share-link
+    .social-share-twitter}
+-   [[Share to
+    Email]{.social-share-title}](mailto:?subject=New%20ShapeSheet%20Cells%20and%20Functions%20in%20Visio%202010%20-%20Microsoft%20Tech%20Community&body=I%20found%20this%20on%20the%20Microsoft%20Tech%20Community%20and%20wanted%20to%20share%20it%20with%20you,%20check%20it%20out%20:%20https://techcommunity.microsoft.com/t5/microsoft-365-blog/new-shapesheet-cells-and-functions-in-visio-2010/ba-p/237582 "Share via email"){.social-share-link
+    .social-share-email}
+:::
+:::
+
+</div>
+:::
+
+::: lia-decoration-border-bottom
+<div>
+
+</div>
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {.lia-quilt-row .lia-quilt-row-footer}
+::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-footer}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
+::: {.lia-quilt .lia-quilt-footer .lia-quilt-layout-footer .lia-component-quilt-footer}
+::: {.lia-quilt-row .lia-quilt-row-main}
+::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-icons}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-single .lia-mark-empty}
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {.cse-46444-wa style="display: none"}
+::: {.lia-slide-out-nav-menu .lia-component-common-widget-slide-out-nav-menu}
+::: {.lia-slide-out-nav-menu-title ng-non-bindable=""}
+Browse
+:::
+
+::: {.lia-quilt .lia-quilt-navigation-slide-out-menu .lia-quilt-layout-one-column .lia-top-quilt}
+::: {.lia-quilt-row .lia-quilt-row-header}
+::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-header .lia-mark-empty}
+:::
+:::
+
+::: {.lia-quilt-row .lia-quilt-row-main}
+::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-main-content}
+::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
+:::
+:::
+:::
+
+::: {.lia-quilt-row .lia-quilt-row-footer}
+::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-footer .lia-mark-empty}
+:::
+:::
+:::
+:::
+:::
+
+::: {.shell-footer bi-view="5xLinks" bi-area="Footer" ms.pgarea="uhffooter" role="contentinfo"}
+::: shell-footer-wrapper
+::: {.shell-footer-menugroups ms.cmpgrp="footer nav"}
+::: {.sfm-group ms.cmpnm="WhatsNew"}
+###### What\'s new  {#whats-new .grp-title}
+
+-   [Surface Pro
+    X](https://www.microsoft.com/p/surface-pro-x/8vdnrp2m6hhc?activetab=overview)
+-   [Surface Laptop
+    3](https://www.microsoft.com/p/surface-laptop-3/8VFGGH1R94TM?activetab=overview)
+-   [Surface Pro
+    7](https://www.microsoft.com/p/surface-pro-7/8N17J0M5ZZQS?activetab=overview)
+-   [Windows 10 Apps](https://www.microsoft.com/windows/windows-10-apps)
+-   [Office apps](https://store.office.com/appshome.aspx)
+:::
+
+::: {.sfm-group ms.cmpnm="MicrosoftStore"}
+###### Microsoft Store  {#microsoft-store .grp-title}
+
+-   [Account profile](https://account.microsoft.com/)
+-   [Download Center](https://www.microsoft.com/download)
+-   [Microsoft Store
+    support](https://go.microsoft.com/fwlink/p/?LinkID=824761&clcid=0x409)
+-   [Returns](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x409)
+-   [Order tracking](https://account.microsoft.com/orders)
+-   [Store
+    locations](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS)
+-   [Buy online, pick up in
+    store](https://www.microsoft.com/en-us/store/b/buy-online-pick-up-in-store?icid=uhf_footer_bopuis)
+-   [In-store
+    events](https://www.microsoft.com/en-us/store/locations/events?icid=en_us_store_uhf_events)
+:::
+
+::: {.sfm-group ms.cmpnm="Education"}
+###### Education  {#education .grp-title}
+
+-   [Microsoft in education](https://www.microsoft.com/education)
+-   [Office for
+    students](https://www.microsoft.com/education/products/office/default.aspx)
+-   [Office for
+    schools](https://products.office.com/academic/compare-office-365-education-plans)
+-   [Deals for students and
+    parents](https://www.microsoft.com/en-us/store/b/education?icid=CNavfooter_Studentsandeducation)
+-   [Microsoft Azure in
+    education](https://azure.microsoft.com/community/education/)
+:::
+
+::: {.sfm-group ms.cmpnm="Enterprise"}
+###### Enterprise  {#enterprise .grp-title}
+
+-   [Azure](https://azure.microsoft.com/)
+-   [AppSource](https://go.microsoft.com/fwlink/?LinkID=808093)
+-   [Automotive](https://www.microsoft.com/enterprise/automotive)
+-   [Government](https://www.microsoft.com/enterprise/government)
+-   [Healthcare](https://www.microsoft.com/enterprise/health)
+-   [Manufacturing](https://www.microsoft.com/enterprise/manufacturing)
+-   [Financial
+    Services](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
+-   [Retail](https://www.microsoft.com/enterprise/retail-consumer-goods)
+:::
+
+::: {.sfm-group ms.cmpnm="Developer"}
+###### Developer  {#developer .grp-title}
+
+-   [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
+-   [Window Dev Center](https://developer.microsoft.com/windows)
+-   [Developer Network](https://msdn.microsoft.com/)
+-   [TechNet](https://technet.microsoft.com/)
+-   [Microsoft developer
+    program](https://developer.microsoft.com/store/register)
+-   [Channel 9](https://channel9.msdn.com/)
+-   [Office Dev Center](https://developer.microsoft.com/office)
+-   [Microsoft Garage](https://www.microsoft.com/garage/)
+:::
+
+::: {.sfm-group ms.cmpnm="Company"}
+###### Company  {#company .grp-title}
+
+-   [Careers](https://careers.microsoft.com/)
+-   [About Microsoft](https://www.microsoft.com/en-us/about)
+-   [Company News](https://news.microsoft.com/)
+-   [Privacy at Microsoft](https://privacy.microsoft.com/)
+-   [Investors](https://www.microsoft.com/investor/default.aspx)
+-   [Diversity and inclusion](https://www.microsoft.com/diversity/)
+-   [Accessibility](https://www.microsoft.com/accessibility)
+-   [Security](https://www.microsoft.com/security/default.aspx)
+:::
+:::
+
+::: {.shell-footer-copyright ms.cmpnm="corp" ms.cmpgrp="corp links"}
+-   [Sitemap](https://www.microsoft.com/en-us/sitemap1.aspx){#shellmenu_0
+    .ctl_footerNavLink}
+-   [Contact
+    Microsoft](https://support.microsoft.com/contactus){#shellmenu_1
+    .ctl_footerNavLink}
+-   [Privacy](https://go.microsoft.com/fwlink/?LinkId=521839){#shellmenu_2
+    .ctl_footerNavLink}
+-   [Manage cookies](#){#shellmenu_2B .ctl_footerNavLink .hidden}
+-   [Terms of
+    use](http://go.microsoft.com/fwlink/?LinkID=206977){#shellmenu_3
+    .ctl_footerNavLink}
+-   [Trademarks](https://www.microsoft.com/trademarks){#shellmenu_4
+    .ctl_footerNavLink}
+-   [Safety and
+    eco](https://www.microsoft.com/devices/safety-and-eco){#shellmenu_5
+    .ctl_footerNavLink}
+-   [About our ads](https://choice.microsoft.com/){#shellmenu_6
+    .ctl_footerNavLink}
+-   © []{#footerDate} Microsoft
+:::
+:::
+:::
+:::
+
+[](#){#valueSurveyLauncher .lia-link-navigation .lia-value-survey-link
+.lia-panel-dialog-trigger .lia-panel-dialog-trigger-event-click
+.lia-js-data-dialogKey--1578405518}

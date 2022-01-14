@@ -1,0 +1,132 @@
+############# english navigation ##############
+
+# Dropdown menu
+[[main]]
+weight = 1
+name = "homepage"
+hasChildren = true
+
+  [[main]]
+  parent = "homepage"
+  name = "Homepage Minimal"
+  url = "homepage/minimal/"
+  weight = 1
+
+  [[main]]
+  parent = "homepage"
+  name = "Homepage Full Width"
+  url = "homepage/full/"
+  weight = 2
+
+  [[main]]
+  parent = "homepage"
+  name = "Homepage Full With Left Sidebar"
+  url = "homepage/full-left/"
+  weight = 3
+
+  [[main]]
+  parent = "homepage"
+  name = "Homepage Full With Right Sidebar"
+  url = "homepage/full-right/"
+  weight = 4
+  
+  [[main]]
+  parent = "homepage"
+  name = "Homepage List Style"
+  url = "homepage/list/"
+  weight = 5
+
+  [[main]]
+  parent = "homepage"
+  name = "Homepage List With Left Sidebar"
+  url = "homepage/list-left/"
+  weight = 6
+
+  [[main]]
+  parent = "homepage"
+  name = "Homepage List With Right Sidebar"
+  url = "homepage/list-right/"
+  weight = 7
+  
+  [[main]]
+  parent = "homepage"
+  name = "Homepage Grid Style"
+  url = "homepage/grid/"
+  weight = 8
+
+  [[main]]
+  parent = "homepage"
+  name = "Homepage Grid With Left Sidebar"
+  url = "homepage/grid-left/"
+  weight = 9
+
+  [[main]]
+  parent = "homepage"
+  name = "Homepage Grid With Right Sidebar"
+  url = "homepage/grid-right/"
+  weight = 10
+
+
+[[main]]
+name = "About"
+URL = "#"
+weight = 2
+  
+  [[main]]
+  parent = "About"
+  name = "About Me"
+  url = "about-me/"
+  weight = 1
+
+  [[main]]
+  parent = "About"
+  name = "About Us"
+  url = "about-us/"
+  weight = 2
+
+[[main]]
+name = "Contact"
+URL = "contact/"
+weight = 3
+
+# Dropdown menu
+[[main]]
+weight = 4
+name = "Pages"
+hasChildren = true
+
+  [[main]]
+  parent = "Pages"
+  name = "Author"
+  url = "author/"
+  weight = 1
+
+  [[main]]
+  parent = "Pages"
+  name = "Category"
+  url = "categories/creativity/"
+  weight = 2
+
+  [[main]]
+  parent = "Pages"
+  name = "Tags"
+  url = "tags/food/"
+  weight = 3
+
+  [[main]]
+  parent = "Pages"
+  name = "404 Page"
+  url = "404/"
+  weight = 4
+
+
+# footer menu
+[[footer]]
+name = "Privacy Policy"
+URL = "privacy-policy/"
+weight = 1
+
+[[footer]]
+name = "Terms Conditions"
+URL = "terms-conditions/"
+weight = 2

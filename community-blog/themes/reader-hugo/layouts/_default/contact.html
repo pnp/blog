@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        {{with .Params.image}} <img src="{{. | absURL}}" class="img-fluid w-100 mb-4" loading="lazy"> {{ end }}
+        <div class="content mb-5">
+          {{.Content}}
+        </div>
+        
+        <form method="POST" action="{{site.Params.contact_form_action}}">
+          <div class="form-group">
+            <label for="name">{{ i18n "name" }} (Required)</label>
+            <input type="text" name="name" id="name" class="form-control" placeholder="John Doe" required>
+          </div>
+          <div class="form-group">
+            <label for="email">{{ i18n "email" }} (Required)</label>
+            <input type="email" name="email" id="email" class="form-control" placeholder="johndoe@gmail.com" required>
+          </div>
+          <div class="form-group">
+            <label for="email">{{ i18n "subject" }}</label>
+            <input type="email" name="email" id="email" class="form-control" placeholder="Advertising">
+          </div>
+          <div class="form-group">
+            <label for="message">{{ i18n "message"}}</label>
+            <textarea name="message" id="message" class="form-control" placeholder="Lorem ipsum dolor sit amet..."></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">{{ i18n "send"}}</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

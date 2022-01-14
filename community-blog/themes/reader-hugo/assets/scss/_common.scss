@@ -1,0 +1,233 @@
+body {
+  background-color: $body-color;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: darken($color: $primary-color, $amount: 10);
+  color: $white;
+}
+
+/* preloader */
+
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: $body-color;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  vertical-align: middle;
+  border: 0;
+}
+
+a,
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+a,
+button,
+select {
+  cursor: pointer;
+  transition: .2s ease;
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+a:hover {
+  color: $primary-color;
+}
+
+.slick-slide {
+  outline: 0;
+}
+
+hr {
+  margin: 40px 0;
+}
+
+.shadow {
+  box-shadow: 0px 25px 65px rgba(0, 0, 0, 0.05) !important;
+}
+
+.mark,
+mark {
+  padding: 0;
+  background-color: transparent;
+  border-bottom: 3px solid $primary-color;
+  color: $primary-color;
+}
+
+.section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+  &-sm {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  &-title {
+    position: relative;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    letter-spacing: 0.06em;
+
+    &::before {
+      position: absolute;
+      left: 0;
+      bottom: -8px;
+      content: "";
+      height: 2px;
+      width: 60px;
+      background-color: $primary-color;
+    }
+  }
+}
+
+.bg-cover {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.border-primary {
+  border-color: $border-color !important;
+}
+
+/* overlay */
+
+.overlay {
+  position: relative;
+
+  &::before {
+    position: absolute;
+    content: '';
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: $black;
+    opacity: .5;
+  }
+}
+
+.bg-primary {
+  background: $primary-color !important;
+}
+
+.text-primary {
+  color: $primary-color !important;
+}
+
+.text-default {
+  color: $text-color !important;
+}
+
+.border-default {
+  border-color: $border-color !important;
+}
+
+.form-control {
+  &:focus {
+    outline: 0;
+    box-shadow: none;
+  }
+}
+
+.st0 {
+  fill: $primary-color;
+}
+
+.sidebar-home {
+  margin-top: 47px;
+
+  @include desktop {
+    margin-top: 0;
+  }
+}
+
+.sidebar-inner {
+  margin-top: 65px;
+
+  @include desktop {
+    margin-top: 0;
+  }
+}
+
+.embed-responsive {
+  background-color: black;
+}
+
+.instagram-slider {
+  height: 0;
+  overflow: hidden;
+  &.show {
+    height: auto;
+  }
+}
+
+// card
+.card-meta {
+  li i {
+    margin-right: 3px;
+  }
+}
+
+// image-fallback
+.image-fallback {
+  font-size: 0;
+  height: 100%;
+  min-height: 174px;
+  width: 100%;
+  background-color: #f2f2f2;
+  text-align: center;
+  position: relative;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    &::first-letter {
+      font-size: 60px;
+      color: $black;
+    }
+  }
+}
+.image-fallback-sm {
+  font-size: 0;
+  height: 85px;
+  min-width: 85px;
+  background-color: #f2f2f2;
+  text-align: center;
+  border-radius: 5px;
+  display: inline-block;
+  span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    &::first-letter {
+      font-size: 40px;
+      color: $black;
+    }
+  }
+}
+
+// border-primary
+.border-primary {
+  border-color: $primary-color !important;
+}

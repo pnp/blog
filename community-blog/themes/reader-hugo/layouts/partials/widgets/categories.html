@@ -1,0 +1,13 @@
+{{ "<!-- categories -->" | safeHTML }}
+<div class="widget widget-categories">
+  <h4 class="widget-title"><span>{{ i18n "categories" }}</span></h4>
+  {{- if isset site.Taxonomies "categories" }}
+  {{- if not (eq (len site.Taxonomies.categories) 0) }}
+  <ul class="list-unstyled widget-list">
+    {{- range $name, $items := site.Taxonomies.categories }}
+    <li><a href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}" class="d-flex">{{ $name | humanize }} <small class="ml-auto">({{ len $items }})</small></a></li>
+    {{- end }}
+  </ul>
+  {{- end }}
+  {{- end }}
+</div>
