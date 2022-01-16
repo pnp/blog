@@ -6,9 +6,11 @@ logo = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "100x"
+
 # logo text will only show when logo is missing.
 logo_text = "Microsoft 365 PnP"
- # menu align available option (left, right, or center )
+
+# menu align available option (left, right, or center )
 menu_align = "center"
 
 # OpenGraph / Twitter Card metadata
@@ -27,13 +29,13 @@ custom_script= ""
 # search
 search = true
 # banner
-banner = true
+banner = false
 # featured
 featured_post = true
 # layout
 post_layout= "full" # layout value (full, grid or list)
 # Sidebar
-sidebar = "right" # sidebar value (left, right or false)
+sidebar = "false" # sidebar value (left, right or false)
 # main taxonomy that will show at header and post card
 main_taxonomy = "tag" # optional value (tag or category)
 
@@ -56,7 +58,7 @@ footer_bg_image = "images/backgrounds/footer-bg.svg"
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours

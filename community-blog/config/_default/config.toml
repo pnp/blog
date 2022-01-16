@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/reader/"
+baseURL = "https://pnp.github.io/community-blog"
 title = "Microsoft 365 PnP Blog"
 theme = "reader-hugo"
 # post pagination

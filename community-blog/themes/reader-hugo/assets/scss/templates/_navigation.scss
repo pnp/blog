@@ -1,11 +1,12 @@
 .navigation {
   border-bottom: 1px solid $border-color;
+  background-color: $secondary-color;
   padding: 10px 0;
   &.nav-bg {
-    background-color: $white;
+    background-color: $secondary-color;
   }
   @include desktop {
-    background-color: $white;
+    background-color: $secondary-color;
   }
 }
 
@@ -20,10 +21,10 @@
 }
 
 .navbar-white .navbar-nav .nav-link {
-  color: $text-color-dark;
+  color: $white;
 
   &:hover {
-    color: $primary-color;
+    color: $white;
   }
 }
 

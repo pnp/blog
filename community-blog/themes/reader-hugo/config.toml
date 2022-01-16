@@ -23,10 +23,10 @@ light = "#F9F9F9"
 # Give your font name from google font. add font weight using ":wght@" and separate by ";"
 # example: "Work Sans:wght@400;500;600"
 # primary_font = "Nunito Sans:wght@400;600;700;800"
-primary_font = "Nunito Sans:ital,wght@0,400;0,600;0,700;0,800;1,800"
-primary_font_type = "sans-serif" # [serif/sans-serif]
-secondary_font = ""
-secondary_font_type = "" # [serif/sans-serif]
+#primary_font = "Nunito Sans:ital,wght@0,400;0,600;0,700;0,800;1,800"
+#primary_font_type = "sans-serif" # [serif/sans-serif]
+#secondary_font = ""
+#secondary_font_type = "" # [serif/sans-serif]
 icon_font = "Font Awesome 5 Free"
 
 

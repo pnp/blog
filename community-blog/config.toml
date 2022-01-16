@@ -1,4 +1,3 @@
-baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-
+baseURL = "https://pnp.github.io/community-blog"
+title = "Microsoft 365 PnP Blog"
