@@ -1,0 +1,7 @@
+################################### English language #####################################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content"
+weight = 1
+heading = "What Would You <br> Like To Read Today?"
