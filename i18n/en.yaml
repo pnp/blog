@@ -1,8 +1,8 @@
 - id: read_more
-  translation: Read More
+  translation: Read more
 
 - id: search_placeholder
-  translation: Type & Hit Enter...
+  translation: Search
 
 - id: recent_post
   translation: Recent
@@ -47,7 +47,7 @@
   translation: Social Links
 
 - id: minute_read
-  translation: Min To Read
+  translation: minutes to read
 
 - id: posts_by
   translation: Posts by this author
