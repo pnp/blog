@@ -1061,7 +1061,7 @@ mark {
       fill: #3974d3; }
 
 .footer {
-  padding: 120px 0 50px;
+  padding: 120px 0 0px;
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;

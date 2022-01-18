@@ -7,6 +7,7 @@ images:
 #author
 author: "Adam Wójcik"
 # description
+description: "During my SP consultant/dev work I most of the times used the last two. From time to time I got the question: which one is better?"
 summary: "During my SP consultant/dev work I most of the times used the last two. From time to time I got the question: which one is better?"
 # Taxonomies
 categories: ["CLI for Microsoft 365","PnP PowerShell"]
