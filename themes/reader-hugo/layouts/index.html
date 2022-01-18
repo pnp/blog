@@ -114,12 +114,12 @@
                 <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid"  alt="post-thumb" width="{{$img.Width}}" height="{{$img.Height}}">
               </picture>
             {{ else }}
-
+              <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
             {{ end }}
             {{ end }}
           </div>
           {{ else }}
-
+            <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
           {{ end }}
           <!-- /post thumb -->
           <div class="card-body">
