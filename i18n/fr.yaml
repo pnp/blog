@@ -1,0 +1,89 @@
+- id: continiue_reading
+  translation: Relecture Continiue
+
+- id: search_placeholder
+  translation: Tapez et appuyez sur Entrée ...
+
+- id: recent_post
+  translation: Post récent
+
+- id: authors
+  translation: Auteurs
+
+- id: tags
+  translation: Mots clés
+
+- id: categories
+  translation: Catégories
+
+- id: search
+  translation: Chercher
+
+- id: date
+  translation: Date
+
+- id: send
+  translation: Envoyer maintenant
+
+- id: name
+  translation: votre nom
+
+- id: email 
+  translation: Votre adresse email
+
+- id: subject
+  translation: Motif du contact
+
+- id: message
+  translation: Votre message ici
+
+- id: subscribe
+  translation: Abonnez-vous maintenant
+
+- id: subscribe_newsletter
+  translation: Abonnez-vous à la newsletter
+
+- id: social
+  translation: Liens sociaux
+  
+- id: minute_read
+  translation: Min à lire
+
+- id: posts_by
+  translation: Messages de cet auteur
+
+- id: showing_from
+  translation: Affichage des éléments de
+
+- id: search_for
+  translation: Résultats de recherche pour
+
+- id: instagram_post
+  translation: Post Instagram
+
+- id: editors_pick
+  translation: Le choix de l'éditeur
+
+- id: trending_post
+  translation: Message tendance
+
+- id: popular_post
+  translation: Poste populaire
+
+- id: about_me
+  translation: À propos de moi
+
+- id: subscribe_newsletter
+  translation: Ne manquez jamais une nouvelle
+
+- id: back_to_home
+  translation: De retour à la maison
+
+- id: visit_channel
+  translation: Visiter la chaîne
+
+- id: home
+  translation: Accueil
+
+- id: our_authors
+  translation: Nos auteurs

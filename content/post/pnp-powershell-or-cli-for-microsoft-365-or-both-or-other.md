@@ -3,7 +3,7 @@ title: "PnP PowerShell or CLI for Microsoft 365 or both or other"
 date: 2022-01-11T15:40:24+06:00
 # post thumb
 images:
-  - "content/media/cli-for-microsoft-365-on-your-mobile/Prezentacja1.png"
+  - "images/blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/post-thumb.png"
 #author
 author: "Adam Wójcik"
 # description

@@ -83,7 +83,7 @@ expire_days = 2
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["categories", "tags", "social"]
+sidebar = ["categories", "tags", "recent-post", "social"]
 # available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
 
 
