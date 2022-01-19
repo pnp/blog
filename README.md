@@ -1,12 +1,12 @@
 # community-blog
 
-The [Microsoft 365 PnP Community](https://aka.ms/m365pnp) is the virtual home for everyone who wants to extend Microsoft 365 beyond the standard. We want to share knowledge, learn from each other and achieve more together.
+The [Microsoft 365 Community](https://aka.ms/m365pnp) is the virtual home for everyone who wants to extend Microsoft 365 beyond the standard. We want to share knowledge, learn from each other and achieve more together.
 
 > Our mission is to create a single inclusive and welcoming place for everyone who wants to build on Microsoft 365.  
 
 ## What can you expect here?
 
-This blog is part of the Microsoft 365 Patterns and Practices community and complements our existing initiatives under the PnP umbrella, such as our [open-source projects](https://github.com/pnp) and [Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/), where we explain how the different features of Microsoft 365 work and offer guidance on how to use them.
+This blog is part of the Microsoft 365 community and complements our existing initiatives, such as our [open-source projects](https://github.com/pnp) and [Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/), where we explain how the different features of Microsoft 365 work and offer guidance on how to use them.
 
 You can find community-authored blog posts alongside with Community Call recordings and Podcasts here.
 
@@ -30,9 +30,9 @@ We want to let our community grow and get new people involved, so we want to als
 
 Appreciating people from all backgrounds and with different expertise will ensure inclusiveness and improve our ability to step outside of our comfort zones and respect diverse perspectives. Learning that there is no pecking order of power users, makers, and developers but that we will be most successful when we focus on a better together approach will make a huge difference.  
 
-## How can you contribute to Microsoft 365 PnP Community blog?
+## How can you contribute to Microsoft 365 Community blog?
 
-You can create articles in the Microsoft 365 PnP Blog by submitting them with a Pull request, please read our [Contributing guidelines](CONTRIBUTING.md) on how to do this.
+You can create articles in the Microsoft 365 community blog by submitting them with a Pull request, please read our [Contributing guidelines](CONTRIBUTING.md) on how to do this.
 
 After you contributed, we want to celebrate your contributions - which is why we partnered up with Credly in our [Recognition Program](https://pnp.github.io/recognitionprogram/) to provide you badges as a token of appreciation. Please opt-in (only one time) so we get you registered. You will get your badge shortly after your contribution.
 
@@ -45,4 +45,3 @@ Do you consider to demo your solution in one of our Community Calls? We would lo
 We are here and happy to support you and provide you with resources, guidance and an entire community to help you contributing. Our friends at [Sharing is Caring](https://aka.ms/sharing-is-caring) run sessions on how you get started and will help you along the way. If you have any questions, please reach out to any [Microsoft 365 PnP member](https://aka.ms/m365pnp), they will point you into the right direction.
 
 _Sharing is Caring!_
-
