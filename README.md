@@ -45,3 +45,4 @@ Do you consider to demo your solution in one of our Community Calls? We would lo
 We are here and happy to support you and provide you with resources, guidance and an entire community to help you contributing. Our friends at [Sharing is Caring](https://aka.ms/sharing-is-caring) run sessions on how you get started and will help you along the way. If you have any questions, please reach out to any [Microsoft 365 PnP member](https://aka.ms/m365pnp), they will point you into the right direction.
 
 _Sharing is Caring!_
+

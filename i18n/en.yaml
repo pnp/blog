@@ -1,0 +1,92 @@
+- id: read_more
+  translation: Read more
+
+- id: search_placeholder
+  translation: Search
+
+- id: recent_post
+  translation: Recent
+
+- id: authors
+  translation: Authors
+
+- id: tags
+  translation: Tags
+
+- id: categories
+  translation: Categories
+
+- id: search
+  translation: Search
+
+- id: date
+  translation: Date
+
+- id: send
+  translation: Send Now
+
+- id: name
+  translation: Your Name
+
+- id: email 
+  translation: Your Email Address
+
+- id: subject
+  translation: Reason For Contact
+
+- id: message
+  translation: Your Message Here
+
+- id: subscribe
+  translation: Subscribe now
+
+- id: subscribe_newsletter
+  translation: Subscribe Newsletter
+
+- id: social
+  translation: Social Links
+
+- id: minute_read
+  translation: minutes to read
+
+- id: posts_by
+  translation: Posts by this author
+
+- id: showing_from
+  translation: Showing items from
+
+- id: search_for
+  translation: Search results for
+
+- id: instagram_post
+  translation: Instagram Post
+
+- id: editors_pick
+  translation: Parker's Pick
+
+- id: trending_post
+  translation: Trending
+
+- id: popular_post
+  translation: Popular
+
+- id: about_me
+  translation: About me
+
+- id: subscribe_newsletter
+  translation: Stay Updated
+
+- id: back_to_home
+  translation: Back To Home
+
+- id: subject
+  translation: Reason For Contact
+
+- id: visit_channel
+  translation: Visit Channel
+
+- id: home
+  translation: Home
+
+- id: our_authors
+  translation: Our Authors
