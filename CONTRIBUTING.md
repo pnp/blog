@@ -62,24 +62,21 @@ You will now want to (kindly) ask the repository maintainer to pull in your chan
 - Select **Pull requests**
 - Select **New pull request**
 
-![create pull request](/docs/img/create-pr.png)
+![create pull request](community-blog/assets/GitHub-newPR.png)
 
 - Select **compare across forks**
 - Select your fork from the **head repository**
 
-![compare changes](/docs/img/create-pr.png)
+![compare changes](community-blog/assets/GitHub-createPR.png)
 
 - Select **Compare & pull request**
-
-![compare and pull request](/docs/img/compare-and-pr.png)
 
 - Fill out the form (please read carefully, this way we don't need to go back and forth too often)
   - give your PR a descriptive title
   - describe what's in the PR
-  - provide us with your twitter handle and a short text how we can promote your article. Including your twitter handle this text can't be longer than 257 characters.
+  - provide us with your twitter handle and a short text how we can promote your article. Including your own twitter handle this text can't be longer than 257 characters.
 - You can always switch to **Preview** to see how it looks like
 - Select **Create pull request**
 - If needed, you can commit more files and changes
 
 A maintainer will review your pull request and merge your changes soon so that your blog appears on the [Microsoft 365 Community blog](https://pnp.github.io/community-blog/). This repository is maintained by volunteers in their free time, please be kind. Everyone is doing their best to keep things moving forward.
-
