@@ -151,10 +151,9 @@ almost 600 commands (<a href=https://github.com/pnp/powershell/tree/dev/document
 list</a>) that
 gives the possibility to manage SharePoint Online, Microsoft Teams,
 Microsoft Planner and Power Platform (mainly Power Automate (for
-PowerApps there is also
-the <a href=https://docs.microsoft.com/en-us/power-platform/admin/powerapps-powershell>PowerApps.PowerShell</a>
-which may be used.<br>
-It's straight forward and easy to use and it&rsquo;s a perfect pick for any
+PowerApps there is also the<a href=https://docs.microsoft.com/power-platform/admin/powerapps-powershell>PowerApps.PowerShell</a>
+which may be used.
+It&rsquo;s straight forward and easy to use and it&rsquo;s a perfect pick for any
 quick day to day tenant management as well as for huge scripts that may
 run every day to add that additional logic to your tenant (either
 reporting or maintenance or provisioning or other). And Like every other
@@ -184,7 +183,7 @@ the <a href=https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/>doctor<
 or projects (rename, upgrade etc.). This is something I think
 PnP.PowerShell does not have.</p>
 <p>Some commands do simple things but some actually are ready to use
-scenarios all done under a single command. Check out the <a href=https://pnp.github.io/cli-microsoft365/cmd/login/#usage>full list of
+scenarios all done under a single command. Check out the <a href=https://pnp.github.io/cli-microsoft365/cmd/login/#usage>full list of
 commands</a></p>
 <p>That&rsquo;s nice right. But how does it work. Well CLI for M365 is given as a
 npm package, that's right you need Node.js (that's why it's cross
@@ -222,8 +221,8 @@ get you started</a></p>
 GitHub actions you may use for you CI/CD workflows. Ever had this "ye
 and when we push on the master branch it would be nice if the webpart
 would be build and pushed to a test/QA tenant". If yes then you have to
-see this<a href=https://pnp.github.io/cli-microsoft365/concepts/github-actions/> GitHub Actions - CLI for Microsoft 365
-(pnp.github.io)</a></p>
+see this <a href=https://pnp.github.io/cli-microsoft365/concepts/github-actions/>GitHub Actions - CLI for Microsoft 365
+pnp.github.io</a></p>
 <h2 id=when-what-why>When? What? Why?</h2>
 <p>Using either PnP.PowerShell or CLI for M365 is rather simple and totally
 logical. Lets have a look at this very simple script from PnP Script
@@ -269,8 +268,10 @@ multiple sites and you don't want to start every time from logging in
 we have a list of sites we need to loop and apply some change.</p>
 <p>So lets say we have</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-powershell data-lang=powershell>$sites = @(<span style=color:#e6db74>&#39;https://thisisverycooltenant.sharepoint.com/sites/hr-live&#39;</span>, <span style=color:#e6db74>&#39;https://thisisverycooltenant.sharepoint.com/sites/demoportal&#39;</span>)
+
 </code></pre></div><p>And now when using PnP.PowerShell we may do it like this</p>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-powershell data-lang=powershell>$Credential = Get-Credential
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-powershell data-lang=powershell>
+$Credential = Get-Credential
 <span style=color:#66d9ef>[SecureString]</span>$SecurePass = ConvertTo-SecureString $Credential.GetNetworkCredential().password -AsPlainText -Force
 <span style=color:#66d9ef>[System.Management.Automation.PSCredential]</span>$PSCredentials = New-Object System.Management.Automation.PSCredential($Credential.GetNetworkCredential().username, $SecurePass)
 <span style=color:#66d9ef>foreach</span> ($site <span style=color:#66d9ef>in</span> $sites)

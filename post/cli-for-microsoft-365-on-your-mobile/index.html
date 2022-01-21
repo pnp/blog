@@ -96,7 +96,7 @@
 </a>
 </li>
 <li class=list-inline-item>
-<i class="far fa-clock"></i>4 minutes to read
+<i class="far fa-clock"></i>3 minutes to read
 </li>
 <li class=list-inline-item>
 <i class="far fa-calendar-alt"></i>11 Jan, 2022
@@ -116,114 +116,98 @@
 <p><em>"I see you are available, could you
 do&mldr;"</em> 😒</p>
 </blockquote>
-<p>Ever got one of those message on Teams? Now when working 'home office'`
+<p>Ever got one of those message on Teams? Now when working 'home office'
 I noticed this trend and I usually get one of those over the phone
 during shopping and usually couple of lines in CLI for Microsoft 365 may
 do the trick but I don't always carry my laptop with me (I know&mldr;
 strange). I always considered CLI for M365 as an ace up my sleeve but I
 never found any cards in my pocket&mldr; but a mobile phone
 🤩, now that&rsquo;s a different story. So lets see if we may
-use CLI on Andriod.</p>
-<p><strong>But first of all what is CLI for Microsoft 365? Quick introduction
-[if your already know... skip this part]</strong>
-😀</p>
+use CLI on Android.</p>
+<h2 id=but-first-of-all-what-is-cli-for-microsoft-365-quick-introduction>But first of all what is CLI for Microsoft 365? Quick introduction</h2>
+<p>if your already know&mldr; skip this part😀</p>
 <p>CLI for Microsoft 365 is a cross platform command line tool you may use
 to manage many things. To name a few, you may manage OneDrive, Planner,
 Power Apps and Automate, Teams, Yammer, SharePoint (of course), now
 there is even a dedicated command to help you set up Viva. The list
-keeps on growing and growing, <a href=https://pnp.github.io/cli-microsoft365/>check out the CLI for Microsoft
+keeps on growing and growing, <a href=https://pnp.github.io/cli-microsoft365/>check out the CLI for Microsoft
 365</a>.<br>
 But it's not only about managing Microsoft 365. The CLI helps you also
 manage your own spfx environment (check out
-the <a href=https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/>doctor</a>)
+the <a href=https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/>doctor</a>)
 or projects (rename, upgrade etc.). This is very unique that many
-similar command line tools don't have.</p>
+similar command line tools don&rsquo;t have.</p>
 <p>Some commands do simple things but some actually are ready to use
 scenarios all done under a single command. Check out the full list
-of <a href=https://pnp.github.io/cli-microsoft365/cmd/login/#usage>commands</a></p>
+of<a href=https://pnp.github.io/cli-microsoft365/cmd/login/#usage>commands</a></p>
 <p>That&rsquo;s nice right. But how does it work. Well CLI for M365 is given as a
 npm package, that's right you need Node.js (that's why it's cross
 platform). How cool is that. If only we could use Node on Android right
 😀.</p>
-<p> </p>
 <h2 id=cli-everywhere-why-not-on-mobile><strong>CLI everywhere, why not on mobile?</strong></h2>
 <p>So let's check how we may use CLI for Microsoft 365 on Andriod.</p>
 <ol>
 <li>
-<p>[First we need a terminal to install Node. For this we may use
-Termux
-(]<a href="https://play.google.com/store/apps/details?id=com.termux&hl=pl&gl=US">[Termux
+<p>First we need a terminal to install Node. For this we may use</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.termux&hl=pl&gl=US">Termux
 on play
-store]</a>[).
+store</a>.
 We just go to the play store, search for the app install. Done. Lets
 move
-on ]</p>
+on</p>
 </li>
 <li>
-<p>[Next we need to usually update the
-terminal]</p>
+<p>Next we need to usually update the
+terminal</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>apt update <span style=color:#f92672>&amp;&amp;</span> apt upgrade
 </code></pre></div></li>
 <li>
-<p>[Now we need to install
-Node]</p>
+<p>Now we need to install
+Node</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>apt install nodejs
 </code></pre></div></li>
 <li>
-<p>[Now we need to install CLI for
-M365 ]</p>
+<p>Now we need to install CLI for
+M365</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>npm i -g @pnp/cli-microsoft365
 </code></pre></div></li>
 </ol>
 <p>&mldr; done.</p>
-<p> </p>
-<p>Lets check what we have using </p>
-<p> </p>
+<p>Lets check what we have using bash</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>m365
-</code></pre></div><p> </p>
-<p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337454i1C393698662A83BD/image-size/medium?v=v2&px=400" alt=2.png title=2.png></p>
+</code></pre></div><p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337454i1C393698662A83BD/image-size/medium?v=v2&px=400" alt=2.png title=2.png></p>
 <p>CLI for Microsoft 365 is up and running&mldr; Nice.</p>
 <p>Now to manage the tenant we only need to login. This is done like
-always </p>
-<p> </p>
+always</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>m365 login
-</code></pre></div><p> </p>
-<p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337455i2DA51120E511FFA4/image-size/medium?v=v2&px=400" alt=5.png title=5.png>
-After successful login we may check the connection status running </p>
-<p> </p>
+</code></pre></div><p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337455i2DA51120E511FFA4/image-size/medium?v=v2&px=400" alt=5.png>
+After successful login we may check the connection status running</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>m365 status
-</code></pre></div><p> </p>
-<p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337456i2259594364873124/image-size/medium?v=v2&px=400" alt=3.png title=3.png>
-Now lets try any command. Lets check my sites on tenant running </p>
-<p> </p>
+</code></pre></div><p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337456i2259594364873124/image-size/medium?v=v2&px=400" alt=3.png></p>
+<p>Now lets try any command. Lets check my sites on tenant running</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>m365 spo site list
-</code></pre></div><p> </p>
-<p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337458i7923A82B6BFE3A51/image-size/medium?v=v2&px=400" alt=1.png title=1.png></p>
-<p>Or lets check my ToDo tasks </p>
-<p> </p>
+</code></pre></div><p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337458i7923A82B6BFE3A51/image-size/medium?v=v2&px=400" alt=1.png title=1.png></p>
+<p>Or lets check my ToDo tasks</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>m365 todo task list --listName <span style=color:#960050;background-color:#1e0010>&#39;</span>Test list
-</code></pre></div><p> </p>
-<p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337459i266A7D661EC1CBB9/image-size/medium?v=v2&px=400" alt=7.png title=7.png></p>
+</code></pre></div><p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337459i266A7D661EC1CBB9/image-size/medium?v=v2&px=400" alt=7.png title=7.png></p>
 <p>I think I may mark the 'Try to write something close to an article' as
-done <img src=/html/@A027B0AAF3CA617A1E2E22C4E761B2FE/images/emoticons/stareyes_40x40.gif alt=:stareyes: title=:stareyes:>{.lia-deferred-image
-.lia-image-emoji}</p>
-<p> </p>
-<p>So there you have it. CLI for Microsoft 365 running everywhere you need,
+done 🤩
+So there you have it. CLI for Microsoft 365 running everywhere you need,
 also on your mobile. Now you may also do the simple request during
 shopping. The question is, if you should? Maybe it's better to focus on
 the shopping list and respond to the message during working
-hours 😀</p>
-<p> </p>
+hours😀</p>
 <p>I hope you liked the article. Please leave a comment if you tried it out
-and/or if you think it may be helpful.<br>
-BTW if you didn't try CLI for Microsoft 365 yet I strongly encourage
+and/or if you think it may be helpful.</p>
+<p>BTW if you didn't try CLI for Microsoft 365 yet I strongly encourage
 you to do so <a href=https://pnp.github.io/cli-microsoft365/>CLI for Microsoft
 365</a>. Check out the PnP script
 samples gallery to see in what cases other people already use the CLI
 <a href=https://pnp.github.io/script-samples/>Script Samples | PnP Samples</a>.</p>
 <p>Something not working and should? Or maybe you see something missing in
 the CLI. No worries, open an issue and let the maintainers (or a
-friendly contributor) know <a href=https://github.com/pnp/cli-microsoft365/issues>Issues ·
+friendly contributor) know
+<a href=https://github.com/pnp/cli-microsoft365/issues>Issues ·
 pnp/cli-microsoft365</a></p>
 </div>
 </article>
