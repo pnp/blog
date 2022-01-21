@@ -37,7 +37,6 @@ for the task you are up against and the more tools you know (or you may
 use in your company) the more possibilities you have to succeed in your
 task.
 
-
 ## PnP PowerShell
 
 This one is almost always used and it\'s quite understandable. I mean
@@ -64,20 +63,17 @@ almost 600 commands ([check full docs
 list](https://github.com/pnp/powershell/tree/dev/documentation)) that
 gives the possibility to manage SharePoint Online, Microsoft Teams,
 Microsoft Planner and Power Platform (mainly Power Automate (for
-PowerApps there is also
-the [PowerApps.PowerShell](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-powershell)
-which may be used.\
-It\'s straight forward and easy to use and it's a perfect pick for any
+PowerApps there is also the[PowerApps.PowerShell](https://docs.microsoft.com/power-platform/admin/powerapps-powershell)
+which may be used.
+It's straight forward and easy to use and it's a perfect pick for any
 quick day to day tenant management as well as for huge scripts that may
 run every day to add that additional logic to your tenant (either
 reporting or maintenance or provisioning or other). And Like every other
 SharePoint module you may just install it using
 
-
 ```powershell
 Install-Module -Name "PnP.PowerShell"
 ```
-
 
 command and you're good to go.
 
@@ -87,8 +83,8 @@ be right?), it uses CSOM (as expected for C# code and SP Online things)
 but also MS Graph, and there even is a [ready guide to help you get
 started](https://pnp.github.io/powershell/articles/buildingsource.html)
 
-
 ## CLI for Microsoft 365
+
 And What\'s this? And why would I need this? TBH those were my questions
 when I first go to know this tech. Please be aware at that time
 SharePointPnPPowerShellOnline (as the PnP.PowerShell was not out yet)
@@ -109,7 +105,7 @@ or projects (rename, upgrade etc.). This is something I think
 PnP.PowerShell does not have.
 
 Some commands do simple things but some actually are ready to use
-scenarios all done under a single command. Check out the [full list of
+scenarios all done under a single command. Check out the [full list of
 commands](https://pnp.github.io/cli-microsoft365/cmd/login/#usage)
 
 That's nice right. But how does it work. Well CLI for M365 is given as a
@@ -152,11 +148,11 @@ BTW did you know there are also ready to use CLI for Microsoft 365
 GitHub actions you may use for you CI/CD workflows. Ever had this \"ye
 and when we push on the master branch it would be nice if the webpart
 would be build and pushed to a test/QA tenant\". If yes then you have to
-see this[ GitHub Actions - CLI for Microsoft 365
-(pnp.github.io)](https://pnp.github.io/cli-microsoft365/concepts/github-actions/)
+see this [GitHub Actions - CLI for Microsoft 365
+pnp.github.io](https://pnp.github.io/cli-microsoft365/concepts/github-actions/)
 
+## When? What? Why?
 
-## When? What? Why? 
 Using either PnP.PowerShell or CLI for M365 is rather simple and totally
 logical. Lets have a look at this very simple script from PnP Script
 Sample gallery (<https://pnp.github.io/script-samples>) added by Paul
@@ -179,7 +175,6 @@ So the flow is simple. We connect to the site to which we want to make
 some changes, we do those changes and that's it.
 
 Now lets look at the same thing done with CLI for M365.
-
 
 ```powershell
 $m365Status = m365 status
@@ -216,15 +211,15 @@ we have a list of sites we need to loop and apply some change.
 
 So lets say we have
 
-
 ```powershell
 $sites = @('https://thisisverycooltenant.sharepoint.com/sites/hr-live', 'https://thisisverycooltenant.sharepoint.com/sites/demoportal')
+
 ```
 
 And now when using PnP.PowerShell we may do it like this
 
-
 ```powershell
+
 $Credential = Get-Credential
 [SecureString]$SecurePass = ConvertTo-SecureString $Credential.GetNetworkCredential().password -AsPlainText -Force
 [System.Management.Automation.PSCredential]$PSCredentials = New-Object System.Management.Automation.PSCredential($Credential.GetNetworkCredential().username, $SecurePass)
@@ -236,7 +231,6 @@ foreach ($site in $sites)
 }
 ```
 
-
 Of course we would not need to pass the credentials, as there are other
 authenticate options we might use like credential manager (but then
 it\'s windows only) or Microsoft.PowerShell.SecretManagement and
@@ -246,7 +240,6 @@ more info. But regardless of authenticate option still the concept of
 connecting and disconnecting would remain.
 
 Now when using CLI for M365 we might just do
-
 
 ```powershell
 $m365Status = m365 status
@@ -259,15 +252,12 @@ foreach ($site in $sites)
 }
 ```
 
-
 Now should we say that one approach is better over the other... I don\'t
 know ;). For me both tools did what I needed in a reasonable amount of
 time.
 
-
 The above example is just a simple case were but we may already have a
 feeling when and why we could use one tool over the other.
-
 
 ## Both\... really?
 
@@ -279,7 +269,6 @@ don\'t know which sites should be modified and we need to query the
 lists of sites that match some pattern and apply changes only there.
 Well there is a single line for it in the CLI for M365, and it would be
 a shame not to use it.
-
 
 ```powershell
 $m365Status = m365 status
@@ -300,7 +289,6 @@ foreach ($site in $sites)
 }
 ```
 
-
 Now I totally wouldn't recommend this kind of approach for any script
 which is supposed to be scheduled and runed iteratively. This is because
 the authorization process may be hard to maintain. But if this was some
@@ -310,7 +298,6 @@ tool and one approach only, may make our work less efficient. Of course
 it is almost always possible to do the same things in both tools but if
 one of those allows to do something easier why not combine the two and
 do what needs to done faster.
-
 
 ## The End? Already?
 
