@@ -1,6 +1,26 @@
-# What I (as a non dev) learned as I created my first Power App
+---
+title: "What I (as a non dev) learned as I created my first Power App."
+date: 2021-04-25T08:00:00-05:00
+# post thumb
+images:
+   - "images/blog/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/header_pic_power_apps.png"
+#author
+author: "Michael Roth"
+# description
+description: "I like to share my very own experiences while building my first canvas
+app. I have no tech background and at the beginning I thought that I
+could never do it. But now, looking back, I've learned so many things.
+Not only about functions and Power Apps syntax, but about the process of
+building apps, learning from failure and community"
+# Taxonomies
+categories: ["Power Apps"]
+tags: ["non-dev"]
+type: "regular" # available type (epic, trending, popular, or regular)
+draft: false
+---
 
-I like to share my very own experiences while building my first canvas
+
+I like to share my very own experiences while building my first canvas
 app. I have no tech background and at the beginning I thought that I
 could never do it. But now, looking back, I've learned so many things.
 Not only about functions and Power Apps syntax, but about the process of
@@ -206,8 +226,7 @@ You have a lot of possibilities to make a working app look nice. The
 other way around, getting a nice-looking app to work is way more
 difficult.
 
-![Compare frontend and
-Backend](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275356i29969AFB81B5C517/image-size/large?v=v2&px=999 "Backend.png")
+![Compare frontend and Backend](images/blog/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/backend.png)
 
 ## **9. Give back to the community. Tell others, what and how you did it**
 
