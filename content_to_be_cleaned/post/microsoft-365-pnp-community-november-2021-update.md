@@ -1,1114 +1,15 @@
-::: {#38D-003-7 .ServiceNodeInfoHeader}
-:::
-
-::: lia-page
-::: MinimumWidthContainer
-::: min-width-wrapper
-::: min-width
-::: lia-content
-::: {.lia-quilt .lia-quilt-blog-article-page .lia-quilt-layout-two-column-main-side-18-6 .lia-top-quilt}
-::: {.lia-quilt-row .lia-quilt-row-header}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-header}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-::: {.lia-quilt .lia-quilt-header .lia-quilt-layout-header .lia-component-quilt-header}
-::: {.lia-quilt-row .lia-quilt-row-main-header}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-header}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-::: {#cookie-banner .cookie-markup}
-:::
-
-::: {#readerAssistMessages .section .live-region aria-live="assertive" role="alert"}
-:::
-
-::: community-header-blank
-:::
-
-::: community-header-component
-::: community-header-wrapper
-::: container
-::: {#community-menu-wrapper-menu .menu-link}
-[](javascript:void(0)){#community-menu-wrapper-menu-link}
-
-::: {#community-menu-wrapper-menu-icon .menu-icon title=""}
-:::
-:::
-
-[![](https://techcommunity.microsoft.com/html/@6005EEFEC6E5ECADBBFC249DFA7D38A8/assets/Content/Images/GlobalHeader/MicrosoftLogo.png){.c-image
-itemprop="logo" role="presentation" aria-hidden="true"}
-[Microsoft]{role="presentation"
-aria-hidden="true"}](https://www.microsoft.com){#uhfLogo .c-logo
-.c-sgl-stk-uhfLogo}
-
-::: {.c-show-pipe aria-hidden="true"}
-:::
-
-[Tech Community](/){#uhfCatLogo .c-logo .c-cat-logo}
-
-::: container-inner
-::: {#community-menu-wrapper .community-menu-wrapper .community-menu-hidden-init}
-::: {#community-menu-wrapper-header-bar .community-header-bar}
-[](#){.community-header-button}
-
-::: community-menu-item-icon
-:::
-:::
-
-::: {#community-menu-wrapper-list .community-menu-list}
-::: {.community-menu-item .tab-homepage}
-[](/)
-
-::: {.mdl2-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title
-Home
-:::
-:::
-
-::: {.community-menu-item .community-menu-dropdown}
-[](#){.community-menu-item-desktop-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Community Hubs
-:::
-
-[](/t5/communities/ct-p/communities#category-filter-button-all){.community-menu-item-mobile-view
-.community-menu-item-allow-link}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Community Hubs
-:::
-
-::: {.dropdown .dropdown-communities .dropdown-events .dropdown-primary-nav}
--   [Community Hubs
-    Home](/t5/communities/ct-p/communities#category-filter-button-all){#communities_home}
--   [Products](/t5/communities/ct-p/communities#category-filter-button-products-services){#communities_products}
--   [Special
-    Topics](/t5/communities/ct-p/communities#category-filter-button-solutions){#communities_special}
--   [Video Hub](/t5/video-hub/ct-p/VideoHub){#communities_videohub}
-
-::: custom-community-hubs-menu-wrapper
-::: custom-community-hubs-menu-close
-Close
-:::
-
-::: custom-community-hubs-menu-content
-::: menu
-## [ Products]{#menu-link-prod title="Products"} [(72)]{.small} {#menu-products .active}
-
-## [ Special Topics ]{#menu-link-serv title="Special Topics"} [(41)]{.small} {#menu-services}
-
-## [ Video Hub ]{#menu-link-videohub title="VideoHub"} [(834)]{.small} {#menu-videohub}
-:::
-
-::: {#products-data .dataBlock .visible key="products"}
-::: {.hubs style="width: 600px"}
-### Most Active Hubs
-
-::: {.data style="flex-direction: column; height:310px"}
-<div>
-
-[Microsoft
-Teams](/t5/microsoft-teams/ct-p/MicrosoftTeams "Microsoft Teams")
-
-</div>
-
-<div>
-
-[Excel](/t5/excel/ct-p/Excel_Cat "Excel")
-
-</div>
-
-<div>
-
-[Exchange](/t5/exchange/ct-p/Exchange "Exchange")
-
-</div>
-
-<div>
-
-[SharePoint](/t5/sharepoint/ct-p/SharePoint "SharePoint")
-
-</div>
-
-<div>
-
-[Windows](/t5/windows-10/ct-p/Windows10 "Windows")
-
-</div>
-
-<div>
-
-[Office 365](/t5/office-365/ct-p/Office365 "Office 365")
-
-</div>
-
-<div>
-
-[Security, Compliance and
-Identity](/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance "Security, Compliance and Identity")
-
-</div>
-
-<div>
-
-[Windows
-Server](/t5/windows-server/ct-p/Windows-Server "Windows Server")
-
-</div>
-
-<div>
-
-[Microsoft Edge
-Insider](/t5/microsoft-edge-insider/ct-p/MicrosoftEdgeInsider "Microsoft Edge Insider")
-
-</div>
-
-<div>
-
-[Azure](/t5/azure-community/ct-p/Azure "Azure")
-
-</div>
-
-<div>
-
-[Microsoft 365](/t5/microsoft-365/ct-p/microsoft365 "Microsoft 365")
-
-</div>
-:::
-:::
-
-::: boxes
-[](/t5/azure-databases/ct-p/AzureDatabases "Azure Databases")
-
-::: {.box style="background-image: url('https://techcommunity.microsoft.com/html/@D05C7AA27EF9EB31779410FCB608734A/assets/bg-pink.png')"}
-::: title
-Azure Databases
-:::
-
-::: description
-Fully managed intelligent database services.
-:::
-:::
-
-[](/t5/project-bonsai/ct-p/ProjectBonsai "Autonomous Systems")
-
-::: {.box style="background-image: url('https://techcommunity.microsoft.com/html/@FC8AD6AC9A7EBDA58D7E6304E799EA40/assets/bg-orange.png')"}
-::: title
-Autonomous Systems
-:::
-
-::: description
-Create and optimise intelligence for industrial control systems.
-:::
-:::
-
-[](/t5/yammer/ct-p/Yammer "Yammer")
-
-::: {.box style="background-image: url('https://techcommunity.microsoft.com/html/@CF0293463F27444B05A952A3C4B6BF88/assets/bg-light-blue.png')"}
-::: title
-Yammer
-:::
-
-::: description
-Connect and engage across your organization.
-:::
-:::
-:::
-:::
-
-::: {#services-data .dataBlock key="services"}
-::: {.hubs style="width: 600px"}
-### Most Active Hubs
-
-::: {.data style="flex-direction: column; height:310px"}
-<div>
-
-[ITOps Talk](/t5/itops-talk/ct-p/ITOpsTalk "ITOps Talk")
-
-</div>
-
-<div>
-
-[Education
-Sector](/t5/education-sector/ct-p/EducationSector "Education Sector")
-
-</div>
-
-<div>
-
-[Microsoft
-Learn](/t5/microsoft-learn/ct-p/MicrosoftLearn "Microsoft Learn")
-
-</div>
-
-<div>
-
-[Microsoft
-Localization](/t5/microsoft-localization/ct-p/MicrosoftTranslation "Microsoft Localization")
-
-</div>
-
-<div>
-
-[Microsoft 365
-PnP](/t5/microsoft-365-pnp/ct-p/Microsoft365PnP "Microsoft 365 PnP")
-
-</div>
-
-<div>
-
-[Healthcare and Life
-Sciences](/t5/healthcare-and-life-sciences/ct-p/HealthcareAndLifeSciences "Healthcare and Life Sciences")
-
-</div>
-
-<div>
-
-[Public Sector](/t5/public-sector/ct-p/PublicSector "Public Sector")
-
-</div>
-
-<div>
-
-[Internet of Things
-(IoT)](/t5/internet-of-things-iot/ct-p/IoT "Internet of Things (IoT)")
-
-</div>
-
-<div>
-
-[Mixed
-Reality](/t5/mixed-reality/ct-p/MicrosoftMixedReality "Mixed Reality")
-
-</div>
-
-<div>
-
-[Enabling Remote
-Work](/t5/enabling-remote-work/ct-p/RemoteWork "Enabling Remote Work")
-
-</div>
-
-<div>
-
-[Small and Medium
-Business](/t5/small-and-medium-businesses/ct-p/SMB "Small and Medium Business")
-
-</div>
-:::
-:::
-
-::: boxes
-[](/t5/humans-of-it/ct-p/HumansofIT "Humans of IT")
-
-::: {.box style="background-image: url('https://techcommunity.microsoft.com/html/@A5C0BDB1059C6D1F73B8097424B50ED0/assets/bg-purple.png')"}
-::: title
-Humans of IT
-:::
-
-::: description
-Empowering technologists to achieve more by humanizing tech.
-:::
-:::
-
-[](/t5/green-tech/ct-p/GreenTech "Green Tech")
-
-::: {.box style="background-image: url('https://cdn.techcommunity.microsoft.com/lithium/MicrosoftLearn/Learn-Blue.png')"}
-::: title
-Green Tech
-:::
-
-::: description
-Raise awareness about sustainability in the tech sector
-:::
-:::
-
-[](/t5/mvp-award-program/ct-p/MVPAwardProgram "MVP Award Program")
-
-::: {.box style="background-image: url('https://techcommunity.microsoft.com/html/@02C247197A08F2DB06040AC786E1BF01/assets/bg-green.png')"}
-::: title
-MVP Award Program
-:::
-
-::: description
-Find out more about the Microsoft MVP Award Program.
-:::
-:::
-:::
-:::
-
-::: {#VideoHub-Data .dataBlock key="VideoHub"}
-::: {.hubs style="width: 838px"}
-### Video Hub
-
-::: {.data style="flex-direction: row; height:fit-content"}
-<div>
-
-[Azure](https://aka.ms/VideoHub/Azure "Azure")
-
-</div>
-
-<div>
-
-[Exchange](https://aka.ms/VideoHub/Exchange "Exchange")
-
-</div>
-
-<div>
-
-[Microsoft 365](https://aka.ms/VideoHub/Microsoft365 "Microsoft 365")
-
-</div>
-
-<div>
-
-[Microsoft 365
-Business](https://aka.ms/VideoHub/Microsoft365Business "Microsoft 365 Business")
-
-</div>
-
-<div>
-
-[Microsoft 365
-Enterprise](https://aka.ms/VideoHub/Microsoft365Business "Microsoft 365 Enterprise")
-
-</div>
-
-<div>
-
-[Microsoft Edge](https://aka.ms/VideoHub/MicrosoftEdge "Microsoft Edge")
-
-</div>
-
-<div>
-
-[Microsoft Outlook](https://aka.ms/VideoHub/Outlook "Microsoft Outlook")
-
-</div>
-
-<div>
-
-[Microsoft
-Teams](https://aka.ms/VideoHub/MicrosoftTeams "Microsoft Teams")
-
-</div>
-
-<div>
-
-[Security](https://aka.ms/VideoHub/Security "Security")
-
-</div>
-
-<div>
-
-[SharePoint](https://aka.ms/VideoHub/SharePoint "SharePoint")
-
-</div>
-
-<div>
-
-[Windows](https://aka.ms/VideoHub/Windows "Windows")
-
-</div>
-:::
-:::
-:::
-:::
-
-::: custom-community-hubs-menu-footer
-[Browse All Community
-Hubs](/t5/Communities/ct-p/communities){#browse-all-communities}
-:::
-:::
-:::
-:::
-
-::: {.community-menu-item .my-favorites}
-[](/t5/custom/page/page-id/Blogs){.community-menu-item-desktop-view}
-
-::: {.mdl2-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title
-Blogs
-:::
-
-[](/t5/custom/page/page-id/Blogs){.community-menu-item-mobile-view}
-
-::: {.mdl2-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title
-Blogs
-:::
-:::
-
-::: {.community-menu-item .tab-events .community-menu-dropdown}
-[](#){.community-menu-item-desktop-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Events
-:::
-
-[](#){.community-menu-item-mobile-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Events
-:::
-
-::: {.dropdown .dropdown-events .dropdown-primary-nav}
--   [Events Home](/t5/Events/ct-p/Events)
--   [Microsoft Ignite](https://myignite.microsoft.com/)
--   [Microsoft Build](https://mybuild.microsoft.com/)
--   [Community Events](/t5/Community-Events/ct-p/CommunityEvents)
-:::
-:::
-
-::: {.community-menu-item .tab-microsoft-learning .community-menu-dropdown}
-[](#){.community-menu-item-desktop-view}
-
-::: {.grad .community-menu-item-icon}
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Microsoft Learn
-:::
-
-[](#){.community-menu-item-mobile-view}
-
-::: {.grad .community-menu-item-icon}
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Microsoft Learn
-:::
-
-::: {.dropdown .dropdown-events .dropdown-primary-nav}
--   [Home](%20https://docs.microsoft.com/learn/){.ms-learning-home-link
-    .community-menu-item-title}
--   [Community](/t5/microsoft-learn/bd-p/MicrosoftLearn)
--   [Blog](/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)
--   [Azure](https://docs.microsoft.com/learn/azure/?WT.mc_id=techcom_header-webpage-m365)
--   [Dynamics
-    365](https://docs.microsoft.com/learn/dynamics365/?WT.mc_id=techcom_header-webpage-m365)
--   [Microsoft
-    365](https://docs.microsoft.com/learn/m365/?wt.mc_id=techcom_header-webpage-m365)
--   [Security, Compliance &
-    Identity](https://docs.microsoft.com/learn/topics/sci/?wt.mc_id=techcom_header-webpage-m365)
--   [Power
-    Platform](https://docs.microsoft.com/learn/powerplatform/?wt.mc_id=techcom_header-webpage-powerplatform)
--   [Github](https://docs.microsoft.com/learn/github/?wt.mc_id=techcom_header-webpage-github)
--   [Teams](https://docs.microsoft.com/learn/teams/?wt.mc_id=techcom_header-webpage-teams)
--   [.NET](https://docs.microsoft.com/learn/dotnet/?wt.mc_id=techcom_header-webpage-dotnet)
-:::
-:::
-
-::: {.community-menu-item .tab-info-center}
-[](/t5/Community-Info-Center/ct-p/Community-Info-Center){.community-menu-item-desktop-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title
-Lounge
-:::
-
-[](/t5/Community-Info-Center/ct-p/Community-Info-Center){.community-menu-item-mobile-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title
-Lounge
-:::
-:::
-:::
-
--   [[776K]{#community-menu-wrapper-vitality-stat-count-1
-    .community-menu-vitality-stat-count} [
-    Members]{#community-menu-wrapper-vitality-stat-title-1
-    .community-menu-vitality-stat-title}]{#community-menu-wrapper-vitality-stat-item-1}
--   [[7,440]{#community-menu-wrapper-vitality-stat-count-2
-    .community-menu-vitality-stat-count} [
-    Online]{#community-menu-wrapper-vitality-stat-title-2
-    .community-menu-vitality-stat-title}]{#community-menu-wrapper-vitality-stat-item-2}
--   [[2M]{#community-menu-wrapper-vitality-stat-count-3
-    .community-menu-vitality-stat-count} [
-    Discussions]{#community-menu-wrapper-vitality-stat-title-3
-    .community-menu-vitality-stat-title}]{#community-menu-wrapper-vitality-stat-item-3}
-:::
-
-::: nav-right
-::: {#search_container}
-::: {#search_btn}
-Search []{.btn-search}
-:::
-
-::: {#search_slider .hidden}
-::: custom-lia-search
-::: {#lia-searchformV32_231252076dc458 .SearchForm .lia-search-form-wrapper .lia-mode-default .lia-component-common-widget-search-form}
-::: lia-inline-ajax-feedback
-::: {#ajaxfeedback_231252076dc458 .AjaxFeedback}
-:::
-:::
-
-::: {#searchautocompletetoggle_231252076dc458}
-::: lia-inline-ajax-feedback
-::: {#ajaxfeedback_231252076dc458_0 .AjaxFeedback}
-:::
-:::
-
-::: t-invisible
-:::
-
-::: lia-inline-ajax-feedback
-::: {#feedback_231252076dc458 .AjaxFeedback}
-:::
-:::
-
-[ [ []{.lia-button-wrapper .lia-button-wrapper-secondary
-.lia-button-wrapper-searchForm-action} ]{.lia-search-input-field}
-]{.lia-search-input-wrapper} [cancel]{.lia-cancel-search}
-
-::: {.search-autocomplete-toggle-link .lia-js-hidden}
-[Turn on
-suggestions](https://techcommunity.microsoft.com/t5/blogs/v2/blogarticlepage.enableautocomplete:enableautocomplete?t:ac=blog-id/Microsoft365PnPBlog/article-id/596&t:cp=action/contributions/searchactions){#enableAutoComplete_231252076dc458
-.lia-link-navigation .auto-complete-toggle-on
-.lia-link-ticket-post-action
-.lia-component-search-action-enable-auto-complete} [
-[[]{#display_231252076dc458 .lia-img-icon-help .lia-fa-icon .lia-fa-help
-.lia-fa
-alt="Auto-suggest helps you quickly narrow down your search results by suggesting possible matches as you type."
-aria-label="Help Icon" role="img"}](#){#link_231252076dc458
-.lia-link-navigation .help-icon .lia-tooltip-trigger}]{.HelpIcon}
-
-::: {#link_231252076dc458_0-tooltip-element .lia-content .lia-tooltip-pos-bottom-left .lia-panel-tooltip-wrapper role="alertdialog"}
-::: lia-tooltip-arrow
-:::
-
-::: lia-panel-tooltip
-::: content
-Auto-suggest helps you quickly narrow down your search results by
-suggesting possible matches as you type.
-:::
-:::
-:::
-:::
-:::
-
-::: spell-check-showing-result
-Showing results for []{#showingResult_231252076dc458
-.lia-link-navigation .show-results-for-link .lia-link-disabled}
-[](#){#showingMoreResult_231252076dc458 .lia-link-navigation
-.more-synonym-search-results-for-link} [
-]{.all-results-for-synonym-search}
-:::
-
-<div>
-
-[ Show [](#){#synonymSearchInstead_231252076dc458 .lia-link-navigation
-.synonym-search-instead-for-link} only  ]{.synonym-search-instead
-.lia-js-hidden} [ \| ]{.spell-check-and-synonym-search-instead
-.lia-js-hidden} [ Search instead for [](#){#searchInstead_231252076dc458
-.lia-link-navigation .search-instead-for-link}
-]{.spell-check-search-instead}
-
-</div>
-
-::: {.spell-check-do-you-mean .lia-component-search-widget-spellcheck}
-Did you mean: [](#){#doYouMean_231252076dc458 .lia-link-navigation
-.do-you-mean-link}
-:::
-:::
-:::
-:::
-:::
-
-::: sign-in-wrapper
-[Sign
-In](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&referer=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fmicrosoft-365-pnp-blog%2Fmicrosoft-365-pnp-community-november-2021-update%2Fba-p%2F2992931)
-:::
-
-::: notifications
-::: notify-icon
-[](/t5/notificationfeed/page)
-
-::: lia-notifications-messages-aggregate
-:::
-:::
-
-::: email-icon
-[](/t5/notes/privatenotespage)
-
-::: lia-notifications-messages-aggregate
-:::
-:::
-:::
-
-::: lia-component-common-widget-slide-out-user-menu
-::: {.lia-user-navigation-sign-in .lia-component-users-action-login-with-avatar}
-::: user-navigation-user-profile
-[Sign
-In](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&referer=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fmicrosoft-365-pnp-blog%2Fmicrosoft-365-pnp-community-november-2021-update%2Fba-p%2F2992931){#link_1_23125208c938d8
-.lia-link-navigation .login-link .lia-authentication-link}
-:::
-
-::: {.UserAvatar .lia-user-avatar}
-[](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&referer=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fmicrosoft-365-pnp-blog%2Fmicrosoft-365-pnp-community-november-2021-update%2Fba-p%2F2992931){#link_2_23125208c938d8
-.lia-link-navigation .login-link .lia-authentication-link}
-
-::: lia-anonymous-profile-icon
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: notifications-overlay-notif
-:::
-
-::: notifications-overlay-mail
-:::
-
-::: notifications-overlay-favorites
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-sub-header}
-::: {.lia-quilt-column .lia-quilt-column-18 .lia-quilt-column-left .lia-quilt-column-breadcrumb .lia-mark-empty}
-:::
-
-::: {.lia-quilt-column .lia-quilt-column-06 .lia-quilt-column-right .lia-quilt-column-search-content}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-right}
-::: custom-lia-search
-::: {#lia-searchformV32 .SearchForm .lia-search-form-wrapper .lia-mode-default .lia-component-common-widget-search-form}
-::: lia-inline-ajax-feedback
-::: {#ajaxfeedback .AjaxFeedback}
-:::
-:::
-
-::: {#searchautocompletetoggle}
-::: lia-inline-ajax-feedback
-::: {#ajaxfeedback_0 .AjaxFeedback}
-:::
-:::
-
-::: t-invisible
-:::
-
-::: lia-inline-ajax-feedback
-::: {#feedback .AjaxFeedback}
-:::
-:::
-
-[ [ []{.lia-button-wrapper .lia-button-wrapper-secondary
-.lia-button-wrapper-searchForm-action} ]{.lia-search-input-field}
-]{.lia-search-input-wrapper} [cancel]{.lia-cancel-search}
-
-::: {.search-autocomplete-toggle-link .lia-js-hidden}
-[Turn on
-suggestions](https://techcommunity.microsoft.com/t5/blogs/v2/blogarticlepage.enableautocomplete:enableautocomplete?t:ac=blog-id/Microsoft365PnPBlog/article-id/596&t:cp=action/contributions/searchactions){#enableAutoComplete
-.lia-link-navigation .auto-complete-toggle-on
-.lia-link-ticket-post-action
-.lia-component-search-action-enable-auto-complete} [ [[]{#display
-.lia-img-icon-help .lia-fa-icon .lia-fa-help .lia-fa
-alt="Auto-suggest helps you quickly narrow down your search results by suggesting possible matches as you type."
-aria-label="Help Icon" role="img"}](#){#link_0 .lia-link-navigation
-.help-icon .lia-tooltip-trigger}]{.HelpIcon}
-
-::: {#link_1-tooltip-element .lia-content .lia-tooltip-pos-bottom-left .lia-panel-tooltip-wrapper role="alertdialog"}
-::: lia-tooltip-arrow
-:::
-
-::: lia-panel-tooltip
-::: content
-Auto-suggest helps you quickly narrow down your search results by
-suggesting possible matches as you type.
-:::
-:::
-:::
-:::
-:::
-
-::: spell-check-showing-result
-Showing results for []{#showingResult .lia-link-navigation
-.show-results-for-link .lia-link-disabled} [](#){#showingMoreResult
-.lia-link-navigation .more-synonym-search-results-for-link} [
-]{.all-results-for-synonym-search}
-:::
-
-<div>
-
-[ Show [](#){#synonymSearchInstead .lia-link-navigation
-.synonym-search-instead-for-link} only  ]{.synonym-search-instead
-.lia-js-hidden} [ \| ]{.spell-check-and-synonym-search-instead
-.lia-js-hidden} [ Search instead for [](#){#searchInstead
-.lia-link-navigation .search-instead-for-link}
-]{.spell-check-search-instead}
-
-</div>
-
-::: {.spell-check-do-you-mean .lia-component-search-widget-spellcheck}
-Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-feedback}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-feedback}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-:::
-:::
-:::
-:::
-
-::: {.custom-nda-blog-article-page-header-banner .lia-mark-empty}
-:::
-
-::: {.community-live-events-banner-blog-article-page-wrapper .lia-mark-empty}
-:::
-
-::: custom-blog-article-page-header-wrapper
-::: custom-common-widget-breadcrumb
-::: {.custom-common-widget-breadcrumb-wrapper .hidden}
-[Home](/){.BreadCrumb .home-nav-link}
-
-::: {.BreadCrumb .crumb-line .lia-breadcrumb .lia-component-common-widget-breadcrumb aria-label="breadcrumbs" role="navigation"}
--   [Home](/){#link_2312520d239e2c .lia-link-navigation .crumb-community
-    .lia-breadcrumb-community .lia-breadcrumb-forum}
--    []{#display_2312520d239e2c .lia-img-icon-list-separator-breadcrumb
-    .lia-fa-icon .lia-fa-list .lia-fa-separator .lia-fa-breadcrumb
-    .lia-fa alt="" aria-label="" role="img"}
--   [Microsoft 365
-    PnP](/t5/microsoft-365-pnp/ct-p/Microsoft365PnP){#link_2312520d239e2c_0
-    .lia-link-navigation .crumb-category .lia-breadcrumb-category
-    .lia-breadcrumb-forum}
--    []{#display_2312520d239e2c_0
-    .lia-img-icon-list-separator-breadcrumb .lia-fa-icon .lia-fa-list
-    .lia-fa-separator .lia-fa-breadcrumb .lia-fa alt="" aria-label=""
-    role="img"}
--   [Microsoft 365 PnP
-    Blog](/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog){#link_2312520d239e2c_1
-    .lia-link-navigation .crumb-board .lia-breadcrumb-board
-    .lia-breadcrumb-forum}
--    []{#display_2312520d239e2c_1
-    .lia-img-icon-list-separator-breadcrumb .lia-fa-icon .lia-fa-list
-    .lia-fa-separator .lia-fa-breadcrumb .lia-fa alt="" aria-label=""
-    role="img"}
--   [Microsoft 365 PnP Community -- November 2021
-    update]{#link_2312520d239e2c_2 .lia-link-navigation .child-thread
-    .lia-link-disabled aria-disabled="true" disabled="true" role="link"
-    aria-label="Microsoft 365 PnP Community – November 2021 update"}
-:::
-:::
-:::
-
-::: {.lia-menu-bar .lia-discussion-page-discussion-navigator .lia-component-article-navigator}
-::: lia-decoration-border-menu-bar
-::: lia-decoration-border-menu-bar-top
-<div>
-
-</div>
-:::
-
-::: lia-decoration-border-menu-bar-content
-<div>
-
-::: lia-menu-bar-buttons
-:::
-
-::: {#threadnavigator .lia-paging-full-wrapper}
--   [[]{.lia-paging-page-arrow} [Back to
-    Blog]{.lia-paging-page-link}](/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog "Microsoft 365 PnP Blog"){#link_2
-    .lia-link-navigation}
--   [[]{.lia-paging-page-arrow} [Newer
-    Article]{.lia-paging-page-link}](/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-145-rabeb-othmani-microsoft/ba-p/3008950 "Microsoft 365 PnP Weekly - Episode 145 - Rabeb Othmani (Microsoft)"){#link_3
-    .lia-link-navigation}
--   [[Older Article]{.lia-paging-page-link}
-    []{.lia-paging-page-arrow}](/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v4-2/ba-p/3008628 "CLI for Microsoft 365 v4.2"){#link_4
-    .lia-link-navigation}
-:::
-
-</div>
-:::
-
-::: lia-decoration-border-menu-bar-bottom
-<div>
-
-</div>
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-main}
-::: {.lia-quilt-column .lia-quilt-column-18 .lia-quilt-column-left .lia-quilt-column-main-content}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-left}
-::: ba-subject-header-wrapper
-::: ba-subject-wrapper
-::: ba-title
 # Microsoft 365 PnP Community -- November 2021 update
-:::
 
-::: ba-option-wrapper
-::: {.lia-menu-bar .top-block .lia-component-menu-bar-without-options}
-::: lia-decoration-border-menu-bar
-::: lia-decoration-border-menu-bar-top
-<div>
-
-</div>
-:::
-
-::: lia-decoration-border-menu-bar-content
-<div>
-
-::: lia-menu-bar-buttons
-:::
-
-</div>
-:::
-
-::: lia-decoration-border-menu-bar-bottom
-<div>
-
-</div>
-:::
-:::
-:::
-:::
-:::
-
-::: ba-author-and-metrics-wrapper
-::: ba-author-wrapper
-By
-
-::: ba-author-info
-[ ]{.UserName .lia-user-name}
-
-::: UserAvatarWrapper
-::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Microsoft}
-[![Vesa
-Juvonen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/430iA3AD642623E8B21D/image-dimensions/150x150/image-coordinates/0%2C0%2C220%2C220?v=v2 "Vesa Juvonen"){.lia-user-avatar-message
-.user-rank-ring .user-rank-ring style="border-color: #0078D4"
-onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/369){.UserAvatar
-.lia-link-navigation}
-:::
-
-::: {.user-profile-card user-id="369"}
-::: contents
-::: spinner
-:::
-:::
-:::
-:::
-
-::: user-login
-[Vesa Juvonen](/t5/user/viewprofilepage/user-id/369)
-:::
-:::
-:::
-
-::: ba-metrics-info
-[Published]{.ba-published-title} [Nov 26 2021 08:24
-AM]{.ba-published-date} [ 3,214 Views ]{.ba-view-count}
-:::
-:::
-:::
-
-::: custom-blog-article-wrapper
-::: {#messageview .lia-panel-message .message-uid-2992931 .lia-component-article lia-message-uid="2992931"}
-::: {#messageView2_1 .lia-message-view-wrapper .lia-js-data-messageUid-2992931 .lia-component-forums-widget-message-view-two lia-message-uid="2992931"}
-[ ]{#U2992931} [ ]{#M596}
-
-::: lia-inline-ajax-feedback
-::: {#ajaxfeedback_1 .AjaxFeedback}
-:::
-:::
-
-::: {.MessageView .lia-message-view-blog-topic-message .lia-message-view-display .lia-row-standard-unread .lia-thread-topic}
-[]{.lia-message-state-indicator}
-
-::: {.lia-quilt .lia-quilt-blog-topic-message .lia-quilt-layout-one-column-message}
-::: {.lia-quilt-row .lia-quilt-row-header}
-::: {.lia-quilt-column .lia-quilt-column-16 .lia-quilt-column-left .lia-quilt-column-header-left}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-left}
-::: {.lia-message-author-avatar .lia-component-author-avatar .lia-component-message-view-widget-author-avatar}
-::: UserAvatarWrapper
-::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Microsoft}
-[![Vesa
-Juvonen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/430iA3AD642623E8B21D/image-dimensions/40x40/image-coordinates/0%2C0%2C220%2C220?v=v2 "Vesa Juvonen"){.lia-user-avatar-message
-.user-rank-ring .user-rank-ring style="border-color: #0078D4"
-onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/369){.UserAvatar
-.lia-link-navigation}
-:::
-
-::: {.user-profile-card user-id="369"}
-::: contents
-::: spinner
-:::
-:::
-:::
-:::
-:::
-
-::: lia-message-author-with-avatar
-[ [Vesa
-Juvonen](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/369){#link_5
-.lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
-.lia-user-name .lia-user-rank-Microsoft
-.lia-component-message-view-widget-author-username}
-:::
-
-::: {.lia-message-author-rank .lia-component-author-rank .lia-component-message-view-widget-author-rank}
-Microsoft
-:::
-:::
-:::
-
-::: {.lia-quilt-column .lia-quilt-column-08 .lia-quilt-column-right .lia-quilt-column-header-right}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-right}
-::: {.lia-message-post-date .lia-component-post-date .lia-component-message-view-widget-post-date title="Posted on"}
-[ [‎Nov 26 2021]{.local-date} [08:24 AM]{.local-time} ]{.DateTime}
-:::
-
-::: {#actionMenuDropDown .lia-menu-navigation-wrapper .lia-js-hidden .lia-menu-action .lia-component-message-view-widget-action-menu}
-::: lia-menu-navigation
-::: dropdown-default-item
-[](# "Show option menu"){#dropDownLink .lia-js-menu-opener
-.default-menu-option .lia-js-mouseover-menu .lia-link-navigation}
-
-::: dropdown-positioning
-::: dropdown-positioning-static
--   [Subscribe to RSS
-    Feed](/gxcuf89792/rss/message?board.id=Microsoft365PnPBlog&message.id=596){#rssThread
-    .lia-link-navigation .rss-thread-link
-    .lia-component-rss-action-thread}
--   [ []{.lia-separator-post} []{.lia-separator-pre} ]{.lia-separator
-    .lia-component-common-widget-link-separator}
--   [Mark as New]{#markThreadUnread .lia-link-navigation
-    .mark-thread-unread .lia-link-disabled
-    .lia-component-forums-action-mark-thread-unread}
--   [Mark as Read]{#markThreadRead .lia-link-navigation
-    .mark-thread-read .lia-link-disabled
-    .lia-component-forums-action-mark-thread-read}
--   [ []{.lia-separator-post} []{.lia-separator-pre} ]{.lia-separator
-    .lia-component-common-widget-link-separator}
--   [Bookmark]{#addThreadUserBookmark .lia-link-navigation
-    .addThreadUserBookmark .lia-link-disabled
-    .lia-component-subscriptions-action-add-thread-user-bookmark}
--   [Subscribe]{#addThreadUserEmailSubscription .lia-link-navigation
-    .addThreadUserEmailSubscription .lia-link-disabled
-    .lia-component-subscriptions-action-add-thread-user-email}
--   [ []{.lia-separator-post} []{.lia-separator-pre} ]{.lia-separator
-    .lia-component-common-widget-link-separator}
--   [Email to a Friend]{#emailMessageToFriend .lia-link-navigation
-    .email_friend .lia-link-disabled
-    .lia-component-forums-action-email-message-to-friend}
--   [ []{.lia-separator-post} []{.lia-separator-pre} ]{.lia-separator
-    .lia-component-common-widget-link-separator}
--   [Printer Friendly
-    Page](/t5/blogs/blogarticleprintpage/blog-id/Microsoft365PnPBlog/article-id/596){#printThread
-    .lia-link-navigation .print-article
-    .lia-component-forums-action-print-thread}
--   [Report Inappropriate
-    Content](/t5/notifications/notifymoderatorpage/message-uid/2992931){#reportAbuse
-    .lia-link-navigation .report-abuse-link
-    .lia-component-forums-action-report-abuse}
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-main}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-main}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-::: {.lia-message-subject-wrapper .lia-component-subject .lia-component-message-view-widget-subject-with-options}
-::: MessageSubject
-::: MessageSubjectIcons
-# [ [Microsoft 365 PnP Community -- November 2021 update](/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-november-2021-update/ba-p/2992931){#link_6 .page-link .lia-link-navigation .lia-custom-event} ]{.lia-message-unread} {#microsoft-365-pnp-community-november-2021-update-1 .message-subject itemprop="name"}
-
-[]{#display_2 .lia-img-message-has-url .lia-fa-message .lia-fa-has
-.lia-fa-url .lia-fa title="Contains a hyperlink"
-alt="Message contains a hyperlink" aria-label="Contains a hyperlink"
-role="img"} []{#display_3 .lia-img-message-has-image .lia-fa-message
-.lia-fa-has .lia-fa-image .lia-fa title="Contains an image"
-alt="Message contains an image" aria-label="Contains an image"
-role="img"}
-:::
-:::
-:::
-
-::: {.lia-message-post-date .lia-component-post-date .lia-component-message-view-widget-post-date title="Posted on"}
-[ [‎Nov 26 2021]{.local-date} [08:24 AM]{.local-time} ]{.DateTime}
-:::
-
-::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
-::: {#bodyDisplay .lia-message-body itemprop="text"}
-::: lia-message-body-content
-[![pnp-nov-update.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329730i96F65AD59D6C9604/image-size/large?v=v2&px=999 "pnp-nov-update.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329730i96F65AD59D6C9604?v=v2"
-li-image-display-id="'329730i96F65AD59D6C9604'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="pnp-nov-update.png"
-style="width: 999px;"}
-
- 
-
+![pnp-nov-update.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329730i96F65AD59D6C9604/image-size/large?v=v2&px=999 "pnp-nov-update.png")
 Microsoft 365 Patterns and Practices (PnP) Community November 2021
 update is out with a summary of the latest guidance, samples, and
 solutions from Microsoft or from the community for the community. This
 article is a summary of all the different areas and topics around the
 community work we do around Microsoft 365 ecosystem during the past
 month. Thank you for being part of this success.
-
- 
-
 *Sharing is caring! ?*
 
- 
-
-# What is Microsoft 365 Community (PnP) {#toc-hId-1505401878}
+# What is Microsoft 365 Community (PnP) 
 
 [Microsoft 365 PnP](http://aka.ms/m365pnp) is a nick-name for Microsoft
 365 platform community activities coordinated by numerous teams inside
@@ -1116,24 +17,15 @@ of the Microsoft 365 engineering organizations. PnP is a
 community-driven open source initiative where Microsoft and external
 community members are sharing their learning\'s around implementation
 practices for Microsoft 365.
-
- 
-
 Topics vary from Microsoft Viva, Microsoft Graph, Microsoft Teams, Power
 Platform, OneDrive and SharePoint. Active development and contributions
 happen in GitHub by providing contributions to the samples, reusable
 components, and documentation for different areas. PnP is owned and
 coordinated by Microsoft engineering, but this is work done by the
 community for the community.
-
- 
-
 -   See more details from [New Microsoft 365 Patterns and Practices
     (PnP) team model with new community
     leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
-
- 
-
 The initiative is facilitated by Microsoft, but we have multiple
 community members as part of the PnP team (see team details in end of
 the article) and we are always looking to extend the PnP team with more
@@ -1141,13 +33,7 @@ community members. Notice that since this is open source community
 initiative, so there's no SLAs for the support for the samples provided
 through GitHub. Obviously, all officially released components and
 libraries are under official support from Microsoft.
-
- 
-
 Main resources around Microsoft 365 Community:
-
- 
-
 -   Microsoft 365 Community -
     [http://aka.ms/m365pnp](http://aka.ms/sppnp) - One location for all
     the resources and news around Microsoft 365 platform
@@ -1158,17 +44,11 @@ Main resources around Microsoft 365 Community:
     [http://aka.ms/m365pnp-videos](http://aka.ms/m365pnp-Videos)
 -   Microsoft 365 Developer YouTube channel -
     <https://aka.ms/M365DevYouTube>
-
- 
-
-## ✍ Latest Dev Blog posts {#toc-hId--2099003944}
+## ✍ Latest Dev Blog posts 
 
 Here are the latest blog posts and announcements around Microsoft 365
 development topics from
 <https://developer.microsoft.com/en-us/microsoft-365/blogs>.
-
- 
-
 -   18th of November - [Go developers can now access Microsoft Graph
     with streamlined authentication and
     more](https://devblogs.microsoft.com/microsoft365dev/go-developers-can-now-access-microsoft-graph-with-streamlined-authentication-and-more/) - [Vincent
@@ -1223,13 +103,7 @@ development topics from
 -   21st of October -[ Announcing SharePoint Framework 1.13 -- Extending
     Microsoft Viva
     Connections](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-13-extending-microsoft-viva-connections/)
-
- 
-
 Latest community posts at <https://aka.ms/m365pnp/community/blog>
-
- 
-
 -   19th of November - [Michel
     Mendes](https://twitter.com/michelcarlo) (Storm Technology) \|
     \@michelcarlo - [Quick SharePoint Approvals using List formatting
@@ -1269,13 +143,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     \| \@LuiseFreese - [How 3 makers, 2 devs and a princess came
     together to save kittens for a
     hackathon](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/ba-p/2877335)
-
- 
-
 Community call recording blog posts:
-
- 
-
 -   18th of November - [Viva Connections & SharePoint Framework
     Community Call -- 18th of November,
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-18th-of/ba-p/2981456)
@@ -1306,26 +174,14 @@ Community call recording blog posts:
 -   21st of October - [SharePoint Framework Community Call -- 21st of
     October,
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/sharepoint-framework-community-call-21st-of-october-2021/ba-p/2869976)
-
- 
-
 Microsoft 365 Developer Podcasts
-
- 
-
 -   18th of October - [M365 Dev Podcast - yo Teams Generator Update with
     Wictor
     Wilén](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/m365-dev-podcast-yo-teams-generator-update-with-wictor-wil%C3%A9n/ba-p/2856843)
 -   11th of October - [M365 Dev Podcast - Building a Solution with
     Low-Code Tools with Carmen Ysewijn and Luise
     Freese](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/m365-dev-podcast-building-a-solution-with-low-code-tools-with/ba-p/2834989)
-
- 
-
 Microsoft 365 PnP Weekly Podcasts and vlogs
-
- 
-
 -   23rd of November - [Microsoft 365 PnP Weekly - Episode 144 -
     Catherine Chuaga
     (Microsoft)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-144-catherine-chuaga-microsoft/ba-p/2994387)
@@ -1344,10 +200,7 @@ Microsoft 365 PnP Weekly Podcasts and vlogs
 -   26th of October - [Microsoft 365 PnP Weekly - Episode 140 - Simon
     Ågren
     (Advania)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/ba-p/2881228)
-
- 
-
-## Community Calls {#toc-hId-388508889}
+## Community Calls 
 
 There are numerous different community calls on different areas. All
 calls are being recorded and published either from [Microsoft 365
@@ -1358,9 +211,6 @@ channels. Recordings are typically released within the following 24
 hours after the call. You can find a detailed agenda and links to
 specific covered topics on blog post articles at the [Microsoft 365
 developer blog](http://aka.ms/spdev-blog) when the videos are published.
-
- 
-
 -   Microsoft 365 Platform Call - <https://aka.ms/m365-dev-call> -
     Updates and demos from Microsoft as weekly call on Tuesdays - topics
     vary from Microsoft Teams, Microsoft Graph, Power Platform,
@@ -1382,9 +232,6 @@ developer blog](http://aka.ms/spdev-blog) when the videos are published.
     call <https://aka.ms/spdev-spfx-call> - Bi-weekly - Consists of
     topics around SharePoint Framework and JavaScript-based development
     in the Microsoft Teams and in SharePoint platform.
-
- 
-
 If you are interested in doing a live demo of your solution or sample in
 these calls, please do reach out to the PnP  Team members (contacts
 later in this post) and they are able to help with the right setup.
@@ -1392,18 +239,12 @@ These are great opportunities to gain visibility for example for
 existing MVPs, for community members who would like to be MVPs in the
 future or any community member who\'d like to share some of their
 learnings.
-
- 
-
-## Microsoft 365 Community (PnP) Ecosystem in GitHub {#toc-hId--1418945574}
+## Microsoft 365 Community (PnP) Ecosystem in GitHub 
 
 Most of the community driven repositories are in the [PnP GitHub
 organization](https://github.com/pnp) as samples are not product
 specifics as they can contain numerous different solutions or the
 solution works in multiple different applications.
-
- 
-
 -   [Microsoft Graph
     Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -
     Repository and project on Microsoft Graph Toolkit controls -
@@ -1484,9 +325,6 @@ solution works in multiple different applications.
     Automate
 -   [powerva-samples](https://github.com/pnp/powerva-samples) - Samples
     that demonstrate different usage patterns for Power Virtual Agents
-
- 
-
 All SharePoint specific repositories or services supported directly by
 Microsoft are located in the SharePoint GitHub organization\
 \
@@ -1500,47 +338,28 @@ Microsoft are located in the SharePoint GitHub organization\
 -   [sp-provisioning-service](https://github.com/SharePoint/sp-provisioning-service) -
     Source code of the [SharePoint look book
     site](https://lookbook.microsoft.com/)
-
- 
-
 Classic PnP named repositories - older tooling
-
- 
-
 -   [PnP-Tools](https://github.com/sharepoint/PnP-Tools) - Tools and
     scripts targeted more for IT Pro\'s and for on-premises for SP2013
     and SP2016
 -   [PnP-Provisioning-Schema](https://github.com/sharepoint/PnP-provisioning-schema) -
     PnP Provisioning engine schema repository
-
- 
-
 Repositories in the GitHub [Microsoft
 Search](https://github.com/microsoft-search) organization controlled by
 the PnP initiative
-
- 
-
 -   [pnp-modern-search](https://github.com/microsoft-search/pnp-modern-search)
     -  Home of PnP Modern Search solutions, see more from the
     [documentation](https://microsoft-search.github.io/pnp-modern-search/)
-
- 
-
 Other related resources from GitHub
-
- 
-
 -   [Office add-in Patterns and Practices in
     GitHub](https://github.com/OfficeDev/PnP-OfficeAddins) - Community
     contributions welcome!
 -   [Microsoft Graph](https://github.com/microsoftgraph) GitHub
     organization
 -   [OfficeDev GitHub organization](https://github.com/officedev) -
-    Includes all Microsoft Teams samples from Microsoft\
-    \
+    Includes all Microsoft Teams samples from Microsoft
 
-## What\'s supportability story around the community tooling and assets? {#toc-hId-1068567259}
+## What\'s supportability story around the community tooling and assets? 
 
 Following statements apply across all of the community lead and
 contributed samples and solutions, including samples, core component(s)
@@ -1550,9 +369,6 @@ teams](https://aka.ms/yoteams) or [PnP
 PowerShell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
 All Microsoft released SDKs and tools are supported based on the
 specific tool policies.
-
- 
-
 -   PnP guidance and samples are created by Microsoft & by the Community
 -   PnP guidance and samples are maintained by Microsoft & community
 -   PnP uses supported and recommended techniques
@@ -1567,30 +383,10 @@ specific tool policies.
     for customers. Support for this is provided by the Partner. When PnP
     material is used in deployments, we recommend being clear with your
     customer/deployment owner on the support model
-
- 
-
 Please see the specifics on the supportability on the tool, SDK or 
 component repository or download page.
-
- 
-
-## Microsoft 365 PnP team model {#toc-hId--738887204}
-
- 
-
-[![pnp-community-model.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261738iE62C2523C7D5399F/image-size/large?v=v2&px=999 "pnp-community-model.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261738iE62C2523C7D5399F?v=v2"
-li-image-display-id="'261738iE62C2523C7D5399F'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="pnp-community-model.png"
-style="width: 999px;"}
-
- 
-
+## Microsoft 365 PnP team model 
+![pnp-community-model.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261738iE62C2523C7D5399F/image-size/large?v=v2&px=999 "pnp-community-model.png")
 In April 2020 we announced our new [Microsoft 365 PnP team
 model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 and grew the MVP team quite significantly. PnP model exists for having
@@ -1599,14 +395,8 @@ members. Let\'s build things together. Your contributions and feedback
 is always welcome! During August, we also crew the team with 5 new
 members. PnP Team coordinates and leads the different open-source and
 community efforts we execute in the Microsoft 365 platform.
-
- 
-
 We welcome all community members to get involved on the community and
 open-source efforts. Your input do matter!
-
- 
-
 -   [New Microsoft 365 Patterns and Practices (PnP) team members --
     November
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members/ba-p/2953966) - [Geetha
@@ -1648,32 +438,15 @@ open-source efforts. Your input do matter!
     Bullock](https://twitter.com/pkbullock) (CaPa Creative), [Rabia
     Williams](https://twitter.com/williamsrabia) (Microsoft)
     and [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions)
-
- 
-
 Got feedback, suggestions or ideas? - Please let us know. Everything we
 do in this program is **for your benefit**. Feedback and ideas are more
 than welcome so that we can adjust the process for benefitting you even
 more.
-
  
 
- 
+## Microsoft 365 PnP Recognition Program
 
-## Microsoft 365 PnP Recognition Program   {#toc-hId-1748625629}
-
-[![VesaJuvonen_0-1629736432373.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/305133i375E2A57C937F149/image-size/large?v=v2&px=999 "VesaJuvonen_0-1629736432373.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/305133i375E2A57C937F149?v=v2"
-li-image-display-id="'305133i375E2A57C937F149'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="VesaJuvonen_0-1629736432373.png"
-style="width: 999px;"}
-
- 
-
+![VesaJuvonen_0-1629736432373.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/305133i375E2A57C937F149/image-size/large?v=v2&px=999 "VesaJuvonen_0-1629736432373.png")
 We are excited to announce new community contributor program for all the
 active community members. Through this program you can get officially
 acknowledged with the a [Credly
@@ -1683,41 +456,21 @@ from
 
 <https://aka.ms/m365pnp-recognition>. Thank you for being part of this
 journey with us.
-
- 
-
-## ⚙ Area-specific updates {#toc-hId--58828834}
+## ⚙ Area-specific updates 
 
 These are different areas which are closely involved on the community
 work across the PnP initiative. Some are lead and coordinated by
 engineering organizations, some are coordinated by the community and
 MVPs.
+### Microsoft Graph Toolkit 
 
- 
-
-### Microsoft Graph Toolkit {#toc-hId-631732640}
-
-[![graph-toolkit.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261739iA57BB73461170C2E/image-size/large?v=v2&px=999 "graph-toolkit.jpg"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261739iA57BB73461170C2E?v=v2"
-li-image-display-id="'261739iA57BB73461170C2E'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="graph-toolkit.jpg"
-style="width: 527px;"}
-
- 
-
+![graph-toolkit.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261739iA57BB73461170C2E/image-size/large?v=v2&px=999 "graph-toolkit.jpg")
 Microsoft Graph Toolkit is engineering lead initiative, which works
 closely with the community on the open-source areas. The Microsoft Graph
 Toolkit is a collection of reusable, framework-agnostic web components
 and helpers for accessing and working with Microsoft Graph. The
 components are fully functional right of out of the box, with built in
 providers that authenticate with and fetch data from Microsoft Graph.
-
- 
-
 -   Latest version currently is 2.3 See the v2.3 announcement blog post
     for more details - [Announcing a new Microsoft Teams authentication
     provider and file upload feature in the Microsoft
@@ -1729,30 +482,13 @@ providers that authenticate with and fetch data from Microsoft Graph.
     community call by [Beth Pan](https://twitter.com/beth_panx)
     (Microsoft)
 -   Latest code and preview versions from <https://aka.ms/mgt>
-
- 
-
 All the latest updates on the Microsoft Graph Toolkit is being presented
 in our bi-weekly Microsoft 365 Generic Dev community call, including the
 latest community contributors.
 
- 
+### Microsoft 365 Community docs 
 
-### Microsoft 365 Community docs {#toc-hId--1175721823}
-
- 
-
-[![community-dcos.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369/image-size/large?v=v2&px=999 "community-dcos.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369?v=v2"
-li-image-display-id="'261740i45A51B070D635369'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="community-dcos.png"
-style="width: 999px;"}
-
- 
+![community-dcos.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369/image-size/large?v=v2&px=999 "community-dcos.png")
 
 Community docs model was announced in the April 2020 and it\'s great to
 see the interest for community to help each other by providing new
@@ -1762,34 +498,19 @@ Docs](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/announcin
 We do welcome contributions from the community - our objective is to
 build a valuable location for articles from Microsoft and community
 together.
-
- 
-
 -   [Microsoft 365 Community
     Content](https://docs.microsoft.com/en-us/microsoft-365/community/)
     at docs.microsoft.com
-
- 
-
 Have ideas for articles or want to contribute yourself? - Get involved!
 Here are also some additional resources explaining the model more
 detailed.
-
- 
-
 -   YouTube - [Introducing Microsoft 365 Community
     Docs](https://www.youtube.com/watch?v=HTbgjWvsh3k)
 -   [GitHub issue
     list](https://github.com/MicrosoftDocs/microsoft-365-community/issues)
     with articles ideas
-
- 
-
-### SharePoint Framework development samples {#toc-hId-616627531}
-
- 
-
-[![spfx-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261742i96F265E42A76DB51/image-size/large?v=v2&px=999 "spfx-gallery.png"){.lia-media-image
+### SharePoint Framework development samples 
+![spfx-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261742i96F265E42A76DB51/image-size/large?v=v2&px=999 "spfx-gallery.png"){.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261742i96F265E42A76DB51?v=v2"
 li-image-display-id="'261742i96F265E42A76DB51'"
@@ -1801,9 +522,6 @@ style="width: 999px;"}
 
 These are the updated SharePoint Framework samples which are available
 from the the different repositories.
-
- 
-
 -   New sample
     [react-find-parker](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-find-parker)
     by [Adam
@@ -1860,54 +578,26 @@ from the the different repositories.
 -   Other adjustments to numerous samples by our awesome community
     members!
 -    
-
- 
-
 How to find what\'s relevant for you? Take advantage of our SharePoint
 Framework web part and extension sample galleries - includes also
 solutions which work in Microsoft Teams
-
- 
-
 -   Web Part sample gallery - <http://aka.ms/spfx-webparts>
 -   Extensions sample gallery - <http://aka.ms/spfx-extensions>
 -   Viva Connections Adaptive Card samples
     - [http://aka.ms/spfx-aces](http://aka.ms/spfx-extensions)
 -   Microsoft Teams samples build with SharePoint Framework -
     <https://github.com/pnp/spfx-teams> - These will be relocated soon
+### Microsoft Teams community samples 
 
- 
-
-### Microsoft Teams community samples {#toc-hId--1190826932}
-
- 
-
-[![teams-samples-promo.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261745i9E77F4A84CE0145E/image-size/large?v=v2&px=999 "teams-samples-promo.jpg"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261745i9E77F4A84CE0145E?v=v2"
-li-image-display-id="'261745i9E77F4A84CE0145E'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="teams-samples-promo.jpg"
-style="width: 999px;"}
-
- 
-
+![teams-samples-promo.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261745i9E77F4A84CE0145E/image-size/large?v=v2&px=999 "teams-samples-promo.jpg")
 These are samples which have been contributed on the community samples
 since last summary. We do welcome all Microsoft Teams samples to this
 gallery. They can be implemented using in any technology.
-
- 
-
 -   New
     sample [tab-sso-graph-upload-as-pdf](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-sso-graph-upload-as-pdf) by [Markus
     Möller](https://twitter.com/Moeller2_0) (Avanade) \| \@Moeller2_0 to
     enable users to upload files via drag n drop and convert the file to
     a PDF using the current channel as a folder name
-
- 
-
 If you are interested on Microsoft Teams samples, we have just released
 also new [Microsoft Teams sample gallery](https://aka.ms/teams-samples).
 Contributions to [Microsoft Teams
@@ -1917,66 +607,30 @@ Teams app
 templates](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates)
 and community samples.
 
- 
+### Power Platform samples 
 
-### Power Platform samples {#toc-hId-1296685901}
-
- 
-
-[![power-platform-samples.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279633i788F8D894CE8B615/image-size/large?v=v2&px=999 "power-platform-samples.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279633i788F8D894CE8B615?v=v2"
-li-image-display-id="'279633i788F8D894CE8B615'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="power-platform-samples.png"
-style="width: 999px;"}
-
- 
-
+![power-platform-samples.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279633i788F8D894CE8B615/image-size/large?v=v2&px=999 "power-platform-samples.png")
 There was numerous smaller updates on the different Power Platforms
 samples. See more details on available samples from following location:\
 \
 
 -   Power Platform sample gallery
     - <https://aka.ms/powerplatform-samples>
-
- 
-
 If you have any existing samples which you\'d be willing to share with
 others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. Here to
 help.
 
- 
+### Microsoft 365 Script Samples 
 
-### Microsoft 365 Script Samples {#toc-hId--510768562}
-
- 
-
-[![script-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287810i07695D4C2B844F3E/image-size/large?v=v2&px=999 "script-gallery.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287810i07695D4C2B844F3E?v=v2"
-li-image-display-id="'287810i07695D4C2B844F3E'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="script-gallery.png"
-style="width: 999px;"}
+![script-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287810i07695D4C2B844F3E/image-size/large?v=v2&px=999 "script-gallery.png")
 
 \
 We have released new Microsoft 365 Script Sample gallery within past
 month. We welcome all scripts on Microsoft 365 automation to this
 centralized repository, targeted to help to manage and automate
 day-to-day operations.
-
- 
-
 Here are the latest updates on the Script Samples
-
- 
-
 -   Updated [Clean Up Unwanted Site Columns from Content Types and
     Lists/Libraries](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-cleanup-site-column-usage%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361906635%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=wpwud0Uc4owD1c%2B%2FsNJxZM4cJ4VxOXBf9gfx1eAfQNY%3D&reserved=0)
     by [Adam
@@ -2087,35 +741,12 @@ Here are the latest updates on the Script Samples
     by [Adam
     Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=ulMhSFwRQqnWXDKQiPuhBKCA99T2OBcYPx%2Bq2hYD%2Fp0%3D&reserved=0)
     (Hitachi Energy) \| \@Adam25858782
-
- 
-
 If you have any existing scripts which you\'d be willing to share with
 others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. 
-
- 
-
 -   Microsoft 365 Script Samples - <https://aka.ms/script-samples>
-
- 
-
 **Independent Connectors Program**
-
- 
-
-[![independent-connectors.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328860iFE46C726CEBB7F49/image-size/large?v=v2&px=999 "independent-connectors.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328860iFE46C726CEBB7F49?v=v2"
-li-image-display-id="'328860iFE46C726CEBB7F49'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="independent-connectors.png"
-style="width: 999px;"}
-
- 
-
+![independent-connectors.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328860iFE46C726CEBB7F49/image-size/large?v=v2&px=999 "independent-connectors.png")
 Microsoft Power Platform comes with a huge variety of already built-in
 connectors and also provides you with the ability of creating your own
 custom connectors. As of July 2021, anyone can submit the connectors
@@ -2125,22 +756,13 @@ connectors. The Independent Publisher Connector Program\'s mission is to
 bring the best together: the best people, connecting great ideas to
 data, apps, and flows. We want to make it easier for connector
 developers to collaborate on connectors.
-
- 
-
 For more information, you can watch this video on Publish a connector to
 the [Publish a connector to the Power Platform with Independent
 Publisher Connector
 Program](https://www.youtube.com/watch?v=ulTBvCHw8MU) gram and check
 out [Microsoft Power Platform Connectors on
 GitHub](https://github.com/microsoft/PowerPlatformConnectors)
-
- 
-
 These are the latest connectors: 
-
- 
-
 -   [Accuweather](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/AccuWeather) - [Ahmad
     Najjar](https://twitter.com/ahmadn82) (Infoworker) \| \@ahmadn82
 -   [Bronnoysundregistrene](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Br%C3%B8nn%C3%B8ysundregistrene) - [Ahmad
@@ -2265,50 +887,24 @@ These are the latest connectors: 
     \@troystaylor
 -   [Airtable](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Airtable) -- [Woong
     Choi](https://www.linkedin.com/in/woongchoi/) (Seven Sigma)
-
- 
-
-### Sharing is Caring initiative {#toc-hId-1976744271}
-
- 
-
-[![sharing-is-caring-promo-1024x576.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261747i39E00EA5029AD282/image-size/large?v=v2&px=999 "sharing-is-caring-promo-1024x576.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261747i39E00EA5029AD282?v=v2"
-li-image-display-id="'261747i39E00EA5029AD282'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="sharing-is-caring-promo-1024x576.png"
-style="width: 999px;"}
-
- 
-
+### Sharing is Caring initiative 
+![sharing-is-caring-promo-1024x576.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261747i39E00EA5029AD282/image-size/large?v=v2&px=999 "sharing-is-caring-promo-1024x576.png")
 The \"Sharing Is Caring\" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
 advantage of this instructor lead training for learning how to
 contribute to docs or to open-source solutions. Everyone is welcome to
 learn how to get started on contributing to open-source docs or code!
-
- 
-
 -   See more from the [guidance
     documentation](http://aka.ms/sharing-is-caring) - including all
     upcoming instructor lead sessions which you can participate!
-
- 
-
-### ✍ Different Microsoft 365 related open-source initiatives build together with the community {#toc-hId-169289808}
+### ✍ Different Microsoft 365 related open-source initiatives build together with the community 
 
 See exact details on the latest updates from the specific open-source
 project release notes. You can also follow up on the project updates
 from our community calls. There are numerous active projects which are
 releasing new versions with the community even on weekly basis. Get
 involved!
-
- 
-
 -   **Microsoft Look Book** - Discover the modern experiences you can
     build with SharePoint in Microsoft 365. Look book provides design
     examples for SharePoint Online which can be automatically
@@ -2390,16 +986,10 @@ involved!
 -   **Teams provisioning solution** - Set of open-source Azure Functions
     for Microsoft Teams provisioning. See more details from
     [GitHub](https://github.com/pnp/OrchestratedProvisioning).
-
- 
-
-### ✍ Documentation updates {#toc-hId--1638164655}
+### ✍ Documentation updates 
 
 Please see all the Microsoft 365 development documentation updates from
 the related documentation sets and repositories as listed below:
-
- 
-
 -   Microsoft Teams platform documentation - [Microsoft
     Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) \|
     [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
@@ -2412,10 +1002,7 @@ the related documentation sets and repositories as listed below:
 -   Office add-in documentation - [Microsoft
     Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) \|
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
-
- 
-
-### ? Microsoft 365 Developer and Microsoft 365 Community YouTube video channels {#toc-hId-849348178}
+### ? Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
 
 You can find all Microsoft 365 related videos on our YouTube Channel at
 [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos) or at
@@ -2423,14 +1010,8 @@ You can find all Microsoft 365 related videos on our YouTube Channel at
 Dev](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ). These
 channels contains already a significant amount of detailed training
 material, demo videos, and community call recordings.
-
- 
-
 Here are the new Microsoft demo or guidance videos released since the
 last monthly summary:
-
- 
-
 -   [Building custom search layout experiences in SharePoint with
     Microsoft
     Search](http://building%20custom%20search%20layout%20experiences%20in%20sharepoint%20with%20microsoft%20search/) - Jyoti
@@ -2609,13 +1190,7 @@ last monthly summary:
     Dunnam](httpw://twitter.com/aprildunnam) (Microsoft)
     \| \@aprildunnam and [Dan Wahlin](https://twitter.com/DanWahlin)
     (Microsoft) \| \@DanWahlin
-
- 
-
 Community demos as following: 
-
- 
-
 -   [Customizing Microsoft Lists best practices with MVP, Norm Young -
     YouTube](https://www.youtube.com/watch?v=BqHp4xLeHYk) - [Norm
     Young](https://twitter.com/Stormin_30) (Unlimited Viz)
@@ -2682,10 +1257,7 @@ Community demos as following: 
     Demo](https://www.youtube.com/watch?v=C8MWphR4i_w)  - [Natalie
     Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \|
     \@NataliePienkow1 and Martyn Lesbirel (Dynamiti)
-
- 
-
-## Key contributors to the November2021 update {#toc-hId--1087189004}
+## Key contributors to the November2021 update 
 
 Here's the list of active contributors (in alphabetical order) since
 last release details in GitHub repositories or community channels. PnP
@@ -2693,15 +1265,9 @@ is really about building tooling and knowledge together with the
 community for the community, so your contributions are highly valued
 across the Microsoft 365 customers, partners and obviously also at
 Microsoft.
-
- 
-
 **Thank you for your assistance and contributions on behalf of the
 community. You are truly making a difference!** If we missed someone,
 please let us know.
-
- 
-
 -   [Abderahman Moujahid](https://github.com/Abderahman88)
     - Abderahman88
 -   [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) \|
@@ -3127,9 +1693,6 @@ please let us know.
 -   [Yves Habersaat]{.underline} \| \@yhabersaat
 -   [Zach Roberts](https://twitter.com/ZachSPODev) \| \@ZachSPODev
 -   [zylantha](https://github.com/zylantha)
-
- 
-
 **Companies:** Here\'s the companies, which provided support the
 community initiative for this month by allowing their employees working
 for the benefit of others in the community. There were also people who
@@ -3137,21 +1700,7 @@ contributed from other companies during last month, but we did not get
 their logos and approval to show them in time for these communications.
 If you still want your logo for this month\'s release, please let us
 know and share the logo with us. Thx.
-
- 
-
-[![nov-companies-pnp.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328907i5772458C33B9F8CC/image-size/large?v=v2&px=999 "nov-companies-pnp.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328907i5772458C33B9F8CC?v=v2"
-li-image-display-id="'328907i5772458C33B9F8CC'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="nov-companies-pnp.png"
-style="width: 999px;"}
-
- 
-
+![nov-companies-pnp.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328907i5772458C33B9F8CC/image-size/large?v=v2&px=999 "nov-companies-pnp.png")
 -   [Addin365](https://www.addin365.com/)
 -   [Arvo Systems](https://www.arvosys.com/)
 -   [BLIS Digital](https://blisdigital.com/en/)
@@ -3187,11 +1736,10 @@ style="width: 999px;"}
 -   [Voitanos](https://www.voitanos.io/)\
     \
 
-**Microsoft people:** Here's the list of Microsoft people who have been
+**Microsoft people:** 
+
+Here's the list of Microsoft people who have been
 closely involved with the PnP work during last month.
-
- 
-
 -   [Aakash Bhardwaj](https://twitter.com/aakash_316) (Microsoft) \|
     \@aakash_316
 -   [Alex
@@ -3287,10 +1835,7 @@ closely involved with the PnP work during last month.
 -   [Waldek Mastykarz](https://twitter.com/waldekm) \| \@waldekm
 -   [Wictor Wilen](https://twitter.com/wictor) \| \@wictor
 -   [Vincent Biret](https://twitter.com/baywet) (Microsoft) \| \@baywet 
-
- 
-
-## MVP Community team {#toc-hId-1400323829}
+## MVP Community team 
 
 MVP Community team (PnP Team) manages the PnP community work in the
 GitHub and also coordinates different open-source projects around
@@ -3298,13 +1843,7 @@ Microsoft 365 topics. PnP Team members have a significant impact on
 driving adoption of Microsoft 365  topics. They have shown their
 commitment to the open-source and community-driven work by constantly
 contributing to the benefit of the others in the community.
-
- 
-
 Thank you for all that you do!
-
- 
-
 -   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital)
     \| \@appieschot
 -   [Andrew Connell](https://twitter.com/andrewconnell)
@@ -3360,13 +1899,7 @@ Thank you for all that you do!
     \| \@veronicageek
 -   [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions)
     \| \@yp_code
-
- 
-
 Here are the Microsoft Internal PnP Core team members:
-
- 
-
 -   [Alex
     Terentiev](https://twitter.com/alexaterentiev) \| \@alexaterentiev
 -   [April Dunnam](https://twitter.com/aprildunnam) \| \@aprildunnam
@@ -3390,450 +1923,15 @@ Here are the Microsoft Internal PnP Core team members:
 -   [Wictor Wilen](https://twitter.com/wictor) \| \@wictor\
     \
 
-## Next steps {#toc-hId-291031307}
+## Next steps 
 
 See all of the available community calls, tools, components and other
 assets from <https://aka.ms/m365pnp>. Get involved!
-
- 
-
 Got ideas or feedback on the topics to cover, additional partnerships,
 product feature capabilities? - let us know. Your input is important for
 us, so that we can support your journey in Microsoft 365.
-
- 
-
 *"Sharing is caring" ?*
-
- 
-
 ------------------------------------------------------------------------
 
 Microsoft 365 Community (PnP) -- November 26th 2021
 
-::: {#tinyMceEditorVesa Juvonen_31 .mceNonEditable .lia-copypaste-placeholder}
- 
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-footer}
-::: {.lia-quilt-column .lia-quilt-column-12 .lia-quilt-column-left .lia-quilt-column-footer-left}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-left}
-::: {#kudosButtonV2 .KudosButton .lia-button-image-kudos-wrapper .lia-component-kudos-widget-button-version-3 .lia-component-kudos-widget-button-horizontal .lia-component-kudos-widget-button .lia-component-kudos-action .lia-component-message-view-widget-kudos-action lia-kudos-id="2992931"}
-::: {.lia-button-image-kudos .lia-button-image-kudos-horizontal .lia-button-image-kudos-enabled .lia-button-image-kudos-not-kudoed .lia-button-image-kudos-has-kudoes .lia-button-image-kudos-has-kudos .lia-button aria-atomic="true" aria-live="assertive"}
-::: lia-button-image-kudos-count
-[[ 1 ]{#messageKudosCount_2312521808d6b6 .MessageKudosCount
-.lia-component-kudos-widget-message-kudos-count itemprop="upvoteCount"}[
-Like ]{.lia-button-image-kudos-label
-.lia-component-kudos-widget-kudos-count-label}](/t5/kudos/messagepage/board-id/Microsoft365PnPBlog/message-id/596/tab/all-users "Click here to see who gave likes to this post."){#link_7
-.lia-link-navigation .kudos-count-link}
-:::
-
-::: lia-button-image-kudos-give
-[Like](https://techcommunity.microsoft.com/t5/blogs/v2/blogarticlepage.kudosbuttonv2.kudoentity:kudoentity/kudosable-gid/2992931?t:ac=blog-id/Microsoft365PnPBlog/article-id/596&t:cp=kudos/contributions/tapletcontributionspage "Click here to give likes to this post."){#kudoEntity
-.lia-link-navigation .kudos-link .lia-link-ticket-post-action}
-:::
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-column .lia-quilt-column-12 .lia-quilt-column-right .lia-quilt-column-footer-right}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-right}
-::: {.lia-button-group .lia-component-comment-button .lia-component-message-view-widget-comment-button}
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-mod-controls}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-mod-controls-main}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single .lia-mark-empty}
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-sub-footer}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-sub-footer .lia-mark-empty}
-:::
-:::
-:::
-:::
-:::
-
-::: {#progressBar .lia-progress .lia-js-hidden}
-::: lia-progress-indeterminate
-:::
-:::
-:::
-:::
-
-[]{#comment-on-this} [ ]{#feedback-successinformationbox_6}
-
-::: {#informationbox_6 .InfoMessage .lia-panel-feedback-banner-note .lia-component-comment-editor}
-::: {.lia-text role="alert"}
-You must be a registered user to add a comment. If you\'ve already
-registered, sign in. Otherwise, register and sign in.
-
--   [Comment](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&redirectreason=permissiondenied&referer=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fmicrosoft-365-pnp-blog%2Fmicrosoft-365-pnp-community-november-2021-update%2Fba-p%2F2992931%23comment-on-this){#link_8
-    .lia-link-navigation .blog-link .lia-message-comment-post}
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-column .lia-quilt-column-06 .lia-quilt-column-right .lia-quilt-column-side-content}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-right}
-::: {#threadTranslationDashboard .Thread_Translation_Dashboard ng-controller="lingotekThreadTranslationCtrl" li-bindable=""}
-::: lingotek-admin-dashboard
-:::
-:::
-
-::: {style="clear:both"}
-:::
-
-::: {#contributorsTaplet .ContributorsTaplet .lia-component-tkb-widget-contributors-taplet}
-::: {.lia-panel .lia-panel-standard}
-::: lia-decoration-border
-::: lia-decoration-border-top
-<div>
-
-</div>
-:::
-
-::: lia-decoration-border-content
-<div>
-
-::: lia-panel-heading-bar-wrapper
-::: lia-panel-heading-bar
-[ Co-Authors ]{.lia-panel-heading-bar-title aria-level="3"
-role="heading"}
-:::
-:::
-
-::: lia-panel-content-wrapper
-::: lia-panel-content
-::: {.UserProfileSummary .lia-user-item .lia-js-data-userId-369 .lia-user-info-group}
-::: UserAvatarWrapper
-::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Microsoft}
-[![Vesa
-Juvonen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/430iA3AD642623E8B21D/image-dimensions/40x40/image-coordinates/0%2C0%2C220%2C220?v=v2 "Vesa Juvonen"){.lia-user-avatar-message
-.user-rank-ring .user-rank-ring style="border-color: #0078D4"
-onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/369){.UserAvatar
-.lia-link-navigation}
-:::
-
-::: {.user-profile-card user-id="369"}
-::: contents
-::: spinner
-:::
-:::
-:::
-:::
-
-::: lia-user-attributes
-::: lia-user-name
-[ [Vesa
-Juvonen](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/369){#link_9
-.lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
-.lia-user-name .lia-user-rank-Microsoft}
-:::
-:::
-:::
-:::
-:::
-
-</div>
-:::
-
-::: lia-decoration-border-bottom
-<div>
-
-</div>
-:::
-:::
-:::
-:::
-
-::: {.lia-panel .lia-panel-standard .ArticleRevisionInfoTaplet .Chrome .lia-component-tkb-widget-article-revision-info-taplet}
-::: lia-decoration-border
-::: lia-decoration-border-top
-<div>
-
-</div>
-:::
-
-::: lia-decoration-border-content
-<div>
-
-::: lia-panel-heading-bar-wrapper
-::: lia-panel-heading-bar
-[Version history]{.lia-panel-heading-bar-title aria-level="3"
-role="heading"}
-:::
-:::
-
-::: lia-panel-content-wrapper
-::: lia-panel-content
-::: lia-revision-info-wrapper
-::: lia-revision-info-content
-::: {.lia-revision-info-row .lia-revision-last-update-row}
-::: lia-revision-info-title-cell
-Last update:
-:::
-
-::: lia-revision-info-data-cell
-[ [‎Dec 22 2021]{.local-date} [05:54 AM]{.local-time} ]{.DateTime}
-:::
-:::
-
-::: {.lia-revision-info-row .lia-revision-author-row}
-::: lia-revision-info-title-cell
-Updated by:
-:::
-
-::: lia-revision-info-data-cell
-[ [Vesa
-Juvonen](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/369){#link_10
-.lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
-.lia-user-name .lia-user-rank-Microsoft}
-:::
-:::
-
-::: {.lia-revision-info-row .lia-revision-article-history-link-row .lia-revision-info-data-cell-workflow}
-:::
-:::
-:::
-:::
-:::
-
-</div>
-:::
-
-::: lia-decoration-border-bottom
-<div>
-
-</div>
-:::
-:::
-:::
-
-::: blog-article-social-share-widget-wrapper
-::: custom-social-share-component
-::: custom-social-share-widget
-::: {.lia-panel .lia-panel-standard .Chrome .custom-share-component style=""}
-::: lia-decoration-border
-::: lia-decoration-border-top
-<div>
-
-</div>
-:::
-
-::: lia-decoration-border-content
-<div>
-
-::: lia-panel-heading-bar-wrapper
-::: lia-panel-heading-bar
-## Share {#customShareWidget .lia-panel-heading-bar-title .hello}
-:::
-:::
-
-::: lia-panel-content-wrapper
-::: lia-panel-content
--   [[Share to
-    LinkedIn]{.social-share-title}](http://www.linkedin.com/shareArticle?mini=true&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-november-2021-update/ba-p/2992931 "Share to LinkedIn"){.social-share-link
-    .social-share-linkedin}
--   [[Share to
-    Facebook]{.social-share-title}](http://www.facebook.com/share.php?u=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-november-2021-update/ba-p/2992931 "Share to FaceBook"){.social-share-link
-    .social-share-facebook}
--   [[Share to
-    Twitter]{.social-share-title}](http://twitter.com/share?text=Check%20out%20this%20post%20on%20the%20Microsoft%20Tech%20Community%20:%20Microsoft%20365%20PnP%20Community%20–%20November%202021%20update%20-%20Microsoft%20Tech%20Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-november-2021-update/ba-p/2992931 "Share to Twitter"){.social-share-link
-    .social-share-twitter}
--   [[Share to
-    Email]{.social-share-title}](mailto:?subject=Microsoft%20365%20PnP%20Community%20–%20November%202021%20update%20-%20Microsoft%20Tech%20Community&body=I%20found%20this%20on%20the%20Microsoft%20Tech%20Community%20and%20wanted%20to%20share%20it%20with%20you,%20check%20it%20out%20:%20https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-november-2021-update/ba-p/2992931 "Share via email"){.social-share-link
-    .social-share-email}
-:::
-:::
-
-</div>
-:::
-
-::: lia-decoration-border-bottom
-<div>
-
-</div>
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-footer}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-footer}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-::: {.lia-quilt .lia-quilt-footer .lia-quilt-layout-footer .lia-component-quilt-footer}
-::: {.lia-quilt-row .lia-quilt-row-main}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-icons}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single .lia-mark-empty}
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: {.cse-46444-wa style="display: none"}
-::: {.lia-slide-out-nav-menu .lia-component-common-widget-slide-out-nav-menu}
-::: {.lia-slide-out-nav-menu-title ng-non-bindable=""}
-Browse
-:::
-
-::: {.lia-quilt .lia-quilt-navigation-slide-out-menu .lia-quilt-layout-one-column .lia-top-quilt}
-::: {.lia-quilt-row .lia-quilt-row-header}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-header .lia-mark-empty}
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-main}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-main-content}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-footer}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-footer .lia-mark-empty}
-:::
-:::
-:::
-:::
-:::
-
-::: {.shell-footer bi-view="5xLinks" bi-area="Footer" ms.pgarea="uhffooter" role="contentinfo"}
-::: shell-footer-wrapper
-::: {.shell-footer-menugroups ms.cmpgrp="footer nav"}
-::: {.sfm-group ms.cmpnm="WhatsNew"}
-###### What\'s new  {#whats-new .grp-title}
-
--   [Surface Pro
-    X](https://www.microsoft.com/p/surface-pro-x/8vdnrp2m6hhc?activetab=overview)
--   [Surface Laptop
-    3](https://www.microsoft.com/p/surface-laptop-3/8VFGGH1R94TM?activetab=overview)
--   [Surface Pro
-    7](https://www.microsoft.com/p/surface-pro-7/8N17J0M5ZZQS?activetab=overview)
--   [Windows 10 Apps](https://www.microsoft.com/windows/windows-10-apps)
--   [Office apps](https://store.office.com/appshome.aspx)
-:::
-
-::: {.sfm-group ms.cmpnm="MicrosoftStore"}
-###### Microsoft Store  {#microsoft-store .grp-title}
-
--   [Account profile](https://account.microsoft.com/)
--   [Download Center](https://www.microsoft.com/download)
--   [Microsoft Store
-    support](https://go.microsoft.com/fwlink/p/?LinkID=824761&clcid=0x409)
--   [Returns](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x409)
--   [Order tracking](https://account.microsoft.com/orders)
--   [Store
-    locations](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS)
--   [Buy online, pick up in
-    store](https://www.microsoft.com/en-us/store/b/buy-online-pick-up-in-store?icid=uhf_footer_bopuis)
--   [In-store
-    events](https://www.microsoft.com/en-us/store/locations/events?icid=en_us_store_uhf_events)
-:::
-
-::: {.sfm-group ms.cmpnm="Education"}
-###### Education  {#education .grp-title}
-
--   [Microsoft in education](https://www.microsoft.com/education)
--   [Office for
-    students](https://www.microsoft.com/education/products/office/default.aspx)
--   [Office for
-    schools](https://products.office.com/academic/compare-office-365-education-plans)
--   [Deals for students and
-    parents](https://www.microsoft.com/en-us/store/b/education?icid=CNavfooter_Studentsandeducation)
--   [Microsoft Azure in
-    education](https://azure.microsoft.com/community/education/)
-:::
-
-::: {.sfm-group ms.cmpnm="Enterprise"}
-###### Enterprise  {#enterprise .grp-title}
-
--   [Azure](https://azure.microsoft.com/)
--   [AppSource](https://go.microsoft.com/fwlink/?LinkID=808093)
--   [Automotive](https://www.microsoft.com/enterprise/automotive)
--   [Government](https://www.microsoft.com/enterprise/government)
--   [Healthcare](https://www.microsoft.com/enterprise/health)
--   [Manufacturing](https://www.microsoft.com/enterprise/manufacturing)
--   [Financial
-    Services](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
--   [Retail](https://www.microsoft.com/enterprise/retail-consumer-goods)
-:::
-
-::: {.sfm-group ms.cmpnm="Developer"}
-###### Developer  {#developer .grp-title}
-
--   [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
--   [Window Dev Center](https://developer.microsoft.com/windows)
--   [Developer Network](https://msdn.microsoft.com/)
--   [TechNet](https://technet.microsoft.com/)
--   [Microsoft developer
-    program](https://developer.microsoft.com/store/register)
--   [Channel 9](https://channel9.msdn.com/)
--   [Office Dev Center](https://developer.microsoft.com/office)
--   [Microsoft Garage](https://www.microsoft.com/garage/)
-:::
-
-::: {.sfm-group ms.cmpnm="Company"}
-###### Company  {#company .grp-title}
-
--   [Careers](https://careers.microsoft.com/)
--   [About Microsoft](https://www.microsoft.com/en-us/about)
--   [Company News](https://news.microsoft.com/)
--   [Privacy at Microsoft](https://privacy.microsoft.com/)
--   [Investors](https://www.microsoft.com/investor/default.aspx)
--   [Diversity and inclusion](https://www.microsoft.com/diversity/)
--   [Accessibility](https://www.microsoft.com/accessibility)
--   [Security](https://www.microsoft.com/security/default.aspx)
-:::
-:::
-
-::: {.shell-footer-copyright ms.cmpnm="corp" ms.cmpgrp="corp links"}
--   [Sitemap](https://www.microsoft.com/en-us/sitemap1.aspx){#shellmenu_0
-    .ctl_footerNavLink}
--   [Contact
-    Microsoft](https://support.microsoft.com/contactus){#shellmenu_1
-    .ctl_footerNavLink}
--   [Privacy](https://go.microsoft.com/fwlink/?LinkId=521839){#shellmenu_2
-    .ctl_footerNavLink}
--   [Manage cookies](#){#shellmenu_2B .ctl_footerNavLink .hidden}
--   [Terms of
-    use](http://go.microsoft.com/fwlink/?LinkID=206977){#shellmenu_3
-    .ctl_footerNavLink}
--   [Trademarks](https://www.microsoft.com/trademarks){#shellmenu_4
-    .ctl_footerNavLink}
--   [Safety and
-    eco](https://www.microsoft.com/devices/safety-and-eco){#shellmenu_5
-    .ctl_footerNavLink}
--   [About our ads](https://choice.microsoft.com/){#shellmenu_6
-    .ctl_footerNavLink}
--   © []{#footerDate} Microsoft
-:::
-:::
-:::
-:::
