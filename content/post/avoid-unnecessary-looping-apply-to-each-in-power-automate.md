@@ -19,7 +19,7 @@ If we test the Flow and we can see there is only one object in the array
 so we can see the Apply to each loop is unnecessary as it does not need
 to loop through any other items.
 
-![LeonArmston_2-1615045186651.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261393i9D9FC94ABE2C0764/image-dimensions/774x735?v=v2 "LeonArmston_2-1615045186651.png")
+{{< image alt="LeonArmston_2-1615045186651.png" src="images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_2-1615045186651.png" >}}
 
 I always like to reduce the amount of actions and loops in Power
 Automate for speed and readability reasons.
@@ -37,7 +37,7 @@ delete the Apply to each loop from our Flow and then create a new
 Compose action where we will enter the following expression to access
 just the Title property of the list item without a loop.
 
-![LeonArmston_3-1615045186656.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261395i846C94EEFEC7F0F2/image-size/large?v=v2&px=999 "LeonArmston_3-1615045186656.png")
+{{< image alt="LeonArmston_3-1615045186656.png" src="images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_3-1615045186656.png" >}}
 
 In the image below I will describe the expression: in **blue** the
 first() expression is being used and within it is brackets () in **red**
@@ -50,7 +50,7 @@ to be changed. The first function brackets are then closed in **blue**.
 Then finally in **green** enter the internal name of the SP column you
 wish display in my case the Title column.
 
-![LeonArmston_4-1615045186663.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261396i47A7FBE6A970B24E/image-size/large?v=v2&px=999 "LeonArmston_4-1615045186663.png")
+{{< image alt="LeonArmston_4-1615045186663.png" src="images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_4-1615045186663.png" >}}
 
 The above expression could also be done with the following expression
 using **\[0\]** to access the first element of the array. However using
@@ -60,7 +60,7 @@ I will now test my Flow by running it and we can now see from the image
 below that it ran successfully and without a adding the Compose action
 to a Apply to each loop.
 
-![LeonArmston_5-1615045186665.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261394i2AE18D02BFBE7403/image-size/large?v=v2&px=999 "LeonArmston_5-1615045186665.png")
+{{< image alt="LeonArmston_5-1615045186665.png" src="images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_5-1615045186665.png" >}}
 
 ## Summary
 

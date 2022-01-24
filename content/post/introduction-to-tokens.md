@@ -56,7 +56,7 @@ you would not be able to access with an ID token.
 If you are still confused of the difference between **authentication**
 and **authorization**, [\@LuiseFreese](https://twitter.com/LuiseFreese)
 sums it up perfectly:
-![01ed60e47ba84e66b302a6ef0e9035d2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/271972i5C236DFE55530B38/image-size/large?v=v2&px=999 "01ed60e47ba84e66b302a6ef0e9035d2.png")
+{{< image alt="01ed60e47ba84e66b302a6ef0e9035d2.png" src="images/blog/introduction-to-tokens/01ed60e47ba84e66b302a6ef0e9035d2.png" >}}
 ![](file:////home/lford/code/personal/draft_posts/TokenIntroduction/01ed60e47ba84e66b302a6ef0e9035d2.png)
 
 > The term \"auth token\" is widely used can become misleading as it
@@ -95,7 +95,7 @@ end result is what we have above.
 
 Taking the sample above and putting in in to [jwt.ms](https://jwt.ms),
 it is possible to decode from \"base64url\" back to human-readable JSON.
-![e738e6ef6d6f41ab9e811c7d4e8d5371.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/271976iDCF6321B4E43B55B/image-size/large?v=v2&px=999 "e738e6ef6d6f41ab9e811c7d4e8d5371.png")
+{{< image alt="e738e6ef6d6f41ab9e811c7d4e8d5371.png" src="images/blog/introduction-to-tokens/e738e6ef6d6f41ab9e811c7d4e8d5371.png" >}}
 ![](file:////home/lford/code/personal/draft_posts/TokenIntroduction/e738e6ef6d6f41ab9e811c7d4e8d5371.png)
 
 You will now see a JWT is made up of 3 parts:
@@ -168,7 +168,7 @@ authentication, so the end-user is redirected to authenticate at the
 authorization server (I know, confusing). If successful, an ID token is
 returned and then validated by the application. If it passes validation,
 access is granted to the application.
-![openidconnect.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/271974i5D43CDF05BA48E56/image-size/large?v=v2&px=999 "openidconnect.png")
+{{< image alt="openidconnect.png" src="images/blog/introduction-to-tokens/openidconnect.png" >}}
 
 ## OAuth 2.0 auth code grant 
 
@@ -179,7 +179,7 @@ authorization code is returned. A second request is then made to the
 authorization server with the authorization code, but this time an
 access token is returned. With the access token, a protected API can
 then be accessed.
-![LeeFord_0-1641203766651.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/336940i762082DA785E3302/image-dimensions/778x354?v=v2 "LeeFord_0-1641203766651.png")
+{{< image alt="LeeFord_0-1641203766651.png" src="images/blog/introduction-to-tokens/LeeFord_0-1641203766651.png" >}}
 
 # Wrap up 
 

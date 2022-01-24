@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 14th of October, 2021
 
-![recording-14th-pnp-generic.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317567i1DD4F5F438C61431/image-size/large?v=v2&px=999 "recording-14th-pnp-generic.png")
+{{< image alt="recording-14th-pnp-generic.png" src="images/blog/microsoft-365-developer-community-call-recording-14th-of-october/recording-14th-pnp-generic.png" >}}
 
 **Call Summary**
 
@@ -118,7 +118,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -- Thank you :clapping_hands:
 **Together Mode!**
-![211014-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317568i775D4E41500C1810/image-size/large?v=v2&px=999 "211014-together-mode.gif")
+{{< image alt="211014-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-14th-of-october/211014-together-mode.gif" >}}
 Awesome to have you as part of this Community, please keep the feedback
 coming, see you again soon.      
 **Demos** delivered in this session

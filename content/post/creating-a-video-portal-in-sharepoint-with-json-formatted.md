@@ -8,7 +8,7 @@ increase. Recently I worked on an event page in SharePoint and thought
 it would be useful to have a video portal created for the event to store
 and display event session recordings.
  
-![AnandVRagav_1-1638227104052.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330169iC9172EA43405E0F0/image-size/large?v=v2&px=999 "AnandVRagav_1-1638227104052.png")
+{{< image alt="AnandVRagav_1-1638227104052.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_1-1638227104052.png" >}}
  
 In this post are the details of the document library and how to display
 that in the SharePoint site page.
@@ -18,10 +18,10 @@ that in the SharePoint site page.
 The document library exists at the same level as the default shared
 documents library on the site.
  
-![AnandVRagav_2-1638227193903.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330170i7EEA2C60D08DB131/image-size/large?v=v2&px=999 "AnandVRagav_2-1638227193903.png")
+{{< image alt="AnandVRagav_2-1638227193903.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_2-1638227193903.png" >}}
  
 Video files are uploaded to the document library.
-![AnandVRagav_3-1638227225340.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330171i2DE872C5CCE3CF23/image-size/large?v=v2&px=999 "AnandVRagav_3-1638227225340.png")
+{{< image alt="AnandVRagav_3-1638227225340.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_3-1638227225340.png" >}}
  
 Additional columns can be created in the library, these additional
 columns provide rich information that can be displayed in the video
@@ -29,12 +29,12 @@ portal. Rich metadata such as title, description, people, tools/topics
 covered, social sharing options like yammer, share and like buttons can
 compliment the video portal experience.
  
-![AnandVRagav_4-1638227250191.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330173iC3406B13B586CC67/image-size/large?v=v2&px=999 "AnandVRagav_4-1638227250191.png")
+{{< image alt="AnandVRagav_4-1638227250191.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_4-1638227250191.png" >}}
  
 When video files are uploaded and the metadata fields are filled in with
 the information, the default "All Documents" view can look like this.
  
-![AnandVRagav_5-1638227276106.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330174i85F222F44D75F28F/image-size/large?v=v2&px=999 "AnandVRagav_5-1638227276106.png")
+{{< image alt="AnandVRagav_5-1638227276106.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_5-1638227276106.png" >}}
  
 The default view or a new view can be created with all the columns
 included. The view can be formatted using JSON to get the card view in a
@@ -51,14 +51,14 @@ copy link, the thumbs-up button registers user likes in the "User"
 person column using the recently released setValue function in List
 formatting.
  
-![AnandVRagav_6-1638227301475.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330176i02A45C496BB2F315/image-size/large?v=v2&px=999 "AnandVRagav_6-1638227301475.png")
+{{< image alt="AnandVRagav_6-1638227301475.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_6-1638227301475.png" >}}
  
 To achieve this formatting, the view needs to be formatted using JSON.
  
-![AnandVRagav_7-1638227333192.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330177iEB00125F2AC01F07/image-size/large?v=v2&px=999 "AnandVRagav_7-1638227333192.png")
+{{< image alt="AnandVRagav_7-1638227333192.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_7-1638227333192.png" >}}
  
  
-![AnandVRagav_8-1638227355460.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330178iA5707D14319BFD2D/image-size/large?v=v2&px=999 "AnandVRagav_8-1638227355460.png")
+{{< image alt="AnandVRagav_8-1638227355460.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_8-1638227355460.png" >}}
  
 The complete JSON is provided below.
  
@@ -581,22 +581,22 @@ The complete JSON is provided below.
 The final step is then to embed this view in the SharePoint site page
 using the Document library web part.
  
-![AnandVRagav_9-1638227433322.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330179i2E20070B9775BDB8/image-size/large?v=v2&px=999 "AnandVRagav_9-1638227433322.png")
+{{< image alt="AnandVRagav_9-1638227433322.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_9-1638227433322.png" >}}
  
 And choosing the library to be embedded. "Session recordings" is the
 name of my library.
  
-![AnandVRagav_10-1638227461663.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330180i1EDF35B873C16B45/image-size/large?v=v2&px=999 "AnandVRagav_10-1638227461663.png")
+{{< image alt="AnandVRagav_10-1638227461663.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_10-1638227461663.png" >}}
  
 Editing the web part to set the correct view, hiding the command bar and
 "See all" buttons.
  
-![AnandVRagav_11-1638227490353.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330181iD54D35F0267FC392/image-size/large?v=v2&px=999 "AnandVRagav_11-1638227490353.png")
+{{< image alt="AnandVRagav_11-1638227490353.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_11-1638227490353.png" >}}
  
 The final result can look like this. Optionally a support list to filter
 down videos by topic or category can be added to enhance the experience.
  
-![AnandVRagav_12-1638227543478.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330182i5130DA536B4FC9B8/image-size/large?v=v2&px=999 "AnandVRagav_12-1638227543478.png")
+{{< image alt="AnandVRagav_12-1638227543478.png" src="images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_12-1638227543478.png" >}}
  
 Hope you found this useful. I would be interested to hear your thoughts
 and if you would use this and how you might enhance this.

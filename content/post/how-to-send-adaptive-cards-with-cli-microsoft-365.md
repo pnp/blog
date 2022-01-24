@@ -1,6 +1,6 @@
 # How to send Adaptive Cards with CLI Microsoft 365
 
-![yulia-matvienko-kgz9vsP5JCU-unsplash.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255537iE7E220C802294F64/image-size/large?v=v2&px=999 "yulia-matvienko-kgz9vsP5JCU-unsplash.jpg")
+{{< image alt="yulia-matvienko-kgz9vsP5JCU-unsplash.jpg" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg" >}}
 
 In this blog post I want to explain how you can send an Adaptive Card
 with CLI Microsoft 365. I will guide you from zero to hero :rocket:, so
@@ -77,7 +77,7 @@ m365 login
 In response you will be asked to open a web browser and login with a
 code. If you are using Visual Studio Code, you can click on the link,
 please copy the code upfront.
-![login.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255531iCE46A917703E8E72/image-size/large?v=v2&px=999 "login.png")
+{{< image alt="login.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/login.png" >}}
 
 After you pasted the code,
 
@@ -86,7 +86,7 @@ After you pasted the code,
 
 You will be seeing this message and can close this browser tab- we
 won\'t need it anymore.\
-![PnPmanagementShellOK.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255532iD2B4C761C74D27F1/image-dimensions/338x260?v=v2 "PnPmanagementShellOK.png")
+{{< image alt="PnPmanagementShellOK.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/PnPmanagementShellOK.png" >}}
 
 Yay! You successfully logged in! You don\'t believe that? Let\'s check
 with CLI Microsoft 365 and run this command to get your status:
@@ -99,7 +99,7 @@ m365 status
 
 and it will get your status for you:
 
-![status.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255533i203A2ADB780C3374/image-size/medium?v=v2&px=400 "status.png")
+{{< image alt="status.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/status.png" >}}
 \
 If you want some inspiration, what you could do now, run this command:
  
@@ -108,7 +108,7 @@ If you want some inspiration, what you could do now, run this command:
 m365 help
 ```
  
-![help.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255534i3AC5189FE02CAF7C/image-dimensions/339x356?v=v2 "help.png")
+{{< image alt="help.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/help.png" >}}
 
 which gives you a list of things you can try, these are called command
 groups, as each of them can contain several commands. When you now
@@ -160,7 +160,7 @@ Teams](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-conf
 the Adaptive Card to\
 \* Click **Connectors**\
 \* Search for \'webhook\'\
-![incoming-webhook.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255536iB8D608100CF495A5/image-size/large?v=v2&px=999 "incoming-webhook.png")
+{{< image alt="incoming-webhook.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/incoming-webhook.png" >}}
 
 \* Click **Add**\
 \* Click **Add** (yes, yet again)\

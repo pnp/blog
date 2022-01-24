@@ -1,6 +1,6 @@
 # Microsoft 365 Platform Call -- 18th of January, 2022
 
-![recording-18th-jan.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/340530i185AFAB5B684090B/image-size/large?v=v2&px=999 "recording-18th-jan.png")
+{{< image alt="recording-18th-jan.png" src="images/blog/microsoft-365-platform-call-18th-of-january-2022/recording-18th-jan.png" >}}
 Microsoft 365 Platform Community Call - weekly community call recording
 from January 18th, is now available from the Microsoft 365 Community
 YouTube channel
@@ -95,7 +95,7 @@ live at end of the call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![220118-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/340533iC429552BAB106962/image-size/large?v=v2&px=999 "220118-together-mode.gif")
+{{< image alt="220118-together-mode.gif" src="images/blog/microsoft-365-platform-call-18th-of-january-2022/220118-together-mode.gif" >}}
 Thank you everybody for joining the call today.   Brilliant to see many
 familiar faces week after week
 **Demos** delivered in this session

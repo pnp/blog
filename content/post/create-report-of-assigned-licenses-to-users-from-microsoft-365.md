@@ -91,7 +91,7 @@ Create new flow -> Select Recurrence -> Select month -> Create.
 ## Step 4 - Initialize variables in Power Automate
 We need 7 variables that will store multiple values and use them to
 generate reports.
-![Reports2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307476i4FACDC8F91B8BD27/image-size/large?v=v2&px=999 "Reports2.png")
+{{< image alt="Reports2.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports2.png" >}}
 Paste Tenant ID, Client Secret and Client ID which we had from the azure
 active directory.
 
@@ -108,7 +108,7 @@ store users' details in it.
 We will use "Get File Content" to get content from the existing excel
 file template and "Create File" to create a new file in the desire
 location in SharePoint.
-![Report4.1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307478i7D85F702817B137D/image-size/large?v=v2&px=999 "Report4.1.png")-align-inline image-alt="Report4.1.png" style="width: 625px;"}
+{{< image alt="Report4.1.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Report4.1.png" >}}-align-inline image-alt="Report4.1.png" style="width: 625px;"}
  
 ## Step 7 - Access Excel worksheet in Power Automate
 We will get worksheets from excel sheet using Excel Online connector in
@@ -116,7 +116,7 @@ Power automate.
 Get all sheets from excel file using "get Worksheet: connector.
 "Parse JSON" connector is used to access response from getting Worksheet
 connector.
-![Report5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307479i3AD06056E0A7A11A/image-size/large?v=v2&px=999 "Report5.png")
+{{< image alt="Report5.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Report5.png" >}}
 JSON Schema for Parse JSON should be the same as below.
  
  
@@ -177,7 +177,7 @@ Tenant: Add Reference of TenantId variable
 Client Id: Add Reference of Client ID Variable 
 Secret: Add Reference of Client Secret Variable
 Audience: Add Reference of AudienceURL variable
- ![reports7.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307481iA4B35E4BBDB00954/image-size/large?v=v2&px=999 "reports7.png")
+ {{< image alt="reports7.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/reports7.png" >}}
 
 Pass JSON schema in Parse JSON Connector.
  
@@ -274,12 +274,12 @@ We can get SKU ID from the response and we do filter from licenses array
 based on SKU IDs.
 "Filter Array" action is used to filter items from an existing array
 in power automate.
-![Reports9.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307483iA24E817AF223582D/image-size/large?v=v2&px=999 "Reports9.png")
+{{< image alt="Reports9.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports9.png" >}}
 
 ## Step 10
 
 Add a new row in the table is created excel file.
-![reports10.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307484iE67A4F58F7CB9125/image-size/large?v=v2&px=999 "reports10.png")
+{{< image alt="reports10.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/reports10.png" >}}
 Full Power automate will look like as below.
 ![Create report of assigned licenses for users from Microsoft
 36511.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307485i311E9D45D2B58D2E/image-size/large?v=v2&px=999 "Create report of assigned licenses for users from Microsoft 36511.gif")

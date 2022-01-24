@@ -76,7 +76,7 @@ this process, it does the following:
     add it
 -   Update the Markdown from the current page to the web part
  
-![doctor1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262436i33E323FC3FF26624/image-size/medium?v=v2&px=400 "doctor1.png")
+{{< image alt="doctor1.png" src="images/blog/doctor-maintain-your-documentation-on-sharepoint-without-pain/doctor1.png" >}}
  
 The process is straightforward but so powerful.
  
@@ -116,7 +116,7 @@ To make your start as easy as possible, I shared a sample repository for
 you to use: [doctor sample](https://github.com/estruyf/doctor-sample).
 Clone it, and get started.
  
-![doctor2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262437iB58E8761036D9481/image-size/medium?v=v2&px=400 "doctor2.png")
+{{< image alt="doctor2.png" src="images/blog/doctor-maintain-your-documentation-on-sharepoint-without-pain/doctor2.png" >}}
  
 ## What do you think? 
  

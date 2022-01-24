@@ -2,7 +2,7 @@
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from June 24, 2021.
-![sig-recording-24th-june.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/291163iD7EF52DE513D25EB/image-size/large?v=v2&px=999 "sig-recording-24th-june.png")
+{{< image alt="sig-recording-24th-june.png" src="images/blog/microsoft-365-developer-community-call-recording-24th-of-june/sig-recording-24th-june.png" >}}
  
 
 **Call Summary**
@@ -73,7 +73,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     Routing](https://github.com/pnp/teams-dev-samples/tree/main/samples/app-acs-calling) -
     Sathya Raveendran (Microsoft), Saikrishna Neeli & Arun Kumar
     Anaparthi** (Zen3 Infosolutions)
-![210624-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/291164i0C1B48C6A5D49F8C/image-size/large?v=v2&px=999 "210624-together-mode.gif")
+{{< image alt="210624-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-24th-of-june/210624-together-mode.gif" >}}
 Thank you for joining for today\'s PnP Community call.   It\'s a full
 house!   
 **Demos** delivered in this session

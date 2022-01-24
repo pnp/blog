@@ -72,7 +72,7 @@ page and click on the kind of data pack you would like to add. You must
 have the "Users" sample data pack first but then you can also add Mail
 and Events as well as SharePoint data.
 
-![SampleData.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/244536i8E7B7E0C91F50697?v=v2 "SampleData.png")
+{{< image alt="SampleData.png" src="images/blog/what-is-a-dev-tenant-and-why-would-you-want-one/SampleData.png" >}}
 
 By having these data packs, it can make testing various scenarios with
 your application significantly simpler as you can have up to twenty-five

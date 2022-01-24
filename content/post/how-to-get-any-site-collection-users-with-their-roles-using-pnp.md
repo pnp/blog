@@ -90,7 +90,7 @@ StartProcessing
 
 ## Output 
 
-![UserRolesOP.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/271876iD40126E615957C85/image-size/large?v=v2&px=999 "UserRolesOP.png")
+{{< image alt="UserRolesOP.png" src="images/blog/how-to-get-any-site-collection-users-with-their-roles-using-pnp/UserRolesOP.png" >}}
 
 ## Summary 
 

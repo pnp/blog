@@ -921,7 +921,7 @@ By
 
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Senior .Member}
-[![ViewPorter](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/117143i319B74EB2D84F78C/image-dimensions/150x150/image-coordinates/0%2C3%2C500%2C503?v=v2 "ViewPorter"){.lia-user-avatar-message
+{{< image alt="ViewPorter" src="images/blog/microsoft-identity-platform-community-call-july-2021/ViewPorter.png" >}}{.lia-user-avatar-message
 .user-rank-ring style=""
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/307713){.UserAvatar
 .lia-link-navigation}
@@ -968,7 +968,7 @@ PM]{.ba-published-date} [ 1,410 Views ]{.ba-view-count}
 ::: {.lia-message-author-avatar .lia-component-author-avatar .lia-component-message-view-widget-author-avatar}
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Senior .Member}
-[![ViewPorter](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/117143i319B74EB2D84F78C/image-dimensions/40x40/image-coordinates/0%2C3%2C500%2C503?v=v2 "ViewPorter"){.lia-user-avatar-message
+{{< image alt="ViewPorter" src="images/blog/microsoft-identity-platform-community-call-july-2021/ViewPorter.png" >}}{.lia-user-avatar-message
 .user-rank-ring style=""
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/307713){.UserAvatar
 .lia-link-navigation}
@@ -1087,7 +1087,7 @@ role="img"}
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
-[![SessionGraphic.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/297428iBFDECE82381A4869/image-size/large?v=v2&px=999 "SessionGraphic.png"){.lia-media-image
+{{< image alt="SessionGraphic.png" src="images/blog/microsoft-identity-platform-community-call-july-2021/SessionGraphic.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/297428iBFDECE82381A4869?v=v2"
 li-image-display-id="'297428iBFDECE82381A4869'"
@@ -1314,7 +1314,7 @@ role="heading"}
 ::: {.UserProfileSummary .lia-user-item .lia-js-data-userId-307713 .lia-user-info-group}
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Senior .Member}
-[![ViewPorter](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/117143i319B74EB2D84F78C/image-dimensions/40x40/image-coordinates/0%2C3%2C500%2C503?v=v2 "ViewPorter"){.lia-user-avatar-message
+{{< image alt="ViewPorter" src="images/blog/microsoft-identity-platform-community-call-july-2021/ViewPorter.png" >}}{.lia-user-avatar-message
 .user-rank-ring style=""
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/307713){.UserAvatar
 .lia-link-navigation}

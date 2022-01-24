@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 8th of July, 2021
 
-![8th-july-recording-m365dev.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/294987iEA7B29E76032F5CC/image-size/large?v=v2&px=999 "8th-july-recording-m365dev.png")
+{{< image alt="8th-july-recording-m365dev.png" src="images/blog/microsoft-365-developer-community-call-recording-8th-of-july/8th-july-recording-m365dev.png" >}}
 
 **Call Summary**
 
@@ -73,7 +73,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 -   **[ReporterPlus -- Teams Device Capabilities
     Application](https://github.com/pnp/teams-dev-samples/tree/main/samples/app-ReporterPlus)
     -** Sathya Raveendran (Microsoft) and Veera Venkata Sai Pothan Thota
-![PictureTimeGIF-8JUly2021-2Sec-30FPS.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/294517i719C16EFE5C2C85A/image-size/large?v=v2&px=999 "PictureTimeGIF-8JUly2021-2Sec-30FPS.gif")
+{{< image alt="PictureTimeGIF-8JUly2021-2Sec-30FPS.gif" src="images/blog/microsoft-365-developer-community-call-recording-8th-of-july/PictureTimeGIF-8JUly2021-2Sec-30FPS.gif" >}}
 Thank you for making time in your Summer time schedule to join us for
 today\'s PnP Community call.   You\'re awesome!   
 **Demos** delivered in this session

@@ -1,6 +1,6 @@
 # Adaptive Cards community call -- September 2021
 
-![900x506-AC-SeptemberThumb.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/315926i12399421D550C95C/image-size/large?v=v2&px=999 "900x506-AC-SeptemberThumb.png")
+{{< image alt="900x506-AC-SeptemberThumb.png" src="images/blog/adaptive-cards-community-call-september-2021/900x506-AC-SeptemberThumb.png" >}}
 
 The following topics are covered in this month's community call: 
 - **Microsoft Search and Adaptive Cards** (Intelligent search for the

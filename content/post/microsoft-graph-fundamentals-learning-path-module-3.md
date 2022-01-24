@@ -1126,7 +1126,7 @@ that:
 
  
 
-[![GraphFun-image.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270744i4C12AD71F67171FE/image-size/large?v=v2&px=999 "GraphFun-image.png"){.lia-media-image
+{{< image alt="GraphFun-image.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-3/GraphFun-image.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270744i4C12AD71F67171FE?v=v2"
 li-image-display-id="'270744i4C12AD71F67171FE'"
@@ -1166,7 +1166,7 @@ on to view their profile picture.
 
  
 
-[![get-pic.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270746i787F96FB4E3BC726/image-size/large?v=v2&px=999 "get-pic.png"){.lia-media-image
+{{< image alt="get-pic.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-3/get-pic.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270746i787F96FB4E3BC726?v=v2"
 li-image-display-id="'270746i787F96FB4E3BC726'"
@@ -1187,7 +1187,7 @@ browser with \`localhost:8080\`.
 \* Click the \`show profile picture\` button\
 \* see that profile pic? YAY - time for a happy dance- You made it!
 
-[![tropy.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270745iC675688B96927574/image-size/large?v=v2&px=999 "tropy.png"){.lia-media-image
+{{< image alt="tropy.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-3/tropy.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270745iC675688B96927574?v=v2"
 li-image-display-id="'270745iC675688B96927574'"

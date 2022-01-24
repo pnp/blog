@@ -23,20 +23,20 @@ Select New resource from home page.
 
 Search for Web App Bot.
 
-![SiddharthVaghasia_0-1630435722443.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307038i4CF3D764B5FCDC9E/image-dimensions/441x421?v=v2 "SiddharthVaghasia_0-1630435722443.png")
+{{< image alt="SiddharthVaghasia_0-1630435722443.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_0-1630435722443.png" >}}
 
 Click on Create and we shall see the below page. Enter below the
 required details.
 
-![SiddharthVaghasia_1-1630435722896.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307039i7504304BE9D6964E/image-dimensions/257x709?v=v2 "SiddharthVaghasia_1-1630435722896.png")
+{{< image alt="SiddharthVaghasia_1-1630435722896.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_1-1630435722896.png" >}}
 
 Once you click create, it will validate and start creating resources, we
 can see a message in the notification bar.
 
-![SiddharthVaghasia_2-1630435722887.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307040i1BC16106B773FDD9/image-dimensions/600x258?v=v2 "SiddharthVaghasia_2-1630435722887.png")
+{{< image alt="SiddharthVaghasia_2-1630435722887.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_2-1630435722887.png" >}}
 Once completed we should see the below message.
 
-![SiddharthVaghasia_3-1630435722444.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307041i6E135F6C1BB597B6/image-dimensions/625x239?v=v2 "SiddharthVaghasia_3-1630435722444.png")
+{{< image alt="SiddharthVaghasia_3-1630435722444.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_3-1630435722444.png" >}}
 
 ## Step - Enabling Bot for Calling
 
@@ -45,15 +45,15 @@ the below steps
 
 Go to the newly created Web App Bot Resource.
 
-![SiddharthVaghasia_4-1630435722736.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307042i29FCB7925BB3680F/image-dimensions/601x265?v=v2 "SiddharthVaghasia_4-1630435722736.png")
+{{< image alt="SiddharthVaghasia_4-1630435722736.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_4-1630435722736.png" >}}
 
 Select Channels from the left blade and then Teams(in the right blade).
-![SiddharthVaghasia_5-1630435722747.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307043i6318FFD44C5D943D/image-dimensions/595x498?v=v2 "SiddharthVaghasia_5-1630435722747.png")
+{{< image alt="SiddharthVaghasia_5-1630435722747.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_5-1630435722747.png" >}}
 
 Click on the Calling from the left blade and Enable the Calling
 checkbox.
 
-![SiddharthVaghasia_6-1630435722897.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307044iB1A1AFA126CB61B9/image-dimensions/691x402?v=v2 "SiddharthVaghasia_6-1630435722897.png")
+{{< image alt="SiddharthVaghasia_6-1630435722897.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_6-1630435722897.png" >}}
 
 Webhook (for calling) - We will need to enter a webhook URL (an API
 endpoint) which will be called when an event will occur in Teams meeting
@@ -84,7 +84,7 @@ yo teams
 It will ask you series of questions, you can select as per the below
 screenshot.
 
-![SiddharthVaghasia_7-1630435837476.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307046i67D08035796AEB48/image-dimensions/620x378?v=v2 "SiddharthVaghasia_7-1630435837476.png")
+{{< image alt="SiddharthVaghasia_7-1630435837476.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_7-1630435837476.png" >}}
 
 
 ## How to get Microsoft App ID
@@ -95,7 +95,7 @@ Resource(which we created in the previous step).
 Select configuration, and in the right blade you will find
 MicrosoftAppId in Application settings.
 
-![SiddharthVaghasia_8-1630435837628.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307045iB25BC93D9341B1B9/image-dimensions/630x278?v=v2 "SiddharthVaghasia_8-1630435837628.png")
+{{< image alt="SiddharthVaghasia_8-1630435837628.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_8-1630435837628.png" >}}
 
 Please make sure you select yes to the question \"Do you want to include
 bot calling support?\"
@@ -135,12 +135,12 @@ from left blade.
 
 We can see an App with our Bot name here.
 
-[![SiddharthVaghasia_9-1630435867496.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307047iBFCAFD7CE73F955F/image-dimensions/581x630?v=v2 "SiddharthVaghasia_9-1630435867496.png")
+{{< image alt="SiddharthVaghasia_9-1630435867496.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_9-1630435867496.png" >}}
 
 Click on this App, from the Left blade click on API Permission, and
 provide the below Application permissions.
 
-[![SiddharthVaghasia_10-1630435867800.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307048i3AAD938E9F35F53B/image-dimensions/638x340?v=v2 "SiddharthVaghasia_10-1630435867800.png")
+{{< image alt="SiddharthVaghasia_10-1630435867800.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_10-1630435867800.png" >}}
 
 We would be calling below GRAPH API document at
 <https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http>
@@ -153,7 +153,7 @@ From the left blade, click on Certificate and secrets, click on new
 click secret and note down this secret somewhere safely. We will use
 this later.
 
-[![SiddharthVaghasia_11-1630435867960.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307049i204C3751499012E4/image-dimensions/641x356?v=v2 "SiddharthVaghasia_11-1630435867960.png")
+{{< image alt="SiddharthVaghasia_11-1630435867960.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_11-1630435867960.png" >}}
 
 Also, note client Id and Tenant Id from the Overview tab.
 
@@ -263,19 +263,19 @@ The first thing Create variables of all the different dynamic values we
 have to pass. Initialize it with the default value from the above URL.
 Refer to the screenshot below.
 
-![SiddharthVaghasia_12-1630435910359.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307050iE9609FBA1662BE3D/image-dimensions/639x841?v=v2 "SiddharthVaghasia_12-1630435910359.png")
+{{< image alt="SiddharthVaghasia_12-1630435910359.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_12-1630435910359.png" >}}
 
 Add action HTTP and configure as below.
 
-![SiddharthVaghasia_13-1630435910363.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307051i9C70A14EAF1369B6/image-dimensions/651x571?v=v2 "SiddharthVaghasia_13-1630435910363.png")
+{{< image alt="SiddharthVaghasia_13-1630435910363.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_13-1630435910363.png" >}}
 
-![SiddharthVaghasia_14-1630435910364.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307052iC043DA8855AFF3B9/image-dimensions/663x615?v=v2 "SiddharthVaghasia_14-1630435910364.png")
+{{< image alt="SiddharthVaghasia_14-1630435910364.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_14-1630435910364.png" >}}
 
 Click on the Advanced option and select Active Directory OAuth. Here you
 have to add the client Id and client secret which we noted in the above
 steps from the Azure Ad App Registration screen.
 
-![SiddharthVaghasia_15-1630435910363.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307053i56A226EE6FE1A561/image-dimensions/679x353?v=v2 "SiddharthVaghasia_15-1630435910363.png")
+{{< image alt="SiddharthVaghasia_15-1630435910363.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_15-1630435910363.png" >}}
 
 ## Step - Using ngRok to Start the API End Point 
 
@@ -289,7 +289,7 @@ Once it runs successfully, it will create a temporary ngrok domain URL
 which we have to use in the Power Automate variable
 \"CallingAPIEndPointURL\".
 
-[![SiddharthVaghasia_16-1630435933837.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307054i4C8856749C996980/image-dimensions/702x255?v=v2 "SiddharthVaghasia_16-1630435933837.png")
+{{< image alt="SiddharthVaghasia_16-1630435933837.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_16-1630435933837.png" >}}
 
 ## Step - Add ngrok URL in Azure Web App Bot Calling Webhook URL 
 
@@ -297,7 +297,7 @@ As mentioned earlier we will also have to add this temporary URL(while
 we are in development) to Teams Channel in our Azure Bot. In the
 published version, this will be according to our app service URL.
 
-[![SiddharthVaghasia_17-1630435933853.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307055i4FD585D1B7EFAFE6/image-dimensions/785x463?v=v2 "SiddharthVaghasia_17-1630435933853.png")
+{{< image alt="SiddharthVaghasia_17-1630435933853.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_17-1630435933853.png" >}}
 
 ## Step - Let\'s test
 
@@ -312,7 +312,7 @@ is documented in the URL
 
 *[https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam\...](https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media)*
 
-[![SiddharthVaghasia_18-1630435934427.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307056i025B6D76CE24C9C8/image-dimensions/856x157?v=v2 "SiddharthVaghasia_18-1630435934427.png")
+{{< image alt="SiddharthVaghasia_18-1630435934427.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_18-1630435934427.png" >}}
 
 Below are some notes based on my experience.
 

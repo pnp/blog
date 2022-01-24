@@ -2,7 +2,7 @@
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from May 27, 2021.
-![sig-27th-may-recording.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/284499i1B8A4C37178FE4F3/image-size/large?v=v2&px=999 "sig-27th-may-recording.png")
+{{< image alt="sig-27th-may-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-27th-of-may/sig-27th-may-recording.png" >}}
  
 
 **Call Summary**
@@ -93,7 +93,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     tab**](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-context-viewer)
     **-** [Sébastien Levert](http://twitter.com/sebastienlevert) \|
     [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766)
-![PnPCall-May27th-ReducedResolution.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/284502iC49EE73AF5EAD2B4/image-size/large?v=v2&px=999 "PnPCall-May27th-ReducedResolution.gif")
+{{< image alt="PnPCall-May27th-ReducedResolution.gif" src="images/blog/microsoft-365-developer-community-call-recording-27th-of-may/PnPCall-May27th-ReducedResolution.gif" >}}
 Hello!  it's always great to see everyone on the call today.  Thanks for
 participating. 
 **Demos** delivered in this session

@@ -4,7 +4,7 @@ Recently I shared with the PnP community an event page I was working on
 and how I used SharePoint, Spaces and formatted Lists to design the user
 experience. In this post is explained the details of how the page, space
 and lists are made.\
-![AnandVRagav_0-1637611061380.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328742iB5FD2289EC3C5DAE/image-size/medium?v=v2&px=400 "AnandVRagav_0-1637611061380.png")
+{{< image alt="AnandVRagav_0-1637611061380.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_0-1637611061380.png" >}}
  
 I will break down the components first and then go into the details one
 by one.
@@ -32,36 +32,36 @@ in page properties. The copy gets added to the page library with url
 ending "..home1.aspx".
 For comparison see the amount of space saved below.
  
-![AnandVRagav_1-1637607933245.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328681i39E7EC3089604D0F/image-size/medium?v=v2&px=400 "AnandVRagav_1-1637607933245.png")
+{{< image alt="AnandVRagav_1-1637607933245.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_1-1637607933245.png" >}}
  
 
 For comparison see the amount of space saved below.
 ![With header, the image banner takes more
 space](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328683i8B4FE9727D8B79E9/image-size/medium?v=v2&px=400 "AnandVRagav_2-1637607984045.png")
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328685iD0A8BE0C8A9A2D95/image-size/medium?v=v2&px=400 "AnandVRagav_4-1637607984059.png")
+{{< image alt="" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_4-1637607984059.png" >}}
 For the page layout choose the vertical section. This puts a vertical
 section for the full length of the page on the right-hand-side.
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328687iD04F207F32C89E22/image-size/medium?v=v2&px=400 "AnandVRagav_6-1637608010041.png")
+{{< image alt="" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_6-1637608010041.png" >}}
 ## SharePoint Space
 Within the same SharePoint site, I activated
 Spaces. Spaces is a feature that needs to be activated at each site
 level. Do that from Site settings \> Manage Site features \> Spaces \>
 Activate.
 
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328689i4C415208E9D7F2C6/image-size/medium?v=v2&px=400 "AnandVRagav_8-1637608057361.png")
+{{< image alt="" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_8-1637608057361.png" >}}
 
 You can learn how to create Spaces from the [Microsoft support
 documentation](https://support.microsoft.com/en-us/office/create-a-sharepoint-space-77e0bb2a-625e-40a9-b38e-1ca84db6cf65 "Create a Space")
 [Below image snapshot shows the design of my Space and the web parts I
 used.]
  
-![AnandVRagav_9-1637608480549.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328690i74C59EE04E7F24F9/image-size/medium?v=v2&px=400 "AnandVRagav_9-1637608480549.png")
+{{< image alt="AnandVRagav_9-1637608480549.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_9-1637608480549.png" >}}
  
 [Now with the Space created, copy the URL to the Space and to add it to
 the event page (the headerless page) using the embed web part on the
 page.]
  
-![AnandVRagav_10-1637608513774.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328692iF5F35266F609EF2A/image-size/medium?v=v2&px=400 "AnandVRagav_10-1637608513774.png")
+{{< image alt="AnandVRagav_10-1637608513774.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_10-1637608513774.png" >}}
  
 [Paste the URL to the Space in the embed web part and save the page. If
 you want to customize the height and width properties of the embedded
@@ -78,7 +78,7 @@ positions of the web parts in the Space by checking how they are aligned
 once embedded on the event
 page.]
  
-![AnandVRagav_11-1637608636463.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328694i77FCA474C2C4BB5B/image-size/large?v=v2&px=999 "AnandVRagav_11-1637608636463.png")
+{{< image alt="AnandVRagav_11-1637608636463.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_11-1637608636463.png" >}}
  
 ## Events list
 
@@ -100,7 +100,7 @@ columns. The field labels for the columns were renamed later to suit the
 event
 needs.
  
-![AnandVRagav_0-1637608851038.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328696i45BAFF2078325A57/image-size/large?v=v2&px=999 "AnandVRagav_0-1637608851038.png")
+{{< image alt="AnandVRagav_0-1637608851038.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_0-1637608851038.png" >}}
 style="width: 999px;"}
  
 [If you are new to lists and want to learn how to work with lists and
@@ -114,7 +114,7 @@ you have a view to embed on the event page and another view in the
 backend for editing
 purposes.
  
-![AnandVRagav_1-1637608940183.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328699i185DBB63C8ECC432/image-size/medium?v=v2&px=400 "AnandVRagav_1-1637608940183.png")
+{{< image alt="AnandVRagav_1-1637608940183.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_1-1637608940183.png" >}}
  
 
 Let's look at the formatting, let us take them column by column starting
@@ -125,7 +125,7 @@ default share option for list items to allow users to share session
 links through email or copy the link to share through Teams or another
 channel.
 
-![AnandVRagav_0-1637611467410.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328746i0653B2914CF00F9A/image-size/medium?v=v2&px=400 "AnandVRagav_0-1637611467410.png")
+{{< image alt="AnandVRagav_0-1637611467410.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_0-1637611467410.png" >}}
 
 
 To get that format, use the below JSON code. Open the drown-down arrow
@@ -235,7 +235,7 @@ The About column is a multi-line text column and has the below
 formatting
 applied.
  
-![AnandVRagav_1-1637611523762.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328748i484DE4B931E17551/image-size/medium?v=v2&px=400 "AnandVRagav_1-1637611523762.png")
+{{< image alt="AnandVRagav_1-1637611523762.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_1-1637611523762.png" >}}
  
 ``` {.lia-code-sample .language-json}
 {
@@ -302,7 +302,7 @@ has the below
 formatting.
 
  
-![AnandVRagav_2-1637611559251.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328749i7F9C6ED4866DFDD4/image-size/medium?v=v2&px=400 "AnandVRagav_2-1637611559251.png")
+{{< image alt="AnandVRagav_2-1637611559251.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_2-1637611559251.png" >}}
  
  
 ``` {.lia-code-sample .language-json}
@@ -376,7 +376,7 @@ Hyperlink field. The "Add to calendar" element holds the URL to the
 event in the events
 list.]
  
-![AnandVRagav_3-1637611581623.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328750i267827F035E6B5DD/image-size/medium?v=v2&px=400 "AnandVRagav_3-1637611581623.png")
+{{< image alt="AnandVRagav_3-1637611581623.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_3-1637611581623.png" >}}
  
 ``` {.lia-code-sample .language-json}
 {
@@ -476,7 +476,7 @@ applied. The URLs stored in the Hyperlink fields are URLs to meetings
 created in Microsoft
 Teams
  
-![AnandVRagav_4-1637611605702.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328751iD3D5440423BE2D83/image-size/medium?v=v2&px=400 "AnandVRagav_4-1637611605702.png")
+{{< image alt="AnandVRagav_4-1637611605702.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_4-1637611605702.png" >}}
  
  
 ``` {.lia-code-sample .language-json}
@@ -567,7 +567,7 @@ The Session tracks column is a Single line text column with below
 formatting
 applied.
  
-![AnandVRagav_5-1637611630100.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328752i585C3A856DEBF324/image-size/medium?v=v2&px=400 "AnandVRagav_5-1637611630100.png")
+{{< image alt="AnandVRagav_5-1637611630100.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_5-1637611630100.png" >}}
  
  
 ``` {.lia-code-sample .language-js
@@ -725,7 +725,7 @@ Now that the formatting is done, the list is embedded on the event page.
 Select the view to be shown, hide the command bar and Apply. We will
 cover the Dynamic filtering in the next section.
  
-![AnandVRagav_2-1637609958440.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328711i09C7A91F24AC2684/image-size/large?v=v2&px=999 "AnandVRagav_2-1637609958440.png")
+{{< image alt="AnandVRagav_2-1637609958440.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_2-1637609958440.png" >}}
  
  
 ## Optional: a SharePoint list to store session tracks information
@@ -741,13 +741,13 @@ column, which is a multi-line text column.
 
 
 
-![AnandVRagav_3-1637610034852.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328713i65DB3A511377FA50/image-size/medium?v=v2&px=400 "AnandVRagav_3-1637610034852.png")
+{{< image alt="AnandVRagav_3-1637610034852.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_3-1637610034852.png" >}}
 
  
 I have used JSON formatting of the view on this list. Create a view for
 the list and apply the below JSON under "Format view"
  
-![AnandVRagav_6-1637610078483.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328719i4A555C26EAB520B4/image-size/medium?v=v2&px=400 "AnandVRagav_6-1637610078483.png")
+{{< image alt="AnandVRagav_6-1637610078483.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_6-1637610078483.png" >}}
  
 
 
@@ -842,7 +842,7 @@ Next, on the event page, embed the Tracks list on the right hand side
 column in line with the Sessions list web
 part.
  
-![AnandVRagav_7-1637610296235.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328722i4453FA6FE1056D4D/image-size/large?v=v2&px=999 "AnandVRagav_7-1637610296235.png")
+{{< image alt="AnandVRagav_7-1637610296235.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_7-1637610296235.png" >}}
  
 
 With the Tracks list now embedded, we can now look at the Dynamic
@@ -850,7 +850,7 @@ filtering of the Sessions list. Connect the two lists as show in the
 image illustration below and save the
 page.
  
-![AnandVRagav_8-1637610455816.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328726iA788A9571FDE0643/image-size/large?v=v2&px=999 "AnandVRagav_8-1637610455816.png")
+{{< image alt="AnandVRagav_8-1637610455816.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_8-1637610455816.png" >}}
 
  
 ## a SharePoint list to store people information
@@ -867,7 +867,7 @@ column.
  
 
 
-![AnandVRagav_9-1637610530919.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328728i468FB2E8DE33F6A8/image-size/medium?v=v2&px=400 "AnandVRagav_9-1637610530919.png")
+{{< image alt="AnandVRagav_9-1637610530919.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_9-1637610530919.png" >}}
  
 
 Create a view for the list and apply the below JSON under "Format
@@ -1018,21 +1018,21 @@ this it also lets the users hover/click on the people to get their
 office profile
 information.
  
-![AnandVRagav_0-1637610654153.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328732iBB0A960929145147/image-size/large?v=v2&px=999 "AnandVRagav_0-1637610654153.png")
+{{< image alt="AnandVRagav_0-1637610654153.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_0-1637610654153.png" >}}
  
 Other web parts in the vertical section on the right-hand-side.
 **Countdown timer:** In the vertical section I thought it would be
 useful to have the countdown timer web part with a countdown towards the
 event date.
  
-![AnandVRagav_6-1637611708366.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328753iC376C146AF3C0F88/image-size/medium?v=v2&px=400 "AnandVRagav_6-1637611708366.png")
+{{< image alt="AnandVRagav_6-1637611708366.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_6-1637611708366.png" >}}
  
 ## About web part
 
  I used the fourth list web part to show "what",
 "when", "where", "who" of the event.
  
-![AnandVRagav_1-1637610757197.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328734i3305938803C40BFA/image-size/medium?v=v2&px=400 "AnandVRagav_1-1637610757197.png")
+{{< image alt="AnandVRagav_1-1637610757197.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_1-1637610757197.png" >}}
  
 
 The list is view formatted with the below JSON

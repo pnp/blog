@@ -1,7 +1,7 @@
 # Microsoft 365 Platform Call -- 21st of September, 2021 
 
 
-![recording-21st-sep.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311918iD6C32AD918D32D29/image-size/large?v=v2&px=999 "recording-21st-sep.png")
+{{< image alt="recording-21st-sep.png" src="images/blog/microsoft-365-platform-call-21st-of-september-2021/recording-21st-sep.png" >}}
  
 
 Microsoft 365 Platform Community Call - weekly community call recording
@@ -74,7 +74,7 @@ takes place in chat throughout the call.
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![210921-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311919iBBAB56B51FFA584B/image-size/large?v=v2&px=999 "210921-together-mode.gif")
+{{< image alt="210921-together-mode.gif" src="images/blog/microsoft-365-platform-call-21st-of-september-2021/210921-together-mode.gif" >}}
 Together mode is back and the house is packed!   Great seeing
 everybody.   See you again soon.  
 **Program:**

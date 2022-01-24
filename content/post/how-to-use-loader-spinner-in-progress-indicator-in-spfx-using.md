@@ -232,7 +232,7 @@ export default class SpfxLoader extends React.Component<ISpfxLoaderProps, ISpfxL
  
 ## Output 
 
-![spfx-loader.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310204iE3B490BD5925D2B3/image-size/large?v=v2&px=999 "spfx-loader.gif")
+{{< image alt="spfx-loader.gif" src="images/blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/spfx-loader.gif" >}}
  
 
 Find the full source code

@@ -7,9 +7,9 @@ formatting that SharePoint can give you for free, but something truly
 outside of the box.
 
 Continue reading to learn how to turn this\....
-![Will_Holland_0-1615739594928.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263522iEC5B74C127A8A694/image-size/medium?v=v2&px=400 "Will_Holland_0-1615739594928.png")
+{{< image alt="Will_Holland_0-1615739594928.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_0-1615739594928.png" >}}
 ...into something like this...
-![Will_Holland_1-1615739594936.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263524i2FFAE4C67212CA97/image-size/medium?v=v2&px=400 "Will_Holland_1-1615739594936.png")
+{{< image alt="Will_Holland_1-1615739594936.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_1-1615739594936.png" >}}
 # What do you need to get started? 
 
 Thankfully, custom formatting isn't terribly complicated, although it
@@ -65,7 +65,7 @@ named "iconName" with a value of "Game". We're also defining the CSS
 styling we want to use, setting the font size and color to 'big and
 red'.
 This definition would turn any column in our list into the below.
-![Will_Holland_2-1615739594938.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263523iE3730F5845D1777B/image-size/small?v=v2&px=200 "Will_Holland_2-1615739594938.png")
+{{< image alt="Will_Holland_2-1615739594938.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_2-1615739594938.png" >}}
 
 Our definition only has one element being defined. If all we wanted to
 do was display the icon, then we're all set. But what if we also want to
@@ -105,7 +105,7 @@ With this, we've changed our root element to act as a container for two
 children. The first child is the same as the original example. The
 second child is another div that simply displays the string value of the
 column, resulting in the following:
-![Will_Holland_3-1615739594938.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263525iFC3E78A7A001955B/image-size/small?v=v2&px=200 "Will_Holland_3-1615739594938.png")
+{{< image alt="Will_Holland_3-1615739594938.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_3-1615739594938.png" >}}
 
 # Working with text 
 
@@ -147,7 +147,7 @@ Middle Earth we'll see the difference.
 Here's a before-and-after of what we get if we omit the property and
 when we include it...
 
-![Will_Holland_4-1615739594943.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263526i6A445ACFD7271F07/image-size/medium?v=v2&px=400 "Will_Holland_4-1615739594943.png")
+{{< image alt="Will_Holland_4-1615739594943.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_4-1615739594943.png" >}}
 
 It's a subtle but impactful difference.
 
@@ -187,7 +187,7 @@ is stored in the *title* property and the URL for their profile picture
 is stored in the "picture" property.
 We can use that knowledge (and some CSS) to turn the standard people
 picker into something with a little more flair.
-![Will_Holland_5-1615739594946.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263527i1E18F6FA171AC6B0/image-size/medium?v=v2&px=400 "Will_Holland_5-1615739594946.png")
+{{< image alt="Will_Holland_5-1615739594946.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_5-1615739594946.png" >}}
 Here's the JSON definition.
  
 
@@ -249,7 +249,7 @@ Dwarf, Human and Hobbit.
 We have a choice column to represent the valid options for our members
 but, rather than simply display the name of the race, let's see how we
 make the following transformation.
-![Will_Holland_6-1615739594947.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263529i0620BCC7C5A96B71/image-size/medium?v=v2&px=400 "Will_Holland_6-1615739594947.png")
+{{< image alt="Will_Holland_6-1615739594947.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_6-1615739594947.png" >}}
 
 Here's the definition:
  
@@ -290,7 +290,7 @@ screen was Gandalf. Watching him swinging a sword and staff around was
 really exciting, so we'll use him as our example.\
 \
 
-![Will_Holland_7-1615739594949.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263528i86CFABD54EB0A1DD/image-size/medium?v=v2&px=400 "Will_Holland_7-1615739594949.png")
+{{< image alt="Will_Holland_7-1615739594949.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_7-1615739594949.png" >}}
 Here's our definition.
  
 
@@ -341,7 +341,7 @@ In our example, the **Role** field is a simple text field used to
 describe what role the member had within the group, but rather than
 display that text we want to display a different Fabric icon depending
 on the role.
-![Will_Holland_8-1615739594955.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263530iAC975BD0E1C23A10/image-size/medium?v=v2&px=400 "Will_Holland_8-1615739594955.png")
+{{< image alt="Will_Holland_8-1615739594955.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_8-1615739594955.png" >}}
 And here's the definition.
  
 
@@ -387,7 +387,7 @@ For our final example, we'll look at the last column in our list:
 **From**.
 The **From** column is a lookup column that references list items in a
 *Middle Earth Locales* list.
-![Will_Holland_9-1615739594966.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263531i75A43FF3D8B85FE3/image-size/medium?v=v2&px=400 "Will_Holland_9-1615739594966.png")
+{{< image alt="Will_Holland_9-1615739594966.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_9-1615739594966.png" >}}
 And the definition\...
  
 
@@ -437,7 +437,7 @@ building blocks for creating amazing visuals and really spicing up the
 life of our list data, creating a great little breakdown of information
 related to members of the Fellowship with interesting visuals and
 colors.
-![Will_Holland_10-1615739594999.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263532iAEAE7EB1D200CF53/image-size/medium?v=v2&px=400 "Will_Holland_10-1615739594999.png")
+{{< image alt="Will_Holland_10-1615739594999.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_10-1615739594999.png" >}}
  
 
 Now that you've seen it all come together, time to get out there and

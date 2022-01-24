@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 20th of January, 2021
 
-![recording-20th-jan.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/341248i844F243EA594F8AC/image-size/large?v=v2&px=999 "recording-20th-jan.png")
+{{< image alt="recording-20th-jan.png" src="images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan.png" >}}
 **Call Summary**
 
 One location the Microsoft 365 tenant -- [script samples
@@ -132,7 +132,7 @@ Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-s
 aka.ms/script-samples/getting-started
 -- Many thanks!
 **Together Mode!**
-![220120-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/341254i73BAE1D5B4823A08/image-size/large?v=v2&px=999 "220120-together-mode.gif")
+{{< image alt="220120-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-20th-of-january/220120-together-mode.gif" >}}
 
 Thanks everyone for joining the call today.  You are an awesome
 community.   

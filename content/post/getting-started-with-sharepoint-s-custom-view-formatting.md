@@ -7,7 +7,7 @@ post](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-star
 the basic building blocks of custom *column* formatting were introduced
 to us. From that, we learned how to customize our columns to create some
 interesting visuals.
-![column-formatting-after.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265503iDD2CE6270C600285/image-size/large?v=v2&px=999 "column-formatting-after.png")
+{{< image alt="column-formatting-after.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-formatting-after.png" >}}
 
 Things look better, but each column is still a separate component. What
 if we want to tie them all together into a more cohesive presentation?
@@ -16,7 +16,7 @@ can also customize SharePoint list views! That will allow us to go from
 a traditional table/column/cell view, to something that looks \'put
 together\', like so\...
 
-![view-formatting-after.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265504i01A4705495E9AB8D/image-size/large?v=v2&px=999 "view-formatting-after.png")
+{{< image alt="view-formatting-after.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/view-formatting-after.png" >}}
 
 ## Preparing for your journey 
 
@@ -46,7 +46,7 @@ previous blog post will apply here as well.
 In case you weren\'t aware, views in a Modern SharePoint list come in a
 few flavors.
 
-![list-view-flavors.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265505i2FB8D27E3B32D6E2/image-size/large?v=v2&px=999 "list-view-flavors.png")
+{{< image alt="list-view-flavors.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/list-view-flavors.png" >}}
 
 Most of us are probably already very familiar with the *List* layout;
 It\'s what we\'ve been used to for decades. *Compact List* is the same
@@ -73,7 +73,7 @@ it will be to plan things out in advance. This is where some
 understanding of HTML will come in handy.
 To help guide myself, I created the following image to try and visualize
 how my various DIVs and other elements would be laid out.
-![blowout-witharrows.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265506i1AB526DE608F23FD/image-size/large?v=v2&px=999 "blowout-witharrows.png")
+{{< image alt="blowout-witharrows.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/blowout-witharrows.png" >}}
 This isn\'t necessary, obviously, but I personally find it helpful to
 have a blueprint in front of me (even if it\'s only a mental one).
 
@@ -178,7 +178,7 @@ the built-in variable `@currentField`, but what about when we\'re
 dealing with more than one view? `@currentField` is still there, but it
 holds a slightly different meaning in this context. It will always be a
 reference to the standard *Title* field.
-![LOTR-Meme.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265507i5D7B2F98147C10FA/image-size/large?v=v2&px=999 "LOTR-Meme.png")
+{{< image alt="LOTR-Meme.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/LOTR-Meme.png" >}}
 
 Instead of using `@currentField` to reference a column, we\'ll need to
 use a slightly different format: `[$InternalColumnName]`.
@@ -197,7 +197,7 @@ Alright. Enough with the lessons, it\'s time to get started.
 We can use the \"map\" we created earlier and turn it into a rough
 skeleton. Each layer in that blowout represent a parent/child
 relationship. So, by looking at our map\...
-![blowout-witharrows.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265509i4A380A393D351311/image-size/large?v=v2&px=999 "blowout-witharrows.png")
+{{< image alt="blowout-witharrows.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/blowout-witharrows.png" >}}
 
 We come up with this.
 ``` JSON
@@ -471,7 +471,7 @@ column formatting used on the *Role* field.
 ```
 
 At this point, we have something like the below image.
-![column-1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265510i28688EE98C7D0599/image-size/large?v=v2&px=999 "column-1.png")
+{{< image alt="column-1.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-1.png" >}}
 
 
 ## Second column 
@@ -536,7 +536,7 @@ The `justify-content` property, on the other hand, tells the browser to
 evenly distribute our rows across the available height.
 
 We\'re getting closer to our desired end result.
-![column-2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265511iD5CF257C4080D49B/image-size/large?v=v2&px=999 "column-2.png")
+{{< image alt="column-2.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-2.png" >}}
 
 
 
@@ -578,7 +578,7 @@ Weapon Icons. Let\'s take a look.
 ```
 
 There\'s nothing new to discuss here, but it does finish off our sample.
-![column-3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265512i2D4112ABC4D1B7FD/image-size/large?v=v2&px=999 "column-3.png")
+{{< image alt="column-3.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-3.png" >}}
 
 
 ## The Complete Schema 
@@ -724,7 +724,7 @@ There\'s nothing new to discuss here, but it does finish off our sample.
 
 Now that we\'ve got our view formatted, we\'re done, right? We could be,
 but the list view is off somehow\...
-![list-view-complete.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265513i7C2722D1D383D6DC/image-size/large?v=v2&px=999 "list-view-complete.png")
+{{< image alt="list-view-complete.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/list-view-complete.png" >}}
 Look at all that empty white space! Such a waste, but showing each item
 in a row is what the list view does. Sometimes, that may be exactly what
 you need in some cases but here\...we don\'t need it.
@@ -732,7 +732,7 @@ Instead, we can use the \"Gallery\" (or \"Tile)\" view, which will
 display our items in a grid view.
 We can copy the the schema we\'ve already defined, and change the
 selected layout from \"List\" to \"Gallery\"
-![format-options.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265514i1C0303367FF14475/image-size/large?v=v2&px=999 "format-options.png")
+{{< image alt="format-options.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/format-options.png" >}}
 After that, we can paste it in, but we\'ll need to modify things every
 so slightly, as the Gallery layout has some additional properties we
 need to specify. Let\'s look at the basic schema for a gallery view.
@@ -760,7 +760,7 @@ After that, we can simply copy the contents of the `rowFormatter`
 property in the list view example and paste them into the new
 `formatter` property.
 Doing that should get us to where we want to be.
-![final-product.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265515iDEB0C3BA37A107DD/image-size/large?v=v2&px=999 "final-product.png")
+{{< image alt="final-product.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/final-product.png" >}}
 
 ## Prologue 
 

@@ -99,7 +99,7 @@ Lets check what we have using bash
 m365
 ```
 
-[![2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337454i1C393698662A83BD/image-size/medium?v=v2&px=400 "2.png")
+{{< image alt="2.png" src="images/blog/cli-for-microsoft-365-on-your-mobile/2.png" >}}
 
 CLI for Microsoft 365 is up and running... Nice.
 
@@ -125,7 +125,7 @@ Now lets try any command. Lets check my sites on tenant running
 m365 spo site list
 ```
 
-[![1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337458i7923A82B6BFE3A51/image-size/medium?v=v2&px=400 "1.png")
+{{< image alt="1.png" src="images/blog/cli-for-microsoft-365-on-your-mobile/1.png" >}}
 
 Or lets check my ToDo tasks
 
@@ -133,7 +133,7 @@ Or lets check my ToDo tasks
 m365 todo task list --listName 'Test list
 ```
 
-[![7.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337459i266A7D661EC1CBB9/image-size/medium?v=v2&px=400 "7.png")
+{{< image alt="7.png" src="images/blog/cli-for-microsoft-365-on-your-mobile/7.png" >}}
 
 I think I may mark the \'Try to write something close to an article\' as
 done 🤩

@@ -1,6 +1,6 @@
 # Adaptive Cards community call -- March 2021
 
-![THumbnailTitleSlide.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/264629i3545CED59660866A/image-size/large?v=v2&px=999 "THumbnailTitleSlide.png")
+{{< image alt="THumbnailTitleSlide.png" src="images/blog/adaptive-cards-community-call-march-2021/THumbnailTitleSlide.png" >}}
 
 
 In this month\'s community call, there is

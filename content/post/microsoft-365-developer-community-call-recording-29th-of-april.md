@@ -2,7 +2,7 @@
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from April 29, 2021.
-![sig-29th-apr-recording.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/276964i1798D7CA378F1221/image-size/large?v=v2&px=999 "sig-29th-apr-recording.png")
+{{< image alt="sig-29th-apr-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-29th-of-april/sig-29th-apr-recording.png" >}}
  
 
 **Call Summary**
@@ -76,7 +76,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   Document manager sample app using messaging -- Sathya Raveendran,
     Varaprasa\...
-![210429-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/276965i63446C91AFD4CDE5/image-size/large?v=v2&px=999 "210429-together-mode.gif")
+{{< image alt="210429-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-29th-of-april/210429-together-mode.gif" >}}
 Thank you for being part of the community and for helping others to
 succeed.  You are awesome!
  

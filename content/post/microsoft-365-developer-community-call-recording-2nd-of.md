@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 2nd of September, 2021
 
-![recording-2nd-september-call.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307827i0A9519FAED72A7FD/image-size/large?v=v2&px=999 "recording-2nd-september-call.png")
+{{< image alt="recording-2nd-september-call.png" src="images/blog/microsoft-365-developer-community-call-recording-2nd-of/recording-2nd-september-call.png" >}}
 
 **Call Summary**
 

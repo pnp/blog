@@ -18,11 +18,11 @@ Select **Automated Cloud Flow**
  
 2\. It will ask for the flow name and trigger.
 Add flow name and choose a trigger **when an item is created.**
-![Step2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292212i6DF8F6472155188C/image-size/large?v=v2&px=999 "Step2.png")
+{{< image alt="Step2.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/Step2.png" >}}
 3\. Click on **Cerate.**
 4\. Now set Site name and list name in **when an item is created in
 list **action.
-![Step3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292214i5AB30F5C1C49D11A/image-size/large?v=v2&px=999 "Step3.png")
+{{< image alt="Step3.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/Step3.png" >}}
 **For all API Calling, we will use Send an HTTP request to SharePoint
 action.**
 5\. Now we will call REST API to break role inheritance.
@@ -41,7 +41,7 @@ Set all properties as below.
   ----------------------------------- ---------------------------------------------------------------------------------------------------------------------
  
 
-![step4.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292227i8C9921C9B0D18D38/image-size/large?v=v2&px=999 "step4.png")
+{{< image alt="step4.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/step4.png" >}}
  
 
 6\. Now we will set new permission so for that we need a **user id** to
@@ -62,12 +62,12 @@ user so for that we will call REST API.
   -------------------------- ------------------------
 **1. Create a variable and set User Title or if you have any list column
 then you can use it.**
-![Step5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292222i5370370A4009A343/image-size/large?v=v2&px=999 "Step5.png")
+{{< image alt="Step5.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/Step5.png" >}}
 **2. Call API to get a user ID and filter it by the above-declared user
 name.**
  
 
-![step6.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292226i598873A78C1E6EE4/image-size/large?v=v2&px=999 "step6.png")
+{{< image alt="step6.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/step6.png" >}}
 It will return an object as below,
  
 
@@ -96,9 +96,9 @@ below,
 outputs('Send_an_HTTP_request_to_SharePoint_-_Get_user_id')?['body']['d']['results']?[0]['Id']
 ```
 And we will set it in a variable called **UserId**.
-![step7.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292224iDC1FD79BBDC15EC3/image-size/large?v=v2&px=999 "step7.png")
+{{< image alt="step7.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/step7.png" >}}
 3\. Now we will set **contribute** permission for the above UserId.
-![step8.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292232iBB314DA08F4AEA46/image-size/large?v=v2&px=999 "step8.png")
+{{< image alt="step8.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/step8.png" >}}
  
 
 Now we can test the flow.
@@ -106,7 +106,7 @@ Now we can test the flow.
 ## Output
 
 We can see contribute permission for an item as below,
-![OP.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292234i326F4E2B28377AAE/image-size/large?v=v2&px=999 "OP.png")-align-center image-alt="OP.png" style="width: 999px;"}
+{{< image alt="OP.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/OP.png" >}}-align-center image-alt="OP.png" style="width: 999px;"}
  
 
 ## Summary 

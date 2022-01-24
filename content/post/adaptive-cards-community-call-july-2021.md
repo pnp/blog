@@ -1,6 +1,6 @@
 # Adaptive Cards Community Call - July 2021
 
-![ThumbnailAC-July2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/294748i57BDA6289E1D33B9/image-size/large?v=v2&px=999 "ThumbnailAC-July2021.png")
+{{< image alt="ThumbnailAC-July2021.png" src="images/blog/adaptive-cards-community-call-july-2021/ThumbnailAC-July2021.png" >}}
 
 Covered off in this month's "conversational" community call:
 

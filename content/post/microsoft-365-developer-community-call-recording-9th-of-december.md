@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 9th of December, 2021
 
-![recording-9th-december.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333060i467C6A3F4C2DFAD1/image-size/large?v=v2&px=999 "recording-9th-december.png")
+{{< image alt="recording-9th-december.png" src="images/blog/microsoft-365-developer-community-call-recording-9th-of-december/recording-9th-december.png" >}}
 **Call Summary**
 
 Why not visit the Microsoft 365 tenant -- [script samples
@@ -95,7 +95,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -- Many thanks!
 **Together Mode!**
-![211209-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333061i3200473A356041AD/image-size/large?v=v2&px=999 "211209-together-mode.gif"){.lia-media-image
+{{< image alt="211209-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-9th-of-december/211209-together-mode.gif" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333061i3200473A356041AD?v=v2"
 li-image-display-id="'333061i3200473A356041AD'"

@@ -1,7 +1,7 @@
 
 # Microsoft 365 Developer Community Call recording -- 30th of September, 2021
 
-![recording-30th-september.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/314091i9B1F138ED62A37CD/image-size/large?v=v2&px=999 "recording-30th-september.png")
+{{< image alt="recording-30th-september.png" src="images/blog/microsoft-365-developer-community-call-recording-30th-of/recording-30th-september.png" >}}
  
 
 **Call Summary**
@@ -129,7 +129,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
     [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \|
     [\@ValerasNarbutas](/t5/user/viewprofilepage/user-id/142422)
 **Together Mode!**
-![210930-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/314092i797EC37B1B9881AE/image-size/large?v=v2&px=999 "210930-together-mode.gif")
+{{< image alt="210930-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-30th-of/210930-together-mode.gif" >}}
 
 A fully packed room!  Waiting on the beginning of a new year where we
 will be able to get together in person again.      

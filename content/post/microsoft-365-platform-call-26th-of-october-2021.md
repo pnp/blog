@@ -1,6 +1,6 @@
 # Microsoft 365 Platform Call -- 26th of October, 2021
 
-![recording-26th-oct.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/320245i8851E52302831334/image-size/large?v=v2&px=999 "recording-26th-oct.png")
+{{< image alt="recording-26th-oct.png" src="images/blog/microsoft-365-platform-call-26th-of-october-2021/recording-26th-oct.png" >}}
 Microsoft 365 Platform Community Call - weekly community call recording
 from October 26th, is now available from the Microsoft 365 Community
 YouTube channel
@@ -99,7 +99,7 @@ call   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211026-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/320235i51C1BC54E1B2DC9C/image-size/large?v=v2&px=999 "211026-together-mode.gif")
+{{< image alt="211026-together-mode.gif" src="images/blog/microsoft-365-platform-call-26th-of-october-2021/211026-together-mode.gif" >}}
 
 Thank you everybody for being part of the call today.   Join us next
 Tuesday at this same time for a Microsoft Ignite 2021 watch party.     

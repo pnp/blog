@@ -65,14 +65,14 @@ of the Power Apps license.  
 ## Here is how you do it
 Log into your dev tenant and go to the Admin center. Click on
 the **waffle menu** in the upper left corner and click on **Admin.** 
-![Gezeitenbrand42_10-1614283053396.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258070i4789B9E7A641E5DF/image-size/medium?v=v2&px=400 "Gezeitenbrand42_10-1614283053396.png")
+{{< image alt="Gezeitenbrand42_10-1614283053396.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_10-1614283053396.png" >}}
  
  
 
 Next, click on **Purchase services**. 
 
 
-![Gezeitenbrand42_11-1614283053399.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258071iF35EA04D9B7BB3B1/image-size/medium?v=v2&px=400 "Gezeitenbrand42_11-1614283053399.png")
+{{< image alt="Gezeitenbrand42_11-1614283053399.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_11-1614283053399.png" >}}
  
  
 In the category Business apps you find all the Power Platform plans. In
@@ -81,7 +81,7 @@ also go for the Power Automate per user plan (it's way cheaper and you
 have very similar possibilities. Remember, you just want to create
 different environments and you can do that with both plans. Then click
 on **Details** to see, what's included. 
-![Gezeitenbrand42_12-1614283053411.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258072i8BCA9B7FF04C188A/image-size/medium?v=v2&px=400 "Gezeitenbrand42_12-1614283053411.png")
+{{< image alt="Gezeitenbrand42_12-1614283053411.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_12-1614283053411.png" >}}
  
  
  
@@ -90,26 +90,26 @@ apps** to see every detail. If you're happy with it click
 on **Purchase**. 
  
 Now Now
-![Gezeitenbrand42_13-1614283053413.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258078iEF9CD9DA000CDECC/image-size/medium?v=v2&px=400 "Gezeitenbrand42_13-1614283053413.png")
+{{< image alt="Gezeitenbrand42_13-1614283053413.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_13-1614283053413.png" >}}
  
  
 Now you're almost done. You already are at the Checkout. Fill in
 your postal address and your billing information. After that click
 on **Place order**. 
  
-![Gezeitenbrand42_14-1614283053403.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258077i6B06A5523CEC4319/image-size/medium?v=v2&px=400 "Gezeitenbrand42_14-1614283053403.png")
+{{< image alt="Gezeitenbrand42_14-1614283053403.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_14-1614283053403.png" >}}
  
  
 After a few minutes you will get your confirmation mail.  
-![Gezeitenbrand42_15-1614283053406.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258079iA8EEAE1C703AFF72/image-size/medium?v=v2&px=400 "Gezeitenbrand42_15-1614283053406.png")
+{{< image alt="Gezeitenbrand42_15-1614283053406.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_15-1614283053406.png" >}}
  
  
 If you click on **Get started** you will be transferred to the Your
 products section of the Admin center. Click on **Assign licenses**. 
-![Gezeitenbrand42_16-1614283053415.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258084i6FAEEF9B7CBC9FB0/image-size/medium?v=v2&px=400 "Gezeitenbrand42_16-1614283053415.png")
+{{< image alt="Gezeitenbrand42_16-1614283053415.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_16-1614283053415.png" >}}
  
  
-![Gezeitenbrand42_17-1614283053416.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258085i44FEA54BB42AFC8D/image-size/medium?v=v2&px=400 "Gezeitenbrand42_17-1614283053416.png")
+{{< image alt="Gezeitenbrand42_17-1614283053416.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_17-1614283053416.png" >}}
  
  
 For whatever reasons, you have to click on Assign licenses once again.  
@@ -117,11 +117,11 @@ After that you can type in a name and click on the chevron icon next to
 Turn apps and services on or off. Check all the apps and services you
 want to assign, then finish the process by clicking on Assign again, on
 the bottom of the page. 
-![Gezeitenbrand42_18-1614283053408.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258083i0D47FD018B5DDB99/image-size/medium?v=v2&px=400 "Gezeitenbrand42_18-1614283053408.png")
+{{< image alt="Gezeitenbrand42_18-1614283053408.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_18-1614283053408.png" >}}
  
  
 BOOM, there you go.  
-![Gezeitenbrand42_19-1614283053409.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258088i5995FB523BAD8AA8/image-size/medium?v=v2&px=400 "Gezeitenbrand42_19-1614283053409.png")
+{{< image alt="Gezeitenbrand42_19-1614283053409.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_19-1614283053409.png" >}}
  
  
 As described in my previous post [*How to enhance your "dev tenant" to

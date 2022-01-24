@@ -2,7 +2,7 @@
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from March 18, 2021.
-![sig-18th-march-recording.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265409i19B77809C75ECB40/image-size/large?v=v2&px=999 "sig-18th-march-recording.png")
+{{< image alt="sig-18th-march-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-18th-of-march/sig-18th-march-recording.png" >}}
  
 
 **Call Summary**
@@ -71,7 +71,7 @@ call.
     Erişen.  Supporting Article - [Securely connect to Microsoft Graph
     from Teams tabs using
     SSO](https://blog.mastykarz.nl/securely-connect-microsoft-graph-teams-tabs-sso/)
-![CmtyPhoto.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265410iA71EC267ECD63E55/image-size/large?v=v2&px=999 "CmtyPhoto.png")
+{{< image alt="CmtyPhoto.png" src="images/blog/microsoft-365-developer-community-call-recording-18th-of-march/CmtyPhoto.png" >}}
 **\"Hello Community\"     **
 **Demos** delivered in this session
 

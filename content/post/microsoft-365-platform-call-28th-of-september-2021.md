@@ -1,6 +1,6 @@
 # Microsoft 365 Platform Call -- 28th of September, 2021
 
-![recording-28th-sep.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/313520iDEBFD3D35703C031/image-size/large?v=v2&px=999 "recording-28th-sep.png")
+{{< image alt="recording-28th-sep.png" src="images/blog/microsoft-365-platform-call-28th-of-september-2021/recording-28th-sep.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from September 28th, is now available from the Microsoft 365 Community
@@ -74,7 +74,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| \@vesajuvonen.
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![210928-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/313457iE8F55C249297C14A/image-size/large?v=v2&px=999 "210928-together-mode.gif")
+{{< image alt="210928-together-mode.gif" src="images/blog/microsoft-365-platform-call-28th-of-september-2021/210928-together-mode.gif" >}}
 
 Seated outdoors and waving in the Fall season.  It's awesome having you
 as a member of this community.    

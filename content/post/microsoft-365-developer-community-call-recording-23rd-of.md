@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 23rd of December, 2021
 
-![recording-23rd-dec.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/335799i1EE9A224831B4A05/image-size/large?v=v2&px=999 "recording-23rd-dec.png")
+{{< image alt="recording-23rd-dec.png" src="images/blog/microsoft-365-developer-community-call-recording-23rd-of/recording-23rd-dec.png" >}}
 **Call Summary**
 
 It's the perfect time to visit the Microsoft 365 tenant -- [script
@@ -119,7 +119,7 @@ Samples: **([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 -   [Paul Bullock](http://twitter.com/pkbullock) \| \@pkbullock
 -- Many thanks!
 **Together Mode!**
-![PnP-Calls-TogetherMode-700W.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/335802i69F6B98DECE81A17/image-size/large?v=v2&px=999 "PnP-Calls-TogetherMode-700W.gif")
+{{< image alt="PnP-Calls-TogetherMode-700W.gif" src="images/blog/microsoft-365-developer-community-call-recording-23rd-of/PnP-Calls-TogetherMode-700W.gif" >}}
 [Together here during the holiday\'s because - why not?  Great seeing
 everyone today.  Happy holidays and new year to you and family. 
  ]

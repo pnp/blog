@@ -1083,7 +1083,7 @@ alt="Message contains a video" aria-label="Contains a video" role="img"}
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
-**[![TitleSlide.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265195iDEE5BA7439E57E88/image-size/large?v=v2&px=999 "TitleSlide.png"){.lia-media-image
+**{{< image alt="TitleSlide.png" src="images/blog/microsoft-teams-community-call-march-2021/TitleSlide.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265195iDEE5BA7439E57E88?v=v2"
 li-image-display-id="'265195iDEE5BA7439E57E88'"
@@ -1116,7 +1116,7 @@ or viewing on demand. 
 
  
 
-[![Jun_Pak_0-1616095092787.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265348iF7A4FF8CE8D50B14/image-size/medium?v=v2&px=400 "Jun_Pak_0-1616095092787.gif"){.lia-media-image
+{{< image alt="Jun_Pak_0-1616095092787.gif" src="images/blog/microsoft-teams-community-call-march-2021/Jun_Pak_0-1616095092787.gif" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265348iF7A4FF8CE8D50B14?v=v2"
 li-image-display-id="'265348iF7A4FF8CE8D50B14'"

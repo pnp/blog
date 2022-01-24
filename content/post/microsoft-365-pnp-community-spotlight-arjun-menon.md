@@ -1080,7 +1080,7 @@ role="img"}
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
-[[![Arjun.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280855i50A8EDC8EF23A55D/image-size/large?v=v2&px=999 "Arjun.jpg"){.lia-media-image
+[{{< image alt="Arjun.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-arjun-menon/Arjun.jpg" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280855i50A8EDC8EF23A55D?v=v2"
 li-image-display-id="'280855i50A8EDC8EF23A55D'"

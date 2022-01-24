@@ -67,7 +67,7 @@ router to reach the actual Internet. The firewall allows outgoing
 requests to servers on the Internet but blocks all incoming requests.
 This is largely a security measure, but it has other advantages as well.
 
-![ngrok-without-ngrok-2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280649i3FA96F5C6738587F/image-size/medium?v=v2&px=400 "ngrok-without-ngrok-2.png")
+{{< image alt="ngrok-without-ngrok-2.png" src="images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-without-ngrok-2.png" >}}
 A typical web developer runs some kind of web server on their local
 computer. They can access that web server using the
 hostname `localhost`, which routes messages through a \"loopback\"
@@ -88,7 +88,7 @@ and into your locally running copy of the ngrok application. The ngrok
 application calls the local server, allowing the developer to run and
 debug the web server locally.
 
-![ngrok-with-ngrok.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280650i239B3FDE8859CD96/image-size/medium?v=v2&px=400 "ngrok-with-ngrok.png")
+{{< image alt="ngrok-with-ngrok.png" src="images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-with-ngrok.png" >}}
 In the case of Teams development, tabs and task modules only require a
 local loopback connection, whereas bots and messaging extensions have to
 handle incoming requests from the Internet. Each is explained in more
@@ -106,7 +106,7 @@ You will then see a screen like this:
 ::: {#tinyMceEditorBob German_2 .mceNonEditable .lia-copypaste-placeholder}
  
 :::
-![ngrok-screenshot.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280651iF6EDF6ADA709D5F7/image-size/large?v=v2&px=999 "ngrok-screenshot.png")
+{{< image alt="ngrok-screenshot.png" src="images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-screenshot.png" >}}
 The \"Forwarding\" lines show what\'s happening. Requests arriving at
 http://(something).ngrok.io or https://(something).ngrok.io will be
 forwarded to [http://localhost:3978](http://localhost:3978/) where your
@@ -169,7 +169,7 @@ be very helpful in debugging.
 ::: {#tinyMceEditorBob German_3 .mceNonEditable .lia-copypaste-placeholder}
  
 :::
-![ngrok-trace.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280652i0893B21FD8BCBEB1/image-size/large?v=v2&px=999 "ngrok-trace.png")
+{{< image alt="ngrok-trace.png" src="images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-trace.png" >}}
 
 ## Developing Tabs and Web-Page based Teams features 
 Some Teams application features are based on web pages provided by your
@@ -183,7 +183,7 @@ Active Directory Single Sign-On (SSO) option also need to implement a
 web service to do a token exchange. Accessing these via `localhost` is
 no problem; no tunnel is required.
 
-![ngrok-without-ngrok-sso.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280657iDEB744F06E02E7BF/image-size/medium?v=v2&px=400 "ngrok-without-ngrok-sso.png")
+{{< image alt="ngrok-without-ngrok-sso.png" src="images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-without-ngrok-sso.png" >}}
 [However Teams does require the web server to use a trusted https
 connection or it won\'t display. ngrok translates trusted https requests
 into local http requests, so it just works. But if you\'d rather not
@@ -239,7 +239,7 @@ and phone 2 is connected locally.
 ::: {#tinyMceEditorBob German_5 .mceNonEditable .lia-copypaste-placeholder}
  
 :::
-![ngrok-mobile-device.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280654i1AE51E8511B8A5A6/image-size/medium?v=v2&px=400 "ngrok-mobile-device.png")
+{{< image alt="ngrok-mobile-device.png" src="images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-mobile-device.png" >}}
 [To set up local access you\'ll need a server name other
 than][ ]`localhost`[,
 and you\'ll need to open a path on the local network from your phone to
@@ -279,7 +279,7 @@ All of these are implemented as REST services and could be built with
 any tool chain, but the requests will come from the cloud, so you need
 to have a port listening on the Internet to receive those requests.
 
-![ngrok-bot.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280655i86D8A65A92A15B6D/image-size/medium?v=v2&px=400 "ngrok-bot.png")
+{{< image alt="ngrok-bot.png" src="images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-bot.png" >}}
 [For this reason there\'s currently no local debugging option in
 Microsoft Teams that doesn\'t involve opening a port on the Internet or
 using some sort of tunnel, ngrok or otherwise. The same is true

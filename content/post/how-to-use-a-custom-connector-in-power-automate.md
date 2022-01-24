@@ -18,7 +18,7 @@ tweets about the music I currently listen to on Spotify.\
 The result will look like this:
 
 \
-![tweet.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285095iE5153863004A53A2/image-size/medium?v=v2&px=400 "tweet.png")
+{{< image alt="tweet.png" src="images/blog/how-to-use-a-custom-connector-in-power-automate/tweet.png" >}}
 
 ##  What we need 
 

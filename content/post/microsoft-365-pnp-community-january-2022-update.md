@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Community -- January 2022 update
 
-![pnp-january-2022-update.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/340087i1E450AFE15E121E3/image-size/large?v=v2&px=999 "pnp-january-2022-update.png")
+{{< image alt="pnp-january-2022-update.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/pnp-january-2022-update.png" >}}
 
 Microsoft 365 Community (PnP) January 2021 update is out with a summary
 of the latest guidance, samples, and solutions from Microsoft or from
@@ -295,7 +295,7 @@ specific tool policies.
 Please see the specifics on the supportability on the tool, SDK or 
 component repository or download page.
 ## Microsoft 365 PnP team model 
-![pnp-community-model.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261738iE62C2523C7D5399F/image-size/large?v=v2&px=999 "pnp-community-model.png")
+{{< image alt="pnp-community-model.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/pnp-community-model.png" >}}
 
 In April 2020 we announced our new [Microsoft 365 PnP team
 model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
@@ -357,7 +357,7 @@ more.
 
 ## Microsoft 365 PnP Recognition Program   
 
-![VesaJuvonen_0-1629736432373.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/305133i375E2A57C937F149/image-size/large?v=v2&px=999 "VesaJuvonen_0-1629736432373.png")
+{{< image alt="VesaJuvonen_0-1629736432373.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/VesaJuvonen_0-1629736432373.png" >}}
 We are excited to announce new community contributor program for all the
 active community members. Through this program you can get officially
 acknowledged with the a [Credly
@@ -375,7 +375,7 @@ engineering organizations, some are coordinated by the community and
 MVPs.
 ### Microsoft Graph Toolkit 
 
-![graph-toolkit.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261739iA57BB73461170C2E/image-size/large?v=v2&px=999 "graph-toolkit.jpg")
+{{< image alt="graph-toolkit.jpg" src="images/blog/microsoft-365-pnp-community-january-2022-update/graph-toolkit.jpg" >}}
 Microsoft Graph Toolkit is engineering lead initiative, which works
 closely with the community on the open-source areas. The Microsoft Graph
 Toolkit is a collection of reusable, framework-agnostic web components
@@ -397,7 +397,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented
 in our bi-weekly Microsoft 365 Generic Dev community call, including the
 latest community contributors.
 ### Microsoft 365 Community docs 
-![community-dcos.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369/image-size/large?v=v2&px=999 "community-dcos.png"){.lia-media-image
+{{< image alt="community-dcos.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/community-dcos.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369?v=v2"
 li-image-display-id="'261740i45A51B070D635369'"
@@ -428,7 +428,7 @@ detailed.
     list](https://github.com/MicrosoftDocs/microsoft-365-community/issues) with
     articles ideas
 ### SharePoint Framework development samples 
-![spfx-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261742i96F265E42A76DB51/image-size/large?v=v2&px=999 "spfx-gallery.png")
+{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/spfx-gallery.png" >}}
 
 These are the updated SharePoint Framework samples which are available
 from the different repositories.
@@ -469,7 +469,7 @@ solutions which work in Microsoft Teams
 -   Microsoft Teams samples build with SharePoint Framework -
     <https://github.com/pnp/spfx-teams> - These will be relocated soon
 ### Microsoft Teams community samples 
-![teams-samples-promo.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261745i9E77F4A84CE0145E/image-size/large?v=v2&px=999 "teams-samples-promo.jpg")
+{{< image alt="teams-samples-promo.jpg" src="images/blog/microsoft-365-pnp-community-january-2022-update/teams-samples-promo.jpg" >}}
 
 These are samples which have been contributed on the community samples
 since last summary. We do welcome all Microsoft Teams samples to this
@@ -484,7 +484,7 @@ Teams app
 templates](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates)
 and community samples.
 ### Power Platform samples 
-![power-platform-samples.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279633i788F8D894CE8B615/image-size/large?v=v2&px=999 "power-platform-samples.png")
+{{< image alt="power-platform-samples.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/power-platform-samples.png" >}}
 -   New PowerFX sample
     [table-functions](https://github.com/pnp/powerfx-samples/tree/main/samples/table-functions)
     by [Bartolomeo Sorrentino](https://twitter.com/bsorrentinoJ)
@@ -514,7 +514,7 @@ get started on getting more closely involved on this initiative. Here to
 help.
 ### Microsoft 365 Script Samples 
 
-![script-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287810i07695D4C2B844F3E/image-size/large?v=v2&px=999 "script-gallery.png")
+{{< image alt="script-gallery.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/script-gallery.png" >}}
 
 
 We have released new Microsoft 365 Script Sample gallery within past
@@ -580,7 +580,7 @@ others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. 
 -   Microsoft 365 Script Samples - <https://aka.ms/script-samples>
 **Independent Connectors Program**
-![independent-connectors.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328860iFE46C726CEBB7F49/image-size/large?v=v2&px=999 "independent-connectors.png")
+{{< image alt="independent-connectors.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/independent-connectors.png" >}}
 Microsoft Power Platform comes with a huge variety of already built-in
 connectors and also provides you with the ability of creating your own
 custom connectors. As of July 2021, anyone can submit the connectors
@@ -725,7 +725,7 @@ These are the latest connectors: 
     Choi](https://www.linkedin.com/in/woongchoi/) (Seven Sigma)
 ### Sharing is Caring initiative 
 
-![sharing-is-caring-promo-1024x576.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261747i39E00EA5029AD282/image-size/large?v=v2&px=999 "sharing-is-caring-promo-1024x576.png")
+{{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/sharing-is-caring-promo-1024x576.png" >}}
 The \"Sharing Is Caring\" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
@@ -1166,7 +1166,7 @@ their logos and approval to show them in time for these communications.
 If you still want your logo for this month\'s release, please let us
 know and share the logo with us. Thx.
 
-![pnp-companies-january-2022.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/340089iECD984C7BA1510E0/image-size/large?v=v2&px=999 "pnp-companies-january-2022.png")
+{{< image alt="pnp-companies-january-2022.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/pnp-companies-january-2022.png" >}}
 
 -   [Addin365](https://www.addin365.com/)
 -   [Arvo Systems](https://www.arvosys.com/)

@@ -1086,7 +1086,7 @@ alt="Message contains a video" aria-label="Contains a video" role="img"}
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
-[![Thumb-Ep138.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/316633i119165D95F5FDE0B/image-size/large?v=v2&px=999 "Thumb-Ep138.png"){.lia-media-image
+{{< image alt="Thumb-Ep138.png" src="images/blog/microsoft-365-pnp-weekly-episode-138-carmen-ysewijn-qubix-and/Thumb-Ep138.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/316633i119165D95F5FDE0B?v=v2"
 li-image-display-id="'316633i119165D95F5FDE0B'"

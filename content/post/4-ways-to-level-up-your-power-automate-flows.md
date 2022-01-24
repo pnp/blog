@@ -17,7 +17,7 @@ great clarity and also I love this guys\' taste of music
 :musical_notes:! Also please understand his flow first. I love the idea
 and creativity! The result of such a flow looks like this:
 
-[![Teams-status.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311292i73BEAA2012A971BA/image-size/medium?v=v2&px=400 "Teams-status.png")
+{{< image alt="Teams-status.png" src="images/blog/4-ways-to-level-up-your-power-automate-flows/Teams-status.png" >}}
 
 While some would debate if this flow is necessary, I feel it shows that
 custom connectors are a great way to extend Microsoft 365. Also: #MusicWasMyFirstLove - case closed :)
@@ -30,7 +30,7 @@ Loryan created 13 actions and as I seem to be just more lazy than he is,
 therefore I thinned out his awesome idea to just 5-6 actions: This is
 what it looks like:
 
-[![flow-overview.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311290i347E9071AFFA36AE/image-size/large?v=v2&px=999 "flow-overview.png")
+{{< image alt="flow-overview.png" src="images/blog/4-ways-to-level-up-your-power-automate-flows/flow-overview.png" >}}
 
 The result is about the same - just that I display also a message if I
 am currently not listening to music (yes, this happens!)
@@ -49,7 +49,7 @@ of the response we are interested in. Easiest way to achieve that:
 a\) copy the body of the output of that action, paste it into a code
 editor - I work with Visual Studio Code
 
-[![flow-output.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311289i8B4E40CC42008A08/image-size/medium?v=v2&px=400 "flow-output.png")
+{{< image alt="flow-output.png" src="images/blog/4-ways-to-level-up-your-power-automate-flows/flow-output.png" >}}
 
 
 b\) we make sure that we select `JSON` as language - VS Code will then
@@ -63,7 +63,7 @@ a particular song is available. We don't need it here. If you aim to
 rebuild this, its highly recommended to copy the code from YOUR output,
 not from this blog post, as I shortened the code.
 
-```
+```json
 
         {
             "timestamp": 1631969547352,
@@ -177,7 +177,7 @@ to if a song is playing right now - we will find
 the `is_playing` property, which will either return `true` or `false`,
 which makes it perfect to put this into our condition:
 
-[![flow-condition.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311288i14EE0D4A22C2B18F/image-size/medium?v=v2&px=400 "flow-condition.png")
+{{< image alt="flow-condition.png" src="images/blog/4-ways-to-level-up-your-power-automate-flows/flow-condition.png" >}}
 
 The expression is `outputs('Get_Current_Song')['body']['is_playing']`.
 

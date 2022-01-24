@@ -2,7 +2,7 @@
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from April 1, 2021.
-![sig-1st-april-recording.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/268960iE2D7718CD98781C6/image-size/large?v=v2&px=999 "sig-1st-april-recording.png")
+{{< image alt="sig-1st-april-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-1st-of-april/sig-1st-april-recording.png" >}}
 **Call Summary**
 
 Latest news from Microsoft 365 engineering and updates on open-source
@@ -74,7 +74,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \|
     [\@NanddeepNachan](/t5/user/viewprofilepage/user-id/659867), Ravi
     Kulkarni, and Smita Nachan
-![1st-april-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/268963i2024FC56AC92F3DC/image-size/large?v=v2&px=999 "1st-april-together-mode.gif")
+{{< image alt="1st-april-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-1st-of-april/1st-april-together-mode.gif" >}}
  
 
 **It\'s together time - Spring time!     **

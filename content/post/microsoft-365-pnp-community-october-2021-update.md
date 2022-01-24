@@ -1,5 +1,5 @@
 # Microsoft 365 PnP Community -- October 2021 update
-![oct-monthly-summary-promo.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/318935i57536BB99A6D8912/image-size/large?v=v2&px=999 "oct-monthly-summary-promo.png")
+{{< image alt="oct-monthly-summary-promo.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png" >}}
 Microsoft 365 Patterns and Practices (PnP) Community October 2021 update
 is out with a summary of the latest guidance, samples, and solutions
 from Microsoft or from the community for the community. This article is
@@ -560,7 +560,7 @@ specific tool policies.
 Please see the specifics on the supportability on the tool, SDK or 
 component repository or download page.
 ## 🤩 Microsoft 365 PnP team model 
-![pnp-community-model.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261738iE62C2523C7D5399F/image-size/large?v=v2&px=999 "pnp-community-model.png")
+{{< image alt="pnp-community-model.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/pnp-community-model.png" >}}
 In April 2020 we announced our new [Microsoft 365 PnP team
 model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 and grew the MVP team quite significantly. PnP model exists for having
@@ -602,7 +602,7 @@ more.
 
 ## 🤩 Microsoft 365 PnP Recognition Program   
 
-![VesaJuvonen_0-1629736432373.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/305133i375E2A57C937F149/image-size/large?v=v2&px=999 "VesaJuvonen_0-1629736432373.png")
+{{< image alt="VesaJuvonen_0-1629736432373.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/VesaJuvonen_0-1629736432373.png" >}}
 We are excited to announce new community contributor program for all the
 active community members. Through this program you can get officially
 acknowledged with the a [Credly
@@ -620,7 +620,7 @@ engineering organizations, some are coordinated by the community and
 MVPs.
 ### 🦒 Microsoft Graph Toolkit 
 
-![graph-toolkit.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261739iA57BB73461170C2E/image-size/large?v=v2&px=999 "graph-toolkit.jpg")
+{{< image alt="graph-toolkit.jpg" src="images/blog/microsoft-365-pnp-community-october-2021-update/graph-toolkit.jpg" >}}
 Microsoft Graph Toolkit is engineering lead initiative, which works
 closely with the community on the open-source areas. The Microsoft Graph
 Toolkit is a collection of reusable, framework-agnostic web components
@@ -642,7 +642,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented
 in our bi-weekly Microsoft 365 Generic Dev community call, including the
 latest community contributors.
 ### Microsoft 365 Community docs 
-![community-dcos.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369/image-size/large?v=v2&px=999 "community-dcos.png")
+{{< image alt="community-dcos.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/community-dcos.png" >}}
 Community docs model was announced in the April 2020 and it\'s great to
 see the interest for community to help each other by providing new
 guidance on the non-dev areas. See more on the announcement from the
@@ -663,7 +663,7 @@ detailed.
     list](https://github.com/MicrosoftDocs/microsoft-365-community/issues)
     with articles ideas
 ### SharePoint Framework development samples 
-![spfx-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261742i96F265E42A76DB51/image-size/large?v=v2&px=999 "spfx-gallery.png")
+{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/spfx-gallery.png" >}}
 
 These are the updated SharePoint Framework samples which are available
 from the the different repositories.
@@ -738,7 +738,7 @@ solutions which work in Microsoft Teams
 -   Microsoft Teams samples build with SharePoint Framework -
     <https://github.com/pnp/spfx-teams> - These will be relocated soon
 ### Microsoft Teams community samples 
-![teams-samples-promo.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261745i9E77F4A84CE0145E/image-size/large?v=v2&px=999 "teams-samples-promo.jpg")
+{{< image alt="teams-samples-promo.jpg" src="images/blog/microsoft-365-pnp-community-october-2021-update/teams-samples-promo.jpg" >}}
 These are samples which have been contributed on the community samples
 since last summary. We do welcome all Microsoft Teams samples to this
 gallery. They can be implemented using in any technology.
@@ -808,7 +808,7 @@ others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. Here to
 help.
 ### Microsoft 365 Script Samples 
-![script-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287810i07695D4C2B844F3E/image-size/large?v=v2&px=999 "script-gallery.png")
+{{< image alt="script-gallery.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/script-gallery.png" >}}
 
 \
 We have released new Microsoft 365 Script Sample gallery within past
@@ -913,7 +913,7 @@ others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. 
 -   Microsoft 365 Script Samples - <https://aka.ms/script-samples>
 ### Sharing is Caring initiative 
-![sharing-is-caring-promo-1024x576.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261747i39E00EA5029AD282/image-size/large?v=v2&px=999 "sharing-is-caring-promo-1024x576.png")
+{{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/sharing-is-caring-promo-1024x576.png" >}}
 The \"Sharing Is Caring\" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
@@ -1907,7 +1907,7 @@ contributed from other companies during last month, but we did not get
 their logos and approval to show them in time for these communications.
 If you still want your logo for this month\'s release, please let us
 know and share the logo with us. Thx.
-![pnp-aug-companies.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/305651i0CED19F447A9D4B8/image-size/large?v=v2&px=999 "pnp-aug-companies.png")
+{{< image alt="pnp-aug-companies.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/pnp-aug-companies.png" >}}
 -   [Addin365](https://www.addin365.com/)
 -   [aequous](https://www.aequos.ca/)
 -   [Arvo Systems](https://www.arvosys.com/)

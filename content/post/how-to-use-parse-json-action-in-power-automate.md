@@ -22,11 +22,11 @@ case. Let\'s say we wanted to post a random item from a SharePoint list
 to twitter each day using Power Automate. This is a screenshot of my
 list:
 
-![parsejson-SPList.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254209i268CCA366EB2B238/image-size/medium?v=v2&px=400 "parsejson-SPList.png")
+{{< image alt="parsejson-SPList.png" src="images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-SPList.png" >}}
 and this is the overview of the flow that we are going to build:
 
 
-![parsejson-overview-flow.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254213i62A5872ACE8856D9/image-size/medium?v=v2&px=400 "parsejson-overview-flow.png")
+{{< image alt="parsejson-overview-flow.png" src="images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-overview-flow.png" >}}
 
 ### Trigger 
 
@@ -71,7 +71,7 @@ we open the run history, and have a look at the Outputs of
 the **Compose** action and copy everything inside of that box.
 
 
-![parsejson-history.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254216iD8128BDAFB209BA6/image-size/medium?v=v2&px=400 "parsejson-history.png")
+{{< image alt="parsejson-history.png" src="images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-history.png" >}}
 
 Now we edit our flow again, add the Parse JSON action, add the Outputs
 from our Compose Action as Inputs to that action and click
@@ -99,7 +99,7 @@ items from the list, then identify a random list element and send out a
 tweet with the Title and URL auf exactly that list item.
 
 
-![parsejson-twitter.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254219i34B1812DC4296A79/image-size/large?v=v2&px=999 "parsejson-twitter.png")
+{{< image alt="parsejson-twitter.png" src="images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-twitter.png" >}}
 
 ## Conclusion & What\'s next? 
 

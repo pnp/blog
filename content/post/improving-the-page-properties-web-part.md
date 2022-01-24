@@ -464,7 +464,7 @@ capsules for array labels.
 So that\'s all of the necessary code. Here\'s what the finished product
 looks like, compared to the original page properties web part.
 
-![diff-screencap](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270626i07AEE52E0096F0BA/image-size/large?v=v2&px=999 "diff-screencap")
+{{< image alt="diff-screencap" src="images/blog/improving-the-page-properties-web-part/diff-screencap.png" >}}
 This web part is now officially apart of the PnP Web Parts repository
 and can be found
 [here](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-advanced-page-properties).

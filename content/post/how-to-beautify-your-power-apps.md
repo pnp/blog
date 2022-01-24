@@ -12,7 +12,7 @@ One part of Fluent UI is the iconography
  
 
 
-![fluentUIicons.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/274446i7CDF83F3FF6165C4/image-size/large?v=v2&px=999 "fluentUIicons.png")
+{{< image alt="fluentUIicons.png" src="images/blog/how-to-beautify-your-power-apps/fluentUIicons.png" >}}
 
 
 
@@ -57,12 +57,12 @@ Screens in Power Apps are perfect for displaying information that should
 always be shown. But what if we only want to show some more content
 occasionally? Pop up to the rescue!
 
-![showpopup.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/274443iF86BCAF8ED47F390/image-size/large?v=v2&px=999 "showpopup.gif")
+{{< image alt="showpopup.gif" src="images/blog/how-to-beautify-your-power-apps/showpopup.gif" >}}
 To create a pop up effect, create:
 
 
 
-![controls.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/274444i90698267CDAA295F/image-size/medium?v=v2&px=400 "controls.png")
+{{< image alt="controls.png" src="images/blog/how-to-beautify-your-power-apps/controls.png" >}}
 
 -   a rectangle that overlays the content that our user now should not
     focus on - good idea to have it filled grey and semi-transparent
@@ -210,7 +210,7 @@ Our result should look something like this:
  
 :::
 
-![expand.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/274445iCECF8EFFD5CB0010/image-size/large?v=v2&px=999 "expand.gif")
+{{< image alt="expand.gif" src="images/blog/how-to-beautify-your-power-apps/expand.gif" >}}
 
  
 
@@ -228,7 +228,7 @@ image](https://github.com/LuiseFreese/blog/blob/main/media/beautify/sketchnotebe
 the download button)
  
 
-![beautify.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275383i0607701BD269C2F4/image-size/large?v=v2&px=999 "beautify.gif")
+{{< image alt="beautify.gif" src="images/blog/how-to-beautify-your-power-apps/beautify.gif" >}}
 
 ## sample app  
 

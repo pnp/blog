@@ -1,6 +1,6 @@
 # Microsoft 365 Platform Call -- 4th of January, 2022
 
-![recording-4th-january.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337497iB92593C753A91508/image-size/large?v=v2&px=999 "recording-4th-january.png")
+{{< image alt="recording-4th-january.png" src="images/blog/microsoft-365-platform-call-4th-of-january-2022/recording-4th-january.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from January 4th, is now available from the Microsoft 365 Community
@@ -89,7 +89,7 @@ live at end of the call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![220104-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337498iE34498127A426B9B/image-size/large?v=v2&px=999 "220104-together-mode.gif")
+{{< image alt="220104-together-mode.gif" src="images/blog/microsoft-365-platform-call-4th-of-january-2022/220104-together-mode.gif" >}}
 
 Welcome to the first call of the new year - 2022.  Glad you're here. 
 See you soon.      

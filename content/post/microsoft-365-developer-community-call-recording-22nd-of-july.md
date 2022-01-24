@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 22nd of July, 2021
 
-![sig-recordingly-22nd-july.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/297668i9AA5AB6D207BA15E/image-size/large?v=v2&px=999 "sig-recordingly-22nd-july.png")
+{{< image alt="sig-recordingly-22nd-july.png" src="images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png" >}}
 **Call Summary**
 
 Summer break and community call schedule updates reviewed. Preview the
@@ -80,7 +80,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     Bot**](https://aka.ms/bot-teams-incidentmanagement) - [Nanddeep
     Nachan](http://twitter.com/NanddeepNachan) \|
     [\@NanddeepNachan](/t5/user/viewprofilepage/user-id/659867)]{style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;"}
-![wave3.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/297870i2270943C845C368D/image-size/large?v=v2&px=999 "wave3.gif")
+{{< image alt="wave3.gif" src="images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/wave3.gif" >}}
 Thank you for making time in your Summer time schedule to join us for
 today\'s PnP Community call.   You\'re awesome!   
 **Demos** delivered in this session

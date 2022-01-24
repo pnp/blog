@@ -70,7 +70,7 @@ And you can display it in your component render() method:
 ```
 Final result of this demo web part:
 
-![web-part-width.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266517i5217B524DA12E0F2/image-size/large?v=v2&px=999 "web-part-width.png")
+{{< image alt="web-part-width.png" src="images/blog/how-to-determine-web-part-size-with-spfx-v1-12/web-part-width.png" >}}
 This a great add to SPFx and allows developers to re-render components
 when the web part is resized
 Happy coding everyone!

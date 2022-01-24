@@ -34,7 +34,7 @@ To make things a bit more approachable, here is our little
 We want to display items of a SharePoint list in an Adaptive Card as a
 table. The result should look like this:
 
-![LuiseFreese_12-1629042402697.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/303375i56942046690CED40/image-size/medium?v=v2&px=400 "LuiseFreese_12-1629042402697.png")
+{{< image alt="LuiseFreese_12-1629042402697.png" src="images/blog/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/LuiseFreese_12-1629042402697.png" >}}
  
 
 Purpose is to notify the Team each Monday about all Unicorns with a

@@ -73,12 +73,12 @@ remote workbench
 (<https://contoso.sharepoint.com/_layouts/15/workbench.aspx>). Try to
 use the `PeoplePicker` component: you\'ll see that just by clicking on
 the search box, you\'ll get *We didn\'t find any matches*.
-![peoplepicker-ui-fail.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261327i7C491A73DF1A9A84/image-size/large?v=v2&px=999 "peoplepicker-ui-fail.png")
+{{< image alt="peoplepicker-ui-fail.png" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-fail.png" >}}
  
 
 Display your developer toolbox (F12) and go to the browser console, you
 should see the following error:
-![peoplepicker-console-fail.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261328i877C183AB94DAEC5/image-size/large?v=v2&px=999 "peoplepicker-console-fail.png")
+{{< image alt="peoplepicker-console-fail.png" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-console-fail.png" >}}
 As you can see, it\'s a 403 error, which is well-known when using Graph
 API endpoints that have not been allowed on the first place.
  
@@ -95,7 +95,7 @@ Once here, click on **Add a permission**, then select **Microsoft
 Graph** and add the \[*People.Read*\] Graph API [delegated
 permission]{.underline} (you can type the name of the permission in the
 available search box to get it easily).
-![aad-app-spo-api-graph.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261329i49E61D0AD724669F/image-size/large?v=v2&px=999 "aad-app-spo-api-graph.png")
+{{< image alt="aad-app-spo-api-graph.png" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/aad-app-spo-api-graph.png" >}}
 Once added, grant it by clicking on **Grant admin consent for contoso**.
 If you go in the *API access* page
 (<https://contoso-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/webApiPermissionManagement>),
@@ -126,7 +126,7 @@ your SPFx solution to work.
 Now try to use the `PeoplePicker` component again: you\'ll see that with
 the addition of the Graph API permission, you should be able to use that
 component!
-![peoplepicker-ui-success.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261331i81A858A6A4D017BA/image-size/large?v=v2&px=999 "peoplepicker-ui-success.png")
+{{< image alt="peoplepicker-ui-success.png" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-success.png" >}}
 
 ## With custom API 
 
@@ -150,13 +150,13 @@ Extensibility Web Application Principal**. Once here, click on **Add a
 permission**, then select the **My APIs** tab and select the fresh added
 AAD App created before. Select the **user_impersonation** permission,
 then confirm.
-![aad-app-spo-api-custom.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261332i7206CD2A49DCAEFB/image-size/large?v=v2&px=999 "aad-app-spo-api-custom.png")
+{{< image alt="aad-app-spo-api-custom.png" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/aad-app-spo-api-custom.png" >}}
 
 Finally, grant this permission by clicking on **Grant admin consent for
 contoso**.
 If you go again in the *API access* page, you should see something like
 this:
-![api-access-custom-approved.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261337i4486CDC42E9CFA65/image-size/large?v=v2&px=999 "api-access-custom-approved.png")
+{{< image alt="api-access-custom-approved.png" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/api-access-custom-approved.png" >}}
 
 ### Add custom API through CLI for Microsoft 365
 

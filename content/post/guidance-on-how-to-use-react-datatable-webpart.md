@@ -921,7 +921,7 @@ By
 
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Senior .Member}
-[![ChandaniPrajapati](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266586i7CD1BC95A5169479/image-dimensions/150x150/image-coordinates/0%2C88%2C1346%2C1434?v=v2 "ChandaniPrajapati"){.lia-user-avatar-message
+{{< image alt="ChandaniPrajapati" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png" >}}{.lia-user-avatar-message
 .user-rank-ring style=""
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/995474){.UserAvatar
 .lia-link-navigation}
@@ -968,7 +968,7 @@ AM]{.ba-published-date} [ 2,298 Views ]{.ba-view-count}
 ::: {.lia-message-author-avatar .lia-component-author-avatar .lia-component-message-view-widget-author-avatar}
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Senior .Member}
-[![ChandaniPrajapati](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266586i7CD1BC95A5169479/image-dimensions/40x40/image-coordinates/0%2C155%2C1192%2C1347?v=v2 "ChandaniPrajapati"){.lia-user-avatar-message
+{{< image alt="ChandaniPrajapati" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png" >}}{.lia-user-avatar-message
 .user-rank-ring style=""
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/995474){.UserAvatar
 .lia-link-navigation}
@@ -1101,7 +1101,7 @@ like this.
 
  
 
-[![Output1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312726i6A5A4DF707768643/image-size/large?v=v2&px=999 "Output1.png"){.lia-media-image
+{{< image alt="Output1.png" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/Output1.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312726i6A5A4DF707768643?v=v2"
 li-image-display-id="'312726i6A5A4DF707768643'"
@@ -1145,7 +1145,7 @@ Click on **App**.
 
  
 
-[![Add_An_App.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311989iC5E1FA407D4C84B1/image-size/large?v=v2&px=999 "Add_An_App.png"){.lia-media-image
+{{< image alt="Add_An_App.png" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/Add_An_App.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311989iC5E1FA407D4C84B1?v=v2"
 li-image-display-id="'311989iC5E1FA407D4C84B1'"
@@ -1180,7 +1180,7 @@ Now create a **page** and add web part.
 
  
 
-[![Add-Webpart.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311991iCDC1A8C143C0399D/image-size/large?v=v2&px=999 "Add-Webpart.png"){.lia-media-image
+{{< image alt="Add-Webpart.png" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/Add-Webpart.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311991iCDC1A8C143C0399D?v=v2"
 li-image-display-id="'311991iCDC1A8C143C0399D'"
@@ -1239,7 +1239,7 @@ style="width: 341px;"}
 
  
 
-[![Search_Sort_Config.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312652i2A5534E62B4F1D29/image-size/large?v=v2&px=999 "Search_Sort_Config.png"){.lia-media-image
+{{< image alt="Search_Sort_Config.png" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/Search_Sort_Config.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312652i2A5534E62B4F1D29?v=v2"
 li-image-display-id="'312652i2A5534E62B4F1D29'"
@@ -1273,7 +1273,7 @@ style="width: 328px;"}
         -   Using this color picker option we can set **odd/even row
             color** in the table dynamically.
 
-[![Advanced_Features.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312653i893E16778B925A10/image-size/large?v=v2&px=999 "Advanced_Features.png"){.lia-media-image
+{{< image alt="Advanced_Features.png" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/Advanced_Features.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312653i893E16778B925A10?v=v2"
 li-image-display-id="'312653i893E16778B925A10'"
@@ -1289,7 +1289,7 @@ style="width: 263px;"}
 
  
 
-[![Output1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312665iFD03C5D198AF5382/image-size/large?v=v2&px=999 "Output1.png"){.lia-media-image
+{{< image alt="Output1.png" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/Output1.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312665iFD03C5D198AF5382?v=v2"
 li-image-display-id="'312665iFD03C5D198AF5382'"
@@ -1475,7 +1475,7 @@ role="heading"}
 ::: {.UserProfileSummary .lia-user-item .lia-js-data-userId-995474 .lia-user-info-group}
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Senior .Member}
-[![ChandaniPrajapati](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266586i7CD1BC95A5169479/image-dimensions/40x40/image-coordinates/0%2C155%2C1192%2C1347?v=v2 "ChandaniPrajapati"){.lia-user-avatar-message
+{{< image alt="ChandaniPrajapati" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png" >}}{.lia-user-avatar-message
 .user-rank-ring style=""
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/995474){.UserAvatar
 .lia-link-navigation}

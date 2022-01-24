@@ -1,6 +1,6 @@
 # Microsoft 365 Platform Call -- 21st of December, 2021
 
-![recording-21st-dec.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/335506i2212FAB0B6CD6DB8/image-size/large?v=v2&px=999 "recording-21st-dec.png")
+{{< image alt="recording-21st-dec.png" src="images/blog/microsoft-365-platform-call-21st-of-december-2021/recording-21st-dec.png" >}}
 [Microsoft 365 Platform Community Call - weekly community call recording
 from December 21st, is now available from the Microsoft 365 Community
 YouTube channel
@@ -94,7 +94,7 @@ call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211221-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/335507i6F4A7328A3D04273/image-size/large?v=v2&px=999 "211221-together-mode.gif")
+{{< image alt="211221-together-mode.gif" src="images/blog/microsoft-365-platform-call-21st-of-december-2021/211221-together-mode.gif" >}}
 
 Thank you for being part of this community in 2021, we are looking
 forward to continuing sharing and caring with community in 2022.

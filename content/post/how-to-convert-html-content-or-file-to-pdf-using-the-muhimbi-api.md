@@ -34,7 +34,7 @@ Move to the above-created directory using:
 Now execute the below command to create an SPFx solution:
     yo @microsoft/sharepoint 
 It will ask some questions, as shown below,
-![ChandaniPrajapati_0-1639758794000.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/334722i8F68D1C8BA00D083/image-size/large?v=v2&px=999 "ChandaniPrajapati_0-1639758794000.png")
+{{< image alt="ChandaniPrajapati_0-1639758794000.png" src="images/blog/how-to-convert-html-content-or-file-to-pdf-using-the-muhimbi-api/ChandaniPrajapati_0-1639758794000.png" >}}
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
     code .

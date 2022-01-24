@@ -118,7 +118,7 @@ https://your-sharepoint-online-site/_layouts/workbench.aspx
 We can now see the result of our web part using MGT in the SPO
 workbench:
 
-![mgt-react-result-2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261463i1C709E416F956B22/image-size/large?v=v2&px=999 "mgt-react-result-2.png")
+{{< image alt="mgt-react-result-2.png" src="images/blog/how-to-start-a-new-spfx-web-part-project-with-microsoft-graph/mgt-react-result-2.png" >}}
 
 That's it, you have configured a SPFx web part project with Microsoft
 Graph Toolkit and React. You can now integrate other components in your

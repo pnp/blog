@@ -1,6 +1,6 @@
 # Microsoft 365 Platform Call -- 23rd of November, 2021
 
-![recording-23rd-nov-platform.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329043i0E37E3C333E035E3/image-size/large?v=v2&px=999 "recording-23rd-nov-platform.png")
+{{< image alt="recording-23rd-nov-platform.png" src="images/blog/microsoft-365-platform-call-23rd-of-november-2021/recording-23rd-nov-platform.png" >}}
 Microsoft 365 Platform Community Call - weekly community call recording
 from November 23rd, is now available from the Microsoft 365 Community
 YouTube channel
@@ -101,7 +101,7 @@ call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211123-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329045i842872EF4575B9F1/image-size/large?v=v2&px=999 "211123-together-mode.gif")
+{{< image alt="211123-together-mode.gif" src="images/blog/microsoft-365-platform-call-23rd-of-november-2021/211123-together-mode.gif" >}}
 Everyone do the Seb Rockelwave!  Thank you again to community members
 and organizations on your November contributions.    
 **Demos** delivered in this session

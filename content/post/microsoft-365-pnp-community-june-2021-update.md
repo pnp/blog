@@ -1098,7 +1098,7 @@ role="img"}
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
-![pnp-june-promo-summary.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287809iD44E0A72FAB745D6/image-size/large?v=v2&px=999 "pnp-june-promo-summary.png"){.lia-media-image
+{{< image alt="pnp-june-promo-summary.png" src="images/blog/microsoft-365-pnp-community-june-2021-update/pnp-june-promo-summary.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287809iD44E0A72FAB745D6?v=v2"
 li-image-display-id="'287809iD44E0A72FAB745D6'"
@@ -1606,7 +1606,7 @@ specific tool policies.
 Please see the specifics on the supportability on the tool, SDK or 
 component repository or download page.
 ## Microsoft 365 PnP team model 
-![pnp-community-model.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261738iE62C2523C7D5399F/image-size/large?v=v2&px=999 "pnp-community-model.png"){.lia-media-image
+{{< image alt="pnp-community-model.png" src="images/blog/microsoft-365-pnp-community-june-2021-update/pnp-community-model.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261738iE62C2523C7D5399F?v=v2"
 li-image-display-id="'261738iE62C2523C7D5399F'"
@@ -1660,7 +1660,7 @@ engineering organizations, some are coordinated by the community and
 MVPs.
 ### Microsoft Graph Toolkit 
 
-![graph-toolkit.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261739iA57BB73461170C2E/image-size/large?v=v2&px=999 "graph-toolkit.jpg"){.lia-media-image
+{{< image alt="graph-toolkit.jpg" src="images/blog/microsoft-365-pnp-community-june-2021-update/graph-toolkit.jpg" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261739iA57BB73461170C2E?v=v2"
 li-image-display-id="'261739iA57BB73461170C2E'"
@@ -1690,7 +1690,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented
 in our bi-weekly Microsoft 365 Generic Dev community call, including the
 latest community contributors.
 ### Microsoft 365 Community docs 
-![community-dcos.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369/image-size/large?v=v2&px=999 "community-dcos.png"){.lia-media-image
+{{< image alt="community-dcos.png" src="images/blog/microsoft-365-pnp-community-june-2021-update/community-dcos.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369?v=v2"
 li-image-display-id="'261740i45A51B070D635369'"
@@ -1716,7 +1716,7 @@ detailed.
     list](https://github.com/MicrosoftDocs/microsoft-365-community/issues)
     with articles ideas
 ### SharePoint Framework development samples 
-![spfx-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261742i96F265E42A76DB51/image-size/large?v=v2&px=999 "spfx-gallery.png"){.lia-media-image
+{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-june-2021-update/spfx-gallery.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261742i96F265E42A76DB51?v=v2"
 li-image-display-id="'261742i96F265E42A76DB51'"
@@ -1774,7 +1774,7 @@ solutions which work in Microsoft Teams
 -   Web Part sample gallery - <http://aka.ms/spfx-webparts>
 -   Extensions sample gallery - <http://aka.ms/spfx-extensions>
 ### Microsoft Teams community samples 
-![teams-samples-promo.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261745i9E77F4A84CE0145E/image-size/large?v=v2&px=999 "teams-samples-promo.jpg"){.lia-media-image
+{{< image alt="teams-samples-promo.jpg" src="images/blog/microsoft-365-pnp-community-june-2021-update/teams-samples-promo.jpg" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261745i9E77F4A84CE0145E?v=v2"
 li-image-display-id="'261745i9E77F4A84CE0145E'"
@@ -1814,7 +1814,7 @@ Teams app
 templates](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates)
 and community samples.
 ### Power Platform samples 
-![power-platform-samples.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279633i788F8D894CE8B615/image-size/large?v=v2&px=999 "power-platform-samples.png"){.lia-media-image
+{{< image alt="power-platform-samples.png" src="images/blog/microsoft-365-pnp-community-june-2021-update/power-platform-samples.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279633i788F8D894CE8B615?v=v2"
 li-image-display-id="'279633i788F8D894CE8B615'"
@@ -1861,7 +1861,7 @@ Platform sample gallery.
 -   Power Platform sample gallery
     - <https://aka.ms/powerplatform-samples>
 ### Microsoft 365 Script Samples 
-![script-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287810i07695D4C2B844F3E/image-size/large?v=v2&px=999 "script-gallery.png"){.lia-media-image
+{{< image alt="script-gallery.png" src="images/blog/microsoft-365-pnp-community-june-2021-update/script-gallery.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287810i07695D4C2B844F3E?v=v2"
 li-image-display-id="'287810i07695D4C2B844F3E'"
@@ -1881,7 +1881,7 @@ others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. 
 -   Microsoft 365 Script Samples - <https://aka.ms/script-samples>
 ### Sharing is Caring initiative 
-![sharing-is-caring-promo-1024x576.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261747i39E00EA5029AD282/image-size/large?v=v2&px=999 "sharing-is-caring-promo-1024x576.png"){.lia-media-image
+{{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-june-2021-update/sharing-is-caring-promo-1024x576.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261747i39E00EA5029AD282?v=v2"
 li-image-display-id="'261747i39E00EA5029AD282'"
@@ -2660,7 +2660,7 @@ contributed from other companies during last month, but we did not get
 their logos and approval to show them in time for these communications.
 If you still want your logo for this month\'s release, please let us
 know and share the logo with us. Thx.
-![may-2021-compaies.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279797i53A9751FE1E53255/image-size/large?v=v2&px=999 "may-2021-compaies.png"){.lia-media-image
+{{< image alt="may-2021-compaies.png" src="images/blog/microsoft-365-pnp-community-june-2021-update/may-2021-compaies.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279797i53A9751FE1E53255?v=v2"
 li-image-display-id="'279797i53A9751FE1E53255'"

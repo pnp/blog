@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 28th of October, 2021
 
-![recording-28th-oct.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/321141i11EED098D9DE083D/image-size/large?v=v2&px=999 "recording-28th-oct.png")
+{{< image alt="recording-28th-oct.png" src="images/blog/microsoft-365-developer-community-call-recording-28th-of-october/recording-28th-oct.png" >}}
  
 
 **Call Summary**
@@ -113,7 +113,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -- Thank you :clapping_hands:
 **Together Mode!**
-![211028-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/321144i80CDA74A7F6AC135/image-size/large?v=v2&px=999 "211028-together-mode.gif")
+{{< image alt="211028-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-28th-of-october/211028-together-mode.gif" >}}
 Are there ghosts or shadows occupying seats in this week\'s Together
 Mode photo?  Mention during call about people \"beaming up/down\" to the
 theater today?  

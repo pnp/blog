@@ -1128,7 +1128,7 @@ ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
 
  
 
-[![1641653378.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338450iF7A24B855DBCDF0B/image-size/large?v=v2&px=999 "1641653378.png"){.lia-media-image
+{{< image alt="1641653378.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641653378.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338450iF7A24B855DBCDF0B?v=v2"
 li-image-display-id="'338450iF7A24B855DBCDF0B'"
@@ -1235,7 +1235,7 @@ ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
 
  
 
-[![1641747471.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338451i9A8958AFA87DFC71/image-size/large?v=v2&px=999 "1641747471.png"){.lia-media-image
+{{< image alt="1641747471.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641747471.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338451i9A8958AFA87DFC71?v=v2"
 li-image-display-id="'338451i9A8958AFA87DFC71'"
@@ -1293,7 +1293,7 @@ Assign. ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559739\":160,\"
 
  
 
-[![1641917465.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338889i5A0F1BDA689BBAC4/image-size/large?v=v2&px=999 "1641917465.png"){.lia-media-image
+{{< image alt="1641917465.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641917465.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338889i5A0F1BDA689BBAC4?v=v2"
 li-image-display-id="'338889i5A0F1BDA689BBAC4'"
@@ -1314,7 +1314,7 @@ ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
 
  
 
-[[![1641748265.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338890i086C29B31E5CFF13/image-size/large?v=v2&px=999 "1641748265.png"){.lia-media-image
+[{{< image alt="1641748265.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641748265.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338890i086C29B31E5CFF13?v=v2"
 li-image-display-id="'338890i086C29B31E5CFF13'"
@@ -1361,7 +1361,7 @@ ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
 
  
 
-[[![PowerAppsFlow.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338891i53D5D033E16B6F1C/image-size/large?v=v2&px=999 "PowerAppsFlow.png"){.lia-media-image
+[{{< image alt="PowerAppsFlow.png" src="images/blog/microsoft-365-self-service-using-power-apps/PowerAppsFlow.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338891i53D5D033E16B6F1C?v=v2"
 li-image-display-id="'338891i53D5D033E16B6F1C'"
@@ -1401,7 +1401,7 @@ ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
 
  
 
-[[[![1641918438.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338892i1DDB4F073CFC1BAA/image-size/large?v=v2&px=999 "1641918438.png"){.lia-media-image
+[[{{< image alt="1641918438.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641918438.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338892i1DDB4F073CFC1BAA?v=v2"
 li-image-display-id="'338892i1DDB4F073CFC1BAA'"
@@ -1434,7 +1434,7 @@ ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
 
  
 
-[![JanBakker_0-1641843830957.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338454iF489F1ABEB4BAFE2/image-size/medium?v=v2&px=400 "JanBakker_0-1641843830957.png"){.lia-media-image
+{{< image alt="JanBakker_0-1641843830957.png" src="images/blog/microsoft-365-self-service-using-power-apps/JanBakker_0-1641843830957.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338454iF489F1ABEB4BAFE2?v=v2"
 li-image-display-id="'338454iF489F1ABEB4BAFE2'"

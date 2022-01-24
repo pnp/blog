@@ -1,6 +1,6 @@
 # CLI for Microsoft 365 v3.13
 
-![banner-cli-m365.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262560i2113F3468D19AC83/image-size/large?v=v2&px=999 "banner-cli-m365.png"){.lia-media-image
+{{< image alt="banner-cli-m365.png" src="images/blog/cli-for-microsoft-365-v3-13/banner-cli-m365.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262560i2113F3468D19AC83?v=v2"
 li-image-display-id="'262560i2113F3468D19AC83'"

@@ -1089,7 +1089,7 @@ role="img"}
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
-**[![ApTriggeredStep-up.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283764i1BAE6D95D7017ED4/image-size/large?v=v2&px=999 "ApTriggeredStep-up.png"){.lia-media-image
+**{{< image alt="ApTriggeredStep-up.png" src="images/blog/microsoft-identity-platform-community-call-may-2021/ApTriggeredStep-up.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283764i1BAE6D95D7017ED4?v=v2"
 li-image-display-id="'283764i1BAE6D95D7017ED4'"

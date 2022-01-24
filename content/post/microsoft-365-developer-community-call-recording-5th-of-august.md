@@ -85,7 +85,7 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
     Theme**](https://github.com/pnp/powerapps-samples/tree/main/samples/fluentui-custom-theme) -
     [Fabio
     Franzini](http://twitter.com/franzinifabio) \| \@franzinifabio
-![PnP-Calls-TogetherMode-LowerResolution.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300996i3B0E169B602BB1B9/image-size/large?v=v2&px=999 "PnP-Calls-TogetherMode-LowerResolution.gif"){.lia-media-image
+{{< image alt="PnP-Calls-TogetherMode-LowerResolution.gif" src="images/blog/microsoft-365-developer-community-call-recording-5th-of-august/PnP-Calls-TogetherMode-LowerResolution.gif" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300996i3B0E169B602BB1B9?v=v2"
 li-image-display-id="'300996i3B0E169B602BB1B9'"

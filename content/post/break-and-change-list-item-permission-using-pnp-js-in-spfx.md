@@ -48,17 +48,17 @@ so first select the list item and click on the details panel from the
 right corner second last icon (above the list title). you can see the
 panel as below,
 
-![FirstOP.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263656i16D2CDB6FF1AFD3A/image-size/large?v=v2&px=999 "FirstOP.png")
+{{< image alt="FirstOP.png" src="images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/FirstOP.png" >}}
 
 Click on **manage access** and then click on Advanced as below,
 
 
-![SecondCropped.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263657iE3F4BF55B33C7997/image-size/large?v=v2&px=999 "SecondCropped.png")
+{{< image alt="SecondCropped.png" src="images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/SecondCropped.png" >}}
 
 It will open another tab and in this, you can see all the list item
 level permission as below,
 
-![Third.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263660i32B68AE4E730DCD9/image-size/large?v=v2&px=999 "Third.png")
+{{< image alt="Third.png" src="images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/Third.png" >}}
 
 ## Summary
 

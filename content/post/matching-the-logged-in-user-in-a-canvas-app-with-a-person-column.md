@@ -26,10 +26,10 @@ or more of the items in the list are assigned to each of the users. If
 the logged in user is the approver, they should have the Approve/Reject
 option available in the list, which is indicated with the canvas apps
 "DockCheckIcon" icon.
-![Hermione-IconVisible.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326289i0E42AE7FE338B0D3/image-size/large?v=v2&px=999 "Hermione-IconVisible.png")
+{{< image alt="Hermione-IconVisible.png" src="images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Hermione-IconVisible.png" >}}
 
-![Harry-IconNotVisible.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326290i8D3C1EFF39B3F8DA/image-size/large?v=v2&px=999 "Harry-IconNotVisible.png")
-![Ron-IconNotVisible.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326292i1674A7E987BF834F/image-size/large?v=v2&px=999 "Ron-IconNotVisible.png")
+{{< image alt="Harry-IconNotVisible.png" src="images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconNotVisible.png" >}}
+{{< image alt="Ron-IconNotVisible.png" src="images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconNotVisible.png" >}}
 
 The first user, Hermione, does not give any issues. The email address of
 the logged-in user matches that of the approver in the SharePoint list,
@@ -80,10 +80,10 @@ will be visible when relevant for them.
 
 For Hermione, the result is exactly the same. For Harry and Ron, it now
 looks different.
-![Harry-IconVisible.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326293i48D8F3D876022BF8/image-size/large?v=v2&px=999 "Harry-IconVisible.png")
+{{< image alt="Harry-IconVisible.png" src="images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconVisible.png" >}}
 
 
-![Ron-IconVisible.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326294i7AEE63CF2540CD9C/image-size/large?v=v2&px=999 "Ron-IconVisible.png")
+{{< image alt="Ron-IconVisible.png" src="images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconVisible.png" >}}
 
 ### A closing note
 

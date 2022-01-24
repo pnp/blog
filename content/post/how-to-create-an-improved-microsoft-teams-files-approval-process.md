@@ -4,7 +4,7 @@ We are all there during some days: Power Automate Premium is the key to
 the next level but there is no way we could justify that licensing --
 the ROI is simply not enough. Have you thought that you could be
 utilizing a Azure Logic App instead?
-![2021-02-10_22-02-47.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254489iC26B6F545C3CC2BC/image-size/medium?v=v2&px=400 "2021-02-10_22-02-47.png")
+{{< image alt="2021-02-10_22-02-47.png" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/2021-02-10_22-02-47.png" >}}
 Following my earlier post ( [How to: initiate a document approval
 directly in team files tab (using Power
 Automate) ](https://myteamsday.com/2021/01/29/approve-files/)) that
@@ -55,12 +55,12 @@ Navigate to your Resource Group and click on Add.
 
 
 Add a Logic App. Use search to narrow the list down.
-![image-55](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254458i5B9725F2E7744389/image-size/large?v=v2&px=999 "image-55")
+{{< image alt="image-55" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-55.png" >}}
  
 
 **Note: Be careful how you name your Logic App in the next step because
 you won't be able to change it later!**
-![image-58](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254460i00AE9EFCBF50331C/image-size/large?v=v2&px=999 "image-58")
+{{< image alt="image-58" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-58.png" >}}
  
 
 Add Tags if you use them, Review and Create the App. The Logic App is
@@ -68,7 +68,7 @@ deployed rather quickly and you can then go to the Resource.
 Go to Logic App Designer
  
 
-![image-59](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254461iFACEF0C5152BAB8E/image-size/large?v=v2&px=999 "image-59")
+{{< image alt="image-59" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-59.png" >}}
  
 
 From there you can start selecting your trigger how the Logic App is
@@ -76,11 +76,11 @@ activated. Since we are duplicating the earlier post functionality with
 Azure Logic Apps we choose "When a HTTP request is received"
  
 
-![image-60](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254462iD53E2D20B57575AA/image-size/large?v=v2&px=999 "image-60")
+{{< image alt="image-60" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-60.png" >}}
  
 
 And now the UI starts to look very Power Automatish
-![image-61](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254463i2AC9AD0D6953EC5E/image-size/large?v=v2&px=999 "image-61")
+{{< image alt="image-61" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-61.png" >}}
  
 
 The difference is about available parameters. You need to click on Add
@@ -88,33 +88,33 @@ new parameter to open menu that is in this (and in many other actions)
 not visible unlike at Power Automate designer.
  
 
-![image-62](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254464iDCF3433ED8F772FF/image-size/large?v=v2&px=999 "image-62")
+{{< image alt="image-62" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-62.png" >}}
  
 
 Check Method
-![image-63](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254465i961FE372B48DA79A/image-size/large?v=v2&px=999 "image-63")
+{{< image alt="image-63" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-63.png" >}}
  
 
 And you can choose Get from the list.
  
 
-![image-64](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254466i06DFD3D5128377ED/image-size/large?v=v2&px=999 "image-64")
+{{< image alt="image-64" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-64.png" >}}
 And now we have the trigger part ready (waiting for a save)!
-![image-65](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254467i6DF8DA0D4FB6E7AA/image-size/large?v=v2&px=999 "image-65")
+{{< image alt="image-65" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-65.png" >}}
  
 
 Then we add other parts. The search for actions is not as good as in
 Power Automate Cloud Flows but keep on trying -- the actions are there!
  
 
-![image-66](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254468i3CD9500422EDDAB7/image-size/large?v=v2&px=999 "image-66")
+{{< image alt="image-66" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-66.png" >}}
  
 
 Let's populate that with triggerOutputs()\['queries'\]\['FileID'\] just
 like in the earlier blog post.
  
 
-![image-67](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254469iCB18ADB6965CEF16/image-size/large?v=v2&px=999 "image-67")
+{{< image alt="image-67" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-67.png" >}}
  
 
 Add there Get File Properties from SharePoint. In this point we need to
@@ -122,12 +122,12 @@ add a connection to the SharePoint. Use credentials that you seem to be
 fit.
  
 
-![image-68](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254470iF41390481426E7E2/image-size/large?v=v2&px=999 "image-68")
-![image-69](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254477iBFD71615813E69BD/image-size/large?v=v2&px=999 "image-69")
+{{< image alt="image-68" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-68.png" >}}
+{{< image alt="image-69" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-69.png" >}}
 
 Once you have signed in you can define the information how to get file
 properties.
-![image-70](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254471iCDA2936DD86F3000/image-size/large?v=v2&px=999 "image-70")
+{{< image alt="image-70" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-70.png" >}}
  
 
 The FileID is missing. You need to do a bit trick here:
@@ -136,12 +136,12 @@ The FileID is missing. You need to do a bit trick here:
 -   add it to the Get file properties
 -   Change parameter back to string
 
-![image-71](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254472i0E8BC3DFF19132EF/image-size/large?v=v2&px=999 "image-71")
+{{< image alt="image-71" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-71.png" >}}
 And click on see more at Variable section in Dynamic content
-![image-72](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254473i91E855A8A025966F/image-size/large?v=v2&px=999 "image-72")
+{{< image alt="image-72" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-72.png" >}}
 Choose fileid. And yes! (don't forget to change the fileid parameter
 back to string)
-![image-73](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254474i1926120B1CD4AAFD/image-size/large?v=v2&px=999 "image-73")
+{{< image alt="image-73" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-73.png" >}}
  
 
 At this point we have
@@ -152,8 +152,8 @@ At this point we have
 
 Let's close that HTTP request first. Add Response-action and instruct to
 close the tab.
-**![image-74](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254475i92F028849784ECA6/image-size/large?v=v2&px=999 "image-74")
-**![image-75](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254476i1D3595002F5B46CC/image-size/large?v=v2&px=999 "image-75")
+**{{< image alt="image-74" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-74.png" >}}
+**{{< image alt="image-75" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-75.png" >}}
  
 
 **Note: here is when you need to progress differently than with Power
@@ -165,23 +165,23 @@ Power Automate with a when item is inserted trigger there.
 First -- let's create that list where we can write the information to.
 We can use Teams Lists -app for that.
 
-![image-76](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254478i5A9738E0807CD91B/image-size/large?v=v2&px=999 "image-76")
+{{< image alt="image-76" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-76.png" >}}
  
 
 Search for the action in Azure Logic Apps and add Create Item
-![image-77](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254488i033D2FFC808B748F/image-size/large?v=v2&px=999 "image-77")
+{{< image alt="image-77" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-77.png" >}}
  
 
-![image-78](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254480i1C679969C43EBF13/image-size/large?v=v2&px=999 "image-78")
+{{< image alt="image-78" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-78.png" >}}
  
 
 Now, we need to click on Add new parameter to add list columns to the
 action.
-![image-79](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254481iDCC08F1C42F91E12/image-size/large?v=v2&px=999 "image-79")
+{{< image alt="image-79" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-79.png" >}}
 Choosing Approver, FileID, and Outcome. I actually should have named
 Approver as Approval Requestor but hopefully it doesn't confuse too
 much.
-![image-80](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254482iB5A9EF8BDFB0D844/image-size/large?v=v2&px=999 "image-80")
+{{< image alt="image-80" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-80.png" >}}
  
 
 When filling up information you can use Dynamic values from Get file
@@ -189,14 +189,14 @@ properties. Since we don't really know who clicked that request approval
 button we just assume it was the person who did changes the last time.
 
 And that's it!
-![image-81](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254483iB6784738CBDD0F86/image-size/large?v=v2&px=999 "image-81")
+{{< image alt="image-81" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-81.png" >}}
 Hit save (if you haven't already) and you have the URL in the trigger
 action available. Proceed with column formatting [as stated in previous
 post](https://myteamsday.com/2021/01/29/approve-files/).
 
 Fast forwarding the Power Automate that is created as a trigger to the
 File Approvals -list looks like this:
-![image-83](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254484iE6FFA671F918730F/image-size/large?v=v2&px=999 "image-83")
+{{< image alt="image-83" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-83.png" >}}
  
 
 Steps are roughly similar to the ones as in the earlier post.

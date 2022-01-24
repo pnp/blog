@@ -90,9 +90,9 @@ Automate11.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id
  
 ### Create Site Script using REST Call in Power Automate 
 Initialize variable in power automat to store JSON config.\
-![Flow2.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307567i21638EB7205FEE9A/image-size/large?v=v2&px=999 "Flow2.jpg")
+{{< image alt="Flow2.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Flow2.jpg" >}}
 Select "Send an HTTP request to SharePoint" from the list of actions.\
-![Flow3.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307568i7415E92FD3BEB73C/image-size/large?v=v2&px=999 "Flow3.jpg")
+{{< image alt="Flow3.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Flow3.jpg" >}}
  
 **Parameters**
 Site Address - You can select any site Address either it\'s root or not\
@@ -117,12 +117,12 @@ Script Title Name>\')
 Initialized before this action.\
 Get Create Script ID and store it in Variable\
 \
-![Dips365_1-1630571668730.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307575i56504BB4A6E34C9E/image-size/large?v=v2&px=999 "Dips365_1-1630571668730.png")
+{{< image alt="Dips365_1-1630571668730.png" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Dips365_1-1630571668730.png" >}}
 
 
 ### Create Site Template using REST Call in Power Automate
 
-![Dips365_0-1630571387332.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307570i341D3D475CC54EEA/image-size/large?v=v2&px=999 "Dips365_0-1630571387332.png")
+{{< image alt="Dips365_0-1630571387332.png" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Dips365_0-1630571387332.png" >}}
 **Parameters**
 Site Address - You can select any site Address either it\'s root or not\
 Method - post\
@@ -152,7 +152,7 @@ Url -
 }
 ```
 The flow looks like as below\
-![Flow6.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307573i8CF59854ED4EF893/image-size/large?v=v2&px=999 "Flow6.jpg")
+{{< image alt="Flow6.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Flow6.jpg" >}}
 **Output**
 Click on the "gear" Icon in SharePoint Site.
 Click on "Apply a site template".

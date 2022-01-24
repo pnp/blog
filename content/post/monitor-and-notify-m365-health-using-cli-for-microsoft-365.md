@@ -921,7 +921,7 @@ By
 
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .New .Contributor}
-[![ArjunMenon](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290241i8A1C9645B6EFD618/image-dimensions/150x150/image-coordinates/0%2C0%2C190%2C190?v=v2 "ArjunMenon"){.lia-user-avatar-message
+{{< image alt="ArjunMenon" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon.png" >}}{.lia-user-avatar-message
 .user-rank-ring style=""
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/1082346){.UserAvatar
 .lia-link-navigation}
@@ -968,7 +968,7 @@ AM]{.ba-published-date} [ 1,596 Views ]{.ba-view-count}
 ::: {.lia-message-author-avatar .lia-component-author-avatar .lia-component-message-view-widget-author-avatar}
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .New .Contributor}
-[![ArjunMenon](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290241i8A1C9645B6EFD618/image-dimensions/40x40?v=v2 "ArjunMenon"){.lia-user-avatar-message
+{{< image alt="ArjunMenon" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon.png" >}}{.lia-user-avatar-message
 .user-rank-ring style=""
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/1082346){.UserAvatar
 .lia-link-navigation}
@@ -1223,7 +1223,7 @@ solution](https://arjunumenon.com/tenant-status-solution-m365cli/#bonus-solution
 that can you can have a look into that and design your requirements
 accordingly). In my case, SharePoint List look something like below
 
-[![ArjunMenon_0-1637745741073.jpeg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329103iE1C98C8A8FE47A73/image-size/medium?v=v2&px=400 "ArjunMenon_0-1637745741073.jpeg"){.lia-media-image
+{{< image alt="ArjunMenon_0-1637745741073.jpeg" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_0-1637745741073.jpeg" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329103iE1C98C8A8FE47A73?v=v2"
 li-image-display-id="'329103iE1C98C8A8FE47A73'"
@@ -1285,7 +1285,7 @@ without going to the Admin Center. Once you have the data pushed, your
 status information for a particular outage may look something like
 below. 
 
-[![ArjunMenon_1-1637745741149.jpeg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329105i80FC21C572CA5DF8/image-size/medium?v=v2&px=400 "ArjunMenon_1-1637745741149.jpeg"){.lia-media-image
+{{< image alt="ArjunMenon_1-1637745741149.jpeg" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_1-1637745741149.jpeg" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329105i80FC21C572CA5DF8?v=v2"
 li-image-display-id="'329105i80FC21C572CA5DF8'"
@@ -1420,7 +1420,7 @@ my simple Power Automate screen below,
 Below Power Automate will do the process when a new outage is reported
 by the script 
 
-[![ArjunMenon_2-1637745741136.jpeg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329104i7B050DBE4262D573/image-size/medium?v=v2&px=400 "ArjunMenon_2-1637745741136.jpeg"){.lia-media-image
+{{< image alt="ArjunMenon_2-1637745741136.jpeg" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_2-1637745741136.jpeg" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329104i7B050DBE4262D573?v=v2"
 li-image-display-id="'329104i7B050DBE4262D573'"
@@ -1438,7 +1438,7 @@ Below is the Power Automate which is created when existing outage is
 modified, which means one of the current Service which was **NOT
 OPERATIONAL** is changed to **OPERATIONAL**
 
-[![ArjunMenon_3-1637745741115.jpeg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329106i08AAB9ED71AC9A56/image-size/medium?v=v2&px=400 "ArjunMenon_3-1637745741115.jpeg"){.lia-media-image
+{{< image alt="ArjunMenon_3-1637745741115.jpeg" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_3-1637745741115.jpeg" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329106i08AAB9ED71AC9A56?v=v2"
 li-image-display-id="'329106i08AAB9ED71AC9A56'"
@@ -1452,7 +1452,7 @@ style="width: 400px;"}
 
  
 
-[![ArjunMenon_4-1637745741165.jpeg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329107i91CA57B14B093B7D/image-size/medium?v=v2&px=400 "ArjunMenon_4-1637745741165.jpeg"){.lia-media-image
+{{< image alt="ArjunMenon_4-1637745741165.jpeg" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_4-1637745741165.jpeg" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329107i91CA57B14B093B7D?v=v2"
 li-image-display-id="'329107i91CA57B14B093B7D'"
@@ -1736,7 +1736,7 @@ role="heading"}
 ::: {.UserProfileSummary .lia-user-item .lia-js-data-userId-1082346 .lia-user-info-group}
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .New .Contributor}
-[![ArjunMenon](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290241i8A1C9645B6EFD618/image-dimensions/40x40?v=v2 "ArjunMenon"){.lia-user-avatar-message
+{{< image alt="ArjunMenon" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon.png" >}}{.lia-user-avatar-message
 .user-rank-ring style=""
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/1082346){.UserAvatar
 .lia-link-navigation}

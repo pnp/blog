@@ -16,34 +16,34 @@ select a video (using the file picker control from the PnP Reusable
 Property Pane Controls), you will be able to modify the text overlay and
 its color, control the height of the video area and lastly (at least for
 now) modify the brightness: 
-  ![derhallim_0-1620249069072.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278588i6FB5C67745410F64/image-dimensions/370x949?v=v2 "derhallim_0-1620249069072.png")
+  {{< image alt="derhallim_0-1620249069072.png" src="images/blog/introducing-react-video-banner-web-part/derhallim_0-1620249069072.png" >}}
 
  These settings would provide you with a web part that looks like this: 
- ![derhallim_4-1620249695924.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278593i48E5C33042DFF8F7/image-dimensions/711x328?v=v2 "derhallim_4-1620249695924.png")
+ {{< image alt="derhallim_4-1620249695924.png" src="images/blog/introducing-react-video-banner-web-part/derhallim_4-1620249695924.png" >}}
  
 
 Now let\'s have a look at the code itself which is pretty simple. The
 file structure can be seen below:
 
 
- ![derhallim_1-1620252146944.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278611i8ECF721FD5D79709/image-size/medium?v=v2&px=400 "derhallim_1-1620252146944.png")
+ {{< image alt="derhallim_1-1620252146944.png" src="images/blog/introducing-react-video-banner-web-part/derhallim_1-1620252146944.png" >}}
  
 
 The web part has only one functional component named: VideoBackground
 that accepts the following properties as defined in the
 IVideoBackgroundProps.ts file: wpTitle (string), videoUrl (string),
 labelColor (string), brightness (number), height (number).
- ![derhallim_2-1620252225550.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278613iD29EFFD38175FB17/image-dimensions/547x213?v=v2 "derhallim_2-1620252225550.png")
+ {{< image alt="derhallim_2-1620252225550.png" src="images/blog/introducing-react-video-banner-web-part/derhallim_2-1620252225550.png" >}}
 The video url and the label color are set with the help of PnP Property
 Pane Controls as shown below: 
- ![derhallim_0-1620252048668.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278610i7A6449E9A53A3572/image-dimensions/598x193?v=v2 "derhallim_0-1620252048668.png")
+ {{< image alt="derhallim_0-1620252048668.png" src="images/blog/introducing-react-video-banner-web-part/derhallim_0-1620252048668.png" >}}
 
 
 Once the properties are setup on the VideoBackgroundWebPart.ts file, we
 pass them to the VideoBackground.tsx component. 
 
 
- ![derhallim_6-1620252844193.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278618i283DB0E0FD026BF6/image-dimensions/618x231?v=v2 "derhallim_6-1620252844193.png")
+ {{< image alt="derhallim_6-1620252844193.png" src="images/blog/introducing-react-video-banner-web-part/derhallim_6-1620252844193.png" >}}
 
 
 All good so far? Now in our functional component, we have an HTML video
@@ -52,7 +52,7 @@ pass and we play with the CSS filter prop to set the brightness by
 adding the value concatenated with % as we need a brightness
 percentage: 
 
-![derhallim_3-1620252272134.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278614i077CE3A59A69450A/image-dimensions/614x433?v=v2 "derhallim_3-1620252272134.png")
+{{< image alt="derhallim_3-1620252272134.png" src="images/blog/introducing-react-video-banner-web-part/derhallim_3-1620252272134.png" >}}
 
 Notice the ref attribute on the video control? The reason we have it is
 that we want to refresh the video whenever we change the video url. By
@@ -65,7 +65,7 @@ We then use React\'s useEffect to check if the video url has changed or
 not, if it has changed, we call the load() function on the video
 reference itself: 
 
- ![derhallim_4-1620252332115.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278615iF2B5BE371816B5AB/image-dimensions/573x179?v=v2 "derhallim_4-1620252332115.png")
+ {{< image alt="derhallim_4-1620252332115.png" src="images/blog/introducing-react-video-banner-web-part/derhallim_4-1620252332115.png" >}}
 
  
 Some notable points about the CSS used is the div that\'s available just

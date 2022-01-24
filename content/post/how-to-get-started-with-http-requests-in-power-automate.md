@@ -1,6 +1,6 @@
 # How to get started with HTTP requests in Power Automate
 
-![explorer.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254263iBDBEE5E587304C5C/image-size/large?v=v2&px=999 "explorer.jpg")
+{{< image alt="explorer.jpg" src="images/blog/how-to-get-started-with-http-requests-in-power-automate/explorer.jpg" >}}
 
 If you ever wondered what is an HTTP request and why you would want to
 know how this works - this post is made for you.
@@ -90,7 +90,7 @@ ask for Team Name, Team Description, and if a user wants a channel
 for **Learning** and wants to pin training material (a website) as a tab
 to this channel 
 
-![manually-trigger.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254231i57B99AE807EA0C1A/image-size/medium?v=v2&px=400 "manually-trigger.png")
+{{< image alt="manually-trigger.png" src="images/blog/how-to-get-started-with-http-requests-in-power-automate/manually-trigger.png" >}}
 
 (Of course, we would do that later in a form, an app, or a bot, but for
 understanding the logic of HTTP requests in Power Automate I will keep
@@ -107,7 +107,7 @@ action into the flow:
 
 
 
-![methods.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254234iEC4719F668328375/image-size/medium?v=v2&px=400 "methods.png")
+{{< image alt="methods.png" src="images/blog/how-to-get-started-with-http-requests-in-power-automate/methods.png" >}}
 You can see a lot of fields in that HTTP action, so I will make you
 understand them.
 
@@ -148,7 +148,7 @@ If we now open the dropdown menu for the **Method** field in the HTTP
 action, we will see a representation of that:
 
 
-![methods.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254236i4C53D28502202A7E/image-size/medium?v=v2&px=400 "methods.png")
+{{< image alt="methods.png" src="images/blog/how-to-get-started-with-http-requests-in-power-automate/methods.png" >}}
 
 As we want to *create* a new tab in a channel, we will use **POST**.
 
@@ -198,7 +198,7 @@ Some remarks on that:
 In total, this looks like this:
 
 
-![http-without-auth.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254237i2C928068C970F40D/image-size/medium?v=v2&px=400 "http-without-auth.png")
+{{< image alt="http-without-auth.png" src="images/blog/how-to-get-started-with-http-requests-in-power-automate/http-without-auth.png" >}}
 
 #### Authentication in Azure AD 
 
@@ -253,7 +253,7 @@ App Secret.
 
  Our flow should look like this:
 
-![flow-total.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254238i2D3B97F3B9DD892F/image-size/medium?v=v2&px=400 "flow-total.png")
+{{< image alt="flow-total.png" src="images/blog/how-to-get-started-with-http-requests-in-power-automate/flow-total.png" >}}
 
 ## [](https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/#celebrate)Celebrate 
 
@@ -262,7 +262,7 @@ Teams:
 
 
 
-![channel-with-tab.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254239i56ABC04F06E6A807/image-size/medium?v=v2&px=400 "channel-with-tab.png")
+{{< image alt="channel-with-tab.png" src="images/blog/how-to-get-started-with-http-requests-in-power-automate/channel-with-tab.png" >}}
 
 
 we can spot our freshly created tab with the the content we wanted to

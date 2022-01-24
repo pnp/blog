@@ -1081,7 +1081,7 @@ role="img"}
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
-[![Appie.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270712i644BAC799E211F78/image-size/medium?v=v2&px=400 "Appie.png"){.lia-media-image
+{{< image alt="Appie.png" src="images/blog/microsoft-365-pnp-community-spotlight-albert-jan-schot/Appie.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270712i644BAC799E211F78?v=v2"
 li-image-display-id="'270712i644BAC799E211F78'"

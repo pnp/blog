@@ -17,7 +17,7 @@ To start building this experience, create a Microsoft form with the
 setting **Anyone can respond** and with fields (Name, Email address etc)
 to collect information from the external user to send invitation.
 
-## ![MSForm-ExternalUserdetails.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283744i5EE743018235BE28/image-size/large?v=v2&px=999 "MSForm-ExternalUserdetails.png") 
+## {{< image alt="MSForm-ExternalUserdetails.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails.png" >}} 
 
 ## Azure Active Directory Application registration: 
 
@@ -31,7 +31,7 @@ generate the JSON webtoken to access Microsoft Graph API for sending
 invitation. Find below screenshot with the permission User.Invite.All
 added to the app. Keep in mind the permission requires Admin consent.
 
-![AdApp-GraphPermissiontoInviteGuestUser.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283747iBFCAE7000FA85663/image-size/large?v=v2&px=999 "AdApp-GraphPermissiontoInviteGuestUser.png")
+{{< image alt="AdApp-GraphPermissiontoInviteGuestUser.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdApp-GraphPermissiontoInviteGuestUser.png" >}}
 
 There is also delegated permission available for User.Invite.All.
 
@@ -58,7 +58,7 @@ selected from the dynamic content for the trigger to get the form
 details submitted in the Microsoft form by the external user. Find
 screenshot below
 
-![MSFormTrigger-ExternalUser.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283749iE72C51E732F69B83/image-size/large?v=v2&px=999 "MSFormTrigger-ExternalUser.png")
+{{< image alt="MSFormTrigger-ExternalUser.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSFormTrigger-ExternalUser.png" >}}
 
 ## Adaptive card for Teams Approval: 
 
@@ -70,7 +70,7 @@ action by a Microsoft teams user to proceed with Invitation for the
 Guest account creation. Find screenshot below from the adaptive card
 designer
 
-![AdaptiveCard-DesignforApproval.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283751i05981D49C0025718/image-size/large?v=v2&px=999 "AdaptiveCard-DesignforApproval.png")
+{{< image alt="AdaptiveCard-DesignforApproval.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-DesignforApproval.png" >}}
 1.  After the card is designed, copy the card payload from the designer
     and go to the flow and then add the action **Post adaptive card and
     wait for a response** and make appropriate selection on the
@@ -84,9 +84,9 @@ designer
         formatDateTime(utcNow(),\'g\') to display the current datetime
         information on the card.
 
-![AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283832iE97C226E1847A51C/image-size/large?v=v2&px=999 "AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png")
+{{< image alt="AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png" >}}
 
-![AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283834i108906E5F5F321C1/image-size/large?v=v2&px=999 "AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png")
+{{< image alt="AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png" >}}
 
 -   **Update Message**: Custom message which appear after an action
     taken in Microsoft Teams
@@ -194,7 +194,7 @@ post adaptive card action and take an action on Microsoft teams by
 clicking either Approve or Reject and then go to the Flow run from the
 history as shown below
 
-![AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponseRunHistory.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283841i0F0F0D886B748997/image-size/large?v=v2&px=999 "AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponseRunHistory.png")
+{{< image alt="AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponseRunHistory.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponseRunHistory.png" >}}
 
 From the above screenshot, we can see if the user has clicked the
 Approve or Reject button from the field **submitActionId**. To get this
@@ -221,7 +221,7 @@ outputs(\'Post_adaptive_card_and_wait_for_a\_response\').body.submitActionId
 in the compose action, then add a condition control to decide action
 based on users approval
 
-![AdaptiveCard-cardactionoutput.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283843iEA966FE976A43528/image-size/large?v=v2&px=999 "AdaptiveCard-cardactionoutput.png")
+{{< image alt="AdaptiveCard-cardactionoutput.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-cardactionoutput.png" >}}
 
 I have observed this issue occurs in other team's adaptive card actions
 as well, the above fix should work. Now we can implement the logic to
@@ -268,7 +268,7 @@ For the client secret make sure to URL encode using the expression
 encodeUriComponent(variables('clientSecret')) else the request will fail
 due to the presence of special characters.
 
-![MSGraph-GenerateJSONWebToken.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283871i7259E97855CDF538/image-size/large?v=v2&px=999 "MSGraph-GenerateJSONWebToken.png")
+{{< image alt="MSGraph-GenerateJSONWebToken.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-GenerateJSONWebToken.png" >}}
 
 In the above screen, I have added a compose action to store the
 SharePoint site address to be used for granting the external user access
@@ -304,7 +304,7 @@ schema
 ```
  
 
-![MSGraph-ParseJSONWebToken.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283872i0847D6A0FE6B53E1/image-size/large?v=v2&px=999 "MSGraph-ParseJSONWebToken.png")
+{{< image alt="MSGraph-ParseJSONWebToken.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-ParseJSONWebToken.png" >}}
 
 Include the access token when calling the Microsoft Graph API on the
 Headers section or raw as shown in the next section.
@@ -315,7 +315,7 @@ Before sending the invitation, validate if the user already exists in
 your organization AD tenant by using the email address of the external
 user with the help of the action **Search for users** as shown below
 
-![SearchforexternalUser.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283873i5D856C72A794F8F8/image-size/large?v=v2&px=999 "SearchforexternalUser.png")
+{{< image alt="SearchforexternalUser.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/SearchforexternalUser.png" >}}
 If there is null response for the action **Search for users**, then the
 user does not exist. This can be calculated using the expression length
 and by passing the value as a parameter, if it is equals zero then the
@@ -357,7 +357,7 @@ user](https://docs.microsoft.com/en-us/graph/api/invitation-post?view=graph-rest
 ```
  
 
-![MSGraph-SendInvitationforExternaluser.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283874iB97155249F988658/image-size/large?v=v2&px=999 "MSGraph-SendInvitationforExternaluser.png")
+{{< image alt="MSGraph-SendInvitationforExternaluser.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-SendInvitationforExternaluser.png" >}}
 
 In HTTP request body, use the dynamic content of the form to populate
 the fields invitedUserDisplayName & Emailaddress. The invite redirectUri
@@ -411,7 +411,7 @@ Go back to the flow and add the action **Send an HTTP request to
 SharePoint** to call the above REST api. Find below the screenshot of
 the action
 
-![AddUsertoSharePointGroup.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283876i3A58AC17FEAE1E79/image-size/large?v=v2&px=999 "AddUsertoSharePointGroup.png")
+{{< image alt="AddUsertoSharePointGroup.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AddUsertoSharePointGroup.png" >}}
 
 The above action uses delegated permission, the user of the connection
 should have access to the SharePoint site. As of now, there is no Graph
@@ -426,7 +426,7 @@ for calling the REST API using the registered AD app.
 The whole flow can now be tested by submitting the form which sends the
 adaptive card on Teams first as shown below
 
-![AdaptiveCard-InTeamsChannel.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283877i2CAE3F5DAFF07A49/image-size/large?v=v2&px=999 "AdaptiveCard-InTeamsChannel.png")
+{{< image alt="AdaptiveCard-InTeamsChannel.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-InTeamsChannel.png" >}}
 
 After the card is approved, the invite is sent to the external user.
 After the external user accepts the invite, the user should be
@@ -449,7 +449,7 @@ the external user. To enable the setting login into the SharePoint admin
 center \> Policies \> Sharing \> Enable the checkbox Limit external
 sharing by domain \> Add domain
 
-![ExternalSharing-RestrictDomain.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283878i2BCE04FF59AD8213/image-size/large?v=v2&px=999 "ExternalSharing-RestrictDomain.png")
+{{< image alt="ExternalSharing-RestrictDomain.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/ExternalSharing-RestrictDomain.png" >}}
 
 # Onboard External users to a Microsoft Team: 
 
@@ -488,7 +488,7 @@ the external user which can be used in the Graph API request to add the
 member to a Team. **HTTP-SendGuestInvitation** is the name of the HTTP
 Action.
 
-![externalUserObjectId.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283882i30DB43DB52F61917/image-size/large?v=v2&px=999 "externalUserObjectId.png")
+{{< image alt="externalUserObjectId.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserObjectId.png" >}}
 
 ## Permission for the Azure AD App to add a member to a Microsoft Team: 
 
@@ -513,7 +513,7 @@ External sharing
 With this, the Power Automate flow should send the invitation as shown
 below to the external user.
 
-![externalUserInvitationEmail.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283883i12B00828DE4DB125/image-size/large?v=v2&px=999 "externalUserInvitationEmail.png")
+{{< image alt="externalUserInvitationEmail.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserInvitationEmail.png" >}}
 
 If it is for a Microsoft Team, the external user should be licensed for
 teams service to open it on their teams client. The same flow can be

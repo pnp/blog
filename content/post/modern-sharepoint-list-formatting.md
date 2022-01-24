@@ -1095,7 +1095,7 @@ list templates; I will cover them in one of the next blog posts.
 If you never heard anything about modern SharePoint list formatting,
 don\'t worry; I will guide you through this.
 
-# [![daniel-cheung-zky0BmMT5m8-unsplash.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254517i7399CDDCDFA2E390/image-size/medium?v=v2&px=400 "daniel-cheung-zky0BmMT5m8-unsplash.jpg"){.lia-media-image role="button" li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254517i7399CDDCDFA2E390?v=v2" li-image-display-id="'254517i7399CDDCDFA2E390'" li-message-uid="'2128544'" li-messages-message-image="true" li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false"}]{.lia-inline-image-display-wrapper .lia-image-align-inline image-alt="daniel-cheung-zky0BmMT5m8-unsplash.jpg" style="width: 400px;"} {#toc-hId-1270078959 style="font-family: SegoeUI, Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333333;"}
+# {{< image alt="daniel-cheung-zky0BmMT5m8-unsplash.jpg" src="images/blog/modern-sharepoint-list-formatting/daniel-cheung-zky0BmMT5m8-unsplash.jpg" >}}{.lia-media-image role="button" li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254517i7399CDDCDFA2E390?v=v2" li-image-display-id="'254517i7399CDDCDFA2E390'" li-message-uid="'2128544'" li-messages-message-image="true" li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false"}]{.lia-inline-image-display-wrapper .lia-image-align-inline image-alt="daniel-cheung-zky0BmMT5m8-unsplash.jpg" style="width: 400px;"} {#toc-hId-1270078959 style="font-family: SegoeUI, Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333333;"}
 
 ## [](https://github.com/LuiseFreese/blog/blob/main/sp-list-formatting.md#why-would-we-use-sharepoint-lists){#user-content-why-would-we-use-sharepoint-lists .anchor}Why would we use SharePoint lists {#toc-hId-1960640433}
 
@@ -1144,7 +1144,7 @@ like.
  
 :::
 
-[![list-formatting-create.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254498iA464ED494317B9E5/image-size/medium?v=v2&px=400 "list-formatting-create.png"){.lia-media-image
+{{< image alt="list-formatting-create.png" src="images/blog/modern-sharepoint-list-formatting/list-formatting-create.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254498iA464ED494317B9E5?v=v2"
 li-image-display-id="'254498iA464ED494317B9E5'"
@@ -1172,7 +1172,7 @@ style="width: 178px;"}
  
 :::
 
-[![list-formatting-formatgallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254503i5033B1D304502798/image-size/small?v=v2&px=200 "list-formatting-formatgallery.png"){.lia-media-image
+{{< image alt="list-formatting-formatgallery.png" src="images/blog/modern-sharepoint-list-formatting/list-formatting-formatgallery.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254503i5033B1D304502798?v=v2"
 li-image-display-id="'254503i5033B1D304502798'"
@@ -1191,7 +1191,7 @@ style="width: 200px;"}
  
 :::
 
-[![list-formatting-formatcolumns.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254506i7D10470EC583EE85/image-size/small?v=v2&px=200 "list-formatting-formatcolumns.png"){.lia-media-image
+{{< image alt="list-formatting-formatcolumns.png" src="images/blog/modern-sharepoint-list-formatting/list-formatting-formatcolumns.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254506i7D10470EC583EE85?v=v2"
 li-image-display-id="'254506i7D10470EC583EE85'"
@@ -1211,7 +1211,7 @@ style="width: 200px;"}
  
 :::
 
-[![list-formatting-formatrules.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254505i2348F2ED4C00D7FA/image-size/small?v=v2&px=200 "list-formatting-formatrules.png"){.lia-media-image
+{{< image alt="list-formatting-formatrules.png" src="images/blog/modern-sharepoint-list-formatting/list-formatting-formatrules.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254505i2348F2ED4C00D7FA?v=v2"
 li-image-display-id="'254505i2348F2ED4C00D7FA'"
@@ -1235,7 +1235,7 @@ how this looks like:
  
 :::
 
-[![list-formatting.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254507iC882E050F3EA60C6/image-size/large?v=v2&px=999 "list-formatting.gif"){.lia-media-image
+{{< image alt="list-formatting.gif" src="images/blog/modern-sharepoint-list-formatting/list-formatting.gif" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254507iC882E050F3EA60C6?v=v2"
 li-image-display-id="'254507iC882E050F3EA60C6'"
@@ -1258,7 +1258,7 @@ flexibility.
  
 :::
 
-[![whatif.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254508i0A296BD6A241F67B/image-size/small?v=v2&px=200 "whatif.jpg"){.lia-media-image
+{{< image alt="whatif.jpg" src="images/blog/modern-sharepoint-list-formatting/whatif.jpg" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254508i0A296BD6A241F67B?v=v2"
 li-image-display-id="'254508i0A296BD6A241F67B'"
@@ -1284,7 +1284,7 @@ play with!
  
 :::
 
-[![advanced-mode.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254512iCB5EFDB9A69125FD/image-size/medium?v=v2&px=400 "advanced-mode.png"){.lia-media-image
+{{< image alt="advanced-mode.png" src="images/blog/modern-sharepoint-list-formatting/advanced-mode.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254512iCB5EFDB9A69125FD?v=v2"
 li-image-display-id="'254512iCB5EFDB9A69125FD'"
@@ -1372,7 +1372,7 @@ style="width: 999px;"}
  
 :::
 
-[![formatsplist.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254515i2F73A41B3E866CB9/image-dimensions/728x377?v=v2 "formatsplist.gif"){.lia-media-image
+{{< image alt="formatsplist.gif" src="images/blog/modern-sharepoint-list-formatting/formatsplist.gif" >}}{.lia-media-image
 width="728" height="377" role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254515i2F73A41B3E866CB9?v=v2"
 li-image-display-id="'254515i2F73A41B3E866CB9'"
@@ -1400,7 +1400,7 @@ can hover over our images to have a big preview:
  
 :::
 
-[![listformat-pyod.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254516i5B0324341D132D4B/image-size/large?v=v2&px=999 "listformat-pyod.gif"){.lia-media-image
+{{< image alt="listformat-pyod.gif" src="images/blog/modern-sharepoint-list-formatting/listformat-pyod.gif" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254516i5B0324341D132D4B?v=v2"
 li-image-display-id="'254516i5B0324341D132D4B'"

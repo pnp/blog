@@ -921,7 +921,7 @@ By
 
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Microsoft}
-[![BrianTJackett](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275291iA2FE3A565A15B89B/image-dimensions/150x150/image-coordinates/0%2C0%2C250%2C250?v=v2 "BrianTJackett"){.lia-user-avatar-message
+{{< image alt="BrianTJackett" src="images/blog/microsoft-graph-community-call-may-2021/BrianTJackett.png" >}}{.lia-user-avatar-message
 .user-rank-ring .user-rank-ring style="border-color: #0078D4"
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/4556){.UserAvatar
 .lia-link-navigation}
@@ -968,7 +968,7 @@ AM]{.ba-published-date} [ 782 Views ]{.ba-view-count}
 ::: {.lia-message-author-avatar .lia-component-author-avatar .lia-component-message-view-widget-author-avatar}
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Microsoft}
-[![BrianTJackett](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275291iA2FE3A565A15B89B/image-dimensions/40x40/image-coordinates/0%2C0%2C250%2C250?v=v2 "BrianTJackett"){.lia-user-avatar-message
+{{< image alt="BrianTJackett" src="images/blog/microsoft-graph-community-call-may-2021/BrianTJackett.png" >}}{.lia-user-avatar-message
 .user-rank-ring .user-rank-ring style="border-color: #0078D4"
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/4556){.UserAvatar
 .lia-link-navigation}
@@ -1083,7 +1083,7 @@ alt="Message contains a video" aria-label="Contains a video" role="img"}
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
-[![TitleSlideThumbnail.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278787i35F88DE879CC446E/image-size/large?v=v2&px=999 "TitleSlideThumbnail.png"){.lia-media-image
+{{< image alt="TitleSlideThumbnail.png" src="images/blog/microsoft-graph-community-call-may-2021/TitleSlideThumbnail.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278787i35F88DE879CC446E?v=v2"
 li-image-display-id="'278787i35F88DE879CC446E'"
@@ -1375,7 +1375,7 @@ role="heading"}
 ::: {.UserProfileSummary .lia-user-item .lia-js-data-userId-4556 .lia-user-info-group}
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Microsoft}
-[![BrianTJackett](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275291iA2FE3A565A15B89B/image-dimensions/40x40/image-coordinates/0%2C0%2C250%2C250?v=v2 "BrianTJackett"){.lia-user-avatar-message
+{{< image alt="BrianTJackett" src="images/blog/microsoft-graph-community-call-may-2021/BrianTJackett.png" >}}{.lia-user-avatar-message
 .user-rank-ring .user-rank-ring style="border-color: #0078D4"
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/4556){.UserAvatar
 .lia-link-navigation}

@@ -10,7 +10,7 @@ the smallest image inline. What other options we have?
 Basically images are displayed in Adaptive Cards using "Image" element.
 In its properties you need to type the URL to an image:
  
-![image-5](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333309i4A8C06C760C1E90A/image-size/large?v=v2&px=999 "image-5")
+{{< image alt="image-5" src="images/blog/display-images-in-adaptive-cards/image-5.png" >}}
  
 **Important!** Image's URL must start with **https** and be a **direct
 link** to a file itself (ending up with jpg, png, tiff, etc...).
@@ -25,7 +25,7 @@ This can be done upfront, manually, using online services eg. [Base64
 Image Encoder](https://www.base64-image.de/). Or, using
 expression `dataUri(file content)` in Power Automate:
  
-![image-6](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333310i4B94DC2DBD3898CB/image-size/large?v=v2&px=999 "image-6")
+{{< image alt="image-6" src="images/blog/display-images-in-adaptive-cards/image-6.png" >}}
 
  
 What is returned, looks like the following
@@ -61,14 +61,14 @@ What other places can be used then?
 OneDrive cannot be used as a storage to host images, since even when we
 select to share an image with anyone:
  
-[![image-7](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333312i62B9998381D627EA/image-size/large?v=v2&px=999 "image-7")
+{{< image alt="image-7" src="images/blog/display-images-in-adaptive-cards/image-7.png" >}}
  
 [The generated link is still not a valid, absolute link to a file
 itself, but to a page that displays the image, so when you put it as a
 Url property, it won't display the
 image:]
  
-[![image-8](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333313i8C86937A27D7F9F1/image-size/large?v=v2&px=999 "image-8")
+{{< image alt="image-8" src="images/blog/display-images-in-adaptive-cards/image-8.png" >}}
  
 ## How to store images securely, but still display them in Adaptive Cards? 
 In such case you need to look for services that allow to secure contents
@@ -80,14 +80,14 @@ Let me show you how.
 
 
  
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333314i1A19AFF86E24FFE0/image-size/large?v=v2&px=999 "image-9")              
+{{< image alt="" src="images/blog/display-images-in-adaptive-cards/image-9.png" >}}              
 </div>
 1.  Once account is provisioned, open it and:
     1.  Navigate to Containers
     2.  Click to create new container
     3.  Provide its name and set its access to Private
  
-![image-10](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333315iCFCEFFF844E34913/image-size/large?v=v2&px=999 "image-10")
+{{< image alt="image-10" src="images/blog/display-images-in-adaptive-cards/image-10.png" >}}
  
 1.  Now upload image you would like to display in Adaptive Card:
     1.  Click the Upoad link
@@ -95,7 +95,7 @@ Let me show you how.
         per your choice
     3.  Finally after upload navigate to Shared access tokens page
  
-![image-11](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333316i0BE59E45094EE78C/image-size/large?v=v2&px=999 "image-11")
+{{< image alt="image-11" src="images/blog/display-images-in-adaptive-cards/image-11.png" >}}
  
 1.  And finally generate the SAS token, that you can append to the
     absolute image link to make it available for display.
@@ -107,17 +107,17 @@ Let me show you how.
     4.  Click to Generate SAS token and URL
     5.  Copy the SAS token
  
-![image-12](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333318i81C8A1328003F59F/image-size/large?v=v2&px=999 "image-12")
+{{< image alt="image-12" src="images/blog/display-images-in-adaptive-cards/image-12.png" >}}
  
 Now you're ready to navigate back to container contents, open file
 details, copy its path and append with SAS token:
  
-![image-13](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333320i5178730BC9623C47/image-size/large?v=v2&px=999 "image-13")
+{{< image alt="image-13" src="images/blog/display-images-in-adaptive-cards/image-13.png" >}}
  
 Then paste such URL back to Url property of Image element in Adaptive
 Card and voilla! There it is:
  
-![image-14](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333321i73468641867594B7/image-size/large?v=v2&px=999 "image-14")
+{{< image alt="image-14" src="images/blog/display-images-in-adaptive-cards/image-14.png" >}}
  
 I hope you will find this short tutorial useful. Please write down in
 comments what other providers you use to securely host images and access

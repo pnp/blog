@@ -1,6 +1,6 @@
 # Microsoft 365 Platform Call -- 19th of October, 2021
 
-![recording-19th-oct.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/318565iF3D25F7F25F17A43/image-size/large?v=v2&px=999 "recording-19th-oct.png")
+{{< image alt="recording-19th-oct.png" src="images/blog/microsoft-365-platform-call-19th-of-october-2021/recording-19th-oct.png" >}}
  
 
 Microsoft 365 Platform Community Call - weekly community call recording
@@ -115,7 +115,7 @@ takes place in chat throughout the call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211019-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/318566iBB8FE03D616508D1/image-size/large?v=v2&px=999 "211019-together-mode.gif")
+{{< image alt="211019-together-mode.gif" src="images/blog/microsoft-365-platform-call-19th-of-october-2021/211019-together-mode.gif" >}}
 Thank you everybody for being part of the call today and for being a
 member of this community.       
 **Demos** delivered in this session

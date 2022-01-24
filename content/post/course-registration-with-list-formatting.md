@@ -6,7 +6,7 @@ action within List formatting. This blog shows an example on how to use
 list formatting to create registration or sign-up formatting in a
 SharePoint list. 
 
-### ![51695169286_ae7588984b_c.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/340063iA9CDD4AB23EEA1B0/image-size/large?v=v2&px=999 "51695169286_ae7588984b_c.jpg")
+### {{< image alt="51695169286_ae7588984b_c.jpg" src="images/blog/course-registration-with-list-formatting/51695169286_ae7588984b_c.jpg" >}}
 
 ### Course Registration 
  
@@ -72,7 +72,7 @@ Disconnect-PnPOnline
 1\. Navigate to your newly created list and click Column settings \>
 Format this column.
  
-![51695571178_b626326204_c.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/340064i84281071052940AF/image-size/large?v=v2&px=999 "51695571178_b626326204_c.jpg")
+{{< image alt="51695571178_b626326204_c.jpg" src="images/blog/course-registration-with-list-formatting/51695571178_b626326204_c.jpg" >}}
  
 1. Insert the json below and click save.
  

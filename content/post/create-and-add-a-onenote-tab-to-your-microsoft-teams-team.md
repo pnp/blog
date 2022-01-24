@@ -5,7 +5,7 @@ channel in Microsoft Teams using Power Automate + Graph API. If you look
 at
 the [documentation ](https://docs.microsoft.com/en-us/graph/teams-configuring-builtin-tabs?WT.mc_id=M365-MVP-5003326)it
 shows you this:
-![image-13](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/257379iD5021BEECB9C4008/image-size/large?v=v2&px=999 "image-13")
+{{< image alt="image-13" src="images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-13.png" >}}
  
 Of course I never believed that but found earlier a way to hack OneNote
 into a channel as tab but also updated my methods when it became much
@@ -23,7 +23,7 @@ add OneNote book as a tab.
 3.  You need a team id and a channel id you want to put the OneNote book
     into as a tab
  
-![image-14](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/257380i5F8F4DDCA3B0BC72/image-size/large?v=v2&px=999 "image-14"){.lia-media-image
+{{< image alt="image-14" src="images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-14.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/257380i5F8F4DDCA3B0BC72?v=v2"
 li-image-display-id="'257380i5F8F4DDCA3B0BC72'"
@@ -37,7 +37,7 @@ quite simple -- I used the team name as part of the Notebook's name.
 Once you have created the notebook you need to parse the body for some
 important variabled.
  
-![image-16](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/257381i5F0FBFCED415B609/image-size/large?v=v2&px=999 "image-16")
+{{< image alt="image-16" src="images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-16.png" >}}
  
  
 I created the schema based on one creation body to retrieve essential
@@ -148,7 +148,7 @@ The final piece is to use this information to add OneNote as a tab to a
 channel. For this you need the notebook id, the channel id along with
 the team id.
  
-![image-18](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/257383i31444EFE3C71587F/image-size/large?v=v2&px=999 "image-18")
+{{< image alt="image-18" src="images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-18.png" >}}
  
  
  
@@ -156,14 +156,14 @@ I got the display name directly out of parsed JSON but you can rename
 the tab better.
 And that's that.
  
-![image-20](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/257385i8281AAF99D59FB52/image-size/large?v=v2&px=999 "image-20")
+{{< image alt="image-20" src="images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-20.png" >}}
  
 Of course we could take this further by adding new sections and pages to
 the OneNote -- or even content. But even as this is now this is very
 useful when doing a custom team provisioning. If you have premium
 licenses for Power Automate.
  
-![image-22](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/257386iE21FF7A2BDE57DB3/image-size/large?v=v2&px=999 "image-22")
+{{< image alt="image-22" src="images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-22.png" >}}
  
  
 **Instead of using Power Automate Premium this could be very well done

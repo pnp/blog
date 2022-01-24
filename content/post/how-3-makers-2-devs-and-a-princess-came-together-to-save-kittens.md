@@ -1,7 +1,7 @@
 # How 3 makers, 2 devs and a princess came together to save kittens for a hackathon
 
 
-![solution-overview.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319468iD5F7EB047AA17964/image-size/large?v=v2&px=999 "solution-overview.png")
+{{< image alt="solution-overview.png" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/solution-overview.png" >}}
 
  
 ## The Story (Michael) 
@@ -19,7 +19,7 @@ homepage](https://Flic.io/ "Flic homepage") to learn more.
 
 
 
-![PetrolPushTitle.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319470i0F180A726FC4B81C/image-size/large?v=v2&px=999 "PetrolPushTitle.png")
+{{< image alt="PetrolPushTitle.png" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/PetrolPushTitle.png" >}}
 
  
 Meet Petrol Push. A modern day organization that has a clear mission:
@@ -263,7 +263,7 @@ pane of the map. Four fields are shown on the info card:
 
 This can be seen on the below screenshot.
 
-![App-MapFields.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319476iC32E7F0A0181BA18/image-size/large?v=v2&px=999 "App-MapFields.png")
+{{< image alt="App-MapFields.png" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/App-MapFields.png" >}}
 
 
 The resulting app shows a map with all identified gas stations and their
@@ -271,7 +271,7 @@ last known status, indicated with the color of the pin. Selecting a
 specific gas station provides the user with more information on that
 station.
 
-![App-Details.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319477i561A0D1A159072D3/image-size/large?v=v2&px=999 "App-Details.png")
+{{< image alt="App-Details.png" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/App-Details.png" >}}
 
 
 ## We need a real map - The custom connector to Azure Maps (Lee) 

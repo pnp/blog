@@ -1,6 +1,6 @@
 # Microsoft 365 Platform Call -- 7th of December, 2021
 
-![recording-7th-dec.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/332430i0759A358AB076B61/image-size/large?v=v2&px=999 "recording-7th-dec.png")
+{{< image alt="recording-7th-dec.png" src="images/blog/microsoft-365-platform-call-7th-of-december-2021/recording-7th-dec.png" >}}
 Microsoft 365 Platform Community Call - weekly community call recording
 from December 7th, is now available from the Microsoft 365 Community
 YouTube channel
@@ -82,7 +82,7 @@ live at end of the call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211207-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/332431i8096D84275D3F10E/image-size/large?v=v2&px=999 "211207-together-mode.gif")
+{{< image alt="211207-together-mode.gif" src="images/blog/microsoft-365-platform-call-7th-of-december-2021/211207-together-mode.gif" >}}
 
 Thank you for joining the call today including many who are presently at
 the Microsoft 365 Collaboration Conference in Las Vegas this week! 

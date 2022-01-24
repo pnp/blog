@@ -9,7 +9,7 @@ Adopted Technology**. It seems a lot of developers like this framework.
 Based on my experience, this framework can help us rapidly build UI by
 reducing complexity when styling the UI.
 
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277241iDC0EFE176EA24C94/image-size/large?v=v2&px=999 "State of CSS 2020 Survey.png")
+{{< image alt="" src="images/blog/how-to-set-up-tailwind-css-in-a-spfx-project/State of CSS 2020 Survey.png" >}}
 
 In this article, I will share my setup to use the Tailwind CSS in a
 SharePoint Framework (SPFx) project.
@@ -124,4 +124,4 @@ Now you can use Tailwind CSS utilities in your SPFx project.
 You might be familiar with the below result except it's not using styles
 from the 74-lines scss/css file anymore.
 
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277243i1E0124ACF6E7E0CE/image-size/large?v=v2&px=999 "REsult.png")
+{{< image alt="" src="images/blog/how-to-set-up-tailwind-css-in-a-spfx-project/REsult.png" >}}

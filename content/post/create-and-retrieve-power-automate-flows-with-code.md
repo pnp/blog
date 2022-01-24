@@ -33,7 +33,7 @@ Because flows under the 'My Flows' tab [are not currently
 supported](https://docs.microsoft.com/en-us/power-automate/web-api) by Power Automate web API's, you will need to
 interact with all programmatic flows via the 'Solutions' tab. 
 
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300000iDC20513EBBF99738/image-size/large?v=v2&px=999 "Tracy_1-1627940128961.png")
+{{< image alt="" src="images/blog/create-and-retrieve-power-automate-flows-with-code/Tracy_1-1627940128961.png" >}}
  
 **\*\*Note: I have only been able to programmatically create/access
 flows within the Default Solution for a relevant [Dataverse

@@ -43,7 +43,7 @@ Please also not, that you can now find a **bin** folder in the local
 folder you extracted the PowerApps Language Toolkit to. In this
 **bin** folder, you will find a **Debug** folder and inside of the
 **Debug** folder you will find a **PASopa** folder.
-![PASopa-folder.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277010iF426272EB0CD5C95/image-size/large?v=v2&px=999 "PASopa-folder.png")
+{{< image alt="PASopa-folder.png" src="images/blog/how-to-get-source-code-files-for-power-apps-canvas-apps/PASopa-folder.png" >}}
 
 ## **Download the .msapp file** 
 

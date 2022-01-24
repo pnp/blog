@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 19th of August, 2021
 
-![recording-august-19th.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304567i3C19CAB6643C6ABC/image-size/large?v=v2&px=999 "recording-august-19th.png")
+{{< image alt="recording-august-19th.png" src="images/blog/microsoft-365-developer-community-call-recording-19th-of-august/recording-august-19th.png" >}}
  
 
 **Call Summary**
@@ -115,7 +115,7 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
     set](https://pnp.github.io/script-samples/spo-import-taxonomy-terms-labels/README.html?tabs=pnpps)**
     -- [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \|
     \@ReshmeeAuckloo
-![210819-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304568iCF7578AA6C1B2F62/image-size/large?v=v2&px=999 "210819-together-mode.gif")
+{{< image alt="210819-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-19th-of-august/210819-together-mode.gif" >}}
 
 Hopefully by the end of this year we will finally have the opportunity
 to meet face-to-face, that would be awesome.

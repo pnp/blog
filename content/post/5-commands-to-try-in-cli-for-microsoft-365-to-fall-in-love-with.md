@@ -41,7 +41,7 @@ Run `m365 pa app list`
 which will get you exactly that list - with internal names and display
 names:
 
-![list-pa.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262837iE2858997CB7144CC/image-size/large?v=v2&px=999 "list-pa.png")
+{{< image alt="list-pa.png" src="images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-pa.png" >}}
 
 ## Get an overview of custom connectors in an environment
 
@@ -59,7 +59,7 @@ App running in this environment, or you can copy it
 from [portal.azure.com](https://portal.azure.com/), where you will find
 it in Azure Active Directory as **Tenant ID**.
 
-![url-powerapps.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262839i8129676977647115/image-size/large?v=v2&px=999 "url-powerapps.png")
+{{< image alt="url-powerapps.png" src="images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/url-powerapps.png" >}}
 
 -   Copy this Tenant ID
 -   Replace `<name of your default environment>` with this Tenant ID
@@ -76,7 +76,7 @@ want to query.
 
 The response will be something like this:
 
-[![list-spo-users.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262840iD6507136F68539A9/image-size/large?v=v2&px=999 "list-spo-users.png")
+{{< image alt="list-spo-users.png" src="images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-spo-users.png" >}}
 
 ## Get a list of external users
 
@@ -87,7 +87,7 @@ created. You can also obtain the ID of users.
 
 Run `m365 spo externaluser list`,
 
-[![list-external.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262841i93AF39D5455BF918/image-size/large?v=v2&px=999 "list-external.png")
+{{< image alt="list-external.png" src="images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-external.png" >}}
 
 ## remove users
 

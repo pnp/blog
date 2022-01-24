@@ -1086,7 +1086,7 @@ alt="Message contains a video" aria-label="Contains a video" role="img"}
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
-[![Thumb-Ep132.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310166i15563D789F175EF6/image-size/large?v=v2&px=999 "Thumb-Ep132.png"){.lia-media-image
+{{< image alt="Thumb-Ep132.png" src="images/blog/microsoft-365-pnp-weekly-episode-134-marc-d-anderson-sympraxis/Thumb-Ep132.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310166i15563D789F175EF6?v=v2"
 li-image-display-id="'310166i15563D789F175EF6'"

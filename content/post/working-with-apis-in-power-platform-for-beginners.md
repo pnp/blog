@@ -52,7 +52,7 @@ will need a\...
 - Headers
 - and a body
 
-![HTTPrequest.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339809iD45171C0EF584DC4/image-size/large?v=v2&px=999 "HTTPrequest.png")
+{{< image alt="HTTPrequest.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/HTTPrequest.png" >}}
 
 ### Method
 
@@ -78,20 +78,20 @@ not only that, we will also need the **endpoint**. This is something
 like the direct call, putting you to that exact point that you want.
 Usually an API will tell you how the endpoint looks:
 
-![api-math-tool.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339810iEBB96577124F3515/image-size/large?v=v2&px=999 "api-math-tool.png")
+{{< image alt="api-math-tool.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/api-math-tool.png" >}}
 
 The endpoint of the website MathTOOLS is \`<https://api.math.tools>\`,
 but if we read carefully (I usually struggle with that), we get more details for the API of the number
 of the day:
 
-![api-nr-of-day.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339811iA822693302DE9864/image-size/large?v=v2&px=999 "api-nr-of-day.png")
+{{< image alt="api-nr-of-day.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/api-nr-of-day.png" >}}
 
 The endpoint for the number of the day is
 \`<https://api.math.tools/numbers/nod>\`. The API documentation even
 provides us with the information of how the HTTP response will look
 like:
 
-![JSON-nod.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339813i58B7E4C6895D8E9F/image-size/large?v=v2&px=999 "JSON-nod.png")
+{{< image alt="JSON-nod.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod.png" >}}
 
 It\'s a very long JSON object (if you want to get started with JSON, I
 recommend the amazing blog from Bob German [Introduction to
@@ -102,16 +102,16 @@ Method, we know the URL and we know that we don\'t need any
 authentication. That means we can fill out all mandatory fields in that
 flow action and it looks like this:
 
-![HTTP-flow-step.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339812i58567547D4B603C8/image-size/large?v=v2&px=999 "HTTP-flow-step.png")
+{{< image alt="HTTP-flow-step.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-step.png" >}}
 
 Let\'s run this flow on a daily basis and see what the result looks
 like:
 
-![HTTP-flow-run-successfull.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339814iD977C717F7196E15/image-size/large?v=v2&px=999 "HTTP-flow-run-successfull.png")
+{{< image alt="HTTP-flow-run-successfull.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-run-successfull.png" >}}
 
 (Since you can hardly see the result, I paste the body here once again)
 
-![HTTP-flow-result.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339815i6182156AAFFF3BBD/image-size/large?v=v2&px=999 "HTTP-flow-result.png")
+{{< image alt="HTTP-flow-result.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-result.png" >}}
 
 And that\'s it, we used an **HTTP request** to **GET** information from
 a **API**. Now for the last part of this blog, we want to use some
@@ -144,7 +144,7 @@ recognized as a \"text\")
 **Value**: Here we want to define the value of this variable. In our
 case that means that particular information from this long JSON object.
 
-![JSON-value.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339816i628DAE5CE3166704/image-size/large?v=v2&px=999 "JSON-value.png")
+{{< image alt="JSON-value.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/JSON-value.png" >}}
 
 We want the value of the property \"number\"
 
@@ -153,13 +153,13 @@ have the objects \"success\", \"copyright\" and \"content\". The object
 \"content\" contains an object called \"nod\", which contains two more
 objects called \"category\" and \"numbers\".
 
-![JSON-objects.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339817iEA76F4E13069F5A3/image-size/large?v=v2&px=999 "JSON-objects.png")
+{{< image alt="JSON-objects.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/JSON-objects.png" >}}
 
 As stated earlier, we want the value of the property \"number\", which
 is located in the object \"numbers\" (which is part of the object
 \"nod\", which is part of the object \"content\").
 
-![JSON-nod-value.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339818iCC15BF25D8CC96A0/image-size/large?v=v2&px=999 "JSON-nod-value.png")
+{{< image alt="JSON-nod-value.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod-value.png" >}}
 
 Now we can tell our variable in Power Automate the exact location of the
 value we want to use in this variable. The expression to \"navigate\" to
@@ -176,7 +176,7 @@ Now you can build in the variable in a \"Post message in a chat or
 channel\" action as dynamic content in Flow and it will always show the
 value of the property of that JSON object.
 
-![Teams-message.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339819i3FF2E94D821DBF21/image-size/large?v=v2&px=999 "Teams-message.png")
+{{< image alt="Teams-message.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/Teams-message.png" >}}
 
 That\'s it. That is how you call an API, get a JSON object back and use
 certain values from that object in Power Automate. I hope you liked it

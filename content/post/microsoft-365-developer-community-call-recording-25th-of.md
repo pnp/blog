@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 25th of November, 2021
 
-![recording-25th-nov.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329478i208696436105E315/image-size/large?v=v2&px=999 "recording-25th-nov.png")
+{{< image alt="recording-25th-nov.png" src="images/blog/microsoft-365-developer-community-call-recording-25th-of/recording-25th-nov.png" >}}
 
 **Call Summary**
 
@@ -132,7 +132,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -- Fabulous!
 **Together Mode!**
-![211125-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329482i8B27286E83CBECCF/image-size/large?v=v2&px=999 "211125-together-mode.gif")
+{{< image alt="211125-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-25th-of/211125-together-mode.gif" >}}
 Great seeing everyone today. See you at the [European Collaboration and
 Cloud Summit](https://collabsummit.eu/) in Düsseldorf, Germany or
 perhaps at the [Microsoft 365 Collaboration

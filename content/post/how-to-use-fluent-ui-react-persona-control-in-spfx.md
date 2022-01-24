@@ -12,7 +12,7 @@ We will create an SPFx web part in the way to fetch users from any
 specific group and render these users using a persona. so let\'s see
 step-by-step implementation.
 In the end, our output will be like this,
-![Output.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/286246i238B2956F1E85171/image-size/large?v=v2&px=999 "Output.png")
+{{< image alt="Output.png" src="images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png" >}}
 
 ## Implementation   
 
@@ -268,7 +268,7 @@ Now test the webpart in SharePoint-SiteURL +
 
 ## Output 
 
-![Output.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287813iB1FABBA98F6A0A91/image-size/large?v=v2&px=999 "Output.png")
+{{< image alt="Output.png" src="images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png" >}}
  
 
 Find the full source code

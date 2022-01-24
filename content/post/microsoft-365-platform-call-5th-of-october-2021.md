@@ -1,5 +1,5 @@
 # Microsoft 365 Platform Call -- 5th of October, 2021
-![recording-5th-oct.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/315486i170DE8490FA33A60/image-size/large?v=v2&px=999 "recording-5th-oct.png")\
+{{< image alt="recording-5th-oct.png" src="images/blog/microsoft-365-platform-call-5th-of-october-2021/recording-5th-oct.png" >}}\
 Microsoft 365 Platform Community Call - weekly community call recording
 from October 5th, is now available from the Microsoft 365 Community
 YouTube channel
@@ -89,7 +89,7 @@ place in chat throughout the call.
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211005-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/315487i62BCAA50CC14CDD9/image-size/large?v=v2&px=999 "211005-together-mode.gif")
+{{< image alt="211005-together-mode.gif" src="images/blog/microsoft-365-platform-call-5th-of-october-2021/211005-together-mode.gif" >}}
 An absolutely packed house today.  Great seeing everyone.    
 **Demos** delivered in this session
 

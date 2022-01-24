@@ -74,7 +74,7 @@ call.
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![210831-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307149i82054BC98C96064C/image-size/large?v=v2&px=999 "210831-together-mode.gif")
+{{< image alt="210831-together-mode.gif" src="images/blog/microsoft-365-platform-call-31st-of-august-2021/210831-together-mode.gif" >}}
 
 Thank you for your continued contributions of your time and talent to
 the betterment of this community.  Stay well.  See you soon.  

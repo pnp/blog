@@ -1,7 +1,7 @@
 # Microsoft 365 Platform Call -- 2nd of November, 2021 - Microsoft Ignite 2021 watch party
 
 
-![recording-2nd-nov.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/323516i2EB1FB5C39C251CC/image-size/large?v=v2&px=999 "recording-2nd-nov.png")
+{{< image alt="recording-2nd-nov.png" src="images/blog/microsoft-365-platform-call-2nd-of-november-2021-microsoft/recording-2nd-nov.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from November 2nd, is now available from the Microsoft 365 Community
@@ -98,7 +98,7 @@ place in chat throughout the call   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211102-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/323519i38894535D181532A/image-size/large?v=v2&px=999 "211102-together-mode.gif")
+{{< image alt="211102-together-mode.gif" src="images/blog/microsoft-365-platform-call-2nd-of-november-2021-microsoft/211102-together-mode.gif" >}}
 Here we in a large, but comfortably intimate expo hall at Microsoft
 Ignite 2021!  Thank you for taking the time to join us today.  Hope you
 have a great event.    

@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 6th of January, 2021
 
-![recording-6th-jan.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337786iF8939177195C6968/image-size/large?v=v2&px=999 "recording-6th-jan.png")
+{{< image alt="recording-6th-jan.png" src="images/blog/microsoft-365-developer-community-call-recording-6th-of-january/recording-6th-jan.png" >}}
 
 **Call Summary**
 
@@ -112,7 +112,7 @@ Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-s
 -- aka.ms/script-samples/getting-started
 -- Many thanks!
 **Together Mode!**
-![220106-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337841iF24DAB5F8ED2A1FE/image-size/large?v=v2&px=999 "220106-together-mode.gif"){.lia-media-image
+{{< image alt="220106-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-6th-of-january/220106-together-mode.gif" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337841iF24DAB5F8ED2A1FE?v=v2"
 li-image-display-id="'337841iF24DAB5F8ED2A1FE'"

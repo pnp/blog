@@ -7,7 +7,7 @@ Have you ever heard this from a client or colleague?
 > \"I have a list of data on this one site that I need to move to
 > another site.\"
 > 
-![sad-mario.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/268845iC7F4B8A766776878/image-size/large?v=v2&px=999 "sad-mario.png")
+{{< image alt="sad-mario.png" src="images/blog/copy-a-list-with-list-items-to-another-site/sad-mario.png" >}}
  
 Just a simple list of data that they want moved from **Site A** to
 **Site B**. For such a simple request, the solution has, historically,
@@ -96,4 +96,4 @@ Invoke-PnPSiteTemplate -Path Lists.xml
 Now you\'ve got your list(s), complete with data, copied over to another
 site. All that\'s left to do is get rid of the old one, if necessary.
 
-![you-win.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/268844i45293B9FF32CD4E9/image-size/large?v=v2&px=999 "you-win.jpg")
+{{< image alt="you-win.jpg" src="images/blog/copy-a-list-with-list-items-to-another-site/you-win.jpg" >}}

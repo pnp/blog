@@ -17,7 +17,7 @@ object available through the user properties in Graph:
 This gives us a response in the following format, and those details are
 available (sample test using Graph Explorer):
 
-![01_Mysettings.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317868i0DB9879A0906C3B5/image-size/large?v=v2&px=999 "01_Mysettings.PNG")
+{{< image alt="01_Mysettings.PNG" src="images/blog/getting-the-working-hours-time-zones-for-other-users-using/01_Mysettings.PNG" >}}
 
 However, using delegated permissions, the current user can only access
 their own settings.
@@ -25,7 +25,7 @@ If I try to access the same information for another user \'Carlos\'
 under the tenant, the access will be denied, even with all related
 permissions granted to the current app:
 
-![02_OtherUsers.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317869i528179B823E6FC8B/image-size/large?v=v2&px=999 "02_OtherUsers.PNG")
+{{< image alt="02_OtherUsers.PNG" src="images/blog/getting-the-working-hours-time-zones-for-other-users-using/02_OtherUsers.PNG" >}}
 
 Most of the operations that access Exchange Online with delegated
 permission will work only for the current user\'s data.
@@ -45,7 +45,7 @@ graph endpoints:
 And use the request body in the following format (use an array of a
 single user email address if you want to retrieve only one user):
 
-![03_CarlosPostBody.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317870i80D7D671043C23A2/image-size/large?v=v2&px=999 "03_CarlosPostBody.PNG")
+{{< image alt="03_CarlosPostBody.PNG" src="images/blog/getting-the-working-hours-time-zones-for-other-users-using/03_CarlosPostBody.PNG" >}}
 
 Simply check for a user's schedule and the working hours will be
 returned together with the schedule. You can use any valid dates/time
@@ -57,7 +57,7 @@ the query wouldn\'t bring any schedule items info.
 In the response to the query mentioned above, no schedule item is
 returned but the working hours property is still correctly provided:
 
-![04_CarlosResponseBody.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317871i540A3DB7E51425A4/image-size/large?v=v2&px=999 "04_CarlosResponseBody.PNG")
+{{< image alt="04_CarlosResponseBody.PNG" src="images/blog/getting-the-working-hours-time-zones-for-other-users-using/04_CarlosResponseBody.PNG" >}}
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # CLI for Microsoft 365 v3.11
 
-## ![CLI for Microsoft 365 v3.11](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292756i6B799E7AC3C5B850/image-size/large?v=v2&px=999 "banner-cli-m365.png")
+## {{< image alt="CLI for Microsoft 365 v3.11" src="images/blog/cli-for-microsoft-365-v3-11/banner-cli-m365.png" >}}
  
 [Manage Microsoft 365 and SharePoint Framework projects on any
 platform]{style="color: inherit; font-size: 24px;"}

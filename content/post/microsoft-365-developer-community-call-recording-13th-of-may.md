@@ -2,7 +2,7 @@
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from May 13, 2021.
-![recording-may-13th-call.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280722iC1E5F3C1025FA173/image-size/large?v=v2&px=999 "recording-may-13th-call.png")
+{{< image alt="recording-may-13th-call.png" src="images/blog/microsoft-365-developer-community-call-recording-13th-of-may/recording-may-13th-call.png" >}}
 **Call Summary**
 
 Latest news from Microsoft 365 engineering and updates on open-source
@@ -66,7 +66,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     -** [Sébastien Levert](http://twitter.com/sebastienlevert)
     (Microsoft) \|
     [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766)
-![PnPCall-May13th-Small.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280751iBE805EADDF5CB097/image-size/large?v=v2&px=999 "PnPCall-May13th-Small.gif")
+{{< image alt="PnPCall-May13th-Small.gif" src="images/blog/microsoft-365-developer-community-call-recording-13th-of-may/PnPCall-May13th-Small.gif" >}}
 Great to see all the faces in the community.  Hopefully soon we will get
 to see each other in person.   
 **Demos** delivered in this session

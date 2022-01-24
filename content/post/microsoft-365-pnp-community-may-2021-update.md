@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Community -- May 2021 update
 
-![may-pnp-summary-available.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279796i0735DEC878BFB6DB/image-size/large?v=v2&px=999 "may-pnp-summary-available.png")
+{{< image alt="may-pnp-summary-available.png" src="images/blog/microsoft-365-pnp-community-may-2021-update/may-pnp-summary-available.png" >}}
 Microsoft 365 Patterns and Practices (PnP) Community April 2021 update
 is out with a summary of the latest guidance, samples, and solutions
 from Microsoft or from the community for the community. This article is
@@ -567,7 +567,7 @@ specific tool policies.
 Please see the specifics on the supportability on the tool, SDK or 
 component repository or download page.
 ## Microsoft 365 PnP team model 
-![pnp-community-model.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261738iE62C2523C7D5399F/image-size/large?v=v2&px=999 "pnp-community-model.png")
+{{< image alt="pnp-community-model.png" src="images/blog/microsoft-365-pnp-community-may-2021-update/pnp-community-model.png" >}}
 In April 2020 we announced our new [Microsoft 365 PnP team
 model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 and grew the MVP team quite significantly. PnP model exists for having
@@ -615,7 +615,7 @@ MVPs.
 
 ### Microsoft Graph Toolkit 
 
-![graph-toolkit.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261739iA57BB73461170C2E/image-size/large?v=v2&px=999 "graph-toolkit.jpg")
+{{< image alt="graph-toolkit.jpg" src="images/blog/microsoft-365-pnp-community-may-2021-update/graph-toolkit.jpg" >}}
 
 Microsoft Graph Toolkit is engineering lead initiative, which works
 closely with the community on the open-source areas. The Microsoft Graph
@@ -638,7 +638,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented
 in our bi-weekly Microsoft 365 Generic Dev community call, including the
 latest community contributors.
 ### Microsoft 365 Community docs 
-![community-dcos.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369/image-size/large?v=v2&px=999 "community-dcos.png"){.lia-media-image
+{{< image alt="community-dcos.png" src="images/blog/microsoft-365-pnp-community-may-2021-update/community-dcos.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369?v=v2"
 li-image-display-id="'261740i45A51B070D635369'"
@@ -685,7 +685,7 @@ detailed.
 
 ### SharePoint Framework development samples 
 
-![spfx-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261742i96F265E42A76DB51/image-size/large?v=v2&px=999 "spfx-gallery.png")
+{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-may-2021-update/spfx-gallery.png" >}}
 
 These are the updated SharePoint Framework samples which are available
 from the the different repositories.
@@ -718,7 +718,7 @@ solutions which work in Microsoft Teams
 -   Web Part sample gallery - <http://aka.ms/spfx-webparts>
 -   Extensions sample gallery - <http://aka.ms/spfx-extensions>
 ### Microsoft Teams community samples 
-![teams-samples-promo.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261745i9E77F4A84CE0145E/image-size/large?v=v2&px=999 "teams-samples-promo.jpg")
+{{< image alt="teams-samples-promo.jpg" src="images/blog/microsoft-365-pnp-community-may-2021-update/teams-samples-promo.jpg" >}}
 
 These are samples which have been contributed on the community samples
 since last summary. We do welcome all Microsoft Teams samples to this
@@ -749,7 +749,7 @@ and community samples.
 
 ### Power Platform samples 
 
-![power-platform-samples.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279633i788F8D894CE8B615/image-size/large?v=v2&px=999 "power-platform-samples.png")
+{{< image alt="power-platform-samples.png" src="images/blog/microsoft-365-pnp-community-may-2021-update/power-platform-samples.png" >}}
 
 \
 These are the updated Power Platform samples which are available from
@@ -838,7 +838,7 @@ Platform sample gallery.
 -   Power Platform sample gallery
     - <https://aka.ms/powerplatform-samples>
 ### Sharing is Caring initiative 
-![sharing-is-caring-promo-1024x576.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261747i39E00EA5029AD282/image-size/large?v=v2&px=999 "sharing-is-caring-promo-1024x576.png")
+{{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-may-2021-update/sharing-is-caring-promo-1024x576.png" >}}
 
 The \"Sharing Is Caring\" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
@@ -1566,7 +1566,7 @@ contributed from other companies during last month, but we did not get
 their logos and approval to show them in time for these communications.
 If you still want your logo for this month\'s release, please let us
 know and share the logo with us. Thx.
-![may-2021-compaies.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279797i53A9751FE1E53255/image-size/large?v=v2&px=999 "may-2021-compaies.png")
+{{< image alt="may-2021-compaies.png" src="images/blog/microsoft-365-pnp-community-may-2021-update/may-2021-compaies.png" >}}
 
 **Microsoft people:** Here's the list of Microsoft people who have been
 closely involved with the PnP work during last month.

@@ -11,7 +11,7 @@ it's time to create the first PnP search page.
 
 The first step is to create an empty page, where you'll add the PnP web
 parts. Go to any of your modern sites, and create a new page:
-![pnp-modern-search-page-01-new-page-1024x412](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298687iF74A57C4A3372019/image-size/large?v=v2&px=999 "pnp-modern-search-page-01-new-page-1024x412")
+{{< image alt="pnp-modern-search-page-01-new-page-1024x412" src="images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-01-new-page-1024x412.png" >}}
  
 
 ## 2 -- Add the PnP web parts 
@@ -19,7 +19,7 @@ parts. Go to any of your modern sites, and create a new page:
 The next step is to add the PnP web parts to your page. The package,
 that you've deployed, adds the following web parts available on your
 modern pages:
-![pnp-modern-search-page-02-web-parts](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298688iA6AAE54F025A1AD5/image-size/medium?v=v2&px=400 "pnp-modern-search-page-02-web-parts")
+{{< image alt="pnp-modern-search-page-02-web-parts" src="images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-02-web-parts.png" >}}
 
 You can get to these web parts when search for "PnP" or "search" in the
 web part gallery:
@@ -28,7 +28,7 @@ web part gallery:
 2.  PnP Search Results
 3.  PnP Search Filters
 4.  PnP Search Verticals
-![pnp-modern-search-page-03-web-parts-example-1024x686](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298689i03C4AF25769623B8/image-size/large?v=v2&px=999 "pnp-modern-search-page-03-web-parts-example-1024x686")
+{{< image alt="pnp-modern-search-page-03-web-parts-example-1024x686" src="images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-03-web-parts-example-1024x686.png" >}}
 On a very simple search page, we have at least two web parts: a search
 box and a search results web part.
 
@@ -36,7 +36,7 @@ box and a search results web part.
 
 You simply add a Search Box to the page by choosing "PnP Search Box" web
 part. At this point, you don't have to do any further configuration.
-![pnp-modern-search-page-04-search-box-web-part](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298690i40190059668FD435/image-size/large?v=v2&px=999 "pnp-modern-search-page-04-search-box-web-part")
+{{< image alt="pnp-modern-search-page-04-search-box-web-part" src="images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-04-search-box-web-part.png" >}}
 
 ### Search Results Web Part 
 
@@ -54,10 +54,10 @@ following these steps:
 6.  Select "PnP -- Search Box" in the "Connect to source" dropdown.
 7.  Select "Search query" in the "PnP -- Search Box's properties"
     dropdown.
-![pnp-modern-search-page-05-search-results-web-part-properties](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298691i7F33281C0C5ECFE3/image-size/medium?v=v2&px=400 "pnp-modern-search-page-05-search-results-web-part-properties")
+{{< image alt="pnp-modern-search-page-05-search-results-web-part-properties" src="images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-05-search-results-web-part-properties.png" >}}
 
 Once done, save the page and enjoy your very first search page!
-![pnp-modern-search-page-06-search-page-101](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298692i21BB76583CD75EEE/image-size/large?v=v2&px=999 "pnp-modern-search-page-06-search-page-101")
+{{< image alt="pnp-modern-search-page-06-search-page-101" src="images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-06-search-page-101.png" >}}
 
 *This article was originally posted on [Search Explained
 Blog](https://searchexplained.com/deploy-pnp-modern-search-web-parts-sharepoint-online/).*

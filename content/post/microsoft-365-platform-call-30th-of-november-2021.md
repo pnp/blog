@@ -1,7 +1,7 @@
 # Microsoft 365 Platform Call -- 30th of November, 2021
 
 
-![recording-30th-nov-platform.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330713i3C0CF1327223B3D2/image-size/large?v=v2&px=999 "recording-30th-nov-platform.png")
+{{< image alt="recording-30th-nov-platform.png" src="images/blog/microsoft-365-platform-call-30th-of-november-2021/recording-30th-nov-platform.png" >}}
  
 
 Microsoft 365 Platform Community Call - weekly community call recording
@@ -78,7 +78,7 @@ place in chat throughout the call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![PnP-Calls-TogetherMode-500w-Trimmed.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/330725i82A06F51ED226609/image-size/large?v=v2&px=999 "PnP-Calls-TogetherMode-500w-Trimmed.gif")
+{{< image alt="PnP-Calls-TogetherMode-500w-Trimmed.gif" src="images/blog/microsoft-365-platform-call-30th-of-november-2021/PnP-Calls-TogetherMode-500w-Trimmed.gif" >}}
 
 It\'s great to see everyone today.  Some of you are joining from the
 European Collaboration Summit in *Düsseldorf*, Germany!

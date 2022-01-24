@@ -1090,7 +1090,7 @@ Recording of the Microsoft Teams monthly community call from April 20,
 
  
 
-[![teams-monthly-20th-april-recording.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/274417i976D15A760B00350/image-size/large?v=v2&px=999 "teams-monthly-20th-april-recording.png"){.lia-media-image
+{{< image alt="teams-monthly-20th-april-recording.png" src="images/blog/microsoft-teams-community-call-april-2021/teams-monthly-20th-april-recording.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/274417i976D15A760B00350?v=v2"
 li-image-display-id="'274417i976D15A760B00350'"
@@ -1181,7 +1181,7 @@ Samples:  **(<https://aka.ms/teams-samples>)
 
  
 
-[![210420-teams.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/274628i6FF9C3BB7593FAD4/image-size/large?v=v2&px=999 "210420-teams.gif"){.lia-media-image
+{{< image alt="210420-teams.gif" src="images/blog/microsoft-teams-community-call-april-2021/210420-teams.gif" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/274628i6FF9C3BB7593FAD4?v=v2"
 li-image-display-id="'274628i6FF9C3BB7593FAD4'"

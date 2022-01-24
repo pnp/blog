@@ -1092,7 +1092,7 @@ Microsoft Graph Toolkit.
 
  
 
-[![TitleSlidewithPhotos.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270896i677AB824CE654789/image-size/large?v=v2&px=999 "TitleSlidewithPhotos.png"){.lia-media-image
+{{< image alt="TitleSlidewithPhotos.png" src="images/blog/microsoft-graph-community-call-april-6th-2021/TitleSlidewithPhotos.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270896i677AB824CE654789?v=v2"
 li-image-display-id="'270896i677AB824CE654789'"

@@ -42,10 +42,10 @@ yo @microsoft/sharepoint
 ```
  
 When prompted, enter the below values to each parameter.\
-![People1.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300117i5AAAA3EEA67B2886/image-size/large?v=v2&px=999 "People1.jpg")
+{{< image alt="People1.jpg" src="images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/People1.jpg" >}}
  Once all required packages are downloaded then you will get a message
 as below.\
-![People2.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300118iF000A8F1E3649FE1/image-size/large?v=v2&px=999 "People2.jpg")
+{{< image alt="People2.jpg" src="images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/People2.jpg" >}}
 Now open a solution in visual studio code or editor that you want to
 use.
 The below command is used to open the solution in VS Code.
@@ -386,7 +386,7 @@ gulp serve -l --nobrowser
  
 Open URL <https://contoso.sharepoint.com/_layouts/workbench.aspx>\
 Add your extension using click on add webpart button.\
-![1.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300121i5CBF5831FDE3426F/image-size/large?v=v2&px=999 "1.gif")
+{{< image alt="1.gif" src="images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/1.gif" >}}
 
 
 ## Conclusion

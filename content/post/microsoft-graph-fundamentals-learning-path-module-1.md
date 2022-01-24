@@ -1089,7 +1089,7 @@ role="img"}
  
 :::
 
-[![GraphFun.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/268945i93B630628790AC67/image-size/large?v=v2&px=999 "GraphFun.png"){.lia-media-image
+{{< image alt="GraphFun.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-1/GraphFun.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/268945i93B630628790AC67?v=v2"
 li-image-display-id="'268945i93B630628790AC67'"
@@ -1267,7 +1267,7 @@ get everything you need to start right away with it!
 
  
 
-[![GraphFun-youdidit1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/268944iF1924BF0207C7AAC/image-size/large?v=v2&px=999 "GraphFun-youdidit1.png"){.lia-media-image
+{{< image alt="GraphFun-youdidit1.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-1/GraphFun-youdidit1.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/268944iF1924BF0207C7AAC?v=v2"
 li-image-display-id="'268944iF1924BF0207C7AAC'"

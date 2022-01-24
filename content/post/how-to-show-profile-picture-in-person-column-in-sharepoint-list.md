@@ -17,13 +17,13 @@ details refer to
 3\. Create a Person column in List/Library as below,
  
 
-![22.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/271652i62B29CEB2AF5FA27/image-size/large?v=v2&px=999 "22.png")
+{{< image alt="22.png" src="images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/22.png" >}}
 4\. Turn on to show profile photo to see profile URL.
-![1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/271653i9FB9527725FB3E1E/image-size/large?v=v2&px=999 "1.png")
+{{< image alt="1.png" src="images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/1.png" >}}
  
 
 4\. Then create a list item and check it in the list/library view.
-## ![3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/271654iDB07C141434B3453/image-size/large?v=v2&px=999 "3.png")
+## {{< image alt="3.png" src="images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/3.png" >}}
 ## Summary 
 In this article, we have seen how to show the profile picture in the
 person column.

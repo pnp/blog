@@ -126,7 +126,7 @@ an account if you don't already have one.
 
 
 
-![github-new.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309267iFF16964421A42618/image-size/large?v=v2&px=999 "github-new.png")
+{{< image alt="github-new.png" src="images/blog/how-to-get-started-with-github-and-git/github-new.png" >}}
 
  
 
@@ -151,7 +151,7 @@ VSCode:
     -   hash of the commit
 
 
-![first-commit.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309268i31FC49F63AC3FE7C/image-size/large?v=v2&px=999 "first-commit.png")
+{{< image alt="first-commit.png" src="images/blog/how-to-get-started-with-github-and-git/first-commit.png" >}}
 
 
 
@@ -165,7 +165,7 @@ computer. We do this by cloning the repository:
     is `https://github.com/<YOUR GITHUB ACCOUNT>/<YOUR REPOSITORY NAME>.git`)
 
 
-![github-clone.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309270iC2CF6A8849B4CF49/image-size/medium?v=v2&px=400 "github-clone.png")
+{{< image alt="github-clone.png" src="images/blog/how-to-get-started-with-github-and-git/github-clone.png" >}}
 
  
 
@@ -225,13 +225,13 @@ the editor and resolve the situation.
 
 
 
-![git-changes.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309273i5A46EBCEB4E818DD/image-size/medium?v=v2&px=400 "git-changes.png")
+{{< image alt="git-changes.png" src="images/blog/how-to-get-started-with-github-and-git/git-changes.png" >}}
 
 Then use the commands `git commit` and `git push` again. (You can always
 access your last commands with the arrow-up and arrow-down key.) You
 should see a response that looks about like this
 
-![git-push.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309272iD8E7346AAF0D330B/image-size/medium?v=v2&px=400 "git-push.png")
+{{< image alt="git-push.png" src="images/blog/how-to-get-started-with-github-and-git/git-push.png" >}}
 
 Please note that you see two abbreviated hashs, with which you could
 also compare what happened in the last commit compared to the previous
@@ -296,7 +296,7 @@ pull in your changes. You do that by doing a pull request:
 
 
 
-![compare-changes.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309275iD89CF59BB1417FB8/image-size/large?v=v2&px=999 "compare-changes.png")
+{{< image alt="compare-changes.png" src="images/blog/how-to-get-started-with-github-and-git/compare-changes.png" >}}
 
 -   fill out the form
 

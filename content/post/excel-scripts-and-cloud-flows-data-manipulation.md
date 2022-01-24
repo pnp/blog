@@ -1,7 +1,7 @@
 
 # Excel Scripts and Cloud Flows - Data Manipulation
 
-![Capture.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/281007i368C3E73001AFF26/image-size/large?v=v2&px=999 "Capture.PNG")
+{{< image alt="Capture.PNG" src="images/blog/excel-scripts-and-cloud-flows-data-manipulation/Capture.PNG" >}}
  
 
 Have you discovered that the existing Power Automate actions for Excel
@@ -37,7 +37,7 @@ Scripts is that the Script Action is dynamic.  It will return the fields
 you have defined in the action window and ensure the datatype provided
 is correct, i.e. string or number.
  
-![DamoBird365_0-1621076762535.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280853iF746EEC5EF6A49E0/image-size/large?v=v2&px=999 "DamoBird365_0-1621076762535.png")
+{{< image alt="DamoBird365_0-1621076762535.png" src="images/blog/excel-scripts-and-cloud-flows-data-manipulation/DamoBird365_0-1621076762535.png" >}}
  
 
 In the sample Typescript Excel Script built below, you can try this for
@@ -122,7 +122,7 @@ used a select action to reformat the Array and rename the keys.  Both
 the Select Action and the List Rows Action demonstrate the two methods
 for retrieving data from Excel where no table was present previously.
  
-![DamoBird365_1-1621076794170.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280854iCAA66655C04C0872/image-size/large?v=v2&px=999 "DamoBird365_1-1621076794170.png")
+{{< image alt="DamoBird365_1-1621076794170.png" src="images/blog/excel-scripts-and-cloud-flows-data-manipulation/DamoBird365_1-1621076794170.png" >}}
  
 Again, in the sample Typescript Excel Script built below, you can
 quickly test out the functionality of creating a table and returning
@@ -166,12 +166,12 @@ Online feature.  Load up Excel and click on the Automate Tab.  Here you
 can view all scripts, record some actions and edit new or existing
 scripts that have been built.
  
-![DamoBird365_0-1621236507649.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/281004i15807D706F28766B/image-size/large?v=v2&px=999 "DamoBird365_0-1621236507649.png")
+{{< image alt="DamoBird365_0-1621236507649.png" src="images/blog/excel-scripts-and-cloud-flows-data-manipulation/DamoBird365_0-1621236507649.png" >}}
  
 **Wondering where they live?**  Jump onto OneDrive and take a look at
 Documents/Office Scripts where you can export/import and share.
  
-![DamoBird365_1-1621236596024.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/281005iF9129292C1DC059D/image-size/large?v=v2&px=999 "DamoBird365_1-1621236596024.png")
+{{< image alt="DamoBird365_1-1621236596024.png" src="images/blog/excel-scripts-and-cloud-flows-data-manipulation/DamoBird365_1-1621236596024.png" >}}
  
 Want to see a proof of concept ?  Take a look at my Invoicing Demo
 [here](https://damobird365.birdhoose.co.uk/2021/03/24/power-automate-office-scripts-populate-an-excel-template-dynamically-using-type-script/)

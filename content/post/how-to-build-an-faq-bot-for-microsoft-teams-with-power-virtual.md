@@ -1,5 +1,5 @@
 # How to build an FAQ bot for Microsoft Teams with Power Virtual Agents
-# ![walle.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258087i2A84790A2AF88C09/image-size/large?v=v2&px=999 "walle.png")
+# {{< image alt="walle.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/walle.png" >}}
 
 In this blog I want to show you, how you can build, test and publish an
 FAQ bot for Microsoft Teams within minutes. We will use the Power
@@ -33,7 +33,7 @@ you like.
 
 
 
-![pva-teams.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258047i4D727683FAB7BA38/image-size/large?v=v2&px=999 "pva-teams.png")
+{{< image alt="pva-teams.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/pva-teams.png" >}}
 
  
 -   Click **Add**
@@ -41,13 +41,13 @@ you like.
 
 
 
-![add-pva.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258048iE2750DD868F9766A/image-size/large?v=v2&px=999 "add-pva.png")
+{{< image alt="add-pva.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/add-pva.png" >}}
  
 
 
  
 
-![pva-create.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258049i2B7D1A99DDF1AC3A/image-size/large?v=v2&px=999 "pva-create.png")
+{{< image alt="pva-create.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/pva-create.png" >}}
 
 -   Give your bot a name ans select a language that your bot shall
     understand (should be the same language as your FAQ)
@@ -55,18 +55,18 @@ you like.
 
  
 
-![pva-create2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258050i0CA12D149E3475EC/image-size/large?v=v2&px=999 "pva-create2.png")
+{{< image alt="pva-create2.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/pva-create2.png" >}}
 -   Click **Chatbots** - here you get an overview of ALL your chatbots
 
  
 
-![my-chatsbots.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258051i1F2F575698232B9F/image-size/large?v=v2&px=999 "my-chatsbots.png")
+{{< image alt="my-chatsbots.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/my-chatsbots.png" >}}
 ### Add topics from any website 
 
 -   Click **Topics**
 
 
-![topics.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258052iDFFEE39414CA626B/image-size/large?v=v2&px=999 "topics.png")
+{{< image alt="topics.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/topics.png" >}}
  
 You see, that some basic topics are already created for you. You can
 take a look later.
@@ -74,7 +74,7 @@ take a look later.
 -   Click **Suggested**
 
 
-![suggested.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258053i7ABB44D54672E47A/image-size/large?v=v2&px=999 "suggested.png")
+{{< image alt="suggested.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/suggested.png" >}}
 Now we want to work on feeding our bot with the FAQ from the website
 that we selected.
 
@@ -83,7 +83,7 @@ that we selected.
 
 
 
-![getfaq.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258054iF13078A33B0AA221/image-size/large?v=v2&px=999 "getfaq.png")
+{{< image alt="getfaq.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/getfaq.png" >}}
 
   
 
@@ -96,7 +96,7 @@ suggested topics are now in:
 
 
 
-![success.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258055i4A6ADD0E36B10D1B/image-size/large?v=v2&px=999 "success.png")
+{{< image alt="success.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/success.png" >}}
 
  
  
@@ -105,7 +105,7 @@ suggested topics are now in:
 
 You can now review and edit each topic:
 
-![edit-topics.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258056iEDD7F31C9FEBB637/image-size/large?v=v2&px=999 "edit-topics.png")
+{{< image alt="edit-topics.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/edit-topics.png" >}}
 
 -   Click **Save Topic**
 
@@ -116,7 +116,7 @@ to turn on the topics
 
 
 
-![turn-on.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258057i877244E5AA61A017/image-size/large?v=v2&px=999 "turn-on.png")
+{{< image alt="turn-on.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/turn-on.png" >}}
 
 > Train your bot by entering more trigger phrases. This way, it is more
 > likely that the Chatbot understands users asking questions even if
@@ -127,7 +127,7 @@ Time to test the bot!
 
 
 
-![end-connversation.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258059iC04C900BD583AAF4/image-size/large?v=v2&px=999 "end-connversation.png")
+{{< image alt="end-connversation.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/end-connversation.png" >}}
 
 You can now review and edit your topics until you are happy with the
 results.
@@ -139,24 +139,24 @@ results.
 
  
 
-![publish.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258060iEB4A27B839C6EBF7/image-size/large?v=v2&px=999 "publish.png")
+{{< image alt="publish.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/publish.png" >}}
 -   Click **Add**
 
  
 
-![add.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258061iD22851E6ED15DC6A/image-size/large?v=v2&px=999 "add.png")
+{{< image alt="add.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/add.png" >}}
 -   Click **Add to Teams**
 
 
 
-![publish-bot.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258063i7EDD3D44B29CB3A4/image-size/large?v=v2&px=999 "publish-bot.png")
+{{< image alt="publish-bot.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/publish-bot.png" >}}
 
 
 
 -   Use your bot
 
 
-![chat.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258062iE8CC4A96B8545791/image-size/large?v=v2&px=999 "chat.png")
+{{< image alt="chat.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/chat.png" >}}
 
 ## Conclusion & what\'s next
 

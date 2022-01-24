@@ -1,6 +1,6 @@
 # Adaptive Cards community call -- August 2021
 
-![900x506-AugustTHumb.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/315925i3767C0A68A0FE64D/image-size/large?v=v2&px=999 "900x506-AugustTHumb.png")
+{{< image alt="900x506-AugustTHumb.png" src="images/blog/adaptive-cards-community-call-august-2021/900x506-AugustTHumb.png" >}}
 
 The following topics are covered in this month's community call:
 

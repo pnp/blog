@@ -55,7 +55,7 @@ AllSiteCollAndSubWebs
  
 ## Output
 
-![AllSCAndSCW.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278256i620977FA80EA3531/image-size/large?v=v2&px=999 "AllSCAndSCW.png")
+{{< image alt="AllSCAndSCW.png" src="images/blog/how-to-to-get-all-site-collections-with-their-sub-webs-using-pnp/AllSCAndSCW.png" >}}
  
 
 ## Summary

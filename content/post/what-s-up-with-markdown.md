@@ -171,7 +171,7 @@ brackets and the image URL is in parenthesis, with no spaces in between.
 
 ##### Result: 
 
-[![hero-parker-p-800.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278097i4FCA39AB554BD209/image-size/small?v=v2&px=200 "hero-parker-p-800.png"){.lia-media-image
+{{< image alt="hero-parker-p-800.png" src="images/blog/what-s-up-with-markdown/hero-parker-p-800.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278097i4FCA39AB554BD209?v=v2"
 li-image-display-id="'278097i4FCA39AB554BD209'"
@@ -190,7 +190,7 @@ this:
 
 ##### Result: 
 
-[[![hero-parker-p-800.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278097i4FCA39AB554BD209/image-size/small?v=v2&px=200 "hero-parker-p-800.png"){.lia-media-image
+[{{< image alt="hero-parker-p-800.png" src="images/blog/what-s-up-with-markdown/hero-parker-p-800.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278097i4FCA39AB554BD209?v=v2"
 li-image-display-id="'278097i4FCA39AB554BD209'"

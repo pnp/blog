@@ -1,7 +1,7 @@
 # Microsoft 365 Platform Call -- 12th of October, 2021
 
 
-![recording-12th-oct.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/316928iE7888C52D239BC1B/image-size/large?v=v2&px=999 "recording-12th-oct.png")
+{{< image alt="recording-12th-oct.png" src="images/blog/microsoft-365-platform-call-12th-of-october-2021/recording-12th-oct.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from October 12th, is now available from the Microsoft 365 Community
@@ -102,7 +102,7 @@ call and specifically during the last 10 minutes of call. 
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211012-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/316930iC2513916DB1A0B18/image-size/large?v=v2&px=999 "211012-together-mode.gif")
+{{< image alt="211012-together-mode.gif" src="images/blog/microsoft-365-platform-call-12th-of-october-2021/211012-together-mode.gif" >}}
 
 
 Thank you everybody for being here today in the Microsoft 365 Platform

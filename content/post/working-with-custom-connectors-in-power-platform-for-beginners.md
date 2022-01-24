@@ -37,7 +37,7 @@ dashboard](http://www.flow.microsoft.com). Select \"Data\" and then
 \"Custom connectors\"
 
 
-![custom-connector-1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339821i9EC76F76691E586D/image-size/medium?v=v2&px=400 "custom-connector-1.png")
+{{< image alt="custom-connector-1.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-1.png" >}}
 
 no, it\'s not the Connectors menu, but the Data menu
 
@@ -46,7 +46,7 @@ empty. Select \"+ New custom connector\" in the upper right corner and
 then \"Create from blank\".
 
 
-![custom-connector-2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339822iA6EC5441C2578F7E/image-size/medium?v=v2&px=400 "custom-connector-2.png")
+{{< image alt="custom-connector-2.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-2.png" >}}
 
 Now you are in the menu to create your own custom connector. At the top
 of the page you can see the necessary steps in a navigation:
@@ -85,7 +85,7 @@ another blog of this series. For now we\'re good and we can click on
 the top of the page.
 
 
-![custom-connector-3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339824iB385D83503522243/image-size/large?v=v2&px=999 "custom-connector-3.png")
+{{< image alt="custom-connector-3.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-3.png" >}}
 both links work, the one at the top and the one in the lower right
 corner
 
@@ -102,13 +102,13 @@ gets us the number of the day.
 
 Start by selecting \"+ New action\" on the right hand side.
 
-![custom-connector-4.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339825i85063B6EA2C82402/image-size/large?v=v2&px=999 "custom-connector-4.png")
+{{< image alt="custom-connector-4.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-4.png" >}}
 Once again, only one mandatory field, yet I recommend to fill out the
 Summary and the Description as well.
 
 Summary: This will be the name of the action of your custom connector
 
-![custom-connector-5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339826iF2F415E8A7ECE2D3/image-size/medium?v=v2&px=400 "custom-connector-5.png")
+{{< image alt="custom-connector-5.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-5.png" >}}
 
 Description: Gives colleagues a good idea of what it does
 
@@ -117,7 +117,7 @@ operation. Keep it simple, I guess.
 
 After that information is provided it\'s time for our request.
 
-![custom-connector-6.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339827iD087B95F2A63C4B8/image-size/large?v=v2&px=999 "custom-connector-6.png")
+{{< image alt="custom-connector-6.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-6.png" >}}
 
 Select \"+ Import from sample\" and the next menu should look familiar
 to you. Here we can choose the **method** as well as the **URL**.
@@ -129,7 +129,7 @@ In this case the method is: **GET**, the URL is
 give those to the https request, remember?. When we\'re done, select
 \"Import\" to finish this step.
 
-![custom-connector-7.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339828i1B4DFF0293A50BAB/image-size/large?v=v2&px=999 "custom-connector-7.png")
+{{< image alt="custom-connector-7.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-7.png" >}}
 
 feels familiar?
 
@@ -151,7 +151,7 @@ create a new connection. Select \"+ New connection\".
 There should appear a connection with the name of your connector in the
 \"Selected connection\" field.
 
-![custom-connector-8.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339829i0EBE9490D486516D/image-size/large?v=v2&px=999 "custom-connector-8.png")
+{{< image alt="custom-connector-8.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-8.png" >}}
 
 Now we just need to test the connector. Select \"Test operation\" and
 wait for the response.
@@ -177,12 +177,12 @@ Our flow contents of three actions:
 
 3. Post message in a chat or channel
 
-![custom-connector-9.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339830iF68676E13DC5A2D8/image-size/large?v=v2&px=999 "custom-connector-9.png")
+{{< image alt="custom-connector-9.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-9.png" >}}
 
 In order to select your custom connector you select \"Custom\" when
 choosing a connector in Power Automate
 
-![custom-connector-10.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339831iFA7B31C65054E78E/image-size/large?v=v2&px=999 "custom-connector-10.png")
+{{< image alt="custom-connector-10.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-10.png" >}}
 
 Click on custom to see all custom connectors.
 
@@ -213,7 +213,7 @@ creating the connector.
 Last step: include that variable in a Microsoft Teams message like a
 boss
 
-![custom-connector-11.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339832i520BB1658678B68B/image-size/large?v=v2&px=999 "custom-connector-11.png")
+{{< image alt="custom-connector-11.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-11.png" >}}
 
 And that\'s it. That is how you call an API, get a JSON object back and
 use certain values from that object in Power Automate\...with a custom

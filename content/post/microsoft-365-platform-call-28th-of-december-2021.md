@@ -1,6 +1,6 @@
 # Microsoft 365 Platform Call -- 28th of December, 2021
 
-![recording-28th-dec.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/336323i4F2F3F122F696CC2/image-size/large?v=v2&px=999 "recording-28th-dec.png")
+{{< image alt="recording-28th-dec.png" src="images/blog/microsoft-365-platform-call-28th-of-december-2021/recording-28th-dec.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from December 28th, is now available from the Microsoft 365 Community
@@ -98,7 +98,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211228-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/336320iC2065898118D3807/image-size/large?v=v2&px=999 "211228-together-mode.gif")
+{{< image alt="211228-together-mode.gif" src="images/blog/microsoft-365-platform-call-28th-of-december-2021/211228-together-mode.gif" >}}
 
 Always nice to see YOU and the actual people who are behind the scenes
 of this community.  Wishing you a happy and healthy entry into 2022.

@@ -1,6 +1,6 @@
 # Microsoft 365 Platform Call -- 9th of November, 2021
 
-![recording-9th-november.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/325896i632AAB20913FFEC2/image-size/large?v=v2&px=999 "recording-9th-november.png")
+{{< image alt="recording-9th-november.png" src="images/blog/microsoft-365-platform-call-9th-of-november-2021/recording-9th-november.png" >}}
  
 
 Microsoft 365 Platform Community Call - weekly community call recording
@@ -117,7 +117,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211109-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/325898iCA71CB61849A4935/image-size/large?v=v2&px=999 "211109-together-mode.gif")
+{{< image alt="211109-together-mode.gif" src="images/blog/microsoft-365-platform-call-9th-of-november-2021/211109-together-mode.gif" >}}
 
 Thank you everybody (200+) for being part of this community call today. 
 Awesome to see everyone in the house.

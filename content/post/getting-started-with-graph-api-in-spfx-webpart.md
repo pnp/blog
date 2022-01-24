@@ -46,12 +46,12 @@ Permssion.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/
 2\. Then select the category in which you want to set permission and
 click on the **Consent** button.
  
-![Permssions.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285115i17F20B295CAD56EC/image-size/large?v=v2&px=999 "Permssions.png")
+{{< image alt="Permssions.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Permssions.png" >}}
  
 3 After clicking on the Consent it will open a popup so check the
 checkbox and Accept it.
  
-![AcceptPermission.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285118i266B689B13F653D8/image-size/large?v=v2&px=999 "AcceptPermsiion.png")
+{{< image alt="AcceptPermission.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/AcceptPermsiion.png" >}}
 
 Then click on the run query and it will retrieve the results. that\'s
 it :)
@@ -286,7 +286,7 @@ Now test the web part in SharePoint-SiteURL +
  
 ## Output
  
-![Output.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285520iD83B85C50B7D02F7/image-size/large?v=v2&px=999 "Output.png")
+{{< image alt="Output.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Output.png" >}}
  
 Find the full source code
 [here](https://github.com/chandaniprajapati/GraphAPIDemo).

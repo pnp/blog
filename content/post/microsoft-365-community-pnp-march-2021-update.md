@@ -1,7 +1,7 @@
 # Microsoft 365 Community (PnP) -- March 2021 update
 
 
-![march-2021-pnp-monthly-update-promo.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262022iB8F3ED143D5CEA79/image-size/large?v=v2&px=999 "march-2021-pnp-monthly-update-promo.png")
+{{< image alt="march-2021-pnp-monthly-update-promo.png" src="images/blog/microsoft-365-community-pnp-march-2021-update/march-2021-pnp-monthly-update-promo.png" >}}
 
 Microsoft 365 Patterns and Practices (PnP) Community March 2021 update
 is out with a summary of the latest guidance, samples, and solutions
@@ -431,7 +431,7 @@ component repository or download page.
 
 ## Microsoft 365 PnP team model 
 
-![pnp-community-model.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261738iE62C2523C7D5399F/image-size/large?v=v2&px=999 "pnp-community-model.png")
+{{< image alt="pnp-community-model.png" src="images/blog/microsoft-365-community-pnp-march-2021-update/pnp-community-model.png" >}}
 
 In April 2020 we announced our new [Microsoft 365 PnP team
 model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
@@ -464,7 +464,7 @@ engineering organizations, some are coordinated by the community and
 MVPs.
 ### Microsoft Graph Toolkit 
 
-![graph-toolkit.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261739iA57BB73461170C2E/image-size/large?v=v2&px=999 "graph-toolkit.jpg")
+{{< image alt="graph-toolkit.jpg" src="images/blog/microsoft-365-community-pnp-march-2021-update/graph-toolkit.jpg" >}}
 Microsoft Graph Toolkit is engineering lead initiative, which works
 closely with the community on the open-source areas. The Microsoft Graph
 Toolkit is a collection of reusable, framework-agnostic web components
@@ -485,7 +485,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented
 in our bi-weekly Microsoft 365 Generic Dev community call, including the
 latest community contributors.
 ### Microsoft 365 Community docs 
-![community-dcos.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369/image-size/large?v=v2&px=999 "community-dcos.png")
+{{< image alt="community-dcos.png" src="images/blog/microsoft-365-community-pnp-march-2021-update/community-dcos.png" >}}
 
 Community docs model was announced in the April 2020 and it\'s great to
 see the interest for community to help each other by providing new
@@ -527,7 +527,7 @@ detailed.
     with articles ideas
 ### SharePoint Framework development samples
 
-![spfx-gallery.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261742i96F265E42A76DB51/image-size/large?v=v2&px=999 "spfx-gallery.png")
+{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-community-pnp-march-2021-update/spfx-gallery.png" >}}
 
 These are the updated SharePoint Framework samples which are available
 from the the different repositories.
@@ -570,7 +570,7 @@ solutions which work in Microsoft Teams
 
 ### Microsoft Teams community samples
 
-![teams-samples-promo.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261745i9E77F4A84CE0145E/image-size/large?v=v2&px=999 "teams-samples-promo.jpg")
+{{< image alt="teams-samples-promo.jpg" src="images/blog/microsoft-365-community-pnp-march-2021-update/teams-samples-promo.jpg" >}}
 These are samples which have been contributed on the community samples
 since last summary. We do welcome all Microsoft Teams samples to this
 gallery. They can be implemented using in any technology.
@@ -594,7 +594,7 @@ and community samples.
 
 ### Sharing is Caring initiative 
 
-![sharing-is-caring-promo-1024x576.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261747i39E00EA5029AD282/image-size/large?v=v2&px=999 "sharing-is-caring-promo-1024x576.png")
+{{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-community-pnp-march-2021-update/sharing-is-caring-promo-1024x576.png" >}}
 The \"Sharing Is Caring\" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
@@ -1270,7 +1270,7 @@ contributed from other companies during last month, but we did not get
 their logos and approval to show them in time for these communications.
 If you still want your logo for this month\'s release, please let us
 know and share the logo with us. Thx.
-![companies-in-march-2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262021i93189B931A207A20/image-size/large?v=v2&px=999 "companies-in-march-2021.png")
+{{< image alt="companies-in-march-2021.png" src="images/blog/microsoft-365-community-pnp-march-2021-update/companies-in-march-2021.png" >}}
 
 **Microsoft people:** Here's the list of Microsoft people who have been
 closely involved with the PnP work during last month.

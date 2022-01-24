@@ -57,7 +57,7 @@ As this endpoint is given me the Image URL in the format that I need
 (but pretty sure you can do the same with other endpoints, or using the
 PnP JS library). The code to do so is:
 
-![componentDidMount](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278341i838921E1800E1AD3/image-size/large?v=v2&px=999 "6-component-did-mount.png")
+{{< image alt="componentDidMount" src="images/blog/community-sample-engage-your-users-with-sharepoint-stories-reels/6-component-did-mount.png" >}}
  
 The method "*\_getStoryFromListItem*" will create a Story object for the
 "react-insta-stories" component, and here we have an interesting

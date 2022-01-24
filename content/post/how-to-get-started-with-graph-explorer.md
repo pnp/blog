@@ -1,6 +1,6 @@
 # How started with Graph Explorer
 
-![adi-suryanata-5T0bY-x9A8U-unsplash.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267457i990B93B5BCB96680/image-size/large?v=v2&px=999 "adi-suryanata-5T0bY-x9A8U-unsplash.jpg")
+{{< image alt="adi-suryanata-5T0bY-x9A8U-unsplash.jpg" src="images/blog/how-to-get-started-with-graph-explorer/adi-suryanata-5T0bY-x9A8U-unsplash.jpg" >}}
 
 Microsoft Graph offers us a single endpoint
 <https://graph.microsoft.com> to access data in Microsoft 365, Windows
@@ -11,7 +11,7 @@ What does it do? Well, it lets us explore Graph! It\'s a learning
 playground where we can try out requests, get responses, learn about
 permission scopes, and more. To access Graph Explorer, visit
 [aka.ms/ge](https://aka.ms/ge) and make yourself familiar with it:
-![overview.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267447i88A6D78D60AED00F/image-size/large?v=v2&px=999 "overview.png")
+{{< image alt="overview.png" src="images/blog/how-to-get-started-with-graph-explorer/overview.png" >}}
 ### Authentication 
 You can decide if you want to sign in or if you want to try out with
 sample data provided by Microsoft. I recommend \'playing\' in your
@@ -25,7 +25,7 @@ When you click the gear icon, you will find a shortcut to the Microsoft
 365 developer program website (to get your sandbox with sample data),
 and you can change the theme as it suits your needs best. I like dark
 mode most :black_heart:.
-![gear.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267449iF47171C88BA34E26/image-size/large?v=v2&px=999 "gear.png")
+{{< image alt="gear.png" src="images/blog/how-to-get-started-with-graph-explorer/gear.png" >}}
 
 ### Sample queries 
 
@@ -34,29 +34,29 @@ if you are not logged in. If you click on a sample, like I did in the
 screenshot below, Graph Explorer will send this HTTP request to
 Microsoft Graph - and get my joined teams. We can see this in the
 request area (upper part) and the response area (lower part):
-![teams-channel.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267450i047230F9B779472B/image-size/large?v=v2&px=999 "teams-channel.png")
+{{< image alt="teams-channel.png" src="images/blog/how-to-get-started-with-graph-explorer/teams-channel.png" >}}
 
 We now want to create a channel called \'Microsoft Graph\' in the Team
 \'Insidious Word Domination Plans\'. We first copy the ID of the Team
 from the response of that request and then use this ID in the next
 sample we try out, which is:
-![post-teams-channel.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267451i3812C719FAFD3F68/image-size/large?v=v2&px=999 "post-teams-channel.png")
+{{< image alt="post-teams-channel.png" src="images/blog/how-to-get-started-with-graph-explorer/post-teams-channel.png" >}}
 
 We then replace the \`{teams-id}\` placeholder with the copied ID value
 from the previous request and change the body to our needs:
-![post-teams-channel-replace.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267452i2AA14D8BCECEB040/image-size/large?v=v2&px=999 "post-teams-channel-replace.png")
+{{< image alt="post-teams-channel-replace.png" src="images/blog/how-to-get-started-with-graph-explorer/post-teams-channel-replace.png" >}}
 
 In the \*\*Modify permissions\*\* tab, we can learn about - and consent
 to permissions needed to execute this request:
-![modify-permissions.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267453i02347E8BA1970470/image-size/large?v=v2&px=999 "modify-permissions.png")
+{{< image alt="modify-permissions.png" src="images/blog/how-to-get-started-with-graph-explorer/modify-permissions.png" >}}
 
 But the awesomeness of this tool doesn\'t stop here - we get
 ready-to-use code snippets in different languages to insert them into
 our applications:
-![code-snippet-js.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267455i147D3D5D18C8F257/image-size/large?v=v2&px=999 "code-snippet-js.png")
+{{< image alt="code-snippet-js.png" src="images/blog/how-to-get-started-with-graph-explorer/code-snippet-js.png" >}}
 
 And for some GET requests, we even get Adaptive Cards:
-![adaptivecards-json.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267454i60D1D01177687319/image-size/large?v=v2&px=999 "adaptivecards-json.png")
+{{< image alt="adaptivecards-json.png" src="images/blog/how-to-get-started-with-graph-explorer/adaptivecards-json.png" >}}
 
 We can also try out Microsoft Graph Toolkit components right here,
 although I would personally recommend doing this in the dedicated
@@ -69,7 +69,7 @@ component\](<https://developer.microsoft.com/en-us/graph/components> )
 browser.
 Last but not least: Documentation to every sample is nicely tied in -
 click on the pop-out icon next to the sample queries:
-![pop-out-docs.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267456i7F34D09E34CD79D4/image-size/large?v=v2&px=999 "pop-out-docs.png")
+{{< image alt="pop-out-docs.png" src="images/blog/how-to-get-started-with-graph-explorer/pop-out-docs.png" >}}
 
 
 ## How does Graph Explorer help building apps? 

@@ -32,7 +32,7 @@ within technology
 level, or
 audience.
 
-![eemancini_1-1613662523389.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255797iD1353841A3BEC981/image-size/medium?v=v2&px=400 "eemancini_1-1613662523389.png")
+{{< image alt="eemancini_1-1613662523389.png" src="images/blog/adding-custom-metadata-through-a-content-pack-in-learning/eemancini_1-1613662523389.png" >}}
 
 Some organizations may find the existing choices do not support their
 needs. To customize these fields, you will need to
@@ -85,13 +85,13 @@ the Learning Pathways content in your own repository allowing you to
 make customizations to the information architecture through editing the
 JSON.
 
-![eemancini_2-1613662523392.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255798i69BF3FFAEE161E8D/image-size/medium?v=v2&px=400 "eemancini_2-1613662523392.png")
+{{< image alt="eemancini_2-1613662523392.png" src="images/blog/adding-custom-metadata-through-a-content-pack-in-learning/eemancini_2-1613662523392.png" >}}
 
 After you are done forking the repo, you will see your own copy of the
 repo in the top left
 navigation:
 
-![eemancini_3-1613662523373.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255800iBD48B006EC869DFF/image-size/medium?v=v2&px=400 "eemancini_3-1613662523373.png")
+{{< image alt="eemancini_3-1613662523373.png" src="images/blog/adding-custom-metadata-through-a-content-pack-in-learning/eemancini_3-1613662523373.png" >}}
 
 ### Step 2: Turn on GitHubpages
 
@@ -114,7 +114,7 @@ to copy the URL for your
 GitHub
 pages:
 
-![eemancini_1-1613663087728.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255807i2DEDC47DFD20D19D/image-size/medium?v=v2&px=400 "eemancini_1-1613663087728.png")
+{{< image alt="eemancini_1-1613663087728.png" src="images/blog/adding-custom-metadata-through-a-content-pack-in-learning/eemancini_1-1613663087728.png" >}}
 
 Follow the docs.microsoft.com instructions
 for [adding a content pack to learning
@@ -132,7 +132,7 @@ page CustomLearningAdmin.aspx of
 Learning
 Pathways: ]
 
-![eemancini_2-1613663101656.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255808i877B1913E3EBF4C0/image-size/medium?v=v2&px=400 "eemancini_2-1613663101656.png")
+{{< image alt="eemancini_2-1613663101656.png" src="images/blog/adding-custom-metadata-through-a-content-pack-in-learning/eemancini_2-1613663101656.png" >}}
 
 ### Step 5: Edit metadata in GitHub
 

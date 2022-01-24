@@ -1089,7 +1089,7 @@ role="img"}
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
-[![identity-call-THumbnail-November-2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/336071iD71212F338EEDCA4/image-size/large?v=v2&px=999 "identity-call-THumbnail-November-2021.png"){.lia-media-image
+{{< image alt="identity-call-THumbnail-November-2021.png" src="images/blog/microsoft-identity-platform-community-call-december-2021/identity-call-THumbnail-November-2021.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/336071iD71212F338EEDCA4?v=v2"
 li-image-display-id="'336071iD71212F338EEDCA4'"

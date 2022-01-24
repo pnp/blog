@@ -2,7 +2,7 @@
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from April 15, 2021.
-![sig-agenda-15th-recording.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273228i6E1EBAA2C1E5F677/image-size/large?v=v2&px=999 "sig-agenda-15th-recording.png")
+{{< image alt="sig-agenda-15th-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-15th-of-april/sig-agenda-15th-recording.png" >}}
  
 
 **Call Summary**
@@ -63,7 +63,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| \@vesajuvonen.
 Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   Looking for Samples!  Please share your good work  
-![210415-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273229i99FB6DAEA541BB9A/image-size/large?v=v2&px=999 "210415-together-mode.gif")
+{{< image alt="210415-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-15th-of-april/210415-together-mode.gif" >}}
 
 **It\'s together time - Super comfy seats!     **
 **Demos** delivered in this session

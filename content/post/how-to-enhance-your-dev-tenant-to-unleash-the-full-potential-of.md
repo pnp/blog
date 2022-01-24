@@ -21,7 +21,7 @@ deeper into the Power Platform.
 Luckily there is the [Power Apps Community
 Plan](https://powerapps.microsoft.com/en-us/communityplan/) and you can
 add this plan to your developer tenant.
-![devtenant-micha.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/256949iB48293A8BA7AD363/image-size/large?v=v2&px=999 "devtenant-micha.png")
+{{< image alt="devtenant-micha.png" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/devtenant-micha.png" >}}
 
 **What are the advantages of the Power App Community Plan?**
 

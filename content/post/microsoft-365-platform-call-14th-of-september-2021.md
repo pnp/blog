@@ -1,6 +1,6 @@
 # Microsoft 365 Platform Call -- 14th of September, 2021
 
-![recording-14th-september-m365platform-call.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310481iCC64C906673D6FFA/image-size/large?v=v2&px=999 "recording-14th-september-m365platform-call.png")
+{{< image alt="recording-14th-september-m365platform-call.png" src="images/blog/microsoft-365-platform-call-14th-of-september-2021/recording-14th-september-m365platform-call.png" >}}
  
 
 Microsoft 365 Platform Community Call - weekly community call recording

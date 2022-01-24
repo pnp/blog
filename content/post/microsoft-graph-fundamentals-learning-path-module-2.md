@@ -1165,7 +1165,7 @@ explanation so much!
  
 :::
 
-[![GraphAccessTokenTicket.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269453i87204035DF7ADC54/image-size/large?v=v2&px=999 "GraphAccessTokenTicket.png"){.lia-media-image
+{{< image alt="GraphAccessTokenTicket.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphAccessTokenTicket.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269453i87204035DF7ADC54?v=v2"
 li-image-display-id="'269453i87204035DF7ADC54'"
@@ -1194,7 +1194,7 @@ and authorization.
  
 :::
 
-[![GraphFunAuth.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269454i3EAB26416F07CD30/image-size/large?v=v2&px=999 "GraphFunAuth.png"){.lia-media-image
+{{< image alt="GraphFunAuth.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFunAuth.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269454i3EAB26416F07CD30?v=v2"
 li-image-display-id="'269454i3EAB26416F07CD30'"
@@ -1216,7 +1216,7 @@ application before:
  
 :::
 
-[![appreg.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269455i658B4513DA9DF3DC/image-size/large?v=v2&px=999 "appreg.png"){.lia-media-image
+{{< image alt="appreg.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/appreg.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269455i658B4513DA9DF3DC?v=v2"
 li-image-display-id="'269455i658B4513DA9DF3DC'"
@@ -1239,7 +1239,7 @@ access Microsoft Graph.
  
 :::
 
-[![auth.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269457i508CC551501A441C/image-size/large?v=v2&px=999 "auth.gif"){.lia-media-image
+{{< image alt="auth.gif" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/auth.gif" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269457i508CC551501A441C?v=v2"
 li-image-display-id="'269457i508CC551501A441C'"
@@ -1271,7 +1271,7 @@ map this code to the authentication flow.
  
 :::
 
-[![GraphApp.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269458i26472C2AE44078D7/image-size/large?v=v2&px=999 "GraphApp.png"){.lia-media-image
+{{< image alt="GraphApp.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphApp.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269458i26472C2AE44078D7?v=v2"
 li-image-display-id="'269458i26472C2AE44078D7'"
@@ -1288,7 +1288,7 @@ Congratz! - you made it!
  
 :::
 
-[![GraphFun-didit2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269459i7B75863D2FEB67D0/image-size/large?v=v2&px=999 "GraphFun-didit2.png"){.lia-media-image
+{{< image alt="GraphFun-didit2.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFun-didit2.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269459i7B75863D2FEB67D0?v=v2"
 li-image-display-id="'269459i7B75863D2FEB67D0'"

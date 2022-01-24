@@ -136,7 +136,7 @@ Then run the script with the **F5** command.
  
 ## Output 
  
-![OP.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266636iB92222C87793AD1B/image-size/large?v=v2&px=999 "OP.png")
+{{< image alt="OP.png" src="images/blog/fetch-user-profile-properties-from-site-collection-and-export-to/OP.png" >}}
  
  
 After this check the CSV file at your base location.

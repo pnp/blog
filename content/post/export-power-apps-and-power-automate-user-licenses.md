@@ -40,7 +40,7 @@ Global Administrator** to execute this command successfully.
 After this, you can easily use the generated CSV file in Power BI
 Desktop for further data analysis:
  
-![power-platform-licenses.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/274789iE9950278D1A7DBFC/image-size/large?v=v2&px=999 "power-platform-licenses.png")
+{{< image alt="power-platform-licenses.png" src="images/blog/export-power-apps-and-power-automate-user-licenses/power-platform-licenses.png" >}}
 
 
 Happy reporting everyone!

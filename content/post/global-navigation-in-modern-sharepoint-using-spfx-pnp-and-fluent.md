@@ -73,7 +73,7 @@ Go to your physical location where you want to create a solution.
 
 Once all required packages are installed then you will get the below
 message.\
-![GN3.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309156iFCB67BB741909F69/image-size/large?v=v2&px=999 "GN3.jpg")
+{{< image alt="GN3.jpg" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GN3.jpg" >}}
 
 Open Code in visual studio code by typing below one line code in node
 command prompt.
@@ -81,7 +81,7 @@ command prompt.
 C:\Demo\GlobalNavigation>code .
 ```
 The solution structure looks like the ad below.\
-![GV3.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309157i8830A291DE40E954/image-size/large?v=v2&px=999 "GV3.jpg")
+{{< image alt="GV3.jpg" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV3.jpg" >}}
 
 ## Step 3 - Import required packages from npm
 
@@ -147,7 +147,7 @@ Create 3 files inside the components folder.
 2.  IGlobalNavProps.ts
 3.  IGlobalNavState.ts
 
-![GV4.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309158i974914405989F2B4/image-size/large?v=v2&px=999 "GV4.jpg")
+{{< image alt="GV4.jpg" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV4.jpg" >}}
 Add below code to IGlobalNavProps.ts,
 ``` {.lia-code-sample .language-javascript}
 export interface IGlobalNavProps {

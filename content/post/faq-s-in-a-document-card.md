@@ -7,7 +7,7 @@ it was a great resource to share.
  
 Here's what the web part looks like and an idea how it functions 
 
-![updateFAQgif.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/272796i0FC9DB321F6DA408/image-size/large?v=v2&px=999 "updateFAQgif.gif")
+{{< image alt="updateFAQgif.gif" src="images/blog/faq-s-in-a-document-card/updateFAQgif.gif" >}}
  
 
 TLDR: For a tutorial of how to build the whole thing from scratch check

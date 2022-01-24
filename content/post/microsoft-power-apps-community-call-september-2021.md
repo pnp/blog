@@ -1089,7 +1089,7 @@ role="img"}
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
-**[![powerapps-recording.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312020i2F2D044EE0422C02/image-size/large?v=v2&px=999 "powerapps-recording.jpg"){.lia-media-image
+**{{< image alt="powerapps-recording.jpg" src="images/blog/microsoft-power-apps-community-call-september-2021/powerapps-recording.jpg" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312020i2F2D044EE0422C02?v=v2"
 li-image-display-id="'312020i2F2D044EE0422C02'"

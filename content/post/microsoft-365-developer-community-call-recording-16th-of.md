@@ -1,6 +1,6 @@
 # Microsoft 365 Developer Community Call recording -- 16th of September, 2021
 
-![call-16th-sep-recording.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310885iAD89794C18AD6138/image-size/large?v=v2&px=999 "call-16th-sep-recording.png")
+{{< image alt="call-16th-sep-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-16th-of/call-16th-sep-recording.png" >}}
 
 **Call Summary**
 
@@ -108,7 +108,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
     -** [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd)
     \| \@pkbullock
 **Together Mode!**
-![PnP-Calls-TogetherMode-800W.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310889i3E3FA1BE9A0BF265/image-size/large?v=v2&px=999 "PnP-Calls-TogetherMode-800W.gif")
+{{< image alt="PnP-Calls-TogetherMode-800W.gif" src="images/blog/microsoft-365-developer-community-call-recording-16th-of/PnP-Calls-TogetherMode-800W.gif" >}}
 
 Picture time is back and it\'s a packed House!  Thank you for joining
 the PnP Community call today.   You\'re awesome!  
