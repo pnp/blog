@@ -9,7 +9,7 @@ logo_width = "100x"
 logo_height = "44px"
 
 # logo text will only show when logo is missing.
-logo_text = "Microsoft 365 PnP"
+logo_text = "Microsoft 365 Community"
 
 # menu align available option (left, right, or center )
 menu_align = "center"
