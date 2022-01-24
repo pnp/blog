@@ -25,8 +25,14 @@
 {{ .Scratch.Set "logo_fallback" ($logo.Resize $logoWidth).RelPermalink }}
 {{ end }}
 
-<img loading="prelaod" decoding="async" class="img-fluid" {{if ne $logoExt `.svg`}}
-  width="{{replace $logoWidth `x` `` | default $logo.Width}}" height="{{$logo.Height}}" {{end}}
+{{/* <img loading="prelaod" decoding="async" class="img-fluid" {{if ne $logoExt `.svg`}}
+width="{{replace $logoWidth `x` `` | default $logo.Width}}" height="{{$logo.Height}}" {{end}}
+src="{{.Scratch.Get `logo`}}" alt="{{ site.Title }}"
+onerror="this.onerror=null;this.src='{{.Scratch.Get `logo_fallback`}}'">
+{{ else }}
+<strong class="text-danger">`{{$logoPath}}` doesn't exist</strong>
+{{ end }} */}}
+<img loading="preload" decoding="async" class="img-fluid" style="height:44px;" src="{{.Scratch.Get `logo`}}" alt="{{ site.Title }}"
   src="{{.Scratch.Get `logo`}}" alt="{{ site.Title }}"
   onerror="this.onerror=null;this.src='{{.Scratch.Get `logo_fallback`}}'">
 {{ else }}
