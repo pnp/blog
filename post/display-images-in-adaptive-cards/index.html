@@ -105,7 +105,7 @@ the smallest image inline. What other options we have?
 <p>Basically images are displayed in Adaptive Cards using &ldquo;Image&rdquo; element.
 In its properties you need to type the URL to an image:
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333309i4A8C06C760C1E90A/image-size/large?v=v2&px=999" alt=image-5 title=image-5>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-5_hu2ca45629e11e0f5b14058d2ac0072ab2_50591_750x0_resize_q100_h2_box_3.webp alt=image-5>
  
 <strong>Important!</strong> Image&rsquo;s URL must start with <strong>https</strong> and be a <strong>direct
 link</strong> to a file itself (ending up with jpg, png, tiff, etc&mldr;).
@@ -121,7 +121,7 @@ This can be done upfront, manually, using online services eg. <a href=https://w
 Image Encoder</a>. Or, using
 expression <code>dataUri(file content)</code> in Power Automate:
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333310i4B94DC2DBD3898CB/image-size/large?v=v2&px=999" alt=image-6 title=image-6></li>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-6_hud4d105f1cb6167791180998898779234_30297_635x0_resize_q100_h2_box_3.webp alt=image-6></li>
 </ol>
 <p> 
 What is returned, looks like the following
@@ -156,14 +156,14 @@ What other places can be used then?</p>
 OneDrive cannot be used as a storage to host images, since even when we
 select to share an image with anyone:
  
-[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333312i62B9998381D627EA/image-size/large?v=v2&px=999" alt=image-7 title=image-7>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-7_hu41bf37ca47330787eba00330d4ae0db3_34868_474x0_resize_q100_h2_box_3.webp alt=image-7>
  
 [The generated link is still not a valid, absolute link to a file
 itself, but to a page that displays the image, so when you put it as a
 Url property, it won&rsquo;t display the
 image:]
  
-[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333313i8C86937A27D7F9F1/image-size/large?v=v2&px=999" alt=image-8 title=image-8>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-8_hu16a0a48a6fdfdeec32eb4bd91dfbc81e_39218_750x0_resize_q100_h2_box_3.webp alt=image-8>
  </li>
 </ol>
 <h2 id=how-to-store-images-securely-but-still-display-them-in-adaptive-cards>How to store images securely, but still display them in Adaptive Cards?</h2>
@@ -176,24 +176,24 @@ Let me show you how.
 <li>Sign in to Azure portal and create new Storage account:</li>
 </ol>
 <p> 
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333314i1A19AFF86E24FFE0/image-size/large?v=v2&px=999" alt title=image-9></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-9_hud28d8692f5979f6f9cbe93f2b12e3e85_25895_542x0_resize_q100_h2_box_3.webp alt></p>
 </div>
 1. Once account is provisioned, open it and:
 1. Navigate to Containers
 2. Click to create new container
 3. Provide its name and set its access to Private
  
-![image-10](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333315iCFCEFFF844E34913/image-size/large?v=v2&px=999 "image-10")
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-10_hu93d67fd479e9d9dfa2d4147b18ee8814_78813_750x0_resize_q100_h2_box_3.webp alt=image-10>
  
-1.  Now upload image you would like to display in Adaptive Card:
+1. Now upload image you would like to display in Adaptive Card:
 1. Click the Upoad link
 2. Choose a file you want to upload and select all properties as
 per your choice
 3. Finally after upload navigate to Shared access tokens page
  
-![image-11](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333316i0BE59E45094EE78C/image-size/large?v=v2&px=999 "image-11")
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-11_hub56082f4607c486a2823b7964ade6d41_75012_750x0_resize_q100_h2_box_3.webp alt=image-11>
  
-1.  And finally generate the SAS token, that you can append to the
+1. And finally generate the SAS token, that you can append to the
 absolute image link to make it available for display.
 1. Define type of permissions -- for this scenario only Read is
 sufficient
@@ -203,17 +203,17 @@ become inaccessible again
 4. Click to Generate SAS token and URL
 5. Copy the SAS token
  
-![image-12](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333318i81C8A1328003F59F/image-size/large?v=v2&px=999 "image-12")
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-12_huf9c120470384bdf77094a1838db4e898_98152_750x0_resize_q100_h2_box_3.webp alt=image-12>
  
 Now you're ready to navigate back to container contents, open file
 details, copy its path and append with SAS token:
  
-![image-13](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333320i5178730BC9623C47/image-size/large?v=v2&px=999 "image-13")
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-13_huef406effedb3dccf3cd2c60f8234594d_75953_750x0_resize_q100_h2_box_3.webp alt=image-13>
  
 Then paste such URL back to Url property of Image element in Adaptive
 Card and voilla! There it is:
  
-![image-14](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333321i73468641867594B7/image-size/large?v=v2&px=999 "image-14")
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-14_hu47281708db68b64f4af493e0b6463034_163981_750x0_resize_q100_h2_box_3.webp alt=image-14>
  
 I hope you will find this short tutorial useful. Please write down in
 comments what other providers you use to securely host images and access

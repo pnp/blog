@@ -109,11 +109,11 @@ Select <strong>Automated Cloud Flow</strong>
  
 2. It will ask for the flow name and trigger.
 Add flow name and choose a trigger <strong>when an item is created.</strong>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292212i6DF8F6472155188C/image-size/large?v=v2&px=999" alt=Step2.png title=Step2.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-break-and-change-list-item-permission-using-power/Step2_hu7ff1834cb32bd9d7257226fad1b445ca_64196_750x0_resize_q100_h2_box_3.webp alt=Step2.png>
 3. Click on <strong>Cerate.</strong>
 4. Now set Site name and list name in **when an item is created in
 list **action.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292214i5AB30F5C1C49D11A/image-size/large?v=v2&px=999" alt=Step3.png title=Step3.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-break-and-change-list-item-permission-using-power/Step3_hudd449422d7cbf93c23ebe1735726606c_18901_484x0_resize_q100_h2_box_3.webp alt=Step3.png>
 <strong>For all API Calling, we will use Send an HTTP request to SharePoint
 action.</strong>
 5. Now we will call REST API to break role inheritance.
@@ -128,7 +128,8 @@ Set all properties as below.</p>
 }</p>
 <hr>
 <p> </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292227i8C9921C9B0D18D38/image-size/large?v=v2&px=999" alt=step4.png title=step4.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-break-and-change-list-item-permission-using-power/step4_hu044c0c7fc4f275ef81eb3801107ed69b_42112_487x0_resize_q100_h2_box_3.webp alt=step4.png>
  </p>
 <p>6. Now we will set new permission so for that we need a <strong>user id</strong> to
 whom we have to give permission and need a <strong>role definition ID</strong>.
@@ -148,11 +149,12 @@ Full Control 1073741829</p>
 <hr>
 <p><strong>1. Create a variable and set User Title or if you have any list column
 then you can use it.</strong>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292222i5370370A4009A343/image-size/large?v=v2&px=999" alt=Step5.png title=Step5.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-break-and-change-list-item-permission-using-power/Step5_hu62169788eb7f342d9e2461fb669f4e6f_6965_596x0_resize_q100_h2_box_3.webp alt=Step5.png>
 <strong>2. Call API to get a user ID and filter it by the above-declared user
 name.</strong>
  </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292226i598873A78C1E6EE4/image-size/large?v=v2&px=999" alt=step6.png title=step6.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-break-and-change-list-item-permission-using-power/step6_hu45c0aaf0577578c2c2ec35ae906c85f6_17582_602x0_resize_q100_h2_box_3.webp alt=step6.png>
 It will return an object as below,
  </p>
 <pre tabindex=0><code class=language-{.lia-code-sample data-lang={.lia-code-sample>{
@@ -175,15 +177,15 @@ It will return an object as below,
 below,</p>
 <pre tabindex=0><code class=language-lia-indent-padding-left-30px data-lang=lia-indent-padding-left-30px>outputs('Send_an_HTTP_request_to_SharePoint_-_Get_user_id')?['body']['d']['results']?[0]['Id']
 </code></pre><p>And we will set it in a variable called <strong>UserId</strong>.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292224iDC1FD79BBDC15EC3/image-size/large?v=v2&px=999" alt=step7.png title=step7.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-break-and-change-list-item-permission-using-power/step7_hub1b5e2b457dc565085d2831559bd2b07_7451_601x0_resize_q100_h2_box_3.webp alt=step7.png>
 3. Now we will set <strong>contribute</strong> permission for the above UserId.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292232iBB314DA08F4AEA46/image-size/large?v=v2&px=999" alt=step8.png title=step8.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-break-and-change-list-item-permission-using-power/step8_hu508c2862d2059fe0756c557a013616e2_28621_476x0_resize_q100_h2_box_3.webp alt=step8.png>
  </p>
 <p>Now we can test the flow.
  </p>
 <h2 id=output>Output</h2>
 <p>We can see contribute permission for an item as below,
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292234i326F4E2B28377AAE/image-size/large?v=v2&px=999" alt=OP.png title=OP.png>-align-center image-alt=&ldquo;OP.png&rdquo; style=&ldquo;width: 999px;"}
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-break-and-change-list-item-permission-using-power/OP_hub2a6ee16420503983b9a2772cdc50064_7030_750x0_resize_q100_h2_box_3.webp alt=OP.png>-align-center image-alt=&ldquo;OP.png&rdquo; style=&ldquo;width: 999px;"}
  </p>
 <h2 id=summary>Summary</h2>
 <p>In this article, we have seen how to break and change list item

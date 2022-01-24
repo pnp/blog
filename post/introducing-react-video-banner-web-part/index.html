@@ -112,31 +112,37 @@ select a video (using the file picker control from the PnP Reusable
 Property Pane Controls), you will be able to modify the text overlay and
 its color, control the height of the video area and lastly (at least for
 now) modify the brightness: 
-  <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278588i6FB5C67745410F64/image-dimensions/370x949?v=v2" alt=derhallim_0-1620249069072.png title=derhallim_0-1620249069072.png></p>
+  
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introducing-react-video-banner-web-part/derhallim_0-1620249069072_hu6aac08f0a139cf40fcd9b0cc130710ff_66444_336x0_resize_q100_h2_box_3.webp alt=derhallim_0-1620249069072.png></p>
 <p> These settings would provide you with a web part that looks like this: 
- <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278593i48E5C33042DFF8F7/image-dimensions/711x328?v=v2" alt=derhallim_4-1620249695924.png title=derhallim_4-1620249695924.png>
+ 
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introducing-react-video-banner-web-part/derhallim_4-1620249695924_huc76b12f1e82e9ec5d59b07cc72ba86a6_151046_711x0_resize_q100_h2_box_3.webp alt=derhallim_4-1620249695924.png>
  </p>
 <p>Now let's have a look at the code itself which is pretty simple. The
 file structure can be seen below:</p>
-<p> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278611i8ECF721FD5D79709/image-size/medium?v=v2&px=400" alt=derhallim_1-1620252146944.png title=derhallim_1-1620252146944.png>
+<p> 
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introducing-react-video-banner-web-part/derhallim_1-1620252146944_huade3139e9b3f27c261597154ac274df5_16727_409x0_resize_q100_h2_box_3.webp alt=derhallim_1-1620252146944.png>
  </p>
 <p>The web part has only one functional component named: VideoBackground
 that accepts the following properties as defined in the
 IVideoBackgroundProps.ts file: wpTitle (string), videoUrl (string),
 labelColor (string), brightness (number), height (number).
- <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278613iD29EFFD38175FB17/image-dimensions/547x213?v=v2" alt=derhallim_2-1620252225550.png title=derhallim_2-1620252225550.png>
+ 
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introducing-react-video-banner-web-part/derhallim_2-1620252225550_hu4cf7ec8f1f58c16508adc311dda08c9f_17209_391x0_resize_q100_h2_box_3.webp alt=derhallim_2-1620252225550.png>
 The video url and the label color are set with the help of PnP Property
 Pane Controls as shown below: 
- <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278610i7A6449E9A53A3572/image-dimensions/598x193?v=v2" alt=derhallim_0-1620252048668.png title=derhallim_0-1620252048668.png></p>
+ 
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introducing-react-video-banner-web-part/derhallim_0-1620252048668_hucf1b66db1f3cb7a7be8eabc2525448da_30520_595x0_resize_q100_h2_box_3.webp alt=derhallim_0-1620252048668.png></p>
 <p>Once the properties are setup on the VideoBackgroundWebPart.ts file, we
 pass them to the VideoBackground.tsx component. </p>
-<p> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278618i283DB0E0FD026BF6/image-dimensions/618x231?v=v2" alt=derhallim_6-1620252844193.png title=derhallim_6-1620252844193.png></p>
+<p> 
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introducing-react-video-banner-web-part/derhallim_6-1620252844193_hu35fc4aa9293e04dc5c2c6a8003b85007_74426_618x0_resize_q100_h2_box_3.webp alt=derhallim_6-1620252844193.png></p>
 <p>All good so far? Now in our functional component, we have an HTML video
 control where the source of the video is set to the videoUrl prop we
 pass and we play with the CSS filter prop to set the brightness by
 adding the value concatenated with % as we need a brightness
 percentage: </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278614i077CE3A59A69450A/image-dimensions/614x433?v=v2" alt=derhallim_3-1620252272134.png title=derhallim_3-1620252272134.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introducing-react-video-banner-web-part/derhallim_3-1620252272134_hu695e31b8aa24e0fb216fcdad9ee2985d_58138_604x0_resize_q100_h2_box_3.webp alt=derhallim_3-1620252272134.png>
 <p>Notice the ref attribute on the video control? The reason we have it is
 that we want to refresh the video whenever we change the video url. By
 default, when changing the properties, all values will be reflected
@@ -147,7 +153,8 @@ itself. 
 We then use React's useEffect to check if the video url has changed or
 not, if it has changed, we call the load() function on the video
 reference itself: </p>
-<p> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278615iF2B5BE371816B5AB/image-dimensions/573x179?v=v2" alt=derhallim_4-1620252332115.png title=derhallim_4-1620252332115.png></p>
+<p> 
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introducing-react-video-banner-web-part/derhallim_4-1620252332115_hu069f88f2d874c96edb2726939d1238cf_66240_573x0_resize_q100_h2_box_3.webp alt=derhallim_4-1620252332115.png></p>
 <p> 
 Some notable points about the CSS used is the div that's available just
 before the video control, it's aligned using an absolute position with

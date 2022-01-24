@@ -144,7 +144,7 @@ you would not be able to access with an ID token.</p>
 <p>If you are still confused of the difference between <strong>authentication</strong>
 and <strong>authorization</strong>, <a href=https://twitter.com/LuiseFreese>@LuiseFreese</a>
 sums it up perfectly:
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/271972i5C236DFE55530B38/image-size/large?v=v2&px=999" alt=01ed60e47ba84e66b302a6ef0e9035d2.png title=01ed60e47ba84e66b302a6ef0e9035d2.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introduction-to-tokens/01ed60e47ba84e66b302a6ef0e9035d2_hu4f37e8602df462e66c82a4363a7f45ab_78672_602x0_resize_q100_h2_box_3.webp alt=01ed60e47ba84e66b302a6ef0e9035d2.png>
 <img src=file:////home/lford/code/personal/draft_posts/TokenIntroduction/01ed60e47ba84e66b302a6ef0e9035d2.png alt></p>
 <blockquote>
 <p>The term "auth token" is widely used can become misleading as it
@@ -178,7 +178,7 @@ article <a href=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/i
 <h3 id=decoding-a-token>Decoding a token</h3>
 <p>Taking the sample above and putting in in to <a href=https://jwt.ms>jwt.ms</a>,
 it is possible to decode from "base64url" back to human-readable JSON.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/271976iDCF6321B4E43B55B/image-size/large?v=v2&px=999" alt=e738e6ef6d6f41ab9e811c7d4e8d5371.png title=e738e6ef6d6f41ab9e811c7d4e8d5371.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introduction-to-tokens/e738e6ef6d6f41ab9e811c7d4e8d5371_hu07cf64ad1203115180abd0777358abf4_253745_750x0_resize_q100_h2_box_3.webp alt=e738e6ef6d6f41ab9e811c7d4e8d5371.png>
 <img src=file:////home/lford/code/personal/draft_posts/TokenIntroduction/e738e6ef6d6f41ab9e811c7d4e8d5371.png alt></p>
 <p>You will now see a JWT is made up of 3 parts:</p>
 <ul>
@@ -244,7 +244,7 @@ authentication, so the end-user is redirected to authenticate at the
 authorization server (I know, confusing). If successful, an ID token is
 returned and then validated by the application. If it passes validation,
 access is granted to the application.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/271974i5D43CDF05BA48E56/image-size/large?v=v2&px=999" alt=openidconnect.png title=openidconnect.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introduction-to-tokens/openidconnect_hu2a531e26cfd4d163e113574454c15b36_18240_662x0_resize_q100_h2_box_3.webp alt=openidconnect.png></p>
 <h2 id=oauth-20-auth-code-grant>OAuth 2.0 auth code grant</h2>
 <p><a href=https://tools.ietf.org/html/rfc6749#section-4.1>Auth code grant</a> flow
 is where a user is asked to sign-in at the authorization server (Azure
@@ -253,7 +253,7 @@ authorization code is returned. A second request is then made to the
 authorization server with the authorization code, but this time an
 access token is returned. With the access token, a protected API can
 then be accessed.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/336940i762082DA785E3302/image-dimensions/778x354?v=v2" alt=LeeFord_0-1641203766651.png title=LeeFord_0-1641203766651.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/introduction-to-tokens/LeeFord_0-1641203766651_hu97c53b069c40179bf309b9ccebfce545_71081_750x0_resize_q100_h2_box_3.webp alt=LeeFord_0-1641203766651.png></p>
 <h1 id=wrap-up>Wrap up</h1>
 <p>I hope you found this useful and understand more around what tokens are,
 the different types of tokens and how they are used.</p>

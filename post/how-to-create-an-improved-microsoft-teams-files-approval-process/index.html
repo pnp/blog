@@ -100,7 +100,7 @@
 the next level but there is no way we could justify that licensing &ndash;
 the ROI is simply not enough. Have you thought that you could be
 utilizing a Azure Logic App instead?
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254489iC26B6F545C3CC2BC/image-size/medium?v=v2&px=400" alt=2021-02-10_22-02-47.png title=2021-02-10_22-02-47.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/2021-02-10_22-02-47_huc3cd63449c3f93ff518e158ec5512c51_36020_750x0_resize_q100_h2_box_3.webp alt=2021-02-10_22-02-47.png>
 Following my earlier post ( <a href=https://myteamsday.com/2021/01/29/approve-files/>How to: initiate a document approval
 directly in team files tab (using Power
 Automate) </a>) that
@@ -147,61 +147,68 @@ skyrocket</li>
 the Logic App.</p>
 <p>Navigate to your Resource Group and click on Add.</p>
 <p>Add a Logic App. Use search to narrow the list down.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254458i5B9725F2E7744389/image-size/large?v=v2&px=999" alt=image-55 title=image-55>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-55_hu3372745e1cb43eb4ea5b5bc56c9f8ec3_7194_363x0_resize_q100_h2_box_3.webp alt=image-55>
  </p>
 <p><strong>Note: Be careful how you name your Logic App in the next step because
 you won&rsquo;t be able to change it later!</strong>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254460i00AE9EFCBF50331C/image-size/large?v=v2&px=999" alt=image-58 title=image-58>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-58_hu9d579928e1d5fcfeb9e36a341e947c18_32370_750x0_resize_q100_h2_box_3.webp alt=image-58>
  </p>
 <p>Add Tags if you use them, Review and Create the App. The Logic App is
 deployed rather quickly and you can then go to the Resource.
 Go to Logic App Designer
  </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254461iFACEF0C5152BAB8E/image-size/large?v=v2&px=999" alt=image-59 title=image-59>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-59_hu7aea5d2225e79b4158b10ad6faa45d45_43626_526x0_resize_q100_h2_box_3.webp alt=image-59>
  </p>
 <p>From there you can start selecting your trigger how the Logic App is
 activated. Since we are duplicating the earlier post functionality with
 Azure Logic Apps we choose &ldquo;When a HTTP request is received&rdquo;
  </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254462iD53E2D20B57575AA/image-size/large?v=v2&px=999" alt=image-60 title=image-60>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-60_huf24d04cba0fcbf230c9e44ef7d85aae5_258121_750x0_resize_q100_h2_box_3.webp alt=image-60>
  </p>
 <p>And now the UI starts to look very Power Automatish
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254463i2AC9AD0D6953EC5E/image-size/large?v=v2&px=999" alt=image-61 title=image-61>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-61_huc49fdeab51544d4082fcc51e7d0febd7_28713_750x0_resize_q100_h2_box_3.webp alt=image-61>
  </p>
 <p>The difference is about available parameters. You need to click on Add
 new parameter to open menu that is in this (and in many other actions)
 not visible unlike at Power Automate designer.
  </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254464iDCF3433ED8F772FF/image-size/large?v=v2&px=999" alt=image-62 title=image-62>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-62_hu6d52e49b1be5a484580c84baa4f38ef4_1959_750x0_resize_q100_h2_box_3.webp alt=image-62>
  </p>
 <p>Check Method
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254465i961FE372B48DA79A/image-size/large?v=v2&px=999" alt=image-63 title=image-63>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-63_huee4dd8f2829d8d3e63c147194c292ed2_8429_750x0_resize_q100_h2_box_3.webp alt=image-63>
  </p>
 <p>And you can choose Get from the list.
  </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254466i06DFD3D5128377ED/image-size/large?v=v2&px=999" alt=image-64 title=image-64>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-64_hu39b6c7ab38a7813f5e653ba9b16636ae_9380_750x0_resize_q100_h2_box_3.webp alt=image-64>
 And now we have the trigger part ready (waiting for a save)!
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254467i6DF8DA0D4FB6E7AA/image-size/large?v=v2&px=999" alt=image-65 title=image-65>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-65_hu19d94d94b2b07dffd356b5663648fb5e_17470_750x0_resize_q100_h2_box_3.webp alt=image-65>
  </p>
 <p>Then we add other parts. The search for actions is not as good as in
 Power Automate Cloud Flows but keep on trying &ndash; the actions are there!
  </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254468i3CD9500422EDDAB7/image-size/large?v=v2&px=999" alt=image-66 title=image-66>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-66_hue8e48226841db7d85ae7f8bb86103d3b_25104_750x0_resize_q100_h2_box_3.webp alt=image-66>
  </p>
 <p>Let&rsquo;s populate that with triggerOutputs()[&lsquo;queries&rsquo;][&lsquo;FileID&rsquo;] just
 like in the earlier blog post.
  </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254469iCB18ADB6965CEF16/image-size/large?v=v2&px=999" alt=image-67 title=image-67>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-67_hua09518f329f4f7b7b7984a5a7c6a4880_6856_750x0_resize_q100_h2_box_3.webp alt=image-67>
  </p>
 <p>Add there Get File Properties from SharePoint. In this point we need to
 add a connection to the SharePoint. Use credentials that you seem to be
 fit.
  </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254470iF41390481426E7E2/image-size/large?v=v2&px=999" alt=image-68 title=image-68>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254477iBFD71615813E69BD/image-size/large?v=v2&px=999" alt=image-69 title=image-69></p>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-68_hu91b7056d80786039fa08c9a3e4217465_37264_750x0_resize_q100_h2_box_3.webp alt=image-68>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-69_hu2ff71d71fed14233c42c520826019c5a_10717_750x0_resize_q100_h2_box_3.webp alt=image-69></p>
 <p>Once you have signed in you can define the information how to get file
 properties.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254471iCDA2936DD86F3000/image-size/large?v=v2&px=999" alt=image-70 title=image-70>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-70_hu73422276825c420bc1e7468d93389d0e_36431_750x0_resize_q100_h2_box_3.webp alt=image-70>
  </p>
 <p>The FileID is missing. You need to do a bit trick here:</p>
 <ul>
@@ -209,12 +216,13 @@ properties.
 <li>add it to the Get file properties</li>
 <li>Change parameter back to string</li>
 </ul>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254472i0E8BC3DFF19132EF/image-size/large?v=v2&px=999" alt=image-71 title=image-71>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-71_hu50c51dcb5cd76a399346a51f9dc64a71_46415_750x0_resize_q100_h2_box_3.webp alt=image-71>
 And click on see more at Variable section in Dynamic content
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254473i91E855A8A025966F/image-size/large?v=v2&px=999" alt=image-72 title=image-72>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-72_hub6981fc2e9622db2dda40294b1e69bd5_20791_750x0_resize_q100_h2_box_3.webp alt=image-72>
 Choose fileid. And yes! (don&rsquo;t forget to change the fileid parameter
 back to string)
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254474i1926120B1CD4AAFD/image-size/large?v=v2&px=999" alt=image-73 title=image-73>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-73_huf715dfd6ab002b4ecb3ed50f9b6ffbfe_27203_750x0_resize_q100_h2_box_3.webp alt=image-73>
  </p>
 <p>At this point we have</p>
 <ul>
@@ -224,8 +232,10 @@ back to string)
 </ul>
 <p>Let&rsquo;s close that HTTP request first. Add Response-action and instruct to
 close the tab.
-**<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254475i92F028849784ECA6/image-size/large?v=v2&px=999" alt=image-74 title=image-74>
-**<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254476i1D3595002F5B46CC/image-size/large?v=v2&px=999" alt=image-75 title=image-75>
+**
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-74_huf972e06b59d0a76f511e3fb7316985f5_45527_750x0_resize_q100_h2_box_3.webp alt=image-74>
+**
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-75_hu11dda1d62b34acc053fa8ad09deb631a_15452_750x0_resize_q100_h2_box_3.webp alt=image-75>
  </p>
 <p><strong>Note: here is when you need to progress differently than with Power
 Automate Cloud Flow approval</strong>
@@ -235,32 +245,34 @@ request to a SharePoint list in the tenant and and creating a another
 Power Automate with a when item is inserted trigger there.
 First &ndash; let&rsquo;s create that list where we can write the information to.
 We can use Teams Lists -app for that.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254478i5A9738E0807CD91B/image-size/large?v=v2&px=999" alt=image-76 title=image-76>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-76_hu1e082b5160c9253db96663d77fe02d9e_11521_750x0_resize_q100_h2_box_3.webp alt=image-76>
  </p>
 <p>Search for the action in Azure Logic Apps and add Create Item
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254488i033D2FFC808B748F/image-size/large?v=v2&px=999" alt=image-77 title=image-77>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-77_hubae1767f8dcee52ef9213cdd32238ac7_29284_750x0_resize_q100_h2_box_3.webp alt=image-77>
  </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254480i1C679969C43EBF13/image-size/large?v=v2&px=999" alt=image-78 title=image-78>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-78_hu38da444634d21b5dbd482b975ef0c4a3_23555_750x0_resize_q100_h2_box_3.webp alt=image-78>
  </p>
 <p>Now, we need to click on Add new parameter to add list columns to the
 action.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254481iDCC08F1C42F91E12/image-size/large?v=v2&px=999" alt=image-79 title=image-79>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-79_hud2bb5b6a6daad8281f6b45953ee0f354_17219_750x0_resize_q100_h2_box_3.webp alt=image-79>
 Choosing Approver, FileID, and Outcome. I actually should have named
 Approver as Approval Requestor but hopefully it doesn&rsquo;t confuse too
 much.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254482iB5A9EF8BDFB0D844/image-size/large?v=v2&px=999" alt=image-80 title=image-80>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-80_hu280b300aa8cf791ca1b02b3983262b8f_18110_750x0_resize_q100_h2_box_3.webp alt=image-80>
  </p>
 <p>When filling up information you can use Dynamic values from Get file
 properties. Since we don&rsquo;t really know who clicked that request approval
 button we just assume it was the person who did changes the last time.</p>
 <p>And that&rsquo;s it!
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254483iB6784738CBDD0F86/image-size/large?v=v2&px=999" alt=image-81 title=image-81>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-81_hucd22eda62fc2a83f64202604428020ad_26946_750x0_resize_q100_h2_box_3.webp alt=image-81>
 Hit save (if you haven&rsquo;t already) and you have the URL in the trigger
 action available. Proceed with column formatting <a href=https://myteamsday.com/2021/01/29/approve-files/>as stated in previous
 post</a>.</p>
 <p>Fast forwarding the Power Automate that is created as a trigger to the
 File Approvals -list looks like this:
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254484iE6FFA671F918730F/image-size/large?v=v2&px=999" alt=image-83 title=image-83>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-83_hu5a5666b008d2719eb59c2eb22377c2c8_45254_750x0_resize_q100_h2_box_3.webp alt=image-83>
  </p>
 <p>Steps are roughly similar to the ones as in the earlier post.</p>
 <ul>

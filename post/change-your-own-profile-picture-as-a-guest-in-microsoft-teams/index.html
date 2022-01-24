@@ -101,7 +101,7 @@ but sadly both aren't big friends when you are a Guest in another
 tenant. There still isn't a good/easy way of controlling your own
 profile picture, which is sad because you are reduced to a
 not-very-personal colored circle with initials:
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270597i7953CAB1B5852558/image-size/medium?v=v2&px=400" alt=image.png title=image.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image_hu0994db7ed34f96b788ac0262c972de12_2132_113x0_resize_q100_h2_box_3.webp alt=image.png>
 Fellow MVP <a href=https://twitter.com/kkamegawa>Kazushi Kamegawa</a> shared a
 method of changing your profile picture in a private forum, but it
 stopped working due to some UI changes in the Azure Portal. Luckily,
@@ -125,7 +125,7 @@ will get confused ;).</p>
 with your credentials</li>
 <li>Top right of the Teams UI, switch to the tenant where you want to
 change the profile picture of your Guest account
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270593iBE794E60A8746932/image-size/medium?v=v2&px=400" alt=image-1.png title=image-1.png></li>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-1_hue6f009911173e215df2af29fed2f7df4_28934_567x0_resize_q100_h2_box_3.webp alt=image-1.png></li>
 </ol>
 <h2 id=get-id-of-user-account>Get ID of user account</h2>
 <p>I don't know of any place in the UI that shows the id of your Guest
@@ -143,7 +143,7 @@ show one result, select it.</li>
 are currently in. You'll need the value next to the <code>userId</code>
 property. In my screenshot, it is the GUID that starts with
 <code>f35707ec-...</code>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270594iDA76B76EB72FD9D3/image-size/large?v=v2&px=999" alt=image-3.png title=image-3.png></li>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-3_hufa6a6cfe49d0370539aadb3cc80e7e5c_142012_750x0_resize_q100_h2_box_3.webp alt=image-3.png></li>
 </ol>
 <h2 id=user-profile-page-in-azure-portal>User profile page in Azure Portal</h2>
 <p>Now that you have your user account ID, you can open up your profile
@@ -159,7 +159,7 @@ Make sure to replace <code>&lt;userId></code> with the id you copied in the
 previous step.</li>
 <li>You should now see your profile page in the Azure AD where you are a
 Guest.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270598iE609409E698DD551/image-size/large?v=v2&px=999" alt=image-4.png title=image-4.png></li>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-4_hu947f77d90ae7c017e91d91aa6e691002_87033_750x0_resize_q100_h2_box_3.webp alt=image-4.png></li>
 </ol>
 <h2 id=edit-profile-and-upload-picture>Edit profile and upload picture</h2>
 <p>Finally time to upload your profile picture!</p>
@@ -167,14 +167,14 @@ Guest.
 <li>Top of the profile, click the <code>Edit</code> button</li>
 <li>With your profile in edit mode, you can browse for a photo on your
 computer and upload it to your profile!
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270599iD7461D5E8B51110E/image-size/large?v=v2&px=999" alt=image-5.png title=image-5.png></li>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-5_huc5970ff566a1b42e4d28d34212a8e807_94769_750x0_resize_q100_h2_box_3.webp alt=image-5.png></li>
 </ol>
 <h2 id=wait-and-enjoy-success>Wait and enjoy success</h2>
 <p>It takes a while for your profile picture to show in Teams, and it might
 even show for a short while and go away again. But if you have enough
 patience, after about a week or so, your profile picture should show
 consistently across the Teams UI both for you and for others!
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270600i053E71756FA9DE2F/image-size/medium?v=v2&px=400" alt=image-6.png title=image-6.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-6_hu99af09400f44f036d529a4b725e9019c_4550_85x0_resize_q100_h2_box_3.webp alt=image-6.png>
 Until Microsoft Teams or Microsoft 365 gives us an easier way to change
 our profile picture, this is the best way to do it self service. The
 days of the anonymous circle with initials are over, time to show your

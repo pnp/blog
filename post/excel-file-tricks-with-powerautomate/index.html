@@ -161,7 +161,7 @@ When a file is created in our folder location (in this case OneDrive but
 equally it would work on SharePoint), we get the worksheet names and
 then get the file content of the original file.
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300547i18FE68F8DFC2C168/image-size/medium?v=v2&px=400" alt=DamoBird365_0-1628093847880.png title=DamoBird365_0-1628093847880.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628093847880_hu8e414fb8ac52254147ee194f09c64ecc_52240_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_0-1628093847880.png>
  
 Then in an apply to each, we use the results array from the
 "GetSheetNames" office script, and iterate through each item using a
@@ -173,21 +173,21 @@ file content and a prefix of "Current Item".  Finally calling the
 "Delete Sheets" Office Script using the dynamic Id of the Create File
 Action, based on the result of the filter array.  
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300548i14E0D62ECBD5DE63/image-size/medium?v=v2&px=400" alt=DamoBird365_1-1628094142942.png title=DamoBird365_1-1628094142942.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_1-1628094142942_hu02babdfe49555ebad0603b6c8af7a4bb_91237_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_1-1628094142942.png></p>
 <p>The end result is an excel workbook, containing one sheet and as we are
 in an apply to each, we end up with five worksheets, each with a unique
 worksheet.  Below we have the original workbook containing five
 worksheets.
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300552iDBF77C886AD799E2/image-size/medium?v=v2&px=400" alt=DamoBird365_3-1628094699559.png title=DamoBird365_3-1628094699559.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_3-1628094699559_hu9ab5ec4aa3c07eaa4f9b25894957d121_57001_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_3-1628094699559.png>
  
 Here we see the individual workbooks on OneDrive, prefixed with the
 sheet name:
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300551i304909991C344C6F/image-size/medium?v=v2&px=400" alt=DamoBird365_2-1628094676818.png title=DamoBird365_2-1628094676818.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_2-1628094676818_hueadf06acd5496cdd1bd7f53cf749b3f1_24260_461x0_resize_q100_h2_box_3.webp alt=DamoBird365_2-1628094676818.png>
 Now we have a single workbook with a unique sheet, called "ATable":
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300553i557A17AFDBD0A548/image-size/medium?v=v2&px=400" alt=DamoBird365_4-1628094930996.png title=DamoBird365_4-1628094930996.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_4-1628094930996_hu0d98d3ab2eb2a36ec4bf3bbc14604d02_79451_637x0_resize_q100_h2_box_3.webp alt=DamoBird365_4-1628094930996.png>
  
 Why might you want to do this?  If you maintain a single workbook with
 multiple sheets and want to share a copy of each worksheet with
@@ -203,10 +203,10 @@ By creating an empty Excel file on SharePoint and using the get file
 content action, it's possible to save the JSON output to a compose and
 re-use the empty template file when using the "create file" action.
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300557i8DCA7977ACED62B5/image-size/medium?v=v2&px=400" alt=DamoBird365_0-1628095727802.png title=DamoBird365_0-1628095727802.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628095727802_hub910ce84fb172239e6d1bf02cabeac38_61217_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_0-1628095727802.png>
 A compose action with the File Content copied into it.  
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300558i865816494415A499/image-size/medium?v=v2&px=400" alt=DamoBird365_1-1628095823450.png title=DamoBird365_1-1628095823450.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_1-1628095823450_hue3bb2d84e5034db5adb5f71ce5fadaba_28659_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_1-1628095823450.png>
 By doing it this way, we achieve two things.
 1. no need for the donor empty excel file, we can delete it and not
 have to worry about it being deleted accidentally
@@ -220,13 +220,13 @@ table to allow data to be inserted.  Here we have a table range from
 column A to E on row 1, i.e. 5 columns with headers Name, Age, Address1,
 Address2, PostCode.
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300559i56B68BEA4CD3773A/image-size/medium?v=v2&px=400" alt=DamoBird365_2-1628096048590.png title=DamoBird365_2-1628096048590.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_2-1628096048590_hu6260ef4860ef520d5efe12b837da8645_54541_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_2-1628096048590.png></p>
 <p>To populate our excel file, I have an array contained within a compose,
 this data array could be the result of another action or a filter or
 OData query on another Excel Worksheet that you simply want to save a
 copy of:
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300561i1F60CDFD42058737/image-size/medium?v=v2&px=400" alt=DamoBird365_4-1628096378139.png title=DamoBird365_4-1628096378139.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_4-1628096378139_hu93e0cf501fba815d716929f64cccb293_32174_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_4-1628096378139.png>
  
  
 Then using an apply to each and the compose array as an input we can add
@@ -251,7 +251,7 @@ create table action. 
 The table name is provided dynamically from the create table action and
 the File Id is the dynamic value from the create file action.
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300560i90986028D875BB53/image-size/medium?v=v2&px=400" alt=DamoBird365_3-1628096174072.png title=DamoBird365_3-1628096174072.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_3-1628096174072_hudb2f8c0377c9ee37ded9265e013b893e_57342_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_3-1628096174072.png>
 If we turn on concurrency, we can add 50 rows to the newly created excel
 file in a matter of seconds.  Whilst I haven't covered this here, it
 would be possible to write an office script to take an array of objects
@@ -270,7 +270,7 @@ Here we have a CSV contained within a compose and another compose action
 with a return line (literally press return on your keyboard).  Then
 using split, we turn the CSV into an array of separate lines.
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300562i522EE586591513FB/image-size/medium?v=v2&px=400" alt=DamoBird365_5-1628096964541.png title=DamoBird365_5-1628096964541.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_5-1628096964541_hu9d168863e4ce9f08198fb969d66165cf_45226_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_5-1628096964541.png>
  
 Using the select action, the from array input is the output from the
 compose splitline array (skipping object one, which contains the header
@@ -281,14 +281,14 @@ line) based on the separator, the comma ','. 
 This will allow us to call each value by integer
 index <em>split(item(),',')[0].</em>
  
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300563i025AC0D58B708C7D/image-size/medium?v=v2&px=400" alt=DamoBird365_6-1628097127838.png title=DamoBird365_6-1628097127838.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_6-1628097127838_hu26ade715c5b1ff7ae2cd7bb906d29813_38608_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_6-1628097127838.png>
 Our select action take an array of comma separated lines and outputs an
 array of key/value pairs like follows:
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300564iAD353590D0D2B6E7/image-size/medium?v=v2&px=400" alt=DamoBird365_7-1628097240857.png title=DamoBird365_7-1628097240857.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_7-1628097240857_hu687213bd46c9c6327c2102db89b145ff_52133_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_7-1628097240857.png>
  
 And if we update the apply to each source as the select output, we end
 up with a new excel file using a CSV file as our input:
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300565i877F08A627FB14B3/image-size/medium?v=v2&px=400" alt=DamoBird365_8-1628097338222.png title=DamoBird365_8-1628097338222.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/excel-file-tricks-with-powerautomate/DamoBird365_8-1628097338222_hua13b59aa7a3b3ae370f94dfbffad9567_60543_653x0_resize_q100_h2_box_3.webp alt=DamoBird365_8-1628097338222.png>
  
 For more information about parsing CSV files in PowerAutomate, please
 read my blog article <a href=https://www.damobird365.com/how-to-parse-a-csv-to-json-array-flow/>How To Parse any CSV to JSON Array -

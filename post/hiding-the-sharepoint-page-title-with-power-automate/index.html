@@ -99,7 +99,7 @@
 <p>For any SharePoint modern page that you create manually, there will
 always be a page title that you cannot remove using the SharePoint UI at
 the moment.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310146iE3D512D2732ED5E1/image-size/large?v=v2&px=999" alt=page-title.png title=page-title.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/hiding-the-sharepoint-page-title-with-power-automate/page-title_huecfa169fafb8f13a4a4866275d527c0b_22827_750x0_resize_q100_h2_box_3.webp alt=page-title.png></p>
 <p>The logic behind those options is that on the background they change a
 hidden field in the Page, which is the <strong>PageLayoutType</strong> field. This
 field is not exposed through the UI but is accessible and editable
@@ -113,13 +113,13 @@ updating the <strong>PageLayoutType</strong> field.
 If it is a normal page (Article), this flow will switch it to a page
 with the home page layout (no title), and vice versa (in case there is a
 need to show the title again).
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310147i9905827E43AC6BD0/image-size/large?v=v2&px=999" alt=running-flow.gif title=running-flow.gif>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/hiding-the-sharepoint-page-title-with-power-automate/running-flow.gif alt=running-flow.gif>
 So we want to make this flow available from the library UI, and for this
 to happen we need to use the SharePoint flow Trigger: <strong>For a Selected
 File</strong>.
 Select the site you want to use this functionality. And add the library
 too.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310149i401F865C80876E23/image-size/large?v=v2&px=999" alt=for-a-selected-file.png title=for-a-selected-file.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/hiding-the-sharepoint-page-title-with-power-automate/for-a-selected-file_hu49e64674df2a24e0e8bd6d7015162e11_13331_609x0_resize_q100_h2_box_3.webp alt=for-a-selected-file.png>
 Note that the Pages Library is not listed on the options for the
 triggers, however, you can add the list manually by adding its id
 (GUID), which can be found on the library settings page URL:
@@ -132,7 +132,7 @@ First, manipulate the page relative URL+ site id from data returned by
 the Flow&rsquo;s trigger.
 Initialise one variable called PageUrl and set it to the property
 &lsquo;<strong>itemUrl</strong>&rsquo;, gathered from the flow&rsquo;s trigger:
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310152i99A484C84B9EF99E/image-dimensions/614x188?v=v2" alt=PageURL.PNG title=PageURL.PNG>{.lia-media-image
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/hiding-the-sharepoint-page-title-with-power-automate/PageURL_hu3bd3db6f0c9676d965a2775a3281979e_23563_614x0_resize_q100_h2_box_3.webp alt=PageURL.PNG>{.lia-media-image
 width=&ldquo;614&rdquo; height=&ldquo;188&rdquo; role=&ldquo;button&rdquo;
 li-image-url=&ldquo;<a href="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310152i99A484C84B9EF99E?v=v2%22">https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310152i99A484C84B9EF99E?v=v2"</a>
 li-image-display-id="&lsquo;310152i99A484C84B9EF99E&rsquo;&rdquo;
@@ -145,7 +145,7 @@ Then initialise two variables using the following expressions as value
 splitting it and getting the right piece of the string):
 <strong>SiteURL</strong>: split(variables(&lsquo;PageUrl&rsquo;),&lsquo;SitePages&rsquo;)[0]
 <strong>PagePath:</strong> split(variables(&lsquo;PageUrl&rsquo;),&lsquo;sharepoint.com&rsquo;)[1]
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310154iDF31D10FF9D23121/image-size/large?v=v2&px=999" alt=vars.PNG title=vars.PNG></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/hiding-the-sharepoint-page-title-with-power-automate/vars_hu9e2de041bfcf3ad1fdbd619751003337_12172_616x0_resize_q100_h2_box_3.webp alt=vars.PNG></p>
 <p>Then you can make a call using REST API to
 the **GetFileByServerRelativeUrl **endpoint to retrieve the list item
 fields for the current page (explicitly selecting the PageLayoutType
@@ -187,12 +187,12 @@ to <strong>Article</strong>, if it is **Article **you should update it to <s
 <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310158i1C42AE3C7A770BA2/image-size/large?v=v2&px=999" alt=switchvalue.PNG title="switch value.PNG">
 And then send a **PATCH **HTTP request to SharePoint to update the
 current page field:
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310159iEE0134A3E2598812/image-size/large?v=v2&px=999" alt=patch.PNG title=patch.PNG></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/hiding-the-sharepoint-page-title-with-power-automate/patch_hub93ac07966d370d8b5b9ceeed785ec7e_20087_614x0_resize_q100_h2_box_3.webp alt=patch.PNG></p>
 <p><strong>Results</strong>
 When you execute the flow, it will switch the page layout as below. If
 you execute it again, it will switch back to the previous layout (from
 Article to Home or from Home to Article):
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310161i347EB97BD78277A9/image-size/large?v=v2&px=999" alt=running-flow.gif title=running-flow.gif>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/hiding-the-sharepoint-page-title-with-power-automate/running-flow.gif alt=running-flow.gif>
  </p>
 <p><strong>Reusing the flow in other Page Libraries</strong>
 If you built the flow as demonstrated above, it will be getting the site
@@ -242,7 +242,7 @@ same flow will be called as if it was triggered from the Automate menu.
 <p>You can then start it normally from any other Site Pages library in the
 tenant, where you add the column with the JSON formatting calling the
 flow:
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310164i531F5F3D92BC2502/image-size/large?v=v2&px=999" alt=switch_flow.PNG title=switch_flow.PNG>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/hiding-the-sharepoint-page-title-with-power-automate/switch_flow_hu29806abefd8b324b318b012ff5058a1b_72062_750x0_resize_q100_h2_box_3.webp alt=switch_flow.PNG>
 If you run the flow from a library where it was called using only the
 formatter, the values will be parsed correctly from the trigger and the
 flow will be executed successfully, as the JSON format button sends data

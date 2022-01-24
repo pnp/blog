@@ -113,9 +113,10 @@ I will just wait here for you.</p>
 case. Let's say we wanted to post a random item from a SharePoint list
 to twitter each day using Power Automate. This is a screenshot of my
 list:</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254209i268CCA366EB2B238/image-size/medium?v=v2&px=400" alt=parsejson-SPList.png title=parsejson-SPList.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-SPList_hu67e888788725dbd500db8a528bc26766_136775_750x0_resize_q100_h2_box_3.webp alt=parsejson-SPList.png>
 and this is the overview of the flow that we are going to build:</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254213i62A5872ACE8856D9/image-size/medium?v=v2&px=400" alt=parsejson-overview-flow.png title=parsejson-overview-flow.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-overview-flow_hu70adaa0fb5c1e2dbe3e9d3bd4e578117_43287_750x0_resize_q100_h2_box_3.webp alt=parsejson-overview-flow.png>
 <h3 id=trigger>Trigger</h3>
 <p>First things first, our trigger needs to be the <strong>Recurrence</strong> trigger,
 in which we specify, in which rhythm this flow shall run.</p>
@@ -146,7 +147,7 @@ need to parse. As already mentioned, we can see the JSON code in our run
 history, which is why we save our unfinished flow and let it run. Then
 we open the run history, and have a look at the Outputs of
 the <strong>Compose</strong> action and copy everything inside of that box.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254216iD8128BDAFB209BA6/image-size/medium?v=v2&px=400" alt=parsejson-history.png title=parsejson-history.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-history_hue726a4ce907c70cf7af8a81746eb56c1_78835_750x0_resize_q100_h2_box_3.webp alt=parsejson-history.png>
 <p>Now we edit our flow again, add the Parse JSON action, add the Outputs
 from our Compose Action as Inputs to that action and click
 the <strong>Generate from sample</strong> button. We will now paste the copied JSON
@@ -166,7 +167,7 @@ less generic hashtags (Pro's will add hashtags into a dedicated column
 in SharePoint.) If we now save and run our flow, it will first GET all
 items from the list, then identify a random list element and send out a
 tweet with the Title and URL auf exactly that list item.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254219i34B1812DC4296A79/image-size/large?v=v2&px=999" alt=parsejson-twitter.png title=parsejson-twitter.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-twitter_hu8ab66497bd0d5f56e6daaab7e1260386_18025_750x0_resize_q100_h2_box_3.webp alt=parsejson-twitter.png>
 <h2 id=conclusion--whats-next>Conclusion & What's next?</h2>
 <p>The Parse JSON action can help you turn Outputs from previous actions
 into Dynamic Content which you can then use in your flow. I'd love to

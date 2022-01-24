@@ -111,7 +111,7 @@ value out of this post, go read Loryans post first- it is written with
 great clarity and also I love this guys' taste of music
 :musical_notes:! Also please understand his flow first. I love the idea
 and creativity! The result of such a flow looks like this:</p>
-<p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311292i73BEAA2012A971BA/image-size/medium?v=v2&px=400" alt=Teams-status.png title=Teams-status.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/4-ways-to-level-up-your-power-automate-flows/Teams-status_hu8fd3ab03a6c6f2c0ddc1db62eed777be_50352_650x0_resize_q100_h2_box_3.webp alt=Teams-status.png>
 <p>While some would debate if this flow is necessary, I feel it shows that
 custom connectors are a great way to extend Microsoft 365. Also: #MusicWasMyFirstLove - case closed :)</p>
 <p>However when reading this blog post, I saw some patterns that I often
@@ -120,7 +120,7 @@ so much from Loryan, this time I hope to return the favor :)</p>
 <p>Loryan created 13 actions and as I seem to be just more lazy than he is,
 therefore I thinned out his awesome idea to just 5-6 actions: This is
 what it looks like:</p>
-<p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311290i347E9071AFFA36AE/image-size/large?v=v2&px=999" alt=flow-overview.png title=flow-overview.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/4-ways-to-level-up-your-power-automate-flows/flow-overview_hud37e9e7100a625e6fb762d3d59a0c50a_106779_750x0_resize_q100_h2_box_3.webp alt=flow-overview.png>
 <p>The result is about the same - just that I display also a message if I
 am currently not listening to music (yes, this happens!)</p>
 <h2 id=parse-json>Parse JSON</h2>
@@ -133,7 +133,7 @@ their values in expressions.</p>
 of the response we are interested in. Easiest way to achieve that:</p>
 <p>a) copy the body of the output of that action, paste it into a code
 editor - I work with Visual Studio Code</p>
-<p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311289i8B4E40CC42008A08/image-size/medium?v=v2&px=400" alt=flow-output.png title=flow-output.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/4-ways-to-level-up-your-power-automate-flows/flow-output_hu2a27c60a33c06c5478f0cb71778b5f57_39120_750x0_resize_q100_h2_box_3.webp alt=flow-output.png>
 <p>b) we make sure that we select <code>JSON</code> as language - VS Code will then
 color everything nicely for us and highlight beginning and ends of
 objects for example</p>
@@ -143,117 +143,117 @@ called <code>available markets</code> - it&rsquo;s a long list of country code
 a particular song is available. We don&rsquo;t need it here. If you aim to
 rebuild this, its highly recommended to copy the code from YOUR output,
 not from this blog post, as I shortened the code.</p>
-<pre tabindex=0><code>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-json data-lang=json>
         {
-            &quot;timestamp&quot;: 1631969547352,
-            &quot;progress_ms&quot;: 85903,
-            &quot;item&quot;: {
-              &quot;album&quot;: {
-                &quot;album_type&quot;: &quot;album&quot;,
-                &quot;artists&quot;: [
+            <span style=color:#f92672>&#34;timestamp&#34;</span>: <span style=color:#ae81ff>1631969547352</span>,
+            <span style=color:#f92672>&#34;progress_ms&#34;</span>: <span style=color:#ae81ff>85903</span>,
+            <span style=color:#f92672>&#34;item&#34;</span>: {
+              <span style=color:#f92672>&#34;album&#34;</span>: {
+                <span style=color:#f92672>&#34;album_type&#34;</span>: <span style=color:#e6db74>&#34;album&#34;</span>,
+                <span style=color:#f92672>&#34;artists&#34;</span>: [
                   {
-                    &quot;external_urls&quot;: {
-                      &quot;spotify&quot;: &quot;https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA&quot;
+                    <span style=color:#f92672>&#34;external_urls&#34;</span>: {
+                      <span style=color:#f92672>&#34;spotify&#34;</span>: <span style=color:#e6db74>&#34;https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA&#34;</span>
                     },
-                    &quot;href&quot;: &quot;https://api.spotify.com/v1/artists/3CQIn7N5CuRDP8wEI7FiDA&quot;,
-                    &quot;id&quot;: &quot;3CQIn7N5CuRDP8wEI7FiDA&quot;,
-                    &quot;name&quot;: &quot;Run–D.M.C.&quot;,
-                    &quot;type&quot;: &quot;artist&quot;,
-                    &quot;uri&quot;: &quot;spotify:artist:3CQIn7N5CuRDP8wEI7FiDA&quot;
+                    <span style=color:#f92672>&#34;href&#34;</span>: <span style=color:#e6db74>&#34;https://api.spotify.com/v1/artists/3CQIn7N5CuRDP8wEI7FiDA&#34;</span>,
+                    <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;3CQIn7N5CuRDP8wEI7FiDA&#34;</span>,
+                    <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Run–D.M.C.&#34;</span>,
+                    <span style=color:#f92672>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;artist&#34;</span>,
+                    <span style=color:#f92672>&#34;uri&#34;</span>: <span style=color:#e6db74>&#34;spotify:artist:3CQIn7N5CuRDP8wEI7FiDA&#34;</span>
                   }
                 ],
-                &quot;available_markets&quot;: [
+                <span style=color:#f92672>&#34;available_markets&#34;</span>: [
 
                 ],
-                &quot;external_urls&quot;: {
-                  &quot;spotify&quot;: &quot;https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg&quot;
+                <span style=color:#f92672>&#34;external_urls&#34;</span>: {
+                  <span style=color:#f92672>&#34;spotify&#34;</span>: <span style=color:#e6db74>&#34;https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg&#34;</span>
                 },
-                &quot;href&quot;: &quot;https://api.spotify.com/v1/albums/7AFsTiojVaB2I58oZ1tMRg&quot;,
-                &quot;id&quot;: &quot;7AFsTiojVaB2I58oZ1tMRg&quot;,
-                &quot;images&quot;: [
+                <span style=color:#f92672>&#34;href&#34;</span>: <span style=color:#e6db74>&#34;https://api.spotify.com/v1/albums/7AFsTiojVaB2I58oZ1tMRg&#34;</span>,
+                <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;7AFsTiojVaB2I58oZ1tMRg&#34;</span>,
+                <span style=color:#f92672>&#34;images&#34;</span>: [
                   {
-                    &quot;height&quot;: 640,
-                    &quot;url&quot;: &quot;https://i.scdn.co/image/ab67616d0000b273894ae4df775c6b47438991af&quot;,
-                    &quot;width&quot;: 640
+                    <span style=color:#f92672>&#34;height&#34;</span>: <span style=color:#ae81ff>640</span>,
+                    <span style=color:#f92672>&#34;url&#34;</span>: <span style=color:#e6db74>&#34;https://i.scdn.co/image/ab67616d0000b273894ae4df775c6b47438991af&#34;</span>,
+                    <span style=color:#f92672>&#34;width&#34;</span>: <span style=color:#ae81ff>640</span>
                   },
                   {
-                    &quot;height&quot;: 300,
-                    &quot;url&quot;: &quot;https://i.scdn.co/image/ab67616d00001e02894ae4df775c6b47438991af&quot;,
-                    &quot;width&quot;: 300
+                    <span style=color:#f92672>&#34;height&#34;</span>: <span style=color:#ae81ff>300</span>,
+                    <span style=color:#f92672>&#34;url&#34;</span>: <span style=color:#e6db74>&#34;https://i.scdn.co/image/ab67616d00001e02894ae4df775c6b47438991af&#34;</span>,
+                    <span style=color:#f92672>&#34;width&#34;</span>: <span style=color:#ae81ff>300</span>
                   },
                   {
-                    &quot;height&quot;: 64,
-                    &quot;url&quot;: &quot;https://i.scdn.co/image/ab67616d00004851894ae4df775c6b47438991af&quot;,
-                    &quot;width&quot;: 64
+                    <span style=color:#f92672>&#34;height&#34;</span>: <span style=color:#ae81ff>64</span>,
+                    <span style=color:#f92672>&#34;url&#34;</span>: <span style=color:#e6db74>&#34;https://i.scdn.co/image/ab67616d00004851894ae4df775c6b47438991af&#34;</span>,
+                    <span style=color:#f92672>&#34;width&#34;</span>: <span style=color:#ae81ff>64</span>
                   }
                 ],
-                &quot;name&quot;: &quot;Raising Hell&quot;,
-                &quot;release_date&quot;: &quot;1986-05-15&quot;,
-                &quot;release_date_precision&quot;: &quot;day&quot;,
-                &quot;total_tracks&quot;: 12,
-                &quot;type&quot;: &quot;album&quot;,
-                &quot;uri&quot;: &quot;spotify:album:7AFsTiojVaB2I58oZ1tMRg&quot;
+                <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Raising Hell&#34;</span>,
+                <span style=color:#f92672>&#34;release_date&#34;</span>: <span style=color:#e6db74>&#34;1986-05-15&#34;</span>,
+                <span style=color:#f92672>&#34;release_date_precision&#34;</span>: <span style=color:#e6db74>&#34;day&#34;</span>,
+                <span style=color:#f92672>&#34;total_tracks&#34;</span>: <span style=color:#ae81ff>12</span>,
+                <span style=color:#f92672>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;album&#34;</span>,
+                <span style=color:#f92672>&#34;uri&#34;</span>: <span style=color:#e6db74>&#34;spotify:album:7AFsTiojVaB2I58oZ1tMRg&#34;</span>
               },
-              &quot;artists&quot;: [
+              <span style=color:#f92672>&#34;artists&#34;</span>: [
                 {
-                  &quot;external_urls&quot;: {
-                    &quot;spotify&quot;: &quot;https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA&quot;
+                  <span style=color:#f92672>&#34;external_urls&#34;</span>: {
+                    <span style=color:#f92672>&#34;spotify&#34;</span>: <span style=color:#e6db74>&#34;https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA&#34;</span>
                   },
-                  &quot;href&quot;: &quot;https://api.spotify.com/v1/artists/3CQIn7N5CuRDP8wEI7FiDA&quot;,
-                  &quot;id&quot;: &quot;3CQIn7N5CuRDP8wEI7FiDA&quot;,
-                  &quot;name&quot;: &quot;Run–D.M.C.&quot;,
-                  &quot;type&quot;: &quot;artist&quot;,
-                  &quot;uri&quot;: &quot;spotify:artist:3CQIn7N5CuRDP8wEI7FiDA&quot;
+                  <span style=color:#f92672>&#34;href&#34;</span>: <span style=color:#e6db74>&#34;https://api.spotify.com/v1/artists/3CQIn7N5CuRDP8wEI7FiDA&#34;</span>,
+                  <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;3CQIn7N5CuRDP8wEI7FiDA&#34;</span>,
+                  <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Run–D.M.C.&#34;</span>,
+                  <span style=color:#f92672>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;artist&#34;</span>,
+                  <span style=color:#f92672>&#34;uri&#34;</span>: <span style=color:#e6db74>&#34;spotify:artist:3CQIn7N5CuRDP8wEI7FiDA&#34;</span>
                 },
                 {
-                  &quot;external_urls&quot;: {
-                    &quot;spotify&quot;: &quot;https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH&quot;
+                  <span style=color:#f92672>&#34;external_urls&#34;</span>: {
+                    <span style=color:#f92672>&#34;spotify&#34;</span>: <span style=color:#e6db74>&#34;https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH&#34;</span>
                   },
-                  &quot;href&quot;: &quot;https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH&quot;,
-                  &quot;id&quot;: &quot;7Ey4PD4MYsKc5I2dolUwbH&quot;,
-                  &quot;name&quot;: &quot;Aerosmith&quot;,
-                  &quot;type&quot;: &quot;artist&quot;,
-                  &quot;uri&quot;: &quot;spotify:artist:7Ey4PD4MYsKc5I2dolUwbH&quot;
+                  <span style=color:#f92672>&#34;href&#34;</span>: <span style=color:#e6db74>&#34;https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH&#34;</span>,
+                  <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;7Ey4PD4MYsKc5I2dolUwbH&#34;</span>,
+                  <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Aerosmith&#34;</span>,
+                  <span style=color:#f92672>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;artist&#34;</span>,
+                  <span style=color:#f92672>&#34;uri&#34;</span>: <span style=color:#e6db74>&#34;spotify:artist:7Ey4PD4MYsKc5I2dolUwbH&#34;</span>
                 }
               ],
-              &quot;available_markets&quot;: [
+              <span style=color:#f92672>&#34;available_markets&#34;</span>: [
 
               ],
-              &quot;disc_number&quot;: 1,
-              &quot;duration_ms&quot;: 310386,
-              &quot;explicit&quot;: false,
-              &quot;external_ids&quot;: {
-                &quot;isrc&quot;: &quot;USAR19900334&quot;
+              <span style=color:#f92672>&#34;disc_number&#34;</span>: <span style=color:#ae81ff>1</span>,
+              <span style=color:#f92672>&#34;duration_ms&#34;</span>: <span style=color:#ae81ff>310386</span>,
+              <span style=color:#f92672>&#34;explicit&#34;</span>: <span style=color:#66d9ef>false</span>,
+              <span style=color:#f92672>&#34;external_ids&#34;</span>: {
+                <span style=color:#f92672>&#34;isrc&#34;</span>: <span style=color:#e6db74>&#34;USAR19900334&#34;</span>
               },
-              &quot;external_urls&quot;: {
-                &quot;spotify&quot;: &quot;https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx&quot;
+              <span style=color:#f92672>&#34;external_urls&#34;</span>: {
+                <span style=color:#f92672>&#34;spotify&#34;</span>: <span style=color:#e6db74>&#34;https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx&#34;</span>
               },
-              &quot;href&quot;: &quot;https://api.spotify.com/v1/tracks/6qUEOWqOzu1rLPUPQ1ECpx&quot;,
-              &quot;id&quot;: &quot;6qUEOWqOzu1rLPUPQ1ECpx&quot;,
-              &quot;is_local&quot;: false,
-              &quot;name&quot;: &quot;Walk This Way (feat. Aerosmith)&quot;,
-              &quot;popularity&quot;: 69,
-              &quot;preview_url&quot;: &quot;https://p.scdn.co/mp3-preview/c7a8010bbddcd0d793a832de76a24d2cae5ab497?cid=2e75e650d1e74b6a994734ed4aea2ef7&quot;,
-              &quot;track_number&quot;: 4,
-              &quot;type&quot;: &quot;track&quot;,
-              &quot;uri&quot;: &quot;spotify:track:6qUEOWqOzu1rLPUPQ1ECpx&quot;
+              <span style=color:#f92672>&#34;href&#34;</span>: <span style=color:#e6db74>&#34;https://api.spotify.com/v1/tracks/6qUEOWqOzu1rLPUPQ1ECpx&#34;</span>,
+              <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;6qUEOWqOzu1rLPUPQ1ECpx&#34;</span>,
+              <span style=color:#f92672>&#34;is_local&#34;</span>: <span style=color:#66d9ef>false</span>,
+              <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Walk This Way (feat. Aerosmith)&#34;</span>,
+              <span style=color:#f92672>&#34;popularity&#34;</span>: <span style=color:#ae81ff>69</span>,
+              <span style=color:#f92672>&#34;preview_url&#34;</span>: <span style=color:#e6db74>&#34;https://p.scdn.co/mp3-preview/c7a8010bbddcd0d793a832de76a24d2cae5ab497?cid=2e75e650d1e74b6a994734ed4aea2ef7&#34;</span>,
+              <span style=color:#f92672>&#34;track_number&#34;</span>: <span style=color:#ae81ff>4</span>,
+              <span style=color:#f92672>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;track&#34;</span>,
+              <span style=color:#f92672>&#34;uri&#34;</span>: <span style=color:#e6db74>&#34;spotify:track:6qUEOWqOzu1rLPUPQ1ECpx&#34;</span>
             },
-            &quot;currently_playing_type&quot;: &quot;track&quot;,
-            &quot;actions&quot;: {
-              &quot;disallows&quot;: {
-                &quot;resuming&quot;: true,
-                &quot;toggling_repeat_context&quot;: true,
-                &quot;toggling_repeat_track&quot;: true,
-                &quot;toggling_shuffle&quot;: true
+            <span style=color:#f92672>&#34;currently_playing_type&#34;</span>: <span style=color:#e6db74>&#34;track&#34;</span>,
+            <span style=color:#f92672>&#34;actions&#34;</span>: {
+              <span style=color:#f92672>&#34;disallows&#34;</span>: {
+                <span style=color:#f92672>&#34;resuming&#34;</span>: <span style=color:#66d9ef>true</span>,
+                <span style=color:#f92672>&#34;toggling_repeat_context&#34;</span>: <span style=color:#66d9ef>true</span>,
+                <span style=color:#f92672>&#34;toggling_repeat_track&#34;</span>: <span style=color:#66d9ef>true</span>,
+                <span style=color:#f92672>&#34;toggling_shuffle&#34;</span>: <span style=color:#66d9ef>true</span>
               }
             },
-            &quot;is_playing&quot;: true
+            <span style=color:#f92672>&#34;is_playing&#34;</span>: <span style=color:#66d9ef>true</span>
           }
-</code></pre><p>d) look for the properties you are interested in - for example we want
+</code></pre></div><p>d) look for the properties you are interested in - for example we want
 to if a song is playing right now - we will find
 the <code>is_playing</code> property, which will either return <code>true</code> or <code>false</code>,
 which makes it perfect to put this into our condition:</p>
-<p>[<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311288i14EE0D4A22C2B18F/image-size/medium?v=v2&px=400" alt=flow-condition.png title=flow-condition.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/4-ways-to-level-up-your-power-automate-flows/flow-condition_hud430b4e69dd3de1179dfeafb181e62f4_12135_750x0_resize_q100_h2_box_3.webp alt=flow-condition.png>
 <p>The expression is <code>outputs('Get_Current_Song')['body']['is_playing']</code>.</p>
 <p>Why is that? Let&rsquo;s deconstruct this: From the output of
 the <code>Get_Current_Song</code>, we are interested in the <code>['body']</code> and inside

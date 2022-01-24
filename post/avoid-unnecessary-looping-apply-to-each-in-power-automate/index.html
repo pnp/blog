@@ -111,7 +111,7 @@ from an Array (<em>see image below</em>).</p>
 <p>If we test the Flow and we can see there is only one object in the array
 so we can see the Apply to each loop is unnecessary as it does not need
 to loop through any other items.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261393i9D9FC94ABE2C0764/image-dimensions/774x735?v=v2" alt=LeonArmston_2-1615045186651.png title=LeonArmston_2-1615045186651.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_2-1615045186651_hub9e1432d23493a1591156251b8c08770_22087_572x0_resize_q100_h2_box_3.webp alt=LeonArmston_2-1615045186651.png>
 <p>I always like to reduce the amount of actions and loops in Power
 Automate for speed and readability reasons.</p>
 <h2 id=remove-unnecessary-apply-to-each-loops-with-the-first-function>Remove unnecessary Apply to each loops with the first() function</h2>
@@ -123,7 +123,7 @@ the array using an Expression.</p>
 delete the Apply to each loop from our Flow and then create a new
 Compose action where we will enter the following expression to access
 just the Title property of the list item without a loop.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261395i846C94EEFEC7F0F2/image-size/large?v=v2&px=999" alt=LeonArmston_3-1615045186656.png title=LeonArmston_3-1615045186656.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_3-1615045186656_hub710a98ce2134b27522f54041da9f70a_52556_750x0_resize_q100_h2_box_3.webp alt=LeonArmston_3-1615045186656.png>
 <p>In the image below I will describe the expression: in <strong>blue</strong> the
 first() expression is being used and within it is brackets () in <strong>red</strong>
 is a body reference to the SharePoint Get Items action. If you have
@@ -134,14 +134,14 @@ all of the SharePoint list item values in an array &ndash; this does not need
 to be changed. The first function brackets are then closed in <strong>blue</strong>.
 Then finally in <strong>green</strong> enter the internal name of the SP column you
 wish display in my case the Title column.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261396i47A7FBE6A970B24E/image-size/large?v=v2&px=999" alt=LeonArmston_4-1615045186663.png title=LeonArmston_4-1615045186663.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_4-1615045186663_hu4166a20c106497e7cfc802570253aecb_66228_750x0_resize_q100_h2_box_3.webp alt=LeonArmston_4-1615045186663.png>
 <p>The above expression could also be done with the following expression
 using <strong>[0]</strong> to access the first element of the array. However using
 the <strong>first()</strong> function is much better for readability.</p>
 <p>I will now test my Flow by running it and we can now see from the image
 below that it ran successfully and without a adding the Compose action
 to a Apply to each loop.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261394i2AE18D02BFBE7403/image-size/large?v=v2&px=999" alt=LeonArmston_5-1615045186665.png title=LeonArmston_5-1615045186665.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_5-1615045186665_huf3e4b14278398c67ec5a8542e30994d6_17383_581x0_resize_q100_h2_box_3.webp alt=LeonArmston_5-1615045186665.png>
 <h2 id=summary>Summary</h2>
 <p>So there we have it we have learnt how to remove unnecessary Apply to
 each loops when using the SharePoint Get Items action by using the

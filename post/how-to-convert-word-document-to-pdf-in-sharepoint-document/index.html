@@ -106,17 +106,18 @@ to automate premium licenses then we can also achieve a solution.
 <h2 id=implementation>Implementation</h2>
 <p>1. Go to <strong>Power Automate</strong> > <strong>My flows</strong> > Click on <strong>New flow</strong> >
 Select <strong>Automated Cloud Flow</strong>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326840i68A176C1475E2211/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_0-1636792320998.png title=ChandaniPrajapati_0-1636792320998.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636792320998_hub760c87bd121d82d7feea875077c95ea_39800_371x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_0-1636792320998.png>
  </p>
 <p>2. It will ask for the flow name and trigger.
 Add flow name and choose a trigger <strong>when a file is created (properties
 only).</strong> A trigger is depending on our business requirement you can also
 choose when a file is created or modified too.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326841iD1572E113B2456E6/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_1-1636792461300.png title=ChandaniPrajapati_1-1636792461300.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_1-1636792461300_hu54d37dedd71b799a3da062b351b00384_66666_750x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_1-1636792461300.png></p>
 <p>3. Click on **Create.</p>
 <p>Basically, we don't have direct action to convert to PDF for SharePoint so first, we will create a library item/file in Onedrive and in one drive has an action to conversion so we will use one drive converter to convert to pdf format, and then we will move it to the library and delete it from one drive.*</p>
 <p>At the end, our flow will be as below,</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326843i46C4E19F8F6BBEAF/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_0-1636793559861.png title=ChandaniPrajapati_0-1636793559861.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636793559861_hu4cfe10cc9ce4747228853718a396087a_47442_662x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_0-1636793559861.png>
  </p>
 <p>Now let's see an implementation.</p>
 <ul>
@@ -128,7 +129,7 @@ choose when a file is created or modified too.
 <strong>Site Address</strong> Select Site URL or Add Custom SIte URL on which you want to run this flow
 <strong>Library Name</strong> Select Library Name</p>
 <hr>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326893i2BA11008512CD7C4/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_0-1636864104189.png title=ChandaniPrajapati_0-1636864104189.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636864104189_huf78f57bf2d2f8abd7c8c69ddbe25f28f_24640_492x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_0-1636864104189.png>
 <h3 id=get-file-content>Get File content</h3>
 <pre><code>-   Action:  Select SharePoint Get file content
 </code></pre>
@@ -140,7 +141,7 @@ Select Site URL or Add Custom Site URL on which you want to run this flow</p>
 <li>
 <p><strong>File Identifier</strong>
 [Select ]
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326894iBD5BA2B2DBB04BF6/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_1-1636864275047.png title=ChandaniPrajapati_1-1636864275047.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_1-1636864275047_hu8f932d4238b36cc40d4505d9c94b6dcb_13874_598x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_1-1636864275047.png></p>
 </li>
 <li>
 <h3 id=create-a-file-to-onedrive>Create a file to Onedrive</h3>
@@ -163,7 +164,7 @@ Select folder path of one drive where you want or create a file</p>
 <p>[Select File Content - which we have created in the previous action]</p>
 </li>
 </ul>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326900i0773D79FAA4746F9/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_7-1636864944228.png title=ChandaniPrajapati_7-1636864944228.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_7-1636864944228_hu5f7f13fadef82883b5f8bcec9b3ae4c7_12339_597x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_7-1636864944228.png>
 <ul>
 <li>
 <h4 id=convert-file-to-pdf>Convert file to PDF</h4>
@@ -175,7 +176,7 @@ Select folder path of one drive where you want or create a file</p>
 <p><strong>Properties</strong> <strong>Value</strong>
 <strong>File</strong> Select Id [which we have created in the previous action]
 <strong>Target Type</strong> [Select ]</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326899i294BF6F005F16561/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_6-1636864910697.png title=ChandaniPrajapati_6-1636864910697.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_6-1636864910697_hue915ce5d56c62fd6a1bf7644c975d35d_8451_601x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_6-1636864910697.png>
 <ul>
 <li>
 <h4 id=create-pdf-file-to-onedrive>Create PDF File to Onedrive</h4>
@@ -196,7 +197,7 @@ Select folder path of one drive where you want or create a file</p>
 </ul>
 </li>
 </ul>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326898i339CE0360AFA602F/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_5-1636864879248.png title=ChandaniPrajapati_5-1636864879248.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_5-1636864879248_hu9028a00638bc00f7e827eac04a92a6fe_10875_598x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_5-1636864879248.png>
 <ul>
 <li>
 <h3 id=create-pdf-file-to-document-library>Create PDF file to Document Library</h3>
@@ -219,7 +220,7 @@ Select folder path of one drive where you want or create a file</p>
 <li>
 <p><strong>File Content</strong>
 [Select File Content - which we have created in the previous action]
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326897i8564830E2B45DD25/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_4-1636864839927.png title=ChandaniPrajapati_4-1636864839927.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_4-1636864839927_hu4be03bfd0275aaac7a5f3f8d183fcac3_17215_599x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_4-1636864839927.png></p>
 </li>
 <li>
 <h4 id=delete-word-file-from-onedrive>Delete word file from OneDrive</h4>
@@ -232,7 +233,7 @@ Select folder path of one drive where you want or create a file</p>
 <p><strong>Properties</strong> <strong>Value</strong>
 <strong>Id</strong> Select Onedrive word file ID</p>
 <hr>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326896iB8CBA402E13163FB/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_3-1636864760614.png title=ChandaniPrajapati_3-1636864760614.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_3-1636864760614_hub7834531d0d550ec59084ad48398407e_6682_598x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_3-1636864760614.png>
 <ul>
 <li>
 <h3 id=delete-pdf-file-from-onedrive>Delete PDF file from OneDrive</h3>
@@ -245,9 +246,10 @@ Select folder path of one drive where you want or create a file</p>
 <p><strong>Properties</strong> <strong>Value</strong>
 <strong>Id</strong> Select Onedrive PDF file ID</p>
 <hr>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326895i0B8F91B9FBD8B21A/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_2-1636864751972.png title=ChandaniPrajapati_2-1636864751972.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_2-1636864751972_hub7834531d0d550ec59084ad48398407e_6682_598x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_2-1636864751972.png>
 <h2 id=output>Output</h2>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327283iB7A286C44B3C2D74/image-size/large?v=v2&px=999" alt=ChandaniPrajapati_0-1637069155125.png title=ChandaniPrajapati_0-1637069155125.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1637069155125_huee5e2dc310e4470bbe64ce190fc11e43_44185_637x0_resize_q100_h2_box_3.webp alt=ChandaniPrajapati_0-1637069155125.png>
  </p>
 <h2 id=summary>Summary</h2>
 <p>In this article, we have seen how to convert <strong>Word Document to PDF</strong> in

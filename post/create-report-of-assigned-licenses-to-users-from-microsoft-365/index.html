@@ -180,7 +180,7 @@ Create new flow -> Select Recurrence -> Select month -> Create.
 <h2 id=step-4--initialize-variables-in-power-automate>Step 4 - Initialize variables in Power Automate</h2>
 <p>We need 7 variables that will store multiple values and use them to
 generate reports.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307476i4FACDC8F91B8BD27/image-size/large?v=v2&px=999" alt=Reports2.png title=Reports2.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports2_hue5394fa9298937b7c685d6305f47740a_22001_668x0_resize_q100_h2_box_3.webp alt=Reports2.png>
 Paste Tenant ID, Client Secret and Client ID which we had from the azure
 active directory.</p>
 <h2 id=step-5--get-licenses-from-sharepoint-list-in-power-automate>Step 5 - Get Licenses from SharePoint list in Power Automate</h2>
@@ -194,7 +194,7 @@ store users&rsquo; details in it.
 We will use &ldquo;Get File Content&rdquo; to get content from the existing excel
 file template and &ldquo;Create File&rdquo; to create a new file in the desire
 location in SharePoint.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307478i7D85F702817B137D/image-size/large?v=v2&px=999" alt=Report4.1.png title=Report4.1.png>-align-inline image-alt=&ldquo;Report4.1.png&rdquo; style=&ldquo;width: 625px;"}
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Report4.1_hu2f86ee187d37168666b5fca1e3728036_34055_625x0_resize_q100_h2_box_3.webp alt=Report4.1.png>-align-inline image-alt=&ldquo;Report4.1.png&rdquo; style=&ldquo;width: 625px;"}
  </p>
 <h2 id=step-7--access-excel-worksheet-in-power-automate>Step 7 - Access Excel worksheet in Power Automate</h2>
 <p>We will get worksheets from excel sheet using Excel Online connector in
@@ -202,7 +202,7 @@ Power automate.
 Get all sheets from excel file using &ldquo;get Worksheet: connector.
 &ldquo;Parse JSON&rdquo; connector is used to access response from getting Worksheet
 connector.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307479i3AD06056E0A7A11A/image-size/large?v=v2&px=999" alt=Report5.png title=Report5.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Report5_hu5a846473e2d5d7db298ebd3a13b5d375_20327_625x0_resize_q100_h2_box_3.webp alt=Report5.png>
 JSON Schema for Parse JSON should be the same as below.
  
  
@@ -259,7 +259,8 @@ Tenant: Add Reference of TenantId variable
 Client Id: Add Reference of Client ID Variable
 Secret: Add Reference of Client Secret Variable
 Audience: Add Reference of AudienceURL variable
- <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307481iA4B35E4BBDB00954/image-size/large?v=v2&px=999" alt=reports7.png title=reports7.png></p>
+ 
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/reports7_hub87f9bec85eb1131f9b7ca8cb002651a_30912_571x0_resize_q100_h2_box_3.webp alt=reports7.png></p>
 <p>Pass JSON schema in Parse JSON Connector.
  
  </p>
@@ -351,10 +352,10 @@ We can get SKU ID from the response and we do filter from licenses array
 based on SKU IDs.
 &ldquo;Filter Array&rdquo; action is used to filter items from an existing array
 in power automate.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307483iA24E817AF223582D/image-size/large?v=v2&px=999" alt=Reports9.png title=Reports9.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports9_hu9438b8fe0c62d6e3f1959468b24fa702_28728_750x0_resize_q100_h2_box_3.webp alt=Reports9.png></p>
 <h2 id=step-10>Step 10</h2>
 <p>Add a new row in the table is created excel file.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307484iE67A4F58F7CB9125/image-size/large?v=v2&px=999" alt=reports10.png title=reports10.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/reports10_hu137c7a178592470fa4c88f0c85f04e84_30211_568x0_resize_q100_h2_box_3.webp alt=reports10.png>
 Full Power automate will look like as below.
 <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307485i311E9D45D2B58D2E/image-size/large?v=v2&px=999" alt="Create report of assigned licenses for users from Microsoft36511.gif" title="Create report of assigned licenses for users from Microsoft 36511.gif">
 The output will be as below.

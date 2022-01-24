@@ -102,14 +102,14 @@ post</a>,
 the basic building blocks of custom <em>column</em> formatting were introduced
 to us. From that, we learned how to customize our columns to create some
 interesting visuals.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265503iDD2CE6270C600285/image-size/large?v=v2&px=999" alt=column-formatting-after.png title=column-formatting-after.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-formatting-after_huf4c6edd1e7534b0c407769bba4eac3ff_219131_622x0_resize_q100_h2_box_3.webp alt=column-formatting-after.png></p>
 <p>Things look better, but each column is still a separate component. What
 if we want to tie them all together into a more cohesive presentation?
 The good news is that we can! Just like we customized our columns, we
 can also customize SharePoint list views! That will allow us to go from
 a traditional table/column/cell view, to something that looks 'put
 together', like so...</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265504i01A4705495E9AB8D/image-size/large?v=v2&px=999" alt=view-formatting-after.png title=view-formatting-after.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/view-formatting-after_hu42f566dfdd72397a5515c25516a5a799_182657_622x0_resize_q100_h2_box_3.webp alt=view-formatting-after.png>
 <h2 id=preparing-for-your-journey>Preparing for your journey</h2>
 <p>Before you get going, there are a few things that will help prepare you
 for the trek ahead.
@@ -133,7 +133,7 @@ previous blog post will apply here as well.</p>
 <h2 id=choose-your-own-adventure>Choose your own adventure</h2>
 <p>In case you weren't aware, views in a Modern SharePoint list come in a
 few flavors.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265505i2FB8D27E3B32D6E2/image-size/large?v=v2&px=999" alt=list-view-flavors.png title=list-view-flavors.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/list-view-flavors_hu0e1869faac6b6c880d30b359ad345cb2_2512_204x0_resize_q100_h2_box_3.webp alt=list-view-flavors.png>
 <p>Most of us are probably already very familiar with the <em>List</em> layout;
 It's what we've been used to for decades. <em>Compact List</em> is the same
 as <em>List</em>...just smaller. The <em>Tiles</em> view, frequently referred to as
@@ -156,7 +156,7 @@ it will be to plan things out in advance. This is where some
 understanding of HTML will come in handy.
 To help guide myself, I created the following image to try and visualize
 how my various DIVs and other elements would be laid out.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265506i1AB526DE608F23FD/image-size/large?v=v2&px=999" alt=blowout-witharrows.png title=blowout-witharrows.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/blowout-witharrows_hu7f0560975b3d919540566a16b563bb7a_103353_601x0_resize_q100_h2_box_3.webp alt=blowout-witharrows.png>
 This isn't necessary, obviously, but I personally find it helpful to
 have a blueprint in front of me (even if it's only a mental one).</p>
 <h2 id=formatting-list-views>Formatting List views</h2>
@@ -243,7 +243,7 @@ the built-in variable <code>@currentField</code>, but what about when we're
 dealing with more than one view? <code>@currentField</code> is still there, but it
 holds a slightly different meaning in this context. It will always be a
 reference to the standard <em>Title</em> field.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265507i5D7B2F98147C10FA/image-size/large?v=v2&px=999" alt=LOTR-Meme.png title=LOTR-Meme.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/LOTR-Meme_hubca4c918fba85eef7bc9901ce3383b67_183178_375x0_resize_q100_h2_box_3.webp alt=LOTR-Meme.png></p>
 <p>Instead of using <code>@currentField</code> to reference a column, we'll need to
 use a slightly different format: <code>[$InternalColumnName]</code>.
 In our list, we have a handful of columns including a <em>Member</em> lookup
@@ -257,7 +257,7 @@ property. We'd do that in the following way <code>[$Member.title]</code>.</p>
 We can use the "map" we created earlier and turn it into a rough
 skeleton. Each layer in that blowout represent a parent/child
 relationship. So, by looking at our map...
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265509i4A380A393D351311/image-size/large?v=v2&px=999" alt=blowout-witharrows.png title=blowout-witharrows.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/blowout-witharrows_hu7f0560975b3d919540566a16b563bb7a_103353_601x0_resize_q100_h2_box_3.webp alt=blowout-witharrows.png></p>
 <p>We come up with this.</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON>{
     <span style=color:#f92672>&#34;$schema&#34;</span>: <span style=color:#e6db74>&#34;https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json&#34;</span>,
@@ -502,7 +502,7 @@ column formatting used on the <em>Role</em> field.</p>
     }]
 }
 </code></pre></div><p>At this point, we have something like the below image.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265510i28688EE98C7D0599/image-size/large?v=v2&px=999" alt=column-1.png title=column-1.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-1_hu0c39e32f79d8afae6f33d2f8b9f4d93d_190418_618x0_resize_q100_h2_box_3.webp alt=column-1.png></p>
 <h2 id=second-column>Second column</h2>
 <p>Our second column consists of three rows, each containing a different
 bit of text relating information about the current member. Here's the
@@ -560,7 +560,7 @@ onto its own line.
 The <code>justify-content</code> property, on the other hand, tells the browser to
 evenly distribute our rows across the available height.</p>
 <p>We're getting closer to our desired end result.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265511iD5CF257C4080D49B/image-size/large?v=v2&px=999" alt=column-2.png title=column-2.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-2_hu55badfa6151b33ed586718e84886699e_203967_626x0_resize_q100_h2_box_3.webp alt=column-2.png></p>
 <h2 id=the-final-column>The final column</h2>
 <p>Our last column consists of two rows of equal size to hold our Race and
 Weapon Icons. Let's take a look.</p>
@@ -594,7 +594,7 @@ Weapon Icons. Let's take a look.</p>
     ]
 }
 </code></pre></div><p>There's nothing new to discuss here, but it does finish off our sample.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265512i2D4112ABC4D1B7FD/image-size/large?v=v2&px=999" alt=column-3.png title=column-3.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-3_hubf42210d3821410c4dd814cf2b70c45f_205934_621x0_resize_q100_h2_box_3.webp alt=column-3.png></p>
 <h2 id=the-complete-schema>The Complete Schema</h2>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON>{
     <span style=color:#f92672>&#34;$schema&#34;</span>: <span style=color:#e6db74>&#34;https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json&#34;</span>,
@@ -732,7 +732,7 @@ Weapon Icons. Let's take a look.</p>
 </code></pre></div><h2 id=our-adventure-draws-near-its-end>Our adventure draws near its end</h2>
 <p>Now that we've got our view formatted, we're done, right? We could be,
 but the list view is off somehow...
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265513i7C2722D1D383D6DC/image-size/large?v=v2&px=999" alt=list-view-complete.png title=list-view-complete.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/list-view-complete_huea4226f32d479c571ed96d43582330da_240871_750x0_resize_q100_h2_box_3.webp alt=list-view-complete.png>
 Look at all that empty white space! Such a waste, but showing each item
 in a row is what the list view does. Sometimes, that may be exactly what
 you need in some cases but here...we don't need it.
@@ -740,7 +740,7 @@ Instead, we can use the "Gallery" (or "Tile)" view, which will
 display our items in a grid view.
 We can copy the the schema we've already defined, and change the
 selected layout from "List" to "Gallery"
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265514i1C0303367FF14475/image-size/large?v=v2&px=999" alt=format-options.png title=format-options.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/format-options_hua46ad494dec862ddc68fe52e12aa9bb9_10198_647x0_resize_q100_h2_box_3.webp alt=format-options.png>
 After that, we can paste it in, but we'll need to modify things every
 so slightly, as the Gallery layout has some additional properties we
 need to specify. Let's look at the basic schema for a gallery view.</p>
@@ -764,7 +764,7 @@ After that, we can simply copy the contents of the <code>rowFormatter</code>
 property in the list view example and paste them into the new
 <code>formatter</code> property.
 Doing that should get us to where we want to be.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265515iDEB0C3BA37A107DD/image-size/large?v=v2&px=999" alt=final-product.png title=final-product.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/getting-started-with-sharepoint-s-custom-view-formatting/final-product_hu1d4045c2a609c35390cff059b8ab108e_438124_750x0_resize_q100_h2_box_3.webp alt=final-product.png></p>
 <h2 id=prologue>Prologue</h2>
 <p>Over the course of two blogs, we've covered the basic building blocks
 of custom column formatting as well as how to customize our list and

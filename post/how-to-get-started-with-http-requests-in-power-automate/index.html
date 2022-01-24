@@ -96,7 +96,7 @@
 </li>
 </ul>
 <div class=content><h1 id=how-to-get-started-with-http-requests-in-power-automate>How to get started with HTTP requests in Power Automate</h1>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254263iBDBEE5E587304C5C/image-size/large?v=v2&px=999" alt=explorer.jpg title=explorer.jpg></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-get-started-with-http-requests-in-power-automate/explorer_hu4e7df906fff88b161aebcce466a1ec22_20067_512x0_resize_q100_h2_box.webp alt=explorer.jpg>
 <p>If you ever wondered what is an HTTP request and why you would want to
 know how this works - this post is made for you.</p>
 <h2 id=what-is-a-http-request-and-why-would-i-need-it>What is a HTTP request and why would I need it?</h2>
@@ -166,7 +166,7 @@ content in it. To make things easier, we will use the mobile trigger and
 ask for Team Name, Team Description, and if a user wants a channel
 for <strong>Learning</strong> and wants to pin training material (a website) as a tab
 to this channel </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254231i57B99AE807EA0C1A/image-size/medium?v=v2&px=400" alt=manually-trigger.png title=manually-trigger.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-get-started-with-http-requests-in-power-automate/manually-trigger_huab10486eb0f0c426c75483cb62ebeb60_38084_750x0_resize_q100_h2_box_3.webp alt=manually-trigger.png>
 <p>(Of course, we would do that later in a form, an app, or a bot, but for
 understanding the logic of HTTP requests in Power Automate I will keep
 this as simple as possible)</p>
@@ -177,7 +177,8 @@ called <strong>Learning</strong> and want to pin a website to it.</p>
 Teams" in Power Automate. Fortunately, we can still do this by making
 an HTTP request towards Microsoft Graph. This is why I added the HTTP
 action into the flow:</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254234iEC4719F668328375/image-size/medium?v=v2&px=400" alt=methods.png title=methods.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-get-started-with-http-requests-in-power-automate/methods_hu779002b3e458fdaedf51cc3b8b0a5701_16138_750x0_resize_q100_h2_box_3.webp alt=methods.png>
 You can see a lot of fields in that HTTP action, so I will make you
 understand them.</p>
 <h3 id=what-do-we-need-to-make-a-successful-http-request>What do we need to make a successful HTTP request?</h3>
@@ -206,7 +207,7 @@ GET == Read</p>
 <p>DELETE == remove
 If we now open the dropdown menu for the <strong>Method</strong> field in the HTTP
 action, we will see a representation of that:</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254236i4C53D28502202A7E/image-size/medium?v=v2&px=400" alt=methods.png title=methods.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-get-started-with-http-requests-in-power-automate/methods_hu779002b3e458fdaedf51cc3b8b0a5701_16138_750x0_resize_q100_h2_box_3.webp alt=methods.png>
 <p>As we want to <em>create</em> a new tab in a channel, we will use <strong>POST</strong>.</p>
 <h4 id=headers>Headers</h4>
 <p>Headers are not mandatory for all requests, but look like
@@ -242,7 +243,7 @@ you want to pin including <code>https://</code>. If your website is
 only <code>http://</code> you can't use that inside of Teams.</li>
 </ul>
 <p>In total, this looks like this:</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254237i2C928068C970F40D/image-size/medium?v=v2&px=400" alt=http-without-auth.png title=http-without-auth.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-get-started-with-http-requests-in-power-automate/http-without-auth_hu5eae0c502ac69332e8abdd0786d22a67_44352_750x0_resize_q100_h2_box_3.webp alt=http-without-auth.png>
 <h4 id=authentication-in-azure-ad>Authentication in Azure AD</h4>
 <p>We are almost there, but some critical parts are missing. As you can see
 in the last image, there is a <strong>Show advanced options</strong> link in the HTTP
@@ -286,11 +287,11 @@ ID, App ID and App Secret. All three variables are of type string.</p>
 <p>Besides that, we will use our three variables for Tenant ID, App ID and
 App Secret.</p>
 <p> Our flow should look like this:</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254238i2D3B97F3B9DD892F/image-size/medium?v=v2&px=400" alt=flow-total.png title=flow-total.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-get-started-with-http-requests-in-power-automate/flow-total_huf96467a5c579690fe876decf228b7fe3_68813_750x0_resize_q100_h2_box_3.webp alt=flow-total.png>
 <h2 id=httpsm365princesscomhow-to-get-started-with-http-requests-in-power-automatecelebratecelebrate><a href=https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/#celebrate></a>Celebrate</h2>
 <p>If we now run the flow and take a look at the new team in Microsoft
 Teams:</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254239i56ABC04F06E6A807/image-size/medium?v=v2&px=400" alt=channel-with-tab.png title=channel-with-tab.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-get-started-with-http-requests-in-power-automate/channel-with-tab_hu8098cd70e7329be404eb27e86d71b388_2097608_724x0_resize_q100_h2_box_3.webp alt=channel-with-tab.png>
 <p>we can spot our freshly created tab with the the content we wanted to
 provide!</p>
 <h2 id=conclusion>Conclusion</h2>

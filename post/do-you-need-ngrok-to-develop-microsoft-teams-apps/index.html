@@ -164,7 +164,8 @@ directly. Network traffic passes through some kind of firewall or NAT
 router to reach the actual Internet. The firewall allows outgoing
 requests to servers on the Internet but blocks all incoming requests.
 This is largely a security measure, but it has other advantages as well.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280649i3FA96F5C6738587F/image-size/medium?v=v2&px=400" alt=ngrok-without-ngrok-2.png title=ngrok-without-ngrok-2.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-without-ngrok-2_hu70ac39522db45a01e976f763fba46da5_100065_750x0_resize_q100_h2_box_3.webp alt=ngrok-without-ngrok-2.png>
 A typical web developer runs some kind of web server on their local
 computer. They can access that web server using the
 hostname <code>localhost</code>, which routes messages through a "loopback"
@@ -184,7 +185,8 @@ With ngrok running, the incoming requests go through the ngrok service
 and into your locally running copy of the ngrok application. The ngrok
 application calls the local server, allowing the developer to run and
 debug the web server locally.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280650i239B3FDE8859CD96/image-size/medium?v=v2&px=400" alt=ngrok-with-ngrok.png title=ngrok-with-ngrok.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-with-ngrok_hu497260c3fdacfc31023664a5843154f7_149214_750x0_resize_q100_h2_box_3.webp alt=ngrok-with-ngrok.png>
 In the case of Teams development, tabs and task modules only require a
 local loopback connection, whereas bots and messaging extensions have to
 handle incoming requests from the Internet. Each is explained in more
@@ -202,7 +204,7 @@ You will then see a screen like this:
 ::: {#tinyMceEditorBob German_2 .mceNonEditable .lia-copypaste-placeholder}
  
 :::
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280651iF6EDF6ADA709D5F7/image-size/large?v=v2&px=999" alt=ngrok-screenshot.png title=ngrok-screenshot.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-screenshot_hu2a5a23a0f879885ce4c980e8f44b1519_64648_750x0_resize_q100_h2_box_3.webp alt=ngrok-screenshot.png>
 The "Forwarding" lines show what's happening. Requests arriving at
 http://(something).ngrok.io or https://(something).ngrok.io will be
 forwarded to <a href=http://localhost:3978/>http://localhost:3978</a> where your
@@ -260,7 +262,7 @@ be very helpful in debugging.
 ::: {#tinyMceEditorBob German_3 .mceNonEditable .lia-copypaste-placeholder}
  
 :::
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280652i0893B21FD8BCBEB1/image-size/large?v=v2&px=999" alt=ngrok-trace.png title=ngrok-trace.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-trace_hu2a395c320ef2dd823bf69c32b7aafe88_111199_750x0_resize_q100_h2_box_3.webp alt=ngrok-trace.png></p>
 <h2 id=developing-tabs-and-web-page-based-teams-features>Developing Tabs and Web-Page based Teams features</h2>
 <p>Some Teams application features are based on web pages provided by your
 application:</p>
@@ -274,7 +276,8 @@ Active Directory Single Sign-On (SSO) option also need to implement a
 web service to do a token exchange. Accessing these via <code>localhost</code> is
 no problem; no tunnel is required.</li>
 </ul>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280657iDEB744F06E02E7BF/image-size/medium?v=v2&px=400" alt=ngrok-without-ngrok-sso.png title=ngrok-without-ngrok-sso.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-without-ngrok-sso_hu5a5c78e419ee62711778915c0c835c25_193831_750x0_resize_q100_h2_box_3.webp alt=ngrok-without-ngrok-sso.png>
 [However Teams does require the web server to use a trusted https
 connection or it won't display. ngrok translates trusted https requests
 into local http requests, so it just works. But if you'd rather not
@@ -327,7 +330,7 @@ and phone 2 is connected locally.
 ::: {#tinyMceEditorBob German_5 .mceNonEditable .lia-copypaste-placeholder}
  
 :::
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280654i1AE51E8511B8A5A6/image-size/medium?v=v2&px=400" alt=ngrok-mobile-device.png title=ngrok-mobile-device.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-mobile-device_hud04a1d6f195e66214e5290b1958be959_139130_750x0_resize_q100_h2_box_3.webp alt=ngrok-mobile-device.png>
 [To set up local access you'll need a server name other
 than][ ]<code>localhost</code>[,
 and you'll need to open a path on the local network from your phone to
@@ -370,7 +373,8 @@ All of these are implemented as REST services and could be built with
 any tool chain, but the requests will come from the cloud, so you need
 to have a port listening on the Internet to receive those requests.</li>
 </ul>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280655i86D8A65A92A15B6D/image-size/medium?v=v2&px=400" alt=ngrok-bot.png title=ngrok-bot.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-bot_hu91b9e92bc0244f36a86d47fa08c52ee7_106149_750x0_resize_q100_h2_box_3.webp alt=ngrok-bot.png>
 [For this reason there's currently no local debugging option in
 Microsoft Teams that doesn't involve opening a port on the Internet or
 using some sort of tunnel, ngrok or otherwise. The same is true
