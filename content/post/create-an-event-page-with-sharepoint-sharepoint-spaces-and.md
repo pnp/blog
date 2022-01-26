@@ -131,7 +131,7 @@ channel.
 To get that format, use the below JSON code. Open the drown-down arrow
 next to the column header \> select column settings \> select Format
 this column. Then paste the below JSON and click save.
-::: {.sv .y .gu style="box-sizing: inherit; display: block; position: relative; margin: auto;"}
+
 ``` {.lia-code-sample .language-json}
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
