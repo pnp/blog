@@ -1,0 +1,82 @@
+# SharePoint Online: How to change the placeholder text in the search box
+
+Placeholder text is the text that appears in the search box before user
+starts typing into it. The placeholder text may help your users about
+what to expect from search if you've configured a custom results page or
+changed behavior of search in other ways.
+By default SharePoint online site has ***Search this site*** as default
+placeholder text in the search box at the top of your page. This is a
+very generic placeholder text & sometimes you may want to change this
+placeholder text to something more specific or relevant to current site
+or site collection.
+You can change the placeholder text in the search box for a specific
+(sub) site or an entire site collection using PnP PowerShell. Follow
+below steps to change the placeholder text in the search box:
+
+## Install/Update PnP PowerShell module:
+
+You can run the following command to install the PnP PowerShell cmdlets:
+ 
+
+``` {.lia-code-sample .language-powershell}
+Install-Module -Name "PnP.PowerShell"
+```
+ 
+If you have previously installed the PnP PowerShell module, you can run
+the following command to update it:
+ 
+
+``` {.lia-code-sample .language-powershell}
+Update-Module -Name "PnP.PowerShell"
+```
+ 
+
+### Connect to SharePoint site: 
+
+You can connect to a SharePoint site using below PnP PowerShell command
+(use administrative account):
+ 
+
+``` {.lia-code-sample .language-powershell}
+Connect-PnPOnline -Url https://tenant.sharepoint.com/sites/siteName -UseWebLogin
+```
+
+### Change the placeholder text: 
+
+To change the placeholder text in search box for a given (sub) site run
+the following command:
+ 
+
+``` {.lia-code-sample .language-powershell}
+Set-PnPSearchSettings -Scope Web -SearchBoxPlaceholderText "Search Work @ SPExplorer Site"
+```
+ 
+Alternately, if you want to change the placeholder text for all the
+sites in a site collection, you can use below command:
+ 
+
+``` {.lia-code-sample .language-powershell}
+Set-PnPSearchSettings -Scope Site -SearchBoxPlaceholderText "Search Work @ SPExplorer Site"
+```
+ 
+
+#### ![sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/295428iDBFC20D862D29070/image-size/large?v=v2&px=999 "sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png")
+
+### Reset to default placeholder text: 
+
+If you have changed the placeholder text in search box previously & now
+you want to reset it to the default placeholder text, you can run the
+following command after connecting to a SharePoint site:
+ 
+
+``` {.lia-code-sample .language-powershell}
+Set-PnPSearchSettings -Scope Site -SearchBoxPlaceholderText ""
+```
+ 
+![sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/295429i1CD5FA88C13026E6/image-size/large?v=v2&px=999 "sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png")
+
+------------------------------------------------------------------------
+
+This article is originally posted at: [SharePoint Online: How to change
+the placeholder text in the search
+box](https://ganeshsanapblogs.wordpress.com/2021/06/20/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box/ "SharePoint Online: How to change the placeholder text in the search box") 
