@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Weekly - Episode 119
 
-![Thumb-Ep119.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266230iD2C14656256F802D/image-size/large?v=v2&px=999 "Thumb-Ep119.png")
+{{< image alt="Thumb-Ep119.png" src="images/blog/microsoft-365-pnp-weekly-episode-119/Thumb-Ep119.png" >}}
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa

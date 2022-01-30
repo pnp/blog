@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Community Spotlight: Albert-Jan Schot
 
-![Appie.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270712i644BAC799E211F78/image-size/medium?v=v2&px=400 "Appie.png")
+{{< image alt="Appie.png" src="images/blog/microsoft-365-pnp-community-spotlight-albert-jan-schot/Appie.png" >}}
 
 Which community project do you maintain? 
 

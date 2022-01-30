@@ -71,7 +71,7 @@ Now we will install the following packages:
     npm i @pnp/spfx-controls-react
     npm i @microsoft/sp-dialog
 In the end, our output will be like this,
-![Output.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283854iF3FA39A2B052AAF5/image-size/large?v=v2&px=999 "Output.png")
+{{< image alt="Output.png" src="images/blog/spfx-webpart-form-validation-using-react-formik/Output.png" >}}
 
 After the successful installation, we will start our form
 implementation.
@@ -463,7 +463,7 @@ Now serve the application using the below command,
 Now test the webpart in SharePoint-SiteURL +
 /\_layouts/15/workbench.aspx.
 ## Output 
-![SPFx-react-formik.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283856iA4FABBEFE508862F/image-size/large?v=v2&px=999 "SPFx-react-formik.gif")
+{{< image alt="SPFx-react-formik.gif" src="images/blog/spfx-webpart-form-validation-using-react-formik/SPFx-react-formik.gif" >}}
  
 
 Find the full source code

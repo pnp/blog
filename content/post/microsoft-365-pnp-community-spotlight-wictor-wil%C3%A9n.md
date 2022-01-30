@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Community Spotlight: Wictor Wilén
 
-![wictorwilen.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275451iD586984C4BE7D4A3/image-size/large?v=v2&px=999 "wictorwilen.jpg")
+{{< image alt="wictorwilen.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-wictor-wil%C3%A9n/wictorwilen.jpg" >}}
 
 ## Which community project do you maintain? 
 

@@ -1,6 +1,6 @@
 # SharePoint Framework Community Call -- 23rd of September, 2021
 
-![recording-23rd-sep.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312560i2A22E60A8446BACA/image-size/large?v=v2&px=999 "recording-23rd-sep.png")
+{{< image alt="recording-23rd-sep.png" src="images/blog/sharepoint-framework-community-call-23rd-of-september-2021/recording-23rd-sep.png" >}}
  
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
@@ -41,7 +41,7 @@ aka.ms/spfx-aces.  Thank you all for your contributions!   The host of
 this call is [David Warner II](http://twitter.com/DavidWarnerII)
 (Catapult Systems) \@DavidWarnerII.  Live Q&A at end and in chat
 throughout this call.
-![210923-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312561i59893F182C5B7EF2/image-size/large?v=v2&px=999 "210923-together-mode.gif")
+{{< image alt="210923-together-mode.gif" src="images/blog/sharepoint-framework-community-call-23rd-of-september-2021/210923-together-mode.gif" >}}
 Picture time is back!  Great to see all of you today.  Looking forward
 to seeing some of you in Düsseldorf or Las Vegas later this year. 
 **Actions:**

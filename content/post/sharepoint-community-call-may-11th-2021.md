@@ -29,7 +29,7 @@ actively participating in this PnP Community during April. Month over
 month, you continue to amaze.  The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \@vesajuvonen. 
 Q&A took place in the chat throughout the call. 
-![210511-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280168i05B044DFAB322F99/image-size/large?v=v2&px=999 "210511-together-mode.gif")
+{{< image alt="210511-together-mode.gif" src="images/blog/sharepoint-community-call-may-11th-2021/210511-together-mode.gif" >}}
  
 
 

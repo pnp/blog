@@ -7,7 +7,7 @@ list](https://github.com/OfficeDev/PnP-OfficeAddins/issues?q=is%3Aissue+is%3Aope
 
 ## Create custom contextual tabs on the ribbon
 
-![create-custom-contextual-tabs-on-the-ribbon.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265357i148C0E9A32C90210/image-size/large?v=v2&px=999 "create-custom-contextual-tabs-on-the-ribbon.png")
+{{< image alt="create-custom-contextual-tabs-on-the-ribbon.png" src="images/blog/office-add-in-developer-community-pnp-february-2021-update/create-custom-contextual-tabs-on-the-ribbon.png" >}}
 
 This sample shows how to create a custom contextual tab on the ribbon in
 the Office UI. The sample creates a table, and when the user moves the

@@ -1,6 +1,6 @@
 # Office Add-ins community call -- June 2021
 
-![office-add-ins-call-recording-9th-june.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/289263i438AEC3C59732377/image-size/large?v=v2&px=999 "office-add-ins-call-recording-9th-june.png")
+{{< image alt="office-add-ins-call-recording-9th-june.png" src="images/blog/office-add-ins-community-call-june-2021/office-add-ins-call-recording-9th-june.png" >}}
 
 ## Call Summary: 
 

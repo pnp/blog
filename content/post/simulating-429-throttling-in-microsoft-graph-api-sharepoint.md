@@ -48,7 +48,7 @@ https://graph.microsoft.com/v1.0/sites/root/drives?test429=true
 ```
  
 
-![image](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304632i6F55794B753B423B/image-size/large?v=v2&px=999 "image"){.lia-media-image
+{{< image alt="image" src="images/blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/image.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304632i6F55794B753B423B?v=v2"
 li-image-display-id="'304632i6F55794B753B423B'"
@@ -69,7 +69,7 @@ https://graph.microsoft.com/v1.0/me/drive/root/children?test429=true
 ```
  
 
-![image-1](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304630iFC7A5A24611E4007/image-size/large?v=v2&px=999 "image-1")
+{{< image alt="image-1" src="images/blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/image-1.png" >}}
  
 
 Look at those beautiful 429 responses that I no longer have to intercept

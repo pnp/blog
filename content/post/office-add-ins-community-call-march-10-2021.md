@@ -38,7 +38,7 @@ how Microsoft can help developers to be more successful with M365
 ecosystem.  9 enabling components of a M365 Customer Success Developer
 Journey shown.  Join the ongoing discussion at [M365 Customer Success
 Platform Panel](https://aka.ms/SuccessPanel)  
-![M365ScuccessJourney.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263627i63FB92350B30A87D/image-size/large?v=v2&px=999 "M365ScuccessJourney.png")
+{{< image alt="M365ScuccessJourney.png" src="images/blog/office-add-ins-community-call-march-10-2021/M365ScuccessJourney.png" >}}
 **Resources**:   
 
 -   Documentation - [Integrate built-in Office buttons into custom

@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Community Spotlight: Stefan Bauer
 
-![stefanbauer.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279056i92749C5F20B7FDD3/image-size/large?v=v2&px=999 "stefanbauer.png")
+{{< image alt="stefanbauer.png" src="images/blog/microsoft-365-pnp-community-spotlight-stefan-bauer/stefanbauer.png" >}}
 
 ## Which community project do you maintain? 
 

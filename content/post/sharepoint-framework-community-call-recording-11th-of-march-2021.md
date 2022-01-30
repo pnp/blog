@@ -24,7 +24,7 @@ and **Reusable SPFx React Property Controls** -- v2.4.0 delivered. 
 useful!    The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
-![PictureTime-OutsideInTheGreenAmphitheater.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262954iEA7FD52E38CE0668/image-size/large?v=v2&px=999 "PictureTime-OutsideInTheGreenAmphitheater.png")
+{{< image alt="PictureTime-OutsideInTheGreenAmphitheater.png" src="images/blog/sharepoint-framework-community-call-recording-11th-of-march-2021/PictureTime-OutsideInTheGreenAmphitheater.png" >}}
 
 **Actions:**
 

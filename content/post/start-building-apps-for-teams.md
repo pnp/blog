@@ -1,6 +1,6 @@
 # Start building apps for Teams
 
-![teams-hero.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267837iDEA5ADC5B2DCE150/image-size/large?v=v2&px=999 "teams-hero.png")
+{{< image alt="teams-hero.png" src="images/blog/start-building-apps-for-teams/teams-hero.png" >}}
 
 Microsoft Teams is a rich collaboration platform used by millions of
 people every day. By building custom apps for Teams you can help them

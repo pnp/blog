@@ -1,6 +1,6 @@
 # Should we use SharePoint REST or Microsoft Graph API in Power Automate?
 
-![hello-i-m-nik-n1ccr-zVG68-unsplash.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/260567i1EFBF4D37AD8447F/image-size/large?v=v2&px=999 "hello-i-m-nik-n1ccr-zVG68-unsplash.jpg")
+{{< image alt="hello-i-m-nik-n1ccr-zVG68-unsplash.jpg" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/hello-i-m-nik-n1ccr-zVG68-unsplash.jpg" >}}
 When working with Microsoft 365, we see many overlapping tools and
 features, and we will need (to provide) much guidance around \'when to
 use what\' for users. While most comparisons address users, I want to
@@ -65,7 +65,7 @@ text inputs:
  
 
 
-![mobileflowtrigger.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/260546iB0D9E1ED9039D10F/image-size/large?v=v2&px=999 "mobileflowtrigger.png")
+{{< image alt="mobileflowtrigger.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/mobileflowtrigger.png" >}}
 
  
 
@@ -102,7 +102,7 @@ as body- make sure you replace the placeholder with Dynamic Content:
  
 
 
-![sendhttprequest.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/260547i972E012A0A2ECB57/image-size/large?v=v2&px=999 "sendhttprequest.png")
+{{< image alt="sendhttprequest.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/sendhttprequest.png" >}}
 
  
 
@@ -181,7 +181,7 @@ will create us a column:
 -   Please replace again all placeholder by Dynamic content
 
 
-![sendhttprequest2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/260553iA1BF20D0860B244C/image-size/large?v=v2&px=999 "sendhttprequest2.png")
+{{< image alt="sendhttprequest2.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/sendhttprequest2.png" >}}
 
 Should you stumble upon the FieldTypeKind, please find
 reference [here](https://docs.microsoft.com/en-us/previous-versions/office/sharepoint-csom/ee540543(v=office.15)) -
@@ -212,7 +212,7 @@ another \'send an HTTP request to SharePoint\' action:
  
 
 
-![senhttp3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/260557i7E921C39B218A85A/image-size/large?v=v2&px=999 "senhttp3.png")
+{{< image alt="senhttp3.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/senhttp3.png" >}}
 
  
 
@@ -251,7 +251,7 @@ Again, to make things easy, we will use the same trigger as in Option
 No. 1.:
 
 
-![mobileflowtrigger.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/260558i301CAB410B1A456A/image-size/large?v=v2&px=999 "mobileflowtrigger.png")
+{{< image alt="mobileflowtrigger.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/mobileflowtrigger.png" >}}
 
 #### HTTP action 
 
@@ -367,7 +367,7 @@ and so on. Let\'s go ahead and
 
 
 
-![varsandhttp.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/260559iE32FAED7EC5204CD/image-size/large?v=v2&px=999 "varsandhttp.png")
+{{< image alt="varsandhttp.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/varsandhttp.png" >}}
 
  
 When we now run our flow, we will see that the columns that we created
@@ -423,7 +423,7 @@ add them to default view, and so on, [feel free to try it
 out](https://pnp.github.io/cli-microsoft365/cmd/spo/field/field-add/)!
 
 
-![cli2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/260561i5466EBD8F0682E3F/image-size/large?v=v2&px=999 "cli2.png")
+{{< image alt="cli2.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/cli2.png" >}}
 
 ## Conclusion 
 
@@ -436,5 +436,5 @@ as an example. Please tell me - which solution would you prefer? Which
 are your use cases? Please reply below; I am curious!
 
  
-![itdepends.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/260562i66A41AC30B9B28F5/image-size/medium?v=v2&px=400 "itdepends.png")
+{{< image alt="itdepends.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/itdepends.png" >}}
 

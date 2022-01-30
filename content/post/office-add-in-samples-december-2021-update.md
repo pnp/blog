@@ -5,9 +5,9 @@ month on Office Add-in samples.
 
 ## Encrypt attachments and more with Outlook event-based activation 
 
-![outlook-event-based-activation.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/334766i92E164328C79C1E9/image-size/large?v=v2&px=999 "outlook-event-based-activation.png")
+{{< image alt="outlook-event-based-activation.png" src="images/blog/office-add-in-samples-december-2021-update/outlook-event-based-activation.png" >}}
 
-![eric-legault-github-photo.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/334774i76BB90C7ECC6B74D/image-size/large?v=v2&px=999 "eric-legault-github-photo.png")
+{{< image alt="eric-legault-github-photo.png" src="images/blog/office-add-in-samples-december-2021-update/eric-legault-github-photo.png" >}}
 
 Contributed by [Eric Legault](https://github.com/elegault)
 
@@ -31,7 +31,7 @@ rea\...](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/ou
 
 ## Get started with hello world samples 
 
-![hello-world.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/334768i708FA3034AA62590/image-size/large?v=v2&px=999 "hello-world.png")
+{{< image alt="hello-world.png" src="images/blog/office-add-in-samples-december-2021-update/hello-world.png" >}}
 Learn how to build the simplest Office Add-in with only a manifest, HTML
 web page, and a logo. These samples will help you understand the
 fundamental parts of an Office Add-in.
@@ -52,14 +52,14 @@ Get started with the following code samples:
 Thank you to our contributors who are actively helping each month with
 the Office Add-ins community effort.
 
-![maarten-van-stam-github-photo.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/334773iF72AB71F009DFEA7/image-size/large?v=v2&px=999 "maarten-van-stam-github-photo.png")
+{{< image alt="maarten-van-stam-github-photo.png" src="images/blog/office-add-in-samples-december-2021-update/maarten-van-stam-github-photo.png" >}}
 [Maarten van
 Stam](https://mvp.microsoft.com/en-us/PublicProfile/33535)
 
 Helping review PRs and issues on
 [Office-Add-ins-samples.](https://github.com/OfficeDev/Office-Add-in-samples)
 
-[![eric-legault-github-photo.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/334772iDA66A1F4342C0FC4/image-size/large?v=v2&px=999 "eric-legault-github-photo.png")
+[{{< image alt="eric-legault-github-photo.png" src="images/blog/office-add-in-samples-december-2021-update/eric-legault-github-photo.png" >}}
  Eric Legault](https://github.com/elegault)
 
 Creating the sample for [encrypting attachments in Outlook using

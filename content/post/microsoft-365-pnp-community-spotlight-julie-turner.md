@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Community Spotlight: Julie Turner
 
-![julieturner.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267409i43995C7824C450BA/image-size/large?v=v2&px=999 "julieturner.jpg")
+{{< image alt="julieturner.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-julie-turner/julieturner.jpg" >}}
 
 
 ## Which community project do you maintain? 

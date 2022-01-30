@@ -1,6 +1,6 @@
 # Office Add-ins community call - January 12, 2022
 
-## ![office-add-ins-Thumb Jan 2022.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339498iB4DD29250EFF9A12/image-size/large?v=v2&px=999 "office-add-ins-Thumb Jan 2022.png")
+## {{< image alt="office-add-ins-Thumb Jan 2022.png" src="images/blog/office-add-ins-community-call-january-12-2022/office-add-ins-Thumb Jan 2022.png" >}}
 
 
 ## Call Summary 

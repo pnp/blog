@@ -1,6 +1,6 @@
 # SharePoint Framework Community Call -- 4th of November, 2021
 
-![recording-4th-november.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/324415i3750093D827AA80F/image-size/large?v=v2&px=999 "recording-4th-november.png")
+{{< image alt="recording-4th-november.png" src="images/blog/sharepoint-framework-community-call-4th-of-november-2021/recording-4th-november.png" >}}
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
 call recording from November 4th is now available from the Microsoft 365
@@ -41,7 +41,7 @@ delivered! Outstanding! Your contributions are greatly appreciated by
 many. The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
 \@mediocrebowler. Q&A takes place as always in chat throughout the call.
-![211104-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/324416i6506027D439D01CA/image-size/large?v=v2&px=999 "211104-together-mode.gif")
+{{< image alt="211104-together-mode.gif" src="images/blog/sharepoint-framework-community-call-4th-of-november-2021/211104-together-mode.gif" >}}
 
 Great to see all of you today.  Looking forward to seeing some of you in
 Düsseldorf or in Las Vegas later this year.   

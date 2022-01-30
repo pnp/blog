@@ -1,6 +1,6 @@
 # Viva Connections & SharePoint Framework Community Call -- 18th of November, 2021
 
-![recording-18th-nov.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328100i1E49AB117BE5F46F/image-size/large?v=v2&px=999 "recording-18th-nov.png")
+{{< image alt="recording-18th-nov.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-18th-of/recording-18th-nov.png" >}}
 
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from November 18th is now available from the Microsoft 365
@@ -46,7 +46,7 @@ Additionally, there were 1 web part and 2 ACE **samples** delivered!
 The host of this call is [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 \@DavidWarnerII.  Q&A takes place as always in chat throughout the call.
-![211118-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328101iEBD5AEBB06F429D4/image-size/large?v=v2&px=999 "211118-together-mode.gif")
+{{< image alt="211118-together-mode.gif" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-18th-of/211118-together-mode.gif" >}}
  
 
 Great to see all of you today - humans and ghosts.  Possibly some will

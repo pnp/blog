@@ -35,7 +35,7 @@ previous report 2 weeks ago) 
 
 The host of this call is [Vesa Juvonen](http://twitter.com/vesajuvonen)
 (Microsoft) \@vesajuvonen.  Q&A takes place in chat throughout the call.
-![210617-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/289848iA261B0DBC2E78F24/image-size/large?v=v2&px=999 "210617-together-mode.gif")
+{{< image alt="210617-together-mode.gif" src="images/blog/sharepoint-framework-community-call-17th-of-june-2021/210617-together-mode.gif" >}}
 The waving wall!  Impressive.  Great to see you.  Truly looking forward
 to seeing you in Las Vegas, Düsseldorf or another conference venue in
 the future!

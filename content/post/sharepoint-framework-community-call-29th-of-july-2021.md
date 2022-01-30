@@ -34,7 +34,7 @@ There was 1 **PnP SPFx extension** and 4 **PnP web part samples**
 delivered in the last 2 weeks as well.  Nice work!    The host of this
 call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 \| \@mediocrebowler.  Q&A takes place in chat throughout the call.
-![PnP-Calls-TogetherMode-LowResolution.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/299353iFCDF3C257BCC9093/image-size/large?v=v2&px=999 "PnP-Calls-TogetherMode-LowResolution.gif")
+{{< image alt="PnP-Calls-TogetherMode-LowResolution.gif" src="images/blog/sharepoint-framework-community-call-29th-of-july-2021/PnP-Calls-TogetherMode-LowResolution.gif" >}}
  
 
 Yep!  Nice wave action.  Great seeing you this week.  Looking forward to

@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Weekly - Episode 117
 
-![pnp-weekly-117.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261892iD75DEBC503D21066/image-size/large?v=v2&px=999 "pnp-weekly-117.png")
+{{< image alt="pnp-weekly-117.png" src="images/blog/microsoft-365-pnp-weekly-episode-117/pnp-weekly-117.png" >}}
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|

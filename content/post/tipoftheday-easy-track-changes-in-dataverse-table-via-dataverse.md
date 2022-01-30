@@ -18,7 +18,7 @@ environment API.*
 \
 **Accounts** table data retrieved: (image 1)
 
-![ValerasNarbutas_0-1633418328122.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/315182iB0F9C764E4940B50/image-size/large?v=v2&px=999 "ValerasNarbutas_0-1633418328122.png")
+{{< image alt="ValerasNarbutas_0-1633418328122.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418328122.png" >}}
 
 1. Now add a new header in postman call:
 ``` {.lia-code-sample .language-markup}
@@ -27,11 +27,11 @@ environment API.*
  http request call will return additional information:\
 **deltalink** with **deltatoken** in body area (image 2)\
 
-![ValerasNarbutas_0-1633418806793.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/315184i95C9713EA849BC2D/image-size/large?v=v2&px=999 "ValerasNarbutas_0-1633418806793.png")
+{{< image alt="ValerasNarbutas_0-1633418806793.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418806793.png" >}}
 
 3\. Use delta token in as GET request (image 3 )
 
-![ValerasNarbutas_1-1633418877623.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/315185i374C0ED6A3EC6B15/image-size/large?v=v2&px=999 "ValerasNarbutas_1-1633418877623.png")
+{{< image alt="ValerasNarbutas_1-1633418877623.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_1-1633418877623.png" >}}
 
 Were are no changes that happen last time we did
 request to **accounts** table, this is why under \"**value**\" it shows
@@ -39,7 +39,7 @@ empty array\
 If I do changes like: add **new** details, **edit** and **delete** in
 **accounts**  table I would get result: (image 4)\
 
-![ValerasNarbutas_2-1633419038732.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/315186i465EC2B05840A7C0/image-size/large?v=v2&px=999 "ValerasNarbutas_2-1633419038732.png")
+{{< image alt="ValerasNarbutas_2-1633419038732.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_2-1633419038732.png" >}}
 
 Now \"value\" contain 3 additional results for **new**, **edit**, and
 **delete** records.

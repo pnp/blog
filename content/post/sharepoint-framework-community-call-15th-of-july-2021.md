@@ -35,7 +35,7 @@ delivered in the last 2 weeks as well.  Way to go contributors!    The
 host of this call is [David Warner II](http://twitter.com/DavidWarnerII)
 (Catapult Systems) \@DavidWarnerII.  Q&A takes place in chat throughout
 the call.
-![210715-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/296267i954E5343FDBB2C59/image-size/large?v=v2&px=999 "210715-together-mode.gif")
+{{< image alt="210715-together-mode.gif" src="images/blog/sharepoint-framework-community-call-15th-of-july-2021/210715-together-mode.gif" >}}
 It\'s great to see spirits are high in the month of July!   Nice to see
 everyone.   See you again soon!  
 

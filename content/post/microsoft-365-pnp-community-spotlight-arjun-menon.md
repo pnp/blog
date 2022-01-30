@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Community Spotlight: Arjun Menon
 
-![Arjun.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280855i50A8EDC8EF23A55D/image-size/large?v=v2&px=999 "Arjun.jpg")
+{{< image alt="Arjun.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-arjun-menon/Arjun.jpg" >}}
 
 ## Which community project do you maintain? 
 

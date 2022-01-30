@@ -33,7 +33,7 @@ Great work!    
 The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
-![210422-spfx.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/274865i1BAC810C020C6FB0/image-size/large?v=v2&px=999 "210422-spfx.gif")
+{{< image alt="210422-spfx.gif" src="images/blog/sharepoint-framework-community-call-recording-22nd-of-april-2021/210422-spfx.gif" >}}
 
 Jungle seating in a Pacific Northwest, Washington, US amphitheater! 
 Truly unique like this Community!

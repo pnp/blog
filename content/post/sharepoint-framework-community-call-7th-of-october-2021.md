@@ -1,6 +1,6 @@
 # SharePoint Framework Community Call -- 7th of October, 2021
 
-![agenda-7th-oct.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/316089iCFBF9AF9E88D4D58/image-size/large?v=v2&px=999 "agenda-7th-oct.png")
+{{< image alt="agenda-7th-oct.png" src="images/blog/sharepoint-framework-community-call-7th-of-october-2021/agenda-7th-oct.png" >}}
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
 call recording from October 7th is now available from the Microsoft 365
 Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
@@ -42,7 +42,7 @@ contributions.   The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
 \@mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
-![211007-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/316094iEBB8897294ACD640/image-size/large?v=v2&px=999 "211007-together-mode.gif")
+{{< image alt="211007-together-mode.gif" src="images/blog/sharepoint-framework-community-call-7th-of-october-2021/211007-together-mode.gif" >}}
 Not an empty seat in the house.  Nice seeing everyone on the call. 
 Please join again soon.
 

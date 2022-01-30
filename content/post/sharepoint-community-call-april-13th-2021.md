@@ -28,7 +28,7 @@ actively participating in this PnP Community. You continue to amaze. 
 The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \@vesajuvonen. 
 Q&A took place in the chat throughout the call. 
-![15th-april-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/272648iB59B4988BD315736/image-size/large?v=v2&px=999 "15th-april-together-mode.gif")
+{{< image alt="15th-april-together-mode.gif" src="images/blog/sharepoint-community-call-april-13th-2021/15th-april-together-mode.gif" >}}
  
 
 **Getting started with Microsoft Viva Connections** **Desktop** - an

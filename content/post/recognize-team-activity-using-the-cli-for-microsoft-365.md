@@ -177,12 +177,12 @@ to process all channels and messages depending the size of your team.
 
  
 
-![team-champion-script.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/301732i3DD85E04597B27FC/image-size/large?v=v2&px=999 "team-champion-script.png")
+{{< image alt="team-champion-script.png" src="images/blog/recognize-team-activity-using-the-cli-for-microsoft-365/team-champion-script.png" >}}
 
 Once the script is finished you can expect an adaptive card showing the
 score for that team. If no top 3 can be constructed it will only show
 the top 1 or 2, and their score.
-![team-champion-result.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/301733iD83A73A51CC6AE36/image-size/large?v=v2&px=999 "team-champion-result.png")
+{{< image alt="team-champion-result.png" src="images/blog/recognize-team-activity-using-the-cli-for-microsoft-365/team-champion-result.png" >}}
 
 Hopefully this sample provides some insights in how you can track
 activity and recognize the contributions team members make per team. I

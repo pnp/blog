@@ -1,6 +1,6 @@
 # Office Add-ins community call -- October 13, 2021
 
-## ![OctAdd-insRecordingThumb.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319368iCB1FBD252FFD5B47/image-size/large?v=v2&px=999 "OctAdd-insRecordingThumb.png")
+## {{< image alt="OctAdd-insRecordingThumb.png" src="images/blog/office-add-ins-community-call-october-13-2021/OctAdd-insRecordingThumb.png" >}}
 
 ## Call Summary 
 

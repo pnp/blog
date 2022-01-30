@@ -1,7 +1,7 @@
 # Office Add-ins community call -- September 8, 2021
 
 
-## ![officeadd-ins.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312019i15B1DADA5B77AE84/image-size/large?v=v2&px=999 "officeadd-ins.jpg")
+## {{< image alt="officeadd-ins.jpg" src="images/blog/office-add-ins-community-call-september-8-2021/officeadd-ins.jpg" >}}
 
 
 ## Call Summary 

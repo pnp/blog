@@ -1,6 +1,6 @@
 # Viva Connections & SharePoint Framework Community Call -- 2nd of December, 2021
 
-![recording-2nd-of-dec.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/331341i00823C44BEA3BF60/image-size/large?v=v2&px=999 "recording-2nd-of-dec.png")
+{{< image alt="recording-2nd-of-dec.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/recording-2nd-of-dec.png" >}}
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from December 2nd is now available from the Microsoft 365
 Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
@@ -45,7 +45,7 @@ contributions are greatly appreciated by many.  The host of this call is
 [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
 \@mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
-![211202-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/331343iB6843D5D12F75CFA/image-size/large?v=v2&px=999 "211202-together-mode.gif")
+{{< image alt="211202-together-mode.gif" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/211202-together-mode.gif" >}}
 Awesome to see many of you seated in those plush brown seats and others
 joining off camera on the call today.  It\'s December!
 

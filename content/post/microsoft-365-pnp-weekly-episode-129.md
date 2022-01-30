@@ -1,5 +1,5 @@
 # Microsoft 365 PnP Weekly - Episode 129
-![pnp-weekly-129.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285304i3D055A64D69640D3/image-size/large?v=v2&px=999 "pnp-weekly-129.png")
+{{< image alt="pnp-weekly-129.png" src="images/blog/microsoft-365-pnp-weekly-episode-129/pnp-weekly-129.png" >}}
 In this instalment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|

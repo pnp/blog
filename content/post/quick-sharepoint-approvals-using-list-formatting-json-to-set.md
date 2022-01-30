@@ -32,7 +32,7 @@ Three list columns are needed:
     The standard configurable formatting for the Choice column can do
     the trick as below:
 
-![choices.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328147i510B110954AC4141/image-size/large?v=v2&px=999 "choices.PNG")
+{{< image alt="choices.PNG" src="images/blog/quick-sharepoint-approvals-using-list-formatting-json-to-set/choices.PNG" >}}
 -   A **user** field to register who approved or rejected the item
     (Suggested name **\'Approval Action By\'**)
 -   A dummy field to add the JSON template and display the buttons

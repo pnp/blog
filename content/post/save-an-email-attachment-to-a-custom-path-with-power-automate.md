@@ -18,7 +18,7 @@ assumed all emails will come from xerox\@mydomain.com and the email must
 contain an attachment! Ideally, you want to limit the emails that this
 Flow will trigger by using the available parameters for that action.
 ::: wp-block-image
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290135i421399354E2C6D9B/image-size/large?v=v2&px=999 "DamoBird365_0-1624209543175.png")
+{{< image alt="" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_0-1624209543175.png" >}}
 To define the locations for saving files, I have used an **array** in
 a **compose action** (but don't panic!). You might want to use
 a **SharePoint list** as somewhere to save the specific subject or file
@@ -28,7 +28,7 @@ define these and all of the parameters are in one place. Creating a list
 in SharePoint might give you and/or other colleagues the ability to
 easily define and visualise the locations.
 ::: wp-block-image
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290134iCCC042CE4AF22D21/image-size/large?v=v2&px=999 "DamoBird365_1-1624209543161.png")
+{{< image alt="" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_1-1624209543161.png" >}}
 
 The parameters for this flow are basic, a keyword for searching the
 Subject or Filename containing, which I have called **Dept**; and
@@ -52,7 +52,7 @@ selected using an integer index**". Using First() or calling the element
 by using an integer will allow you to simplify your Flow if you know the
 result will always be the first element.
 ::: wp-block-image
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290136iA97F78869C381E68/image-size/large?v=v2&px=999 "DamoBird365_2-1624209543294.png")
+{{< image alt="" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_2-1624209543294.png" >}}
 
 
 ## Saving the File(s) to a Custom Path
@@ -73,7 +73,7 @@ select **Enter Custom Value** or Power Automate will try and resolve the
 address and error **'Site Address' is required** or the folder path with
 try and delete any additional text that you supply.
 
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290138iE35F6C0E0E8EE234/image-size/large?v=v2&px=999 "DamoBird365_3-1624209543448.png")
+{{< image alt="" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_3-1624209543448.png" >}}
 The expressions I have used both using the integer selection for the
 first array element and the first expression are as follows:
 
@@ -85,21 +85,21 @@ To finish off my flow and this is personal preference, I have deleted
 the incoming email. Why keep it? The file attachment has been saved for
 me.
 
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290139i38794C7778DB3DAB/image-size/large?v=v2&px=999 "DamoBird365_4-1624209543193.png")
+{{< image alt="" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_4-1624209543193.png" >}}
 
 
 
 ## See it in Action 
 Here I have an incoming email from the Xerox mailbox. I\'ve been sent me
 an attachment from the Xerox Mailbox. This will trigger my flow.
-![DamoBird365_8-1624210593508.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290142iFD47C1B1F751E498/image-size/large?v=v2&px=999 "DamoBird365_8-1624210593508.png")
+{{< image alt="DamoBird365_8-1624210593508.png" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_8-1624210593508.png" >}}
  
 
 The filter action will look for each of the Dept values in the subject
 line and return a filtered array. In the example below, we output the
 ICT Path based on the subject line "This file is for ICT thanks".
 
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290140i8757D979900D3FCD/image-size/large?v=v2&px=999 "DamoBird365_6-1624209543237.png")
+{{< image alt="" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_6-1624209543237.png" >}}
 
 What do the two Create File Actions look like? Here you can see the
 custom dynamic paths for both the Folder Path or Site Address. I am

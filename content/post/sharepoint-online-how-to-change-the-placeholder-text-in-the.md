@@ -60,7 +60,7 @@ Set-PnPSearchSettings -Scope Site -SearchBoxPlaceholderText "Search Work @ SPExp
 ```
  
 
-#### ![sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/295428iDBFC20D862D29070/image-size/large?v=v2&px=999 "sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png")
+#### {{< image alt="sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png" src="images/blog/sharepoint-online-how-to-change-the-placeholder-text-in-the/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png" >}}
 
 ### Reset to default placeholder text: 
 
@@ -73,7 +73,7 @@ following command after connecting to a SharePoint site:
 Set-PnPSearchSettings -Scope Site -SearchBoxPlaceholderText ""
 ```
  
-![sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/295429i1CD5FA88C13026E6/image-size/large?v=v2&px=999 "sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png")
+{{< image alt="sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png" src="images/blog/sharepoint-online-how-to-change-the-placeholder-text-in-the/sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png" >}}
 
 ------------------------------------------------------------------------
 

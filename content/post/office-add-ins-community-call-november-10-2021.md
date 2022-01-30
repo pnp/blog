@@ -1,6 +1,6 @@
 # Office Add-ins community call -- November 10, 2021](/t5/microsoft-365-pnp-blog/
 
-## ![office-add-ins-Thumb-Nov.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328286i37075FA05CF499DD/image-size/large?v=v2&px=999 "office-add-ins-Thumb-Nov.png")
+## {{< image alt="office-add-ins-Thumb-Nov.png" src="images/blog/office-add-ins-community-call-november-10-2021/office-add-ins-Thumb-Nov.png" >}}
 
 ## Call Summary
 

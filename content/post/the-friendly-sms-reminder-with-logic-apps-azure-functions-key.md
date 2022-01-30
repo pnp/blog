@@ -52,13 +52,13 @@ to it.
 
 -   Go to [portal.azure.com](https://portal.azure.com/)
 -   Select  **Create a resource**
-![AzureCreateResource.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298505iF4CABEB78B5FF744/image-dimensions/536x66?v=v2 "AzureCreateResource.png")
+{{< image alt="AzureCreateResource.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/AzureCreateResource.png" >}}
  
 -   Search for **Function App **in the search bar
 -   Select **Function App**
 
-![LuiseFreese_3-1627339056564.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298534i609CCBD6D2F39E18/image-size/medium?v=v2&px=400 "LuiseFreese_3-1627339056564.png")
-![FunctionAppNew.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298506i49B8C464EA96E930/image-dimensions/541x504?v=v2 "FunctionAppNew.png")
+{{< image alt="LuiseFreese_3-1627339056564.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_3-1627339056564.png" >}}
+{{< image alt="FunctionAppNew.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/FunctionAppNew.png" >}}
 
  
 
@@ -76,7 +76,7 @@ Select **Create**
     -   \(7\) Select your Region
     -   \(8\) Select ** Review + Create**
 
-![FunctionAppCreateSteps.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298537i651D1A3E1BE52AE8/image-dimensions/518x537?v=v2 "FunctionAppCreateSteps.png")
+{{< image alt="FunctionAppCreateSteps.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/FunctionAppCreateSteps.png" >}}
 you can now review everything -- as a last step
 
 -   Select **Create**
@@ -106,7 +106,7 @@ Please follow these steps: 
 
 You will now see your **Local Project** in the pane.
 
-![azfunctionVSCode.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298508iE654F9D3C384EBE8/image-size/medium?v=v2&px=400 "azfunctionVSCode.png")
+{{< image alt="azfunctionVSCode.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/azfunctionVSCode.png" >}}
 
 You can now develop, debug and test your function locally and have
 source control of your code . I like this way more than jumping back and
@@ -118,12 +118,12 @@ already logged into your Azure account, a browser window will pop up and
 ask you to sign in with your credentials. \
 \
 
- ![swploy.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298511i7F67DC64F9E5A2C8/image-size/medium?v=v2&px=400 "swploy.png")
+ {{< image alt="swploy.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/swploy.png" >}}
 Once you selected the **deploy** icon, you need to specify the function
 in Azure and need to confirm that you know what you are doing 
  
 
-![confirmdeploy.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298510i2E45D34DF7213E4E/image-size/medium?v=v2&px=400 "confirmdeploy.png")
+{{< image alt="confirmdeploy.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/confirmdeploy.png" >}}
 
 
 Azure needs again a few seconds to deploy and Visual Studio Code will
@@ -131,7 +131,7 @@ let you know once this is done 
  
 
 
-![confirmdeploysuccess.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298512iBAC6A66762C8D22A/image-size/medium?v=v2&px=400 "confirmdeploysuccess.png")
+{{< image alt="confirmdeploysuccess.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/confirmdeploysuccess.png" >}}
  
 
 ## Twilio 
@@ -148,7 +148,7 @@ more secure in an Azure Key Vault. But first, head over to Twilio,
 create an account and get a trial number. Your Twilio Dashboard should
 look a little like this:
 
-![Codeandtest.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298513iD168BDE16E9D0E12/image-size/medium?v=v2&px=400 "Codeandtest.png")
+{{< image alt="Codeandtest.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/Codeandtest.png" >}}
 
 -   Copy **Account SID**
 -   Copy **Auth token**
@@ -167,7 +167,7 @@ Head over to your Azure Function App
 -   \(4\) Paste in your copied **Account SID** as the value
 -   \(5\) Select **OK**
 
-![LuiseFreese_40-1627337771809.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298514iA353AC9FA9ED69E0/image-size/medium?v=v2&px=400 "LuiseFreese_40-1627337771809.png")
+{{< image alt="LuiseFreese_40-1627337771809.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_40-1627337771809.png" >}}
 
 Repeat step 1-5 from above for
 
@@ -177,7 +177,7 @@ Repeat step 1-5 from above for
 
 Hit save Your App setting should now look like this:
 
-![LuiseFreese_41-1627337799414.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298515iC5E1F8CBA671D1C1/image-size/medium?v=v2&px=400 "LuiseFreese_41-1627337799414.png")
+{{< image alt="LuiseFreese_41-1627337799414.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_41-1627337799414.png" >}}
 
 ## **Azure Function App -add function** 
 
@@ -190,7 +190,7 @@ Now its time to add some functionality to our app:
 -   \(5\) Select **Add**
 
 \
-![LuiseFreese_42-1627337856099.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298516i37B3EF13C56F4454/image-size/medium?v=v2&px=400 "LuiseFreese_42-1627337856099.png")
+{{< image alt="LuiseFreese_42-1627337856099.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_42-1627337856099.png" >}}
  
 
 -   Select **Code + Test**
@@ -292,7 +292,7 @@ Now select your new workflow and follow these steps:
 
 
 
-![Createworkflow.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298517iB563619783F212FE/image-size/medium?v=v2&px=400 "Createworkflow.png"){.lia-media-image
+{{< image alt="Createworkflow.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/Createworkflow.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298517iB563619783F212FE?v=v2"
 li-image-display-id="'298517iB563619783F212FE'"
@@ -318,7 +318,7 @@ function, this is:
 -   Select the function within your Functions app
 -   Select **Create**
 
-![LuiseFreese_44-1627338250789.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298519i91CD9D57C38E7DE0/image-size/medium?v=v2&px=400 "LuiseFreese_44-1627338250789.png"){.lia-media-image
+{{< image alt="LuiseFreese_44-1627338250789.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_44-1627338250789.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298519i91CD9D57C38E7DE0?v=v2"
 li-image-display-id="'298519i91CD9D57C38E7DE0'"
@@ -333,7 +333,7 @@ style="width: 400px;"}
 -   Select **Run Trigger**
 -   Select **Run**
 
-![LuiseFreese_45-1627338310190.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298520i428C939099DE1471/image-size/large?v=v2&px=999 "LuiseFreese_45-1627338310190.png")
+{{< image alt="LuiseFreese_45-1627338310190.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_45-1627338310190.png" >}}
 
 Note the custom output body that we defined in our Azure Function
 
@@ -351,7 +351,7 @@ Fun**, search for **HTTP**
 
 Once again, you can see the outputs of your workflow run 
 
-![LuiseFreese_46-1627338363471.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298521iD75DF881270E1E6F/image-size/large?v=v2&px=999 "LuiseFreese_46-1627338363471.png")
+{{< image alt="LuiseFreese_46-1627338363471.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_46-1627338363471.png" >}}
 
 Next step, makes this even more secure by storing our Twilio token and
 the Twilio SID in an Azure Key vault so that we can refer to it in our
@@ -368,7 +368,7 @@ Head over to your Resource Group
 
 Now fill out the form as follows
 
-![LuiseFreese_47-1627338404313.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298522iE82D294091A653C9/image-size/large?v=v2&px=999 "LuiseFreese_47-1627338404313.png")
+{{< image alt="LuiseFreese_47-1627338404313.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_47-1627338404313.png" >}}
 Review and select **Create.**
 
 It will take a couple of seconds again for Azure to deploy your resource
@@ -387,7 +387,7 @@ both Twilio SID and Twilio Auth Token: 
  
 
 
-![LuiseFreese_48-1627338540906.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298523iA2E6409DFE7FBF88/image-size/large?v=v2&px=999 "LuiseFreese_48-1627338540906.png")
+{{< image alt="LuiseFreese_48-1627338540906.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_48-1627338540906.png" >}}
  
 
 We will use these two secrets later again in our Azure Function, but to
@@ -403,13 +403,13 @@ Head over to your Function app again and 
 -   \(3\) Select **Save**
 
 
-![LuiseFreese_49-1627338576580.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298525i3669F349573900E8/image-size/medium?v=v2&px=400 "LuiseFreese_49-1627338576580.png")
+{{< image alt="LuiseFreese_49-1627338576580.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_49-1627338576580.png" >}}
 A Pop-up displaying the following message appears, select **Yes**
 
  
 
 
-![LuiseFreese_50-1627338604177.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298526i34043B978792114B/image-size/large?v=v2&px=999 "LuiseFreese_50-1627338604177.png")
+{{< image alt="LuiseFreese_50-1627338604177.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_50-1627338604177.png" >}}
 Now we will add the access policy to our Key vault so that our function
 may read the secrets. Head over to the Key vault and 
 
@@ -417,7 +417,7 @@ may read the secrets. Head over to the Key vault and 
 -   \(2\) Select **Add Access Policy**
 
 
-![LuiseFreese_51-1627338622825.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298527i597BE5E5F421912B/image-size/large?v=v2&px=999 "LuiseFreese_51-1627338622825.png")
+{{< image alt="LuiseFreese_51-1627338622825.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_51-1627338622825.png" >}}
  
 
 \
@@ -438,7 +438,7 @@ Now fill out the form as follows: 
  
 
 
-![accesspolicyform.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298528i34A6C906E0C8547E/image-size/large?v=v2&px=999 "accesspolicyform.png")
+{{< image alt="accesspolicyform.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/accesspolicyform.png" >}}
  
 Now that our function app has permission to read the secrets from our
 Key vault, we will reference to the secret in the functions app
@@ -456,7 +456,7 @@ over to the functions app and 
  
 
 
-![LuiseFreese_52-1627338697431.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298529i8A7FB47F2F8F936F/image-size/large?v=v2&px=999 "LuiseFreese_52-1627338697431.png")
+{{< image alt="LuiseFreese_52-1627338697431.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_52-1627338697431.png" >}}
  
 
 -   Fill out the form as follows: 

@@ -1,6 +1,6 @@
 # Viva Connections & SharePoint Framework Community Call -- 30th of December, 2021
 
-![recording-30th-dec.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/336623iA7BF4CEDE164715A/image-size/large?v=v2&px=999 "recording-30th-dec.png")
+{{< image alt="recording-30th-dec.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-30th-of/recording-30th-dec.png" >}}
 
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from December 30th is now available from the Microsoft 365
@@ -51,7 +51,7 @@ previous report 2 weeks ago) 
 The host of this call is [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 \@DavidWarnerII.  Q&A takes place as always in chat throughout the call.
-![211230-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/336624iA52887F8D5AB6AA6/image-size/large?v=v2&px=999 "211230-together-mode.gif")
+{{< image alt="211230-together-mode.gif" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-30th-of/211230-together-mode.gif" >}}
 
 [Check out the new ship shape seating situation.  Perfect for rocketing
 into the New Year!  Hang on, see you

@@ -28,7 +28,7 @@ Modern Search** v3.18.1 released March 9th and v4.1.0 released March
 2 weeks.  Great work!    The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
-![together-pnp-25th-march-bi-weekly.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267349i67B70CD64E40CB27/image-size/large?v=v2&px=999 "together-pnp-25th-march-bi-weekly.gif")
+{{< image alt="together-pnp-25th-march-bi-weekly.gif" src="images/blog/sharepoint-framework-community-call-recording-25th-of-march-2021/together-pnp-25th-march-bi-weekly.gif" >}}
  
 
 **Actions:**

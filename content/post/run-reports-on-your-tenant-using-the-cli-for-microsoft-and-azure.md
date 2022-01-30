@@ -45,7 +45,7 @@ In our resource group we can create a new user managed identity that we
 can use. Click on the **add** button and search for **User Assigned
 Managed Identity** to create the new managed identity. Simply provide a
 name and create your new managed identity. 
-![cli-ma.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287158i3798606F0854681C/image-size/large?v=v2&px=999 "cli-ma.png")
+{{< image alt="cli-ma.png" src="images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma.png" >}}
  
 Once the managed identity is created it still need permissions to do
 anything. Just creating it is not enough. In order to use the managed
@@ -70,7 +70,7 @@ Navigate to <https://portal.azure.com> select **Azure Active Directory**
 and pick **Enterprise Applications**. In the Application Filter filter
 on **Managed Identities** and make sure to pick the **Application Id**
 of your newly created managed identity. 
-![cli-ma-id.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288466iB87F18CB4EBF773F/image-size/large?v=v2&px=999 "cli-ma-id.png")
+{{< image alt="cli-ma-id.png" src="images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma-id.png" >}}
 
 Store it somewhere save as we need it at a later moment. 
 
@@ -133,7 +133,7 @@ for the same status. In the true statement we can implement the logic
 for retrieving our data. You can use the **Get logs from a container
 instance** and e-mail the output to yourself. 
 
-![cli-la-cleanup.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288482i9B5AB92362145240/image-size/large?v=v2&px=999 "cli-la-cleanup.png")
+{{< image alt="cli-la-cleanup.png" src="images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-la-cleanup.png" >}}
 
 In the false branche add an wait **action** that waits for 10 or 15
 seconds. That will make sure it takes a while before it retries checking

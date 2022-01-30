@@ -34,7 +34,7 @@ participating in this PnP Community during February. You are truly
 amazing.  The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \@vesajuvonen. 
 Q&A took place in the chat throughout the call.
-![march-sp-monthly-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262329iC1263B20BCEDFF4A/image-size/large?v=v2&px=999 "march-sp-monthly-together-mode.gif")
+{{< image alt="march-sp-monthly-together-mode.gif" src="images/blog/sharepoint-monthly-community-call-march-9-2021/march-sp-monthly-together-mode.gif" >}}
 
 **Demo: Getting started with Microsoft Viva Topics** -- system and tools
 to help customers manage knowledge within their organizations through a

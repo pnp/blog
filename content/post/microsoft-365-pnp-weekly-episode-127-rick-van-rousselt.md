@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Weekly - Episode 127 - Rick Van Rousselt
 
-![Thumb-Ep127.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/281342iD8D828E60044062F/image-size/large?v=v2&px=999 "Thumb-Ep127.png")
+{{< image alt="Thumb-Ep127.png" src="images/blog/microsoft-365-pnp-weekly-episode-127-rick-van-rousselt/Thumb-Ep127.png" >}}
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|

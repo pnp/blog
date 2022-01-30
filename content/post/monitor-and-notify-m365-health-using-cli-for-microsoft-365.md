@@ -128,7 +128,7 @@ solution](https://arjunumenon.com/tenant-status-solution-m365cli/#bonus-solution
 that can you can have a look into that and design your requirements
 accordingly). In my case, SharePoint List look something like below
 
-![ArjunMenon_0-1637745741073.jpeg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329103iE1C98C8A8FE47A73/image-size/medium?v=v2&px=400 "ArjunMenon_0-1637745741073.jpeg")
+{{< image alt="ArjunMenon_0-1637745741073.jpeg" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_0-1637745741073.jpeg" >}}
 
 #### Adding to SharePoint List if a Service is not Normal 
 
@@ -168,7 +168,7 @@ without going to the Admin Center. Once you have the data pushed, your
 status information for a particular outage may look something like
 below. 
 
-![ArjunMenon_1-1637745741149.jpeg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329105i80FC21C572CA5DF8/image-size/medium?v=v2&px=400 "ArjunMenon_1-1637745741149.jpeg")
+{{< image alt="ArjunMenon_1-1637745741149.jpeg" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_1-1637745741149.jpeg" >}}
 
 ### Send email to any users using CLI for Microsoft 365 
 
@@ -277,7 +277,7 @@ my simple Power Automate screen below,
 Below Power Automate will do the process when a new outage is reported
 by the script 
 
-![ArjunMenon_2-1637745741136.jpeg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329104i7B050DBE4262D573/image-size/medium?v=v2&px=400 "ArjunMenon_2-1637745741136.jpeg")
+{{< image alt="ArjunMenon_2-1637745741136.jpeg" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_2-1637745741136.jpeg" >}}
 
 ### Power Automate - On Modified 
 
@@ -285,10 +285,10 @@ Below is the Power Automate which is created when existing outage is
 modified, which means one of the current Service which was **NOT
 OPERATIONAL** is changed to **OPERATIONAL**
 
-![ArjunMenon_3-1637745741115.jpeg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329106i08AAB9ED71AC9A56/image-size/medium?v=v2&px=400 "ArjunMenon_3-1637745741115.jpeg")
+{{< image alt="ArjunMenon_3-1637745741115.jpeg" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_3-1637745741115.jpeg" >}}
  
 
-![ArjunMenon_4-1637745741165.jpeg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/329107i91CA57B14B093B7D/image-size/medium?v=v2&px=400 "ArjunMenon_4-1637745741165.jpeg")
+{{< image alt="ArjunMenon_4-1637745741165.jpeg" src="images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_4-1637745741165.jpeg" >}}
 
 ## PowerShell Scripts 
 

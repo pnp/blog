@@ -13,45 +13,45 @@ send reminders 30 days in advance of the date.
 You can get started with the **Issue Tracker** by navigating to
 Microsoft Lists, click \"New list\" and then select \"Issue tracker\".
 
-![issuetracker01](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255016iE5F6922E245FF116/image-size/medium?v=v2&px=400 "issuetracker01")
+{{< image alt="issuetracker01" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker01.png" >}}
 
 Review the sample and click \"Use template\".
 
-![issuetracker02](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255017i9D7E8669308D5A33/image-size/medium?v=v2&px=400 "issuetracker02")
+{{< image alt="issuetracker02" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker02.png" >}}
 
 Provide a name, color, icon and storage location (OneDrive aka \"My
 lists\" or SharePoint) and then click \"Create\". I am using \"My
 lists\" in this example.
 
-![issuetracker03](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255018i55DD854CD51F7BA3/image-size/medium?v=v2&px=400 "issuetracker03")
+{{< image alt="issuetracker03" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker03.png" >}}
 
 
 We will add a *Due Date* column to connect our reminders to. From
 **Issue Tracker** to the right of the *Date reported* column select **+
 Add column** or **+** and select \"Date and Time\". 
 
-![stormin_30_4-1613402858860.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255019i4F9BF68377BE2E80/image-size/medium?v=v2&px=400 "stormin_30_4-1613402858860.png")
+{{< image alt="stormin_30_4-1613402858860.png" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_4-1613402858860.png" >}}
 Set Name to *Due Date* and click \"Save\".
 
-![stormin_30_5-1613403503451.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255030i29314B7422D64AC2/image-size/medium?v=v2&px=400 "stormin_30_5-1613403503451.png")
+{{< image alt="stormin_30_5-1613403503451.png" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_5-1613403503451.png" >}}
 
 ## Flow build 
 
 Create a new Flow by clicking \"Automate\" \> \"Power Automate\" \>
 \"See your flows\".
 
-![image-23](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255037iF42F2CF70F13D573/image-size/medium?v=v2&px=400 "image-23")
+{{< image alt="image-23" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-23.png" >}}
 
 Click \"New\" \> \"Scheduled-from blank\".
 
-![image-24](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255038iA0830174795B67B2/image-size/medium?v=v2&px=400 "image-24")
+{{< image alt="image-24" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-24.png" >}}
 Provide a Flow name, I.e. *Issue Tracker -- Daily*, set \"Starting\" to
 \"10:00 AM\", \"Repeat every\" to \"1\", \"Day\" and click \"Create\".
 
-![image-25](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255039i4EEF587A437F70E8/image-size/medium?v=v2&px=400 "image-25")
+{{< image alt="image-25" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-25.png" >}}
 **Tip:** Use the advanced options to set your target time zone.
 
-![image-26](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255040i920F632CBDB4BCBE/image-size/medium?v=v2&px=400 "image-26")
+{{< image alt="image-26" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-26.png" >}}
 
 Click \"New step\", search for \"Variable\" and select the \"Initialize
 variable\" action. 

@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Weekly - Episode 128
 
-![Thumb-Ep128.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283271iB4A74142455E1C5E/image-size/large?v=v2&px=999 "Thumb-Ep128.png")
+{{< image alt="Thumb-Ep128.png" src="images/blog/microsoft-365-pnp-weekly-episode-128/Thumb-Ep128.png" >}}
  
 
 In this installment of the weekly discussion revolving around the latest

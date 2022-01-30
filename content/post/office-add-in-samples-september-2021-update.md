@@ -5,7 +5,7 @@ month on Office Add-in samples.
 
 ## Open data from your web site in a spreadsheet in Microsoft Teams 
 
-![DavidChesnut_0-1632174402426.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311665i182C09DCCDA2892C/image-size/medium?v=v2&px=400 "DavidChesnut_0-1632174402426.png")
+{{< image alt="DavidChesnut_0-1632174402426.png" src="images/blog/office-add-in-samples-september-2021-update/DavidChesnut_0-1632174402426.png" >}}
 
 This sample accomplishes the following tasks.
 

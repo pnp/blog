@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Community Spotlight: David Warner
 
-![David.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/265458i9A900F127AB7C1EC/image-size/large?v=v2&px=999 "David.png")
+{{< image alt="David.png" src="images/blog/microsoft-365-pnp-community-spotlight-david-warner/David.png" >}}
 
 ## Which community project do you maintain? 
 

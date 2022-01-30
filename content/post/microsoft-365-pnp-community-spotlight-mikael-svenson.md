@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Community Spotlight: Mikael Svenson
 
-![mikaelsvenson.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273518i6BF94AAF0EAC938D/image-size/large?v=v2&px=999 "mikaelsvenson.jpg")
+{{< image alt="mikaelsvenson.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-mikael-svenson/mikaelsvenson.jpg" >}}
 
 ## Which community project do you maintain? 
 

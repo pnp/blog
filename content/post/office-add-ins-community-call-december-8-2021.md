@@ -1,6 +1,6 @@
 # Office Add-ins community call -- December 8, 2021
 
-## ![office-add-ins-Thumb Dec 2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/332649i2E53D2F955CEE16A/image-size/large?v=v2&px=999 "office-add-ins-Thumb Dec 2021.png")
+## {{< image alt="office-add-ins-Thumb Dec 2021.png" src="images/blog/office-add-ins-community-call-december-8-2021/office-add-ins-Thumb Dec 2021.png" >}}
 
 ## Call Summary 
 

@@ -64,7 +64,7 @@ what is the point? Well, new developers are joining the team.
 Another good reason from [Wassim
 Chegham](https://twitter.com/manekinekko/status/1365425869909549062 "Link to the tweet of Wassim Chegham")
 
-![comments1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/259922iC7641B86A6E6919B/image-size/large?v=v2&px=999 "comments1.png")
+{{< image alt="comments1.png" src="images/blog/to-write-code-comments-or-not-it-should-not-be-a-question/comments1.png" >}}
 
 
 
@@ -195,4 +195,4 @@ created just the VSCode Extension for you. With the [Hide
 Comments](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hide-comments "VSCode Hide Comments Extension") extension,
 you decide if you want to show or hide the comments for the project.
 
-![comments2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/259926iCD44189CC77EF382/image-size/large?v=v2&px=999 "comments2.png")
+{{< image alt="comments2.png" src="images/blog/to-write-code-comments-or-not-it-should-not-be-a-question/comments2.png" >}}

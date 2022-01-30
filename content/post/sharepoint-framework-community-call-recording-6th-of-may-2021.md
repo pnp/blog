@@ -38,7 +38,7 @@ previous report 2 weeks ago) 
 The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
-![210506-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278963iB071B9DC2D9319D6/image-size/large?v=v2&px=999 "210506-together-mode.gif")
+{{< image alt="210506-together-mode.gif" src="images/blog/sharepoint-framework-community-call-recording-6th-of-may-2021/210506-together-mode.gif" >}}
 Thanks everybody for being part of the Community and helping making
 things happen. You are absolutely awesome!
 

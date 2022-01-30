@@ -1,7 +1,7 @@
 # SharePoint Framework Community Call -- 21st of October, 2021
 
 
-![spfx-call-recording-21st-oct.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319141i4DEFAF972483762B/image-size/large?v=v2&px=999 "spfx-call-recording-21st-oct.png")
+{{< image alt="spfx-call-recording-21st-oct.png" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/spfx-call-recording-21st-oct.png" >}}
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
 call recording from October 21st is now available from the Microsoft 365
 Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
@@ -45,7 +45,7 @@ in the last 2 weeks!   Grrrreat!  Thank you all for your contributions. 
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
 \@mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
-![211021-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319143iDEB8A12A0A757CEC/image-size/large?v=v2&px=999 "211021-together-mode.gif")
+{{< image alt="211021-together-mode.gif" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/211021-together-mode.gif" >}}
 Full house today.  Clearly we\'ve outgrow this venue.   Great to see
 everybody.  See you again soon.   
 **Actions:**

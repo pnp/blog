@@ -40,7 +40,7 @@ previous report 2 weeks ago) 
 The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
-![PnP-Calls-TogetherMode-July1-LowerRes.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/293069i1B86871334852BDC/image-size/large?v=v2&px=999 "PnP-Calls-TogetherMode-July1-LowerRes.gif")
+{{< image alt="PnP-Calls-TogetherMode-July1-LowerRes.gif" src="images/blog/sharepoint-framework-community-call-1st-of-july-2021/PnP-Calls-TogetherMode-July1-LowerRes.gif" >}}
 
 It appears fun is being had by all!  Great to see everyone.  Thanks for
 making this a great community.  

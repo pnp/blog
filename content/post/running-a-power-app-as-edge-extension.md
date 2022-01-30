@@ -7,7 +7,7 @@ suffer from the not invented here syndrome and want to build something
 myself...
 The final result will look as follows: 
 
-![edge-plugin.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/316687i6C3B91A42D477609/image-size/large?v=v2&px=999 "edge-plugin.gif")
+{{< image alt="edge-plugin.gif" src="images/blog/running-a-power-app-as-edge-extension/edge-plugin.gif" >}}
 There are three building blocks that make up the logic: 
 
 1.  Edge Extension
@@ -155,7 +155,7 @@ URL we can use those in the Flow as input parameters for our action
 using the following
 expression: `@{triggerBody()['Addato-do(V3)_Title']}`. The full flow
 looks like this:
-![flow-todo.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/316691i3F919E362B82CF18/image-size/large?v=v2&px=999 "flow-todo.png")
+{{< image alt="flow-todo.png" src="images/blog/running-a-power-app-as-edge-extension/flow-todo.png" >}}
 
 ## Fusion Development 
 

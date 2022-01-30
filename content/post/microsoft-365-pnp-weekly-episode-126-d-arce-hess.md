@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Weekly - Episode 126 - D\'arce Hess
 
-![Thumb-Ep126.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279617iE58E2EDA6F33A5B5/image-size/large?v=v2&px=999 "Thumb-Ep126.png")
+{{< image alt="Thumb-Ep126.png" src="images/blog/microsoft-365-pnp-weekly-episode-126-d-arce-hess/Thumb-Ep126.png" >}}
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|

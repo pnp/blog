@@ -1,6 +1,6 @@
 # Viva Connections & SharePoint Framework Community Call -- 13th of January, 2021
 
-![recording-13th-jan.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339575i470527FFEFAA30C4/image-size/large?v=v2&px=999 "recording-13th-jan.png")
+{{< image alt="recording-13th-jan.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-13th-of/recording-13th-jan.png" >}}
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from January 13th is now available from the Microsoft 365
 Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
@@ -53,7 +53,7 @@ previous report 2 weeks ago) 
 The host of this call is [Vesa Juvonen](http://twitter.com/vesajuvonen)
 (Microsoft) \| \@vesajuvonen.  Q&A takes place as always in chat
 throughout the call.
-![220113-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/339576i55DCBB93843D6ED9/image-size/large?v=v2&px=999 "220113-together-mode.gif")
+{{< image alt="220113-together-mode.gif" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-13th-of/220113-together-mode.gif" >}}
 
 Thank you for joining the call today and/or for viewing the recording. 
 Awesome to see many of you on the screen.

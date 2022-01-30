@@ -1,7 +1,7 @@
 # Office Add-ins community call -- May 2021
 
 
-![office-add-ins-call-recording-12th-may.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/282115i9A74EBEC516EFBFC/image-size/large?v=v2&px=999 "office-add-ins-call-recording-12th-may.png")
+{{< image alt="office-add-ins-call-recording-12th-may.png" src="images/blog/office-add-ins-community-call-may-2021/office-add-ins-call-recording-12th-may.png" >}}
 
 ## Agenda: 
 May's call, hosted by **David Chesnut**, featured the following

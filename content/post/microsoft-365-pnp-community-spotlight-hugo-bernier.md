@@ -1,6 +1,6 @@
 # Microsoft 365 PnP Community Spotlight: Hugo Bernie
 
-![hugobernier.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/284663i9EE089AA7E4D52DB/image-size/large?v=v2&px=999 "hugobernier.jpg")
+{{< image alt="hugobernier.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-hugo-bernier/hugobernier.jpg" >}}
 
 ## Which community project do you maintain? 
 

@@ -1,6 +1,6 @@
 # [ [Microsoft 365 PnP Weekly - Episode 13
 
-![Thumb-Ep130.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287054i6C0E95852FFC5A5C/image-size/large?v=v2&px=999 "Thumb-Ep130.png")
+{{< image alt="Thumb-Ep130.png" src="images/blog/microsoft-365-pnp-weekly-episode-130/Thumb-Ep130.png" >}}
  
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa

@@ -8,7 +8,7 @@ first filter switches the All Groups in my Organization to My Groups and
 the second filters the visibility of the groups ( Public/Private/All )
 
 In the screenshot below you can see the code for the buttons.
-![img1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280774i6C0240580AC8F4D4/image-size/large?v=v2&px=999 "img1.png")
+{{< image alt="img1.png" src="images/blog/react-groups-and-teams-filters/img1.png" >}}
 
 
 ## Visibility Filters
@@ -18,7 +18,7 @@ MyGroupResultsFiltered to be the button text you clicked. For example,
 if you click the 'Public' button MyGroupResultsFiltered will be filtered
 to include only groups with the visibility set as 'Public'.
 
-  Let's dive deeper into what's happening. On click of, for instance, Private, the button calls the SwitchGroupList2 function (line 69) and passes through 'Private' as a parameter.   ![img2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280775i666631F4E7738F6F/image-size/large?v=v2&px=999 "img2.png")
+  Let's dive deeper into what's happening. On click of, for instance, Private, the button calls the SwitchGroupList2 function (line 69) and passes through 'Private' as a parameter.   {{< image alt="img2.png" src="images/blog/react-groups-and-teams-filters/img2.png" >}}
 
 That parameter 'Private' is now called 'Switch' and next we check if
 that equals 'All'.
@@ -61,19 +61,19 @@ Private button the SwitchGroupList2 function will set the mode to be
 'Selected Filter'.
 
 
-![img3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280777i621BDAEABE92A2A4/image-size/large?v=v2&px=999 "img3.png")
+{{< image alt="img3.png" src="images/blog/react-groups-and-teams-filters/img3.png" >}}
 
 
 ## Option Filter
 
-  On the bottom right of the heading before the groups you will either see a button titled 'My Groups' or 'Groups In My Organization'.   ![option filter.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280780iA0796B9CD323BD3E/image-size/large?v=v2&px=999 "option filter.png")
+  On the bottom right of the heading before the groups you will either see a button titled 'My Groups' or 'Groups In My Organization'.   {{< image alt="option filter.png" src="images/blog/react-groups-and-teams-filters/option filter.png" >}}
 
 This button allows you to toggle between either displaying groups you
 are a member of or groups in your organization. On click of this button
 you call the SwitchGroupList function. ( Not the SwitchGroupList2
 function mentioned earlier )
 
-  In this function we check if the title in state is 'Groups In My Organization'. The title is what is displayed, meaning that if the button text is 'View My Groups' the title is 'Groups In My Organization'.   ![switch group list.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280781i156E78B9D2C729F6/image-size/large?v=v2&px=999 "switch group list.png")
+  In this function we check if the title in state is 'Groups In My Organization'. The title is what is displayed, meaning that if the button text is 'View My Groups' the title is 'Groups In My Organization'.   {{< image alt="switch group list.png" src="images/blog/react-groups-and-teams-filters/switch group list.png" >}}
 
 If the title is 'Groups In My Organization' we change it to be 'My
 Groups'. The opposite also applies- if the title is 'My Groups' we go
@@ -83,7 +83,7 @@ want to toggle the button text and header text between 'Groups In My
 Organization' and 'My Groups' and also so that we can display the right
 information.
 
-  ![ternary.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280782iA7EEBF7CD09C6FAF/image-size/large?v=v2&px=999 "ternary.png")  In the render there is a ternary operator that checks if the current selected option is 'My Groups'.
+  {{< image alt="ternary.png" src="images/blog/react-groups-and-teams-filters/ternary.png" >}}  In the render there is a ternary operator that checks if the current selected option is 'My Groups'.
 
 If this is true it maps through MyGroupResultsFiltered and displays the
 groups. If not, it renders All of the groups in your organization.

@@ -28,7 +28,7 @@ v4.1.0 released March 20th.     There were eight **PnP SPFx web part
 samples** delivered last 2 weeks.  Great work!    The host of this call
 is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
-![8th-april-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/271404iBE0D925A55D85AF1/image-size/large?v=v2&px=999 "8th-april-together-mode.gif")
+{{< image alt="8th-april-together-mode.gif" src="images/blog/sharepoint-framework-community-call-recording-8th-of-april-2021/8th-april-together-mode.gif" >}}
  
 
 **Actions:**

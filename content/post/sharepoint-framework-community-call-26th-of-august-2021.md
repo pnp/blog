@@ -39,7 +39,7 @@ for contributing!  There was a formal demo and an informal sneak peek
 demo during this call.    The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
-![210826-together-mode.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/306134iC413F668198AB1A6/image-size/large?v=v2&px=999 "210826-together-mode.gif")
+{{< image alt="210826-together-mode.gif" src="images/blog/sharepoint-framework-community-call-26th-of-august-2021/210826-together-mode.gif" >}}
 Thank you everybody for being part of this call, the community, a tweet,
 a blog post, and the solution to your customer\'s needs.  
 

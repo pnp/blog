@@ -30,7 +30,7 @@ Manager and Onur Onder, Senior Software Engineer.   Recorded August 11,
     \@davidchesnut -- [13:08](https://youtu.be/UflCQGPjz14?t=788)
 -   Q&A -- [28:15](https://youtu.be/UflCQGPjz14?t=1695)
 
-![office-add-ins-august-agenda.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304987iB007C88468D302FC/image-size/medium?v=v2&px=400 "office-add-ins-august-agenda.png")
+{{< image alt="office-add-ins-august-agenda.png" src="images/blog/office-add-ins-community-call-august-2021/office-add-ins-august-agenda.png" >}}
 
 ## Demo Summaries:  
 

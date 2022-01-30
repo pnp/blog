@@ -40,7 +40,7 @@ an interactive terminal session inside the container, this is determined
 by the presence of the `-it`{.language-plaintext .highlighter-rouge}
 switch in the `docker run`{.language-plaintext .highlighter-rouge}
 command.
-![garrytrinder_0-1615630685864.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263355i6DAB65DB77FE2782/image-size/large?v=v2&px=999 "garrytrinder_0-1615630685864.png"){.lia-media-image
+{{< image alt="garrytrinder_0-1615630685864.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_0-1615630685864.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263355i6DAB65DB77FE2782?v=v2"
 li-image-display-id="'263355i6DAB65DB77FE2782'"
@@ -67,14 +67,14 @@ docker run --rm -it m365pnp/cli-microsoft365:latest pwsh
 ```
 
 
-![garrytrinder_1-1615630685843.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263354iB47662BC6BBD11A4/image-size/large?v=v2&px=999 "garrytrinder_1-1615630685843.png")
+{{< image alt="garrytrinder_1-1615630685843.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_1-1615630685843.png" >}}
 Now that you are at the interactive terminal, you can now invoke any CLI
 for Microsoft 365 command using the `m365`{.language-plaintext
 .highlighter-rouge}prefix as it is already installed, to help you, we
 have even pre-configured tab command completion for you in both
 `bash`{.language-plaintext .highlighter-rouge} and
 `PowerShell`{.language-plaintext .highlighter-rouge}. Neat right.
-![garrytrinder_2-1615630685839.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263356i69B5B2CE4731276E/image-size/large?v=v2&px=999 "garrytrinder_2-1615630685839.png"){.lia-media-image
+{{< image alt="garrytrinder_2-1615630685839.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_2-1615630685839.png" >}}{.lia-media-image
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263356i69B5B2CE4731276E?v=v2"
 li-image-display-id="'263356i69B5B2CE4731276E'"
@@ -90,7 +90,7 @@ be stopped and removed, freeing up resources on your host machine, this
 is determined by the presence of the `--rm`{.language-plaintext
 .highlighter-rouge} switch in the `docker run`{.language-plaintext
 .highlighter-rouge} command.
-![garrytrinder_3-1615630685863.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263357iDAE5D5CDE7AD769F/image-size/large?v=v2&px=999 "garrytrinder_3-1615630685863.png")
+{{< image alt="garrytrinder_3-1615630685863.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_3-1615630685863.png" >}}
 This doesn't mean that the image you just downloaded has been removed as
 well, this remains on your machine, we just removed the container
 instance that was started, so when you run the

@@ -462,7 +462,7 @@ as dynamic content from the trigger, but thankfully the **Get user
 profile (V2)** action is able to handle this and return all of the
 information required:
 
-![z3019494_1-1620122926624.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277808iCD4855FC3B0752D2/image-dimensions/640x335?v=v2 "z3019494_1-1620122926624.png")
+{{< image alt="z3019494_1-1620122926624.png" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620122926624.png" >}}
 
 ## 4. Check for *Chat* or *Channel* conversation message and what action to take 
 
@@ -517,7 +517,7 @@ reminded:**
     the **MinutesToDelay** variable to a \"0\" or simply use the hours
     inputted.
 
-![z3019494_1-1620123840984.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277813i83D8267ABE862C54/image-size/large?v=v2&px=999 "z3019494_1-1620123840984.png")
+{{< image alt="z3019494_1-1620123840984.png" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620123840984.png" >}}
 
 Finally, the **TotalTimeDelay** is set to the following expression:
 
@@ -780,7 +780,7 @@ option.
 Two more **Compose** actions are required before we pop the reminder
 card out, namely:
 
-![z3019494_2-1620126836459.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277818i34EF39EC3B27ADD2/image-size/large?v=v2&px=999 "z3019494_2-1620126836459.png")
+{{< image alt="z3019494_2-1620126836459.png" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_2-1620126836459.png" >}}
 Unfortunately if you wanted to insert the **Plain Text Message **dynamic
 content into the replace formula, you\'re almost out of luck. Here\'s
 where **Compose **comes to the rescue. The **Compose - PTM without
@@ -796,12 +796,12 @@ reminder card to spit the dummy with any double quotation marks.
 With the `TotalChannelBlock `{.sample}variable inserted into the
 appropriate location so that the correct information about the message
 is displayed to the user who initiated the flow:
-![z3019494_3-1620127059580.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277819iC021F491321F4D5F/image-size/large?v=v2&px=999 "z3019494_3-1620127059580.png")
+{{< image alt="z3019494_3-1620127059580.png" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_3-1620127059580.png" >}}
 
 \...and a summary at the bottom of the card (pop the **Show advanced
 options** open!) to ensure a summary is sent - especially useful if your
 smartwatch notifications rely on a summary of sorts:
-![z3019494_0-1620127122452.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277820iC61707C2B0D49C6A/image-size/large?v=v2&px=999 "z3019494_0-1620127122452.png")
+{{< image alt="z3019494_0-1620127122452.png" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_0-1620127122452.png" >}}
  
  
 ``` {.lia-code-sample .language-json}
