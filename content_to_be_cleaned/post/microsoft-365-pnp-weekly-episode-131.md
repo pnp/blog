@@ -19,6 +19,7 @@
 
 ::: {#readerAssistMessages .section .live-region aria-live="assertive" role="alert"}
 :::
+<<<<<<< HEAD
 
 ::: community-header-blank
 :::
@@ -38,10 +39,15 @@ itemprop="logo" role="presentation" aria-hidden="true"}
 [Microsoft]{role="presentation"
 aria-hidden="true"}](https://www.microsoft.com){#uhfLogo .c-logo
 .c-sgl-stk-uhfLogo}
+=======
+![]
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {.c-show-pipe aria-hidden="true"}
 :::
 
+<<<<<<< HEAD
 [Tech Community](/){#uhfCatLogo .c-logo .c-cat-logo}
 
 ::: container-inner
@@ -55,6 +61,13 @@ aria-hidden="true"}](https://www.microsoft.com){#uhfLogo .c-logo
 
 ::: {#community-menu-wrapper-list .community-menu-list}
 ::: {.community-menu-item .tab-homepage}
+=======
+
+:::
+:::
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 [](/)
 
 ::: {.mdl2-glyph .community-menu-item-icon}
@@ -77,8 +90,12 @@ Home
 Community Hubs
 :::
 
+<<<<<<< HEAD
 [](/t5/communities/ct-p/communities#category-filter-button-all){.community-menu-item-mobile-view
 .community-menu-item-allow-link}
+=======
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {.c-glyph .community-menu-item-icon}
 
@@ -115,71 +132,126 @@ Close
 ### Most Active Hubs
 
 ::: {.data style="flex-direction: column; height:310px"}
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft
 Teams](/t5/microsoft-teams/ct-p/MicrosoftTeams "Microsoft Teams")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Excel](/t5/excel/ct-p/Excel_Cat "Excel")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Exchange](/t5/exchange/ct-p/Exchange "Exchange")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [SharePoint](/t5/sharepoint/ct-p/SharePoint "SharePoint")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Windows](/t5/windows-10/ct-p/Windows10 "Windows")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Office 365](/t5/office-365/ct-p/Office365 "Office 365")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Security, Compliance and
 Identity](/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance "Security, Compliance and Identity")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Windows
 Server](/t5/windows-server/ct-p/Windows-Server "Windows Server")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft Edge
 Insider](/t5/microsoft-edge-insider/ct-p/MicrosoftEdgeInsider "Microsoft Edge Insider")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Azure](/t5/azure-community/ct-p/Azure "Azure")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft 365](/t5/microsoft-365/ct-p/microsoft365 "Microsoft 365")
 
@@ -222,84 +294,142 @@ Yammer
 ::: description
 Connect and engage across your organization.
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {#services-data .dataBlock key="services"}
 ::: {.hubs style="width: 600px"}
 ### Most Active Hubs
 
 ::: {.data style="flex-direction: column; height:310px"}
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [ITOps Talk](/t5/itops-talk/ct-p/ITOpsTalk "ITOps Talk")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Education
 Sector](/t5/education-sector/ct-p/EducationSector "Education Sector")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft
 Learn](/t5/microsoft-learn/ct-p/MicrosoftLearn "Microsoft Learn")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft
 Localization](/t5/microsoft-localization/ct-p/MicrosoftTranslation "Microsoft Localization")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft 365
 PnP](/t5/microsoft-365-pnp/ct-p/Microsoft365PnP "Microsoft 365 PnP")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Healthcare and Life
 Sciences](/t5/healthcare-and-life-sciences/ct-p/HealthcareAndLifeSciences "Healthcare and Life Sciences")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Public Sector](/t5/public-sector/ct-p/PublicSector "Public Sector")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Internet of Things
 (IoT)](/t5/internet-of-things-iot/ct-p/IoT "Internet of Things (IoT)")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Mixed
 Reality](/t5/mixed-reality/ct-p/MicrosoftMixedReality "Mixed Reality")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Enabling Remote
 Work](/t5/enabling-remote-work/ct-p/RemoteWork "Enabling Remote Work")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Small and Medium
 Business](/t5/small-and-medium-businesses/ct-p/SMB "Small and Medium Business")
@@ -343,95 +473,159 @@ MVP Award Program
 ::: description
 Find out more about the Microsoft MVP Award Program.
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {#VideoHub-Data .dataBlock key="VideoHub"}
 ::: {.hubs style="width: 838px"}
 ### Video Hub
 
 ::: {.data style="flex-direction: row; height:fit-content"}
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Azure](https://aka.ms/VideoHub/Azure "Azure")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Exchange](https://aka.ms/VideoHub/Exchange "Exchange")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft 365](https://aka.ms/VideoHub/Microsoft365 "Microsoft 365")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft 365
 Business](https://aka.ms/VideoHub/Microsoft365Business "Microsoft 365 Business")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft 365
 Enterprise](https://aka.ms/VideoHub/Microsoft365Business "Microsoft 365 Enterprise")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft Edge](https://aka.ms/VideoHub/MicrosoftEdge "Microsoft Edge")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft Outlook](https://aka.ms/VideoHub/Outlook "Microsoft Outlook")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Microsoft
 Teams](https://aka.ms/VideoHub/MicrosoftTeams "Microsoft Teams")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Security](https://aka.ms/VideoHub/Security "Security")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [SharePoint](https://aka.ms/VideoHub/SharePoint "SharePoint")
 
 </div>
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [Windows](https://aka.ms/VideoHub/Windows "Windows")
 
 </div>
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: custom-community-hubs-menu-footer
 [Browse All Community
 Hubs](/t5/Communities/ct-p/communities){#browse-all-communities}
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {.community-menu-item .my-favorites}
 [](/t5/custom/page/page-id/Blogs){.community-menu-item-desktop-view}
@@ -542,9 +736,12 @@ Lounge
 
 ::: community-menu-item-title
 Lounge
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 -   [[776K]{#community-menu-wrapper-vitality-stat-count-1
     .community-menu-vitality-stat-count} [
@@ -614,9 +811,12 @@ Auto-suggest helps you quickly narrow down your search results by
 suggesting possible matches as you type.
 :::
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: spell-check-showing-result
 Showing results for []{#showingResult_2312ffad8896fb
@@ -626,7 +826,12 @@ Showing results for []{#showingResult_2312ffad8896fb
 ]{.all-results-for-synonym-search}
 :::
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [ Show [](#){#synonymSearchInstead_2312ffad8896fb .lia-link-navigation
 .synonym-search-instead-for-link} only  ]{.synonym-search-instead
@@ -642,9 +847,12 @@ Did you mean: [](#){#doYouMean_2312ffad8896fb .lia-link-navigation
 .do-you-mean-link}
 :::
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: sign-in-wrapper
 [Sign
@@ -663,9 +871,12 @@ In](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&referer=https%3
 [](/t5/notes/privatenotespage)
 
 ::: lia-notifications-messages-aggregate
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: lia-component-common-widget-slide-out-user-menu
 ::: {.lia-user-navigation-sign-in .lia-component-users-action-login-with-avatar}
@@ -680,6 +891,7 @@ In](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&referer=https%3
 .lia-link-navigation .login-link .lia-authentication-link}
 
 ::: lia-anonymous-profile-icon
+<<<<<<< HEAD
 :::
 :::
 :::
@@ -689,6 +901,8 @@ In](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&referer=https%3
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: notifications-overlay-notif
 :::
@@ -698,9 +912,12 @@ In](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&referer=https%3
 
 ::: notifications-overlay-favorites
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {.lia-quilt-row .lia-quilt-row-sub-header}
 ::: {.lia-quilt-column .lia-quilt-column-18 .lia-quilt-column-left .lia-quilt-column-breadcrumb .lia-mark-empty}
@@ -754,9 +971,12 @@ Auto-suggest helps you quickly narrow down your search results by
 suggesting possible matches as you type.
 :::
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: spell-check-showing-result
 Showing results for []{#showingResult .lia-link-navigation
@@ -765,7 +985,12 @@ Showing results for []{#showingResult .lia-link-navigation
 ]{.all-results-for-synonym-search}
 :::
 
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 [ Show [](#){#synonymSearchInstead .lia-link-navigation
 .synonym-search-instead-for-link} only  ]{.synonym-search-instead
@@ -778,20 +1003,26 @@ Showing results for []{#showingResult .lia-link-navigation
 
 ::: {.spell-check-do-you-mean .lia-component-search-widget-spellcheck}
 Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
+<<<<<<< HEAD
 :::
 :::
 :::
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {.lia-quilt-row .lia-quilt-row-feedback}
 ::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-feedback}
 ::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {.custom-nda-blog-article-page-header-banner .lia-mark-empty}
 :::
@@ -830,20 +1061,33 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
     .lia-link-navigation .child-thread .lia-link-disabled
     aria-disabled="true" disabled="true" role="link"
     aria-label="Microsoft 365 PnP Weekly - Episode 131"}
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {.lia-menu-bar .lia-discussion-page-discussion-navigator .lia-component-article-navigator}
 ::: lia-decoration-border-menu-bar
 ::: lia-decoration-border-menu-bar-top
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 </div>
 :::
 
 ::: lia-decoration-border-menu-bar-content
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: lia-menu-bar-buttons
 :::
@@ -864,6 +1108,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 :::
 
 ::: lia-decoration-border-menu-bar-bottom
+<<<<<<< HEAD
 <div>
 
 </div>
@@ -874,6 +1119,13 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 :::
 :::
 :::
+=======
+
+
+
+</div>
+:::
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {.lia-quilt-row .lia-quilt-row-main}
 ::: {.lia-quilt-column .lia-quilt-column-18 .lia-quilt-column-left .lia-quilt-column-main-content}
@@ -888,13 +1140,23 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: {.lia-menu-bar .top-block .lia-component-menu-bar-without-options}
 ::: lia-decoration-border-menu-bar
 ::: lia-decoration-border-menu-bar-top
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 </div>
 :::
 
 ::: lia-decoration-border-menu-bar-content
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: lia-menu-bar-buttons
 :::
@@ -903,14 +1165,22 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 :::
 
 ::: lia-decoration-border-menu-bar-bottom
+<<<<<<< HEAD
 <div>
+=======
+
+
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 </div>
 :::
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: ba-author-and-metrics-wrapper
 ::: ba-author-wrapper
@@ -921,7 +1191,11 @@ By
 
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Microsoft}
+<<<<<<< HEAD
 [![Vesa
+=======
+![Vesa
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 Juvonen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/430iA3AD642623E8B21D/image-dimensions/150x150/image-coordinates/0%2C0%2C220%2C220?v=v2 "Vesa Juvonen"){.lia-user-avatar-message
 .user-rank-ring .user-rank-ring style="border-color: #0078D4"
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/369){.UserAvatar
@@ -932,6 +1206,7 @@ onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/us
 ::: contents
 ::: spinner
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
@@ -941,13 +1216,21 @@ onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/us
 :::
 :::
 :::
+=======
+
+::: user-login
+[Vesa Juvonen](/t5/user/viewprofilepage/user-id/369)
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: ba-metrics-info
 [Published]{.ba-published-title} [Jun 15 2021 02:43
 AM]{.ba-published-date} [ 1,269 Views ]{.ba-view-count}
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: custom-blog-article-wrapper
 ::: {#messageview .lia-panel-message .message-uid-2445655 .lia-component-article lia-message-uid="2445655"}
@@ -969,7 +1252,11 @@ AM]{.ba-published-date} [ 1,269 Views ]{.ba-view-count}
 ::: {.lia-message-author-avatar .lia-component-author-avatar .lia-component-message-view-widget-author-avatar}
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Microsoft}
+<<<<<<< HEAD
 [![Vesa
+=======
+![Vesa
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 Juvonen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/430iA3AD642623E8B21D/image-dimensions/40x40/image-coordinates/0%2C0%2C220%2C220?v=v2 "Vesa Juvonen"){.lia-user-avatar-message
 .user-rank-ring .user-rank-ring style="border-color: #0078D4"
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/369){.UserAvatar
@@ -981,9 +1268,12 @@ onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/us
 ::: spinner
 :::
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: lia-message-author-with-avatar
 [ [Vesa
@@ -995,9 +1285,12 @@ Juvonen](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/369
 
 ::: {.lia-message-author-rank .lia-component-author-rank .lia-component-message-view-widget-author-rank}
 Microsoft
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {.lia-quilt-column .lia-quilt-column-08 .lia-quilt-column-right .lia-quilt-column-header-right}
 ::: {.lia-quilt-column-alley .lia-quilt-column-alley-right}
@@ -1050,12 +1343,15 @@ Microsoft
     .lia-component-forums-action-report-abuse}
 :::
 :::
+<<<<<<< HEAD
 :::
 :::
 :::
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {.lia-quilt-row .lia-quilt-row-main}
 ::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-main}
@@ -1074,18 +1370,26 @@ alt="Message contains an image" aria-label="Contains an image"
 role="img"} []{#display_4 .lia-img-message-has-video .lia-fa-message
 .lia-fa-has .lia-fa-video .lia-fa title="Contains a video"
 alt="Message contains a video" aria-label="Contains a video" role="img"}
+<<<<<<< HEAD
 :::
 :::
 :::
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
 ::: {.lia-message-post-date .lia-component-post-date .lia-component-message-view-widget-post-date title="Posted on"}
 [ [‎Jun 15 2021]{.local-date} [02:43 AM]{.local-time} ]{.DateTime}
 :::
 
+<<<<<<< HEAD
 ::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
 ::: {#bodyDisplay .lia-message-body itemprop="text"}
 ::: lia-message-body-content
 {{< image alt="Thumb-Ep131.png" src="images/blog/microsoft-365-pnp-weekly-episode-131/Thumb-Ep131.png" >}}{.lia-media-image
+=======
+
+![Thumb-Ep131.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288561iA35A6184FC05C0F9/image-size/large?v=v2&px=999 "Thumb-Ep131.png"){.lia-media-image
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 role="button"
 li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288561iA35A6184FC05C0F9?v=v2"
 li-image-display-id="'288561iA35A6184FC05C0F9'"
@@ -1094,9 +1398,12 @@ li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
 li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
 .lia-image-align-center image-alt="Thumb-Ep131.png"
 style="width: 999px;"}
+<<<<<<< HEAD
 
  
 
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
  
 
 In this installment of the weekly discussion revolving around the latest
@@ -1113,6 +1420,7 @@ group's role in the development of the Microsoft Teams Toolkit, ideas
 for spending \$5B to make Microsoft products better for developers, next
 steps for Teams Toolkit, and wrap up with each participant's focus for
 the week. 
+<<<<<<< HEAD
 
  
 
@@ -1121,10 +1429,15 @@ week!  
 
  
 
+=======
+Covering also 22 new articles from Microsoft and the Community from past
+week!  
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 Please remember to keep on providing us feedback on how we can help on
 this journey. We always welcome feedback on making the community more
 inclusive and diverse.
 
+<<<<<<< HEAD
  
 
 ::: {.video-embed-center .video-embed}
@@ -1137,13 +1450,20 @@ inclusive and diverse.
 
  
 
+=======
+[This episode was recorded on Monday, June 14,
+2021.]
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 -   Video at [Microsoft 365 Community YouTube
     channel.](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+<<<<<<< HEAD
 
  
 
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
 video and podcast series and also do let us know if you have done
@@ -1153,6 +1473,7 @@ and add the
 hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
 always on the lookout for refreshingly new content. "*Sharing is
 caring!"* 
+<<<<<<< HEAD
 
  
 
@@ -1166,6 +1487,13 @@ everyone for your contributions to the community!\
 
  
 
+=======
+Here are all the links and people mentioned in this recording. Thanks,
+everyone for your contributions to the community!
+
+
+**Microsoft articles:**
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 -   [What's new for Teams phones \| June
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-for-teams-phones-june-2021/ba-p/2422100?WT.mc_id=m365-31622-wmastyka) -
     Microsoft
@@ -1177,12 +1505,16 @@ everyone for your contributions to the community!\
     iOS](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-microsoft-dictation-for-ios/ba-p/2405938?WT.mc_id=m365-31622-wmastyka) -
     Dan Parish (Microsoft)
 
+<<<<<<< HEAD
  
 
 **Community articles:**
 
  
 
+=======
+**Community articles:**
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 -   [Microsoft Graph Mailbag -- A deeper look into the Microsoft Graph
     PowerShell
     SDK](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-mailbag-a-deeper-look-into-the-microsoft-graph-powershell-sdk/?WT.mc_id=m365-31622-wmastyka)
@@ -1267,12 +1599,16 @@ everyone for your contributions to the community!\
     Webster](http://twitter.com/darrellaas) (Modern Workplace Change) \|
     \@darrellaas
 
+<<<<<<< HEAD
  
 
 **Additional resources:**
 
  
 
+=======
+**Additional resources:**
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) -
     <https://aka.ms/teams-toolkit> 
@@ -1285,14 +1621,18 @@ everyone for your contributions to the community!\
     at <https://aka.ms/m365pnp/community>
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
+<<<<<<< HEAD
 
  
 
+=======
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 If you'd like to hear from a specific community member in an upcoming
 recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
 
+<<<<<<< HEAD
  
 
 *\"Sharing is caring!\"*
@@ -1810,3 +2150,6 @@ Browse
 :::
 :::
 :::
+=======
+*\"Sharing is caring!\"*
+>>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
