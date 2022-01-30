@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Community Call recording -- 16th of September, 2021"
 date: 2021-09-16T03:34:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-16th-of/call-16th-sep-recording.png
 - images/blog/microsoft-365-developer-community-call-recording-16th-of/PnP-Calls-TogetherMode-800W.gif
@@ -14,7 +14,7 @@ draft: false
 
 {{< image alt="call-16th-sep-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-16th-of/call-16th-sep-recording.png" >}}
 
-**Call Summary**
+## Call summary
 
 Have a look at Microsoft 365 tenant -- [script samples
 gallery](https://aka.ms/script-samples) (84 scenarios and 111

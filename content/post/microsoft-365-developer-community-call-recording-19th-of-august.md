@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Community Call recording -- 19th of August, 2021"
 date: 2021-08-20T03:41:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-19th-of-august/recording-august-19th.png
 - images/blog/microsoft-365-developer-community-call-recording-19th-of-august/210819-together-mode.gif
@@ -15,7 +15,7 @@ draft: false
 {{< image alt="recording-august-19th.png" src="images/blog/microsoft-365-developer-community-call-recording-19th-of-august/recording-august-19th.png" >}}
  
 
-**Call Summary**
+## Call summary
 
 Summer break and community call schedule updates reviewed.  Microsoft
 365 tenant -- [script samples gallery](https://aka.ms/script-samples) -

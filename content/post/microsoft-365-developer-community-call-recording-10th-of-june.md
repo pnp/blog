@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Community Call recording -- 10th of June, 2021"
 date: 2021-06-10T11:24:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-10th-of-june/m365-general-10th-june-recording.png
 - images/blog/microsoft-365-developer-community-call-recording-10th-of-june/210610-together-mode.gif
@@ -16,7 +16,7 @@ draft: false
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from June 10, 2021.
 {{< image alt="m365-general-10th-june-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-10th-of-june/m365-general-10th-june-recording.png" >}}
-**Call Summary**
+## Call summary
 
 Summer break and community call schedule updates reviewed. You are
 invited to join the [Viva Connections private

@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Community Call recording -- 5th of August, 2021"
 date: 2021-08-05T07:52:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-5th-of-august/PnP-Calls-TogetherMode-LowerResolution.gif
 tags: []
@@ -12,7 +12,7 @@ draft: false
 --- 
 
 :
-**Call Summary**
+## Call summary
 
 Summer break and community call schedule updates reviewed.  Preview the
 new [Microsoft 365 Extensibility look book

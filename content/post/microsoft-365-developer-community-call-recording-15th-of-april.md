@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Community Call recording -- 15th of April, 2021"
 date: 2021-04-16T04:18:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-15th-of-april/sig-agenda-15th-recording.png
 - images/blog/microsoft-365-developer-community-call-recording-15th-of-april/210415-together-mode.gif
@@ -17,7 +17,7 @@ Interest Group (SIG) community call from April 15, 2021.
 {{< image alt="sig-agenda-15th-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-15th-of-april/sig-agenda-15th-recording.png" >}}
  
 
-**Call Summary**
+## Call summary
 
 Latest news from Microsoft 365 engineering and updates on open-source
 projects: PnP .NET libraries, PnP PowerShell, modernization tooling, on

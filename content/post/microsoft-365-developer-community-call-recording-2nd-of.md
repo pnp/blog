@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Community Call recording -- 2nd of September, 2021"
 date: 2021-09-03T03:45:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-2nd-of/recording-2nd-september-call.png
 tags: []
@@ -13,7 +13,7 @@ draft: false
 
 {{< image alt="recording-2nd-september-call.png" src="images/blog/microsoft-365-developer-community-call-recording-2nd-of/recording-2nd-september-call.png" >}}
 
-**Call Summary**
+## Call summary
 
 Welcome back from summer holiday!  Have a look at Microsoft 365 tenant
 -- [script samples gallery](https://aka.ms/script-samples) - s*cripts

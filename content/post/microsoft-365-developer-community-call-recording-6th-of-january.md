@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Community Call recording -- 6th of January, 2021"
 date: 2022-01-07T01:01:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-6th-of-january/recording-6th-jan.png
 - images/blog/microsoft-365-developer-community-call-recording-6th-of-january/220106-together-mode.gif
@@ -14,7 +14,7 @@ draft: false
 
 {{< image alt="recording-6th-jan.png" src="images/blog/microsoft-365-developer-community-call-recording-6th-of-january/recording-6th-jan.png" >}}
 
-**Call Summary**
+## Call summary
 
 Welcome to the New Year.  It's a great time to visit the Microsoft 365
 tenant -- [script samples gallery](https://aka.ms/script-samples) (129

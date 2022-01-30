@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Community Call recording -- 8th of July, 2021"
 date: 2021-07-08T05:08:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-8th-of-july/8th-july-recording-m365dev.png
 - images/blog/microsoft-365-developer-community-call-recording-8th-of-july/PictureTimeGIF-8JUly2021-2Sec-30FPS.gif
@@ -14,7 +14,7 @@ draft: false
 
 {{< image alt="8th-july-recording-m365dev.png" src="images/blog/microsoft-365-developer-community-call-recording-8th-of-july/8th-july-recording-m365dev.png" >}}
 
-**Call Summary**
+## Call summary
 
 Summer and Fall community call schedule updates reviewed. Preview the
 new [Microsoft 365 Extensibility look book

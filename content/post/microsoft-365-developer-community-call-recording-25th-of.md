@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Community Call recording -- 25th of November, 2021"
 date: 2021-11-26T03:33:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-25th-of/recording-25th-nov.png
 - images/blog/microsoft-365-developer-community-call-recording-25th-of/211125-together-mode.gif
@@ -14,7 +14,7 @@ draft: false
 
 {{< image alt="recording-25th-nov.png" src="images/blog/microsoft-365-developer-community-call-recording-25th-of/recording-25th-nov.png" >}}
 
-**Call Summary**
+## Call summary
 
 Have you visited the Microsoft 365 tenant -- [script samples
 gallery](https://aka.ms/script-samples) (116 scenarios and 160 scripts,

@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Community Call recording -- 22nd of July, 2021"
 date: 2021-07-22T05:41:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png
 - images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/wave3.gif
@@ -13,7 +13,7 @@ draft: false
 ---
 
 {{< image alt="sig-recordingly-22nd-july.png" src="images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png" >}}
-**Call Summary**
+## Call summary
 
 Summer break and community call schedule updates reviewed. Preview the
 new [Microsoft 365 Extensibility look book
