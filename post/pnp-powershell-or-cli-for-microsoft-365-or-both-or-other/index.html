@@ -6,7 +6,7 @@
 <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=5">
 <meta name=description content="During my SP consultant/dev work I most of the times used the last two. From time to time I got the question: which one is better?">
 <meta name=author content="Themefisher">
-<meta name=generator content="Hugo 0.92.0">
+<meta name=generator content="Hugo 0.92.1">
 <link rel="shortcut icon" href=/community-blog/images/favicon_hu18ce15157ab1341ba06c4a679ea7c433_515_32x0_resize_box_3.png type=image/x-icon>
 <link rel=icon href=/community-blog/images/favicon_hu18ce15157ab1341ba06c4a679ea7c433_515_32x0_resize_box_3.png type=image/x-icon>
 <link rel=icon type=image/png sizes=16x16 href=/community-blog/images/favicon_hu18ce15157ab1341ba06c4a679ea7c433_515_16x0_resize_box_3.png>
@@ -119,8 +119,8 @@ Shell</a> or
 <a href=https://pnp.github.io/powershell/>PnP PowerShell</a> or <a href=https://pnp.github.io/cli-microsoft365/>CLI for
 Microsoft 365</a>. During my SP
 consultant/dev work I most of the times used the last two. From time to
-time I got the question: which one is better?</p>
-<p>And probably you are expecting the answer to this question at the
+time I got the question: which one is better?
+And probably you are expecting the answer to this question at the
 conclusion of this article but since this is one of my first articles
 ever I will do it a bit differently and give my answer now
 😀. IMO we should use both, I mean it's not about which
@@ -141,12 +141,12 @@ The next cool thing that happened was the SharePointPnPPowerShell
 'must have tool' when it comes to developing PowerShell scripts to
 manage SharePoint. Now it's all about the cloud and every company wants
 to be Online and not only use SharePoint Online but all of Microsoft 365
-capabilities.</p>
-<p>PnP PowerShell is a newer version of the SharePointPnPPowerShellOnline
+capabilities.
+PnP PowerShell is a newer version of the SharePointPnPPowerShellOnline
 module (which is not maintained anymore) which is cross platform, that&rsquo;s
 right, it will work not only on Windows but on MacOS or Linux as well,
-all thanks to PowerShell Core.</p>
-<p>So it's natural many just picked PnP PowerShell. Currently it has
+all thanks to PowerShell Core.
+So it's natural many just picked PnP PowerShell. Currently it has
 almost 600 commands (<a href=https://github.com/pnp/powershell/tree/dev/documentation>check full docs
 list</a>) that
 gives the possibility to manage SharePoint Online, Microsoft Teams,
@@ -159,8 +159,8 @@ run every day to add that additional logic to your tenant (either
 reporting or maintenance or provisioning or other). And Like every other
 SharePoint module you may just install it using</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-powershell data-lang=powershell>Install-Module -Name <span style=color:#e6db74>&#34;PnP.PowerShell&#34;</span>
-</code></pre></div><p>command and you&rsquo;re good to go.</p>
-<p>Maybe you would like to contribute? You would like to make something new
+</code></pre></div><p>command and you&rsquo;re good to go.
+Maybe you would like to contribute? You would like to make something new
 or do a fix. That's great, as it is written in C# (so how hard can it
 be right?), it uses CSOM (as expected for C# code and SP Online things)
 but also MS Graph, and there even is a <a href=https://pnp.github.io/powershell/articles/buildingsource.html>ready guide to help you get
@@ -172,20 +172,20 @@ SharePointPnPPowerShellOnline (as the PnP.PowerShell was not out yet)
 was only for Windows (it could only run on windows PowerShell because of
 its dependencies), so the huge advantage of CLI for M365 was that you
 may use it on every platform just like that. Now of course
-PnP.PowerShell is also cross platform.</p>
-<p>You may use CLI for Microsoft 365 to manage many things. To name a few,
+PnP.PowerShell is also cross platform.
+You may use CLI for Microsoft 365 to manage many things. To name a few,
 you may manage OneDrive, Planner, Power Apps and Automate, Teams,
 Yammer, SharePoint (of course), now there is even a dedicated command to
 help you set up Viva and the list keeps on growing an growing. But
-that&rsquo;s not only about managing Microsoft 365.</p>
-<p>CLI helps you also manage your own spfx environment (check out
+that&rsquo;s not only about managing Microsoft 365.
+CLI helps you also manage your own spfx environment (check out
 the <a href=https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/>doctor</a>)
 or projects (rename, upgrade etc.). This is something I think
-PnP.PowerShell does not have.</p>
-<p>Some commands do simple things but some actually are ready to use
+PnP.PowerShell does not have.
+Some commands do simple things but some actually are ready to use
 scenarios all done under a single command. Check out the <a href=https://pnp.github.io/cli-microsoft365/cmd/login/#usage>full list of
-commands</a></p>
-<p>That&rsquo;s nice right. But how does it work. Well CLI for M365 is given as a
+commands</a>
+That&rsquo;s nice right. But how does it work. Well CLI for M365 is given as a
 npm package, that's right you need Node.js (that's why it's cross
 platform), and if you are guessing that it's probably all written in
 javascript than you are right again. How cool is that. I mean if it's
@@ -203,21 +203,21 @@ do all she or he needs (web page frontend using React or Angular or
 whatever + a backend web API using node.js). But now&mldr; well now (thanks
 to CLI for M365) with javascript that web developer may also manage
 Microsoft 365 and the PowerShell skills in the job description may not
-be that 'must have' as it used to be before.</p>
-<p>If you haven't used it before probably you are also wondering how
+be that 'must have' as it used to be before.
+If you haven't used it before probably you are also wondering how
 similar it is to PnP.PowerShell (in terms of commands). <a href=https://pnp.github.io/cli-microsoft365/about/comparison-powershell/>Check out this
 map
-table</a></p>
-<p>You may also think how much it is used? To answer this please check out
+table</a>
+You may also think how much it is used? To answer this please check out
 <a href=https://pnp.github.io/script-samples/matrix.html>PnP script samples gallery
 matrix</a> and checkout
-were you see the most likes (yes in the CLI for M365 column).</p>
-<p>So maybe you would like to contribute? You tried it out and something
+were you see the most likes (yes in the CLI for M365 column).
+So maybe you would like to contribute? You tried it out and something
 did not work well and you want to add a fix. That's great! It is
 written in javascript and mainly uses MS Graph and standard Web API
 (like SharePoint Rest API). Please check the <a href=https://github.com/pnp/cli-microsoft365/wiki>contribute wiki page to
-get you started</a></p>
-<p>BTW did you know there are also ready to use CLI for Microsoft 365
+get you started</a>
+BTW did you know there are also ready to use CLI for Microsoft 365
 GitHub actions you may use for you CI/CD workflows. Ever had this "ye
 and when we push on the master branch it would be nice if the webpart
 would be build and pushed to a test/QA tenant". If yes then you have to
@@ -236,10 +236,10 @@ $list.Update()
 Invoke-PnPQuery
 Write-Host <span style=color:#e6db74>&#34;Done! :-)&#34;</span> -ForegroundColor Green
 </code></pre></div><p>source: <a href="https://pnp.github.io/script-samples/remove-delete-option-library/README.html?tabs=pnpps">Remove delete option on a document library | PnP
-Samples</a></p>
-<p>So the flow is simple. We connect to the site to which we want to make
-some changes, we do those changes and that&rsquo;s it.</p>
-<p>Now lets look at the same thing done with CLI for M365.</p>
+Samples</a>
+So the flow is simple. We connect to the site to which we want to make
+some changes, we do those changes and that&rsquo;s it.
+Now lets look at the same thing done with CLI for M365.</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-powershell data-lang=powershell>$m365Status = m365 status
 <span style=color:#66d9ef>if</span> ($m365Status <span style=color:#f92672>-eq</span> <span style=color:#e6db74>&#34;Logged Out&#34;</span>) {
     m365 login
@@ -252,26 +252,24 @@ m365 spo list set --webUrl $site --id $json.Id --allowDeletion false
 Write-Host <span style=color:#e6db74>&#34;Done! :-)&#34;</span> -ForegroundColor Green
 </code></pre></div><p>What is the flow here? First we login (or we check if we are still
 logged in) to the tenant. And then we execute commands to get and/or
-modify passing the web url as an param.</p>
-<p>It does look very similar don't you think? Both are really readable,
+modify passing the web url as an param.
+It does look very similar don't you think? Both are really readable,
 logical and easy to maintain. Of course there will be scenarios when one
-is better over the other or one just does not support it (yet).</p>
-<p>In this simple example above we see the way we 'connect' is different.
+is better over the other or one just does not support it (yet).
+In this simple example above we see the way we 'connect' is different.
 In PnP.PowerShell we usually connect to the site we want to change but
 in CLI for M365 we connect to the tenant, and not only that, the
 CLI <a href=https://pnp.github.io/cli-microsoft365/concepts/persisting-connection/>persists the
 connection</a>.
 This is very handy when you do CLI work on your tenant every day on
 multiple sites and you don't want to start every time from logging in
-(connecting).</p>
-<p>Also it would seem that CLI for M365 would be better for a scenario were
-we have a list of sites we need to loop and apply some change.</p>
-<p>So lets say we have</p>
+(connecting).
+Also it would seem that CLI for M365 would be better for a scenario were
+we have a list of sites we need to loop and apply some change.
+So lets say we have</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-powershell data-lang=powershell>$sites = @(<span style=color:#e6db74>&#39;https://thisisverycooltenant.sharepoint.com/sites/hr-live&#39;</span>, <span style=color:#e6db74>&#39;https://thisisverycooltenant.sharepoint.com/sites/demoportal&#39;</span>)
-
 </code></pre></div><p>And now when using PnP.PowerShell we may do it like this</p>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-powershell data-lang=powershell>
-$Credential = Get-Credential
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-powershell data-lang=powershell>$Credential = Get-Credential
 <span style=color:#66d9ef>[SecureString]</span>$SecurePass = ConvertTo-SecureString $Credential.GetNetworkCredential().password -AsPlainText -Force
 <span style=color:#66d9ef>[System.Management.Automation.PSCredential]</span>$PSCredentials = New-Object System.Management.Automation.PSCredential($Credential.GetNetworkCredential().username, $SecurePass)
 <span style=color:#66d9ef>foreach</span> ($site <span style=color:#66d9ef>in</span> $sites)
@@ -286,8 +284,8 @@ it's windows only) or Microsoft.PowerShell.SecretManagement and
 Microsoft.PowerShell.SecretStore (multi platform), please check <a href=https://pnp.github.io/powershell/articles/authentication.html>this
 link</a> for
 more info. But regardless of authenticate option still the concept of
-connecting and disconnecting would remain.</p>
-<p>Now when using CLI for M365 we might just do</p>
+connecting and disconnecting would remain.
+Now when using CLI for M365 we might just do</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-powershell data-lang=powershell>$m365Status = m365 status
 <span style=color:#66d9ef>if</span> ($m365Status <span style=color:#f92672>-eq</span> <span style=color:#e6db74>&#34;Logged Out&#34;</span>) {
    m365 login
@@ -298,8 +296,8 @@ connecting and disconnecting would remain.</p>
 }
 </code></pre></div><p>Now should we say that one approach is better over the other&mldr; I don't
 know ;). For me both tools did what I needed in a reasonable amount of
-time.</p>
-<p>The above example is just a simple case were but we may already have a
+time.
+The above example is just a simple case were but we may already have a
 feeling when and why we could use one tool over the other.</p>
 <h2 id=both-really>Both... really?</h2>
 <p>Using those both together. Now that&rsquo;s strange. TBH I totally agree, but
@@ -316,7 +314,6 @@ a shame not to use it.</p>
 }
 $sites = m365 spo site list --type CommunicationSite --filter <span style=color:#e6db74>&#34;Url -like &#39;demoportal&#39;&#34;</span>
 $sites = $sites | ConvertFrom-Json
-
 $Credential = Get-Credential
 <span style=color:#66d9ef>[SecureString]</span>$SecurePass = ConvertTo-SecureString $Credential.GetNetworkCredential().password -AsPlainText -Force
 <span style=color:#66d9ef>[System.Management.Automation.PSCredential]</span>$PSCredentials = New-Object System.Management.Automation.PSCredential($Credential.GetNetworkCredential().username, $SecurePass)

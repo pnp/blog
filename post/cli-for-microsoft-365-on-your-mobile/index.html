@@ -6,7 +6,7 @@
 <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=5">
 <meta name=description content="CLI for Microsoft 365 is a cross platform command line tool you may use to manage many things. To name a few, you may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course), now there is even a dedicated command to help you set up Viva. The list keeps on growing and growing">
 <meta name=author content="Themefisher">
-<meta name=generator content="Hugo 0.92.0">
+<meta name=generator content="Hugo 0.92.1">
 <link rel="shortcut icon" href=/community-blog/images/favicon_hu18ce15157ab1341ba06c4a679ea7c433_515_32x0_resize_box_3.png type=image/x-icon>
 <link rel=icon href=/community-blog/images/favicon_hu18ce15157ab1341ba06c4a679ea7c433_515_32x0_resize_box_3.png type=image/x-icon>
 <link rel=icon type=image/png sizes=16x16 href=/community-blog/images/favicon_hu18ce15157ab1341ba06c4a679ea7c433_515_16x0_resize_box_3.png>
@@ -114,9 +114,8 @@
 <p><em>"Hey, do you have 5 min?"</em><br>
 <em>"Could you check one simple thing and let me know asap?"</em></p>
 <p><em>"I see you are available, could you
-do&mldr;"</em> 😒</p>
-</blockquote>
-<p>Ever got one of those message on Teams? Now when working 'home office'
+do&mldr;"</em> 😒
+Ever got one of those message on Teams? Now when working 'home office'
 I noticed this trend and I usually get one of those over the phone
 during shopping and usually couple of lines in CLI for Microsoft 365 may
 do the trick but I don't always carry my laptop with me (I know&mldr;
@@ -124,9 +123,10 @@ strange). I always considered CLI for M365 as an ace up my sleeve but I
 never found any cards in my pocket&mldr; but a mobile phone
 🤩, now that&rsquo;s a different story. So lets see if we may
 use CLI on Android.</p>
+</blockquote>
 <h2 id=but-first-of-all-what-is-cli-for-microsoft-365-quick-introduction>But first of all what is CLI for Microsoft 365? Quick introduction</h2>
-<p>if your already know&mldr; skip this part😀</p>
-<p>CLI for Microsoft 365 is a cross platform command line tool you may use
+<p>if your already know&mldr; skip this part😀
+CLI for Microsoft 365 is a cross platform command line tool you may use
 to manage many things. To name a few, you may manage OneDrive, Planner,
 Power Apps and Automate, Teams, Yammer, SharePoint (of course), now
 there is even a dedicated command to help you set up Viva. The list
@@ -136,11 +136,11 @@ But it's not only about managing Microsoft 365. The CLI helps you also
 manage your own spfx environment (check out
 the <a href=https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/>doctor</a>)
 or projects (rename, upgrade etc.). This is very unique that many
-similar command line tools don&rsquo;t have.</p>
-<p>Some commands do simple things but some actually are ready to use
+similar command line tools don&rsquo;t have.
+Some commands do simple things but some actually are ready to use
 scenarios all done under a single command. Check out the full list
-of<a href=https://pnp.github.io/cli-microsoft365/cmd/login/#usage>commands</a></p>
-<p>That&rsquo;s nice right. But how does it work. Well CLI for M365 is given as a
+of<a href=https://pnp.github.io/cli-microsoft365/cmd/login/#usage>commands</a>
+That&rsquo;s nice right. But how does it work. Well CLI for M365 is given as a
 npm package, that's right you need Node.js (that's why it's cross
 platform). How cool is that. If only we could use Node on Android right
 😀.</p>
@@ -172,20 +172,20 @@ M365</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>npm i -g @pnp/cli-microsoft365
 </code></pre></div></li>
 </ol>
-<p>&mldr; done.</p>
-<p>Lets check what we have using bash</p>
+<p>&mldr; done.
+Lets check what we have using bash</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>m365
 </code></pre></div>
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/cli-for-microsoft-365-on-your-mobile/2_hu21797bc3106aeffb7e6ed52e3a5854f9_107692_720x0_resize_q100_h2_box_3.webp alt=2.png>
-<p>CLI for Microsoft 365 is up and running&mldr; Nice.</p>
-<p>Now to manage the tenant we only need to login. This is done like
+<p>CLI for Microsoft 365 is up and running&mldr; Nice.
+Now to manage the tenant we only need to login. This is done like
 always</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>m365 login
 </code></pre></div><p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337455i2DA51120E511FFA4/image-size/medium?v=v2&px=400" alt=5.png>
 After successful login we may check the connection status running</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>m365 status
-</code></pre></div><p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337456i2259594364873124/image-size/medium?v=v2&px=400" alt=3.png></p>
-<p>Now lets try any command. Lets check my sites on tenant running</p>
+</code></pre></div><p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337456i2259594364873124/image-size/medium?v=v2&px=400" alt=3.png>
+Now lets try any command. Lets check my sites on tenant running</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>m365 spo site list
 </code></pre></div>
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/cli-for-microsoft-365-on-your-mobile/1_hud48a7c412c0b62fcdf2469d66b77efaa_160015_720x0_resize_q100_h2_box_3.webp alt=1.png>
@@ -199,15 +199,15 @@ So there you have it. CLI for Microsoft 365 running everywhere you need,
 also on your mobile. Now you may also do the simple request during
 shopping. The question is, if you should? Maybe it's better to focus on
 the shopping list and respond to the message during working
-hours😀</p>
-<p>I hope you liked the article. Please leave a comment if you tried it out
-and/or if you think it may be helpful.</p>
-<p>BTW if you didn't try CLI for Microsoft 365 yet I strongly encourage
+hours😀
+I hope you liked the article. Please leave a comment if you tried it out
+and/or if you think it may be helpful.
+BTW if you didn't try CLI for Microsoft 365 yet I strongly encourage
 you to do so <a href=https://pnp.github.io/cli-microsoft365/>CLI for Microsoft
 365</a>. Check out the PnP script
 samples gallery to see in what cases other people already use the CLI
-<a href=https://pnp.github.io/script-samples/>Script Samples | PnP Samples</a>.</p>
-<p>Something not working and should? Or maybe you see something missing in
+<a href=https://pnp.github.io/script-samples/>Script Samples | PnP Samples</a>.
+Something not working and should? Or maybe you see something missing in
 the CLI. No worries, open an issue and let the maintainers (or a
 friendly contributor) know
 <a href=https://github.com/pnp/cli-microsoft365/issues>Issues ·
