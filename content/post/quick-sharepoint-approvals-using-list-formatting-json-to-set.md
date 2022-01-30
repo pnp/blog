@@ -1,4 +1,15 @@
-# Quick SharePoint Approvals using List formatting JSON to set field values
+---
+title: "Quick SharePoint Approvals using List formatting JSON to set field values"
+date: 2021-11-19T06:48:00-05:00
+author: "Michel Mendes"
+categories: []
+images:
+- images/blog/quick-sharepoint-approvals-using-list-formatting-json-to-set/choices.PNG
+tags: []
+type: "regular"
+draft: false
+
+---
 
 This week it came to attention two new possible actions to be used in
 buttons created using list formatting:

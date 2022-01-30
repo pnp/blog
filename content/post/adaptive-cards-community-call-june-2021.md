@@ -1,5 +1,15 @@
+---
+title: "Adaptive Cards Community Call - June 2021"
+date: 2021-07-09T05:19:00-04:00
+author: "Matt Hidinger"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
 
-# Adaptive Cards Community Call - June 2021
+---
+
 
 ![Adaptive Cards THumb_June
 2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/294750i29F17FC7FAA65BD8/image-size/large?v=v2&px=999 "Adaptive Cards THumb_June 2021.png")

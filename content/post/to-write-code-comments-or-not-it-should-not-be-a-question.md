@@ -1,4 +1,16 @@
-# To write code comments or not, it should not be a question
+---
+title: "To write code comments or not, it should not be a question"
+date: 2021-03-02T08:47:00-05:00
+author: "Elio Struyf"
+categories: []
+images:
+- images/blog/to-write-code-comments-or-not-it-should-not-be-a-question/comments1.png
+- images/blog/to-write-code-comments-or-not-it-should-not-be-a-question/comments2.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Comments, just do it. I write this post because I read a couple of
 articles, and messages on social platforms about stop using comments in

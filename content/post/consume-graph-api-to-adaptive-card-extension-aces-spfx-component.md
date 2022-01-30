@@ -1,4 +1,17 @@
-# Consume Graph API to Adaptive Card Extension (ACEs) SPFx component type
+---
+title: "Consume Graph API to Adaptive Card Extension (ACEs) SPFx component type"
+date: 2021-08-04T03:14:00-04:00
+author: "Dipen Shah"
+categories: []
+images:
+- images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/People1.jpg
+- images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/People2.jpg
+- images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/1.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Introduction
 

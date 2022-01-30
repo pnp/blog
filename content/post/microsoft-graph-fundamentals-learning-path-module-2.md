@@ -1,4 +1,20 @@
-::: {#D4E-001-4 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Graph Fundamentals learning path -- Module 2"
+date: 2021-04-05T04:28:00-04:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphAccessTokenTicket.png
+- images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFunAuth.png
+- images/blog/microsoft-graph-fundamentals-learning-path-module-2/appreg.png
+- images/blog/microsoft-graph-fundamentals-learning-path-module-2/auth.gif
+- images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphApp.png
+- images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFun-didit2.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#D4E-001-4 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +897,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Graph Fundamentals learning path -- Module 2
+
 :::
 
 ::: ba-option-wrapper

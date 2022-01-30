@@ -1,4 +1,16 @@
-# Microsoft 365 Developer Community Call recording -- 6th of January, 2021
+---
+title: "Microsoft 365 Developer Community Call recording -- 6th of January, 2021"
+date: 2022-01-07T01:01:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-developer-community-call-recording-6th-of-january/recording-6th-jan.png
+- images/blog/microsoft-365-developer-community-call-recording-6th-of-january/220106-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="recording-6th-jan.png" src="images/blog/microsoft-365-developer-community-call-recording-6th-of-january/recording-6th-jan.png" >}}
 

@@ -1,4 +1,15 @@
-::: {#873-003-4 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 132 - Nicole Woon (Microsoft)"
+date: 2021-06-21T10:47:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-132-nicole-woon-microsoft/Thumb-Ep132.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#873-003-4 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -882,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 132 - Nicole Woon (Microsoft)
+
 :::
 
 ::: ba-option-wrapper

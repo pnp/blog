@@ -1,4 +1,16 @@
-# Microsoft 365 Developer Community Call recording -- 9th of December, 2021
+---
+title: "Microsoft 365 Developer Community Call recording -- 9th of December, 2021"
+date: 2021-12-10T02:03:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-developer-community-call-recording-9th-of-december/recording-9th-december.png
+- images/blog/microsoft-365-developer-community-call-recording-9th-of-december/211209-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="recording-9th-december.png" src="images/blog/microsoft-365-developer-community-call-recording-9th-of-december/recording-9th-december.png" >}}
 **Call Summary**

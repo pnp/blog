@@ -1,4 +1,19 @@
-# Office Add-in Samples - December 2021 update
+---
+title: "Office Add-in Samples - December 2021 update"
+date: 2021-12-20T02:59:00-05:00
+author: "David Chesnut"
+categories: []
+images:
+- images/blog/office-add-in-samples-december-2021-update/outlook-event-based-activation.png
+- images/blog/office-add-in-samples-december-2021-update/eric-legault-github-photo.png
+- images/blog/office-add-in-samples-december-2021-update/hello-world.png
+- images/blog/office-add-in-samples-december-2021-update/maarten-van-stam-github-photo.png
+- images/blog/office-add-in-samples-december-2021-update/eric-legault-github-photo.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 The Office Add-ins developer platform team has new updates to share this
 month on Office Add-in samples.

@@ -1,4 +1,16 @@
-# Viva Connections & SharePoint Framework Community Call -- 2nd of December, 2021
+---
+title: "Viva Connections & SharePoint Framework Community Call -- 2nd of December, 2021"
+date: 2021-12-03T01:19:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/recording-2nd-of-dec.png
+- images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/211202-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="recording-2nd-of-dec.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/recording-2nd-of-dec.png" >}}
 Viva Connections & SharePoint Framework bi-weekly community call

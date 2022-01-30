@@ -1,4 +1,15 @@
-::: {#D5F-007-1 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 141 - Joel Rodrigues (Storm Technologies)"
+date: 2021-11-02T02:37:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-141-joel-rodrigues-storm/Thumb-Ep141-November1.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#D5F-007-1 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -882,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 141 - Joel Rodrigues (Storm Technologies)
+
 :::
 
 ::: ba-option-wrapper

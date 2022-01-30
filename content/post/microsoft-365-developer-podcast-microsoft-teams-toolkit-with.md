@@ -1,4 +1,14 @@
-# Microsoft 365 Developer Podcast - Microsoft Teams Toolkit with Zhenya Savchenko and Tim Ng
+---
+title: "Microsoft 365 Developer Podcast - Microsoft Teams Toolkit with Zhenya Savchenko and Tim Ng"
+date: 2021-07-19T05:37:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Zhenya Savchenko and Tim Ng from the Developer Division at Microsoft
 join Jeremy and Paul to talk about the Microsoft Teams Toolkit.

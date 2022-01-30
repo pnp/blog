@@ -1,4 +1,14 @@
-# Microsoft 365 Developer Podcast - Content Design for SharePoint Syntex with Tom Resing
+---
+title: "Microsoft 365 Developer Podcast - Content Design for SharePoint Syntex with Tom Resing"
+date: 2021-08-09T06:11:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Tom Resing joins Paul at SPFest in Chicago to talk about his work as a
 Content Designer on SharePoint Syntex.

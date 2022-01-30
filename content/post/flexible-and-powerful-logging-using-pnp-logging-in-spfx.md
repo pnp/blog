@@ -1,4 +1,14 @@
-# Flexible and powerful logging using PnP Logging in spfx
+---
+title: "Flexible and powerful logging using PnP Logging in SPFx"
+date: 2021-08-17T05:15:00-04:00
+author: "Sudharsan Kesavanarayanan"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---# Flexible and powerful logging using PnP Logging in spfx
 
 ## Introduction
 Logging plays an important role in any application. Whether it is a

@@ -1,4 +1,14 @@
-# Microsoft 365 Developer Podcast - AI & Cognitive Services with Prashant G Bhoyar
+---
+title: "Microsoft 365 Developer Podcast - AI & Cognitive Services with Prashant G Bhoyar"
+date: 2021-08-16T06:10:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Prashant G Bhoyer sits down with Paul to answer questions about the AI
 offerings in Azure and how they are used in M365 and how they can be

@@ -1,5 +1,29 @@
+---
+title: "Excel File Tricks with PowerAutomate"
+date: 2021-08-04T11:06:00-04:00
+author: "Damo Bird 365"
+categories: []
+images:
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628093847880.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_1-1628094142942.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_3-1628094699559.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_2-1628094676818.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_4-1628094930996.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628095727802.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_1-1628095823450.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_2-1628096048590.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_4-1628096378139.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_3-1628096174072.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_5-1628096964541.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_6-1628097127838.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_7-1628097240857.png
+- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_8-1628097338222.png
+tags: []
+type: "regular"
+draft: false
 
-# Excel File Tricks with PowerAutomate
+---
+
 
 ## A little secret\.... 
 

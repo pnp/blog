@@ -1,4 +1,15 @@
-# Microsoft 365 PnP Community Spotlight: Stefan Bauer
+---
+title: "Microsoft 365 PnP Community Spotlight: Stefan Bauer"
+date: 2021-05-07T04:02:00-04:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-community-spotlight-stefan-bauer/stefanbauer.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="stefanbauer.png" src="images/blog/microsoft-365-pnp-community-spotlight-stefan-bauer/stefanbauer.png" >}}
 

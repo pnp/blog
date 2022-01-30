@@ -1,4 +1,15 @@
-# How to use loader/Spinner/In Progress indicator in SPFx using fluent UI Spinner?
+---
+title: "How to use loader/Spinner/In Progress indicator in SPFx using fluent UI Spinner?"
+date: 2021-09-14T06:28:00-04:00
+author: "Chandani Prajapati"
+categories: []
+images:
+- images/blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/spfx-loader.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Introduction 
 A Spinner is an outline of a circle that animates around itself

@@ -1,4 +1,15 @@
-::: {#DD8-003-2 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 138 - Carmen Ysewijn (Qubix) and Luise Freese"
+date: 2021-10-12T01:16:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-138-carmen-ysewijn-qubix-and/Thumb-Ep138.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#DD8-003-2 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -882,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 138 - Carmen Ysewijn (Qubix) and Luise Freese
+
 :::
 
 ::: ba-option-wrapper

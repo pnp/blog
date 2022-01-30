@@ -1,4 +1,14 @@
-# SPFx Image Editor Sample - Playing with Canvas
+---
+title: "SPFx Image Editor Sample - Playing with Canvas"
+date: 2021-03-31T09:49:00-04:00
+author: "Peter Paul Kirschner"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 In the year 2020, Microsoft added a new capability to the Image Viewer
 Web part Resize and Crop. These are excellent features, but I want to

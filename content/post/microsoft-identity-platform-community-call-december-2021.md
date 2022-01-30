@@ -1,4 +1,15 @@
-::: {#DB2-001-3 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Identity Platform community call -- December 2021"
+date: 2021-12-30T12:21:00-05:00
+author: "Steven Salazar Aray"
+categories: []
+images:
+- images/blog/microsoft-identity-platform-community-call-december-2021/identity-call-THumbnail-November-2021.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#DB2-001-3 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +892,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Identity Platform community call -- December 2021
+
 :::
 
 ::: ba-option-wrapper

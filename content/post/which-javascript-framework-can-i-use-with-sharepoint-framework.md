@@ -1,4 +1,14 @@
-# Which JavaScript framework can I use with SharePoint Framework
+---
+title: "Which JavaScript framework can I use with SharePoint Framework"
+date: 2021-06-23T11:55:00-04:00
+author: "Waldek Mastykarz"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 You want to build an app using SharePoint Framework and wonder which
 framework you should use? Here\'s my personal advice.

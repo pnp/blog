@@ -1,4 +1,14 @@
-# Adaptive Cards community call -- October 2021
+---
+title: "Adaptive Cards community call -- October 2021"
+date: 2021-11-10T01:58:00-05:00
+author: "J.P. Roca"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 [![adaptive-cards-October
 THumb.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/324683iE137929D200330F1/image-size/large?v=v2&px=999 "adaptive-cards-October THumb.png")

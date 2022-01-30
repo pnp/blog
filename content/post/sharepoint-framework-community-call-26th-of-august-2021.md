@@ -1,4 +1,15 @@
-# SharePoint Framework Community Call -- 26th of August, 2021 
+---
+title: "SharePoint Framework Community Call -- 26th of August, 2021"
+date: 2021-08-27T01:01:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/sharepoint-framework-community-call-26th-of-august-2021/210826-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+--- 
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
 call recording from August 26th is now available from the Microsoft 365

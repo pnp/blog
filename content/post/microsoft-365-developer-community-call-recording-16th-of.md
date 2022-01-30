@@ -1,4 +1,16 @@
-# Microsoft 365 Developer Community Call recording -- 16th of September, 2021
+---
+title: "Microsoft 365 Developer Community Call recording -- 16th of September, 2021"
+date: 2021-09-16T03:34:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-developer-community-call-recording-16th-of/call-16th-sep-recording.png
+- images/blog/microsoft-365-developer-community-call-recording-16th-of/PnP-Calls-TogetherMode-800W.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="call-16th-sep-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-16th-of/call-16th-sep-recording.png" >}}
 

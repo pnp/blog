@@ -1,4 +1,15 @@
-# Microsoft 365 PnP Community Spotlight: David Warner
+---
+title: "Microsoft 365 PnP Community Spotlight: David Warner"
+date: 2021-03-19T02:18:00-04:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-community-spotlight-david-warner/David.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="David.png" src="images/blog/microsoft-365-pnp-community-spotlight-david-warner/David.png" >}}
 

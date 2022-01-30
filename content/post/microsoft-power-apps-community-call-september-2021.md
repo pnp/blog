@@ -1,4 +1,15 @@
-::: {#437-003-1 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Power Apps Community Call -- September 2021"
+date: 2021-09-17T05:11:00-04:00
+author: "Todd Baginski"
+categories: []
+images:
+- images/blog/microsoft-power-apps-community-call-september-2021/powerapps-recording.jpg
+tags: []
+type: "regular"
+draft: false
+
+---::: {#437-003-1 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +892,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Power Apps Community Call -- September 2021
+
 :::
 
 ::: ba-option-wrapper

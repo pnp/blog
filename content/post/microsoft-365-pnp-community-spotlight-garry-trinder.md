@@ -1,4 +1,14 @@
-# Microsoft 365 PnP Community Spotlight: Garry Trinder
+---
+title: "Microsoft 365 PnP Community Spotlight: Garry Trinder"
+date: 2021-05-22T04:54:00-04:00
+author: "Luise Freese"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Which community project do you maintain? 
 

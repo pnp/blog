@@ -1,4 +1,20 @@
-# Create Report Of Assigned Licenses To Users From Microsoft 365
+---
+title: "Create Report Of Assigned Licenses To Users From Microsoft 365"
+date: 2021-09-02T12:08:00-04:00
+author: "Dipen Shah"
+categories: []
+images:
+- images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports2.png
+- images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Report4.1.png
+- images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Report5.png
+- images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/reports7.png
+- images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports9.png
+- images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/reports10.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ### Introduction 
 

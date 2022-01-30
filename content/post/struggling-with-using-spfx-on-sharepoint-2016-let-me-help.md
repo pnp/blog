@@ -1,4 +1,14 @@
-# Struggling with using SPFx on SharePoint 2016? Let me help!
+---
+title: "Struggling with using SPFx on SharePoint 2016? Let me help!"
+date: 2021-07-02T03:20:00-04:00
+author: "Kirk Liemohn"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 SharePoint has a lot of great out-of-the-box capabilities, but sometimes
 you need to take it a step further.  For example, you need a custom user

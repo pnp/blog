@@ -1,4 +1,16 @@
-# Microsoft 365 Platform Call -- 7th of December, 2021
+---
+title: "Microsoft 365 Platform Call -- 7th of December, 2021"
+date: 2021-12-08T01:55:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-platform-call-7th-of-december-2021/recording-7th-dec.png
+- images/blog/microsoft-365-platform-call-7th-of-december-2021/211207-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="recording-7th-dec.png" src="images/blog/microsoft-365-platform-call-7th-of-december-2021/recording-7th-dec.png" >}}
 Microsoft 365 Platform Community Call - weekly community call recording

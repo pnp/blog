@@ -1,4 +1,22 @@
-# Hiding the SharePoint page title with Power Automate
+---
+title: "Hiding the SharePoint page title with Power Automate"
+date: 2021-09-14T06:30:00-04:00
+author: "Michel Mendes"
+categories: []
+images:
+- images/blog/hiding-the-sharepoint-page-title-with-power-automate/page-title.png
+- images/blog/hiding-the-sharepoint-page-title-with-power-automate/running-flow.gif
+- images/blog/hiding-the-sharepoint-page-title-with-power-automate/for-a-selected-file.png
+- images/blog/hiding-the-sharepoint-page-title-with-power-automate/PageURL.PNG
+- images/blog/hiding-the-sharepoint-page-title-with-power-automate/vars.PNG
+- images/blog/hiding-the-sharepoint-page-title-with-power-automate/patch.PNG
+- images/blog/hiding-the-sharepoint-page-title-with-power-automate/running-flow.gif
+- images/blog/hiding-the-sharepoint-page-title-with-power-automate/switch_flow.PNG
+tags: []
+type: "regular"
+draft: false
+
+---
 
 For any SharePoint modern page that you create manually, there will
 always be a page title that you cannot remove using the SharePoint UI at

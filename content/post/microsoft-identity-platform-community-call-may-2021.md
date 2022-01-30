@@ -1,4 +1,15 @@
-::: {#873-003-4 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Identity Platform community call -- May 2021"
+date: 2021-05-26T03:04:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-identity-platform-community-call-may-2021/ApTriggeredStep-up.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#873-003-4 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +892,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Identity Platform community call -- May 2021
+
 :::
 
 ::: ba-option-wrapper

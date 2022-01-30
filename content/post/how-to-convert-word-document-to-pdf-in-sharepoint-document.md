@@ -1,4 +1,26 @@
-# How to Convert Word Document to PDF in SharePoint Document Library using Power Automate?
+---
+title: "How to Convert Word Document to PDF in SharePoint Document Library using Power Automate?"
+date: 2021-11-16T07:06:00-05:00
+author: "Chandani Prajapati"
+categories: []
+images:
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636792320998.png
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_1-1636792461300.png
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636793559861.png
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636864104189.png
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_1-1636864275047.png
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_7-1636864944228.png
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_6-1636864910697.png
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_5-1636864879248.png
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_4-1636864839927.png
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_3-1636864760614.png
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_2-1636864751972.png
+- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1637069155125.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Introduction
 

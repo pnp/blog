@@ -1,4 +1,14 @@
-# Explore Microsoft 365 extensibility opportunities with the Microsoft 365 Extensibility look book
+---
+title: "Explore Microsoft 365 extensibility opportunities with the Microsoft 365 Extensibility look book"
+date: 2021-06-18T04:28:00-04:00
+author: "Waldek Mastykarz"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ![Microsoft 365 Extensibility look
 book](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/289899i708F30A4AE863BBC/image-size/large?v=v2&px=999 "thumbnail_image.png")

@@ -1,4 +1,14 @@
-# Microsoft 365 Developer Podcast - Code Like a Pro in C# with Jort Rodenburg
+---
+title: "Microsoft 365 Developer Podcast - Code Like a Pro in C# with Jort Rodenburg"
+date: 2021-07-05T10:37:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Paul talks with Jort Rodenburg about his new book *Code Like a Pro in
 C#*.

@@ -1,4 +1,14 @@
-# Office Add-in Development Community (PnP) -- July 2021 update
+---
+title: "Office Add-in Development Community (PnP) -- July 2021 update"
+date: 2021-07-22T01:24:00-04:00
+author: "David Chesnut"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 The Office Add-ins developer platform team has new updates to share this
 month on Office Add-ins Patterns and Practices. PnP is a community

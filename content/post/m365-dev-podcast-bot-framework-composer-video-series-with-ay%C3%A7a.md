@@ -1,4 +1,14 @@
-# M365 Dev Podcast - Bot Framework Composer Video series with Ayça Baş and Bob German
+---
+title: "M365 Dev Podcast - Bot Framework Composer Video series with Ayça Baş and Bob German"
+date: 2021-10-05T05:30:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 Ayca and Bob return to the show to talk about a new video series that
 discusses the Who\'s Online bot created using Bot Framework Composer and
 Cognitive Services.

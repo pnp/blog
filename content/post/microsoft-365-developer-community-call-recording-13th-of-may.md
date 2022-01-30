@@ -1,4 +1,16 @@
-# Microsoft 365 Developer Community Call recording -- 13th of May, 2021
+---
+title: "Microsoft 365 Developer Community Call recording -- 13th of May, 2021"
+date: 2021-05-14T02:42:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-developer-community-call-recording-13th-of-may/recording-may-13th-call.png
+- images/blog/microsoft-365-developer-community-call-recording-13th-of-may/PnPCall-May13th-Small.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from May 13, 2021.

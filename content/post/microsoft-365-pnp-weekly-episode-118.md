@@ -1,4 +1,15 @@
-Microsoft 365 PnP Weekly - Episode 118]
+---
+title: "Microsoft 365 PnP Weekly - Episode 118"
+date: 2021-03-16T02:35:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-118/Thumb-Ep118.png
+tags: []
+type: "regular"
+draft: false
+
+---Microsoft 365 PnP Weekly - Episode 118]
 {{< image alt="Thumb-Ep118.png" src="images/blog/microsoft-365-pnp-weekly-episode-118/Thumb-Ep118.png" >}}
 
 In this installment of the weekly discussion revolving around the latest

@@ -1,4 +1,18 @@
-# Avoid Unnecessary Looping (Apply to each) in Power Automate
+---
+title: "Avoid Unnecessary Looping (Apply to each) in Power Automate"
+date: 2021-03-06T08:26:00-05:00
+author: "Leon Armston"
+categories: []
+images:
+- images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_2-1615045186651.png
+- images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_3-1615045186656.png
+- images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_4-1615045186663.png
+- images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_5-1615045186665.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Use Case
 

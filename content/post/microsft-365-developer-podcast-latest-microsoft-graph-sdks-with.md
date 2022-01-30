@@ -1,4 +1,14 @@
-# Microsft 365 Developer Podcast - Latest Microsoft Graph SDKs with Maisa Rissi and Darrel Miller
+---
+title: "Microsft 365 Developer Podcast - Latest Microsoft Graph SDKs with Maisa Rissi and Darrel Miller"
+date: 2021-09-27T05:49:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Maisa Rissi and Darrel Miller join Jeremy and Paul to talk about the
 latest updates to the Microsoft Graph SDKs, including PowerShell, .Net,

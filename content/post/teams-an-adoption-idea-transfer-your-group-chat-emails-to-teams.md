@@ -1,4 +1,19 @@
-# Teams - an adoption idea? Transfer your group chat emails to Teams with Power Automate
+---
+title: "Teams - an adoption idea? Transfer your group chat emails to Teams with Power Automate"
+date: 2021-04-26T12:28:00-04:00
+author: "Damo Bird 365"
+categories: []
+images:
+- images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_0-1619420006466.png
+- images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_1-1619420516989.png
+- images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_2-1619420664133.png
+- images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_3-1619420755529.png
+- images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/HowToCopyPasteSolution.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 **Transfer your group chat emails to Teams with Power Automate**
 

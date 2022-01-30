@@ -1,4 +1,14 @@
-# Getting started with PnP Script Samples
+---
+title: "Getting started with PnP Script Samples"
+date: 2021-08-10T06:10:00-04:00
+author: "Paul Bullock"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Ever wanted to share your PowerShell or Bash scripts that you use to
 automate, deploy or manage Microsoft 365, those written with:

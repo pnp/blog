@@ -1,4 +1,18 @@
-::: {#423-001-8 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Identity Platform community call - April 2021"
+date: 2021-05-20T05:28:00-04:00
+author: "Andrew Benson"
+categories: []
+images:
+- images/blog/microsoft-identity-platform-community-call-april-2021/ViewPorter.png
+- images/blog/microsoft-identity-platform-community-call-april-2021/ViewPorter.png
+- images/blog/microsoft-identity-platform-community-call-april-2021/EventHubBlockDiagram.png
+- images/blog/microsoft-identity-platform-community-call-april-2021/ViewPorter.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#423-001-8 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +895,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Identity Platform community call - April 2021
+
 :::
 
 ::: ba-option-wrapper

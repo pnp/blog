@@ -1,4 +1,14 @@
-::: {#C5E-007-4 .ServiceNodeInfoHeader}
+---
+title: "Modernization lives on in PnP Framework"
+date: 2021-03-02T11:40:00-05:00
+author: "Paul Bullock"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---::: {#C5E-007-4 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +891,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Modernization lives on in PnP Framework
+
 :::
 
 ::: ba-option-wrapper

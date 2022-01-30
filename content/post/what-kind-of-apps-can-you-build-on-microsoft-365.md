@@ -1,4 +1,14 @@
-# What kind of apps can you build on Microsoft 365?
+---
+title: "What kind of apps can you build on Microsoft 365?"
+date: 2021-06-10T03:42:00-04:00
+author: "Waldek Mastykarz"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Microsoft 365 is a rich platform for building applications. Here are the
 types of apps you can build on Microsoft 365.
@@ -16,7 +26,7 @@ information about its users as well as the content they create is stored
 in Microsoft 365 and, bearing the necessary permissions, available for
 you to interact with in your applications.
 
-## What kind of apps can you build on Microsoft 365?
+#
 
 Thinking about building apps on Microsoft 365, you can distinguish
 between two types of apps: standalone apps and apps that extend

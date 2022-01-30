@@ -1,4 +1,14 @@
-# Export conversations from Microsoft Teams Channels using the CLI for Microsoft 365
+---
+title: "Export conversations from Microsoft Teams Channels using the CLI for Microsoft 365"
+date: 2021-09-20T02:30:00-04:00
+author: "Patrick Lamber"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 We utilize Teams during incidents and create channels for each. We would

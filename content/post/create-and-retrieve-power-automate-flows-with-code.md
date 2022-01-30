@@ -1,4 +1,15 @@
-# Create and Retrieve Power Automate Flows - WITH CODE!!! :-)
+---
+title: "Create and Retrieve Power Automate Flows - WITH CODE!!! :-)"
+date: 2021-08-04T11:26:00-04:00
+author: "Tracy Sterling"
+categories: []
+images:
+- images/blog/create-and-retrieve-power-automate-flows-with-code/Tracy_1-1627940128961.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 As you are probably aware, Microsoft is looking to [eliminate SharePoint
 2010 and 2013

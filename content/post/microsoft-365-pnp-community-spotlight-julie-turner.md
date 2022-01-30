@@ -1,4 +1,15 @@
-# Microsoft 365 PnP Community Spotlight: Julie Turner
+---
+title: "Microsoft 365 PnP Community Spotlight: Julie Turner"
+date: 2021-03-26T03:03:00-04:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-community-spotlight-julie-turner/julieturner.jpg
+tags: []
+type: "regular"
+draft: false
+
+---# Microsoft 365 PnP Community Spotlight: Julie Turner
 
 {{< image alt="julieturner.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-julie-turner/julieturner.jpg" >}}
 

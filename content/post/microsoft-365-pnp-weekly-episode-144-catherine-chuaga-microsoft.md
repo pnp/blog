@@ -1,4 +1,15 @@
-::: {#D5F-007-1 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 144 - Catherine Chuaga (Microsoft)"
+date: 2021-11-23T12:36:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-144-catherine-chuaga-microsoft/Thumb-Ep144-November22.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#D5F-007-1 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -882,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 144 - Catherine Chuaga (Microsoft)
+
 :::
 
 ::: ba-option-wrapper

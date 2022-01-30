@@ -1,4 +1,14 @@
-# What is the Microsoft 365 PnP Community?
+---
+title: "What is the Microsoft 365 PnP Community?"
+date: 2021-02-10T11:47:00-05:00
+author: "Luise Freese"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## **[Intro]{contrast="none"}** {#toc-hId--527770778 aria-level="1"}
 

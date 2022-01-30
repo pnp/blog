@@ -1,4 +1,15 @@
-# Getting started with SharePoint Framework
+---
+title: "Getting started with SharePoint Framework"
+date: 2021-03-08T06:17:00-05:00
+author: "Waldek Mastykarz"
+categories: []
+images:
+- images/blog/getting-started-with-sharepoint-framework/graph.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="graph.png" src="images/blog/getting-started-with-sharepoint-framework/graph.png" >}}
 Using SharePoint Framework you can extend portals on Microsoft 365 and

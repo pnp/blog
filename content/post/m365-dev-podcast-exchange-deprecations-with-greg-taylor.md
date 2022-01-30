@@ -1,4 +1,14 @@
-# M365 Dev Podcast - Exchange Deprecations with Greg Taylor
+---
+title: "M365 Dev Podcast - Exchange Deprecations with Greg Taylor"
+date: 2021-11-08T05:56:00-05:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Greg Taylor brings his wealth of experience in Exchange to the show,
 discussing the upcoming deprecations in the Exchange online service.

@@ -1,4 +1,14 @@
-# Add multiple users to a SharePoint Group using single API Call
+---
+title: "Add multiple users to a SharePoint Group using single API Call"
+date: 2021-08-18T12:10:00-04:00
+author: "Arjun Menon"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Adding a user to a SharePoint group from custom solutions via REST API
 in SharePoint Framework (SPFx) solutions or Power Automate or any other

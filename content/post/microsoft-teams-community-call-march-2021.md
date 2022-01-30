@@ -1,4 +1,16 @@
-::: {#28E-007-6 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Teams Community Call - March 2021"
+date: 2021-03-18T12:19:00-04:00
+author: "Jun Pak"
+categories: []
+images:
+- images/blog/microsoft-teams-community-call-march-2021/TitleSlide.png
+- images/blog/microsoft-teams-community-call-march-2021/Jun_Pak_0-1616095092787.gif
+tags: []
+type: "regular"
+draft: false
+
+---::: {#28E-007-6 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Teams Community Call - March 2021
+
 :::
 
 ::: ba-option-wrapper

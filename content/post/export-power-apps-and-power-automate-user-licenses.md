@@ -1,5 +1,16 @@
+---
+title: "Export Power Apps and Power Automate user licenses"
+date: 2021-04-23T05:48:00-04:00
+author: "Yves Habersaat"
+categories: []
+images:
+- images/blog/export-power-apps-and-power-automate-user-licenses/power-platform-licenses.png
+tags: []
+type: "regular"
+draft: false
 
-# Export Power Apps and Power Automate user licenses]
+---
+]
 
 ## Context 
 

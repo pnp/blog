@@ -1,4 +1,14 @@
-# CLI for Microsoft 365 v4.2
+---
+title: "CLI for Microsoft 365 v4.2"
+date: 2021-11-26T06:38:00-05:00
+author: "Albert-Jan Schot"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform 
 

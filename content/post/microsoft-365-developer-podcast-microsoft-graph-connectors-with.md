@@ -1,4 +1,14 @@
-# Microsoft 365 Developer Podcast - Microsoft Graph Connectors with Brian T. Jackett
+---
+title: "Microsoft 365 Developer Podcast - Microsoft Graph Connectors with Brian T. Jackett"
+date: 2021-06-21T08:14:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Jeremy and Paul talk with Brian T. Jackett about the Graph Connectors
 API.

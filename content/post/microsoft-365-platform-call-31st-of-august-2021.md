@@ -1,4 +1,15 @@
-# Microsoft 365 Platform Call -- 31st of August, 2021
+---
+title: "Microsoft 365 Platform Call -- 31st of August, 2021"
+date: 2021-09-01T04:16:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-platform-call-31st-of-august-2021/210831-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from August 31st, is now available from the Microsoft 365 Community

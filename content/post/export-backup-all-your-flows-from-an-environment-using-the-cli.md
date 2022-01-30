@@ -1,4 +1,14 @@
-# Export/Backup all your flows from an environment using the CLI for Microsoft 365
+---
+title: "Export/Backup all your flows from an environment using the CLI for Microsoft 365"
+date: 2021-11-08T04:16:00-05:00
+author: "Patrick Lamber"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 When was the last time you backed up all the flows in your environment?
 By combining the CLI for Microsoft 365 and PowerShell we can make this

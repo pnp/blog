@@ -1,4 +1,15 @@
-::: {#38D-003-7 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 134 - Marc D Anderson (Sympraxis Consulting)"
+date: 2021-09-14T02:09:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-134-marc-d-anderson-sympraxis/Thumb-Ep132.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#38D-003-7 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -882,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 134 - Marc D Anderson (Sympraxis Consulting)
+
 :::
 
 ::: ba-option-wrapper

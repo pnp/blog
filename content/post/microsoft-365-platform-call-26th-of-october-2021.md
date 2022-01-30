@@ -1,4 +1,16 @@
-# Microsoft 365 Platform Call -- 26th of October, 2021
+---
+title: "Microsoft 365 Platform Call -- 26th of October, 2021"
+date: 2021-10-27T03:20:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-platform-call-26th-of-october-2021/recording-26th-oct.png
+- images/blog/microsoft-365-platform-call-26th-of-october-2021/211026-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="recording-26th-oct.png" src="images/blog/microsoft-365-platform-call-26th-of-october-2021/recording-26th-oct.png" >}}
 Microsoft 365 Platform Community Call - weekly community call recording

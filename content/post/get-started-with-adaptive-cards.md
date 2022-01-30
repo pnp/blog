@@ -1,4 +1,14 @@
-# Get started with Adaptive Cards
+---
+title: "Get started with Adaptive Cards"
+date: 2021-02-10T11:47:00-05:00
+author: "Tomasz Poszytek"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Hello dear digital technology enthusiast]{.N
 I heard you would like to find out what Adaptive Cards

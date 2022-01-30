@@ -1,5 +1,18 @@
+---
+title: "Getting started with graph API in SPFx webpart"
+date: 2021-06-03T03:59:00-04:00
+author: "Chandani Prajapati"
+categories: []
+images:
+- images/blog/getting-started-with-graph-api-in-spfx-webpart/Permssions.png
+- images/blog/getting-started-with-graph-api-in-spfx-webpart/AcceptPermsiion.png
+- images/blog/getting-started-with-graph-api-in-spfx-webpart/Output.png
+tags: []
+type: "regular"
+draft: false
 
-# Getting started with graph API in SPFx webpart
+---
+
 
 ## What is Graph API? 
  

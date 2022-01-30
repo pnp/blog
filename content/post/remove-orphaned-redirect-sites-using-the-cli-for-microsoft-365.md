@@ -1,4 +1,14 @@
-# Remove orphaned redirect sites using the CLI for Microsoft 365
+---
+title: "Remove orphaned redirect sites using the CLI for Microsoft 365"
+date: 2021-11-18T02:20:00-05:00
+author: "Patrick Lamber"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Changing the URL of a site results in a new site type: a Redirect Site.
 However this redirect site does not get removed if you delete the newly

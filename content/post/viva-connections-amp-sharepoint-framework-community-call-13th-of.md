@@ -1,4 +1,16 @@
-# Viva Connections & SharePoint Framework Community Call -- 13th of January, 2021
+---
+title: "Viva Connections & SharePoint Framework Community Call -- 13th of January, 2021"
+date: 2022-01-14T04:26:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/viva-connections-amp-sharepoint-framework-community-call-13th-of/recording-13th-jan.png
+- images/blog/viva-connections-amp-sharepoint-framework-community-call-13th-of/220113-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="recording-13th-jan.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-13th-of/recording-13th-jan.png" >}}
 Viva Connections & SharePoint Framework bi-weekly community call

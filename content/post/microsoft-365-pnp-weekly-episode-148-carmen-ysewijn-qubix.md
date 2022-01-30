@@ -1,4 +1,14 @@
-::: {#848-007-5 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 148 - Carmen Ysewijn (Qubix)"
+date: 2022-01-11T12:55:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---::: {#848-007-5 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +891,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 148 - Carmen Ysewijn (Qubix)
+
 :::
 
 ::: ba-option-wrapper

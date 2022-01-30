@@ -1,4 +1,20 @@
-# Change your own profile picture as a Guest in Microsoft Teams
+---
+title: "Change your own profile picture as a Guest in Microsoft Teams"
+date: 2021-04-06T01:37:00-04:00
+author: "Yannick Reekmans"
+categories: []
+images:
+- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image.png
+- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-1.png
+- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-3.png
+- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-4.png
+- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-5.png
+- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-6.png
+tags: []
+type: "regular"
+draft: false
+
+---
 I love Microsoft Teams and I also love controlling my online appearance,
 but sadly both aren\'t big friends when you are a Guest in another
 tenant. There still isn\'t a good/easy way of controlling your own

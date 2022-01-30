@@ -1,4 +1,14 @@
-# 10 things we should think about before we build an app
+---
+title: "10 things we should think about before we build an app"
+date: 2021-03-11T01:50:00-05:00
+author: "Luise Freese"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 With Power Apps, we can rapidly build custom business applications that
 connect to our business data in a low code manner. This means that not

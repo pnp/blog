@@ -1,4 +1,16 @@
-::: {#38D-003-7 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Teams Community Call - April 2021"
+date: 2021-04-22T12:35:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-teams-community-call-april-2021/teams-monthly-20th-april-recording.png
+- images/blog/microsoft-teams-community-call-april-2021/210420-teams.gif
+tags: []
+type: "regular"
+draft: false
+
+---::: {#38D-003-7 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Teams Community Call - April 2021
+
 :::
 
 ::: ba-option-wrapper
