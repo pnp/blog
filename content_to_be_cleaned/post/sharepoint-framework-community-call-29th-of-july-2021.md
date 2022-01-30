@@ -1120,34 +1120,19 @@ preview on the Viva Connections extensibility tooling.  
 **Latest project updates include: ** (**Bold **indicates update from
 previous report 2 weeks ago) 
 
- 
+||||
+|--- |--- |--- |
+|PnP Project|Current version|Release/Status|
+|SharePoint Framework (SPFx)|v1.12.1, v1.13 beta|v1.13.0 Beta end of July|
+|PnPjs Client-Side Libraries|v2.7.0|2.8.0 scheduled for Aug 13, 
+v3.0.0 developments underway|
+|CLI for Microsoft 365|v3.12.0 Preview, v4.0.0 Preview|v4.0.0 to release this fall|
+|Reusable SPFx React Controls|v2.8.0 (SPFx v1.11), v3.2.1 (SPFx v1.12.1)||
+|Reusable SPFx React Property Controls|v2.7.0 (SPFx v1.11), v3.2.0 (SPFx v1.12.1)||
+|PnP SPFx Generator|v1.16.0|v1.17.0 on the way|
+|PnP Modern Search|v4.3.0 & v3.21.0||
 
-+-----------------------+-----------------------+-----------------------+
-| **PnP Project**       | **Current version**   | **Release/Status**    |
-+-----------------------+-----------------------+-----------------------+
-| SharePoint Framework  | v1.12.1, **v1.13      | v1.13.0 Beta end of   |
-| (SPFx)                | beta**                | July                  |
-+-----------------------+-----------------------+-----------------------+
-| PnPjs Client-Side     | v2.7.0                | **2.8.0 scheduled for |
-| Libraries             |                       | Aug 13, **            |
-|                       |                       |                       |
-|                       |                       | v3.0.0 developments   |
-|                       |                       | underway              |
-+-----------------------+-----------------------+-----------------------+
-| CLI for Microsoft 365 | v3.12.0               | v4.0.0 to release     |
-|                       | Preview, v4.0.0       | this fall             |
-|                       | Preview               |                       |
-+-----------------------+-----------------------+-----------------------+
-| Reusable SPFx React   | v2.8.0 (SPFx v1.11),  |                       |
-| Controls              | v3.2.1 (SPFx v1.12.1) |                       |
-+-----------------------+-----------------------+-----------------------+
-| Reusable SPFx React   | v2.7.0 (SPFx v1.11),  |                       |
-| Property Controls     | v3.2.0 (SPFx v1.12.1) |                       |
-+-----------------------+-----------------------+-----------------------+
-| PnP SPFx Generator    | v1.16.0               | v1.17.0 on the way    |
-+-----------------------+-----------------------+-----------------------+
-| PnP Modern Search     | v4.3.0 & v3.21.0      |                       |
-+-----------------------+-----------------------+-----------------------+
+
 
  
 
