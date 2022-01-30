@@ -1,4 +1,17 @@
-::: {#C5E-007-4 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Graph community call -- June 2021"
+date: 2021-06-02T12:29:00-04:00
+author: "Brian Jackett"
+categories: []
+images:
+- images/blog/microsoft-graph-community-call-june-2021/BrianTJackett.png
+- images/blog/microsoft-graph-community-call-june-2021/BrianTJackett.png
+- images/blog/microsoft-graph-community-call-june-2021/BrianTJackett.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#C5E-007-4 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +894,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Graph community call -- June 2021
+
 :::
 
 ::: ba-option-wrapper

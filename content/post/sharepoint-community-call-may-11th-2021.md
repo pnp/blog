@@ -1,4 +1,15 @@
-# SharePoint community call - May 11th, 2021
+---
+title: "SharePoint community call - May 11th, 2021"
+date: 2021-05-11T11:59:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/sharepoint-community-call-may-11th-2021/210511-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 The SharePoint community monthly call is our general monthly review of
 the latest SharePoint news  (news, tools, extensions, features,

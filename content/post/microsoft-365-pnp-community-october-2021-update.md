@@ -1,4 +1,24 @@
-# Microsoft 365 PnP Community -- October 2021 update
+---
+title: "Microsoft 365 PnP Community -- October 2021 update"
+date: 2021-10-22T06:00:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png
+- images/blog/microsoft-365-pnp-community-october-2021-update/pnp-community-model.png
+- images/blog/microsoft-365-pnp-community-october-2021-update/VesaJuvonen_0-1629736432373.png
+- images/blog/microsoft-365-pnp-community-october-2021-update/graph-toolkit.jpg
+- images/blog/microsoft-365-pnp-community-october-2021-update/community-dcos.png
+- images/blog/microsoft-365-pnp-community-october-2021-update/spfx-gallery.png
+- images/blog/microsoft-365-pnp-community-october-2021-update/teams-samples-promo.jpg
+- images/blog/microsoft-365-pnp-community-october-2021-update/script-gallery.png
+- images/blog/microsoft-365-pnp-community-october-2021-update/sharing-is-caring-promo-1024x576.png
+- images/blog/microsoft-365-pnp-community-october-2021-update/pnp-aug-companies.png
+tags: []
+type: "regular"
+draft: false
+
+---
 {{< image alt="oct-monthly-summary-promo.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png" >}}
 Microsoft 365 Patterns and Practices (PnP) Community October 2021 update
 is out with a summary of the latest guidance, samples, and solutions

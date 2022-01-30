@@ -1,4 +1,21 @@
-# How to Deploy PnP Modern Search Web Parts v4
+---
+title: "How to Deploy PnP Modern Search Web Parts v4"
+date: 2021-07-27T08:19:00-04:00
+author: "Agnes Molnar"
+categories: []
+images:
+- images/blog/how-to-deploy-pnp-modern-search-web-parts-v4/pnp-modern-search-sharepoint-app-catalog-01-1024x834.png
+- images/blog/how-to-deploy-pnp-modern-search-web-parts-v4/pnp-modern-search-sharepoint-app-catalog-02-1024x535.png
+- images/blog/how-to-deploy-pnp-modern-search-web-parts-v4/pnp-modern-search-sharepoint-app-catalog-03-1024x553.png
+- images/blog/how-to-deploy-pnp-modern-search-web-parts-v4/pnp-modern-search-sharepoint-app-catalog-04-1024x652.png
+- images/blog/how-to-deploy-pnp-modern-search-web-parts-v4/pnp-modern-search-sharepoint-app-catalog-05.png
+- images/blog/how-to-deploy-pnp-modern-search-web-parts-v4/pnp-modern-search-sharepoint-app-catalog-06-1024x274.png
+- images/blog/how-to-deploy-pnp-modern-search-web-parts-v4/pnp-modern-search-v4-webparts.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 If you use Microsoft 365 (Office 365), you probably have been using
 [Microsoft Search](https://searchexplained.com/microsoft-search/), too.

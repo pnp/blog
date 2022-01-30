@@ -1,4 +1,16 @@
-# SharePoint Framework Community Call -- 7th of October, 2021
+---
+title: "SharePoint Framework Community Call -- 7th of October, 2021"
+date: 2021-10-08T02:03:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/sharepoint-framework-community-call-7th-of-october-2021/agenda-7th-oct.png
+- images/blog/sharepoint-framework-community-call-7th-of-october-2021/211007-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="agenda-7th-oct.png" src="images/blog/sharepoint-framework-community-call-7th-of-october-2021/agenda-7th-oct.png" >}}
 SharePoint Framework Special Interest Group (SIG) bi-weekly community

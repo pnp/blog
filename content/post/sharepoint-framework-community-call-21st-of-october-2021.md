@@ -1,4 +1,16 @@
-# SharePoint Framework Community Call -- 21st of October, 2021
+---
+title: "SharePoint Framework Community Call -- 21st of October, 2021"
+date: 2021-10-22T01:39:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/sharepoint-framework-community-call-21st-of-october-2021/spfx-call-recording-21st-oct.png
+- images/blog/sharepoint-framework-community-call-21st-of-october-2021/211021-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 {{< image alt="spfx-call-recording-21st-oct.png" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/spfx-call-recording-21st-oct.png" >}}

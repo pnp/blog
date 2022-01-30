@@ -1,4 +1,16 @@
-# How to use fluent UI react persona control in SPFx?
+---
+title: "How to use fluent UI react persona control in SPFx?"
+date: 2021-06-10T05:56:00-04:00
+author: "Chandani Prajapati"
+categories: []
+images:
+- images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png
+- images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Introduction 
 A persona is a visual representation of a person across products,

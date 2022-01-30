@@ -1,4 +1,16 @@
-# Microsoft 365 Platform Call -- 12th of October, 2021
+---
+title: "Microsoft 365 Platform Call -- 12th of October, 2021"
+date: 2021-10-13T01:51:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-platform-call-12th-of-october-2021/recording-12th-oct.png
+- images/blog/microsoft-365-platform-call-12th-of-october-2021/211012-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 {{< image alt="recording-12th-oct.png" src="images/blog/microsoft-365-platform-call-12th-of-october-2021/recording-12th-oct.png" >}}

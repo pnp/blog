@@ -1,4 +1,22 @@
-# How to break and change list item permission using Power Automate?
+---
+title: "How to break and change list item permission using Power Automate?"
+date: 2021-06-29T01:00:00-04:00
+author: "Chandani Prajapati"
+categories: []
+images:
+- images/blog/how-to-break-and-change-list-item-permission-using-power/Step2.png
+- images/blog/how-to-break-and-change-list-item-permission-using-power/Step3.png
+- images/blog/how-to-break-and-change-list-item-permission-using-power/step4.png
+- images/blog/how-to-break-and-change-list-item-permission-using-power/Step5.png
+- images/blog/how-to-break-and-change-list-item-permission-using-power/step6.png
+- images/blog/how-to-break-and-change-list-item-permission-using-power/step7.png
+- images/blog/how-to-break-and-change-list-item-permission-using-power/step8.png
+- images/blog/how-to-break-and-change-list-item-permission-using-power/OP.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Introduction
 

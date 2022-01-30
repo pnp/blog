@@ -1,4 +1,18 @@
-# 5 commands to try in CLI for Microsoft 365 to fall in love with it
+---
+title: "5 commands to try in CLI for Microsoft 365 to fall in love with it"
+date: 2021-03-11T09:33:00-05:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-pa.png
+- images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/url-powerapps.png
+- images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-spo-users.png
+- images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-external.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 After I blogged about [How to send Adaptive Cards with CLI for Microsoft
 365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-send-adaptive-cards-with-cli-microsoft-365/ba-p/2143466) and

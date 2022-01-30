@@ -1,4 +1,20 @@
-# Init API permissions for your SPFx projects without deploying them
+---
+title: "Init API permissions for your SPFx projects without deploying them"
+date: 2021-03-10T01:34:00-05:00
+author: "Michaël Maillot"
+categories: []
+images:
+- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-fail.png
+- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-console-fail.png
+- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/aad-app-spo-api-graph.png
+- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-success.png
+- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/aad-app-spo-api-custom.png
+- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/api-access-custom-approved.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 When developing your SPFx components, you usually first run them locally
 before deploying them (really?).

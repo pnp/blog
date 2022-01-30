@@ -1,4 +1,17 @@
-# Run reports on your tenant using the CLI for Microsoft and Azure Container Instances
+---
+title: "Run reports on your tenant using the CLI for Microsoft and Azure Container Instances"
+date: 2021-06-15T01:50:00-04:00
+author: "Albert-Jan Schot"
+categories: []
+images:
+- images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma.png
+- images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma-id.png
+- images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-la-cleanup.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Using the CLI for Microsoft 365, you can manage your Microsoft 365
 tenant and SharePoint Framework projects on any platform, including

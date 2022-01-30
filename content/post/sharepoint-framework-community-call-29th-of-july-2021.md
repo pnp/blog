@@ -1,4 +1,15 @@
-# SharePoint Framework Community Call -- 29th of July, 2021
+---
+title: "SharePoint Framework Community Call -- 29th of July, 2021"
+date: 2021-07-29T04:59:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/sharepoint-framework-community-call-29th-of-july-2021/PnP-Calls-TogetherMode-LowResolution.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community

@@ -1,4 +1,24 @@
-::: {#C5E-007-4 .ServiceNodeInfoHeader}
+---
+title: "Modern SharePoint list formatting"
+date: 2021-02-12T06:56:00-05:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/modern-sharepoint-list-formatting/daniel-cheung-zky0BmMT5m8-unsplash.jpg
+- images/blog/modern-sharepoint-list-formatting/list-formatting-create.png
+- images/blog/modern-sharepoint-list-formatting/list-formatting-formatgallery.png
+- images/blog/modern-sharepoint-list-formatting/list-formatting-formatcolumns.png
+- images/blog/modern-sharepoint-list-formatting/list-formatting-formatrules.png
+- images/blog/modern-sharepoint-list-formatting/list-formatting.gif
+- images/blog/modern-sharepoint-list-formatting/whatif.jpg
+- images/blog/modern-sharepoint-list-formatting/advanced-mode.png
+- images/blog/modern-sharepoint-list-formatting/formatsplist.gif
+- images/blog/modern-sharepoint-list-formatting/listformat-pyod.gif
+tags: []
+type: "regular"
+draft: false
+
+---::: {#C5E-007-4 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +901,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Modern SharePoint list formatting
+
 :::
 
 ::: ba-option-wrapper

@@ -1,5 +1,21 @@
+---
+title: "How to get started with GitHub and Git"
+date: 2021-09-09T07:49:00-04:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/how-to-get-started-with-github-and-git/github-new.png
+- images/blog/how-to-get-started-with-github-and-git/first-commit.png
+- images/blog/how-to-get-started-with-github-and-git/github-clone.png
+- images/blog/how-to-get-started-with-github-and-git/git-changes.png
+- images/blog/how-to-get-started-with-github-and-git/git-push.png
+- images/blog/how-to-get-started-with-github-and-git/compare-changes.png
+tags: []
+type: "regular"
+draft: false
 
-# How to get started with GitHub and Git
+---
+
 
 [Ever wondered how you could get started in contributing to open-source
 projects? Let's say you would like to contribute to an open-source

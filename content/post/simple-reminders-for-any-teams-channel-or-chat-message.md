@@ -1,4 +1,19 @@
-# Simple reminders for any Teams Channel or Chat message
+---
+title: "Simple reminders for any Teams Channel or Chat message"
+date: 2021-05-06T01:55:00-04:00
+author: "Hubert Lam"
+categories: []
+images:
+- images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620122926624.png
+- images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620123840984.png
+- images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_2-1620126836459.png
+- images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_3-1620127059580.png
+- images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_0-1620127122452.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ![Forgetting to take action on a message, or where that message
 was?](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278425iB9EB083D2909DA44/image-size/medium?v=v2&px=400 "luis-villasmil-mlVbMbxfWI4-unsplash.jpg")

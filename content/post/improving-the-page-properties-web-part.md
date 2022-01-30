@@ -1,4 +1,15 @@
-# Improving the Page Properties web part
+---
+title: "Improving the Page Properties web part"
+date: 2021-04-06T01:18:00-04:00
+author: "mhomol"
+categories: []
+images:
+- images/blog/improving-the-page-properties-web-part/diff-screencap.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Ever get annoyed with the page properties web part put out by Microsoft?
 If you\'ve got some OCD issues (like me) then it may not take very long.

@@ -1,4 +1,15 @@
-::: {#AB5-001-5 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 142 - Natalie Pienkowska (Microsoft)"
+date: 2021-11-09T02:23:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-142-natalie-pienkowska/Thumb-Ep142-November8.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#AB5-001-5 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -882,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 142 - Natalie Pienkowska (Microsoft)
+
 :::
 
 ::: ba-option-wrapper

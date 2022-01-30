@@ -1,4 +1,22 @@
-# Microsoft 365 PnP Community -- April 2021 update
+---
+title: "Microsoft 365 PnP Community -- April 2021 update"
+date: 2021-04-13T06:56:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-community-april-2021-update/april-monthly-update.png
+- images/blog/microsoft-365-pnp-community-april-2021-update/pnp-community-model.png
+- images/blog/microsoft-365-pnp-community-april-2021-update/graph-toolkit.jpg
+- images/blog/microsoft-365-pnp-community-april-2021-update/community-dcos.png
+- images/blog/microsoft-365-pnp-community-april-2021-update/spfx-gallery.png
+- images/blog/microsoft-365-pnp-community-april-2021-update/teams-samples-promo.jpg
+- images/blog/microsoft-365-pnp-community-april-2021-update/sharing-is-caring-promo-1024x576.png
+- images/blog/microsoft-365-pnp-community-april-2021-update/pnp-companies-april.png
+tags: []
+type: "regular"
+draft: false
+
+---
 {{< image alt="april-monthly-update.png" src="images/blog/microsoft-365-pnp-community-april-2021-update/april-monthly-update.png" >}}
 Microsoft 365 Patterns and Practices (PnP) Community April 2021 update
 is out with a summary of the latest guidance, samples, and solutions

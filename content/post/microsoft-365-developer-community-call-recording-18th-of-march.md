@@ -1,4 +1,16 @@
-# Microsoft 365 Developer Community Call recording -- 18th of March, 2021
+---
+title: "Microsoft 365 Developer Community Call recording -- 18th of March, 2021"
+date: 2021-03-19T01:49:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-developer-community-call-recording-18th-of-march/sig-18th-march-recording.png
+- images/blog/microsoft-365-developer-community-call-recording-18th-of-march/CmtyPhoto.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from March 18, 2021.

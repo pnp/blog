@@ -1,4 +1,15 @@
-# Microsoft 365 Developer Community Call recording -- 2nd of September, 2021
+---
+title: "Microsoft 365 Developer Community Call recording -- 2nd of September, 2021"
+date: 2021-09-03T03:45:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-developer-community-call-recording-2nd-of/recording-2nd-september-call.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="recording-2nd-september-call.png" src="images/blog/microsoft-365-developer-community-call-recording-2nd-of/recording-2nd-september-call.png" >}}
 

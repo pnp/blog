@@ -1,4 +1,15 @@
-# How to get Source Code files for Power Apps Canvas apps
+---
+title: "How to get Source Code files for Power Apps Canvas apps"
+date: 2021-04-29T03:07:00-04:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/how-to-get-source-code-files-for-power-apps-canvas-apps/PASopa-folder.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 This post will guide you through the process of how to use the Power
 Apps Language Toolkit to extract a Power Apps .msapp file. 

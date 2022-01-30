@@ -1,4 +1,14 @@
-# CLI for Microsoft 365 v4
+---
+title: "CLI for Microsoft 365 v4"
+date: 2021-10-07T12:08:00-04:00
+author: "Garry Trinder"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ![CLI for Microsoft 365
 v4](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/315155iEA0154C8AF904E8C/image-size/large?v=v2&px=999 "banner-cli-m365.png")
@@ -198,7 +208,7 @@ order):
  
 Here are some things that we are currently working on.
  
-### CLI for Microsoft 365 v4 Themes 
+## Themes 
  
 Following our latest major release, we have started thinking about
 themes for the coming year but we would love to know what you think we

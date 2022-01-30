@@ -1,4 +1,18 @@
-# How to use Parse JSON action in Power Automate
+---
+title: "How to use Parse JSON action in Power Automate"
+date: 2021-02-11T07:57:00-05:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-SPList.png
+- images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-overview-flow.png
+- images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-history.png
+- images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-twitter.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 We can see a a lot of JSON in our Power Automate flow run history, and
 if you wonder, how you can *parse* JSON to make Dynamic Content (which

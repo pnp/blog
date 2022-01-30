@@ -1,4 +1,15 @@
-# Adaptive Cards community call -- August 2021
+---
+title: "Adaptive Cards community call -- August 2021"
+date: 2021-09-23T05:24:00-04:00
+author: "J.P. Roca"
+categories: []
+images:
+- images/blog/adaptive-cards-community-call-august-2021/900x506-AugustTHumb.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="900x506-AugustTHumb.png" src="images/blog/adaptive-cards-community-call-august-2021/900x506-AugustTHumb.png" >}}
 

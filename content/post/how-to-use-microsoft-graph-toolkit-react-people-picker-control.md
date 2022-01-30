@@ -1,4 +1,16 @@
-# How to use Microsoft graph toolkit react people picker control in SPFx Webpart?
+---
+title: "How to use Microsoft graph toolkit react people picker control in SPFx Webpart?"
+date: 2021-10-26T06:10:00-04:00
+author: "Chandani Prajapati"
+categories: []
+images:
+- images/blog/how-to-use-microsoft-graph-toolkit-react-people-picker-control/Implementations.png
+- images/blog/how-to-use-microsoft-graph-toolkit-react-people-picker-control/react-ad-mgt-users.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Purpose 
 We can use this when we have a requirement to show Azure AD users in

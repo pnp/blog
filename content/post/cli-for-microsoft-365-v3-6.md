@@ -1,4 +1,14 @@
-# CLI for Microsoft 365 v3.6
+---
+title: "CLI for Microsoft 365 v3.6"
+date: 2021-02-27T02:51:00-05:00
+author: "Waldek Mastykarz"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 We've just published a new version of the CLI for Microsoft 365 with new
 commands for working with and managing Microsoft 365 tenants and
 SharePoint Framework projects on any platform.

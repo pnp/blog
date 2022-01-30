@@ -1,4 +1,15 @@
-# CLI for Microsoft 365 v3.13
+---
+title: "CLI for Microsoft 365 v3.13"
+date: 2021-08-30T11:35:00-04:00
+author: "Waldek Mastykarz"
+categories: []
+images:
+- images/blog/cli-for-microsoft-365-v3-13/banner-cli-m365.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="banner-cli-m365.png" src="images/blog/cli-for-microsoft-365-v3-13/banner-cli-m365.png" >}}{.lia-media-image
 role="button"

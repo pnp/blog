@@ -1,4 +1,15 @@
-# Microsoft 365 PnP Weekly - Episode 129
+---
+title: "Microsoft 365 PnP Weekly - Episode 129"
+date: 2021-06-01T06:46:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-129/pnp-weekly-129.png
+tags: []
+type: "regular"
+draft: false
+
+---
 {{< image alt="pnp-weekly-129.png" src="images/blog/microsoft-365-pnp-weekly-episode-129/pnp-weekly-129.png" >}}
 In this instalment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa

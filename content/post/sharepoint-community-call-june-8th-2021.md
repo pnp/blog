@@ -1,4 +1,15 @@
-# SharePoint community call - June 8th, 2021
+---
+title: "SharePoint community call - June 8th, 2021"
+date: 2021-06-09T05:06:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/sharepoint-community-call-june-8th-2021/210608-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 The SharePoint community monthly call is our general monthly review of

@@ -1,4 +1,16 @@
-::: {#423-001-8 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Teams Community Call - May 2021"
+date: 2021-05-19T12:52:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-teams-community-call-may-2021/teams-18th-recording-promo.png
+- images/blog/microsoft-teams-community-call-may-2021/210518-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---::: {#423-001-8 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Teams Community Call - May 2021
+
 :::
 
 ::: ba-option-wrapper

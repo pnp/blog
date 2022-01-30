@@ -1,4 +1,15 @@
-# Office Add-ins community call -- September 8, 2021
+---
+title: "Office Add-ins community call -- September 8, 2021"
+date: 2021-09-16T10:45:00-04:00
+author: "David Chesnut"
+categories: []
+images:
+- images/blog/office-add-ins-community-call-september-8-2021/officeadd-ins.jpg
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 ## {{< image alt="officeadd-ins.jpg" src="images/blog/office-add-ins-community-call-september-8-2021/officeadd-ins.jpg" >}}

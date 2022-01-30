@@ -1,4 +1,15 @@
-# Microsoft 365 PnP Weekly - Episode 119
+---
+title: "Microsoft 365 PnP Weekly - Episode 119"
+date: 2021-03-23T01:46:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-119/Thumb-Ep119.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="Thumb-Ep119.png" src="images/blog/microsoft-365-pnp-weekly-episode-119/Thumb-Ep119.png" >}}
 

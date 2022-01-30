@@ -1,4 +1,17 @@
-# Global Navigation In Modern SharePoint Using SPFx, PnP And Fluent UI
+---
+title: "Global Navigation In Modern SharePoint Using SPFx, PnP And Fluent UI"
+date: 2021-09-13T02:44:00-04:00
+author: "Dipen Shah"
+categories: []
+images:
+- images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GN3.jpg
+- images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV3.jpg
+- images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV4.jpg
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Introduction 
 

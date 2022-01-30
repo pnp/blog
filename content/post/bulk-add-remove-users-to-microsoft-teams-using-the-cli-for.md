@@ -1,4 +1,14 @@
-# Bulk add/remove users to Microsoft Teams using the CLI for Microsoft 365
+---
+title: "Bulk add/remove users to Microsoft Teams using the CLI for Microsoft 365"
+date: 2021-10-05T03:08:00-04:00
+author: "Patrick Lamber"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 We will continue our journey with the most popular [sample

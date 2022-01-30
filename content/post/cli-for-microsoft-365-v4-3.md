@@ -1,4 +1,14 @@
-# CLI for Microsoft 365 v4.3
+---
+title: "CLI for Microsoft 365 v4.3"
+date: 2022-01-08T11:19:00-05:00
+author: "Garry Trinder"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ![CLI for Microsoft
 365](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337808iB304EDACAE259FF3/image-size/large?v=v2&px=999 "banner-cli-m365.png")

@@ -1,4 +1,15 @@
-# How to to get all site collections with their sub webs using PnP PowerShell?
+---
+title: "How to to get all site collections with their sub webs using PnP PowerShell?"
+date: 2021-05-05T01:32:00-04:00
+author: "Chandani Prajapati"
+categories: []
+images:
+- images/blog/how-to-to-get-all-site-collections-with-their-sub-webs-using-pnp/AllSCAndSCW.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Sometimes we have a business requirement to get site collections with
 all the sub-webs so we can achieve the solution easily using PnP

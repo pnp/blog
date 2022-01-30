@@ -1,4 +1,16 @@
-# Microsoft 365 Developer Community Call recording -- 24th of June, 2021
+---
+title: "Microsoft 365 Developer Community Call recording -- 24th of June, 2021"
+date: 2021-06-25T03:16:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-developer-community-call-recording-24th-of-june/sig-recording-24th-june.png
+- images/blog/microsoft-365-developer-community-call-recording-24th-of-june/210624-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from June 24, 2021.

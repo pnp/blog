@@ -1,4 +1,16 @@
-# How to Set Up Tailwind CSS in a SPFx Project
+---
+title: "How to Set Up Tailwind CSS in a SPFx Project"
+date: 2021-05-01T01:48:00-04:00
+author: "Ari Gunawan"
+categories: []
+images:
+- images/blog/how-to-set-up-tailwind-css-in-a-spfx-project/State of CSS 2020 Survey.png
+- images/blog/how-to-set-up-tailwind-css-in-a-spfx-project/REsult.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 In the [State of CSS 2020
 survey](https://2020.stateofcss.com/en-US/technologies/css-frameworks/css_frameworks_experience_ranking), the [Tailwind

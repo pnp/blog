@@ -1,4 +1,16 @@
-# Recognize team activity using the CLI for Microsoft 365
+---
+title: "Recognize team activity using the CLI for Microsoft 365"
+date: 2021-08-09T08:41:00-04:00
+author: "Albert-Jan Schot"
+categories: []
+images:
+- images/blog/recognize-team-activity-using-the-cli-for-microsoft-365/team-champion-script.png
+- images/blog/recognize-team-activity-using-the-cli-for-microsoft-365/team-champion-result.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## The scenario 
 

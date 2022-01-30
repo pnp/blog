@@ -1,4 +1,14 @@
-# Microsoft 365 Developer Podcast - Microsoft Search with Mikael Svenson
+---
+title: "Microsoft 365 Developer Podcast - Microsoft Search with Mikael Svenson"
+date: 2021-07-15T10:36:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Mikael Svenson joins Paul to talk about Search in Microsoft 365.
 

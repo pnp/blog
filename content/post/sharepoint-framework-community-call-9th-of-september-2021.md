@@ -1,4 +1,15 @@
-# SharePoint Framework Community Call -- 9th of September, 2021
+---
+title: "SharePoint Framework Community Call -- 9th of September, 2021"
+date: 2021-09-10T01:27:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/sharepoint-framework-community-call-9th-of-september-2021/spfx-call-9th-sep-recording.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="spfx-call-9th-sep-recording.png" src="images/blog/sharepoint-framework-community-call-9th-of-september-2021/spfx-call-9th-sep-recording.png" >}}
 

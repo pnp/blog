@@ -1,4 +1,16 @@
-# Microsoft 365 Developer Community Call recording -- 22nd of July, 2021
+---
+title: "Microsoft 365 Developer Community Call recording -- 22nd of July, 2021"
+date: 2021-07-22T05:41:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png
+- images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/wave3.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="sig-recordingly-22nd-july.png" src="images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png" >}}
 **Call Summary**

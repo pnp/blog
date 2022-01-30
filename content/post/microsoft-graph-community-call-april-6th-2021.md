@@ -1,4 +1,15 @@
-::: {#848-007-5 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Graph community call - April 6th, 2021"
+date: 2021-04-08T12:00:00-04:00
+author: "Nik Charlebois"
+categories: []
+images:
+- images/blog/microsoft-graph-community-call-april-6th-2021/TitleSlidewithPhotos.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#848-007-5 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +892,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Graph community call - April 6th, 2021
+
 :::
 
 ::: ba-option-wrapper

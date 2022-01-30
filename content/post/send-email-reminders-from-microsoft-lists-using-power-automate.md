@@ -1,4 +1,23 @@
-# Send email reminders from Microsoft Lists using Power Automate
+---
+title: "Send email reminders from Microsoft Lists using Power Automate"
+date: 2021-02-24T09:33:00-05:00
+author: "Norm Young"
+categories: []
+images:
+- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker01.png
+- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker02.png
+- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker03.png
+- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_4-1613402858860.png
+- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_5-1613403503451.png
+- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-23.png
+- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-24.png
+- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-25.png
+- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-26.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 In this blog post, I will show how to send email reminders for Microsoft
 Lists items based on a date column using Power Automate. I am using the

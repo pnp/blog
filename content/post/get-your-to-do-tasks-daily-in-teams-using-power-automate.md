@@ -1,5 +1,15 @@
+---
+title: "Get your To Do tasks daily in Teams using Power Automate"
+date: 2021-01-12T03:12:00-05:00
+author: "Lee Ford"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
 
-# Get your To Do tasks daily in Teams using Power Automate
+---
+
 
 > This blog post is inspired by Ayca Bas\'s [excellent blog
 > post](https://dev.to/azure/get-your-to-do-tasks-every-morning-on-microsoft-teams-using-azure-logic-apps-3ci1)

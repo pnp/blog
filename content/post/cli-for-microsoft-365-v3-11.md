@@ -1,4 +1,15 @@
-# CLI for Microsoft 365 v3.11
+---
+title: "CLI for Microsoft 365 v3.11"
+date: 2021-06-30T10:45:00-04:00
+author: "Garry Trinder"
+categories: []
+images:
+- images/blog/cli-for-microsoft-365-v3-11/banner-cli-m365.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## {{< image alt="CLI for Microsoft 365 v3.11" src="images/blog/cli-for-microsoft-365-v3-11/banner-cli-m365.png" >}}
  

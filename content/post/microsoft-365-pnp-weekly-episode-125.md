@@ -1,4 +1,15 @@
-# Microsoft 365 PnP Weekly - Episode 125
+---
+title: "Microsoft 365 PnP Weekly - Episode 125"
+date: 2021-05-03T11:29:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-125/Thumb-Ep125.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 {{< image alt="Thumb-Ep125.png" src="images/blog/microsoft-365-pnp-weekly-episode-125/Thumb-Ep125.png" >}}

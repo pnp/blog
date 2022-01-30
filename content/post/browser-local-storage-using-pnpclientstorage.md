@@ -1,4 +1,14 @@
-# Browser Local Storage using PnPClientStorage
+---
+title: "Browser Local Storage using PnPClientStorage"
+date: 2021-08-31T01:54:00-04:00
+author: "Sudharsan Kesavanarayanan"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Why do we need to use browser storage?
 

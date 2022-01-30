@@ -1,4 +1,22 @@
-# Microsoft 365 Community (PnP) -- March 2021 update
+---
+title: "Microsoft 365 Community (PnP) -- March 2021 update"
+date: 2021-03-09T06:55:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-community-pnp-march-2021-update/march-2021-pnp-monthly-update-promo.png
+- images/blog/microsoft-365-community-pnp-march-2021-update/pnp-community-model.png
+- images/blog/microsoft-365-community-pnp-march-2021-update/graph-toolkit.jpg
+- images/blog/microsoft-365-community-pnp-march-2021-update/community-dcos.png
+- images/blog/microsoft-365-community-pnp-march-2021-update/spfx-gallery.png
+- images/blog/microsoft-365-community-pnp-march-2021-update/teams-samples-promo.jpg
+- images/blog/microsoft-365-community-pnp-march-2021-update/sharing-is-caring-promo-1024x576.png
+- images/blog/microsoft-365-community-pnp-march-2021-update/companies-in-march-2021.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 {{< image alt="march-2021-pnp-monthly-update-promo.png" src="images/blog/microsoft-365-community-pnp-march-2021-update/march-2021-pnp-monthly-update-promo.png" >}}

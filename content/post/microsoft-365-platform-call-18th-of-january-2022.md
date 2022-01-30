@@ -1,4 +1,16 @@
-# Microsoft 365 Platform Call -- 18th of January, 2022
+---
+title: "Microsoft 365 Platform Call -- 18th of January, 2022"
+date: 2022-01-19T03:18:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-platform-call-18th-of-january-2022/recording-18th-jan.png
+- images/blog/microsoft-365-platform-call-18th-of-january-2022/220118-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="recording-18th-jan.png" src="images/blog/microsoft-365-platform-call-18th-of-january-2022/recording-18th-jan.png" >}}
 Microsoft 365 Platform Community Call - weekly community call recording

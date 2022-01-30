@@ -1,4 +1,14 @@
-# Introduction to JSON
+---
+title: "Introduction to JSON"
+date: 2021-02-10T11:47:00-05:00
+author: "Bob German"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 It seems like JSON is everywhere these days. [Adaptive
 cards](https://adaptivecards.io/), [Microsoft Teams app

@@ -1,4 +1,15 @@
-::: {#D4E-001-4 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 140 - Simon Ågren (Advania)"
+date: 2021-10-26T12:37:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/Thumb-Ep140October25.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#D4E-001-4 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +892,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 140 - Simon Ågren (Advania)
+
 :::
 
 ::: ba-option-wrapper

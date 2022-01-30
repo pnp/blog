@@ -1,4 +1,26 @@
-# Creating a video portal in SharePoint with JSON formatted document library
+---
+title: "Creating a video portal in SharePoint with JSON formatted document library"
+date: 2021-12-03T02:18:00-05:00
+author: ""
+categories: []
+images:
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_1-1638227104052.png
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_2-1638227193903.png
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_3-1638227225340.png
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_4-1638227250191.png
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_5-1638227276106.png
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_6-1638227301475.png
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_7-1638227333192.png
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_8-1638227355460.png
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_9-1638227433322.png
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_10-1638227461663.png
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_11-1638227490353.png
+- images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_12-1638227543478.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Often times we store videos in SharePoint and use the file viewer or the
 highlighted content web parts to display videos on the homepage of the

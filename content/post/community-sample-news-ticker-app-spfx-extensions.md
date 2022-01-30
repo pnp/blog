@@ -1,4 +1,14 @@
-# Community Sample: News Ticker app (SPFx Extensions)
+---
+title: "Community Sample: News Ticker app (SPFx Extensions)"
+date: 2021-05-10T07:21:00-04:00
+author: "Ari Gunawan"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 You might be familiar with the running text that shows some breaking
 news on a news tv channel. I think it would be nice if we have a similar

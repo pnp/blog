@@ -1,4 +1,26 @@
-# [Microsoft 365 PnP Community -- December 2021 update
+---
+title: "Microsoft 365 PnP Community -- December 2021 update"
+date: 2021-12-22T05:17:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-community-december-2021-update/dec-2021-pnp-promo.png
+- images/blog/microsoft-365-pnp-community-december-2021-update/pnp-community-model.png
+- images/blog/microsoft-365-pnp-community-december-2021-update/VesaJuvonen_0-1629736432373.png
+- images/blog/microsoft-365-pnp-community-december-2021-update/graph-toolkit.jpg
+- images/blog/microsoft-365-pnp-community-december-2021-update/community-dcos.png
+- images/blog/microsoft-365-pnp-community-december-2021-update/spfx-gallery.png
+- images/blog/microsoft-365-pnp-community-december-2021-update/teams-samples-promo.jpg
+- images/blog/microsoft-365-pnp-community-december-2021-update/power-platform-samples.png
+- images/blog/microsoft-365-pnp-community-december-2021-update/script-gallery.png
+- images/blog/microsoft-365-pnp-community-december-2021-update/independent-connectors.png
+- images/blog/microsoft-365-pnp-community-december-2021-update/sharing-is-caring-promo-1024x576.png
+- images/blog/microsoft-365-pnp-community-december-2021-update/dec-2021-companies.png
+tags: []
+type: "regular"
+draft: false
+
+---# [Microsoft 365 PnP Community -- December 2021 update
 {{< image alt="dec-2021-pnp-promo.png" src="images/blog/microsoft-365-pnp-community-december-2021-update/dec-2021-pnp-promo.png" >}}
 
 Microsoft 365 Community (PnP) December 2021 update is out with a summary

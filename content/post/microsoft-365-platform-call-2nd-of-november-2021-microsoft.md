@@ -1,4 +1,16 @@
-# Microsoft 365 Platform Call -- 2nd of November, 2021 - Microsoft Ignite 2021 watch party
+---
+title: "Microsoft 365 Platform Call -- 2nd of November, 2021 - Microsoft Ignite 2021 watch party"
+date: 2021-11-05T03:51:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-platform-call-2nd-of-november-2021-microsoft/recording-2nd-nov.png
+- images/blog/microsoft-365-platform-call-2nd-of-november-2021-microsoft/211102-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 {{< image alt="recording-2nd-nov.png" src="images/blog/microsoft-365-platform-call-2nd-of-november-2021-microsoft/recording-2nd-nov.png" >}}

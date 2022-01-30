@@ -1,4 +1,16 @@
-# Copy a list - with list items - to another site
+---
+title: "Copy a list - with list items - to another site"
+date: 2021-04-01T08:47:00-04:00
+author: "will holland"
+categories: []
+images:
+- images/blog/copy-a-list-with-list-items-to-another-site/sad-mario.png
+- images/blog/copy-a-list-with-list-items-to-another-site/you-win.jpg
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## The Problem 
 

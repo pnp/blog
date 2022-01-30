@@ -1,4 +1,16 @@
-::: {#423-001-8 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Graph Fundamentals learning path -- Module 1"
+date: 2021-04-01T03:06:00-04:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/microsoft-graph-fundamentals-learning-path-module-1/GraphFun.png
+- images/blog/microsoft-graph-fundamentals-learning-path-module-1/GraphFun-youdidit1.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#423-001-8 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Graph Fundamentals learning path -- Module 1
+
 :::
 
 ::: ba-option-wrapper

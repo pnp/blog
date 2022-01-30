@@ -1,4 +1,15 @@
-# SharePoint Framework Community Call Recording -- 6th of May, 2021
+---
+title: "SharePoint Framework Community Call Recording -- 6th of May, 2021"
+date: 2021-05-07T12:41:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/sharepoint-framework-community-call-recording-6th-of-may-2021/210506-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community

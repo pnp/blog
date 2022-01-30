@@ -1,4 +1,14 @@
-# Microsoft 365 Dev Podcast - SPO Performance with Sean McDonough
+---
+title: "Microsoft 365 Dev Podcast - SPO Performance with Sean McDonough"
+date: 2021-08-24T06:26:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Sean McDonough shares his tips and tricks for improving SPO performance.
 Sean\'s tips are for developers, administrators and users!

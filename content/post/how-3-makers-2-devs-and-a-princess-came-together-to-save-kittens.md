@@ -1,4 +1,18 @@
-# How 3 makers, 2 devs and a princess came together to save kittens for a hackathon
+---
+title: "How 3 makers, 2 devs and a princess came together to save kittens for a hackathon"
+date: 2021-10-23T08:53:00-04:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/solution-overview.png
+- images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/PetrolPushTitle.png
+- images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/App-MapFields.png
+- images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/App-Details.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 {{< image alt="solution-overview.png" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/solution-overview.png" >}}

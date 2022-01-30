@@ -1,4 +1,41 @@
-# How to create an improved Microsoft Teams Files approval process using Azure Logic Apps
+---
+title: "How to create an improved Microsoft Teams Files approval process using Azure Logic Apps"
+date: 2021-02-12T05:46:00-05:00
+author: "Vesa Nopanen"
+categories: []
+images:
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/2021-02-10_22-02-47.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-55.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-58.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-59.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-60.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-61.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-62.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-63.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-64.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-65.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-66.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-67.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-68.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-69.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-70.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-71.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-72.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-73.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-74.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-75.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-76.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-77.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-78.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-79.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-80.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-81.png
+- images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-83.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 We are all there during some days: Power Automate Premium is the key to
 the next level but there is no way we could justify that licensing --

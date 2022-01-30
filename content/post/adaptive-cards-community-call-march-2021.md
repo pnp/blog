@@ -1,4 +1,15 @@
-# Adaptive Cards community call -- March 2021
+---
+title: "Adaptive Cards community call -- March 2021"
+date: 2021-03-17T01:15:00-04:00
+author: "Matt Hidinger"
+categories: []
+images:
+- images/blog/adaptive-cards-community-call-march-2021/THumbnailTitleSlide.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="THumbnailTitleSlide.png" src="images/blog/adaptive-cards-community-call-march-2021/THumbnailTitleSlide.png" >}}
 

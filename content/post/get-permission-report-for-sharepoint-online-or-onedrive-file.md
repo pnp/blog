@@ -1,4 +1,14 @@
-# Get Permission Report for SharePoint Online or OneDrive File using CLI for Microsoft 365
+---
+title: "Get Permission Report for SharePoint Online or OneDrive File using CLI for Microsoft 365"
+date: 2021-09-29T03:29:00-04:00
+author: "Arjun Menon"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 There were couple of folks who were asking me whether there are some
 ways where we can generate a Permission Report for a particular file in

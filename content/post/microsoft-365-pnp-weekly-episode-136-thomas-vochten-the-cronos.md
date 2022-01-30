@@ -1,4 +1,15 @@
-::: {#F1D-003-6 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 136 - Thomas Vochten (The Cronos Group)"
+date: 2021-09-28T03:15:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-136-thomas-vochten-the-cronos/Thumb-Ep136.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#F1D-003-6 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +892,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 136 - Thomas Vochten (The Cronos Group)
+
 :::
 
 ::: ba-option-wrapper

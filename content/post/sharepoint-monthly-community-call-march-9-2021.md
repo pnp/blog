@@ -1,4 +1,15 @@
-# SharePoint monthly community call -- March 9, 2021
+---
+title: "SharePoint monthly community call -- March 9, 2021"
+date: 2021-03-09T11:19:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/sharepoint-monthly-community-call-march-9-2021/march-sp-monthly-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 The SharePoint PnP Community monthly call is our general monthly review

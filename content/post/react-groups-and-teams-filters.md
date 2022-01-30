@@ -1,4 +1,20 @@
-# React Groups and Teams Filters
+---
+title: "React Groups and Teams Filters"
+date: 2021-05-15T04:02:00-04:00
+author: "Alison Collins"
+categories: []
+images:
+- images/blog/react-groups-and-teams-filters/img1.png
+- images/blog/react-groups-and-teams-filters/img2.png
+- images/blog/react-groups-and-teams-filters/img3.png
+- images/blog/react-groups-and-teams-filters/option filter.png
+- images/blog/react-groups-and-teams-filters/switch group list.png
+- images/blog/react-groups-and-teams-filters/ternary.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 In this article I'll go over both of the filters you can find in my
 React Groups and Teams Filters webpart. The webpart is useful for site

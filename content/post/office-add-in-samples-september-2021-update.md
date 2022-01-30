@@ -1,4 +1,15 @@
-# Office Add-in Samples -- September 2021 update
+---
+title: "Office Add-in Samples -- September 2021 update"
+date: 2021-09-27T08:07:00-04:00
+author: "David Chesnut"
+categories: []
+images:
+- images/blog/office-add-in-samples-september-2021-update/DavidChesnut_0-1632174402426.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 The Office Add-ins developer platform team has new updates to share this
 month on Office Add-in samples.

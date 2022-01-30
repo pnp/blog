@@ -1,4 +1,16 @@
-# Azure Cloud Shell issue when using CLI for Microsoft 365 - Workaround
+---
+title: "Azure Cloud Shell issue when using CLI for Microsoft 365 - Workaround"
+date: 2021-10-18T04:24:00-04:00
+author: "Arjun Menon"
+categories: []
+images:
+- images/blog/azure-cloud-shell-issue-when-using-cli-for-microsoft-365/ArjunMenon_0-1634207520847.jpeg
+- images/blog/azure-cloud-shell-issue-when-using-cli-for-microsoft-365/ArjunMenon_1-1634207520863.jpeg
+tags: []
+type: "regular"
+draft: false
+
+---
 
 [Azure Cloud
 Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview) is

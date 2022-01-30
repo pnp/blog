@@ -1,4 +1,14 @@
-# Microsoft 365 Developer Podcast - Microsoft 365 App Certification with Orion O\'Malley
+---
+title: "Microsoft 365 Developer Podcast - Microsoft 365 App Certification with Orion O\\'Malley"
+date: 2021-09-20T08:31:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Orion O\'Malley joins Jeremy and Paul to talk about the Microsoft 365
 App Certification program and it\'s benefits for organizations and

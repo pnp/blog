@@ -1,4 +1,15 @@
-::: {#38D-003-7 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 135 - Adis Jugo (Nubelus)"
+date: 2021-09-22T09:22:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-135-adis-jugo-nubelus/pnp-weekly-135.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#38D-003-7 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +892,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 135 - Adis Jugo (Nubelus)
+
 :::
 
 ::: ba-option-wrapper

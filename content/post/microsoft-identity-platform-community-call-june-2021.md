@@ -1,4 +1,18 @@
-::: {#C5E-007-4 .ServiceNodeInfoHeader}
+---
+title: "Microsoft Identity Platform community call -- June 2021"
+date: 2021-06-25T05:14:00-04:00
+author: "Andrew Benson"
+categories: []
+images:
+- images/blog/microsoft-identity-platform-community-call-june-2021/ViewPorter.png
+- images/blog/microsoft-identity-platform-community-call-june-2021/ViewPorter.png
+- images/blog/microsoft-identity-platform-community-call-june-2021/IDArchitecture.png
+- images/blog/microsoft-identity-platform-community-call-june-2021/ViewPorter.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#C5E-007-4 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +895,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft Identity Platform community call -- June 2021
+
 :::
 
 ::: ba-option-wrapper

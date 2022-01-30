@@ -1,4 +1,14 @@
-# Microsoft 365 Developer Podcast - Azure AD Entitlement Management and Governance with Elisabeth Olso
+---
+title: "Microsoft 365 Developer Podcast - Azure AD Entitlement Management and Governance with Elisabeth Olso"
+date: 2021-07-22T06:47:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Elisabeth Olson joins the show to answer questions about Azure AD
 Entitlement management and other AAD governance topics.

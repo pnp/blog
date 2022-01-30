@@ -1,4 +1,15 @@
-::: {#F1D-003-6 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 147 - Markus Möller (Avanade)"
+date: 2021-12-14T12:46:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/Thumb-Ep147-December1322.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#F1D-003-6 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +892,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 147 - Markus Möller (Avanade)
+
 :::
 
 ::: ba-option-wrapper

@@ -1,4 +1,16 @@
-# Microsoft 365 Developer Community Call recording -- 19th of August, 2021
+---
+title: "Microsoft 365 Developer Community Call recording -- 19th of August, 2021"
+date: 2021-08-20T03:41:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-developer-community-call-recording-19th-of-august/recording-august-19th.png
+- images/blog/microsoft-365-developer-community-call-recording-19th-of-august/210819-together-mode.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="recording-august-19th.png" src="images/blog/microsoft-365-developer-community-call-recording-19th-of-august/recording-august-19th.png" >}}
  

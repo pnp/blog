@@ -1,4 +1,16 @@
-# Simulating 429 Throttling in Microsoft Graph API (SharePoint/OneDrive workloads)
+---
+title: "Simulating 429 Throttling in Microsoft Graph API (SharePoint/OneDrive workloads)"
+date: 2021-08-20T06:14:00-04:00
+author: "Cameron Dwyer"
+categories: []
+images:
+- images/blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/image.png
+- images/blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/image-1.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Developing and testing your error handling code is really important to
 ensure the end product is resilient. I've always found this area to be a

@@ -1,4 +1,21 @@
-# Save an email attachment to a custom path with Power Automate
+---
+title: "Save an email attachment to a custom path with Power Automate"
+date: 2021-06-20T11:11:00-04:00
+author: "Damo Bird 365"
+categories: []
+images:
+- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_0-1624209543175.png
+- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_1-1624209543161.png
+- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_2-1624209543294.png
+- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_3-1624209543448.png
+- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_4-1624209543193.png
+- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_8-1624210593508.png
+- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_6-1624209543237.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 This use case was generated from an idea involving Xerox Docucentres,
 which enables end-users to email themselves a scanned document. Equally,

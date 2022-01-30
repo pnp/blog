@@ -1,4 +1,23 @@
-::: {#D5F-007-1 .ServiceNodeInfoHeader}
+---
+title: "Guidance On How To Use React DataTable Webpart"
+date: 2021-09-29T11:59:00-04:00
+author: "Chandani Prajapati"
+categories: []
+images:
+- images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png
+- images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png
+- images/blog/guidance-on-how-to-use-react-datatable-webpart/Output1.png
+- images/blog/guidance-on-how-to-use-react-datatable-webpart/Add_An_App.png
+- images/blog/guidance-on-how-to-use-react-datatable-webpart/Add-Webpart.png
+- images/blog/guidance-on-how-to-use-react-datatable-webpart/Search_Sort_Config.png
+- images/blog/guidance-on-how-to-use-react-datatable-webpart/Advanced_Features.png
+- images/blog/guidance-on-how-to-use-react-datatable-webpart/Output1.png
+- images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#D5F-007-1 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +900,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Guidance On How To Use React DataTable Webpart
+
 :::
 
 ::: ba-option-wrapper

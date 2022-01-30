@@ -1,4 +1,24 @@
-::: {#437-003-1 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Community -- June 2021 update"
+date: 2021-06-10T05:25:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-community-june-2021-update/pnp-june-promo-summary.png
+- images/blog/microsoft-365-pnp-community-june-2021-update/pnp-community-model.png
+- images/blog/microsoft-365-pnp-community-june-2021-update/graph-toolkit.jpg
+- images/blog/microsoft-365-pnp-community-june-2021-update/community-dcos.png
+- images/blog/microsoft-365-pnp-community-june-2021-update/spfx-gallery.png
+- images/blog/microsoft-365-pnp-community-june-2021-update/teams-samples-promo.jpg
+- images/blog/microsoft-365-pnp-community-june-2021-update/power-platform-samples.png
+- images/blog/microsoft-365-pnp-community-june-2021-update/script-gallery.png
+- images/blog/microsoft-365-pnp-community-june-2021-update/sharing-is-caring-promo-1024x576.png
+- images/blog/microsoft-365-pnp-community-june-2021-update/may-2021-compaies.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#437-003-1 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -893,7 +913,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Community -- June 2021 update
+
 :::
 
 ::: ba-option-wrapper

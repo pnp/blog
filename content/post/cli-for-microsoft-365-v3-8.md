@@ -1,4 +1,14 @@
-# CLI for Microsoft 365 v3.8
+---
+title: "CLI for Microsoft 365 v3.8"
+date: 2021-03-30T10:00:00-04:00
+author: "Garry Trinder"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 We've just published a new version of the CLI for Microsoft 365 with new
 commands for working with and managing Microsoft 365 tenants and

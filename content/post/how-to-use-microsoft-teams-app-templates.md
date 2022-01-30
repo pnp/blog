@@ -1,4 +1,14 @@
-# How to use Microsoft Teams app templates
+---
+title: "How to use Microsoft Teams app templates"
+date: 2021-01-13T09:08:00-05:00
+author: "Matti Paukkonen"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Microsoft Teams can be extended in several different ways using no-code,
 low-code and custom code solutions. Microsoft Teams app templates are a

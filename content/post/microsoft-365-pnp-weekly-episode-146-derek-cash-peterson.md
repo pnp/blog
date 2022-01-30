@@ -1,4 +1,15 @@
-::: {#D5F-007-1 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 146 - Derek Cash-Peterson (Sympraxis Consulting)"
+date: 2021-12-07T12:27:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/pnp-weekly-146.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#D5F-007-1 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -882,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 146 - Derek Cash-Peterson (Sympraxis Consulting)
+
 :::
 
 ::: ba-option-wrapper

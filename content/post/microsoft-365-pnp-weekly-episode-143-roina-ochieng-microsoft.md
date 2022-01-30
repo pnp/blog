@@ -1,4 +1,15 @@
-::: {#437-003-1 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 143 - Roina Ochieng (Microsoft)"
+date: 2021-11-16T01:13:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/Thumb-Ep143-November15.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#437-003-1 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -882,7 +893,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 143 - Roina Ochieng (Microsoft)
+
 :::
 
 ::: ba-option-wrapper

@@ -1,4 +1,15 @@
-# Office Add-ins community call -- August 2021
+---
+title: "Office Add-ins community call -- August 2021"
+date: 2021-08-22T08:43:00-04:00
+author: "David Chesnut"
+categories: []
+images:
+- images/blog/office-add-ins-community-call-august-2021/office-add-ins-august-agenda.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Call Summary: 
 

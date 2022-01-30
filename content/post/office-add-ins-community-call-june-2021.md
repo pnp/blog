@@ -1,4 +1,15 @@
-# Office Add-ins community call -- June 2021
+---
+title: "Office Add-ins community call -- June 2021"
+date: 2021-06-16T08:33:00-04:00
+author: "David Chesnut"
+categories: []
+images:
+- images/blog/office-add-ins-community-call-june-2021/office-add-ins-call-recording-9th-june.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="office-add-ins-call-recording-9th-june.png" src="images/blog/office-add-ins-community-call-june-2021/office-add-ins-call-recording-9th-june.png" >}}
 

@@ -1,4 +1,21 @@
-::: {#BC9-007-2 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 self-service using Power Apps"
+date: 2022-01-12T06:00:00-05:00
+author: "Jan Bakker"
+categories: []
+images:
+- images/blog/microsoft-365-self-service-using-power-apps/1641653378.png
+- images/blog/microsoft-365-self-service-using-power-apps/1641747471.png
+- images/blog/microsoft-365-self-service-using-power-apps/1641917465.png
+- images/blog/microsoft-365-self-service-using-power-apps/1641748265.png
+- images/blog/microsoft-365-self-service-using-power-apps/PowerAppsFlow.png
+- images/blog/microsoft-365-self-service-using-power-apps/1641918438.png
+- images/blog/microsoft-365-self-service-using-power-apps/JanBakker_0-1641843830957.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#BC9-007-2 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +898,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 self-service using Power Apps
+
 :::
 
 ::: ba-option-wrapper

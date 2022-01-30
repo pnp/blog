@@ -1,4 +1,14 @@
-# Microsoft 365 Developer Podcast - Viva Connections with John Nguyen and Luca Bandinelli
+---
+title: "Microsoft 365 Developer Podcast - Viva Connections with John Nguyen and Luca Bandinelli"
+date: 2021-06-17T09:53:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Paul talks with John Nguyen and Luca Bandinelli about the developer
 story for Viva Connections.

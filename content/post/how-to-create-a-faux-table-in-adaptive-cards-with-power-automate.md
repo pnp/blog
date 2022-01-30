@@ -1,4 +1,15 @@
-# How to create a (faux) table in Adaptive Cards with Power Automate
+---
+title: "How to create a (faux) table in Adaptive Cards with Power Automate"
+date: 2021-03-05T08:30:00-05:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/LuiseFreese_12-1629042402697.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 In this blog post we learn how we can display a table in an Adaptive
 Card, pull data from a SharePoint list and use Power Automate to do that

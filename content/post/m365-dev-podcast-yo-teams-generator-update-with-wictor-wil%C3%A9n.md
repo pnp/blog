@@ -1,4 +1,14 @@
-# M365 Dev Podcast - yo Teams Generator Update with Wictor Wilén
+---
+title: "M365 Dev Podcast - yo Teams Generator Update with Wictor Wilén"
+date: 2021-10-18T06:16:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Wictor Wilén returns to provide an update to the yo Teams generator
 project.

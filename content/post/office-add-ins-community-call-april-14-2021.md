@@ -1,4 +1,14 @@
-# [ Office add-ins community call -- April 14, 2021](/t5/microsoft-365-pnp-blog/
+---
+title: "Office Add-ins community call -- April 14, 2021"
+date: 2021-05-03T12:56:00-04:00
+author: "David Chesnut"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---# [ Office add-ins community call -- April 14, 2021](/t5/microsoft-365-pnp-blog/
 
 ## Call summary 
 

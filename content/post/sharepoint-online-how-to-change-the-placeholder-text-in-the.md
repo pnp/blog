@@ -1,4 +1,16 @@
-# SharePoint Online: How to change the placeholder text in the search box
+---
+title: "SharePoint Online: How to change the placeholder text in the search box"
+date: 2021-07-13T04:52:00-04:00
+author: "Ganesh Sanap"
+categories: []
+images:
+- images/blog/sharepoint-online-how-to-change-the-placeholder-text-in-the/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png
+- images/blog/sharepoint-online-how-to-change-the-placeholder-text-in-the/sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Placeholder text is the text that appears in the search box before user
 starts typing into it. The placeholder text may help your users about

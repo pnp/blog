@@ -1,4 +1,15 @@
-# Start building apps for Teams
+---
+title: "Start building apps for Teams"
+date: 2021-03-28T11:41:00-04:00
+author: "Waldek Mastykarz"
+categories: []
+images:
+- images/blog/start-building-apps-for-teams/teams-hero.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 {{< image alt="teams-hero.png" src="images/blog/start-building-apps-for-teams/teams-hero.png" >}}
 
@@ -80,7 +91,7 @@ community calls, offer guidance, record videos, share sample apps, and
 build tools to speed up development. You can find everything we have to
 offer at [aka.ms/m365pnp](https://aka.ms/m365pnp).
 
-## Start building apps for Teams today 
+# today 
 
 Over 250 million users work with Microsoft 365 and Microsoft Teams plays
 a key role in people\'s workdays. By integrating your app with Teams you

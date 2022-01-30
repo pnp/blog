@@ -1,4 +1,15 @@
-::: {#7B0-003-5 .ServiceNodeInfoHeader}
+---
+title: "Microsoft 365 PnP Weekly - Episode 122"
+date: 2021-04-13T04:16:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-122/Thumb-Ep122.png
+tags: []
+type: "regular"
+draft: false
+
+---::: {#7B0-003-5 .ServiceNodeInfoHeader}
 :::
 
 ::: lia-page
@@ -881,7 +892,7 @@ Did you mean: [](#){#doYouMean .lia-link-navigation .do-you-mean-link}
 ::: ba-subject-header-wrapper
 ::: ba-subject-wrapper
 ::: ba-title
-# Microsoft 365 PnP Weekly - Episode 122
+
 :::
 
 ::: ba-option-wrapper

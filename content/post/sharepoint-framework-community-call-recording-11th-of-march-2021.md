@@ -1,4 +1,15 @@
-# SharePoint Framework Community Call Recording -- 11th of March, 2021
+---
+title: "SharePoint Framework Community Call Recording -- 11th of March, 2021"
+date: 2021-03-12T01:38:00-05:00
+author: "Vesa Juvonen"
+categories: []
+images:
+- images/blog/sharepoint-framework-community-call-recording-11th-of-march-2021/PictureTime-OutsideInTheGreenAmphitheater.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
 call recording from March 11th is now available from the Microsoft 365

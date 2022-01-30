@@ -1,5 +1,15 @@
+---
+title: "Microsoft 365 Developer Podcast - Secretless Apps with Christos Matskas"
+date: 2021-07-26T07:32:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
 
-# Microsoft 365 Developer Podcast - Secretless Apps with Christos Matskas
+---
+
 
 Christos Mastkas returns to the show to talk with Jeremy and Paul about
 \"secretless\" applications and the latest on Azure.Identity.

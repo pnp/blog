@@ -1,4 +1,19 @@
-# How to beautify your Power Apps
+---
+title: "How to beautify your Power Apps"
+date: 2021-04-21T02:36:00-04:00
+author: "Luise Freese"
+categories: []
+images:
+- images/blog/how-to-beautify-your-power-apps/fluentUIicons.png
+- images/blog/how-to-beautify-your-power-apps/showpopup.gif
+- images/blog/how-to-beautify-your-power-apps/controls.png
+- images/blog/how-to-beautify-your-power-apps/expand.gif
+- images/blog/how-to-beautify-your-power-apps/beautify.gif
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Power Apps offers you a variety of icons - and recently, there were nice
 additions announced and rolled out. But if we want to create even more

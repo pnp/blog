@@ -1,4 +1,14 @@
-# Microsoft 365 Dev Podcast - Building an Application on the Microsoft 365 Platform with Elio Struyf
+---
+title: "Microsoft 365 Dev Podcast - Building an Application on the Microsoft 365 Platform with Elio Struyf"
+date: 2021-07-12T05:50:00-04:00
+author: "Paul Schaeflein"
+categories: []
+images: []
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Elio Struyf joins Paul to talk about his experiences while building an
 application in the Microsoft 365 ecosystem, including the Microsoft for

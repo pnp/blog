@@ -1,4 +1,15 @@
-# How to convert HTML content or file to PDF using the Muhimbi API?
+---
+title: "How to convert HTML content or file to PDF using the Muhimbi API?"
+date: 2022-01-05T02:25:00-05:00
+author: "Chandani Prajapati"
+categories: []
+images:
+- images/blog/how-to-convert-html-content-or-file-to-pdf-using-the-muhimbi-api/ChandaniPrajapati_0-1639758794000.png
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Introduction 
 This article is used whenever you are getting any content from
