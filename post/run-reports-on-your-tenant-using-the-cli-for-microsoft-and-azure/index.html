@@ -133,7 +133,7 @@ For demo purposes I called my resource group <em>cli-test</em>.</p>
 can use. Click on the <strong>add</strong> button and search for <strong>User Assigned
 Managed Identity</strong> to create the new managed identity. Simply provide a
 name and create your new managed identity. 
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287158i3798606F0854681C/image-size/large?v=v2&px=999" alt=cli-ma.png title=cli-ma.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma_hu3ab7fa70767a19ce15ff6e1c4ffd12f2_159114_750x0_resize_q100_h2_box_3.webp alt=cli-ma.png>
  
 Once the managed identity is created it still need permissions to do
 anything. Just creating it is not enough. In order to use the managed
@@ -154,7 +154,7 @@ Navigate to <a href=https://portal.azure.com>https://portal.azure.com</a> selec
 and pick <strong>Enterprise Applications</strong>. In the Application Filter filter
 on <strong>Managed Identities</strong> and make sure to pick the <strong>Application Id</strong>
 of your newly created managed identity. 
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288466iB87F18CB4EBF773F/image-size/large?v=v2&px=999" alt=cli-ma-id.png title=cli-ma-id.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma-id_huf30d9357363a227faa00f6f61fd37a91_120741_750x0_resize_q100_h2_box_3.webp alt=cli-ma-id.png></p>
 <p>Store it somewhere save as we need it at a later moment. </p>
 <p>Create a Logic App</p>
 <p>As we need a Logic App to orchestrate the execution of our script the
@@ -285,7 +285,7 @@ Put in the Container Group name as a parameter and check for status
 for the same status. In the true statement we can implement the logic
 for retrieving our data. You can use the <strong>Get logs from a container
 instance</strong> and e-mail the output to yourself. </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288482i9B5AB92362145240/image-size/large?v=v2&px=999" alt=cli-la-cleanup.png title=cli-la-cleanup.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-la-cleanup_hu8e1488fb2ad14efdb71af936b3db0228_63950_648x0_resize_q100_h2_box_3.webp alt=cli-la-cleanup.png>
 <p>In the false branche add an wait <strong>action</strong> that waits for 10 or 15
 seconds. That will make sure it takes a while before it retries checking
 the status to see if it is finished.  </p>

@@ -497,7 +497,7 @@ who initiated the flow: *interestingly, only the <strong>AAD ID</strong> is ava
 as dynamic content from the trigger, but thankfully the <strong>Get user
 profile (V2)</strong> action is able to handle this and return all of the
 information required:</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277808iCD4855FC3B0752D2/image-dimensions/640x335?v=v2" alt=z3019494_1-1620122926624.png title=z3019494_1-1620122926624.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620122926624_hub851447969dda3d92b3ce079b02804bd_49539_640x0_resize_q100_h2_box_3.webp alt=z3019494_1-1620122926624.png>
 <h2 id=4-check-for-chat-or-channel-conversation-message-and-what-action-to-take>4. Check for <em>Chat</em> or <em>Channel</em> conversation message and what action to take</h2>
 <p>We then build the <strong>Original message information</strong> block by testing
 whether the message came from a private chat, or from a Team channel
@@ -543,7 +543,7 @@ hours inputted.</li>
 the <strong>MinutesToDelay</strong> variable to a "0" or simply use the hours
 inputted.</li>
 </ul>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277813i83D8267ABE862C54/image-size/large?v=v2&px=999" alt=z3019494_1-1620123840984.png title=z3019494_1-1620123840984.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620123840984_hu1850c5264555eae3fd2ce46d869de1b3_436902_750x0_resize_q100_h2_box_3.webp alt=z3019494_1-1620123840984.png>
 <p>Finally, the <strong>TotalTimeDelay</strong> is set to the following expression:</p>
 <pre><code>mul(add(mul(variables('HoursToDelay'),60),variables('MinutesToDelay')),60)
 </code></pre>
@@ -800,7 +800,8 @@ option.</p>
 <h3 id=7-oops---dont-forget-the-characters-that-adaptive-cards-dislike>7. Oops - don't forget the characters that adaptive cards dislike!</h3>
 <p>Two more <strong>Compose</strong> actions are required before we pop the reminder
 card out, namely:</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277818i34EF39EC3B27ADD2/image-size/large?v=v2&px=999" alt=z3019494_2-1620126836459.png title=z3019494_2-1620126836459.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_2-1620126836459_hu60f764d53a858332aa6e93370daa8aca_14955_669x0_resize_q100_h2_box_3.webp alt=z3019494_2-1620126836459.png>
 Unfortunately if you wanted to insert the **Plain Text Message **dynamic
 content into the replace formula, you're almost out of luck. Here's
 where **Compose **comes to the rescue. The <strong>Compose - PTM without
@@ -813,11 +814,11 @@ reminder card to spit the dummy with any double quotation marks.</p>
 <p>With the <code>TotalChannelBlock </code>{.sample}variable inserted into the
 appropriate location so that the correct information about the message
 is displayed to the user who initiated the flow:
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277819iC021F491321F4D5F/image-size/large?v=v2&px=999" alt=z3019494_3-1620127059580.png title=z3019494_3-1620127059580.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_3-1620127059580_hu38e170e9f202ef79c89f1b4e87eddfb5_8579_750x0_resize_q100_h2_box_3.webp alt=z3019494_3-1620127059580.png></p>
 <p>...and a summary at the bottom of the card (pop the <strong>Show advanced
 options</strong> open!) to ensure a summary is sent - especially useful if your
 smartwatch notifications rely on a summary of sorts:
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277820iC61707C2B0D49C6A/image-size/large?v=v2&px=999" alt=z3019494_0-1620127122452.png title=z3019494_0-1620127122452.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_0-1620127122452_hu1b317eff6785c789a33baf9233efac0d_8142_650x0_resize_q100_h2_box_3.webp alt=z3019494_0-1620127122452.png>
  
  </p>
 <pre tabindex=0><code class=language-{.lia-code-sample data-lang={.lia-code-sample>{

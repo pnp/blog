@@ -111,7 +111,7 @@ assumed all emails will come from xerox@mydomain.com and the email must
 contain an attachment! Ideally, you want to limit the emails that this
 Flow will trigger by using the available parameters for that action.
 ::: wp-block-image
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290135i421399354E2C6D9B/image-size/large?v=v2&px=999" alt title=DamoBird365_0-1624209543175.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_0-1624209543175_huec2a062672ba1cc19f7a6d28334fbd13_11713_608x0_resize_q100_h2_box_3.webp alt>
 To define the locations for saving files, I have used an <strong>array</strong> in
 a <strong>compose action</strong> (but don&rsquo;t panic!). You might want to use
 a <strong>SharePoint list</strong> as somewhere to save the specific subject or file
@@ -121,7 +121,7 @@ define these and all of the parameters are in one place. Creating a list
 in SharePoint might give you and/or other colleagues the ability to
 easily define and visualise the locations.
 ::: wp-block-image
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290134iCCC042CE4AF22D21/image-size/large?v=v2&px=999" alt title=DamoBird365_1-1624209543161.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_1-1624209543161_huc7eb338296dd7379a4a838fce8a65c29_4789_608x0_resize_q100_h2_box_3.webp alt></p>
 <p>The parameters for this flow are basic, a keyword for searching the
 Subject or Filename containing, which I have called <strong>Dept</strong>; and
 the <strong>Path</strong>, which can either be a folder or a Site Name. If you are
@@ -141,7 +141,7 @@ selected using an integer index</strong>&rdquo;. Using First() or calling the el
 by using an integer will allow you to simplify your Flow if you know the
 result will always be the first element.
 ::: wp-block-image
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290136iA97F78869C381E68/image-size/large?v=v2&px=999" alt title=DamoBird365_2-1624209543294.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_2-1624209543294_hu0f3562123fba370426cae17400853a56_12978_720x0_resize_q100_h2_box_3.webp alt></p>
 <h2 id=saving-the-files-to-a-custom-path>Saving the File(s) to a Custom Path</h2>
 <p>Using the **Create File **action for SharePoint, I am using
 the <strong>Attachments Name</strong> and <strong>Attachments Content</strong> dynamic expressions
@@ -159,7 +159,8 @@ supplying a custom path for the site or folder, you will have to
 select <strong>Enter Custom Value</strong> or Power Automate will try and resolve the
 address and error <strong>&lsquo;Site Address&rsquo; is required</strong> or the folder path with
 try and delete any additional text that you supply.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290138iE35F6C0E0E8EE234/image-size/large?v=v2&px=999" alt title=DamoBird365_3-1624209543448.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_3-1624209543448_hudda92166f120d55c53d6f110fa6262a6_27607_720x0_resize_q100_h2_box_3.webp alt>
 The expressions I have used both using the integer selection for the
 first array element and the first expression are as follows:</p>
 <p><strong>File Name</strong>: triggerOutputs()?[&lsquo;body/attachments&rsquo;]?[0]?[&lsquo;name&rsquo;]<br>
@@ -168,16 +169,16 @@ first(triggerOutputs()?[&lsquo;body/attachments&rsquo;])?[&lsquo;contentBytes&rs
 <p>To finish off my flow and this is personal preference, I have deleted
 the incoming email. Why keep it? The file attachment has been saved for
 me.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290139i38794C7778DB3DAB/image-size/large?v=v2&px=999" alt title=DamoBird365_4-1624209543193.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_4-1624209543193_hudf69636930ca515f8e3707dc070dd3ff_9367_720x0_resize_q100_h2_box_3.webp alt>
 <h2 id=see-it-in-action>See it in Action</h2>
 <p>Here I have an incoming email from the Xerox mailbox. I've been sent me
 an attachment from the Xerox Mailbox. This will trigger my flow.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290142iFD47C1B1F751E498/image-size/large?v=v2&px=999" alt=DamoBird365_8-1624210593508.png title=DamoBird365_8-1624210593508.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_8-1624210593508_huae26261fd0dcf4258e94f16bc49a3047_6042_720x0_resize_q100_h2_box_3.webp alt=DamoBird365_8-1624210593508.png>
  </p>
 <p>The filter action will look for each of the Dept values in the subject
 line and return a filtered array. In the example below, we output the
 ICT Path based on the subject line &ldquo;This file is for ICT thanks&rdquo;.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290140i8757D979900D3FCD/image-size/large?v=v2&px=999" alt title=DamoBird365_6-1624209543237.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_6-1624209543237_hub1cf8085119556f1dba79f9a78341dc5_13968_720x0_resize_q100_h2_box_3.webp alt>
 <p>What do the two Create File Actions look like? Here you can see the
 custom dynamic paths for both the Folder Path or Site Address. I am
 obviously saving the file twice here in order to demonstrate the two

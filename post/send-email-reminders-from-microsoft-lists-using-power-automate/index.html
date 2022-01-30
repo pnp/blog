@@ -106,30 +106,33 @@ send reminders 30 days in advance of the date.</p>
 <h2 id=issue-tracker-setup>Issue Tracker setup</h2>
 <p>You can get started with the <strong>Issue Tracker</strong> by navigating to
 Microsoft Lists, click "New list" and then select "Issue tracker".</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255016iE5F6922E245FF116/image-size/medium?v=v2&px=400" alt=issuetracker01 title=issuetracker01></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker01_hub7f54722fcfa801759a32256f9784ac4_43426_750x0_resize_q100_h2_box_3.webp alt=issuetracker01>
 <p>Review the sample and click "Use template".</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255017i9D7E8669308D5A33/image-size/medium?v=v2&px=400" alt=issuetracker02 title=issuetracker02></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker02_hu3f921253e488bf37d3c25cada714ae07_45259_750x0_resize_q100_h2_box_3.webp alt=issuetracker02>
 <p>Provide a name, color, icon and storage location (OneDrive aka "My
 lists" or SharePoint) and then click "Create". I am using "My
 lists" in this example.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255018i55DD854CD51F7BA3/image-size/medium?v=v2&px=400" alt=issuetracker03 title=issuetracker03></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker03_hud16afadcee05d46fdcf9365519577dba_15761_582x0_resize_q100_h2_box_3.webp alt=issuetracker03>
 <p>We will add a <em>Due Date</em> column to connect our reminders to. From
 <strong>Issue Tracker</strong> to the right of the <em>Date reported</em> column select <strong>+
 Add column</strong> or <strong>+</strong> and select "Date and Time". </p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255019i4F9BF68377BE2E80/image-size/medium?v=v2&px=400" alt=stormin_30_4-1613402858860.png title=stormin_30_4-1613402858860.png>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_4-1613402858860_hue2937935434cfa1df2ccaf45793f8cff_78895_716x0_resize_q100_h2_box_3.webp alt=stormin_30_4-1613402858860.png>
 Set Name to <em>Due Date</em> and click "Save".</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255030i29314B7422D64AC2/image-size/medium?v=v2&px=400" alt=stormin_30_5-1613403503451.png title=stormin_30_5-1613403503451.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_5-1613403503451_hu8b7d9eec6749b55481ac6ae1cd203b6b_65110_678x0_resize_q100_h2_box_3.webp alt=stormin_30_5-1613403503451.png>
 <h2 id=flow-build>Flow build</h2>
 <p>Create a new Flow by clicking "Automate" > "Power Automate" >
 "See your flows".</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255037iF42F2CF70F13D573/image-size/medium?v=v2&px=400" alt=image-23 title=image-23></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-23_hu8e9512cb5baa3634489d990d4a5c57f4_13131_750x0_resize_q100_h2_box_3.webp alt=image-23>
 <p>Click "New" > "Scheduled-from blank".</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255038iA0830174795B67B2/image-size/medium?v=v2&px=400" alt=image-24 title=image-24>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-24_huaa1b91ef7fa15dc4e6da0a74ff091321_13943_468x0_resize_q100_h2_box_3.webp alt=image-24>
 Provide a Flow name, I.e. <em>Issue Tracker &ndash; Daily</em>, set "Starting" to
 "10:00 AM", "Repeat every" to "1", "Day" and click "Create".</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255039i4EEF587A437F70E8/image-size/medium?v=v2&px=400" alt=image-25 title=image-25>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-25_hu354d2667cad5e82bcae14e9327071639_31085_750x0_resize_q100_h2_box_3.webp alt=image-25>
 <strong>Tip:</strong> Use the advanced options to set your target time zone.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255040i920F632CBDB4BCBE/image-size/medium?v=v2&px=400" alt=image-26 title=image-26></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-26_hu0b6955d3a43fed9be07dc02eaeb55012_14579_607x0_resize_q100_h2_box_3.webp alt=image-26>
 <p>Click "New step", search for "Variable" and select the "Initialize
 variable" action. </p>
 <p>Set the "Name" to <em>varNumDays</em>; "Type" to "Integer" and "Value"

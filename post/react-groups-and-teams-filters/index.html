@@ -103,13 +103,14 @@ it&rsquo;s information.The
 first filter switches the All Groups in my Organization to My Groups and
 the second filters the visibility of the groups ( Public/Private/All )</p>
 <p>In the screenshot below you can see the code for the buttons.
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280774i6C0240580AC8F4D4/image-size/large?v=v2&px=999" alt=img1.png title=img1.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/react-groups-and-teams-filters/img1_hu84eb8a9a617c68be1e59443315245a8a_71467_750x0_resize_q100_h2_box_3.webp alt=img1.png></p>
 <h2 id=visibility-filters>Visibility Filters</h2>
 <p>The first three buttons are the visibility filters. They filter the
 MyGroupResultsFiltered to be the button text you clicked. For example,
 if you click the &lsquo;Public&rsquo; button MyGroupResultsFiltered will be filtered
 to include only groups with the visibility set as &lsquo;Public&rsquo;.</p>
-<p>Let&rsquo;s dive deeper into what&rsquo;s happening. On click of, for instance, Private, the button calls the SwitchGroupList2 function (line 69) and passes through &lsquo;Private&rsquo; as a parameter. <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280775i666631F4E7738F6F/image-size/large?v=v2&px=999" alt=img2.png title=img2.png></p>
+<p>Let&rsquo;s dive deeper into what&rsquo;s happening. On click of, for instance, Private, the button calls the SwitchGroupList2 function (line 69) and passes through &lsquo;Private&rsquo; as a parameter.
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/react-groups-and-teams-filters/img2_huae67ad3855543460544e72d4437b8d99_20286_750x0_resize_q100_h2_box_3.webp alt=img2.png></p>
 <p>That parameter &lsquo;Private&rsquo; is now called &lsquo;Switch&rsquo; and next we check if
 that equals &lsquo;All&rsquo;.
 If it does and you clicked the button titled &lsquo;All&rsquo;, we want to set the
@@ -145,14 +146,16 @@ mode equals &lsquo;Private&rsquo;, we change the styling. If you selected the
 Private button the SwitchGroupList2 function will set the mode to be
 &lsquo;Private&rsquo; and, consequently, rendering the button with the class
 &lsquo;Selected Filter&rsquo;.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280777i621BDAEABE92A2A4/image-size/large?v=v2&px=999" alt=img3.png title=img3.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/react-groups-and-teams-filters/img3_hudecd0eb4c0343aa2543cf75403af3c7d_28359_750x0_resize_q100_h2_box_3.webp alt=img3.png>
 <h2 id=option-filter>Option Filter</h2>
-<p>On the bottom right of the heading before the groups you will either see a button titled &lsquo;My Groups&rsquo; or &lsquo;Groups In My Organization&rsquo;. <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280780iA0796B9CD323BD3E/image-size/large?v=v2&px=999" alt="option filter.png" title="option filter.png"></p>
+<p>On the bottom right of the heading before the groups you will either see a button titled &lsquo;My Groups&rsquo; or &lsquo;Groups In My Organization&rsquo;.
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/react-groups-and-teams-filters/option%20filter_hu0241d849ccb309790c6f4419b4ed44aa_34535_750x0_resize_q100_h2_box_3.webp alt="option filter.png"></p>
 <p>This button allows you to toggle between either displaying groups you
 are a member of or groups in your organization. On click of this button
 you call the SwitchGroupList function. ( Not the SwitchGroupList2
 function mentioned earlier )</p>
-<p>In this function we check if the title in state is &lsquo;Groups In My Organization&rsquo;. The title is what is displayed, meaning that if the button text is &lsquo;View My Groups&rsquo; the title is &lsquo;Groups In My Organization&rsquo;. <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280781i156E78B9D2C729F6/image-size/large?v=v2&px=999" alt="switch group list.png" title="switch group list.png"></p>
+<p>In this function we check if the title in state is &lsquo;Groups In My Organization&rsquo;. The title is what is displayed, meaning that if the button text is &lsquo;View My Groups&rsquo; the title is &lsquo;Groups In My Organization&rsquo;.
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/react-groups-and-teams-filters/switch%20group%20list_hu81957e02ebe4a6d472f242a2a585e7fc_7637_520x0_resize_q100_h2_box_3.webp alt="switch group list.png"></p>
 <p>If the title is &lsquo;Groups In My Organization&rsquo; we change it to be &lsquo;My
 Groups&rsquo;. The opposite also applies- if the title is &lsquo;My Groups&rsquo; we go
 ahead and change it to be &lsquo;Groups In My Organization&rsquo;.
@@ -160,7 +163,8 @@ Why is this part of the code? For two reasons: the first is because we
 want to toggle the button text and header text between &lsquo;Groups In My
 Organization&rsquo; and &lsquo;My Groups&rsquo; and also so that we can display the right
 information.</p>
-<p><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280782iA7EEBF7CD09C6FAF/image-size/large?v=v2&px=999" alt=ternary.png title=ternary.png> In the render there is a ternary operator that checks if the current selected option is &lsquo;My Groups&rsquo;.</p>
+<p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/react-groups-and-teams-filters/ternary_hu133ab4bffb00965b262fe70dcf89fece_18418_750x0_resize_q100_h2_box_3.webp alt=ternary.png> In the render there is a ternary operator that checks if the current selected option is &lsquo;My Groups&rsquo;.</p>
 <p>If this is true it maps through MyGroupResultsFiltered and displays the
 groups. If not, it renders All of the groups in your organization.
 I hope you liked this article and it helped you out with your filters!</p>

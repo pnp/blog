@@ -106,7 +106,7 @@ but I found it a little painful since the certificates only last 1 month
 and there&rsquo;s a different one for each project, so I need repeat the
 process frequently. Your teammates will need to do that as well.</p>
 <p><br>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280478i6D503778FAA3C4BE/image-size/large?v=v2&px=999" alt=localhostcert.png title=localhostcert.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/localhostcert_hu11b0a5d06f654541529f6eb27abc1669_14893_406x0_resize_q100_h2_box_3.webp alt=localhostcert.png></p>
 <p>[Here is an alternative approach in which you create your own
 certificate authority and build certs from that so you can install just
 one root certificate across all your projects! Each teammate can have
@@ -154,12 +154,12 @@ your part.</p>
 <li>
 <p>Double click on the <code>ca.crt</code> file and click &ldquo;Install Certificate&rdquo;.<br>
 <br>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280479iD3163C8EB049F4E2/image-size/large?v=v2&px=999" alt=ssl-01.png title=ssl-01.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-01_hu116dd887fd9440a4d4152507547bc1a6_16449_408x0_resize_q100_h2_box_3.webp alt=ssl-01.png></p>
 </li>
 <li>
 <p>Choose Local Machine and click next.<br>
 <br>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280480i90EC476C319B1943/image-size/large?v=v2&px=999" alt=ssl-02.png title=ssl-02.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-02_hub7044a4460a786d69a268fe647481263_23611_536x0_resize_q100_h2_box_3.webp alt=ssl-02.png></p>
 <p> </p>
 </li>
 <li>
@@ -168,7 +168,7 @@ click the &ldquo;Browse&rdquo; button. Choose &ldquo;Trusted Root Certification
 Authorities&rdquo; click &ldquo;OK&rdquo; to close the dialog box, and then click
 &ldquo;Next&rdquo;.<br>
 <br>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280481i16756C0B931CE9BC/image-size/large?v=v2&px=999" alt=ssl-03.png title=ssl-03.png></p>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-03_hu9619f7725f65e14c50e195e7a1cc2208_38342_547x0_resize_q100_h2_box_3.webp alt=ssl-03.png></p>
 </li>
 <li>
 <p>Restart all instances of your browser to force it to re-read its
@@ -180,16 +180,16 @@ trusted roots. If in doubt, reboot your computer.</p>
 <li>Double click on the <strong>ca.crt</strong> file, which should be found
 under <code>/Users/[your-name]/</code>. It will launch Keychain Access app.</li>
 <li>Enter your password or use Touch ID when prompted. <br>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280482i97DA950E63DCAF37/image-size/large?v=v2&px=999" alt=ssl-mac-01.png title=ssl-mac-01.png></li>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-mac-01_hu0f9fdacfee91aad102526712841c70bc_453951_750x0_resize_q100_h2_box_3.webp alt=ssl-mac-01.png></li>
 <li>The new certificate (in this case, &ldquo;MyOrg&rdquo;) should be added.
 Double-click it. <br>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280484i0CEA5BA56E837C6B/image-size/large?v=v2&px=999" alt=ssl-mac-02.png title=ssl-mac-02.png></li>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-mac-02_huf738332dd6e0e63f3891430818b24c29_353430_750x0_resize_q100_h2_box_3.webp alt=ssl-mac-02.png></li>
 <li>In a new window, expand the <strong>Trust</strong> section of the certificate
 details. Select &ldquo;Always Trust&rdquo; for every option. <br>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280486iC5C4655BE3AC07F0/image-size/large?v=v2&px=999" alt=ssl-mac-03.png title=ssl-mac-03.png></li>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-mac-03_hu14240f9c5306ab094a5f2f5d786c6547_474720_750x0_resize_q100_h2_box_3.webp alt=ssl-mac-03.png></li>
 <li>Close the window. Enter your password or use Touch ID again if you
 are asked. Now the certificate is trusted. <br>
-<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280487i7733FEABD80FB0CA/image-size/large?v=v2&px=999" alt=ssl-mac-04.png title=ssl-mac-04.png></li>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-mac-04_hu6bf4c60ed7b307f289722a6c3da1d4ed_351205_750x0_resize_q100_h2_box_3.webp alt=ssl-mac-04.png></li>
 <li>Restart all instances of your browser to force it to re-read its
 trusted roots. If in doubt, reboot your computer.</li>
 </ul>
