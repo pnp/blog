@@ -1,7 +1,7 @@
 <!doctype html><html lang=en-us>
 <head>
 <meta charset=utf-8>
-<title>Microsoft 365 Community Blog</title>
+<title>Matching the logged in user in a canvas app with a person column in SharePoint</title>
 <base href=https://pnp.github.io/community-blog/post/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/>
 <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=5">
 <meta name=description content="This is meta description">
@@ -15,15 +15,18 @@
 <link rel=manifest href=/community-blog/manifest.webmanifest>
 <meta name=msapplication-TileColor content="#da532c">
 <meta name=theme-color content="#fff">
-<meta name=twitter:title content="Microsoft 365 Community Blog">
-<meta name=twitter:description content="Matching the logged in user in a canvas app with a person column in SharePoint Recently, I came across an interesting issue using people columns in a SharePoint list.">
-<meta property="og:title" content>
-<meta property="og:description" content="Matching the logged in user in a canvas app with a person column in SharePoint Recently, I came across an interesting issue using people columns in a SharePoint list.">
+<meta name=twitter:title content="Matching the logged in user in a canvas app with a person column in SharePoint">
+<meta name=twitter:description content="Recently, I came across an interesting issue using people columns in a SharePoint list.">
+<meta property="og:title" content="Matching the logged in user in a canvas app with a person column in SharePoint">
+<meta property="og:description" content="Recently, I came across an interesting issue using people columns in a SharePoint list.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://pnp.github.io/community-blog/post/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/"><meta property="article:section" content="post">
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content>
-<meta name=twitter:description content="Matching the logged in user in a canvas app with a person column in SharePoint Recently, I came across an interesting issue using people columns in a SharePoint list.">
+<meta property="og:url" content="https://pnp.github.io/community-blog/post/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Hermione-IconVisible.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconNotVisible.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconNotVisible.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconVisible.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconVisible.png"><meta property="article:section" content="post">
+<meta property="article:published_time" content="2021-11-11T05:27:00-05:00">
+<meta property="article:modified_time" content="2021-11-11T05:27:00-05:00">
+<meta name=twitter:card content="summary_large_image">
+<meta name=twitter:image content="https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Hermione-IconVisible.png">
+<meta name=twitter:title content="Matching the logged in user in a canvas app with a person column in SharePoint">
+<meta name=twitter:description content="Recently, I came across an interesting issue using people columns in a SharePoint list.">
 <meta http-equiv=x-dns-prefetch-control content="on">
 <link rel=preconnect href=//ajax.googleapis.com>
 <link rel=preconnect href=https://fonts.gstatic.com crossorigin=anonymous>
@@ -77,26 +80,57 @@
 <div class=row>
 <div class="col-lg-8 mb-5 mb-lg-0">
 <article>
-<h1 class=h2></h1>
+<div class="post-slider mb-4">
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Hermione-IconVisible_hu793da6a876921edae0d7f2e7ee9bd9a1_1007750_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Hermione-IconVisible_hu793da6a876921edae0d7f2e7ee9bd9a1_1007750_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Hermione-IconVisible.png>
+<img src=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Hermione-IconVisible.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconNotVisible_hu6ba5f2e1474b4b4488b96405badcb987_993891_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconNotVisible_hu6ba5f2e1474b4b4488b96405badcb987_993891_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconNotVisible.png>
+<img src=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconNotVisible.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconNotVisible_hu31790882ebfb10ab3a96af07651ba6c5_1049847_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconNotVisible_hu31790882ebfb10ab3a96af07651ba6c5_1049847_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconNotVisible.png>
+<img src=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconNotVisible.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconVisible_hu905b7bbcd4d48e1c3c3c1e70b9321dbf_983041_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconVisible_hu905b7bbcd4d48e1c3c3c1e70b9321dbf_983041_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconVisible.png>
+<img src=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconVisible.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconVisible_hu65446964c2d83ab95b3e4ec96ec70bb9_1029122_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconVisible_hu65446964c2d83ab95b3e4ec96ec70bb9_1029122_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconVisible.png>
+<img src=https://pnp.github.io/community-blog/images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconVisible.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+</div>
+<h1 class=h2>Matching the logged in user in a canvas app with a person column in SharePoint</h1>
 <ul class="card-meta my-3 list-inline">
 <li class=list-inline-item>
-<a href=/community-blog/author// class=card-meta-author>
-<span></span>
+<a href=/community-blog/author/carmen-ysewijn/ class=card-meta-author>
+<span>Carmen Ysewijn</span>
 </a>
 </li>
 <li class=list-inline-item>
-<i class="far fa-clock"></i>5 minutes to read
+<i class="far fa-clock"></i>4 minutes to read
 </li>
 <li class=list-inline-item>
-<i class="far fa-calendar-alt"></i>01 Jan, 0001
+<i class="far fa-calendar-alt"></i>11 Nov, 2021
 </li>
 <li class=list-inline-item>
 <ul class="card-meta-tag list-inline">
 </ul>
 </li>
 </ul>
-<div class=content><h1 id=matching-the-logged-in-user-in-a-canvas-app-with-a-person-column-in-sharepoint>Matching the logged in user in a canvas app with a person column in SharePoint</h1>
-<p>Recently, I came across an interesting issue using people columns in a
+<div class=content><p>Recently, I came across an interesting issue using people columns in a
 SharePoint list. We were working with a list in which multiple roles had
 been identified (reviewer, approver, etc.). Depending on the role a
 certain person had for a specific item, they should be able to take
@@ -214,12 +248,12 @@ be a mismatch still.</p>
 <h4 class=widget-title>Recent</h4>
 <article class=widget-card>
 <div class=d-flex>
-<img loading=lazy decoding=async width=991 height=377 src=/community-blog/images/blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/post-thumb_hu8e227211d67abc79c03609a6d3c355d8_186954_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
+<img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan_hucc1ac96e36de230086610d28c2b93163_185162_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
 <div class=ml-3>
-<h5><a class=post-title href=https://pnp.github.io/community-blog/post/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/>PnP PowerShell or CLI for Microsoft 365 or both or other</a></h5>
+<h5><a class=post-title href=https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-20th-of-january/>Microsoft 365 Developer Community Call recording -- 20th of January, 2021</a></h5>
 <ul class="card-meta list-inline mb-0">
 <li class="list-inline-item mb-0">
-<i class="far fa-calendar-alt"></i>11 Jan, 2022
+<i class="far fa-calendar-alt"></i>21 Jan, 2022
 </li>
 </ul>
 </div>
@@ -227,12 +261,12 @@ be a mismatch still.</p>
 </article>
 <article class=widget-card>
 <div class=d-flex>
-<img loading=lazy decoding=async width=999 height=562 src=/community-blog/images/blog/cli-for-microsoft-365-on-your-mobile/Prezentacja1_hu64c198ed62767dac5a499f52e8819bf5_288412_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
+<img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-platform-call-18th-of-january-2022/recording-18th-jan_hu041b98b07eac3998425b808b707d9eec_561521_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
 <div class=ml-3>
-<h5><a class=post-title href=https://pnp.github.io/community-blog/post/cli-for-microsoft-365-on-your-mobile/>CLI for Microsoft 365 on your mobile</a></h5>
+<h5><a class=post-title href=https://pnp.github.io/community-blog/post/microsoft-365-platform-call-18th-of-january-2022/>Microsoft 365 Platform Call -- 18th of January, 2022</a></h5>
 <ul class="card-meta list-inline mb-0">
 <li class="list-inline-item mb-0">
-<i class="far fa-calendar-alt"></i>11 Jan, 2022
+<i class="far fa-calendar-alt"></i>19 Jan, 2022
 </li>
 </ul>
 </div>
@@ -240,12 +274,12 @@ be a mismatch still.</p>
 </article>
 <article class=widget-card>
 <div class=d-flex>
-<img loading=lazy decoding=async width=999 height=501 src=/community-blog/images/blog/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/header_pic_power_apps_hu0737b3a680b9816d43f0764fb2bfd74e_279946_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
+<img loading=lazy decoding=async width=1306 height=734 src=/community-blog/images/blog/office-add-ins-community-call-january-12-2022/office-add-ins-Thumb%20Jan%202022_hub64745d899c7da7ce6e3c451adec032f_259423_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
 <div class=ml-3>
-<h5><a class=post-title href=https://pnp.github.io/community-blog/post/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/>What I (as a non dev) learned as I created my first Power App.</a></h5>
+<h5><a class=post-title href=https://pnp.github.io/community-blog/post/office-add-ins-community-call-january-12-2022/>Office Add-ins community call - January 12, 2022</a></h5>
 <ul class="card-meta list-inline mb-0">
 <li class="list-inline-item mb-0">
-<i class="far fa-calendar-alt"></i>25 Apr, 2021
+<i class="far fa-calendar-alt"></i>18 Jan, 2022
 </li>
 </ul>
 </div>

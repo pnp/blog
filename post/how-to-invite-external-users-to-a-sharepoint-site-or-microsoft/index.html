@@ -1,7 +1,7 @@
 <!doctype html><html lang=en-us>
 <head>
 <meta charset=utf-8>
-<title>Microsoft 365 Community Blog</title>
+<title>How to invite external users to a SharePoint site or Microsoft Team using Power Automate & Graph API</title>
 <base href=https://pnp.github.io/community-blog/post/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/>
 <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=5">
 <meta name=description content="This is meta description">
@@ -15,15 +15,18 @@
 <link rel=manifest href=/community-blog/manifest.webmanifest>
 <meta name=msapplication-TileColor content="#da532c">
 <meta name=theme-color content="#fff">
-<meta name=twitter:title content="Microsoft 365 Community Blog">
-<meta name=twitter:description content="How to invite external users to a SharePoint site or Microsoft Team using Power Automate & Graph API SharePoint and Microsoft teams services in Microsoft 365 makes it easier to share content and collaborate with external users who is outside your organization.">
-<meta property="og:title" content>
-<meta property="og:description" content="How to invite external users to a SharePoint site or Microsoft Team using Power Automate & Graph API SharePoint and Microsoft teams services in Microsoft 365 makes it easier to share content and collaborate with external users who is outside your organization.">
+<meta name=twitter:title content="How to invite external users to a SharePoint site or Microsoft Team using Power Automate & Graph API">
+<meta name=twitter:description content="SharePoint and Microsoft teams services in Microsoft 365 makes it easier to share content and collaborate with external users who is outside your organization.">
+<meta property="og:title" content="How to invite external users to a SharePoint site or Microsoft Team using Power Automate & Graph API">
+<meta property="og:description" content="SharePoint and Microsoft teams services in Microsoft 365 makes it easier to share content and collaborate with external users who is outside your organization.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://pnp.github.io/community-blog/post/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/"><meta property="article:section" content="post">
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content>
-<meta name=twitter:description content="How to invite external users to a SharePoint site or Microsoft Team using Power Automate & Graph API SharePoint and Microsoft teams services in Microsoft 365 makes it easier to share content and collaborate with external users who is outside your organization.">
+<meta property="og:url" content="https://pnp.github.io/community-blog/post/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdApp-GraphPermissiontoInviteGuestUser.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSFormTrigger-ExternalUser.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-DesignforApproval.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png"><meta property="article:section" content="post">
+<meta property="article:published_time" content="2021-05-26T08:25:00-04:00">
+<meta property="article:modified_time" content="2021-05-26T08:25:00-04:00">
+<meta name=twitter:card content="summary_large_image">
+<meta name=twitter:image content="https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails.png">
+<meta name=twitter:title content="How to invite external users to a SharePoint site or Microsoft Team using Power Automate & Graph API">
+<meta name=twitter:description content="SharePoint and Microsoft teams services in Microsoft 365 makes it easier to share content and collaborate with external users who is outside your organization.">
 <meta http-equiv=x-dns-prefetch-control content="on">
 <link rel=preconnect href=//ajax.googleapis.com>
 <link rel=preconnect href=https://fonts.gstatic.com crossorigin=anonymous>
@@ -77,26 +80,129 @@
 <div class=row>
 <div class="col-lg-8 mb-5 mb-lg-0">
 <article>
-<h1 class=h2></h1>
+<div class="post-slider mb-4">
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails_huac5d26d544c9ca56d6e0829ff8b047d2_133453_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails_huac5d26d544c9ca56d6e0829ff8b047d2_133453_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdApp-GraphPermissiontoInviteGuestUser_hufffdb53bf0bc31edc0b3145b9246b44f_49091_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdApp-GraphPermissiontoInviteGuestUser_hufffdb53bf0bc31edc0b3145b9246b44f_49091_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdApp-GraphPermissiontoInviteGuestUser.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdApp-GraphPermissiontoInviteGuestUser.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSFormTrigger-ExternalUser_hub8625bcdc2ad18836fb3b24fc2a7c5a2_32571_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSFormTrigger-ExternalUser_hub8625bcdc2ad18836fb3b24fc2a7c5a2_32571_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSFormTrigger-ExternalUser.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSFormTrigger-ExternalUser.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-DesignforApproval_hu4d86007ec4316c2c5627c3d0f290dc7b_100152_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-DesignforApproval_hu4d86007ec4316c2c5627c3d0f290dc7b_100152_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-DesignforApproval.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-DesignforApproval.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/_hu3fb0d68f903fc4ef1aabb2cbb0b7d490_46620_2b2a6e280553467d08b53a3d73b03ea3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/_hu3fb0d68f903fc4ef1aabb2cbb0b7d490_46620_2e4b7bfea392fa59f3748be204fe269c.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/_hu092147502aee04adedb624590413facc_42103_a0c595a596a720f9d0143459b6e66136.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/_hu092147502aee04adedb624590413facc_42103_97fae3672ab871bed49fa0e0f20c9606.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/_hu3f3e5a63dcf2b0074d26b00a46157922_71097_5c9fd3c247d0e6e8d70696f6e6cdbf83.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/_hu3f3e5a63dcf2b0074d26b00a46157922_71097_7b7de3873f85c67a87ef939afb63f304.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponseRunHistory.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponseRunHistory.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-cardactionoutput_hu1d52436234eb26485dd67fcf368ee1df_38011_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-cardactionoutput_hu1d52436234eb26485dd67fcf368ee1df_38011_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-cardactionoutput.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-cardactionoutput.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-GenerateJSONWebToken_hu34f90c2638487d1c0ff584b1a5eae6e3_66336_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-GenerateJSONWebToken_hu34f90c2638487d1c0ff584b1a5eae6e3_66336_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-GenerateJSONWebToken.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-GenerateJSONWebToken.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-ParseJSONWebToken_hu743c87285e0740365a95d46a6b64e467_12887_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-ParseJSONWebToken_hu743c87285e0740365a95d46a6b64e467_12887_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-ParseJSONWebToken.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-ParseJSONWebToken.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/SearchforexternalUser_hu4a02a9fd1678064f5287bb75d6e940d1_38987_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/SearchforexternalUser_hu4a02a9fd1678064f5287bb75d6e940d1_38987_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/SearchforexternalUser.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/SearchforexternalUser.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-SendInvitationforExternaluser_hu6cbf967ef0b915b9d3b5681a354f2aa2_44329_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-SendInvitationforExternaluser_hu6cbf967ef0b915b9d3b5681a354f2aa2_44329_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-SendInvitationforExternaluser.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-SendInvitationforExternaluser.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AddUsertoSharePointGroup_hu97c4d342e7fab48dbbd5b9d51c5354f4_29965_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AddUsertoSharePointGroup_hu97c4d342e7fab48dbbd5b9d51c5354f4_29965_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AddUsertoSharePointGroup.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AddUsertoSharePointGroup.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-InTeamsChannel_hu0de011a8ce4d91ab65356d1413f6f9bc_21552_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-InTeamsChannel_hu0de011a8ce4d91ab65356d1413f6f9bc_21552_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-InTeamsChannel.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-InTeamsChannel.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/ExternalSharing-RestrictDomain_hu4a7222efbf93cdf7c3918ab1f89c19ae_78167_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/ExternalSharing-RestrictDomain_hu4a7222efbf93cdf7c3918ab1f89c19ae_78167_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/ExternalSharing-RestrictDomain.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/ExternalSharing-RestrictDomain.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserObjectId_huabb4a5f1eaf6c45e56871bdf6e0c257f_47949_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserObjectId_huabb4a5f1eaf6c45e56871bdf6e0c257f_47949_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserObjectId.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserObjectId.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserInvitationEmail_hu4889c0082daabbcc24a8d02f68d80271_74778_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserInvitationEmail_hu4889c0082daabbcc24a8d02f68d80271_74778_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserInvitationEmail.png>
+<img src=https://pnp.github.io/community-blog/images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserInvitationEmail.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+</div>
+<h1 class=h2>How to invite external users to a SharePoint site or Microsoft Team using Power Automate & Graph API</h1>
 <ul class="card-meta my-3 list-inline">
 <li class=list-inline-item>
-<a href=/community-blog/author// class=card-meta-author>
-<span></span>
+<a href=/community-blog/author/mohamed-ashiq-faleel/ class=card-meta-author>
+<span>Mohamed Ashiq Faleel</span>
 </a>
 </li>
 <li class=list-inline-item>
 <i class="far fa-clock"></i>11 minutes to read
 </li>
 <li class=list-inline-item>
-<i class="far fa-calendar-alt"></i>01 Jan, 0001
+<i class="far fa-calendar-alt"></i>26 May, 2021
 </li>
 <li class=list-inline-item>
 <ul class="card-meta-tag list-inline">
 </ul>
 </li>
 </ul>
-<div class=content><h1 id=how-to-invite-external-users-to-a-sharepoint-site-or-microsoft-team-using-power-automate--graph-api>How to invite external users to a SharePoint site or Microsoft Team using Power Automate & Graph API</h1>
-<p>SharePoint and Microsoft teams services in Microsoft 365 makes it easier
+<div class=content><p>SharePoint and Microsoft teams services in Microsoft 365 makes it easier
 to share content and collaborate with external users who is outside your
 organization. A guest or external user is someone who do not have a
 school or work account with your organization, they can be your partner,
@@ -535,12 +641,12 @@ also configured for Microsoft 365 group.</p>
 <h4 class=widget-title>Recent</h4>
 <article class=widget-card>
 <div class=d-flex>
-<img loading=lazy decoding=async width=991 height=377 src=/community-blog/images/blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/post-thumb_hu8e227211d67abc79c03609a6d3c355d8_186954_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
+<img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan_hucc1ac96e36de230086610d28c2b93163_185162_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
 <div class=ml-3>
-<h5><a class=post-title href=https://pnp.github.io/community-blog/post/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/>PnP PowerShell or CLI for Microsoft 365 or both or other</a></h5>
+<h5><a class=post-title href=https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-20th-of-january/>Microsoft 365 Developer Community Call recording -- 20th of January, 2021</a></h5>
 <ul class="card-meta list-inline mb-0">
 <li class="list-inline-item mb-0">
-<i class="far fa-calendar-alt"></i>11 Jan, 2022
+<i class="far fa-calendar-alt"></i>21 Jan, 2022
 </li>
 </ul>
 </div>
@@ -548,12 +654,12 @@ also configured for Microsoft 365 group.</p>
 </article>
 <article class=widget-card>
 <div class=d-flex>
-<img loading=lazy decoding=async width=999 height=562 src=/community-blog/images/blog/cli-for-microsoft-365-on-your-mobile/Prezentacja1_hu64c198ed62767dac5a499f52e8819bf5_288412_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
+<img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-platform-call-18th-of-january-2022/recording-18th-jan_hu041b98b07eac3998425b808b707d9eec_561521_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
 <div class=ml-3>
-<h5><a class=post-title href=https://pnp.github.io/community-blog/post/cli-for-microsoft-365-on-your-mobile/>CLI for Microsoft 365 on your mobile</a></h5>
+<h5><a class=post-title href=https://pnp.github.io/community-blog/post/microsoft-365-platform-call-18th-of-january-2022/>Microsoft 365 Platform Call -- 18th of January, 2022</a></h5>
 <ul class="card-meta list-inline mb-0">
 <li class="list-inline-item mb-0">
-<i class="far fa-calendar-alt"></i>11 Jan, 2022
+<i class="far fa-calendar-alt"></i>19 Jan, 2022
 </li>
 </ul>
 </div>
@@ -561,12 +667,12 @@ also configured for Microsoft 365 group.</p>
 </article>
 <article class=widget-card>
 <div class=d-flex>
-<img loading=lazy decoding=async width=999 height=501 src=/community-blog/images/blog/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/header_pic_power_apps_hu0737b3a680b9816d43f0764fb2bfd74e_279946_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
+<img loading=lazy decoding=async width=1306 height=734 src=/community-blog/images/blog/office-add-ins-community-call-january-12-2022/office-add-ins-Thumb%20Jan%202022_hub64745d899c7da7ce6e3c451adec032f_259423_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
 <div class=ml-3>
-<h5><a class=post-title href=https://pnp.github.io/community-blog/post/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/>What I (as a non dev) learned as I created my first Power App.</a></h5>
+<h5><a class=post-title href=https://pnp.github.io/community-blog/post/office-add-ins-community-call-january-12-2022/>Office Add-ins community call - January 12, 2022</a></h5>
 <ul class="card-meta list-inline mb-0">
 <li class="list-inline-item mb-0">
-<i class="far fa-calendar-alt"></i>25 Apr, 2021
+<i class="far fa-calendar-alt"></i>18 Jan, 2022
 </li>
 </ul>
 </div>

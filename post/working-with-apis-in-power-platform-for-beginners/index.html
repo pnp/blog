@@ -1,7 +1,7 @@
 <!doctype html><html lang=en-us>
 <head>
 <meta charset=utf-8>
-<title>Microsoft 365 Community Blog</title>
+<title>Working with APIs in Power Platform for beginners</title>
 <base href=https://pnp.github.io/community-blog/post/working-with-apis-in-power-platform-for-beginners/>
 <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=5">
 <meta name=description content="This is meta description">
@@ -15,15 +15,18 @@
 <link rel=manifest href=/community-blog/manifest.webmanifest>
 <meta name=msapplication-TileColor content="#da532c">
 <meta name=theme-color content="#fff">
-<meta name=twitter:title content="Microsoft 365 Community Blog">
-<meta name=twitter:description content="Working with APIs in Power Platform for beginners I recently learned how to work with APIs and the different methods to call them.">
-<meta property="og:title" content>
-<meta property="og:description" content="Working with APIs in Power Platform for beginners I recently learned how to work with APIs and the different methods to call them.">
+<meta name=twitter:title content="Working with APIs in Power Platform for beginners">
+<meta name=twitter:description content="I recently learned how to work with APIs and the different methods to call them.">
+<meta property="og:title" content="Working with APIs in Power Platform for beginners">
+<meta property="og:description" content="I recently learned how to work with APIs and the different methods to call them.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://pnp.github.io/community-blog/post/working-with-apis-in-power-platform-for-beginners/"><meta property="article:section" content="post">
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content>
-<meta name=twitter:description content="Working with APIs in Power Platform for beginners I recently learned how to work with APIs and the different methods to call them.">
+<meta property="og:url" content="https://pnp.github.io/community-blog/post/working-with-apis-in-power-platform-for-beginners/"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTPrequest.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/api-math-tool.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/api-nr-of-day.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-step.png"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-run-successfull.png"><meta property="article:section" content="post">
+<meta property="article:published_time" content="2022-01-15T08:33:00-05:00">
+<meta property="article:modified_time" content="2022-01-15T08:33:00-05:00">
+<meta name=twitter:card content="summary_large_image">
+<meta name=twitter:image content="https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTPrequest.png">
+<meta name=twitter:title content="Working with APIs in Power Platform for beginners">
+<meta name=twitter:description content="I recently learned how to work with APIs and the different methods to call them.">
 <meta http-equiv=x-dns-prefetch-control content="on">
 <link rel=preconnect href=//ajax.googleapis.com>
 <link rel=preconnect href=https://fonts.gstatic.com crossorigin=anonymous>
@@ -77,26 +80,94 @@
 <div class=row>
 <div class="col-lg-8 mb-5 mb-lg-0">
 <article>
-<h1 class=h2></h1>
+<div class="post-slider mb-4">
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTPrequest_hu6772cc6264afcf8538004e5005c65ea1_34743_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTPrequest_hu6772cc6264afcf8538004e5005c65ea1_34743_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTPrequest.png>
+<img src=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTPrequest.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/api-math-tool_hu16a92e750baf9b8f52efe083985daa62_17481_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/api-math-tool_hu16a92e750baf9b8f52efe083985daa62_17481_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/api-math-tool.png>
+<img src=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/api-math-tool.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/api-nr-of-day_hue8891fe474c84bee474123c48473ba64_34016_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/api-nr-of-day_hue8891fe474c84bee474123c48473ba64_34016_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/api-nr-of-day.png>
+<img src=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/api-nr-of-day.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod_hu65af773e33fcaa2fc848319623f6af4e_82178_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod_hu65af773e33fcaa2fc848319623f6af4e_82178_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod.png>
+<img src=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-step_hu4a5ef71ed656c207948a948012464e72_53874_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-step_hu4a5ef71ed656c207948a948012464e72_53874_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-step.png>
+<img src=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-step.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-run-successfull_huc21d2941d31dd3bb916c050bb575ceba_48253_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-run-successfull_huc21d2941d31dd3bb916c050bb575ceba_48253_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-run-successfull.png>
+<img src=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-run-successfull.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-result_hue6ecec2288fe70c3cbfca041255733fa_694222_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-result_hue6ecec2288fe70c3cbfca041255733fa_694222_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-result.png>
+<img src=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-result.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-value_hudfcb77075e5673a1c05aad7bcd4af260_85641_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-value_hudfcb77075e5673a1c05aad7bcd4af260_85641_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-value.png>
+<img src=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-value.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-objects_hu72152a361a3dd8c42c2a761a6256ab5a_127927_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-objects_hu72152a361a3dd8c42c2a761a6256ab5a_127927_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-objects.png>
+<img src=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-objects.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod-value_hu3cda9a57a4d1e03464098e042fcba275_115091_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod-value_hu3cda9a57a4d1e03464098e042fcba275_115091_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod-value.png>
+<img src=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod-value.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/Teams-message_hu93bfc94183316d171b9b358a9a431d03_25284_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/Teams-message_hu93bfc94183316d171b9b358a9a431d03_25284_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/Teams-message.png>
+<img src=https://pnp.github.io/community-blog/images/blog/working-with-apis-in-power-platform-for-beginners/Teams-message.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+</div>
+<h1 class=h2>Working with APIs in Power Platform for beginners</h1>
 <ul class="card-meta my-3 list-inline">
 <li class=list-inline-item>
-<a href=/community-blog/author// class=card-meta-author>
-<span></span>
+<a href=/community-blog/author/michael-roth/ class=card-meta-author>
+<img loading=lazy src=/community-blog/images/author/michaelroth42_hudbcc450307f747b63908320b76716cb9_4249_20x20_fill_q100_box_smart1.jpg alt="Michael Roth" class=img-fluid>
+<span>Michael Roth</span>
 </a>
 </li>
 <li class=list-inline-item>
 <i class="far fa-clock"></i>6 minutes to read
 </li>
 <li class=list-inline-item>
-<i class="far fa-calendar-alt"></i>01 Jan, 0001
+<i class="far fa-calendar-alt"></i>15 Jan, 2022
 </li>
 <li class=list-inline-item>
 <ul class="card-meta-tag list-inline">
 </ul>
 </li>
 </ul>
-<div class=content><h1 id=working-with-apis-in-power-platform-for-beginners>Working with APIs in Power Platform for beginners</h1>
-<p>I recently learned how to work with APIs and the different methods to
+<div class=content><p>I recently learned how to work with APIs and the different methods to
 call them. I started with a straight forward example that's not too
 complex. I used an open API (that means I don't need authentication for
 my request) to get the <a href=https://math.tools/numbers/number-of-the-day/>number of the
@@ -271,12 +342,12 @@ between a http request and a custom connector and when to use what.</p>
 <h4 class=widget-title>Recent</h4>
 <article class=widget-card>
 <div class=d-flex>
-<img loading=lazy decoding=async width=991 height=377 src=/community-blog/images/blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/post-thumb_hu8e227211d67abc79c03609a6d3c355d8_186954_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
+<img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan_hucc1ac96e36de230086610d28c2b93163_185162_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
 <div class=ml-3>
-<h5><a class=post-title href=https://pnp.github.io/community-blog/post/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/>PnP PowerShell or CLI for Microsoft 365 or both or other</a></h5>
+<h5><a class=post-title href=https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-20th-of-january/>Microsoft 365 Developer Community Call recording -- 20th of January, 2021</a></h5>
 <ul class="card-meta list-inline mb-0">
 <li class="list-inline-item mb-0">
-<i class="far fa-calendar-alt"></i>11 Jan, 2022
+<i class="far fa-calendar-alt"></i>21 Jan, 2022
 </li>
 </ul>
 </div>
@@ -284,12 +355,12 @@ between a http request and a custom connector and when to use what.</p>
 </article>
 <article class=widget-card>
 <div class=d-flex>
-<img loading=lazy decoding=async width=999 height=562 src=/community-blog/images/blog/cli-for-microsoft-365-on-your-mobile/Prezentacja1_hu64c198ed62767dac5a499f52e8819bf5_288412_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
+<img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-platform-call-18th-of-january-2022/recording-18th-jan_hu041b98b07eac3998425b808b707d9eec_561521_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
 <div class=ml-3>
-<h5><a class=post-title href=https://pnp.github.io/community-blog/post/cli-for-microsoft-365-on-your-mobile/>CLI for Microsoft 365 on your mobile</a></h5>
+<h5><a class=post-title href=https://pnp.github.io/community-blog/post/microsoft-365-platform-call-18th-of-january-2022/>Microsoft 365 Platform Call -- 18th of January, 2022</a></h5>
 <ul class="card-meta list-inline mb-0">
 <li class="list-inline-item mb-0">
-<i class="far fa-calendar-alt"></i>11 Jan, 2022
+<i class="far fa-calendar-alt"></i>19 Jan, 2022
 </li>
 </ul>
 </div>
@@ -297,12 +368,12 @@ between a http request and a custom connector and when to use what.</p>
 </article>
 <article class=widget-card>
 <div class=d-flex>
-<img loading=lazy decoding=async width=999 height=501 src=/community-blog/images/blog/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/header_pic_power_apps_hu0737b3a680b9816d43f0764fb2bfd74e_279946_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
+<img loading=lazy decoding=async width=1306 height=734 src=/community-blog/images/blog/office-add-ins-community-call-january-12-2022/office-add-ins-Thumb%20Jan%202022_hub64745d899c7da7ce6e3c451adec032f_259423_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
 <div class=ml-3>
-<h5><a class=post-title href=https://pnp.github.io/community-blog/post/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/>What I (as a non dev) learned as I created my first Power App.</a></h5>
+<h5><a class=post-title href=https://pnp.github.io/community-blog/post/office-add-ins-community-call-january-12-2022/>Office Add-ins community call - January 12, 2022</a></h5>
 <ul class="card-meta list-inline mb-0">
 <li class="list-inline-item mb-0">
-<i class="far fa-calendar-alt"></i>25 Apr, 2021
+<i class="far fa-calendar-alt"></i>18 Jan, 2022
 </li>
 </ul>
 </div>
