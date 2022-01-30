@@ -197,43 +197,16 @@ yo @microsoft/sharepoint
  
 Then you answer several questions.  Here are some example answers:
 
-+-----------------------------------+-----------------------------------+
-| What is your solution name?       | ```                               |
-|                                   | {.lia-code-sample .language-bash} |
-|                                   | Hello World SPFx 2016             |
-|                                   | ```                               |
-+-----------------------------------+-----------------------------------+
-| Which baseline packages do you    | ```                               |
-| want to target for your           | {.lia-code-sample .language-bash} |
-| component(s)?                     | SharePoint 2016 onwards, inc      |
-|                                   | luding 2019 and SharePoint Online |
-|                                   | ```                               |
-+-----------------------------------+-----------------------------------+
-| Where do you want to place the    | ```                               |
-| files?                            | {.lia-code-sample .language-bash} |
-|                                   | Use current folder                |
-|                                   | ```                               |
-+-----------------------------------+-----------------------------------+
-| Which type of client-side         | ```                               |
-| component to create?              | {.lia-code-sample .language-bash} |
-|                                   | WebPart                           |
-|                                   | ```                               |
-+-----------------------------------+-----------------------------------+
-| What is your Web part (on-prem)   | ```                               |
-| name?                             | {.lia-code-sample .language-bash} |
-|                                   | HelloWorld                        |
-|                                   | ```                               |
-+-----------------------------------+-----------------------------------+
-| What is your Web part (on-prem)   | ```                               |
-| description?                      | {.lia-code-sample .language-bash} |
-|                                   | A sample web part                 |
-|                                   | ```                               |
-+-----------------------------------+-----------------------------------+
-| Which framework would you like to | ```                               |
-| use?                              | {.lia-code-sample .language-bash} |
-|                                   | React                             |
-|                                   | ```                               |
-+-----------------------------------+-----------------------------------+
+|||
+|--- |--- |
+|What is your solution name?|Hello World SPFx 2016|
+|Which baseline packages do you want to target for your component(s)?|SharePoint 2016 onwards, including 2019 and SharePoint Online|
+|Where do you want to place the files?|Use current folder|
+|Which type of client-side component to create?|WebPart|
+|What is your Web part (on-prem) name?|HelloWorld|
+|What is your Web part (on-prem) description?|A sample web part|
+|Which framework would you like to use?|React|
+
 # Test Your Project in the SharePoint Workbench 
 
 Even though you haven't done much yet, your project should run.  To run

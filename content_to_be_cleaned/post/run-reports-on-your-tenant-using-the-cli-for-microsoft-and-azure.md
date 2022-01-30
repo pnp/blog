@@ -1228,94 +1228,26 @@ a container group**. It is a pretty complex action with a lot of
 parameters to get right, so it is worth to pay close attention when
 typing:
 
-+-----------------------+-----------------------+-----------------------+
-| **Option **           | **Value**             | **Comments**          |
-+-----------------------+-----------------------+-----------------------+
-| Subscription id       | Any subscription you  | I suggest putting it  |
-|                       | like                  | all in the same       |
-|                       |                       | subscription.         |
-+-----------------------+-----------------------+-----------------------+
-| Resource Group        | Any resource group    | I suggest putting it  |
-|                       | you like              | all in the same       |
-|                       |                       | resource group.       |
-+-----------------------+-----------------------+-----------------------+
-| Container Group Name  | ``` {.lia-code-sa     | Parameter for ease of |
-|                       | mple .language-excel} | use                   |
-|                       | @{variabl             |                       |
-|                       | es('containerGroup')} |                       |
-|                       | ```                   |                       |
-+-----------------------+-----------------------+-----------------------+
-| Container Group       | Any location is       |                       |
-| Location              | supported             |                       |
-+-----------------------+-----------------------+-----------------------+
-| Container Name - 1    | ``` {.lia-code-sa     | Parameter for ease of |
-|                       | mple .language-excel} | use                   |
-|                       | @{variab              |                       |
-|                       | les('containerName')} |                       |
-|                       | ```                   |                       |
-+-----------------------+-----------------------+-----------------------+
-| Container Image - 1   | ``` {.lia-code-s      |                       |
-|                       | ample .language-bash} |                       |
-|                       | m365pnp/cl            |                       |
-|                       | i-microsoft365:latest |                       |
-|                       | ```                   |                       |
-+-----------------------+-----------------------+-----------------------+
-| Container Resource    | 1                     | If you are planning   |
-| Requests CPU - 1      |                       | to run complex or     |
-|                       |                       | large scripts it      |
-|                       |                       | might be worth to add |
-|                       |                       | additional            |
-|                       |                       | resources.            |
-+-----------------------+-----------------------+-----------------------+
-| Container Resource    | 1.5                   | If you are planning   |
-| Requests Memory - 1   |                       | to run complex or     |
-|                       |                       | large scripts it      |
-|                       |                       | might be worth to add |
-|                       |                       | additional            |
-|                       |                       | resources.            |
-+-----------------------+-----------------------+-----------------------+
-| Container Command     | ``` {.lia-code-s      | You cannot execute    |
-| Segment - 1           | ample .language-bash} | multiple commands in  |
-|                       | bash                  | a single line. You    |
-|                       | ```                   | will need to add each |
-|                       |                       | statement to a        |
-|                       |                       | segment.              |
-+-----------------------+-----------------------+-----------------------+
-| Container Command     | ``` {.lia-code-s      | The value of the      |
-| Segment - 2           | ample .language-bash} | mount path and script |
-|                       | /mnt/repo1/test.sh    | name are dependant on |
-|                       | ```                   | settings below.       |
-+-----------------------+-----------------------+-----------------------+
-| Container Volume      | /mnt/repo1            |                       |
-| Mount Path - 1        |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Container Volume      | gitrepo               | The name for the      |
-| Mount Name - 1        |                       | mount path must match |
-|                       |                       | the volume name       |
-|                       |                       | specified later.      |
-+-----------------------+-----------------------+-----------------------+
-| Volume Git Repo       | <h                    | Any public repository |
-| Volume Repository - 1 | ttps://github.com/app | will do.              |
-|                       | ieschot/cli-test.git> |                       |
-+-----------------------+-----------------------+-----------------------+
-| Volume Name - 1       | gitrepo               |                       |
-+-----------------------+-----------------------+-----------------------+
-| ContainerGroup        | {\                    | Make sure to update   |
-| Managed Identity User | \"/subscriptio        | the **bold** parts.   |
-| Assigned Identities   | ns/**\[guid\]**/resou |                       |
-|                       | rcegroups/\[rg-name\] |                       |
-|                       | /providers/microsoft. |                       |
-|                       | managedidentity/usera |                       |
-|                       | ssignedidentities/**\ |                       |
-|                       | [identity-name\]**\": |                       |
-|                       | {}\                   |                       |
-|                       | }                     |                       |
-+-----------------------+-----------------------+-----------------------+
-| ContainerGroup        | OnFailure             | Make sure the         |
-| Restart Policy        |                       | container is          |
-|                       |                       | restarted if there    |
-|                       |                       | are problems.         |
-+-----------------------+-----------------------+-----------------------+
+||||
+|--- |--- |--- |
+|Option|Value|Comments|
+|Subscription id|Any subscription you like|I suggest putting it all in the same subscription.|
+|Resource Group|Any resource group you like|I suggest putting it all in the same resource group.|
+|Container Group Name|@{variables('containerGroup')}|Parameter for ease of use|
+|Container Group Location|Any location is supported||
+|Container Name - 1|@{variables('containerName')}|Parameter for ease of use|
+|Container Image - 1|m365pnp/cli-microsoft365:latest||
+|Container Resource Requests CPU - 1|1|If you are planning to run complex or large scripts it might be worth to add additional resources.|
+|Container Resource Requests Memory - 1|1.5|If you are planning to run complex or large scripts it might be worth to add additional resources.|
+|Container Command Segment - 1|bash|You cannot execute multiple commands in a single line. You will need to add each statement to a segment.|
+|Container Command Segment - 2|/mnt/repo1/test.sh|The value of the mount path and script name are dependant on settings below.|
+|Container Volume Mount Path - 1|/mnt/repo1||
+|Container Volume Mount Name - 1|gitrepo|The name for the mount path must match the volume name specified later.|
+|Volume Git Repo Volume Repository - 1|https://github.com/appieschot/cli-test.git|Any public repository will do.|
+|Volume Name - 1|gitrepo||
+|ContainerGroup Managed Identity User Assigned Identities|{"/subscriptions/[guid]/resourcegroups/[rg-name]/providers/ microsoft.managedidentity/ userassignedidentities/[identity-name]": {}}|Make sure to update the bold parts.|
+|ContainerGroup Restart Policy|OnFailure|Make sure the container is restarted if there are problems.|
+
 
 This action will thus create a new container instance, pulls in the CLI
 for Microsoft 365 image and make sures that a git repo with a script is
