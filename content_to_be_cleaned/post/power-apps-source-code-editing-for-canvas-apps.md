@@ -1,4 +1,15 @@
-# Power Apps: source code editing for Canvas Apps
+---
+title: "source code editing for Canvas Apps"
+date: 2021-07-01T08:40:00-04:00
+author: "Django Lohn"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ## Why? 
 
@@ -58,23 +69,12 @@ mentioned in the Microsoft post. Then download the Power Apps Language
 Tooling locally to your Downloads folder:
 
 ![Download the Power Apps Language Tooling tool from GitHub
-locally](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270694i8F1A240A6DFDFF01/image-size/large?v=v2&px=999 "PowerApps_LanguageTooling_DownloadZIP"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270694i8F1A240A6DFDFF01?v=v2"
-li-image-display-id="'270694i8F1A240A6DFDFF01'"
-li-message-uid="'2256476'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}[Download the Power Apps Language Tooling
-tool from GitHub locally]{.lia-inline-image-caption
-onclick="event.preventDefault();"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline
-image-alt="Download the Power Apps Language Tooling tool from GitHub locally"
-style="width: 999px;"}
+locally](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270694i8F1A240A6DFDFF01/image-size/large?v=v2&px=999 "PowerApps_LanguageTooling_DownloadZIP")
 
-::: wp-block-image
-[Unzip this file and save the unzipped folder in a local place of your
+
+Unzip this file and save the unzipped folder in a local place of your
 computer. I chose to store it next to my .msapp file so the directories
-would be near each other:]
+would be near each other:
 
 
 ``` 
@@ -170,6 +170,6 @@ directory:
 The repacked ZIP file can be imported in the online Studio. This import
 will then update the existing Power App to a new version. Never thought
 I would say this as if I know how to develop code but --> happy coding
-:flexed_biceps::nerd_face::thumbs_up:! 
+
 [Originally published
 at <https://knowhere365.space/power-apps-source-code-edit-for-canvas-apps/>

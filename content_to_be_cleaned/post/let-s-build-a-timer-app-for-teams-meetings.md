@@ -14,7 +14,7 @@ draft: false
 ![Header_TimerApp.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279051i1C857510A318439D/image-size/large?v=v2&px=999 "Header_TimerApp.png")
 
 
-## ntroduction
+## Introduction
 
 Wouldn't it be nice to have a timer at meetings, so that everybody can
 see how much time has passed and how much is remaining? A timer for

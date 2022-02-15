@@ -22,7 +22,7 @@ first:
 
 ## What is Dataverse 
 
-[![platform.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327931iE49898FC399249A2/image-size/large?v=v2&px=999 "platform.png")
+![platform.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327931iE49898FC399249A2/image-size/large?v=v2&px=999 "platform.png")
 
 Dataverse is a is a secure and scalable SaaS data service, that sits
 right in Power Platform. Dataverse\'s database is Azure SQL, and often,
