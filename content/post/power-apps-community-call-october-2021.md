@@ -1,17 +1,33 @@
-# Power Apps Community Call -- October 2021
+---
+title: "Power Apps Community Call -- October 2021"
+date: 2021-10-20T08:40:00-04:00
+author: "Todd Baginski"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ![PowerApps Thumb October
 2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/318952i19D07A8E59D3EBB1/image-size/large?v=v2&px=999 "PowerApps Thumb October 2021.png")
- 
 
 **Call Summary:**
 
 Topics covered in this month's community call include a demo -
 **PokéBubbles Game** and a session on **How to get Microsoft Certified
-in the Power Platform**.   As well there was **Recent Power Apps News
-and Community Contributions**, and more!    Community welcomes [Anna
+in the Power Platform**. 
+
+As well there was **Recent Power Apps News
+and Community Contributions**, and more! 
+
+Community welcomes [Anna
 Chu](http://twitter.com/_achu) - Sr. Program Manager (Microsoft) \|
-\@\_achu.  This call was hosted by [Todd
+\@\_achu.  
+
+This call was hosted by [Todd
 Baginski](http://twitter.com/toddbaginski) (Canviz).  Demo presenters
 included [Michelle Wong](http://twitter.com/MichelleWongNL), [Sheryl
 Netley](http://twitter.com/SherylNetley), [Jese

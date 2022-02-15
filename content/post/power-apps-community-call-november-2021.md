@@ -1,4 +1,15 @@
-# Power Apps Community Call -- November 2021
+---
+title: "Power Apps Community Call -- November 2021"
+date: 2021-11-17T08:40:00-04:00
+author: "Todd Baginski"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 ![PowerApps Thumb November
@@ -10,12 +21,12 @@
 Topics covered in this month's community call include demos **Power Apps
 Christmas Calendar + Games** (Advent calendar with engaging games
 unlocked on Dec 18th and 23rd) - [Craig
-Gregory](http://twitter.com/CrashLongJohns) \|
+Gregory](http://twitter.com/CrashLongJohns)
 [\@CrashLongJohns](/t5/user/viewprofilepage/user-id/1127338) and 
 
 **Teams
 Provision Genie** (Canvas app that simplifies the configuration and
-deployment of enterprise ready Teams sites**)** - [Luise
+deployment of enterprise ready Teams sites) - [Luise
 Freese](http://twitter.com/LuiseFreese) \| \@LuiseFreese & [Carmen
 Ysewijn](http://twitter.com/CarmenYsewijn) \| \@CarmenYsewijn.
 
@@ -60,7 +71,7 @@ attending the call or viewing it on demand. 
     tools and Documentation Genie delivers a reliable, secure,
     informative, easy to deploy and truly enterprise ready solution. 
     The presenters' step through the configuration of a Team that's
-    provisioned by Logic Apps.      
+    provisioned by Logic Apps.
 
 **Recent News & Cool Stuff:**
 

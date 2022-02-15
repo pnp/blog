@@ -1,4 +1,15 @@
-# PnP Batch Add or Delete items from very large list, i.e. more than 300k items
+---
+title: "PnP Batch Add or Delete items from very large list, i.e. more than 300k items"
+date: 2021-09-13T08:40:00-04:00
+author: "Reshmee Auckloo"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 I was tasked to delete more than 300k items loaded as part of testing
 from a very large SharePoint list, I used the script from the blog
@@ -109,8 +120,8 @@ else {
 }
 While ($Stoploop -eq $false)
 write-host $("End time " + (Get-Date))
+
 ```
- 
 
 The script took up to 4 hours to add 300k items. The script resumed
 despite an error happening. 

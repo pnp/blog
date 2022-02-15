@@ -1,6 +1,17 @@
-# Power Apps: source code edit for Canvas Apps in Visual Studio Code]
+---
+title: "Power Apps: source code edit for Canvas Apps in Visual Studio Code"
+date: 2021-04-28T08:40:00-04:00
+author: "Django Lohn"
+categories: []
+images:
 
-## Why? 
+tags: []
+type: "regular"
+draft: false
+
+---
+
+## Why?
 
 In April, I showed how to unpack and repack Power Apps .msapp files of
 Canvas Apps in the blog post [Power Apps Source Code file editing for
@@ -18,14 +29,14 @@ within the Power Platform VS Code Extension of Visual Studio Code!
 This means that after installing this extension, we can do the same
 unpacking and packing without leaving Visual Studio Code.
 
-## What? 
+## What?
 
 This posts will show how easy it is to use Visual Studio Code so we can
 unpack and (re)pack .msapp files of Canvas Apps:
 
 ![PowerApps_VisualStudio_PowerPlatform_Extension_msapp_compare](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290864iD98446B52D0C5FCC/image-size/large?v=v2&px=999 "PowerApps_VisualStudio_PowerPlatform_Extension_msapp_compare")
 
-## How? 
+## How?
 
 1\) First install the Power Platform VS Code Extension in your Visual
 Studio Code Client using the Visual Studio Marketplace ([Power Platform

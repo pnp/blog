@@ -1,4 +1,15 @@
-# ProvisionGenie - an open-source provisioning engine for Microsoft Teams
+---
+title: "ProvisionGenie - an open-source provisioning engine for Microsoft Teams"
+date: 2021-09-29T08:40:00-04:00
+author: "Luise Freese"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ![TeansResult.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/313718i9F28A38534E5A95A/image-size/large?v=v2&px=999 "TeansResult.png")
 
@@ -95,7 +106,7 @@ As a result, the app looks like this:
 We open-sourced ProvisionGenie 🧞 and just shipped our first release,
 you can find the repository here - with guidance how to get the app and
 how to contribute to
-it: <https://github.com/ProvisionGenie/ProvisionGenie>
+it: <https://provisiongenie.com>
 
 
 We would love to get your feedback and improve our

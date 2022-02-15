@@ -1,4 +1,15 @@
-# Power Apps Community Call -- June 2021
+---
+title: "Power Apps Community Call -- June 2021"
+date: 2021-06-16T08:40:00-04:00
+author: "Todd Baginski"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ![SEssionTHumb.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/289440iDC962F8F964037AC/image-size/large?v=v2&px=999 "SEssionTHumb.png")
  

@@ -1,3 +1,15 @@
+---
+title: "Power Apps Community Call -- August 2021"
+date: 2021-08-18T08:40:00-04:00
+author: "Todd Baginski"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 # Power Apps Community Call -- August 2021
 
 ![powerapps-community-call-18th-aug.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304988i089519B6E6819186/image-size/medium?v=v2&px=400 "powerapps-community-call-18th-aug.png")
@@ -5,17 +17,22 @@
 **Call Summary:**
 
 Topics covered in this month's community call include demos in
-Performance Insights (a new Power Apps self-service tool that analyzes
-runtime user data, makes efficiency recommendations), Event Calendar
+- Performance Insights (a new Power Apps self-service tool that analyzes
+runtime user data, makes efficiency recommendations), 
+- Event Calendar
 Power App (See event dates in month and full year views by country. 
  Simplify event scheduling by comparing holidays in up to 4 countries),
-How To Feed Your Dragon Game (a Demo Extravaganza 2021 entry.  3 games,
+- How To Feed Your Dragon Game (a Demo Extravaganza 2021 entry.  3 games,
 3 levels of difficulty - dialed up/down through variable record) along
-with Recent Power Apps News and Community Contributions, and more!  This
+with Recent Power Apps News and Community Contributions, and more!  
+
+This
 session included Q&A in chat.  The call was hosted by [Todd
 Baginski](http://twitter.com/toddbaginski) (Canviz).  Demo presenters
 are Varda Shrivastava, Juli Reid, and [Gerard
-Simpson](http://twitter.com/PowerFanAddict).  This call was recorded on
+Simpson](http://twitter.com/PowerFanAddict). 
+
+This call was recorded on
 August 18, 2021.  Thank for attending the call or viewing it on demand. 
 
 **Agenda:**  

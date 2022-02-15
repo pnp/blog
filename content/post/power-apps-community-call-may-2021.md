@@ -1,4 +1,15 @@
-# Power Apps Community Call -- May 2021
+---
+title: "Power Apps Community Call -- May 2021"
+date: 2021-05-19T08:40:00-04:00
+author: "Todd Baginski"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ![powerautomate-call-recording-19th-may.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/282230iD6B45FAD869A91FA/image-size/large?v=v2&px=999 "powerautomate-call-recording-19th-may.png")
 
