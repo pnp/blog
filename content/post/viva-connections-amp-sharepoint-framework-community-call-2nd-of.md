@@ -2,7 +2,7 @@
 title: "Viva Connections & SharePoint Framework Community Call -- 2nd of December, 2021"
 date: 2021-12-03T01:19:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/recording-2nd-of-dec.png
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/211202-together-mode.gif

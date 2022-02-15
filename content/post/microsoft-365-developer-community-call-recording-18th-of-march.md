@@ -36,8 +36,7 @@ on [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).   The
 host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
 (Microsoft) \| \@vesajuvonen.  Q&A takes place in chat throughout the
 call.
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:    **
 
 -   Get SharePoint Framework v1.12 - <https://aka.ms/spfx>

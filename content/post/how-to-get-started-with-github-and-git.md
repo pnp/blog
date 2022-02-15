@@ -2,7 +2,7 @@
 title: "How to get started with GitHub and Git"
 date: 2021-09-09T07:49:00-04:00
 author: "Luise Freese"
-categories: []
+categories: ["Tooling"]
 images:
 - images/blog/how-to-get-started-with-github-and-git/github-new.png
 - images/blog/how-to-get-started-with-github-and-git/first-commit.png

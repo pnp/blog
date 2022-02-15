@@ -2,7 +2,7 @@
 title: "Community Sample: News Ticker app (SPFx Extensions)"
 date: 2021-05-10T07:21:00-04:00
 author: "Ari Gunawan"
-categories: []
+categories: ["SharePoint"]
 images: []
 tags: []
 type: "regular"

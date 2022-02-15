@@ -2,7 +2,7 @@
 title: "Working with APIs in Power Platform for beginners"
 date: 2022-01-15T08:33:00-05:00
 author: "Michael Roth"
-categories: []
+categories: ["Power Automate"]
 images:
 - images/blog/working-with-apis-in-power-platform-for-beginners/HTTPrequest.png
 - images/blog/working-with-apis-in-power-platform-for-beginners/api-math-tool.png

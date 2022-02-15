@@ -68,8 +68,7 @@ As well, there were 14 new/updated script samples and 2 Power Platform
 Samples this week!  The host of this call was [Paolo
 Pialorsi](http://twitter.com/paolopia) (PiaSys.com) \| \@paolopia.   Q&A
 takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Opt into PnP Recognition Program \|

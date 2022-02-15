@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Podcast - Azure Event Hub and Rich Notifications with Ayca Bas"
 date: 2021-06-16T01:37:00-04:00
 author: "Paul Schaeflein"
-categories: []
+categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"

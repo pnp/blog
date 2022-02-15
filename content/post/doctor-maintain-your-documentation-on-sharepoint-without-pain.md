@@ -2,7 +2,7 @@
 title: "Doctor - Maintain your documentation on SharePoint without pain"
 date: 2021-03-10T03:41:00-05:00
 author: "Elio Struyf"
-categories: []
+categories: ["CLI for Microsoft 365", "Tooling"]
 images:
 - images/blog/doctor-maintain-your-documentation-on-sharepoint-without-pain/doctor1.png
 - images/blog/doctor-maintain-your-documentation-on-sharepoint-without-pain/doctor2.png

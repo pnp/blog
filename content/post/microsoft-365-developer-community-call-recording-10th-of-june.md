@@ -51,8 +51,7 @@ Microsoft Graph Toolkit (MGT) v.2.2.0 GA.   
 Additionally, 1 new Teams samples were delivered in the last 2 weeks. 
 The host of this call was Vesa Juvonen (Microsoft) \|\@vesajuvonen.  Q&A
 takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 
 -   Join on the Viva Connections private preview!
     \| [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)

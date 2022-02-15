@@ -45,8 +45,7 @@ Open-source project activity is focused on prepping for May releases.   
 Additionally, one new Teams sample delivered.  The host of this call was
 [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
 \@vesajuvonen.  Q&A takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 
 -   Last week to complete the Microsoft 365 Developer Community Survey
     -- <https://aka.ms/m365pnp/survey>

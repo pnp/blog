@@ -2,7 +2,7 @@
 title: "SharePoint Framework Community Call -- 4th of November, 2021"
 date: 2021-11-05T03:52:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-4th-of-november-2021/recording-4th-november.png
 - images/blog/sharepoint-framework-community-call-4th-of-november-2021/211104-together-mode.gif

@@ -2,7 +2,7 @@
 title: "How to show profile picture in Person column in SharePoint list/library?"
 date: 2021-04-11T02:04:00-04:00
 author: "Chandani Prajapati"
-categories: []
+categories: ["SharePoint"]
 images:
 - images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/22.png
 - images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/1.png
@@ -14,6 +14,7 @@ draft: false
 ---
 
 ## Introduction 
+
 Currently, Microsoft released a new update to the show profile picture
 of the user column in the SharePoint list/library. So in this article,
 we will see how to use this feature in our list or library. for more
@@ -36,6 +37,7 @@ details refer to
  
 
 4\. Then create a list item and check it in the list/library view.
+
 ## {{< image alt="3.png" src="images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/3.png" >}}
 ## Summary 
 In this article, we have seen how to show the profile picture in the

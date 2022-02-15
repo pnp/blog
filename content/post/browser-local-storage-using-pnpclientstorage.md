@@ -2,7 +2,7 @@
 title: "Browser Local Storage using PnPClientStorage"
 date: 2021-08-31T01:54:00-04:00
 author: "Sudharsan Kesavanarayanan"
-categories: []
+categories: ["SharePoint"]
 images: []
 tags: []
 type: "regular"

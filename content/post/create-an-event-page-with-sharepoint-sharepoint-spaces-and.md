@@ -2,7 +2,7 @@
 title: "Create an event page with SharePoint, SharePoint Spaces and formatted Lists"
 date: 2021-11-23T02:10:00-05:00
 author: ""
-categories: []
+categories: ["SharePoint"]
 images:
 - images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_0-1637611061380.png
 - images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_1-1637607933245.png

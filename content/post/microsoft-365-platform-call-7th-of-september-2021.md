@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 7th of September, 2021"
 date: 2021-09-08T06:17:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-7th-of-september-2021/7th-sep-platform-call-recording.png
 tags: []
@@ -41,8 +41,7 @@ place in chat throughout the call.
 
 -   Updates for Microsoft Teams bots in Multi-Geo environments
 -   Changes to the Microsoft 365 usage reports API
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Opt in to PnP Recognition Program

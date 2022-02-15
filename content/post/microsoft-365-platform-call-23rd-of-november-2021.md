@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 23rd of November, 2021"
 date: 2021-11-24T02:45:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-23rd-of-november-2021/recording-23rd-nov-platform.png
 - images/blog/microsoft-365-platform-call-23rd-of-november-2021/211123-together-mode.gif
@@ -72,8 +72,7 @@ call.   
     Initiate](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/the-journey-to-viva-topics-adoption-success-initiate/ba-p/2976653)
 -   [The journey to Viva Topics adoption success:
     Intro](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/the-journey-to-viva-topics-adoption-success-intro/ba-p/2976552) 
-::: {.video-embed-center .video-embed}
-:::
+
  
 
 **Actions:**

@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 11th of January, 2022"
 date: 2022-01-12T01:15:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-11th-of-january-2022/recording-11th-january.png
 - images/blog/microsoft-365-platform-call-11th-of-january-2022/220110-together-mode.gif
@@ -66,8 +66,7 @@ takes place in chat throughout and live at end of the call.   
 -   [How to Manage Microsoft Teams Meeting Recording
     Auto-Expiration](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-manage-microsoft-teams-meeting-recording-auto-expiration/ba-p/3053035)
 
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Opt into PnP Recognition Program

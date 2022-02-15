@@ -2,7 +2,7 @@
 title: "Send email reminders from Microsoft Lists using Power Automate"
 date: 2021-02-24T09:33:00-05:00
 author: "Norm Young"
-categories: []
+categories: ["Power Automate"]
 images:
 - images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker01.png
 - images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker02.png

@@ -2,7 +2,7 @@
 title: "Microsoft 365 Dev Podcast - SPFx, Azure Functions and PnP Re-Usable controls with Joel Rodrigues"
 date: 2021-08-02T06:29:00-04:00
 author: "Paul Schaeflein"
-categories: []
+categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"

@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 14th of September, 2021"
 date: 2021-09-15T10:49:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-14th-of-september-2021/recording-14th-september-m365platform-call.png
 tags: []
@@ -49,8 +49,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| \@vesajuvonen.
 -   [Breaking changes to the me/assignments endpoint in the Microsoft
     Graph Assignments API
     (beta)](https://developer.microsoft.com/en-us/microsoft-365/blogs/breaking-changes-to-the-me-assignments-endpoint-in-the-microsoft-graph-assignments-api-beta/)
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Opt in to PnP Recognition Program

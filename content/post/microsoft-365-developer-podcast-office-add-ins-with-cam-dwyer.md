@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Podcast - Office Add-Ins with Cam Dwyer"
 date: 2021-07-28T07:58:00-04:00
 author: "Paul Schaeflein"
-categories: []
+categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"

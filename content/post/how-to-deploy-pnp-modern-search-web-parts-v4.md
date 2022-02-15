@@ -2,7 +2,7 @@
 title: "How to Deploy PnP Modern Search Web Parts v4"
 date: 2021-07-27T08:19:00-04:00
 author: "Agnes Molnar"
-categories: []
+categories: ["PnP Modern Search", "SharePoint"]
 images:
 - images/blog/how-to-deploy-pnp-modern-search-web-parts-v4/pnp-modern-search-sharepoint-app-catalog-01-1024x834.png
 - images/blog/how-to-deploy-pnp-modern-search-web-parts-v4/pnp-modern-search-sharepoint-app-catalog-02-1024x535.png

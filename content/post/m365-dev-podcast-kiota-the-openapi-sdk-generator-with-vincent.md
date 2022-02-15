@@ -2,7 +2,7 @@
 title: "M365 Dev Podcast - Kiota, the OpenAPI SDK Generator with Vincent Biret"
 date: 2021-12-07T06:56:00-05:00
 author: "Paul Schaeflein"
-categories: []
+categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"

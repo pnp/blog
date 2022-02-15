@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Community Spotlight: Albert-Jan Schot"
 date: 2021-04-09T09:00:00-04:00
 author: "Luise Freese"
-categories: []
+categories: ["Microsoft 365 community spotlight"]
 images:
 - images/blog/microsoft-365-pnp-community-spotlight-albert-jan-schot/Appie.png
 tags: []

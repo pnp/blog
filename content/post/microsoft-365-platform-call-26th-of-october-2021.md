@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 26th of October, 2021"
 date: 2021-10-27T03:20:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-26th-of-october-2021/recording-26th-oct.png
 - images/blog/microsoft-365-platform-call-26th-of-october-2021/211026-together-mode.gif
@@ -67,8 +67,7 @@ call   
 
 -   [Use end-to-end encryption for one-to-one Microsoft Teams
     calls](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/use-end-to-end-encryption-for-one-to-one-microsoft-teams-calls/ba-p/2867066)
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 
 -   **Next week, join your PnP Community mates in this regularly

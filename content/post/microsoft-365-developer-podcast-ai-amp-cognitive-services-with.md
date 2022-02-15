@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Podcast - AI & Cognitive Services with Prashant G Bhoyar"
 date: 2021-08-16T06:10:00-04:00
 author: "Paul Schaeflein"
-categories: []
+categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"

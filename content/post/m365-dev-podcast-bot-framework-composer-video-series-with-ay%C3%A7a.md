@@ -2,7 +2,7 @@
 title: "M365 Dev Podcast - Bot Framework Composer Video series with Ayça Baş and Bob German"
 date: 2021-10-05T05:30:00-04:00
 author: "Paul Schaeflein"
-categories: []
+categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"

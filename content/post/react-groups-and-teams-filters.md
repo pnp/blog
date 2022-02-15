@@ -2,7 +2,7 @@
 title: "React Groups and Teams Filters"
 date: 2021-05-15T04:02:00-04:00
 author: "Alison Collins"
-categories: []
+categories: ["SharePoint"]
 images:
 - images/blog/react-groups-and-teams-filters/img1.png
 - images/blog/react-groups-and-teams-filters/img2.png

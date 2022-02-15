@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 14th of December, 2021"
 date: 2021-12-15T01:39:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-14th-of-december-2021/recording-14th-dec.png
 - images/blog/microsoft-365-platform-call-14th-of-december-2021/211214-together-mode.gif
@@ -70,8 +70,7 @@ place in chat throughout and live at end of the call.   
     Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-and-improved-search-results-experience-on-microsoft-teams/ba-p/3035064)
 -   [Announcing delta query support for the Microsoft Graph Assignments
     API](https://devblogs.microsoft.com/microsoft365dev/announcing-delta-query-support-for-the-microsoft-graph-assignments-api/) 
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   **Register for Sharing is Caring Events:**

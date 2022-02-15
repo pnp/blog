@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 19th of October, 2021"
 date: 2021-10-20T12:03:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-19th-of-october-2021/recording-19th-oct.png
 - images/blog/microsoft-365-platform-call-19th-of-october-2021/211019-together-mode.gif
@@ -80,8 +80,7 @@ takes place in chat throughout the call.   
 -   [Microsoft Ignite 2021 guide to SharePoint, OneDrive, Viva, Lists,
     Syntex, Stream, Visio and
     more](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-ignite-2021-guide-to-sharepoint-onedrive-viva-lists/ba-p/2853103)
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 
 -   Register today for Hacktoberfest 2021

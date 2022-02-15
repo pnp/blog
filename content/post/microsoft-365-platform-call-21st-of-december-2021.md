@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 21st of December, 2021"
 date: 2021-12-22T12:43:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-21st-of-december-2021/recording-21st-dec.png
 - images/blog/microsoft-365-platform-call-21st-of-december-2021/211221-together-mode.gif
@@ -58,8 +58,7 @@ call.   
     Loop](https://devblogs.microsoft.com/microsoft365dev/stay-in-sync-with-microsoft-loop/)
 -   [Connecting networks of information with Microsoft Graph connector
     partners](https://devblogs.microsoft.com/microsoft365dev/connecting-networks-of-information-with-microsoft-graph-connector-partners/)
-::: {.video-embed-center .video-embed}
-:::
+
  
 
 **Actions:**

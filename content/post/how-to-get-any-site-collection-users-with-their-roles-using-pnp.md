@@ -2,7 +2,7 @@
 title: "How to get any site collection users with their roles using PnP PowerShell?"
 date: 2021-04-12T12:48:00-04:00
 author: "Chandani Prajapati"
-categories: []
+categories: ["PNP PowerShell", "SharePoint"]
 images:
 - images/blog/how-to-get-any-site-collection-users-with-their-roles-using-pnp/UserRolesOP.png
 tags: []

@@ -53,8 +53,7 @@ As well, there were 12 new/updated script samples and 1 Power Platform
 Samples this week.  The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) \|
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Next Tuesday, **join us during the [Microsoft 365 platform

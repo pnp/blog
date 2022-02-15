@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 30th of November, 2021"
 date: 2021-12-01T12:07:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-30th-of-november-2021/recording-30th-nov-platform.png
 - images/blog/microsoft-365-platform-call-30th-of-november-2021/PnP-Calls-TogetherMode-500w-Trimmed.gif
@@ -64,8 +64,7 @@ place in chat throughout the call.   
 
 -   [What's New in Microsoft Teams \| November
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-november-2021/ba-p/3015700)
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 
 -   **Register for Sharing is Caring Events:**

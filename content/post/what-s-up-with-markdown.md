@@ -2,7 +2,7 @@
 title: "What\\'s up with Markdown?"
 date: 2021-05-04T03:54:00-04:00
 author: "Bob German"
-categories: []
+categories: ["Tooling"]
 images:
 - images/blog/what-s-up-with-markdown/hero-parker-p-800.png
 - images/blog/what-s-up-with-markdown/hero-parker-p-800.png

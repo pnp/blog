@@ -2,7 +2,7 @@
 title: "Create Report Of Assigned Licenses To Users From Microsoft 365"
 date: 2021-09-02T12:08:00-04:00
 author: "Dipen Shah"
-categories: []
+categories: ["Power Automate", "SharePoint", "Microsoft Graph"]
 images:
 - images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports2.png
 - images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Report4.1.png
@@ -44,6 +44,7 @@ store excel report in the SharePoint document library.
 5.  Connect to Graph API
 6.  Excel Online Connectors in Power Automate
 7.  Add row to Excel Worksheet.
+   
 **Prerequisites**
 1.  Microsoft 365 Account
 2.  License to access Power Automate

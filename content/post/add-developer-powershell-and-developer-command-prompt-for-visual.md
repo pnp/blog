@@ -2,7 +2,7 @@
 title: "Add Developer PowerShell and Developer Command Prompt for Visual Studio to Windows Terminal"
 date: 2021-03-29T01:29:00-04:00
 author: "Yannick Reekmans"
-categories: []
+categories: ["Tooling"]
 images:
 - images/blog/add-developer-powershell-and-developer-command-prompt-for-visual/image.png
 - images/blog/add-developer-powershell-and-developer-command-prompt-for-visual/image-1.png

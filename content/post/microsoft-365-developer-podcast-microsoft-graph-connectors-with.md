@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Podcast - Microsoft Graph Connectors with Brian T. Jackett"
 date: 2021-06-21T08:14:00-04:00
 author: "Paul Schaeflein"
-categories: []
+categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"

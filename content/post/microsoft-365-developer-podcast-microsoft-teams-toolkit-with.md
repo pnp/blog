@@ -2,7 +2,7 @@
 title: "Microsoft 365 Developer Podcast - Microsoft Teams Toolkit with Zhenya Savchenko and Tim Ng"
 date: 2021-07-19T05:37:00-04:00
 author: "Paul Schaeflein"
-categories: []
+categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"

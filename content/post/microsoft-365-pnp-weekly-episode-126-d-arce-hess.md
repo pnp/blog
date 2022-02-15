@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 126 - D\\'arce Hess"
 date: 2021-05-11T04:40:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-126-d-arce-hess/Thumb-Ep126.png
 tags: []

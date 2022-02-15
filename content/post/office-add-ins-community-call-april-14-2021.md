@@ -2,7 +2,7 @@
 title: "Office Add-ins community call -- April 14, 2021"
 date: 2021-05-03T12:56:00-04:00
 author: "David Chesnut"
-categories: []
+categories: ["Office Add-in developer community call recordings"]
 images: []
 tags: []
 type: "regular"

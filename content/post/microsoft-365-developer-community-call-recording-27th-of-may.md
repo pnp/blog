@@ -52,8 +52,7 @@ Additionally, 2 new Teams samples were delivered in the last 2 weeks. 
 The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) \|
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
  
 
 

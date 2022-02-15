@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 9th of November, 2021"
 date: 2021-11-10T12:59:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-9th-of-november-2021/recording-9th-november.png
 - images/blog/microsoft-365-platform-call-9th-of-november-2021/211109-together-mode.gif

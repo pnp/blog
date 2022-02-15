@@ -2,7 +2,7 @@
 title: "SharePoint community call - May 11th, 2021"
 date: 2021-05-11T11:59:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-community-call-may-11th-2021/210511-together-mode.gif
 tags: []

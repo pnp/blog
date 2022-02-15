@@ -2,7 +2,7 @@
 title: "CLI for Microsoft 365 v3.12"
 date: 2021-07-30T02:28:00-04:00
 author: "Garry Trinder"
-categories: []
+categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/cli-for-microsoft-365-v3-12/banner-cli-m365.png
 tags: []

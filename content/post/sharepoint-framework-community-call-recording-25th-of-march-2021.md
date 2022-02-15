@@ -2,7 +2,7 @@
 title: "SharePoint Framework Community Call Recording -- 25th of March, 2021"
 date: 2021-03-26T02:08:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-recording-25th-of-march-2021/together-pnp-25th-march-bi-weekly.gif
 tags: []

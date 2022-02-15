@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 4th of January, 2022"
 date: 2022-01-05T05:02:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-4th-of-january-2022/recording-4th-january.png
 - images/blog/microsoft-365-platform-call-4th-of-january-2022/220104-together-mode.gif
@@ -60,8 +60,7 @@ live at end of the call.   
 -   [What's New in Microsoft Teams \| December
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-december-2021/ba-p/3050099)
 
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Opt into PnP Recognition Program \|

@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 28th of December, 2021"
 date: 2021-12-29T01:16:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-28th-of-december-2021/recording-28th-dec.png
 - images/blog/microsoft-365-platform-call-28th-of-december-2021/211228-together-mode.gif
@@ -63,8 +63,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
     infrastructure](https://devblogs.microsoft.com/microsoft365dev/new-features-in-microsoft-graph-bookings-apis-provide-enhanced-booking-infrastructure/)
 -   [Microsoft Graph Bookings APIs now available on the v1
     endpoint](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-bookings-apis-now-available-on-the-v1-endpoint/)
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 
 -   Submit a [Sample

@@ -50,8 +50,7 @@ Additionally, 1 new Teams samples were delivered in the last 2 weeks.  
 Great work!  The host of this call was David Warner II (Catapult
 Systems) \| \@DavidWarnerII.  Q&A takes place in chat throughout the
 call.
-::: {.video-embed-center .video-embed}
-:::
+
 
 -   **Register for Sharing is Caring Events**:\
     -   First Time Contributor Session -- [June

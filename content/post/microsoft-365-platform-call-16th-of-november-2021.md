@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 16th of November, 2021"
 date: 2021-11-17T04:20:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-16th-of-november-2021/recording-16th-m365-platform.png
 - images/blog/microsoft-365-platform-call-16th-of-november-2021/211116-together-mode.gif
@@ -68,8 +68,7 @@ place in chat throughout the call
 -   [Guidance on implementing partner offerings for Viva Connections
     with ACEs and custom
     APIs](https://devblogs.microsoft.com/microsoft365dev/guidance-on-implementing-partner-offerings-for-viva-connections-with-aces-and-custom-apis/)
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   **Register for Sharing is Caring Events:**

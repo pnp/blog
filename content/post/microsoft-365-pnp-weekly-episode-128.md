@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 128"
 date: 2021-05-25T02:35:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-128/Thumb-Ep128.png
 tags: []

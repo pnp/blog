@@ -39,8 +39,7 @@ released.   **Microsoft Graph Toolkit** try out the new OneDrive file
 components (Preview).   The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| \@vesajuvonen.
  Q&A takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 -   [Microsoft 365 Developer Community
     Survey](https://aka.ms/m365pnp/survey) --

@@ -2,7 +2,7 @@
 title: "10 things we should think about before we build an app"
 date: 2021-03-11T01:50:00-05:00
 author: "Luise Freese"
-categories: []
+categories: ["Power Apps"]
 images: []
 tags: []
 type: "regular"

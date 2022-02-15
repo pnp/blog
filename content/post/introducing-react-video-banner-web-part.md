@@ -2,7 +2,7 @@
 title: "Introducing React Video Banner Web Part"
 date: 2021-05-06T04:18:00-04:00
 author: "Mohamed Derhalli"
-categories: []
+categories: ["SharePoint"]
 images:
 - images/blog/introducing-react-video-banner-web-part/derhallim_0-1620249069072.png
 - images/blog/introducing-react-video-banner-web-part/derhallim_4-1620249695924.png

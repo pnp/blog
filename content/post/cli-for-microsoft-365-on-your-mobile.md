@@ -20,6 +20,7 @@ draft: false
 >
 > *\"I see you are available, could you
 do...\"* 😒
+
 Ever got one of those message on Teams? Now when working \'home office\'
 I noticed this trend and I usually get one of those over the phone
 during shopping and usually couple of lines in CLI for Microsoft 365 may
@@ -28,7 +29,9 @@ strange). I always considered CLI for M365 as an ace up my sleeve but I
 never found any cards in my pocket... but a mobile phone
 🤩, now that's a different story. So lets see if we may
 use CLI on Android.
+
 ## But first of all what is CLI for Microsoft 365? Quick introduction
+
 if your already know... skip this part😀
 CLI for Microsoft 365 is a cross platform command line tool you may use
 to manage many things. To name a few, you may manage OneDrive, Planner,
@@ -49,6 +52,7 @@ npm package, that\'s right you need Node.js (that\'s why it\'s cross
 platform). How cool is that. If only we could use Node on Android right
 😀.
 ## **CLI everywhere, why not on mobile?**
+
 So let\'s check how we may use CLI for Microsoft 365 on Andriod.
 1.  First we need a terminal to install Node. For this we may use
   
