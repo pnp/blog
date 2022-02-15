@@ -46,8 +46,7 @@ nightly!  Subscribe to nightly releases for the latest capabilities. 
 There were 3 new script samples this week.  The host of this call was
 [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 
 -   Create a Teams Sample - [Microsoft Teams Samples Wish

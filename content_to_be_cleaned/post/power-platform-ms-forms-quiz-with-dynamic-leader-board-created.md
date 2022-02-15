@@ -1,4 +1,15 @@
-# Power Platform MS Forms Quiz with dynamic Leader Board created using Power Automate and HTTP Trigger
+---
+title: "Power Platform MS Forms Quiz with dynamic Leader Board created using Power Automate and HTTP Trigger"
+date: 2021-04-29T08:40:00-04:00
+author: "Damien Bird"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Here is an example Power Automate solution where we query a real
 SharePoint List acting as a Quiz Leader Board on my dev tenant and bring
@@ -8,7 +19,8 @@ display content from our Office 365 environments.
 The competition is rife at the top of this Leader Board.  The aim is to
 get 100% and it is ordered by last completed to give everyone a chance
 to be top, albeit I am sorry to say that there is no official badge for
-this one. 
+this one.
+
 **Want to test your Power Automate knowledge?   [Click
 Here](https://forms.office.com/pages/responsepage.aspx?id=0QHJFmOXsUmWHGzXAfXQ92JiZGxvT_tLiMeGs9ElLKxUQ1RRWFpGSEtVTjFDQ0QwNU1FUlkzSDlKMC4u)**
 ![DamoBird365_0-1619726369840.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/276915i5B7F6B6D08A4F094/image-size/medium?v=v2&px=400 "DamoBird365_0-1619726369840.png")

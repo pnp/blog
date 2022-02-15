@@ -49,8 +49,7 @@ nightly!  Subscribe to nightly releases for the latest capabilities. **
 The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) \|
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 
 -   Opt into PnP Recognition Program

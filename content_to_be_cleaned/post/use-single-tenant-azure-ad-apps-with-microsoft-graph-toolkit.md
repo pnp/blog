@@ -1,4 +1,15 @@
-# Use single-tenant Azure AD apps with Microsoft Graph Toolkit
+---
+title: "Use single-tenant Azure AD apps with Microsoft Graph Toolkit"
+date: 2021-08-08T08:40:00-04:00
+author: "Waldek Mastykarz"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ![banner-mgt-login-single-tenant-azure-ad.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/294361iED2D1A77827CEB01/image-size/large?v=v2&px=999 "banner-mgt-login-single-tenant-azure-ad.png")
 When using Microsoft Graph Toolkit with Azure AD single-tenant Azure AD

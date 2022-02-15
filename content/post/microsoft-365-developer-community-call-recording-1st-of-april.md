@@ -37,8 +37,7 @@ members](https://aka.ms/pnpwatchparty) to watch the 2-hour livestream -
 Building Apps with Microsoft Graph, on the 14th of April. The host of
 this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
 \| \@vesajuvonen.  Q&A takes place in chat throughout the call
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 -   Register for both:
     -   Register to watch the Microsoft Graph livestream with your

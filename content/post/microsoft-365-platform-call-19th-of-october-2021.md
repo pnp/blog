@@ -80,8 +80,7 @@ takes place in chat throughout the call.   
 -   [Microsoft Ignite 2021 guide to SharePoint, OneDrive, Viva, Lists,
     Syntex, Stream, Visio and
     more](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-ignite-2021-guide-to-sharepoint-onedrive-viva-lists/ba-p/2853103)
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 
 -   Register today for Hacktoberfest 2021

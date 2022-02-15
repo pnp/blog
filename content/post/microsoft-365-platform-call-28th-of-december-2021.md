@@ -63,8 +63,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
     infrastructure](https://devblogs.microsoft.com/microsoft365dev/new-features-in-microsoft-graph-bookings-apis-provide-enhanced-booking-infrastructure/)
 -   [Microsoft Graph Bookings APIs now available on the v1
     endpoint](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-bookings-apis-now-available-on-the-v1-endpoint/)
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 
 -   Submit a [Sample

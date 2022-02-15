@@ -31,6 +31,7 @@ is now possible to integrate with your To Do tasks outside of To Do.
 
 
 ## A Helpful Reminder
+
 Whilst you can set reminders against tasks in To Do, wouldn\'t it be
 awesome to have these surface outside of the To Do app too? Before we
 start, make sure you have some pending tasks on your **Tasks** list in

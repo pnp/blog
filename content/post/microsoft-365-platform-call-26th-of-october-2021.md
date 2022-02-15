@@ -67,8 +67,7 @@ call   
 
 -   [Use end-to-end encryption for one-to-one Microsoft Teams
     calls](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/use-end-to-end-encryption-for-one-to-one-microsoft-teams-calls/ba-p/2867066)
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 
 -   **Next week, join your PnP Community mates in this regularly

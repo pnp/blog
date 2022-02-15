@@ -51,8 +51,7 @@ As well, there were 17 script samples, 2 Teams samples and 3 Power
 Platform Samples this week.  The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) \|
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 
 -   Register today for Hacktoberfest 2021

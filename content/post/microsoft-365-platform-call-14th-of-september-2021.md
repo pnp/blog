@@ -49,8 +49,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| \@vesajuvonen.
 -   [Breaking changes to the me/assignments endpoint in the Microsoft
     Graph Assignments API
     (beta)](https://developer.microsoft.com/en-us/microsoft-365/blogs/breaking-changes-to-the-me-assignments-endpoint-in-the-microsoft-graph-assignments-api-beta/)
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Opt in to PnP Recognition Program

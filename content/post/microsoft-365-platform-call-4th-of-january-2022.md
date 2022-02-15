@@ -60,8 +60,7 @@ live at end of the call.   
 -   [What's New in Microsoft Teams \| December
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-december-2021/ba-p/3050099)
 
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Opt into PnP Recognition Program \|

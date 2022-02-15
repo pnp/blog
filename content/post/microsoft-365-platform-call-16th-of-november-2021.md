@@ -68,8 +68,7 @@ place in chat throughout the call
 -   [Guidance on implementing partner offerings for Viva Connections
     with ACEs and custom
     APIs](https://devblogs.microsoft.com/microsoft365dev/guidance-on-implementing-partner-offerings-for-viva-connections-with-aces-and-custom-apis/)
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   **Register for Sharing is Caring Events:**

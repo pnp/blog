@@ -1,5 +1,15 @@
+---
+title: "Updates on the Microsoft 365 platform community calls"
+date: 2021-06-28T08:40:00-04:00
+author: "Vesa Juvonen"
+categories: []
+images:
 
-# Updates on the Microsoft 365 platform community calls
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ![community-call-updates.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/291909i41EA860045C98AB9/image-size/large?v=v2&px=999 "community-call-updates.png")
 

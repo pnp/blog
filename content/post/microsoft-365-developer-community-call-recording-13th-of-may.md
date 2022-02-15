@@ -41,8 +41,7 @@ Microsoft Build time frame.   
 Additionally, one new Teams sample delivered.  The host of this call was
 [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 \| \@DavidWarnerII.   Q&A takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [May

@@ -13,7 +13,9 @@ draft: false
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from August 31st, is now available from the Microsoft 365 Community
-YouTube channel at <http://aka.ms/m365pnp-videos>. 
+YouTube channel at <http://aka.ms/m365pnp-videos>.
+
+ 
 **Call Summary**
 
 Welcome to the first in a new series of weekly calls focused on

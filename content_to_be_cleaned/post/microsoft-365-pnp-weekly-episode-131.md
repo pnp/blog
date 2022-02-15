@@ -1,51 +1,24 @@
 ::: {#7B0-003-5 .ServiceNodeInfoHeader}
 :::
 
-::: lia-page
-::: MinimumWidthContainer
-::: min-width-wrapper
-::: min-width
-::: lia-content
-::: {.lia-quilt .lia-quilt-blog-article-page .lia-quilt-layout-two-column-main-side-18-6 .lia-top-quilt}
-::: {.lia-quilt-row .lia-quilt-row-header}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-header}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-::: {.lia-quilt .lia-quilt-header .lia-quilt-layout-header .lia-component-quilt-header}
-::: {.lia-quilt-row .lia-quilt-row-main-header}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-header}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-::: {#cookie-banner .cookie-markup}
-:::
 
-::: {#readerAssistMessages .section .live-region aria-live="assertive" role="alert"}
-:::
+
+
 <<<<<<< HEAD
 
-::: community-header-blank
-:::
 
-::: community-header-component
-::: community-header-wrapper
-::: container
-::: {#community-menu-wrapper-menu .menu-link}
-[](javascript:void(0)){#community-menu-wrapper-menu-link}
 
-::: {#community-menu-wrapper-menu-icon .menu-icon title=""}
-:::
-:::
 
-[![](https://techcommunity.microsoft.com/html/@6005EEFEC6E5ECADBBFC249DFA7D38A8/assets/Content/Images/GlobalHeader/MicrosoftLogo.png){.c-image
-itemprop="logo" role="presentation" aria-hidden="true"}
-[Microsoft]{role="presentation"
-aria-hidden="true"}](https://www.microsoft.com){#uhfLogo .c-logo
-.c-sgl-stk-uhfLogo}
+
+
+
+
 =======
 ![]
 
 >>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 
-::: {.c-show-pipe aria-hidden="true"}
-:::
+
 
 <<<<<<< HEAD
 [Tech Community](/){#uhfCatLogo .c-logo .c-cat-logo}
@@ -70,25 +43,7 @@ aria-hidden="true"}](https://www.microsoft.com){#uhfLogo .c-logo
 >>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
 [](/)
 
-::: {.mdl2-glyph .community-menu-item-icon}
-
-:::
 
-::: community-menu-item-title
-Home
-:::
-:::
-
-::: {.community-menu-item .community-menu-dropdown}
-[](#){.community-menu-item-desktop-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Community Hubs
-:::
 
 <<<<<<< HEAD
 [](/t5/communities/ct-p/communities#category-filter-button-all){.community-menu-item-mobile-view
@@ -626,50 +581,6 @@ Hubs](/t5/Communities/ct-p/communities){#browse-all-communities}
 :::
 =======
 >>>>>>> 657a930f3ce73edce141cf5838cf02103115b94f
-
-::: {.community-menu-item .my-favorites}
-[](/t5/custom/page/page-id/Blogs){.community-menu-item-desktop-view}
-
-::: {.mdl2-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title
-Blogs
-:::
-
-[](/t5/custom/page/page-id/Blogs){.community-menu-item-mobile-view}
-
-::: {.mdl2-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title
-Blogs
-:::
-:::
-
-::: {.community-menu-item .tab-events .community-menu-dropdown}
-[](#){.community-menu-item-desktop-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Events
-:::
-
-[](#){.community-menu-item-mobile-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Events
-:::
-
 ::: {.dropdown .dropdown-events .dropdown-primary-nav}
 -   [Events Home](/t5/Events/ct-p/Events)
 -   [Microsoft Ignite](https://myignite.microsoft.com/)
@@ -1440,8 +1351,7 @@ inclusive and diverse.
 <<<<<<< HEAD
  
 
-::: {.video-embed-center .video-embed}
-:::
+
 
  
 

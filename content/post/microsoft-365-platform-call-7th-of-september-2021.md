@@ -41,8 +41,7 @@ place in chat throughout the call.
 
 -   Updates for Microsoft Teams bots in Multi-Geo environments
 -   Changes to the Microsoft 365 usage reports API
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Opt in to PnP Recognition Program

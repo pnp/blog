@@ -60,8 +60,7 @@ live at end of the call.   
 
 -   [Developing enterprise-ready Microsoft Teams apps with Teams ToolKit
     v3.0](https://devblogs.microsoft.com/microsoft365dev/developing-enterprise-ready-microsoft-teams-apps-with-teams-toolkit-v3-0/)
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   **Register for Sharing is Caring Events:**

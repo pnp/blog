@@ -69,8 +69,7 @@ As well, there were 6 new/updated script samples this week!  The host of
 this call was [David Warner II](http://twitter.com/DavidWarnerII)
 (Catapult Systems) \| \@DavidWarnerII.   Q&A takes place in chat
 throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Opt into PnP Recognition Program

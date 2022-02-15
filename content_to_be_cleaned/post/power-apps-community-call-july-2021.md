@@ -1,7 +1,17 @@
-# Power Apps Community Call -- July 2021
+---
+title: "Power Apps Community Call -- July 2021"
+date: 2021-07-21T08:40:00-04:00
+author: "Todd Baginski"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 ![900x506-JulyPAThumbslide.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298460i1972FB932E413944/image-size/large?v=v2&px=999 "900x506-JulyPAThumbslide.png")
- 
 
 **Call Summary:**
 
@@ -9,11 +19,17 @@ Topics covered in this month's community call includes an inside look at
 the top 5 community selected apps (from over 20 entries) from Demo
 Extravaganza 2021!   The winning submissions - Course Maker Solution,
 Number Puzzle, Pandemic Response Solution, Kitty Run! Game, and Sports
-Stats Tracker.  After the demos were presented, call attendees selected
-with slim margins, the top app.  Also, Recent Power Apps News and
+Stats Tracker. 
+
+After the demos were presented, call attendees selected
+with slim margins, the top app.  
+
+Also, Recent Power Apps News and
 Community Contributions and Latest on [PnP Power Platform Samples
 Contributions](https://aka.ms/powerplatform-samples).   This session
-included Q&A in chat.  The call was hosted by Todd Baginski (Canviz). 
+included Q&A in chat.  
+
+The call was hosted by Todd Baginski (Canviz). 
 Demo presenters are Rory Neary, Krishna Rachakonda, Venkat Rao, Nghiem
 Doan, Aakash Jain, Nicholas Nguyen, Todd Baginski and Matt Schuessler. 
 This call was recorded on July 21, 2021.  Thank for attending the call

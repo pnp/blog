@@ -45,8 +45,7 @@ Two new Teams samples showcasing Adaptive Cards Universal Action Model. 
 Great work!  The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 
 **Register for Sharing is Caring Events**:
 

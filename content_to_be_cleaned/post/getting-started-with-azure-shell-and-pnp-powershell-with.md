@@ -1,4 +1,15 @@
-# Getting Started with Azure Shell and PnP PowerShell with Certificates
+---
+title: "Getting Started with Azure Shell and PnP PowerShell with Certificates"
+date: 2021-05-14T08:40:00-04:00
+author: "Pau Bullock"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 I recently encountered a scenario recently where I was looking to do a
 quick technical check on some advice I was giving to another member of
@@ -13,9 +24,10 @@ I was not using best security practice at the time to log in
 (which I should have ☹). I will include better practice configuration to
 include certificates and an Azure AD App in this article.
  
-## What you will need 
+## What you will need
 
 So, let\'s get started; you will need a few things to get going,
+
 -   **Azure Subscription** - this is necessary for a storage account
     that preserves your files between sessions and is mandatory for
     Azure cloud shell to work.
@@ -29,54 +41,60 @@ So, let\'s get started; you will need a few things to get going,
 -   **Windows Machine** -- for creating the app and certificate.
 -   If setting up services locally by PowerShell, then [install the Az
     module](https://www.powershellgallery.com/packages/Az/5.8.0).
+
 ## Setting Up 
+
 There are a few tasks we are going to do to set up working with Azure
 Shell, Azure AD App and Certificates.
  
 ### Activate Azure Shell 
+
 First, let\'s go ahead and activate the Azure Shell; we will use this to
 set up the required resources as well:
 Navigate to <https://shell.azure.com> or click on the icon in the Azure
 Portal.
-::: {#tinyMceEditorPaul Bullock_0 .mceNonEditable .lia-copypaste-placeholder}
- 
-:::
+
 Then run through the first setup of the Azure Shell:
+
 ![Welcome screen Azure
 Shell](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280437iFD9F0ECE9A07CDCD/image-size/large?v=v2&px=999 "Azure Shell - First Welcome.png")
 
 Select PowerShell. Then run through the first setup of the Azure Shell:
+
 ![Simple setup screen for
 storage](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280438i3656B18BEB0A9634/image-size/large?v=v2&px=999 "Azure Shell - Simple Setup.png")
-If you choose \"Create storage\" at this point, then this will set up
+
+If you choose `Create storage` at this point, then this will set up
 the storage account and resource group for you, using Azure\'s naming
 standards and region. If you want to specify:
+
 -   Subscription
 -   Region
 -   Resource Group
 -   Storage account
 -   File share name
 
-
 ![Azure Shell Advanced
 Setup](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280439i150A0689B838C458/image-size/large?v=v2&px=999 "Azure Shell Advanced Settings.png")
+
 Then select Advanced settings. I like to name resources myself in a
 standard manner. For this article, I am going to use the advanced
 options and specify:
--   Region: \"North Europe\"
--   Resource Group Name: \"azure-cloud-shell\"
--   Storage Account: "pkbtenantcloudshell"
--   File Share: \"pkbtenantcloudshellfiles\"
-Note: the naming of some of these resources is very strict, e.g., 3 -24
-characters, no spaces, lowercase.
-Click \"Create Storage\"
 
+-   Region: `North Europe`
+-   Resource Group Name: `azure-cloud-shell`
+-   Storage Account: "pkbtenantcloudshell"
+-   File Share: `pkbtenantcloudshellfiles`
+  
+> Note: the naming of some of these resources is very strict, e.g., 3 -24characters, no spaces, lowercase
+
+- Click `Create Storage`
 
 ![Azure Shell - Setup
 Complete](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280440i048CB9009640E9C7/image-size/large?v=v2&px=999 "Azure Shell - Setup Complete.png")
 Now the Azure Shell is ready to use.
- 
-### Installing PnP-PowerShell 
+
+### Installing PnP-PowerShell
 
 Next, we need to install the PnP PowerShell module in Azure Cloud shell,
 enter:
@@ -95,9 +113,10 @@ For information on installing PnP-PowerShell, check out the
 documentation site for more details: <https://pnp.github.io/powershell/>
  
 ### Create a KeyVault 
+
 Next, we want somewhere secure to store a certificate -- Azure
-KeyVault.\
-\
+KeyVault.
+
 A KeyVault is a secure method of storing keys, secrets and certificates.
 We intend to keep the certificate used for this setup in the vault.
 Another benefit of using this method, in larger organisations, where
@@ -122,27 +141,22 @@ step) and give yourself access to Secrets and Certificates.
 ``` {.lia-code-sample .language-powershell}
 Set-AzKeyVaultAccessPolicy -VaultName 'pkbtenant-keyvault' -UserPrincipalName 'paul.bullock@tenant.co.uk' -PermissionsToCertificates All -PermissionsToSecrets All
 ```
- 
- 
+
 ![Azure Shell - Create
 KeyVault](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280442i5F85D789B10B2B5D/image-size/large?v=v2&px=999 "New KeyVault - AzShell.png")
 Please refer to the documentation if you want to be more specific around
 the KeyVault -- [Azure
 Portal](https://docs.microsoft.com/en-gb/azure/key-vault/general/quick-create-portal#create-a-vault)
-\|
 [PowerShell](https://docs.microsoft.com/en-us/powershell/module/az.keyvault/?view=azps-5.9.0).
-We will be importing a certificate in a later section.
+We will be importing a certificat
+e in a later section.
  
-### Create Azure AD App with Register-PnPAzureApp 
+### Create Azure AD App with Register-PnPAzureApp
+
 There are a few options when setting up the authentication to connect
 with PnP PowerShell:
--   **Azure AD App** -- using your app (recommended), which will use the
-    APPLICATION permissions, meaning the connection will use the
-    permissions the app does.
--   **PnP Management Shell** -- the multi-tenant app PnP provides --
-    this uses DELEGATE permissions meaning the connection will need to
-    log in as the user and will only have access to services THE user
-    has access to.
+-   **Azure AD App** -- using your app (recommended), which will use the APPLICATION permissions, meaning the connection will use the permissions the app does.
+-   **PnP Management Shell** -- the multi-tenant app PnP provides -- this uses DELEGATE permissions meaning the connection will need to log in as the user and will only have access to services THE user has access to.
 If you need clarification on the difference between the types of
 permissions, I highly recommend checking out an awesome community call
 demo from Philippe Signoret, Program Manager of the Microsoft Identity
@@ -155,7 +169,7 @@ such as interactive login, because it cannot display a pop-up window.
 ![Azure Shell - doesn\'t support interactive
 login](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280443i78DB2E453BCA80E9/image-size/large?v=v2&px=999 "PnP PowerShell - cannot use Azure Shell.png")
 
-The \"-PnPManagementShell\" parameter is an option; this uses the device
+The `-PnPManagementShell` parameter is an option; this uses the device
 login method BUT will require you to navigate to another site/page to
 authenticate, including going back to grab the code -- then enter your
 login credentials further steps if MFA is enabled. IMHO feels a bit
@@ -165,7 +179,7 @@ especially on an iPad/phone.
 ###  Create an Azure AD App 
 
 To set up the app quickly with PnP PowerShell, you need to use a
-***Windows machine*** to run the cmdlet *\"Register-PnPAzureApp\"* which
+***Windows machine*** to run the cmdlet *`Register-PnPAzureApp`* which
 generates the certificate, creates the Azure AD app, sets API
 permissions, will pop up to consent to the app permissions.
 Note: you may have to install the PnP PowerShell locally if you do not
@@ -178,8 +192,7 @@ cmdlet:
 $result = Register-PnPAzureADApp -ApplicationName "PnP PowerShell Azure Shell Access" -Tenant yourtenant.co.uk -OutPath .\ -DeviceLogin -ValidYears 2 -CertificatePassword (ConvertTo-SecureString -String "yourpassword" -AsPlainText -Force)
 $result #output the result – Specifically grab the AzureAppId/ClientId – you will need this later
 ```
- 
- 
+
 ![PowerShell - Registering Azure
 App](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280444iFAFA3BF7106E24A4/image-size/large?v=v2&px=999 "Register App - Windows.png")
 During this operation, two windows will pop-up to authenticate with the
@@ -187,7 +200,7 @@ device login method and consent to the app permissions.
  
 If you want to check the app in Azure AD, navigate to:
 <https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps>
-and find the app called \"PnP PowerShell Azure Shell Access\"
+and find the app called `PnP PowerShell Azure Shell Access`
  
 Note: This app uses the minimum API permissions (APPLICATION) as the
 default; if you want to perform operations with groups or flow as an
@@ -199,7 +212,8 @@ For more details on generating the app, check out the [authentication
 section of the
 documentation](https://pnp.github.io/powershell/articles/authentication.html).
  
-## Adding Certificate to KeyVault 
+## Adding Certificate to KeyVault
+
 Now that we have the app setup, we need to upload the certificate to the
 KeyVault.
 Navigate to the KeyVault in the portal
@@ -207,21 +221,22 @@ Navigate to the KeyVault in the portal
 ![Azure KeyVault - Navigating to
 Certificates](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280446i5CE2E9BF2C10AD95/image-size/large?v=v2&px=999 "Azure KeyVault - Certificates.png")
 
--   Select \"Import\"
--   Enter a name \"azureshell-pnpps-connection\"
--   Select the generated certificate \"PnP PowerShell Azure Shell
-    Access.pfx\"
+-   Select `Import`
+-   Enter a name `azureshell-pnpps-connection`
+-   Select the generated certificate `PnP PowerShell Azure Shell
+    Access.pfx`
 -   Enter the certificate password
-Click Create
+-   Click Create
  
 ![Azure Key Vault - Upload
 Certificate](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280447i46604D4A6DF19734/image-size/large?v=v2&px=999 "KeyVault-Importing Certificate.png")
 This is ready to use in a later section.
  
-## Reducing the time to get going on new sessions 
+## Reducing the time to get going on new sessions
 
 When I start the Azure Shell, I want to minimize the number of lines, to
 connect to the services securely and get going quickly.
+
 ### Parameter Splatting 
 
 Parameter splatting is a method to pass a collection of parameters for a
@@ -263,13 +278,12 @@ account use:
 mkdir (Split-Path $profile.CurrentUserAllHosts)
 New-Item -ItemType File -Path $PROFILE.CurrentUserAllHosts -Force
 ```
- 
- 
+
 ![Azure Shell - Setup
 Profiles](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280449i288B73A558036A56/image-size/large?v=v2&px=999 "Azure Shell - Setup Profile.png")
 Once created, you can open an editor in the path above to the new
 profile script location.
- 
+
 Then using the following example, using a combination of parameter
 splatting and profiles, you can setup everything you need to connect to
 the service:
@@ -335,4 +349,6 @@ Stop-Transcript
  
 This will save the file to the current location in the Azure Shell. Use
 Export-File to download it, or the UI button.
+
+
 **Enjoy!**

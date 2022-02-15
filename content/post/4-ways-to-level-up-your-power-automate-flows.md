@@ -12,7 +12,8 @@ tags: []
 type: "regular"
 draft: false
 
----## Intro
+---
+## Intro
 
 A while back, I wrote about [How to use a custom connector in Power
 Automate](https://www.m365princess.com/blogs/2021-02-23-how-to-use-a-custom-connector-in-power-automate/) showing

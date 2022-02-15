@@ -1,4 +1,15 @@
-#  Use CLI for Microsoft 365 to recognize contributions
+---
+title: "Use CLI for Microsoft 365 to recognize contributions"
+date: 2021-05-14T08:40:00-04:00
+author: "Albert-Jan Schot"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 So, recognition is important, and it is important to keep in mind that
 not everything should be automated. But a bit of gamification is a nice
@@ -41,12 +52,10 @@ documentation](https://pnp.github.io/cli-microsoft365/cmd/tenant/report/report-a
 In our case we want to post the weekly progress and thus retrieve a
 weeks worth of data. And since we are going to work with the data the
 output is going to be JSON. Resulting in the following snippet: 
- 
 
 ``` {.lia-code-sample .language-bash}
 m365 teams report useractivityuserdetail --period D7 --output json
 ```
- 
 
 ## Working with the result set 
 
@@ -167,7 +176,9 @@ it is a fun way to see who is doing what. It might even be a great
 conversation starter. Or you could use the same approach to identify who
 is missing out and instead of sharing that publicly let a Teams Champion
 know who might need additional assistance. If you have any questions
-regarding the CLI for Microsoft or have feedback let us know! We are
+regarding the CLI for Microsoft or have feedback let us know! 
+
+We are
 always looking for
 [contributions](https://github.com/pnp/cli-microsoft365/issues "contributions")
 or new [sample script

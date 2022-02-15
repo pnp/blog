@@ -1,12 +1,21 @@
+---
+title: "Use PnP Powershell to add a document library web part to a page (and only show a specific folder)"
+date: 2021-06-10T08:40:00-04:00
+author: "Marijn Somers"
+categories: []
+images:
 
-# Use PnP Powershell to add a document library web part to a page (and only show a specific folder
+tags: []
+type: "regular"
+draft: false
 
+---
 As a non-developer (please read this as a disclaimer) I still try to
 make my life as easy as possible (yes, I am that lazy). PnP Powershell
 is a big component of that goal. A customer had the requirement to
 create a page for each of their 86 folders in a document library so they
 could add more information on those topics. That meant creating 86
-pages, each with a document library webpart on it that showed a specific
+pages, each with a document library web part on it that showed a specific
 folder. No chance I was going to do that manually!
 
 Creating the page wasn't really difficult. Showing the document library
@@ -19,7 +28,7 @@ like me to just copy/paste the code.
 
 We started with a document library containing 86 folders, each having a
 few documents. The goal was to create 86 pages, with each page showing a
-block of text on the left and the document library webpart showing only
+block of text on the left and the document library web part showing only
 the files from that folder.
 
 # How to do this in the user interface 
@@ -132,14 +141,7 @@ in the url:
 
 
 ![SharePoint document library ID in the url of the library settings
-page](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287222iE3871EB251E50F68/image-size/large?v=v2&px=999 "documentlibrary-id.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287222iE3871EB251E50F68?v=v2"
-li-image-display-id="'287222iE3871EB251E50F68'"
-li-message-uid="'2428310'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}
-:::
+page](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287222iE3871EB251E50F68/image-size/large?v=v2&px=999 "documentlibrary-id.png")
 
 Just cut out the %7B in the front, and the %7D on the back.\
 In this example, the document library Id is

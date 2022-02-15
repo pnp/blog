@@ -1,4 +1,15 @@
-# Use Node Version Manager to develop your SPFx apps
+---
+title: "Use Node Version Manager to develop your SPFx apps"
+date: 2021-02-14T08:40:00-04:00
+author: "Toni Pohl"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 To develop applications for SharePoint or Microsoft Teams with the [SPFx
 framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview "Overview of the SharePoint Framework"),
@@ -58,12 +69,9 @@ and run it. Or, you can use choco (if installed on your computer):\
 
 Let´s check if nvm is working:
 
-*nvm ls*\
+`nvm ls`
 should find no Node.js versions.
 
-::: {#tinyMceEditorToni Pohl_2 .mceNonEditable .lia-copypaste-placeholder}
- 
-:::
 
 ![p3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254773i354DB7DAD488458D/image-size/large?v=v2&px=999 "p3.png")
 
@@ -71,8 +79,6 @@ To see the latest Node.js versions check <https://nodejs.org/en/>, or
 simply run
 
 *nvm ls available*
-
-
 
 ![List available Node.js
 versions](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254750iBB84025E20884DB4/image-size/large?v=v2&px=999 "p4.png")
@@ -82,25 +88,17 @@ Now, install the desired Node.js versions:
   *nvm install 10.23.0*
 
 
-    ![p5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254770i42313897C54DFC12/image-size/large?v=v2&px=999 "p5.png"){.lia-media-image
-    role="button"
-    li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254770i42313897C54DFC12?v=v2"
-    li-image-display-id="'254770i42313897C54DFC12'"
-    li-message-uid="'2128393'" li-messages-message-image="true"
-    li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-    li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-    .lia-image-align-inline image-alt="p5.png" style="width: 430px;"}
+    ![p5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254770i42313897C54DFC12/image-size/large?v=v2&px=999 "p5.png")
 
-  *nvm install 14.15.4*
+  `nvm install 14.15.4`
 
 
 
-    ![p6.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254771i02E6CE22572B1295/image-size/large?v=v2&px=999 "p6.png")
+![p6.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254771i02E6CE22572B1295/image-size/large?v=v2&px=999 "p6.png")
 
 -   Etc. For the latest Node.js version, simply run
 
-    *nvm install latest\
-    *
+    `nvm install latest`
 
 Now check the installed versions: *nvm ls*
 

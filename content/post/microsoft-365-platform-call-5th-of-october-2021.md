@@ -54,8 +54,7 @@ place in chat throughout the call.
 -   [Updated navigation in Microsoft Teams admin center makes it easier
     to find what you
     need](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/updated-navigation-in-microsoft-teams-admin-center-makes-it/ba-p/2801281)
-::: {.video-embed-center .video-embed}
-::: {.video-embed-center .video-embed}
+ {.video-embed-center .video-embed}
 :::
 :::
  

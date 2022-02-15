@@ -72,8 +72,7 @@ call.   
     Initiate](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/the-journey-to-viva-topics-adoption-success-initiate/ba-p/2976653)
 -   [The journey to Viva Topics adoption success:
     Intro](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/the-journey-to-viva-topics-adoption-success-intro/ba-p/2976552) 
-::: {.video-embed-center .video-embed}
-:::
+
  
 
 **Actions:**

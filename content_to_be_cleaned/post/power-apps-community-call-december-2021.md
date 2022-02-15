@@ -1,19 +1,30 @@
-# Power Apps Community Call -- December 2021
+---
+title: "Power Apps Community Call -- December 2021"
+date: 2021-12-15T08:40:00-04:00
+author: "Todd Baginski"
+categories: []
+images:
 
-![PowerApps Thumb DEcember
+tags: []
+type: "regular"
+draft: false
+
+---
+
+![PowerApps Thumb December
 2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/334612i0DA8BA49033753BD/image-size/large?v=v2&px=999 "PowerApps Thumb DEcember 2021.png")
 **Call Summary:**
 
 Topics covered in this month's community call includes 2 demos:
  
-**Building Xbox games with Power Apps** -- (create an Xbox controller
+- **Building Xbox games with Power Apps** -- (create an Xbox controller
 ready app) - [Brian Dang](http://twitter.com/mrdang) (Microsoft) and
 
-**Office like commenting & co-authoring** (add commenting capability and
+- **Office like commenting & co-authoring** (add commenting capability and
 Experimental co-authoring with git integration, to a canvas app**)** -
 [Emma Cooper](https://www.linkedin.com/in/emmamcooper) (Microsoft).
 
-**Recent Power Apps News and Community Contributions** (Visualize data
+- **Recent Power Apps News and Community Contributions** (Visualize data
 in model-driven apps with Power BI (preview, and December Developer
 Tools Refresh) **--** [Charles Sterling](http://twitter.com/chass)
 (Microsoft).  Latest PnP Power Apps Samples -- [April
@@ -22,7 +33,9 @@ hosted by [Todd Baginski](http://twitter.com/toddbaginski) (Canviz).
 
 The
 call was recorded on December 15, 2021.  Questions were addressed in
-chat throughout the call.  Thank for attending the call or viewing it on
+chat throughout the call. 
+
+Thank for attending the call or viewing it on
 demand. 
 
 **Agenda:**  

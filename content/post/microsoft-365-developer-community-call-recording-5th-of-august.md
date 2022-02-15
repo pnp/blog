@@ -44,8 +44,7 @@ Libraries - **PnP Core SDK v1.3.0** and **PnP PowerShell v1.7.0**. 
 Three Power Platform samples were delivered, as well.  The host of this
 call was [Julie Turner](http://twitter.com/jfj1997) (Sympraxis
 Consulting) \| \@jfj1997.   Q&A takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 **Actions:**
 
 -   Opt in to PnP Recognition Program \|

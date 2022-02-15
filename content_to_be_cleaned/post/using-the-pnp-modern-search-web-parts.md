@@ -1,7 +1,17 @@
+---
+title: "Using the PnP Modern Search Web Parts"
+date: 2021-05-27T08:40:00-04:00
+author: "Will Holland"
+categories: []
+images:
 
-# Using the PnP Modern Search Web Parts
+tags: []
+type: "regular"
+draft: false
 
-## These *are* the web parts you\'re looking for. 
+---
+
+## These *are* the web parts you\'re looking for
 
 The *[PnP Modern Search web
 parts](https://microsoft-search.github.io/pnp-modern-search/)*, out of

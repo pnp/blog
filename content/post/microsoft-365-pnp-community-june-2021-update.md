@@ -18,27 +18,11 @@ tags: []
 type: "regular"
 draft: false
 
----::: {#437-003-1 .ServiceNodeInfoHeader}
-:::
+---
 
-::: lia-page
-::: MinimumWidthContainer
-::: min-width-wrapper
-::: min-width
-::: lia-content
-::: {.lia-quilt .lia-quilt-blog-article-page .lia-quilt-layout-two-column-main-side-18-6 .lia-top-quilt}
-::: {.lia-quilt-row .lia-quilt-row-header}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-header}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-::: {.lia-quilt .lia-quilt-header .lia-quilt-layout-header .lia-component-quilt-header}
-::: {.lia-quilt-row .lia-quilt-row-main-header}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-header}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-::: {#cookie-banner .cookie-markup}
-:::
 
-::: {#readerAssistMessages .section .live-region aria-live="assertive" role="alert"}
-:::
+
+
 ![]
 
 
@@ -52,25 +36,7 @@ draft: false
 
 [](/)
 
-::: {.mdl2-glyph .community-menu-item-icon}
-
-:::
 
-::: community-menu-item-title
-Home
-:::
-:::
-
-::: {.community-menu-item .community-menu-dropdown}
-[](#){.community-menu-item-desktop-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Community Hubs
-:::
 
 
 
@@ -446,62 +412,6 @@ Teams](https://aka.ms/VideoHub/MicrosoftTeams "Microsoft Teams")
 
 [Windows](https://aka.ms/VideoHub/Windows "Windows")
 
-</div>
-:::
-:::
-:::
-:::
-
-::: custom-community-hubs-menu-footer
-[Browse All Community
-Hubs](/t5/Communities/ct-p/communities){#browse-all-communities}
-:::
-:::
-:::
-:::
-
-::: {.community-menu-item .my-favorites}
-[](/t5/custom/page/page-id/Blogs){.community-menu-item-desktop-view}
-
-::: {.mdl2-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title
-Blogs
-:::
-
-[](/t5/custom/page/page-id/Blogs){.community-menu-item-mobile-view}
-
-::: {.mdl2-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title
-Blogs
-:::
-:::
-
-::: {.community-menu-item .tab-events .community-menu-dropdown}
-[](#){.community-menu-item-desktop-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Events
-:::
-
-[](#){.community-menu-item-mobile-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Events
-:::
 
 ::: {.dropdown .dropdown-events .dropdown-primary-nav}
 -   [Events Home](/t5/Events/ct-p/Events)
@@ -573,19 +483,7 @@ Lounge
 :::
 :::
 
--   [[776K]{#community-menu-wrapper-vitality-stat-count-1
-    .community-menu-vitality-stat-count} [
-    Members]{#community-menu-wrapper-vitality-stat-title-1
-    .community-menu-vitality-stat-title}]{#community-menu-wrapper-vitality-stat-item-1}
--   [[7,337]{#community-menu-wrapper-vitality-stat-count-2
-    .community-menu-vitality-stat-count} [
-    Online]{#community-menu-wrapper-vitality-stat-title-2
-    .community-menu-vitality-stat-title}]{#community-menu-wrapper-vitality-stat-item-2}
--   [[2M]{#community-menu-wrapper-vitality-stat-count-3
-    .community-menu-vitality-stat-count} [
-    Discussions]{#community-menu-wrapper-vitality-stat-title-3
-    .community-menu-vitality-stat-title}]{#community-menu-wrapper-vitality-stat-item-3}
-:::
+
 
 ::: nav-right
 ::: {#search_container}

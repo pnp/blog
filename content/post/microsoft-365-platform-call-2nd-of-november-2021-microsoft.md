@@ -74,8 +74,7 @@ place in chat throughout the call   
 
 -   [What's New in Microsoft Teams \| October
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-october-2021/ba-p/2824105)
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   **Register for Sharing is Caring Events:**

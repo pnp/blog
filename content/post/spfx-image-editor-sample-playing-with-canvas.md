@@ -21,7 +21,7 @@ So, I started to play with canvas.
 ![Screenshot 2021-03-22 at
 21.42.06.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266630iB1ECA3D66EE3DBDA/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 21.42.06.png")
 
-## How HTML canvas  works 
+## How HTML canvas  works
 
  ![Screenshot 2021-03-22 at
 20.29.22.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266632i298293D5AEC7AEC2/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 20.29.22.png")

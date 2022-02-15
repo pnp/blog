@@ -1,7 +1,17 @@
-# Power Automate: skip the Parse JSON action to reference data
+---
+title: "Power Automate: skip the Parse JSON action to reference data"
+date: 2021-05-10T08:40:00-04:00
+author: "Django Lohn"
+categories: []
+images:
 
+tags: []
+type: "regular"
+draft: false
 
-## Why? 
+---
+
+## Why?
 
 Let me emphasize that using the Parse JSON action (as explained in this
 great blog post of Luise Freese: [How to use Parse JSON action in Power
@@ -15,7 +25,7 @@ However the Parse JSON action is very picky\... The action will fail if
 a property is missing, a new property is added later on or an existing
 property is giving back a different type of data. In short: any schema
 change not being updated in the settings of the action can cause a
-:cross_mark: \"*ValidationFailed error*\" :cross_mark:. Such an error
+ \"*ValidationFailed error*\" :cross_mark:. Such an error
 will stop the Flow because the schema validation failed:
 
 ![PowerAutomate_ParseJSONfail](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279338i323A98A1BF42BFF5/image-size/large?v=v2&px=999 "PowerAutomate_ParseJSONfail")
@@ -24,7 +34,7 @@ will stop the Flow because the schema validation failed:
 As long as you remind to also update the Parse JSON action schema, it
 will continue working fine.\
 But in my case, I wanted to know if Power Automate could skip the Parse
-JSON action :nerd_face:
+JSON action
 
 ## What? 
 
@@ -52,8 +62,6 @@ The output of this Compose action will be this JSON output:
 }
 ```
 
-
-
 I am using a Compose action to give JSON output, but in most cases JSON
 output will come from actions connected to a data source. In some types
 of actions unfortunately Power Automate does not create Dynamic Content.
@@ -62,7 +70,7 @@ Dynamic Content Panel for the rest of your Flow. When using the Parse
 JSON action on the output of such an action:
 
 ![PowerAutomate_parseJSON](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279340iF22ACD84A9E2CF43/image-size/large?v=v2&px=999 "PowerAutomate_parseJSON")
-##  
+
 
 we can force the rest of the Flow to show us these properties in the
 Dynamic Content Panel. Making it easy for us to reference these
@@ -114,6 +122,7 @@ parsing, we can reference the property of any action with a JSON output:
 
 ![PowerAutomate_parseJSONreferenceDirectly](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279342iC4B3DB0A80608CEA/image-size/large?v=v2&px=999 "PowerAutomate_parseJSONreferenceDirectly")
 
-[No Parse JSON action needed! 8)]
+No Parse JSON action needed!
+
 [Originally published
 at <https://knowhere365.space/power-automate-skip-the-parse-json-action-to-reference-data/>]

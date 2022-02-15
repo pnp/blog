@@ -45,8 +45,7 @@ Teams sample?  Feel like granting wishes?  Collaborate with Teams
 Engineering to create a sample and earn a Credly badge.   The host of
 this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
 \@vesajuvonen.   Q&A takes place in chat throughout the call.
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Create a Teams Sample - [Microsoft Teams Samples Wish

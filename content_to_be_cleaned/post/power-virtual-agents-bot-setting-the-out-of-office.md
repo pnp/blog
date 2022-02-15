@@ -1,4 +1,16 @@
-# Power Virtual Agents bot setting the Out Of Office
+
+---
+title: "Power Virtual Agents bot setting the Out Of Office"
+date: 2021-05-14T08:40:00-04:00
+author: "Vesa Nopanem"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 
 It is always *interesting* to hit the wall with limitations when you are

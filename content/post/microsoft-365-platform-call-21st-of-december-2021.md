@@ -58,8 +58,7 @@ call.   
     Loop](https://devblogs.microsoft.com/microsoft365dev/stay-in-sync-with-microsoft-loop/)
 -   [Connecting networks of information with Microsoft Graph connector
     partners](https://devblogs.microsoft.com/microsoft365dev/connecting-networks-of-information-with-microsoft-graph-connector-partners/)
-::: {.video-embed-center .video-embed}
-:::
+
  
 
 **Actions:**

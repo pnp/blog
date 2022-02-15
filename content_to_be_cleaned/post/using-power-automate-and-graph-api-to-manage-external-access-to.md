@@ -1,5 +1,15 @@
+---
+title: "Using Power Automate And Graph API To Manage External Access To Teams"
+date: 2021-05-06T08:40:00-04:00
+author: "Carl Cookson"
+categories: []
+images:
 
-# Using Power Automate And Graph API To Manage External Access To Teams
+tags: []
+type: "regular"
+draft: false
+
+---
 
 Matt Collins Jones and I presented [API's -- The most powerful tool,
 anyone can
@@ -36,7 +46,9 @@ doesn't expose is D365 data.
 There is a [Graph
 connector](https://docs.microsoft.com/en-us/connectors/microsoftgraphsecurity/) already
 available in Power Automate, but it is very limited to Security
-considerations. Thankfully, the rest of the Graph API abilities are
+considerations. 
+
+Thankfully, the rest of the Graph API abilities are
 available, but you have to go via a custom connector. You could call
 these directly via an HTTP request action, but by wrapping the Graph API
 in a connector, you are enabling other members of your organisation to

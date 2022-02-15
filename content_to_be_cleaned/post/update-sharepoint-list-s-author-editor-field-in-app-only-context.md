@@ -1,6 +1,18 @@
+---
+title: "Update SharePoint list's Author / Editor field in App-Only context"
+date: 2021-08-09T08:40:00-04:00
+author: "Michael Maillot"
+categories: []
+images:
 
-# Update SharePoint list\'s Author / Editor field in App-Only context
-## Use Cases 
+tags: []
+type: "regular"
+draft: false
+
+---
+
+## Use Cases
+
 -   You\'re migrating list items from a tenant to another using
     back-office app (console app or Azure SaaS resource) and want to
     keep existing fields, including author / editor ones

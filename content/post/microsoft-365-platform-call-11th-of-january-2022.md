@@ -66,8 +66,7 @@ takes place in chat throughout and live at end of the call.   
 -   [How to Manage Microsoft Teams Meeting Recording
     Auto-Expiration](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-manage-microsoft-teams-meeting-recording-auto-expiration/ba-p/3053035)
 
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Opt into PnP Recognition Program

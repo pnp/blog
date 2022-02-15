@@ -67,8 +67,7 @@ call and specifically during the last 10 minutes of call. 
 -   [Breaking changes to the settings endpoint in the Microsoft Graph
     eDiscovery API
     (beta)](https://developer.microsoft.com/microsoft-365/blogs/breaking-changes-to-the-settings-endpoint-in-the-microsoft-graph-ediscovery-api-beta/)
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   Register today for Hacktoberfest 2021

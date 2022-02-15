@@ -70,8 +70,7 @@ place in chat throughout and live at end of the call.   
     Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-and-improved-search-results-experience-on-microsoft-teams/ba-p/3035064)
 -   [Announcing delta query support for the Microsoft Graph Assignments
     API](https://devblogs.microsoft.com/microsoft365dev/announcing-delta-query-support-for-the-microsoft-graph-assignments-api/) 
-::: {.video-embed-center .video-embed}
-:::
+
 
 
 -   **Register for Sharing is Caring Events:**

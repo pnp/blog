@@ -1,26 +1,44 @@
-# Power Apps Community Call -- April 2021
+---
+title: "Power Apps Community Call -- April 2021"
+date: 2021-04-21T08:40:00-04:00
+author: "Todd Baginski"
+categories: []
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
+
 ![Thumbnail - Power Apps Community Call - April
 2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/276123iE4162BBF22203D09/image-size/large?v=v2&px=999 "Thumbnail - Power Apps Community Call - April 2021.png")
 
 **Call Summary:**
 
-Topics covered in this month's community call include - Make your Power
+Topics covered in this month's community call include
+
+- Make your Power
 Apps sessions persistent when switching Microsoft Teams tabs! (Making
-your Teams mobile and desktop power apps off-line capable), Power Apps
+your Teams mobile and desktop power apps off-line capable), 
+- Power Apps
 Custom Functions Library (sharing your great work - find, use, submit
-samples), Make your Power Apps user experience awesome with Gestalt
-design principles (create visually compelling model driven apps), and
-Recent Power Apps News and Community Contributions.  This session
+samples), 
+- Make your Power Apps user experience awesome with Gestalt
+design principles (create visually compelling model driven apps), 
+- and
+Recent Power Apps News and Community Contributions.  
+
+This session
 included Q&A in chat.  The call was hosted by Todd Baginski (Canviz). 
 Demo presenters include Hardit Bhatia, Matthew Devaney, April Dunnam,
 Hiro Nagao, Geetha Sivasailam, Hugo Bernier, Anton Robbins and Rory
-Neary.  Recorded on April 21, 2021.  Thank for attending the call or
+Neary.  Recorded on April 21, 2021. 
+
+Thank for attending the call or
 viewing it on demand. 
 
- 
-
-
-**Demos:**
+## Demos
 
 -   **[Make your Power Apps sessions persistent when switching Microsoft
     Teams tabs!](https://youtu.be/BKMNGt0d8Ac?t=305) -** tired of losing
