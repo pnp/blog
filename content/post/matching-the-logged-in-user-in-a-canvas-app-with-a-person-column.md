@@ -2,7 +2,7 @@
 title: "Matching the logged in user in a canvas app with a person column in SharePoint"
 date: 2021-11-11T05:27:00-05:00
 author: "Carmen Ysewijn"
-categories: []
+categories: ["Power Apps", "SharePoint"]
 images:
 - images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Hermione-IconVisible.png
 - images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconNotVisible.png

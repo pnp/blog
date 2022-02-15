@@ -2,7 +2,7 @@
 title: "Getting Started with Azure Shell and PnP PowerShell with Certificates"
 date: 2021-04-25T08:40:00-04:00
 author: "Michael Roth"
-categories: []
+categories: ["Power Apps"]
 images:
 
 tags: []

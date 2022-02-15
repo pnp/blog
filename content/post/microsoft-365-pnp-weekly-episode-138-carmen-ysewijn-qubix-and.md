@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 138 - Carmen Ysewijn (Qubix) and Luise Freese"
 date: 2021-10-12T01:16:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-138-carmen-ysewijn-qubix-and/Thumb-Ep138.png
 tags: []

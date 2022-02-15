@@ -2,7 +2,7 @@
 title: "FAQ\\'s in a Document Card"
 date: 2021-04-14T06:23:00-04:00
 author: "Sam Collins"
-categories: []
+categories: ["SharePoint"]
 images:
 - images/blog/faq-s-in-a-document-card/updateFAQgif.gif
 tags: []

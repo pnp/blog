@@ -2,7 +2,7 @@
 title: "Microsft 365 Developer Podcast - Latest Microsoft Graph SDKs with Maisa Rissi and Darrel Miller"
 date: 2021-09-27T05:49:00-04:00
 author: "Paul Schaeflein"
-categories: []
+categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"

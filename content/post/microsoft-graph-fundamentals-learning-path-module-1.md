@@ -2,7 +2,7 @@
 title: "Microsoft Graph Fundamentals learning path -- Module 1"
 date: 2021-04-01T03:06:00-04:00
 author: "Luise Freese"
-categories: []
+categories: ["Microsoft Graph"]
 images:
 - images/blog/microsoft-graph-fundamentals-learning-path-module-1/GraphFun.png
 - images/blog/microsoft-graph-fundamentals-learning-path-module-1/GraphFun-youdidit1.png

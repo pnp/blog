@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 137 - Serge Tremblay (Technologia)"
 date: 2021-10-05T01:54:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/Thumb-Ep137.png
 tags: []

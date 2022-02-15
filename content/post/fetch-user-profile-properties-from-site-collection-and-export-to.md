@@ -2,10 +2,10 @@
 title: "Fetch User Profile Properties From Site Collection And Export To CSV Using PNP PowerShell"
 date: 2021-03-24T06:13:00-04:00
 author: "Chandani Prajapati"
-categories: []
+categories: ["SharePoint"]
 images:
 - images/blog/fetch-user-profile-properties-from-site-collection-and-export-to/OP.png
-tags: []
+tags: ["PNP PowerShell"]
 type: "regular"
 draft: false
 

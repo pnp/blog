@@ -2,7 +2,7 @@
 title: "Microsoft Graph community call -- May 2021"
 date: 2021-05-20T05:28:00-04:00
 author: "Brian Jackett"
-categories: []
+categories: ["Microsoft Graph community call recordings"]
 images:
 - images/blog/microsoft-graph-community-call-may-2021/BrianTJackett.png
 - images/blog/microsoft-graph-community-call-may-2021/BrianTJackett.png

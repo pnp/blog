@@ -2,7 +2,7 @@
 title: "The friendly SMS reminder with Logic Apps, Azure Functions + Key Vault"
 date: 2021-07-26T03:43:00-04:00
 author: "Luise Freese"
-categories: []
+categories: ["Azure Logic Apps", "Azure"]
 images:
 - images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/AzureCreateResource.png
 - images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_3-1627339056564.png

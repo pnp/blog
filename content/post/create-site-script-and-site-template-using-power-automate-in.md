@@ -2,7 +2,7 @@
 title: "Create Site Script and Site Template Using Power Automate in SharePoint"
 date: 2021-09-07T03:46:00-04:00
 author: "Dipen Shah"
-categories: []
+categories: ["SharePoint", "Power Automate"]
 images:
 - images/blog/create-site-script-and-site-template-using-power-automate-in/Flow2.jpg
 - images/blog/create-site-script-and-site-template-using-power-automate-in/Flow3.jpg

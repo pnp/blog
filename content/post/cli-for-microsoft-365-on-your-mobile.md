@@ -20,6 +20,7 @@ draft: false
 >
 > *\"I see you are available, could you
 do...\"* 😒
+
 Ever got one of those message on Teams? Now when working \'home office\'
 I noticed this trend and I usually get one of those over the phone
 during shopping and usually couple of lines in CLI for Microsoft 365 may

@@ -2,7 +2,7 @@
 title: "Powerful Devs Conference Sept 14th"
 date: 2021-09-07T08:40:00-04:00
 author: "April Dunnam"
-categories: []
+categories: ["Microsoft 365 community"]
 images:
 
 tags: []

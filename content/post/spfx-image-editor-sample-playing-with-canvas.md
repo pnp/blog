@@ -2,7 +2,7 @@
 title: "SPFx Image Editor Sample - Playing with Canvas"
 date: 2021-03-31T09:49:00-04:00
 author: "Peter Paul Kirschner"
-categories: []
+categories: [ "Sharepoint"]
 images: []
 tags: []
 type: "regular"

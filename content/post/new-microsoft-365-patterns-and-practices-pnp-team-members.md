@@ -1,4 +1,15 @@
-# New Microsoft 365 Patterns and Practices (PnP) team members -- November 2021
+---
+title: "New Microsoft 365 Patterns and Practices (PnP) team members -- November 2021"
+date: 2021-11-11T05:38:00-05:00
+author: "Vesa Juvonen"
+categories: ["Microsoft 365 platform community"]
+images:
+
+tags: []
+type: "regular"
+draft: false
+---
+
 
 ![pnp-team-growth-november.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326313i6E6448ED3A3AA761/image-size/large?v=v2&px=999 "pnp-team-growth-november.png")
 

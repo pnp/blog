@@ -2,7 +2,7 @@
 title: "Modern SharePoint list formatting"
 date: 2021-02-12T06:56:00-05:00
 author: "Luise Freese"
-categories: []
+categories: ["SharePoint"]
 images:
 - images/blog/modern-sharepoint-list-formatting/daniel-cheung-zky0BmMT5m8-unsplash.jpg
 - images/blog/modern-sharepoint-list-formatting/list-formatting-create.png

@@ -2,7 +2,7 @@
 title: "How to build an FAQ bot for Microsoft Teams with Power Virtual Agents"
 date: 2021-02-25T11:51:00-05:00
 author: "Luise Freese"
-categories: []
+categories: ["Power Virtual Agents"]
 images:
 - images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/walle.png
 - images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/pva-teams.png

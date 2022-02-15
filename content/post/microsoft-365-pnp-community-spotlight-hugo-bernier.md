@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Community Spotlight: Hugo Bernier"
 date: 2021-05-28T09:00:00-04:00
 author: "Luise Freese"
-categories: []
+categories: ["Microsoft 365 community spotlight"]
 images:
 - images/blog/microsoft-365-pnp-community-spotlight-hugo-bernier/hugobernier.jpg
 tags: []

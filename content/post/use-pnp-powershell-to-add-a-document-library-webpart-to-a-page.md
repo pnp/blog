@@ -2,7 +2,7 @@
 title: "Use PnP Powershell to add a document library web part to a page (and only show a specific folder)"
 date: 2021-06-10T08:40:00-04:00
 author: "Marijn Somers"
-categories: []
+categories: ["PnP PowerShell", "SharePoint"]
 images:
 
 tags: []

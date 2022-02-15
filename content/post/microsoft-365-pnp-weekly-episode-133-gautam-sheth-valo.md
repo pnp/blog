@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 133 - Gautam Sheth (Valo)"
 date: 2021-09-07T06:30:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-133-gautam-sheth-valo/pnp-weekly-133.png
 tags: []

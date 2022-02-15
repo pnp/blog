@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 145 - Rabeb Othmani (Microsoft)"
 date: 2021-11-30T11:50:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-145-rabeb-othmani-microsoft/Thumb-Ep145-November29.png
 tags: []

@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 123"
 date: 2021-04-20T02:47:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-123/pnp-weekly-123.png
 tags: []

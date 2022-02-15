@@ -2,7 +2,7 @@
 title: "CLI for Microsoft 365 v3.8"
 date: 2021-03-30T10:00:00-04:00
 author: "Garry Trinder"
-categories: []
+categories: ["CLI for Microsoft 365"]
 images: []
 tags: []
 type: "regular"

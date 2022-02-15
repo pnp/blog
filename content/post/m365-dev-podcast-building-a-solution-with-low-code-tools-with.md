@@ -2,7 +2,7 @@
 title: "M365 Dev Podcast - Building a Solution with Low-Code Tools with Carmen Ysewijn and Luise Freese"
 date: 2021-10-11T10:07:00-04:00
 author: "Paul Schaeflein"
-categories: []
+categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"

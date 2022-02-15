@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 149 - Rabia Williams (Microsoft)"
 date: 2022-01-18T02:09:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images: []
 tags: []
 type: "regular"

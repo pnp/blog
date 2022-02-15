@@ -2,7 +2,7 @@
 title: "Excel File Tricks with PowerAutomate"
 date: 2021-08-04T11:06:00-04:00
 author: "Damo Bird 365"
-categories: []
+categories: ["Power Automate"]
 images:
 - images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628093847880.png
 - images/blog/excel-file-tricks-with-powerautomate/DamoBird365_1-1628094142942.png

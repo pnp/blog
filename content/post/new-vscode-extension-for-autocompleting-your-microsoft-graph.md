@@ -1,4 +1,15 @@
-# New VSCode extension for autocompleting your Microsoft Graph APIs
+---
+title: "New VSCode extension for autocompleting your Microsoft Graph APIs"
+date: 2021-05-07T05:38:00-05:00
+author: "Elio Struyf"
+categories: ["Microsoft Graph", "Tooling"]
+images:
+
+tags: []
+type: "regular"
+draft: false
+
+---
 
 While working on a project which uses Microsoft Graph APIs, I found
 myself opening the Microsoft Graph Explorer a lot to check which

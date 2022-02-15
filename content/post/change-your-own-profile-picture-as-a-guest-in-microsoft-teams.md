@@ -2,7 +2,7 @@
 title: "Change your own profile picture as a Guest in Microsoft Teams"
 date: 2021-04-06T01:37:00-04:00
 author: "Yannick Reekmans"
-categories: []
+categories: ["Microsoft Teams"]
 images:
 - images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image.png
 - images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-1.png

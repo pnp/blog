@@ -2,7 +2,7 @@
 title: "LearnTogether: Build Apps with Microsoft Graph 🦒"
 date: 2021-04-15T08:40:00-04:00
 author: "Luise Freese"
-categories: []
+categories: ["Microsoft Graph"]
 images:
 
 tags: []

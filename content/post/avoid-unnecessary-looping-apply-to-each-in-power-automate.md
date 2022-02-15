@@ -2,7 +2,7 @@
 title: "Avoid Unnecessary Looping (Apply to each) in Power Automate"
 date: 2021-03-06T08:26:00-05:00
 author: "Leon Armston"
-categories: []
+categories: ["Power Automate"]
 images:
 - images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_2-1615045186651.png
 - images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_3-1615045186656.png

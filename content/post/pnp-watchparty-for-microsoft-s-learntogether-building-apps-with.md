@@ -2,7 +2,7 @@
 title: "PnP WatchParty for Microsoft's 'LearnTogether Building apps with Microsoft Graph' event"
 date: 2021-09-13T08:40:00-04:00
 author: "Luise Freese"
-categories: []
+categories: ["Microsoft 365 community"]
 images:
 
 tags: []

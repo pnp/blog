@@ -2,7 +2,7 @@
 title: "To write code comments or not, it should not be a question"
 date: 2021-03-02T08:47:00-05:00
 author: "Elio Struyf"
-categories: []
+categories: ["Tooling"]
 images:
 - images/blog/to-write-code-comments-or-not-it-should-not-be-a-question/comments1.png
 - images/blog/to-write-code-comments-or-not-it-should-not-be-a-question/comments2.png

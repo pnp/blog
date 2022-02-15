@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 132 - Nicole Woon (Microsoft)"
 date: 2021-06-21T10:47:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-132-nicole-woon-microsoft/Thumb-Ep132.png
 tags: []

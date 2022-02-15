@@ -2,7 +2,7 @@
 title: "Office Add-in Developer Community (PnP) -- March 2021 update"
 date: 2021-04-29T03:10:00-04:00
 author: "David Chesnut"
-categories: []
+categories: ["Office Add-in developer community call recordings"]
 images: []
 tags: []
 type: "regular"

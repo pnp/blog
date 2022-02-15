@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 148 - Carmen Ysewijn (Qubix)"
 date: 2022-01-11T12:55:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images: []
 tags: []
 type: "regular"

@@ -2,7 +2,7 @@
 title: "PnP Batch Add or Delete items from very large list, i.e. more than 300k items"
 date: 2021-09-13T08:40:00-04:00
 author: "Reshmee Auckloo"
-categories: []
+categories: ["PnP PowerShell", "Sharepoint"]
 images:
 
 tags: []

@@ -2,7 +2,7 @@
 title: "Working with Custom Connectors in Power Platform for beginners"
 date: 2021-05-06T08:40:00-04:00
 author: "Michael Roth"
-categories: []
+categories: ["Power Automate"]
 images:
 
 tags: []

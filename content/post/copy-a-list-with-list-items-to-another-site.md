@@ -1,8 +1,8 @@
 ---
 title: "Copy a list - with list items - to another site"
 date: 2021-04-01T08:47:00-04:00
-author: "will holland"
-categories: []
+author: "Will holland"
+categories: ["SharePoint"]
 images:
 - images/blog/copy-a-list-with-list-items-to-another-site/sad-mario.png
 - images/blog/copy-a-list-with-list-items-to-another-site/you-win.jpg

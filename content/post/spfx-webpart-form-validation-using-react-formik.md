@@ -2,7 +2,7 @@
 title: "SPFx webpart form validation using React Formik"
 date: 2021-05-26T05:56:00-04:00
 author: "Chandani Prajapati"
-categories: []
+categories: [ "Sharepoint"]
 images:
 - images/blog/spfx-webpart-form-validation-using-react-formik/Output.png
 - images/blog/spfx-webpart-form-validation-using-react-formik/SPFx-react-formik.gif

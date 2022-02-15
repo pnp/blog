@@ -2,7 +2,7 @@
 title: "Using the PnP Modern Search Web Parts"
 date: 2021-05-27T08:40:00-04:00
 author: "Will Holland"
-categories: []
+categories: ["PnP Modern Search", "SharePoint"]
 images:
 
 tags: []

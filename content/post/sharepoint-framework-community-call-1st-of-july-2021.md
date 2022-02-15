@@ -2,7 +2,7 @@
 title: "SharePoint Framework Community Call -- 1st of July, 2021"
 date: 2021-07-01T09:45:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-1st-of-july-2021/PnP-Calls-TogetherMode-July1-LowerRes.gif
 tags: []

@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 135 - Adis Jugo (Nubelus)"
 date: 2021-09-22T09:22:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-135-adis-jugo-nubelus/pnp-weekly-135.png
 tags: []

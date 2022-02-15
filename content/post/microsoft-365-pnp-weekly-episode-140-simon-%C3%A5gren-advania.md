@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 140 - Simon Ågren (Advania)"
 date: 2021-10-26T12:37:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/Thumb-Ep140October25.png
 tags: []

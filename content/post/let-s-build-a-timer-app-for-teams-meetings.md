@@ -1,8 +1,8 @@
 ---
-title: "Getting Started with Azure Shell and PnP PowerShell with Certificates"
+title: "Let's build a timer app for teams meetings"
 date: 2021-05-07T08:40:00-04:00
 author: "Michael Roth"
-categories: []
+categories: ["Microsoft Teams", "Power Apps"]
 images:
 
 tags: []

@@ -2,7 +2,7 @@
 title: "source code editing for Canvas Apps"
 date: 2021-07-01T08:40:00-04:00
 author: "Django Lohn"
-categories: []
+categories: ["Power Apps", "Tooling"]
 images:
 
 tags: []

@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 130"
 date: 2021-06-08T01:18:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-130/Thumb-Ep130.png
 tags: []

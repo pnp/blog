@@ -2,7 +2,7 @@
 title: "4 ways to level up your Power Automate flows"
 date: 2021-09-18T08:40:00-04:00
 author: "Luise Freese"
-categories: []
+categories: ["Power Automate]
 images:
 - images/blog/4-ways-to-level-up-your-power-automate-flows/Teams-status.png
 - images/blog/4-ways-to-level-up-your-power-automate-flows/flow-overview.png

@@ -2,7 +2,7 @@
 title: "M365 Dev Podcast - Exporting Content Using the Teams Export API with Yaron Hezroni"
 date: 2021-10-25T06:01:00-04:00
 author: "Paul Schaeflein"
-categories: []
+categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"

@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 31st of August, 2021"
 date: 2021-09-01T04:16:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-31st-of-august-2021/210831-together-mode.gif
 tags: []

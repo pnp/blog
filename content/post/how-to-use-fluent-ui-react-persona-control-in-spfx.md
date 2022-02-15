@@ -2,7 +2,7 @@
 title: "How to use fluent UI react persona control in SPFx?"
 date: 2021-06-10T05:56:00-04:00
 author: "Chandani Prajapati"
-categories: []
+categories: ["SharePoint"]
 images:
 - images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png
 - images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png

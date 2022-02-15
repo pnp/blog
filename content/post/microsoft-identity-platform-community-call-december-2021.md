@@ -2,7 +2,7 @@
 title: "Microsoft Identity Platform community call -- December 2021"
 date: 2021-12-30T12:21:00-05:00
 author: "Steven Salazar Aray"
-categories: []
+categories: ["Microsoft Identity platform community call recordings"]
 images:
 - images/blog/microsoft-identity-platform-community-call-december-2021/identity-call-THumbnail-November-2021.png
 tags: []

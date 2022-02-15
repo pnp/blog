@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 120"
 date: 2021-03-30T03:57:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-120/Thumb-Ep120.png
 tags: []

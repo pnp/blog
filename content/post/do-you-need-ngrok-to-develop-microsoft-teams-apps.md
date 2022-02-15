@@ -2,7 +2,7 @@
 title: "Do you need ngrok to develop Microsoft Teams apps?"
 date: 2021-05-20T10:41:00-04:00
 author: "Bob German"
-categories: []
+categories: ["Microsoft Teams", "Tooling"]
 images:
 - images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-without-ngrok-2.png
 - images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-with-ngrok.png

@@ -2,7 +2,7 @@
 title: "Use single-tenant Azure AD apps with Microsoft Graph Toolkit"
 date: 2021-08-08T08:40:00-04:00
 author: "Waldek Mastykarz"
-categories: []
+categories: ["Microsoft Graph Toolkit"]
 images:
 
 tags: []

@@ -2,7 +2,7 @@
 title: "Microsoft 365 Platform Call -- 11th of January, 2022"
 date: 2022-01-12T01:15:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-11th-of-january-2022/recording-11th-january.png
 - images/blog/microsoft-365-platform-call-11th-of-january-2022/220110-together-mode.gif

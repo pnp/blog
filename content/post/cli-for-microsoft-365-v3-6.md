@@ -2,7 +2,7 @@
 title: "CLI for Microsoft 365 v3.6"
 date: 2021-02-27T02:51:00-05:00
 author: "Waldek Mastykarz"
-categories: []
+categories: ["CLI for Microsoft 365"]
 images: []
 tags: []
 type: "regular"

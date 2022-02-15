@@ -2,7 +2,7 @@
 title: "SharePoint Framework Community Call -- 20th of May, 2021"
 date: 2021-05-21T02:44:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-20th-of-may-2021/210520-together-mode.gif
 tags: []

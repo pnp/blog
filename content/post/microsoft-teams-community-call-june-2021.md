@@ -2,7 +2,7 @@
 title: "Microsoft Teams Community Call - June 2021"
 date: 2021-06-17T04:44:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft Teams community call recordings]
 images:
 - images/blog/microsoft-teams-community-call-june-2021/teams-june-15th-recording.png
 - images/blog/microsoft-teams-community-call-june-2021/210615-together-mode.gif

@@ -2,7 +2,7 @@
 title: "How to Convert Word Document to PDF in SharePoint Document Library using Power Automate?"
 date: 2021-11-16T07:06:00-05:00
 author: "Chandani Prajapati"
-categories: []
+categories: ["Power Automate", "SharePoint"]
 images:
 - images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636792320998.png
 - images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_1-1636792461300.png

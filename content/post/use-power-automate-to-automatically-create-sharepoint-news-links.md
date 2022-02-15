@@ -2,7 +2,7 @@
 title: "Use Power Automate to automatically create SharePoint News Links from an RSS feed"
 date: 2021-04-15T08:40:00-04:00
 author: "Will Holland"
-categories: []
+categories: ["Power Automate", "SharePoint"]
 images:
 
 tags: []

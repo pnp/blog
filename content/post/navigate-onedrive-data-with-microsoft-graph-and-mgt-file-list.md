@@ -1,4 +1,19 @@
-# Navigate OneDrive data with Microsoft Graph and Mgt-File-List Beta version
+---
+title: "Navigate OneDrive data with Microsoft Graph and Mgt-File-List Beta version"
+date: 2021-05-06T05:38:00-05:00
+author: "Andre Lage"
+categories: ["Microsoft Graph Toolkit"]
+images:
+- images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_0-1637745741073.jpeg
+- images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_1-1637745741149.jpeg
+- images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_2-1637745741136.jpeg
+- images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_3-1637745741115.jpeg
+- images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_4-1637745741165.jpeg
+tags: []
+type: "regular"
+draft: false
+
+---
 
 In my process of self learning regarding different technologies such us
 Azure, SPFX WebPart, React, Microsoft Graph, Node.js, Teams and all
@@ -44,6 +59,7 @@ search files inside shared Libraries.
 ></FileList>
 ```
 #### Where can I found SiteID of a site? 
+
 Use the **Site Graph API with search** query based on hostname to
 retrieve ID\'s of sites.
 
@@ -65,7 +81,8 @@ List of Site ID\'s:
         },
 ...
 ```
-#### How can I found the Root Folder ItemID from Site? 
+
+#### How can I found the Root Folder ItemID from Site?
 
 This can be achieved using the **SiteID** from last query and call the
 drive root from Site.
@@ -81,9 +98,10 @@ to display content in Control.
 "id": "01CM5BY6********************************"
 ```
 
-####   
 
-#### **Retrieve OneDrive Root Folder Item-id** 
+
+#### Retrieve OneDrive Root Folder Item-id
+
 OneDrive is managed differently and there is no need of SiteID just make
 the following Drive call.
 
@@ -234,7 +252,8 @@ filter.
     ...
 /></FileList/>
 ```
-### Styling with Mgt-File-List 
+### Styling with Mgt-File-List
+
 The Mgt-File-List includes Light and Dark theme but you can also provide
 your custom styles.
 
@@ -275,7 +294,8 @@ of the Beta Version.
   --show-more-button-border-bottom-left-radius: 12px;
 }
 ```
-### Search in Shared Libraries 
+### Search in Shared Libraries
+
 The control by the property **\"fileListQuery\"** also allow the usage
 Graph Drive Search method to find Items in the Drive. Below an sample on
 how you could use a dynamic to search items in Drives.
@@ -305,6 +325,7 @@ const checkSearchDrive = (SearchQuery: string) => {
 }
 ```
 ### Final sample solution 
+
 Below the final result of the configuration of **Mgt-File-List** react
 controls:
 

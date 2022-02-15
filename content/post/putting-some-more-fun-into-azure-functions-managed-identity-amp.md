@@ -2,13 +2,12 @@
 title: "Putting some more FUN into Azure Functions, Managed Identity & Microsoft Graph"
 date: 2021-08-11T08:40:00-04:00
 author: "Luise Freese"
-categories: []
+categories: ["Microsoft Graph", "Azure"]
 images:
 
 tags: []
 type: "regular"
 draft: false
-
 ---
 
 ## Usecase & purpose of this blog post 

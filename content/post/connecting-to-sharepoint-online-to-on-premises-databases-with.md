@@ -2,7 +2,7 @@
 title: "Connecting to SharePoint Online to On-Premises Databases with SharePoint Framework"
 date: 2021-10-18T04:08:00-04:00
 author: "Simon Doy"
-categories: []
+categories: ["SharePoint", "Power Apps"]
 images: []
 tags: []
 type: "regular"

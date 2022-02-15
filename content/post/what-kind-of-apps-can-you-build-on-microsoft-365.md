@@ -2,7 +2,7 @@
 title: "What kind of apps can you build on Microsoft 365?"
 date: 2021-06-10T03:42:00-04:00
 author: "Waldek Mastykarz"
-categories: []
+categories: ["Microsoft 365"]
 images: []
 tags: []
 type: "regular"

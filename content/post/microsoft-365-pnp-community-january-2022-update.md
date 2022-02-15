@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Community -- January 2022 update"
 date: 2022-01-17T09:24:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-january-2022-update/pnp-january-2022-update.png
 - images/blog/microsoft-365-pnp-community-january-2022-update/pnp-community-model.png

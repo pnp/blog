@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 118"
 date: 2021-03-16T02:35:00-04:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-118/Thumb-Ep118.png
 tags: []

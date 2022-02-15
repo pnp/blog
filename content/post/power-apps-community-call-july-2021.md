@@ -2,7 +2,7 @@
 title: "Power Apps Community Call -- July 2021"
 date: 2021-07-21T08:40:00-04:00
 author: "Todd Baginski"
-categories: []
+categories: ["Power Apps community Call recordings"]
 images:
 
 tags: []

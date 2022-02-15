@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Community Spotlight: Garry Trinder"
 date: 2021-05-22T04:54:00-04:00
 author: "Luise Freese"
-categories: []
+categories: ["Microsoft 365 community spotlight"]
 images: []
 tags: []
 type: "regular"

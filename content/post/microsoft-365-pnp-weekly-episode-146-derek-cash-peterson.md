@@ -2,7 +2,7 @@
 title: "Microsoft 365 PnP Weekly - Episode 146 - Derek Cash-Peterson (Sympraxis Consulting)"
 date: 2021-12-07T12:27:00-05:00
 author: "Vesa Juvonen"
-categories: []
+categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/pnp-weekly-146.png
 tags: []

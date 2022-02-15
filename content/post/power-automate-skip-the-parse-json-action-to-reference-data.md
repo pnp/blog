@@ -2,7 +2,7 @@
 title: "Power Automate: skip the Parse JSON action to reference data"
 date: 2021-05-10T08:40:00-04:00
 author: "Django Lohn"
-categories: []
+categories: ["Power Automate"]
 images:
 
 tags: []

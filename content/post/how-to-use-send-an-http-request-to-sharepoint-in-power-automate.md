@@ -2,7 +2,7 @@
 title: "How to use Send an HTTP request to SharePoint in Power Automate?"
 date: 2021-06-15T01:50:00-04:00
 author: "Chandani Prajapati"
-categories: []
+categories: ["SharePoint", "Power Automate"]
 images: []
 tags: []
 type: "regular"
