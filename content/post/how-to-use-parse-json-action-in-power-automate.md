@@ -1,8 +1,8 @@
 ---
 title: "How to use Parse JSON action in Power Automate"
-date: 2021-02-11T07:57:00-05:00
+date: 2021-02-11T01:50:00-04:00
 author: "Luise Freese"
-categories: ["Power Automate"spot]
+categories: ["Power Automate"]
 images:
 - images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-SPList.png
 - images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-overview-flow.png
