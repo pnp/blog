@@ -410,18 +410,7 @@ support.
 Once written, Hit F5, log in and see the result:
 
 ![Resulting page creation by the console
-app](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263431i8319DE59D6A25B6E/image-size/large?v=v2&px=999 "result.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263431i8319DE59D6A25B6E?v=v2"
-li-image-display-id="'263431i8319DE59D6A25B6E'"
-li-message-uid="'2207918'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}[Resulting page creation by the console
-app]{.lia-inline-image-caption
-onclick="event.preventDefault();"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline
-image-alt="Resulting page creation by the console app"
-style="width: 999px;"}
+app](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263431i8319DE59D6A25B6E/image-size/large?v=v2&px=999 "result.png")
 
 ## What's Next 
 

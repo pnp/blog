@@ -107,15 +107,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -- Many thanks!
 **Together Mode!**
-{{< image alt="211209-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-9th-of-december/211209-together-mode.gif" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/333061i3200473A356041AD?v=v2"
-li-image-display-id="'333061i3200473A356041AD'"
-li-message-uid="'3034945'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-center image-alt="211209-together-mode.gif"
-style="width: 999px;"}
+{{< image alt="211209-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-9th-of-december/211209-together-mode.gif" >}}
 The house is full!   Great seeing everyone today.   Coordinated stadium
 style wave rehearsals starting soon.   
 **Demos** delivered in this session

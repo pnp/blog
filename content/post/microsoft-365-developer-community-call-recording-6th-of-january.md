@@ -123,15 +123,7 @@ Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-s
 -- aka.ms/script-samples/getting-started
 -- Many thanks!
 **Together Mode!**
-{{< image alt="220106-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-6th-of-january/220106-together-mode.gif" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337841iF24DAB5F8ED2A1FE?v=v2"
-li-image-display-id="'337841iF24DAB5F8ED2A1FE'"
-li-message-uid="'3053498'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-center image-alt="220106-together-mode.gif"
-style="width: 999px;"}
+{{< image alt="220106-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-6th-of-january/220106-together-mode.gif" >}}
 Happy New Year!  Awesome to see everyone 170+ attendees in the call
 today.    Please keep the feedback coming.
 **Demos** delivered in this session

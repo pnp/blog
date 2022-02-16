@@ -587,17 +587,10 @@ These are different areas which are closely involved on the community
 work across the PnP initiative. Some are lead and coordinated by
 engineering organizations, some are coordinated by the community and
 MVPs.
+
 ### 🦒 Microsoft Graph Toolkit 
 
-{{< image alt="graph-toolkit.jpg" src="images/blog/microsoft-365-pnp-community-august-2021-update/graph-toolkit.jpg" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261739iA57BB73461170C2E?v=v2"
-li-image-display-id="'261739iA57BB73461170C2E'"
-li-message-uid="'2651816'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="graph-toolkit.jpg"
-style="width: 527px;"}
+{{< image alt="graph-toolkit.jpg" src="images/blog/microsoft-365-pnp-community-august-2021-update/graph-toolkit.jpg" >}}
 Microsoft Graph Toolkit is engineering lead initiative, which works
 closely with the community on the open-source areas. The Microsoft Graph
 Toolkit is a collection of reusable, framework-agnostic web components
@@ -639,15 +632,7 @@ detailed.
     list](https://github.com/MicrosoftDocs/microsoft-365-community/issues)
     with articles ideas
 ### SharePoint Framework development samples 
-{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/spfx-gallery.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261742i96F265E42A76DB51?v=v2"
-li-image-display-id="'261742i96F265E42A76DB51'"
-li-message-uid="'2651816'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="spfx-gallery.png"
-style="width: 999px;"}
+{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/spfx-gallery.png" >}
 
 These are the updated SharePoint Framework samples which are available
 from the the different repositories.
@@ -837,16 +822,9 @@ If you have any existing samples which you\'d be willing to share with
 others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. Here to
 help.
-### Microsoft 365 Script Samples 
-{{< image alt="script-gallery.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/script-gallery.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287810i07695D4C2B844F3E?v=v2"
-li-image-display-id="'287810i07695D4C2B844F3E'"
-li-message-uid="'2651816'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="script-gallery.png"
-style="width: 999px;"}
+### Microsoft 365 Script Sample
+
+{{< image alt="script-gallery.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/script-gallery.png" >}}
 
 \
 We have released new Microsoft 365 Script Sample gallery within past

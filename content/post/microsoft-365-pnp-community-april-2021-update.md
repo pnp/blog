@@ -579,15 +579,7 @@ specific tool policies.
 Please see the specifics on the supportability on the tool, SDK or 
 component repository or download page.
 ## Microsoft 365 PnP team model 
-{{< image alt="pnp-community-model.png" src="images/blog/microsoft-365-pnp-community-april-2021-update/pnp-community-model.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261738iE62C2523C7D5399F?v=v2"
-li-image-display-id="'261738iE62C2523C7D5399F'"
-li-message-uid="'2264250'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="pnp-community-model.png"
-style="width: 999px;"}
+{{< image alt="pnp-community-model.png" src="images/blog/microsoft-365-pnp-community-april-2021-update/pnp-community-model.png" >}}
 In April 2020 we announced our new [Microsoft 365 PnP team
 model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 and grew the MVP team quite significantly. PnP model exists for having

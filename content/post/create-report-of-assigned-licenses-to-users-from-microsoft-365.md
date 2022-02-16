@@ -276,16 +276,7 @@ of the automation.
 Let's Access the assigned Licenses object from the user's object which
 is getting on the response of HTTP request.
 ![Create report of assigned licenses for users from Microsoft
-36508.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307482i0EF3962662FBE704/image-size/large?v=v2&px=999 "Create report of assigned licenses for users from Microsoft 36508.jpg"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307482i0EF3962662FBE704?v=v2"
-li-image-display-id="'307482i0EF3962662FBE704'"
-li-message-uid="'2710211'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline
-image-alt="Create report of assigned licenses for users from Microsoft 36508.jpg"
-style="width: 850px;"}
+36508.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307482i0EF3962662FBE704/image-size/large?v=v2&px=999 "Create report of assigned licenses for users from Microsoft 36508.jpg")
 Let's filter the array if we found licenses are assigned to the user.
 We can get SKU ID from the response and we do filter from licenses array
 based on SKU IDs.

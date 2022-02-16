@@ -95,16 +95,7 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
     Theme**](https://github.com/pnp/powerapps-samples/tree/main/samples/fluentui-custom-theme) -
     [Fabio
     Franzini](http://twitter.com/franzinifabio) \| \@franzinifabio
-{{< image alt="PnP-Calls-TogetherMode-LowerResolution.gif" src="images/blog/microsoft-365-developer-community-call-recording-5th-of-august/PnP-Calls-TogetherMode-LowerResolution.gif" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300996i3B0E169B602BB1B9?v=v2"
-li-image-display-id="'300996i3B0E169B602BB1B9'"
-li-message-uid="'2481292'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-center
-image-alt="PnP-Calls-TogetherMode-LowerResolution.gif"
-style="width: 800px;"}
+{{< image alt="PnP-Calls-TogetherMode-LowerResolution.gif" src="images/blog/microsoft-365-developer-community-call-recording-5th-of-august/PnP-Calls-TogetherMode-LowerResolution.gif" >}}
 A packed house today.  Hope all are enjoying summer or winter, in
 Southern Hemisphere.  Nice seeing everyone.   Be well.  
 **Demos** delivered in this session

@@ -19,7 +19,7 @@ recording from December 30th is now available from the Microsoft 365
 Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
- {.video-embed-center .video-embed}
+
 
 **Call summary:**
 
