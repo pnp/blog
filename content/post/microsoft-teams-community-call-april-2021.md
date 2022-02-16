@@ -2,7 +2,7 @@
 title: "Microsoft Teams Community Call - April 2021"
 date: 2021-04-22T12:35:00-04:00
 author: "Vesa Juvonen"
-categories: ["Microsoft Teams community call recordings]
+categories: ["Microsoft Teams community call recordings"]
 images:
 - images/blog/microsoft-teams-community-call-april-2021/teams-monthly-20th-april-recording.png
 - images/blog/microsoft-teams-community-call-april-2021/210420-teams.gif
