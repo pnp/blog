@@ -80,15 +80,7 @@ Samples: **<https://aka.ms/teams-samples>
 
  
 
-{{< image alt="210420-teams.gif" src="images/blog/microsoft-teams-community-call-april-2021/210420-teams.gif" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/274628i6FF9C3BB7593FAD4?v=v2"
-li-image-display-id="'274628i6FF9C3BB7593FAD4'"
-li-message-uid="'2279162'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="210420-teams.gif"
-style="width: 999px;"}
+{{< image alt="210420-teams.gif" src="images/blog/microsoft-teams-community-call-april-2021/210420-teams.gif" >}}
 
  
 

@@ -21,20 +21,12 @@ list](https://github.com/OfficeDev/PnP-OfficeAddins/issues?q=is%3Aissue+is%3Aope
 ![Diagram showing new email with added external recipient.
 OnMessageRecipientsChange event is sent to Outlook add-in. Add-in
 prepends the text external to the subject
-line](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/297725i89CD213D6303C069/image-size/large?v=v2&px=999 "pnp-outlook-tag-external.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/297725i89CD213D6303C069?v=v2"
-li-image-display-id="'297725i89CD213D6303C069'"
-li-message-uid="'2576650'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}[Diagram showing new email with added
+line](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/297725i89CD213D6303C069/image-size/large?v=v2&px=999 "pnp-outlook-tag-external.png") [Diagram showing new email with added
 external recipient. OnMessageRecipientsChange event is sent to Outlook
 add-in. Add-in prepends the text external to the subject
-line]{.lia-inline-image-caption
-onclick="event.preventDefault();"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline
-image-alt="Diagram showing new email with added external recipient. OnMessageRecipientsChange event is sent to Outlook add-in. Add-in prepends the text external to the subject line"
-style="width: 800px;"}
+line]
+"Diagram showing new email with added external recipient. OnMessageRecipientsChange event is sent to Outlook add-in. Add-in prepends the text external to the subject line"
+
 This sample uses event-based activation to run an Outlook add-in when
 the user creates a new message or appointment. The add-in can respond to
 events, even when the task pane is not open. It registers for the

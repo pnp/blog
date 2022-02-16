@@ -60,14 +60,8 @@ https://graph.microsoft.com/v1.0/sites/root/drives?test429=true
 ```
  
 
-{{< image alt="image" src="images/blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/image.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304632i6F55794B753B423B?v=v2"
-li-image-display-id="'304632i6F55794B753B423B'"
-li-message-uid="'2668937'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="image" style="width: 999px;"}
+{{< image alt="image" src="images/blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/image.png" >}}
+
 SharePoint List Items
 ``` {.lia-code-sample .language-markup}
 https://graph.microsoft.com/v1.0/sites/root/lists/{listid}/items?test429=true

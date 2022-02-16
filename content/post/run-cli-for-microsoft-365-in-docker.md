@@ -54,15 +54,8 @@ an interactive terminal session inside the container, this is determined
 by the presence of the `-it`{.language-plaintext .highlighter-rouge}
 switch in the `docker run`{.language-plaintext .highlighter-rouge}
 command.
-{{< image alt="garrytrinder_0-1615630685864.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_0-1615630685864.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263355i6DAB65DB77FE2782?v=v2"
-li-image-display-id="'263355i6DAB65DB77FE2782'"
-li-message-uid="'2207125'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="garrytrinder_0-1615630685864.png"
-style="width: 999px;"}
+{{< image alt="garrytrinder_0-1615630685864.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_0-1615630685864.png" >}}
+
 By default, the interactive terminal that is opened is a
 `bash`{.language-plaintext .highlighter-rouge} shell, however if you
 prefer using `PowerShell`{.language-plaintext .highlighter-rouge} then
@@ -88,15 +81,8 @@ for Microsoft 365 command using the `m365`{.language-plaintext
 have even pre-configured tab command completion for you in both
 `bash`{.language-plaintext .highlighter-rouge} and
 `PowerShell`{.language-plaintext .highlighter-rouge}. Neat right.
-{{< image alt="garrytrinder_2-1615630685839.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_2-1615630685839.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263356i69B5B2CE4731276E?v=v2"
-li-image-display-id="'263356i69B5B2CE4731276E'"
-li-message-uid="'2207125'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="garrytrinder_2-1615630685839.png"
-style="width: 999px;"}
+{{< image alt="garrytrinder_2-1615630685839.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_2-1615630685839.png" >}}
+
 When you are done with your session, just type
 `exit`{.language-plaintext .highlighter-rouge} and your interactive
 terminal will be closed and with that, the isolated container will also

@@ -97,15 +97,8 @@ open, fill in the below details.
     our live environment.
 2.  Below is how my developer dashboard looks like,
 
-{{< image alt="SiddharthVaghasia_1-1628135161497.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_1-1628135161497.png" >}}{.lia-media-image
-width="615" height="220" role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300619i7265A9B17131091F?v=v2"
-li-image-display-id="'300619i7265A9B17131091F'"
-li-message-uid="'2613452'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline
-image-alt="SiddharthVaghasia_1-1628135161497.png" style="width: 615px;"}
+{{< image alt="SiddharthVaghasia_1-1628135161497.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_1-1628135161497.png" >}}
+
 So we have all the things required from the QBO side of integration,
 let\'s move ahead. 
 
@@ -212,32 +205,17 @@ valid account, and follow along. Once you are logged in you should see
 the below popup, rename the token name with your preference and click on
 use token.
 
-{{< image alt="SiddharthVaghasia_11-1628135161603.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_11-1628135161603.png" >}}{.lia-media-image
-width="894" height="502" role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300628iAA932967F2CC9A95?v=v2"
-li-image-display-id="'300628iAA932967F2CC9A95'"
-li-message-uid="'2613452'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline
-image-alt="SiddharthVaghasia_11-1628135161603.png"
-style="width: 894px;"}
+{{< image alt="SiddharthVaghasia_11-1628135161603.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_11-1628135161603.png" >}}
+
 Select that token name in the available tokens dropdown.
 
-{{< image alt="SiddharthVaghasia_12-1628135161649.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_12-1628135161649.png" >}}{.lia-media-image
-width="893" height="241" role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300630i93B4B26E5AE8847C?v=v2"
-li-image-display-id="'300630i93B4B26E5AE8847C'"
-li-message-uid="'2613452'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline
-image-alt="SiddharthVaghasia_12-1628135161649.png"
-style="width: 893px;"}
+{{< image alt="SiddharthVaghasia_12-1628135161649.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_12-1628135161649.png" >}}
+
 Now make sure, you match the environment variable name in the URL and
 what we used while created in the above step.
 
 {{< image alt="SiddharthVaghasia_13-1628135161644.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_13-1628135161644.png" >}}
+
 **Step 4 -- Call a simple web service**
 
 Now we are ready to test, click on the send button. If everything is set
@@ -353,42 +331,18 @@ required: true}
 
 This is how it will look after the change.
 
-{{< image alt="SiddharthVaghasia_22-1628135161636.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_22-1628135161636.png" >}}{.lia-media-image
-width="850" height="703" role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300641i8070FD5AFA871791?v=v2"
-li-image-display-id="'300641i8070FD5AFA871791'"
-li-message-uid="'2613452'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline
-image-alt="SiddharthVaghasia_22-1628135161636.png"
-style="width: 850px;"}
+{{< image alt="SiddharthVaghasia_22-1628135161636.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_22-1628135161636.png" >}}
+
 Please make sure there is no error while making this change, space is
 very important, for e.g if you missed a space as in the below screenshot
 it will give you a parser error.
 
-{{< image alt="SiddharthVaghasia_23-1628135161733.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_23-1628135161733.png" >}}{.lia-media-image
-width="873" height="228" role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300640i7E4D61175685DC37?v=v2"
-li-image-display-id="'300640i7E4D61175685DC37'"
-li-message-uid="'2613452'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline
-image-alt="SiddharthVaghasia_23-1628135161733.png"
-style="width: 873px;"}
+{{< image alt="SiddharthVaghasia_23-1628135161733.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_23-1628135161733.png" >}}
+
 Below is have it will look like if you made all entries correct.
 
-{{< image alt="SiddharthVaghasia_24-1628135161735.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_24-1628135161735.png" >}}{.lia-media-image
-width="897" height="506" role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/300642iA40DBCFEF885BF33?v=v2"
-li-image-display-id="'300642iA40DBCFEF885BF33'"
-li-message-uid="'2613452'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline
-image-alt="SiddharthVaghasia_24-1628135161735.png"
-style="width: 897px;"}
+{{< image alt="SiddharthVaghasia_24-1628135161735.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_24-1628135161735.png" >}}
+
 You can Toggle Enable Swagger and click on create connector button.
 
 It will validate and save your connector.

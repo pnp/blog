@@ -131,16 +131,7 @@ features that were used in sample
 -   Filter by file extension
 -   Custom Theme styles 
 
-![SampleFileList.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278794i731EF796D5A52971/image-size/large?v=v2&px=999 "SampleFileList.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278794i731EF796D5A52971?v=v2"
-li-image-display-id="'278794i731EF796D5A52971'"
-li-message-uid="'2296730'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="SampleFileList.png"
-style="width: 664px;"}
-
+![SampleFileList.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278794i731EF796D5A52971/image-size/large?v=v2&px=999 "SampleFileList.png")
 ### Mgt provider and SharePointProvider 
 
 It\'s important that permissions are given from Microsoft Graph to SPFX
@@ -252,6 +243,7 @@ filter.
     ...
 /></FileList/>
 ```
+
 ### Styling with Mgt-File-List
 
 The Mgt-File-List includes Light and Dark theme but you can also provide
@@ -294,6 +286,7 @@ of the Beta Version.
   --show-more-button-border-bottom-left-radius: 12px;
 }
 ```
+
 ### Search in Shared Libraries
 
 The control by the property **\"fileListQuery\"** also allow the usage
@@ -324,6 +317,7 @@ const checkSearchDrive = (SearchQuery: string) => {
     ></FileList>
 }
 ```
+
 ### Final sample solution 
 
 Below the final result of the configuration of **Mgt-File-List** react
