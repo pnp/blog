@@ -2,6 +2,7 @@
 title: "Microsoft Graph community call -- June 2021"
 date: 2021-06-02T12:29:00-04:00
 author: "Brian Jackett"
+githubname: briantjackett
 categories: ["Microsoft Graph community call recordings"]
 images:
 - images/blog/microsoft-graph-community-call-june-2021/BrianTJackett.png

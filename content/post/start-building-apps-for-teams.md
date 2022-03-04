@@ -2,12 +2,13 @@
 title: "Start building apps for Teams"
 date: 2021-03-28T11:41:00-04:00
 author: "Waldek Mastykarz"
+githubname: WaldekMastykarz
 categories: ["Microsoft Teams"]
 images:
 - images/blog/start-building-apps-for-teams/teams-hero.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

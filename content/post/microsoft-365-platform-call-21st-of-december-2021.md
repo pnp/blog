@@ -2,12 +2,13 @@
 title: "Microsoft 365 Platform Call -- 21st of December, 2021"
 date: 2021-12-22T12:43:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-21st-of-december-2021/recording-21st-dec.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

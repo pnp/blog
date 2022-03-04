@@ -2,12 +2,13 @@
 title: "How to beautify your Power Apps"
 date: 2021-04-21T02:36:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Apps"]
 images:
 - images/blog/how-to-beautify-your-power-apps/fluentUIicons.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

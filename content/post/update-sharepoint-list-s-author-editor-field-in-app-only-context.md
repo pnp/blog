@@ -2,12 +2,13 @@
 title: "Update SharePoint list's Author / Editor field in App-Only context"
 date: 2021-08-09T08:40:00-04:00
 author: "Michael Maillot"
+githubname: michaelmaillot
 categories: ["Sharepoint"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

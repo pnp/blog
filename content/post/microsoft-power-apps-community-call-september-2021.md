@@ -2,12 +2,13 @@
 title: "Microsoft Power Apps Community Call -- September 2021"
 date: 2021-09-17T05:11:00-04:00
 author: "Todd Baginski"
+githubname: Tbag
 categories: ["Power Apps Community Call recordings"]
 images:
 - images/blog/microsoft-power-apps-community-call-september-2021/powerapps-recording.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

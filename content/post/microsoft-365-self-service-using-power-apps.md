@@ -2,6 +2,7 @@
 title: "Microsoft 365 self-service using Power Apps"
 date: 2022-01-12T06:00:00-05:00
 author: "Jan Bakker"
+githubname: BakkerJan
 categories: ["Power Apps"]
 images:
 - images/blog/microsoft-365-self-service-using-power-apps/1641653378.png

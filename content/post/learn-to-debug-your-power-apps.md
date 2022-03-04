@@ -2,6 +2,7 @@
 title: "Learn to debug your Power Apps"
 date: 2021-04-25T08:40:00-04:00
 author: "Michael Roth"
+githubname: MichaelRoth42
 categories: ["Power Apps"]
 images:
 - images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png

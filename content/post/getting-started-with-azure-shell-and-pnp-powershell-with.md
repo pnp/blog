@@ -2,12 +2,13 @@
 title: "Getting Started with Azure Shell and PnP PowerShell with Certificates"
 date: 2021-05-14T08:40:00-04:00
 author: "Pau Bullock"
+githubname: pkbullock
 categories: []
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

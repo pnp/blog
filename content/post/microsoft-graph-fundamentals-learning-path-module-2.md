@@ -2,6 +2,7 @@
 title: "Microsoft Graph Fundamentals learning path -- Module 2"
 date: 2021-04-05T04:28:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Microsoft Graph"]
 images:
 - images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphAccessTokenTicket.png

@@ -2,11 +2,12 @@
 title: "Get your To Do tasks daily in Teams using Power Automate"
 date: 2021-01-12T03:12:00-05:00
 author: "Lee Ford"
+githubname: LeeFord
 categories: []
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

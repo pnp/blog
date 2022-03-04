@@ -2,12 +2,13 @@
 title: "How to use Parse JSON action in Power Automate"
 date: 2021-02-11T01:50:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Automate"]
 images:
 - images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-SPList.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

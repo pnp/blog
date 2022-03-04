@@ -2,11 +2,12 @@
 title: "A JMESPath cheat sheet for the CLI for Microsoft 365"
 date: 2021-12-10T04:23:00-05:00
 author: "Albert-Jan Schot"
+githubname: appieschot
 categories: ["CLI For Microsoft 365"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

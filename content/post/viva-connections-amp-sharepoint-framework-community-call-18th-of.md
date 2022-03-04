@@ -2,12 +2,13 @@
 title: "Viva Connections & SharePoint Framework Community Call -- 18th of November, 2021"
 date: 2021-11-19T12:44:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-18th-of/recording-18th-nov.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

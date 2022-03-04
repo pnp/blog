@@ -2,11 +2,12 @@
 title: "Microsoft 365 Developer Podcast - Secretless Apps with Christos Matskas"
 date: 2021-07-26T07:32:00-04:00
 author: "Paul Schaeflein"
+githubname: pschaeflein
 categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -2,12 +2,14 @@
 title: "New VSCode extension for autocompleting your Microsoft Graph APIs"
 date: 2021-05-07T05:38:00-05:00
 author: "Elio Struyf"
+githubname: estruyf
+
 categories: ["Microsoft Graph", "Tooling"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

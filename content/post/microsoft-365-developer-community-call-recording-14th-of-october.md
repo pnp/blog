@@ -2,12 +2,13 @@
 title: "Microsoft 365 Developer Community Call recording -- 14th of October, 2021"
 date: 2021-10-15T12:41:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: []
 images:
 - images/blog/microsoft-365-developer-community-call-recording-14th-of-october/recording-14th-pnp-generic.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

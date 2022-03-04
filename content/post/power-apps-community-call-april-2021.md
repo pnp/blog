@@ -2,12 +2,13 @@
 title: "Power Apps Community Call -- April 2021"
 date: 2021-04-21T08:40:00-04:00
 author: "Todd Baginski"
+githubname: Tbag
 categories: ["Power Apps community Call recordings"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

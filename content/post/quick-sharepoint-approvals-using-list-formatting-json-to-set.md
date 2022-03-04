@@ -7,7 +7,7 @@ images:
 - images/blog/quick-sharepoint-approvals-using-list-formatting-json-to-set/choices.PNG
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -1,14 +1,13 @@
 ---
-title: "What\'s up with Markdown?"
+title: "Whats up with Markdown?"
 date: 2021-05-04T03:54:00-04:00
 author: "Bob German"
+githubname: BobGerman
 categories: ["Tooling"]
 images:
 - images/blog/what-s-up-with-markdown/hero-parker-p-800.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 [Perhaps you've noticed a technology called Markdown that's been
 showing up in a lot of web sites and apps lately. This article will

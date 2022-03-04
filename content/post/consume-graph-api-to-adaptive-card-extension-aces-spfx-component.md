@@ -2,12 +2,13 @@
 title: "Consume Graph API to Adaptive Card Extension (ACEs) SPFx component type"
 date: 2021-08-04T03:14:00-04:00
 author: "Dipen Shah"
+githubname: dips365
 categories: ["Adaptive Card Extensions (ACEs)"]
 images:
 - images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/People1.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

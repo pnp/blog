@@ -2,11 +2,12 @@
 title: "Getting started with PnP Core SDK"
 date: 2021-03-15T01:55:00-04:00
 author: "Paul Bullock"
+githubname: pkbullock
 categories: []
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

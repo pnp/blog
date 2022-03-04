@@ -2,12 +2,13 @@
 title: "Microsoft 365 Community (PnP) -- March 2021 update"
 date: 2021-03-09T06:55:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 Community update"]
 images:
 - images/blog/microsoft-365-community-pnp-march-2021-update/march-2021-pnp-monthly-update-promo.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

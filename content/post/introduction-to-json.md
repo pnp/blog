@@ -2,11 +2,12 @@
 title: "Introduction to JSON"
 date: 2021-02-10T11:47:00-05:00
 author: "Bob German"
+githubname: BobGerman
 categories: []
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

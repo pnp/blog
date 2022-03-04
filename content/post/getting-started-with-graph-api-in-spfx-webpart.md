@@ -2,12 +2,13 @@
 title: "Getting started with graph API in SPFx webpart"
 date: 2021-06-03T03:59:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: []
 images:
 - images/blog/getting-started-with-graph-api-in-spfx-webpart/Permssions.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 121"
 date: 2021-04-06T11:16:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-121/pnp-weekly-121-nik.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 # [ [Microsoft 365 PnP Weekly - Episode 121](/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-121/ba-p/2255891){#link_6 .page-link .lia-link-navigation .lia-custom-event} ]{.lia-message-unread} {#microsoft-365-pnp-weekly---episode-121-1 .message-subject itemprop="name"}

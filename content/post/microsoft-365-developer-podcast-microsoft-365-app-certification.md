@@ -2,11 +2,12 @@
 title: "Microsoft 365 Developer Podcast - Microsoft 365 App Certification with Orion O\'Malley"
 date: 2021-09-20T08:31:00-04:00
 author: "Paul Schaeflein"
+githubname: pschaeflein
 categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

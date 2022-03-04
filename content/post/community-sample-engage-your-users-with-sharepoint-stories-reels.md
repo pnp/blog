@@ -2,12 +2,13 @@
 title: "Community sample: Engage your users with SharePoint stories/reels"
 date: 2021-05-05T01:10:00-04:00
 author: "Luis Mañez"
+githubname: luismanez
 categories: ["SharePoint"]
 images:
 - images/blog/community-sample-engage-your-users-with-sharepoint-stories-reels/6-component-did-mount.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

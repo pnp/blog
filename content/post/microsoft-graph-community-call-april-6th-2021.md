@@ -2,12 +2,13 @@
 title: "Microsoft Graph community call - April 6th, 2021"
 date: 2021-04-08T12:00:00-04:00
 author: "Nik Charlebois"
+githubname: NikCharlebois
 categories: ["Microsoft Graph community call recordings"]
 images:
 - images/blog/microsoft-graph-community-call-april-6th-2021/TitleSlidewithPhotos.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 Hosted by [Nik Charlebois](https://twitter.com/NikCharlebois), this

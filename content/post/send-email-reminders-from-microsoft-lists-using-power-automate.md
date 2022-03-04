@@ -2,12 +2,13 @@
 title: "Send email reminders from Microsoft Lists using Power Automate"
 date: 2021-02-24T09:33:00-05:00
 author: "Norm Young"
+githubname: nyoung30
 categories: ["Power Automate"]
 images:
 - images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker01.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

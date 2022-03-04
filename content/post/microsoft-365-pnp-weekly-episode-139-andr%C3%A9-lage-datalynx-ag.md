@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 139 - André Lage (Datalynx AG)"
 date: 2021-10-19T02:35:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/Thumb-Ep139.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

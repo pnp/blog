@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Community -- April 2021 update"
 date: 2021-04-13T06:56:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-april-2021-update/april-monthly-update.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 {{< image alt="april-monthly-update.png" src="images/blog/microsoft-365-pnp-community-april-2021-update/april-monthly-update.png" >}}

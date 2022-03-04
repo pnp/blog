@@ -2,11 +2,12 @@
 title: "Explore Microsoft 365 extensibility opportunities with the Microsoft 365 Extensibility look book"
 date: 2021-06-18T04:28:00-04:00
 author: "Waldek Mastykarz"
+githubname: WaldekMastykarz
 categories: ["Microsoft 365"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

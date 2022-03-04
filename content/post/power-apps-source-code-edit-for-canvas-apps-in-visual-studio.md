@@ -2,12 +2,13 @@
 title: "Power Apps: source code edit for Canvas Apps in Visual Studio Code"
 date: 2021-04-28T08:40:00-04:00
 author: "Django Lohn"
+githubname: m3ngi3
 categories: ["Power Apps", "Tooling"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

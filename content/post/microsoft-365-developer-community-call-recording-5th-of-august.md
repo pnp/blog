@@ -2,12 +2,13 @@
 title: "Microsoft 365 Developer Community Call recording -- 5th of August, 2021"
 date: 2021-08-05T07:52:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-5th-of-august/PnP-Calls-TogetherMode-LowerResolution.gif
 tags: []
 type: "regular"
-draft: false
+
 
 --- 
 

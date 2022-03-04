@@ -2,11 +2,12 @@
 title: "M365 Dev Podcast - Exchange Deprecations with Greg Taylor"
 date: 2021-11-08T05:56:00-05:00
 author: "Paul Schaeflein"
+githubname: pschaeflein
 categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

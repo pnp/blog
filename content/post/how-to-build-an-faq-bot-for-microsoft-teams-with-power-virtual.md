@@ -2,12 +2,13 @@
 title: "How to build an FAQ bot for Microsoft Teams with Power Virtual Agents"
 date: 2021-02-25T11:51:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Virtual Agents"]
 images:
 - images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/walle.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 # {{< image alt="walle.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/walle.png" >}}

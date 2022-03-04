@@ -2,12 +2,13 @@
 title: "How to invite external users to a SharePoint site or Microsoft Team using Power Automate & Graph API"
 date: 2021-05-26T08:25:00-04:00
 author: "Mohamed Ashiq Faleel"
+githubname: ashiqf
 categories: ["Microsoft Graph", "SharePoint", "Power Automate"]
 images:
 - images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 127 - Rick Van Rousselt"
 date: 2021-05-18T12:53:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-127-rick-van-rousselt/Thumb-Ep127.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

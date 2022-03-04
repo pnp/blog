@@ -2,12 +2,13 @@
 title: "Microsoft 365 Platform Call -- 28th of September, 2021"
 date: 2021-09-29T12:40:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-28th-of-september-2021/recording-28th-sep.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

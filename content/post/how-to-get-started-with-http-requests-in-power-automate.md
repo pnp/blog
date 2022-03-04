@@ -2,12 +2,13 @@
 title: "How to get started with HTTP requests in Power Automate"
 date: 2021-02-11T09:16:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Automate", "Microsoft Graph"]
 images:
 - images/blog/how-to-get-started-with-http-requests-in-power-automate/explorer.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -2,11 +2,12 @@
 title: "Bulk add/remove users to Microsoft Teams using the CLI for Microsoft 365"
 date: 2021-10-05T03:08:00-04:00
 author: "Patrick Lamber"
+githubname: plamber
 categories: ["CLI For Microsoft 365"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

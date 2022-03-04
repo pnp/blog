@@ -2,6 +2,7 @@
 title: "Run CLI for Microsoft 365 in Docker"
 date: 2021-03-13T02:34:00-05:00
 author: "Garry Trinder"
+githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_0-1615630685864.png

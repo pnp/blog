@@ -1,13 +1,15 @@
 ---
 title: "Excel Scripts and Cloud Flows - Data Manipulation"
 date: 2021-05-17T12:50:00-04:00
-author: "Damo Bird 365"
+author: "Damien Bird"
+githubname: DamoBird365
+githubname: DamoBird365
 categories: ["Power Automate"]
 images:
 - images/blog/excel-scripts-and-cloud-flows-data-manipulation/Capture.PNG
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

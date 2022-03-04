@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Community -- June 2021 update"
 date: 2021-06-10T05:25:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-june-2021-update/pnp-june-promo-summary.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

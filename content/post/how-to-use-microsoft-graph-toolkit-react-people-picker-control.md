@@ -2,12 +2,13 @@
 title: "How to use Microsoft graph toolkit react people picker control in SPFx Webpart?"
 date: 2021-10-26T06:10:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["SharePoint", "Microsoft Graph", "Microsoft Graph Toolkit"]
 images:
 - images/blog/how-to-use-microsoft-graph-toolkit-react-people-picker-control/Implementations.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

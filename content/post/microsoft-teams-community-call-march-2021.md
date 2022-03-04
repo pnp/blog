@@ -7,7 +7,7 @@ images:
 - images/blog/microsoft-teams-community-call-march-2021/TitleSlide.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -48,7 +48,7 @@ transfers.
 
  
 
-**Bot Composer -** create a simple bot, install it in Teams and have it
+**Bot Composer** create a simple bot, install it in Teams and have it
 calling the Graph in 15 minutes!  Step-by-step - Name your bot, add a
 trigger, use ngrok to make bot work in Teams, register bot, create an
 app (in App Studio), install bot locally, connect it to the Graph,

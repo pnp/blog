@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Community Spotlight: Wictor Wilén"
 date: 2021-04-25T11:54:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Microsoft 365 community spotlight"]
 images:
 - images/blog/microsoft-365-pnp-community-spotlight-wictor-wil%C3%A9n/wictorwilen.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

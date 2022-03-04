@@ -2,11 +2,12 @@
 title: "Adaptive Cards community call -- October 2021"
 date: 2021-11-10T01:58:00-05:00
 author: "J.P. Roca"
+githubname: JeanRoca
 categories:  ["Adaptive Cards community call recordings"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

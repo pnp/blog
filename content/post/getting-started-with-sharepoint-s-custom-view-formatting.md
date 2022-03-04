@@ -1,13 +1,14 @@
 ---
 title: "Getting started with SharePoint\'s custom view formatting"
 date: 2021-03-19T08:42:00-04:00
-author: "will holland"
+author: "Will Holland"
+githubname: willholland
 categories: []
 images:
 - images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-formatting-after.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

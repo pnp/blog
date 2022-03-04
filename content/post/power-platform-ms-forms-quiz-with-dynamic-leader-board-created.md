@@ -2,12 +2,13 @@
 title: "Power Platform MS Forms Quiz with dynamic Leader Board created using Power Automate and HTTP Trigger"
 date: 2021-04-29T08:40:00-04:00
 author: "Damien Bird"
+githubname: DamoBird365
 categories: ["Power Automate"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

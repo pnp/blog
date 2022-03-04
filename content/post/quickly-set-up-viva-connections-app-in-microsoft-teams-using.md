@@ -7,7 +7,7 @@ images:
 - images/blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ShrushtiShah_7-1642505452452.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---# Quickly set up Viva Connections app in Microsoft Teams using Teams admin center
 

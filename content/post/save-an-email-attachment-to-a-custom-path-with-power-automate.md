@@ -1,7 +1,8 @@
 ---
 title: "Save an email attachment to a custom path with Power Automate"
 date: 2021-06-20T11:11:00-04:00
-author: "Damo Bird 365"
+author: "Damien Bird"
+githubname: DamoBird365
 categories: ["Power Automate"]
 images:
 - images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_0-1624209543175.png

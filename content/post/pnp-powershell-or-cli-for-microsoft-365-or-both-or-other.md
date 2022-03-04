@@ -14,7 +14,7 @@ summary: "During my SP consultant/dev work I most of the times used the last two
 categories: ["CLI for Microsoft 365","PnP PowerShell"]
 tags: []
 type: "epic" # available type (epic, trending, popular, or regular)
-draft: false
+
 ---
 
 ## The intro (what's up)

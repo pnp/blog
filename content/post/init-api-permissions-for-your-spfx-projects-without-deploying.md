@@ -2,12 +2,13 @@
 title: "Init API permissions for your SPFx projects without deploying them"
 date: 2021-03-10T01:34:00-05:00
 author: "Michaël Maillot"
+githubname: michaelmaillot
 categories: ["SharePoint"]
 images:
 - images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-fail.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

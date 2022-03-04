@@ -2,12 +2,13 @@
 title: "Use Node Version Manager to develop your SPFx apps"
 date: 2021-02-14T08:40:00-04:00
 author: "Toni Pohl"
+githubname: tonipohl
 categories: ["SharePoint", "Tooling"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

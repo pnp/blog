@@ -14,7 +14,7 @@ summary: "CLI for Microsoft 365 is a cross platform command line tool you may us
 categories: ["CLI for Microsoft 365","PnP PowerShell"]
 tags: []
 type: "epic" # available type (epic, trending, popular, or regular)
-draft: false
+
 ---
 > *"Hey, do you have 5 min?"*\
 > *"Could you check one simple thing and let me know asap?"*

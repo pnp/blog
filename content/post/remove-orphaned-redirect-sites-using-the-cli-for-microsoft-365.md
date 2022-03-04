@@ -2,11 +2,12 @@
 title: "Remove orphaned redirect sites using the CLI for Microsoft 365"
 date: 2021-11-18T02:20:00-05:00
 author: "Patrick Lamber"
+githubname: plamber
 categories: ["CLI for Microsoft 365"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

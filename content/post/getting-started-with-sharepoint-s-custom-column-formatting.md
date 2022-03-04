@@ -1,13 +1,14 @@
 ---
 title: "Getting started with SharePoint's custom column formatting"
 date: 2021-03-14T10:08:00-04:00
-author: "will holland"
+author: "Will Holland"
+githubname: willholland
 categories: []
 images:
 - images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_0-1615739594928.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

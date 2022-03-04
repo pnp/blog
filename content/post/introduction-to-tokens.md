@@ -2,12 +2,13 @@
 title: "Introduction to tokens"
 date: 2021-04-12T07:44:00-04:00
 author: "Lee Ford"
+githubname: LeeFord
 categories: []
 images:
 - images/blog/introduction-to-tokens/01ed60e47ba84e66b302a6ef0e9035d2.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

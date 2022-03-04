@@ -2,12 +2,13 @@
 title: "Microsoft 365 Platform Call -- 26th of October, 2021"
 date: 2021-10-27T03:20:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-26th-of-october-2021/recording-26th-oct.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

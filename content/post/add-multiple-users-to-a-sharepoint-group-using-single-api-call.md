@@ -2,11 +2,12 @@
 title: "Add multiple users to a SharePoint Group using single API Call"
 date: 2021-08-18T12:10:00-04:00
 author: "Arjun Menon"
+githubname: arjunumenon
 categories: ["SharePoint"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

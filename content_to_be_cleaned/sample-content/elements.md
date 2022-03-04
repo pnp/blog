@@ -13,7 +13,7 @@ description: "This is meta description"
 categories: ["demo","elements"]
 tags: ["demo","elements"]
 type: "regular" # available type (epic, trending, popular, or regular)
-draft: false
+
 ---
 
 

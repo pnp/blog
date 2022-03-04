@@ -2,12 +2,13 @@
 title: "Use CLI for Microsoft 365 to recognize contributions"
 date: 2021-05-14T08:40:00-04:00
 author: "Albert-Jan Schot"
+githubname: appieschot
 categories: ["CLI for Microsoft 365"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

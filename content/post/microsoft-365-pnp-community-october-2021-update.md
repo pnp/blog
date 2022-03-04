@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Community -- October 2021 update"
 date: 2021-10-22T06:00:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 {{< image alt="oct-monthly-summary-promo.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png" >}}

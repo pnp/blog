@@ -7,7 +7,7 @@ images:
 - images/blog/microsoft-identity-platform-community-call-june-2021/ViewPorter.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -2,11 +2,12 @@
 title: "Microsoft 365 Developer Podcast - Azure AD Entitlement Management and Governance with Elisabeth Olso"
 date: 2021-07-22T06:47:00-04:00
 author: "Paul Schaeflein"
+githubname: pschaeflein
 categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

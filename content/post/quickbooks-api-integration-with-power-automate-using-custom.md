@@ -2,12 +2,13 @@
 title: "QuickBooks API Integration With Power Automate Using Custom Connectors"
 date: 2021-08-09T08:43:00-04:00
 author: "Siddharth Vaghasia"
+githubname: siddharth-vaghasia
 categories: ["Power Automate"]
 images:
 - images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_0-1628135161016.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

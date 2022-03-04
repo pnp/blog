@@ -2,12 +2,13 @@
 title: "How 3 makers, 2 devs and a princess came together to save kittens for a hackathon"
 date: 2021-10-23T08:53:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Apps", "Power Automate"]
 images:
 - images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/solution-overview.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

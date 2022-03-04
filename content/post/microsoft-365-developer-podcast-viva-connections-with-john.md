@@ -2,11 +2,12 @@
 title: "Microsoft 365 Developer Podcast - Viva Connections with John Nguyen and Luca Bandinelli"
 date: 2021-06-17T09:53:00-04:00
 author: "Paul Schaeflein"
+githubname: pschaeflein
 categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

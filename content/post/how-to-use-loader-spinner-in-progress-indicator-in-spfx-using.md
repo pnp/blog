@@ -2,12 +2,13 @@
 title: "How to use loader/Spinner/In Progress indicator in SPFx using fluent UI Spinner?"
 date: 2021-09-14T06:28:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["SharePoint"]
 images:
 - images/blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/spfx-loader.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

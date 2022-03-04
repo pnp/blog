@@ -2,12 +2,13 @@
 title: "Adding Custom Metadata Through a Content Pack in Learning Pathways"
 date: 2021-02-18T07:46:00-05:00
 author: "Emily Mancini"
+githubname: eemancini
 categories: ["SharePoint"]
 images:
 - images/blog/adding-custom-metadata-through-a-content-pack-in-learning/eemancini_1-1613662523389.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
