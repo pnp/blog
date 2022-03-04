@@ -16,6 +16,7 @@ discussing the upcoming deprecations in the Exchange online service.
 
 Listen to the show here:  [Exchange Deprecations with Greg Taylor
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/exchange-deprecations-with-greg-taylor/)
+
 ## Links from the show: 
 
 -   [Upcoming API Deprecations in Exchange Web Services for Exchange

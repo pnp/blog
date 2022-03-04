@@ -13,6 +13,7 @@ type: "regular"
 ---
 
 {{< image alt="gautam-patrick-team.png" src="images/blog/new-microsoft-365-patterns-and-practices-pnp-team-members-may/gautam-patrick-team.png" >}}
+
 We are excited to announce that we are again extending our
 virtual [Microsoft 365 Patterns and Practices (PnP)
 team](https://aka.ms/m365pnp) with additional community members. PnP

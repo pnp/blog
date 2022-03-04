@@ -1,5 +1,5 @@
 ---
-title: "FAQ\'s in a Document Card"
+title: "FAQ's in a Document Card"
 date: 2021-04-14T06:23:00-04:00
 author: "Sam Collins"
 githubname: SamC148

@@ -13,6 +13,7 @@ type: "regular"
 ---
 
 ## Introduction 
+
 A Spinner is an outline of a circle that animates around itself
 indicating to the user that things are processing. A Spinner is shown
 when it's unsure how long a task will take making it the indeterminate
@@ -26,7 +27,9 @@ API to get lists from the root site, and until API response we will show
 Loader. We will use an Office UI fabric Spinner.
 For more information refer to
 [this](https://developer.microsoft.com/en-us/fluentui#/controls/web/spinner).
+
 ## Implementation 
+
 -   Open a command prompt
 -   Move to the path where you want to create a project
 -   Create a project directory using:

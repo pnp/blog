@@ -6,9 +6,7 @@ githubname: LuiseFreese
 categories: ["CLI for Microsoft 365"]
 images:
   images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-pa.png
-  images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/url-powerapps.png
-  images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-spo-users.png
-  images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-external.png
+
 tags: []
 type: "regular"
 

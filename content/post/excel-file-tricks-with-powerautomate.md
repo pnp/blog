@@ -3,14 +3,11 @@ title: "Excel File Tricks with PowerAutomate"
 date: 2021-08-04T11:06:00-04:00
 author: "Damien Bird"
 githubname: DamoBird365
-githubname: DamoBird365
 categories: ["Power Automate"]
 images:
 - images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628093847880.png
 tags: []
 type: "regular"
-
-
 ---
 
 

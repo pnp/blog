@@ -4,7 +4,7 @@ date: 2020-03-15T15:40:24+06:00
 # post thumb
 images:
   - "images/blog/blog-10.jpg"
-  - "images/blog/blog-1.jpg"
+
 #author
 author: "John Doe"
 # description
