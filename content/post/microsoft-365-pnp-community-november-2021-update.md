@@ -521,7 +521,7 @@ detailed.
     list](https://github.com/MicrosoftDocs/microsoft-365-community/issues)
     with articles ideas
 ### SharePoint Framework development samples 
-{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-november-2021-update/spfx-gallery.png" >}
+{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-november-2021-update/spfx-gallery.png" >}}
 These are the updated SharePoint Framework samples which are available
 from the the different repositories.
 -   New sample
