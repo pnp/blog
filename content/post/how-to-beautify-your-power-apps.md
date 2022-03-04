@@ -16,16 +16,13 @@ additions announced and rolled out. But if we want to create even more
 appealing apps, it makes sense to extend our pretty little icon library.
 Microsoft provides us with [Fluent
 UI](https://developer.microsoft.com/en-us/fluentui#/).
+
 > Fluent UI is a collection of UX frameworks for creating beautiful,
 > cross-platform apps that share code, design, and interaction behavior
 
 One part of Fluent UI is the iconography
- 
-
 
 {{< image alt="fluentUIicons.png" src="images/blog/how-to-beautify-your-power-apps/fluentUIicons.png" >}}
-
-
 
 ### How to get Fluent UI icons 
 
@@ -62,7 +59,7 @@ icons as .svg files, which have three significant advantages:
 -   .svg have are usually smaller than .jpg files of the same quality -
     this will have an excellent effect on the performance of your app
 
-## Pop-Ups 
+## Pop-Ups
 
 Screens in Power Apps are perfect for displaying information that should
 always be shown. But what if we only want to show some more content
@@ -171,7 +168,6 @@ Image: ic_fluent_people_32_regular
 
 )
 ```
- 
 
 2.  Gallery
 
@@ -197,7 +193,8 @@ to `Set(IsExpand, !IsExpand)```
 Now work on the .X property of all labels, buttons, images, etc. Set it
 to
 
-`If(!IsExpand, <original value>,<originalvalue>-150)```
+`If(!IsExpand, <original value>,<originalvalue>-150)`
+
 5\. variable so we can navigate to the selected screen on select of an
 item in the gallery
 
@@ -216,14 +213,11 @@ ThisItem.Row = 4, Navigate('Libraries Screen', None),
 ThisItem.Row = 5, Navigate('Lists Screen', None)
 )
 ```
+
 Our result should look something like this:
-::: {#tinyMceEditorLuise Freese_3 .mceNonEditable .lia-copypaste-placeholder}
- 
-:::
 
 {{< image alt="expand.gif" src="images/blog/how-to-beautify-your-power-apps/expand.gif" >}}
 
- 
 
 ## Feedback and what's next? 
 
@@ -248,4 +242,3 @@ If you like to reverse-engineer this idea - I provided a sample in the
 gallery](https://pnp.github.io/powerplatform-samples/samples/powerapps/): [link
 to source code files on
 GitHub](https://github.com/pnp/powerapps-samples/blob/main/samples/expandable-navigation/readme.md)
- 
