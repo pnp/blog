@@ -42,7 +42,7 @@ Now we will implement the logic for break permission as below,
 
 ### Setting list item permission to one user:
 
-![Single user.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/264762iD3B462C2ACF88BC5/image-size/large?v=v2&px=999 "Single user.png")
+{{< image alt="Single user.png" src="images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/Single user.png" >}}
 
 ## Setting list item permission to multiple users:
 

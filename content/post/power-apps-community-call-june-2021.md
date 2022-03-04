@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-![SEssionTHumb.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/289440iDC962F8F964037AC/image-size/large?v=v2&px=999 "SEssionTHumb.png")
+{{< image alt="SEssionTHumb.png" src="images/blog/power-apps-community-call-june-2021/SEssionTHumb.png" >}}
  
 
 **Call Summary:**

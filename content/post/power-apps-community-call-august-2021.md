@@ -12,7 +12,7 @@ draft: false
 ---
 # Power Apps Community Call -- August 2021
 
-![powerapps-community-call-18th-aug.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304988i089519B6E6819186/image-size/medium?v=v2&px=400 "powerapps-community-call-18th-aug.png")
+{{< image alt="powerapps-community-call-18th-aug.png" src="images/blog/power-apps-community-call-august-2021/powerapps-community-call-18th-aug.png" >}}
 
 **Call Summary:**
 

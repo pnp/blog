@@ -9,7 +9,7 @@ type: "regular"
 draft: false
 
 ---
-![adaptive-cards-November THumb.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328056i9FC2616DE8DC2E07/image-size/large?v=v2&px=999 "adaptive-cards-November THumb.png")
+{{< image alt="adaptive-cards-November THumb.png" src="images/blog/adaptive-cards-community-call-november-2021/adaptive-cards-November THumb.png" >}}
 
 The following topics are covered in this month's community call:
 

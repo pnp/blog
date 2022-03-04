@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-![TitleSlide.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266132i7CA7BA86F36D314B/image-size/large?v=v2&px=999 "TitleSlide.png")
+{{< image alt="TitleSlide.png" src="images/blog/power-apps-community-call-march-2021/TitleSlide.png" >}}
 
 **Call Summary:**
 
