@@ -6,11 +6,8 @@ githubname: SamC148
 categories: ["SharePoint"]
 images:
 - images/blog/faq-s-in-a-document-card/updateFAQgif.gif
-
-tags:[]
+tags: []
 type: "regular"
-
-
 ---
 
 I recently had a need for a web part for a frequently asked questions

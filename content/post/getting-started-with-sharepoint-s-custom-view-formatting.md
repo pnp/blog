@@ -1,5 +1,5 @@
 ---
-title: "Getting started with SharePoint\'s custom view formatting"
+title: "Getting started with SharePoint's custom view formatting"
 date: 2021-03-19T08:42:00-04:00
 author: "Will Holland"
 githubname: willholland
