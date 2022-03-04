@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 categories: ["Microsoft Teams community call recordings"]
 images:
 - images/blog/microsoft-teams-community-call-may-2021/teams-18th-recording-promo.png
-- images/blog/microsoft-teams-community-call-may-2021/210518-together-mode.gif
 tags: []
 type: "regular"
 draft: false

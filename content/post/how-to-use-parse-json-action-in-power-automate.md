@@ -5,9 +5,6 @@ author: "Luise Freese"
 categories: ["Power Automate"]
 images:
 - images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-SPList.png
-- images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-overview-flow.png
-- images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-history.png
-- images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-twitter.png
 tags: []
 type: "regular"
 draft: false

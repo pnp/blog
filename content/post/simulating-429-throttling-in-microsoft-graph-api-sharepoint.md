@@ -5,7 +5,6 @@ author: "Cameron Dwyer"
 categories: ["Microsoft Graph"]
 images:
 - images/blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/image.png
-- images/blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/image-1.png
 tags: []
 type: "regular"
 draft: false

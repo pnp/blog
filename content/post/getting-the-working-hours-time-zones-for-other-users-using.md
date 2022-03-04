@@ -5,9 +5,6 @@ author: "Michel Mendes"
 categories: []
 images:
 - images/blog/getting-the-working-hours-time-zones-for-other-users-using/01_Mysettings.PNG
-- images/blog/getting-the-working-hours-time-zones-for-other-users-using/02_OtherUsers.PNG
-- images/blog/getting-the-working-hours-time-zones-for-other-users-using/03_CarlosPostBody.PNG
-- images/blog/getting-the-working-hours-time-zones-for-other-users-using/04_CarlosResponseBody.PNG
 tags: []
 type: "regular"
 draft: false

@@ -5,16 +5,6 @@ author: "Michael Roth"
 categories: ["Power Automate"]
 images:
 - images/blog/working-with-apis-in-power-platform-for-beginners/HTTPrequest.png
-- images/blog/working-with-apis-in-power-platform-for-beginners/api-math-tool.png
-- images/blog/working-with-apis-in-power-platform-for-beginners/api-nr-of-day.png
-- images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod.png
-- images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-step.png
-- images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-run-successfull.png
-- images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-result.png
-- images/blog/working-with-apis-in-power-platform-for-beginners/JSON-value.png
-- images/blog/working-with-apis-in-power-platform-for-beginners/JSON-objects.png
-- images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod-value.png
-- images/blog/working-with-apis-in-power-platform-for-beginners/Teams-message.png
 tags: []
 type: "regular"
 draft: false

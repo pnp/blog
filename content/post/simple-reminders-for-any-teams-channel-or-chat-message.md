@@ -5,10 +5,6 @@ author: "Hubert Lam"
 categories: ["Microsoft Teams", "Adaptive Cards"]
 images:
 - images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620122926624.png
-- images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620123840984.png
-- images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_2-1620126836459.png
-- images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_3-1620127059580.png
-- images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_0-1620127122452.png
 tags: []
 type: "regular"
 draft: false

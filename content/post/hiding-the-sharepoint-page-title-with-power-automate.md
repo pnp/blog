@@ -5,13 +5,6 @@ author: "Michel Mendes"
 categories: ["SharePoint", "Power Automate"]
 images:
 - images/blog/hiding-the-sharepoint-page-title-with-power-automate/page-title.png
-- images/blog/hiding-the-sharepoint-page-title-with-power-automate/running-flow.gif
-- images/blog/hiding-the-sharepoint-page-title-with-power-automate/for-a-selected-file.png
-- images/blog/hiding-the-sharepoint-page-title-with-power-automate/PageURL.PNG
-- images/blog/hiding-the-sharepoint-page-title-with-power-automate/vars.PNG
-- images/blog/hiding-the-sharepoint-page-title-with-power-automate/patch.PNG
-- images/blog/hiding-the-sharepoint-page-title-with-power-automate/running-flow.gif
-- images/blog/hiding-the-sharepoint-page-title-with-power-automate/switch_flow.PNG
 tags: []
 type: "regular"
 draft: false

@@ -28,7 +28,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 custom_script= ""
 
 # search
-search = true
+search = false
 # banner
 banner = false
 # featured

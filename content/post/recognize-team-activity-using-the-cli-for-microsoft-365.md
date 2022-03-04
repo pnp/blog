@@ -5,7 +5,6 @@ author: "Albert-Jan Schot"
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/recognize-team-activity-using-the-cli-for-microsoft-365/team-champion-script.png
-- images/blog/recognize-team-activity-using-the-cli-for-microsoft-365/team-champion-result.png
 tags: []
 type: "regular"
 draft: false

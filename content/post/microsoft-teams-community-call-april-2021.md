@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 categories: ["Microsoft Teams community call recordings"]
 images:
 - images/blog/microsoft-teams-community-call-april-2021/teams-monthly-20th-april-recording.png
-- images/blog/microsoft-teams-community-call-april-2021/210420-teams.gif
 tags: []
 type: "regular"
 draft: false

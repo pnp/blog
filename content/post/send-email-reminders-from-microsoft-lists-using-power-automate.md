@@ -5,14 +5,6 @@ author: "Norm Young"
 categories: ["Power Automate"]
 images:
 - images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker01.png
-- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker02.png
-- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker03.png
-- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_4-1613402858860.png
-- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_5-1613403503451.png
-- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-23.png
-- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-24.png
-- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-25.png
-- images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-26.png
 tags: []
 type: "regular"
 draft: false

@@ -5,7 +5,6 @@ author: "Ganesh Sanap"
 categories: ["SharePoint"]
 images:
 - images/blog/sharepoint-online-how-to-change-the-placeholder-text-in-the/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png
-- images/blog/sharepoint-online-how-to-change-the-placeholder-text-in-the/sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png
 tags: []
 type: "regular"
 draft: false

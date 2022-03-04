@@ -5,9 +5,7 @@ author: "Luise Freese"
 categories: ["Power Automate"]
 images:
 - images/blog/4-ways-to-level-up-your-power-automate-flows/Teams-status.png
-- images/blog/4-ways-to-level-up-your-power-automate-flows/flow-overview.png
-- images/blog/4-ways-to-level-up-your-power-automate-flows/flow-output.png
-- images/blog/4-ways-to-level-up-your-power-automate-flows/flow-condition.png
+
 tags: []
 type: "regular"
 draft: false

@@ -5,11 +5,6 @@ author: "Agnes Molnar"
 categories: ["PnP Modern Search", "SharePoint"]
 images:
 - images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-01-new-page-1024x412.png
-- images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-02-web-parts.png
-- images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-03-web-parts-example-1024x686.png
-- images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-04-search-box-web-part.png
-- images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-05-search-results-web-part-properties.png
-- images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-06-search-page-101.png
 tags: []
 type: "regular"
 draft: false

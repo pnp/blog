@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-30th-of-november-2021/recording-30th-nov-platform.png
-- images/blog/microsoft-365-platform-call-30th-of-november-2021/PnP-Calls-TogetherMode-500w-Trimmed.gif
 tags: []
 type: "regular"
 draft: false

@@ -5,17 +5,6 @@ author: "will holland"
 categories: []
 images:
 - images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-formatting-after.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/view-formatting-after.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/list-view-flavors.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/blowout-witharrows.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/LOTR-Meme.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/blowout-witharrows.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-1.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-2.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-3.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/list-view-complete.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/format-options.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/final-product.png
 tags: []
 type: "regular"
 draft: false

@@ -5,8 +5,7 @@ author: "Yannick Reekmans"
 categories: ["Tooling"]
 images:
 - images/blog/add-developer-powershell-and-developer-command-prompt-for-visual/image.png
-- images/blog/add-developer-powershell-and-developer-command-prompt-for-visual/image-1.png
-- images/blog/add-developer-powershell-and-developer-command-prompt-for-visual/image-2.png
+
 tags: []
 type: "regular"
 draft: false

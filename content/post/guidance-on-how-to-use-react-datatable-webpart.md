@@ -5,14 +5,6 @@ author: "Chandani Prajapati"
 categories: []
 images:
 - images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png
-- images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png
-- images/blog/guidance-on-how-to-use-react-datatable-webpart/Output1.png
-- images/blog/guidance-on-how-to-use-react-datatable-webpart/Add_An_App.png
-- images/blog/guidance-on-how-to-use-react-datatable-webpart/Add-Webpart.png
-- images/blog/guidance-on-how-to-use-react-datatable-webpart/Search_Sort_Config.png
-- images/blog/guidance-on-how-to-use-react-datatable-webpart/Advanced_Features.png
-- images/blog/guidance-on-how-to-use-react-datatable-webpart/Output1.png
-- images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png
 tags: []
 type: "regular"
 draft: false

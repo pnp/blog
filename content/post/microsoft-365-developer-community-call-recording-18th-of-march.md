@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-18th-of-march/sig-18th-march-recording.png
-- images/blog/microsoft-365-developer-community-call-recording-18th-of-march/CmtyPhoto.png
 tags: []
 type: "regular"
 draft: false

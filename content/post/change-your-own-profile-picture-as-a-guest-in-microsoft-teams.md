@@ -5,11 +5,6 @@ author: "Yannick Reekmans"
 categories: ["Microsoft Teams"]
 images:
 - images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image.png
-- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-1.png
-- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-3.png
-- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-4.png
-- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-5.png
-- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-6.png
 tags: []
 type: "regular"
 draft: false

@@ -5,15 +5,6 @@ author: "Luise Freese"
 categories: ["Tooling", "Microsoft Graph"]
 images:
 - images/blog/how-to-get-started-with-graph-explorer/adi-suryanata-5T0bY-x9A8U-unsplash.jpg
-- images/blog/how-to-get-started-with-graph-explorer/overview.png
-- images/blog/how-to-get-started-with-graph-explorer/gear.png
-- images/blog/how-to-get-started-with-graph-explorer/teams-channel.png
-- images/blog/how-to-get-started-with-graph-explorer/post-teams-channel.png
-- images/blog/how-to-get-started-with-graph-explorer/post-teams-channel-replace.png
-- images/blog/how-to-get-started-with-graph-explorer/modify-permissions.png
-- images/blog/how-to-get-started-with-graph-explorer/code-snippet-js.png
-- images/blog/how-to-get-started-with-graph-explorer/adaptivecards-json.png
-- images/blog/how-to-get-started-with-graph-explorer/pop-out-docs.png
 tags: []
 type: "regular"
 draft: false

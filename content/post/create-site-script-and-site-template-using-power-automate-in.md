@@ -5,10 +5,6 @@ author: "Dipen Shah"
 categories: ["SharePoint", "Power Automate"]
 images:
 - images/blog/create-site-script-and-site-template-using-power-automate-in/Flow2.jpg
-- images/blog/create-site-script-and-site-template-using-power-automate-in/Flow3.jpg
-- images/blog/create-site-script-and-site-template-using-power-automate-in/Dips365_1-1630571668730.png
-- images/blog/create-site-script-and-site-template-using-power-automate-in/Dips365_0-1630571387332.png
-- images/blog/create-site-script-and-site-template-using-power-automate-in/Flow6.jpg
 tags: []
 type: "regular"
 draft: false

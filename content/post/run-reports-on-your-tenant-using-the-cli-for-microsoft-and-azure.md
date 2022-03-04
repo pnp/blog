@@ -5,8 +5,6 @@ author: "Albert-Jan Schot"
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma.png
-- images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma-id.png
-- images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-la-cleanup.png
 tags: []
 type: "regular"
 draft: false

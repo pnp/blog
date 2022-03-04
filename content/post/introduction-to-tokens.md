@@ -5,9 +5,6 @@ author: "Lee Ford"
 categories: []
 images:
 - images/blog/introduction-to-tokens/01ed60e47ba84e66b302a6ef0e9035d2.png
-- images/blog/introduction-to-tokens/e738e6ef6d6f41ab9e811c7d4e8d5371.png
-- images/blog/introduction-to-tokens/openidconnect.png
-- images/blog/introduction-to-tokens/LeeFord_0-1641203766651.png
 tags: []
 type: "regular"
 draft: false

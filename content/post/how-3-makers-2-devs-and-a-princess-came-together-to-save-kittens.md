@@ -5,9 +5,6 @@ author: "Luise Freese"
 categories: ["Power Apps", "Power Automate"]
 images:
 - images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/solution-overview.png
-- images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/PetrolPushTitle.png
-- images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/App-MapFields.png
-- images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/App-Details.png
 tags: []
 type: "regular"
 draft: false

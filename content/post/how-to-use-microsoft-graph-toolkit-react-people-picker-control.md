@@ -5,7 +5,6 @@ author: "Chandani Prajapati"
 categories: ["SharePoint", "Microsoft Graph", "Microsoft Graph Toolkit"]
 images:
 - images/blog/how-to-use-microsoft-graph-toolkit-react-people-picker-control/Implementations.png
-- images/blog/how-to-use-microsoft-graph-toolkit-react-people-picker-control/react-ad-mgt-users.gif
 tags: []
 type: "regular"
 draft: false

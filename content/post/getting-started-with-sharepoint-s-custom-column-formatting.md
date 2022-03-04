@@ -5,16 +5,6 @@ author: "will holland"
 categories: []
 images:
 - images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_0-1615739594928.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_1-1615739594936.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_2-1615739594938.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_3-1615739594938.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_4-1615739594943.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_5-1615739594946.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_6-1615739594947.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_7-1615739594949.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_8-1615739594955.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_9-1615739594966.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_10-1615739594999.png
 tags: []
 type: "regular"
 draft: false

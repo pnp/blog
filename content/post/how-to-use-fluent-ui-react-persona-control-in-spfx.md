@@ -5,7 +5,6 @@ author: "Chandani Prajapati"
 categories: ["SharePoint"]
 images:
 - images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png
-- images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png
 tags: []
 type: "regular"
 draft: false

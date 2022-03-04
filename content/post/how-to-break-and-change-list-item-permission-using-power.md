@@ -5,13 +5,6 @@ author: "Chandani Prajapati"
 categories: ["SharePoint", "Power Automate"]
 images:
 - images/blog/how-to-break-and-change-list-item-permission-using-power/Step2.png
-- images/blog/how-to-break-and-change-list-item-permission-using-power/Step3.png
-- images/blog/how-to-break-and-change-list-item-permission-using-power/step4.png
-- images/blog/how-to-break-and-change-list-item-permission-using-power/Step5.png
-- images/blog/how-to-break-and-change-list-item-permission-using-power/step6.png
-- images/blog/how-to-break-and-change-list-item-permission-using-power/step7.png
-- images/blog/how-to-break-and-change-list-item-permission-using-power/step8.png
-- images/blog/how-to-break-and-change-list-item-permission-using-power/OP.png
 tags: []
 type: "regular"
 draft: false

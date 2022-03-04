@@ -5,15 +5,6 @@ author: "Michael Roth"
 categories: []
 images:
 - images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_10-1614283053396.png
-- images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_11-1614283053399.png
-- images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_12-1614283053411.png
-- images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_13-1614283053413.png
-- images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_14-1614283053403.png
-- images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_15-1614283053406.png
-- images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_16-1614283053415.png
-- images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_17-1614283053416.png
-- images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_18-1614283053408.png
-- images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_19-1614283053409.png
 tags: []
 type: "regular"
 draft: false

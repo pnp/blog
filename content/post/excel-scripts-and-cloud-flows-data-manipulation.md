@@ -5,10 +5,6 @@ author: "Damo Bird 365"
 categories: ["Power Automate"]
 images:
 - images/blog/excel-scripts-and-cloud-flows-data-manipulation/Capture.PNG
-- images/blog/excel-scripts-and-cloud-flows-data-manipulation/DamoBird365_0-1621076762535.png
-- images/blog/excel-scripts-and-cloud-flows-data-manipulation/DamoBird365_1-1621076794170.png
-- images/blog/excel-scripts-and-cloud-flows-data-manipulation/DamoBird365_0-1621236507649.png
-- images/blog/excel-scripts-and-cloud-flows-data-manipulation/DamoBird365_1-1621236596024.png
 tags: []
 type: "regular"
 draft: false

@@ -5,8 +5,6 @@ author: "Chandani Prajapati"
 categories: ["SharePoint"]
 images:
 - images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/22.png
-- images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/1.png
-- images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/3.png
 tags: []
 type: "regular"
 draft: false

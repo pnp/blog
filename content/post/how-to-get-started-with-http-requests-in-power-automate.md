@@ -5,12 +5,6 @@ author: "Luise Freese"
 categories: ["Power Automate", "Microsoft Graph"]
 images:
 - images/blog/how-to-get-started-with-http-requests-in-power-automate/explorer.jpg
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/manually-trigger.png
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/methods.png
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/methods.png
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/http-without-auth.png
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/flow-total.png
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/channel-with-tab.png
 tags: []
 type: "regular"
 draft: false

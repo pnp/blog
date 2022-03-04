@@ -5,17 +5,6 @@ author: "Vesa Juvonen"
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-january-2022-update/pnp-january-2022-update.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/pnp-community-model.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/VesaJuvonen_0-1629736432373.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/graph-toolkit.jpg
-- images/blog/microsoft-365-pnp-community-january-2022-update/community-dcos.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/spfx-gallery.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/teams-samples-promo.jpg
-- images/blog/microsoft-365-pnp-community-january-2022-update/power-platform-samples.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/script-gallery.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/independent-connectors.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/sharing-is-caring-promo-1024x576.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/pnp-companies-january-2022.png
 tags: []
 type: "regular"
 draft: false

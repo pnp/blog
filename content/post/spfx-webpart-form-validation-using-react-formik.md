@@ -5,7 +5,6 @@ author: "Chandani Prajapati"
 categories: [ "Sharepoint"]
 images:
 - images/blog/spfx-webpart-form-validation-using-react-formik/Output.png
-- images/blog/spfx-webpart-form-validation-using-react-formik/SPFx-react-formik.gif
 tags: []
 type: "regular"
 draft: false

@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-4th-of-january-2022/recording-4th-january.png
-- images/blog/microsoft-365-platform-call-4th-of-january-2022/220104-together-mode.gif
 tags: []
 type: "regular"
 draft: false

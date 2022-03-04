@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 categories: []
 images:
 - images/blog/microsoft-365-developer-community-call-recording-14th-of-october/recording-14th-pnp-generic.png
-- images/blog/microsoft-365-developer-community-call-recording-14th-of-october/211014-together-mode.gif
 tags: []
 type: "regular"
 draft: false

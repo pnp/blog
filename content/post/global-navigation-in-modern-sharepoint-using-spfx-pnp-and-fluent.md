@@ -5,8 +5,6 @@ author: "Dipen Shah"
 categories: []
 images:
 - images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GN3.jpg
-- images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV3.jpg
-- images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV4.jpg
 tags: []
 type: "regular"
 draft: false

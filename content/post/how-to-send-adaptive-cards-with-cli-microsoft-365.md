@@ -5,11 +5,6 @@ author: "Luise Freese"
 categories: ["Adaptive Cards", "CLI for Microsoft 365"]
 images:
 - images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg
-- images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/login.png
-- images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/PnPmanagementShellOK.png
-- images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/status.png
-- images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/help.png
-- images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/incoming-webhook.png
 tags: []
 type: "regular"
 draft: false

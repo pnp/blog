@@ -5,11 +5,6 @@ author: "Michaël Maillot"
 categories: ["SharePoint"]
 images:
 - images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-fail.png
-- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-console-fail.png
-- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/aad-app-spo-api-graph.png
-- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-success.png
-- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/aad-app-spo-api-custom.png
-- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/api-access-custom-approved.png
 tags: []
 type: "regular"
 draft: false

@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/recording-2nd-of-dec.png
-- images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/211202-together-mode.gif
 tags: []
 type: "regular"
 draft: false

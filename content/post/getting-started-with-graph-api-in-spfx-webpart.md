@@ -5,8 +5,6 @@ author: "Chandani Prajapati"
 categories: []
 images:
 - images/blog/getting-started-with-graph-api-in-spfx-webpart/Permssions.png
-- images/blog/getting-started-with-graph-api-in-spfx-webpart/AcceptPermsiion.png
-- images/blog/getting-started-with-graph-api-in-spfx-webpart/Output.png
 tags: []
 type: "regular"
 draft: false

@@ -5,10 +5,6 @@ author: "Carmen Ysewijn"
 categories: ["Power Apps", "SharePoint"]
 images:
 - images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Hermione-IconVisible.png
-- images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconNotVisible.png
-- images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconNotVisible.png
-- images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Harry-IconVisible.png
-- images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Ron-IconVisible.png
 tags: []
 type: "regular"
 draft: false

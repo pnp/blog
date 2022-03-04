@@ -5,7 +5,6 @@ author: "Elio Struyf"
 categories: ["Tooling"]
 images:
 - images/blog/to-write-code-comments-or-not-it-should-not-be-a-question/comments1.png
-- images/blog/to-write-code-comments-or-not-it-should-not-be-a-question/comments2.png
 tags: []
 type: "regular"
 draft: false

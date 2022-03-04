@@ -5,9 +5,6 @@ author: "Valeras Narbutas"
 categories: ["Dataverse"]
 images:
 - images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418328122.png
-- images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418806793.png
-- images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_1-1633418877623.png
-- images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_2-1633419038732.png
 tags: []
 type: "regular"
 draft: false

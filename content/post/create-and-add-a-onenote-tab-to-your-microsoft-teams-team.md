@@ -5,11 +5,6 @@ author: "Vesa Nopanen"
 categories: ["Microsoft Graph", "Power Automate"]
 images:
 - images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-13.png
-- images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-14.png
-- images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-16.png
-- images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-18.png
-- images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-20.png
-- images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-22.png
 tags: []
 type: "regular"
 draft: false

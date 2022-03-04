@@ -5,14 +5,6 @@ author: "Vesa Juvonen"
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-may-2021-update/may-pnp-summary-available.png
-- images/blog/microsoft-365-pnp-community-may-2021-update/pnp-community-model.png
-- images/blog/microsoft-365-pnp-community-may-2021-update/graph-toolkit.jpg
-- images/blog/microsoft-365-pnp-community-may-2021-update/community-dcos.png
-- images/blog/microsoft-365-pnp-community-may-2021-update/spfx-gallery.png
-- images/blog/microsoft-365-pnp-community-may-2021-update/teams-samples-promo.jpg
-- images/blog/microsoft-365-pnp-community-may-2021-update/power-platform-samples.png
-- images/blog/microsoft-365-pnp-community-may-2021-update/sharing-is-caring-promo-1024x576.png
-- images/blog/microsoft-365-pnp-community-may-2021-update/may-2021-compaies.png
 tags: []
 type: "regular"
 draft: false

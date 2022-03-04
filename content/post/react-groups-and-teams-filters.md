@@ -5,11 +5,6 @@ author: "Alison Collins"
 categories: ["SharePoint"]
 images:
 - images/blog/react-groups-and-teams-filters/img1.png
-- images/blog/react-groups-and-teams-filters/img2.png
-- images/blog/react-groups-and-teams-filters/img3.png
-- images/blog/react-groups-and-teams-filters/option filter.png
-- images/blog/react-groups-and-teams-filters/switch group list.png
-- images/blog/react-groups-and-teams-filters/ternary.png
 tags: []
 type: "regular"
 draft: false

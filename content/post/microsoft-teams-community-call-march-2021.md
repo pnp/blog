@@ -5,7 +5,6 @@ author: "Jun Pak"
 categories: ["Microsoft Teams community call recordings"]
 images:
 - images/blog/microsoft-teams-community-call-march-2021/TitleSlide.png
-- images/blog/microsoft-teams-community-call-march-2021/Jun_Pak_0-1616095092787.gif
 tags: []
 type: "regular"
 draft: false

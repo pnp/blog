@@ -5,11 +5,6 @@ author: "Luise Freese"
 categories: ["Tooling"]
 images:
 - images/blog/how-to-get-started-with-github-and-git/github-new.png
-- images/blog/how-to-get-started-with-github-and-git/first-commit.png
-- images/blog/how-to-get-started-with-github-and-git/github-clone.png
-- images/blog/how-to-get-started-with-github-and-git/git-changes.png
-- images/blog/how-to-get-started-with-github-and-git/git-push.png
-- images/blog/how-to-get-started-with-github-and-git/compare-changes.png
 tags: []
 type: "regular"
 draft: false

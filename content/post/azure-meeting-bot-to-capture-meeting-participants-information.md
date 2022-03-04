@@ -5,24 +5,6 @@ author: "Siddharth Vaghasia"
 categories: ["Microsoft Teams", "Power Automate", "Azure"]
 images:
 - images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_0-1630435722443.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_1-1630435722896.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_2-1630435722887.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_3-1630435722444.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_4-1630435722736.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_5-1630435722747.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_6-1630435722897.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_7-1630435837476.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_8-1630435837628.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_9-1630435867496.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_10-1630435867800.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_11-1630435867960.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_12-1630435910359.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_13-1630435910363.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_14-1630435910364.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_15-1630435910363.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_16-1630435933837.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_17-1630435933853.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_18-1630435934427.png
 tags: []
 type: "regular"
 draft: false

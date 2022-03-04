@@ -5,8 +5,6 @@ author: "Dipen Shah"
 categories: ["Adaptive Card Extensions (ACEs)"]
 images:
 - images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/People1.jpg
-- images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/People2.jpg
-- images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/1.gif
 tags: []
 type: "regular"
 draft: false

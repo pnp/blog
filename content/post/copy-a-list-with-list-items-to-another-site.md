@@ -5,7 +5,6 @@ author: "Will holland"
 categories: ["SharePoint"]
 images:
 - images/blog/copy-a-list-with-list-items-to-another-site/sad-mario.png
-- images/blog/copy-a-list-with-list-items-to-another-site/you-win.jpg
 tags: []
 type: "regular"
 draft: false

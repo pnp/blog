@@ -5,7 +5,6 @@ author: "Bob German"
 categories: ["Tooling"]
 images:
 - images/blog/what-s-up-with-markdown/hero-parker-p-800.png
-- images/blog/what-s-up-with-markdown/hero-parker-p-800.png
 tags: []
 type: "regular"
 draft: false

@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-7th-of-october-2021/agenda-7th-oct.png
-- images/blog/sharepoint-framework-community-call-7th-of-october-2021/211007-together-mode.gif
 tags: []
 type: "regular"
 draft: false

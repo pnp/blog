@@ -5,7 +5,6 @@ author: "Albert-Jan Schot"
 categories: ["Power Apps"]
 images:
 - images/blog/running-a-power-app-as-edge-extension/edge-plugin.gif
-- images/blog/running-a-power-app-as-edge-extension/flow-todo.png
 tags: []
 type: "regular"
 draft: false

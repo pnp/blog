@@ -5,7 +5,6 @@ author: "Elio Struyf"
 categories: ["CLI for Microsoft 365", "Tooling"]
 images:
 - images/blog/doctor-maintain-your-documentation-on-sharepoint-without-pain/doctor1.png
-- images/blog/doctor-maintain-your-documentation-on-sharepoint-without-pain/doctor2.png
 tags: []
 type: "regular"
 draft: false

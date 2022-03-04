@@ -5,9 +5,6 @@ author: "Andrew Benson"
 categories: ["Microsoft Identity platform community call recordings"]
 images:
 - images/blog/microsoft-identity-platform-community-call-april-2021/ViewPorter.png
-- images/blog/microsoft-identity-platform-community-call-april-2021/ViewPorter.png
-- images/blog/microsoft-identity-platform-community-call-april-2021/EventHubBlockDiagram.png
-- images/blog/microsoft-identity-platform-community-call-april-2021/ViewPorter.png
 tags: []
 type: "regular"
 draft: false

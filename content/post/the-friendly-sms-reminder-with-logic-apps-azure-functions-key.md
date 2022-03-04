@@ -5,28 +5,6 @@ author: "Luise Freese"
 categories: ["Azure Logic Apps", "Azure"]
 images:
 - images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/AzureCreateResource.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_3-1627339056564.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/FunctionAppNew.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/FunctionAppCreateSteps.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/azfunctionVSCode.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/swploy.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/confirmdeploy.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/confirmdeploysuccess.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/Codeandtest.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_40-1627337771809.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_41-1627337799414.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_42-1627337856099.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/Createworkflow.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_44-1627338250789.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_45-1627338310190.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_46-1627338363471.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_47-1627338404313.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_48-1627338540906.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_49-1627338576580.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_50-1627338604177.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_51-1627338622825.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/accesspolicyform.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_52-1627338697431.png
 tags: []
 type: "regular"
 draft: false
