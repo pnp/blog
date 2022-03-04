@@ -123,7 +123,7 @@ custom dynamic paths for both the Folder Path or Site Address. I am
 obviously saving the file twice here in order to demonstrate the two
 options. You might want to combine the custom site and folder with an
 additional parameter in your Array or SharePoint List.
-[](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290141i8FB522F93B3B1E9F/image-size/large?v=v2&px=999 "DamoBird365_7-1624209543373.png")
+{{< image alt="DamoBird365_7-1624209543373.png" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_7-1624209543373.png" >}}
 
 ## Summary
 

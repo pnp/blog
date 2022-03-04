@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-![Thumbnail - Power Apps Community Call - April 2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/276123iE4162BBF22203D09/image-size/large?v=v2&px=999 "Thumbnail - Power Apps Community Call - April 2021.png")
+{{< image alt="Thumbnail - Power Apps Community Call - April 2021.png" src="images/blog/power-apps-community-call-april-2021/Thumbnail - Power Apps Community Call - April 2021.png" >}}
 
 **Call Summary:**
 

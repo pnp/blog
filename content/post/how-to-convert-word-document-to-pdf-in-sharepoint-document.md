@@ -29,7 +29,7 @@ in SharePoint Document Library using **Power Automate** without using
 any licence version.
 Using this method will be a bit lengthy but if we don\'t have the power
 to automate premium licenses then we can also achieve a solution.
-![Group 1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326574i3FEC557E437AC323/image-size/large?v=v2&px=999 "Group 1.png")
+{{< image alt="Group 1.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/Group 1.png" >}}
 
 ## Implementation 
 1\. Go to **Power Automate** \> **My flows** \> Click on **New flow** \>

@@ -39,7 +39,7 @@ Move to the above-created directory using:
 Now execute the below command to create an SPFx solution:
     yo @microsoft/sharepoint 
 It will ask some questions, as shown below,
-![How To Use LoaderSpinner In SPFx.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310203iC1EEE1D95F1CE7B2/image-size/large?v=v2&px=999 "How To Use LoaderSpinner In SPFx.png")
+{{< image alt="How To Use LoaderSpinner In SPFx.png" src="images/blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/How To Use LoaderSpinner In SPFx.png" >}}
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
     code .

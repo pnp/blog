@@ -63,7 +63,7 @@ Here is our solution overview: 
 
  
 
-![AZTwilio.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298504i428BA74B318E7DFC/image-dimensions/679x344?v=v2 "AZTwilio.png"
+{{< image alt="AZTwilio.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/AZTwilio.png" >}}
 
 As you can see, we will touch some interesting things like 
 
@@ -489,7 +489,7 @@ Now let's get rid of our hard coded values in the app configuration to
 clean up things: 
 
 
-![cleanup.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298535i215E2805F6795A53/image-size/large?v=v2&px=999 "cleanup.pn
+{{< image alt="cleanup.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/cleanup.png" >}}
 Select the **Delete** icon -- please check twice to delete the right
 settings! 
 
@@ -504,7 +504,7 @@ Select **Functions**
 
 **That's it -- you made it work! And this is the result: **
 
-![LuiseFreese_56-1627338765021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298530i73C8D175DCC8AAFB/image-size/medium?v=v2&px=400 "LuiseFreese_56-1627338765021.png"
+{{< image alt="LuiseFreese_56-1627338765021.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_56-1627338765021.png" >}}
 
 **You successfully**
 

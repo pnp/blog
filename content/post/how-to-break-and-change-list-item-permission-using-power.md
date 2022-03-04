@@ -31,7 +31,7 @@ Create a SharePoint List
 Create a Power Automate - We will create an **Automated Cloud Flow**
 1\. Go to **Power Automate** \> **My flows** \> Click on **New flow** \>
 Select **Automated Cloud Flow**
-**![Step 1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/292211i84755D916E892FE2/image-size/large?v=v2&px=999 "Step 1.png")
+**{{< image alt="Step 1.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/Step 1.png" >}}
  
 2\. It will ask for the flow name and trigger.
 Add flow name and choose a trigger **when an item is created.**

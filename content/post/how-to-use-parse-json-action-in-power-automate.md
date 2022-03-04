@@ -18,7 +18,7 @@ We can see a a lot of JSON in our Power Automate flow run history, and
 if you wonder, how you can *parse* JSON to make Dynamic Content (which
 is selectable) out of it so you can more easily make use of an object,
 then this post is made for you.
-![james-pond-26vBUtlufFo-unsplash (1).jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254265iA0CB124ABFA3A9CE/image-size/medium?v=v2&px=400 "james-pond-26vBUtlufFo-unsplash (1).jpg")
+{{< image alt="james-pond-26vBUtlufFo-unsplash (1).jpg" src="images/blog/how-to-use-parse-json-action-in-power-automate/james-pond-26vBUtlufFo-unsplash (1).jpg" >}}
 
 If you want to know what exactly is JSON and what you need to know about
 it, please read this [great article by Bob German in the Microsoft 365

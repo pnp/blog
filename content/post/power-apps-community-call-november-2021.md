@@ -12,8 +12,7 @@ draft: false
 ---
 
 
-![PowerApps Thumb November
-2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328476iFEC765EFEBB69EC8/image-size/large?v=v2&px=999 "PowerApps Thumb November 2021.png")
+{{< image alt="PowerApps Thumb November 2021.png" src="images/blog/power-apps-community-call-november-2021/PowerApps Thumb November 2021.png" >}}
  
 
 **Call Summary:**

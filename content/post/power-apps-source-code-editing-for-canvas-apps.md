@@ -50,7 +50,7 @@ You can download your .msapp file by opening the Power App in the online
 Studio. Then selecte **Save as** and select **This computer** as your
 destination. A popup should appear that offers you to download the
 .msapp file:\
-![Save your .msapp file to a local destination](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270692iA075265AFB590604/image-size/large?v=v2&px=999 "PowerApps_Studio_SaveAs")
+{{< image alt="Save your .msapp file to a local destination" src="images/blog/power-apps-source-code-editing-for-canvas-apps/PowerApps_Studio_SaveAs.png" >}}
 
 
 {{< image alt="" src="images/blog/power-apps-source-code-editing-for-canvas-apps/.png" >}}
@@ -67,7 +67,7 @@ C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master\ConfigScreen.msa
 mentioned in the Microsoft post. Then download the Power Apps Language
 Tooling locally to your Downloads folder:
 
-![Download the Power Apps Language Tooling tool from GitHub locally](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270694i8F1A240A6DFDFF01/image-size/large?v=v2&px=999 "PowerApps_LanguageTooling_DownloadZIP")
+{{< image alt="Download the Power Apps Language Tooling tool from GitHub locally" src="images/blog/power-apps-source-code-editing-for-canvas-apps/PowerApps_LanguageTooling_DownloadZIP.png" >}}
 
 
 Unzip this file and save the unzipped folder in a local place of your
@@ -82,7 +82,7 @@ C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master
 4) Then just run the build.cmd file of the unzipped folder as
 Administrator to be sure:
 
-![Run the build.cmd as an Administrator](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270695i835CD6258D83070A/image-size/large?v=v2&px=999 "PowerApps_LanguageTooling_BuildCMD")
+{{< image alt="Run the build.cmd as an Administrator" src="images/blog/power-apps-source-code-editing-for-canvas-apps/PowerApps_LanguageTooling_BuildCMD.png" >}}
 
 
 After a successful run, the bin folder will have a number of files in
@@ -141,7 +141,7 @@ you can edit the individual files. This is how you edit Power Apps
 source code of Canvas Apps. I prefer Visual Studio Code because you can
 open up a whole folder in one go:
 
-![Visual Studio Code opening a whole Folder and Sub Folders to edit individual files](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270699i031BB50B921D1FE4/image-size/large?v=v2&px=999 "VisualStudioCode_Unpacked_msapp") 
+{{< image alt="Visual Studio Code opening a whole Folder and Sub Folders to edit individual files" src="images/blog/power-apps-source-code-editing-for-canvas-apps/VisualStudioCode_Unpacked_msapp.png" >}} 
 
 9) Now you can remove frozen screens, rename controls in bulk,
 update variables in bulk or any other action which in Power Apps Studio

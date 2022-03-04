@@ -46,7 +46,7 @@ following improvements:
 
 In other words, we\'re shooting for this:
 
-![Screen Shot 2021-04-06 at 2.40.56 PM.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270627i8EC564DBD0E356FE/image-size/large?v=v2&px=999 "Screen Shot 2021-04-06 at 2.40.56 PM.png")
+{{< image alt="Screen Shot 2021-04-06 at 2.40.56 PM.png" src="images/blog/improving-the-page-properties-web-part/Screen Shot 2021-04-06 at 2.40.56 PM.png" >}}
 
 ## Property Pane 
 

@@ -56,7 +56,7 @@ E5 license:
 
 You see, if you want to learn more about the Power Platform and develop
 your skills, this is a huge benefit for you. And it comes for free.
-![What is included in the Power Apps Community Plan](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/256937i7899F1A0F2955BC5/image-size/large?v=v2&px=999 "included.png")
+{{< image alt="What is included in the Power Apps Community Plan" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/included.png" >}}
 
 **How to join the Community Plan?**
 
@@ -66,18 +66,18 @@ developer tenant: Mail address and password.
 Go to the [Power Apps Community Plan
 website](https://powerapps.microsoft.com/en-us/communityplan/) and click
 on **Get started free**.
-![The overview page of the Power Apps Community Plan](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/256942i4976C5B4524E2CB1/image-size/large?v=v2&px=999 "Overview.png")
+{{< image alt="The overview page of the Power Apps Community Plan" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/Overview.png" >}}
 
 In the next step you need to insert the mail address of your dev tenant.
 That is very important, do not use a different mail address, since you
 want the Community Plan to be linked to your dev tenant. After that
 click on **Sign Up**.
-![The sign in page of the Power Apps Community Plan](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/256941i50B9733951FCCCC7/image-size/large?v=v2&px=999 "getstarted.png")
+{{< image alt="The sign in page of the Power Apps Community Plan" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/getstarted.png" >}}
 
  You will get a notification that says, that you're using this address
 with another Microsoft Service already. Of course, you do, you use it
 for your developer tenant, right? So click on **Sign In**. 
-![a pop up mentioning, that you already use the address for a Microsoft Service](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/256943i06A9BC3CDDDD7AD6/image-size/large?v=v2&px=999 "noworries.png")
+{{< image alt="a pop up mentioning, that you already use the address for a Microsoft Service" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/noworries.png" >}}
 The next window is a confirmation that you're signed in and you can
 (important, you don't have to) decide to get promotion and offers send
 to your address.
@@ -90,7 +90,7 @@ You don't have to, so choose wisely.
 And naturally by clicking on **Start** you confirm that you've read the
 terms and conditions and the Microsoft Privacy Policy. So maybe it's a
 good point to read them ;)
-![A pop up asking you to agree to the terms and conditions and decide if you want to share your information and get email offers from Microsoft](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/256944i170AD02568EC2836/image-size/large?v=v2&px=999 "almost.png")
+{{< image alt="A pop up asking you to agree to the terms and conditions and decide if you want to share your information and get email offers from Microsoft" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/almost.png" >}}
 
 Don't you worry, you're almost done. In order to start with the Power
 Apps Community Plan you need to choose the country you're using the
@@ -98,7 +98,7 @@ Power Platform in. There are various legal conditions, which differ
 depending on the country. Once again you can choose the get the latest
 Power Apps tips and information, yet this is no mandatory field.
 If you hit that **Accept** button you're done.
-![A pop up asking you to choose your country to begin.](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/256945iAC1920C40062063D/image-size/large?v=v2&px=999 "lastthing.png")
+{{< image alt="A pop up asking you to choose your country to begin." src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/lastthing.png" >}}
 
 If you check the [Power Platform Admin Center](https://aka.ms/ppac) you
 will recognize, that there is another environment, next to the default
@@ -106,7 +106,7 @@ one.
 
 Congratulations, you've just joined the Power Apps Community Plan and
 can now see your new Developer environment. 
-![A picture of two different environments in the Power Platform Admin Center](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/256946i43B4897F6A4B93C5/image-size/large?v=v2&px=999 "Environments.png")
+{{< image alt="A picture of two different environments in the Power Platform Admin Center" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/Environments.png" >}}
 
 Now you can start developing apps and flows in this specific
 environment.
@@ -118,4 +118,4 @@ see a list of all your available environments. Now select you newly
 created Developer environment (in my case it's **Michael Roth's
 Environment**). Now you're using the newly created Developer environment
 with all the benefits from the Power Apps Community Plan.
-![A picture showing the button the select the right environment in the Power Tools](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/256947i8B0EA16561AA3D31/image-size/large?v=v2&px=999 "Choose_environment.png")
+{{< image alt="A picture showing the button the select the right environment in the Power Tools" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/Choose_environment.png" >}}
