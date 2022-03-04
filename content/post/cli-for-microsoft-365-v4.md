@@ -10,8 +10,7 @@ draft: false
 
 ---
 
-![CLI for Microsoft 365
-v4](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/315155iEA0154C8AF904E8C/image-size/large?v=v2&px=999 "banner-cli-m365.png")
+![CLI for Microsoft 365 v4](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/315155iEA0154C8AF904E8C/image-size/large?v=v2&px=999 "banner-cli-m365.png")
  
 
 We\'ve just published a new major version of the CLI for Microsoft 365

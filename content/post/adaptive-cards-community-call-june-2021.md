@@ -11,8 +11,7 @@ draft: false
 ---
 
 
-![Adaptive Cards Thumb_June
-2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/294750i29F17FC7FAA65BD8/image-size/large?v=v2&px=999 "Adaptive Cards THumb_June 2021.png")
+![Adaptive CrsThumb_Jn201.g](:/coyf5-947F6BD8zl?=&x"H)
 
 
 After a quick wrap up on Microsoft Build '21 from an Adaptive Cards

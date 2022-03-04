@@ -42,13 +42,11 @@ Now we will implement the logic for break permission as below,
 
 ### Setting list item permission to one user:
 
-![Single
-user.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/264762iD3B462C2ACF88BC5/image-size/large?v=v2&px=999 "Single user.png")
+![Single user.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/264762iD3B462C2ACF88BC5/image-size/large?v=v2&px=999 "Single user.png")
 
 ## Setting list item permission to multiple users:
 
-![Multiple
-users.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/264763i84749D19C5917FD1/image-size/large?v=v2&px=999)
+![Multiple users.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/264763i84749D19C5917FD1/image-size/large?v=v2&px=999)
 
 Here logic will be the same as above. just have to add one array with
 required user IDs and then will iterate this array and set the

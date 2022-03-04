@@ -10,8 +10,7 @@ draft: false
 
 ---
 
-![CLI for Microsoft
-365](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337808iB304EDACAE259FF3/image-size/large?v=v2&px=999 "banner-cli-m365.png")
+![CLI for Microsoft 365](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337808iB304EDACAE259FF3/image-size/large?v=v2&px=999 "banner-cli-m365.png")
 
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform 
 

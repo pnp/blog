@@ -10,8 +10,7 @@ draft: false
 
 ---
 
-[![adaptive-cards-October
-THumb.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/324683iE137929D200330F1/image-size/large?v=v2&px=999 "adaptive-cards-October THumb.png")
+[![adaptive-cards-October THumb.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/324683iE137929D200330F1/image-size/large?v=v2&px=999 "adaptive-cards-October THumb.png")
 
 The following topics are covered in this month's community call:
 - **FactSet + Adaptive Cards** (rendering Adaptive Cards in their
