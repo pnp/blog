@@ -285,9 +285,9 @@ in power automate.
 Add a new row in the table is created excel file.
 {{< image alt="reports10.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/reports10.png" >}}
 Full Power automate will look like as below.
-![Create report of assigned licenses for users from Microsoft 36511.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307485i311E9D45D2B58D2E/image-size/large?v=v2&px=999 "Create report of assigned licenses for users from Microsoft 36511.gif")
+{{< image alt="Create report of assigned licenses for users from Microsoft 36511.gif" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Create report of assigned licenses for users from Microsoft 36511.gif" >}}
 The output will be as below.
-![Create report of assigned licenses for users from Microsoft 36512.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307486i3043038AA660C9DC/image-size/large?v=v2&px=999 "Create report of assigned licenses for users from Microsoft 36512.png")
+{{< image alt="Create report of assigned licenses for users from Microsoft 36512.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Create report of assigned licenses for users from Microsoft 36512.png" >}}
 
 ### Conclusion 
 

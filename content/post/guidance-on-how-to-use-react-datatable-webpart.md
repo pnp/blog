@@ -84,7 +84,7 @@ It will open a page for the **SharePoint apps** store. At here find
 
  
 
- [![App Store.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311990i542D6093E1FD34DB/image-size/large?v=v2&px=999 "App Store.png")
+ [{{< image alt="App Store.png" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/App Store.png" >}}
 
  
 
@@ -113,7 +113,7 @@ Now we will configure a web part as below,
 
  
 
-![List Config.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311992i8D838FA13D539F22/image-size/large?v=v2&px=999 "List Config.png")
+{{< image alt="List Config.png" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/List Config.png" >}}
 
  
 

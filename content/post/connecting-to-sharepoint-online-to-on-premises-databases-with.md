@@ -47,7 +47,7 @@ allowed us to connect from Azure back into the customer network without
 the need to reconfigure complex firewalls.
  
 To help visualize the solution, let's take a look at the architecture.
-![The architecture overview of the solution](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317178i3B95467AB4BC41DF/image-size/medium?v=v2&px=400 "image-5.png")
+{{< image alt="The architecture overview of the solution" src="images/blog/connecting-to-sharepoint-online-to-on-premises-databases-with/image-5.png" >}}
 
 We ended up having two [Azure Hybrid Connection
 Services](https://docs.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections) running.
@@ -81,7 +81,7 @@ grant admin consent to Azure AD Applications. Basically, a Global Admin
 has this role, so we worked with the IT team to ensure a privileged user
 did the authorization. Be mindful of this when deploying to the customer
 
-![The steps to authorize accessing an API in SharePoint Online.](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317180i748812510ED90C92/image-size/medium?v=v2&px=400 "image-6.png")
+{{< image alt="The steps to authorize accessing an API in SharePoint Online." src="images/blog/connecting-to-sharepoint-online-to-on-premises-databases-with/image-6.png" >}}
  
 The screen to authorize SharePoint Framework solutions.
  

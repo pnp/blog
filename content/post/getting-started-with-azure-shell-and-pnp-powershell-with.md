@@ -159,7 +159,7 @@ So why are use an Azure AD app? Using the Azure Shell restricts some
 authentication options when connecting to services with PnP PowerShell,
 such as interactive login, because it cannot display a pop-up window.
  
-![Azure Shell - doesn\'t support interactive login](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/280443i78DB2E453BCA80E9/image-size/large?v=v2&px=999 "PnP PowerShell - cannot use Azure Shell.png")
+{{< image alt="Azure Shell - doesn\'t support interactive login" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/PnP PowerShell - cannot use Azure Shell.png" >}}
 
 The `-PnPManagementShell` parameter is an option; this uses the device
 login method BUT will require you to navigate to another site/page to
