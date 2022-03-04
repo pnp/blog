@@ -24,7 +24,7 @@ data sources and too many controls referencing each other. The result
 was a Power Apps Studio with a *Page Unresponsive *error when when
 opening specific screens:
 
-![PowerApps_Page_Unresponsive](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270691i1AA3CFFA746CE797/image-size/large?v=v2&px=999 "PowerApps_Page_Unresponsive")
+{{< image alt="PowerApps_Page_Unresponsive" src="images/blog/power-apps-source-code-editing-for-canvas-apps/PowerApps_Page_Unresponsive.png" >}}
 
 This left us with no way to clean up the latest version of the Canvas
 App through the Studio anymore
@@ -54,7 +54,7 @@ destination. A popup should appear that offers you to download the
 destination](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270692iA075265AFB590604/image-size/large?v=v2&px=999 "PowerApps_Studio_SaveAs")
 
 
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270700i34E99C64660A9931/image-size/large?v=v2&px=999 "PowerApps_ExportPackage")
+{{< image alt="" src="images/blog/power-apps-source-code-editing-for-canvas-apps/.png" >}}
 
 
 2)  I then move the .msapp file to a folder within my Downloads
@@ -103,7 +103,7 @@ should be the same. The PASopa file is where the magic happens.
 5) Now open the default Windows Command Prompt and Run as
 adminisrator:
 
-![CommanPromptAsAdministrator](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270696i27FB00398D890DF2/image-size/large?v=v2&px=999 "CommanPromptAsAdministrator")
+{{< image alt="CommanPromptAsAdministrator" src="images/blog/power-apps-source-code-editing-for-canvas-apps/CommanPromptAsAdministrator.png" >}}
 
 
 1) Have a folder prepared where you want to store the unpacked
@@ -121,7 +121,7 @@ cd C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master\PowerApps-Lan
 ```
 
 
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270697iE20B2EC9AE7FDB96/image-size/large?v=v2&px=999 "CommanPromptAsAdministrator_ChangeDirectory")
+{{< image alt="" src="images/blog/power-apps-source-code-editing-for-canvas-apps/.png" >}}
 
 
 **8)** Execute the following command to unpack the .msapp files to the
@@ -137,7 +137,7 @@ files. Warnings may occur because of checksums built in by the
 developers. However in the end, the folder with the unpacked .msapp file
 will have a default content structure:
 
-![FileExplorer_Unpacked_msapp_File](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270698iA505AA5724F722FB/image-size/large?v=v2&px=999 "FileExplorer_Unpacked_msapp_File")
+{{< image alt="FileExplorer_Unpacked_msapp_File" src="images/blog/power-apps-source-code-editing-for-canvas-apps/FileExplorer_Unpacked_msapp_File.png" >}}
 
 With a tool like Notepad++ or my personal favorite Visual Studio Code,
 you can edit the individual files. This is how you edit Power Apps
@@ -165,7 +165,7 @@ command does not give an output directory... so where did the new
 repacked .msapp file go?? It gives you the new .msapp file in the PASopa
 directory:
 
-![FileExplorer_Repacked_msapp_Files](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270690iFEB1C9BD2AE34D60/image-size/large?v=v2&px=999 "FileExplorer_Repacked_msapp_Files")
+{{< image alt="FileExplorer_Repacked_msapp_Files" src="images/blog/power-apps-source-code-editing-for-canvas-apps/FileExplorer_Repacked_msapp_Files.png" >}}
 
 The repacked ZIP file can be imported in the online Studio. This import
 will then update the existing Power App to a new version. Never thought

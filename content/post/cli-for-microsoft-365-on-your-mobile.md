@@ -91,12 +91,12 @@ always
 ```bash
 m365 login
 ```
-![5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337455i2DA51120E511FFA4/image-size/medium?v=v2&px=400)
+{{< image alt="5.png" src="images/blog/cli-for-microsoft-365-on-your-mobile/5.png" >}}
 After successful login we may check the connection status running
 ```bash
 m365 status
 ```
-![3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/337456i2259594364873124/image-size/medium?v=v2&px=400)
+{{< image alt="3.png" src="images/blog/cli-for-microsoft-365-on-your-mobile/3.png" >}}
 Now lets try any command. Lets check my sites on tenant running
 ```bash
 m365 spo site list

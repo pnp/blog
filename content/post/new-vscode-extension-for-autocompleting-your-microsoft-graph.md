@@ -34,7 +34,7 @@ Completion](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscod
 The initial version of the extension supports the **GET** API paths,
 query string parameters, and their values.
 
-![how-it-works.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266529i28CE768D65E0815B/image-size/large?v=v2&px=999 "how-it-works.gif")
+{{< image alt="how-it-works.gif" src="images/blog/new-vscode-extension-for-autocompleting-your-microsoft-graph/how-it-works.gif" >}}
 
 The **/users/** API completion allows you to add a **{user-id}** token.
 ![Screenshot 2021-03-23 at

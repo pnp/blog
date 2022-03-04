@@ -46,8 +46,7 @@ too.
 Note that the Pages Library is not listed on the options for the
 triggers, however, you can add the list manually by adding its id
 (GUID), which can be found on the library settings page URL:
-![list
-id.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310151i599C5B27707D9B79/image-size/large?v=v2&px=999 "list id.PNG")
+![list id.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310151i599C5B27707D9B79/image-size/large?v=v2&px=999 "list id.PNG")
 
 **Accessing Page Data**
 For the next steps, we need to use data returned by the flow trigger to
@@ -69,8 +68,7 @@ Then you can make a call using REST API to
 the **GetFileByServerRelativeUrl **endpoint to retrieve the list item
 fields for the current page (explicitly selecting the PageLayoutType
 field, otherwise, it wouldn't be returned):
-![send an http get
-data.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310155i440CBA25A125730F/image-size/large?v=v2&px=999 "send an http get data.PNG")
+![send an http get data.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310155i440CBA25A125730F/image-size/large?v=v2&px=999 "send an http get data.PNG")
 Use the **Parse JSON** action with the schema below to facilitate
 accessing the properties:
  
@@ -95,14 +93,12 @@ accessing the properties:
 
 And initialise a new variable called **PageLayout**, having
 the **PageLayoutType **parsed from the JSON content as value:
-![parse
-json.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310157iA4F6E2A5FD9734DB/image-size/large?v=v2&px=999 "parse json.PNG")
+![parse json.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310157iA4F6E2A5FD9734DB/image-size/large?v=v2&px=999 "parse json.PNG")
 **Updating the Page Layout**
 Based on the current page layout value, you can update the variable
 value to the other desired (if it is **Home**, you should update it
 to **Article**, if it is **Article **you should update it to **Home**.
-![switch
-value.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310158i1C42AE3C7A770BA2/image-size/large?v=v2&px=999 "switch value.PNG")
+![switch value.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310158i1C42AE3C7A770BA2/image-size/large?v=v2&px=999 "switch value.PNG")
 And then send a **PATCH **HTTP request to SharePoint to update the
 current page field:
 {{< image alt="patch.PNG" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/patch.PNG" >}}
@@ -162,8 +158,7 @@ same flow will be called as if it was triggered from the Automate menu.
  
 
 To find your Flow id, just check the URL used when you edit it:
-![flow
-id.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310163i6B615C29059CCDFA/image-size/large?v=v2&px=999 "flow id.PNG")
+![flow id.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310163i6B615C29059CCDFA/image-size/large?v=v2&px=999 "flow id.PNG")
 
 You can then start it normally from any other Site Pages library in the
 tenant, where you add the column with the JSON formatting calling the

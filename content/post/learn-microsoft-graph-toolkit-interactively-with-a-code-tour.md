@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-![mgt-code-tour-banner.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/291901i829961FDBD694E7D/image-size/large?v=v2&px=999 "mgt-code-tour-banner.png")
+{{< image alt="mgt-code-tour-banner.png" src="images/blog/learn-microsoft-graph-toolkit-interactively-with-a-code-tour/mgt-code-tour-banner.png" >}}
 
 Learn interactively how to turn your React app into a Microsoft 365 app
 with Microsoft Graph Toolkit
@@ -44,7 +44,7 @@ an experiment - an [interactive code
 tour](https://github.com/microsoftgraph/mgt-react-codetour) that you can
 follow to add Microsoft Graph Toolkit to a React app.
 
-![mgt-code-tour.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/291902iBF1D8C8144DA31DF/image-size/large?v=v2&px=999 "mgt-code-tour.png")
+{{< image alt="mgt-code-tour.png" src="images/blog/learn-microsoft-graph-toolkit-interactively-with-a-code-tour/mgt-code-tour.png" >}}
 
 By following the instructions in the tour, you gradually extend an empty
 React app with Microsoft Graph Toolkit turning it into a true Microsoft

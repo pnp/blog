@@ -112,7 +112,7 @@ CLI to send information to this webhook.  If you follow that walkthrough
 and perhaps set a fancy logo you will end up with the URL you need and a
 welcome post that looks something like the following: 
 
-![social-webhook.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/299219iA1191C410B1AE7EF/image-size/large?v=v2&px=999 "social-webhook.png")
+{{< image alt="social-webhook.png" src="images/blog/use-cli-for-microsoft-365-to-recognize-contributions/social-webhook.png" >}}
 
 ## Sharing your data 
 
@@ -140,7 +140,7 @@ m365 adaptivecard send --url $webhookUrl --card $card
 ```
  
 Executed the result will look as follows:  
-![2021-07-29_17-51-58.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/299220i27CF4CD57EEA3ED7/image-size/large?v=v2&px=999 "2021-07-29_17-51-58.png")
+{{< image alt="2021-07-29_17-51-58.png" src="images/blog/use-cli-for-microsoft-365-to-recognize-contributions/2021-07-29_17-51-58.png" >}}
 
 
 You can find this sample, and many more samples at the [CLI for

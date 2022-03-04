@@ -34,7 +34,7 @@ Site.
 Below a draw resuming the custom query\'s made and what control uses to
 retrieve associated folders and files from different locations.
 
-![MainCalls.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/276720i5A62C2F7948D668D/image-size/large?v=v2&px=999 "MainCalls.png")
+{{< image alt="MainCalls.png" src="images/blog/navigate-onedrive-data-with-microsoft-graph-and-mgt-file-list/MainCalls.png" >}}
 
 ### How the Mgt-File-List Work 
 
@@ -131,7 +131,7 @@ features that were used in sample
 -   Filter by file extension
 -   Custom Theme styles 
 
-![SampleFileList.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278794i731EF796D5A52971/image-size/large?v=v2&px=999 "SampleFileList.png")
+{{< image alt="SampleFileList.png" src="images/blog/navigate-onedrive-data-with-microsoft-graph-and-mgt-file-list/SampleFileList.png" >}}
 ### Mgt provider and SharePointProvider 
 
 It\'s important that permissions are given from Microsoft Graph to SPFX
@@ -323,7 +323,7 @@ const checkSearchDrive = (SearchQuery: string) => {
 Below the final result of the configuration of **Mgt-File-List** react
 controls:
 
-![OneDrivefinderSample3.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278825iCE51537904B9BDD2/image-dimensions/758x465?v=v2 "OneDrivefinderSample3.gif")
+{{< image alt="OneDrivefinderSample3.gif" src="images/blog/navigate-onedrive-data-with-microsoft-graph-and-mgt-file-list/OneDrivefinderSample3.gif" >}}
 
 Solution can be found in the *SharePoint Framework Client-Side Web Part
 Samples* - **OneDrive finder**:

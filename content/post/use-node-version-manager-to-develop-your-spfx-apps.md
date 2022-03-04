@@ -48,7 +48,7 @@ When you have a later version, such as 14.5, already installed, it´s
 usually not required to uninstall this version. nvm finds that version
 and allows to use it with nvm.
 
-![p1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254775iF70E60A1710450C9/image-size/large?v=v2&px=999 "p1.png")
+{{< image alt="p1.png" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p1.png" >}}
 
 Alternatively, when you have [chocolatey](https://chocolatey.org/)
 installed, you can run
@@ -56,7 +56,7 @@ installed, you can run
 *choco uninstall nodejs -y\
 *(as I did on my machine to cleanup.)
 
-![p2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254774i56C3F8BFFC3EBDAC/image-size/large?v=v2&px=999 "p2.png")
+{{< image alt="p2.png" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p2.png" >}}
 
 You can install nvm from [Node Version Manager (nvm) for
 Windows](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows "https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows")
@@ -73,7 +73,7 @@ Let´s check if nvm is working:
 should find no Node.js versions.
 
 
-![p3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254773i354DB7DAD488458D/image-size/large?v=v2&px=999 "p3.png")
+{{< image alt="p3.png" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p3.png" >}}
 
 To see the latest Node.js versions check <https://nodejs.org/en/>, or
 simply run
@@ -88,13 +88,13 @@ Now, install the desired Node.js versions:
   *nvm install 10.23.0*
 
 
-    ![p5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254770i42313897C54DFC12/image-size/large?v=v2&px=999 "p5.png")
+    {{< image alt="p5.png" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p5.png" >}}
 
   `nvm install 14.15.4`
 
 
 
-![p6.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254771i02E6CE22572B1295/image-size/large?v=v2&px=999 "p6.png")
+{{< image alt="p6.png" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p6.png" >}}
 
 -   Etc. For the latest Node.js version, simply run
 
@@ -103,7 +103,7 @@ Now, install the desired Node.js versions:
 Now check the installed versions: *nvm ls*
 
 
-![p7.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254769iEBA30A340B4B6233/image-size/large?v=v2&px=999 "p7.png")
+{{< image alt="p7.png" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p7.png" >}}
 
 You can now switch between versions with nvm. Use \<nvm version>, e.g.
 
@@ -164,7 +164,7 @@ The generated solution includes the sample app that can now be modified.
 
 
 
-![Coding\...](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254779iC103D1F670979331/image-size/large?v=v2&px=999 "p11.png")
+{{< image alt="Coding\..." src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/Coding\..." >}}
 When done, let´s open the default browser with the gulp webserver:
 
 *gulp serve*

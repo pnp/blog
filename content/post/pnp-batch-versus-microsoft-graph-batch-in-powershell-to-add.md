@@ -29,11 +29,11 @@ at random intervals I was getting errors like 
 
 \"Invoke-WebRequest : The underlying connection was closed: A connection
 that was expected to be kept alive was closed by the server\"
-![reshmeeauckloo_0-1631898450004.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311150i7BC7111870D0E115/image-dimensions/904x104?v=v2 "reshmeeauckloo_0-1631898450004.png")
+{{< image alt="reshmeeauckloo_0-1631898450004.png" src="images/blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/reshmeeauckloo_0-1631898450004.png" >}}
 and 
 \"Invoke-webRequest : The remote server returned an error: (401)
 Unauthorized\" 
-![reshmeeauckloo_1-1631898461413.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311151i30A378A5D57FD05B/image-dimensions/898x128?v=v2 "reshmeeauckloo_1-1631898461413.png")
+{{< image alt="reshmeeauckloo_1-1631898461413.png" src="images/blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/reshmeeauckloo_1-1631898461413.png" >}}
 I used a retry mechanism in case of failure to re-establish the
 connection to continue the operation. To my dismay even if the script
 completed looping the 300k times to either add or delete the items, not
@@ -50,7 +50,7 @@ minutes. 
 Below is a screenshot of the results of running the script which resumed
 the operation in case of errors like \"The underlying connection was
 closed\".
-![reshmeeauckloo_0-1631978767171.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/311272iB21B1129E79E311F/image-dimensions/887x173?v=v2 "reshmeeauckloo_0-1631978767171.png")
+{{< image alt="reshmeeauckloo_0-1631978767171.png" src="images/blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/reshmeeauckloo_0-1631978767171.png" >}}
 
 Microsoft Graph batch script
 ``` {.lia-code-sample .language-powershell}

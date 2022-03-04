@@ -33,7 +33,7 @@ shipped).
 We\'re not going to be deep diving into every option or combination of
 setting. Instead, we\'re going for the classic \"Minimal Path to
 Awesome\"\...with a few detours throughout.
-![16-final.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267709i4E2053B0680F7935/image-size/large?v=v2&px=999 "16-final.png")
+{{< image alt="16-final.png" src="images/blog/using-the-pnp-modern-search-web-parts/16-final.png" >}}
 
 ## Getting the Web Parts 
 
@@ -64,7 +64,7 @@ this blog to help get you up to speed.
 In keeping with the spirit of our \"Minimal Path to Awesome\" approach,
 the Search Box web part will be the easiest to configure of the lot. We
 can just drop it on the page somewhere and be done.
-![4-search-box.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267726i257D999E0305C7AE/image-size/large?v=v2&px=999 "4-search-box.png")
+{{< image alt="4-search-box.png" src="images/blog/using-the-pnp-modern-search-web-parts/4-search-box.png" >}}
 
 That doesn\'t mean, however, that it has to be that simple. Version 4
 has introduced more advanced features than we\'ll be making use of, but
@@ -73,7 +73,7 @@ that doesn\'t mean we can\'t take a peek.
 ### Panel 1 - Search box settings 
 
 The first configuration panel initially offers two settings.
-![5-search-box-settings.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267711iED7D52936AC4F68C/image-size/large?v=v2&px=999 "5-search-box-settings.png")
+{{< image alt="5-search-box-settings.png" src="images/blog/using-the-pnp-modern-search-web-parts/5-search-box-settings.png" >}}
 The first setting will replace the default \"*Enter your search
 terms\...*\" placeholder text with whatever you type here.
 The second setting - **Send the query to a new page** - will be off by
@@ -109,7 +109,7 @@ potential query.
 
 The last panel of options includes configurations that allow us to pull
 queries from other sources.
-![6-search-box-available-connections.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267712i66AB2348FEE13EB1/image-size/large?v=v2&px=999 "6-search-box-available-connections.png")
+{{< image alt="6-search-box-available-connections.png" src="images/blog/using-the-pnp-modern-search-web-parts/6-search-box-available-connections.png" >}}
 Again, we\'re not going to be dealing with these on our MPA. However,
 referring to the example of having a search box on a home page sending
 queries to the page we\'re currently building, we would want to select
@@ -127,7 +127,7 @@ verticals that enable our users to see results for specific platforms.
 In terms of difficulty, the *Search Verticals* web part comes in second
 place in our example, although it\'s probably the easiest to configure
 overall if you count the Search Box features we\'re not making use of.
-![7-search-verticals.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267713iA207B0FA5C88DC91/image-size/large?v=v2&px=999 "7-search-verticals.png")
+{{< image alt="7-search-verticals.png" src="images/blog/using-the-pnp-modern-search-web-parts/7-search-verticals.png" >}}
 While the other three web parts in this package saw new features (and
 added complexity) with the latest version, this web part is actually
 became much easier to use. There\'s only one configuration panel to deal
@@ -137,10 +137,10 @@ with, so let\'s take a look.
 
 When you open the Search Verticals web part, you\'ll be greated with a
 singular button that says **Configure Verticals**.
-![8-meme.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267714iDC324078C33051CF/image-size/large?v=v2&px=999 "8-meme.png")
+{{< image alt="8-meme.png" src="images/blog/using-the-pnp-modern-search-web-parts/8-meme.png" >}}
 
 When clicked, you get the real deal\...
-![9-real-deal.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267715iCDC68C766A45489C/image-size/large?v=v2&px=999 "9-real-deal.png")
+{{< image alt="9-real-deal.png" src="images/blog/using-the-pnp-modern-search-web-parts/9-real-deal.png" >}}
 We can add any number of verticals simply by giving them a name and
 setting an order. We can also make use of the standard Fabric icons if
 we wish (and we do!) and, if we choose, we can make verticals a link
@@ -179,11 +179,11 @@ refiners respect that.
 ### Panel 1 - Filter Settings 
 
 The other section has two different settings we can configure.
-![18-filters-settings.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267716i7B6FC2CC9B204A2F/image-size/large?v=v2&px=999 "18-filters-settings.png")
+{{< image alt="18-filters-settings.png" src="images/blog/using-the-pnp-modern-search-web-parts/18-filters-settings.png" >}}
 
 Clicking the edit button will, again, open a meme-worthy panel. Unlike
 the last panel, though, this new panel is far more involved.
-![19-refiners-settings.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267717i9367A970A25158F0/image-size/large?v=v2&px=999 "19-refiners-settings.png")
+{{< image alt="19-refiners-settings.png" src="images/blog/using-the-pnp-modern-search-web-parts/19-refiners-settings.png" >}}
 
 Most of the settings are, I think, self explanatory and you can see the
 settings used for the demo in the above screenshot.
@@ -201,7 +201,7 @@ managed properties.
 We have three pre-canned layouts available to us, as well as a Custom
 option which you can use to present your filters in any way you can
 imagine.
-![17-vertical-layouts.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267718i0C8E2EB891A16348/image-size/large?v=v2&px=999 "17-vertical-layouts.png")
+{{< image alt="17-vertical-layouts.png" src="images/blog/using-the-pnp-modern-search-web-parts/17-vertical-layouts.png" >}}
 The *Vertical* and *Horizontal* options are self-descriptive, while the
 *Panel* option will cause a panel to flyout from the right (like how the
 web part properties do).
@@ -212,7 +212,7 @@ with that option.
 The *Search Results* web part is, as the name implies, the component we
 use to show search results for the things users are searching for. It\'s
 also where things start getting little more involved.
-![10-search-results.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267719iE06F09A4C2F29E52/image-size/large?v=v2&px=999 "10-search-results.png")
+{{< image alt="10-search-results.png" src="images/blog/using-the-pnp-modern-search-web-parts/10-search-results.png" >}}
 
 Unlike the previous web parts, there are a lot of different settings,
 combinations, and customization potential in this web part. Since we\'re
@@ -223,7 +223,7 @@ basics.
 
 The first section we must deal with is choosing where we will pull
 search results from: SharePoint or Microsoft Search?
-![11-search-sources.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267720iE87917BF92F12425/image-size/large?v=v2&px=999 "11-search-sources.png")
+{{< image alt="11-search-sources.png" src="images/blog/using-the-pnp-modern-search-web-parts/11-search-sources.png" >}}
 
 As was mentioned in the at the beginning of this blog, all our data is
 in SharePoint, so we\'re just going to go with that. We could, of
@@ -243,7 +243,7 @@ Search results are, behind the scenes, being rendered using
 *Slots* will create a variable that can be referenced in a template and
 is tied back to a property returned in the search results.
 
-![12-slots.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267721iD47ABA757DADF88B/image-size/large?v=v2&px=999 "12-slots.png")
+{{< image alt="12-slots.png" src="images/blog/using-the-pnp-modern-search-web-parts/12-slots.png" >}}
 
 Considering the above, there will be a property exposed in the
 Handlebars template called \"Author\" that is mapped to the
@@ -319,7 +319,7 @@ on our result cards.
 
 I think this one is fairly self explanatory. You select a managed
 property (or properties), things get sorted as you specify.
-![13-sort.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267722i528DE23A76C574E1/image-size/large?v=v2&px=999 "13-sort.png")
+{{< image alt="13-sort.png" src="images/blog/using-the-pnp-modern-search-web-parts/13-sort.png" >}}
 
 The only thing to keep in mind here is that the property you select must
 be marked as being sortable in the Search schema, which they won\'t be
@@ -357,7 +357,7 @@ straggler if we lef it at the default 10).
 
 This panel is more straight forward that the last. Select a layout and
 configure any common or layout specific options you want.
-![14-layouts.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267723i291AFAAE61A74B3C/image-size/large?v=v2&px=999 "14-layouts.png")
+{{< image alt="14-layouts.png" src="images/blog/using-the-pnp-modern-search-web-parts/14-layouts.png" >}}
 
 The complexity will come in when you want to customize the visual
 appearance of the search results. Many of the non-custom layouts have
@@ -391,7 +391,7 @@ However, we definitely want to flip that on, otherwise our *Search Box*
 web part will be about as useful as a glass nail. Once on, you can
 select Dynamic Value and select the **PnP - Search Box** option.
 
-![15-input-query.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267724i872059846FCDB3C1/image-size/large?v=v2&px=999 "15-input-query.png")
+{{< image alt="15-input-query.png" src="images/blog/using-the-pnp-modern-search-web-parts/15-input-query.png" >}}
 We\'ll also want to go ahead and connect our filters web part, which is
 as simple as toggling the switch and selecting the only item in the
 dropdown.
@@ -413,7 +413,7 @@ web part to include these additions.
 
 If you\'ve followed along with everything, you should have a page that
 looks something like the below\...
-![16-final.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267725iAFCDD5249E25C51B/image-size/large?v=v2&px=999 "16-final.png")
+{{< image alt="16-final.png" src="images/blog/using-the-pnp-modern-search-web-parts/16-final.png" >}}
 
 These web parts are amazingly cool, extremely powerful, and can be
 leveraged to create a lot of awesome experiences for our users.

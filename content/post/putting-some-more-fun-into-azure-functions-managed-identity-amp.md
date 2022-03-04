@@ -14,7 +14,7 @@ draft: false
 
 I want to show, how you can use a Managed Identity in Azure Functions to
 get an access token for Microsoft Graph API.
-![image-8.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304842i590EDC4B973AB05C/image-size/large?v=v2&px=999 "image-8.png")
+{{< image alt="image-8.png" src="images/blog/putting-some-more-fun-into-azure-functions-managed-identity-amp/image-8.png" >}}
 
 ## Prerequisites to benefit from this article: 
 
@@ -298,7 +298,7 @@ If you like to, you may now have a look at our Managed Identity
 permissions in the Azure portal -- for everyone who loves to be assured
 in a UI that things have worked:\
 \
-![image-10-2048x664.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304844i72C17561D5475584/image-size/large?v=v2&px=999 "image-10-2048x664.png")
+{{< image alt="image-10-2048x664.png" src="images/blog/putting-some-more-fun-into-azure-functions-managed-identity-amp/image-10-2048x664.png" >}}
 
 -   Open [portal.azure.com](https://portal.azure.com/)
 -   Select Azure Active Directory

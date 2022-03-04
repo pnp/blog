@@ -56,7 +56,7 @@ Let\'s get started.
 You need to create JSON files in specific formats to implement
 SharePoint artifacts in SharePoint Site.
 Available Action includes.\
-![Site Script and Site Template In Power Automate.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307564i79ECC19368EDE4C5/image-size/large?v=v2&px=999 "Site Script and Site Template In Power Automate.png")
+{{< image alt="Site Script and Site Template In Power Automate.png" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Site Script and Site Template In Power Automate.png" >}}
  
 ``` {.lia-code-sample .language-json}
 {
@@ -99,8 +99,7 @@ on Power automate.
 Click on "New Flow" and Select "Instant Cloud Flow"
 Select "Manually Trigger Flow" and Add Name "Create-SiteTemplate-Flow"
 Click on Create Button.\
-![Site Script and Site Template In Power
-Automate11.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307566i0748A275365DA228/image-size/large?v=v2&px=999 "Site Script and Site Template In Power Automate11.jpg")
+![Site Script and Site Template In Power Automate11.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307566i0748A275365DA228/image-size/large?v=v2&px=999 "Site Script and Site Template In Power Automate11.jpg")
  
 ### Create Site Script using REST Call in Power Automate 
 Initialize variable in power automat to store JSON config.\
@@ -170,5 +169,5 @@ The flow looks like as below\
 **Output**
 Click on the "gear" Icon in SharePoint Site.
 Click on "Apply a site template".
-![Site Script and Site Template In Power Automate7.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307574iEE56AB2CF6CB9535/image-size/large?v=v2&px=999 "Site Script and Site Template In Power Automate7.gif")
+{{< image alt="Site Script and Site Template In Power Automate7.gif" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Site Script and Site Template In Power Automate7.gif" >}}
  

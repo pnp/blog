@@ -60,7 +60,7 @@ mess with the progress you've made so far.
 A duplicated screen is like an additional save game slot, just to make
 sure. If you break everything, you can always go back.  
 
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275360iF45067F3457A6021/image-size/large?v=v2&px=999 "Picture1.png") 
+{{< image alt="" src="images/blog/learn-to-debug-your-power-apps/.png" >}} 
 
 ### 2. Use debug label
 
@@ -198,7 +198,7 @@ needs a value to work. Here is a comparison between the `Now()` and
 the `Today()` function. The output looks similar, but it's different
 data types. **DateTime** is some else than **Date**.
 
-![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275369i5544F2AEEE2487E5/image-size/large?v=v2&px=999 "Picture9.png")
+{{< image alt="" src="images/blog/learn-to-debug-your-power-apps/.png" >}}
 
 The formula bar shows it to you, which might help you debugging your
 app and functions.
