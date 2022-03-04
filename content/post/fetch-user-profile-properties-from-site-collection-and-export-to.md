@@ -5,7 +5,7 @@ author: "Chandani Prajapati"
 categories: ["SharePoint"]
 images:
 - images/blog/fetch-user-profile-properties-from-site-collection-and-export-to/OP.png
-tags: ["PNP PowerShell"]
+tags: []
 type: "regular"
 draft: false
 
@@ -15,14 +15,14 @@ draft: false
  
 Many times we have a requirement like to get users or user profile
 properties from any SharePoint site collection and we need it in CSV or
-Excel format. so to achieve this solution we will use PnP Powershell. 
+Excel format. so to achieve this solution we will use PnP PowerShell. 
  
 Let's see step-by-step implementation.
  
 ## Prerequisites 
 \
 If we are using Window 10 or we have PowerShellGet then we can run the
-below commands to install PnP PowerShell and AzuerAD Modules\
+below commands to install PnP PowerShell and AzureAD Modules\
 \
 Install PnP PowerShell Module,
  
@@ -34,7 +34,7 @@ Install-Module SharePointPnPPowerShellOnline -Scope CurrentUser
  
 ## Implementation 
  
--   Open Windows Powershell ISE
+-   Open Windows PowerShell ISE
 -   Create a new file and write a script
  
 Now we will see all the steps which we required to achieve the solution:
@@ -52,7 +52,7 @@ So at the end, our script will be like this,
  
  
 ``` {.lia-code-sample .language-powershell}
-$basePath = #base path where you want to save CSV file("D:\Chandani\...\")
+$basePath = #base path where you want to save CSV file("D:\Chandani\...")
 $dateTime = "{0:MM_dd_yy}_{0:HH_mm_ss}" -f (Get-Date)
 $csvPath = $basePath + "\userdetails" + $dateTime + ".csv"
 $adminSiteURL = "https://****-admin.sharepoint.com/" #O365 admin site URL
@@ -138,7 +138,7 @@ StartProcessing
  
 In the above script do the following changes:
  
-1\. Change O365 Site Url, base path, username, and password
+1\. Change O365 Site URL, base path, username, and password
 2\. To check all the properties you can print **\$userInfo** and then
 change **\$global:userDetails** object as per your requirement at where
 I have used **\$userInfo.FirstName,LastName** etc.

@@ -125,7 +125,7 @@ In the last example, we used the *txtContent* property and the
 such as text, you can simply do like what was done in that example.
 However, some field types -- such as people or date fields - may require
 a little extra work.
-\"There and back again\" to the original example with Frodo, you may
+"There and back again" to the original example with Frodo, you may
 have noticed the 'Age' column (yes, Frodo was 50 years old when he
 leaves on his adventure). Here is the definition used for the
 transformation shown at the beginning.

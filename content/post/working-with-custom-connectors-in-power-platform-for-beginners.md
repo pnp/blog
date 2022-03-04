@@ -38,14 +38,14 @@ So, let's build one right now, shall we? 👏🏼
 
 ## Build a custom connector
 
-Since this is part two of my mini series \"working with APIs\" I'm
+Since this is part two of my mini series "working with APIs" I'm
 using the same scenario and api as last time. I use an open API to get
 the number of the day from a website called MathTOOLs. I will post this
 number in a Microsoft Teams channel afterwards.
 
 First of all, navigate to your [Power Automate
-dashboard](http://www.flow.microsoft.com). Select \"Data\" and then
-\"Custom connectors\"
+dashboard](http://www.flow.microsoft.com). Select "Data" and then
+"Custom connectors"
 
 
 {{< image alt="custom-connector-1.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-1.png" >}}
@@ -53,8 +53,8 @@ dashboard](http://www.flow.microsoft.com). Select \"Data\" and then
 no, it's not the Connectors menu, but the Data menu
 
 If you already have some, they will be listed here, if not this page is
-empty. Select \"+ New custom connector\" in the upper right corner and
-then \"Create from blank\".
+empty. Select "+ New custom connector" in the upper right corner and
+then "Create from blank".
 
 
 {{< image alt="custom-connector-2.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-2.png" >}}
@@ -92,7 +92,7 @@ than 1MB.
 
 You don't need to fill out the rest. We will look into that at a
 another blog of this series. For now we're good and we can click on
-\"Security\" either in the lower right corner or in the navigation at
+"Security" either in the lower right corner or in the navigation at
 the top of the page.
 
 
@@ -111,7 +111,7 @@ Now things are getting interesting, since we're defining the other
 parameters here. For this example, we just want to create an action that
 gets us the number of the day.
 
-Start by selecting \"+ New action\" on the right hand side.
+Start by selecting "+ New action" on the right hand side.
 
 {{< image alt="custom-connector-4.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-4.png" >}}
 Once again, only one mandatory field, yet I recommend to fill out the
@@ -130,7 +130,7 @@ After that information is provided it's time for our request.
 
 {{< image alt="custom-connector-6.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-6.png" >}}
 
-Select \"+ Import from sample\" and the next menu should look familiar
+Select "+ Import from sample" and the next menu should look familiar
 to you. Here we can choose the **method** as well as the **URL**.
 
 In this case the method is: **GET**, the URL is
@@ -138,14 +138,14 @@ In this case the method is: **GET**, the URL is
 
 (We provided the same information at the last part, where we needed to
 give those to the https request, remember?. When we're done, select
-\"Import\" to finish this step.
+"Import" to finish this step.
 
 {{< image alt="custom-connector-7.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-7.png" >}}
 
 feels familiar?
 
-Now it's time to actually create the connector. Select \"Create
-connector\" in the upper right corner and keep your fingers crossed
+Now it's time to actually create the connector. Select "Create
+connector" in the upper right corner and keep your fingers crossed
 
 Usually you get a success notification :white_heavy_check_mark: above
 the upper navigation.
@@ -157,14 +157,14 @@ Once again, no work for us here, so we skip this part
 5. Test
 
 There is one last task for us to finish our custom connector. We need to
-create a new connection. Select \"+ New connection\".
+create a new connection. Select "+ New connection".
 
 There should appear a connection with the name of your connector in the
-\"Selected connection\" field.
+"Selected connection" field.
 
 {{< image alt="custom-connector-8.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-8.png" >}}
 
-Now we just need to test the connector. Select \"Test operation\" and
+Now we just need to test the connector. Select "Test operation" and
 wait for the response.
 
 
@@ -190,7 +190,7 @@ Our flow contents of three actions:
 
 {{< image alt="custom-connector-9.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-9.png" >}}
 
-In order to select your custom connector you select \"Custom\" when
+In order to select your custom connector you select "Custom" when
 choosing a connector in Power Automate
 
 {{< image alt="custom-connector-10.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-10.png" >}}
@@ -200,7 +200,7 @@ Click on custom to see all custom connectors.
 Since our connector just has one action, that's all we needed to do.
 
 Now let's put the value in a variable, so the number of the day is
-always up to date. Select the action \"Initialize variable\" and put in
+always up to date. Select the action "Initialize variable" and put in
 the following information:
 
 **Name**: I called mine NrOfDay_Con (most importantly you need a name

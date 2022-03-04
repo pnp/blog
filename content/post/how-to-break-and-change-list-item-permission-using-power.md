@@ -45,8 +45,8 @@ Set all properties as below.
   **Uri**                             \_api/lists/getByTitle('ListTitle')/items(ID)/breakroleinheritance(copyRoleAssignments=false,clearSubscopes=true)
 
   **Headers**                         {\
-                                      \"Accept\": \"application/json\",\
-                                      \"Content-type\": \"application/json\"\
+                                      "Accept": "application/json",\
+                                      "Content-type": "application/json"\
                                       }
   ----------------------------------- ---------------------------------------------------------------------------------------------------------------------
  

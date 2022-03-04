@@ -247,9 +247,9 @@ namespace GettingStartedConsoleApp
 
                     // Adding text control to the first section, first column
                     // Check out for more detail https://pnp.github.io/pnpcore/using-the-sdk/pages-webparts.html#working-with-text-parts
-                    page.AddControl(page.NewTextPart("<p style=\"text-align:center\">" +
-                                                        "<span class=\"fontSizeSuper\">" +
-                                                            "<span class=\"fontColorRed\">" +
+                    page.AddControl(page.NewTextPart("<p style="text-align:center">" +
+                                                        "<span class="fontSizeSuper">" +
+                                                            "<span class="fontColorRed">" +
                                                                 "<strong>PnP Core SDK Rocks!</strong>" +
                                                             "</span>" +
                                                         "</span>" +
@@ -369,9 +369,9 @@ page.AddSection(CanvasSectionTemplate.OneColumn, 1);
 
 // Adding text control to the first section, first column
 // Check out for more detail https://pnp.github.io/pnpcore/using-the-sdk/pages-webparts.html#working-with-text-parts
-page.AddControl(page.NewTextPart("<p style=\"text-align:center\">" +
-                                   "<span class=\"fontSizeSuper\">" +
-                                      "<span class=\"fontColorRed\">" +
+page.AddControl(page.NewTextPart("<p style="text-align:center">" +
+                                   "<span class="fontSizeSuper">" +
+                                      "<span class="fontColorRed">" +
                                          "<strong>PnP Core SDK Rocks!</strong>" +
                                       "</span>" +
                                    "</span>" +

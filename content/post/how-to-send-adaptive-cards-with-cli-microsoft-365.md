@@ -220,7 +220,7 @@ the webhook connector to Teams\
 \* run it
 
 !! Turned out, that there are some differences how to use quotes \`'\`
-or \`\"\` - please consider which shell you are using before you
+or \`"\` - please consider which shell you are using before you
 copy/paste the code from [CLI Microsoft 365
 documentation](https://pnp.github.io/cli-microsoft365/cmd/adaptivecard/adaptivecard-send/).
 Congratulations :rocket:- you sent your first adaptive Card with CLI.

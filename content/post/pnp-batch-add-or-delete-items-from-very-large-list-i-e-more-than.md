@@ -20,9 +20,9 @@ than without the use of batches. 
 ``` wp-block-preformatted
 Get-PnPListItem -List $list -Fields "ID" -PageSize 100 -ScriptBlock { Param($items) $items | Sort-Object -Property Id -Descending | ForEach-Object{ $_.DeleteObject() } } 
 ```
-Unfortunately the script kept producing errors like \"The collection has
-not been initialised\" , \"A task has been canceled\" or \"The operation
-has timed out\" at irregular intervals and had to manually restart the
+Unfortunately the script kept producing errors like "The collection has
+not been initialised" , "A task has been canceled" or "The operation
+has timed out" at irregular intervals and had to manually restart the
 script to resume deletion of remaining items.
  
 ``` {.lia-code-sample .language-applescript}

@@ -19,7 +19,7 @@ not-very-personal colored circle with initials:
 Fellow MVP [Kazushi Kamegawa](https://twitter.com/kkamegawa) shared a
 method of changing your profile picture in a private forum, but it
 stopped working due to some UI changes in the Azure Portal. Luckily,
-with some more \"hackery\", we can still make it work!
+with some more "hackery", we can still make it work!
 The tl;dr version:
 1.  Tenant switch to the tenant where you want to change your profile
     picture

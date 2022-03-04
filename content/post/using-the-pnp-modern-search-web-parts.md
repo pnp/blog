@@ -31,8 +31,8 @@ to do that, we're going to be using these web parts to build a page for
 searching a SharePoint list of the top 999 video games (by \# of units
 shipped).
 We're not going to be deep diving into every option or combination of
-setting. Instead, we're going for the classic \"Minimal Path to
-Awesome\"\...with a few detours throughout.
+setting. Instead, we're going for the classic "Minimal Path to
+Awesome"\...with a few detours throughout.
 {{< image alt="16-final.png" src="images/blog/using-the-pnp-modern-search-web-parts/16-final.png" >}}
 
 ## Getting the Web Parts 
@@ -61,7 +61,7 @@ this blog to help get you up to speed.
 
 ## Configuring the Search Box web part 
 
-In keeping with the spirit of our \"Minimal Path to Awesome\" approach,
+In keeping with the spirit of our "Minimal Path to Awesome" approach,
 the Search Box web part will be the easiest to configure of the lot. We
 can just drop it on the page somewhere and be done.
 {{< image alt="4-search-box.png" src="images/blog/using-the-pnp-modern-search-web-parts/4-search-box.png" >}}
@@ -74,13 +74,13 @@ that doesn't mean we can't take a peek.
 
 The first configuration panel initially offers two settings.
 {{< image alt="5-search-box-settings.png" src="images/blog/using-the-pnp-modern-search-web-parts/5-search-box-settings.png" >}}
-The first setting will replace the default \"*Enter your search
-terms\...*\" placeholder text with whatever you type here.
+The first setting will replace the default "*Enter your search
+terms\...*" placeholder text with whatever you type here.
 The second setting - **Send the query to a new page** - will be off by
 default (and will stay that way for this example). If you enable it,
 you'll see some new options appear that allow you send the user's
 query to a new page/tab.
-This can be incredibly useful if you want to create \"Search Results\"
+This can be incredibly useful if you want to create "Search Results"
 page like what we're currently doing, but also want to provide a search
 box on other pages. Using this we could, for example, include a Search
 box web part on the home page of our site and, when a user submits a
@@ -113,7 +113,7 @@ queries from other sources.
 Again, we're not going to be dealing with these on our MPA. However,
 referring to the example of having a search box on a home page sending
 queries to the page we're currently building, we would want to select
-the \"Query string\" option here and specify our parameter name. Once
+the "Query string" option here and specify our parameter name. Once
 configured, we could pass query information from one page and pull it in
 here.
 ## Configuring the Search Verticals web part 
@@ -148,7 +148,7 @@ that opens a new page when clicked.
 Since we want our users to stay on the same page, we're not going to
 bother with hyperlinks, but we will go ahead and create verticals for
 the latest generation of platforms available in our dataset, as well as
-an \"All\" vertical.
+an "All" vertical.
 
 ### Search Verticals Summary 
 
@@ -168,7 +168,7 @@ fulfil that demand.
 
 
 For refiners to show, they'll need search results to refine. The
-\"Available connections\" settings will allow you select one or more
+"Available connections" settings will allow you select one or more
 *Search Results* web parts. If you haven't already added one, there
 won't be any options, so make sure you've added one first. Once
 you've got one, select it here.
@@ -187,8 +187,8 @@ the last panel, though, this new panel is far more involved.
 
 Most of the settings are, I think, self explanatory and you can see the
 settings used for the demo in the above screenshot.
-However, it's important to note that the values you use in the \"Filter
-field\" column **MUST** map to a managed property that has been marked
+However, it's important to note that the values you use in the "Filter
+field" column **MUST** map to a managed property that has been marked
 as Refinable. In our case, we've already gone into our search schema
 and mapped the columns we wanted to filter by to the provided Refinable
 managed properties.
@@ -246,8 +246,8 @@ is tied back to a property returned in the search results.
 {{< image alt="12-slots.png" src="images/blog/using-the-pnp-modern-search-web-parts/12-slots.png" >}}
 
 Considering the above, there will be a property exposed in the
-Handlebars template called \"Author\" that is mapped to the
-\"AuthorOWSUSER\" managed property.
+Handlebars template called "Author" that is mapped to the
+"AuthorOWSUSER" managed property.
 For those of us walking the *minimalist* path, this isn't necessary.
 However, the search results shown in screenshots does make use of custom
 templates and does rely on some custom layout slots to tie into the
@@ -282,8 +282,8 @@ restrict search results to, say, a particular content type ID like
 so\...
     {searchTerms} ContentTypeId:0x01004527A5975C6A534DAE7EBFD57E41A633*
 
-In this case, the content type ID being used is for a \"Video Game
-Data\" content type that is used for items in our list. So, by doing
+In this case, the content type ID being used is for a "Video Game
+Data" content type that is used for items in our list. So, by doing
 this, we're limiting our search results to only those that match our
 content type.
 This also gives the benefit of displaying default search results when
@@ -418,7 +418,7 @@ looks something like the below\...
 These web parts are amazingly cool, extremely powerful, and can be
 leveraged to create a lot of awesome experiences for our users.
 It's also one of the most complicated web parts out there. While this
-blog post was (mostly) focused on that \"minimal path to awesome\",
+blog post was (mostly) focused on that "minimal path to awesome",
 it's still ***REALLY*** long, which speaks to some of that complexity.
 However, hopefully this has helped make it more accessible to get
 started.

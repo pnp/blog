@@ -152,4 +152,4 @@ recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

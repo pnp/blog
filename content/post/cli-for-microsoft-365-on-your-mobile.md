@@ -6,20 +6,21 @@ images:
   - "images/blog/cli-for-microsoft-365-on-your-mobile/Prezentacja1.png"
 #author
 author: "Adam Wójcik"
+githubname: Adam-it
 # description
 description: "CLI for Microsoft 365 is a cross platform command line tool you may use to manage many things. To name a few, you may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course), now there is even a dedicated command to help you set up Viva. The list keeps on growing and growing"
 summary: "CLI for Microsoft 365 is a cross platform command line tool you may use to manage many things. To name a few, you may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course), now there is even a dedicated command to help you set up Viva. The list keeps on growing and growing"
 # Taxonomies
 categories: ["CLI for Microsoft 365","PnP PowerShell"]
-tags: ["CLI for Microsoft","Mobile"]
+tags: []
 type: "epic" # available type (epic, trending, popular, or regular)
 draft: false
 ---
-> *\"Hey, do you have 5 min?\"*\
-> *\"Could you check one simple thing and let me know asap?\"*
+> *"Hey, do you have 5 min?"*\
+> *"Could you check one simple thing and let me know asap?"*
 >
-> *\"I see you are available, could you
-do...\"* 😒
+> *"I see you are available, could you
+do..."* 😒
 
 Ever got one of those message on Teams? Now when working 'home office'
 I noticed this trend and I usually get one of those over the phone

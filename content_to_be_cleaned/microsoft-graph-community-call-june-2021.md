@@ -5,8 +5,6 @@ author: "Brian Jackett"
 categories: ["Microsoft Graph community call recordings"]
 images:
 - images/blog/microsoft-graph-community-call-june-2021/BrianTJackett.png
-- images/blog/microsoft-graph-community-call-june-2021/BrianTJackett.png
-- images/blog/microsoft-graph-community-call-june-2021/BrianTJackett.png
 tags: []
 type: "regular"
 draft: false

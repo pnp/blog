@@ -148,8 +148,8 @@ Open package.json file which should look like as below.\
 
 ## Step 4 - Create React Component
 
-Create new folder called \"Components\" to
-\"..src\\extensions\\gobalNavigationBar\".
+Create new folder called "Components" to
+"..src\\extensions\\gobalNavigationBar".
 
 Create 3 files inside the components folder.
 
@@ -410,7 +410,7 @@ public render(): React.ReactElement<IGlobalNavProps> {
 
 ## Step 8 - Test Solution
 
-Open \"../config/serve.json\" file and update a couple of properties.
+Open "../config/serve.json" file and update a couple of properties.
 
 Update pageUrl Property and Properties,
 ``` {.lia-code-sample .language-javascript}

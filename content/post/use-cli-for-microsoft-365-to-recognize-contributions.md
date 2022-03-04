@@ -82,7 +82,7 @@ about the top 3 users. So the full query would look as follows. 
  
 
 ``` {.lia-code-sample .language-bash}
-m365 teams report useractivityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Team Chat Message Count\")) | [0:3].\"User Principal Name\"'
+m365 teams report useractivityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &"Team Chat Message Count")) | [0:3]."User Principal Name"'
 ```
  
 
@@ -95,8 +95,8 @@ services like Yammer offer a *Posted Count, Read Count* and Liked
  
 
 ``` {.lia-code-sample .language-bash}
-m365 spo report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Viewed Or Edited File Count\")) | [0:3].\"User Principal Name\"'
-m365 yammer report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Posted Count\")) | [0:3].\"User Principal Name\"'
+m365 spo report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &"Viewed Or Edited File Count")) | [0:3]."User Principal Name"'
+m365 yammer report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &"Posted Count")) | [0:3]."User Principal Name"'
 ```
  
 
@@ -133,9 +133,9 @@ if ($m365Status -eq "Logged Out") {
 $webhookUrl = "<PUTYOURURLHERE>"
 
 # Send top 3 for SharePoint based on file actions.
-$activityUsers = m365 spo report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Viewed Or Edited File Count\")) | [0:3].\"User Principal Name\"' | ConvertFrom-Json
+$activityUsers = m365 spo report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &"Viewed Or Edited File Count")) | [0:3]."User Principal Name"' | ConvertFrom-Json
 $title = " SharePoint Weekly Social Champions "
-$card = '{ \"type\": \"AdaptiveCard\", \"$schema\": \"http://adaptivecards.io/schemas/adaptive-card.json\", \"version\": \"1.2\", \"body\": [  {  \"type\": \"TextBlock\",  \"text\": \"'+$($title)+'\",  \"wrap\": true,  \"size\": \"Medium\",  \"weight\": \"Bolder\",  \"color\": \"Attention\"  },  {  \"type\": \"TextBlock\",  \"wrap\": true,  \"text\": \"Week '+$(get-date -UFormat %V)+'\",  \"fontType\": \"Default\",  \"size\": \"Small\",  \"weight\": \"Lighter\",  \"isSubtle\": true  },  {  \"type\": \"FactSet\",  \"facts\": [   {   \"title\": \"First place\",   \"value\": \"'+$($activityUsers[0])+'\"   },   {   \"title\": \"Second place\",   \"value\": \"'+$($activityUsers[1])+'\"   },   {   \"title\": \"Third place\",   \"value\": \"'+$($activityUsers[2])+'\"   }  ]  } ] }'
+$card = '{ "type": "AdaptiveCard", "$schema": "http://adaptivecards.io/schemas/adaptive-card.json", "version": "1.2", "body": [  {  "type": "TextBlock",  "text": "'+$($title)+'",  "wrap": true,  "size": "Medium",  "weight": "Bolder",  "color": "Attention"  },  {  "type": "TextBlock",  "wrap": true,  "text": "Week '+$(get-date -UFormat %V)+'",  "fontType": "Default",  "size": "Small",  "weight": "Lighter",  "isSubtle": true  },  {  "type": "FactSet",  "facts": [   {   "title": "First place",   "value": "'+$($activityUsers[0])+'"   },   {   "title": "Second place",   "value": "'+$($activityUsers[1])+'"   },   {   "title": "Third place",   "value": "'+$($activityUsers[2])+'"   }  ]  } ] }'
 m365 adaptivecard send --url $webhookUrl --card $card
 ```
  
@@ -155,15 +155,15 @@ or Yammer. Or who is working a lot on OneDrive or Exchange if you like. 
 
 ``` {.lia-code-sample .language-bash}
 # Send top 3 for Teams based on chat messages
-$activityUsers = m365 teams report useractivityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Team Chat Message Count\")) | [0:3].\"User Principal Name\"' | ConvertFrom-Json
+$activityUsers = m365 teams report useractivityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &"Team Chat Message Count")) | [0:3]."User Principal Name"' | ConvertFrom-Json
 $title = " Teams Weekly Social Champions "
-$card = '{ \"type\": \"AdaptiveCard\", \"$schema\": \"http://adaptivecards.io/schemas/adaptive-card.json\", \"version\": \"1.2\", \"body\": [  {  \"type\": \"TextBlock\",  \"text\": \"'+$($title)+'\",  \"wrap\": true,  \"size\": \"Medium\",  \"weight\": \"Bolder\",  \"color\": \"Attention\"  },  {  \"type\": \"TextBlock\",  \"wrap\": true,  \"text\": \"Week '+$(get-date -UFormat %V)+'\",  \"fontType\": \"Default\",  \"size\": \"Small\",  \"weight\": \"Lighter\",  \"isSubtle\": true  },  {  \"type\": \"FactSet\",  \"facts\": [   {   \"title\": \"First place\",   \"value\": \"'+$($activityUsers[0])+'\"   },   {   \"title\": \"Second place\",   \"value\": \"'+$($activityUsers[1])+'\"   },   {   \"title\": \"Third place\",   \"value\": \"'+$($activityUsers[2])+'\"   }  ]  } ] }'
+$card = '{ "type": "AdaptiveCard", "$schema": "http://adaptivecards.io/schemas/adaptive-card.json", "version": "1.2", "body": [  {  "type": "TextBlock",  "text": "'+$($title)+'",  "wrap": true,  "size": "Medium",  "weight": "Bolder",  "color": "Attention"  },  {  "type": "TextBlock",  "wrap": true,  "text": "Week '+$(get-date -UFormat %V)+'",  "fontType": "Default",  "size": "Small",  "weight": "Lighter",  "isSubtle": true  },  {  "type": "FactSet",  "facts": [   {   "title": "First place",   "value": "'+$($activityUsers[0])+'"   },   {   "title": "Second place",   "value": "'+$($activityUsers[1])+'"   },   {   "title": "Third place",   "value": "'+$($activityUsers[2])+'"   }  ]  } ] }'
 m365 adaptivecard send --url $webhookUrl --card $card
 
 # Send top 3 for Yammer based on posts
-$activityUsers = m365 yammer report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Posted Count\")) | [0:3].\"User Principal Name\"' | ConvertFrom-Json
+$activityUsers = m365 yammer report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &"Posted Count")) | [0:3]."User Principal Name"' | ConvertFrom-Json
 $title = " Yammer Weekly Social Champions "
-$card = '{ \"type\": \"AdaptiveCard\", \"$schema\": \"http://adaptivecards.io/schemas/adaptive-card.json\", \"version\": \"1.2\", \"body\": [  {  \"type\": \"TextBlock\",  \"text\": \"'+$($title)+'\",  \"wrap\": true,  \"size\": \"Medium\",  \"weight\": \"Bolder\",  \"color\": \"Attention\"  },  {  \"type\": \"TextBlock\",  \"wrap\": true,  \"text\": \"Week '+$(get-date -UFormat %V)+'\",  \"fontType\": \"Default\",  \"size\": \"Small\",  \"weight\": \"Lighter\",  \"isSubtle\": true  },  {  \"type\": \"FactSet\",  \"facts\": [   {   \"title\": \"First place\",   \"value\": \"'+$($activityUsers[0])+'\"   },   {   \"title\": \"Second place\",   \"value\": \"'+$($activityUsers[1])+'\"   },   {   \"title\": \"Third place\",   \"value\": \"'+$($activityUsers[2])+'\"   }  ]  } ] }'
+$card = '{ "type": "AdaptiveCard", "$schema": "http://adaptivecards.io/schemas/adaptive-card.json", "version": "1.2", "body": [  {  "type": "TextBlock",  "text": "'+$($title)+'",  "wrap": true,  "size": "Medium",  "weight": "Bolder",  "color": "Attention"  },  {  "type": "TextBlock",  "wrap": true,  "text": "Week '+$(get-date -UFormat %V)+'",  "fontType": "Default",  "size": "Small",  "weight": "Lighter",  "isSubtle": true  },  {  "type": "FactSet",  "facts": [   {   "title": "First place",   "value": "'+$($activityUsers[0])+'"   },   {   "title": "Second place",   "value": "'+$($activityUsers[1])+'"   },   {   "title": "Third place",   "value": "'+$($activityUsers[2])+'"   }  ]  } ] }'
 m365 adaptivecard send --url $webhookUrl --card $card
 ```
  

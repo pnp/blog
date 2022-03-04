@@ -34,8 +34,8 @@ call by using our short [survey form](https://aka.ms/officeaddinsform).
 ### Support options 
 
 **When we try to open tickets in the admin center regarding SharePoint
-Development they are getting immediately closed with the comment \"we
-don't provide support for developer issues\". Is that different for
+Development they are getting immediately closed with the comment "we
+don't provide support for developer issues". Is that different for
 Office Add-ins?**
 The comment you see applies if you don't have a Premier account, or
 Enterprise SKU. If you do have a Premier account and are seeing this

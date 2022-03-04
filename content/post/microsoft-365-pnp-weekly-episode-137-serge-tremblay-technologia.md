@@ -30,7 +30,7 @@ joined by Canada-based MVP and Consultant from
 Topics discussed in this session include: \
 \
 
--   So you want to be a cloud consultant in the \"cloudiverse\"?  Here
+-   So you want to be a cloud consultant in the "cloudiverse"?  Here
     are 3 tips.
 -   The importance of being end user focused.
 -   How stay up-to-date on the latest technology. 
@@ -180,4 +180,4 @@ requests or questions.
 
  
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

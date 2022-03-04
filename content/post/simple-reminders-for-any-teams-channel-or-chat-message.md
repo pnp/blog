@@ -28,7 +28,7 @@ functionality, it's easy to forget:
 
 {{< image alt="Flags in Outlook have been the bridge to emails and task management" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/Outlook Flags.png" >}}
  
-In Outlook, there are \"flags\" which can be set to remind yourself to
+In Outlook, there are "flags" which can be set to remind yourself to
 take action for a particular email.
 However, this functionality is missing from Teams. Even if you are a
 well seasoned **ToDo** and **Planner** user, you would still have to use
@@ -88,7 +88,7 @@ adaptive card (with some `Input.Choice`{.sample} options) and a
 
 ## Ingredients 
 
-Here's the \"ingredients\" needed for the flow to allow ourselves to
+Here's the "ingredients" needed for the flow to allow ourselves to
 set a reminder at a particular hour/minute offset from now OR at a
 specific time:
 
@@ -495,10 +495,10 @@ reminded:**
 
 -   Check whether the **Hours** entered is blank or not (note that
     there's a very subtle difference between *blank* and *null*!). If
-    so, set the **HoursToDelay** variable to a \"0\" or simply use the
+    so, set the **HoursToDelay** variable to a "0" or simply use the
     hours inputted.
 -   Check whether the **Minutes** entered is blank or not. If so, set
-    the **MinutesToDelay** variable to a \"0\" or simply use the hours
+    the **MinutesToDelay** variable to a "0" or simply use the hours
     inputted.
 
 {{< image alt="z3019494_1-1620123840984.png" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620123840984.png" >}}
@@ -540,7 +540,7 @@ A lot more string processing is required!
     date**
 
 7.  Then do some final checks for whether the number of seconds falls on
-    \"0\" by
+    "0" by
     1.  Converting the ticks into minutes/seconds (**Compose - ticks to
         seconds**)\
         \
@@ -551,7 +551,7 @@ A lot more string processing is required!
 
     2.  Checking whether there's remnant seconds (by looking for
         modulo 60) in **Compose** **- modulo seconds** action. If the
-        number of seconds to delay by, falls on \"0\" then just add 1
+        number of seconds to delay by, falls on "0" then just add 1
         more second to it in case the user enters a time which is just
         less than 1 minute as the **div** formula will only work with
         integers. \
@@ -564,7 +564,7 @@ A lot more string processing is required!
         \
         The reason for this check is that the **Delay** action, is very
         fussy. It only takes integers, and can't cope with an input of
-        **0 **(you'd think that an input of \"0\" into the **Delay**
+        **0 **(you'd think that an input of "0" into the **Delay**
         action would just cause it to continue full steam ahead instead
         of sitting there and waiting!)
 

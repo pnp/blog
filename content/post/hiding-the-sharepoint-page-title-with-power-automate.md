@@ -121,7 +121,7 @@ same flow will be called as if it was triggered from the Automate menu.
   "elmType": "button",
   "customRowAction": {
     "action": "executeFlow",
-    "actionParams": "{\"id\": \"a9dcaeec-61f9-4dd1-9561-679b15bc3e22\"}"
+    "actionParams": "{"id": "a9dcaeec-61f9-4dd1-9561-679b15bc3e22"}"
   },
   "attributes": {
     "class": "ms-fontColor-themePrimary ms-fontColor-themeDarker--hover"

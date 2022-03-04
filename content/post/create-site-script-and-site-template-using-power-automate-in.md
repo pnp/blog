@@ -85,7 +85,7 @@ Available Action includes.\
 }
 ```
  
-Each action identifies by its \"verbName\" property and inside auction
+Each action identifies by its "verbName" property and inside auction
 property, you need to configure the things that you want to apply while
 creating the site or on an existing site.
  

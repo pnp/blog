@@ -73,9 +73,9 @@ npm install @pnp/sp @pnp/graph @pnp/logging
  
 ## Consume Graph API in ACEs project
 
-Create folder called \"Models\" in \"..\\src\\\".\
-Create file with name \"mmp.models.ts\" in folder models at location
-\"..\\src\\models\\\".\
+Create folder called "Models" in "..\\src\\".\
+Create file with name "mmp.models.ts" in folder models at location
+"..\\src\\models\\".\
 Copy below code and paste it in file.
  
 ``` {.lia-code-sample .language-javascript}
@@ -101,9 +101,9 @@ export class Config implements IConfig {
 }
 ```
  
-Create a folder called Services in \"..\\src\\\".\
-Create a new file called \"mmp.service.ts\" in Folder \"Services\" at
-location \"..\\src\\Services\".\
+Create a folder called Services in "..\\src\\".\
+Create a new file called "mmp.service.ts" in Folder "Services" at
+location "..\\src\\Services".\
 Copy below code to it.
  
 ``` {.lia-code-sample .language-javascript}
@@ -159,7 +159,7 @@ export class MMPServie implements IMMPService {
 }
 ```
  
-Create a new file called \"service.ts\" in folder \"Services\" and add
+Create a new file called "service.ts" in folder "Services" and add
 below code in that.
  
 ``` {.lia-code-sample .language-javascript}
@@ -194,8 +194,8 @@ export class Service implements IService {
 }
 ```
  
-Open file \"MyPeopleAdaptiveCardExtension.ts\" at location
-\"..\\src\\adaptiveCardExtensions\\myPeople\\MyPeopleAdaptiveCardExtension.ts\"\
+Open file "MyPeopleAdaptiveCardExtension.ts" at location
+"..\\src\\adaptiveCardExtensions\\myPeople\\MyPeopleAdaptiveCardExtension.ts"\
 Import below statement on top.
  
 ``` {.lia-code-sample .language-javascript}
@@ -248,7 +248,7 @@ public async onInit(): Promise<void> {
 ## Render My team in Card View in ACEs
 
 Open file Cardview.ts at location
-\"..\\src\\adaptiveCardExtensions\\myPeople\\cardView\\CardView.ts\".\
+"..\\src\\adaptiveCardExtensions\\myPeople\\cardView\\CardView.ts".\
 Update three methods(Cardbuttons(), data() and onCardSelection()) with
 below code.
  
@@ -377,8 +377,8 @@ public get template(): ISPFxAdaptiveCard {
 ```
  
 Set permission to access graph API from SPFx.\
-open package-solution.json file at location \"
-..\\Manageteam\\config\\package-solution.json\" and add below code.
+open package-solution.json file at location "
+..\\Manageteam\\config\\package-solution.json" and add below code.
  
 ``` {.lia-code-sample .language-json}
  "webApiPermissionRequests": [

@@ -5,12 +5,6 @@ author: "Bob German"
 categories: ["Microsoft Teams", "Tooling"]
 images:
 - images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-without-ngrok-2.png
-- images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-with-ngrok.png
-- images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-screenshot.png
-- images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-trace.png
-- images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-without-ngrok-sso.png
-- images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-mobile-device.png
-- images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-bot.png
 tags: []
 type: "regular"
 draft: false
@@ -67,7 +61,7 @@ The tunneling part, however, lacks the guard rails expected by many IT
 professionals, especially if they're managing a traditional corporate
 network that relies on a shared firewall or proxy server for security.
 While ngrok only provides access to the local computer where it's run,
-an insider \"bad actor\" could launch attacks from such a machine. For
+an insider "bad actor" could launch attacks from such a machine. For
 that reason, some IT departments block all access to ngrok.
 > Many colleagues have suggested other tunneling applications such
 > as [Azure
@@ -87,7 +81,7 @@ This is largely a security measure, but it has other advantages as well.
 {{< image alt="ngrok-without-ngrok-2.png" src="images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-without-ngrok-2.png" >}}
 A typical web developer runs some kind of web server on their local
 computer. They can access that web server using the
-hostname `localhost`, which routes messages through a \"loopback\"
+hostname `localhost`, which routes messages through a "loopback"
 service instead of sending them out on the network. As you can see in
 the picture, these messages don't go through the Internet at all.
 But what if, in order to test the application, it needs to get requests
@@ -124,11 +118,11 @@ You will then see a screen like this:
  
 :::
 {{< image alt="ngrok-screenshot.png" src="images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-screenshot.png" >}}
-The \"Forwarding\" lines show what's happening. Requests arriving at
+The "Forwarding" lines show what's happening. Requests arriving at
 http://(something).ngrok.io or https://(something).ngrok.io will be
 forwarded to [http://localhost:3978](http://localhost:3978/) where your
 bot code is running. At this point you would put the
-\"something.ngrok.io\" address into your Azure bot configuration, Teams
+"something.ngrok.io" address into your Azure bot configuration, Teams
 app manifest etc. as the location, and leave the command running while
 you debug your application.
 ### ngrok url 
@@ -180,7 +174,7 @@ went through the tunnel; in this case they're HTTP POST requests from
 the Azure Bot Service, and the local server returned a 200 (OK)
 response. This is handy because you can see a 500 error from your server
 code by just glancing at the ngrok screen.
-You might also notice the \"Web interface\" url on the ngrok screen. It
+You might also notice the "Web interface" url on the ngrok screen. It
 provides a full network trace of what went through the tunnel, which can
 be very helpful in debugging.
 ::: {#tinyMceEditorBob German_3 .mceNonEditable .lia-copypaste-placeholder}
@@ -210,8 +204,8 @@ locally. It's just more work.
 
 On a NodeJS server, you can usually enable https by editing
 the **.env** file and setting the `HTTPS` property to true. For .NET
-projects in Visual Studio, under project properties on the \"Debug\"
-tab, check the \"Enable SSL\" box to enable https.
+projects in Visual Studio, under project properties on the "Debug"
+tab, check the "Enable SSL" box to enable https.
 But alas, just turning on the https protocol is generally not enough to
 satisfy this requirement; the connection must be *trusted*. Trust is
 established by a digital certificate; if the certificate comes from a

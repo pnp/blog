@@ -217,7 +217,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/microsoftgraphcall>
 -   **SharePoint monthly call --** June 8th at 8:00am PDT \|
     <https://aka.ms/sp-call>
-\"*Too many links, can't remember*\" - not a problem\... **just one
+"*Too many links, can't remember*" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
 - <http://aka.ms/m365pnp>.
 *"Sharing is caring"*

@@ -5,9 +5,6 @@ author: "Garry Trinder"
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_0-1615630685864.png
-- images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_1-1615630685843.png
-- images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_2-1615630685839.png
-- images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_3-1615630685863.png
 tags: []
 type: "regular"
 draft: false

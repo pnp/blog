@@ -14,8 +14,8 @@ draft: false
 In my process of self learning regarding different technologies such us
 Azure, SPFX WebPart, React, Microsoft Graph, Node.js, Teams and all
 other Office 365 services, was surprise to find the current work already
-made by \"[Microsoft Graph
-Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit/)\"
+made by "[Microsoft Graph
+Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit/)"
 and associated documentation on how to implemented with Microsoft Graph.
 
 The amount of content and features already develop to integrate multiple
@@ -119,7 +119,7 @@ options to use.
 
 This main query will allow to fully explore the **Mgt-File-List**
 features that were used in sample
-\"[react-oneDrive-finder](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder)\"
+"[react-oneDrive-finder](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder)"
 
 -   List of Drives Sites
 -   Content List and Breadcrumb
@@ -190,7 +190,7 @@ console.log(e.details);}`
 More information can be found on Mgt-File-List
 [documentation](https://github.com/microsoftgraph/microsoft-graph-toolkit/blob/main/stories/components/fileList.stories.js)
 or by sample
-\"[react-onedrive-finder](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder)\".
+"[react-onedrive-finder](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder)".
 
 ### Filtering file extensions 
 
@@ -285,7 +285,7 @@ of the Beta Version.
 
 ### Search in Shared Libraries
 
-The control by the property **\"fileListQuery\"** also allow the usage
+The control by the property **"fileListQuery"** also allow the usage
 Graph Drive Search method to find Items in the Drive. Below an sample on
 how you could use a dynamic to search items in Drives.
 
@@ -353,8 +353,8 @@ Support Documentation:
 
 -   [Build a SharePoint web part with the Microsoft Graph
     Toolkit](https://docs.microsoft.com/en-us/graph/toolkit/get-started/build-a-sharepoint-web-part)
--   [PnP SPFX Samples \"One Drive
-    finder\"](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder)
+-   [PnP SPFX Samples "One Drive
+    finder"](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder)
 -   [Microsoft Graph
     Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit)
 -   [OneDrive file storage API

@@ -131,7 +131,7 @@ element. Instead, we have this `rowFormatter` property. The reason for
 this is that we can choose between using this and an
 `additionalRowClass` property. If you choose the latter, you're limited
 to applying CSS classes to the entire row, similar to what you can do
-with the out-of-box \"Conditional formatting\". If all you want to do is
+with the out-of-box "Conditional formatting". If all you want to do is
 make your row a different color, you're probably better off using the
 *design mode* tools, but if you're interested in learning more about
 the `additionalRowClass` property, it is covered well enough in the
@@ -144,7 +144,7 @@ styling. NO! We are bound for greater `rowFormatter` glory!
 > this blog, most notably the `groupProps` property. This allows you to
 > customize the grouping header that appears when items are grouped
 > together by some column. There are also `footerFormatter` and
-> `hideFooter` properties that affect the \"List Footer\" that appears
+> `hideFooter` properties that affect the "List Footer" that appears
 > if you're displaying item totals.
 > 
 
@@ -195,7 +195,7 @@ Instead of using `@currentField` to reference a column, we'll need to
 use a slightly different format: `[$InternalColumnName]`.
 In our list, we have a handful of columns including a *Member* lookup
 column. If we want to reference that field, we'd use `[$Member]`. Even
-if we change the display name from \"Member\" to \"Hero\", our variable
+if we change the display name from "Member" to "Hero", our variable
 would still be `[$Member]`. And, since *Member* is a lookup column, if
 we want to show the display name of the user, we need to use the *title*
 property. We'd do that in the following way `[$Member.title]`.
@@ -205,7 +205,7 @@ property. We'd do that in the following way `[$Member.title]`.
 ## The World Is Not In Your Books And Maps. It Is Out There. 
 
 Alright. Enough with the lessons, it's time to get started.
-We can use the \"map\" we created earlier and turn it into a rough
+We can use the "map" we created earlier and turn it into a rough
 skeleton. Each layer in that blowout represent a parent/child
 relationship. So, by looking at our map\...
 {{< image alt="blowout-witharrows.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/blowout-witharrows.png" >}}
@@ -297,7 +297,7 @@ where we are in our JSON.
 > just be aware that users may see your witty comments.
 
 
-Also, in the \"Member/Role DIV\" children, the second child looks a
+Also, in the "Member/Role DIV" children, the second child looks a
 little peculiar.
 
     {
@@ -335,7 +335,7 @@ those things at the top level.
 }
 ```
 
-We're also specifying a `position` value of \"relative\", which tells
+We're also specifying a `position` value of "relative", which tells
 the browser to display that DIV relative to it's parent container. In
 this case, that parent container will be the row in the list. It won't
 have any noticeable effect here, but will help us later.
@@ -380,10 +380,10 @@ background image would cover up our border.
 
 Now that we've got our first two layers done, let's take a look at our
 third layer. If we refer back to our skeleton, we can see that our
-**img** element has a single child titled \"Column Container\", and that
+**img** element has a single child titled "Column Container", and that
 child has three children of its own. What we want to happen is to have a
-three-column layout and to do that, we're going to style this \"column
-container\" like so.
+three-column layout and to do that, we're going to style this "column
+container" like so.
 ``` JSON
 "style": {
     "position": "absolute",
@@ -392,18 +392,18 @@ container\" like so.
     "display": "flex"
 }
 ```
-We have to specify the width and height here as being **\"100%\"**
+We have to specify the width and height here as being **"100%"**
 because, without it, the DIV will only grow as large as the content and
 we want to ensure that it stays as large as it can. We're also
 specifying a different `position` value here - **absolute** - which
 basically tells the browser to render our DIV at a specific position. In
 this case, we're letting it default the starting point, which is the
-\"top left corner\" of the first ancestor element with a \"position\"
+"top left corner" of the first ancestor element with a "position"
 attribute on it (in this case, our parent div, which we said was
 **relative** positioned).
 We're also specifying a `display` property with a value of **flex**.
-This creates what's known as \"Flexbox\" which will help us deal with
-the concept of turning our child DIVs into \"Columns\" and \"Rows\".
+This creates what's known as "Flexbox" which will help us deal with
+the concept of turning our child DIVs into "Columns" and "Rows".
 Now that we've got our container, let's work on the next three
 children, which will represent our three columns.
 
@@ -532,7 +532,7 @@ definition for this section.
 }
 ```
 The only thing of real note here is that our parent container in this
-case is again defining a \"Flexbox\" with its `display` property. We're
+case is again defining a "Flexbox" with its `display` property. We're
 also using two new properties, `flex-direction` and `justify-content`,
 to control how our children are displayed relative to one another.
 
@@ -739,10 +739,10 @@ but the list view is off somehow\...
 Look at all that empty white space! Such a waste, but showing each item
 in a row is what the list view does. Sometimes, that may be exactly what
 you need in some cases but here\...we don't need it.
-Instead, we can use the \"Gallery\" (or \"Tile)\" view, which will
+Instead, we can use the "Gallery" (or "Tile)" view, which will
 display our items in a grid view.
 We can copy the the schema we've already defined, and change the
-selected layout from \"List\" to \"Gallery\"
+selected layout from "List" to "Gallery"
 {{< image alt="format-options.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/format-options.png" >}}
 After that, we can paste it in, but we'll need to modify things every
 so slightly, as the Gallery layout has some additional properties we
@@ -778,7 +778,7 @@ Doing that should get us to where we want to be.
 Over the course of two blogs, we've covered the basic building blocks
 of custom column formatting as well as how to customize our list and
 gallery views. We turned a boring old list of text into far less boring
-visuals, and then turned those visuals into a \"who's who\" of Middle
+visuals, and then turned those visuals into a "who's who" of Middle
 Earth. 
 And while our journey together might be coming to an end, it doesn't
 mean your adventures are over. Take what you've learned, go out into

@@ -721,7 +721,7 @@ everyone for your contributions to the community!\
     2021](https://mybuild.microsoft.com/)
 -   August 9-11, 2021 - [North American Collaboration
     Summit](https://www.collabsummit.org/)
-    -   Register with coupon code \"PnP\" for 25% off from the prize at
+    -   Register with coupon code "PnP" for 25% off from the prize at
         <https://nacs.ticketspice.com/nacs2021>
 
  
@@ -836,4 +836,4 @@ requests or questions.
 
  
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

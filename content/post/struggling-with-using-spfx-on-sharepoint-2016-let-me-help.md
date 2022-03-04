@@ -118,9 +118,9 @@ On-premise](https://support.shortpoint.com/support/solutions/articles/1000272505
 There may be better articles out there.  Two key parts of this that
 helped me were:
 
--   If you don't see \"Manage Patch Status\", look for \"Check
-    Production and Patch Installation Status\".
--   For \"Microsoft SharePoint Foundation 2016 Core\", you are looking
+-   If you don't see "Manage Patch Status", look for "Check
+    Production and Patch Installation Status".
+-   For "Microsoft SharePoint Foundation 2016 Core", you are looking
     to see if there is an item with a version number \>= 16.0.4744.1000
     with a status of Installed.  If not, you'll need to install Feature
     Pack 2 as the link above describes.
@@ -194,7 +194,7 @@ This is old hat for many, but for those not used to it, I'll spell out
 some details...
 Create a directory for your web part project and cd into that
 directory.  This could be the name of your solution or even just
-\"WebParts\".  Think about how you want to organize your code.  Do you
+"WebParts".  Think about how you want to organize your code.  Do you
 want a separate solution per web part or do you want to be able to have
 several web parts within one project in the future.  The former makes it
 so a change to one web part does not require all to be re-deployed.  The
@@ -591,10 +591,10 @@ and package-lock.json.  Also test with a production/ship build as you
 will likely find, as I did, that it works with a dev build, but not a
 production build.
 More details can be found here: [Duplicate of issue #985: deployed web
-part says \"Manifest not found\", after updating from 1.1.0 to
+part says "Manifest not found", after updating from 1.1.0 to
 1\...](https://github.com/SharePoint/sp-dev-docs/issues/1100)
 
-Note that you might want to remove the "\~" and "\" from some of those
+Note that you might want to remove the "\~" and "" from some of those
 versions to make sure the version matches exactly (and doesn't use an
 [approximate equivalent
 version](https://docs.npmjs.com/cli/v7/using-npm/semver#tilde-ranges-123-12-1)
@@ -657,7 +657,7 @@ enact several rules within my code including:
     /* tslint:disable-next-line:export-name */​
     ```
 
--   Immediately before I used the type \"any\" for a variable.  This
+-   Immediately before I used the type "any" for a variable.  This
     seemed necessary when I couldn't find a type that PnP was using
     (maybe I didn't look hard enough): 
 

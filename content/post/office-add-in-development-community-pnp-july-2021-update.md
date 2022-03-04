@@ -28,7 +28,7 @@ This sample uses event-based activation to run an Outlook add-in when
 the user creates a new message or appointment. The add-in can respond to
 events, even when the task pane is not open. It registers for the
 OnMessageRecipientsChanged event. If the message has external
-recipients, the add-in prepends \"\[External\]\" to the message subject.
+recipients, the add-in prepends "\[External\]" to the message subject.
 When the user sends an email message that includes external recipients,
 the add-in appends a disclaimer to the message.
 

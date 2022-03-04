@@ -127,7 +127,7 @@ m365 spo serviceprincipal grant add --resource 'Microsoft Graph' --scope 'People
 **Info**
 
 Don't be surprised if by that way, the permission appears in the
-\"Other permissions granted for \[your tenant\]\": it won't prevent
+"Other permissions granted for \[your tenant\]": it won't prevent
 your SPFx solution to work.
 
 ### Try again 
@@ -143,8 +143,8 @@ When using a custom API, it's a little bit more tricky but easy to
 handle anyway.
 You can follow [this Microsoft
 article](https://docs.microsoft.com/fr-fr/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi) until
-the \"[Deploy the
-solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi#deploy-the-solution-to-the-sharepoint-app-catalog)\"
+the "[Deploy the
+solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi#deploy-the-solution-to-the-sharepoint-app-catalog)"
 part.
 Instead of bundling and shipping, we'll add the AAD App
 (called *contoso-api-dp20200915* if we follow the mentioned article)
@@ -176,7 +176,7 @@ m365 spo serviceprincipal grant add --resource 'contoso-api-dp20200915' --scope 
 **Info**
 
 Don't be surprised if by that way, the permission appears in the
-\"Other permissions granted for \[your tenant\]\": it won't prevent
+"Other permissions granted for \[your tenant\]": it won't prevent
 your SPFx solution to work.
 **Warning**
 

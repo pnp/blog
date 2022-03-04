@@ -38,12 +38,12 @@ snippet:
 ``` {.lia-code-sample .language-json}
             {
                 "name": "Developer PowerShell for VS 2019",
-                "commandline": "powershell.exe -noe -c \"&{$vsPath = &(Join-Path ${env:ProgramFiles(x86)} '\\Microsoft Visual Studio\\Installer\\vswhere.exe') -property installationpath; Import-Module (Join-Path $vsPath 'Common7\\Tools\\Microsoft.VisualStudio.DevShell.dll'); Enter-VsDevShell -VsInstallPath $vsPath -SkipAutomaticLocation}\"",
+                "commandline": "powershell.exe -noe -c "&{$vsPath = &(Join-Path ${env:ProgramFiles(x86)} '\\Microsoft Visual Studio\\Installer\\vswhere.exe') -property installationpath; Import-Module (Join-Path $vsPath 'Common7\\Tools\\Microsoft.VisualStudio.DevShell.dll'); Enter-VsDevShell -VsInstallPath $vsPath -SkipAutomaticLocation}"",
                 "icon": "%ProgramFiles(x86)%\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\IDE\\Assets\\VisualStudio.70x70.contrast-standard_scale-180.png"
             },
             {
                 "name": "Developer Command Prompt for VS 2019",
-                "commandline": "%comspec%  /k \"%ProgramFiles(x86)%\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\Tools\\VsDevCmd.bat\"",
+                "commandline": "%comspec%  /k "%ProgramFiles(x86)%\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\Tools\\VsDevCmd.bat"",
                 "icon": "%ProgramFiles(x86)%\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\IDE\\Assets\\VisualStudio.70x70.contrast-standard_scale-180.png"
             },
 ```

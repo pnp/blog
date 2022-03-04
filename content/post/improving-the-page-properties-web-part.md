@@ -86,7 +86,7 @@ properties for display:
     this.availableProperties = [];
     Log.Write(`${fi.length.toString()} fields retrieved!`);
     fi.forEach((f) => {
-      if (!f.FromBaseType && !f.Hidden && !f.Sealed && f.SchemaXml.indexOf("ShowInListSettings=\"FALSE\"") === -1
+      if (!f.FromBaseType && !f.Hidden && !f.Sealed && f.SchemaXml.indexOf("ShowInListSettings="FALSE"") === -1
           && f.TypeAsString !== "Boolean" && f.TypeAsString !== "Note" && f.TypeAsString !== "User") {
         this.availableProperties.push({ key: f.InternalName, text: f.Title });
         Log.Write(f.TypeAsString);

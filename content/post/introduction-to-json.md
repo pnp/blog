@@ -51,7 +51,7 @@ JSON files usually have a `.json` filename extension.
 > the details tend vary, and it can only store tables (rows and columns)
 > of data.
 
-JSON data is organized as \"objects\" which contain name/value pairs.
+JSON data is organized as "objects" which contain name/value pairs.
 This example is the first step toward building a profile for Parker, the
 PnP mascot, who has kindly agreed to share personal information for this
 article.
@@ -64,7 +64,7 @@ valid JSON, `{}`, represents an empty object. The JSON example above
 contains a single name/value pair; the name is `name` and the value
 is `"Parker"`. As you can see, the name and value are separated by
 a `:`. Names are case sensitive and need to be enclosed in double
-quotes. In this case, since \"Parker\" is a text value, it's enclosed
+quotes. In this case, since "Parker" is a text value, it's enclosed
 in double quotes as well. Spaces, tabs, and newlines are ignored in
 JSON, but are helpful for readability.
 
@@ -88,7 +88,7 @@ is equivalent to the one above:
       "name": "Parker"
     }
 ```
-The values don't need to be text like \"Parker\"; they can also be
+The values don't need to be text like "Parker"; they can also be
 numbers, booleans, collections, or more JSON objects. This allows you to
 have objects within objects.
 Here's a more complete description of the Quilled Crusader that uses
@@ -122,9 +122,9 @@ all of the JSON data types:
 
 These are all name/value pairs, but there are several kinds of values;
 the next few sections will explain each of them.
-> Geek note: Turning data objects into JSON is called \"serialization\";
-> turning JSON back into data objects is called \"parsing\" or sometimes
-> \"deserialization\".
+> Geek note: Turning data objects into JSON is called "serialization";
+> turning JSON back into data objects is called "parsing" or sometimes
+> "deserialization".
 
 ## Strings (Text) 
 
@@ -135,11 +135,11 @@ quote in it? `"Parker says "Sharing is caring""` is not a valid JSON
 value because the parser thinks the `"` before `Sharing` is the end of
 the string, and then it gets really confused. (Computers are really
 stupid, aren't they?) So to put a `"` within a string, you need to
-\"escape\" it by preceding it with a `\`. For example:
+"escape" it by preceding it with a `\`. For example:
 
     {
       "name": "Parker",
-      "action": "Parker says \"Sharing is caring\""
+      "action": "Parker says "Sharing is caring""
     }
 ```
 As you might expect, this escaping thing is a bit of a slippery slope,
@@ -178,7 +178,7 @@ length and weight are expressed as numbers.
       "kilograms": 28
     }
 ```
-Note that 75 is not the same as \"75\"; the quotes would indicate the
+Note that 75 is not the same as "75"; the quotes would indicate the
 characters `7` and `5` rather than a number.
 Numbers are in decimal, and can contain a sign, decimal point, and
 exponent such as:
@@ -367,7 +367,7 @@ one `"comment"` if you're daring. This is valid JSON:
     {
       "name": "Parker",
       "comment": "Great mascot but gets a bit prickly at times",
-      "comment": "Check out \"Parker's Place\" online apparel shop"
+      "comment": "Check out "Parker's Place" online apparel shop"
     }
 ```
 
@@ -502,7 +502,7 @@ the user's inbox):
       "value": [
           {
               "@odata.type": "#microsoft.graph.eventMessage",
-              "@odata.etag": "W/\"DQAAABYAAADcd/V5PKGOSLpB9pjjNuVqAALT5+Dw\"",
+              "@odata.etag": "W/"DQAAABYAAADcd/V5PKGOSLpB9pjjNuVqAALT5+Dw"",
               "id": "AAMkADIxMjk0NDNjLTJmNWItNDYzNy04MmQ2LTQyMjhkM2FjOWE3MQBGAAAAAAA7bH43fGymSJWqX6oeXPByBwDcd-V5PKGOSLpB9pjjNuVqAAAAAAEMAADcd-V5PKGOSLpB9pjjNuVqAALV0JNVAAA=",
               "createdDateTime": "2020-12-16T00:14:19Z",
               ...
@@ -521,7 +521,7 @@ the OData documentation.
 
 ## JSON and JavaScript 
 
-Although JSON stands for \"JavaScript Object Notation\", and was
+Although JSON stands for "JavaScript Object Notation", and was
 inspired by the format JavaScript uses for object literals, they are not
 the same. Indeed, JSON is intended to be language independent. Some
 major differences between JSON and JavaScript are:
@@ -579,7 +579,7 @@ to the Microsoft Graph:
     }
 ```
 Notice that to ask the service for a JSON response, the HTTP header is
-set to accept \"application/json\", which is the MIME type for JSON. And
+set to accept "application/json", which is the MIME type for JSON. And
 the `response` object returned by `fetch()` has a `json()` function
 built right in to turn the returned JSON into a JavaScript object.
 

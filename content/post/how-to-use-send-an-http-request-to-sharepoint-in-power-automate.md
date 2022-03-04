@@ -59,18 +59,18 @@ actions
 **Headers*****:** Need JSON object*
 
 *  {\
-       \"content-type\": \"application/json;odata=verbose\",\
-       \"accept\": \"application/json;odata=verbose\"\
+       "content-type": "application/json;odata=verbose",\
+       "accept": "application/json;odata=verbose"\
   }*
 
 **Body :** *RequestBody*
 
 *     {\
-         \"\_\_metadata\": {\
-               \"type\": \"SP.Data.To_x0020_DoListItem\"\
+         "\_\_metadata": {\
+               "type": "SP.Data.To_x0020_DoListItem"\
         },\
-       \"Title\": \"Demo Task1\",\
-       \"Status\": \"Started\"\
+       "Title": "Demo Task1",\
+       "Status": "Started"\
    }*
 In the request body, we need type so now the question is how to get
 type? It is ***SP.Data.{ListName}ListItem*** (replace {*ListName*} with
@@ -91,17 +91,17 @@ actions
 **Headers*****: ***
 
 *  {\
-      \"content-type\": \"application/json;odata=verbose\",\
-      \"IF-MATCH\": \"\*\"\
+      "content-type": "application/json;odata=verbose",\
+      "IF-MATCH": "\*"\
 }*
 
 **Body :** *RequestBody*
 
 *     {\
-         \"\_\_metadata\": {\
-               \"type\": \"SP.Data.To_x0020_DoListItem\"\
+         "\_\_metadata": {\
+               "type": "SP.Data.To_x0020_DoListItem"\
         },\
-       \"Title\": \"Task1\",\
+       "Title": "Task1",\
    }*
 
 **  **
@@ -121,9 +121,9 @@ actions
 
 ```
 {     \
-      \"content-type\": \"application/json;odata=verbose\",\
-      \"IF-MATCH\": \"\*\",\
-      \"X-HTTP-Method\": \"DELETE \"\
+      "content-type": "application/json;odata=verbose",\
+      "IF-MATCH": "\*",\
+      "X-HTTP-Method": "DELETE "\
 }
 ```
 

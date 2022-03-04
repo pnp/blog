@@ -25,7 +25,7 @@ However the Parse JSON action is very picky\... The action will fail if
 a property is missing, a new property is added later on or an existing
 property is giving back a different type of data. In short: any schema
 change not being updated in the settings of the action can cause a
- \"*ValidationFailed error*\" :cross_mark:. Such an error
+ "*ValidationFailed error*" :cross_mark:. Such an error
 will stop the Flow because the schema validation failed:
 
 {{< image alt="PowerAutomate_ParseJSONfail" src="images/blog/power-automate-skip-the-parse-json-action-to-reference-data/PowerAutomate_ParseJSONfail.png" >}}

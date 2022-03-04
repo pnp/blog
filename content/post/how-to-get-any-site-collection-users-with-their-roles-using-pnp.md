@@ -36,7 +36,7 @@ array
 So in the end, our script will be like this,
  
 ``` {.lia-code-sample .language-powershell}
-$basePath = "E:\Chandani\Blogs\UserRolesPS\"
+$basePath = "E:\Chandani\Blogs\UserRolesPS"
 $dateTime = "{0:MM_dd_yy}_{0:HH_mm_ss}" -f (Get-Date)
 $csvPath = $basePath + "\userdetails" + $dateTime + ".csv"
 $adminSiteURL = "https://*****-admin.sharepoint.com/" #O365 admin site URL

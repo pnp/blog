@@ -203,7 +203,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** June 17th at 9:00 am PDT \|
     <https://aka.ms/IDDevCommunityCalendar>[ ]
-\"*Too many links, can't remember*\" - not a problem\... **just one
+"*Too many links, can't remember*" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
 - <http://aka.ms/m365pnp>.
 *"Sharing is caring"*

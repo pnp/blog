@@ -111,7 +111,7 @@ making this a great community.  
     key documents within Tenant and easily open them in Modern Pages
     (use extension) or Modern Pages and Microsoft Teams (use web part +
     extension).  This solution uses the Out of Box Social functionality
-    **\"**Follow document**\"** and Microsoft Graph queries.
+    **"**Follow document**"** and Microsoft Graph queries.
       Exhaustive feature list by sample.
 
 
@@ -239,7 +239,7 @@ slides.
 -   [M365 PnP site](https://aka.ms/m365pnp) \| aka.ms/m365pnp
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
--   Blog: \"[A Lap Around Microsoft Graph Toolkit\" blog
+-   Blog: "[A Lap Around Microsoft Graph Toolkit" blog
     series](https://aka.ms/mgtLap)
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community

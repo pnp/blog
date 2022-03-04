@@ -529,7 +529,7 @@ from the the different repositories.
     by [Adam
     Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361906635%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Eaq1arLCtDIRptVPmY0WeCk7rjMHs5oJk5sbpXJclds%3D&reserved=0)
     (Hitachi Energy) \| \@Adam25858782 to showcase gamification like
-    \"where is Wally\" on a site
+    "where is Wally" on a site
 -   New sample
     [react-documents-links-accordion](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-document-links-accordion)
     by [João J. Mendes](https://twitter.com/joaojmendes) (Valo
@@ -891,7 +891,7 @@ These are the latest connectors: 
     Choi](https://www.linkedin.com/in/woongchoi/) (Seven Sigma)
 ### Sharing is Caring initiative 
 {{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-november-2021-update/sharing-is-caring-promo-1024x576.png" >}}
-The \"Sharing Is Caring\" imitative is targeted for learning the basics
+The "Sharing Is Caring" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
 advantage of this instructor lead training for learning how to

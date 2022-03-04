@@ -207,4 +207,4 @@ requests or questions.
 
  
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

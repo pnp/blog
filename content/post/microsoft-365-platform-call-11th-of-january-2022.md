@@ -118,7 +118,7 @@ everybody for joining the call today.    
     components in the SDK.   Register for the Preview today. 
 
 -   **Building a Microsoft Teams bot for scheduling tasks and to get
-    reminders -** this sample "Bot daily task reminder\" is about
+    reminders -** this sample "Bot daily task reminder" is about
     sending a proactive chat message/request to app users.  Users are
     able to schedule a recurring task and get a reminder at scheduled
     times via Adaptive Cards.  Comprehensive walk-through from cloning

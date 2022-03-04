@@ -191,7 +191,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/sp-call>
 -   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT \|
     <https://aka.ms/adaptivecardscommunitycall>
-\"*Too many links, can't remember*\" - not a problem\... **just one
+"*Too many links, can't remember*" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
 - <http://aka.ms/m365pnp>.
 *"Sharing is caring"*

@@ -14,8 +14,8 @@ draft: false
 Note: I am using [PostMan](https://www.postman.com/downloads/) in my
 example. 
 
-1\. First  - use \"GET\" http request  to get details of dataverse table
-\"**Accounts**\": 
+1\. First  - use "GET" http request  to get details of dataverse table
+"**Accounts**": 
  
 
 ``` {.lia-code-sample .language-markup}
@@ -45,14 +45,14 @@ environment API.*
 {{< image alt="ValerasNarbutas_1-1633418877623.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_1-1633418877623.png" >}}
 
 Were are no changes that happen last time we did
-request to **accounts** table, this is why under \"**value**\" it shows
+request to **accounts** table, this is why under "**value**" it shows
 empty array\
 If I do changes like: add **new** details, **edit** and **delete** in
 **accounts**  table I would get result: (image 4)\
 
 {{< image alt="ValerasNarbutas_2-1633419038732.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_2-1633419038732.png" >}}
 
-Now \"value\" contain 3 additional results for **new**, **edit**, and
+Now "value" contain 3 additional results for **new**, **edit**, and
 **delete** records.
 
 Such updates checking method would be very useful when implementing

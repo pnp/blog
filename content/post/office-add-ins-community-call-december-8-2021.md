@@ -231,7 +231,7 @@ in script lab?**
 There is an API in Office.js to get the attachments. Check out the
 [Office.AttachmentContent
 interface. ](https://docs.microsoft.com/javascript/api/outlook/office.attachmentcontent)In
-script lab for Outlook search for \"Get attachments\" in the samples and
+script lab for Outlook search for "Get attachments" in the samples and
 you will find a sample.
 
 **Any news when the current PowerPoint Preview API will go live?**

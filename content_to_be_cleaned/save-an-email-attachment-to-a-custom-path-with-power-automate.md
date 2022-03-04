@@ -5,12 +5,6 @@ author: "Damo Bird 365"
 categories: ["Power Automate"]
 images:
 - images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_0-1624209543175.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_1-1624209543161.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_2-1624209543294.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_3-1624209543448.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_4-1624209543193.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_8-1624210593508.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_6-1624209543237.png
 tags: []
 type: "regular"
 draft: false

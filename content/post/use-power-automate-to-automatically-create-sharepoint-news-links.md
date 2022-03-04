@@ -18,7 +18,7 @@ with is that folks within the organization frequently are unaware of
 press releases, blogs, or other information the organization is publicly
 sharing. In fact, I'm guilty of it as well. On numerous occasions,
 I've gone to a coworker for some quick troubleshooting only to be told
-\"I wrote a blog for that\".
+"I wrote a blog for that".
 
 
 Now that Microsoft Viva Connections is here, I've been putting a lot of
@@ -27,8 +27,8 @@ with ways to break down the information silo's we've just naturally
 accrued over the years.
 Fortunately, it turned out that our company blog already had an RSS feed
 setup, which opened up some opportunities, one of which was to create a
-flow in Power Automate that automatically creates a SharePoint \"News
-Link\" in our home site whenever a new blog post is published to our
+flow in Power Automate that automatically creates a SharePoint "News
+Link" in our home site whenever a new blog post is published to our
 public site.
 So, with this blog, we'll walk through the steps used to accomplish
 that feat.
@@ -80,7 +80,7 @@ the below image.
 
 Thankfully, SharePoint has a handy-dandy little service hidden away that
 can help.
-If you ever created a new \"News Link\", you'll know that you simply
+If you ever created a new "News Link", you'll know that you simply
 give SharePoint the URL to your article and it auto-magically snags the
 title, summary and a thumbnail image to use. If you open up your
 browser's developer tools, you can see that SharePoint calls this

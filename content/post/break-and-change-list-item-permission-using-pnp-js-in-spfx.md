@@ -28,7 +28,7 @@ So open developer tool(F12) \> SharePoint Tab \> PnP Js Console \> At
 here you can write pnp queries and using ctrl + D we can test it.
 
 Now we will implement the logic for break permission as below,
-1.  For eg. I want to set \"Contribute\" permission so we have to get a
+1.  For eg. I want to set "Contribute" permission so we have to get a
     Role definition Id. you can set it as per your requirement. for more
     details to refer
     to [this article. ](https://pnp.github.io/pnpjs/sp/security/#role-definitions)

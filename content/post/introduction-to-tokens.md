@@ -18,8 +18,8 @@ draft: false
 
 Tokens are everywhere on the Internet. Even if you don't realise it,
 you may have just used one on the way to read this article! You may ask
-*\"What is a token and what do I need it for?\"* and my answer would be
-*\"Which token?\"*. You see, there are different types of tokens all
+*"What is a token and what do I need it for?"* and my answer would be
+*"Which token?"*. You see, there are different types of tokens all
 with their use cases.
 
 This article is here to break down the different types, how and when
@@ -35,7 +35,7 @@ prove that you bought to goods to return something. The receipt would
 most likely contain the date of purchase, the price you paid and most
 importantly, the goods purchased. Essentially, you are making a claim of
 ownership using the receipt. A token works in a similar way - it is a
-way to claim *\"I am me\"* or *\"I am allowed to do this\"*.
+way to claim *"I am me"* or *"I am allowed to do this"*.
 
 ### Token types 
 
@@ -70,11 +70,11 @@ sums it up perfectly:
 {{< image alt="01ed60e47ba84e66b302a6ef0e9035d2.png" src="images/blog/introduction-to-tokens/01ed60e47ba84e66b302a6ef0e9035d2.png" >}}
 ![](file:////home/lford/code/personal/draft_posts/TokenIntroduction/01ed60e47ba84e66b302a6ef0e9035d2.png)
 
-> The term \"auth token\" is widely used can become misleading as it
+> The term "auth token" is widely used can become misleading as it
 > could be interpreted as an **authentication** (ID) or
 > **authorization** (access) token. It is important to distinguish the
-> difference between the two and try to avoid using the term \"auth
-> token\".
+> difference between the two and try to avoid using the term "auth
+> token".
 
 #### Refresh tokens 
 
@@ -95,8 +95,8 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFMVE16YWtpaGlSbGFfOHoyQkVKVlhlV01x
 ```
  
 Makes sense, right? Of course not. Azure AD ID and access tokens are
-also referred to as \"JWTs\" or JSON Web Tokens. This means that the
-token is formatted as a JSON object and then \"base64Url\" encoded and
+also referred to as "JWTs" or JSON Web Tokens. This means that the
+token is formatted as a JSON object and then "base64Url" encoded and
 signed and with a bit of extra security (we'll cover this soon), the
 end result is what we have above.
 > For an introduction in to JSON, I highly recommend Bob German's
@@ -105,7 +105,7 @@ end result is what we have above.
 ### Decoding a token 
 
 Taking the sample above and putting in in to [jwt.ms](https://jwt.ms),
-it is possible to decode from \"base64url\" back to human-readable JSON.
+it is possible to decode from "base64url" back to human-readable JSON.
 {{< image alt="e738e6ef6d6f41ab9e811c7d4e8d5371.png" src="images/blog/introduction-to-tokens/e738e6ef6d6f41ab9e811c7d4e8d5371.png" >}}
 ![](file:////home/lford/code/personal/draft_posts/TokenIntroduction/e738e6ef6d6f41ab9e811c7d4e8d5371.png)
 
@@ -122,22 +122,22 @@ In the next two sections, we'll cover off each part.
 A payload or body is the content of the token where the claims are
 stored. Most tokens contain standard claims such as:
 
--   \"iss\" - Identity of the service that issued the token e.g.
+-   "iss" - Identity of the service that issued the token e.g.
     `https://login.microsoftonline.com/9122040d-6c67-4c5b-b112-36a304b66dad/v2.0`
--   \"sub\" - The subject of the token e.g. the user
--   \"aud\" - The audience of the token, who the token is intended for.
+-   "sub" - The subject of the token e.g. the user
+-   "aud" - The audience of the token, who the token is intended for.
     This is usually the client and not the user
--   \"exp\" - Expiry date of token in seconds since the [Unix
+-   "exp" - Expiry date of token in seconds since the [Unix
     epoch](https://en.wikipedia.org/wiki/Unix_time)
--   \"iat\" - Time token was issued (Unix epoch seconds)
--   \"nbf\" - Time token is valid from (Unix epoch seconds)
+-   "iat" - Time token was issued (Unix epoch seconds)
+-   "nbf" - Time token is valid from (Unix epoch seconds)
 
 In addition to standard claims, there are custom claims in Azure AD
 tokens such as:
 
--   \"name\" - Name of the subject
--   \"oid\" - Azure AD object ID of the subject
--   \"tid\" - Azure AD tenant ID of the subject
+-   "name" - Name of the subject
+-   "oid" - Azure AD object ID of the subject
+-   "tid" - Azure AD tenant ID of the subject
 
 > One great feature of [jwt.ms](http://jwt.ms) is that you can view
 > detailed descriptions of standard and Azure AD claims.
@@ -145,7 +145,7 @@ tokens such as:
 ### Validating a token 
 
 You may be thinking: I just decoded a token on a webpage - how is that
-secure? JWTs are typically \"signed\" (not encrypted) with an algorithm
+secure? JWTs are typically "signed" (not encrypted) with an algorithm
 and private key by the issuer of the token. This doesn't stop any of
 the payload or header from being decoded as the aim of a token isn't to
 hide information, but provide validity to it.
@@ -157,7 +157,7 @@ ensure it can be trusted.
 
 There is a bit more nuance to the process than outlined here, but here
 is the summary on how to validate a token. Within the header part of the
-JWT, it contains the information on how the JWT was \"signed\" (what
+JWT, it contains the information on how the JWT was "signed" (what
 algorithm and private/public key pair was used). With this information
 it is possible for the client (if it has access to the public key) to
 validate the signature part of the JWT.

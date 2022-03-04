@@ -82,7 +82,7 @@ call.
     from Teams tabs using
     SSO](https://blog.mastykarz.nl/securely-connect-microsoft-graph-teams-tabs-sso/)
 {{< image alt="CmtyPhoto.png" src="images/blog/microsoft-365-developer-community-call-recording-18th-of-march/CmtyPhoto.png" >}}
-**\"Hello Community\"     **
+**"Hello Community"     **
 **Demos** delivered in this session
 
 -   **Accessing comment information in list formatting and advance form

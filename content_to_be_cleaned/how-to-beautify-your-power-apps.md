@@ -5,10 +5,6 @@ author: "Luise Freese"
 categories: ["Power Apps"]
 images:
 - images/blog/how-to-beautify-your-power-apps/fluentUIicons.png
-- images/blog/how-to-beautify-your-power-apps/showpopup.gif
-- images/blog/how-to-beautify-your-power-apps/controls.png
-- images/blog/how-to-beautify-your-power-apps/expand.gif
-- images/blog/how-to-beautify-your-power-apps/beautify.gif
 tags: []
 type: "regular"
 draft: false

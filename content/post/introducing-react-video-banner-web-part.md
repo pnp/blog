@@ -70,7 +70,7 @@ that we want to refresh the video whenever we change the video url. By
 default, when changing the properties, all values will be reflected
 except for the video url, it needs to be explicitly refreshed on the
 video control. So we get a reference to the video control using React's
-ref, where we define the \"vRef\" value on the functional component
+ref, where we define the "vRef" value on the functional component
 itself. 
 We then use React's useEffect to check if the video url has changed or
 not, if it has changed, we call the load() function on the video

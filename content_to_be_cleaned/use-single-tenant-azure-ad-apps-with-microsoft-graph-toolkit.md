@@ -4,7 +4,7 @@ date: 2021-08-08T08:40:00-04:00
 author: "Waldek Mastykarz"
 categories: ["Microsoft Graph Toolkit"]
 images:
-
+- images/blog/use-single-tenant-azure-ad-apps-with-microsoft-graph-toolkit/banner-mgt-login-single-tenant-azure-ad.png
 tags: []
 type: "regular"
 draft: false

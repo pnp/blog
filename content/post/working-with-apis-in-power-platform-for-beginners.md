@@ -150,30 +150,30 @@ a variable and fill out all the information:
 
 **Type**: We want to use a **string** here (a string is a sequence of
 characters, that can include letters or numbers, but it will be
-recognized as a \"text\")
+recognized as a "text")
 
 **Value**: Here we want to define the value of this variable. In our
 case that means that particular information from this long JSON object.
 
 {{< image alt="JSON-value.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/JSON-value.png" >}}
 
-We want the value of the property \"number\"
+We want the value of the property "number"
 
 Notice, that this JSON element consists of three different objects. We
-have the objects \"success\", \"copyright\" and \"content\". The object
-\"content\" contains an object called \"nod\", which contains two more
-objects called \"category\" and \"numbers\".
+have the objects "success", "copyright" and "content". The object
+"content" contains an object called "nod", which contains two more
+objects called "category" and "numbers".
 
 {{< image alt="JSON-objects.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/JSON-objects.png" >}}
 
-As stated earlier, we want the value of the property \"number\", which
-is located in the object \"numbers\" (which is part of the object
-\"nod\", which is part of the object \"content\").
+As stated earlier, we want the value of the property "number", which
+is located in the object "numbers" (which is part of the object
+"nod", which is part of the object "content").
 
 {{< image alt="JSON-nod-value.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod-value.png" >}}
 
 Now we can tell our variable in Power Automate the exact location of the
-value we want to use in this variable. The expression to \"navigate\" to
+value we want to use in this variable. The expression to "navigate" to
 the value of this property looks like this:
 
 \`body('HTTP\_-\_GETnon')\['contents'\]\['nod'\]\['numbers'\]\['number'\]\`
@@ -183,8 +183,8 @@ look, the later parts are navigating through the JSON object until we
 reach the exact object and the exact property. With this method you can
 get any value of any JSON object you like.
 
-Now you can build in the variable in a \"Post message in a chat or
-channel\" action as dynamic content in Flow and it will always show the
+Now you can build in the variable in a "Post message in a chat or
+channel" action as dynamic content in Flow and it will always show the
 value of the property of that JSON object.
 
 {{< image alt="Teams-message.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/Teams-message.png" >}}

@@ -100,7 +100,7 @@ construct of a bot behaviour needs to be as follows:
 
 1.  Authenticate request (using a token from Teams)
 2.  Get weather information from API
-3.  Send response to request. This **MUST** be a bot \"Activity\", with
+3.  Send response to request. This **MUST** be a bot "Activity", with
     an attached Adaptive Card otherwise Teams will not handle the
     response correctly
 

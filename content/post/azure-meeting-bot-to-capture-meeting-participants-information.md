@@ -108,8 +108,8 @@ MicrosoftAppId in Application settings.
 
 {{< image alt="SiddharthVaghasia_8-1630435837628.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_8-1630435837628.png" >}}
 
-Please make sure you select yes to the question \"Do you want to include
-bot calling support?\"
+Please make sure you select yes to the question "Do you want to include
+bot calling support?"
 
 ## Step - Modify Code to log request object in the console
 
@@ -253,7 +253,7 @@ All other attributes values, we have to extract from Teams meeting URL
 
 If you decode this url we will get human readable url like below.
 
-*[https://teams.microsoft.com/l/meetup-join/19:meeting_NzI0NTkwMDUtY2FjMy00YjJmLThjOGEtMzg0ZDNhMzNmNDF\...](https://teams.microsoft.com/l/meetup-join/19:meeting_NzI0NTkwMDUtY2FjMy00YjJmLThjOGEtMzg0ZDNhMzNmNDFi@thread.v2/0?context=){\"Tid\":\"5bac9eb0-1e6b-463d-8dbb-6ba2477914b9\",\"Oid\":\"cd15fc37-4694-4f34-811f-965ca5cc586a\"}*
+*[https://teams.microsoft.com/l/meetup-join/19:meeting_NzI0NTkwMDUtY2FjMy00YjJmLThjOGEtMzg0ZDNhMzNmNDF\...](https://teams.microsoft.com/l/meetup-join/19:meeting_NzI0NTkwMDUtY2FjMy00YjJmLThjOGEtMzg0ZDNhMzNmNDFi@thread.v2/0?context=){"Tid":"5bac9eb0-1e6b-463d-8dbb-6ba2477914b9","Oid":"cd15fc37-4694-4f34-811f-965ca5cc586a"}*
 
 **ThreadId** - Marked in orange in the above URL is our ThreadId, this
 is a unique meeting Id that is generated for every meeting.
@@ -298,7 +298,7 @@ gulp ngrok-serve
 
 Once it runs successfully, it will create a temporary ngrok domain URL
 which we have to use in the Power Automate variable
-\"CallingAPIEndPointURL\".
+"CallingAPIEndPointURL".
 
 {{< image alt="SiddharthVaghasia_16-1630435933837.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_16-1630435933837.png" >}}
 
@@ -327,8 +327,8 @@ is documented in the URL
 
 Below are some notes based on my experience.
 
--   The first response we will receive with the state \"establishing\"
--   the second response we will receive with state \"established\",
+-   The first response we will receive with the state "establishing"
+-   the second response we will receive with state "established",
     which means the bot is added to Meeting.
 -   Now on every event which will occur in teams meeting like for e.g.,
     participants join, left, someone mutes/unmutes themselves, etc\...

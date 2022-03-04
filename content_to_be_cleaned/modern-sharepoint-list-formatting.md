@@ -5,15 +5,6 @@ author: "Luise Freese"
 categories: ["SharePoint"]
 images:
 - images/blog/modern-sharepoint-list-formatting/daniel-cheung-zky0BmMT5m8-unsplash.jpg
-- images/blog/modern-sharepoint-list-formatting/list-formatting-create.png
-- images/blog/modern-sharepoint-list-formatting/list-formatting-formatgallery.png
-- images/blog/modern-sharepoint-list-formatting/list-formatting-formatcolumns.png
-- images/blog/modern-sharepoint-list-formatting/list-formatting-formatrules.png
-- images/blog/modern-sharepoint-list-formatting/list-formatting.gif
-- images/blog/modern-sharepoint-list-formatting/whatif.jpg
-- images/blog/modern-sharepoint-list-formatting/advanced-mode.png
-- images/blog/modern-sharepoint-list-formatting/formatsplist.gif
-- images/blog/modern-sharepoint-list-formatting/listformat-pyod.gif
 tags: []
 type: "regular"
 draft: false

@@ -56,7 +56,7 @@ everyone for your contributions to the community!
     2021](https://mybuild.microsoft.com/?WT.mc_id=m365-27875-wmastyka)
 -   August 9-11, 2021 - [North American Collaboration
     Summit](https://www.collabsummit.org/)
-    -   Register with coupon code \"PnP\" for 25% off from the prize
+    -   Register with coupon code "PnP" for 25% off from the prize
         at <https://nacs.ticketspice.com/nacs2021>
 
 
@@ -157,4 +157,4 @@ recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

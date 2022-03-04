@@ -192,19 +192,19 @@ activity record OData id into a variable. And finally it relates records
 
 What is also worth to mention is that the whole process is built using
 the **try-catch** pattern. All actions that are executed in terms of the
-business logic are stored in the \"Try\" scope (1). If anything fails
-within the scope, it is caught by the \"Catch\" scope (2), that has
-it's \"Run after\" settings configured to only be executed if previous
+business logic are stored in the "Try" scope (1). If anything fails
+within the scope, it is caught by the "Catch" scope (2), that has
+it's "Run after" settings configured to only be executed if previous
 actions fails, times out or is skipped.
 
 
-Process in the \"Catch\" scope first filters (3) results of the \"Try\"
+Process in the "Catch" scope first filters (3) results of the "Try"
 scope, using the expression `result('Try')` to leave only those entries
 which contain information about errors:
 `@equals(createArray('Failed', 'TimedOut'), '')`. Next for each such
 record (4) it is adding information about the details to a string
 variable. Finally, variable's contents is sent to admin as a
-notification (5) and the whole process ends up with \"Failed\" outcome.
+notification (5) and the whole process ends up with "Failed" outcome.
 
 
 ## Show me something beautiful - The canvas app (Carmen) 
@@ -245,9 +245,9 @@ mapping:
 
   ------------------- ------------- -------------
   Last Known Status   Color         Color name
-  Petrol              \"#66FF00\"   Light Green
-  No petrol           \"#FF0000\"   Red
-  Issue               \"#FFBF00\"   Amber
+  Petrol              "#66FF00"   Light Green
+  No petrol           "#FF0000"   Red
+  Issue               "#FFBF00"   Amber
   ------------------- ------------- -------------
 
 
@@ -294,7 +294,7 @@ deemed nearer).
 
 To work around this, we created an Azure Maps resource in Azure. Azure
 Maps can return a list of addresses within a certain radius that fit a
-particular \"POI (point of interest) category\" - in this case a petrol
+particular "POI (point of interest) category" - in this case a petrol
 station. Using the `subscription-key` (API key) from the Azure Maps
 resource, we were able to create a custom connector in Power Automate
 and query for the nearest petrol stations to the longitude and latitude

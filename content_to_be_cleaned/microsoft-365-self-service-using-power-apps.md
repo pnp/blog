@@ -5,12 +5,6 @@ author: "Jan Bakker"
 categories: []
 images:
 - images/blog/microsoft-365-self-service-using-power-apps/1641653378.png
-- images/blog/microsoft-365-self-service-using-power-apps/1641747471.png
-- images/blog/microsoft-365-self-service-using-power-apps/1641917465.png
-- images/blog/microsoft-365-self-service-using-power-apps/1641748265.png
-- images/blog/microsoft-365-self-service-using-power-apps/PowerAppsFlow.png
-- images/blog/microsoft-365-self-service-using-power-apps/1641918438.png
-- images/blog/microsoft-365-self-service-using-power-apps/JanBakker_0-1641843830957.png
 tags: []
 type: "regular"
 draft: false
@@ -46,7 +40,7 @@ but this feature is often disabled by ]{.NormalTextRun .SCXW211842248
 .BCX8}[option]{.NormalTextRun .SCXW211842248 .BCX8}[. ]{.NormalTextRun
 .SCXW211842248 .BCX8}]{.TextRun .SCXW211842248 .BCX8
 contrast="auto"}[ ]{.EOP .SCXW211842248 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
@@ -67,7 +61,7 @@ Manager, and even security features like Azure AD Authentication
 policies, and Conditional Access.]{.NormalTextRun .SCXW149660201
 .BCX8}]{.TextRun .SCXW149660201 .BCX8 contrast="auto"}[ ]{.EOP
 .SCXW149660201 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
@@ -85,9 +79,9 @@ several different UI elements to help users with their ]{.NormalTextRun
 .SCXW49274579 .BCX8}[s]{.NormalTextRun .SCXW49274579
 .BCX8}[liders. ]{.NormalTextRun .SCXW49274579 .BCX8}]{.TextRun
 .SCXW49274579 .BCX8 contrast="auto"}[ ]{.EOP .SCXW49274579 .BCX8
-ccp-props="{\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559739\":160,\"335559740\":259}"}]{.EOP
+ccp-props="{"201341983":0,"335551550":1,"335551620":1,"335559739":160,"335559740":259}"}]{.EOP
 .SCXW149660201 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
@@ -108,7 +102,7 @@ the back-end]{.NormalTextRun .SCXW110568664 .BCX8}]{.TextRun
 .SCXW110568664 .BCX8 contrast="auto"}[[.]{.NormalTextRun .SCXW110568664
 .BCX8}]{.TextRun .SCXW110568664 .BCX8 contrast="auto"}[ ]{.EOP
 .SCXW110568664 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
@@ -141,16 +135,16 @@ contrast="none"}](https://janbakker.tech/active-directory-identity-governance-ac
 .SCXW127633728 .BCX8}[[ to ]{.NormalTextRun .SCXW127633728 .BCX8}[review
 the groups periodically.]{.NormalTextRun .SCXW127633728 .BCX8}]{.TextRun
 .SCXW127633728 .BCX8 contrast="auto"}[ ]{.EOP .SCXW127633728 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
 [**Group-based licensing** ]{.EOP .SCXW127633728 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
 [Leveraging Azure Premium P1, we could use group-based licensing to
 automatically assign licenses to users based on group
-membership. ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+membership. ]{contrast="auto"}[ ]{ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
@@ -158,7 +152,7 @@ membership. ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559739\":16
 -\> Licenses]{contrast="auto"}**[. Select
 the preferred licenses, then go to the ]{contrast="auto"}***[Licensed
 groups]{contrast="auto"}***[ blade, and click +
-Assign. ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+Assign. ]{contrast="auto"}[ ]{ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
@@ -171,7 +165,7 @@ Assign. ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559739\":160,\"
 [[From the list, select the underlying services that you want to assign
 to the group.]{.NormalTextRun .SCXW16347456 .BCX8}]{.TextRun
 .SCXW16347456 .BCX8 contrast="auto"}[ ]{.EOP .SCXW16347456 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
@@ -187,16 +181,16 @@ automatically assigned. When the user is removed, ]{.NormalTextRun
 .SCXW155582083 .BCX8}[ be unassigned. ]{.NormalTextRun .SCXW155582083
 .BCX8}]{.TextRun .SCXW155582083 .BCX8 contrast="auto"}[ ]{.EOP
 .SCXW155582083 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}]{.EOP
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}]{.EOP
 .SCXW16347456 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
 [[**How does the app work under the hood?**]{.EOP .SCXW155582083 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}]{.EOP
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}]{.EOP
 .SCXW16347456 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
 [[The app is using Power Automate to connect to the Graph
 API. ]{.NormalTextRun .SCXW256519428 .BCX8}[Inside the Power Automate
@@ -207,7 +201,7 @@ parameters that we define in Power ]{.NormalTextRun .SCXW256519428
 is either added or removed from the group. ]{.NormalTextRun
 .SCXW256519428 .BCX8}]{.TextRun .SCXW256519428 .BCX8
 contrast="auto"}[ ]{.EOP .SCXW256519428 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
@@ -236,9 +230,9 @@ contrast="none"}]{.FieldRange .SCXW23769191
 .BCX8}](https://github.com/BakkerJan/M365Portal)[[. ]{.NormalTextRun
 .SCXW23769191 .BCX8}]{.TextRun .SCXW23769191 .BCX8
 contrast="auto"}[ ]{.EOP .SCXW23769191 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}]{.EOP
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}]{.EOP
 .SCXW256519428 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
@@ -262,7 +256,7 @@ This will make the app ]{.NormalTextRun .SCXW187495681
 .BCX8}[easily ]{.NormalTextRun .SCXW187495681 .BCX8}[accessible for
 end-users. ]{.NormalTextRun .SCXW187495681 .BCX8}]{.TextRun
 .SCXW187495681 .BCX8 contrast="auto"}[ ]{.EOP .SCXW187495681 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
@@ -296,12 +290,12 @@ a ]{.NormalTextRun .SCXW177361333 .BCX8}[short tutorial]{.NormalTextRun
 .SCXW177361333 .BCX8}[ ]{.NormalTextRun .AdvancedProofingIssueV2
 .SCXW177361333 .BCX8}[ ]{.NormalTextRun .SCXW177361333 .BCX8}]{.TextRun
 .SCXW177361333 .BCX8 contrast="auto"}[ ]{.EOP .SCXW177361333 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
  
 
 [**Conclusion**]{.EOP .SCXW146057552 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 
 [[[We hope to have provided some inspiration in ]{.NormalTextRun
 .SCXW222105619 .BCX8}[facilitating]{.NormalTextRun .SCXW222105619
@@ -317,9 +311,9 @@ stay in control]{.NormalTextRun .SCXW222105619 .BCX8}[!]{.NormalTextRun
 .AdvancedProofingIssueV2 .SCXW222105619 .BCX8}[ ]{.NormalTextRun
 .AdvancedProofingIssueV2 .SCXW222105619 .BCX8}]{.TextRun .SCXW222105619
 .BCX8 contrast="auto"}[ ]{.EOP .SCXW222105619 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}]{.EOP
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}]{.EOP
 .SCXW146057552 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+ccp-props="{"201341983":0,"335559739":160,"335559740":259}"}
 :::
 :::
 :::

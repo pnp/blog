@@ -621,8 +621,10 @@ detailed.
 -   [GitHub issue
     list](https://github.com/MicrosoftDocs/microsoft-365-community/issues)
     with articles ideas
+
 ### SharePoint Framework development samples 
-{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/spfx-gallery.png" >}
+
+{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/spfx-gallery.png" >}}
 
 These are the updated SharePoint Framework samples which are available
 from the the different repositories.
@@ -861,7 +863,7 @@ get started on getting more closely involved on this initiative. 
 ### Sharing is Caring initiative 
 {{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/sharing-is-caring-promo-1024x576.png" >}}
 
-The \"Sharing Is Caring\" imitative is targeted for learning the basics
+The "Sharing Is Caring" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
 advantage of this instructor lead training for learning how to

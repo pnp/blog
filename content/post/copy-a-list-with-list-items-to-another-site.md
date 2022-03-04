@@ -15,8 +15,8 @@ draft: false
 
 Have you ever heard this from a client or colleague?
  
-> \"I have a list of data on this one site that I need to move to
-> another site.\"
+> "I have a list of data on this one site that I need to move to
+> another site."
 > 
 {{< image alt="sad-mario.png" src="images/blog/copy-a-list-with-list-items-to-another-site/sad-mario.png" >}}
  

@@ -48,7 +48,7 @@ BODY:
 ```
 {
     "url": "https://tenantname.sharepoint.com/sites/SiteName",
-    "peoplePickerInput": "[{\"Key\":\"user1@tenantname.onmicrosoft.com\"},{\"Key\":\"user2@tenantname.onmicrosoft.com\"}]",
+    "peoplePickerInput": "[{"Key":"user1@tenantname.onmicrosoft.com"},{"Key":"user2@tenantname.onmicrosoft.com"}]",
     "roleValue": "group:32"
 }
 ```
@@ -67,7 +67,7 @@ is `peoplePickerInput`
 `peoplePickerInput`: Used to
 give the list of Usernames that needs to be added the SharePoint Group.
 Its value is a JSON array of Key Value Pair
-(`{\"Key\":\"user1@tenantname.onmicrosoft.com\"}` where the Username is given the Value.
+(`{"Key":"user1@tenantname.onmicrosoft.com"}` where the Username is given the Value.
 
 `roleValue` : We will give the
 Id of the SharePoint Group to this value in the

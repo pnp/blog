@@ -12,7 +12,7 @@ draft: false
 
 
 Christos Mastkas returns to the show to talk with Jeremy and Paul about
-\"secretless\" applications and the latest on Azure.Identity.
+"secretless" applications and the latest on Azure.Identity.
 
 Listen to the show here:  [Secretless Apps with Christos Matskas
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/secretless-apps-with-christos-mastkas/)

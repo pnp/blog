@@ -99,8 +99,8 @@ JSON](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction
 Using the ARM template, you can go to Azure
 (<https://portal.azure.com>), note - this will require an [Azure
 Subscription](https://azure.microsoft.com/en-us/pricing?WT.mc_id=AZ-MVP-5003816).
-Search for \"custom template\" then find the option to \"Deploy a custom
-template\" as shown below:
+Search for "custom template" then find the option to "Deploy a custom
+template" as shown below:
 
 ![Deploy a template option in the Azure
 Portal](/t5/image/serverpage/image-id/245730iF209DBD4EA5B91A5/image-size/large?v=v2&px=999 "Deploy a custom template.jpg")
@@ -187,7 +187,7 @@ used, number of actions, and executions per month to ensure there are no
 unexpected bills at the end of each month.
 Typically, when you provision Azure Resource Groups (like folders - just
 one level ;)) that contain the Azure resources you can planning to
-deploy -- the advantage of this, there is a feature called \"Budgets\"
+deploy -- the advantage of this, there is a feature called "Budgets"
 which allow you to set up an alerting period, e.g. monthly that send
 notifications if the costings go over a budget, allowing you to assess
 the resource and optimise -- but to note this isn't a cap.

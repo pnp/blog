@@ -168,16 +168,16 @@ $scoreResults = $scoreResults | Sort-Object { $_.score } -Descending
 
 #Construct adaptive card
 $title = "‌‌ Most active team members"
-$scoreJson = '{   \"title\": \"‌‌ '+$($scoreResults[0].DisplayName)+'\",   \"value\": \"' + $($scoreResults[0].score) + '\"   }'
+$scoreJson = '{   "title": "‌‌ '+$($scoreResults[0].DisplayName)+'",   "value": "' + $($scoreResults[0].score) + '"   }'
 
 if($scoreResults[1]){
-    $scoreJson += ',{   \"title\": \"‌‌ '+$($scoreResults[1].DisplayName)+'\",   \"value\": \"' + $($scoreResults[1].score) + '\"   }'
+    $scoreJson += ',{   "title": "‌‌ '+$($scoreResults[1].DisplayName)+'",   "value": "' + $($scoreResults[1].score) + '"   }'
 }
 if($scoreResults[2]){
-    $scoreJson += ',{   \"title\": \"‌‌ '+$($scoreResults[2].DisplayName)+'\",   \"value\": \"' + $($scoreResults[2].score) + '\"   }'
+    $scoreJson += ',{   "title": "‌‌ '+$($scoreResults[2].DisplayName)+'",   "value": "' + $($scoreResults[2].score) + '"   }'
 }
 
-$card = '{ \"type\": \"AdaptiveCard\", \"$schema\": \"http://adaptivecards.io/schemas/adaptive-card.json\", \"version\": \"1.2\", \"body\": [  {  \"type\": \"TextBlock\",  \"text\": \"' + $($title) + '\",  \"wrap\": true,  \"size\": \"Medium\",  \"weight\": \"Bolder\",  \"color\": \"Attention\"  },  {  \"type\": \"TextBlock\",  \"wrap\": true,  \"text\": \"Week ' + $(get-date -UFormat %V) + '\",  \"fontType\": \"Default\",  \"size\": \"Small\",  \"weight\": \"Lighter\",  \"isSubtle\": true  },  {  \"type\": \"FactSet\",  \"facts\": [   ' + $scoreJson + '  ]  } ] }'
+$card = '{ "type": "AdaptiveCard", "$schema": "http://adaptivecards.io/schemas/adaptive-card.json", "version": "1.2", "body": [  {  "type": "TextBlock",  "text": "' + $($title) + '",  "wrap": true,  "size": "Medium",  "weight": "Bolder",  "color": "Attention"  },  {  "type": "TextBlock",  "wrap": true,  "text": "Week ' + $(get-date -UFormat %V) + '",  "fontType": "Default",  "size": "Small",  "weight": "Lighter",  "isSubtle": true  },  {  "type": "FactSet",  "facts": [   ' + $scoreJson + '  ]  } ] }'
 
 m365 adaptivecard send --url $webhookUrl --card $card
 ```

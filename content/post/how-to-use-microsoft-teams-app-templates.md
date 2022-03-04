@@ -160,7 +160,7 @@ from Power App admin portal.
 App](/t5/image/serverpage/image-id/246116i18DE9014E96E203F/image-size/large?v=v2&px=999 "Screenshot 2021-01-13 175255.png")
 
 After import is complete, you can create a Teams app package for created
-Power App by selecting \"*Add to Teams*\". Fill-out details and click
+Power App by selecting "*Add to Teams*". Fill-out details and click
 Download app.
 
 ![Download Teams app package for a Power
@@ -176,18 +176,18 @@ Apps portal or created following deployment guide, you can install it to
 Teams. Depending on your tenant's configuration, there is two options
 for installing an app. With sideloading you can upload the app to you or
 your team. App is not available for anyone else in your tenant. To
-sideload an app open \"Apps\" in botton left corner on Teams client,
-click \"*Upload a custom app*\" and select \"*Upload for me or my
-teams*\". If the option is not available for you, sideloading is
+sideload an app open "Apps" in botton left corner on Teams client,
+click "*Upload a custom app*" and select "*Upload for me or my
+teams*". If the option is not available for you, sideloading is
 disabled. Configure the app and you're done.
 
 ![Add an app to
 Teams](/t5/image/serverpage/image-id/246124iEB526EE86024F4F9/image-size/large?v=v2&px=999 "2021-01-13_18-13-21.png")
 
 
-For uploading an app to your whole tenant, select \"*Upload a custom
-app*\" and select \"*Upload for \<your tenant name>*\". App will appear
-on \"*Built for \<your tenant name>\"* section on Apps. Other option is
+For uploading an app to your whole tenant, select "*Upload a custom
+app*" and select "*Upload for \<your tenant name>*". App will appear
+on "*Built for \<your tenant name>"* section on Apps. Other option is
 to upload your app on Teams Admin Center's app catalog. After uploading
 an app, it will be available for your users.
 

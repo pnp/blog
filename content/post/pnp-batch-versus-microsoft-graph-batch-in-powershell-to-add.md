@@ -27,12 +27,12 @@ Graph](https://docs.microsoft.com/en-us/graph/throttling) can handle
 huge volume of requests and could help with my scenario. Unfortunately,
 at random intervals I was getting errors like 
 
-\"Invoke-WebRequest : The underlying connection was closed: A connection
-that was expected to be kept alive was closed by the server\"
+"Invoke-WebRequest : The underlying connection was closed: A connection
+that was expected to be kept alive was closed by the server"
 {{< image alt="reshmeeauckloo_0-1631898450004.png" src="images/blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/reshmeeauckloo_0-1631898450004.png" >}}
 and 
-\"Invoke-webRequest : The remote server returned an error: (401)
-Unauthorized\" 
+"Invoke-webRequest : The remote server returned an error: (401)
+Unauthorized" 
 {{< image alt="reshmeeauckloo_1-1631898461413.png" src="images/blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/reshmeeauckloo_1-1631898461413.png" >}}
 I used a retry mechanism in case of failure to re-establish the
 connection to continue the operation. To my dismay even if the script
@@ -48,8 +48,8 @@ to create 10k items in the SharePoint Online list but only around 4k
 items were created despite the script completed successfully in around 2
 minutes. 
 Below is a screenshot of the results of running the script which resumed
-the operation in case of errors like \"The underlying connection was
-closed\".
+the operation in case of errors like "The underlying connection was
+closed".
 {{< image alt="reshmeeauckloo_0-1631978767171.png" src="images/blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/reshmeeauckloo_0-1631978767171.png" >}}
 
 Microsoft Graph batch script

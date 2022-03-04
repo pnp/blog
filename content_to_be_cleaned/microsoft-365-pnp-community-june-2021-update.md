@@ -5,15 +5,6 @@ author: "Vesa Juvonen"
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-june-2021-update/pnp-june-promo-summary.png
-- images/blog/microsoft-365-pnp-community-june-2021-update/pnp-community-model.png
-- images/blog/microsoft-365-pnp-community-june-2021-update/graph-toolkit.jpg
-- images/blog/microsoft-365-pnp-community-june-2021-update/community-dcos.png
-- images/blog/microsoft-365-pnp-community-june-2021-update/spfx-gallery.png
-- images/blog/microsoft-365-pnp-community-june-2021-update/teams-samples-promo.jpg
-- images/blog/microsoft-365-pnp-community-june-2021-update/power-platform-samples.png
-- images/blog/microsoft-365-pnp-community-june-2021-update/script-gallery.png
-- images/blog/microsoft-365-pnp-community-june-2021-update/sharing-is-caring-promo-1024x576.png
-- images/blog/microsoft-365-pnp-community-june-2021-update/may-2021-compaies.png
 tags: []
 type: "regular"
 draft: false
@@ -1703,7 +1694,7 @@ the new Power Platform sample gallery.
     by [Fabio Franzini](https://github.com/fabiofranzini) implementing a
     custom theme (for tablet layout) to apply the style of the Fluent UI
     controls to the canvas controls with extensive modification of the
-    \"Default Theme\" inside the `theme.json` file.
+    "Default Theme" inside the `theme.json` file.
 -   New
     sample [custom-font-samples](https://github.com/pnp/powerapps-samples/tree/main/samples/custom-font-samples)
     by [Matthew Devaney](https://twitter.com/mattbdevaney) (Hitachi
@@ -1735,7 +1726,7 @@ get started on getting more closely involved on this initiative. 
 -   Microsoft 365 Script Samples - <https://aka.ms/script-samples>
 ### Sharing is Caring initiative 
 {{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-june-2021-update/sharing-is-caring-promo-1024x576.png" >}}
-The \"Sharing Is Caring\" imitative is targeted for learning the basics
+The "Sharing Is Caring" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
 advantage of this instructor lead training for learning how to

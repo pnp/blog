@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-{{< image alt="Head pic for article \"Start debugging your Power App\"" src="images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png" >}}
+{{< image alt="Head pic for article "Start debugging your Power App"" src="images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png" >}}
 
 ## Make troubleshooting and understanding single elements easier
 

@@ -749,7 +749,7 @@ and community samples.
 ### Sharing is Caring initiative 
 {{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-april-2021-update/sharing-is-caring-promo-1024x576.png" >}}
 
-The \"Sharing Is Caring\" imitative is targeted for learning the basics
+The "Sharing Is Caring" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
 advantage of this instructor lead training for learning how to
@@ -879,12 +879,12 @@ last monthly summary:
     libraries](https://www.youtube.com/watch?v=K7IodsvoN-A) - [Mikael
     Svenson](https://twitter.com/mikaelsvenson) (Microsoft) \|
     [\@MikaelSvenson](/t5/user/viewprofilepage/user-id/734173)
--   [Jeff Teper's Beatles-inspired \"SharePoint at 20\" birthday
+-   [Jeff Teper's Beatles-inspired "SharePoint at 20" birthday
     singalong
     :birthday_cake::guitar:](https://www.youtube.com/watch?v=4oCGiR9CDUU) -
     [Jeff Teper](https://twitter.com/jeffteper) (Microsoft)
     \| \@jeffteper
--   [\"Happy Birthday, SharePoint\" :birthday_cake:: 20 years
+-   ["Happy Birthday, SharePoint" :birthday_cake:: 20 years
     young](https://www.youtube.com/watch?v=KLPF6zFqBts) - Microsoft
 -   [SharePoint at 20
     :birthday_cake:](https://www.youtube.com/watch?v=VLyJqSDZYVM) -

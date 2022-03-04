@@ -5,11 +5,6 @@ author: "Luise Freese"
 categories: ["Microsoft Graph"]
 images:
 - images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphAccessTokenTicket.png
-- images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFunAuth.png
-- images/blog/microsoft-graph-fundamentals-learning-path-module-2/appreg.png
-- images/blog/microsoft-graph-fundamentals-learning-path-module-2/auth.gif
-- images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphApp.png
-- images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFun-didit2.png
 tags: []
 type: "regular"
 draft: false
