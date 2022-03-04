@@ -1,17 +1,15 @@
 ---
-title: "Getting Started with Azure Shell and PnP PowerShell with Certificates"
+title: "Learn to debug your Power Apps"
 date: 2021-04-25T08:40:00-04:00
 author: "Michael Roth"
 categories: ["Power Apps"]
 images:
-
+- images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
-{{< image alt="Head pic for article "Start debugging your Power App"" src="images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png" >}}
+{{< image alt="Start debugging your Power App" src="images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png" >}}
 
 ## Make troubleshooting and understanding single elements easier
 
