@@ -16,7 +16,7 @@ draft: false
 Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
 is great, I use it for all my command line work. It automatically
 detects new shells that are installed on your system, like the shell for
-Ubuntu or PowerShell Core 7. Unfortunately, it doesn\'t detect the
+Ubuntu or PowerShell Core 7. Unfortunately, it doesn't detect the
 Developer Command Prompt and Developer PowerShell for Visual Studio.
 Luckily, you can add them yourself!
 

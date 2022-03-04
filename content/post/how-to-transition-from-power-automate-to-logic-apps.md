@@ -16,7 +16,7 @@ draft: false
 
 Hello, are you looking to understand the differences between Power
 Automate and Azure Logic Apps -- or not sure what each of these does and
-when to use them? Well, you have come to the right place. Let\'s go
+when to use them? Well, you have come to the right place. Let's go
 through these, to understand the differences and similarities and to
 look at how you can transition between them.
 
@@ -75,7 +75,7 @@ in the documentation.
 
 ##  Transitioning from Power Automate to Logic Apps 
 
-So, let\'s see moving a Flow from Power Automate to Logic Apps. In this
+So, let's see moving a Flow from Power Automate to Logic Apps. In this
 scenario, in Power Automate, a Flow has been created to trigger when a
 SharePoint list item, get property from my Office 365 profile and Email
 me when the item has changed (btw, this is available as a template), the
@@ -128,7 +128,7 @@ Apps](https://docs.microsoft.com/en-us/azure/logic-apps/export-from-microsoft-fl
 ## Why would you transition from Power Automate to Logic Apps?
 
 
-It\'s a good question. There are many factors that could influence the
+It's a good question. There are many factors that could influence the
 decision to move, such as:
 
 -   You need to connect to Azure resources that would require Premium
@@ -190,7 +190,7 @@ one level ;)) that contain the Azure resources you can planning to
 deploy -- the advantage of this, there is a feature called \"Budgets\"
 which allow you to set up an alerting period, e.g. monthly that send
 notifications if the costings go over a budget, allowing you to assess
-the resource and optimise -- but to note this isn\'t a cap.
+the resource and optimise -- but to note this isn't a cap.
 ![Azure Resource Group with the Budget settings
 screen](/t5/image/serverpage/image-id/245733i2AF4B31FA4C461DD/image-size/large?v=v2&px=999 "Azure Budget.jpg")
 Azure Logic apps also have the option of Integrated Service

@@ -18,17 +18,17 @@ interaction*? Then this article is for you.
 A *simple interaction* could be an answer to a question you asked:
 
 -   **You:** *What time is it?*
--   **Bot:** *It\'s 3.56PM*
+-   **Bot:** *It's 3.56PM*
 
 You could achieve this (and more) by building a bot using tools such as
 Power Virtual Agents or Bot Framework, but that is a little overkill for
 a simple interaction.
 
-Instead, let\'s use **Webhooks** to achieve this.
+Instead, let's use **Webhooks** to achieve this.
 
 ## The idea 
 
-Before we begin, let\'s fictionalise a use case. The idea is that users
+Before we begin, let's fictionalise a use case. The idea is that users
 need to quickly be able to check the current and forecasted for any
 location from within a Team.
 
@@ -48,7 +48,7 @@ follows:
 3.  The external service (Bot) will call a weather API and then return
     the weather information to the Team channel
 
-Let\'s break this down by component.
+Let's break this down by component.
 
 ###  Webhook 
 

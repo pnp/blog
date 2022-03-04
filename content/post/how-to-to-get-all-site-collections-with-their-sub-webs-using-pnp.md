@@ -14,7 +14,7 @@ draft: false
 Sometimes we have a business requirement to get site collections with
 all the sub-webs so we can achieve the solution easily using PnP
 Powershell.
-Let\'s see step-by-step implementation:
+Let's see step-by-step implementation:
 
 ## Implementation 
 Open Windows Powershell ISE\

@@ -29,7 +29,7 @@ I can simply flag an email in Outlook and take the conversation onto
 Teams.
 With the variables provided by the email trigger, I compose (by default)
 the to and from fields in order to get all mail recipients (albeit you
-may want to include the CC\'d emails to) and simply replace the semi
+may want to include the CC'd emails to) and simply replace the semi
 colon with a comma, this is needed for the final and only other step.
 Using the "Post your own adaptive card as the Flow bot to a user" step,
 I am able to send an adaptive card notification in Teams to myself and
@@ -56,16 +56,16 @@ youremail\[at\]yourdomain\[dot\]com***.
 
 The cloud flow only has 2 actions
 The flow simply consists of a compose action in order to structure the
-list of emails from the email trigger, above I don\'t include the cc\'d
-emails.  You\'ve therefore a couple options for the get group email
-compose action, do you want to include cc\'d or not in the Group Chat
+list of emails from the email trigger, above I don't include the cc'd
+emails.  You've therefore a couple options for the get group email
+compose action, do you want to include cc'd or not in the Group Chat
 Deep Link?  The below sample snippet expression includes the
 ccRecipients, but feel free to adjust as necessary.
 ``` {.lia-code-sample .language-json}
 replace(tolower(concat(triggerOutputs()?[‘body/toRecipients’], ‘;’, triggerOutputs()?[‘body/from’], ‘;’, triggerOutputs()?[‘body/ccRecipients’])), ‘;’, ‘,’)
 ```
 The second and final step is an adaptive card built via [adaptive cards
-designer](https://adaptivecards.io/samples/).  It\'s a steep learning
+designer](https://adaptivecards.io/samples/).  It's a steep learning
 curve but Designer site gives you plenty of sample cards to experiment
 with and it is here that you need to include the [deep
 links](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/deep-links#generating-a-deep-link-to-a-chat) to
@@ -85,7 +85,7 @@ chat.  
 
 Clicking on that Group DM in Teams button results in an opening
 conversation line and conversation subject (in draft), all courtesy of
-the deep link.  Now it\'s time to get the conversation going.
+the deep link.  Now it's time to get the conversation going.
 {{< image alt="DamoBird365_3-1619420755529.png" src="images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_3-1619420755529.png" >}}
 
 **Want to try the solution quickly?**
@@ -108,7 +108,7 @@ your own email address to receive the Adaptive Card.
 
 Get that internal conversation moved from traditional Email into modern
 Teams.  Not all conversation is better suited to Teams, I accept, but
-it\'s often far more productive to have the order of conversation in
+it's often far more productive to have the order of conversation in
 front of you, expecially if you have had a couple days off.  If a
 colleague has taken the initiative to shift a conversation into Teams,
 it will save the group a lot of effort having to sift through that email
@@ -116,14 +116,14 @@ string and potentially allows you to work in real time seeing if someone
 is available/online, rather than wait for that next email to come in or
 maybe a couple of people reply to that email at the same time with a
 different
-opinion -  I\'ve enjoyed working with you email, but Teams
+opinion -  I've enjoyed working with you email, but Teams
 messaging is my preferred internal conversation route these days if I
-can\'t start a call of course.
+can't start a call of course.
 What trigger would suit you best?
 
-Would you include To/From or CC\'d members too in your Group Email?
+Would you include To/From or CC'd members too in your Group Email?
 
 Have you used Teams Deep Links before?
 Check out [my blog](https://damobird365.birdhoose.co.uk/) for more ideas
-or if you have an idea of your own but don\'t know where to start, give
+or if you have an idea of your own but don't know where to start, give
 me a shout via the various platforms - DamoBird365

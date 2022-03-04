@@ -115,7 +115,7 @@ to seeing some of you in Düsseldorf or Las Vegas later this year. 
     part build** -- this SPFx React My Outlook Events web part uses
     event feeds and renders events using a look and feel consistent with
     the out-of-box SharePoint Group calendar/events web part.  This web
-    part provides the logged in user\'s Outlook events with some
+    part provides the logged in user's Outlook events with some
     advanced feature configuration -- layouts for rendering single and
     multi-day events, selectable date range, and navigation direct to
     Teams meeting. Full code walkthrough. 

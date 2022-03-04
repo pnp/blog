@@ -19,7 +19,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
 \@vesajuvonen, [Waldek
 Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
 joined by London-based Products and Services Director at Content+Cloud
-and Microsoft MVP [Chris O\'Brien](http://twitter.com/ChrisO_Brien) \|
+and Microsoft MVP [Chris O'Brien](http://twitter.com/ChrisO_Brien) \|
 \@ChrisO_Brien.  Topics discussed in this session include: 
 Organizational coder vs influencer, work-life balance and
 prioritization, the importance of sustained focus, Partner opportunity
@@ -73,7 +73,7 @@ everyone for your contributions to the community!
 
 
 **Community articles:**
--   [Getting started with SharePoint\'s custom view
+-   [Getting started with SharePoint's custom view
     formatting](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-s-custom-view-formatting/ba-p/2222740)
     -- [Will Holland](http://twitter.com/_wcholland) (ThreeWill) \|
     \@\_wcholland

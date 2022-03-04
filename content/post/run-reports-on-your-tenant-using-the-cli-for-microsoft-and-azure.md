@@ -64,7 +64,7 @@ identity we need to make sure that it has the correct permissions. The
 [CLI for Microsoft 365
 docs](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity/#configure-api-permissions)
 explain in details what the steps are required. For our reporting
-scenario\'s we need support to query the Graph and SharePoint. You can
+scenario's we need support to query the Graph and SharePoint. You can
 use the CLI for Microsoft 365 to easily hand out the permissions you
 need with the following snippet: 
  

@@ -104,7 +104,7 @@ takes place in chat throughout and live at end of the call.   
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
 {{< image alt="220110-together-mode.gif" src="images/blog/microsoft-365-platform-call-11th-of-january-2022/220110-together-mode.gif" >}}
-It\'s clear, we need a larger room here.  The house is full!  Thank you
+It's clear, we need a larger room here.  The house is full!  Thank you
 everybody for joining the call today.    
 **Demos** delivered in this session
 

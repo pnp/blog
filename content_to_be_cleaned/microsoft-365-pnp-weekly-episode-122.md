@@ -763,7 +763,7 @@ everyone for your contributions to the community!\
 -   [Microsoft Graph Fundamentals learning path -- Module
     3](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-3/ba-p/2258845) - [Luise
     Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
--   [\'LearnTogether Building apps with Microsoft Graph\'
+-   ['LearnTogether Building apps with Microsoft Graph'
     event](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-watchparty-for-microsoft-s-learntogether-building-apps-with/ba-p/2257217)
     - [Luise Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
 -   [Microsoft Graph Learn Together Event -- Join Our APAC Watch

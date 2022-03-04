@@ -55,7 +55,7 @@ throughout call
     platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-signing-key-rollover) 
 
 -   Documentation - [How to: Build services that are resilient to Azure
-    AD\'s OpenID Connect metadata
+    AD's OpenID Connect metadata
     refresh](https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-build-services-resilient-to-metadata-refresh) 
 
 -   Documentation -- [Microsoft identity platform access

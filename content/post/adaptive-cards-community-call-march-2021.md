@@ -14,7 +14,7 @@ draft: false
 {{< image alt="THumbnailTitleSlide.png" src="images/blog/adaptive-cards-community-call-march-2021/THumbnailTitleSlide.png" >}}
 
 
-In this month\'s community call, there is
+In this month's community call, there is
 - a quick roadmap update -- 9
 features in development to be delivered in Schema versions 1.4, 1.5, 1.6
 over the next 3 months.

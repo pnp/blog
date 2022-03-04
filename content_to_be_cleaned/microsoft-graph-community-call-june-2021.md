@@ -663,7 +663,7 @@ alt="Message contains a video" aria-label="Contains a video" role="img"}
 
  
 
-This month\'s community call features presentations on Assignment Graph
+This month's community call features presentations on Assignment Graph
 API (v1.0 will be released to Microsoft Teams EDU tenants within days),
 Dev Tips and Tricks with Microsoft Graph (save coding time with 2 VS
 Code Extensions), and Microsoft Graph Data Connect (extracting

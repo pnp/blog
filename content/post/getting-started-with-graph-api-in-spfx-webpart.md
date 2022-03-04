@@ -63,11 +63,11 @@ checkbox and Accept it.
  
 {{< image alt="AcceptPermission.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/AcceptPermsiion.png" >}}
 
-Then click on the run query and it will retrieve the results. that\'s
+Then click on the run query and it will retrieve the results. that's
 it :)
  
  
-Now lets\' move to the SPFx implementation.
+Now lets' move to the SPFx implementation.
  
 ## Implementation 
  

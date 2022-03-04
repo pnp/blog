@@ -34,17 +34,17 @@ notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v360).
 
 ### Ensure SharePoint site
 When building provisioning scripts, you often need to check if a
-particular site already exists. If it doesn\'t, you need to create it.
+particular site already exists. If it doesn't, you need to create it.
 If it does, you need to check if it has the necessary settings.
 Depending what exactly you need to check, this logic can become pretty
-elaborate. If you need to create a couple of sites, you\'re quickly
+elaborate. If you need to create a couple of sites, you're quickly
 looking at lengthy scripts that you not only need to write but also
 maintain.
 
 To help you easily ensure that sites with the right configuration
 exists, we introduce the `spo site ensure` command. Using this command,
 you can for example easily ensure that a site exists at the specified
-URL and create one if it doesn\'t:
+URL and create one if it doesn't:
 ``` sh
 m365 spo site ensure --url https://contoso.sharepoint.com/sites/team1 --alias team1 --title "Team 1"
 ```      
@@ -54,24 +54,24 @@ right type and properties:
 m365 spo site ensure --url https://contoso.sharepoint.com/sites/team1 --alias team1 --title "Team 1" --isPublic --shareByEmailEnabled
 ``
 This is the first `ensure` command that we introduce in CLI for
-Microsoft 365. We\'d love you to give it a try and tell us what you
-think. For more information about what\'s possible, see the [command\'s
+Microsoft 365. We'd love you to give it a try and tell us what you
+think. For more information about what's possible, see the [command's
 documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-ensure/).
 
 ### Configure SharePoint site chrome
 Microsoft is continuously investing in modernizing SharePoint. With
 every update, we get more features to build rich portals in a robust and
 future-ready way. One of the recently introduced features is site chrome
-that allows you to control how the site\'s header and footer look like.
+that allows you to control how the site's header and footer look like.
  
 In this version of CLI for Microsoft 365, we introduce a command that
-allows you to control site\'s chrome.
-To show site\'s header in compact mode, execute:
+allows you to control site's chrome.
+To show site's header in compact mode, execute:
 ``` sh
 m365 spo site chrome set --url https://contoso.sharepoint.com/sites/project-x --headerLayout Compact
 ```
  
-To show site\'s header in extended mode and align the logo to the right,
+To show site's header in extended mode and align the logo to the right,
 execute:
 ``` sh
 m365 spo site chrome set --url https://contoso.sharepoint.com/sites/project-x  --headerLayout Extended --logoAlignment Right
@@ -82,7 +82,7 @@ To disable the footer, execute:
 m365 spo site chrome set --url https://contoso.sharepoint.com/sites/project-x --disableFooter true
 ```
  
-For the full list of supported settings, see the [command\'s
+For the full list of supported settings, see the [command's
 documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-chrome-set/).
  
 ### Copy SharePoint pages and page templates
@@ -90,7 +90,7 @@ When working with pages and page templates, you might want to copy
 specific pages or page templates in bulk. The easiest way to automate
 it, is using CLI for Microsoft 365.
  
-In this version we introduce a command that let\'s you copy the
+In this version we introduce a command that let's you copy the
 specified page or page template. To copy a page template, execute:
 ``` sh
 m365 spo page copy --webUrl https://contoso.sharepoint.com/sites/team-a --sourceName "templates/PageTemplate.aspx" --targetUrl "page.aspx"
@@ -100,7 +100,7 @@ To copy a page to another site, execute:
 m365 spo page copy --webUrl https://contoso.sharepoint.com/sites/team-a --sourceName "templates/PageTemplate.aspx" --targetUrl "https://contoso.sharepoint.com/sites/team-b/sitepages/page.aspx"
 ```
  
-For the full list of supported options, see the [command\'s
+For the full list of supported options, see the [command's
 docs](https://pnp.github.io/cli-microsoft365/cmd/spo/page/page-copy/).
  
 ### Manage Power Apps
@@ -150,25 +150,25 @@ the automatically opened login page will give you a smooth login
 experience without having to copy & paste device code.
  
 From that point on, CLI for Microsoft 365 will work exactly the same way
-you\'re used to it, allowing you to run scripts and automate managing
+you're used to it, allowing you to run scripts and automate managing
 your tenant.
  
 #### Improved managing SharePoint pages and sites 
 
 CLI for Microsoft 365 is a great tool for automating managing your
-Microsoft 365 tenant and SharePoint Framework projects. It\'s also great
+Microsoft 365 tenant and SharePoint Framework projects. It's also great
 as an engine to build other tools on top!
  
 Elio Struyf has build a static site generator for SharePoint named
 [Doctor](https://github.com/estruyf/doctor). If you want to author
 product documentation or a knowledgebase in Markdown but publish it to
 SharePoint, Doctor is the tool for the job! As Elio is extending Doctor
-with new capabilities, he\'s contributed a number of enhancements to
+with new capabilities, he's contributed a number of enhancements to
 managing pages and sites with CLI for Microsoft 365.
  
 #### Improved creating Azure AD apps 
 
-Recently we\'ve introduced an [easy way to create Azure AD
+Recently we've introduced an [easy way to create Azure AD
 apps](https://pnp.github.io/cli-microsoft365/cmd/aad/app/app-add/) with
 CLI for Microsoft 365. With just one line of code, you can create an app
 registration full configured to support your scenario.
@@ -177,7 +177,7 @@ In this version of CLI for Microsoft 365, we extended the command so
 that it returns the ID of your Azure AD directory, which you need to
 include in your code when building single-tenant apps.
  
-We\'ve also improved the mechanism to lookup service principal in cases
+We've also improved the mechanism to lookup service principal in cases
 where their names end with a `/` (slash).
 
 #### Simplified retrieving access token for SharePoint 
@@ -194,7 +194,7 @@ m365 util accesstoken get --resource sharepoint
 ```
  
 Rather than having to specify the full URL of your SharePoint tenant,
-you can use `sharepoint` instead. It\'s that easy! Are there any other
+you can use `sharepoint` instead. It's that easy! Are there any other
 aliases that we should add?
  
 ### Sample scripts
@@ -222,7 +222,7 @@ a JSON fil
  
 ## Contributors
 
-This release wouldn\'t be possible without the help of (in alphabetical
+This release wouldn't be possible without the help of (in alphabetical
 order) [Hugo Bernier](https://github.com/hugoabernier), [Luise
 Freese](https://github.com/LuiseFreese), [Patrick
 Lamber](https://github.com/plamber), [Waldek
@@ -256,15 +256,15 @@ different workloads in Microsoft 365.
  
 ### Improved managing SharePoint pages
 Microsoft keeps investing in modern SharePoint pages continuously
-introducing new capabilities to let us publish rich content. We\'re
+introducing new capabilities to let us publish rich content. We're
 looking into extending our support for managing modern SharePoint pages
 to let you use them to their full potential.
  
 ### Improved creating Azure AD apps
 
 
-Recently, we\'ve introduced a command to easily create Azure AD app
-registrations. Because they\'re backbone of every app you\'d build on
+Recently, we've introduced a command to easily create Azure AD app
+registrations. Because they're backbone of every app you'd build on
 Microsoft 365, we think you should be able to create them as easily as
 possible. So with CLI for Microsoft 365, you can create a fully
 configured Azure AD app for the most common scenarios with just one line
@@ -289,11 +289,11 @@ that we can learn more about the common automation scenarios.
 
 ### `ensure` commands 
 
-We\'ve just shipped our first `ensure` command - an easy way to help you
-that a site with specific settings exists. If it doesn\'t, CLI creates
+We've just shipped our first `ensure` command - an easy way to help you
+that a site with specific settings exists. If it doesn't, CLI creates
 it for you, if it does, CLI ensures it has the right properties. All in
-one line of code. We\'d love to hear from you how you like it and if
-it\'s something you\'d like us to implement for other commands as well.
+one line of code. We'd love to hear from you how you like it and if
+it's something you'd like us to implement for other commands as well.
 
 ## Try it today
 

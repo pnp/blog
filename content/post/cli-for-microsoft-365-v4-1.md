@@ -12,7 +12,7 @@ draft: false
 
 {{< image alt="1" src="images/blog/cli-for-microsoft-365-v4-1/CLI for Microsoft 365 v4.1" >}}
  
-We\'ve just published a new version of the CLI for Microsoft 365 with
+We've just published a new version of the CLI for Microsoft 365 with
 new commands for working with and managing Microsoft 365 tenants and
 SharePoint Framework projects on any platform.
  
@@ -57,7 +57,7 @@ m365 spfx project upgrade --output md > report.md
 ```
  
  
-We\'d also recommend that you try a richer upgrade report based on the
+We'd also recommend that you try a richer upgrade report based on the
 Visual Studio Code CodeTour extension:
  
  
@@ -73,7 +73,7 @@ documentation](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-u
 ### Updates information of a specified Azure AD user 
  
 User management is one of the core activities of every Microsoft 365
-tenant admin. We\'ve introduced a new command that enables you to update
+tenant admin. We've introduced a new command that enables you to update
 Azure AD users properties and the ability to enable or disable those
 accounts.
  

@@ -179,7 +179,7 @@ slides.
     sample](https://github.com/PiaSys/Conferences-Samples/tree/master/PnP-Core-SDK/PnPCoreSDKQueryModel01) 
 
 -   [PnP Weekly -- Episode 126] with MVP
-    [guest ][D\'arce
+    [guest ][D'arce
     Hess](https://twitter.com/DarceHess)[ (TrnDigital) \| @ DarceHess\|
     ][video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-126-d-arce-hess/ba-p/2341130)[
     \|
@@ -264,7 +264,7 @@ slides.
 -   **Adaptive Cards monthly call --** June 10th at 9:00 am PDT \|
     <https://aka.ms/adaptivecardscommunitycall>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
-targeted at anyone who\'s interested in the general Microsoft 365
+targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Microsoft Flow, PowerApps, Column Formatting, list

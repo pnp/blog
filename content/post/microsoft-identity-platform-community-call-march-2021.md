@@ -24,7 +24,7 @@ throughout call. 
 
 **In-depth topic:**
 
-**Microsoft Identity platform - Do\'s and Don\'t. ** Based on extensive
+**Microsoft Identity platform - Do's and Don't. ** Based on extensive
 hands-on experience with enterprise customers - developers, ISVs, and
 Partners pushing the limits of the identity platform on application
 integration, the Microsoft presenters Harish Suresh and Sahil Malik call

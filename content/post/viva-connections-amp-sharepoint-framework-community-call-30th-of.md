@@ -113,7 +113,7 @@ soon. ]
     view) for logged-in user's associated plans, deep links to specific
     tasks directly in Planner, and filters tasks based on selected
     plan.  Uses aysnc dropdown property pane field to fetch current
-    user\'s associated plans and Microsoft Graph to get plans and
+    user's associated plans and Microsoft Graph to get plans and
     tasks.  Submit action handling in ACE and Quick View, view multiple
     tasks within a single Adaptive Card. 
 

@@ -26,7 +26,7 @@ include certificates and an Azure AD App in this article.
  
 ## What you will need
 
-So, let\'s get started; you will need a few things to get going,
+So, let's get started; you will need a few things to get going,
 
 -   **Azure Subscription** - this is necessary for a storage account
     that preserves your files between sessions and is mandatory for
@@ -49,7 +49,7 @@ Shell, Azure AD App and Certificates.
  
 ### Activate Azure Shell 
 
-First, let\'s go ahead and activate the Azure Shell; we will use this to
+First, let's go ahead and activate the Azure Shell; we will use this to
 set up the required resources as well:
 Navigate to <https://shell.azure.com> or click on the icon in the Azure
 Portal.
@@ -63,7 +63,7 @@ Select PowerShell. Then run through the first setup of the Azure Shell:
 {{< image alt="Simple setup screen for storage" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Simple setup screen for storage.png" >}}
 
 If you choose `Create storage` at this point, then this will set up
-the storage account and resource group for you, using Azure\'s naming
+the storage account and resource group for you, using Azure's naming
 standards and region. If you want to specify:
 
 -   Subscription
@@ -159,7 +159,7 @@ So why are use an Azure AD app? Using the Azure Shell restricts some
 authentication options when connecting to services with PnP PowerShell,
 such as interactive login, because it cannot display a pop-up window.
  
-{{< image alt="Azure Shell - doesn\'t support interactive login" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/PnP PowerShell - cannot use Azure Shell.png" >}}
+{{< image alt="Azure Shell - doesn't support interactive login" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/PnP PowerShell - cannot use Azure Shell.png" >}}
 
 The `-PnPManagementShell` parameter is an option; this uses the device
 login method BUT will require you to navigate to another site/page to

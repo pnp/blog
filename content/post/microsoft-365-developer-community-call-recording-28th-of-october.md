@@ -124,7 +124,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 -- Thank you :clapping_hands:
 **Together Mode!**
 {{< image alt="211028-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-28th-of-october/211028-together-mode.gif" >}}
-Are there ghosts or shadows occupying seats in this week\'s Together
+Are there ghosts or shadows occupying seats in this week's Together
 Mode photo?  Mention during call about people \"beaming up/down\" to the
 theater today?  
 **Demos** delivered in this session
@@ -320,7 +320,7 @@ slides.
 -   **Microsoft Identity Platform call --** November 18th at 9:00 am
     PDT \| <https://aka.ms/IDDevCommunityCalendar>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
-targeted at anyone who\'s interested in the general Microsoft 365
+targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Microsoft Flow, PowerApps, Column Formatting, list

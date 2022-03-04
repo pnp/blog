@@ -29,7 +29,7 @@ here](https://livebook.manning.com/#!/book/code-like-a-pro-in-c-sharp/discussion
 [Jort Rodenburg on
 LinkedIn](https://www.linkedin.com/in/jort-rodenburg/)
 
-[Jort\'s blog](https://www.jortrodenburg.com/)
+[Jort's blog](https://www.jortrodenburg.com/)
 
 ## Microsoft News 
 

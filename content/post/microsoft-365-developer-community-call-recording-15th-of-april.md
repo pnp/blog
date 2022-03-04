@@ -75,7 +75,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 -   Looking for Samples!  Please share your good work  
 {{< image alt="210415-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-15th-of-april/210415-together-mode.gif" >}}
 
-**It\'s together time - Super comfy seats!     **
+**It's together time - Super comfy seats!     **
 **Demos** delivered in this session
 
 -   **SharePoint Content Type APIs in Microsoft Graph** - Classic
@@ -258,7 +258,7 @@ slides.
 -   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT \|
     <https://aka.ms/adaptivecardscommunitycall>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
-targeted at anyone who\'s interested in the general Microsoft 365
+targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Microsoft Flow, PowerApps, Column Formatting, list

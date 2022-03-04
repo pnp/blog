@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-This week, I had the great pleasure to attend Microsoft\'s Learn
+This week, I had the great pleasure to attend Microsoft's Learn
 Together: Build apps for Microsoft Graph event. I also did sketchnotes
 of the event, you may find high resolution files (images, gifs and mp4)
 are [available here on

@@ -51,7 +51,7 @@ Microsoft Build 2021
 -   [All
     Sessions](https://www.youtube.com/playlist?list=PLlrxD0HtieHgMGEnTzEEfkADbaG8aAWRp)
 
-[Join us to see what\'s next for
+[Join us to see what's next for
 Windows](https://www.microsoft.com/en-us/windows/event)
 
 ### Community Links 

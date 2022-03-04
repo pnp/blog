@@ -27,7 +27,7 @@ you for being part of this success. *Sharing is caring!*
 365 Community activities coordinated by numerous teams inside of the
 Microsoft 365 engineering organizations. PnP is a community-driven open
 source initiative where Microsoft and external community members are
-sharing their learning\'s around implementation practices for Microsoft
+sharing their learning's around implementation practices for Microsoft
 365. Topics vary from Microsoft Graph, Microsoft Teams, OneDrive and
 SharePoint. Active development and contributions happen in GitHub by
 providing contributions to the samples, reusable components, and
@@ -293,7 +293,7 @@ these calls, please do reach out to the PnP  Team members (contacts
 later in this post) and they are able to help with the right setup.
 These are great opportunities to gain visibility for example for
 existing MVPs, for community members who would like to be MVPs in the
-future or any community member who\'d like to share some of their
+future or any community member who'd like to share some of their
 learnings.
 ## Microsoft 365 Community (PnP) Ecosystem in GitHub 
 
@@ -389,7 +389,7 @@ PnP specific repositories - solution designs and tooling
 -   [PnP-PowerShell](https://github.com/sharepoint/PnP-PowerShell) -
     Office Dev PnP PowerShell Cmdlets
 -   [PnP-Tools](https://github.com/sharepoint/PnP-Tools) - Tools and
-    scripts targeted more for IT Pro\'s and for on-premises for SP2013
+    scripts targeted more for IT Pro's and for on-premises for SP2013
     and SP2016
 -   [PnP-Provisioning-Schema](https://github.com/sharepoint/PnP-provisioning-schema) -
     PnP Provisioning engine schema repository
@@ -414,7 +414,7 @@ Other related resources from GitHub
     Includes all Microsoft Teams samples from Microsoft\
     \
 
-## What\'s supportability story around PnP material? 
+## What's supportability story around PnP material? 
 
 Following statements apply across all of the community lead and
 contributed samples and solutions, including samples, core component(s)
@@ -448,7 +448,7 @@ In April 2020 we announced our new [Microsoft 365 PnP team
 model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 and grew the MVP team quite significantly. PnP model exists for having
 more efficient engagement between Microsoft engineering and community
-members. Let\'s build things together. Your contributions and feedback
+members. Let's build things together. Your contributions and feedback
 is always welcome! During August, we also crew the team with 5 new
 members. PnP Team coordinates and leads the different open-source and
 community efforts we execute in the Microsoft 365 platform.
@@ -498,7 +498,7 @@ latest community contributors.
 ### Microsoft 365 Community docs 
 {{< image alt="community-dcos.png" src="images/blog/microsoft-365-community-pnp-march-2021-update/community-dcos.png" >}}
 
-Community docs model was announced in the April 2020 and it\'s great to
+Community docs model was announced in the April 2020 and it's great to
 see the interest for community to help each other by providing new
 guidance on the non-dev areas. See more on the announcement from the
 SharePoint blog - [Announcing the Microsoft 365 Community
@@ -549,7 +549,7 @@ from the the different repositories.
 -   New sample
     [react-staffdirectory](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-staffdirectory)
     by [João Mendes](https://twitter.com/joaojmendes) (Storm
-    Technology) shows the current user\'s colleagues, and allows the
+    Technology) shows the current user's colleagues, and allows the
     user to search AD directory.
 -   New
     sample [react-datatable](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-datatable)
@@ -573,7 +573,7 @@ from the the different repositories.
     SharePoint framework solution using Microsoft Graph
 -   Updates to numerous SPFx web part and extension samples by our
     awesome community memebers!
-How to find what\'s relevant for you? Take advantage of our SharePoint
+How to find what's relevant for you? Take advantage of our SharePoint
 Framework web part and extension sample galleries - includes also
 solutions which work in Microsoft Teams
 -   Web Part sample gallery - <http://aka.ms/spfx-webparts>
@@ -640,7 +640,7 @@ involved!
 -   **PnP Core SDK** - The PnP Core SDK is an SDK designed to work for
     Microsoft 365 with Graph API first approach. It provides a unified
     object model for working with SharePoint Online and Teams which is
-    agnostic to the underlying API\'s being called. See more around the
+    agnostic to the underlying API's being called. See more around the
     SDK from [documentation](https://aka.ms/pnp/coresdk/docs).
 -   **PnP PowerShell** - PnP PowerShell is a .NET Core 3.1 / .NET
     Framework 4.6.1 based PowerShell Module providing over 400 cmdlets
@@ -663,7 +663,7 @@ involved!
     the latest updates.
 -   **PnPJs** - PnPJs encapsulates SharePoint REST APIs and provides a
     fluent and easily usable interface for querying data from SharePoint
-    sites. It\'s a replacement of already deprecated pnp-js-core
+    sites. It's a replacement of already deprecated pnp-js-core
     library. See
     [changelog](https://github.com/pnp/pnpjs/blob/dev/CHANGELOG.md) for
     the latest updates.
@@ -679,7 +679,7 @@ involved!
     settings or to manipulate actual SharePoint sites. They See
     [changelog](https://github.com/SharePoint/PnP-PowerShell/blob/master/CHANGELOG.md)
     for the latest updates.
--   **PnP Modern Search solution** - The PnP \'Modern Search\' solution
+-   **PnP Modern Search solution** - The PnP 'Modern Search' solution
     is a set of SharePoint Online modern Web Parts allowing SharePoint
     super users, webmasters and developers to create highly flexible and
     personalized search based experiences in minutes. See more details
@@ -1274,12 +1274,12 @@ please let us know.
 
 -   Yannick Reekmans (Qubix) -
     [\@YannickReekmans](https://twitter.com/YannickReekmans)
-**Companies:** Here\'s the companies, which provided support for PnP
+**Companies:** Here's the companies, which provided support for PnP
 initiative for this month by allowing their employees working for the
 benefit of others in the community. There were also people who
 contributed from other companies during last month, but we did not get
 their logos and approval to show them in time for these communications.
-If you still want your logo for this month\'s release, please let us
+If you still want your logo for this month's release, please let us
 know and share the logo with us. Thx.
 {{< image alt="companies-in-march-2021.png" src="images/blog/microsoft-365-community-pnp-march-2021-update/companies-in-march-2021.png" >}}
 

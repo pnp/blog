@@ -35,7 +35,7 @@ like this.
 
  
 
-Let\'s see step by step configuration.
+Let's see step by step configuration.
 
  
 

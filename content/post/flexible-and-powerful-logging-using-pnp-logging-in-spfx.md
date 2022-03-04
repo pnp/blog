@@ -97,7 +97,7 @@ code .
  
  
  
-Let\'s create a new folder under the **components** folder
+Let's create a new folder under the **components** folder
 named **common**. Inside the common folder create 2 files as named below
 1.  **CustomLogger.ts** -- This file will have all the interfaces and
     methods for implementing the logging mechanism to write the logs in

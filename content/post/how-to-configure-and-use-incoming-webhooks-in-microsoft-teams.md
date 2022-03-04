@@ -84,7 +84,7 @@ using HTTP POST, which
 is why treating your webhook URL as a secret might be a good
 thing, the same way as you would
 treat
-your PowerAutomate\'s  **[When
+your PowerAutomate's  **[When
 an HTTP request is received **trigger. There
 are heaps of articles by the
 community on securing
@@ -176,7 +176,7 @@ Now, if we want to try sending an
 adaptive card, let us try one as
 well.
 
-[Let\'s go                                      
+[Let's go                                      
 to [adaptivecards.io]](https://adaptivecards.io/samples/)  and
 copy a sample for an adaptive card which will be in
 [JSON](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369?WT.mc_id=m365-0000-rwilliams)

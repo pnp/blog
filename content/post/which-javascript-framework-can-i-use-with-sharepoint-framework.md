@@ -11,7 +11,7 @@ draft: false
 ---
 
 You want to build an app using SharePoint Framework and wonder which
-framework you should use? Here\'s my personal advice.
+framework you should use? Here's my personal advice.
 
 ## Extend conversations and portals on Microsoft 365
 
@@ -42,8 +42,8 @@ Framework?
 ### Use any JavaScript framework 
 
 When building apps using SharePoint Framework, you can use any
-JavaScript framework. If you\'re comfortable working with Vue or
-Handlebars, or any other framework, you don\'t need to learn any other
+JavaScript framework. If you're comfortable working with Vue or
+Handlebars, or any other framework, you don't need to learn any other
 framework. You can be productive from the start and focus on building
 your app. That said, there is a caveat\...
 
@@ -89,7 +89,7 @@ knowledge and use the tools that you already know to build apps for the
 250 million people using Microsoft 365.
 
 
-If you\'re just starting with web development, I\'d recommend you to
+If you're just starting with web development, I'd recommend you to
 learn React. It will give you the smoothest experience when building
 apps for Microsoft 365. There are many tools and samples built for React
 both by Microsoft and the community which you can use to learn and speed

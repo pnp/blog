@@ -52,7 +52,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="210826-together-mode.gif" src="images/blog/sharepoint-framework-community-call-26th-of-august-2021/210826-together-mode.gif" >}}
 Thank you everybody for being part of this call, the community, a tweet,
-a blog post, and the solution to your customer\'s needs.  
+a blog post, and the solution to your customer's needs.  
 
 **Actions:**
 

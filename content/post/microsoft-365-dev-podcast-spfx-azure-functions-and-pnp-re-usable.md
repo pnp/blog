@@ -27,7 +27,7 @@ controls with Joel Rodrigues
 -   [PnP Reusable
     Controls](https://pnp.github.io/sp-dev-fx-controls-react/)
 -   [Joel on Twitter](https://twitter.com/JoelFMRodrigues)
--   [Joel\'s blog](https://www.m365-dev.com/)
+-   [Joel's blog](https://www.m365-dev.com/)
 
 ## Microsoft News 
 

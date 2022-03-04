@@ -167,7 +167,7 @@ $card = '{ \"type\": \"AdaptiveCard\", \"$schema\": \"http://adaptivecards.io/sc
 m365 adaptivecard send --url $webhookUrl --card $card
 ```
  
-## What\'s next 
+## What's next 
 
 With that I hope that this blog provided some insights in how you can
 recognize your users based on their activity. Keep in mind that just

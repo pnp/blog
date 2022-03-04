@@ -123,7 +123,7 @@ Truly unique like this Community!
     Prajapati](http://twitter.com/Chandani_SPD) \| \@Chandani_SPD
 -   [Staff
     Directory](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-staffdirectory) -
-    Tristian O\'Brien
+    Tristian O'Brien
 -   [OneDrive
     Finder](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder) -
     [André

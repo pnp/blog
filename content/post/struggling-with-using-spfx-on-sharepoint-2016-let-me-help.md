@@ -118,11 +118,11 @@ On-premise](https://support.shortpoint.com/support/solutions/articles/1000272505
 There may be better articles out there.  Two key parts of this that
 helped me were:
 
--   If you don\'t see \"Manage Patch Status\", look for \"Check
+-   If you don't see \"Manage Patch Status\", look for \"Check
     Production and Patch Installation Status\".
 -   For \"Microsoft SharePoint Foundation 2016 Core\", you are looking
     to see if there is an item with a version number \>= 16.0.4744.1000
-    with a status of Installed.  If not, you\'ll need to install Feature
+    with a status of Installed.  If not, you'll need to install Feature
     Pack 2 as the link above describes.
 
 ## Node v8.17.0 (Recommended: Install NVM for Windows) 
@@ -222,7 +222,7 @@ Then you answer several questions.  Here are some example answers:
 Even though you haven't done much yet, your project should run.  To run
 the workbench you would normally do a "gulp serve", but since we're
 stuck in version 8 of node, we need to [Run gulp serve with
-\'NODE_NO_HTTP2=1\' when using SPFx on node
+'NODE_NO_HTTP2=1' when using SPFx on node
 v8](https://github.com/SharePoint/sp-dev-docs/issues/1002):
  
 ``` {.lia-code-sample .language-bash}
@@ -620,7 +620,7 @@ the release build: [Easily debug production version of your SharePoint
 Framework
 solution](https://blog.mastykarz.nl/debug-production-version-sharepoint-framework-solution/). 
 If you put the source map with the rest of the source (in Azure blob or
-SharePoint Site Assets) you won\'t need to manually add the source map
+SharePoint Site Assets) you won't need to manually add the source map
 to your browser.
 
 ## TSLint Changes 
@@ -658,14 +658,14 @@ enact several rules within my code including:
     ```
 
 -   Immediately before I used the type \"any\" for a variable.  This
-    seemed necessary when I couldn\'t find a type that PnP was using
-    (maybe I didn\'t look hard enough): 
+    seemed necessary when I couldn't find a type that PnP was using
+    (maybe I didn't look hard enough): 
 
     ``` {.lia-code-sample .language-javascript}
     /* tslint:disable-next-line:no-any */​
     ```
 
--   Immediately before any line that just didn\'t fit TSLint\'s max line
+-   Immediately before any line that just didn't fit TSLint's max line
     length (I think it is 120, but my configuration is ignored, so I am
     not sure what it is): 
 

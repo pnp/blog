@@ -17,7 +17,7 @@ Many times we have a requirement like to get users or user profile
 properties from any SharePoint site collection and we need it in CSV or
 Excel format. so to achieve this solution we will use PnP Powershell. 
  
-Let\'s see step-by-step implementation.
+Let's see step-by-step implementation.
  
 ## Prerequisites 
 \

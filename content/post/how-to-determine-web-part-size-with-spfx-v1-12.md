@@ -14,15 +14,15 @@ draft: false
 ## Context 
 
 You might know that this new SPFx v1.12 feature has an old story behind
-it. In the past, developers were getting web part\'s width by
+it. In the past, developers were getting web part's width by
 unsupported ways like DOM classes or attributes. It was working pretty
 well until Microsoft decided to update SharePoint Online DOM in October
 last year and broke a lot of custom developments. As Microsoft says, DOM
 is not and API and you should avoid taking any dependencies in it but
 until now, nothing was officially released to solve this issue
-correctly. It\'s now done, SPFx v1.12 adds a **width** property and
+correctly. It's now done, SPFx v1.12 adds a **width** property and
 an **onAfterResize()** event to determine the width of your web part.
-**Note:** In this article, I\'m using a web part project with SPFx
+**Note:** In this article, I'm using a web part project with SPFx
 v.1.12 and React framework.
 
 ## Determine web part size 

@@ -38,7 +38,7 @@ on their answers) as the score is not passed back to the Cloud Flow via
 the Response Body.
 {{< image alt="DamoBird365_1-1619726475005.png" src="images/blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/DamoBird365_1-1619726475005.png" >}}
 
-**What\'s the Score?**
+**What's the Score?**
 
 In order to calculate the score I have created an array via a
 **compose** action and used the equals expression.  If the response
@@ -51,7 +51,7 @@ answers equaling true and multiply by 10 to get the percentage correct.
 {{< image alt="DamoBird365_2-1619726584442.png" src="images/blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/DamoBird365_2-1619726584442.png" >}}
 
 The final stage of this flow is a **condition **where I check to see if
-the user has supplied a twitter handle.  If it\'s not empty I tweet out
+the user has supplied a twitter handle.  If it's not empty I tweet out
 their score.  The only disappointment here is that Twitter will not let
 you tag users due to
 spamming !
@@ -65,8 +65,8 @@ trigger action to present the leader board to the web and seen below (at
 least until my *premium trial* has not expired).  Using the trigger we
 can run an action to get items, prepare HTML table rows using a select
 action and send back a response to the website in a fraction of a
-second.  The end user loading the website almost doesn\'t know it\'s
-happening, albeit there is a slight delay for the flow to run, i\'ll
+second.  The end user loading the website almost doesn't know it's
+happening, albeit there is a slight delay for the flow to run, i'll
 admit. *Did you notice the delay in this page loading?*
 
 {{< image alt="DamoBird365_3-1619727062254.png" src="images/blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/DamoBird365_3-1619727062254.png" >}}
@@ -75,9 +75,9 @@ The reponse to the embedded IFrame on my Blog and indeed this article
 which is simply calling the url provided by the HTTP Request trigger is
 an HTML table.  I create the table header and then using the select
 action body, I use the **join()** expression to join the elements of the
-array with \'\' into a string and complete the HTML table.
+array with '' into a string and complete the HTML table.
 {{< image alt="DamoBird365_4-1619727245209.png" src="images/blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/DamoBird365_4-1619727245209.png" >}}
-I\'m not a web developer and I am sure that there will be slicker ways
+I'm not a web developer and I am sure that there will be slicker ways
 to embed the results of the http response into your site and for that I
 would be grateful to hear from those with experience but what do you
 think of this idea?  *Are you on the leader board yet?*  

@@ -14,7 +14,7 @@ draft: false
 
 ## A little secret\.... 
 
-First of all, if you don\'t know already and you want to quickly create
+First of all, if you don't know already and you want to quickly create
 an excel or word file on your OneDrive, try <http://excel.new> or
 <http://word.new>. 
  
@@ -28,7 +28,7 @@ containing one sheet
 
 This solution requires a bit of Office Script typescript in order to
 identify the number of worksheets in a workbook and delete the sheets
-that are no longer required.  I\'ve written two basic scripts to do the
+that are no longer required.  I've written two basic scripts to do the
 following:
  
 1\. \"GetSheetNames\": retrieve a list of sheets and returns an array to
@@ -88,7 +88,7 @@ then get the file content of the original file.
 Then in an apply to each, we use the results array from the
 \"GetSheetNames\" office script, and iterate through each item using a
 filter array to return an array of all but the current sheet name (i.e.
-where item() is not equal to items(\'Apply_to_each\') or \"Current
+where item() is not equal to items('Apply_to_each') or \"Current
 Item\").  If we have an array of five sheets, the filter will return
 four sheets.  Then we can create a copy of the original file using the
 file content and a prefix of \"Current Item\".  Finally calling the
@@ -123,9 +123,9 @@ Watch the full build and demonstration here:
 
 ## Create an empty Excel File 
 
-Natively, PowerAutomate doesn\'t allow you to create a new Excel file. 
+Natively, PowerAutomate doesn't allow you to create a new Excel file. 
 By creating an empty Excel file on SharePoint and using the get file
-content action, it\'s possible to save the JSON output to a compose and
+content action, it's possible to save the JSON output to a compose and
 re-use the empty template file when using the \"create file\" action.
  
 {{< image alt="DamoBird365_0-1628095727802.png" src="images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628095727802.png" >}}
@@ -140,7 +140,7 @@ compose action we have created
  
 By using the output of the compose action we can create a new file (in
 this case named with a unique datetime string
-formatdatetime(utcnow(),\'yyyyMMddhhmmss\').xlsx and then create a new
+formatdatetime(utcnow(),'yyyyMMddhhmmss').xlsx and then create a new
 table to allow data to be inserted.  Here we have a table range from
 column A to E on row 1, i.e. 5 columns with headers Name, Age, Address1,
 Address2, PostCode.
@@ -181,7 +181,7 @@ the File Id is the dynamic value from the create file action.
  
 {{< image alt="DamoBird365_3-1628096174072.png" src="images/blog/excel-file-tricks-with-powerautomate/DamoBird365_3-1628096174072.png" >}}
 If we turn on concurrency, we can add 50 rows to the newly created excel
-file in a matter of seconds.  Whilst I haven\'t covered this here, it
+file in a matter of seconds.  Whilst I haven't covered this here, it
 would be possible to write an office script to take an array of objects
 and populate an excel file without a table.  I have previously covered
 this concept here [Excel Scripts and Cloud Flows - Data Manipulation -
@@ -206,10 +206,10 @@ Using the select action, the from array input is the output from the
 compose splitline array (skipping object one, which contains the header
 line) and in this case I have supplied the key names manually.  Finally
 the expression used to obtain the value is a split of each item (Or
-line) based on the separator, the comma \',\'. 
+line) based on the separator, the comma ','. 
  
 This will allow us to call each value by integer
-index *split(item(),\',\')\[0\].*
+index *split(item(),',')\[0\].*
  
 {{< image alt="DamoBird365_6-1628097127838.png" src="images/blog/excel-file-tricks-with-powerautomate/DamoBird365_6-1628097127838.png" >}}
 Our select action take an array of comma separated lines and outputs an

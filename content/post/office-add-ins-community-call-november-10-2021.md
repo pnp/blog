@@ -15,7 +15,7 @@ draft: false
 
 ## Call Summary
 
-This month\'s community call features a customer presentation -
+This month's community call features a customer presentation -
 **CodeTwo Outlook Add-in for email signature management** - (email
 signature manager designed for Microsoft 365) Michał Królewicz -
 Technical Marketing Manager (CodeTwo), **Microsoft 365 instant sandbox**
@@ -111,11 +111,11 @@ and in chat throughout call.  The call was hosted by David Chesnut
 **Is the developer subscription as persistent as a paid subscription? To
 mimic a real environment I also attached my custom domain. Is that still
 possible?**\
-It is a durable subscription. If you\'re coming from Visual Studio, this
+It is a durable subscription. If you're coming from Visual Studio, this
 subscription will automatically update as part of the Visual Studio
 subscription. Otherwise, you need to show developer activity within 90
-days to be renewed. You don\'t control the domain name in the sandbox.
-To configure the domain name, you\'ll need the customizable sandbox (the
+days to be renewed. You don't control the domain name in the sandbox.
+To configure the domain name, you'll need the customizable sandbox (the
 previous sandbox experience).
 **So now we can get two sandboxes using one dev account?**\
 Yes.
@@ -123,18 +123,18 @@ Yes.
 an instant or a provisioned account?**\
 Yes, you choose when you sign up.
 **How do we reset a sandbox?**\
-Today we don\'t have the ability to reset. However your old tenant will
-expire naturally if you don\'t use it.
+Today we don't have the ability to reset. However your old tenant will
+expire naturally if you don't use it.
 **Is Visio included in the Microsoft 365 developer program?**\
 Visio is not included in the Microsoft 365 developer program E5
 subscription today.
 ### **Unit testing with the Office JS Office-Addin-Mock library** 
 **How do we unit test or integrate Cypress into an Outlook plugin?**\
-It doesn\'t seem likely this would work as Cypress is more focused on
+It doesn't seem likely this would work as Cypress is more focused on
 end-to-end testing, while the unit testing library we provide is
 designed for unit testing frameworks.
 **How do we unit test if we are using Excel.run?**\
-Yes, there\'s a sample demonstrating this:
+Yes, there's a sample demonstrating this:
 <https://github.com/OfficeDev/Office-Addin-TaskPane/tree/master/test/unit> 
 
 ###  Miscellaneous 
@@ -178,13 +178,13 @@ Shape API since the August 2021 community call. When I run the \"Insert
 shape, line and text box\" sample code on Script Lab, unlike what
 happens with all other samples there, I get an error. Could it be
 because I am not in the Office Insider Program?**\
-Yes, these are preview APIs right now, so most likely, you\'ll need to
+Yes, these are preview APIs right now, so most likely, you'll need to
 use the insider version of Office to work with them. You can sign up for
 Office Insider at <https://insider.office.com/>.
 **Is there an API we can use for previewing files in Office on the
 web?**\
 If you intend to render something such as a thumbnail preview, then no,
-we don\'t have any APIs around this today. However, it would be great to
+we don't have any APIs around this today. However, it would be great to
 learn more about your scenario. Please consider submitting a feature
 request for this at <https://aka.ms/m365dev-suggestions>. If you intend
 to read a file then this is possible. Please refer to the [OneDrive file

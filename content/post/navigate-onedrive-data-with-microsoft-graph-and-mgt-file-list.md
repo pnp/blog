@@ -27,7 +27,7 @@ Mgt-File Beta version** control to retrieve Shared Libraries as
 **existing in OneDrive**, navigate between their folders and use filter
 by file extension in a simple way using Microsoft Graph API Drive and
 Site.
-Below a draw resuming the custom query\'s made and what control uses to
+Below a draw resuming the custom query's made and what control uses to
 retrieve associated folders and files from different locations.
 
 {{< image alt="MainCalls.png" src="images/blog/navigate-onedrive-data-with-microsoft-graph-and-mgt-file-list/MainCalls.png" >}}
@@ -38,10 +38,10 @@ As OneDrive, this control allow to display Shared Files and Folders, for
 this **ItemID (identity of the item to read, can be a folder or a
 file)** has the main role on how to access content. To facilitate this
 access the control has multiple properties that allows call to content
-using different options such us: **custom query\'s*
+using different options such us: **custom query's*
 
 This sample used the parameters **SiteID** (SharePoint Online Site ID)
-and **ItemID** it\'s the ID of the root Library used on site to store
+and **ItemID** it's the ID of the root Library used on site to store
 documents and control to display files/folders from that Path and
 navigate between them.
 
@@ -57,13 +57,13 @@ search files inside shared Libraries.
 #### Where can I found SiteID of a site? 
 
 Use the **Site Graph API with search** query based on hostname to
-retrieve ID\'s of sites.
+retrieve ID's of sites.
 
 ``` {.lia-code-sample .language-html}
 "https://graph.microsoft.com/v1.0/sites?search=*****.sharepoint&$Select=id"
 ```
 
-List of Site ID\'s:
+List of Site ID's:
 
 ``` {.lia-code-sample .language-json}
 {
@@ -105,7 +105,7 @@ the following Drive call.
 https://graph.microsoft.com/v1.0/me/drive/root/?$Select=id
 ```
 
-PS: This query\'s can be tested using the following site.
+PS: This query's can be tested using the following site.
 
 <https://developer.microsoft.com/en-us/graph/graph-explorer>
 
@@ -130,8 +130,8 @@ features that were used in sample
 {{< image alt="SampleFileList.png" src="images/blog/navigate-onedrive-data-with-microsoft-graph-and-mgt-file-list/SampleFileList.png" >}}
 ### Mgt provider and SharePointProvider 
 
-It\'s important that permissions are given from Microsoft Graph to SPFX
-WebPart that Mgt-File-List could make the necessary query\'s.
+It's important that permissions are given from Microsoft Graph to SPFX
+WebPart that Mgt-File-List could make the necessary query's.
 
 Access to config/package-solution.json and ensure the following
 permissions are given on SharePoint package.
@@ -151,7 +151,7 @@ permissions are given on SharePoint package.
 
 Access to your code into **BaseClientSideWebPart** area and ensure
 SharePoint Provider is loaded with the current security  access
-that Mgt-File-List control and custom graph query\'s could access to
+that Mgt-File-List control and custom graph query's could access to
 Microsoft Graph content.
 
 ``` {.lia-code-sample .language-javascript}
@@ -166,7 +166,7 @@ export default class OneDriveFinderWebPart extends BaseClientSideWebPart<IOneDri
 ```
 
 After defining the provider you should be able to include control and
-use parameter\'s id without permissions errors.
+use parameter's id without permissions errors.
 
 ``` {.lia-code-sample .language-html}
 import { FileList } from '@microsoft/mgt-react';
@@ -180,7 +180,7 @@ import { FileList } from '@microsoft/mgt-react';
 
 ### Breadcrumb Navigation
 
-It\'s also possible to use Breadcrumb to include the path of folders
+It's also possible to use Breadcrumb to include the path of folders
 where user is situated in the Library.
 
 This can be achieve capturing the **itemID** of Folder listed

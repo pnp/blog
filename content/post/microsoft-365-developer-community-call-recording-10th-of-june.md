@@ -94,7 +94,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     Configuration](https://aka.ms/msgext-graph-action-config) -**
     [Markus Moeller](http://twitter.com/Moeller2_0) \| \@Moeller2_0 
 {{< image alt="210610-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-10th-of-june/210610-together-mode.gif" >}}
-Thank you for joining for today\'s PnP Community call.   The auditorium
+Thank you for joining for today's PnP Community call.   The auditorium
 was packed.   
 **Demos** delivered in this session
 
@@ -278,7 +278,7 @@ slides.
     8]th[ at 9:00 am PDT \|
     ]<https://aka.ms/adaptivecardscommunitycall>
 General  Special Interest Group bi-weekly calls are
-targeted at anyone who\'s interested in the general Microsoft 365
+targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Microsoft Flow, PowerApps, Column Formatting, list

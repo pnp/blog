@@ -45,7 +45,7 @@ SharePoint Site.
 4.  Permission
     1.  SharePoint Administrator
     2.  Site Collection Administrator
-Let\'s get started.
+Let's get started.
 
 
 ## Create JSON file for Site Scripts 
@@ -104,11 +104,11 @@ Select "Send an HTTP request to SharePoint" from the list of actions.\
 {{< image alt="Flow3.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Flow3.jpg" >}}
  
 **Parameters**
-Site Address - You can select any site Address either it\'s root or not\
+Site Address - You can select any site Address either it's root or not\
 Method - post\
 Url
-- /\_api/Microsoft.SharePoint.Utilities.WebTemplateExtensions.SiteScriptUtility.CreateSiteScript(Title=\'\<Site
-Script Title Name>\')
+- /\_api/Microsoft.SharePoint.Utilities.WebTemplateExtensions.SiteScriptUtility.CreateSiteScript(Title='\<Site
+Script Title Name>')
 
 **Headers**
  
@@ -122,7 +122,7 @@ Script Title Name>\')
  
  
 **Body**
-\@{variables(\'SiteScript\')} // Reference of variable that we
+\@{variables('SiteScript')} // Reference of variable that we
 Initialized before this action.\
 Get Create Script ID and store it in Variable\
 \
@@ -133,7 +133,7 @@ Get Create Script ID and store it in Variable\
 
 {{< image alt="Dips365_0-1630571387332.png" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Dips365_0-1630571387332.png" >}}
 **Parameters**
-Site Address - You can select any site Address either it\'s root or not\
+Site Address - You can select any site Address either it's root or not\
 Method - post\
 Url -
 /\_api/Microsoft.SharePoint.Utilities.WebTemplateExtensions.SiteScriptUtility.CreateSiteDesign

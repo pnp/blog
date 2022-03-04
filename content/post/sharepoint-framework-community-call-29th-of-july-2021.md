@@ -51,7 +51,7 @@ call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 Yep!  Nice wave action.  Great seeing you this week.  Looking forward to
 seeing you again in August.    Data for Hugo:  24 left-handed wavers, 4
 right-handed wavers, 2 bi-handed wavers and 4 non-handed wavers.  But
-wait, now there\'s 35 wavers!   Data corruption.  
+wait, now there's 35 wavers!   Data corruption.  
 **Actions:**
 
 -   Register for Sharing is Caring Events:

@@ -40,5 +40,5 @@ Listen to the show here: 
 
 ## Community Links 
 
--   [It\'s Time to Move to RBAC for Key
+-   [It's Time to Move to RBAC for Key
     Vault](https://samcogan.com/its-time-to-move-to-rbac-for-key-vault)

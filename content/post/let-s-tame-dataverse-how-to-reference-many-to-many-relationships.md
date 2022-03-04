@@ -25,8 +25,8 @@ first:
 {{< image alt="platform.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/platform.png" >}}
 
 Dataverse is a is a secure and scalable SaaS data service, that sits
-right in Power Platform. Dataverse\'s database is Azure SQL, and often,
-people refer to Dataverse just as \'a database\', but it is so much
+right in Power Platform. Dataverse's database is Azure SQL, and often,
+people refer to Dataverse just as 'a database', but it is so much
 more
 
 {{< image alt="dataverse-saas.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/dataverse-saas.png" >}}
@@ -37,19 +37,19 @@ I will not go into full detail in this blog post, but cover something
 that people with a background in Microsoft 365/SharePoint might not be
 aware of:
 
-## How does Dataverse distinguish from SharePoint lists and what makes it a \'real database\'?
+## How does Dataverse distinguish from SharePoint lists and what makes it a 'real database'?
 
 In Dataverse, we store data in tables, we can either use predefined ones
 or we can creates our own tables. We can choose from different kind of
 column types to store data just as needed. The beautiful thing that get
 our Dynamics 365 colleagues excited is, that Dataverse can serve as a
-\'relational database\', which means that we can create all kinds of
+'relational database', which means that we can create all kinds of
 relationships between data, which gives us a better overview on data as
 we can put data into context.
 
 Also, we have role-based access control (RBAC), which means that we can
 granularly control who can view, edit, delete etc. data, while this
-isn\'t possible with SharePoint lists. If we use a list as data source
+isn't possible with SharePoint lists. If we use a list as data source
 for a Power Apps, we need to share the entire list with all users of
 that application, which means that users can even bypass the app and
 manipulate and delete data directly on the SharePoint site.
@@ -67,7 +67,7 @@ In a 1:N (1-to-many) relationship we associate a (1) row of a table to
 many other rows in a related table with a lookup column. We can see a
 list of the related rows that are associated with our primary table.
 
-You will come across the term \'N:1(many-to-1)\' as well - it is the
+You will come across the term 'N:1(many-to-1)' as well - it is the
 same thing as a 1:N relationship- just viewed from the related table,
 not from the parent/primary table.
 
@@ -114,7 +114,7 @@ between `teams Requests` table and `Teams Users` table.
 Now the intersection tables come into play: They make sure that we can
 associate many rows of the related table to the primary table.
 
-In Dataverse, we don\'t get to see these intersection tables, but we can
+In Dataverse, we don't get to see these intersection tables, but we can
 customize their name:
 
 {{< image alt="TeamsRequests-TeamsUserNN.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/TeamsRequests-TeamsUserNN.png" >}}
@@ -161,8 +161,8 @@ to spend a couple of thoughts on the data model. If you
 then its very likely, that Dataverse is a service that you should
 consider.
 
-In order to take full advantage of Dataverse\'s capabilities in terms of
-being a \'relational database\' its worth it to understand what is an
+In order to take full advantage of Dataverse's capabilities in terms of
+being a 'relational database' its worth it to understand what is an
 intersection table and how you can reference it.
 
  

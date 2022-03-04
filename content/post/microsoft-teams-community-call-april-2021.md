@@ -83,7 +83,7 @@ Samples: **<https://aka.ms/teams-samples>
 
  
 
-**It\'s all about Community - Hello Microsoft Teams community!       **
+**It's all about Community - Hello Microsoft Teams community!       **
 
  
 
@@ -249,7 +249,7 @@ slides.
 
  
 
-Microsoft Teams monthly community calls are targeted at anyone who\'s
+Microsoft Teams monthly community calls are targeted at anyone who's
 interested in Microsoft Teams development topics. This includes
 Microsoft Teams, Bots, App templates, Samples, and more.  Details on the
 Microsoft 365 community

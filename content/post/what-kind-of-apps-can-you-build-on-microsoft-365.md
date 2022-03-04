@@ -15,7 +15,7 @@ types of apps you can build on Microsoft 365.
 
 ## Why should you build applications on Microsoft 365
 
-Microsoft 365, previously known as Office 365, is Microsoft\'s
+Microsoft 365, previously known as Office 365, is Microsoft's
 productivity cloud, that organizations use for communication and
 collaboration. 250 million users work with Microsoft 365 creating files,
 sending emails, meeting, reading information stored in Microsoft 365,
@@ -48,8 +48,8 @@ the full user experience.
 
 Users start their journey in your app. Because your app is connected to
 Microsoft 365, you can show relevant information from Microsoft 365
-along your app\'s functionality. And because you can present the data in
-your app seamlessly, users might not even realize that they\'re looking
+along your app's functionality. And because you can present the data in
+your app seamlessly, users might not even realize that they're looking
 at data coming from Microsoft 365.
 
 To get the most out of integrating your custom app with Microsoft 365,
@@ -61,7 +61,7 @@ on their behalf from Microsoft 365.
 
 Microsoft 365 offers many extension points to bring your app where your
 users are. By exposing your app inside Microsoft 365, you make your app
-a part of people\'s work. Because your app is available right where they
+a part of people's work. Because your app is available right where they
 are, they can focus on their work and interact with your app without
 having to switch the context.
 
@@ -73,7 +73,7 @@ a conversation in several ways.
 
 First of all, you can [build conversational
 bots](https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-16324-wmastyka).
-Bots help people complete tasks through conversations. They\'re a great
+Bots help people complete tasks through conversations. They're a great
 way to expose relevant features of your app and guide users through the
 scenario like a personal assistant.
 
@@ -84,7 +84,7 @@ Another way to expose your app in a Teams conversation is through
 [messaging
 extensions](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions?WT.mc_id=m365-16324-wmastyka).
 Messaging extensions help people complete tasks in a visually-compelling
-way. They\'re similar to bots but are more visually oriented and ideal
+way. They're similar to bots but are more visually oriented and ideal
 for showing rich data
 
 ![Custom messaging extension integrated in Microsoft
@@ -160,16 +160,16 @@ platforms](https://developer.microsoft.com/graph/get-started?WT.mc_id=m365-16324
 Building apps for Microsoft 365 offers a great opportunity to reach
 millions of users and help them work more effectively. If you want to
 have a quick look at what kind of data you can retrieve from Microsoft
-365, I\'d suggest you look at the interactive [Graph
+365, I'd suggest you look at the interactive [Graph
 Explorer](https://developer.microsoft.com/graph/graph-explorer?WT.mc_id=m365-16324-wmastyka).
-If you\'re considering building a web app, I would also recommend that
+If you're considering building a web app, I would also recommend that
 you take a look at [Microsoft Graph
 Toolkit](https://docs.microsoft.com/graph/toolkit/overview?WT.mc_id=m365-16324-wmastyka) -
 a set of web components that make it very easy to show data from
-Microsoft 365 in your app. When you\'re ready to start building your
+Microsoft 365 in your app. When you're ready to start building your
 app, sign up for the [Microsoft 365 developer
 program](https://developer.microsoft.com/microsoft-365/dev-program?WT.mc_id=m365-16324-wmastyka)
 to get a dev environment.
 
-Looking forward to hearing what you\'re going to build. And don\'t
+Looking forward to hearing what you're going to build. And don't
 hesitate to reach out if you have any questions!

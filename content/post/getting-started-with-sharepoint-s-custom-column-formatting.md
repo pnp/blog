@@ -280,7 +280,7 @@ Here's the definition:
 ```
  
 
-We\'ve taken some images, which were found -- and purchased -- a website
+We've taken some images, which were found -- and purchased -- a website
 (there's a link included in the resources section at the end of this
 post), and uploaded them into a folder named "RaceIcons" inside of the
 standard Site Assets library on my SharePoint site. They're also named

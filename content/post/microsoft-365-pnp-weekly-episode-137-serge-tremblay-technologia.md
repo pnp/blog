@@ -87,7 +87,7 @@ everyone for your contributions to the community!
 
  
 
--   [What\'s New in Microsoft Teams \| September
+-   [What's New in Microsoft Teams \| September
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-september-2021/ba-p/2793627) -
     Microsoft  
 -   [Announcing general availability of Microsoft Graph Export API for

@@ -87,7 +87,7 @@ and at
 
 This call was delivered on Tuesday, March 9, 2021. The call agenda is
 reflected below with direct links to specific sections.  You can jump
-directly to a specific topic by clicking on the topic\'s timestamp which
+directly to a specific topic by clicking on the topic's timestamp which
 will redirect your browser to that topic in the recording published on
 the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
@@ -186,7 +186,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/microsoftgraphcall>
 -   **SharePoint monthly call --** April 13th at 08:00am PDT \|
     <https://aka.ms/sp-call>
-\"*Too many links, can\'t remember*\" - not a problem\... **just one
+\"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics -
 <http://aka.ms/m365pnp>.
 *"Sharing is caring"*

@@ -30,7 +30,7 @@ John Nguyen and Pat Miller.  Recorded on June 10, 2021.
 
 ## Referenced in this call:
 
--   Microsoft Build \'21 Session - [Build great discovery &
+-   Microsoft Build '21 Session - [Build great discovery &
     collaboration apps for Microsoft 365 with new Microsoft Graph
     connector &
     Ad\...](https://mybuild.microsoft.com/sessions/337ee14e-a234-4c63-95dd-117dbe05d1bc)

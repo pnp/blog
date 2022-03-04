@@ -24,7 +24,7 @@ we would like to know how to use them. But wait - HTTP?
 
 ### What is HTTP? 
 
-Let\'s first get us all an the same page. HTTP is the acronym
+Let's first get us all an the same page. HTTP is the acronym
 for **Hypertext Transfer Protocol**. Its purpose is to structure
 requests and responses over the internet (yeah, you heard of that
 one :smiling_face_with_halo:
@@ -58,14 +58,14 @@ could do in Power Automate
 
 Power Automate offers you a huge variety of connectors and within those
 connectors, many actions which you can use to automate your processes.
-But although we have so many options, this won\'t cover everything you
+But although we have so many options, this won't cover everything you
 need or that you might want to build in Power Automate, which is why we
 have an HTTP action in Power Automate as well. With the HTTP action we
 can invoke a REST API.
 
 ### What is a REST API? 
 
-Wait but what? Ok, let\'s slow down a little bit. What is a REST API and
+Wait but what? Ok, let's slow down a little bit. What is a REST API and
 would we want to invoke that?
 
 API is -yet again- an acronym for **application programming
@@ -85,7 +85,7 @@ read, create, update and delete resources (like files, teams, meetings
 etc.).
 
 Microsoft provides us with an amazing tool to try out Microsoft Graph,
-it\'s the [Graph
+it's the [Graph
 Explorer](https://developer.microsoft.com/graph/graph-explorer).
 
 ## How to create a HTTP request in Power Automate 
@@ -134,7 +134,7 @@ request:
 
 First things first, if we want to call an API with HTTP, we need to know
 the right endpoint. Think of an endpoint like a phone number that you
-want to call. You need to know it, because otherwise you won\'t reach
+want to call. You need to know it, because otherwise you won't reach
 the right person.
 
 An endpoint is a URL like
@@ -171,9 +171,9 @@ documentation will tell you.
 
 #### Data (or body) 
 
-If we call an endpoint, it\'s not enough to specify the URL the request
+If we call an endpoint, it's not enough to specify the URL the request
 needs to make to, but we will also need to post some additional info
-into the body of our requests. Most GET requests though don\'t need
+into the body of our requests. Most GET requests though don't need
 information in the body, as they will only list the requested resources.
 
 ### Fill in the HTTP action 
@@ -204,7 +204,7 @@ Some remarks on that:
     \"<https://graph.microsoft.com/v1.0/appCatalogs/teamsApps/com.microsoft.teamspace.tab.web>\"
 -   Both `websiteUrl` and `contentUrl` are the full URL of the website
     you want to pin including `https://`. If your website is
-    only `http://` you can\'t use that inside of Teams.
+    only `http://` you can't use that inside of Teams.
 
 In total, this looks like this:
 

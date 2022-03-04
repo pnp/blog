@@ -20,7 +20,7 @@ started.
 SharePoint Framework is a development model for building apps on
 Microsoft 365. Originally, it started as a way to extend SharePoint
 portals. Nowadays, it allows you to also build apps for Microsoft Teams.
-When you use SharePoint Framework to build your apps, you don\'t need to
+When you use SharePoint Framework to build your apps, you don't need to
 worry about hosting and auth. You can build your app using any
 client-side framework you want and easily deploy your app to your users.
 ## Resources for getting started with SharePoint Framework 
@@ -42,14 +42,14 @@ module](https://docs.microsoft.com/learn/modules/intro-sharepoint-framework/?WT.
 If you prefer a more hands-on approach, the SharePoint development
 tutorials and training are another great place to start. There are both
 written and recorded walkthroughs presenting the different aspects of
-building solutions using SharePoint Framework. They\'re kept up-to-date
-with the latest version of SharePoint Framework so it\'s a great
+building solutions using SharePoint Framework. They're kept up-to-date
+with the latest version of SharePoint Framework so it's a great
 resource for you to bookmark.
 [View the hands-on tutorials for SharePoint
 development](https://docs.microsoft.com/sharepoint/dev/training/training?WT.mc_id=m365-14993-wmastyka)
 ### [SharePoint development docs](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-14993-wmastyka) 
 
-Once you\'re past the basics, the official SharePoint Framework is a
+Once you're past the basics, the official SharePoint Framework is a
 great place to deepen your knowledge. In the docs you will find
 explanation of the different capabilities and how they work. The docs
 also offer prescriptive guidance on topics such as how to implement
@@ -68,8 +68,8 @@ up development. You can find everything we have to offer at
 
 Over 250 million users work with Microsoft 365 and using SharePoint
 Framework is an easy way to bring your application to where people are.
-I\'d encourage you to check out the resources I mentioned and give
-SharePoint Framework a try. And if you have any questions, don\'t
+I'd encourage you to check out the resources I mentioned and give
+SharePoint Framework a try. And if you have any questions, don't
 hesitate to ask them on our community forums at
 [aka.ms/m365pnp-community](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP?WT.mc_id=m365-14993-wmastyka).
-Looking forward to hearing what you\'ve built!
+Looking forward to hearing what you've built!

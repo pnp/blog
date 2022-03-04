@@ -15,14 +15,14 @@ When developing your SPFx components, you usually first run them locally
 before deploying them (really?).
 And then comes the time to work with API such as Microsoft Graph.
 If you never use those permissions before in your SPFx projects (and the
-tenant with which you\'re working), you realize that you have to:
+tenant with which you're working), you realize that you have to:
 
 -   Add required API permissions in your `package-solution.json` file
 -   Bundle / Ship your project
 -   Publish it
 -   Go to the SharePoint Admin Center Web API Permissions page
 -   Approve those permissions
-All of this, just to play with the API as you didn\'t plan to release
+All of this, just to play with the API as you didn't plan to release
 your package in a production environment.
 So what if you could bypass all these steps for both Graph and owned
 API?
@@ -38,15 +38,15 @@ access* page.
 2.  The following Azure AD role at least
     -   Application Administrator
 ## With Graph API 
-First, we\'re going to play with Graph API through the [Microsoft Graph
+First, we're going to play with Graph API through the [Microsoft Graph
 Toolkit](https://docs.microsoft.com/fr-fr/graph/toolkit/overview).
 ### Prepare your sample 
 
-Init a SPFx project (WebPart one with React, let\'s call it *HelloApi*),
+Init a SPFx project (WebPart one with React, let's call it *HelloApi*),
 then add the Microsoft Graph Toolkit by
 executing `npm i @microsoft/mgt @microsoft/mgt-react` from the
-project\'s root path.
-Once done, open your main component file (let\'s say
+project's root path.
+Once done, open your main component file (let's say
 here **HelloApi.tsx**) and add the `PeoplePicker` component like this:
 ``` {.lia-code-sample .language-javascript}
 import * as React from 'react';
@@ -82,15 +82,15 @@ export default class HelloApi extends React.Component<IHelloApiProps, {}> {
 Now run your sample with `gulp serve` and display your webpart in your
 remote workbench
 (<https://contoso.sharepoint.com/_layouts/15/workbench.aspx>). Try to
-use the `PeoplePicker` component: you\'ll see that just by clicking on
-the search box, you\'ll get *We didn\'t find any matches*.
+use the `PeoplePicker` component: you'll see that just by clicking on
+the search box, you'll get *We didn't find any matches*.
 {{< image alt="peoplepicker-ui-fail.png" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-fail.png" >}}
  
 
 Display your developer toolbox (F12) and go to the browser console, you
 should see the following error:
 {{< image alt="peoplepicker-console-fail.png" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-console-fail.png" >}}
-As you can see, it\'s a 403 error, which is well-known when using Graph
+As you can see, it's a 403 error, which is well-known when using Graph
 API endpoints that have not been allowed on the first place.
  
 
@@ -99,7 +99,7 @@ API endpoints that have not been allowed on the first place.
 From the Azure portal, display the *Azure Active Directory* (AAD), then
 select the **App Registration** menu and select **All Applications**,
 then click on **SharePoint Online Client Extensibility Web Application
-Principal**. It\'s the AAD Application that holds the connection to the
+Principal**. It's the AAD Application that holds the connection to the
 API (Microsoft and others) from SharePoint (SPFx or every other
 development) using the *Implicit Flow*.
 Once here, click on **Add a permission**, then select **Microsoft
@@ -111,11 +111,11 @@ Once added, grant it by clicking on **Grant admin consent for contoso**.
 If you go in the *API access* page
 (<https://contoso-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/webApiPermissionManagement>),
 you should see something like this:
-{{< image alt="(other Graph API permissions displayed here won\'t be necessary for the sample)" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/api-access-approved.png" >}}
+{{< image alt="(other Graph API permissions displayed here won't be necessary for the sample)" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/api-access-approved.png" >}}
 **Warning**
 
 It can take a couple of minutes before consented permissions is
-effective, so don\'t be surprised if it\'s not working right away after
+effective, so don't be surprised if it's not working right away after
 approval.
 
 ### Add Graph API through CLI for Microsoft 365
@@ -126,27 +126,27 @@ m365 spo serviceprincipal grant add --resource 'Microsoft Graph' --scope 'People
 ```
 **Info**
 
-Don\'t be surprised if by that way, the permission appears in the
-\"Other permissions granted for \[your tenant\]\": it won\'t prevent
+Don't be surprised if by that way, the permission appears in the
+\"Other permissions granted for \[your tenant\]\": it won't prevent
 your SPFx solution to work.
 
 ### Try again 
 
-Now try to use the `PeoplePicker` component again: you\'ll see that with
+Now try to use the `PeoplePicker` component again: you'll see that with
 the addition of the Graph API permission, you should be able to use that
 component!
 {{< image alt="peoplepicker-ui-success.png" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-success.png" >}}
 
 ## With custom API 
 
-When using a custom API, it\'s a little bit more tricky but easy to
+When using a custom API, it's a little bit more tricky but easy to
 handle anyway.
 You can follow [this Microsoft
 article](https://docs.microsoft.com/fr-fr/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi) until
 the \"[Deploy the
 solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi#deploy-the-solution-to-the-sharepoint-app-catalog)\"
 part.
-Instead of bundling and shipping, we\'ll add the AAD App
+Instead of bundling and shipping, we'll add the AAD App
 (called *contoso-api-dp20200915* if we follow the mentioned article)
 created from the Azure Function Authentication part in the SharePoint
 Service Principal.
@@ -175,8 +175,8 @@ m365 spo serviceprincipal grant add --resource 'contoso-api-dp20200915' --scope 
 ```
 **Info**
 
-Don\'t be surprised if by that way, the permission appears in the
-\"Other permissions granted for \[your tenant\]\": it won\'t prevent
+Don't be surprised if by that way, the permission appears in the
+\"Other permissions granted for \[your tenant\]\": it won't prevent
 your SPFx solution to work.
 **Warning**
 
@@ -293,7 +293,7 @@ export default class HelloApi extends React.Component<IHelloApiProps, IHelloApiS
 
 Now you can run your sample locally and try it in your hosted workbench,
 playing with it and updating your WebPart as you want!
-\... And don\'t forget to update your `package-solution.json` file to
+\... And don't forget to update your `package-solution.json` file to
 include the required APIs before
 shipping!
 

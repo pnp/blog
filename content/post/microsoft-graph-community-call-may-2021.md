@@ -14,7 +14,7 @@ draft: false
 
  
 
-This month\'s community call features presentations on Application
+This month's community call features presentations on Application
 Consent Deep Dive (demystifying permissions and consent when accessing
 Microsoft Graph) and on Considerations for Creating Online Meetings
 (**Integration into Outlook or into other 3^rd^ party experiences)**. 

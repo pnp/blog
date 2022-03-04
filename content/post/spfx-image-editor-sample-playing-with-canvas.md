@@ -152,7 +152,7 @@ const img= new Image()
 
  
 
-Thank\'s, Parker to be my Top-Model
+Thank's, Parker to be my Top-Model
 
 Try it [sp-dev-fx-webparts/samples/react-image-editor at master ·
 pnp/sp-dev-fx-webparts

@@ -46,7 +46,7 @@ directory to your project and execute:
 m365 spfx project upgrade --preview --output md > report.md
 ```
  
-We\'d also recommend that you try a richer upgrade report based on the
+We'd also recommend that you try a richer upgrade report based on the
 Visual Studio Code CodeTour extension:
  
 ``` {.lia-code-sample .language-sh}
@@ -64,12 +64,12 @@ For more information about upgrading SharePoint Framework projects, see
 the [CLI
 documentation](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade/).
  
-### Extended \'aad app add\' with *save*  
+### Extended 'aad app add' with *save*  
 With the new *save* option, when creating a new Azure AD app, you
 can store the information about the created app in a local
 *.m365rc.json* file. By storing this information, you can keep track
 which app(s) you use in your current project. In the future versions of
-CLI for Microsoft 365, we\'ll release dedicated commands that allow you
+CLI for Microsoft 365, we'll release dedicated commands that allow you
 to easily manage Azure AD apps used in your solutions without having to
 manually look them up in the Azure Portal!
  
@@ -81,7 +81,7 @@ documentation](https://pnp.github.io/cli-microsoft365/cmd/aad/app/app-add/).
 If you register an application in the portal, an application object as
 well as a service principal object are automatically created in your
 home tenant. If you register an application using CLI for Microsoft 365
-or the Microsoft Graph, you\'ll need to create the service principal
+or the Microsoft Graph, you'll need to create the service principal
 separately. With the new `aad sp add` command, you can now add a service
 principal to an existing Azure AD app.
  
@@ -116,7 +116,7 @@ with us so that we can learn more about the common automation scenarios.
 #### Use CLI for Microsoft 365 access token  
 This [sample
 script](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/perform-operations-not-covered-by-cli-for-microsoft-365/) shows
-how to handle scenario\'s where the CLI for Microsoft 365 does not
+how to handle scenario's where the CLI for Microsoft 365 does not
 provide you with a command. It shows how to use the CLI for Microsoft
 365 access token and call a REST method to retrieve information around
 attachments. Something currently not available in the CLI for Microsoft
@@ -161,12 +161,12 @@ When building apps for Microsoft 365, next to your code, you also need
 to manage how your app is exposed to Microsoft 365. You need to register
 your application in Azure Active Directory, and depending what type of
 app you build, you might need to deploy it to an app catalog as well.
-All these properties are managed in different locations and we\'re
+All these properties are managed in different locations and we're
 thinking of ways that we could simplify it for you.
  
 In this version of CLI for Microsoft 365, we introduced the ability for
 you to store the information about your Azure AD app in your current
-project. In the future versions, we\'ll add commands to help you manage
+project. In the future versions, we'll add commands to help you manage
 Azure AD apps like changing the redirect URI or managing API
 permissions. What else could we simplify? Let us know what you think by
 helping out with one of our [open

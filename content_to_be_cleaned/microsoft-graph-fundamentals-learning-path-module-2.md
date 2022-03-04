@@ -686,14 +686,14 @@ need to use Microsoft Identity and Microsoft Graph to get the data we
 want to display in our app by using [Microsoft Authentication
 Library(MSAL)](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview).
 
-Wait, what? Don\'t worry if you did not completely understand this. We
+Wait, what? Don't worry if you did not completely understand this. We
 will do this step-by-step.
 
 ## [](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-2/#understand-the-role-of-azure-active-directory-with-microsoft-graph){#user-content-understand-the-role-of-azure-active-directory-with-microsoft-graph .anchor}Understand the role of Azure Active Directory with Microsoft Graph {#toc-hId-1991894974}
 
 OK, we already understood that Microsoft Graph is THE API to access data
 in Microsoft 365 - but of course, this data needs to be secured because
-we don\'t want everyone to access them, right? This is what we need
+we don't want everyone to access them, right? This is what we need
 Microsoft Identity platform for. Microsoft identity ensures that only
 authorized users (delegated permissions) and apps (application
 permissions) access data stored in Microsoft 365. The challenge now is
@@ -701,7 +701,7 @@ to link Microsoft Identity (of which we will use Azure Active Directory)
 to our Microsoft Graph powered app. The module explains in detail how
 you register your app in Azure AD and retrieve your application ID.
 Later on, you will add this ID into the MSAL (Microsoft Authentication
-Library)\'s code of your app to link to your Azure Active directory.
+Library)'s code of your app to link to your Azure Active directory.
 
 But before we do this in an exercise, we will learn some theoretical
 stuff that we need later on.
@@ -774,7 +774,7 @@ application before:
 
  
 
-Let\'s now
+Let's now
 
 ## [](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-2/#retrieve-an-access-token-using-msal){#user-content-retrieve-an-access-token-using-msal .anchor}Retrieve an access token using MSAL {#toc-hId--2070351675}
 
@@ -786,7 +786,7 @@ access Microsoft Graph.
 {{< image alt="auth.gif" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/auth.gif" >}}
 
  
-Now that we understood the authentication flow, it\'s time to get our
+Now that we understood the authentication flow, it's time to get our
 hands dirty with
 
 ## Exercise - Retrieve an access token using MSAL

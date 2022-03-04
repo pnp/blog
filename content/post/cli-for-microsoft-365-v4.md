@@ -13,7 +13,7 @@ draft: false
 {{< image alt="4" src="images/blog/cli-for-microsoft-365-v4/CLI for Microsoft 365 v4" >}}
  
 
-We\'ve just published a new major version of the CLI for Microsoft 365
+We've just published a new major version of the CLI for Microsoft 365
 with new commands & enhancements for working with and managing Microsoft
 365 tenants and SharePoint Framework projects on any platform.
 

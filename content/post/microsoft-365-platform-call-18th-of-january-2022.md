@@ -111,7 +111,7 @@ Thank you everybody for joining the call today.   Brilliant to see many
 familiar faces week after week
 **Demos** delivered in this session
 
--   **Show a user\'s emails in an ASP.NET Core app with Microsoft
+-   **Show a user's emails in an ASP.NET Core app with Microsoft
     Graph** -- configure .NET app (or Python, Java Script, Java) to
     retrieve emails using Microsoft Graph, secure messages using
     Microsoft Identity.  Define queries that break up large data sets -
@@ -146,7 +146,7 @@ Thank you for your work. Samples are often showcased in Demos.
 -   Monthly contributors on the Microsoft 365 platform community efforts
     -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \|
     \@vesajuvonen -- [7:17](https://youtu.be/YG16snk1fJU?t=437)
--   **D1**:  Show a user\'s emails in an ASP.NET Core app with Microsoft
+-   **D1**:  Show a user's emails in an ASP.NET Core app with Microsoft
     Graph -- [Dan Wahlin](http://twitter.com/DanWahlin) (Microsoft) \|
     \@DanWahlin -- [10:21](https://youtu.be/YG16snk1fJU?t=621)
 -   **D2**:  Deep dive on Viva Connections Adaptive Card Extension
@@ -163,7 +163,7 @@ Thank you for your work. Samples are often showcased in Demos.
 Additional resources around the covered topics and links from the
 slides.
 
--   **D1**:  Learn - [Show a user\'s emails in an ASP.NET Core app with
+-   **D1**:  Learn - [Show a user's emails in an ASP.NET Core app with
     Microsoft
     Graph](https://docs.microsoft.com/learn/modules/msgraph-dotnet-core-show-user-emails/?WT.mc_id=m365-0000-dwahlin) 
 

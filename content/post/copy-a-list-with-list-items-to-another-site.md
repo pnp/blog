@@ -49,16 +49,16 @@ In a previous blog post, we walked through the process of creating
 custom view formats to create a pretty nifty dashboard full of cards
 about members of the *Fellowship of the Ring*.
  
-For the sake of this example, let\'s pretend I made a mistake (which
+For the sake of this example, let's pretend I made a mistake (which
 *never* happens IRL), and I put that list on the wrong site.
  
-The solution is pretty straightforward. We\'re basically going to create
+The solution is pretty straightforward. We're basically going to create
 a PnP site template, add our list data to it, and then apply that
 template to our target site.
  
 #### Step 1 - Connect to the Source Site 
 
-The first thing we\'ll do is connect to the source site.
+The first thing we'll do is connect to the source site.
  
 ``` powershell
 Connect-PnPOnline -Url https://constoso.sharepoint.com/sites/star-wars -Interactive
@@ -76,9 +76,9 @@ Get-PnPSiteTemplate -Out Lists.xml -ListsToExtract "Middle Earth Locales", "Fell
  
 #### Step 3 - Get the List Data 
 
-We\'ll use the `Add-PnPDataRowToSiteTemplate` cmdlet to populate our
+We'll use the `Add-PnPDataRowToSiteTemplate` cmdlet to populate our
 list instances with actual list item. Because we have two lists, we need
-to run the cmdlet twice. (So, technically, I guess we\'re doing 6 lines
+to run the cmdlet twice. (So, technically, I guess we're doing 6 lines
 of PowerShell. Shh!)
  
 ``` powershell
@@ -104,7 +104,7 @@ Invoke-PnPSiteTemplate -Path Lists.xml
 
 ## Game Over 
 
-Now you\'ve got your list(s), complete with data, copied over to another
-site. All that\'s left to do is get rid of the old one, if necessary.
+Now you've got your list(s), complete with data, copied over to another
+site. All that's left to do is get rid of the old one, if necessary.
 
 {{< image alt="you-win.jpg" src="images/blog/copy-a-list-with-list-items-to-another-site/you-win.jpg" >}}

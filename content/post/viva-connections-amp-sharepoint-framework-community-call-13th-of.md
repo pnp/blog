@@ -25,7 +25,7 @@ for **SharePoint** Online.
     call](https://aka.ms/m365-dev-call).  Next call on the 18th of
     January @ 8 AM PT
     -   Latest news from Microsoft engineering on Microsoft 365 topics
-    -   **Dan Wahlin** -- Show a user\'s emails in an ASP.NET Core app
+    -   **Dan Wahlin** -- Show a user's emails in an ASP.NET Core app
         with Microsoft Graph
     -   **Patrick Rodgers** -- Deep dive on Viva Connections Adaptive
         Card Extension development

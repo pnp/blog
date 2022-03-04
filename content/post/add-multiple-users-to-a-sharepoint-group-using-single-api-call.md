@@ -54,7 +54,7 @@ BODY:
 ```
 
 **Notice.** This REST API is not officially documented by Microsoft, so
-it\'s not officially supported to be used externally by partners and
+it's not officially supported to be used externally by partners and
 customers. This means that the signature can be changed without further
 notice.
 

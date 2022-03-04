@@ -14,7 +14,7 @@ draft: false
 ## Introduction 
 A Spinner is an outline of a circle that animates around itself
 indicating to the user that things are processing. A Spinner is shown
-when it\'s unsure how long a task will take making it the indeterminate
+when it's unsure how long a task will take making it the indeterminate
 version of a progress indicator. They can be of various sizes, located
 in line with the content or centered. They generally appear after an
 action is being processed or committed. They are subtle and generally do

@@ -95,7 +95,7 @@ Microsoft Graph, the one we want.
 
 {{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
 
-Select Delegated Permissions (Custom connectors doesn\'t support
+Select Delegated Permissions (Custom connectors doesn't support
 Application permissions yet, will run in the context of the person who
 runs the flow, so use an admin/system account) then type in the
 permission you want, listed here.
@@ -364,7 +364,7 @@ user to the team.
 
 {{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
 
-That\'s it! There is a lot of configuration here, but you can see how
+That's it! There is a lot of configuration here, but you can see how
 you can extend your usage of Power Automate to automate a function
 usually confined to manual work by the team owner.\
 \

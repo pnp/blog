@@ -12,14 +12,14 @@ draft: false
 ---
 
 I recently learned how to work with APIs and the different methods to
-call them. I started with a straight forward example that\'s not too
-complex. I used an open API (that means I don\'t need authentication for
+call them. I started with a straight forward example that's not too
+complex. I used an open API (that means I don't need authentication for
 my request) to get the [number of the
 day ](https://math.tools/numbers/number-of-the-day/)from a website
 called [MathTOOLS](https://math.tools/). I want this number of the day
 to be posted as a chat message in Microsoft Teams.
 
-Let\'s start with some theory first
+Let's start with some theory first
 
 ## Whats an API?
 
@@ -50,8 +50,8 @@ and when we did everything in the right way, we will get a polite
 answer, an **HTTP response**.
 
 An **HTTP request** gives us the ability to communicate with an **API**.
-So much for the theory, now let\'s get our hands dirty :clapping_hands:
-and let\'s see how it looks in Power Automate.
+So much for the theory, now let's get our hands dirty :clapping_hands:
+and let's see how it looks in Power Automate.
 
 ## HTTP request
 
@@ -84,7 +84,7 @@ the **GET** method.
 
 ### URL
 
-Now for the URL we need to know the **URL** (kind of obvious, isn\'t it of the service we want to address. But
+Now for the URL we need to know the **URL** (kind of obvious, isn't it of the service we want to address. But
 not only that, we will also need the **endpoint**. This is something
 like the direct call, putting you to that exact point that you want.
 Usually an API will tell you how the endpoint looks:
@@ -104,18 +104,18 @@ like:
 
 {{< image alt="JSON-nod.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/JSON-nod.png" >}}
 
-It\'s a very long JSON object (if you want to get started with JSON, I
+It's a very long JSON object (if you want to get started with JSON, I
 recommend the amazing blog from Bob German [Introduction to
 JSON.](https://bob1german.com/2021/01/11/introduction-to-json/)
 
-But let\'s stay at our HTTP request in Power Automate. We know the
-Method, we know the URL and we know that we don\'t need any
+But let's stay at our HTTP request in Power Automate. We know the
+Method, we know the URL and we know that we don't need any
 authentication. That means we can fill out all mandatory fields in that
 flow action and it looks like this:
 
 {{< image alt="HTTP-flow-step.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-step.png" >}}
 
-Let\'s run this flow on a daily basis and see what the result looks
+Let's run this flow on a daily basis and see what the result looks
 like:
 
 {{< image alt="HTTP-flow-run-successfull.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-run-successfull.png" >}}
@@ -124,21 +124,21 @@ like:
 
 {{< image alt="HTTP-flow-result.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/HTTP-flow-result.png" >}}
 
-And that\'s it, we used an **HTTP request** to **GET** information from
+And that's it, we used an **HTTP request** to **GET** information from
 a **API**. Now for the last part of this blog, we want to use some
 information from this result to be posted in a chat in Teams.
 
 Use a certain information from a JSON object in a chat message
 
 Now it would make a lot of sense, if we cover the question, how to use a
-certain information from that JSON object in, let\'s say a chat message,
+certain information from that JSON object in, let's say a chat message,
 right?
 
-Let\'s say, we want to post the number of the day in a daily Microsoft
+Let's say, we want to post the number of the day in a daily Microsoft
 Teams chat. We need just two steps for that:
 
 
-1. put the information of that JSON file in a variable, so it\'s always
+1. put the information of that JSON file in a variable, so it's always
 up to date
 
 2. use that variable in message in a Microsoft Teams chat
@@ -176,9 +176,9 @@ Now we can tell our variable in Power Automate the exact location of the
 value we want to use in this variable. The expression to \"navigate\" to
 the value of this property looks like this:
 
-\`body(\'HTTP\_-\_GETnon\')\[\'contents\'\]\[\'nod\'\]\[\'numbers\'\]\[\'number\'\]\`
+\`body('HTTP\_-\_GETnon')\['contents'\]\['nod'\]\['numbers'\]\['number'\]\`
 
-The first part (\`body(\'HTTP\_-\_GETnon\')\`) tells where we want to
+The first part (\`body('HTTP\_-\_GETnon')\`) tells where we want to
 look, the later parts are navigating through the JSON object until we
 reach the exact object and the exact property. With this method you can
 get any value of any JSON object you like.
@@ -189,16 +189,16 @@ value of the property of that JSON object.
 
 {{< image alt="Teams-message.png" src="images/blog/working-with-apis-in-power-platform-for-beginners/Teams-message.png" >}}
 
-That\'s it. That is how you call an API, get a JSON object back and use
+That's it. That is how you call an API, get a JSON object back and use
 certain values from that object in Power Automate. I hope you liked it
 and it helps you. If anything is unclear, or you have questions, please
 feel free to reach out to me. Easiest way would be
 [twitter](https://twitter.com/MichaelRoth42).
 
 As I mentioned in the beginning, I will further work with APIs. If you
-want to learn more, here\'s what I\'m going to work on next. If you have
-specific questions, please ask me or make suggestions. I\'m always eager
+want to learn more, here's what I'm going to work on next. If you have
+specific questions, please ask me or make suggestions. I'm always eager
 to learn new things.
 
-Next API topic: What\'s a custom connector, where is the difference
+Next API topic: What's a custom connector, where is the difference
 between a http request and a custom connector and when to use what.

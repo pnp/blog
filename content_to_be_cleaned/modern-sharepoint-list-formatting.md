@@ -27,15 +27,15 @@ increase overall productivity. This post is not about the Microsoft 365
 list templates; I will cover them in one of the next blog posts.
 
 If you never heard anything about modern SharePoint list formatting,
-don\'t worry; I will guide you through this.
+don't worry; I will guide you through this.
 
 {{< image alt="daniel-cheung-zky0BmMT5m8-unsplash.jpg" src="images/blog/modern-sharepoint-list-formatting/daniel-cheung-zky0BmMT5m8-unsplash.jpg" >}}
 
 ## Why would we use SharePoint lists 
 
 First things first: Why should we use SharePoint lists and not use - for
-instance - an Excel spreadsheet? Because we don\'t need to hide
-information in cascading folders, that should be at the user\'s
+instance - an Excel spreadsheet? Because we don't need to hide
+information in cascading folders, that should be at the user's
 fingertips. The beauty of lists lies in their simplicity and flexibility
 to organize work and track the information that matters most to our
 businesses.
@@ -49,7 +49,7 @@ appealing.
 ## How can we turn on modern experience 
 
 Now that we are teased into modern lists and libraries in SharePoint,
-it\'s time to turn on modern experiences. We can do it like this in the
+it's time to turn on modern experiences. We can do it like this in the
 classic experience:
 
 -   select **Library Settings** or **List Settings** on the ribbon
@@ -89,7 +89,7 @@ Formatting Views
 
 #### Formatting columns
 
--   If we want to change the column\'s appearance, we can do that very
+-   If we want to change the column's appearance, we can do that very
     end-user-friendly directly in the UI:
 
 
@@ -103,9 +103,9 @@ Formatting Views
 ### How can I apply conditional formatting, aka rules
 
 Rules are a powerful feature to determine how a column should look like.
-Let\'s say we want to apply a background color depending on a number
+Let's say we want to apply a background color depending on a number
 value. If the number is below 30, the field should be red; between 30
-and 70, it should yellow, and above 70, it should be green. Let\'s see
+and 70, it should yellow, and above 70, it should be green. Let's see
 how this looks like:
 
 {{< image alt="list-formatting.gif" src="images/blog/modern-sharepoint-list-formatting/list-formatting.gif" >}}
@@ -180,7 +180,7 @@ can hover over our images to have a big preview:
 
 {{< image alt="listformat-pyod.gif" src="images/blog/modern-sharepoint-list-formatting/listformat-pyod.gif" >}}
 
-That\'s
+That's
 it!!
 
 We will find [view

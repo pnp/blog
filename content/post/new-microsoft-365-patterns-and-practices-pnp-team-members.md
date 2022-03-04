@@ -98,7 +98,7 @@ looking for new restaurants or pubs
 {{< image alt="VesaJuvonen_1-1636636072010.jpeg" src="images/blog/new-microsoft-365-patterns-and-practices-pnp-team-members/VesaJuvonen_1-1636636072010.jpeg" >}}
 
 Hi, my name is [João Mendes](https://twitter.com/joaojmendes), I'm
-Portuguese living in Porto, Portugal. I\'m Senior SharePoint Developer
+Portuguese living in Porto, Portugal. I'm Senior SharePoint Developer
 at Valo, my key role is to create applications for the Microsoft 365
 ecosystem using SPFx, FluentUI, React, TypeScript. and node.js .
 I love to develop front-end applications.
@@ -107,7 +107,7 @@ in repositories such as SharePoint Framework Client-Side Extensions,
 Reusable React controls, SharePoint Framework Client-Side Web Part. I
 love contributing to the community and sharing knowledge and helping
 others.
-When I\'m not coding, I love hanging out with my family, getting to know
+When I'm not coding, I love hanging out with my family, getting to know
 new places and cultures, taking some pictures and  listening music. You
 can follow me on [twitter](https://twitter.com/joaojmendes) or
 on [https://joaojmendes.com](https://joaojmendes.com/)
@@ -141,14 +141,14 @@ places around the UK.
 {{< image alt="VesaJuvonen_3-1636636294353.jpeg" src="images/blog/new-microsoft-365-patterns-and-practices-pnp-team-members/VesaJuvonen_3-1636636294353.jpeg" >}}
 
 [Rick](https://twitter.com/RickVanRousselt) is a consultant, speaker and
-author living in Belgium. He\'s been working with SharePoint since 2007
+author living in Belgium. He's been working with SharePoint since 2007
 and made the transition to Office 365 and Azure. His main focus is
 development, but as you all know\... working with SharePoint, Microsoft
 365 and Azure will require you to understand a bit from everything.
-He\'s a managing partner [\@Advantive
+He's a managing partner [\@Advantive
 Belgium](https://twitter.com/advantive) and you can connect with him on
 [various platforms](https://www.rickvanrousselt.com/about).
-If Rick is not online he\'s spending time with his family or visiting a
+If Rick is not online he's spending time with his family or visiting a
 community event.
 **Stephan Bisser - Technical Lead & MVP**
 
@@ -158,7 +158,7 @@ community event.
 for [Solvion](https://www.solvion.net) from Austria focusing on the
 topics Teams platform and Conversational AI. Therefore his aim is to
 bring as much intelligent applications like bots and others into the
-customer\'s modern workplace.
+customer's modern workplace.
 In April 2018, Stephan was also awarded as a Microsoft MVP for AI for
 contributing to various open-source projects, speaking at many
 conferences, sharing his knowledge on his [blog](https://bisser.io) or

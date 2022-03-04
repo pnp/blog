@@ -46,7 +46,7 @@ action less that could fail (#Lean #LessActionsLessRisks).
 
 ## How? 
 
-Let\'s first have a look at a simple JSON object:
+Let's first have a look at a simple JSON object:
 
 {{< image alt="PowerAutomate_JSONobject" src="images/blog/power-automate-skip-the-parse-json-action-to-reference-data/PowerAutomate_JSONobject.png" >}}
 

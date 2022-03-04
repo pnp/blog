@@ -85,7 +85,7 @@ at [aka.ms/spdev-blog](https://developer.microsoft.com/en-us/sharepoint/blogs/)
 
 This call was delivered on Tuesday, May 11, 2021. The call agenda is
 reflected below with direct links to specific sections.  You can jump
-directly to a specific topic by clicking on the topic\'s timestamp which
+directly to a specific topic by clicking on the topic's timestamp which
 will redirect your browser to that topic in the recording published on
 the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
@@ -148,7 +148,7 @@ Additional resources on covered topics and discussions.
     Hub](https://adoption.microsoft.com/virtual-hub/search?_sft_vh_product=sharepoint-syntex)
      
 
--   PnP Weekly -- Episode 126 with MVP guest [D\'arce
+-   PnP Weekly -- Episode 126 with MVP guest [D'arce
     Hess](https://twitter.com/DarceHess) (TrnDigital) \| @ DarceHess\|
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-126-d-arce-hess/ba-p/2341130)
     \|
@@ -217,7 +217,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/microsoftgraphcall>
 -   **SharePoint monthly call --** June 8th at 8:00am PDT \|
     <https://aka.ms/sp-call>
-\"*Too many links, can\'t remember*\" - not a problem\... **just one
+\"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
 - <http://aka.ms/m365pnp>.
 *"Sharing is caring"*

@@ -159,6 +159,6 @@ The query would sort and return the **User Principal Name** for top
 three users with the most edited files. 
 
 Hope this cheat sheet helps you in case you are working with JMESPath
-queries and don\'t hesitate to share your common scenario\'s as well!
+queries and don't hesitate to share your common scenario's as well!
 
 #sharingiscaring  

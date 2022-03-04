@@ -163,7 +163,7 @@ everyone for your contributions to the community!
 -   [Speaking at the European Collaboration Summit 2021 - Infuse AI into
     your Power Platform
     solutions](https://www.sharepointnutsandbolts.com/2021/11/ECS2021.html) -
-    [Chris O\'Brien](http://twitter.com/ChrisO_Brien) (Content+Cloud)
+    [Chris O'Brien](http://twitter.com/ChrisO_Brien) (Content+Cloud)
     \| \@ChrisO_Brien
 -   [Episode #181 - Creating forms with Adaptive Card Extensions in
     SPFx](https://www.youtube.com/watch?v=FOZMgicX_Jo) - [Paolo

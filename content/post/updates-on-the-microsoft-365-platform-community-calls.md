@@ -29,7 +29,7 @@ We will also have some Northern Hemisphere summer cancellations.
 
 {{< image alt="VesaJuvonen_1-1624888942819.png" src="images/blog/updates-on-the-microsoft-365-platform-community-calls/VesaJuvonen_1-1624888942819.png" >}}
 
-## What\'s new? - New weekly Microsoft 365 Platform community call 
+## What's new? - New weekly Microsoft 365 Platform community call 
 
 This call is targeted for the Microsoft 365 engineering PMs and other
 Microsoft employees to update our community on the latest features and
@@ -65,7 +65,7 @@ Other calls will continue normally through out the summery.
 
 ## Microsoft 365 community calls - available for everyone to join 
 
-Here\'s a summary of existing Microsoft 365 calls and the structure for
+Here's a summary of existing Microsoft 365 calls and the structure for
 future. Join on the calls to hear about the latest features and to
 engage with the community. All community calls are recorded. Call
 summaries are published as blog post articles at [Microsoft 365 PnP Tech

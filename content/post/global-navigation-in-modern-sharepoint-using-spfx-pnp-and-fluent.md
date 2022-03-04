@@ -32,7 +32,7 @@ Employees are habitual with this global navigation. So, many
 organizations prefer similar global navigation in Modern SharePoint
 sites.
 
-Let\'s Begin,
+Let's Begin,
 
 
 Below Artifacts are going to be used,

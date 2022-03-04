@@ -93,7 +93,7 @@ at [aka.ms/spdev-blog](https://developer.microsoft.com/en-us/sharepoint/blogs/)
 
 This call was delivered on Tuesday, April 13, 2021. The call agenda is
 reflected below with direct links to specific sections.  You can jump
-directly to a specific topic by clicking on the topic\'s timestamp which
+directly to a specific topic by clicking on the topic's timestamp which
 will redirect your browser to that topic in the recording published on
 the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
@@ -191,7 +191,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/sp-call>
 -   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT \|
     <https://aka.ms/adaptivecardscommunitycall>
-\"*Too many links, can\'t remember*\" - not a problem\... **just one
+\"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
 - <http://aka.ms/m365pnp>.
 *"Sharing is caring"*

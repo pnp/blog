@@ -325,14 +325,14 @@ different workloads in Microsoft 365.
 
 
 Recently, we introduced a command to easily create Azure AD app
-registrations. Because they\'re backbone of every app you\'d build on
+registrations. Because they're backbone of every app you'd build on
 Microsoft 365, we think you should be able to create them as easily as
 possible. So with CLI for Microsoft 365, you can create a fully
 configured Azure AD app for the most common scenarios with just one line
 of code.
 
 
-We\'re currently working on adding support for updating Azure AD app
+We're currently working on adding support for updating Azure AD app
 registration which will be helpful for example when building apps for
 Microsoft Teams. Stay tuned!
 
@@ -354,16 +354,16 @@ using SPO or PnP PowerShell that you use frequently, please share them
 with us so that we can learn more about the common automation scenarios.
 
 
-### \'ensure\' commands 
+### 'ensure' commands 
  
 
 
 Recently, we shipped our first ensure command - an [easy way to help you
 that a site with specific settings
 exists](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-ensure/).
-If it doesn\'t, CLI creates it for you, if it does, CLI ensures it has
-the right properties. All in one line of code. We\'d love to hear from
-you how you like it and if it\'s something you\'d like us to implement
+If it doesn't, CLI creates it for you, if it does, CLI ensures it has
+the right properties. All in one line of code. We'd love to hear from
+you how you like it and if it's something you'd like us to implement
 for other commands as well.
 
  

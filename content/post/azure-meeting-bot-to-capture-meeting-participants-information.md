@@ -13,11 +13,11 @@ draft: false
 
 In this article, we will learn about how to create Azure Meeting Bot
 which can join a team meeting via Power Automate and can log
-participant\'s information. This use case was build as part of a
+participant's information. This use case was build as part of a
 solution for one of the customers who wanted to show the dashboard of
 active meeting participants about their join and left time in Power
 Apps. They also used this information later for analyzing the
-participant\'s activities for a particular event.
+participant's activities for a particular event.
 
 ## Pre-requisites
 
@@ -234,7 +234,7 @@ our setup and team meeting. Below is how you will get this information.
 
 **callbackUri** - This has to be the endpoint of your bot API from the
 portal.azure. If you have noticed in the previous step we have modified
-the code of endpoint \'*/api/calling\'*
+the code of endpoint '*/api/calling'*
 
 For demo purposes, we will use ngrok URL after running our code and once
 we have API published to Azure, we can use a permanent URL also. This
@@ -310,7 +310,7 @@ published version, this will be according to our app service URL.
 
 {{< image alt="SiddharthVaghasia_17-1630435933853.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_17-1630435933853.png" >}}
 
-## Step - Let\'s test
+## Step - Let's test
 
 Now that we have our API endpoint ready listening to a particular URL,
 let us run PowerAutomate to add Bot to this Team meeting. Once you

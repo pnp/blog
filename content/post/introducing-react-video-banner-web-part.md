@@ -33,7 +33,7 @@ now) modify the brightness: 
  {{< image alt="derhallim_4-1620249695924.png" src="images/blog/introducing-react-video-banner-web-part/derhallim_4-1620249695924.png" >}}
  
 
-Now let\'s have a look at the code itself which is pretty simple. The
+Now let's have a look at the code itself which is pretty simple. The
 file structure can be seen below:
 
 
@@ -69,25 +69,25 @@ Notice the ref attribute on the video control? The reason we have it is
 that we want to refresh the video whenever we change the video url. By
 default, when changing the properties, all values will be reflected
 except for the video url, it needs to be explicitly refreshed on the
-video control. So we get a reference to the video control using React\'s
+video control. So we get a reference to the video control using React's
 ref, where we define the \"vRef\" value on the functional component
 itself. 
-We then use React\'s useEffect to check if the video url has changed or
+We then use React's useEffect to check if the video url has changed or
 not, if it has changed, we call the load() function on the video
 reference itself: 
 
  {{< image alt="derhallim_4-1620252332115.png" src="images/blog/introducing-react-video-banner-web-part/derhallim_4-1620252332115.png" >}}
 
  
-Some notable points about the CSS used is the div that\'s available just
-before the video control, it\'s aligned using an absolute position with
+Some notable points about the CSS used is the div that's available just
+before the video control, it's aligned using an absolute position with
 a display of flex to position the h1 element inside of it. The video
 element itself has a CSS property *object-fit: cover.*
 
 
 As demonstrated, with SPFx and the help of PnP Reusable Property Pane
 controls, building web parts using modern development techniques is very
-easy and isn\'t time consuming as some may think! Source code is
+easy and isn't time consuming as some may think! Source code is
 available on Github along with other awesome web parts by the community,
 for more information about all the PnP offerings,
 checkout <https://aka.ms/m365pnp> \

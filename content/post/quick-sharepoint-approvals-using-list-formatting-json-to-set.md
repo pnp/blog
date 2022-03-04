@@ -37,23 +37,23 @@ example below:
 
 Three list columns are needed:
 
--   A **Choice** column for the status (Suggested name: **\'Item
-    Status\'**), with the possible values: Pending, Approved, Rejected.
+-   A **Choice** column for the status (Suggested name: **'Item
+    Status'**), with the possible values: Pending, Approved, Rejected.
     The standard configurable formatting for the Choice column can do
     the trick as below:
 
 {{< image alt="choices.PNG" src="images/blog/quick-sharepoint-approvals-using-list-formatting-json-to-set/choices.PNG" >}}
 -   A **user** field to register who approved or rejected the item
-    (Suggested name **\'Approval Action By\'**)
+    (Suggested name **'Approval Action By'**)
 -   A dummy field to add the JSON template and display the buttons
     separately. The suggestion is to add a calculated field named
-    \'**Approval**\'.
+    '**Approval**'.
 
 **The logic behind the sample**
 To make the functionality cleaner, the buttons would need to be
 displayed only when the items have not been approved. So we simply set
-the CSS display property to \'**none**\' when the status is not empty
-and is different than \'**Pending**\'. And display a text message
+the CSS display property to '**none**' when the status is not empty
+and is different than '**Pending**'. And display a text message
 stating that the item was already approved or rejected.
 On each button, we set as the **customRowAction**, an action using the
 new **setField** action, and pass two fields on each using their

@@ -97,7 +97,7 @@ at [aka.ms/spdev-blog](https://developer.microsoft.com/en-us/sharepoint/blogs/)
 
 This call was delivered on Tuesday, June 8, 2021. The call agenda is
 reflected below with direct links to specific sections.  You can jump
-directly to a specific topic by clicking on the topic\'s timestamp which
+directly to a specific topic by clicking on the topic's timestamp which
 will redirect your browser to that topic in the recording published on
 the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
@@ -128,7 +128,7 @@ Additional resources on covered topics and discussions.
 -   Support - [Apply and customize SharePoint site
     templates](https://support.microsoft.com/en-us/office/apply-and-customize-sharepoint-site-templates-39382463-0e45-4d1b-be27-0e96aeec8398?ui=en-US&rs=en-US&ad=US) 
 
--   Blog Post - [Use SharePoint\'s new site templates
+-   Blog Post - [Use SharePoint's new site templates
     today!](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/use-sharepoint-s-new-site-templates-today/ba-p/2304372) 
 
 -   Article:  [THE INTRAZONE PODCAST
@@ -203,7 +203,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** June 17th at 9:00 am PDT \|
     <https://aka.ms/IDDevCommunityCalendar>[ ]
-\"*Too many links, can\'t remember*\" - not a problem\... **just one
+\"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
 - <http://aka.ms/m365pnp>.
 *"Sharing is caring"*

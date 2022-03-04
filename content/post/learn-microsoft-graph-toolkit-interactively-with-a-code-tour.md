@@ -20,11 +20,11 @@ with Microsoft Graph Toolkit
 
 Using [Microsoft Graph
 Toolkit](https://docs.microsoft.com/graph/toolkit/overview?WT.mc_id=m365-33009-wmastyka)
-is the easiest way to connect your app to Microsoft 365. Toolkit\'s
+is the easiest way to connect your app to Microsoft 365. Toolkit's
 components help you retrieve relevant data from Microsoft 365 and show
 it in your app in [any way you
 want](https://docs.microsoft.com/graph/toolkit/customize-components/templates?WT.mc_id=m365-33009-wmastyka).
-And with toolkit\'s [authentication
+And with toolkit's [authentication
 providers](https://docs.microsoft.com/graph/toolkit/providers/providers?WT.mc_id=m365-33009-wmastyka),
 setting up auth is a matter of adding a few lines of code. Never again
 fiddle with setting up a login, handling access tokens, building web
@@ -33,13 +33,13 @@ requests, and dealing with errors.
 ## Learn Microsoft Graph Toolkit interactively
 
 To help you learn what Microsoft Graph Toolkit has to offer and how
-you\'d use it in your app, we recently released a new [learning
+you'd use it in your app, we recently released a new [learning
 path](https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-33009-wmastyka)
-on Microsoft Learn. By following a few learn modules you\'ll learn
+on Microsoft Learn. By following a few learn modules you'll learn
 everything that you need to know to use the toolkit in your app. But
-that\'s not all.
+that's not all.
 
-Thinking about the different ways in which people learn, we\'ve launched
+Thinking about the different ways in which people learn, we've launched
 an experiment - an [interactive code
 tour](https://github.com/microsoftgraph/mgt-react-codetour) that you can
 follow to add Microsoft Graph Toolkit to a React app.
@@ -48,12 +48,12 @@ follow to add Microsoft Graph Toolkit to a React app.
 
 By following the instructions in the tour, you gradually extend an empty
 React app with Microsoft Graph Toolkit turning it into a true Microsoft
-365 app. What\'s cool about this code tour, is that it puts the code of
-your app in the center. Rather than reading long-form, you\'re in the
+365 app. What's cool about this code tour, is that it puts the code of
+your app in the center. Rather than reading long-form, you're in the
 code and get relevant, and in-place tips for building your app.
 
 The Microsoft Graph Toolkit React code tour is a great way to quickly
-experience how you\'d use the toolkit in a React app. We\'d love it if
+experience how you'd use the toolkit in a React app. We'd love it if
 you gave it a try and told us what you think. Shall we consider building
 tours for other technologies and scenarios?
 

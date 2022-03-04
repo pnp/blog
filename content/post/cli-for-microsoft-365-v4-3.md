@@ -57,7 +57,7 @@ m365 spfx project upgrade --preview --output md > report.md
  
  
  
-We\'d also recommend that you try a richer upgrade report based on the
+We'd also recommend that you try a richer upgrade report based on the
 Visual Studio Code CodeTour extension:
  
  
@@ -92,7 +92,7 @@ m365 spo web get --webUrl https://contoso.sharepoint.com --output csv
 ### Support for returning Power Apps in a given environment 
 
 An *environment* is a space to store, manage, and share your
-organization\'s business data, apps, chatbots, and flows. It also serves
+organization's business data, apps, chatbots, and flows. It also serves
 as a container to separate apps that might have different roles,
 security requirements, or target audiences. Previously you could only
 return a list of Power Apps in the default environment, however we have
@@ -111,7 +111,7 @@ m365 pa app list --environment Default-d87a7535-dd31-4437-bfe1-95340acd55c5
  
 ### Support for returning Azure AD users by email 
 
-We\'ve simplified returning information about a given Azure AD user, by
+We've simplified returning information about a given Azure AD user, by
 adding support for using their email address as an identifier, adding to
 ID and UPN which we also support.
  
@@ -127,7 +127,7 @@ m365 aad user get --email AarifS@contoso.onmicrosoft.com
  
 ## New commands 
 
-We\'ve introduced several commands in this release providing new
+We've introduced several commands in this release providing new
 capabilities across Microsoft 365. 
  
 ### Retrieve Azure AD app registration 
@@ -135,7 +135,7 @@ capabilities across Microsoft 365. 
 When building apps and integrations against Microsoft 365, the first
 thing you need to do is authenticate and for that you need to register
 Azure AD applications to setup that trust and assign permissions
-accordingly. We\'ve added a new command that returns information about
+accordingly. We've added a new command that returns information about
 given Azure AD app registrations.
  
 To retrieve an Azure AD app registration by its name, execute:
@@ -147,15 +147,15 @@ m365 aad app get --name "My app"
 ```
  
 
-### Check a user\'s password against the organisation\'s password validation policy 
+### Check a user's password against the organisation's password validation policy 
 
 In Azure Active Directory you can you can define fine-grained password
 policies that control account lockout settings or minimum password
-length and complexity. We\'ve added a new command that simplifies the
+length and complexity. We've added a new command that simplifies the
 ability for you to test and validate example passwords against
-your organisation\'s policy.
+your organisation's policy.
  
-To validate the password *cli365P\@ssW0rd* against your organisation\'s
+To validate the password *cli365P\@ssW0rd* against your organisation's
 password validation policy, execute:
  
  
@@ -200,7 +200,7 @@ Microsoft Search indexes all your Microsoft 365 data to make it
 searchable for users. Using the Microsoft Graph to create new external
 connections, your organization can index third-party data so it appears
 in Microsoft Search results, for example, indexing HR data in SQL
-Server. We\'ve added a new command that helps you expand the types of
+Server. We've added a new command that helps you expand the types of
 content sources that are searchable in your Microsoft 365 productivity
 apps and the broader Microsoft ecosystem.
  
@@ -218,7 +218,7 @@ m365 search externalconnection add --id MyApp --name "My application" --descript
 ### Create new Planner task 
 
 Microsoft Planner provides a simple visual way to organise teamwork,
-we\'ve added a new command that provides the ability to create new tasks
+we've added a new command that provides the ability to create new tasks
 in a Planner board but also assign those tasks to team members and set
 due dates. 
  
@@ -258,7 +258,7 @@ m365 planner task add --title "My Planner Task" --planId "8QZEH7b3wkSbGQobscsM5g
 If your organisation spans a diverse population, you may want to make
 content in your SharePoint sites available in multiple
 languages. SharePoint Online currently supports 50 different languages
-and we\'ve added a command to return the list of installed languages in
+and we've added a command to return the list of installed languages in
 a give SharePoint site to help you identify the languages available for
 use in that site.
  
@@ -340,7 +340,7 @@ When building apps for Microsoft 365, next to your code, you also need
 to manage how your app is exposed to Microsoft 365. You need to register
 your application in Azure Active Directory, and depending what type of
 app you build, you might need to deploy it to an app catalog as well.
-All these properties are managed in different locations and we\'re
+All these properties are managed in different locations and we're
 thinking of ways that we could simplify it for you.
  
 What else could we simplify? Let us know what you think by helping out

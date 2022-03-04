@@ -15,7 +15,7 @@ to build applications faster and with less code?  
 
 
 Join our experts at #PowerfulDevsConf on Sep 14, 8--11:30 PT (GMT+8).
-You\'ll hear from community members, Microsoft MVP\'s and Microsoft
+You'll hear from community members, Microsoft MVP's and Microsoft
 execs. This is a LIVE event with a variety of topics ranging from custom
 connectors to ALM and more!
 Scott Guthrie will kick things off with a fireside chat on why

@@ -72,8 +72,8 @@ $(window).on('load', function () {
 		autoplay: true,
 		dots: false,
 		arrows: true,
-		prevArrow: '<button type=\'button\' class=\'prevArrow\'><i class=\'fas fa-angle-left\'></i></button>',
-		nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'fas fa-angle-right\'></i></button>'
+		prevArrow: '<button type='button' class='prevArrow'><i class='fas fa-angle-left'></i></button>',
+		nextArrow: '<button type='button' class='nextArrow'><i class='fas fa-angle-right'></i></button>'
 	});
 
 	// instafeed

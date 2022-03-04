@@ -31,6 +31,6 @@ Listen to the show here: 
 -   [Announcing new file components, MSAL 2 Provider, and SharePoint
     Framework library in Microsoft
     Graph\...](https://developer.microsoft.com/en-us/graph/blogs/announcing-new-file-components-msal-2-provider-and-sharepoint-framework-library-in-microsoft-graph-toolkit/)
--   [Rebrand apps to your own organization\'s branding with App
+-   [Rebrand apps to your own organization's branding with App
     customization in
     Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/rebrand-apps-to-your-own-organization-s-branding-with-app/ba-p/2376296)

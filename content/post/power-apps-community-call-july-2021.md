@@ -66,7 +66,7 @@ or viewing it on demand. 
 
 -   **Kitty Run! Game** -- a procedurally generated gesture controlled
     endless runner (a.k.a. Kitty) built in Power Apps (a.k.a., the low
-    code rapid application development platform that\'s NOT for making
+    code rapid application development platform that's NOT for making
     games, but then again, why not?)  Go behind scenes to see how Kitty
     is configured to run, jump and fly.  Appreciate blocking for full
     parallax randomly generated background scrolling along with

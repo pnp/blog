@@ -215,7 +215,7 @@ slides.
     desktop](https://docs.microsoft.com/en-gb/SharePoint/viva-connections) 
 
 -   PnP Weekly -- Episode 119 with guest MVP [Chris
-    O\'Brien](http://twitter.com/ChrisO_Brien) \| \@ChrisO_Brien \|
+    O'Brien](http://twitter.com/ChrisO_Brien) \| \@ChrisO_Brien \|
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-119/ba-p/2228107)
     \|
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-119-22nd-of-march-2021/)

@@ -42,7 +42,7 @@ Set all properties as below.
 
   **Method**                          POST
 
-  **Uri**                             \_api/lists/getByTitle(\'ListTitle\')/items(ID)/breakroleinheritance(copyRoleAssignments=false,clearSubscopes=true)
+  **Uri**                             \_api/lists/getByTitle('ListTitle')/items(ID)/breakroleinheritance(copyRoleAssignments=false,clearSubscopes=true)
 
   **Headers**                         {\
                                       \"Accept\": \"application/json\",\

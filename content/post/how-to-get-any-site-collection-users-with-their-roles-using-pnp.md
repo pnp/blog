@@ -16,7 +16,7 @@ draft: false
 Sometimes we have a requirement to get reports of users and their roles
 on the SharePoint site and we have to export to CSV/Excel format. To
 achieve this solution we will use **PnP Powershell**. 
-Let\'s see step-by-step implementation:
+Let's see step-by-step implementation:
  
 
 ## Implementation 

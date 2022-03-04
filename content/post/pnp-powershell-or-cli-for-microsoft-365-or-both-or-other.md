@@ -29,13 +29,13 @@ time I got the question: which one is better?
 And probably you are expecting the answer to this question at the
 conclusion of this article but since this is one of my first articles
 ever I will do it a bit differently and give my answer now
-😀. IMO we should use both, I mean it\'s not about which
-one is better but in the end it\'s all about which tool is more suitable
+😀. IMO we should use both, I mean it's not about which
+one is better but in the end it's all about which tool is more suitable
 for the task you are up against and the more tools you know (or you may
 use in your company) the more possibilities you have to succeed in your
 task.
 ## PnP PowerShell
-This one is almost always used and it\'s quite understandable. I mean
+This one is almost always used and it's quite understandable. I mean
 usually many of SP consultants used to work with the OnPrem version of
 SharePoint, and sooner or later there was always a need of some small
 provision or other setup kind of script to be created (at least this was
@@ -44,15 +44,15 @@ used was the [SharePoint
 PowerShell](https://docs.microsoft.com/en-us/sharepoint/sharepoint-powershell).\
 The next cool thing that happened was the SharePointPnPPowerShell
 2013/16/19 and all the improvements it gave. After some time it was the
-\'must have tool\' when it comes to developing PowerShell scripts to
-manage SharePoint. Now it\'s all about the cloud and every company wants
+'must have tool' when it comes to developing PowerShell scripts to
+manage SharePoint. Now it's all about the cloud and every company wants
 to be Online and not only use SharePoint Online but all of Microsoft 365
 capabilities.
 PnP PowerShell is a newer version of the SharePointPnPPowerShellOnline
 module (which is not maintained anymore) which is cross platform, that's
 right, it will work not only on Windows but on MacOS or Linux as well,
 all thanks to PowerShell Core.
-So it\'s natural many just picked PnP PowerShell. Currently it has
+So it's natural many just picked PnP PowerShell. Currently it has
 almost 600 commands ([check full docs
 list](https://github.com/pnp/powershell/tree/dev/documentation)) that
 gives the possibility to manage SharePoint Online, Microsoft Teams,
@@ -69,12 +69,12 @@ Install-Module -Name "PnP.PowerShell"
 ```
 command and you're good to go.
 Maybe you would like to contribute? You would like to make something new
-or do a fix. That\'s great, as it is written in C# (so how hard can it
+or do a fix. That's great, as it is written in C# (so how hard can it
 be right?), it uses CSOM (as expected for C# code and SP Online things)
 but also MS Graph, and there even is a [ready guide to help you get
 started](https://pnp.github.io/powershell/articles/buildingsource.html)
 ## CLI for Microsoft 365
-And What\'s this? And why would I need this? TBH those were my questions
+And What's this? And why would I need this? TBH those were my questions
 when I first go to know this tech. Please be aware at that time
 SharePointPnPPowerShellOnline (as the PnP.PowerShell was not out yet)
 was only for Windows (it could only run on windows PowerShell because of
@@ -94,12 +94,12 @@ Some commands do simple things but some actually are ready to use
 scenarios all done under a single command. Check out the [full list of
 commands](https://pnp.github.io/cli-microsoft365/cmd/login/#usage)
 That's nice right. But how does it work. Well CLI for M365 is given as a
-npm package, that\'s right you need Node.js (that\'s why it\'s cross
-platform), and if you are guessing that it\'s probably all written in
-javascript than you are right again. How cool is that. I mean if it\'s
+npm package, that's right you need Node.js (that's why it's cross
+platform), and if you are guessing that it's probably all written in
+javascript than you are right again. How cool is that. I mean if it's
 not cool for you then I will just bring a life example I had. Usually
 when you apply for an SharePoint dev kind of role there always is a
-PowerShell skill in the \'must have\' in the job description. That\'s
+PowerShell skill in the 'must have' in the job description. That's
 understandable but still there are not many SharePoint developers so
 usually companies are looking for web developers. For SharePoint online
 maybe the story is not that different, at least not like for an SP
@@ -111,8 +111,8 @@ do all she or he needs (web page frontend using React or Angular or
 whatever + a backend web API using node.js). But now... well now (thanks
 to CLI for M365) with javascript that web developer may also manage
 Microsoft 365 and the PowerShell skills in the job description may not
-be that \'must have\' as it used to be before.
-If you haven\'t used it before probably you are also wondering how
+be that 'must have' as it used to be before.
+If you haven't used it before probably you are also wondering how
 similar it is to PnP.PowerShell (in terms of commands). [Check out this
 map
 table](https://pnp.github.io/cli-microsoft365/about/comparison-powershell/)
@@ -121,7 +121,7 @@ You may also think how much it is used? To answer this please check out
 matrix](https://pnp.github.io/script-samples/matrix.html) and checkout
 were you see the most likes (yes in the CLI for M365 column).
 So maybe you would like to contribute? You tried it out and something
-did not work well and you want to add a fix. That\'s great! It is
+did not work well and you want to add a fix. That's great! It is
 written in javascript and mainly uses MS Graph and standard Web API
 (like SharePoint Rest API). Please check the [contribute wiki page to
 get you started](https://github.com/pnp/cli-microsoft365/wiki)
@@ -165,16 +165,16 @@ Write-Host "Done! :-)" -ForegroundColor Green
 What is the flow here? First we login (or we check if we are still
 logged in) to the tenant. And then we execute commands to get and/or
 modify passing the web url as an param.
-It does look very similar don\'t you think? Both are really readable,
+It does look very similar don't you think? Both are really readable,
 logical and easy to maintain. Of course there will be scenarios when one
 is better over the other or one just does not support it (yet).
-In this simple example above we see the way we \'connect\' is different.
+In this simple example above we see the way we 'connect' is different.
 In PnP.PowerShell we usually connect to the site we want to change but
 in CLI for M365 we connect to the tenant, and not only that, the
 CLI [persists the
 connection](https://pnp.github.io/cli-microsoft365/concepts/persisting-connection/).
 This is very handy when you do CLI work on your tenant every day on
-multiple sites and you don\'t want to start every time from logging in
+multiple sites and you don't want to start every time from logging in
 (connecting).
 Also it would seem that CLI for M365 would be better for a scenario were
 we have a list of sites we need to loop and apply some change.
@@ -196,7 +196,7 @@ foreach ($site in $sites)
 ```
 Of course we would not need to pass the credentials, as there are other
 authenticate options we might use like credential manager (but then
-it\'s windows only) or Microsoft.PowerShell.SecretManagement and
+it's windows only) or Microsoft.PowerShell.SecretManagement and
 Microsoft.PowerShell.SecretStore (multi platform), please check [this
 link](https://pnp.github.io/powershell/articles/authentication.html) for
 more info. But regardless of authenticate option still the concept of
@@ -212,17 +212,17 @@ foreach ($site in $sites)
     m365 spo web set --webUrl $site --title 'test'
 }
 ```
-Now should we say that one approach is better over the other... I don\'t
+Now should we say that one approach is better over the other... I don't
 know ;). For me both tools did what I needed in a reasonable amount of
 time.
 The above example is just a simple case were but we may already have a
 feeling when and why we could use one tool over the other.
 ## Both\... really?
 Using those both together. Now that's strange. TBH I totally agree, but
-let\'s think of example case were we already have some script ready in
-PnP.PowerShell doing something on the site (let\'s say changing the
+let's think of example case were we already have some script ready in
+PnP.PowerShell doing something on the site (let's say changing the
 title so the example will be similar to the previous one) but we just
-don\'t know which sites should be modified and we need to query the
+don't know which sites should be modified and we need to query the
 lists of sites that match some pattern and apply changes only there.
 Well there is a single line for it in the CLI for M365, and it would be
 a shame not to use it.

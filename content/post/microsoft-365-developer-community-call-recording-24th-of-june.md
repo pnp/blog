@@ -84,7 +84,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     Sathya Raveendran (Microsoft), Saikrishna Neeli & Arun Kumar
     Anaparthi** (Zen3 Infosolutions)
 {{< image alt="210624-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-24th-of-june/210624-together-mode.gif" >}}
-Thank you for joining for today\'s PnP Community call.   It\'s a full
+Thank you for joining for today's PnP Community call.   It's a full
 house!   
 **Demos** delivered in this session
 
@@ -258,7 +258,7 @@ slides.
 -   **Power Apps monthly call** **--** July 21st at 8:00 am PDT \|
     <https://aka.ms/PowerAppsMonthlyCall>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
-targeted at anyone who\'s interested in the general Microsoft 365
+targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Microsoft Flow, PowerApps, Column Formatting, list

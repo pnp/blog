@@ -92,7 +92,7 @@ designer
         for usrName & userEmail selected from the dynamic content from
         the outputs of the action **Get response details**. The created
         on textBlock element has the flow expression
-        formatDateTime(utcNow(),\'g\') to display the current datetime
+        formatDateTime(utcNow(),'g') to display the current datetime
         information on the card.
 
 {{< image alt="AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png" >}}
@@ -228,7 +228,7 @@ or
 @outputs('Post_adaptive_card_and_wait_for_a_response')?['body/responder/userPrincipalName']
 ```
 To get the submitActionId, enter the expression
-outputs(\'Post_adaptive_card_and_wait_for_a\_response\').body.submitActionId
+outputs('Post_adaptive_card_and_wait_for_a\_response').body.submitActionId
 in the compose action, then add a condition control to decide action
 based on users approval
 
@@ -336,12 +336,12 @@ directly proceed to granting the external user access to SharePoint.
 Graph API to check if a guest user already exists:
 
 [https://graph.microsoft.com/v1.0/users?\$filter=UserType eq
-\'Guest\'&\$filter=mail eq
+'Guest'&\$filter=mail eq
 exteruseremailadd\...](https://graph.microsoft.com/v1.0/users?$filter=UserType%20eq%20'Guest'&$filter=mail%20eq%20exteruseremailaddress@domain.com') 
 
 or
 
-[https://graph.microsoft.com/v1.0/users?\$filter=startswith(mail,\'[exteruseremailaddress\@domain.com]\'u)](https://graph.microsoft.com/v1.0/users?$filter=startswith(mail,'fejom29487@troikos.com'))
+[https://graph.microsoft.com/v1.0/users?\$filter=startswith(mail,'[exteruseremailaddress\@domain.com]'u)](https://graph.microsoft.com/v1.0/users?$filter=startswith(mail,'fejom29487@troikos.com'))
 
 Find below the Graph API endpoint http request details to [invite the
 external

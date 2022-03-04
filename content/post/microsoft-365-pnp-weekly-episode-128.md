@@ -61,7 +61,7 @@ everyone for your contributions to the community!
 
 
 **Microsoft articles:**
--   [Rebrand apps to your own organization\'s branding with App
+-   [Rebrand apps to your own organization's branding with App
     customization in
     Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/rebrand-apps-to-your-own-organization-s-branding-with-app/ba-p/2376296?WT.mc_id=m365-29364-wmastyka) -
     Vaibhav Agarwal (Microsoft)

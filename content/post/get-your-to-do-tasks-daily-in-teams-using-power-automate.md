@@ -11,7 +11,7 @@ draft: false
 ---
 
 
-> This blog post is inspired by Ayca Bas\'s [excellent blog
+> This blog post is inspired by Ayca Bas's [excellent blog
 > post](https://dev.to/azure/get-your-to-do-tasks-every-morning-on-microsoft-teams-using-azure-logic-apps-3ci1)
 > on this subject using Azure Logic Apps instead of Power Automate
 
@@ -32,7 +32,7 @@ is now possible to integrate with your To Do tasks outside of To Do.
 
 ## A Helpful Reminder
 
-Whilst you can set reminders against tasks in To Do, wouldn\'t it be
+Whilst you can set reminders against tasks in To Do, wouldn't it be
 awesome to have these surface outside of the To Do app too? Before we
 start, make sure you have some pending tasks on your **Tasks** list in
 To Do!
@@ -54,7 +54,7 @@ will undertake the following:
 
 ## Microsoft Graph To Do APIs in Graph Explorer
 
-To understand how the Microsoft Graph To Do API queries work, let\'s use
+To understand how the Microsoft Graph To Do API queries work, let's use
 [Microsoft Graph
 Explorer](https://developer.microsoft.com/graph/graph-explorer) to make
 a query against your own data. The first task is to select **Sign in to
@@ -76,7 +76,7 @@ Using the *id*, change the address of the query to
 with *{taskListId}* being replaced with the *id* in the response.
 
 
-> If the task lists response contains multiple task lists, don\'t worry,
+> If the task lists response contains multiple task lists, don't worry,
 > just choose the list with the name *Tasks*
 > 
 Based on my response above, my query would be
@@ -359,7 +359,7 @@ Now, add the following:
 ![PA23.png](/t5/image/serverpage/image-id/245844iA6ACB891F17FB1AB/image-size/large?v=v2&px=999 "PA23.png")
 
 If you were to run the Flow now, you will see the list of tasks appear
-in Teams. However, choosing any of the tasks doesn\'t do anything.
+in Teams. However, choosing any of the tasks doesn't do anything.
 
 ![Teams.png](/t5/image/serverpage/image-id/245845iC63F90C632DB47BD/image-size/large?v=v2&px=999 "Teams.png")
 
@@ -372,7 +372,7 @@ previous loop, select *value* output from **Parse JSON**.
              
 Within this **Apply to each** step, **Add an action** and choose
 **Condition**. A **Condition** is a way to verifying a value is what we
-want/don\'t want. In our scenario, we are looping through tasks and
+want/don't want. In our scenario, we are looping through tasks and
 looking for the one that matches what the user selected in Teams. To do
 this set the first value as *selectedOption* under **Post a choice\...**
 and the second value is *title* under **Parse JSON**.

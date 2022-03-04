@@ -30,7 +30,7 @@ that might be useful for other SPFx projects.
  
 ### 1. Use React component in the SPFx Extension
 
-SPFx extension doesn\'t include React component by default but we can
+SPFx extension doesn't include React component by default but we can
 easily add it manually.
 We just need to render our React component in the placeholder element
 provided by the SPFx Extension Application Customizer.
@@ -41,13 +41,13 @@ code [here](https://github.com/pnp/sp-dev-fx-extensions/blob/635f2cc96302b193ed
  
 ### 2. Get data from SharePoint list based on View using PnP JS
 
-I\'m using SharePoint list as the data source.
-In order to make it simple to manage the news, I\'m leveraging the list
+I'm using SharePoint list as the data source.
+In order to make it simple to manage the news, I'm leveraging the list
 view and getting the data based on the view configuration.
-It\'s great because we don\'t need to build any custom configuration
+It's great because we don't need to build any custom configuration
 mechanism in our app to configure (sort, filter, top, etc.) the data to
 be displayed. Just use the OOTB list view configuration.
-It\'s very easy to get the data based on the list view using the [PnP
+It's very easy to get the data based on the list view using the [PnP
 JS](https://pnp.github.io/pnpjs/sp/). Below is my implementation:
 1.  Get the view information
     using [list.views.getByTitle(\...)](https://pnp.github.io/pnpjs/sp/views/#get-views-in-a-list)
@@ -60,10 +60,10 @@ code [here](https://github.com/pnp/sp-dev-fx-extensions/blob/a2f8ca83d13978835c
  
 ### 3. Use React third party component 
 
-I\'m using an open-source React third party component for the running
+I'm using an open-source React third party component for the running
 text component:
 [react-ticker](https://github.com/AndreasFaust/react-ticker).
-It\'s easy to add any React third party components to our SPFx project.
+It's easy to add any React third party components to our SPFx project.
 You can find my implementation code
 [here](https://github.com/pnp/sp-dev-fx-extensions/blob/main/samples/react-application-news-ticker/src/extensions/newsTicker/components/NewsTicker.tsx).
  

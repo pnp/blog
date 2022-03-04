@@ -65,7 +65,7 @@ main developer of [EasyLife 365](https://www.easylife365.cloud) a new
 governance solution for Microsoft 365.
 Patrick actively contributes to various projects on GitHub. You can
 follow him on [GitHub](https://github.com/plamber).
-When Patrick isn\'t coding or helping customers, you will find him
+When Patrick isn't coding or helping customers, you will find him
 walking his dog or dancing Salsa around the world.
 
 

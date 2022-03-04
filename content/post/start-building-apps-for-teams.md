@@ -53,11 +53,11 @@ path](https://docs.microsoft.com/learn/paths/m365-msteams-associate/?WT.mc_id=m3
 
 ### [Microsoft Teams developer documentation](https://docs.microsoft.com/microsoftteams/platform/overview?WT.mc_id=m365-15200-wmastyka)
 
-Another great place to start is the developer documentation. It\'s a
+Another great place to start is the developer documentation. It's a
 complete reference of the different development capabilities on the
 Teams platform. You will find in there everything from a high-level
 overview of what you can build on Teams to the detailed specification of
-the different features. What\'s cool about learning from the docs is
+the different features. What's cool about learning from the docs is
 that you can choose your own path and which topics you want to learn
 first.
 
@@ -66,8 +66,8 @@ documentation](https://docs.microsoft.com/microsoftteams/platform/overview?WT.mc
 
 ### [Teams app templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-15200-wmastyka) 
 
-One way to learn is to see what\'s possible and what others build. If
-you want to get inspired, see what\'s possible or look at how you could
+One way to learn is to see what's possible and what others build. If
+you want to get inspired, see what's possible or look at how you could
 implement a specific scenario, you should check out the [Teams app
 templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-15200-wmastyka).
 There are over 40 sample ready-to-use apps including their source code
@@ -77,7 +77,7 @@ for you to explore!
 A part of the docs are tutorials for the Teams developer platform. If
 you want to get hands-on, this is a great place to start. You can find
 tutorials showing apps built using different technologies like Node.js
-or C#. And don\'t forget to check out [code
+or C#. And don't forget to check out [code
 samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) too!
 
 [View tutorials for the Teams developer
@@ -94,10 +94,10 @@ offer at [aka.ms/m365pnp](https://aka.ms/m365pnp).
 # today 
 
 Over 250 million users work with Microsoft 365 and Microsoft Teams plays
-a key role in people\'s workdays. By integrating your app with Teams you
+a key role in people's workdays. By integrating your app with Teams you
 bring it to where people already are and make it a part of their daily
 routine.
-Give Teams a try and I\'m curious to hear what you\'ve built. And if you
-have any questions, don\'t hesitate to ask them on our community forums
+Give Teams a try and I'm curious to hear what you've built. And if you
+have any questions, don't hesitate to ask them on our community forums
 at
 [aka.ms/m365pnp-community](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP?WT.mc_id=m365-15200-wmastyka).

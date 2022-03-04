@@ -17,10 +17,10 @@ draft: false
  lia-message-body-content
 ## Introduction 
 
-Formik is the world\'s most popular open-source form library for React
+Formik is the world's most popular open-source form library for React
 and React Native. We can also use this library in our SPFx web part as
-well to manage form validations. Using this library we don\'t have to
-write custom validations. so let\'s start step-by-step implementation.
+well to manage form validations. Using this library we don't have to
+write custom validations. so let's start step-by-step implementation.
 
 ### What is formik? 
 
@@ -232,9 +232,9 @@ export default class ReactFormikWebPart extends BaseClientSideWebPart<IReactForm
 
 5\. Move to the **ReactFormik.tsx** file to render form and validations
 **yup syntaxs:**
--  For string: yup.string().required(\'Required\')
+-  For string: yup.string().required('Required')
 
--  For date: yup.date().required(\'Required\').nullable()
+-  For date: yup.date().required('Required').nullable()
 **Related to Formik**
 Fromik has its own handleReset and handleSubmit method so we don not
 have to manage manually

@@ -29,7 +29,7 @@ apps** and **scenarios**. Using these pivots, you can learn what's
 possible in a way that's intuitive for your role.
  
 
-Microsoft 365 developers, familiar with Microsoft\'s technology, can
+Microsoft 365 developers, familiar with Microsoft's technology, can
 jump to the specific Microsoft product and learn how to extend it. New
 developers can explore the opportunities by looking at the different
 types of apps. Business decision makers can look at the scenarios to
@@ -42,7 +42,7 @@ Microsoft Docs, Learn, YouTube and GitHub to help you learn how to get
 started building these apps.
  
 
-We\'re excited to share the Microsoft 365 Extensibility look book with
-you and hope you\'ll find it helpful in your conversations with your
-colleagues and customers. And please, don\'t hesitate to let us know if
+We're excited to share the Microsoft 365 Extensibility look book with
+you and hope you'll find it helpful in your conversations with your
+colleagues and customers. And please, don't hesitate to let us know if
 you have suggestions how we could improve it.

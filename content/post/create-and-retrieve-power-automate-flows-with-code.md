@@ -14,7 +14,7 @@ draft: false
 As you are probably aware, Microsoft is looking to [eliminate SharePoint
 2010 and 2013
 workflows](https://support.microsoft.com/en-us/office/sharepoint-2010-workflow-retirement-1ca3fff8-9985-410a-85aa-8120f626965f?ui=en-US&rs=en-US&ad=US). In fact, 2010 workflows have already been retired,
-while 2013\'s retirement date(s) are still looming. 
+while 2013's retirement date(s) are still looming. 
  
 Microsoft has advised users to manually rebuild their necessary
 SharePoint workflows (SPWF's) as comparable

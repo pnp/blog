@@ -105,7 +105,7 @@ develop inside them, as they are fully functional, just like Cinderella
 when times up, time is up! As we said earlier, if you're actively using
 dev tenants, they will auto renew every 90 days.
 
-So, now that you\'re all up to speed, what are you waiting for?! Get
+So, now that you're all up to speed, what are you waiting for?! Get
 your [dev tenant
 now](https://developer.microsoft.com/en-us/microsoft-365/dev-program "Developer Program - Microsoft 365")
 and get on your way to building some awesome solutions!

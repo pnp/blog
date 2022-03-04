@@ -18,13 +18,13 @@ where that message was?
 
 For busy people who have their lives invested in Microsoft Teams,
 whether collaborating with colleagues in Team Channels or using the Chat
-functionality, it\'s easy to forget:
+functionality, it's easy to forget:
 
 -   To take action or reply to a message
 -   The location of where that message is! Is it in a Chat, or a Team
     Channel? How far up do I have to scroll?
 
-## Outlook\'s solution: a well trodden path for many 
+## Outlook's solution: a well trodden path for many 
 
 {{< image alt="Flags in Outlook have been the bridge to emails and task management" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/Outlook Flags.png" >}}
  
@@ -40,7 +40,7 @@ task, which can be quite tedious. 
 Plus I entering a phase where I was forgetting that I had to respond to
 messages. Sometimes I ended up talking to Google (I use an Android
 phone, so you might be talking to Siri) to remind myself, but that still
-doesn\'t take you straight back to the original message with a single
+doesn't take you straight back to the original message with a single
 click - you still had to do a lot of navigation before you arrived at
 the message you were supposed to take action on.
 My poor colleagues were also getting flooded with Teams messages. If
@@ -69,7 +69,7 @@ and some caveats highlighted for anyone wanting to pursue this quick
 reminder flow!
 
 
-**Note:** this was partially inspired by Microsoft\'s own template that
+**Note:** this was partially inspired by Microsoft's own template that
 you can create directly from Power Automate, but extends it to bring
 more flexibility to the reminder time, and also bring a far more visual
 experience via adaptive cards rather than just the Flow bot.
@@ -77,9 +77,9 @@ experience via adaptive cards rather than just the Flow bot.
 ## Inspired by Microsoft 
 
 When I first saw the template provided by Microsoft, I thought: this is
-nice, but it\'s a bit too elementary with the fixed timeframes from the
+nice, but it's a bit too elementary with the fixed timeframes from the
 choice radio buttons:
-{{< image alt="Microsoft\'s own sample Flow" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/Followup.png" >}}
+{{< image alt="Microsoft's own sample Flow" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/Followup.png" >}}
 
 {{< image alt="...is perhaps a bit too restrictive" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/MS.png" >}}
 However, that was definitely a starting point. The sample Flow used an
@@ -88,11 +88,11 @@ adaptive card (with some `Input.Choice`{.sample} options) and a
 
 ## Ingredients 
 
-Here\'s the \"ingredients\" needed for the flow to allow ourselves to
+Here's the \"ingredients\" needed for the flow to allow ourselves to
 set a reminder at a particular hour/minute offset from now OR at a
 specific time:
 
-1.  One to **get user input** regarding when they\'d like to be
+1.  One to **get user input** regarding when they'd like to be
     reminded\
 
     {{< image alt="The reminder setting card can accept an hour/minute offset or absolute time as input" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/Set Reminder.png" >}}
@@ -473,14 +473,14 @@ dynamic content):
 -   The JSON card blocks are then saved in the **TeamChannelBrick**[
     variable.]
 The **ActionToTake** variable is also populated after checking for
-whether it\'s been left blank, or one of the selections have been made:
+whether it's been left blank, or one of the selections have been made:
 
 {{< image alt="Checking whether the ActionToTake choice has been set, and building the adaptive card brick to suit the input" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_3-1620123467870.png" >}}
  
 
 ## 5. Time calculations, data types & error handling  
 
-The difficult part is this bit: making sure the user\'s inputs for
+The difficult part is this bit: making sure the user's inputs for
 hours/minutes, or absolute time is valid!
 We quickly check whether either date or time entered is null or not, and
 if so, the user probably has inputted the hour/minute offset instead
@@ -494,7 +494,7 @@ since that is the default:
 reminded:**
 
 -   Check whether the **Hours** entered is blank or not (note that
-    there\'s a very subtle difference between *blank* and *null*!). If
+    there's a very subtle difference between *blank* and *null*!). If
     so, set the **HoursToDelay** variable to a \"0\" or simply use the
     hours inputted.
 -   Check whether the **Minutes** entered is blank or not. If so, set
@@ -529,14 +529,14 @@ A lot more string processing is required!
 3.  **Convert time zone - to UTC+10** (where I live): change this to
     wherever you are in the world.
 
-4.  **Compose - ticks of current time**: get the current time\'s ticks
+4.  **Compose - ticks of current time**: get the current time's ticks
 
 5.  **Compose - difference in ticks**: subtract the ticks of current
     time (4) from the ticks of the selected time (1).
 
 6.  Then check for whether the selected date is before the current time
     by seeing whether (5) is a negative number of not in
-    the **Condition - check selected date isn\'t on or before reminder
+    the **Condition - check selected date isn't on or before reminder
     date**
 
 7.  Then do some final checks for whether the number of seconds falls on
@@ -549,7 +549,7 @@ A lot more string processing is required!
 
             `add(0,div(outputs('Compose_-_difference_in_ticks'),10000000))`
 
-    2.  Checking whether there\'s remnant seconds (by looking for
+    2.  Checking whether there's remnant seconds (by looking for
         modulo 60) in **Compose** **- modulo seconds** action. If the
         number of seconds to delay by, falls on \"0\" then just add 1
         more second to it in case the user enters a time which is just
@@ -563,8 +563,8 @@ A lot more string processing is required!
 
         \
         The reason for this check is that the **Delay** action, is very
-        fussy. It only takes integers, and can\'t cope with an input of
-        **0 **(you\'d think that an input of \"0\" into the **Delay**
+        fussy. It only takes integers, and can't cope with an input of
+        **0 **(you'd think that an input of \"0\" into the **Delay**
         action would just cause it to continue full steam ahead instead
         of sitting there and waiting!)
 
@@ -577,11 +577,11 @@ it has racked up:
     `div(int(variables('TotalTimeToDelay')),86400)`
 
 This check is needed as Power Automate will time out after 30 days. But
-let\'s just be a little more conservative and set that at 28 days, and
+let's just be a little more conservative and set that at 28 days, and
 throw an error if so. This will ensure no reminders (especially those
-over 30 days) are quietly dumped without the user\'s knowledge.
+over 30 days) are quietly dumped without the user's knowledge.
 
-{{< image alt="Double checking that the user has entered a date no further than 28 days out to ensure the flow doesn\'t time out" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_0-1620126528730.png" >}}
+{{< image alt="Double checking that the user has entered a date no further than 28 days out to ensure the flow doesn't time out" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_0-1620126528730.png" >}}
  
 
 The adaptive card that reports the error if a user enters a date that is
@@ -750,19 +750,19 @@ the user enters an absolute date/time, until a major stumbling block was
 encountered: time zones!
 Power Automate basically works in UTC or UTC-8, whereas I live in
 UTC+10. Having said that, the documentation for the **Delay Until**
-action is quite scant, and it doesn\'t seem to take into consideration
+action is quite scant, and it doesn't seem to take into consideration
 what timezone you are in. Hence all of the effort to subtract ticks and
 calculate remnant seconds etc when the user selects the date/time
 option.
 
-### 7. Oops - don\'t forget the characters that adaptive cards dislike! 
+### 7. Oops - don't forget the characters that adaptive cards dislike! 
 
 Two more **Compose** actions are required before we pop the reminder
 card out, namely:
 
 {{< image alt="z3019494_2-1620126836459.png" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_2-1620126836459.png" >}}
 Unfortunately if you wanted to insert the **Plain Text Message **dynamic
-content into the replace formula, you\'re almost out of luck. Here\'s
+content into the replace formula, you're almost out of luck. Here's
 where **Compose **comes to the rescue. The **Compose - PTM without
 quotes** action has this in its formula:
     replace(replace(outputs('Compose_-_Plain_Text_Message'),'" ',''),' "','')
@@ -771,7 +771,7 @@ which replaces every instance of space-double-quote and
 double-quote-space with empty strings, in order to not allow the
 reminder card to spit the dummy with any double quotation marks.
 
-### 8. The reminder card\'s code 
+### 8. The reminder card's code 
 
 With the `TotalChannelBlock `{.sample}variable inserted into the
 appropriate location so that the correct information about the message
@@ -935,6 +935,6 @@ smartwatch notifications rely on a summary of sorts:
  
 ------------------------------------------------------------------------
 
-**Thanks for reading!** Hope you\'ve learned loads yourself! 
+**Thanks for reading!** Hope you've learned loads yourself! 
 
 ------------------------------------------------------------------------

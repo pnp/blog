@@ -38,5 +38,5 @@ Listen to the show here: 
 -   [How to Get the Microsoft 365 Connected User with PnP
     PowerShell](https://www.toddklindt.com/blog/Lists/Posts/Post.aspx?List=56f96349%2D3bb6%2D4087%2D94f4%2D7f95ff4ca81f&ID=890&Web=48e6fdd1%2D17db%2D4543%2Db2f9%2D6fc7185484fc)
 -   [MagicTooltips: PowerShell module to display contextual information
-    about the command you\'re
+    about the command you're
     currentl\...](https://github.com/pschaeflein/MagicTooltips)

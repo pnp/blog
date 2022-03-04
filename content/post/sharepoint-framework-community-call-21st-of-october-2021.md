@@ -57,7 +57,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
 \@mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
 {{< image alt="211021-together-mode.gif" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/211021-together-mode.gif" >}}
-Full house today.  Clearly we\'ve outgrow this venue.   Great to see
+Full house today.  Clearly we've outgrow this venue.   Great to see
 everybody.  See you again soon.   
 **Actions:**
 -   Vote: [Next SPFx Design Patterns Topic -- November 4,

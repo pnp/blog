@@ -48,18 +48,18 @@ the form during the next call.
 the Outlook application on mobile devices? Ideally for a local developer
 instance of an add-in server rather than one publicly accessible (since
 a hurdle is getting the mobile device to communicate successfully with
-lab instance of add-in server). We\'ve encountered issues on Android
+lab instance of add-in server). We've encountered issues on Android
 with certificates running lab instances of add-ins so would like to see
 a demonstration of recommended approach to testing on mobile devices.**
 
-Thanks for this request! We\'re working to schedule this demo this on a
+Thanks for this request! We're working to schedule this demo this on a
 future call.
 **When the Outlook REST API is decommissioned in November 2022, what API
 should add-ins deployed to customer hosted Exchange Servers (2016/2019)
 use for mobile support? Will the Outlook REST API remain active for
 Exchange Server and just be decommissioned for O365 accounts?**
 
-We\'re still working through details on this, and we plan to share more
+We're still working through details on this, and we plan to share more
 guidance in the future.
 **Is there any movement on supporting reading values, such as AppDomains
 and custom properties, from the add-in manifest at runtime through
@@ -71,9 +71,9 @@ those endpoints.**
 
 This feature is not on our backlog. We migrated UserVoice requests that
 had over 100 votes to our new [Microsoft 365 Developer Platform Ideas
-Forum](https://aka.ms/m365dev-suggestions). We\'d ask that you **Submit
+Forum](https://aka.ms/m365dev-suggestions). We'd ask that you **Submit
 an Idea** on this page and recreate your request. If there's enough
-interest from the community we\'ll definitely consider it. Thanks!
+interest from the community we'll definitely consider it. Thanks!
 **What is the roadmap for Office.js for PowerPoint? When will it achieve
 feature parity with VSTO APIs?**
 

@@ -13,12 +13,12 @@ draft: false
 
 {{< image alt="hello-i-m-nik-n1ccr-zVG68-unsplash.jpg" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/hello-i-m-nik-n1ccr-zVG68-unsplash.jpg" >}}
 When working with Microsoft 365, we see many overlapping tools and
-features, and we will need (to provide) much guidance around \'when to
-use what\' for users. While most comparisons address users, I want to
+features, and we will need (to provide) much guidance around 'when to
+use what' for users. While most comparisons address users, I want to
 cover some more IT-related scenarios in this blog post. Specifically, I
 want to compare two different RESTful APIs, which we can use in Power
 Automate and Azure Logic Apps to send HTTP requests. If you are not
-familiar with that, don\'t fret; continue to read my blog post
+familiar with that, don't fret; continue to read my blog post
 about [how to get started with http requests in Power
 Automate](https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/),
 I will grab a coffee :hot_beverage: in the meanwhile.
@@ -28,16 +28,16 @@ Back again? Cool. Let me introduce you to our
 ## []use case 
 
 We want to create a new SharePoint list and add some columns based on
-the user\'s input using Power Automate or Azure Logic Apps. When we look
+the user's input using Power Automate or Azure Logic Apps. When we look
 at the different available SharePoint actions in Power Automate, we will
-see that there is no \'create a list\' and no \'add column to SharePoint
-list\' action, but that we could try out something with [\'send an HTTP
+see that there is no 'create a list' and no 'add column to SharePoint
+list' action, but that we could try out something with ['send an HTTP
 request to
-SharePoint\'](https://docs.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request)
+SharePoint'](https://docs.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request)
 
 ### Option No. 1: SharePoint REST 
 
-The \'send an HTTP request to SharePoint\' action uses SharePoint REST
+The 'send an HTTP request to SharePoint' action uses SharePoint REST
 API. To create a list, we can look up [working with lists and lists
 items](https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest) and
 see that we need to send a POST request to
@@ -85,7 +85,7 @@ whatever suits your use case.
 
 #### Send an HTTP request to SharePoint - create a list 
 
-Now we need to add the \'send an HTTP request to SharePoint\' action:
+Now we need to add the 'send an HTTP request to SharePoint' action:
 
 -   Select the site of your choice from the dropdown menu
 -   Select method **Post**
@@ -119,7 +119,7 @@ as body- make sure you replace the placeholder with Dynamic Content:
 
 #### Parse JSON 
 
-Now we want to add a column. Let\'s have a look [into the
+Now we want to add a column. Let's have a look [into the
 documentation](https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest),
 how we can do this.
 
@@ -141,7 +141,7 @@ how we can do this.
       "StaticName": "field name"
     }
 
-We need another \'send an HTTP request to SharePoint\' action, and we
+We need another 'send an HTTP request to SharePoint' action, and we
 need the **list Guid**. To get the list Guid, we need to add a **Parse
 JSON** action. If you are not familiar with that - I blogged about
 it: [How to use Parse JSON action in Power
@@ -149,13 +149,13 @@ Automate](https://m365princess.com/how-to-use-parse-json-action-in-power-automat
 
 #### Parse JSON 
 
--   Let your flow run - just the mobile trigger and the \'send an HTTP
-    request to SharePoint\' action
+-   Let your flow run - just the mobile trigger and the 'send an HTTP
+    request to SharePoint' action
 -   Go to your flow run history
--   Copy the outputs from the \'send an HTTP request to SharePoint\'
+-   Copy the outputs from the 'send an HTTP request to SharePoint'
     action
--   add a \'Parse JSON\' action to your flow
--   select `body` from the \'send an HTTP request to SharePoint\' action
+-   add a 'Parse JSON' action to your flow
+-   select `body` from the 'send an HTTP request to SharePoint' action
     as **Content**
 -   click **Generate from sample**
 -   paste the copied JSON code in here
@@ -166,7 +166,7 @@ options, also the list Guid, which is named **Id** here.
 
 #### Send an HTTP request to SharePoint 2 - add a column 
 
-Now we add another \'send an HTTP request to SharePoint\' action, which
+Now we add another 'send an HTTP request to SharePoint' action, which
 will create us a column:
 
 -   Select the site of your choice from the dropdown menu
@@ -196,19 +196,19 @@ will create us a column:
 
 Should you stumble upon the FieldTypeKind, please find
 reference [here](https://docs.microsoft.com/en-us/previous-versions/office/sharepoint-csom/ee540543(v=office.15)) -
-2 means \'single line of text\'.
+2 means 'single line of text'.
 
 If you want to run your flow, please think about changing the list name
 because you already created a list!
 
 If we now control our newly created SharePoint list, we will see that
-our new column doesn\'t show up in the default view but that we need to
+our new column doesn't show up in the default view but that we need to
 enable the column- bummer!
 
 #### Send an HTTP request to SharePoint 3 - add column to view 
 
 To have the column in the default view (or another view), we need to add
-another \'send an HTTP request to SharePoint\' action:
+another 'send an HTTP request to SharePoint' action:
 
 -   Select the site of your choice from the dropdown menu
 -   Select method **Post**
@@ -231,11 +231,11 @@ another \'send an HTTP request to SharePoint\' action:
 
 -   no need to register an application in Azure AD
 -   send an HTTP request to SharePoint is not a premium connector, which
-    means that you won\'t need a Power Automate Standalone license
+    means that you won't need a Power Automate Standalone license
 
 #### Disadvantages of this solution: 
 
--   with an \'http request to SharePoint\' action you have - compared to
+-   with an 'http request to SharePoint' action you have - compared to
     the power of Microsoft Graph API - limited options, as you can only
     send requests to SharePoint, but not to other services in Microsoft
     365-
@@ -244,7 +244,7 @@ another \'send an HTTP request to SharePoint\' action:
 
 ### }Option No. 2: Microsoft Graph API 
 
-Let\'s see how we can create a SharePoint list or library and columns in
+Let's see how we can create a SharePoint list or library and columns in
 it using Microsoft Graph. Microsoft Graph is a super powerful set of
 APIs that gives you a consistent experience for authentication,
 documentation, and samples. You can try it out on [Microsoft Graph
@@ -311,7 +311,7 @@ ID, App ID, and App Secret
 
 #### HTTP action to create a list 
 
-Add an HTTP (not \'send an HTTP request to SharePoint action) action to
+Add an HTTP (not 'send an HTTP request to SharePoint action) action to
 your flow and fill it out as follows:
 
 -   Method: Post
@@ -365,7 +365,7 @@ If you need to add more columns, you can do that by
         }
     }
 
-and so on. Let\'s go ahead and
+and so on. Let's go ahead and
 
 -   Click **Advanced Options**
 -   Select **Active Directory OAuth**
@@ -439,7 +439,7 @@ out](https://pnp.github.io/cli-microsoft365/cmd/spo/field/field-add/)!
 ## Conclusion 
 
 As always, the answer to the question \"When shall I use what\" will be
-a typical consultant \'It Depends.\' Depending on your experience and
+a typical consultant 'It Depends.' Depending on your experience and
 skillset, the scope of your app, and how you approach it, you will
 prefer one tool over another - the purpose of this blog was to share
 some options to achieve the same thing - with creating a SharePoint list

@@ -93,7 +93,7 @@ filter query:
 
     DueDate eq '@{variables('varReminderDate')}'
 
-Where \"\@{variables(\'varReminderDate\')}\" is the *varReminderDate*
+Where \"\@{variables('varReminderDate')}\" is the *varReminderDate*
 variable. 
 
 **Note:** pay attention to the single quotes used in the ODATA filter

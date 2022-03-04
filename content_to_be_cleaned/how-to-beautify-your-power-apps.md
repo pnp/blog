@@ -89,7 +89,7 @@ To create a pop up effect, create:
 
 -   a cancel icon
 
-Group these controls; it\'s easier to work with them then.
+Group these controls; it's easier to work with them then.
 -   Now create a textlabel (or a button, or an image\... something that
     our user will click on to see the pop up).
 
@@ -229,7 +229,7 @@ Our result should look something like this:
 
  
 
-## Feedback and what\'s next? 
+## Feedback and what's next? 
 
 What are your little tricks to make apps look more beautiful? I am
 curious to learn from you! Please comment below!

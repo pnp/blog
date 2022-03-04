@@ -72,7 +72,7 @@ use this to build our custom connector.
 Of course we need to have at least a free Spotify account so that we can
 listen to music that then shall be tweeted about.\
 Before we can build the connector, we will need to register for
-Spotify\'s Developer program. Once this is done, we can retrieve Spotify
+Spotify's Developer program. Once this is done, we can retrieve Spotify
 content such as album data, playlists and more though Spotify Web API.
 To get user-related data (like the song our user is playing right now)
 we need to authorize our application so that we are allowed to retrieve
@@ -127,7 +127,7 @@ Now go back to your Custom connector
 -   enter something like GetSong in **Summary**
 -   enter a description
 -   enter an operation ID like getssong- please note, that this ID
-    shouldn\'t start with an upper case letter
+    shouldn't start with an upper case letter
 -   Select **import from sample**
 -   Select verb Get
 -   paste in [https://api.spotify.com/v1/me/player/currently-playing
@@ -149,7 +149,7 @@ Now go back to your Custom connector
 
 ### Use the custom connector in our flow 
 
-Now it\'s time to build our flow
+Now it's time to build our flow
 
 ####  Trigger flic 
 
@@ -167,9 +167,9 @@ Now we want to get the current song from our shiny new Custom connector:
 -   Select the new custom connector for Spotify
     Our intention now is to tweet something like \"I am currently
     listenintg to {songname} by {artistname}, check it out {spotify
-    URL}.\" But from our custom connector, we don\'t get the name of
+    URL}.\" But from our custom connector, we don't get the name of
     song and artist per se, we will need to first parse the JSON output.
-    If you never heard of that before, don\'t worry, go read this
+    If you never heard of that before, don't worry, go read this
     article about how to parse JSON in Power Automate, I will just wait
     here for you and drink a coffee.
     Back again? Cool!
@@ -195,7 +195,7 @@ Now we want to get the current song from our shiny new Custom connector:
 
 -   Add the post a tweet action
     provide your tweet text with Dynamic content as you wish from your
-    Parse JSON action. Don\'t be afraid when the flow adds Apply to each
+    Parse JSON action. Don't be afraid when the flow adds Apply to each
     loops! Unfortunately, both artist-name and -song-name are named
     name, so you will need to figure out which is which.
 
@@ -212,7 +212,7 @@ Now we want to get the current song from our shiny new Custom connector:
 
 
 
-### Conclusion and what\'s next 
+### Conclusion and what's next 
 
 
 In this post I explained, how you can create a custom connector and call

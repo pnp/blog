@@ -58,7 +58,7 @@ contributions are greatly appreciated by many.  The host of this call is
 call.
 {{< image alt="211202-together-mode.gif" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/211202-together-mode.gif" >}}
 Awesome to see many of you seated in those plush brown seats and others
-joining off camera on the call today.  It\'s December!
+joining off camera on the call today.  It's December!
 
 **Actions:**
 -   Opt in to PnP Recognition Program

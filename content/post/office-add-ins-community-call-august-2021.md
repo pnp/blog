@@ -13,7 +13,7 @@ draft: false
 
 ## Call Summary: 
 
-This month\'s community call features presentations - **Dialog API
+This month's community call features presentations - **Dialog API
 security updates** (recent changes to dialog API that address a security
 vulnerability requires action from you IF your add-in uses cross-domain
 communication between the dialog and taskpane.  Requirements and
@@ -63,7 +63,7 @@ Manager and Onur Onder, Senior Software Engineer.   Recorded August 11,
 
 **In response to your post about runtimes and XML errors - I am also
 having the same issue. It appears to be a bug in Visual Studio 2019
-(<https://github.com/OfficeDev/office-js/issues/1756>). I\'ve not worked
+(<https://github.com/OfficeDev/office-js/issues/1756>). I've not worked
 out how to get around it just yet. Any advice would be welcome please.**
 We recently added some guidance about how to update the XSD files in
 Visual Studio to solve this problem. For full details, see [Troubleshoot
@@ -73,10 +73,10 @@ St\...](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-devel
 
 
 **When is the GA for custom contextual tab on Mac?**
-We don\'t have an ETA on this yet but hope to provide an update soon.
+We don't have an ETA on this yet but hope to provide an update soon.
 **When can we expect addSvg method to be officially released and can you
 please provide us with a working example of this method? My attempts
-keep erroring with \"this picture can\'t be displayed\"!**
+keep erroring with \"this picture can't be displayed\"!**
 There are some issues holding us back from releasing the **addSvg** API
 to general availability. We'll update you as soon as we have a
 definitive timeline for when it will go to GA.
@@ -132,10 +132,10 @@ Yes, tag support is currently in preview -
 <https://docs.microsoft.com/office/dev/add-ins/reference/requirement-sets/powerpoint-preview-apis> 
 
 **How do I add an officeGroup to my CustomTab for my Word add-in? I
-can\'t seem to find much info on this.**
+can't seem to find much info on this.**
 
 **officeGroup** is currently only supported for PowerPoint. We plan to
-support Word and Excel in the future but we don\'t have an ETA just yet.
+support Word and Excel in the future but we don't have an ETA just yet.
 
 **Could we manage the shape object in a different slide?**
 
@@ -149,7 +149,7 @@ Slide Master view?**
 Yes. Shape APIs work with placeholder shapes, both in Normal and Slide
 Master view.
 
-**Can we change a shape\'s alt text?**
+**Can we change a shape's alt text?**
 
 Unfortunately alt text editing is not supported at this time with this
 set of APIs.
@@ -165,17 +165,17 @@ API](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-shapes).
 The Shapes collection will have information about the shape type. This
 means you can differentiate between pictures and other shapes. Some of
 the fill and line properties also applies to pictures, so those can be
-updated too. But there won\'t be more picture specific APIs in this
+updated too. But there won't be more picture specific APIs in this
 update.
 
 **Can the shapes API be used to copy existing shapes between slides?**
 
 Not yet. We are looking to provide this capability in a future update.
 
-We\'re trying out the beta of shared/delegated mailbox support and
-finding that in OWA, we still can\'t open a shared mailbox. We get the
-error: \"The operation on mailbox failed because it\'s out of the
-current user\'s write scope.\" There are more details
+We're trying out the beta of shared/delegated mailbox support and
+finding that in OWA, we still can't open a shared mailbox. We get the
+error: \"The operation on mailbox failed because it's out of the
+current user's write scope.\" There are more details
 here([https://docs.microsoft.com/en-us/answers/questions/506662/outlook-owa-addin-installation-permission-\...](https://docs.microsoft.com/en-us/answers/questions/506662/outlook-owa-addin-installation-permission-issue-de.html)).
 Is this something we can expect to work in the release?**
 
@@ -195,7 +195,7 @@ Windows. They also have access to Teams. If we open an Excel workbook in
 Teams, will they always be able to see and work with it? Are there any
 Office licensing issues?**
 
-There shouldn\'t be any licensing issues, as long as they are licensed
+There shouldn't be any licensing issues, as long as they are licensed
 for Microsoft 365 (the new name for Office 365).
 
 **Last month I asked about the ability to change the width of a task
@@ -207,8 +207,8 @@ Thanks for asking about this again. We unfortunately lost some of the
 Q&A from the last chat.
 
 Currently the user can change the task pane width in Word, Excel, and
-PowerPoint. However you can\'t set the task pane width programmatically.
-That is on our backlog but we don\'t have an ETA for when we\'ll
+PowerPoint. However you can't set the task pane width programmatically.
+That is on our backlog but we don't have an ETA for when we'll
 implement this feature.
 
 Outlook on the web does not support task pane resizing, and setting task
@@ -234,7 +234,7 @@ development in Office.JS?**
 
 For books you might take a look at [Building Office Add-ins Using
 Office.js](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbuildingofficeaddins.com%2F&data=04%7C01%7Cdavech%40microsoft.com%7C4a289dd3e6cf4ceead0808d961afa380%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637648229255222695%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=vx2G2cwLHnOe3An1vve8qW6Cr5KNGl%2Bb%2BD4hUJCFTII%3D&reserved=0).
-There isn\'t a specific certification for Office Add-in development, but
+There isn't a specific certification for Office Add-in development, but
 there is a [Microsoft 365 Certified: Developer
 Associate](https://docs.microsoft.com/en-us/learn/certifications/m365-developer-associate/)
 certification. There is an Office Add-in specific learning at [Extend
@@ -250,7 +250,7 @@ healthy and secure.
 custom function?**
 
 
-We don\'t have official support for custom functions to share previous
+We don't have official support for custom functions to share previous
 values. But there are mechanisms available that let you enable this. You
 need to [configure your add-in to use the shared
 runtime](https://docs.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime).
@@ -262,7 +262,7 @@ being called from (where you can get the old value from your cache).
 for mobile on the road map?**
 
 
-This is on our backlog but we don\'t yet have an ETA for when this could
+This is on our backlog but we don't yet have an ETA for when this could
 be available.
 
 ## Resources: 

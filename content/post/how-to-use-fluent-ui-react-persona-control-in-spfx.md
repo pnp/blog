@@ -14,13 +14,13 @@ draft: false
 ## Introduction 
 A persona is a visual representation of a person across products,
 typically showcasing the image that person has chosen to upload
-themselves. This control includes an individual\'s avatar (an uploaded
+themselves. This control includes an individual's avatar (an uploaded
 image or a composition of the person's initials on a background color),
 their name or identification, and so on. for more details refer to
 [this](https://developer.microsoft.com/en-us/fluentui#/controls/web/persona).
 ## Scenario  
 We will create an SPFx web part in the way to fetch users from any
-specific group and render these users using a persona. so let\'s see
+specific group and render these users using a persona. so let's see
 step-by-step implementation.
 In the end, our output will be like this,
 {{< image alt="Output.png" src="images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png" >}}
@@ -206,7 +206,7 @@ Create a state interface and initialize a user state.
 At here we are getting the user from a particular group ID so first call
 API to get users from the group.
 
-And then we will get user profile properties to get users\' profile
+And then we will get user profile properties to get users' profile
 picture so after calling the get users method we will call API to get
 user profile properties.
 
@@ -287,7 +287,7 @@ Find the full source code
 
 ## Summary 
 In this article, we have seen the step-by-step implementation of how to
-use a persona card to show the users\' profile picture.\
+use a persona card to show the users' profile picture.\
 \
 I hope this helps, if this helps you then share it with others.\
 \

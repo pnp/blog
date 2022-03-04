@@ -103,7 +103,7 @@ place in chat throughout the call
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
 {{< image alt="211116-together-mode.gif" src="images/blog/microsoft-365-platform-call-16th-of-november-2021/211116-together-mode.gif" >}}
-It\'s a full house and it\'s great seeing each and everyone of you.  
+It's a full house and it's great seeing each and everyone of you.  
 **Demos** delivered in this session
 
 -   **Getting started on building Microsoft Teams tabs with Adaptive

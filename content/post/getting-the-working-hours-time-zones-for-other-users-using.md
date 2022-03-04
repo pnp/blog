@@ -32,20 +32,20 @@ available (sample test using Graph Explorer):
 
 However, using delegated permissions, the current user can only access
 their own settings.
-If I try to access the same information for another user \'Carlos\'
+If I try to access the same information for another user 'Carlos'
 under the tenant, the access will be denied, even with all related
 permissions granted to the current app:
 
 {{< image alt="02_OtherUsers.PNG" src="images/blog/getting-the-working-hours-time-zones-for-other-users-using/02_OtherUsers.PNG" >}}
 
 Most of the operations that access Exchange Online with delegated
-permission will work only for the current user\'s data.
+permission will work only for the current user's data.
 
 ## The alternative
 
 By using the
 **[calendar/getSchedule](https://docs.microsoft.com/en-us/graph/api/calendar-getschedule?view=graph-rest-1.0&tabs=http)**
-action it is possible to get not only the user\'s free/busy schedule but
+action it is possible to get not only the user's free/busy schedule but
 also the working hours and time zone for any user in the tenant, using
 delegated permissions in Microsoft Graph.
 To use this action we need to do a post request to one of the following
@@ -64,7 +64,7 @@ zones in the request JSON body for this purpose, even though there can
 be no items in the schedule, the time zone and working hours will be
 returned.
 In this example, we used a date range for 20 years ago on purpose, so
-the query wouldn\'t bring any schedule items info.
+the query wouldn't bring any schedule items info.
 In the response to the query mentioned above, no schedule item is
 returned but the working hours property is still correctly provided:
 
