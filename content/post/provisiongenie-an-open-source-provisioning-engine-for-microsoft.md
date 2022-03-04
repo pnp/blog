@@ -2,13 +2,11 @@
 title: "ProvisionGenie - an open-source provisioning engine for Microsoft Teams"
 date: 2021-09-29T08:40:00-04:00
 author: "Luise Freese"
-categories: ["Microsoft Teams", 'Power Apps", "Dataverse"]
+categories: ["Microsoft Teams", "Power Apps", "Dataverse"]
 images:
-
+- images/blog/provisiongenie-an-open-source-provisioning-engine-for-microsoft/TeansResult.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 {{< image alt="TeansResult.png" src="images/blog/provisiongenie-an-open-source-provisioning-engine-for-microsoft/TeansResult.png" >}}
