@@ -333,8 +333,7 @@ the Azure portal
 You should see a status code 200 -- and a list of all your Microsoft 365
 groups. YAY!
 
-![groups
-(1).png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304845i4E5F31051B73B9B8/image-size/large?v=v2&px=999 "groups (1).png")
+![groups (1).png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/304845i4E5F31051B73B9B8/image-size/large?v=v2&px=999 "groups (1).png")
 
 ## Conclusion and FusionDev scenario 
 

@@ -46,8 +46,7 @@ following improvements:
 
 In other words, we\'re shooting for this:
 
-![Screen Shot 2021-04-06 at 2.40.56
-PM.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270627i8EC564DBD0E356FE/image-size/large?v=v2&px=999 "Screen Shot 2021-04-06 at 2.40.56 PM.png")
+![Screen Shot 2021-04-06 at 2.40.56 PM.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270627i8EC564DBD0E356FE/image-size/large?v=v2&px=999 "Screen Shot 2021-04-06 at 2.40.56 PM.png")
 
 ## Property Pane 
 
@@ -249,7 +248,7 @@ export interface PageProperty {
 ```
 
 Our effect is looking to see when changes are made to the properties,
-then is peforming our core logic to refresh properties and values.
+then is performing our core logic to refresh properties and values.
 
 ``` lang-javascript
   /**

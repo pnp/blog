@@ -18,10 +18,7 @@ list](https://github.com/OfficeDev/PnP-OfficeAddins/issues?q=is%3Aissue+is%3Aope
 
 ## Use Outlook event-based activation to tag external recipients (preview) 
 
-![Diagram showing new email with added external recipient.
-OnMessageRecipientsChange event is sent to Outlook add-in. Add-in
-prepends the text external to the subject
-line](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/297725i89CD213D6303C069/image-size/large?v=v2&px=999 "pnp-outlook-tag-external.png") [Diagram showing new email with added
+![Diagram showing new email with added external recipient. OnMessageRecipientsChange event is sent to Outlook add-in. Add-in prepends the text external to the subject line](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/297725i89CD213D6303C069/image-size/large?v=v2&px=999 "pnp-outlook-tag-external.png") [Diagram showing new email with added
 external recipient. OnMessageRecipientsChange event is sent to Outlook
 add-in. Add-in prepends the text external to the subject
 line]
@@ -44,9 +41,7 @@ the add-in appends a disclaimer to the message.
 
 ## Insert an external Excel file and populate it with JSON data 
 
-![Diagram showing a worksheet inserted into the current workbook from
-an external Excel
-file](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/297726i3CCC9EE75A5C8BF5/image-size/large?v=v2&px=999 "pnp-outlook-set-signature.png")
+![Diagram showing a worksheet inserted into the current workbook from an external Excel file](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/297726i3CCC9EE75A5C8BF5/image-size/large?v=v2&px=999 "pnp-outlook-set-signature.png")
 This sample shows how to insert an existing template from an external
 Excel file into the currently open Excel file. Then it retrieves data
 from a JSON web service and populates the template for the customer.

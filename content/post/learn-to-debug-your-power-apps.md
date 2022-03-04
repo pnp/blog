@@ -11,8 +11,7 @@ draft: false
 
 ---
 
-![Head pic for article \"Start debugging your Power
-App\"](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275359i4BB2129BA59E8E76/image-size/large?v=v2&px=999 "Debugging_Pic.png")
+![Head pic for article \"Start debugging your Power App\"](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275359i4BB2129BA59E8E76/image-size/large?v=v2&px=999 "Debugging_Pic.png")
 
 ## Make troubleshooting and understanding single elements easier
 
@@ -102,7 +101,7 @@ But if it doesn't work, you will never wonder where the error is.
 
 ### 4. Snap to align
 
-Okay, this one is a mini tipp: Did you ever try to align some buttons or
+Okay, this one is a mini tip: Did you ever try to align some buttons or
 elements and the snap to align functionality drives you crazy? Often it
 helps to arrange your elements but sometimes it's your worst enemy.
 
@@ -167,8 +166,7 @@ elements to your function and that causes it to not work. It can be a
 serious source of errors.
 
 ![Which label shows you variable and which is just some explanatory
-text?
-](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275365i8A24092F0653DDEB/image-size/large?v=v2&px=999 "Picture5.png")
+text? ](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275365i8A24092F0653DDEB/image-size/large?v=v2&px=999 "Picture5.png")
 
 ### 8. Learn what the result view is
 
@@ -180,8 +178,7 @@ important views. The result view and the data type.
 By clicking on `Office365User` the formula bar shows you the original
 record with all elements.
 
-![If it's not showing at first, click on the little arrow next to the
-function.](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275366iB6A15D561F9DBC7F/image-size/large?v=v2&px=999 "Picture6.png")
+![If it's not showing at first, click on the little arrow next to the function.](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275366iB6A15D561F9DBC7F/image-size/large?v=v2&px=999 "Picture6.png")
 
 This way you can see, what kind of records are stored and what data you
 can work with.
@@ -231,7 +228,7 @@ quickly use the correct colors.
 Set up a label for every color you want to use and set the Color value
 as you like. To not get confused later on, set the Text value to
 something clear, like *BackgroundColor* or *IconColor* and remember to
-rename the labels in the Tree view as well (see tipp #7).
+rename the labels in the Tree view as well (see tip #7).
 
 Now, whenever you want to use that color you don't need to remember or
 copy the Hexcode, but just set the value to your color label by
@@ -242,18 +239,16 @@ effort.
 
 Two labels for my most used colors
 
-![Fill value of the
-Rectangle_background](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275379iC9D6621F8554C554/image-size/large?v=v2&px=999 "Picture12.png")
+![Fill value of the Rectangle_background](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275379iC9D6621F8554C554/image-size/large?v=v2&px=999 "Picture12.png")
 
-![Color value of the
-Icon_heart](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275374i363F84D05A3F3466/image-size/large?v=v2&px=999 "Picture13.png")
+![Color value of the Icon_heart](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275374i363F84D05A3F3466/image-size/large?v=v2&px=999 "Picture13.png")
  
 
 Here you see the Fill and Color values, set by the labels we defined
 earlier.
 
-There we have it. That are 10 tipps on how to start debugging your app.
+There we have it. That are 10 tips on how to start debugging your app.
 
-Do you like them? Do you have more tipps for me? I'm always happy to get
+Do you like them? Do you have more tips for me? I'm always happy to get
 new ideas and hints because I am far from being an expert and I'm always
 learning.

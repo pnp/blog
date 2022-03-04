@@ -34,9 +34,7 @@ operations](https://developer.microsoft.com/en-us/sharepoint/blogs/general-avail
 
  
 
-![Diagram to show the transition of PnP Modernisation tooling in the
-underlying
-framework](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/259942i7BC6F152B8399B93/image-size/large?v=v2&px=999 "Modernisation-Transition.png")
+![Diagram to show the transition of PnP Modernisation tooling in the underlying framework](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/259942i7BC6F152B8399B93/image-size/large?v=v2&px=999 "Modernisation-Transition.png")
  
 
 The modernization tooling is dependent on the PnP Sites Core, we are

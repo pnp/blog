@@ -72,8 +72,7 @@ Move to the above-created directory using:
 Now execute the below command to create an SPFx solution:
      yo @microsoft/sharepoint 
 It will ask some questions, as shown below,
-![Project
-Setup.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283850iDC7320A79F49D015/image-size/large?v=v2&px=999 "Project Setup.png")
+![Project Setup.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283850iDC7320A79F49D015/image-size/large?v=v2&px=999 "Project Setup.png")
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
     code .
@@ -92,8 +91,7 @@ implementation.
 
 *SPService.ts* file inside **src/webparts/shared/service**
 In the end, our structure will be looks like this,
-![Project
-Structure.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283851i147B68545317BE61/image-size/large?v=v2&px=999 "Project Structure.png")
+![Project Structure.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283851i147B68545317BE61/image-size/large?v=v2&px=999 "Project Structure.png")
 
 
 2\. Create a state interface as below inside **IReactFormikState.ts.**

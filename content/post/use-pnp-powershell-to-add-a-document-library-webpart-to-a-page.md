@@ -43,8 +43,7 @@ Using the user interface, following steps were required:
     This can be set up from the web part properties
 
 
-![Document library UI
-properties](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287231iEA8C8F80460DE259/image-size/medium?v=v2&px=400 "MS-list.png")
+![Document library UI properties](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287231iEA8C8F80460DE259/image-size/medium?v=v2&px=400 "MS-list.png")
 
 
 That would definitely be a lot of work to do manually, so I decided that
@@ -140,8 +139,7 @@ UI: If you go to the library settings, the document library Id is shown
 in the url:
 
 
-![SharePoint document library ID in the url of the library settings
-page](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287222iE3871EB251E50F68/image-size/large?v=v2&px=999 "documentlibrary-id.png")
+![SharePoint document library ID in the url of the library settings page](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287222iE3871EB251E50F68/image-size/large?v=v2&px=999 "documentlibrary-id.png")
 
 Just cut out the %7B in the front, and the %7D on the back.\
 In this example, the document library Id is

@@ -48,8 +48,7 @@ Now execute the below command to create an SPFx solution:
 
 It will ask some questions, as shown below,
 
-![Project
-Structure.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/286247iB48EBA3A11505543/image-size/large?v=v2&px=999 "Project Structure.png")
+![Project Structure.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/286247iB48EBA3A11505543/image-size/large?v=v2&px=999 "Project Structure.png")
 
 
 

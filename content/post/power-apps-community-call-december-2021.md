@@ -11,8 +11,7 @@ draft: false
 
 ---
 
-![PowerApps Thumb December
-2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/334612i0DA8BA49033753BD/image-size/large?v=v2&px=999 "PowerApps Thumb DEcember 2021.png")
+![PowerApps Thumb December 2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/334612i0DA8BA49033753BD/image-size/large?v=v2&px=999 "PowerApps Thumb DEcember 2021.png")
 **Call Summary:**
 
 Topics covered in this month's community call includes 2 demos:

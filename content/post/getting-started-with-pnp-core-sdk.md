@@ -404,8 +404,7 @@ configuring the header, publishing and promoting pages and multi-lingual
 support.
 Once written, Hit F5, log in and see the result:
 
-![Resulting page creation by the console
-app](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263431i8319DE59D6A25B6E/image-size/large?v=v2&px=999 "result.png")
+![Resulting page creation by the console app](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263431i8319DE59D6A25B6E/image-size/large?v=v2&px=999 "result.png")
 
 ## What's Next 
 

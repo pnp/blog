@@ -472,8 +472,7 @@ role="heading"}
 ::: {.UserProfileSummary .lia-user-item .lia-js-data-userId-126615 .lia-user-info-group}
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Frequent .Contributor}
-[![Jan
-Bakker](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/318258i55E394610F259AFA/image-dimensions/40x40/image-coordinates/0%2C0%2C1024%2C1024?v=v2 "Jan Bakker"){.lia-user-avatar-message
+[![Jan Bakker](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/318258i55E394610F259AFA/image-dimensions/40x40/image-coordinates/0%2C0%2C1024%2C1024?v=v2 "Jan Bakker"){.lia-user-avatar-message
 .user-rank-ring style=""
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/126615){.UserAvatar
 .lia-link-navigation}
@@ -500,8 +499,7 @@ Bakker]{.login-bold}](https://techcommunity.microsoft.com/t5/user/viewprofilepag
 -   ::: {.UserProfileSummary .lia-user-item .lia-js-data-userId-154 .lia-user-info-group}
     ::: UserAvatarWrapper
     ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .MVP}
-    [![Albert-Jan
-    Schot](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277287i3F1B4DE667305D80/image-dimensions/40x40/image-coordinates/0%2C0%2C1500%2C1500?v=v2 "Albert-Jan Schot"){.lia-user-avatar-message
+    [![Albert-Jan Schot](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277287i3F1B4DE667305D80/image-dimensions/40x40/image-coordinates/0%2C0%2C1500%2C1500?v=v2 "Albert-Jan Schot"){.lia-user-avatar-message
     .user-rank-ring .user-rank-ring style="border-color: #107C10"
     onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/154){.UserAvatar
     .lia-link-navigation}

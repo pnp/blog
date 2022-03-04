@@ -854,8 +854,7 @@ By
 
 ::: UserAvatarWrapper
 ::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .Microsoft}
-![Vesa
-Juvonen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/430iA3AD642623E8B21D/image-dimensions/150x150/image-coordinates/0%2C0%2C220%2C220?v=v2 "Vesa Juvonen"){.lia-user-avatar-message
+![Vesa Juvonen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/430iA3AD642623E8B21D/image-dimensions/150x150/image-coordinates/0%2C0%2C220%2C220?v=v2 "Vesa Juvonen"){.lia-user-avatar-message
 .user-rank-ring .user-rank-ring style="border-color: #0078D4"
 onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/369){.UserAvatar
 .lia-link-navigation}
