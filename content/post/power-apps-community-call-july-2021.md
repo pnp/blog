@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-![900x506-JulyPAThumbslide.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298460i1972FB932E413944/image-size/large?v=v2&px=999 "900x506-JulyPAThumbslide.png")
+{{< image alt="900x506-JulyPAThumbslide.png" src="images/blog/power-apps-community-call-july-2021/900x506-JulyPAThumbslide.png" >}}
 
 **Call Summary:**
 

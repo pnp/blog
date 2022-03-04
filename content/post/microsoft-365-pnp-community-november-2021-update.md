@@ -532,16 +532,7 @@ detailed.
     list](https://github.com/MicrosoftDocs/microsoft-365-community/issues)
     with articles ideas
 ### SharePoint Framework development samples 
-{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-november-2021-update/spfx-gallery.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261742i96F265E42A76DB51?v=v2"
-li-image-display-id="'261742i96F265E42A76DB51'"
-li-message-uid="'2992931'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="spfx-gallery.png"
-style="width: 999px;"}
-
+{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-november-2021-update/spfx-gallery.png" >}
 These are the updated SharePoint Framework samples which are available
 from the the different repositories.
 -   New sample

@@ -172,7 +172,7 @@ Once done, stay on the AAD Application page and go to **Certificates�
 
 
 \
-![aad-certificate.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/301355i0B218B7BCDBBD7F6/image-size/large?v=v2&px=999 "aad-certificate.png")
+{{< image alt="aad-certificate.png" src="images/blog/update-sharepoint-list-s-author-editor-field-in-app-only-context/aad-certificate.png" >}}
 ## Authenticate to SharePoint & Update list item 
 
 

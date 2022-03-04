@@ -3,7 +3,7 @@ title: "Adaptive Cards Community Call - July 2021"
 date: 2021-07-09T05:07:00-04:00
 author: "Matt Hidinger"
 categories:  ["Adaptive Cards community call recordings"]
-- images/blog/adaptive-cards-community-call-july-2021/ThumbnailAC-July2021.png
+images: images/blog/adaptive-cards-community-call-july-2021/ThumbnailAC-July2021.png
 tags: []
 type: "regular"
 draft: false

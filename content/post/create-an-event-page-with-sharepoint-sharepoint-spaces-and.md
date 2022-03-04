@@ -71,8 +71,7 @@ For comparison see the amount of space saved below.
  
 
 For comparison see the amount of space saved below.
-![With header, the image banner takes more
-space](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328683i8B4FE9727D8B79E9/image-size/medium?v=v2&px=400 "AnandVRagav_2-1637607984045.png")
+{{< image alt="e" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/With header, the image banner takes more space" >}}
 {{< image alt="" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_4-1637607984059.png" >}}
 For the page layout choose the vertical section. This puts a vertical
 section for the full length of the page on the right-hand-side.

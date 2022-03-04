@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-![powerautomate-call-recording-19th-may.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/282230iD6B45FAD869A91FA/image-size/large?v=v2&px=999 "powerautomate-call-recording-19th-may.png")
+{{< image alt="powerautomate-call-recording-19th-may.png" src="images/blog/power-apps-community-call-may-2021/powerautomate-call-recording-19th-may.png" >}}
 
 
 **Call Summary:**

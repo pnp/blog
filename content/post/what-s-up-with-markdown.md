@@ -183,15 +183,7 @@ brackets and the image URL is in parenthesis, with no spaces in between.
 
 ##### Result: 
 
-{{< image alt="hero-parker-p-800.png" src="images/blog/what-s-up-with-markdown/hero-parker-p-800.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278097i4FCA39AB554BD209?v=v2"
-li-image-display-id="'278097i4FCA39AB554BD209'"
-li-message-uid="'2323834'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-left image-alt="hero-parker-p-800.png"
-style="width: 200px;"}
+{{< image alt="hero-parker-p-800.png" src="images/blog/what-s-up-with-markdown/hero-parker-p-800.png" >}}
 
 In case you were wondering, you can combine this with the hyperlink like
 this:
@@ -200,21 +192,14 @@ this:
 
     [![Parker the Porcupine](https://pnp.github.io/images/hero-parker-p-800.png)](http://pnp.github.io)
 
-##### Result: 
+##### Result
 
-[{{< image alt="hero-parker-p-800.png" src="images/blog/what-s-up-with-markdown/hero-parker-p-800.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278097i4FCA39AB554BD209?v=v2"
-li-image-display-id="'278097i4FCA39AB554BD209'"
-li-message-uid="'2323834'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="hero-parker-p-800.png"
-style="width: 200px;"}](https://pnp.github.io)
+{{< image alt="hero-parker-p-800.png" src="images/blog/what-s-up-with-markdown/hero-parker-p-800.png" >}}
+
 
 ### 5. Paragraphs and line breaks
 
-##### Markdown:
+##### Markdown
 
 
     Markdown will
@@ -224,12 +209,12 @@ style="width: 200px;"}](https://pnp.github.io)
 
     Two line breaks start a new paragraph.
 
-##### Result:
+##### Result
+
 Markdown will automatically remove single line breaks.
 
 Two line breaks start a new paragraph.
 
-###   {#toc-hId-278110448}
 
 ### 6. Block quotes
 

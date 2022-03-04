@@ -94,15 +94,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 -   **[Configure Teams applications with Azure App
     Configuration](https://aka.ms/msgext-graph-action-config) -**
     [Markus Moeller](http://twitter.com/Moeller2_0) \| \@Moeller2_0 
-{{< image alt="210610-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-10th-of-june/210610-together-mode.gif" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287967i4F682232231968ED?v=v2"
-li-image-display-id="'287967i4F682232231968ED'"
-li-message-uid="'2435433'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-center image-alt="210610-together-mode.gif"
-style="width: 999px;"}
+{{< image alt="210610-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-10th-of-june/210610-together-mode.gif" >}}
 Thank you for joining for today\'s PnP Community call.   The auditorium
 was packed.   
 **Demos** delivered in this session

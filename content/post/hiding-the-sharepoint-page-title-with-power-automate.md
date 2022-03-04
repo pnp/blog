@@ -57,14 +57,7 @@ First, manipulate the page relative URL+ site id from data returned by
 the Flow's trigger.
 Initialise one variable called PageUrl and set it to the property
 '**itemUrl**', gathered from the flow's trigger:
-{{< image alt="PageURL.PNG" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/PageURL.PNG" >}}{.lia-media-image
-width="614" height="188" role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310152i99A484C84B9EF99E?v=v2"
-li-image-display-id="'310152i99A484C84B9EF99E'"
-li-message-uid="'2747412'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-center image-alt="PageURL.PNG" style="width: 614px;"}
+{{< image alt="PageURL.PNG" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/PageURL.PNG" >}}
 Then initialise two variables using the following expressions as value
 (their values are simply set by manipulating the page full URL by
 splitting it and getting the right piece of the string):
@@ -77,15 +70,7 @@ the **GetFileByServerRelativeUrl **endpoint to retrieve the list item
 fields for the current page (explicitly selecting the PageLayoutType
 field, otherwise, it wouldn't be returned):
 ![send an http get
-data.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310155i440CBA25A125730F/image-size/large?v=v2&px=999 "send an http get data.PNG"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310155i440CBA25A125730F?v=v2"
-li-image-display-id="'310155i440CBA25A125730F'"
-li-message-uid="'2747412'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-center image-alt="send an http get data.PNG"
-style="width: 608px;"}
+data.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310155i440CBA25A125730F/image-size/large?v=v2&px=999 "send an http get data.PNG")
 Use the **Parse JSON** action with the schema below to facilitate
 accessing the properties:
  

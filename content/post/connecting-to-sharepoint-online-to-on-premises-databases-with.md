@@ -46,7 +46,7 @@ Connections](https://docs.microsoft.com/en-us/azure/app-service/app-service-hybr
 allowed us to connect from Azure back into the customer network without
 the need to reconfigure complex firewalls.
  
-To help visualise the solution, let's take a look at the architecture.
+To help visualize the solution, let's take a look at the architecture.
 ![The architecture overview of the
 solution](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317178i3B95467AB4BC41DF/image-size/medium?v=v2&px=400 "image-5.png")
 
@@ -58,7 +58,7 @@ The data being accessed was sensitive so the REST API had to be secure.
 It was configured so that it was backed by Azure AD using an Azure AD
 Application, implemented with OAuth authentication using JWT Bearer
 tokens. The SPFX connected to the REST API and authenticates using Open
-Id Connect to ensure that only authenticated and authorised users can
+Id Connect to ensure that only authenticated and authorized users can
 access the API. Further protection was provided by setting the API
 behind Azure API Management.
  
@@ -68,7 +68,7 @@ For the SharePoint Framework web parts to be able to authenticate with
 the REST API there are a couple of steps that need to be performed:
 -   Configure the SharePoint Framework solution to request permission to
     access the REST API
--   Authorise the request made by SharePoint Framework to access the
+-   Authorize the request made by SharePoint Framework to access the
     REST API.
 To configure the SharePoint Framework solution take a look at [this
 Microsoft
@@ -80,12 +80,12 @@ and approving the request. Now the point to make is that the user
 accepting the request needs to be a SharePoint Administrator and also
 grant admin consent to Azure AD Applications. Basically, a Global Admin
 has this role, so we worked with the IT team to ensure a privileged user
-did the authorisation. Be mindful of this when deploying to the customer
+did the authorization. Be mindful of this when deploying to the customer
 
 ![The steps to authorize accessing an API in SharePoint
 Online.](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317180i748812510ED90C92/image-size/medium?v=v2&px=400 "image-6.png")
  
-The screen to authorise SharePoint Framework solutions.
+The screen to authorize SharePoint Framework solutions.
  
 Another point to make here is that the name of the Azure AD Application
 configured in the SharePoint Framework needs to use the name of the
@@ -113,8 +113,7 @@ The Azure Hybrid Connection is set up in two places.
 The hybrid connection service establishes a connection to the Azure App
 Service through Azure Relay which is built on top of Service Bus.
 
-![Diagram explaining the architecture of Azure Hybrid
-Connections.](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317181i5F1AD7F0944D95D9/image-size/medium?v=v2&px=400 "hybridconn-connectiondiagram.png")
+![Diagram explaining the architecture of Azure Hybrid Connections.](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317181i5F1AD7F0944D95D9/image-size/medium?v=v2&px=400 "hybridconn-connectiondiagram.png")
  
 To set up the Hybrid Connection in Azure App Service you must be running
 at least the Basic Tier or above.
@@ -123,8 +122,7 @@ technology supports. The transport mechanism needs to be TCP based and
 does not support UCP. For this solution, a .NET SQL Client was used
 which is supported and works really well.
 For information on setting up the Azure Hybrid Connection see the
-following [Microsoft
-article](https://docs.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections).
+following [Microsoft article](https://docs.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections).
  
 ###  Performance 
 One of the areas that we wanted to ensure was the performance of the
@@ -133,7 +131,7 @@ approach and also check performance. The performance has been very good
 and provided that the REST API is developed with some thought, it
 performed better than expected.
 There was plenty of thought that went into the API. A few of the
-optimisations we made were
+optimizations we made were
 -   making sure that we had support for paging and limiting the number
     of records retrieved at one time.
 -   Using Dapper and performing filtering at the SQL layer rather than

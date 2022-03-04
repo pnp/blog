@@ -419,15 +419,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented
 in our bi-weekly Microsoft 365 Generic Dev community call, including the
 latest community contributors.
 ### Microsoft 365 Community docs 
-{{< image alt="community-dcos.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/community-dcos.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261740i45A51B070D635369?v=v2"
-li-image-display-id="'261740i45A51B070D635369'"
-li-message-uid="'3055873'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="community-dcos.png"
-style="width: 999px;"}
+{{< image alt="community-dcos.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/community-dcos.png" >}
 Community docs model was announced in the April 2020 and it\'s great to
 see the interest for community to help each other by providing new
 guidance on the non-dev areas. See more on the announcement from the

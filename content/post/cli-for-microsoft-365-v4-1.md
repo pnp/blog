@@ -10,8 +10,7 @@ draft: false
 
 ---
 
-![CLI for Microsoft 365
-v4.1](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/318205iD06BCE9DC1E62DB7/image-size/large?v=v2&px=999 "banner-cli-m365.png")
+{{< image alt="1" src="images/blog/cli-for-microsoft-365-v4-1/CLI for Microsoft 365 v4.1" >}}
  
 We\'ve just published a new version of the CLI for Microsoft 365 with
 new commands for working with and managing Microsoft 365 tenants and

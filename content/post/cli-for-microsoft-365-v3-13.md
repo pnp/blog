@@ -11,15 +11,7 @@ draft: false
 
 ---
 
-{{< image alt="banner-cli-m365.png" src="images/blog/cli-for-microsoft-365-v3-13/banner-cli-m365.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/262560i2113F3468D19AC83?v=v2"
-li-image-display-id="'262560i2113F3468D19AC83'"
-li-message-uid="'2701414'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-center image-alt="banner-cli-m365.png"
-style="width: 999px;"}
+{{< image alt="banner-cli-m365.png" src="images/blog/cli-for-microsoft-365-v3-13/banner-cli-m365.png" >}}
  
 We\'ve just published a new version of the CLI for Microsoft 365 with
 new commands for working with and managing Microsoft 365 tenants and

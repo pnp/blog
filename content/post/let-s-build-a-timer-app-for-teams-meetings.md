@@ -131,14 +131,7 @@ your components). Here is how to edit the parts:
 
 #### Timer input
 
-**[![Timer.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279039i6D93AE4BAA9DC42A/image-size/medium?v=v2&px=400 "Timer.png"){.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279039i6D93AE4BAA9DC42A?v=v2"
-li-image-display-id="'279039i6D93AE4BAA9DC42A'"
-li-message-uid="'2334593'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="Timer.png" style="width: 400px;"}**
+**[![Timer.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279039i6D93AE4BAA9DC42A/image-size/medium?v=v2&px=400 "Timer.png")
 
 Start by changing the **Duration** into a variable. I called it "Dauer"
 (sorry for the german, but you can call it whatever you like). The timer

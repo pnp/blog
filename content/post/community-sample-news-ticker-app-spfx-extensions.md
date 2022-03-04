@@ -17,12 +17,10 @@ created the News Ticker app. Basically, the app will show some news from
 a SharePoint list as a running text at the top of every modern page on
 the site. Below is how it looks:
  
-![News
-Ticker](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279318iBD7C1FA76F09EB66/image-size/large?v=v2&px=999 "react-application-news-ticker.gif")
+![News Ticker](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279318iBD7C1FA76F09EB66/image-size/large?v=v2&px=999 "react-application-news-ticker.gif")
  
 Below is the data source:
-![Data Source
-List](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279441iE9881D8214AAA66A/image-size/large?v=v2&px=999 "2021-05-10 19_32_40-Window.png")
+![Data Source List](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279441iE9881D8214AAA66A/image-size/large?v=v2&px=999 "2021-05-10 19_32_40-Window.png")
  
 You can find the full source code and how to install
 it [here](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-news-ticker).
@@ -39,8 +37,7 @@ provided by the SPFx Extension Application Customizer.
 You can find my implementation
 code [here](https://github.com/pnp/sp-dev-fx-extensions/blob/635f2cc96302b193ed9fbcfbc8789ffcca229748/samples/react-application-news-ticker/src/extensions/newsTicker/NewsTickerApplicationCustomizer.ts#L87 "Github link").
  
-![Render React
-Component](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279455iEFBFD8FE6D03A38E/image-size/large?v=v2&px=999 "1.png")
+![Render React Component](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279455iEFBFD8FE6D03A38E/image-size/large?v=v2&px=999 "1.png")
  
 ### 2. Get data from SharePoint list based on View using PnP JS
 
@@ -71,8 +68,7 @@ It\'s easy to add any React third party components to our SPFx project.
 You can find my implementation code
 [here](https://github.com/pnp/sp-dev-fx-extensions/blob/main/samples/react-application-news-ticker/src/extensions/newsTicker/components/NewsTicker.tsx).
  
-![Use Third Party
-Component](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279450iACED2CE0142AC1FF/image-size/large?v=v2&px=999 "2021-05-10 20_28_27-Window.png")
+![Use Third Party Component](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279450iACED2CE0142AC1FF/image-size/large?v=v2&px=999 "2021-05-10 20_28_27-Window.png")
 
 Thanks for reading. Hope you find this article
 useful

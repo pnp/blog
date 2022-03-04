@@ -140,15 +140,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -- Fabulous!
 **Together Mode!**
-{{< image alt="211111-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-11th-of/211111-together-mode.gif" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326493i256101E969F052FB?v=v2"
-li-image-display-id="'326493i256101E969F052FB'"
-li-message-uid="'2955522'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-center image-alt="211111-together-mode.gif"
-style="width: 999px;"}
+{{< image alt="211111-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-11th-of/211111-together-mode.gif" >}}
 Great seeing everyone today. Perhaps we will meet in person soon at the
 [European Collaboration and Cloud Summit](https://collabsummit.eu/) in
 Düsseldorf, Germany and/or at the [Microsoft 365 Collaboration

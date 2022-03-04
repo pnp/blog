@@ -32,8 +32,7 @@ Not quite. 
 Yes, you have access to Dataverse now and yes, you can even use premium
 connectors and that's cool. But you can go one step further.  
  
-![Kind of
-dev.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/258091i8EEA223F5C4F93A3/image-size/large?v=v2&px=999 "Kind of dev.png")
+{{< image alt="Kind of dev.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Kind of dev.png" >}}
  
  
 The Power Apps Community Plan gives you a Development Environment and

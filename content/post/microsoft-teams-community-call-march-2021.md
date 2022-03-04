@@ -2,7 +2,7 @@
 title: "Microsoft Teams Community Call - March 2021"
 date: 2021-03-18T12:19:00-04:00
 author: "Jun Pak"
-categories: ["Microsoft Teams community call recordings]
+categories: ["Microsoft Teams community call recordings"]
 images:
 - images/blog/microsoft-teams-community-call-march-2021/TitleSlide.png
 - images/blog/microsoft-teams-community-call-march-2021/Jun_Pak_0-1616095092787.gif

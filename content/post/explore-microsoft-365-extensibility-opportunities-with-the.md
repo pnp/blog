@@ -10,8 +10,7 @@ draft: false
 
 ---
 
-![Microsoft 365 Extensibility look
-book](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/289899i708F30A4AE863BBC/image-size/large?v=v2&px=999 "thumbnail_image.png")
+{{< image alt="k" src="images/blog/explore-microsoft-365-extensibility-opportunities-with-the/Microsoft 365 Extensibility look book" >}}
  
 Want to understand what types of apps you can build on Microsoft 365?
 Want to get inspired by the scenarios you could implement? Curious about

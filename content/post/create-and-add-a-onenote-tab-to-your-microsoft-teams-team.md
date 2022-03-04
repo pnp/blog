@@ -39,14 +39,7 @@ add OneNote book as a tab.
 3.  You need a team id and a channel id you want to put the OneNote book
     into as a tab
  
-{{< image alt="image-14" src="images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-14.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/257380i5F8F4DDCA3B0BC72?v=v2"
-li-image-display-id="'257380i5F8F4DDCA3B0BC72'"
-li-message-uid="'2162502'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-center image-alt="image-14" style="width: 678px;"}
+{{< image alt="image-14" src="images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-14.png" >}}
  
 Adding a new notebook is done directly to the team. The creation is
 quite simple -- I used the team name as part of the Notebook's name.

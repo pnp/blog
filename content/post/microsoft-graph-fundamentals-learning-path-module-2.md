@@ -739,26 +739,16 @@ ticket - but your application gives it to Graph to show it has
 permission to access the requested data in Microsoft 365. LOVE this
 explanation so much!
 
-::: {#tinyMceEditorLuise Freese_1 .mceNonEditable .lia-copypaste-placeholder}
- 
-:::
 
-{{< image alt="GraphAccessTokenTicket.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphAccessTokenTicket.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269453i87204035DF7ADC54?v=v2"
-li-image-display-id="'269453i87204035DF7ADC54'"
-li-message-uid="'2253924'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="GraphAccessTokenTicket.png"
-style="width: 999px;"}
+
+{{< image alt="GraphAccessTokenTicket.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphAccessTokenTicket.png" >}}
 
  
 
 We use this movie ticket/access token in the Authorization header of our
 HTTP request.
 
-## [](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-2/#register-an-application-with-azure-active-directory){#user-content-register-an-application-with-azure-active-directory .anchor}Register an application with Azure Active Directory {#toc-hId-1544557251}
+## Register an application with Azure Active Directory 
 
 In this unit, you learn which account type you can select when
 registering an app in AD and that web and single-page apps will require
@@ -768,40 +758,19 @@ tokens after authentication.
 In case you wondered: There is a big difference between authentication
 and authorization.
 
-::: {#tinyMceEditorLuise Freese_2 .mceNonEditable .lia-copypaste-placeholder}
- 
-:::
 
-{{< image alt="GraphFunAuth.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFunAuth.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269454i3EAB26416F07CD30?v=v2"
-li-image-display-id="'269454i3EAB26416F07CD30'"
-li-message-uid="'2253924'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="GraphFunAuth.png"
-style="width: 999px;"}
-
+{{< image alt="GraphFunAuth.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFunAuth.png" >}}
  
 
-## [](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-2/#exercise---register-an-application-with-azure-active-directory){#user-content-exercise---register-an-application-with-azure-active-directory .anchor}Exercise - Register an application with Azure Active Directory {#toc-hId--262897212}
+## Exercise - Register an application with Azure Active Directory
 
 This exercise walks us step by step through registering an app in Azure
 AD- I highly recommend following this unit if you never registered an
 application before:
 
-::: {#tinyMceEditorLuise Freese_3 .mceNonEditable .lia-copypaste-placeholder}
- 
-:::
 
-{{< image alt="appreg.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/appreg.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269455i658B4513DA9DF3DC?v=v2"
-li-image-display-id="'269455i658B4513DA9DF3DC'"
-li-message-uid="'2253924'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="appreg.png" style="width: 999px;"}
+
+{{< image alt="appreg.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/appreg.png" >}}
 
  
 
@@ -813,29 +782,14 @@ MSAL will make Token interaction more effortless for you because we can
 acquire tokens from the identity platform to authenticate users and
 access Microsoft Graph.
 
-::: {#tinyMceEditorLuise Freese_4 .mceNonEditable .lia-copypaste-placeholder}
- 
-:::
 
-{{< image alt="auth.gif" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/auth.gif" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269457i508CC551501A441C?v=v2"
-li-image-display-id="'269457i508CC551501A441C'"
-li-message-uid="'2253924'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="auth.gif" style="width: 999px;"}
+{{< image alt="auth.gif" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/auth.gif" >}}
 
  
-
-\
-
- 
-
 Now that we understood the authentication flow, it\'s time to get our
 hands dirty with
 
-## [](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-2/#exercise---retrieve-an-access-token-using-msal){#user-content-exercise---retrieve-an-access-token-using-msal .anchor}Exercise - Retrieve an access token using MSAL {#toc-hId-417161158}
+## Exercise - Retrieve an access token using MSAL
 
 To get this straight - you will clone a repository either using git or
 downloading a zip file. After opening this in Visual Studio Code (or any
@@ -845,40 +799,16 @@ and app ID from your Azure app registration.
 The unit walks you through some crucial parts of your app and lets you
 map this code to the authentication flow.
 
-::: {#tinyMceEditorLuise Freese_5 .mceNonEditable .lia-copypaste-placeholder}
- 
-:::
 
-{{< image alt="GraphApp.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphApp.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269458i26472C2AE44078D7?v=v2"
-li-image-display-id="'269458i26472C2AE44078D7'"
-li-message-uid="'2253924'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="GraphApp.png" style="width: 999px;"}
+{{< image alt="GraphApp.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphApp.png" >}}
 
- 
 
 Congratz! - you made it!
 
-::: {#tinyMceEditorLuise Freese_6 .mceNonEditable .lia-copypaste-placeholder}
- 
-:::
+{{< image alt="GraphFun-didit2.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFun-didit2.png" >}}
 
-{{< image alt="GraphFun-didit2.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFun-didit2.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/269459i7B75863D2FEB67D0?v=v2"
-li-image-display-id="'269459i7B75863D2FEB67D0'"
-li-message-uid="'2253924'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="GraphFun-didit2.png"
-style="width: 999px;"}
 
- 
-
-## [](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-2/#conclusion){#user-content-conclusion .anchor}Conclusion {#toc-hId-283476434}
+Conclusion 
 
 I loved this module - even if I already knew how to register
 applications and what Microsoft Graph does - it clarified the
@@ -886,469 +816,3 @@ authentication flow once again and walked me nicely through some crucial
 parts of the code that I cloned from the MSLearn repository. Some basic
 understanding of JavaScript was beneficial to let the app run and know
 WHY and HOW it runs.
-:::
-
- 
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-footer}
-::: {.lia-quilt-column .lia-quilt-column-12 .lia-quilt-column-left .lia-quilt-column-footer-left}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-left}
-::: {#kudosButtonV2 .KudosButton .lia-button-image-kudos-wrapper .lia-component-kudos-widget-button-version-3 .lia-component-kudos-widget-button-horizontal .lia-component-kudos-widget-button .lia-component-kudos-action .lia-component-message-view-widget-kudos-action lia-kudos-id="2253924"}
-::: {.lia-button-image-kudos .lia-button-image-kudos-horizontal .lia-button-image-kudos-enabled .lia-button-image-kudos-not-kudoed .lia-button-image-kudos-has-kudoes .lia-button-image-kudos-has-kudos .lia-button aria-atomic="true" aria-live="assertive"}
-::: lia-button-image-kudos-count
-[[ 1 ]{#messageKudosCount_23162f4fddb74c .MessageKudosCount
-.lia-component-kudos-widget-message-kudos-count itemprop="upvoteCount"}[
-Like ]{.lia-button-image-kudos-label
-.lia-component-kudos-widget-kudos-count-label}](/t5/kudos/messagepage/board-id/Microsoft365PnPBlog/message-id/143/tab/all-users "Click here to see who gave likes to this post."){#link_7
-.lia-link-navigation .kudos-count-link}
-:::
-
-::: lia-button-image-kudos-give
-[Like](https://techcommunity.microsoft.com/t5/blogs/v2/blogarticlepage.kudosbuttonv2.kudoentity:kudoentity/kudosable-gid/2253924?t:ac=blog-id/Microsoft365PnPBlog/article-id/143&t:cp=kudos/contributions/tapletcontributionspage "Click here to give likes to this post."){#kudoEntity
-.lia-link-navigation .kudos-link .lia-link-ticket-post-action}
-:::
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-column .lia-quilt-column-12 .lia-quilt-column-right .lia-quilt-column-footer-right}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-right}
-::: {.lia-button-group .lia-component-comment-button .lia-component-message-view-widget-comment-button}
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-mod-controls}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-mod-controls-main}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single .lia-mark-empty}
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-sub-footer}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-sub-footer .lia-mark-empty}
-:::
-:::
-:::
-:::
-:::
-
-::: {#progressBar .lia-progress .lia-js-hidden}
-::: lia-progress-indeterminate
-:::
-:::
-:::
-:::
-
-[]{#comment-on-this} [ ]{#feedback-successinformationbox_6}
-
-::: {#informationbox_6 .InfoMessage .lia-panel-feedback-banner-note .lia-component-comment-editor}
-::: {.lia-text role="alert"}
-You must be a registered user to add a comment. If you\'ve already
-registered, sign in. Otherwise, register and sign in.
-
--   [Comment](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&redirectreason=permissiondenied&referer=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fmicrosoft-365-pnp-blog%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2Fba-p%2F2253924%23comment-on-this){#link_8
-    .lia-link-navigation .blog-link .lia-message-comment-post}
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-column .lia-quilt-column-06 .lia-quilt-column-right .lia-quilt-column-side-content}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-right}
-%3CLINGO-SUB%20id%3D%22lingo-sub-2253924%22%20slang%3D%22en-US%22%3EMicrosoft%20Graph%20Fundamentals%20learning%20path%20%E2%80%93%20Module%202%3C%2FLINGO-SUB%3E%3CLINGO-BODY%20id%3D%22lingo-body-2253924%22%20slang%3D%22en-US%22%3E%3CDIV%20class%3D%22markdown-body%22%3E%0A%3CP%3EWelcome%20back%20to%20my%20series%20about%20the%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3E%3CA%20href%3D%22https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fpaths%2Fm365-msgraph-fundamentals%2F%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3EMicrosoft%20Graph%20Fundamentals%20learning%20path%3C%2FA%3E%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3Eon%20Microsoft%20Learn.%20This%20is%20part%202%3B%20if%20you%20did%20not%20read%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3E%3CA%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-1%2F%22%20target%3D%22_blank%22%20rel%3D%22nofollow%20noopener%20noreferrer%22%3Epart%201%3C%2FA%3E%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3Eyet%2C%20this%20is%20your%20chance%20to%20catch%20up!%20I%20will%20stay%20here%20and%20wait%20for%20you%20with%20a%20coffee%3CSPAN%3E%26nbsp%3B%3Ahot_beverage%3A%3C%2FSPAN%3E%3C%2FP%3E%0A%3CDIV%20id%3D%22tinyMceEditorLuise%20Freese_0%22%20class%3D%22mceNonEditable%20lia-copypaste-placeholder%22%3E%26nbsp%3B%3C%2FDIV%3E%0A%3CP%3EThis%20module%20is%20called%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3E%3CSTRONG%3EConfigure%20a%20JavaScript%20application%20to%20retrieve%20Microsoft%20365%20data%20using%20Microsoft%20Graph%3C%2FSTRONG%3E%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3Eand%20we%20start%20with%20an%3C%2FP%3E%0A%3CH2%20id%3D%22toc-hId\--495617830%22%20id%3D%22toc-hId\--495617831%22%3E%3CA%20id%3D%22user-content-intro%22%20class%3D%22anchor%22%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2F%23intro%22%20target%3D%22_blank%22%20rel%3D%22noopener%20nofollow%20noreferrer%22%20aria-hidden%3D%22true%22%3E%3C%2FA%3Eintro%3C%2FH2%3E%0A%3CP%3EWe%20are%20still%20sticking%20to%20the%20business%20scenario%20from%20module%201%3A%20We%20want%20to%20create%20an%20app%20that%20can%20access%20email%2C%20chats%2C%20files%2C%20meetings.%20To%20authenticate%20users%2C%20Microsoft%20365%20uses%20Microsoft%20Identity%2C%20and%20we%20will%20need%20to%20use%20Microsoft%20Identity%20and%20Microsoft%20Graph%20to%20get%20the%20data%20we%20want%20to%20display%20in%20our%20app%20by%20using%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3E%3CA%20href%3D%22https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Factive-directory%2Fdevelop%2Fmsal-overview%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3EMicrosoft%20Authentication%20Library(MSAL)%3C%2FA%3E.%3C%2FP%3E%0A%3CP%3EWait%2C%20what%3F%20Don\'t%20worry%20if%20you%20did%20not%20completely%20understand%20this.%20We%20will%20do%20this%20step-by-step.%3C%2FP%3E%0A%3CH2%20id%3D%22toc-hId-1991895003%22%20id%3D%22toc-hId-1991895002%22%3E%3CA%20id%3D%22user-content-understand-the-role-of-azure-active-directory-with-microsoft-graph%22%20class%3D%22anchor%22%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2F%23understand-the-role-of-azure-active-directory-with-microsoft-graph%22%20target%3D%22_blank%22%20rel%3D%22noopener%20nofollow%20noreferrer%22%20aria-hidden%3D%22true%22%3E%3C%2FA%3EUnderstand%20the%20role%20of%20Azure%20Active%20Directory%20with%20Microsoft%20Graph%3C%2FH2%3E%0A%3CP%3EOK%2C%20we%20already%20understood%20that%20Microsoft%20Graph%20is%20THE%20API%20to%20access%20data%20in%20Microsoft%20365%20-%20but%20of%20course%2C%20this%20data%20needs%20to%20be%20secured%20because%20we%20don\'t%20want%20everyone%20to%20access%20them%2C%20right%3F%20This%20is%20what%20we%20need%20Microsoft%20Identity%20platform%20for.%20Microsoft%20identity%20ensures%20that%20only%20authorized%20users%20(delegated%20permissions)%20and%20apps%20(application%20permissions)%20access%20data%20stored%20in%20Microsoft%20365.%20The%20challenge%20now%20is%20to%20link%20Microsoft%20Identity%20(of%20which%20we%20will%20use%20Azure%20Active%20Directory)%20to%20our%20Microsoft%20Graph%20powered%20app.%20The%20module%20explains%20in%20detail%20how%20you%20register%20your%20app%20in%20Azure%20AD%20and%20retrieve%20your%20application%20ID.%20Later%20on%2C%20you%20will%20add%20this%20ID%20into%20the%20MSAL%20(Microsoft%20Authentication%20Library)\'s%20code%20of%20your%20app%20to%20link%20to%20your%20Azure%20Active%20directory.%3C%2FP%3E%0A%3CP%3EBut%20before%20we%20do%20this%20in%20an%20exercise%2C%20we%20will%20learn%20some%20theoretical%20stuff%20that%20we%20need%20later%20on.%3C%2FP%3E%0A%3CH2%20id%3D%22toc-hId-184440540%22%20id%3D%22toc-hId-184440539%22%3E%3CA%20id%3D%22user-content-understand-microsoft-graph-permissions-and-consent%22%20class%3D%22anchor%22%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2F%23understand-microsoft-graph-permissions-and-consent%22%20target%3D%22_blank%22%20rel%3D%22noopener%20nofollow%20noreferrer%22%20aria-hidden%3D%22true%22%3E%3C%2FA%3EUnderstand%20Microsoft%20Graph%20permissions%20and%20consent%3C%2FH2%3E%0A%3CP%3ECrucial%20to%20understand%20that%20a%20user%20or%20admin%20needs%20to%20consent%20before%20the%20app%20requests%20permission%20to%20access%20Microsoft%20365%20data%20via%20Graph%2C%20which%20is%20why%20we%20need%20to%20know%20a%20little%20bit%20more%20about%3A%3C%2FP%3E%0A%3CH3%20id%3D%22toc-hId-875002014%22%20id%3D%22toc-hId-875002013%22%3E%3CA%20id%3D%22user-content-scopes%22%20class%3D%22anchor%22%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2F%23scopes%22%20target%3D%22_blank%22%20rel%3D%22noopener%20nofollow%20noreferrer%22%20aria-hidden%3D%22true%22%3E%3C%2FA%3EScopes%3C%2FH3%3E%0A%3CP%3EAll%20resources%20have%20specific%20scopes%2C%20like%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3E%3CEM%3EUser.Read%3C%2FEM%3E%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3E(lets%20you%20read%20the%20profile%20of%20the%20signed-in%20user)%20or%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3E%3CEM%3EUser.Read.All%3C%2FEM%3E%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3Elets%20you%20read%20the%20profiles%20of%20all%20users%20present%20in%20this%20directory.%20Of%20course%2C%20you%20will%20want%20only%20to%20allow%20scopes%20that%20are%20necessary%20for%20the%20application.%20You%20can%20look%20up%20scopes%20for%20each%20request%20in%20the%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3E%3CA%20href%3D%22https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fgraph%2Fapi%2Foverview%3Ftoc%3D.%252Fref%252Ftoc.json%26amp%3Bview%3Dgraph-rest-1.0%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3Eofficial%20documentation%3C%2FA%3E%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3Eand%20also%20learn%20about%20them%20while%20trying%20out%20requests%20in%3CSPAN%3E%26nbsp%3B%3C%2FSPAN%3E%3CA%20href%3D%22https%3A%2F%2Faka.ms%2Fge%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%3EGraph%20Explorer%3C%2FA%3E.%3C%2FP%3E%0A%3CH3%20id%3D%22toc-hId\--932452449%22%20id%3D%22toc-hId\--932452450%22%3E%3CA%20id%3D%22user-content-permission-types%22%20class%3D%22anchor%22%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2F%23permission-types%22%20target%3D%22_blank%22%20rel%3D%22noopener%20nofollow%20noreferrer%22%20aria-hidden%3D%22true%22%3E%3C%2FA%3EPermission%20types%3C%2FH3%3E%0A%3CP%3EWe%20can%20perform%20requests%20on%20behalf%20of%20a%20user%20(delegated%20permission)%2C%20and%20we%20can%20run%20background%20processes%20like%20creating%2C%20reading%2C%20updating%2C%20or%20deleting%20events%20of%20all%20calendars%20without%20the%20requirement%20of%20a%20signed-in%20user.%20This%20means%20that%20an%20admin%20will%20need%20to%20pre-consent%20to%20these%20permissions.%3C%2FP%3E%0A%3CH3%20id%3D%22toc-hId-1555060384%22%20id%3D%22toc-hId-1555060383%22%3E%3CA%20id%3D%22user-content-access-tokens%22%20class%3D%22anchor%22%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2F%23access-tokens%22%20target%3D%22_blank%22%20rel%3D%22noopener%20nofollow%20noreferrer%22%20aria-hidden%3D%22true%22%3E%3C%2FA%3EAccess%20tokens%3C%2FH3%3E%0A%3CP%3EThe%20unit%20also%20describes%20how%20the%20magic%20with%20an%20access%20token%20works%20-%20and%20uses%20a%20great%20comparison%20for%20that!%20An%20access%20token%20is%20like%20a%20movie%20ticket%20-%20but%20your%20application%20gives%20it%20to%20Graph%20to%20show%20it%20has%20permission%20to%20access%20the%20requested%20data%20in%20Microsoft%20365.%20LOVE%20this%20explanation%20so%20much!%3C%2FP%3E%0A%3CDIV%20id%3D%22tinyMceEditorLuise%20Freese_1%22%20class%3D%22mceNonEditable%20lia-copypaste-placeholder%22%3E%26nbsp%3B%3C%2FDIV%3E%3CSPAN%20class%3D%22lia-inline-image-display-wrapper%20lia-image-align-inline%22%20image-alt%3D%22GraphAccessTokenTicket.png%22%20style%3D%22width%3A%20999px%3B%22%3E%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F269453i87204035DF7ADC54%2Fimage-size%2Flarge%3Fv%3Dv2%26amp%3Bpx%3D999%22%20role%3D%22button%22%20title%3D%22GraphAccessTokenTicket.png%22%20alt%3D%22GraphAccessTokenTicket.png%22%20%2F%3E%3C%2FSPAN%3E%3CP%3E%E2%80%83%3C%2FP%3E%0A%3CP%3EWe%20use%20this%20movie%20ticket%2Faccess%20token%20in%20the%20Authorization%20header%20of%20our%20HTTP%20request.%3C%2FP%3E%0A%3CH2%20id%3D%22toc-hId-1544557280%22%20id%3D%22toc-hId-1544557279%22%3E%3CA%20id%3D%22user-content-register-an-application-with-azure-active-directory%22%20class%3D%22anchor%22%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2F%23register-an-application-with-azure-active-directory%22%20target%3D%22_blank%22%20rel%3D%22noopener%20nofollow%20noreferrer%22%20aria-hidden%3D%22true%22%3E%3C%2FA%3ERegister%20an%20application%20with%20Azure%20Active%20Directory%3C%2FH2%3E%0A%3CP%3EIn%20this%20unit%2C%20you%20learn%20which%20account%20type%20you%20can%20select%20when%20registering%20an%20app%20in%20AD%20and%20that%20web%20and%20single-page%20apps%20will%20require%20a%20redirect%20URI%20so%20that%20identity%20platform%20redirects%20and%20sends%20security%20tokens%20after%20authentication.%3C%2FP%3E%0A%3CP%3EIn%20case%20you%20wondered%3A%20There%20is%20a%20big%20difference%20between%20authentication%20and%20authorization.%3C%2FP%3E%0A%3CDIV%20id%3D%22tinyMceEditorLuise%20Freese_2%22%20class%3D%22mceNonEditable%20lia-copypaste-placeholder%22%3E%26nbsp%3B%3C%2FDIV%3E%3CSPAN%20class%3D%22lia-inline-image-display-wrapper%20lia-image-align-inline%22%20image-alt%3D%22GraphFunAuth.png%22%20style%3D%22width%3A%20999px%3B%22%3E%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F269454i3EAB26416F07CD30%2Fimage-size%2Flarge%3Fv%3Dv2%26amp%3Bpx%3D999%22%20role%3D%22button%22%20title%3D%22GraphFunAuth.png%22%20alt%3D%22GraphFunAuth.png%22%20%2F%3E%3C%2FSPAN%3E%3CP%3E%E2%80%83%3C%2FP%3E%0A%3CH2%20id%3D%22toc-hId\--262897183%22%20id%3D%22toc-hId\--262897184%22%3E%3CA%20id%3D%22user-content-exercise\-\--register-an-application-with-azure-active-directory%22%20class%3D%22anchor%22%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2F%23exercise\-\--register-an-application-with-azure-active-directory%22%20target%3D%22_blank%22%20rel%3D%22noopener%20nofollow%20noreferrer%22%20aria-hidden%3D%22true%22%3E%3C%2FA%3EExercise%20-%20Register%20an%20application%20with%20Azure%20Active%20Directory%3C%2FH2%3E%0A%3CP%3EThis%20exercise%20walks%20us%20step%20by%20step%20through%20registering%20an%20app%20in%20Azure%20AD-%20I%20highly%20recommend%20following%20this%20unit%20if%20you%20never%20registered%20an%20application%20before%3A%3C%2FP%3E%0A%3CDIV%20id%3D%22tinyMceEditorLuise%20Freese_3%22%20class%3D%22mceNonEditable%20lia-copypaste-placeholder%22%3E%26nbsp%3B%3C%2FDIV%3E%3CSPAN%20class%3D%22lia-inline-image-display-wrapper%20lia-image-align-inline%22%20image-alt%3D%22appreg.png%22%20style%3D%22width%3A%20999px%3B%22%3E%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F269455i658B4513DA9DF3DC%2Fimage-size%2Flarge%3Fv%3Dv2%26amp%3Bpx%3D999%22%20role%3D%22button%22%20title%3D%22appreg.png%22%20alt%3D%22appreg.png%22%20%2F%3E%3C%2FSPAN%3E%3CP%3E%E2%80%83%3C%2FP%3E%0A%3CP%3ELet\'s%20now%3C%2FP%3E%0A%3CH2%20id%3D%22toc-hId\--2070351646%22%20id%3D%22toc-hId\--2070351647%22%3E%3CA%20id%3D%22user-content-retrieve-an-access-token-using-msal%22%20class%3D%22anchor%22%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2F%23retrieve-an-access-token-using-msal%22%20target%3D%22_blank%22%20rel%3D%22noopener%20nofollow%20noreferrer%22%20aria-hidden%3D%22true%22%3E%3C%2FA%3ERetrieve%20an%20access%20token%20using%20MSAL%3C%2FH2%3E%0A%3CP%3EMSAL%20will%20make%20Token%20interaction%20more%20effortless%20for%20you%20because%20we%20can%20acquire%20tokens%20from%20the%20identity%20platform%20to%E2%80%AFauthenticate%E2%80%AFusers%20and%20access%20Microsoft%20Graph.%3C%2FP%3E%0A%3CDIV%20id%3D%22tinyMceEditorLuise%20Freese_4%22%20class%3D%22mceNonEditable%20lia-copypaste-placeholder%22%3E%26nbsp%3B%3C%2FDIV%3E%3CSPAN%20class%3D%22lia-inline-image-display-wrapper%20lia-image-align-inline%22%20image-alt%3D%22auth.gif%22%20style%3D%22width%3A%20999px%3B%22%3E%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F269457i508CC551501A441C%2Fimage-size%2Flarge%3Fv%3Dv2%26amp%3Bpx%3D999%22%20role%3D%22button%22%20title%3D%22auth.gif%22%20alt%3D%22auth.gif%22%20%2F%3E%3C%2FSPAN%3E%3CP%3E%E2%80%83%3C%2FP%3E%3CBR%20%2F%3E%3CP%3E%E2%80%83%3C%2FP%3E%0A%3CP%3ENow%20that%20we%20understood%20the%20authentication%20flow%2C%20it\'s%20time%20to%20get%20our%20hands%20dirty%20with%3C%2FP%3E%0A%3CH2%20id%3D%22toc-hId-417161187%22%20id%3D%22toc-hId-417161186%22%3E%3CA%20id%3D%22user-content-exercise\-\--retrieve-an-access-token-using-msal%22%20class%3D%22anchor%22%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2F%23exercise\-\--retrieve-an-access-token-using-msal%22%20target%3D%22_blank%22%20rel%3D%22noopener%20nofollow%20noreferrer%22%20aria-hidden%3D%22true%22%3E%3C%2FA%3EExercise%20-%20Retrieve%20an%20access%20token%20using%20MSAL%3C%2FH2%3E%0A%3CP%3ETo%20get%20this%20straight%20-%20you%20will%20clone%20a%20repository%20either%20using%20git%20or%20downloading%20a%20zip%20file.%20After%20opening%20this%20in%20Visual%20Studio%20Code%20(or%20any%20other%20editor)%2C%20you%20will%20need%20to%20replace%20two%20placeholders%20with%20tenant%20ID%20and%20app%20ID%20from%20your%20Azure%20app%20registration.%3C%2FP%3E%0A%3CP%3EThe%20unit%20walks%20you%20through%20some%20crucial%20parts%20of%20your%20app%20and%20lets%20you%20map%20this%20code%20to%20the%20authentication%20flow.%3C%2FP%3E%0A%3CDIV%20id%3D%22tinyMceEditorLuise%20Freese_5%22%20class%3D%22mceNonEditable%20lia-copypaste-placeholder%22%3E%26nbsp%3B%3C%2FDIV%3E%3CSPAN%20class%3D%22lia-inline-image-display-wrapper%20lia-image-align-inline%22%20image-alt%3D%22GraphApp.png%22%20style%3D%22width%3A%20999px%3B%22%3E%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F269458i26472C2AE44078D7%2Fimage-size%2Flarge%3Fv%3Dv2%26amp%3Bpx%3D999%22%20role%3D%22button%22%20title%3D%22GraphApp.png%22%20alt%3D%22GraphApp.png%22%20%2F%3E%3C%2FSPAN%3E%3CP%3E%E2%80%83%3C%2FP%3E%0A%3CP%3ECongratz!%20-%20you%20made%20it!%3C%2FP%3E%0A%3CDIV%20id%3D%22tinyMceEditorLuise%20Freese_6%22%20class%3D%22mceNonEditable%20lia-copypaste-placeholder%22%3E%26nbsp%3B%3C%2FDIV%3E%3CSPAN%20class%3D%22lia-inline-image-display-wrapper%20lia-image-align-inline%22%20image-alt%3D%22GraphFun-didit2.png%22%20style%3D%22width%3A%20999px%3B%22%3E%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F269459i7B75863D2FEB67D0%2Fimage-size%2Flarge%3Fv%3Dv2%26amp%3Bpx%3D999%22%20role%3D%22button%22%20title%3D%22GraphFun-didit2.png%22%20alt%3D%22GraphFun-didit2.png%22%20%2F%3E%3C%2FSPAN%3E%3CP%3E%E2%80%83%3C%2FP%3E%0A%3CH2%20id%3D%22toc-hId-283476463%22%20id%3D%22toc-hId-283476462%22%3E%3CA%20id%3D%22user-content-conclusion%22%20class%3D%22anchor%22%20href%3D%22https%3A%2F%2Fm365princess.com%2Fmicrosoft-graph-fundamentals-learning-path-module-2%2F%23conclusion%22%20target%3D%22_blank%22%20rel%3D%22noopener%20nofollow%20noreferrer%22%20aria-hidden%3D%22true%22%3E%3C%2FA%3EConclusion%3C%2FH2%3E%0A%3CP%3EI%20loved%20this%20module%20-%20even%20if%20I%20already%20knew%20how%20to%20register%20applications%20and%20what%20Microsoft%20Graph%20does%20-%20it%20clarified%20the%20authentication%20flow%20once%20again%20and%20walked%20me%20nicely%20through%20some%20crucial%20parts%20of%20the%20code%20that%20I%20cloned%20from%20the%20MSLearn%20repository.%20Some%20basic%20understanding%20of%20JavaScript%20was%20beneficial%20to%20let%20the%20app%20run%20and%20know%20WHY%20and%20HOW%20it%20runs.%3C%2FP%3E%0A%3C%2FDIV%3E%0A%3CP%3E%26nbsp%3B%3C%2FP%3E%3C%2FLINGO-BODY%3E%3CLINGO-TEASER%20id%3D%22lingo-teaser-2253924%22%20slang%3D%22en-US%22%3E%3CP%3E%3CSPAN%20class%3D%22lia-inline-image-display-wrapper%20lia-image-align-inline%22%20image-alt%3D%22GraphHPH.png%22%20style%3D%22width%3A%20999px%3B%22%3E%3CIMG%20src%3D%22https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fimage%2Fserverpage%2Fimage-id%2F269452i9AD931655766EBCF%2Fimage-size%2Flarge%3Fv%3Dv2%26amp%3Bpx%3D999%22%20role%3D%22button%22%20title%3D%22GraphHPH.png%22%20alt%3D%22GraphHPH.png%22%20%2F%3E%3C%2FSPAN%3E%3C%2FP%3E%0A%3CP%3E%3CSPAN%3EWrite-up%20part%202%20of%20the%20brand%20new%20Microsoft%20Graph%20Fundamentals%20learning%20path%20-%20sketchnotes%20included%20%F0%9F%A7%A1%3C%2FSPAN%3E%3C%2FP%3E%0A%3CP%3E%E2%80%83%3C%2FP%3E%3C%2FLINGO-TEASER%3E%3CLINGO-LABS%20id%3D%22lingo-labs-2253924%22%20slang%3D%22en-US%22%3E%3CLINGO-LABEL%3EGetting%20started%3C%2FLINGO-LABEL%3E%3C%2FLINGO-LABS%3E
-
-::: {#threadTranslationDashboard .Thread_Translation_Dashboard ng-controller="lingotekThreadTranslationCtrl" li-bindable=""}
-::: lingotek-admin-dashboard
-:::
-:::
-
-::: {style="clear:both"}
-:::
-
-::: {#contributorsTaplet .ContributorsTaplet .lia-component-tkb-widget-contributors-taplet}
-::: {.lia-panel .lia-panel-standard}
-::: lia-decoration-border
-::: lia-decoration-border-top
-<div>
-
-</div>
-:::
-
-::: lia-decoration-border-content
-<div>
-
-::: lia-panel-heading-bar-wrapper
-::: lia-panel-heading-bar
-[ Co-Authors ]{.lia-panel-heading-bar-title aria-level="3"
-role="heading"}
-:::
-:::
-
-::: lia-panel-content-wrapper
-::: lia-panel-content
-::: {.UserProfileSummary .lia-user-item .lia-js-data-userId-89985 .lia-user-info-group}
-::: UserAvatarWrapper
-::: {.UserAvatar .lia-user-avatar .lia-component-common-widget-user-avatar .MVP}
-[![Luise
-Freese](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/267080i7F999E88693CAB4E/image-dimensions/40x40/image-coordinates/0%2C0%2C576%2C576?v=v2 "Luise Freese"){.lia-user-avatar-message
-.user-rank-ring .user-rank-ring style="border-color: #107C10"
-onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/89985){.UserAvatar
-.lia-link-navigation}
-:::
-
-::: {.user-profile-card user-id="89985"}
-::: contents
-::: spinner
-:::
-:::
-:::
-:::
-
-::: lia-user-attributes
-::: lia-user-name
-[ [Luise
-Freese](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/89985){#link_9
-.lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
-.lia-user-name .lia-user-rank-MVP}
-:::
-:::
-:::
-:::
-:::
-
-</div>
-:::
-
-::: lia-decoration-border-bottom
-<div>
-
-</div>
-:::
-:::
-:::
-:::
-
-::: {.lia-panel .lia-panel-standard .ArticleRevisionInfoTaplet .Chrome .lia-component-tkb-widget-article-revision-info-taplet}
-::: lia-decoration-border
-::: lia-decoration-border-top
-<div>
-
-</div>
-:::
-
-::: lia-decoration-border-content
-<div>
-
-::: lia-panel-heading-bar-wrapper
-::: lia-panel-heading-bar
-[Version history]{.lia-panel-heading-bar-title aria-level="3"
-role="heading"}
-:::
-:::
-
-::: lia-panel-content-wrapper
-::: lia-panel-content
-::: lia-revision-info-wrapper
-::: lia-revision-info-content
-::: {.lia-revision-info-row .lia-revision-last-update-row}
-::: lia-revision-info-title-cell
-Last update:
-:::
-
-::: lia-revision-info-data-cell
-[ [‎Apr 05 2021]{.local-date} [04:29 AM]{.local-time} ]{.DateTime}
-:::
-:::
-
-::: {.lia-revision-info-row .lia-revision-author-row}
-::: lia-revision-info-title-cell
-Updated by:
-:::
-
-::: lia-revision-info-data-cell
-[ [Luise
-Freese](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/89985){#link_10
-.lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
-.lia-user-name .lia-user-rank-MVP}
-:::
-:::
-
-::: {.lia-revision-info-row .lia-revision-article-history-link-row .lia-revision-info-data-cell-workflow}
-:::
-:::
-:::
-:::
-:::
-
-</div>
-:::
-
-::: lia-decoration-border-bottom
-<div>
-
-</div>
-:::
-:::
-:::
-
-::: {.lia-panel .lia-panel-standard .LabelsTaplet .Chrome .lia-component-labels-widget-labels-list .custom-blog-article-label-widget}
-::: lia-decoration-border
-::: lia-decoration-border-top
-<div>
-
-</div>
-:::
-
-::: lia-decoration-border-content
-::: lia-panel-heading-bar-wrapper
-::: lia-panel-heading-bar
-[Labels]{.lia-panel-heading-bar-title aria-level="4" role="heading"}
-:::
-:::
-
-::: lia-panel-content-wrapper
-::: lia-panel-content
-::: BlogLabelsTaplet
-::: LabelsList
-::: {.spinner .labels-spinner}
-:::
-
-::: labels-container
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: lia-decoration-border-bottom
-<div>
-
-</div>
-:::
-:::
-:::
-
-::: blog-article-social-share-widget-wrapper
-::: custom-social-share-component
-::: custom-social-share-widget
-::: {.lia-panel .lia-panel-standard .Chrome .custom-share-component style=""}
-::: lia-decoration-border
-::: lia-decoration-border-top
-<div>
-
-</div>
-:::
-
-::: lia-decoration-border-content
-<div>
-
-::: lia-panel-heading-bar-wrapper
-::: lia-panel-heading-bar
-## Share {#customShareWidget .lia-panel-heading-bar-title .hello}
-:::
-:::
-
-::: lia-panel-content-wrapper
-::: lia-panel-content
--   [[Share to
-    LinkedIn]{.social-share-title}](http://www.linkedin.com/shareArticle?mini=true&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-2/ba-p/2253924 "Share to LinkedIn"){.social-share-link
-    .social-share-linkedin}
--   [[Share to
-    Facebook]{.social-share-title}](http://www.facebook.com/share.php?u=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-2/ba-p/2253924 "Share to FaceBook"){.social-share-link
-    .social-share-facebook}
--   [[Share to
-    Twitter]{.social-share-title}](http://twitter.com/share?text=Check%20out%20this%20post%20on%20the%20Microsoft%20Tech%20Community%20:%20Microsoft%20Graph%20Fundamentals%20learning%20path%20–%20Module%202%20-%20Microsoft%20Tech%20Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-2/ba-p/2253924 "Share to Twitter"){.social-share-link
-    .social-share-twitter}
--   [[Share to
-    Email]{.social-share-title}](mailto:?subject=Microsoft%20Graph%20Fundamentals%20learning%20path%20–%20Module%202%20-%20Microsoft%20Tech%20Community&body=I%20found%20this%20on%20the%20Microsoft%20Tech%20Community%20and%20wanted%20to%20share%20it%20with%20you,%20check%20it%20out%20:%20https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-2/ba-p/2253924 "Share via email"){.social-share-link
-    .social-share-email}
-:::
-:::
-
-</div>
-:::
-
-::: lia-decoration-border-bottom
-<div>
-
-</div>
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-footer}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-footer}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-::: {.lia-quilt .lia-quilt-footer .lia-quilt-layout-footer .lia-component-quilt-footer}
-::: {.lia-quilt-row .lia-quilt-row-main}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-icons}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single .lia-mark-empty}
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: {.cse-46444-wa style="display: none"}
-::: {.lia-slide-out-nav-menu .lia-component-common-widget-slide-out-nav-menu}
-::: {.lia-slide-out-nav-menu-title ng-non-bindable=""}
-Browse
-:::
-
-::: {.lia-quilt .lia-quilt-navigation-slide-out-menu .lia-quilt-layout-one-column .lia-top-quilt}
-::: {.lia-quilt-row .lia-quilt-row-header}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-header .lia-mark-empty}
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-main}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-main-content}
-::: {.lia-quilt-column-alley .lia-quilt-column-alley-single}
-:::
-:::
-:::
-
-::: {.lia-quilt-row .lia-quilt-row-footer}
-::: {.lia-quilt-column .lia-quilt-column-24 .lia-quilt-column-single .lia-quilt-column-common-footer .lia-mark-empty}
-:::
-:::
-:::
-:::
-:::
-
-::: {.shell-footer bi-view="5xLinks" bi-area="Footer" ms.pgarea="uhffooter" role="contentinfo"}
-::: shell-footer-wrapper
-::: {.shell-footer-menugroups ms.cmpgrp="footer nav"}
-::: {.sfm-group ms.cmpnm="WhatsNew"}
-###### What\'s new  {#whats-new .grp-title}
-
--   [Surface Pro
-    X](https://www.microsoft.com/p/surface-pro-x/8vdnrp2m6hhc?activetab=overview)
--   [Surface Laptop
-    3](https://www.microsoft.com/p/surface-laptop-3/8VFGGH1R94TM?activetab=overview)
--   [Surface Pro
-    7](https://www.microsoft.com/p/surface-pro-7/8N17J0M5ZZQS?activetab=overview)
--   [Windows 10 Apps](https://www.microsoft.com/windows/windows-10-apps)
--   [Office apps](https://store.office.com/appshome.aspx)
-:::
-
-::: {.sfm-group ms.cmpnm="MicrosoftStore"}
-###### Microsoft Store  {#microsoft-store .grp-title}
-
--   [Account profile](https://account.microsoft.com/)
--   [Download Center](https://www.microsoft.com/download)
--   [Microsoft Store
-    support](https://go.microsoft.com/fwlink/p/?LinkID=824761&clcid=0x409)
--   [Returns](https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x409)
--   [Order tracking](https://account.microsoft.com/orders)
--   [Store
-    locations](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS)
--   [Buy online, pick up in
-    store](https://www.microsoft.com/en-us/store/b/buy-online-pick-up-in-store?icid=uhf_footer_bopuis)
--   [In-store
-    events](https://www.microsoft.com/en-us/store/locations/events?icid=en_us_store_uhf_events)
-:::
-
-::: {.sfm-group ms.cmpnm="Education"}
-###### Education  {#education .grp-title}
-
--   [Microsoft in education](https://www.microsoft.com/education)
--   [Office for
-    students](https://www.microsoft.com/education/products/office/default.aspx)
--   [Office for
-    schools](https://products.office.com/academic/compare-office-365-education-plans)
--   [Deals for students and
-    parents](https://www.microsoft.com/en-us/store/b/education?icid=CNavfooter_Studentsandeducation)
--   [Microsoft Azure in
-    education](https://azure.microsoft.com/community/education/)
-:::
-
-::: {.sfm-group ms.cmpnm="Enterprise"}
-###### Enterprise  {#enterprise .grp-title}
-
--   [Azure](https://azure.microsoft.com/)
--   [AppSource](https://go.microsoft.com/fwlink/?LinkID=808093)
--   [Automotive](https://www.microsoft.com/enterprise/automotive)
--   [Government](https://www.microsoft.com/enterprise/government)
--   [Healthcare](https://www.microsoft.com/enterprise/health)
--   [Manufacturing](https://www.microsoft.com/enterprise/manufacturing)
--   [Financial
-    Services](https://www.microsoft.com/enterprise/financial-services/banking-and-capital-markets)
--   [Retail](https://www.microsoft.com/enterprise/retail-consumer-goods)
-:::
-
-::: {.sfm-group ms.cmpnm="Developer"}
-###### Developer  {#developer .grp-title}
-
--   [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
--   [Window Dev Center](https://developer.microsoft.com/windows)
--   [Developer Network](https://msdn.microsoft.com/)
--   [TechNet](https://technet.microsoft.com/)
--   [Microsoft developer
-    program](https://developer.microsoft.com/store/register)
--   [Channel 9](https://channel9.msdn.com/)
--   [Office Dev Center](https://developer.microsoft.com/office)
--   [Microsoft Garage](https://www.microsoft.com/garage/)
-:::
-
-::: {.sfm-group ms.cmpnm="Company"}
-###### Company  {#company .grp-title}
-
--   [Careers](https://careers.microsoft.com/)
--   [About Microsoft](https://www.microsoft.com/en-us/about)
--   [Company News](https://news.microsoft.com/)
--   [Privacy at Microsoft](https://privacy.microsoft.com/)
--   [Investors](https://www.microsoft.com/investor/default.aspx)
--   [Diversity and inclusion](https://www.microsoft.com/diversity/)
--   [Accessibility](https://www.microsoft.com/accessibility)
--   [Security](https://www.microsoft.com/security/default.aspx)
-:::
-:::
-
-::: {.shell-footer-copyright ms.cmpnm="corp" ms.cmpgrp="corp links"}
--   [Sitemap](https://www.microsoft.com/en-us/sitemap1.aspx){#shellmenu_0
-    .ctl_footerNavLink}
--   [Contact
-    Microsoft](https://support.microsoft.com/contactus){#shellmenu_1
-    .ctl_footerNavLink}
--   [Privacy](https://go.microsoft.com/fwlink/?LinkId=521839){#shellmenu_2
-    .ctl_footerNavLink}
--   [Manage cookies](#){#shellmenu_2B .ctl_footerNavLink .hidden}
--   [Terms of
-    use](http://go.microsoft.com/fwlink/?LinkID=206977){#shellmenu_3
-    .ctl_footerNavLink}
--   [Trademarks](https://www.microsoft.com/trademarks){#shellmenu_4
-    .ctl_footerNavLink}
--   [Safety and
-    eco](https://www.microsoft.com/devices/safety-and-eco){#shellmenu_5
-    .ctl_footerNavLink}
--   [About our ads](https://choice.microsoft.com/){#shellmenu_6
-    .ctl_footerNavLink}
--   © []{#footerDate} Microsoft
-:::
-:::
-:::
-:::

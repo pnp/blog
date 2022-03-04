@@ -325,15 +325,7 @@ Now select your new workflow and follow these steps:
 
 
 
-{{< image alt="Createworkflow.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/Createworkflow.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298517iB563619783F212FE?v=v2"
-li-image-display-id="'298517iB563619783F212FE'"
-li-message-uid="'2588691'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="Createworkflow.png"
-style="width: 400px;"}
+{{< image alt="Createworkflow.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/Createworkflow.png" >}}
 
  
 
@@ -351,15 +343,8 @@ function, this is:
 -   Select the function within your Functions app
 -   Select **Create**
 
-{{< image alt="LuiseFreese_44-1627338250789.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_44-1627338250789.png" >}}{.lia-media-image
-role="button"
-li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298519i91CD9D57C38E7DE0?v=v2"
-li-image-display-id="'298519i91CD9D57C38E7DE0'"
-li-message-uid="'2588691'" li-messages-message-image="true"
-li-bindable="" tabindex="0" li-bypass-lightbox-when-linked="true"
-li-use-hover-links="false"}]{.lia-inline-image-display-wrapper
-.lia-image-align-inline image-alt="LuiseFreese_44-1627338250789.png"
-style="width: 400px;"}
+{{< image alt="LuiseFreese_44-1627338250789.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_44-1627338250789.png" >}}
+
 -   Select **Get** as Method
 -   Save your app.
 -   Select **Overview**
