@@ -3,14 +3,15 @@ title: "CLI for Microsoft 365 v4.3"
 date: 2022-01-08T11:19:00-05:00
 author: "Garry Trinder"
 categories: ["CLI for Microsoft 365"]
-images: []
+images:
+- images/blog/cli-for-microsoft-365-v4-3/banner-cli-m365.png
 tags: []
 type: "regular"
 draft: false
 
 ---
 
-{{< image alt="5" src="images/blog/cli-for-microsoft-365-v4-3/CLI for Microsoft 365" >}}
+{{< image alt="5" src="images/blog/cli-for-microsoft-365-v4-3/banner-cli-m365.png" >}}
 
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform 
 

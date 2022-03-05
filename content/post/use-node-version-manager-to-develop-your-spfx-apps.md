@@ -160,7 +160,7 @@ The generated solution includes the sample app that can now be modified.
 
 
 
-{{< image alt="Coding\..." src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/Coding\..." >}}
+{{< image alt="Coding\..." src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p11.png" >}}
 When done, let´s open the default browser with the gulp webserver:
 
 *gulp serve*

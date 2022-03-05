@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Microsoft 365 PnP Blog</title><link>https://pnp.github.io/community-blog/tags/</link><description>Recent content in Tags on Microsoft 365 PnP Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 11 Jan 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>CLI for Microsoft</title><link>https://pnp.github.io/community-blog/tags/cli-for-microsoft/</link><pubDate>Tue, 11 Jan 2022 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/cli-for-microsoft/</guid><description/></item><item><title>PnP PowerShell</title><link>https://pnp.github.io/community-blog/tags/pnp-powershell/</link><pubDate>Tue, 11 Jan 2022 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/pnp-powershell/</guid><description/></item><item><title>Mobile</title><link>https://pnp.github.io/community-blog/tags/mobile/</link><pubDate>Tue, 11 Jan 2022 02:44:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/mobile/</guid><description/></item><item><title>demo</title><link>https://pnp.github.io/community-blog/tags/demo/</link><pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/demo/</guid><description/></item><item><title>elements</title><link>https://pnp.github.io/community-blog/tags/elements/</link><pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/elements/</guid><description/></item><item><title>city</title><link>https://pnp.github.io/community-blog/tags/city/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/city/</guid><description/></item><item><title>color</title><link>https://pnp.github.io/community-blog/tags/color/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/color/</guid><description/></item><item><title>creative</title><link>https://pnp.github.io/community-blog/tags/creative/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/creative/</guid><description/></item><item><title>decorate</title><link>https://pnp.github.io/community-blog/tags/decorate/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/decorate/</guid><description/></item><item><title>fish</title><link>https://pnp.github.io/community-blog/tags/fish/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/fish/</guid><description/></item><item><title>food</title><link>https://pnp.github.io/community-blog/tags/food/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/food/</guid><description/></item><item><title>nice</title><link>https://pnp.github.io/community-blog/tags/nice/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/nice/</guid><description/></item><item><title>recipe</title><link>https://pnp.github.io/community-blog/tags/recipe/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/recipe/</guid><description/></item><item><title>season</title><link>https://pnp.github.io/community-blog/tags/season/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/season/</guid><description/></item><item><title>taste</title><link>https://pnp.github.io/community-blog/tags/taste/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/taste/</guid><description/></item><item><title>tasty</title><link>https://pnp.github.io/community-blog/tags/tasty/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/tasty/</guid><description/></item><item><title>vlog</title><link>https://pnp.github.io/community-blog/tags/vlog/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/vlog/</guid><description/></item><item><title>wow</title><link>https://pnp.github.io/community-blog/tags/wow/</link><pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate><guid>https://pnp.github.io/community-blog/tags/wow/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Microsoft 365 Community Blog</title>
+    <link>https://pnp.github.io/community-blog/tags/</link>
+    <description>Recent content in Tags on Microsoft 365 Community Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Apr 2021 13:00:00 +0000</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>non-dev</title>
+      <link>https://pnp.github.io/community-blog/tags/non-dev/</link>
+      <pubDate>Sun, 25 Apr 2021 13:00:00 +0000</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/non-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demo</title>
+      <link>https://pnp.github.io/community-blog/tags/demo/</link>
+      <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elements</title>
+      <link>https://pnp.github.io/community-blog/tags/elements/</link>
+      <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/elements/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,7 +10,7 @@ draft: false
 
 ---
 
-{{< image alt="4" src="images/blog/cli-for-microsoft-365-v4/CLI for Microsoft 365 v4" >}}
+{{< image alt="4" src="images/blog/cli-for-microsoft-365-v4/banner-cli-m365.png" >}}
  
 
 We've just published a new major version of the CLI for Microsoft 365
