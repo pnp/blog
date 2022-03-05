@@ -2,13 +2,13 @@
 title: "Viva Connections & SharePoint Framework Community Call -- 16th of December, 2021"
 date: 2021-12-17T01:04:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-16th-of/recording-16th-december.png
-- images/blog/viva-connections-amp-sharepoint-framework-community-call-16th-of/ViewPorter_0-1639698085131.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -278,7 +278,7 @@ slides.
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
 
--   Blog: \"[A Lap Around Microsoft Graph Toolkit\" blog
+-   Blog: "[A Lap Around Microsoft Graph Toolkit" blog
     series](https://aka.ms/mgtLap)
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new

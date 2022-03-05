@@ -7,7 +7,7 @@ images:
 - images/blog/microsoft-identity-platform-community-call-december-2021/identity-call-THumbnail-November-2021.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

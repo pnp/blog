@@ -2,28 +2,13 @@
 title: "How to invite external users to a SharePoint site or Microsoft Team using Power Automate & Graph API"
 date: 2021-05-26T08:25:00-04:00
 author: "Mohamed Ashiq Faleel"
+githubname: ashiqf
 categories: ["Microsoft Graph", "SharePoint", "Power Automate"]
 images:
 - images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdApp-GraphPermissiontoInviteGuestUser.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSFormTrigger-ExternalUser.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-DesignforApproval.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponseRunHistory.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-cardactionoutput.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-GenerateJSONWebToken.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-ParseJSONWebToken.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/SearchforexternalUser.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSGraph-SendInvitationforExternaluser.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AddUsertoSharePointGroup.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-InTeamsChannel.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/ExternalSharing-RestrictDomain.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserObjectId.png
-- images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserInvitationEmail.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

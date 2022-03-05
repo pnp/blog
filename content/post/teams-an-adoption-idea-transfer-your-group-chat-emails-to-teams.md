@@ -5,13 +5,9 @@ author: "Damo Bird 365"
 categories: ["Microsoft Teams", "Adaptive Cards"]
 images:
 - images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_0-1619420006466.png
-- images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_1-1619420516989.png
-- images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_2-1619420664133.png
-- images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_3-1619420755529.png
-- images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/HowToCopyPasteSolution.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -95,7 +91,7 @@ the deep link.  Now it's time to get the conversation going.
 **Want to try the solution quickly?**
 Did you know that you can copy and paste Cloud Flow actions between
 environments really easily?  Simply by creating a new Cloud Flow with
-the \"When an email is flagged" trigger you can then copy the provided
+the "When an email is flagged" trigger you can then copy the provided
 code below and paste it into your ClipBoard by clicking Next Step,
 selecting My ClipBoard and pasting with Ctrl + V.  The only field you
 need to change is the Adaptive Card Recipient which by default is set

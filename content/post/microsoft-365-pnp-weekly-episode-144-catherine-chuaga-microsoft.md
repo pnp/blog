@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 144 - Catherine Chuaga (Microsoft)"
 date: 2021-11-23T12:36:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-144-catherine-chuaga-microsoft/Thumb-Ep144-November22.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 {{< image alt="Thumb-Ep144-November22.png" src="images/blog/microsoft-365-pnp-weekly-episode-144-catherine-chuaga-microsoft/Thumb-Ep144-November22.png" >}}
@@ -207,4 +208,4 @@ requests or questions.
 
  
 
-*\"Sharing is caring!\" *
+*"Sharing is caring!" *

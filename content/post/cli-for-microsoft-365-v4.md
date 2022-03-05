@@ -2,12 +2,13 @@
 title: "CLI for Microsoft 365 v4"
 date: 2021-10-07T12:08:00-04:00
 author: "Garry Trinder"
+githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/cli-for-microsoft-365-v4/banner-cli-m365.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

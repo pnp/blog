@@ -2,12 +2,13 @@
 title: "Microsoft Identity Platform community call -- May 2021"
 date: 2021-05-26T03:04:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Identity platform community call recordings"]
 images:
 - images/blog/microsoft-identity-platform-community-call-may-2021/ApTriggeredStep-up.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

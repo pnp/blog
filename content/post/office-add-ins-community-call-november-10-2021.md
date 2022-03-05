@@ -2,12 +2,14 @@
 title: "Office Add-ins community call -- November 10, 2021"
 date: 2021-12-01T11:40:00-05:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-november-10-2021/office-add-ins-Thumb-Nov.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---](/t5/microsoft-365-pnp-blog/
 
@@ -174,8 +176,8 @@ multiple customers with one manifest, then we recommend to [Publish your
 add-in on Microsoft
 AppSource](https://docs.microsoft.com/office/dev/store/submit-to-appsource-via-partner-center).
 **I am an Office Add-in developer, eager to work with the new PowerPoint
-Shape API since the August 2021 community call. When I run the \"Insert
-shape, line and text box\" sample code on Script Lab, unlike what
+Shape API since the August 2021 community call. When I run the "Insert
+shape, line and text box" sample code on Script Lab, unlike what
 happens with all other samples there, I get an error. Could it be
 because I am not in the Office Insider Program?**\
 Yes, these are preview APIs right now, so most likely, you'll need to

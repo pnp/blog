@@ -2,12 +2,13 @@
 title: "Get started with Adaptive Cards"
 date: 2021-02-10T11:47:00-05:00
 author: "Tomasz Poszytek"
+githubname: tposzytek
 categories: []
 images:
 - /content/media/get-started-with-adaptive-cards/TomaszPoszytek_0-1610369598416.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

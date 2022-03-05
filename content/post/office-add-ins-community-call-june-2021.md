@@ -2,12 +2,14 @@
 title: "Office Add-ins community call -- June 2021"
 date: 2021-06-16T08:33:00-04:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-june-2021/office-add-ins-call-recording-9th-june.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -78,9 +80,9 @@ Thanks!
 
 
 **There are many videos and articles about Single sign-on for Office
-Add-ins. The Yeoman generator uses the NPM package \"msal\" but there is
-also an NPM package called \"\@azure/msal-browser\" and another one
-called \"\@azure/msal-react\". Can these all be used inside an Office
+Add-ins. The Yeoman generator uses the NPM package "msal" but there is
+also an NPM package called "\@azure/msal-browser" and another one
+called "\@azure/msal-react". Can these all be used inside an Office
 Add-in? Which ones are the recommended ones to use?**
 
 
@@ -113,11 +115,11 @@ location. Be sure to put the \<Runtimes> section just below the \<Host>
 tag as follows:
 \<Hosts>
 
-  \<Host xsi:type=\"Workbook\"\>
+  \<Host xsi:type="Workbook"\>
 
   \<Runtimes>
 
-    \<Runtime resid=\"Taskpane.Url\" lifetime=\"long\" />
+    \<Runtime resid="Taskpane.Url" lifetime="long" />
 
   \</Runtimes>
 In general if you run into a manifest error, you can compare the

@@ -2,13 +2,13 @@
 title: "Microsoft 365 Developer Community Call recording -- 15th of April, 2021"
 date: 2021-04-16T04:18:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-15th-of-april/sig-agenda-15th-recording.png
-- images/blog/microsoft-365-developer-community-call-recording-15th-of-april/210415-together-mode.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

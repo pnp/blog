@@ -2,13 +2,13 @@
 title: "Microsoft 365 Platform Call -- 30th of November, 2021"
 date: 2021-12-01T12:07:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-30th-of-november-2021/recording-30th-nov-platform.png
-- images/blog/microsoft-365-platform-call-30th-of-november-2021/PnP-Calls-TogetherMode-500w-Trimmed.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

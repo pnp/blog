@@ -1,14 +1,13 @@
 ---
-title: "FAQ\'s in a Document Card"
+title: "FAQ's in a Document Card"
 date: 2021-04-14T06:23:00-04:00
 author: "Sam Collins"
+githubname: SamC148
 categories: ["SharePoint"]
 images:
 - images/blog/faq-s-in-a-document-card/updateFAQgif.gif
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 I recently had a need for a web part for a frequently asked questions
@@ -16,7 +15,7 @@ list that was a bit more interactive than what I could find on the
 internet. So I decided to build one and once it was finished I thought
 it was a great resource to share.
  
-Here's what the web part looks like and an idea how it functions 
+Here's what the web part looks like and an idea how it functions
 
 {{< image alt="updateFAQgif.gif" src="images/blog/faq-s-in-a-document-card/updateFAQgif.gif" >}}
  

@@ -2,12 +2,14 @@
 title: "Office Add-ins community call -- September 8, 2021"
 date: 2021-09-16T10:45:00-04:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-september-8-2021/officeadd-ins.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -84,7 +86,7 @@ was hosted by David Chesnut (Microsoft) \| \@davidchesnut.
 
 ## Q&A (Question & Answers) 
 
-**Is there a way to \"auto push\" manifest updates?**
+**Is there a way to "auto push" manifest updates?**
 Updates for add-ins happen as follows.
 
 **Line-of-business add-in:**  When an admin explicitly uploads a
@@ -125,7 +127,7 @@ on a variety of objects. For example, you can use
 [Word.Body.InsertFileFromBase64](https://docs.microsoft.com/javascript/api/word/word.body?view=word-js-1.1#insertFileFromBase64_base64File__insertLocation_),
 and
 [Word.Paragraph.InsertFileFromBase64](https://docs.microsoft.com/javascript/api/word/word.paragraph?view=word-js-1.1#insertFileFromBase64_base64File__insertLocation_).
-To see all the objects with this method, type \"InsertFileFromBase64\"
+To see all the objects with this method, type "InsertFileFromBase64"
 into the search box in the [reference section for the Word
 API](https://docs.microsoft.com/javascript/api/word?view=word-js-1.1).
 
@@ -151,8 +153,8 @@ ETA we can share for when these will be available.
 
 
 **Using SSO from a Word add-in in Teams desktop works if the Word file
-opens from the \"Files\" position. However, if the same file is opened
-via \"Assignments\", SSO stops working. Additionally in \"Assignment\",
+opens from the "Files" position. However, if the same file is opened
+via "Assignments", SSO stops working. Additionally in "Assignment",
 the dialogue opens a browser from outside Teams desktop (and then there
 is no communication between the browser and the add-in). How do we get
 SSO to work in this situation?**
@@ -178,7 +180,7 @@ customers who already had deployed our add-in before that date, but
 would now like to have it auto-pinned. However, in our internal testing
 and testing done by our customers, re-deployed (remove + add) add-ins
 are not automatically pinned in Outlook on the web. In addition to lack
-of auto-pinning, we are naturally not seeing the \"nudge\" notification.
+of auto-pinning, we are naturally not seeing the "nudge" notification.
 Are we doing something wrong? Our add-in is private and not available
 via AppSource. Tenants are pure Microsoft 365.**
 Thanks for letting us know about this. It looks like it is probably a

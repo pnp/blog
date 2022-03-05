@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 137 - Serge Tremblay (Technologia)"
 date: 2021-10-05T01:54:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/Thumb-Ep137.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 {{< image alt="Thumb-Ep137.png" src="images/blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/Thumb-Ep137.png" >}}
@@ -30,7 +31,7 @@ joined by Canada-based MVP and Consultant from
 Topics discussed in this session include: \
 \
 
--   So you want to be a cloud consultant in the \"cloudiverse\"?  Here
+-   So you want to be a cloud consultant in the "cloudiverse"?  Here
     are 3 tips.
 -   The importance of being end user focused.
 -   How stay up-to-date on the latest technology. 
@@ -180,4 +181,4 @@ requests or questions.
 
  
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

@@ -1,25 +1,13 @@
 ---
-title: "Getting started with SharePoint\'s custom view formatting"
+title: "Getting started with SharePoint's custom view formatting"
 date: 2021-03-19T08:42:00-04:00
-author: "will holland"
+author: "Will Holland"
+githubname: willholland
 categories: []
 images:
 - images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-formatting-after.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/view-formatting-after.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/list-view-flavors.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/blowout-witharrows.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/LOTR-Meme.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/blowout-witharrows.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-1.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-2.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/column-3.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/list-view-complete.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/format-options.png
-- images/blog/getting-started-with-sharepoint-s-custom-view-formatting/final-product.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 ## Introduction 
@@ -148,7 +136,7 @@ make your row a different color, you're probably better off using the
 the `additionalRowClass` property, it is covered well enough in the
 [official
 documentation](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting#apply-conditional-classes-on-rows).
-We, however, will not be satifisfied with applying some simplistic
+We, however, will not be satisfied with applying some simplistic
 styling. NO! We are bound for greater `rowFormatter` glory!
 
 > **NOTE**: There are other properties available that are not covered in
@@ -308,7 +296,7 @@ where we are in our JSON.
 > just be aware that users may see your witty comments.
 
 
-Also, in the \"Member/Role DIV\" children, the second child looks a
+Also, in the "Member/Role DIV" children, the second child looks a
 little peculiar.
 
     {
@@ -391,7 +379,7 @@ background image would cover up our border.
 
 Now that we've got our first two layers done, let's take a look at our
 third layer. If we refer back to our skeleton, we can see that our
-**img** element has a single child titled \"Column Container\", and that
+**img** element has a single child titled "Column Container", and that
 child has three children of its own. What we want to happen is to have a
 three-column layout and to do that, we're going to style this \"column
 container\" like so.
@@ -403,7 +391,7 @@ container\" like so.
     "display": "flex"
 }
 ```
-We have to specify the width and height here as being **\"100%\"**
+We have to specify the width and height here as being **"100%"**
 because, without it, the DIV will only grow as large as the content and
 we want to ensure that it stays as large as it can. We're also
 specifying a different `position` value here - **absolute** - which

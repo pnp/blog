@@ -5,8 +5,6 @@ author: "Arjun Menon"
 categories: []
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 There will be cases where you want to know the associated Owner or a

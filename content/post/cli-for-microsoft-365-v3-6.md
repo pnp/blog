@@ -2,17 +2,17 @@
 title: "CLI for Microsoft 365 v3.6"
 date: 2021-02-27T02:51:00-05:00
 author: "Waldek Mastykarz"
+githubname: WaldekMastykarz
 categories: ["CLI for Microsoft 365"]
 tags: []
 type: "regular"
-draft: false
-
 ---
 We've just published a new version of the CLI for Microsoft 365 with new
 commands for working with and managing Microsoft 365 tenants and
 SharePoint Framework projects on any platform.
 
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform
+
 CLI for Microsoft 365 is a cross-platform CLI that allows you to manage
 various configuration settings of Microsoft 365 and SharePoint Framework
 projects no matter which operating system or shell you use.
@@ -26,6 +26,7 @@ system you use. Additionally, using CLI for Microsoft 365, you can
 manage your SharePoint Framework projects.
  
 ## New version of CLI for Microsoft 365 -- v3.6 
+
 Following our monthly release cadence, we released this new version of
 CLI for Microsoft 365 with some new commands and improvements. Here are
 some of the most noteworthy additions. For the full list of changes, see
@@ -33,6 +34,7 @@ our [release
 notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v360).
 
 ### Ensure SharePoint site
+
 When building provisioning scripts, you often need to check if a
 particular site already exists. If it doesn't, you need to create it.
 If it does, you need to check if it has the necessary settings.
@@ -48,6 +50,7 @@ URL and create one if it doesn't:
 ```sh
 m365 spo site ensure --url https://contoso.sharepoint.com/sites/team1 --alias team1 --title "Team 1"
 ```      
+
 Using the command you can also ensure that the site that exists has the
 right type and properties:
 ```sh
@@ -60,6 +63,7 @@ think. For more information about what's possible, see the [command's
 documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-ensure/).
 
 ### Configure SharePoint site chrome
+
 Microsoft is continuously investing in modernizing SharePoint. With
 every update, we get more features to build rich portals in a robust and
 future-ready way. One of the recently introduced features is site chrome
@@ -87,6 +91,7 @@ For the full list of supported settings, see the [command's
 documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-chrome-set/).
  
 ### Copy SharePoint pages and page templates
+
 When working with pages and page templates, you might want to copy
 specific pages or page templates in bulk. The easiest way to automate
 it, is using CLI for Microsoft 365.
@@ -96,6 +101,7 @@ specified page or page template. To copy a page template, execute:
 ```bash
 m365 spo page copy --webUrl https://contoso.sharepoint.com/sites/team-a --sourceName "templates/PageTemplate.aspx" --targetUrl "page.aspx"
 ```
+
 To copy a page to another site, execute:
 ```bash
 m365 spo page copy --webUrl https://contoso.sharepoint.com/sites/team-a --sourceName "templates/PageTemplate.aspx" --targetUrl "https://contoso.sharepoint.com/sites/team-b/sitepages/page.aspx"
@@ -105,6 +111,7 @@ For the full list of supported options, see the [command's
 docs](https://pnp.github.io/cli-microsoft365/cmd/spo/page/page-copy/).
  
 ### Manage Power Apps
+
 More and more organizations use Power Apps to automate their work. With
 Power Apps, they can build applications for their business processes
 with little to no code.
@@ -129,11 +136,14 @@ m365 pa app get --name 3989cb59-ce1a-4a5c-bb78-257c5c39381d
 These commands extend our set of Power Platform commands. For the list
 of all commands for Power Platform, see the
 [documentation](https://pnp.github.io/cli-microsoft365/cmd/pa/environment/environment-list/).
+
 ### Changes
+
 We've continued improving CLI, building upon the changes we've
 introduced in the previous version.
  
 #### Browser-based login
+
 Many organizations become more and more conscious about their security
 posture. As their awareness matures, they implement more measure to
 ensure that they can work securely. One of such measures is conditional

@@ -2,14 +2,16 @@
 title: "How to use Send an HTTP request to SharePoint in Power Automate?"
 date: 2021-06-15T01:50:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["SharePoint", "Power Automate"]
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
 ## Introduction 
+
 Send an HTTP request to SharePoint action is used to execute REST
 queries. As we know when we want to perform any operations in SharePoint
 then we are using APIs so in the flow, we can use fro the same
@@ -18,6 +20,7 @@ For more details refer to
 [this](https://docs.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request).
 
 ## Implementation 
+
 We will create a SharePoint list and we will perform Create, Read,
 Update and Delete operations. we will create an instant flow. let's see
 step-by-step implementation.
@@ -58,18 +61,18 @@ actions
 **Headers*****:** Need JSON object*
 
 *  {\
-       \"content-type\": \"application/json;odata=verbose\",\
-       \"accept\": \"application/json;odata=verbose\"\
+       "content-type": "application/json;odata=verbose",\
+       "accept": "application/json;odata=verbose"\
   }*
 
 **Body :** *RequestBody*
 
 *     {\
-         \"\_\_metadata\": {\
-               \"type\": \"SP.Data.To_x0020_DoListItem\"\
+         "\_\_metadata": {\
+               "type": "SP.Data.To_x0020_DoListItem"\
         },\
-       \"Title\": \"Demo Task1\",\
-       \"Status\": \"Started\"\
+       "Title": "Demo Task1",\
+       "Status": "Started"\
    }*
 In the request body, we need type so now the question is how to get
 type? It is ***SP.Data.{ListName}ListItem*** (replace {*ListName*} with
@@ -90,17 +93,17 @@ actions
 **Headers*****: ***
 
 *  {\
-      \"content-type\": \"application/json;odata=verbose\",\
-      \"IF-MATCH\": \"\*\"\
+      "content-type": "application/json;odata=verbose",\
+      "IF-MATCH": "\*"\
 }*
 
 **Body :** *RequestBody*
 
 *     {\
-         \"\_\_metadata\": {\
-               \"type\": \"SP.Data.To_x0020_DoListItem\"\
+         "\_\_metadata": {\
+               "type": "SP.Data.To_x0020_DoListItem"\
         },\
-       \"Title\": \"Task1\",\
+       "Title": "Task1",\
    }*
 
 **  **
@@ -120,9 +123,9 @@ actions
 
 ```
 {     \
-      \"content-type\": \"application/json;odata=verbose\",\
-      \"IF-MATCH\": \"\*\",\
-      \"X-HTTP-Method\": \"DELETE \"\
+      "content-type": "application/json;odata=verbose",\
+      "IF-MATCH": "\*",\
+      "X-HTTP-Method": "DELETE "\
 }
 ```
 

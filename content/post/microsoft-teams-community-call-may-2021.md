@@ -2,13 +2,13 @@
 title: "Microsoft Teams Community Call - May 2021"
 date: 2021-05-19T12:52:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Teams community call recordings"]
 images:
 - images/blog/microsoft-teams-community-call-may-2021/teams-18th-recording-promo.png
-- images/blog/microsoft-teams-community-call-may-2021/210518-together-mode.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -2,12 +2,13 @@
 title: "Global Navigation In Modern SharePoint Using SPFx, PnP And Fluent UI"
 date: 2021-09-13T02:44:00-04:00
 author: "Dipen Shah"
+githubname: dips365
 categories: []
 images:
 - images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GN3.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -148,8 +149,8 @@ Open package.json file which should look like as below.
 
 ## Step 4 - Create React Component
 
-Create new folder called \"Components\" to
-\"..src\\extensions\\gobalNavigationBar\".
+Create new folder called "Components" to
+"..src\\extensions\\gobalNavigationBar".
 
 Create 3 files inside the components folder.
 
@@ -410,7 +411,7 @@ public render(): React.ReactElement<IGlobalNavProps> {
 
 ## Step 8 - Test Solution
 
-Open \"../config/serve.json\" file and update a couple of properties.
+Open "../config/serve.json" file and update a couple of properties.
 
 Update pageUrl Property and Properties,
 ```javascript

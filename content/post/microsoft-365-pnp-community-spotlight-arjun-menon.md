@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Community Spotlight: Arjun Menon"
 date: 2021-05-15T04:08:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Microsoft 365 community spotlight"]
 images:
 - images/blog/microsoft-365-pnp-community-spotlight-arjun-menon/Arjun.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

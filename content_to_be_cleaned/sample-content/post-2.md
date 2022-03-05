@@ -12,7 +12,7 @@ description: "This is meta description"
 categories: ["videography","vlog"]
 tags: ["food","vlog","nice"]
 type: "trending" # available type (epic, trending, popular, or regular)
-draft: false
+
 ---
 It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
 are reaching out to digital agencies, responding to the new possibilities available. However, the industry

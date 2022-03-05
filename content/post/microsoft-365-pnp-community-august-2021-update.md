@@ -2,22 +2,13 @@
 title: "Microsoft 365 PnP Community -- August 2021 update"
 date: 2021-08-25T02:13:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-august-2021-update/pnp-aug-2021-release.png
-- images/blog/microsoft-365-pnp-community-august-2021-update/pnp-community-model.png
-- images/blog/microsoft-365-pnp-community-august-2021-update/VesaJuvonen_0-1629736432373.png
-- images/blog/microsoft-365-pnp-community-august-2021-update/graph-toolkit.jpg
-- images/blog/microsoft-365-pnp-community-august-2021-update/community-dcos.png
-- images/blog/microsoft-365-pnp-community-august-2021-update/spfx-gallery.png
-- images/blog/microsoft-365-pnp-community-august-2021-update/teams-samples-promo.jpg
-- images/blog/microsoft-365-pnp-community-august-2021-update/power-platform-samples.png
-- images/blog/microsoft-365-pnp-community-august-2021-update/script-gallery.png
-- images/blog/microsoft-365-pnp-community-august-2021-update/sharing-is-caring-promo-1024x576.png
-- images/blog/microsoft-365-pnp-community-august-2021-update/pnp-aug-companies.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -631,6 +622,7 @@ detailed.
 -   [GitHub issue
     list](https://github.com/MicrosoftDocs/microsoft-365-community/issues)
     with articles ideas
+
 ### SharePoint Framework development samples 
 {{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/spfx-gallery.png" >}}
 
@@ -871,7 +863,7 @@ get started on getting more closely involved on this initiative. 
 ### Sharing is Caring initiative 
 {{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/sharing-is-caring-promo-1024x576.png" >}}
 
-The \"Sharing Is Caring\" imitative is targeted for learning the basics
+The "Sharing Is Caring" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
 advantage of this instructor lead training for learning how to

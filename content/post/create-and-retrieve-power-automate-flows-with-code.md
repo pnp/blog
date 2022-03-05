@@ -2,12 +2,13 @@
 title: "Create and Retrieve Power Automate Flows - WITH CODE!!! :-)"
 date: 2021-08-04T11:26:00-04:00
 author: "Tracy Sterling"
+githubname: TracyGH
 categories: ["Power Automate"]
 images:
 - images/blog/create-and-retrieve-power-automate-flows-with-code/Tracy_1-1627940128961.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

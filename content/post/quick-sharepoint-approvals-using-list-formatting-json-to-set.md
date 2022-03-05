@@ -2,12 +2,13 @@
 title: "Quick SharePoint Approvals using List formatting JSON to set field values"
 date: 2021-11-19T06:48:00-05:00
 author: "Michel Mendes"
+githubname: michelcarlo
 categories: ["SharePoint"]
 images:
 - images/blog/quick-sharepoint-approvals-using-list-formatting-json-to-set/choices.PNG
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

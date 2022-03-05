@@ -2,12 +2,13 @@
 title: "Updates on the Microsoft 365 platform community calls"
 date: 2021-06-28T08:40:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 community"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

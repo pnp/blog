@@ -2,15 +2,12 @@
 title: "Run CLI for Microsoft 365 in Docker"
 date: 2021-03-13T02:34:00-05:00
 author: "Garry Trinder"
+githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_0-1615630685864.png
-- images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_1-1615630685843.png
-- images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_2-1615630685839.png
-- images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_3-1615630685863.png
 tags: []
 type: "regular"
-draft: false
 
 ---
 
@@ -20,6 +17,7 @@ We are delighted to announce that [CLI for Microsoft
 download and use from the Docker Hub.
 If this doesn't mean a lot to you right now, then let me explain why we
 feel this is a big deal.
+
 Docker enables us to bundle a pre-configured version of CLI for
 Microsoft 365 together with all its required dependencies into a
 publicly downloadable image, which you can then use to create an
@@ -38,12 +36,11 @@ command.
 ``` highlight
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
-:::
-:::
+
 This command will instruct the Docker engine running on your host
 machine to start a container using an image called
-`m365pnp/cli-microsoft365`{.language-plaintext .highlighter-rouge}, as
-the `:latest`{.language-plaintext .highlighter-rouge} tag is specified
+`m365pnp/cli-microsoft365`, as
+the `:latest` tag is specified
 we are also telling the engine to get the image which contains the
 latest stable version of the CLI.
 As the image won't exist on your host machine yet, Docker will
@@ -51,16 +48,17 @@ automatically download the image from the [Docker
 Hub](https://hub.docker.com/r/m365pnp/cli-microsoft365), where our
 images are publicly available, then start a new container which invoking
 an interactive terminal session inside the container, this is determined
-by the presence of the `-it`{.language-plaintext .highlighter-rouge}
-switch in the `docker run`{.language-plaintext .highlighter-rouge}
+by the presence of the `-it`
+switch in the `docker run`
 command.
+
 {{< image alt="garrytrinder_0-1615630685864.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_0-1615630685864.png" >}}
 
 By default, the interactive terminal that is opened is a
-`bash`{.language-plaintext .highlighter-rouge} shell, however if you
-prefer using `PowerShell`{.language-plaintext .highlighter-rouge} then
+`bash` shell, however if you
+prefer using `PowerShell` then
 thats fine, we have you covered as we also bundle
-`PowerShell 7`{.language-plaintext .highlighter-rouge} as part of the
+`PowerShell 7` as part of the
 image.
 
 If you want to use PowerShell, simply add `pwsh`{.language-plaintext
@@ -68,33 +66,35 @@ If you want to use PowerShell, simply add `pwsh`{.language-plaintext
 .highlighter-rouge} command and you will get a PowerShell session
 instead.
 
-
 ``` highlight
 docker run --rm -it m365pnp/cli-microsoft365:latest pwsh
 ```
 
-
 {{< image alt="garrytrinder_1-1615630685843.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_1-1615630685843.png" >}}
+
 Now that you are at the interactive terminal, you can now invoke any CLI
 for Microsoft 365 command using the `m365`{.language-plaintext
 .highlighter-rouge}prefix as it is already installed, to help you, we
 have even pre-configured tab command completion for you in both
-`bash`{.language-plaintext .highlighter-rouge} and
-`PowerShell`{.language-plaintext .highlighter-rouge}. Neat right.
+`bash` and
+`PowerShell`. Neat right.
+
 {{< image alt="garrytrinder_2-1615630685839.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_2-1615630685839.png" >}}
 
 When you are done with your session, just type
-`exit`{.language-plaintext .highlighter-rouge} and your interactive
+`exit` and your interactive
 terminal will be closed and with that, the isolated container will also
 be stopped and removed, freeing up resources on your host machine, this
 is determined by the presence of the `--rm`{.language-plaintext
 .highlighter-rouge} switch in the `docker run`{.language-plaintext
 .highlighter-rouge} command.
+
 {{< image alt="garrytrinder_3-1615630685863.png" src="images/blog/run-cli-for-microsoft-365-in-docker/garrytrinder_3-1615630685863.png" >}}
+
 This doesn't mean that the image you just downloaded has been removed as
 well, this remains on your machine, we just removed the container
 instance that was started, so when you run the
-`docker run`{.language-plaintext .highlighter-rouge} command again, this
+`docker run` command again, this
 time you won't need to download the image and just head straight for the
 interactive terminal.
 As the container is removed after exiting the interactive terminal,
@@ -115,7 +115,7 @@ Group (SIG) - Bi-weekly sync call recorded on February 18, 2021.
 We will be releasing new beta and stable versions as part of our regular
 release cadence, so you will be able to use the new version of the CLI
 for Microsoft 365 in Docker immediately after our release to
-`npm`{.language-plaintext .highlighter-rouge}.
+`npm`.
 For a list of available tags, checkout the
 [m365pnp/cli-microsoft365](https://hub.docker.com/r/m365pnp/cli-microsoft365)
 repository on Docker Hub for the latest images.

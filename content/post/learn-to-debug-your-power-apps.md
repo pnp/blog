@@ -1,14 +1,13 @@
 ---
-title: "Getting Started with Azure Shell and PnP PowerShell with Certificates"
+title: "Learn to debug your Power Apps"
 date: 2021-04-25T08:40:00-04:00
 author: "Michael Roth"
+githubname: MichaelRoth42
 categories: ["Power Apps"]
 images:
 - images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 {{< image alt="Start debugging your Power App" src="images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png" >}}
@@ -101,7 +100,7 @@ But if it doesn't work, you will never wonder where the error is.
 
 ### 4. Snap to align
 
-Okay, this one is a mini tipp: Did you ever try to align some buttons or
+Okay, this one is a mini tip: Did you ever try to align some buttons or
 elements and the snap to align functionality drives you crazy? Often it
 helps to arrange your elements but sometimes it's your worst enemy.
 

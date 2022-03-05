@@ -7,7 +7,7 @@ images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -22,7 +22,7 @@ draft: false
     checks before saving)
 
 When working with SharePoint in App-Only
-context, every update made on list items are done with the user \"SharePoint App\".
+context, every update made on list items are done with the user "SharePoint App".
 But you can replace this by any user of the company!
 
 One important thing to know is that the Azure AD Application that will be used must be granted to \"Sites.FullControl.All\", in order to update the Author / Editor field. Lower permissions won't let you update them.]{.underline}
@@ -38,7 +38,7 @@ In this article, we'll cover the following steps:
     -   [Granting SharePoint app permission]
 -   Connect to SharePoint in App-Only context
 -   Update list item Author / Editor fields with any other user than
-    \"SharePoint App\"
+    "SharePoint App"
 
 We'll use [PnP PowerShell](https://pnp.github.io/powershell/), [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) and [PnP Framework](https://github.com/pnp/pnpframework)!
 
@@ -167,7 +167,7 @@ Wait a couple of minutes before being enabled to admin consent the p
 
 
 
-Once done, stay on the AAD Application page and go to **Certificates & Secrets** and click on \"*Upload certificate*\" to add the \"*PnP.SharePoint.AppOnly.cert.pem*\" file.
+Once done, stay on the AAD Application page and go to **Certificates & Secrets** and click on "*Upload certificate*" to add the "*PnP.SharePoint.AppOnly.cert.pem*" file.
 
 
 

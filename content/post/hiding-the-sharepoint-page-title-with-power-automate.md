@@ -2,13 +2,13 @@
 title: "Hiding the SharePoint page title with Power Automate"
 date: 2021-09-14T06:30:00-04:00
 author: "Michel Mendes"
+githubname: michelcarlo
 categories: ["SharePoint", "Power Automate"]
 images:
 - images/blog/hiding-the-sharepoint-page-title-with-power-automate/page-title.png
-
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -87,8 +87,7 @@ accessing the properties:
 
 And initialise a new variable called **PageLayout**, having
 the **PageLayoutType **parsed from the JSON content as value:
-![parse
-json.PNG](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310157iA4F6E2A5FD9734DB/image-size/large?v=v2&px=999 "parse json.PNG")
+{{< image alt="parse json.PNG" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/parse json.PNG" >}}
 **Updating the Page Layout**
 Based on the current page layout value, you can update the variable
 value to the other desired (if it is **Home**, you should update it
@@ -123,7 +122,7 @@ same flow will be called as if it was triggered from the Automate menu.
   "elmType": "button",
   "customRowAction": {
     "action": "executeFlow",
-    "actionParams": "{\"id\": \"a9dcaeec-61f9-4dd1-9561-679b15bc3e22\"}"
+    "actionParams": "{"id": "a9dcaeec-61f9-4dd1-9561-679b15bc3e22"}"
   },
   "attributes": {
     "class": "ms-fontColor-themePrimary ms-fontColor-themeDarker--hover"

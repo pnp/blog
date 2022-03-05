@@ -2,13 +2,13 @@
 title: "Microsoft 365 Developer Community Call recording -- 27th of May, 2021"
 date: 2021-05-28T12:20:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-27th-of-may/sig-27th-may-recording.png
-- images/blog/microsoft-365-developer-community-call-recording-27th-of-may/PnPCall-May27th-ReducedResolution.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

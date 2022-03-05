@@ -2,11 +2,10 @@
 title: "10 things we should think about before we build an app"
 date: 2021-03-11T01:50:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Apps"]
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 With Power Apps, we can rapidly build custom business applications that
@@ -163,7 +162,6 @@ the capacity to cover that. And even if we are not talking about
 adjusting to things that changed: Who will support our app? Who will
 answer questions? Who will implement new features?
 
-\
 Delivery of software should contain code (and yes, this applies to Power
 Apps) and proper documentation. Sharing knowledge about our app (what we
 use, inputs, outputs, dependencies, licensing, data model,

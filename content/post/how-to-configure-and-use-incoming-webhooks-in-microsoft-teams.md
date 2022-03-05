@@ -2,12 +2,13 @@
 title: "How to configure and use Incoming Webhooks in Microsoft Teams"
 date: 2021-01-11T03:37:00-05:00
 author: "Rabia Williams"
+githubname: rabwill
 categories: ["Microsoft Teams"]
 images: 
 - images/blog/how-to-configure-and-use-incoming-webhooks-in-microsoft-teams/connector-select.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

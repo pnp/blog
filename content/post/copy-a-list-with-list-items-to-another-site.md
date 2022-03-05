@@ -1,14 +1,14 @@
 ---
 title: "Copy a list - with list items - to another site"
 date: 2021-04-01T08:47:00-04:00
-author: "Will holland"
+author: "Will Holland"
+githubname: willholland
 categories: ["SharePoint"]
 images:
 - images/blog/copy-a-list-with-list-items-to-another-site/sad-mario.png
-- images/blog/copy-a-list-with-list-items-to-another-site/you-win.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -16,8 +16,8 @@ draft: false
 
 Have you ever heard this from a client or colleague?
  
-> \"I have a list of data on this one site that I need to move to
-> another site.\"
+> "I have a list of data on this one site that I need to move to
+> another site."
 > 
 {{< image alt="sad-mario.png" src="images/blog/copy-a-list-with-list-items-to-another-site/sad-mario.png" >}}
  

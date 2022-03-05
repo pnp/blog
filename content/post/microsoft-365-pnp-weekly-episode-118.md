@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 118"
 date: 2021-03-16T02:35:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-118/Thumb-Ep118.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---Microsoft 365 PnP Weekly - Episode 118]
 {{< image alt="Thumb-Ep118.png" src="images/blog/microsoft-365-pnp-weekly-episode-118/Thumb-Ep118.png" >}}
@@ -159,4 +160,4 @@ recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

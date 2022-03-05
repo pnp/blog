@@ -2,269 +2,63 @@
 title: "Microsoft 365 self-service using Power Apps"
 date: 2022-01-12T06:00:00-05:00
 author: "Jan Bakker"
-categories: []
+githubname: BakkerJan
+categories: ["Power Apps"]
 images:
 - images/blog/microsoft-365-self-service-using-power-apps/1641653378.png
-- images/blog/microsoft-365-self-service-using-power-apps/1641747471.png
-- images/blog/microsoft-365-self-service-using-power-apps/1641917465.png
-- images/blog/microsoft-365-self-service-using-power-apps/1641748265.png
-- images/blog/microsoft-365-self-service-using-power-apps/PowerAppsFlow.png
-- images/blog/microsoft-365-self-service-using-power-apps/1641918438.png
-- images/blog/microsoft-365-self-service-using-power-apps/JanBakker_0-1641843830957.png
 tags: []
 type: "regular"
-draft: false
-
 ---
+
+Many organizations are moving towards a modern workplace. And most of the time, that does not happen overnight. It's a big change for both end-users, management, and IT staff.
+
+I’m a big fan of self-service and believe that organizations can benefit from it as well. It improves adoption and lowers help desk calls. Being a consultant, I'm involved in a lot of projects around Microsoft 365, Microsoft Endpoint Manager, and Azure AD. And projects often start with pilots. Most of the time, those pilots are narrowed down to IT folks. But wouldn't it be cool if the 'regular user' could also participate in pilots, those who are eager to learn, explore and test out new features? This solution is built upon Power Apps and can serve many, many use-cases.
+
+This blog post is a showcase for a Power App around self-service. It is also a perfect example of fusion development. Microsoft made sure we have an API we can use to assign the settings we want. The Power App is already set up to use those connections, and you as a citizen developer only need to make sure the app interacts with those as you desire, with a minimum of coding effort.
+
 {{< image alt="1641653378.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641653378.png" >}}
 
+## The idea behind the app
 
-**The idea behind the app**
+The concept of this app is straightforward: it puts users into groups. And the best part is: they can do it themselves. Now, Microsoft 365 offers a broad set of self-service capabilities already, but for some organizations, that can be really scary. By default, users can even create their own groups and teams themselves, but this feature is often disabled by IT.  It also might not be the most user-friendly option.  
 
-[[The concept of this app is ]{.NormalTextRun .SCXW211842248
-.BCX8}[straightforward]{.NormalTextRun .SCXW211842248 .BCX8}[: it puts
-users into groups. And the best part ]{.NormalTextRun .SCXW211842248
-.BCX8}[is]{.NormalTextRun .SCXW211842248 .BCX8}]{.TextRun .SCXW211842248
-.BCX8 contrast="auto"}[[[:]{.NormalTextRun .SCXW211842248
-.BCX8}]{.TextRun .SCXW211842248 .BCX8
-contrast="auto"}]{.TrackChangeTextDeletion .TrackedChange .SCXW211842248
-.BCX8}[[ they can do it themselves. Now, Microsoft 365 offers a broad
-set of ]{.NormalTextRun .SCXW211842248 .BCX8}]{.TextRun .SCXW211842248
-.BCX8 contrast="auto"}[[[self-service]{.NormalTextRun .SCXW211842248
-.BCX8 ccp-charstyle="Hyperlink"}]{.TextRun .Underlined .SCXW211842248
-.BCX8
-contrast="none"}](https://janbakker.tech/self-service-in-microsoft-365/){.Hyperlink
-.SCXW211842248 .BCX8}[[ capabilities already, but for some
-organizations, that can be ]{.NormalTextRun .SCXW211842248 .BCX8}[really
-scary]{.NormalTextRun .AdvancedProofingIssueV2 .SCXW211842248 .BCX8}[.
-By default, users can even create their own groups and teams themselves,
-but this feature is often disabled by ]{.NormalTextRun .SCXW211842248
-.BCX8}[IT. ]{.NormalTextRun .AdvancedProofingIssueV2 .SCXW211842248
-.BCX8}[ ]{.NormalTextRun .AdvancedProofingIssueV2 .SCXW211842248
-.BCX8}[It also might not be the most user-friendly]{.NormalTextRun
-.SCXW211842248 .BCX8}[ ]{.NormalTextRun .SCXW211842248
-.BCX8}[option]{.NormalTextRun .SCXW211842248 .BCX8}[. ]{.NormalTextRun
-.SCXW211842248 .BCX8}]{.TextRun .SCXW211842248 .BCX8
-contrast="auto"}[ ]{.EOP .SCXW211842248 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+Back to the concept of groups. These can be either security or Microsoft 365 groups. Using this app, you can offer self-service to your end-users, while staying in control. Next to that, you can make it a user-friendly experience, because you can design your own User Interface around it. So, you can put additional information in the UI, as we did in this app. Since it can be used for every group in Azure AD, this can be used within all integrated services like Office 365, Microsoft Endpoint Manager, and even security features like Azure AD Authentication policies, and Conditional Access.
 
- 
+The ultimate goal of this app thus is a UI where any end-user in the organization can select what pilot programs they want to be part of. In the demo, there are several different UI elements to help users with their selection ranging from toggles to sliders.  
 
-[[B]{.NormalTextRun .SCXW149660201 .BCX8}[ack to the ]{.NormalTextRun
-.SCXW149660201 .BCX8}[concept of ]{.NormalTextRun .SCXW149660201
-.BCX8}[groups. These can be either security or Microsoft 365 groups.
-Using this app, you can offer self-service to your end-users, while
-staying in control. Next to that, you can make it ]{.NormalTextRun
-.SCXW149660201 .BCX8}[a ]{.NormalTextRun .SCXW149660201
-.BCX8}[user-friendly]{.NormalTextRun .SCXW149660201
-.BCX8}[ experience]{.NormalTextRun .SCXW149660201 .BCX8}[, because you
-can design your own User Interface around it. So, you can
-put ]{.NormalTextRun .SCXW149660201 .BCX8}[additional]{.NormalTextRun
-.SCXW149660201 .BCX8}[ information in the UI, as we did in this app.
-Since it can be used for every group in Azure AD, this can be used
-within all integrated services like Office 365, Microsoft Endpoint
-Manager, and even security features like Azure AD Authentication
-policies, and Conditional Access.]{.NormalTextRun .SCXW149660201
-.BCX8}]{.TextRun .SCXW149660201 .BCX8 contrast="auto"}[ ]{.EOP
-.SCXW149660201 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+## Features
 
- 
-
-[[[The ]{.NormalTextRun .SCXW49274579 .BCX8}[ultimate
-goal]{.NormalTextRun .AdvancedProofingIssueV2 .SCXW49274579 .BCX8}[ of
-this app ]{.NormalTextRun .SCXW49274579 .BCX8}[thus is]{.NormalTextRun
-.SCXW49274579 .BCX8}[ a UI where any end-user in the organization
-can ]{.NormalTextRun .SCXW49274579 .BCX8}[select what pilot
-programs]{.NormalTextRun .SCXW49274579 .BCX8}]{.TextRun .SCXW49274579
-.BCX8 contrast="auto"}[[ they want to be part of. In the demo, there are
-several different UI elements to help users with their ]{.NormalTextRun
-.SCXW49274579 .BCX8}[selection]{.NormalTextRun .SCXW49274579
-.BCX8}[ ranging from ]{.NormalTextRun .SCXW49274579
-.BCX8}[t]{.NormalTextRun .SCXW49274579 .BCX8}[oggles to ]{.NormalTextRun
-.SCXW49274579 .BCX8}[s]{.NormalTextRun .SCXW49274579
-.BCX8}[liders. ]{.NormalTextRun .SCXW49274579 .BCX8}]{.TextRun
-.SCXW49274579 .BCX8 contrast="auto"}[ ]{.EOP .SCXW49274579 .BCX8
-ccp-props="{\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559739\":160,\"335559740\":259}"}]{.EOP
-.SCXW149660201 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
-
- 
-
-**Features**
-
-[[The idea behind the slider is to bring your users in control of their
-modern workplace]{.NormalTextRun .SCXW110568664 .BCX8}[, easier
-put:]{.NormalTextRun .SCXW110568664 .BCX8}[ on what
-pace ]{.NormalTextRun .SCXW110568664 .BCX8}[updates]{.NormalTextRun
-.SCXW110568664 .BCX8}[ will]{.NormalTextRun .SCXW110568664
-.BCX8}[ get]{.NormalTextRun .SCXW110568664 .BCX8}[ ]{.NormalTextRun
-.SCXW110568664 .BCX8}[delivered]{.NormalTextRun .SCXW110568664
-.BCX8}[ ]{.NormalTextRun .SCXW110568664 .BCX8}[to]{.NormalTextRun
-.SCXW110568664 .BCX8}[ their Windows device]{.NormalTextRun
-.SCXW110568664 .BCX8}[. By choosing a different update channel, they
-will be assigned to a specific Windows Update for Business ring in
-the back-end]{.NormalTextRun .SCXW110568664 .BCX8}]{.TextRun
-.SCXW110568664 .BCX8 contrast="auto"}[[.]{.NormalTextRun .SCXW110568664
-.BCX8}]{.TextRun .SCXW110568664 .BCX8 contrast="auto"}[ ]{.EOP
-.SCXW110568664 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
-
- 
+The idea behind the slider is to bring your users in control of their modern workplace, easier put: on what pace updates will get delivered to their Windows device. By choosing a different update channel, they will be assigned to a specific Windows Update for Business ring in the back-end.
 
 {{< image alt="1641747471.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641747471.png" >}}
 
- 
+The toggles can be used to let the user participate in different pilots or features that Microsoft 365 offers. It can also be used to request licenses, for example, if the user needs Power-BI Pro for a specific project. You could even build an additional flow that will ask for manager approval first, or you can make use of Azure Active Directory Access Reviews to review the groups periodically.
 
- 
+### Group-based licensing
 
-[[The toggles]{.NormalTextRun .SCXW127633728 .BCX8}[ can
-b]{.NormalTextRun .SCXW127633728 .BCX8}[e used to let the
-user ]{.NormalTextRun .SCXW127633728 .BCX8}[participate]{.NormalTextRun
-.SCXW127633728 .BCX8}[ in different pilots or features that Microsoft
-365 offers. It can also be used to ]{.NormalTextRun .SCXW127633728
-.BCX8}[request licenses, for example]{.NormalTextRun .SCXW127633728
-.BCX8}[,]{.NormalTextRun .SCXW127633728 .BCX8}[ if the user needs
-Power-BI Pro for a specific project. ]{.NormalTextRun .SCXW127633728
-.BCX8}[Y]{.NormalTextRun .SCXW127633728 .BCX8}[ou ]{.NormalTextRun
-.SCXW127633728 .BCX8}[could ]{.NormalTextRun .SCXW127633728
-.BCX8}[even ]{.NormalTextRun .SCXW127633728 .BCX8}[build
-an ]{.NormalTextRun .SCXW127633728 .BCX8}[additional]{.NormalTextRun
-.SCXW127633728 .BCX8}[ flow ]{.NormalTextRun .SCXW127633728 .BCX8}[that
-will ask for manager approval first, or you can make use
-of ]{.NormalTextRun .SCXW127633728 .BCX8}]{.TextRun .SCXW127633728 .BCX8
-contrast="auto"}[[[Azure Active Directory Access Review]{.NormalTextRun
-.SCXW127633728 .BCX8 ccp-charstyle="Hyperlink"}[s]{.NormalTextRun
-.SCXW127633728 .BCX8 ccp-charstyle="Hyperlink"}]{.TextRun .Underlined
-.SCXW127633728 .BCX8
-contrast="none"}](https://janbakker.tech/active-directory-identity-governance-access-reviews/){.Hyperlink
-.SCXW127633728 .BCX8}[[ to ]{.NormalTextRun .SCXW127633728 .BCX8}[review
-the groups periodically.]{.NormalTextRun .SCXW127633728 .BCX8}]{.TextRun
-.SCXW127633728 .BCX8 contrast="auto"}[ ]{.EOP .SCXW127633728 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+Leveraging Azure Premium P1, we could use group-based licensing to automatically assign licenses to users based on group membership.  
 
- 
-
-[**Group-based licensing** ]{.EOP .SCXW127633728 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
-
-[Leveraging Azure Premium P1, we could use group-based licensing to
-automatically assign licenses to users based on group
-membership. ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
-
- 
-
-[In the Azure portal, go to]{contrast="auto"}**[ Azure Active Directory
--\> Licenses]{contrast="auto"}**[. Select
-the preferred licenses, then go to the ]{contrast="auto"}***[Licensed
-groups]{contrast="auto"}***[ blade, and click +
-Assign. ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
-
- 
+In the Azure portal, go to Azure Active Directory -> Licenses. Select the preferred licenses, then go to the Licensed groups blade, and click + Assign.
 
 {{< image alt="1641917465.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641917465.png" >}}
 
- 
-
- 
-
-[[From the list, select the underlying services that you want to assign
-to the group.]{.NormalTextRun .SCXW16347456 .BCX8}]{.TextRun
-.SCXW16347456 .BCX8 contrast="auto"}[ ]{.EOP .SCXW16347456 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
-
- 
+From the list, select the underlying services that you want to assign to the group.
 
 [{{< image alt="1641748265.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641748265.png" >}}
 
- 
+As soon as the user is added to the group, the license is automatically assigned. When the user is removed, also the license will be unassigned.
 
- 
+How does the app work under the hood?
 
-[[[As soon as the user is added to the group, the license is
-automatically assigned. When the user is removed, ]{.NormalTextRun
-.SCXW155582083 .BCX8}[also the license will]{.NormalTextRun
-.SCXW155582083 .BCX8}[ be unassigned. ]{.NormalTextRun .SCXW155582083
-.BCX8}]{.TextRun .SCXW155582083 .BCX8 contrast="auto"}[ ]{.EOP
-.SCXW155582083 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}]{.EOP
-.SCXW16347456 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+The app is using Power Automate to connect to the Graph API. Inside the Power Automate flow, we use the HTTP connector to send out the API calls. Based on the parameters that we define in Power Apps, the user is either added or removed from the group.
 
- 
+{{< image alt="PowerAppsFlow.png" src="images/blog/microsoft-365-self-service-using-power-apps/PowerAppsFlow.png" >}}
 
-[[**How does the app work under the hood?**]{.EOP .SCXW155582083 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}]{.EOP
-.SCXW16347456 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+The flow is using the switch feature to determine what action should be taken. This can be either “add”,”remove”, or “fetch”. More details on the app and flow can be found in the extended documentation on GitHub.  
 
-[[The app is using Power Automate to connect to the Graph
-API. ]{.NormalTextRun .SCXW256519428 .BCX8}[Inside the Power Automate
-flow, we use the HTTP connector to send out the API calls. Based on the
-parameters that we define in Power ]{.NormalTextRun .SCXW256519428
-.BCX8}[Apps,]{.NormalTextRun .ContextualSpellingAndGrammarErrorV2
-.SCXW256519428 .BCX8}[ the]{.NormalTextRun .SCXW256519428 .BCX8}[ user
-is either added or removed from the group. ]{.NormalTextRun
-.SCXW256519428 .BCX8}]{.TextRun .SCXW256519428 .BCX8
-contrast="auto"}[ ]{.EOP .SCXW256519428 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
+[{{< image alt="1641918438.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641918438.png" >}}
 
- 
-
- 
-
-[{{< image alt="PowerAppsFlow.png" src="images/blog/microsoft-365-self-service-using-power-apps/PowerAppsFlow.png" >}}
-
- 
-
- 
-
-[[[The flow is using the switch feature to ]{.NormalTextRun
-.SCXW23769191 .BCX8}[determine]{.NormalTextRun .SCXW23769191
-.BCX8}[ what action should be taken. This can be either
-"]{.NormalTextRun .SCXW23769191 .BCX8}[add","remove]{.NormalTextRun
-.SpellingErrorV2 .SCXW23769191 .BCX8}[",]{.NormalTextRun
-.AdvancedProofingIssueV2 .SCXW23769191 .BCX8}[ or "fetch]{.NormalTextRun
-.SCXW23769191 .BCX8}["]{.NormalTextRun .AdvancedProofingIssueV2
-.SCXW23769191 .BCX8}[.]{.NormalTextRun .AdvancedProofingIssueV2
-.SCXW23769191 .BCX8}[ ]{.NormalTextRun .SCXW23769191 .BCX8}[More details
-on the app and flow can be found in the ]{.NormalTextRun .SCXW23769191
-.BCX8}]{.TextRun .SCXW23769191 .BCX8 contrast="auto"}[[[[extended
-documentation on GitHub]{.NormalTextRun .SCXW23769191 .BCX8
-ccp-charstyle="Hyperlink"}]{.TextRun .Underlined .SCXW23769191 .BCX8
-contrast="none"}]{.FieldRange .SCXW23769191
-.BCX8}](https://github.com/BakkerJan/M365Portal)[[. ]{.NormalTextRun
-.SCXW23769191 .BCX8}]{.TextRun .SCXW23769191 .BCX8
-contrast="auto"}[ ]{.EOP .SCXW23769191 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}]{.EOP
-.SCXW256519428 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
-
- 
-
- 
-
-[[{{< image alt="1641918438.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641918438.png" >}}
-
- 
-
-**Power Apps in Microsoft Teams**
-
-[[As Power Apps can run ]{.NormalTextRun .SCXW187495681
-.BCX8}[natively]{.NormalTextRun .SCXW187495681
-.BCX8}[ in ]{.NormalTextRun .SCXW187495681
-.BCX8}[Microsoft]{.NormalTextRun .SCXW187495681
-.BCX8}[ Teams, ]{.NormalTextRun .SCXW187495681 .BCX8}[t]{.NormalTextRun
-.SCXW187495681 .BCX8}[his app can]{.NormalTextRun .SCXW187495681
-.BCX8}[ do that]{.NormalTextRun .SCXW187495681 .BCX8}[ ]{.NormalTextRun
-.SCXW187495681 .BCX8}[as well]{.NormalTextRun .SCXW187495681 .BCX8}[.
-This will make the app ]{.NormalTextRun .SCXW187495681
-.BCX8}[easily ]{.NormalTextRun .SCXW187495681 .BCX8}[accessible for
-end-users. ]{.NormalTextRun .SCXW187495681 .BCX8}]{.TextRun
-.SCXW187495681 .BCX8 contrast="auto"}[ ]{.EOP .SCXW187495681 .BCX8
-ccp-props="{\"201341983\":0,\"335559739\":160,\"335559740\":259}"}
-
- 
+The flow is using the switch feature to determine what action should be taken. This can be either “add”,”remove”, or “fetch”. More details on the app and flow can be found in the extended documentation on GitHub.
 
 {{< image alt="JanBakker_0-1641843830957.png" src="images/blog/microsoft-365-self-service-using-power-apps/JanBakker_0-1641843830957.png" >}}
 
@@ -816,41 +610,8 @@ Browse
 -   [Microsoft Garage](https://www.microsoft.com/garage/)
 :::
 
-::: {.sfm-group ms.cmpnm="Company"}
-###### Company  {#company .grp-title}
+This demo app is available on GitHub and can be up and running in minutes. Reach out to this repository for detailed information and step-by-step instructions. Also, make sure to check out this YouTube video for a short tutorial.
 
--   [Careers](https://careers.microsoft.com/)
--   [About Microsoft](https://www.microsoft.com/en-us/about)
--   [Company News](https://news.microsoft.com/)
--   [Privacy at Microsoft](https://privacy.microsoft.com/)
--   [Investors](https://www.microsoft.com/investor/default.aspx)
--   [Diversity and inclusion](https://www.microsoft.com/diversity/)
--   [Accessibility](https://www.microsoft.com/accessibility)
--   [Security](https://www.microsoft.com/security/default.aspx)
-:::
-:::
+## Conclusion
 
-::: {.shell-footer-copyright ms.cmpnm="corp" ms.cmpgrp="corp links"}
--   [Sitemap](https://www.microsoft.com/en-us/sitemap1.aspx){#shellmenu_0
-    .ctl_footerNavLink}
--   [Contact
-    Microsoft](https://support.microsoft.com/contactus){#shellmenu_1
-    .ctl_footerNavLink}
--   [Privacy](https://go.microsoft.com/fwlink/?LinkId=521839){#shellmenu_2
-    .ctl_footerNavLink}
--   [Manage cookies](#){#shellmenu_2B .ctl_footerNavLink .hidden}
--   [Terms of
-    use](http://go.microsoft.com/fwlink/?LinkID=206977){#shellmenu_3
-    .ctl_footerNavLink}
--   [Trademarks](https://www.microsoft.com/trademarks){#shellmenu_4
-    .ctl_footerNavLink}
--   [Safety and
-    eco](https://www.microsoft.com/devices/safety-and-eco){#shellmenu_5
-    .ctl_footerNavLink}
--   [About our ads](https://choice.microsoft.com/){#shellmenu_6
-    .ctl_footerNavLink}
--   © []{#footerDate} Microsoft
-:::
-:::
-:::
-:::
+We hope to have provided some inspiration in facilitating your end users with a self-service experience using the Power Platform. Allowing your users to interact with an easy interface and requesting the features they feel add value will make sure you stay in control!

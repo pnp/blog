@@ -7,7 +7,7 @@ images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -2,12 +2,13 @@
 title: "Get Permission Report for SharePoint Online or OneDrive File using CLI for Microsoft 365"
 date: 2021-09-29T03:29:00-04:00
 author: "Arjun Menon"
+githubname: arjunumenon
 categories: []
 images:
 - images/blog/get-permission-report-for-sharepoint-online-or-onedrive-file/SP Permission Report - CLI.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

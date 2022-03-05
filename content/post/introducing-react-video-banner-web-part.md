@@ -2,19 +2,13 @@
 title: "Introducing React Video Banner Web Part"
 date: 2021-05-06T04:18:00-04:00
 author: "Mohamed Derhalli"
+githubname: derhallim
 categories: ["SharePoint"]
 images:
 - images/blog/introducing-react-video-banner-web-part/derhallim_0-1620249069072.png
-- images/blog/introducing-react-video-banner-web-part/derhallim_4-1620249695924.png
-- images/blog/introducing-react-video-banner-web-part/derhallim_1-1620252146944.png
-- images/blog/introducing-react-video-banner-web-part/derhallim_2-1620252225550.png
-- images/blog/introducing-react-video-banner-web-part/derhallim_0-1620252048668.png
-- images/blog/introducing-react-video-banner-web-part/derhallim_6-1620252844193.png
-- images/blog/introducing-react-video-banner-web-part/derhallim_3-1620252272134.png
-- images/blog/introducing-react-video-banner-web-part/derhallim_4-1620252332115.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

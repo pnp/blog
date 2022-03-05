@@ -2,14 +2,12 @@
 title: "What\'s up with Markdown?"
 date: 2021-05-04T03:54:00-04:00
 author: "Bob German"
+githubname: BobGerman
 categories: ["Tooling"]
 images:
 - images/blog/what-s-up-with-markdown/hero-parker-p-800.png
-- images/blog/what-s-up-with-markdown/hero-parker-p-800.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 [Perhaps you've noticed a technology called Markdown that's been
 showing up in a lot of web sites and apps lately. This article will
@@ -172,7 +170,7 @@ example: [Microsoft](https://www.microsoft.com/).
 ### 4. Images
 
 Images use almost the same syntax as hyperlinks except they begin with
-an exclamation point. In this case the \"alt\" text is in square
+an exclamation point. In this case the "alt" text is in square
 brackets and the image URL is in parenthesis, with no spaces in between.
 
  
@@ -285,7 +283,7 @@ Just put a asterisk or dash in front of a line that should be bulleted.
 
 Many markdown implementations know how to format code by language. (This
 article was written in Markdown and made extensive use of this feature
-using \"markdown\" as the language!) For example to show some HTML:
+using "markdown" as the language!) For example to show some HTML:
 
 ##### Markdown:
 
@@ -297,7 +295,7 @@ using \"markdown\" as the language!) For example to show some HTML:
 
 ##### Result:
 
-\<button type=\"button\"\>Do not push this button\</button>
+\<button type="button"\>Do not push this button\</button>
 
 ### 10. Tables
 
@@ -358,8 +356,8 @@ From vinyl records to 8-bit games and static web sites, there's a trend
 these days to rediscover simpler technologies from the past. Markdown
 definitely falls into this category.
 
-Back before \"WYSIWYG\" (What You See Is What You Get) word processors
-were cheap and pervasive, there were \"runoff\" utilities that were very
+Back before "WYSIWYG" (What You See Is What You Get) word processors
+were cheap and pervasive, there were "runoff" utilities that were very
 much like Markdown. They turned text files into nicely formatted printed
 documents (usually Postscript). Markdown harkens back to these legacy
 tools, but adds HTML compatibility and an intuitive syntax.

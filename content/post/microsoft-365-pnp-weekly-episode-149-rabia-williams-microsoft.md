@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 149 - Rabia Williams (Microsoft)"
 date: 2022-01-18T02:09:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/Thumb-Ep149-January 17.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 {{< image alt="Thumb-Ep149-January 17.png" src="images/blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/Thumb-Ep149-January 17.png" >}}
@@ -210,4 +211,4 @@ requests or questions.
 
  
 
-*\"Sharing is caring!\" *
+*"Sharing is caring!" *

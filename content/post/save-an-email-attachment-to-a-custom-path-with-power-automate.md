@@ -1,19 +1,13 @@
 ---
 title: "Save an email attachment to a custom path with Power Automate"
 date: 2021-06-20T11:11:00-04:00
-author: "Damo Bird 365"
+author: "Damien Bird"
+githubname: DamoBird365
 categories: ["Power Automate"]
 images:
 - images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_0-1624209543175.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_1-1624209543161.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_2-1624209543294.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_3-1624209543448.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_4-1624209543193.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_8-1624210593508.png
-- images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_6-1624209543237.png
 tags: []
 type: "regular"
-draft: false
 
 ---
 
@@ -26,7 +20,6 @@ Document Library.   The dynamically chosen path is based on the Subject
 Line OR File Name. This can be achieved relatively easily and would save
 you a lot of routine administration time.
 
-
 ## The Solution
 
 Using Power Automate, **When a new email arrives (v3)** trigger, we can
@@ -34,8 +27,9 @@ be quite specific about the sender of the email and for this, I have
 assumed all emails will come from xerox\@mydomain.com and the email must
 contain an attachment! Ideally, you want to limit the emails that this
 Flow will trigger by using the available parameters for that action.
-::: wp-block-image
+
 {{< image alt="" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_0-1624209543175.png" >}}
+
 To define the locations for saving files, I have used an **array** in
 a **compose action** (but don't panic!). You might want to use
 a **SharePoint list** as somewhere to save the specific subject or file
@@ -44,7 +38,7 @@ advantage of using an array is that only the owner(s) of the flow can
 define these and all of the parameters are in one place. Creating a list
 in SharePoint might give you and/or other colleagues the ability to
 easily define and visualise the locations.
-::: wp-block-image
+
 {{< image alt="" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_1-1624209543161.png" >}}
 
 The parameters for this flow are basic, a keyword for searching the
@@ -68,12 +62,13 @@ element, you will receive an error "**Array elements can only be
 selected using an integer index**". Using First() or calling the element
 by using an integer will allow you to simplify your Flow if you know the
 result will always be the first element.
-::: wp-block-image
+
 {{< image alt="" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_2-1624209543294.png" >}}
 
 
 ## Saving the File(s) to a Custom Path
-Using the **Create File **action for SharePoint, I am using
+
+Using the **Create File** action for SharePoint, I am using
 the **Attachments Name** and **Attachments Content** dynamic expressions
 from the email trigger. By default, when you select these dynamic
 values, Power Automate will put your actions into an Apply to Each. Why?
@@ -94,7 +89,8 @@ try and delete any additional text that you supply.
 The expressions I have used both using the integer selection for the
 first array element and the first expression are as follows:
 
-**File Name**: triggerOutputs()?\['body/attachments'\]?\[0\]?\['name'\]\
+**File Name**: triggerOutputs()?\['body/attachments'\]?\[0\]?\['name'\]
+
 **File Content**:
 first(triggerOutputs()?\['body/attachments'\])?\['contentBytes'\]
 
@@ -104,11 +100,13 @@ me.
 
 {{< image alt="" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_4-1624209543193.png" >}}
 
+## See it in Action
 
 
 ## See it in Action 
 Here I have an incoming email from the Xerox mailbox. I've been sent me
 an attachment from the Xerox Mailbox. This will trigger my flow.
+
 {{< image alt="DamoBird365_8-1624210593508.png" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_8-1624210593508.png" >}}
  
 
@@ -123,7 +121,8 @@ custom dynamic paths for both the Folder Path or Site Address. I am
 obviously saving the file twice here in order to demonstrate the two
 options. You might want to combine the custom site and folder with an
 additional parameter in your Array or SharePoint List.
-[](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290141i8FB522F93B3B1E9F/image-size/large?v=v2&px=999 "DamoBird365_7-1624209543373.png")
+
+{{< image alt="DamoBird365_7-1624209543373.png" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_7-1624209543373.png" >}}
 
 ## Summary
 

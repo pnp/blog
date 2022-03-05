@@ -1,23 +1,14 @@
 ---
 title: "Getting started with SharePoint's custom column formatting"
 date: 2021-03-14T10:08:00-04:00
-author: "will holland"
+author: "Will Holland"
+githubname: willholland
 categories: []
 images:
 - images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_0-1615739594928.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_1-1615739594936.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_2-1615739594938.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_3-1615739594938.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_4-1615739594943.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_5-1615739594946.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_6-1615739594947.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_7-1615739594949.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_8-1615739594955.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_9-1615739594966.png
-- images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_10-1615739594999.png
 tags: []
-type: "regular"
-draft: false
+type: "trending"
+
 
 ---
 
@@ -135,7 +126,7 @@ In the last example, we used the *txtContent* property and the
 such as text, you can simply do like what was done in that example.
 However, some field types -- such as people or date fields - may require
 a little extra work.
-\"There and back again\" to the original example with Frodo, you may
+"There and back again" to the original example with Frodo, you may
 have noticed the 'Age' column (yes, Frodo was 50 years old when he
 leaves on his adventure). Here is the definition used for the
 transformation shown at the beginning.

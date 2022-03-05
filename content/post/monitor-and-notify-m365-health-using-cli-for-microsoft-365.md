@@ -2,16 +2,13 @@
 title: "Monitor and Notify M365 health using CLI for Microsoft 365"
 date: 2021-11-24T05:38:00-05:00
 author: "Arjun Menon"
+githubname: arjunumenon
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_0-1637745741073.jpeg
-- images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_1-1637745741149.jpeg
-- images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_2-1637745741136.jpeg
-- images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_3-1637745741115.jpeg
-- images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_4-1637745741165.jpeg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

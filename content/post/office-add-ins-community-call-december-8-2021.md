@@ -2,12 +2,14 @@
 title: "Office Add-ins community call -- December 8, 2021"
 date: 2021-12-16T03:51:00-05:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-december-8-2021/office-add-ins-Thumb Dec 2021.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -231,7 +233,7 @@ in script lab?**
 There is an API in Office.js to get the attachments. Check out the
 [Office.AttachmentContent
 interface. ](https://docs.microsoft.com/javascript/api/outlook/office.attachmentcontent)In
-script lab for Outlook search for \"Get attachments\" in the samples and
+script lab for Outlook search for "Get attachments" in the samples and
 you will find a sample.
 
 **Any news when the current PowerPoint Preview API will go live?**

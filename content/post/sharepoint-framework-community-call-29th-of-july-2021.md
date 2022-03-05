@@ -2,12 +2,13 @@
 title: "SharePoint Framework Community Call -- 29th of July, 2021"
 date: 2021-07-29T04:59:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-29th-of-july-2021/PnP-Calls-TogetherMode-LowResolution.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -237,7 +238,7 @@ slides.
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
 
--   Blog: \"[A Lap Around Microsoft Graph Toolkit\" blog
+-   Blog: "[A Lap Around Microsoft Graph Toolkit" blog
     series](https://aka.ms/mgtLap)
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new

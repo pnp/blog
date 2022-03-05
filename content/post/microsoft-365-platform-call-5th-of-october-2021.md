@@ -2,22 +2,22 @@
 title: "Microsoft 365 Platform Call -- 5th of October, 2021"
 date: 2021-10-06T03:01:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-5th-of-october-2021/recording-5th-oct.png
-- images/blog/microsoft-365-platform-call-5th-of-october-2021/211005-together-mode.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 {{< image alt="recording-5th-oct.png" src="images/blog/microsoft-365-platform-call-5th-of-october-2021/recording-5th-oct.png" >}}\
 Microsoft 365 Platform Community Call - weekly community call recording
 from October 5th, is now available from the Microsoft 365 Community
 YouTube channel
-at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
+at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos).
 
-**Call Summary**
+## Call Summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   New to Microsoft 365 Platform development?  You are
@@ -44,7 +44,8 @@ platform and 2 demos this week.  The host of this call was [Sébastien
 Levert](http://twitter.com/sebastienlevert) (Microsoft) \|
 [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766).  Q&A takes
 place in chat throughout the call.
-**Microsoft 365 Platform News Flash**
+
+## rosoft 365 Platform News Flash
 
 -   [Announcing general availability of Microsoft Graph Export API for
     Microsoft Teams
@@ -54,12 +55,6 @@ place in chat throughout the call.
 -   [Updated navigation in Microsoft Teams admin center makes it easier
     to find what you
     need](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/updated-navigation-in-microsoft-teams-admin-center-makes-it/ba-p/2801281)
- {.video-embed-center .video-embed}
-:::
-:::
- 
-
-
 
 -   Register today for Hacktoberfest 2021 --
     <https://hacktoberfest.digitalocean.com>
@@ -100,8 +95,12 @@ place in chat throughout the call.
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
+
 {{< image alt="211005-together-mode.gif" src="images/blog/microsoft-365-platform-call-5th-of-october-2021/211005-together-mode.gif" >}}
-An absolutely packed house today.  Great seeing everyone.    
+
+An absolutely packed house today.  Great seeing everyone.
+
+
 **Demos** delivered in this session
 
 -   **Latest on Microsoft Graph Explorer** -- specifically focusing on 3
@@ -122,6 +121,7 @@ An absolutely packed house today.  Great seeing everyone.    
       Q&A -- tenant rollout, why homesite requirement.
 
 Thank you for your work. Samples are often showcased in Demos.
+
 **Topics** covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Sébastien
@@ -131,7 +131,7 @@ Thank you for your work. Samples are often showcased in Demos.
     Womack](http://twitter.com/kristen_womack) (Microsoft) \|
     \@kristen_womack & Vivian Adhiambo (Microsoft) --
     [10:35](https://youtu.be/4LFP1Zyerq4?t=635)
--   **Demo 2: ** Getting started on using Microsoft Viva Connections in
+-   **Demo 2:** Getting started on using Microsoft Viva Connections in
     your tenant -- [Tejas Mehta](http://twitter.com/tpmehta) (Microsoft)
     \| \@tpmehta -- [25:05](https://youtu.be/4LFP1Zyerq4?t=1505)
 
@@ -216,21 +216,22 @@ slides.
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls \| Recurrent Invites:**
 
--   **SharePoint Framework call --** October 7th at 7:00 am PDT
+-   **SharePoint Framework call** October 7th at 7:00 am PDT
     \| <https://aka.ms/spdev-spfx-call>
--   **Microsoft 365 platform call** **-- **October 12th at 8:00 am PDT
+-   **Microsoft 365 platform call** - October 12th at 8:00 am PDT
     \| <https://aka.ms/m365-dev-call>
--   **Office add-in monthly call -- **October 13th at 8:00 am PDT
+-   **Office add-in monthly call** - October 13th at 8:00 am PDT
     \| <https://aka.ms/officeaddinscall>
--   **M365 General Dev call -- **October 14th at 7:00 am PDT
+-   **M365 General Dev call** - October 14th at 7:00 am PDT
     \| <https://aka.ms/m365-dev-sig>
--   **Adaptive Cards monthly call -- **October 14th at 9:00 am PDT
+-   **Adaptive Cards monthly call** - October 14th at 9:00 am PDT
     \| <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- October 20th at 8:00 am PDT
+-   **Power Apps monthly call** - October 20th at 8:00 am PDT
     \| <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** October 21st at 9:00 am
+-   **Microsoft Identity Platform call** October 21st at 9:00 am
     PDT \| <https://aka.ms/IDDevCommunityCalendar>
 
 Microsoft 365 Platform community call focuses on latest Microsoft 365

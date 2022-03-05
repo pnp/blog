@@ -2,17 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 121"
 date: 2021-04-06T11:16:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-121/pnp-weekly-121-nik.png
 tags: []
 type: "regular"
-draft: false
-
----::: {#848-007-5 .ServiceNodeInfoHeader}
-:::
-
-
+---
 
 
 
@@ -637,35 +633,7 @@ Microsoft
 ::: MessageSubject
 ::: MessageSubjectIcons
 # [ [Microsoft 365 PnP Weekly - Episode 121](/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-121/ba-p/2255891){#link_6 .page-link .lia-link-navigation .lia-custom-event} ]{.lia-message-unread} {#microsoft-365-pnp-weekly---episode-121-1 .message-subject itemprop="name"}
-
-[]{#display_2 .lia-img-message-has-url .lia-fa-message .lia-fa-has
-.lia-fa-url .lia-fa title="Contains a hyperlink"
-alt="Message contains a hyperlink" aria-label="Contains a hyperlink"
-role="img"} []{#display_3 .lia-img-message-has-image .lia-fa-message
-.lia-fa-has .lia-fa-image .lia-fa title="Contains an image"
-alt="Message contains an image" aria-label="Contains an image"
-role="img"} []{#display_4 .lia-img-message-has-video .lia-fa-message
-.lia-fa-has .lia-fa-video .lia-fa title="Contains a video"
-alt="Message contains a video" aria-label="Contains a video" role="img"}
-:::
-:::
-:::
-
-::: {.lia-message-post-date .lia-component-post-date .lia-component-message-view-widget-post-date title="Posted on"}
-[ [‎Apr 06 2021]{.local-date} [11:16 AM]{.local-time} ]{.DateTime}
-:::
-
-::: {.lia-message-body-wrapper .lia-component-message-view-widget-body}
-::: {#bodyDisplay .lia-message-body itemprop="text"}
-::: lia-message-body-content
-{{< image alt="pnp-weekly-121-nik.png" src="images/blog/microsoft-365-pnp-weekly-episode-121/pnp-weekly-121-nik.png" >}}
-
- 
-
 In this installment of the weekly discussion revolving around the latest
-news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
-\@vesajuvonen, [Waldek
 Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
 joined by Canadian based Senior Program Manager from Microsoft Graph
 team [Nik Charlebois](https://twitter.com/NikCharlebois) \|
@@ -684,27 +652,15 @@ about [Microsoft 365 DSC](https://microsoft365dsc.com/) open-source work
 which Nik has been driving for a long time to be able to have desired
 state configuration for Microsoft 365 tenants.
 
- 
-
 They also covered 25 articles from last week published by Microsoft and
 Community.
 
- 
-
-
-
- 
-
 This episode was recorded on Tuesday, April 6, 2021.
-
- 
 
 -   Video at [Microsoft 365 Community YouTube
     channel.](https://aka.ms/m365pnp-videos)
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-
- 
 
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
@@ -715,26 +671,17 @@ and add the hashtag
 [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always
 on the lookout for refreshingly new content. "*Sharing is caring!"* 
 
- 
-
 Here are all the links and people mentioned in this recording. Thanks,
-everyone for your contributions to the community!\
-\
+everyone for your contributions to the community!
 
 **Events:**
-
- 
 
 -   April 14, 2021 - [Building Apps with Microsoft
     Graph](https://learntogether-graph.splashthat.com/)
 -   May 25-27, 2021- [Microsoft Build
     2021](https://mybuild.microsoft.com/)
 
- 
-
 **Microsoft articles:**
-
- 
 
 -   [Install Viva Connections
     today](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/install-viva-connections-today/ba-p/2245410) -
@@ -849,13 +796,9 @@ everyone for your contributions to the community!\
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
- 
-
 If you'd like to hear from a specific community member in an upcoming
 recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
 
- 
-
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

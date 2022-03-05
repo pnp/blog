@@ -2,13 +2,12 @@
 title: "Community sample: Engage your users with SharePoint stories/reels"
 date: 2021-05-05T01:10:00-04:00
 author: "Luis Mañez"
+githubname: luismanez
 categories: ["SharePoint"]
 images:
 - images/blog/community-sample-engage-your-users-with-sharepoint-stories-reels/6-component-did-mount.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 Would not be cool to engage your Modern Workplace users with content
@@ -38,7 +37,7 @@ its most simple way, the component just needs an array of images:
 But you can also specify an array of Story objects, where a Story can
 have the following properties:
 
-![Story object properties](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278339i4E26203F1F589390/image-size/large?v=v2&px=999")
+{{< image alt="Story object properties" src="images/blog/community-sample-engage-your-users-with-sharepoint-stories-reels/Story object properties.png" >}}
  
 Now that we know how to use the Stories component, the web part
 functionality is quite easy. We just need to get the Stories information
@@ -90,7 +89,7 @@ clicked in the Story. So, if the list item has the Content field filled,
 we set the "*seeMore*" property of the Story object. This property is
 again a function, so you can customize how the content is rendered.
  
-And that´s all!\... you can get the full code sample in the [PnP GitHub
+And that´s all!... you can get the full code sample in the [PnP GitHub
 repository](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-company-stories)
  
 Cheers!

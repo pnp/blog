@@ -2,11 +2,12 @@
 title: "Make a bot for simple interactions in Teams using a Webhook"
 date: 2022-01-18T05:05:00-05:00
 author: "Lee Ford"
+githubname: LeeFord
 categories: ["Microsoft Teams"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -100,7 +101,7 @@ construct of a bot behaviour needs to be as follows:
 
 1.  Authenticate request (using a token from Teams)
 2.  Get weather information from API
-3.  Send response to request. This **MUST** be a bot \"Activity\", with
+3.  Send response to request. This **MUST** be a bot "Activity", with
     an attached Adaptive Card otherwise Teams will not handle the
     response correctly
 

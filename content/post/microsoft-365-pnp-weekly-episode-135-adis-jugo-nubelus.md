@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 135 - Adis Jugo (Nubelus)"
 date: 2021-09-22T09:22:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-135-adis-jugo-nubelus/pnp-weekly-135.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 {{< image alt="pnp-weekly-135.png" src="images/blog/microsoft-365-pnp-weekly-episode-135-adis-jugo-nubelus/pnp-weekly-135.png" >}}
@@ -184,4 +185,4 @@ requests or questions.
 
  
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

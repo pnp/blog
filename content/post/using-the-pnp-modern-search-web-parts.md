@@ -2,12 +2,13 @@
 title: "Using the PnP Modern Search Web Parts"
 date: 2021-05-27T08:40:00-04:00
 author: "Will Holland"
+githubname: willholland
 categories: ["PnP Modern Search", "SharePoint"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -61,7 +62,7 @@ this blog to help get you up to speed.
 
 ## Configuring the Search Box web part 
 
-In keeping with the spirit of our \"Minimal Path to Awesome\" approach,
+In keeping with the spirit of our "Minimal Path to Awesome" approach,
 the Search Box web part will be the easiest to configure of the lot. We
 can just drop it on the page somewhere and be done.
 {{< image alt="4-search-box.png" src="images/blog/using-the-pnp-modern-search-web-parts/4-search-box.png" >}}
@@ -148,7 +149,7 @@ that opens a new page when clicked.
 Since we want our users to stay on the same page, we're not going to
 bother with hyperlinks, but we will go ahead and create verticals for
 the latest generation of platforms available in our dataset, as well as
-an \"All\" vertical.
+an "All" vertical.
 
 ### Search Verticals Summary 
 

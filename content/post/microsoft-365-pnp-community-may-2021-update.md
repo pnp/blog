@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Community -- May 2021 update"
 date: 2021-05-11T04:13:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-may-2021-update/may-pnp-summary-available.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -843,7 +844,7 @@ Platform sample gallery.
 ### Sharing is Caring initiative 
 {{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-may-2021-update/sharing-is-caring-promo-1024x576.png" >}}
 
-The \"Sharing Is Caring\" imitative is targeted for learning the basics
+The "Sharing Is Caring" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
 advantage of this instructor lead training for learning how to

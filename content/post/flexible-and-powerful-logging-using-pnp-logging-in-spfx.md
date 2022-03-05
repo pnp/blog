@@ -2,10 +2,11 @@
 title: "Flexible and powerful logging using PnP Logging in SPFx"
 date: 2021-08-17T05:15:00-04:00
 author: "Sudharsan Kesavanarayanan"
+githubname: sudharsank
 categories: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -2,23 +2,13 @@
 title: "Microsoft 365 PnP Community -- January 2022 update"
 date: 2022-01-17T09:24:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-january-2022-update/pnp-january-2022-update.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/pnp-community-model.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/VesaJuvonen_0-1629736432373.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/graph-toolkit.jpg
-- images/blog/microsoft-365-pnp-community-january-2022-update/community-dcos.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/spfx-gallery.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/teams-samples-promo.jpg
-- images/blog/microsoft-365-pnp-community-january-2022-update/power-platform-samples.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/script-gallery.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/independent-connectors.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/sharing-is-caring-promo-1024x576.png
-- images/blog/microsoft-365-pnp-community-january-2022-update/pnp-companies-january-2022.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -740,7 +730,7 @@ These are the latest connectors: 
 ### Sharing is Caring initiative 
 
 {{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/sharing-is-caring-promo-1024x576.png" >}}
-The \"Sharing Is Caring\" imitative is targeted for learning the basics
+The "Sharing Is Caring" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
 advantage of this instructor lead training for learning how to

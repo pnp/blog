@@ -2,12 +2,13 @@
 title: "Use Power Automate to automatically create SharePoint News Links from an RSS feed"
 date: 2021-04-15T08:40:00-04:00
 author: "Will Holland"
+githubname: willholland
 categories: ["Power Automate", "SharePoint"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -27,8 +28,8 @@ with ways to break down the information silo's we've just naturally
 accrued over the years.
 Fortunately, it turned out that our company blog already had an RSS feed
 setup, which opened up some opportunities, one of which was to create a
-flow in Power Automate that automatically creates a SharePoint \"News
-Link\" in our home site whenever a new blog post is published to our
+flow in Power Automate that automatically creates a SharePoint "News
+Link" in our home site whenever a new blog post is published to our
 public site.
 So, with this blog, we'll walk through the steps used to accomplish
 that feat.

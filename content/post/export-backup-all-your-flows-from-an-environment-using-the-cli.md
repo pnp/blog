@@ -2,10 +2,11 @@
 title: "Export/Backup all your flows from an environment using the CLI for Microsoft 365"
 date: 2021-11-08T04:16:00-05:00
 author: "Patrick Lamber"
+githubname: plamber
 categories: ["CLI For Microsoft 365"]
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -2,12 +2,13 @@
 title: "Init API permissions for your SPFx projects without deploying them"
 date: 2021-03-10T01:34:00-05:00
 author: "Michaël Maillot"
+githubname: michaelmaillot
 categories: ["SharePoint"]
 images:
 - images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-fail.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -143,8 +144,8 @@ When using a custom API, it's a little bit more tricky but easy to
 handle anyway.
 You can follow [this Microsoft
 article](https://docs.microsoft.com/fr-fr/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi) until
-the \"[Deploy the
-solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi#deploy-the-solution-to-the-sharepoint-app-catalog)\"
+the "[Deploy the
+solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi#deploy-the-solution-to-the-sharepoint-app-catalog)"
 part.
 Instead of bundling and shipping, we'll add the AAD App
 (called *contoso-api-dp20200915* if we follow the mentioned article)

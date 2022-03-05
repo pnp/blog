@@ -2,12 +2,14 @@
 title: "Office Add-in Development Community (PnP) -- July 2021 update"
 date: 2021-07-22T01:24:00-04:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-in-development-community-pnp-july-2021-update/pnp-outlook-tag-external.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -29,7 +31,7 @@ This sample uses event-based activation to run an Outlook add-in when
 the user creates a new message or appointment. The add-in can respond to
 events, even when the task pane is not open. It registers for the
 OnMessageRecipientsChanged event. If the message has external
-recipients, the add-in prepends \"\[External\]\" to the message subject.
+recipients, the add-in prepends "\[External\]" to the message subject.
 When the user sends an email message that includes external recipients,
 the add-in appends a disclaimer to the message.
 

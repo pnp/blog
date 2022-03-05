@@ -2,14 +2,14 @@
 title: "Add Developer PowerShell and Developer Command Prompt for Visual Studio to Windows Terminal"
 date: 2021-03-29T01:29:00-04:00
 author: "Yannick Reekmans"
+githubname: YannickRe
 categories: ["Tooling"]
 images:
 - images/blog/add-developer-powershell-and-developer-command-prompt-for-visual/image.png
-- images/blog/add-developer-powershell-and-developer-command-prompt-for-visual/image-1.png
-- images/blog/add-developer-powershell-and-developer-command-prompt-for-visual/image-2.png
+
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -39,12 +39,12 @@ snippet:
 ```json
             {
                 "name": "Developer PowerShell for VS 2019",
-                "commandline": "powershell.exe -noe -c \"&{$vsPath = &(Join-Path ${env:ProgramFiles(x86)} '\\Microsoft Visual Studio\\Installer\\vswhere.exe') -property installationpath; Import-Module (Join-Path $vsPath 'Common7\\Tools\\Microsoft.VisualStudio.DevShell.dll'); Enter-VsDevShell -VsInstallPath $vsPath -SkipAutomaticLocation}\"",
+                "commandline": "powershell.exe -noe -c "&{$vsPath = &(Join-Path ${env:ProgramFiles(x86)} '\\Microsoft Visual Studio\\Installer\\vswhere.exe') -property installationpath; Import-Module (Join-Path $vsPath 'Common7\\Tools\\Microsoft.VisualStudio.DevShell.dll'); Enter-VsDevShell -VsInstallPath $vsPath -SkipAutomaticLocation}"",
                 "icon": "%ProgramFiles(x86)%\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\IDE\\Assets\\VisualStudio.70x70.contrast-standard_scale-180.png"
             },
             {
                 "name": "Developer Command Prompt for VS 2019",
-                "commandline": "%comspec%  /k \"%ProgramFiles(x86)%\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\Tools\\VsDevCmd.bat\"",
+                "commandline": "%comspec%  /k "%ProgramFiles(x86)%\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\Tools\\VsDevCmd.bat"",
                 "icon": "%ProgramFiles(x86)%\\Microsoft Visual Studio\\2019\\Enterprise\\Common7\\IDE\\Assets\\VisualStudio.70x70.contrast-standard_scale-180.png"
             },
 ```

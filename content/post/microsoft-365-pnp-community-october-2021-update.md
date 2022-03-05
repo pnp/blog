@@ -2,21 +2,13 @@
 title: "Microsoft 365 PnP Community -- October 2021 update"
 date: 2021-10-22T06:00:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png
-- images/blog/microsoft-365-pnp-community-october-2021-update/pnp-community-model.png
-- images/blog/microsoft-365-pnp-community-october-2021-update/VesaJuvonen_0-1629736432373.png
-- images/blog/microsoft-365-pnp-community-october-2021-update/graph-toolkit.jpg
-- images/blog/microsoft-365-pnp-community-october-2021-update/community-dcos.png
-- images/blog/microsoft-365-pnp-community-october-2021-update/spfx-gallery.png
-- images/blog/microsoft-365-pnp-community-october-2021-update/teams-samples-promo.jpg
-- images/blog/microsoft-365-pnp-community-october-2021-update/script-gallery.png
-- images/blog/microsoft-365-pnp-community-october-2021-update/sharing-is-caring-promo-1024x576.png
-- images/blog/microsoft-365-pnp-community-october-2021-update/pnp-aug-companies.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 {{< image alt="oct-monthly-summary-promo.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png" >}}
@@ -934,7 +926,7 @@ get started on getting more closely involved on this initiative. 
 -   Microsoft 365 Script Samples - <https://aka.ms/script-samples>
 ### Sharing is Caring initiative 
 {{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/sharing-is-caring-promo-1024x576.png" >}}
-The \"Sharing Is Caring\" imitative is targeted for learning the basics
+The "Sharing Is Caring" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
 advantage of this instructor lead training for learning how to

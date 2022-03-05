@@ -2,10 +2,11 @@
 title: "CLI for Microsoft 365 v3.7"
 date: 2021-03-17T12:22:00-04:00
 author: "Waldek Mastykarz"
+githubname: WaldekMastykarz
 categories: ["CLI for Microsoft 365"]
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

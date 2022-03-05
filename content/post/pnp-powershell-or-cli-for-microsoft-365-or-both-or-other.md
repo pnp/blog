@@ -6,17 +6,19 @@ images:
   - "images/blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/post-thumb.png"
 #author
 author: "Adam Wójcik"
+githubname: Adam-it
 # description
 description: "During my SP consultant/dev work I most of the times used the last two. From time to time I got the question: which one is better?"
 summary: "During my SP consultant/dev work I most of the times used the last two. From time to time I got the question: which one is better?"
 # Taxonomies
 categories: ["CLI for Microsoft 365","PnP PowerShell"]
-tags: ["CLI for Microsoft","PnP PowerShell"]
+tags: []
 type: "epic" # available type (epic, trending, popular, or regular)
-draft: false
+
 ---
 
 ## The intro (what's up)
+
 There are many ways we may manage Microsoft 365. To name a few we may
 use [Microsoft Graph PowerShell
 SDK](https://docs.microsoft.com/en-us/graph/powershell/get-started) or
@@ -126,9 +128,9 @@ written in javascript and mainly uses MS Graph and standard Web API
 (like SharePoint Rest API). Please check the [contribute wiki page to
 get you started](https://github.com/pnp/cli-microsoft365/wiki)
 BTW did you know there are also ready to use CLI for Microsoft 365
-GitHub actions you may use for you CI/CD workflows. Ever had this \"ye
+GitHub actions you may use for you CI/CD workflows. Ever had this "ye
 and when we push on the master branch it would be nice if the webpart
-would be build and pushed to a test/QA tenant\". If yes then you have to
+would be build and pushed to a test/QA tenant". If yes then you have to
 see this [GitHub Actions - CLI for Microsoft 365
 pnp.github.io](https://pnp.github.io/cli-microsoft365/concepts/github-actions/)
 ## When? What? Why?

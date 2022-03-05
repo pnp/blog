@@ -2,19 +2,17 @@
 title: "Microsoft Graph Fundamentals learning path -- Module 1"
 date: 2021-04-01T03:06:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Microsoft Graph"]
 images:
 - images/blog/microsoft-graph-fundamentals-learning-path-module-1/GraphFun.png
 tags: []
 type: "regular"
-draft: false
 
 ---
 
 
-
 {{< image alt="GraphFun.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-1/GraphFun.png" >}}
-
 
 This blog post will summarize how I did the brand new [Microsoft Graph
 Fundamentals Learning
@@ -137,8 +135,7 @@ This chapter teaches you how to modify permissions in Graph explorer and
 how tips help you.
 
 You will learn how to send a message to Teams via Graph - this is not a
-test; it will really appear in Teams. 
-
+test; it will really appear in Teams.
 
 Let us 1'up this already fantastic experience. Besides using this
 beautiful UI, Graph Explorer provides you with:

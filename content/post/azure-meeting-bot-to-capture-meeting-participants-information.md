@@ -2,30 +2,13 @@
 title: "Azure Meeting Bot To Capture Meeting Participants Information"
 date: 2021-09-13T02:43:00-04:00
 author: "Siddharth Vaghasia"
+githubname: siddharth-vaghasia
 categories: ["Microsoft Teams", "Power Automate", "Azure"]
 images:
 - images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_0-1630435722443.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_1-1630435722896.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_2-1630435722887.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_3-1630435722444.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_4-1630435722736.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_5-1630435722747.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_6-1630435722897.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_7-1630435837476.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_8-1630435837628.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_9-1630435867496.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_10-1630435867800.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_11-1630435867960.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_12-1630435910359.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_13-1630435910363.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_14-1630435910364.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_15-1630435910363.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_16-1630435933837.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_17-1630435933853.png
-- images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_18-1630435934427.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -126,8 +109,8 @@ MicrosoftAppId in Application settings.
 
 {{< image alt="SiddharthVaghasia_8-1630435837628.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_8-1630435837628.png" >}}
 
-Please make sure you select yes to the question \"Do you want to include
-bot calling support?\"
+Please make sure you select yes to the question "Do you want to include
+bot calling support?"
 
 ## Step - Modify Code to log request object in the console
 
@@ -271,7 +254,7 @@ All other attributes values, we have to extract from Teams meeting URL
 
 If you decode this url we will get human readable url like below.
 
-*[https://teams.microsoft.com/l/meetup-join/19:meeting_NzI0NTkwMDUtY2FjMy00YjJmLThjOGEtMzg0ZDNhMzNmNDF\...](https://teams.microsoft.com/l/meetup-join/19:meeting_NzI0NTkwMDUtY2FjMy00YjJmLThjOGEtMzg0ZDNhMzNmNDFi@thread.v2/0?context=){\"Tid\":\"5bac9eb0-1e6b-463d-8dbb-6ba2477914b9\",\"Oid\":\"cd15fc37-4694-4f34-811f-965ca5cc586a\"}*
+*[https://teams.microsoft.com/l/meetup-join/19:meeting_NzI0NTkwMDUtY2FjMy00YjJmLThjOGEtMzg0ZDNhMzNmNDF\...](https://teams.microsoft.com/l/meetup-join/19:meeting_NzI0NTkwMDUtY2FjMy00YjJmLThjOGEtMzg0ZDNhMzNmNDFi@thread.v2/0?context=){"Tid":"5bac9eb0-1e6b-463d-8dbb-6ba2477914b9","Oid":"cd15fc37-4694-4f34-811f-965ca5cc586a"}*
 
 **ThreadId** - Marked in orange in the above URL is our ThreadId, this
 is a unique meeting Id that is generated for every meeting.
@@ -316,7 +299,7 @@ gulp ngrok-serve
 
 Once it runs successfully, it will create a temporary ngrok domain URL
 which we have to use in the Power Automate variable
-\"CallingAPIEndPointURL\".
+"CallingAPIEndPointURL".
 
 {{< image alt="SiddharthVaghasia_16-1630435933837.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_16-1630435933837.png" >}}
 
@@ -345,8 +328,8 @@ is documented in the URL
 
 Below are some notes based on my experience.
 
--   The first response we will receive with the state \"establishing\"
--   the second response we will receive with state \"established\",
+-   The first response we will receive with the state "establishing"
+-   the second response we will receive with state "established",
     which means the bot is added to Meeting.
 -   Now on every event which will occur in teams meeting like for e.g.,
     participants join, left, someone mutes/unmutes themselves, etc\...

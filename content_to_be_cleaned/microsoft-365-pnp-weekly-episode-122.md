@@ -2,16 +2,15 @@
 title: "Microsoft 365 PnP Weekly - Episode 122"
 date: 2021-04-13T04:16:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-122/Thumb-Ep122.png
 tags: []
 type: "regular"
-draft: false
 
----::: {#7B0-003-5 .ServiceNodeInfoHeader}
-:::
 
+---
 
 
 
@@ -660,8 +659,6 @@ alt="Message contains a video" aria-label="Contains a video" role="img"}
 ::: lia-message-body-content
 {{< image alt="Thumb-Ep122.png" src="images/blog/microsoft-365-pnp-weekly-episode-122/Thumb-Ep122.png" >}}}
 
- 
-
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
@@ -670,8 +667,6 @@ Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
 joined by a Partner at the US-based consultancy PAIT Group and Microsoft
 365 MVP [Mark Rackley](http://twitter.com/mrackley) \| \@mrackley. 
 
- 
-
 Topics discussed in this session include:   Hillbilly tabs, North
 American Collaboration Summit, how the transition from on-Prem to Cloud
 along with a talented PnP community has impacted the need to customize
@@ -679,11 +674,7 @@ applications.  Hiring based on who's available, managing the pace of
 change and customer expectations, deployment planning, and the business
 unit customer's interest in Microsoft Viva experience.
 
- 
-
 Covering also 20 articles from Microsoft and the Community.
-
-
 
 This episode was recorded on Monday, April 12, 2021.
 
@@ -694,8 +685,6 @@ This episode was recorded on Monday, April 12, 2021.
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
- 
-
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
 video and podcast series and also do let us know if you have done
@@ -705,15 +694,11 @@ and add the hashtag
 [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always
 on the lookout for refreshingly new content. "*Sharing is caring!"* 
 
- 
-
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!\
 \
 
 **Events:**
-
- 
 
 -   April 14, 2021 - [Building Apps with Microsoft
     Graph](https://learntogether-graph.splashthat.com/)
@@ -721,14 +706,10 @@ everyone for your contributions to the community!\
     2021](https://mybuild.microsoft.com/)
 -   August 9-11, 2021 - [North American Collaboration
     Summit](https://www.collabsummit.org/)
-    -   Register with coupon code \"PnP\" for 25% off from the prize at
+    -   Register with coupon code "PnP" for 25% off from the prize at
         <https://nacs.ticketspice.com/nacs2021>
 
- 
-
 **Microsoft articles:**
-
- 
 
 -   [Microsoft Teams Rooms on Android \| April 2021
     Updates](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-rooms-on-android-april-2021-updates/ba-p/2259772) -
@@ -740,11 +721,7 @@ everyone for your contributions to the community!\
     1](https://developer.microsoft.com/en-us/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-1/)
     - Microsoft
 
- 
-
 **Community articles:**
-
- 
 
 -   [Introduction to
     tokens](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-tokens/ba-p/2267853) -
@@ -811,11 +788,7 @@ everyone for your contributions to the community!\
     [Darrell Webster](https://twitter.com/DarrellaaS) (WM Reply)
     \| \@DarrellaaS
 
- 
-
 **Additional resources:**
-
- 
 
 -   [PnP Sharing is Caring
     initiative](https://aka.ms/sharing-is-caring) - Getting started
@@ -834,6 +807,5 @@ recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
 
- 
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

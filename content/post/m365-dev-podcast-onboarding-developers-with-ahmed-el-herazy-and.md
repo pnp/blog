@@ -2,11 +2,12 @@
 title: "M365 Dev Podcast - Onboarding Developers with Ahmed El Herazy and Wes Hackett"
 date: 2021-12-13T07:02:00-05:00
 author: "Paul Schaeflein"
+githubname: pschaeflein
 categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

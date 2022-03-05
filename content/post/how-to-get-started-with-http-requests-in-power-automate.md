@@ -2,18 +2,13 @@
 title: "How to get started with HTTP requests in Power Automate"
 date: 2021-02-11T09:16:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Automate", "Microsoft Graph"]
 images:
 - images/blog/how-to-get-started-with-http-requests-in-power-automate/explorer.jpg
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/manually-trigger.png
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/methods.png
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/methods.png
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/http-without-auth.png
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/flow-total.png
-- images/blog/how-to-get-started-with-http-requests-in-power-automate/channel-with-tab.png
 tags: []
-type: "regular"
-draft: false
+type: "epic"
+
 
 ---
 
@@ -117,8 +112,8 @@ We will now add actions to create the team and then we add a condition:
 If user wants learning material, we want create a channel
 called **Learning** and want to pin a website to it.
 
-Unfortunately, there is no action \"pin a website to a channel in
-Teams\" in Power Automate. Fortunately, we can still do this by making
+Unfortunately, there is no action "pin a website to a channel in
+Teams" in Power Automate. Fortunately, we can still do this by making
 an HTTP request towards Microsoft Graph. This is why I added the HTTP
 action into the flow:
 
@@ -191,7 +186,7 @@ we will see that we should do this:
 `POST https://graph.microsoft.com/v1.0/teams/{team-id}/channels/{channel-id}/tabs`
 
 ```
-{ "displayNam\": "M365Princess Blog\",
+{ "displayNam": "M365Princess Blog",
 "teamsApp@odata.bind" :"https://graph.microsoft.com/v1.0/appCatalogs/teamsApps/com.microsoft.teamspace.tab.web",
 "configuration":
  {"contentUrl": "https://m365princess.com",
@@ -207,7 +202,7 @@ Some remarks on that:
     content
 -   Choose a `displayName` for the Tab as you wish
 -   `"teamsApp@odata.bind"` is
-    \"<https://graph.microsoft.com/v1.0/appCatalogs/teamsApps/com.microsoft.teamspace.tab.web>\"
+    "<https://graph.microsoft.com/v1.0/appCatalogs/teamsApps/com.microsoft.teamspace.tab.web>"
 -   Both `websiteUrl` and `contentUrl` are the full URL of the website
     you want to pin including `https://`. If your website is
     only `http://` you can't use that inside of Teams.

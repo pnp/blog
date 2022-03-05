@@ -2,28 +2,13 @@
 title: "How to build an FAQ bot for Microsoft Teams with Power Virtual Agents"
 date: 2021-02-25T11:51:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Virtual Agents"]
 images:
 - images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/walle.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/pva-teams.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/add-pva.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/pva-create.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/pva-create2.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/my-chatsbots.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/topics.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/suggested.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/getfaq.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/success.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/edit-topics.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/turn-on.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/end-connversation.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/publish.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/add.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/publish-bot.png
-- images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/chat.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 # {{< image alt="walle.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/walle.png" >}}

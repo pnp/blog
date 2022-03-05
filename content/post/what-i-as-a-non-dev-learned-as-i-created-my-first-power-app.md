@@ -1,16 +1,15 @@
 ---
-title: What I (as a non dev) learned as I created my first Power App.
+title: What I (as a non dev) learned as I created my first Power App
 date: 2021-04-25T13:00:00.000Z
 images:
    - /images/blog/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/header_pic_power_apps.png
 author: Michael Roth
+githubname: MichaelRoth42
 description: I like to share my very own experiences while building my first canvas app. I have no tech background and at the beginning I thought that I could never do it.
 categories:
-   - Power Apps
-tags:
-   - non-dev
+   - ["Power Apps"]
 type: regular
-draft: false
+
 ---
 
 

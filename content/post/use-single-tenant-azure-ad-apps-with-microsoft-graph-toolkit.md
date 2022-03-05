@@ -2,12 +2,13 @@
 title: "Use single-tenant Azure AD apps with Microsoft Graph Toolkit"
 date: 2021-08-08T08:40:00-04:00
 author: "Waldek Mastykarz"
+githubname: WaldekMastykarz
 categories: ["Microsoft Graph Toolkit"]
 images:
-
+- images/blog/use-single-tenant-azure-ad-apps-with-microsoft-graph-toolkit/banner-mgt-login-single-tenant-azure-ad.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -87,11 +88,9 @@ your browser and take a look at requests, you will see a GET request to
 `https://login.microsoftonline.com/common/reprocess` followed by a 302
 response with the error message in the query string:
 
-
-``` highlight
+```
 http://localhost:3000/#error=invalid_request&error_description=AADSTS50194%3a+Application+%27ab9533b2-4e1e-4aaf-8412-8f02cfb9484c%27(My+M365+app)+is+not+configured+as+a+multi-tenant+application.+Usage+of+the+%2fcommon+endpoint+is+not+supported+for+such+applications+created+after+%2710%2f15%2f2018%27.+Use+a+tenant-specific+endpoint+or+configure+the+application+to+be+multi-tenant.%0d%0aTrace+ID%3a+79cfbca0-d484-461e-9d56-f3a4b4a30f00%0d%0aCorrelation+ID%3a+ffbed0df-da84-4076-a52b-9d3037c28ff9%0d%0aTimestamp%3a+2021-01-04+12%3a10%3a38Z&state=eyJpZCI6ImQyNGZjY2YxLTk2OTk...
 ```
-
 
 For readability, here is the exact error message:
 
@@ -113,7 +112,6 @@ Providers.globalProvider = new MsalProvider({
   authority: 'https://login.microsoftonline.com/f7322380-f203-42ff-93e8-66e266f6d2e4'
 });
 ```
-
 
 The GUID in the `authority` (`f7322380-f203-42ff-93e8-66e266f6d2e4`), is
 the ID of the Azure Active Directory where you have registered your

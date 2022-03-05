@@ -2,12 +2,13 @@
 title: "How to use a custom connector in Power Automate"
 date: 2021-02-23T01:25:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Automate"]
 images:
 - images/blog/how-to-use-a-custom-connector-in-power-automate/tweet.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -165,7 +166,7 @@ Now we want to get the current song from our shiny new Custom connector:
 -   Select on Custom
 
 -   Select the new custom connector for Spotify
-    Our intention now is to tweet something like \"I am currently
+    Our intention now is to tweet something like "I am currently
     listenintg to {songname} by {artistname}, check it out {spotify
     URL}.\" But from our custom connector, we don't get the name of
     song and artist per se, we will need to first parse the JSON output.

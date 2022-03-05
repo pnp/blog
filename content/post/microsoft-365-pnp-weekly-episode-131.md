@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 131"
 date: 2021-06-15T02:43:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: []
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-131/Thumb-Ep131.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

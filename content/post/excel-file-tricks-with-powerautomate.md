@@ -1,27 +1,13 @@
 ---
 title: "Excel File Tricks with PowerAutomate"
 date: 2021-08-04T11:06:00-04:00
-author: "Damo Bird 365"
+author: "Damien Bird"
+githubname: DamoBird365
 categories: ["Power Automate"]
 images:
 - images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628093847880.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_1-1628094142942.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_3-1628094699559.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_2-1628094676818.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_4-1628094930996.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628095727802.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_1-1628095823450.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_2-1628096048590.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_4-1628096378139.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_3-1628096174072.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_5-1628096964541.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_6-1628097127838.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_7-1628097240857.png
-- images/blog/excel-file-tricks-with-powerautomate/DamoBird365_8-1628097338222.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 
@@ -44,7 +30,7 @@ identify the number of worksheets in a workbook and delete the sheets
 that are no longer required.  I've written two basic scripts to do the
 following:
  
-1\. \"GetSheetNames\": retrieve a list of sheets and returns an array to
+1\. "GetSheetNames": retrieve a list of sheets and returns an array to
 PowerAutomate and;
  
  
@@ -59,7 +45,7 @@ function main(workbook: ExcelScript.Workbook) {
 ```
  
  
-2\. \"DeleteSheets\": delete the sheets from a workbook based on an
+2\. "DeleteSheets": delete the sheets from a workbook based on an
 array input, returning the number of sheets in the workbook (hopefully
 1!)
  
@@ -99,13 +85,13 @@ then get the file content of the original file.
 {{< image alt="DamoBird365_0-1628093847880.png" src="images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628093847880.png" >}}
  
 Then in an apply to each, we use the results array from the
-\"GetSheetNames\" office script, and iterate through each item using a
+"GetSheetNames" office script, and iterate through each item using a
 filter array to return an array of all but the current sheet name (i.e.
-where item() is not equal to items('Apply_to_each') or \"Current
-Item\").  If we have an array of five sheets, the filter will return
+where item() is not equal to items('Apply_to_each') or "Current
+Item").  If we have an array of five sheets, the filter will return
 four sheets.  Then we can create a copy of the original file using the
-file content and a prefix of \"Current Item\".  Finally calling the
-\"Delete Sheets\" Office Script using the dynamic Id of the Create File
+file content and a prefix of "Current Item".  Finally calling the
+"Delete Sheets" Office Script using the dynamic Id of the Create File
 Action, based on the result of the filter array.  
  
 {{< image alt="DamoBird365_1-1628094142942.png" src="images/blog/excel-file-tricks-with-powerautomate/DamoBird365_1-1628094142942.png" >}}
@@ -121,7 +107,7 @@ Here we see the individual workbooks on OneDrive, prefixed with the
 sheet name:
  
 {{< image alt="DamoBird365_2-1628094676818.png" src="images/blog/excel-file-tricks-with-powerautomate/DamoBird365_2-1628094676818.png" >}}
-Now we have a single workbook with a unique sheet, called \"ATable\":
+Now we have a single workbook with a unique sheet, called "ATable":
  
 {{< image alt="DamoBird365_4-1628094930996.png" src="images/blog/excel-file-tricks-with-powerautomate/DamoBird365_4-1628094930996.png" >}}
  
@@ -139,7 +125,7 @@ Watch the full build and demonstration here:
 Natively, PowerAutomate doesn't allow you to create a new Excel file. 
 By creating an empty Excel file on SharePoint and using the get file
 content action, it's possible to save the JSON output to a compose and
-re-use the empty template file when using the \"create file\" action.
+re-use the empty template file when using the "create file" action.
  
 {{< image alt="DamoBird365_0-1628095727802.png" src="images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628095727802.png" >}}
 A compose action with the File Content copied into it.  
@@ -169,8 +155,8 @@ copy of:
  
  
 Then using an apply to each and the compose array as an input we can add
-rows to the table and construct the row input array for our \"add a
-row\" action with keys / name pairs based on the column headers from the
+rows to the table and construct the row input array for our "add a
+row" action with keys / name pairs based on the column headers from the
 create table action. 
  
  

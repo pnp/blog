@@ -2,12 +2,13 @@
 title: "Office Add-ins community call -- March 10, 2021"
 date: 2021-03-15T01:52:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-march-10-2021/M365ScuccessJourney.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

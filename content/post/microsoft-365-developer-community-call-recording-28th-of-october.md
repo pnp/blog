@@ -2,13 +2,13 @@
 title: "Microsoft 365 Developer Community Call recording -- 28th of October, 2021"
 date: 2021-10-29T05:40:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-28th-of-october/recording-28th-oct.png
-- images/blog/microsoft-365-developer-community-call-recording-28th-of-october/211028-together-mode.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

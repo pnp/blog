@@ -2,13 +2,13 @@
 title: "Microsoft 365 Developer Community Call recording -- 18th of March, 2021"
 date: 2021-03-19T01:49:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-18th-of-march/sig-18th-march-recording.png
-- images/blog/microsoft-365-developer-community-call-recording-18th-of-march/CmtyPhoto.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -83,7 +83,7 @@ call.
     from Teams tabs using
     SSO](https://blog.mastykarz.nl/securely-connect-microsoft-graph-teams-tabs-sso/)
 {{< image alt="CmtyPhoto.png" src="images/blog/microsoft-365-developer-community-call-recording-18th-of-march/CmtyPhoto.png" >}}
-**\"Hello Community\"     **
+**"Hello Community"     **
 **Demos** delivered in this session
 
 -   **Accessing comment information in list formatting and advance form

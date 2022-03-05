@@ -2,13 +2,13 @@
 title: "How 3 makers, 2 devs and a princess came together to save kittens for a hackathon"
 date: 2021-10-23T08:53:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Apps", "Power Automate"]
 images:
 - images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/solution-overview.png
-
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -199,7 +199,7 @@ it's \"Run after\" settings configured to only be executed if previous
 actions fails, times out or is skipped.
 
 
-Process in the \"Catch\" scope first filters (3) results of the \"Try\"
+Process in the "Catch" scope first filters (3) results of the "Try"
 scope, using the expression `result('Try')` to leave only those entries
 which contain information about errors:
 `@equals(createArray('Failed', 'TimedOut'), '')`. Next for each such
@@ -246,9 +246,9 @@ mapping:
 
   ------------------- ------------- -------------
   Last Known Status   Color         Color name
-  Petrol              \"#66FF00\"   Light Green
-  No petrol           \"#FF0000\"   Red
-  Issue               \"#FFBF00\"   Amber
+  Petrol              "#66FF00"   Light Green
+  No petrol           "#FF0000"   Red
+  Issue               "#FFBF00"   Amber
   ------------------- ------------- -------------
 
 
@@ -295,7 +295,7 @@ deemed nearer).
 
 To work around this, we created an Azure Maps resource in Azure. Azure
 Maps can return a list of addresses within a certain radius that fit a
-particular \"POI (point of interest) category\" - in this case a petrol
+particular "POI (point of interest) category" - in this case a petrol
 station. Using the `subscription-key` (API key) from the Azure Maps
 resource, we were able to create a custom connector in Power Automate
 and query for the nearest petrol stations to the longitude and latitude

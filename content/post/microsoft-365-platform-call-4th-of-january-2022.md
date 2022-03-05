@@ -2,13 +2,13 @@
 title: "Microsoft 365 Platform Call -- 4th of January, 2022"
 date: 2022-01-05T05:02:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-4th-of-january-2022/recording-4th-january.png
-- images/blog/microsoft-365-platform-call-4th-of-january-2022/220104-together-mode.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

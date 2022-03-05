@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 130"
 date: 2021-06-08T01:18:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-130/Thumb-Ep130.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---# [ [Microsoft 365 PnP Weekly - Episode 13
 
@@ -142,4 +143,4 @@ recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

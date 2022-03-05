@@ -2,17 +2,17 @@
 title: "Simple reminders for any Teams Channel or Chat message"
 date: 2021-05-06T01:55:00-04:00
 author: "Hubert Lam"
+githubname: z3019494
 categories: ["Microsoft Teams", "Adaptive Cards"]
 images:
 - images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620122926624.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
-![Forgetting to take action on a message, or where that message
-was?](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278425iB9EB083D2909DA44/image-size/medium?v=v2&px=400 "luis-villasmil-mlVbMbxfWI4-unsplash.jpg")
+{{< image alt="Forgetting to take action on a message, or where that message was?" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" >}}
 
 Forgetting to take action on a message, or
 where that message was?
@@ -29,7 +29,7 @@ functionality, it's easy to forget:
 
 {{< image alt="Flags in Outlook have been the bridge to emails and task management" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/Outlook Flags.png" >}}
  
-In Outlook, there are \"flags\" which can be set to remind yourself to
+In Outlook, there are "flags" which can be set to remind yourself to
 take action for a particular email.
 However, this functionality is missing from Teams. Even if you are a
 well seasoned **ToDo** and **Planner** user, you would still have to use
@@ -499,7 +499,7 @@ reminded:**
     so, set the **HoursToDelay** variable to a \"0\" or simply use the
     hours inputted.
 -   Check whether the **Minutes** entered is blank or not. If so, set
-    the **MinutesToDelay** variable to a \"0\" or simply use the hours
+    the **MinutesToDelay** variable to a "0" or simply use the hours
     inputted.
 
 {{< image alt="z3019494_1-1620123840984.png" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620123840984.png" >}}
@@ -541,7 +541,7 @@ A lot more string processing is required!
     date**
 
 7.  Then do some final checks for whether the number of seconds falls on
-    \"0\" by
+    "0" by
     1.  Converting the ticks into minutes/seconds (**Compose - ticks to
         seconds**)\
         \
@@ -552,7 +552,7 @@ A lot more string processing is required!
 
     2.  Checking whether there's remnant seconds (by looking for
         modulo 60) in **Compose** **- modulo seconds** action. If the
-        number of seconds to delay by, falls on \"0\" then just add 1
+        number of seconds to delay by, falls on "0" then just add 1
         more second to it in case the user enters a time which is just
         less than 1 minute as the **div** formula will only work with
         integers. \

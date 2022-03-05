@@ -2,13 +2,12 @@
 title: "Community Sample: News Ticker app (SPFx Extensions)"
 date: 2021-05-10T07:21:00-04:00
 author: "Ari Gunawan"
+githubname: AriGunawan
 categories: ["SharePoint"]
 images:
 - images/blog/community-sample-news-ticker-app-spfx-extensions/react-application-news-ticker.gif
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 You might be familiar with the running text that shows some breaking

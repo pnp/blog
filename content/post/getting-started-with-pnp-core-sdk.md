@@ -2,10 +2,11 @@
 title: "Getting started with PnP Core SDK"
 date: 2021-03-15T01:55:00-04:00
 author: "Paul Bullock"
+githubname: pkbullock
 categories: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -246,9 +247,9 @@ namespace GettingStartedConsoleApp
 
                     // Adding text control to the first section, first column
                     // Check out for more detail https://pnp.github.io/pnpcore/using-the-sdk/pages-webparts.html#working-with-text-parts
-                    page.AddControl(page.NewTextPart("<p style=\"text-align:center\">" +
-                                                        "<span class=\"fontSizeSuper\">" +
-                                                            "<span class=\"fontColorRed\">" +
+                    page.AddControl(page.NewTextPart("<p style="text-align:center">" +
+                                                        "<span class="fontSizeSuper">" +
+                                                            "<span class="fontColorRed">" +
                                                                 "<strong>PnP Core SDK Rocks!</strong>" +
                                                             "</span>" +
                                                         "</span>" +
@@ -368,9 +369,9 @@ page.AddSection(CanvasSectionTemplate.OneColumn, 1);
 
 // Adding text control to the first section, first column
 // Check out for more detail https://pnp.github.io/pnpcore/using-the-sdk/pages-webparts.html#working-with-text-parts
-page.AddControl(page.NewTextPart("<p style=\"text-align:center\">" +
-                                   "<span class=\"fontSizeSuper\">" +
-                                      "<span class=\"fontColorRed\">" +
+page.AddControl(page.NewTextPart("<p style="text-align:center">" +
+                                   "<span class="fontSizeSuper">" +
+                                      "<span class="fontColorRed">" +
                                          "<strong>PnP Core SDK Rocks!</strong>" +
                                       "</span>" +
                                    "</span>" +
@@ -403,8 +404,7 @@ configuring the header, publishing and promoting pages and multi-lingual
 support.
 Once written, Hit F5, log in and see the result:
 
-![Resulting page creation by the console
-app](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263431i8319DE59D6A25B6E/image-size/large?v=v2&px=999 "result.png")
+{{< image alt="Resulting page creation by the console app" src="images/blog/getting-started-with-pnp-core-sdk/result.png" >}}
 
 ## What's Next 
 

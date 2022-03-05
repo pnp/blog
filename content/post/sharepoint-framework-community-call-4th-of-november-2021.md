@@ -2,13 +2,13 @@
 title: "SharePoint Framework Community Call -- 4th of November, 2021"
 date: 2021-11-05T03:52:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-4th-of-november-2021/recording-4th-november.png
-- images/blog/sharepoint-framework-community-call-4th-of-november-2021/211104-together-mode.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -287,7 +287,7 @@ slides.
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
 
--   Blog: \"[A Lap Around Microsoft Graph Toolkit\" blog
+-   Blog: "[A Lap Around Microsoft Graph Toolkit" blog
     series](https://aka.ms/mgtLap)
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new

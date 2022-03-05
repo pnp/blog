@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 117"
 date: 2021-03-08T11:46:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-117/pnp-weekly-117.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -155,4 +156,4 @@ or visitors -- please let us know. We will do our best to address your
 requests or questions.
 
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

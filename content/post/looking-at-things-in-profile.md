@@ -2,12 +2,13 @@
 title: "Looking at things in profile"
 date: 2021-09-29T08:40:00-04:00
 author: "Simon Hudson"
+githubname: SimonJHudson
 categories: ["Microsoft 365"]
 images:
 - images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

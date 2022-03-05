@@ -7,8 +7,6 @@ images:
 - images/blog/provisiongenie-an-open-source-provisioning-engine-for-microsoft/TeansResult.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 {{< image alt="TeansResult.png" src="images/blog/provisiongenie-an-open-source-provisioning-engine-for-microsoft/TeansResult.png" >}}
@@ -38,7 +36,7 @@ spend a huge amount of time on automating this. Our idea was to create a
 process, that
 
 1.  walks users through these considerations
-2.  ask them how the \"team of their dreams\" would look like:
+2.  ask them how the "team of their dreams" would look like:
 
 -   Which channels would they need?
 -   Which columns in an additional SharePoint library could support

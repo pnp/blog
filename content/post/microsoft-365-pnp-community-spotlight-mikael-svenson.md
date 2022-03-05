@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Community Spotlight: Mikael Svenson"
 date: 2021-04-17T02:41:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Microsoft 365 community spotlight"]
 images:
 - images/blog/microsoft-365-pnp-community-spotlight-mikael-svenson/mikaelsvenson.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

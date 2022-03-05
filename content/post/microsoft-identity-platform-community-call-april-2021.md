@@ -5,15 +5,13 @@ author: "Andrew Benson"
 categories: ["Microsoft Identity platform community call recordings"]
 images:
 - images/blog/microsoft-identity-platform-community-call-april-2021/ViewPorter.png
-- images/blog/microsoft-identity-platform-community-call-april-2021/ViewPorter.png
-- images/blog/microsoft-identity-platform-community-call-april-2021/EventHubBlockDiagram.png
-- images/blog/microsoft-identity-platform-community-call-april-2021/ViewPorter.png
 tags: []
 type: "regular"
-draft: false
+
 ---
 
 # Microsoft Identity Platform community call - April 2021](/t5/microsoft-365-pnp-blog/microsoft-identity-platform-community-call-april-2021/ba-p/2315934)
+
 **{{< image alt="EventHubBlockDiagram.png" src="images/blog/microsoft-identity-platform-community-call-april-2021/EventHubBlockDiagram.png" >}}
 
  

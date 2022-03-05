@@ -2,11 +2,12 @@
 title: "M365 Dev Podcast - Exchange Deprecations with Greg Taylor"
 date: 2021-11-08T05:56:00-05:00
 author: "Paul Schaeflein"
+githubname: pschaeflein
 categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -15,6 +16,7 @@ discussing the upcoming deprecations in the Exchange online service.
 
 Listen to the show here:  [Exchange Deprecations with Greg Taylor
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/exchange-deprecations-with-greg-taylor/)
+
 ## Links from the show: 
 
 -   [Upcoming API Deprecations in Exchange Web Services for Exchange

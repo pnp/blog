@@ -2,17 +2,13 @@
 title: "Change your own profile picture as a Guest in Microsoft Teams"
 date: 2021-04-06T01:37:00-04:00
 author: "Yannick Reekmans"
+githubname: YannickRe
 categories: ["Microsoft Teams"]
 images:
 - images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image.png
-- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-1.png
-- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-3.png
-- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-4.png
-- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-5.png
-- images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-6.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 I love Microsoft Teams and I also love controlling my online appearance,
@@ -24,7 +20,7 @@ not-very-personal colored circle with initials:
 Fellow MVP [Kazushi Kamegawa](https://twitter.com/kkamegawa) shared a
 method of changing your profile picture in a private forum, but it
 stopped working due to some UI changes in the Azure Portal. Luckily,
-with some more \"hackery\", we can still make it work!
+with some more "hackery", we can still make it work!
 The tl;dr version:
 1.  Tenant switch to the tenant where you want to change your profile
     picture

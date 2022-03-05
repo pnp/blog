@@ -2,12 +2,14 @@
 title: "Office Add-ins community call - January 12, 2022"
 date: 2022-01-18T10:19:00-05:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-january-12-2022/office-add-ins-Thumb Jan 2022.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -84,8 +86,8 @@ Add-ins.](https://docs.microsoft.com/office/dev/add-ins/design/keyboard-shortcut
 \
 **Can I display a local image in a task pane? I want to use a path to a
 file, like file:///C:/Users/user/Downloads/logo.png, but the browser
-forbids this action with the error \"Not allowed to load local
-resource.\"**
+forbids this action with the error "Not allowed to load local
+resource."**
 
 Due to the sandboxed nature of how Office Add-ins run in a browser, this
 isn't possible. Access files from a URL location on OneDrive, or other

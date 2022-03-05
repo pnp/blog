@@ -1,14 +1,13 @@
 ---
-title: "How to enhance your \"dev tenant\" to unleash the full potential of the Power Platform"
+title: 'How to enhance your "dev tenant" to unleash the full potential of the Power Platform'
 date: 2021-02-23T12:13:00-05:00
 author: "Michael Roth"
+githubname: MichaelRoth42
 categories: ["Microsoft 365", "Power Platform", "Tooling"]
 images:
 - images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/devtenant-micha.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 The Microsoft 365 Developer tenant is an amazing feature to learn and

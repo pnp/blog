@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 129"
 date: 2021-06-01T06:46:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-129/pnp-weekly-129.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 {{< image alt="pnp-weekly-129.png" src="images/blog/microsoft-365-pnp-weekly-episode-129/pnp-weekly-129.png" >}}
@@ -45,7 +46,7 @@ everyone for your contributions to the community!
     Online](https://www.sharepointeurope.com/conference/schedule/)
 -   August 9-11, 2021 - [North American Collaboration
     Summit](https://www.collabsummit.org/)
-    -   Register with coupon code \"PnP\" for 25% off from the prize
+    -   Register with coupon code "PnP" for 25% off from the prize
         at <https://nacs.ticketspice.com/nacs2021>
 
 
@@ -174,4 +175,4 @@ recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

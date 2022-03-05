@@ -2,12 +2,13 @@
 title: "How to use Parse JSON action in Power Automate"
 date: 2021-02-11T01:50:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Automate"]
 images:
 - images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-SPList.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -90,7 +91,7 @@ into the **Insert a sample JSON Payload** box and click **Done**. What
 we did with that is telling the flow which objects it needs to parse. If
 we now look at this action, we can see the JSON inside of our Parse JSON
 action, but all values from the run history are replaced by
-placeholders: \"string\" (if it was text), \"boolean\" (if it was a
+placeholders: "string" (if it was text), "boolean" (if it was a
 yes/no), etc.
 
 

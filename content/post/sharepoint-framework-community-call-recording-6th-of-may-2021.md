@@ -2,12 +2,13 @@
 title: "SharePoint Framework Community Call Recording -- 6th of May, 2021"
 date: 2021-05-07T12:41:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-recording-6th-of-may-2021/210506-together-mode.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -235,7 +236,7 @@ slides.
 -   [M365 PnP site](https://aka.ms/m365pnp) \| aka.ms/m365pnp
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
--   Blog: \"[A Lap Around Microsoft Graph Toolkit\" blog
+-   Blog: "[A Lap Around Microsoft Graph Toolkit" blog
     series](https://aka.ms/mgtLap)
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community

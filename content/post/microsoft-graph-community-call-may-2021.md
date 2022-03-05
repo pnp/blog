@@ -2,15 +2,13 @@
 title: "Microsoft Graph community call -- May 2021"
 date: 2021-05-20T05:28:00-04:00
 author: "Brian Jackett"
+githubname: briantjackett
 categories: ["Microsoft Graph community call recordings"]
 images:
 - images/blog/microsoft-graph-community-call-may-2021/BrianTJackett.png
-- images/blog/microsoft-graph-community-call-may-2021/BrianTJackett.png
-- images/blog/microsoft-graph-community-call-may-2021/TitleSlideThumbnail.png
-- images/blog/microsoft-graph-community-call-may-2021/BrianTJackett.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 {{< image alt="TitleSlideThumbnail.png" src="images/blog/microsoft-graph-community-call-may-2021/TitleSlideThumbnail.png" >}}

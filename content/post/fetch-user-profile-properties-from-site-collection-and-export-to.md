@@ -2,13 +2,12 @@
 title: "Fetch User Profile Properties From Site Collection And Export To CSV Using PNP PowerShell"
 date: 2021-03-24T06:13:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["SharePoint"]
 images:
 - images/blog/fetch-user-profile-properties-from-site-collection-and-export-to/OP.png
-tags: ["PNP PowerShell"]
+tags: []
 type: "regular"
-draft: false
-
 ---
 
 ## Introduction 
@@ -20,10 +19,10 @@ Excel format. so to achieve this solution we will use PnP PowerShell. 
 Let's see step-by-step implementation.
  
 ## Prerequisites 
-\
+
 If we are using Window 10 or we have PowerShellGet then we can run the
-below commands to install PnP PowerShell and AzuerAD Modules\
-\
+below commands to install PnP PowerShell and AzureAD Modules\
+
 Install PnP PowerShell Module,
  
  
@@ -138,8 +137,8 @@ StartProcessing
  
 In the above script do the following changes:
  
-1\. Change O365 Site Url, base path, username, and password
-2\. To check all the properties you can print **\$userInfo** and then
+1. Change O365 Site URL, base path, username, and password
+2. To check all the properties you can print **\$userInfo** and then
 change **\$global:userDetails** object as per your requirement at where
 I have used **\$userInfo.FirstName,LastName** etc.
  

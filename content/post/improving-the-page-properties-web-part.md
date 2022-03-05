@@ -2,12 +2,13 @@
 title: "Improving the Page Properties web part"
 date: 2021-04-06T01:18:00-04:00
 author: "mhomol"
+githubname: mhomol
 categories: ["SharePoint"]
 images:
 - images/blog/improving-the-page-properties-web-part/diff-screencap.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -86,7 +87,7 @@ properties for display:
     this.availableProperties = [];
     Log.Write(`${fi.length.toString()} fields retrieved!`);
     fi.forEach((f) => {
-      if (!f.FromBaseType && !f.Hidden && !f.Sealed && f.SchemaXml.indexOf("ShowInListSettings=\"FALSE\"") === -1
+      if (!f.FromBaseType && !f.Hidden && !f.Sealed && f.SchemaXml.indexOf("ShowInListSettings="FALSE"") === -1
           && f.TypeAsString !== "Boolean" && f.TypeAsString !== "Note" && f.TypeAsString !== "User") {
         this.availableProperties.push({ key: f.InternalName, text: f.Title });
         Log.Write(f.TypeAsString);

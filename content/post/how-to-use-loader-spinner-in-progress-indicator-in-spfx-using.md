@@ -2,16 +2,18 @@
 title: "How to use loader/Spinner/In Progress indicator in SPFx using fluent UI Spinner?"
 date: 2021-09-14T06:28:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["SharePoint"]
 images:
 - images/blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/spfx-loader.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
 ## Introduction 
+
 A Spinner is an outline of a circle that animates around itself
 indicating to the user that things are processing. A Spinner is shown
 when it's unsure how long a task will take making it the indeterminate
@@ -25,7 +27,9 @@ API to get lists from the root site, and until API response we will show
 Loader. We will use an Office UI fabric Spinner.
 For more information refer to
 [this](https://developer.microsoft.com/en-us/fluentui#/controls/web/spinner).
+
 ## Implementation 
+
 -   Open a command prompt
 -   Move to the path where you want to create a project
 -   Create a project directory using:
@@ -39,8 +43,7 @@ Move to the above-created directory using:
 Now execute the below command to create an SPFx solution:
     yo @microsoft/sharepoint 
 It will ask some questions, as shown below,
-![How To Use LoaderSpinner In
-SPFx.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/310203iC1EEE1D95F1CE7B2/image-size/large?v=v2&px=999 "How To Use LoaderSpinner In SPFx.png")
+{{< image alt="How To Use LoaderSpinner In SPFx.png" src="images/blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/How To Use LoaderSpinner In SPFx.png" >}}
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
     code .

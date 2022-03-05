@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Community Spotlight: Julie Turner"
 date: 2021-03-26T03:03:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Microsoft 365 community spotlight"]
 images:
 - images/blog/microsoft-365-pnp-community-spotlight-julie-turner/julieturner.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---# Microsoft 365 PnP Community Spotlight: Julie Turner
 

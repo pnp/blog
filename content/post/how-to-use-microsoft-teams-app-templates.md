@@ -2,12 +2,13 @@
 title: "How to use Microsoft Teams app templates"
 date: 2021-01-13T09:08:00-05:00
 author: "Matti Paukkonen"
+githubname: mpaukkon
 categories: ["Microsoft Teams"]
 images: 
 - images/blog/how-to-use-microsoft-teams-app-templates/ask-away-app.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -158,7 +159,7 @@ from Power App admin portal.
 {{< image alt="Import a Power App" src="images/blog/how-to-use-microsoft-teams-app-templates/Screenshot 2021-01-13 175255.png" >}}
 
 After import is complete, you can create a Teams app package for created
-Power App by selecting \"*Add to Teams*\". Fill-out details and click
+Power App by selecting "*Add to Teams*". Fill-out details and click
 Download app.
 
 {{< image alt="Download Teams app package for a Power App" src="images/blog/how-to-use-microsoft-teams-app-templates/2021-01-13_17-54-25.png" >}}

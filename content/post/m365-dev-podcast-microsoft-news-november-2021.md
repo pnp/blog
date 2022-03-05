@@ -2,11 +2,12 @@
 title: "M365 Dev Podcast - Microsoft News: November 2021"
 date: 2021-11-23T05:54:00-05:00
 author: "Paul Schaeflein"
+githubname: pschaeflein
 categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

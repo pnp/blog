@@ -5,15 +5,9 @@ author: "Shrusti Shah"
 categories: ["Microsoft Viva", "Microsoft Teams"]
 images:
 - images/blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ShrushtiShah_7-1642505452452.png
-- images/blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ShrushtiShah_8-1642505452456.png
-- images/blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ShrushtiShah_9-1642505452458.png
-- images/blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ShrushtiShah_10-1642505452461.png
-- images/blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ShrushtiShah_11-1642505452464.png
-- images/blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ShrushtiShah_12-1642505452466.png
-- images/blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ShrushtiShah_13-1642505452474.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---# Quickly set up Viva Connections app in Microsoft Teams using Teams admin center
 

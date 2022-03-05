@@ -2,12 +2,13 @@
 title: "Guidance On How To Use React DataTable Webpart"
 date: 2021-09-29T11:59:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: []
 images:
 - images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

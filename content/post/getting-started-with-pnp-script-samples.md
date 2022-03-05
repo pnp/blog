@@ -2,10 +2,11 @@
 title: "Getting started with PnP Script Samples"
 date: 2021-08-10T06:10:00-04:00
 author: "Paul Bullock"
+githubname: pkbullock
 categories: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -37,8 +38,8 @@ quicker and easier.
 ## Scenarios and Scripts 
 
 When working with Microsoft 365 using scripts, there is a scenario that
-you are trying to achieve, e.g. \"Install a site design into the
-tenant\" or \"Report on Teams Private Channels\".
+you are trying to achieve, e.g. "Install a site design into the
+tenant" or "Report on Teams Private Channels".
 In the community and from those provided by Microsoft, there are a
 variety of tools that you can use for the scenarios. The sample pages
 are designed to first describe the scenario and then provide one or more

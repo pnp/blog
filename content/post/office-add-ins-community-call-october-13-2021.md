@@ -2,12 +2,14 @@
 title: "Office Add-ins community call -- October 13, 2021"
 date: 2021-10-22T01:56:00-04:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-october-13-2021/OctAdd-insRecordingThumb.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -63,7 +65,7 @@ Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| \@davidchesnut
 
 **Can you please demo, or provide sample code for events in Office Word
 add-ins?**
-Go to <https://github.com/OfficeDev/> and search for \"Word\" to find
+Go to <https://github.com/OfficeDev/> and search for "Word" to find
 several code samples that may have the information you need in the
 archive. For example,
 <https://github.com/OfficeDev/Word-Add-in-JavaScript-AddPopulateBindings> shows

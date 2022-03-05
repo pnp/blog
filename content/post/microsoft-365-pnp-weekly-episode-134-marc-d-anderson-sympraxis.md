@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 134 - Marc D Anderson (Sympraxis Consulting)"
 date: 2021-09-14T02:09:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-134-marc-d-anderson-sympraxis/Thumb-Ep132.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -183,4 +184,4 @@ requests or questions.
 
  
 
-*\"Sharing is caring!\"*
+*"Sharing is caring!"*

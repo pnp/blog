@@ -2,13 +2,13 @@
 title: "How to break and change list item permission using Power Automate?"
 date: 2021-06-29T01:00:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["SharePoint", "Power Automate"]
 images:
 - images/blog/how-to-break-and-change-list-item-permission-using-power/Step2.png
-
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -46,8 +46,8 @@ Set all properties as below.
   **Uri**                             \_api/lists/getByTitle('ListTitle')/items(ID)/breakroleinheritance(copyRoleAssignments=false,clearSubscopes=true)
 
   **Headers**                         {\
-                                      \"Accept\": \"application/json\",\
-                                      \"Content-type\": \"application/json\"\
+                                      "Accept": "application/json",\
+                                      "Content-type": "application/json"\
                                       }
   ----------------------------------- ---------------------------------------------------------------------------------------------------------------------
  

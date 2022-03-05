@@ -2,21 +2,12 @@
 title: "Modern SharePoint list formatting"
 date: 2021-02-12T06:56:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["SharePoint"]
 images:
 - images/blog/modern-sharepoint-list-formatting/daniel-cheung-zky0BmMT5m8-unsplash.jpg
-- images/blog/modern-sharepoint-list-formatting/list-formatting-create.png
-- images/blog/modern-sharepoint-list-formatting/list-formatting-formatgallery.png
-- images/blog/modern-sharepoint-list-formatting/list-formatting-formatcolumns.png
-- images/blog/modern-sharepoint-list-formatting/list-formatting-formatrules.png
-- images/blog/modern-sharepoint-list-formatting/list-formatting.gif
-- images/blog/modern-sharepoint-list-formatting/whatif.jpg
-- images/blog/modern-sharepoint-list-formatting/advanced-mode.png
-- images/blog/modern-sharepoint-list-formatting/formatsplist.gif
-- images/blog/modern-sharepoint-list-formatting/listformat-pyod.gif
 tags: []
 type: "regular"
-draft: false
 
 ---
 
@@ -31,7 +22,7 @@ don't worry; I will guide you through this.
 
 {{< image alt="daniel-cheung-zky0BmMT5m8-unsplash.jpg" src="images/blog/modern-sharepoint-list-formatting/daniel-cheung-zky0BmMT5m8-unsplash.jpg" >}}
 
-## Why would we use SharePoint lists 
+## Why would we use SharePoint lists
 
 First things first: Why should we use SharePoint lists and not use - for
 instance - an Excel spreadsheet? Because we don't need to hide
@@ -46,7 +37,7 @@ of purposes like tracking issues, assets, routines, contacts, inventory,
 and more. Lists can easily be customized to make them visually more
 appealing.
 
-## How can we turn on modern experience 
+## How can we turn on modern experience
 
 Now that we are teased into modern lists and libraries in SharePoint,
 it's time to turn on modern experiences. We can do it like this in the
@@ -55,7 +46,7 @@ classic experience:
 -   select **Library Settings** or **List Settings** on the ribbon
 -   select **Advanced settings** and select **List experience**
 -   select **New experience**
--   save with **Ok**
+-  save with **Ok**
 
 ### How can we change the look and feel of a list in the UI
 
@@ -84,7 +75,6 @@ Formatting Views
 
 -   and also display a gallery view
 
-
 {{< image alt="list-formatting-formatgallery.png" src="images/blog/modern-sharepoint-list-formatting/list-formatting-formatgallery.png" >}}
 
 #### Formatting columns
@@ -92,9 +82,7 @@ Formatting Views
 -   If we want to change the column's appearance, we can do that very
     end-user-friendly directly in the UI:
 
-
 {{< image alt="list-formatting-formatcolumns.png" src="images/blog/modern-sharepoint-list-formatting/list-formatting-formatcolumns.png" >}}
-
 
  and even with rules like if - then - else:
 
@@ -142,14 +130,12 @@ make our lists look fantastic.
 
 Instead of having a list like this:
 
-![example
-list-BEFORE.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254513i35A53600A09DA3E4/image-size/large?v=v2&px=999 "example list-BEFORE.png")
+{{< image alt="example list-BEFORE.png" src="images/blog/modern-sharepoint-list-formatting/example list-BEFORE.png" >}}
 
 
 we can now look at a list like that:
 
-[![example
-list.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254514iBC4F4620CB91E8CB/image-size/large?v=v2&px=999 "example list.png")
+[{{< image alt="example list.png" src="images/blog/modern-sharepoint-list-formatting/example list.png" >}}
 
 ### How can we apply a sample? 
 
@@ -200,11 +186,11 @@ You can find helpful resources to learn more here:
     GitHub](https://github.com/pnp/sp-dev-list-formatting)
 
 Have fun and happy Modern SharePoint list formatting
+
 - *#SharingIsCaring ❤*
 
 PS: Did you like this post? [I wrote even more about list
 formatting](https://m365princess.com/how-we-use-sharepoint-list-formatting-and-power-automate-at-pyod-to-ease-our-marketing/)
 
- 
 
 *First published on [m365princess.com](https://m365princess.com) *
