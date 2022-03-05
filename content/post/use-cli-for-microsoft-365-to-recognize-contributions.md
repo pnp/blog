@@ -36,7 +36,7 @@ are different report types available depending on the type of data you
 require. 
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo report activityuserdetail
 m365 teams report activeuserdetail 
 ```
@@ -53,7 +53,7 @@ In our case we want to post the weekly progress and thus retrieve a
 weeks worth of data. And since we are going to work with the data the
 output is going to be JSON. Resulting in the following snippet: 
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 teams report useractivityuserdetail --period D7 --output json
 ```
 
@@ -81,7 +81,7 @@ return the *User Principal Name*. We can even specify that we care only
 about the top 3 users. So the full query would look as follows. 
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 teams report useractivityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Team Chat Message Count\")) | [0:3].\"User Principal Name\"'
 ```
  
@@ -94,7 +94,7 @@ services like Yammer offer a *Posted Count, Read Count* and Liked
 *Count. *
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Viewed Or Edited File Count\")) | [0:3].\"User Principal Name\"'
 m365 yammer report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Posted Count\")) | [0:3].\"User Principal Name\"'
 ```
@@ -112,7 +112,7 @@ CLI to send information to this webhook.  If you follow that walkthrough
 and perhaps set a fancy logo you will end up with the URL you need and a
 welcome post that looks something like the following: 
 
-![social-webhook.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/299219iA1191C410B1AE7EF/image-size/large?v=v2&px=999 "social-webhook.png")
+{{< image alt="social-webhook.png" src="images/blog/use-cli-for-microsoft-365-to-recognize-contributions/social-webhook.png" >}}
 
 ## Sharing your data 
 
@@ -122,7 +122,7 @@ JSON of the card, add our users to it and post the card to Teams. Make
 sure to add some emojis to the Adaptive card to make it look pretty 🦾
 or tweak it to your own liking. 
  
-``` {.lia-code-sample .language-bash}
+```bash
 $m365Status = m365 status
 
 if ($m365Status -eq "Logged Out") {
@@ -140,7 +140,7 @@ m365 adaptivecard send --url $webhookUrl --card $card
 ```
  
 Executed the result will look as follows:  
-![2021-07-29_17-51-58.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/299220i27CF4CD57EEA3ED7/image-size/large?v=v2&px=999 "2021-07-29_17-51-58.png")
+{{< image alt="2021-07-29_17-51-58.png" src="images/blog/use-cli-for-microsoft-365-to-recognize-contributions/2021-07-29_17-51-58.png" >}}
 
 
 You can find this sample, and many more samples at the [CLI for
@@ -153,7 +153,7 @@ or Yammer. Or who is working a lot on OneDrive or Exchange if you like. 
 
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 # Send top 3 for Teams based on chat messages
 $activityUsers = m365 teams report useractivityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Team Chat Message Count\")) | [0:3].\"User Principal Name\"' | ConvertFrom-Json
 $title = " Teams Weekly Social Champions "
@@ -167,7 +167,7 @@ $card = '{ \"type\": \"AdaptiveCard\", \"$schema\": \"http://adaptivecards.io/sc
 m365 adaptivecard send --url $webhookUrl --card $card
 ```
  
-## What\'s next 
+## What's next 
 
 With that I hope that this blog provided some insights in how you can
 recognize your users based on their activity. Keep in mind that just

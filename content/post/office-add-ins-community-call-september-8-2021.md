@@ -17,7 +17,7 @@ draft: false
 
 ## Call Summary 
 
-This month\'s community call features presentations - Word API updates
+This month's community call features presentations - Word API updates
 (preview of Footnote and Comment APIs for citation management and
 content insertion), Excel API updats (preview Excel v1.14 API -
 Worksheet Protection Changed event), Mocking Office.js for unit tests
@@ -91,11 +91,11 @@ Updates for add-ins happen as follows.
 manifest, the add-in requires that the admin upload a new manifest file
 to support metadata changes. The next time the relevant Office
 applications start, the add-in will update. The web application can
-change at any time.\
+change at any time.
 **Office Store add-in:**  When an admin previously selected an add-in
 from the Office Store, if there is an update available, the next time
 the relevant Office applications start, the add-in will update. The web
-application can change at any time.\
+application can change at any time.
 For more information, see [Test and deploy Microsoft 365 Apps by
 partners in the Integrated apps
 portal](https://docs.microsoft.com/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps?view=o365-worldwide#more-about-office-add-ins-security).
@@ -129,7 +129,7 @@ To see all the objects with this method, type \"InsertFileFromBase64\"
 into the search box in the [reference section for the Word
 API](https://docs.microsoft.com/javascript/api/word?view=word-js-1.1).
 
-If you\'re looking for more specific guidance, please provide more
+If you're looking for more specific guidance, please provide more
 information on ask on the [Microsoft 365 Q&A
 site](https://docs.microsoft.com/en-us/answers/topics/office-addins-dev.html?page=2&amp;pageSize=15&amp;sort=active&amp;filter=all),
 or at <https://stackoverflow.com> using the \[**office-js**\] tag.
@@ -146,7 +146,7 @@ at this time for when or if we will resume work on the preview.
 **When running a Word add-in within a Word Form document (i.e. has form
 controls and document protection), when can we expect support for other
 types of content controls such as Date, Plain Text, Checkbox, etc.?**
-Other types of content controls are in our backlog. We don\'t have an
+Other types of content controls are in our backlog. We don't have an
 ETA we can share for when these will be available.
 
 
@@ -165,8 +165,8 @@ Docs](https://docs.microsoft.com/office/dev/add-ins/develop/create-sso-office-ad
 which also uses the [Office Add-in Node.js code
 sample](https://github.com/OfficeDev/PnP-OfficeAddins/tree/main/Samples/auth/Office-Add-in-NodeJS-SSO).
 
-You shouldn\'t be running into issues opening a fallback dialog. If
-you\'re still having issues with the browser opening in a separate
+You shouldn't be running into issues opening a fallback dialog. If
+you're still having issues with the browser opening in a separate
 window, can you provide more information at
 <https://github.com/OfficeDev/office-js/issues>? We can follow up and
 see if we can resolve the issue.
@@ -184,6 +184,6 @@ via AppSource. Tenants are pure Microsoft 365.**
 Thanks for letting us know about this. It looks like it is probably a
 product bug. Please help us out and provide information on how to
 reproduce this bug at <https://github.com/OfficeDev/office-js/issues>.
-That\'s where we track any product bugs and we can look into it in more
+That's where we track any product bugs and we can look into it in more
 detail.
 

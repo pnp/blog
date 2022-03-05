@@ -37,7 +37,7 @@ Microsoft 365 and beyond, via AAD (Azure Active Directory).
 When creating a new user in AAD, you must add their Name and User Name
 (email address) as well as any Groups or Roles they should be in.
 
-![AAD.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312608iBC10CDAA34770454/image-size/large?v=v2&px=999 "AAD.png")
+{{< image alt="AAD.png" src="images/blog/looking-at-things-in-profile/AAD.png" >}}
 
 AAD also allows other 'organisational information' about the user to be
 added, specifically:
@@ -79,11 +79,11 @@ URL: [https://emicoltd-my.sharepoint.com//\_layouts/15/editprofile.aspx?UserSet
 Custom Properties, if any, can be edited from the ellipsis (Custom
 Properties)
 
-![Delve.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312605i5C64E307AE0FFEA5/image-size/large?v=v2&px=999 "Delve.png")
+{{< image alt="Delve.png" src="images/blog/looking-at-things-in-profile/Delve.png" >}}
 
 They can also set who can see the information via a small Globe icon.
 
-![Delve2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312604i57C75B3F73BA0E50/image-size/large?v=v2&px=999 "Delve2.png")
+{{< image alt="Delve2.png" src="images/blog/looking-at-things-in-profile/Delve2.png" >}}
 
 There are multiple 'ports of entry' to the profile update page:
 
@@ -92,7 +92,7 @@ There are multiple 'ports of entry' to the profile update page:
 -   Your account menu in Microsoft 365 (click your profile picture or
     initials)
 
-[![Account.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312609iB4EC744E33653600/image-size/large?v=v2&px=999 "Account.png")
+[{{< image alt="Account.png" src="images/blog/looking-at-things-in-profile/Account.png" >}}
 
 -   Any Microsoft 365 People card
 
@@ -165,7 +165,7 @@ attributes.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id
 
 1.  In the Display Name box, enter the profile property name that will
     be displayed to all users. (This name doesn't have to be unique.)
-2.  In the Type list, select the data type for the property.\
+2.  In the Type list, select the data type for the property.
      Note\
     If you select string (Multi Value), the property will be permanently
     set as a multi-valued property. You cannot change this setting after
@@ -197,7 +197,7 @@ attributes.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id
     the user's real name. Select the Indexed if you want searches to
     return all the user profiles matching that property. For example, if
     you have a property for "University," a search for that value would
-    return all alumni from that university.\
+    return all alumni from that university.
      Note\
     The Alias check box is available only if you set the Default Privacy
     Setting > Everyone.

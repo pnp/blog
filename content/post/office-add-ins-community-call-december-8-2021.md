@@ -15,7 +15,7 @@ draft: false
 
 ## Call Summary 
 
-This month\'s community call features an Outlook: Ignite recap from
+This month's community call features an Outlook: Ignite recap from
 [Juan
 Balmori](http://twitter.com/juaneloBalmori) (Microsoft) highlighting the
 release of Mailbox 1.11 GA and demos for Event-based add-ins and Smart
@@ -135,10 +135,10 @@ it possible to run unit tests on a custom document, and how can we
 accomplish that?**
 
 
-Unit tests don\'t run against an actual document. This sounds more like
-an end-to-end test, or UI testing. Unfortunately, there isn\'t a good
+Unit tests don't run against an actual document. This sounds more like
+an end-to-end test, or UI testing. Unfortunately, there isn't a good
 way to load a custom document and test against it. Many customers use
-manual testing for these types of scenarios. We\'re hoping to improve
+manual testing for these types of scenarios. We're hoping to improve
 this story down the road.
 
 
@@ -158,7 +158,7 @@ initialized as described in
 **Can the Outlook event-based add-in be triggered by a user typing a
 certain word (similar to spell-check)?**
 
-No, we don\'t have a specific event for this. It would be expensive to
+No, we don't have a specific event for this. It would be expensive to
 handle an event on every keypress. We recommend using another event such
 as OnMessageSend to trigger a check.
 
@@ -167,7 +167,7 @@ In desktop, if you have multiple mailboxes, you can select the sender.
 It would be useful to know when signatures might be different from
 senders.**
 
-This is on our backlog, but we don\'t yet have an ETA for when this will
+This is on our backlog, but we don't yet have an ETA for when this will
 be available.
 **Which email signature system did you use in the demo?**
 
@@ -182,13 +182,13 @@ Yes
 
 The preview is only on Outlook on Windows. We are planning to add
 support for Outlook on the web next, and eventually all platforms.
-**\`onSend\` add-ins can\'t be published to the store. Will it possible
+**\`onSend\` add-ins can't be published to the store. Will it possible
 to publish add-ins with smart alerts to the store?**
 
 Yes, add-ins using smart alerts can be published to Microsoft AppSource.
 
 **If session data needs to be stored centrally (so individual sessions /
-all users in an org can pull current, dynamic data) I\'d love to
+all users in an org can pull current, dynamic data) I'd love to
 understand where to place the centralized data repository in order to
 integrate it successfully**
 
@@ -197,11 +197,11 @@ within the organization, you need to provide a data repository for it.
 You should choose a repository of your choice in the cloud. Some
 customers use SharePoint, for example.
 
-**If it\'s web first, then I\'m guessing somewhere in SharePoint users
+**If it's web first, then I'm guessing somewhere in SharePoint users
 can fill out the form then sync that into AD (Azure AD Connect) then
 save that info into the on-premise AD?**
 
-It\'s really your decision on which data repository you want to store
+It's really your decision on which data repository you want to store
 such settings.
 
 **Any progress on support for shared mailbox add-ins on OWA?**
@@ -221,7 +221,7 @@ and the next platform will be on the web.
 alerts. Is there any estimation for the mobile?**
 
 Our goal is to GA no later than Q2 next year. Outlook on mobile will
-support event-based add-ins first, and then smart alerts. We don\'t have
+support event-based add-ins first, and then smart alerts. We don't have
 concrete dates for the smart alerts on mobile yet.
 
 **How is the demo obtaining the document attached? It was easy when the

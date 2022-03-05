@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-![Header_TimerApp.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279051i1C857510A318439D/image-size/large?v=v2&px=999 "Header_TimerApp.png")
+{{< image alt="Header_TimerApp.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Header_TimerApp.png" >}}
 
 
 ## Introduction
@@ -69,7 +69,7 @@ to know how to write code or anything.
 
 Before we start, here's a picture of the finished app.
 
-[![TimerApp.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279035iBD16098EE0D9C25A/image-dimensions/466x831?v=v2 "TimerApp.png")
+[{{< image alt="TimerApp.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/TimerApp.png" >}}
 
 I build this in the portrait orientation, since I want it to be used in
 Teams meetings. That means, it has to fit in the meeting side panel.
@@ -100,9 +100,9 @@ upper right corner. It's a very easy step to make sure that your product
 (app or flow or slide or whatever) reaches more people. We want to
 include everyone, correct? Correct! 
 
-![Accessibility.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279036iE5D999E8B5EFD1D3/image-size/medium?v=v2&px=400 "Accessibility.png")
+{{< image alt="Accessibility.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Accessibility.png" >}}
 
-![Picture5.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279037i902C3C8D1EC0ED88/image-size/medium?v=v2&px=400 "Picture5.jpg")
+{{< image alt="Picture5.jpg" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Picture5.jpg" >}}
 
 
 ## Building the app
@@ -131,7 +131,7 @@ your components). Here is how to edit the parts:
 
 #### Timer input
 
-**[![Timer.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279039i6D93AE4BAA9DC42A/image-size/medium?v=v2&px=400 "Timer.png")
+**[{{< image alt="Timer.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Timer.png" >}}
 
 Start by changing the **Duration** into a variable. I called it "Dauer"
 (sorry for the german, but you can call it whatever you like). The timer
@@ -211,7 +211,7 @@ function:
 
 `UpdateContext({ResetIt:false}); UpdateContext({ResetIt: true})`
 
-![Buttons.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279041i43AF18DAB4CBDEA7/image-size/large?v=v2&px=999 "Buttons.png")
+{{< image alt="Buttons.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Buttons.png" >}}
 
 Now we have a timer that can be set to the values of the four buttons on
 the right side AND we can control it with three buttons. Neat!
@@ -229,7 +229,7 @@ on the left. We're going to start with the slider
 
 To build this, start to insert the slider control.
 
-[![Build_3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279042iC009FFD2B633D06C/image-size/medium?v=v2&px=400 "Build_3.png")
+[{{< image alt="Build_3.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Build_3.png" >}}
 
 Now it's time to flip it over.
 
@@ -260,11 +260,11 @@ need the following icons:
 -   Half circle (1x)
 -   Three-quarter circle (1x)
 
-![Icons.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279043i6957D7AB4F14BFCC/image-size/medium?v=v2&px=400 "Icons.png")
+{{< image alt="Icons.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Icons.png" >}}
 
 You need to layer these in the following order:
 
-![Build_5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279044iEA7CD2BD6B4488B9/image-size/medium?v=v2&px=400 "Build_5.png")
+{{< image alt="Build_5.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Build_5.png" >}}
 
 Set the **Fill property** to of the top four elements to some blue, the
 full circle at the bottom is going to be red. The exact colors don't
@@ -326,7 +326,7 @@ Now you can remove the border and background from your...
 
 In the Timer properties, change these values to transparent:
 
- [![Picture9.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279045i7270F0C75B3FFCCD/image-size/medium?v=v2&px=400 "Picture9.png")
+ [{{< image alt="Picture9.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Picture9.png" >}}
 
 I did the same for the Start, Stop and Reset Button and placed them in
 the middle of a circle icon, I've added (Insert \> Icon \> Circle).
@@ -335,7 +335,7 @@ the center. You do that by right-clicking on the button and use the
 align feature. With Reorder you can also place the icon under the
 button.
 
-![Align.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279046i3A35E86A0BF78FBF/image-size/medium?v=v2&px=400 "Align.png")
+{{< image alt="Align.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Align.png" >}}
 
 Now select the icon and the button and group them (Ctrl+G), so you can
 place them in the spare holes of the timer picture.
@@ -349,11 +349,11 @@ I set the **size and position values** of the circles like this, but you
 can place them wherever you
 like:
 
-![Position.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279048i93D5ED8BF9582B73/image-size/large?v=v2&px=999 "Position.png")
+{{< image alt="Position.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Position.png" >}}
 
 Now for the slider. Set the **size and position values** like this:
 
-![Position_Slider.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279049iD354AB9C43CA6261/image-size/large?v=v2&px=999 "Position_Slider.png")
+{{< image alt="Position_Slider.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Position_Slider.png" >}}
 
 Set the **Handle size** value to *50*.
 
@@ -375,7 +375,7 @@ and over again.
 You want to set those variables on the OnStart property of the app
 itself, so the colors will show when, you start the app.
 
-[![Picture10.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279050iF4CD3F4696D6ED43/image-size/large?v=v2&px=999 "Picture10.png")
+[{{< image alt="Picture10.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Picture10.png" >}}
 
  
 
@@ -461,7 +461,7 @@ Concurrent(
 
 The result should look a lot like this:
 
-![TimerApp.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279034i36264686F19079A2/image-size/large?v=v2&px=999 "TimerApp.png")
+{{< image alt="TimerApp.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/TimerApp.png" >}}
 
 As you can see, I added Fluent UI Icons on the buttons of the timer (if
 you don't know how to use them, have a look at this awesome [blog from

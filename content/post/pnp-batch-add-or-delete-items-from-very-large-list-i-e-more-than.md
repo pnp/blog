@@ -126,10 +126,10 @@ write-host $("End time " + (Get-Date))
 The script took up to 4 hours to add 300k items. The script resumed
 despite an error happening. 
 
-![reshmeeauckloo_0-1631278209238.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309593i95BF4A55663F1167/image-size/medium?v=v2&px=400 "reshmeeauckloo_0-1631278209238.png")
+{{< image alt="reshmeeauckloo_0-1631278209238.png" src="images/blog/pnp-batch-add-or-delete-items-from-very-large-list-i-e-more-than/reshmeeauckloo_0-1631278209238.png" >}}
 
 The script took 7.5 hours to delete 300k items with a couple of
 retries.  
 
-![reshmeeauckloo_2-1631278372706.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309595i8C498C8516C3EEDC/image-size/medium?v=v2&px=400 "reshmeeauckloo_2-1631278372706.png")
+{{< image alt="reshmeeauckloo_2-1631278372706.png" src="images/blog/pnp-batch-add-or-delete-items-from-very-large-list-i-e-more-than/reshmeeauckloo_2-1631278372706.png" >}}
 

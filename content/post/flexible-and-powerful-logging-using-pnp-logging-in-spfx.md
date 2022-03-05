@@ -3,12 +3,11 @@ title: "Flexible and powerful logging using PnP Logging in SPFx"
 date: 2021-08-17T05:15:00-04:00
 author: "Sudharsan Kesavanarayanan"
 categories: []
-images: []
 tags: []
 type: "regular"
 draft: false
 
----# Flexible and powerful logging using PnP Logging in spfx
+---
 
 ## Introduction
 Logging plays an important role in any application. Whether it is a
@@ -54,7 +53,7 @@ part. Navigate to that folder and run the below command
  
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 yo /sharepoint
 ```
  
@@ -77,7 +76,7 @@ name **PnPLogging**.
  
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 npm i @pnp/sp @pnp/odata @pnp/logging --save-exact
 ```
  
@@ -90,14 +89,14 @@ line.
  
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 cd \web part folder\
 code .
 ```
  
  
  
-Let\'s create a new folder under the **components** folder
+Let's create a new folder under the **components** folder
 named **common**. Inside the common folder create 2 files as named below
 1.  **CustomLogger.ts** -- This file will have all the interfaces and
     methods for implementing the logging mechanism to write the logs in
@@ -109,7 +108,7 @@ Copy-paste the below code in the **CustomLogger.ts** file.
  
  
  
-``` {.lia-code-sample .language-csharp}
+```csharp
 import { LogLevel, ILogListener, ILogEntry } from "@pnp/logging";
 import { sp } from "@pnp/sp";
 import { IWeb, Web } from '@pnp/sp/webs';
@@ -235,7 +234,7 @@ Copy-paste the below code in the **Util.ts** file
  
  
  
-``` {.lia-code-sample .language-csharp}
+```csharp
 import { LogLevel, ILogEntry, Logger } from '@pnp/logging';
 import { ILogData } from './CustomLogger';
  
@@ -263,7 +262,7 @@ imports
  
  
  
-``` {.lia-code-sample .language-csharp}
+```csharp
 import CustomLogger from './components/common/CustomLogger';
 import { sp } from "@pnp/sp";
 import { Logger, LogLevel, FunctionListener, ILogEntry } from "@pnp/logging";
@@ -276,7 +275,7 @@ code.
  
  
  
-``` {.lia-code-sample .language-csharp}
+```csharp
 public onInit(): Promise<void> {        
         return super.onInit().then(_ => {
             sp.setup(this.context);
@@ -323,7 +322,7 @@ Navigate to the \<webpart>.tsx and copy-paste the below code
  
  
  
-``` {.lia-code-sample .language-csharp}
+```csharp
 import * as React from 'react';
 import styles from './PnPLogging.module.scss';
 import { IPnPLoggingProps } from './IPnPLoggingProps';

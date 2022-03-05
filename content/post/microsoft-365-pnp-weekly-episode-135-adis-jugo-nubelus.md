@@ -104,13 +104,13 @@ everyone for your contributions to the community!\
     \| [\@williamsrabia](/t5/user/viewprofilepage/user-id/792201)
 -   [Microsoft 365 Developer Podcast - Microsoft 365 App Certification
     with Orion
-    O\'Malley](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-podcast-microsoft-365-app-certification/ba-p/2769303)
+    O'Malley](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-podcast-microsoft-365-app-certification/ba-p/2769303)
     -  \| [Microsoft 365 Developer
     Podcast](https://twitter.com/m365devpodcast) \| [Jeremy
     Thake](https://twitter.com/jthake) (Microsoft) \| \@jthake, [Paul
     Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) \|
     [\@paulschaeflein](/t5/user/viewprofilepage/user-id/113) and Orion
-    O\'Malley
+    O'Malley
 -   [PnP Batch versus Microsoft Graph Batch in PowerShell to add/delete
     3k
     items](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/ba-p/2761214)

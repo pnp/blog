@@ -13,7 +13,7 @@ draft: false
 
 {{< image alt="banner-cli-m365.png" src="images/blog/cli-for-microsoft-365-v3-13/banner-cli-m365.png" >}}
  
-We\'ve just published a new version of the CLI for Microsoft 365 with
+We've just published a new version of the CLI for Microsoft 365 with
 new commands for working with and managing Microsoft 365 tenants and
 SharePoint Framework projects on any platform.
  
@@ -53,7 +53,7 @@ directory to your project and execute:
 m365 spfx project upgrade --preview --output md > report.md
 ```
  
-We\'d also recommend that you try a richer upgrade report based on the
+We'd also recommend that you try a richer upgrade report based on the
 Visual Studio Code CodeTour extension:
 ``` sh
 m365 spfx project upgrade --preview --output tour
@@ -64,9 +64,9 @@ documentation](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-u
  
 ### Login with client ID and secret 
 When using CLI for Microsoft 365 in unattended scenarios, like building
-monitoring solutions or long-running automations, it\'s recommended that
+monitoring solutions or long-running automations, it's recommended that
 you login to Microsoft 365 using a certificate. If for some reason
-you\'re unable to do that, you can now fallback to logging in using a
+you're unable to do that, you can now fallback to logging in using a
 client ID and secret registered with your custom Azure Active Directory
 application.
  
@@ -82,7 +82,7 @@ documentation](https://pnp.github.io/cli-microsoft365/cmd/login/).
 ### Retrieve apps installed in a SharePoint site 
 A part of governance of every Microsoft 365 tenant is keeping track of
 which applications are installed where in the tenant. Since Microsoft
-365 doesn\'t provide this information readily for you, it\'s a common
+365 doesn't provide this information readily for you, it's a common
 scenario for automation scripts to scan all sites in the tenant and
 retrieve this information periodically.
  
@@ -192,20 +192,20 @@ for our users.
 Here are some things that we're currently working on.
  
 ### CLI for Microsoft 365 v4 
-For the last few months we\'ve been working on a new major version of
+For the last few months we've been working on a new major version of
 CLI for Microsoft 365 - v4. The v4 release is a result of the evolution
 of the CLI over time. We planned it, to improve the consistency of the
 CLI and make it more intuitive to use. Some changes required us to
-introduce breaking changes, which is why we\'ll be releasing a new major
+introduce breaking changes, which is why we'll be releasing a new major
 version. Along with these changes, v4 will contain new and improved
 commands, just as we ship them in each release.
  
 CLI for Microsoft 365 v3.13 is the last v3.x version of the CLI.
 Starting with our next monthly release, scheduled for the end of
 September, we will start releasing v4.x versions. v3.13, as well as all
-previous versions, will remain available and working, but won\'t be
+previous versions, will remain available and working, but won't be
 updated, which is why we recommend that you upgrade to v4. Along with
-the release, we\'ll publish an upgrade guidance to help you determine
+the release, we'll publish an upgrade guidance to help you determine
 the impact of the upgrade on your work.
  
 ### More commands, what else 

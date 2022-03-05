@@ -11,7 +11,7 @@ draft: false
 ---
 
 Sean McDonough shares his tips and tricks for improving SPO performance.
-Sean\'s tips are for developers, administrators and users!
+Sean's tips are for developers, administrators and users!
 
 Listen to the show here:  [SPO Performance with Sean McDonough
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/spo-performance-with-sean-mcdonough/)

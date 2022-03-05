@@ -64,7 +64,7 @@ get a list of licenses product names and SKU IDs.
 
 Create a new list called "licenses" in SharePoint Site and add a column
 called GUID. Add Product Name and GUID from above Microsoft Documents.
-![Reports 13.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307487i23213DE9D15135C0/image-size/large?v=v2&px=999 "Reports 13.jpg")
+{{< image alt="Reports 13.jpg" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports 13.jpg" >}}
 
 ## Step 2 - Register Application and Azure Active Directory.
 
@@ -102,7 +102,7 @@ called GUID. Add Product Name and GUID from above Microsoft Documents.
 
 Open power automates from App list in Microsoft 365.
 Create new flow -> Select Recurrence -> Select month -> Create.
-![Create report of assigned licenses for users from Microsoft 36502.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307475i52B9647586426D75/image-size/large?v=v2&px=999 "Create report of assigned licenses for users from Microsoft 36502.gif")
+{{< image alt="Create report of assigned licenses for users from Microsoft 36502.gif" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Create report of assigned licenses for users from Microsoft 36502.gif" >}}
 ## Step 4 - Initialize variables in Power Automate
 We need 7 variables that will store multiple values and use them to
 generate reports.
@@ -113,7 +113,7 @@ active directory.
 ## Step 5 - Get Licenses from SharePoint list in Power Automate
 We will use 'Get Items' and 'Append to array object' connectors in
 power to automate.
-![Reports 3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307477i2FACD92544A40939/image-size/large?v=v2&px=999 "Reports 3.png")
+{{< image alt="Reports 3.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports 3.png" >}}
 
 ## Step 6 - Create report file from excel template
 We will get file content from a template file that is store in the
@@ -135,7 +135,7 @@ JSON Schema for Parse JSON should be the same as below.
  
  
  
-``` {.lia-code-sample .language-json}
+```json
 {
     "type": "object",
     "properties": {
@@ -196,7 +196,7 @@ Audience: Add Reference of AudienceURL variable
 Pass JSON schema in Parse JSON Connector.
  
  
-``` {.lia-code-sample .language-json}
+```json
 {
     "type": "object",
     "properties": {
@@ -272,7 +272,7 @@ We have an array of Product name list which we had created on starting
 of the automation.
 Let's Access the assigned Licenses object from the user's object which
 is getting on the response of HTTP request.
-![Create report of assigned licenses for users from Microsoft 36508.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307482i0EF3962662FBE704/image-size/large?v=v2&px=999 "Create report of assigned licenses for users from Microsoft 36508.jpg")
+{{< image alt="Create report of assigned licenses for users from Microsoft 36508.jpg" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Create report of assigned licenses for users from Microsoft 36508.jpg" >}}
 Let's filter the array if we found licenses are assigned to the user.
 We can get SKU ID from the response and we do filter from licenses array
 based on SKU IDs.

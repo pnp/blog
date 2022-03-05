@@ -37,7 +37,7 @@ Microsoft Graph Fundamentals consists of 3 modules:
     you continue with the application you built-in module 2 and learn
     how to retrieve a user photo and do an exercise about it.
 
-The whole learning path is estimated to take us \~75 minutes. Let\'s see
+The whole learning path is estimated to take us \~75 minutes. Let's see
 how it goes 
 
 ::: {#tinyMceEditorLuise Freese_1 .mceNonEditable .lia-copypaste-placeholder}
@@ -49,7 +49,7 @@ how it goes 
 To be very honest: I worked with Graph before - see my blog posts
 here: [Microsoft Graph -- M365
 Princess](https://m365princess.com/category/microsoft-graph/) - but
-it\'s the first time I do this guided learning on Microsoft Learn. I
+it's the first time I do this guided learning on Microsoft Learn. I
 will cover module 1 in this post and continue with module 2 and 3 in the
 following posts.
 
@@ -62,7 +62,7 @@ three tremendous advantages of it:
 
 -   across all Microsoft services, you can use one
     endpoint [https://graph.microsoft.com](https://graph.microsoft.com/) -
-    which makes development straightforward as you don\'t need to learn
+    which makes development straightforward as you don't need to learn
     all the different APIs for mail and calendar and files and so on
 -   documentation is fantastic, and there is a ton of learning
     material - like this learning path or the upcoming [Learn Together-
@@ -84,7 +84,7 @@ tenant. The easiest way to have this is to [join the Microsoft 365
 developer
 program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) and
 get a free E5 subscription. If you are not familiar with this,
-read [Julie Turner\'s article about
+read [Julie Turner's article about
 it](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-dev-tenant-and-why-would-you-want-one/ba-p/2036610),
 at least some basic JavaScript understanding, and you should know what
 Azure Active Directory does. You will also need to
@@ -98,13 +98,13 @@ emails, attended meetings, notes, key contacts, and relevant files.
 Our application could also grow later on and bring in data from more
 services like Windows 10 services or Enterprise Mobility and Security
 Services. We will not build this in total in this learning path, but we
-get a perspective, what we can develop based on our organization\'s
+get a perspective, what we can develop based on our organization's
 needs.
 
 ### Understand Microsoft Graph Services
 
 At the very heart of Graph, we will find users and groups. In our
-application, we will need to access data from a single user\'s personal
+application, we will need to access data from a single user's personal
 scope (mail, messages, events) and a group scope (teamwork).
 
 The module introduces you to some Microsoft Graph API calls and shows
@@ -141,7 +141,7 @@ You will learn how to send a message to Teams via Graph - this is not a
 test; it will really appear in Teams. 
 
 
-Let us 1\'up this already fantastic experience. Besides using this
+Let us 1'up this already fantastic experience. Besides using this
 beautiful UI, Graph Explorer provides you with:
 
 -   Access tokens used for authentication (recognizing who a user is)
@@ -154,7 +154,7 @@ beautiful UI, Graph Explorer provides you with:
 -   Adaptive cards snippets so you can quickly build UI components for
     your apps
 
-You see, this is the \'absolutely carefree package\' provided by the
+You see, this is the 'absolutely carefree package' provided by the
 Microsoft Graph team.
 
 ## Conclusion on Module 1:
@@ -168,7 +168,7 @@ all kinds of development scenarios.
 After introducing you to some basic concepts on Microsoft Graph, you
 have learned on a real-world example how to use Microsoft Graph before
 continuing to access data via Graph in a JavaScript application. This
-learning module is fantastic! If you never heard about Graph, you\'ll
+learning module is fantastic! If you never heard about Graph, you'll
 get everything you need to start right away with it!
 
 

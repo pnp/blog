@@ -49,7 +49,7 @@ commands which makes it easier to work with command responses. In the
 example below that uses PowerShell we can convert the JSON response into
 a PowerShell object using the *ConvertFrom-Json* cmdlet.
 
-``` {.lia-code-sample .language-bash}
+```bash
 $lists = m365 todo list list -o json | ConvertFrom-Json
 ```
 
@@ -74,7 +74,7 @@ default output type for errors, execute:
 
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 cli config set --key printErrorsAsPlainText --value false
 ```
 
@@ -113,7 +113,7 @@ permissions during authorization. 
 To return the roles published by an Azure AD application registration by
 its name, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad app role list --appName "My app"
 ```
  
@@ -125,7 +125,7 @@ outputs to be JSON rather than text.
  
 To return the current value of a CLI configuration option, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 cli config get --key output
 ```
  
@@ -142,7 +142,7 @@ file add* command will remain to provide backwards compatibility.
  
 To add a file to a specific site, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 file add --filePath file.pdf --folderUrl "https://contoso.sharepoint.com/Shared Documents"
 ```
  
@@ -155,7 +155,7 @@ remove Power Apps from an environment.
  
 To remove a specified Microsoft Power App, execute: 
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 pa app remove --name 3989cb59-ce1a-4a5c-bb78-257c5c39381d
 ```
  
@@ -169,7 +169,7 @@ add that support.
 To update a specific application permission by its name on a given site
 collection, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo site apppermission set --siteUrl https://contoso.sharepoint.com/sites/project-x --appDisplayName Foo --permission read
 ```
 ##   
@@ -325,14 +325,14 @@ different workloads in Microsoft 365.
 
 
 Recently, we introduced a command to easily create Azure AD app
-registrations. Because they\'re backbone of every app you\'d build on
+registrations. Because they're backbone of every app you'd build on
 Microsoft 365, we think you should be able to create them as easily as
 possible. So with CLI for Microsoft 365, you can create a fully
 configured Azure AD app for the most common scenarios with just one line
 of code.
 
 
-We\'re currently working on adding support for updating Azure AD app
+We're currently working on adding support for updating Azure AD app
 registration which will be helpful for example when building apps for
 Microsoft Teams. Stay tuned!
 
@@ -354,16 +354,16 @@ using SPO or PnP PowerShell that you use frequently, please share them
 with us so that we can learn more about the common automation scenarios.
 
 
-### \'ensure\' commands 
+### 'ensure' commands 
  
 
 
 Recently, we shipped our first ensure command - an [easy way to help you
 that a site with specific settings
 exists](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-ensure/).
-If it doesn\'t, CLI creates it for you, if it does, CLI ensures it has
-the right properties. All in one line of code. We\'d love to hear from
-you how you like it and if it\'s something you\'d like us to implement
+If it doesn't, CLI creates it for you, if it does, CLI ensures it has
+the right properties. All in one line of code. We'd love to hear from
+you how you like it and if it's something you'd like us to implement
 for other commands as well.
 
  
@@ -388,7 +388,7 @@ Alternatively, you can get the latest release from Docker by executing:
  
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
 

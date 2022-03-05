@@ -11,28 +11,28 @@ draft: false
 
 ---
 
-## There\'s a blog for that 
+## There's a blog for that 
 
-A somewhat common complaint I\'ve heard from organizations I\'ve worked
+A somewhat common complaint I've heard from organizations I've worked
 with is that folks within the organization frequently are unaware of
 press releases, blogs, or other information the organization is publicly
-sharing. In fact, I\'m guilty of it as well. On numerous occasions,
-I\'ve gone to a coworker for some quick troubleshooting only to be told
+sharing. In fact, I'm guilty of it as well. On numerous occasions,
+I've gone to a coworker for some quick troubleshooting only to be told
 \"I wrote a blog for that\".
 
 
-Now that Microsoft Viva Connections is here, I\'ve been putting a lot of
-energy into my company\'s SharePoint home site and trying to come up
-with ways to break down the information silo\'s we\'ve just naturally
+Now that Microsoft Viva Connections is here, I've been putting a lot of
+energy into my company's SharePoint home site and trying to come up
+with ways to break down the information silo's we've just naturally
 accrued over the years.
 Fortunately, it turned out that our company blog already had an RSS feed
 setup, which opened up some opportunities, one of which was to create a
 flow in Power Automate that automatically creates a SharePoint \"News
 Link\" in our home site whenever a new blog post is published to our
 public site.
-So, with this blog, we\'ll walk through the steps used to accomplish
+So, with this blog, we'll walk through the steps used to accomplish
 that feat.
-![FlowOverview.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273130iA5A611340B6D08D2/image-size/large?v=v2&px=999 "FlowOverview.png")
+{{< image alt="FlowOverview.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/FlowOverview.png" >}}
 
 ## Triggered 
 
@@ -40,11 +40,11 @@ As with any flow, we need something to kick things off. I was afraid
 that this was going to be the biggest technical challenge but,
 thankfully, it turns out that there is a trigger purpose built to do
 exactly what we need: the **When a feed item is published** trigger!
-![1-trigger.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273131i851CA0BA49D3677E/image-size/large?v=v2&px=999 "1-trigger.png")
+{{< image alt="1-trigger.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/1-trigger.png" >}}
 As you can see, the configuration here is dead simple. You simply
 provide it the URL to an RSS feed and select either the **PublishDate**
-or **UpdatedOn** values. We\'ll stick with the default **PublishDate**
-setting so that we\'re only being triggered by brand new articles.
+or **UpdatedOn** values. We'll stick with the default **PublishDate**
+setting so that we're only being triggered by brand new articles.
 So, with this configuration, our flow will be executed anytime a new
 article is published to the XBOX news RSS feed.
 Once triggered, seemingly regardless of the specific RSS feeds schema, a
@@ -69,74 +69,74 @@ what we need.
 ```
 Even better, this data gets turned into variables we can access through
 the *Dynamic Content* selector in Power Automate.
-![1-blog-properties.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273132i141B7E26CAF128F5/image-size/large?v=v2&px=999 "1-blog-properties.png")
+{{< image alt="1-blog-properties.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/1-blog-properties.png" >}}
 
-## Take a picture, it\'ll last longer 
+## Take a picture, it'll last longer 
 
-One thing we don\'t get is any sort of image to show, which is a bummer
+One thing we don't get is any sort of image to show, which is a bummer
 because without them, all of our News Links would end up looking like
 the below image.
-![3-blog-no-image.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273133i431D80BC206AA219/image-size/large?v=v2&px=999 "3-blog-no-image.png")
+{{< image alt="3-blog-no-image.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/3-blog-no-image.png" >}}
 
 Thankfully, SharePoint has a handy-dandy little service hidden away that
 can help.
-If you ever created a new \"News Link\", you\'ll know that you simply
+If you ever created a new \"News Link\", you'll know that you simply
 give SharePoint the URL to your article and it auto-magically snags the
 title, summary and a thumbnail image to use. If you open up your
-browser\'s developer tools, you can see that SharePoint calls this
+browser's developer tools, you can see that SharePoint calls this
 `_api/SP.Publishing.EmbedService/EmbedData` endpoint, passing along an
 encoded URL and some additional query strings. It turns out that this is
-what handles all that \'magic\' and it\'s also something we can leverage
+what handles all that 'magic' and it's also something we can leverage
 for our own ends here!
 Thanks to the output of our trigger, we know the URL of the blog post
-we\'re working with, and we can access it through the
-![5-primaryfeedlink.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273134iDBEC9770FFF0F12B/image-size/large?v=v2&px=999 "5-primaryfeedlink.png") variable. However, we do need to make sure that
-the URL is in the right format, so we\'ll create our own variable to
+we're working with, and we can access it through the
+{{< image alt="5-primaryfeedlink.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/5-primaryfeedlink.png" >}} variable. However, we do need to make sure that
+the URL is in the right format, so we'll create our own variable to
 make it so.
 
-![4-primarylinkencoded.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273135iC1EB2ED279D23E37/image-size/large?v=v2&px=999 "4-primarylinkencoded.png")
+{{< image alt="4-primarylinkencoded.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/4-primarylinkencoded.png" >}}
 
-We\'ll call it *PrimaryLinkEncoded*, make it a string, and initialize
+We'll call it *PrimaryLinkEncoded*, make it a string, and initialize
 its value using the following expression:
 `concat('%27',encodeUriComponent(triggerOutputs()?['body/primaryLink']),'%27')`
-Once run, we\'ll end up with an encoded URL surrounded by apostrophes,
+Once run, we'll end up with an encoded URL surrounded by apostrophes,
 which is what the `EmbedData` service expects.
 Now that we have that we just need to call the aforementioned service
 using the **Send an HTTP request to SharePoint** action.
 
-![6-getthumbnail.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273136iF5FD8AB5D795BECE/image-size/large?v=v2&px=999 "6-getthumbnail.png")
+{{< image alt="6-getthumbnail.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/6-getthumbnail.png" >}}
 
 
-We\'ll be making a GET request to the root of our SharePoint site.
+We'll be making a GET request to the root of our SharePoint site.
 Technically, this could be any SharePoint site you have access to, but
-since we\'ll be posting news articles to our home site, we\'ll just
+since we'll be posting news articles to our home site, we'll just
 stick with that.
-For the Uri configuration, we\'re calling the previously mentioned
+For the Uri configuration, we're calling the previously mentioned
 service with a few **required** query string parameters like so:
 `_api/SP.Publishing.EmbedService/EmbedData?url=@{variables('PrimaryLinkEncoded')}&version=1&bannerImageUrl=true`
-We\'re passing along the encoded URL we created in the last step,
+We're passing along the encoded URL we created in the last step,
 specifying version 1 (which is required, despite their only being one
-version) and we\'re asking for the *bannerImageUrl* to be included
-(otherwise we\'re not getting )
+version) and we're asking for the *bannerImageUrl* to be included
+(otherwise we're not getting )
 We only need to include one header, the `accept` header, with a value of
 `application/json;odata.metadata=minimal`.
-Finally, to make things a bit easier to use in a moment, we\'ll capture
+Finally, to make things a bit easier to use in a moment, we'll capture
 the output of this request into a variable using the
 `Initialize Variable` action again, like so.
-![7-BannerImageUrl.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273137i81A3D42C007A4906/image-size/large?v=v2&px=999 "7-BannerImageUrl.png")
-We\'re creating a new string variable named **BannerImageUrl** and
-we\'re setting its value using the following expression:
+{{< image alt="7-BannerImageUrl.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/7-BannerImageUrl.png" >}}
+We're creating a new string variable named **BannerImageUrl** and
+we're setting its value using the following expression:
 `outputs('Get_Thumbnail')?['body']?['d']?['ThumbnailUrl']`
 
 ## Compose yourself 
 
-Now that we\'ve got just about everything we can get, we need to put
+Now that we've got just about everything we can get, we need to put
 into the format that SharePoint expects when creating a News Link item,
-so it\'s time to prepare our payload using the `Compose` action.
-![8-compose.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273138iC4331F89292E6F98/image-size/large?v=v2&px=999 "8-compose.png")
+so it's time to prepare our payload using the `Compose` action.
+{{< image alt="8-compose.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/8-compose.png" >}}
 
-It\'s a fairly simply and (mostly) self-explanatory bit of JSON, so we
-won\'t dwell on it much. Below is the exact JSON used in the above
+It's a fairly simply and (mostly) self-explanatory bit of JSON, so we
+won't dwell on it much. Below is the exact JSON used in the above
 screenshot.
 ``` JSON
 {
@@ -156,8 +156,8 @@ screenshot.
 
 The only thing left to do now is make our post, which will do by using
 another **Send an HTTP request to SharePoint** action, shown below.
-![9-post.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273140i458B2A73F9214744/image-size/large?v=v2&px=999 "9-post.png")
-This time, we\'ll be making a POST to the `_api/sitepages/pages/reposts`
+{{< image alt="9-post.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/9-post.png" >}}
+This time, we'll be making a POST to the `_api/sitepages/pages/reposts`
 endpoint (which is what SharePoint does when you post a news link).
 Our headers are only slightly more involved. Our endpoint is expecting
 to receive and will return JSON, so we need to include the appropriate
@@ -170,12 +170,12 @@ headers\...
 ```
 Last but not least, we need to include the **Output** of the compose
 action we created in the previous step so that SharePoint knows what
-we\'re sharing.
-Once that\'s all setup, go ahead and save.
+we're sharing.
+Once that's all setup, go ahead and save.
 ## Wrapping up 
 
-At this point, you\'re done developing. The only thing left to do is
-wait, really. Once new items are published to the RSS feed, you\'ll
+At this point, you're done developing. The only thing left to do is
+wait, really. Once new items are published to the RSS feed, you'll
 eventually see them start showing up in your News web parts!
-![10-done.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/273141i652ED9FBC12A650C/image-size/large?v=v2&px=999 "10-done.png")
+{{< image alt="10-done.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/10-done.png" >}}
 

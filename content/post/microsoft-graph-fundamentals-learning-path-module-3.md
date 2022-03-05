@@ -40,7 +40,7 @@ This module is supposed only to take 17 minutes to complete - timer set
 Our goal is to insert a user profile in our app that we already used in
 the last module. We will need to authenticate our user using Microsoft
 identity and receive an access token and call Microsoft Graph API with
-this token. - If you now wonder, \'wait, but why?\' it\'s a good idea to
+this token. - If you now wonder, 'wait, but why?' it's a good idea to
 reread part 2 of my summary or do the last module.
 
  
@@ -58,9 +58,9 @@ that:
 
  
 
-Let\'s do an exercise:
+Let's do an exercise:
 
-## Exercise - Use Microsoft Graph in your web application to retrieve a user\'s profile photo
+## Exercise - Use Microsoft Graph in your web application to retrieve a user's profile photo
 
 ### build upon module 2 
 
@@ -115,13 +115,13 @@ information that I can get from Microsoft Graph API.
  
 
 I wrote this summary of the whole learning path because I worked with
-Microsoft Graph before, and although I don\'t write (a lot) of code
+Microsoft Graph before, and although I don't write (a lot) of code
 daily, these modules felt doable - even if you are not a super
 experienced developer. I hope there will be even more cool content!
 
 If you now read this and wonder if you could build applications with
 Microsoft Graph as well: Yes, you can! To learn more - from developers,
-please join Microsoft\'s Learn Together event: [Building apps with
+please join Microsoft's Learn Together event: [Building apps with
 Microsoft Graph ](https://learntogether-graph.splashthat.com/)%20)on
 April 14!
 

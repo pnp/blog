@@ -28,7 +28,7 @@ and more particular, the Power Apps admin module.
 To install this module, execute the following command as a
 **local administrator**:
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 Install-Module -Name Microsoft.PowerApps.Administration.PowerShell
 ```
  
@@ -40,7 +40,7 @@ command to update it to the latest version available.
 Then to export user licenses data, you just need to execute the
 following command and replace the target file path to use:
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 Get-AdminPowerAppLicenses -OutputFilePath <PATH-TO-CSV-FILE>
 ```
  

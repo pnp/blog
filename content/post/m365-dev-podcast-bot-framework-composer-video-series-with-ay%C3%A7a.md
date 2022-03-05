@@ -10,7 +10,7 @@ draft: false
 
 ---
 Ayca and Bob return to the show to talk about a new video series that
-discusses the Who\'s Online bot created using Bot Framework Composer and
+discusses the Who's Online bot created using Bot Framework Composer and
 Cognitive Services.
 
 Listen to the show here: 

@@ -17,7 +17,7 @@ draft: false
 Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
 is great, I use it for all my command line work. It automatically
 detects new shells that are installed on your system, like the shell for
-Ubuntu or PowerShell Core 7. Unfortunately, it doesn\'t detect the
+Ubuntu or PowerShell Core 7. Unfortunately, it doesn't detect the
 Developer Command Prompt and Developer PowerShell for Visual Studio.
 Luckily, you can add them yourself!
 
@@ -36,7 +36,7 @@ Inside that `lists` array, you can add your additional profiles. In this
 case, for the Visual Studio command prompts, just use the following
 snippet:
 
-``` {.lia-code-sample .language-json}
+```json
             {
                 "name": "Developer PowerShell for VS 2019",
                 "commandline": "powershell.exe -noe -c \"&{$vsPath = &(Join-Path ${env:ProgramFiles(x86)} '\\Microsoft Visual Studio\\Installer\\vswhere.exe') -property installationpath; Import-Module (Join-Path $vsPath 'Common7\\Tools\\Microsoft.VisualStudio.DevShell.dll'); Enter-VsDevShell -VsInstallPath $vsPath -SkipAutomaticLocation}\"",

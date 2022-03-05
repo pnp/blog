@@ -107,7 +107,7 @@ me.
 
 
 ## See it in Action 
-Here I have an incoming email from the Xerox mailbox. I\'ve been sent me
+Here I have an incoming email from the Xerox mailbox. I've been sent me
 an attachment from the Xerox Mailbox. This will trigger my flow.
 {{< image alt="DamoBird365_8-1624210593508.png" src="images/blog/save-an-email-attachment-to-a-custom-path-with-power-automate/DamoBird365_8-1624210593508.png" >}}
  

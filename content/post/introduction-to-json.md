@@ -18,7 +18,7 @@ formats](https://docs.microsoft.com/sharepoint/dev/declarative-customization/col
 all written in JSON. And JSON is the de-facto standard for REST APIs
 like [Microsoft
 Graph](https://docs.microsoft.com/graph/overview?WT.mc_id=m365-00000-rogerman);
-you can\'t make a call without it. [Power
+you can't make a call without it. [Power
 Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/functions/function-json?WT.mc_id=m365-00000-rogerman), [Power
 Automate](https://docs.microsoft.com/power-automate/data-operations?WT.mc_id=m365-00000-rogerman),
 and [Power
@@ -26,12 +26,12 @@ BI](https://docs.microsoft.com/power-query/connectors/json?WT.mc_id=m365-00000-r
 all handle JSON too. It really is everywhere except, it seems, in older
 products which were written when XML was king.
 The intent of this article is to teach you what you need to know to use
-JSON in typical IT, low-code, or JavaScript development scenarios. It\'s
-organized in order from simple to complex; if you don\'t need some
+JSON in typical IT, low-code, or JavaScript development scenarios. It's
+organized in order from simple to complex; if you don't need some
 sections, just skip over them; you can always come back and read them
 later!
 
-![AdaptiveCardJSON.png](/t5/image/serverpage/image-id/245271i2E8CD8FAF7FA3C64/image-size/large?v=v2&px=999 "AdaptiveCardJSON.png")
+![AdaptiveCardJSON.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245271i2E8CD8FAF7FA3C64/image-size/large?v=v2&px=999 "AdaptiveCardJSON.png")
 
 
  Working with JSON in the [Adaptive Card
@@ -46,8 +46,8 @@ data in text files and to exchange data between programs over a network.
 JSON files usually have a `.json` filename extension.
 
 > Geek Note: JSON serves more or less the same purpose as XML
-> (eXtensible Markup Language) but it\'s shorter and easier to read. CSV
-> format serves a similar purpose as well, but it\'s not a standard so
+> (eXtensible Markup Language) but it's shorter and easier to read. CSV
+> format serves a similar purpose as well, but it's not a standard so
 > the details tend vary, and it can only store tables (rows and columns)
 > of data.
 
@@ -64,7 +64,7 @@ valid JSON, `{}`, represents an empty object. The JSON example above
 contains a single name/value pair; the name is `name` and the value
 is `"Parker"`. As you can see, the name and value are separated by
 a `:`. Names are case sensitive and need to be enclosed in double
-quotes. In this case, since \"Parker\" is a text value, it\'s enclosed
+quotes. In this case, since \"Parker\" is a text value, it's enclosed
 in double quotes as well. Spaces, tabs, and newlines are ignored in
 JSON, but are helpful for readability.
 
@@ -80,7 +80,7 @@ them with commas like this:
     }
 ```
 
-Note that the order of the name/value pairs doesn\'t matter; this JSON
+Note that the order of the name/value pairs doesn't matter; this JSON
 is equivalent to the one above:
 ```
     {
@@ -88,10 +88,10 @@ is equivalent to the one above:
       "name": "Parker"
     }
 ```
-The values don\'t need to be text like \"Parker\"; they can also be
+The values don't need to be text like \"Parker\"; they can also be
 numbers, booleans, collections, or more JSON objects. This allows you to
 have objects within objects.
-Here\'s a more complete description of the Quilled Crusader that uses
+Here's a more complete description of the Quilled Crusader that uses
 all of the JSON data types:
 ```
     {
@@ -128,13 +128,13 @@ the next few sections will explain each of them.
 
 ## Strings (Text) 
 
-Strings are just text that\'s part of the data, such
+Strings are just text that's part of the data, such
 as `"Parker"` or `"rodentia"`, and they need to be enclosed in double
 quotes. That seems simple enough, but what if your string has a double
 quote in it? `"Parker says "Sharing is caring""` is not a valid JSON
 value because the parser thinks the `"` before `Sharing` is the end of
 the string, and then it gets really confused. (Computers are really
-stupid, aren\'t they?) So to put a `"` within a string, you need to
+stupid, aren't they?) So to put a `"` within a string, you need to
 \"escape\" it by preceding it with a `\`. For example:
 
     {
@@ -156,7 +156,7 @@ While `"` and `\` are the only characters you *need* to escape, [a
 number of others are
 available](https://developpaper.com/escape-and-unicode-encoding-in-json-serialization/).
 You can also insert special characters using Unicode (UTF-16) character
-codes using the format \\uXXXX, but often it\'s easier to just type
+codes using the format \\uXXXX, but often it's easier to just type
 Unicode characters in your JSON.
 
 ```
@@ -169,7 +169,7 @@ Unicode characters in your JSON.
 ## Numbers
 
 
-Numeric values don\'t get quotes around them. For example, Parker\'s
+Numeric values don't get quotes around them. For example, Parker's
 length and weight are expressed as numbers.
 ```
     {
@@ -205,7 +205,7 @@ For boolean values, just use `true` and `false` with no quotes.
 
 All the JSON examples in this article so far have consisted of one JSON
 object with name/value pairs enclosed in a set of curly braces. But you
-don\'t need to limit yourself to one object! You can have as many
+don't need to limit yourself to one object! You can have as many
 objects as you want as values inside other objects. This nesting allows
 you to create a hierarchy.
 ```
@@ -253,7 +253,7 @@ or, more succinctly,
 ```
 
 Mascots could have any number of nicknames or none at all, and an array
-allows you to list them. Parker\'s sister Penny doesn\'t have any
+allows you to list them. Parker's sister Penny doesn't have any
 nicknames.
 ```
     {
@@ -300,11 +300,11 @@ look a little bit like a table!
 
 
 > MIND THE COMMAS! There must be exactly one (1) comma between
-> name/value pairs and array elements. It\'s really easy to misplace a
-> comma in JSON, especially if you\'re copying and pasting. Some people
+> name/value pairs and array elements. It's really easy to misplace a
+> comma in JSON, especially if you're copying and pasting. Some people
 > like to leave an extra comma after the last name/value pair or array
-> element to make it easier to re-arrange things, but that\'s cheating;
-> it\'s not part of the JSON standard and some applications won\'t
+> element to make it easier to re-arrange things, but that's cheating;
+> it's not part of the JSON standard and some applications won't
 > accept it.
 
 
@@ -316,12 +316,12 @@ use different date formats, which can be a bit maddening at times. The
 Microsoft Graph API uses [ISO 8601
 format](https://www.w3.org/TR/NOTE-datetime).
 Images and other binary objects are rarely included in JSON, but if you
-wanted to do that you\'d need to turn them into strings somehow, perhaps
+wanted to do that you'd need to turn them into strings somehow, perhaps
 by [Base64 encoding](https://en.wikipedia.org/wiki/Base64) them.
 
 ## Null 
 
-To indicate an empty value, use `null`. For example, Parker hasn\'t had
+To indicate an empty value, use `null`. For example, Parker hasn't had
 his DNA sequenced, so there is no value for that in his profile.
 ```
     {
@@ -331,7 +331,7 @@ his DNA sequenced, so there is no value for that in his profile.
 ```
 
 Note that `[]`, an empty array, and `{}`, an empty object, are different
-than `null`. They\'re empty containers whereas `null` is really nothing
+than `null`. They're empty containers whereas `null` is really nothing
 at all.
 
 ## Comments 
@@ -339,9 +339,9 @@ at all.
 If only JSON supported comments, we could write much more readable code!
 Officially there are no comments in JSON, but some products (like the
 SharePoint Framework) seem to encourage using JavaScript style comments
-in JSON. It seems harmless but it\'s not proper JSON, and most
+in JSON. It seems harmless but it's not proper JSON, and most
 applications will choke on them.
-One trick that\'s usually OK is to just add a few extra name/value pairs
+One trick that's usually OK is to just add a few extra name/value pairs
 in lieu of comments; most software will simply ignore the extra data.
 For example:
 ```
@@ -359,10 +359,10 @@ For example:
     }
 ```
 
-While it\'s not recommended, it
+While it's not recommended, it
 is [legal](https://tools.ietf.org/html/rfc8259#section-4) to have
 duplicate names in a JavaScript object, so you could have more than
-one `"comment"` if you\'re daring. This is valid JSON:
+one `"comment"` if you're daring. This is valid JSON:
 ```
     {
       "name": "Parker",
@@ -380,9 +380,9 @@ your JSON; [this one](https://jsonformatter.org/) does both.
 
 ## Schema support 
 
-It\'s often helpful to impose some structure on your JSON, specifying
+It's often helpful to impose some structure on your JSON, specifying
 which name/value pairs are required and what value types they should
-contain. That\'s the role of [JSON
+contain. That's the role of [JSON
 Schema](https://github.com/BobGerman/BlogArticles/blob/dev/Intro%20to%20JSON).
 This allows validating the JSON and offering features such as
 intellisense.
@@ -454,7 +454,7 @@ This would be expressed in JSON Schema as:
     }
 ```
 
-If this looks complicated, don\'t worry; there are many tools that will
+If this looks complicated, don't worry; there are many tools that will
 generate a schema from sample JSON. This is built into Power Apps and
 Power Automate, and you can generate a schema online using the [JSON
 Schema Validator and
@@ -491,10 +491,10 @@ relative path:
 ## OData 
 
 You may notice some name/value pairs in your JSON which look kind of odd
-and begin with `@odata`. For example, here\'s the beginning of the data
+and begin with `@odata`. For example, here's the beginning of the data
 returned by the Microsoft Graph
 call `https://graph.microsoft.com/v1.0/me/messages` (returns messages in
-the user\'s inbox):
+the user's inbox):
 ```
     {
       "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('19671429-1359-457f-bfc1-1be1ee65d4d9')/messages",
@@ -510,7 +510,7 @@ the user\'s inbox):
 [OData](https://www.odata.org/) is a standard for doing Create, Read,
 Update, and Delete (CRUD) operations on tabular data using a REST web
 service, and the Microsoft Graph uses it where appropriate. A folder of
-email messages is easily expressed as tabular data, so it\'s no surprise
+email messages is easily expressed as tabular data, so it's no surprise
 that the Graph uses OData to work with them.
 The name/value pairs beginning with `@odata.` are OData *control
 information* used to control the flow of data. For example the value
@@ -541,7 +541,7 @@ major differences between JSON and JavaScript are:
 
 Bottom line: **all JSON objects are valid JavaScript object literals but
 not all JavaScript object literals are valid JSON.**
-To convert between JSON and objects, use the `JSON` object that\'s built
+To convert between JSON and objects, use the `JSON` object that's built
 into JavaScript. This is preferable to using `eval` which is prone to
 security issues.
 To convert JSON to a JavaScript object:
@@ -559,7 +559,7 @@ To convert a JavaScript object to JSON:
 
     console.log(json);  // {"name":"Parker"}
 ```
-When you make a REST call, you end up using JSON as well. Here\'s a call
+When you make a REST call, you end up using JSON as well. Here's a call
 to the Microsoft Graph:
 ```{.highlight .highlight-source-js}
     // Assume Parker has logged in and a variable called accessToken contains
@@ -586,7 +586,7 @@ built right in to turn the returned JSON into a JavaScript object.
 ## Conclusion 
 
 Learning to work with JSON is an important skill for both low-code and
-full stack developers, as well as for many IT Pro tasks. Here\'s hoping
+full stack developers, as well as for many IT Pro tasks. Here's hoping
 this article has helped you to understand and use JSON in your next
 project!
 (This article is [cross-posted

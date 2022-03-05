@@ -1,5 +1,5 @@
 ---
-title: "What\\'s up with Markdown?"
+title: "What\'s up with Markdown?"
 date: 2021-05-04T03:54:00-04:00
 author: "Bob German"
 categories: ["Tooling"]
@@ -11,13 +11,13 @@ type: "regular"
 draft: false
 
 ---
-[Perhaps you\'ve noticed a technology called Markdown that\'s been
+[Perhaps you've noticed a technology called Markdown that's been
 showing up in a lot of web sites and apps lately. This article will
 explain Markdown and help you get started reading and writing
 it.
 
 Markdown is a simple way to format text using ordinary punctuation
-marks, and it\'s very useful in Microsoft 365. For example, [Microsoft
+marks, and it's very useful in Microsoft 365. For example, [Microsoft
 Teams supports markdown
 formatting](https://support.microsoft.com/en-us/office/use-markdown-formatting-in-teams-4d10bd65-55e2-4b2d-a1f3-2bebdcd2c772?WT.mc_id=m365-27330-rogerman) in
 chat messages and SharePoint has a [Markdown web
@@ -29,24 +29,24 @@ approvals](https://docs.microsoft.com/en-us/power-automate/approvals-markdown-su
 For the bot builders among us, [Bot Composer language
 generation](https://docs.microsoft.com/en-us/composer/concept-language-generation?WT.mc_id=m365-27330-rogerman) and [QnA
 Maker](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/reference-markdown-format?WT.mc_id=m365-27330-rogerman) both
-support markdown as well. And what\'s at the top level of nearly every
+support markdown as well. And what's at the top level of nearly every
 Github repo? You guessed it, a markdown file called README.md.
 
-Imagine you\'re texting someone and all you have to work with is
+Imagine you're texting someone and all you have to work with is
 letters, numbers, and a few punctuation marks. If you want to get their
-attention, you might use `**asterisks**`, right? If you\'ve ever done
+attention, you might use `**asterisks**`, right? If you've ever done
 that, then you were already using Markdown! Double asterisks make the
 text **bold**.
 
 
-Now imagine you\'re replying to an email and want to quote what someone
+Now imagine you're replying to an email and want to quote what someone
 said earlier in the thread. Many people use a little greater-than sign
 like this:
 
     Parker said,
     > Sharing is caring
 
-Guess what, that\'s Markdown too! When it\'s displayed, it looks like
+Guess what, that's Markdown too! When it's displayed, it looks like
 this:
 
 Parker said,
@@ -72,24 +72,24 @@ formatting clues people type naturally. So you can type
 something `_in italics_` on the screen and it actually appears *in
 italics.*
 
-In all cases you\'re starting with plain text - the stuff that comes out
+In all cases you're starting with plain text - the stuff that comes out
 of your keyboard and is edited with Notepad or Visual Studio Code - into
-something richer. (Spoiler alert: it\'s HTML.)
+something richer. (Spoiler alert: it's HTML.)
 
  
 
 > What about emojis? 😊
 
-Markdown neither helps nor blocks emojis, they\'re just characters. If your application can handle emojis, you can certainly include them in your markdown.
+Markdown neither helps nor blocks emojis, they're just characters. If your application can handle emojis, you can certainly include them in your markdown.
 
 ## Commonly used Markdown 
 
-Markdown isn\'t a formal standard, and a lot of variations have emerged.
+Markdown isn't a formal standard, and a lot of variations have emerged.
 It all started at [Daring Fireball](https://daringfireball.net/); most
 implementations are faithful to the original but many have added their
 own features. For example, the SharePoint Markdown Web Part uses
-the [\"Marked\" syntax](https://marked.js.org/); if you\'re creating a
-README.md file for use in Github, you\'ll want to use [Github Flavored
+the [\"Marked\" syntax](https://marked.js.org/); if you're creating a
+README.md file for use in Github, you'll want to use [Github Flavored
 Markdown (GFM)](https://github.github.com/gfm/).
 
  
@@ -274,10 +274,10 @@ Just put a asterisk or dash in front of a line that should be bulleted.
 ##### Result:
 
 1.  Beginning a line with a number makes it a list item.
-2.  You don\'t need to put a specific number; Markdown will renumber for
+2.  You don't need to put a specific number; Markdown will renumber for
     you
 3.  This is handy if you move items around
-    1.  Don\'t forget you can indent to get sub-items
+    1.  Don't forget you can indent to get sub-items
         1.  Or sub-sub-items
 4.  Another item
 
@@ -301,9 +301,9 @@ using \"markdown\" as the language!) For example to show some HTML:
 
 ### 10. Tables
 
-Tables are not universally supported but they\'re so useful they had to
+Tables are not universally supported but they're so useful they had to
 be part of this article. Here is a simple table. Separate columns with
-pipe characters, and don\'t worry about making things line up; Markdown
+pipe characters, and don't worry about making things line up; Markdown
 will handle that part for you.
 
 ##### Markdown:
@@ -321,24 +321,24 @@ will handle that part for you.
   Value 1a   Value 2a   Value 3a
   Value 1b   Value 2b   Value 3b
 
-MVP Luise Freese also pointed out that there\'s a great [Markdown tables
+MVP Luise Freese also pointed out that there's a great [Markdown tables
 generator here](https://www.tablesgenerator.com/markdown_tables); looks
 like a big timesaver!
 
 ## HTML and Markdown
 
-Markdown doesn\'t create any old formatted text - it specifically
+Markdown doesn't create any old formatted text - it specifically
 creates HTML. In fact, it was designed as a shorthand for HTML that is
 easier for humans to read and write.
 
 Many Markdown implementations allow you to insert HTML directly into the
 middle of your Markdown; this may be limited to certain HTML tags
-depending on the application. So if you know HTML and you\'re not sure
+depending on the application. So if you know HTML and you're not sure
 how to format something in Markdown, try including the HTML directly!
 
 ## Editing Markdown {#toc-hId--1800629526}
 
-If you\'d like to play with Markdown right now, you might like to try
+If you'd like to play with Markdown right now, you might like to try
 the [Markdown Previewer](https://mdpreviewer.github.io/) where you can
 type and preview Markdown using any web browser.
 
@@ -347,14 +347,14 @@ built-in preview facility. Check the [VS Code Markdown
 documentation](https://code.visualstudio.com/Docs/languages/markdown?WT.mc_id=m365-27330-rogerman) for
 details.
 
-There\'s a whole ecosystem of tools around Markdown including converters
+There's a whole ecosystem of tools around Markdown including converters
 for Microsoft Word and stand-alone editing apps; these are really too
 numerous to list but are easy to find by [searching the
 web](https://www.bing.com/search?q=markdown+tool).
 
 ## Legacy
 
-From vinyl records to 8-bit games and static web sites, there\'s a trend
+From vinyl records to 8-bit games and static web sites, there's a trend
 these days to rediscover simpler technologies from the past. Markdown
 definitely falls into this category.
 
@@ -367,10 +367,10 @@ tools, but adds HTML compatibility and an intuitive syntax.
 ## Conclusion
 
 While it may seem unfamiliar at first, Markdown is intended to make it
-easy for people to read and write HTML. Whether you\'re a power user, IT
-admin, or developer, you\'re bound to run into Markdown sooner or later.
-Here\'s hoping this article makes it a little easier to get started!
+easy for people to read and write HTML. Whether you're a power user, IT
+admin, or developer, you're bound to run into Markdown sooner or later.
+Here's hoping this article makes it a little easier to get started!
 
 For more information please check out Cloud Advocate [April
-Dunnam\'s](https://developer.microsoft.com/en-us/advocates/april-dunnam)
+Dunnam's](https://developer.microsoft.com/en-us/advocates/april-dunnam)
 excellent video on Markdown!

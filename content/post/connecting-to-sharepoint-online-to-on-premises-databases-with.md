@@ -3,7 +3,6 @@ title: "Connecting to SharePoint Online to On-Premises Databases with SharePoint
 date: 2021-10-18T04:08:00-04:00
 author: "Simon Doy"
 categories: ["SharePoint", "Power Apps"]
-images: []
 tags: []
 type: "regular"
 draft: false
@@ -113,7 +112,7 @@ The Azure Hybrid Connection is set up in two places.
 The hybrid connection service establishes a connection to the Azure App
 Service through Azure Relay which is built on top of Service Bus.
 
-![Diagram explaining the architecture of Azure Hybrid Connections.](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/317181i5F1AD7F0944D95D9/image-size/medium?v=v2&px=400 "hybridconn-connectiondiagram.png")
+{{< image alt="Diagram explaining the architecture of Azure Hybrid Connections." src="images/blog/connecting-to-sharepoint-online-to-on-premises-databases-with/hybridconn-connectiondiagram.png" >}}
  
 To set up the Hybrid Connection in Azure App Service you must be running
 at least the Basic Tier or above.

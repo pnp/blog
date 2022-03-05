@@ -13,10 +13,10 @@ draft: false
 
 ## Use Cases
 
--   You\'re migrating list items from a tenant to another using
+-   You're migrating list items from a tenant to another using
     back-office app (console app or Azure SaaS resource) and want to
     keep existing fields, including author / editor ones
--   You\'re developing an API
+-   You're developing an API
     / Web App that will be used by employees which data is saved to a SharePoint List without 
     being in user context (because you want to make some background
     checks before saving)
@@ -25,13 +25,13 @@ When working with SharePoint in App-Only
 context, every update made on list items are done with the user \"SharePoint App\".
 But you can replace this by any user of the company!
 
-One important thing to know is that the Azure AD Application that will be used must be granted to \"Sites.FullControl.All\", in order to update the Author / Editor field. Lower permissions won\'t let you update them.]{.underline}
+One important thing to know is that the Azure AD Application that will be used must be granted to \"Sites.FullControl.All\", in order to update the Author / Editor field. Lower permissions won't let you update them.]{.underline}
 
 
 ## Summary 
 
 
-In this article, we\'ll cover the following steps:
+In this article, we'll cover the following steps:
 
 -   Setup the AAD Application
     -   Generate self-signed certificate
@@ -40,12 +40,12 @@ In this article, we\'ll cover the following steps:
 -   Update list item Author / Editor fields with any other user than
     \"SharePoint App\"
 
-We\'ll use [PnP PowerShell](https://pnp.github.io/powershell/), [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) and [PnP Framework](https://github.com/pnp/pnpframework)!
+We'll use [PnP PowerShell](https://pnp.github.io/powershell/), [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) and [PnP Framework](https://github.com/pnp/pnpframework)!
 
 
 ## Setup the AAD Application 
 
-The first thing to do is to register an application in Azure AD. As we\'ll use the [client credential flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) with a certificate, we first need to create a certificate.
+The first thing to do is to register an application in Azure AD. As we'll use the [client credential flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) with a certificate, we first need to create a certificate.
 
 
 ### Setup using PnP PowerShell 
@@ -54,7 +54,7 @@ With PnP PowerShell, a simple command is enough to both declare
 self-signed certificate and register AAD Application with permissions
 using this certificate:
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 # Beware to mention an existing path in the -OutPath parameter, otherwise you won't get your certificate available
 Register-PnPAzureADApp -ApplicationName "PnP.SharePoint.AppOnly" -Tenant contoso.onmicrosoft.com -OutPath c:\temp -CertificatePassword (ConvertTo-SecureString -String "password" -AsPlainText -Force) -SharePointApplicationPermissions "Sites.FullControl.All" -Store CurrentUser -DeviceLogin
 ```
@@ -79,7 +79,7 @@ You can find more info about the command [here](https://pnp.github.io/po
 
 
 
-For now there\'s no option to: 
+For now there's no option to: 
 
 
 -   generate both a self-signed certificate and register an AAD Application using it, in a single command. Requested [here](https://github.com/pnp/cli-microsoft365/issues/2170)
@@ -105,7 +105,7 @@ With PnP PowerShell command [New-PnPAzureCertificate](https://pnp.github.io/
 
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 New-PnPAzureCertificate -OutCert "PnP.SharePoint.AppOnly.cer" -OutPfx "PnP.SharePoint.AppOnly.pfx" -ValidYears 1  -CertificatePassword (ConvertTo-SecureString -String "password" -AsPlainText -Force) -CommonName "PnP.SharePoint.AppOnly"
 ```
 
@@ -126,7 +126,7 @@ With [OpenSSL:](https://www.openssl.org/docs/manmaster/man1/)
 
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 # Replace the -nodes argument by -noenc if you're using OpenSSL 3.0, to disable encryption, since it will be done right after with the pfx file generation
 openssl req -new -x509 -sha256 -newkey rsa:2048 -nodes -keyout PnP.SharePoint.AppOnly.key.pem -days 365 -out PnP.SharePoint.AppOnly.cert.pem -subj "/CN=contoso.com"
 
@@ -142,18 +142,18 @@ self-signed one (with private key RSA 2048 bits) which expires in 1
 year.
 The \".cer.pem\" exported file will be used for Azure AD Application registration.
 The second command will generate the PFX file with a password, from both the private key input file (\".key.pem\") and the certificate request (\".cert.pem\") one. This one will be used for authentication,
-we\'ll see about that later.
+we'll see about that later.
 #### Register the AAD Application 
 
 
 
-Once the certificate generated, we\'ll setup the app registration with the following command:
+Once the certificate generated, we'll setup the app registration with the following command:
 
 
 
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad app add --name 'PnP.SharePoint.AppOnly' --apisApplication 'https://microsoft.sharepoint-df.com/Sites.FullControl.All'
 ```
 
@@ -177,7 +177,7 @@ Once done, stay on the AAD Application page and go to **Certificates�
 
 
 
-Once everything\'s set for App-Only context, let\'s authenticate to SharePoint and update our list item!
+Once everything's set for App-Only context, let's authenticate to SharePoint and update our list item!
 
 
 
@@ -195,12 +195,12 @@ The simpliest way is to use the PFX file created before, to get a 
 
 
 
-Let\'s try with a simple Console App:
+Let's try with a simple Console App:
 
 
  
 
-``` {.lia-code-sample .language-csharp}
+```csharp
 static void Main(string[] args)
 {
     string aadAppId = "[AAD_APP_ID]"; // Get Application ID / Client ID from the registration made before
@@ -247,7 +247,7 @@ static void Main(string[] args)
 
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 $aadAppId = "[AAD_APP_ID]" # Get Application ID / Client ID from the registration made before
 $pfxFilePath = "[PFX_FILE_PATH]" # Like this: C:\\temp\\PnP.SharePoint.AppOnly.pfx
 $pfxPassword = (ConvertTo-SecureString -String "[PFX_PASSWORD]" -AsPlainText -Force) # For this example, it's "password"
@@ -274,7 +274,7 @@ Set-PnPListItem -List $listId -Identity $lisItemId -Values @{"Editor"="meganb@" 
 
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 aadAppId="[AAD_APP_ID]" # Get Application ID / Client ID from the registration made before
 pfxFilePath="[PFX_FILE_PATH]" # Like this: /home/PnP.SharePoint.AppOnly.pfx
 pfxPassword="[PFX_PASSWORD]" # For this example, it's "password"
@@ -295,7 +295,7 @@ m365 spo listitem set --listId $listId --id $lisItemId --webUrl $spWeb --Editor 
 
 
 
-And that\'s
+And that's
 it! You should now be able to update those specific fields in any way !
 
 Happy coding!

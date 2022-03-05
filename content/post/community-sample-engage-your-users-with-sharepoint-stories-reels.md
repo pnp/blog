@@ -17,12 +17,12 @@ sample, I built an SPFx webpart to do so. Here is how I did it, but
 first, this is how it looks:
 
 
-![SharePoint stories webpart](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278314iFFA5B4E9D621B5AC/image-size/large?v=v2&px=999 "1-sp-stories.png")
+{{< image alt="SharePoint stories webpart" src="images/blog/community-sample-engage-your-users-with-sharepoint-stories-reels/1-sp-stories.png" >}}
 
 What we need first, is a SharePoint list that will contain all the
 "story images", with the author of that story, and some Text, if we want
 to show the "show more" option. This list will be something like this:
-![SP List](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278340iE672AF450D53E155/image-size/large?v=v2&px=999 "2-sp-list.png")
+{{< image alt="SP List" src="images/blog/community-sample-engage-your-users-with-sharepoint-stories-reels/2-sp-list.png" >}}
 
 
 Now it is time to code our SPFx webpart.
@@ -33,7 +33,7 @@ find in its GitHub
 component does most of the hard work with the image slide and so on. In
 its most simple way, the component just needs an array of images:
 
-![react package](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278338iE1946C401F3704C4/image-size/large?v=v2&px=999 "3-react-insta-stories-library.png")
+{{< image alt="react package" src="images/blog/community-sample-engage-your-users-with-sharepoint-stories-reels/3-react-insta-stories-library.png" >}}
  
 But you can also specify an array of Story objects, where a Story can
 have the following properties:
@@ -50,12 +50,12 @@ avoid this practice, and only pass what you need.
 This is the main code in the Render webpart method:
 
 
-![SPFx Webpart render](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278337i1D5C59EB4D2464A7/image-size/large?v=v2&px=999 "5-webpart-render.png")
+{{< image alt="SPFx Webpart render" src="images/blog/community-sample-engage-your-users-with-sharepoint-stories-reels/5-webpart-render.png" >}}
  
 Once in the main React component, we are calling the SharePoint REST API
 to get the stories from the list. To do so, I am using the endpoint:
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 /_api/web/lists/GetByTitle('Stories')/RenderListDataAsStream
 ```
  
@@ -79,7 +79,7 @@ Header property, however, the Story object allow us to specify a custom
 render function for the entire Story, and in that function, we can use
 the Person component. This is the relevant code to achieve it:
 
-![Story custom render function](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278342i51A8B3D5BFC00D11/image-size/large?v=v2&px=999 "7-story-render.png")
+{{< image alt="Story custom render function" src="images/blog/community-sample-engage-your-users-with-sharepoint-stories-reels/7-story-render.png" >}}
  
 The *storyRenderer* function is the one responsible for rendering the
 Story, and there, we use the GMT Person component. As you can see in the

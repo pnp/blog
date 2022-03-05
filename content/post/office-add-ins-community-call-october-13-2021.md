@@ -15,7 +15,7 @@ draft: false
 
 ## Call Summary 
 
-This month\'s community call features presentations - **Word API
+This month's community call features presentations - **Word API
 updates** (extensibility API updates - Word Online Only APIs, Bookmarks
 APIs, Shared Runtime Support, and Upcoming APIs), **Outlook on Mac API
 updates** (new extensibility updates -- Mailbox 1.9 GA, Upcoming --
@@ -71,11 +71,11 @@ how to create and bind to content controls. If there are specific
 scenarios you want to see in a demo or sample, please create an issue at
 <https://github.com/OfficeDev/PnP-OfficeAddins>. This is where we
 publish new samples and it would be great to learn more about what
-you\'d like to see in the sample!
+you'd like to see in the sample!
 **Are there any plans to allow activating Outlook add-ins to include
-examining email headers? I\'ve raised the issue on Developer Platform
+examining email headers? I've raised the issue on Developer Platform
 already but wanted to know if it had come up internally.**
-We don\'t have plans to enable examining email headers at this time. It
+We don't have plans to enable examining email headers at this time. It
 looks like a feature request was created for this idea at
 [https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/activate-contextual-add-ins-\...](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/activate-contextual-add-ins-using-regex-based-on-headers-in/idi-p/2781149).
 If developers can upvote or tell us more about this scenario that will
@@ -84,7 +84,7 @@ help in our planning down the road.
 \
 **Can we please have the ability for admins to pin Office Add-ins to the
 toolbar in the new Outlook experience?**
-We don\'t have plans to support pinning Office Add-ins at this time. If
+We don't have plans to support pinning Office Add-ins at this time. If
 you could create a feature request at
 <https://aka.ms/m365dev-suggestions> and tell us more about this
 scenario that will help in our planning.
@@ -104,8 +104,8 @@ Excel, PowerPoint) to close files with similar options/behaviors? **
 Back in November 2020, we had PowerPoint save and close methods on the
 roadmap. Unfortunately, we had to shift resources and reprioritize, and
 these are no longer on the roadmap. So we apologize about the confusion
-on the planning for these methods. We can\'t guarantee the roadmap
-won\'t change over time but we try to stick to the roadmap as much as we
+on the planning for these methods. We can't guarantee the roadmap
+won't change over time but we try to stick to the roadmap as much as we
 can.
 
 The best way to keep these methods on our planning radar is to request
@@ -116,8 +116,8 @@ So if you or anyone is interested in these methods, please upvote and
 let us know more about your scenarios.
 
 \
-**We\'d like to hear more about the roadmap of Office.js development for
-PowerPoint automation. We\'re interested in the following
+**We'd like to hear more about the roadmap of Office.js development for
+PowerPoint automation. We're interested in the following
 functionalities: Creating new slides based on different master slide
 templates, mass updates of footers, and mass updates of text string that
 follow certain logic (similar to Word placeholders).**
@@ -127,7 +127,7 @@ API which supports [slide master
 options](https://docs.microsoft.com/javascript/api/powerpoint/powerpoint.addslideoptions?view=powerpoint-js-preview#slideMasterId)
 (currently in beta).
 
-We don\'t have footer manipulation APIs, or find and replace logic
+We don't have footer manipulation APIs, or find and replace logic
 similar to PowerPoint. Please tell us more about these scenarios by
 creating a feature request at <https://aka.ms/m365dev-suggestions>.
 
@@ -141,9 +141,9 @@ them available cross-platform in the future.
 **Is it possible to download the full beta API library locally instead
 of using the CDN endpoint at
 <https://appsforoffice.microsoft.com/lib/beta/hosted/office.js>? The
-non-beta library can be downloaded using NuGet, but I can\'t seem to
+non-beta library can be downloaded using NuGet, but I can't seem to
 find the beta.**
-We don\'t provide a preview (beta) version of the office.js library to
+We don't provide a preview (beta) version of the office.js library to
 be used in offline scenarios. For more information on offline target
 scenarios, see <https://www.npmjs.com/package/@microsoft/office-js>.
 
@@ -155,13 +155,13 @@ library](https://docs.microsoft.com/office/dev/add-ins/develop/referencing-the-j
 
 **Will the BeforeSave and BeforeClose events be coming for Excel? Will
 the ability to turn AutoSave off and on be coming for Excel?**
-The BeforeClose event is on our backlog, but we don\'t yet have an ETA
+The BeforeClose event is on our backlog, but we don't yet have an ETA
 for when it will be ready.
 The BeforeSave event is not on our roadmap. The ability to turn AutoSave
-off and on is also not on our roadmap. Currently, we\'re focusing on
+off and on is also not on our roadmap. Currently, we're focusing on
 building out APIs that apply to all platforms (web, Windows, Mac,
 mobile.) These features only apply to desktop platforms because web is
-AutoSave by default. But we\'d like to understand more about your
+AutoSave by default. But we'd like to understand more about your
 scenario. Please submit a feature request for this at
 <https://aka.ms/m365dev-suggestions>.
 

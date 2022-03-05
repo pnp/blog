@@ -3,7 +3,6 @@ title: "CLI for Microsoft 365 v3.8"
 date: 2021-03-30T10:00:00-04:00
 author: "Garry Trinder"
 categories: ["CLI for Microsoft 365"]
-images: []
 tags: []
 type: "regular"
 draft: false
@@ -117,7 +116,7 @@ entire organization they are assigned to.
 Administrators currently need to call multiple endpoints in the
 Microsoft Graph to return a list of policies based on policy type, as
 there are eight types of policies that can be listed this is not a
-trivial task, so we have We\'ve introduced a single command that can
+trivial task, so we have We've introduced a single command that can
 return all policies created or policies of a specific type.
 
 
@@ -186,11 +185,11 @@ use in a SharePoint Framework (SPFx) project.
 
 
  
-### List all Microsoft Teams team\'s Owners and Members 
+### List all Microsoft Teams team's Owners and Members 
  
 
 
-This script helps you to [list all Teams team\'s owners and
+This script helps you to [list all Teams team's owners and
 members](https://pnp.github.io/cli-microsoft365/sample-scripts/teams/list-teams-owners-and-members/) and
 export them into a CSV file.
 
@@ -248,7 +247,7 @@ different workloads in Microsoft 365.
 
 
 Microsoft keeps investing in modern SharePoint pages continuously
-introducing new capabilities to let us publish rich content. We\'re
+introducing new capabilities to let us publish rich content. We're
 looking into extending our support for managing modern SharePoint pages
 to let you use them to their full potential.
 
@@ -259,8 +258,8 @@ to let you use them to their full potential.
  
 
 
-Recently, we\'ve introduced a command to easily create Azure AD app
-registrations. Because they\'re backbone of every app you\'d build on
+Recently, we've introduced a command to easily create Azure AD app
+registrations. Because they're backbone of every app you'd build on
 Microsoft 365, we think you should be able to create them as easily as
 possible. So with CLI for Microsoft 365, you can create a fully
 configured Azure AD app for the most common scenarios with just one line
@@ -297,15 +296,15 @@ with us so that we can learn more about the common automation scenarios.
 
 
 
-### \'ensure\' commands 
+### 'ensure' commands 
  
 
 
-We\'ve just shipped our first ensure command - an easy way to help you
-that a site with specific settings exists. If it doesn\'t, CLI creates
+We've just shipped our first ensure command - an easy way to help you
+that a site with specific settings exists. If it doesn't, CLI creates
 it for you, if it does, CLI ensures it has the right properties. All in
-one line of code. We\'d love to hear from you how you like it and if
-it\'s something you\'d like us to implement for other commands as well.
+one line of code. We'd love to hear from you how you like it and if
+it's something you'd like us to implement for other commands as well.
 
 
  

@@ -17,7 +17,7 @@ Many times we have a requirement like to get users or user profile
 properties from any SharePoint site collection and we need it in CSV or
 Excel format. so to achieve this solution we will use PnP Powershell. 
  
-Let\'s see step-by-step implementation.
+Let's see step-by-step implementation.
  
 ## Prerequisites 
 \
@@ -27,7 +27,7 @@ below commands to install PnP PowerShell and AzuerAD Modules\
 Install PnP PowerShell Module,
  
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 Install-Module SharePointPnPPowerShellOnline -Scope CurrentUser  
 ```
  
@@ -51,7 +51,7 @@ So at the end, our script will be like this,
  
  
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 $basePath = #base path where you want to save CSV file("D:\Chandani\...\")
 $dateTime = "{0:MM_dd_yy}_{0:HH_mm_ss}" -f (Get-Date)
 $csvPath = $basePath + "\userdetails" + $dateTime + ".csv"

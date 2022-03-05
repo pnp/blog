@@ -106,7 +106,7 @@ colorful clothing.   Great to see you.     
     to manage list subscriptions and notifications and then uses
     getListActivities to get particulars on the activity. 
 
--   **Using OneDrive Apps folder to save user\'s preferences
+-   **Using OneDrive Apps folder to save user's preferences
     cross-device** -- an SPFx web part for saving user settings or
     preferences (i.e., dark/light theme, temporary secrets, etc.) in the
     OneDrive Apps folder.   Web part calls Microsoft Graph API. 
@@ -174,7 +174,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     [\@joaojmendes](/t5/user/viewprofilepage/user-id/442957) --
     [30:53](https://youtu.be/jJGkhttndU0?t=1853)
 
--   **Demo:**  Using OneDrive Apps folder to save user\'s preferences
+-   **Demo:**  Using OneDrive Apps folder to save user's preferences
     cross-device -- [**Giuliano De
     Luca**](http://twitter.com/DeLucaGiulian) **\|**
     [\@delucagiulian](/t5/user/viewprofilepage/user-id/1038317)

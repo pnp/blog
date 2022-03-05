@@ -25,7 +25,7 @@ Topics discussed in this session include:
 
  
 
--   April\'s currently role and focus areas as a Cloud Advocate
+-   April's currently role and focus areas as a Cloud Advocate
 -   Her experiences while starting her career in IT with her role models
     being for example [Cathy Dew](https://twitter.com/catpaint1)
     (Microsoft) and [Laura Rodgers](https://twitter.com/WonderLaura) (IW
@@ -141,7 +141,7 @@ everyone for your contributions to the community!\
 -   [LearnTogether: Build Apps with Microsoft Graph
     🦒](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/learntogether-build-apps-with-microsoft-graph/ba-p/2274619)
     - [Luise Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
--   [FAQ\'s in a Document
+-   [FAQ's in a Document
     Card](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/faq-s-in-a-document-card/ba-p/2272347) -
     [Sam Colins](https://twitter.com/SamC148) (Coupled Technology)
     \| \@SamC148

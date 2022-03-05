@@ -676,7 +676,7 @@ Pialorsi](http://twitter.com/paolopia) \| \@paolopia. 
  
 
 Topics discussed in this session include the SharePoint 20^th^
-anniversary party, changes in PnP since Paolo\'s last appearance as a
+anniversary party, changes in PnP since Paolo's last appearance as a
 guest on the show 2 years ago, PnP Provisioning Engine, the value of the
 PnP Core SDK, and the scoop on Paolo's weekly video tutorials.  A very
 interesting deep dive on the approach behind PnP Sites Core library (Now
@@ -824,7 +824,7 @@ everyone for your contributions to the community!\
 -   [Ignite 2021 announcements summary - Teams, Power Platform, Azure,
     Security and
     Compliance](https://www.sharepointnutsandbolts.com/2021/03/Ignite-2021-announcements.html) -
-    [Chris O\'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
+    [Chris O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
     \| \@ChrisO_Brien
 
 Additional resources:

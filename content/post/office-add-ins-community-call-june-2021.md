@@ -15,7 +15,7 @@ draft: false
 
 ## Call Summary: 
 
-This month\'s community call features presentations - Excel v1.13 API
+This month's community call features presentations - Excel v1.13 API
 updates (highlights 2 new APIs  **insertWorksheetFromBase64** and
 **onFormulaChanged** event), Outlook Add-ins - Build 2021 recap (GA for
 **Event- Driven Add-in with onCompose Event** and for **Mailbox 1.10 for
@@ -31,7 +31,7 @@ guest presenters James Wayne and Phillip Vetter from Exclaimer Cloud. 
 Recorded on June 9, 2021.
 ## Agenda: 
 
-June\'s call, hosted by **David Chesnut**, featured the following
+June's call, hosted by **David Chesnut**, featured the following
 presenters and topics:
 
 -   **Excel API updates** -- Raymond Lu (Microsoft) -
@@ -85,7 +85,7 @@ Add-in? Which ones are the recommended ones to use?**
 
 
  In general you can use most web libraries with an Office Add-in. For
-SSO you don\'t need an authentication library to get the user identity
+SSO you don't need an authentication library to get the user identity
 token, since you just call
 [**getAccessToken**](https://docs.microsoft.com/javascript/api/office-runtime/officeruntime.auth?view=excel-js-preview#getAccessToken_options_)().
 However, you should implement a fallback sign-in dialog for scenarios
@@ -100,13 +100,13 @@ Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/sso-in-office-
 
 **I am attempting to implement the shared JavaScript runtime. However, I
 get an error when adding the \<Runtimes> section. The error is: The
-element \'Host\' in namespace
-\'**[**http://schemas.microsoft.com/office/taskpaneappversionoverrides**](http://schemas.microsoft.com/office/taskpaneappversionoverrides)**\'
-has invalid child element \'Runtimes\' in namespace
-\'**[**http://schemas.microsoft.com/office/taskpaneappversionoverrides**](http://schemas.microsoft.com/office/taskpaneappversionoverrides)**\'.
-List of possible elements expected: \'AllFormFactors,
-DesktopFormFactor\' in namespace
-\'**[**http://schemas.microsoft.com/office/taskpaneappversionoverrides**](http://schemas.microsoft.com/office/taskpaneappversionoverrides)**\'.**
+element 'Host' in namespace
+'**[**http://schemas.microsoft.com/office/taskpaneappversionoverrides**](http://schemas.microsoft.com/office/taskpaneappversionoverrides)**'
+has invalid child element 'Runtimes' in namespace
+'**[**http://schemas.microsoft.com/office/taskpaneappversionoverrides**](http://schemas.microsoft.com/office/taskpaneappversionoverrides)**'.
+List of possible elements expected: 'AllFormFactors,
+DesktopFormFactor' in namespace
+'**[**http://schemas.microsoft.com/office/taskpaneappversionoverrides**](http://schemas.microsoft.com/office/taskpaneappversionoverrides)**'.**
 
 This error can occur if the \<Runtimes> section is not in the expected
 location. Be sure to put the \<Runtimes> section just below the \<Host>

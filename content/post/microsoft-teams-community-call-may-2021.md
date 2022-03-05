@@ -152,7 +152,7 @@ slides.
 -   Quick Start Guide - [Work with Universal Actions for Adaptive
     Cards](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/work-with-universal-actions-for-adaptive-cards)  
 
--   Blog - [Rick\'s blog](https://www.rickvanrousselt.com/) 
+-   Blog - [Rick's blog](https://www.rickvanrousselt.com/) 
 
 -   PnP Weekly -- Episode 127 with guest MVP [Rick van
     Rousselt](http://twitter.com/RickVanRousselt) (Advantive) \|
@@ -219,7 +219,7 @@ slides.
 
  
 
-Microsoft Teams monthly community calls are targeted at anyone who\'s
+Microsoft Teams monthly community calls are targeted at anyone who's
 interested in Microsoft Teams development topics. This includes
 Microsoft Teams, Bots, App templates, Samples, and more.  Details on the
 Microsoft 365 community

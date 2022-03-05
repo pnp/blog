@@ -28,7 +28,7 @@ post](https://www.loryanstrant.com/2021/09/16/how-to-display-the-currently-playi
 fellow MVP Loryan Strant who also used this Spotify connector to change
 the pinned message of your status in Microsoft Teams. To get the most
 value out of this post, go read Loryans post first- it is written with
-great clarity and also I love this guys\' taste of music
+great clarity and also I love this guys' taste of music
 :musical_notes:! Also please understand his flow first. I love the idea
 and creativity! The result of such a flow looks like this:
 

@@ -112,7 +112,7 @@ demand. 
     in the
     URL](https://docs.microsoft.com/power-bi/collaborate-share/service-url-filters) 
 
--   D2: Video -- [Strategyzer\'s Value Proposition Canvas
+-   D2: Video -- [Strategyzer's Value Proposition Canvas
     Explained](https://www.youtube.com/watch?v=ReM1uqmVfP0) 
 
 -   D2:  Template -- [Value Proposition Canvas --

@@ -124,9 +124,9 @@ CLI for Microsoft 365 contains a number of commands for managing
 SharePoint Online. Each of these commands requires you to specify the
 site or web on which you want to execute the command. For example, to
 get information about a site collection located at
-https://contoso.sharepoint.com/sites/contoso, you\'d execute:
+https://contoso.sharepoint.com/sites/contoso, you'd execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo site get --url https://contoso.sharepoint.com/sites/contoso
 ```
 \
@@ -134,16 +134,16 @@ If you executed an *spo* command previously, CLI for Microsoft 365
 already knows the hostname of your SharePoint Online tenant. In such
 case, you can use a server-relative URL as well:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo site get --url /sites/contoso
 ```
 \
 If you try to use a server-relative URL but CLI for Microsoft 365
-doesn\'t know of your SharePoint Online URL yet, you will see an error
+doesn't know of your SharePoint Online URL yet, you will see an error
 prompting you to either use an absolute URL or set the SPO URL using the
 *spo set* command:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo set --url https://contoso.sharepoint.com
 ```
 \
@@ -199,7 +199,7 @@ control who has access to what content and functionality.
 To add a role to the Azure AD application registration specified by its
 name, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad app role add --appName "My app" --name Managers --description "Managers" --allowedMembers usersGroups --claim managers
 ```
  
@@ -211,7 +211,7 @@ those tasks to team members.
  
 To add a new Microsoft Planner plan to a Microsoft 365 Group, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 planner plan add --title "My Planner Plan" --ownerGroupName "My Planner Group"
 ```
  
@@ -233,7 +233,7 @@ user**
  
 To return the user profile properties of specific user, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo userprofile get --userName 'john.doe@mytenant.onmicrosoft.com'
 ```
  
@@ -249,13 +249,13 @@ creation of this app package for you.
  
 To create the app package, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 viva connections app create --portalUrl https://contoso.sharepoint.com --appName Contoso --description "Contoso company app" --longDescription "Stay on top of what's happening at Contoso" --companyName Contoso --companyWebsiteUrl https://contoso.com --coloredIconPath icon-color.png --outlineIconPath icon-outline.png
 ```
  
  To upload the app package to your Microsoft Teams app catalog, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 teams app publish --filePath ./contoso.zip
 ```
 ##   
@@ -330,7 +330,7 @@ etc.
 The given example:
 -   creates a site,
 -   adds a site column and a content type,
--   adds list and modifies it\'s settings (add a content type to it and
+-   adds list and modifies it's settings (add a content type to it and
     makes it hidden),
 -   adds a document library with a custom column and some folder,
 -   modifies the all items view of the document library,
@@ -458,7 +458,7 @@ different workloads in Microsoft 365.
 
 
 Microsoft keeps investing in modern SharePoint pages continuously
-introducing new capabilities to let us publish rich content. We\'re
+introducing new capabilities to let us publish rich content. We're
 looking into extending our support for managing modern SharePoint pages
 to let you use them to their full potential.
 
@@ -466,8 +466,8 @@ to let you use them to their full potential.
 ### Improved creating Azure AD apps 
  
 
-Recently, we\'ve introduced a command to easily create Azure AD app
-registrations. Because they\'re backbone of every app you\'d build on
+Recently, we've introduced a command to easily create Azure AD app
+registrations. Because they're backbone of every app you'd build on
 Microsoft 365, we think you should be able to create them as easily as
 possible. So with CLI for Microsoft 365, you can create a fully
 configured Azure AD app for the most common scenarios with just one line
@@ -493,15 +493,15 @@ using SPO or PnP PowerShell that you use frequently, please share them
 with us so that we can learn more about the common automation scenarios.
 
 
-### \'ensure\' commands 
+### 'ensure' commands 
  
 
 
-We\'ve just shipped our first ensure command - an easy way to help you
-that a site with specific settings exists. If it doesn\'t, CLI creates
+We've just shipped our first ensure command - an easy way to help you
+that a site with specific settings exists. If it doesn't, CLI creates
 it for you, if it does, CLI ensures it has the right properties. All in
-one line of code. We\'d love to hear from you how you like it and if
-it\'s something you\'d like us to implement for other commands as well.
+one line of code. We'd love to hear from you how you like it and if
+it's something you'd like us to implement for other commands as well.
 
  
 ## Try it today 

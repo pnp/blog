@@ -27,15 +27,15 @@ Microsoft Graph offers us a single endpoint
 10, and Enterprise Mobility and Security and can be used by makers and
 developers. To get started to use the Graph API, the Graph Team offers
 us a very fantastic tool called **Graph Explorer**.
-What does it do? Well, it lets us explore Graph! It\'s a learning
+What does it do? Well, it lets us explore Graph! It's a learning
 playground where we can try out requests, get responses, learn about
 permission scopes, and more. To access Graph Explorer, visit
 [aka.ms/ge](https://aka.ms/ge) and make yourself familiar with it:
 {{< image alt="overview.png" src="images/blog/how-to-get-started-with-graph-explorer/overview.png" >}}
 ### Authentication 
 You can decide if you want to sign in or if you want to try out with
-sample data provided by Microsoft. I recommend \'playing\' in your
-developer tenant; if you don\'t have one, [learn here how to join the
+sample data provided by Microsoft. I recommend 'playing' in your
+developer tenant; if you don't have one, [learn here how to join the
 Microsoft 365 developer program and get a developer
 tenant](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-dev-tenant-and-why-would-you-want-one/ba-p/2036610).
 The benefit of signing in with your (developer) account is, that you can
@@ -56,8 +56,8 @@ Microsoft Graph - and get my joined teams. We can see this in the
 request area (upper part) and the response area (lower part):
 {{< image alt="teams-channel.png" src="images/blog/how-to-get-started-with-graph-explorer/teams-channel.png" >}}
 
-We now want to create a channel called \'Microsoft Graph\' in the Team
-\'Insidious Word Domination Plans\'. We first copy the ID of the Team
+We now want to create a channel called 'Microsoft Graph' in the Team
+'Insidious Word Domination Plans'. We first copy the ID of the Team
 from the response of that request and then use this ID in the next
 sample we try out, which is:
 {{< image alt="post-teams-channel.png" src="images/blog/how-to-get-started-with-graph-explorer/post-teams-channel.png" >}}
@@ -70,7 +70,7 @@ In the \*\*Modify permissions\*\* tab, we can learn about - and consent
 to permissions needed to execute this request:
 {{< image alt="modify-permissions.png" src="images/blog/how-to-get-started-with-graph-explorer/modify-permissions.png" >}}
 
-But the awesomeness of this tool doesn\'t stop here - we get
+But the awesomeness of this tool doesn't stop here - we get
 ready-to-use code snippets in different languages to insert them into
 our applications:
 {{< image alt="code-snippet-js.png" src="images/blog/how-to-get-started-with-graph-explorer/code-snippet-js.png" >}}
@@ -108,7 +108,7 @@ To get from the rough idea to a working up, I follow this process:
 1.  Read the docs. I mean, seriously. learn, which endpoint you will
     need to call, which permissions you will need.
 2.  Try out in Graph Explorer; when it works, proceed to step 3, in case
-    it doesn\'t, go back to step 1 :\')
+    it doesn't, go back to step 1 :')
 3.  Register your application in Azure AD with the permission scope that
     was needed for the request in Graph Explorer
 4.  Try out the flow/the action of your custom connector in a basic
@@ -117,12 +117,12 @@ To get from the rough idea to a working up, I follow this process:
     Content from within your flow
 You see, Graph Explorer is an amazing tool to learn and try out - it
 gets you a step closer to a working solution, but you do not need to
-worry upfront about app registration, permissions etc. It\'s a cool way
+worry upfront about app registration, permissions etc. It's a cool way
 to do a proof of concept - trying out if you can get, post, patch,
 update or delete the resources you like to before you start building
 your app.
 
-## Feedback and what\'s next? 
+## Feedback and what's next? 
 
 I am curious - which other tools help you developing with Microsoft
 Graph? Recently, [Elio Struyf published a VSCode

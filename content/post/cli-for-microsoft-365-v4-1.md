@@ -3,16 +3,15 @@ title: "CLI for Microsoft 365 v4.1"
 date: 2021-10-22T04:48:00-04:00
 author: "Garry Trinder"
 categories: ["CLI for Microsoft 365"]
-images: []
+images: 
+- images/blog/cli-for-microsoft-365-v4-1/CLI for Microsoft 365 v4.1
 tags: []
 type: "regular"
 draft: false
 
 ---
-
-{{< image alt="1" src="images/blog/cli-for-microsoft-365-v4-1/CLI for Microsoft 365 v4.1" >}}
  
-We\'ve just published a new version of the CLI for Microsoft 365 with
+We've just published a new version of the CLI for Microsoft 365 with
 new commands for working with and managing Microsoft 365 tenants and
 SharePoint Framework projects on any platform.
  
@@ -52,16 +51,16 @@ To upgrade your SPFx project to v1.13 version, change the working
 directory to your project and execute:
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spfx project upgrade --output md > report.md
 ```
  
  
-We\'d also recommend that you try a richer upgrade report based on the
+We'd also recommend that you try a richer upgrade report based on the
 Visual Studio Code CodeTour extension:
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spfx project upgrade --output tour
 ```
  
@@ -73,14 +72,14 @@ documentation](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-u
 ### Updates information of a specified Azure AD user 
  
 User management is one of the core activities of every Microsoft 365
-tenant admin. We\'ve introduced a new command that enables you to update
+tenant admin. We've introduced a new command that enables you to update
 Azure AD users properties and the ability to enable or disable those
 accounts.
  
 To update the properties of a specific user, execute:
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad user set --userPrincipalName steve@contoso.onmicrosoft.com --Department "Sales & Marketing" --CompanyName Contoso
 ```
  
@@ -88,7 +87,7 @@ m365 aad user set --userPrincipalName steve@contoso.onmicrosoft.com --Department
 To disable a specific user, execute:
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad user set --userPrincipalName steve@contoso.onmicrosoft.com --accountEnabled false
 ```
  

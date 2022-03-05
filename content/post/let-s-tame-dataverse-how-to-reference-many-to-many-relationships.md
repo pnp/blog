@@ -22,14 +22,14 @@ first:
 
 ## What is Dataverse 
 
-![platform.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327931iE49898FC399249A2/image-size/large?v=v2&px=999 "platform.png")
+{{< image alt="platform.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/platform.png" >}}
 
 Dataverse is a is a secure and scalable SaaS data service, that sits
-right in Power Platform. Dataverse\'s database is Azure SQL, and often,
-people refer to Dataverse just as \'a database\', but it is so much
+right in Power Platform. Dataverse's database is Azure SQL, and often,
+people refer to Dataverse just as 'a database', but it is so much
 more
 
-![dataverse-saas.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327925i8AC580368E14F817/image-size/large?v=v2&px=999 "dataverse-saas.png")
+{{< image alt="dataverse-saas.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/dataverse-saas.png" >}}
 
  
 
@@ -37,19 +37,19 @@ I will not go into full detail in this blog post, but cover something
 that people with a background in Microsoft 365/SharePoint might not be
 aware of:
 
-## How does Dataverse distinguish from SharePoint lists and what makes it a \'real database\'?
+## How does Dataverse distinguish from SharePoint lists and what makes it a 'real database'?
 
 In Dataverse, we store data in tables, we can either use predefined ones
 or we can creates our own tables. We can choose from different kind of
 column types to store data just as needed. The beautiful thing that get
 our Dynamics 365 colleagues excited is, that Dataverse can serve as a
-\'relational database\', which means that we can create all kinds of
+'relational database', which means that we can create all kinds of
 relationships between data, which gives us a better overview on data as
 we can put data into context.
 
 Also, we have role-based access control (RBAC), which means that we can
 granularly control who can view, edit, delete etc. data, while this
-isn\'t possible with SharePoint lists. If we use a list as data source
+isn't possible with SharePoint lists. If we use a list as data source
 for a Power Apps, we need to share the entire list with all users of
 that application, which means that users can even bypass the app and
 manipulate and delete data directly on the SharePoint site.
@@ -59,7 +59,7 @@ it so special?
 
 ## What kind of relationships do exist in Dataverse? 
 
-[[![relationships.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327932iE8F8F587883108CE/image-size/medium?v=v2&px=400 "relationships.jpg")
+[[{{< image alt="relationships.jpg" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/relationships.jpg" >}}
 
 ### 1-to-many relationships
 
@@ -67,7 +67,7 @@ In a 1:N (1-to-many) relationship we associate a (1) row of a table to
 many other rows in a related table with a lookup column. We can see a
 list of the related rows that are associated with our primary table.
 
-You will come across the term \'N:1(many-to-1)\' as well - it is the
+You will come across the term 'N:1(many-to-1)' as well - it is the
 same thing as a 1:N relationship- just viewed from the related table,
 not from the parent/primary table.
 
@@ -81,7 +81,7 @@ relationship between `Teams Requests` table and
 the `Teams Channels` table. We reference this like this:
  
 
-[![TeamsChannel1N.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327926i88DD033B3F8A3335/image-size/medium?v=v2&px=400 "TeamsChannel1N.png")
+[{{< image alt="TeamsChannel1N.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/TeamsChannel1N.png" >}}
 
 We get the correct environment, fetch the table `Team Channels` and
 filter by `TeamsRequestId` so that only the related channels to that
@@ -109,15 +109,15 @@ of several different teams.
 This means, that we need to have two N:N relationships
 between `teams Requests` table and `Teams Users` table.
 
-[![TeamsRequests-TeamsUser.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327930i4B478133F02263FF/image-size/large?v=v2&px=999 "TeamsRequests-TeamsUser.png")
+[{{< image alt="TeamsRequests-TeamsUser.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/TeamsRequests-TeamsUser.png" >}}
 
 Now the intersection tables come into play: They make sure that we can
 associate many rows of the related table to the primary table.
 
-In Dataverse, we don\'t get to see these intersection tables, but we can
+In Dataverse, we don't get to see these intersection tables, but we can
 customize their name:
 
-![TeamsRequests-TeamsUserNN.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327928iF72CD1FC43ED4A7E/image-size/medium?v=v2&px=400 "TeamsRequests-TeamsUserNN.png")
+{{< image alt="TeamsRequests-TeamsUserNN.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/TeamsRequests-TeamsUserNN.png" >}}
 
 and we can make them visible when we create a model of the data in Power
 BI. This also helps us understand, what the intersection table is and
@@ -126,7 +126,7 @@ how this works: \
 The intersection tables sit in between of the primary table and the
 related table: primary table (1) \--\>(N) intersection table(N) \<\--
 related table\
-![datamodel.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327939iAEADCD23737B17DB/image-size/large?v=v2&px=999 "datamodel.png")
+{{< image alt="datamodel.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/datamodel.png" >}}
 
 
 ## How can you reference Many-to-Many Relationships in Azure Logic Apps?
@@ -142,11 +142,11 @@ of the relationship table followed by a `set`, then we filter for the
 correct Teams Request ID so that only members for that specific team
 will be returned.
 
-![ListRowsForMembers.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327929i87A0DD8660CB5591/image-size/medium?v=v2&px=400 "ListRowsForMembers.png")
+{{< image alt="ListRowsForMembers.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/ListRowsForMembers.png" >}}
 
 The very same applies to the relationship table for the owners.
 
-![ListRowsForOwners.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/327927i04D902726DED2F60/image-size/medium?v=v2&px=400 "ListRowsForOwners.png")
+{{< image alt="ListRowsForOwners.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/ListRowsForOwners.png" >}}
 
 ## Conclusion
 
@@ -161,8 +161,8 @@ to spend a couple of thoughts on the data model. If you
 then its very likely, that Dataverse is a service that you should
 consider.
 
-In order to take full advantage of Dataverse\'s capabilities in terms of
-being a \'relational database\' its worth it to understand what is an
+In order to take full advantage of Dataverse's capabilities in terms of
+being a 'relational database' its worth it to understand what is an
 intersection table and how you can reference it.
 
  

@@ -3,7 +3,6 @@ title: "Export/Backup all your flows from an environment using the CLI for Micro
 date: 2021-11-08T04:16:00-05:00
 author: "Patrick Lamber"
 categories: ["CLI For Microsoft 365"]
-images: []
 tags: []
 type: "regular"
 draft: false
@@ -23,7 +22,7 @@ created  for the CLI for Microsoft 365. The original script was created
 by our community member [Garry
 Trinder.](https://twitter.com/garrytrinder)
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 Write-Output "Getting environment info..."
 $environment = m365 flow environment list --query '[?contains(displayName,`default`)] .name'
 Write-Output "Getting Flows info..."
@@ -50,7 +49,7 @@ section.](https://pnp.github.io/cli-microsoft365/sample-scripts/)
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) is a
 cross-platform CLI that allows you to manage various configuration
 settings of Microsoft 365 and SharePoint Framework projects no matter
-which operating system or shell you use.\
+which operating system or shell you use.
 \
 While building solutions for Microsoft 365 expands beyond the Windows
 operating system, managing many of the platform settings is possible
@@ -66,7 +65,7 @@ manage your SharePoint Framework projects.
 Get the latest release of the CLI for Microsoft 365 from npm by
 executing:
  
-``` {.lia-code-sample .language-bash}
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
  

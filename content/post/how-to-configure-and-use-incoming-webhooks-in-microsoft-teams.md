@@ -84,7 +84,7 @@ using HTTP POST, which
 is why treating your webhook URL as a secret might be a good
 thing, the same way as you would
 treat
-your PowerAutomate\'s  **[When
+your PowerAutomate's  **[When
 an HTTP request is received **trigger. There
 are heaps of articles by the
 community on securing
@@ -98,7 +98,7 @@ configure]**
     (•••) and (2)
     Choose ]**[Connectors]**
 
-![connector-select.png](/t5/image/serverpage/image-id/245528i9ABCC52E850A19F8/image-size/large?v=v2&px=999 "connector-select.png")
+![connector-select.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245528i9ABCC52E850A19F8/image-size/large?v=v2&px=999 "connector-select.png")
 
 
 -  Search
@@ -107,20 +107,20 @@ configure]**
 
 
 
-![incoming-webhook.png](/t5/image/serverpage/image-id/245529i114227EC8DE0530B/image-size/large?v=v2&px=999 "incoming-webhook.png")
+![incoming-webhook.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245529i114227EC8DE0530B/image-size/large?v=v2&px=999 "incoming-webhook.png")
 -   [nce added, configure it by giving a name, optionally upload an
     icon and once
     done, click **[Create]**
 
 
 
-![create.png](/t5/image/serverpage/image-id/245530iEE5FFF3AB68A08EA/image-size/large?v=v2&px=999 "create.png")
+![create.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245530iEE5FFF3AB68A08EA/image-size/large?v=v2&px=999 "create.png")
 -   Copy the URL that is unique for the channel, and
     we will later use this URL to post the
     message. 
 
 
-![url.png](/t5/image/serverpage/image-id/245531i7CBE8E1B95368F5B/image-size/large?v=v2&px=999 "url.png")
+![url.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245531i7CBE8E1B95368F5B/image-size/large?v=v2&px=999 "url.png")
  
 
 [Now we have successfully configured the connector in the
@@ -130,7 +130,7 @@ below ]
 
 
 
-![success.png](/t5/image/serverpage/image-id/245532iC044F32AD6B4D95D/image-size/large?v=v2&px=999 "success.png")
+![success.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245532iC044F32AD6B4D95D/image-size/large?v=v2&px=999 "success.png")
  
 
 ## Test the connector with PowerShell
@@ -157,26 +157,26 @@ here I am using
 PowerShell.
  
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Invoke-RestMethod -Method post -ContentType 'Application/Json' -Body '{"text":"Hello World!"}' -Uri  <URL of the webhook you copied> 
 ```
  
 
-[![powershell.png](/t5/image/serverpage/image-id/245547iFFAD628A8E679AE3/image-size/large?v=v2&px=999 "powershell.png")
+[![powershell.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245547iFFAD628A8E679AE3/image-size/large?v=v2&px=999 "powershell.png")
 
 If the
 configuration is successful, we
 can see the message already sent by the script to our
 channel.
 
-![messagesent.png](/t5/image/serverpage/image-id/245534i337DCF38950BB06A/image-size/large?v=v2&px=999 "messagesent.png")
+![messagesent.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245534i337DCF38950BB06A/image-size/large?v=v2&px=999 "messagesent.png")
 
 
 Now, if we want to try sending an
 adaptive card, let us try one as
 well.
 
-[Let\'s go                                      
+[Let's go                                      
 to [adaptivecards.io]](https://adaptivecards.io/samples/)  and
 copy a sample for an adaptive card which will be in
 [JSON](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369?WT.mc_id=m365-0000-rwilliams)
@@ -186,7 +186,7 @@ variable **$json** in the below
 format.
  
 
-``` {.lia-code-sample .language-json}
+```json
 { 
 
       "type": "message", 
@@ -214,7 +214,7 @@ variable **\$json **that we
 declared earlier.
  
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Invoke-RestMethod -Method post -ContentType 'Application/Json' -Body $json   -Uri  <URL of the webhook you copied> 
 ```
  
@@ -223,7 +223,7 @@ And here is ][the
 resul after running
 the above  script
 
-![adaptivecard.png](/t5/image/serverpage/image-id/245537i211D948AAFA15C7C/image-size/large?v=v2&px=999 "adaptivecard.png")
+![adaptivecard.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245537i211D948AAFA15C7C/image-size/large?v=v2&px=999 "adaptivecard.png")
 
 Hope you found this simple out of
 the box capability useful and

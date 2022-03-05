@@ -12,7 +12,7 @@ draft: false
 ---
 
 Ever get annoyed with the page properties web part put out by Microsoft?
-If you\'ve got some OCD issues (like me) then it may not take very long.
+If you've got some OCD issues (like me) then it may not take very long.
 At [ThreeWill](https://threewill.com), we help clients with their
 digital workplaces and improving the way their users can obtain
 information and makes sense of it all. Oftentimes, the Page Properties
@@ -29,7 +29,7 @@ the limitations with pretty standard field types. I like the idea of
 taking advantage of metadata columns for pages, but being able to use it
 visually is equally important. I finally decided to do something about
 it and build a new version of this web part. So with this in mind,
-let\'s lay out our goals with this new web part. We will call it the
+let's lay out our goals with this new web part. We will call it the
 Advanced Page Properties web part. 
 
 ## Feature Goals 
@@ -44,21 +44,21 @@ following improvements:
 -   Support for currency
 -   Improved support for dates
 
-In other words, we\'re shooting for this:
+In other words, we're shooting for this:
 
 ![Screen Shot 2021-04-06 at 2.40.56
 PM.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/270627i8EC564DBD0E356FE/image-size/large?v=v2&px=999 "Screen Shot 2021-04-06 at 2.40.56 PM.png")
 
 ## Property Pane 
 
-For a part like this, it\'s all about getting the property page figured
+For a part like this, it's all about getting the property page figured
 out first. We want this to feel familiar too and not stray too much from
 the original design, unless it helps.
 
-Let\'s start by recognizing our chief property that the web part needs:
+Let's start by recognizing our chief property that the web part needs:
 selectedProperties. This array will hold the internal names of the
 fields that a user has selected for display in our web part. We intend
-on passing this property down to our React component. Here\'s a look at
+on passing this property down to our React component. Here's a look at
 our property object:
 
 ``` lang-javascript
@@ -98,12 +98,12 @@ properties for display:
 
 We are using the PnP JS library for gathering the fields in the Site
 Pages library. Figuring out the right types of filters to gather was a
-bit of trial-and-error. We are excluding anything that\'s inherited from
+bit of trial-and-error. We are excluding anything that's inherited from
 a base type or is hidden in any way. We are also excluding 3 standard
-types so far: boolean, note and user. Note doesn\'t make sense to
+types so far: boolean, note and user. Note doesn't make sense to
 display. Boolean can definitely work, but needs a good display
 convention. User was the only tricky object, which is the reason it
-isn\'t done yet.
+isn't done yet.
 
 We call the above method prior to loading up the property pane.
 
@@ -140,7 +140,7 @@ selectedProperties array.
 ```
 
 Finally, with all of our pieces in place, we can render our property
-pane with all it\'s needed functionality.
+pane with all it's needed functionality.
 
 ``` lang-javascript
   protected getPropertyPaneConfiguration(): IPropertyPaneConfiguration {
@@ -204,7 +204,7 @@ properties changing. It also needs to react to our theme changing. I
 leveraged this [awesome post from Hugo
 Bernier](https://tahoeninjas.blog/2020/07/28/adding-support-for-theme-variants-in-spfx-web-parts/)
 for the theming, so I will not cover that in-depth, although you will
-see how it\'s being leveraged in the code snippets below. Here are the
+see how it's being leveraged in the code snippets below. Here are the
 properties we plan to start with and respond to: 
 
 ``` lang-javascript
@@ -472,16 +472,16 @@ capsules for array labels.
   };
 ```
 
-So that\'s all of the necessary code. Here\'s what the finished product
+So that's all of the necessary code. Here's what the finished product
 looks like, compared to the original page properties web part.
 
 {{< image alt="diff-screencap" src="images/blog/improving-the-page-properties-web-part/diff-screencap.png" >}}
 This web part is now officially apart of the PnP Web Parts repository
 and can be found
 [here](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-advanced-page-properties).
-I would love to hear about improvements you\'d like to see and obviously
+I would love to hear about improvements you'd like to see and obviously
 you are more than welcome to contribute. I already have a bit of a list
-of things I\'d love to see it do. 
+of things I'd love to see it do. 
 
 ## Other ideas for improvements 
 
@@ -496,8 +496,8 @@ of things I\'d love to see it do. 
 
 ## Conclusion 
 
-Hopefully, I\'ve gotten you excited about Page Properties again and
-you\'ve learned a little along the way around how the current Page
+Hopefully, I've gotten you excited about Page Properties again and
+you've learned a little along the way around how the current Page
 Properties part might be doing what it does under the hood. Please
 consider contributing and feel free to reach out to me anytime. Thanks
 for your time!

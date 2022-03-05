@@ -93,7 +93,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     [\@NanddeepNachan](/t5/user/viewprofilepage/user-id/659867)]{style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;"}
 {{< image alt="wave3.gif" src="images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/wave3.gif" >}}
 Thank you for making time in your Summer time schedule to join us for
-today\'s PnP Community call.   You\'re awesome!   
+today's PnP Community call.   You're awesome!   
 **Demos** delivered in this session
 
 -   **Publish a connector to the Power Platform** -- announcement July
@@ -108,7 +108,7 @@ today\'s PnP Community call.   You\'re awesome!   
 -   **How to update an Adaptive Card with a Teams Messaging Extension
     and MessagePreview** -- call on an action-based messaging extension
     created with the Teams Yeoman Generator to post a simple adaptive
-    card to a Microsoft Team\'s news channel.  Post \'as a bot\' and
+    card to a Microsoft Team's news channel.  Post 'as a bot' and
     with an action to update the same adaptive card again and again, as
     opposed to a 1-time action.  Use workflow to cap number of
     permissible card updates, if necessary.
@@ -275,7 +275,7 @@ slides.
 -   **Microsoft Identity Platform** -- August 19th at 9:00 am PDT
     **\| **<https://aka.ms/IDDevCommunityCalendar>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
-targeted at anyone who\'s interested in the general Microsoft 365
+targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Microsoft Flow, PowerApps, Column Formatting, list

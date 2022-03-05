@@ -25,7 +25,7 @@ and React!
 
 First, we need to create a new SPFx web part project with React
 framework using Yeoman generator tool:
-``` {.lia-code-sample .language-javascript}
+```javascript
 yo @microsoft/sharepoint
 ```
 **Note:** don't forget to choose React framework during the setup of
@@ -43,7 +43,7 @@ But why two packages? Because we need to use **Providers** and
 context to mgt-react components inside onInit method of the web part.
 
 Install the two required packages with the following npm commands:
-``` {.lia-code-sample .language-javascript}
+```javascript
 npm i @microsoft/mgt
 npm i @microsoft/mgt-react
 ```
@@ -52,19 +52,19 @@ npm i @microsoft/mgt-react
 To use Microsoft Graph Toolkit components with React, we need to use
 **TypeScript 3.7** at least. Install this dependency with the following
 npm command:
-``` {.lia-code-sample .language-powershell}
+```powershell
 npm i @microsoft/rush-stack-compiler-3.7 --save-dev
 ```
 **Note:** -dev command add this package inside the **devDependencies**
 section in **package.json** file.
 Then we need to update the **tsconfig.json** with the following content
 at line 2:
-``` {.lia-code-sample .language-json}
+```json
 "extends": "./node_modules/@microsoft/rush-stack-compiler-3.7/includes/tsconfig-web.json"
 ```
 Finally remove the following line from **tslint.json** to compile the
 project without any warning:
-``` {.lia-code-sample .language-json}
+```json
 "no-use-before-declare": true
 ```
 **Configure MGT in the project**
@@ -72,7 +72,7 @@ project without any warning:
 Now we have installed all the required dependencies, we can configure
 MGT in our project. First you need to add the API permissions in your
 **package-solution.json** file as below:
-``` {.lia-code-sample .language-json}
+```json
     "webApiPermissionRequests": [
       {
           "resource": "Microsoft Graph",
@@ -87,7 +87,7 @@ Person component.
 After this, we need to pass the context of the web part to MGT
 components, add the following code in your web part file (in my project
 MgtReactDemoWebPart) as below:
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { Providers, SharePointProvider } from '@microsoft/mgt';
 
 // ...
@@ -103,7 +103,7 @@ We are ready to use MGT components in our project, in this example I'll
 use the Person component to display basic informations about the current
 user. To do this, we need to import classes from mgt-react then using
 them in our render method as below:
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { Person, PersonViewType } from '@microsoft/mgt-react';
 
 // ...
@@ -118,12 +118,12 @@ public render(): React.ReactElement<IMgtReactDemoProps> {
 ```
 We can now build and run our project for SharePoint Online service (no
 local workbench) using the following command:
-``` {.lia-code-sample .language-powershell}
+```powershell
 gulp serve --nobrowser
 ```
 To debug your web part in SharePoint Online service, use the workbench
 located here:
-``` {.lia-code-sample .language-powershell}
+```powershell
 https://your-sharepoint-online-site/_layouts/workbench.aspx
 ```
 We can now see the result of our web part using MGT in the SPO

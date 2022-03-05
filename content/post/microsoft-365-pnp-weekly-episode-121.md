@@ -673,7 +673,7 @@ team [Nik Charlebois](https://twitter.com/NikCharlebois) \|
 
  
 
-Topics discussed in this session include Nik\'s career development in
+Topics discussed in this session include Nik's career development in
 Canada from being a customer, then moving to Microsoft as a Premier
 Field Engineer and also on his recent role change on moving to the
 Microsoft Graph team. They focus on his current responsibilities on

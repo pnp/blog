@@ -55,7 +55,7 @@ info about notebook ID and also it's weburl.
  
  
  
-``` {.lia-code-sample .language-json}
+```json
 {
      "type": "object",
      "properties": {

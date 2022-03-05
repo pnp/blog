@@ -177,7 +177,7 @@ everyone for your contributions to the community!\
 -   [SharePoint Syntex - teaching AI to extract contents of structured
     documents with Form
     Processing](https://www.sharepointnutsandbolts.com/2021/04/Syntex-Forms-Processing.html) -
-    [Chris O\'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
+    [Chris O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
     \| \@ChrisO_Brien\
 -   [Would you ever use SharePoint Online without Microsoft
     Teams?](https://regarding365.com/would-you-ever-use-sharepoint-online-without-microsoft-teams-42056319f7de)

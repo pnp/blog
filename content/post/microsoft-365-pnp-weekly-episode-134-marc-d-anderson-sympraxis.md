@@ -40,7 +40,7 @@ Topics discussed in this session include:
     consulting firms today are greatest in the middle area.   User and
     IT education remains as important as ever.   
 -   Discussion positioning Intranet and collaboration tools in
-    organizations today - it\'s the tools for how we get work done that
+    organizations today - it's the tools for how we get work done that
     are rapidly evolving in the most interesting ways today.    
 
 We also covered 13 articles by Microsoft and the PnP Community from the

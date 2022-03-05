@@ -40,7 +40,7 @@ connection dashboard.
     Environment](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment)
 Install latest beta release using below code
  
-``` {.lia-code-sample .language-javascript}
+```bash
 npm install /generator-sharepoint@next --global
 ```
  
@@ -50,37 +50,37 @@ Open node command prompt
 Reach to your desire location where you want to create a solution
 Run below command
  
-``` {.lia-code-sample .language-javascript}
+```bash
 yo @microsoft/sharepoint
 ```
  
-When prompted, enter the below values to each parameter.\
+When prompted, enter the below values to each parameter.
 {{< image alt="People1.jpg" src="images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/People1.jpg" >}}
  Once all required packages are downloaded then you will get a message
-as below.\
+as below.
 {{< image alt="People2.jpg" src="images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/People2.jpg" >}}
 Now open a solution in visual studio code or editor that you want to
 use.
 The below command is used to open the solution in VS Code.
  
-``` {.lia-code-sample .language-javascript}
+```bash
 code .
 ```
  
 Install require packages to connect graph in solution.
  
-``` {.lia-code-sample .language-javascript}
+```bash
 npm install @pnp/sp @pnp/graph @pnp/logging
 ```
  
 ## Consume Graph API in ACEs project
 
-Create folder called \"Models\" in \"..\\src\\\".\
+Create folder called \"Models\" in \"..\\src\\\".
 Create file with name \"mmp.models.ts\" in folder models at location
-\"..\\src\\models\\\".\
+\"..\\src\\models\\\".
 Copy below code and paste it in file.
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 export interface IMyTeam {
   userPrincipalName: string;
   displayName: string;
@@ -103,12 +103,12 @@ export class Config implements IConfig {
 }
 ```
  
-Create a folder called Services in \"..\\src\\\".\
+Create a folder called Services in \"..\\src\\\".
 Create a new file called \"mmp.service.ts\" in Folder \"Services\" at
-location \"..\\src\\Services\".\
+location \"..\\src\\Services\".
 Copy below code to it.
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { Logger, LogLevel } from "@pnp/logging";
 import "@pnp/graph/users";
 import "@pnp/graph/onedrive";
@@ -164,7 +164,7 @@ export class MMPServie implements IMMPService {
 Create a new file called \"service.ts\" in folder \"Services\" and add
 below code in that.
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { IConfig, IMyTeam } from "../models/mmp.models";
 import { Logger, LogLevel } from "@pnp/logging";
 import { IMMPService, MMPServie } from "../services/mmp.service";
@@ -200,7 +200,7 @@ Open file \"MyPeopleAdaptiveCardExtension.ts\" at location
 \"..\\src\\adaptiveCardExtensions\\myPeople\\MyPeopleAdaptiveCardExtension.ts\"\
 Import below statement on top.
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { sp } from "@pnp/sp";
 import { graph } from "@pnp/graph";
 import { Logger, LogLevel, ConsoleListener } from "@pnp/logging";
@@ -210,7 +210,7 @@ import { Service } from "../../services/service";
  
  Update Interface with below code
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 export interface IMyPeopleAdaptiveCardExtensionState {
   currentIndex:number;
   currentConfig: IConfig;
@@ -219,14 +219,14 @@ export interface IMyPeopleAdaptiveCardExtensionState {
  
 Define private variable in class.
  
-``` {.lia-code-sample .language-javascript}
+```javascript
  private LOG_SOURCE: string = "MyPeopleAdaptiveCardExtension";
   private service: Service = new Service();
 ```
  
 Update OnInit() with below lines of code
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 public async onInit(): Promise<void> {
     Logger.subscribe(new ConsoleListener());
     Logger.activeLogLevel = LogLevel.Info;
@@ -250,11 +250,11 @@ public async onInit(): Promise<void> {
 ## Render My team in Card View in ACEs
 
 Open file Cardview.ts at location
-\"..\\src\\adaptiveCardExtensions\\myPeople\\cardView\\CardView.ts\".\
+\"..\\src\\adaptiveCardExtensions\\myPeople\\cardView\\CardView.ts\".
 Update three methods(Cardbuttons(), data() and onCardSelection()) with
 below code.
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 public get cardButtons(): [ICardButton] | [ICardButton, ICardButton] | undefined {
     const buttons: ICardButton[] = [];
     if (this.state.currentIndex > 0) {
@@ -301,7 +301,7 @@ public get cardButtons(): [ICardButton] | [ICardButton, ICardButton] | undefined
  
 ## View user details in Quick View in ACEs
 
-QuickView.ts file is responsible to render user details on card click.\
+QuickView.ts file is responsible to render user details on card click.
 Open Quickview.ts file and import models in it and add new property to
 IQuickViewData
  
@@ -317,7 +317,7 @@ export interface IQuickViewData {
  
 Update Data method in QuickView.ts file with below code.
  
-``` {.lia-code-sample .language-javascript}
+```javascript
  public get data(): IQuickViewData {
     return {
       subTitle: strings.SubTitle,
@@ -331,7 +331,7 @@ Update Data method in QuickView.ts file with below code.
 Update template() in Quickview.ts file with custom JSON format to
 display user information.
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 public get template(): ISPFxAdaptiveCard {
     return {
       "type": "AdaptiveCard",
@@ -378,11 +378,11 @@ public get template(): ISPFxAdaptiveCard {
   }
 ```
  
-Set permission to access graph API from SPFx.\
+Set permission to access graph API from SPFx.
 open package-solution.json file at location \"
 ..\\Manageteam\\config\\package-solution.json\" and add below code.
  
-``` {.lia-code-sample .language-json}
+```json
  "webApiPermissionRequests": [
       {
         "resource": "Microsoft Graph",
@@ -398,7 +398,7 @@ gulp serve -l --nobrowser
 ```
  
 Open URL <https://contoso.sharepoint.com/_layouts/workbench.aspx>\
-Add your extension using click on add webpart button.\
+Add your extension using click on add webpart button.
 {{< image alt="1.gif" src="images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/1.gif" >}}
 
 

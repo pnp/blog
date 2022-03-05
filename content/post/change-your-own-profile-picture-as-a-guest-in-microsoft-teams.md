@@ -16,8 +16,8 @@ draft: false
 
 ---
 I love Microsoft Teams and I also love controlling my online appearance,
-but sadly both aren\'t big friends when you are a Guest in another
-tenant. There still isn\'t a good/easy way of controlling your own
+but sadly both aren't big friends when you are a Guest in another
+tenant. There still isn't a good/easy way of controlling your own
 profile picture, which is sad because you are reduced to a
 not-very-personal colored circle with initials:
 {{< image alt="image.png" src="images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image.png" >}}
@@ -33,7 +33,7 @@ The tl;dr version:
 4.  Edit the profile, upload a profile picture
 5.  Wait for about a week to have the profile picture synced into Teams
 ## Switch tenants
-If you found this blogpost, it\'s probably safe to assume that you know
+If you found this blogpost, it's probably safe to assume that you know
 how to switch tenants. For the purpose of this guide, it is **VERY**
 important you do this in your browser because otherwise authentication
 will get confused ;).
@@ -43,7 +43,7 @@ will get confused ;).
     change the profile picture of your Guest account
 {{< image alt="image-1.png" src="images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-1.png" >}}
 ## Get ID of user account
-I don\'t know of any place in the UI that shows the id of your Guest
+I don't know of any place in the UI that shows the id of your Guest
 account in a tenant, so I had to find a way using the Developer Tools of
 Chrome/Edge.
 1.  After switching to the Guest tenant, hit the F12 key to open the
@@ -54,7 +54,7 @@ Chrome/Edge.
 4.  In the right part, do a search for `ts.tenantList`. It should only
     show one result, select it.
 5.  It shows all tenants you are part of as a Guest, open up the one you
-    are currently in. You\'ll need the value next to the `userId`
+    are currently in. You'll need the value next to the `userId`
     property. In my screenshot, it is the GUID that starts with
     `f35707ec-...`
 {{< image alt="image-3.png" src="images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-3.png" >}}

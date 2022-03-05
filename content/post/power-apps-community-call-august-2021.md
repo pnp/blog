@@ -120,7 +120,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 -   [Demo - ][Visual Holiday Calendar
     Demo](https://youtu.be/NKNCsq3iF8I)[ ]
 
--   [Demo - Gerard Simpson\'s YouTube channel \|
+-   [Demo - Gerard Simpson's YouTube channel \|
     ]<https://www.youtube.com/channel/UC8A8L7bplMnkLOB780mMfHg>[
     (empty channel) ]
 

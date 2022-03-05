@@ -19,7 +19,7 @@ draft: false
 Often you want to retrieve just one item in a SharePoint list and then
 display the value of a property from it. You will use the SharePoint Get
 Items action with a query (ODATA filter query) i.e. **Title eq
-\'City\'** and you know that it should only return one record.
+'City'** and you know that it should only return one record.
 Unfortunately the SharePoint Get Items action by default returns an
 array (*collection of items*) even if there is just one item and even if
 you specify the Top Count (*items to be returned*) to be 1. So if you
@@ -57,7 +57,7 @@ In the image below I will describe the expression: in **blue** the
 first() expression is being used and within it is brackets () in **red**
 is a body reference to the SharePoint Get Items action. If you have
 renamed the SharePoint Get Items action then you will need to replace
-\'Get_Items\' with the name of your action with spaces replaced by
+'Get_Items' with the name of your action with spaces replaced by
 underscores. Next in **Grey** is the SharePoint value column which holds
 all of the SharePoint list item values in an array -- this does not need
 to be changed. The first function brackets are then closed in **blue**.

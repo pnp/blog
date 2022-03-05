@@ -89,7 +89,7 @@ To create a pop up effect, create:
 
 -   a cancel icon
 
-Group these controls; it\'s easier to work with them then.
+Group these controls; it's easier to work with them then.
 -   Now create a textlabel (or a button, or an image\... something that
     our user will click on to see the pop up).
 
@@ -128,7 +128,7 @@ we will first upload a few svgs (see above) and then refer to them in
 our collection:
  
 
-``` {.lia-code-sample .language-json}
+```json
 ClearCollect(
 
 NavigationMenu,
@@ -210,7 +210,7 @@ item in the gallery
     `Set(_selectedTutorial,{Row:1,Title:"About",Image:ic_fluent_home_48_regular})```
 -   for each Navigation gallery set the .onSelect property to: 
 
-``` {.lia-code-sample .language-json}
+```json
 Set(_selectedTutorial, ThisItem);
 If(
 ThisItem.Row = 1, Navigate('Welcome Screen', None),
@@ -229,7 +229,7 @@ Our result should look something like this:
 
  
 
-## Feedback and what\'s next? 
+## Feedback and what's next? 
 
 What are your little tricks to make apps look more beautiful? I am
 curious to learn from you! Please comment below!

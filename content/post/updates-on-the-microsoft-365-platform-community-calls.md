@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-![community-call-updates.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/291909i41EA860045C98AB9/image-size/large?v=v2&px=999 "community-call-updates.png")
+{{< image alt="community-call-updates.png" src="images/blog/updates-on-the-microsoft-365-platform-community-calls/community-call-updates.png" >}}
 
 We have been hosting different set of Microsoft 365 community calls
 since 2015 where we share the latest news and do live demos on the
@@ -27,9 +27,9 @@ this new model is targeted on covering more widely the awesomeness of
 Microsoft 365.
 We will also have some Northern Hemisphere summer cancellations.
 
-![VesaJuvonen_1-1624888942819.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/291908i1362C5B17B568B64/image-size/large?v=v2&px=999 "VesaJuvonen_1-1624888942819.png")
+{{< image alt="VesaJuvonen_1-1624888942819.png" src="images/blog/updates-on-the-microsoft-365-platform-community-calls/VesaJuvonen_1-1624888942819.png" >}}
 
-## What\'s new? - New weekly Microsoft 365 Platform community call 
+## What's new? - New weekly Microsoft 365 Platform community call 
 
 This call is targeted for the Microsoft 365 engineering PMs and other
 Microsoft employees to update our community on the latest features and
@@ -65,7 +65,7 @@ Other calls will continue normally through out the summery.
 
 ## Microsoft 365 community calls - available for everyone to join 
 
-Here\'s a summary of existing Microsoft 365 calls and the structure for
+Here's a summary of existing Microsoft 365 calls and the structure for
 future. Join on the calls to hear about the latest features and to
 engage with the community. All community calls are recorded. Call
 summaries are published as blog post articles at [Microsoft 365 PnP Tech

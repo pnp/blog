@@ -3,7 +3,6 @@ title: "Browser Local Storage using PnPClientStorage"
 date: 2021-08-31T01:54:00-04:00
 author: "Sudharsan Kesavanarayanan"
 categories: ["SharePoint"]
-images: []
 tags: []
 type: "regular"
 draft: false
@@ -51,7 +50,7 @@ Let us start by creating a new web part project using yeoman SharePoint
 generator, before that create a folder where you want to create the web
 part. Navigate to that folder and run the below command.
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 yo @microsoft/sharepoint
 ```
 
@@ -73,7 +72,7 @@ Once the project is created, install the required **PnP** modules from
 npm using the below command. I had created a web part with the
 name **LocalStorage**.
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 npm i @pnp/sp @pnp/common --save-exact
 ```
 
@@ -82,7 +81,7 @@ editor for SharePoint Framework. You can directly open the project
 folder from the file menu or use the below command to open the VSCode
 from the command line.
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 cd \web part folder\
 code .
 ```
@@ -95,13 +94,13 @@ reference on the tsx and webpart.ts file. Open your webpart.ts file and
 copy-paste the below code along with the other code in the file, here we
 are setting up the pnp with the current context.
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { sp } from "@pnp/sp";
 ```
 
 Copy-paste the below code under the default class
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 public onInit(): Promise<void> {
     return super.onInit().then(_ => {
         sp.setup(this.context);
@@ -111,7 +110,7 @@ public onInit(): Promise<void> {
 
 Navigate to your webpart.tsx file and copy-paste the below code.
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import styles from './LocalStorage.module.scss';
 import { DefaultButton } from 'office-ui-fabric-react/lib/Button';

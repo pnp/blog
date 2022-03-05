@@ -17,7 +17,7 @@ of application architectures and coding patters or just start using an
 app right away in your organization. App templates are community driven,
 open source and production-ready apps.
 
-![ask-away-app.png](/t5/image/serverpage/image-id/246324iE8BFFB879FCD309F/image-size/large?v=v2&px=999 "ask-away-app.png")
+![ask-away-app.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/246324iE8BFFB879FCD309F/image-size/large?v=v2&px=999 "ask-away-app.png")
 
 
 Installation instructions, detailed prerequisites and source code are
@@ -63,7 +63,7 @@ app can utilize one or more of there technologies.
     tested either in default Power Platform environment created for
     Office 365 subscription or some applications may require Dataverse
     environment. For production usage I suggest creating a separate
-    production environment, if your organization doesn\'t have one
+    production environment, if your organization doesn't have one
     already.
 
 **Deploying an app template to your environment**
@@ -95,7 +95,7 @@ template (ARM). Each app has a Deploy to Azure button, which opens up
 the Azure Portal based on your credentials.
 
 ![Deploy to Azure
-button](/t5/image/serverpage/image-id/246105iD3FE2AC7577F2AC3/image-size/large?v=v2&px=999 "68747470733a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67.png")
+button](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/246105iD3FE2AC7577F2AC3/image-size/large?v=v2&px=999 "68747470733a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67.png")
 
 Easiest way is to use that browser session, where you have logged in
 with an account linked to your Azure subscription where you like to
@@ -103,12 +103,12 @@ deploy the services. Based on required resources for the app, ARM
 template is providing different configuration options.
 
 ![Deploy resources to
-Azure](/t5/image/serverpage/image-id/246103iB35764A9C516E3AF/image-size/large?v=v2&px=999 "teams-app-azure-deployment.png")
+Azure](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/246103iB35764A9C516E3AF/image-size/large?v=v2&px=999 "teams-app-azure-deployment.png")
 
 First pick-up a subscription and a resource group to deploy new
 resources. I suggest creating a new resource group for the app, at least
-when you are testing, so you can easily manage app\'s resources and
-access to them. Choose something unique for Base Resource Name, it\'s
+when you are testing, so you can easily manage app's resources and
+access to them. Choose something unique for Base Resource Name, it's
 quite commonly used as part of deployed service URL endpoints, so it
 needs to be globally unique. Refer the app deployment documentation for
 other configuration options. Once complete click Create and Azure
@@ -137,7 +137,7 @@ PowerShell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pn
 installed and easiest way is to install it from PowerShell Gallery by
 running a command
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 Install-Module SharePointPnPPowerShellOnline
 ```
  
@@ -157,14 +157,14 @@ Solution require a separate Dataverse environment, which can be created
 from Power App admin portal.
 
 ![Import a Power
-App](/t5/image/serverpage/image-id/246116i18DE9014E96E203F/image-size/large?v=v2&px=999 "Screenshot 2021-01-13 175255.png")
+App](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/246116i18DE9014E96E203F/image-size/large?v=v2&px=999 "Screenshot 2021-01-13 175255.png")
 
 After import is complete, you can create a Teams app package for created
 Power App by selecting \"*Add to Teams*\". Fill-out details and click
 Download app.
 
 ![Download Teams app package for a Power
-App](/t5/image/serverpage/image-id/246117i4982A44AF401C3DA/image-size/large?v=v2&px=999 "2021-01-13_17-54-25.png")
+App](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/246117i4982A44AF401C3DA/image-size/large?v=v2&px=999 "2021-01-13_17-54-25.png")
 
 Install the app (downloaded zip file) to Teams either using side-loading
 or uploading the app to Teams app catalog.
@@ -173,22 +173,22 @@ or uploading the app to Teams app catalog.
 
 When you have your Teams app package ready, either downloaded from Power
 Apps portal or created following deployment guide, you can install it to
-Teams. Depending on your tenant\'s configuration, there is two options
+Teams. Depending on your tenant's configuration, there is two options
 for installing an app. With sideloading you can upload the app to you or
 your team. App is not available for anyone else in your tenant. To
 sideload an app open \"Apps\" in botton left corner on Teams client,
 click \"*Upload a custom app*\" and select \"*Upload for me or my
 teams*\". If the option is not available for you, sideloading is
-disabled. Configure the app and you\'re done.
+disabled. Configure the app and you're done.
 
 ![Add an app to
-Teams](/t5/image/serverpage/image-id/246124iEB526EE86024F4F9/image-size/large?v=v2&px=999 "2021-01-13_18-13-21.png")
+Teams](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/246124iEB526EE86024F4F9/image-size/large?v=v2&px=999 "2021-01-13_18-13-21.png")
 
 
 For uploading an app to your whole tenant, select \"*Upload a custom
 app*\" and select \"*Upload for \<your tenant name>*\". App will appear
 on \"*Built for \<your tenant name>\"* section on Apps. Other option is
-to upload your app on Teams Admin Center\'s app catalog. After uploading
+to upload your app on Teams Admin Center's app catalog. After uploading
 an app, it will be available for your users.
 
 **Wrap-up**

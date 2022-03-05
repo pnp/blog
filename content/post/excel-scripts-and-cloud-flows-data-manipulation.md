@@ -21,7 +21,7 @@ draft: false
 
 Have you discovered that the existing Power Automate actions for Excel
 are limited to Excel Tables?  Are you looking to take your cloud flow
-interactions with Excel to the next level?  Maybe it\'s time to start
+interactions with Excel to the next level?  Maybe it's time to start
 looking at [Excel
 Scripts](https://support.microsoft.com/en-us/office/introduction-to-office-scripts-in-excel-9fbe283d-adb8-4f13-a75b-a81c6baf163a)
 which are currently accessible to Power Automate as a Preview Feature.
@@ -33,7 +33,7 @@ even use Excel to perform some of the features missing to Power Automate
 like [sorting an
 array](https://www.tachytelic.net/2021/04/power-automate-sort-array-objects/).
  
-I have prepared a two part video series demo\'ing how you can use Power
+I have prepared a two part video series demo'ing how you can use Power
 Automate and Excel Scripts to both send data to a plain excel file and
 populate cells, rows and ranges but also in return, again using Excel
 Scripts, how you can create a table in an Excel file and return the
@@ -61,7 +61,7 @@ data based on the 4 variable types defined, examplevar1-4 as strings,
 numbers, multivariables and arrays.
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 function main(workbook: ExcelScript.Workbook,
   examplevar1: string,
   examplevar2: number,
@@ -148,7 +148,7 @@ this together.  The recording tool is also useful for getting an
 understanding of some of the functions available.
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 function main(workbook: ExcelScript.Workbook) {
   // Get the first worksheet 
   const selectedSheet = workbook.getFirstWorksheet();
@@ -176,7 +176,7 @@ function main(workbook: ExcelScript.Workbook) {
 ```
  
  
-**Where do you find Excel Scripts Functionality?**  It\'s an Excel
+**Where do you find Excel Scripts Functionality?**  It's an Excel
 Online feature.  Load up Excel and click on the Automate Tab.  Here you
 can view all scripts, record some actions and edit new or existing
 scripts that have been built.

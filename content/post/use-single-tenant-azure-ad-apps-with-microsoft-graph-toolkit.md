@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-![banner-mgt-login-single-tenant-azure-ad.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/294361iED2D1A77827CEB01/image-size/large?v=v2&px=999 "banner-mgt-login-single-tenant-azure-ad.png")
+{{< image alt="banner-mgt-login-single-tenant-azure-ad.png" src="images/blog/use-single-tenant-azure-ad-apps-with-microsoft-graph-toolkit/banner-mgt-login-single-tenant-azure-ad.png" >}}
 When using Microsoft Graph Toolkit with Azure AD single-tenant Azure AD
 apps, you need to adjust MSAL Provider initiation for your app to work.
 Here is how.
@@ -26,7 +26,7 @@ instead.
 Microsoft Graph Toolkit is available as a generic set of web components
 distributed through the
 **[\@microsoft](/t5/user/viewprofilepage/user-id/41501)/mgt** npm
-package. If you\'re [building apps with
+package. If you're [building apps with
 React](https://docs.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react?WT.mc_id=m365-12257-wmastyka),
 you can use the
 **[\@microsoft](/t5/user/viewprofilepage/user-id/41501)/mgt-react**
@@ -45,7 +45,7 @@ If you build applications using [SharePoint
 Framework](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-12257-wmastyka),
 you can reuse the existing authentication context. But if you build a
 standalone web app, you need to register an application in Azure Active
-Directory and use it with MGT\'s [MSAL
+Directory and use it with MGT's [MSAL
 Provider](https://docs.microsoft.com/graph/toolkit/providers/msal?WT.mc_id=m365-12257-wmastyka),
 like:
 ::: {.language-typescript .highlighter-rouge}
@@ -79,10 +79,10 @@ Azure AD app is registered.
 
 If you try to use a single-tenant Azure AD with Microsoft Graph Toolkit
 using the default MSAL Provider setup with just the `clientId`, when you
-try to login to your app, you won\'t be able to.
+try to login to your app, you won't be able to.
 
-![microsoft-graph-toolkit-single-tenant-azure-ad-no-login.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/294366iB99B44B2596F5C8E/image-size/large?v=v2&px=999 "microsoft-graph-toolkit-single-tenant-azure-ad-no-login.gif")
-While you won\'t see any error in the UI, if you open developer tools in
+{{< image alt="microsoft-graph-toolkit-single-tenant-azure-ad-no-login.gif" src="images/blog/use-single-tenant-azure-ad-apps-with-microsoft-graph-toolkit/microsoft-graph-toolkit-single-tenant-azure-ad-no-login.gif" >}}
+While you won't see any error in the UI, if you open developer tools in
 your browser and take a look at requests, you will see a GET request to
 `https://login.microsoftonline.com/common/reprocess` followed by a 302
 response with the error message in the query string:
@@ -95,10 +95,10 @@ http://localhost:3000/#error=invalid_request&error_description=AADSTS50194%3a+Ap
 
 For readability, here is the exact error message:
 
-> AADSTS50194: Application \'ab9533b2-4e1e-4aaf-8412-8f02cfb9484c\'(My
+> AADSTS50194: Application 'ab9533b2-4e1e-4aaf-8412-8f02cfb9484c'(My
 > M365 app) is not configured as a multi-tenant application. Usage of
 > the /common endpoint is not supported for such applications created
-> after \'10/15/2018\'. Use a tenant-specific endpoint or configure the
+> after '10/15/2018'. Use a tenant-specific endpoint or configure the
 > application to be multi-tenant
 
 For you to be able to use a single-tenant Azure AD app with Microsoft
@@ -120,9 +120,9 @@ the ID of the Azure Active Directory where you have registered your
 application.
 
 After this change, you will be able to use your app with Microsoft Graph
-Toolkit just as you\'d expect.
+Toolkit just as you'd expect.
 
-![microsoft-graph-toolkit-single-tenant-azure-ad-login.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/294368iA1DDC950C60457AF/image-size/large?v=v2&px=999 "microsoft-graph-toolkit-single-tenant-azure-ad-login.gif")
+{{< image alt="microsoft-graph-toolkit-single-tenant-azure-ad-login.gif" src="images/blog/use-single-tenant-azure-ad-apps-with-microsoft-graph-toolkit/microsoft-graph-toolkit-single-tenant-azure-ad-login.gif" >}}
 
 When you use multi-tenant Azure AD apps with Microsoft Graph Toolkit,
 instantiating the MSAL Provider with just the `clientId` is sufficient.

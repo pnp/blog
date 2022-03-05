@@ -27,7 +27,7 @@ but we will start simple by reporting all deleted Office 365 Groups
 CLI for Microsoft 365 would be just a single line:  
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad o365group recyclebinitem list
 ```
  
@@ -66,12 +66,12 @@ identity we need to make sure that it has the correct permissions. The
 [CLI for Microsoft 365
 docs](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity/#configure-api-permissions)
 explain in details what the steps are required. For our reporting
-scenario\'s we need support to query the Graph and SharePoint. You can
+scenario's we need support to query the Graph and SharePoint. You can
 use the CLI for Microsoft 365 to easily hand out the permissions you
 need with the following snippet: 
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad approleassignment add --displayName "ma-cli-test" --resource "Microsoft Graph" --scope "Sites.Read.All"
 m365 aad approleassignment add --displayName "ma-cli-test" --resource "Office 365 SharePoint Online" --scope "Sites.Manage.All"
 m365 aad approleassignment add --displayName "ma-cli-test" --resource "Microsoft Graph" --scope "Group.Read.All" 

@@ -3,7 +3,6 @@ title: "Bulk add/remove users to Microsoft Teams using the CLI for Microsoft 365
 date: 2021-10-05T03:08:00-04:00
 author: "Patrick Lamber"
 categories: ["CLI For Microsoft 365"]
-images: []
 tags: []
 type: "regular"
 draft: false
@@ -20,15 +19,15 @@ Velliah.](https://blog.josephvelliah.com/)
 
 The script requires a CSV file with different parameters:
 
-\- groupMailNickname: the mail alias used for the Microsoft 365 Group
+- groupMailNickname: the mail alias used for the Microsoft 365 Group
 associated to the current team
 
-\- userPrincipalName: the UPN of the user that should be processed
-
-\- role (owner, member): the role of the user. Can be owner or member.
+- userPrincipalName: the UPN of the user that should be processed
+-
+- role (owner, member): the role of the user. Can be owner or member.
 Keep it empty if you want to remove a user
 
-\- operation (add, remove): operation to execute
+- operation (add, remove): operation to execute
 
 
 ``` {.lia-code-sample .language-applescript}
@@ -41,7 +40,7 @@ groupMailNickname3, user3@domainname.com, , remove
 The script in question looks as follows:
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 $taskItems = import-csv "sample-input-file.csv" –header mailNickname, userEmail, role, action
 $groups = m365 aad o365group list -o json | ConvertFrom-Json
 
@@ -93,7 +92,6 @@ cross-platform CLI that allows you to manage various configuration
 settings of Microsoft 365 and SharePoint Framework projects no matter
 which operating system or shell you use.
 
-\
 While building solutions for Microsoft 365 expands beyond the Windows
 operating system, managing many of the platform settings is possible
 only through PowerShell on Windows. As more and more users work on
@@ -109,7 +107,7 @@ Get the latest release of the CLI for Microsoft 365 from npm by
 executing:
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
 

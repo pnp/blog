@@ -19,14 +19,14 @@ draft: false
 
 If you use Microsoft 365 (Office 365), you probably have been using
 [Microsoft Search](https://searchexplained.com/microsoft-search/), too.
-But there might be use cases, when it\'s not enough - for example, when
+But there might be use cases, when it's not enough - for example, when
 you need a customized Search Application. If this is the case, your
 number one option might be to deploy [PnP Modern Search Web
 Parts](https://github.com/microsoft-search/pnp-modern-search). This is
 an open source solution that helps you to build customized search
 applications in SharePoint Online modern experience.
 [However, this solution has to be deployed manually to your tenant.
-Let\'s see how.]
+Let's see how.]
 ## 1 - Download the PnP package
 
 
@@ -34,7 +34,7 @@ You can download the latest releases
 [HERE](https://github.com/microsoft-search/pnp-modern-search/releases/).
 
 
-You\'ll see there are two major versions: v3 and v4. Important notes:
+You'll see there are two major versions: v3 and v4. Important notes:
 
 
 -   **The v4 version uses a brand new code architecture and replaces the

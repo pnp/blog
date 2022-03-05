@@ -16,7 +16,7 @@ draft: false
 Sometimes we have a requirement to get reports of users and their roles
 on the SharePoint site and we have to export to CSV/Excel format. To
 achieve this solution we will use **PnP Powershell**. 
-Let\'s see step-by-step implementation:
+Let's see step-by-step implementation:
  
 
 ## Implementation 
@@ -35,7 +35,7 @@ array
 4\. And we will export the array to CSV format
 So in the end, our script will be like this,
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 $basePath = "E:\Chandani\Blogs\UserRolesPS\"
 $dateTime = "{0:MM_dd_yy}_{0:HH_mm_ss}" -f (Get-Date)
 $csvPath = $basePath + "\userdetails" + $dateTime + ".csv"

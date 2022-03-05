@@ -17,7 +17,7 @@ First of all: a custom connector and a https request generally do the
 exact same thing. They both call an endpoint of a specific api to get
 data back.
 
-Since this is a blog for beginner, I won\'t got into the very details of
+Since this is a blog for beginner, I won't got into the very details of
 custom connectors and http requests, yet there is a straight forward
 explanation for when to use a custom connector instead of a http
 request:
@@ -34,11 +34,11 @@ Multiple people can use your connector OR you could even use multiple
 actions in one connector. You see, there are a few more possibilities
 with custom connectors to http requests.
 
-So, let\'s build one right now, shall we? 👏🏼
+So, let's build one right now, shall we? 👏🏼
 
 ## Build a custom connector
 
-Since this is part two of my mini series \"working with APIs\" I\'m
+Since this is part two of my mini series \"working with APIs\" I'm
 using the same scenario and api as last time. I use an open API to get
 the number of the day from a website called MathTOOLs. I will post this
 number in a Microsoft Teams channel afterwards.
@@ -50,7 +50,7 @@ dashboard](http://www.flow.microsoft.com). Select \"Data\" and then
 
 {{< image alt="custom-connector-1.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-1.png" >}}
 
-no, it\'s not the Connectors menu, but the Data menu
+no, it's not the Connectors menu, but the Data menu
 
 If you already have some, they will be listed here, if not this page is
 empty. Select \"+ New custom connector\" in the upper right corner and
@@ -78,20 +78,20 @@ On the first page is only one mandatory field to fill out. We need to
 give a Host for our custom connector (but I strongly recommend to fill
 out the Description as well. Especially when you want to share it, give
 your colleagues an idea of what your custom connector does ;)). Now you
-might think, that\'s the endpoint, like in the previous blog, but it\'s
+might think, that's the endpoint, like in the previous blog, but it's
 not. The endpoint is connected to a certain method (GET, PUT, POST,
-PATCH, DELETE) and since we haven\'t defined our method yet, this is
+PATCH, DELETE) and since we haven't defined our method yet, this is
 something else. The host is a part of the URL, usually the documentation
 will tell you.
 
-In this case, it\'s **api.math.tools**
+In this case, it's **api.math.tools**
 
 You can also upload a nice icon for you connector (which I love,
 obviously), just make sure that the file is .png or .jpg and smaller
 than 1MB.
 
-You don\'t need to fill out the rest. We will look into that at a
-another blog of this series. For now we\'re good and we can click on
+You don't need to fill out the rest. We will look into that at a
+another blog of this series. For now we're good and we can click on
 \"Security\" either in the lower right corner or in the navigation at
 the top of the page.
 
@@ -103,11 +103,11 @@ corner
 
 2. Security
 
-Since we use an open API we don\'t need to fill out anything here
+Since we use an open API we don't need to fill out anything here
 
 3. Definition
 
-Now things are getting interesting, since we\'re defining the other
+Now things are getting interesting, since we're defining the other
 parameters here. For this example, we just want to create an action that
 gets us the number of the day.
 
@@ -126,7 +126,7 @@ Description: Gives colleagues a good idea of what it does
 Operation ID: This is going to be the string, which is used in the
 operation. Keep it simple, I guess.
 
-After that information is provided it\'s time for our request.
+After that information is provided it's time for our request.
 
 {{< image alt="custom-connector-6.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-6.png" >}}
 
@@ -137,14 +137,14 @@ In this case the method is: **GET**, the URL is
 **<https://api.math.tools/numbers/nod>**
 
 (We provided the same information at the last part, where we needed to
-give those to the https request, remember?. When we\'re done, select
+give those to the https request, remember?. When we're done, select
 \"Import\" to finish this step.
 
 {{< image alt="custom-connector-7.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-7.png" >}}
 
 feels familiar?
 
-Now it\'s time to actually create the connector. Select \"Create
+Now it's time to actually create the connector. Select \"Create
 connector\" in the upper right corner and keep your fingers crossed
 
 Usually you get a success notification :white_heavy_check_mark: above
@@ -172,12 +172,12 @@ If you did everything right you should get a status 200 response. This
 is a good thing :)
 
 Congratulations, you just created your very own custom connector. Now
-let\'s take this baby for a test drive in Power Automate, shall we? 8)
+let's take this baby for a test drive in Power Automate, shall we? 8)
 
 ## Use your custom connector in Power Automate
 
 As in the last part, we want the information about the number of the day
-and use it somewhere. Let\'s go for Microsoft Teams once again and post
+and use it somewhere. Let's go for Microsoft Teams once again and post
 the number of the day in a channel.
 
 Our flow contents of three actions:
@@ -197,9 +197,9 @@ choosing a connector in Power Automate
 
 Click on custom to see all custom connectors.
 
-Since our connector just has one action, that\'s all we needed to do.
+Since our connector just has one action, that's all we needed to do.
 
-Now let\'s put the value in a variable, so the number of the day is
+Now let's put the value in a variable, so the number of the day is
 always up to date. Select the action \"Initialize variable\" and put in
 the following information:
 
@@ -215,7 +215,7 @@ first blog of the series: Working with APIs in Power Platform for
 beginners. Basically we want to get a certain value within this JSON
 object, which we get with a function:
 
-\`body(\'Get_Number\')\[\'contents\'\]\[\'nod\'\]\[\'numbers\'\]\[\'number\'\]\`
+\`body('Get_Number')\['contents'\]\['nod'\]\['numbers'\]\['number'\]\`
 
 Do you recognize the difference to the last function we used for the
 http request? Just the body is different, because we named it that while
@@ -226,7 +226,7 @@ boss
 
 {{< image alt="custom-connector-11.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-11.png" >}}
 
-And that\'s it. That is how you call an API, get a JSON object back and
+And that's it. That is how you call an API, get a JSON object back and
 use certain values from that object in Power Automate\...with a custom
 connector. Congratulations :)
 
@@ -235,6 +235,6 @@ questions, recommendations or found some typos, reach out to me [on
 twitter](https://twitter.com/MichaelRoth42).
 
 Next API topic: Both methods (https request and custom connector) are
-working fine for open APIs where we don\'t need any authentication. Next
-blog will be about https requests with authentication. Let\'s tame the
+working fine for open APIs where we don't need any authentication. Next
+blog will be about https requests with authentication. Let's tame the
 auth beast together.

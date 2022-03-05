@@ -24,7 +24,7 @@ automate, deploy or manage Microsoft 365, those written with:
 -   other Microsoft 365 related scripts\...
 
 Our intention is simply to make it easier for people to share and find
-automation samples for the Microsoft 365 - got scripts you\'ve built? -
+automation samples for the Microsoft 365 - got scripts you've built? -
 share them with others!  Well now you can, **introducing PnP Script
 Samples!**
 

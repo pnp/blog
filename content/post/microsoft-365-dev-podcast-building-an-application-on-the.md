@@ -22,9 +22,9 @@ Listen to the show here: 
 -   [Squarl](https://squarl.com/)
 -   [VSCode: MS Graph
     Completion](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-msgraph-autocomplete)
--   [Elio\'s extension on Visual Studio
+-   [Elio's extension on Visual Studio
     Marketplace](https://marketplace.visualstudio.com/publishers/eliostruyf)
--   [Elio\'s blog](https://www.eliostruyf.com/)
+-   [Elio's blog](https://www.eliostruyf.com/)
 
 ## Microsoft News 
 
@@ -43,5 +43,5 @@ Listen to the show here: 
     (\@johnny_reilly)](https://blog.johnnyreilly.com/2021/07/07/output-connection-strings-and-keys-from-azure-bicep/?utm_source=pocket_mylist)
 -   [Updated script to re-index user profiles for
     search](https://www.techmikael.com/2021/06/updated-script-to-re-index-user.html?utm_source=pocket_mylist)
--   [StreamDeck series on Paul\'s
+-   [StreamDeck series on Paul's
     blog](https://www.schaeflein.net/tag/streamdeck/)

@@ -13,7 +13,7 @@ draft: false
 
 **Call Summary:**
 
-This month\'s community call features presentations on Excel JS API
+This month's community call features presentations on Excel JS API
 v1.13 updates, PowerPoint ribbon updates, UX changes for Outlook add-ins
 on the web and Discussion on building for the Microsoft 365 ecosystem. 
 Discussion focused on ways Microsoft can help developers to be more
@@ -124,7 +124,7 @@ A:  Our goal is to make sure our user experience features are
 consistent across all hosts. Currently, these updates are only
 available in PowerPoint. 
 
-**Q:  Can you bring in a ribbon item, that isn\'t in one of the default
+**Q:  Can you bring in a ribbon item, that isn't in one of the default
 tabs, into your own tab?** 
 
 A:  You can bring in any native feature that is currently supported. See
@@ -138,7 +138,7 @@ A:  We have some of the shapes API in preview documented in the
 article [PowerPoint JavaScript preview
 APIs](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Foffice%2Fdev%2Fadd-ins%2Freference%2Frequirement-sets%2Fpowerpoint-preview-apis&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C4428509363454852ad7308d8ee27d922%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637521202237540621%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=UZ17mWlGpp3%2BN0mGGhHSE3VYcBmeN5bio0xh4gpu0cw%3D&reserved=0).
 We also have some additional APIs planned around adding
-shapes, textbox and tags to shapes. We don\'t have a concrete timeline
+shapes, textbox and tags to shapes. We don't have a concrete timeline
 yet. 
 ***Miscellaneous questions**
 
@@ -152,7 +152,7 @@ yet. 
 disable web-plugins for Outlook on Windows. Where can we find
 documentation on what registry keys to set and where?** 
 
-A:  We haven\'t yet documented the Group Policy (\"Deactivate Outlook
+A:  We haven't yet documented the Group Policy (\"Deactivate Outlook
 web add-ins whose equivalent COM or VSTO add-in is installed\") that
 configures this behavior. However, it will be added to the article [Make
 your Office Add-in compatible with an existing COM

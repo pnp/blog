@@ -71,7 +71,7 @@ everyone for your contributions to the community!
     Outlook](https://techcommunity.microsoft.com/t5/microsoft-365-blog/visualize-and-contextualize-people-and-teams-with-a-new/ba-p/2384435?WT.mc_id=m365-30273-wmastyka) -
     [Bill Baer](https://twitter.com/williambaer) (Microsoft)
     \| \@williambaer
--   [What\'s new for admins in Microsoft 365 Apps for enterprise - April
+-   [What's new for admins in Microsoft 365 Apps for enterprise - April
     and May
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-for-admins-in-microsoft-365-apps-for-enterprise-april/ba-p/2382111?WT.mc_id=m365-30273-wmastyka) -
     Microsoft

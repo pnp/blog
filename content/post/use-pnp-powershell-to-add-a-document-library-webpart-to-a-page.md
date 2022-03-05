@@ -57,7 +57,7 @@ PnP Powershell and I will not explain how to install and configure it to
 run.
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Connect-PnPOnline -Url https://yourtenant.sharepoint.com/sites/thesite/ -UseWebLogin
 ```
 
@@ -73,7 +73,7 @@ the [Add-PnPClientSidePage ](https://pnp.github.io/powershell/cmdlets/Add-PnPC
 I am using the \$name variable here to give it a name.
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Add-PnPClientSidePage -Name $name
   -LayoutType Article
   -HeaderLayoutType NoImage
@@ -96,7 +96,7 @@ the [Add-PnPClientSidePageSection](https://pnp.github.io/powershell/cmdlets/Add
 I can just add a TwoColumn section on the page.
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Add-PnPClientSidePageSection -Page $name -SectionTemplate TwoColumn -Order 1
 ```
 
@@ -106,7 +106,7 @@ Adding a text editor is super easy, just use the Add-PnPClientSideText
 command. Don't forget to add some text or it will fail.
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Add-PnPClientSideText -Page $name -Section 1 -Column 1 -Text " "
 ```
 
@@ -143,7 +143,7 @@ in the url:
 ![SharePoint document library ID in the url of the library settings
 page](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287222iE3871EB251E50F68/image-size/large?v=v2&px=999 "documentlibrary-id.png")
 
-Just cut out the %7B in the front, and the %7D on the back.\
+Just cut out the %7B in the front, and the %7D on the back.
 In this example, the document library Id is
 4683b239-caf6-40a3-96c4-a02dedfa3418.
 
@@ -155,7 +155,7 @@ there. So here it is:
 
 In the WebPartProperties, add selectedFolderPath="/yourfoldername";
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Add-PnPClientSideWebPart -Page $name
   -DefaultWebPartType List -Section 1 -Column 2
   -WebPartProperties @{isDocumentLibrary="true";
@@ -174,7 +174,7 @@ In the same way as showing just files from a specific folder, you can
 use the hideCommandBar="false"; in the WebPartProperties:
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Add-PnPClientSideWebPart -Page $name
   -DefaultWebPartType List -Section 1 -Column 2
   -WebPartProperties @{isDocumentLibrary="true";
@@ -191,7 +191,7 @@ publish the page so it is visible to all visitors. For that, we need to
 grab the page again and publish it.
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 $page = Get-PnPClientSidePage -Identity $name
 $page.Publish()
 ```
@@ -210,7 +210,7 @@ A2 & CHAR(34) &",") and added an array to store these.
 
 The full code is:
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Connect-PnPOnline -Url https://yourtenant.sharepoint.com/sites/Yoursite/ -UseWebLogin
 $ray = "folder1",
 "folder2",

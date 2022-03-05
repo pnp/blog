@@ -62,7 +62,7 @@ representing an HTML element, with optional attributes, CSS styling, and
 child elements.
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
     "elmType": "div",
@@ -93,7 +93,7 @@ do was display the icon, then we're all set. But what if we also want to
 show the text content that was originally being displayed as well?
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
   "elmType": "div",
@@ -141,7 +141,7 @@ leaves on his adventure). Here is the definition used for the
 transformation shown at the beginning.
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
     "elmType": "span",
@@ -190,7 +190,7 @@ properties we can use to display different things related to our people.
 Below is a complete example of a user object.
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
    "id": "122",
    "title": "Kalya Tucker",
@@ -212,7 +212,7 @@ picker into something with a little more flair.
 Here's the JSON definition.
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
   "elmType": "div",
@@ -275,7 +275,7 @@ make the following transformation.
 Here's the definition:
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
     "elmType": "img",
@@ -290,7 +290,7 @@ Here's the definition:
 ```
  
 
-We\'ve taken some images, which were found -- and purchased -- a website
+We've taken some images, which were found -- and purchased -- a website
 (there's a link included in the resources section at the end of this
 post), and uploaded them into a folder named "RaceIcons" inside of the
 standard Site Assets library on my SharePoint site. They're also named
@@ -308,14 +308,14 @@ special attribute named *forEach*.
 Let's look at our **Weapons** multi-choice field transformation to see
 how this works. Perhaps my favorite character to see battling it out on
 screen was Gandalf. Watching him swinging a sword and staff around was
-really exciting, so we'll use him as our example.\
+really exciting, so we'll use him as our example.
 \
 
 {{< image alt="Will_Holland_7-1615739594949.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_7-1615739594949.png" >}}
 Here's our definition.
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
     "elmType": "div",
@@ -366,7 +366,7 @@ on the role.
 And here's the definition.
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
     "elmType": "div",
@@ -412,7 +412,7 @@ The **From** column is a lookup column that references list items in a
 And the definition\...
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
     "elmType": "div",

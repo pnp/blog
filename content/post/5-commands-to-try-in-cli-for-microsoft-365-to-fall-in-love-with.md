@@ -21,7 +21,7 @@ lists](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/should-we-u
 I found some more commands that made me fall in love with it. CLI for
 Microsoft 365 has three main benefits from my point of view:
 
--   it\'s platform-agnostic and even works on [Azure Cloud
+-   it's platform-agnostic and even works on [Azure Cloud
     Shell](https://azure.microsoft.com/en-us/features/cloud-shell/?&ef_id=Cj0KCQiAnKeCBhDPARIsAFDTLTIDlnMADqglDP6WLiQ_Yq23PQL7px3W9ElP7bBanGB6762ENh6DzScaAsTxEALw_wcB:G:s&OCID=AID2100049_SEM_Cj0KCQiAnKeCBhDPARIsAFDTLTIDlnMADqglDP6WLiQ_Yq23PQL7px3W9ElP7bBanGB6762ENh6DzScaAsTxEALw_wcB:G:s) so
     that every browser can be my admin machine
 -   the syntax is easy and almost intuitive to use for me, although I
@@ -41,7 +41,7 @@ Code, but you can use any other shell you like to use.
 
 ## Get a list of Power Apps
 
-Wouldn\'t it be nice to get a list of apps? This is what I thought as
+Wouldn't it be nice to get a list of apps? This is what I thought as
 well. We will look into the [CLI for Microsoft 365
 documentation](https://pnp.github.io/cli-microsoft365/cmd/pa/app/app-list/) find
 the command to list all Power Apps in this tenant, which gives us an
@@ -111,7 +111,7 @@ With
 
 we can remove users.
 
-## Feedback & What\'s next?
+## Feedback & What's next?
 
 I hope that you now got an idea of how you can get started with CLI for
 Microsoft 365 :) Shall I blog more about it and show even more commands?

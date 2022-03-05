@@ -23,8 +23,8 @@ draft: false
 
 Just before Southcoast Summit 2021 got started, the organizers hosted
 the **Automate Everything - SS2021 Hackathon** where every solution
-revolves around Flic buttons. Wait, you don\'t know what a Flic button
-is? It\'s basically a wireless smart button that lets you control
+revolves around Flic buttons. Wait, you don't know what a Flic button
+is? It's basically a wireless smart button that lets you control
 devices, apps and services. Push once, twice or hold the button and let
 each variant trigger a different action. There are multiple use cases in
 business but also in personal life in which Flic buttons make your life
@@ -61,15 +61,15 @@ Every Petrol Push car got a Flic button installed and whenever Petrol
 Push volunteers pass a gas station, they can indicate with a push of a
 button, whether the gas station has fuel available or not. This
 information gets stored on a map so every Petrol Push employee knows
-where fuel is available and where it\'s not. This way the volunteers can
-keep their focus on their mission. They don\'t need to drive around
+where fuel is available and where it's not. This way the volunteers can
+keep their focus on their mission. They don't need to drive around
 searching for fuel or worry where to gas up. The community of volunteers
 takes care of that.
 
 
-Petrol Push cares deeply about their volunteers so they don\'t want to
-put them in danger in any way. That\'s why this solution comes with a
-little extra. Petrol Push workers don\'t have to check the map over and
+Petrol Push cares deeply about their volunteers so they don't want to
+put them in danger in any way. That's why this solution comes with a
+little extra. Petrol Push workers don't have to check the map over and
 over again to see whether anything has changed. If one of the volunteers
 found a gas station where fuel is available, the button gets pushed and
 the fleet will get notified with a song. That way the drivers know when
@@ -82,7 +82,7 @@ again, Petrol Push cares about their volunteers deeply so the Flic
 button provides the opportunity to call other volunteers on the road for
 help. Once again with a song, so no other driver needs to check their
 phone. The position gets indicated on the map though, so that help can
-be arranged quickly. It\'s only the supervisor that gets an additional
+be arranged quickly. It's only the supervisor that gets an additional
 text message in order to provide further information.
 
 
@@ -92,10 +92,10 @@ based on text. In this way, we want to draw attention to how versatile
 Power Platform solutions are and we also want to think about the people
 who can only use devices in a limited way. Please use this use case to
 customize it to your needs. And always remember, only as a community we
-are strong, so let\'s be inclusive*
+are strong, so let's be inclusive*
 
 
-Now, let\'s dive into details and see how this solution actually works
+Now, let's dive into details and see how this solution actually works
 
 
 ## The Flic and the flow (Tomasz) 
@@ -105,9 +105,9 @@ Now, let\'s dive into details and see how this solution actually works
 In a big picture, the flow was built to get information about location
 of a driver who triggered it, next to lookup details of the closest
 petrol station (**by using** **Azure Maps API**). Finally to save the
-station\'s data together with status into database, so later it can be
+station's data together with status into database, so later it can be
 displayed with a proper color of a pin, inside the app. But in details,
-it\'s much more interesting.
+it's much more interesting.
 
 
 ![PetrolFlow -
@@ -125,22 +125,22 @@ part2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/3194
 
  
 Next the flow calls **Azure Maps custom connector** via a dedicated
-child flow (1), by passing latitude and longitude of a driver\'s
-location. Coordinates are obtained using GPS from driver\'s phone that
+child flow (1), by passing latitude and longitude of a driver's
+location. Coordinates are obtained using GPS from driver's phone that
 is paired with Flic button. Obviously this should be done using the
 action directly within the parent flow, however for some *unknown
 reasons *we were facing an issue while saving process with the action
-inside, so we decided to move it into a child flow. Don\'t judge :)
+inside, so we decided to move it into a child flow. Don't judge :)
 
 Data returned by the child flow, that represents details about the
 nearest petrol station is then parsed (2).
 
-Finally bot using postal code is filtering existing stations\' data to
+Finally bot using postal code is filtering existing stations' data to
 get a match (3). This is done using ODATA expression:
 
 
 `woi_postalcode eq '@{first(body('Parse_JSON')?['results'])?['address']?['extendedPostalCode']}'`.
-Then it saves its row ID into variable (4). Naturally, if there\'s no
+Then it saves its row ID into variable (4). Naturally, if there's no
 station for the given postal code, variable will be empty. \*\*We also
 made an assumption\*\*, that there can be one station for a given postal
 code :)
@@ -153,7 +153,7 @@ part3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/3194
 
 
 
-Process now checks, if station\'s row ID is empty (1) - if yes, it means
+Process now checks, if station's row ID is empty (1) - if yes, it means
 it has to be created. Creation (2) of the record takes all the details
 returned from Azure Maps API, like full address, station name, lat and
 lon, information about driver who reported it and finally - the postal
@@ -170,14 +170,14 @@ Now process moves to check what kind of action occurred on the Flic.
 There are 3 possible activities:
 
 
-- **Single click** - means that there\'s petrol on the station,
+- **Single click** - means that there's petrol on the station,
 
 
 
-- **Double click** - means that there\'s no petrol on the station,
+- **Double click** - means that there's no petrol on the station,
 
 
-- **Long press** - means there\'s an issue and driver requires
+- **Long press** - means there's an issue and driver requires
 assistance.
 
 
@@ -202,7 +202,7 @@ What is also worth to mention is that the whole process is built using
 the **try-catch** pattern. All actions that are executed in terms of the
 business logic are stored in the \"Try\" scope (1). If anything fails
 within the scope, it is caught by the \"Catch\" scope (2), that has
-it\'s \"Run after\" settings configured to only be executed if previous
+it's \"Run after\" settings configured to only be executed if previous
 actions fails, times out or is skipped.
 
 
@@ -211,7 +211,7 @@ scope, using the expression `result('Try')` to leave only those entries
 which contain information about errors:
 `@equals(createArray('Failed', 'TimedOut'), '')`. Next for each such
 record (4) it is adding information about the details to a string
-variable. Finally, variable\'s contents is sent to admin as a
+variable. Finally, variable's contents is sent to admin as a
 notification (5) and the whole process ends up with \"Failed\" outcome.
 
 
@@ -227,7 +227,7 @@ name and refresh icon) and a map control.
 
 We are using the built-in map control, which allows us to display the
 gas stations with their appropriate color, automatically center on the
-user\'s current location and display additional information about each
+user's current location and display additional information about each
 gas station when selecting the location pin.
 
 
@@ -273,7 +273,7 @@ pane of the map. Four fields are shown on the info card:
 - Name
 - Address
 - Postal code
-- Modified on (to know when the station\'s status was last updated)
+- Modified on (to know when the station's status was last updated)
 
 This can be seen on the below screenshot.
 
@@ -312,7 +312,7 @@ when the Flic button was pressed.
 
 We like to celebrate victories and help each other in times of need, and
 what better way than use music for this? We have a sound system in the
-office connected to Spotify so let\'s use that to keep everyone updated
+office connected to Spotify so let's use that to keep everyone updated
 on things that happen on the road!
 
 
@@ -327,17 +327,17 @@ Coldplay](https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO?si=97cdd52cd8744
 we know we need to rush to rescue) and a text message is sent to the
 manager.
 
-Integrating with Spotify isn\'t too difficult (the API is
+Integrating with Spotify isn't too difficult (the API is
 well-documented) but requires the creation of a custom connector with
 following API actions:
 
 
 
-- [Get a User\'s Available
+- [Get a User's Available
 Devices](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-a-users-available-devices):
 fetch a list of all devices currently connected to the Spotify service
 
-- [Start/Resume a User\'s
+- [Start/Resume a User's
 Playback](https://developer.spotify.com/documentation/web-api/reference/#/operations/start-a-users-playback):
 play a song on a specific device
 
@@ -346,8 +346,8 @@ filter them on the device id of our office sound system. If the device
 is connected, we can play the appropriate song for the occasion with the
 second API call.  
 
-And lastly, for the text message we\'ll use Twilio. Luckily they have an
-existing connector within Power Automate so it\'s only a matter of
+And lastly, for the text message we'll use Twilio. Luckily they have an
+existing connector within Power Automate so it's only a matter of
 registering for a Twilio account, getting a number to send messages from
 and configuring the action in our flow.
 

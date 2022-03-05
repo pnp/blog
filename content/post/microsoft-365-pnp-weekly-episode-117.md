@@ -49,7 +49,7 @@ Microsoft articles:
 -   [Microsoft Viva announcements at Microsoft
     Ignite](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-viva-announcements-at-microsoft-ignite/ba-p/2175907) - [Seth
     Patton](https://twitter.com/SethPat) (Microsoft) \| \@SethPat
--   [What\'s New in Microsoft Teams \| Microsoft Ignite
+-   [What's New in Microsoft Teams \| Microsoft Ignite
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-microsoft-ignite-2021/ba-p/2118226) -
     Microsoft
 -   [What's new for Microsoft Lists - Microsoft Ignite 2021 \[Mar.2-4\]
@@ -66,7 +66,7 @@ Microsoft articles:
     training](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/help-employees-transition-to-hybrid-work-using-a-new-sharepoint/ba-p/2181914) - [Matt
     Wolodarsky](https://twitter.com/mwolodarsky) (Microsoft)
     \| \@mwolodarsky
--   [What\'s new in Security and Compliance in SharePoint, OneDrive, and
+-   [What's new in Security and Compliance in SharePoint, OneDrive, and
     Teams - Microsoft Ignite
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-security-and-compliance-in-sharepoint-onedrive-and/ba-p/2171879) - [Sesha
     Mani](https://twitter.com/SeshaManiS) (Microsoft) \| \@SeshaManiS
@@ -129,7 +129,7 @@ Community articles:
 -   [SharePoint Syntex AI - tips for choosing between document
     understanding and form processing
     models](https://www.sharepointnutsandbolts.com/2021/03/syntex-tips-document-understanding-forms-processing.html) - [Chris
-    O\'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
+    O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
     \| \@ChrisO_Brien
 Additional resources:
 -   Migration Tool - [Metalogix Content Matrix

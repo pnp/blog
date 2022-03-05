@@ -84,7 +84,7 @@ To achieve this formatting, the view needs to be formatted using JSON.
  
 The complete JSON is provided below.
  
-``` {.lia-code-sample .language-json}
+```json
 {
   "schema": "https://developer.microsoft.com/json-schemas/sp/view-formatting.schema.json",
   "height": 400,

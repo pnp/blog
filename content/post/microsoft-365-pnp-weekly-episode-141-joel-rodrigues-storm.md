@@ -39,7 +39,7 @@ Topics discussed in this session --
 -   Upon submitting code to community, start thinking about scale from
     day one. 
 -   Microsoft vs Community owned tools.
--   Joel\'s recent focus -- Azure functions, authentication and PnP
+-   Joel's recent focus -- Azure functions, authentication and PnP
     Provision engine work.
 -   Samples vs blueprints     
 

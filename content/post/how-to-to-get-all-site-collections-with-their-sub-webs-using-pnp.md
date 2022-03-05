@@ -14,7 +14,7 @@ draft: false
 Sometimes we have a business requirement to get site collections with
 all the sub-webs so we can achieve the solution easily using PnP
 Powershell.
-Let\'s see step-by-step implementation:
+Let's see step-by-step implementation:
 
 ## Implementation 
 Open Windows Powershell ISE\
@@ -31,7 +31,7 @@ Admin site.
 So in the end, our script will be like this,
  
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 $SiteURL = "https://domain-admin.sharepoint.com/"
 $UserName = "UserName@domain.onmicrosoft.com"
 $Password = "********"

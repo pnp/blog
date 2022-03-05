@@ -3,7 +3,6 @@ title: "A JMESPath cheat sheet for the CLI for Microsoft 365"
 date: 2021-12-10T04:23:00-05:00
 author: "Albert-Jan Schot"
 categories: ["CLI For Microsoft 365"]
-images: []
 tags: []
 type: "regular"
 draft: false
@@ -159,6 +158,6 @@ The query would sort and return the **User Principal Name** for top
 three users with the most edited files. 
 
 Hope this cheat sheet helps you in case you are working with JMESPath
-queries and don\'t hesitate to share your common scenario\'s as well!
+queries and don't hesitate to share your common scenario's as well!
 
 #sharingiscaring  

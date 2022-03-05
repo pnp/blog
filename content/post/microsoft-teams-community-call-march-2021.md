@@ -17,7 +17,7 @@ draft: false
 
 **Call Summary:**
 
-This month\'s community call featured latest look at the **Teams Sample
+This month's community call featured latest look at the **Teams Sample
 Repository** (consolidated sample code Repo for Teams platform), then
 two Community Sample Showcase entries:  **Business to Citizen Consumer
 Communication Bot** (allows citizen end-users with no Teams license to

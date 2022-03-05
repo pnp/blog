@@ -100,7 +100,7 @@ open, fill in the below details.
 {{< image alt="SiddharthVaghasia_1-1628135161497.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_1-1628135161497.png" >}}
 
 So we have all the things required from the QBO side of integration,
-let\'s move ahead. 
+let's move ahead. 
 
 Assuming now you already have Postman and MS flow license, let us go
 ahead and see the overall approach we will follow for this integration.
@@ -237,7 +237,7 @@ this [link](https://developer.intuit.com/app/developer/qbo/docs/api/accounting/
 
 **Step 5 -- Export collection**
 
-Now we are done with the postman and it\'s time to export this
+Now we are done with the postman and it's time to export this
 collection, which will be used in Power automate to create the custom
 connector.
 
@@ -247,7 +247,7 @@ save it at your preferred location.
 
 **Step 6 -- Create a custom connector**
 
-Now it\'s time to go to Power automate and create a custom connector.
+Now it's time to go to Power automate and create a custom connector.
 
 Go [here](https://flow.microsoft.com/).
 
@@ -318,15 +318,15 @@ TO
 
 For Get Invoice parameters we added
 
-\- {name: companyid, default: \'{{companyid}}\', in: path, type: string,
+- {name: companyid, default: '{{companyid}}', in: path, type: string,
 required: true}
 
-\- {name: invoiceId, default: \'{{invoiceId}}\', in: path, type: string,
+- {name: invoiceId, default: '{{invoiceId}}', in: path, type: string,
 required: true}
 
 For Create Invoice parameters we added.
 
-\- {name: companyid, default: \'{{companyid}}\', in: path, type: string,
+- {name: companyid, default: '{{companyid}}', in: path, type: string,
 required: true}
 
 This is how it will look after the change.
@@ -362,7 +362,7 @@ operation, If you got output as marked as no.5, we are good.
 :smiling_face_with_smiling_eyes:
 
 {{< image alt="SiddharthVaghasia_25-1628135161760.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_25-1628135161760.png" >}}
-Congratulation our custom connector is created successfully, now it\'s
+Congratulation our custom connector is created successfully, now it's
 time to create a sample flow to use this connector and its methods. For
 sake of simplicity, I am creating a flow with Manual Trigger.
 

@@ -28,11 +28,11 @@ change not being updated in the settings of the action can cause a
  \"*ValidationFailed error*\" :cross_mark:. Such an error
 will stop the Flow because the schema validation failed:
 
-![PowerAutomate_ParseJSONfail](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279338i323A98A1BF42BFF5/image-size/large?v=v2&px=999 "PowerAutomate_ParseJSONfail")
+{{< image alt="PowerAutomate_ParseJSONfail" src="images/blog/power-automate-skip-the-parse-json-action-to-reference-data/PowerAutomate_ParseJSONfail.png" >}}
 
 
 As long as you remind to also update the Parse JSON action schema, it
-will continue working fine.\
+will continue working fine.
 But in my case, I wanted to know if Power Automate could skip the Parse
 JSON action
 
@@ -46,9 +46,9 @@ action less that could fail (#Lean #LessActionsLessRisks).
 
 ## How? 
 
-Let\'s first have a look at a simple JSON object:
+Let's first have a look at a simple JSON object:
 
-![PowerAutomate_JSONobject](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279339i9313C25EF739BD0E/image-size/large?v=v2&px=999 "PowerAutomate_JSONobject")
+{{< image alt="PowerAutomate_JSONobject" src="images/blog/power-automate-skip-the-parse-json-action-to-reference-data/PowerAutomate_JSONobject.png" >}}
 
 
 
@@ -69,7 +69,7 @@ In these cases, the properties of these action do not show up in the
 Dynamic Content Panel for the rest of your Flow. When using the Parse
 JSON action on the output of such an action:
 
-![PowerAutomate_parseJSON](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279340iF22ACD84A9E2CF43/image-size/large?v=v2&px=999 "PowerAutomate_parseJSON")
+{{< image alt="PowerAutomate_parseJSON" src="images/blog/power-automate-skip-the-parse-json-action-to-reference-data/PowerAutomate_parseJSON.png" >}}
 
 
 we can force the rest of the Flow to show us these properties in the
@@ -86,7 +86,7 @@ output of the Compose - SimpleJSONObject action:
 Thanks to the Parse JSON - SimpleJSONObject action, we can (from this
 action on) use the properties defined in its Schema as Dynamic Content:
 
-![PowerAutomate_parseJSONreference](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279341iF2487F45ACA049EE/image-size/large?v=v2&px=999 "PowerAutomate_parseJSONreference")
+{{< image alt="PowerAutomate_parseJSONreference" src="images/blog/power-automate-skip-the-parse-json-action-to-reference-data/PowerAutomate_parseJSONreference.png" >}}
 
 The expression of this reference would look like:
 
@@ -120,7 +120,7 @@ SimpleJSONObject action directly. We can use an expression like:
 Power Automate can thus skip the Parse JSON action. Even without this
 parsing, we can reference the property of any action with a JSON output:
 
-![PowerAutomate_parseJSONreferenceDirectly](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279342iC4B3DB0A80608CEA/image-size/large?v=v2&px=999 "PowerAutomate_parseJSONreferenceDirectly")
+{{< image alt="PowerAutomate_parseJSONreferenceDirectly" src="images/blog/power-automate-skip-the-parse-json-action-to-reference-data/PowerAutomate_parseJSONreferenceDirectly.png" >}}
 
 No Parse JSON action needed!
 

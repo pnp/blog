@@ -162,7 +162,7 @@ everyone for your contributions to the community!
     log](https://github.com/pnp/pnpjs/blob/main/CHANGELOG.md) - [Julie
     Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
     \| \@jfj1997
--   [spfx-fast-serve 3.0: it\'s all about
+-   [spfx-fast-serve 3.0: it's all about
     simplicity](https://spblog.net/post/2021/05/12/spfx-fast-serve-3-0-it-s-all-about-simplicity) -
     [Sergei Sergeev](https://twitter.com/sergeev_srg) (Mastaq)
     \| \@sergeev_srg

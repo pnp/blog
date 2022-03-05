@@ -91,7 +91,7 @@ place in chat throughout the call.   
     Twitter.
 {{< image alt="PnP-Calls-TogetherMode-500w-Trimmed.gif" src="images/blog/microsoft-365-platform-call-30th-of-november-2021/PnP-Calls-TogetherMode-500w-Trimmed.gif" >}}
 
-It\'s great to see everyone today.  Some of you are joining from the
+It's great to see everyone today.  Some of you are joining from the
 European Collaboration Summit in *Düsseldorf*, Germany!
 **Demos** delivered in this session
 

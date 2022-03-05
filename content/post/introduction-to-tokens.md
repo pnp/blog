@@ -19,7 +19,7 @@ draft: false
 > tokens (JWT) and concepts relating to Microsoft Azure AD and related
 > technologies, but can most likely be applied elsewhere too.
 
-Tokens are everywhere on the Internet. Even if you don\'t realise it,
+Tokens are everywhere on the Internet. Even if you don't realise it,
 you may have just used one on the way to read this article! You may ask
 *\"What is a token and what do I need it for?\"* and my answer would be
 *\"Which token?\"*. You see, there are different types of tokens all
@@ -33,7 +33,7 @@ with other technologies such as Microsoft Graph.
 ## What is a token? 
 
 A token is a list claims of *something*. A real world analogy could be a
-receipt from a purchase of goods you made. Let\'s say you needed to
+receipt from a purchase of goods you made. Let's say you needed to
 prove that you bought to goods to return something. The receipt would
 most likely contain the date of purchase, the price you paid and most
 importantly, the goods purchased. Essentially, you are making a claim of
@@ -48,7 +48,7 @@ in Azure AD:
 
 #### ID tokens 
 
-ID tokens are used by a client to provide a user\'s identity. This is
+ID tokens are used by a client to provide a user's identity. This is
 referred to as **authentication**. One example is a user entering their
 credentials in to a client and being given an ID token on sign-in
 success. By then having an ID token, the client then can access
@@ -91,7 +91,7 @@ token expires using the refresh token from the original access token.
 
 ## What makes up a token? 
 
-Let\'s look at a sample token:
+Let's look at a sample token:
  
 ``` {.lia-code-sample .language-applescript}
 eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFMVE16YWtpaGlSbGFfOHoyQkVKVlhlV01xbyJ9.eyJ2ZXIiOiIyLjAiLCJpc3MiOiJodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20vOTEyMjA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkL3YyLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFJa3pxRlZyU2FTYUZIeTc4MmJidGFRIiwiYXVkIjoiNmNiMDQwMTgtYTNmNS00NmE3LWI5OTUtOTQwYzc4ZjVhZWYzIiwiZXhwIjoxNTM2MzYxNDExLCJpYXQiOjE1MzYyNzQ3MTEsIm5iZiI6MTUzNjI3NDcxMSwibmFtZSI6IkFiZSBMaW5jb2xuIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiQWJlTGlAbWljcm9zb2Z0LmNvbSIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC02NmYzLTMzMzJlY2E3ZWE4MSIsInRpZCI6IjkxMjIwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsIm5vbmNlIjoiMTIzNTIzIiwiYWlvIjoiRGYyVVZYTDFpeCFsTUNXTVNPSkJjRmF0emNHZnZGR2hqS3Y4cTVnMHg3MzJkUjVNQjVCaXN2R1FPN1lXQnlqZDhpUURMcSFlR2JJRGFreXA1bW5PcmNkcUhlWVNubHRlcFFtUnA2QUlaOGpZIn0.1AFWW-Ck5nROwSlltm7GzZvDwUkqvhSQpm55TQsmVo9Y59cLhRXpvB8n-55HCr9Z6G_31_UbeUkoz612I2j_Sm9FFShSDDjoaLQr54CreGIJvjtmS3EkK9a7SJBbcpL1MpUtlfygow39tFjY7EVNW9plWUvRrTgVk7lYLprvfzw-CIqw3gHC-T7IK_m_xkr08INERBtaecwhTeN4chPC4W3jdmw_lIxzC48YoQ0dB1L9-ImX98Egypfrlbm0IBL5spFzL6JDZIRRJOu8vecJvj1mq-IUhGt0MacxX8jdxYLP-KUu2d9MbNKpCKJuZ7p8gwTL5B7NlUdh_dmSviPWrw
@@ -100,9 +100,9 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFMVE16YWtpaGlSbGFfOHoyQkVKVlhlV01x
 Makes sense, right? Of course not. Azure AD ID and access tokens are
 also referred to as \"JWTs\" or JSON Web Tokens. This means that the
 token is formatted as a JSON object and then \"base64Url\" encoded and
-signed and with a bit of extra security (we\'ll cover this soon), the
+signed and with a bit of extra security (we'll cover this soon), the
 end result is what we have above.
-> For an introduction in to JSON, I highly recommend Bob German\'s
+> For an introduction in to JSON, I highly recommend Bob German's
 > article [here](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369).
 
 ### Decoding a token 
@@ -118,7 +118,7 @@ You will now see a JWT is made up of 3 parts:
 -   Payload (blue text)
 -   Signature (green text)
 
-In the next two sections, we\'ll cover off each part.
+In the next two sections, we'll cover off each part.
 
 ### Payload 
 
@@ -149,8 +149,8 @@ tokens such as:
 
 You may be thinking: I just decoded a token on a webpage - how is that
 secure? JWTs are typically \"signed\" (not encrypted) with an algorithm
-and private key by the issuer of the token. This doesn\'t stop any of
-the payload or header from being decoded as the aim of a token isn\'t to
+and private key by the issuer of the token. This doesn't stop any of
+the payload or header from being decoded as the aim of a token isn't to
 hide information, but provide validity to it.
 > Never store secret information in a payload of a token as it can be
 > easily decoded.
@@ -169,7 +169,7 @@ In addition to the signature, validation should also be taken place on
 the payload such as expiry time, audience and issuer.
 ### Token usage 
 
-Now we are familiar with tokens. Let\'s cover how they could be used in
+Now we are familiar with tokens. Let's cover how they could be used in
 a couple of scenarios:
 
 ## OpenID Connect 

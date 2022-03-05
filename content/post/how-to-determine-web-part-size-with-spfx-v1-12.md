@@ -14,15 +14,15 @@ draft: false
 ## Context 
 
 You might know that this new SPFx v1.12 feature has an old story behind
-it. In the past, developers were getting web part\'s width by
+it. In the past, developers were getting web part's width by
 unsupported ways like DOM classes or attributes. It was working pretty
 well until Microsoft decided to update SharePoint Online DOM in October
 last year and broke a lot of custom developments. As Microsoft says, DOM
 is not and API and you should avoid taking any dependencies in it but
 until now, nothing was officially released to solve this issue
-correctly. It\'s now done, SPFx v1.12 adds a **width** property and
+correctly. It's now done, SPFx v1.12 adds a **width** property and
 an **onAfterResize()** event to determine the width of your web part.
-**Note:** In this article, I\'m using a web part project with SPFx
+**Note:** In this article, I'm using a web part project with SPFx
 v.1.12 and React framework.
 
 ## Determine web part size 
@@ -30,13 +30,13 @@ v.1.12 and React framework.
 In your web part TS file, you can add the **onAfterResize()** method to
 get notified when the web part is resized (for example when you resize
 your window):
-``` {.lia-code-sample .language-javascript}
+```javascript
   protected onAfterResize(newWidth: number) {
     console.log("New web part width: " + newWidth);
   }
 ```
 This new method is documented as below:
-``` {.lia-code-sample .language-javascript}
+```javascript
 This API is invoked when the web part container dom element width is changed, e.g. when the browser window is resized and when the property pane is toggled open/closed.
 
 @param newWidth — Width (in pixels) of the container for the web part after the resize event.
@@ -48,7 +48,7 @@ Web parts should utilize this method to perform operations such as potentially r
 ```
 Then you can use the **width** property as a prop for your React
 component:
-``` {.lia-code-sample .language-javascript}
+```javascript
   public render(): void {
     const element: React.ReactElement<IDemoWebPartWidthProps> = React.createElement(
       DemoWebPartWidth,
@@ -62,7 +62,7 @@ component:
   }
 ```
 This new property is documented as below:
-``` {.lia-code-sample .language-javascript}
+```javascript
 This propery returns the width of the container for the web part.
 
 @returns — Width (in pixels) of the container for the web part.
@@ -76,7 +76,7 @@ This function retrieves web part's key to get stored section width from cache. I
 In the case where getWebPartCacheKey is not passed down, it will go through the original workflow to caculate web part width.
 ```
 And you can display it in your component render() method:
-``` {.lia-code-sample .language-javascript}
+```javascript
 <p className={ styles.description }>Web part width = { this.props.webPartWidth }</p>
 ```
 Final result of this demo web part:

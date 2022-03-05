@@ -494,7 +494,7 @@ Select the **Delete** icon -- please check twice to delete the right
 settings! 
 
 Now we need to make sure that our Azure function looks at the right app
-settings.\
+settings.
 Select **Functions**
 
 -   Select your function 

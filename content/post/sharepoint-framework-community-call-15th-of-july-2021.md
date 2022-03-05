@@ -47,7 +47,7 @@ host of this call is [David Warner II](http://twitter.com/DavidWarnerII)
 (Catapult Systems) \@DavidWarnerII.  Q&A takes place in chat throughout
 the call.
 {{< image alt="210715-together-mode.gif" src="images/blog/sharepoint-framework-community-call-15th-of-july-2021/210715-together-mode.gif" >}}
-It\'s great to see spirits are high in the month of July!   Nice to see
+It's great to see spirits are high in the month of July!   Nice to see
 everyone.   See you again soon!  
 
 **Actions:**

@@ -2,16 +2,16 @@
 title: "ProvisionGenie - an open-source provisioning engine for Microsoft Teams"
 date: 2021-09-29T08:40:00-04:00
 author: "Luise Freese"
-categories: ["Microsoft Teams", 'Power Apps", "Dataverse"]
+categories: ["Microsoft Teams", "Power Apps", "Dataverse"]
 images:
-
+- images/blog/provisiongenie-an-open-source-provisioning-engine-for-microsoft/TeansResult.png
 tags: []
 type: "regular"
 draft: false
 
 ---
 
-![TeansResult.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/313718i9F28A38534E5A95A/image-size/large?v=v2&px=999 "TeansResult.png")
+{{< image alt="TeansResult.png" src="images/blog/provisiongenie-an-open-source-provisioning-engine-for-microsoft/TeansResult.png" >}}
 
 ## Once upon a time
 
@@ -21,7 +21,7 @@ We both work as Power Platform developers and Microsoft 365 consultants,
 and got both tired of doing the same things over and over again:
 
 Organizations would roll out Microsoft Teams, and either not make too
-much fuzz on meeting user\'s needs and just assume that *changing
+much fuzz on meeting user's needs and just assume that *changing
 working behavior* would magically happen or they would get a business
 consultant (us) who would then sit with each and every single team and
 explain
@@ -58,7 +58,7 @@ affected all of our
     like a Teams native app.
 -   As our database, we decided that Dataverse would be the best option
     to log all requests in
--   We created security roles in Dataverse to ensure that data wouldn\'t
+-   We created security roles in Dataverse to ensure that data wouldn't
     get over-exposed
 -   For automation, we went with Azure Logic Apps, as this gave us not
     only a better developer experience, but would also make deployment
@@ -68,7 +68,7 @@ affected all of our
 We also needed to make some hard decisions, like
 
 ### No Microsoft Planner provisioning 
-As the Microsoft Planner API doesn\'t support application-level
+As the Microsoft Planner API doesn't support application-level
 permissions, we chose to not provision a Planner part with
 ProvisionGenie until Planner comes up with a fully working API. This
 meant, that we needed to come with an alternative for user to manage
@@ -77,14 +77,14 @@ experience of Planner and introduce users to the gallery view.
 
 ### Deleting the Teams Wiki
 
-The Teams Wiki isn\'t everyone\'s darling and we don\'t like it for some
+The Teams Wiki isn't everyone's darling and we don't like it for some
 reasons- but the fact why we decided to delete it as part of the
 provisioning process for all channels is that, once the Wiki is
 (accidentally?) removed, all content is hard-deleted.
 
 ## Making ProvisionGenie a deployable solution 
 
-![xkcd.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/313719iF93B83F51A554EA9/image-size/large?v=v2&px=999 "xkcd.png")
+{{< image alt="xkcd.png" src="images/blog/provisiongenie-an-open-source-provisioning-engine-for-microsoft/xkcd.png" >}}
 
 To make this solution available, it was not enough to only provide the
 (opaque) .zip file for the canvas app. We provide
@@ -102,7 +102,7 @@ To make this solution available, it was not enough to only provide the
 -   proper documentation
 
 As a result, the app looks like this:
-![TeansResult.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/313718i9F28A38534E5A95A/image-size/large?v=v2&px=999 "TeansResult.png")
+{{< image alt="TeansResult.png" src="images/blog/provisiongenie-an-open-source-provisioning-engine-for-microsoft/TeansResult.png" >}}
 We open-sourced ProvisionGenie 🧞 and just shipped our first release,
 you can find the repository here - with guidance how to get the app and
 how to contribute to

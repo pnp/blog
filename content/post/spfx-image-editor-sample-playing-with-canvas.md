@@ -61,7 +61,7 @@ How to Flip such thing
 FlipY
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 ctx.translate(c.width, 0);
 ctx.scale(-1, 1);
 ```
@@ -73,7 +73,7 @@ Y](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266622iA8FF3
 FlipX
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 ctx.translate(0, c.height);
 ctx.scale(1, -1);
 ```
@@ -117,7 +117,7 @@ To i Combine the previous knowledge with the basic Parker Sample here it
 is
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 const img= new Image()
   img.crossOrigin = "Anonymous";
   img.addEventListener("load", imageReceived, false);
@@ -162,7 +162,7 @@ const img= new Image()
 
  
 
-Thank\'s, Parker to be my Top-Model
+Thank's, Parker to be my Top-Model
 
 Try it [sp-dev-fx-webparts/samples/react-image-editor at master ·
 pnp/sp-dev-fx-webparts

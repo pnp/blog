@@ -28,7 +28,7 @@ Lage](http://twitter.com/aaclage) \| \@aaclage.  
 Topics discussed in this session include: \
 \
 
--   André\'s commitment to open source and community.
+-   André's commitment to open source and community.
 -   Delivering samples and a control for the latest Microsoft Graph
     Toolkit.
 -   The importance of being an informed contributor and of having an

@@ -680,7 +680,7 @@ Topics discussed in this session:
 -   Marcus' personal and technical journey to date.    
 -   On becoming an MVP -- and on what's changed as a result of this
     achievement?
--   Marcus\' development focus that spans the Microsoft 365 platform and
+-   Marcus' development focus that spans the Microsoft 365 platform and
     including authentication. 
 -   A challenge - the dreams vs reality/cost conversation with
     customers.    
@@ -688,7 +688,7 @@ Topics discussed in this session:
     modernization/optimization.  Microsoft Teams is the next wave and a
     driver behind Marcus' personal commitment to up skilling and sharing
     his learnings - for example recent Teams Development samples.   
--   Marcus\' Role in Avanade and why his organization supports him and
+-   Marcus' Role in Avanade and why his organization supports him and
     his contributions to community.  
 -   Motivations behind sharing with community.   Give/Get
 
@@ -778,7 +778,7 @@ everyone for your contributions to the community!
 -   [Microsoft Ignite November 2021 announcements summary - Teams, Power
     Platform, Viva, Syntex and new
     p\...](https://www.sharepointnutsandbolts.com/2021/12/microsoft-ignite-november-2021-announcements.html)
-    - [Chris O\'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
+    - [Chris O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
     \| \@ChrisO_Brien
 -   [Teams Meeting apps -- Stage view
     basics](https://mmsharepoint.wordpress.com/2021/12/07/teams-meeting-apps-stage-view-basics/)

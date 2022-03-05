@@ -14,7 +14,7 @@ draft: false
 ## Introduction 
 A Spinner is an outline of a circle that animates around itself
 indicating to the user that things are processing. A Spinner is shown
-when it\'s unsure how long a task will take making it the indeterminate
+when it's unsure how long a task will take making it the indeterminate
 version of a progress indicator. They can be of various sizes, located
 in line with the content or centered. They generally appear after an
 action is being processed or committed. They are subtle and generally do
@@ -49,7 +49,7 @@ I{webpartname}Props.ts** file,
 Here we will create a property for **graph Client** as below,
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { MSGraphClient } from "@microsoft/sp-http";
 
 export interface ISpfxLoaderProps {
@@ -63,7 +63,7 @@ Move to the **{webpartname}.ts** file. Here we will get the graph client
 and set it to the property,
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
 import { Version } from '@microsoft/sp-core-library';
@@ -152,9 +152,9 @@ export default class SpfxLoaderWebPart extends BaseClientSideWebPart<ISpfxLoader
 -   And call **getItems()** in **componentDidMount()**
 -   And in the **render()** method we will check if state loading is
     true then show Spinner and if the length of items is greater than 0
-    then we will show records.\
+    then we will show records.
     \
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import styles from './SpfxLoader.module.scss';
 import { ISpfxLoaderProps } from './ISpfxLoaderProps';

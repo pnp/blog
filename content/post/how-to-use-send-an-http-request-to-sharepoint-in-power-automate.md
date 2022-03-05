@@ -20,7 +20,7 @@ For more details refer to
 
 ## Implementation 
 We will create a SharePoint list and we will perform Create, Read,
-Update and Delete operations. we will create an instant flow. let\'s see
+Update and Delete operations. we will create an instant flow. let's see
 step-by-step implementation.
  
 
@@ -38,7 +38,7 @@ actions
 
 **Method:** *GET*
 
-**Uri:** *\_api/web/lists/getbytitle(\'To Do\')/items*
+**Uri:** *\_api/web/lists/getbytitle('To Do')/items*
 
 **Headers*****:** Not required*
 You can also add URI in a variable because this we will need for all the
@@ -57,7 +57,7 @@ actions
 
 **Method:** *POST*
 
-**Uri:** *\_api/web/lists/getbytitle(\'To Do\')/items*
+**Uri:** *\_api/web/lists/getbytitle('To Do')/items*
 
 **Headers*****:** Need JSON object*
 
@@ -91,7 +91,7 @@ actions
 
 **Method:** PATCH
 
-**Uri:** *\_api/web/lists/getbytitle(\'To Do\')/items(itemID) *
+**Uri:** *\_api/web/lists/getbytitle('To Do')/items(itemID) *
 
 **Headers*****: ***
 
@@ -121,7 +121,7 @@ actions
 
 **Method:** DELETE
 
-**Uri:** *\_api/web/lists/getbytitle(\'To Do\')/items(itemID) *
+**Uri:** *\_api/web/lists/getbytitle('To Do')/items(itemID) *
 
 **Headers**
 

@@ -87,7 +87,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     -** Sathya Raveendran (Microsoft) and Veera Venkata Sai Pothan Thota
 {{< image alt="PictureTimeGIF-8JUly2021-2Sec-30FPS.gif" src="images/blog/microsoft-365-developer-community-call-recording-8th-of-july/PictureTimeGIF-8JUly2021-2Sec-30FPS.gif" >}}
 Thank you for making time in your Summer time schedule to join us for
-today\'s PnP Community call.   You\'re awesome!   
+today's PnP Community call.   You're awesome!   
 **Demos** delivered in this session
 
 -   **Image Column Type formatting in Microsoft 365** -- upload images
@@ -163,11 +163,11 @@ slides.
 -   Documentation - [Azure App Configuration
     documentation](https://docs.microsoft.com/en-us/azure/azure-app-configuration/) 
 
--   Documentation - [Azure Key Vault Developer\'s
+-   Documentation - [Azure Key Vault Developer's
     Guide](https://docs.microsoft.com/en-us/azure/key-vault/general/developers-guide) 
 
 -   Blog post - [Microsoft Teams Tabs SSO and Microsoft Graph - the
-    \'on-behalf-of\' blog
+    'on-behalf-of' blog
     post](https://www.wictorwilen.se/blog/microsoft-teams-tabs-sso-and-microsoft-graph-the-on-behalf-of-blog-post/) 
 
 -   Blog post - [Query SharePoint items with Microsoft Graph and
@@ -260,7 +260,7 @@ slides.
 -   **Adaptive Cards monthly call** **--** August 12th at 9:00 am PDT
     \| <https://aka.ms/adaptivecardscommunitycall>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
-targeted at anyone who\'s interested in the general Microsoft 365
+targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Microsoft Flow, PowerApps, Column Formatting, list

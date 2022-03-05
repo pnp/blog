@@ -50,7 +50,7 @@ Set all properties as below.
 
   **Method**                          POST
 
-  **Uri**                             \_api/lists/getByTitle(\'ListTitle\')/items(ID)/breakroleinheritance(copyRoleAssignments=false,clearSubscopes=true)
+  **Uri**                             \_api/lists/getByTitle('ListTitle')/items(ID)/breakroleinheritance(copyRoleAssignments=false,clearSubscopes=true)
 
   **Headers**                         {\
                                       \"Accept\": \"application/json\",\
@@ -89,7 +89,7 @@ name.**
 It will return an object as below,
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
   "d": {
     "results": [

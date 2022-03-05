@@ -15,14 +15,14 @@ draft: false
 April's call, hosted by **David Chesnut**, featured the following
 presenters and topics:\
 • **Richard Taylor** discussed different support options available on
-Microsoft 365, and how to submit a new support ticket.\
+Microsoft 365, and how to submit a new support ticket.
 • **Sudhi Ramamurthy** shared news about updates to APIs, Recorder, and
-Admin-control for Office Scripts.\
+Admin-control for Office Scripts.
 • **Leslie Black (Analysis Cloud Limited)** demonstrated a TICTACUFO
-application he created with Office Scripts.\
+application he created with Office Scripts.
 • **David Chesnut** demonstrated a new PnP sample that shows how to
-handle event-based activation and set the signature in Outlook.\
-To watch the call, tap the following link.\
+handle event-based activation and set the signature in Outlook.
+To watch the call, tap the following link.
 [Office Add-ins community call -- April 2021 -
 YouTube](https://www.youtube.com/watch?v=hGVdftCzs20)
 
@@ -35,12 +35,12 @@ call by using our short [survey form](https://aka.ms/officeaddinsform).
 
 **When we try to open tickets in the admin center regarding SharePoint
 Development they are getting immediately closed with the comment \"we
-don\'t provide support for developer issues\". Is that different for
+don't provide support for developer issues\". Is that different for
 Office Add-ins?**
 The comment you see applies if you don't have a Premier account, or
 Enterprise SKU. If you do have a Premier account and are seeing this
 comment, please reach out to us on the next community call web chat so
-we can follow up with you.\
+we can follow up with you.
 **What level of support can I get for my tenant from the Microsoft 365
 Developer Program?**\
 The Microsoft 365 Developer Program provides standard Office 365
@@ -56,28 +56,28 @@ admin to configure without admin access to rest of the Office 365
 tenant?**\
 If you have a Premier account, we can reach out to your ADC/TAM and
 ensure you have access. If you just have an Enterprise subscription, use
-the O365 admin instead. Either should work.\
+the O365 admin instead. Either should work.
 **Are Office Scripts for Excel on the web available to Microsoft 365
 family accounts or just Enterprise?**\
 Currently, Office Scripts are only available on Enterprise, though
-we\'re exploring expanding availability to other licenses.
+we're exploring expanding availability to other licenses.
 ### Miscellaneous questions 
 
 **When will the current Outlook preview requirement set, including
 event-based activation, be available in production?**\
-We don\'t have a specific date yet, but we hope to make it available
-soon.\
+We don't have a specific date yet, but we hope to make it available
+soon.
 **The Outlook REST API is going to be decommissioned. Is it safe to
 continue using EWS (Exchange Web Services) with Outlook add-ins going
 forward or is it also at risk of being decommissioned?**\
-At present, there is no plan to decommission EWS.\
+At present, there is no plan to decommission EWS.
 **Is it possible to port Office.addin.showAsTaskpane common API function
 to Outlook JS?**\
 This is a great suggestion! Can you please provide more details on this
 idea, and scenario at [Microsoft 365 Developer Platform - Microsoft Tech
 Community](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)?\
 **One of our custom functions must access data (a table) not specified
-in the arguments. We\'ve noticed that calling Excel.run to request that
+in the arguments. We've noticed that calling Excel.run to request that
 data through the Excel request context on every formula invocation leads
 to concurrency issues (RichApi.Error: Wait until the previous call
 completes.) Is there a flexible way to get this to work?**\
@@ -85,24 +85,24 @@ There is a code approach used in [GitHub issue 483 in
 office-js](https://github.com/OfficeDev/office-js/issues/483#issuecomment-490592291)
 that may help you. If that doesn't work for your scenario, please post a
 question with more information at [Microsoft Q&A: Office JavaScript
-API](https://docs.microsoft.com/answers/topics/office-js-dev.html).\
+API](https://docs.microsoft.com/answers/topics/office-js-dev.html).
 **In Excel custom functions, is there a way to pause the calculations
 and resume later (other than setting calculation mode to manual)? End
 users want to pass an additional flag to the custom function that
 indicates if it should run or not run.**\
 We suggest switching to manual recalc mode, instead of using an argument
 to the function. Our goal is for Excel custom functions to run using the
-same paradigm as built-in functions. We don\'t have a design pattern
-where we pause recalc based on an argument to a function. It\'s clearer
+same paradigm as built-in functions. We don't have a design pattern
+where we pause recalc based on an argument to a function. It's clearer
 for users if you ask them to change to manual recalc, that you could
 implement in the task pane UI. Then when completed, you can switch back
-to automatic recalculation and the custom functions will run.\
+to automatic recalculation and the custom functions will run.
 **In Excel custom functions, you can get the address of the calling cell
 from the invocation object. Is there a way to get the current value from
 the cell along with the address?**\
 We suggest that you use the onCalculated event which is called when
-custom functions are calculated. Here\'s an example:
-``` {.lia-code-sample .language-javascript}
+custom functions are calculated. Here's an example:
+```javascript
 async function onCalculated(event) {
  await Excel.run(async (context) => {
         console.log(event.address);
@@ -118,10 +118,10 @@ async function onCalculated(event) {
 
 \
 **Can the Microsoft Graph API be used by an add-in without a dedicated
-server to proxy requests to the Graph API? We\'re trying to replace the
+server to proxy requests to the Graph API? We're trying to replace the
 usage of the Outlook REST API in an add-in that makes API calls from the
 client-side. We are struggling to find tutorials covering that case.**\
-If you\'re Outlook add-in is basically a single-page app (SPA) this
+If you're Outlook add-in is basically a single-page app (SPA) this
 tutorial will help you call the Microsoft Graph API from the add-in:
 [Tutorial: Create a JavaScript single-page app that uses auth code
 flow - Microsoft identity

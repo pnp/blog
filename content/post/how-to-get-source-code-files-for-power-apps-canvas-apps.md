@@ -24,7 +24,7 @@ Apps Language Toolkit to extract all files from the .msapp file. This
 way,
 -   developers can not only open the source code in their code editor of
     choice but can effectively manage the code of a Canvas app in GitHub
-    or Azure DevOps. This makes a huge difference as we can\'t look into
+    or Azure DevOps. This makes a huge difference as we can't look into
     .msapp files.
 -   makers can still open the .msapp file to easily import an app sample
     into their environment
@@ -49,7 +49,7 @@ To be able to use the Power Apps Language Toolkit, you will need to
 -   select **Run anyway**
 
 Please note, that command Prompt will open, show a few lines and then
-close automatically again.\
+close automatically again.
 Please also not, that you can now find a **bin** folder in the local
 folder you extracted the PowerApps Language Toolkit to. In this
 **bin** folder, you will find a **Debug** folder and inside of the

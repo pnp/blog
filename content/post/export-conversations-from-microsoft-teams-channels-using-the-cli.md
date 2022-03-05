@@ -3,7 +3,6 @@ title: "Export conversations from Microsoft Teams Channels using the CLI for Mic
 date: 2021-09-20T02:30:00-04:00
 author: "Patrick Lamber"
 categories: ["CLI For Microsoft 365"]
-images: []
 tags: []
 type: "regular"
 draft: false
@@ -24,7 +23,7 @@ created  for the CLI for Microsoft 365. The original script was created
 by our community member [Joseph
 Velliah.](https://blog.josephvelliah.com/export-conversations-from-microsoft-teams)
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 function  Get-Teams {
   $teams = m365 teams team list -o json | ConvertFrom-Json -AsHashtable
   return $teams
@@ -123,7 +122,7 @@ manage your SharePoint Framework projects.
 Get the latest release of the CLI for Microsoft 365 from npm by
 executing:
  
-``` {.lia-code-sample .language-bash}
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
  

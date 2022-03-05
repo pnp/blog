@@ -16,7 +16,7 @@ draft: false
 
 ## Call Summary 
 
-This month\'s community call features updates on **Excel shortcut
+This month's community call features updates on **Excel shortcut
 customization APIs** (introducing 3 new APIs to assist with keyboard
 shortcuts management) from Abid Rahman (Microsoft), an **SSO update for
 Office Add-in** (call to action: add new SSO service in Azure for your
@@ -71,7 +71,7 @@ Alex Jerabek (Microsoft). Recorded January 12, 2022.
 ## Q&A (Question & Answers) 
 
 **Will shortcut key APIs be available on all hosts?**\
-Shortcut key APIs are only available on Excel right now. We don\'t have
+Shortcut key APIs are only available on Excel right now. We don't have
 plans for the other hosts yet.
 
 **If a shortcut key is already in use by another add-in, is there a way
@@ -88,7 +88,7 @@ forbids this action with the error \"Not allowed to load local
 resource.\"**
 
 Due to the sandboxed nature of how Office Add-ins run in a browser, this
-isn\'t possible. Access files from a URL location on OneDrive, or other
+isn't possible. Access files from a URL location on OneDrive, or other
 locations. Please consider submitting a feature request with more
 details about this scenario at <https://aka.ms/m365dev-suggestions>.
 
@@ -97,26 +97,26 @@ details about this scenario at <https://aka.ms/m365dev-suggestions>.
 the list of authorized client applications, then there are no changes
 required?**\
 Correct, but you may still want to do a quick test with the new auth
-option to make sure you don\'t see any issues.
+option to make sure you don't see any issues.
 
 \
 **Are there any advantages to using SSO in Office, instead of MSAL,
 apart from the amount of code you have to write?**\
 You should still use MSAL as a fallback authentication approach (when
-using Microsoft identity platform), in case SSO isn\'t available or has
+using Microsoft identity platform), in case SSO isn't available or has
 an error. The advantage of SSO is you get the token without opening
 dialogs, and extra steps for the user. With SSO you can also enable
 admin consent via centrally deployed add-ins.
 
 
 
-**Is there a way at runtime to determine if we\'re in Compose or Read
+**Is there a way at runtime to determine if we're in Compose or Read
 mode? Currently I can check certain APIs to see if they are available or
-not, but a global option to tell me which mode we\'re in would be very
+not, but a global option to tell me which mode we're in would be very
 helpful.**\
 
 
-If you\'re trying to execute different functions in Compose vs Read
+If you're trying to execute different functions in Compose vs Read
 mode, specify that in the different extension points. For event-based
 add-ins, you can specify on which event the add-in should automatically
 launch (such as on message compose).
@@ -132,7 +132,7 @@ unlock some of the key scenarios with specific API support.
 **Azure AD provides a way to disable user consent entirely to always
 require administrator consent for all applications. Without resorting to
 this option, is there a way to grant administrator consent (on behalf of
-your organization\'s users) to an app and in doing so, entirely bypass
+your organization's users) to an app and in doing so, entirely bypass
 the user consent flow for a smoother first-use experience?​**
 
 For add-ins using SSO, there is a mechanism via centralized deployment

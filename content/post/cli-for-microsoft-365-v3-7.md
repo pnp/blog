@@ -3,7 +3,6 @@ title: "CLI for Microsoft 365 v3.7"
 date: 2021-03-17T12:22:00-04:00
 author: "Waldek Mastykarz"
 categories: ["CLI for Microsoft 365"]
-images: []
 tags: []
 type: "regular"
 draft: false
@@ -62,7 +61,7 @@ This will generate a Markdown report with all findings. From the summary
 section of the report, you can copy a complete set of commands to run to
 update all packages.
  
-If you want to better understand what\'s changed and where, I\'d
+If you want to better understand what's changed and where, I'd
 recommend you use the
 [CodeTour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
 report, which you can get by executing:
@@ -78,7 +77,7 @@ update.
 
 SharePoint Framework v1.12 comes with a new set of prerequisites. To
 build apps on SPFx v1.12, you need to be using Node v12 and Gulp v4. To
-help you double check that you have all prerequisites and won\'t hit any
+help you double check that you have all prerequisites and won't hit any
 errors, we offer the `spfx doctor` command.
  
 To check if your machine has all prerequisites for building apps using
@@ -95,18 +94,18 @@ you if there is anything missing.
 ### Configure CLI to your personal preferences 
 
 As more and more people use CLI for Microsoft 365, we get more feedback
-about what they\'d prefer CLI to work. Some of our users, prefer for
+about what they'd prefer CLI to work. Some of our users, prefer for
 example to automatically get command help when running the command
 fails. Others, prefer to see help only when they explicitly ask for.
 When you use CLI for building scripts, you might want it to use the JSON
 output by default. On the other hand, if you use it for quickly looking
-things up, you\'d prefer to use the text mode.
+things up, you'd prefer to use the text mode.
  
 Because the only person knowing best how to work is you, we want to give
 you the ability configure CLI to your personal preferences. In this
 release we introduce support for configuring CLI. The first option that
 you can set, is to choose if you want to automatically see help when
-running command failed. It\'s turned on by default, and to turn it off
+running command failed. It's turned on by default, and to turn it off
 you can run:
 
 
@@ -114,8 +113,8 @@ you can run:
 m365 cli config set --key showHelpOnFailure --value false
 ```
  
-We\'re planning to introduce the ability to configure the default output
-mode next. And if there are other things that you\'d like to be able to
+We're planning to introduce the ability to configure the default output
+mode next. And if there are other things that you'd like to be able to
 configure, please [let us
 know](https://github.com/pnp/cli-microsoft365/issues).
  
@@ -156,14 +155,14 @@ introduced in the previous version.
 #### Improved managing SharePoint pages and sites 
 
 CLI for Microsoft 365 is a great tool for automating managing your
-Microsoft 365 tenant and SharePoint Framework projects. It\'s also great
+Microsoft 365 tenant and SharePoint Framework projects. It's also great
 as an engine to build other tools on top!
  
 Elio Struyf has build a static site generator for SharePoint named
 [Doctor](https://github.com/estruyf/doctor). If you want to author
 product documentation or a knowledgebase in Markdown but publish it to
 SharePoint, Doctor is the tool for the job! As Elio is extending Doctor
-with new capabilities, he\'s contributed a number of enhancements to
+with new capabilities, he's contributed a number of enhancements to
 managing pages and sites with CLI for Microsoft 365.
  
 #### Added Remote Development container 
@@ -171,13 +170,13 @@ managing pages and sites with CLI for Microsoft 365.
 One of the things that often stand in the way of contributing to open
 source projects is setting up the dev environment. Often, specific
 projects require specific tools and sometimes even specific versions of
-them. If you\'re not using the particular stack in your daily work, it
+them. If you're not using the particular stack in your daily work, it
 can be cumbersome to even get started.
  
-To help you contribute to CLI for Microsoft 365, we\'d like to introduce
+To help you contribute to CLI for Microsoft 365, we'd like to introduce
 a Remote Developer container. Using GitHub Codespaces, it allows you to
 get up and running your dev environment in minutes, without worrying
-about installing dependencies. We\'ll provide instructions on how to get
+about installing dependencies. We'll provide instructions on how to get
 started using the Remote Development container shortly.
  
 ### Sample scripts
@@ -223,7 +222,7 @@ need](https://pnp.github.io/cli-microsoft365/sample-scripts/aad/delete-m365-grou
  
 ## Contributors 
 
-This release wouldn\'t be possible without the help of (in alphabetical
+This release wouldn't be possible without the help of (in alphabetical
 order) [Aakash Bhardwaj](https://github.com/aakashbhardwaj619), [Luise
 Freese](https://github.com/LuiseFreese), [Patrick
 Lamber](https://github.com/plamber), [Michaël
@@ -257,14 +256,14 @@ different workloads in Microsoft 365.
 ### Improved managing SharePoint pages 
 
 Microsoft keeps investing in modern SharePoint pages continuously
-introducing new capabilities to let us publish rich content. We\'re
+introducing new capabilities to let us publish rich content. We're
 looking into extending our support for managing modern SharePoint pages
 to let you use them to their full potential.
  
 ### Improved creating Azure AD apps 
 
-Recently, we\'ve introduced a command to easily create Azure AD app
-registrations. Because they\'re backbone of every app you\'d build on
+Recently, we've introduced a command to easily create Azure AD app
+registrations. Because they're backbone of every app you'd build on
 Microsoft 365, we think you should be able to create them as easily as
 possible. So with CLI for Microsoft 365, you can create a fully
 configured Azure AD app for the most common scenarios with just one line
@@ -289,11 +288,11 @@ that we can learn more about the common automation scenarios.
  
 ### `ensure` commands 
 
-We\'ve just shipped our first `ensure` command - an easy way to help you
-that a site with specific settings exists. If it doesn\'t, CLI creates
+We've just shipped our first `ensure` command - an easy way to help you
+that a site with specific settings exists. If it doesn't, CLI creates
 it for you, if it does, CLI ensures it has the right properties. All in
-one line of code. We\'d love to hear from you how you like it and if
-it\'s something you\'d like us to implement for other commands as well.
+one line of code. We'd love to hear from you how you like it and if
+it's something you'd like us to implement for other commands as well.
  
 ## Try it today 
 

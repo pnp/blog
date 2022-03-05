@@ -20,15 +20,15 @@ draft: false
 
 In this blog post I want to explain how you can send an Adaptive Card
 with CLI Microsoft 365. I will guide you from zero to hero :rocket:, so
-even if you don\'t know anything about the CLI Microsoft 365 or about
-Adaptive cards, don\'t stop reading, you will be able to do that in a
+even if you don't know anything about the CLI Microsoft 365 or about
+Adaptive cards, don't stop reading, you will be able to do that in a
 few minutes- I promise!
 
 ## What is CLI Microsoft 365? 
 
 Lets first get us all on the same page and clarify, what CLI Microsoft
 365 is and why we should use it: It is a CLI (Command Line Interface)
-which let\'s us manage Microsoft 365 from any kind of OS: It doesn\'t
+which let's us manage Microsoft 365 from any kind of OS: It doesn't
 matter if we work on Windows, MacOS or Linux. Previously, some
 configurations were only possible by PowerShell for Windows, which
 limited a lot of admins. But even if you work on Windows and are pretty
@@ -63,7 +63,7 @@ saves me copy/pasting links into a new browser tab. But if you like to
 any other shell, that is perfectly fine as well. To install CLI
 Microsoft 365, run the command:
  
-``` {.lia-code-sample .language-bash}
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
  
@@ -75,17 +75,17 @@ In case you wonder:
 
 #### Login 
 
-Now that we installed CLI Microsoft 365, it\'s time to actually do
+Now that we installed CLI Microsoft 365, it's time to actually do
 something here. But before we can get or post anything, we will need to
 log into our tenant. Pro Tip: You can use your your Developer tenant for
-this. If you don\'t know, what this is, please go read [What is a "Dev
+this. If you don't know, what this is, please go read [What is a "Dev
 Tenant" and why would you want
 one](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-dev-tenant-and-why-would-you-want-one/ba-p/2036610)?
 by [Julie Turner](https://twitter.com/jfj1997)
 Run the following command:
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 login
 ```
  
@@ -101,14 +101,14 @@ After you pasted the code,
 \* pick an account out of the list of accounts
 
 You will be seeing this message and can close this browser tab- we
-won\'t need it anymore.\
+won't need it anymore.
 {{< image alt="PnPmanagementShellOK.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/PnPmanagementShellOK.png" >}}
 
-Yay! You successfully logged in! You don\'t believe that? Let\'s check
+Yay! You successfully logged in! You don't believe that? Let's check
 with CLI Microsoft 365 and run this command to get your status:
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 status
 ```
  
@@ -120,7 +120,7 @@ and it will get your status for you:
 If you want some inspiration, what you could do now, run this command:
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 help
 ```
  
@@ -131,7 +131,7 @@ groups, as each of them can contain several commands. When you now
 choose one of the command groups and run for example this one:
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 outlook
 ```
  
@@ -157,7 +157,7 @@ Cards](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/get-started
 
 ## How do we send an Adaptive Card with CLI Microsoft 365? 
 
-Now that we know what is an Adaptive Card, let\'s have a look on how we
+Now that we know what is an Adaptive Card, let's have a look on how we
 get this sent by CLI. The
 [documentation](https://pnp.github.io/cli-microsoft365/cmd/adaptivecard/adaptivecard-send/) provides
 us with a sample and this sample needs to have a URL. Where do we get
@@ -175,7 +175,7 @@ Teams](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-conf
 \* Click the ellipsis icon on the Teams channel that you want to send
 the Adaptive Card to\
 \* Click **Connectors**\
-\* Search for \'webhook\'\
+\* Search for 'webhook'\
 {{< image alt="incoming-webhook.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/incoming-webhook.png" >}}
 
 \* Click **Add**\
@@ -183,7 +183,7 @@ the Adaptive Card to\
 \* Give your webhook a name\
 \* If you like to, you can upload a picture- messages sent via this
 webhook (our Adaptive Card) will have this image then as Profile Pic -
-this step is optional.\
+this step is optional.
 \* Click **Create**\
 \* Copy the generated URL\
 \* Click **Done**
@@ -192,7 +192,7 @@ paste it into a notepad or similar.
 
 ### Author your Card 
 
-Now it\'s time to author your card. You can do this in a lot of editors,
+Now it's time to author your card. You can do this in a lot of editors,
 I use either the [Adaptive Cards
 Designer](https://adaptivecards.io/designer) or the [Adaptive Cards
 Viewer Extension in Visual Studio
@@ -208,7 +208,7 @@ is fine for you right now, go ahead with this, otherwise you can also
 use the examples that are provided in the [documentation of CLI
 Microsoft
 365](https://pnp.github.io/cli-microsoft365/cmd/adaptivecard/adaptivecard-send/).
-I used the last one, \'Send custom card with card data\'.
+I used the last one, 'Send custom card with card data'.
 
 For everyone not very familiar writing and understanding code: We can
 make more sense of the snippet by copy/paste this into Visual Studio
@@ -216,7 +216,7 @@ Code, and then press Alt+z to soft-wrap this and then separate the
 Adaptive Card from the rest:
 \* Select JSON in Language Mode\
 \* Insert somenew lines right before the first \`{\`\
-\* Delete the \`\'\` at the beginning and the end of the snippet\
+\* Delete the \`'\` at the beginning and the end of the snippet\
 \* Format with Shift + Alt + f
 Now go ahead and adjust the sample to work in your environment:
 \* replace the URL in the code with the URL that we copied when we added
@@ -224,13 +224,13 @@ the webhook connector to Teams\
 \* copy the whole code\
 \* run it
 
-!! Turned out, that there are some differences how to use quotes \`\'\`
+!! Turned out, that there are some differences how to use quotes \`'\`
 or \`\"\` - please consider which shell you are using before you
 copy/paste the code from [CLI Microsoft 365
 documentation](https://pnp.github.io/cli-microsoft365/cmd/adaptivecard/adaptivecard-send/).
 Congratulations :rocket:- you sent your first adaptive Card with CLI.
 
-## Feedback and what\'s next? 
+## Feedback and what's next? 
 
 I hope you liked this little post on how to get started with CLI
 Microsoft 365 and learning how to send an Adaptive Card with it. I would

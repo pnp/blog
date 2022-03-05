@@ -86,7 +86,7 @@ official documentation and open-source initiatives. The source is
 maintained in GitHub where anyone can participate and provide
 contributions to the samples, reusable components, and documentation.
 Office Add-ins PnP is owned and coordinated by Office engineering teams,
-but the work is done by the community for the community.\
+but the work is done by the community for the community.
 Find code samples for Office Add-in development in the [Office Add-ins
 PnP repo](https://github.com/OfficeDev/PnP-OfficeAddins). Some samples
 are also documented in the [Office Add-ins

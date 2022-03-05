@@ -317,7 +317,7 @@ Script](https://arjunumenon.com/tenant-status-solution-m365cli/#simple-script---
 Rather than using PowerShell piping, we are using conventional For-Each
 so that script is easily readable.
  
-``` {.lia-code-sample .language-bash}
+```bash
 #Check the Login Status
 $LoginStatus = m365 status
 
@@ -361,7 +361,7 @@ can view [easily understandable
 script](https://arjunumenon.com/tenant-status-solution-m365cli/#complete-script---easily-understandable).
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 $webURL = "https://contoso.sharepoint.com/sites/M365HealthStatus"
 $listName = "O365 Health Status"
 $workLoads = m365 tenant status list --query "value[?Status != 'ServiceOperational']"  --output json  | ConvertFrom-Json

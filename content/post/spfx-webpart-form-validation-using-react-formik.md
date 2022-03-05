@@ -18,10 +18,10 @@ draft: false
  lia-message-body-content
 ## Introduction 
 
-Formik is the world\'s most popular open-source form library for React
+Formik is the world's most popular open-source form library for React
 and React Native. We can also use this library in our SPFx web part as
-well to manage form validations. Using this library we don\'t have to
-write custom validations. so let\'s start step-by-step implementation.
+well to manage form validations. Using this library we don't have to
+write custom validations. so let's start step-by-step implementation.
 
 ### What is formik? 
 
@@ -100,7 +100,7 @@ Structure.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/
  
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 export interface IReactFormikState {
   projectName?: string;
   startDate?: any;
@@ -114,7 +114,7 @@ export interface IReactFormikState {
  
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import "@pnp/sp/webs";
 import "@pnp/sp/lists";
 import "@pnp/sp/items";
@@ -152,7 +152,7 @@ current SP context and read site URL from user.
  
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
 import { Version } from '@microsoft/sp-core-library';
@@ -235,9 +235,9 @@ export default class ReactFormikWebPart extends BaseClientSideWebPart<IReactForm
 
 5\. Move to the **ReactFormik.tsx** file to render form and validations
 **yup syntaxs:**
--  For string: yup.string().required(\'Required\')
+-  For string: yup.string().required('Required')
 
--  For date: yup.date().required(\'Required\').nullable()
+-  For date: yup.date().required('Required').nullable()
 **Related to Formik**
 Fromik has its own handleReset and handleSubmit method so we don not
 have to manage manually
@@ -267,7 +267,7 @@ the SharePoint list
  
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import styles from './ReactFormik.module.scss';
 import { IReactFormikProps } from './IReactFormikProps';
@@ -483,9 +483,9 @@ Find the full source code
 ## Summary   
 
 In this article, we have seen how to implement react formik library in
-SPFx.\
+SPFx.
 \
-I hope this helps.\
+I hope this helps.
 \
 Sharing is caring!!
  

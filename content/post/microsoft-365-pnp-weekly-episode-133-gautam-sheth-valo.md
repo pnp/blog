@@ -21,7 +21,7 @@ joined by Helsinki-based Software Designer and MVP from Valo - [Gautam
 Sheth](https://twitter.com/gautamdsheth) (Valo) \| \@gautamdsheth.  
 
 
-Topics discussed in this episode include:  Gautam\'s road to be an
+Topics discussed in this episode include:  Gautam's road to be an
 [Microsoft Most Valuable Professional](https://mvp.microsoft.com/) (MVP)
 and the community work he has done to achieve this award. Gautam also
 moved recently from India to Finland, so we are discussing the cultural

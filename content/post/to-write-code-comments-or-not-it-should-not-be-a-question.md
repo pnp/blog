@@ -109,7 +109,7 @@ productivity. Imagine if you do not understand a part of the logic or
 why functionality was implemented in a particular way.
 
 Having no comments or references, you might need to go through the whole
-code step by step to understand the person\'s thoughts and
+code step by step to understand the person's thoughts and
 implementation. Another option would be to call the person to clear
 things out, but two people are less productive during that call.
 

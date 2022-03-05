@@ -48,7 +48,7 @@ Move to the **package-solution.json** and add the below permissions in
 **webApiPermissionRequests**,
  
 
-``` {.lia-code-sample .language-json}
+```json
  "webApiPermissionRequests": [
       {
         "resource": "Microsoft Graph",
@@ -75,7 +75,7 @@ I{webpartname}Props.ts** file,
 Here we will create a property for graph Client and context as below,
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { MSGraphClient } from "@microsoft/sp-http";
 import { WebPartContext } from "@microsoft/sp-webpart-base";
 
@@ -92,7 +92,7 @@ be **I{webpartname}State.ts**. And in this, we will create two
 properties groupID and members.
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 export interface IReactAzureadUsersState {
   groupId: string,
   memers: any[]
@@ -111,7 +111,7 @@ and context and then we will pass it to the property,
 component.
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
 import { Version } from '@microsoft/sp-core-library';
@@ -208,7 +208,7 @@ state so we can render it.
 we have to pass members.
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import { IReactAzureadUsersProps } from './IReactAzureadUsersProps';
 import { IReactAzureadUsersState } from './IReactAzureadUsersState';

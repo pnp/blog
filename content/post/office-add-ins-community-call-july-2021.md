@@ -11,7 +11,7 @@ draft: false
 ---
 ## Call Summary: 
 
-This month\'s community call features presentations - **Shared mailboxes
+This month's community call features presentations - **Shared mailboxes
 in Outlook** (Shared Mailbox vs Delegate Access/Shared Folder, Shared
 Mailbox design considerations and add-ins) and **PnP: Message recipients
 changed event (Outlook)** (If external recipients are detected in an
@@ -82,17 +82,17 @@ eye out on future community calls.
 you think we will see support for 1.6+ before 2022?**
 
 \
-We have this in our backlog, but we don\'t yet have an ETA.
+We have this in our backlog, but we don't yet have an ETA.
 
 \
 **Outlook on mobile still does not support compose mode add-ins, or the
 On-send event. This was a highly requested feature on the UserVoice
 system. When will Outlook on mobile support both of these? How did the
-\'Exclaimer\' add-in from June 2021\'s community call work on Outlook
+'Exclaimer' add-in from June 2021's community call work on Outlook
 mobile without support for compose mode add-ins?**
 
 \
-We have this in our backlog, but we don\'t yet have an ETA. The
+We have this in our backlog, but we don't yet have an ETA. The
 Exclaimer add-in isn't designed for use on Outlook on mobile.
 
 \
@@ -101,7 +101,7 @@ where the add-in is running?**
 
 \
 Office Add-ins run in a browser runtime and only have the capabilities
-of any web app running in a browser. It\'s not possible to write
+of any web app running in a browser. It's not possible to write
 directly to disk from the browser in any way that works cross-platform.
 A recommended approach to write to a CSV file is to [write to files
 using Microsoft Graph and

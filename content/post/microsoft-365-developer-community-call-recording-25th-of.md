@@ -24,7 +24,7 @@ November-December hosted by [Sharing is
 Caring](https://pnp.github.io/sharing-is-caring/).  At the same time,
 sign up for the [PnP Recognition
 Program](https://aka.ms/m365pnp-recognition).   Welcome to 9 new members
-to the Microsoft 365 PnP Team!  We\'re thrilled you have joined us.  
+to the Microsoft 365 PnP Team!  We're thrilled you have joined us.  
 
 -   [Geetha
     Sivasailam](http://twitter.com/GSiVed) \| [\@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388)
@@ -334,7 +334,7 @@ slides.
 -   **Microsoft Identity Platform call --** December 16th at 9:00 am
     PST \| <https://aka.ms/IDDevCommunityCalendar>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
-targeted at anyone who\'s interested in the general Microsoft 365
+targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Microsoft Flow, PowerApps, Column Formatting, list

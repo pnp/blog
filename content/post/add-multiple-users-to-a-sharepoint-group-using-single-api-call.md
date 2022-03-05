@@ -3,7 +3,6 @@ title: "Add multiple users to a SharePoint Group using single API Call"
 date: 2021-08-18T12:10:00-04:00
 author: "Arjun Menon"
 categories: ["SharePoint"]
-images: []
 tags: []
 type: "regular"
 draft: false
@@ -54,7 +53,7 @@ BODY:
 ```
 
 **Notice.** This REST API is not officially documented by Microsoft, so
-it\'s not officially supported to be used externally by partners and
+it's not officially supported to be used externally by partners and
 customers. This means that the signature can be changed without further
 notice.
 

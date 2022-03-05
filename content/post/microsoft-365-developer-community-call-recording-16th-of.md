@@ -121,8 +121,8 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 **Together Mode!**
 {{< image alt="PnP-Calls-TogetherMode-800W.gif" src="images/blog/microsoft-365-developer-community-call-recording-16th-of/PnP-Calls-TogetherMode-800W.gif" >}}
 
-Picture time is back and it\'s a packed House!  Thank you for joining
-the PnP Community call today.   You\'re awesome!  
+Picture time is back and it's a packed House!  Thank you for joining
+the PnP Community call today.   You're awesome!  
 **Demos** delivered in this session
 
 -   **List Formatting Magic Tips & Tricks​** -- create a list, add and
@@ -313,7 +313,7 @@ slides.
 -   **Microsoft Identity Platform call --** October 21st at 9:00 am
     PDT \| <https://aka.ms/IDDevCommunityCalendar>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
-targeted at anyone who\'s interested in the general Microsoft 365
+targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Microsoft Flow, PowerApps, Column Formatting, list

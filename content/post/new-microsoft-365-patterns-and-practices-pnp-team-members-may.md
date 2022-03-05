@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-![gautam-patrick-team.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279124i6DD0BEAC56D97B25/image-size/large?v=v2&px=999 "gautam-patrick-team.png")
+{{< image alt="gautam-patrick-team.png" src="images/blog/new-microsoft-365-patterns-and-practices-pnp-team-members-may/gautam-patrick-team.png" >}}
 We are excited to announce that we are again extending our
 virtual [Microsoft 365 Patterns and Practices (PnP)
 team](https://aka.ms/m365pnp) with additional community members. PnP
@@ -36,7 +36,7 @@ within [Microsoft 365]{.brand} platform.
 
 **Gautam Sheth - Software Designer**
 
-![gautam.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279108i5C5DFBE419479B85/image-dimensions/250x250?v=v2 "gautam.jpg")
+{{< image alt="gautam.jpg" src="images/blog/new-microsoft-365-patterns-and-practices-pnp-team-members-may/gautam.jpg" >}}
 
 [Gautam](https://github.com/gautamdsheth) is a Software Designer at
 [Valo](https://www.valointranet.com). Coming from a developer
@@ -55,7 +55,7 @@ songs or occasionally speaking at local community/user group events.
 **Patrick Lamber -- Microsoft 365 Solutions Architect**
 
 
-![patrick.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279107i3C914A8333413ABE/image-dimensions/250x250?v=v2 "patrick.jpg")
+{{< image alt="patrick.jpg" src="images/blog/new-microsoft-365-patterns-and-practices-pnp-team-members-may/patrick.jpg" >}}
 
 [Patrick](https://github.com/plamber) is a Microsoft Developer MVP and
 Microsoft 365 solutions architect at [Experts Inside
@@ -65,7 +65,7 @@ main developer of [EasyLife 365](https://www.easylife365.cloud) a new
 governance solution for Microsoft 365.
 Patrick actively contributes to various projects on GitHub. You can
 follow him on [GitHub](https://github.com/plamber).
-When Patrick isn\'t coding or helping customers, you will find him
+When Patrick isn't coding or helping customers, you will find him
 walking his dog or dancing Salsa around the world.
 
 

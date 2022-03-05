@@ -88,7 +88,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 {{< image alt="1st-april-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-1st-of-april/1st-april-together-mode.gif" >}}
  
 
-**It\'s together time - Spring time!     **
+**It's together time - Spring time!     **
 **Demos** delivered in this session
 
 -   **List group header formatting options** -- new list formatting
@@ -258,7 +258,7 @@ slides.
 -   **Power Apps monthly call --** April 21st at 8:00 am PDT \|
     <https://aka.ms/PowerAppsMonthlyCall>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
-targeted at anyone who\'s interested in the general Microsoft 365
+targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Microsoft Flow, PowerApps, Column Formatting, list

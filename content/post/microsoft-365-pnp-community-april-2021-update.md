@@ -31,7 +31,7 @@ you for being part of this success. *Sharing is caring!*
 365 platform community activities coordinated by numerous teams inside
 of the Microsoft 365 engineering organizations. PnP is a
 community-driven open source initiative where Microsoft and external
-community members are sharing their learning\'s around implementation
+community members are sharing their learning's around implementation
 practices for Microsoft 365.
 Topics vary from Microsoft Viva, Microsoft Graph, Microsoft Teams,
 OneDrive and SharePoint. Active development and contributions happen in
@@ -225,8 +225,8 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     - [Microsoft Graph Fundamentals learning path -- Module
     3](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-3/ba-p/2258845)
 -   7th of April - [Luise Freese](https://twitter.com/LuiseFreese)
-    - [PnP WatchParty for Microsoft\'s \'LearnTogether Building apps
-    with Microsoft Graph\'
+    - [PnP WatchParty for Microsoft's 'LearnTogether Building apps
+    with Microsoft Graph'
     event](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-watchparty-for-microsoft-s-learntogether-building-apps-with/ba-p/2257217)
 -   7th of April - [Django Lohn](https://twitter.com/lohndjango)
     (InSpark) - [Power Apps: source code editing for Canvas
@@ -283,7 +283,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     (Sword Group) - [How to determine web part size with SPFx
     v1.12](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-determine-web-part-size-with-spfx-v1-12/ba-p/2230898)
 -   19th of March - [Will Holland](https://twitter.com/_WCHolland)
-    (ThreeWill) - [Getting started with SharePoint\'s custom view
+    (ThreeWill) - [Getting started with SharePoint's custom view
     formatting](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-s-custom-view-formatting/ba-p/2222740)
 -   19th of March - [Luise Freese](https://twitter.com/LuiseFreese)
     - [Microsoft 365 PnP Community Spotlight: David
@@ -380,7 +380,7 @@ PnP Weekly video blog / podcast shows:
     Pialorsi](http://twitter.com/paolopia) (PiaSys)
 -   23rd of March - [Microsoft 365 PnP Weekly -- Episode
     119](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-119/ba-p/2228107) - [Chris
-    O\'Brien](http://twitter.com/ChrisO_Brien) (Content+Cloud)
+    O'Brien](http://twitter.com/ChrisO_Brien) (Content+Cloud)
 -   16th of March - [Microsoft 365 PnP Weekly -- Episode
     118](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-118/ba-p/2211589) -  [Veronique
     Lengelle](http://twitter.com/veronicageek) ([CPS](https://www.cps.co.uk/))
@@ -431,7 +431,7 @@ these calls, please do reach out to the PnP  Team members (contacts
 later in this post) and they are able to help with the right setup.
 These are great opportunities to gain visibility for example for
 existing MVPs, for community members who would like to be MVPs in the
-future or any community member who\'d like to share some of their
+future or any community member who'd like to share some of their
 learnings.
 ## Microsoft 365 Community (PnP) Ecosystem in GitHub 
 
@@ -527,7 +527,7 @@ PnP specific repositories - solution designs and tooling
 -   [PnP-PowerShell](https://github.com/sharepoint/PnP-PowerShell) -
     Office Dev PnP PowerShell Cmdlets
 -   [PnP-Tools](https://github.com/sharepoint/PnP-Tools) - Tools and
-    scripts targeted more for IT Pro\'s and for on-premises for SP2013
+    scripts targeted more for IT Pro's and for on-premises for SP2013
     and SP2016
 -   [PnP-Provisioning-Schema](https://github.com/sharepoint/PnP-provisioning-schema) -
     PnP Provisioning engine schema repository
@@ -552,7 +552,7 @@ Other related resources from GitHub
     Includes all Microsoft Teams samples from Microsoft\
     \
 
-## What\'s supportability story around the community tooling and assets? 
+## What's supportability story around the community tooling and assets? 
 
 Following statements apply across all of the community lead and
 contributed samples and solutions, including samples, core component(s)
@@ -584,7 +584,7 @@ In April 2020 we announced our new [Microsoft 365 PnP team
 model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 and grew the MVP team quite significantly. PnP model exists for having
 more efficient engagement between Microsoft engineering and community
-members. Let\'s build things together. Your contributions and feedback
+members. Let's build things together. Your contributions and feedback
 is always welcome! During August, we also crew the team with 5 new
 members. PnP Team coordinates and leads the different open-source and
 community efforts we execute in the Microsoft 365 platform.
@@ -634,7 +634,7 @@ in our bi-weekly Microsoft 365 Generic Dev community call, including the
 latest community contributors.
 ### Microsoft 365 Community docs 
 {{< image alt="community-dcos.png" src="images/blog/microsoft-365-pnp-community-april-2021-update/community-dcos.png" >}}
-Community docs model was announced in the April 2020 and it\'s great to
+Community docs model was announced in the April 2020 and it's great to
 see the interest for community to help each other by providing new
 guidance on the non-dev areas. See more on the announcement from the
 SharePoint blog - [Announcing the Microsoft 365 Community
@@ -729,11 +729,11 @@ from the the different repositories.
 -   Updates to
     [react-staffdirectory](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-staffdirectory)
     by [Ari Gunawan](https://twitter.com/kuboconcept) which
-    shows current user\'s colleagues, and allows the user to search AD
+    shows current user's colleagues, and allows the user to search AD
     directory
 -   Other to numerous SPFx web part and extension samples by our awesome
     community members!
-How to find what\'s relevant for you? Take advantage of our SharePoint
+How to find what's relevant for you? Take advantage of our SharePoint
 Framework web part and extension sample galleries - includes also
 solutions which work in Microsoft Teams
 -   Web Part sample gallery - <http://aka.ms/spfx-webparts>
@@ -790,7 +790,7 @@ involved!
 -   **PnP Core SDK** - The PnP Core SDK is an SDK designed to work for
     Microsoft 365 with Graph API first approach. It provides a unified
     object model for working with SharePoint Online and Teams which is
-    agnostic to the underlying API\'s being called. See more around the
+    agnostic to the underlying API's being called. See more around the
     SDK from [documentation](https://aka.ms/pnp/coresdk/docs).
 -   **PnP PowerShell** - PnP PowerShell is a .NET Core 3.1 / .NET
     Framework 4.6.1 based PowerShell Module providing over 400 cmdlets
@@ -813,7 +813,7 @@ involved!
     the latest updates.
 -   **PnPJs** - PnPJs encapsulates SharePoint REST APIs and provides a
     fluent and easily usable interface for querying data from SharePoint
-    sites. It\'s a replacement of already deprecated pnp-js-core
+    sites. It's a replacement of already deprecated pnp-js-core
     library. See
     [changelog](https://github.com/pnp/pnpjs/blob/dev/CHANGELOG.md) for
     the latest updates.
@@ -829,7 +829,7 @@ involved!
     settings or to manipulate actual SharePoint sites. They See
     [changelog](https://github.com/SharePoint/PnP-PowerShell/blob/master/CHANGELOG.md)
     for the latest updates.
--   **PnP Modern Search solution** - The PnP \'Modern Search\' solution
+-   **PnP Modern Search solution** - The PnP 'Modern Search' solution
     is a set of SharePoint Online modern Web Parts allowing SharePoint
     super users, webmasters and developers to create highly flexible and
     personalized search based experiences in minutes. See more details
@@ -886,7 +886,7 @@ last monthly summary:
     libraries](https://www.youtube.com/watch?v=K7IodsvoN-A) - [Mikael
     Svenson](https://twitter.com/mikaelsvenson) (Microsoft) \|
     [\@MikaelSvenson](/t5/user/viewprofilepage/user-id/734173)
--   [Jeff Teper\'s Beatles-inspired \"SharePoint at 20\" birthday
+-   [Jeff Teper's Beatles-inspired \"SharePoint at 20\" birthday
     singalong
     :birthday_cake::guitar:](https://www.youtube.com/watch?v=4oCGiR9CDUU) -
     [Jeff Teper](https://twitter.com/jeffteper) (Microsoft)
@@ -1020,7 +1020,7 @@ Microsoft 365 topics.
     [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys)
 -   [Microsoft 365 PnP Weekly - Episode
     119](https://www.youtube.com/watch?v=y1Xdo40kYRA) - [Chris
-    O\'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
+    O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
 -   [Microsoft 365 PnP Weekly - Episode
     118](https://www.youtube.com/watch?v=dY07COiNnIw&list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC&index=5) -
     [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) 
@@ -1126,7 +1126,7 @@ please let us know.
 -   Chris Kent (DMI) -
     [\@theChrisKent](https://twitter.com/theChrisKent)
 
--   Chris O\'Brien (Content+Cloud)
+-   Chris O'Brien (Content+Cloud)
     - [\@ChrisO_Brien](https://twitter.com/ChrisO_Brien)
 
 -   Christian Zuellig (Monday Coffee) --
@@ -1478,12 +1478,12 @@ please let us know.
     - [\@yhabersaat](https://twitter.com/yhabersaat)
 
 -   Zach Bean (Charles River Laboratories)
-**Companies:** Here\'s the companies, which provided support for PnP
+**Companies:** Here's the companies, which provided support for PnP
 initiative for this month by allowing their employees working for the
 benefit of others in the community. There were also people who
 contributed from other companies during last month, but we did not get
 their logos and approval to show them in time for these communications.
-If you still want your logo for this month\'s release, please let us
+If you still want your logo for this month's release, please let us
 know and share the logo with us. Thx.
 {{< image alt="pnp-companies-april.png" src="images/blog/microsoft-365-pnp-community-april-2021-update/pnp-companies-april.png" >}}
 **Microsoft people:** Here's the list of Microsoft people who have been

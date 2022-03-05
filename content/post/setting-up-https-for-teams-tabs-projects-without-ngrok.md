@@ -81,11 +81,11 @@ your part.
 
 ### On Windows 
 
--   Double click on the `ca.crt` file and click "Install Certificate".\
+-   Double click on the `ca.crt` file and click "Install Certificate".
     \
     {{< image alt="ssl-01.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-01.png" >}}
 
--   Choose Local Machine and click next.\
+-   Choose Local Machine and click next.
     \
     {{< image alt="ssl-02.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-02.png" >}}
 
@@ -94,7 +94,7 @@ your part.
 -   Select "Place all certificates in the following store" and then
     click the "Browse" button. Choose "Trusted Root Certification
     Authorities" click "OK" to close the dialog box, and then click
-    "Next".\
+    "Next".
     \
     {{< image alt="ssl-03.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-03.png" >}}
 
@@ -200,7 +200,7 @@ const fs = require('fs');const https = require('https');var privateKey =
 
 Each team member needs to do Step 1 on their computer just once. When a
 developer starts working on a project they can simply copy their .cert
-folder into their project and go to work.\
+folder into their project and go to work.
 \
 
 Many thanks to my colleague [Tomomi Imura ](https://girliemac.com/)for

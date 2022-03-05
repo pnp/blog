@@ -125,11 +125,11 @@ on demand. 
     [PokeBubbleGame](https://github.com/MichelleWongNL/PokeBubbleGame/blob/main/Pok%C3%A9Bubbles%20V4.msapp) 
 -   D2:  Microsoft Learn -- [Build the skills that lead to
     success](https://www.microsoft.com/resilience/training-and-certification-solutions) 
--   D2:  Sheryl\'s -- [BizApps
+-   D2:  Sheryl's -- [BizApps
     Blog](https://sherylnetley.com/bizapps-blog/)  
 -   D2:  Website -
     [MeasureUp](https://www.measureup.com/products.html?cat=230&gclid=EAIaIQobChMI9qvZwsmw8wIVEtxRCh351QFmEAAYASAAEgJrH_D_BwE) 
--   D2:  Video - Jese\'s Power Channel - [PL-900 Power Platform
+-   D2:  Video - Jese's Power Channel - [PL-900 Power Platform
     Fundamentals (Hints, Tips,
     Advice)](https://www.youtube.com/watch?v=JAFX9IJ9fBI&list=PLKZVDmaJ3IRJy__kzsxc1SpxH-UALeVPy) 
 -   D2:  Documentation - [Microsoft

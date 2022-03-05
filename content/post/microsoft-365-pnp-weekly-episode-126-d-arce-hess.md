@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 PnP Weekly - Episode 126 - D\\'arce Hess"
+title: "Microsoft 365 PnP Weekly - Episode 126 - D\'arce Hess"
 date: 2021-05-11T04:40:00-04:00
 author: "Vesa Juvonen"
 categories: ["PnP Weekly"]
@@ -19,7 +19,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
 Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
 joined by Rhode Island, US-based, MVP, professional archer, blogger and
 presenter specializing in UI/UX, information architecture and user
-adoption at TrnDigital, [D\'arce Hess](https://twitter.com/DarceHess) \|
+adoption at TrnDigital, [D'arce Hess](https://twitter.com/DarceHess) \|
 @ DarceHess.   Topics discussed in this session include:  The path to IT
 and on becoming an MVP, reflections on UX/UI changes over the years and
 designing custom experiences that addresses business processes.  In post
@@ -61,7 +61,7 @@ everyone for your contributions to the community!
 
 
 **Microsoft articles:**
--   [Use SharePoint\'s new site templates
+-   [Use SharePoint's new site templates
     today!](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/use-sharepoint-s-new-site-templates-today/ba-p/2304372?WT.mc_id=m365-27875-wmastyka) -
     [Nicole Woon](https://twitter.com/NovelNicole) (Microsoft) \| 
     \@NovelNicole and Holland Kaviani (Microsoft)
@@ -123,7 +123,7 @@ everyone for your contributions to the community!
 -   [Episode #153​ - Batching with Microsoft Graph SDK for
     .NET](https://www.youtube.com/watch?v=LHcn8INyYAg) - [Paolo
     Pialorsi](https://twitter.com/PaoloPia) (PiaSys) \| \@PaoloPia
--   [SharePoint Framework What\'s New 1.12.1 \[Teams - Web Part
+-   [SharePoint Framework What's New 1.12.1 \[Teams - Web Part
     APIs\]](https://www.youtube.com/watch?v=6Q3mKio9rXs) - [Giuliano De
     Luca](https://twitter.com/DeLucaGiulian){.yt-simple-endpoint
     .style-scope

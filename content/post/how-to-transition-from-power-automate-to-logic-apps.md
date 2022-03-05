@@ -16,7 +16,7 @@ draft: false
 
 Hello, are you looking to understand the differences between Power
 Automate and Azure Logic Apps -- or not sure what each of these does and
-when to use them? Well, you have come to the right place. Let\'s go
+when to use them? Well, you have come to the right place. Let's go
 through these, to understand the differences and similarities and to
 look at how you can transition between them.
 
@@ -26,7 +26,7 @@ experience of creating Flows. These have an extensive range of
 connectors built in the service, enabling you to build solutions that
 connect to a broader range of first and third party services. If these
 do not suffice, there is the option to create a custom connector to
-integrate your app with Power Automate and Logic Apps.\
+integrate your app with Power Automate and Logic Apps.
 
 Both have:
 
@@ -75,20 +75,20 @@ in the documentation.
 
 ##  Transitioning from Power Automate to Logic Apps 
 
-So, let\'s see moving a Flow from Power Automate to Logic Apps. In this
+So, let's see moving a Flow from Power Automate to Logic Apps. In this
 scenario, in Power Automate, a Flow has been created to trigger when a
 SharePoint list item, get property from my Office 365 profile and Email
 me when the item has changed (btw, this is available as a template), the
 Flow would look like this:
 
 ![Example Flow in Power
-Automate](/t5/image/serverpage/image-id/245723i1586E3E402B0FD56/image-size/large?v=v2&px=999 "Power Automate Flow Example.jpg")
+Automate](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245723i1586E3E402B0FD56/image-size/large?v=v2&px=999 "Power Automate Flow Example.jpg")
 
 Within Power Automate, you have the option of **exporting** a Flow to
 Logic apps:
 
 ![Screenshot showing the export option to Logic
-Apps](/t5/image/serverpage/image-id/245729iBDE7D2FAEB82D5A7/image-size/large?v=v2&px=999 "Export to Logic Apps - When an item is modified.jpg")
+Apps](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245729iBDE7D2FAEB82D5A7/image-size/large?v=v2&px=999 "Export to Logic Apps - When an item is modified.jpg")
 
 
 The export feature generates an ARM template (an Azure Resource Manager
@@ -103,7 +103,7 @@ Search for \"custom template\" then find the option to \"Deploy a custom
 template\" as shown below:
 
 ![Deploy a template option in the Azure
-Portal](/t5/image/serverpage/image-id/245730iF209DBD4EA5B91A5/image-size/large?v=v2&px=999 "Deploy a custom template.jpg")
+Portal](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245730iF209DBD4EA5B91A5/image-size/large?v=v2&px=999 "Deploy a custom template.jpg")
 
 
 Following the instructions and complete the fields in which Azure
@@ -117,7 +117,7 @@ will be ready in Azure:
  
 
 ![Showing the Logic App Designer and the example
-Flow](/t5/image/serverpage/image-id/245732i530F2ABAB09AC06C/image-size/large?v=v2&px=999 "Azure Logic App Equivelant.jpg")
+Flow](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245732i530F2ABAB09AC06C/image-size/large?v=v2&px=999 "Azure Logic App Equivelant.jpg")
 
 Whilst this is not the full instructions for performing the import, if
 you want to see the full process of importing the Flow, visit the
@@ -128,7 +128,7 @@ Apps](https://docs.microsoft.com/en-us/azure/logic-apps/export-from-microsoft-fl
 ## Why would you transition from Power Automate to Logic Apps?
 
 
-It\'s a good question. There are many factors that could influence the
+It's a good question. There are many factors that could influence the
 decision to move, such as:
 
 -   You need to connect to Azure resources that would require Premium
@@ -190,9 +190,9 @@ one level ;)) that contain the Azure resources you can planning to
 deploy -- the advantage of this, there is a feature called \"Budgets\"
 which allow you to set up an alerting period, e.g. monthly that send
 notifications if the costings go over a budget, allowing you to assess
-the resource and optimise -- but to note this isn\'t a cap.
+the resource and optimise -- but to note this isn't a cap.
 ![Azure Resource Group with the Budget settings
-screen](/t5/image/serverpage/image-id/245733i2AF4B31FA4C461DD/image-size/large?v=v2&px=999 "Azure Budget.jpg")
+screen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245733i2AF4B31FA4C461DD/image-size/large?v=v2&px=999 "Azure Budget.jpg")
 Azure Logic apps also have the option of Integrated Service
 Environments, whilst they provide access to dedicated Azure resources,
 the cost does go up accordingly. Check out the

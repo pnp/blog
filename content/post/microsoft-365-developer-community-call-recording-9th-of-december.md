@@ -121,7 +121,7 @@ style wave rehearsals starting soon.   
     Notion page content available to API, create flow that extracts data
     from Notion page. 
 
--   **What\'s new with Learning Pathways --** overview of Learning
+-   **What's new with Learning Pathways --** overview of Learning
     Pathways, integration with Viva Learning, platform updates, making
     Microsoft training materials available in your tenant, configuring
     to expose certain content to your organization, and adding your
@@ -181,7 +181,7 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     \@ChandraSMalla -- [14:09](https://youtu.be/-ovC3cO7xlA?t=849)
     ]
 
--   **Demo 2:**  What\'s new with Learning Pathways -- [Mike
+-   **Demo 2:**  What's new with Learning Pathways -- [Mike
     Hollinshead](http://twitter.com/mahollinshead) (Microsoft) \|
     \@mahollinshead & [Derek Cash-Peterson](http://twitter.com/spdcp)
     (Sympraxis Consulting) \|
@@ -314,7 +314,7 @@ slides.
 -   **Adaptive Cards monthly call -- **January 13th[at 9:00 am PST
     \| ]<https://aka.ms/adaptivecardscommunitycall>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
-targeted at anyone who\'s interested in the general Microsoft 365
+targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Microsoft Flow, PowerApps, Column Formatting, list

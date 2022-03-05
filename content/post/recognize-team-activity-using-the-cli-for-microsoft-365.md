@@ -74,7 +74,7 @@ You can tweak those scores yourself if you like on line 77 to 80. Future
 samples might add SharePoint interactions as well.
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 $teamId = "<PUTYOURTEAMIDHERE>"
 $webhookUrl = "<PUTYOURURLHERE>"
 # You can get a delta of messages since the last 'n' days. Currently set to seven. You can go back a maximum of 8 months.

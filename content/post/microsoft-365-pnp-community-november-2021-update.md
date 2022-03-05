@@ -37,7 +37,7 @@ month. Thank you for being part of this success.
 365 platform community activities coordinated by numerous teams inside
 of the Microsoft 365 engineering organizations. PnP is a
 community-driven open source initiative where Microsoft and external
-community members are sharing their learning\'s around implementation
+community members are sharing their learning's around implementation
 practices for Microsoft 365.
 Topics vary from Microsoft Viva, Microsoft Graph, Microsoft Teams, Power
 Platform, OneDrive and SharePoint. Active development and contributions
@@ -133,7 +133,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     values](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/quick-sharepoint-approvals-using-list-formatting-json-to-set/ba-p/2984496)
 -   18th of November - [Luise
     Freese](https://twitter.com/LuiseFreese) (M365Princess)
-    \| \@LuiseFreese - [Let\'s tame Dataverse: How to reference
+    \| \@LuiseFreese - [Let's tame Dataverse: How to reference
     Many-to-Many-relationships in Azure Logic
     Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/ba-p/2979837)
 -   18th of November - [Patrick
@@ -259,7 +259,7 @@ these calls, please do reach out to the PnP  Team members (contacts
 later in this post) and they are able to help with the right setup.
 These are great opportunities to gain visibility for example for
 existing MVPs, for community members who would like to be MVPs in the
-future or any community member who\'d like to share some of their
+future or any community member who'd like to share some of their
 learnings.
 ## Microsoft 365 Community (PnP) Ecosystem in GitHub 
 
@@ -362,7 +362,7 @@ Microsoft are located in the SharePoint GitHub organization\
     site](https://lookbook.microsoft.com/)
 Classic PnP named repositories - older tooling
 -   [PnP-Tools](https://github.com/sharepoint/PnP-Tools) - Tools and
-    scripts targeted more for IT Pro\'s and for on-premises for SP2013
+    scripts targeted more for IT Pro's and for on-premises for SP2013
     and SP2016
 -   [PnP-Provisioning-Schema](https://github.com/sharepoint/PnP-provisioning-schema) -
     PnP Provisioning engine schema repository
@@ -381,7 +381,7 @@ Other related resources from GitHub
 -   [OfficeDev GitHub organization](https://github.com/officedev) -
     Includes all Microsoft Teams samples from Microsoft
 
-## What\'s supportability story around the community tooling and assets? 
+## What's supportability story around the community tooling and assets? 
 
 Following statements apply across all of the community lead and
 contributed samples and solutions, including samples, core component(s)
@@ -413,7 +413,7 @@ In April 2020 we announced our new [Microsoft 365 PnP team
 model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 and grew the MVP team quite significantly. PnP model exists for having
 more efficient engagement between Microsoft engineering and community
-members. Let\'s build things together. Your contributions and feedback
+members. Let's build things together. Your contributions and feedback
 is always welcome! During August, we also crew the team with 5 new
 members. PnP Team coordinates and leads the different open-source and
 community efforts we execute in the Microsoft 365 platform.
@@ -512,7 +512,7 @@ latest community contributors.
 
 {{< image alt="community-dcos.png" src="images/blog/microsoft-365-pnp-community-november-2021-update/community-dcos.png" >}}
 
-Community docs model was announced in the April 2020 and it\'s great to
+Community docs model was announced in the April 2020 and it's great to
 see the interest for community to help each other by providing new
 guidance on the non-dev areas. See more on the announcement from the
 SharePoint blog - [Announcing the Microsoft 365 Community
@@ -532,7 +532,7 @@ detailed.
     list](https://github.com/MicrosoftDocs/microsoft-365-community/issues)
     with articles ideas
 ### SharePoint Framework development samples 
-{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-november-2021-update/spfx-gallery.png" >}
+{{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-november-2021-update/spfx-gallery.png" >}}
 These are the updated SharePoint Framework samples which are available
 from the the different repositories.
 -   New sample
@@ -553,7 +553,7 @@ from the the different repositories.
 -   New sample
     [react-emoji-ratings](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-emoji-ratings)
     by [Siddharth Vaghasia](https://twitter.com/siddh_me) \| \@siddh_me
-    that can collect user\'s reactions using an emoji-based feedback for
+    that can collect user's reactions using an emoji-based feedback for
     news/articles/post
 -   New sample
     [react-graph-groupviewer](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-groupviewer)
@@ -591,7 +591,7 @@ from the the different repositories.
 -   Other adjustments to numerous samples by our awesome community
     members!
 -    
-How to find what\'s relevant for you? Take advantage of our SharePoint
+How to find what's relevant for you? Take advantage of our SharePoint
 Framework web part and extension sample galleries - includes also
 solutions which work in Microsoft Teams
 -   Web Part sample gallery - <http://aka.ms/spfx-webparts>
@@ -629,7 +629,7 @@ samples. See more details on available samples from following location:\
 
 -   Power Platform sample gallery
     - <https://aka.ms/powerplatform-samples>
-If you have any existing samples which you\'d be willing to share with
+If you have any existing samples which you'd be willing to share with
 others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. Here to
 help.
@@ -754,7 +754,7 @@ Here are the latest updates on the Script Samples
     by [Adam
     Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=ulMhSFwRQqnWXDKQiPuhBKCA99T2OBcYPx%2Bq2hYD%2Fp0%3D&reserved=0)
     (Hitachi Energy) \| \@Adam25858782
-If you have any existing scripts which you\'d be willing to share with
+If you have any existing scripts which you'd be willing to share with
 others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. 
 -   Microsoft 365 Script Samples - <https://aka.ms/script-samples>
@@ -765,7 +765,7 @@ connectors and also provides you with the ability of creating your own
 custom connectors. As of July 2021, anyone can submit the connectors
 they built to Microsoft Power Platform so that they can be used by
 others as well. Previously, only API owners could publish their
-connectors. The Independent Publisher Connector Program\'s mission is to
+connectors. The Independent Publisher Connector Program's mission is to
 bring the best together: the best people, connecting great ideas to
 data, apps, and flows. We want to make it easier for connector
 developers to collaborate on connectors.
@@ -935,7 +935,7 @@ involved!
 -   **PnP Core SDK** - The PnP Core SDK is an SDK designed to work for
     Microsoft 365 with Graph API first approach. It provides a unified
     object model for working with SharePoint Online and Teams which is
-    agnostic to the underlying API\'s being called. See more around the
+    agnostic to the underlying API's being called. See more around the
     SDK from [documentation](https://aka.ms/pnp/coresdk/docs).
 -   **PnP PowerShell** - PnP PowerShell is a .NET Core 3.1 / .NET
     Framework 4.6.1 based PowerShell Module providing over 400 cmdlets
@@ -958,7 +958,7 @@ involved!
     the latest updates.
 -   **PnPJs** - PnPJs encapsulates SharePoint REST APIs and provides a
     fluent and easily usable interface for querying data from SharePoint
-    sites. It\'s a replacement of already deprecated pnp-js-core
+    sites. It's a replacement of already deprecated pnp-js-core
     library. See
     [changelog](https://github.com/pnp/pnpjs/blob/dev/CHANGELOG.md) for
     the latest updates.
@@ -974,7 +974,7 @@ involved!
     settings or to manipulate actual SharePoint sites. They See
     [changelog](https://github.com/SharePoint/PnP-PowerShell/blob/master/CHANGELOG.md)
     for the latest updates.
--   **PnP Modern Search solution** - The PnP \'Modern Search\' solution
+-   **PnP Modern Search solution** - The PnP 'Modern Search' solution
     is a set of SharePoint Online modern Web Parts allowing SharePoint
     super users, webmasters and developers to create highly flexible and
     personalized search based experiences in minutes. See more details
@@ -1070,7 +1070,7 @@ last monthly summary:
     \@NikCharlebois
 -   [Microsoft 365 Certification: How to get
     certified](https://www.youtube.com/watch?v=y3iHCcC2JOc) - Orion
-    O\'Malley (Microsoft)
+    O'Malley (Microsoft)
 -   [Single Sign On (SSO) in Microsoft Teams tabs with Azure Active
     Directory](https://www.youtube.com/watch?v=kruUnaZgQaY) - [Rabia
     Williams](https://twitter.com/williamsrabia) (Microsoft) \|
@@ -1086,7 +1086,7 @@ last monthly summary:
     (Microsoft) 
 -   [Introducing New Instant Sandbox for Microsoft 365 Developer
     Program](https://www.youtube.com/watch?v=ojQcS9ZQmes&t=2s) 
--   [Ignite 2021: What\'s new in Microsoft
+-   [Ignite 2021: What's new in Microsoft
     Outlook](https://www.youtube.com/watch?v=mM1JK-wmrLo) 
 -   [Synchronize your hybrid work with Microsoft Teams +
     Atlassian](https://www.youtube.com/watch?v=7TfEG5bXktc) 
@@ -1139,7 +1139,7 @@ last monthly summary:
     Graph](https://www.youtube.com/watch?v=vqhEjPgLpqk)  - [Andrew
     Connell](https://twitter.com/andrewconnell) ( Voitanos)
     \| \@andrewconnell
--   [Demo - Create .NET console app to display all the user\'s files
+-   [Demo - Create .NET console app to display all the user's files
     with Microsoft
     Graph](https://www.youtube.com/watch?v=KNJUrCHv6no)  - [Andrew
     Connell](https://twitter.com/andrewconnell) ( Voitanos)
@@ -1156,7 +1156,7 @@ last monthly summary:
     OneDrive](https://www.youtube.com/watch?v=ooHiGCooFMY)  - [Andrew
     Connell](https://twitter.com/andrewconnell) ( Voitanos)
     \| \@andrewconnell
--   [Demo - Display the currently signed in user\'s
+-   [Demo - Display the currently signed in user's
     details](https://www.youtube.com/watch?v=8Nvv7bvC5AI)  - [Andrew
     Connell](https://twitter.com/andrewconnell) ( Voitanos)
     \| \@andrewconnell
@@ -1476,7 +1476,7 @@ please let us know.
     \| \@joakimhogberg
 -   [Joe Unwin](https://twitter.com/Flow_Joe) (Hitachi Solutions) \|
     \@Flow_Joe
--   [[Joe\'l Brenny](https://www.twitter.com/jbrenny)]{.underline} \|
+-   [[Joe'l Brenny](https://www.twitter.com/jbrenny)]{.underline} \|
     \@jbrenny
 -   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm
     Technology) \| \@JoelFMRodrigues
@@ -1623,7 +1623,7 @@ please let us know.
     \@russgove
 -   [[Ryan Jordan](https://www.twitter.com/rj0435)]{.underline} (City of
     Dallas) \| \@rj0435
--   Sabrina Faragoza (Cognizant\'s Microsoft Business Group)
+-   Sabrina Faragoza (Cognizant's Microsoft Business Group)
 -   [Samuele Furnari](https://github.com/SamueleFurnari) (NTT DATA
     Italia) 
 -   [[Sandra Macaulay
@@ -1706,12 +1706,12 @@ please let us know.
 -   [Yves Habersaat]{.underline} \| \@yhabersaat
 -   [Zach Roberts](https://twitter.com/ZachSPODev) \| \@ZachSPODev
 -   [zylantha](https://github.com/zylantha)
-**Companies:** Here\'s the companies, which provided support the
+**Companies:** Here's the companies, which provided support the
 community initiative for this month by allowing their employees working
 for the benefit of others in the community. There were also people who
 contributed from other companies during last month, but we did not get
 their logos and approval to show them in time for these communications.
-If you still want your logo for this month\'s release, please let us
+If you still want your logo for this month's release, please let us
 know and share the logo with us. Thx.
 {{< image alt="nov-companies-pnp.png" src="images/blog/microsoft-365-pnp-community-november-2021-update/nov-companies-pnp.png" >}}
 -   [Addin365](https://www.addin365.com/)
@@ -1818,7 +1818,7 @@ closely involved with the PnP work during last month.
     \@NikCharlebois
 -   Nicolas Vogt - [vogtn](https://github.com/vogtn)
 -   Nikola Metulev - [\@metulev](https://twitter.com/metulev)
--   Orion O\'Malley (Microsoft)
+-   Orion O'Malley (Microsoft)
 -   [[Pam
     Green](https://www.twitter.com/contextuallib)]{.underline} (Microsoft)
     \| \@contextuallib

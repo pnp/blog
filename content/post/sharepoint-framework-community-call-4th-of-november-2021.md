@@ -151,7 +151,7 @@ Düsseldorf or in Las Vegas later this year.   
 \* to be posted soon.
 **PnP SPFx
 ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
--   **Today\'s Lunch Information\*** -- [Luis
+-   **Today's Lunch Information\*** -- [Luis
     Mañez](http://twitter.com/luismanez) \| \@luismanez
 
 -   **Service Health - Updates\*** -- [Anoop

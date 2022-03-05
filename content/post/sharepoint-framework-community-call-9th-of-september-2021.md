@@ -49,7 +49,7 @@ this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
 (Microsoft) \| \@mediocrebowler.  Q&A takes place as always in chat
 throughout the call.
 Thank you everybody for being part of this call, the community, a tweet,
-a blog post, and the solution to your customer\'s needs.  
+a blog post, and the solution to your customer's needs.  
 **Actions:**
 
 -   Opt in to PnP Recognition Program

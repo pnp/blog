@@ -428,7 +428,7 @@ Likes ]{.lia-button-image-kudos-label
 
 ::: {#informationbox_7 .InfoMessage .lia-panel-feedback-banner-note .lia-component-comment-editor}
 ::: {.lia-text role="alert"}
-You must be a registered user to add a comment. If you\'ve already
+You must be a registered user to add a comment. If you've already
 registered, sign in. Otherwise, register and sign in.
 
 -   [Comment](/plugins/common/feature/oauth2sso/sso_login_redirect?lang=en&redirectreason=permissiondenied&referer=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fmicrosoft-365-pnp-blog%2Fmicrosoft-365-self-service-using-power-apps%2Fba-p%2F3056109%23comment-on-this){#link_14
@@ -745,7 +745,7 @@ Browse
 ::: shell-footer-wrapper
 ::: {.shell-footer-menugroups ms.cmpgrp="footer nav"}
 ::: {.sfm-group ms.cmpnm="WhatsNew"}
-###### What\'s new  {#whats-new .grp-title}
+###### What's new  {#whats-new .grp-title}
 
 -   [Surface Pro
     X](https://www.microsoft.com/p/surface-pro-x/8vdnrp2m6hhc?activetab=overview)
