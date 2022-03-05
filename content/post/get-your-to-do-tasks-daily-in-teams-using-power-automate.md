@@ -368,7 +368,7 @@ Back in the Flow, we need to fix it so when an option (task) is chosen,
 we do something with it. Add another **Apply to each** and like the
 previous loop, select *value* output from **Parse JSON**.
 
-![PA24.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245846i95159C56E04D0C49/image-size/large?v=v2&px=999 "PA24.png")
+{{< image alt="PA24.png" src="images/blog/get-your-to-do-tasks-daily-in-teams-using-power-automate/PA24.png" >}}
              
              
 Within this **Apply to each** step, **Add an action** and choose
@@ -378,7 +378,7 @@ looking for the one that matches what the user selected in Teams. To do
 this set the first value as *selectedOption* under **Post a choice\...**
 and the second value is *title* under **Parse JSON**.
 
-![PA25.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245847i85D52C9197BB304A/image-size/large?v=v2&px=999 "PA25.png")
+{{< image alt="PA25.png" src="images/blog/get-your-to-do-tasks-daily-in-teams-using-power-automate/PA25.png" >}}
   
 We now need to act upon when the condition is met (the task equals the
 chosen option in Teams). Under **If yes**, add **Post message as the

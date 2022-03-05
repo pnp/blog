@@ -4,14 +4,14 @@ date: 2021-10-20T08:40:00-04:00
 author: "Todd Baginski"
 categories: ["Power Apps community Call recordings"]
 images:
-
+- images/blog/power-apps-community-call-october-2021/PowerApps Thumb October 2021.png
 tags: []
 type: "regular"
 draft: false
 
 ---
 
-![PowerApps Thumb October 2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/318952i19D07A8E59D3EBB1/image-size/large?v=v2&px=999 "PowerApps Thumb October 2021.png")
+{{< image alt="PowerApps Thumb October 2021.png" src="images/blog/power-apps-community-call-october-2021/PowerApps Thumb October 2021.png" >}}
 
 **Call Summary:**
 

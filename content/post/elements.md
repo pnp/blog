@@ -144,5 +144,5 @@ Markdown | Less | Pretty
 ## Image
 {{< image alt="THIS IS AN IMAGE" src="images/blog/blog-3.jpg" >}}
 <hr>
-##### Youtube video
+##### YouTube video
 {{< youtube KFmA9W8i4X4 >}}

@@ -3,8 +3,6 @@ title: "Use Node Version Manager to develop your SPFx apps"
 date: 2021-02-14T08:40:00-04:00
 author: "Toni Pohl"
 categories: ["SharePoint", "Tooling"]
-images:
-
 tags: []
 type: "regular"
 draft: false
@@ -80,7 +78,7 @@ simply run
 
 *nvm ls available*
 
-![List available Node.js versions](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254750iBB84025E20884DB4/image-size/large?v=v2&px=999 "p4.png")
+{{< image alt="List available Node.js versions" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p4.png" >}}
 
 Now, install the desired Node.js versions:
 
@@ -129,7 +127,7 @@ with npm.
 --global*
 
 
-![npm install](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254776i0D8AD5EBF55E5A20/image-size/large?v=v2&px=999 "p8.png")
+{{< image alt="npm install" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p8.png" >}}
 ## Create a new SPFx web part 
 To create a new SPFx app, follow the steps described at [Build your
 first SharePoint client-side web part (Hello World part
@@ -140,7 +138,7 @@ In a new directory, run
 
 
 
-![Run yo](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254777i41931FBEB0252D07/image-size/large?v=v2&px=999 "p9.png")
+{{< image alt="Run yo" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p9.png" >}}
 
 You need to trust the development self-signed SSL certificate as
 described at [Trusting the self-signed developer
@@ -150,7 +148,7 @@ here. Then, you can open the workbench with SSL.
 *gulp trust-dev-cert*
 
 
-![gulp trust-dev-cert](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254778i43D4929EA0E7FAAD/image-size/large?v=v2&px=999 "p10.png")
+{{< image alt="gulp trust-dev-cert" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p10.png" >}}
 
 You can open Visual Studio Code now to modify the solution: *code .*
 
@@ -170,7 +168,7 @@ https://localhost:4321/temp/workbench.html. Here, you can add the
 web part to the workbench page and test it.
 
 
-![Use the workbench to run the web part](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/254780i2F67EB283FBA5958/image-size/large?v=v2&px=999 "p12.png")
+{{< image alt="Use the workbench to run the web part" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p12.png" >}}
 
 **Tip:** When gulp serve is running, you can open your M365 tenant´s SPO
 site and use the custom web part with the data from SharePoint, too:

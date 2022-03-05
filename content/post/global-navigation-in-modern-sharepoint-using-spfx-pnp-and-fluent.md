@@ -5,8 +5,6 @@ author: "Dipen Shah"
 categories: []
 images:
 - images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GN3.jpg
-- images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV3.jpg
-- images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV4.jpg
 tags: []
 type: "regular"
 draft: false
@@ -75,7 +73,7 @@ Create Term Set inside created Term Group
 -   Copy term Set Id and Paste it in one document.
 
 Create Terms Inside create Term Sets.
-![Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309155iAEB14E4D7387ADEC/image-size/large?v=v2&px=999 "Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI.gif")
+{{< image alt="Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI.gif" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI.gif" >}}
 
 **Step 2 - Create SPFx Solution for Application Customizer**
 
@@ -454,9 +452,9 @@ gulp clean
 gulp build
 gulp serve --config:"gobalNavigationBar"
 ```
-![Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309159i2F1844878E99FA11/image-size/large?v=v2&px=999 "Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png")
+{{< image alt="Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png" >}}
 Copy URL which is highlighted in yellow and paste it into the browser.
-![Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/309160i413C05A84AB8B949/image-size/large?v=v2&px=999 "Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif")
+{{< image alt="Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif" >}}
 
 ## Conclusion 
 

@@ -5,17 +5,7 @@ author: "Chandani Prajapati"
 categories: ["Power Automate", "SharePoint"]
 images:
 - images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636792320998.png
-- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_1-1636792461300.png
-- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636793559861.png
-- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636864104189.png
-- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_1-1636864275047.png
-- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_7-1636864944228.png
-- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_6-1636864910697.png
-- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_5-1636864879248.png
-- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_4-1636864839927.png
-- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_3-1636864760614.png
-- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_2-1636864751972.png
-- images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1637069155125.png
+
 tags: []
 type: "regular"
 draft: false
@@ -29,7 +19,7 @@ in SharePoint Document Library using **Power Automate** without using
 any license version.
 Using this method will be a bit lengthy but if we don't have the power
 to automate premium licenses then we can also achieve a solution.
-![Group 1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326574i3FEC557E437AC323/image-size/large?v=v2&px=999 "Group 1.png")
+{{< image alt="Group 1.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/Group 1.png" >}}
 
 ## Implementation 
 1\. Go to **Power Automate** \> **My flows** \> Click on **New flow** \>
@@ -45,7 +35,7 @@ choose when a file is created or modified too.
 
 3\. Click on **Create.
 
-  Basically, we don't have direct action to convert to PDF for SharePoint so first, we will create a library item/file in Onedrive and in one drive has an action to conversion so we will use one drive converter to convert to pdf format, and then we will move it to the library and delete it from one drive.*
+  Basically, we don't have direct action to convert to PDF for SharePoint so first, we will create a library item/file in OneDrive and in one drive has an action to conversion so we will use one drive converter to convert to pdf format, and then we will move it to the library and delete it from one drive.*
 
 At the end, our flow will be as below,
 
@@ -73,9 +63,9 @@ Now let's see an implementation.
   [Select ]
 {{< image alt="ChandaniPrajapati_1-1636864275047.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_1-1636864275047.png" >}}
 
--   ### Create a file to Onedrive 
+-   ### Create a file to OneDrive 
 
-    -   Action:  Create a file for Onedrive for business
+    -   Action:  Create a file for OneDrive for business
  
   - **Folder Path** 
   Select folder path of one drive where you want or create a file
@@ -88,16 +78,16 @@ Now let's see an implementation.
 
 -   #### Convert file to PDF 
 
-    -   Action:  Convert a file for Onedrive for business
+    -   Action:  Convert a file for OneDrive for business
 
   **Properties**    **Value**
   **File**          Select Id [which we have created in the previous action]
   **Target Type**   [Select ]
 
 {{< image alt="ChandaniPrajapati_6-1636864910697.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_6-1636864910697.png" >}}
--   #### Create PDF File to Onedrive 
+-   #### Create PDF File to OneDrive 
 
-    -   Action:  Create a file for Onedrive for business
+    -   Action:  Create a file for OneDrive for business
 
 
   - **Folder Path**    
@@ -124,21 +114,21 @@ Now let's see an implementation.
 
 -   #### Delete word file from OneDrive 
 
-    -   Action:  Delete a file for Onedrive for business
+    -   Action:  Delete a file for OneDrive for business
 
   ---------------- ------------------------------
   **Properties**   **Value**
-  **Id**           Select Onedrive word file ID
+  **Id**           Select OneDrive word file ID
   ---------------- ------------------------------
 {{< image alt="ChandaniPrajapati_3-1636864760614.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_3-1636864760614.png" >}}
 
 -   ### Delete PDF file from OneDrive 
 
-    -   Action:  Delete a file for Onedrive for business
+    -   Action:  Delete a file for OneDrive for business
 
   ---------------- -----------------------------
   **Properties**   **Value**
-  **Id**           Select Onedrive PDF file ID
+  **Id**           Select OneDrive PDF file ID
   ---------------- -----------------------------
 {{< image alt="ChandaniPrajapati_2-1636864751972.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_2-1636864751972.png" >}}
 

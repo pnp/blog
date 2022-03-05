@@ -3,13 +3,14 @@ title: "Microsoft 365 PnP Weekly - Episode 149 - Rabia Williams (Microsoft)"
 date: 2022-01-18T02:09:00-05:00
 author: "Vesa Juvonen"
 categories: ["PnP Weekly"]
-images: []
+images:
+- images/blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/Thumb-Ep149-January 17.png
 tags: []
 type: "regular"
 draft: false
 
 ---
-![Thumb-Ep149-January 17.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/340149iDFBD4426FA0ACBC7/image-size/large?v=v2&px=999 "Thumb-Ep149-January 17.png")
+{{< image alt="Thumb-Ep149-January 17.png" src="images/blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/Thumb-Ep149-January 17.png" >}}
 
  
 

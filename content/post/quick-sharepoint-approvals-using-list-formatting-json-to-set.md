@@ -30,7 +30,7 @@ useful for approvals scenarios. For example, we can update the item
 status and who approved the item with a single click, so as in the
 example below:
 
-![quick app 2.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/328146iEA1875B1370ECEDA/image-size/large?v=v2&px=999 "quick app 2.gif")
+{{< image alt="quick app 2.gif" src="images/blog/quick-sharepoint-approvals-using-list-formatting-json-to-set/quick app 2.gif" >}}
 
 **The structure behind the example**
 

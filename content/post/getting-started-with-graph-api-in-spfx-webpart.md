@@ -5,8 +5,6 @@ author: "Chandani Prajapati"
 categories: []
 images:
 - images/blog/getting-started-with-graph-api-in-spfx-webpart/Permssions.png
-- images/blog/getting-started-with-graph-api-in-spfx-webpart/AcceptPermsiion.png
-- images/blog/getting-started-with-graph-api-in-spfx-webpart/Output.png
 tags: []
 type: "regular"
 draft: false
@@ -52,7 +50,7 @@ Then follow the below steps,
  
 1. Select Permissions
 
-![Select Permssion.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285114iE1B9609F084EC223/image-size/large?v=v2&px=999 "Select Permssion.png")
+{{< image alt="Select Permssion.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Select Permssion.png" >}}
 
 
 2\. Then select the category in which you want to set permission and
@@ -89,7 +87,7 @@ Now execute the below command to create an SPFx solution:
  
 It will ask some questions, as shown below,
  
-![Project Structure.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285240i946F59348FEB36AE/image-size/large?v=v2&px=999 "Project Structure.png")
+{{< image alt="Project Structure.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Project Structure.png" >}}
 
 
 After a successful installation, we can open a project in any source
@@ -114,7 +112,7 @@ tab under the **run query** button so after the response checks the
 permission tab. It shows all required permissions for the endpoint as
 below.
  
-![Modify Permission.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285517iC8C26E510944C0BD/image-size/large?v=v2&px=999 "Modify Permission.png")
+{{< image alt="Modify Permission.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Modify Permission.png" >}}
  
 **2. Official documentation for endpoint**
  

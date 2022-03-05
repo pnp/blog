@@ -3,7 +3,6 @@ title: "Getting started with PnP Script Samples"
 date: 2021-08-10T06:10:00-04:00
 author: "Paul Bullock"
 categories: []
-images: []
 tags: []
 type: "regular"
 draft: false
@@ -33,7 +32,7 @@ scripts, allowing you to reduce the time to perform script based tasks
 with the Microsoft 365 services. Like other PnP resources, you can refer
 to this resource to leverage existing scripts to achieve your goals
 quicker and easier.
-![Script Samples - Homepage](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/301904i7EDC5FE7376BF3B1/image-size/large?v=v2&px=999 "script-samples-home.png")
+{{< image alt="Script Samples - Homepage" src="images/blog/getting-started-with-pnp-script-samples/script-samples-home.png" >}}
 
 ## Scenarios and Scripts 
 
@@ -56,7 +55,7 @@ type of operation e.g. reporting, provision, data, which tools the
 sample refers to and which Microsoft products the script targets.
 Using the metadata, we can provide filters and search capabilities on
 the listing pages enabling you to search for the scenario and script.
-![Searching Script Samples](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/301906i0E41629D8FFF46E9/image-size/large?v=v2&px=999 "script-samples-search.png")
+{{< image alt="Searching Script Samples" src="images/blog/getting-started-with-pnp-script-samples/script-samples-search.png" >}}
 
 ## Copy to Clipboard 
 
@@ -64,7 +63,7 @@ We have introduced a feature within each of the script to copy to
 clipboard allowing you to quickly grab the sample to use in your
 preferred authoring tool. This is located top right-hand side of the
 script blocks:
-![Copy to Clipboard feature](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/301907iAEDE0F8FAD720CAC/image-size/large?v=v2&px=999 "copt-to-clipboard.png")
+{{< image alt="Copy to Clipboard feature" src="images/blog/getting-started-with-pnp-script-samples/copt-to-clipboard.png" >}}
 
 
 ## Clickable commands 
@@ -73,7 +72,7 @@ In the scripts, there will be example usage of commands that each tool
 provides for the scenario. We have made it easier for you to learn about
 these commands, by automatically linking to the relevant documentation
 site.
-![Clickable Help for commands](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/301909i994E517C25163120/image-size/large?v=v2&px=999 "script-clickable-help.png")
+{{< image alt="Clickable Help for commands" src="images/blog/getting-started-with-pnp-script-samples/script-clickable-help.png" >}}
 
 Few points about this feature:
 -   if you use the Copy To Clipboard feature the links are NOT

@@ -4,7 +4,7 @@ date: 2021-06-10T08:40:00-04:00
 author: "Marijn Somers"
 categories: ["PnP PowerShell", "SharePoint"]
 images:
-
+- images/blog/use-pnp-powershell-to-add-a-document-library-webpart-to-a-page/MS-list.png
 tags: []
 type: "regular"
 draft: false
@@ -43,7 +43,7 @@ Using the user interface, following steps were required:
     This can be set up from the web part properties
 
 
-![Document library UI properties](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/287231iEA8C8F80460DE259/image-size/medium?v=v2&px=400 "MS-list.png")
+{{< image alt="Document library UI properties" src="images/blog/use-pnp-powershell-to-add-a-document-library-webpart-to-a-page/MS-list.png" >}}
 
 
 That would definitely be a lot of work to do manually, so I decided that

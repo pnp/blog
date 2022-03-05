@@ -3,7 +3,6 @@ title: "Getting started with PnP Core SDK"
 date: 2021-03-15T01:55:00-04:00
 author: "Paul Bullock"
 categories: []
-images: []
 tags: []
 type: "regular"
 draft: false
@@ -111,7 +110,7 @@ going, this blog is using Visual Studio 2019, version V16.9.
  
 In Visual Studio, create a new C# Console Application (.NET core),
  
-![Create a new visual studio project](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263412i761218D228BE345E/image-size/large?v=v2&px=999 "Create a new project.png")
+{{< image alt="Create a new visual studio project" src="images/blog/getting-started-with-pnp-core-sdk/Create a new project.png" >}}
 (Note: I have filtered the list using the dropdowns to find the project
 type quickly)
 
@@ -120,7 +119,7 @@ discretion,
 
 Under additional information, please select .NET 5.0 as the Target
 Framework
-![Visual studio - select .NET version](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263422i63D493F41D5B7C25/image-size/large?v=v2&px=999 "addtional information.png")
+{{< image alt="Visual studio - select .NET version" src="images/blog/getting-started-with-pnp-core-sdk/addtional information.png" >}}
 
 Visual Studio will create a hello world project for you, as a starting
 place.
@@ -133,13 +132,13 @@ to](https://www.nuget.org/packages?q=PnP+Core+SDK).
 Continuing in Visual Studio, right click on the solution and find the
 "Manage NuGet Packages for Solution" option.
 
-![Option to manage NuGet packages in the solution right-click menu](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263423i7F30ED4D41B83F38/image-size/large?v=v2&px=999 "Manage Nuget.png")
+{{< image alt="Option to manage NuGet packages in the solution right-click menu" src="images/blog/getting-started-with-pnp-core-sdk/Manage Nuget.png" >}}
 
 When the package manager opens, Click to Browse for Packages and Enter
 "PnP Core SDK" in the search bar, to show the two packages described
 earlier.
 
-![Find the PnP Core SDK NuGet packages](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263424i97012334E7E5416E/image-size/large?v=v2&px=999 "Nuget Packages.png")
+{{< image alt="Find the PnP Core SDK NuGet packages" src="images/blog/getting-started-with-pnp-core-sdk/Nuget Packages.png" >}}
 
 ### **About the versions and libraries** 
 
@@ -162,7 +161,7 @@ With regards to the way versioning is done for the SDK, there are major
 releases which currently is v1.0.0 and nightly releases e.g.,
 v1.0.1-nightly which are the prerelease versions allowing you to use the
 very latest build this would include any fixes and new features.
-![PnP Core SDK release versions](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/263425i9D9D3E4255F36123/image-size/large?v=v2&px=999 "SDK Release versions.png")
+{{< image alt="PnP Core SDK release versions" src="images/blog/getting-started-with-pnp-core-sdk/SDK Release versions.png" >}}
 
 ### Let's start writing some code 
 

@@ -57,7 +57,7 @@ JS](https://pnp.github.io/pnpjs/sp/). Below is my implementation:
 You can find my implementation
 code [here](https://github.com/pnp/sp-dev-fx-extensions/blob/a2f8ca83d13978835c5a7468c68a2a460bf58a50/samples/react-application-news-ticker/src/extensions/newsTicker/service/SpService.ts#L10).
  
-![Get Data Based on List View](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279447i5718F46BA7B7857C/image-size/large?v=v2&px=999 "2021-05-10 19_56_48-Window.png")
+{{< image alt="Get Data Based on List View" src="images/blog/community-sample-news-ticker-app-spfx-extensions/2021-05-10 19_56_48-Window.png" >}}
  
 ### 3. Use React third party component 
 

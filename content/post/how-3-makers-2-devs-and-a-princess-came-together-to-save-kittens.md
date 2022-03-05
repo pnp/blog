@@ -5,9 +5,7 @@ author: "Luise Freese"
 categories: ["Power Apps", "Power Automate"]
 images:
 - images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/solution-overview.png
-- images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/PetrolPushTitle.png
-- images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/App-MapFields.png
-- images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/App-Details.png
+
 tags: []
 type: "regular"
 draft: false
@@ -110,7 +108,7 @@ displayed with a proper color of a pin, inside the app. But in details,
 it's much more interesting.
 
 
-![PetrolFlow - part1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319471i337E9C00F7D73F95/image-size/large?v=v2&px=999 "PetrolFlow - part1.png")
+{{< image alt="PetrolFlow - part1.png" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/PetrolFlow - part1.png" >}}
 
 The flow can be triggered by any driver (1). Also, for any Flic event,
 but that will be described later. Next, bot looks up details of the
@@ -119,7 +117,7 @@ used to record data along with information about the driver.
 
 
 
- ![PetrolFlow - part2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319472i070F6BFD2307CC11/image-size/large?v=v2&px=999 "PetrolFlow - part2.png")
+ {{< image alt="PetrolFlow - part2.png" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/PetrolFlow - part2.png" >}}
 
  
 Next the flow calls **Azure Maps custom connector** via a dedicated
@@ -144,7 +142,7 @@ made an assumption\*\*, that there can be one station for a given postal
 code :)
 
 
-![PetrolFlow - part3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319473i2A10C7FC90971F39/image-size/large?v=v2&px=999 "PetrolFlow - part3.png")
+{{< image alt="PetrolFlow - part3.png" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/PetrolFlow - part3.png" >}}
 
 
 
@@ -159,7 +157,7 @@ variable.
 
 
 
-![PetrolFlow - part4.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319474i08436340A12FBF89/image-size/large?v=v2&px=999 "PetrolFlow - part4.png")
+{{< image alt="PetrolFlow - part4.png" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/PetrolFlow - part4.png" >}}
 
 
 Now process moves to check what kind of action occurred on the Flic.
@@ -190,7 +188,7 @@ activity record OData id into a variable. And finally it relates records
 (4) - petrol station together with the created activity record.
 
 
-![PetrolFlow - part5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319475i543BCD42F0020ED6/image-size/large?v=v2&px=999 "PetrolFlow - part5.png")
+{{< image alt="PetrolFlow - part5.png" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/PetrolFlow - part5.png" >}}
 
 
 What is also worth to mention is that the whole process is built using
@@ -419,5 +417,5 @@ language or tool set we build things in, but the approach and mindset we
 share. All of us are developers, and you can be one too.
 
 
-![NZ6_5087-focus (2).jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319478i44FFA7D637B742B7/image-size/large?v=v2&px=999 "NZ6_5087-focus (2).jpg")
+{{< image alt="NZ6_5087-focus (2).jpg" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/NZ6_5087-focus (2).jpg" >}}
 

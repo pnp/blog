@@ -5,11 +5,6 @@ author: "Michaël Maillot"
 categories: ["SharePoint"]
 images:
 - images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-fail.png
-- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-console-fail.png
-- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/aad-app-spo-api-graph.png
-- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-success.png
-- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/aad-app-spo-api-custom.png
-- images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/api-access-custom-approved.png
 tags: []
 type: "regular"
 draft: false
@@ -116,7 +111,7 @@ Once added, grant it by clicking on **Grant admin consent for contoso**.
 If you go in the *API access* page
 (<https://contoso-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/webApiPermissionManagement>),
 you should see something like this:
-![(other Graph API permissions displayed here won't be necessary for the sample)](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261330i6A95D15054FE0812/image-size/large?v=v2&px=999 "api-access-approved.png")
+{{< image alt="(other Graph API permissions displayed here won't be necessary for the sample)" src="images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/api-access-approved.png" >}}
 **Warning**
 
 It can take a couple of minutes before consented permissions is

@@ -5,28 +5,6 @@ author: "Luise Freese"
 categories: ["Azure Logic Apps", "Azure"]
 images:
 - images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/AzureCreateResource.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_3-1627339056564.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/FunctionAppNew.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/FunctionAppCreateSteps.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/azfunctionVSCode.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/swploy.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/confirmdeploy.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/confirmdeploysuccess.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/Codeandtest.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_40-1627337771809.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_41-1627337799414.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_42-1627337856099.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/Createworkflow.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_44-1627338250789.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_45-1627338310190.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_46-1627338363471.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_47-1627338404313.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_48-1627338540906.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_49-1627338576580.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_50-1627338604177.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_51-1627338622825.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/accesspolicyform.png
-- images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_52-1627338697431.png
 tags: []
 type: "regular"
 draft: false
@@ -63,7 +41,7 @@ Here is our solution overview: 
 
  
 
-![AZTwilio.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298504i428BA74B318E7DFC/image-dimensions/679x344?v=v2 "AZTwilio.png")
+{{< image alt="AZTwilio.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/AZTwilio.png" >}}
 
 As you can see, we will touch some interesting things like 
 
@@ -489,7 +467,7 @@ Now let's get rid of our hard coded values in the app configuration to
 clean up things: 
 
 
-![cleanup.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298535i215E2805F6795A53/image-size/large?v=v2&px=999 "cleanup.png")
+{{< image alt="cleanup.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/cleanup.png" >}}
 Select the **Delete** icon -- please check twice to delete the right
 settings! 
 
@@ -504,7 +482,7 @@ Select **Functions**
 
 **That's it -- you made it work! And this is the result: **
 
-![LuiseFreese_56-1627338765021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/298530i73C8D175DCC8AAFB/image-size/medium?v=v2&px=400 "LuiseFreese_56-1627338765021.png")
+{{< image alt="LuiseFreese_56-1627338765021.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_56-1627338765021.png" >}}
 
 **You successfully**
 

@@ -212,6 +212,6 @@ Markdown | Less | Pretty
 
 <hr>
 
-##### Youtube video
+##### YouTube video
 
 {{< youtube KFmA9W8i4X4 >}}

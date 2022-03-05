@@ -4,14 +4,14 @@ date: 2021-04-25T08:40:00-04:00
 author: "Michael Roth"
 categories: ["Power Apps"]
 images:
-
+- images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png
 tags: []
 type: "regular"
 draft: false
 
 ---
 
-![Head pic for article "Start debugging your Power App"](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275359i4BB2129BA59E8E76/image-size/large?v=v2&px=999 "Debugging_Pic.png")
+{{< image alt="Start debugging your Power App" src="images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png" >}}
 
 ## Make troubleshooting and understanding single elements easier
 
@@ -165,7 +165,7 @@ looking for. It can also be frustrating, when you keep adding the wrong
 elements to your function and that causes it to not work. It can be a
 serious source of errors.
 
-![Which label shows you variable and which is just some explanatory text? ](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275365i8A24092F0653DDEB/image-size/large?v=v2&px=999 "Picture5.png")
+{{< image alt="Which label shows you variable and which is just some explanatory text? " src="images/blog/learn-to-debug-your-power-apps/Picture5.png" >}}
 
 ### 8. Learn what the result view is
 
@@ -177,7 +177,7 @@ important views. The result view and the data type.
 By clicking on `Office365User` the formula bar shows you the original
 record with all elements.
 
-![If it's not showing at first, click on the little arrow next to the function.](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275366iB6A15D561F9DBC7F/image-size/large?v=v2&px=999 "Picture6.png")
+{{< image alt="If it's not showing at first, click on the little arrow next to the function." src="images/blog/learn-to-debug-your-power-apps/Picture6.png" >}}
 
 This way you can see, what kind of records are stored and what data you
 can work with.
@@ -238,9 +238,9 @@ effort.
 
 Two labels for my most used colors
 
-![Fill value of the Rectangle_background](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275379iC9D6621F8554C554/image-size/large?v=v2&px=999 "Picture12.png")
+{{< image alt="Fill value of the Rectangle_background" src="images/blog/learn-to-debug-your-power-apps/Picture12.png" >}}
 
-![Color value of the Icon_heart](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/275374i363F84D05A3F3466/image-size/large?v=v2&px=999 "Picture13.png")
+{{< image alt="Color value of the Icon_heart" src="images/blog/learn-to-debug-your-power-apps/Picture13.png" >}}
  
 
 Here you see the Fill and Color values, set by the labels we defined

@@ -27,10 +27,10 @@ authors:
   image : "images/about-us-2.jpg"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et"
 
-# Youtube
+# YouTube
 youtube:
   enable : true
-  title : "Don’t forget to subscribe my Youtube channel “Richi Andorn”"
+  title : "Don’t forget to subscribe my YouTube channel “Richi Andorn”"
   image : "images/youtube.png"
   video_id: "dyZcRRWiuuw"
   channel : "https://www.youtube.com/channel/UCx9qVW8VF0LmTi4OF2F8YdA"

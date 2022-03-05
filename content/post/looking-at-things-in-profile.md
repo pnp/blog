@@ -4,7 +4,7 @@ date: 2021-09-29T08:40:00-04:00
 author: "Simon Hudson"
 categories: ["Microsoft 365"]
 images:
-
+- images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png
 tags: []
 type: "regular"
 draft: false
@@ -96,7 +96,7 @@ There are multiple 'ports of entry' to the profile update page:
 
 -   Any Microsoft 365 People card
 
-[![People card.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312606iF86B0BFD86C68D6F/image-size/large?v=v2&px=999 "People card.png")
+[{{< image alt="People card.png" src="images/blog/looking-at-things-in-profile/People card.png" >}}
 
 ### Admin management of profiles
 
@@ -153,12 +153,12 @@ which uses the pre-modern SharePoint UI and profile service:
 1.  Under User profiles, select Open.
 2.  Under People, select Manage User Properties.
 
-![Custom attributes.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312602i73C98503A8E8AEE6/image-size/large?v=v2&px=999 "Custom attributes.png")
+{{< image alt="Custom attributes.png" src="images/blog/looking-at-things-in-profile/Custom attributes.png" >}}
 
 1.  Select New Property.
 2.  In the Name box, enter a unique name for the property.
 
-![Custom attributes 2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312603i6D4BE5097F9A96ED/image-size/large?v=v2&px=999 "Custom attributes 2.png")
+{{< image alt="Custom attributes 2.png" src="images/blog/looking-at-things-in-profile/Custom attributes 2.png" >}}
 
 1.  In the Display Name box, enter the profile property name that will
     be displayed to all users. (This name doesn't have to be unique.)
@@ -307,7 +307,7 @@ than you might expect. Different products (Experiences as Microsoft
 would have you call them) source the image from different places; the
 last time I checked it was:
 
-![Profile pictures.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/312607i0A6D309EBD2FCF37/image-size/large?v=v2&px=999 "Profile pictures.png")
+{{< image alt="Profile pictures.png" src="images/blog/looking-at-things-in-profile/Profile pictures.png" >}}
 
 Updating a profile in one place will, usually, update it everywhere, but
 it can take up to 72 hours.
