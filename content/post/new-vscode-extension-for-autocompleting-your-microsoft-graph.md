@@ -37,13 +37,11 @@ query string parameters, and their values.
 {{< image alt="how-it-works.gif" src="images/blog/new-vscode-extension-for-autocompleting-your-microsoft-graph/how-it-works.gif" >}}
 
 The **/users/** API completion allows you to add a **{user-id}** token.
-![Screenshot 2021-03-23 at
-21.04.10.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266530iB206E3BFEE687C90/image-size/large?v=v2&px=999 "Screenshot 2021-03-23 at 21.04.10.png")
+![Screenshot 2021-03-23 at 21.04.10.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266530iB206E3BFEE687C90/image-size/large?v=v2&px=999 "Screenshot 2021-03-23 at 21.04.10.png")
 
 When providing your user-ID or username, it will automatically tokenize
 it.
-![Screenshot 2021-03-23 at
-21.04.25.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266531iC189F389E148D119/image-size/large?v=v2&px=999 "Screenshot 2021-03-23 at 21.04.25.png")
+![Screenshot 2021-03-23 at 21.04.25.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266531iC189F389E148D119/image-size/large?v=v2&px=999 "Screenshot 2021-03-23 at 21.04.25.png")
 
 ## When would you use it?
 
@@ -54,8 +52,7 @@ Another option could be to use it in combination with the popular [REST
 Client - Visual Studio
 Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
-![Screenshot 2021-03-24 at
-08.30.52.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266588i843F4CF97B05BBF0/image-size/large?v=v2&px=999 "Screenshot 2021-03-24 at 08.30.52.png")
+![Screenshot 2021-03-24 at 08.30.52.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266588i843F4CF97B05BBF0/image-size/large?v=v2&px=999 "Screenshot 2021-03-24 at 08.30.52.png")
 Let me know how you would use it and feel free to contribute to the
 project [MS Graph Completion - GitHub
 Repository](https://github.com/estruyf/vscode-msgraph-autocomplete "MS Graph Completion - GitHub Repository")

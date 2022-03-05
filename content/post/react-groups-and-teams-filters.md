@@ -17,7 +17,7 @@ draft: false
 ---
 
 In this article I'll go over both of the filters you can find in my
-React Groups and Teams Filters webpart. The webpart is useful for site
+React Groups and Teams Filters web part. The web part is useful for site
 managers, admins, and users to find their sites and
 it's information.The
 first filter switches the All Groups in my Organization to My Groups and

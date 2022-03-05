@@ -29,7 +29,7 @@ cadence.  Sign up for June trainings on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).   See the
 new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
-Teams and Sharepoint engineering.   Visit the [Microsoft Teams samples
+Teams and SharePoint engineering.   Visit the [Microsoft Teams samples
 gallery](https://aka.ms/teams-samples) to get started with Microsoft
 Teams development.  Build your Teams apps fast with yo teams -- go to
 [PnP Teams Quickstart](https://aka.ms/pnp-teams-quickstart).  Build 2021

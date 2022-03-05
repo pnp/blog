@@ -33,7 +33,7 @@ surface training content across your SharePoint site collections,
 up-to-date Microsoft documentation for Microsoft 365
 solutions
 
-![eemancini_0-1613662523386.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255796i189AC59232AA4999/image-size/medium?v=v2&px=400)
+![eemancini_0-1613662523386.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255796i189AC59232AA4999/image-size/medium?v=v2&px=400 "eemancini_0-1613662523386.png")
 
 The information architecture behind Learning Pathways supports
 structuring your playlists by category and subcategory. Within a
@@ -114,14 +114,14 @@ Click **Settings** in
 the top
 navigation:
 
-![eemancini_4-1613662523375.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255801i04CC37FEA6115BAD/image-size/medium?v=v2&px=400)
+![eemancini_4-1613662523375.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255801i04CC37FEA6115BAD/image-size/medium?v=v2&px=400 "eemancini_4-1613662523375.png")
 
 Scroll down the page until you see a header
 for **GitHub Pages** . In the
 Source dropdowns,
 select **Main** and **docs** then
 click **Save**
-![eemancini_0-1613663078684.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255806iE149A57D903D3B97/image-size/medium?v=v2&px=400 )
+![eemancini_0-1613663078684.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255806iE149A57D903D3B97/image-size/medium?v=v2&px=400 "eemancini_0-1613663078684.png" )
 
 Upon saving, GitHub will bring you to the top of the page again. Scroll
 down to ] **GitHub Pages**  once more
@@ -161,7 +161,7 @@ will be working in **en-us**. In
 this folder you will find 3 JSON files.
 Select **metadata.json**
 
-![eemancini_3-1613663112898.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255809iA8B7B3763C3994A4/image-size/medium?v=v2&px=400)
+![eemancini_3-1613663112898.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255809iA8B7B3763C3994A4/image-size/medium?v=v2&px=400 "eemancini_3-1613663112898.png")
 
 Explore the [metadata.json
 structure](https://docs.microsoft.com/en-us/office365/customlearning/custom_partnerguide_contint#metadatajson-structure) for

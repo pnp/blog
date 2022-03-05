@@ -24,7 +24,7 @@ Visit the [Microsoft Teams samples
 gallery](https://aka.ms/teams-samples) to get started with Microsoft
 Teams development, hear and see the new [Microsoft 365 Extensibility
 look book gallery](https://aka.ms/m365/extensibility) co-developed by
-Microsoft Teams and Sharepoint engineering.  Quick demo of the
+Microsoft Teams and SharePoint engineering.  Quick demo of the
 Extensibility look book at [Microsoft Adoption
 site](https://adoption.microsoft.com) \>\> Solutions>\>Extensibility
 look book.  Select a Product, Type of app or Scenario.  To see the

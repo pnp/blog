@@ -99,8 +99,7 @@ on Power automate.
 Click on "New Flow" and Select "Instant Cloud Flow"
 Select "Manually Trigger Flow" and Add Name "Create-SiteTemplate-Flow"
 Click on Create Button.
-![Site Script and Site Template In Power
-Automate11.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307566i0748A275365DA228/image-size/large?v=v2&px=999 "Site Script and Site Template In Power Automate11.jpg")
+![Site Script and Site Template In Power Automate11.jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/307566i0748A275365DA228/image-size/large?v=v2&px=999 "Site Script and Site Template In Power Automate11.jpg")
  
 ### Create Site Script using REST Call in Power Automate 
 Initialize variable in power automat to store JSON config.

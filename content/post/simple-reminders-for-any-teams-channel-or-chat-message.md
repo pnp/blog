@@ -31,8 +31,7 @@ functionality, it's easy to forget:
 
 ## Outlook's solution: a well trodden path for many 
 
-![Flags in Outlook have been the bridge to emails and task
-management](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278434i8C6128E446199B78/image-size/large?v=v2&px=999 "Outlook Flags.png")
+![Flags in Outlook have been the bridge to emails and task management](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278434i8C6128E446199B78/image-size/large?v=v2&px=999 "Outlook Flags.png")
  
 In Outlook, there are \"flags\" which can be set to remind yourself to
 take action for a particular email.
@@ -41,8 +40,7 @@ well seasoned **ToDo** and **Planner** user, you would still have to use
 the `Copy Link`{.sample} feature and paste that into the ToDo/Planner
 task, which can be quite tedious. 
 
-![Copy link to a Teams Channel
-message](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278436iCFC4C74630294E5B/image-size/large?v=v2&px=999 "Copy Link.png")
+![Copy link to a Teams Channel message](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278436iCFC4C74630294E5B/image-size/large?v=v2&px=999 "Copy Link.png")
 
 Plus I entering a phase where I was forgetting that I had to respond to
 messages. Sometimes I ended up talking to Google (I use an Android
@@ -67,8 +65,7 @@ this flow will generate a reminder via the **Flow bot** at a certain
 number of *hours/minutes*, or at a *specified time* to remind you to
 take action for a message!
 
-![The reminder card we wish to send
-ourselves](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278420i19AA07F2E897A9DD/image-size/large?v=v2&px=999 "Reminder_annotated.png")
+![The reminder card we wish to send ourselves](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278420i19AA07F2E897A9DD/image-size/large?v=v2&px=999 "Reminder_annotated.png")
 The beauty of this Flow is that it will give you **one-click access**
 back **to the conversation thread** within the team, or **back to the
 chat with a person** or a group of people. 
@@ -87,11 +84,9 @@ experience via adaptive cards rather than just the Flow bot.
 When I first saw the template provided by Microsoft, I thought: this is
 nice, but it's a bit too elementary with the fixed timeframes from the
 choice radio buttons:
-![Microsoft's own sample
-Flow](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277710i323F6DDF1054A4E9/image-size/medium?v=v2&px=400 "Followup.png")
+![Microsoft's own sample Flow](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277710i323F6DDF1054A4E9/image-size/medium?v=v2&px=400 "Followup.png")
 
-![...is perhaps a bit too
-restrictive](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277716i7B21B6E5B3E94420/image-size/medium?v=v2&px=400 "MS.png")
+![...is perhaps a bit too restrictive](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277716i7B21B6E5B3E94420/image-size/medium?v=v2&px=400 "MS.png")
 However, that was definitely a starting point. The sample Flow used an
 adaptive card (with some `Input.Choice`{.sample} options) and a
 **Delay** action. Why not take this further?
@@ -105,19 +100,14 @@ specific time:
 1.  One to **get user input** regarding when they'd like to be
     reminded\
 
-    ![The reminder setting card can accept an hour/minute offset or
-    absolute time as
-    input](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278445i100786D26BDBAFDB/image-size/large?v=v2&px=999 "Set Reminder.png")
+    ![The reminder setting card can accept an hour/minute offset or absolute time as input](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278445i100786D26BDBAFDB/image-size/large?v=v2&px=999 "Set Reminder.png")
 
 2.  One for the **reminder** itself:
 
-    ![The reminder card itself, with links to the original message and
-    chat with message
-    author](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278446i0CD3CA1BE0661160/image-size/large?v=v2&px=999 "Reminder.png")
+    ![The reminder card itself, with links to the original message and chat with message author](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278446i0CD3CA1BE0661160/image-size/large?v=v2&px=999 "Reminder.png")
 
 3.  Two other cards which are for **catching errors**:
-    ![Cards reminding users of input
-    error](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278447i2CB2F2F520796DD5/image-size/large?v=v2&px=999 "Error Cards.png")
+    ![Cards reminding users of input error](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278447i2CB2F2F520796DD5/image-size/large?v=v2&px=999 "Error Cards.png")
 
 ## The Flow 
 
@@ -128,16 +118,14 @@ we extend the adaptive card by using an **Action.ToggleVisibility**
 button to show and hide parts of a card: the **relative time entry** and
 the **absolute time entry** containers, in blue and green respectively:
 
-![The reminder setting card, with an initially invisible
-container](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278449i6AA77CF748035E9C/image-size/large?v=v2&px=999 "Card Source.png")
+![The reminder setting card, with an initially invisible container](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278449i6AA77CF748035E9C/image-size/large?v=v2&px=999 "Card Source.png")
 
 The **Change reminder type** button within the gray container is
 `Action.ToggleVisibility`{.sample} button that you can add from the card
 elements bar on the left of the adaptive card designer screen. The JSON
 code looks like this:
 
-![Action Toggle
-Visibility.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277718i5BB17994FA88A21A/image-size/medium?v=v2&px=400 "Action Toggle Visibility.png")
+![Action Toggle Visibility.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277718i5BB17994FA88A21A/image-size/medium?v=v2&px=400 "Action Toggle Visibility.png")
 
 The action button targets the `section-hours`{.sample} (**blue**) and
 `section-absolute-time`{.sample} (**green**) containers - i.e. when
@@ -145,8 +133,7 @@ pressed, turns the visibility of `section-hours`{.sample} off and
 `section-absolute-time`{.sample} (as the respective `ids`{.sample} of
 the containers) on, and vice versa. The blue and green containers are
 never on at the same time.
-![The ID and initial visibility of the blue
-container](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278451i2E4ECFAE8CFC1B63/image-size/large?v=v2&px=999 "Container ID_annotated.png")
+![The ID and initial visibility of the blue container](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278451i2E4ECFAE8CFC1B63/image-size/large?v=v2&px=999 "Container ID_annotated.png")
 
  [For the **Change reminder type **button to turn the **blue** and
 **green** containers on and off,
@@ -157,32 +144,26 @@ be ]
 -   *Unchecked*[ for the green
     container:]
 
-![The green container should initially be
-invisible](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278453i9B01F747C5CCF2DC/image-size/large?v=v2&px=999 "Container ID 2_annotated.png")
+![The green container should initially be invisible](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278453i9B01F747C5CCF2DC/image-size/large?v=v2&px=999 "Container ID 2_annotated.png")
 
 Within the containers are also `Columnto house the
 fields side by side, just to make it look
 nice.
 
-![Use the CoumnSet to place fields and labels (as TextBlock) adjacent
-to each
-other](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278454i57E28266740B948A/image-size/large?v=v2&px=999 "ColumnSet_annotated.png")
+![Use the ColumnSet to place fields and labels (as TextBlock) adjacent to each other](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278454i57E28266740B948A/image-size/large?v=v2&px=999 "ColumnSet_annotated.png")
 
  The fields also need `TextBlocks`{.sample} above them as their labels
 (until we get Adaptive Cards v1.3 in Teams), as well as having some of
 the parameters set properly:
 
-![Set some restrictions on the fields, and place TextBlocks above them
-as
-labels](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278459iF6BB99CBE0F337F7/image-size/large?v=v2&px=999 "Field_annotated.png")
+![Set some restrictions on the fields, and place TextBlocks above them as labels](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278459iF6BB99CBE0F337F7/image-size/large?v=v2&px=999 "Field_annotated.png")
 
 [Finally, the ]**orange** [container just
 contains what to remind yourself of, and has
 an `Input.ChoiceSet `{.sample}][to
 provide the dropdown menu:]
 
-![Input.ChoiceSet for dropdown
-menu](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278460i2297E3CF3F1EF038/image-size/large?v=v2&px=999 "What to remind_annotated.png")
+![Input.ChoiceSet for dropdown menu](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278460i2297E3CF3F1EF038/image-size/large?v=v2&px=999 "What to remind_annotated.png")
 Below is the complete JSON code for the adaptive card that captures the
 user input:
  
@@ -459,8 +440,7 @@ After some experimentation with the **For a selected message** trigger
 for Teams, it seems that there is a good amount of dynamic content that
 would be useful for the reminder card:
 
-![For a selected (Teams) message provides a lot of useful dynamic
-content](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278616i4466976EEC0064BC/image-size/large?v=v2&px=999 "FSM.png")
+![For a selected (Teams) message provides a lot of useful dynamic content](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278616i4466976EEC0064BC/image-size/large?v=v2&px=999 "FSM.png")
 We will return to this card after looking at the upcoming sections after
 having a look at the actions which the flow will take.
 
@@ -468,8 +448,7 @@ having a look at the actions which the flow will take.
 
 Some variables are required to hold hold some of the data:
 
-![Some variables are required to hold the time
-information](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277806iCE6E10A67C01B795/image-size/large?v=v2&px=999 "z3019494_0-1620122846412.png")
+![Some variables are required to hold the time information](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277806iCE6E10A67C01B795/image-size/large?v=v2&px=999 "z3019494_0-1620122846412.png")
 
 Then we get the user profiles of the *message sender* and the *person
 who initiated the flow: *interestingly, only the **AAD ID** is available
@@ -487,9 +466,7 @@ with a simple check of whether the **team** dynamic content is
 `null`{.sample} or not (input `null`{.sample} as an expression, not
 dynamic content):
 
-![Check whether the message is in a Chat or Channel, and building the
-adaptive card to suit the
-occasion](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277809i091D663AB7E09671/image-size/large?v=v2&px=999 "z3019494_2-1620123065824.png")
+![Check whether the message is in a Chat or Channel, and building the adaptive card to suit the occasion](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277809i091D663AB7E09671/image-size/large?v=v2&px=999 "z3019494_2-1620123065824.png")
  
 
 -   If the message is from a Team Channel, then the **List channels**
@@ -503,9 +480,7 @@ occasion](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/27780
 The **ActionToTake** variable is also populated after checking for
 whether it's been left blank, or one of the selections have been made:
 
-![Checking whether the ActionToTake choice has been set, and building
-the adaptive card brick to suit the
-input](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277811i3597CD1D043D9907/image-size/large?v=v2&px=999 "z3019494_3-1620123467870.png")
+![Checking whether the ActionToTake choice has been set, and building the adaptive card brick to suit the input](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277811i3597CD1D043D9907/image-size/large?v=v2&px=999 "z3019494_3-1620123467870.png")
  
 
 ## 5. Time calculations, data types & error handling  
@@ -516,8 +491,7 @@ We quickly check whether either date or time entered is null or not, and
 if so, the user probably has inputted the hour/minute offset instead
 since that is the default:
 
-![Checking to see whether absolute or relative time delay has been
-inputted](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277812i6893C07261BDBE78/image-size/large?v=v2&px=999 "z3019494_0-1620123654283.png")
+![Checking to see whether absolute or relative time delay has been inputted](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277812i6893C07261BDBE78/image-size/large?v=v2&px=999 "z3019494_0-1620123654283.png")
  
  
 
@@ -599,8 +573,7 @@ A lot more string processing is required!
         action would just cause it to continue full steam ahead instead
         of sitting there and waiting!)
 
-![Absolute time calculations: finding out the
-TotalTimeToDelay](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277814iEB9F0C45D1A5AFA6/image-size/large?v=v2&px=999 "Absolute Time Processing.png")
+![Absolute time calculations: finding out the TotalTimeToDelay](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277814iEB9F0C45D1A5AFA6/image-size/large?v=v2&px=999 "Absolute Time Processing.png")
 **One final major condition block**: check to see if the user has set a
 date over 28 days (or 720 hours)
 We check the `TotalTimeToDelay `{.sample}variable and see how many days
@@ -613,9 +586,7 @@ let's just be a little more conservative and set that at 28 days, and
 throw an error if so. This will ensure no reminders (especially those
 over 30 days) are quietly dumped without the user's knowledge.
 
-![Double checking that the user has entered a date no further than 28
-days out to ensure the flow doesn't time
-out](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277815i258DE2F9BC89A742/image-size/large?v=v2&px=999 "z3019494_0-1620126528730.png")
+![Double checking that the user has entered a date no further than 28 days out to ensure the flow doesn't time out](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277815i258DE2F9BC89A742/image-size/large?v=v2&px=999 "z3019494_0-1620126528730.png")
  
 
 The adaptive card that reports the error if a user enters a date that is
@@ -776,8 +747,7 @@ greater than 28 days:
 
 ### 6. The *Delay* vs *Delay Until* action 
 
-![Setting the
-delay](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277817i90A46B636B0249AE/image-size/large?v=v2&px=999 "z3019494_1-1620126674977.png")
+![Setting the delay](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277817i90A46B636B0249AE/image-size/large?v=v2&px=999 "z3019494_1-1620126674977.png")
 
 We are now ready to delay the flow!
 Initially there was a consideration to use the **Delay Until** action if

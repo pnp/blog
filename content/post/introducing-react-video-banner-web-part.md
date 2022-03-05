@@ -95,7 +95,7 @@ element itself has a CSS property *object-fit: cover.*
 As demonstrated, with SPFx and the help of PnP Reusable Property Pane
 controls, building web parts using modern development techniques is very
 easy and isn't time consuming as some may think! Source code is
-available on Github along with other awesome web parts by the community,
+available on GitHub along with other awesome web parts by the community,
 for more information about all the PnP offerings,
 checkout <https://aka.ms/m365pnp> \
 \

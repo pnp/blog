@@ -121,7 +121,7 @@ the future!
 **SPFx extension samples:  (<https://aka.ms/spfx-extensions>) **
 
 
--   [**Copy PnP search results webpart
+-   [**Copy PnP search results web part
     settings**](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-copy-pnp-search-webpart-settings) -
     [Anoop Tatti](http://twitter.com/anooptells) \| \@anooptells
 -   [**Follow

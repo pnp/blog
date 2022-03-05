@@ -36,7 +36,7 @@ easily add it manually.
 We just need to render our React component in the placeholder element
 provided by the SPFx Extension Application Customizer.
 You can find my implementation
-code [here](https://github.com/pnp/sp-dev-fx-extensions/blob/635f2cc96302b193ed9fbcfbc8789ffcca229748/samples/react-application-news-ticker/src/extensions/newsTicker/NewsTickerApplicationCustomizer.ts#L87 "Github link").
+code [here](https://github.com/pnp/sp-dev-fx-extensions/blob/635f2cc96302b193ed9fbcfbc8789ffcca229748/samples/react-application-news-ticker/src/extensions/newsTicker/NewsTickerApplicationCustomizer.ts#L87 "GitHub link").
  
 {{< image alt="Render React Component" src="images/blog/community-sample-news-ticker-app-spfx-extensions/1.png" >}}
  
@@ -57,8 +57,7 @@ JS](https://pnp.github.io/pnpjs/sp/). Below is my implementation:
 You can find my implementation
 code [here](https://github.com/pnp/sp-dev-fx-extensions/blob/a2f8ca83d13978835c5a7468c68a2a460bf58a50/samples/react-application-news-ticker/src/extensions/newsTicker/service/SpService.ts#L10).
  
-![Get Data Based on List
-View](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279447i5718F46BA7B7857C/image-size/large?v=v2&px=999 "2021-05-10 19_56_48-Window.png")
+![Get Data Based on List View](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/279447i5718F46BA7B7857C/image-size/large?v=v2&px=999 "2021-05-10 19_56_48-Window.png")
  
 ### 3. Use React third party component 
 

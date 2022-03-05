@@ -66,7 +66,7 @@ To obtain the ID for a specific Solutions flow, select it and copy the GUID valu
 
 ### Part 2 --- Get ClientData Content for New Flows 
 
-In order to create flows programatically, we will use the [Power
+In order to create flows programmatically, we will use the [Power
 Automate Management Web
 API](https://docs.microsoft.com/en-us/power-automate/web-api). The meat and potatoes of the flow payload is
 contained in the `clientdata`

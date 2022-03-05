@@ -398,7 +398,7 @@ gulp serve -l --nobrowser
 ```
  
 Open URL <https://contoso.sharepoint.com/_layouts/workbench.aspx>\
-Add your extension using click on add webpart button.
+Add your extension using click on add web part button.
 {{< image alt="1.gif" src="images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/1.gif" >}}
 
 

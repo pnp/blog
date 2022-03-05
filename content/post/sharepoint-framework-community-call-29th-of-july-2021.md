@@ -87,7 +87,7 @@ wait, now there's 35 wavers!   Data corruption.  
 -   **Hero Web Part and Tiles V2 Web Part** -- **Tiles v2** -- displays
     a group of responsive flex tiles that can be configured to navigate
     to different URLs.   **REACT Hero** -- provides a customizable Hero
-    webpart that displays 5 images in a stand-alone carousel view.
+    web part that displays 5 images in a stand-alone carousel view.
       Both web parts use a stored collection from
     PnP PropertyFieldCollectionData control and custom field rendering
     control, file/icon pickers and fluid flex layout.   Site theme

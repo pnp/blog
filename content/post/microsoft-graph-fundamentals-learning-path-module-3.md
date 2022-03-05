@@ -5,8 +5,6 @@ author: "Luise Freese"
 categories: ["Microsoft Graph"]
 images:
 - images/blog/microsoft-graph-fundamentals-learning-path-module-3/GraphFun-image.png
-- images/blog/microsoft-graph-fundamentals-learning-path-module-3/get-pic.png
-- images/blog/microsoft-graph-fundamentals-learning-path-module-3/tropy.png
 tags: []
 type: "regular"
 draft: false
@@ -92,7 +90,7 @@ on to view their profile picture.
 
 ### time to run our app
 
-Like in Module 2, open your terminal (I use the built-in Powershell in
+Like in Module 2, open your terminal (I use the built-in PowerShell in
 Visual Studio Code) and type in \`npm start\`, which will open your
 browser with \`localhost:8080\`.
 

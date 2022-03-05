@@ -13,7 +13,7 @@ draft: false
 
 Would not be cool to engage your Modern Workplace users with content
 appearing like in your favourite social network? In my latest community
-sample, I built an SPFx webpart to do so. Here is how I did it, but
+sample, I built an SPFx web part to do so. Here is how I did it, but
 first, this is how it looks:
 
 
@@ -25,7 +25,7 @@ to show the "show more" option. This list will be something like this:
 {{< image alt="SP List" src="images/blog/community-sample-engage-your-users-with-sharepoint-stories-reels/2-sp-list.png" >}}
 
 
-Now it is time to code our SPFx webpart.
+Now it is time to code our SPFx web part.
 Before starting, for all the UI thing, I am using an existing
 open-source React component called "*react-insta-stories*", that you can
 find in its GitHub
@@ -40,14 +40,14 @@ have the following properties:
 
 ![Story object properties](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/278339i4E26203F1F589390/image-size/large?v=v2&px=999")
  
-Now that we know how to use the Stories component, the webpart
+Now that we know how to use the Stories component, the web part
 functionality is quite easy. We just need to get the Stories information
 from the SharePoint list, and compose the proper Stories array.
-As usual when developing SPFx webparts, the webpart itself, just loads a
+As usual when developing SPFx webparts, the web part itself, just loads a
 React component, passing the information that we need, in this case, for
 simplicity, I am passing the entire *WebPartContext* object, but try to
 avoid this practice, and only pass what you need.
-This is the main code in the Render webpart method:
+This is the main code in the Render web part method:
 
 
 {{< image alt="SPFx Webpart render" src="images/blog/community-sample-engage-your-users-with-sharepoint-stories-reels/5-webpart-render.png" >}}

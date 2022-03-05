@@ -24,7 +24,7 @@ for **SharePoint** Online.
 
 Preview the new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
-Teams and Sharepoint engineering.  Download showcase apps, samples, and
+Teams and SharePoint engineering.  Download showcase apps, samples, and
 documentation.   Register now for May trainings on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/)  New
 releases in this call -- CLI for Microsoft 365 v3.9.0, Reusable SPFx

@@ -27,7 +27,7 @@ draft: false
 
 ---
 
-SharePoint and Microsoft teams services in Microsoft 365 makes it easier
+SharePoint and Microsoft Teams services in Microsoft 365 makes it easier
 to share content and collaborate with external users who is outside your
 organization. A guest or external user is someone who do not have a
 school or work account with your organization, they can be your partner,
@@ -93,7 +93,7 @@ For the Approval in Microsoft Teams, I have used a custom card created
 from the [Adaptive card designer](https://adaptivecards.io/designer/)
 with elements **ColumnSet, TextBlock** to display information submitted
 in the form & **action button** Approve and Reject to take further
-action by a Microsoft teams user to proceed with Invitation for the
+action by a Microsoft Teams user to proceed with Invitation for the
 Guest account creation. Find screenshot below from the adaptive card
 designer
 
@@ -217,7 +217,7 @@ As of the time I am writing this article there is an issue in getting
 the output as dynamic content for the **Post adaptive card and wait for
 a response** action if there is dynamic content added on the JSON
 Payload (Name, Email from Forms). The fix is to run the flow till the
-post adaptive card action and take an action on Microsoft teams by
+post adaptive card action and take an action on Microsoft Teams by
 clicking either Approve or Reject and then go to the Flow run from the
 history as shown below
 

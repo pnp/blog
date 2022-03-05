@@ -22,7 +22,7 @@ for **SharePoint** Online.
 
 Preview the new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
-Teams and Sharepoint engineering.  Download showcase apps, samples, and
+Teams and SharePoint engineering.  Download showcase apps, samples, and
 documentation.   Register now for April trainings on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).  Give us
 feedback, the [Microsoft 365 developer community

@@ -102,7 +102,7 @@ everyone for your contributions to the community!
     API](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/ba-p/2385603?WT.mc_id=m365-30273-wmastyka)
     - [Mohamed Ashiq Faleel](https://twitter.com/ashiqfaleel) (Tata
     Consultancy Services) \| \@ashiqfaleel
--   [SPFx webpart form validation using React
+-   [SPFx web part form validation using React
     Formik](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/spfx-webpart-form-validation-using-react-formik/ba-p/2386945?WT.mc_id=m365-30273-wmastyka) -
     [Chandani Prajapati](https://twitter.com/Chandani_SPD)
     \| \@Chandani_SPD

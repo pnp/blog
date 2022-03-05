@@ -71,7 +71,6 @@ If you are still confused of the difference between **authentication**
 and **authorization**, [\@LuiseFreese](https://twitter.com/LuiseFreese)
 sums it up perfectly:
 {{< image alt="01ed60e47ba84e66b302a6ef0e9035d2.png" src="images/blog/introduction-to-tokens/01ed60e47ba84e66b302a6ef0e9035d2.png" >}}
-![](file:////home/lford/code/personal/draft_posts/TokenIntroduction/01ed60e47ba84e66b302a6ef0e9035d2.png)
 
 > The term \"auth token\" is widely used can become misleading as it
 > could be interpreted as an **authentication** (ID) or
@@ -110,7 +109,6 @@ end result is what we have above.
 Taking the sample above and putting in in to [jwt.ms](https://jwt.ms),
 it is possible to decode from \"base64url\" back to human-readable JSON.
 {{< image alt="e738e6ef6d6f41ab9e811c7d4e8d5371.png" src="images/blog/introduction-to-tokens/e738e6ef6d6f41ab9e811c7d4e8d5371.png" >}}
-![](file:////home/lford/code/personal/draft_posts/TokenIntroduction/e738e6ef6d6f41ab9e811c7d4e8d5371.png)
 
 You will now see a JWT is made up of 3 parts:
 

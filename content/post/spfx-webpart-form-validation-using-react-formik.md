@@ -1,11 +1,10 @@
 ---
-title: "SPFx webpart form validation using React Formik"
+title: "SPFx web part form validation using React Formik"
 date: 2021-05-26T05:56:00-04:00
 author: "Chandani Prajapati"
-categories: [ "Sharepoint"]
+categories: [ "SharePoint"]
 images:
 - images/blog/spfx-webpart-form-validation-using-react-formik/Output.png
-- images/blog/spfx-webpart-form-validation-using-react-formik/SPFx-react-formik.gif
 tags: []
 type: "regular"
 draft: false
@@ -13,9 +12,6 @@ draft: false
 ---
 
 
- {.lia-message-body-wrapper .lia-component-message-view-widget-body}
- {#bodyDisplay .lia-message-body itemprop="text"}
- lia-message-body-content
 ## Introduction 
 
 Formik is the world's most popular open-source form library for React
@@ -72,16 +68,18 @@ Move to the above-created directory using:
 Now execute the below command to create an SPFx solution:
      yo @microsoft/sharepoint 
 It will ask some questions, as shown below,
-![Project
-Setup.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283850iDC7320A79F49D015/image-size/large?v=v2&px=999 "Project Setup.png")
+![Project Setup.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283850iDC7320A79F49D015/image-size/large?v=v2&px=999 "Project Setup.png")
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
     code .
 Now we will install the following packages:
+```bash
     npm i formik
     npm i yup
     npm i @pnp/spfx-controls-react
     npm i @microsoft/sp-dialog
+```
+
 In the end, our output will be like this,
 {{< image alt="Output.png" src="images/blog/spfx-webpart-form-validation-using-react-formik/Output.png" >}}
 
@@ -92,8 +90,7 @@ implementation.
 
 *SPService.ts* file inside **src/webparts/shared/service**
 In the end, our structure will be looks like this,
-![Project
-Structure.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283851i147B68545317BE61/image-size/large?v=v2&px=999 "Project Structure.png")
+![Project Structure.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283851i147B68545317BE61/image-size/large?v=v2&px=999 "Project Structure.png")
 
 
 2\. Create a state interface as below inside **IReactFormikState.ts.**

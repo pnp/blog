@@ -22,7 +22,7 @@ for **SharePoint** Online.
 
 Preview the new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
-Teams and Sharepoint engineering.   Register now for May/June trainings
+Teams and SharePoint engineering.   Register now for May/June trainings
 on [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).  View
 the [Microsoft Build sessions
 guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital

@@ -9,8 +9,7 @@ type: "regular"
 draft: false
 
 ---
-[![THumb
-148.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338487i1C6EFB15D68571E8/image-size/large?v=v2&px=999 "THumb 148.png")
+![THumb 148.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/338487i1C6EFB15D68571E8/image-size/large?v=v2&px=999 "THumb 148.png")
 
 
 In this installment of the weekly discussion revolving around the

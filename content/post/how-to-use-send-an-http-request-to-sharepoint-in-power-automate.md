@@ -26,8 +26,7 @@ step-by-step implementation.
 
 **1. Go to Power Automate \> My flows \> Click on New flow \> Select
 instant cloud flow**
-![STep
-1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288069i322382E6EFAFEC13/image-size/large?v=v2&px=999 "STep 1.png")
+![STep 1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288069i322382E6EFAFEC13/image-size/large?v=v2&px=999 "STep 1.png")
  
 **2. Read items from To Do list. (Read Operation)**
 So to perform the read operation we will use the **GET** method.
@@ -43,12 +42,10 @@ actions
 **Headers*****:** Not required*
 You can also add URI in a variable because this we will need for all the
 actions.
-![Read
-Items.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288070iC415BF2E9258F5C0/image-size/large?v=v2&px=999 "Read Items.png")
+![Read Items.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288070iC415BF2E9258F5C0/image-size/large?v=v2&px=999 "Read Items.png")
 If it will successfully execute it returns statusCode 200 and records in
 the body if records are available.
-![Read Items
-OP.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288083iA55015B4873A2108/image-size/large?v=v2&px=999 "Read Items OP.png")
+![Read Items OP.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288083iA55015B4873A2108/image-size/large?v=v2&px=999 "Read Items OP.png")
  
 
 **3. Create item in To Do list (Create Operation)**
@@ -79,11 +76,9 @@ In the request body, we need type so now the question is how to get
 type? It is ***SP.Data.{ListName}ListItem*** (replace {*ListName*} with
 list name. if space in between list name then it will be separated with
 ***\_x0020\_***).
-![Create
-item.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288073i920EFE8CE6406947/image-size/large?v=v2&px=999 "Create item.png")
+![Create item.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288073i920EFE8CE6406947/image-size/large?v=v2&px=999 "Create item.png")
 If it will successfully execute it returns statusCode 201.
-![Create item
-op.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288082i98AD4FD9BF6B56E7/image-size/large?v=v2&px=999 "Create item op.png")
+![Create item op.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288082i98AD4FD9BF6B56E7/image-size/large?v=v2&px=999 "Create item op.png")
  
 **4. Update item in To Do list (Update Operation)**
 **Site Address:** Select the Site URL in which we want to perform
@@ -111,8 +106,7 @@ actions
 
 **  **
 
-**![Update
-Item.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288076i791D97200BD29A67/image-size/large?v=v2&px=999 "Update Item.png")
+**![Update Item.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288076i791D97200BD29A67/image-size/large?v=v2&px=999 "Update Item.png")
  
 
 **5. Delete item in To Do list (Delete Operation)**
@@ -134,8 +128,7 @@ actions
 ```
 
 **Body:** *Not required*
-*![Delete
-ietm.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288078i11A2FD5057908D2D/image-size/large?v=v2&px=999 "Delete ietm.png")
+*![Delete ietm.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/288078i11A2FD5057908D2D/image-size/large?v=v2&px=999 "Delete ietm.png")
 
 ## Summary 
 

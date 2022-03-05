@@ -357,8 +357,7 @@ export default class MuhimbiExportHtmlContentToPdf extends React.Component<IMuhi
  
 ## Output  
 
-![Muhimbi - Export to
-pdf.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/335603i2D1DA938E7E24D01/image-size/large?v=v2&px=999 "Muhimbi - Export to pdf.gif")
+![Muhimbi - Export to pdf.gif](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/335603i2D1DA938E7E24D01/image-size/large?v=v2&px=999 "Muhimbi - Export to pdf.gif")
  
 
 Please find a source code

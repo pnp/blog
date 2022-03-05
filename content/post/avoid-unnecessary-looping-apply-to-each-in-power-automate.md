@@ -27,7 +27,7 @@ want to use a property from the Get Items action then Power Automate
 will automatically add the action to an Apply to each loop as it comes
 from an Array (*see image below*).
 
-![LeonArmston_1-1615045186646.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261392i55FA420DAF7B3D75/image-dimensions/741x912?v=v2 )
+![LeonArmston_1-1615045186646.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/261392i55FA420DAF7B3D75/image-dimensions/741x912?v=v2 "LeonArmston_1-1615045186646.png")
 
 If we test the Flow and we can see there is only one object in the array
 so we can see the Apply to each loop is unnecessary as it does not need

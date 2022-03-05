@@ -110,8 +110,7 @@ displayed with a proper color of a pin, inside the app. But in details,
 it's much more interesting.
 
 
-![PetrolFlow -
-part1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319471i337E9C00F7D73F95/image-size/large?v=v2&px=999 "PetrolFlow - part1.png")
+![PetrolFlow - part1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319471i337E9C00F7D73F95/image-size/large?v=v2&px=999 "PetrolFlow - part1.png")
 
 The flow can be triggered by any driver (1). Also, for any Flic event,
 but that will be described later. Next, bot looks up details of the
@@ -120,8 +119,7 @@ used to record data along with information about the driver.
 
 
 
- ![PetrolFlow -
-part2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319472i070F6BFD2307CC11/image-size/large?v=v2&px=999 "PetrolFlow - part2.png")
+ ![PetrolFlow - part2.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319472i070F6BFD2307CC11/image-size/large?v=v2&px=999 "PetrolFlow - part2.png")
 
  
 Next the flow calls **Azure Maps custom connector** via a dedicated
@@ -146,8 +144,7 @@ made an assumption\*\*, that there can be one station for a given postal
 code :)
 
 
-![PetrolFlow -
-part3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319473i2A10C7FC90971F39/image-size/large?v=v2&px=999 "PetrolFlow - part3.png")
+![PetrolFlow - part3.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319473i2A10C7FC90971F39/image-size/large?v=v2&px=999 "PetrolFlow - part3.png")
 
 
 
@@ -162,8 +159,7 @@ variable.
 
 
 
-![PetrolFlow -
-part4.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319474i08436340A12FBF89/image-size/large?v=v2&px=999 "PetrolFlow - part4.png")
+![PetrolFlow - part4.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319474i08436340A12FBF89/image-size/large?v=v2&px=999 "PetrolFlow - part4.png")
 
 
 Now process moves to check what kind of action occurred on the Flic.
@@ -194,8 +190,7 @@ activity record OData id into a variable. And finally it relates records
 (4) - petrol station together with the created activity record.
 
 
-![PetrolFlow -
-part5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319475i543BCD42F0020ED6/image-size/large?v=v2&px=999 "PetrolFlow - part5.png")
+![PetrolFlow - part5.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319475i543BCD42F0020ED6/image-size/large?v=v2&px=999 "PetrolFlow - part5.png")
 
 
 What is also worth to mention is that the whole process is built using
@@ -232,7 +227,7 @@ gas station when selecting the location pin.
 
 
 To get the location pins on the map, we added the Dataverse table as a
-source in the **I****tems** property of the map control. We are
+source in the **Items** property of the map control. We are
 currently not doing any filtering, but this could be added if needed.
 The latitude, longitude, labels and colors is each contained in a
 specific column within the data source. These are provided as values for
@@ -424,6 +419,5 @@ language or tool set we build things in, but the approach and mindset we
 share. All of us are developers, and you can be one too.
 
 
-![NZ6_5087-focus
-(2).jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319478i44FFA7D637B742B7/image-size/large?v=v2&px=999 "NZ6_5087-focus (2).jpg")
+![NZ6_5087-focus (2).jpg](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/319478i44FFA7D637B742B7/image-size/large?v=v2&px=999 "NZ6_5087-focus (2).jpg")
 

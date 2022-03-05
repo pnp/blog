@@ -13,11 +13,11 @@ draft: false
 
 Sometimes we have a business requirement to get site collections with
 all the sub-webs so we can achieve the solution easily using PnP
-Powershell.
+PowerShell.
 Let's see step-by-step implementation:
 
 ## Implementation 
-Open Windows Powershell ISE\
+Open Windows PowerShell ISE\
 Create a new file and write a script
 
 Now we will see all the steps which we required to achieve the solution:
@@ -72,6 +72,6 @@ AllSiteCollAndSubWebs
 ## Summary
 
 In this article, we have seen how to get all the site collections and
-their subwebs using pnp Powershell.
+their subwebs using pnp PowerShell.
 Hope this helps! If it is helpful to you then share it with others.
 Sharing is caring!

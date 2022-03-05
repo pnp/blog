@@ -32,9 +32,7 @@ Thinking about building apps on Microsoft 365, you can distinguish
 between two types of apps: standalone apps and apps that extend
 Microsoft 365.
 
-![Types of apps that you can build on Microsoft 365 grouped into
-extensions and custom
-apps](https://blog.mastykarz.nl/assets/images/2021/02/microsoft-365-types-apps.png)
+![Types of apps that you can build on Microsoft 365 grouped into extensions and custom apps](https://blog.mastykarz.nl/assets/images/2021/02/microsoft-365-types-apps.png)
 
 
 ### Custom apps: build your experience
@@ -77,8 +75,7 @@ Bots help people complete tasks through conversations. They're a great
 way to expose relevant features of your app and guide users through the
 scenario like a personal assistant.
 
-![Custom bot integrated in Microsoft
-Teams](https://blog.mastykarz.nl/assets/images/2021/02/microsoft-365-teams-bot.png)
+![Custom bot integrated in Microsoft Teams](https://blog.mastykarz.nl/assets/images/2021/02/microsoft-365-teams-bot.png)
 
 Another way to expose your app in a Teams conversation is through
 [messaging
@@ -87,8 +84,7 @@ Messaging extensions help people complete tasks in a visually-compelling
 way. They're similar to bots but are more visually oriented and ideal
 for showing rich data
 
-![Custom messaging extension integrated in Microsoft
-Teams](https://blog.mastykarz.nl/assets/images/2021/02/microsoft-365-teams-messaging-extension.png)
+![Custom messaging extension integrated in Microsoft Teams](https://blog.mastykarz.nl/assets/images/2021/02/microsoft-365-teams-messaging-extension.png)
 
 
 Finally, you can [send
@@ -105,8 +101,7 @@ to facilitate communication and manage knowledge. Using rich pages, they
 publish content and build interactive dashboards. These pages consist of
 reusable building blocks - web parts, that end-users put together.
 
-![Custom SharePoint portal on Microsoft
-365](https://blog.mastykarz.nl/assets/images/2021/02/full-layout-thelanding.jpg)
+![Custom SharePoint portal on Microsoft 365](https://blog.mastykarz.nl/assets/images/2021/02/full-layout-thelanding.jpg)
 
 You can extend portals on Microsoft 365 in two ways. First, you can
 build widgets, called [web
@@ -130,8 +125,7 @@ elements](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins?
 like maps or charts. These elements can be connected to APIs and make
 documents interactive and present data that is always up-to-date.
 
-![Conceptual image showing a content add-in for Microsoft
-Office](https://blog.mastykarz.nl/assets/images/2021/02/about-addins-contentaddin.png)
+![Conceptual image showing a content add-in for Microsoft Office](https://blog.mastykarz.nl/assets/images/2021/02/about-addins-contentaddin.png)
 
 You can also build [task pane
 extensions](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins?WT.mc_id=m365-16324-wmastyka)
@@ -140,8 +134,7 @@ documents. A task pane could help people lookup their customer
 information when writing contracts or order information when creating
 invoices.
 
-![Conceptual image showing a task pane add-in for Microsoft
-Office](https://blog.mastykarz.nl/assets/images/2021/02/about-addins-taskpane.png)
+![Conceptual image showing a task pane add-in for Microsoft Office](https://blog.mastykarz.nl/assets/images/2021/02/about-addins-taskpane.png)
 
 ## Connect your application to Microsoft 365
 

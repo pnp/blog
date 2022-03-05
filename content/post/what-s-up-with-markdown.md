@@ -30,7 +30,7 @@ For the bot builders among us, [Bot Composer language
 generation](https://docs.microsoft.com/en-us/composer/concept-language-generation?WT.mc_id=m365-27330-rogerman) and [QnA
 Maker](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/reference-markdown-format?WT.mc_id=m365-27330-rogerman) both
 support markdown as well. And what's at the top level of nearly every
-Github repo? You guessed it, a markdown file called README.md.
+GitHub repo? You guessed it, a markdown file called README.md.
 
 Imagine you're texting someone and all you have to work with is
 letters, numbers, and a few punctuation marks. If you want to get their
@@ -89,7 +89,7 @@ It all started at [Daring Fireball](https://daringfireball.net/); most
 implementations are faithful to the original but many have added their
 own features. For example, the SharePoint Markdown Web Part uses
 the [\"Marked\" syntax](https://marked.js.org/); if you're creating a
-README.md file for use in Github, you'll want to use [Github Flavored
+README.md file for use in GitHub, you'll want to use [GitHub Flavored
 Markdown (GFM)](https://github.github.com/gfm/).
 
  

@@ -60,18 +60,18 @@ yo /sharepoint
  
  
 The generator will ask you a couple of questions,
--   Enter the webpart name as your solution name, and then select Enter.
+-   Enter the web part name as your solution name, and then select Enter.
 -   Select Create a subfolder with the solution name for where to place
     the files.
 -   Select **Y** to allow the solution to be deployed to all sites
     immediately.
 -   Select **N** on the question if the solution contains unique
     permissions.
--   Enter the webpart name.
--   Enter the webpart description.
+-   Enter the web part name.
+-   Enter the web part description.
 -   Choose the framework as '**React**'.
 Once the project is created, install the required **pnp** modules from
-npm using the below command. I had created a webpart with the
+npm using the below command. I had created a web part with the
 name **PnPLogging**.
  
  

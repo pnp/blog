@@ -81,14 +81,12 @@ SharePoint list item, get property from my Office 365 profile and Email
 me when the item has changed (btw, this is available as a template), the
 Flow would look like this:
 
-![Example Flow in Power
-Automate](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245723i1586E3E402B0FD56/image-size/large?v=v2&px=999 "Power Automate Flow Example.jpg")
+![Example Flow in Power Automate](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245723i1586E3E402B0FD56/image-size/large?v=v2&px=999 "Power Automate Flow Example.jpg")
 
 Within Power Automate, you have the option of **exporting** a Flow to
 Logic apps:
 
-![Screenshot showing the export option to Logic
-Apps](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245729iBDE7D2FAEB82D5A7/image-size/large?v=v2&px=999 "Export to Logic Apps - When an item is modified.jpg")
+![Screenshot showing the export option to Logic Apps](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245729iBDE7D2FAEB82D5A7/image-size/large?v=v2&px=999 "Export to Logic Apps - When an item is modified.jpg")
 
 
 The export feature generates an ARM template (an Azure Resource Manager
@@ -102,8 +100,7 @@ Subscription](https://azure.microsoft.com/en-us/pricing?WT.mc_id=AZ-MVP-5003816)
 Search for \"custom template\" then find the option to \"Deploy a custom
 template\" as shown below:
 
-![Deploy a template option in the Azure
-Portal](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245730iF209DBD4EA5B91A5/image-size/large?v=v2&px=999 "Deploy a custom template.jpg")
+![Deploy a template option in the Azure Portal](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245730iF209DBD4EA5B91A5/image-size/large?v=v2&px=999 "Deploy a custom template.jpg")
 
 
 Following the instructions and complete the fields in which Azure
@@ -116,8 +113,7 @@ Once completed, you will need to Enable your Logic App then your Flow
 will be ready in Azure:
  
 
-![Showing the Logic App Designer and the example
-Flow](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245732i530F2ABAB09AC06C/image-size/large?v=v2&px=999 "Azure Logic App Equivelant.jpg")
+![Showing the Logic App Designer and the example Flow](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245732i530F2ABAB09AC06C/image-size/large?v=v2&px=999 "Azure Logic App Equivelant.jpg")
 
 Whilst this is not the full instructions for performing the import, if
 you want to see the full process of importing the Flow, visit the
@@ -191,8 +187,7 @@ deploy -- the advantage of this, there is a feature called \"Budgets\"
 which allow you to set up an alerting period, e.g. monthly that send
 notifications if the costings go over a budget, allowing you to assess
 the resource and optimise -- but to note this isn't a cap.
-![Azure Resource Group with the Budget settings
-screen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245733i2AF4B31FA4C461DD/image-size/large?v=v2&px=999 "Azure Budget.jpg")
+![Azure Resource Group with the Budget settings screen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245733i2AF4B31FA4C461DD/image-size/large?v=v2&px=999 "Azure Budget.jpg")
 Azure Logic apps also have the option of Integrated Service
 Environments, whilst they provide access to dedicated Azure resources,
 the cost does go up accordingly. Check out the

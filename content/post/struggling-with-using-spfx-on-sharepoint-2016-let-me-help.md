@@ -2,7 +2,7 @@
 title: "Struggling with using SPFx on SharePoint 2016? Let me help!"
 date: 2021-07-02T03:20:00-04:00
 author: "Kirk Liemohn"
-categories: [ "Sharepoint"]
+categories: [ "SharePoint"]
 images: []
 tags: []
 type: "regular"

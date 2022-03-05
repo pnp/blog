@@ -200,7 +200,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 Additional resources around the covered topics and links from the
 slides.
 
--   **D1**:  Github - [PnP Modern Search
+-   **D1**:  GitHub - [PnP Modern Search
     v4](https://microsoft-search.github.io/pnp-modern-search/) \|
     <https://aka.ms/pnp-search>
 

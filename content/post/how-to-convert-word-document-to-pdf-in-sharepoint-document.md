@@ -26,11 +26,10 @@ draft: false
 
 In this article, we will see how to convert a **Word Document to PDF**
 in SharePoint Document Library using **Power Automate** without using
-any licence version.
+any license version.
 Using this method will be a bit lengthy but if we don't have the power
 to automate premium licenses then we can also achieve a solution.
-![Group
-1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326574i3FEC557E437AC323/image-size/large?v=v2&px=999 "Group 1.png")
+![Group 1.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/326574i3FEC557E437AC323/image-size/large?v=v2&px=999 "Group 1.png")
 
 ## Implementation 
 1\. Go to **Power Automate** \> **My flows** \> Click on **New flow** \>
@@ -58,7 +57,7 @@ Now let's see an implementation.
 -   ### When a file is created (properties only) 
 
   **Properties**     **Value**
-  **Site Address**   Select Site URL or Add Custom SIte URL on which you want to run this flow
+  **Site Address**   Select Site URL or Add Custom Site URL on which you want to run this flow
   **Library Name**   Select Library Name
   ------------------ ---------------------------------------------------------------------------
 {{< image alt="ChandaniPrajapati_0-1636864104189.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636864104189.png" >}}

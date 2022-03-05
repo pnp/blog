@@ -31,7 +31,7 @@ organized in order from simple to complex; if you don't need some
 sections, just skip over them; you can always come back and read them
 later!
 
-![AdaptiveCardJSON.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/245271i2E8CD8FAF7FA3C64/image-size/large?v=v2&px=999 "AdaptiveCardJSON.png")
+{{< image alt="AdaptiveCardJSON.png" src="images/blog/introduction-to-json/AdaptiveCardJSON.png" >}}
 
 
  Working with JSON in the [Adaptive Card

@@ -5,7 +5,6 @@ author: "Luise Freese"
 categories: ["Microsoft Graph"]
 images:
 - images/blog/microsoft-graph-fundamentals-learning-path-module-1/GraphFun.png
-- images/blog/microsoft-graph-fundamentals-learning-path-module-1/GraphFun-youdidit1.png
 tags: []
 type: "regular"
 draft: false

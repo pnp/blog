@@ -2,7 +2,7 @@
 title: "SPFx Image Editor Sample - Playing with Canvas"
 date: 2021-03-31T09:49:00-04:00
 author: "Peter Paul Kirschner"
-categories: [ "Sharepoint"]
+categories: [ "SharePoint"]
 images: []
 tags: []
 type: "regular"
@@ -18,15 +18,12 @@ Image-Editor should work in every combination of applied manipulations.
 
 So, I started to play with canvas.
 
-![Screenshot 2021-03-22 at
-21.42.06.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266630iB1ECA3D66EE3DBDA/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 21.42.06.png")
+![Screenshot 2021-03-22 at 21.42.06.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266630iB1ECA3D66EE3DBDA/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 21.42.06.png")
 
 ## How HTML canvas  works
 
- ![Screenshot 2021-03-22 at
-20.29.22.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266632i298293D5AEC7AEC2/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 20.29.22.png")
-![Screenshot 2021-03-22 at
-20.29.33.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266633iF5DE88335FDE019F/image-size/medium?v=v2&px=400 "Screenshot 2021-03-22 at 20.29.33.png")
+ ![Screenshot 2021-03-22 at 20.29.22.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266632i298293D5AEC7AEC2/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 20.29.22.png")
+![Screenshot 2021-03-22 at 20.29.33.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266633iF5DE88335FDE019F/image-size/medium?v=v2&px=400 "Screenshot 2021-03-22 at 20.29.33.png")
 
  
 The next step is to draw an image to our HTML canvas
@@ -53,8 +50,7 @@ The next step is to draw an image to our HTML canvas
 ```
  
 
-![Parker draw on
-canvas](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266621i69B453DB774451EF/image-size/medium?v=v2&px=400 "Screenshot 2021-03-23 at 14.38.34.png")
+![Parker draw on canvas](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266621i69B453DB774451EF/image-size/medium?v=v2&px=400 "Screenshot 2021-03-23 at 14.38.34.png")
 
 How to Flip such thing
 
@@ -67,8 +63,7 @@ ctx.scale(-1, 1);
 ```
  
 
-![Flip Parker
-Y](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266622iA8FF341BD6DC9B21/image-size/medium?v=v2&px=400 "Screenshot 2021-03-23 at 14.47.53.png")
+![Flip Parker Y](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266622iA8FF341BD6DC9B21/image-size/medium?v=v2&px=400 "Screenshot 2021-03-23 at 14.47.53.png")
 
 FlipX
  
@@ -79,8 +74,7 @@ ctx.scale(1, -1);
 ```
  
 
-![Flip Parker
-X](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266623i65AFC8A05604564C/image-size/medium?v=v2&px=400 "Screenshot 2021-03-23 at 14.47.07.png")
+![Flip Parker X](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266623i65AFC8A05604564C/image-size/medium?v=v2&px=400 "Screenshot 2021-03-23 at 14.47.07.png")
 
 Rotate:
 
@@ -88,25 +82,22 @@ To explain rotation, I start with a straightforward Sample
 
 I draw only a Rectangle on a canvas
 
-![Screenshot 2021-03-22 at
-21.48.21.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266624i3712E1A11EB969D6/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 21.48.21.png")
+![Screenshot 2021-03-22 at 21.48.21.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266624i3712E1A11EB969D6/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 21.48.21.png")
 
  
 
 Then I rotate this thing for 20 Degree
 
-![Screenshot 2021-03-22 at
-21.48.51.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266625iDAC073380A6F6955/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 21.48.51.png")
+![Screenshot 2021-03-22 at 21.48.51.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266625iDAC073380A6F6955/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 21.48.51.png")
 
  
 
 As you can see the rotation Point is not in the Center of the Canvas.
 The Rotation Point is at Position 0,0
 
-![Screenshot 2021-03-22 at
-21.54.42.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266626iDF164C650C7F26B5/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 21.54.42.png")
+![Screenshot 2021-03-22 at 21.54.42.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266626iDF164C650C7F26B5/image-size/large?v=v2&px=999 "Screenshot 2021-03-22 at 21.54.42.png")
 
-For this sample I want to rotate the Rectange from the center of the
+For this sample I want to rotate the Rectangle from the center of the
 Black box. So we have to move center to position 0,0 than the rotation
 and than move it back to original position. 
  Now it looks good, but the edges are out of the canvas. Due to the
@@ -157,8 +148,7 @@ const img= new Image()
 }
 ```
 
-![Screenshot 2021-03-23 at
-15.18.24.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266627i97EE7597385508C5/image-size/large?v=v2&px=999 "Screenshot 2021-03-23 at 15.18.24.png")
+![Screenshot 2021-03-23 at 15.18.24.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/266627i97EE7597385508C5/image-size/large?v=v2&px=999 "Screenshot 2021-03-23 at 15.18.24.png")
 
  
 

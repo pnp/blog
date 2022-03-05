@@ -92,7 +92,7 @@ Microsoft Learn
     Identity](https://docs.microsoft.com/learn/topics/sci/?wt.mc_id=techcom_header-webpage-m365)
 -   [Power
     Platform](https://docs.microsoft.com/learn/powerplatform/?wt.mc_id=techcom_header-webpage-powerplatform)
--   [Github](https://docs.microsoft.com/learn/github/?wt.mc_id=techcom_header-webpage-github)
+-   [GitHub](https://docs.microsoft.com/learn/github/?wt.mc_id=techcom_header-webpage-github)
 -   [Teams](https://docs.microsoft.com/learn/teams/?wt.mc_id=techcom_header-webpage-teams)
 -   [.NET](https://docs.microsoft.com/learn/dotnet/?wt.mc_id=techcom_header-webpage-dotnet)
 :::
