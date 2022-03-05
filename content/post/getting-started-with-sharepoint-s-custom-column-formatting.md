@@ -7,7 +7,7 @@ categories: []
 images:
 - images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_0-1615739594928.png
 tags: []
-type: "regular"
+type: "trending"
 
 
 ---

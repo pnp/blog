@@ -18,6 +18,7 @@ type: "epic" # available type (epic, trending, popular, or regular)
 ---
 
 ## The intro (what's up)
+
 There are many ways we may manage Microsoft 365. To name a few we may
 use [Microsoft Graph PowerShell
 SDK](https://docs.microsoft.com/en-us/graph/powershell/get-started) or

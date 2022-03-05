@@ -7,7 +7,7 @@ categories: ["Microsoft Teams"]
 images:
 - images/blog/start-building-apps-for-teams/teams-hero.png
 tags: []
-type: "regular"
+type: "trending"
 
 
 ---

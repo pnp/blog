@@ -6,7 +6,7 @@ githubname: BobGerman
 categories: []
 images: []
 tags: []
-type: "regular"
+type: "epic"
 
 
 ---
