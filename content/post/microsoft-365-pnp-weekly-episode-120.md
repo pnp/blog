@@ -71,7 +71,7 @@ everyone for your contributions to the community!\
 
 -   ["SharePoint: 20 years
     young"](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-20-years-young/ba-p/2238955)
-    :birthday_cake::television::studio_microphone:- [Mark
+    [Mark
     Kashman](https://twitter.com/mkashman) (Microsoft) | \@mkashman
 -   [Microsoft Teams Displays Update | March
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-displays-update-march-2021/ba-p/2223273) -

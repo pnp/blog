@@ -114,7 +114,7 @@ application before:
 
 Let's now
 
-## }Retrieve an access token using MSAL
+## Retrieve an access token using MSAL
 
 MSAL will make Token interaction more effortless for you because we can
 acquire tokens from the identity platform to authenticate users and
@@ -142,7 +142,7 @@ Congratz! - you made it!
 
 {{< image alt="GraphFun-didit2.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFun-didit2.png" >}}
 
-Conclusion
+## Conclusion
 
 I loved this module - even if I already knew how to register
 applications and what Microsoft Graph does - it clarified the
