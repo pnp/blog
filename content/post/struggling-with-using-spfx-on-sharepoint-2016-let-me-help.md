@@ -325,6 +325,7 @@ terminal is still running "gulp serve" as mentioned above, then you just
 need to wait a few seconds and refresh your web page from the previous
 section.  There is no need to re-deploy the sppkg file for simple code
 changes.
+
 ## Incorporate Office Fabric 
 
 The yeoman generator does not have Office Fabric as part of it.  Here we

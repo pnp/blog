@@ -126,7 +126,7 @@ typing:
 |Container Command Segment - 2|/mnt/repo1/test.sh|The value of the mount path and script name are dependant on settings below.|
 |Container Volume Mount Path - 1|/mnt/repo1||
 |Container Volume Mount Name - 1|gitrepo|The name for the mount path must match the volume name specified later.|
-|Volume Git Repo Volume Repository - 1|https://github.com/appieschot/cli-test.git|Any public repository will do.|
+|Volume Git Repo Volume Repository - 1|`https://github.com/appieschot/cli-test.git`|Any public repository will do.|
 |Volume Name - 1|gitrepo||
 |ContainerGroup Managed Identity User Assigned Identities|{"/subscriptions/[guid]/resourcegroups/[rg-name]/providers/microsoft.managedidentity/userassignedidentities/[identity-name]": {}}|Make sure to update the bold parts.|
 |ContainerGroup Restart Policy|OnFailure|Make sure the container is restarted if there are problems.|

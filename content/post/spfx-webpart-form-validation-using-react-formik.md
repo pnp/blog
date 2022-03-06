@@ -233,9 +233,11 @@ export default class ReactFormikWebPart extends BaseClientSideWebPart<IReactForm
 
 5\. Move to the **ReactFormik.tsx** file to render form and validations
 **yup syntaxs:**
+
 -  For string: yup.string().required('Required')
 
 -  For date: yup.date().required('Required').nullable()
+
 **Related to Formik**
 Fromik has its own handleReset and handleSubmit method so we don not
 have to manage manually
@@ -472,13 +474,16 @@ Now serve the application using the below command,
     gulp serve
 Now test the webpart in SharePoint-SiteURL +
 /\_layouts/15/workbench.aspx.
+
 ## Output 
+
 {{< image alt="SPFx-react-formik.gif" src="images/blog/spfx-webpart-form-validation-using-react-formik/SPFx-react-formik.gif" >}}
  
 
 Find the full source code
 [here](https://github.com/chandaniprajapati/spfx-react-formik).
-## Summary   
+
+## Summary
 
 In this article, we have seen how to implement react formik library in
 SPFx.

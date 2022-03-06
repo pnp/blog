@@ -186,7 +186,7 @@ add these lines to allow the cross-origin call from the web page (port
 with this code:
 
 
-```
+```js
 const fs = require('fs');const https = require('https');var privateKey = fs.readFileSync(process.env.SSL_KEY_FILE );var certificate = fs.readFileSync(process.env.SSL_CRT_FILE);https.createServer({    key: privateKey,    cert: certificate}, app).listen(port);
 ```
 

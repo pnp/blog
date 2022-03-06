@@ -562,6 +562,7 @@ month. We welcome all scripts on Microsoft 365 automation to this
 centralized repository, targeted to help to manage and automate
 day-to-day operations.
 Here are the latest updates on the Script Samples
+
 -     New [Inventory Guest Sign-In Activity with CLI for M365 and
     Microsoft
     Graph](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Faad-guest-signin-activity%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=avLWXCtsqn4G3fMH99RvDH7z8x1LAE89iDX8yxEx1XU%3D&reserved=0)

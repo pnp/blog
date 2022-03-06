@@ -52,7 +52,6 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 ## Actions
 
 
-
 -   Register for Microsoft Ignite (Digital event) - November 2-4,
     2021- [https://ignite.microsoft.com](https://ignite.microsoft.com/)
 -   Opt in to PnP Recognition Program |

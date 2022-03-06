@@ -209,7 +209,7 @@ Now its time to add some functionality to our app:
 -   Paste in the following snippet:
 -   Don't forget to hit the save button -- I always do ¯\\\_(ツ)\_/¯
 
-```
+```JavaScript
     const accountSid = process.env.TWILIO_SID;
     const authToken = process.env.TWILIO_TOKEN;
     const client = require('twilio')(accountSid, authToken);

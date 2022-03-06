@@ -818,11 +818,11 @@ and community samples.
 ### Power Platform samples 
 
 
-\
 These are samples which have been contributed on the community samples
 since last summary. We do welcome all Power Platform samples to this
 gallery for providing a centralized location to share samples across the
 others in the community.
+
 -   New
     sample [request-review-and-approval-for-a-selected-file](https://github.com/pnp/powerautomate-samples/tree/main/samples/request-review-and-approval-for-a-selected-file)
     by [Lindsay Shelton](https://github.com/lsheltonSTO) as a flow which
@@ -862,6 +862,8 @@ month. We welcome all scripts on Microsoft 365 automation to this
 centralized repository, targeted to help to manage and automate
 day-to-day operations.
 Here are the latest updates on the Script Samples
+
+
 -   New script
     [spo-setup-example-site](https://github.com/pnp/script-samples/tree/main/scripts/spo-setup-example-site)
     by [Adam Wójcik](https://github.com/Adam-it) and [Valeras
@@ -1080,6 +1082,7 @@ the related documentation sets and repositories as listed below:
 -   Office add-in documentation - [Microsoft
     Docs](https://docs.microsoft.com/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
+
 ### 🤩 Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
 
 You can find all Microsoft 365 related videos on our YouTube Channel at
@@ -1325,6 +1328,7 @@ Community demos as following: 
 -   [Getting started with Microsoft Lists - Templates, formatting and
     more](https://www.youtube.com/watch?v=OmoxVkQmiYo) - [Chris
     Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent\
+
 ## 🧡 Key contributors to the October 2021 update 
 
 Here's the list of active contributors (in alphabetical order) since
@@ -2068,6 +2072,7 @@ closely involved with the PnP work during last month.
 -   Waldek Mastykarz - [\@waldekm](https://twitter.com/waldekm)
 -   Wictor Wilen - [\@wictor](https://twitter.com/wictor)
 -   Vincent Biret - [\@baywet](https://twitter.com/baywet)
+
 ## MVP Community team 
 
 MVP Community team (PnP Team) manages the PnP community work in the
@@ -2077,7 +2082,7 @@ driving adoption of Microsoft 365  topics. They have shown their
 commitment to the open-source and community-driven work by constantly
 contributing to the benefit of the others in the community.
 Thank you for all that you do!
- 🤩
+
 -   Albert-Jan Schot (BLIS Digital) -
     [\@appieschot](https://twitter.com/appieschot)
 -   Andrew Connell

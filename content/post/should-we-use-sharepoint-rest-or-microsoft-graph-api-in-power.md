@@ -246,7 +246,7 @@ another 'send an HTTP request to SharePoint' action:
 -   to add the new column to our default view, we need 3 HTTP requests -
     which makes the flow unnecessarily more complex
 
-### }Option No. 2: Microsoft Graph API 
+### Option No. 2: Microsoft Graph API 
 
 Let's see how we can create a SharePoint list or library and columns in
 it using Microsoft Graph. Microsoft Graph is a super powerful set of
@@ -254,7 +254,7 @@ APIs that gives you a consistent experience for authentication,
 documentation, and samples. You can try it out on [Microsoft Graph
 Explorer](https://developer.microsoft.com/graph/graph-explorer).
 For full documentation please
-continue here: [Microsoft Graph Docs]](https://docs.microsoft.com/graph/overview). If you
+continue here: [Microsoft Graph Docs](https://docs.microsoft.com/graph/overview). If you
 are not familiar with using Microsoft Graph in Power Automate, [please
 continue to read
 here](https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/)
@@ -263,7 +263,7 @@ time for another coffee for me then :)
 #### mobile flow trigger 
 
 Again, to make things easy, we will use the same trigger as in Option
-No. 1.:
+No. 1.
 
 
 {{< image alt="mobileflowtrigger.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/mobileflowtrigger.png" >}}

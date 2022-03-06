@@ -71,7 +71,7 @@ variable" action. 
 Set the "Name" to *varNumDays*; "Type" to "Integer" and "Value"
 to "30".
 
-![](https://normanyoungblog.files.wordpress.com/2020/09/image-27.png)
+![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-27.png)
 Click "New step", search for "Variable" and select the "Initialize
 variable" action.  
 
@@ -83,7 +83,7 @@ Set the "Name" to *varReminderDate*; "Type" to "String" and
 **Note:** Click "Add dynamic content" \> "Expression" to access the
 expression editor.
 
-![](https://normanyoungblog.files.wordpress.com/2020/09/image-28.png)
+![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-28.png)
 Click "New step", search for "SharePoint" and select the "Get
 items" action. **Note:** Microsoft Lists is really SharePoint, so that
 is why we are using the Power Automate SharePoint actions. 
@@ -100,7 +100,7 @@ variable. 
 **Note:** pay attention to the single quotes used in the ODATA filter
 query.
 
-![](https://normanyoungblog.files.wordpress.com/2020/09/image-30.png)
+![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-30.png)
 Click "New step", search for "Office 365 Outlook" and select the
 "Send an email (V2)" action.
 Set "To" to *Person or group the issue is assigned to Email* (from the
@@ -109,14 +109,14 @@ SharePoint Get items action). Power Automate will put this into a
 previous "Get items" action.
 Set "Subject" and "Body" to something similar to the image below.
 
-![](https://normanyoungblog.files.wordpress.com/2020/09/image-31.png)
+![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-31.png)
 My completed Flow looks like the image below.
 
-![](https://normanyoungblog.files.wordpress.com/2020/09/image-33.png)
+![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-33.png)
 Save and test the Flow. If you have items due in 30 days the owner will
 receive a reminder email.
 
-![](https://normanyoungblog.files.wordpress.com/2020/09/image-32.png)
+![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-32.png)
 This Flow is relatively simplistic in design and function but
 illustrates how value can be added to existing business processes by
 automating tasks and giving users an opportunity to act prior to a due

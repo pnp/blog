@@ -357,11 +357,7 @@ The User id is returned by using the expression below
 body('GetUser')?['value'][0]?['id']
 ```
 
-<<<<<<< HEAD
-On the negative side, firstly invite the user to your organisation by
-=======
 On the negative side, firstly invite the user to your organization by
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 using the final action of the custom connector.
 
 

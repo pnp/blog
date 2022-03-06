@@ -170,7 +170,7 @@ When done, let´s open the default browser with the gulp webserver:
 *gulp serve*
 
 This opens the SPFx workbench, in our sample at
-https://localhost:4321/temp/workbench.html. Here, you can add the
+`https://localhost:4321/temp/workbench.html`. Here, you can add the
 web part to the workbench page and test it.
 
 

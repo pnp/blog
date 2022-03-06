@@ -33,9 +33,11 @@ environment API.*
 {{< image alt="ValerasNarbutas_0-1633418328122.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418328122.png" >}}
 
 1. Now add a new header in postman call:
+   
 ``` {.lia-code-sample .language-markup}
 "Prefer odata.track-changes"
 ```
+
  http request call will return additional information:\
 **deltalink** with **deltatoken** in body area (image 2)\
 
