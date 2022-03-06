@@ -22,9 +22,9 @@ Listen to the show here:  [Office Add-Ins with Cam Dwyer
 -   [Visual Studio
     2022](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/)
 -   [New feature request experience for Microsoft Graph and Office
-    Platform](https://developer.microsoft.com/en-us/graph/blogs/new-feature-request-experience-for-microsoft-graph-and-office/)
+    Platform](https://developer.microsoft.com/graph/blogs/new-feature-request-experience-for-microsoft-graph-and-office/)
 -   [Microsoft
-    Q&A](https://docs.microsoft.com/en-us/answers/products/m365#microsoft-graph)
+    Q&A](https://docs.microsoft.com/answers/products/m365#microsoft-graph)
 
 ## Community Links 
 

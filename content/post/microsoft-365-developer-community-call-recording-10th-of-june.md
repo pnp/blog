@@ -16,7 +16,9 @@ type: "regular"
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from June 10, 2021.
 {{< image alt="m365-general-10th-june-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-10th-of-june/m365-general-10th-june-recording.png" >}}
-## Call summary
+
+## Call Summary
+
 
 Summer break and community call schedule updates reviewed. You are
 invited to join the [Viva Connections private
@@ -62,6 +64,7 @@ takes place in chat throughout the call.
     15th of June @ 8 AM PT |
     <https://aka.ms/microsoftteamscommunitycall>  
 -   **Register for Sharing is Caring Events**:
+
     -   First Time Contributor Session -- [June
         29th](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u)
         (EMEA, APAC & US friendly times available)
@@ -97,6 +100,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 {{< image alt="210610-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-10th-of-june/210610-together-mode.gif" >}}
 Thank you for joining for today's PnP Community call.   The auditorium
 was packed.   
+
 **Demos** delivered in this session
 
 -   **Remote Event Receiver Manager solution in SPFx for managing list
@@ -161,7 +165,7 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   **Demo: ** Getting started on using Time Clock Microsoft Graph APIs
     to clock in and out of a shift -- Aarthi Kumar
-    (Microsoft) [-][ [41:20](https://youtu.be/qOgH82b5Jw4?t=2480)][[ ]](https://youtu.be/qOgH82b5Jw4?t=2480)
+    (Microsoft) [-][ [41:20](https://youtu.be/qOgH82b5Jw4?t=2480)][](https://youtu.be/qOgH82b5Jw4?t=2480)
 **Resources:**
 
 Additional resources around the covered topics and links from the
@@ -171,7 +175,7 @@ slides.
     Manager](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-remote-event-receiver-manager) 
 
 -   Documentation - [Use remote event receivers in
-    SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/use-remote-event-receivers-in-sharepoint)
+    SharePoint](https://docs.microsoft.com/sharepoint/dev/solution-guidance/use-remote-event-receivers-in-sharepoint)
 
 -   Repo - [SharePoint List Formatting
     Samples](https://github.com/pnp/List-Formatting) 
@@ -180,13 +184,13 @@ slides.
     Samples](https://pnp.github.io/List-Formatting/)
 
 -   Documentation - [shift resource
-    type](https://docs.microsoft.com/en-us/graph/api/resources/shift?view=graph-rest-1.0) 
+    type](https://docs.microsoft.com/graph/api/resources/shift?view=graph-rest-1.0) 
 
 -   Documentation - [timecard resource
-    type](https://docs.microsoft.com/en-us/graph/api/resources/timecard?view=graph-rest-beta) 
+    type](https://docs.microsoft.com/graph/api/resources/timecard?view=graph-rest-beta) 
 
 -   Documentation -- [Webhook to Shifts
-    changes](https://docs.microsoft.com/en-us/graph/api/resources/workforceintegration?view=graph-rest-1.0) 
+    changes](https://docs.microsoft.com/graph/api/resources/workforceintegration?view=graph-rest-1.0) 
 
 -   PnP Weekly -- Episode 130 with the Software Engineer behind the
     Microsoft Graph Toolkit, [Nikola
@@ -209,6 +213,7 @@ slides.
 -   [Microsoft Teams Samples
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
+
 **General resources**:
 
 -   Microsoft Teams Toolkit v2.2 | <https://aka.ms/teams-toolkit>
@@ -222,7 +227,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -247,7 +252,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [eloper program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -256,18 +261,20 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
 -   **Microsoft Teams monthly call --** June 15th at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
 -   **Power Apps monthly call --** June 16th at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** June 17that 7:00 am PDT |
+-   **SharePoint Framework call** -- June 17that 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** June 17th at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar>

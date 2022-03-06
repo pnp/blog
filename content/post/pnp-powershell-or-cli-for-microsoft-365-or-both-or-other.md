@@ -21,9 +21,9 @@ type: "epic" # available type (epic, trending, popular, or regular)
 
 There are many ways we may manage Microsoft 365. To name a few we may
 use [Microsoft Graph PowerShell
-SDK](https://docs.microsoft.com/en-us/graph/powershell/get-started) or
+SDK](https://docs.microsoft.com/graph/powershell/get-started) or
 [SharePoint Online Management
-Shell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps) or
+Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps) or
 [PnP PowerShell](https://pnp.github.io/powershell/) or [CLI for
 Microsoft 365](https://pnp.github.io/cli-microsoft365/). During my SP
 consultant/dev work I most of the times used the last two. From time to
@@ -36,14 +36,16 @@ one is better but in the end it's all about which tool is more suitable
 for the task you are up against and the more tools you know (or you may
 use in your company) the more possibilities you have to succeed in your
 task.
+
 ## PnP PowerShell
+
 This one is almost always used and it's quite understandable. I mean
 usually many of SP consultants used to work with the OnPrem version of
 SharePoint, and sooner or later there was always a need of some small
 provision or other setup kind of script to be created (at least this was
 my story and most of the people I worked with). The first thing usually
 used was the [SharePoint
-PowerShell](https://docs.microsoft.com/en-us/sharepoint/sharepoint-powershell).
+PowerShell](https://docs.microsoft.com/sharepoint/sharepoint-powershell).
 The next cool thing that happened was the SharePointPnPPowerShell
 2013/16/19 and all the improvements it gave. After some time it was the
 'must have tool' when it comes to developing PowerShell scripts to
@@ -66,16 +68,20 @@ quick day to day tenant management as well as for huge scripts that may
 run every day to add that additional logic to your tenant (either
 reporting or maintenance or provisioning or other). And Like every other
 SharePoint module you may just install it using
+
 ```powershell
 Install-Module -Name "PnP.PowerShell"
 ```
+
 command and you're good to go.
 Maybe you would like to contribute? You would like to make something new
 or do a fix. That's great, as it is written in C# (so how hard can it
 be right?), it uses CSOM (as expected for C# code and SP Online things)
 but also MS Graph, and there even is a [ready guide to help you get
 started](https://pnp.github.io/powershell/articles/buildingsource.html)
+
 ## CLI for Microsoft 365
+
 And What's this? And why would I need this? TBH those were my questions
 when I first go to know this tech. Please be aware at that time
 SharePointPnPPowerShellOnline (as the PnP.PowerShell was not out yet)
@@ -133,12 +139,15 @@ and when we push on the master branch it would be nice if the webpart
 would be build and pushed to a test/QA tenant". If yes then you have to
 see this [GitHub Actions - CLI for Microsoft 365
 pnp.github.io](https://pnp.github.io/cli-microsoft365/concepts/github-actions/)
+
 ## When? What? Why?
+
 Using either PnP.PowerShell or CLI for M365 is rather simple and totally
 logical. Lets have a look at this very simple script from PnP Script
 Sample gallery (<https://pnp.github.io/script-samples>) added by Paul
 Bullock. The script gets the site and disables the delete option on a
 list.
+
 ```powershell
 Connect-PnPOnline -Url "https://<tenant>.sharepoint.com" -Interactive
 $list = Get-PnPList -Identity "<list or library>"
@@ -147,11 +156,13 @@ $list.Update()
 Invoke-PnPQuery
 Write-Host "Done! :-)" -ForegroundColor Green
 ```
+
 source: [Remove delete option on a document library | PnP
 Samples](https://pnp.github.io/script-samples/remove-delete-option-library/README.html?tabs=pnpps)
 So the flow is simple. We connect to the site to which we want to make
 some changes, we do those changes and that's it.
 Now lets look at the same thing done with CLI for M365.
+
 ```powershell
 $m365Status = m365 status
 if ($m365Status -eq "Logged Out") {
@@ -164,6 +175,7 @@ $json = $json | ConvertFrom-Json
 m365 spo list set --webUrl $site --id $json.Id --allowDeletion false
 Write-Host "Done! :-)" -ForegroundColor Green
 ```
+
 What is the flow here? First we login (or we check if we are still
 logged in) to the tenant. And then we execute commands to get and/or
 modify passing the web url as an param.
@@ -181,10 +193,13 @@ multiple sites and you don't want to start every time from logging in
 Also it would seem that CLI for M365 would be better for a scenario were
 we have a list of sites we need to loop and apply some change.
 So lets say we have
+
 ```powershell
 $sites = @('https://thisisverycooltenant.sharepoint.com/sites/hr-live', 'https://thisisverycooltenant.sharepoint.com/sites/demoportal')
 ```
+
 And now when using PnP.PowerShell we may do it like this
+
 ```powershell
 $Credential = Get-Credential
 [SecureString]$SecurePass = ConvertTo-SecureString $Credential.GetNetworkCredential().password -AsPlainText -Force
@@ -196,6 +211,7 @@ foreach ($site in $sites)
     Disconnect-PnPOnline
 }
 ```
+
 Of course we would not need to pass the credentials, as there are other
 authenticate options we might use like credential manager (but then
 it's windows only) or Microsoft.PowerShell.SecretManagement and
@@ -204,6 +220,7 @@ link](https://pnp.github.io/powershell/articles/authentication.html) for
 more info. But regardless of authenticate option still the concept of
 connecting and disconnecting would remain.
 Now when using CLI for M365 we might just do
+
 ```powershell
 $m365Status = m365 status
 if ($m365Status -eq "Logged Out") {
@@ -214,12 +231,15 @@ foreach ($site in $sites)
     m365 spo web set --webUrl $site --title 'test'
 }
 ```
+
 Now should we say that one approach is better over the other... I don't
 know ;). For me both tools did what I needed in a reasonable amount of
 time.
 The above example is just a simple case were but we may already have a
 feeling when and why we could use one tool over the other.
+
 ## Both\... really?
+
 Using those both together. Now that's strange. TBH I totally agree, but
 let's think of example case were we already have some script ready in
 PnP.PowerShell doing something on the site (let's say changing the
@@ -228,6 +248,7 @@ don't know which sites should be modified and we need to query the
 lists of sites that match some pattern and apply changes only there.
 Well there is a single line for it in the CLI for M365, and it would be
 a shame not to use it.
+
 ```powershell
 $m365Status = m365 status
 if ($m365Status -eq "Logged Out") {
@@ -245,6 +266,7 @@ foreach ($site in $sites)
     Disconnect-PnPOnline
 }
 ```
+
 Now I totally wouldn't recommend this kind of approach for any script
 which is supposed to be scheduled and runed iteratively. This is because
 the authorization process may be hard to maintain. But if this was some
@@ -254,7 +276,9 @@ tool and one approach only, may make our work less efficient. Of course
 it is almost always possible to do the same things in both tools but if
 one of those allows to do something easier why not combine the two and
 do what needs to done faster.
+
 ## The End? Already?
+
 Yes\... I hope you will agree with me that using both, rather than
 picking the better one is the correct approach. If you are already using
 one of those tools try the other one. I strongly encourage you to try to

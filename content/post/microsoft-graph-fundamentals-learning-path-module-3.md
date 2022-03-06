@@ -14,7 +14,7 @@ type: "regular"
 
 This is already the third part of my little series on what it takes to
 do the[ Microsoft Graph Fundamentals Learning
-Path](https://docs.microsoft.com/en-us/learn/paths/m365-msgraph-fundamentals/) on
+Path](https://docs.microsoft.com/learn/paths/m365-msgraph-fundamentals/) on
 Microsoft Learn. If you missed [part
 1 ](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-1/)or
 [part

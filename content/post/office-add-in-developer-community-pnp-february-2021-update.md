@@ -30,7 +30,7 @@ outside the table, the custom tab is hidden.
 -   Check out the code sample: [Create custom contextual tabs on the
     ribbon](https://github.com/OfficeDev/PnP-OfficeAddins/tree/master/Samples/office-contextual-tabs)
 -   Check out the docs: [Create custom contextual tabs in Office
-    Add-ins](https://docs.microsoft.com/en-us/office/dev/add-ins/design/contextual-tabs)
+    Add-ins](https://docs.microsoft.com/office/dev/add-ins/design/contextual-tabs)
 
 ## Contributors
 
@@ -39,7 +39,7 @@ the [PnP-OfficeAddins](https://github.com/OfficeDev/PnP-OfficeAddins)
 community effort.
 
 -   [Maarten van
-    Stam](https://mvp.microsoft.com/en-us/PublicProfile/33535) - helping
+    Stam](https://mvp.microsoft.com/PublicProfile/33535) - helping
     review PRs and issues on PnP-OfficeAddins
 
 ## Want to contribute?
@@ -74,7 +74,7 @@ Excel](https://docs.microsoft.com/office/dev/add-ins/excel/pnp-open-in-excel).
     program](https://developer.microsoft.com/office/dev-program).
 -   Try out some samples and get coding quickly with Office add-ins by
     [downloading Script
-    Lab](https://www.microsoft.com/en-us/garage/profiles/script-lab/).
+    Lab](https://www.microsoft.com/garage/profiles/script-lab/).
 
 Learn more by joining the monthly [Office Add-ins community
 call](https://aka.ms/officeaddinscommunitycall).

@@ -13,7 +13,9 @@ type: "regular"
 ---
 
 {{< image alt="PowerApps Thumb December 2021.png" src="images/blog/power-apps-community-call-december-2021/PowerApps Thumb DEcember 2021.png" >}}
-**Call Summary:**
+
+## Call Summary
+
 
 Topics covered in this month's community call includes 2 demos:
  
@@ -76,15 +78,18 @@ demand. 
 **Recent News & Cool Stuff:**
 
 -   [Visualize data in model-driven apps with Power BI
-    (preview)](https://powerapps.microsoft.com/en-us/blog/visualize-data-in-model-driven-apps-with-power-bi-preview/) -
+    (preview)](https://powerapps.microsoft.com/blog/visualize-data-in-model-driven-apps-with-power-bi-preview/) -
     *Combine the capabilities of Power Apps, Power BI and Dataverse to
     help you visualize and understand your data -- **with one click.***
 
 -   [December Developer Tools
-    Refresh](https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-november-refresh/) 
+    Refresh](https://powerapps.microsoft.com/blog/power-platform-developer-tools-november-refresh/) 
+
 
 
 **Actions:**
+
+
 
 -   Power Platform User Groups - Find a user group in your area. 
     -   [Power Platform user groups](https://powerusers.microsoft.com/)
@@ -112,10 +117,10 @@ demand. 
 -   D1:  Website -- [Gamepad Tester](https://gamepad-tester.com/) 
 
 -   D2:  Article - [Experimental Co-authoring for Power Apps
-    Studio](https://powerapps.microsoft.com/blog/experimental-co-authoring-for-power-apps-studio/)[ ]
+    Studio](https://powerapps.microsoft.com/blog/experimental-co-authoring-for-power-apps-studio/)
 
 -   D2:  Documentation - [Co-authoring in canvas apps
-    (experimental)](https://docs.microsoft.com/powerapps/maker/canvas-apps/git-version-control)[ ]
+    (experimental)](https://docs.microsoft.com/powerapps/maker/canvas-apps/git-version-control)
 
 **Learn more:**  
 

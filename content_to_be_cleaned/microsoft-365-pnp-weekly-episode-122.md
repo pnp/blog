@@ -36,8 +36,8 @@ This episode was recorded on Monday, April 12, 2021.
 
  
 
--   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+
+-   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -55,6 +55,7 @@ everyone for your contributions to the community!
 
 **Events:**
 
+
 -   April 14, 2021 - [Building Apps with Microsoft
     Graph](https://learntogether-graph.splashthat.com/)
 -   May 25-27, 2021- [Microsoft Build
@@ -66,17 +67,19 @@ everyone for your contributions to the community!
 
 **Microsoft articles:**
 
+
 -   [Microsoft Teams Rooms on Android | April 2021
     Updates](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-rooms-on-android-april-2021-updates/ba-p/2259772) -
     Microsoft
 -   [New feature request experience for Microsoft Graph and Office
-    Platform](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-feature-request-experience-for-microsoft-graph-and-office/) -
+    Platform](https://developer.microsoft.com/microsoft-365/blogs/new-feature-request-experience-for-microsoft-graph-and-office/) -
     Microsoft
 -   [Build quality Microsoft Teams apps with these best practices: Part
-    1](https://developer.microsoft.com/en-us/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-1/)
+    1](https://developer.microsoft.com/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-1/)
     - Microsoft
 
 **Community articles:**
+
 
 -   [Introduction to
     tokens](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-tokens/ba-p/2267853) -
@@ -144,6 +147,7 @@ everyone for your contributions to the community!
     | \@DarrellaaS
 
 **Additional resources:**
+
 
 -   [PnP Sharing is Caring
     initiative](https://aka.ms/sharing-is-caring) - Getting started

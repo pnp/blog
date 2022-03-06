@@ -23,7 +23,7 @@ Microsoft Forms & Power Automate to onboard them to a
 -   SharePoint online site
 -   Microsoft Team
 
-## Microsoft Form to collect details from External User: 
+## Microsoft Form to collect details from External User
 
 To start building this experience, create a Microsoft form with the
 setting **Anyone can respond** and with fields (Name, Email address etc)
@@ -31,11 +31,11 @@ to collect information from the external user to send invitation.
 
 ## {{< image alt="MSForm-ExternalUserdetails.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails.png" >}} 
 
-## Azure Active Directory Application registration: 
+## Azure Active Directory Application registration
 
 The next step after creating the form is to register an [application in
 Azure
-AD](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app)
+AD](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app)
 with Microsoft graph API permission to send invitation to external user.
 After the app is registered obtain the client id, client secret & tenant
 id to be used in the Power Automate flow further down this article to
@@ -47,21 +47,21 @@ added to the app. Keep in mind the permission requires Admin consent.
 
 There is also delegated permission available for User.Invite.All.
 
-# Onboard External users to a SharePoint online site: 
+## Onboard External users to a SharePoint online site 
 
 Once the Microsoft form is ready, we can start building the Power
 Automate flow which can send the email invitation to the external user
 and for granting access to the SharePoint site. The [external
-sharing](https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview)
+sharing](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 features of SharePoint Online enables users in your organization share
 content with people outside the organization. There is no limit to the
 number of guests you can invite to SharePoint sites as per this
 [SharePoint online
-limits](https://docs.microsoft.com/en-us/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits#users)
+limits](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits#users)
 documentation. Find below steps to create the Power Automate flow with a
 custom approval on a Microsoft Team
 
-## Power Automate Flow: 
+## Power Automate Flow
 
 Create an Automated flow with the trigger **When a new response is
 submitted** with the above form name selected on the dropdown and then
@@ -72,7 +72,7 @@ screenshot below
 
 {{< image alt="MSFormTrigger-ExternalUser.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSFormTrigger-ExternalUser.png" >}}
 
-## Adaptive card for Teams Approval: 
+## Adaptive card for Teams Approval
 
 For the Approval in Microsoft Teams, I have used a custom card created
 from the [Adaptive card designer](https://adaptivecards.io/designer/)
@@ -83,6 +83,7 @@ Guest account creation. Find screenshot below from the adaptive card
 designer
 
 {{< image alt="AdaptiveCard-DesignforApproval.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-DesignforApproval.png" >}}
+
 1.  After the card is designed, copy the card payload from the designer
     and go to the flow and then add the action **Post adaptive card and
     wait for a response** and make appropriate selection on the
@@ -98,6 +99,7 @@ designer
 
 {{< image alt="AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png" >}}
 
+
 {{< image alt="AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png" >}}
 
 -   **Update Message**: Custom message which appear after an action
@@ -107,6 +109,7 @@ designer
     would like to have the approval adaptive card posted
 
 Card payload:
+
 ``` {.lia-code-sample .language-applescript}
 {
     "type": "AdaptiveCard",
@@ -194,9 +197,9 @@ Card payload:
 **Note**: Adaptive card can also be sent using a Microsoft Graph API
 with the card payload in Attachments field
 
-<https://docs.microsoft.com/en-us/graph/api/channel-post-messages?view=graph-rest-beta&tabs=http>
+<https://docs.microsoft.com/graph/api/channel-post-messages?view=graph-rest-beta&tabs=http>
 
-### Adaptive card for Teams - Dynamic content Missing: 
+### Adaptive card for Teams - Dynamic content Missing
 
 As of the time I am writing this article there is an issue in getting
 the output as dynamic content for the **Post adaptive card and wait for
@@ -211,23 +214,31 @@ history as shown below
 From the above screenshot, we can see if the user has clicked the
 Approve or Reject button from the field **submitActionId**. To get this
 value in Flow, use the expression
+
 ``` {.lia-code-sample .language-applescript}
 outputs('Post_adaptive_card_and_wait_for_a_response').body.submitActionId
 ```
+
 or
+
 ``` {.lia-code-sample .language-applescript}
 @outputs('Post_adaptive_card_and_wait_for_a_response')?['body/submitActionId']
 ```
+
 Spaces in the name of the action is replaced with underscore.
 
 To get the userPrincipalName, the expression is
+
 ``` {.lia-code-sample .language-applescript}
 outputs('Post_adaptive_card_and_wait_for_a_response').body.responder.userPrincipalName
 ```
+
 or
+
 ``` {.lia-code-sample .language-applescript}
 @outputs('Post_adaptive_card_and_wait_for_a_response')?['body/responder/userPrincipalName']
 ```
+
 To get the submitActionId, enter the expression
 outputs('Post_adaptive_card_and_wait_for_a\_response').body.submitActionId
 in the compose action, then add a condition control to decide action
@@ -240,12 +251,12 @@ as well, the above fix should work. Now we can implement the logic to
 send the Guest Invitation using Microsoft Graph API. To send the
 invite, we will use the Azure AD application registered above.
 
-## Generate JSON Web token to Access Graph API: 
+## Generate JSON Web token to Access Graph API
 
 Be ready with the ClientId, Client Secret and Tenant Id collected from
 the AD app registration you have done initially. The only authentication
 flow to generate a access token for application permissions is [Client
-credentials](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-authentication-flows#client-credentials).
+credentials](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows#client-credentials).
 
 To generate a token
 
@@ -321,7 +332,7 @@ schema
 Include the access token when calling the Microsoft Graph API on the
 Headers section or raw as shown in the next section.
 
-## Send Invitation using Microsoft Graph API: 
+## Send Invitation using Microsoft Graph API
 
 Before sending the invitation, validate if the user already exists in
 your organization AD tenant by using the email address of the external
@@ -346,7 +357,7 @@ or
 
 Find below the Graph API endpoint http request details to [invite the
 external
-user](https://docs.microsoft.com/en-us/graph/api/invitation-post?view=graph-rest-1.0&tabs=http)
+user](https://docs.microsoft.com/graph/api/invitation-post?view=graph-rest-1.0&tabs=http)
 
 **Method**: POST
 
@@ -385,7 +396,7 @@ Custom
 connector](https://ashiqf.com/2021/03/16/call-microsoft-graph-api-in-power-apps-and-power-automate-using-a-custom-connector/)
 for detailed instructions.
 
-## Grant Access to SharePoint site for the external user: 
+## Grant Access to SharePoint site for the external user
 
 As soon as the guest account invite is sent from the above Microsoft
 graph API request HTTP action, it is time to grant access to the
@@ -414,9 +425,11 @@ application/json;odata.metadata=none
 application/json
 
 **Body**:
-``` {.lia-code-sample .language-applescript}
+
+```bash
 {'LoginName':'i:0#.f|membership|userPrinipalNameorEmailaddressofExternalUser'}
 ```
+
 For the external user, the email address used to send the invite works.
 
 Go back to the flow and add the action **Send an HTTP request to
@@ -430,10 +443,10 @@ should have access to the SharePoint site. As of now, there is no Graph
 API for adding the user to a SharePoint group but you can register an
 app in Active directory and add permission for SharePoint to call the
 above REST API. Refer to the documentation [Granting access via Azure AD
-App-Only](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/security-apponly-azuread)
+App-Only](https://docs.microsoft.com/sharepoint/dev/solution-guidance/security-apponly-azuread)
 for calling the REST API using the registered AD app.
 
-## Testing the flow: 
+## Testing the flow
 
 The whole flow can now be tested by submitting the form which sends the
 adaptive card on Teams first as shown below
@@ -452,9 +465,9 @@ also be validated by accessing the URL for All users list:
 
 This approach of granting access to SharePoint site for external user
 can be applied to internal users by [turning off the access
-requests](https://support.microsoft.com/en-us/office/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+requests](https://support.microsoft.com/office/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
 
-## Limit External Sharing by domain: 
+## Limit External Sharing by domain
 
 The external sharing on SharePoint can be restricted based on domain of
 the external user. To enable the setting login into the SharePoint admin
@@ -463,13 +476,13 @@ sharing by domain \> Add domain
 
 {{< image alt="ExternalSharing-RestrictDomain.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/ExternalSharing-RestrictDomain.png" >}}
 
-# Onboard External users to a Microsoft Team: 
+### Onboard External users to a Microsoft Team
 
 To onboard the external user to a Microsoft Team, the only change to the
 above flow is, instead of adding the user to the SharePoint group the
 user must be added as a Member to the Microsoft 365 group connected to
 the Microsoft Teams. The graph API to [add a
-member](https://docs.microsoft.com/en-us/graph/api/team-post-members?view=graph-rest-1.0&tabs=http)
+member](https://docs.microsoft.com/graph/api/team-post-members?view=graph-rest-1.0&tabs=http)
 to a Microsoft Team is
 
 **Request Type**: POST
@@ -481,15 +494,18 @@ The team-id is the Microsoft 365 group object Id, as there is always a
 Microsoft 365 group connected to a Microsoft Team.
 
 **Body**:
-``` {.lia-code-sample .language-applescript}
+
+```JSON
 {
     "@odata.type": "#microsoft.graph.aadUserConversationMember",
     "roles": ["owner"],
     "user@odata.bind": "https://graph.microsoft.com/v1.0/users(userObjectIdofGuest')"
 }
 ```
+
 The expression to get the user object Id of the external user as per the
 below screenshot is
+
 ``` {.lia-code-sample .language-applescript}
 outputs('HTTP-SendGuestInvitation').body.invitedUser.Id
 ```
@@ -502,7 +518,7 @@ Action.
 
 {{< image alt="externalUserObjectId.png" src="images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/externalUserObjectId.png" >}}
 
-## Permission for the Azure AD App to add a member to a Microsoft Team: 
+## Permission for the Azure AD App to add a member to a Microsoft Team
 
 The application permission Group.ReadWrite.All has to be added on the
 Azure AD app, if you are going to be using the same JSON webtoken
@@ -514,13 +530,13 @@ members.
 I recommend you read the following documentation from Microsoft for
 External sharing
 
-<https://docs.microsoft.com/en-us/microsoftteams/manage-external-access>
+<https://docs.microsoft.com/microsoftteams/manage-external-access>
 
-<https://docs.microsoft.com/en-us/microsoftteams/guest-access>
+<https://docs.microsoft.com/microsoftteams/guest-access>
 
-<https://docs.microsoft.com/en-us/microsoftteams/communicate-with-users-from-other-organizations>
+<https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations>
 
-## **Summary:** 
+## Summary
 
 With this, the Power Automate flow should send the invitation as shown
 below to the external user.

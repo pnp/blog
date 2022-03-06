@@ -16,7 +16,8 @@ type: "regular"
 
 {{< image alt="office-add-ins-call-recording-12th-may.png" src="images/blog/office-add-ins-community-call-may-2021/office-add-ins-call-recording-12th-may.png" >}}
 
-## Agenda: 
+## Agenda
+
 May's call, hosted by **David Chesnut**, featured the following
 presenters and topics:
 
@@ -35,16 +36,17 @@ presenters and topics:
     [35:09](https://youtu.be/Y6nee7VQkFE?t=2109)
 
 
-##   
+
+
 
 ## Q&A (Question & Answers) 
+
+
 Unfortunately, we had some issues with the chat during the call. We
 apologize to folks who were not able to ask a question. If you have a
 question, you can reach out to us by using our short [survey
 form](https://aka.ms/officeaddinsform). We'll address any questions in
 the form during the next call.
-
-###   
 
 **Is it possible to see a demonstration of debugging Outlook add-ins in
 the Outlook application on mobile devices? Ideally for a local developer
@@ -102,14 +104,14 @@ apply formatting at the character level?**
 Thanks for this request! We're looking into supporting this. Can you
 please create a request for this on our [ideas
 page](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform/label-name/office%20add-ins%20development)?
-##   
 
-## Resources: 
+## Resources
+
 ### Keyboard shortcuts 
 
 -   [Custom keyboard shortcuts in Office Add-ins - Office Add-ins |
     Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/design/keyboard-shortcuts)
+    Docs](https://docs.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts)
 -   [PnP sample: Use keyboard shortcuts for Office add-in
     actions](https://github.com/OfficeDev/PnP-OfficeAddins/tree/master/Samples/excel-keyboard-shortcuts)
 
@@ -117,7 +119,7 @@ page](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/id
 
 -   [Create custom contextual tabs in Office Add-ins - Office Add-ins |
     Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/design/contextual-tabs)
+    Docs](https://docs.microsoft.com/office/dev/add-ins/design/contextual-tabs)
 -   [PnP sample: Create custom contextual tabs on the
     ribbon](https://github.com/OfficeDev/PnP-OfficeAddins/tree/master/Samples/office-contextual-tabs)
 
@@ -130,10 +132,10 @@ page](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/id
 ### Outlook event-based activation 
 
 -   [Outlook add-ins overview - Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/outlook/outlook-add-ins-overview)
+    Docs](https://docs.microsoft.com/office/dev/add-ins/outlook/outlook-add-ins-overview)
 -   [Configure your Outlook add-in for event-based activation
     (preview) - Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/outlook/autolaunch)
+    Docs](https://docs.microsoft.com/office/dev/add-ins/outlook/autolaunch)
 -   PnP sample: [Use Outlook event-based activation to set the signature
     (preview)](https://github.com/OfficeDev/PnP-OfficeAddins/tree/master/Samples/outlook-set-signature)
 

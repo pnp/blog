@@ -59,8 +59,9 @@ rooms on Monday, October 11, 2021.
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -85,6 +86,7 @@ everyone for your contributions to the community!
 
 **Microsoft articles:**
 
+
  
 
 -   [SharePoint Roadmap Pitstop: September
@@ -92,26 +94,27 @@ everyone for your contributions to the community!
     [Mark Kashman](http://twitter.com/mkashman) (Microsoft) |
     \@mkashman
 -   [Manage your apps with the Developer Portal for Microsoft
-    Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/teams-developer-portal?referrer=whats.new.rssfeed) -
+    Teams](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/teams-developer-portal?referrer=whats.new.rssfeed) -
     Microsoft
 -   [New ways for Cloud Storage Partners to integrate their services
     with Microsoft Teams and
-    Office](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-ways-for-cloud-storage-partners-to-integrate-their-services-with-microsoft-teams-and-office/) -
+    Office](https://developer.microsoft.com/microsoft-365/blogs/new-ways-for-cloud-storage-partners-to-integrate-their-services-with-microsoft-teams-and-office/) -
     Ben Summers (Microsoft)
 -   [Breaking changes to the settings endpoint in the Microsoft Graph
     eDiscovery API
-    (beta)](https://developer.microsoft.com/en-us/microsoft-365/blogs/breaking-changes-to-the-settings-endpoint-in-the-microsoft-graph-ediscovery-api-beta/)
+    (beta)](https://developer.microsoft.com/microsoft-365/blogs/breaking-changes-to-the-settings-endpoint-in-the-microsoft-graph-ediscovery-api-beta/)
     - Marshal Hagen (Microsoft)
 -   [settings resource type
-    (eDiscovery)](https://docs.microsoft.com/en-us/graph/api/resources/ediscovery-settings?view=graph-rest-beta) -
+    (eDiscovery)](https://docs.microsoft.com/graph/api/resources/ediscovery-settings?view=graph-rest-beta) -
     docs.microsoft.com
 -   [Developing Real-Time Collaborative
-    Apps](https://docs.microsoft.com/en-us/events/learntv/developing-real-time-together-collaborative-apps-october-2021/?WT.mc_id=m365-44916-cxa) -
+    Apps](https://docs.microsoft.com/events/learntv/developing-real-time-together-collaborative-apps-october-2021/?WT.mc_id=m365-44916-cxa) -
     Microsoft
 
  
 
 **Community articles:**
+
 
  
 
@@ -142,6 +145,7 @@ everyone for your contributions to the community!
     | \@WonderLaura\
 
 **Additional resources:**
+
 
  
 

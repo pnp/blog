@@ -17,7 +17,9 @@ type: "regular"
 ## {{< image alt="officeadd-ins.jpg" src="images/blog/office-add-ins-community-call-september-8-2021/officeadd-ins.jpg" >}}
 
 
-## Call Summary 
+
+## Call Summary
+ 
 
 This month's community call features presentations - Word API updates
 (preview of Footnote and Comment APIs for citation management and
@@ -29,6 +31,7 @@ on the merits of this monthly community call). This month's Community
 spotlight recognizes MVP Maarten van Stam for his continued
 contributions. Thank you again! Q&A in chat throughout call. The call
 was hosted by David Chesnut (Microsoft) | \@davidchesnut.
+
 **Microsoft Presenters:**
 
 -   Ruoying Liang - Senior Program Manager
@@ -84,7 +87,9 @@ was hosted by David Chesnut (Microsoft) | \@davidchesnut.
     protected and fully visible, and enabled when the worksheet is
     unprotected.
 
+
 ## Q&A (Question & Answers) 
+
 
 **Is there a way to "auto push" manifest updates?**
 Updates for add-ins happen as follows.
@@ -133,7 +138,7 @@ API](https://docs.microsoft.com/javascript/api/word?view=word-js-1.1).
 
 If you're looking for more specific guidance, please provide more
 information on ask on the [Microsoft 365 Q&A
-site](https://docs.microsoft.com/en-us/answers/topics/office-addins-dev.html?page=2&amp;pageSize=15&amp;sort=active&amp;filter=all),
+site](https://docs.microsoft.com/answers/topics/office-addins-dev.html?page=2&amp;pageSize=15&amp;sort=active&amp;filter=all),
 or at <https://stackoverflow.com> using the \[**office-js**\] tag.
 **When will we be able to use SPFX to create Office Addins?**
 A couple of years ago, we released a preview for creating Outlook

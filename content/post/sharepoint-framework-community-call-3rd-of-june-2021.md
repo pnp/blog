@@ -18,7 +18,9 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+
+## Call Summary
+
 
 [Register](https://aka.ms/viva/connections/preview/register) for the
 Private Preview of Viva Connections (including access to SPFx v.1.13)
@@ -53,7 +55,10 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 Thanks everybody for being part of the Community and helping making
 things happen. You are absolutely awesome!
 
+
 **Actions:**
+
+
 
 -   Join on the Viva Connections private preview! |
     [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
@@ -107,6 +112,7 @@ a custom card using the Dashboard web part and SPFx.
 -   Soon
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
+
 -   **[Data
     Table](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable)** -
     [Chandani
@@ -121,7 +127,7 @@ a custom card using the Dashboard web part and SPFx.
     \
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-  
+
 **Agenda items:**
 
 -   Latest updates on SharePoint Framework - [Vesa
@@ -187,7 +193,7 @@ slides.
 -   SharePoint Framework - v1.12.1 npm install
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
@@ -201,7 +207,7 @@ slides.
     series](https://aka.ms/mgtLap)
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
 -   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
@@ -243,11 +249,13 @@ slides.
 **Other mentioned topics:**
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 -   **SharePoint monthly call --** June 8th at 8:00am PDT |
     <https://aka.ms/sp-call>
 -   **Office add-in monthly call --** June 9th at 8:00 am PDT |
@@ -260,7 +268,7 @@ slides.
     <https://aka.ms/microsoftteamscommunitycall>
 -   **Power Apps monthly call --** June 16th at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** June 17th at 7:00 am PDT |
+-   **SharePoint Framework call** -- June 17th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** June 17th at 9:00 am PDT
     | <https://aka.ms/IDDevCommunityCalendar> 

@@ -19,7 +19,9 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+
+## Call Summary
+
 Summer and Fall community call schedule updates reviewed.  Register
 today for August events on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).   [PnP
@@ -53,7 +55,10 @@ Yep!  Nice wave action.  Great seeing you this week.  Looking forward to
 seeing you again in August.    Data for Hugo:  24 left-handed wavers, 4
 right-handed wavers, 2 bi-handed wavers and 4 non-handed wavers.  But
 wait, now there's 35 wavers!   Data corruption.  
+
 **Actions:**
+
+
 
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [August
@@ -105,7 +110,8 @@ wait, now there's 35 wavers!   Data corruption.  
 
 
 
-**SPFx extension samples:  (<https://aka.ms/spfx-extensions>) **
+**SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
+
 -   **[Machine
     Translations](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-machine-translations)
     -** [Michał
@@ -113,7 +119,8 @@ wait, now there's 35 wavers!   Data corruption.  
 
 </div>
 
-**SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
+**SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
+
 -   **[Datatable](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable)** -
     [Abderahman
     Moujahid](http://twitter.com/Abderahman88) | \@Abderahman88
@@ -128,7 +135,7 @@ wait, now there's 35 wavers!   Data corruption.  
     pending) - [Hugo Bernier](http://twitter.com/bernierh) | \@bernierh
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-  
+
 **Agenda items:**
 
 -   SharePoint Framework - [Patrick
@@ -222,7 +229,7 @@ slides.
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
@@ -243,7 +250,7 @@ slides.
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
@@ -307,11 +314,13 @@ slides.
 **Other mentioned topics:**
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 -   **M365 General Dev call** -- August 5th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
 -   **Office add-in monthly call** -- August 11th at 8:00 am PDT |

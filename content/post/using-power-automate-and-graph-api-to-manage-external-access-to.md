@@ -37,7 +37,7 @@ GitHub [here](https://github.com/pnp/powerautomate-samples/tree/main/samples/te
 ## Getting Hands-On With Graph 
 
 The main part of this flow is numerous calls to the [Graph
-API](https://docs.microsoft.com/en-us/graph/overview). The Graph API is
+API](https://docs.microsoft.com/graph/overview). The Graph API is
 Microsoft's standard endpoint to expose and interact with data relevant
 to your tenant. It includes Microsoft 365 (such as Teams, Exchange,
 SharePoint, Workspace Analytics), Enterprise and Mobility and even
@@ -45,7 +45,7 @@ Windows 10 activities and devices. It really should be seen as a single
 stop shop for anything and everything in your tenant. The only thing it
 doesn't expose is D365 data.
 There is a [Graph
-connector](https://docs.microsoft.com/en-us/connectors/microsoftgraphsecurity/) already
+connector](https://docs.microsoft.com/connectors/microsoftgraphsecurity/) already
 available in Power Automate, but it is very limited to Security
 considerations. 
 
@@ -56,7 +56,7 @@ in a connector, you are enabling other members of your organisation to
 re-use the connector and security you establish.
 Microsoft also allows you to "play" with the Graph API as well, via
 the [Graph
-Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer).
+Explorer](https://developer.microsoft.com/graph/graph-explorer).
 This web interface shows you all the sample calls you can make and also
 what permissions you require to call it and allows you to set up a call
 without using Power Automate or configuring a connector. It really
@@ -333,6 +333,7 @@ mail eq 'Email Parameter from the Form response'
 ```json
 mail eq 'Email Parameter from the Form response'
 ```
+
 Next, check the length of the returned object from the custom connector.
 This basically checks if the user already belongs to your environment.
 
@@ -342,6 +343,7 @@ This basically checks if the user already belongs to your environment.
 ``` wp-block-code
 length(outputs('GetUser')?['body/value'])
 ```
+
 If there is a value in the return, use the return to invite the user to
 the team.
 
@@ -353,6 +355,7 @@ The User id is returned by using the expression below
 ```json
 body('GetUser')?['value'][0]?['id']
 ```
+
 On the negative side, firstly invite the user to your organisation by
 using the final action of the custom connector.
 
@@ -368,6 +371,6 @@ user to the team.
 That's it! There is a lot of configuration here, but you can see how
 you can extend your usage of Power Automate to automate a function
 usually confined to manual work by the team owner.
-\
+
 This post was originally published on
 [LinkeD365.blog](https://linked365.blog/2021/05/06/using-power-automate-and-graph-api-to-manage-external-access-to-teams/)

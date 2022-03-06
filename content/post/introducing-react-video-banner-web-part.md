@@ -40,8 +40,7 @@ file structure can be seen below:
 
  {{< image alt="derhallim_1-1620252146944.png" src="images/blog/introducing-react-video-banner-web-part/derhallim_1-1620252146944.png" >}}
  
-
-The web part has only one functional component named: VideoBackground
+The web part has only one functional component named: `VideoBackground`
 that accepts the following properties as defined in the
 IVideoBackgroundProps.ts file: wpTitle (string), videoUrl (string),
 labelColor (string), brightness (number), height (number).

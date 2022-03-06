@@ -17,6 +17,7 @@ type: "regular"
 After a quick wrap up on Microsoft Build '21 from an Adaptive Cards
 perspective, this call's primary focus is on Microsoft Viva
 Connections Extensibility with Adaptive Cards. 
+
 - Starting at the top
 with a Viva Extensibility Overview - Dashboard demo and Dashboard and
 card composition.
@@ -28,21 +29,21 @@ Matt Hidinger (Microsoft). Microsoft presenters are Luca Bandinelli,
 John Nguyen and Pat Miller.  Recorded on June 10, 2021.
 
 
-## Referenced in this call:
+## Referenced in this call
 
 -   Microsoft Build '21 Session - [Build great discovery &
     collaboration apps for Microsoft 365 with new Microsoft Graph
     connector &
     Ad\...](https://mybuild.microsoft.com/sessions/337ee14e-a234-4c63-95dd-117dbe05d1bc)
 -   Documentation - [Universal Actions for Adaptive
-    Cards](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview?tabs=mobile)
+    Cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview?tabs=mobile)
 -   Tool - Imaginea ReactNative renderer package -
     [adaptivecards-reactnative](https://www.npmjs.com/package/adaptivecards-reactnative) 
 -   Preview - [Viva Connections private
     preview](https://aka.ms/viva/connections/preview/register)
 
 
-## Resources in General: 
+## Referenced in this call
 
 -   Let us know the features you need    <https://aka.ms/ACRoadmap>
 -   Schema Explorer
@@ -54,7 +55,7 @@ John Nguyen and Pat Miller.  Recorded on June 10, 2021.
     - [https://www.madewithcards.io](https://www.madewithcards.io/)
 
 
-## Stay connected:
+## Stay connected
 
 -   Twitter
     - [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​

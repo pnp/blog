@@ -14,7 +14,10 @@ type: "regular"
 
 {{< image alt="recording-2nd-september-call.png" src="images/blog/microsoft-365-developer-community-call-recording-2nd-of/recording-2nd-september-call.png" >}}
 
-## Call summary
+
+
+## Call Summary
+
 
 Welcome back from summer holiday!  Have a look at Microsoft 365 tenant
 -- [script samples gallery](https://aka.ms/script-samples) - s*cripts
@@ -44,7 +47,10 @@ this call was [David Warner II](http://twitter.com/DavidWarnerII)
 (Catapult Systems) \@DavidWarnerII.   Q&A takes place in chat throughout
 the call.
 
+
 **Actions:**
+
+
 
 -   Create a Teams Sample - [Microsoft Teams Samples Wish
     list](https://github.com/pnp/teams-dev-samples/issues) -- 10
@@ -80,10 +86,6 @@ the call.
         and every 3rd Tuesday of month, 7:00am PT
     -   PnP Office Hours -- 1:1 session --
         [Register](https://outlook.office365.com/owa/calendar/PnPSharingisCaring@warner.digital/bookings/)
-
-    ```{=html}
-    <!-- -->
-    ```
     -   PnP Buddy System -- [Request a
         Buddy](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUMjRRUVg4NElZUUJLTEY1TVVSVDJFRFpLRS4u)
 -   Download the recurrent invite for this call
@@ -111,6 +113,7 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
 Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -   No new Script samples this week
+
 **Demos** delivered in this session
 
 -   **SharePoint Approval Workflow Status Tracking with Column
@@ -176,8 +179,9 @@ Thank you for your work. Samples are often showcased in Demos.
     [Stephan Bisser](http://twitter.com/stephanbisser) (Solvion) |
     \@stephanbisser - [34:39](https://youtu.be/qsr-OspeYug?t=2079)
 
--   **Demo:**[  Updates on Independent Publisher Connectors for Power
-    Platform - ][Natalie
+-   **Demo:**
+-   Updates on Independent Publisher Connectors for Power
+    Platform - [Natalie
     Pienkowska](http://twitter.com/NataliePienkow1)[ (Microsoft) |
     \@NataliePienkow1 and ][Troy
     Taylor](http://twitter.com/troystaylor)[ (Hitachi Solutions) |
@@ -197,18 +201,18 @@ slides.
 
 -   [Documentation - ][Bot Framework
     Composer
-    documentation](https://docs.microsoft.com/composer/)[ ]
+    documentation](https://docs.microsoft.com/composer/)
 
 -   [[Documentation - ][Add
     authentication to your Teams
-    bot](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/authentication/add-authentication?tabs=dotnet%2Cdotnet-sample)[ ]]
+    bot](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/authentication/add-authentication?tabs=dotnet%2Cdotnet-sample)]
 
 -   Documentation  - [Create your
     project](https://docs.microsoft.com/microsoftteams/platform/get-started/first-app-bot?tabs=vscode#create-your-project) 
 
 -   [Connectors - ][Microsoft Power
     Platform
-    Connectors](https://github.com/microsoft/PowerPlatformConnectors)[ ]
+    Connectors](https://github.com/microsoft/PowerPlatformConnectors)
 
 -   [Demo - ][Publish a connector to the
     Power Platform](https://youtu.be/ulTBvCHw8MU)[ -- [Natalie
@@ -220,6 +224,7 @@ slides.
     - [Troy Taylor](http://twitter.com/troystaylor) (Hitachi Solutions)
     |
     [troystaylor](https://github.com/troystaylor)]
+
 **General resources**:
 
 -   Samples - [Power Platform
@@ -247,7 +252,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -272,7 +277,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -281,26 +286,29 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
--   **Microsoft 365 platform call** **-- **September 7that 8:00 am PDT
+
+-   **Microsoft 365 platform call** -- September 7that 8:00 am PDT
     | <https://aka.ms/m365-dev-call>
--   **Office add-in monthly call -- **September 8th at 8:00 am PDT
+-   **Office add-in monthly call** -- September 8th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
--   **SharePoint Framework call -- **September 9th at 7:00 am PDT
+-   **SharePoint Framework call** -- September 9th at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
--   **Adaptive Cards monthly call -- **September 9th at 9:00 am PDT
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- September 15th at 8:00 am PDT
+-   **Adaptive Cards monthly call** -- September 9th at 9:00 am PDT
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call** -- September 15th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **M365 General Dev call -- **September 16th at 7:00 am PDT
+-   **Microsoft 365 platform call** -- September 16th at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
--   **Microsoft Identity Platform call -- **September 16th at 9:00 am
+-   **Microsoft Identity Platform call** -- September 16th at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365

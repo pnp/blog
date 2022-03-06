@@ -12,12 +12,13 @@ type: "regular"
 
 ---
 
-Recording of the Microsoft 365 -- General M365 development Special
-Interest Group (SIG) community call from April 29, 2021.
+
 {{< image alt="sig-29th-apr-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-29th-of-april/sig-29th-apr-recording.png" >}}
  
 
-## Call summary
+
+## Call Summary
+
 
 Latest news from Microsoft 365 engineering and updates on open-source
 projects: PnP .NET libraries, PnP PowerShell, modernization tooling, on
@@ -91,6 +92,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 Thank you for being part of the community and for helping others to
 succeed.  You are awesome!
  
+
 **Demos** delivered in this session
 
 -   **Delegated and application permissions in the Microsoft Identity
@@ -158,7 +160,7 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   **Demo:**  Using field lookups with list formatting -- [Chris
     Kent](http://twitter.com/theChrisKent) (DMI) | \@theChrisKent [-
-    [42:48](https://youtu.be/1NE_uMlpD08?t=2568)][ ]
+    [42:48](https://youtu.be/1NE_uMlpD08?t=2568)]
 **Resources:**
 
 Additional resources around the covered topics and links from the
@@ -176,7 +178,7 @@ slides.
 
 -   [Repo - ][Checks that your
     localization files match the schema inside
-    mystrings.d.ts](https://github.com/s-KaiNet/spfx-check-locale)[ ]
+    mystrings.d.ts](https://github.com/s-KaiNet/spfx-check-locale)
 
 -   Repo - [Multi-lookup fields and projected
     fields](https://github.com/pnp/List-Formatting/tree/master/column-samples/multi-lookup-projected-field) 
@@ -186,7 +188,7 @@ slides.
 
 -   Documentation -- [Create list relationships by using unique and
     lookup
-    columns](https://support.microsoft.com/en-us/office/create-list-relationships-by-using-unique-and-lookup-columns-80a3e0a6-8016-41fb-ad09-8bf16d490632?ui=en-US&rs=en-US&ad=US) 
+    columns](https://support.microsoft.com/office/create-list-relationships-by-using-unique-and-lookup-columns-80a3e0a6-8016-41fb-ad09-8bf16d490632?ui=en-US&rs=en-US&ad=US) 
 
 -   [PnP Weekly -- Episode 124] with[
     guest MVP from Sympraxis
@@ -203,6 +205,7 @@ slides.
 -   [Microsoft Teams Samples
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
+
 **General resources**:
 
 -   [Microsoft 365 PnP Community
@@ -215,7 +218,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -240,7 +243,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -249,16 +252,18 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
 -   **Microsoft Graph call -** May 4th at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint Framework call --** May 6th at 7:00 am PDT |
+-   **SharePoint Framework call** -- May 6th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **SharePoint monthly call --** May 11th at 8:00am PDT |
     <https://aka.ms/sp-call>
@@ -289,6 +294,7 @@ or feedback, feel free to provide your input as comments to this post as
 well. More details on the Microsoft 365 community and options to get
 involved are available
 from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
+
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

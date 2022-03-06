@@ -12,7 +12,9 @@ type: "regular"
 
 ---
 
-**Call Summary:**
+
+## Call Summary
+
 
 This month's community call features presentations on Excel JS API
 v1.13 updates, PowerPoint ribbon updates, UX changes for Outlook add-ins
@@ -25,7 +27,7 @@ in chat throughout call.  The call was hosted by David Chesnut
 (Microsoft). Microsoft Presenters include: Raymond Lu, Lillian Liu,
 Hitesh Manwar, Nikhil Verma, Ying Hao.  Recorded on March 10, 2021.
 
-**Topic Summaries:**
+### Topic Summaries
 
 **Excel JS API v1.13 updates** - Excel APIs are in Preview today,
 targeting GA release in July.  The APIs are presently available in
@@ -55,9 +57,9 @@ Platform Panel](https://aka.ms/SuccessPanel)  
 
 -   Documentation - [Integrate built-in Office buttons into custom
     control groups and
-    tabs](https://docs.microsoft.com/en-us/office/dev/add-ins/design/built-in-button-integration) 
+    tabs](https://docs.microsoft.com/office/dev/add-ins/design/built-in-button-integration) 
 -   Documentation - [Position a custom tab on the
-    ribbon](https://docs.microsoft.com/en-us/office/dev/add-ins/design/custom-tab-placement) 
+    ribbon](https://docs.microsoft.com/office/dev/add-ins/design/custom-tab-placement) 
 
 **Actions**:  
 
@@ -84,7 +86,7 @@ Platform Panel](https://aka.ms/SuccessPanel)  
 -   Microsoft 365 Developer Program | <https://aka.ms/M365devprogram> 
 -   Script Lab | <https://aka.ms/getscriptlab> 
 -   [Office Add-ins documentation |]{.underline}
-    <https://aka.ms/office-add-ins-docs>[ ]{.underline}
+    <https://aka.ms/office-add-ins-docs>{.underline}
 -   Stack Overflow (questions) |
     [https://stackoverflow.com](https://stackoverflow.com/)
     (**office-js, outlook-web-addins, office-scripts)**

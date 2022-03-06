@@ -19,7 +19,9 @@ building solutions for **Microsoft Viva**, **Microsoft Teams** and
 for **SharePoint** Online.
 
 
-**Call summary:**
+
+## Call Summary
+
 
 Preview the new [Microsoft 365
 Extensibility](https://aka.ms/m365/extensibility) look book gallery --
@@ -30,7 +32,7 @@ trainings on
 project updates include:  **PnPjs Client-Side Libraries** v2.4.0 release
 scheduled for April 9, and please provide feedback on v3.0 Hub planning
 and discussion issues posted - [issue
-#1636](https://github.com/pnp/pnpjs/issues/1636) by April 15th.  **CLI
+1636](https://github.com/pnp/pnpjs/issues/1636) by April 15th.  **CLI
 for Microsoft 365** Beta v3.9 delivered.   **Reusable SPFx React
 Controls** -- v2.6.0 and v3.0.0 (on hold for SPFx v1.12.1) and
 **Reusable SPFx React Property Controls** -- v2.5.0 and v3.0.0 (on hold
@@ -43,7 +45,10 @@ is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 {{< image alt="8th-april-together-mode.gif" src="images/blog/sharepoint-framework-community-call-recording-8th-of-april-2021/8th-april-together-mode.gif" >}}
  
 
+
 **Actions:**
+
+
 
 -   Register for both:
     -   Register to watch the Microsoft Graph livestream with your
@@ -216,7 +221,7 @@ slides.
     Solutions](https://blog.aterentiev.com/support-microsoft-teams-themes-in) 
 
 -   Documentation - [Create apps for Teams
-    meetings](https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/create-apps-for-teams-meetings)
+    meetings](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/create-apps-for-teams-meetings)
 
 -   Repo - [React Image
     Editor](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-image-editor) 
@@ -242,7 +247,7 @@ slides.
 **General Resources:**
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
@@ -254,7 +259,7 @@ slides.
     series](https://aka.ms/mgtLap)
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
 -   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
@@ -296,11 +301,13 @@ slides.
 **Other mentioned topics:**
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 
 -   **SharePoint monthly call --** April 13th at 8:00am PDT |
     <https://aka.ms/sp-call>
@@ -314,7 +321,7 @@ slides.
     <https://aka.ms/microsoftteamscommunitycall>
 -   **Power Apps monthly call --** April 21st at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** April 22nd at 7:00 am PDT |
+-   **SharePoint Framework call** -- April 22nd at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **M365 General Dev call --** April 29th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>

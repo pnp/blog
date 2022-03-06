@@ -41,8 +41,8 @@ Community members delivered 22 articles and videos.  
 
 This episode was recorded on Monday, March 29, 2021.
 
--   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+
+-   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -64,10 +64,12 @@ everyone for your contributions to the community!\
 
 **Events:**
 
+
 -   April 14, 2021 - [Building Apps with Microsoft
     Graph](https://learntogether-graph.splashthat.com/)
 
 **Microsoft articles:**
+
 
 -   ["SharePoint: 20 years
     young"](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-20-years-young/ba-p/2238955)
@@ -90,11 +92,11 @@ everyone for your contributions to the community!\
     (Microsoft)
 -   [Microsoft Graph Mailbag -- Getting Started with the Microsoft Graph
     PowerShell
-    SDK](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-mailbag-getting-started-with-the-microsoft-graph-powershell-sdk/) -
+    SDK](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-mailbag-getting-started-with-the-microsoft-graph-powershell-sdk/) -
     [Matt Krause](https://twitter.com/mattckrause) (Microsoft)
     | \@mattckrause
 -   [Tips for using the shared JavaScript runtime in your Office
-    Add-in](https://developer.microsoft.com/en-us/microsoft-365/blogs/tips-for-using-the-shared-javascript-runtime-in-your-office-add-in%e2%80%af/) -
+    Add-in](https://developer.microsoft.com/microsoft-365/blogs/tips-for-using-the-shared-javascript-runtime-in-your-office-add-in%e2%80%af/) -
     [David Chesnut](https://twitter.com/DavidChesnut) (Microsoft)
     | \@DavidChesnut
 -   [Start building apps for
@@ -110,6 +112,7 @@ everyone for your contributions to the community!\
     \@aprildunnam
 
 **Community articles:**
+
 
 -   [SharePoint Framework v1.12 Deprecated!!! (+ how to roll
     back)](https://www.voitanos.io/blog/sharepoint-framework-v1-12-deprecated/) -

@@ -21,7 +21,9 @@ SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
 
-**Call summary:**
+
+## Call Summary
+
 -   Tune in each Tuesday for the [Microsoft 365 platform community
     call](https://aka.ms/m365-dev-call).  Next call on the 21st of
     December @ 8 AM PT -- Social gathering for coffee/tea or your chosen
@@ -63,7 +65,10 @@ call.
 Great to see all of you today.  Happy Holidays.  Enjoy some down time
 from work and up time with family, friends, hobbies.
 
+
 **Actions:**
+
+
 -   Opt into PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
 -   [Weigh in](https://github.com/pnp/pnpjs/discussions/1979) -- Should
@@ -135,20 +140,21 @@ from work and up time with family, friends, hobbies.
 
 
 
-**SPFx extension samples: (<https://aka.ms/spfx-extensions>) **
+**SPFx extension samples: (<https://aka.ms/spfx-extensions>)**
 
 -   Holiday Break Challenge!!! Choose and update an SPFx sample v1.7,
     v1.8, v1.9, earn a special Credly badge.
 
 
 
-**SPFx web part samples: (<https://aka.ms/spfx-webparts>) **
+**SPFx web part samples: (<https://aka.ms/spfx-webparts>)**
 
 -   Holiday Break Challenge!!! Choose and update an SPFx sample v1.7,
     v1.8, v1.9, earn a special Credly badge.
 
 **PnP SPFx
 ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
+
 
 -   **COVID Indicator\* - **[João
     Mendes](http://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
@@ -262,7 +268,7 @@ slides.
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
@@ -283,7 +289,7 @@ slides.
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
@@ -347,24 +353,25 @@ slides.
 **Other mentioned topics:**
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  **
 
--   **Microsoft 365 platform call** **-- **December 21st at 8:00 am
+-   **Microsoft 365 platform call** -- December 21st at 8:00 am
     PST | <https://aka.ms/m365-dev-call>
--   **M365 General Dev call -- **December 23rd at 7:00 am PST
+-   **M365 General Dev call** -- December 23rd at 7:00 am PST
     | <https://aka.ms/m365-dev-sig>
--   **SharePoint Framework call --** December 30th at 7:00 am PST
+-   **SharePoint Framework call** -- December 30th at 7:00 am PST
     | <https://aka.ms/spdev-spfx-call>
--   **Office add-in monthly call -- **January 12th at 8:00 am PST
+-   **Office add-in monthly call** -- January 12th at 8:00 am PST
     | <https://aka.ms/officeaddinscall>
--   **Adaptive Cards monthly call -- **January 13th at 9:00 am PST
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- January 19th at 8:00 am PST
+-   **Adaptive Cards monthly call** --January 13th at 9:00 am PST
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- January 19th at 8:00 am PST
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** January 20th at 9:00 am
+-   **Microsoft Identity Platform call** -- January 20th at 9:00 am
     PST | <https://aka.ms/IDDevCommunityCalendar>
 Viva Connections & SharePoint Framework bi-weekly calls are targeted at
 anyone who is interested in the JavaScript-based development towards

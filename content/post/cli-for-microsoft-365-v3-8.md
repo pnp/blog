@@ -59,7 +59,7 @@ To set the default output for all commands to JSON, execute:
 
 
 
-``` 
+```bash
 m365 cli config set --key output --value json
 ```
 
@@ -68,7 +68,7 @@ To set the default output for all commands to test, execute:
 
 
  
-``` 
+```bash
 m365 cli config set --key output --value text
 ```
  
@@ -78,10 +78,7 @@ If there are other options that you would like to be able to configure,
 [please let us
 know](https://github.com/pnp/cli-microsoft365/discussions).
 
-
-###   
 ### Improved error messages 
-
 
 In the 3.2.0 release of CLI for Microsoft 365, we replaced the
 request library with axios which we use to handle our requests to
@@ -100,8 +97,6 @@ instead returned a generic error message which was meaningless.
 So in this release, we have reverted back to our previous behaviour and
 so now error messages will be returned direct from the API call.
 
-
- 
 ## New Commands 
  
 ### Return Policies from Azure AD 
@@ -124,7 +119,7 @@ return all policies created or policies of a specific type.
 To return all policies from Azure AD, execute:
 
 
-``` 
+```bash
 m365 aad policy list
 ```
 
@@ -132,7 +127,7 @@ m365 aad policy list
 To return only Authorization policies, execute:
 
 
-``` 
+```bash
 m365 aad policy list --policyType authorization
 ```
 
@@ -317,7 +312,7 @@ Get the latest release of the CLI for Microsoft 365 from npm by
 executing:
 
 
-``` 
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
 
@@ -325,7 +320,7 @@ npm i -g @pnp/cli-microsoft365
 Alternatively, you can get the latest release from Docker by executing:
 
 
-``` 
+```bash
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
 

@@ -11,11 +11,13 @@ tags: []
 type: "regular"
 
 
----](/t5/microsoft-365-pnp-blog/
+---
 
 ## {{< image alt="office-add-ins-Thumb-Nov.png" src="images/blog/office-add-ins-community-call-november-10-2021/office-add-ins-Thumb-Nov.png" >}}
 
+
 ## Call Summary
+
 
 This month's community call features a customer presentation -
 **CodeTwo Outlook Add-in for email signature management** - (email
@@ -34,16 +36,12 @@ contributions to this community.  Greatly appreciated!  Register for the
 and in chat throughout call.  The call was hosted by David Chesnut
 (Microsoft) | \@davidchesnut. Recorded November 10, 2021.
 
-##   
-
 ## Presenters 
 
 -   Michał Królewicz - Technical Marketing Manager​ at CodeTwo
 -   Michael Aldridge - Principal Content Program Manager
 -   Igor Ribeiro - Software Engineer
 
-
-##   
 
 ## Topics 
 
@@ -72,8 +70,6 @@ and in chat throughout call.  The call was hosted by David Chesnut
     TypeScript.   Office Addin Mock along with test examples are
     available now. Future work items called out.    
 
-##   
-
 ## Agenda 
 
 -   **T1:  Customer presentation:** CodeTwo Outlook Add-in for email
@@ -87,8 +83,6 @@ and in chat throughout call.  The call was hosted by David Chesnut
 -   **Community spotlight:** Maarten van Stam and Eric Legault --
     [35:00](https://youtu.be/7hGsmgNHqow?t=2100)
 -   **Q&A** -- [35:44](https://youtu.be/7hGsmgNHqow?t=2144)
-
-##   
 
 ## Actions 
 
@@ -104,9 +98,9 @@ and in chat throughout call.  The call was hosted by David Chesnut
 -   Next community call -- December 8th at 08:00am PST -
     <https://aka.ms/officeaddinscommunitycall>
 
-##   
 
 ## Q&A (Question & Answers) 
+
 
 ### **Microsoft 365 developer program and instant sandbox** 
 
@@ -124,13 +118,15 @@ Yes.
 **When you enroll in the Microsoft 365 developer program, can you choose
 an instant or a provisioned account?**\
 Yes, you choose when you sign up.
-**How do we reset a sandbox?**\
+**How do we reset a sandbox?**
 Today we don't have the ability to reset. However your old tenant will
 expire naturally if you don't use it.
-**Is Visio included in the Microsoft 365 developer program?**\
+**Is Visio included in the Microsoft 365 developer program?**
 Visio is not included in the Microsoft 365 developer program E5
 subscription today.
-### **Unit testing with the Office JS Office-Addin-Mock library** 
+
+### Unit testing with the Office JS Office-Addin-Mock library** 
+
 **How do we unit test or integrate Cypress into an Outlook plugin?**\
 It doesn't seem likely this would work as Cypress is more focused on
 end-to-end testing, while the unit testing library we provide is
@@ -139,7 +135,8 @@ designed for unit testing frameworks.
 Yes, there's a sample demonstrating this:
 <https://github.com/OfficeDev/Office-Addin-TaskPane/tree/master/test/unit> 
 
-###  Miscellaneous 
+### Miscellaneous 
+
 -   **With the Outlook REST API being decommissioned in November 2022 in
     favor of Graph API, what happens to on-premise Exchange REST API
     support at that time? We have add-ins that use the REST API for

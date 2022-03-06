@@ -11,7 +11,6 @@ type: "regular"
 
 
 ---
-]
 
 ## Context 
 
@@ -23,7 +22,7 @@ Apps and Power Automate user licenses with PowerShell!
 ## Download user licenses 
 
 To do this, we are using [PowerApps
-PowerShell](https://docs.microsoft.com/en-us/powershell/powerapps/overview)
+PowerShell](https://docs.microsoft.com/powershell/powerapps/overview)
 and more particular, the Power Apps admin module.
  
 To install this module, execute the following command as a
@@ -35,7 +34,7 @@ Install-Module -Name Microsoft.PowerApps.Administration.PowerShell
  
 **Note:** if this module is already installed on your machine, you can
 use the
-[Update-Module](https://docs.microsoft.com/en-us/powershell/module/powershellget/update-module)
+[Update-Module](https://docs.microsoft.com/powershell/module/powershellget/update-module)
 command to update it to the latest version available.
  
 Then to export user licenses data, you just need to execute the
@@ -62,5 +61,5 @@ You can read this article on my blog
  
 ## Resources 
 
-<https://docs.microsoft.com/en-us/powershell/powerapps/get-started-powerapps-admin>
-[https://docs.microsoft.com/en-us/powershell/module/microsoft.powerapps.administration.powershell/get\...](https://docs.microsoft.com/en-us/powershell/module/microsoft.powerapps.administration.powershell/get-adminpowerapplicenses)
+<https://docs.microsoft.com/powershell/powerapps/get-started-powerapps-admin>
+[https://docs.microsoft.com/powershell/module/microsoft.powerapps.administration.powershell/get\...](https://docs.microsoft.com/powershell/module/microsoft.powerapps.administration.powershell/get-adminpowerapplicenses)

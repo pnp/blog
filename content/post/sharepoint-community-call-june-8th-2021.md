@@ -20,7 +20,9 @@ community recognition for Developers, IT Pros and Makers.  This monthly
 community call happens on the second Tuesday of each month. You can
 download recurrent invite from <https://aka.ms/sp-call>.
 
-**Call Summary:**
+
+## Call Summary
+
 
 Summer break and community call schedule updates reviewed. You are
 invited to join the [Viva Connections private
@@ -62,7 +64,10 @@ modern site scripts and site designs.   9 OOB Communications and Teams
 sites templates to be released in July-August.
  
 
+
 **Actions:**
+
+
 -   Join on the Viva Connections private preview! |
     [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
 -   Register for Sharing is Caring Events:
@@ -94,7 +99,7 @@ sites templates to be released in July-August.
     -- <https://aka.ms/sp-call>.
 You can check the latest updates in the [monthly
 summary](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-june-2021-update/ba-p/2332366) and
-at [aka.ms/spdev-blog](https://developer.microsoft.com/en-us/sharepoint/blogs/).
+at [aka.ms/spdev-blog](https://developer.microsoft.com/sharepoint/blogs/).
 
 This call was delivered on Tuesday, June 8, 2021. The call agenda is
 reflected below with direct links to specific sections.  You can jump
@@ -104,6 +109,7 @@ the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
 
 **Call Agenda:**
+
 -   UserVoice status for non-dev focused SharePoint entries
     -- [12:32](https://youtu.be/Pxfq2i4ys1U?t=752)
 -   UserVoice status for dev focused SharePoint Framework entries
@@ -126,8 +132,9 @@ SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 **Resources:**
 
 Additional resources on covered topics and discussions.
+
 -   Support - [Apply and customize SharePoint site
-    templates](https://support.microsoft.com/en-us/office/apply-and-customize-sharepoint-site-templates-39382463-0e45-4d1b-be27-0e96aeec8398?ui=en-US&rs=en-US&ad=US) 
+    templates](https://support.microsoft.com/office/apply-and-customize-sharepoint-site-templates-39382463-0e45-4d1b-be27-0e96aeec8398?ui=en-US&rs=en-US&ad=US) 
 
 -   Blog Post - [Use SharePoint's new site templates
     today!](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/use-sharepoint-s-new-site-templates-today/ba-p/2304372) 
@@ -165,18 +172,19 @@ Additional resources on covered topics and discussions.
 
 -   Viva Connections <https://aka.ms/VivaConnections> 
 
-**Additional Resources:**
+**Additional resources:**
+
 -   [PnP Weekly - Videos](https://aka.ms/pnpweekly)
 -   [PnP Weekly - Podcasts](http://pnpweekly.podbean.com/)
 -   [M365 Community Documentation](https://aka.ms/m365-community-docs) -
     (non-dev)
 -   [SharePoint Documentation and
-    Guidance](https://docs.microsoft.com/en-us/sharepoint/) -
+    Guidance](https://docs.microsoft.com/sharepoint/) -
     (technical)
 -   [SharePoint Framework
-    v1.11](https://developer.microsoft.com/en-us/sharepoint/blogs/announcing-sharepoint-framework-1-11-extend-more-of-microsoft-teams-and-publish-to-appsource/)
+    v1.11](https://developer.microsoft.com/sharepoint/blogs/announcing-sharepoint-framework-1-11-extend-more-of-microsoft-teams-and-publish-to-appsource/)
 -   [SharePoint Framework v1.11 release
-    notes](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/release-1.11.0)
+    notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.11.0)
 -   [Exploring how to get started on open-source and community
     work?](https://aka.ms/sharing-is-caring)
 -   [SharePoint Starter
@@ -189,7 +197,9 @@ Additional resources on covered topics and discussions.
 -   SharePoint Development UserVoice - new feature requests
     - <http://aka.ms/spdev-uservoice>
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 -   **Office add-in monthly call --** June 9th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
 -   **Adaptive Cards monthly call --** June 10th at 9:00 am PDT |
@@ -200,10 +210,10 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/microsoftteamscommunitycall>
 -   **Power Apps monthly call --** June 16th at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** June 17th at 7:00 am PDT |
+-   **SharePoint Framework call** -- June 17th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** June 17th at 9:00 am PDT |
-    <https://aka.ms/IDDevCommunityCalendar>[ ]
+    <https://aka.ms/IDDevCommunityCalendar>
 \"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
 - <http://aka.ms/m365pnp>.

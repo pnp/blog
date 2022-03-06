@@ -20,7 +20,7 @@ I found some more commands that made me fall in love with it. CLI for
 Microsoft 365 has three main benefits from my point of view:
 
 -   it's platform-agnostic and even works on [Azure Cloud
-    Shell](https://azure.microsoft.com/en-us/features/cloud-shell/?&ef_id=Cj0KCQiAnKeCBhDPARIsAFDTLTIDlnMADqglDP6WLiQ_Yq23PQL7px3W9ElP7bBanGB6762ENh6DzScaAsTxEALw_wcB:G:s&OCID=AID2100049_SEM_Cj0KCQiAnKeCBhDPARIsAFDTLTIDlnMADqglDP6WLiQ_Yq23PQL7px3W9ElP7bBanGB6762ENh6DzScaAsTxEALw_wcB:G:s) so
+    Shell](https://azure.microsoft.com/features/cloud-shell/?&ef_id=Cj0KCQiAnKeCBhDPARIsAFDTLTIDlnMADqglDP6WLiQ_Yq23PQL7px3W9ElP7bBanGB6762ENh6DzScaAsTxEALw_wcB:G:s&OCID=AID2100049_SEM_Cj0KCQiAnKeCBhDPARIsAFDTLTIDlnMADqglDP6WLiQ_Yq23PQL7px3W9ElP7bBanGB6762ENh6DzScaAsTxEALw_wcB:G:s) so
     that every browser can be my admin machine
 -   the syntax is easy and almost intuitive to use for me, although I
     only start to not use the UI for everything I want to manage in my

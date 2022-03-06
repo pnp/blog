@@ -117,8 +117,8 @@ tweet with the Title and URL auf exactly that list item.
 The Parse JSON action can help you turn Outputs from previous actions
 into Dynamic Content which you can then use in your flow. I'd love to
 know what you do with Parse JSON, let me know!
+
 *If you are now hungry because of recipes in the
-list: [ThatKitchenPrincess.com](https://thatkitchenprincess.com/ "my food blog 😋")\
-\
+list: [ThatKitchenPrincess.com](https://thatkitchenprincess.com/ "my food blog 😋")*
 First published on
 [m365princess.com](https://www.m365princess.com "M365Princess.com")

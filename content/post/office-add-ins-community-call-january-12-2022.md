@@ -16,7 +16,9 @@ type: "regular"
 ## {{< image alt="office-add-ins-Thumb Jan 2022.png" src="images/blog/office-add-ins-community-call-january-12-2022/office-add-ins-Thumb Jan 2022.png" >}}
 
 
-## Call Summary 
+
+## Call Summary
+ 
 
 This month's community call features updates on **Excel shortcut
 customization APIs** (introducing 3 new APIs to assist with keyboard
@@ -70,7 +72,9 @@ Alex Jerabek (Microsoft). Recorded January 12, 2022.
 -   Register for the [PnP Recognition
     Program](https://aka.ms/m365pnp-recognition).
 
+
 ## Q&A (Question & Answers) 
+
 
 **Will shortcut key APIs be available on all hosts?**\
 Shortcut key APIs are only available on Excel right now. We don't have
@@ -168,7 +172,7 @@ Overflow.
     users
     (preview)](https://docs.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts#enable-custom-keyboard-shortcuts-for-specific-users-preview) 
 -   Feedback Repo -- [Issues --
-    OfficeDev/Office-js](https://github.com/OfficeDev/office-js/issues)[ ]{style="color: inherit; font-family: inherit; font-size: 18px;"}
+    OfficeDev/Office-js](https://github.com/OfficeDev/office-js/issues){style="color: inherit; font-family: inherit; font-size: 18px;"}
 
 ### SSO Update for Office Add-in 
 

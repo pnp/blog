@@ -103,7 +103,6 @@ me.
 ## See it in Action
 
 
-## See it in Action 
 Here I have an incoming email from the Xerox mailbox. I've been sent me
 an attachment from the Xerox Mailbox. This will trigger my flow.
 

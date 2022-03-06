@@ -73,6 +73,7 @@ After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
     code .
 Now we will install the following packages:
+
 ```bash
     npm i formik
     npm i yup

@@ -16,6 +16,7 @@ project.
 
 Listen to the show here: 
 [(m365devpodcast.com)](https://www.m365devpodcast.com/e/yo-teams-generator-update-with-wictor-wilen/)
+
 ## Links from the show 
 
 -   [PnP Teams QuickStart: Build your Teams application with no install

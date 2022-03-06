@@ -17,7 +17,8 @@ C#*.
 Listen to the show here: [Code Like a Pro in C# with Jort Rodenburg
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/microsoft-graph-connectors-with-brian-t-jackett) 
 
-## Links from the show: 
+
+## Links from the show
 
 [Code like a Pro in
 C#](https://www.manning.com/books/code-like-a-pro-in-c-sharp)
@@ -36,13 +37,13 @@ LinkedIn](https://www.linkedin.com/in/jort-rodenburg/)
 
 -   [Explore new change notification API resources for your Microsoft
     Teams
-    app](https://developer.microsoft.com/en-us/graph/blogs/explore-new-change-notification-api-resources-for-your-microsoft-teams-app/)
+    app](https://developer.microsoft.com/graph/blogs/explore-new-change-notification-api-resources-for-your-microsoft-teams-app/)
 -   [Attention: breaking changes coming to the Microsoft Graph
     userPurpose API
-    (beta)](https://developer.microsoft.com/en-us/graph/blogs/attention-breaking-changes-coming-to-the-microsoft-graph-userpurpose-api-beta/)
+    (beta)](https://developer.microsoft.com/graph/blogs/attention-breaking-changes-coming-to-the-microsoft-graph-userpurpose-api-beta/)
 -   [Manage frontline workers in Microsoft Teams with Tags and Time
     Clock
-    APIs](https://developer.microsoft.com/en-us/graph/blogs/manage-frontline-workers-in-microsoft-teams-with-tags-and-time-clock-apis/)
+    APIs](https://developer.microsoft.com/graph/blogs/manage-frontline-workers-in-microsoft-teams-with-tags-and-time-clock-apis/)
 -   [Announcing developer preview of the Microsoft Federated Search
     Platform](https://techcommunity.microsoft.com/t5/microsoft-search-blog/announcing-developer-preview-of-the-microsoft-federated-search/ba-p/2480763)
 -   [What Windows 11 Means for

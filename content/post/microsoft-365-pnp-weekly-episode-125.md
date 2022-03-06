@@ -38,8 +38,9 @@ inclusive and diverse.
  
 
 This episode was recorded on Monday, May 3, 2021.
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 These videos and podcasts are published each week and are intended to be
@@ -55,6 +56,7 @@ Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
 **Events:**
+
 -   May 4, 2021 - [Microsoft Business Applications Summit
     (MBAS)](https://www.register.mbas.microsoft.com/) - Digital Event
 -   May 25-27, 2021- [Microsoft Build
@@ -66,6 +68,7 @@ everyone for your contributions to the community!
 
 
 **Microsoft articles:**
+
 -   [What's New in Microsoft Teams | April
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2021/ba-p/2305291?WT.mc_id=m365-27094-wmastyka) -
     Microsoft
@@ -82,19 +85,20 @@ everyone for your contributions to the community!
     | \@mkashman
 -   [Announcing SharePoint Framework 1.12.1 -- Extending more of
     Microsoft
-    Teams](https://developer.microsoft.com/en-us/microsoft-365/blogs/announcing-sharepoint-framework-1-12-1-extending-more-of-microsoft-teams/?WT.mc_id=m365-27094-wmastyka) -
+    Teams](https://developer.microsoft.com/microsoft-365/blogs/announcing-sharepoint-framework-1-12-1-extending-more-of-microsoft-teams/?WT.mc_id=m365-27094-wmastyka) -
     [SharePoint team](https://twitter.com/sharepoint) | \@SharePoint
 -   [Learn how to develop apps with the Microsoft Graph
-    Toolkit](https://developer.microsoft.com/en-us/microsoft-365/blogs/learn-how-to-develop-apps-with-the-microsoft-graph-toolkit/?WT.mc_id=m365-27094-wmastyka) -
+    Toolkit](https://developer.microsoft.com/microsoft-365/blogs/learn-how-to-develop-apps-with-the-microsoft-graph-toolkit/?WT.mc_id=m365-27094-wmastyka) -
     Microsoft
 -   [Updates to Organizational Theming in Microsoft 365 admin
     center](https://techcommunity.microsoft.com/t5/microsoft-365-blog/updates-to-organizational-theming-in-microsoft-365-admin-center/ba-p/2270839?WT.mc_id=m365-27094-wmastyka) -
     Maha Alam (Microsoft)
 
 **Community articles:**
+
 -   [Microsoft Graph Mailbag -- Create engaging apps with the Microsoft
     Teams Activity Feed
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-mailbag-create-engaging-apps-with-the-microsoft-teams-activity-feed-api/?WT.mc_id=m365-27094-wmastyka)
+    API](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-mailbag-create-engaging-apps-with-the-microsoft-teams-activity-feed-api/?WT.mc_id=m365-27094-wmastyka)
     - [Sébastien Levert](https://twitter.com/sebastienlevert)
     (Microsoft)
     | [sebastienlevert](https://github.com/sebastienlevert)
@@ -160,8 +164,9 @@ everyone for your contributions to the community!
     | \@waldekm
 
 **Additional resources:**
--   [Maturity Model for Microsoft
-    365](https://docs.microsoft.com/en-us/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
+
+
+-   [Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
 -   [Power Platform Sample
     Gallery](https://aka.ms/powerplatform-samples) - for finding easily
     samples from the GitHub - contributions from the community are

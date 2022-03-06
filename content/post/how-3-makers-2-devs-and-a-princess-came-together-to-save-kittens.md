@@ -301,7 +301,7 @@ resource, we were able to create a custom connector in Power Automate
 and query for the nearest petrol stations to the longitude and latitude
 when the Flic button was pressed.
 
-## Bring me the vibes - The Spotify connector(Yannick) 
+## Bring me the vibes - The Spotify connector (Yannick) 
 
 We like to celebrate victories and help each other in times of need, and
 what better way than use music for this? We have a sound system in the
@@ -418,4 +418,3 @@ share. All of us are developers, and you can be one too.
 
 
 {{< image alt="NZ6_5087-focus (2).jpg" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/NZ6_5087-focus (2).jpg" >}}
-

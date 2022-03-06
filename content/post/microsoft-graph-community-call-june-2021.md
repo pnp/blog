@@ -11,69 +11,6 @@ type: "regular"
 
 ---
 
-::: {.dropdown .dropdown-events .dropdown-primary-nav}
--   [Events Home](/t5/Events/ct-p/Events)
--   [Microsoft Ignite](https://myignite.microsoft.com/)
--   [Microsoft Build](https://mybuild.microsoft.com/)
--   [Community Events](/t5/Community-Events/ct-p/CommunityEvents)
-:::
-:::
-
-::: {.community-menu-item .tab-microsoft-learning .community-menu-dropdown}
-[](#){.community-menu-item-desktop-view}
-
-::: {.grad .community-menu-item-icon}
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Microsoft Learn
-:::
-
-[](#){.community-menu-item-mobile-view}
-
-::: {.grad .community-menu-item-icon}
-:::
-
-::: community-menu-item-title-with-dropdownicon
-Microsoft Learn
-:::
-
-::: {.dropdown .dropdown-events .dropdown-primary-nav}
--   [Home](%20https://docs.microsoft.com/learn/){.ms-learning-home-link
-    .community-menu-item-title}
--   [Community](/t5/microsoft-learn/bd-p/MicrosoftLearn)
--   [Blog](/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)
--   [Azure](https://docs.microsoft.com/learn/azure/?WT.mc_id=techcom_header-webpage-m365)
--   [Dynamics
-    365](https://docs.microsoft.com/learn/dynamics365/?WT.mc_id=techcom_header-webpage-m365)
--   [Microsoft
-    365](https://docs.microsoft.com/learn/m365/?wt.mc_id=techcom_header-webpage-m365)
--   [Security, Compliance &
-    Identity](https://docs.microsoft.com/learn/topics/sci/?wt.mc_id=techcom_header-webpage-m365)
--   [Power
-    Platform](https://docs.microsoft.com/learn/powerplatform/?wt.mc_id=techcom_header-webpage-powerplatform)
--   [GitHub](https://docs.microsoft.com/learn/github/?wt.mc_id=techcom_header-webpage-github)
--   [Teams](https://docs.microsoft.com/learn/teams/?wt.mc_id=techcom_header-webpage-teams)
--   [.NET](https://docs.microsoft.com/learn/dotnet/?wt.mc_id=techcom_header-webpage-dotnet)
-:::
-:::
-
-::: {.community-menu-item .tab-info-center}
-[](/t5/Community-Info-Center/ct-p/Community-Info-Center){.community-menu-item-desktop-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
-
-::: community-menu-item-title
-Lounge
-:::
-
-[](/t5/Community-Info-Center/ct-p/Community-Info-Center){.community-menu-item-mobile-view}
-
-::: {.c-glyph .community-menu-item-icon}
-
-:::
 
 ![Microsoft Graph THumbnail - June
 2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285511i65B8ACEEF6F49B52/image-size/large?v=v2&px=999 "Microsoft Graph THumbnail - June 2021.png")
@@ -122,7 +59,10 @@ establishing the data pipeline connection between the Microsoft 365
 dataset and storage account.  Once the pipeline is setup, define source
 and sink, trigger the sync and use Power BI to display data insights.   
 
+
 **Actions:**
+
+
 
 -   Interested in Presenting during this call?  
     Contact <Brian.Jackett@microsoft.com> or <Jeremy.Thake@microsoft.com>
@@ -136,10 +76,10 @@ and sink, trigger the sync and use Power BI to display data insights.   
 From demos:
 
 -   Documentation - [Create
-    educationAssignment](https://docs.microsoft.com/en-us/graph/api/educationclass-post-assignments?view=graph-rest-beta) 
+    educationAssignment](https://docs.microsoft.com/graph/api/educationclass-post-assignments?view=graph-rest-beta) 
 
 -   Documentation -- [educationAssignment
-    API](https://docs.microsoft.com/en-us/graph/api/resources/educationassignment?view=graph-rest-beta) 
+    API](https://docs.microsoft.com/graph/api/resources/educationassignment?view=graph-rest-beta) 
 
 -   VSCode Extension - [MS Graph
     Completion](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-msgraph-autocomplete) 
@@ -148,10 +88,10 @@ From demos:
     Essentials](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-msgraph-essentials) 
 
 -   Web - [Microsoft Graph Data
-    Connect](https://azure.microsoft.com/en-us/services/graph-data-connect/) 
+    Connect](https://azure.microsoft.com/services/graph-data-connect/) 
 
 -   Documentation - [Overview of Microsoft Graph Data
-    Connect](https://docs.microsoft.com/en-us/graph/data-connect-concept-overview) 
+    Connect](https://docs.microsoft.com/graph/data-connect-concept-overview) 
 
  
 
@@ -206,7 +146,7 @@ From demos:
 -   Repo - [Microsoft Graph Toolkit
     v2.1](https://github.com/microsoftgraph/microsoft-graph-toolkit) | <https://aka.ms/mgt>  
 -   Documentation -- [Microsoft Graph Toolkit
-    Overview](https://docs.microsoft.com/en-us/graph/toolkit/overview) | <https://aka.ms/mgt-docs>
+    Overview](https://docs.microsoft.com/graph/toolkit/overview) | <https://aka.ms/mgt-docs>
 -   Playground -- [Microsoft Graph Toolkit
     Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple) | [https://mgt.dev](https://mgt.dev/)
 

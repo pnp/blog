@@ -281,7 +281,7 @@ original repository, which is why you want to add an upstream to it:
     should see this output:
 
 
-```
+```git
     origin https://github.com/<YOUR ACCOUNT HERE>/<REPOSITORY NAME>.git (fetch)
     origin https://github.com/<YOUR ACCOUNT HERE>/<REPOSITORY NAME>.git (push)
     upstream https://github.com/<ORIGINAL ACCOUNT HERE>/<REPOSITORY NAME> (fetch)
@@ -336,4 +336,5 @@ this article should only get you started, not replace reading the docs.
 Open-source is fun and very rewarding and I hope that this article made
 your start a little bit easier! Please reach out if you have questions,
 comments, or want to connect.
+
 Sharing is Caring

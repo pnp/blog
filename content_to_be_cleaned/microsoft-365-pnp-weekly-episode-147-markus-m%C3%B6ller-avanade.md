@@ -55,8 +55,9 @@ Monday, December 13, 2021.   Enjoy the show. 
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -75,6 +76,7 @@ Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
 **Microsoft articles:**
+
 
 -   [Explore the new Microsoft Teams Store and discover apps for work
     and
@@ -105,6 +107,7 @@ everyone for your contributions to the community!
 
 **Community articles:**
 
+
 -   [Adoption with
     fun](https://regarding365.com/adoption-with-fun-76a8494b236d)
     - [Robert Crane](https://twitter.com/directorcia) | \@directorcia
@@ -126,8 +129,9 @@ everyone for your contributions to the community!
 
 **Additional resources:**
 
+
 -   [Extend Microsoft Viva
-    Connections](https://docs.microsoft.com/en-us/learn/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa) -
+    Connections](https://docs.microsoft.com/learn/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa) -
     Microsoft Learn
 -   [Consume a multi-tenant API within a set of Microsoft Viva
     Connections Adaptive Card Extensions

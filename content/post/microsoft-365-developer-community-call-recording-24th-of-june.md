@@ -12,12 +12,13 @@ type: "regular"
 
 ---
 
-Recording of the Microsoft 365 -- General M365 development Special
-Interest Group (SIG) community call from June 24, 2021.
+
 {{< image alt="sig-recording-24th-june.png" src="images/blog/microsoft-365-developer-community-call-recording-24th-of-june/sig-recording-24th-june.png" >}}
  
 
-## Call summary
+
+## Call Summary
+
 
 Summer break and community call schedule updates reviewed. Preview the
 new [Microsoft 365 Extensibility look book
@@ -52,7 +53,8 @@ Systems) | \@DavidWarnerII.  Q&A takes place in chat throughout the
 call.
 
 
--   **Register for Sharing is Caring Events**:\
+-   **Register for Sharing is Caring Events**:
+\
     -   First Time Contributor Session -- [June
         29th](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u)
         (EMEA, APAC & US friendly times available)
@@ -87,6 +89,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 {{< image alt="210624-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-24th-of-june/210624-together-mode.gif" >}}
 Thank you for joining for today's PnP Community call.   It's a full
 house!   
+
 **Demos** delivered in this session
 
 -   **Getting started with PnP Teams QuickStart** -- create a Teams SSO
@@ -160,16 +163,16 @@ slides.
     [teams-quickstart](https://aka.ms/pnp-teams-quickstart) 
 
 -   Documentation - [Publish your app to the Microsoft Teams
-    store](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish) 
+    store](https://docs.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish) 
 
 -   Documentation - [Commercial marketplace certification
-    policies](https://docs.microsoft.com/en-us/legal/marketplace/certification-policies) 
+    policies](https://docs.microsoft.com/legal/marketplace/certification-policies) 
 
--   App --
-    [TagTeam](https://appsource.microsoft.com/en-us/product/office/WA200002829) 
+-   App
+    [TagTeam](https://appsource.microsoft.com/product/office/WA200002829) 
 
 -   Documentation - [teamworkTag resource
-    type](https://docs.microsoft.com/en-us/graph/api/resources/teamworktag?view=graph-rest-beta) 
+    type](https://docs.microsoft.com/graph/api/resources/teamworktag?view=graph-rest-beta) 
 
 -   PnP Weekly -- Episode 132 with Seattle-based Program Manager from
     OneDrive and SharePoint (ODSP) engineering - [Nicole
@@ -192,6 +195,7 @@ slides.
 -   [Microsoft Teams Samples
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
+
 **General resources**:
 
 -   Microsoft Teams Toolkit v2.2 | <https://aka.ms/teams-toolkit>
@@ -205,7 +209,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -230,7 +234,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -239,13 +243,16 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
+
 -   **SharePoint Framework call** **--** July 1st at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Office add-in monthly call --** July 14th at 8:00 am PDT |

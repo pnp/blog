@@ -18,7 +18,8 @@ Christos Mastkas returns to the show to talk with Jeremy and Paul about
 Listen to the show here:  [Secretless Apps with Christos Matskas
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/secretless-apps-with-christos-mastkas/)
 
-## Links from the show: 
+
+## Links from the show
 
 -   <https://dev.to/425show>
 -   [Secure APIs using Node.js, Azure AD, Cosmos DB and the Azure
@@ -28,11 +29,11 @@ Listen to the show here:  [Secretless Apps with Christos Matskas
 
 -   [Microsoft Graph Mailbag -- Create engaging apps with the Microsoft
     Teams Activity Feed
-    API](https://developer.microsoft.com/en-us/graph/blogs/microsoft-graph-mailbag-create-engaging-apps-with-the-microsoft-teams-activity-feed-api/)
+    API](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-create-engaging-apps-with-the-microsoft-teams-activity-feed-api/)
 -   [Utilize change notification APIs for Microsoft Teams
-    messages](https://developer.microsoft.com/en-us/graph/blogs/utilize-change-notification-apis-for-microsoft-teams-messages/)
+    messages](https://developer.microsoft.com/graph/blogs/utilize-change-notification-apis-for-microsoft-teams-messages/)
 -   [Beyond Calibri: Finding Microsoft's next default
-    font](https://www.microsoft.com/en-us/microsoft-365/blog/2021/04/28/beyond-calibri-finding-microsofts-next-default-font/)
+    font](https://www.microsoft.com/microsoft-365/blog/2021/04/28/beyond-calibri-finding-microsofts-next-default-font/)
 
 ## Community Links 
 

@@ -39,14 +39,14 @@ Let's Begin,
 Below Artifacts are going to be used,
 
 -   [SharePoint communication
-    Site](https://support.microsoft.com/en-us/office/create-a-communication-site-in-sharepoint-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)
+    Site](https://support.microsoft.com/office/create-a-communication-site-in-sharepoint-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)
 -   [SharePoint Framework
-    (SPFx)](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
+    (SPFx)](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
 -   [Application
-    Customizer](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/using-page-placeholder-with-extensions)
+    Customizer](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/using-page-placeholder-with-extensions)
 -   [PnP Taxonomy](https://pnp.github.io/pnpjs/sp/taxonomy/)
 -   [Fluent Ui Command
-    Bar](https://developer.microsoft.com/en-us/fluentui#/controls/web/commandbar)
+    Bar](https://developer.microsoft.com/fluentui#/controls/web/commandbar)
 
 ## Steps 
 
@@ -62,7 +62,7 @@ Below Artifacts are going to be used,
 **Step 1 - Configure Terms in Term Store.**
 
 Go to URL
-: https://\<TenantName>-admin.sharepoint.com/\_layouts/15/online/AdminHome.aspx#/termStoreAdminCenter
+: `https://\<TenantName>-admin.sharepoint.com/\_layouts/15/online/AdminHome.aspx#/termStoreAdminCenter`
 
 Create Term Group.
 
@@ -88,28 +88,37 @@ message.
 
 Open Code in visual studio code by typing below one line code in node
 command prompt.
+
 ```powershell
 C:\Demo\GlobalNavigation>code .
 ```
+
 The solution structure looks like the ad below.
 {{< image alt="GV3.jpg" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV3.jpg" >}}
 
 ## Step 3 - Import required packages from npm
 
 Install PnP npm package,
+
 ```javascript
 npm install @pnp/sp
 ```
+
 Install React Fluent UI Package,\
+
 ```javascript
 npm install @fluentui/react
 ```
+
 Install react and react Dom and Its Dev Dependencies.
+
 ```javascript
 npm install react@16.9.0 --save
 npm install react-dom@16.9.0 --save
 ```
+
 Open package.json file which should look like as below.
+
 ```json
 {
   "name": "sample-demo-application",
@@ -159,14 +168,18 @@ Create 3 files inside the components folder.
 3.  IGlobalNavState.ts
 
 {{< image alt="GV4.jpg" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV4.jpg" >}}
+
 Add below code to IGlobalNavProps.ts,
+
 ```javascript
 export interface IGlobalNavProps {
     termGroupId:string;
     termSetId: string;
 }
 ```
-Add below code to IGlobalNavState.ts,\
+
+Add below code to IGlobalNavState.ts,
+
 ```javascript
 import { IOrderedTermInfo } from '@pnp/sp/taxonomy';
 export interface IGobalNavState {
@@ -174,7 +187,9 @@ export interface IGobalNavState {
     terms: IOrderedTermInfo[];
 }
 ```
-Add below code to IGlobalNav.tsx,\
+
+Add below code to IGlobalNav.tsx,
+
 ```javascript
 import * as React from 'react';
 import { IGlobalNavProps } from "./IGlobalNavProps";
@@ -206,8 +221,8 @@ export default class GlobalNav extends React.Component<IGlobalNavProps, IGobalNa
 Open GobalNavigationBarApplicationCustomizer.ts file and add the below
 code.
 
-**GobalNavigationBarApplicationCustomizer.ts\
-**
+**GobalNavigationBarApplicationCustomizer.ts**
+
 ```javascript
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
@@ -300,6 +315,7 @@ Open GlobalNav.tsx file and do the below changes.
 **GlobalNav.tsx**
 
 Add below references to the file.
+
 ```javascript
 import { sp } from "@pnp/sp";
 import "@pnp/sp/taxonomy";
@@ -308,7 +324,9 @@ import { IOrderedTermInfo } from '@pnp/sp/taxonomy';
 
 const myKey: string = "navigationElements";
 ```
+
 Update below code to **GlobalNav.tsx.**
+
 ```javascript
 private store = new PnPClientStorage();
    constructor(props: IGlobalNavProps) {
@@ -319,7 +337,9 @@ private store = new PnPClientStorage();
        }
    }
 ```
-Update componentdidmount() method with below code in **GlobalNav.tsx.**\
+
+Update componentdidmount() method with below code in **GlobalNav.tsx.**
+
 ```javascript
 public componentDidMount() {
         this.setState({}, async () => {
@@ -339,6 +359,7 @@ public componentDidMount() {
 Open **GlobalNav.tsx **file.
 
 Add below code before default class.
+
 ```javascript
 import { IButtonStyles } from '@fluentui/react';
 import { createTheme, ITheme } from 'office-ui-fabric-react/lib/Styling';
@@ -364,6 +385,7 @@ const buttonStyle: IButtonStyles = {
 ```
 
 Create new method menuItems() in **GlobalNav.tsx **file.
+
 ```javascript
 private menuItems(menuItem: any, itemType: ContextualMenuItemType) {
         return ({
@@ -382,9 +404,13 @@ private menuItems(menuItem: any, itemType: ContextualMenuItemType) {
             buttonStyles: buttonStyle
         });
     }
+
 ```
+
 Update render() method in GlobalNav.tsx file.
+
 ```javascript
+
 public render(): React.ReactElement<IGlobalNavProps> {
         var commandBarItems: any[] = [];
         if (this.state.terms.length > 0) {
@@ -414,6 +440,7 @@ public render(): React.ReactElement<IGlobalNavProps> {
 Open "../config/serve.json" file and update a couple of properties.
 
 Update pageUrl Property and Properties,
+
 ```javascript
 {
   "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
@@ -447,20 +474,26 @@ Update pageUrl Property and Properties,
   }
 }
 ```
+
 Run below command in Visual Studio Code Terminal.
+
 ```javascript
 gulp clean
 gulp build
 gulp serve --config:"gobalNavigationBar"
 ```
+
 {{< image alt="Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png" >}}
+
 Copy URL which is highlighted in yellow and paste it into the browser.
+
 {{< image alt="Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif" >}}
+
 
 ## Conclusion 
 
 We have implemented the SPFx solution and get terms from the term store
 using PnP and render items in the command bar which is fluent UI
 control.
-\
+
 Happy Coding

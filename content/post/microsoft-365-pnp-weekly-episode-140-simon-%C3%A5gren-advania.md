@@ -69,8 +69,9 @@ rooms on Monday, October 25, 2021.
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -95,6 +96,7 @@ everyone for your contributions to the community!
 
 **Microsoft articles:**
 
+
  
 
 -   [Manage your Microsoft Teams apps with the Developer
@@ -113,6 +115,7 @@ everyone for your contributions to the community!
  
 
 **Community articles:**
+
 
  
 
@@ -164,6 +167,7 @@ everyone for your contributions to the community!
  
 
 **Additional resources:**
+
 
  
 

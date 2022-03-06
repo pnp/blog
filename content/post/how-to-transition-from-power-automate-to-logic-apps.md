@@ -13,7 +13,6 @@ type: "regular"
 
 ## Introduction 
 
-
 Hello, are you looking to understand the differences between Power
 Automate and Azure Logic Apps -- or not sure what each of these does and
 when to use them? Well, you have come to the right place. Let's go
@@ -40,16 +39,16 @@ Both have:
 -   Connectors -- provide the connections to a wide range of services
     such as Office 365, Power Apps, Azure, are many more, [see this
     reference for the full range of
-    connectors](https://docs.microsoft.com/en-us/connectors/connector-reference?WT.mc_id=AZ-MVP-5003816)
+    connectors](https://docs.microsoft.com/connectors/connector-reference?WT.mc_id=AZ-MVP-5003816)
     ß this resource is pretty cool as you can filter based on which
     product you are using.
 
-##  What are the use cases for each product? 
+## What are the use cases for each product? 
 
-\
 You may be asking yourself, why are there two similar products that
 seemingly do the same thing - which the answer sits in how they are
 used. So, the primary difference between the two is:
+
 -   Power Automate resides with the Office 365 suite providing an
     end-user focused experience to allow users to build flows without
     the complexity of development knowledge to achieve the goal they
@@ -60,8 +59,7 @@ used. So, the primary difference between the two is:
     integrate with related Azure resources.
 This leads to functionality and focuses on the features that support
 these features, providing unique capabilities in each product that are
-not shared between them. For example,\
-\
+not shared between them. For example,
 
 -   The security controls differ between them such as 
 -   Triggers are not the same
@@ -70,10 +68,10 @@ not shared between them. For example,\
 
 For more detail on comparing the two, check out the section [Compare
 Microsoft Power Automate and Azure Logic
-Apps](https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs#compare-microsoft-power-automate-and-azure-logic-apps?WT.mc_id=AZ-MVP-5003816)
+Apps](https://docs.microsoft.com/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs#compare-microsoft-power-automate-and-azure-logic-apps?WT.mc_id=AZ-MVP-5003816)
 in the documentation.
 
-##  Transitioning from Power Automate to Logic Apps 
+## Transitioning from Power Automate to Logic Apps 
 
 So, let's see moving a Flow from Power Automate to Logic Apps. In this
 scenario, in Power Automate, a Flow has been created to trigger when a
@@ -96,7 +94,7 @@ German - [Introduction to
 JSON](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369).
 Using the ARM template, you can go to Azure
 (<https://portal.azure.com>), note - this will require an [Azure
-Subscription](https://azure.microsoft.com/en-us/pricing?WT.mc_id=AZ-MVP-5003816).
+Subscription](https://azure.microsoft.com/pricing?WT.mc_id=AZ-MVP-5003816).
 Search for "custom template" then find the option to "Deploy a custom
 template" as shown below:
 
@@ -119,7 +117,7 @@ Whilst this is not the full instructions for performing the import, if
 you want to see the full process of importing the Flow, visit the
 article titled [Export Flows from Power Automate and deploy to Azure
 Logic
-Apps](https://docs.microsoft.com/en-us/azure/logic-apps/export-from-microsoft-flow-logic-app-template?WT.mc_id=AZ-MVP-5003816).
+Apps](https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template?WT.mc_id=AZ-MVP-5003816).
 
 ## Why would you transition from Power Automate to Logic Apps?
 
@@ -162,6 +160,7 @@ first time:
 Whilst there is a lot to consider when looking at your Flow, you can
 rule out elements that do not apply, removing the noise from any
 decision.
+
 ## What are the licensing implications? 
 
 Whilst this is not a licensing guide, this model does change as you move
@@ -173,10 +172,10 @@ differences between the two services:
   Charged By    Office 365 plan, Per User Plan, Per Flow plan                                                                                                                         Azure Subscription
   Cost change   Predictable cost each month or year -- subscribe to a plan                                                                                                            Consumption-based -- pay for what you use
   Connectors    Shown as Standard or Premium, Premium requires plan elevation from Office 365 plan.                                                                                   Standard or Enterprise Connector executions
-  Other costs   Standard cost model with an option to add connectors that require additional licensing such as [Adobe Sign](https://docs.microsoft.com/en-us/connectors/adobesign/)   You can add services to the Logic Apps such as App Insights, Log Analytics that increases the cost profile.
+  Other costs   Standard cost model with an option to add connectors that require additional licensing such as 
+  [Adobe Sign](https://docs.microsoft.com/connectors/adobesign/)   You can add services to the Logic Apps such as App Insights, Log Analytics that increases the cost profile.
   ------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------
 
-\
 When considering a change, ensure that the target service is configured
 appropriately and that you have done estimates based on the connectors
 used, number of actions, and executions per month to ensure there are no
@@ -188,11 +187,12 @@ which allow you to set up an alerting period, e.g. monthly that send
 notifications if the costings go over a budget, allowing you to assess
 the resource and optimise -- but to note this isn't a cap.
 {{< image alt="Azure Resource Group with the Budget settings screen" src="images/blog/how-to-transition-from-power-automate-to-logic-apps/Azure Budget.jpg" >}}
+
 Azure Logic apps also have the option of Integrated Service
 Environments, whilst they provide access to dedicated Azure resources,
 the cost does go up accordingly. Check out the
 
-[calculator](https://azure.microsoft.com/en-gb/pricing/calculator?WT.mc_id=AZ-MVP-5003816)
+[calculator](https://azure.microsoft.com/pricing/calculator?WT.mc_id=AZ-MVP-5003816)
 
 to understand the costs before proceeding.
 
@@ -201,14 +201,15 @@ to understand the costs before proceeding.
 If you want to learn more about Power Automate, Logic Apps or the
 comparison, here are a list of additional resources that you can use to
 explore the technologies further:
+
 -   Microsoft Learn - [Build automated workflows to integrate data and
     apps with Azure Logic Apps - Learn | Microsoft
-    Docs](https://docs.microsoft.com/en-us/learn/paths/build-workflows-with-logic-apps?WT.mc_id=AZ-MVP-5003816)
+    Docs](https://docs.microsoft.com/learn/paths/build-workflows-with-logic-apps?WT.mc_id=AZ-MVP-5003816)
 -   Microsoft Learn - [Browse all Power Automate Modules in Microsoft
     Learn | Microsoft
-    Docs](https://docs.microsoft.com/en-us/learn/browse/?products=power-platform&terms=Flow&WT.mc_id=AZ-MVP-5003816)
+    Docs](https://docs.microsoft.com/learn/browse/?products=power-platform&terms=Flow&WT.mc_id=AZ-MVP-5003816)
 -   M365 Community Docs - [Power Automate vs Logic Apps | Microsoft
-    Docs](https://docs.microsoft.com/en-us/microsoft-365/community/power-automate-vs-logic-apps?WT.mc_id=AZ-MVP-5003816)
+    Docs](https://docs.microsoft.com/microsoft-365/community/power-automate-vs-logic-apps?WT.mc_id=AZ-MVP-5003816)
 -   Example Teams App Templates using Logic Apps and Power Automate -
     [OfficeDev/microsoft-teams-apps-requestateam: Power Apps solution
     that automates the team creation

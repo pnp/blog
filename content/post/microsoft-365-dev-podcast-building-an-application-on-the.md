@@ -18,7 +18,8 @@ Startups program.
 Listen to the show here: 
 [(m365devpodcast.com)](https://www.m365devpodcast.com/e/building-an-application-on-the-microsoft-365-platform-with-elio-struyf/) 
 
-## Links from the show: 
+
+## Links from the show
 
 -   [Squarl](https://squarl.com/)
 -   [VSCode: MS Graph
@@ -33,10 +34,10 @@ Listen to the show here: 
     .NET](https://devblogs.microsoft.com/visualstudio/build-apps-for-microsoft-teams-with-net/)
 -   [Improved API support for working with files in the SharePoint
     recycle
-    bin](https://developer.microsoft.com/en-us/graph/blogs/improved-api-support-for-working-with-files-in-the-sharepoint-recycle-bin/)
+    bin](https://developer.microsoft.com/graph/blogs/improved-api-support-for-working-with-files-in-the-sharepoint-recycle-bin/)
 -   [Raise the bar for your app security -- Get Microsoft 365
     Certification by passing these security
-    cont\...](https://developer.microsoft.com/en-us/graph/blogs/raise-the-bar-for-your-app-security-get-microsoft-365-certification-by-passing-these-security-controls/)
+    cont\...](https://developer.microsoft.com/graph/blogs/raise-the-bar-for-your-app-security-get-microsoft-365-certification-by-passing-these-security-controls/)
 
 ## Community Links 
 

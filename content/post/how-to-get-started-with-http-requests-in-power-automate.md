@@ -126,7 +126,7 @@ understand them.
 ### What do we need to make a successful HTTP request? 
 
 It is a very good idea to open documentation
-on [docs.microsoft.com](https://docs.microsoft.com/en-us/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0) while
+on [docs.microsoft.com](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0) while
 building your flows that call Microsoft Graph. You will find in nearly
 all pages four things, that we need to consider when doing an HTTP
 request:
@@ -143,6 +143,7 @@ this: `https://graph.microsoft.com/v1.0/{resource}?[query_parameters]` and
 we will later
 use `https://graph.microsoft.com/v1.0/teams/{team-id}/channels/{channel-id}/tabs` to
 create this tab.
+
 #### Method 
 
 Second thing we need to know is which method we want to use. As already
@@ -180,17 +181,20 @@ information in the body, as they will only list the requested resources.
 ### Fill in the HTTP action 
 
 If we carefully follow
-the [Docs](https://docs.microsoft.com/en-us/graph/teams-configuring-builtin-tabs),
+the [Docs](https://docs.microsoft.com/graph/teams-configuring-builtin-tabs),
 we will see that we should do this:
 
 `POST https://graph.microsoft.com/v1.0/teams/{team-id}/channels/{channel-id}/tabs`
 
-```
-{ "displayNam": "M365Princess Blog",
+```JSON
+{ "displayName": "M365Princess Blog",
 "teamsApp@odata.bind" :"https://graph.microsoft.com/v1.0/appCatalogs/teamsApps/com.microsoft.teamspace.tab.web",
 "configuration":
- {"contentUrl": "https://m365princess.com",
-"websiteUrl": "https://m365princess.com" } }
+ {
+    "contentUrl": "https://m365princess.com",
+    "websiteUrl": "https://m365princess.com" 
+    }
+}
 ```
 
 Some remarks on that:
@@ -230,7 +234,7 @@ We will follow these steps to register an app in Azure AD:
 -   Save tenant ID and Client(app) ID somewhere (notepad or similar)
 -   Click **API PERMISSIONS** and select **Microsoft Graph**
 -   Now look up the permissions needed for this action: [Add tabs to a
-    channel](https://docs.microsoft.com/en-us/graph/api/channel-post-tabs?view=graph-rest-1.0)
+    channel](https://docs.microsoft.com/graph/api/channel-post-tabs?view=graph-rest-1.0)
 
   Permission type  Permissions (from least to most privileged)
  
@@ -280,7 +284,7 @@ Teams:
 we can spot our freshly created tab with the the content we wanted to
 provide!
 
-##  Conclusion 
+## Conclusion 
 
 HTTP requests re a super coo method to achieve a lot of things that are
 not actions in Power Automate, but can still be executed using Microsoft
@@ -289,4 +293,4 @@ Graph (or other APIs!).
 What are you using HTTP requests for?\
 \
 *First published
-on [m365princess.com](https://www.m365princess.com "m365princess.com") *
+on [m365princess.com](https://www.m365princess.com "m365princess.com")*

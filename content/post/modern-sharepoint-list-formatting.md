@@ -193,4 +193,4 @@ PS: Did you like this post? [I wrote even more about list
 formatting](https://m365princess.com/how-we-use-sharepoint-list-formatting-and-power-automate-at-pyod-to-ease-our-marketing/)
 
 
-*First published on [m365princess.com](https://m365princess.com) *
+*First published on [m365princess.com](https://m365princess.com)*

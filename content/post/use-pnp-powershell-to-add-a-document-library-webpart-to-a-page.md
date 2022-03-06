@@ -25,14 +25,14 @@ any examples of. The idea of this blog post is to help future people
 like me to just copy/paste the code.
  
 
-# The goal 
+## The goal 
 
 We started with a document library containing 86 folders, each having a
 few documents. The goal was to create 86 pages, with each page showing a
 block of text on the left and the document library web part showing only
 the files from that folder.
 
-# How to do this in the user interface 
+## How to do this in the user interface 
 
 Using the user interface, following steps were required:
 
@@ -50,7 +50,7 @@ Using the user interface, following steps were required:
 That would definitely be a lot of work to do manually, so I decided that
 PnP PowerShell needed to come to the rescue.
 
-# The code 
+## The code 
 
 Lets dig in to the code. I imagine that you have already dabbled with
 PnP PowerShell and I will not explain how to install and configure it to
@@ -66,7 +66,7 @@ First we need to connect to the site. Replace the url with the correct
 url of your site. I am using -UseWebLogin in this example because I am
 using 2factor authentication.
 
-## Create the page 
+### Create the page 
 
 First thing to do is to create the page, using
 the [Add-PnPClientSidePage ](https://pnp.github.io/powershell/cmdlets/Add-PnPClientSidePage.html)command.
@@ -79,8 +79,7 @@ Add-PnPClientSidePage -Name $name
   -HeaderLayoutType NoImage
   -CommentsEnabled:$false
 ```
-:::
-:::
+
 Disabling the comments section on a modern SharePoint Page\
 I couldn't figure out how to disable the comments section on the modern
 client page. I tried setting it to false, or 0, but that didn't work.

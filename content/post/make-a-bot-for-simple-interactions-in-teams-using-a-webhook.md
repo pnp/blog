@@ -51,7 +51,7 @@ follows:
 
 Let's break this down by component.
 
-###  Webhook 
+### Webhook 
 
 A Webhook is a way for two applications that can communicate with each
 other. In our case, a simple bot and Teams.
@@ -105,14 +105,14 @@ construct of a bot behaviour needs to be as follows:
     an attached Adaptive Card otherwise Teams will not handle the
     response correctly
 
-##  Setup 
+## Setup 
 
 The setup of this solution comprises of two parts:
 
 -   Bot code accessible via HTTP
 -   Outgoing Webhook in Teams
 
-###  Bot 
+### Bot 
 
 A Azure Function HTTP Trigger hosting the code is created. The URL of
 the trigger needs to be copied for the next step
@@ -136,7 +136,7 @@ To add an Outgoing Webhook, the following is done:
 
 ![image](https://user-images.githubusercontent.com/472320/149138950-b86db5c1-cef7-4334-bd3e-c52f90a49e75.png)
 
-4.  Provide the following:
+Provide the following:
 
     -   **Name**: A short name that will be used to @ mention the
         Webhook. Keep it to one word if you can e.g. *Weather*
@@ -152,7 +152,7 @@ To add an Outgoing Webhook, the following is done:
 
         ![image](https://user-images.githubusercontent.com/472320/149214338-c8217ed4-bdb9-468d-be26-ccac553a735f.png)
 
-5.  Once the Webhook is created, take a note of the **Security token**
+1.  Once the Webhook is created, take a note of the **Security token**
     of the Webhook as it will only be shown once and will be required
     for authentication to the bot
 

@@ -19,7 +19,9 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+
+## Call Summary
+
 
 Preview the new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
@@ -49,7 +51,10 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 
 Jungle seating in a Pacific Northwest, Washington, US amphitheater! 
 Truly unique like this Community!
+
 **Actions:**
+
+
 
 -   Complete the Microsoft 365 Developer Community Survey --
     <https://aka.ms/m365pnp/survey>
@@ -137,7 +142,7 @@ Truly unique like this Community!
     Updater](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-teams-membership-updater) -
     [Nick Brown](http://twitter.com/techienickb) | \@techienickb
 Thank you for your great work.  Samples are often showcased in Demos. 
-  
+
 **Agenda items:**
 
 -   Latest updates on SharePoint Framework - [Vesa
@@ -194,7 +199,7 @@ slides.
     [m365pnp/cli-microsoft365](https://hub.docker.com/r/m365pnp/cli-microsoft365) 
 
 -   Blog - [Run CLI for Microsoft 365 in
-    Docker](https://developer.microsoft.com/en-us/microsoft-365/blogs/run-cli-microsoft-365-in-docker/) 
+    Docker](https://developer.microsoft.com/microsoft-365/blogs/run-cli-microsoft-365-in-docker/) 
 
 -   Article - [Improving the Page Properties web
     part](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/improving-the-page-properties-web-part/ba-p/2256651) 
@@ -221,7 +226,7 @@ slides.
 **General Resources:**
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
@@ -235,7 +240,7 @@ slides.
     series](https://aka.ms/mgtLap)
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
 -   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
@@ -277,16 +282,18 @@ slides.
 **Other mentioned topics:**
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 -   **M365 General Dev call --** April 29th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
 -   **Microsoft Graph call -** May 4th at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint Framework call --** May 6th at 7:00 am PDT |
+-   **SharePoint Framework call** -- May 6th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **SharePoint monthly call --** May 11th at 8:00am PDT |
     <https://aka.ms/sp-call>
@@ -300,7 +307,7 @@ slides.
     <https://aka.ms/PowerAppsMonthlyCall>
 -   **Microsoft Identity Platform --** [May
     20]th at 9:00 am PDT
-    | <https://aka.ms/IDDevCommunityCalendar>[ ]
+    | <https://aka.ms/IDDevCommunityCalendar>
 PnP SharePoint Framework Special Interest Group bi-weekly calls are
 targeted at anyone who is interested in the JavaScript-based development
 towards Microsoft Teams, SharePoint Online, and also on-premises. SIG

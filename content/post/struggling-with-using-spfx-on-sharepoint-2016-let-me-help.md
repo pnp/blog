@@ -14,14 +14,14 @@ SharePoint has a lot of great out-of-the-box capabilities, but sometimes
 you need to take it a step further.  For example, you need a custom user
 interface to improve productivity.
 The SharePoint Framework (aka
-[SPFx](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview))
+[SPFx](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview))
 is a great way to customize SharePoint and Teams. There have been
 various ways to customize SharePoint in the past, but SPFx is the
 recommended option.  This is especially true for SharePoint Online, but
 also for more recent versions of SharePoint on-prem.  What I like about
 SPFx -- beyond the fact that it lets you customize SharePoint - is that
 there are several [web
-controls](https://developer.microsoft.com/en-us/fluentui#/controls/web)
+controls](https://developer.microsoft.com/fluentui#/controls/web)
 that are ready to use and require very little effort to incorporate into
 your customizations.  Not only do these components function well, they
 also fit the look and feel of SharePoint today.
@@ -39,7 +39,7 @@ changing.  The documentation on what to use with SP2016 is pretty old
 and hasn't kept up. For example, to get started with SPFx on SharePoint
 2016, this seems like the logical place: [SharePoint Framework
 development with SharePoint Server 2016 Feature Pack
-2](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-2016-support). 
+2](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-2016-support). 
 The web page was updated within the last month of when I wrote this
 post.  However, the video shown is from 2017.  In the video, Vesa
 recommends version 1.0.2 as the SPFx version and the post mentions
@@ -78,15 +78,15 @@ Depending on the path you take may change your limitations, but here are
 some I know of:
 
 -   You can only create [web
-    parts](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts),
+    parts](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts),
     not
-    [extensions](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/overview-extensions).
+    [extensions](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/overview-extensions).
 -   You cannot bundle your assets with the package (sppkg) file.  You
     must host your assets (manifest JSON and JavaScript files) in a
     SharePoint document library, Azure, or somewhere else.  I discuss
     how to do this further below.
 -   Some [Fluent UI
-    Controls](https://developer.microsoft.com/en-us/fluentui#/controls/web)
+    Controls](https://developer.microsoft.com/fluentui#/controls/web)
     won't work.  Based on the path I took (described below), There was
     no ComboBox, no PeoplePicker, and the Dropdown did not allow
     multi-select.  There are probably several other controls that aren't
@@ -94,7 +94,7 @@ some I know of:
     are available, the documentation has properties/capabilities that
     are newer than what I was able to use.  Sometimes I went to the old
     [Office UI Fabric
-    React](https://docs.microsoft.com/en-us/javascript/api/office-ui-fabric-react?view=office-ui-fabric-react-latest)
+    React](https://docs.microsoft.com/javascript/api/office-ui-fabric-react?view=office-ui-fabric-react-latest)
     documentation, but even then that was sometimes too new for what I
     was using.
 -   I was unable to use [React
@@ -217,7 +217,7 @@ Then you answer several questions.  Here are some example answers:
 |What is your Web part (on-prem) description?|A sample web part|
 |Which framework would you like to use?|React|
 
-# Test Your Project in the SharePoint Workbench 
+## Test Your Project in the SharePoint Workbench 
 
 Even though you haven't done much yet, your project should run.  To run
 the workbench you would normally do a "gulp serve", but since we're
@@ -233,7 +233,7 @@ Note that the command above looks a little different when run on a Mac.
 From the resulting web page that pops up, you should be able to see your
 web part and edit the web part property.
 
-# Minor Cleanup 
+## Minor Cleanup 
 
 The yeoman generator does a great job, but it does make some assumptions
 that aren't ideal.  One is the solution name could be friendlier.  This
@@ -284,7 +284,7 @@ can use the following steps:
     ```
 
 -   Create an App Catalog: [Manage the App Catalog in SharePoint
-    Server](https://docs.microsoft.com/en-us/sharepoint/administration/manage-the-app-catalog#:~:text=Add%20Apps%20to%20the%20App%20Catalog%201%20Verify,that%20you%20want%20to%20upload.%20...%20See%20More.). 
+    Server](https://docs.microsoft.com/sharepoint/administration/manage-the-app-catalog#:~:text=Add%20Apps%20to%20the%20App%20Catalog%201%20Verify,that%20you%20want%20to%20upload.%20...%20See%20More.). 
     Note that SharePoint Online allows apps to be uploaded to just a
     site collection, but in SP2016 you must have an App Catalog for the
     entire web application.
@@ -336,7 +336,7 @@ add that and do a small test that uses it:
     npm install office-ui-fabric-rect@2.34.2​
     ```
 
-    \
+
 
     -   This is a critical step.  The new Fluent UI will not work -- we
         *must* use this version.
@@ -349,38 +349,44 @@ add that and do a small test that uses it:
 -   Edit
     src\\webparts\\\<web-part-name>\\components\\\<web-part-name>.tsx as
     follows:
-    -   Add near the top of the file:
-        -   ```javascript
-            import { TextField } from 'office-ui-fabric-react';
-            ```
-    -   Add just inside the innermost div (maybe before the anchor tag):
-        -   ```javascript
-            <TextField label='Test Office UI Fabric React' />
-            ```
-    -   Test the updates:
-        -   ```bash
-            set NODE_NO_HTTP2=1 && gulp serve --nobrowser
-            ```
 
-        -   Refresh your page with the web part on it
-    -   If the above fails, try a redeploy.  Whenever we do an npm
+    -   Add near the top of the file:
+
+```javascript
+            import { TextField } from 'office-ui-fabric-react';
+```
+
+- Add just inside the innermost div (maybe before the anchor tag):
+
+ ```javascript
+            <TextField label='Test Office UI Fabric React' />
+ ```
+
+- Test the updates:
+
+```bash
+            set NODE_NO_HTTP2=1 && gulp serve --nobrowser
+```
+
+- Refresh your page with the web part on it
+- If the above fails, try a redeploy.  Whenever we do an npm
         install, I feel that you *may* need to redeploy your package. 
         Here are the steps:
-        -   Update config\\package-solution.json and increment the
+- Update config\\package-solution.json and increment the
             version (to 1.0.0.1)
 
-        -   ```bash
-            gulp bundle
-            gulp package-solution
-            ```
+```bash
+    gulp bundle
+    gulp package-solution
+```
 
-        -   Upload your sppkg file into your App Catalog and deploy it
+- Upload your sppkg file into your App Catalog and deploy it
 
-        -   ```bash
-            set NODE_NO_HTTP2=1 && gulp serve --nobrowser
-            ```
+```bash
+    set NODE_NO_HTTP2=1 && gulp serve --nobrowser
+```
 
-        -   Refresh your page with the web part on it
+- Refresh your page with the web part on it
 
 ## Test a Production (Ship) Build -- First Time 
 
@@ -423,7 +429,7 @@ using SharePoint, that may be the best option for you.
 
 -   Azure Storage Account
     -   First you'll need to [create an Azure storage
-        account](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal).
+        account](https://docs.microsoft.com/azure/storage/common/storage-account-create?tabs=azure-portal).
 
     -   Create a blob container within the storage account.
 
@@ -432,7 +438,7 @@ using SharePoint, that may be the best option for you.
 
     -   It's not required, but if you like you can [create a CDN for the
         Azure storage
-        account](https://docs.microsoft.com/en-us/azure/cdn/cdn-create-a-storage-account-with-cdn).
+        account](https://docs.microsoft.com/azure/cdn/cdn-create-a-storage-account-with-cdn).
 
     -   Open config\\write-manifest.json and update the cdnBasePath to
         point to the container (or Azure CDN) you created.  For

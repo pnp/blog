@@ -139,9 +139,9 @@ app will not be as fast as if the data sits in Dataverse. For an
 elaborated comparison on this and other data sources such as Excel,
 SharePoint, and more, please read this article about [Considerations for
 optimized performance in Power
-App](https://powerapps.microsoft.com/en-us/blog/considerations-for-optimized-performance-in-power-apps/)s
+App](https://powerapps.microsoft.com/blog/considerations-for-optimized-performance-in-power-apps/)s
 
-###  developer and user experience
+### developer and user experience
 
 We can also impact the experience you as a developer will have while
 building the app, depending on the data source. If you ever 'loved' to

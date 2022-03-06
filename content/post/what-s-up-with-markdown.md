@@ -9,7 +9,7 @@ images:
 tags: []
 type: "regular"
 ---
-[Perhaps you've noticed a technology called Markdown that's been
+Perhaps you've noticed a technology called Markdown that's been
 showing up in a lot of web sites and apps lately. This article will
 explain Markdown and help you get started reading and writing
 it.
@@ -17,16 +17,16 @@ it.
 Markdown is a simple way to format text using ordinary punctuation
 marks, and it's very useful in Microsoft 365. For example, [Microsoft
 Teams supports markdown
-formatting](https://support.microsoft.com/en-us/office/use-markdown-formatting-in-teams-4d10bd65-55e2-4b2d-a1f3-2bebdcd2c772?WT.mc_id=m365-27330-rogerman) in
+formatting](https://support.microsoft.com/office/use-markdown-formatting-in-teams-4d10bd65-55e2-4b2d-a1f3-2bebdcd2c772?WT.mc_id=m365-27330-rogerman) in
 chat messages and SharePoint has a [Markdown web
-part](https://support.microsoft.com/en-us/office/use-the-markdown-web-part-6d73c06d-2877-4bc9-988b-f2896016c50b). [Adaptive
+part](https://support.microsoft.com/office/use-the-markdown-web-part-6d73c06d-2877-4bc9-988b-f2896016c50b). [Adaptive
 Cards support
-Markdown](https://docs.microsoft.com/en-us/adaptive-cards/authoring-cards/text-features) as
+Markdown](https://docs.microsoft.com/adaptive-cards/authoring-cards/text-features) as
 well, as do [Power Automate
-approvals](https://docs.microsoft.com/en-us/power-automate/approvals-markdown-support?WT.mc_id=m365-27330-rogerman).
+approvals](https://docs.microsoft.com/power-automate/approvals-markdown-support?WT.mc_id=m365-27330-rogerman).
 For the bot builders among us, [Bot Composer language
-generation](https://docs.microsoft.com/en-us/composer/concept-language-generation?WT.mc_id=m365-27330-rogerman) and [QnA
-Maker](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/reference-markdown-format?WT.mc_id=m365-27330-rogerman) both
+generation](https://docs.microsoft.com/composer/concept-language-generation?WT.mc_id=m365-27330-rogerman) and [QnA
+Maker](https://docs.microsoft.com/azure/cognitive-services/QnAMaker/reference-markdown-format?WT.mc_id=m365-27330-rogerman) both
 support markdown as well. And what's at the top level of nearly every
 GitHub repo? You guessed it, a markdown file called README.md.
 
@@ -260,11 +260,6 @@ Just put a asterisk or dash in front of a line that should be bulleted.
     -   Indent to make sub-bullets
         -   Like this
 
-{::ignore rule="MD046/code-block-style" relative_line="2"}
-
-```html
-<!-- -->
-```
 
 -   Here is an item with a dash
     -   Changing characters makes a new list.
@@ -382,5 +377,5 @@ admin, or developer, you're bound to run into Markdown sooner or later.
 Here's hoping this article makes it a little easier to get started!
 
 For more information please check out Cloud Advocate [April
-Dunnam's](https://developer.microsoft.com/en-us/advocates/april-dunnam)
+Dunnam's](https://developer.microsoft.com/advocates/april-dunnam)
 excellent video on Markdown!

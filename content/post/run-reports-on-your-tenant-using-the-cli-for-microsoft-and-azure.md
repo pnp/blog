@@ -100,9 +100,11 @@ step is to create two parameters, **containerGroup** and
 **containerName**. Both will be used more than once so it helps to
 create them parameters, but it is not required. For demo purposes I
 added a small snippet as a postfix to identify when it was created: 
+
 ``` {.lia-code-sample .language-excel}
 formatDateTime(utcNow(),'MM-dd-yyyy')
 ```
+
  This helps when debugging as you can always identify when something was
 created. The next step is to add a new action of type **Create or update
 a container group**. It is a pretty complex action with a lot of

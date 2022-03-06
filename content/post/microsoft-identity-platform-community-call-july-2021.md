@@ -16,7 +16,9 @@ type: "regular"
 
 
 
-**Call Summary:**
+
+## Call Summary
+
 
 This month's in-depth topic:  **From zero to hero with Microsoft Graph
 API**.   This session opens with an overview of Microsoft Graph services
@@ -42,7 +44,10 @@ recorded on July 15, 2021.  Live and in-chat Q&A throughout call. 
     resources.
 
 
+
 **Actions:**
+
+
 
 -   Let us know how we're doing and suggest topics for future calls,
     please complete this
@@ -58,4 +63,3 @@ recorded on July 15, 2021.  Live and in-chat Q&A throughout call. 
 -   YouTube [https://aka.ms/M365DevYouTube](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3RzWmpNU2VPRmh6dXBad3hKMmxySjBaQVl6Z3xBQ3Jtc0trVjYyeXZlSXZiX0JydHlyeHdqcTRSUnczX2xrVDloOWhzeGVCYXFibjBiM1VpXzFOd2dZX2dJdlNYQWYtekcyWXZOTHp3VkdoU2JsdmNVQ3dtdkw2ZHF0cVdCS29TQmJ1Z3hoVmJyd3JtYlFxUW92WQ&q=https%3A%2F%2Faka.ms%2FM365DevYouTube)​
 -   Blog <https://aka.ms/m365pnp/community/blog>
 -   Recurrent Invite  <https://aka.ms/IDDevCommunityCalendar> 
-

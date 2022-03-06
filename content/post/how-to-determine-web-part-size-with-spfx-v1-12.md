@@ -31,13 +31,17 @@ v.1.12 and React framework.
 In your web part TS file, you can add the **onAfterResize()** method to
 get notified when the web part is resized (for example when you resize
 your window):
+
 ```javascript
   protected onAfterResize(newWidth: number) {
     console.log("New web part width: " + newWidth);
   }
 ```
+
 This new method is documented as below:
+
 ```javascript
+
 This API is invoked when the web part container dom element width is changed, e.g. when the browser window is resized and when the property pane is toggled open/closed.
 
 @param newWidth — Width (in pixels) of the container for the web part after the resize event.
@@ -47,8 +51,10 @@ Web parts should utilize this method to perform operations such as potentially r
 
 @virtual
 ```
+
 Then you can use the **width** property as a prop for your React
 component:
+
 ```javascript
   public render(): void {
     const element: React.ReactElement<IDemoWebPartWidthProps> = React.createElement(
@@ -62,7 +68,9 @@ component:
     ReactDom.render(element, this.domElement);
   }
 ```
+
 This new property is documented as below:
+
 ```javascript
 This propery returns the width of the container for the web part.
 
@@ -76,13 +84,18 @@ This function retrieves web part's key to get stored section width from cache. I
 
 In the case where getWebPartCacheKey is not passed down, it will go through the original workflow to caculate web part width.
 ```
+
 And you can display it in your component render() method:
+
 ```javascript
 <p className={ styles.description }>Web part width = { this.props.webPartWidth }</p>
 ```
+
 Final result of this demo web part:
 
+
 {{< image alt="web-part-width.png" src="images/blog/how-to-determine-web-part-size-with-spfx-v1-12/web-part-width.png" >}}
+
 This a great add to SPFx and allows developers to re-render components
 when the web part is resized
 Happy coding everyone!
@@ -90,7 +103,7 @@ Happy coding everyone!
 ## Resources 
 
 [Determine the rendered web part width | Microsoft
-Docs](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/basics/determine-web-part-width)
+Docs](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/basics/determine-web-part-width)
 
 [SharePoint Framework enterprise guidance | Microsoft
-Docs](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/enterprise-guidance#in-perspective-sharepoint-framework-in-the-broader-sharepoint-platform)
+Docs](https://docs.microsoft.com/sharepoint/dev/spfx/enterprise-guidance#in-perspective-sharepoint-framework-in-the-broader-sharepoint-platform)

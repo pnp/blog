@@ -45,7 +45,7 @@ We'll use [PnP PowerShell](https://pnp.github.io/powershell/), [CLI for Mi
 
 ## Setup the AAD Application 
 
-The first thing to do is to register an application in Azure AD. As we'll use the [client credential flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) with a certificate, we first need to create a certificate.
+The first thing to do is to register an application in Azure AD. As we'll use the [client credential flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) with a certificate, we first need to create a certificate.
 
 
 ### Setup using PnP PowerShell 
@@ -82,8 +82,9 @@ You can find more info about the command [here](https://pnp.github.io/po
 For now there's no option to: 
 
 
--   generate both a self-signed certificate and register an AAD Application using it, in a single command. Requested [here](https://github.com/pnp/cli-microsoft365/issues/2170)
--   admin consent permissions when registering an AAD Application. Requested [[here]](https://github.com/pnp/cli-microsoft365/issues/2563)
+- generate both a self-signed certificate and register an AAD Application using it, in a single command. Requested [here](https://github.com/pnp/cli-microsoft365/issues/2170)
+- admin consent permissions when registering an AAD Application. Requested [[here]](https://github.com/pnp/cli-microsoft365/issues/2563)
+
 #### Generate the self-signed certificate 
 
 
@@ -97,32 +98,13 @@ That said, we have two possibilities depending on the environment, to�
 With PnP PowerShell command [New-PnPAzureCertificate](https://pnp.github.io/powershell/cmdlets/New-PnPAzureCertificate.html):
 
 
-
-
-
-
-
-
-
-
 ```powershell
 New-PnPAzureCertificate -OutCert "PnP.SharePoint.AppOnly.cer" -OutPfx "PnP.SharePoint.AppOnly.pfx" -ValidYears 1  -CertificatePassword (ConvertTo-SecureString -String "password" -AsPlainText -Force) -CommonName "PnP.SharePoint.AppOnly"
 ```
 
 
- 
-
-
-
 
 With [OpenSSL:](https://www.openssl.org/docs/manmaster/man1/)
-
-
-
-
-
-
-
 
 
 
@@ -143,6 +125,7 @@ year.
 The \".cer.pem\" exported file will be used for Azure AD Application registration.
 The second command will generate the PFX file with a password, from both the private key input file (\".key.pem\") and the certificate request (\".cert.pem\") one. This one will be used for authentication,
 we'll see about that later.
+
 #### Register the AAD Application 
 
 
@@ -150,40 +133,25 @@ we'll see about that later.
 Once the certificate generated, we'll setup the app registration with the following command:
 
 
-
-
-
 ```bash
 m365 aad app add --name 'PnP.SharePoint.AppOnly' --apisApplication 'https://microsoft.sharepoint-df.com/Sites.FullControl.All'
 ```
 
 
-
-
-
 Wait a couple of minutes before being enabled to admin consent the permission through the Azure Portal.
-
-
-
-
 
 Once done, stay on the AAD Application page and go to **Certificates & Secrets** and click on "*Upload certificate*" to add the "*PnP.SharePoint.AppOnly.cert.pem*" file.
 
 
 
 \
-{{< image alt="aad-certificate.png" src="images/blog/update-sharepoint-list-s-author-editor-field-in-app-only-context/aad-certificate.png" >}}
+{{< image alt="aad-certificate.png" src="images/blog/update-sharepoint-list-s-author-editor-field-in-app-only-context/aad-certificate.png" >}}\
+
 ## Authenticate to SharePoint & Update list item 
 
 
 
 Once everything's set for App-Only context, let's authenticate to SharePoint and update our list item!
-
-
-
-
-
-
 
 ### Update with PnP Framework 
 
@@ -236,16 +204,9 @@ static void Main(string[] args)
     }
 }
 ```
-###   
+
 
 ### Update with PNP PowerShell 
-
-
-
-
-
-
-
 
 ```powershell
 $aadAppId = "[AAD_APP_ID]" # Get Application ID / Client ID from the registration made before
@@ -266,9 +227,6 @@ $lisItemId = 1
 Set-PnPListItem -List $listId -Identity $lisItemId -Values @{"Editor"="meganb@" + $tenant}
 ```
 
-
-
-###   
 
 ### Update with CLI for Microsoft 365 
 

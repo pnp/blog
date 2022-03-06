@@ -16,11 +16,11 @@ automate, deploy or manage Microsoft 365, those written with:
 -   [PnP PowerShell](https://pnp.github.io/powershell/)
 -   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
 -   [SPO Management
-    shell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?WT.mc_id=M365-MVP-5003816)
+    shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?WT.mc_id=M365-MVP-5003816)
 -   [Graph
-    PowerShell](https://docs.microsoft.com/en-us/graph/powershell/get-started?WT.mc_id=M365-MVP-5003816)
+    PowerShell](https://docs.microsoft.com/graph/powershell/get-started?WT.mc_id=M365-MVP-5003816)
 -   [Graph
-    CLI ](https://developer.microsoft.com/en-us/graph/blogs/access-microsoft-graph-through-a-new-preview-cli/)
+    CLI ](https://developer.microsoft.com/graph/blogs/access-microsoft-graph-through-a-new-preview-cli/)
 -   other Microsoft 365 related scripts\...
 
 Our intention is simply to make it easier for people to share and find
@@ -76,6 +76,7 @@ site.
 {{< image alt="Clickable Help for commands" src="images/blog/getting-started-with-pnp-script-samples/script-clickable-help.png" >}}
 
 Few points about this feature:
+
 -   if you use the Copy To Clipboard feature the links are NOT
     included - this is by design.
 -   the commands are linked to the latest docs, this will not make
@@ -91,6 +92,7 @@ If you would like to contribute to the samples, you are absolutely
 welcomed to do so, we have created [guidance to help
 you](https://pnp.github.io/script-samples/contributing/index.html). We
 are looking for contributions in the following areas:
+
 -   Create a new scenario with a script
 -   Update a scenario with an alternative script using another tool e.g.
     Adding a PnP PowerShell script to a scenario that only has CLI for

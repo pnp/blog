@@ -39,8 +39,9 @@ inclusive and diverse.
 
 [This episode was recorded on Monday, May 17,
 2021.]
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 These videos and podcasts are published each week and are intended to be
@@ -56,6 +57,7 @@ Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
 **Events:**
+
 -   May 25-27, 2021- [Microsoft Build
     2021](https://mybuild.microsoft.com/?WT.mc_id=m365-28827-wmastyka)
 -   June 1-2, 2021 - [European SharePoint Conference 2021 -
@@ -67,6 +69,7 @@ everyone for your contributions to the community!
 
 
 **Microsoft articles:**
+
 -   [Behind the scenes on Microsoft Viva with Microsoft
     Mechanics](https://techcommunity.microsoft.com/t5/microsoft-365-blog/behind-the-scenes-on-microsoft-viva-with-microsoft-mechanics/ba-p/2323255?WT.mc_id=m365-28827-wmastyka)
     - [Seth Patton](https://twitter.com/SethPat) (Microsoft)
@@ -88,22 +91,23 @@ everyone for your contributions to the community!
     | \@mkashman, [Chris McNulty](https://twitter.com/cmcnulty2000)
     (Microsoft) | \@cmcnulty2000 & CJ Tan (Microsoft)
 -   [Microsoft Graph .NET SDK v4 adds enhanced features -- now in
-    preview](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-net-sdk-v4-adds-enhanced-features-now-in-preview/?WT.mc_id=m365-28827-wmastyka) -
+    preview](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-net-sdk-v4-adds-enhanced-features-now-in-preview/?WT.mc_id=m365-28827-wmastyka) -
     Microsoft
 -   [New renewal offering for your app's Publisher Attestation and
     Microsoft 365
-    Certification](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-renewal-offering-for-your-apps-publisher-attestation-and-microsoft-365-certification/?WT.mc_id=m365-28827-wmastyka) -
+    Certification](https://developer.microsoft.com/microsoft-365/blogs/new-renewal-offering-for-your-apps-publisher-attestation-and-microsoft-365-certification/?WT.mc_id=m365-28827-wmastyka) -
     Microsoft
 -   [Microsoft Graph Mailbag -- Azure AD applications and users for
-    testing](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-mailbag-azure-ad-applications-and-users-for-testing/?WT.mc_id=m365-28827-wmastyka)
+    testing](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-mailbag-azure-ad-applications-and-users-for-testing/?WT.mc_id=m365-28827-wmastyka)
     - [Brian T. Jackett](https://twitter.com/briantjackett) (Microsoft)
     | [\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556)
 -   [Five new features enhancing Adaptive Cards in Microsoft
-    Teams](https://developer.microsoft.com/en-us/microsoft-365/blogs/five-new-features-enhancing-adaptive-cards-in-microsoft-teams/?WT.mc_id=m365-28827-wmastyka)
+    Teams](https://developer.microsoft.com/microsoft-365/blogs/five-new-features-enhancing-adaptive-cards-in-microsoft-teams/?WT.mc_id=m365-28827-wmastyka)
     - [Ojasvi Choudhary](https://twitter.com/Ojasvi) (Microsoft)
     | \@Ojasvi
 
 **Community articles:**
+
 -   [Excel Scripts and Cloud Flows - Data
     Manipulation](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/excel-scripts-and-cloud-flows-data-manipulation/ba-p/2356956?WT.mc_id=m365-28827-wmastyka)
     - [Damien Bird](https://twitter.com/damobird365) (Aberdeen City
@@ -190,6 +194,7 @@ everyone for your contributions to the community!
     | [\@MeganStrant](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/579847)
 
 **Additional resources:**
+
 -   [Power Platform Sample
     Gallery](https://aka.ms/powerplatform-samples) - for finding easily
     samples from the GitHub - contributions from the community are

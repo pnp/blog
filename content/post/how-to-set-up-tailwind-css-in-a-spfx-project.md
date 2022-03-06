@@ -13,7 +13,7 @@ type: "regular"
 ---
 
 In the [State of CSS 2020
-survey](https://2020.stateofcss.com/en-US/technologies/css-frameworks/css_frameworks_experience_ranking), the [Tailwind
+survey](https://2020.stateofcss.com/technologies/css-frameworks/css_frameworks_experience_ranking), the [Tailwind
 CSS](https://tailwindcss.com/)
 becomes the number 1 CSS Framework in terms of **Satisfaction** and
 **Interest** in the last 2 years. It also gets the awards for **The Most
@@ -28,7 +28,7 @@ SharePoint Framework (SPFx) project.
 **Prepare the SPFx Project**
 
 Prepare your SPFx project. I use a newly generated [SPFx
-project](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part) (v1.11) but you can also use your existing SPFx
+project](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part) (v1.11) but you can also use your existing SPFx
 project.
 **Install Modules**
 
@@ -37,6 +37,7 @@ Install all modules needed by executing the command below:
 ``` {.graf .graf--pre}
 npm install tailwindcss@1.9.6 postcss postcss-cli postcss-import @fullhuman/postcss-purgecss gulp-postcss autoprefixer@9.8.6 -D
 ```
+
 **Initialize Tailwind CSS and PostCSS**
 
 Initialize Tailwind CSS by executing the command below:
@@ -64,6 +65,7 @@ styles.
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 ```
+
 **Add Gulp Subtask for Processing Tailwind CSS**
 
 We need to add the Tailwind CSS build process to our SPFx build process.
@@ -120,6 +122,7 @@ or
 ``` {.graf .graf--pre}
 gulp bundle --ship
 ```
+
 **Add Reference to The Generated Tailwind CSS**
 
 We need to add reference the generated Tailwind CSS by adding the import
@@ -128,6 +131,7 @@ code in your main *.ts* webpart file:
 ``` {.graf .graf--pre}
 import '../../../assets/dist/tailwind.css';
 ```
+
 **That's it!**
 
 Now you can use Tailwind CSS utilities in your SPFx project.

@@ -13,7 +13,10 @@ type: "regular"
 ---
 
 {{< image alt="sig-recordingly-22nd-july.png" src="images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png" >}}
-## Call summary
+
+
+## Call Summary
+
 
 Summer break and community call schedule updates reviewed. Preview the
 new [Microsoft 365 Extensibility look book
@@ -94,6 +97,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 {{< image alt="wave3.gif" src="images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/wave3.gif" >}}
 Thank you for making time in your Summer time schedule to join us for
 today's PnP Community call.   You're awesome!   
+
 **Demos** delivered in this session
 
 -   **Publish a connector to the Power Platform** -- announcement July
@@ -158,7 +162,7 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   **Demo:**  ACS -- Teams InterOp with Call Routing -- Sathya
     Raveendran
-    (Microsoft) [-][ [34:56](https://youtu.be/ebOtM8LpAK4?t=2096)][ ]
+    (Microsoft) [-][ [34:56](https://youtu.be/ebOtM8LpAK4?t=2096)]
 **Resources:**
 
 Additional resources around the covered topics and links from the
@@ -168,13 +172,13 @@ slides.
     Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors) 
 
 -   Blog - [New connectors through the Independent Publisher connector
-    program](https://flow.microsoft.com/en-us/blog/new-connectors-through-the-independent-publisher-connector-program/) 
+    program](https://flow.microsoft.com/blog/new-connectors-through-the-independent-publisher-connector-program/) 
 
 -   Blog - [Submit a connector to the Power Platform as an Independent
-    Publisher](https://flow.microsoft.com/en-us/blog/submit-a-connector-to-the-power-platform-as-an-independent-publisher/) 
+    Publisher](https://flow.microsoft.com/blog/submit-a-connector-to-the-power-platform-as-an-independent-publisher/) 
 
 -   Documentation - [Independent publisher certification
-    process](https://docs.microsoft.com/en-us/connectors/custom-connectors/certification-submission-ip) 
+    process](https://docs.microsoft.com/connectors/custom-connectors/certification-submission-ip) 
 
 -   Video - [Independent Publisher Connector
     Program](https://channel9.msdn.com/Shows/POWERful-Devs/Power-Platform-Community-Connectors) 
@@ -206,6 +210,7 @@ slides.
 -   [Microsoft Teams Samples
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
+
 **General resources**:
 
 -   PnP Teams Quickstart
@@ -221,7 +226,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -246,7 +251,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -255,13 +260,16 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
+
 -   **SharePoint Framework call** -- July 29th at 7:00 am PDT
     **| **<https://aka.ms/spdev-spfx-call>
 -   **M365 General Dev call** -- August 5th at 7:00 am PDT

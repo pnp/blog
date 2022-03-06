@@ -518,6 +518,7 @@ e.g.
 **In the case where the user specifies an absolute time to be reminded**
 
 A lot more string processing is required!
+
 1.  **Compose - date selected**: compose the date/time that the user
     selected, into ISO8601 format. The caveat here: you need 7 decimal
     places after the seconds!
@@ -933,7 +934,7 @@ smartwatch notifications rely on a summary of sorts:
     ]
 }
 ```
- 
+
 ------------------------------------------------------------------------
 
 **Thanks for reading!** Hope you've learned loads yourself! 

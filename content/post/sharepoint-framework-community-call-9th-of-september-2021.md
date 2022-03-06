@@ -20,7 +20,9 @@ call recording from September 9th is now available from the Microsoft
 use SharePoint Framework for building solutions for **Microsoft
 Teams** and for **SharePoint** Online.
 
-**Call summary:**
+
+## Call Summary
+
 
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
 community call](https://aka.ms/m365-dev-call).  Don't forget to sign up
@@ -51,7 +53,10 @@ this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
 throughout the call.
 Thank you everybody for being part of this call, the community, a tweet,
 a blog post, and the solution to your customer's needs.  
+
 **Actions:**
+
+
 
 -   Opt in to PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
@@ -118,21 +123,23 @@ a blog post, and the solution to your customer's needs.  
     deliver an elegant result! 
 
   
-**SPFx extension samples:  (<https://aka.ms/spfx-extensions>) **
+**SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
+
 -   **[Share to
     Teams](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-share-to-teams)
     -** [Kunj Sangani](http://twitter.com/sanganikunj) | \@sanganikunj
 
 
 
-**SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
+**SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
+
 -   **[At a
     Glance](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-myonedrive)
     -** [Anoop Tatti](http://twitter.com/anooptells) | \@anooptells 
     (Link to My OneDrive sample is correct)
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-  
+
 **Agenda items:**
 
 -   SharePoint Framework - [Vesa
@@ -224,7 +231,7 @@ slides.
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
@@ -245,7 +252,7 @@ slides.
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
@@ -309,25 +316,26 @@ slides.
 **Other mentioned topics:**
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  *(Subject to Updates in
 September)***
 -   **Microsoft 365 platform call** -- September 14th at 8:00 am PDT
     | <https://aka.ms/m365-dev-call>
--   **Power Apps monthly call **-- September 15th at 8:00 am PDT
+-   **Power Apps monthly call**-- September 15th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **M365 General Dev call -- **September 16th at 7:00 am PDT
+-   **M365 General Dev call** -- September 16th at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
--   **Microsoft Identity Platform call --** September 16th at 9:00 am
+-   **Microsoft Identity Platform call** -- September 16th at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
--   **SharePoint Framework call --** September 23rd at 7:00 am PDT
+-   **SharePoint Framework call** -- September 23rd at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
 -   **Office add-in monthly call** -- October 13th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call** -- October 14th at 9:00 am PDT
-    | <https://aka.ms/adaptivecardscommunitycall>
+| <https://aka.ms/adaptivecardscommunitycall>
+
 PnP SharePoint Framework Special Interest Group bi-weekly calls are
 targeted at anyone who is interested in the JavaScript-based development
 towards Microsoft Teams, SharePoint Online, and also on-premises. SIG

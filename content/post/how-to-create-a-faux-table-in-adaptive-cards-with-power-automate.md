@@ -12,11 +12,12 @@ type: "regular"
 
 In this blog post we learn how we can display a table in an Adaptive Card, pull data from a SharePoint list and use Power Automate to do that in one flow.
 
-When I read in the [documentation](https://docs.microsoft.com/en-us/adaptive-cards/authoring-cards/text-features), that tables and headers are not supported, it was somehow a BUMMER 🙄, but then I asked the worlds laziest developer [Hugo Bernier](https://twitter.com/bernierh), if there was really now way to do it.
+When I read in the [documentation](https://docs.microsoft.com/adaptive-cards/authoring-cards/text-features), that tables and headers are not supported, it was somehow a BUMMER 🙄, but then I asked the worlds laziest developer [Hugo Bernier](https://twitter.com/bernierh), if there was really now way to do it.
 
 Our first idea was, to templatize an Adaptive Card, and then pass data into that template; but very unfortunately, this isn't supported in Power Automate. Our second idea resolved the whole problem: We would build the JSON for our Adaptive Card like different LEGO bricks and then put them together.
 
 We would need
+
 -   1 brick (we will use variables in Power Automate) for the upper part
     of the Card, where we create a columnset,
 -   3 bricks for the headers of our faux table
@@ -160,18 +161,24 @@ need. The Code in total would look like this:  
 
 Let's break this into pieces:
 
-1.  First variable will be the upper part of the Adaptive Card in which
+1. First variable will be the upper part of the Adaptive Card in which
     we define the schema, a title and create a column set. 
 {{< image alt="initialize variable for card- upper part" src="images/blog/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/varCard-initialize.png" >}}
 
-2.We initialize variables for the 3 Headers "Name", "Unicornibility" and
+2. We initialize variables for the 3 Headers "Name", "Unicornibility" and
 "Party Readiness Index"
+
 {{< image alt="initialize var Column 1" src="images/blog/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/varColumn1-initialize.png" >}}
+
 {{< image alt="initialize var Column 2" src="images/blog/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/varColumn2-initialize.png" >}}
+
 {{< image alt="initialize var Column 3" src="images/blog/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/varColumn3-initialize.png" >}}
-3. We create an **Apply to Each** and loop over the values of our
+
+We create an **Apply to Each** and loop over the values of our
 SharePoint list for each column by appending our variables
+
 {{< image alt="initialize var Column 3" src="images/blog/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/apply-to-each.png" >}}
+
 We append the upper part of our card by the 3 columns (consisting of the headers and rows) and the actionset plus end of the card
 
 {{< image alt="append columns to card" src="images/blog/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/append to Card.png" >}}

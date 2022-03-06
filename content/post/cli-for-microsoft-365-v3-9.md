@@ -47,7 +47,7 @@ in the previous version.
 versions**
 
 With the new [public preview release of SharePoint Framework
-1.12.1](https://developer.microsoft.com/en-us/sharepoint/blogs/announcing-public-preview-of-sharepoint-framework-1-12-1/)
+1.12.1](https://developer.microsoft.com/sharepoint/blogs/announcing-public-preview-of-sharepoint-framework-1-12-1/)
 and a new public quality assurance model that was announced with it, we
 are delighted to announce that we have added support for upgrading your
 SharePoint Framework projects to the latest beta release candidate.
@@ -66,19 +66,14 @@ version, execute:
  
 
 
-
+```bash
     m365 spfx project upgrade --preview
-
+```
 
 
 As part of our beta release cadence, when new release candidates are
 made available in npm, we will release support for upgrading to that new
 version as soon as they are available.
-
-
-
- 
-
 
 
 **Support for creating Azure Active Directory (AAD) applications from a
@@ -90,12 +85,6 @@ As part of our efforts to make development easier in Microsoft 365, we
 have released support for creating Azure Active Directory application
 registrations from an app manifest file.
 
-
-
- 
-
-
-
 A typical scenario for developers and administrators is to create app
 registrations in the Azure Portal manually through the friendly user
 interface, however this can be time-consuming and error prone to repeat
@@ -106,18 +95,11 @@ This update will enable you to copy the app manifest file that is
 generated in the Azure Portal and pass it into the command to
 confidently recreate app registrations.
 
-
-
+```bash
     m365 aad app add --manifest @manifest.json
-
-
-
- 
-
-
+```
 
 **Support for using relative URLs in SharePoint Online (SPO) commands**
-
 
 
  
@@ -125,12 +107,12 @@ CLI for Microsoft 365 contains a number of commands for managing
 SharePoint Online. Each of these commands requires you to specify the
 site or web on which you want to execute the command. For example, to
 get information about a site collection located at
-https://contoso.sharepoint.com/sites/contoso, you'd execute:
+`https://contoso.sharepoint.com/sites/contoso`, you'd execute:
  
 ```bash
 m365 spo site get --url https://contoso.sharepoint.com/sites/contoso
 ```
-\
+
 If you executed an *spo* command previously, CLI for Microsoft 365
 already knows the hostname of your SharePoint Online tenant. In such
 case, you can use a server-relative URL as well:
@@ -138,7 +120,7 @@ case, you can use a server-relative URL as well:
 ```bash
 m365 spo site get --url /sites/contoso
 ```
-\
+
 If you try to use a server-relative URL but CLI for Microsoft 365
 doesn't know of your SharePoint Online URL yet, you will see an error
 prompting you to either use an absolute URL or set the SPO URL using the
@@ -147,17 +129,12 @@ prompting you to either use an absolute URL or set the SPO URL using the
 ```bash
 m365 spo set --url https://contoso.sharepoint.com
 ```
-\
+
 You can also execute a command like *m365 spo site list* that will
 automatically detect your SharePoint Online tenant URL for you.
  
 To check if CLI detected the SPO URL previously, use the *m365 spo
 get* command.
-
-
-
- 
-
 
 
 **Moved from adal-node to msal-node**
@@ -170,20 +147,10 @@ handling authentication requests between the CLI and Microsoft 365,
 however the ADAL library was put into maintenance mode and stopped
 receiving updates on June 30th 2020.
 
-
-
- 
-
-
-
 With this release we have moved to use the Microsoft Authentication
 Library for nodejs (msal-node) which replaces adal-node, ensuring that
 the CLI for Microsoft 365 is able to receive updates and take advantage
 of new authentication features added to msal-node going forwards. 
-
-
-
- 
 
 
 
@@ -220,15 +187,17 @@ m365 planner plan add --title "My Planner Plan" --ownerGroupName "My Planner Gro
  
 On Feb 11, Microsoft announced [support for resource-specific consent in
 SharePoint via Microsoft
-Graph](https://developer.microsoft.com/en-us/microsoft-365/blogs/controlling-app-access-on-specific-sharepoint-site-collections/) in
+Graph](https://developer.microsoft.com/microsoft-365/blogs/controlling-app-access-on-specific-sharepoint-site-collections/) in
 this release we have added a new command to support adding permissions
 to SharePoint Online sites.
  
 To add a specific application permissions to a SharePoint Online site,
 execute:
- 
+
+```bash
     m365 spo site apppermission add --siteUrl https://contoso.sharepoint.com/sites/project-x --permission read --appDisplayName Foo
- 
+```
+
 **Return the User Profile properties of a specific SharePoint Online
 user**
  
@@ -259,7 +228,7 @@ m365 viva connections app create --portalUrl https://contoso.sharepoint.com --ap
 ```bash
 m365 teams app publish --filePath ./contoso.zip
 ```
-##   
+
 ## New script samples 
  
 
@@ -329,6 +298,7 @@ navigation](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/setup-exam
 etc.
  
 The given example:
+
 -   creates a site,
 -   adds a site column and a content type,
 -   adds list and modifies it's settings (add a content type to it and
@@ -513,25 +483,18 @@ executing:
 
  
 
-
-``` 
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
-
- 
 
 
 Alternatively, you can get the latest release from Docker by executing:
 
  
 
-
-``` 
+```bash
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
-
- 
-
 
 If you need more help getting started or want more details about the
 commands, the architecture or the project, go to

@@ -12,7 +12,8 @@ type: "regular"
 
 ---
 
-### Call summary
+## Call Summary
+
 
 Have a look at Microsoft 365 tenant -- [script samples
 gallery](https://aka.ms/script-samples) (90 scenarios and 118 scripts,
@@ -27,6 +28,7 @@ and - **yoteams-build-core** v1.3.0 GA.
 
 
 ### Open-source project status
+
 (**Bold** indicates new this call)
 
 | **Project**        | **Current Version**            | **Release/Status**  |
@@ -110,7 +112,8 @@ call.
     Twitter.
 
 ### Microsoft Teams Development Samples
-https://aka.ms/TeamsSampleBrowser
+
+`https://aka.ms/TeamsSampleBrowser`
 
 -   **[Meeting Record Names](https://aka.ms/tab-meeting-record-name)** -
     [Markus Möller](http://twitter.com/Moeller2_0) (Avanade) |
@@ -122,13 +125,17 @@ https://aka.ms/TeamsSampleBrowser
     Toolkit**](https://aka.ms/tab-mgt-people) - [Markus
     Möller](http://twitter.com/Moeller2_0) (Avanade) | \@Moeller2_0
 
+
 ### Microsoft Power Platform Samples
+
 [https://aka.ms/powerplatform-samples](https://aka.ms/powerplatform-samples)  
+
 - No new Power Platform samples this week
 
 
 
-### Script Samples
+### Script Sample
+
 [https://aka.ms/script-samples](https://aka.ms/script-samples)
 
 -   **[Extract Space content type Modern page as template and save to
@@ -149,7 +156,8 @@ https://aka.ms/TeamsSampleBrowser
     [\@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
 
 
-### Together mode!
+### Together mode
+
 {{< image alt="210930-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-30th-of/210930-together-mode.gif" >}}
 
 A fully packed room!  Waiting on the beginning of a new year where we
@@ -241,11 +249,12 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
 
 Additional resources around the covered topics and links from the
 slides.
--   <a name="D1"></a>D1:  Documentation - [Prerequisites: Get started with Microsoft
+
+-   Documentation - [Prerequisites: Get started with Microsoft
     Teams app
-    development](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
+    development](https://docs.microsoft.com/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
 -   D1:  Issues --
-    [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)  
+    [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 -   D1:  Video demo - [Getting stated with Microsoft Teams Toolkit and
     Blazor](https://www.youtube.com/watch?v=WPnZgcjr6PI) 
 -   D1:  Article - [Recognize active team members with the CLI for
@@ -255,9 +264,9 @@ slides.
     [TeamsLeaderboard](https://github.com/thomyg/TeamsLeaderboard) 
 -   D1:  Video - [Getting started with Blazor for Teams Development -
     E32](https://www.youtube.com/watch?v=nqCZLTm_ues) 
--   <a name="D2"></a>D2:  Sample - [Teams WebChat
+-   D2:  Sample - [Teams WebChat
     Sample](https://github.com/leeford/teams-webchat-sample) 
--   <a name="D3"></a>D3:  Connectors - [Microsoft Power Platform
+-   D3:  Connectors - [Microsoft Power Platform
     Connectors](https://github.com/microsoft/powerplatformconnectors)  
 -   D3: Connector Repo - [U.K. Government Bank
     Holidays](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/U.K.%20Government%20Bank%20Holidays) 
@@ -289,7 +298,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -314,7 +323,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -323,27 +332,29 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
 ### Upcoming Calls | Recurrent Invites
+
 -   **Microsoft 365 platform call --** October 5that 8:00 am PDT
     | <https://aka.ms/m365-dev-call>
--   **SharePoint Framework call --** October 7th at 7:00 am PDT
+-   **SharePoint Framework call** -- October 7th at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
 -   **Office add-in monthly call --** October 13th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
 -   **M365 General Dev call --** October 14th at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
 -   **Adaptive Cards monthly call --** October 14th at 9:00 am PDT
-    | <https://aka.ms/adaptivecardscommunitycall>
+| <https://aka.ms/adaptivecardscommunitycall>
+
 -   **Power Apps monthly call --** October 20th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** October 21st at 9:00 am
+-   **Microsoft Identity Platform call** -- October 21st at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
 
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are

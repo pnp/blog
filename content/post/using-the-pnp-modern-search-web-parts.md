@@ -117,6 +117,7 @@ queries to the page we're currently building, we would want to select
 the \"Query string\" option here and specify our parameter name. Once
 configured, we could pass query information from one page and pull it in
 here.
+
 ## Configuring the Search Verticals web part 
 
 Verticals allow users to limit their search results to a specific *kind*
@@ -208,6 +209,7 @@ The *Vertical* and *Horizontal* options are self-descriptive, while the
 web part properties do).
 Since our Filter web part is in a vertical column, we'll just stick
 with that option.
+
 ## Configuring the Search Results web part. 
 
 The *Search Results* web part is, as the name implies, the component we
@@ -339,7 +341,7 @@ we chose, instead of the *Query text* box above.
 The biggest difference would be that we wouldn't see any search results
 until the user actually searched for something.
 
-#### The other options\... 
+#### The other options
 
 There are five other options available in this section which are
 somewhat self explantory. The only exception to the rule might be the
@@ -393,6 +395,7 @@ web part will be about as useful as a glass nail. Once on, you can
 select Dynamic Value and select the **PnP - Search Box** option.
 
 {{< image alt="15-input-query.png" src="images/blog/using-the-pnp-modern-search-web-parts/15-input-query.png" >}}
+
 We'll also want to go ahead and connect our filters web part, which is
 as simple as toggling the switch and selecting the only item in the
 dropdown.

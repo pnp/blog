@@ -12,7 +12,7 @@ type: "regular"
 
 ---
 
-## {{< image alt="CLI for Microsoft 365" src="images/blog/cli-for-microsoft-365-v3-10/banner-cli-m365.png" >}}
+{{< image alt="CLI for Microsoft 365" src="images/blog/cli-for-microsoft-365-v3-10/banner-cli-m365.png" >}}
 
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform 
 
@@ -59,33 +59,14 @@ However if an error was thrown, the CLI would return the error as a
 plain text string and this can be inconvenient as your script is
 expecting a JSON response.
 
-
-
- 
-
-
-
 To help with error handling when using this approach, we have added
 support for changing the default error output type to JSON. To set the
 default output type for errors, execute:
 
 
-
- 
-
-
-
 ```bash
 m365 cli config set --key printErrorsAsPlainText --value false
 ```
-
-
-
- 
-
-
-
-
 
 
 **Enhanced spo site apppermission commands**
@@ -100,11 +81,8 @@ response.
 
 
 
- 
+## New Commands
 
-
-
-## New Commands 
 **Gets Azure AD app registration roles**
 When creating applications that use Azure AD authentication we can
 define custom roles that we can assign permissions to users or apps. The
@@ -173,10 +151,8 @@ collection, execute:
 ```bash
 m365 spo site apppermission set --siteUrl https://contoso.sharepoint.com/sites/project-x --appDisplayName Foo --permission read
 ```
-##   
-## New script samples 
- 
 
+## New script samples 
 
 CLI for Microsoft 365 is a great tool both for quick adjustments to the
 configuration of your Microsoft 365 tenant as well as automating more
@@ -233,19 +209,10 @@ When adding files into SharePoint Online, a common task is to create a
 defined folder structure in target document libraries within a target
 SharePoint Online site before adding the files.
 
-
-
- 
-
-
-
 This
 [script](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/add-multiple-folders-in-libraries-using-csv-file/)
 helps by showing how to create folder structures in different document
 libraries using a CSV file as an input.
-
-
-
 
 **Replace SharePoint Online Site Collection Administrator with another
 user**
@@ -279,8 +246,6 @@ returns the results.
 
 ## Contributors 
  
-
-
 This release wouldn't be possible without the help of (in alphabetical
 order)
 
@@ -377,7 +342,7 @@ executing:
  
 
 
-``` 
+```PowerShell
 npm i -g @pnp/cli-microsoft365
 ```
 

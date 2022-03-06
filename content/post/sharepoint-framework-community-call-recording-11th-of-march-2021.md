@@ -18,7 +18,9 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+
+## Call Summary
+
 
 New [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) preview released.  Work
@@ -28,7 +30,7 @@ previewed in weeks.  Register now for March trainings on
 project updates include:  SPFx v1.12 release -- ETA -- in days.  **PnPjs
 Client-Side Libraries** v2.3.0 release scheduled for March 12th, v3.0
 Hub planning and discussion issues posted - [issue
-#1636](https://github.com/pnp/pnpjs/issues/1636).   **CLI for Microsoft
+1636](https://github.com/pnp/pnpjs/issues/1636).   **CLI for Microsoft
 365** Beta v3.7 delivered.   **Reusable SPFx React Controls** -- v2.5.0
 and **Reusable SPFx React Property Controls** -- v2.4.0 delivered. 
 **PnP Modern Search** v3.18.0 released March 9th, v4.1 in progress.
@@ -38,7 +40,10 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="PictureTime-OutsideInTheGreenAmphitheater.png" src="images/blog/sharepoint-framework-community-call-recording-11th-of-march-2021/PictureTime-OutsideInTheGreenAmphitheater.png" >}}
 
+
 **Actions:**
+
+
 
 -   Register for [Sharing is Caring
     Events](https://aka.ms/sharing-is-caring)
@@ -188,13 +193,13 @@ slides.
 
 -   Blog - [Controlling app access on a specific SharePoint site
     collections is now available in Microsoft
-    Graph](https://developer.microsoft.com/en-us/graph/blogs/controlling-app-access-on-specific-sharepoint-site-collections/) 
+    Graph](https://developer.microsoft.com/graph/blogs/controlling-app-access-on-specific-sharepoint-site-collections/) 
 
 -   Repo - [Sites Selected Admin client-side web
     part](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-sites-selected-admin) 
 
 -   Documentation - [Permission resource
-    type](https://docs.microsoft.com/en-us/graph/api/resources/permission?view=graph-rest-1.0) 
+    type](https://docs.microsoft.com/graph/api/resources/permission?view=graph-rest-1.0) 
 
 -   Video -- [Requesting API Permissions in
     Azure](https://www.youtube.com/watch?v=wcJRQDsXMQ8&list=PLWZJrkeLOrbYJEr_LoIJ7-1Goy09XJzha) 
@@ -215,7 +220,7 @@ slides.
 **General Resources:**
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
@@ -227,7 +232,7 @@ slides.
     series](https://aka.ms/mgtLap)
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 -   [Microsoft 365 Community Content](http://aka.ms/m365-community-docs)
     (non-Dev docs)
 -   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
@@ -270,12 +275,14 @@ slides.
 **Other mentioned topics**
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 
 -   **Microsoft Teams monthly call --** March 16th at 8:00am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
@@ -283,7 +290,7 @@ slides.
     <https://aka.ms/PowerAppsMonthlyCall>
 -   **M365 General Dev call --** March 18th at 07:00am PDT |
     <https://aka.ms/m365-dev-sig>
--   **SharePoint Framework call --** March 25th at 07:00am PDT |
+-   **SharePoint Framework call** -- March 25th at 07:00am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Graph call - April** 6th at 8:00am PDT **|**
     <https://aka.ms/microsoftgraphcall>

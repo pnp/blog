@@ -19,6 +19,7 @@ Microsoft 365 Platform Community Call - weekly community call recording
 from October 19th, is now available from the Microsoft 365 Community
 YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
+
 **Call Summary**
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
@@ -56,6 +57,7 @@ The host of this call was [Brian T.
 Jackett](http://twitter.com/BrianTJackett) (Microsoft)
 *| *[\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A
 takes place in chat throughout the call.   
+
 **Microsoft 365 Platform News Flash**
 
 -   [Developing real-time collaborative apps with Azure, Microsoft 365,
@@ -81,7 +83,10 @@ takes place in chat throughout the call.   
     Syntex, Stream, Visio and
     more](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-ignite-2021-guide-to-sharepoint-onedrive-viva-lists/ba-p/2853103)
 
+
 **Actions:**
+
+
 
 -   Register today for Hacktoberfest 2021
     -- [https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
@@ -129,6 +134,7 @@ takes place in chat throughout the call.   
 {{< image alt="211019-together-mode.gif" src="images/blog/microsoft-365-platform-call-19th-of-october-2021/211019-together-mode.gif" >}}
 Thank you everybody for being part of the call today and for being a
 member of this community.       
+
 **Demos** delivered in this session
 
 -   **Introduction to Universal Print --** tools for better Print
@@ -196,9 +202,10 @@ slides.
 -   **PnP Weekly -- Episode 139**[ (October 18th) with Switzerland based
     MVP and Head of Solutions
     at ][Datalynx
-    AG](https://www.datalynx.ch/en/)[ - ][André
+    AG](https://www.datalynx.ch/en/)[André
     Lage](http://twitter.com/aaclage)[ |
-    \@aaclage | ][video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579)[ | ][podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-139-%e2%80%93-18th-of-october-2021/)
+    \@aaclage | ][video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579)
+    [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-139-%e2%80%93-18th-of-october-2021/)
 
 -   [Microsoft 365 Developer
     Podcast](https://m365devpodcast.com/) focused  exclusively on
@@ -208,6 +215,7 @@ slides.
     \@jthake and [Paul
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
+
 **General resources**:
 
 -   Archives - Microsoft 365 PnP Weekly
@@ -225,7 +233,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -250,7 +258,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -259,28 +267,31 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
 
--   **Power Apps monthly call **-- October 20th at 8:00 am PDT
+
+-   **Power Apps monthly call**-- October 20th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** October 21st at 7:00 am PDT
+-   **SharePoint Framework call** -- October 21st at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
--   **Microsoft Identity Platform call --** October 21st at 9:00 am
+-   **Microsoft Identity Platform call** -- October 21st at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
--   **Microsoft 365 platform call** **-- **October 26th at 8:00 am PDT
+-   **Microsoft 365 platform call** -- October 26th at 8:00 am PDT
     | <https://aka.ms/m365-dev-call>
--   **M365 General Dev call -- **October 28th at 7:00 am PDT
+-   **M365 General Dev call** -- October 28th at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
--   **Office add-in monthly call -- **November 10th at 8:00 am PDT
+-   **Office add-in monthly call** -- November 10th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
--   **Adaptive Cards monthly call -- **November 11th at 9:00 am PDT
-    | <https://aka.ms/adaptivecardscommunitycall>
+-   **Adaptive Cards monthly call** --November 11th at 9:00 am PDT
+| <https://aka.ms/adaptivecardscommunitycall>
+
 
 Microsoft 365 Platform community call focuses on latest Microsoft 365
 Platform updates and demos delivered by Microsoft presenters and takes
@@ -290,14 +301,20 @@ development/implementation) and Microsoft 365 Platform (includes
 Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning,
 PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps,
 Column Formatting, list formatting, etc. topics.) with demos commonly
-delivered by community members.   More details on the Microsoft 365
+delivered by community members. 
+
+ More details on the Microsoft 365
 community from [http://aka.ms/m365pnp](http://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  Welcome and join in the
+from <https://aka.ms/m365-dev-call>.  
+
+Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free
 to provide your input as comments to this post as well. More details on
 the Microsoft 365 community and options to get involved are available
 from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
+
+
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

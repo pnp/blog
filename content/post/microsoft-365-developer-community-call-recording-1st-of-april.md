@@ -15,7 +15,10 @@ type: "regular"
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from April 1, 2021.
 {{< image alt="sig-1st-april-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-1st-of-april/sig-1st-april-recording.png" >}}
-## Call summary
+
+
+## Call Summary
+
 
 Latest news from Microsoft 365 engineering and updates on open-source
 projects: PnP .NET libraries, PnP PowerShell, modernization tooling, on
@@ -38,7 +41,11 @@ Building Apps with Microsoft Graph, on the 14th of April. The host of
 this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
 | \@vesajuvonen.  Q&A takes place in chat throughout the call
 
+
 **Actions:**
+
+
+
 -   Register for both:
     -   Register to watch the Microsoft Graph livestream with your
         community at:  <https://aka.ms/pnpwatchparty>
@@ -88,7 +95,9 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 {{< image alt="1st-april-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-1st-of-april/1st-april-together-mode.gif" >}}
  
 
-**It's together time - Spring time!     **
+**It's together time - Spring time!**
+
+
 **Demos** delivered in this session
 
 -   **List group header formatting options** -- new list formatting
@@ -163,27 +172,27 @@ slides.
 -   [Slides used in this ​community
     call](https://1drv.ms/p/s!AlposW7ozA_90jxX2fV4s9TIDfha?e=TgkQJ8)
 -   Documentation - [Use view formatting to customize
-    SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting) 
+    SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting) 
 -   Repo - [PnP Core
-    SDK](https://github.com/pnp/pnpcore)[ ]
+    SDK](https://github.com/pnp/pnpcore)
 -   Library - [PnP Core
-    SDK](https://pnp.github.io/pnpcore/)[ ]
+    SDK](https://pnp.github.io/pnpcore/)
 -   [Documentation - [Getting started with the PnP Core
-    SDK](https://pnp.github.io/pnpcore/using-the-sdk/readme.html)[ ]]
+    SDK](https://pnp.github.io/pnpcore/using-the-sdk/readme.html)
 -   Tech Community Blog - [Getting started with PnP Core
     SDK](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-core-sdk/ba-p/2207918) 
 -   Documentation - [Create your first Microsoft Teams app using the
     Yeoman
-    generator](https://docs.microsoft.com/en-us/microsoftteams/platform/tutorials/get-started-yeoman)[ ]
+    generator](https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-yeoman)
 -   Documentation - [Single sign-on (SSO) support for
-    tabs](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso)[ ]
+    tabs](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso)
 -   Documentation - [Microsoft identity platform and OAuth 2.0
     On-Behalf-Of
-    flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow)[ ]
+    flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow)
 -   Library - [Fluent UI - React
-    Northstar](https://fluentsite.z22.web.core.windows.net/0.53.0)[ ]
+    Northstar](https://fluentsite.z22.web.core.windows.net/0.53.0)
 -   Templates & Components - [Teams React UI
-    Library](https://dev-int.teams.microsoft.com/storybook/main/index.html)[ ]
+    Library](https://dev-int.teams.microsoft.com/storybook/main/index.html)
 -   PnP Weekly -- Episode 120 with guest MVP [Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys) | \@paolopia |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-120/ba-p/2242545)
@@ -193,12 +202,14 @@ slides.
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 -   Viva Connections <https://aka.ms/VivaConnections>
+
+
 **General resources**:
 
 -   [SharePoint look book](https://lookbook.microsoft.com/)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis/)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis/)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -223,7 +234,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program) -
+    site](https://developer.microsoft.com/office/dev-program) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -232,16 +243,20 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series/)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series/)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
+
 **Upcoming Calls | Recurrent Invites:**
+
+
 -   **Microsoft Graph call - April** 6th at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint Framework call --** April 8th at 7:00 am PDT |
+-   **SharePoint Framework call** -- April 8th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Adaptive Cards monthly call --** April 8th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
@@ -257,6 +272,8 @@ slides.
     <https://aka.ms/microsoftteamscommunitycall>
 -   **Power Apps monthly call --** April 21st at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
+
+
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
@@ -272,6 +289,8 @@ or feedback, feel free to provide your input as comments to this post as
 well. More details on the Microsoft 365 community and options to get
 involved are available
 from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
+
+
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

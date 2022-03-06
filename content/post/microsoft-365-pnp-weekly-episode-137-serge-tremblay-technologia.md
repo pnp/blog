@@ -60,8 +60,9 @@ rooms on Monday, October 4, 2021.
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -86,6 +87,7 @@ everyone for your contributions to the community!
 
 **Microsoft articles:**
 
+
  
 
 -   [What's New in Microsoft Teams | September
@@ -93,7 +95,7 @@ everyone for your contributions to the community!
     Microsoft  
 -   [Announcing general availability of Microsoft Graph Export API for
     Microsoft Teams
-    messages](https://developer.microsoft.com/en-us/microsoft-teams/blogs/announcing-general-availability-of-microsoft-graph-export-api-for-microsoft-teams-messages/) -
+    messages](https://developer.microsoft.com/microsoft-teams/blogs/announcing-general-availability-of-microsoft-graph-export-api-for-microsoft-teams-messages/) -
     Microsoft 
 -   [Microsoft 365 Developer Podcast - Latest Microsoft Graph SDKs with
     Maisa Rissi and Darrel
@@ -108,6 +110,7 @@ everyone for your contributions to the community!
  
 
 **Community articles:**
+
 
  
 
@@ -157,6 +160,7 @@ everyone for your contributions to the community!
  
 
 **Additional resources:**
+
 
  
 

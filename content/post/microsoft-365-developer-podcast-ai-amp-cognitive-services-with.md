@@ -18,6 +18,7 @@ used by developers.
 Listen to the show here:  [AI & Cognitive Services with Prashant G
 Bhoyar
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/ai-cognitive-services-with-prashant-g-bhoyar/)
+
 ## Microsoft News 
 
 [Microsoft 365 Developer

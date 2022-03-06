@@ -14,7 +14,9 @@ type: "regular"
 
 {{< image alt="Thumbnail - Power Apps Community Call - April 2021.png" src="images/blog/power-apps-community-call-april-2021/Thumbnail - Power Apps Community Call - April 2021.png" >}}
 
-**Call Summary:**
+
+## Call Summary
+
 
 Topics covered in this month's community call include
 
@@ -80,7 +82,10 @@ viewing it on demand. 
     <https://aka.ms/PowerAppsDemoExtravaganza>
 
 
+
 **Actions:**
+
+
 
 -   Complete the Microsoft 365 Developer Community Survey --
     <https://aka.ms/m365pnp/survey>

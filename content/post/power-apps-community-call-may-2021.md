@@ -15,7 +15,9 @@ type: "regular"
 {{< image alt="powerautomate-call-recording-19th-may.png" src="images/blog/power-apps-community-call-may-2021/powerautomate-call-recording-19th-may.png" >}}
 
 
-**Call Summary:**
+
+## Call Summary
+
 
 Topics covered in this month's community call include - Building
 multilingual Power Apps, Using Environment Variables in Canvas Apps,
@@ -71,7 +73,10 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
     [aka.ms/PACATAdoption](https://aka.ms/PACATAdoption)  
 
 
+
 **Actions:**
+
+
 
 -   Enter now for Demo Extravaganza 2021 |
     <https://aka.ms/PowerAppsDemoExtravaganza>
@@ -83,6 +88,7 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
     | <https://aka.ms/powerappscommunitycall>
 
 **Call Agenda:**
+
 
 -   Building multilingual Power Apps -  [Haniel
     Croitoru](http://twitter.com/HCroitoru) (Protiviti) | \@HCroitoru
@@ -104,13 +110,13 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
 **Referenced in this session:**
 
 -   Documentation - [Environment variables
-    overview](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/EnvironmentVariables)
+    overview](https://docs.microsoft.com/powerapps/maker/data-platform/EnvironmentVariables)
     |
-    <https://docs.microsoft.com/en-us/powerapps/maker/data-platform/EnvironmentVariables>
+    <https://docs.microsoft.com/powerapps/maker/data-platform/EnvironmentVariables>
 -   Blog - [Announcing data source environment
-    variables](https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/)
+    variables](https://powerapps.microsoft.com/blog/announcing-data-source-environment-variables/)
     |
-    <https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/>
+    <https://powerapps.microsoft.com/blog/announcing-data-source-environment-variables/>
 
 **Learn more:**  
 

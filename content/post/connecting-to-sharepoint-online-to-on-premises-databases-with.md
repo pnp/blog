@@ -31,6 +31,7 @@ section.
 
 So several options were looked at, and as moving the database was
 quickly ruled out, we came up with these two:
+
 -   Build a solution with PowerApps and use the On-Premise data gateway.
 -   Build a solution with SharePoint Framework using a REST API using
     Azure Hybrid Connections
@@ -40,7 +41,7 @@ of ownership (TCO).
 So, the SPFX solution was chosen. The architecture was to use SPFX web
 parts that connected to a REST API hosted in Azure App Services. The
 clever part was using [Azure App Service Hybrid
-Connections](https://docs.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections) which
+Connections](https://docs.microsoft.com/azure/app-service/app-service-hybrid-connections) which
 allowed us to connect from Azure back into the customer network without
 the need to reconfigure complex firewalls.
  
@@ -48,7 +49,7 @@ To help visualize the solution, let's take a look at the architecture.
 {{< image alt="The architecture overview of the solution" src="images/blog/connecting-to-sharepoint-online-to-on-premises-databases-with/image-5.png" >}}
 
 We ended up having two [Azure Hybrid Connection
-Services](https://docs.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections) running.
+Services](https://docs.microsoft.com/azure/app-service/app-service-hybrid-connections) running.
 One for the active live environment and another for the disaster
 recovery environment.
 The data being accessed was sensitive so the REST API had to be secure.
@@ -63,13 +64,14 @@ behind Azure API Management.
 
 For the SharePoint Framework web parts to be able to authenticate with
 the REST API there are a couple of steps that need to be performed:
+
 -   Configure the SharePoint Framework solution to request permission to
     access the REST API
 -   Authorize the request made by SharePoint Framework to access the
     REST API.
 To configure the SharePoint Framework solution take a look at [this
 Microsoft
-post](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/use-aad-tutorial#configure-the-api-permissions-requests) which
+post](https://docs.microsoft.com/sharepoint/dev/spfx/use-aad-tutorial#configure-the-api-permissions-requests) which
 provides a good guide (see section Configure the API Permission
 Requests).
 The second part is performed by going into the SharePoint Admin centre
@@ -102,7 +104,9 @@ this right.
 ```
 
 ### Azure Hybrid Connections 
+
 The Azure Hybrid Connection is set up in two places.
+
 -   Azure App Service hosted in the cloud
 -   Hybrid Connection service -- running as a Windows server within the
     network.
@@ -119,9 +123,10 @@ technology supports. The transport mechanism needs to be TCP based and
 does not support UCP. For this solution, a .NET SQL Client was used
 which is supported and works really well.
 For information on setting up the Azure Hybrid Connection see the
-following [Microsoft article](https://docs.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections).
+following [Microsoft article](https://docs.microsoft.com/azure/app-service/app-service-hybrid-connections).
  
-###  Performance 
+### Performance 
+
 One of the areas that we wanted to ensure was the performance of the
 application. So we put together a POC was put together to prove the
 approach and also check performance. The performance has been very good
@@ -129,12 +134,14 @@ and provided that the REST API is developed with some thought, it
 performed better than expected.
 There was plenty of thought that went into the API. A few of the
 optimizations we made were
+
 -   making sure that we had support for paging and limiting the number
     of records retrieved at one time.
 -   Using Dapper and performing filtering at the SQL layer rather than
     pulling the data down and filtering in the API
 
 ## Conclusion 
+
 This solution enables SharePoint Online solutions to access data hosted
 On-Premises in a secure manner which is very effective. I was surprised
 by how well the solution performed.

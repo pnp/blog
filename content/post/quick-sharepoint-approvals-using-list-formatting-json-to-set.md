@@ -44,6 +44,7 @@ Three list columns are needed:
     the trick as below:
 
 {{< image alt="choices.PNG" src="images/blog/quick-sharepoint-approvals-using-list-formatting-json-to-set/choices.PNG" >}}
+
 -   A **user** field to register who approved or rejected the item
     (Suggested name **'Approval Action By'**)
 -   A dummy field to add the JSON template and display the buttons

@@ -14,7 +14,9 @@ type: "regular"
 
 {{< image alt="TitleSlide.png" src="images/blog/power-apps-community-call-march-2021/TitleSlide.png" >}}
 
-**Call Summary:**
+
+## Call Summary
+
 
 Topics covered in this month's community include Creating Responsive
 Dataverse for Teams Power Apps (*Use responsive containers for gallery
@@ -59,7 +61,7 @@ March 17, 2021.  Thank for attending the call or viewing it on demand. 
 **Recent News & Cool Stuff:**
 
 -   Introducing Power Apps mobile app's new look (public preview)
-    - [https://powerapps.microsoft.com/en-us/blog/introducing-power-apps-mobile-apps-new-look-public-previe\...](https://powerapps.microsoft.com/en-us/blog/introducing-power-apps-mobile-apps-new-look-public-preview)
+    - [https://powerapps.microsoft.com/blog/introducing-power-apps-mobile-apps-new-look-public-previe\...](https://powerapps.microsoft.com/blog/introducing-power-apps-mobile-apps-new-look-public-preview)
 -   Power Apps Custom Functions Library
     - <https://github.com/yourekittenme/powerapps-custom-functions>
 -   Power Apps Demo Extravaganza 2021
@@ -67,7 +69,10 @@ March 17, 2021.  Thank for attending the call or viewing it on demand. 
 -   Introducing Microsoft Power Fx - <https://aka.ms/PowerAppsPowerFX> 
 
 
+
 **Actions:**
+
+
 
 -   Entries Start May for Demo Extravaganza 2021
     - <https://aka.ms/PowerAppsDemoExtravaganza>
@@ -76,7 +81,7 @@ March 17, 2021.  Thank for attending the call or viewing it on demand. 
 -   Join the M365 Customer Success Platform Panel -
     <https://aka.ms/SuccessPanel>
 -   Provide feedback -- Microsoft Teams Developer Community channels
-    - <https://docs.microsoft.com/en-us/microsoftteams/platform/feedback>
+    - <https://docs.microsoft.com/microsoftteams/platform/feedback>
 -   Join us for our next call: April 21, 2021 at 08:00am PDT
     - <https://aka.ms/powerappscommunitycall>
 

@@ -34,13 +34,18 @@ This trick is just for development purposes. In Production environment,
 you should update your `package-solution.json` file to add required
 permissions and allow them (or ask for validation) in the *API
 access* page.
+
 ## Prerequisites 
+
 1.  An Office 365 (Dev) Tenant or a Partner Demo Tenant
 2.  The following Azure AD role at least
     -   Application Administrator
+
 ## With Graph API 
+
 First, we're going to play with Graph API through the [Microsoft Graph
 Toolkit](https://docs.microsoft.com/fr-fr/graph/toolkit/overview).
+
 ### Prepare your sample 
 
 Init a SPFx project (WebPart one with React, let's call it *HelloApi*),
@@ -49,6 +54,7 @@ executing `npm i @microsoft/mgt @microsoft/mgt-react` from the
 project's root path.
 Once done, open your main component file (let's say
 here **HelloApi.tsx**) and add the `PeoplePicker` component like this:
+
 ```javascript
 import * as React from 'react';
 import styles from './HelloApi.module.scss';
@@ -78,6 +84,7 @@ export default class HelloApi extends React.Component<IHelloApiProps, {}> {
   }
 }
 ```
+
 ### Run it in remote workbench 
 
 Now run your sample with `gulp serve` and display your web part in your
@@ -125,6 +132,7 @@ approval.
 m365 login # Don't execute that command if you're already connected
 m365 spo serviceprincipal grant add --resource 'Microsoft Graph' --scope 'People.Read'
 ```
+
 **Info**
 
 Don't be surprised if by that way, the permission appears in the
@@ -145,7 +153,7 @@ handle anyway.
 You can follow [this Microsoft
 article](https://docs.microsoft.com/fr-fr/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi) until
 the "[Deploy the
-solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi#deploy-the-solution-to-the-sharepoint-app-catalog)"
+solution](https://docs.microsoft.com/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi#deploy-the-solution-to-the-sharepoint-app-catalog)"
 part.
 Instead of bundling and shipping, we'll add the AAD App
 (called *contoso-api-dp20200915* if we follow the mentioned article)
@@ -174,6 +182,7 @@ this:
 m365 login # Don't execute that command if you're already connected
 m365 spo serviceprincipal grant add --resource 'contoso-api-dp20200915' --scope 'user_impersonation'
 ```
+
 **Info**
 
 Don't be surprised if by that way, the permission appears in the
@@ -186,11 +195,13 @@ Identity** for any reason, you better have to rename the linked AAD
 Application to give it a different name than both your Function and
 its **Managed Identity**. Otherwise, the command will try to find a
 scope on it instead of the AAD App and fail.
+
 ### Updated sample
 
 To run your custom API from your SPFx component, you can update your
 sample like below:
 *IHelloApiProps.ts*
+
 ```javascript
 import { AadHttpClientFactory } from '@microsoft/sp-http';
 
@@ -202,6 +213,7 @@ export interface IHelloApiProps {
  
 
 *HelloApiWebPart.ts*
+
 ```javascript
 // ...
 export default class HelloApiWebPart extends BaseClientSideWebPart<IHelloApiWebPartProps> {
@@ -226,6 +238,7 @@ export default class HelloApiWebPart extends BaseClientSideWebPart<IHelloApiWebP
  
 
 *HelloApi.tsx*
+
 ```javascript
 import * as React from 'react';
 import styles from './HelloApi.module.scss';

@@ -27,7 +27,7 @@ Canada from being a customer, then moving to Microsoft as a Premier
 Field Engineer and also on his recent role change on moving to the
 Microsoft Graph team. They focus on his current responsibilities on
 driving usage for [Microsoft Graph data
-connect](https://docs.microsoft.com/en-us/graph/data-connect-overview),
+connect](https://docs.microsoft.com/graph/data-connect-overview),
 which helps on accessing information in Microsoft 365. They also talk
 about [Microsoft 365 DSC](https://microsoft365dsc.com/) open-source work
 which Nik has been driving for a long time to be able to have desired
@@ -38,8 +38,8 @@ Community.
 
 This episode was recorded on Tuesday, April 6, 2021.
 
--   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+
+-   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -57,12 +57,14 @@ everyone for your contributions to the community!
 
 **Events:**
 
+
 -   April 14, 2021 - [Building Apps with Microsoft
     Graph](https://learntogether-graph.splashthat.com/)
 -   May 25-27, 2021- [Microsoft Build
     2021](https://mybuild.microsoft.com/)
 
 **Microsoft articles:**
+
 
 -   [Install Viva Connections
     today](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/install-viva-connections-today/ba-p/2245410) -
@@ -80,10 +82,10 @@ everyone for your contributions to the community!
     | \@mkashman
 -   [Get Microsoft Graph change notifications delivered through Azure
     Event
-    Hubs](https://developer.microsoft.com/en-us/microsoft-365/blogs/get-microsoft-graph-change-notifications-delivered-through-azure-event-hubs/) -
+    Hubs](https://developer.microsoft.com/microsoft-365/blogs/get-microsoft-graph-change-notifications-delivered-through-azure-event-hubs/) -
     Microsoft
 -   [Accelerate your app adoption with MSAL for
-    Node.js](https://developer.microsoft.com/en-us/microsoft-365/blogs/accelerate-your-app-adoption-with-msal-for-node-js/) -
+    Node.js](https://developer.microsoft.com/microsoft-365/blogs/accelerate-your-app-adoption-with-msal-for-node-js/) -
     Microsoft
 -   [What's new for admins in Microsoft 365 Apps for
     enterprise](https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-for-admins-in-microsoft-365-apps-for-enterprise/ba-p/2236079) -
@@ -98,6 +100,7 @@ everyone for your contributions to the community!
     \@aprildunnam
 
 **Community articles:**
+
 
 -   [Microsoft Graph Fundamentals learning path -- Module
     1](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-1/ba-p/2249800)
@@ -160,6 +163,7 @@ everyone for your contributions to the community!
  
 
 **Additional resources:**
+
 
  
 

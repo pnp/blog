@@ -15,7 +15,9 @@ type: "regular"
 {{< image alt="recording-28th-oct.png" src="images/blog/microsoft-365-developer-community-call-recording-28th-of-october/recording-28th-oct.png" >}}
  
 
-## Call summary
+
+## Call Summary
+
 
 SharePoint Framework v1.13 is now generally available!  Have you visited
 the Microsoft 365 tenant -- [script samples
@@ -124,14 +126,16 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -- Thank you :clapping_hands:
 **Together Mode!**
+
 {{< image alt="211028-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-28th-of-october/211028-together-mode.gif" >}}
+
 Are there ghosts or shadows occupying seats in this week's Together
 Mode photo?  Mention during call about people \"beaming up/down\" to the
 theater today?  
+
 **Demos** delivered in this session
 
--   **Configuration-as-Code for Microsoft 365 with Microsoft365DSC
-    -- **Desire State Configuration -- a PowerShell Module that
+-   **Configuration-as-Code for Microsoft 365 with Microsoft365DSC** Desire State Configuration -- a PowerShell Module that
     represents your entire Microsoft 365 tenant's configuration as code
     and allows DevOps to monitor and control configuration
     discrepancies.  Capabilities include automate, export, synchronize,
@@ -150,7 +154,7 @@ theater today?  
     send Adaptive Card to communicate champion status.   
 
 -   **Updates on Independent Publisher Connectors & Care Quality
-    Commissions Connector Demo -- ** 13 custom connectors added in
+    Commissions Connector Demo** -- 13 custom connectors added in
     October.  Create a connector earn a Credly badge.  Get a look at the
     CQC connector that takes data from the Care Quality Commission in
     England - independently gathers data on care service providers.   A
@@ -237,6 +241,7 @@ slides.
     and Chief Technical Architect at Advania - [Simon
     Ågren](http://twitter.com/agrenpoint) |
     [\@AgrenPoint](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/271184). | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/ba-p/2881228) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-140-%e2%80%93-25th-of-october-2021/)
+
 **General resources**:
 
 -   Samples - [Power Platform
@@ -264,7 +269,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -289,7 +294,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -298,27 +303,30 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
 
--   **Microsoft 365 platform call** **-- **November 2nd at 8:00 am PDT
+
+- **Microsoft 365 platform call** -- November 2nd at 8:00 am PDT
     | <https://aka.ms/m365-dev-call>
--   **SharePoint Framework call --** November 4th at 7:00 am PDT
+-   **SharePoint Framework call** -- November 4th at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
--   **Office add-in monthly call -- **November10th at 8:00 am PDT
+-   **Office add-in monthly call** -- November10th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
--   **M365 General Dev call -- **November 11th at 7:00 am PDT
+-   **M365 General Dev call** -- November 11th at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
--   **Adaptive Cards monthly call -- **November 11th at 9:00 am PDT
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- November 17th at 8:00 am PDT
+-   **Adaptive Cards monthly call** --November 11th at 9:00 am PDT
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- November 17th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** November 18th at 9:00 am
+-   **Microsoft Identity Platform call** -- November 18th at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365

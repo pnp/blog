@@ -38,13 +38,13 @@ process, that
 1.  walks users through these considerations
 2.  ask them how the "team of their dreams" would look like:
 
--   Which channels would they need?
--   Which columns in an additional SharePoint library could support
+    - Which channels would they need?
+    - Which columns in an additional SharePoint library could support
     their work?
--   How about Microsoft lists?
--   What would they use to keep track of their tasks?
+    - How about Microsoft lists?
+    - What would they use to keep track of their tasks?
 
-3.  as a result provisions the Team for them.
+3. as a result provisions the Team for them.
 
 We agreed on making this both open-source and enterprise-grade, which
 affected all of our
@@ -66,6 +66,7 @@ affected all of our
 We also needed to make some hard decisions, like
 
 ### No Microsoft Planner provisioning 
+
 As the Microsoft Planner API doesn't support application-level
 permissions, we chose to not provision a Planner part with
 ProvisionGenie until Planner comes up with a fully working API. This
@@ -109,6 +110,7 @@ it: <https://provisiongenie.com>
 
 We would love to get your feedback and improve our
 solution!
+
 -   [Yannick
     Reekmans](https://twitter.com/YannickReekmans "https://twitter.com/YannickReekmans"),
     for debugging, guidance, emotional support and introducing me to

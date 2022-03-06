@@ -18,7 +18,7 @@ Listen to the show here: [Viva Connections with John Nguyen and Luca
 Bandinelli
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/viva-connections-with-john-nguyen-and-luca-bandinelli/) 
 
-### Links from the show: 
+## Links from the show
 
 -   <https://aka.ms/viva/connections/preview/register>
 -   [Microsoft Viva Connections helps everyone to stay engaged and
@@ -27,11 +27,11 @@ Bandinelli
 ### Microsoft News 
 
 -   [SharePoint Framework v1.12.1 release
-    notes](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/release-1.12.1)
+    notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.12.1)
 -   [Microsoft Graph community call -- May
     2021](https://www.youtube.com/watch?v=MPVh2XmhWhg)
 -   [Understanding the Office Add-ins
-    runtime](https://developer.microsoft.com/en-us/graph/blogs/understanding-office-add-ins-runtime/)
+    runtime](https://developer.microsoft.com/graph/blogs/understanding-office-add-ins-runtime/)
 
 ### Community Links 
 

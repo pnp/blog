@@ -19,10 +19,14 @@ formatting that SharePoint can give you for free, but something truly
 outside of the box.
 
 Continue reading to learn how to turn this\....
+
 {{< image alt="Will_Holland_0-1615739594928.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_0-1615739594928.png" >}}
+
 ...into something like this...
+
 {{< image alt="Will_Holland_1-1615739594936.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_1-1615739594936.png" >}}
-# What do you need to get started? 
+
+## What do you need to get started? 
 
 Thankfully, custom formatting isn't terribly complicated, although it
 does take some getting used to. The only thing you'll absolutely need is
@@ -40,9 +44,10 @@ would a little familiarity with Excel style functions, but none of it is
 required to just get started.
 If you haven't already, you may also want to at least scan through the
 official [documentation for column
-formatting](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting#get-started-with-column-formatting)
+formatting](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting#get-started-with-column-formatting)
 to get yourself acquainted with the schema used.
-# Schema Basics 
+
+## Schema Basics 
 
 The key to creating your custom column formatting will be in
 understanding the basics of the JSON schema used to define your
@@ -119,7 +124,7 @@ second child is another div that simply displays the string value of the
 column, resulting in the following:
 {{< image alt="Will_Holland_3-1615739594938.png" src="images/blog/getting-started-with-sharepoint-s-custom-column-formatting/Will_Holland_3-1615739594938.png" >}}
 
-# Working with text 
+## Working with text 
 
 In the last example, we used the *txtContent* property and the
 **\@currentField** built-in variable. For basic SharePoint field types,
@@ -174,7 +179,7 @@ Not all fonts or font-families may be supported and it's a bit of
 trial-and-error to find the right one. In general, stick "Web Safe
 Fonts" and you'll be alright.
 
-# Working with People fields 
+### Working with People fields 
 
 Like with number fields, people fields also have a set of extra
 properties we can use to display different things related to our people.
@@ -251,7 +256,7 @@ telling it to use one of the built-in CSS classes available in
 SharePoint. Using these, we can support using theme colors without
 worrying about what happens when someone changes the current theme.
 
-# Working with expressions 
+### Working with expressions 
 
 There will be plenty of cases where we need to use some programmatic
 logic to accomplish your goals. Let's look at our "Race" column example.
@@ -291,7 +296,7 @@ By structuring my pictures in this way, I can use an Excel-style
 expression to display the right image for the selected race with little
 effort.
 
-# Working with multi-valued fields 
+### Working with multi-valued fields 
 
 Many fields in SharePoint allow the selection of multiple values, such
 as lookups, people and choice columns. In these cases, we need to use a
@@ -340,7 +345,7 @@ Whatever text you put in front of "**in \@currentField**" will be your
 variable name, so if we had said "**thing in \@currentField**", our
 variable would be **\[\$thing\]**.
 
-## Dealing with conditions 
+### Dealing with conditions 
 
 Plenty of times, you'll want to render things differently based on
 certain conditions. SharePoint offers a lot built-in support for
@@ -393,7 +398,8 @@ something like this:
 icon. Otherwise, if 'role' is equal to 'Guardian', then use the the
 'Shield' icon. Otherwise, if 'role' is equal to 'Melee', then use the
 'DecisionSolid' icon. Otherwise, just use the 'Bullseye' icon".
-# A final example 
+
+### A final example 
 
 For our final example, we'll look at the last column in our list:
 **From**.
@@ -460,20 +466,19 @@ start your own journey!
 While this post was pretty long, it still couldn't quite cover
 *everything* out there. Below are some additional resources you may find
 useful.
-[Examples Repository
-(github.com)](https://github.com/willholland/getting-started-with-custom-formatting)
--- My repository containing all of the JSON definitions shown in this
+
+* [Examples Repository
+(github.com)](https://github.com/willholland/getting-started-with-custom-formatting) -- My repository containing all of the JSON definitions shown in this
 blog, as well as a PnP provisioning template you can use to provision
 everything.
-[Use column formatting to customize SharePoint | Microsoft
-Docs](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting#get-started-with-column-formatting)
--- The official documentation for custom column formatting.
-[Flicon - Fluent UI Icon Search](https://www.flicon.io/) -- A super
+* [Use column formatting to customize SharePoint | Microsoft
+Docs](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting#get-started-with-column-formatting) -- The official documentation for custom column formatting.
+* [Flicon - Fluent UI Icon Search](https://www.flicon.io/)-- A super
 handy tool for finding the right Fabric UI icon.
-[SharePoint List Formatting Samples
+* [SharePoint List Formatting Samples
 (pnp.github.io)](https://pnp.github.io/sp-dev-list-formatting/) -- A PnP
 community driven repository of custom column & view formatting samples.
 A great place to go to get inspired, or look for other samples if
 Hobbits aren't your thing.
-[Iconfinder.com](https://www.iconfinder.com/) -- This is the site I used
+* [Iconfinder.com](https://www.iconfinder.com/) -- This is the site I used
 to purchase the icons shown for weapons and races.

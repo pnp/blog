@@ -19,7 +19,9 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+
+## Call Summary
+
 
 Welcome Luise Freese | \@LuiseFreese to the **Sharing is Caring** team
 and Joel Rodrigues | \@JoelFMRodrigues who is a new maintainer on the
@@ -43,7 +45,10 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 {{< image alt="together-pnp-25th-march-bi-weekly.gif" src="images/blog/sharepoint-framework-community-call-recording-25th-of-march-2021/together-pnp-25th-march-bi-weekly.gif" >}}
  
 
+
 **Actions:**
+
+
 
 -   RSVP to attend - 2-hour livestream -- Building Apps for with
     Microsoft Graph -- 2 sessions -- 2:00pm AEST and 8:30am PDT |
@@ -200,7 +205,7 @@ slides.
     PnP](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-command-convert-to-pdf) 
 
 -   Documentation -  [SPRenderListDataOptions
-    options](https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#sprenderlistdataoptions-options) 
+    options](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#sprenderlistdataoptions-options) 
 
 -   Article - [Send a message to Microsoft Teams using Microsoft Graph
     in
@@ -225,7 +230,7 @@ slides.
 **General Resources:**
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
@@ -237,7 +242,7 @@ slides.
     series](https://aka.ms/mgtLap)
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
 -   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
@@ -279,17 +284,19 @@ slides.
 **Other mentioned topics**
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 
 -   **M365 General Dev call --** April 1st at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
 -   **Microsoft Graph call -** April 6th at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint Framework call --** April 8th at 7:00 am PDT |
+-   **SharePoint Framework call** -- April 8th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Adaptive Cards monthly call --** April 8th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>

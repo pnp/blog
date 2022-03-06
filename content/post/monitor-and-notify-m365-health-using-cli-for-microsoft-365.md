@@ -76,11 +76,7 @@ independent of the OS platform which you use.
 -   [Need to know more on how to use CLI for Microsoft
     365](#need-to-know-more-on-how-to-use-cli-for-microsoft-365)
 
-##   
-
 ## Implementation 
-
-###   
 
 ### Authentication and Login 
 
@@ -98,7 +94,6 @@ process, it is safe to go ahead with this approach. CLI for Microsoft
 certificate](https://pnp.github.io/cli-microsoft365/user-guide/connecting-office-365/#log-in-using-a-certificate) if
 you prefer that approach.
 
-###   
 
 ### Get status of Tenant 
 
@@ -248,7 +243,7 @@ What we do in the above code is,
 ## Bonus Solution - Configure Power Automate for doing any Business Process 
 
 As we may know [Power
-Automate](https://flow.microsoft.com/en-us/) provides rich features
+Automate](https://flow.microsoft.com/) provides rich features
 which we can leverage if you want to do any action based on the
 available triggers. Say e.g., when your SharePoint service is not
 Operational, need to initiate a Service Request in your Help Desk

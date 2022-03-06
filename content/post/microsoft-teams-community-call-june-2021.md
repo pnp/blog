@@ -11,12 +11,9 @@ type: "regular"
 
 
 ---
-Recording of the Microsoft Teams monthly community call from June 15,
-2021.
-
- 
 
 {{< image alt="teams-june-15th-recording.png" src="images/blog/microsoft-teams-community-call-june-2021/teams-june-15th-recording.png" >}}
+
 
 
 **Call Summary**
@@ -43,7 +40,10 @@ Portal](https://aka.ms/teams-dev-docs).   The host of this call was
 [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen.  Q&A takes place in chat throughout the call
 
+
 **Actions:**
+
+
 
 -   Register for Sharing is Caring Events:
     -   [First Time Contributor Session
@@ -77,7 +77,7 @@ Portal](https://aka.ms/teams-dev-docs).   The host of this call was
  
 
 **Microsoft Teams Development
-Samples: **<https://aka.ms/teams-samples>
+Samples:**<https://aka.ms/teams-samples>
 
 -   Your community is looking for Samples!  Please share your good
     work  
@@ -92,6 +92,7 @@ Samples: **<https://aka.ms/teams-samples>
 person at an event one day.**
 
  
+
 
 **Demos** delivered in this session
 
@@ -116,9 +117,9 @@ person at an event one day.**
 -   **Introduction to Microsoft Teams Toolkit v2** -- helps developers
     create and deploy Teams apps with integrated Identity, access to
     cloud storage, data from [Microsoft
-    Graph](https://docs.microsoft.com/en-us/graph/teams-concept-overview),
+    Graph](https://docs.microsoft.com/graph/teams-concept-overview),
     and other services
-    in [Azure](https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-bot) and [M365](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/prepare-your-o365-tenant) with
+    in [Azure](https://docs.microsoft.com/microsoftteams/platform/build-your-first-app/build-bot) and [M365](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/prepare-your-o365-tenant) with
     a "zero-configuration" approach (single-line statements and no side
     trips to Azure and ADD) to the developer experience.  Efficiently
     configures front-end, back-end, bot at same time.   Simplifies
@@ -173,13 +174,13 @@ slides.
 
 -   Blog - [Microsoft Graph Mailbag -- Create engaging apps with the
     Microsoft Teams Activity Feed
-    API](https://developer.microsoft.com/en-us/graph/blogs/microsoft-graph-mailbag-create-engaging-apps-with-the-microsoft-teams-activity-feed-api/) 
+    API](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-create-engaging-apps-with-the-microsoft-teams-activity-feed-api/) 
 
 -   Documentation - [Messaging extensions -- Search
-    Commands](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions#search-commands) 
+    Commands](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions#search-commands) 
 
 -   Documentation - [User Specific
-    Views](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/user-specific-views) 
+    Views](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/user-specific-views) 
 
 -   Repo - [Document
     Manager](https://github.com/pnp/teams-dev-samples/tree/main/samples/msgext-bot-SPUploader) 
@@ -211,17 +212,18 @@ slides.
 
  
 
+
 **General resources**:
 
 -   Controls -  [Designing your Microsoft Teams
     app](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-teams-community-call-may-2021/ba-p/Designing%20your%20Microsoft%20Teams%20app) | <https://aka.ms/teams/ui/design>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   Microsoft Learn - [Microsoft Teams development Learning
-    Paths](https://docs.microsoft.com/en-us/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
+    Paths](https://docs.microsoft.com/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 -   [Microsoft Teams app
-    templates](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
+    templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) |
     aka.ms/m365devyoutube
@@ -232,13 +234,15 @@ slides.
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
     Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 
+
 **Upcoming Calls | Recurrent Invites:**
+
 
  
 
 -   **Power Apps monthly call --** June 16^th^ at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** June 17^th ^at 7:00 am PDT |
+-   **SharePoint Framework call** -- June 17^th ^at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** June 17^th^ at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar>

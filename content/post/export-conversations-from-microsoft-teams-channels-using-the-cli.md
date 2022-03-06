@@ -11,8 +11,8 @@ type: "regular"
 ---
 
 
-We utilize Teams during incidents and create channels for each. We would
-like to be able to export conversation history.
+We utilize Teams during incidents and create channels for each. We would like to be able to export conversation history.
+
 -   right now the only option we have is to go through Security &
     Compliance.
 -   Teams usage is growing in every organization and it would soon

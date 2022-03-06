@@ -94,7 +94,7 @@ coincidence. Initially I started with a classic color scheme: red and
 green. But then I realized that red-green colorblindness is one of the
 most common visual disorders. I switched the colors to make sure that
 everybody can see everything on the screen. Learn more about
-[accessibility.](https://docs.microsoft.com/en-us/microsoft-365/community/accessibility-by-design)
+[accessibility.](https://docs.microsoft.com/microsoft-365/community/accessibility-by-design)
 
 On all the Power App applications you can find the checker symbol in the
 upper right corner. It's a very easy step to make sure that your product

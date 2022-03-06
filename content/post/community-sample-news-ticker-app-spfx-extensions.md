@@ -49,6 +49,7 @@ mechanism in our app to configure (sort, filter, top, etc.) the data to
 be displayed. Just use the OOTB list view configuration.
 It's very easy to get the data based on the list view using the [PnP
 JS](https://pnp.github.io/pnpjs/sp/). Below is my implementation:
+
 1.  Get the view information
     using [list.views.getByTitle(\...)](https://pnp.github.io/pnpjs/sp/views/#get-views-in-a-list)
 2.  Get list item based on the list view XML

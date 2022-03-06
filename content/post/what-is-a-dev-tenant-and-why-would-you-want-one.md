@@ -11,11 +11,11 @@ type: "regular"
 ---
 
 By visiting [Developer Program - Microsoft
-365](https://developer.microsoft.com/en-us/microsoft-365/dev-program "Developer Program - Microsoft 365") and
+365](https://developer.microsoft.com/microsoft-365/dev-program "Developer Program - Microsoft 365") and
 selecting "Join Now" you'll be walked through a wizard that will help
 you provision your very own Microsoft 365 tenant. You can see the
 details
-[here,](https://developer.microsoft.com/en-us/microsoft-365/dev-program#Subscription) but
+[in the developer program](https://developer.microsoft.com/microsoft-365/dev-program#Subscription) but
 the general idea is that you'll have a tenant, where you get to be the
 omnipotent global admin, with 25 E5 Microsoft 365 licenses available to
 you that allow you to build out and test various scenarios within the
@@ -37,7 +37,7 @@ progress. In addition, for those that work with Microsoft 365 every day
 the ability to keep up with what's going on, what's changing, and how to
 best implement your ideas is priceless. You can keep up with the status
 of your subscription by visiting the [Dashboard - Microsoft 365 Dev
-Center](https://developer.microsoft.com/en-us/microsoft-365/profile "Dashboard - Microsoft 365 Dev Center")
+Center](https://developer.microsoft.com/microsoft-365/profile "Dashboard - Microsoft 365 Dev Center")
 page.
 
 ## Understanding the relationship between Azure and a "Tenant"
@@ -77,7 +77,7 @@ not targeted for a single AAD.
 Another awesome feature of these developer subscriptions is the ability
 to seed the tenant with sample data packs. To do this all you have to do
 is go to your [Dashboard - Microsoft 365 Dev
-Center](https://developer.microsoft.com/en-us/microsoft-365/profile "Dashboard - Microsoft 365 Dev Center")
+Center](https://developer.microsoft.com/microsoft-365/profile "Dashboard - Microsoft 365 Dev Center")
 page and click on the kind of data pack you would like to add. You must
 have the "Users" sample data pack first but then you can also add Mail
 and Events as well as SharePoint data.
@@ -106,5 +106,5 @@ dev tenants, they will auto renew every 90 days.
 
 So, now that you're all up to speed, what are you waiting for?! Get
 your [dev tenant
-now](https://developer.microsoft.com/en-us/microsoft-365/dev-program "Developer Program - Microsoft 365")
+now](https://developer.microsoft.com/microsoft-365/dev-program "Developer Program - Microsoft 365")
 and get on your way to building some awesome solutions!
