@@ -1,0 +1,33 @@
+
+
+name: Markdown Lint
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  lxntify:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: markdown-lint
+      # You may pin to the exact commit or the version.
+      # uses: articulate/actions-markdownlint@17b8abe7407cd17590c006ecc837c35e1ac3ed83
+      uses: articulate/actions-markdownlint@v1.1.0
+      with:
+        # markdownlint config file
+        # config: # optional
+        # Markdown files to scan
+        # files: # optional, default is **/*.{md,markdown}
+        # Files or directories to ignore
+        # ignore: # optional
+        # Try to fix basic errors
+        fix: true
