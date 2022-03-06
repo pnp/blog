@@ -285,8 +285,8 @@ Now test the webpart in SharePoint-SiteURL +
 {{< image alt="Output.png" src="images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png" >}}
  
 
-Find the full source code
-[here](https://github.com/chandaniprajapati/spfx-fluentui-persona).
+Find here the [full source code
+](https://github.com/chandaniprajapati/spfx-fluentui-persona).
  
 
 ## Summary 

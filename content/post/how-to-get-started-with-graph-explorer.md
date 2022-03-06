@@ -130,8 +130,8 @@ your app.
 I am curious - which other tools help you developing with Microsoft
 Graph? Recently, [Elio Struyf published a VSCode
 extension](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-msgraph-autocomplete),
-that auto-completes Graph URLs for you, read more about it
-[here](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-vscode-extension-for-autocompleting-your-microsoft-graph/ba-p/2231013).
+that auto-completes Graph URLs for you, read more about it:
+[vscode-msgraph-autocomplete](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-vscode-extension-for-autocompleting-your-microsoft-graph/ba-p/2231013).
 Also, please share below what you build with Microsoft Graph? And how
 you use Graph Explorer? If you like to contribute, you can check out
 [Graph Explorer on

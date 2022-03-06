@@ -32,7 +32,7 @@ Also, I have been lucky to have this solution accepted as part of the
 samples in the [Microsoft Patterns And
 Practices](https://pnp.github.io/) initiative, so the Flow, Custom
 Connector and implementation instructions are available in
-GitHub [here](https://github.com/pnp/powerautomate-samples/tree/main/samples/teams-invites-via-graph-api).
+[GitHub](https://github.com/pnp/powerautomate-samples/tree/main/samples/teams-invites-via-graph-api).
 
 ## Getting Hands-On With Graph 
 
@@ -116,7 +116,7 @@ Leave this tab open and let's go and define our custom connector.
 ## Defining The Custom Connector 
 
 Jan Bakker has done an excellent job of walking you through
-this, [here](https://powerusers.microsoft.com/t5/Power-Automate-Community-Blog/Build-a-custom-connector-for-Microsoft-Graph-API/ba-p/647492).
+this, [Build a custom connector](https://powerusers.microsoft.com/t5/Power-Automate-Community-Blog/Build-a-custom-connector-for-Microsoft-Graph-API/ba-p/647492).
 His article goes into a lot of detail, so I will just take you through
 what is needed for this project.
 In make.powerapps.com, select the appropriate environment and chose
@@ -147,7 +147,7 @@ should be presented with the below screen.
 
 Now, this is where we need to use the values you saved (you did save
 them?) when you were registering your app
-up [here](https://linked365.blog/2021/05/06/using-power-automate-and-graph-api-to-manage-external-access-to-teams/#Granting-Permissions).
+up 
 Client Id is populated with the Application (client) ID, the Client
 secret is populated with the Value from the Client Secret grid. Login
 URL will be populated for you. The Resource URL value should be

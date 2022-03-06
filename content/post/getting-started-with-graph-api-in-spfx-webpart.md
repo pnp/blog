@@ -25,7 +25,7 @@ the following Microsoft services like  Bookings, Calendar, Delve, Excel,
 Microsoft 365 compliance eDiscovery, Microsoft Search, OneDrive,
 OneNote, Outlook/Exchange, People (Outlook contacts), Planner,
 SharePoint, Teams, To Do, Workplace Analytics. for more details refer to
-[this](https://docs.microsoft.com/graph/overview?view=graph-rest-1.0 "Graph API").
+[Graph API](https://docs.microsoft.com/graph/overview?view=graph-rest-1.0 "Graph API").
  
 ## How to test API in graph explorer? 
  
@@ -100,7 +100,7 @@ code tool. Here, I am using the VS code, so I will execute the command:
 
 Now will create a demo to read messages of a user. for more details
 refer to
-[this](https://docs.microsoft.com/graph/api/message-get?view=graph-rest-1.0&tabs=http "this").
+[Microsoft Graph](https://docs.microsoft.com/graph/api/message-get?view=graph-rest-1.0&tabs=http "this").
  
 So first of all we have to set permission as per our endpoint in
 **package-solution.json**. Now the question is which permission we have
@@ -299,8 +299,7 @@ Now test the web part in SharePoint-SiteURL +
  
 {{< image alt="Output.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Output.png" >}}
  
-Find the full source code
-[here](https://github.com/chandaniprajapati/GraphAPIDemo).
+Find the [full source code](https://github.com/chandaniprajapati/GraphAPIDemo).
  
 ## Summary 
  

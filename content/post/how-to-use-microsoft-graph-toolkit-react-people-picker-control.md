@@ -312,8 +312,8 @@ export default class ReactAzureadUsers extends React.Component<IReactAzureadUser
 {{< image alt="react-ad-mgt-users.gif" src="images/blog/how-to-use-microsoft-graph-toolkit-react-people-picker-control/react-ad-mgt-users.gif" >}}
  
 
-Find the full source
-code [here](https://github.com/chandaniprajapati/mgt-react-people-pickcer).  
+Find the [full source
+code](https://github.com/chandaniprajapati/mgt-react-people-pickcer).  
 
 ## Summary
 

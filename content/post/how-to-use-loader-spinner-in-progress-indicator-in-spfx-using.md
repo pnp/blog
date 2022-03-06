@@ -250,8 +250,8 @@ export default class SpfxLoader extends React.Component<ISpfxLoaderProps, ISpfxL
 {{< image alt="spfx-loader.gif" src="images/blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/spfx-loader.gif" >}}
  
 
-Find the full source code
-[here](https://github.com/chandaniprajapati/react-spfx-loader).  
+Find here the [full source code
+](https://github.com/chandaniprajapati/react-spfx-loader).  
  
 
 ## Summary 

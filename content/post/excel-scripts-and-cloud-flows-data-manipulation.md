@@ -189,14 +189,13 @@ Documents/Office Scripts where you can export/import and share.
 {{< image alt="DamoBird365_1-1621236596024.png" src="images/blog/excel-scripts-and-cloud-flows-data-manipulation/DamoBird365_1-1621236596024.png" >}}
 
  
-Want to see a proof of concept ?  Take a look at my Invoicing Demo
-[here](https://damobird365.birdhoose.co.uk/2021/03/24/power-automate-office-scripts-populate-an-excel-template-dynamically-using-type-script/)
+Want to see a proof of concept ?  Take a look at my [Invoicing Demo](https://damobird365.birdhoose.co.uk/2021/03/24/power-automate-office-scripts-populate-an-excel-template-dynamically-using-type-script/)
 where I show you how you could autocompete an excel invoice template
 using scripts.  I recently covered this in a live demo with the Monthly
 (12th May) Microsoft Office Scripts Dev Team and included a bonus
 feature, converting the excel files to PDF using the same flow without
 premium actions.  Look out for this video on
-[here](https://www.youtube.com/c/Microsoft365Developer/videos) soon.
+[Microsoft 365 Developer Youtube channel](https://www.youtube.com/c/Microsoft365Developer/videos) soon.
  
 Please let me know if you found this useful and what you might use Excel
 Scripts for next.

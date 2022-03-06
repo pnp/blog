@@ -480,8 +480,8 @@ Now test the webpart in SharePoint-SiteURL +
 {{< image alt="SPFx-react-formik.gif" src="images/blog/spfx-webpart-form-validation-using-react-formik/SPFx-react-formik.gif" >}}
  
 
-Find the full source code
-[here](https://github.com/chandaniprajapati/spfx-react-formik).
+Find here the [full source code
+](https://github.com/chandaniprajapati/spfx-react-formik).
 
 ## Summary
 

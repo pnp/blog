@@ -53,7 +53,7 @@ country different pricing and subscription are available.
 You would need to create Intuit (company owning Quickbook) developer
 account.
 
-1.  Go [here](https://developer.intuit.com/app/developer/homepage)
+1.  Go to [developer.intuit.com/app/developer/homepage](https://developer.intuit.com/app/developer/homepage)
 
 On the top menu, follow the last link to sign up. The below screen will
 open, fill in the below details.
@@ -221,7 +221,7 @@ save it at your preferred location.
 
 Now it's time to go to Power automate and create a custom connector.
 
-Go [here](https://flow.microsoft.com/).
+Go to  [flow.microsoft.com](https://flow.microsoft.com/).
 
 Follow the below screenshot,
 

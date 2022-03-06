@@ -366,8 +366,7 @@ export default class MuhimbiExportHtmlContentToPdf extends React.Component<IMuhi
 {{< image alt="Muhimbi - Export to pdf.gif" src="images/blog/how-to-convert-html-content-or-file-to-pdf-using-the-muhimbi-api/Muhimbi - Export to pdf.gif" >}}
  
 
-Please find a source code
-[here](https://github.com/chandaniprajapati/muhimbi-export-html-content-to-pdf).
+Please find my  [source code](https://github.com/chandaniprajapati/muhimbi-export-html-content-to-pdf).
 
 
 

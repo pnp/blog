@@ -26,8 +26,7 @@ Let's see how.]
 ## 1 - Download the PnP package
 
 
-You can download the latest releases
-[HERE](https://github.com/microsoft-search/pnp-modern-search/releases/).
+You can download the [latest releases](https://github.com/microsoft-search/pnp-modern-search/releases/).
 
 
 You'll see there are two major versions: v3 and v4. Important notes:

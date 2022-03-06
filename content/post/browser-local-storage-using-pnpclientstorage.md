@@ -190,7 +190,7 @@ Let us see what we have done in the above code.
 **Note:** We have used the **local storage** in this sample, there is
 also another storage option named **session storage** which is not
 covered in this article. More information can be found in the
-link [here](https://pnp.github.io/pnpjs/common/storage/ "PnP Storage").
+link [PnP Storage](https://pnp.github.io/pnpjs/common/storage/ "PnP Storage").
 
 1.  We have used the selective imports concept of PnP to import the sp,
     web and site-users object. We have also

@@ -199,7 +199,7 @@ will create us a column:
 {{< image alt="sendhttprequest2.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/sendhttprequest2.png" >}}
 
 Should you stumble upon the FieldTypeKind, please find
-reference [here](https://docs.microsoft.com/previous-versions/office/sharepoint-csom/ee540543(v=office.15)) -
+reference here:  [FieldTypeKind](https://docs.microsoft.com/previous-versions/office/sharepoint-csom/ee540543(v=office.15)) -
 2 means 'single line of text'.
 
 If you want to run your flow, please think about changing the list name

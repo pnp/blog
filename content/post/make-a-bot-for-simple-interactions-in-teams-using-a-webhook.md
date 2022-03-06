@@ -91,9 +91,9 @@ an API key.
 The bot is where the magic happens. It is code hosted externally to
 Teams that can be called over HTTP (via the Webhook). What that code
 does, where it is hosted, is all up to you. For this scenario, there is
-an Azure Function HTTP Trigger (written in TypeScript), which can be
-found
-[here](https://github.com/leeford/teams-webhook-weatherbot-sample).
+an (written in TypeScript), which can be
+found here:
+[Azure Function HTTP Trigger](https://github.com/leeford/teams-webhook-weatherbot-sample).
 
 You are free to use the linked code as a basis for your own idea, or
 create your own code in your choice of programming language. The basic

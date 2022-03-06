@@ -542,8 +542,8 @@ that the Graph uses OData to work with them.
 The name/value pairs beginning with `@odata.` are OData *control
 information* used to control the flow of data. For example the value
 of `@odata.nextLink` is the URL to retrive the next set of rows in a
-large dataset. You can find details on all the OData Control
-Information [here](http://docs.oasis-open.org/odata/odata-json-format/v4.0/cos01/odata-json-format-v4.0-cos01.html#_Toc372793050) in
+large dataset. You can find details on all the [OData Control
+Information here](http://docs.oasis-open.org/odata/odata-json-format/v4.0/cos01/odata-json-format-v4.0-cos01.html#_Toc372793050) in
 the OData documentation.
 
 ## JSON and JavaScript 
