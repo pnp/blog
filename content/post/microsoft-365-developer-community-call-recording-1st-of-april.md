@@ -14,6 +14,7 @@ type: "regular"
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from April 1, 2021.
+
 {{< image alt="sig-1st-april-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-1st-of-april/sig-1st-april-recording.png" >}}
 
 
