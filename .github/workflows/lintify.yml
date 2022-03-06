@@ -17,23 +17,8 @@ on:
     paths:
     - '**.md'
 
-# jobs:
-  # lintify:
-  #   runs-on: ubuntu-latest
-
-  #    steps:
-  #     - name: Check out code
-  #       uses: actions/checkout@v2
-  #     - name: Run Markdown Lint
-  #       uses: actionshub/markdownlint@main
-  #       with:
-  #         files: 'content/post/**/*.md'
-  #         # Files or directories to ignore
-  #         # ignore: # optional
-  #         # Try to fix basic errors
-  #         fix: true
 jobs:
-  markdown-link-check:
+  lintify:
     name: Verify Markdown
     runs-on: ubuntu-latest
     steps:
@@ -53,5 +38,5 @@ jobs:
           use-quiet-mode: 'yes'
           use-verbose-mode: 'no'
           check-modified-files-only: 'yes'
-          config-file: '.mlc_config.json'
+          config-file: '.markdownlintrc'
           base-branch: main

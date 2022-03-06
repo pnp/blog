@@ -1,0 +1,21 @@
+{
+    "default": true,
+    "MD013": false,
+    "MD003": {
+        "style": "atx_closed"
+    },
+    "MD007": {
+        "indent": 4
+    },
+    "no-hard-tabs": false,
+    "whitespace": false,
+    "MD025": {
+        "level": 1,
+        "front_matter_title": "^\\s*title\\s*[:=]"
+    },
+    "MD041": {
+        "level": 1,
+        "front_matter_title": "^\\s*title\\s*[:=]"
+    },
+    "MD045": true
+}
