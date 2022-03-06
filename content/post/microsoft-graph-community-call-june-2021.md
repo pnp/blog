@@ -59,12 +59,7 @@ establishing the data pipeline connection between the Microsoft 365
 dataset and storage account.  Once the pipeline is setup, define source
 and sink, trigger the sync and use Power BI to display data insights.   
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -74,6 +69,7 @@ and sink, trigger the sync and use Power BI to display data insights.   
     6th at 08:00am PDT - <https://aka.ms/microsoftgraphcall> 
 
  
+
 
 ## Resources
 

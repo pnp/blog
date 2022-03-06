@@ -22,13 +22,8 @@ each month. You can download recurrent invite
 from <https://aka.ms/sp-call>.
 
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 If you're looking at this blog post, then you are at the new Microsoft
 365 PnP Community hub at Microsoft Tech Communities!  Please take a
@@ -62,12 +57,8 @@ Topics along with aligned content and SMEs are initially discovered
 through AI algorithms, then confirmed and curated by humans.   Topics
 draws on capabilities from across Microsoft and can be extended by
 you.  
-<<<<<<< HEAD
 
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -123,6 +114,7 @@ The full recording of this session is available from Microsoft 365 &
 SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found at
     [OneDrive](https://1drv.ms/p/s!AlposW7ozA_90jQWIX5-19SSp93e?e=UXweGM).
+
 
 ## Resources
 

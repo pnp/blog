@@ -21,7 +21,8 @@ Using this method will be a bit lengthy but if we don't have the power
 to automate premium licenses then we can also achieve a solution.
 {{< image alt="Group 1.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/Group 1.png" >}}
 
-## Implementation 
+## Implementation
+ 
 1\. Go to **Power Automate** \> **My flows** \> Click on **New flow** \>
 Select **Automated Cloud Flow**
 {{< image alt="ChandaniPrajapati_0-1636792320998.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636792320998.png" >}}

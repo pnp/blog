@@ -40,12 +40,7 @@ Portal](https://aka.ms/teams-dev-docs).   The host of this call was
 [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen.  Q&A takes place in chat throughout the call
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -160,6 +155,8 @@ Thank you for your work. Samples are often showcased in Demos.
     Savchenko (Microsoft) - [45:27](https://youtu.be/wwTExv2Ha4g?t=2727)
 
  
+
+
 
 ## Resources
 

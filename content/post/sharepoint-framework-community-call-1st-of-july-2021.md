@@ -18,13 +18,8 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 Summer break and community call schedule updates reviewed.  Register now
 for June trainings on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).   [PnP
@@ -63,12 +58,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 It appears fun is being had by all!  Great to see everyone.  Thanks for
 making this a great community.  
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -148,13 +138,8 @@ making this a great community.  
     -** [Dipen Shah](http://twitter.com/Dips_365) | \@Dips_365
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   PnPjs Client-Side Libraries - [Julie
     Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
@@ -189,6 +174,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Lage](http://twitter.com/aaclage) (Datalynx AG) |
     [\@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803) --
     [44:26](https://youtu.be/yGlkkdOp0U4?t=2666)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -302,6 +289,7 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev

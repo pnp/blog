@@ -17,7 +17,8 @@ type: "regular"
  
 
 
-## Call Summary
+## Call summary
+
 
 
 Summer break and community call schedule updates reviewed.  Microsoft
@@ -206,6 +207,8 @@ Thank you for your work. Samples are often showcased in Demos.
 -   [**Demo:**  Getting stated with Microsoft Teams Toolkit and Blazor
     -- [Thomas Gölles](http://twitter.com/thomyg) (Solvion) | \@thomyg
     -][ [44:13](https://youtu.be/_8BBaIJK2RM?t=2653)]
+
+
 
 ## Resources
 

@@ -13,7 +13,8 @@ type: "regular"
 ---
 
 
-## Call Summary
+## Call summary
+
  
 
 April's call, hosted by **David Chesnut**, featured the following
@@ -140,6 +141,7 @@ There are also additional Microsoft Graph samples at
 November community call) be available?**\
 This feature is available, but there is an issue that prevents it from
 working in all scenarios. We're working to get a fix out soon.
+
 
 ## Resources 
 

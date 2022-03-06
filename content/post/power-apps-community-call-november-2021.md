@@ -16,13 +16,8 @@ type: "regular"
 {{< image alt="PowerApps Thumb November 2021.png" src="images/blog/power-apps-community-call-november-2021/PowerApps Thumb November 2021.png" >}}
  
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Topics covered in this month's community call include demos **Power Apps
 Christmas Calendar + Games** (Advent calendar with engaging games

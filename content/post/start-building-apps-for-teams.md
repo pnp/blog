@@ -38,6 +38,7 @@ building apps. On Teams you can build:
 If you have an existing web or mobile app, you can also bring
 information from Teams into your app.
 
+
 ## Resources for getting started with building apps for Teams 
 
 Sounds interesting? Here are some resources to help you get started
@@ -76,6 +77,7 @@ implement a specific scenario, you should check out the [Teams app
 templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-15200-wmastyka).
 There are over 40 sample ready-to-use apps including their source code
 for you to explore!
+
 ### [Tutorials for the Microsoft Teams developer platform](https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-dotnet-app-studio?WT.mc_id=m365-15200-wmastyka) 
 
 A part of the docs are tutorials for the Teams developer platform. If

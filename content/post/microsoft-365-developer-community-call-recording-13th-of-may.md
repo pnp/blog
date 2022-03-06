@@ -18,7 +18,8 @@ Interest Group (SIG) community call from May 13, 2021.
 {{< image alt="recording-may-13th-call.png" src="images/blog/microsoft-365-developer-community-call-recording-13th-of-may/recording-may-13th-call.png" >}}
 
 
-## Call Summary
+## Call summary
+
 
 
 Latest news from Microsoft 365 engineering and updates on open-source
@@ -153,13 +154,11 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  Advanced tricks for form formatting and customization --
     [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
     \@theChrisKent [-
-<<<<<<< HEAD
-    [43:22](https://youtu.be/pg1M9AuTaO4?t=2602)]
-**Resources:**
-=======
     [43:22](https://youtu.be/pg1M9AuTaO4?t=2602)][ ]
+
+
+
 ## Resources
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 Additional resources around the covered topics and links from the
 slides.

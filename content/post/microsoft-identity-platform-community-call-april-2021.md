@@ -13,13 +13,8 @@ type: "regular"
 **{{< image alt="EventHubBlockDiagram.png" src="images/blog/microsoft-identity-platform-community-call-april-2021/EventHubBlockDiagram.png" >}}
 
  
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 This month's in-depth topic:  Get Change notifications delivered via
 Azure Event Hubs.  Brief introduction to Graph change notification
@@ -64,6 +59,7 @@ strings), add subscription connection string and IDs of resources to the
 app.    
 
  
+
 
 ## Resources
 

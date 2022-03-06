@@ -17,7 +17,8 @@ type: "regular"
  
 
 
-## Call Summary
+## Call summary
+
 
 
 Summer break and community call schedule updates reviewed. Preview the
@@ -152,6 +153,8 @@ Thank you for your work. Samples are often showcased in Demos.
     Microsoft Teams tagging - [Annie
     Colonna](http://twitter.com/AnnieColonna) (Microsoft) |
     \@AnnieColonna - [49:42](https://youtu.be/nm16Z3VEYHA?t=2982)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

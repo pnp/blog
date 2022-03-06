@@ -18,13 +18,8 @@ Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
     call](https://aka.ms/m365-dev-call).  Next call on the 18th of
@@ -74,12 +69,7 @@ throughout the call.
 Thank you for joining the call today and/or for viewing the recording. 
 Awesome to see many of you on the screen.
 
-<<<<<<< HEAD
-**Actions:**
-
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   Opt into PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
@@ -201,13 +191,8 @@ Awesome to see many of you on the screen.
 
 \* To be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -246,14 +231,10 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **Demo 3**:  SharePoint Framework Design Patterns -- Custom Web Part
     Properties (Part 3) -- [Hugo Bernier](http://twitter.com/bernierh)
     (Microsoft) |
-<<<<<<< HEAD
-    \@bernierh [--][ [43:52](https://youtu.be/iMbQyxdPcSU?t=2632)]
-**Resources:**
-=======
     \@bernierh [--][ [43:52](https://youtu.be/iMbQyxdPcSU?t=2632)][ ]
 
+
 ## Resources
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 Additional resources around the covered topics and links from the
 slides.
@@ -386,6 +367,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 
 ## Other topics mentioned
 

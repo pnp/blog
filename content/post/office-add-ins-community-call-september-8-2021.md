@@ -18,7 +18,8 @@ type: "regular"
 
 
 
-## Call Summary
+## Call summary
+
  
 
 This month's community call features presentations - Word API updates

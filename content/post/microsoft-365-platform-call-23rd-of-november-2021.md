@@ -77,12 +77,7 @@ call.   
 
  
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -160,6 +155,8 @@ Thank you for your work. Samples are often showcased in Demos.
     Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm &
     [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [21:07](https://youtu.be/dpMr8Y2buDw?t=1267)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

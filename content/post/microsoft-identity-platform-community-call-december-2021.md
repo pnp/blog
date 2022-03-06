@@ -14,13 +14,8 @@ type: "regular"
 {{< image alt="identity-call-THumbnail-November-2021.png" src="images/blog/microsoft-identity-platform-community-call-december-2021/identity-call-THumbnail-November-2021.png" >}}
  
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 
 This month's in-depth topic:  **A Zero Trust primer for
@@ -102,12 +97,7 @@ Microsoft.  Recorded December 16, 2021. Q&A in chat and at end of call.
 
  
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 

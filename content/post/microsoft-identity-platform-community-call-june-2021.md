@@ -13,13 +13,8 @@ type: "regular"
 
 {{< image alt="IDArchitecture.png" src="images/blog/microsoft-identity-platform-community-call-june-2021/IDArchitecture.png" >}}
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 This month's in-depth topic:  **Increase the resilience of
 authentication and authorization applications you develop**.   Tips for
@@ -34,6 +29,7 @@ Managers [Harish Suresh](http://twitter.com/harish_suresh) |
 \@harish_suresh and [Kyle Marsh](http://twitter.com/kylemar) |
 \@kylemar and was recorded on June 17, 2021.  Live and in chat Q&A
 throughout call
+
 
 
 ## Resources

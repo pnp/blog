@@ -19,13 +19,8 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Preview the new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
@@ -59,12 +54,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 Thanks everybody for being part of the Community and helping making
 things happen. You are absolutely awesome!
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -149,13 +139,8 @@ things happen. You are absolutely awesome!
 -   **NEW Issue Templates!**
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -194,6 +179,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
     \@sebastienlevert [
     --][ [47:30](https://youtu.be/cAwKgUNR9jU?t=2850)]
+
+
 
 ## Resources
 
@@ -299,6 +286,7 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 
 ## Other topics mentioned
 

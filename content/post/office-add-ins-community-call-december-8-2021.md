@@ -16,7 +16,8 @@ type: "regular"
 ## {{< image alt="office-add-ins-Thumb Dec 2021.png" src="images/blog/office-add-ins-community-call-december-8-2021/office-add-ins-Thumb Dec 2021.png" >}}
 
 
-## Call Summary
+## Call summary
+
  
 
 This month's community call features an Outlook: Ignite recap from
@@ -244,6 +245,7 @@ you will find a sample.
 **Any news when the current PowerPoint Preview API will go live?**
 
 We are looking at early next year.
+
 
 ## Resources 
 

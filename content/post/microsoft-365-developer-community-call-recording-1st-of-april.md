@@ -18,7 +18,8 @@ Interest Group (SIG) community call from April 1, 2021.
 {{< image alt="sig-1st-april-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-1st-of-april/sig-1st-april-recording.png" >}}
 
 
-## Call Summary
+## Call summary
+
 
 
 Latest news from Microsoft 365 engineering and updates on open-source
@@ -42,16 +43,10 @@ Building Apps with Microsoft Graph, on the 14th of April. The host of
 this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
 | \@vesajuvonen.  Q&A takes place in chat throughout the call
 
-<<<<<<< HEAD
-
-**Actions:**
-
-
-
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 -   Register for both:
+
     -   Register to watch the Microsoft Graph livestream with your
         community at:  <https://aka.ms/pnpwatchparty>
     -   RSVP to attend the 2-hour livestream -- Building Apps for with
@@ -169,6 +164,8 @@ Thank you for your work. Samples are often showcased in Demos.
     external systems -- Kathy (Qingyu) Xu (Pfizer) and [Paolo
     Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia -
     [43:43](https://youtu.be/BDkZqbL2YAk?t=2623)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

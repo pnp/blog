@@ -17,7 +17,8 @@ type: "regular"
 
 
 
-## Call Summary
+## Call summary
+
  
 
 This month's community call features updates on **Excel shortcut
@@ -155,6 +156,7 @@ Overflow:
 
 ​The team is looking into this question and will follow up on Stack
 Overflow.
+
 
 ## Resources 
 

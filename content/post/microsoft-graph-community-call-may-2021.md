@@ -52,14 +52,9 @@ integration including Microsoft chat integration.       
 
 
 
-##   {#toc-hId--469670890}
 
-<<<<<<< HEAD
 
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -72,6 +67,7 @@ integration including Microsoft chat integration.       
     1 at 08:00am PDT - <https://aka.ms/microsoftgraphcall> 
 
 ##   {#toc-hId-2017841943}
+
 
 ## Resources
 

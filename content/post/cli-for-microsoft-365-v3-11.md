@@ -114,6 +114,7 @@ command to enable you to return a Power App by its name making it much
 more user friendly.
  
 To retrieve details of a Power App by its name, execute:
+
 ```bash
 m365 pa app get --displayName App
 ```

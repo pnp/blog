@@ -315,7 +315,8 @@ export default class ReactAzureadUsers extends React.Component<IReactAzureadUser
 Find the full source
 code [here](https://github.com/chandaniprajapati/mgt-react-people-pickcer).  
 
-## Summary 
+## Summary
+
 In this article, we have seen how to bind AD users in people picker
 using the MS graph toolkit react library.
 

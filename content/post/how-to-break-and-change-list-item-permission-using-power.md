@@ -73,12 +73,12 @@ user so for that we will call REST API.
   Full Control               1073741829
   -------------------------- ------------------------
 
-1. Create a variable and set User Title or if you have any list column
+Create a variable and set User Title or if you have any list column
 then you can use it.
 
 {{< image alt="Step5.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/Step5.png" >}}
 
-2. Call API to get a user ID and filter it by the above-declared user
+Call API to get a user ID and filter it by the above-declared user
 name.
 
 
@@ -116,7 +116,7 @@ And we will set it in a variable called **UserId**.
 
 {{< image alt="step7.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/step7.png" >}}
 
-3. Now we will set **contribute** permission for the above UserId.
+Now we will set **contribute** permission for the above UserId.
 
 {{< image alt="step8.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/step8.png" >}}
  

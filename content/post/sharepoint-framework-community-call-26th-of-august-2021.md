@@ -18,13 +18,8 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Updated Community call schedule starting in September.  Join for first
 weekly [Microsoft 365 platform community
@@ -61,12 +56,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 Thank you everybody for being part of this call, the community, a tweet,
 a blog post, and the solution to your customer's needs.  
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -137,13 +127,8 @@ a blog post, and the solution to your customer's needs.  
     [Chandani Prajapati](http://twitter.com/Chanda) | \@Chanda
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -173,6 +158,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **Demo:**  Sneak Peek - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [53:51](https://youtu.be/RvDsmZJ95xM?t=3231)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -303,6 +290,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev

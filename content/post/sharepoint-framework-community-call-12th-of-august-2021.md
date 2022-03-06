@@ -18,13 +18,9 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
+
 Summer and Fall community call schedule updates reviewed.  Register
 today for August events on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).    [PnP
@@ -55,12 +51,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 Ahhhh, the Comfy seats today!     Everyone is alive with sporting
 colorful clothing.   Great to see you.     
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -151,13 +142,8 @@ colorful clothing.   Great to see you.     
     Franzini](http://twitter.com/franzinifabio) | \@franzinifabio**
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -201,6 +187,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     [\@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
 
     [--][ [46:04](https://youtu.be/jJGkhttndU0?t=2764)]
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -331,6 +319,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev

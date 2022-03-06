@@ -15,7 +15,8 @@ type: "regular"
 {{< image alt="sig-recordingly-22nd-july.png" src="images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png" >}}
 
 
-## Call Summary
+## Call summary
+
 
 
 Summer break and community call schedule updates reviewed. Preview the
@@ -162,13 +163,9 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   **Demo:**  ACS -- Teams InterOp with Call Routing -- Sathya
     Raveendran
-<<<<<<< HEAD
-    (Microsoft) [-][ [34:56](https://youtu.be/ebOtM8LpAK4?t=2096)]
-**Resources:**
-=======
     (Microsoft) [-][ [34:56](https://youtu.be/ebOtM8LpAK4?t=2096)][ ]
+
 ## Resources
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 Additional resources around the covered topics and links from the
 slides.

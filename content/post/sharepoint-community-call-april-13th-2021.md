@@ -19,13 +19,8 @@ community recognition for Developers, IT Pros and Makers.  This monthly
 community call happens on the second Tuesday of each month. You can
 download recurrent invite from <https://aka.ms/sp-call>.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Visit the new [Microsoft 365 PnP Community
 hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP)
@@ -58,14 +53,8 @@ licensing.  Familiar extensible platform that will include mobile this
 summer.   Create Viva Connections app package in PowerShell, upload
 package to Teams Admin Center.    
 
-<<<<<<< HEAD
-
-**Actions:**
-
-
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 -   Register for livestream and for a regional watch party:
     -   Register to watch the Microsoft Graph livestream on April 14
         with your community at:  <https://aka.ms/pnpwatchparty>
@@ -130,6 +119,7 @@ The full recording of this session is available from Microsoft 365 &
 SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found
     at [OneDrive](https://1drv.ms/p/s!AlposW7ozA_90j5EJfwLne2Eji8W?e=lDmhoH).
+
 
 ## Resources
 

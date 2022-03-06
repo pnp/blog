@@ -15,7 +15,8 @@ type: "regular"
 {{< image alt="call-16th-sep-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-16th-of/call-16th-sep-recording.png" >}}
 
 
-## Call Summary
+## Call summary
+
 
 
 Have a look at Microsoft 365 tenant -- [script samples
@@ -49,12 +50,7 @@ There were 3 new script samples this week.  The host of this call was
 [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -194,6 +190,8 @@ Request a Demo spot on the call -- <https://aka.ms/m365pnp/request/demo>
     \@NataliePienkow1 & [Ahmad Najjar](http://twitter.com/ahmadn82)
     (Infoworker) | \@ahmadn82 -
     [43:33](https://youtu.be/PpjPCt00W9A?t=2613) 
+
+
 
 ## Resources
 

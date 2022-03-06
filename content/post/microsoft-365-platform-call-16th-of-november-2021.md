@@ -142,6 +142,8 @@ Thank you for your work. Samples are often showcased in Demos.
     Mastykarz](http://twitter.com/waldekm) | \@waldekm & [Vesa
     Juvonen](http://twitter.com/vesajuvonen) | \@vesajuvonen --
     [27:34](https://youtu.be/HlLv3AQ-btk?t=1654)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

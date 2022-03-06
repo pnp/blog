@@ -18,7 +18,8 @@ Interest Group (SIG) community call from March 18, 2021.
  
 
 
-## Call Summary
+## Call summary
+
 
 
 Latest news from Microsoft 365 engineering and updates on open-source
@@ -155,6 +156,9 @@ Thank you for your work. Samples are often showcased in Demos.
     [Thomy Gölles](http://twitter.com/thomyg) (Solvion) | \@thomyg
 
     \- [43:42](https://youtu.be/kPGpuGPtKHM?t=2622)
+
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

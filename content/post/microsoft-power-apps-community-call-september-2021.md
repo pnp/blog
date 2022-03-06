@@ -16,13 +16,8 @@ type: "regular"
 
  
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Topics covered in this month's community call include demos in **Visio,
 Power BI Tiles, and Reports in Power Apps!** (Combining capabilities in
@@ -89,12 +84,7 @@ demand. 
 
 ** **
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 

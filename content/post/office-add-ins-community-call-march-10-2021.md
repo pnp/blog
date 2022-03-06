@@ -12,13 +12,8 @@ type: "regular"
 
 ---
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 This month's community call features presentations on Excel JS API
 v1.13 updates, PowerPoint ribbon updates, UX changes for Outlook add-ins

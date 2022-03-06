@@ -16,7 +16,8 @@ type: "regular"
 ## {{< image alt="office-add-ins-Thumb-Nov.png" src="images/blog/office-add-ins-community-call-november-10-2021/office-add-ins-Thumb-Nov.png" >}}
 
 
-## Call Summary
+## Call summary
+
 
 
 This month's community call features a customer presentation -
@@ -195,6 +196,7 @@ Docs](https://docs.microsoft.com/graph/onedrive-concept-overview).
 We are looking to release the tags API set to general availability (GA)
 by end of month. The rest of the API's will GA tentatively sometime
 early next year.
+
 
 ## Resources 
 

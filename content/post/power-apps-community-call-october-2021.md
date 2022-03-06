@@ -14,13 +14,8 @@ type: "regular"
 
 {{< image alt="PowerApps Thumb October 2021.png" src="images/blog/power-apps-community-call-october-2021/PowerApps Thumb October 2021.png" >}}
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Topics covered in this month's community call include a demo -
 **PokéBubbles Game** and a session on **How to get Microsoft Certified
@@ -106,12 +101,7 @@ on demand. 
     Groups](https://community.powerbi.com/t5/Power-BI-User-Groups/ct-p/pbi_usergroups) 
 
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 

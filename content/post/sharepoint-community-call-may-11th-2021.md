@@ -19,13 +19,8 @@ community recognition for Developers, IT Pros and Makers.  This monthly
 community call happens on the second Tuesday of each month. You can
 download recurrent invite from <https://aka.ms/sp-call>.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 SPFx v1.12.1 with Node v14 and Gulp4 support is generally available. 
 Don't miss the [SharePoint sample
@@ -62,14 +57,8 @@ understanding model using UI and on downloading a sample model,
 publishing and processing content using PowerShell Commandlets or APIs
 
 
-<<<<<<< HEAD
-
-**Actions:**
-
-
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [May
         24th](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u)
@@ -127,6 +116,7 @@ The full recording of this session is available from Microsoft 365 &
 SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found
     at [OneDrive](https://1drv.ms/p/s!AlposW7ozA_90kgHOZNOZvuJs4Xd?e=aKH8Cg).
+
 
 ## Resources
 

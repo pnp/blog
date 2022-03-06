@@ -172,6 +172,8 @@ Thank you for your work. Samples are often showcased in Demos.
     Juvonen](http://twitter.com/vesajuvonen)[ (Microsoft) |
     \@vesajuvonen ]--
     [22:35](https://youtu.be/1fdex0a5css?t=1355)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

@@ -14,13 +14,8 @@ type: "regular"
 
 {{< image alt="900x506-JulyPAThumbslide.png" src="images/blog/power-apps-community-call-july-2021/900x506-JulyPAThumbslide.png" >}}
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Topics covered in this month's community call includes an inside look at
 the top 5 community selected apps (from over 20 entries) from Demo
@@ -99,12 +94,7 @@ or viewing it on demand. 
     Communities](https://powerusers.microsoft.com/t5/News-Announcements/Power-Virtual-Agents-Community-Challenge-for-all-Communities/m-p/1169763#M93) 
 
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 

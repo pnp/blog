@@ -20,7 +20,8 @@ for **SharePoint** Online.
 
 
 
-## Call Summary
+## Call summary
+
 
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
@@ -181,6 +182,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   **D2:** [Getting started with using PnP Search Web Parts v4 -- ][Franck Cornu][http://twitter.com/FranckCornu]( | @FranckCornu & )[Mikael Svenson](http://twitter.com/mikaelsvenson)[ (Microsoft) | @mikaelsvenson -- [38:10](https://youtu.be/NIjXZiEHx_8?t=2290)]
 
+
 ## Resources
 
 Additional resources around the covered topics and links from the slides.
@@ -315,6 +317,7 @@ Additional resources around the covered topics and links from the slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 
 
 ## Other topics mentioned

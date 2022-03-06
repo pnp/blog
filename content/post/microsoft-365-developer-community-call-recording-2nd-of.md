@@ -16,7 +16,8 @@ type: "regular"
 
 
 
-## Call Summary
+## Call summary
+
 
 
 Welcome back from summer holiday!  Have a look at Microsoft 365 tenant
@@ -47,12 +48,7 @@ this call was [David Warner II](http://twitter.com/DavidWarnerII)
 (Catapult Systems) \@DavidWarnerII.   Q&A takes place in chat throughout
 the call.
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -191,6 +187,8 @@ Thank you for your work. Samples are often showcased in Demos.
     Taylor](http://twitter.com/troystaylor)[ (Hitachi Solutions) |
     [troystaylor](https://github.com/troystaylor) -
     [45:46](https://youtu.be/qsr-OspeYug?t=2746)]
+
+
 
 ## Resources
 

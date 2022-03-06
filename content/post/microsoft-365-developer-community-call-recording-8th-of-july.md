@@ -15,7 +15,8 @@ type: "regular"
 {{< image alt="8th-july-recording-m365dev.png" src="images/blog/microsoft-365-developer-community-call-recording-8th-of-july/8th-july-recording-m365dev.png" >}}
 
 
-## Call Summary
+## Call summary
+
 
 
 Summer and Fall community call schedule updates reviewed. Preview the
@@ -49,7 +50,9 @@ was Paolo Pialorsi (PiaSys.com) | \@paolopia   Q&A takes place in chat
 throughout the call.
 
 **Actions**
+
 -   **Register for Sharing is Caring Events**:
+
 
     -   First Time Contributor Session -- [August
         31st](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u)
@@ -146,6 +149,8 @@ Thank you for your work. Samples are often showcased in Demos.
     and Azure Key Vault - [Markus
     Moeller](http://twitter.com/Moeller2_0) (Avanade) | \@Moeller2_0 -
     [33:04](https://youtu.be/rOHSrG1n43Y?t=1984) 
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

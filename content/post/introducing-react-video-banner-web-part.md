@@ -92,4 +92,4 @@ available on GitHub along with other awesome web parts by the community,
 for more information about all the PnP offerings,
 checkout <https://aka.ms/m365pnp> \
 \
-#SharingIsCaring
+*#SharingIsCaring*

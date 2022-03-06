@@ -29,11 +29,11 @@ hidden gem for notification or logging
 mechanism. ]
 
 In short, [Incoming
-Webhooks]](https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?WT.mc_id=m365-11878-rwilliams)[ are
+Webhooks](https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?WT.mc_id=m365-11878-rwilliams) are
 built-in connectors used to send updates back to a channel in Teams once
 configured. ]
 
-[The good thing is, it is easy to set up and even
+The good thing is, it is easy to set up and even
 more comfortable to design your
 messages you want to send through it. The messages can be plain text, or
 [actionable

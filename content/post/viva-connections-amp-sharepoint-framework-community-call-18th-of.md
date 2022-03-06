@@ -18,13 +18,8 @@ Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
     call](https://aka.ms/m365-dev-call).  Featured topics for the
@@ -68,13 +63,7 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 Great to see all of you today - humans and ghosts.  Possibly some will
 meet in Düsseldorf or in Las Vegas later this year.     
 
-<<<<<<< HEAD
-**Actions:**
-
-
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   Opt in to PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
@@ -138,13 +127,6 @@ meet in Düsseldorf or in Las Vegas later this year.     
     list that's rendered using React controls.  Search, sort and group
     by app, type and expiration date.  
 
-<<<<<<< HEAD
-**SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
-
--   **missing you! **
-
-**SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
-=======
 ## SPFx extension samples
 
 <https://aka.ms/spfx-extensions>
@@ -154,7 +136,6 @@ meet in Düsseldorf or in Las Vegas later this year.     
 ## SPFx web part samples
 
 <https://aka.ms/spfx-webparts>
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   [**Teams Graph Upload as
     PDF**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-graph-upload-as-pdf) -
@@ -215,6 +196,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     [\@aimery_thomas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/925977)][ --
     [44:01](https://youtu.be/s7uWd2NeLNE?t=2641)]
 
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -250,11 +233,7 @@ slides.
     Expirations](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/use-power-automate-to-notify-of-upcoming-azure-ad-app-client/ba-p/2406145)
 
 -   **D3:** LinkedIn -- [Aimery
-<<<<<<< HEAD
-    Thomas](https://www.linkedin.com/in/aimery-thomas-17418187/)
-=======
     Thomas](https://www.linkedin.com/in/aimery-thomas-17418187/ )
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   **PnP Weekly -- Episode 143** (November 15th) with Nairobi,
     Kenya-based Program Manager at Microsoft - [Roina
@@ -371,6 +350,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 
 ## Other topics mentioned
 

@@ -15,13 +15,8 @@ type: "regular"
 
 {{< image alt="ApTriggeredStep-up.png" src="images/blog/microsoft-identity-platform-community-call-may-2021/ApTriggeredStep-up.png" >}}
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 This month's in-depth topic:  **Using Conditional Access Auth Context in
 your app for step-up authentication**.   Use the Azure AD Conditional
@@ -36,6 +31,7 @@ more secure operations and data behind stronger authentication controls.
 Program Manager presenters -- Caleb Baker and Kalyan Krishna.  This
 session was delivered and recorded on May 20, 2021.  Live and in chat
 Q&A throughout call. 
+
 
 ## Resources
 
@@ -86,12 +82,7 @@ Q&A throughout call. 
 
 ** **
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 

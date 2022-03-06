@@ -16,7 +16,8 @@ type: "regular"
  
 
 
-## Call Summary
+## Call summary
+
 
 
 Latest news from Microsoft 365 engineering and updates on open-source
@@ -172,13 +173,9 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  Deep linking from List Formatting to Power Automate
     solution -- [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
     \@theChrisKent
-<<<<<<< HEAD
-    -[ [44:55](https://youtu.be/y0diQu23g88?t=2695)]
-**Resources:**
-=======
     -[ [44:55](https://youtu.be/y0diQu23g88?t=2695)][ ]
+
 ## Resources
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 Additional resources around the covered topics and links from the
 slides.

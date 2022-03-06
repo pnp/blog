@@ -11,6 +11,7 @@ type: "regular"
 ---
 
 ## Introduction
+
 Logging plays an important role in any application. Whether it is a
 simple or complex app, logging helps you to record not only errors but
 also other information which you can use to improve your app. In this
@@ -63,6 +64,7 @@ yo /sharepoint
  
  
 The generator will ask you a couple of questions,
+
 -   Enter the web part name as your solution name, and then select Enter.
 -   
 -   Select Create a subfolder with the solution name for where to place

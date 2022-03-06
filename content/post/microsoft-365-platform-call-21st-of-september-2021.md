@@ -140,6 +140,8 @@ Thank you for your work. Samples are often showcased in Demos.
     [\@vesajuvonen](https://twitter.com/vesajuvonen%20) --
     [16:55](https://youtu.be/GF0hfnYCy8M?t=1874)
 
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

@@ -20,13 +20,8 @@ call recording from September 9th is now available from the Microsoft
 use SharePoint Framework for building solutions for **Microsoft
 Teams** and for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
 community call](https://aka.ms/m365-dev-call).  Don't forget to sign up
@@ -57,12 +52,8 @@ this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
 throughout the call.
 Thank you everybody for being part of this call, the community, a tweet,
 a blog post, and the solution to your customer's needs.  
-<<<<<<< HEAD
 
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -147,13 +138,8 @@ a blog post, and the solution to your customer's needs.  
     (Link to My OneDrive sample is correct)
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -188,6 +174,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     SharePoint Framework -- [Yannick
     Reekmans](http://twitter.com/YannickReekmans) (Qubix) |
     \@YannickReekmans -- [41:26](https://youtu.be/EIEFIL99WLc?t=2486)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -326,6 +314,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev

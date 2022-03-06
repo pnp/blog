@@ -19,13 +19,8 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Welcome Luise Freese | \@LuiseFreese to the **Sharing is Caring** team
 and Joel Rodrigues | \@JoelFMRodrigues who is a new maintainer on the
@@ -49,12 +44,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 {{< image alt="together-pnp-25th-march-bi-weekly.gif" src="images/blog/sharepoint-framework-community-call-recording-25th-of-march-2021/together-pnp-25th-march-bi-weekly.gif" >}}
  
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -198,6 +188,8 @@ you for your great work.
     | \@PatMill_MSFT & [Luca
     Bandinelli](http://twitter.com/BandinelliLuca) (Microsoft) |
     \@BandinelliLuca**-** [42:48](https://youtu.be/K_aiG8RlBDU?t=2568)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

@@ -14,13 +14,8 @@ type: "regular"
 
 {{< image alt="TitleSlide.png" src="images/blog/power-apps-community-call-march-2021/TitleSlide.png" >}}
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Topics covered in this month's community include Creating Responsive
 Dataverse for Teams Power Apps (*Use responsive containers for gallery
@@ -73,12 +68,7 @@ March 17, 2021.  Thank for attending the call or viewing it on demand. 
 -   Introducing Microsoft Power Fx - <https://aka.ms/PowerAppsPowerFX> 
 
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 

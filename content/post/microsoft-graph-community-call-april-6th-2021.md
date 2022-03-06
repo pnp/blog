@@ -89,6 +89,7 @@ at <https://aka.ms/GraphTAPForm>.  
 -   Try MSAL 2.0 Provider -- npm install
     [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/mgt\@next.msal2provider
 
+
 ## Resources:
 
 -   Blog post - [Microsoft Graph Java SDK v3 adds enhanced capabilities

@@ -14,13 +14,8 @@ type: "regular"
 
 {{< image alt="Thumbnail - Power Apps Community Call - April 2021.png" src="images/blog/power-apps-community-call-april-2021/Thumbnail - Power Apps Community Call - April 2021.png" >}}
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Topics covered in this month's community call include
 
@@ -86,12 +81,7 @@ viewing it on demand. 
     <https://aka.ms/PowerAppsDemoExtravaganza>
 
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 

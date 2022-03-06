@@ -42,12 +42,7 @@ with layout guidance and reusable assets.  The host of this call was
 Vesa Juvonen (Microsoft) | \@vesajuvonen.  Q&A takes place in chat
 throughout the call.
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -150,6 +145,8 @@ Thank you for your work. Samples are often showcased in Demos.
     [43:20](https://youtu.be/sQeICJCdFjI?t=2600)
 
  
+
+
 
 ## Resources
 

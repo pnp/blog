@@ -51,6 +51,7 @@ was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) |
 -   Documentation -- [Adaptive Cards
     Partners](https://docs.microsoft.com/adaptive-cards/resources/partners) 
 
+
 ## Resources in General
 
 -   Let us know the features you need    <https://aka.ms/ACRoadmap>

@@ -15,7 +15,8 @@ type: "regular"
 {{< image alt="recording-6th-jan.png" src="images/blog/microsoft-365-developer-community-call-recording-6th-of-january/recording-6th-jan.png" >}}
 
 
-## Call Summary
+## Call summary
+
 
 
 Welcome to the New Year.  It's a great time to visit the Microsoft 365
@@ -52,12 +53,7 @@ The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -219,6 +215,8 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     ** ** ** **
 
     -- [40:50](https://youtu.be/25L63KGPru0?t=2450)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

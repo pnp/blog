@@ -15,7 +15,8 @@ type: "regular"
 {{< image alt="recording-25th-nov.png" src="images/blog/microsoft-365-developer-community-call-recording-25th-of/recording-25th-nov.png" >}}
 
 
-## Call Summary
+## Call summary
+
 
 
 Have you visited the Microsoft 365 tenant -- [script samples
@@ -218,6 +219,8 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     (DMI) |
     \@thechriskent ]]--
     [45:34](https://youtu.be/GW7THadNYtQ?t=2734)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

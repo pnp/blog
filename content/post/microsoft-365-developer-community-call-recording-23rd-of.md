@@ -15,7 +15,8 @@ type: "regular"
 {{< image alt="recording-23rd-dec.png" src="images/blog/microsoft-365-developer-community-call-recording-23rd-of/recording-23rd-dec.png" >}}
 
 
-## Call Summary
+## Call summary
+
 
 
 It's the perfect time to visit the Microsoft 365 tenant -- [script
@@ -191,6 +192,8 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     -- [Hugo Bernier](http://twitter.com/bernierh) | \@bernierh & [Bob
     German](http://twitter.com/Bob1German) |
     \@Bob1German -- [25:09](https://youtu.be/v_wYcTzHMs8?t=1509)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

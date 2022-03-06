@@ -18,13 +18,8 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 New [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) preview released.  Work
@@ -44,12 +39,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="PictureTime-OutsideInTheGreenAmphitheater.png" src="images/blog/sharepoint-framework-community-call-recording-11th-of-march-2021/PictureTime-OutsideInTheGreenAmphitheater.png" >}}
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -175,6 +165,8 @@ you for your great work.
     permissions in Azure AD application** --  [Fredrik
     Thorild](http://twitter.com/taxonomythorild) (Sogeti) |
     \@taxonomythorild -- [35:50](https://youtu.be/o_xcui0RZGM?t=2150)
+
+
 
 ## Resources
 

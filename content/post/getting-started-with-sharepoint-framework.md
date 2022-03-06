@@ -26,6 +26,7 @@ When you use SharePoint Framework to build your apps, you don't need to
 worry about hosting and auth. You can build your app using any
 client-side framework you want and easily deploy your app to your users.
 
+
 ## Resources for getting started with SharePoint Framework 
 
 Here is a list of resources to help you get started with building apps

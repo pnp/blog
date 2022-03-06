@@ -49,12 +49,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 -   [Viva Connections public preview is now
     available!](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-public-preview-is-now-available/ba-p/2768541)
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -136,6 +131,8 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **D2:**  Building custom search layout experiences in SharePoint
     with Microsoft Search -- Jyoti Pal (Microsoft) --
     [29:25](https://youtu.be/MqGuY5V_0sQ?t=1765)
+
+
 
 ## Resources
 

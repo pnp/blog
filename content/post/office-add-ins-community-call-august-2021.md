@@ -14,7 +14,8 @@ type: "regular"
 ---
 
 
-## Call Summary
+## Call summary
+
 
 
 This month's community call features presentations - **Dialog API
@@ -270,6 +271,7 @@ for mobile on the road map?**
 
 This is on our backlog but we don't yet have an ETA for when this could
 be available.
+
 
 ## Resources
 

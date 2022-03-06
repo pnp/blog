@@ -21,13 +21,8 @@ call recording from September 23rd is now available from the Microsoft
 use SharePoint Framework for building solutions for **Microsoft
 Teams** and for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
 community call](https://aka.ms/m365-dev-call).  Topics for the call on
@@ -62,12 +57,8 @@ throughout this call.
 {{< image alt="210923-together-mode.gif" src="images/blog/sharepoint-framework-community-call-23rd-of-september-2021/210923-together-mode.gif" >}}
 Picture time is back!  Great to see all of you today.  Looking forward
 to seeing some of you in Düsseldorf or Las Vegas later this year. 
-<<<<<<< HEAD
 
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -159,13 +150,8 @@ to seeing some of you in Düsseldorf or Las Vegas later this year. 
     Collins](https://github.com/ReactIntern) | <https://github.com/ReactIntern>
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -202,6 +188,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     events web part build -- [Chandani
     Prajapati](http://twitter.com/Chandani_SPD) | \@Chandani_SPD --
     [35:38](https://youtu.be/5dUg6n6JQ7c?t=2138)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -347,6 +335,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 
 ## Other topics mentioned
 

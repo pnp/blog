@@ -14,13 +14,8 @@ type: "regular"
 {{< image alt="TitleSlide.png" src="images/blog/microsoft-teams-community-call-march-2021/TitleSlide.png" >}}
 
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 This month's community call featured latest look at the **Teams Sample
 Repository** (consolidated sample code Repo for Teams platform), then
@@ -72,6 +67,7 @@ configurations.  Have a look at the mobile People Picker Control in
 development.  API documentation with code snippets is current.   
 
  
+
 
 ## Resources
 

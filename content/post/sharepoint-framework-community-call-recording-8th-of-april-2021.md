@@ -19,13 +19,8 @@ building solutions for **Microsoft Viva**, **Microsoft Teams** and
 for **SharePoint** Online.
 
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Preview the new [Microsoft 365
 Extensibility](https://aka.ms/m365/extensibility) look book gallery --
@@ -49,17 +44,7 @@ is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 {{< image alt="8th-april-together-mode.gif" src="images/blog/sharepoint-framework-community-call-recording-8th-of-april-2021/8th-april-together-mode.gif" >}}
  
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
-## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
-
-
-
 -   Register for both:
-    -   Register to watch the Microsoft Graph livestream with your
         community at:  <https://aka.ms/pnpwatchparty>
     -   RSVP to attend - 2-hour livestream -- Building Apps for with
         Microsoft Graph -- 2 sessions -- 2:00pm AEST (Asia Pacific
@@ -169,6 +154,7 @@ is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 
 As is the case this week, samples are often showcased in Demos.  Thank
 you for your great work.
+
 ## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
@@ -208,6 +194,8 @@ you for your great work.
 -   Viva Connections Desktop and Extensibility -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [39:29](https://youtu.be/PJ4aUybRrQo?t=2369)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -306,6 +294,7 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev

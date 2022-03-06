@@ -15,13 +15,8 @@ type: "regular"
 
 {{< image alt="powerapps-community-call-18th-aug.png" src="images/blog/power-apps-community-call-august-2021/powerapps-community-call-18th-aug.png" >}}
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Topics covered in this month's community call include demos in
 

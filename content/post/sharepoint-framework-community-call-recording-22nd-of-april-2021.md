@@ -19,13 +19,8 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Preview the new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
@@ -55,12 +50,8 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 
 Jungle seating in a Pacific Northwest, Washington, US amphitheater! 
 Truly unique like this Community!
-<<<<<<< HEAD
 
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -150,13 +141,8 @@ Truly unique like this Community!
     Updater](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-teams-membership-updater) -
     [Nick Brown](http://twitter.com/techienickb) | \@techienickb
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -194,6 +180,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
     [
     --][ [45:33](https://youtu.be/08UBXLU-g04?t=2733)]
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -292,6 +280,7 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev

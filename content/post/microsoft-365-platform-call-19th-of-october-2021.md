@@ -83,12 +83,7 @@ takes place in chat throughout the call.   
     Syntex, Stream, Visio and
     more](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-ignite-2021-guide-to-sharepoint-onedrive-viva-lists/ba-p/2853103)
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -170,6 +165,8 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo 2:**  Latest on Microsoft Graph Data Connect -- [Nik
     Charlebois](http://twitter.com/NikCharlebois) (Microsoft) |
     \@NikCharlebois -- [27:37](https://youtu.be/oKokNWh1IBg?t=1657)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

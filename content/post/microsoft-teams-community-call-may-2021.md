@@ -35,12 +35,7 @@ during this session.  The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 Q&A takes place in chat throughout the call.
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -143,6 +138,8 @@ Thank you for your work. Samples are often showcased in Demos.
     [36:54](https://youtu.be/adVfHsp8PfM?t=2214)
 
  
+
+
 
 ## Resources
 

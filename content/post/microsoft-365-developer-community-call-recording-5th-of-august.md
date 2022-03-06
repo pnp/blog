@@ -13,7 +13,8 @@ type: "regular"
 --- 
 
 
-## Call Summary
+## Call summary
+
 
 
 Summer break and community call schedule updates reviewed.  Preview the
@@ -47,12 +48,7 @@ Three Power Platform samples were delivered, as well.  The host of this
 call was [Julie Turner](http://twitter.com/jfj1997) (Sympraxis
 Consulting) | \@jfj1997.   Q&A takes place in chat throughout the call.
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -173,6 +169,8 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  List Formatting Magic -- [Chris
     Kent](http://twitter.com/theChrisKent) (DMI) | \@theChrisKent -
     [40:13](https://youtu.be/0pWijfLYjEY?t=2413)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

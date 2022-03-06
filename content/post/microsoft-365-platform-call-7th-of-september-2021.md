@@ -128,6 +128,8 @@ Thank you for your work. Samples are often showcased in Demos.
     \@roinochieng, [Samwel
     Kanda](http://twitter.com/samwelkanda) (Microsoft) |
     \@samwelkanda -- [30:17](https://youtu.be/gf00sxZvK5M?t=1817)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

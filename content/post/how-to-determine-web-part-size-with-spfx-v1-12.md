@@ -100,6 +100,7 @@ This a great add to SPFx and allows developers to re-render components
 when the web part is resized
 Happy coding everyone!
 
+
 ## Resources 
 
 [Determine the rendered web part width | Microsoft

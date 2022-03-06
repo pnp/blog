@@ -53,12 +53,7 @@ call.
 
  
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -146,6 +141,8 @@ Thank you for your work. Samples are often showcased in Demos.
     [28:14](https://youtu.be/OPiBhBf-9PU?t=1694)
 -   **Demo:**  Getting started with Microsoft Teams UI Library -- Will
     Shown (Microsoft) -- [42:11](https://youtu.be/OPiBhBf-9PU?t=2531)
+
+
 
 ## Resources
 

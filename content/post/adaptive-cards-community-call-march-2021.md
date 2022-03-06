@@ -55,6 +55,7 @@ adaptive card using auto invoke and synchronized refresh capabilities. 
 -   Schema Explorer - [Schema v1.4
     Docs](https://adaptivecards.io/explorer/Action.Execute.html)
 
+
 ## Resources in General
 
 -   Let us know the features you need - <https://aka.ms/ACRoadmap>

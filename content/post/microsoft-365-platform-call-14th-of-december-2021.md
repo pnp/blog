@@ -156,6 +156,8 @@ Thank you for your work. Samples are often showcased in Demos.
     solutions -- [Sébastien Levert](http://twitter.com/sebastienlevert)
     (Microsoft) | \@sebastienlevert --
     [39:35](https://youtu.be/HfBVaeGRDw8?t=2375)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

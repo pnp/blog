@@ -14,7 +14,8 @@ type: "regular"
 
 {{< image alt="recording-9th-december.png" src="images/blog/microsoft-365-developer-community-call-recording-9th-of-december/recording-9th-december.png" >}}
 
-## Call Summary
+## Call summary
+
 
 
 Why not visit the Microsoft 365 tenant -- [script samples
@@ -48,12 +49,7 @@ The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -204,6 +200,8 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     \@thechriskent  
 
      -- [47:48](https://youtu.be/-ovC3cO7xlA?t=2868)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

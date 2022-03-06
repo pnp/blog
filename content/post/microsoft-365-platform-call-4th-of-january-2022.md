@@ -155,6 +155,8 @@ Thank you for your work. Samples are often showcased in Demos.
     Connections Quick View designs -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [45:21](https://youtu.be/kZ_JwZpbJb4?t=2721)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

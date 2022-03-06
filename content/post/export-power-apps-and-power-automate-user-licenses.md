@@ -59,6 +59,7 @@ Happy reporting everyone!
 You can read this article on my blog
 [here](https://yhabersaat.ch/2021/04/18/get-power-apps-power-automate-user-licenses/).
  
+
 ## Resources 
 
 <https://docs.microsoft.com/powershell/powerapps/get-started-powerapps-admin>

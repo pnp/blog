@@ -19,13 +19,8 @@ SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
     call](https://aka.ms/m365-dev-call).  Next call on the 4th of
@@ -73,12 +68,7 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 into the New Year!  Hang on, see you
 soon. ]
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -189,13 +179,8 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 
 \* to be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -234,14 +219,10 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **Demo 3**:  Viva Connections ACEs CardView Types in SharePoint
     Framework -- [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys)
     |
-<<<<<<< HEAD
-    \@PaoloPia [--][ [44:30](https://youtu.be/--4erl4oE7Q?t=2670)]
-**Resources:**
-=======
     \@PaoloPia [--][ [44:30](https://youtu.be/--4erl4oE7Q?t=2670)][ ]
 
+
 ## Resources
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 Additional resources around the covered topics and links from the
 slides.
@@ -387,6 +368,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 
 ## Other topics mentioned
 

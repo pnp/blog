@@ -12,7 +12,8 @@ type: "regular"
 
 ---
 
-## Call Summary
+## Call summary
+
 
 
 Have a look at Microsoft 365 tenant -- [script samples
@@ -245,7 +246,7 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     [45:05](https://youtu.be/y0PiVmB1gz4?t=2705)
 
 
-### Resources
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

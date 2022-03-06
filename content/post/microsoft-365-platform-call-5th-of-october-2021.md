@@ -19,7 +19,8 @@ YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos).
 
 
-## Call Summary
+## Call summary
+
 
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
@@ -138,6 +139,8 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo 2:** Getting started on using Microsoft Viva Connections in
     your tenant -- [Tejas Mehta](http://twitter.com/tpmehta) (Microsoft)
     | \@tpmehta -- [25:05](https://youtu.be/4LFP1Zyerq4?t=1505)
+
+
 
 ## Resources
 

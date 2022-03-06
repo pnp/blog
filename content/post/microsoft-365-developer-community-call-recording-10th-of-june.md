@@ -15,9 +15,11 @@ type: "regular"
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from June 10, 2021.
+
 {{< image alt="m365-general-10th-june-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-10th-of-june/m365-general-10th-june-recording.png" >}}
 
-## Call Summary
+## Call summary
+
 
 
 Summer break and community call schedule updates reviewed. You are
@@ -165,13 +167,11 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   **Demo: ** Getting started on using Time Clock Microsoft Graph APIs
     to clock in and out of a shift -- Aarthi Kumar
-<<<<<<< HEAD
-    (Microsoft) [-][ [41:20](https://youtu.be/qOgH82b5Jw4?t=2480)][](https://youtu.be/qOgH82b5Jw4?t=2480)
-**Resources:**
-=======
     (Microsoft) [-][ [41:20](https://youtu.be/qOgH82b5Jw4?t=2480)][[ ]](https://youtu.be/qOgH82b5Jw4?t=2480)
+
+
 ## Resources
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 Additional resources around the covered topics and links from the
 slides.

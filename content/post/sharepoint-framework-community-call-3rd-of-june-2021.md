@@ -18,13 +18,8 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 [Register](https://aka.ms/viva/connections/preview/register) for the
 Private Preview of Viva Connections (including access to SPFx v.1.13)
@@ -59,12 +54,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 Thanks everybody for being part of the Community and helping making
 things happen. You are absolutely awesome!
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -135,13 +125,8 @@ a custom card using the Dashboard web part and SPFx.
     \
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -179,6 +164,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
         [37:48](https://youtu.be/65hRvHN5Iqk?t=2268)]
     -   [Demo:  Developing a Custom Card using SharePoint Framework v --
         [46:00](https://youtu.be/65hRvHN5Iqk?t=2760)]
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -259,6 +246,7 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev

@@ -12,7 +12,8 @@ type: "regular"
 
 ---
 
-## Call Summary
+## Call summary
+
 
 
 This month's community call features presentations - **Shared mailboxes
@@ -108,6 +109,7 @@ directly to disk from the browser in any way that works cross-platform.
 A recommended approach to write to a CSV file is to [write to files
 using Microsoft Graph and
 OneDrive](https://docs.microsoft.com/graph/api/resources/onedrive?view=graph-rest-1.0).
+
 
 ## Resources 
 

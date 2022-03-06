@@ -70,12 +70,7 @@ call   
 -   [Use end-to-end encryption for one-to-one Microsoft Teams
     calls](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/use-end-to-end-encryption-for-one-to-one-microsoft-teams-calls/ba-p/2867066)
 
-<<<<<<< HEAD
-
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -158,6 +153,8 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo 2:**  Progressive Web Apps and Beyond: Supercharging OneDrive
     & SharePoint web apps -- Andrey Esipov (Microsoft) --
     [33:03](https://youtu.be/SHjjmNa1EPw?t=1983)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

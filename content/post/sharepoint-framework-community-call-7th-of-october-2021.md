@@ -20,13 +20,8 @@ Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
 community call](https://aka.ms/m365-dev-call).  Topics for the call on
 October 12 are Progressive Web Apps and Beyond: Supercharging OneDrive &
@@ -65,14 +60,8 @@ call.
 Not an empty seat in the house.  Nice seeing everyone on the call. 
 Please join again soon.
 
-<<<<<<< HEAD
-
-**Actions:**
-
-
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 -   Register today for Hacktoberfest 2021 --
     <https://hacktoberfest.digitalocean.com>
 -   Register for Microsoft Ignite (Digital event) - November 2-4, 2021-
@@ -187,13 +176,8 @@ Please join again soon.
     [Anoop](http://twitter.com/anooptells) | \@anooptells
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -229,6 +213,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **D3**:  SPFx Design Patterns -- Asynchronous Rendering -- [Hugo
     Bernier](http://twitter.com/bernierh) (Microsoft) |
     \@bernierh [--][ [42:07](https://youtu.be/Yh76J4aRVUQ?t=2527)]
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -390,6 +376,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev

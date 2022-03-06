@@ -16,7 +16,8 @@ type: "regular"
  
 
 
-## Call Summary
+## Call summary
+
 
 
 Latest news from Microsoft 365 engineering and updates on open-source
@@ -40,15 +41,8 @@ components (Preview).   The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
  Q&A takes place in chat throughout the call.
 
-<<<<<<< HEAD
-
-**Actions:**
-
-
-
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 -   [Microsoft 365 Developer Community
     Survey](https://aka.ms/m365pnp/survey) --
     <https://aka.ms/m365pnp/survey>
@@ -151,6 +145,8 @@ Thank you for your work. Samples are often showcased in Demos.
     \@theChrisKent - [41:29](https://youtu.be/HarfeUb-3TY?t=2489)
 
      
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -272,6 +268,7 @@ slides.
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
 -   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
+
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft

@@ -20,13 +20,8 @@ Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
 community call](https://aka.ms/m365-dev-call).  Featured topics for the
@@ -65,15 +60,10 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 call.
 {{< image alt="211021-together-mode.gif" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/211021-together-mode.gif" >}}
 Full house today.  Clearly we've outgrow this venue.   Great to see
-everybody.  See you again soon.   
-<<<<<<< HEAD
-
-**Actions:**
-
-
-=======
+everybody.  See you again soon. 
+  
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 -   Vote: [Next SPFx Design Patterns Topic -- November 4,
     2021](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR8ke1rGfE-VNsUHrnMWCrL5UN1dHRUYxV01CUkJESktKMENBQldURVpRWiQlQCN0PWcu&web=1&wdLOR=cC640D9E0-C403-405A-9EF1-D9F43B6ADF90)
 -   Register today for Hacktoberfest 2021
@@ -177,13 +167,8 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
     Events](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-Graph-UpcomingEvents) -
     [Zach Roberts](http://twitter.com/ZachSPODev) | \@ZachSPODev
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -222,6 +207,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **D3:**  SPFx Design Patterns Property Panes --  [Hugo
     Bernier](http://twitter.com/bernierh) (Microsoft) |
     \@bernierh [--][ [40:50](https://youtu.be/9vvasiylRYI?t=2450)]
+
+
 
 ## Resources
 
@@ -358,6 +345,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev

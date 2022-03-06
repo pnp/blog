@@ -11,13 +11,8 @@ type: "regular"
 
 ---
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 
 In this session - Microsoft Identity platform for developers, Microsoft
 Authentication Libraries (JS, .NET, Android, iOS, Python, Java, Angular,
@@ -53,6 +48,7 @@ include: 
     Android). 
 
  
+
 
 ## Resources
 

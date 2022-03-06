@@ -185,7 +185,8 @@ which is described here: [Paging Microsoft Graph data in your app --
 Microsoft Graph | Microsoft
 Docs](https://docs.microsoft.com/graph/paging)
 
-### Resources in Azure 
+
+## Resources in Azure 
 
 We will now create the Functions App in Azure -- You can either install
 the CLI or use Cloud shell (available on shell.azure.com -- no

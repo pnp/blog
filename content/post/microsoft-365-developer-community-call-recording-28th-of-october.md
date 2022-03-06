@@ -16,7 +16,8 @@ type: "regular"
  
 
 
-## Call Summary
+## Call summary
+
 
 
 SharePoint Framework v1.13 is now generally available!  Have you visited
@@ -207,6 +208,8 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) |
     \@NataliePienkow1 & Martyn Lesbirel (Dynamiti) --
     [48:09](https://youtu.be/PFMUygySS3I?t=2889)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the

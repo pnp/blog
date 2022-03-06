@@ -20,13 +20,8 @@ Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 Tune in each Tuesday for the [Microsoft 365 platform community
 call](https://aka.ms/m365-dev-call).  Featured topics for the November
 9th call - Introduction to Embedded Search Box (Shubham Gatkal) and
@@ -64,15 +59,8 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 Great to see all of you today.  Looking forward to seeing some of you in
 Düsseldorf or in Las Vegas later this year.   
 
-<<<<<<< HEAD
-
-**Actions:**
-
-
-
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 -   Opt in to PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
 -   **Register for Sharing is Caring Events:**
@@ -179,13 +167,8 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 
 \* to be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -223,6 +206,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **D3:**  SPFx Design Patterns - Custom Properties -- [Hugo
     Bernier](http://twitter.com/bernierh) (Microsoft) |
     \@bernierh [--][ [32:47](https://youtu.be/UbEI23buBtE?t=1967)]
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -375,6 +360,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev

@@ -19,13 +19,8 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-<<<<<<< HEAD
-
-## Call Summary
-
-=======
 ## Call summary
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
 Summer and Fall community call schedule updates reviewed.  Register
 today for August events on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).   [PnP
@@ -59,12 +54,8 @@ Yep!  Nice wave action.  Great seeing you this week.  Looking forward to
 seeing you again in August.    Data for Hugo:  24 left-handed wavers, 4
 right-handed wavers, 2 bi-handed wavers and 4 non-handed wavers.  But
 wait, now there's 35 wavers!   Data corruption.  
-<<<<<<< HEAD
 
-**Actions:**
-=======
 ## Actions
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 
 
@@ -143,13 +134,8 @@ wait, now there's 35 wavers!   Data corruption.  
     pending) - [Hugo Bernier](http://twitter.com/bernierh) | \@bernierh
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-<<<<<<< HEAD
-
-**Agenda items:**
-=======
   
 ## Agenda items
->>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
@@ -181,6 +167,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     ][Hugo
     Bernier](http://twitter.com/bernierh)[ (Microsoft) |
     \@bernierh ][--][ [41:12](https://youtu.be/BMXZlYtyKp4?t=2472)]
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -324,6 +312,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev
