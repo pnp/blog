@@ -2,12 +2,13 @@
 title: "SharePoint Framework Community Call -- 23rd of September, 2021"
 date: 2021-09-24T12:57:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-23rd-of-september-2021/recording-23rd-sep.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -103,7 +104,7 @@ to seeing some of you in Düsseldorf or Las Vegas later this year. 
     Fluent UI Theme Designer tool.   
 
 -   **Accessing personal files easily with My OneDrive Web Part --** a
-    simple, powerful SPFx webpart for an Intranet Landing or Viva
+    simple, powerful SPFx web part for an Intranet Landing or Viva
     connections page to display the current user's One Drive files. 
     Uses the One Drive Graph API and a custom component -
     OneDriveTable.  Shows User's One Drive files and folders, most file

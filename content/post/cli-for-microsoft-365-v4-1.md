@@ -2,15 +2,13 @@
 title: "CLI for Microsoft 365 v4.1"
 date: 2021-10-22T04:48:00-04:00
 author: "Garry Trinder"
+githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
-images: []
+images: 
+- images/blog/cli-for-microsoft-365-v4-1/CLI for Microsoft 365 v4.1
 tags: []
 type: "regular"
-draft: false
-
 ---
-
-{{< image alt="1" src="images/blog/cli-for-microsoft-365-v4-1/banner-cli-m365.png" >}}
  
 We've just published a new version of the CLI for Microsoft 365 with
 new commands for working with and managing Microsoft 365 tenants and
@@ -52,7 +50,7 @@ To upgrade your SPFx project to v1.13 version, change the working
 directory to your project and execute:
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spfx project upgrade --output md > report.md
 ```
  
@@ -61,7 +59,7 @@ We'd also recommend that you try a richer upgrade report based on the
 Visual Studio Code CodeTour extension:
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spfx project upgrade --output tour
 ```
  
@@ -80,7 +78,7 @@ accounts.
 To update the properties of a specific user, execute:
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad user set --userPrincipalName steve@contoso.onmicrosoft.com --Department "Sales & Marketing" --CompanyName Contoso
 ```
  
@@ -88,7 +86,7 @@ m365 aad user set --userPrincipalName steve@contoso.onmicrosoft.com --Department
 To disable a specific user, execute:
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad user set --userPrincipalName steve@contoso.onmicrosoft.com --accountEnabled false
 ```
  

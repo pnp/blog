@@ -2,12 +2,13 @@
 title: "Should we use SharePoint REST or Microsoft Graph API in Power Automate?"
 date: 2021-03-03T10:00:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["SharePoint", "Microsoft Graph"]
 images:
 - images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/hello-i-m-nik-n1ccr-zVG68-unsplash.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -438,7 +439,7 @@ out](https://pnp.github.io/cli-microsoft365/cmd/spo/field/field-add/)!
 
 ## Conclusion 
 
-As always, the answer to the question "When shall I use what" will be
+As always, the answer to the question \"When shall I use what\" will be
 a typical consultant 'It Depends.' Depending on your experience and
 skillset, the scope of your app, and how you approach it, you will
 prefer one tool over another - the purpose of this blog was to share

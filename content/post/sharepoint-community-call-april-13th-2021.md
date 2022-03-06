@@ -2,12 +2,13 @@
 title: "SharePoint community call - April 13th, 2021"
 date: 2021-04-14T12:43:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-community-call-april-13th-2021/15th-april-together-mode.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -191,7 +192,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/sp-call>
 -   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT \|
     <https://aka.ms/adaptivecardscommunitycall>
-"*Too many links, can't remember*" - not a problem\... **just one
+\"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
 - <http://aka.ms/m365pnp>.
 *"Sharing is caring"*

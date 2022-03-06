@@ -2,11 +2,12 @@
 title: "Which JavaScript framework can I use with SharePoint Framework"
 date: 2021-06-23T11:55:00-04:00
 author: "Waldek Mastykarz"
+githubname: WaldekMastykarz
 categories: ["SharePoint"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

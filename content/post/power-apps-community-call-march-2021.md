@@ -2,12 +2,13 @@
 title: "Power Apps Community Call -- March 2021"
 date: 2021-03-17T08:40:00-04:00
 author: "Todd Baginski"
+githubname: Tbag
 categories: ["Power Apps community Call recordings"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -40,7 +41,7 @@ March 17, 2021.  Thank for attending the call or viewing it on demand. 
     rendered in gallery item.  
 -   **Automating metadata tagging with AI using Power Automate** -- Need
     to scan and tag 15k inconsistently formatted documents annually that
-    are uploaded to a Sharepoint document library?  Presenter evaluated
+    are uploaded to a SharePoint document library?  Presenter evaluated
     3 capable options (OneDrive, OCR, Computer Vision) and based on
     technology strengths/limitations, choose Azure's Cognitive
     Services - Computer Vision Read API that's called from the shown

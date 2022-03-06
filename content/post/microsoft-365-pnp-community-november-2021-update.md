@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Community -- November 2021 update"
 date: 2021-11-26T08:24:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-november-2021-update/pnp-nov-update.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

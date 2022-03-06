@@ -2,12 +2,13 @@
 title: "How to break and change list item permission using Power Automate?"
 date: 2021-06-29T01:00:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["SharePoint", "Power Automate"]
 images:
 - images/blog/how-to-break-and-change-list-item-permission-using-power/Step2.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -24,7 +25,7 @@ Create a SharePoint List
 Create a Power Automate - We will create an **Automated Cloud Flow**
 1\. Go to **Power Automate** \> **My flows** \> Click on **New flow** \>
 Select **Automated Cloud Flow**
-**{{< image alt="Step 1.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/Step 1.png" >}}
+**{{< image alt="STep 1.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/STep 1.png" >}}
  
 2\. It will ask for the flow name and trigger.
 Add flow name and choose a trigger **when an item is created.**
@@ -81,7 +82,7 @@ name.**
 It will return an object as below,
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
   "d": {
     "results": [

@@ -2,12 +2,13 @@
 title: "Getting the working hours/time zones for other users using Microsoft Graph API"
 date: 2021-10-18T04:44:00-04:00
 author: "Michel Mendes"
+githubname: michelcarlo
 categories: []
 images:
 - images/blog/getting-the-working-hours-time-zones-for-other-users-using/01_Mysettings.PNG
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

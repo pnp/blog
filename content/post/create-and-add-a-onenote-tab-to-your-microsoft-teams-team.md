@@ -2,12 +2,13 @@
 title: "Create and add a OneNote tab to your Microsoft Teams team channel using Power Automate + Graph API"
 date: 2021-02-24T09:36:00-05:00
 author: "Vesa Nopanen"
+githubname: veskunopanen
 categories: ["Microsoft Graph", "Power Automate"]
 images:
 - images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-13.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
  
@@ -50,7 +51,7 @@ info about notebook ID and also it's weburl.
  
  
  
-``` {.lia-code-sample .language-json}
+```json
 {
      "type": "object",
      "properties": {

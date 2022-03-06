@@ -2,12 +2,14 @@
 title: "Office Add-ins community call -- December 8, 2021"
 date: 2021-12-16T03:51:00-05:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-december-8-2021/office-add-ins-Thumb Dec 2021.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

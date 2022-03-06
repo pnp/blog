@@ -2,12 +2,14 @@
 title: "Office Add-ins community call -- November 10, 2021"
 date: 2021-12-01T11:40:00-05:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-november-10-2021/office-add-ins-Thumb-Nov.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---](/t5/microsoft-365-pnp-blog/
 

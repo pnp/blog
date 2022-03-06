@@ -2,12 +2,13 @@
 title: "CLI for Microsoft 365 v3.11"
 date: 2021-06-30T10:45:00-04:00
 author: "Garry Trinder"
+githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/cli-for-microsoft-365-v3-11/banner-cli-m365.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -123,7 +124,7 @@ command to enable you to return a Power App by its name making it much
 more user friendly.
  
 To retrieve details of a Power App by its name, execute:
-``` {.lia-code-sample .language-bash}
+```bash
 m365 pa app get --displayName App
 ```
  
@@ -134,7 +135,7 @@ description property. In this release, we have enhanced commands to
 provide support for updating this on both modern and classic sites.
  
 To update the description on a modern SharePoint Online site, execute:
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo site set --url https://contoso.sharepoint.com/sites/ModernSite --description "something"
 ```
  
@@ -169,7 +170,7 @@ recommendation how to address these issues.
  
 To verify if your environment meets the requirements to work with the
 SharePoint Framework, execute:
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spfx doctor
 ```
 
@@ -186,7 +187,7 @@ to remove a custom role.
 To remove a role published by an Azure AD application registration by
 its name, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad app role delete --appName "My app" --claim "Product.Get"
 ```
  
@@ -199,7 +200,7 @@ update the application URI property value.  
  
 To update the application URI of an Azure AD application registration
 specified by its name, execute:
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad app set --name "My app" --uri https://contoso.com/e75be2e1-0204-4f95-857d-51a37cf40be8
 ```
  
@@ -217,7 +218,7 @@ that removes all of the groups in the recycle bin in a single command to
 make this easier.
  
 To remove all deleted Microsoft 365 Groups in the tenant, execute:
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad o365group recyclebinitem clear
 ```
  
@@ -228,13 +229,13 @@ config* commands. In this release we have added the ability for you to
 reset these options back to their default values.
  
 To reset the *showHelpOnFailure* to its default value, execute:
-``` {.lia-code-sample .language-bash}
+```bash
 m365 cli config reset --key showHelpOnFailure
 ```
  
 Alternatively, to reset all configuration options to their default
 values, execute:
-``` {.lia-code-sample .language-bash}
+```bash
 m365 cli config reset
 ```
  
@@ -245,19 +246,19 @@ as well as who has made those activations.
  
 To get the count of Microsoft 365 activations on desktops and devices,
 execute:
-``` {.lia-code-sample .language-bash}
+```bash
 m365 tenant report office365activationcounts
 ```
  
 To get the count of users that are enabled and those that have activated
 the Office subscription on desktop or devices or shared computers,
 execute:
-``` {.lia-code-sample .language-bash}
+```bash
 m365 tenant report office365activationsusercounts
 ```
  
 To get details about users who have activated Microsoft 365, execute:
-``` {.lia-code-sample .language-bash}
+```bash
 m365 tenant report office365activationsuserdetail
 ```
  
@@ -504,7 +505,7 @@ executing:
  
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
 
@@ -516,7 +517,7 @@ Alternatively, you can get the latest release from Docker by executing:
  
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
 

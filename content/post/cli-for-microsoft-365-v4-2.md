@@ -2,11 +2,11 @@
 title: "CLI for Microsoft 365 v4.2"
 date: 2021-11-26T06:38:00-05:00
 author: "Albert-Jan Schot"
+githubname: appieschot
 categories: ["CLI for Microsoft 365"]
-images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

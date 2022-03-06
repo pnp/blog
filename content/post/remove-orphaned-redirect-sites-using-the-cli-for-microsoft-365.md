@@ -2,11 +2,12 @@
 title: "Remove orphaned redirect sites using the CLI for Microsoft 365"
 date: 2021-11-18T02:20:00-05:00
 author: "Patrick Lamber"
+githubname: plamber
 categories: ["CLI for Microsoft 365"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -20,7 +21,7 @@ scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/remove-orphan
 created  for the CLI for Microsoft 365. The original script was created
 by our community member [Altert-Jan
 Schot.](https://www.cloudappie.nl/remove-orphaned-redirectsites/)
-``` {.lia-code-sample .language-powershell}
+```powershell
 $sites = m365 spo site classic list --t "REDIRECTSITE#0" --output json | ConvertFrom-Json
 
 $sites | ForEach-Object {
@@ -63,7 +64,7 @@ section.](https://pnp.github.io/cli-microsoft365/sample-scripts/)
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) is a
 cross-platform CLI that allows you to manage various configuration
 settings of Microsoft 365 and SharePoint Framework projects no matter
-which operating system or shell you use.\
+which operating system or shell you use.
 \
 While building solutions for Microsoft 365 expands beyond the Windows
 operating system, managing many of the platform settings is possible
@@ -77,7 +78,7 @@ manage your SharePoint Framework projects.
 
 Get the latest release of the CLI for Microsoft 365 from npm by
 executing:
-``` {.lia-code-sample .language-bash}
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
 If you need more help getting started or want more details about the

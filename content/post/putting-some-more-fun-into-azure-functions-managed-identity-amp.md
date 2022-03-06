@@ -2,15 +2,16 @@
 title: "Putting some more FUN into Azure Functions, Managed Identity & Microsoft Graph"
 date: 2021-08-11T08:40:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Microsoft Graph", "Azure"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 ---
 
-## Usecase & purpose of this blog post 
+## Use case & purpose of this blog post 
 
 I want to show, how you can use a Managed Identity in Azure Functions to
 get an access token for Microsoft Graph API.
@@ -90,8 +91,8 @@ code. This has some great advantages:
 I covered how to do this also in a previous post, but for the sake of a
 start-to-end scenario, here we go again:
 
--   Install the Core Tools package with npm install -g
-    azure-functions-core-tools\@3 \--unsafe-perm true
+-   Install the Core Tools package with `npm install -g
+    azure-functions-core-tools\@3 \--unsafe-perm true`
 -   Install the Azure Functions extension for VS Code
 -   Select New Project
 -   Select a folder for your project
@@ -107,7 +108,7 @@ all the time when I am expanding or collapsing the pane)
 
 We will now write the code for our Azure Functions. Replace the default
 code of run.ps1 in VS Code by this:
-``` {.lia-code-sample .language-bash}
+```bash
 using namespace System.Net
 
 # Input bindings are passed in via param block
@@ -192,7 +193,7 @@ installation is needed then and it works in any browser!)
 
 For testing purposes, I pseudo-randomized a number to not always need to
 come up with new names:
-``` {.lia-code-sample .language-bash}
+```bash
 #Get a random number between 100 and 300 to more easily be able to distinguish between several trials
 $rand = Get-Random -Minimum 100 -Maximum 300
 ```
@@ -201,7 +202,7 @@ We will now set some variables, this reduces risk of typos and makes our
 code better readable -- also we can reuse it better -- this is a
 courtesy to future-self
 
-``` {.lia-code-sample .language-applescript}
+```bash
 #Set values
 $resourceGroup = "DemoPlay$rand"
 $location = "westeurope"
@@ -213,7 +214,7 @@ $functionapp = "LuiseDemo-functionapp$rand"
 
 Let's create a resource-group that will later hold our Azure Functions
 App
-``` {.lia-code-sample .language-bash}
+```bash
 #create group
 az group create -n $resourceGroup -l $location
 ```
@@ -223,7 +224,7 @@ az group create -n $resourceGroup -l $location
 As our Functions App will need a storage account, we will create this as
 well:
 
-``` {.lia-code-sample .language-bash}
+```bash
 #create storage account
 az storage account create `
 -n $storage `
@@ -237,7 +238,7 @@ az storage account create `
 Now create the Azure Functions app which later holds our functions
 (remember we created that earlier locally, but will later deploy it to
 Azure)
-``` {.lia-code-sample .language-bash}
+```bash
 #create function
 az functionapp create `
 -n $functionapp `
@@ -257,7 +258,7 @@ benefit from Application Insights.
 We want things to be super secure -- this is why we want to enable a
 system assigned Managed Identity for our new Functions:
 
-``` {.lia-code-sample .language-bash}
+```bash
 az functionapp identity assign -n $functionapp -g $resourceGroup
 ```
 
@@ -269,7 +270,7 @@ required REST call, we will need
 -   permission scope, expressed as App role\
     Let's do this:
 
-``` {.lia-code-sample .language-bash}
+```bash
 #Get Graph Api service provider (that's later needed for --api) 
 az ad sp list --query "[?appDisplayName=='Microsoft Graph'].{Name:appDisplayName, Id:appId}" --output table --all
 
@@ -283,7 +284,7 @@ $appRoleId = az ad sp show --id $graphId --query "appRoles[?value=='Group.Read.A
 Time to make the REST call to assign the permissions as shown above to
 the Managed Identity:
 
-``` {.lia-code-sample .language-bash}
+```bash
 #Set values
 $webAppName="LuiseDemo-functionapp$rand"
 $principalId=$(az resource list -n $webAppName --query [*].identity.principalId --out tsv)
@@ -317,7 +318,7 @@ Studio Code:
 -   Confirm the Pop up window by selecting Deploy
 -   Check progress results in the output window
 
-Time to test!\
+Time to test!
 Please note, that due to our Managed Identity, we can't test locally.
 You can trigger your Functions with Postman or similar or run a test in
 the Azure portal
@@ -344,11 +345,11 @@ What if we want to make sure, that this could be used in Power Apps and
 Power Automate? One way to achieve this, is creating a Power Platform
 custom connector. This way, makers can use the connector which calls our
 Azure Functions in a canvas app and display for example the groups in a
-gallery or table.\
+gallery or table.
 \
 Please note, that there are of course more fancy use cases, I will focus
 in this blog post on the code -- If you have a good story, please reach
-out.\
+out.
 \
 Sample script is available at [Script Samples \| PnP
 Samples](https://pnp.github.io/script-samples/)
@@ -362,6 +363,4 @@ tenant](https://developer.microsoft.com/en-us/microsoft-365/dev-program)\
 Join the [Microsoft 365 PnP Community](https://pnp.github.io/) -- join
 our calls and benefit from guidance, tools, sample\
  \
-Originally published at [Putting some more FUN into Azure Functions,
-Managed Identity & Microsoft Graph -- M365
-Princess](https://m365princess.com/putting-some-fun-into-azure-functions-managed-identity-and-microsoft-graph/)
+Originally published at [Putting some more FUN into Azure Functions, Managed Identity & Microsoft Graph -- M365 Princess](https://m365princess.com/putting-some-fun-into-azure-functions-managed-identity-and-microsoft-graph/)

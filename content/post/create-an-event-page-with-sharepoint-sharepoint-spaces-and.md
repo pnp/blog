@@ -1,20 +1,21 @@
 ---
 title: "Create an event page with SharePoint, SharePoint Spaces and formatted Lists"
 date: 2021-11-23T02:10:00-05:00
-author: ""
+author: "Anand Vragav"
+githubname: anandragav
 categories: ["SharePoint"]
 images:
 - images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_0-1637611061380.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
 Recently I shared with the PnP community an event page I was working on
 and how I used SharePoint, Spaces and formatted Lists to design the user
 experience. In this post is explained the details of how the page, space
-and lists are made.\
+and lists are made.
 {{< image alt="AnandVRagav_0-1637611061380.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_0-1637611061380.png" >}}
  
 I will break down the components first and then go into the details one
@@ -142,7 +143,7 @@ To get that format, use the below JSON code. Open the drown-down arrow
 next to the column header \> select column settings \> select Format
 this column. Then paste the below JSON and click save.
 
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
   "elmType": "div",
@@ -247,7 +248,7 @@ applied.
  
 {{< image alt="AnandVRagav_1-1637611523762.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_1-1637611523762.png" >}}
  
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
   "elmType": "div",
@@ -315,7 +316,7 @@ formatting.
 {{< image alt="AnandVRagav_2-1637611559251.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_2-1637611559251.png" >}}
  
  
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
   "elmType": "div",
@@ -388,7 +389,7 @@ list.]
  
 {{< image alt="AnandVRagav_3-1637611581623.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_3-1637611581623.png" >}}
  
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
   "elmType": "div",
@@ -489,7 +490,7 @@ Teams
 {{< image alt="AnandVRagav_4-1637611605702.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_4-1637611605702.png" >}}
  
  
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
   "elmType": "div",
@@ -763,7 +764,7 @@ the list and apply the below JSON under "Format view"
 
 View format JSON:
  
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/tile-formatting.schema.json",
   "height": 105,
@@ -882,7 +883,7 @@ column.
 
 Create a view for the list and apply the below JSON under "Format
 view"
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/tile-formatting.schema.json",
   "height": 76,
@@ -1048,7 +1049,7 @@ event date.
 The list is view formatted with the below JSON
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/tile-formatting.schema.json",
   "height": 350,

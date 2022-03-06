@@ -2,12 +2,13 @@
 title: "Introducing React Video Banner Web Part"
 date: 2021-05-06T04:18:00-04:00
 author: "Mohamed Derhalli"
+githubname: derhallim
 categories: ["SharePoint"]
 images:
 - images/blog/introducing-react-video-banner-web-part/derhallim_0-1620249069072.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -70,7 +71,7 @@ that we want to refresh the video whenever we change the video url. By
 default, when changing the properties, all values will be reflected
 except for the video url, it needs to be explicitly refreshed on the
 video control. So we get a reference to the video control using React's
-ref, where we define the "vRef" value on the functional component
+ref, where we define the \"vRef\" value on the functional component
 itself. 
 We then use React's useEffect to check if the video url has changed or
 not, if it has changed, we call the load() function on the video
@@ -88,7 +89,7 @@ element itself has a CSS property *object-fit: cover.*
 As demonstrated, with SPFx and the help of PnP Reusable Property Pane
 controls, building web parts using modern development techniques is very
 easy and isn't time consuming as some may think! Source code is
-available on Github along with other awesome web parts by the community,
+available on GitHub along with other awesome web parts by the community,
 for more information about all the PnP offerings,
 checkout <https://aka.ms/m365pnp> \
 \

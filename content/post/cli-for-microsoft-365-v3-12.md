@@ -2,20 +2,18 @@
 title: "CLI for Microsoft 365 v3.12"
 date: 2021-07-30T02:28:00-04:00
 author: "Garry Trinder"
+githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/cli-for-microsoft-365-v3-12/banner-cli-m365.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
-## {{< image alt="CLI for Microsoft 365 3.12" src="images/blog/cli-for-microsoft-365-v3-12/banner-cli-m365.png" >}}
+## {{< image alt="CLI for Microsoft 365 3.12" src="images/blog/cli-for-microsoft-365-v3-12/banner-cli-m365.png" >}}\
+
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform 
 
-
- 
 
 CLI for Microsoft 365 is a cross-platform CLI that allows you to manage
 various configuration settings of Microsoft 365 and SharePoint Framework
@@ -31,9 +29,6 @@ system you use. Additionally, using CLI for Microsoft 365, you can
 manage your SharePoint Framework projects.
 
 
-
- 
-
 ## New version of CLI for Microsoft 365 -- v3.12 
 
 
@@ -46,7 +41,7 @@ the most noteworthy additions.
  
 We've continued improving the CLI, adding new commands and we've
 introduced in the previous version.
- 
+
 #### Create a bucket in a Microsoft Planner plan 
  
 We have added a new command that gives you the ability to create new
@@ -99,32 +94,11 @@ execute:
 ### Changes 
 
 
- 
-
-
-
 We've continued improving the CLI, building upon the changes we've
 introduced in the previous version.
 
 
-
- 
-
-
-
-
-
-
-
 #### Upgraded commands to use Microsoft Graph v1.0 endpoints 
-
-
-
-
-
-
- 
-
 
 
 When new capabilities are added to the Microsoft Graph they are usually
@@ -134,35 +108,15 @@ endpoints are subject to change until they reach general availability
 where they are added to the v1.0 endpoint.
 
 
-
- 
-
-
-
-
-
-
-
 Sometimes when we add new commands to the CLI for Microsoft 365 we make
 use of beta endpoints to add new capabilities to the CLI, for example,
 we recently added several Microsoft To Do commands that used the beta
 endpoints when they were initially released.
 
 
-
- 
-
-
-
 Over time however these endpoints have matured, reaching general
 availability and are now available in the v1.0 endpoint, therefore we
 have updated our code to reflect this.
-
-
-
- 
-
-
 
 We have updated the following commands in this version of the CLI to use
 v1.0 endpoints.
@@ -221,9 +175,6 @@ If you have any scripts that you use frequently, please
 with us so that we can learn more about the common automation scenarios.
 
 
-
- 
-
 #### Add multiple lists in multiple sites 
  
 
@@ -231,27 +182,12 @@ with us so that we can learn more about the common automation scenarios.
 When provisioning lists in SharePoint Online, sometimes we want to
 replicate the same list across multiple site collections.
 
-
-
- 
-
-
-
 This
 [script](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/add-multiple-lists-in-multiple-sites/)
 will create multiple lists in multiple sites, including also mapping a
 content type to the created lists.
 
-
-
- 
-
 #### Identify failed Site Designs executions 
-
-
- 
-
-
 
 When people in your organization create new SharePoint sites, you often
 need to ensure some level of consistency. For example, you may need
@@ -259,31 +195,17 @@ proper branding and theming applied to each new site when they are
 created, Site Designs enable to run scripts and code automatically on
 the creation of those sites.
 
-
-
- 
-
-
-
 This
 [script](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/list-failed-sitedesigns/)
 will iterate through all site collections in the tenant and returns a
 list of site design executions that have errors.
 
-
-
- 
-
-#### List number of files in all lists and folders in a site 
-
+#### List number of files in all lists and folders in a site
 
 When carrying out migrations it is useful to understand the number of
 files in a given site and where they are before moving files to a new
 location.
 
-
-
- 
 
 
 
@@ -293,22 +215,10 @@ will iterate over all lists, folders and subfolders in a given site and
 return the item count for each.
 
 
-
- 
-
-
-
 ### Contributors 
- 
-
 
 This release wouldn't be possible without the help of (in alphabetical
 order)
-
-
-
- 
-
 
 
 -   [Aakash Bhardwaj](https://github.com/aakashbhardwaj619)
@@ -327,16 +237,12 @@ Thank you all for the time you chose to spend on the CLI for Microsoft
 365 and your help to advance it!
  
 ## Work in progress 
- 
 
 
 Here are some things that we're currently working on.
 
  
-### More commands, what else 
- 
-
-
+### More commands, what else
 Microsoft 365 is evolving and new capabilities are being released every
 day. With CLI for Microsoft 365, we aim to help you manage your tenant
 on any platform in a consistent way, no matter which part of Microsoft
@@ -346,12 +252,7 @@ what's possible in Microsoft 365. In the upcoming versions of the CLI
 for Microsoft, you can expect us to add more commands across the
 different workloads in Microsoft 365.
 
-
-
- 
-
 ### Updating Azure AD apps 
- 
 
 
 Recently, we introduced a command to easily create Azure AD app
@@ -361,23 +262,12 @@ possible. So with CLI for Microsoft 365, you can create a fully
 configured Azure AD app for the most common scenarios with just one line
 of code.
 
-
-
- 
-
-
-
 We're currently working on adding support for updating Azure AD app
 registration which will be helpful for example when building apps for
 Microsoft Teams. Stay tuned!
 
 
-
- 
-
 ### Script examples 
- 
-
 
 In every release of the CLI for Microsoft 365, we introduce new commands
 for managing Microsoft 365. With over 350 commands across the different
@@ -385,17 +275,10 @@ Microsoft 365 services, the CLI for Microsoft 365 has become a powerful
 tool, not just for managing your tenant but also for automating your
 daily work.
 
- 
-
-
 We'd love to show you how you can use the CLI for Microsoft 365 to build
 automation scripts in PowerShell Core and Bash. If you have any scripts
 using SPO or PnP PowerShell that you use frequently, please share them
 with us so that we can learn more about the common automation scenarios.
-
-
-
- 
 
 ### 'ensure' commands 
  
@@ -411,8 +294,6 @@ for other commands as well.
 
  
 ## Try it today 
- 
-
 
 Get the latest release of the CLI for Microsoft 365 from npm by
 executing:
@@ -420,31 +301,22 @@ executing:
  
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
-
- 
-
 
 Alternatively, you can get the latest release from Docker by executing:
 
  
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
-
- 
-
 
 If you need more help getting started or want more details about the
 commands, the architecture or the project, go to
 [aka.ms/cli-m365](http://aka.ms/cli-m365).
-
- 
-
 
 If you see any room for improvement, please, don't hesitate to reach out
 to us either on [GitHub](https://github.com/pnp/cli-microsoft365) or

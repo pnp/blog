@@ -2,15 +2,13 @@
 title: "CLI for Microsoft 365 v4"
 date: 2021-10-07T12:08:00-04:00
 author: "Garry Trinder"
+githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
-images: []
+images:
+- images/blog/cli-for-microsoft-365-v4/banner-cli-m365.png
 tags: []
 type: "regular"
-draft: false
-
 ---
-
-{{< image alt="4" src="images/blog/cli-for-microsoft-365-v4/banner-cli-m365.png" >}}
  
 
 We've just published a new major version of the CLI for Microsoft 365
@@ -75,9 +73,9 @@ options created for reading from files such*\--filePath*. Therefore, we
 have taken the decision to remove these options in favour of using the @
 syntax from the following commands.
  
--   outlook mail send \--bodyContentsFilePath
--   spo theme set \--filePath 
--   teams team add \--templatePath
+-   `outlook mail send --bodyContentsFilePath`
+-   `spo theme set --filePath`
+-   `teams team add --templatePath`
 ##   
 ## Updates 
  
@@ -86,7 +84,7 @@ version and following our monthly release cadence, we've released some
 new capabilities. Here are a few of the most noteworthy additions.
  
 ### Upgrade SharePoint Framework projects to SPFx v1.13 preview 
-\
+
 Recently, Microsoft released a new [preview version of the SharePoint
 Framework -
 v1.13](https://developer.microsoft.com/en-us/sharepoint/blogs/announcing-public-preview-of-sharepoint-framework-1-13-with-viva-connections-extensibility/).
@@ -102,7 +100,7 @@ directory to your project and execute:
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spfx project upgrade --preview --output md > report.md
 ```
  
@@ -113,12 +111,11 @@ Visual Studio Code CodeTour extension:
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spfx project upgrade --preview --output tour
 ```
  
  
-\
 For more information about upgrading SharePoint Framework projects, see
 the [CLI
 documentation](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade/).
@@ -130,7 +127,7 @@ list all the members of a SharePoint Group in a given site. To list all
 the members of a group, execute:
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo group user list --webUrl https://contoso.sharepoint.com/sites/SiteA --groupName "Contoso Site Members"
 ```
  
@@ -147,14 +144,14 @@ As part of our regular review of commands, we highlighted some commands
 that could be upgraded. The following commands have been upgraded as
 part of this release:
  
--   teams channel list
--   teams conversationmember list
--   teams conversationmember add
--   aad siteclassification disable
--   aad o365group teamify
+-   `teams channel list`
+-   `teams conversationmember list`
+-   `teams conversationmember add`
+-   `aad siteclassification disable`
+-   `aad o365group teamify`
  
 ## New Sample Scripts 
-\
+
 CLI for Microsoft 365 is a great tool both for quick adjustments to the
 configuration of your Microsoft 365 tenant as well as automating more
 complex tasks. Because CLI for Microsoft 365 is cross-platform you can
@@ -254,7 +251,7 @@ executing:
  
  
  
-``` {.lia-code-sample .language-sh}
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
  
@@ -268,7 +265,7 @@ Alternatively, you can get the latest release from Docker by executing:
  
  
  
-``` {.lia-code-sample .language-sh}
+```bash
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
  

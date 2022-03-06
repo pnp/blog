@@ -2,12 +2,13 @@
 title: "Getting started with graph API in SPFx webpart"
 date: 2021-06-03T03:59:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: []
 images:
 - images/blog/getting-started-with-graph-api-in-spfx-webpart/Permssions.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -123,7 +124,7 @@ endpoints. 
  
 **1**. In the **package-solution.json** file we will add permission.
  
-``` {.lia-code-sample .language-json}
+```json
 "webApiPermissionRequests": [
       {
         "resource": "Microsoft Graph",
@@ -134,7 +135,7 @@ endpoints. 
  
 2\. Move to the **IGraphApiDemoProps.ts** and update as below,
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { MSGraphClient } from "@microsoft/sp-http";
 export interface IGraphApiDemoProps {
   description: string;
@@ -146,7 +147,7 @@ export interface IGraphApiDemoProps {
 **src\\webparts\\graphApiDemo\\components** and create a state interface
 as below
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 export interface IGraphApiDemoState {
     messages: [{
         subject: string;
@@ -161,7 +162,7 @@ Create an OnInit() to initialize the Graph Configuration for the current
 context.
 In the render() set the graphClient property
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
 import { Version } from '@microsoft/sp-core-library';
@@ -232,7 +233,7 @@ export default class GraphApiDemoWebPart extends BaseClientSideWebPart<IGraphApi
 5\. Move to the **GraphApiDemo.tsx** and call API here and render the
 data.
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import styles from './GraphApiDemo.module.scss';
 import { IGraphApiDemoProps } from './IGraphApiDemoProps';

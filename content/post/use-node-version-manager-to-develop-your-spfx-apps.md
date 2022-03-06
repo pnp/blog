@@ -2,12 +2,11 @@
 title: "Use Node Version Manager to develop your SPFx apps"
 date: 2021-02-14T08:40:00-04:00
 author: "Toni Pohl"
+githubname: tonipohl
 categories: ["SharePoint", "Tooling"]
-images:
-
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -126,11 +125,11 @@ with npm.
 
 *npm install gulp yo
 [\@microsoft](/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint
-\--global*
+--global*
 
 
 {{< image alt="npm install" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p8.png" >}}
-## Create a new SPFx webpart 
+## Create a new SPFx web part 
 To create a new SPFx app, follow the steps described at [Build your
 first SharePoint client-side web part (Hello World part
 1)](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part").
@@ -154,7 +153,7 @@ here. Then, you can open the workbench with SSL.
 
 You can open Visual Studio Code now to modify the solution: *code .*
 
-## Run the SPFx webpart 
+## Run the SPFx web part 
 
 The generated solution includes the sample app that can now be modified.
 
@@ -167,13 +166,13 @@ When done, let´s open the default browser with the gulp webserver:
 
 This opens the SPFx workbench, in our sample at
 https://localhost:4321/temp/workbench.html. Here, you can add the
-webpart to the workbench page and test it.
+web part to the workbench page and test it.
 
 
-{{< image alt="Use the workbench to run the webpart" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p12.png" >}}
+{{< image alt="Use the workbench to run the web part" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p12.png" >}}
 
 **Tip:** When gulp serve is running, you can open your M365 tenant´s SPO
-site and use the custom webpart with the data from SharePoint, too:
+site and use the custom web part with the data from SharePoint, too:
 [https://\<tenant>.sharepoint.com/sites/\<sitename>/\_layouts/15/workbench.aspx](https://%3ctenant%3e.sharepoint.com/sites/%3Csitename%3E/_layouts/15/workbench.aspx)
 
 ## Deploy the SPFx solution 

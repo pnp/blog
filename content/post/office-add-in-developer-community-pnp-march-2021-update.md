@@ -2,11 +2,14 @@
 title: "Office Add-in Developer Community (PnP) -- March 2021 update"
 date: 2021-04-29T03:10:00-04:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
-images: []
+images:
+- images/blog/office-add-in-developer-community-pnp-march-2021-update/pnp-set-signature.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -2,26 +2,26 @@
 title: "10 things we should think about before we build an app"
 date: 2021-03-11T01:50:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Apps"]
-images: []
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 With Power Apps, we can rapidly build custom business applications that
 connect to our business data in a low code manner. This means that not
 only professional developers can develop applications but that a lot
 more people will be able to make apps that fit their specific use
-cases.\
+cases.
+
 But as development is not only writing code, there are certainly some
 things we should do before we hit make.powerapps.com. Many developers
 will agree that development is 20% about writing code and 80% about
-communications (meetings, gathering requirements, adjusting things).\
-\
+communications (meetings, gathering requirements, adjusting things).
+
 If we now introduce 'low code development', we work on these 20%, not
-on those 80%.\
+on those 80%.
+
 The issue with that is that the narrative of 'everyone should make
 apps' doesn't reflect that there is much content out there to teach
 business users how to use controls, components, connectors, and ask the
@@ -32,7 +32,8 @@ every app needs to be documented, maintained, and supported.
 Pro-developers are very aware of this, as DevOps is what they live and
 breathe every single day. But apart from IT departments, who will need
 to care about governance, application lifecycle management, etc., there
-are some things on the business user side that we should consider.\
+are some things on the business user side that we should consider.
+
 This post will list ten things that we should think about before we
 start building our apps
 
@@ -78,17 +79,17 @@ and also know what users are doing now:
 -   be busy with tasks that don't add value
 -   lose information
 -   cause additional costs
--   severe risks in terms of data security, governance, compliance etc.\
+-   severe risks in terms of data security, governance, compliance etc.
     
-    **tl;dr: it costs time &amp; money**
+    **tl;dr: it costs time & money**
 
 But we need to make an effort to calculate the higher costs in terms of
 money and time and make an estimation for the next 12 or 24 months in
-order. This will also help with any approval process/ get funding.\
+order. This will also help with any approval process/ get funding.
 If the app we have in mind doesn't create (enough) value, we can take
 this as a learning opportunity better to meet the needs of our
-(internal) customers.\
-\
+(internal) customers.
+
 The goal is to provide more value, not to deliver a poorly designed app
 that costs a little less. Of course, we can build apps 'for fun' or
 because we want to learn, or 'just because we can', but we should
@@ -124,8 +125,8 @@ additional licenses, but the idea that one could deliver excellent
 business value without any costs is somehow romanticized. Incorporate
 licensing fees for premium connectors (as you need them) in your
 calculation, and if the app still delivers more value than it costs, we
-will probably get approval/green lights for it.\
-\
+will probably get approval/green lights for it.
+
 If the app isn't worth more than \~10\$ per month and user, we should
 probably not be building it.
 
@@ -161,7 +162,6 @@ the capacity to cover that. And even if we are not talking about
 adjusting to things that changed: Who will support our app? Who will
 answer questions? Who will implement new features?
 
-\
 Delivery of software should contain code (and yes, this applies to Power
 Apps) and proper documentation. Sharing knowledge about our app (what we
 use, inputs, outputs, dependencies, licensing, data model,
@@ -237,6 +237,6 @@ Microsoft 365 license.
 As we could see, there are quite some things to do and think about
 before we hit make.powerapps.com and I put these together as an approach
 for good practices. What do you do before you actually start developing?
-What would you like to add to my list?\
-\
+What would you like to add to my list?
+
 Please comment below!

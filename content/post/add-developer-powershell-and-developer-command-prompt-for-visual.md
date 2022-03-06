@@ -2,13 +2,14 @@
 title: "Add Developer PowerShell and Developer Command Prompt for Visual Studio to Windows Terminal"
 date: 2021-03-29T01:29:00-04:00
 author: "Yannick Reekmans"
+githubname: YannickRe
 categories: ["Tooling"]
 images:
 - images/blog/add-developer-powershell-and-developer-command-prompt-for-visual/image.png
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -35,7 +36,7 @@ Inside that `lists` array, you can add your additional profiles. In this
 case, for the Visual Studio command prompts, just use the following
 snippet:
 
-``` {.lia-code-sample .language-json}
+```json
             {
                 "name": "Developer PowerShell for VS 2019",
                 "commandline": "powershell.exe -noe -c "&{$vsPath = &(Join-Path ${env:ProgramFiles(x86)} '\\Microsoft Visual Studio\\Installer\\vswhere.exe') -property installationpath; Import-Module (Join-Path $vsPath 'Common7\\Tools\\Microsoft.VisualStudio.DevShell.dll'); Enter-VsDevShell -VsInstallPath $vsPath -SkipAutomaticLocation}"",

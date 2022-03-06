@@ -2,12 +2,13 @@
 title: "CLI for Microsoft 365 v3.9"
 date: 2021-04-29T05:29:00-04:00
 author: "Garry Trinder"
+githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/cli-for-microsoft-365-v3-9/banner-cli-m365.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -126,7 +127,7 @@ site or web on which you want to execute the command. For example, to
 get information about a site collection located at
 https://contoso.sharepoint.com/sites/contoso, you'd execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo site get --url https://contoso.sharepoint.com/sites/contoso
 ```
 \
@@ -134,7 +135,7 @@ If you executed an *spo* command previously, CLI for Microsoft 365
 already knows the hostname of your SharePoint Online tenant. In such
 case, you can use a server-relative URL as well:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo site get --url /sites/contoso
 ```
 \
@@ -143,7 +144,7 @@ doesn't know of your SharePoint Online URL yet, you will see an error
 prompting you to either use an absolute URL or set the SPO URL using the
 *spo set* command:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo set --url https://contoso.sharepoint.com
 ```
 \
@@ -199,7 +200,7 @@ control who has access to what content and functionality.
 To add a role to the Azure AD application registration specified by its
 name, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad app role add --appName "My app" --name Managers --description "Managers" --allowedMembers usersGroups --claim managers
 ```
  
@@ -211,7 +212,7 @@ those tasks to team members.
  
 To add a new Microsoft Planner plan to a Microsoft 365 Group, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 planner plan add --title "My Planner Plan" --ownerGroupName "My Planner Group"
 ```
  
@@ -233,7 +234,7 @@ user**
  
 To return the user profile properties of specific user, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo userprofile get --userName 'john.doe@mytenant.onmicrosoft.com'
 ```
  
@@ -249,13 +250,13 @@ creation of this app package for you.
  
 To create the app package, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 viva connections app create --portalUrl https://contoso.sharepoint.com --appName Contoso --description "Contoso company app" --longDescription "Stay on top of what's happening at Contoso" --companyName Contoso --companyWebsiteUrl https://contoso.com --coloredIconPath icon-color.png --outlineIconPath icon-outline.png
 ```
  
  To upload the app package to your Microsoft Teams app catalog, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 teams app publish --filePath ./contoso.zip
 ```
 ##   

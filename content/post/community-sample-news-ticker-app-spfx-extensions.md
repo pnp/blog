@@ -2,12 +2,12 @@
 title: "Community Sample: News Ticker app (SPFx Extensions)"
 date: 2021-05-10T07:21:00-04:00
 author: "Ari Gunawan"
+githubname: AriGunawan
 categories: ["SharePoint"]
-images: []
+images:
+- images/blog/community-sample-news-ticker-app-spfx-extensions/react-application-news-ticker.gif
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 You might be familiar with the running text that shows some breaking
@@ -17,10 +17,10 @@ created the News Ticker app. Basically, the app will show some news from
 a SharePoint list as a running text at the top of every modern page on
 the site. Below is how it looks:
  
-{{< image alt="News Ticker" src="images/blog/community-sample-news-ticker-app-spfx-extensions/News Ticker.png" >}}
+{{< image alt="News Ticker" src="images/blog/community-sample-news-ticker-app-spfx-extensions/react-application-news-ticker.gif" >}}
  
 Below is the data source:
-{{< image alt="Data Source List" src="images/blog/community-sample-news-ticker-app-spfx-extensions/Data Source List.png" >}}
+{{< image alt="Data Source List" src="images/blog/community-sample-news-ticker-app-spfx-extensions/2021-05-10 19_32_40-Window.png" >}}
  
 You can find the full source code and how to install
 it [here](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-news-ticker).
@@ -35,9 +35,9 @@ easily add it manually.
 We just need to render our React component in the placeholder element
 provided by the SPFx Extension Application Customizer.
 You can find my implementation
-code [here](https://github.com/pnp/sp-dev-fx-extensions/blob/635f2cc96302b193ed9fbcfbc8789ffcca229748/samples/react-application-news-ticker/src/extensions/newsTicker/NewsTickerApplicationCustomizer.ts#L87 "Github link").
+code [here](https://github.com/pnp/sp-dev-fx-extensions/blob/635f2cc96302b193ed9fbcfbc8789ffcca229748/samples/react-application-news-ticker/src/extensions/newsTicker/NewsTickerApplicationCustomizer.ts#L87 "GitHub link").
  
-{{< image alt="Render React Component" src="images/blog/community-sample-news-ticker-app-spfx-extensions/Render React Component.png" >}}
+{{< image alt="Render React Component" src="images/blog/community-sample-news-ticker-app-spfx-extensions/1.png" >}}
  
 ### 2. Get data from SharePoint list based on View using PnP JS
 
@@ -67,7 +67,7 @@ It's easy to add any React third party components to our SPFx project.
 You can find my implementation code
 [here](https://github.com/pnp/sp-dev-fx-extensions/blob/main/samples/react-application-news-ticker/src/extensions/newsTicker/components/NewsTicker.tsx).
  
-{{< image alt="Use Third Party Component" src="images/blog/community-sample-news-ticker-app-spfx-extensions/Use Third Party Component.png" >}}
+{{< image alt="Use Third Party Component" src="images/blog/community-sample-news-ticker-app-spfx-extensions/2021-05-10 20_28_27-Window.png" >}}
 
 Thanks for reading. Hope you find this article
 useful

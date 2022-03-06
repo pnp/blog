@@ -2,12 +2,13 @@
 title: "SharePoint Framework Community Call Recording -- 22nd of April, 2021"
 date: 2021-04-23T02:30:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-recording-22nd-of-april-2021/210422-spfx.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -22,7 +23,7 @@ for **SharePoint** Online.
 
 Preview the new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
-Teams and Sharepoint engineering.  Download showcase apps, samples, and
+Teams and SharePoint engineering.  Download showcase apps, samples, and
 documentation.   Register now for April trainings on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).  Give us
 feedback, the [Microsoft 365 developer community

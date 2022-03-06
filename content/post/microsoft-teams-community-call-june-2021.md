@@ -2,12 +2,13 @@
 title: "Microsoft Teams Community Call - June 2021"
 date: 2021-06-17T04:44:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Teams community call recordings"]
 images:
 - images/blog/microsoft-teams-community-call-june-2021/teams-june-15th-recording.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 Recording of the Microsoft Teams monthly community call from June 15,
@@ -28,7 +29,7 @@ cadence.  Sign up for June trainings on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).   See the
 new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
-Teams and Sharepoint engineering.   Visit the [Microsoft Teams samples
+Teams and SharePoint engineering.   Visit the [Microsoft Teams samples
 gallery](https://aka.ms/teams-samples) to get started with Microsoft
 Teams development.  Build your Teams apps fast with yo teams -- go to
 [PnP Teams Quickstart](https://aka.ms/pnp-teams-quickstart).  Build 2021

@@ -4,7 +4,7 @@ date: 2020-03-15T15:40:24+06:00
 # post thumb
 images:
   - "images/blog/blog-10.jpg"
-  - "images/blog/blog-1.jpg"
+
 #author
 author: "John Doe"
 # description
@@ -13,7 +13,7 @@ description: "This is meta description"
 categories: ["demo","elements"]
 tags: ["demo","elements"]
 type: "regular" # available type (epic, trending, popular, or regular)
-draft: false
+
 ---
 
 #### Heading example
@@ -40,7 +40,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 Or leave it empty and use the [link text itself].
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+example.com (but not on GitHub, for example).
 Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.themefisher.com
 [1]: https://gethugothemes.com
@@ -144,5 +144,5 @@ Markdown | Less | Pretty
 ## Image
 {{< image alt="THIS IS AN IMAGE" src="images/blog/blog-3.jpg" >}}
 <hr>
-##### Youtube video
+##### YouTube video
 {{< youtube KFmA9W8i4X4 >}}

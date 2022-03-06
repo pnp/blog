@@ -2,12 +2,13 @@
 title: "Microsoft 365 Developer Community Call recording -- 28th of October, 2021"
 date: 2021-10-29T05:40:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-28th-of-october/recording-28th-oct.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -125,7 +126,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 **Together Mode!**
 {{< image alt="211028-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-28th-of-october/211028-together-mode.gif" >}}
 Are there ghosts or shadows occupying seats in this week's Together
-Mode photo?  Mention during call about people "beaming up/down" to the
+Mode photo?  Mention during call about people \"beaming up/down\" to the
 theater today?  
 **Demos** delivered in this session
 
@@ -295,7 +296,7 @@ slides.
     Service ](https://provisioning.sharepointpnp.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
-    Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
+    GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast

@@ -2,12 +2,13 @@
 title: "Hiding the SharePoint page title with Power Automate"
 date: 2021-09-14T06:30:00-04:00
 author: "Michel Mendes"
+githubname: michelcarlo
 categories: ["SharePoint", "Power Automate"]
 images:
 - images/blog/hiding-the-sharepoint-page-title-with-power-automate/page-title.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -66,7 +67,7 @@ Use the **Parse JSON** action with the schema below to facilitate
 accessing the properties:
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "type": "object",
     "properties": {       
@@ -116,7 +117,7 @@ by clicking the button added to this column with the JSON formatter, the
 same flow will be called as if it was triggered from the Automate menu.
  
 
-``` {.lia-code-sample .language-json}
+```json
   "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
   "elmType": "button",
   "customRowAction": {
@@ -161,7 +162,7 @@ If you run the flow from a library where it was called using only the
 formatter, the values will be parsed correctly from the trigger and the
 flow will be executed successfully, as the JSON format button sends data
 related to the currently selected file and we run the rest of the flow
-dynamically based on the values sent by the trigger.\
+dynamically based on the values sent by the trigger.
 \
 This sample flow is available on the Microsoft 365 PnP Power Automate
 Samples

@@ -2,12 +2,13 @@
 title: "SharePoint Framework Community Call -- 20th of May, 2021"
 date: 2021-05-21T02:44:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-20th-of-may-2021/210520-together-mode.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -22,7 +23,7 @@ for **SharePoint** Online.
 
 Preview the new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
-Teams and Sharepoint engineering.   Register now for May/June trainings
+Teams and SharePoint engineering.   Register now for May/June trainings
 on [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).  View
 the [Microsoft Build sessions
 guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital

@@ -1,13 +1,13 @@
 ---
 title: "Creating a video portal in SharePoint with JSON formatted document library"
 date: 2021-12-03T02:18:00-05:00
-author: ""
+author: "Anand Vragav"
 categories: ["SharePoint"]
 images:
 - images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_1-1638227104052.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -73,7 +73,7 @@ To achieve this formatting, the view needs to be formatted using JSON.
  
 The complete JSON is provided below.
  
-``` {.lia-code-sample .language-json}
+```json
 {
   "schema": "https://developer.microsoft.com/json-schemas/sp/view-formatting.schema.json",
   "height": 400,

@@ -2,12 +2,13 @@
 title: "Using Power Automate And Graph API To Manage External Access To Teams"
 date: 2021-05-06T08:40:00-04:00
 author: "Carl Cookson"
+githubname: LinkeD365
 categories: ["Power Automate", "Microsoft Teams", "Microsoft Graph"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -62,7 +63,7 @@ without using Power Automate or configuring a connector. It really
 should be the starting point for any Graph Customer Connector.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_0-1620296690001.png" >}}
 
 
 If things go wrong, it is usually around the permissions. Within the
@@ -72,12 +73,12 @@ permissions of your App registration to allow your connector the same
 access.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_1-1620296689997.png" >}}
 
 Select New client secret give it a name & expiry date and select Save.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_3-1620296726932.png" >}}
 
 Ensure you copy the Value here, you will only be able to see this for a
 short while, if you navigate away it will be gone. Not a big deal, just
@@ -87,13 +88,13 @@ by inference, the caller using the client secret/application id.
 Select the Add a permission button.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_4-1620296727532.png" >}}
 
 This presents a choice of which API to expose. The first on the list is
 Microsoft Graph, the one we want.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_5-1620296727260.png" >}}
 
 Select Delegated Permissions (Custom connectors doesn't support
 Application permissions yet, will run in the context of the person who
@@ -105,7 +106,7 @@ permission you want, listed here.
 -   User.ReadWrite.All
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_6-1620296727107.png" >}}
 
 Select Add Permissions to return you to the Configured permissions
 screen, then select Grant Admin consent button. This shortcuts and
@@ -123,13 +124,13 @@ import from various sources, but we want to create from blank, give it a
 name then fill out the next page.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_7-1620296727214.png" >}}
 
 On the next screen, there are four tabs, which we need to step through.
 First the General Tab.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_8-1620296727082.png" >}}
 
 Other stuff is nice to have and you *should *document your work. Ensure
 Scheme is HTTPS and Host/Base URL are populated.
@@ -141,7 +142,7 @@ Select the Security Tab next, Authentication type is OAuth 2.0. You
 should be presented with the below screen.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_9-1620296727183.png" >}}
 
 Now, this is where we need to use the values you saved (you did save
 them?) when you were registering your app
@@ -153,14 +154,14 @@ URL will be populated for you. The Resource URL value should be
 the Redirect URL, created when you create the connector to put back into
 your App registration to complete the security process.
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_10-1620296727075.png" >}}
 
 I *think* that this is now standard, but just in case, copy the Redirect
 URL and go back to your App Registration in Azure AD. Click on the link
 highlighted.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_11-1620296727170.png" >}}
 
 Select Add a platform then chose Web. Enter the Redirect URL from the
 Custom Connector. Now we are ready to define the actions for our
@@ -177,7 +178,7 @@ to be unique and is what appears within Power Automate when you select
 it.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_12-1620296727067.png" >}}
 
 I usually use the same for each, but be creative and descriptive. Select
 Import from sample then use the url below as the URL and select Get as
@@ -185,7 +186,7 @@ the Verb.
 URL -- <https://graph.microsoft.com/v1.0/groups/%7BteamId%7D/owners>
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_13-1620296727114.png" >}}
 
 By placing teamid in curly brackets { } you denote to the custom
 connector you want to use a parameter in that URL. You can call
@@ -196,7 +197,7 @@ Select Import. You are returned to the definition screen, where we can
 see that the request has been populated for us.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_14-1620296727100.png" >}}
 
 We are ready to test our Get Owners now. Update the connector once more
 then head over to the Test tab. You will have to create a connection if
@@ -207,7 +208,7 @@ and if everything is working you will get a 200 response with some JSON
 in a body showing you all the information about the owners.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_15-1620296727218.png" >}}
 
 To just define the others
 
@@ -221,7 +222,7 @@ Verb: Put, URL: <https://graph.microsoft.com/v1.0/invitations>, Body is
 below, as you need to define a new invite, with the required parameters.
 The data doesn't matter, just the parameters that you need to pass.
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "invitedUserEmailAddress": "emailaddress",
     "inviteRedirectUrl": "https://myapp.contoso.com",
@@ -240,7 +241,7 @@ name, the email address and a choice field to define which team the user
 wants access to.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_16-1620296727638.png" >}}
 
 The teams list will have to be maintained to those that you want the
 public to be able to request access to.
@@ -252,29 +253,29 @@ This Flow is triggered by a new response being submitted against the
 Form defined above. Next, get the response details.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_17-1620296727108.png" >}}
 
 Next, retrieve all the Teams in your environment. This will return a
 JSON object which defines an array of Team definitions. We need to
 filter that to the one the user selected so that we can get the team id.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_18-1620296726929.png" >}}
 To do this, I use the Filter Array action, pass in the output from the
 List Teams and ensure we select where team Name is equal to the team
 selected (the Which Team? field in my case).
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_19-1620296726827.png" >}}
 
 Next, is a compose statement. I do that just to simplify the way the
 flow works, as the return of filter array is an array, and I just want
 the first one.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_20-1620296726837.png" >}}
 
-``` {.lia-code-sample .language-json}
+```json
 body('Filter_array')[0]?['id']
 ```
 
@@ -283,18 +284,18 @@ retrieved. This is the first time using the Custom Connector, it is
 available under the Custom Tab.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_21-1620296726920.png" >}}
 
 Selecting the connector will show the actions or triggers available.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_22-1620296726951.png" >}}
 
 The parameters are those that were defined in the Custom connector,
 passing in the output from the compose above.
 
  
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_23-1620296726812.png" >}}
 
 Now, the response back from Get Owners is a JSON object, so next, Parse
 the JSON so there is a list of JSON objects for the flow to use. All
@@ -305,13 +306,13 @@ return the email address from the JSON object, then join the output to
 that with a semi colon.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_24-1620296727149.png" >}}
 
 Next, start an approval. This is populated to let the owner know who has
 asked for access to the team and which team.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_25-1620296726984.png" >}}
 
 Check whether the response is positive. If this was for production, I
 would probably send an email to the requesting user to let them know
@@ -319,24 +320,24 @@ that they were denied access. You could also use the response written in
 the rejection.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_26-1620296726933.png" >}}
 In the Yes path, call the Custom connector again to check if the user is
 already a part of your organisation as a guest user. As the parameter is
 expecting a query, use the expression below
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_27-1620296726901.png" >}}
 
 mail eq 'Email Parameter from the Form response'
 
-``` {.lia-code-sample .language-json}
+```json
 mail eq 'Email Parameter from the Form response'
 ```
 Next, check the length of the returned object from the custom connector.
 This basically checks if the user already belongs to your environment.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_28-1620296726899.png" >}}
 
 ``` wp-block-code
 length(outputs('GetUser')?['body/value'])
@@ -345,28 +346,28 @@ If there is a value in the return, use the return to invite the user to
 the team.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_29-1620296726913.png" >}}
 
 The User id is returned by using the expression below
 
-``` {.lia-code-sample .language-json}
+```json
 body('GetUser')?['value'][0]?['id']
 ```
 On the negative side, firstly invite the user to your organisation by
 using the final action of the custom connector.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_30-1620296727013.png" >}}
 
 And finally, use the response from your custom connector, the invited
 user to the team.
 
 
-{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/.png" >}}
+{{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_31-1620296727008.png" >}}
 
 That's it! There is a lot of configuration here, but you can see how
 you can extend your usage of Power Automate to automate a function
-usually confined to manual work by the team owner.\
+usually confined to manual work by the team owner.
 \
 This post was originally published on
 [LinkeD365.blog](https://linked365.blog/2021/05/06/using-power-automate-and-graph-api-to-manage-external-access-to-teams/)

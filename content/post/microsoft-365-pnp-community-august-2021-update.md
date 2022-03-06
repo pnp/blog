@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Community -- August 2021 update"
 date: 2021-08-25T02:13:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform community update"]
 images:
 - images/blog/microsoft-365-pnp-community-august-2021-update/pnp-aug-2021-release.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -623,7 +624,6 @@ detailed.
     with articles ideas
 
 ### SharePoint Framework development samples 
-
 {{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/spfx-gallery.png" >}}
 
 These are the updated SharePoint Framework samples which are available

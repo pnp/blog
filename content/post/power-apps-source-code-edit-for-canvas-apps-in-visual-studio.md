@@ -2,12 +2,13 @@
 title: "Power Apps: source code edit for Canvas Apps in Visual Studio Code"
 date: 2021-04-28T08:40:00-04:00
 author: "Django Lohn"
+githubname: m3ngi3
 categories: ["Power Apps", "Tooling"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -47,7 +48,7 @@ Marketplace](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvEx
 
 2\) After installing the extension a computer restart may be required.
 We can from this moment on, run commands from within Visual Studio using
-the built-in Terminal.\
+the built-in Terminal.
 In my example I saved the text file with commands as a Power Shell file
 (.ps1). In this type of files, short cuts like F8 can be used to run
 selected commands:
@@ -60,7 +61,7 @@ is much easier now!
 {{< image alt="PowerApps_VisualStudio_PowerPlatform_Extension_run_command_result" src="images/blog/power-apps-source-code-edit-for-canvas-apps-in-visual-studio/PowerApps_VisualStudio_PowerPlatform_Extension_run_command_result.png" >}}
 
 In the Marketplace screenshot above, you can see that the extension is
-in Preview at the moment.\
+in Preview at the moment.
 Please be aware of this and read the announcement link above on how to
 report issues.
 Originally published at [Power Apps: source code edit for Canvas Apps in

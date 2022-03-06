@@ -2,12 +2,13 @@
 title: "How to get Source Code files for Power Apps Canvas apps"
 date: 2021-04-29T03:07:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Tooling", "Power Apps"]
 images:
 - images/blog/how-to-get-source-code-files-for-power-apps-canvas-apps/PASopa-folder.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -49,7 +50,7 @@ To be able to use the Power Apps Language Toolkit, you will need to
 -   select **Run anyway**
 
 Please note, that command Prompt will open, show a few lines and then
-close automatically again.\
+close automatically again.
 Please also not, that you can now find a **bin** folder in the local
 folder you extracted the PowerApps Language Toolkit to. In this
 **bin** folder, you will find a **Debug** folder and inside of the

@@ -2,12 +2,13 @@
 title: "Use CLI for Microsoft 365 to recognize contributions"
 date: 2021-05-14T08:40:00-04:00
 author: "Albert-Jan Schot"
+githubname: appieschot
 categories: ["CLI for Microsoft 365"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -36,7 +37,7 @@ are different report types available depending on the type of data you
 require. 
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo report activityuserdetail
 m365 teams report activeuserdetail 
 ```
@@ -53,7 +54,7 @@ In our case we want to post the weekly progress and thus retrieve a
 weeks worth of data. And since we are going to work with the data the
 output is going to be JSON. Resulting in the following snippet: 
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 teams report useractivityuserdetail --period D7 --output json
 ```
 
@@ -81,8 +82,8 @@ return the *User Principal Name*. We can even specify that we care only
 about the top 3 users. So the full query would look as follows. 
  
 
-``` {.lia-code-sample .language-bash}
-m365 teams report useractivityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &"Team Chat Message Count")) | [0:3]."User Principal Name"'
+```bash
+m365 teams report useractivityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Team Chat Message Count\")) | [0:3].\"User Principal Name\"'
 ```
  
 
@@ -94,9 +95,9 @@ services like Yammer offer a *Posted Count, Read Count* and Liked
 *Count. *
  
 
-``` {.lia-code-sample .language-bash}
-m365 spo report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &"Viewed Or Edited File Count")) | [0:3]."User Principal Name"'
-m365 yammer report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &"Posted Count")) | [0:3]."User Principal Name"'
+```bash
+m365 spo report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Viewed Or Edited File Count\")) | [0:3].\"User Principal Name\"'
+m365 yammer report activityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &\"Posted Count\")) | [0:3].\"User Principal Name\"'
 ```
  
 
@@ -122,7 +123,7 @@ JSON of the card, add our users to it and post the card to Teams. Make
 sure to add some emojis to the Adaptive card to make it look pretty 🦾
 or tweak it to your own liking. 
  
-``` {.lia-code-sample .language-bash}
+```bash
 $m365Status = m365 status
 
 if ($m365Status -eq "Logged Out") {
@@ -153,7 +154,7 @@ or Yammer. Or who is working a lot on OneDrive or Exchange if you like. 
 
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 # Send top 3 for Teams based on chat messages
 $activityUsers = m365 teams report useractivityuserdetail --period D7 --output json --query 'reverse(sort_by(@, &"Team Chat Message Count")) | [0:3]."User Principal Name"' | ConvertFrom-Json
 $title = " Teams Weekly Social Champions "

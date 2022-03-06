@@ -2,12 +2,13 @@
 title: "Microsoft 365 Developer Community Call recording -- 20th of January, 2021"
 date: 2022-01-21T01:14:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

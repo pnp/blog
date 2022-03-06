@@ -2,12 +2,13 @@
 title: "How to get any site collection users with their roles using PnP PowerShell?"
 date: 2021-04-12T12:48:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["PNP PowerShell", "SharePoint"]
 images:
 - images/blog/how-to-get-any-site-collection-users-with-their-roles-using-pnp/UserRolesOP.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -15,13 +16,13 @@ draft: false
 
 Sometimes we have a requirement to get reports of users and their roles
 on the SharePoint site and we have to export to CSV/Excel format. To
-achieve this solution we will use **PnP Powershell**. 
+achieve this solution we will use **PnP PowerShell**. 
 Let's see step-by-step implementation:
  
 
 ## Implementation 
 
--   Open **Windows Powershell ISE**
+-   Open **Windows PowerShell ISE**
 -   Create a new file and write a script
 Now we will see all the steps which we required to achieve the solution:
 1.  We will read the site URL from the user
@@ -35,8 +36,8 @@ array
 4\. And we will export the array to CSV format
 So in the end, our script will be like this,
  
-``` {.lia-code-sample .language-powershell}
-$basePath = "E:\Chandani\Blogs\UserRolesPS"
+```powershell
+$basePath = "E:\Chandani\Blogs\UserRolesPS\"
 $dateTime = "{0:MM_dd_yy}_{0:HH_mm_ss}" -f (Get-Date)
 $csvPath = $basePath + "\userdetails" + $dateTime + ".csv"
 $adminSiteURL = "https://*****-admin.sharepoint.com/" #O365 admin site URL

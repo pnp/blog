@@ -13,7 +13,7 @@ description: "This is meta description"
 categories: ["demo","elements"]
 tags: ["demo","elements"]
 type: "regular" # available type (epic, trending, popular, or regular)
-draft: false
+
 ---
 
 
@@ -57,7 +57,7 @@ Or leave it empty and use the [link text itself].
 
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+example.com (but not on GitHub, for example).
 
 Some text to show that the reference links can follow later.
 
@@ -212,6 +212,6 @@ Markdown | Less | Pretty
 
 <hr>
 
-##### Youtube video
+##### YouTube video
 
 {{< youtube KFmA9W8i4X4 >}}

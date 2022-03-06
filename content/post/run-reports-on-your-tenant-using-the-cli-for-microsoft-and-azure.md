@@ -2,12 +2,13 @@
 title: "Run reports on your tenant using the CLI for Microsoft and Azure Container Instances"
 date: 2021-06-15T01:50:00-04:00
 author: "Albert-Jan Schot"
+githubname: appieschot
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -25,7 +26,7 @@ but we will start simple by reporting all deleted Office 365 Groups
 CLI for Microsoft 365 would be just a single line:  
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad o365group recyclebinitem list
 ```
  
@@ -69,7 +70,7 @@ use the CLI for Microsoft 365 to easily hand out the permissions you
 need with the following snippet: 
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad approleassignment add --displayName "ma-cli-test" --resource "Microsoft Graph" --scope "Sites.Read.All"
 m365 aad approleassignment add --displayName "ma-cli-test" --resource "Office 365 SharePoint Online" --scope "Sites.Manage.All"
 m365 aad approleassignment add --displayName "ma-cli-test" --resource "Microsoft Graph" --scope "Group.Read.All" 

@@ -1,13 +1,14 @@
 ---
 title: "Excel Scripts and Cloud Flows - Data Manipulation"
 date: 2021-05-17T12:50:00-04:00
-author: "Damo Bird 365"
+author: "Damien Bird"
+githubname: DamoBird365
 categories: ["Power Automate"]
 images:
 - images/blog/excel-scripts-and-cloud-flows-data-manipulation/Capture.PNG
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -57,7 +58,7 @@ data based on the 4 variable types defined, examplevar1-4 as strings,
 numbers, multivariables and arrays.
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 function main(workbook: ExcelScript.Workbook,
   examplevar1: string,
   examplevar2: number,
@@ -144,7 +145,7 @@ this together.  The recording tool is also useful for getting an
 understanding of some of the functions available.
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 function main(workbook: ExcelScript.Workbook) {
   // Get the first worksheet 
   const selectedSheet = workbook.getFirstWorksheet();

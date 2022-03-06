@@ -2,13 +2,13 @@
 title: "Flexible and powerful logging using PnP Logging in SPFx"
 date: 2021-08-17T05:15:00-04:00
 author: "Sudharsan Kesavanarayanan"
+githubname: sudharsank
 categories: []
-images: []
 tags: []
 type: "regular"
-draft: false
 
----# Flexible and powerful logging using PnP Logging in spfx
+
+---
 
 ## Introduction
 Logging plays an important role in any application. Whether it is a
@@ -54,30 +54,30 @@ part. Navigate to that folder and run the below command
  
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 yo /sharepoint
 ```
  
  
  
 The generator will ask you a couple of questions,
--   Enter the webpart name as your solution name, and then select Enter.
+-   Enter the web part name as your solution name, and then select Enter.
 -   Select Create a subfolder with the solution name for where to place
     the files.
 -   Select **Y** to allow the solution to be deployed to all sites
     immediately.
 -   Select **N** on the question if the solution contains unique
     permissions.
--   Enter the webpart name.
--   Enter the webpart description.
+-   Enter the web part name.
+-   Enter the web part description.
 -   Choose the framework as '**React**'.
 Once the project is created, install the required **pnp** modules from
-npm using the below command. I had created a webpart with the
+npm using the below command. I had created a web part with the
 name **PnPLogging**.
  
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 npm i @pnp/sp @pnp/odata @pnp/logging --save-exact
 ```
  
@@ -90,7 +90,7 @@ line.
  
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 cd \web part folder\
 code .
 ```
@@ -109,7 +109,7 @@ Copy-paste the below code in the **CustomLogger.ts** file.
  
  
  
-``` {.lia-code-sample .language-csharp}
+```csharp
 import { LogLevel, ILogListener, ILogEntry } from "@pnp/logging";
 import { sp } from "@pnp/sp";
 import { IWeb, Web } from '@pnp/sp/webs';
@@ -235,7 +235,7 @@ Copy-paste the below code in the **Util.ts** file
  
  
  
-``` {.lia-code-sample .language-csharp}
+```csharp
 import { LogLevel, ILogEntry, Logger } from '@pnp/logging';
 import { ILogData } from './CustomLogger';
  
@@ -263,7 +263,7 @@ imports
  
  
  
-``` {.lia-code-sample .language-csharp}
+```csharp
 import CustomLogger from './components/common/CustomLogger';
 import { sp } from "@pnp/sp";
 import { Logger, LogLevel, FunctionListener, ILogEntry } from "@pnp/logging";
@@ -276,7 +276,7 @@ code.
  
  
  
-``` {.lia-code-sample .language-csharp}
+```csharp
 public onInit(): Promise<void> {        
         return super.onInit().then(_ => {
             sp.setup(this.context);
@@ -323,7 +323,7 @@ Navigate to the \<webpart>.tsx and copy-paste the below code
  
  
  
-``` {.lia-code-sample .language-csharp}
+```csharp
 import * as React from 'react';
 import styles from './PnPLogging.module.scss';
 import { IPnPLoggingProps } from './IPnPLoggingProps';

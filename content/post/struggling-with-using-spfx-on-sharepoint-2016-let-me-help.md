@@ -2,11 +2,11 @@
 title: "Struggling with using SPFx on SharePoint 2016? Let me help!"
 date: 2021-07-02T03:20:00-04:00
 author: "Kirk Liemohn"
-categories: [ "Sharepoint"]
+categories: [ "SharePoint"]
 images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -118,9 +118,9 @@ On-premise](https://support.shortpoint.com/support/solutions/articles/1000272505
 There may be better articles out there.  Two key parts of this that
 helped me were:
 
--   If you don't see "Manage Patch Status", look for "Check
-    Production and Patch Installation Status".
--   For "Microsoft SharePoint Foundation 2016 Core", you are looking
+-   If you don't see \"Manage Patch Status\", look for \"Check
+    Production and Patch Installation Status\".
+-   For \"Microsoft SharePoint Foundation 2016 Core\", you are looking
     to see if there is an item with a version number \>= 16.0.4744.1000
     with a status of Installed.  If not, you'll need to install Feature
     Pack 2 as the link above describes.
@@ -134,14 +134,14 @@ versions of node.  A great way to do that is with
 After installing nvm-windows, you need to install and use node version
 8.17.0: 
  
-``` {.lia-code-sample .language-bash}
+```bash
 nvm install 8.17.0
 nvm use 8.17.0
 ```
  
 Then you can check the active version of node with: 
  
-``` {.lia-code-sample .language-bash}
+```bash
 nvm list
 ```
  
@@ -150,7 +150,7 @@ you can get version 8.17.0 from here: [Index of /dist/latest-v8.x/
 (nodejs.org)](https://nodejs.org/dist/latest-v8.x/).  If you have
 installed node directly, you can check the version using: 
  
-``` {.lia-code-sample .language-bash}
+```bash
 node -v
 ```
  
@@ -161,7 +161,7 @@ npm.  I did this with: 
  
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 npm -v
 npm list g --depth 0
 ```
@@ -172,7 +172,7 @@ Both v3.10.10 and v6.13.4 of npm worked for me.
 Then I installed a specific version of gulp, yeoman generator, and
 generator-sharepoint: 
  
-``` {.lia-code-sample .language-bash}
+```bash
 npm install -g gulp@3.9.1
 npm install -g yo@1.8.5
 npm install -g @microsoft/generator-sharepoint@1.9.1
@@ -201,7 +201,7 @@ so a change to one web part does not require all to be re-deployed.  The
 latter allows the web parts to have shared components.  You generate the
 project with:
  
-``` {.lia-code-sample .language-bash}
+```bash
 yo @microsoft/sharepoint
 ```
  
@@ -225,7 +225,7 @@ stuck in version 8 of node, we need to [Run gulp serve with
 'NODE_NO_HTTP2=1' when using SPFx on node
 v8](https://github.com/SharePoint/sp-dev-docs/issues/1002):
  
-``` {.lia-code-sample .language-bash}
+```bash
 set NODE_NO_HTTP2=1 && gulp serve
 ```
  
@@ -243,7 +243,7 @@ the **solution** **name** to be a friendlier name.  You can use spaces
 instead of dashes and feel free to capitalize the first letter of each
 word.  You can't use a period in the solution name, however.
  
-``` {.lia-code-sample .language-json}
+```json
 {
     "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
     "solution": {
@@ -266,7 +266,7 @@ src\\webparts\\\<web-part-name>\\\<web-part-name>WebPart.manifest.json. 
 Change "Other" to any name you like.  You don't need to change the
 groupId.
  
-``` {.lia-code-sample .language-bash}
+```bash
 "preconfiguredEntries": [
     {
         "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
@@ -278,7 +278,7 @@ groupId.
 If your dev environment has access to the SharePoint 2016 server, you
 can use the following steps:
 
--   ``` {.lia-code-sample .language-bash}
+-   ```bash
     gulp bundle
     gulp package-solution
     ```
@@ -302,7 +302,7 @@ can use the following steps:
     your app.  Go to Site Contents \> add an app.  Pick the name of your
     solution and wat for it to be enabled (no longer grayed out).
 
--   ``` {.lia-code-sample .language-bash}
+-   ```bash
     set NODE_NO_HTTP2=1 && gulp serve --nobrowser
     ```
 
@@ -332,7 +332,7 @@ add that and do a small test that uses it:
 
 -   Kill the "gulp serve" in your terminal window (CTRL-C)
 
--   ``` {.lia-code-sample .language-bash}
+-   ```bash
     npm install office-ui-fabric-rect@2.34.2​
     ```
 
@@ -350,15 +350,15 @@ add that and do a small test that uses it:
     src\\webparts\\\<web-part-name>\\components\\\<web-part-name>.tsx as
     follows:
     -   Add near the top of the file:
-        -   ``` {.lia-code-sample .language-javascript}
+        -   ```javascript
             import { TextField } from 'office-ui-fabric-react';
             ```
     -   Add just inside the innermost div (maybe before the anchor tag):
-        -   ``` {.lia-code-sample .language-javascript}
+        -   ```javascript
             <TextField label='Test Office UI Fabric React' />
             ```
     -   Test the updates:
-        -   ``` {.lia-code-sample .language-bash}
+        -   ```bash
             set NODE_NO_HTTP2=1 && gulp serve --nobrowser
             ```
 
@@ -369,14 +369,14 @@ add that and do a small test that uses it:
         -   Update config\\package-solution.json and increment the
             version (to 1.0.0.1)
 
-        -   ``` {.lia-code-sample .language-bash}
+        -   ```bash
             gulp bundle
             gulp package-solution
             ```
 
         -   Upload your sppkg file into your App Catalog and deploy it
 
-        -   ``` {.lia-code-sample .language-bash}
+        -   ```bash
             set NODE_NO_HTTP2=1 && gulp serve --nobrowser
             ```
 
@@ -414,7 +414,7 @@ using SharePoint, that may be the best option for you.
     -   Open config\\write-manifest.json and update the cdnBasePath to
         point to the folder you created.  For example: 
 
-        ``` {.lia-code-sample .language-json}
+        ```json
         {
           "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/write-manifests.schema.json",
           "cdnBasePath": "https://sp2016.mycorp.com/sites/somesite/SiteAssets/helloworld-webpart-assets"
@@ -438,7 +438,7 @@ using SharePoint, that may be the best option for you.
         point to the container (or Azure CDN) you created.  For
         example: 
 
-        ``` {.lia-code-sample .language-json}
+        ```json
         {
           "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/write-manifests.schema.json",
           "cdnBasePath": "https://mytestcdn.azureedge.net/helloworld-webpart-assets"
@@ -452,14 +452,14 @@ SharePoint and not localhost:
 -   Update config\\package-solution.json to increment your version
     number
 
--   ``` {.lia-code-sample .language-bash}
+-   ```bash
     gulp bundle --ship
     ```
 
 -   Copy temp\\deploy folder contents to the appropriate location
     configured above
 
--   ``` {.lia-code-sample .language-bash}
+-   ```bash
     gulp package-solution --ship
     ```
 
@@ -484,7 +484,7 @@ deploy to SharePoint:
 
 -   Delete all files in your temp\\deploy folder
 
--   ``` {.lia-code-sample .language-bash}
+-   ```bash
     gulp bundle --ship
     ```
 
@@ -493,7 +493,7 @@ deploy to SharePoint:
 -   Copy temp\\deploy folder contents to the appropriate location
     (SharePoint library or Azure blob container)
 
--   ``` {.lia-code-sample .language-bash}
+-   ```bash
     gulp package-solution --ship
     ```
 
@@ -512,7 +512,7 @@ is as simple as:
 
 -   Make sure you are still running: 
 
-    ``` {.lia-code-sample .language-bash}
+    ```bash
     set NODE_NO_HTTP2=1 && gulp serve --nobrowser​
     ```
 
@@ -525,14 +525,14 @@ instead:
 
 -   increment your version number in package-solution.json
 
--   ``` {.lia-code-sample .language-bash}
+-   ```bash
     gulp bundle
     gulp package-solution
     ```
 
 -   Upload your sppkg file to the App Catalog
 
--   ``` {.lia-code-sample .language-bash}
+-   ```bash
     set NODE_NO_HTTP2=1 && gulp serve --nobrowser
     ```
 
@@ -558,7 +558,7 @@ for changes every time you checkin changes.
 If you look at your package.json file, the dependencies section, might
 look like this:
  
-``` {.lia-code-sample .language-json}
+```json
 "dependencies": {
     "@microsoft/sp-core-library": "~1.1.0",
     "@microsoft/sp-lodash-subset": "~1.1.0",
@@ -636,7 +636,7 @@ my project.  Its contents are the following.  The trailingComma and
 singleQuote values are important to minimize prettier and TSLint from
 fighting each other.
  
-``` {.lia-code-sample .language-json}
+```json
 module.exports = {
     trailingComma: 'es5',
     tabWidth: 4,
@@ -653,15 +653,15 @@ enact several rules within my code including:
 -   Immediately before I exported something where the filename had more
     than one period in it: 
 
-    ``` {.lia-code-sample .language-javascript}
+    ```javascript
     /* tslint:disable-next-line:export-name */​
     ```
 
--   Immediately before I used the type "any" for a variable.  This
+-   Immediately before I used the type \"any\" for a variable.  This
     seemed necessary when I couldn't find a type that PnP was using
     (maybe I didn't look hard enough): 
 
-    ``` {.lia-code-sample .language-javascript}
+    ```javascript
     /* tslint:disable-next-line:no-any */​
     ```
 
@@ -669,7 +669,7 @@ enact several rules within my code including:
     length (I think it is 120, but my configuration is ignored, so I am
     not sure what it is): 
 
-    ``` {.lia-code-sample .language-javascript}
+    ```javascript
     /* tslint:disable-next-line:max-line-length */​
     ```
 
@@ -677,7 +677,7 @@ enact several rules within my code including:
     function with a semicolon, but TSLint complained, so I put it right
     before the closing of the arrow function: 
 
-    ``` {.lia-code-sample .language-javascript}
+    ```javascript
     /* tslint:disable-next-line:semicolon */​
     ```
 

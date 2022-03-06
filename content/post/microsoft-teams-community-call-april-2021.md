@@ -2,12 +2,13 @@
 title: "Microsoft Teams Community Call - April 2021"
 date: 2021-04-22T12:35:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Teams community call recordings"]
 images:
 - images/blog/microsoft-teams-community-call-april-2021/teams-monthly-20th-april-recording.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -23,7 +24,7 @@ Visit the [Microsoft Teams samples
 gallery](https://aka.ms/teams-samples) to get started with Microsoft
 Teams development, hear and see the new [Microsoft 365 Extensibility
 look book gallery](https://aka.ms/m365/extensibility) co-developed by
-Microsoft Teams and Sharepoint engineering.  Quick demo of the
+Microsoft Teams and SharePoint engineering.  Quick demo of the
 Extensibility look book at [Microsoft Adoption
 site](https://adoption.microsoft.com) \>\> Solutions>\>Extensibility
 look book.  Select a Product, Type of app or Scenario.  To see the

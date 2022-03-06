@@ -2,12 +2,13 @@
 title: "Display images in Adaptive Cards"
 date: 2021-12-11T03:47:00-05:00
 author: "Tomasz Poszytek"
+githubname: tposzytek
 categories: ["Adaptive Cards"]
 images:
 - images/blog/display-images-in-adaptive-cards/image-5.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

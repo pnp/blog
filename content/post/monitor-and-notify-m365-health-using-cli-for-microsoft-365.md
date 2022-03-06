@@ -2,12 +2,13 @@
 title: "Monitor and Notify M365 health using CLI for Microsoft 365"
 date: 2021-11-24T05:38:00-05:00
 author: "Arjun Menon"
+githubname: arjunumenon
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_0-1637745741073.jpeg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -313,7 +314,7 @@ Script](https://arjunumenon.com/tenant-status-solution-m365cli/#simple-script---
 Rather than using PowerShell piping, we are using conventional For-Each
 so that script is easily readable.
  
-``` {.lia-code-sample .language-bash}
+```bash
 #Check the Login Status
 $LoginStatus = m365 status
 
@@ -357,7 +358,7 @@ can view [easily understandable
 script](https://arjunumenon.com/tenant-status-solution-m365cli/#complete-script---easily-understandable).
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 $webURL = "https://contoso.sharepoint.com/sites/M365HealthStatus"
 $listName = "O365 Health Status"
 $workLoads = m365 tenant status list --query "value[?Status != 'ServiceOperational']"  --output json  | ConvertFrom-Json

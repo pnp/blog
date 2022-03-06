@@ -2,6 +2,7 @@
 title: "Learn to debug your Power Apps"
 date: 2021-04-25T08:40:00-04:00
 author: "Michael Roth"
+githubname: MichaelRoth42
 categories: ["Power Apps"]
 images:
 - images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png
@@ -57,7 +58,7 @@ mess with the progress you've made so far.
 A duplicated screen is like an additional save game slot, just to make
 sure. If you break everything, you can always go back.  
 
-{{< image alt="" src="images/blog/learn-to-debug-your-power-apps/.png" >}} 
+{{< image alt="" src="images/blog/learn-to-debug-your-power-apps/Picture1.png" >}} 
 
 ### 2. Use debug label
 
@@ -192,7 +193,7 @@ needs a value to work. Here is a comparison between the `Now()` and
 the `Today()` function. The output looks similar, but it's different
 data types. **DateTime** is some else than **Date**.
 
-{{< image alt="" src="images/blog/learn-to-debug-your-power-apps/.png" >}}
+{{< image alt="" src="images/blog/learn-to-debug-your-power-apps/Picture9.png" >}}
 
 The formula bar shows it to you, which might help you debugging your
 app and functions.
