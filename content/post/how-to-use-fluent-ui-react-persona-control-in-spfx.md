@@ -19,7 +19,7 @@ typically showcasing the image that person has chosen to upload
 themselves. This control includes an individual's avatar (an uploaded
 image or a composition of the person's initials on a background color),
 their name or identification, and so on. for more details refer to
-[this](https://developer.microsoft.com/fluentui#/controls/web/persona).
+[Fluent UI persona](https://developer.microsoft.com/fluentui#/controls/web/persona).
 
 ## Scenario  
 

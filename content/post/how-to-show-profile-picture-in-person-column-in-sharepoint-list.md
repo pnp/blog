@@ -18,7 +18,7 @@ Currently, Microsoft released a new update to the show profile picture
 of the user column in the SharePoint list/library. So in this article,
 we will see how to use this feature in our list or library. for more
 details refer to
-[this](https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-for-microsoft-lists-microsoft-ignite-2021-mar-2-4/ba-p/2176242 "SharePoint List Updates").
+[What's new for Microsoft Lists]](https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-for-microsoft-lists-microsoft-ignite-2021-mar-2-4/ba-p/2176242 "SharePoint List Updates").
  
 
 ## How to use it? 

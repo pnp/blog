@@ -26,7 +26,7 @@ while calling API until API responds. So for this, we will call a Graph
 API to get lists from the root site, and until API response we will show
 Loader. We will use an Office UI fabric Spinner.
 For more information refer to
-[this](https://developer.microsoft.com/fluentui#/controls/web/spinner).
+[Fluent UI spinner](https://developer.microsoft.com/fluentui#/controls/web/spinner).
 
 ## Implementation 
 

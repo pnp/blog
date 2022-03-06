@@ -25,12 +25,12 @@ as well. So in this article, we will see step-by-step implementations.
 
 **1. Register to Muhimbi API**
 To get the trial version API key, Register to
-[this](https://www.muhimbi.com/register?returnUrl=%2Flogin%20). After
+[www.muhimbi.com](https://www.muhimbi.com/register?returnUrl=%2Flogin%20). After
 registration, you have to activate a subscription and then you will get
 an API key, Access token, and Subscription ID on the registered email
 ID. 
 To check API response, you can refer to
-[this](https://api.muhimbi.com/api-docs/v1/index.html?url=/api-docs/v1/swagger.json#/Convert).
+[https://api.muhimbi.com/api-docs/v1/index.html?url=/api-docs/v1/swagger.json#/Convert](https://api.muhimbi.com/api-docs/v1/index.html?url=/api-docs/v1/swagger.json#/Convert).
 After this, we will use the API key in the SPFx web part while calling
 an API.
 
