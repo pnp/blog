@@ -28,6 +28,7 @@ jobs:
           submodules: recursive
       - uses: nosborn/github-action-markdown-cli@v3.0.1
         name: Markdownlint
+        continue-on-error: true
         with:
           files: content/post/**/*.md
           config_file: ".markdownlint.json"
