@@ -38,5 +38,5 @@ jobs:
           use-quiet-mode: 'yes'
           use-verbose-mode: 'no'
           check-modified-files-only: 'yes'
-          config-file: '.markdownlintrc'
+          config-file: '.markdownlint.json'
           base-branch: main
