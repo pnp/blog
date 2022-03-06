@@ -1,33 +1,37 @@
 /*  typography */
 body {
   line-height: 1.7;
-  font-family: $primary-font;
+  font-family:  "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; //$primary-font;
   -webkit-font-smoothing: antialiased;
   color: $text-color;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 p {
   font-weight: 400;
   color: $text-color;
-  font-size: 15px;
+  font-size: 18px;
   line-height: 1.7;
-  font-family: $primary-font;
+  font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
   color: $text-color-dark;
-  font-family: $primary-font;
-  font-weight: 800;
+  font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  font-weight: 600;
   line-height: 1.2;
 }
 
 h1, .h1{
-  font-size: 52px;
+  font-size: 32px;
+}
+
+h1.h2 {
+  font-size: 42px;
 }
 
 h2, .h2{
-  font-size: 36px;
+  font-size: 28px;
 }
 
 h3, .h3{

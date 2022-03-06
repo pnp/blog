@@ -8,10 +8,7 @@ images:
 - images/blog/explore-microsoft-365-extensibility-opportunities-with-the/thumbnail_image.png
 tags: []
 type: "regular"
-
-
 ---
-
  
 Want to understand what types of apps you can build on Microsoft 365?
 Want to get inspired by the scenarios you could implement? Curious about

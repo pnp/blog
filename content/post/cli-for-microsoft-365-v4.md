@@ -8,10 +8,7 @@ images:
 - images/blog/cli-for-microsoft-365-v4/banner-cli-m365.png
 tags: []
 type: "regular"
-
-
 ---
-
  
 
 We've just published a new major version of the CLI for Microsoft 365

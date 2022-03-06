@@ -110,6 +110,7 @@ The hybrid connection service establishes a connection to the Azure App
 Service through Azure Relay which is built on top of Service Bus.
 
 {{< image alt="Diagram explaining the architecture of Azure Hybrid Connections." src="images/blog/connecting-to-sharepoint-online-to-on-premises-databases-with/hybridconn-connectiondiagram.png" >}}
+
  
 To set up the Hybrid Connection in Azure App Service you must be running
 at least the Basic Tier or above.

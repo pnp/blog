@@ -8,8 +8,6 @@ images:
 - images/blog/cli-for-microsoft-365-v4-1/CLI for Microsoft 365 v4.1
 tags: []
 type: "regular"
-
-
 ---
  
 We've just published a new version of the CLI for Microsoft 365 with
