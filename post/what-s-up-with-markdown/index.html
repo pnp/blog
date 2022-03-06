@@ -120,8 +120,7 @@ this:</p><p>Parker said,</p><blockquote>
 </code></pre><p>If so, you already know how to make a table in Markdown!</p><hr>
 <p>Alpha Beta Gamma
 1 2 3</p><hr>
-<p><br>
-Markdown was designed to be intuitive. Where possible, it uses the
+<p>Markdown was designed to be intuitive. Where possible, it uses the
 formatting clues people type naturally. So you can type
 something <code>_in italics_</code> on the screen and it actually appears <em>in
 italics.</em></p><p>In all cases you&rsquo;re starting with plain text - the stuff that comes out
@@ -135,47 +134,57 @@ the <a href=https://marked.js.org/>"Marked" syntax</a>; if you&rsquo;re creatin
 README.md file for use in GitHub, you&rsquo;ll want to use <a href=https://github.github.com/gfm/>GitHub Flavored
 Markdown (GFM)</a>.</p><p> </p><p>This article will stick to the most commonly used features that are
 widely supported. Each of the following sections shows an example of
-some simple Markdown followed by the formatted result.</p><h3 id=toc-hId-900859643>1. Emphasizing Text</h3><p> </p><h5 id=markdown>Markdown:</h5><pre><code>You can surround text with *single asterisks* or _single underscores_ to emphasize it a little bit;
+some simple Markdown followed by the formatted result.</p><h3 id=toc-hId-900859643>1. Emphasizing Text</h3><p> </p><h4 id=markdown>Markdown</h4><pre><code>You can surround text with *single asterisks* or _single underscores_ to emphasize it a little bit;
 this usually formatted using italics.
 
 You can surround text with **double asterisks** or __double underscores__ to emphasize it more strongly;
 this is usually formatted using bold text.
-</code></pre><h5 id=result>Result:</h5><p>You can surround text with <em>single asterisks</em> or <em>single underscores</em> to
+</code></pre><h4 id=result>Result</h4><p>You can surround text with <em>single asterisks</em> or <em>single underscores</em> to
 emphasize it a little bit; this usually formatted using italics.</p><p>You can surround text with <strong>double asterisks</strong> or <strong>double
 underscores</strong> to emphasize it more strongly; this is usually formatted
 using bold text.</p><h3 id=2-headings>2. Headings</h3><p>You can make headings using by putting several = (for a level 1 heading)
-or - signs (for a level 2 heading) in the line below your heading text.</p><p> </p><h5 id=markdown-1>Markdown:</h5><pre><code>My Heading
+or - signs (for a level 2 heading) in the line below your heading text.</p><p> </p><h4 id=markdown-1>Markdown</h4><pre><code>My Heading
 ---
-</code></pre><h5 id=result-1>Result:</h5><h2 id=my-heading>My Heading</h2><p>You can also make headings with one or more hash marks in column 1. The
-number of hash marks controls the level of the heading.</p><h5 id=markdown-2>Markdown:</h5><pre><code># First level heading
+</code></pre><h4 id=result-1>Result</h4><pre><code>## My Heading
+</code></pre><p>You can also make headings with one or more hash marks in column 1. The
+number of hash marks controls the level of the heading.</p><h4 id=markdown-2>Markdown</h4><pre><code># First level heading
 ## Second level heading
 ### Third level heading
 #### etc.
-</code></pre><h5 id=result-2>Result:</h5><h1 id=first-level-heading>First level heading</h1><h2 id=second-level-heading>Second level heading</h2><h3 id=third-level-heading>Third level heading</h3><h4 id=etc>etc.</h4><h3 id=3-hyperlinks>3. Hyperlinks</h3><p> </p><h5 id=markdown-3>Markdown:</h5><pre><code>To make a hyperlink, surround the text in square brackets
+</code></pre><h4 id=result-2>Result</h4><pre><code># First level heading 
+
+## Second level heading
+
+### Third level heading
+
+#### etc 
+
+### 3. Hyperlinks 
+</code></pre><h5 id=markdown-3>Markdown</h5><pre><code>To make a hyperlink, surround the text in square brackets
 immediately followed by the URL in parenthesis (with no space in
 between!) For example:
 [Microsoft](https://www.microsoft.com).
-</code></pre><h5 id=result-3>Result:</h5><p>To make a hyperlink, surround the text in square brackets immediately
+</code></pre><h5 id=result-3>Result</h5><p>To make a hyperlink, surround the text in square brackets immediately
 followed by the URL in parenthesis (with no space in between!) For
 example: <a href=https://www.microsoft.com/>Microsoft</a>.</p><h3 id=4-images>4. Images</h3><p>Images use almost the same syntax as hyperlinks except they begin with
 an exclamation point. In this case the &ldquo;alt&rdquo; text is in square
-brackets and the image URL is in parenthesis, with no spaces in between.</p><p> </p><h5 id=markdown-4>Markdown:</h5><pre><code>![Parker the Porcupine](https://pnp.github.io/images/hero-parker-p-800.png)
-</code></pre><h5 id=result-4>Result:</h5><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/what-s-up-with-markdown/hero-parker-p-800_hu246175755a55e1bbdc06a24453d58eb5_77696_750x0_resize_q100_h2_box_3.webp alt=hero-parker-p-800.png>
+brackets and the image URL is in parenthesis, with no spaces in between.</p><p> </p><h4 id=markdown-4>Markdown</h4><pre><code>![Parker the Porcupine](https://pnp.github.io/images/hero-parker-p-800.png)
+</code></pre><h5 id=result-4>Result</h5><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/what-s-up-with-markdown/hero-parker-p-800_hu246175755a55e1bbdc06a24453d58eb5_77696_750x0_resize_q100_h2_box_3.webp alt=hero-parker-p-800.png>
 <p>In case you were wondering, you can combine this with the hyperlink like
-this:</p><h5 id=markdown-5>Markdown:</h5><pre><code>[![Parker the Porcupine](https://pnp.github.io/images/hero-parker-p-800.png)](http://pnp.github.io)
-</code></pre><h5 id=result-5>Result</h5><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/what-s-up-with-markdown/hero-parker-p-800_hu246175755a55e1bbdc06a24453d58eb5_77696_750x0_resize_q100_h2_box_3.webp alt=hero-parker-p-800.png>
-<h3 id=5-paragraphs-and-line-breaks>5. Paragraphs and line breaks</h3><h5 id=markdown-6>Markdown</h5><pre><code>Markdown will
+this:</p><h4 id=markdown-5>Markdown</h4><pre><code>[![Parker the Porcupine](https://pnp.github.io/images/hero-parker-p-800.png)](http://pnp.github.io)
+</code></pre><h4 id=result-5>Result</h4><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/what-s-up-with-markdown/hero-parker-p-800_hu246175755a55e1bbdc06a24453d58eb5_77696_750x0_resize_q100_h2_box_3.webp alt=hero-parker-p-800.png>
+<h3 id=5-paragraphs-and-line-breaks>5. Paragraphs and line breaks</h3><h4 id=markdown-6>Markdown</h4><pre><code>Markdown will
 automatically
 remove
 single line breaks.
 
 Two line breaks start a new paragraph.
-</code></pre><h5 id=result-6>Result</h5><p>Markdown will automatically remove single line breaks.</p><p>Two line breaks start a new paragraph.</p><h3 id=6-block-quotes>6. Block quotes</h3><h5 id=markdown-7>Markdown:</h5><pre><code>Use a greater than sign in column 1 to make block quotes like this:
+</code></pre><h5 id=result-6>Result</h5><p>Markdown will automatically remove single line breaks.</p><p>Two line breaks start a new paragraph.</p><h3 id=6-block-quotes>6. Block quotes</h3><h4 id=markdown-7>Markdown</h4><pre><code>Use a greater than sign in column 1 to make block quotes like this:
 
 &gt; Line 1
 &gt; Line 2
-</code></pre><h5 id=result-7>Result:</h5><p>Use a greater than sign in column 1 to make block quotes like this:</p><blockquote>
-<p>Line 1 Line 2</p></blockquote><h3 id=7-bullet-lists>7. Bullet lists</h3><h5 id=markdown-8>Markdown:</h5><pre><code>Just put a asterisk or dash in front of a line that should be bulleted.
+</code></pre><h5 id=result-7>Result</h5><p>Use a greater than sign in column 1 to make block quotes like this:</p><blockquote>
+<p>Line 1 Line 2</p></blockquote><h3 id=7-bullet-lists>7. Bullet lists</h3><h4 id=markdown-8>Markdown</h4><pre><code>Just put a asterisk or dash in front of a line that should be bulleted.
 
 * Here is an item starting with an asterisk
 * Here is another item starting with an asterisk
@@ -183,22 +192,22 @@ Two line breaks start a new paragraph.
         * Like this
 - Here is an item with a dash
     - Changing characters makes a new list.
-</code></pre><h5 id=result-8>Result:</h5><p>Just put a asterisk or dash in front of a line that should be bulleted.</p><ul>
+</code></pre><h5 id=result-8>Result</h5><p>Just put a asterisk or dash in front of a line that should be bulleted.</p><ul>
 <li>Here is an item starting with an asterisk</li><li>Here is another item starting with an asterisk
 <ul>
 <li>Indent to make sub-bullets
 <ul>
-<li>Like this</li></ul></li></ul></li></ul><pre tabindex=0><code class="language-{=html}" data-lang="{=html}">&lt;!-- --&gt;
-</code></pre><ul>
+<li>Like this</li></ul></li></ul></li></ul><p>{::ignore rule=&ldquo;MD046/code-block-style&rdquo; relative_line=&ldquo;2&rdquo;}</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-html data-lang=html><span style=display:flex><span><span style=color:#75715e>&lt;!-- --&gt;</span>
+</span></span></code></pre></div><ul>
 <li>Here is an item with a dash
 <ul>
-<li>Changing characters makes a new list.</li></ul></li></ul><h3 id=8-numbered-lists>8. Numbered lists</h3><h5 id=markdown-9>Markdown:</h5><pre><code>1. Beginning a line with a number makes it a list item.
+<li>Changing characters makes a new list.</li></ul></li></ul><h3 id=8-numbered-lists>8. Numbered lists</h3><h4 id=markdown-9>Markdown</h4><pre><code>1. Beginning a line with a number makes it a list item.
 1. You don't need to put a specific number; Markdown will renumber for you
 8. This is handy if you move items around
     1. Don't forget you can indent to get sub-items
         1. Or sub-sub-items
 1. Another item
-</code></pre><h5 id=result-9>Result:</h5><ol>
+</code></pre><h4 id=result-9>Result</h4><ol>
 <li>Beginning a line with a number makes it a list item.</li><li>You don&rsquo;t need to put a specific number; Markdown will renumber for
 you</li><li>This is handy if you move items around
 <ol>
@@ -206,19 +215,21 @@ you</li><li>This is handy if you move items around
 <ol>
 <li>Or sub-sub-items</li></ol></li></ol></li><li>Another item</li></ol><h3 id=9-code-samples>9. Code samples</h3><p>Many markdown implementations know how to format code by language. (This
 article was written in Markdown and made extensive use of this feature
-using &ldquo;markdown&rdquo; as the language!) For example to show some HTML:</p><h5 id=markdown-10>Markdown:</h5><pre><code>    ~~~html
+using &ldquo;markdown&rdquo; as the language!) For example to show some HTML:</p><h4 id=markdown-10>Markdown</h4><pre><code>    ~~~html
     &lt;button type=&quot;button&quot;&gt;Do not push this button&lt;/button&gt;
     ~~~
-</code></pre><h5 id=result-10>Result:</h5><p>&lt;button type=&ldquo;button&rdquo;>Do not push this button&lt;/button></p><h3 id=10-tables>10. Tables</h3><p>Tables are not universally supported but they&rsquo;re so useful they had to
+</code></pre><h4 id=result-10>Result</h4><p>&lt;button type=&ldquo;button&rdquo;>Do not push this button&lt;/button></p><h3 id=10-tables>10. Tables</h3><p>Tables are not universally supported but they&rsquo;re so useful they had to
 be part of this article. Here is a simple table. Separate columns with
 pipe characters, and don&rsquo;t worry about making things line up; Markdown
-will handle that part for you.</p><h5 id=markdown-11>Markdown:</h5><pre><code>Column 1 | Column 2 | Column 3
+will handle that part for you.</p><h4 id=markdown-11>Markdown</h4><pre><code>Column 1 | Column 2 | Column 3
 ---|---|---
 Value 1a | Value 2a | Value 3a
 Value 1b | Value 2b | Value 3b
-</code></pre><h5 id=result-11>Result:</h5><p>Column 1 Column 2 Column 3</p><hr>
-<p>Value 1a Value 2a Value 3a
-Value 1b Value 2b Value 3b</p><p>MVP Luise Freese also pointed out that there&rsquo;s a great <a href=https://www.tablesgenerator.com/markdown_tables>Markdown tables
+</code></pre><h4 id=result-11>Result</h4><pre><code>Column 1   Column 2   Column 3
+---------- ---------- ----------
+Value 1a   Value 2a   Value 3a
+Value 1b   Value 2b   Value 3b
+</code></pre><p>MVP Luise Freese also pointed out that there&rsquo;s a great <a href=https://www.tablesgenerator.com/markdown_tables>Markdown tables
 generator here</a>; looks
 like a big timesaver!</p><h2 id=html-and-markdown>HTML and Markdown</h2><p>Markdown doesn&rsquo;t create any old formatted text - it specifically
 creates HTML. In fact, it was designed as a shorthand for HTML that is

@@ -95,14 +95,14 @@ extension for
 chrome</a>.
 After installation, you can check it in the developer tool. <br>
 So open developer tool(F12) > SharePoint Tab > PnP Js Console > At
-here you can write pnp queries and using ctrl + D we can test it.</p><p>Now we will implement the logic for break permission as below,</p><ol>
+here you can write PnP queries and using ctrl + D we can test it.</p><p>Now we will implement the logic for break permission as below,</p><ol>
 <li>For eg. I want to set &ldquo;Contribute&rdquo; permission so we have to get a
 Role definition Id. you can set it as per your requirement. for more
 details to refer
 to <a href=https://pnp.github.io/pnpjs/sp/security/#role-definitions>this article. </a></li><li>Then get list by title and break list permission. </li><li>Get list item by id. </li><li>Break list item permission and then set permission. To add
 permission we require two parameters UserId and Role definition ID.
-The meaning of this method is to give permission to a specific user.</li></ol><h3 id=setting-list-item-permission-to-one-user>Setting list item permission to one user:</h3><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/Single%20user_hu33bc09526a975f495cd0120a39eef2be_58037_750x0_resize_q100_h2_box_3.webp alt="Single user.png">
-<h2 id=setting-list-item-permission-to-multiple-users>Setting list item permission to multiple users:</h2><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/Multiple%20users_hudcb615e32d968007d0c9be83e2f0e8fd_68441_750x0_resize_q100_h2_box_3.webp alt="Multiple users.png">
+The meaning of this method is to give permission to a specific user.</li></ol><h3 id=setting-list-item-permission-to-one-user>Setting list item permission to one user</h3><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/Single%20user_hu33bc09526a975f495cd0120a39eef2be_58037_750x0_resize_q100_h2_box_3.webp alt="Single user.png">
+<h2 id=setting-list-item-permission-to-multiple-users>Setting list item permission to multiple users</h2><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/Multiple%20users_hudcb615e32d968007d0c9be83e2f0e8fd_68441_750x0_resize_q100_h2_box_3.webp alt="Multiple users.png">
 <p>Here logic will be the same as above. just have to add one array with
 required user IDs and then will iterate this array and set the
 permissions.</p><p><strong>Output</strong></p><p>After successfully running the query now we will check the permission.
@@ -113,7 +113,7 @@ panel as below,</p><img loading=lazy decoding=async class="w-100 d-block mb-4" s
 <p>It will open another tab and in this, you can see all the list item
 level permission as below,</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/Third_hu0b844d12a8a512d0cb66aa43ec97e23c_18349_750x0_resize_q100_h2_box_3.webp alt=Third.png>
 <h2 id=summary>Summary</h2><p>In this article, we have seen how to break and add permission to list
-items using PNP js.</p><p>Hope this helps! If it is helpful to you then share it with others. Give
+items using PnP JS.</p><p>Hope this helps! If it is helpful to you then share it with others. Give
 your valuable feedback and suggestions in the comments section below.</p><p>Sharing is caring!</p></div></article><script src=https://utteranc.es/client.js repo=pnp/community-blog issue-term=title theme=github-light crossorigin=anonymous async></script>
 </div><aside class=col-lg-4>
 <div class="widget widget-categories">
