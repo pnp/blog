@@ -1,4 +1,5 @@
 .frontmatter
 frontmatter.json
 .vscode/settings.json
-/public
+public/
+public/**
