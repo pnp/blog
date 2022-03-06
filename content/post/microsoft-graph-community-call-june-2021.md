@@ -1,0 +1,223 @@
+---
+title: "Microsoft Graph community call -- June 2021"
+date: 2021-06-02T12:29:00-04:00
+author: "Brian Jackett"
+githubname: briantjackett
+categories: ["Microsoft Graph community call recordings"]
+images:
+- images/blog/microsoft-graph-community-call-june-2021/BrianTJackett.png
+tags: []
+type: "regular"
+
+---
+
+::: {.dropdown .dropdown-events .dropdown-primary-nav}
+-   [Events Home](/t5/Events/ct-p/Events)
+-   [Microsoft Ignite](https://myignite.microsoft.com/)
+-   [Microsoft Build](https://mybuild.microsoft.com/)
+-   [Community Events](/t5/Community-Events/ct-p/CommunityEvents)
+:::
+:::
+
+::: {.community-menu-item .tab-microsoft-learning .community-menu-dropdown}
+[](#){.community-menu-item-desktop-view}
+
+::: {.grad .community-menu-item-icon}
+:::
+
+::: community-menu-item-title-with-dropdownicon
+Microsoft Learn
+:::
+
+[](#){.community-menu-item-mobile-view}
+
+::: {.grad .community-menu-item-icon}
+:::
+
+::: community-menu-item-title-with-dropdownicon
+Microsoft Learn
+:::
+
+::: {.dropdown .dropdown-events .dropdown-primary-nav}
+-   [Home](%20https://docs.microsoft.com/learn/){.ms-learning-home-link
+    .community-menu-item-title}
+-   [Community](/t5/microsoft-learn/bd-p/MicrosoftLearn)
+-   [Blog](/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)
+-   [Azure](https://docs.microsoft.com/learn/azure/?WT.mc_id=techcom_header-webpage-m365)
+-   [Dynamics
+    365](https://docs.microsoft.com/learn/dynamics365/?WT.mc_id=techcom_header-webpage-m365)
+-   [Microsoft
+    365](https://docs.microsoft.com/learn/m365/?wt.mc_id=techcom_header-webpage-m365)
+-   [Security, Compliance &
+    Identity](https://docs.microsoft.com/learn/topics/sci/?wt.mc_id=techcom_header-webpage-m365)
+-   [Power
+    Platform](https://docs.microsoft.com/learn/powerplatform/?wt.mc_id=techcom_header-webpage-powerplatform)
+-   [GitHub](https://docs.microsoft.com/learn/github/?wt.mc_id=techcom_header-webpage-github)
+-   [Teams](https://docs.microsoft.com/learn/teams/?wt.mc_id=techcom_header-webpage-teams)
+-   [.NET](https://docs.microsoft.com/learn/dotnet/?wt.mc_id=techcom_header-webpage-dotnet)
+:::
+:::
+
+::: {.community-menu-item .tab-info-center}
+[](/t5/Community-Info-Center/ct-p/Community-Info-Center){.community-menu-item-desktop-view}
+
+::: {.c-glyph .community-menu-item-icon}
+
+:::
+
+::: community-menu-item-title
+Lounge
+:::
+
+[](/t5/Community-Info-Center/ct-p/Community-Info-Center){.community-menu-item-mobile-view}
+
+::: {.c-glyph .community-menu-item-icon}
+
+:::
+
+![Microsoft Graph THumbnail - June
+2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285511i65B8ACEEF6F49B52/image-size/large?v=v2&px=999 "Microsoft Graph THumbnail - June 2021.png")
+ 
+This month's community call features presentations on Assignment Graph
+API (v1.0 will be released to Microsoft Teams EDU tenants within days),
+Dev Tips and Tricks with Microsoft Graph (save coding time with 2 VS
+Code Extensions), and Microsoft Graph Data Connect (extracting
+information at scale from Microsoft Graph).  Q&A throughout call in
+chat.  Microsoft Graph session recordings from Microsoft Build
+Conference are now available on demand.  The call was hosted by [Brian
+T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) \|
+[\@BrianTJackett](/t5/user/viewprofilepage/user-id/4556).  Microsoft
+Presenters were [Leif Brenne](http://twitter.com/secondleif), Mei Tan
+and [Nik Charlebois](http://twitter.com/NikCharlebois). Guest presenter
+[Elio Struyf](http://twitter.com/eliostruyf) (Squarl).   This session
+was recorded on June 1, 2021.
+
+ 
+
+**Topics:**
+
+**Assignments API --** specifically the Assignment Graph API v1.0 will
+be released in Microsoft Teams EDU tenants within days.  The APIs align
+to an instructor's workflows around assignments -- create, append
+resources, track submissions, grade and post results back to students. 
+ Try out the APIs in the Graph Explorer tool.   Think of a Team as a
+Class, and assignments are the class activities/coursework.     
+
+ 
+
+**Dev Tips and Tricks with Microsoft Graph -** Save time with 2 VS Code
+Extensions 1) MS Graph Completion (autocompletion for Microsoft Graph
+URLs)  and 2) Microsoft Graph Essentials (Preview) (CSS Completion and
+HTML web component attributes, if using MGT) inside Visual Studio Code. 
+Extensions created by presenter are available in Marketplace.  Microsoft
+Graph Essentials extension comes with snippets, code completion for CSS
+variables, and an extension pack. 
+
+ 
+
+**Microsoft Graph Data Connect** - is about extracting information at
+scale from Microsoft Graph.  Starting with an architecture overview --
+learn about creating an Azure Data Factory, Azure storage account, and
+establishing the data pipeline connection between the Microsoft 365
+dataset and storage account.  Once the pipeline is setup, define source
+and sink, trigger the sync and use Power BI to display data insights.   
+
+**Actions:**
+
+-   Interested in Presenting during this call?  
+    Contact <Brian.Jackett@microsoft.com> or <Jeremy.Thake@microsoft.com>
+-   Mark your calendar -- next Microsoft Graph community call is on July
+    6th at 08:00am PDT - <https://aka.ms/microsoftgraphcall> 
+
+ 
+
+**Resources:**
+
+From demos:
+
+-   Documentation - [Create
+    educationAssignment](https://docs.microsoft.com/en-us/graph/api/educationclass-post-assignments?view=graph-rest-beta) 
+
+-   Documentation -- [educationAssignment
+    API](https://docs.microsoft.com/en-us/graph/api/resources/educationassignment?view=graph-rest-beta) 
+
+-   VSCode Extension - [MS Graph
+    Completion](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-msgraph-autocomplete) 
+
+-   VSCode Extension -- [Microsoft Graph
+    Essentials](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-msgraph-essentials) 
+
+-   Web - [Microsoft Graph Data
+    Connect](https://azure.microsoft.com/en-us/services/graph-data-connect/) 
+
+-   Documentation - [Overview of Microsoft Graph Data
+    Connect](https://docs.microsoft.com/en-us/graph/data-connect-concept-overview) 
+
+ 
+
+**Agenda:**
+
+-   Assignments API  - [Leif Brenne](http://twitter.com/secondleif)
+    (Microsoft) \| \@secondleif and Mei Tan (Microsoft) --
+    [1:10](https://youtu.be/JePYam-hyUU?t=70)
+-   Dev Tips and Tricks with Microsoft Graph - [Elio
+    Struyf](http://twitter.com/eliostruyf) (Squarl) \| \@eliostruyf --
+    [22:44](https://youtu.be/JePYam-hyUU?t=1364)
+-   Microsoft Graph Data Connect - [Nik
+    Charlebois](http://twitter.com/NikCharlebois) (Microsoft) \|
+    \@NikCharlebois -- [33:20](https://youtu.be/JePYam-hyUU?t=2000)
+
+ 
+
+**Microsoft Build 2021 - Microsoft Graph session recordings**
+
+|||
+|--- |--- |
+|Breakouts||
+|BRK215|Empowering developers with powerful tooling and enabling frictionless app adoption|
+|BRK234|Build Zero Trust ready applications starting with the Microsoft identity platform|
+|BRK243|Build great discovery & collaboration apps for Microsoft 365 with new Microsoft Graph connector & Ad...|
+|BRK244|Three new ways to enrich your productivity apps with Microsoft Graph tools and data|
+|On Demand||
+|OD483|Getting started with Microsoft Graph Data Connect|
+|OD500|Build secure B2C applications​ with Azure AD External Identities|
+|OD531|Enlighten your Windows app with Microsoft Graph|
+|OD534|Integrate with Microsoft Teams data using Microsoft Graph|
+|Other||
+|STUDIO10|Build, integrate and accelerate Multi-cloud Compliance|
+|CON061|Develop apps with the Microsoft Graph Toolkit|
+|CON059|Application Authentication in the Microsoft Identity platform|
+|CON066|Integrate your app with Microsoft Teams using webhooks and connectors|
+|Round Tables||
+|CON-PRT148|Microsoft Graph Connectors|
+|CON-PRT149|Microsoft Graph Toolkit|
+|CON-PRT150|Microsoft Search for Developers|
+
+
+**General Resources:**
+
+-   Suggestions -- <https://aka.ms/M365Dev-Suggestions>   
+-   Graph TAP Program - <https://aka.ms/GraphTAPForm>** **
+-   Microsoft 365 Developer Podcast <http://www.m365devpodcast.com/>
+-   Microsoft Graph Mailbag - <http://aka.ms/MSGraphMailbag>
+-   Microsoft Q & A -- Graph - <https://aka.ms/askgraph/>
+-   Learn Module - [Get started with Microsoft Graph
+    Toolkit](https://docs.microsoft.com/learn/modules/msgraph-toolkit-intro/) \| <https://aka.ms/mgt-learn>
+-   Repo - [Microsoft Graph Toolkit
+    v2.1](https://github.com/microsoftgraph/microsoft-graph-toolkit) \| <https://aka.ms/mgt>  
+-   Documentation -- [Microsoft Graph Toolkit
+    Overview](https://docs.microsoft.com/en-us/graph/toolkit/overview) \| <https://aka.ms/mgt-docs>
+-   Playground -- [Microsoft Graph Toolkit
+    Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple) \| [https://mgt.dev](https://mgt.dev/)
+
+**Stay Connected:**
+
+-   See the full blog post for this call at
+    - <https://aka.ms/m365pnp/community/blog>
+-   Twitter
+    - [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev) \@Microsoft365Dev​
+-   YouTube - <https://aka.ms/M365DevYouTube>​
+-   Recurrent Invite to this community call
+    - <https://aka.ms/microsoftgraphcall>
+-   All Microsoft 365 developer community calls
+    -- <https://aka.ms/M365DevCalls>

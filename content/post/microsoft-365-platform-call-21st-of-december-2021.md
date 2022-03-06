@@ -2,12 +2,13 @@
 title: "Microsoft 365 Platform Call -- 21st of December, 2021"
 date: 2021-12-22T12:43:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-21st-of-december-2021/recording-21st-dec.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -214,7 +215,7 @@ forward to continuing sharing and caring with community in 2022.
     Service ](https://provisioning.sharepointpnp.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
-    Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
+    GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast

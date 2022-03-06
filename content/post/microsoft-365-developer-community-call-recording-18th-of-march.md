@@ -2,12 +2,13 @@
 title: "Microsoft 365 Developer Community Call recording -- 18th of March, 2021"
 date: 2021-03-19T01:49:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-18th-of-march/sig-18th-march-recording.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -241,7 +242,7 @@ slides.
     Service](https://provisioning.sharepointpnp.com/) - Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
-    Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
+    GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates)
 -   [SharePoint Page Transformation webcast

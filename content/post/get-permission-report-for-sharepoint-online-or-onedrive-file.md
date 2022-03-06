@@ -2,11 +2,13 @@
 title: "Get Permission Report for SharePoint Online or OneDrive File using CLI for Microsoft 365"
 date: 2021-09-29T03:29:00-04:00
 author: "Arjun Menon"
+githubname: arjunumenon
 categories: []
-images: []
+images:
+- images/blog/get-permission-report-for-sharepoint-online-or-onedrive-file/SP Permission Report - CLI.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -36,14 +38,15 @@ something like below.
 When you execute the command
 
 
-``` highlight
+```bash
 m365 spo file sharinginfo get --webUrl https://contoso.sharepoint.com/sites/M365CLI --url "/sites/M365CLI/Shared Documents/MySharingCentral.docx"
 ```
 
 
-How good is that. You can get the complete sharing details which even
-has external sharing information in a single command
-.
+How good is that?! You can get the complete sharing details which even
+has external sharing information in a single command.
+
+
 ## Information Not Enough 
 
 If you are not happy with the currently available information available
@@ -53,7 +56,7 @@ scenarios. For getting the complete Sharing Information result in a JSON
 object, you can use the below command
  
 
-``` highlight
+```bash
 m365 spo file sharinginfo get --webUrl https://contoso.sharepoint.com/sites/M365CLI --url "/sites/M365CLI/Shared Documents/MySharingCentral.docx" --output JSON
 ```
 

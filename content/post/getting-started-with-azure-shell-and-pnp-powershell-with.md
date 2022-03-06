@@ -2,13 +2,12 @@
 title: "Getting Started with Azure Shell and PnP PowerShell with Certificates"
 date: 2021-05-14T08:40:00-04:00
 author: "Pau Bullock"
+githubname: pkbullock
 categories: []
 images:
-
+- images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell - First Welcome.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 I recently encountered a scenario recently where I was looking to do a
@@ -56,11 +55,11 @@ Portal.
 
 Then run through the first setup of the Azure Shell:
 
-{{< image alt="Welcome screen Azure Shell" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Welcome screen Azure Shell.png" >}}
+{{< image alt="Welcome screen Azure Shell" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell - First Welcome.png" >}}
 
 Select PowerShell. Then run through the first setup of the Azure Shell:
 
-{{< image alt="Simple setup screen for storage" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Simple setup screen for storage.png" >}}
+{{< image alt="Simple setup screen for storage" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell - Simple Setup.png" >}}
 
 If you choose `Create storage` at this point, then this will set up
 the storage account and resource group for you, using Azure's naming
@@ -72,7 +71,7 @@ standards and region. If you want to specify:
 -   Storage account
 -   File share name
 
-{{< image alt="Azure Shell Advanced Setup" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell Advanced Setup.png" >}}
+{{< image alt="Azure Shell Advanced Setup" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell Advanced Settings.png" >}}
 
 Then select Advanced settings. I like to name resources myself in a
 standard manner. For this article, I am going to use the advanced
@@ -95,7 +94,7 @@ Now the Azure Shell is ready to use.
 Next, we need to install the PnP PowerShell module in Azure Cloud shell,
 enter:
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 Install-Module -Name PnP.PowerShell
 ```
  
@@ -103,7 +102,7 @@ The great thing about Azure Cloud Shell is the installation is
 persistent between sessions, so you will only have to do this once.
 However, you will need to upgrade the module periodically.
  
-{{< image alt="Azure Shell - Install PnP PowerShell" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell - Install PnP PowerShell.png" >}}
+{{< image alt="Azure Shell - Install PnP PowerShell" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Installing PnP PowerShell module.png" >}}
 For information on installing PnP-PowerShell, check out the
 documentation site for more details: <https://pnp.github.io/powershell/>
  
@@ -126,18 +125,18 @@ OR set this up in Azure Cloud Shell run the following commands:
 Firstly, to check that the service is available in your preferred
 region, run the following:
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 New-AzKeyVault -VaultName 'pkbtenant-keyvault' -ResourceGroupName 'azure-cloud-shell' -Location 'North Europe'
 ```
  
 Then, provision a new KeyVault (if you have one already, then skip this
 step) and give yourself access to Secrets and Certificates.
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 Set-AzKeyVaultAccessPolicy -VaultName 'pkbtenant-keyvault' -UserPrincipalName 'paul.bullock@tenant.co.uk' -PermissionsToCertificates All -PermissionsToSecrets All
 ```
 
-{{< image alt="Azure Shell - Create KeyVault" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell - Create KeyVault.png" >}}
+{{< image alt="Azure Shell - Create KeyVault" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/New KeyVault - AzShell.png" >}}
 Please refer to the documentation if you want to be more specific around
 the KeyVault -- [Azure
 Portal](https://docs.microsoft.com/en-gb/azure/key-vault/general/quick-create-portal#create-a-vault)
@@ -180,12 +179,12 @@ already have it.
 To set up the app, run the following command using the PnP PowerShell
 cmdlet:
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 $result = Register-PnPAzureADApp -ApplicationName "PnP PowerShell Azure Shell Access" -Tenant yourtenant.co.uk -OutPath .\ -DeviceLogin -ValidYears 2 -CertificatePassword (ConvertTo-SecureString -String "yourpassword" -AsPlainText -Force)
 $result #output the result – Specifically grab the AzureAppId/ClientId – you will need this later
 ```
 
-{{< image alt="PowerShell - Registering Azure App" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/PowerShell - Registering Azure App.png" >}}
+{{< image alt="PowerShell - Registering Azure App" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Register App - Windows.png" >}}
 During this operation, two windows will pop-up to authenticate with the
 device login method and consent to the app permissions.
  
@@ -197,7 +196,7 @@ Note: This app uses the minimum API permissions (APPLICATION) as the
 default; if you want to perform operations with groups or flow as an
 example, you will need to add these permissions to the app.
  
-{{< image alt="Azure App - API permissions" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure App - API permissions.png" >}}
+{{< image alt="Azure App - API permissions" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure App Permissions - Application.png" >}}
 For more details on generating the app, check out the [authentication
 section of the
 documentation](https://pnp.github.io/powershell/articles/authentication.html).
@@ -208,7 +207,7 @@ Now that we have the app setup, we need to upload the certificate to the
 KeyVault.
 Navigate to the KeyVault in the portal
  
-{{< image alt="Azure KeyVault - Navigating to Certificates" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure KeyVault - Navigating to Certificates.png" >}}
+{{< image alt="Azure KeyVault - Navigating to Certificates" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure KeyVault - Certificates.png" >}}
 
 -   Select `Import`
 -   Enter a name `azureshell-pnpps-connection`
@@ -217,7 +216,7 @@ Navigate to the KeyVault in the portal
 -   Enter the certificate password
 -   Click Create
  
-{{< image alt="Azure Key Vault - Upload Certificate" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Key Vault - Upload Certificate.png" >}}
+{{< image alt="Azure Key Vault - Upload Certificate" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/KeyVault-Importing Certificate.png" >}}
 This is ready to use in a later section.
  
 ## Reducing the time to get going on new sessions
@@ -231,7 +230,7 @@ Parameter splatting is a method to pass a collection of parameters for a
 PowerShell command into a variable and apply this to the cmdlet you
 intend to run. Example:
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 Get-NiceMessage -Param1 "good" -Param2 "morning" -Param3 "community"
 # Splatting alternative
 $MyParams = @{
@@ -261,13 +260,13 @@ certificates from the KeyVault.
 To create a profile that is used across sessions but for your user
 account use:
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 # Create Profile
 mkdir (Split-Path $profile.CurrentUserAllHosts)
 New-Item -ItemType File -Path $PROFILE.CurrentUserAllHosts -Force
 ```
 
-{{< image alt="Azure Shell - Setup Profiles" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell - Setup Profiles.png" >}}
+{{< image alt="Azure Shell - Setup Profiles" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell - Setup Profile.png" >}}
 Once created, you can open an editor in the path above to the new
 profile script location.
 
@@ -275,7 +274,7 @@ Then using the following example, using a combination of parameter
 splatting and profiles, you can setup everything you need to connect to
 the service:
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 # Connect to KeyVault Data
 try{
     $vaultName = "pkbtenant-keyvault" # Replace with your KeyVault name
@@ -311,13 +310,13 @@ profiles](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershel
 Once you have all these elements setup, you can connect with PnP
 PowerShell with one short line:
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 Connect-PnPOnline @ConnectInfo https://tenant.sharepoint.com
 # -OR-
 Connect-PnPOnline @ConnectInfo $baseSite
 ```
  
-{{< image alt="Azure Shell - connecting with PnP PowerShell" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell - connecting with PnP PowerShell.png" >}}
+{{< image alt="Azure Shell - connecting with PnP PowerShell" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell - Connect.png" >}}
 
 The settings are persistent across sessions/devices (like an Azure app
 on iPad), so once setup, you can open Azure Shell and reconnect to the
@@ -327,7 +326,7 @@ Btw, at the beginning I mentioned about capturing the output to the text
 file, this is particularly useful if you are grabbing a lot of info in
 your session or need to show the changes you made, here is how to do it:
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 Start-Transcript "log.txt"
 Get-PnPWeb
 Stop-Transcript

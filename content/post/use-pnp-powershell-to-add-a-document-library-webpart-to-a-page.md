@@ -1,17 +1,18 @@
 ---
-title: "Use PnP Powershell to add a document library web part to a page (and only show a specific folder)"
+title: "Use PnP PowerShell to add a document library web part to a page (and only show a specific folder)"
 date: 2021-06-10T08:40:00-04:00
 author: "Marijn Somers"
+githubname: Marijnsomers
 categories: ["PnP PowerShell", "SharePoint"]
 images:
-
+- images/blog/use-pnp-powershell-to-add-a-document-library-webpart-to-a-page/MS-list.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 As a non-developer (please read this as a disclaimer) I still try to
-make my life as easy as possible (yes, I am that lazy). PnP Powershell
+make my life as easy as possible (yes, I am that lazy). PnP PowerShell
 is a big component of that goal. A customer had the requirement to
 create a page for each of their 86 folders in a document library so they
 could add more information on those topics. That meant creating 86
@@ -37,8 +38,8 @@ Using the user interface, following steps were required:
 
 -   Create a new page (with the same name as the folder)
 -   Add a section to the page with 2 columns
--   Add a text webpart to the left column
--   Add a document library webpart to the right column
+-   Add a text web part to the left column
+-   Add a document library web part to the right column
 -   As a subrequirement, only show the files from the necessary folder.
     This can be set up from the web part properties
 
@@ -52,11 +53,11 @@ PnP PowerShell needed to come to the rescue.
 # The code 
 
 Lets dig in to the code. I imagine that you have already dabbled with
-PnP Powershell and I will not explain how to install and configure it to
+PnP PowerShell and I will not explain how to install and configure it to
 run.
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Connect-PnPOnline -Url https://yourtenant.sharepoint.com/sites/thesite/ -UseWebLogin
 ```
 
@@ -72,7 +73,7 @@ the [Add-PnPClientSidePage ](https://pnp.github.io/powershell/cmdlets/Add-PnPC
 I am using the \$name variable here to give it a name.
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Add-PnPClientSidePage -Name $name
   -LayoutType Article
   -HeaderLayoutType NoImage
@@ -95,25 +96,25 @@ the [Add-PnPClientSidePageSection](https://pnp.github.io/powershell/cmdlets/Add
 I can just add a TwoColumn section on the page.
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Add-PnPClientSidePageSection -Page $name -SectionTemplate TwoColumn -Order 1
 ```
 
-## Adding a text editor webpart 
+## Adding a text editor web part 
 
 Adding a text editor is super easy, just use the Add-PnPClientSideText
 command. Don't forget to add some text or it will fail.
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Add-PnPClientSideText -Page $name -Section 1 -Column 1 -Text " "
 ```
 
 
-## The hard part: adding an existing document library as a webpart to the page 
+## The hard part: adding an existing document library as a web part to the page 
 
 This was the easy bit, in my opinion. Adding a document library to a
-page is surprisingly hard in PnP Powershell (unless I am missing
+page is surprisingly hard in PnP PowerShell (unless I am missing
 something big.. in that case please call me out on this!)
 
 What you need to do, is to use the[ Add-PnPClientSideWebPart
@@ -141,7 +142,7 @@ in the url:
 
 {{< image alt="SharePoint document library ID in the url of the library settings page" src="images/blog/use-pnp-powershell-to-add-a-document-library-webpart-to-a-page/documentlibrary-id.png" >}}
 
-Just cut out the %7B in the front, and the %7D on the back.\
+Just cut out the %7B in the front, and the %7D on the back.
 In this example, the document library Id is
 4683b239-caf6-40a3-96c4-a02dedfa3418.
 
@@ -153,7 +154,7 @@ there. So here it is:
 
 In the WebPartProperties, add selectedFolderPath="/yourfoldername";
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Add-PnPClientSideWebPart -Page $name
   -DefaultWebPartType List -Section 1 -Column 2
   -WebPartProperties @{isDocumentLibrary="true";
@@ -172,7 +173,7 @@ In the same way as showing just files from a specific folder, you can
 use the hideCommandBar="false"; in the WebPartProperties:
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Add-PnPClientSideWebPart -Page $name
   -DefaultWebPartType List -Section 1 -Column 2
   -WebPartProperties @{isDocumentLibrary="true";
@@ -189,7 +190,7 @@ publish the page so it is visible to all visitors. For that, we need to
 grab the page again and publish it.
 
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 $page = Get-PnPClientSidePage -Identity $name
 $page.Publish()
 ```
@@ -208,7 +209,7 @@ A2 & CHAR(34) &",") and added an array to store these.
 
 The full code is:
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Connect-PnPOnline -Url https://yourtenant.sharepoint.com/sites/Yoursite/ -UseWebLogin
 $ray = "folder1",
 "folder2",
@@ -220,7 +221,7 @@ Add-PnPClientSidePage -Name $name -LayoutType Article -HeaderLayoutType NoImage 
 #add sections
 Add-PnPClientSidePageSection -Page $name -SectionTemplate TwoColumn -Order 1
 
-#add text webpart
+#add text web part
 Add-PnPClientSideText -Page $name -Section 1 -Column 1 -Text " "
 
 #add doclib

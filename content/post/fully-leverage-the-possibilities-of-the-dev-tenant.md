@@ -2,12 +2,13 @@
 title: "Fully leverage the possibilities of the dev tenant"
 date: 2021-02-25T01:19:00-05:00
 author: "Michael Roth"
+githubname: MichaelRoth42
 categories: []
 images:
 - images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_10-1614283053396.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

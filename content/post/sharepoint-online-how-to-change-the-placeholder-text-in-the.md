@@ -2,12 +2,13 @@
 title: "SharePoint Online: How to change the placeholder text in the search box"
 date: 2021-07-13T04:52:00-04:00
 author: "Ganesh Sanap"
+githubname: ganesh-sanap
 categories: ["SharePoint"]
 images:
 - images/blog/sharepoint-online-how-to-change-the-placeholder-text-in-the/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -29,7 +30,7 @@ below steps to change the placeholder text in the search box:
 You can run the following command to install the PnP PowerShell cmdlets:
  
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Install-Module -Name "PnP.PowerShell"
 ```
  
@@ -37,7 +38,7 @@ If you have previously installed the PnP PowerShell module, you can run
 the following command to update it:
  
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Update-Module -Name "PnP.PowerShell"
 ```
  
@@ -48,7 +49,7 @@ You can connect to a SharePoint site using below PnP PowerShell command
 (use administrative account):
  
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Connect-PnPOnline -Url https://tenant.sharepoint.com/sites/siteName -UseWebLogin
 ```
 
@@ -58,7 +59,7 @@ To change the placeholder text in search box for a given (sub) site run
 the following command:
  
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Set-PnPSearchSettings -Scope Web -SearchBoxPlaceholderText "Search Work @ SPExplorer Site"
 ```
  
@@ -66,7 +67,7 @@ Alternately, if you want to change the placeholder text for all the
 sites in a site collection, you can use below command:
  
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Set-PnPSearchSettings -Scope Site -SearchBoxPlaceholderText "Search Work @ SPExplorer Site"
 ```
  
@@ -80,7 +81,7 @@ you want to reset it to the default placeholder text, you can run the
 following command after connecting to a SharePoint site:
  
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 Set-PnPSearchSettings -Scope Site -SearchBoxPlaceholderText ""
 ```
  

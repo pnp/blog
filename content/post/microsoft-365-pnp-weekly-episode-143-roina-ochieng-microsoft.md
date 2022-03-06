@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 143 - Roina Ochieng (Microsoft)"
 date: 2021-11-16T01:13:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/Thumb-Ep143-November15.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 {{< image alt="Thumb-Ep143-November15.png" src="images/blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/Thumb-Ep143-November15.png" >}}

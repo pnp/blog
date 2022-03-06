@@ -2,12 +2,13 @@
 title: "Working with Custom Connectors in Power Platform for beginners"
 date: 2021-05-06T08:40:00-04:00
 author: "Michael Roth"
+githubname: MichaelRoth42
 categories: ["Power Automate"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -38,7 +39,7 @@ So, let's build one right now, shall we? 👏🏼
 
 ## Build a custom connector
 
-Since this is part two of my mini series "working with APIs" I'm
+Since this is part two of my mini series \"working with APIs\" I'm
 using the same scenario and api as last time. I use an open API to get
 the number of the day from a website called MathTOOLs. I will post this
 number in a Microsoft Teams channel afterwards.
@@ -92,7 +93,7 @@ than 1MB.
 
 You don't need to fill out the rest. We will look into that at a
 another blog of this series. For now we're good and we can click on
-"Security" either in the lower right corner or in the navigation at
+\"Security\" either in the lower right corner or in the navigation at
 the top of the page.
 
 
@@ -138,14 +139,14 @@ In this case the method is: **GET**, the URL is
 
 (We provided the same information at the last part, where we needed to
 give those to the https request, remember?. When we're done, select
-"Import" to finish this step.
+\"Import\" to finish this step.
 
 {{< image alt="custom-connector-7.png" src="images/blog/working-with-custom-connectors-in-power-platform-for-beginners/custom-connector-7.png" >}}
 
 feels familiar?
 
-Now it's time to actually create the connector. Select "Create
-connector" in the upper right corner and keep your fingers crossed
+Now it's time to actually create the connector. Select \"Create
+connector\" in the upper right corner and keep your fingers crossed
 
 Usually you get a success notification :white_heavy_check_mark: above
 the upper navigation.
@@ -200,7 +201,7 @@ Click on custom to see all custom connectors.
 Since our connector just has one action, that's all we needed to do.
 
 Now let's put the value in a variable, so the number of the day is
-always up to date. Select the action "Initialize variable" and put in
+always up to date. Select the action \"Initialize variable\" and put in
 the following information:
 
 **Name**: I called mine NrOfDay_Con (most importantly you need a name

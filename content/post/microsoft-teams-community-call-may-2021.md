@@ -2,12 +2,13 @@
 title: "Microsoft Teams Community Call - May 2021"
 date: 2021-05-19T12:52:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Teams community call recordings"]
 images:
 - images/blog/microsoft-teams-community-call-may-2021/teams-18th-recording-promo.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -25,7 +26,7 @@ for May trainings on
 the [Microsoft Teams samples gallery](https://aka.ms/teams-samples) to
 get started with Microsoft Teams development.  See the new [Microsoft
 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)
-co-developed by Microsoft Teams and Sharepoint engineering.  Get the
+co-developed by Microsoft Teams and SharePoint engineering.  Get the
 Microsoft Teams Toolkit (Controls) -- "[Designing your Microsoft Teams
 app](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview)"
 with layout guidance and reusable assets.   Three great demos delivered

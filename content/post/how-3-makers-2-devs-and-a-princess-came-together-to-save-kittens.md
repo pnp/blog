@@ -2,12 +2,13 @@
 title: "How 3 makers, 2 devs and a princess came together to save kittens for a hackathon"
 date: 2021-10-23T08:53:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Apps", "Power Automate"]
 images:
 - images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/solution-overview.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -192,9 +193,9 @@ activity record OData id into a variable. And finally it relates records
 
 What is also worth to mention is that the whole process is built using
 the **try-catch** pattern. All actions that are executed in terms of the
-business logic are stored in the "Try" scope (1). If anything fails
-within the scope, it is caught by the "Catch" scope (2), that has
-it's "Run after" settings configured to only be executed if previous
+business logic are stored in the \"Try\" scope (1). If anything fails
+within the scope, it is caught by the \"Catch\" scope (2), that has
+it's \"Run after\" settings configured to only be executed if previous
 actions fails, times out or is skipped.
 
 
@@ -204,7 +205,7 @@ which contain information about errors:
 `@equals(createArray('Failed', 'TimedOut'), '')`. Next for each such
 record (4) it is adding information about the details to a string
 variable. Finally, variable's contents is sent to admin as a
-notification (5) and the whole process ends up with "Failed" outcome.
+notification (5) and the whole process ends up with \"Failed\" outcome.
 
 
 ## Show me something beautiful - The canvas app (Carmen) 
@@ -224,7 +225,7 @@ gas station when selecting the location pin.
 
 
 To get the location pins on the map, we added the Dataverse table as a
-source in the **I****tems** property of the map control. We are
+source in the **Items** property of the map control. We are
 currently not doing any filtering, but this could be added if needed.
 The latitude, longitude, labels and colors is each contained in a
 specific column within the data source. These are provided as values for

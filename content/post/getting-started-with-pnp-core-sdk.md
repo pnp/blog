@@ -2,11 +2,11 @@
 title: "Getting started with PnP Core SDK"
 date: 2021-03-15T01:55:00-04:00
 author: "Paul Bullock"
+githubname: pkbullock
 categories: []
-images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -173,7 +173,7 @@ Microsoft 365 services and perform the page operations.
 Change the ***program.cs*** file using the following code:
  
 
-``` {.lia-code-sample .language-csharp}
+```csharp
 using System;
 
 // Add the relevant using statements for PnP Core
@@ -277,7 +277,7 @@ need to update the main method to include the "async" keyword and "Task"
 return type to allow the code inside to run.
  
 
-``` {.lia-code-sample .language-csharp}
+```csharp
  // Update main method for asynchronous 
  static async Task Main(string[] args)
 ```
@@ -294,7 +294,7 @@ the additional
 instructions](https://pnp.github.io/pnpcore/using-the-sdk/configuring%20authentication.html#configuring-pnp-core-sdk-to-use-the-configured-application).
  
 
-``` {.lia-code-sample .language-csharp}
+```csharp
 // Setup the host
 // This app uses interactive login
             
@@ -334,7 +334,7 @@ tenant. When authenticated, you are returned a context to perform
 further options using the connection.
  
 
-``` {.lia-code-sample .language-csharp}
+```csharp
 // Connect to SharePoint
 using (var scope = host.Services.CreateScope())
 {
@@ -352,7 +352,7 @@ Make a page** -- Now that you have connected and you have a context
 object, you can set to write code that interacts with the service.
  
 
-``` {.lia-code-sample .language-csharp}
+```csharp
 // Create the page
 var page = await context.Web.NewPageAsync();
 

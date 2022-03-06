@@ -14,7 +14,7 @@ summary: "CLI for Microsoft 365 is a cross platform command line tool you may us
 categories: ["CLI for Microsoft 365","PnP PowerShell"]
 tags: []
 type: "epic" # available type (epic, trending, popular, or regular)
-draft: false
+
 ---
 > *"Hey, do you have 5 min?"*\
 > *"Could you check one simple thing and let me know asap?"*
@@ -39,7 +39,7 @@ to manage many things. To name a few, you may manage OneDrive, Planner,
 Power Apps and Automate, Teams, Yammer, SharePoint (of course), now
 there is even a dedicated command to help you set up Viva. The list
 keeps on growing and growing, [check out the CLI for Microsoft
-365](https://pnp.github.io/cli-microsoft365/).\
+365](https://pnp.github.io/cli-microsoft365/).
 But it's not only about managing Microsoft 365. The CLI helps you also
 manage your own spfx environment (check out
 the [doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/))

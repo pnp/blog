@@ -2,15 +2,13 @@
 title: "Explore Microsoft 365 extensibility opportunities with the Microsoft 365 Extensibility look book"
 date: 2021-06-18T04:28:00-04:00
 author: "Waldek Mastykarz"
+githubname: WaldekMastykarz
 categories: ["Microsoft 365"]
-images: []
+images:
+- images/blog/explore-microsoft-365-extensibility-opportunities-with-the/thumbnail_image.png
 tags: []
 type: "regular"
-draft: false
-
 ---
-
-{{< image alt="k" src="images/blog/explore-microsoft-365-extensibility-opportunities-with-the/thumbnail_image.png" >}}
  
 Want to understand what types of apps you can build on Microsoft 365?
 Want to get inspired by the scenarios you could implement? Curious about

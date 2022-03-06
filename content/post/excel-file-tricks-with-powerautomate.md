@@ -1,14 +1,13 @@
 ---
 title: "Excel File Tricks with PowerAutomate"
 date: 2021-08-04T11:06:00-04:00
-author: "Damo Bird 365"
+author: "Damien Bird"
+githubname: DamoBird365
 categories: ["Power Automate"]
 images:
 - images/blog/excel-file-tricks-with-powerautomate/DamoBird365_0-1628093847880.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 
@@ -35,7 +34,7 @@ following:
 PowerAutomate and;
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 function main(workbook: ExcelScript.Workbook) {
     // Get all the worksheets in the workbook. 
     let sheets = workbook.getWorksheets();
@@ -51,7 +50,7 @@ array input, returning the number of sheets in the workbook (hopefully
 1!)
  
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 function main(workbook: ExcelScript.Workbook,
   SheetsToDelete: Array<string> = [],
 )
@@ -163,7 +162,7 @@ create table action. 
  
  
  
-``` {.lia-code-sample .language-json}
+```json
 {
   "Name": "@{items('Apply_to_each')?['Name']}",
   "Age": "@{items('Apply_to_each')?['Age']}",

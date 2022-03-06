@@ -14,10 +14,11 @@ summary: "During my SP consultant/dev work I most of the times used the last two
 categories: ["CLI for Microsoft 365","PnP PowerShell"]
 tags: []
 type: "epic" # available type (epic, trending, popular, or regular)
-draft: false
+
 ---
 
 ## The intro (what's up)
+
 There are many ways we may manage Microsoft 365. To name a few we may
 use [Microsoft Graph PowerShell
 SDK](https://docs.microsoft.com/en-us/graph/powershell/get-started) or
@@ -42,7 +43,7 @@ SharePoint, and sooner or later there was always a need of some small
 provision or other setup kind of script to be created (at least this was
 my story and most of the people I worked with). The first thing usually
 used was the [SharePoint
-PowerShell](https://docs.microsoft.com/en-us/sharepoint/sharepoint-powershell).\
+PowerShell](https://docs.microsoft.com/en-us/sharepoint/sharepoint-powershell).
 The next cool thing that happened was the SharePointPnPPowerShell
 2013/16/19 and all the improvements it gave. After some time it was the
 'must have tool' when it comes to developing PowerShell scripts to
@@ -259,7 +260,7 @@ picking the better one is the correct approach. If you are already using
 one of those tools try the other one. I strongly encourage you to try to
 reproduce one of your existing scripts you already have in tech you did
 not use to see the difference and maybe notice some improvements it
-might bring (or not).\
+might bring (or not).
 If you are already using both I would really love to here your opinion.
 Are you already using PnP.PowerShell or CLI for Microsoft 365? Or maybe
 both? Do you see some benefits of one over the other? Do you think one

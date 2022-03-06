@@ -2,12 +2,13 @@
 title: "Improving the Page Properties web part"
 date: 2021-04-06T01:18:00-04:00
 author: "mhomol"
+githubname: mhomol
 categories: ["SharePoint"]
 images:
 - images/blog/improving-the-page-properties-web-part/diff-screencap.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -60,7 +61,7 @@ fields that a user has selected for display in our web part. We intend
 on passing this property down to our React component. Here's a look at
 our property object:
 
-``` lang-javascript
+```javascript
 export interface IAdvancedPagePropertiesWebPartProps {
 title: string;
 selectedProperties: string[];
@@ -70,14 +71,14 @@ selectedProperties: string[];
 In our AdvancedPagePropertiesWebPart, we want to hold all possible
 properties for drop downs in a single array.
 
-``` lang-javascript
+```javascript
 private availableProperties: IPropertyPaneDropdownOption[] = [];
 ```
 
 Next, we need the following method to obtain the right types of
 properties for display:
 
-``` lang-javascript
+```javascript
   private async getPageProperties(): Promise<void> {
     Log.Write("Getting Site Page fields...");
     const list = sp.web.lists.getByTitle("Site Pages");
@@ -106,7 +107,7 @@ isn't done yet.
 
 We call the above method prior to loading up the property pane.
 
-``` lang-javascript
+```javascript
   protected async onPropertyPaneConfigurationStart(): Promise<void> {
     Log.Write(`onPropertyPaneConfigurationStart`);
     await this.getPageProperties();
@@ -118,7 +119,7 @@ We need handlers for adding and deleting a property and selecting a
 property from a dropdown. These methods make necessary changes to the
 selectedProperties array.
 
-``` lang-javascript
+```javascript
   protected onAddButtonClick (value: any) {
     this.properties.selectedProperties.push(this.availableProperties[0].key.toString());
   }
@@ -141,7 +142,7 @@ selectedProperties array.
 Finally, with all of our pieces in place, we can render our property
 pane with all it's needed functionality.
 
-``` lang-javascript
+```javascript
   protected getPropertyPaneConfiguration(): IPropertyPaneConfiguration {
     Log.Write(`getPropertyPaneConfiguration`);
 
@@ -206,7 +207,7 @@ for the theming, so I will not cover that in-depth, although you will
 see how it's being leveraged in the code snippets below. Here are the
 properties we plan to start with and respond to: 
 
-``` lang-javascript
+```javascript
 import { IReadonlyTheme } from '@microsoft/sp-component-base';
 import { WebPartContext } from "@microsoft/sp-webpart-base";
 
@@ -223,7 +224,7 @@ hooks. We want to trigger off of changes to our properties, so we will
 setup a reference to their current state. We will also establish our
 themeVariant and context at the start of our component.
 
-``` lang-javascript
+```javascript
 // Main state object for the life of this component - pagePropValues
   const [pagePropValues, setPagePropValues] = useState<PageProperty[]>([]);
   const propsRef = useRef(props);
@@ -238,7 +239,7 @@ themeVariant and context at the start of our component.
 So we are tracking the state of pagePropValues, which is an array of
 type PageProperty. What is PageProperty?
 
-``` lang-javascript
+```javascript
 import { IFieldInfo } from "@pnp/sp/fields";
 
 export interface PageProperty {
@@ -250,7 +251,7 @@ export interface PageProperty {
 Our effect is looking to see when changes are made to the properties,
 then is performing our core logic to refresh properties and values.
 
-``` lang-javascript
+```javascript
   /**
    * @description Effects to fire whenever the properties change
    */
@@ -269,7 +270,7 @@ metadata for each property that will assist in display and obtain all
 actual values for this property and the specific page id that we are
 viewing.
 
-``` lang-javascript
+```javascript
   /**
    * refreshProperties
    * @description Gets the actual values for any selected properties, along with critical field metadata and ultimately re-sets the pagePropValues state
@@ -337,7 +338,7 @@ TaxonomyFieldTypeMulti, MultiChoice and Thumbnail.
 
 Our function component returns the following:
 
-``` lang-javascript
+```javascript
   return (
     <div className={`${styles.advancedPageProperties} ${styles.container}`} style={{backgroundColor: semanticColors.bodyBackground, color: semanticColors.bodyText}}>
       {RenderTitle()}
@@ -348,7 +349,7 @@ Our function component returns the following:
 
 RenderTitle is pretty straightforward.
 
-``` lang-javascript
+```javascript
   /**
    * RenderTitle
    * @description Focuses on the 1 row layer, being the Title that has been chosen for the page
@@ -367,7 +368,7 @@ RenderPageProperties is the first of a 2-dimensional loop, where we want
 to display a section for each page property that was select, just like
 the original.
 
-``` lang-javascript
+```javascript
   /**
    * RenderPageProperties
    * @description Focuses on the 2nd row layer, which is the property names that have been chosen to be displayed (uses Title as the display name)
@@ -400,7 +401,7 @@ conversions and logic are done real-time as we display the values,
 including trying to achieve a slightly more modern SharePoint look using
 capsules for array labels.
 
-``` lang-javascript
+```javascript
   /**
    * RenderPagePropValue
    * @description Focuses on the 3rd and final row layer, which is the actual values tied to any property displayed for the page
@@ -490,7 +491,7 @@ of things I'd love to see it do. 
     original)
 -   Support for Boolean fields (just need the right idea for proper
     display, really)
--   Styling per property (ie. colorizing per property or something to
+-   Styling per property (i.e. colorizing per property or something to
     that effect)
 
 ## Conclusion 

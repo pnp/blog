@@ -2,12 +2,13 @@
 title: "PnP WatchParty for Microsoft's 'LearnTogether Building apps with Microsoft Graph' event"
 date: 2021-09-13T08:40:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Microsoft 365 community"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 ---
 
 The Microsoft 365 PnP Team would love to invite you to the Watch Party

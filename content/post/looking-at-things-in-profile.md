@@ -2,12 +2,13 @@
 title: "Looking at things in profile"
 date: 2021-09-29T08:40:00-04:00
 author: "Simon Hudson"
+githubname: SimonJHudson
 categories: ["Microsoft 365"]
 images:
-
+- images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -162,7 +163,7 @@ which uses the pre-modern SharePoint UI and profile service:
 
 1.  In the Display Name box, enter the profile property name that will
     be displayed to all users. (This name doesn't have to be unique.)
-2.  In the Type list, select the data type for the property.\
+2.  In the Type list, select the data type for the property.
      Note\
     If you select string (Multi Value), the property will be permanently
     set as a multi-valued property. You cannot change this setting after
@@ -194,7 +195,7 @@ which uses the pre-modern SharePoint UI and profile service:
     the user's real name. Select the Indexed if you want searches to
     return all the user profiles matching that property. For example, if
     you have a property for "University," a search for that value would
-    return all alumni from that university.\
+    return all alumni from that university.
      Note\
     The Alias check box is available only if you set the Default Privacy
     Setting > Everyone.

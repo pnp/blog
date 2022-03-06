@@ -3,11 +3,8 @@ title: "Get Associated Groups (Owners, Members, Visitors) of a SharePoint Site"
 date: 2021-07-19T03:14:00-04:00
 author: "Arjun Menon"
 categories: []
-images: []
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 There will be cases where you want to know the associated Owner or a
@@ -38,7 +35,7 @@ result something like below.
  
 
  
-``` {.lia-code-sample .language-json}
+```json
 {
     "AssociatedMemberGroup": {
         "Id": 5,

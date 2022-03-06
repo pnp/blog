@@ -2,12 +2,13 @@
 title: "Introduction to tokens"
 date: 2021-04-12T07:44:00-04:00
 author: "Lee Ford"
+githubname: LeeFord
 categories: []
 images:
 - images/blog/introduction-to-tokens/01ed60e47ba84e66b302a6ef0e9035d2.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -68,7 +69,6 @@ If you are still confused of the difference between **authentication**
 and **authorization**, [\@LuiseFreese](https://twitter.com/LuiseFreese)
 sums it up perfectly:
 {{< image alt="01ed60e47ba84e66b302a6ef0e9035d2.png" src="images/blog/introduction-to-tokens/01ed60e47ba84e66b302a6ef0e9035d2.png" >}}
-![](file:////home/lford/code/personal/draft_posts/TokenIntroduction/01ed60e47ba84e66b302a6ef0e9035d2.png)
 
 > The term "auth token" is widely used can become misleading as it
 > could be interpreted as an **authentication** (ID) or
@@ -95,8 +95,8 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFMVE16YWtpaGlSbGFfOHoyQkVKVlhlV01x
 ```
  
 Makes sense, right? Of course not. Azure AD ID and access tokens are
-also referred to as "JWTs" or JSON Web Tokens. This means that the
-token is formatted as a JSON object and then "base64Url" encoded and
+also referred to as \"JWTs\" or JSON Web Tokens. This means that the
+token is formatted as a JSON object and then \"base64Url\" encoded and
 signed and with a bit of extra security (we'll cover this soon), the
 end result is what we have above.
 > For an introduction in to JSON, I highly recommend Bob German's
@@ -107,7 +107,6 @@ end result is what we have above.
 Taking the sample above and putting in in to [jwt.ms](https://jwt.ms),
 it is possible to decode from "base64url" back to human-readable JSON.
 {{< image alt="e738e6ef6d6f41ab9e811c7d4e8d5371.png" src="images/blog/introduction-to-tokens/e738e6ef6d6f41ab9e811c7d4e8d5371.png" >}}
-![](file:////home/lford/code/personal/draft_posts/TokenIntroduction/e738e6ef6d6f41ab9e811c7d4e8d5371.png)
 
 You will now see a JWT is made up of 3 parts:
 
@@ -145,7 +144,7 @@ tokens such as:
 ### Validating a token 
 
 You may be thinking: I just decoded a token on a webpage - how is that
-secure? JWTs are typically "signed" (not encrypted) with an algorithm
+secure? JWTs are typically \"signed\" (not encrypted) with an algorithm
 and private key by the issuer of the token. This doesn't stop any of
 the payload or header from being decoded as the aim of a token isn't to
 hide information, but provide validity to it.

@@ -2,12 +2,13 @@
 title: "SharePoint community call - June 8th, 2021"
 date: 2021-06-09T05:06:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-community-call-june-8th-2021/210608-together-mode.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -203,7 +204,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** June 17th at 9:00 am PDT \|
     <https://aka.ms/IDDevCommunityCalendar>[ ]
-"*Too many links, can't remember*" - not a problem\... **just one
+\"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
 - <http://aka.ms/m365pnp>.
 *"Sharing is caring"*

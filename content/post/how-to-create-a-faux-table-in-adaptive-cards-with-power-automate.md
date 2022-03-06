@@ -2,12 +2,13 @@
 title: "How to create a (faux) table in Adaptive Cards with Power Automate"
 date: 2021-03-05T08:30:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Adaptive Cards", "Power Automate"]
 images:
 - images/blog/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/LuiseFreese_12-1629042402697.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -62,7 +63,7 @@ flexible.
 We start with a **Recurrence** trigger, set the **interval** to `1` and
 the **Frequency** to `Week`.
 
-![recurrence.png](https://github.com/LuiseFreese/blog/blob/main/media/how-to-create-table-in-adaptive-cards/recurrence.png?raw=true)
+![recurrence.png](https://github.com/LuiseFreese/blog/blob/main/media/how-to-create-table-in-adaptive-cards/recurrence.png?raw=true "recurrence.png")
 
 
 ### get Items (SharePoint) 
@@ -75,7 +76,7 @@ limit how many items you want to retrieve.
 
 
 
-![get-items.png](https://github.com/LuiseFreese/blog/blob/main/media/how-to-create-table-in-adaptive-cards/get-items.png?raw=true)
+![get-items.png](https://github.com/LuiseFreese/blog/blob/main/media/how-to-create-table-in-adaptive-cards/get-items.png?raw=true "get-items.png")
 
 ### Preparations to bind data and JSON schema of the Adaptive Card 
 
@@ -181,29 +182,24 @@ Let's break this into pieces:
 
 1.  First variable will be the upper part of the Adaptive Card in which
     we define the schema, a title and create a column set. 
-![initialize variable for card- upper
-part](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/varCard-initialize.png)2.
+![initialize variable for card- upper part](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/varCard-initialize.png)2.
 We initialize variables for the 3 Headers "Name", "Unicornibility" and
 "Party Readiness Index"
 
-![initialize var Column
-1](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/varColumn1-initialize.png)
+![initialize var Column 1](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/varColumn1-initialize.png)
  
 
-![initialize var Column
-2](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/varColumn2-initialize.png)
+![initialize var Column 2](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/varColumn2-initialize.png)
 ![initialize var Column
 3](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/varColumn3-initialize.png)
 3\. We create an **Apply to Each** and loop over the values of our
 SharePoint list for each column by appending our variables
 
-![initialize var Column
-3](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/apply-to-each.png)
+![initialize var Column 3](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/apply-to-each.png)
 We append the upper part of our card by the 3 columns (consisting of the
 headers and rows) and the actionset plus end of the card
 
-![append columns to
-card](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/append%20to%20Card.png)]
+![append columns to card](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/append%20to%20Card.png)]
 
 In case you wonder why we needed to somehow unclean cut the JSON --
 this is a bug in Power Automate. Although we defined our variables as
@@ -230,8 +226,7 @@ Adaptive Card is our card variable.
 
 
 
-![Adaptive
-Card](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/card.png)
+![Adaptive Card](https://github.com/LuiseFreese/blog/raw/main/media/how-to-create-table-in-adaptive-cards/card.png)
 
 ## Conclusion and what's next 
 

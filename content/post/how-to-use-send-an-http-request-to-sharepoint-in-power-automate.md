@@ -2,15 +2,16 @@
 title: "How to use Send an HTTP request to SharePoint in Power Automate?"
 date: 2021-06-15T01:50:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["SharePoint", "Power Automate"]
-images: []
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
 ## Introduction 
+
 Send an HTTP request to SharePoint action is used to execute REST
 queries. As we know when we want to perform any operations in SharePoint
 then we are using APIs so in the flow, we can use fro the same
@@ -19,6 +20,7 @@ For more details refer to
 [this](https://docs.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request).
 
 ## Implementation 
+
 We will create a SharePoint list and we will perform Create, Read,
 Update and Delete operations. we will create an instant flow. let's see
 step-by-step implementation.

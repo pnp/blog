@@ -2,12 +2,13 @@
 title: "Global Navigation In Modern SharePoint Using SPFx, PnP And Fluent UI"
 date: 2021-09-13T02:44:00-04:00
 author: "Dipen Shah"
+githubname: dips365
 categories: []
 images:
 - images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GN3.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -72,7 +73,7 @@ Create Term Set inside created Term Group
 -   Enable Use Term set for Site Navigation
 -   Copy term Set Id and Paste it in one document.
 
-Create Terms Inside create Term Sets.\
+Create Terms Inside create Term Sets.
 {{< image alt="Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI.gif" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI.gif" >}}
 
 **Step 2 - Create SPFx Solution for Application Customizer**
@@ -82,34 +83,34 @@ Open Node command Prompt.
 Go to your physical location where you want to create a solution.
 
 Once all required packages are installed then you will get the below
-message.\
+message.
 {{< image alt="GN3.jpg" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GN3.jpg" >}}
 
 Open Code in visual studio code by typing below one line code in node
 command prompt.
-``` {.lia-code-sample .language-powershell}
+```powershell
 C:\Demo\GlobalNavigation>code .
 ```
-The solution structure looks like the ad below.\
+The solution structure looks like the ad below.
 {{< image alt="GV3.jpg" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV3.jpg" >}}
 
 ## Step 3 - Import required packages from npm
 
 Install PnP npm package,
-``` {.lia-code-sample .language-javascript}
+```javascript
 npm install @pnp/sp
 ```
 Install React Fluent UI Package,\
-``` {.lia-code-sample .language-javascript}
+```javascript
 npm install @fluentui/react
 ```
-Install react and react Dom and Its Dev Dependencies.\
-``` {.lia-code-sample .language-javascript}
+Install react and react Dom and Its Dev Dependencies.
+```javascript
 npm install react@16.9.0 --save
 npm install react-dom@16.9.0 --save
 ```
-Open package.json file which should look like as below.\
-``` {.lia-code-sample .language-json}
+Open package.json file which should look like as below.
+```json
 {
   "name": "sample-demo-application",
   "version": "0.0.1",
@@ -159,14 +160,14 @@ Create 3 files inside the components folder.
 
 {{< image alt="GV4.jpg" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GV4.jpg" >}}
 Add below code to IGlobalNavProps.ts,
-``` {.lia-code-sample .language-javascript}
+```javascript
 export interface IGlobalNavProps {
     termGroupId:string;
     termSetId: string;
 }
 ```
 Add below code to IGlobalNavState.ts,\
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { IOrderedTermInfo } from '@pnp/sp/taxonomy';
 export interface IGobalNavState {
     loading: boolean;
@@ -174,7 +175,7 @@ export interface IGobalNavState {
 }
 ```
 Add below code to IGlobalNav.tsx,\
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import { IGlobalNavProps } from "./IGlobalNavProps";
 import { IGobalNavState } from "./IGlobalNavState";
@@ -207,7 +208,7 @@ code.
 
 **GobalNavigationBarApplicationCustomizer.ts\
 **
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
 import { sp } from "@pnp/sp";
@@ -299,7 +300,7 @@ Open GlobalNav.tsx file and do the below changes.
 **GlobalNav.tsx**
 
 Add below references to the file.
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { sp } from "@pnp/sp";
 import "@pnp/sp/taxonomy";
 import { dateAdd, PnPClientStorage } from "@pnp/common";
@@ -308,7 +309,7 @@ import { IOrderedTermInfo } from '@pnp/sp/taxonomy';
 const myKey: string = "navigationElements";
 ```
 Update below code to **GlobalNav.tsx.**
-``` {.lia-code-sample .language-javascript}
+```javascript
 private store = new PnPClientStorage();
    constructor(props: IGlobalNavProps) {
        super(props);
@@ -319,7 +320,7 @@ private store = new PnPClientStorage();
    }
 ```
 Update componentdidmount() method with below code in **GlobalNav.tsx.**\
-``` {.lia-code-sample .language-javascript}
+```javascript
 public componentDidMount() {
         this.setState({}, async () => {
             // this portion is responsible for getting terms from term store
@@ -338,7 +339,7 @@ public componentDidMount() {
 Open **GlobalNav.tsx **file.
 
 Add below code before default class.
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { IButtonStyles } from '@fluentui/react';
 import { createTheme, ITheme } from 'office-ui-fabric-react/lib/Styling';
 import { CommandBar, ICommandBarStyleProps } from "@fluentui/react/lib/CommandBar";
@@ -362,8 +363,8 @@ const buttonStyle: IButtonStyles = {
 };
 ```
 
-Create new method menuItems() in **GlobalNav.tsx **file.\
-``` {.lia-code-sample .language-javascript}
+Create new method menuItems() in **GlobalNav.tsx **file.
+```javascript
 private menuItems(menuItem: any, itemType: ContextualMenuItemType) {
         return ({
             key: menuItem.id,
@@ -383,7 +384,7 @@ private menuItems(menuItem: any, itemType: ContextualMenuItemType) {
     }
 ```
 Update render() method in GlobalNav.tsx file.
-``` {.lia-code-sample .language-javascript}
+```javascript
 public render(): React.ReactElement<IGlobalNavProps> {
         var commandBarItems: any[] = [];
         if (this.state.terms.length > 0) {
@@ -413,7 +414,7 @@ public render(): React.ReactElement<IGlobalNavProps> {
 Open "../config/serve.json" file and update a couple of properties.
 
 Update pageUrl Property and Properties,
-``` {.lia-code-sample .language-javascript}
+```javascript
 {
   "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
   "port": 4321,
@@ -447,19 +448,19 @@ Update pageUrl Property and Properties,
 }
 ```
 Run below command in Visual Studio Code Terminal.
-``` {.lia-code-sample .language-javascript}
+```javascript
 gulp clean
 gulp build
 gulp serve --config:"gobalNavigationBar"
 ```
 {{< image alt="Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png" >}}
-Copy URL which is highlighted in yellow and paste it into the browser.\
+Copy URL which is highlighted in yellow and paste it into the browser.
 {{< image alt="Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif" src="images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif" >}}
 
 ## Conclusion 
 
 We have implemented the SPFx solution and get terms from the term store
 using PnP and render items in the command bar which is fluent UI
-control.\
+control.
 \
 Happy Coding

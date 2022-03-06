@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 131"
 date: 2021-06-15T02:43:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: []
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-131/Thumb-Ep131.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -110,7 +111,7 @@ everyone for your contributions to the community!
     365?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-kind-of-apps-can-you-build-on-microsoft-365/ba-p/2434448?WT.mc_id=m365-31622-wmastyka)
     - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
     \| \@waldekm
--   [Use PnP Powershell to add a document library webpart to a page (and
+-   [Use PnP PowerShell to add a document library web part to a page (and
     only show a specific
     folder)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/use-pnp-powershell-to-add-a-document-library-webpart-to-a-page/ba-p/2428310?WT.mc_id=m365-31622-wmastyka)
     - [Marijn

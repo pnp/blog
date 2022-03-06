@@ -2,12 +2,14 @@
 title: "Office Add-in Samples - December 2021 update"
 date: 2021-12-20T02:59:00-05:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-in-samples-december-2021-update/outlook-event-based-activation.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

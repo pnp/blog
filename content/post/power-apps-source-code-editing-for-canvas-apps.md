@@ -2,12 +2,13 @@
 title: "source code editing for Canvas Apps"
 date: 2021-07-01T08:40:00-04:00
 author: "Django Lohn"
+githubname: m3ngi3
 categories: ["Power Apps", "Tooling"]
 images:
-
+- images/blog/power-apps-source-code-editing-for-canvas-apps/PowerApps_Page_Unresponsive.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -38,7 +39,7 @@ Canvas Apps. It will also show you that GitHub it is not per se needed.
 
 I still recommend to read the Microsoft post first. There is a lot of
 potential in using GitHub as your code repository. There are also some
-Youtube video's on how to perform most of the steps explained in further
+YouTube video's on how to perform most of the steps explained in further
 detail. This post just focuses on how to use the tooling without a
 GitHub setup.
 
@@ -47,13 +48,13 @@ GitHub setup.
 .xml and .yaml), making up your whole Power App :woman_technologist:.
 
 You can download your .msapp file by opening the Power App in the online
-Studio. Then selecte **Save as** and select **This computer** as your
+Studio. Then select **Save as** and select **This computer** as your
 destination. A popup should appear that offers you to download the
 .msapp file:\
 {{< image alt="Save your .msapp file to a local destination" src="images/blog/power-apps-source-code-editing-for-canvas-apps/PowerApps_Studio_SaveAs.png" >}}
 
 
-{{< image alt="" src="images/blog/power-apps-source-code-editing-for-canvas-apps/.png" >}}
+{{< image alt="" src="images/blog/power-apps-source-code-editing-for-canvas-apps/PowerApps_ExportPackage.png" >}}
 
 
 2)  I then move the .msapp file to a folder within my Downloads
@@ -118,7 +119,7 @@ cd C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master\PowerApps-Lan
 ```
 
 
-{{< image alt="" src="images/blog/power-apps-source-code-editing-for-canvas-apps/.png" >}}
+{{< image alt="" src="images/blog/power-apps-source-code-editing-for-canvas-apps/CommanPromptAsAdministrator_ChangeDirectory.png" >}}
 
 
 **8)** Execute the following command to unpack the .msapp files to the

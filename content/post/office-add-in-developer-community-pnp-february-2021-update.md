@@ -2,12 +2,14 @@
 title: "Office Add-in Developer Community (PnP) -- February 2021 update"
 date: 2021-03-19T02:01:00-04:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-in-developer-community-pnp-february-2021-update/create-custom-contextual-tabs-on-the-ribbon.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 The Office Add-ins developer platform team has new updates to share this

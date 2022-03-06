@@ -2,12 +2,13 @@
 title: "QuickBooks API Integration With Power Automate Using Custom Connectors"
 date: 2021-08-09T08:43:00-04:00
 author: "Siddharth Vaghasia"
+githubname: siddharth-vaghasia
 categories: ["Power Automate"]
 images:
 - images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_0-1628135161016.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -287,15 +288,15 @@ TO
 
 For Get Invoice parameters we added
 
-\- {name: companyid, default: '{{companyid}}', in: path, type: string,
+- {name: companyid, default: '{{companyid}}', in: path, type: string,
 required: true}
 
-\- {name: invoiceId, default: '{{invoiceId}}', in: path, type: string,
+- {name: invoiceId, default: '{{invoiceId}}', in: path, type: string,
 required: true}
 
 For Create Invoice parameters we added.
 
-\- {name: companyid, default: '{{companyid}}', in: path, type: string,
+- {name: companyid, default: '{{companyid}}', in: path, type: string,
 required: true}
 
 This is how it will look after the change.

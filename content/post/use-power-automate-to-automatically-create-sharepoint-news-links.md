@@ -2,12 +2,13 @@
 title: "Use Power Automate to automatically create SharePoint News Links from an RSS feed"
 date: 2021-04-15T08:40:00-04:00
 author: "Will Holland"
+githubname: willholland
 categories: ["Power Automate", "SharePoint"]
 images:
 
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -18,7 +19,7 @@ with is that folks within the organization frequently are unaware of
 press releases, blogs, or other information the organization is publicly
 sharing. In fact, I'm guilty of it as well. On numerous occasions,
 I've gone to a coworker for some quick troubleshooting only to be told
-"I wrote a blog for that".
+\"I wrote a blog for that\".
 
 
 Now that Microsoft Viva Connections is here, I've been putting a lot of
@@ -80,7 +81,7 @@ the below image.
 
 Thankfully, SharePoint has a handy-dandy little service hidden away that
 can help.
-If you ever created a new "News Link", you'll know that you simply
+If you ever created a new \"News Link\", you'll know that you simply
 give SharePoint the URL to your article and it auto-magically snags the
 title, summary and a thumbnail image to use. If you open up your
 browser's developer tools, you can see that SharePoint calls this

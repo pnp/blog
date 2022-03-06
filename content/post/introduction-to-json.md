@@ -2,11 +2,12 @@
 title: "Introduction to JSON"
 date: 2021-02-10T11:47:00-05:00
 author: "Bob German"
+githubname: BobGerman
 categories: []
 images: []
 tags: []
-type: "regular"
-draft: false
+type: "epic"
+
 
 ---
 
@@ -31,7 +32,7 @@ organized in order from simple to complex; if you don't need some
 sections, just skip over them; you can always come back and read them
 later!
 
-![AdaptiveCardJSON.png](/t5/image/serverpage/image-id/245271i2E8CD8FAF7FA3C64/image-size/large?v=v2&px=999 "AdaptiveCardJSON.png")
+{{< image alt="AdaptiveCardJSON.png" src="images/blog/introduction-to-json/AdaptiveCardJSON.png" >}}
 
 
  Working with JSON in the [Adaptive Card
@@ -64,7 +65,7 @@ valid JSON, `{}`, represents an empty object. The JSON example above
 contains a single name/value pair; the name is `name` and the value
 is `"Parker"`. As you can see, the name and value are separated by
 a `:`. Names are case sensitive and need to be enclosed in double
-quotes. In this case, since "Parker" is a text value, it's enclosed
+quotes. In this case, since \"Parker\" is a text value, it's enclosed
 in double quotes as well. Spaces, tabs, and newlines are ignored in
 JSON, but are helpful for readability.
 
@@ -88,7 +89,7 @@ is equivalent to the one above:
       "name": "Parker"
     }
 ```
-The values don't need to be text like "Parker"; they can also be
+The values don't need to be text like \"Parker\"; they can also be
 numbers, booleans, collections, or more JSON objects. This allows you to
 have objects within objects.
 Here's a more complete description of the Quilled Crusader that uses
@@ -135,7 +136,7 @@ quote in it? `"Parker says "Sharing is caring""` is not a valid JSON
 value because the parser thinks the `"` before `Sharing` is the end of
 the string, and then it gets really confused. (Computers are really
 stupid, aren't they?) So to put a `"` within a string, you need to
-"escape" it by preceding it with a `\`. For example:
+\"escape\" it by preceding it with a `\`. For example:
 
     {
       "name": "Parker",

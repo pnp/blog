@@ -2,12 +2,13 @@
 title: "How to convert HTML content or file to PDF using the Muhimbi API?"
 date: 2022-01-05T02:25:00-05:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["Power Automate"]
 images:
 - images/blog/how-to-convert-html-content-or-file-to-pdf-using-the-muhimbi-api/ChandaniPrajapati_0-1639758794000.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -52,7 +53,7 @@ code tool. Here, I am using the VS code, so I will execute the command:
 Now go to the ***src \> webparts \> webpart \> components
 \>** **I{webpartname}Props.ts*** file and at here we will create some
 properties.
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { WebPartContext } from "@microsoft/sp-webpart-base";
 import { HttpClient } from "@microsoft/sp-http";
 
@@ -67,7 +68,7 @@ export interface IMuhimbiExportHtmlContentToPdfProps {
 
 Create a file ***I{webpartname}State.ts** *inside ***src \> webparts \>
 webpart \> components*** and create a state interface as below,
-``` {.lia-code-sample .language-javascript}
+```javascript
 export interface IMuhimbiExportHtmlContentToPdfState{
     showLoader: boolean;
 }
@@ -92,7 +93,7 @@ base64, create a body, and pass some required properties to the
 **downlaodFile** function.
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { HttpClient, IHttpClientOptions, HttpClientResponse } from '@microsoft/sp-http';
 import { WebPartContext } from "@microsoft/sp-webpart-base";
 
@@ -183,7 +184,7 @@ configuration.
 3\. Set properties value in render() so we can use it in the component.
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
 import { Version } from '@microsoft/sp-core-library';
@@ -280,7 +281,7 @@ PDF. So here we will update the **showLoader** state and as per state,
 we will render data and spinner while the file is downloading.
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import styles from './MuhimbiExportHtmlContentToPdf.module.scss';
 import { IMuhimbiExportHtmlContentToPdfProps } from './IMuhimbiExportHtmlContentToPdfProps';

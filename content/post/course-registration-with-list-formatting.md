@@ -2,12 +2,13 @@
 title: "Course registration with List formatting"
 date: 2022-01-17T12:43:00-05:00
 author: "Dennis Goedegebuure"
+githubname: expiscornovus
 categories: ["SharePoint"]
 images:
 - images/blog/course-registration-with-list-formatting/51695169286_ae7588984b_c.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -43,7 +44,7 @@ this. Feel free to reuse it.
  
  
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 <# .SYNOPSIS
     Create list for Course registration.
 .DESCRIPTION
@@ -89,7 +90,7 @@ Format this column.
  
  
  
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
   "elmType": "div",
@@ -201,7 +202,7 @@ is done in the display property of the div.
  
  
  
-``` {.lia-code-sample .language-json}
+```json
 if(indexOf([$PeopleWhoRegistered.email], ) == -1 && length([$PeopleWhoRegistered]) != [$NumberofPlaces] && @now <= [$RegistrationEndDate], 'inherit','none')
 ```
  
@@ -216,12 +217,12 @@ a [IndexOf](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customi
 operator and
 a [\@me](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/formatting-syntax-reference#special-string-values) special
 string value. When the expression returns -1 it hasn't found the e-mail
-and the button will still be shown.\
+and the button will still be shown.
 2. It will compare
 the [length](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/formatting-syntax-reference#operators) unary
 operator to check the number of people registered for the current
 course. When that isn't equal the number of available places the
-register button will still be shown.\
+register button will still be shown.
 3. If the current date is before the registration date the register
 button will still be shown.
 The [\@now](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/formatting-syntax-reference#special-string-values) special
@@ -232,7 +233,7 @@ show a custom message when one of the conditions is met.
  
  
  
-``` {.lia-code-sample .language-json}
+```json
 {
           "elmType": "button",
           "customRowAction": {

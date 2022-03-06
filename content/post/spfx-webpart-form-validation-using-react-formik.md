@@ -1,20 +1,17 @@
 ---
-title: "SPFx webpart form validation using React Formik"
+title: "SPFx web part form validation using React Formik"
 date: 2021-05-26T05:56:00-04:00
 author: "Chandani Prajapati"
-categories: [ "Sharepoint"]
+categories: [ "SharePoint"]
 images:
 - images/blog/spfx-webpart-form-validation-using-react-formik/Output.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
 
- {.lia-message-body-wrapper .lia-component-message-view-widget-body}
- {#bodyDisplay .lia-message-body itemprop="text"}
- lia-message-body-content
 ## Introduction 
 
 Formik is the world's most popular open-source form library for React
@@ -76,10 +73,13 @@ After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
     code .
 Now we will install the following packages:
+```bash
     npm i formik
     npm i yup
     npm i @pnp/spfx-controls-react
     npm i @microsoft/sp-dialog
+```
+
 In the end, our output will be like this,
 {{< image alt="Output.png" src="images/blog/spfx-webpart-form-validation-using-react-formik/Output.png" >}}
 
@@ -97,7 +97,7 @@ In the end, our structure will be looks like this,
  
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 export interface IReactFormikState {
   projectName?: string;
   startDate?: any;
@@ -111,7 +111,7 @@ export interface IReactFormikState {
  
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import "@pnp/sp/webs";
 import "@pnp/sp/lists";
 import "@pnp/sp/items";
@@ -149,7 +149,7 @@ current SP context and read site URL from user.
  
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
 import { Version } from '@microsoft/sp-core-library';
@@ -264,7 +264,7 @@ the SharePoint list
  
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import styles from './ReactFormik.module.scss';
 import { IReactFormikProps } from './IReactFormikProps';
@@ -480,9 +480,9 @@ Find the full source code
 ## Summary   
 
 In this article, we have seen how to implement react formik library in
-SPFx.\
+SPFx.
 \
-I hope this helps.\
+I hope this helps.
 \
 Sharing is caring!!
  

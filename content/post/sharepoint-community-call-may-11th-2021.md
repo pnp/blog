@@ -2,12 +2,13 @@
 title: "SharePoint community call - May 11th, 2021"
 date: 2021-05-11T11:59:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-community-call-may-11th-2021/210511-together-mode.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -217,7 +218,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/microsoftgraphcall>
 -   **SharePoint monthly call --** June 8th at 8:00am PDT \|
     <https://aka.ms/sp-call>
-"*Too many links, can't remember*" - not a problem\... **just one
+\"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
 - <http://aka.ms/m365pnp>.
 *"Sharing is caring"*

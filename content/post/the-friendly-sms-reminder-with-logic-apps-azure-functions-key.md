@@ -2,12 +2,13 @@
 title: "The friendly SMS reminder with Logic Apps, Azure Functions + Key Vault"
 date: 2021-07-26T03:43:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Azure Logic Apps", "Azure"]
 images:
 - images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/AzureCreateResource.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 ## Learn how to combine Logic Apps, Azure Functions & Key Vault to send a friendly SMS reminder
@@ -472,7 +473,7 @@ Select the **Delete** icon -- please check twice to delete the right
 settings! 
 
 Now we need to make sure that our Azure function looks at the right app
-settings.\
+settings.
 Select **Functions**
 
 -   Select your function 

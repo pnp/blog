@@ -2,12 +2,12 @@
 title: "Adaptive Cards Community Call - June 2021"
 date: 2021-07-09T05:19:00-04:00
 author: "Matt Hidinger"
+githubname: MattHidinger
 categories:  ["Adaptive Cards community call recordings"]
-images: []
+images:
+- images/blog/adaptive-cards-community-call-june-2021/Adaptive Cards Thumb_June 2021.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 

@@ -2,16 +2,13 @@
 title: "CLI for Microsoft 365 v4.3"
 date: 2022-01-08T11:19:00-05:00
 author: "Garry Trinder"
+githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/cli-for-microsoft-365-v4-3/banner-cli-m365.png
 tags: []
 type: "regular"
-draft: false
-
 ---
-
-{{< image alt="5" src="images/blog/cli-for-microsoft-365-v4-3/banner-cli-m365.png" >}}
 
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform 
 
@@ -84,7 +81,7 @@ execute:
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo web get --webUrl https://contoso.sharepoint.com --output csv
 ```
  
@@ -104,7 +101,7 @@ To retrieve a list of Power Apps in a given environment, execute:
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 pa app list --environment Default-d87a7535-dd31-4437-bfe1-95340acd55c5
 ```
  
@@ -121,7 +118,7 @@ execute:
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad user get --email AarifS@contoso.onmicrosoft.com
 ```
  
@@ -143,7 +140,7 @@ To retrieve an Azure AD app registration by its name, execute:
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad app get --name "My app"
 ```
  
@@ -161,7 +158,7 @@ password validation policy, execute:
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad user password validate --password "cli365P@ssW0rd"
 ```
  
@@ -178,7 +175,7 @@ To create a new Azure AD app registration with a specified name and
 store the information locally in a *.m365rc.json* file, execute:
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad app add --name 'My AAD app' --save
 ```
  
@@ -189,7 +186,7 @@ To list the API permissions for the Azure AD app registered in the
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 app permission list
 ```
  
@@ -210,7 +207,7 @@ execute:
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 search externalconnection add --id MyApp --name "My application" --description "Description of your application"
 ```
  
@@ -227,7 +224,7 @@ To create a task in a given plan and bucket by their IDs, execute:
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 planner task add --title "My Planner Task" --planId "8QZEH7b3wkSbGQobscsM5gADCBa" --bucketId "IK8tuFTwQEa5vTonM7ZMRZgAKdna"
 ```
  
@@ -237,7 +234,7 @@ To create a completed task in a plan owned by a group, execute:
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 planner task add --title "My Planner task" --planName "My Planner Plan" --ownerGroupName "My Planner Group" --bucketId "IK8tuFTwQEa5vTonM7ZMRZgAKdna" --percentComplete 100
 ```
  
@@ -248,7 +245,7 @@ execute:
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 planner task add --title "My Planner Task" --planId "8QZEH7b3wkSbGQobscsM5gADCBa" --bucketId "IK8tuFTwQEa5vTonM7ZMRZgAKdna" --assignedToUserNames "Allan.Carroll@contoso.com,Ida.Stevens@contoso.com" --dueDateTime "2021-12-16"
 ```
  
@@ -267,7 +264,7 @@ To retrieve all installed languages from a given site, execute: 
  
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo web installedlanguage list --webUrl https://contoso.sharepoint.com
 ```
  

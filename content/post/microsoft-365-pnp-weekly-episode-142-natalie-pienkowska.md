@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 142 - Natalie Pienkowska (Microsoft)"
 date: 2021-11-09T02:23:00-05:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-142-natalie-pienkowska/Thumb-Ep142-November8.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 # [ [Microsoft 365 PnP Weekly - Episode 142 - Natalie Pienkowska (Microsoft)](/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-142-natalie-pienkowska/ba-p/2939019){#link_6 .page-link .lia-link-navigation .lia-custom-event} ]{.lia-message-unread} {#microsoft-365-pnp-weekly---episode-142---natalie-pienkowska-microsoft-1 .message-subject itemprop="name"}

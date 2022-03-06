@@ -2,13 +2,12 @@
 title: "Break And Change List Item Permission Using PnP JS In SPFx"
 date: 2021-03-17T07:38:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["PNPJS", "SPFx"]
 images:
 - images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/FirstOP.png
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 ## Introduction
@@ -44,7 +43,7 @@ Now we will implement the logic for break permission as below,
 
 ## Setting list item permission to multiple users:
 
-{{< image alt="Multiple users.png" src="images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/Multiple users.png" >}}
+![Multiple users.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/264763i84749D19C5917FD1/image-size/large?v=v2&px=999 ")
 
 Here logic will be the same as above. just have to add one array with
 required user IDs and then will iterate this array and set the

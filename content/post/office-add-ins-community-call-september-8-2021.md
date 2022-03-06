@@ -2,12 +2,14 @@
 title: "Office Add-ins community call -- September 8, 2021"
 date: 2021-09-16T10:45:00-04:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-september-8-2021/officeadd-ins.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -91,11 +93,11 @@ Updates for add-ins happen as follows.
 manifest, the add-in requires that the admin upload a new manifest file
 to support metadata changes. The next time the relevant Office
 applications start, the add-in will update. The web application can
-change at any time.\
+change at any time.
 **Office Store add-in:**  When an admin previously selected an add-in
 from the Office Store, if there is an update available, the next time
 the relevant Office applications start, the add-in will update. The web
-application can change at any time.\
+application can change at any time.
 For more information, see [Test and deploy Microsoft 365 Apps by
 partners in the Integrated apps
 portal](https://docs.microsoft.com/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps?view=o365-worldwide#more-about-office-add-ins-security).

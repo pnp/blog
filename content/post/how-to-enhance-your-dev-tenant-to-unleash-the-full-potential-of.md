@@ -2,6 +2,7 @@
 title: 'How to enhance your "dev tenant" to unleash the full potential of the Power Platform'
 date: 2021-02-23T12:13:00-05:00
 author: "Michael Roth"
+githubname: MichaelRoth42
 categories: ["Microsoft 365", "Power Platform", "Tooling"]
 images:
 - images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/devtenant-micha.png
@@ -45,7 +46,7 @@ documentation. In this environment you get a lot of possibilities which
 are not included in the Power Apps license seeded in the Microsoft 365
 E5 license:
 
--   You can use premium connectors (only for datasources within Power
+-   You can use premium connectors (only for data sources within Power
     Apps)
 -   You can build unlimited custom connectors
 -   You can use Dataverse
@@ -88,7 +89,8 @@ You don't have to, so choose wisely.
 And naturally by clicking on **Start** you confirm that you've read the
 terms and conditions and the Microsoft Privacy Policy. So maybe it's a
 good point to read them ;)
-{{< image alt="A pop up asking you to agree to the terms and conditions and decide if you want to share your information and get email offers from Microsoft" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/almost.png" >}}
+![A pop up asking you to agree to the terms and conditions and decide if you want to share your information and get email offers from
+Microsoft](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/256944i170AD02568EC2836/image-size/large?v=v2&px=999 "almost.png")
 
 Don't you worry, you're almost done. In order to start with the Power
 Apps Community Plan you need to choose the country you're using the

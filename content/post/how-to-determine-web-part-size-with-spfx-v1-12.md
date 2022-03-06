@@ -2,12 +2,13 @@
 title: "How to determine web part size with SPFx v1.12"
 date: 2021-03-23T03:55:00-04:00
 author: "Yves Habersaat"
+githubname: yhabersaat
 categories: ["SharePoint"]
 images:
 - images/blog/how-to-determine-web-part-size-with-spfx-v1-12/web-part-width.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -30,13 +31,13 @@ v.1.12 and React framework.
 In your web part TS file, you can add the **onAfterResize()** method to
 get notified when the web part is resized (for example when you resize
 your window):
-``` {.lia-code-sample .language-javascript}
+```javascript
   protected onAfterResize(newWidth: number) {
     console.log("New web part width: " + newWidth);
   }
 ```
 This new method is documented as below:
-``` {.lia-code-sample .language-javascript}
+```javascript
 This API is invoked when the web part container dom element width is changed, e.g. when the browser window is resized and when the property pane is toggled open/closed.
 
 @param newWidth — Width (in pixels) of the container for the web part after the resize event.
@@ -48,7 +49,7 @@ Web parts should utilize this method to perform operations such as potentially r
 ```
 Then you can use the **width** property as a prop for your React
 component:
-``` {.lia-code-sample .language-javascript}
+```javascript
   public render(): void {
     const element: React.ReactElement<IDemoWebPartWidthProps> = React.createElement(
       DemoWebPartWidth,
@@ -62,7 +63,7 @@ component:
   }
 ```
 This new property is documented as below:
-``` {.lia-code-sample .language-javascript}
+```javascript
 This propery returns the width of the container for the web part.
 
 @returns — Width (in pixels) of the container for the web part.
@@ -76,7 +77,7 @@ This function retrieves web part's key to get stored section width from cache. I
 In the case where getWebPartCacheKey is not passed down, it will go through the original workflow to caculate web part width.
 ```
 And you can display it in your component render() method:
-``` {.lia-code-sample .language-javascript}
+```javascript
 <p className={ styles.description }>Web part width = { this.props.webPartWidth }</p>
 ```
 Final result of this demo web part:

@@ -2,12 +2,13 @@
 title: "Microsoft 365 Platform Call -- 14th of September, 2021"
 date: 2021-09-15T10:49:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-14th-of-september-2021/recording-14th-september-m365platform-call.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -89,7 +90,7 @@ the betterment of this community.  Stay well.  See you soon.  
 **Demos** delivered in this session
 
 -   **Introduction to new modernized SharePoint Store** -- with the
-    mid-August GA release, My Apps and Sharepoint Store pages have been
+    mid-August GA release, My Apps and SharePoint Store pages have been
     modernized along with the experience for requesting & installing
     SPFx apps.   User and the administrator (tenant wide) experiences in
     both classic and modern UIs are shown.   New capabilities -
@@ -213,7 +214,7 @@ slides.
     Service ](https://provisioning.sharepointpnp.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
-    Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
+    GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast

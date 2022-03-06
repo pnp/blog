@@ -2,12 +2,13 @@
 title: "Microsoft Graph Fundamentals learning path -- Module 3"
 date: 2021-04-07T06:55:00-04:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Microsoft Graph"]
 images:
 - images/blog/microsoft-graph-fundamentals-learning-path-module-3/GraphFun-image.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -90,7 +91,7 @@ on to view their profile picture.
 
 ### time to run our app
 
-Like in Module 2, open your terminal (I use the built-in Powershell in
+Like in Module 2, open your terminal (I use the built-in PowerShell in
 Visual Studio Code) and type in \`npm start\`, which will open your
 browser with \`localhost:8080\`.
 

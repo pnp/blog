@@ -13,7 +13,7 @@ description: "This is meta description"
 categories: ["creativity","natural"]
 tags: ["color","recipe","fish"]
 type: "regular" # available type (epic, trending, popular, or regular)
-draft: false
+
 ---
 It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
 are reaching out to digital agencies, responding to the new possibilities available. However, the industry

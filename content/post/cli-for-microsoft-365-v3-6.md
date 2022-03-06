@@ -2,17 +2,17 @@
 title: "CLI for Microsoft 365 v3.6"
 date: 2021-02-27T02:51:00-05:00
 author: "Waldek Mastykarz"
+githubname: WaldekMastykarz
 categories: ["CLI for Microsoft 365"]
-images: []
 tags: []
 type: "regular"
-draft: false
-
 ---
 We've just published a new version of the CLI for Microsoft 365 with new
 commands for working with and managing Microsoft 365 tenants and
 SharePoint Framework projects on any platform.
+
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform
+
 CLI for Microsoft 365 is a cross-platform CLI that allows you to manage
 various configuration settings of Microsoft 365 and SharePoint Framework
 projects no matter which operating system or shell you use.
@@ -26,6 +26,7 @@ system you use. Additionally, using CLI for Microsoft 365, you can
 manage your SharePoint Framework projects.
  
 ## New version of CLI for Microsoft 365 -- v3.6 
+
 Following our monthly release cadence, we released this new version of
 CLI for Microsoft 365 with some new commands and improvements. Here are
 some of the most noteworthy additions. For the full list of changes, see
@@ -33,6 +34,7 @@ our [release
 notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v360).
 
 ### Ensure SharePoint site
+
 When building provisioning scripts, you often need to check if a
 particular site already exists. If it doesn't, you need to create it.
 If it does, you need to check if it has the necessary settings.
@@ -45,20 +47,23 @@ To help you easily ensure that sites with the right configuration
 exists, we introduce the `spo site ensure` command. Using this command,
 you can for example easily ensure that a site exists at the specified
 URL and create one if it doesn't:
-``` sh
+```sh
 m365 spo site ensure --url https://contoso.sharepoint.com/sites/team1 --alias team1 --title "Team 1"
 ```      
+
 Using the command you can also ensure that the site that exists has the
 right type and properties:
-``` sh
+```sh
 m365 spo site ensure --url https://contoso.sharepoint.com/sites/team1 --alias team1 --title "Team 1" --isPublic --shareByEmailEnabled
 ``
+
 This is the first `ensure` command that we introduce in CLI for
 Microsoft 365. We'd love you to give it a try and tell us what you
 think. For more information about what's possible, see the [command's
 documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-ensure/).
 
 ### Configure SharePoint site chrome
+
 Microsoft is continuously investing in modernizing SharePoint. With
 every update, we get more features to build rich portals in a robust and
 future-ready way. One of the recently introduced features is site chrome
@@ -67,18 +72,18 @@ that allows you to control how the site's header and footer look like.
 In this version of CLI for Microsoft 365, we introduce a command that
 allows you to control site's chrome.
 To show site's header in compact mode, execute:
-``` sh
+```sh
 m365 spo site chrome set --url https://contoso.sharepoint.com/sites/project-x --headerLayout Compact
 ```
  
 To show site's header in extended mode and align the logo to the right,
 execute:
-``` sh
+```bash
 m365 spo site chrome set --url https://contoso.sharepoint.com/sites/project-x  --headerLayout Extended --logoAlignment Right
 ```
  
 To disable the footer, execute:
-``` sh
+```bash
 m365 spo site chrome set --url https://contoso.sharepoint.com/sites/project-x --disableFooter true
 ```
  
@@ -86,17 +91,19 @@ For the full list of supported settings, see the [command's
 documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-chrome-set/).
  
 ### Copy SharePoint pages and page templates
+
 When working with pages and page templates, you might want to copy
 specific pages or page templates in bulk. The easiest way to automate
 it, is using CLI for Microsoft 365.
  
 In this version we introduce a command that let's you copy the
 specified page or page template. To copy a page template, execute:
-``` sh
+```bash
 m365 spo page copy --webUrl https://contoso.sharepoint.com/sites/team-a --sourceName "templates/PageTemplate.aspx" --targetUrl "page.aspx"
 ```
+
 To copy a page to another site, execute:
-``` sh
+```bash
 m365 spo page copy --webUrl https://contoso.sharepoint.com/sites/team-a --sourceName "templates/PageTemplate.aspx" --targetUrl "https://contoso.sharepoint.com/sites/team-b/sitepages/page.aspx"
 ```
  
@@ -104,6 +111,7 @@ For the full list of supported options, see the [command's
 docs](https://pnp.github.io/cli-microsoft365/cmd/spo/page/page-copy/).
  
 ### Manage Power Apps
+
 More and more organizations use Power Apps to automate their work. With
 Power Apps, they can build applications for their business processes
 with little to no code.
@@ -112,27 +120,30 @@ To help organizations manage their Power Apps, we introduce in this
 version three new commands.
 First, we let you get the list of your Power Apps environments, by
 executing:
-``` sh
+```bash
 m365 pa environment list
 ```
  
 To get more information about a specific environment, execute:
-``` sh
+```bash
 m365 pa environment get --name Default-d87a7535-dd31-4437-bfe1-95340acd55c5
 ```
  
 To get information about a specific app, execute:
-``` sh
+```bash
 m365 pa app get --name 3989cb59-ce1a-4a5c-bb78-257c5c39381d
 ```
 These commands extend our set of Power Platform commands. For the list
 of all commands for Power Platform, see the
 [documentation](https://pnp.github.io/cli-microsoft365/cmd/pa/environment/environment-list/).
+
 ### Changes
+
 We've continued improving CLI, building upon the changes we've
 introduced in the previous version.
  
 #### Browser-based login
+
 Many organizations become more and more conscious about their security
 posture. As their awareness matures, they implement more measure to
 ensure that they can work securely. One of such measures is conditional
@@ -189,7 +200,7 @@ Microsoft 365.
 In this version, we made it even easier by introducing an alias for the
 resource. If you called SharePoint previously using CLI for Microsoft
 365, you can quickly get an access token for SharePoint by executing:
-``` sh
+```bash
 m365 util accesstoken get --resource sharepoint
 ```
  
@@ -299,12 +310,12 @@ it's something you'd like us to implement for other commands as well.
 
 Get the latest release of the CLI for Microsoft 365 from npm by
 executing in the command line:
-``` sh
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
 Alternatively, you can get the latest release from Docker by executing
 in the command line:
-``` sh
+```bash
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
 If you need more help getting started or want more details about the
@@ -314,4 +325,3 @@ If you see any room for improvement, please, don't hesitate to reach out
 to us either on
 [GitHub](https://github.com/pnp/office365-cli/discussions) or
 [twitter](https://twitter.com/climicrosoft365).
-![](https://telemetry.sharepointpnp.com/m365dev-blog/cli-microsoft-365-3-6)

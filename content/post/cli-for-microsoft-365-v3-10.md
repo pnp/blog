@@ -2,12 +2,13 @@
 title: "CLI for Microsoft 365 v3.10"
 date: 2021-05-30T11:31:00-04:00
 author: "Garry Trinder"
+githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/cli-for-microsoft-365-v3-10/banner-cli-m365.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -49,7 +50,7 @@ commands which makes it easier to work with command responses. In the
 example below that uses PowerShell we can convert the JSON response into
 a PowerShell object using the *ConvertFrom-Json* cmdlet.
 
-``` {.lia-code-sample .language-bash}
+```bash
 $lists = m365 todo list list -o json | ConvertFrom-Json
 ```
 
@@ -74,7 +75,7 @@ default output type for errors, execute:
 
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 cli config set --key printErrorsAsPlainText --value false
 ```
 
@@ -113,7 +114,7 @@ permissions during authorization. 
 To return the roles published by an Azure AD application registration by
 its name, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 aad app role list --appName "My app"
 ```
  
@@ -125,7 +126,7 @@ outputs to be JSON rather than text.
  
 To return the current value of a CLI configuration option, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 cli config get --key output
 ```
  
@@ -142,7 +143,7 @@ file add* command will remain to provide backwards compatibility.
  
 To add a file to a specific site, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 file add --filePath file.pdf --folderUrl "https://contoso.sharepoint.com/Shared Documents"
 ```
  
@@ -155,7 +156,7 @@ remove Power Apps from an environment.
  
 To remove a specified Microsoft Power App, execute: 
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 pa app remove --name 3989cb59-ce1a-4a5c-bb78-257c5c39381d
 ```
  
@@ -169,7 +170,7 @@ add that support.
 To update a specific application permission by its name on a given site
 collection, execute:
  
-``` {.lia-code-sample .language-bash}
+```bash
 m365 spo site apppermission set --siteUrl https://contoso.sharepoint.com/sites/project-x --appDisplayName Foo --permission read
 ```
 ##   
@@ -388,7 +389,7 @@ Alternatively, you can get the latest release from Docker by executing:
  
 
 
-``` {.lia-code-sample .language-bash}
+```bash
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
 

@@ -2,11 +2,14 @@
 title: "Office Add-in Development Community (PnP) -- July 2021 update"
 date: 2021-07-22T01:24:00-04:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
-images: []
+images:
+- images/blog/office-add-in-development-community-pnp-july-2021-update/pnp-outlook-tag-external.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -81,7 +84,7 @@ official documentation and open-source initiatives. The source is
 maintained in GitHub where anyone can participate and provide
 contributions to the samples, reusable components, and documentation.
 Office Add-ins PnP is owned and coordinated by Office engineering teams,
-but the work is done by the community for the community.\
+but the work is done by the community for the community.
 Find code samples for Office Add-in development in the [Office Add-ins
 PnP repo](https://github.com/OfficeDev/PnP-OfficeAddins). Some samples
 are also documented in the [Office Add-ins

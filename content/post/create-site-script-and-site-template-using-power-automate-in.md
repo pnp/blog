@@ -2,13 +2,12 @@
 title: "Create Site Script and Site Template Using Power Automate in SharePoint"
 date: 2021-09-07T03:46:00-04:00
 author: "Dipen Shah"
+githubname: dips365
 categories: ["SharePoint", "Power Automate"]
 images:
 - images/blog/create-site-script-and-site-template-using-power-automate-in/Flow2.jpg
 tags: []
 type: "regular"
-draft: false
-
 ---
 
 ## Introduction
@@ -20,7 +19,7 @@ How can we achieve it?\
 To achieve, this kind of implementation, use site template and site
 scripts to automate provisioning to the existing modern site or create a
 new site using site templates which is available in your organization
-tenant.\
+tenant.
 \
 In the previous version of SharePoint, Site templates were known as site
 designs.
@@ -51,10 +50,10 @@ Let's get started.
 ## Create JSON file for Site Scripts 
 You need to create JSON files in specific formats to implement
 SharePoint artifacts in SharePoint Site.
-Available Action includes.\
+Available Action includes.
 {{< image alt="Site Script and Site Template In Power Automate.png" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Site Script and Site Template In Power Automate.png" >}}
  
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/site-design-script-actions.schema.json",
   "actions": [
@@ -94,13 +93,13 @@ Go to [https://portal.office.com](https://portal.office.com/) and click
 on Power automate.
 Click on "New Flow" and Select "Instant Cloud Flow"
 Select "Manually Trigger Flow" and Add Name "Create-SiteTemplate-Flow"
-Click on Create Button.\
+Click on Create Button.
 {{< image alt="Site Script and Site Template In Power Automate11.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Site Script and Site Template In Power Automate11.jpg" >}}
  
 ### Create Site Script using REST Call in Power Automate 
-Initialize variable in power automat to store JSON config.\
+Initialize variable in power automat to store JSON config.
 {{< image alt="Flow2.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Flow2.jpg" >}}
-Select "Send an HTTP request to SharePoint" from the list of actions.\
+Select "Send an HTTP request to SharePoint" from the list of actions.
 {{< image alt="Flow3.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Flow3.jpg" >}}
  
 **Parameters**
@@ -112,7 +111,7 @@ Script Title Name>')
 
 **Headers**
  
-``` {.lia-code-sample .language-json}
+```json
 {
   "Content-Type\n": "application/json;charset=utf-8",
   "accept": "application/json;odata.metadata=minimal",
@@ -123,7 +122,7 @@ Script Title Name>')
  
 **Body**
 \@{variables('SiteScript')} // Reference of variable that we
-Initialized before this action.\
+Initialized before this action.
 Get Create Script ID and store it in Variable\
 \
 {{< image alt="Dips365_1-1630571668730.png" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Dips365_1-1630571668730.png" >}}
@@ -140,7 +139,7 @@ Url -
  
 **Headers**
 
-``` {.lia-code-sample .language-json}
+```json
 {
   "Content-Type\n": "application/json;charset=utf-8",
   "accept": "application/json;odata.metadata=minimal",
@@ -150,7 +149,7 @@ Url -
 
 **Body**
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "info": {
         "Title": "<Site Template Title>",

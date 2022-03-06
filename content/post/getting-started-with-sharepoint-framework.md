@@ -2,12 +2,13 @@
 title: "Getting started with SharePoint Framework"
 date: 2021-03-08T06:17:00-05:00
 author: "Waldek Mastykarz"
+githubname: WaldekMastykarz
 categories: []
 images:
 - images/blog/getting-started-with-sharepoint-framework/graph.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

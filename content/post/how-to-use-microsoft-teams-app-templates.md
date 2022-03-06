@@ -2,11 +2,13 @@
 title: "How to use Microsoft Teams app templates"
 date: 2021-01-13T09:08:00-05:00
 author: "Matti Paukkonen"
+githubname: mpaukkon
 categories: ["Microsoft Teams"]
-images: []
+images: 
+- images/blog/how-to-use-microsoft-teams-app-templates/ask-away-app.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -17,13 +19,13 @@ of application architectures and coding patters or just start using an
 app right away in your organization. App templates are community driven,
 open source and production-ready apps.
 
-![ask-away-app.png](/t5/image/serverpage/image-id/246324iE8BFFB879FCD309F/image-size/large?v=v2&px=999 "ask-away-app.png")
+{{< image alt="ask-away-app.png" src="images/blog/how-to-use-microsoft-teams-app-templates/ask-away-app.png" >}}
 
 
 Installation instructions, detailed prerequisites and source code are
-available for each app on Github ([Office
+available for each app on GitHub ([Office
 Developer](https://github.com/OfficeDev/)). You can install each app as
-it is or clone the Github repository of an app and start developing it
+it is or clone the GitHub repository of an app and start developing it
 for your own purposes. You can find a detailed list of app templates
 here: [App Templates for Microsoft
 Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates).
@@ -94,16 +96,14 @@ All Azure related services are created with Azure Resource Manager
 template (ARM). Each app has a Deploy to Azure button, which opens up
 the Azure Portal based on your credentials.
 
-![Deploy to Azure
-button](/t5/image/serverpage/image-id/246105iD3FE2AC7577F2AC3/image-size/large?v=v2&px=999 "68747470733a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67.png")
+{{< image alt="Deploy to Azure button" src="images/blog/how-to-use-microsoft-teams-app-templates/68747470733a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67.png" >}}
 
 Easiest way is to use that browser session, where you have logged in
 with an account linked to your Azure subscription where you like to
 deploy the services. Based on required resources for the app, ARM
 template is providing different configuration options.
 
-![Deploy resources to
-Azure](/t5/image/serverpage/image-id/246103iB35764A9C516E3AF/image-size/large?v=v2&px=999 "teams-app-azure-deployment.png")
+{{< image alt="Deploy resources to Azure" src="images/blog/how-to-use-microsoft-teams-app-templates/teams-app-azure-deployment.png" >}}
 
 First pick-up a subscription and a resource group to deploy new
 resources. I suggest creating a new resource group for the app, at least
@@ -137,7 +137,7 @@ PowerShell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pn
 installed and easiest way is to install it from PowerShell Gallery by
 running a command
  
-``` {.lia-code-sample .language-powershell}
+```powershell
 Install-Module SharePointPnPPowerShellOnline
 ```
  
@@ -156,15 +156,13 @@ App (image below) on Apps page or as a solution in Solutions page.
 Solution require a separate Dataverse environment, which can be created
 from Power App admin portal.
 
-![Import a Power
-App](/t5/image/serverpage/image-id/246116i18DE9014E96E203F/image-size/large?v=v2&px=999 "Screenshot 2021-01-13 175255.png")
+{{< image alt="Import a Power App" src="images/blog/how-to-use-microsoft-teams-app-templates/Screenshot 2021-01-13 175255.png" >}}
 
 After import is complete, you can create a Teams app package for created
 Power App by selecting "*Add to Teams*". Fill-out details and click
 Download app.
 
-![Download Teams app package for a Power
-App](/t5/image/serverpage/image-id/246117i4982A44AF401C3DA/image-size/large?v=v2&px=999 "2021-01-13_17-54-25.png")
+{{< image alt="Download Teams app package for a Power App" src="images/blog/how-to-use-microsoft-teams-app-templates/2021-01-13_17-54-25.png" >}}
 
 Install the app (downloaded zip file) to Teams either using side-loading
 or uploading the app to Teams app catalog.
@@ -176,18 +174,17 @@ Apps portal or created following deployment guide, you can install it to
 Teams. Depending on your tenant's configuration, there is two options
 for installing an app. With sideloading you can upload the app to you or
 your team. App is not available for anyone else in your tenant. To
-sideload an app open "Apps" in botton left corner on Teams client,
+sideload an app open "Apps" in bottom left corner on Teams client,
 click "*Upload a custom app*" and select "*Upload for me or my
 teams*". If the option is not available for you, sideloading is
 disabled. Configure the app and you're done.
 
-![Add an app to
-Teams](/t5/image/serverpage/image-id/246124iEB526EE86024F4F9/image-size/large?v=v2&px=999 "2021-01-13_18-13-21.png")
+{{< image alt="Add an app to Teams" src="images/blog/how-to-use-microsoft-teams-app-templates/2021-01-13_18-13-21.png" >}}
 
 
-For uploading an app to your whole tenant, select "*Upload a custom
-app*" and select "*Upload for \<your tenant name>*". App will appear
-on "*Built for \<your tenant name>"* section on Apps. Other option is
+For uploading an app to your whole tenant, select \"*Upload a custom
+app*\" and select \"*Upload for \<your tenant name>*\". App will appear
+on \"*Built for \<your tenant name>\"* section on Apps. Other option is
 to upload your app on Teams Admin Center's app catalog. After uploading
 an app, it will be available for your users.
 

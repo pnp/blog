@@ -2,12 +2,13 @@
 title: "Running a Power App as Edge Extension"
 date: 2021-10-12T02:53:00-04:00
 author: "Albert-Jan Schot"
+githubname: appieschot
 categories: ["Power Apps"]
 images:
 - images/blog/running-a-power-app-as-edge-extension/edge-plugin.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -48,7 +49,7 @@ our extension. Adding the `"permissions": ["cookies"]` fixes that for
 us. The full `manifest.json` would look something like this:
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "name": "Power App",
     "version": "0.0.0.3",
@@ -81,7 +82,7 @@ way we can capture the page we inject our iframe on. This captured data
 can be used by our Power App later on. The full `contentscript.js` looks
 as follows:
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 // Avoid recursive frame insertion...
 var extensionOrigin = 'chrome-extension://' + chrome.runtime.id;
 
@@ -121,7 +122,7 @@ to update the `iframe.src` URL to reflect your Power App ID.
  
 :::
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 const params = new URLSearchParams(window.location.search)
 
 var iframe = document.createElement('iframe');

@@ -2,12 +2,13 @@
 title: "5 commands to try in CLI for Microsoft 365 to fall in love with it"
 date: 2021-03-11T09:33:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["CLI for Microsoft 365"]
 images:
-  - images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-pa.png
+  images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-pa.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

@@ -2,11 +2,12 @@
 title: "SPFx Image Editor Sample - Playing with Canvas"
 date: 2021-03-31T09:49:00-04:00
 author: "Peter Paul Kirschner"
-categories: [ "Sharepoint"]
-images: []
+categories: [ "SharePoint"]
+images:
+- images/blog/spfx-image-editor-sample-playing-with-canvas/Screenshot 2021-03-22 at 21.42.06.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -57,7 +58,7 @@ How to Flip such thing
 FlipY
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 ctx.translate(c.width, 0);
 ctx.scale(-1, 1);
 ```
@@ -68,7 +69,7 @@ ctx.scale(-1, 1);
 FlipX
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 ctx.translate(0, c.height);
 ctx.scale(1, -1);
 ```
@@ -108,7 +109,7 @@ To i Combine the previous knowledge with the basic Parker Sample here it
 is
  
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 const img= new Image()
   img.crossOrigin = "Anonymous";
   img.addEventListener("load", imageReceived, false);

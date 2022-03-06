@@ -2,12 +2,13 @@
 title: "Guidance On How To Use React DataTable Webpart"
 date: 2021-09-29T11:59:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: []
 images:
 - images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -76,7 +77,7 @@ It will open a page for the **SharePoint apps** store. At here find
 
  
 
- [{{< image alt="App Store.png" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/App Store.png" >}}
+ {{< image alt="App Store.png" src="images/blog/guidance-on-how-to-use-react-datatable-webpart/App Store.png" >}}
 
  
 

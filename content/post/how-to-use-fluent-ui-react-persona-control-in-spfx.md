@@ -2,12 +2,13 @@
 title: "How to use fluent UI react persona control in SPFx?"
 date: 2021-06-10T05:56:00-04:00
 author: "Chandani Prajapati"
+githubname: chandaniprajapati
 categories: ["SharePoint"]
 images:
 - images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -64,7 +65,7 @@ the *src/webparts/spfxpersona/components/**ISpfxpersonaProps.ts ***and
 create a context property as below,
 
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { WebPartContext } from "@microsoft/sp-webpart-base";
 
 export interface ISpfxpersonaProps {
@@ -76,7 +77,7 @@ export interface ISpfxpersonaProps {
 2\. Now move to the **SpfxpersonaWebPart.ts **file and here we
 initialize an SP context and pass it in the property.
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import * as ReactDom from 'react-dom';
 import { Version } from '@microsoft/sp-core-library';
@@ -161,7 +162,7 @@ main component, we will call API to get items so they will be set
 through the property. 
 
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import { Persona, PersonaSize } from 'office-ui-fabric-react/lib/Persona';
 interface IProfilePicProps {
@@ -213,7 +214,7 @@ user profile properties.
 And then render the component.
 
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import styles from './Spfxpersona.module.scss';
 import { ISpfxpersonaProps } from './ISpfxpersonaProps';
@@ -287,8 +288,8 @@ Find the full source code
 
 ## Summary 
 In this article, we have seen the step-by-step implementation of how to
-use a persona card to show the users' profile picture.\
+use a persona card to show the users' profile picture.
 \
-I hope this helps, if this helps you then share it with others.\
+I hope this helps, if this helps you then share it with others.
 \
 Sharing is caring!

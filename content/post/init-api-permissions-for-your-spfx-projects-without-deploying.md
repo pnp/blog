@@ -2,12 +2,13 @@
 title: "Init API permissions for your SPFx projects without deploying them"
 date: 2021-03-10T01:34:00-05:00
 author: "Michaël Maillot"
+githubname: michaelmaillot
 categories: ["SharePoint"]
 images:
 - images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-fail.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -48,7 +49,7 @@ executing `npm i @microsoft/mgt @microsoft/mgt-react` from the
 project's root path.
 Once done, open your main component file (let's say
 here **HelloApi.tsx**) and add the `PeoplePicker` component like this:
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import styles from './HelloApi.module.scss';
 import { IHelloApiProps } from './IHelloApiProps';
@@ -79,7 +80,7 @@ export default class HelloApi extends React.Component<IHelloApiProps, {}> {
 ```
 ### Run it in remote workbench 
 
-Now run your sample with `gulp serve` and display your webpart in your
+Now run your sample with `gulp serve` and display your web part in your
 remote workbench
 (<https://contoso.sharepoint.com/_layouts/15/workbench.aspx>). Try to
 use the `PeoplePicker` component: you'll see that just by clicking on
@@ -120,14 +121,14 @@ approval.
 
 ### Add Graph API through CLI for Microsoft 365
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 login # Don't execute that command if you're already connected
 m365 spo serviceprincipal grant add --resource 'Microsoft Graph' --scope 'People.Read'
 ```
 **Info**
 
 Don't be surprised if by that way, the permission appears in the
-"Other permissions granted for \[your tenant\]": it won't prevent
+\"Other permissions granted for \[your tenant\]\": it won't prevent
 your SPFx solution to work.
 
 ### Try again 
@@ -169,14 +170,14 @@ this:
 
 ### Add custom API through CLI for Microsoft 365
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 m365 login # Don't execute that command if you're already connected
 m365 spo serviceprincipal grant add --resource 'contoso-api-dp20200915' --scope 'user_impersonation'
 ```
 **Info**
 
 Don't be surprised if by that way, the permission appears in the
-"Other permissions granted for \[your tenant\]": it won't prevent
+\"Other permissions granted for \[your tenant\]\": it won't prevent
 your SPFx solution to work.
 **Warning**
 
@@ -190,7 +191,7 @@ scope on it instead of the AAD App and fail.
 To run your custom API from your SPFx component, you can update your
 sample like below:
 *IHelloApiProps.ts*
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { AadHttpClientFactory } from '@microsoft/sp-http';
 
 export interface IHelloApiProps {
@@ -201,7 +202,7 @@ export interface IHelloApiProps {
  
 
 *HelloApiWebPart.ts*
-``` {.lia-code-sample .language-javascript}
+```javascript
 // ...
 export default class HelloApiWebPart extends BaseClientSideWebPart<IHelloApiWebPartProps> {
 
@@ -225,7 +226,7 @@ export default class HelloApiWebPart extends BaseClientSideWebPart<IHelloApiWebP
  
 
 *HelloApi.tsx*
-``` {.lia-code-sample .language-javascript}
+```javascript
 import * as React from 'react';
 import styles from './HelloApi.module.scss';
 import { IHelloApiProps } from './IHelloApiProps';

@@ -2,12 +2,13 @@
 title: "Office Add-ins community call -- March 10, 2021"
 date: 2021-03-15T01:52:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-march-10-2021/M365ScuccessJourney.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -152,8 +153,8 @@ yet. 
 disable web-plugins for Outlook on Windows. Where can we find
 documentation on what registry keys to set and where?** 
 
-A:  We haven't yet documented the Group Policy ("Deactivate Outlook
-web add-ins whose equivalent COM or VSTO add-in is installed") that
+A:  We haven't yet documented the Group Policy (\"Deactivate Outlook
+web add-ins whose equivalent COM or VSTO add-in is installed\") that
 configures this behavior. However, it will be added to the article [Make
 your Office Add-in compatible with an existing COM
 add-in](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Foffice%2Fdev%2Fadd-ins%2Fdevelop%2Fmake-office-add-in-compatible-with-existing-com-add-in&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C4428509363454852ad7308d8ee27d922%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637521202237540621%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=lbiGowypY91230dddlS8RTnhi%2FI7M%2Fwm1yEDGEWIKAU%3D&reserved=0). 

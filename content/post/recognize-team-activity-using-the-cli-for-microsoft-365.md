@@ -2,12 +2,13 @@
 title: "Recognize team activity using the CLI for Microsoft 365"
 date: 2021-08-09T08:41:00-04:00
 author: "Albert-Jan Schot"
+githubname: appieschot
 categories: ["CLI for Microsoft 365"]
 images:
 - images/blog/recognize-team-activity-using-the-cli-for-microsoft-365/team-champion-script.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -73,7 +74,7 @@ You can tweak those scores yourself if you like on line 77 to 80. Future
 samples might add SharePoint interactions as well.
  
  
-``` {.lia-code-sample .language-bash}
+```bash
 $teamId = "<PUTYOURTEAMIDHERE>"
 $webhookUrl = "<PUTYOURURLHERE>"
 # You can get a delta of messages since the last 'n' days. Currently set to seven. You can go back a maximum of 8 months.

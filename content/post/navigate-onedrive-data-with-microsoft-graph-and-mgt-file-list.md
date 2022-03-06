@@ -2,12 +2,14 @@
 title: "Navigate OneDrive data with Microsoft Graph and Mgt-File-List Beta version"
 date: 2021-05-06T05:38:00-05:00
 author: "Andre Lage"
+githubname: aaclage
+
 categories: ["Microsoft Graph Toolkit"]
 images:
 - images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_0-1637745741073.jpeg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -65,7 +67,7 @@ retrieve ID's of sites.
 
 List of Site ID's:
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites(id)",
     "value": [
@@ -136,7 +138,7 @@ WebPart that Mgt-File-List could make the necessary query's.
 Access to config/package-solution.json and ensure the following
 permissions are given on SharePoint package.
 
-``` {.lia-code-sample .language-json}
+```json
     "webApiPermissionRequests": [{  
       "resource": "Microsoft Graph",  
       "scope": "Files.Read"  
@@ -154,7 +156,7 @@ SharePoint Provider is loaded with the current security  access
 that Mgt-File-List control and custom graph query's could access to
 Microsoft Graph content.
 
-``` {.lia-code-sample .language-javascript}
+```javascript
 import { Providers, SharePointProvider } from '@microsoft/mgt';
 ...
 export default class OneDriveFinderWebPart extends BaseClientSideWebPart<IOneDriveFinderWebPartProps> {
@@ -338,7 +340,7 @@ Toolkit](https://docs.microsoft.com/en-us/graph/toolkit/get-started/build-a-shar
 To use the **Mgt-File-List control in Beta version** please use the
 following packages.
 
-``` {.lia-code-sample .language-powershell}
+```powershell
 npm i @microsoft/mgt@next
 npm i @microsoft/mgt-react@next
 ```

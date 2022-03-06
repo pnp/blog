@@ -2,12 +2,13 @@
 title: "How to create an improved Microsoft Teams Files approval process using Azure Logic Apps"
 date: 2021-02-12T05:46:00-05:00
 author: "Vesa Nopanen"
+githubname: veskunopanen
 categories: ["Microsoft Teams", "Adaptive Cards", "Power Automate"]
 images:
 - images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/2021-02-10_22-02-47.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

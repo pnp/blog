@@ -2,12 +2,13 @@
 title: "Quick SharePoint Approvals using List formatting JSON to set field values"
 date: 2021-11-19T06:48:00-05:00
 author: "Michel Mendes"
+githubname: michelcarlo
 categories: ["SharePoint"]
 images:
 - images/blog/quick-sharepoint-approvals-using-list-formatting-json-to-set/choices.PNG
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -63,7 +64,7 @@ formula.
 Approval:
  
 
-``` {.lia-code-sample .language-json}
+```json
 "customRowAction": {
               "action": "setValue",
               "actionInput": {
@@ -76,7 +77,7 @@ Approval:
 Rejection:
  
 
-``` {.lia-code-sample .language-json}
+```json
 "customRowAction": {
               "action": "setValue",
               "actionInput": {
@@ -94,7 +95,7 @@ Tweak the internal names as needed in case your list uses different
 field names:
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
   "elmType": "div",
@@ -226,7 +227,7 @@ Framework field customizers or other techniques (calling a Flow for
 example).
 This example is just a simple one to show how to update two fields at
 the same time and use the native formulas as values, but the
-possibilities now have expanded massively.\
+possibilities now have expanded massively.
 \
 **Note:**
 

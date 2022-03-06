@@ -2,12 +2,13 @@
 title: "How to get started with HTTP requests in Power Automate"
 date: 2021-02-11T09:16:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Power Automate", "Microsoft Graph"]
 images:
 - images/blog/how-to-get-started-with-http-requests-in-power-automate/explorer.jpg
 tags: []
-type: "regular"
-draft: false
+type: "epic"
+
 
 ---
 
@@ -283,7 +284,7 @@ provide!
 
 HTTP requests re a super coo method to achieve a lot of things that are
 not actions in Power Automate, but can still be executed using Microsoft
-Graph (or other APIs!).\
+Graph (or other APIs!).
 \
 What are you using HTTP requests for?\
 \

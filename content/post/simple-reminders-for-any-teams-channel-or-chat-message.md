@@ -2,12 +2,13 @@
 title: "Simple reminders for any Teams Channel or Chat message"
 date: 2021-05-06T01:55:00-04:00
 author: "Hubert Lam"
+githubname: z3019494
 categories: ["Microsoft Teams", "Adaptive Cards"]
 images:
 - images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620122926624.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -88,7 +89,7 @@ adaptive card (with some `Input.Choice`{.sample} options) and a
 
 ## Ingredients 
 
-Here's the "ingredients" needed for the flow to allow ourselves to
+Here's the \"ingredients\" needed for the flow to allow ourselves to
 set a reminder at a particular hour/minute offset from now OR at a
 specific time:
 
@@ -162,7 +163,7 @@ provide the dropdown menu:]
 Below is the complete JSON code for the adaptive card that captures the
 user input:
  
-``` {.lia-code-sample .language-json}
+```json
 {
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
     "type": "AdaptiveCard",
@@ -495,7 +496,7 @@ reminded:**
 
 -   Check whether the **Hours** entered is blank or not (note that
     there's a very subtle difference between *blank* and *null*!). If
-    so, set the **HoursToDelay** variable to a "0" or simply use the
+    so, set the **HoursToDelay** variable to a \"0\" or simply use the
     hours inputted.
 -   Check whether the **Minutes** entered is blank or not. If so, set
     the **MinutesToDelay** variable to a "0" or simply use the hours
@@ -564,7 +565,7 @@ A lot more string processing is required!
         \
         The reason for this check is that the **Delay** action, is very
         fussy. It only takes integers, and can't cope with an input of
-        **0 **(you'd think that an input of "0" into the **Delay**
+        **0 **(you'd think that an input of \"0\" into the **Delay**
         action would just cause it to continue full steam ahead instead
         of sitting there and waiting!)
 
@@ -589,7 +590,7 @@ greater than 28 days:
  
  
 
-``` {.lia-code-sample .language-json}
+```json
 {
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
     "type": "AdaptiveCard",
@@ -784,7 +785,7 @@ smartwatch notifications rely on a summary of sorts:
 {{< image alt="z3019494_0-1620127122452.png" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_0-1620127122452.png" >}}
  
  
-``` {.lia-code-sample .language-json}
+```json
 {
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
     "type": "AdaptiveCard",

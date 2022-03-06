@@ -2,12 +2,13 @@
 title: "How to send Adaptive Cards with CLI Microsoft 365"
 date: 2021-02-17T08:38:00-05:00
 author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Adaptive Cards", "CLI for Microsoft 365"]
 images:
 - images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -58,7 +59,7 @@ saves me copy/pasting links into a new browser tab. But if you like to
 any other shell, that is perfectly fine as well. To install CLI
 Microsoft 365, run the command:
  
-``` {.lia-code-sample .language-bash}
+```bash
 npm i -g @pnp/cli-microsoft365
 ```
  
@@ -80,7 +81,7 @@ by [Julie Turner](https://twitter.com/jfj1997)
 Run the following command:
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 login
 ```
  
@@ -96,14 +97,14 @@ After you pasted the code,
 \* pick an account out of the list of accounts
 
 You will be seeing this message and can close this browser tab- we
-won't need it anymore.\
+won't need it anymore.
 {{< image alt="PnPmanagementShellOK.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/PnPmanagementShellOK.png" >}}
 
 Yay! You successfully logged in! You don't believe that? Let's check
 with CLI Microsoft 365 and run this command to get your status:
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 status
 ```
  
@@ -115,7 +116,7 @@ and it will get your status for you:
 If you want some inspiration, what you could do now, run this command:
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 help
 ```
  
@@ -126,7 +127,7 @@ groups, as each of them can contain several commands. When you now
 choose one of the command groups and run for example this one:
  
 
-``` {.lia-code-sample .language-bash}
+```bash
 m365 outlook
 ```
  
@@ -178,7 +179,7 @@ the Adaptive Card to\
 \* Give your webhook a name\
 \* If you like to, you can upload a picture- messages sent via this
 webhook (our Adaptive Card) will have this image then as Profile Pic -
-this step is optional.\
+this step is optional.
 \* Click **Create**\
 \* Copy the generated URL\
 \* Click **Done**
@@ -220,7 +221,7 @@ the webhook connector to Teams\
 \* run it
 
 !! Turned out, that there are some differences how to use quotes \`'\`
-or \`"\` - please consider which shell you are using before you
+or \`\"\` - please consider which shell you are using before you
 copy/paste the code from [CLI Microsoft 365
 documentation](https://pnp.github.io/cli-microsoft365/cmd/adaptivecard/adaptivecard-send/).
 Congratulations :rocket:- you sent your first adaptive Card with CLI.

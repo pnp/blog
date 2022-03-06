@@ -2,12 +2,13 @@
 title: "Microsoft 365 PnP Weekly - Episode 124"
 date: 2021-04-27T12:11:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/blog/microsoft-365-pnp-weekly-episode-124/Thumb-Ep124.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 

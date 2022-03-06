@@ -2,12 +2,13 @@
 title: "SharePoint Framework Community Call -- 29th of July, 2021"
 date: 2021-07-29T04:59:00-04:00
 author: "Vesa Juvonen"
+githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call recordings"]
 images:
 - images/blog/sharepoint-framework-community-call-29th-of-july-2021/PnP-Calls-TogetherMode-LowResolution.gif
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -87,7 +88,7 @@ wait, now there's 35 wavers!   Data corruption.  
 -   **Hero Web Part and Tiles V2 Web Part** -- **Tiles v2** -- displays
     a group of responsive flex tiles that can be configured to navigate
     to different URLs.   **REACT Hero** -- provides a customizable Hero
-    webpart that displays 5 images in a stand-alone carousel view.
+    web part that displays 5 images in a stand-alone carousel view.
       Both web parts use a stored collection from
     PnP PropertyFieldCollectionData control and custom field rendering
     control, file/icon pickers and fluid flex layout.   Site theme

@@ -2,12 +2,13 @@
 title: "Create and Retrieve Power Automate Flows - WITH CODE!!! :-)"
 date: 2021-08-04T11:26:00-04:00
 author: "Tracy Sterling"
+githubname: TracyGH
 categories: ["Power Automate"]
 images:
 - images/blog/create-and-retrieve-power-automate-flows-with-code/Tracy_1-1627940128961.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -66,7 +67,7 @@ To obtain the ID for a specific Solutions flow, select it and copy the GUID valu
 
 ### Part 2 --- Get ClientData Content for New Flows 
 
-In order to create flows programatically, we will use the [Power
+In order to create flows programmatically, we will use the [Power
 Automate Management Web
 API](https://docs.microsoft.com/en-us/power-automate/web-api). The meat and potatoes of the flow payload is
 contained in the `clientdata`
@@ -130,7 +131,7 @@ this specific scenario, the potential applications for 'tweaking' values
 to facilitate bulk flow creation are endless. 
  
  
-``` {.lia-code-sample .language-json}
+```json
 {{
   "properties": {
     "connectionReferences": {

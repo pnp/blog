@@ -2,12 +2,14 @@
 title: "Office Add-ins community call -- August 2021"
 date: 2021-08-22T08:43:00-04:00
 author: "David Chesnut"
+githubname: davidchesnut
+
 categories: ["Office Add-in developer community call recordings"]
 images:
 - images/blog/office-add-ins-community-call-august-2021/office-add-ins-august-agenda.png
 tags: []
 type: "regular"
-draft: false
+
 
 ---
 
@@ -76,7 +78,7 @@ St\...](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-devel
 We don't have an ETA on this yet but hope to provide an update soon.
 **When can we expect addSvg method to be officially released and can you
 please provide us with a working example of this method? My attempts
-keep erroring with "this picture can't be displayed"!**
+keep erroring with \"this picture can't be displayed\"!**
 There are some issues holding us back from releasing the **addSvg** API
 to general availability. We'll update you as soon as we have a
 definitive timeline for when it will go to GA.
@@ -84,7 +86,7 @@ definitive timeline for when it will go to GA.
 Here is a sample that you can paste into Script Lab. It will insert a
 yellow circle into the spreadsheet.
  
-``` {.lia-code-sample .language-javascript}
+```javascript
 $("#run").click(() => tryCatch(run));
 
 async function run() {
@@ -174,8 +176,8 @@ Not yet. We are looking to provide this capability in a future update.
 
 We're trying out the beta of shared/delegated mailbox support and
 finding that in OWA, we still can't open a shared mailbox. We get the
-error: "The operation on mailbox failed because it's out of the
-current user's write scope." There are more details
+error: \"The operation on mailbox failed because it's out of the
+current user's write scope.\" There are more details
 here([https://docs.microsoft.com/en-us/answers/questions/506662/outlook-owa-addin-installation-permission-\...](https://docs.microsoft.com/en-us/answers/questions/506662/outlook-owa-addin-installation-permission-issue-de.html)).
 Is this something we can expect to work in the release?**
 
