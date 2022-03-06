@@ -44,9 +44,7 @@ jobs:
       - name: Run Markdown Lint
         uses: actionshub/markdownlint@main
         with:
-          files: content/post/**/*.md
-          fix: true
-          config: .markdownlint.json
+          path: content/post/**/*.md
       - name: Run link check
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
