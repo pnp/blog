@@ -161,7 +161,7 @@ to meet face-to-face, that would be awesome.
     focusing on how to use Web Technologies to create a tab (Blazor app)
     inside of Teams using Visual Studio.  Open new project (Microsoft
     Teams App) in Visual Studio.   Install/open the Teams Toolkit
-    (Preview) for Visual Studio.  Configure for SSO.   Click F5. 
+    (Preview) for Visual Studio.  Configure for SSO.   Select F5. 
     Presto, a default page/tab is created with sample code and
     implements GraphClient.   Register the AAD app and modify it as you
     please.      

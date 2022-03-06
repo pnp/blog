@@ -28,7 +28,7 @@ Before we move ahead, a quick note,
 
 Fig 1.1 -- Change Home Site Setting
 
-1.  Click on the Change Home site, a panel will open where you will be
+1.  Select  the Change Home site, a panel will open where you will be
     asked to add your communication site URL which you want to convert
     to Home Site as shown in Fig 1.2
     
@@ -51,7 +51,7 @@ Step 3: By default, Microsoft has blocked the Viva connections app. So,
 in the manage apps, you will find a search box, search for viva
 connections, you will find **Viva Connections app**, with **status as
 Blocked**
-Select the app, click on Allow from the top command bar, the status will
+Select the app, select  Allow from the top command bar, the status will
 be changed to Allowed as shown in Fig 1.4
 
 {{< image alt="ShrushtiShah_10-1642505452461.png" src="images/blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ShrushtiShah_10-1642505452461.png" >}}

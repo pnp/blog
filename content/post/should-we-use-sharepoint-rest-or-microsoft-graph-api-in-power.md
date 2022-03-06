@@ -288,8 +288,8 @@ AD.
 We will follow these steps to register an app in Azure AD:
 
 -   Go to portal.azure.com and log in
--   Click app registrations
--   Click New App registration
+-   Select app registrations
+-   Select New App registration
 -   Give your app a nice name
 -   Save tenant ID and Client(app) ID somewhere (notepad or similar)
 -   Click **API PERMISSIONS** and select Microsoft Graph
@@ -421,7 +421,7 @@ PowerShell inside Visual Studio Code Terminal).
 ### Login 
 
 -   Run `m365 login`
--   Copy the Login Code, click on the link
+-   Copy the Login Code, select  the link
 -   Paste the Login Code
 -   Select the user you want to log in with from the list
 -   Return to your shell window

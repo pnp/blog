@@ -118,7 +118,7 @@ everybody.  See you again soon. 
     render.     
 
 -   **Share to Teams -- SPFx Command Set Extension --** from within
-    SharePoint, this extension allows user to 1-click share site pages,
+    SharePoint, this extension allows user to 1-select share site pages,
     files, folders, and list items directly to selected (from dropdown)
     channels or groups in Microsoft Teams.  A concise 6-step CodeTour
     familiarizes the viewer with the inner workings of this extension. 

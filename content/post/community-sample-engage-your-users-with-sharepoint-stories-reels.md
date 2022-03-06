@@ -85,7 +85,7 @@ Story, and there, we use the GMT Person component. As you can see in the
 code above, we also use a React High Order Component called
 *WithSeeMore*, this component is from the *react-insta-stories* library
 and is the way to load a specific text when the "*See more*" link is
-clicked in the Story. So, if the list item has the Content field filled,
+selected in the Story. So, if the list item has the Content field filled,
 we set the "*seeMore*" property of the Story object. This property is
 again a function, so you can customize how the content is rendered.
  

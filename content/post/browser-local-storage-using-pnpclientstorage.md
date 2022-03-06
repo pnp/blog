@@ -164,8 +164,8 @@ export default class LocalStorage extends React.Component<ILocalStorageProps, IL
                 <div className={styles.container}>
                     <div className={styles.row}>
                         <div className={styles.column}>
-                            <DefaultButton text="Store User Info" onClick={this._storeCurrentUserInfo} />
-                            <DefaultButton text="Get User Info from Storage" onClick={this._getStoredUserInfo} />
+                            <DefaultButton text="Store User Info" onSelect={this._storeCurrentUserInfo} />
+                            <DefaultButton text="Get User Info from Storage" onSelect={this._getStoredUserInfo} />
                             <div style={{ display: 'inline-flex' }}>
                                 {this.state.userinfo ? (
                                     <div>
@@ -173,7 +173,7 @@ export default class LocalStorage extends React.Component<ILocalStorageProps, IL
                                         <p>EMail: {this.state.userinfo.Email}</p>
                                     </div>
                                 ) : (
-                                        <div>{"Click the button 'Store User Info' to store the user information!"}</div>
+                                        <div>{"Select the button 'Store User Info' to store the user information!"}</div>
                                     )}
                             </div>
                         </div>

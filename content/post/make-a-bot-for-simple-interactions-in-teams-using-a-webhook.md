@@ -127,7 +127,7 @@ To add an Outgoing Webhook, the following is done:
 
 1.  Find the Team to host the Webhook
 
-2.  Click the ellipsis (\...) on the Team and choose **Manage team**
+2.  Select the ellipsis (\...) on the Team and choose **Manage team**
 
     ![image](https://user-images.githubusercontent.com/472320/149214507-8e0f6fac-4fc7-4901-b121-4cdab13d7aae.png)
 

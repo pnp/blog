@@ -84,7 +84,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
     through extensive, appropriate configuration options. 
     Functionally - Select source data - sites, lists and fields, and Set
     up destination (summary) list columns, formatting, filtering, and
-    on-click dynamic data functionality.  Full documentation with
+    on-select dynamic data functionality.  Full documentation with
     sample.
 
 3.  **Using a web part to control which Sites have been granted

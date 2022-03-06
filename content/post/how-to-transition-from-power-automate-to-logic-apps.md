@@ -104,7 +104,7 @@ template" as shown below:
 Following the instructions and complete the fields in which Azure
 presents to you, can deploy the template. After deployment is complete,
 navigate to the Logic App Designer, you may need to authenticate the
-connections, click on those and a pop-up window will show for you to log
+connections, select  those and a pop-up window will show for you to log
 in.
 
 Once completed, you will need to Enable your Logic App then your Flow

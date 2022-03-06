@@ -23,7 +23,7 @@ to automate premium licenses then we can also achieve a solution.
 
 ## Implementation
  
-1\. Go to **Power Automate** \> **My flows** \> Click on **New flow** \>
+1\. Go to **Power Automate** \> **My flows** \> Select  **New flow** \>
 Select **Automated Cloud Flow**
 {{< image alt="ChandaniPrajapati_0-1636792320998.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_0-1636792320998.png" >}}
  
@@ -34,7 +34,7 @@ only).** A trigger is depending on our business requirement you can also
 choose when a file is created or modified too.
 {{< image alt="ChandaniPrajapati_1-1636792461300.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_1-1636792461300.png" >}}
 
-3\. Click on **Create.
+3\. Select  **Create.
 
   Basically, we don't have direct action to convert to PDF for SharePoint so first, we will create a library item/file in OneDrive and in one drive has an action to conversion so we will use one drive converter to convert to pdf format, and then we will move it to the library and delete it from one drive.*
 
@@ -119,7 +119,7 @@ Now let's see an implementation.
 
   ---------------- ------------------------------
   **Properties**   **Value**
-  **Id**           Select OneDrive word file ID
+  **Id**           Select eDrive word file ID
   ---------------- ------------------------------
 
 {{< image alt="ChandaniPrajapati_3-1636864760614.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_3-1636864760614.png" >}}
@@ -130,7 +130,7 @@ Now let's see an implementation.
 
   ---------------- -----------------------------
   **Properties**   **Value**
-  **Id**           Select OneDrive PDF file ID
+  **Id**           Select eDrive PDF file ID
   ---------------- -----------------------------
 
 {{< image alt="ChandaniPrajapati_2-1636864751972.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_2-1636864751972.png" >}}

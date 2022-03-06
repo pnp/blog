@@ -78,7 +78,7 @@ Another awesome feature of these developer subscriptions is the ability
 to seed the tenant with sample data packs. To do this all you have to do
 is go to your [Dashboard - Microsoft 365 Dev
 Center](https://developer.microsoft.com/microsoft-365/profile "Dashboard - Microsoft 365 Dev Center")
-page and click on the kind of data pack you would like to add. You must
+page and select  the kind of data pack you would like to add. You must
 have the "Users" sample data pack first but then you can also add Mail
 and Events as well as SharePoint data.
 

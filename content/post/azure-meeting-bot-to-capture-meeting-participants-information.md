@@ -37,12 +37,12 @@ Search for Web App Bot.
 
 {{< image alt="SiddharthVaghasia_0-1630435722443.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_0-1630435722443.png" >}}
 
-Click on Create and we shall see the below page. Enter below the
+Select  Create and we shall see the below page. Enter below the
 required details.
 
 {{< image alt="SiddharthVaghasia_1-1630435722896.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_1-1630435722896.png" >}}
 
-Once you click create, it will validate and start creating resources, we
+Once you select create, it will validate and start creating resources, we
 can see a message in the notification bar.
 
 {{< image alt="SiddharthVaghasia_2-1630435722887.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_2-1630435722887.png" >}}
@@ -62,7 +62,7 @@ Go to the newly created Web App Bot Resource.
 Select Channels from the left blade and then Teams(in the right blade).
 {{< image alt="SiddharthVaghasia_5-1630435722747.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_5-1630435722747.png" >}}
 
-Click on the Calling from the left blade and Enable the Calling
+Select  the Calling from the left blade and Enable the Calling
 checkbox.
 
 {{< image alt="SiddharthVaghasia_6-1630435722897.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_6-1630435722897.png" >}}
@@ -149,7 +149,7 @@ We can see an App with our Bot name here.
 
 {{< image alt="SiddharthVaghasia_9-1630435867496.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_9-1630435867496.png" >}}
 
-Click on this App, from the Left blade click on API Permission, and
+Select  this App, from the Left blade select  API Permission, and
 provide the below Application permissions.
 
 {{< image alt="SiddharthVaghasia_10-1630435867800.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_10-1630435867800.png" >}}
@@ -161,8 +161,8 @@ which states the above permissions.
 ## Step - Create Client Secret
 
 We will need to create a client secret to calls the above graph API.
-From the left blade, click on Certificate and secrets, click on new
-click secret and note down this secret somewhere safely. We will use
+From the left blade, select  Certificate and secrets, select  new
+select secret and note down this secret somewhere safely. We will use
 this later.
 
 {{< image alt="SiddharthVaghasia_11-1630435867960.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_11-1630435867960.png" >}}
@@ -283,7 +283,7 @@ Add action HTTP and configure as below.
 
 {{< image alt="SiddharthVaghasia_14-1630435910364.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_14-1630435910364.png" >}}
 
-Click on the Advanced option and select Active Directory OAuth. Here you
+Select  the Advanced option and select Active Directory OAuth. Here you
 have to add the client Id and client secret which we noted in the above
 steps from the Azure Ad App Registration screen.
 

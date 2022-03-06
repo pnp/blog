@@ -47,12 +47,12 @@ In the next step you need to insert the mail address of your dev tenant.
 
 That is very important, do not use a different mail address, since you
 want the Community Plan to be linked to your dev tenant. After that
-click on **Sign Up**.
+select  **Sign Up**.
 {{< image alt="The sign in page of the Power Apps Community Plan" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/getstarted.png" >}}
 
 You will get a notification that says, that you're using this address
 with another Microsoft Service already. Of course, you do, you use it
-for your developer tenant, right? So click on **Sign In**. 
+for your developer tenant, right? So select  **Sign In**. 
 {{< image alt="a pop up mentioning, that you already use the address for a Microsoft Service" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/noworries.png" >}}
 
 The next window is a confirmation that you're signed in and you can
@@ -93,7 +93,7 @@ environment.
 But there is one more thing you need to pay attention to: If you open
 Power Automate or Power Apps, make sure that you're in the correct
 environment. In the upper right corner of your browser you can see, what
-environment you're currently in. Click on the button **Environments** to
+environment you're currently in. Select  the button **Environments** to
 see a list of all your available environments. Now select you newly
 created Developer environment (in my case it's **Michael Roth's
 Environment**). 

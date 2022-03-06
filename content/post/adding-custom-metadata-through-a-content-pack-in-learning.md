@@ -90,7 +90,7 @@ Pathways] ](https://docs.microsoft.com/office365/customlearning/custom_provision
 ### Step 1: Fork the Learning Pathways Repo
 
 Navigate
-to [https://github.com/pnp/custom-learning-office-365](https://github.com/pnp/custom-learning-office-365)[ and click **Fork ** in
+to [https://github.com/pnp/custom-learning-office-365](https://github.com/pnp/custom-learning-office-365)[ and select **Fork ** in
 the upper-right hand of the page. This will create an identical copy of
 the Learning Pathways content in your own repository allowing you to
 make customizations to the information architecture through editing the
@@ -106,7 +106,7 @@ navigation:
 
 ### Step 2: Turn on GitHub pages
 
-Click **Settings** in
+Select **Settings** in
 the top
 navigation:
 
@@ -116,7 +116,7 @@ Scroll down the page until you see a header
 for **GitHub Pages** . In the
 Source dropdowns,
 select **Main** and **docs** then
-click **Save**
+select **Save**
 {{< image alt="eemancini_0-1613663078684.png" src="images/blog/adding-custom-metadata-through-a-content-pack-in-learning/eemancini_0-1613663078684.png" >}}
 
 Upon saving, GitHub will bring you to the top of the page again. Scroll
@@ -133,7 +133,7 @@ pathways](https://docs.microsoft.com/office365/customlearning/custom_partnerguid
 adding the URL for your custom content pack, paste the URL from step
 3, add **learningpathways** to
 the
-URL, and click **Save**. For
+URL, and select **Save**. For
 example:
 
 [https://eemancini.github.io/custom-learning-office-365/learningpathways/](https://eemancini.github.io/custom-learning-office-365/learningpathways/)
@@ -177,7 +177,7 @@ ones.
 After completing your JSON edits, scroll to the bottom of the page to
 the section for **Commit
 Changes** Add a title and description that clarifies
-what edits you made and click **Commit
+what edits you made and select **Commit
 Changes**. Once you commit a change, your edits will
 automatically appear in Learning Pathways. (Note: You may need to hard
 refresh or clear your cache to see these

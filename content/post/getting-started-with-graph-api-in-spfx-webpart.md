@@ -55,7 +55,7 @@ Then follow the below steps,
 
 
 2\. Then select the category in which you want to set permission and
-click on the **Consent** button.
+select  the **Consent** button.
  
 {{< image alt="Permssions.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Permssions.png" >}}
  
@@ -64,7 +64,7 @@ checkbox and Accept it.
  
 {{< image alt="AcceptPermission.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/AcceptPermsiion.png" >}}
 
-Then click on the run query and it will retrieve the results. that's
+Then select  the run query and it will retrieve the results. that's
 it :)
  
  

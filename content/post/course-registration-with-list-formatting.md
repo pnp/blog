@@ -82,12 +82,12 @@ Disconnect-PnPOnline
  
 ### Change format Register column 
  
-1\. Navigate to your newly created list and click Column settings \>
+1\. Navigate to your newly created list and select Column settings \>
 Format this column.
  
 {{< image alt="51695571178_b626326204_c.jpg" src="images/blog/course-registration-with-list-formatting/51695571178_b626326204_c.jpg" >}}
  
-1. Insert the json below and click save.
+1. Insert the json below and select save.
  
  
  

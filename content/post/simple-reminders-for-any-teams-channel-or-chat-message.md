@@ -42,7 +42,7 @@ Plus I entering a phase where I was forgetting that I had to respond to
 messages. Sometimes I ended up talking to Google (I use an Android
 phone, so you might be talking to Siri) to remind myself, but that still
 doesn't take you straight back to the original message with a single
-click - you still had to do a lot of navigation before you arrived at
+select - you still had to do a lot of navigation before you arrived at
 the message you were supposed to take action on.
 My poor colleagues were also getting flooded with Teams messages. If
 they were diligent and cleared their activity bell notifications, they
@@ -62,7 +62,7 @@ number of *hours/minutes*, or at a *specified time* to remind you to
 take action for a message!
 
 {{< image alt="The reminder card we wish to send ourselves" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/Reminder_annotated.png" >}}
-The beauty of this Flow is that it will give you **one-click access**
+The beauty of this Flow is that it will give you **one-select access**
 back **to the conversation thread** within the team, or **back to the
 chat with a person** or a group of people. 
 So in the blog post below, the Flow will be explained in greater detail,

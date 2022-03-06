@@ -95,9 +95,9 @@ creating the site or on an existing site.
 
 Go to [https://portal.office.com](https://portal.office.com/) and click
 on Power automate.
-Click on "New Flow" and Select "Instant Cloud Flow"
+Select  "New Flow" and Select "Instant Cloud Flow"
 Select "Manually Trigger Flow" and Add Name "Create-SiteTemplate-Flow"
-Click on Create Button.
+Select  Create Button.
 {{< image alt="Site Script and Site Template In Power Automate11.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Site Script and Site Template In Power Automate11.jpg" >}}
  
 ### Create Site Script using REST Call in Power Automate
@@ -173,7 +173,7 @@ Url -
 The flow looks like as below\
 {{< image alt="Flow6.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Flow6.jpg" >}}
 **Output**
-Click on the "gear" Icon in SharePoint Site.
-Click on "Apply a site template".
+Select  the "gear" Icon in SharePoint Site.
+Select  "Apply a site template".
 {{< image alt="Site Script and Site Template In Power Automate7.gif" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Site Script and Site Template In Power Automate7.gif" >}}
  

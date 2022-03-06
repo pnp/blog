@@ -220,7 +220,7 @@ In total, this looks like this:
 
 We are almost there, but some critical parts are missing. As you can see
 in the last image, there is a **Show advanced options** link in the HTTP
-action and we need to click on it. Our HTTP request need authentication.
+action and we need to select  it. Our HTTP request need authentication.
 We can authenticate via Azure Active Directory OAuth, but we will first
 need to have a representation of our app (yes, this flow that calls
 Graph is an application) in Azure AD.

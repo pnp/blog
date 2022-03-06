@@ -295,7 +295,7 @@ can use the following steps:
     <https://localhost:4321> because this is a dev deploy (further below
     we do a non-dev deploy with the \--ship flag).
 
--   Click the Deploy button.  Notice that there is no tenant wide
+-   select the Deploy button.  Notice that there is no tenant wide
     deployment of apps like there is in SharePoint Online.
 
 -   Add the App to your site.  Go to the site where you want to deploy

@@ -84,7 +84,7 @@ page in the Azure AD of the Guest tenant!
 
 Finally time to upload your profile picture!
 
-1.  Top of the profile, click the `Edit` button
+1.  Top of the profile, select the `Edit` button
 2.  With your profile in edit mode, you can browse for a photo on your
     computer and upload it to your profile!
  {{< image alt="image-5.png" src="images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-5.png" >}}

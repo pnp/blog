@@ -135,12 +135,12 @@ essential tool in modern development that allows you to download,
 create, share, useful libraries and packages to use in your .NET
 projects -- [this is where the PnP Core SDK packages are published
 to](https://www.nuget.org/packages?q=PnP+Core+SDK).
-Continuing in Visual Studio, right click on the solution and find the
+Continuing in Visual Studio, right select  the solution and find the
 "Manage NuGet Packages for Solution" option.
 
-{{< image alt="Option to manage NuGet packages in the solution right-click menu" src="images/blog/getting-started-with-pnp-core-sdk/Manage Nuget.png" >}}
+{{< image alt="Option to manage NuGet packages in the solution right-select menu" src="images/blog/getting-started-with-pnp-core-sdk/Manage Nuget.png" >}}
 
-When the package manager opens, Click to Browse for Packages and Enter
+When the package manager opens, Select to Browse for Packages and Enter
 "PnP Core SDK" in the search bar, to show the two packages described
 earlier.
 

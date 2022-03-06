@@ -29,7 +29,7 @@ One part of Fluent UI is the iconography
 
 You can browse through the icons in the [Fluent UI icons
 tool](https://uifabricicons.azurewebsites.net/), but there is
-right-click download option. As a developer, you can import Fluent UI
+right-select download option. As a developer, you can import Fluent UI
 iconography (and more) into your applications; for Power Apps, there a
 different way how to use them:
 
@@ -87,7 +87,7 @@ To create a pop up effect, create:
 Group these controls; it's easier to work with them then.
 
 -   Now create a textlabel (or a button, or an image\... something that
-    our user will click on to see the pop up).
+    our user will select  to see the pop up).
 
 -   Set the .onSelect property of this label
     to `UpdateContext({isShowPopUp:true})`

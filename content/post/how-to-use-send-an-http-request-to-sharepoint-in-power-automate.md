@@ -26,7 +26,7 @@ Update and Delete operations. we will create an instant flow. let's see
 step-by-step implementation.
  
 
-**1. Go to Power Automate \> My flows \> Click on New flow \> Select
+**1. Go to Power Automate \> My flows \> select  New flow \> Select
 instant cloud flow**
 {{< image alt="STep 1.png" src="images/blog/how-to-use-send-an-http-request-to-sharepoint-in-power-automate/STep 1.png" >}}
  

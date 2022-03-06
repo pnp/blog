@@ -54,7 +54,7 @@ For demo purposes I called my resource group *cli-test*.
 Create a Managed Identity
 
 In our resource group we can create a new user managed identity that we
-can use. Click on the **add** button and search for **User Assigned
+can use. Select  the **add** button and search for **User Assigned
 Managed Identity** to create the new managed identity. Simply provide a
 name and create your new managed identity. 
 {{< image alt="cli-ma.png" src="images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma.png" >}}
@@ -92,7 +92,7 @@ As we need a Logic App to orchestrate the execution of our script the
 first step is to create one. You can do so in any resouce group, or
 create a new one. There are no requirements for your Logic App. So we
 pick a **Logic App (Consumption)** and provide a resource group and
-name. Once the Logic App is created navigate to it and click the
+name. Once the Logic App is created navigate to it and select the
 **edit** button. Once in edit mode you are free to pick your trigger.
 You can pick any trigger you like, for demo purposes you could connect
 it to a list in SharePoint Online, or just use a HTTP trigger. The next

@@ -41,7 +41,7 @@ but you can choose any FAQ from a website or PDF or even Word file that
 you like.
 
 -   Open Teams
--   Click on the **Apps** icon
+-   Select  the **Apps** icon
 -   Search for **Power Virtual Agents**
 
 
@@ -149,7 +149,7 @@ results.
 
 ### Publish your Bot to Microsoft Teams 
 
--   Click the **Publish** icon
+-   Select the **Publish** icon
 
 
  

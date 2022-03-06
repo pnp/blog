@@ -103,7 +103,7 @@ It's possible to provide users with some search suggestions (you know,
 the things that appear beneath what you're typing in search engines
 like Bing or Google) to help speed them along their search journey.
 
-As users search for a particular term or phrase and click on search
+As users search for a particular term or phrase and select  search
 results, SharePoint will (supposedly) make a correlation between the
 two. In our example, if a user searched for ***World of Warcraft*** and
 clicked on the result ***World of Warcraft: Legion*** six times,
@@ -185,7 +185,7 @@ fulfil that demand.
 
 
 For refiners to show, they'll need search results to refine. The
-\"Available connections\" settings will allow you select one or more
+\"Available connections\" settings will allow you select e or more
 *Search Results* web parts. If you haven't already added one, there
 won't be any options, so make sure you've added one first. Once
 you've got one, select it here.
@@ -256,7 +256,7 @@ that context.
 
 ### Panel 1 - Layout slots 
 
-If you click the Customize button, you'll be presented with another
+If you select the Customize button, you'll be presented with another
 flyout panel with a bunch of default entries. There's a brief
 description at the top that tries to explain what these are, but
 honestly didn't make much sense to me in the beginning.

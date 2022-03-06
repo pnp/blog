@@ -237,7 +237,7 @@ just works without any fuss. The local web server, on the other hand,
 will most likely have a self-signed, untrusted certificate. So the trick
 is to get your browser and/or Microsoft Teams to trust it.
 An option that often works is to browse to the local server from a
-regular web browser, click the security error, and tell the browser to
+regular web browser, select the security error, and tell the browser to
 trust the certificate. You can then run Teams in the same browser and
 bypass the issue. If the Teams client shares the same certificate store
 as your browser, it will also work. However these default certificates

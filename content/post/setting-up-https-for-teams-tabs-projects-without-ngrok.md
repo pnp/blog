@@ -75,19 +75,19 @@ your part.
 
 ### On Windows 
 
--   Double click on the `ca.crt` file and click "Install Certificate".
+-   Double select  the `ca.crt` file and select "Install Certificate".
     \
     {{< image alt="ssl-01.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-01.png" >}}
 
--   Choose Local Machine and click next.
+-   Choose Local Machine and select next.
     \
     {{< image alt="ssl-02.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-02.png" >}}
 
      
 
 -   Select "Place all certificates in the following store" and then
-    click the "Browse" button. Choose "Trusted Root Certification
-    Authorities" click "OK" to close the dialog box, and then click
+    select the "Browse" button. Choose "Trusted Root Certification
+    Authorities" select "OK" to close the dialog box, and then click
     "Next".
     \
     {{< image alt="ssl-03.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-03.png" >}}
@@ -97,12 +97,12 @@ your part.
 
 ### On Mac 
 
--   Double click on the **ca.crt** file, which should be found
+-   Double select  the **ca.crt** file, which should be found
     under `/Users/[your-name]/`. It will launch Keychain Access app.
 -   Enter your password or use Touch ID when prompted. \
     {{< image alt="ssl-mac-01.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-mac-01.png" >}}
 -   The new certificate (in this case, "MyOrg") should be added.
-    Double-click it. \
+    Double-select it. \
     {{< image alt="ssl-mac-02.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-mac-02.png" >}}
 -   In a new window, expand the **Trust** section of the certificate
     details. Select "Always Trust" for every option. \

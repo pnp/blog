@@ -174,7 +174,7 @@ function main(workbook: ExcelScript.Workbook) {
  
  
 **Where do you find Excel Scripts Functionality?**  It's an Excel
-Online feature.  Load up Excel and click on the Automate Tab.  Here you
+Online feature.  Load up Excel and select  the Automate Tab.  Here you
 can view all scripts, record some actions and edit new or existing
 scripts that have been built.
  

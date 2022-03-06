@@ -37,7 +37,7 @@ tenant](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-
 The benefit of signing in with your (developer) account is, that you can
 execute all requests including POST and DELETE requests, which is not
 possible in the sample account.
-When you click the gear icon, you will find a shortcut to the Microsoft
+When you select the gear icon, you will find a shortcut to the Microsoft
 365 developer program website (to get your sandbox with sample data),
 and you can change the theme as it suits your needs best. I like dark
 mode most :black_heart:.
@@ -46,7 +46,7 @@ mode most :black_heart:.
 ### Sample queries 
 
 You will find sample queries below authentication - some may be disabled
-if you are not logged in. If you click on a sample, like I did in the
+if you are not logged in. If you select  a sample, like I did in the
 screenshot below, Graph Explorer will send this HTTP request to
 Microsoft Graph - and get my joined teams. We can see this in the
 request area (upper part) and the response area (lower part):
@@ -89,7 +89,7 @@ I also recommend having a look at the beautiful \[Microsoft Graph
 component\](<https://developer.microsoft.com/graph/components> )
 browser.
 Last but not least: Documentation to every sample is nicely tied in -
-click on the pop-out icon next to the sample queries:
+select  the pop-out icon next to the sample queries:
 
 {{< image alt="pop-out-docs.png" src="images/blog/how-to-get-started-with-graph-explorer/pop-out-docs.png" >}}
 

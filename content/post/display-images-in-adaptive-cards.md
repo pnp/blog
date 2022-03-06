@@ -104,13 +104,13 @@ Let me show you how.
 
 1.  Once account is provisioned, open it and:
     1.  Navigate to Containers
-    2.  Click to create new container
+    2.  Select to create new container
     3.  Provide its name and set its access to Private
  
 {{< image alt="image-10" src="images/blog/display-images-in-adaptive-cards/image-10.png" >}}
  
 1.  Now upload image you would like to display in Adaptive Card:
-    1.  Click the Upoad link
+    1.  Select the Upoad link
     2.  Choose a file you want to upload and select all properties as
         per your choice
     3.  Finally after upload navigate to Shared access tokens page
@@ -124,7 +124,7 @@ Let me show you how.
     2.  Define expiration dates -- when token will expire and asset will
         become inaccessible again
     3.  Select HTTPS only, since that is what Adaptive Cards support
-    4.  Click to Generate SAS token and URL
+    4.  Select to Generate SAS token and URL
     5.  Copy the SAS token
  
 {{< image alt="image-12" src="images/blog/display-images-in-adaptive-cards/image-12.png" >}}

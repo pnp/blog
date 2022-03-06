@@ -95,8 +95,8 @@ Like in Module 2, open your terminal (I use the built-in PowerShell in
 Visual Studio Code) and type in \`npm start\`, which will open your
 browser with \`localhost:8080\`.
 
-\* Click on \*\*Sign in with Microsoft\*\*\
-\* Click the \`show profile picture\` button\
+\* Select  \*\*Sign in with Microsoft\*\*\
+\* Select the \`show profile picture\` button\
 \* see that profile pic? YAY - time for a happy dance- You made it!
 
 {{< image alt="tropy.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-3/tropy.png" >}}

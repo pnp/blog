@@ -148,7 +148,7 @@ we can now look at a list like that:
 -   copy the code to your clipboard
 -   go to your SharePoint list
 -   go to column settings \--\> format this column
--   click on **Advanced mode**
+-   select  **Advanced mode**
 -   paste the code
 -   click **Save**
 

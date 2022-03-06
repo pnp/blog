@@ -158,7 +158,7 @@ your App registration to complete the security process.
 {{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_10-1620296727075.png" >}}
 
 I *think* that this is now standard, but just in case, copy the Redirect
-URL and go back to your App Registration in Azure AD. Click on the link
+URL and go back to your App Registration in Azure AD. select  the link
 highlighted.
 
 

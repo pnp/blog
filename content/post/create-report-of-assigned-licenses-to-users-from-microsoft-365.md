@@ -57,7 +57,7 @@ Let's get started !!
 and SKU IDs**
 When we get the user's assigned licenses from Graph API then it returns
 SKU ID only. So, we can use this list to filter Product Names from SKU
-ID. [Click
+ID. [Select
 here](https://docs.microsoft.com/azure/active-directory/enterprise-users/licensing-service-plan-reference) to
 get a list of licenses product names and SKU IDs.
 
@@ -70,34 +70,34 @@ called GUID. Add Product Name and GUID from above Microsoft Documents.
 ### Application Creation
 
 -   Open [Azure portal](http://portal.azure.com/)
--   Click on azure active directory
--   Click on App registration
--   Click on New Registration
+-   Select  azure active directory
+-   Select  App registration
+-   Select  New Registration
 -   Enter the Name of the application
 -   Select 'Accounts in this organizational directory only '
--   Click on register
+-   Select  register
 -   Copy Application ID and Tenant ID and put it aside, we will use it
     in power automate.
 
 ### Generate Secret Key
 
--   Click on 'Certificates & secrets' in the newly created application.
--   Click on New client secret
+-   Select  'Certificates & secrets' in the newly created application.
+-   Select  New client secret
 -   Add description
 -   Select Expires to 24 months.
--   Click on Add
+-   Select  Add
 -   Copy the value of the Secret key and put it aside, we will use it in
     power automate.
 
 ### Grant API Permission
 
--   Click on API Permission
--   Click on 'Add a permission'
+-   Select  API Permission
+-   Select  'Add a permission'
 -   Select Microsoft Graph
 -   Select Application Permission
 -   Find and Select '**User.Read.All**'
--   Click on Add Permission
--   Click on **Grant Admin consent** for `<Tenant Name>`
+-   Select  Add Permission
+-   Select  **Grant Admin consent** for `<Tenant Name>`
 
 ## Step 3 - Create Power Automate from Recurrence trigger
 

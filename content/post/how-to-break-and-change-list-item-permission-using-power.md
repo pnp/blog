@@ -23,14 +23,14 @@ this, we will use REST API
 Create a SharePoint List
 
 Create a Power Automate - We will create an **Automated Cloud Flow**
-1\. Go to **Power Automate** \> **My flows** \> Click on **New flow** \>
+1\. Go to **Power Automate** \> **My flows** \> Select  **New flow** \>
 Select **Automated Cloud Flow**
 **{{< image alt="STep 1.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/STep 1.png" >}}
  
 2\. It will ask for the flow name and trigger.
 Add flow name and choose a trigger **when an item is created.**
 {{< image alt="Step2.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/Step2.png" >}}
-3\. Click on **Cerate.**
+3\. Select  **Cerate.**
 4\. Now set Site name and list name in **when an item is created in
 list **action.
 {{< image alt="Step3.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/Step3.png" >}}

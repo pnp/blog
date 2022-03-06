@@ -65,7 +65,7 @@ Now **Add** and **install** the web part.
 
  
 
-Click on **App**.
+Select  **App**.
 
  
 

@@ -183,7 +183,7 @@ out. Yes, it may be frustrating, but that is part of the learning
 process and it's actually good for you.
 
 If you are building a canvas app, you can undo every step you take, so
-there is actually little risk to try things out. Click and see, what
+there is actually little risk to try things out. select and see, what
 happens. It will teach you a lot.
 
 Here is a little trick that I found especially useful: Always make a

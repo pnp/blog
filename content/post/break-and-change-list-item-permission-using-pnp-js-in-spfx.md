@@ -53,13 +53,13 @@ permissions.
 **Output**
 
 After successfully running the query now we will check the permission.
-so first select the list item and click on the details panel from the
+so first select the list item and select  the details panel from the
 right corner second last icon (above the list title). you can see the
 panel as below,
 
 {{< image alt="FirstOP.png" src="images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/FirstOP.png" >}}
 
-Click on **manage access** and then click on Advanced as below,
+Select  **manage access** and then select  Advanced as below,
 
 
 {{< image alt="SecondCropped.png" src="images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/SecondCropped.png" >}}

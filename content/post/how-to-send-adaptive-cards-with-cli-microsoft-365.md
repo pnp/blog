@@ -87,14 +87,14 @@ m365 login
  
 
 In response you will be asked to open a web browser and login with a
-code. If you are using Visual Studio Code, you can click on the link,
+code. If you are using Visual Studio Code, you can select  the link,
 please copy the code upfront.
 
 {{< image alt="login.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/login.png" >}}
 
 After you pasted the code,
 
-* click **Next**
+* select **Next**
 * pick an account out of the list of accounts
 
 You will be seeing this message and can close this browser tab- we
@@ -170,21 +170,21 @@ Williams](https://www.twitter.com/williamsrabia) got you covered with
 [How to configure and use Incoming Webhooks in Microsoft
 Teams](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-configure-and-use-incoming-webhooks-in-microsoft-teams/ba-p/2051118)
 \* Open Microsoft Teams\
-\* Click the ellipsis icon on the Teams channel that you want to send
+\* Select the ellipsis icon on the Teams channel that you want to send
 the Adaptive Card to\
-\* Click **Connectors**\
+\* Select **Connectors**\
 \* Search for 'webhook'\
 {{< image alt="incoming-webhook.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/incoming-webhook.png" >}}
 
-\* Click **Add**\
-\* Click **Add** (yes, yet again)\
+\* Select **Add**\
+\* Select **Add** (yes, yet again)\
 \* Give your webhook a name\
 \* If you like to, you can upload a picture- messages sent via this
 webhook (our Adaptive Card) will have this image then as Profile Pic -
 this step is optional.
-\* Click **Create**\
+\* Select **Create**\
 \* Copy the generated URL\
-\* Click **Done**
+\* Select **Done**
 This URL is the URL we will need in the command later - If you want to,
 paste it into a notepad or similar.
 
