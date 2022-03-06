@@ -42,8 +42,7 @@ environment API.*
 **deltalink** with **deltatoken** in body area (image 2)\
 
 {{< image alt="ValerasNarbutas_0-1633418806793.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418806793.png" >}}
-
-3.  Use delta token in as GET request (image 3 )
+2.  Use delta token in as GET request (image 3 )
 
 {{< image alt="ValerasNarbutas_1-1633418877623.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_1-1633418877623.png" >}}
 
@@ -69,4 +68,3 @@ Hope this is useful :) have a great day
 [#dataverseAPI](https://web.yammer.com/main/search/threads?search=%23dataverseAPI)
 [#tip](https://web.yammer.com/main/search/threads?search=%23tip)
 [#postman ](https://web.yammer.com/main/search/threads?search=%23postman)[#tipoftheday](https://web.yammer.com/main/search/threads?search=%23postman)
-

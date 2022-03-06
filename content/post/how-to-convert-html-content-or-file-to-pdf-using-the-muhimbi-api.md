@@ -181,6 +181,7 @@ export class ConvertFileService {
  
 
 Now move to the **{WebpartName}WebPart.ts** file.
+
 1.  Initialize service in onInit()
 
 2.  Create an API key and API URL properties in property pane

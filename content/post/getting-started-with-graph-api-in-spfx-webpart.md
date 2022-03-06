@@ -50,12 +50,9 @@ If you are testing any API and get an **error** like this:
 Then follow the below steps,
  
 1. Select Permissions
-
 {{< image alt="Select Permssion.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Select Permssion.png" >}}
-
-
-2.  Then select the category in which you want to set permission and
-select  the **Consent** button.
+2. Then select the category in which you want to set permission and
+select the **Consent** button.
  
 {{< image alt="Permssions.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Permssions.png" >}}
  

@@ -212,6 +212,7 @@ if(indexOf([$PeopleWhoRegistered.email], ) == -1 && length([$PeopleWhoRegistered
 In this formula I am using a conditional
 operator [if()](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#expressions).
 In that if statement I am checking if three things are all true.
+
 1.  If the e-mail of the person who is creating the list item is not
 registered. This expression is using
 a [IndexOf](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#operators) binary

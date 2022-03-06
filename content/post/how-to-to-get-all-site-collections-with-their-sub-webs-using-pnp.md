@@ -23,6 +23,7 @@ Open Windows PowerShell ISE\
 Create a new file and write a script
 
 Now we will see all the steps which we required to achieve the solution:
+
 1.  We will initialize the admin site URL, username, and password in the
 global variables.
 

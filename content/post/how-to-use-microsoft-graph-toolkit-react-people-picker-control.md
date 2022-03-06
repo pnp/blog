@@ -105,6 +105,7 @@ export interface IReactAzureadUsersState {
 
 Move to the **{webpartname}.ts** file. Here we will get the graph client
 and context and then we will pass it to the property,
+
 1.  Import required packages like **MSGraphClient**, **Providers**, and
 **SharePointProvider**.
 
@@ -199,6 +200,7 @@ export default class ReactAzureadUsersWebPart extends BaseClientSideWebPart<IRea
  
 
 Now move to the **{webpartname}.tsx** file.
+
 1.  Setup the graph context
 
 2.  Create a method to get the Azure group Id by group name and set it

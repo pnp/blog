@@ -18,6 +18,7 @@ an excel or word file on your OneDrive, try <http://excel.new> or
 <http://word.new>. 
  
 In the following post I will cover three ideas:
+
 1.  Splitting a workbook with many worksheets into unique workbooks
 containing one sheet
 2.  Creating a new excel file and populating it with data
@@ -71,6 +72,7 @@ function main(workbook: ExcelScript.Workbook,
  
  
 This allows us to create a flow that will:
+
 1.  return an array of sheet names in our first office script action
 2.  create a copy of the original excel file with the sheet name
 prefixed to the file name
@@ -145,6 +147,7 @@ A compose action with the File Content copied into it.  
 
 
 By doing it this way, we achieve two things.
+
 1.  no need for the donor empty excel file, we can delete it and not
 have to worry about it being deleted accidentally
 2.  we can remove the get file content action and rely entirely on the

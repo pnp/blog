@@ -92,11 +92,9 @@ implementation.
 *SPService.ts* file inside **src/webparts/shared/service**
 In the end, our structure will be looks like this,
 {{< image alt="Project Structure.png" src="images/blog/spfx-webpart-form-validation-using-react-formik/Project Structure.png" >}}
-
-
 2.  Create a state interface as below inside **IReactFormikState.ts.**
  
- 
+
 
 ```javascript
 export interface IReactFormikState {
@@ -104,13 +102,9 @@ export interface IReactFormikState {
   startDate?: any;
   endDate?: any;
 }
-```
- 
- 
+``` 
 
 3.  Create a method to create a task inside **SPService.ts.**
- 
- 
 
 ```javascript
 import "@pnp/sp/webs";
@@ -142,12 +136,10 @@ export class SPService {
     }
 }
 ```
- 
- 
 
-4.  Move to the **ReactFormikWebPart.ts**. In this, we will pass the
+Move to the **ReactFormikWebPart.ts**. In this, we will pass the
 current SP context and read site URL from user.
- 
+
  
 
 ```javascript
@@ -231,7 +223,7 @@ export default class ReactFormikWebPart extends BaseClientSideWebPart<IReactForm
  
  
 
-5.  Move to the **ReactFormik.tsx** file to render form and validations
+1.  Move to the **ReactFormik.tsx** file to render form and validations
 **yup syntaxs:**
 
 -  For string: yup.string().required('Required')
