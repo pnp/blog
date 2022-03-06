@@ -34,7 +34,7 @@ on:
   #         fix: true
 jobs:
   markdown-link-check:
-    name: Broken Links
+    name: Verify Markdown
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
