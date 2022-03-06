@@ -41,12 +41,18 @@ jobs:
         uses: actions/checkout@v2
         with:
           submodules: recursive
+      - name: Run Markdown Lint
+        uses: actionshub/markdownlint@main
+        with:
+          files: content/post/**/*.md
+          fix: true
+          config: .markdownlint.json
       - name: Run link check
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           folder-path: content/post
           use-quiet-mode: 'no'
           use-verbose-mode: 'yes'
-          check-modified-files-only: 'no'
+          check-modified-files-only: 'yes'
           config-file: '.mlc_config.json'
           base-branch: main
