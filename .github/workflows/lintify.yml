@@ -1,5 +1,3 @@
-
-
 name: Markdown Lint
 
 # Controls when the workflow will run
@@ -14,7 +12,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  lxntify:
+  lintify:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,7 +24,7 @@ jobs:
         # markdownlint config file
         # config: # optional
         # Markdown files to scan
-        # files: # optional, default is **/*.{md,markdown}
+        files: 'content/post/**/*.md'
         # Files or directories to ignore
         # ignore: # optional
         # Try to fix basic errors
