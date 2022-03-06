@@ -45,8 +45,8 @@ jobs:
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           folder-path: content/post
-          use-quiet-mode: 'no'
-          use-verbose-mode: 'yes'
-          check-modified-files-only: 'no'
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'no'
+          check-modified-files-only: 'yes'
           config-file: '.mlc_config.json'
           base-branch: main

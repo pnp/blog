@@ -116,7 +116,7 @@ for **GitHub Pages** . In the
 Source dropdowns,
 select **Main** and **docs** then
 click **Save**
-![eemancini_0-1613663078684.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/255806iE149A57D903D3B97/image-size/medium?v=v2&px=400 "eemancini_0-1613663078684.png" )
+{{< image alt="eemancini_0-1613663078684.png" src="images/blog/adding-custom-metadata-through-a-content-pack-in-learning/eemancini_0-1613663078684.png" >}}
 
 Upon saving, GitHub will bring you to the top of the page again. Scroll
 down to ] **GitHub Pages**  once more

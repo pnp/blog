@@ -77,20 +77,20 @@ Platform Panel](https://aka.ms/SuccessPanel)  
 -   Office Developer Community help: 
     <https://developer.microsoft.com/office> (**Office-js-docs-pr,
     PnP-OfficeAddins**) 
--   Office Add-ins documentation \|
+-   Office Add-ins documentation |
     [aka.ms/office-add-ins-docs](https://aka.ms/office-add-ins-docs)
--   Office Scripts \|
+-   Office Scripts |
     [aka.ms/office-scripts-docs](https://aka.ms/office-scripts-docs)
--   Microsoft 365 Developer Program \| <https://aka.ms/M365devprogram> 
--   Script Lab \| <https://aka.ms/getscriptlab> 
--   [Office Add-ins documentation \|]{.underline}
+-   Microsoft 365 Developer Program | <https://aka.ms/M365devprogram> 
+-   Script Lab | <https://aka.ms/getscriptlab> 
+-   [Office Add-ins documentation |]{.underline}
     <https://aka.ms/office-add-ins-docs>[ ]{.underline}
--   Stack Overflow (questions) \|
+-   Stack Overflow (questions) |
     [https://stackoverflow.com](https://stackoverflow.com/)
     (**office-js, outlook-web-addins, office-scripts)**
--   GitHub (issues) \|
+-   GitHub (issues) |
     [https://github.com/OfficeDev/](https://github.com/OfficeDev/office-js)[**office-js**](https://github.com/OfficeDev/office-js)
--   UserVoice (feature requests) \|
+-   UserVoice (feature requests) |
     [https://officespdev.uservoice.com](https://officespdev.uservoice.com/)
 **Stay connected -- (all groups)  (Blog and YouTube posts)**
 

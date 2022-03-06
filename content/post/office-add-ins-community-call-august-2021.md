@@ -28,7 +28,7 @@ objects.), and
 inside a Microsoft Teams channel for purposes of collaborating on the
 data).  This month's Community spotlight recognizes MVP Maarten van Stam
 for his continued contributions.  Thank you!   Q&A in chat throughout
-call.  The call was hosted by David Chesnut (Microsoft) \|
+call.  The call was hosted by David Chesnut (Microsoft) |
 \@davidchesnut. Microsoft Presenters: Lillian Liu - Senior Program
 Manager and Onur Onder, Senior Software Engineer.   Recorded August 11,
 2021.
@@ -39,7 +39,7 @@ Manager and Onur Onder, Senior Software Engineer.   Recorded August 11,
     (Microsoft) -- [01:00](https://youtu.be/UflCQGPjz14?t=60)
 -   PowerPoint API update: Shape object - Onur Onder, Senior Software
     Engineer (Microsoft) -- [05:02](https://youtu.be/UflCQGPjz14?t=302)
--   PnP: Open in Teams - David Chesnut, Senior Dev Writer (Microsoft) \|
+-   PnP: Open in Teams - David Chesnut, Senior Dev Writer (Microsoft) |
     \@davidchesnut -- [13:08](https://youtu.be/UflCQGPjz14?t=788)
 -   Q&A -- [28:15](https://youtu.be/UflCQGPjz14?t=1695)
 
@@ -240,7 +240,7 @@ There isn't a specific certification for Office Add-in development, but
 there is a [Microsoft 365 Certified: Developer
 Associate](https://docs.microsoft.com/en-us/learn/certifications/m365-developer-associate/)
 certification. There is an Office Add-in specific learning at [Extend
-Office clients with Office add-ins -- Associate - Learn \| Microsoft
+Office clients with Office add-ins -- Associate - Learn | Microsoft
 Docs](https://docs.microsoft.com/en-us/learn/paths/m365-office-add-in-associate/).
 
 **Does anyone know when VSTO will reach official end of life?**

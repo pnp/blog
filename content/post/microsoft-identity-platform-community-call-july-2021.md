@@ -33,10 +33,10 @@ recorded on July 15, 2021.  Live and in-chat Q&A throughout call. 
 
 **Resources:**
 
--   Documentation -- [Microsoft Graph](https://graph.microsoft.com/) \|
+-   Documentation -- [Microsoft Graph](https://graph.microsoft.com/) |
     <https://graph.microsoft.com/>
 -   Tool -- [Graph
-    Explorer](https://developer.microsoft.com/graph/graph-explorer) \|
+    Explorer](https://developer.microsoft.com/graph/graph-explorer) |
     <https://developer.microsoft.com/graph/graph-explorer>
 -   Deck used for call attached to this blog post contains many links to
     resources.

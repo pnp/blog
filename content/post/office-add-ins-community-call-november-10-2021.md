@@ -32,7 +32,7 @@ recognizes MVP Maarten van Stam and Eric Legault for their continued
 contributions to this community.  Greatly appreciated!  Register for the
 [PnP Recognition Program](https://aka.ms/m365pnp-recognition).  Q&A live
 and in chat throughout call.  The call was hosted by David Chesnut
-(Microsoft) \| \@davidchesnut. Recorded November 10, 2021.
+(Microsoft) | \@davidchesnut. Recorded November 10, 2021.
 
 ##   
 
@@ -190,7 +190,7 @@ we don't have any APIs around this today. However, it would be great to
 learn more about your scenario. Please consider submitting a feature
 request for this at <https://aka.ms/m365dev-suggestions>. If you intend
 to read a file then this is possible. Please refer to the [OneDrive file
-storage API overview - Microsoft Graph \| Microsoft
+storage API overview - Microsoft Graph | Microsoft
 Docs](https://docs.microsoft.com/graph/onedrive-concept-overview).
 
 **Any news when the current PowerPoint Preview API will go live?**

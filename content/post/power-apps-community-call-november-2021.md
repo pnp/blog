@@ -22,18 +22,18 @@ Topics covered in this month's community call include demos **Power Apps
 Christmas Calendar + Games** (Advent calendar with engaging games
 unlocked on Dec 18th and 23rd) - [Craig
 Gregory](http://twitter.com/CrashLongJohns)
-[\@CrashLongJohns](/t5/user/viewprofilepage/user-id/1127338) and 
+[\@CrashLongJohns](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1127338) and 
 
 **Teams
 Provision Genie** (Canvas app that simplifies the configuration and
 deployment of enterprise ready Teams sites) - [Luise
-Freese](http://twitter.com/LuiseFreese) \| \@LuiseFreese & [Carmen
-Ysewijn](http://twitter.com/CarmenYsewijn) \| \@CarmenYsewijn.
+Freese](http://twitter.com/LuiseFreese) | \@LuiseFreese & [Carmen
+Ysewijn](http://twitter.com/CarmenYsewijn) | \@CarmenYsewijn.
 
 **Recent
 Power Apps News and Community Contributions** (16 Power Apps
 announcements at Ignite and more) **--** [Charles
-Sterling](http://twitter.com/chass) (Microsoft) \| \@chass. This call
+Sterling](http://twitter.com/chass) (Microsoft) | \@chass. This call
 was hosted by [Todd Baginski](http://twitter.com/toddbaginski) (Canviz).
 
 
@@ -44,14 +44,14 @@ attending the call or viewing it on demand. 
 **Agenda:**  
 
 -   Power Apps Christmas Calendar + Games - [Craig
-    Gregory](http://twitter.com/crashlongjohns) \| \@crashlongjohns --
+    Gregory](http://twitter.com/crashlongjohns) | \@crashlongjohns --
     [4:05](https://youtu.be/4IOoopyx_Ko?t=245)
 -   Teams Provision Genie - [Luise
-    Freese](http://twitter.com/LuiseFreese) \| \@LuiseFreese & [Carmen
-    Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) \|
+    Freese](http://twitter.com/LuiseFreese) | \@LuiseFreese & [Carmen
+    Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) |
     \@CarmenYsewijn -- [27:05](https://youtu.be/4IOoopyx_Ko?t=1625)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) \| \@chass --
+    Sterling](http://twitter.com/chass) (Microsoft) | \@chass --
     [63:44](https://youtu.be/4IOoopyx_Ko?t=3824)
 
 **Demos:**
@@ -85,7 +85,7 @@ attending the call or viewing it on demand. 
 -   Groups - [Public Preview for User
     Groups](https://community.powerbi.com/t5/Power-BI-User-Groups/ct-p/pbi_usergroups) 
 -   Join us for our next call: December 15, 2021 at 08:00am PST
-    \| <https://aka.ms/powerappscommunitycall>
+    | <https://aka.ms/powerappscommunitycall>
 
 **Referenced in this session:**
 
@@ -112,9 +112,9 @@ attending the call or viewing it on demand. 
 -   Power Apps Community Videos
     -[ https://aka.ms/PowerAppsCommunityVideos](https://aka.ms/PowerAppsCommunityVideos)
 -   PowerPlatformLearn Resources
-    \| [https://www.powerplatformlearn.academy](https://www.powerplatformlearn.academy/)
+    | [https://www.powerplatformlearn.academy](https://www.powerplatformlearn.academy/)
 -   PnP Power Platform Samples
-    \| <https://www.aks.ms/powerplatform-samples>
+    | <https://www.aks.ms/powerplatform-samples>
 -   Power Addicts Hangout
     - [https://wearepoweraddicts.com](https://wearepoweraddicts.com/)
 -   #LessCodeMorePower Video Series

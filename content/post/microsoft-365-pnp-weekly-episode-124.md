@@ -16,12 +16,12 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by MVP, PnP Team member, and Architect at US-based Sympraxis
 Consulting [Emily Mancini](https://twitter.com/EEMancini)
-\|\@EEMancini.   Topics discussed in this session include:  Sharing is
+|\@EEMancini.   Topics discussed in this session include:  Sharing is
 Caring engagement model, Aligning and addressing the client's business
 needs with capabilities of owned technologies, i.e., Microsoft 365 for
 making changes with the business and not to the business!
@@ -91,11 +91,11 @@ everyone for your contributions to the community!\
 -   [Microsoft 365 Virtual Marathon 2021 - free, online training
     event](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-365-virtual-marathon-2021-free-online-training-event/ba-p/2279514?WT.mc_id=m365-26913-wmastyka) -
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
-    \| \@mkashman
+    | \@mkashman
 -   [iPad support now available in Microsoft Lists for
     iOS](https://techcommunity.microsoft.com/t5/microsoft-365-blog/ipad-support-now-available-in-microsoft-lists-for-ios/ba-p/2281161?WT.mc_id=m365-26913-wmastyka) -
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
-    \| \@mkashman
+    | \@mkashman
 -   [Build quality Microsoft Teams apps with these best practices: Part
     3](https://developer.microsoft.com/en-us/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-3/?WT.mc_id=m365-26913-wmastyka) -
     Microsoft
@@ -114,78 +114,78 @@ everyone for your contributions to the community!\
     Automate](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/ba-p/2290219?WT.mc_id=m365-26913-wmastyka)
     - [Damien Bird](https://twitter.com/DamoBird365) (Aberdeen City
     Council)
-    \| [\@DamoBird365](/t5/user/viewprofilepage/user-id/1035201)
+    | [\@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
 -   [Microsoft 365 PnP Community Spotlight: Wictor
     Wilén](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-wictor-wil%C3%A9n/ba-p/2290078?WT.mc_id=m365-26913-wmastyka)
-    - [Luise Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese &
-    [Wictor Wilén](https://twitter.com/wictor) (Avanade) \| \@wictor
+    - [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese &
+    [Wictor Wilén](https://twitter.com/wictor) (Avanade) | \@wictor
 -   [What I (as a non dev) learned as I created my first Power
     App](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/ba-p/2288239?WT.mc_id=m365-26913-wmastyka)
     - [Michael Roth](https://twitter.com/@gezeitenbrand) (IT-P
     Information Technology-Partner GmbH)
-    \| [\@Gezeitenbrand](/t5/user/viewprofilepage/user-id/308558)
+    | [\@Gezeitenbrand](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/308558)
 -   [Learn to debug your Power
     Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/learn-to-debug-your-power-apps/ba-p/2288271?WT.mc_id=m365-26913-wmastyka)
     - [Michael Roth](https://twitter.com/@gezeitenbrand) (IT-P
     Information Technology-Partner GmbH)
-    \| [\@Gezeitenbrand](/t5/user/viewprofilepage/user-id/308558)
+    | [\@Gezeitenbrand](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/308558)
 -   [Export Power Apps and Power Automate user
     licenses](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/export-power-apps-and-power-automate-user-licenses/ba-p/2281840?WT.mc_id=m365-26913-wmastyka)
     - [Yves Habersaat](https://www.twitter.com/yhabersaat) (Sword Group)
-    \| [\@yhabersaat](/t5/user/viewprofilepage/user-id/957821)
+    | [\@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
 -   [How to beautify your Power
     Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-beautify-your-power-apps/ba-p/2280799?WT.mc_id=m365-26913-wmastyka)
-    - [Luise Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
+    - [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
 -   [Intro to Power Apps Components and Custom
     Functions](https://www.youtube.com/watch?v=MQGqHwZdUes) - [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam
+    | \@aprildunnam
 -   [Microsoft 365 Developer - Tips & Tricks
     playlist](https://www.youtube.com/playlist?list=PLWZJrkeLOrbYY0fA3G6m9pi37WuhwI0ab) -
-    [Bob German](https://twitter.com/Bob1German) (Microsoft) \|
+    [Bob German](https://twitter.com/Bob1German) (Microsoft) |
     \@Bob1German, [Dan Wahlin](https://twitter.com/DanWahlin)
-    (Microsoft) \| \@DanWahlin, [April
+    (Microsoft) | \@DanWahlin, [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam and [Ayca
+    | \@aprildunnam and [Ayca
     Bas](http://twitter.com/aycabs)[ ](http://twitter.com/aycabs)(Microsoft)
-    \| \@aycabs​
+    | \@aycabs​
 -   [Episode #151​ - Paging Data with Microsoft Graph SDK for
     .NET](https://www.youtube.com/watch?v=H_gg3fmCWzo) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) \| \@PaoloPia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia
 -   [Power Apps Forms - Updates, Unsaved & Submit
     Confirmation](https://www.youtube.com/watch?v=S0Zs66RVka4) - [Reza
     Dorrani](https://twitter.com/rezadorrani) (Catapult Systems)
-    \| [\@RezaDorrani](/t5/user/viewprofilepage/user-id/285374)
+    | [rdorrani](https://github.com/rdorrani)
 -   [Actually, It's Already In The SharePoint
     PageContext!](https://tipsbybits.com/other/actually-its-already-in-the-sharepoint-pagecontext/) -
-    [Tips by Bits](https://twitter.com/TipsByBits) \| \@TipsByBits
+    [Tips by Bits](https://twitter.com/TipsByBits) | \@TipsByBits
 -   [Implement Carousel in SPFx web part using
     react-slick](https://knowledge-junction.com/2021/04/22/implement-carousel-in-spfx-webpart-using-react-slick/) -
     [Prasham Sabadra](https://twitter.com/SabadraPrasham)
-    \| \@SabadraPrasham
+    | \@SabadraPrasham
 -   [Monitoring Microsoft 365 using Raspberry Pi and M365
     CLI](https://chuvash.eu/2021/04/20/monitoring-microsoft-365-using-raspberry-pi-and-m365-cli/)
     - [Anatoly Mironov](https://twitter.com/mirontoli) (Bool by Sigma)
-    \| \@mirontoli
+    | \@mirontoli
 -   [Building Modern SharePoint Pages with Quick
     Links](https://coupledtech.com/2021/04/20/sharepoint-quick-links/)
     - [Sam Collins](https://twitter.com/SamC148) (Coupled Technology)
-    \| \@SamC148
+    | \@SamC148
 -   [Adding Conditional Formatting for a List Form Header with
     JSON](https://sympmarc.com/2021/04/21/adding-conditional-formatting-for-a-list-form-header-with-json/) -
     [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis
-    Consulting) \| \@sympmarc
+    Consulting) | \@sympmarc
 -   [SharePoint Syntex - teaching AI to extract contents of structured
     documents with Form
     Processing](https://www.sharepointnutsandbolts.com/2021/04/Syntex-Forms-Processing.html) -
     [Chris O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
-    \| \@ChrisO_Brien\
+    | \@ChrisO_Brien\
 -   [Would you ever use SharePoint Online without Microsoft
     Teams?](https://regarding365.com/would-you-ever-use-sharepoint-online-without-microsoft-teams-42056319f7de)
-    - [Sarah Haase](https://twitter.com/sarahhaase) \|
-    \@sarahhaase, [Antonio Maio](https://twitter.com/AntonioMaio2) \|
+    - [Sarah Haase](https://twitter.com/sarahhaase) |
+    \@sarahhaase, [Antonio Maio](https://twitter.com/AntonioMaio2) |
     \@AntonioMaio2 and [Mike
-    Maadarani](https://twitter.com/mikemaadarani) \| \@mikemaadarani
+    Maadarani](https://twitter.com/mikemaadarani) | \@mikemaadarani
 
  
 

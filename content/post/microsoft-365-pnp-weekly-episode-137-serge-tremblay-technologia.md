@@ -19,11 +19,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by Canada-based MVP and Consultant from
-[Technologia](https://www.technologia.com/en) - Serge Tremblay \|
+[Technologia](https://www.technologia.com/en) - Serge Tremblay |
 \@Sergepoint.
 
  
@@ -88,7 +88,7 @@ everyone for your contributions to the community!
 
  
 
--   [What's New in Microsoft Teams \| September
+-   [What's New in Microsoft Teams | September
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-september-2021/ba-p/2793627) -
     Microsoft  
 -   [Announcing general availability of Microsoft Graph Export API for
@@ -98,11 +98,11 @@ everyone for your contributions to the community!
 -   [Microsoft 365 Developer Podcast - Latest Microsoft Graph SDKs with
     Maisa Rissi and Darrel
     Miller](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsft-365-developer-podcast-latest-microsoft-graph-sdks-with/ba-p/2790309) -
-    [Paul Schaeflein](http://twitter.com/paulschaeflein) (Addin365) \|
-    [\@paulschaeflein](/t5/user/viewprofilepage/user-id/113) 
+    [Paul Schaeflein](http://twitter.com/paulschaeflein) (Addin365) |
+    [\@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113) 
 -   [Office Add-in Samples - September 2021
     update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-in-samples-september-2021-update/ba-p/2768832) -
-    [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \|
+    [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) |
     \@davidchesnut 
 
  
@@ -113,12 +113,12 @@ everyone for your contributions to the community!
 
 -   [ProvisionGenie - an open-source provisioning engine for Microsoft
     Teams](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/provisiongenie-an-open-source-provisioning-engine-for-microsoft/ba-p/2796434) -
-    [Luise Freese](http://twitter.com/LuiseFreese) \| \@LuiseFreese &
-    [Carmen Ysewijn](http://twitter.com/CarmenYsewijn) \|
+    [Luise Freese](http://twitter.com/LuiseFreese) | \@LuiseFreese &
+    [Carmen Ysewijn](http://twitter.com/CarmenYsewijn) |
     \@CarmenYsewijn 
 -   [Guidance On How To Use React DataTable
     Webpart](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/guidance-on-how-to-use-react-datatable-webpart/ba-p/2772933) -
-    [Chandani Prajapati](http://twitter.com/Chandani_SPD) \|
+    [Chandani Prajapati](http://twitter.com/Chandani_SPD) |
     \@Chandani_SPD 
 -   [Get Permission Report for SharePoint Online or OneDrive File using
     CLI for Microsoft
@@ -126,33 +126,33 @@ everyone for your contributions to the community!
     Arjun Menon  
 -   [Looking at Things in
     Profile](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/looking-at-things-in-profile/ba-p/2781232) -
-    [Simon Hudson](http://twitter.com/simonjhudson) (Cloud2) \|
-    [\@SimonJHudson](/t5/user/viewprofilepage/user-id/792961)  
+    [Simon Hudson](http://twitter.com/simonjhudson) (Cloud2) |
+    [\@SimonJHudson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/792961)  
 -   [Grant Permissions to All Communication Sites Associated with a Hub
     Site](https://sympmarc.com/2021/09/29/grant-permissions-to-all-communication-sites-associated-with-a-hub-site/) -
     [Marc D Anderson](http://twitter.com/sympmarc) (Sympraxis Consulting
-    LLC) \| \@sympmarc
+    LLC) | \@sympmarc
 -   [Running a Power App as Edge
     Extension](https://www.cloudappie.nl/power-app-edge-extension/) -
-    [Albert-Jan Schot](http://twitter.com/appieschot) (Portiva) \|
+    [Albert-Jan Schot](http://twitter.com/appieschot) (Portiva) |
     \@appieschot 
 -   [Call Azure AD secured Azure function from Logic App or another
     function with Managed
     Identity](https://spblog.net/post/2021/09/28/call-azure-ad-secured-azure-function-from-logic-app-or-another-function-with-managed-identity) -
-    [Sergei Sergeev](http://twitter.com/sergeev_srg) (Mastaq) \|
+    [Sergei Sergeev](http://twitter.com/sergeev_srg) (Mastaq) |
     \@sergeev_srg  
 -   [Create Conditional Access Policies using Microsoft Graph
     PowerShell](https://helloitsliam.com/2021/09/27/create-conditional-access-policies-using-microsoft-graph-powershell/) -
-    [Liam Cleary](http://twitter.com/helloitsliam) (Rencore) \|
+    [Liam Cleary](http://twitter.com/helloitsliam) (Rencore) |
     \@helloitsliam 
 -   [Execute JavaScript / TypeScript / Excel Formulas from Power
     Automate](https://www.markrackley.net/2021/09/27/execute-javascript-typescript-excel-formulas-from-power-automate/) -
-    [Mark Rackley](http://twitter.com/mrackley) (PAIT Group) \|
+    [Mark Rackley](http://twitter.com/mrackley) (PAIT Group) |
     \@mrackley 
 -   [Calculate travel distance using Power
     Automate](https://sharepains.com/2021/09/27/calculate-travel-distance-power-automate/) -
     [Pieter Veenstra](http://twitter.com/PieterVeenstra) (HybrIT
-    Services) \| \@PieterVeenstra 
+    Services) | \@PieterVeenstra 
 
  
 

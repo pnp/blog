@@ -24,7 +24,7 @@ As well there was **Recent Power Apps News
 and Community Contributions**, and more! 
 
 Community welcomes [Anna
-Chu](http://twitter.com/_achu) - Sr. Program Manager (Microsoft) \|
+Chu](http://twitter.com/_achu) - Sr. Program Manager (Microsoft) |
 \@\_achu.  
 
 This call was hosted by [Todd
@@ -40,16 +40,16 @@ on demand. 
 **Agenda:**  
 
 -   PokéBubbles Game - [Michelle
-    Wong](http://twitter.com/MichelleWongNL) \|
-    [\@MichelleWongNL](/t5/user/viewprofilepage/user-id/707040) --
+    Wong](http://twitter.com/MichelleWongNL) |
+    [\@MichelleWongNL](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/707040) --
     [6:21](https://youtu.be/L_D-ppjeRoE?t=381)
 -   How to get Microsoft Certified in the Power Platform - [Sheryl
-    Netley](http://twitter.com/SherylNetley)  \|
-    [\@SherylNetley](/t5/user/viewprofilepage/user-id/718554) & [Jese
-    Navaranjan](http://twitter.com/JeseNav2) (Avanade) \| \@JeseNav2 --
+    Netley](http://twitter.com/SherylNetley)  |
+    [\@SherylNetley](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/718554) & [Jese
+    Navaranjan](http://twitter.com/JeseNav2) (Avanade) | \@JeseNav2 --
     [28:53](https://youtu.be/L_D-ppjeRoE?t=1733)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) \| \@chass --
+    Sterling](http://twitter.com/chass) (Microsoft) | \@chass --
     [58:54](https://youtu.be/L_D-ppjeRoE?t=3534)
 
 **Demos:**
@@ -112,7 +112,7 @@ on demand. 
     11, <https://globalpowerbisummit.com/>
 
 -   Join us for our next call: November 17, 2021 at 08:00am PDT
-    \| <https://aka.ms/powerappscommunitycall>
+    | <https://aka.ms/powerappscommunitycall>
 
 **Referenced in this session:**
 
@@ -149,9 +149,9 @@ on demand. 
 -   Power Apps Community Videos
     -[ https://aka.ms/PowerAppsCommunityVideos](https://aka.ms/PowerAppsCommunityVideos)
 -   PowerPlatformLearn Resources
-    \| [https://www.powerplatformlearn.academy](https://www.powerplatformlearn.academy/)
+    | [https://www.powerplatformlearn.academy](https://www.powerplatformlearn.academy/)
 -   PnP Power Platform Samples
-    \| <https://www.aks.ms/powerplatform-samples>
+    | <https://www.aks.ms/powerplatform-samples>
 -   Power Addicts Hangout
     - [https://wearepoweraddicts.com](https://wearepoweraddicts.com/)
 -   #LessCodeMorePower Video Series

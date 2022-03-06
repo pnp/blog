@@ -57,12 +57,12 @@ scalability/performance implications.**
 
 To manually create a new Solutions flow, navigate to the Solutions tab and select Default Solution > New > Cloud flow 
 
-![](content/media/../../../../content/media/create-and-retrieve-power-automate-flows-with-code/Tracy_2-1627940129014.png)
+{{< image alt="" src="images/blog/create-and-retrieve-power-automate-flows-with-code/Tracy_2-1627940129014.png" >}}
 
 To view existing Solutions flows, navigate to the Solutions tab and select Default Solution, then filter ‘Cloud flow’.
 To obtain the ID for a specific Solutions flow, select it and copy the GUID value (/flows/[GUID]/) from the browser URL.
 
-![](content/media/../../../../content/media/create-and-retrieve-power-automate-flows-with-code/Tracy_3-1627940128946.png)
+{{< image alt="" src="images/blog/create-and-retrieve-power-automate-flows-with-code/Tracy_3-1627940128946.png" >}}
 
 
 ### Part 2 --- Get ClientData Content for New Flows 

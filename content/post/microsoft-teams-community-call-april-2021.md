@@ -40,7 +40,7 @@ Teams apps with these best practices](https://aka.ms/m365dev/blog)."
 Microsoft Teams
 app](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview)"
 with layout guidance and reusable assets.  The host of this call was
-Vesa Juvonen (Microsoft) \| \@vesajuvonen.  Q&A takes place in chat
+Vesa Juvonen (Microsoft) | \@vesajuvonen.  Q&A takes place in chat
 throughout the call.
 
 **Actions:**
@@ -126,20 +126,20 @@ Thank you for your work. Samples are often showcased in Demos.
     - [5:20](https://youtu.be/sQeICJCdFjI?t=320)
 
 -   Latest News - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen - [9:07](https://youtu.be/sQeICJCdFjI?t=547)
 
 -   **Demo:**  Build your first Microsoft Teams Bot - [Stephan
-    Bisser](http://twitter.com/stephanbisser) (Solvion) \|
+    Bisser](http://twitter.com/stephanbisser) (Solvion) |
     \@stephanbisser - [11:53](https://youtu.be/sQeICJCdFjI?t=713)
 
 -   **Demo:**  Surfacing your existing solution in Microsoft Teams -
     [Rick Van Rousselt](http://twitter.com/RickVanRousselt) (Advantive)
-    \| \@RickVanRousselt - [27:48](https://youtu.be/sQeICJCdFjI?t=1668)
+    | \@RickVanRousselt - [27:48](https://youtu.be/sQeICJCdFjI?t=1668)
 
 -   **Demo:**  Transforming your SharePoint Framework web part as a
     Microsoft Teams personal app - [Albert-Jan
-    Schot](http://twitter.com/appieschot) (Portiva) \| \@appieschot -
+    Schot](http://twitter.com/appieschot) (Portiva) | \@appieschot -
     [43:20](https://youtu.be/sQeICJCdFjI?t=2600)
 
  
@@ -192,15 +192,15 @@ slides.
     Teams](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/build-for-teams-me-experience) 
 
 -   [Microsoft 365 PnP Community
-    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) \|
+    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
     aka.ms/m365pnp/community 
 
 -   [Microsoft 365 Extensibility look book
-    gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) \|
+    gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) |
     aka.ms/m365/extensibility
 
 -   [Microsoft Teams Samples
-    Gallery](https://pnp.github.io/teams-dev-samples/) \|
+    Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
 -   Viva Connections <https://aka.ms/VivaConnections>
@@ -216,36 +216,36 @@ slides.
 -   [Microsoft Teams app
     templates](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
--   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) \|
+-   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) |
     aka.ms/m365devyoutube
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) \| aka.ms/m365pnp/videos
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp/videos
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 
-**Upcoming Calls \| Recurrent Invites:**
+**Upcoming Calls | Recurrent Invites:**
 
  
 
--   **SharePoint Framework call --** April 22^nd^ at 7:00 am PDT \|
+-   **SharePoint Framework call --** April 22^nd^ at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **Microsoft 365 Development call --** April 29^th^ at 7:00 am PDT \|
+-   **Microsoft 365 Development call --** April 29^th^ at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Graph call -** May 4^th^ at 8:00 am PDT \|
+-   **Microsoft Graph call -** May 4^th^ at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint monthly call --** May 11^th^ at 8:00am PDT \|
+-   **SharePoint monthly call --** May 11^th^ at 8:00am PDT |
     <https://aka.ms/sp-call>
--   **Office add-in monthly call --** May 12^th^ at 8:00 am PDT \|
+-   **Office add-in monthly call --** May 12^th^ at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **Adaptive Cards monthly call --** May 13^th^ at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** May 13^th^ at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **Microsoft Teams monthly call --** May 18^th^ at 8:00 am PDT \|
+-   **Microsoft Teams monthly call --** May 18^th^ at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
--   **Microsoft Identity Platform --** May 20^th^ at 9:00 am PDT \|
+-   **Microsoft Identity Platform --** May 20^th^ at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar> 
--   **Power Apps monthly call --** May 19^th^ at 8:00 am PDT \|
+-   **Power Apps monthly call --** May 19^th^ at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
 
  

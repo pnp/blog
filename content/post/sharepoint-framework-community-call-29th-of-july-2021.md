@@ -45,7 +45,7 @@ v3.0.0 developments underway|
 There was 1 **PnP SPFx extension** and 4 **PnP web part samples**
 delivered in the last 2 weeks as well.  Nice work!    The host of this
 call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-\| \@mediocrebowler.  Q&A takes place in chat throughout the call.
+| \@mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="PnP-Calls-TogetherMode-LowResolution.gif" src="images/blog/sharepoint-framework-community-call-29th-of-july-2021/PnP-Calls-TogetherMode-LowResolution.gif" >}}
  
 
@@ -109,23 +109,23 @@ wait, now there's 35 wavers!   Data corruption.  
 -   **[Machine
     Translations](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-machine-translations)
     -** [Michał
-    Romiszewski](http://twitter.com/romiszewski) \| \@romiszewski
+    Romiszewski](http://twitter.com/romiszewski) | \@romiszewski
 
 </div>
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
 -   **[Datatable](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable)** -
     [Abderahman
-    Moujahid](http://twitter.com/Abderahman88) \| \@Abderahman88
+    Moujahid](http://twitter.com/Abderahman88) | \@Abderahman88
 -   **[Hero Web
     Part](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-hero-webpart)** -
-    [Omar El-Anis](http://twitter.com/omarelanis) \| \@omarelanis
+    [Omar El-Anis](http://twitter.com/omarelanis) | \@omarelanis
 -   **[Cross-Device
     Data](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-cross-device-data)** (link
     pending) - [Giuliano De
-    Luca](http://twitter.com/delucagiulian) \| [\@delucagiulian](/t5/user/viewprofilepage/user-id/1038317)
+    Luca](http://twitter.com/delucagiulian) | [\@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
 -   **[Diagrams](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-diagram-webparts)** (link
-    pending) - [Hugo Bernier](http://twitter.com/bernierh) \| \@bernierh
+    pending) - [Hugo Bernier](http://twitter.com/bernierh) | \@bernierh
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
@@ -147,19 +147,19 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
     \@mediocrebowler -- [13:58](https://youtu.be/BMXZlYtyKp4?t=838)
 -   PnP SPFx Samples - [Hugo
-    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) \|
+    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [15:00](https://youtu.be/BMXZlYtyKp4?t=900)
 
 **Demos:**
 
 -   **Demo:**  Hero Web Part and Tiles V2 Web Part -- [Omar
-    El-Anis](http://twitter.com/omarelanis) \|
+    El-Anis](http://twitter.com/omarelanis) |
     \@omarelanis [--][ [18:12](https://youtu.be/BMXZlYtyKp4?t=1092)]
 
 -   **Demo:**[  Exposing business data in Viva Connections or in
     SharePoint with custom diagram web parts --
     ][Hugo
-    Bernier](http://twitter.com/bernierh)[ (Microsoft) \|
+    Bernier](http://twitter.com/bernierh)[ (Microsoft) |
     \@bernierh ][--][ [41:12](https://youtu.be/BMXZlYtyKp4?t=2472)]
 **Resources:**
 
@@ -219,21 +219,21 @@ slides.
     Brochure) - aka.ms/modernworkbuildsessions
 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
--   [Sharing is Caring](https://aka.ms/sharing-is-caring) \|
+-   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
 
 -   [Tools - ](http://aka.ms/pnp-search)[PnP Modern Search
     v4](https://microsoft-search.github.io/pnp-modern-search/)[ 
-    \| ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
+    | ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
 
--   [M365 PnP site](https://aka.ms/m365pnp) \| aka.ms/m365pnp
+-   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
@@ -311,18 +311,18 @@ slides.
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls \| Recurrent invites:**
--   **M365 General Dev call** -- August 5th at 7:00 am PDT \|
+**Upcoming calls | Recurrent invites:**
+-   **M365 General Dev call** -- August 5th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Office add-in monthly call** -- August 11th at 8:00 am PDT \|
+-   **Office add-in monthly call** -- August 11th at 8:00 am PDT |
     <https://aka.ms/officeaddinscall>
--   **SharePoint Framework call** -- August 12th at 7:00 am PDT \|
+-   **SharePoint Framework call** -- August 12th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **Adaptive Cards monthly call** -- August 12th at 9:00 am PDT \|
+-   **Adaptive Cards monthly call** -- August 12th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call** -- August 18th at 8:00 am PDT \|
+-   **Power Apps monthly call** -- August 18th at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform** -- August 19th at 9:00 am PDT \|
+-   **Microsoft Identity Platform** -- August 19th at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar>
 PnP SharePoint Framework Special Interest Group bi-weekly calls are
 targeted at anyone who is interested in the JavaScript-based development

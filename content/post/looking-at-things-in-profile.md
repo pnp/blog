@@ -53,7 +53,7 @@ This is all useful stuff, but user profiles can, and should, go a lot
 further than the basics that AAD provides.
 
 **See**: [Manage user profiles in the SharePoint admin center --
-SharePoint in Microsoft 365 \| Microsoft
+SharePoint in Microsoft 365 | Microsoft
 Docs](https://docs.microsoft.com/en-us/sharepoint/manage-user-profiles#:~:text=%20Manage%20user%20profiles%20in%20the%20SharePoint%20admin,use%20OneDrive%2C%20but%20you%20don%27t%20want...%20More%20)
 
 **Access AAD
@@ -102,7 +102,7 @@ There are multiple 'ports of entry' to the profile update page:
 ### Admin management of profiles
 
 Microsoft 365 admins can manage core profile attributes from the *Users
-\| Active Users* page in the [Microsoft 365 admin
+| Active Users* page in the [Microsoft 365 admin
 center](https://admin.microsoft.com/?auth_upn=it.development%40emico.co&source=applauncher#/users);
 specifically:
 
@@ -242,7 +242,7 @@ The following Azure AD user attributes are synced to the UPA.
 
   ---------------------------- -------------------------------------------- ---------------------------------------------------------------------------------------------------------------------- -------------------
   **Azure AD attribute**       **User profile property display names**      **Notes**                                                                                                              **Sync to sites**
-  UserPrincipalName            Account Name User Name User Principal Name   Example: i:0#.f \<\|\> membership \<\|\> gherrera\@contoso.com gherrera\@contoso.com                                   Yes
+  UserPrincipalName            Account Name User Name User Principal Name   Example: i:0#.f \<|\> membership \<|\> gherrera\@contoso.com gherrera\@contoso.com                                   Yes
   DisplayName                  Name                                                                                                                                                                Yes
   GivenName                    FirstName                                                                                                                                                           Yes
   sn                           LastName                                                                                                                                                            Yes
@@ -263,7 +263,7 @@ UPA synchronization is limited to a preconfigured set of properties to
 guarantee consistent performance across the service.
 
 **See**: [About user profile synchronization -- SharePoint in Microsoft
-365 \| Microsoft
+365 | Microsoft
 Docs](https://docs.microsoft.com/en-us/sharepoint/user-profile-sync)
 
 ## Viva
@@ -279,7 +279,7 @@ analytics on individual and team activity and productivity. It seems
 reasonable that profile information may be incorporated into the UI of
 Viva and that the Delve experience will be deprecated.
 
-**See**: [Employee Experience & Engagement \| Microsoft
+**See**: [Employee Experience & Engagement | Microsoft
 Viva](https://www.microsoft.com/en-gb/microsoft-viva)
 
 **See:** [Microsoft 365 user profiles are adding Topics and skills to

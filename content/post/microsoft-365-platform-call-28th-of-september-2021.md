@@ -40,7 +40,7 @@ Podcast](https://m365devpodcast.com) focused exclusively on Microsoft
 Ignite](https://ignite.microsoft.com) (Digital event) -- November 2-4 is
 now open.  Latest news from Microsoft on Microsoft 365 platform and 2
 demos this week.  The host of this call was [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| \@vesajuvonen.
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
   Q&A takes place in chat throughout the call.
 **Microsoft 365 Platform News Flash**
 
@@ -51,7 +51,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| \@vesajuvonen.
 
 -   Register for Microsoft Ignite (Digital event) - November 2-4,
     2021- [https://ignite.microsoft.com](https://ignite.microsoft.com/)
--   Opt in to PnP Recognition Program \|
+-   Opt in to PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [November
@@ -116,7 +116,7 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
-    \| [\@vesajuvonen](https://twitter.com/vesajuvonen%20) --
+    | [\@vesajuvonen](https://twitter.com/vesajuvonen%20) --
     [4:24](https://youtu.be/MqGuY5V_0sQ?t=424)
 
 -   **D1:**  Introduction to Microsoft Viva Connections extensibility --
@@ -165,29 +165,29 @@ slides.
 -   **PnP Weekly -- Episode 136** (September 27th) with Belgium-based
     MVP and Technology Evangelist from The [Cronos
     Group](https://cronos-groep.be/en/) - [Thomas
-    Vochten](https://twitter.com/ThomasVochten) \| \@ThomasVochten
-    \| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-136-thomas-vochten-the-cronos/ba-p/2789135) \| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-136-%e2%80%93-27nd-of-september-2021/)
+    Vochten](https://twitter.com/ThomasVochten) | \@ThomasVochten
+    | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-136-thomas-vochten-the-cronos/ba-p/2789135) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-136-%e2%80%93-27nd-of-september-2021/)
 
 -   [Microsoft 365 Developer
     Podcast](https://m365devpodcast.com/) focused  exclusively on
     Microsoft 365 dev topics -- hosted by [Jeremy
-    Thake](http://twitter.com/jthake) (Microsoft) \|
+    Thake](http://twitter.com/jthake) (Microsoft) |
 
     \@jthake and [Paul
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
-    \| [\@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113)
+    | [pschaeflein](https://github.com/pschaeflein)
 **General resources**:
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
 -   PnP Teams Quickstart
-    \| [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
--   Microsoft Teams Toolkit v2.2 \| <https://aka.ms/teams-toolkit>
+    | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
+-   Microsoft Teams Toolkit v2.2 | <https://aka.ms/teams-toolkit>
 -   [Microsoft 365 PnP Community
-    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) \|
+    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
     aka.ms/m365pnp/community 
 -   Microsoft Graph Toolkit in Microsoft Learn
-    \| <http://aka.ms/learn-mgt>
+    | <http://aka.ms/learn-mgt>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   [SharePoint look
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
@@ -195,17 +195,17 @@ slides.
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
     API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) \| aka.ms/m365pnp-videos
+    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer
-    documentation](http://aka.ms/spdev-docs) \| <https://aka.ms/spdev-docs>
+    documentation](http://aka.ms/spdev-docs) | <https://aka.ms/spdev-docs>
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization Partner
     Guidance](http://aka.ms/sppnp-modernization-partnerguidance) -
@@ -233,22 +233,22 @@ slides.
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
-**Upcoming Calls \| Recurrent Invites:**
+**Upcoming Calls | Recurrent Invites:**
 
 -   **M365 General Dev call -- **September 30th at 7:00 am PDT
-    \| <https://aka.ms/m365-dev-sig>
+    | <https://aka.ms/m365-dev-sig>
 -   **Microsoft 365 platform call** -- October 5th at 8:00 am PDT
-    \| <https://aka.ms/m365-dev-call>
+    | <https://aka.ms/m365-dev-call>
 -   **SharePoint Framework call --** October 7th at 7:00 am PDT
-    \| <https://aka.ms/spdev-spfx-call>
+    | <https://aka.ms/spdev-spfx-call>
 -   **Office add-in monthly call** -- October 13th at 8:00 am PDT
-    \| <https://aka.ms/officeaddinscall>
+    | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call** -- October 14th at 9:00 am PDT
-    \| <https://aka.ms/adaptivecardscommunitycall>
+    | <https://aka.ms/adaptivecardscommunitycall>
 -   **Power Apps monthly call **-- October 20th at 8:00 am PDT
-    \| <https://aka.ms/PowerAppsMonthlyCall>
+    | <https://aka.ms/PowerAppsMonthlyCall>
 -   **Microsoft Identity Platform call --** October 21st at 9:00 am
-    PDT \| <https://aka.ms/IDDevCommunityCalendar>
+    PDT | <https://aka.ms/IDDevCommunityCalendar>
 
 Microsoft 365 Platform community call focuses on latest Microsoft 365
 Platform updates and demos delivered by Microsoft presenters and takes

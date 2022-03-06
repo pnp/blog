@@ -319,4 +319,4 @@ If you see any room for improvement, please, don't hesitate to reach out
 to us either on
 [GitHub](https://github.com/pnp/office365-cli/discussions) or
 [twitter](https://twitter.com/climicrosoft365).
-![](https://telemetry.sharepointpnp.com/m365dev-blog/cli-microsoft-365-3-7){border="0"}
+

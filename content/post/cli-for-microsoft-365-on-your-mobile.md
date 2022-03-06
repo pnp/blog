@@ -125,7 +125,7 @@ BTW if you didn't try CLI for Microsoft 365 yet I strongly encourage
 you to do so [CLI for Microsoft
 365](https://pnp.github.io/cli-microsoft365/). Check out the PnP script
 samples gallery to see in what cases other people already use the CLI
-[Script Samples \| PnP Samples](https://pnp.github.io/script-samples/).
+[Script Samples | PnP Samples](https://pnp.github.io/script-samples/).
 Something not working and should? Or maybe you see something missing in
 the CLI. No worries, open an issue and let the maintainers (or a
 friendly contributor) know

@@ -24,8 +24,8 @@ JWT and using Microsoft Continuous Access Evaluation (CAE).  Demo and
 tips on evaluating/adopting CAE.   Resilient methods for fetching
 metadata and validating tokens including use of customized token
 validation, as needed.   This session was delivered by Microsoft Program
-Managers [Harish Suresh](http://twitter.com/harish_suresh) \|
-\@harish_suresh and [Kyle Marsh](http://twitter.com/kylemar) \|
+Managers [Harish Suresh](http://twitter.com/harish_suresh) |
+\@harish_suresh and [Kyle Marsh](http://twitter.com/kylemar) |
 \@kylemar and was recorded on June 17, 2021.  Live and in chat Q&A
 throughout call
 

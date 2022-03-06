@@ -62,37 +62,37 @@ Most viewed videos in the [Microsoft 365 Community (PnP) YouTube
 channel](https://aka.ms/m365pnp-videos) during September 2021:
 1.  [Top 10 hidden gems: Microsoft
     Lists](https://www.youtube.com/watch?v=gTkrZEIHEWg) - [Mark
-    Kashman](https://twitter.com/mkashman) \| 2,740
+    Kashman](https://twitter.com/mkashman) | 2,740
 2.  [Building a beautifully designed Intranet with SharePoint - latest
     design and branding
-    capabilities](https://www.youtube.com/watch?v=Dc07NIiDJAI) \| [Cathy
+    capabilities](https://www.youtube.com/watch?v=Dc07NIiDJAI) | [Cathy
     Dew](https://twitter.com/catpaint1) (Microsoft) & [Katie
-    Swanson](https://twitter.com/kswansondesign) (Microsoft) \| 2,526
+    Swanson](https://twitter.com/kswansondesign) (Microsoft) | 2,526
 3.  [Working with Microsoft Lists
     (webinar)](https://www.youtube.com/watch?v=HyBD_SOt_BQ) - Harini
     Saladi, [Miceile Barrett](https://twitter.com/MSFTMiceile),
     [Chakkaradeep Chandran](https://twitter.com/chakkaradeep) and [Mark
-    Kashman](https://twitter.com/mkashman) \| 2,407
+    Kashman](https://twitter.com/mkashman) | 2,407
 4.  [Microsoft Lists workshop, part 1: "Creating and
     collaborating"](https://www.youtube.com/watch?v=YpVOS_If-6Q) - [Mark
-    Kashman](https://twitter.com/mkashman) \| 2,299
+    Kashman](https://twitter.com/mkashman) | 2,299
 5.  [Getting started with Site Designs in SharePoint
     Online](https://www.youtube.com/watch?v=ZjTnlbMJZfY) - [Laura
-    Kokkarinen](https://twitter.com/laurakokkarinen) (Sulava) \| 2,245
+    Kokkarinen](https://twitter.com/laurakokkarinen) (Sulava) | 2,245
 6.  [SharePoint Framework Tutorial 1 - HelloWorld
-    WebPart](https://www.youtube.com/watch?v=_O2Re5uRLoo) \| 2,139
+    WebPart](https://www.youtube.com/watch?v=_O2Re5uRLoo) | 2,139
 7.  [Introducing: New Employee Onboarding - a Microsoft Teams app
-    template](https://www.youtube.com/watch?v=-S_lHXWEobk) \| [Nidhi
-    Sharma](https://twitter.com/nidsonbirdie) (Microsoft) \| 2,009
+    template](https://www.youtube.com/watch?v=-S_lHXWEobk) | [Nidhi
+    Sharma](https://twitter.com/nidsonbirdie) (Microsoft) | 2,009
 8.  [Microsoft Lists workshop, part 2: "Make Lists work for
     you"](https://www.youtube.com/watch?v=vv1pWe6DB8k) - [Mark
-    Kashman](https://twitter.com/mkashman) \| 1,439
+    Kashman](https://twitter.com/mkashman) | 1,439
 9.  [Latest on Power Automate integration within SharePoint
     Online](https://www.youtube.com/watch?v=AaWB3xlhJdc) - [Chakkaradeep
-    Chandran](https://twitter.com/chakkaradeep) \| 1,275
+    Chandran](https://twitter.com/chakkaradeep) | 1,275
 10. [Architecting Your
     Intranet](https://www.youtube.com/watch?v=8jPzjNlf3bM) - [Melissa
-    Torres](https://twitter.com/Meltorac) \| 1,246\
+    Torres](https://twitter.com/Meltorac) | 1,246\
     \
 
 Most viewed videos in the [Microsoft 365 Developer YouTube
@@ -102,40 +102,40 @@ during September 2021:]
     Explorer](https://www.youtube.com/watch?v=64kHAIq6LBQ) - [Ayca
     Bas](https://twitter.com/aycabs) (Microsoft), [Rabia
     Williams](https://twitter.com/williamsrabia) (Microsoft)
-    and Bettirose Ngugi (Microsoft) \| 13,030
+    and Bettirose Ngugi (Microsoft) | 13,030
 2.  [Demo - Create .NET console app to work with users in the
     organization with Microsoft
     Graph](https://www.youtube.com/watch?v=y9JKjMzU4-w) - [Andrew
-    Connell](https://twitter.com/andrewconnell) (Voitanos) \| 10,758
+    Connell](https://twitter.com/andrewconnell) (Voitanos) | 10,758
 3.  [Building apps with Microsoft Graph
     Explorer](https://www.youtube.com/watch?v=tsvNMDgJVbY) - [Ayca
     Bas](https://twitter.com/aycabs) (Microsoft), [Rabia
     Williams](https://twitter.com/williamsrabia) (Microsoft)
-    and Bettirose Ngugi (Microsoft) \| 6,814
-4.  [Start calling the Microsoft Graph API in under 5 minutes! \| Tips &
+    and Bettirose Ngugi (Microsoft) | 6,814
+4.  [Start calling the Microsoft Graph API in under 5 minutes! | Tips &
     Tricks](https://www.youtube.com/watch?v=f_3wc4UgqTI) - [Dan
-    Wahlin](https://twitter.com/DanWahlin) \| 2,992
+    Wahlin](https://twitter.com/DanWahlin) | 2,992
 5.  [Demo: Getting started with Power Apps
-    Portals](https://www.youtube.com/watch?v=HLC4voniLXU) \| [Brian
-    Knight](https://twitter.com/BrianKnight) (Pragmatic Works) \| 1,703
+    Portals](https://www.youtube.com/watch?v=HLC4voniLXU) | [Brian
+    Knight](https://twitter.com/BrianKnight) (Pragmatic Works) | 1,703
 6.  [Multi-tenant architecture for SaaS apps with Microsoft 365 and
     Azure Active
     Directory](https://www.youtube.com/watch?v=RjGVOFm39j0) - [Bob
     German](https://twitter.com/Bob1German) (Microsoft) & [Rabia
-    Williams](https://twitter.com/williamsrabia) (Microsoft) \| 1,265
+    Williams](https://twitter.com/williamsrabia) (Microsoft) | 1,265
 7.  [Build Outlook Add-ins that integrate your solution seamlessly into
     your users' Outlook
-    experience](https://www.youtube.com/watch?v=Dd4SOA5dUmw)​ \| Juan
+    experience](https://www.youtube.com/watch?v=Dd4SOA5dUmw)​ | Juan
     Balmori, Hitesh Manwar - 1,054
 8.  [Authenticate and connect with Microsoft Graph - June
-    2019](https://www.youtube.com/watch?v=xWhyG-SuyQM) \| 1,040
-9.  [Set up your new Microsoft 365 Developer subscription \| Tips &
+    2019](https://www.youtube.com/watch?v=xWhyG-SuyQM) | 1,040
+9.  [Set up your new Microsoft 365 Developer subscription | Tips &
     Tricks](https://www.youtube.com/watch?v=DhhpJ1UjbJ0) - [Bob
-    German](https://twitter.com/Bob1German) (Microsoft) \| 881
+    German](https://twitter.com/Bob1German) (Microsoft) | 881
 10. [An introduction to Microsoft Graph for developers - Part I -
     Getting started - October
     2019](https://www.youtube.com/watch?v=EBbnpFdB92A) - Kalyan Krishna
-    (Microsoft) \| 721
+    (Microsoft) | 721
 Main resources around Microsoft 365 Community:
 -   Microsoft 365 Community -
     [http://aka.ms/m365pnp](http://aka.ms/sppnp) - One location for all
@@ -192,111 +192,111 @@ development topics from
 Latest community posts at <https://aka.ms/m365pnp/community/blog>
 -   18th of October - [Michel Mendes](https://twitter.com/michelcarlo)
     (Storm Technology)
-    \| [\@michelcarlo](/t5/user/viewprofilepage/user-id/65753) - [Getting
+    | [\@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753) - [Getting
     the working hours/time zones for other users using Microsoft Graph
     API](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-the-working-hours-time-zones-for-other-users-using/ba-p/2852687)
 -   18th of October - [Arjun Menon](https://twitter.com/arjunumenon)
-    (Tata Consultancy Services) \| \@arjunumenon - [Azure Cloud Shell
+    (Tata Consultancy Services) | \@arjunumenon - [Azure Cloud Shell
     issue when using CLI for Microsoft 365 -
     Workaround](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/azure-cloud-shell-issue-when-using-cli-for-microsoft-365/ba-p/2845590)
 -   18th of October - [Simon Doy](https://twitter.com/simondoy)
-    (iThink 365) \| \@simondoy - [Connecting to SharePoint Online to
+    (iThink 365) | \@simondoy - [Connecting to SharePoint Online to
     On-Premises Databases with SharePoint
     Framework](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/connecting-to-sharepoint-online-to-on-premises-databases-with/ba-p/2843624)
 -   12th of October - [Albert-Jan
     Schot](https://twitter.com/appieschot) (BLIS Digital)
-    \| \@appieschot - [Running a Power App as Edge
+    | \@appieschot - [Running a Power App as Edge
     Extension](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/running-a-power-app-as-edge-extension/ba-p/2837130)
 -   7th of October - [Garry Trinder](https://twitter.com/garrytrinder)
-    (Microsoft) \|  \@garrytrinder - [CLI for Microsoft 365
+    (Microsoft) |  \@garrytrinder - [CLI for Microsoft 365
     v4](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v4/ba-p/2811530)
 -   5th of October - [Patrick Lamber](https://twitter.com/patricklamber)
-    (Experts Inside AG) \| \@patricklamber - [Bulk add/remove users to
+    (Experts Inside AG) | \@patricklamber - [Bulk add/remove users to
     Microsoft Teams using the CLI for Microsoft
     365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bulk-add-remove-users-to-microsoft-teams-using-the-cli-for/ba-p/2799296)
 -   5th of October - [Valeras
     Narbutas](https://twitter.com/ValerasNarbutas) (Macaw)
-    - [\@ValerasNarbutas](/t5/user/viewprofilepage/user-id/142422)
+    - [\@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
     - [TipOfTheDay - Easy Track changes in dataverse table via dataverse
     API](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ba-p/2811831)
 -   29th of September - [Luise
-    Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
+    Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
     - [ProvisionGenie - an open-source provisioning engine for Microsoft
     Teams](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/provisiongenie-an-open-source-provisioning-engine-for-microsoft/ba-p/2796434)
 -   29th of September - [Chandani
-    Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) \|
+    Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) |
      \@Chandani_SPD - [Guidance On How To Use React DataTable
     Webpart](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/guidance-on-how-to-use-react-datatable-webpart/ba-p/2772933)
 -   Guidance On How To Use React DataTable Webpart
 -   29th of September - [Arjun Menon](https://twitter.com/arjunumenon)
-    (Tata Consultancy Services) \| \@arjunumenon - [Get Permission
+    (Tata Consultancy Services) | \@arjunumenon - [Get Permission
     Report for SharePoint Online or OneDrive File using CLI for
     Microsoft
     365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/get-permission-report-for-sharepoint-online-or-onedrive-file/ba-p/2781372)
 -   29th of September - [Simon Hudson](https://twitter.com/simonjhudson)
-    (Cloud2) \|
-    [\@SimonJHudson](/t5/user/viewprofilepage/user-id/792961) - [Looking
+    (Cloud2) |
+    [\@SimonJHudson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/792961) - [Looking
     at Things in
     Profile](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/looking-at-things-in-profile/ba-p/2781232)
 -   20th of September - [Reshmee
     Auckloo](https://twitter.com/ReshmeeAuckloo) (Pension Protection
     Fund)
-    \| [\@reshmeeauckloo](/t5/user/viewprofilepage/user-id/1145036)
+    | [\@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
     - [PnP Batch versus Microsoft Graph Batch in PowerShell to
     add/delete 3k
     items](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/ba-p/2761214)
 -   20th of September - [Patrick
-    Lamber](https://twitter.com/patricklamber) (Experts Inside AG) \|
+    Lamber](https://twitter.com/patricklamber) (Experts Inside AG) |
     \@patricklamber - [Export conversations from Microsoft Teams
     Channels using the CLI for Microsoft
     365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/export-conversations-from-microsoft-teams-channels-using-the-cli/ba-p/2762619)
 -   18th of September - [Luise
-    Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese - [4 ways
+    Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese - [4 ways
     to level up your Power Automate
     flows](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/4-ways-to-level-up-your-power-automate-flows/ba-p/2763560)
 -   14th of September - [Michel Mendes](https://twitter.com/michelcarlo)
     (Storm Technology)
-    \| [\@michelcarlo](/t5/user/viewprofilepage/user-id/65753) - [Hiding
+    | [\@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753) - [Hiding
     the SharePoint page title with Power
     Automate](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/hiding-the-sharepoint-page-title-with-power-automate/ba-p/2747412)
 -   14th of September - [Chandani
-    Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) \|
+    Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) |
      \@Chandani_SPD - [How to use loader/Spinner/In Progress indicator
     in SPFx using fluent UI
     Spinner?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/ba-p/2536896)
 -   13th of September - [Reshmee
     Auckloo](https://twitter.com/ReshmeeAuckloo) (Pension Protection
     Fund)
-    \| [\@reshmeeauckloo](/t5/user/viewprofilepage/user-id/1145036)
+    | [\@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
     - [PnP Batch Add or Delete items from very large list, i.e. more
     than 300k
     items](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-batch-add-or-delete-items-from-very-large-list-i-e-more-than/ba-p/2739737)
 -   13th of September - [Dipen
-    Shah](https://twitter.com/Dips_365) (Rapid Circle) \| \@Dips_365
+    Shah](https://twitter.com/Dips_365) (Rapid Circle) | \@Dips_365
     - [Global Navigation In Modern SharePoint Using SPFx, PnP And Fluent
     UI](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/ba-p/2734875)
 -   13th of September - [Siddharth
-    Vaghasia](https://twitter.com/siddh_me) \| \@siddh_me - [Azure
+    Vaghasia](https://twitter.com/siddh_me) | \@siddh_me - [Azure
     Meeting Bot To Capture Meeting Participants
     Information](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/azure-meeting-bot-to-capture-meeting-participants-information/ba-p/2704311)
 -   9th of September - [Luise
-    Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese - [How to
+    Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese - [How to
     get started with GitHub and
     Git](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-get-started-with-github-and-git/ba-p/2736609)
 -   7th of September - [Dipen Shah](https://twitter.com/Dips_365) (Rapid
-    Circle) \| \@Dips_365 - [Create Site Script and Site Template Using
+    Circle) | \@Dips_365 - [Create Site Script and Site Template Using
     Power Automate in
     SharePoint](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-site-script-and-site-template-using-power-automate-in/ba-p/2710696)
 -   2nd of September - [Dipen Shah](https://twitter.com/Dips_365) (Rapid
-    Circle) \| \@Dips_365 - [Create Report Of Assigned Licenses To Users
+    Circle) | \@Dips_365 - [Create Report Of Assigned Licenses To Users
     From Microsoft
     365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/ba-p/2710211) 
 -   31st of August - [Sudharsan
     Kesavanarayanan](https://twitter.com/sudharsank) (NTT Digital
-    Business Solutions) \| \@sudharsank - [Browser Local Storage using
+    Business Solutions) | \@sudharsank - [Browser Local Storage using
     PnPClientStorage](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/browser-local-storage-using-pnpclientstorage/ba-p/2696482)
 -   20th of August - [Cameron Dwyer](https://twitter.com/CameronDwyer)
-    (OnePlace Solutions) \| \@CameronDwyer - [Simulating 429 Throttling
+    (OnePlace Solutions) | \@CameronDwyer - [Simulating 429 Throttling
     in Microsoft Graph API (SharePoint/OneDrive
     workloads)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/ba-p/2668937) 
 Community call recording blog posts:
@@ -1028,16 +1028,16 @@ involved!
 Please see all the Microsoft 365 development documentation updates from
 the related documentation sets and repositories as listed below:
 -   Microsoft Teams platform documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) \|
+    Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) |
     [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
 -   SharePoint Developer documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) \|
+    Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) |
     [GitHub](https://github.com/SharePoint/sp-dev-docs)
 -   Microsoft Graph documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/graph) \|
+    Docs](https://docs.microsoft.com/en-us/graph) |
     [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
 -   Office add-in documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) \|
+    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
 ### 🤩 Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
 
@@ -1051,11 +1051,11 @@ Here are the new Microsoft demo or guidance videos released since the
 last monthly summary:
 -   [Introduction to Microsoft Viva Connections
     extensibility](https://www.youtube.com/watch?v=t_hLU25IvKU) - [Ed
-    Averett](https://twitter.com/Ed_Averett) (Microsoft) \|
-    [\@ed](/t5/user/viewprofilepage/user-id/65134)\_Averett
+    Averett](https://twitter.com/Ed_Averett) (Microsoft) |
+    [\@ed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65134)\_Averett
 -   [Getting started on using Microsoft Viva Connections in your
     tenant](https://www.youtube.com/watch?v=2PJs-fO0qP8) - [Tejas
-    Mehta](https://twitter.com/tpmehta) (Microsoft) \| \@tpmehta
+    Mehta](https://twitter.com/tpmehta) (Microsoft) | \@tpmehta
 -   [Building custom search layout experiences in SharePoint with
     Microsoft Search](https://www.youtube.com/watch?v=QdbLDEVpQGs)
     - Jyoti Pal (Microsoft)
@@ -1206,83 +1206,83 @@ German](https://twitter.com/Bob1German) (Microsoft)\
 Community demos as following: 
 -   [Surface user specific calendar events with my Outlook events web
     part](https://www.youtube.com/watch?v=ZX214J_bI9I) - [Chandani
-    Prajapati](https://twitter.com/Chandani_SPD) \| \@Chandani_SPD
+    Prajapati](https://twitter.com/Chandani_SPD) | \@Chandani_SPD
 -   [Accessing personal files easily with My OneDrive Web
     Part](https://www.youtube.com/watch?v=eFUgC7NAbLo) - [Siddharth
-    Vaghasia](https://twitter.com/siddh_me) \| \@siddh_me
+    Vaghasia](https://twitter.com/siddh_me) | \@siddh_me
 -   [Apply a custom theme or a variation of the current SharePoint theme
     directly to the web
     part](https://www.youtube.com/watch?v=c66pBpx_HV4) - [Fabio
-    Franzini](https://twitter.com/franzinifabio) \| \@franzinifabio
+    Franzini](https://twitter.com/franzinifabio) | \@franzinifabio
 -   [Getting started with Bot Framework Composer for building Teams Task
     Modules](https://www.youtube.com/watch?v=5v-oNC_hhCg) - [Stephan
-    Bisser](https://twitter.com/stephanbisser) (Solvion) \|
+    Bisser](https://twitter.com/stephanbisser) (Solvion) |
     \@stephanbisser
 -   [List formatting rendering image and details for location and
     weather](https://www.youtube.com/watch?v=ixr2S1uEumU) - [Chris
-    Kent](https://twitter.com/theChrisKent) (DMI) \| \@theChrisKent
+    Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent
 -   [Visio, Power BI Tiles and Reports in Power
     Apps!](https://www.youtube.com/watch?v=nGZVvBCGY4w) -  [Reza
-    Dorrani](https://twitter.com/rezadorrani) (Catapult) \|
-    [\@RezaDorrani](/t5/user/viewprofilepage/user-id/285374)
+    Dorrani](https://twitter.com/rezadorrani) (Catapult) |
+    [rdorrani](https://github.com/rdorrani)
 -   [Power Apps Design
     Philosophy](https://www.youtube.com/watch?v=A9T_KhhfnzY) - [May
-    Alhajri](https://twitter.com/MayAlhajri2) \|
-    [\@MayAlhajri2](/t5/user/viewprofilepage/user-id/670696)
+    Alhajri](https://twitter.com/MayAlhajri2) |
+    [\@MayAlhajri2](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696)
 -   [Hyperscript Tagged Markup (HTM) Templating with SharePoint
     Framework](https://www.youtube.com/watch?v=G8A_L3CC25E) - [Fabio
-    Franzini](https://twitter.com/franzinifabio) \| \@franzinifabio
+    Franzini](https://twitter.com/franzinifabio) | \@franzinifabio
 -   [Building advanced image gallery experience with SharePoint
     Framework](https://www.youtube.com/watch?v=KwDsttycHBU) - [Yannick
     Reekmans](https://twitter.com/YannickReekmans) (Qubix)
 -   [Modernize your SharePoint Framework
     projects](https://www.youtube.com/watch?v=TVJfA40REwo) - [Andrew
     Connell](https://twitter.com/andrewconnell) (Voitanos)
-    \| \@andrewconnell
+    | \@andrewconnell
 -   [SharePoint Approval Workflow Status Tracking with Column
     Formatting](https://www.youtube.com/watch?v=KTyG1U4ioyw) -  [Reza
-    Dorrani](https://twitter.com/rezadorrani) (Catapult) \|
-    [\@RezaDorrani](/t5/user/viewprofilepage/user-id/285374)
+    Dorrani](https://twitter.com/rezadorrani) (Catapult) |
+    [rdorrani](https://github.com/rdorrani)
 -   [Build your first conversational chatbot for Microsoft
     Teams](https://www.youtube.com/watch?v=mgoCHlY0AX8) - [Stephan
     Bisser](https://twitter.com/stephanbisser) (Solvion)
 -   [Operators for Precision within List
     Formatting](https://www.youtube.com/watch?v=TpavdKMQ1L4) - [Chris
-    Kent](https://twitter.com/theChrisKent) (DMI) \| \@theChrisKent
+    Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent
 -   [Event Calendar Power
     App](https://www.youtube.com/watch?v=XhTOe3ETgpc) - Juli Reid
 -   [Getting stated with Microsoft Teams Toolkit and
     Blazor](https://www.youtube.com/watch?v=WPnZgcjr6PI) -  [Thomas
-    Gölles](https://twitter.com/thomyg) (Solvion) \| \@thomyg
+    Gölles](https://twitter.com/thomyg) (Solvion) | \@thomyg
 -   [Building your first Power Platform community
     connector](https://www.youtube.com/watch?v=QPyHL3rT6cA) - [Daniel
-    Laskewitz](https://twitter.com/laskewitz) (Sogeti) \|\@laskewitz
+    Laskewitz](https://twitter.com/laskewitz) (Sogeti) |\@laskewitz
 -   [How To Feed Your Dragon
     Game](https://www.youtube.com/watch?v=hDDTqWLmqHc) - [Gerard
-    Simpson](https://twitter.com/PowerFanAddict) \|
-    [\@PowerFanAddict](/t5/user/viewprofilepage/user-id/1145052)
+    Simpson](https://twitter.com/PowerFanAddict) |
+    [\@PowerFanAddict](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145052)
 -   [List Formatting Enhanced Web
     Part](https://www.youtube.com/watch?v=B7p7_lVc8kI) - [David Warner
-    II](https://twitter.com/DavidWarnerII) (Catapult Systems) \|
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     \@DavidWarnerII
 -   [Executive room reservation tool for Microsoft Teams and Viva
     Connections built with
     SPFx](https://www.youtube.com/watch?v=cQKTzCQSMlE) -
     [J](https://twitter.com/jfj1997)[ulie
-    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \|
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     \@jfj1997 & [Derek Cash-Peterson](https://twitter.com/spdcp)
-    (Sympraxis Consulting) \|
-    [\@Spdcp](/t5/user/viewprofilepage/user-id/386549)
+    (Sympraxis Consulting) |
+    [\@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
 -   [Using OneDrive Apps folder to save user's preferences
     cross-device](https://www.youtube.com/watch?v=EZGiEb2NlrU)
-    - [Giuliano De Luca](https://twitter.com/DeLucaGiulian) \|
+    - [Giuliano De Luca](https://twitter.com/DeLucaGiulian) |
     \@DeLucaGiulia
 -   [My Lists Notifications SPFx
     extensions](https://www.youtube.com/watch?v=fsbs2U36bP8) - [João
     Mendes](https://twitter.com/joaojmendes)
 -   [Getting started with Microsoft Lists - Templates, formatting and
     more](https://www.youtube.com/watch?v=OmoxVkQmiYo) - [Chris
-    Kent](https://twitter.com/theChrisKent) (DMI) \| \@theChrisKent\
+    Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent\
 ## 🧡 Key contributors to the October 2021 update 
 
 Here's the list of active contributors (in alphabetical order) since
@@ -1863,7 +1863,7 @@ please let us know.
 
 -   Tim Hahn - [timdhahn](https://github.com/timdhahn)
 
--   Thomy Gölles (Solvion) \| [\@thomyg](https://twitter.com/thomyg)
+-   Thomy Gölles (Solvion) | [\@thomyg](https://twitter.com/thomyg)
 
 -   Todd Baginski (Canviz) -
     [\@toddbaginski](https://twitter.com/toddbaginski)

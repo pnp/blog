@@ -48,7 +48,7 @@ components to Microsoft Graph Toolkit (MGT) v.2.2.0 GA. 
   ----------------------------------------- --------------------------- -----------------------------------------
 Additionally, 1 new Teams samples were delivered in the last 2 weeks.  
 Great work!  The host of this call was David Warner II (Catapult
-Systems) \| \@DavidWarnerII.  Q&A takes place in chat throughout the
+Systems) | \@DavidWarnerII.  Q&A takes place in chat throughout the
 call.
 
 
@@ -121,33 +121,33 @@ Thank you for your work. Samples are often showcased in Demos.
 **Topics** covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft) \| \@O365bert
+    Jansen](http://twitter.com/O365bert) (Microsoft) | \@O365bert
     - [7:47](https://youtu.be/nm16Z3VEYHA?t=467)
 
 -   yo Teams updates - [Wictor
-    Wilén](http://twitter.com/wictor) (Avanade) \| \@wictor -
+    Wilén](http://twitter.com/wictor) (Avanade) | \@wictor -
     [9:45](https://youtu.be/nm16Z3VEYHA?t=585)
 
 -   Microsoft Graph Toolkit updates - [Beth
     Pan](http://twitter.com/beth_panx) (Microsoft)
-    \| [\@beth_panx](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/803637) - [10:34](https://youtu.be/nm16Z3VEYHA?t=634)
+    | [beth-panx](https://github.com/beth-panx) - [10:34](https://youtu.be/nm16Z3VEYHA?t=634)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) \| \@Bob1German -
+    German](http://twitter.com/Bob1German) (Microsoft) | \@Bob1German -
     [12:14](https://youtu.be/nm16Z3VEYHA?t=734)
 
 -   **Demo: ** Getting started with PnP Teams QuickStart - [Wictor
-    Wilén](http://twitter.com/wictor) (Microsoft) \| \@wictor -
+    Wilén](http://twitter.com/wictor) (Microsoft) | \@wictor -
     [14:40](https://youtu.be/nm16Z3VEYHA?t=880)
 
 -   **Demo: ** Our learnings from the AppSource submission for Microsoft
-    Teams - [Florian Grasel](http://twitter.com/trailbeard) (TagTeam) \|
-    [\@Trailbeard](/t5/user/viewprofilepage/user-id/278114) -
+    Teams - [Florian Grasel](http://twitter.com/trailbeard) (TagTeam) |
+    [\@Trailbeard](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/278114) -
     [32:17](https://youtu.be/nm16Z3VEYHA?t=1937)
 
 -   **Demo: ** Getting started with Microsoft Graph Tag API for managing
     Microsoft Teams tagging - [Annie
-    Colonna](http://twitter.com/AnnieColonna) (Microsoft) \|
+    Colonna](http://twitter.com/AnnieColonna) (Microsoft) |
     \@AnnieColonna - [49:42](https://youtu.be/nm16Z3VEYHA?t=2982)
 **Resources:**
 
@@ -173,33 +173,33 @@ slides.
 
 -   PnP Weekly -- Episode 132 with Seattle-based Program Manager from
     OneDrive and SharePoint (ODSP) engineering - [Nicole
-    Woon](http://twitter.com/NovelNicole) (Microsoft) \|
-    \@NovelNicole \|
+    Woon](http://twitter.com/NovelNicole) (Microsoft) |
+    \@NovelNicole |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-132-nicole-woon-microsoft/ba-p/2466409)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-132-21st-of-june-2021/)
 
 -   Microsoft 365 tenant -- [Script Samples
-    Gallery](https://aka.ms/script-samples) \| aka.ms/script-samples
+    Gallery](https://aka.ms/script-samples) | aka.ms/script-samples
 
 -   PnP Teams Quickstart
-    \| [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
+    | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
 
 -   [Microsoft 365 Extensibility look book
-    gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) \|
+    gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) |
     aka.ms/m365/extensibility
 
 -   [Microsoft Teams Samples
-    Gallery](https://pnp.github.io/teams-dev-samples/) \|
+    Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 **General resources**:
 
--   Microsoft Teams Toolkit v2.2 \| <https://aka.ms/teams-toolkit>
+-   Microsoft Teams Toolkit v2.2 | <https://aka.ms/teams-toolkit>
 -   [Microsoft 365 PnP Community
-    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) \|
+    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
     aka.ms/m365pnp/community 
 -   Microsoft Graph Toolkit in Microsoft Learn
-    \| <http://aka.ms/learn-mgt>
+    | <http://aka.ms/learn-mgt>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   [SharePoint look
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
@@ -207,17 +207,17 @@ slides.
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
     API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) \| aka.ms/m365pnp-videos
+    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer
-    documentation](http://aka.ms/spdev-docs) \| <https://aka.ms/spdev-docs>
+    documentation](http://aka.ms/spdev-docs) | <https://aka.ms/spdev-docs>
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization Partner
     Guidance](http://aka.ms/sppnp-modernization-partnerguidance) -
@@ -245,18 +245,18 @@ slides.
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
-**Upcoming Calls \| Recurrent Invites:**
--   **SharePoint Framework call** **--** July 1st at 7:00 am PDT \|
+**Upcoming Calls | Recurrent Invites:**
+-   **SharePoint Framework call** **--** July 1st at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **Office add-in monthly call --** July 14th at 8:00 am PDT \|
+-   **Office add-in monthly call --** July 14th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **M365 General Dev call** **--** July 8th at 7:00 am PDT \|
+-   **M365 General Dev call** **--** July 8th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Adaptive Cards monthly call --** July 8th at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** July 8th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **Microsoft Identity Platform** **--** July 15th at 9:00 am PDT \|
+-   **Microsoft Identity Platform** **--** July 15th at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar>
--   **Power Apps monthly call** **--** July 21st at 8:00 am PDT \|
+-   **Power Apps monthly call** **--** July 21st at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365

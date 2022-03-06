@@ -50,7 +50,7 @@ are allocated automagically, when the demand of execution increases. If
 the demand decreases again, you don't need to worry about the extra
 resources anymore as they drop off again. This way, you only pay what
 you need. For more info please start to read here: [Azure Functions
-Overview \| Microsoft
+Overview | Microsoft
 Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
 
 I will use PowerShell for my Azure Functions, so that IT-Pros can
@@ -64,7 +64,7 @@ you happy.
 Microsoft Graph is THE API to access Microsoft 365 resources, in our
 case we will want to read all Microsoft 365 groups -- for more
 information see also the [Microsoft Graph permissions reference --
-Microsoft Graph \| Microsoft
+Microsoft Graph | Microsoft
 Docs.](https://docs.microsoft.com/en-us/graph/permissions-reference#group-permissions)
 
 Our challenge will be to access the Graph API with a Managed Identity. I
@@ -163,7 +163,7 @@ Take a moment to understand what the code does:
     \`IDENTITY_ENDPOINT\` and \`IDENTITY_HEADER\` which come from the
     Managed Identity (thanks [Yannick
     Reekmans](https://twitter.com/yannickreekmans) for this hint) --
-    learn more here: [Managed identities -- Azure App Service \|
+    learn more here: [Managed identities -- Azure App Service |
     Microsoft
     Docs](https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity?tabs=powershell&WT.mc_id=M365-MVP-5003400#obtain-tokens-for-azure-resources)
     -- you can also see your environment variables here, the mentioned
@@ -180,7 +180,7 @@ parameters](https://docs.microsoft.com/en-us/graph/query-parameters) as
 needed like [https://graph.microsoft.com/v1.0/groups?\$top=42
 or](https://graph.microsoft.com/v1.0/groups?$top=42&nbsp;or) use paging,
 which is described here: [Paging Microsoft Graph data in your app --
-Microsoft Graph \| Microsoft
+Microsoft Graph | Microsoft
 Docs](https://docs.microsoft.com/en-us/graph/paging)
 
 ###  Resources in Azure 
@@ -351,7 +351,7 @@ Please note, that there are of course more fancy use cases, I will focus
 in this blog post on the code -- If you have a good story, please reach
 out.
 \
-Sample script is available at [Script Samples \| PnP
+Sample script is available at [Script Samples | PnP
 Samples](https://pnp.github.io/script-samples/)
 
 ## More Resources to learn 

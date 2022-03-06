@@ -15,9 +15,9 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by Atlanta, US-based Senior Program Manager on the Viva
 Connections Platform team - [Catherine
 Chuaga](https://www.linkedin.com/in/wanjiru-chuaga/). 
@@ -92,7 +92,7 @@ everyone for your contributions to the community!
     authentication and
     more](https://devblogs.microsoft.com/microsoft365dev/go-developers-can-now-access-microsoft-graph-with-streamlined-authentication-and-more/)
     - [Vincent Biret](https://twitter.com/baywet) (Microsoft)
-    \| [\@baywet](/t5/user/viewprofilepage/user-id/1028300)
+    | [\@baywet](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1028300)
 -   [Announcing Teams JS SDK v2 in public preview: Extend Teams apps
     across Microsoft
     365](https://devblogs.microsoft.com/microsoft365dev/announcing-teams-js-sdk-v2-in-public-preview-extend-teams-apps-across-microsoft-365/)
@@ -102,27 +102,27 @@ everyone for your contributions to the community!
     with ACEs and custom
     APIs](https://devblogs.microsoft.com/microsoft365dev/guidance-on-implementing-partner-offerings-for-viva-connections-with-aces-and-custom-apis/) -
     [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
-    \| \@vesajuvonen
+    | \@vesajuvonen
 -   [Developing real-time collaborative apps with Azure, Microsoft 365,
     Power Platform, and
     GitHub](https://devblogs.microsoft.com/microsoft365dev/developing-real-time-collaborative-apps-with-azure-microsoft-365-power-platform-and-github-2/) -
     [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft)
-    \| \@DanWahlin
+    | \@DanWahlin
 -   [Microsoft Teams development: All you need to
     know](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-development-all-you-need-to-know/) -
     [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft)
-    \| [\@williamsrabia](/t5/user/viewprofilepage/user-id/792201)
+    | [rabwill](https://github.com/rabwill)
 -   [The journey to Viva Topics adoption success:
     Intro](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/the-journey-to-viva-topics-adoption-success-intro/ba-p/2976552)
     - [Matt Wolodarsky](https://twitter.com/mwolodarsky) (Microsoft)
-    \| \@mwolodarsky
+    | \@mwolodarsky
 -   [Most used SharePoint Framework solutions from the Store (October
     2021)](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-october/ba-p/2955473) -
-    [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \|
+    [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen
 -   [Submit your OneDrive and SharePoint ideas to the Microsoft Feedback
     portal](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/submit-your-onedrive-and-sharepoint-ideas-to-the-microsoft/ba-p/2982918) -
-    [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) \|
+    [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) |
     \@catpaint1
 
  
@@ -135,44 +135,44 @@ everyone for your contributions to the community!
     values](https://michelcarlo.com/2021/11/19/quick-sharepoint-approvals-using-list-formatting-to-set-field-values/)
     - [Michel Mendes](https://twitter.com/michelcarlo) (Storm
     Technology)
-    \| [\@michelcarlo](/t5/user/viewprofilepage/user-id/65753)
+    | [\@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
 -   [Upload files to SharePoint with JavaScript using Microsoft Graph
     and Microsoft Authentication
     Librar\...](https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/)
     - [Eli H. Schei](https://twitter.com/acupof_dev) (Point Taken AS)
-    \| \@acupof_dev
+    | \@acupof_dev
 -   [Using Collapsible Sections with User Experience in
     Mind](https://emilymancini.com/2021/11/17/using-collapsible-sections-with-user-experience-in-mind/) -
     [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis
-    Consulting) \| \@EEMancini
+    Consulting) | \@EEMancini
 -   [Interactively authenticate Microsoft Graph .NET SDK with Azure
     Identity
     library](https://www.vrdmn.com/2021/11/interactively-authenticate-microsoft.html)
     - [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions)
-    \| \@vrdmn
+    | \@vrdmn
 -   [Update SharePoint User Profiles based on Azure Group
     Membership](http://blog.octavie.nl/index.php/2021/11/15/update-sharepoint-user-profiles-based-on-azure-group-membership?utm_source=rss&utm_medium=rss&utm_campaign=update-sharepoint-user-profiles-based-on-azure-group-membership)
     - [Octavie van Haaften](https://twitter.com/eivatco) (Rapid Circle)
-    \| \@eivatco
+    | \@eivatco
 -   [Connect to Microsoft Graph PowerShell using an App
     Registration](https://helloitsliam.com/2021/11/18/connect-to-microsoft-graph-powershell-using-an-app-registration/) -
-    [Liam Cleary](https://twitter.com/helloitsliam) \| \@helloitsliam
+    [Liam Cleary](https://twitter.com/helloitsliam) | \@helloitsliam
 -   [Create recursive flows in Power
     Automate](https://sharepains.com/2021/11/17/create-recursive-flows-in-power-automate/) -
     [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT
-    Services) \| \@PieterVeenstra
+    Services) | \@PieterVeenstra
 -   [Speaking at the European Collaboration Summit 2021 - Infuse AI into
     your Power Platform
     solutions](https://www.sharepointnutsandbolts.com/2021/11/ECS2021.html) -
     [Chris O'Brien](http://twitter.com/ChrisO_Brien) (Content+Cloud)
-    \| \@ChrisO_Brien
+    | \@ChrisO_Brien
 -   [Episode #181 - Creating forms with Adaptive Card Extensions in
     SPFx](https://www.youtube.com/watch?v=FOZMgicX_Jo) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) \| \@paolopia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@paolopia
 -   [Installing and Using the Microsoft Lists Desktop
     App](https://regarding365.com/installing-and-using-the-microsoft-lists-desktop-app-feb786a74e4)
     - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks)
-    \| \@DanielGlenn
+    | \@DanielGlenn
 
  
 

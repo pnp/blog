@@ -39,15 +39,15 @@ demand. 
 **Agenda:**  
 
 -   Visio, Power BI Tiles, and Reports in Power Apps! - [Reza
-    Dorrani](http://twitter.com/rezadorrani) (Catapult) \|
-    [\@RezaDorrani](/t5/user/viewprofilepage/user-id/285374) --
+    Dorrani](http://twitter.com/rezadorrani) (Catapult) |
+    [rdorrani](https://github.com/rdorrani) --
     [4:13](https://youtu.be/8bDUAK6N8Jg?t=253)
 -   Power Apps Design Philosophy - [May
-    Alhajri](http://twitter.com/MayAlhajri2) \|
-    [\@MayAlhajri2](/t5/user/viewprofilepage/user-id/670696) --
+    Alhajri](http://twitter.com/MayAlhajri2) |
+    [\@MayAlhajri2](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696) --
     [34:04](https://youtu.be/8bDUAK6N8Jg?t=2044)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) \| \@chass --
+    Sterling](http://twitter.com/chass) (Microsoft) | \@chass --
     [50:53](https://youtu.be/8bDUAK6N8Jg?t=3053)
 
  
@@ -75,13 +75,13 @@ demand. 
 
 **Recent News & Cool Stuff:**
 
--   Ask Me Anything (AMA) Event Sept 28th for Power Platform samples \|
+-   Ask Me Anything (AMA) Event Sept 28th for Power Platform samples |
     [<https://aka.ms/PNPAMA>]{.underline}
 -   New Data Loss Prevention policies for enhanced Power Platform
     governance available for Public Preview.  (Enhancements include:
     Connector Action Control, Endpoint Filtering and Custom Connector
-    Parity) \| <https://aka.ms/DLPEnhancements>
--   Writing Power Fx formulas with natural language \|
+    Parity) | <https://aka.ms/DLPEnhancements>
+-   Writing Power Fx formulas with natural language |
     <https://aka.ms/PowerFXFormulas>
 
 ** **
@@ -89,13 +89,13 @@ demand. 
 **Actions:**
 
 -   Attend the [BizApps LATAM Summit - Nov
-    17-19^th^](https://aka.ms/BizappsLATAMSummit) \|
+    17-19^th^](https://aka.ms/BizappsLATAMSummit) |
     <https://aka.ms/BizappsLATAMSummit>
 -   Vancouver User Group with May and Canvas Controls - September
-    23^rd^, 6pm PST \| Join call at <https://aka.ms/vancouverPUG>
+    23^rd^, 6pm PST | Join call at <https://aka.ms/vancouverPUG>
 -   Register Power BI Summit 2022 - March 07-March 11,
     <https://globalpowerbisummit.com/>
--   Join us for our next call: October 20, 2021 at 08:00am PDT \|
+-   Join us for our next call: October 20, 2021 at 08:00am PDT |
     <https://aka.ms/powerappscommunitycall>
 
  
@@ -104,7 +104,7 @@ demand. 
 
 -   D1:  Videos -- [Power Platform
     Integration](https://www.youtube.com/playlist?list=PLTyFh-qDKAiEUf5st2WhUzgoDRF-1hET0) -
-    \| <https://bit.ly/powerintegration>
+    | <https://bit.ly/powerintegration>
 
 -   D1:  Sample - [Opportunity Analysis sample for Power BI: Take a
     tour](https://github.com/MicrosoftDocs/powerbi-docs/blob/live/powerbi-docs/create-reports/sample-opportunity-analysis.md) 
@@ -137,9 +137,9 @@ demand. 
 -   Power Apps Community Videos
     -[ https://aka.ms/PowerAppsCommunityVideos](https://aka.ms/PowerAppsCommunityVideos)
 -   PowerPlatformLearn Resources
-    \| [https://www.powerplatformlearn.academy](https://www.powerplatformlearn.academy/)
+    | [https://www.powerplatformlearn.academy](https://www.powerplatformlearn.academy/)
 -   PnP Power Platform Samples
-    \| <https://www.aks.ms/powerplatform-samples>
+    | <https://www.aks.ms/powerplatform-samples>
 -   Power Addicts Hangout
     - [https://wearepoweraddicts.com](https://wearepoweraddicts.com/)
 -   #LessCodeMorePower Video Series

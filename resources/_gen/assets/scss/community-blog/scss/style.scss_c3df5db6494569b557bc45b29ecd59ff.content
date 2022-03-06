@@ -732,11 +732,6 @@ mark {
 .content img {
   max-width: 100%; }
 
-.content a {
-  color: #333; }
-  .content a:hover {
-    color: #3974d3; }
-
 .content ol,
 .content ul {
   padding-left: 20px; }

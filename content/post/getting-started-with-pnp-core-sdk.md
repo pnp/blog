@@ -421,9 +421,9 @@ Pialorsi (one of the major authors of the SDK) on PiaSys Tech Bites, 
     (p\...](https://practical365.com/blog/how-the-new-wave-of-libraries-from-microsoft-365-pnp-will-change-the-way-you-modernize-sharepoint/)
 -   The PnP Core SDK site with guidance on using the SDK, API level
     documentation, how to contribute and samples - [Getting started with
-    the PnP Core SDK \| PnP Core SDK](https://aka.ms/pnp/coresdk/docs)
+    the PnP Core SDK | PnP Core SDK](https://aka.ms/pnp/coresdk/docs)
 -   Want to contribute, have an issue, bug, feature suggestion -- please
-    engage with using the project site on GitHub - [pnp/pnpcore \|
+    engage with using the project site on GitHub - [pnp/pnpcore |
     github.com](https://github.com/pnp/pnpcore)
 
 There is still plenty to do in the SDK, if you want to contribute to

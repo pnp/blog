@@ -43,7 +43,7 @@ previous report 2 weeks ago) 
 
 There were 4** PnP web part samples** delivered in the last 2 weeks as
 well.  Nice work!    The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="210812-together-mode.gif" src="images/blog/sharepoint-framework-community-call-12th-of-august-2021/210812-together-mode.gif" >}}
 Ahhhh, the Comfy seats today!     Everyone is alive with sporting
@@ -52,9 +52,9 @@ colorful clothing.   Great to see you.     
 **Actions:**
 
 -   Add to your calendar - **Microsoft 365 platform
-    call ** \| <https://aka.ms/m365-dev-call>  (Weekly call starting
+    call ** | <https://aka.ms/m365-dev-call>  (Weekly call starting
     31st of August)
--   Opt in to PnP Recognition Program \|
+-   Opt in to PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [August
@@ -123,7 +123,7 @@ colorful clothing.   Great to see you.     
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
 -   **HTML Templating - [Fabio
-    Franzini](http://twitter.com/franzinifabio)  \|
+    Franzini](http://twitter.com/franzinifabio)  |
     [@](https://twitter.com/franzinifabio)[franzinifabio](https://twitter.com/franzinifabio)**
 -   **[Telephone
     Directory](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-telephonedirectory)
@@ -131,9 +131,9 @@ colorful clothing.   Great to see you.     
 -   **[Accordion Dynamic
     Sections](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-accordion-dynamic-section/README.md) -
     [Ari
-    Gunawan](http://twitter.com/AriGunawan3023) \| \@AriGunawan3023**
+    Gunawan](http://twitter.com/AriGunawan3023) | \@AriGunawan3023**
 -   **Fluent UI Theme Variant - [Fabio
-    Franzini](http://twitter.com/franzinifabio) \| \@franzinifabio**
+    Franzini](http://twitter.com/franzinifabio) | \@franzinifabio**
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
@@ -155,30 +155,30 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
     \@mediocrebowler -- [12:04](https://youtu.be/jJGkhttndU0?t=724)
 -   PnP SPFx Samples - [Hugo
-    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) \|
+    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [12:39](https://youtu.be/jJGkhttndU0?t=759)
 
 **Demos:**
 
 -   **Demo:**  Executive room reservation tool for Microsoft Teams and
     Viva Connections built with SPFx -- [**Julie
-    Turner**](http://twitter.com/jfj1997) (Sympraxis Consulting) \|
+    Turner**](http://twitter.com/jfj1997) (Sympraxis Consulting) |
     \@jfj1997 & [**Derek
     Cash-Peterson**](https://twitter.com/spdcp)** **(Sympraxis
-    Consulting) \| \@spdpc --
+    Consulting) | \@spdpc --
     [15:52](https://youtu.be/jJGkhttndU0?t=952)
 
 -   **Demo:**  My Lists Notifications SPFx extensions -- [**Hugo
-    Bernier**](http://twitter.com/bernierh)** **(Microsoft) \|
+    Bernier**](http://twitter.com/bernierh)** **(Microsoft) |
     \@bernierh & [**João Mendes**](http://twitter.com/joaojmendes)
-    (Storm Technology) \|
-    [\@joaojmendes](/t5/user/viewprofilepage/user-id/442957) --
+    (Storm Technology) |
+    [joaojmendes](https://github.com/joaojmendes) --
     [30:53](https://youtu.be/jJGkhttndU0?t=1853)
 
 -   **Demo:**  Using OneDrive Apps folder to save user's preferences
     cross-device -- [**Giuliano De
-    Luca**](http://twitter.com/DeLucaGiulian) **\|**
-    [\@delucagiulian](/t5/user/viewprofilepage/user-id/1038317)
+    Luca**](http://twitter.com/DeLucaGiulian) **|**
+    [\@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
 
     [--][ [46:04](https://youtu.be/jJGkhttndU0?t=2764)]
 **Resources:**
@@ -226,21 +226,21 @@ slides.
     Brochure) - aka.ms/modernworkbuildsessions
 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
--   [Sharing is Caring](https://aka.ms/sharing-is-caring) \|
+-   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
 
 -   [Tools - ](http://aka.ms/pnp-search)[PnP Modern Search
     v4](https://microsoft-search.github.io/pnp-modern-search/)[ 
-    \| ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
+    | ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
 
--   [M365 PnP site](https://aka.ms/m365pnp) \| aka.ms/m365pnp
+-   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
@@ -318,22 +318,22 @@ slides.
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls \| Recurrent invites:**
+**Upcoming calls | Recurrent invites:**
 -   **Power Apps monthly call** -- August 18th at 8:00 am PDT
-    \| <https://aka.ms/PowerAppsMonthlyCall>
+    | <https://aka.ms/PowerAppsMonthlyCall>
 -   **M365 General Dev call --** August 19th at 7:00 am PDT
-    \| <https://aka.ms/m365-dev-sig>
+    | <https://aka.ms/m365-dev-sig>
 -   **Microsoft Identity Platform --** August 19th at 9:00 am PDT
-    \| <https://aka.ms/IDDevCommunityCalendar>
+    | <https://aka.ms/IDDevCommunityCalendar>
 -   **SharePoint Framework call --** August 26th at 7:00 am PDT
-    \| <https://aka.ms/spdev-spfx-call>
+    | <https://aka.ms/spdev-spfx-call>
 -   **Microsoft 365 platform** **--** August 31st at 8 AM
-    PDT \| <https://aka.ms/m365-dev-call>  (Starts from the 31st of
+    PDT | <https://aka.ms/m365-dev-call>  (Starts from the 31st of
     August as weekly cycle)
--   **Office add-in monthly call --** September 8th at 8:00 am PDT \|
+-   **Office add-in monthly call --** September 8th at 8:00 am PDT |
     <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call --** September 9th at 9:00 am PDT
-    \| <https://aka.ms/adaptivecardscommunitycall>
+    | <https://aka.ms/adaptivecardscommunitycall>
 PnP SharePoint Framework Special Interest Group bi-weekly calls are
 targeted at anyone who is interested in the JavaScript-based development
 towards Microsoft Teams, SharePoint Online, and also on-premises. SIG

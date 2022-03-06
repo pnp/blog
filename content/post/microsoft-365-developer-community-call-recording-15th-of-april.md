@@ -37,7 +37,7 @@ commandlets for Microsoft Viva Connections and Syntex).   **yo Teams**
 ***msteams-react-base-component*** (React UI helpers) v3.1.0, have been
 released.   **Microsoft Graph Toolkit** try out the new OneDrive file
 components (Preview).   The host of this call was [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| \@vesajuvonen.
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
  Q&A takes place in chat throughout the call.
 
 **Actions:**
@@ -108,11 +108,11 @@ Thank you for your work. Samples are often showcased in Demos.
 **Topics** covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/o365bert) (Microsoft) \| \@O365bert
+    Jansen](http://twitter.com/o365bert) (Microsoft) | \@O365bert
     - [6:51](https://youtu.be/HarfeUb-3TY?t=411)
 
 -   PnP PowerShell updates - [Bert
-    Jansen](http://twitter.com/o365bert) (Microsoft) \|
+    Jansen](http://twitter.com/o365bert) (Microsoft) |
     \@O365bert - [9:26](https://youtu.be/HarfeUb-3TY?t=566)
 
 -   yo Teams updates - [Wictor
@@ -121,10 +121,10 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   Microsoft Graph Toolkit updates - [Beth
     Pan](http://twitter.com/beth_panx) (Microsoft)
-    \| [\@beth_panx](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/803637) - [12:16](https://youtu.be/HarfeUb-3TY?t=736)
+    | [beth-panx](https://github.com/beth-panx) - [12:16](https://youtu.be/HarfeUb-3TY?t=736)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) \|
+    German](http://twitter.com/Bob1German) (Microsoft) |
     \@Bob1German - [13:53](https://youtu.be/HarfeUb-3TY?t=833)
 
 -   **Demo:**  SharePoint Content Type APIs in Microsoft Graph - Swapnil
@@ -133,12 +133,12 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   **Demo:**  Live London Underground Line Status Bot in Microsoft
     Dataverse for Teams - [Leon Armston](http://twitter.com/LeonArmston)
-    (Intelogy) \|
-    [\@LeonArmston](/t5/user/viewprofilepage/user-id/855621) -
+    (Intelogy) |
+    [\@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621) -
     [25:18](https://youtu.be/HarfeUb-3TY?t=1518)
 
 -   **Demo:**  Microsoft list formatting with header and footer
-    settings - [Chris Kent](http://twitter.com/theChrisKent) (DMI) \|
+    settings - [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
     \@theChrisKent - [41:29](https://youtu.be/HarfeUb-3TY?t=2489)
 
      
@@ -170,24 +170,24 @@ slides.
     Samples](https://github.com/pnp/List-Formatting) 
 
 -   PnP Weekly -- Episode 122 with guest MVP [Mark
-    Rackley](http://twitter.com/mrackley) (PAIT Group) \| \@mrackley\|
+    Rackley](http://twitter.com/mrackley) (PAIT Group) | \@mrackley|
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-122/ba-p/2268519)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-122-12th-of-april-2021/)
 
--   Microsoft Graph Toolkit in Microsoft Learn \|
+-   Microsoft Graph Toolkit in Microsoft Learn |
     <http://aka.ms/learn-mgt>
 
 -   [Microsoft 365 PnP Community
     hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP)
-    \| aka.ms/m365pnp/community 
+    | aka.ms/m365pnp/community 
 
 -   [Microsoft 365 Extensibility look book
     gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa)
-    \| aka.ms/m365/extensibility
+    | aka.ms/m365/extensibility
 
 -   [Microsoft Teams Samples
-    Gallery](https://pnp.github.io/teams-dev-samples/) \|
+    Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
 -   Viva Connections <https://aka.ms/VivaConnections>
@@ -199,17 +199,17 @@ slides.
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
     API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) \| aka.ms/m365pnp-videos
+    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer
-    documentation](http://aka.ms/spdev-docs) \| <https://aka.ms/spdev-docs>
+    documentation](http://aka.ms/spdev-docs) | <https://aka.ms/spdev-docs>
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization Partner
     Guidance](http://aka.ms/sppnp-modernization-partnerguidance) -
@@ -237,26 +237,26 @@ slides.
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
-**Upcoming Calls \| Recurrent Invites:**
--   **M365 General Dev call --** April 15th at 7:00 am PDT \|
+**Upcoming Calls | Recurrent Invites:**
+-   **M365 General Dev call --** April 15th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
 -   **Microsoft Identity Platform --** April 15th at 9:00 am PDT
-    \|<https://aka.ms/IDDevCommunityCalendar> 
--   **Microsoft Teams monthly call --** April 20th at 8:00 am PDT \|
+    |<https://aka.ms/IDDevCommunityCalendar> 
+-   **Microsoft Teams monthly call --** April 20th at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
--   **Power Apps monthly call --** April 21st at 8:00 am PDT \|
+-   **Power Apps monthly call --** April 21st at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** April 22nd at 7:00 am PDT \|
+-   **SharePoint Framework call --** April 22nd at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **M365 General Dev call --** April 29th at 7:00 am PDT \|
+-   **M365 General Dev call --** April 29th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Graph call -** May 4th at 8:00 am PDT \|
+-   **Microsoft Graph call -** May 4th at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint monthly call --** May 11th at 8:00am PDT \|
+-   **SharePoint monthly call --** May 11th at 8:00am PDT |
     <https://aka.ms/sp-call>
--   **Office add-in monthly call --** May 12th at 8:00 am PDT \|
+-   **Office add-in monthly call --** May 12th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365

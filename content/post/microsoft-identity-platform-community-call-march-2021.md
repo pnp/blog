@@ -17,7 +17,7 @@ In this session - Microsoft Identity platform for developers, Microsoft
 Authentication Libraries (JS, .NET, Android, iOS, Python, Java, Angular,
 Microsoft Identity Web), and top developer mistakes seen on the
 Microsoft Identity platform.  Microsoft Program Manager presenters -
-Harish Suresh \| \@harish_suresh and Sahil Malik \| \@sahilmalik.  This
+Harish Suresh | \@harish_suresh and Sahil Malik | \@sahilmalik.  This
 session was delivered and recorded on March 18, 2021.  Q&A in chat
 throughout call. 
  
@@ -52,22 +52,22 @@ include: 
 
 -   [Deck](https://www.slideshare.net/OfficeDev/microsoft-identity-platform-dos-and-dont)
 -   Documentation - Migrate applications to the Microsoft Authentication
-    Library (MSAL) \|
+    Library (MSAL) |
     <https://docs.microsoft.com/azure/active-directory/develop/msal-migration>
 -   Documentation - Redirect URI (reply URL) restrictions and
-    limitations \|
+    limitations |
     <https://docs.microsoft.com/en-us/azure/active-directory/develop/reply-url>
--   Website - OAuth 2.0 \| <https://oauth.net/2/>
+-   Website - OAuth 2.0 | <https://oauth.net/2/>
 -   Help Options for Developers
-    -   Q & A -- Technical Q & A on Microsoft Identity \|
+    -   Q & A -- Technical Q & A on Microsoft Identity |
         <https://aka.ms/AzureIdentityQnA>
-    -   Post a query on Microsoft Q&A with the right tags \|
+    -   Post a query on Microsoft Q&A with the right tags |
         [https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options#post-\...](https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options#post-a-question-to-microsoft-qa)
-    -   Create a GitHub issue against the MSAL library \|
+    -   Create a GitHub issue against the MSAL library |
         [https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options#creat\...](https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options#create-a-github-issue)
-    -   Submit feedback for new feature requests \|
+    -   Submit feedback for new feature requests |
         [https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options#submi\...](https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options#submit-feedback-on-azure-feedback)
-    -   Create an Azure Support Request \|
+    -   Create an Azure Support Request |
         [https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options#creat\...](https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options#create-an-azure-support-request)
 
 

@@ -54,7 +54,7 @@ the future!
 
 **Actions:**
 
--   Join on the Viva Connections private preview! \|
+-   Join on the Viva Connections private preview! |
     [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
 -   Feedback wanted:  [Microsoft Teams Toolkit for Visual Studio &
     Visual Studio Code](https://aka.ms/teams-toolkit) now available for
@@ -124,56 +124,56 @@ the future!
 
 -   [**Copy PnP search results web part
     settings**](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-copy-pnp-search-webpart-settings) -
-    [Anoop Tatti](http://twitter.com/anooptells) \| \@anooptells
+    [Anoop Tatti](http://twitter.com/anooptells) | \@anooptells
 -   [**Follow
     Documents**](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-follow-document) -
     [André
-    Lage](http://twitter.com/aaclage) \| [\@aaclage](/t5/user/viewprofilepage/user-id/861803)
+    Lage](http://twitter.com/aaclage) | [\@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
 -    
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
 -   **[Remote Event Receiver
     Manager](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-remote-event-receiver-manager)** -
-    [Dan Toft](http://twitter.com/tanddant) \| \@tanddant
+    [Dan Toft](http://twitter.com/tanddant) | \@tanddant
 -   **[Carousel](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-carousel)** -
     [Giuliano De
-    Luca](http://twitter.com/delucagiulian) \| [\@delucagiulian](/t5/user/viewprofilepage/user-id/1038317)
+    Luca](http://twitter.com/delucagiulian) | [\@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
 **Agenda items:**
 
 -   Latest updates on SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [6:36](https://youtu.be/NyZP1oso8Mg?t=396)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \|
+    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
     \@jfj1997 -- [8:47](https://youtu.be/NyZP1oso8Mg?t=527)
 -   CLI for Microsoft 365 - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [10:34](https://youtu.be/NyZP1oso8Mg?t=634)
 -   PnP SPFx Controls - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [11:54](https://youtu.be/NyZP1oso8Mg?t=714)
 -   PnP Modern Search - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [12:56](https://youtu.be/NyZP1oso8Mg?t=776)
 -   PnP SPFx Samples - [Hugo
-    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) \|
+    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [14:03](https://youtu.be/NyZP1oso8Mg?t=843)
 -   Topic:  Microsoft Teams Toolkit v2.0 - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [52:48](https://youtu.be/NyZP1oso8Mg?t=3168) 
 
 **Demos:**
 
 -   **Demo:**  spfx-fast-serve: faster SharePoint Framework development
-    -- [Sergei Sergeev](http://twitter.com/sergeev_srg) (Mastaq) \|
+    -- [Sergei Sergeev](http://twitter.com/sergeev_srg) (Mastaq) |
     \@sergeev_srg - [17:42](https://youtu.be/NyZP1oso8Mg?t=1062)
 -   **Demo:**  Building team time zone assistant Teams solution with
     SPFx v1.13, including Viva Connections Card -- [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \|
-    \@jfj1997 & [Derek Cash-Peterson](http://twitter.com/spdcp) \|
+    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    \@jfj1997 & [Derek Cash-Peterson](http://twitter.com/spdcp) |
     \@spdcp - [31:22](https://youtu.be/NyZP1oso8Mg?t=1882)
 **Resources:**
 
@@ -196,16 +196,16 @@ slides.
 -   Viva Connections <https://aka.ms/VivaConnections>
 
 -   PnP Weekly -- Episode 131 [Vesa
-    Juvonen ](http://twitter.com/vesajuvonen)(Microsoft) \|
+    Juvonen ](http://twitter.com/vesajuvonen)(Microsoft) |
     \@vesajuvonen, [Waldek
-    Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm were
+    Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm were
     joined by Senior Program Manager - Zhenya Savchenko (Microsoft),
     from the Developer Division of Visual Studio group to talk about
     new [Microsoft Teams Toolkit v2 extension for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension).
-    \|
+    |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-131/ba-p/2445655)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-131-14th-of-June-2021/)
 **General Resources:**
 
@@ -215,16 +215,16 @@ slides.
     guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital
     Brochure) - aka.ms/modernworkbuildsessions
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
--   [Sharing is Caring](https://aka.ms/sharing-is-caring) \|
+-   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
 -   [Tools - ](http://aka.ms/pnp-search)[PnP Modern Search
     v4](https://microsoft-search.github.io/pnp-modern-search/)[ 
-    \| ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
--   [M365 PnP site](https://aka.ms/m365pnp) \| aka.ms/m365pnp
+    | ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
+-   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
 -   Blog: "[A Lap Around Microsoft Graph Toolkit" blog
@@ -277,19 +277,19 @@ slides.
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls \| Recurrent invites:**
--   **M365 General Dev call** -- June 24th at 7:00 am PDT \|
+**Upcoming calls | Recurrent invites:**
+-   **M365 General Dev call** -- June 24th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **SharePoint Framework call** -- July 1**st**at 7:00 am PDT \|
+-   **SharePoint Framework call** -- July 1**st**at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **Office add-in monthly call --** July 14th at 8:00 am PDT \|
+-   **Office add-in monthly call --** July 14th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **Adaptive Cards monthly call --** July 8th at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** July 8th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **Microsoft Identity Platform --** July 15th at 9:00 am PDT \|
+-   **Microsoft Identity Platform --** July 15th at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar>
 -   **Power Apps monthly call --** July[
-    21]st[ at 8:00 am PDT \|
+    21]st[ at 8:00 am PDT |
     ]<https://aka.ms/PowerAppsMonthlyCall>
 PnP SharePoint Framework Special Interest Group bi-weekly calls are
 targeted at anyone who is interested in the JavaScript-based development

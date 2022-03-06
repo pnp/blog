@@ -465,7 +465,7 @@ useful.
 -- My repository containing all of the JSON definitions shown in this
 blog, as well as a PnP provisioning template you can use to provision
 everything.
-[Use column formatting to customize SharePoint \| Microsoft
+[Use column formatting to customize SharePoint | Microsoft
 Docs](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting#get-started-with-column-formatting)
 -- The official documentation for custom column formatting.
 [Flicon - Fluent UI Icon Search](https://www.flicon.io/) -- A super

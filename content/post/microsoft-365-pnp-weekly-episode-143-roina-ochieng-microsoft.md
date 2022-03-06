@@ -17,11 +17,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by Nairobi, Kenya-based Program Manager at Microsoft - [Roina
-Ochieng](http://twitter.com/roinochieng) \| \@roinochieng, who works in
+Ochieng](http://twitter.com/roinochieng) | \@roinochieng, who works in
 the Microsoft Graph team focusing on the SDKs and tooling.
 
  
@@ -96,7 +96,7 @@ everyone for your contributions to the community!
     generally
     available](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-mobile-and-new-partner-integrations-are-now/ba-p/2932217) -
     [Michael Holste](https://twitter.com/Mike_Holste) (Microsoft)
-    \| [\@Mike](/t5/user/viewprofilepage/user-id/18377)\_Holste
+    | [\@Mike](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/18377)\_Holste
 -   [Microsoft Tech Community Live: Microsoft Viva
     Edition](https://techcommunity.microsoft.com/t5/tech-community-live/microsoft-tech-community-live-microsoft-viva-edition/ev-p/2824340) -
     Microsoft
@@ -111,41 +111,41 @@ everyone for your contributions to the community!
     November
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members/ba-p/2953966) -
     [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
-    \| \@vesajuvonen
+    | \@vesajuvonen
 -   [Matching the logged in user in a canvas app with a person column in
     SharePoint](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/ba-p/2954522) -
     [Carmen Ysewijn](https://twitter.com/CarmenYsewijn) (Qubix)
-    \| \@CarmenYsewijn
+    | \@CarmenYsewijn
 -   [Collaborating on a Loop: Preparing for Microsoft Loop and the
     collaborative
     canvas](https://regarding365.com/collaborating-on-a-loop-preparing-for-microsoft-loop-and-the-collaborative-canvas-1908b2fd1a0b)
     - [Rebecca Jackson](https://twitter.com/RebeccaJLJ) (Avanade)
-    \| [\@RebeccaJLJ](/t5/user/viewprofilepage/user-id/478380)
+    | [\@RebeccaJLJ](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/478380)
 -   [Cleaning Up Content Types Orphaned from the Content Type
     Hub](https://sympmarc.com/2021/11/09/cleaning-up-content-types-orphaned-from-the-content-type-hub/) -
     [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis
-    Consulting) \| \@sympmarc
+    Consulting) | \@sympmarc
 -   [Building a Microsoft Teams Bot: Deep linking to a Teams message
     from an Adaptive Card
     button](https://www.vrdmn.com/2021/11/building-microsoft-teams-bot-deep.html)
     - [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions)
-    \| \@vrdmn
+    | \@vrdmn
 -   [Using the Graph Explorer to help Execute Graph PowerShell
     Commands](https://helloitsliam.com/2021/11/08/using-the-graph-explorer-to-help-execute-graph-powershell-commands/) -
-    [Liam Cleary](https://twitter.com/helloitsliam) \| \@helloitsliam
+    [Liam Cleary](https://twitter.com/helloitsliam) | \@helloitsliam
 -   [How to Setup Teams & Microsoft 365 for Streamlined Knowledge
     Sharing Sessions (aka Lunch & Learn or
     \...](https://camerondwyer.com/2021/11/08/how-to-setup-teams-microsoft-365-for-streamlined-knowledge-sharing-sessions-aka-lunch-learn-or-brown-bag/) -
     [Cameron Dwyer](https://twitter.com/CameronDwyer) (OnePlace
-    Solutions) \| \@CameronDwyer
+    Solutions) | \@CameronDwyer
 -   [Building a partner offering with Azure AD secured multi-tenant APIs
     and Viva Connections Adaptive
     Ca\...](https://www.youtube.com/playlist?list=PLR9nK3mnD-OWhKe9DW7qzooOOXc0_goB3)-
     [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys)
-    \| \@paolopia
+    | \@paolopia
 -   [Episode #180 - Consuming 3rd Party APIs in SPFx
     ACEs](https://www.youtube.com/watch?v=YGEkTmmBuM0) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) \| \@paolopia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@paolopia
 -   [November 2021 DIWUG
     Meetup](https://www.meetup.com/Dutch-Information-Workers-User-Group-DIWUG/events/281733416/)
 

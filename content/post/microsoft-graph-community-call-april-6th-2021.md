@@ -85,16 +85,16 @@ at <https://aka.ms/GraphTAPForm>.  
 -   Mark your calendar -- next Microsoft Graph community call is on May
     4 at 08:00am PDT - <https://aka.ms/microsoftgraphcall> 
 -   Try new file components -- npm install
-    [\@microsoft](/t5/user/viewprofilepage/user-id/41501)/mgt\@next.file
+    [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/mgt\@next.file
 -   Try MSAL 2.0 Provider -- npm install
-    [\@microsoft](/t5/user/viewprofilepage/user-id/41501)/mgt\@next.msal2provider
+    [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/mgt\@next.msal2provider
 
 ## Resources:
 
 -   Blog post - [Microsoft Graph Java SDK v3 adds enhanced capabilities
     with general
     availability](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-java-sdk-v3-adds-enhanced-capabilities-with-general-availability/)
-    \| <https://aka.ms/ga-javav3> 
+    | <https://aka.ms/ga-javav3> 
 
 -   Repo - [Microsoft Graph SDK for
     Java](https://github.com/microsoftgraph/msgraph-sdk-java)
@@ -103,19 +103,19 @@ at <https://aka.ms/GraphTAPForm>.  
 
 -   Learn Module - [Get started with Microsoft Graph
     Toolkit](https://docs.microsoft.com/learn/modules/msgraph-toolkit-intro/)
-    \| <https://aka.ms/mgt-learn>
+    | <https://aka.ms/mgt-learn>
 
 -   Repo - [Microsoft Graph Toolkit
-    v2.1](https://github.com/microsoftgraph/microsoft-graph-toolkit) \|
+    v2.1](https://github.com/microsoftgraph/microsoft-graph-toolkit) |
     <https://aka.ms/mgt>  
 
 -   Documentation -- [Microsoft Graph Toolkit
     Overview](https://docs.microsoft.com/en-us/graph/toolkit/overview)
-    \| <https://aka.ms/mgt-docs>
+    | <https://aka.ms/mgt-docs>
 
 -   Playground -- [Microsoft Graph Toolkit
     Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple)
-    \| <https://mgt.dev>
+    | <https://mgt.dev>
 
 -   Documentation - [Electron
     Provider](https://docs.microsoft.com/en-us/graph/toolkit/providers/electron) 

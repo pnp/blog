@@ -103,6 +103,6 @@ complete the readme, add any screenshots and submit your GitHub Pull
 Request, please contact us via issues list to communicate what your
 planning.
 If you need any support or want to know how to use GitHub then we have a
-great program to [support new contributors \| sharing is
+great program to [support new contributors | sharing is
 caring](https://pnp.github.io/sharing-is-caring/).
 So check out <https://aka.ms/script-samples> today!

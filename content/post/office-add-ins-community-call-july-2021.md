@@ -21,15 +21,15 @@ e-mail's list of recipients, than the message is automatically tagged as
 External and optionally a disclaimer is appended to message).  This
 month's Community spotlight recognizes James Wayne (Exclaimer) for his
 continued contributions.  Thank you!   Q&A in chat throughout call.  The
-call was hosted by David Chesnut (Microsoft) \| \@davidchesnut.
-Microsoft Presenters: Juan Balmori \| \@juaneloBalmori, Ankush Oberoi,
+call was hosted by David Chesnut (Microsoft) | \@davidchesnut.
+Microsoft Presenters: Juan Balmori | \@juaneloBalmori, Ankush Oberoi,
 and Elizabeth Samuel.   Recorded July 14, 2021.
 
 ##   
 
 ## Agenda: 
 
--   Shared mailboxes in Outlook -- Juan Balmori (Microsoft) \|
+-   Shared mailboxes in Outlook -- Juan Balmori (Microsoft) |
     \@juaneloBalmori -- [00:50](https://youtu.be/zZpelH7CxJ8?t=50)
 -   PnP: Message recipients changed event (Outlook) - Elizabeth Samuel,
     Sr. Dev Writer (Microsoft) --
@@ -112,14 +112,14 @@ OneDrive](https://docs.microsoft.com/graph/api/resources/onedrive?view=graph-res
 
 ###  Outlook shared mailbox 
 
--   [Create a shared mailbox - Microsoft 365 admin \| Microsoft
+-   [Create a shared mailbox - Microsoft 365 admin | Microsoft
     Docs](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
 
--   [Remove automapping for a shared mailbox - Outlook \| Microsoft
+-   [Remove automapping for a shared mailbox - Outlook | Microsoft
     Docs](https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/remove-automapping-for-shared-mailbox)
 
 -   [Enable shared folders and shared mailbox scenarios in an Outlook
-    add-in \| Microsoft
+    add-in | Microsoft
     Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/outlook/delegate-access?tabs=windows)
 
 ###  PnP: Use Outlook event-based activation to tag external recipients (preview) 

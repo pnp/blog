@@ -10,41 +10,17 @@ tags: []
 type: "regular"
 ---
 
-The Microsoft 365 Developer tenant is an amazing feature to learn and
-experiment in the Microsoft 365 universe (actually I'm talking about
-your personal development "sandbox" of the Microsoft 365 developer
-program. If you have no idea, what a "dev tenant" is, read the article
-"[What is a "Dev tenant" and why would you want
-one](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-dev-tenant-and-why-would-you-want-one/ba-p/2036610)"
-from [Julie
-Turner](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/605)).
-But there are limitations if it comes to experience the full potential
-of the Power Platform. Power Platform licensing is a bit complex, but to
-simplify things: You may use standard connectors within most Microsoft
-365 licenses (like E3 or E5), but you can't you can't use premium
-connectors, or on prem data gateways, or add Microsoft Dataverse to your
-environments. Since the dev tenant gives only you a Microsoft  365 E5
-license, you would need to purchase a standalone license., Which is not
-ideal if you just want to learn and decide later on if you want to dig
-deeper into the Power Platform.
+The Microsoft 365 Developer tenant is an amazing feature to learn and experiment in the Microsoft 365 universe (actually I'm talking about your personal development "sandbox" of the Microsoft 365 developer program. 
 
-Luckily there is the [Power Apps Community
-Plan](https://powerapps.microsoft.com/en-us/communityplan/) and you can
-add this plan to your developer tenant.
-{{< image alt="devtenant-micha.png" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/devtenant-micha.png" >}}
+If you have no idea, what a "dev tenant" is, read the article "[What is a "Dev tenant" and why would you want one](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-dev-tenant-and-why-would-you-want-one/ba-p/2036610)" from [Julie Turner](https://github.com/juliemturner)). 
 
-**What are the advantages of the Power App Community Plan?**
+But there are limitations if it comes to experience the full potential of the Power Platform. Power Platform licensing is a bit complex, but to simplify things: You may use standard connectors within most Microsoft 365 licenses (like E3 or E5), but you can't you can't use premium connectors, or on prem data gateways, or add Microsoft Dataverse to your environments. Since the dev tenant gives only you a Microsoft  365 E5 license, you would need to purchase a standalone license., Which is not ideal if you just want to learn and decide later on if you want to dig deeper into the Power Platform.
 
-With the Community plan, you get a developer environment for free which
-gives you the possibility to learn and develop your skills (check out
-the [Power Platform Apps plan docs
-article](https://docs.microsoft.com/en-us/powerapps/maker/dev-community-plan)
-for more information). Developer environments are exclusively for the
-Community Plan , you can learn more here in the [environments
-overview](https://docs.microsoft.com/en-us/power-platform/admin/environments-overview)
-documentation. In this environment you get a lot of possibilities which
-are not included in the Power Apps license seeded in the Microsoft 365
-E5 license:
+Luckily there is the [Power Apps Community Plan](https://powerapps.microsoft.com/en-us/communityplan/) and you can add this plan to your developer tenant. 
+
+## What are the advantages of the Power App Community Plan?
+
+With the Community plan, you get a developer environment for free which gives you the possibility to learn and develop your skills (check out the [Power Platform Apps plan docs article](https://docs.microsoft.com/en-us/powerapps/maker/dev-community-plan) for more information). Developer environments are exclusively for the Community Plan , you can learn more here in the [environments overview](https://docs.microsoft.com/en-us/power-platform/admin/environments-overview) documentation. In this environment you get a lot of possibilities which are not included in the Power Apps license seeded in the Microsoft 365 E5 license:
 
 -   You can use premium connectors (only for data sources within Power
     Apps)
@@ -57,7 +33,7 @@ You see, if you want to learn more about the Power Platform and develop
 your skills, this is a huge benefit for you. And it comes for free.
 {{< image alt="What is included in the Power Apps Community Plan" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/included.png" >}}
 
-**How to join the Community Plan?**
+## How to join the Community Plan?
 
 Let me walk you through the process. You need your log in data for the
 developer tenant: Mail address and password.
@@ -68,15 +44,17 @@ on **Get started free**.
 {{< image alt="The overview page of the Power Apps Community Plan" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/Overview.png" >}}
 
 In the next step you need to insert the mail address of your dev tenant.
+
 That is very important, do not use a different mail address, since you
 want the Community Plan to be linked to your dev tenant. After that
 click on **Sign Up**.
 {{< image alt="The sign in page of the Power Apps Community Plan" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/getstarted.png" >}}
 
- You will get a notification that says, that you're using this address
+You will get a notification that says, that you're using this address
 with another Microsoft Service already. Of course, you do, you use it
 for your developer tenant, right? So click on **Sign In**. 
 {{< image alt="a pop up mentioning, that you already use the address for a Microsoft Service" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/noworries.png" >}}
+
 The next window is a confirmation that you're signed in and you can
 (important, you don't have to) decide to get promotion and offers send
 to your address.
@@ -89,14 +67,15 @@ You don't have to, so choose wisely.
 And naturally by clicking on **Start** you confirm that you've read the
 terms and conditions and the Microsoft Privacy Policy. So maybe it's a
 good point to read them ;)
-![A pop up asking you to agree to the terms and conditions and decide if you want to share your information and get email offers from
-Microsoft](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/256944i170AD02568EC2836/image-size/large?v=v2&px=999 "almost.png")
+
+{{< image alt="A pop up asking you to agree to the terms and conditions and decide if you want to share your information and get email offers from Microsoft" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/almost.png" >}}
 
 Don't you worry, you're almost done. In order to start with the Power
 Apps Community Plan you need to choose the country you're using the
 Power Platform in. There are various legal conditions, which differ
 depending on the country. Once again you can choose the get the latest
 Power Apps tips and information, yet this is no mandatory field.
+
 If you hit that **Accept** button you're done.
 {{< image alt="A pop up asking you to choose your country to begin." src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/lastthing.png" >}}
 
@@ -110,12 +89,15 @@ can now see your new Developer environment. 
 
 Now you can start developing apps and flows in this specific
 environment.
+
 But there is one more thing you need to pay attention to: If you open
 Power Automate or Power Apps, make sure that you're in the correct
 environment. In the upper right corner of your browser you can see, what
 environment you're currently in. Click on the button **Environments** to
 see a list of all your available environments. Now select you newly
 created Developer environment (in my case it's **Michael Roth's
-Environment**). Now you're using the newly created Developer environment
+Environment**). 
+
+Now you're using the newly created Developer environment
 with all the benefits from the Power Apps Community Plan.
 {{< image alt="A picture showing the button the select the right environment in the Power Tools" src="images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/Choose_environment.png" >}}

@@ -26,7 +26,7 @@ from <https://aka.ms/sp-call>.
 
 If you're looking at this blog post, then you are at the new Microsoft
 365 PnP Community hub at Microsoft Tech Communities!  Please take a
-moment to look around. The [Microsoft 365 Update - Community (PnP) \|
+moment to look around. The [Microsoft 365 Update - Community (PnP) |
 March
 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-community-pnp-march-2021-update/ba-p/2188616)is
 available. In this call, the Top 10 developer and non-developer entries
@@ -103,7 +103,7 @@ Channel](https://aka.ms/m365pnp-videos).
 -   Community contributors and companies which have been involved in the
     past month -- [10:40](https://youtu.be/xXmpIVdokSs?t=640)
 -   **Demo:  **Getting started with Microsoft Viva Topics - [Naomi
-    Moneypenny](http://twitter.com/nmoneypenny) (Microsoft) \|
+    Moneypenny](http://twitter.com/nmoneypenny) (Microsoft) |
     \@nmoneypenny - [14:26](https://youtu.be/xXmpIVdokSs?t=866)
 The full recording of this session is available from Microsoft 365 &
 SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
@@ -132,14 +132,14 @@ Additional resources on covered topics and discussions.
     Connectors](https://docs.microsoft.com/en-us/MicrosoftSearch/connectors-overview)
       
 
--   PnP Weekly -- Episode 117 with guest Bert Jansen (Microsoft) \|
-    \@o365bert \|
+-   PnP Weekly -- Episode 117 with guest Bert Jansen (Microsoft) |
+    \@o365bert |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-117/ba-p/2193707)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-117-8th-of-march-2021/)
 
 -   Microsoft 365 Developer Podcast -- March 8, 2021, with guest Stephan
-    Bisser (Solvion) \| \@stephanbisser \|
+    Bisser (Solvion) | \@stephanbisser |
     [podcast](https://www.m365devpodcast.com/e/conversational-ai-with-stephan-bisser/)
      
 
@@ -170,22 +170,22 @@ Additional resources on covered topics and discussions.
 -   SharePoint Development UserVoice - new feature requests -
     <http://aka.ms/spdev-uservoice>
 
-**Upcoming calls \| Recurrent invites:**
--   **Office add-in monthly call --** March 10th at 8 AM PDT \|
+**Upcoming calls | Recurrent invites:**
+-   **Office add-in monthly call --** March 10th at 8 AM PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **SharePoint Framework call --** March 11th at 07:00am PDT \|
+-   **SharePoint Framework call --** March 11th at 07:00am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **Adaptive Cards monthly call -** March 11th at 9:00 am PDT \|
+-   **Adaptive Cards monthly call -** March 11th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **Microsoft Teams monthly call --** March 16th at 8:00am PDT \|
+-   **Microsoft Teams monthly call --** March 16th at 8:00am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
--   **Power Apps monthly call -** March 17th at 8:00am PDT \|
+-   **Power Apps monthly call -** March 17th at 8:00am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **M365 General Dev call --** March 18th at 07:00am PDT \|
+-   **M365 General Dev call --** March 18th at 07:00am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Graph call -** **April** 6th at 8:00am PDT **\|**
+-   **Microsoft Graph call -** **April** 6th at 8:00am PDT **|**
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint monthly call --** April 13th at 08:00am PDT \|
+-   **SharePoint monthly call --** April 13th at 08:00am PDT |
     <https://aka.ms/sp-call>
 \"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics -

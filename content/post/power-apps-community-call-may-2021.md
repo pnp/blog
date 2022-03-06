@@ -73,43 +73,43 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
 
 **Actions:**
 
--   Enter now for Demo Extravaganza 2021 \|
+-   Enter now for Demo Extravaganza 2021 |
     <https://aka.ms/PowerAppsDemoExtravaganza>
 -   Spanish Bizz Summit -- June 4 -- 5, <https://bizzsummit.es/>
       Contact: Eickhel Mendoza
--   Join us for our next call: June 16, 2021 at 08:00am PDT \|
+-   Join us for our next call: June 16, 2021 at 08:00am PDT |
     <https://aka.ms/powerappscommunitycall>
 -   Join us for our next call: May 19, 2021 at 08:00am PDT
-    \| <https://aka.ms/powerappscommunitycall>
+    | <https://aka.ms/powerappscommunitycall>
 
 **Call Agenda:**
 
 -   Building multilingual Power Apps -  [Haniel
-    Croitoru](http://twitter.com/HCroitoru) (Protiviti) \| \@HCroitoru
+    Croitoru](http://twitter.com/HCroitoru) (Protiviti) | \@HCroitoru
     -- [3:04](https://youtu.be/rrdpkOS9pnk?t=184)
 -   Using Environment Variables in Canvas Apps - [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) \| \@chass --
+    Sterling](http://twitter.com/chass) (Microsoft) | \@chass --
     [21:10](https://youtu.be/rrdpkOS9pnk?t=1270)
 -   Using Environment Variables in Flows - [Reza
-    Dorrani](http://twitter.com/RezaDorrani) (Catapult) \|
-    [\@RezaDorrani](/t5/user/viewprofilepage/user-id/285374) --
+    Dorrani](http://twitter.com/RezaDorrani) (Catapult) |
+    [rdorrani](https://github.com/rdorrani) --
     [28:52](https://youtu.be/rrdpkOS9pnk?t=1732)
 -   Recent Power Apps News and Community Contributions - [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) \| \@chass
+    Sterling](http://twitter.com/chass) (Microsoft) | \@chass
     -- [46:28](https://youtu.be/rrdpkOS9pnk?t=2788)
 -   Latest PnP Power Platform Samples -- [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| \@aprildunnam
+    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
     -- [49:05](https://youtu.be/rrdpkOS9pnk?t=2945)
 
 **Referenced in this session:**
 
 -   Documentation - [Environment variables
     overview](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/EnvironmentVariables)
-    \|
+    |
     <https://docs.microsoft.com/en-us/powerapps/maker/data-platform/EnvironmentVariables>
 -   Blog - [Announcing data source environment
     variables](https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/)
-    \|
+    |
     <https://powerapps.microsoft.com/en-us/blog/announcing-data-source-environment-variables/>
 
 **Learn more:**  

@@ -67,63 +67,63 @@ initiative](http://aka.ms/m365pnp) from April 2021:
 Most viewed videos in the [Microsoft 365 Community (PnP) YouTube
 channel](https://aka.ms/m365pnp-videos) during April 2021:
 1.  [Getting started on deploying Viva Connections for Microsoft Teams
-    desktop](https://www.youtube.com/watch?v=-qiRxrPexNI) \| 10,040
+    desktop](https://www.youtube.com/watch?v=-qiRxrPexNI) | 10,040
 2.  [Microsoft Teams community call - April
-    2021](https://www.youtube.com/watch?v=sQeICJCdFjI) \| 6,917
+    2021](https://www.youtube.com/watch?v=sQeICJCdFjI) | 6,917
 3.  [Building a beautifully designed Intranet with SharePoint - latest
     design and branding
-    capabilities](https://www.youtube.com/watch?v=Dc07NIiDJAI) \| [Cathy
+    capabilities](https://www.youtube.com/watch?v=Dc07NIiDJAI) | [Cathy
     Dew](https://twitter.com/catpaint1) (Microsoft) & [Katie
-    Swanson](https://twitter.com/kswansondesign) (Microsoft) \| 3,235
+    Swanson](https://twitter.com/kswansondesign) (Microsoft) | 3,235
 4.  [Getting started with Site Designs in SharePoint
     Online](https://www.youtube.com/watch?v=ZjTnlbMJZfY) - [Laura
-    Kokkarinen](https://twitter.com/laurakokkarinen) (Sulava) \| 3,085
+    Kokkarinen](https://twitter.com/laurakokkarinen) (Sulava) | 3,085
 5.  [Working with Microsoft Lists
     (webinar)](https://www.youtube.com/watch?v=HyBD_SOt_BQ) - Harini
     Saladi, [Miceile Barrett](https://twitter.com/MSFTMiceile),
     [Chakkaradeep Chandran](https://twitter.com/chakkaradeep) and [Mark
-    Kashman](https://twitter.com/mkashman) \| 2,930
+    Kashman](https://twitter.com/mkashman) | 2,930
 6.  [Your intranet is now in Microsoft Teams with Microsoft Viva
-    Connections](https://www.youtube.com/watch?v=IRr50w61fy0) \| 2,195
+    Connections](https://www.youtube.com/watch?v=IRr50w61fy0) | 2,195
 7.  [Introducing: New Employee Onboarding - a Microsoft Teams app
-    template](https://www.youtube.com/watch?v=-S_lHXWEobk) \| [Nidhi
-    Sharma](https://twitter.com/nidsonbirdie) (Microsoft) \| 2,109
+    template](https://www.youtube.com/watch?v=-S_lHXWEobk) | [Nidhi
+    Sharma](https://twitter.com/nidsonbirdie) (Microsoft) | 2,109
 8.  [Architecting Your
-    Intranet](https://www.youtube.com/watch?v=8jPzjNlf3bM) \| [Melissa
-    Torres](https://twitter.com/Meltorac) (Microsoft) \| 2,104
+    Intranet](https://www.youtube.com/watch?v=8jPzjNlf3bM) | [Melissa
+    Torres](https://twitter.com/Meltorac) (Microsoft) | 2,104
 9.  [SharePoint Framework Tutorial 1 - HelloWorld
-    WebPart](https://www.youtube.com/watch?v=_O2Re5uRLoo) \| 1,856
+    WebPart](https://www.youtube.com/watch?v=_O2Re5uRLoo) | 1,856
 10. [Microsoft Teams Meeting Questionnaire App with SharePoint
-    Framework](https://www.youtube.com/watch?v=gDcT7yu6UmU) \| [Nanddeep
-    Nachan](https://twitter.com/NanddeepNachan) \| 1,717
+    Framework](https://www.youtube.com/watch?v=gDcT7yu6UmU) | [Nanddeep
+    Nachan](https://twitter.com/NanddeepNachan) | 1,717
 Most viewed videos in the [Microsoft 365 Developer YouTube
 channel](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ)
 during April 2021:
 1.  [Authenticate and connect with Microsoft Graph - June
-    2019](https://www.youtube.com/watch?v=xWhyG-SuyQM) \| 1,316
+    2019](https://www.youtube.com/watch?v=xWhyG-SuyQM) | 1,316
 2.  [Build Outlook Add-ins that integrate your solution seamlessly into
     your users' Outlook
-    experience](https://www.youtube.com/watch?v=Dd4SOA5dUmw)​ \| Juan
+    experience](https://www.youtube.com/watch?v=Dd4SOA5dUmw)​ | Juan
     Balmori, Hitesh Manwar - 1,197
 3.  [An introduction to Microsoft Graph for developers - Part I -
     Getting started - October
-    2019](https://www.youtube.com/watch?v=EBbnpFdB92A) \| 1,175
+    2019](https://www.youtube.com/watch?v=EBbnpFdB92A) | 1,175
 4.  [Demo: Getting started with Power Apps
-    Portals](https://www.youtube.com/watch?v=HLC4voniLXU) \| [Brian
-    Knight](https://twitter.com/BrianKnight) (Pragmatic Works) \| 929
+    Portals](https://www.youtube.com/watch?v=HLC4voniLXU) | [Brian
+    Knight](https://twitter.com/BrianKnight) (Pragmatic Works) | 929
 5.  [Getting Started with Microsoft Graph and Application
-    Registration](https://www.youtube.com/watch?v=93j0MmRruFo) \| 926
+    Registration](https://www.youtube.com/watch?v=93j0MmRruFo) | 926
 6.  [Build and Office add-in using modern JavaScript tools and
-    technologies](https://www.youtube.com/watch?v=Aszwh_h5MtM) \| 839
+    technologies](https://www.youtube.com/watch?v=Aszwh_h5MtM) | 839
 7.  [Getting Started with Microsoft
-    Graph](https://www.youtube.com/watch?v=PI9NO5rayiY) \| 817
+    Graph](https://www.youtube.com/watch?v=PI9NO5rayiY) | 817
 8.  [Create interactive conversational bots for Microsoft
-    Teams](https://www.youtube.com/watch?v=zSIysk0yL0Q) \| 803
+    Teams](https://www.youtube.com/watch?v=zSIysk0yL0Q) | 803
 9.  [Accessing Files with Microsoft
-    Graph](https://www.youtube.com/watch?v=YYcuyNfNdRw) \| 754
+    Graph](https://www.youtube.com/watch?v=YYcuyNfNdRw) | 754
 10. [Develop multi-tenant applications with Microsoft Identity
     Platform - April 2020](https://www.youtube.com/watch?v=B416AxHoMJ4)
-    \| 725
+    | 725
 Main resources around Microsoft 365 Community:
 -   Microsoft 365 Community -
     [http://aka.ms/m365pnp](http://aka.ms/sppnp) - One location for all
@@ -198,7 +198,7 @@ development topics from
     Hubs](https://developer.microsoft.com/en-us/microsoft-365/blogs/get-microsoft-graph-change-notifications-delivered-through-azure-event-hubs/)
 Latest community posts at <https://aka.ms/m365pnp/community/blog>
 -   10th of May - [Ari
-    Gunawan](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/73228)
+    Gunawan](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/73228)
     (DevStack) - [Community Sample: News Ticker app (SPFx
     Extensions)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/community-sample-news-ticker-app-spfx-extensions/ba-p/2337566)
 -   10th of May - [Django Lohn](https://twitter.com/lohndjango)
@@ -240,7 +240,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     (Microsoft) - [What's up with
     Markdown?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-s-up-with-markdown/ba-p/2323834)
 -   1st of May - [Ari
-    Gunawan](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/73228)
+    Gunawan](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/73228)
     (DevStack) - [How to Set Up Tailwind CSS in a SPFx
     Project](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-set-up-tailwind-css-in-a-spfx-project/ba-p/2313192)
 -   29th of April - [Damien Bird](https://twitter.com/damobird365)
@@ -947,16 +947,16 @@ involved!
 Please see all the Microsoft 365 development documentation updates from
 the related documentation sets and repositories as listed below:
 -   Microsoft Teams platform documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) \|
+    Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) |
     [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
 -   SharePoint Developer documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) \|
+    Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) |
     [GitHub](https://github.com/SharePoint/sp-dev-docs)
 -   Microsoft Graph documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/graph) \|
+    Docs](https://docs.microsoft.com/en-us/graph) |
     [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
 -   Office add-in documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) \|
+    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
 
 ### Microsoft 365 Dev and Microsoft 365 Community (PnP) YouTube video channels 
@@ -970,13 +970,13 @@ Here are the new Microsoft demo or guidance videos released since the
 last monthly summary:
 -   [Microsoft Lists integration with Power
     BI](https://www.youtube.com/watch?v=D9rGuWllDos) - [Mark
-    Kashman](https://twitter.com/mkashman) (Microsoft) \| \@mkashman
+    Kashman](https://twitter.com/mkashman) (Microsoft) | \@mkashman
 -   [SharePoint Content Type APIs in Microsoft
     Graph](https://www.youtube.com/watch?v=V3NZ3b_zbY0) - Swapnil
     Shrivastava (Microsoft)
 -   [SharePoint Framework v1.12.1 new
     features](https://www.youtube.com/watch?v=sGn_Ke1ZHUk) - [Vesa
-    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen
 -   [Getting started with Microsoft Viva Connections
     Desktop](https://www.youtube.com/watch?v=aQd0EZmXYmk) - [Tejas
@@ -985,19 +985,19 @@ last monthly summary:
     \@PrateekDudeja4
 -   [Viva Connections Desktop and
     Extensibility](https://www.youtube.com/watch?v=COQ4-AlJzPw) - [Vesa
-    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen
 -   [Introduction to PnP Core SDK - Getting started in .NET
     5](https://www.youtube.com/watch?v=zifXYUlp3i0) - [Bert
-    Jansen](https://twitter.com/O365Bert) (Microsoft) \| \@o365bert
+    Jansen](https://twitter.com/O365Bert) (Microsoft) | \@o365bert
 -   [List group header formatting options for Microsoft
     Lists](https://www.youtube.com/watch?v=MR9dVOTKU6E) - [Naveed
-    Ahmed](https://twitter.com/naveed3) (Microsoft) \| \@naveed3
+    Ahmed](https://twitter.com/naveed3) (Microsoft) | \@naveed3
 -   [Best practices for data migrations to Microsoft
     365](https://www.youtube.com/watch?v=dEPtoWBAYKk) - Joshua Badach
 -   [Choosing the right tools for your Microsoft 365
     migration](https://www.youtube.com/watch?v=dmwuqPRhpI4) - [Eric
-    Warnke](https://twitter.com/EricWarnke) (Microsoft) \| \@EricWarnke
+    Warnke](https://twitter.com/EricWarnke) (Microsoft) | \@EricWarnke
 -   [Getting started on deploying Viva Connections for Microsoft Teams
     desktop](https://www.youtube.com/watch?v=-qiRxrPexNI) - Microsoft
 -   [Your intranet is now in Microsoft Teams with Microsoft Viva
@@ -1007,10 +1007,10 @@ last monthly summary:
     Apps](https://www.youtube.com/watch?v=MaG3Zz5wPhI) - Microsoft
 -   [Explore Microsoft Graph scenarios for JavaScript
     development](https://www.youtube.com/watch?v=W6jZh2B4XEA) - [Dan
-    Wahlin](https://twitter.com/DanWahlin) (Microsoft) \| \@danwahlin
+    Wahlin](https://twitter.com/DanWahlin) (Microsoft) | \@danwahlin
 -   [Learn how to develop apps with the Microsoft Graph
     Toolkit!](https://www.youtube.com/watch?v=awT4_rV0hhc) - [Ayca
-    Bas](https://twitter.com/aycabs) (Microsoft) \| \@aycabs
+    Bas](https://twitter.com/aycabs) (Microsoft) | \@aycabs
 -   [Outlook add-in for creating templated signatures programmatically
     with events](https://www.youtube.com/watch?v=nj9i2bwt7Wg) - [David
     Chesnut](https://twitter.com/davidchesnut) (Microsoft)
@@ -1023,70 +1023,70 @@ last monthly summary:
 -   [Take a lap around the Company Communicator
     app](https://www.youtube.com/watch?v=wDVVbiaNbjk) - Mykhailo
     Sydorchuk (Microsoft)
--   [Streamline your work with Microsoft Graph \| Tips & Tricks
+-   [Streamline your work with Microsoft Graph | Tips & Tricks
     #1](https://www.youtube.com/watch?v=K2KfcSQ_ed8) - [Bob
-    German](https://twitter.com/Bob1German) (Microsoft) \| \@Bob1German
--   [Microsoft Graph Toolkit can do WHAT? \| Tips & Tricks
+    German](https://twitter.com/Bob1German) (Microsoft) | \@Bob1German
+-   [Microsoft Graph Toolkit can do WHAT? | Tips & Tricks
     #2](https://www.youtube.com/watch?v=iNytzRlYsnQ) - [Ayca
-    Bas](https://twitter.com/aycabs) (Microsoft) \| \@aycabs
--   [Build Teams apps with Power Apps in Dataverse for Teams \| Tips &
+    Bas](https://twitter.com/aycabs) (Microsoft) | \@aycabs
+-   [Build Teams apps with Power Apps in Dataverse for Teams | Tips &
     Tricks #3](https://www.youtube.com/watch?v=tSf9wHxQf9E) - [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam
--   [Start calling the Microsoft Graph API in under 5 minutes! \| Tips &
+    | \@aprildunnam
+-   [Start calling the Microsoft Graph API in under 5 minutes! | Tips &
     Tricks #4](https://www.youtube.com/watch?v=f_3wc4UgqTI) - [Dan
-    Wahlin](https://twitter.com/DanWahlin) (Microsoft) \| \@danwahlin
--   [Set up your new Microsoft 365 Developer subscription \| Tips &
+    Wahlin](https://twitter.com/DanWahlin) (Microsoft) | \@danwahlin
+-   [Set up your new Microsoft 365 Developer subscription | Tips &
     Tricks #5](https://www.youtube.com/watch?v=DhhpJ1UjbJ0) - [Bob
-    German](https://twitter.com/Bob1German) (Microsoft) \| \@Bob1German
--   [Create a chatbot in Microsoft Teams with Power Virtual Agents \|
+    German](https://twitter.com/Bob1German) (Microsoft) | \@Bob1German
+-   [Create a chatbot in Microsoft Teams with Power Virtual Agents |
     Tips & Tricks #6](https://www.youtube.com/watch?v=6jDjMKs4TV4)
     - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam
+    | \@aprildunnam
 Community demos as following:
 -   [Advanced Page Properties web part
     solution](https://www.youtube.com/watch?v=vAjfapf5aBM) - [Mike
-    Homol](https://twitter.com/homol) (ThreeWill) \| \@homol
+    Homol](https://twitter.com/homol) (ThreeWill) | \@homol
 -   [Running the CLI for Microsoft 365 in Azure Container Instances
     orchestrated by Logic
     Apps](https://www.youtube.com/watch?v=e36qPG9x0C0) - [Albert-Jan
-    Schot](https://twitter.com/appieschot) (Portiva) \| \@appieschot
+    Schot](https://twitter.com/appieschot) (Portiva) | \@appieschot
 -   [Make your Power Apps sessions persistent when switching Microsoft
     Teams tabs!](https://www.youtube.com/watch?v=GNlPXr_jgKA) - [Hardit
     Bhatia](https://twitter.com/thepoweraddict) (Hitachi Solutions
-    America, Ltd.) \|
-    [\@ThePowerAddict](/t5/user/viewprofilepage/user-id/965791)
+    America, Ltd.) |
+    [\@ThePowerAddict](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/965791)
 -   [Surfacing your existing solution in Microsoft
     Teams](https://www.youtube.com/watch?v=jIvryvxfXmM) - [Rick Van
-    Rousselt](https://twitter.com/RickVanRousselt) (Advantive) \|
+    Rousselt](https://twitter.com/RickVanRousselt) (Advantive) |
     \@RickVanRousselt 
 -   [Make your Power Apps user experience awesome with Gestalt design
     principles](https://www.youtube.com/watch?v=k7LXbC49VxQ) - [Rory
-    Neary](https://twitter.com/AzureRory) \|
-    [\@azurerory](/t5/user/viewprofilepage/user-id/449976)
+    Neary](https://twitter.com/AzureRory) |
+    [\@azurerory](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/449976)
 -   [Build your first Microsoft Teams
     Bot](https://www.youtube.com/watch?v=bxF2LWZcUR8) - [Stephan
-    Bisser](https://twitter.com/stephanbisser) (Solvion) \|
+    Bisser](https://twitter.com/stephanbisser) (Solvion) |
     \@stephanbisser
 -   [Live London Underground Line Status Bot in Microsoft Dataverse for
     Teams](https://www.youtube.com/watch?v=phzXxSVhYeA) - [Leon
-    Armston](https://twitter.com/LeonArmston) (Intelogy) \|
-    [\@LeonArmston](/t5/user/viewprofilepage/user-id/855621)
+    Armston](https://twitter.com/LeonArmston) (Intelogy) |
+    [\@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
 -   [Microsoft Lists formatting with header and footer
     settings](https://www.youtube.com/watch?v=4DjicVdmZHY) - [Chris
-    Kent](https://twitter.com/theChrisKent) (DMI) \| \@theChrisKent
+    Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent
 -   [Microsoft Teams Meeting Questionnaire App with SharePoint
     Framework](https://www.youtube.com/watch?v=gDcT7yu6UmU) - [Nanddeep
-    Nachan](https://twitter.com/NanddeepNachan) \|
-    [\@NanddeepNachan](/t5/user/viewprofilepage/user-id/659867)
+    Nachan](https://twitter.com/NanddeepNachan) |
+    [nanddeepn](https://github.com/nanddeepn)
 -   [Building an advanced SPFx Image Editor web
     part](https://www.youtube.com/watch?v=aNvvFz8Ab5Y) - [Peter Paul
-    Kirschner](https://twitter.com/petkir_at) (cubido) \|
-    [\@petkir](/t5/user/viewprofilepage/user-id/1003898)\_at
+    Kirschner](https://twitter.com/petkir_at) (cubido) |
+    [\@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
 -   [Customer scenario - Microsoft Teams integration with external
     systems](https://www.youtube.com/watch?v=Tu4_s3k7Lhc) - Kathy
     (Qinqyu) Xu (Pfizer) & [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) \| \@paolopia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@paolopia
 -   [Using Single Sign-On (SSO) with Office
     Add-ins](https://www.youtube.com/watch?v=kf_VMt_Eh0M) - [Andrew
     Connell](https://twitter.com/andrewconnell) (Voitanos)
@@ -1271,8 +1271,8 @@ please let us know.
 
 -   Haiye Wang - [haiyewang0717](https://github.com/haiyewang0717)
 
--   Hardit Bhatia (Hitachi Solutions America, Ltd.) \|
-    [\@ThePowerAddict](/t5/user/viewprofilepage/user-id/965791)
+-   Hardit Bhatia (Hitachi Solutions America, Ltd.) |
+    [\@ThePowerAddict](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/965791)
 
 -   Hamid Malik (Smart-IS)
     - [\@HamidHMalik](https://twitter.com/HamidHMalik)
@@ -1468,7 +1468,7 @@ please let us know.
 -   Reidar Husmo (PointTaken)
     - [reidarhusmo](https://github.com/reidarhusmo)
 
--   Rick Van Rousselt (Advantive) \|
+-   Rick Van Rousselt (Advantive) |
     [\@RickVanRousselt](https://twitter.com/RickVanRousselt) 
 
 -   Rocio Holub (DAI)
@@ -1476,7 +1476,7 @@ please let us know.
 -   Rolands Strakis (Atea Global Services SIA)
     - [wonderplayer](https://github.com/wonderplayer)
 
--   Rory Neary - [\@azurerory](/t5/user/viewprofilepage/user-id/449976)
+-   Rory Neary - [\@azurerory](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/449976)
 
 -   Ross Allan (PKF LittleJohn)
 
@@ -1533,7 +1533,7 @@ please let us know.
 
 -   thomassmart - [thomassmart](https://github.com/thomassmart)
 
--   Thomy Gölles (Solvion) \| [\@thomyg](https://twitter.com/thomyg)
+-   Thomy Gölles (Solvion) | [\@thomyg](https://twitter.com/thomyg)
 
 -   Todd Baginski (Canviz) -
     [\@toddbaginski](https://twitter.com/toddbaginski)
@@ -1582,7 +1582,7 @@ closely involved with the PnP work during last month.
 -   April Dunnam - [\@aprildunnam](https://twitter.com/aprildunnam)
 
 -   Amrutha Srinivasan
-    \| [\@amruthasrin](https://twitter.com/amruthasrin)
+    | [\@amruthasrin](https://twitter.com/amruthasrin)
 
 -   Ayca Bas - [\@aycabs](https://twitter.com/aycabs)
 

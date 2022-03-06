@@ -54,7 +54,7 @@ platform.   
     is available!
 
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
-(Microsoft) \| \@vesajuvonen.  Q&A takes place in chat throughout and
+(Microsoft) | \@vesajuvonen.  Q&A takes place in chat throughout and
 live at end of the call.   
 **Microsoft 365 Platform News Flash**
 
@@ -67,7 +67,7 @@ live at end of the call.   
 
 
 -   Opt into PnP Recognition Program
-    \| <https://aka.ms/m365pnp-recognition>
+    | <https://aka.ms/m365pnp-recognition>
 -   **Register for Sharing is Caring Events:**
     -   PnP Sharing is Caring - AMA (Ask Me Anything) - SPFx React
         Controls -- [Tuesday, February 22nd, 9am
@@ -142,22 +142,22 @@ Thank you for your work. Samples are often showcased in Demos.
 **Topics** covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
-    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [6:08](https://youtu.be/YG16snk1fJU?t=368)
 -   Monthly contributors on the Microsoft 365 platform community efforts
-    -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \|
+    -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [7:17](https://youtu.be/YG16snk1fJU?t=437)
 -   **D1**:  Show a user's emails in an ASP.NET Core app with Microsoft
-    Graph -- [Dan Wahlin](http://twitter.com/DanWahlin) (Microsoft) \|
+    Graph -- [Dan Wahlin](http://twitter.com/DanWahlin) (Microsoft) |
     \@DanWahlin -- [10:21](https://youtu.be/YG16snk1fJU?t=621)
 -   **D2**:  Deep dive on Viva Connections Adaptive Card Extension
     development -- State management -- [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [28:38](https://youtu.be/YG16snk1fJU?t=1718)
 -   **D3**:  Microsoft Graph Toolkit -- Using the People Picker
     Component in your solutions -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) \|
-    [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) --
+    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    [sebastienlevert](https://github.com/sebastienlevert) --
     [40:24](https://youtu.be/YG16snk1fJU?t=2424)
 **Resources:**
 
@@ -169,7 +169,7 @@ slides.
     Graph](https://docs.microsoft.com/learn/modules/msgraph-dotnet-core-show-user-emails/?WT.mc_id=m365-0000-dwahlin) 
 
 -   **D1**:  Tool -- [Graph
-    Explorer](https://developer.microsoft.com/graph/graph-explorer) \|
+    Explorer](https://developer.microsoft.com/graph/graph-explorer) |
     aka.ms/ge
 
 -   **D2**:  PnP/PnPjs Library -
@@ -181,11 +181,11 @@ slides.
 -   **D2**:  Demo - State referenced in [Introduction to Adaptive Card
     Extensions (ACEs) for Microsoft Viva
     Connections](https://youtu.be/iMbQyxdPcSU?t=1871) -- [Paolo
-    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) \| \@PaoloPia
+    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia
 
 -   **D3**:  Documentation - [Microsoft Graph Toolkit: UI Components and
     Authentication Providers for Microsoft
-    Graph](https://docs.microsoft.com/graph/toolkit/overview) \|
+    Graph](https://docs.microsoft.com/graph/toolkit/overview) |
     aka.ms/mgt/docs
 
 -   **D3**:  Documentation - [People-Picker component in the Microsoft
@@ -197,15 +197,15 @@ slides.
 
 -   **D3**:  Repo -- [Microsoft Graph
     Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit)
-    \| [aka.ms/mgt](https://aka.ms/mgt)
+    | [aka.ms/mgt](https://aka.ms/mgt)
 
 -   **D3**:  Documentation - [Microsoft Graph Toolkit: UI Components and
     Authentication Providers for Microsoft
-    Graph](https://docs.microsoft.com/graph/toolkit/overview) \|
+    Graph](https://docs.microsoft.com/graph/toolkit/overview) |
     [aka.ms/MGT/docs](https://aka.ms/MGT/docs)
 
 -   **D3**:  Learn - [Develop apps with the Microsoft Graph
-    Toolkit](https://aka.ms/mgt/learn) \|
+    Toolkit](https://aka.ms/mgt/learn) |
     [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
 
 -   Previous demos delivered by [Sébastien
@@ -227,20 +227,20 @@ slides.
 -   **PnP Weekly -- Episode 149** (January 17th) with Brisbane,
     Queensland, Australia-based Cloud Developer Advocate for Microsoft
     Teams and Graph, [Rabia
-    Williams](http://twitter.com/williamsrabia) (Microsoft) \|
-    [\@williamsrabia](/t5/user/viewprofilepage/user-id/792201) \| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869) \| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/)
+    Williams](http://twitter.com/williamsrabia) (Microsoft) |
+    [rabwill](https://github.com/rabwill) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/)
 **General resources**:
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
 -   PnP Teams Quickstart
-    \| [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
--   Microsoft Teams Toolkit v2.2 \| <https://aka.ms/teams-toolkit>
+    | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
+-   Microsoft Teams Toolkit v2.2 | <https://aka.ms/teams-toolkit>
 -   [Microsoft 365 PnP Community
-    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) \|
+    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
     aka.ms/m365pnp/community 
 -   Microsoft Graph Toolkit in Microsoft Learn
-    \| <http://aka.ms/learn-mgt>
+    | <http://aka.ms/learn-mgt>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   [SharePoint look
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
@@ -248,17 +248,17 @@ slides.
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
     API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) \| aka.ms/m365pnp-videos
+    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer
-    documentation](http://aka.ms/spdev-docs) \| <https://aka.ms/spdev-docs>
+    documentation](http://aka.ms/spdev-docs) | <https://aka.ms/spdev-docs>
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization Partner
     Guidance](http://aka.ms/sppnp-modernization-partnerguidance) -
@@ -286,22 +286,22 @@ slides.
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
-**Upcoming Calls \| Recurrent Invites:**
+**Upcoming Calls | Recurrent Invites:**
 
 -   **Power Apps monthly call **-- January 19th at 8:00 am PST
-    \| <https://aka.ms/PowerAppsMonthlyCall>
+    | <https://aka.ms/PowerAppsMonthlyCall>
 -   **M365 General Dev call -- **January 20th at 7:00 am PST
-    \| <https://aka.ms/m365-dev-sig>
+    | <https://aka.ms/m365-dev-sig>
 -   **Microsoft Identity Platform call --** January 20th at 9:00 am
-    PST \| <https://aka.ms/IDDevCommunityCalendar>
+    PST | <https://aka.ms/IDDevCommunityCalendar>
 -   **Microsoft 365 platform call** **-- **January 25th** **at 8:00 am
-    PST \| <https://aka.ms/m365-dev-call>
+    PST | <https://aka.ms/m365-dev-call>
 -   **Viva Connections & SharePoint Framework call --** January
-    27th at 7:00 am PST \| <https://aka.ms/spdev-spfx-call>
+    27th at 7:00 am PST | <https://aka.ms/spdev-spfx-call>
 -   **Office add-in monthly call -- **February 9th at 8:00 am PST
-    \| <https://aka.ms/officeaddinscall>
+    | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call** **-- **February 10th at 9:00 am
-    PST \| <https://aka.ms/adaptivecardscommunitycall>
+    PST | <https://aka.ms/adaptivecardscommunitycall>
 Microsoft 365 Platform community call focuses on latest Microsoft 365
 Platform updates and demos delivered by Microsoft presenters and takes
 place weekly on Tuesday.  The alternating Special Interest Group

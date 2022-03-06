@@ -48,7 +48,7 @@ Jackett
 
 -   [New release: New resources and other improvements in SharePointDsc
     v4.7](https://techcommunity.microsoft.com/t5/sharepointdsc/new-release-new-resources-and-other-improvements-in/ba-p/2436520)  [\@Yorick
-    Kuijs](/t5/user/viewprofilepage/user-id/93178) 
+    Kuijs](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/93178) 
 -   [Displaying the Connected Account for Microsoft Graph on the
     Terminal
-    prompt](https://www.schaeflein.net/msgraph-terminal-prompt/) [\@paulschaeflein](/t5/user/viewprofilepage/user-id/113) 
+    prompt](https://www.schaeflein.net/msgraph-terminal-prompt/) [\@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113) 

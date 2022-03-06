@@ -40,7 +40,7 @@ components](https://aka.ms/codewithfluid), [Adaptive
 Cards](https://aka.ms/teams-dev-docs), [Microsoft Teams
 Toolkit](https://aka.ms/teams-toolkit) and [Developer
 Portal](https://aka.ms/teams-dev-docs).   The host of this call was
-[Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+[Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen.  Q&A takes place in chat throughout the call
 
 **Actions:**
@@ -134,7 +134,7 @@ Thank you for your work. Samples are often showcased in Demos.
 **Topics** covered in this call
 
 -   News and updates - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen - [3:11](https://youtu.be/wwTExv2Ha4g?t=191)
 
 -   Build 2021 Recap on Microsoft Teams platform announcements -
@@ -142,8 +142,8 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   **Demo:**  Kudos App sample using Teams Activity Feed API in
     Microsoft Graph -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) \|
-    [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) -
+    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    [sebastienlevert](https://github.com/sebastienlevert) -
     [15:39](https://youtu.be/wwTExv2Ha4g?t=939)
 
 -   **Demo:**  Building a digital asset / document repository management
@@ -192,21 +192,21 @@ slides.
     group.  He one of the PMs coordinating new [Microsoft Teams Toolkit
     v2 extension for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension). 
-    \|
+    |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-131/ba-p/2445655)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-131-14th-of-june-2021/)
 
 -   GitHub Codespace - [PnP Teams
-    Quickstart](https://aka.ms/pnp-teams-quickstart) \|
+    Quickstart](https://aka.ms/pnp-teams-quickstart) |
     aka.ms/pnp-teams-quickstart
 
 -   [Microsoft 365 Extensibility look book
-    gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) \|
+    gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) |
     aka.ms/m365/extensibility
 
 -   [Microsoft Teams Samples
-    Gallery](https://pnp.github.io/teams-dev-samples/) \|
+    Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
  
@@ -214,7 +214,7 @@ slides.
 **General resources**:
 
 -   Controls -  [Designing your Microsoft Teams
-    app](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-teams-community-call-may-2021/ba-p/Designing%20your%20Microsoft%20Teams%20app) \| <https://aka.ms/teams/ui/design>
+    app](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-teams-community-call-may-2021/ba-p/Designing%20your%20Microsoft%20Teams%20app) | <https://aka.ms/teams/ui/design>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   Microsoft Learn - [Microsoft Teams development Learning
     Paths](https://docs.microsoft.com/en-us/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
@@ -223,30 +223,30 @@ slides.
 -   [Microsoft Teams app
     templates](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
--   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) \|
+-   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) |
     aka.ms/m365devyoutube
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) \| aka.ms/m365pnp/videos
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp/videos
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 
-**Upcoming Calls \| Recurrent Invites:**
+**Upcoming Calls | Recurrent Invites:**
 
  
 
--   **Power Apps monthly call --** June 16^th^ at 8:00 am PDT \|
+-   **Power Apps monthly call --** June 16^th^ at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** June 17^th ^at 7:00 am PDT \|
+-   **SharePoint Framework call --** June 17^th ^at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **Microsoft Identity Platform --** June 17^th^ at 9:00 am PDT \|
+-   **Microsoft Identity Platform --** June 17^th^ at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar>
--   **M365 General Dev call --** June 24^th^ at 7:00 am PDT \|
+-   **M365 General Dev call --** June 24^th^ at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Office add-in monthly call --** July 14^th^ at 8:00 am PDT \|
+-   **Office add-in monthly call --** July 14^th^ at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **Adaptive Cards monthly call --** July 8^th^ at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** July 8^th^ at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
 
  

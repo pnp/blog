@@ -14,11 +14,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by a Power Platform Cloud Advocate [April
-Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| \@aprildunnam
+Dunnam](https://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
 
  
 
@@ -102,7 +102,7 @@ everyone for your contributions to the community!\
     about Microsoft
     Teams...answered!](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/your-questions-from-the-microsoft-ignite-ask-the-experts/ba-p/2273679?WT.mc_id=m365-26189-wmastyka) -
     [Stephen Rose](https://twitter.com/stephenlrose) (Microsoft)
-    \| \@stephenlrose
+    | \@stephenlrose
 -   [Announcing public preview of SharePoint Framework
     1.12.1](https://developer.microsoft.com/en-us/microsoft-365/blogs/announcing-public-preview-of-sharepoint-framework-1-12-1/?WT.mc_id=m365-26189-wmastyka) -
     Microsoft
@@ -117,7 +117,7 @@ everyone for your contributions to the community!\
     SharePoint
     Online](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-mailbag-copy-move-files-and-folders-in-sharepoint-online/?WT.mc_id=m365-26189-wmastyka)
     - [Srinivas Varukala](https://twitter.com/svarukala) (Microsoft)
-    \| \@svarukala
+    | \@svarukala
 -   [Build quality Microsoft Teams apps with these best practices: Part
     2](https://developer.microsoft.com/en-us/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-2?WT.mc_id=m365-26189-wmastyka) -
     [Erin Bailie](https://www.linkedin.com/in/erinbailie) (Microsoft)
@@ -138,62 +138,62 @@ everyone for your contributions to the community!\
     from an RSS
     feed](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/use-power-automate-to-automatically-create-sharepoint-news-links/ba-p/2274881) -
     [Will Holland](https://twitter.com/_WCHolland) (ThreeWill)
-    \| \@\_WCHolland
+    | \@\_WCHolland
 -   [LearnTogether: Build Apps with Microsoft Graph
     🦒](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/learntogether-build-apps-with-microsoft-graph/ba-p/2274619)
-    - [Luise Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
+    - [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
 -   [FAQ's in a Document
     Card](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/faq-s-in-a-document-card/ba-p/2272347) -
     [Sam Colins](https://twitter.com/SamC148) (Coupled Technology)
-    \| \@SamC148
+    | \@SamC148
 -   [Microsoft 365 PnP Community Spotlight: Mikael
     Svenson](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-mikael-svenson/ba-p/2276791)
-    - [Luise Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese &
+    - [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese &
     [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft)
-    \|  [\@MikaelSvenson](/t5/user/viewprofilepage/user-id/734173)
+    |  [\@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173)
 -   [Power Apps print
     function](https://wonderlaura.com/2021/04/13/power-apps-print-function/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+LauraRogers+%28Laura+Rogers%2C+SharePoint+MVP%29) -
     [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor)
-    \| \@wonderlaura
+    | \@wonderlaura
 -   [Crawled Properties Not Created From Site Columns in Modern Team
     Sites](https://sympmarc.com/2021/04/13/crawled-properties-not-created-from-site-columns-in-modern-team-sites/) -
     [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting)
-    \| \@sympmarc
+    | \@sympmarc
 -   [8 top reasons to use Dataverse or SharePoint lists in the Power
     Platform](https://sharepains.com/2021/04/15/dataverse-or-sharepoint-lists/) -
     [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT
-    Services) \| \@PieterVeenstra
+    Services) | \@PieterVeenstra
 -   [Securing your Azure Functions with an existing Azure AD
     app](https://www.eliostruyf.com/securing-azure-functions-existing-azure-ad-app/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+estruyf+%28Elio+Struyf%29) -
     [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting)
-    \| \@eliostruyf
+    | \@eliostruyf
 -   [Using OAuth On-Behalf-Of flow in a Node.js Azure
     Functions](https://www.eliostruyf.com/oauth-behalf-flow-node-js-azure-functions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+estruyf+%28Elio+Struyf%29) -
-    [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \|
+    [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) |
     \@eliostruyf
 -   [Filtering by a Date Range in Power
     Apps](https://www.sharepointsiren.com/2021/04/filtering-by-a-date-range-in-power-apps/) -
     [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam
+    | \@aprildunnam
 -   [How to use React Hook Form together with Fluent UI React (aka
     Office UI Fabric
     React)](https://spblog.net/post/2021/04/13/how-to-use-react-hook-form-together-with-fluent-ui-react-aka-office-ui-fabric-react) -
     [Sergei Sergeev](https://twitter.com/sergeev_srg) (Mastaq)
-    \| \@sergeev_srg
+    | \@sergeev_srg
 -   [Using the latest microsoft-graph-client in
     SPFx](https://www.sebastienlevert.com/2021/04/18/latest-microsoft-graph-client-spfx/)
     - [Sébastien Levert](https://twitter.com/sebastienlevert)
     (Microsoft)
-    \| [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766)
+    | [sebastienlevert](https://github.com/sebastienlevert)
 -   [Managing concurrent tenant-wide and site collection-scoped
     SharePoint Framework
     deployments](https://www.dannyjessee.com/blog/index.php/2021/04/managing-concurrent-tenant-wide-and-site-collection-scoped-sharepoint-framework-deployments/) -
     [Danny Jessee](https://twitter.com/dannyjessee) (ManTech)
-    \| \@dannyjessee
+    | \@dannyjessee
 -   [SPFx & react-localization, an easy
     alternative?](https://digitalworkplace365.wordpress.com/2021/04/13/spfx-react-localization-an-easy-alternative/) -
     [Robin Agten](https://twitter.com/AgtenRobin) (delaware)
-    \| \@AgtenRobin
+    | \@AgtenRobin
 
  
 

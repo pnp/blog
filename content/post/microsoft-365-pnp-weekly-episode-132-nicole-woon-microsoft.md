@@ -16,12 +16,12 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by Seattle-based Program Manager from OneDrive and SharePoint
 (ODSP) engineering - [Nicole Woon](http://twitter.com/NovelNicole)
-(Microsoft) \| \@NovelNicole .   Topics discussed in this episode
+(Microsoft) | \@NovelNicole .   Topics discussed in this episode
 include:  Nicole's product - SharePoint site templates.  The importance
 and Making products approachable to both the most advanced developer and
 to someone new to the product.  Customer connection and delivering
@@ -107,14 +107,14 @@ everyone for your contributions to the community!\
     and Luca
     Bandinelli](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-podcast-viva-connections-with-john/ba-p/2459393?WT.mc_id=m365-32540-wmastyka)
     - [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365)
-    \| [\@paulschaeflein](/t5/user/viewprofilepage/user-id/113)
+    | [\@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113)
 -   [SharePoint Site Templates -- the latest features and
     experiences](https://www.youtube.com/watch?v=S165Pi0sJfQ) - [Nicole
-    Woon](https://twitter.com/NovelNicole) (Microsoft) \| \@NovelNicole
+    Woon](https://twitter.com/NovelNicole) (Microsoft) | \@NovelNicole
 -   [Explore Microsoft 365 extensibility opportunities with the
     Microsoft 365 Extensibility look
     book](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/explore-microsoft-365-extensibility-opportunities-with-the/ba-p/2462398?WT.mc_id=m365-32540-wmastyka) - [Waldek
-    Mastykarz](https://twitter.com/waldekm) (Microsoft) \| \@waldekm
+    Mastykarz](https://twitter.com/waldekm) (Microsoft) | \@waldekm
 -   [Microsoft Graph Toolkit React code
     tour](https://github.com/microsoftgraph/mgt-react-codetour) -
     Microsoft Graph Toolkit
@@ -122,64 +122,64 @@ everyone for your contributions to the community!\
     Automate](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/save-an-email-attachment-to-a-custom-path-with-power-automate/ba-p/2465396?WT.mc_id=m365-32540-wmastyka)
     - [Damien Bird](http://twitter.com/DamoBird365) (Aberdeen City
     Council)
-    \| [\@DamoBird365](/t5/user/viewprofilepage/user-id/1035201)
+    | [\@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
 -   [How to use Send an HTTP request to SharePoint in Power
     Automate?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-use-send-an-http-request-to-sharepoint-in-power-automate/ba-p/2439436?WT.mc_id=m365-32540-wmastyka) - [Chandani
-    Prajapati](https://twitter.com/Chandani_SPD) \| \@Chandani_SPD
+    Prajapati](https://twitter.com/Chandani_SPD) | \@Chandani_SPD
 -   [Run reports on your tenant using the CLI for Microsoft and Azure
     Container
     Instances](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/ba-p/2377851?WT.mc_id=m365-32540-wmastyka)
     - [Albert-Jan Schot](https://twitter.com/appieschot) (Portiva)
-    \| \@appieschot
+    | \@appieschot
 -   [SharePoint -- Adding 'Time to read' to modern
     pages](http://www.sharepointalex.uk/office-365/sharepoint-adding-time-to-read-to-modern-pages/)
     - [Alex Clark](https://twitter.com/sharepointalex) (Microsoft)
-    \| \@sharepointalex
+    | \@sharepointalex
 -   [Creating a PWA for your Microsoft Teams
     app](https://www.eliostruyf.com/creating-pwa-microsoft-teams-app) -
     [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting)
-    \| \@eliostruyf
+    | \@eliostruyf
 -   [Filtering SharePoint News Pages with
     Metadata](https://sympmarc.com/2021/06/18/filtering-sharepoint-news-pages-with-metadata/) -
     [Marc D. Anderson](https://twitter.com/sympmarc) (Sympraxis
-    Consulting) \| \@sympmarc
+    Consulting) | \@sympmarc
 -   [Power Automate Flows -- Random Tips, Tricks, and Pain
     Points](https://threewill.com/power-automate-flows-random-tips-tricks-and-pain-points/)
     - Caroline Sosebee (ThreeWill) 
 -   [Working with Nintex REST API for Office
     365](https://blog.aterentiev.com/working-nintex-rest-api-office-365) -
     [Alex Terentiev](https://twitter.com/alexaterentiev)
-    (Sharepointalist) \| \@alexaterentiev
+    (Sharepointalist) | \@alexaterentiev
 -   [Show files as cards using Microsoft Graph Toolkit and
     hTWOo](https://blog.mastykarz.nl/show-files-cards-microsoft-graph-toolkit-htwoo/)
     - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
-    \| \@waldekm
+    | \@waldekm
 -   [Query SharePoint items with Microsoft Graph and
     Search](https://mmsharepoint.wordpress.com/2021/06/16/query-sharepoint-items-with-microsoft-graph-and-search/) -
     [Markus Möller](https://twitter.com/Moeller2_0) (Avanade)
-    \| \@Moeller2_0
+    | \@Moeller2_0
 -   [SharePoint Online/Microsoft Lists: \@mention people in list
     comments](https://ganeshsanapblogs.wordpress.com/2021/06/12/mention-people-in-sharepoint-online-microsoft-lists-comments/) -
     [Ganesh Sanap](https://twitter.com/GaneshSanap20) (Globant)
-    \| \@GaneshSanap20
+    | \@GaneshSanap20
 -   [Creating a Modern SharePoint Site using Power
     Automate](https://michelcarlo.com/2021/06/19/create-a-modern-sharepoint-site-using-power-automate/)
     - [Michel Mendes](https://twitter.com/michelcarlo) (Storm Technology
-    Ltd) \| [\@michelcarlo](/t5/user/viewprofilepage/user-id/65753)
+    Ltd) | [\@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
 -   [Updates for Microsoft Teams connected team
     sites](https://regarding365.com/updates-for-microsoft-teams-connected-team-sites-6c8356cad790) - [Daniel
-    Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) \|
+    Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) |
     \@DanielGlenn, [Darrell
-    Webster](http://twitter.com/darrellaas) (Modern Workplace Change) \|
+    Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
     \@darrellaas
 -   [Business processes vs. automated
     activities](https://regarding365.com/business-processes-vs-automated-activities-d24f1f444f93)
-    - [Sarah Haase](https://twitter.com/sarahhaase) \|
-    \@sarahhaase, [Antonio Maio](https://twitter.com/AntonioMaio2) \|
+    - [Sarah Haase](https://twitter.com/sarahhaase) |
+    \@sarahhaase, [Antonio Maio](https://twitter.com/AntonioMaio2) |
     \@AntonioMaio2, [Mike
-    Maadarani](https://twitter.com/mikemaadarani) \| \@mikemaadarani
+    Maadarani](https://twitter.com/mikemaadarani) | \@mikemaadarani
     and [Mike Fitzmaurice](https://twitter.com/mikefitz) (WEBCON)
-    \| \@mikefitz
+    | \@mikefitz
 
  
 

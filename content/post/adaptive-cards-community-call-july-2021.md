@@ -29,7 +29,7 @@ Rahul and J.P., are welcomed to the Adaptive Cards team.   
 
 - There is Q&A
 throughout the call.  This call was hosted by Matt Hidinger (Microsoft)
-\| \@MattHidinger.  Guest presenter is Tim Cadenbach (MAXIMAGO) \|
+| \@MattHidinger.  Guest presenter is Tim Cadenbach (MAXIMAGO) |
 \@TimCadenbach.  Recorded on July 8, 2021.
 
 

@@ -85,8 +85,8 @@ Code Extensions), and Microsoft Graph Data Connect (extracting
 information at scale from Microsoft Graph).  Q&A throughout call in
 chat.  Microsoft Graph session recordings from Microsoft Build
 Conference are now available on demand.  The call was hosted by [Brian
-T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) \|
-[\@BrianTJackett](/t5/user/viewprofilepage/user-id/4556).  Microsoft
+T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) |
+[\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Microsoft
 Presenters were [Leif Brenne](http://twitter.com/secondleif), Mei Tan
 and [Nik Charlebois](http://twitter.com/NikCharlebois). Guest presenter
 [Elio Struyf](http://twitter.com/eliostruyf) (Squarl).   This session
@@ -158,13 +158,13 @@ From demos:
 **Agenda:**
 
 -   Assignments API  - [Leif Brenne](http://twitter.com/secondleif)
-    (Microsoft) \| \@secondleif and Mei Tan (Microsoft) --
+    (Microsoft) | \@secondleif and Mei Tan (Microsoft) --
     [1:10](https://youtu.be/JePYam-hyUU?t=70)
 -   Dev Tips and Tricks with Microsoft Graph - [Elio
-    Struyf](http://twitter.com/eliostruyf) (Squarl) \| \@eliostruyf --
+    Struyf](http://twitter.com/eliostruyf) (Squarl) | \@eliostruyf --
     [22:44](https://youtu.be/JePYam-hyUU?t=1364)
 -   Microsoft Graph Data Connect - [Nik
-    Charlebois](http://twitter.com/NikCharlebois) (Microsoft) \|
+    Charlebois](http://twitter.com/NikCharlebois) (Microsoft) |
     \@NikCharlebois -- [33:20](https://youtu.be/JePYam-hyUU?t=2000)
 
  
@@ -202,13 +202,13 @@ From demos:
 -   Microsoft Graph Mailbag - <http://aka.ms/MSGraphMailbag>
 -   Microsoft Q & A -- Graph - <https://aka.ms/askgraph/>
 -   Learn Module - [Get started with Microsoft Graph
-    Toolkit](https://docs.microsoft.com/learn/modules/msgraph-toolkit-intro/) \| <https://aka.ms/mgt-learn>
+    Toolkit](https://docs.microsoft.com/learn/modules/msgraph-toolkit-intro/) | <https://aka.ms/mgt-learn>
 -   Repo - [Microsoft Graph Toolkit
-    v2.1](https://github.com/microsoftgraph/microsoft-graph-toolkit) \| <https://aka.ms/mgt>  
+    v2.1](https://github.com/microsoftgraph/microsoft-graph-toolkit) | <https://aka.ms/mgt>  
 -   Documentation -- [Microsoft Graph Toolkit
-    Overview](https://docs.microsoft.com/en-us/graph/toolkit/overview) \| <https://aka.ms/mgt-docs>
+    Overview](https://docs.microsoft.com/en-us/graph/toolkit/overview) | <https://aka.ms/mgt-docs>
 -   Playground -- [Microsoft Graph Toolkit
-    Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple) \| [https://mgt.dev](https://mgt.dev/)
+    Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple) | [https://mgt.dev](https://mgt.dev/)
 
 **Stay Connected:**
 

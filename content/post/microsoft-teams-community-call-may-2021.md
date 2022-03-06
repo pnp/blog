@@ -31,7 +31,7 @@ Microsoft Teams Toolkit (Controls) -- "[Designing your Microsoft Teams
 app](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview)"
 with layout guidance and reusable assets.   Three great demos delivered
 during this session.  The host of this call was [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| \@vesajuvonen.
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 Q&A takes place in chat throughout the call.
 
 **Actions:**
@@ -117,12 +117,12 @@ Thank you for your work. Samples are often showcased in Demos.
 **Topics** covered in this call
 
 -   News and updates - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen - [3:35](https://youtu.be/adVfHsp8PfM?t=215)
 
 -   **Demo:**  Introduction to Microsoft Teams Developer Portal --
     [Karthig Balendran](http://twitter.com/KarthigBalendr1) (Microsoft)
-    \| \@KarthigBalendr1 - [10:20](https://youtu.be/adVfHsp8PfM?t=620)
+    | \@KarthigBalendr1 - [10:20](https://youtu.be/adVfHsp8PfM?t=620)
 
     **Demo:**  Elevate user experiences with Universal Actions on Teams
     and Outlook -- Shiladitya Saha (Microsoft) -
@@ -130,7 +130,7 @@ Thank you for your work. Samples are often showcased in Demos.
 
     **Demo:**  Getting started on building Microsoft Teams meeting apps
     -- [Rick van Rousselt](http://twitter.com/RickVanRousselt)
-    (Advantive) \|  \@RickVanRousselt -
+    (Advantive) |  \@RickVanRousselt -
     [36:54](https://youtu.be/adVfHsp8PfM?t=2214)
 
  
@@ -155,22 +155,22 @@ slides.
 -   Blog - [Rick's blog](https://www.rickvanrousselt.com/) 
 
 -   PnP Weekly -- Episode 127 with guest MVP [Rick van
-    Rousselt](http://twitter.com/RickVanRousselt) (Advantive) \|
-    \@RickVanRousselt \|
+    Rousselt](http://twitter.com/RickVanRousselt) (Advantive) |
+    \@RickVanRousselt |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-127-rick-van-rousselt/ba-p/2361251)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-127-17th-of-may-2021/)
 
 -   [Microsoft 365 Extensibility look book
-    gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) \|
+    gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) |
     aka.ms/m365/extensibility
 
 -   Controls -  [Designing your Microsoft Teams
     app](Designing%20your%20Microsoft%20Teams%20app)
-    \| <https://aka.ms/teams/ui/design>
+    | <https://aka.ms/teams/ui/design>
 
 -   [Microsoft Teams Samples
-    Gallery](https://pnp.github.io/teams-dev-samples/) \|
+    Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
  
@@ -185,36 +185,36 @@ slides.
 -   [Microsoft Teams app
     templates](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
--   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) \|
+-   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) |
     aka.ms/m365devyoutube
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) \| aka.ms/m365pnp/videos
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp/videos
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 
-**Upcoming Calls \| Recurrent Invites:**
+**Upcoming Calls | Recurrent Invites:**
 
  
 
--   **Power Apps monthly call --** May 19^th^ at 8:00 am PDT \|
+-   **Power Apps monthly call --** May 19^th^ at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** May 20^th^ at 7:00 am PDT \|
+-   **SharePoint Framework call --** May 20^th^ at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** May 20^th^ at 9:00 am PDT
-    \| <https://aka.ms/IDDevCommunityCalendar> 
--   **M365 General Dev call --** May 27^th^ at 7:00 am PDT \|
+    | <https://aka.ms/IDDevCommunityCalendar> 
+-   **M365 General Dev call --** May 27^th^ at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Graph call --** June 1^st^ at 8:00 am PDT \|
+-   **Microsoft Graph call --** June 1^st^ at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint monthly call --** June 8^th^ at 8:00am PDT \|
+-   **SharePoint monthly call --** June 8^th^ at 8:00am PDT |
     <https://aka.ms/sp-call>
--   **Office add-in monthly call --** June 9^th^ at 8:00 am PDT \|
+-   **Office add-in monthly call --** June 9^th^ at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **Adaptive Cards monthly call --** June 10^th^ at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** June 10^th^ at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **Microsoft Teams monthly call --** June 15^th^ at 8:00 am PDT \|
+-   **Microsoft Teams monthly call --** June 15^th^ at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
 
  

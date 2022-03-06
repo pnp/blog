@@ -202,7 +202,7 @@ Showing results for []{#showingResult_2313258fe59f1e
 
 [ Show [](#){#synonymSearchInstead_2313258fe59f1e .lia-link-navigation
 .synonym-search-instead-for-link} only  ]{.synonym-search-instead
-.lia-js-hidden} [ \| ]{.spell-check-and-synonym-search-instead
+.lia-js-hidden} [ | ]{.spell-check-and-synonym-search-instead
 .lia-js-hidden} [ Search instead for [](#){#searchInstead_2313258fe59f1e
 .lia-link-navigation .search-instead-for-link}
 ]{.spell-check-search-instead}
@@ -341,7 +341,7 @@ Showing results for []{#showingResult .lia-link-navigation
 
 [ Show [](#){#synonymSearchInstead .lia-link-navigation
 .synonym-search-instead-for-link} only  ]{.synonym-search-instead
-.lia-js-hidden} [ \| ]{.spell-check-and-synonym-search-instead
+.lia-js-hidden} [ | ]{.spell-check-and-synonym-search-instead
 .lia-js-hidden} [ Search instead for [](#){#searchInstead
 .lia-link-navigation .search-instead-for-link}
 ]{.spell-check-search-instead}
@@ -496,7 +496,7 @@ By
 [![Vesa
 Juvonen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/430iA3AD642623E8B21D/image-dimensions/150x150/image-coordinates/0%2C0%2C220%2C220?v=v2 "Vesa Juvonen"){.lia-user-avatar-message
 .user-rank-ring .user-rank-ring style="border-color: #0078D4"
-onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/369){.UserAvatar
+onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/369){.UserAvatar
 .lia-link-navigation}
 :::
 
@@ -509,7 +509,7 @@ onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/us
 :::
 
 ::: user-login
-[Vesa Juvonen](/t5/user/viewprofilepage/user-id/369)
+[VesaJuvonen](https://github.com/VesaJuvonen)
 :::
 :::
 :::
@@ -544,7 +544,7 @@ AM]{.ba-published-date} [ 1,859 Views ]{.ba-view-count}
 [![Vesa
 Juvonen](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/430iA3AD642623E8B21D/image-dimensions/40x40/image-coordinates/0%2C0%2C220%2C220?v=v2 "Vesa Juvonen"){.lia-user-avatar-message
 .user-rank-ring .user-rank-ring style="border-color: #0078D4"
-onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/369){.UserAvatar
+onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/369){.UserAvatar
 .lia-link-navigation}
 :::
 
@@ -559,7 +559,7 @@ onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/us
 
 ::: lia-message-author-with-avatar
 [ [Vesa
-Juvonen](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/369){#link_5
+Juvonen](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/369){#link_5
 .lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
 .lia-user-name .lia-user-rank-Microsoft
 .lia-component-message-view-widget-author-username}
@@ -661,11 +661,11 @@ alt="Message contains a video" aria-label="Contains a video" role="img"}
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by a Partner at the US-based consultancy PAIT Group and Microsoft
-365 MVP [Mark Rackley](http://twitter.com/mrackley) \| \@mrackley. 
+365 MVP [Mark Rackley](http://twitter.com/mrackley) | \@mrackley. 
 
 Topics discussed in this session include:   Hillbilly tabs, North
 American Collaboration Summit, how the transition from on-Prem to Cloud
@@ -711,7 +711,7 @@ everyone for your contributions to the community!\
 
 **Microsoft articles:**
 
--   [Microsoft Teams Rooms on Android \| April 2021
+-   [Microsoft Teams Rooms on Android | April 2021
     Updates](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-rooms-on-android-april-2021-updates/ba-p/2259772) -
     Microsoft
 -   [New feature request experience for Microsoft Graph and Office
@@ -725,68 +725,68 @@ everyone for your contributions to the community!\
 
 -   [Introduction to
     tokens](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-tokens/ba-p/2267853) -
-    [Lee Ford](https://twitter.com/lee_ford) (Symity Ltd) \| \@lee_ford
+    [Lee Ford](https://twitter.com/lee_ford) (Symity Ltd) | \@lee_ford
 -   [How to get any site collection users with their roles using PnP
     PowerShell?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-get-any-site-collection-users-with-their-roles-using-pnp/ba-p/2267307) -
     [Chandani Prajapati](https://twitter.com/Chandani_SPD)
-    \| \@Chandani_SPD
+    | \@Chandani_SPD
 -   [How to show profile picture in Person column in SharePoint
     list/library?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/ba-p/2265060) -
     [Chandani Prajapati](https://twitter.com/Chandani_SPD)
-    \| \@Chandani_SPD
+    | \@Chandani_SPD
 -   [Microsoft 365 PnP Community Spotlight: Albert-Jan
     Schot](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-albert-jan-schot/ba-p/2237352)
-    - [Luise Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
+    - [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
 -   [Microsoft Graph Fundamentals learning path -- Module
     3](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-3/ba-p/2258845) - [Luise
-    Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
+    Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
 -   ['LearnTogether Building apps with Microsoft Graph'
     event](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-watchparty-for-microsoft-s-learntogether-building-apps-with/ba-p/2257217)
-    - [Luise Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
+    - [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
 -   [Microsoft Graph Learn Together Event -- Join Our APAC Watch
     Party](https://camerondwyer.com/2021/04/07/microsoft-graph-learn-together-event-join-our-apac-watch-party/) -
     [Cameron Dwyer](https://twitter.com/camerondwyer) (OnePlace
-    Solutions) \| \@camerondwyer
+    Solutions) | \@camerondwyer
 -   [Power Apps: source code editing for Canvas
     Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/power-apps-source-code-editing-for-canvas-apps/ba-p/2256476)
-    - [Django Lohn](https://twitter.com/lohndjango) (InSpark) \|
+    - [Django Lohn](https://twitter.com/lohndjango) (InSpark) |
     \@lohndjango
 -   [Change your own profile picture as a Guest in Microsoft
     Teams](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/ba-p/2257434) -
     [Yannick Reekmans](https://twitter.com/yannickreekmans) (Qubix)
-    \| \@yannickreekmans
+    | \@yannickreekmans
 -   [Improving the Page Properties web
     part](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/improving-the-page-properties-web-part/ba-p/2256651) -
-    [Mike Homol](https://twitter.com/homol) (ThreeWill) \| \@homol
+    [Mike Homol](https://twitter.com/homol) (ThreeWill) | \@homol
 -   [Microsoft Graph Fundamentals learning path -- Module
     2](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-2/ba-p/2253924)
-    - [Luise Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
+    - [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
 -   [Options for obtaining an access token with Azure application to
     application
     authentication](https://anoopt.medium.com/few-ways-of-obtaining-access-token-in-azure-application-to-application-authentication-40a9473a2dde) -
     [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud)
-    \| \@anooptells
+    | \@anooptells
 -   [Power Apps Data Sources
     Explained](https://www.sharepointsiren.com/2021/04/power-apps-data-sources-explained/) -
     [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam
+    | \@aprildunnam
 -   [SharePoint List Form - Form
     Editor](https://wonderlaura.com/2021/04/06/sharepoint-list-form-form-editor/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+LauraRogers+%28Laura+Rogers%2C+SharePoint+MVP%29) -
     [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor)
-    \| \@WonderLaura
+    | \@WonderLaura
 -   [Upgrading the PnP Modern Search Web Parts from v3 to v4: Where are
     they?](https://sympmarc.com/2021/04/06/upgrading-the-pnp-modern-search-web-parts-from-v3-to-v4-where-are-they/) -
     [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis
-    Consulting) \| \@sympmarc
+    Consulting) | \@sympmarc
 -   [How to build a SharePoint glossary page using view formatting and
     connected list Web
     Parts](https://michelcarlo.com/2021/04/09/how-to-build-a-sharepoint-glossary-page-using-view-formatting-and-connected-list-webparts/)
     - [Michel Mendes](http://twiter.com/michelcarlo) (Storm Technology
-    Ltd) \| \@michelcarl
+    Ltd) | \@michelcarl
 -   [Change your background for a Teams meeting on
     mobile](https://regarding365.com/change-your-background-for-a-teams-meeting-on-mobile-a640c9d40395) -
     [Darrell Webster](https://twitter.com/DarrellaaS) (WM Reply)
-    \| \@DarrellaaS
+    | \@DarrellaaS
 
 **Additional resources:**
 

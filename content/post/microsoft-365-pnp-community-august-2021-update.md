@@ -65,70 +65,70 @@ initiative](http://aka.ms/m365pnp) from July 2021:
 YouTube channel](https://aka.ms/m365pnp-videos) during July 2021:
 1.  [Introduction to Microsoft Teams Toolkit
     v2](https://www.youtube.com/watch?v=SBvsjx5C34o) - Zhenya Savchenko
-    (Microsoft) \| 15,069
+    (Microsoft) | 15,069
 2.  [Top 10 hidden gems: Microsoft
     Lists](https://www.youtube.com/watch?v=gTkrZEIHEWg) - [Mark
-    Kashman](https://twitter.com/mkashman) \| 3,218
+    Kashman](https://twitter.com/mkashman) | 3,218
 3.  [Getting started with Site Designs in SharePoint
     Online](https://www.youtube.com/watch?v=ZjTnlbMJZfY) - [Laura
-    Kokkarinen](https://twitter.com/laurakokkarinen) (Sulava) \| 2,828
+    Kokkarinen](https://twitter.com/laurakokkarinen) (Sulava) | 2,828
 4.  [Working with Microsoft Lists
     (webinar)](https://www.youtube.com/watch?v=HyBD_SOt_BQ) - Harini
     Saladi, [Miceile Barrett](https://twitter.com/MSFTMiceile),
     [Chakkaradeep Chandran](https://twitter.com/chakkaradeep) and [Mark
-    Kashman](https://twitter.com/mkashman) \| 2,370
+    Kashman](https://twitter.com/mkashman) | 2,370
 5.  [Building a beautifully designed Intranet with SharePoint - latest
     design and branding
-    capabilities](https://www.youtube.com/watch?v=Dc07NIiDJAI) \| [Cathy
+    capabilities](https://www.youtube.com/watch?v=Dc07NIiDJAI) | [Cathy
     Dew](https://twitter.com/catpaint1) (Microsoft) & [Katie
-    Swanson](https://twitter.com/kswansondesign) (Microsoft) \| 2,244
+    Swanson](https://twitter.com/kswansondesign) (Microsoft) | 2,244
 6.  [Introducing: New Employee Onboarding - a Microsoft Teams app
-    template](https://www.youtube.com/watch?v=-S_lHXWEobk) \| [Nidhi
-    Sharma](https://twitter.com/nidsonbirdie) (Microsoft) \| 2,117
+    template](https://www.youtube.com/watch?v=-S_lHXWEobk) | [Nidhi
+    Sharma](https://twitter.com/nidsonbirdie) (Microsoft) | 2,117
 7.  [SharePoint Framework Tutorial 1 - HelloWorld
-    WebPart](https://www.youtube.com/watch?v=_O2Re5uRLoo) \| 2,008
+    WebPart](https://www.youtube.com/watch?v=_O2Re5uRLoo) | 2,008
 8.  [Microsoft Lists workshop, part 1: "Creating and
     collaborating"](https://www.youtube.com/watch?v=YpVOS_If-6Q) - [Mark
-    Kashman](https://twitter.com/mkashman) \| 1,434
+    Kashman](https://twitter.com/mkashman) | 1,434
 9.  [Building a digital asset / document repository management app for
     Microsoft Teams](https://www.youtube.com/watch?v=D-Y-MqJHBDk)
     - Sathya Raveendran (Microsoft), Arun Kumar Anaparthi (Zen3
-    Infosolutions) \| 1,398
+    Infosolutions) | 1,398
 10. [Latest on Power Automate integration within SharePoint
     Online](https://www.youtube.com/watch?v=AaWB3xlhJdc) - [Chakkaradeep
-    Chandran](https://twitter.com/chakkaradeep) \| 1,368
+    Chandran](https://twitter.com/chakkaradeep) | 1,368
  Most viewed videos in the [Microsoft 365 Developer YouTube
 channel](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ)
 during July 2021:
-1.  [Microsoft Graph Toolkit can do WHAT? \| Tips &
+1.  [Microsoft Graph Toolkit can do WHAT? | Tips &
     Tricks](https://www.youtube.com/watch?v=iNytzRlYsnQ) - [Ayca
-    Bas](https://twitter.com/aycabs) \| 30,527
+    Bas](https://twitter.com/aycabs) | 30,527
 2.  [Create a chatbot in Microsoft Teams with Power Virtual
-    Agents](https://www.youtube.com/watch?v=6jDjMKs4TV4) \| Tips &
-    Tricks - [April Dunnam](https://twitter.com/aprildunnam) \| 28,173
+    Agents](https://www.youtube.com/watch?v=6jDjMKs4TV4) | Tips &
+    Tricks - [April Dunnam](https://twitter.com/aprildunnam) | 28,173
 3.  [Explore Microsoft Graph scenarios for JavaScript
     development](https://www.youtube.com/watch?v=W6jZh2B4XEA) - [Dan
-    Wahlin](https://twitter.com/DanWahlin) \| 20,927
+    Wahlin](https://twitter.com/DanWahlin) | 20,927
 4.  [Teams App Dev Challenge winners bring data and dashboards into
     Teams chats](https://www.youtube.com/watch?v=JG5Am5nos1s) - [Bob
-    German](https://twitter.com/Bob1German) and Decision Point \| 18,253
-5.  [Start calling the Microsoft Graph API in under 5 minutes! \| Tips &
+    German](https://twitter.com/Bob1German) and Decision Point | 18,253
+5.  [Start calling the Microsoft Graph API in under 5 minutes! | Tips &
     Tricks](https://www.youtube.com/watch?v=f_3wc4UgqTI) - [Dan
-    Wahlin](https://twitter.com/DanWahlin) \| 1,812
+    Wahlin](https://twitter.com/DanWahlin) | 1,812
 6.  [Demo: Getting started with Power Apps
-    Portals](https://www.youtube.com/watch?v=HLC4voniLXU) \| [Brian
-    Knight](https://twitter.com/BrianKnight) (Pragmatic Works) \| 1,513
+    Portals](https://www.youtube.com/watch?v=HLC4voniLXU) | [Brian
+    Knight](https://twitter.com/BrianKnight) (Pragmatic Works) | 1,513
 7.  [Authenticate and connect with Microsoft Graph - June
-    2019](https://www.youtube.com/watch?v=xWhyG-SuyQM) \| 1,380
+    2019](https://www.youtube.com/watch?v=xWhyG-SuyQM) | 1,380
 8.  [Build Outlook Add-ins that integrate your solution seamlessly into
     your users' Outlook
-    experience](https://www.youtube.com/watch?v=Dd4SOA5dUmw)​ \| Juan
+    experience](https://www.youtube.com/watch?v=Dd4SOA5dUmw)​ | Juan
     Balmori, Hitesh Manwar - 1,049
 9.  [Getting started with Microsoft Emulator and Windows
-    10X](https://www.youtube.com/watch?v=k2r5jzwkedE) - Claire Davis \|
+    10X](https://www.youtube.com/watch?v=k2r5jzwkedE) - Claire Davis |
     848
 10. [Automate your Excel tasks with Office
-    Scripts](https://www.youtube.com/watch?v=-PYlQUAmrCU) \| 818
+    Scripts](https://www.youtube.com/watch?v=-PYlQUAmrCU) | 818
 Main resources around Microsoft 365 Community:
 -   Microsoft 365 Community -
     [http://aka.ms/m365pnp](http://aka.ms/sppnp) - One location for all
@@ -965,16 +965,16 @@ involved!
 Please see all the Microsoft 365 development documentation updates from
 the related documentation sets and repositories as listed below:
 -   Microsoft Teams platform documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) \|
+    Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) |
     [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
 -   SharePoint Developer documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) \|
+    Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) |
     [GitHub](https://github.com/SharePoint/sp-dev-docs)
 -   Microsoft Graph documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/graph) \|
+    Docs](https://docs.microsoft.com/en-us/graph) |
     [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
 -   Office add-in documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) \|
+    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
 ### :eyes: Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
 
@@ -995,21 +995,21 @@ last monthly summary:
 -   [Publish a connector to the Power Platform with Independent
     Publisher Connector
     Program](https://www.youtube.com/watch?v=ulTBvCHw8MU) - [Natalie
-    Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \|
+    Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) |
     \@NataliePienkow1 & Woong Choi (Independent Publisher)
 -   [Building SharePoint Framework solutions with Microsoft Teams
     Toolkit v2](https://www.youtube.com/watch?v=GXfnIZJZDzk) - [Vesa
-    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen 
 -   [Microsoft Excel v1.13 API updates -- June
     2021](https://www.youtube.com/watch?v=iPHGnyC0Cbc) - Raymond Lu
     (Microsoft)
 -   [Getting started with PnP Teams
     QuickStart](https://www.youtube.com/watch?v=GScB-HN4C5U) - [Wictor
-    Wilén](https://twitter.com/wictor) (Microsoft) \| \@wictor
+    Wilén](https://twitter.com/wictor) (Microsoft) | \@wictor
 -   [Getting started with Microsoft Graph Tag API for managing Microsoft
     Teams tagging](https://www.youtube.com/watch?v=8uWDs9HJ3qQ) - [Annie
-    Colonna](https://twitter.com/AnnieColonna) (Microsoft) \|
+    Colonna](https://twitter.com/AnnieColonna) (Microsoft) |
     \@AnnieColonna
 -   [Introduction to Microsoft Teams Toolkit
     v2](https://www.youtube.com/watch?v=SBvsjx5C34o) - Zhenya Savchenko
@@ -1017,18 +1017,18 @@ last monthly summary:
 -   [Kudos App sample using Microsoft Teams Activity Feed API in
     Microsoft Graph](https://www.youtube.com/watch?v=Xt-LSgzxz4M)
     - [Sébastien Levert](https://twitter.com/sebastienlevert)
-    (Microsoft) \|
-    [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766)
+    (Microsoft) |
+    [sebastienlevert](https://github.com/sebastienlevert)
 -   [Insert template from external Excel
     file](https://www.youtube.com/watch?v=pROjuio2RYY) - [David
-    Chesnut](https://twitter.com/davidchesnut) (Microsoft) \|
+    Chesnut](https://twitter.com/davidchesnut) (Microsoft) |
     \@davidchesnut
 -   [Getting started on using Time Clock Microsoft Graph APIs to clock
     in and out of a shift](https://www.youtube.com/watch?v=YfacdhgB_gI)
     - Aarthi Kumar (Microsoft)
 -   [Microsoft Graph Data Connect
     overview](https://www.youtube.com/watch?v=DiTYBWtzw2o) - [Nik
-    Charlebois](https://twitter.com/NikCharlebois) (Microsoft) \|
+    Charlebois](https://twitter.com/NikCharlebois) (Microsoft) |
     \@NikCharlebois
 -   [TypeScript Core Concepts - Adding TypeScript to a VS Code
     project](https://www.youtube.com/watch?v=vtpM7ght-7s) - [Dan
@@ -1052,8 +1052,8 @@ last monthly summary:
     Scripts](https://www.youtube.com/watch?v=-PYlQUAmrCU) - Microsoft
 -   [Learn about the Microsoft Graph API on Microsoft
     Learn](https://www.youtube.com/watch?v=MXMkUcjEBB8) :party_popper:
-    - [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) \|
-    [\@williamsrabia](/t5/user/viewprofilepage/user-id/792201)
+    - [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) |
+    [rabwill](https://github.com/rabwill)
 New playlist - [Manage Group Lifecycle with Microsoft
 Graph](https://www.youtube.com/playlist?list=PLWZJrkeLOrbaZFI_u92HB27amaNbTFZne)
 -   [Manage Group Lifecycle with Microsoft
@@ -1118,13 +1118,13 @@ Graph](https://www.youtube.com/playlist?list=PLWZJrkeLOrbabcgkU-_DQJfEUbIw1qZeK)
 Community demos as following: 
 -   [Introduction to custom Hero Web Part and Tiles V2 Web
     Part](https://www.youtube.com/watch?v=50BIHaFl1QE) - [Omar
-    El-Anis](https://twitter.com/omarelanis) \| \@omarelanis
+    El-Anis](https://twitter.com/omarelanis) | \@omarelanis
 -   [Introducing the PnP Script
     Samples](https://www.youtube.com/watch?v=cB2aideuHlk) - [Paul
-    Bullock](https://twitter.com/pkbullock) (CPS) \| \@pkbullock
+    Bullock](https://twitter.com/pkbullock) (CPS) | \@pkbullock
 -   [How to update an Adaptive Card with a Teams Messaging Extension and
     MessagePreview](https://www.youtube.com/watch?v=22ha2pkVIbw)
-    - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \|
+    - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) |
     \@Moeller2_0
 -   [Power Apps Demo Extravaganza 2021 - Pandemic Response
     Solution](https://www.youtube.com/watch?v=ddVJObr3lHw) - Venkat Rao
@@ -1132,102 +1132,102 @@ Community demos as following: 
     HealthCare)
 -   [Power Apps Demo Extravaganza 2021 - Kitty Run!
     Game](https://www.youtube.com/watch?v=e1puxuRjw2w) - [Nicholas
-    Nguyen](https://twitter.com/PowerAppsGamer1) (BlueTriton Brands) \|
+    Nguyen](https://twitter.com/PowerAppsGamer1) (BlueTriton Brands) |
     \@PowerAppsGamer1
 -   [Power Apps Demo Extravaganza 2021 - Sports Stats
     Tracker](https://www.youtube.com/watch?v=DJfDL9FWH0M) - [Todd
-    Baginski](https://twitter.com/toddbaginski) (Canviz) \|
-    [\@ToddBaginski](/t5/user/viewprofilepage/user-id/720073), [Matt
-    Schuessler](https://twitter.com/mattschues) (Canviz) \|
+    Baginski](https://twitter.com/toddbaginski) (Canviz) |
+    [\@ToddBaginski](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/720073), [Matt
+    Schuessler](https://twitter.com/mattschues) (Canviz) |
     \@mattschues, [Hubert Sui](https://twitter.com/HubertSui) (Canviz)
-    \| \@HubertSui, Sarah Meyer (Canviz) & Damian Gibbs (Canviz)
+    | \@HubertSui, Sarah Meyer (Canviz) & Damian Gibbs (Canviz)
 -   [Power Apps Demo Extravaganza 2021 - Number
     Puzzle](https://www.youtube.com/watch?v=-EzdaIQlnW8) - [Krishna
-    Rachakonda](https://twitter.com/rachakonda78) \| \@rachakonda78
+    Rachakonda](https://twitter.com/rachakonda78) | \@rachakonda78
 -   [Power Apps Demo Extravaganza 2021 - Course Maker
     Solution](https://www.youtube.com/watch?v=gHgQ4r60pxc) - [Rory
-    Neary](https://twitter.com/azurerory) (hybrit.co.uk) \|
-    [\@azurerory](/t5/user/viewprofilepage/user-id/449976)
+    Neary](https://twitter.com/azurerory) (hybrit.co.uk) |
+    [\@azurerory](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/449976)
 -   [Building a COVID attestation solution for Microsoft Teams and Viva
     Connections with
     SPFx](https://www.youtube.com/watch?v=SAITSnFiAg8) - [Julie
-    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \|
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     \@jfj1997 & [Derek Cash-Peterson](https://twitter.com/spdcp)
-    (Sympraxis Consulting) \|
-    [\@Spdcp](/t5/user/viewprofilepage/user-id/386549)
+    (Sympraxis Consulting) |
+    [\@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
 -   [Configure Teams Applications with Azure App Configuration and Azure
     Key Vault](https://www.youtube.com/watch?v=ytTx-G6AskA) - [Markus
-    Möller](https://twitter.com/Moeller2_0) (Avanade) \| \@Moeller2_0
+    Möller](https://twitter.com/Moeller2_0) (Avanade) | \@Moeller2_0
 -   [Image Column Type formatting in Microsoft
     365](https://www.youtube.com/watch?v=in2GTsc6XNk) - [Chris
-    Kent](https://twitter.com/theChrisKent) (DMI) \| \@theChrisKent
+    Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent
 -   [Connect your LinkedIn profile to the Patterns and Practices
     Community](https://www.youtube.com/watch?v=azQVnrCHNog) - [David
-    Warner](https://twitter.com/DavidWarnerII) \| \@DavidWarnerII
+    Warner](https://twitter.com/DavidWarnerII) | \@DavidWarnerII
 -   [Executive Room Reservation: SharePoint Framework Teams and Personal
     App Reference
     Application](https://www.youtube.com/watch?v=5GJHlMCQMBo) - [Emily
-    Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) \|
+    Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) |
     \@EEMancini
 -   [COVID-19 Check-In: SharePoint Framework Teams Personal App
     Reference Application](https://www.youtube.com/watch?v=LG8dx6Lsvy4)
     - [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis
-    Consulting) \| \@EEMancini
+    Consulting) | \@EEMancini
 -   [World Clock: SharePoint Framework Teams and Personal App Reference
     Application](https://www.youtube.com/watch?v=j7-u-sBc5qI) - [Emily
-    Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) \|
+    Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) |
     \@EEMancini
 -   [Follow Documents in Modern Workspace with
     SPFx](https://www.youtube.com/watch?v=Wx7nqlP3WQU) - [André
     Lage](https://twitter.com/aaclage) (Datalynx AG)
-    \| [\@aaclage](/t5/user/viewprofilepage/user-id/861803)
+    | [\@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
 -   [Copy PnP Search results web part
     settings](https://www.youtube.com/watch?v=Jb-Q-Ih4quY) - [Anoop
     Tatti](https://twitter.com/anooptells) (Content and Code)
-    \| \@anooptells
+    | \@anooptells
 -   [COVID-19 Check-In: SharePoint Framework Teams Personal App
     Reference Application](https://www.youtube.com/watch?v=LG8dx6Lsvy4)
     - [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis
-    Consulting) \| \@EEMancini
+    Consulting) | \@EEMancini
 -   [Bringing your custom apps to Viva Connection mobile
     experience](https://www.youtube.com/watch?v=SEuDgsEXVFc)
     - [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Intranet)
-    \| \@vrdmn
+    | \@vrdmn
 -   [Our learnings from the AppSource submission for Microsoft
     Teams](https://www.youtube.com/watch?v=pZNbHMsgdPo) - [Florian
     Grasel](https://twitter.com/trailbeard) (Smarter Business Solutions
-    GmbH) \| [\@Trailbeard](/t5/user/viewprofilepage/user-id/278114)
+    GmbH) | [\@Trailbeard](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/278114)
 -   [COE in Dataverse for Teams in the Power
     Platform](https://www.youtube.com/watch?v=sG6Q7E0gDrk) - [Krishna
-    Vandanapu](https://twitter.com/KrishnaShp) \| \@KrishnaShp
+    Vandanapu](https://twitter.com/KrishnaShp) | \@KrishnaShp
 -   [Building team time zone assistant Teams solution with SPFx v1.13,
     including Viva Connections
     Card](https://www.youtube.com/watch?v=4O0bpRuitr4) - [Julie
-    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \|
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     \@jfj1997 & [Derek Cash-Peterson](https://twitter.com/spdcp)
-    (Sympraxis Consulting) \|
-    [\@Spdcp](/t5/user/viewprofilepage/user-id/386549)
+    (Sympraxis Consulting) |
+    [\@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
 -   [Planner Gantt chart in Power
     Apps](https://www.youtube.com/watch?v=yJ69VUD0iVY) - [Terho
-    Antila](https://twitter.com/terhoantila) \|
-    [\@terhoantila](/t5/user/viewprofilepage/user-id/1124748)
+    Antila](https://twitter.com/terhoantila) |
+    [\@terhoantila](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1124748)
 -   [spfx-fast-serve: faster SharePoint Framework
     development](https://www.youtube.com/watch?v=69Gp_akTZjA) - [Sergei
-    Sergeev](https://twitter.com/sergeev_srg) (Mastaq) \| \@sergeev_srg
+    Sergeev](https://twitter.com/sergeev_srg) (Mastaq) | \@sergeev_srg
 -   [Create a digital escape room with Power
     Apps](https://www.youtube.com/watch?v=H9alGYs17JA) - [May
-    Alhajri](https://twitter.com/MayAlhajri2) \|
-    [\@MayAlhajri2](/t5/user/viewprofilepage/user-id/670696)
+    Alhajri](https://twitter.com/MayAlhajri2) |
+    [\@MayAlhajri2](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696)
 -   [Building a digital asset / document repository management app for
     Microsoft Teams](https://www.youtube.com/watch?v=D-Y-MqJHBDk)
     - Sathya Raveendran (Microsoft) & Arun Kumar Anaparthi (Zen3
     Infosolutions) 
 -   [Preview on list formatting demo site
     template](https://www.youtube.com/watch?v=jsu0KKTKppw) - [Chris
-    Kent](https://twitter.com/theChrisKent) (DMI) \| \@theChrisKent
+    Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent
 -   [Remote Event Receiver Manager solution in SPFx for managing list
     events](https://www.youtube.com/watch?v=nYKXmXkuaKc) - [Dan
-    Toft](https://twitter.com/tanddant) (Evobis ApS) \| \@tanddant
+    Toft](https://twitter.com/tanddant) (Evobis ApS) | \@tanddant
 -   [New Email Signature
     Add-in](https://www.youtube.com/watch?v=HhSShsqTidw) - James Wayne
     (Exclaimer Cloud) & Phillip Vetter (Exclaimer Cloud) 
@@ -1438,7 +1438,7 @@ missed someone, please let us know.
     - [\@franzinifabio](https://twitter.com/franzinifabio)
 
 -   Florian Grasel (Smarter Business Solutions GmbH) -
-    [\@Trailbeard](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/278114)
+    [\@Trailbeard](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/278114)
 
 -   Frank Brinker
 
@@ -1585,7 +1585,7 @@ missed someone, please let us know.
     [\@LuiseFreese](https://twitter.com/LuiseFreese)
 
 -   May Alhajri -
-    [\@MayAlhajri2](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696)
+    [\@MayAlhajri2](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696)
 
 -   Malene Friborg (Copenhagen Business Hub)
     - [\@malenefri](https://twitter.com/malenefri)
@@ -1828,7 +1828,7 @@ missed someone, please let us know.
 -   Tammy Schwark - [\@tammyschwark](https://twitter.com/tammyschwark)
 
 -   Terho Antila -
-    [\@terhoantila](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1124748)
+    [\@terhoantila](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1124748)
 
 -   Tetsuya Kawahara - [\@techsn_k](https://twitter.com/techsn_k)
 
@@ -1841,7 +1841,7 @@ missed someone, please let us know.
 -   Tim Barrett
     - [NoGeekLeftBehind](https://github.com/NoGeekLeftBehind)
 
--   Thomy Gölles (Solvion) \| [\@thomyg](https://twitter.com/thomyg)
+-   Thomy Gölles (Solvion) | [\@thomyg](https://twitter.com/thomyg)
 
 -   Toby Statham - [statto1974](https://github.com/statto1974)
 

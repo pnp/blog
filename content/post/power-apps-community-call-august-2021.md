@@ -43,10 +43,10 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 -   Event Calendar Power App - Juli Reid --
     [14:09](https://youtu.be/KwXWgWoMLsk?t=849)
 -   How To Feed Your Dragon Game - [Gerard
-    Simpson](http://twitter.com/PowerFanAddict) (SSE Renewables) \|
+    Simpson](http://twitter.com/PowerFanAddict) (SSE Renewables) |
     \@PowerFanAddict -- [25:47](https://youtu.be/KwXWgWoMLsk?t=1547)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) \| \@chass
+    Sterling](http://twitter.com/chass) (Microsoft) | \@chass
     -- [44:42](https://youtu.be/KwXWgWoMLsk?t=2682)
 
 
@@ -85,7 +85,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
     <https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave2/>
 -   Announcing public preview of Custom Pages for converging
     model-driven apps and canvas apps - [Announcing public preview of
-    Custom Pages for converging model-driven apps and canvas apps \|
+    Custom Pages for converging model-driven apps and canvas apps |
     Microso\...](https://powerapps.microsoft.com/en-us/blog/custom-pages-for-converging-model-driven-apps-and-canvas-apps/)
 -   Announcing command designer with Power Fx (preview) -
     <https://powerapps.microsoft.com/en-us/blog/announcing-command-designer-with-power-fx-preview/>
@@ -97,7 +97,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 **Actions:**
 
 -   Join us for our next call: September 15, 2021 at 08:00am PDT
-    \| <https://aka.ms/powerappscommunitycall>
+    | <https://aka.ms/powerappscommunitycall>
 
 **Referenced in this session:**
 
@@ -121,7 +121,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 -   [Demo - ][Visual Holiday Calendar
     Demo](https://youtu.be/NKNCsq3iF8I)[ ]
 
--   [Demo - Gerard Simpson's YouTube channel \|
+-   [Demo - Gerard Simpson's YouTube channel |
     ]<https://www.youtube.com/channel/UC8A8L7bplMnkLOB780mMfHg>[
     (empty channel) ]
 
@@ -143,9 +143,9 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 -   Power Apps Community Videos
     -[ https://aka.ms/PowerAppsCommunityVideos](https://aka.ms/PowerAppsCommunityVideos)
 -   PowerPlatformLearn Resources
-    \| [https://www.powerplatformlearn.academy](https://www.powerplatformlearn.academy/)
+    | [https://www.powerplatformlearn.academy](https://www.powerplatformlearn.academy/)
 -   PnP Power Platform Samples
-    \| <https://www.aks.ms/powerplatform-samples>
+    | <https://www.aks.ms/powerplatform-samples>
 -   Power Addicts Hangout
     - [https://wearepoweraddicts.com](https://wearepoweraddicts.com/)
 -   #LessCodeMorePower Video Series

@@ -41,16 +41,16 @@ demand. 
 **Agenda:**  
 
 -   **Demo 1**:  Building Xbox games with Power Apps -- [Brian
-    Dang](http://twitter.com/mrdang) (Microsoft) \| \@mrdang --
+    Dang](http://twitter.com/mrdang) (Microsoft) | \@mrdang --
     [3:03](https://youtu.be/KUCW242CV18?t=183)
 -   **Demo 2**:  Office like commenting & co-authoring -- [Emma
-    Cooper](https://www.linkedin.com/in/emmamcooper) (Microsoft) \| --
+    Cooper](https://www.linkedin.com/in/emmamcooper) (Microsoft) | --
     [29:57](https://youtu.be/KUCW242CV18?t=1797)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) \| \@chass --
+    Sterling](http://twitter.com/chass) (Microsoft) | \@chass --
     [50:59](https://youtu.be/KUCW242CV18?t=3059)
 -   Latest PnP Power Apps Samples -- [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| \@aprildunnam
+    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
     -- [54:55](https://youtu.be/KUCW242CV18?t=3295)
 
 **Demos:**
@@ -99,7 +99,7 @@ demand. 
 -   [Power Apps 4 Kids](https://www.powerapps4kids.com/) -- December 16,
     5:00pm -- 6:00pm GMT    
 -   Join us for our next call: January 19, 2022, at 08:00am PST
-    \| <https://aka.ms/powerappscommunitycall>
+    | <https://aka.ms/powerappscommunitycall>
 
 **Referenced in this session:**
 
@@ -131,9 +131,9 @@ demand. 
 -   Power Apps Community Videos
     -[ https://aka.ms/PowerAppsCommunityVideos](https://aka.ms/PowerAppsCommunityVideos)
 -   PowerPlatformLearn Resources
-    \| [https://www.powerplatformlearn.academy](https://www.powerplatformlearn.academy/)
+    | [https://www.powerplatformlearn.academy](https://www.powerplatformlearn.academy/)
 -   PnP Power Platform Samples
-    \| <https://www.aks.ms/powerplatform-samples>
+    | <https://www.aks.ms/powerplatform-samples>
 -   Power Addicts Hangout
     - [https://wearepoweraddicts.com](https://wearepoweraddicts.com/)
 -   #LessCodeMorePower Video Series

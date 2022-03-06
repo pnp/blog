@@ -79,28 +79,28 @@ or viewing it on demand. 
 
 -   [View and Vote on Demo Extravaganza
     entries](https://powerusers.microsoft.com/t5/Demo-Extravaganza-2021/con-p/Demo_Extravaganza_2021/tab/entries) 
--   Last chance to submit entries for Demo Extravaganza 2021 \|
+-   Last chance to submit entries for Demo Extravaganza 2021 |
     <https://aka.ms/PowerAppsDemoExtravaganza>
--   Join us for our next call: July 21, 2021 at 08:00am PDT \|
+-   Join us for our next call: July 21, 2021 at 08:00am PDT |
     <https://aka.ms/powerappscommunitycall>
 
 **Call Agenda:**
 
 -   COE in Dataverse for Teams in the Power Platform - [Krishna
-    Vandanapu](http://twitter.com/KrishnaShp) \| \@KrishnaShp
+    Vandanapu](http://twitter.com/KrishnaShp) | \@KrishnaShp
     - [3:50](https://youtu.be/WVQ882sHoVc?t=230)
 -   Planner Gantt chart in Power Apps - [Terho
-    Antila](http://twitter.com/terhoantila) \| \@terhoantila
+    Antila](http://twitter.com/terhoantila) | \@terhoantila
     - [26:05](https://youtu.be/WVQ882sHoVc?t=1565)
 -   Create a digital escape room with Power Apps - [May
-    Alhajri](http://twitter.com/MayAlhajri2) \|
-    [\@MayAlhajri2](/t5/user/viewprofilepage/user-id/670696) -
+    Alhajri](http://twitter.com/MayAlhajri2) |
+    [\@MayAlhajri2](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696) -
     [42:48](https://youtu.be/WVQ882sHoVc?t=2568)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) \| \@chass
+    Sterling](http://twitter.com/chass) (Microsoft) | \@chass
     - [63:49](https://youtu.be/WVQ882sHoVc?t=3829)
 -   Latest PnP Power Apps Samples -- [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| \@aprildunnam
+    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
     - [65:02](https://youtu.be/WVQ882sHoVc?t=3902)
 
 

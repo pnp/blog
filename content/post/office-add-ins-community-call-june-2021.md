@@ -27,8 +27,8 @@ template from external Excel file (insert external Excel file into the
 open Excel worksheet and populate it with JSON data).  This month's
 Community spotlight recognizes MVPs Damien Bird (DamoBird365) and
 Maarten van Stam.  Thank you!    Q&A in chat throughout call.  The call
-was hosted by David Chesnut (Microsoft) \| \@davidchesnut. Microsoft
-Presenters: Raymond Lu and Juan Balmori \| \@juaneloBalmori.  Special
+was hosted by David Chesnut (Microsoft) | \@davidchesnut. Microsoft
+Presenters: Raymond Lu and Juan Balmori | \@juaneloBalmori.  Special
 guest presenters James Wayne and Phillip Vetter from Exclaimer Cloud. 
 Recorded on June 9, 2021.
 ## Agenda: 
@@ -38,12 +38,12 @@ presenters and topics:
 
 -   **Excel API updates** -- Raymond Lu (Microsoft) -
     [1:31](https://youtu.be/934N5mZY_5M?t=91)
--   **Outlook API updates** - Juan Balmori (Microsoft) \|
+-   **Outlook API updates** - Juan Balmori (Microsoft) |
     \@juaneloBalmori - [13:17](https://youtu.be/934N5mZY_5M?t=797)
 -   **New Email Signature Add-in** - James Wayne (Exclaimer Cloud) -
     [21:27](https://youtu.be/934N5mZY_5M?t=1287)
 -   **PnP: Insert template from external Excel file** - David Chesnut
-    (Microsoft) \| \@davidchesnut -
+    (Microsoft) | \@davidchesnut -
     [37:12](https://youtu.be/934N5mZY_5M?t=2232)
 
  {.video-embed-center .video-embed}
@@ -96,7 +96,7 @@ makes the process easier. There is no requirement to use MSAL, but if
 you do, you should use the official MSAL package for the
 framework/language of choice as recommended by Microsoft Azure. For more
 information see [Enable single sign-on for Office Add-ins - Office
-Add-ins \| Microsoft
+Add-ins | Microsoft
 Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/sso-in-office-add-ins)
 
 
@@ -136,19 +136,19 @@ which can provide more information about the error.
 ### Excel API updates 
 
 -   insertWorksheetsFromBase64 - [Work with workbooks using the Excel
-    JavaScript API - Office Add-ins \| Microsoft
+    JavaScript API - Office Add-ins | Microsoft
     Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-workbooks#insert-a-copy-of-an-existing-workbook-into-the-current-one-preview)
 -   onFormulaChanged - [Work with worksheets using the Excel JavaScript
-    API - Office Add-ins \| Microsoft
+    API - Office Add-ins | Microsoft
     Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-worksheets#detect-formula-changes-preview)
 -   getDirectDependents - [Work with formula precedents and dependents
-    using the Excel JavaScript API - Office Add-ins \|
+    using the Excel JavaScript API - Office Add-ins |
     Micros\...](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-ranges-precedents-dependents)
 -   Workbook.onActivated - [Work with workbooks using the Excel
-    JavaScript API - Office Add-ins \| Microsoft
+    JavaScript API - Office Add-ins | Microsoft
     Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-workbooks#detect-workbook-activation-preview)
 -   Table.resize - [Work with tables using the Excel JavaScript API -
-    Office Add-ins \| Microsoft
+    Office Add-ins | Microsoft
     Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-tables#resize-a-table-online-only)
 
 ### Outlook add-ins Build conference recap 

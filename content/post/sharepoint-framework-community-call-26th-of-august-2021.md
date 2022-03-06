@@ -49,7 +49,7 @@ previous report 2 weeks ago) 
 There were 3 **PnP SPFx web part samples** delivered as well.  Thank you
 for contributing!  There was a formal demo and an informal sneak peek
 demo during this call.    The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="210826-together-mode.gif" src="images/blog/sharepoint-framework-community-call-26th-of-august-2021/210826-together-mode.gif" >}}
 Thank you everybody for being part of this call, the community, a tweet,
@@ -57,7 +57,7 @@ a blog post, and the solution to your customer's needs.  
 
 **Actions:**
 
--   Opt in to PnP Recognition Program \|
+-   Opt in to PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [August
@@ -113,13 +113,13 @@ a blog post, and the solution to your customer's needs.  
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
 -   **[My
     OneDrive](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-myonedrive)** -
-    [Siddharth Vaghasia](http://twitter.com/siddh_me) \| \@siddh_me
+    [Siddharth Vaghasia](http://twitter.com/siddh_me) | \@siddh_me
 -   **[Teams Membership
     Updater](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-membership-updater)** -
-    [Nick Brown](http://twitter.com/techienickb)  \| \@techienickb
+    [Nick Brown](http://twitter.com/techienickb)  | \@techienickb
 -   **[My
     Events](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-my-events)** -
-    [Chandani Prajapati](http://twitter.com/Chanda) \| \@Chanda
+    [Chandani Prajapati](http://twitter.com/Chanda) | \@Chanda
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
@@ -135,23 +135,23 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
     \@mediocrebowler -- [10:10](https://youtu.be/RvDsmZJ95xM?t=610)
 -   PnP SPFx Controls - [Alex
-    Terentiev](http://twitter.com/alexaterentiev) (Sharepointalist) \|
+    Terentiev](http://twitter.com/alexaterentiev) (Sharepointalist) |
     \@alexaterentiev -- [11:14](https://youtu.be/RvDsmZJ95xM?t=674)
 -   PnP Modern Search - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
     \@mediocrebowler -- [12:21](https://youtu.be/RvDsmZJ95xM?t=741) 
 -   PnP SPFx Samples - [Hugo
-    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) \|
+    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [13:19](https://youtu.be/RvDsmZJ95xM?t=799)
 **Demo:**
 
 -   **Demo:**  Getting started on building Microsoft Viva Connection
     adaptive card components using SharePoint Framework -- [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [16:57](https://youtu.be/RvDsmZJ95xM?t=1017)
 
 -   **Demo:**  Sneak Peek - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [53:51](https://youtu.be/RvDsmZJ95xM?t=3231)
 **Resources:**
 
@@ -198,21 +198,21 @@ slides.
     Brochure) - aka.ms/modernworkbuildsessions
 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
--   [Sharing is Caring](https://aka.ms/sharing-is-caring) \|
+-   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
 
 -   [Tools - ](http://aka.ms/pnp-search)[PnP Modern Search
     v4](https://microsoft-search.github.io/pnp-modern-search/)[ 
-    \| ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
+    | ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
 
--   [M365 PnP site](https://aka.ms/m365pnp) \| aka.ms/m365pnp
+-   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
@@ -289,23 +289,23 @@ slides.
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
-**Upcoming calls \| Recurrent invites:  *(Subject to Updates in
+**Upcoming calls | Recurrent invites:  *(Subject to Updates in
 September)***
 -   **Microsoft 365 platform** **-- **August 31st at 8 AM
-    PDT \| <https://aka.ms/m365-dev-call>  (Starts from the 31st of
+    PDT | <https://aka.ms/m365-dev-call>  (Starts from the 31st of
     August as weekly cycle)
 -   **M365 General Dev call -- **September 2nd at 7:00 am PDT
-    \| <https://aka.ms/m365-dev-sig>
+    | <https://aka.ms/m365-dev-sig>
 -   **Office add-in monthly call -- **September 8th at 8:00 am PDT
-    \| <https://aka.ms/officeaddinscall>
+    | <https://aka.ms/officeaddinscall>
 -   **SharePoint Framework call --**September 9th at 7:00 am PDT
-    \| <https://aka.ms/spdev-spfx-call>
+    | <https://aka.ms/spdev-spfx-call>
 -   **Adaptive Cards monthly call -- **September 9th at 9:00 am PDT
-    \| <https://aka.ms/adaptivecardscommunitycall>
+    | <https://aka.ms/adaptivecardscommunitycall>
 -   **Power Apps monthly call **-- September 15th at 8:00 am PDT
-    \| <https://aka.ms/PowerAppsMonthlyCall>
+    | <https://aka.ms/PowerAppsMonthlyCall>
 -   **Microsoft Identity Platform --**September 16th at 9:00 am PDT
-    \| <https://aka.ms/IDDevCommunityCalendar>
+    | <https://aka.ms/IDDevCommunityCalendar>
 PnP SharePoint Framework Special Interest Group bi-weekly calls are
 targeted at anyone who is interested in the JavaScript-based development
 towards Microsoft Teams, SharePoint Online, and also on-premises. SIG

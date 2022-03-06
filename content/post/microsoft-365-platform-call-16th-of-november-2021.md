@@ -45,15 +45,15 @@ platform.   
     Paul Schaeflein (Addin365).
 -   **PnP Weekly -- Episode 143** (November 15th) with Nairobi,
     Kenya-based Program Manager at Microsoft - [Roina
-    Ochieng](http://twitter.com/roinochieng) \|
-    \@roinochieng \| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/ba-p/2965580) \| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-143-%e2%80%93-15th-of-november-2021/)
+    Ochieng](http://twitter.com/roinochieng) |
+    \@roinochieng | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/ba-p/2965580) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-143-%e2%80%93-15th-of-november-2021/)
 -   Hear about this week's top 9 Microsoft 365 Platform related stories
     and view 2 demos from Microsoft presenters about working with the
     Microsoft 365 platform.
 
 The host of this call was [Brian T.
 Jackett](http://twitter.com/BrianTJackett) (Microsoft)
-*\|*[\@BrianTJackett](/t5/user/viewprofilepage/user-id/4556).  Q&A takes
+*|*[\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A takes
 place in chat throughout the call
 **Microsoft 365 Platform News Flash**
 
@@ -129,15 +129,15 @@ Thank you for your work. Samples are often showcased in Demos.
 **Topics** covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
-    Jackett](http://twitter.com/BrianTJackett) (Microsoft) *\|*
+    Jackett](http://twitter.com/BrianTJackett) (Microsoft) *|*
     \@BrianTJackett -- [5:45](https://youtu.be/HlLv3AQ-btk?t=345)
 -   **Demo 1:**  Getting started on building Microsoft Teams tabs with
-    Adaptive Cards - [Loki Meyburg](http://twitter.com/LokiMeyburg) \|
+    Adaptive Cards - [Loki Meyburg](http://twitter.com/LokiMeyburg) |
     \@LokiMeyburg -- [8:30](https://youtu.be/HlLv3AQ-btk?t=510)
 -   **Demo 2:**  Microsoft Learn Module - Extend Microsoft Viva
     Connections with Web Parts - [Waldek
-    Mastykarz](http://twitter.com/waldekm) \| \@waldekm & [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) \| \@vesajuvonen --
+    Mastykarz](http://twitter.com/waldekm) | \@waldekm & [Vesa
+    Juvonen](http://twitter.com/vesajuvonen) | \@vesajuvonen --
     [27:34](https://youtu.be/HlLv3AQ-btk?t=1654)
 **Resources:**
 
@@ -170,13 +170,13 @@ slides.
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
 -   PnP Teams Quickstart
-    \| [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
--   Microsoft Teams Toolkit v2.2 \| <https://aka.ms/teams-toolkit>
+    | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
+-   Microsoft Teams Toolkit v2.2 | <https://aka.ms/teams-toolkit>
 -   [Microsoft 365 PnP Community
-    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) \|
+    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
     aka.ms/m365pnp/community 
 -   Microsoft Graph Toolkit in Microsoft Learn
-    \| <http://aka.ms/learn-mgt>
+    | <http://aka.ms/learn-mgt>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   [SharePoint look
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
@@ -184,17 +184,17 @@ slides.
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
     API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) \| aka.ms/m365pnp-videos
+    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer
-    documentation](http://aka.ms/spdev-docs) \| <https://aka.ms/spdev-docs>
+    documentation](http://aka.ms/spdev-docs) | <https://aka.ms/spdev-docs>
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization Partner
     Guidance](http://aka.ms/sppnp-modernization-partnerguidance) -
@@ -222,22 +222,22 @@ slides.
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
-**Upcoming Calls \| Recurrent Invites:**
+**Upcoming Calls | Recurrent Invites:**
 
 -   **Power Apps monthly call **-- November 17th at 8:00 am PDT
-    \| <https://aka.ms/PowerAppsMonthlyCall>
+    | <https://aka.ms/PowerAppsMonthlyCall>
 -   **SharePoint Framework call --** November 18th at 7:00 am PDT
-    \| <https://aka.ms/spdev-spfx-call>
+    | <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform call --** November 18th at 9:00 am
-    PDT \| <https://aka.ms/IDDevCommunityCalendar>
+    PDT | <https://aka.ms/IDDevCommunityCalendar>
 -   **Microsoft 365 platform call** **-- **November 23rd at 8:00 am
-    PDT \| <https://aka.ms/m365-dev-call>
+    PDT | <https://aka.ms/m365-dev-call>
 -   **M365 General Dev call -- **November 25th at 7:00 am PDT
-    \| <https://aka.ms/m365-dev-sig>
+    | <https://aka.ms/m365-dev-sig>
 -   **Office add-in monthly call -- **December 8th at 8:00 am PDT
-    \| <https://aka.ms/officeaddinscall>
+    | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call -- **December 9th at 9:00 am PDT
-    \| <https://aka.ms/adaptivecardscommunitycall>
+    | <https://aka.ms/adaptivecardscommunitycall>
 Microsoft 365 Platform community call focuses on latest Microsoft 365
 Platform updates and demos delivered by Microsoft presenters and takes
 place weekly on Tuesday.  The alternating Special Interest Group

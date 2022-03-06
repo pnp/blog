@@ -17,12 +17,12 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by Switzerland based MVP and Head of Solutions at [Datalynx
 AG](https://www.datalynx.ch/en/) - [André
-Lage](http://twitter.com/aaclage) \| \@aaclage.  
+Lage](http://twitter.com/aaclage) | \@aaclage.  
 
  
 
@@ -92,16 +92,16 @@ everyone for your contributions to the community!
 -   [Viva Topics brings new integrations with
     Yammer](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-topics-brings-new-integrations-with-yammer/ba-p/2850709) -
     [Chris McNulty](https://twitter.com/cmcnulty2000) (Microsoft)
-    \| \@cmcnulty2000
+    | \@cmcnulty2000
 -   [Building great bots for Microsoft Teams with Azure Bot Framework
     Composer](https://devblogs.microsoft.com/microsoft365dev/building-great-bots-for-microsoft-teams-with-azure-bot-framework-composer/) -
     [Bob German](https://twitter.com/Bob1German) (Microsoft)
-    \| \@Bob1German
+    | \@Bob1German
 -   [Grow your skills and build collaborative solutions: Exam MS-600
     Building Applications and Solutions
     \...](https://devblogs.microsoft.com/microsoft365dev/grow-your-skills-and-build-collaborative-solutions-exam-ms-600-building-applications-and-solutions-with-microsoft-365-core-services/)
     - [Sathya Raveendran](https://twitter.com/findmesathya) (Microsoft)
-    \| \@findmesathya
+    | \@findmesathya
 -   [Announcing SharePoint Framework 1.13 Release
     Candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-13-release-candidate/) -
     Microsoft
@@ -109,12 +109,12 @@ everyone for your contributions to the community!
     developer
     preview](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-isv-app-monetization-capabilities-now-available-in-developer-preview/)
     - [James Skay](https://twitter.com/JamesSkay) (Microsoft)
-    \| \@JamesSkay
+    | \@JamesSkay
 -   ["Visualize Lists with Power BI" :studio_microphone: -- The
     Intrazone
     podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/visualize-lists-with-power-bi-the-intrazone-podcast/ba-p/2835417)
     - [Amanda Rivera](https://www.linkedin.com/in/amanda-cofsky/)
-    & [Mark Kashman](http://twitter.com/mkashman) (Microsoft) \|
+    & [Mark Kashman](http://twitter.com/mkashman) (Microsoft) |
     \@mkashman
 
  
@@ -126,38 +126,38 @@ everyone for your contributions to the community!
 -   [Running a Power App as Edge
     Extension](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/running-a-power-app-as-edge-extension/ba-p/2837130)
     - [Albert-Jan Schot](https://twitter.com/appieschot) (BLISS.digital)
-    \| \@appieschot
+    | \@appieschot
 -   [Sending e-mails with Microsoft Graph using
     .NET](https://zimmergren.net/sending-e-mails-using-microsoft-graph-using-dotnet/)
     - [Tobias Zimmergren](https://twitter.com/zimmergren) (Rencore)
-    \| \@zimmergren
+    | \@zimmergren
 -   [PnPjs v2.10](https://github.com/pnp/pnpjs/blob/main/CHANGELOG.md) -
     [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
-    \| \@jfj1997 & [Patrick Rodgers](https://twitter.com/mediocrebowler)
-    (Microsoft) \| \@mediocrebowler
+    | \@jfj1997 & [Patrick Rodgers](https://twitter.com/mediocrebowler)
+    (Microsoft) | \@mediocrebowler
 -   [Getting the working hours/time zones for other users using
     Microsoft Graph
     API](https://michelcarlo.com/2021/10/16/getting-the-working-hours-time-zones-for-other-users-using-microsoft-graph-api/) -
     [Michel Mendes](https://twitter.com/michelcarlo) (Storm Technology
-    Ltd) \| [\@michelcarlo](/t5/user/viewprofilepage/user-id/65753)
+    Ltd) | [\@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
 -   [Create an event page with SharePoint and
     Lists](https://medium.com/@anand.vadivelan/create-an-event-page-with-sharepoint-and-lists-5f3852e9117)
-    - [Anand Ragav](https://twitter.com/anandVragav) \| \@anandVragav
+    - [Anand Ragav](https://twitter.com/anandVragav) | \@anandVragav
 -   [Creating Microsoft Teams Meetings in ASP.NET Core using Microsoft
     Graph Application Permissions
     Part\...](https://damienbod.com/2021/10/18/creating-microsoft-teams-meetings-in-asp-net-core-using-microsoft-graph-application-permissions-part-2/) -
-    [Damien Bod](https://twitter.com/damien_bod) \| \@damien_bod
+    [Damien Bod](https://twitter.com/damien_bod) | \@damien_bod
 -   [Using the Microsoft Graph PowerShell for Security
     Alerts](https://helloitsliam.com/2021/10/15/using-the-microsoft-graph-powershell-for-security-alerts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+helloitsliam+(Liam+Cleary+%5BMVP%5D)) -
-    [Liam Cleary](https://twitter.com/helloitsliam) \| \@helloitsliam
+    [Liam Cleary](https://twitter.com/helloitsliam) | \@helloitsliam
 -   [Clean Up Unwanted Site Columns from Content Types and
     Lists/Libraries](https://sympmarc.com/2021/10/14/clean-up-unwanted-site-columns-from-content-types-and-lists-libraries/)
     - [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis
-    Consulting) \| \@sympmarc
+    Consulting) | \@sympmarc
 -   [7 reasons to use child flows in Power
     Automate](https://sharepains.com/2021/10/12/7-reasons-child-flows-in-power-automate/) -
     [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT
-    Services) \| \@PieterVeenstra\
+    Services) | \@PieterVeenstra\
 
  
 

@@ -28,19 +28,19 @@ has partial support of v1.4) - Steven Kong (Microsoft) and finally
 host of topics -- updating documentation, functionality with Power
 Platform, multi-line support, adaptive components, etc.) for 30
 minutes.   This call was hosted by [J.P.
-Roca](http://twitter.com/jpthepm) (Microsoft) \| \@jpthepm. Recorded on
+Roca](http://twitter.com/jpthepm) (Microsoft) | \@jpthepm. Recorded on
 August 12, 2021.
 
 ## Agenda
 
 -   Contribution Guidelines - [J.P. Roca](http://twitter.com/jpthepm)
-    (Microsoft) \| \@jpthepm --
+    (Microsoft) | \@jpthepm --
     [1:03](https://youtu.be/84IvNDDlehc?t=63)
 -   Announcing v1.5 - [J.P. Roca](http://twitter.com/jpthepm)
-    (Microsoft) \| \@jpthepm --
+    (Microsoft) | \@jpthepm --
     [2:04](https://youtu.be/84IvNDDlehc?t=124)
 -   Teams support for v1.4 -- [Steven
-    Kong](https://twitter.com/stkong_sdk) (Microsoft) \| \@stkong_sdk --
+    Kong](https://twitter.com/stkong_sdk) (Microsoft) | \@stkong_sdk --
     [2:58](https://youtu.be/84IvNDDlehc?t=178)
 -   Q&A with members of Microsoft Developer and PM teams --
     [4:49](https://youtu.be/84IvNDDlehc?t=289)

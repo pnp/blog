@@ -45,21 +45,21 @@ platform.   
 -   View or Cast the latest episode of Microsoft 365 PnP Weekly --
     **Episode 141** (November 1st) with UK-based SharePoint developer
     and MVP at Storm Technology - [Joel
-    Rodrigues](http://twitter.com/JoelFMRodrigues) \|
-    \@JoelFMRodrigues. \| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-141-joel-rodrigues-storm/ba-p/2908830) \| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-141-%E2%80%93-1st-of-november-2021/)
+    Rodrigues](http://twitter.com/JoelFMRodrigues) |
+    \@JoelFMRodrigues. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-141-joel-rodrigues-storm/ba-p/2908830) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-141-%E2%80%93-1st-of-november-2021/)
 -   [Microsoft 365 Community (PnP) -- October 2021
     update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-october-2021-update/ba-p/2834987) is
     now available.
 -   Hear about this week's top Microsoft 365 Platform related stories
 -   **Ignite watch party:**  Microsoft Ignite 2021 opening keynote --
-    [Satya Nadella](http://twitter.com/satyanadella) (Microsoft) \|
+    [Satya Nadella](http://twitter.com/satyanadella) (Microsoft) |
     \@satyanadella.
 -   Event wrap -- keynote highlights - favorite announcements shared by
     call viewers.
 
 The host of this call was [Sébastien
-Levert](http://twitter.com/sebastienlevert) (Microsoft) \|
-[\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766).  Q&A takes
+Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+[sebastienlevert](https://github.com/sebastienlevert).  Q&A takes
 place in chat throughout the call   
 **Microsoft 365 Platform News Flash**
 
@@ -72,7 +72,7 @@ place in chat throughout the call   
 -   [Introducing Microsoft Teams Real-time Call Quality
     Analytics](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-microsoft-teams-real-time-call-quality-analytics/ba-p/2912146)
 
--   [What's New in Microsoft Teams \| October
+-   [What's New in Microsoft Teams | October
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-october-2021/ba-p/2824105)
 
 
@@ -146,13 +146,13 @@ have a great event.    
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
 -   PnP Teams Quickstart
-    \| [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
--   Microsoft Teams Toolkit v2.2 \| <https://aka.ms/teams-toolkit>
+    | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
+-   Microsoft Teams Toolkit v2.2 | <https://aka.ms/teams-toolkit>
 -   [Microsoft 365 PnP Community
-    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) \|
+    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
     aka.ms/m365pnp/community 
 -   Microsoft Graph Toolkit in Microsoft Learn
-    \| <http://aka.ms/learn-mgt>
+    | <http://aka.ms/learn-mgt>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   [SharePoint look
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
@@ -160,17 +160,17 @@ have a great event.    
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
     API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) \| aka.ms/m365pnp-videos
+    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer
-    documentation](http://aka.ms/spdev-docs) \| <https://aka.ms/spdev-docs>
+    documentation](http://aka.ms/spdev-docs) | <https://aka.ms/spdev-docs>
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization Partner
     Guidance](http://aka.ms/sppnp-modernization-partnerguidance) -
@@ -198,23 +198,23 @@ have a great event.    
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
-**Upcoming Calls \| Recurrent Invites:**
+**Upcoming Calls | Recurrent Invites:**
 
 -   **Microsoft Identity Platform call --** November 18th at 9:00 am
     PDT
-    \| [https://aka.ms/IDDevCommunityCalendar ](https://aka.ms/IDDevCommunityCalendar)
+    | [https://aka.ms/IDDevCommunityCalendar ](https://aka.ms/IDDevCommunityCalendar)
 -   **SharePoint Framework call --** November 4th at 7:00 am PDT
-    \| <https://aka.ms/spdev-spfx-call>
+    | <https://aka.ms/spdev-spfx-call>
 -   **Microsoft 365 platform call** **-- **November 9th at 8:00 am PDT
-    \| <https://aka.ms/m365-dev-call>
+    | <https://aka.ms/m365-dev-call>
 -   **Office add-in monthly call -- **November 10th at 8:00 am PDT
-    \| <https://aka.ms/officeaddinscall>
+    | <https://aka.ms/officeaddinscall>
 -   **M365 General Dev call -- **November 11th at 7:00 am PDT
-    \| <https://aka.ms/m365-dev-sig>
+    | <https://aka.ms/m365-dev-sig>
 -   **Adaptive Cards monthly call -- **November 11th at 9:00 am PDT
-    \| <https://aka.ms/adaptivecardscommunitycall>
+    | <https://aka.ms/adaptivecardscommunitycall>
 -   **Power Apps monthly call **-- November 17th at 8:00 am PDT
-    \| <https://aka.ms/PowerAppsMonthlyCall>
+    | <https://aka.ms/PowerAppsMonthlyCall>
 Microsoft 365 Platform community call focuses on latest Microsoft 365
 Platform updates and demos delivered by Microsoft presenters and takes
 place weekly on Tuesday.  The alternating Special Interest Group

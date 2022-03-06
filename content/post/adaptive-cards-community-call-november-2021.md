@@ -31,17 +31,17 @@ Connections, Adaptive Cards, AC in Azure Logic Apps, Adaptive
 Components, AC Designer, Universal Actions, Teams, Outlook
 integration...
 - This call was hosted by [J.P.
-Roca](http://twitter.com/jpthepm) (Microsoft) \| \@jpthepm.  Recorded on
+Roca](http://twitter.com/jpthepm) (Microsoft) | \@jpthepm.  Recorded on
 November 11, 2021.
 
 ## Agenda
 
 -   **Viva Connections + Adaptive Cards** :handshake: - Emily Lynam
     (Microsoft), Max Kulakov (Microsoft), and [Siddharth
-    Gulati](http://twitter.com/sidvaani) (Microsoft) \| \@sidvaani
+    Gulati](http://twitter.com/sidvaani) (Microsoft) | \@sidvaani
     --[00:45](https://youtu.be/_qDFDMUouxE?t=45)
 -   **v1.5 Blog Post + Website Changes** :loudspeaker: - [J.P.
-    Roca](http://twitter.com/jpthepm) (Microsoft) \| \@jpthepm --
+    Roca](http://twitter.com/jpthepm) (Microsoft) | \@jpthepm --
     [13:53](https://youtu.be/_qDFDMUouxE?t=833)
 -   **Q&A** :white_question_mark: - with members of Microsoft Developer
     and PM teams -- [14:53](https://youtu.be/_qDFDMUouxE?t=873)
@@ -59,7 +59,7 @@ scenes.  Step through 6 different Quick View card layouts. 
 ## Referenced in this call
 
 -   Blog - [Announcing Adaptive Cards
-    1.5](https://adaptivecards.io/blog/2021/Announcing-1.5/) \|
+    1.5](https://adaptivecards.io/blog/2021/Announcing-1.5/) |
     <https://adaptivecards.io/blog/>
 -   Blog - [Guidance on implementing partner offerings for Viva
     Connections with ACEs and custom

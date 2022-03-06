@@ -47,14 +47,14 @@ Two **PnP SPFx samples** were delivered in the last 2 weeks as well. 
 There is a new samples repository for Adaptive Card Extensions (ACE) -
 aka.ms/spfx-aces.  Thank you all for your contributions!   The host of
 this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
-(Microsoft) \| \@mediocrebowler.  Q&A takes place as always in chat
+(Microsoft) | \@mediocrebowler.  Q&A takes place as always in chat
 throughout the call.
 Thank you everybody for being part of this call, the community, a tweet,
 a blog post, and the solution to your customer's needs.  
 **Actions:**
 
 -   Opt in to PnP Recognition Program
-    \| <https://aka.ms/m365pnp-recognition>
+    | <https://aka.ms/m365pnp-recognition>
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [September
         21st](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u)
@@ -121,14 +121,14 @@ a blog post, and the solution to your customer's needs.  
 **SPFx extension samples:  (<https://aka.ms/spfx-extensions>) **
 -   **[Share to
     Teams](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-share-to-teams)
-    -** [Kunj Sangani](http://twitter.com/sanganikunj) \| \@sanganikunj
+    -** [Kunj Sangani](http://twitter.com/sanganikunj) | \@sanganikunj
 
 
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
 -   **[At a
     Glance](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-myonedrive)
-    -** [Anoop Tatti](http://twitter.com/anooptells) \| \@anooptells 
+    -** [Anoop Tatti](http://twitter.com/anooptells) | \@anooptells 
     (Link to My OneDrive sample is correct)
 
 Thank you for your great work.  Samples are often showcased in Demos. 
@@ -151,22 +151,22 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
     \@mediocrebowler -- [10:39](https://youtu.be/EIEFIL99WLc?t=639) 
 -   PnP SPFx Samples - [Hugo
-    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) \|
+    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [11:25](https://youtu.be/EIEFIL99WLc?t=685)
 
 **Demos:**
 
 -   **Demo:**  Hyperscript Tagged Markup (HTM) Templating -- [Fabio
-    Franzini](http://twitter.com/franzinifabio) \| \@franzinifabio --
+    Franzini](http://twitter.com/franzinifabio) | \@franzinifabio --
     [13:15](https://youtu.be/EIEFIL99WLc?t=795)
 
 -   **Demo:**  Modernize your SharePoint Framework projects -- [Andrew
-    Connell](http://twitter.com/andrewconnell) (Voitanos) \|
+    Connell](http://twitter.com/andrewconnell) (Voitanos) |
     \@andrewconnell -- [26:38](https://youtu.be/EIEFIL99WLc?t=1598)
 
 -   **Demo:**  Building advanced image gallery experience with
     SharePoint Framework -- [Yannick
-    Reekmans](http://twitter.com/YannickReekmans) (Qubix) \|
+    Reekmans](http://twitter.com/YannickReekmans) (Qubix) |
     \@YannickReekmans -- [41:26](https://youtu.be/EIEFIL99WLc?t=2486)
 **Resources:**
 
@@ -221,21 +221,21 @@ slides.
     Brochure) - aka.ms/modernworkbuildsessions
 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
--   [Sharing is Caring](https://aka.ms/sharing-is-caring) \|
+-   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
 
 -   [Tools - ](http://aka.ms/pnp-search)[PnP Modern Search
     v4](https://microsoft-search.github.io/pnp-modern-search/)[ 
-    \| ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
+    | ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
 
--   [M365 PnP site](https://aka.ms/m365pnp) \| aka.ms/m365pnp
+-   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
@@ -312,22 +312,22 @@ slides.
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
-**Upcoming calls \| Recurrent invites:  *(Subject to Updates in
+**Upcoming calls | Recurrent invites:  *(Subject to Updates in
 September)***
 -   **Microsoft 365 platform call** -- September 14th at 8:00 am PDT
-    \| <https://aka.ms/m365-dev-call>
+    | <https://aka.ms/m365-dev-call>
 -   **Power Apps monthly call **-- September 15th at 8:00 am PDT
-    \| <https://aka.ms/PowerAppsMonthlyCall>
+    | <https://aka.ms/PowerAppsMonthlyCall>
 -   **M365 General Dev call -- **September 16th at 7:00 am PDT
-    \| <https://aka.ms/m365-dev-sig>
+    | <https://aka.ms/m365-dev-sig>
 -   **Microsoft Identity Platform call --** September 16th at 9:00 am
-    PDT \| <https://aka.ms/IDDevCommunityCalendar>
+    PDT | <https://aka.ms/IDDevCommunityCalendar>
 -   **SharePoint Framework call --** September 23rd at 7:00 am PDT
-    \| <https://aka.ms/spdev-spfx-call>
+    | <https://aka.ms/spdev-spfx-call>
 -   **Office add-in monthly call** -- October 13th at 8:00 am PDT
-    \| <https://aka.ms/officeaddinscall>
+    | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call** -- October 14th at 9:00 am PDT
-    \| <https://aka.ms/adaptivecardscommunitycall>
+    | <https://aka.ms/adaptivecardscommunitycall>
 PnP SharePoint Framework Special Interest Group bi-weekly calls are
 targeted at anyone who is interested in the JavaScript-based development
 towards Microsoft Teams, SharePoint Online, and also on-premises. SIG

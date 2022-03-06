@@ -124,7 +124,7 @@ with npm.
 *nvm use 10.23.0*
 
 *npm install gulp yo
-[\@microsoft](/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint
+[\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint
 --global*
 
 
@@ -135,7 +135,7 @@ first SharePoint client-side web part (Hello World part
 1)](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part").
 In a new directory, run
 
-*yo [\@microsoft](/t5/user/viewprofilepage/user-id/41501)/sharepoint*
+*yo [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/sharepoint*
 
 
 

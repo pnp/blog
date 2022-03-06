@@ -56,7 +56,7 @@ viewing it on demand. 
     is the new Power Platform samples repository.  Find, use, and submit
     custom functions, Power app, Power Automate and Power Virtual Agents
     samples.  Not sure where to start?  Community contributor training
-    offered at [PnP \| Sharing Is
+    offered at [PnP | Sharing Is
     Caring](PnP%20%7C%20Sharing%20Is%20Caring)
 
 -   **[Make your Power Apps user experience awesome with Gestalt
@@ -84,7 +84,7 @@ viewing it on demand. 
 
 -   Complete the Microsoft 365 Developer Community Survey --
     <https://aka.ms/m365pnp/survey>
--   Entries Start May for Demo Extravaganza 2021 \|
+-   Entries Start May for Demo Extravaganza 2021 |
     <https://aka.ms/PowerAppsDemoExtravaganza>
 -   Microsoft Office 365 Developer Survey -
     <https://aka.ms/developersuccess> 
@@ -93,7 +93,7 @@ viewing it on demand. 
 -   Join the community - Find a user group -
     <https://aka.ms/Dynamics365UserGroups>,
     <https://aka.ms/PowerPlatformUserGroups>
--   Join us for our next call: May 19, 2021 at 08:00am PDT \|
+-   Join us for our next call: May 19, 2021 at 08:00am PDT |
     <https://aka.ms/powerappscommunitycall>
 
 **Learn more:**  

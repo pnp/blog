@@ -54,7 +54,7 @@ Truly unique like this Community!
 -   Complete the Microsoft 365 Developer Community Survey --
     <https://aka.ms/m365pnp/survey>
 -   Reserve date - SharePoint Monthly community call - 13th of April 8
-    AM PDT \| <https://aka.ms/sp-call>
+    AM PDT | <https://aka.ms/sp-call>
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [April
         27th](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u)  
@@ -114,64 +114,64 @@ Truly unique like this Community!
     Ticker](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-send-to-teams)
     [-](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-send-to-teams)
     [Ari Gunawan](http://twitter.com/arigunawan)
-    [\| \@arigunawan](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-send-to-teams)
+    [| \@arigunawan](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-send-to-teams)
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
 
 
 -   [Data Table](https://github.com/pnp/sp-dev-fx-webparts/pull/1818) -
     [Chandani
-    Prajapati](http://twitter.com/Chandani_SPD) \| \@Chandani_SPD
+    Prajapati](http://twitter.com/Chandani_SPD) | \@Chandani_SPD
 -   [Staff
     Directory](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-staffdirectory) -
     Tristian O'Brien
 -   [OneDrive
     Finder](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder) -
     [André
-    Lage](http://twitter.com/aaclage) \| [\@aaclage](/t5/user/viewprofilepage/user-id/861803)
+    Lage](http://twitter.com/aaclage) | [\@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
 -   [Graph MGT
     Client](https://github.com/pnp/sp-dev-fx-webparts/blob/master/samples/react-graph-mgt-client) -
     [Sébastien
-    Levert](http://twitter.com/sebastienlevert) \| [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766)
+    Levert](http://twitter.com/sebastienlevert) | [sebastienlevert](https://github.com/sebastienlevert)
 -   [Teams Membership
     Updater](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-teams-membership-updater) -
-    [Nick Brown](http://twitter.com/techienickb) \| \@techienickb
+    [Nick Brown](http://twitter.com/techienickb) | \@techienickb
 Thank you for your great work.  Samples are often showcased in Demos. 
   
 **Agenda items:**
 
 -   Latest updates on SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [6:25](https://youtu.be/08UBXLU-g04?t=385)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \|
+    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
     \@jfj1997 -- [8:07](https://youtu.be/08UBXLU-g04?t=487)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [10:20](https://youtu.be/08UBXLU-g04?t=620)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [11:34](https://youtu.be/08UBXLU-g04?t=694)
 -   PnP Modern Search - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [12:49](https://youtu.be/08UBXLU-g04?t=769)
 -   PnP SPFx Samples - [Hugo
-    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) \|
+    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [13:57](https://youtu.be/08UBXLU-g04?t=837)
 
 **Demos:**
 
 -   Running the CLI for Microsoft 365 in Azure Container Instances
     orchestrated by Logic Apps -- [Albert-Jan
-    Schot](http://twitter.com/appieschot) (Portiva) \| \@appieschot \|
+    Schot](http://twitter.com/appieschot) (Portiva) | \@appieschot |
     [deck](https://1drv.ms/p/s!AlposW7ozA_90kWX8lhXVWx2QXGF?e=VogeNR) [--][ [18:04](https://youtu.be/08UBXLU-g04?t=1084)]
 
 -   Advanced Page Properties web part solution -- [Mike
-    Homol](http://twitter.com/homol) (ThreeWill) \| \@homol \|
+    Homol](http://twitter.com/homol) (ThreeWill) | \@homol |
     [deck](https://1drv.ms/p/s!AlposW7ozA_90kQb2NjM2sQAiEOu?e=q7eLpV) [--][ [32:00](https://youtu.be/08UBXLU-g04?t=1920)]
 
 -   SharePoint Framework 1.12.1 new features -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen
 
     [
@@ -203,17 +203,17 @@ slides.
     Properties](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-advanced-page-properties) 
 
     Framework - v1.12.1 public preview \\ npm install --g
-    [\@microsoft](/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   Gallery - [Microsoft 365 Extensibility look book
-    gallery](https://aka.ms/m365/extensibility) \|
+    gallery](https://aka.ms/m365/extensibility) |
     [aka.ms/m365/extensibility](https://aka.ms/m365/extensibility)  
 
 -   PnP Weekly -- Episode 123 with guest Power Platform Cloud Advocate
     - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam  \|
+    | \@aprildunnam  |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-123/ba-p/2278796)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-123-19th-of-april-2021/)
 
 -   Viva Connections <https://aka.ms/VivaConnections>
@@ -223,12 +223,12 @@ slides.
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
--   [Sharing is Caring](https://aka.ms/sharing-is-caring) \|
+-   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
 -   [Tools -](http://aka.ms/pnp-search) [PnP Modern Search
     v4](https://microsoft-search.github.io/pnp-modern-search/)[ 
-    \|](http://aka.ms/pnp-search) <https://aka.ms/pnp-search>
--   [M365 PnP site](https://aka.ms/m365pnp) \| aka.ms/m365pnp
+    |](http://aka.ms/pnp-search) <https://aka.ms/pnp-search>
+-   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
 -   Blog: "[A Lap Around Microsoft Graph Toolkit" blog
@@ -281,26 +281,26 @@ slides.
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls \| Recurrent invites:**
--   **M365 General Dev call --** April 29th at 7:00 am PDT \|
+**Upcoming calls | Recurrent invites:**
+-   **M365 General Dev call --** April 29th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Graph call -** May 4th at 8:00 am PDT \|
+-   **Microsoft Graph call -** May 4th at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint Framework call --** May 6th at 7:00 am PDT \|
+-   **SharePoint Framework call --** May 6th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **SharePoint monthly call --** May 11th at 8:00am PDT \|
+-   **SharePoint monthly call --** May 11th at 8:00am PDT |
     <https://aka.ms/sp-call>
--   **Office add-in monthly call --** May 12th at 8:00 am PDT \|
+-   **Office add-in monthly call --** May 12th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **Microsoft Teams monthly call --** May 18th at 8:00 am PDT \|
+-   **Microsoft Teams monthly call --** May 18th at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
--   **Power Apps monthly call --** May 19th at 8:00 am PDT \|
+-   **Power Apps monthly call --** May 19th at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
 -   **Microsoft Identity Platform --** [May
     20]th at 9:00 am PDT
-    \| <https://aka.ms/IDDevCommunityCalendar>[ ]
+    | <https://aka.ms/IDDevCommunityCalendar>[ ]
 PnP SharePoint Framework Special Interest Group bi-weekly calls are
 targeted at anyone who is interested in the JavaScript-based development
 towards Microsoft Teams, SharePoint Online, and also on-premises. SIG

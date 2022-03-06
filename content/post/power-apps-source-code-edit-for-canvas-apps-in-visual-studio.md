@@ -20,7 +20,7 @@ Canvas Apps
 (microsoft.com)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/power-apps-source-code-editing-for-canvas-apps/ba-p/2256476) Using
 this functionality, we can view and edit the source code of Canvas Apps.
 In a recent announcement ([Canvas source code tool integrated with Power
-Platform CLI \| Microsoft Power
+Platform CLI | Microsoft Power
 Apps](https://powerapps.microsoft.com/en-us/blog/canvas-source-code-tool-integrated-with-power-platform-cli/)),
 Microsoft announced that the same functionalities are now available
 within the Power Platform VS Code Extension of Visual Studio Code!

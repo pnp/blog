@@ -11,7 +11,7 @@ type: "regular"
 
 ---
 
-Ayca Bas [\@aycabas](/t5/user/viewprofilepage/user-id/371601) returns to
+Ayca Bas [\@aycabas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/371601) returns to
 talk with Jeremy and Paul about updates to change notifications in
 Microsoft Graph.
 

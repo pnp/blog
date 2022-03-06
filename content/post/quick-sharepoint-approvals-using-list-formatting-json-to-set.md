@@ -59,7 +59,7 @@ stating that the item was already approved or rejected.
 On each button, we set as the **customRowAction**, an action using the
 new **setField** action, and pass two fields on each using their
 internal names. Note that to set the current user as the value, we
-simply pass the **[\@me](/t5/user/viewprofilepage/user-id/31142)**
+simply pass the **[\@me](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/31142)**
 formula.
 Approval:
  

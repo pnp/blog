@@ -28,7 +28,7 @@ with Office.js APIs.) and Community call feedback (live/chat discussion
 on the merits of this monthly community call). This month's Community
 spotlight recognizes MVP Maarten van Stam for his continued
 contributions. Thank you again! Q&A in chat throughout call. The call
-was hosted by David Chesnut (Microsoft) \| \@davidchesnut.
+was hosted by David Chesnut (Microsoft) | \@davidchesnut.
 **Microsoft Presenters:**
 
 -   Ruoying Liang - Senior Program Manager
@@ -162,7 +162,7 @@ Currently, SSO is not supported when Teams is the host. You'll need to
 catch the error when calling getAccessToken(), which should be a 13012
 error, and use a fallback dialog to sign in the user. To see how to set
 up the fallback dialog, see [Create a Node.js Office Add-in that uses
-single sign-on - Office Add-ins \| Microsoft
+single sign-on - Office Add-ins | Microsoft
 Docs](https://docs.microsoft.com/office/dev/add-ins/develop/create-sso-office-add-ins-nodejs)
 which also uses the [Office Add-in Node.js code
 sample](https://github.com/OfficeDev/PnP-OfficeAddins/tree/main/Samples/auth/Office-Add-in-NodeJS-SSO).

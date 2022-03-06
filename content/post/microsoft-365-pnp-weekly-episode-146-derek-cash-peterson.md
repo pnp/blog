@@ -17,11 +17,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by Reykjavik, Iceland-based Consultant and MVP, [Derek
-Cash-Peterson](http://twitter.com/spdcp) (Sympraxis Consulting) \|
+Cash-Peterson](http://twitter.com/spdcp) (Sympraxis Consulting) |
 \@spdcp. 
 
  
@@ -99,25 +99,25 @@ everyone for your contributions to the community!
 
  
 
--   [What's New in Microsoft Teams \| November
+-   [What's New in Microsoft Teams | November
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-november-2021/ba-p/3015700) -
     Microsoft
 -   [SharePoint Roadmap Pitstop: November
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-november-2021/ba-p/3015429) -
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
-    \| \@mkashman
+    | \@mkashman
 -   [The journey to Viva Topics adoption success:
     Implement](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/the-journey-to-viva-topics-adoption-success-implement/ba-p/3003131)
     - [Matt Wolodarsky](https://twitter.com/mwolodarsky) (Microsoft)
-    \| \@mwolodarsky
+    | \@mwolodarsky
 -   [Let's decode: Single Sign On (SSO) in Microsoft Teams
     Tabs](https://devblogs.microsoft.com/microsoft365dev/lets-decode-single-sign-on-sso-in-microsoft-teams-tabs/) -
     [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft)
-    \| [\@williamsrabia](/t5/user/viewprofilepage/user-id/792201)
+    | [rabwill](https://github.com/rabwill)
 -   [Developing enterprise-ready Microsoft Teams apps with Teams ToolKit
     v3.0](https://devblogs.microsoft.com/microsoft365dev/developing-enterprise-ready-microsoft-teams-apps-with-teams-toolkit-v3-0/)
     - [Tomomi Imura](https://twitter.com/girlie_mac) (Microsoft)
-    \| [\@girlie_mac](/t5/user/viewprofilepage/user-id/727310)
+    | [\@girlie_mac](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/727310)
 
  
 
@@ -128,35 +128,35 @@ everyone for your contributions to the community!
 -   [Creating a video portal in SharePoint with JSON formatted document
     library](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/creating-a-video-portal-in-sharepoint-with-json-formatted/ba-p/3016104)
     - [Anand Ragav](https://twitter.com/anandVragav) (Ericsson)
-    \| [\@AnandVRagav](/t5/user/viewprofilepage/user-id/1101372)
+    | [\@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372)
 -   [Dataverse search: the good, the bad and the
     ugly](http://jopx.blogspot.com/2021/12/dataverse-search-good-bad-and-ugly.html)
     - [Joris Poelmans](https://twitter.com/jopxtwits)
-    (Inetum-Realdolmen) \| \@jopxtwits
+    (Inetum-Realdolmen) | \@jopxtwits
 -   [Become part of your presentation with Presenter Modes in Microsoft
     Teams](https://sharepains.com/2021/12/01/presenter-modes-in-microsoft-teams/)
     - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT
-    Services) \| \@PieterVeenstra
+    Services) | \@PieterVeenstra
 -   [How to update field values in SharePoint using Microsoft
     Graph](https://elischei.com/how-to-update-field-values-in-sharepoint-using-microsoft-graph/)
     - [Eli H. Schei](https://twitter.com/acupof_dev) (Point Taken AS)
-    \| \@acupof_dev
+    | \@acupof_dev
 -   [Testing an Azure Function using delegated access with
     Postman](https://mmsharepoint.wordpress.com/2021/12/04/testing-an-azure-function-using-delegated-access-with-postman/)
     - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade)
-    \| \@Moeller2_0
+    | \@Moeller2_0
 -   [Extract All Table Data (Rows) In A Form Using SharePoint
     Syntex](https://www.leonarmston.com/2021/12/extract-all-table-data-rows-using-sharepoint-syntex/) -
     [Leon Armston](https://twitter.com/LeonArmston) (Intelogy)
-    \| [\@LeonArmston](/t5/user/viewprofilepage/user-id/855621)
+    | [\@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
 -   [Episode #183 - Extending Microsoft Viva Connections Desktop with
     SPFx](https://www.youtube.com/watch?v=5E-XVKUHQpE) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) \| \@paolopia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@paolopia
 -   [:film_projector:️How to create a video library view with List
     Formatting in
     SharePoint](https://www.youtube.com/watch?v=pP8DcE-V8uA) - [Giuliano
     De Luca](https://twitter.com/DeLucaGiulian)
-    \| [\@delucagiulian](/t5/user/viewprofilepage/user-id/1038317)
+    | [\@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
 
  
 

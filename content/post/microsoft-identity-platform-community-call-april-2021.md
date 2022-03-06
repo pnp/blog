@@ -69,21 +69,21 @@ app.    
     for this call
 -   Documentation -  [Use the Microsoft Graph API to get change
     notifications](https://docs.microsoft.com/en-us/graph/api/resources/webhooks?view=graph-rest-1.0)
-    \|
+    |
     <https://docs.microsoft.com/en-us/graph/api/resources/webhooks?view=graph-rest-1.0>
 -   Documentation - [Get change notifications delivered in different
     ways](https://docs.microsoft.com/en-us/graph/change-notifications-delivery)
-    \|
+    |
     <https://docs.microsoft.com/en-us/graph/change-notifications-delivery>
 -   Training - [Microsoft Graph Training Module - Using Change
     Notifications and Track Changes with Microsoft
     Graph](https://github.com/microsoftgraph/msgraph-training-changenotifications/tree/event-hub) 
-    \|
+    |
     <https://github.com/microsoftgraph/msgraph-training-changenotifications/tree/event-hub>
 -   Documentation - [Azure Event Hubs --- A big data streaming platform
     and event ingestion
     service](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about)
-    \|
+    |
     <https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about>
 
 

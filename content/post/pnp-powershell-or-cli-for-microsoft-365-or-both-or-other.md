@@ -147,7 +147,7 @@ $list.Update()
 Invoke-PnPQuery
 Write-Host "Done! :-)" -ForegroundColor Green
 ```
-source: [Remove delete option on a document library \| PnP
+source: [Remove delete option on a document library | PnP
 Samples](https://pnp.github.io/script-samples/remove-delete-option-library/README.html?tabs=pnpps)
 So the flow is simple. We connect to the site to which we want to make
 some changes, we do those changes and that's it.

@@ -33,7 +33,7 @@ for **SharePoint** Online.
 -   Register for the [PnP Recognition
     Program](https://aka.ms/m365pnp-recognition).
 -   SharePoint Framework 1.13.1 released - npm install -g
-    [\@microsoft](/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint
+    [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint
 -   The Road Ahead after 1.13.1 -- 1.14 and future.
 -   Modernized app catalog for SharePoint Framework solutions - Preview
 -   PnP project releases in the last two weeks
@@ -54,7 +54,7 @@ previous report 2 weeks ago) 
 Additionally, there were 2 extensions, 2 web parts and 2 ACE
 **samples** were delivered!  Triple 2's are just great! Your
 contributions are greatly appreciated by many.  The host of this call is
-[Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+[Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 \@mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
 {{< image alt="211202-together-mode.gif" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/211202-together-mode.gif" >}}
@@ -63,7 +63,7 @@ joining off camera on the call today.  It's December!
 
 **Actions:**
 -   Opt in to PnP Recognition Program
-    \| <https://aka.ms/m365pnp-recognition>
+    | <https://aka.ms/m365pnp-recognition>
 -   **Register for Sharing is Caring Events:**
     -   Ask me anything (AMA) PnP Search -- [January
         11th](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUOFpKRjdQQVlWOEdaRlk2WkI3WUVQWFVNUC4u)
@@ -237,7 +237,7 @@ slides.
     Brochure) - aka.ms/modernworkbuildsessions
 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
+    --g [@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)

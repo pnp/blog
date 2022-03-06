@@ -244,7 +244,7 @@ Please note
 -   how we refer to the app configuration settings with environment
     variables -- If this is your first Azure Function app, I can highly
     recommend that you have a look over here: [JavaScript developer
-    reference for Azure Functions \| Microsoft
+    reference for Azure Functions | Microsoft
     Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=v2)
 -   that we of course want a success (for status 200/default) or error
     message (for status 500) to log
@@ -458,7 +458,7 @@ over to the functions app and 
 
 -   Fill out the form as follows: 
     -   Name: **TWILIOSID**
-    -   Value: **[\@microsoft](/t5/user/viewprofilepage/user-id/41501).KeyVault(VaultName=myvault;SecretName=mysecret)**
+    -   Value: **[\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501).KeyVault(VaultName=myvault;SecretName=mysecret)**
     -   Select **OK**
 -   Repeat for **TWILIOTOKEN**
 -   Don't forget to **Save\
@@ -525,7 +525,7 @@ nicely together. Some thoughts though for everyone who wondered: 
     and Azure Functions, [watch the video
     here](https://www.youtube.com/watch?v=_K30eBabb3A)
 -   yes, you can do all of the above in Azure CLI as well, to get you
-    started, please read here: [Azure Functions \| Microsoft
+    started, please read here: [Azure Functions | Microsoft
     Docs](https://docs.microsoft.com/en-us/cli/azure/service-page/azure%20functions?view=azure-cli-latest)
 
 You have a more fancy use case? Let me know about it! Just imagine that
@@ -539,7 +539,7 @@ solution. 
 #NeverStopLearning! Here are some resources that may help you get
 started! 
 
-[Getting started with Azure Functions \| Microsoft
+[Getting started with Azure Functions | Microsoft
 Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-get-started?pivots=programming-language-javascript)
 
 [Quickstart - Create integration workflows with Azure Logic Apps in the
@@ -547,9 +547,9 @@ Azure portal - Azure Logic
 Ap\...](https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-first-logic-app-workflow)
 
 [Azure Quickstart - Set and retrieve a secret from Key Vault using Azure
-portal \| Microsoft
+portal | Microsoft
 Docs](https://docs.microsoft.com/en-us/azure/key-vault/secrets/quick-create-portal)
 
-[Managed identities for Azure resources \| Microsoft
+[Managed identities for Azure resources | Microsoft
 Docs](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
  

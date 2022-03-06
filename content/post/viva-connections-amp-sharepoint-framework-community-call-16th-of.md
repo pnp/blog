@@ -54,7 +54,7 @@ previous report 2 weeks ago) 
   [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)                    **v4.5.2, v3.23.0**                               Release expected by calendar year end
   --------------------------------------------------------------------------------------------- ------------------------------------------------- ------------------------------------------------
 The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 \@mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
 {{< image alt="ViewPorter_0-1639698085131.gif" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-16th-of/ViewPorter_0-1639698085131.gif" >}}
@@ -64,7 +64,7 @@ Great to see all of you today.  Happy Holidays.  Enjoy some down time
 from work and up time with family, friends, hobbies.
 
 **Actions:**
--   Opt into PnP Recognition Program \|
+-   Opt into PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
 -   [Weigh in](https://github.com/pnp/pnpjs/discussions/1979) -- Should
     we drop support for CommonJS modules in PnPjs v3.0?  
@@ -151,7 +151,7 @@ from work and up time with family, friends, hobbies.
 ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 
 -   **COVID Indicator\* - **[João
-    Mendes](http://twitter.com/joaojmendes) \| [\@joaojmendes](/t5/user/viewprofilepage/user-id/442957)
+    Mendes](http://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
 
 \* to be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
@@ -160,40 +160,40 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 **Agenda items:**
 
 -   SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [3:25](https://youtu.be/9_GkAoOmBeI?t=205)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \|
+    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
     \@jfj1997 -- [4:56](https://youtu.be/9_GkAoOmBeI?t=296)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [7:22](https://youtu.be/9_GkAoOmBeI?t=442)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [8:09](https://youtu.be/9_GkAoOmBeI?t=489)
 -   PnP Modern Search - [Mikael
-    Svenson](http://twitter.com/mikaelsvenson) (Microsoft) \|
+    Svenson](http://twitter.com/mikaelsvenson) (Microsoft) |
     \@mikaelsvenson -- [8:52](https://youtu.be/9_GkAoOmBeI?t=532)
 -   PnP SPFx Samples - [Hugo
-    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) \|
+    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [9:43](https://youtu.be/9_GkAoOmBeI?t=583)
 -   PnP SPFx ACEs Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) \|
+    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
     \@DavidWarnerII -- [11:52](https://youtu.be/9_GkAoOmBeI?t=712)
 
 **Demos:**
 
 -   **D1**:  Building advanced Enterprise Search Center with PnP Search
-    Web Parts v4 -- [Franck Cornu](https://twitter.com/FranckCornu) \|
+    Web Parts v4 -- [Franck Cornu](https://twitter.com/FranckCornu) |
     \@FranckCornu -- [13:43](https://youtu.be/9_GkAoOmBeI?t=823)
 
 -   **D2**:  Building a custom React based Microsoft Graph Group Viewer
-    experience -- [Zach Roberts](http://twitter.com/ZachSPODev) \|
+    experience -- [Zach Roberts](http://twitter.com/ZachSPODev) |
     \@ZachSPODev -- [28:40](https://youtu.be/9_GkAoOmBeI?t=1720)
 
 -   **D3**:  Introduction to Adaptive Card Extensions (ACEs) for
     Microsoft Viva Connections -- [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) \| \@PaoloPia --
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia --
     [33:50](https://youtu.be/9_GkAoOmBeI?t=2030) 
 **Resources:**
 
@@ -201,7 +201,7 @@ Additional resources around the covered topics and links from the
 slides.
 
 -   **D1**:  GitHub - [PnP Modern Search
-    v4](https://microsoft-search.github.io/pnp-modern-search/) \|
+    v4](https://microsoft-search.github.io/pnp-modern-search/) |
     <https://aka.ms/pnp-search>
 
 -   **D1**:  Samples - [PnP Modern Search - Extensibility
@@ -219,25 +219,25 @@ slides.
 -   [[**D3**:  ]]Blog -
     [Microsoft Viva: Empowering every employee for the new digital
     age](https://www.microsoft.com/microsoft-365/blog/2021/02/04/microsoft-viva-empowering-every-employee-for-the-new-digital-age/)[
-    \| ]<http://aka.ms/viva/blog>
+    | ]<http://aka.ms/viva/blog>
 
 -   **D3**:  Documentation - [Overview of Viva Connections
     Extensibility](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections)
-    \| <https://aka.ms/viva/connections/extensibility>
+    | <https://aka.ms/viva/connections/extensibility>
 
 -   **D3**:  Sample Repo - [Viva Connection Adaptive Card Extensions
-    (ACEs) sample repository](https://github.com/pnp/sp-dev-fx-aces) \|
+    (ACEs) sample repository](https://github.com/pnp/sp-dev-fx-aces) |
     <https://aka.ms/spfx-aces>
 
 -   **PnP Weekly -- Episode 147** (December 13th) with Munich,
     Germany-based consultant and MVP, [Markus
-    Möller](http://twitter.com/Moeller2_0) (Avanade) \|
-    \@Moeller2_0 \| [video ](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/ba-p/3037250)\| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-147-%E2%80%93-13th-of-december-2021/)
+    Möller](http://twitter.com/Moeller2_0) (Avanade) |
+    \@Moeller2_0 | [video ](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/ba-p/3037250)| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-147-%E2%80%93-13th-of-december-2021/)
 
 -   **PnP Weekly -- Episode 146** (December 6th) with Reykjavik,
     Iceland-based Consultant and MVP, [Derek
-    Cash-Peterson](http://twitter.com/spdcp) (Sympraxis Consulting) \|
-    \@spdcp \| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/ba-p/3031492) \| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-146-%E2%80%93-6th-of-december-2021/)
+    Cash-Peterson](http://twitter.com/spdcp) (Sympraxis Consulting) |
+    \@spdcp | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/ba-p/3031492) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-146-%E2%80%93-6th-of-december-2021/)
 **General Resources:**
 
 -   Viva Connections <https://aka.ms/VivaConnections>
@@ -259,21 +259,21 @@ slides.
     Brochure) - aka.ms/modernworkbuildsessions
 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
--   [Sharing is Caring](https://aka.ms/sharing-is-caring) \|
+-   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
 
 -   [Tools - ](http://aka.ms/pnp-search)[PnP Modern Search
     v4](https://microsoft-search.github.io/pnp-modern-search/)[ 
-    \| ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
+    | ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
 
--   [M365 PnP site](https://aka.ms/m365pnp) \| aka.ms/m365pnp
+-   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
@@ -350,22 +350,22 @@ slides.
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
-**Upcoming calls \| Recurrent invites:  **
+**Upcoming calls | Recurrent invites:  **
 
 -   **Microsoft 365 platform call** **-- **December 21st at 8:00 am
-    PST \| <https://aka.ms/m365-dev-call>
+    PST | <https://aka.ms/m365-dev-call>
 -   **M365 General Dev call -- **December 23rd at 7:00 am PST
-    \| <https://aka.ms/m365-dev-sig>
+    | <https://aka.ms/m365-dev-sig>
 -   **SharePoint Framework call --** December 30th at 7:00 am PST
-    \| <https://aka.ms/spdev-spfx-call>
+    | <https://aka.ms/spdev-spfx-call>
 -   **Office add-in monthly call -- **January 12th at 8:00 am PST
-    \| <https://aka.ms/officeaddinscall>
+    | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call -- **January 13th at 9:00 am PST
-    \| <https://aka.ms/adaptivecardscommunitycall>
+    | <https://aka.ms/adaptivecardscommunitycall>
 -   **Power Apps monthly call **-- January 19th at 8:00 am PST
-    \| <https://aka.ms/PowerAppsMonthlyCall>
+    | <https://aka.ms/PowerAppsMonthlyCall>
 -   **Microsoft Identity Platform call --** January 20th at 9:00 am
-    PST \| <https://aka.ms/IDDevCommunityCalendar>
+    PST | <https://aka.ms/IDDevCommunityCalendar>
 Viva Connections & SharePoint Framework bi-weekly calls are targeted at
 anyone who is interested in the JavaScript-based development towards
 Microsoft Connections, Microsoft Teams, SharePoint Online, and also

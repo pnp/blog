@@ -107,7 +107,7 @@ page](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/id
 ## Resources: 
 ### Keyboard shortcuts 
 
--   [Custom keyboard shortcuts in Office Add-ins - Office Add-ins \|
+-   [Custom keyboard shortcuts in Office Add-ins - Office Add-ins |
     Microsoft
     Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/design/keyboard-shortcuts)
 -   [PnP sample: Use keyboard shortcuts for Office add-in
@@ -115,7 +115,7 @@ page](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/id
 
 ### Custom contextual tabs 
 
--   [Create custom contextual tabs in Office Add-ins - Office Add-ins \|
+-   [Create custom contextual tabs in Office Add-ins - Office Add-ins |
     Microsoft
     Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/design/contextual-tabs)
 -   [PnP sample: Create custom contextual tabs on the
@@ -129,10 +129,10 @@ page](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/id
 
 ### Outlook event-based activation 
 
--   [Outlook add-ins overview - Office Add-ins \| Microsoft
+-   [Outlook add-ins overview - Office Add-ins | Microsoft
     Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/outlook/outlook-add-ins-overview)
 -   [Configure your Outlook add-in for event-based activation
-    (preview) - Office Add-ins \| Microsoft
+    (preview) - Office Add-ins | Microsoft
     Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/outlook/autolaunch)
 -   PnP sample: [Use Outlook event-based activation to set the signature
     (preview)](https://github.com/OfficeDev/PnP-OfficeAddins/tree/master/Samples/outlook-set-signature)

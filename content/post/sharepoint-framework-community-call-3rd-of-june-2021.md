@@ -55,7 +55,7 @@ things happen. You are absolutely awesome!
 
 **Actions:**
 
--   Join on the Viva Connections private preview! \|
+-   Join on the Viva Connections private preview! |
     [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
 -   Feedback wanted:  Regarding PnP PowerShell -- "What if we did not
     return classic CSOM objects from the cmdlets?"  Comments to: 
@@ -110,14 +110,14 @@ a custom card using the Dashboard web part and SPFx.
 -   **[Data
     Table](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable)** -
     [Chandani
-    Prajapati](http://twitter.com/Chandani_SPD) \| \@Chandani_SPD
+    Prajapati](http://twitter.com/Chandani_SPD) | \@Chandani_SPD
 -   **[Page
     Contributors](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-pagecontributors)** -
-    [Ari Gunawan](http://twitter.com/arigunawan3023) \| \@arigunawan3023
+    [Ari Gunawan](http://twitter.com/arigunawan3023) | \@arigunawan3023
 -   **[OneDrive
     Finder](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-onedrive-finder)** -
     [André
-    Lage ](http://twitter.com/aaclage)\| [\@aaclage](/t5/user/viewprofilepage/user-id/861803)\
+    Lage ](http://twitter.com/aaclage)| [\@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)\
     \
 
 Thank you for your great work.  Samples are often showcased in Demos. 
@@ -125,31 +125,31 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 **Agenda items:**
 
 -   Latest updates on SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [4:38](https://youtu.be/65hRvHN5Iqk?t=278)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \|
+    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
     \@jfj1997 -- [6:43](https://youtu.be/65hRvHN5Iqk?t=403)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [8:40](https://youtu.be/65hRvHN5Iqk?t=520)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [9:26](https://youtu.be/65hRvHN5Iqk?t=566)
 -   PnP Modern Search - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \|
+    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [10:45](https://youtu.be/65hRvHN5Iqk?t=645)
 -   PnP SPFx Samples - [Hugo
-    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) \|
+    Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [11:49](https://youtu.be/65hRvHN5Iqk?t=709)
 
 **Demos:**
 
 -   **Demo:**  Get started developing mobile experiences for Microsoft
     Viva Connections, a preview of SharePoint Framework 1.13 - [Luca
-    Bandinelli](http://twitter.com/BandinelliLuca) (Microsoft) \|
+    Bandinelli](http://twitter.com/BandinelliLuca) (Microsoft) |
     \@BandinelliLuca, [Pat Miller](http://twitter.com/PatMill_MSFT)
-    (Microsoft) \| \@PatMill_MSFT and John Nguyen
+    (Microsoft) | \@PatMill_MSFT and John Nguyen
     (Microsoft) [-- ][16:00](https://youtu.be/65hRvHN5Iqk?t=960)
 
     -   [Viva Connections Extensibility and Dashboard - Overview  --
@@ -170,12 +170,12 @@ slides.
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   Designer -- [Adaptive Cards](https://adaptivecards.io/designer/) 
 -   PnP Weekly -- Episode 129 [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen, [Waldek
-    Mastykarz](http://twitter.com/waldekm) (Microsoft) \|
-    \@waldekm discuss announcements from Microsoft Build 2021 \|
+    Mastykarz](http://twitter.com/waldekm) (Microsoft) |
+    \@waldekm discuss announcements from Microsoft Build 2021 |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-129/ba-p/2401546)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-129-31st-of-may-2021/)
 **General Resources:**
 
@@ -185,16 +185,16 @@ slides.
     guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital
     Brochure) - aka.ms/modernworkbuildsessions
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
--   [Sharing is Caring](https://aka.ms/sharing-is-caring) \|
+-   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
 -   [Tools - ](http://aka.ms/pnp-search)[PnP Modern Search
     v4](https://microsoft-search.github.io/pnp-modern-search/)[ 
-    \| ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
--   [M365 PnP site](https://aka.ms/m365pnp) \| aka.ms/m365pnp
+    | ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
+-   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
 -   Blog: "[A Lap Around Microsoft Graph Toolkit" blog
@@ -247,24 +247,24 @@ slides.
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls \| Recurrent invites:**
--   **SharePoint monthly call --** June 8th at 8:00am PDT \|
+**Upcoming calls | Recurrent invites:**
+-   **SharePoint monthly call --** June 8th at 8:00am PDT |
     <https://aka.ms/sp-call>
--   **Office add-in monthly call --** June 9th at 8:00 am PDT \|
+-   **Office add-in monthly call --** June 9th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **Adaptive Cards monthly call --** June 10th at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** June 10th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **M365 General Dev call --** June 10th at 7:00 am PDT \|
+-   **M365 General Dev call --** June 10th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Teams monthly call --** June 15th at 8:00 am PDT \|
+-   **Microsoft Teams monthly call --** June 15th at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
--   **Power Apps monthly call --** June 16th at 8:00 am PDT \|
+-   **Power Apps monthly call --** June 16th at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** June 17th at 7:00 am PDT \|
+-   **SharePoint Framework call --** June 17th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** June 17th at 9:00 am PDT
-    \| <https://aka.ms/IDDevCommunityCalendar> 
--   **Microsoft Graph call --** July 6th at 8:00 am PDT \|
+    | <https://aka.ms/IDDevCommunityCalendar> 
+-   **Microsoft Graph call --** July 6th at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
 PnP SharePoint Framework Special Interest Group bi-weekly calls are
 targeted at anyone who is interested in the JavaScript-based development

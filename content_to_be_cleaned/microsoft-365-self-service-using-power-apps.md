@@ -269,7 +269,7 @@ role="heading"}
 [![Jan
 Bakker](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/318258i55E394610F259AFA/image-dimensions/40x40/image-coordinates/0%2C0%2C1024%2C1024?v=v2 "Jan Bakker"){.lia-user-avatar-message
 .user-rank-ring style=""
-onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/126615){.UserAvatar
+onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/126615){.UserAvatar
 .lia-link-navigation}
 :::
 
@@ -284,7 +284,7 @@ onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/us
 ::: lia-user-attributes
 ::: lia-user-name
 [ [[Jan
-Bakker]{.login-bold}](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/126615){#link_15
+Bakker]{.login-bold}](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/126615){#link_15
 .lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
 .lia-user-name .lia-user-rank-Frequent-Contributor}
 :::
@@ -297,7 +297,7 @@ Bakker]{.login-bold}](https://techcommunity.microsoft.com/t5/user/viewprofilepag
     [![Albert-Jan
     Schot](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/277287i3F1B4DE667305D80/image-dimensions/40x40/image-coordinates/0%2C0%2C1500%2C1500?v=v2 "Albert-Jan Schot"){.lia-user-avatar-message
     .user-rank-ring .user-rank-ring style="border-color: #107C10"
-    onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](/t5/user/viewprofilepage/user-id/154){.UserAvatar
+    onerror="replaceBrokenAvatars(this, '/html/assets/default-avatar.png')"}](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/154){.UserAvatar
     .lia-link-navigation}
     :::
 
@@ -312,7 +312,7 @@ Bakker]{.login-bold}](https://techcommunity.microsoft.com/t5/user/viewprofilepag
     ::: lia-user-attributes
     ::: lia-user-name
     [ [Albert-Jan
-    Schot](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/154){#link_16
+    Schot](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/154){#link_16
     .lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
     .lia-user-name .lia-user-rank-MVP}
     :::
@@ -372,7 +372,7 @@ Updated by:
 
 ::: lia-revision-info-data-cell
 [ [[Jan
-Bakker]{.login-bold}](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/126615){#link_17
+Bakker]{.login-bold}](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/126615){#link_17
 .lia-link-navigation .lia-page-link .lia-user-name-link} ]{.UserName
 .lia-user-name .lia-user-rank-Frequent-Contributor}
 :::

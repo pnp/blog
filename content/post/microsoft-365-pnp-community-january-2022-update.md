@@ -70,20 +70,20 @@ development topics from
 Latest community posts at <https://aka.ms/m365pnp/community/blog>
 -   11th of January - [Adam
     Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ou1UssfsX%2FGuAkrYEi0B7XnbGHgC669zrH3vjq%2FBJdw%3D&reserved=0)
-    (Hitachi Energy) \| \@Adam2585878 - [PnP PowerShell or CLI for
+    (Hitachi Energy) | \@Adam2585878 - [PnP PowerShell or CLI for
     Microsoft 365 or both or
     other](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/ba-p/3055126)
 -   11th of January - [Adam
     Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ou1UssfsX%2FGuAkrYEi0B7XnbGHgC669zrH3vjq%2FBJdw%3D&reserved=0)
-    (Hitachi Energy) \| \@Adam2585878 - [CLI for Microsoft 365 on your
+    (Hitachi Energy) | \@Adam2585878 - [CLI for Microsoft 365 on your
     mobile](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-on-your-mobile/ba-p/3052058)
 -   8th of January - [Garry
     Trinder](https://twitter.com/garrytrinder) (Microsoft)
-    \| \@garrytrinder - [CLI for Microsoft 365
+    | \@garrytrinder - [CLI for Microsoft 365
     v4.3](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v4-3/ba-p/3051947)
 -   5th of January -  [Chandani
     Prajapati](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FChandani_SPD&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=D3BEYiLF7zFYnlLXceqMqv%2FSD7Uf%2BsxxCEDfdFFQ6lY%3D&reserved=0)
-    (Rapid Circle) \| \@Chandani_SPD - [How to convert HTML content or
+    (Rapid Circle) | \@Chandani_SPD - [How to convert HTML content or
     file to PDF using the Muhimbi
     API?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-convert-html-content-or-file-to-pdf-using-the-muhimbi-api/ba-p/3041314)
 Community call recording blog posts:
@@ -323,21 +323,21 @@ open-source efforts. Your input do matter!
     November
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members/ba-p/2953966) - [Geetha
     Sivasailam](https://twitter.com/gsived) (Artis Consulting)
-    \| [\@GSiVed](/t5/user/viewprofilepage/user-id/384388), [Natalie
+    | [\@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388), [Natalie
     Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft)
-    \| \@NataliePienkow1, [Derek
+    | \@NataliePienkow1, [Derek
     Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting)
-    \| [\@Spdcp](/t5/user/viewprofilepage/user-id/386549), [João J.
+    | [\@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549), [João J.
     Mendes](https://twitter.com/joaojmendes) (Valo)
-    \| [\@joaojmendes](/t5/user/viewprofilepage/user-id/442957), [Joel
+    | [joaojmendes](https://github.com/joaojmendes), [Joel
     Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology)
-    \| \@JoelFMRodrigues, [Rick Van
-    Rousselt](https://twitter.com/RickVanRousselt) (Advantive) \|
+    | \@JoelFMRodrigues, [Rick Van
+    Rousselt](https://twitter.com/RickVanRousselt) (Advantive) |
     \@RickVanRousselt, [Stephan
     Bisser](https://twitter.com/stephanbisser) (Solvion)
-    \| \@stephanbisser, [Tetsuya
-    Kawahara](https://twitter.com/techan_k)  \| \@techan_k, and [Thomas
-    Gölles](https://twitter.com/thomyg) (Solvion) \| \@thomyg
+    | \@stephanbisser, [Tetsuya
+    Kawahara](https://twitter.com/techan_k)  | \@techan_k, and [Thomas
+    Gölles](https://twitter.com/thomyg) (Solvion) | \@thomyg
 -   [New Microsoft 365 Patterns and Practices (PnP) team members - May
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members-may/ba-p/2332415) - [Gautam
     Sheth](https://twitter.com/gautamdsheth) (Valo) and [Patrick
@@ -422,7 +422,7 @@ New articles
 -   [Advanced Highlighted Content Web
     Part](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/Community/highlighted-content-web-part.md)
     - [Patrick Doran](https://twitter.com/swearpointjs) (NCDIT)
-    \| \@swearpointjs
+    | \@swearpointjs
 Have ideas for articles or want to contribute yourself? - Get involved!
 Here are also some additional resources explaining the model more
 detailed.
@@ -438,28 +438,28 @@ These are the updated SharePoint Framework samples which are available
 from the different repositories.
 -   New
     sample [react-taxonomy-file-explorer](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-taxonomy-file-explorer)
-    by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \|
+    by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) |
     \@Moeller2_0, that renders a given termset as a tree and
     incorporates files similar than a folder structure in file explorer.
 -   Updated sample
     [react-calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)
     by [Mohammad Amer](https://twitter.com/Mohammad3mer) (Atea Global
-    Services) \| \@Mohammad3mer
+    Services) | \@Mohammad3mer
 -   Updated
     sample [ImageCard-TodaysLunch](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-TodaysLunch)
     by [Giuliano De
-    Luca](https://twitter.com/delucagiulian) \| \@delucagiulian
+    Luca](https://twitter.com/delucagiulian) | \@delucagiulian
 -   Updated sample
     [react-quotes](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-quotes)
     by [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group)
-    \| \@yhabersaat
+    | \@yhabersaat
 -   Updated sample
     [react-my-teams](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-my-teams)
     by [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group)
-    \| \@yhabersaat
+    | \@yhabersaat
 -   Updated
     sample [react-advanced-page-properties](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-advanced-page-properties)
-    by [Abderahman Moujahid](https://github.com/Abderahman88) \|
+    by [Abderahman Moujahid](https://github.com/Abderahman88) |
     Abderahman88
 -   Other adjustments to numerous samples by our awesome community
     members!
@@ -492,19 +492,19 @@ and community samples.
 -   New PowerFX sample
     [table-functions](https://github.com/pnp/powerfx-samples/tree/main/samples/table-functions)
     by [Bartolomeo Sorrentino](https://twitter.com/bsorrentinoJ)
-    (soulsoftware) \| \@bsorrentinoJ that allows to transform a Record
+    (soulsoftware) | \@bsorrentinoJ that allows to transform a Record
     in a Table
 -   New Power Apps sample
     [covid-vaccine-survey](https://github.com/pnp/powerapps-samples/tree/main/samples/covid-vaccine-survey)
     by [Siddharth
-    Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0) \|
+    Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0) |
     \@siddh_me, that enables companies to collect surveys (data) on the
     vaccination status of their employees
 -   New Power Automate
     sample [new-employee-tip-of-the-day](https://github.com/pnp/powerautomate-samples/tree/main/samples/new-employee-tip-of-the-day)
     by [Adam
     Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ou1UssfsX%2FGuAkrYEi0B7XnbGHgC669zrH3vjq%2FBJdw%3D&reserved=0)
-    (Hitachi Energy) \| \@Adam2585878 that improves onboarding
+    (Hitachi Energy) | \@Adam2585878 that improves onboarding
     experience
 
 There was also numerous smaller updates on the different Power Platforms
@@ -531,54 +531,54 @@ Here are the latest updates on the Script Samples
     Graph](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Faad-guest-signin-activity%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=avLWXCtsqn4G3fMH99RvDH7z8x1LAE89iDX8yxEx1XU%3D&reserved=0)
     by [Pete
     Skelly](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fpskelly&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Vk4sclj2zXJ4XqsL6eW5rqYWMo%2F9KynF6LikRWIUjZc%3D&reserved=0)
-    (ThreeWill, LLC) \| \@pskelly
+    (ThreeWill, LLC) | \@pskelly
 -     New [List guests within Teams in a
     tenant](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fteams-list-guestusers%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=xSTMQCM9B%2B%2Fd5iXK0wnx9X0lBzykW6hYKvj07LRhtFA%3D&reserved=0)
     by [Jiten
     Palmer](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FJitenpa44241205&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=lBNZlxs9k66gtp%2FMCvfnBrVDXXxfk5vT8KErtzvdUtA%3D&reserved=0)
-    \| \@Jitenpa44241205
+    | \@Jitenpa44241205
 -     New [Add Large List items to PnP
     Template](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-large-list-items-to-pnp-template%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=RdrITG9NMgoh7x3Me3UU3THviElqesHWj3HhjOmjwlE%3D&reserved=0)
     by [Jiten
     Palmer](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FJitenpa44241205&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=lBNZlxs9k66gtp%2FMCvfnBrVDXXxfk5vT8KErtzvdUtA%3D&reserved=0)
-    \| \@Jitenpa44241205
+    | \@Jitenpa44241205
 -     New [Collect and export Teams
     templates](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fteams-get-templates%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=XKerLkgXTNeiUiWYn%2BLqN9ig4Dw%2FhMldo0JM1CFdw8c%3D&reserved=0)
     by [Rodrigo
     Pinto](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Edmi%2BUNLTf3vX5Mam5M41pfsND64ZKWPsRaWv9W4UtY%3D&reserved=0)
-    (Storm Technology) \| \@ScoutmanPt
+    (Storm Technology) | \@ScoutmanPt
 -     Updated [Improved reporting\\performance on clone team
     operation](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fteams-clone-team%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Uoj6C8Bbv%2FNLufPT0O5o12fAuhMaZ0QTaI99PcBWyi4%3D&reserved=0)
     by [Rodrigo
     Pinto](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Edmi%2BUNLTf3vX5Mam5M41pfsND64ZKWPsRaWv9W4UtY%3D&reserved=0)
-    (Storm Technology) \| \@ScoutmanPt
+    (Storm Technology) | \@ScoutmanPt
 -     New [Create a Teams based on a existing team
     template](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fteams-createteam-from-template%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Wli3sulZwx%2FE6bK07XWRPx9finE0ED6q2ay3rL4k%2B4k%3D&reserved=0)
     by [Rodrigo
     Pinto](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Edmi%2BUNLTf3vX5Mam5M41pfsND64ZKWPsRaWv9W4UtY%3D&reserved=0)
-    (Storm Technology) \| \@ScoutmanPt
+    (Storm Technology) | \@ScoutmanPt
 -     New [Delete a library exceeding the list threshold
     limit](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-remove-large-library%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=0hUAa2ekszwOD1Q91yEhJlk9BCjRYoin2UN9kXDa1gs%3D&reserved=0)
     by [Reshmee
     Auckloo](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Freshmeeauckloo&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=in3S5RcPERF6IZrE7fGyTyV2X1lssMlgGvVJI7%2FwnUk%3D&reserved=0)
-    \| \@reshmeeauckloo
+    | \@reshmeeauckloo
 -     New [Create bulk dummy documents, including minor/major versions,
     in SharePoint Document
     library](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fcreate-dummy-docs-versions-in-library%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=TL%2Bl2D%2BxGd9dKAegejDX0q4ARetQfSZlh7vJy1105Tw%3D&reserved=0)
     by [Kasper Bo
     Larsen](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkasperbolarsen&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=dzrGKhGFEkvZBkY%2FkvxtPp1hNnk66cwb2Cpk26WQ%2F%2BI%3D&reserved=0)
-    (Fellowmind Denmark) \| \@kasperbolarsen
+    (Fellowmind Denmark) | \@kasperbolarsen
 -     New [Export a csv report on all Microsoft Stream
     videos](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fstream-report-videos%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=r6fp2PniZDeNReHdJP6AwrFJC6WTVZaGT4xL2VKNN0E%3D&reserved=0)
     by [Rodrigo
     Pinto](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Edmi%2BUNLTf3vX5Mam5M41pfsND64ZKWPsRaWv9W4UtY%3D&reserved=0)
-    (Storm Technology) \| \@ScoutmanPt
+    (Storm Technology) | \@ScoutmanPt
 -     New [Run jobs in parallel using ForEach-Object -Parallel to
     iterate SharePoint site
     collections](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-run-jobs-in-parallel%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=kBxOklf2vKTPGNpBH16JSmJ%2BxoCI3GndbB%2F1Y0FtKGw%3D&reserved=0)
     by [Kasper Bo
     Larsen](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkasperbolarsen&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=dzrGKhGFEkvZBkY%2FkvxtPp1hNnk66cwb2Cpk26WQ%2F%2BI%3D&reserved=0)
-    (Fellowmind Denmark) \| \@kasperbolarsen
+    (Fellowmind Denmark) | \@kasperbolarsen
 If you have any existing scripts which you'd be willing to share with
 others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. 
@@ -602,62 +602,62 @@ out [Microsoft Power Platform Connectors on
 GitHub](https://github.com/microsoft/PowerPlatformConnectors)
 These are the latest connectors: 
 -   [Accuweather](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/AccuWeather) - [Ahmad
-    Najjar](https://twitter.com/ahmadn82) (Infoworker) \| \@ahmadn82
+    Najjar](https://twitter.com/ahmadn82) (Infoworker) | \@ahmadn82
 -   [Bronnoysundregistrene](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Br%C3%B8nn%C3%B8ysundregistrene) - [Ahmad
-    Najjar](https://twitter.com/ahmadn82) (Infoworker) \| \@ahmadn82
+    Najjar](https://twitter.com/ahmadn82) (Infoworker) | \@ahmadn82
 -   [OpenCage
     Geocoding](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/OpenCage%20Geocoding) - [Ahmad
-    Najjar](https://twitter.com/ahmadn82) (Infoworker) \| \@ahmadn82
+    Najjar](https://twitter.com/ahmadn82) (Infoworker) | \@ahmadn82
 -   [Yelp](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Yelp) - [Ahmad
-    Najjar](https://twitter.com/ahmadn82) (Infoworker) \| \@ahmadn82
+    Najjar](https://twitter.com/ahmadn82) (Infoworker) | \@ahmadn82
 -   [ORB
     Intelligence](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/ORB%20Intelligence) -
     Ankita Singh and Aaryan Arora
 -   [Notion](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Notion) -
     Chandra Sekhar & [Harshini
-    Varma](https://twitter.com/HarshiniVarmaa) (Capgemini) \|
+    Varma](https://twitter.com/HarshiniVarmaa) (Capgemini) |
     \@HarshiniVarmaa
 -   [Spotify](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Spotify) - [Daniel
-    Laskewitz](https://twitter.com/laskewitz) (Sogeti) \| \@laskewitz
+    Laskewitz](https://twitter.com/laskewitz) (Sogeti) | \@laskewitz
 -   [Toggl
     Plan](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Toggl%20Plan) - [Daniel
-    Laskewitz](https://twitter.com/laskewitz) (Sogeti) \| \@laskewitz
+    Laskewitz](https://twitter.com/laskewitz) (Sogeti) | \@laskewitz
 -   [Discord](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Discord) - [Daniel
-    Laskewitz](https://twitter.com/laskewitz) (Sogeti) \| \@laskewitz
-    & [Michal Guzowski](https://twitter.com/abcguzowksi) (Developico) \|
+    Laskewitz](https://twitter.com/laskewitz) (Sogeti) | \@laskewitz
+    & [Michal Guzowski](https://twitter.com/abcguzowksi) (Developico) |
     \@abcguzowski
 -   [ClickUp Team
     Manager](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/ClickUp%20Team%20Manager) -- [Duke
-    DeVan](https://twitter.com/AyoSurice) (Hitachi Solutions) \|
+    DeVan](https://twitter.com/AyoSurice) (Hitachi Solutions) |
     \@AyoSurice
 -   [Dexcom](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Dexcom) - [Joe
-    Unwin](https://twitter.com/Flow_Joe) (Hitachi Solutions) \|
+    Unwin](https://twitter.com/Flow_Joe) (Hitachi Solutions) |
     \@Flow_Joe
 -   [Weather
     Forecast](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/WeatherForecast) - [Haimantika
-    Mitra](https://twitter.com/HaimantikaM) (Microsoft) \|
-    [\@HaimantikaM](/t5/user/viewprofilepage/user-id/1201804)
+    Mitra](https://twitter.com/HaimantikaM) (Microsoft) |
+    [\@HaimantikaM](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1201804)
 -   [Carbon
     Intensity](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Carbon%20Intensity) --
     Hasan Unlu
 -   [LibreBor](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/LibreBor) - [Mario
-    Trueba](https://twitter.com/mariotrueba365) (KPMG) \| @
+    Trueba](https://twitter.com/mariotrueba365) (KPMG) | @
      mariotrueba365 & [Marco
-    Amoedo](https://twitter.com/marcoamoedo) (KPMG)\| \@marcoamoedo
+    Amoedo](https://twitter.com/marcoamoedo) (KPMG)| \@marcoamoedo
 -   [CQC](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Care%20Quaility%20Comission%20For%20England) - [Martyn
     Lesbirel](https://www.linkedin.com/in/martynlesbirel/) (Dynamiti)
 -   [UK Government Bank
     Holidays](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/U.K.%20Government%20Bank%20Holidays) - [Martyn
-    Lesbirel](https://www.linkedin.com/in/martynlesbirel/) (Dynamiti) \|
+    Lesbirel](https://www.linkedin.com/in/martynlesbirel/) (Dynamiti) |
 -   [What3Words](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/What3Words) - [Matt
-    Beard](https://twitter.com/mattybeard) (Data8) \| \@mattybeard
--   [FreeAgent](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/FreeAgent) - [Nirmal](https://twitter.com/nirmal_kumar)\|
-    [\@Nirmal_kumar](/t5/user/viewprofilepage/user-id/797905)
--   [ITGlue](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/ITGlue) - [Nirmal](https://twitter.com/nirmal_kumar) \|
-    [\@Nirmal_kumar](/t5/user/viewprofilepage/user-id/797905)
+    Beard](https://twitter.com/mattybeard) (Data8) | \@mattybeard
+-   [FreeAgent](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/FreeAgent) - [Nirmal](https://twitter.com/nirmal_kumar)|
+    [\@Nirmal_kumar](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/797905)
+-   [ITGlue](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/ITGlue) - [Nirmal](https://twitter.com/nirmal_kumar) |
+    [\@Nirmal_kumar](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/797905)
 -   [Jira
     Search](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/JiraSearch)- [Paul
-    Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) \|
+    Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) |
     \@paulculmsee
 -   [Coinbase](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Coinbase) -- [Roy
     Paar](https://www.linkedin.com/in/roypaar/) (Microsoft)
@@ -672,59 +672,59 @@ These are the latest connectors: 
     Paar](https://www.linkedin.com/in/roypaar/) (Microsoft)
 -   [GoQR](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/GoQR) - [Rui
     Santos](https://www.linkedin.com/in/ruisantosnor/) (Microsoft)
--   myStrom - [Tomasz Poszytek](https://twitter.com/TomaszPoszytek)\|
-    [\@TomaszPoszytek](/t5/user/viewprofilepage/user-id/335682)
+-   myStrom - [Tomasz Poszytek](https://twitter.com/TomaszPoszytek)|
+    [\@TomaszPoszytek](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/335682)
 -   Clearbit - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi
-    Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [EONET by
     NASA](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/EONET%20by%20NASA) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [Etsy](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Etsy) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [Federal Reserve Economic
     Data](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Federal%20Reserve%20Economic%20Data) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [Hashify](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Hashify) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [HubSpot
     CMS](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/HubSpot%20CMS) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [HubSpot
     CRM](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/HubSpot%20CRM) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [HubSpot
     Marketing](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/HubSpot%20Marketing) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [Launch Library
     2](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Launch%20Library%202) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [Loripsum](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Loripsum) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [Mailbox
     Validator](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/MailboxValidator) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [Secure Code
     Warrior](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Secure%20Code%20Warrior) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [SpaceX](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/rSpaceX) - [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [Unix
     Timestamp](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Unix%20Timestamp)- [Troy
-    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \|
-    [\@troystaylor](/t5/user/viewprofilepage/user-id/281742)
+    Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) |
+    [troystaylor](https://github.com/troystaylor)
 -   [Airtable](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Airtable) -- [Woong
     Choi](https://www.linkedin.com/in/woongchoi/) (Seven Sigma)
 ### Sharing is Caring initiative 
@@ -831,16 +831,16 @@ involved!
 Please see all the Microsoft 365 development documentation updates from
 the related documentation sets and repositories as listed below:
 -   Microsoft Teams platform documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) \|
+    Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) |
     [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
 -   SharePoint Developer documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) \|
+    Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) |
     [GitHub](https://github.com/SharePoint/sp-dev-docs)
 -   Microsoft Graph documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/graph) \|
+    Docs](https://docs.microsoft.com/en-us/graph) |
     [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
 -   Office add-in documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) \|
+    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
 ### Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
 
@@ -855,43 +855,43 @@ last monthly summary:
 -   [Student Ambassador shows survey solution built with Power Platform
     and Microsoft Teams](https://www.youtube.com/watch?v=8QuJLJ7M0mc)
     - Ayca Bas (Microsoft)- [\@aycabs](https://twitter.com/aycabs), [Lee
-    Stott](https://twitter.com/lee_stott) (Microsoft) \| \@Lee_Stott,
+    Stott](https://twitter.com/lee_stott) (Microsoft) | \@Lee_Stott,
     [Japhlet Nwamu](https://twitter.com/japhletnwamu) (Microsoft)
-    \| @japhletnwamu
+    | @japhletnwamu
 Community demos as following: 
 -   [Using inline editing with list formatting -- inlineEditField
     attribute](https://www.youtube.com/watch?v=evIRaogGD6M) - [Chris
-    Kent](https://twitter.com/theChrisKent) (DMI) \| \@theChrisKent
+    Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent
 -   [Updates on Independent Publisher Connectors & Notion Connector
     Demo](https://www.youtube.com/watch?v=f97UDmO2VF0) - Natalie
-    Pienkowska (Microsoft) \| \@NataliePienkow1 and [Harshini
-    Varma](https://twitter.com/HarshiniVarmaa) (Capgemini) \|
-    \@HarshiniVarmaa and Chandra Sekhar Malla (Royal Group LLC) \|
+    Pienkowska (Microsoft) | \@NataliePienkow1 and [Harshini
+    Varma](https://twitter.com/HarshiniVarmaa) (Capgemini) |
+    \@HarshiniVarmaa and Chandra Sekhar Malla (Royal Group LLC) |
     \@ChandraSMalla
 -   [Introduction to the Microsoft 365 developer program and to the
     instant development
     environment](https://www.youtube.com/watch?v=2JWUr6zBtwg) - Vesa
-    Juvonen (Microsoft) \| \@vesajuvonen
+    Juvonen (Microsoft) | \@vesajuvonen
 -   [Building Xbox games with Power
     Apps](https://www.youtube.com/watch?v=qK7P9e12GMs) - [Brian
-    Dang](https://twitter.com/mrdang) (Microsoft) \| \@mrdang
+    Dang](https://twitter.com/mrdang) (Microsoft) | \@mrdang
 -   [Discover the Microsoft Graph
     Toolkit](https://www.youtube.com/watch?v=HdQlVv3Wekk) -[Sébastien
-    Levert](https://twitter.com/sebastienlevert) (Microsoft) \|
+    Levert](https://twitter.com/sebastienlevert) (Microsoft) |
      \@SebastienLevert
 -   [Outlook: Microsoft Ignite 2021 recap on the latest
     announcements](https://www.youtube.com/watch?v=5OJGO7Fwq94&t=252s)
     - [Juan Balmori Labra](https://twitter.com/juaneloBalmori),
-    Principal Program Manager (Microsoft) \| \@juaneloBalmor
+    Principal Program Manager (Microsoft) | \@juaneloBalmor
 -   [Getting started with using PnP Search Web Parts
     v4](https://www.youtube.com/watch?v=f8Rke1uwMd0) - [Mikael
-    Svenson](https://twitter.com/mikaelsvenson) (Microsoft) \|
+    Svenson](https://twitter.com/mikaelsvenson) (Microsoft) |
     \@mikaelsvenson and [Franck Cornu](https://twitter.com/FranckCornu)
-    \| \@FranckCornu
+    | \@FranckCornu
 -   [Introduction to HtwoO React library -- Fluent UI experiences
     easily](https://www.youtube.com/watch?v=J7WxE18CMMQ) - [Julie
     Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
-    \| \@jfj1997
+    | \@jfj1997
 
 ## Key contributors to the January 2021 update 
 
@@ -907,260 +907,260 @@ please let us know.
 -   [Abderahman Moujahid](https://github.com/Abderahman88) -
     Abderahman88
 
--   [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) \|
+-   [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) |
     \@Adam2585878
 
--   [Aimery Thomas](https://www.twitter.com/aimery_thomas) \|
+-   [Aimery Thomas](https://www.twitter.com/aimery_thomas) |
     \@aimery_thomas
 
 -   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital)
-    \| \@appieschot
+    | \@appieschot
 
--   [André Lage](https://twitter.com/aaclage) (Datalynx AG) \| \@aaclage
+-   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | \@aaclage
 
--   [Andrew Burns](https://www.twitter.com/SharePointRox) (AmSty) \|
+-   [Andrew Burns](https://www.twitter.com/SharePointRox) (AmSty) |
     \@SharePointRox
 
 -   [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos)
-    \| \@andrewconnell
+    | \@andrewconnell
 
 -   [Andy Harmon ](https://www.twitter.com/andygharmon)(Oldham
-    Metropolitan Borough Council) \| \@andygharmon
+    Metropolitan Borough Council) | \@andygharmon
 
--   [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) \|
+-   [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) |
     \@anooptells
 
 -   [Antti Pajunen ](https://www.twitter.com/anttipajunen)(Forward
-    Forever) \| \@anttipajunen
+    Forever) | \@anttipajunen
 
 -   [Aric Bost](https://www.twitter.com/1CyberState) (North Carolina
-    Housing Finance Agency) \| \@1CyberState
+    Housing Finance Agency) | \@1CyberState
 
 -   [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting
-    Services) \| \@arjunumenon
+    Services) | \@arjunumenon
 
--   [Asad Refai](https://www.twitter.com/asadrefai) (Intelogy) \|
+-   [Asad Refai](https://www.twitter.com/asadrefai) (Intelogy) |
     \@asadrefai
 
 -   [Bartolomeo Sorrentino](https://twitter.com/bsorrentinoJ)
-    (soulsoftware) \| \@bsorrentinoJ
+    (soulsoftware) | \@bsorrentinoJ
 
 -   [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting)
-    \| \@Beau\_\_Cameron
+    | \@Beau\_\_Cameron
 
--   [Carmen Ysewijn](https://twitter.com/CarmenYsewijn) (Qubix) \|
+-   [Carmen Ysewijn](https://twitter.com/CarmenYsewijn) (Qubix) |
     \@carmenysewijn
 
 -   [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid
-    Circle) \| \@Chandani_SPD
+    Circle) | \@Chandani_SPD
 
 -   [Chandra Sekhar Malla](https://twitter.com/ChandraSMalla) (Royal
-    Group LLC) \| \@ChandraSMall
+    Group LLC) | \@ChandraSMall
 
 -   [Chris
-    Kent](https://twitter.com/theChrisKent) (DMI) \| \@theChrisKent
+    Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent
 
 -   [Christopher Graves](https://www.twitter.com/Christo48927551)
-    (Arvato) \| \@Christo48927551
+    (Arvato) | \@Christo48927551
 
--   [Daniel Laskewitz](https://twitter.com/laskewitz) (Sogeti) \|
+-   [Daniel Laskewitz](https://twitter.com/laskewitz) (Sogeti) |
     \@laskewitz
 
 -   [Daniel Westerdale](https://www.twitter.com/westerdaled) (Westerdale
-    Solutions Ltd) \| \@westerdaled
+    Solutions Ltd) | \@westerdaled
 
--   [Danish Shafi](https://twitter.com/builtbydan) \| \@builtbydan
+-   [Danish Shafi](https://twitter.com/builtbydan) | \@builtbydan
 
 -   [David Warner II](https://twitter.com/DavidWarnerII) (Catapult)
-    \| \@DavidWarnerII
+    | \@DavidWarnerII
 
 -   [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis
-    Consulting) \| \@spdcp
+    Consulting) | \@spdcp
 
--   [Dipen Shah](https://www.twitter.com/Dips_365) (Rapid Circle) \|
+-   [Dipen Shah](https://www.twitter.com/Dips_365) (Rapid Circle) |
     \@Dips_365
 
 -   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf
-    Consulting) \| \@eliostruyf
+    Consulting) | \@eliostruyf
 
 -   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis
-    Consulting) \| \@EEMancini
+    Consulting) | \@EEMancini
 
 -   [Eric Overfield](https://twitter.com/EricOverfield) (PixelMill)
-    \| \@EricOverfield
+    | \@EricOverfield
 
 -   [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo
-    Intranet) \| \@erwinvanhunen 
+    Intranet) | \@erwinvanhunen 
 
--   [Franck Cornu](https://twitter.com/FranckCornu) \| \@FranckCornu
+-   [Franck Cornu](https://twitter.com/FranckCornu) | \@FranckCornu
 
 -   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions)
-    \| \@gautamdsheth
+    | \@gautamdsheth
 
 -   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting)
-    \| \@GSiVed
+    | \@GSiVed
 
 -   [Giuliano De
-    Luca](https://twitter.com/delucagiulian) \| \@delucagiulian
+    Luca](https://twitter.com/delucagiulian) | \@delucagiulian
 
--   [Harshini Varma](https://twitter.com/HarshiniVarmaa) (Capgemini) \|
+-   [Harshini Varma](https://twitter.com/HarshiniVarmaa) (Capgemini) |
     \@HarshiniVarmaa
 
 -   [Japhlet Nwamu](https://twitter.com/japhletnwamu) (Microsoft)
-    \| @japhletnwamu
+    | @japhletnwamu
 
--   [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) \|
+-   [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) |
     Jwaegebaert
 
 -   [Jiten
-    Palmer](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FJitenpa44241205&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=lBNZlxs9k66gtp%2FMCvfnBrVDXXxfk5vT8KErtzvdUtA%3D&reserved=0) \|
+    Palmer](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FJitenpa44241205&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=lBNZlxs9k66gtp%2FMCvfnBrVDXXxfk5vT8KErtzvdUtA%3D&reserved=0) |
     \@Jitenpa44241205
 
--   [João Ferreira](https://twitter.com/Joao12Ferreira) \|
+-   [João Ferreira](https://twitter.com/Joao12Ferreira) |
     \@joaoferreira
 
 -   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions)
-    \| \@joaojmendes
+    | \@joaojmendes
 
 -   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm
-    Technology) \| \@JoelFMRodrigues
+    Technology) | \@JoelFMRodrigues
 
--   [Jono Duncan](https://www.twitter.com/SuaveJono) (JourneyTEAM) \|
+-   [Jono Duncan](https://www.twitter.com/SuaveJono) (JourneyTEAM) |
     \@SuaveJono
 
 -   [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
-    \| \@jfj1997
+    | \@jfj1997
 
 -   [Kasper Bo
     Larsen](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkasperbolarsen&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=8jcXC26PxWaLGQXyujuV7zdZM%2FZp3lqjvVnRuNT2%2FPs%3D&reserved=0)
-    (Fellowmind Denmark) \| \@kasperbolarsen
+    (Fellowmind Denmark) | \@kasperbolarsen
 
 -   [Kathleen Boilek](https://www.twitter.com/kaboilek) (Alaka'ina
-    Foundation) \| \@kaboilek
+    Foundation) | \@kaboilek
 
--   [Kevin McDonnell](https://twitter.com/kevmcdonk) (CPS) \|
+-   [Kevin McDonnell](https://twitter.com/kevmcdonk) (CPS) |
     \@kevmcdonk
 
--   [Lance Yoder](https://www.twitter.com/lyoder) (Cerner) \| \@lyoder
+-   [Lance Yoder](https://www.twitter.com/lyoder) (Cerner) | \@lyoder
 
 -   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava)
-    \| \@LauraKokkarinen
+    | \@LauraKokkarinen
 
--   [Lee Stott](https://twitter.com/lee_stott) (Microsoft) \|
+-   [Lee Stott](https://twitter.com/lee_stott) (Microsoft) |
     \@Lee_Stott
 
 -   [Lindsay Shelton](https://www.twitter.com/lshelton_tech) (Stowers
-    Institute for Medical Research) \| \@lshelton_tech
+    Institute for Medical Research) | \@lshelton_tech
 
--   [Loïc Cimon](https://twitter.com/LoicCimon) (Sogeti) \| \@LoicCimon
+-   [Loïc Cimon](https://twitter.com/LoicCimon) (Sogeti) | \@LoicCimon
 
 -   [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess)
-    \| \@LuiseFreese
+    | \@LuiseFreese
 
 -   [Marc Anderson](https://twitter.com/sympmarc), Sympraxis Consulting
-    \| \@sympmarc
+    | \@sympmarc
 
--   [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \|
+-   [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) |
     \@Moeller2_0
 
--   [Matt Beard](https://twitter.com/mattybeard) (Data8) \| \@mattybeard
+-   [Matt Beard](https://twitter.com/mattybeard) (Data8) | \@mattybeard
 
--   [Michal Guzowski](https://twitter.com/abcguzowksi) (Developico) \|
+-   [Michal Guzowski](https://twitter.com/abcguzowksi) (Developico) |
     \@abcguzowski
 
 -   [Mike Dumka](https://www.twitter.com/mikedumka) (Habanero
-    Consulting) \| \@mikedumka
+    Consulting) | \@mikedumka
 
 -   [Mohammad Amer](https://twitter.com/Mohammad3mer) (Atea Global
-    Services) \| \@Mohammad3mer
+    Services) | \@Mohammad3mer
 
--   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \|
+-   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) |
     \@NanddeepNachan 
 
 -   [Nikki Chapple](https://www.twitter.com/chapplenikki) (NTT Cloud
-    Communications) \| \@chapplenikki
+    Communications) | \@chapplenikki
 
--   [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) \|
+-   [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) |
     \@PaoloPia
 
 -   [Patrick Doran](https://twitter.com/swearpointjs) (NCDIT)
-    \| \@swearpointjs
+    | \@swearpointjs
 
 -   [Patrik Hellgren](https://twitter.com/patrikhellgren) (Sherpas
-    Group) \| \@patrikhellgren
+    Group) | \@patrikhellgren
 
 -   [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside
-    AG) \| \@patricklamber
+    AG) | \@patricklamber
 
--   [Paul Bullock](https://twitter.com/pkbullock) (CPS) \| \@pkbullock
+-   [Paul Bullock](https://twitter.com/pkbullock) (CPS) | \@pkbullock
 
--   [Paul Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) \|
+-   [Paul Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) |
     \@paulculmsee
 
 -   [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) -
     \@paulschaeflein
 
--   [Pedro Monte](https://github.com/PedroMordeP) (BindTuning) \|
+-   [Pedro Monte](https://github.com/PedroMordeP) (BindTuning) |
     PedroMordeP
 
--   [Pete Skelly](https://twitter.com/pskelly) (ThreeWill ) \| \@pskelly
+-   [Pete Skelly](https://twitter.com/pskelly) (ThreeWill ) | \@pskelly
 
--   [Phil McNiven](https://www.github.com/phil0074) \| phil0074
+-   [Phil McNiven](https://www.github.com/phil0074) | phil0074
 
--   [Ralph Rivas](https://www.twitter.com/bigpix2000) (Sogeti) \|
+-   [Ralph Rivas](https://www.twitter.com/bigpix2000) (Sogeti) |
     \@bigpix2000
 
 -   [Reshmee
     Auckloo](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Freshmeeauckloo&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=in3S5RcPERF6IZrE7fGyTyV2X1lssMlgGvVJI7%2FwnUk%3D&reserved=0)
-    \| \@reshmeeauckloo
+    | \@reshmeeauckloo
 
 -   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive)
-    \| \@RickVanRousselt
+    | \@RickVanRousselt
 
--   [Robert Dyjas](https://twitter.com/robdyy) (EQTek) \| \@Robdy
+-   [Robert Dyjas](https://twitter.com/robdyy) (EQTek) | \@Robdy
 
 -   [Rodrigo
     Pinto](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Edmi%2BUNLTf3vX5Mam5M41pfsND64ZKWPsRaWv9W4UtY%3D&reserved=0)
-    (Storm Technology) \| \@ScoutmanPt
+    (Storm Technology) | \@ScoutmanPt
 
--   [Russell Gove](https://www.twitter.com/russgove) (tronox) \|
+-   [Russell Gove](https://www.twitter.com/russgove) (tronox) |
     \@russgove
 
--   [Sekar Thangavel](https://github.com/SekarThangavel) (IBM) \|
+-   [Sekar Thangavel](https://github.com/SekarThangavel) (IBM) |
     SekarThangavel
 
--   [Sergei Sergeev](https://twitter.com/sergeev_srg) \| \@sergeev_srg
+-   [Sergei Sergeev](https://twitter.com/sergeev_srg) | \@sergeev_srg
 
--   [Siddharth Vaghasia](https://twitter.com/siddh_me) \| \@siddh_me
+-   [Siddharth Vaghasia](https://twitter.com/siddh_me) | \@siddh_me
 
--   [Someleze Diko](https://twitter.com/DikoSomeleze) \| \@DikoSomeleze
+-   [Someleze Diko](https://twitter.com/DikoSomeleze) | \@DikoSomeleze
 
--   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) \| \@StfBauer
+-   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | \@StfBauer
 
 -   [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion)
-    \| \@stephanbisser
+    | \@stephanbisser
 
--   [Tetsuya Kawahara](https://twitter.com/techan_k)  \| \@techan_k
+-   [Tetsuya Kawahara](https://twitter.com/techan_k)  | \@techan_k
 
--   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) \| \@thomyg
+-   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | \@thomyg
 
 -   [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) -
     \@toddbaginski
 
--   [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) \|
+-   [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) |
     \@TomaszPoszytek
 
--   [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) \|
+-   [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) |
     \@veronicageek
 
--   [Vipul Kelkar](https://twitter.com/vipulkelkar) (Rapid Circle) \|
+-   [Vipul Kelkar](https://twitter.com/vipulkelkar) (Rapid Circle) |
     \@vipulkelkar
 
 -   [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions)
-    \| \@yp_code
+    | \@yp_code
 
 -   [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group)
-    \| \@yhabersaat
+    | \@yhabersaat
 
 **Companies:** Here's the companies, which provided support the
 community initiative for this month by allowing their employees working
@@ -1205,62 +1205,62 @@ know and share the logo with us. Thx.
 
 **Microsoft people:** Here's the list of Microsoft people who have been
 closely involved with the PnP work during last month.
--   [Aakash Bhardwaj](https://twitter.com/aakash_316) (Microsoft) \|
+-   [Aakash Bhardwaj](https://twitter.com/aakash_316) (Microsoft) |
     \@aakash_316
 -   [Alex
-    Terentiev](https://twitter.com/alexaterentiev) \| \@alexaterentiev
+    Terentiev](https://twitter.com/alexaterentiev) | \@alexaterentiev
 -   Aline Tognini - [alinefmr](https://github.com/alinefmr)
 -   Allen Snow - [\@asnow003](https://twitter.com/asnow003)
 -   Andrey Esipov (Microsoft)
 -   [April Dunnam](httpw://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam
+    | \@aprildunnam
 -   [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 -   Ayca Bas (Microsoft)- [\@aycabs](https://twitter.com/aycabs)
--   [+Bert Jansen](http://twitter.com/O365Bert) (Microsoft) \|
+-   [+Bert Jansen](http://twitter.com/O365Bert) (Microsoft) |
     \@O365Bert
 -   Beth Pan - [\@beth_panx](https://twitter.com/beth_panx)
 -   Beverly Kim - [bvandaal](https://github.com/bvandaal)
--   [+Bob German](https://twitter.com/Bob1German) (Microsoft) \|
+-   [+Bob German](https://twitter.com/Bob1German) (Microsoft) |
     \@Bob1German
--   [Brian Dang](https://twitter.com/mrdang) (Microsoft) \| \@mrdang
+-   [Brian Dang](https://twitter.com/mrdang) (Microsoft) | \@mrdang
 -   [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft)
-    \| \@BrianTJackett
+    | \@BrianTJackett
 -   Bryan Petersen - [petey121175](https://github.com/petey121175)
--   [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) \| \@catpaint
+-   [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | \@catpaint
 -   Charles Sterling - [\@chass](https://twitter.com/chass)
 -   Christer Ljung (Microsoft)
--   [Dan Wahlin](https://twitter.com/DanWahlin) \| \@DanWahlin
--   [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) \|
+-   [Dan Wahlin](https://twitter.com/DanWahlin) | \@DanWahlin
+-   [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) |
     \@davidchesnut
 -   Doğan Erişen - [derisen](https://github.com/derisen)
--   [Dragan Panjkov](https://twitter.com/panjkov) \| \@panjkov
--   [Ed Averett](https://twitter.com/Ed_Averett) \| \@Ed_Averett
+-   [Dragan Panjkov](https://twitter.com/panjkov) | \@panjkov
+-   [Ed Averett](https://twitter.com/Ed_Averett) | \@Ed_Averett
 -   Emily Lynam (Microsoft)
 -   Elizabeth Samuel
     - [ElizabethSamuel-MSFT](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FElizabethSamuel-MSFT&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158426857%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=36jxGazKZR9TtD7Xt3E%2BqS8s0%2BcxsCPrZ6mZc2Khkog%3D&reserved=0)
 -   [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft)
-    \| \@garrytrinder
--   [Haimantika Mitra](https://twitter.com/HaimantikaM) (Microsoft) \|
+    | \@garrytrinder
+-   [Haimantika Mitra](https://twitter.com/HaimantikaM) (Microsoft) |
     \@HaimantikaM
 -   Holger Lutz - [HolgerLutz](https://github.com/HolgerLutz)
--   [+Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \|
+-   [+Hugo Bernier](https://twitter.com/bernierh) (Microsoft) |
     \@bernier
 -   Igor Ribeiro (Microsoft)
 -   [James Eccles](https://github.com/jameseccles) - jameseccles
 -   [Japhlet Nwamu](https://twitter.com/japhletnwamu) (Microsoft)
-    \| @japhletnwamu
--   [Jasmine Hoegh](https://www.twitter.com/sbjishu) (Microsoft) \|
+    | @japhletnwamu
+-   [Jasmine Hoegh](https://www.twitter.com/sbjishu) (Microsoft) |
     \@sbjishu
 -   Jason Johnston - [jasonjoh](https://github.com/jasonjoh)
 -   John Nguyen - [johnguy0](https://github.com/johnguy0)
--   [John Sudds](https://twitter.com/jsuddsjr) \| \@jsuddsjr
+-   [John Sudds](https://twitter.com/jsuddsjr) | \@jsuddsjr
 -   Jos Verlinde - [Josverl](https://github.com/Josverl)
 -   Jyoti Pal (Microsoft)
 -   Kevin Coughlin
     - [\@kevintcoughlin](https://twitter.com/kevintcoughlin)
 -   Keyur Patel
     - [keyur32](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fkeyur32&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wuL4ROZqAuJ2N6DosAfpyX5lO4BQorlpntSxHphncpA%3D&reserved=0)
--   [Koen Zomers](https://twitter.com/koenzomers) \| \@koenzomers
+-   [Koen Zomers](https://twitter.com/koenzomers) | \@koenzomers
 -   Holland Kaviani - [Holland-ODSP](https://github.com/Holland-ODSP)
 -   Laura Graham - [Lauragra](https://github.com/Lauragra)
 -   Linda Lu Cannon - [lindalu-MSFT](https://github.com/lindalu-MSFT)
@@ -1268,56 +1268,56 @@ closely involved with the PnP work during last month.
     (Microsoft)- [\@lokimeyburg](https://twitter.com/lokimeyburg)
 -   Luca Bandinelli - [lucaband](https://github.com/lucaband)
 -   Mathangi Chakrapani (Microsoft)
--   [Matthijs Hoekstra](https://twitter.com/mahoekst) \| \@mahoekst
+-   [Matthijs Hoekstra](https://twitter.com/mahoekst) | \@mahoekst
 -   Max Kulakov (Microsoft)
 -   Michael Aldridge (Microsoft)
 -   [Mikael
-    Svenson](https://twitter.com/mikaelsvenson) \| \@mikaelsvenson
+    Svenson](https://twitter.com/mikaelsvenson) | \@mikaelsvenson
 -   [Natalie
-    Pienkowska](https://twitter.com/NataliePienkow1) \| \@NataliePienkow1
+    Pienkowska](https://twitter.com/NataliePienkow1) | \@NataliePienkow1
 -   Natalie Pienkowska
     - [NataliePienkow1](https://twitter.com/NataliePienkow1)
--   [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) \|
+-   [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) |
     \@NikCharlebois
 -   Nicolas Vogt - [vogtn](https://github.com/vogtn)
--   [Niko](https://github.com/NikoMix) \| NikoMix
+-   [Niko](https://github.com/NikoMix) | NikoMix
 -   Nikola Metulev - [\@metulev](https://twitter.com/metulev)
 -   Orion O'Malley (Microsoft)
--   [Pam Green](https://www.twitter.com/contextuallib) (Microsoft) \|
+-   [Pam Green](https://www.twitter.com/contextuallib) (Microsoft) |
     \@contextuallib
 -   Parag Jain (Microsoft)
 -   Pat Miller - [\@PatMill_MSFT](https://twitter.com/PatMill_MSFT)
 -   [Patrick
-    Rodgers](https://twitter.com/mediocrebowler) \| \@mediocrebowler
+    Rodgers](https://twitter.com/mediocrebowler) | \@mediocrebowler
 -   [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft)
-    \| \@williamsrabia
--   [Richard Astbury](https://twitter.com/richorama) (Microsoft) \|
+    | \@williamsrabia
+-   [Richard Astbury](https://twitter.com/richorama) (Microsoft) |
     \@richorama
 -   Rick
-    Kirkham \| [Rick-Kirkham](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FRick-Kirkham&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=dxJSOcjYFcyHpZgsHFjTJ5dUvNhwOH7dUiSV06GC7P8%3D&reserved=0)
+    Kirkham | [Rick-Kirkham](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FRick-Kirkham&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=dxJSOcjYFcyHpZgsHFjTJ5dUvNhwOH7dUiSV06GC7P8%3D&reserved=0)
 -   [Roy Paar](https://www.linkedin.com/in/roypaar/)
 -   [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) 
--   Sam Larson \| [salarson](https://github.com/salarson)
--   Shane Weaver \| [shweaver-MSFT](https://github.com/shweaver-MSFT)  
+-   Sam Larson | [salarson](https://github.com/salarson)
+-   Shane Weaver | [shweaver-MSFT](https://github.com/shweaver-MSFT)  
 -   [+Shreyansh Agrawal](https://github.com/shagra-ms) (Microsoft)
 -   [Sébastien
-    Levert](https://twitter.com/sebastienlevert) \| \@sebastienlevert
+    Levert](https://twitter.com/sebastienlevert) | \@sebastienlevert
 -   [Srinivas
     Varukala](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsvarukala&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=hB1N9L15hhOUOVPXd%2FuYCG8sPJP0HinF1fADwf0YOCk%3D&reserved=0) (Microsoft)
-    \| \@svarukala
--   [Steven Jia](https://github.com/Steven-Jia) \| Steven-Jia
+    | \@svarukala
+-   [Steven Jia](https://github.com/Steven-Jia) | Steven-Jia
 -   Shubham Gatkal (Microsoft)
--   [Tejas Mehta](https://twitter.com/tpmehta) \| \@tpmehta
--   Tom Resing \| [\@resing](https://twitter.com/resing)
+-   [Tejas Mehta](https://twitter.com/tpmehta) | \@tpmehta
+-   Tom Resing | [\@resing](https://twitter.com/resing)
 -   Tomomi Imura (Microsoft)
-    \| [\@girlie_mac](https://twitter.com/girlie_mac)
+    | [\@girlie_mac](https://twitter.com/girlie_mac)
 -   [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
-    \| \@vesajuvonen
--   Wajeed Shaikh \| [Wajeed-msft](https://github.com/Wajeed-msft)
+    | \@vesajuvonen
+-   Wajeed Shaikh | [Wajeed-msft](https://github.com/Wajeed-msft)
 -   [+Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
-    \| \@waldekm
--   [Wictor Wilen](https://twitter.com/wictor) \| \@wictor
--   [Vincent Biret](https://twitter.com/baywet) (Microsoft) \| \@baywet 
+    | \@waldekm
+-   [Wictor Wilen](https://twitter.com/wictor) | \@wictor
+-   [Vincent Biret](https://twitter.com/baywet) (Microsoft) | \@baywet 
 
 ## MVP Community team 
 
@@ -1329,83 +1329,83 @@ commitment to the open-source and community-driven work by constantly
 contributing to the benefit of the others in the community.
 Thank you for all that you do!
 -   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital)
-    \| \@appieschot
+    | \@appieschot
 -   [Andrew Connell](https://twitter.com/andrewconnell)
-    (Voitanos) \| \@andrewconnell
+    (Voitanos) | \@andrewconnell
 -   [Andrew Koltyakov](https://twitter.com/andrewkoltyakov) (ARVO
-    Systems) \| \@andrewkoltyakov
+    Systems) | \@andrewkoltyakov
 -   [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting)
-    \| \@Beau\_\_Cameron
+    | \@Beau\_\_Cameron
 -   [Chris Kent](https://twitter.com/theChrisKent)
-    (DMI) \| \@theChrisKent
+    (DMI) | \@theChrisKent
 -   [David Warner II](https://twitter.com/DavidWarnerII) (Catapult)
-    \| \@DavidWarnerII
+    | \@DavidWarnerII
 -   [+Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis
-    Consulting) \| [\@Spdcp](/t5/user/viewprofilepage/user-id/386549)
+    Consulting) | [\@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
 -   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf
-    Consulting) \| \@eliostruyf
+    Consulting) | \@eliostruyf
 -   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis
-    Consulting) \| \@EEMancini
+    Consulting) | \@EEMancini
 -   [Eric Overfield](https://twitter.com/EricOverfield) (PixelMill)
-    \| \@EricOverfield
+    | \@EricOverfield
 -   [+Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo
-    Intranet) \| \@erwinvanhunen 
+    Intranet) | \@erwinvanhunen 
 -   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions)
-    \| \@gautamdsheth
+    | \@gautamdsheth
 -   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting)
-    \| [\@GSiVed](/t5/user/viewprofilepage/user-id/384388)
+    | [\@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388)
 -   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions)
-    \| [\@joaojmendes](/t5/user/viewprofilepage/user-id/442957)
+    | [joaojmendes](https://github.com/joaojmendes)
 -   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm
-    Technology) \| \@JoelFMRodrigues
+    Technology) | \@JoelFMRodrigues
 -   [+Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
-    \| \@jfj1997
+    | \@jfj1997
 -   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava)
-    \| \@LauraKokkarinen
--   [Luise Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
+    | \@LauraKokkarinen
+-   [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
 -   [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis
-    Consulting) \| \@sympmarc
+    Consulting) | \@sympmarc
 -   [Paolo Pialorsi](https://twitter.com/PaoloPia)
-    (Piasys.com) \| \@PaoloPia
+    (Piasys.com) | \@PaoloPia
 -   [Patrick Lamber](https://twitter.com/patricklamber) (Expertsinside
-    AG) \| \@patricklamber
--   [Paul Bullock](https://twitter.com/pkbullock) (CPS) \| \@pkbullock
+    AG) | \@patricklamber
+-   [Paul Bullock](https://twitter.com/pkbullock) (CPS) | \@pkbullock
 -   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive)
-    \| \@RickVanRousselt
--   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) \| \@StfBauer
+    | \@RickVanRousselt
+-   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | \@StfBauer
 -   [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion)
-    \| \@stephanbisser
--   [Tetsuya Kawahara](https://twitter.com/techan_k)  \| \@techan_k
--   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) \| \@thomyg
+    | \@stephanbisser
+-   [Tetsuya Kawahara](https://twitter.com/techan_k)  | \@techan_k
+-   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | \@thomyg
 -   [Velin Georgiev](https://twitter.com/velingeorgiev) (Pramerica)
-    \| \@velingeorgiev
+    | \@velingeorgiev
 -   [Veronique Lengelle](https://twitter.com/veronicageek) (CPS)
-    \| \@veronicageek
+    | \@veronicageek
 -   [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions)
-    \| \@yp_code
+    | \@yp_code
 Here are the Microsoft Internal PnP Core team members:
 -   [Alex
-    Terentiev](https://twitter.com/alexaterentiev) \| \@alexaterentiev
--   [April Dunnam](https://twitter.com/aprildunnam) \| \@aprildunnam
--   [Bert Jansen](https://twitter.com/O365Bert) \| \@O365Bert
--   [Bob German](https://twitter.com/Bob1German) \| \@Bob1German
+    Terentiev](https://twitter.com/alexaterentiev) | \@alexaterentiev
+-   [April Dunnam](https://twitter.com/aprildunnam) | \@aprildunnam
+-   [Bert Jansen](https://twitter.com/O365Bert) | \@O365Bert
+-   [Bob German](https://twitter.com/Bob1German) | \@Bob1German
 -   [Garry Trinder](https://twitter.com/garrytrinder)
-    \| [\@garrytrinder](/t5/user/viewprofilepage/user-id/716447)
--   [Hugo Bernier](https://twitter.com/bernierh) \| \@bernierh
--   [Koen Zomers](https://twitter.com/koenzomers) \| \@koenzomers
+    | [garrytrinder](https://github.com/garrytrinder)
+-   [Hugo Bernier](https://twitter.com/bernierh) | \@bernierh
+-   [Koen Zomers](https://twitter.com/koenzomers) | \@koenzomers
 -   [Mikael Svenson](https://twitter.com/mikaelsvenson)
-    \| [\@MikaelSvenson](/t5/user/viewprofilepage/user-id/734173)
+    | [\@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173)
 -   [Natalie
-    Pienkowska](https://twitter.com/NataliePienkow1) \| \@NataliePienkow1
+    Pienkowska](https://twitter.com/NataliePienkow1) | \@NataliePienkow1
 -   [Patrick Rodgers](https://twitter.com/mediocrebowler)
-    \| \@mediocrebowler
+    | \@mediocrebowler
 -   [Rabia Williams](https://twitter.com/williamsrabia)
-    \| [\@williamsrabia](/t5/user/viewprofilepage/user-id/792201)
+    | [rabwill](https://github.com/rabwill)
 -   [Sébastien Levert](https://twitter.com/sebastienlevert)
-    \| [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766)
--   [Vesa Juvonen](https://twitter.com/vesajuvonen) \| \@vesajuvonen
--   [Waldek Mastykarz](https://twitter.com/waldekm) \| \@waldekm
--   [Wictor Wilen](https://twitter.com/wictor) \| \@wictor
+    | [sebastienlevert](https://github.com/sebastienlevert)
+-   [Vesa Juvonen](https://twitter.com/vesajuvonen) | \@vesajuvonen
+-   [Waldek Mastykarz](https://twitter.com/waldekm) | \@waldekm
+-   [Wictor Wilen](https://twitter.com/wictor) | \@wictor
 
 ## Next steps 
 

@@ -28,7 +28,7 @@ Extensibility look book
 gallery](https://adoption.microsoft.com/extensibility-look-book), attend
 one of a growing list of [Sharing is
 Caring](https://pnp.github.io/sharing-is-caring/) events.  The
-[Microsoft 365 Update - Community (PnP) \| April
+[Microsoft 365 Update - Community (PnP) | April
 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-april-2021-update/ba-p/2264250)
 is now available.  SPFx v1.12.1 with Node v14 and Gulp4 support was
 released for public beta today and GA slated for end of April.  In this
@@ -58,9 +58,9 @@ package to Teams Admin Center.    
         with your community at:  <https://aka.ms/pnpwatchparty>
     -   RSVP to attend - 2-hour livestream -- Building Apps for with
         Microsoft Graph -- 2 sessions -- April 14th, 2:00pm AEST (Asia
-        Pacific Region) \| [APAC Watch
+        Pacific Region) | [APAC Watch
         Party](https://camerondwyer.com/2021/04/07/microsoft-graph-learn-together-event-join-our-apac-watch-party/)
-        and 8:30am PDT (North America & Europe Regions) \|
+        and 8:30am PDT (North America & Europe Regions) |
         <https://aka.ms/learntogether-graph>
 -   Try public beta of SPFx v1.12.1, access through npm.
 -   Complete the Developer Success Survey
@@ -109,9 +109,9 @@ Channel](https://aka.ms/m365pnp-videos).
 -   Community contributors and companies which have been involved in the
     past month -- [12:50](https://youtu.be/CP_q6eRe3X4?t=770) 
 -   **Topic: **Getting started with Microsoft Viva Connections Desktop -
-    [Tejas Mehta](http://twitter.com/tpmehta) (Microsoft) \| \@tpmehta
+    [Tejas Mehta](http://twitter.com/tpmehta) (Microsoft) | \@tpmehta
     and [Prateek Dudeja](http://twitter.com/PrateekDudeja4) (Microsoft)
-    \| \@PrateekDudeja4 -- [16:16](https://youtu.be/CP_q6eRe3X4?t=976)
+    | \@PrateekDudeja4 -- [16:16](https://youtu.be/CP_q6eRe3X4?t=976)
 The full recording of this session is available from Microsoft 365 &
 SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found
@@ -123,29 +123,29 @@ Additional resources on covered topics and discussions.
 -   Documentation - [Add Viva Connections for Microsoft Teams
     desktop](https://docs.microsoft.com/SharePoint/viva-connections) 
 
--   Overview - [Microsoft Viva](https://aka.ms/Viva) \|
+-   Overview - [Microsoft Viva](https://aka.ms/Viva) |
     <https://aka.ms/Viva>
 
 -   PnP Weekly -- Episode 122 with guest MVP [Mark
-    Rackley](http://twitter.com/mrackley) (PAIT Group) \| \@mrackley\|
+    Rackley](http://twitter.com/mrackley) (PAIT Group) | \@mrackley|
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-122/ba-p/2268519)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-122-12th-of-april-2021/)
 
 -   [Microsoft 365 PnP Community
     hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP)
-    \| aka.ms/m365pnp/community 
+    | aka.ms/m365pnp/community 
 
 -   [Microsoft 365 Extensibility look book
-    gallery](https://adoption.microsoft.com/extensibility-look-book) \|
+    gallery](https://adoption.microsoft.com/extensibility-look-book) |
     aka.ms/m365/extensibility
 
--   [Microsoft 365 Developer Podcast](https://m365devpodcast.com/) \|
+-   [Microsoft 365 Developer Podcast](https://m365devpodcast.com/) |
     m365devpodcast.com
 
 -   Viva Connections <https://aka.ms/VivaConnections> 
 
--   Microsoft Teams Samples Gallery \| aka.ms/teams-samples
+-   Microsoft Teams Samples Gallery | aka.ms/teams-samples
 
 **Additional Resources:**
 -   [PnP Weekly - Videos](https://aka.ms/pnpweekly)
@@ -171,26 +171,26 @@ Additional resources on covered topics and discussions.
 -   SharePoint Development UserVoice - new feature requests
     - <http://aka.ms/spdev-uservoice>
 
-**Upcoming calls \| Recurrent invites:**
--   **Office add-in monthly call --** April 14th at 8:00 am PDT \|
+**Upcoming calls | Recurrent invites:**
+-   **Office add-in monthly call --** April 14th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **M365 General Dev call --** April 15th at 7:00 am PDT \|
+-   **M365 General Dev call --** April 15th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Identity Platform** -- April 15th at 9:00 am PDT \|
+-   **Microsoft Identity Platform** -- April 15th at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar> 
--   **Microsoft Teams monthly call --** April 20th at 8:00 am PDT \|
+-   **Microsoft Teams monthly call --** April 20th at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
--   **Power Apps monthly call --** April 21st at 8:00 am PDT \|
+-   **Power Apps monthly call --** April 21st at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** April 22nd at 7:00 am PDT \|
+-   **SharePoint Framework call --** April 22nd at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **M365 General Dev call --** April 29th at 7:00 am PDT \|
+-   **M365 General Dev call --** April 29th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Graph call -** May 4th at 8:00 am PDT \|
+-   **Microsoft Graph call -** May 4th at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint monthly call --** May 11th at 8:00am PDT \|
+-   **SharePoint monthly call --** May 11th at 8:00am PDT |
     <https://aka.ms/sp-call>
--   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
 \"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics

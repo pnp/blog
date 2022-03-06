@@ -18,12 +18,12 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by Business Applications MVP, Flow Pro Show co-host, NLightning
 co-founder and Technical Evangelist at SharePoint ISV Lightning Tools
-[Sandy Ussia](https://twitter.com/SandyU) \| \@SandyU.  
+[Sandy Ussia](https://twitter.com/SandyU) | \@SandyU.  
 Topics discussed in this session include:  The appeal of Power Apps and
 Power Automate - enabling Power Users especially in resource constrained
 smaller businesses, whether or not Power Apps is the epitome or
@@ -66,7 +66,7 @@ everyone for your contributions to the community!
 
 
 **Microsoft articles:**
--   [What's New in Microsoft Teams \| April
+-   [What's New in Microsoft Teams | April
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2021/ba-p/2305291?WT.mc_id=m365-27094-wmastyka) -
     Microsoft
 -   [Skype for Business Online retires July 31, 2021 -- here's what to
@@ -75,15 +75,15 @@ everyone for your contributions to the community!
 -   [SharePoint Roadmap Pitstop: April
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-april-2021/ba-p/2308680?WT.mc_id=m365-27094-wmastyka) -
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
-    \| \@mkashman
+    | \@mkashman
 -   [Microsoft Lists: Five free virtual workshops, May 10-14,
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-lists-five-free-virtual-workshops-may-10-14-2021/ba-p/2303602?WT.mc_id=m365-27094-wmastyka) -
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
-    \| \@mkashman
+    | \@mkashman
 -   [Announcing SharePoint Framework 1.12.1 -- Extending more of
     Microsoft
     Teams](https://developer.microsoft.com/en-us/microsoft-365/blogs/announcing-sharepoint-framework-1-12-1-extending-more-of-microsoft-teams/?WT.mc_id=m365-27094-wmastyka) -
-    [SharePoint team](https://twitter.com/sharepoint) \| \@SharePoint
+    [SharePoint team](https://twitter.com/sharepoint) | \@SharePoint
 -   [Learn how to develop apps with the Microsoft Graph
     Toolkit](https://developer.microsoft.com/en-us/microsoft-365/blogs/learn-how-to-develop-apps-with-the-microsoft-graph-toolkit/?WT.mc_id=m365-27094-wmastyka) -
     Microsoft
@@ -97,67 +97,67 @@ everyone for your contributions to the community!
     API](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-mailbag-create-engaging-apps-with-the-microsoft-teams-activity-feed-api/?WT.mc_id=m365-27094-wmastyka)
     - [Sébastien Levert](https://twitter.com/sebastienlevert)
     (Microsoft)
-    \| [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766)
+    | [sebastienlevert](https://github.com/sebastienlevert)
 -   [How to Set Up Tailwind CSS in a SharePoint Framework
     Project](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-set-up-tailwind-css-in-a-spfx-project/ba-p/2313192?WT.mc_id=m365-27094-wmastyka)
     - [Ari Gunawan](https://twitter.com/arigunawan3023) (DevStack)
-    \| \@arigunawan3023
+    | \@arigunawan3023
 -   [Power Platform MS Forms Quiz with dynamic Leader Board created
     using Power Automate and HTTP
     Trigger](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/ba-p/2308467?WT.mc_id=m365-27094-wmastyka) -
     [Damien Bird](https://twitter.com/DamoBird365) (Aberdeen City
     Council)
-    \| [\@DamoBird365](/t5/user/viewprofilepage/user-id/1035201)
+    | [\@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
 -   [How to get Source Code files for Power Apps Canvas
     apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-get-source-code-files-for-power-apps-canvas-apps/ba-p/2308822?WT.mc_id=m365-27094-wmastyka) - [Luise
-    Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
+    Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
 -   [CLI for Microsoft 365
     v3.9](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v3-9/ba-p/2304639?WT.mc_id=m365-27094-wmastyka) -
     [Garry Trinder](https://twitter.com/garrytrinder) (CPS)
-    \| [\@garrytrinder](/t5/user/viewprofilepage/user-id/716447)
+    | [garrytrinder](https://github.com/garrytrinder)
 -   [Power Virtual Agents bot setting the Out Of
     Office](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/power-virtual-agents-bot-setting-the-out-of-office/ba-p/2303716?WT.mc_id=m365-27094-wmastyka) -
     [Vesa Nopanen](https://twitter.com/vesanopanen) (Sulava)
-    \| \@vesanopanen
+    | \@vesanopanen
 -   [Office Add-in Developer Community (PnP) -- March 2021
     update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-in-developer-community-pnp-march-2021-update/ba-p/2304950?WT.mc_id=m365-27094-wmastyka)
     - [David Chesnut](https://twitter.com/msdavech) (Microsoft)
-    \| \@msdavech
+    | \@msdavech
 -   [Teams - an adoption idea? Transfer your group chat emails to Teams
     with Power
     Automate](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/ba-p/2290219?WT.mc_id=m365-26913-wmastyka)
     - [Damien Bird](https://twitter.com/DamoBird365) (Aberdeen City
     Council)
-    \| [\@DamoBird365](/t5/user/viewprofilepage/user-id/1035201)
+    | [\@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
 -   [SPFx Check Locale - a nice option to check your localization
     consistency across SharePoint
     Framework\...](https://spblog.net/post/2021/04/29/spfx-check-locale-a-nice-option-to-check-your-localization-consistency-across-sharepoint-framework-solution) -
     [Sergei Sergeev](https://twitter.com/sergeev_srg) (Mastaq)
-    \| \@sergeev_srg
+    | \@sergeev_srg
 -   [SharePoint Framework v1.12.1 - What's in the latest Update of
     SPFx?](https://www.voitanos.io/blog/sharepoint-framework-v1-12-1-whats-in-the-latest-update-of-spfx/?utm_sq=gq05q2ejo9&utm_source=twitter&utm_medium=social&utm_campaign=voitanos&utm_content=ownblogposts) -
     [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos)
-    \| \@andrewconnell
+    | \@andrewconnell
 -   [Power Platform Rewind April
     2021](https://www.youtube.com/watch?v=7Hh4Rk6xOcU) - [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam
+    | \@aprildunnam
 -   [Episode #152​ - Managing SharePoint Online Data with Microsoft Graph
     SDK for .NET](https://www.youtube.com/watch?v=5uufTXPCZNY) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) \| \@PaoloPia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia
 -   [Flow Pro
     Show](https://www.youtube.com/channel/UCf3l6OWcEKEoR7JaKyxm-kA) - 
     [Sandy Ussia](https://twitter.com/SandyU) (LightningTools)
-    \|\@SandyU & [Daniel Laskewitz](https://twitter.com/laskewitz)
-    (Sogeti) \| \@laskewitz
+    |\@SandyU & [Daniel Laskewitz](https://twitter.com/laskewitz)
+    (Sogeti) | \@laskewitz
 -   [Azure Cloud Shell now available in Microsoft
     365](https://regarding365.com/azure-cloud-shell-now-available-in-microsoft-365-86be005d21b7) -
     [Robert Crane](https://twitter.com/directorcia) (CIAOPS)
-    \| \@directorcia
+    | \@directorcia
 -   [Bulk-create Planner tasks with dates using Microsoft Power
     Automate](https://blog.mastykarz.nl/bulk-create-planner-tasks-dates-microsoft-power-automate/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+WaldekMastykarz+%28Waldek+Mastykarz%29) -
     [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
-    \| \@waldekm
+    | \@waldekm
 
 **Additional resources:**
 -   [Maturity Model for Microsoft

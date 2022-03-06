@@ -17,11 +17,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| \@waldekm are
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by US-based, Microsoft Senior Product Designer on the SharePoint
-Team, [Katie Swanson](http://twitter.com/kswansondesign) (Microsoft) \|
+Team, [Katie Swanson](http://twitter.com/kswansondesign) (Microsoft) |
 \@kswansondesign.   Topics discussed in this session include:  The art
 of the possible, the design process and baking in customer feedback,
 accessibility testing, evolution of and possible future updates to
@@ -69,7 +69,7 @@ everyone for your contributions to the community!
 -   [Best practices for using global navigation in the SharePoint app
     bar](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/best-practices-for-using-global-navigation-in-the-sharepoint-app/ba-p/2361916?WT.mc_id=m365-29364-wmastyka) -
     [Melissa Torres](https://twitter.com/Meltorac) (Microsoft)
-    \| \@Meltorac
+    | \@Meltorac
 -   [Publish your apps to the Microsoft Teams
     store](https://developer.microsoft.com/en-us/microsoft-365/blogs/publish-your-apps-to-the-microsoft-teams-store/?WT.mc_id=m365-29364-wmastyka) -
     Microsoft
@@ -82,52 +82,52 @@ everyone for your contributions to the community!
 -   [Microsoft 365 PnP Community Spotlight: Garry
     Trinder](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-garry-trinder/ba-p/2377740?WT.mc_id=m365-29364-wmastyka)
     - [Garry Trinder](https://twitter.com/garrytrinder) (CPS)
-    \| [\@garrytrinder](/t5/user/viewprofilepage/user-id/716447) &
-    [Luise Freese](https://twitter.com/LuiseFreese) \| \@LuiseFreese
+    | [garrytrinder](https://github.com/garrytrinder) &
+    [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
 -   [Do you need ngrok to develop Microsoft Teams
     apps?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ba-p/2353206?WT.mc_id=m365-29364-wmastyka) -
     [Bob German](https://twitter.com/Bob1German) (Microsoft)
-    \| \@Bob1German
+    | \@Bob1German
 -   [HTWOO UI launched -- Fluent Design in HTML and
     CSS](https://n8d.at/htwoo-ui-launched-fluent-design-in-html-and-css/) -
-    [Stefan Bauer](https://twitter.com/StfBauer) (N8D) \| \@StfBauer
+    [Stefan Bauer](https://twitter.com/StfBauer) (N8D) | \@StfBauer
 -   [Find Power Automate Flows that are connected to your site or
     list](https://www.cloudappie.nl/search-flows-connections/)
     - [Albert-Jan Schot](https://twitter.com/appieschot) (Portiva)
-    \| \@appieschot
+    | \@appieschot
 -   [Power Apps Validation and JSON Parsing with
     Regex](https://www.sharepointsiren.com/2021/05/power-apps-validation-and-json-parsing-with-regex/)
     -  [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam
+    | \@aprildunnam
 -   [Power Automate SharePoint Get Column
     Changes](https://www.sharepointsiren.com/2021/05/power-automate-sharepoint-get-column-changes/) -
     [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam
+    | \@aprildunnam
 -   [Problems Restricting SharePoint People Column to a Specific
     Group](https://camerondwyer.com/2021/05/17/problems-restricting-sharepoint-people-column-to-a-specific-group/) -
     [Cameron Dwyer](https://twitter.com/CameronDwyer) (OnePlace
-    Solutions) \| \@CameronDwyer
+    Solutions) | \@CameronDwyer
 -   [Preconsent multiple scopes with Microsoft Graph
     Toolkit](https://blog.mastykarz.nl/preconsent-multiple-scopes-microsoft-graph-toolkit/) -
     [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
-    \| \@waldekm
+    | \@waldekm
 -    [The right way to publish SharePoint Framework library
     packages](https://blog.mastykarz.nl/publish-sharepoint-framework-library-packages/) -
     [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
-    \| \@waldekm
+    | \@waldekm
 -   [Episode #155 - Microsoft Graph Toolkit Agenda
     Component](https://www.youtube.com/watch?v=1FRIDCJPXOQ) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) \| \@PaoloPia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia
 -   [Pro tips: What to do when you don't feel heard at
     work](https://regarding365.com/pro-tips-what-to-do-when-you-dont-feel-heard-at-work-dd841bf47cd1) -
-    [Sarah Haase](https://twitter.com/sarahhaase) \|
-    \@sarahhaase, [Antonio Maio](https://twitter.com/AntonioMaio2) \|
+    [Sarah Haase](https://twitter.com/sarahhaase) |
+    \@sarahhaase, [Antonio Maio](https://twitter.com/AntonioMaio2) |
     \@AntonioMaio2 and [Mike
-    Maadarani](https://twitter.com/mikemaadarani) \| \@mikemaadarani
+    Maadarani](https://twitter.com/mikemaadarani) | \@mikemaadarani
 -   [Microsoft 365 Fiscal Year
     Retention](https://joannecklein.com/2021/05/18/microsoft-365-fiscal-year-retention/)
     - [Joanne C Klein](https://twitter.com/JoanneCKlein)
-    \| \@JoanneCKlein
+    | \@JoanneCKlein
 
 **Additional resources:**
 -   [Power Platform Sample

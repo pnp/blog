@@ -69,65 +69,65 @@ initiative](http://aka.ms/m365pnp) from May 2021:
 Most viewed videos in the [Microsoft 365 Community (PnP) YouTube
 channel](https://aka.ms/m365pnp-videos) during May 2021:
 1.  [Introduction to Microsoft Teams Developer
-    Portal](https://www.youtube.com/watch?v=LYsU4R_L11g) \| [Karthig
-    Balendran](https://twitter.com/KarthigBalendr1) (Microsoft) \| 5,543
+    Portal](https://www.youtube.com/watch?v=LYsU4R_L11g) | [Karthig
+    Balendran](https://twitter.com/KarthigBalendr1) (Microsoft) | 5,543
 2.  [Microsoft Teams Meeting Questionnaire App with SharePoint
-    Framework](https://www.youtube.com/watch?v=gDcT7yu6UmU) \| [Nanddeep
-    Nachan](https://twitter.com/NanddeepNachan) \| 4,311
+    Framework](https://www.youtube.com/watch?v=gDcT7yu6UmU) | [Nanddeep
+    Nachan](https://twitter.com/NanddeepNachan) | 4,311
 3.  [Building a beautifully designed Intranet with SharePoint - latest
     design and branding
-    capabilities](https://www.youtube.com/watch?v=Dc07NIiDJAI) \| [Cathy
+    capabilities](https://www.youtube.com/watch?v=Dc07NIiDJAI) | [Cathy
     Dew](https://twitter.com/catpaint1) (Microsoft) & [Katie
-    Swanson](https://twitter.com/kswansondesign) (Microsoft) \| 3,631
+    Swanson](https://twitter.com/kswansondesign) (Microsoft) | 3,631
 4.  [Microsoft Lists integration with Power
-    BI](https://www.youtube.com/watch?v=D9rGuWllDos) \| [Mark
-    Kashman](https://twitter.com/mkashman) (Microsoft) \| 3,416
+    BI](https://www.youtube.com/watch?v=D9rGuWllDos) | [Mark
+    Kashman](https://twitter.com/mkashman) (Microsoft) | 3,416
 5.  [Getting started with Site Designs in SharePoint
     Online](https://www.youtube.com/watch?v=ZjTnlbMJZfY) - [Laura
-    Kokkarinen](https://twitter.com/laurakokkarinen) (Sulava) \| 2,985
+    Kokkarinen](https://twitter.com/laurakokkarinen) (Sulava) | 2,985
 6.  [Working with Microsoft Lists
     (webinar)](https://www.youtube.com/watch?v=HyBD_SOt_BQ) - Harini
     Saladi, [Miceile Barrett](https://twitter.com/MSFTMiceile),
     [Chakkaradeep Chandran](https://twitter.com/chakkaradeep) and [Mark
-    Kashman](https://twitter.com/mkashman) \| 2,925
+    Kashman](https://twitter.com/mkashman) | 2,925
 7.  [Architecting Your
-    Intranet](https://www.youtube.com/watch?v=8jPzjNlf3bM) \| [Melissa
-    Torres](https://twitter.com/Meltorac) (Microsoft) \| 2,024
+    Intranet](https://www.youtube.com/watch?v=8jPzjNlf3bM) | [Melissa
+    Torres](https://twitter.com/Meltorac) (Microsoft) | 2,024
 8.  [SharePoint Framework Tutorial 1 - HelloWorld
-    WebPart](https://www.youtube.com/watch?v=_O2Re5uRLoo) \| 1,992
+    WebPart](https://www.youtube.com/watch?v=_O2Re5uRLoo) | 1,992
 9.  [Introducing: New Employee Onboarding - a Microsoft Teams app
-    template](https://www.youtube.com/watch?v=-S_lHXWEobk) \| [Nidhi
-    Sharma](https://twitter.com/nidsonbirdie) (Microsoft) \| 1,890
+    template](https://www.youtube.com/watch?v=-S_lHXWEobk) | [Nidhi
+    Sharma](https://twitter.com/nidsonbirdie) (Microsoft) | 1,890
 10. [Getting started on deploying Viva Connections for Microsoft Teams
-    desktop](https://www.youtube.com/watch?v=-qiRxrPexNI) \| 1,751
+    desktop](https://www.youtube.com/watch?v=-qiRxrPexNI) | 1,751
 Most viewed videos in the [Microsoft 365 Developer YouTube
 channel](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ)
 during May 2021:
 1.  [Build the next generation of collaborative apps on the Microsoft
-    Teams platform](https://www.youtube.com/watch?v=4eRBD2Hg5sE) \|
+    Teams platform](https://www.youtube.com/watch?v=4eRBD2Hg5sE) |
     5,286
 2.  [Build Outlook Add-ins that integrate your solution seamlessly into
     your users' Outlook
-    experience](https://www.youtube.com/watch?v=Dd4SOA5dUmw)​ \| Juan
+    experience](https://www.youtube.com/watch?v=Dd4SOA5dUmw)​ | Juan
     Balmori, Hitesh Manwar - 1,332
 3.  [Authenticate and connect with Microsoft Graph - June
-    2019](https://www.youtube.com/watch?v=xWhyG-SuyQM) \| 1,317
+    2019](https://www.youtube.com/watch?v=xWhyG-SuyQM) | 1,317
 4.  [An introduction to Microsoft Graph for developers - Part I -
     Getting started - October
-    2019](https://www.youtube.com/watch?v=EBbnpFdB92A) \| 1,106
+    2019](https://www.youtube.com/watch?v=EBbnpFdB92A) | 1,106
 5.  [Office Scripts Tutorial: Introduction to the Code
-    Editor](https://www.youtube.com/watch?v=x2kmW_oSnP0) \| 1,014
+    Editor](https://www.youtube.com/watch?v=x2kmW_oSnP0) | 1,014
 6.  [Microsoft Graph
-    Explained](https://www.youtube.com/watch?v=3Xz6fWuU8ZY) \| 944
+    Explained](https://www.youtube.com/watch?v=3Xz6fWuU8ZY) | 944
 7.  [Demo: Getting started with Power Apps
-    Portals](https://www.youtube.com/watch?v=HLC4voniLXU) \| [Brian
-    Knight](https://twitter.com/BrianKnight) (Pragmatic Works) \| 907
+    Portals](https://www.youtube.com/watch?v=HLC4voniLXU) | [Brian
+    Knight](https://twitter.com/BrianKnight) (Pragmatic Works) | 907
 8.  [Create interactive conversational bots for Microsoft
-    Teams](https://www.youtube.com/watch?v=zSIysk0yL0Q) \| 869
+    Teams](https://www.youtube.com/watch?v=zSIysk0yL0Q) | 869
 9.  [Build and Office add-in using modern JavaScript tools and
-    technologies](https://www.youtube.com/watch?v=Aszwh_h5MtM) \| 823
+    technologies](https://www.youtube.com/watch?v=Aszwh_h5MtM) | 823
 10. [Getting Started with Microsoft Graph and Application
-    Registration](https://www.youtube.com/watch?v=93j0MmRruFo) \| 787
+    Registration](https://www.youtube.com/watch?v=93j0MmRruFo) | 787
 Main resources around Microsoft 365 Community:
 -   Microsoft 365 Community -
     [http://aka.ms/m365pnp](http://aka.ms/sppnp) - One location for all
@@ -152,7 +152,7 @@ development topics from
     2021](https://developer.microsoft.com/en-us/microsoft-365/blogs/whats-new-in-office-platform-at-build-2021/)
 -   25th of May - [Microsoft Graph @ Build
     2021](https://developer.microsoft.com/en-us/microsoft-365/blogs/whats-new-in-microsoft-graph-at-build-2021/)
--   25th of May - [What's New for the Microsoft 365 Developer \| Build
+-   25th of May - [What's New for the Microsoft 365 Developer | Build
     2021](https://developer.microsoft.com/en-us/microsoft-365/blogs/whats-new-in-microsoft-365-platform-at-build-2021/)
 -   24th of May - [Microsoft Teams App Development Challenge
     Winners!](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-teams-app-development-challenge-winners/) 
@@ -224,7 +224,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     ngrok](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ba-p/2351012){#link_26
     .page-link .lia-link-navigation .lia-custom-event}
 -   10th of May - [Ari
-    Gunawan](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/73228)
+    Gunawan](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/73228)
     (DevStack) - [Community Sample: News Ticker app (SPFx
     Extensions)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/community-sample-news-ticker-app-spfx-extensions/ba-p/2337566)
 -   10th of May - [Django Lohn](https://twitter.com/lohndjango)
@@ -266,7 +266,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     (Microsoft) - [What's up with
     Markdown?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-s-up-with-markdown/ba-p/2323834)
 -   1st of May - [Ari
-    Gunawan](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/73228)
+    Gunawan](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/73228)
     (DevStack) - [How to Set Up Tailwind CSS in a SPFx
     Project](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-set-up-tailwind-css-in-a-spfx-project/ba-p/2313192)
 Community call recording blog posts:
@@ -854,16 +854,16 @@ involved!
 Please see all the Microsoft 365 development documentation updates from
 the related documentation sets and repositories as listed below:
 -   Microsoft Teams platform documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) \|
+    Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) |
     [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
 -   SharePoint Developer documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) \|
+    Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) |
     [GitHub](https://github.com/SharePoint/sp-dev-docs)
 -   Microsoft Graph documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/graph) \|
+    Docs](https://docs.microsoft.com/en-us/graph) |
     [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
 -   Office add-in documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) \|
+    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
 
 ### Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
@@ -881,50 +881,50 @@ last monthly summary:
 -   [Introduction to Viva Connections mobile extensibility
     model](https://www.youtube.com/watch?v=GRFKpvq98Bg) - [Vinit Kumar
     Baheti](https://twitter.com/vinitbaheti) (Microsoft)
-    \| \@vinitbaheti
+    | \@vinitbaheti
 -   [Populate your Excel templates dynamically using Office Scripts and
     Power Automate](https://www.youtube.com/watch?v=LHDfyxf9BNc)
-    - [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) \|
-    [\@NancyatMSFT](/t5/user/viewprofilepage/user-id/918701) & [Damien
-    Bird](https://twitter.com/DamoBird365) (DamoBird365) \|
-    [\@DamoBird365](/t5/user/viewprofilepage/user-id/1035201)
+    - [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) |
+    [\@NancyatMSFT](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/918701) & [Damien
+    Bird](https://twitter.com/DamoBird365) (DamoBird365) |
+    [\@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
 -   [SharePoint Syntex integration and automation
     options](https://www.youtube.com/watch?v=AN8I51MTirY) - [Bert
-    Jansen](https://twitter.com/o365bert) (Microsoft) \| \@o365bert
+    Jansen](https://twitter.com/o365bert) (Microsoft) | \@o365bert
 -   [How to build and publish a SharePoint Syntex document understanding
     model](https://www.youtube.com/watch?v=xwTNnznWSPU) - [James
-    Eccles](https://twitter.com/jimdeccles) (Microsoft) \| \@jimdeccles
+    Eccles](https://twitter.com/jimdeccles) (Microsoft) | \@jimdeccles
 -   [Building virtual tour experience with SharePoint spaces 360° tour
     web part](https://www.youtube.com/watch?v=nYx9ej0OdOo) - Matt
     Crisler (Microsoft)
 -   [Introduction to Microsoft Teams Developer
     Portal](https://www.youtube.com/watch?v=LYsU4R_L11g) - [Karthig
-    Balendran](https://twitter.com/KarthigBalendr1) (Microsoft) \|
+    Balendran](https://twitter.com/KarthigBalendr1) (Microsoft) |
     \@KarthigBalendr1
 -   [Inspire, inform and prepare employees transition to the new hybrid
     Workplace transformation
     site](https://www.youtube.com/watch?v=eKvprcQLTIY) - Holland Kaviani
     (Microsoft) & [Matt Wolodarsky](https://twitter.com/mwolodarsky)
-    (Microsoft) \| \@mwolodarsky 
+    (Microsoft) | \@mwolodarsky 
 -   [SharePoint Syntex: Product overview and latest feature
     updates](https://www.youtube.com/watch?v=dxGLMySarrQ) - [Sean
-    Squires](https://twitter.com/iamseansquires) (Microsoft) \|
+    Squires](https://twitter.com/iamseansquires) (Microsoft) |
     \@iamseansquires, [James Eccles](https://twitter.com/jimdeccles)
-    (Microsoft) \| \@jimdeccles and [Bert
-    Jansen](https://twitter.com/o365bert) (Microsoft) \| \@o365bert
+    (Microsoft) | \@jimdeccles and [Bert
+    Jansen](https://twitter.com/o365bert) (Microsoft) | \@o365bert
 -   [Delegated and application permissions in the Microsoft Identity
     Platform](https://www.youtube.com/watch?v=_BfI4L7j1Po) - [Philippe
-    Signoret](https://twitter.com/psignoret) (Microsoft) \| \@psignoret
--   [Get started with Azure Static Web Apps \| Tips &
+    Signoret](https://twitter.com/psignoret) (Microsoft) | \@psignoret
+-   [Get started with Azure Static Web Apps | Tips &
     Tricks](https://www.youtube.com/watch?v=oPqBuLfIXII) - [Dan
-    Wahlin](https://twitter.com/DanWahlin) (Microsoft) \| \@danwahlin
+    Wahlin](https://twitter.com/DanWahlin) (Microsoft) | \@danwahlin
 -   [Registering and updating printer using Microsoft Graph
     API](https://www.youtube.com/watch?v=JpKlfwnAeFY) - Microsoft
 -   [Managing print job using Microsoft Graph
     API](https://www.youtube.com/watch?v=bF0g9M7VGcQ) - Microsoft
--   [Debug Microsoft Teams apps without ngrok \| Tips &
+-   [Debug Microsoft Teams apps without ngrok | Tips &
     Tricks](https://www.youtube.com/watch?v=vV0w5kExAv4) - [Bob
-    German](https://twitter.com/Bob1German) (Microsoft) \| \@Bob1German
+    German](https://twitter.com/Bob1German) (Microsoft) | \@Bob1German
 -   [Build the next generation of collaborative apps on the Microsoft
     Teams platform](https://www.youtube.com/watch?v=4eRBD2Hg5sE) -
     Microsoft
@@ -932,16 +932,16 @@ last monthly summary:
     Microsoft](https://www.youtube.com/watch?v=je5Lku9hgWE) - Microsoft
 -   [Microsoft Graph
     Explained](https://www.youtube.com/watch?v=3Xz6fWuU8ZY) - Microsoft
--   [Debug Microsoft Teams apps without ngrok \| Tips &
+-   [Debug Microsoft Teams apps without ngrok | Tips &
     Tricks](https://www.youtube.com/watch?v=0M_AREkss7A) - [Bob
-    German](https://twitter.com/Bob1German) (Microsoft) \| \@Bob1German
--   [Do you need ngrok to develop Microsoft Teams apps? \| Tips &
+    German](https://twitter.com/Bob1German) (Microsoft) | \@Bob1German
+-   [Do you need ngrok to develop Microsoft Teams apps? | Tips &
     Tricks](https://www.youtube.com/watch?v=A5U-3o-mHD0) - [Bob
-    German](https://twitter.com/Bob1German) (Microsoft) \| \@Bob1German
--   [Create a chatbot in Microsoft Teams with Power Virtual Agents \|
+    German](https://twitter.com/Bob1German) (Microsoft) | \@Bob1German
+-   [Create a chatbot in Microsoft Teams with Power Virtual Agents |
     Tips & Tricks](https://www.youtube.com/watch?v=6jDjMKs4TV4) - [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    \| \@aprildunnam
+    | \@aprildunnam
 New playlist - [Create interactive conversational bots for Microsoft
 Teams](https://www.youtube.com/playlist?list=PLWZJrkeLOrbbh9EgDsFylRx4XmXbWaG4B)
 -   [Create interactive conversational bots for Microsoft
@@ -990,40 +990,40 @@ Teams](https://www.youtube.com/playlist?list=PLWZJrkeLOrbY8HkTBBvyx-uyZ3cCdl1VM)
 Community demos as following:
 -   [Using Microsoft Graph Toolkit to easily access files in Sites and
     in OneDrive](https://www.youtube.com/watch?v=Xgna1iH55k8) - [André
-    Lage](https://twitter.com/aaclage) (Datalynx AG) \|
-    [\@aaclage](/t5/user/viewprofilepage/user-id/861803)
+    Lage](https://twitter.com/aaclage) (Datalynx AG) |
+    [\@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
 -   [Getting started on building Microsoft Teams meeting
     apps](https://www.youtube.com/watch?v=IkEHWsDr3_k) - [Rick van
-    Rousselt](https://twitter.com/RickVanRousselt) (Advantive) \|
+    Rousselt](https://twitter.com/RickVanRousselt) (Advantive) |
     \@RickVanRousselt
 -   [Building multilingual Power
     Apps](https://www.youtube.com/watch?v=SvdXeKra-9o) - [Haniel
-    Croitoru](https://twitter.com/HCroitoru) (Protiviti) \| \@HCroitoru
+    Croitoru](https://twitter.com/HCroitoru) (Protiviti) | \@HCroitoru
 -   [Querying and Paging data with PnP Core
     SDK](https://www.youtube.com/watch?v=5jUD89xSTE4) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) \| \@PaoloPia 
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia 
 -   [Adding support to add video with text to modern pages with this
     video banner web part](https://www.youtube.com/watch?v=5Euq7e4pG_o)
     - [Mohamed Derhalli](https://twitter.com/MohamedDerhalli) (BDO
-    Canada)\| \@MohamedDerhalli
+    Canada)| \@MohamedDerhalli
 -   [Building a company stories web part for story
     experience](https://www.youtube.com/watch?v=5T9g5iJw0fA) - [Luis
-    Mañez](https://twitter.com/luismanez) (ClearPeople) \| \@luismanez
+    Mañez](https://twitter.com/luismanez) (ClearPeople) | \@luismanez
 -   [Building a React groups and teams web part for aggregating detailed
     information for end
     users](https://www.youtube.com/watch?v=MakgCyOq9tk) - Alison Collins
-    & [Sam Collins](https://twitter.com/samc148) (Coupled Technology) \|
+    & [Sam Collins](https://twitter.com/samc148) (Coupled Technology) |
     \@samc148 
 -   [Using field lookups with list
     formatting](https://www.youtube.com/watch?v=Enl3tMI-4oY) - [Chris
-    Kent](https://twitter.com/theChrisKent) (DMI) \| \@theChrisKent
+    Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent
 -   [Localization check inside SharePoint Framework projects -- VS Code
     extension increases
     productivity](https://www.youtube.com/watch?v=DKiCyrlAU3E) - S[ergei
-    Sergeev](https://twitter.com/sergeev_srg) (Mastaq) \| \@sergeev_srg
+    Sergeev](https://twitter.com/sergeev_srg) (Mastaq) | \@sergeev_srg
 -   [Transforming your SharePoint Framework web part as a Microsoft
     Teams personal app](https://www.youtube.com/watch?v=KkNQA9_XX4k)
-    - [Albert-Jan Schot](https://twitter.com/appieschot) (Portiva) \|
+    - [Albert-Jan Schot](https://twitter.com/appieschot) (Portiva) |
     \@appieschot
 [PnP Weekly
 sessions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC) -
@@ -1033,15 +1033,15 @@ Microsoft 365 topics.
     129](https://www.youtube.com/watch?v=KR93Oc7s8iw)
 -   [Microsoft 365 PnP Weekly - Episode
     128](https://www.youtube.com/watch?v=g04G-31-scA) - [Katie
-    Swanson](https://twitter.com/kswansondesign) (Microsoft) \|
+    Swanson](https://twitter.com/kswansondesign) (Microsoft) |
     \@kswansondesign
 -   [Microsoft 365 PnP Weekly - Episode
     127](https://www.youtube.com/watch?v=m0cAGLr2O98) - [Rick Van
-    Rousselt](https://twitter.com/RickVanRousselt) (Advantive) \|
+    Rousselt](https://twitter.com/RickVanRousselt) (Advantive) |
     \@RickVanRousselt
 -   [Microsoft 365 PnP Weekly - Episode
     126](https://www.youtube.com/watch?v=5lhYr6kP-BY) - [D'arce
-    Hess](https://twitter.com/DarceHess) (TrnDigital)\| \@DarceHess
+    Hess](https://twitter.com/DarceHess) (TrnDigital)| \@DarceHess
 -   [Microsoft 365 PnP Weekly - Episode
     125](https://www.youtube.com/watch?v=APGShP4J1so) - [Sandy
     Ussia](https://twitter.com/SandyU) (Lightning Tools)
@@ -1425,7 +1425,7 @@ please let us know.
 
 -   Remy Blok (Prodware) - [remyblok](https://github.com/remyblok)
 
--   Rick Van Rousselt (Advantive) \|
+-   Rick Van Rousselt (Advantive) |
     [\@RickVanRousselt](https://twitter.com/RickVanRousselt) 
 
 -   Rocio Holub (DAI)
@@ -1489,7 +1489,7 @@ please let us know.
 -   Theresa Lubelski
     - [\@SharePointMadam](https://twitter.com/SharePointMadam)
 
--   Thomy Gölles (Solvion) \| [\@thomyg](https://twitter.com/thomyg)
+-   Thomy Gölles (Solvion) | [\@thomyg](https://twitter.com/thomyg)
 
 -   Todd Baginski (Canviz) -
     [\@toddbaginski](https://twitter.com/toddbaginski)
@@ -1644,7 +1644,7 @@ closely involved with the PnP work during last month.
 
 -   Vincent Biret - [\@baywet](https://twitter.com/baywet)
 
--   Vinit Kumar Baheti \|
+-   Vinit Kumar Baheti |
     [\@vinitbaheti](https://twitter.com/vinitbaheti)
 ## PnP Team 
 

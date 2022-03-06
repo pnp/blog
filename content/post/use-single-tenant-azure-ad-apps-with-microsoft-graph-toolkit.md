@@ -26,11 +26,11 @@ connecting to Microsoft Graph and allow you to focus on your application
 instead.
 Microsoft Graph Toolkit is available as a generic set of web components
 distributed through the
-**[\@microsoft](/t5/user/viewprofilepage/user-id/41501)/mgt** npm
+**[\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/mgt** npm
 package. If you're [building apps with
 React](https://docs.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react?WT.mc_id=m365-12257-wmastyka),
 you can use the
-**[\@microsoft](/t5/user/viewprofilepage/user-id/41501)/mgt-react**
+**[\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/mgt-react**
 package which wraps MGT web component in React components making it
 easier to pass complex data and hook the components up to events.
 

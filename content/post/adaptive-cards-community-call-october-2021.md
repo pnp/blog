@@ -24,7 +24,7 @@ Roca (Microsoft) and finally
 teams fielded questions on a host of topics for the last 20 minutes on
 this call.   
 - This call was hosted by [J.P.
-Roca](http://twitter.com/jpthepm) (Microsoft) \| \@jpthepm.  Recorded on
+Roca](http://twitter.com/jpthepm) (Microsoft) | \@jpthepm.  Recorded on
 October 14, 2021.
 
 ## Agenda
@@ -33,7 +33,7 @@ October 14, 2021.
     Andrew Curtice (FactSet) --
     [00:29](https://youtu.be/zr8TiZZB5_k?t=29)
 -   v1.5 Release :loudspeaker: - [J.P. Roca](http://twitter.com/jpthepm)
-    (Microsoft) \| \@jpthepm --
+    (Microsoft) | \@jpthepm --
     [23:42](https://youtu.be/zr8TiZZB5_k?t=1422)
 -   Q&A :white_question_mark: - with members of Microsoft Developer and
     PM teams -- [26:58](https://youtu.be/zr8TiZZB5_k?t=1618)
@@ -52,13 +52,13 @@ across platforms with little code.  Q&A throughout.
 
 -   API -
     [signals-api](https://developer.factset.com/api-catalog/signals-api)
-    \| <https://developer.factset.com/api-catalog/signals-api> (includes
+    | <https://developer.factset.com/api-catalog/signals-api> (includes
     the /events/adaptive-cards URL endpoints AND a document **Client
     Workflow and Triggers for each Signal**, that shows example adaptive
     cards.
 -   General website -
     [FactSet.com](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.factset.com%2F&data=04%7C01%7Cjproca%40microsoft.com%7C6d2eaed72f3449671f5808d9a08ac6b3%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637717341312430004%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=38OOMHps0%2F4ZETVE6isf3mqXGnEst2ClVOwr301Q8Lw%3D&reserved=0)
-    \| <http://factset.com>
+    | <http://factset.com>
 
 ## Resources in General
 

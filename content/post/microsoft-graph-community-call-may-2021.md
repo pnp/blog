@@ -20,8 +20,8 @@ Consent Deep Dive (demystifying permissions and consent when accessing
 Microsoft Graph) and on Considerations for Creating Online Meetings
 (**Integration into Outlook or into other 3^rd^ party experiences)**. 
 Q&A in this call after demos, at end and in chat.  The call was hosted
-by [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) \|
-[\@BrianTJackett](/t5/user/viewprofilepage/user-id/4556). Microsoft
+by [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) |
+[\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556). Microsoft
 Presenters were Philippe Signoret and Fabian Williams.  Recorded on May
 4, 2021.
 
@@ -114,16 +114,16 @@ From Q&A
 -   Microsoft Q & A -- Graph - <https://aka.ms/askgraph/>
 -   Learn Module - [Get started with Microsoft Graph
     Toolkit](https://docs.microsoft.com/learn/modules/msgraph-toolkit-intro/)
-    \| <https://aka.ms/mgt-learn>
+    | <https://aka.ms/mgt-learn>
 -   Repo - [Microsoft Graph Toolkit
-    v2.1](https://github.com/microsoftgraph/microsoft-graph-toolkit) \|
+    v2.1](https://github.com/microsoftgraph/microsoft-graph-toolkit) |
     <https://aka.ms/mgt>  
 -   Documentation -- [Microsoft Graph Toolkit
     Overview](https://docs.microsoft.com/en-us/graph/toolkit/overview)
-    \| <https://aka.ms/mgt-docs>
+    | <https://aka.ms/mgt-docs>
 -   Playground -- [Microsoft Graph Toolkit
     Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple)
-    \| <https://mgt.dev>
+    | <https://mgt.dev>
 
 ##   {#toc-hId--1597066983}
 

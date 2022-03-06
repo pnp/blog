@@ -59,46 +59,46 @@ Microsoft.  Recorded December 16, 2021. Q&A in chat and at end of call.
 **Referenced in this session:**
 
 -   eBook - Developer guide to Zero Trust - [Zero Trust for the
-    Microsoft identity platform developer](https://aka.ms/ztdev) \|
+    Microsoft identity platform developer](https://aka.ms/ztdev) |
     aka.ms/ztdev
 -   Demo -- [Continuous Access Evaluation (CAE)
-    demo](https://aka.ms/caedemo) \| aka.ms/caedemo
+    demo](https://aka.ms/caedemo) | aka.ms/caedemo
 -   Demo - [Managed Identities with KeyVault
-    demo](https://aka.ms/midemo) \| aka.ms/midemo
+    demo](https://aka.ms/midemo) | aka.ms/midemo
 -   Sample -- [An ASP.NET Core web app that signs-in users with Azure AD
     and calls Microsoft
-    Graph](https://aka.ms/identity-zerotrust-sample) \|
+    Graph](https://aka.ms/identity-zerotrust-sample) |
     aka.ms/identity-zerotrust-sample
 -   Documentation - [Building Zero Trust ready apps with the Microsoft
-    identity platform](https://aka.ms/zerotrustforidentitydeveloper) \|
+    identity platform](https://aka.ms/zerotrustforidentitydeveloper) |
     aka.ms/zerotrustforidentitydeveloper
 -   Blog series - [Achieving Zero Trust readiness in your apps #1: Why
     it
-    matters](https://aka.ms/ZTRappsblog-part1) \| [aka.ms/ZTRappsblog-part1](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FZTRappsblog-part1&data=04%7C01%7CKalyan.Krishna%40microsoft.com%7Cfd791ab56eed4e55417608d9ca314d33%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637763136913157969%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=HLIINSwzxrzMbue6f3OJQ7abZ%2BJCwZSSh0w0fPWcx64%3D&reserved=0)
+    matters](https://aka.ms/ZTRappsblog-part1) | [aka.ms/ZTRappsblog-part1](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FZTRappsblog-part1&data=04%7C01%7CKalyan.Krishna%40microsoft.com%7Cfd791ab56eed4e55417608d9ca314d33%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637763136913157969%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=HLIINSwzxrzMbue6f3OJQ7abZ%2BJCwZSSh0w0fPWcx64%3D&reserved=0)
 -   Documentation - [Code samples for
-    developers](https://aka.ms/aadcodesamples) \| [aka.ms/aadcodesamples](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Faadcodesamples&data=04%7C01%7CKalyan.Krishna%40microsoft.com%7Cfd791ab56eed4e55417608d9ca314d33%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637763136913157969%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=XLFsFAs6Kgbmc1T6ceXxrwKHalm9rBVssqCy8L%2BM6XI%3D&reserved=0)
+    developers](https://aka.ms/aadcodesamples) | [aka.ms/aadcodesamples](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Faadcodesamples&data=04%7C01%7CKalyan.Krishna%40microsoft.com%7Cfd791ab56eed4e55417608d9ca314d33%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637763136913157969%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=XLFsFAs6Kgbmc1T6ceXxrwKHalm9rBVssqCy8L%2BM6XI%3D&reserved=0)
 -   Sample - [Add app roles to your application and receive them in the
-    token](https://aka.ms/approles) \| aka.ms/approles  
+    token](https://aka.ms/approles) | aka.ms/approles  
 -   Sample - [Use groups & group claims to an ASP.NET Core Web app that
-    signs-in users](https://aka.ms/groupssample)  \| aka.ms/groupssample
+    signs-in users](https://aka.ms/groupssample)  | aka.ms/groupssample
 -   Documentation -- [Token Validation](https://aka.ms/validatetokens)
-    \| aka.ms/validatetokens
+    | aka.ms/validatetokens
 -   Sample - [How to manually validate a JWT access token using the
     Microsoft identity
-    platform](https://aka.ms/extendtokenvalidation) \|
+    platform](https://aka.ms/extendtokenvalidation) |
     aka.ms/extendtokenvalidation
 -   Documentation - [Developers' guide to Conditional Access
     authentication context](https://aka.ms/stepupauthn) -
     aka.ms/stepupauthn
 -   Documentation - [Claims challenges, claims requests, and client
-    capabilities](https://aka.ms/ClaimsChallenge) \| aka.ms/ClaimsChallenge 
+    capabilities](https://aka.ms/ClaimsChallenge) | aka.ms/ClaimsChallenge 
 -   Documentation - [Sign in any Azure Active Directory user using the
-    multi-tenant application pattern](https://aka.ms/multi-tenant) \|
+    multi-tenant application pattern](https://aka.ms/multi-tenant) |
     aka.ms/multi-tenant
 -   Documentation - [Overview of the Microsoft Authentication Library
-    (MSAL)](https://aka.ms/msal) \| aka.ms/msal
+    (MSAL)](https://aka.ms/msal) | aka.ms/msal
 -   Documentation - [Microsoft identity platform
-    documentation](https://aka.ms/identityplatform) \|
+    documentation](https://aka.ms/identityplatform) |
     aka.ms/identityplatform
 
  

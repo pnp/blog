@@ -53,17 +53,17 @@ platform.   
     platform.
 
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
-(Microsoft) \| \@vesajuvonen.  Q&A takes place in chat throughout and
+(Microsoft) | \@vesajuvonen.  Q&A takes place in chat throughout and
 live at end of the call.   
 **Microsoft 365 Platform News Flash**
 
--   [What's New in Microsoft Teams \| December
+-   [What's New in Microsoft Teams | December
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-december-2021/ba-p/3050099)
 
 
 
 
--   Opt into PnP Recognition Program \|
+-   Opt into PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
 -   **Register for Sharing is Caring Events:**
     -   Ask me anything (AMA) PnP Search -- [Tuesday, January 11th, 9am
@@ -136,20 +136,20 @@ Thank you for your work. Samples are often showcased in Demos.
 **Topics** covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [8:12](https://youtu.be/kZ_JwZpbJb4?t=492)
 -   **D1**:  Introduction to Microsoft Teams ISV app monetization
     capabilities -- [James Skay](http://twitter.com/JamesSkay)
-    (Microsoft) \| \@JamesSkay --
+    (Microsoft) | \@JamesSkay --
     [10:43](https://youtu.be/kZ_JwZpbJb4?t=643)
 -   **D2**:  Microsoft Graph Toolkit -- Using the Person Component in
     your solutions -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) \|
-    [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) --
+    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    [sebastienlevert](https://github.com/sebastienlevert) --
     [19:18](https://youtu.be/kZ_JwZpbJb4?t=1158)
 -   **D3**:  Introduction to new Adaptive Cards samples for Viva
     Connections Quick View designs -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \|
+    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [45:21](https://youtu.be/kZ_JwZpbJb4?t=2721)
 **Resources:**
 
@@ -159,7 +159,7 @@ slides.
 -   **D1**:  Documentation - [Include a SaaS offer with your Microsoft
     Teams
     app](https://docs.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/prepare/include-saas-offer)
-    \|
+    |
     [aka.ms/teamsmonetization/getstarted](http://aka.ms/teamsmonetization/getstarted)
 
 -   **D2: ** Tools - [Microsoft Graph Toolkit
@@ -170,27 +170,27 @@ slides.
 
 -   **D2: ** Repo -- [Microsoft Graph
     Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit)
-    \| [aka.ms/mgt](https://aka.ms/mgt)
+    | [aka.ms/mgt](https://aka.ms/mgt)
 
 -   **D2: ** Documentation - [Microsoft Graph Toolkit: UI Components and
     Authentication Providers for Microsoft
-    Graph](https://docs.microsoft.com/graph/toolkit/overview) \|
+    Graph](https://docs.microsoft.com/graph/toolkit/overview) |
     [aka.ms/MGT/docs](https://aka.ms/MGT/docs)
 
 -   **D2: ** Learn - [Develop apps with the Microsoft Graph
-    Toolkit](https://aka.ms/mgt/learn) \|
+    Toolkit](https://aka.ms/mgt/learn) |
     [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
 
 -   **D2: ** First session - 7 December 2021 - [Discover the Microsoft
     Graph Toolkit](https://youtu.be/JkgFrbtwdJU?t=476) -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) \|
-    [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766)
+    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    [sebastienlevert](https://github.com/sebastienlevert)
 
 -   **D2: ** Second session -- 14 December 2021 - [Microsoft Graph
     Toolkit -- Using Login Component in your
     solutions](https://youtu.be/HfBVaeGRDw8?t=2375) -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) \|
-    [\@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) 
+    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    [sebastienlevert](https://github.com/sebastienlevert) 
 
 -   **D3**:  Samples - [Adaptive Card templates - design
     examples](https://github.com/pnp/adaptivecards-templates) 
@@ -215,13 +215,13 @@ slides.
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
 -   PnP Teams Quickstart
-    \| [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
--   Microsoft Teams Toolkit v2.2 \| <https://aka.ms/teams-toolkit>
+    | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
+-   Microsoft Teams Toolkit v2.2 | <https://aka.ms/teams-toolkit>
 -   [Microsoft 365 PnP Community
-    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) \|
+    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
     aka.ms/m365pnp/community 
 -   Microsoft Graph Toolkit in Microsoft Learn
-    \| <http://aka.ms/learn-mgt>
+    | <http://aka.ms/learn-mgt>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   [SharePoint look
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
@@ -229,17 +229,17 @@ slides.
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
     API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) \| aka.ms/m365pnp-videos
+    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer
-    documentation](http://aka.ms/spdev-docs) \| <https://aka.ms/spdev-docs>
+    documentation](http://aka.ms/spdev-docs) | <https://aka.ms/spdev-docs>
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization Partner
     Guidance](http://aka.ms/sppnp-modernization-partnerguidance) -
@@ -267,22 +267,22 @@ slides.
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
-**Upcoming Calls \| Recurrent Invites:**
+**Upcoming Calls | Recurrent Invites:**
 
 -   **M365 General Dev call -- **January 6th at 7:00 am PST
-    \| <https://aka.ms/m365-dev-sig>
+    | <https://aka.ms/m365-dev-sig>
 -   **Microsoft 365 platform call** **-- **January 11th at 8:00 am PST
-    \| <https://aka.ms/m365-dev-call>
+    | <https://aka.ms/m365-dev-call>
 -   **Office add-in monthly call -- **January 12that 8:00 am PST
-    \| <https://aka.ms/officeaddinscall>
+    | <https://aka.ms/officeaddinscall>
 -   **SharePoint Framework call --** January 13th at 7:00 am PST
-    \| <https://aka.ms/spdev-spfx-call>
+    | <https://aka.ms/spdev-spfx-call>
 -   **Adaptive Cards monthly call -- **January 13th at 9:00 am PST
-    \| <https://aka.ms/adaptivecardscommunitycall>
+    | <https://aka.ms/adaptivecardscommunitycall>
 -   **Power Apps monthly call **-- January 19th at 8:00 am PST
-    \| <https://aka.ms/PowerAppsMonthlyCall>
+    | <https://aka.ms/PowerAppsMonthlyCall>
 -   **Microsoft Identity Platform call --** January 20th at 9:00 am
-    PST \| <https://aka.ms/IDDevCommunityCalendar>
+    PST | <https://aka.ms/IDDevCommunityCalendar>
 
 Microsoft 365 Platform community call focuses on latest Microsoft 365
 Platform updates and demos delivered by Microsoft presenters and takes

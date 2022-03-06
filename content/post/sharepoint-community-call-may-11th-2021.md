@@ -30,7 +30,7 @@ the new [Microsoft 365 PnP Community
 hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP)
 at Microsoft Tech Communities!  Sign up and attend one of a growing list
 of [Sharing is Caring](https://pnp.github.io/sharing-is-caring/)
-events.     The [Microsoft 365 Update - Community (PnP) \| May
+events.     The [Microsoft 365 Update - Community (PnP) | May
 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-may-2021-update/ba-p/2332366)
 is now available.  In this call, quickly addressed developer and
 non-developer entries in UserVoice.   We are in the process of moving
@@ -101,13 +101,13 @@ Channel](https://aka.ms/m365pnp-videos).
 -   Community contributors and companies which have been involved in the
     past month -- [11:56](https://youtu.be/PlXxbx7qNlc?t=716) 
 -   Topic: SharePoint Syntex:   Product overview and latest feature
-    updates - Sean Squires  (Microsoft) \| \@iamseansquires --
+    updates - Sean Squires  (Microsoft) | \@iamseansquires --
     [15:28](https://youtu.be/PlXxbx7qNlc?t=928)
     -   **Demo: ** How to build and publish a document understanding
-        model - James Eccles (Microsoft) \| \@jimdeccles --
+        model - James Eccles (Microsoft) | \@jimdeccles --
         [24:52](https://youtu.be/PlXxbx7qNlc?t=1492)
     -   **Demo:** SharePoint Syntex integration and automation options
-        - Bert Jansen (Microsoft) \| \@o365bert --
+        - Bert Jansen (Microsoft) | \@o365bert --
         [39:36](https://youtu.be/PlXxbx7qNlc?t=2376)
 The full recording of this session is available from Microsoft 365 &
 SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
@@ -119,23 +119,23 @@ SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 Additional resources on covered topics and discussions.
 -   Web - [SharePoint
     Syntex](https://www.microsoft.com/en-us/microsoft-365/enterprise/sharepoint-syntex-overview)
-    \| aka.ms/SharePointSyntex
+    | aka.ms/SharePointSyntex
 
 -   Blog -- [Syntex
     blog](https://techcommunity.microsoft.com/t5/sharepoint-syntex/bg-p/SharePointSyntex)
-    \| aka.ms/SharePointSyntex/blog
+    | aka.ms/SharePointSyntex/blog
 
 -   (Soon) Community -- [Yammer Syntex
     Community](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMjA0MjAwMjQzMiJ9/new)
-    \| aka.ms/SharePointSyntex/community
+    | aka.ms/SharePointSyntex/community
 
 -   Roadmap -- [Syntex
     Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?rtc=2&filters=&searchterms=Syntex)
-    \| aka.ms/SharePointSyntex/roadmap
+    | aka.ms/SharePointSyntex/roadmap
 
 -   Documentation - [Introduction to Microsoft SharePoint
     Syntex](https://docs.microsoft.com/en-us/microsoft-365/contentunderstanding/)
-     \| aka.ms/SharePointSyntex/documentation
+     | aka.ms/SharePointSyntex/documentation
 
 -   Documentation -- [Scenario:  Manage contracts using a Microsoft 365
     solution](https://docs.microsoft.com/en-us/microsoft-365/contentunderstanding/solution-manage-contracts-in-microsoft-365) 
@@ -150,27 +150,27 @@ Additional resources on covered topics and discussions.
      
 
 -   PnP Weekly -- Episode 126 with MVP guest [D'arce
-    Hess](https://twitter.com/DarceHess) (TrnDigital) \| @ DarceHess\|
+    Hess](https://twitter.com/DarceHess) (TrnDigital) | @ DarceHess|
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-126-d-arce-hess/ba-p/2341130)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-126-10th-of-may-2021/)
 
 -   [Microsoft 365 PnP Community
-    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) \|
+    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
     aka.ms/m365pnp/community 
 
 -   [Microsoft 365 Extensibility look book
-    gallery](https://adoption.microsoft.com/extensibility-look-book) \|
+    gallery](https://adoption.microsoft.com/extensibility-look-book) |
     aka.ms/m365/extensibility
 
 -   [Microsoft 365 Developer
-    Podcast](https://m365devpodcast.com/) \| m365devpodcast.com
+    Podcast](https://m365devpodcast.com/) | m365devpodcast.com
 
 -   [SharePoint sample
-    gallery](https://pnp.github.io/sp-dev-fx-webparts/) \|
+    gallery](https://pnp.github.io/sp-dev-fx-webparts/) |
     aka.ms/spfx-webparts
 
--   [Microsoft Teams Samples Gallery](https://aka.ms/teams-samples) \|
+-   [Microsoft Teams Samples Gallery](https://aka.ms/teams-samples) |
     aka.ms/teams-samples
 
 -   Viva Connections <https://aka.ms/VivaConnections> 
@@ -199,24 +199,24 @@ Additional resources on covered topics and discussions.
 -   SharePoint Development UserVoice - new feature requests
     - <http://aka.ms/spdev-uservoice>
 
-**Upcoming calls \| Recurrent invites:**
--   **Office add-in monthly call --** May 12th at 8:00 am PDT \|
+**Upcoming calls | Recurrent invites:**
+-   **Office add-in monthly call --** May 12th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **M365 General Dev call --** May 13th at 7:00 am PDT \|
+-   **M365 General Dev call --** May 13th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **Microsoft Teams monthly call --** May 18th at 8:00 am PDT \|
+-   **Microsoft Teams monthly call --** May 18th at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
--   **Power Apps monthly call --** May 19th at 8:00 am PDT \|
+-   **Power Apps monthly call --** May 19th at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** May 20th at 7:00 am PDT \|
+-   **SharePoint Framework call --** May 20th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **Microsoft Identity Platform --** May 20th at 9:00 am PDT \|
+-   **Microsoft Identity Platform --** May 20th at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar> 
--   **Microsoft Graph call --** June 1st at 8:00 am PDT **\|**
+-   **Microsoft Graph call --** June 1st at 8:00 am PDT **|**
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint monthly call --** June 8th at 8:00am PDT \|
+-   **SharePoint monthly call --** June 8th at 8:00am PDT |
     <https://aka.ms/sp-call>
 \"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics

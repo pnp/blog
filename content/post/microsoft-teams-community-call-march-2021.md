@@ -106,16 +106,16 @@ development.  API documentation with code snippets is current.   
     panel](https://aka.ms/SuccessPanel) 
 -   Provide feedback -- [Microsoft Teams Developer Community
     channels ](https://docs.microsoft.com/en-us/microsoftteams/platform/feedback)
--   Join us for our next call: April 20 at 8:00am PDT \|
+-   Join us for our next call: April 20 at 8:00am PDT |
     <https://aka.ms/microsoftteamscommunitycall> 
 
  
 
 **General Resources:**
 
--   Teams developer documentation​ \| <https://aka.ms/teamsdev> ​
--   ​Teams developer feedback​ \| <https://aka.ms/teamsdevfeedback> 
--   Microsoft Teams Sample gallery \| <https://aka.ms/teams-samples> -
+-   Teams developer documentation​ | <https://aka.ms/teamsdev> ​
+-   ​Teams developer feedback​ | <https://aka.ms/teamsdevfeedback> 
+-   Microsoft Teams Sample gallery | <https://aka.ms/teams-samples> -
     One location for all samples from Microsoft and community
 
 **Stay connected:**

@@ -24,7 +24,7 @@ mention
 the **[mailBoxSettings](https://docs.microsoft.com/en-us/graph/api/user-get-mailboxsettings?view=graph-rest-1.0&tabs)**
 object available through the user properties in Graph:
 
-**/users/{id\|userPrincipalName}/mailboxSettings**
+**/users/{id|userPrincipalName}/mailboxSettings**
 
 This gives us a response in the following format, and those details are
 available (sample test using Graph Explorer):

@@ -36,7 +36,7 @@ list of [Sharing is Caring](https://pnp.github.io/sharing-is-caring/)
 events this month.   Check out our weekly shows -- Microsoft 365 PnP
 Weekly (latest news and announcements from Microsoft and community) and
 Microsoft 365 Developer Podcast (focusing on Microsoft 365 dev topics). 
- The [Microsoft 365 Update - Community (PnP) \| June
+ The [Microsoft 365 Update - Community (PnP) | June
 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-june-2021-update/ba-p/2332366)
 is now available.  Developer and non-developer entries in UserVoice were
 reviewed.   We are in the process of moving from UserVoice to a 1st
@@ -63,7 +63,7 @@ sites templates to be released in July-August.
  
 
 **Actions:**
--   Join on the Viva Connections private preview! \|
+-   Join on the Viva Connections private preview! |
     [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [June
@@ -114,8 +114,8 @@ Channel](https://aka.ms/m365pnp-videos).
     past month -- [16:07](https://youtu.be/Pxfq2i4ys1U?t=967) 
 -   **Topic:  SharePoint Site Templates -- the latest features and
     experiences** - [Melissa Torres](http://twitter.com/Meltorac)
-    (Microsoft) \| \@Meltorac, [Nicole
-    Woon](http://twitter.com/NovelNicole) (Microsoft) \| \@NovelNicole &
+    (Microsoft) | \@Meltorac, [Nicole
+    Woon](http://twitter.com/NovelNicole) (Microsoft) | \@NovelNicole &
     Matt Mooty (Microsoft --
     [19:32](https://youtu.be/Pxfq2i4ys1U?t=1172)
 The full recording of this session is available from Microsoft 365 &
@@ -137,30 +137,30 @@ Additional resources on covered topics and discussions.
 
 -   PnP Weekly -- Episode 130 with the Software Engineer behind the
     Microsoft Graph Toolkit, [Nikola
-    Metulev](http://twitter.com/metulev) (Microsoft) \| \@metulev. \|
+    Metulev](http://twitter.com/metulev) (Microsoft) | \@metulev. |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-130/ba-p/2422722)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-130-7th-of-june-2021/)
 
 -   [Register](https://aka.ms/viva/connections/preview/register) for the
     Private Preview of Viva Connections
 
 -   [Microsoft 365 PnP Community
-    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) \|
+    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
     aka.ms/m365pnp/community 
 
 -   [Microsoft 365 Extensibility look book
-    gallery](https://adoption.microsoft.com/extensibility-look-book) \|
+    gallery](https://adoption.microsoft.com/extensibility-look-book) |
     aka.ms/m365/extensibility
 
 -   [Microsoft 365 Developer
-    Podcast](https://m365devpodcast.com/) \| m365devpodcast.com
+    Podcast](https://m365devpodcast.com/) | m365devpodcast.com
 
 -   [SharePoint sample
-    gallery](https://pnp.github.io/sp-dev-fx-webparts/) \|
+    gallery](https://pnp.github.io/sp-dev-fx-webparts/) |
     aka.ms/spfx-webparts
 
--   [Microsoft Teams Samples Gallery](https://aka.ms/teams-samples) \|
+-   [Microsoft Teams Samples Gallery](https://aka.ms/teams-samples) |
     aka.ms/teams-samples
 
 -   Viva Connections <https://aka.ms/VivaConnections> 
@@ -189,20 +189,20 @@ Additional resources on covered topics and discussions.
 -   SharePoint Development UserVoice - new feature requests
     - <http://aka.ms/spdev-uservoice>
 
-**Upcoming calls \| Recurrent invites:**
--   **Office add-in monthly call --** June 9th at 8:00 am PDT \|
+**Upcoming calls | Recurrent invites:**
+-   **Office add-in monthly call --** June 9th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **Adaptive Cards monthly call --** June 10th at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** June 10th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **M365 General Dev call --** June 10th at 7:00 am PDT \|
+-   **M365 General Dev call --** June 10th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Teams monthly call --** June 15th at 8:00 am PDT \|
+-   **Microsoft Teams monthly call --** June 15th at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
--   **Power Apps monthly call --** June 16th at 8:00 am PDT \|
+-   **Power Apps monthly call --** June 16th at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** June 17th at 7:00 am PDT \|
+-   **SharePoint Framework call --** June 17th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **Microsoft Identity Platform --** June 17th at 9:00 am PDT \|
+-   **Microsoft Identity Platform --** June 17th at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar>[ ]
 \"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics

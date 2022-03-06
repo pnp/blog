@@ -202,12 +202,12 @@ If you want to learn more about Power Automate, Logic Apps or the
 comparison, here are a list of additional resources that you can use to
 explore the technologies further:
 -   Microsoft Learn - [Build automated workflows to integrate data and
-    apps with Azure Logic Apps - Learn \| Microsoft
+    apps with Azure Logic Apps - Learn | Microsoft
     Docs](https://docs.microsoft.com/en-us/learn/paths/build-workflows-with-logic-apps?WT.mc_id=AZ-MVP-5003816)
 -   Microsoft Learn - [Browse all Power Automate Modules in Microsoft
-    Learn \| Microsoft
+    Learn | Microsoft
     Docs](https://docs.microsoft.com/en-us/learn/browse/?products=power-platform&terms=Flow&WT.mc_id=AZ-MVP-5003816)
--   M365 Community Docs - [Power Automate vs Logic Apps \| Microsoft
+-   M365 Community Docs - [Power Automate vs Logic Apps | Microsoft
     Docs](https://docs.microsoft.com/en-us/microsoft-365/community/power-automate-vs-logic-apps?WT.mc_id=AZ-MVP-5003816)
 -   Example Teams App Templates using Logic Apps and Power Automate -
     [OfficeDev/microsoft-teams-apps-requestateam: Power Apps solution

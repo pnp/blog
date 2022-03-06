@@ -34,7 +34,7 @@ OneDrive file components in **Microsoft Graph Toolkit**.  Released new
 Learn](http://aka.ms/learn-mgt), Register now for March/April trainings
 on [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).   The
 host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
-(Microsoft) \| \@vesajuvonen.  Q&A takes place in chat throughout the
+(Microsoft) | \@vesajuvonen.  Q&A takes place in chat throughout the
 call.
 
 **Actions:    **
@@ -78,7 +78,7 @@ call.
 
 -   [Teams SSO with server-side Graph
     calls](https://aka.ms/TabSSO2Graph) - [Hilton
-    Giesenow](http://twitter.com/TheMossShow) \| \@TheMossShow & Doğan
+    Giesenow](http://twitter.com/TheMossShow) | \@TheMossShow & Doğan
     Erişen.  Supporting Article - [Securely connect to Microsoft Graph
     from Teams tabs using
     SSO](https://blog.mastykarz.nl/securely-connect-microsoft-graph-teams-tabs-sso/)
@@ -117,14 +117,14 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   Updates from Microsoft 365 Engineering - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
-    \| \@vesajuvonen - [6:29](https://youtu.be/kPGpuGPtKHM?t=389)
+    | \@vesajuvonen - [6:29](https://youtu.be/kPGpuGPtKHM?t=389)
 
 -   PnP.NET library updates - [Bert Jansen](http://twitter.com/o365bert)
-    (Microsoft) \| \@O365bert -
+    (Microsoft) | \@O365bert -
     [7:24](https://youtu.be/kPGpuGPtKHM?t=444)
 
 -   PnP PowerShell updates - [Bert Jansen](http://twitter.com/o365bert)
-    (Microsoft) \| \@O365bert -
+    (Microsoft) | \@O365bert -
     [10:29](https://youtu.be/kPGpuGPtKHM?t=629)
 
 -   yo Teams updates - [Wictor Wilén](http://twitter.com/wictor)
@@ -132,25 +132,25 @@ Thank you for your work. Samples are often showcased in Demos.
     [11:42](https://youtu.be/kPGpuGPtKHM?t=702)]{style="float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: Georgia,'Times New Roman','Bitstream Charter',Times,serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none;"}
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft) \|
-    [\@beth_panx](/t5/user/viewprofilepage/user-id/803637) -
+    Pan](http://twitter.com/beth_panx) (Microsoft) |
+    [beth-panx](https://github.com/beth-panx) -
     [13:41](https://youtu.be/kPGpuGPtKHM?t=821)
 
 -   Microsoft Teams Samples - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) \| \@vesajuvonen -
+    Juvonen](http://twitter.com/vesajuvonen) | \@vesajuvonen -
     [15:21](https://youtu.be/kPGpuGPtKHM?t=921)
 
 -   **Demo:**  Accessing comment information in list formatting and
     advance form adjustments -- [Chris
-    Kent](http://twitter.com/theChrisKent) (DMI) \| \@theChrisKent -
+    Kent](http://twitter.com/theChrisKent) (DMI) | \@theChrisKent -
     [16:53](https://youtu.be/kPGpuGPtKHM?t=1013)
 
 -   **Demo:**  Getting started on using Microsoft Teams Yeoman generator
-    v3 -- [Wictor Wilén](http://twitter.com/wictor) (Avanade) \|
+    v3 -- [Wictor Wilén](http://twitter.com/wictor) (Avanade) |
     \@wictor - [30:54](https://youtu.be/kPGpuGPtKHM?t=1854)
 
 -   **Demo:**  The Microsoft Graph Toolkit in Teams with Blazor --
-    [Thomy Gölles](http://twitter.com/thomyg) (Solvion) \| \@thomyg
+    [Thomy Gölles](http://twitter.com/thomyg) (Solvion) | \@thomyg
 
     \- [43:42](https://youtu.be/kPGpuGPtKHM?t=2622)
 **Resources:**
@@ -161,10 +161,10 @@ slides.
 -   [Slides used in this ​community
     call](https://1drv.ms/p/s!AlposW7ozA_90jjI88X4mCwv3GAA?e=9BukMz)
 
--   Microsoft Graph Toolkit in Microsoft Learn \|
+-   Microsoft Graph Toolkit in Microsoft Learn |
     <http://aka.ms/learn-mgt> 
 
--   Microsoft Teams Samples Gallery \|
+-   Microsoft Teams Samples Gallery |
     [aka.ms/teams-samples](https://aka.ms/teams-samples)
 
 -   Documentation - [Use column formatting to customize
@@ -198,10 +198,10 @@ slides.
     Toolkit](https://www.youtube.com/watch?v=TbAZHvB5NEk)
 
 -   PnP Weekly -- Episode 118 **with** dual MVP [Veronique
-    Lengelle](http://twitter.com/veronicageek) (CPS) \| \@veronicageek
-    \|
+    Lengelle](http://twitter.com/veronicageek) (CPS) | \@veronicageek
+    |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-118/ba-p/2211589)
-    \|
+    |
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-118-15th-of-march-2021/)
 
 -   Viva Connections <https://aka.ms/VivaConnections>
@@ -212,16 +212,16 @@ slides.
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
     API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis/)
 -   [Microsoft 365 community (PnP) videos](http://aka.ms/m365pnp-videos)
-    \| aka.ms/m365pnp-videos
+    | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791)
--   [Developer documentation](http://aka.ms/spdev-docs) \|
+-   [Developer documentation](http://aka.ms/spdev-docs) |
     <https://aka.ms/spdev-docs>
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization Partner
@@ -250,28 +250,28 @@ slides.
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
-**Upcoming Calls \| Recurrent Invites:**
--   **SharePoint Framework call --** March 25th at 7:00 am PDT \|
+**Upcoming Calls | Recurrent Invites:**
+-   **SharePoint Framework call --** March 25th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **M365 General Dev call --** April 1st at 7:00 am PDT \|
+-   **M365 General Dev call --** April 1st at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Graph call - April** 6th at 8:00 am PDT \|
+-   **Microsoft Graph call - April** 6th at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint Framework call --** April 8th at 7:00 am PDT \|
+-   **SharePoint Framework call --** April 8th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **Adaptive Cards monthly call --** April 8th at 9:00 am PDT \|
+-   **Adaptive Cards monthly call --** April 8th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **SharePoint monthly call --** April 13th at 8:00am PDT \|
+-   **SharePoint monthly call --** April 13th at 8:00am PDT |
     <https://aka.ms/sp-call>
--   **Office add-in monthly call --** April 14th at 8:00 am PDT \|
+-   **Office add-in monthly call --** April 14th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **M365 General Dev call --** April 15th at 7:00 am PDT \|
+-   **M365 General Dev call --** April 15th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Identity Platform** -- April 15th at 9:00 am PDT \|
+-   **Microsoft Identity Platform** -- April 15th at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar> 
--   **Microsoft Teams monthly call --** April 20th at 8:00 am PDT \|
+-   **Microsoft Teams monthly call --** April 20th at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
--   **Power Apps monthly call --** April 21st at 8:00 am PDT \|
+-   **Power Apps monthly call --** April 21st at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365

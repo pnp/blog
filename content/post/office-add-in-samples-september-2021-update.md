@@ -35,7 +35,7 @@ Teams.](https://github.com/officedev/pnp-officeaddins/tree/main/Samples/excel-op
 ## Improvements to sample documentation 
 
 We created a simple list of Office Add-in samples at [Office Add-in code
-samples - Office Add-ins \| Microsoft
+samples - Office Add-ins | Microsoft
 Docs](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-in-code-samples).
 This should make it easier to search for and find the samples you need.
 Let us know if you have any feedback or suggestions about the samples at

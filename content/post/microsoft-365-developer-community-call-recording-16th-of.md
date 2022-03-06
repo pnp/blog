@@ -52,9 +52,9 @@ There were 3 new script samples this week.  The host of this call was
 -   Create a Teams Sample - [Microsoft Teams Samples Wish
     list](https://github.com/pnp/teams-dev-samples/issues) -- 10
     opportunities to share your Teams Dev prowess with the community
-    \| [<https://aka.ms/teams-sample-wishlist>]{.underline}
+    | [<https://aka.ms/teams-sample-wishlist>]{.underline}
 -   Opt in to PnP Recognition Program
-    \| <https://aka.ms/m365pnp-recognition>
+    | <https://aka.ms/m365pnp-recognition>
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [September
         21st](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u) (EMEA,
@@ -95,7 +95,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   **[Teams Tab with SSO and Microsoft Graph Toolkit
     usage](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-mgt-person)** - [Markus
-    Möller](http://twitter.com/Moeller2_0) (Avanade) \| \@Moeller2_0
+    Möller](http://twitter.com/Moeller2_0) (Avanade) | \@Moeller2_0
 -   **[Teams Tab Single Sign-on (SSO)
     Sample](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-sso) **(updated) **- **Doğan
     Erişen (Microsoft)
@@ -108,16 +108,16 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -   **[Provision Home Page to a SharePoint
     site](https://pnp.github.io/script-samples/spo-provision-homepage/README.html?tabs=pnpps)
-    -** [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \|
-    [\@reshmeeauckloo](/t5/user/viewprofilepage/user-id/1145036)
+    -** [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) |
+    [\@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
 -   **[Extract Modern Pages to Individual Provisioning
     Files](https://pnp.github.io/script-samples/spo-extract-modern-pages/README.html?tabs=pnpps)
     -** [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd)
-    \| \@pkbullock
+    | \@pkbullock
 -   **[Generate Demo Events for SharePoint Events
     List](https://pnp.github.io/script-samples/spo-generate-demo-events/README.html?tabs=pnpps)
     -** [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd)
-    \| \@pkbullock
+    | \@pkbullock
 **Together Mode!**
 {{< image alt="PnP-Calls-TogetherMode-800W.gif" src="images/blog/microsoft-365-developer-community-call-recording-16th-of/PnP-Calls-TogetherMode-800W.gif" >}}
 
@@ -158,31 +158,31 @@ Request a Demo spot on the call -- <https://aka.ms/m365pnp/request/demo>
     Jansen](http://twitter.com/O365bert) (Microsoft)
     \@O365bert - [6:32](https://youtu.be/PpjPCt00W9A?t=392)
 -   PnP PowerShell - [Erwin van Hunen](http://twitter.com/erwinvanhunen)
-    (Valo Intranet) \| \@erwinvanhunen -
+    (Valo Intranet) | \@erwinvanhunen -
     [8:20](https://youtu.be/PpjPCt00W9A?t=500)
 -   yo Teams updates - [Wictor Wilén](http://twitter.com/wictor)
-    (Microsoft) \| \@wictor - [9:57](https://youtu.be/PpjPCt00W9A?t=597)
+    (Microsoft) | \@wictor - [9:57](https://youtu.be/PpjPCt00W9A?t=597)
 -   Microsoft Graph Toolkit updates - [Elise
-    Yang](http://twitter.com/elisenyang) (Microsoft) \|
-    [\@elisenyang](/t5/user/viewprofilepage/user-id/803417) - [11:58](https://youtu.be/PpjPCt00W9A?t=718)
+    Yang](http://twitter.com/elisenyang) (Microsoft) |
+    [\@elisenyang](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/803417) - [11:58](https://youtu.be/PpjPCt00W9A?t=718)
 -   Microsoft Teams Samples - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems)
-    \| \@DavidWarnerII - [14:00](https://youtu.be/PpjPCt00W9A?t=840)
+    | \@DavidWarnerII - [14:00](https://youtu.be/PpjPCt00W9A?t=840)
 -   Microsoft Power Platform Samples - [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| \@aprildunnam
+    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
      - [14:28](https://youtu.be/PpjPCt00W9A?t=868)
 -   **D1:**  List formatting magic tips and tricks -- [Chris
-    Kent](http://twitter.com/theChrisKent) (DMI) \| \@theChrisKent -
+    Kent](http://twitter.com/theChrisKent) (DMI) | \@theChrisKent -
     [16:06](https://youtu.be/PpjPCt00W9A?t=966)
 -   **D2:**  Getting started with Bot Framework Composer for building
     Teams Task Modules -- [Stephan
-    Bisser](http://twitter.com/stephanbisser) (Solvion) \|
+    Bisser](http://twitter.com/stephanbisser) (Solvion) |
     \@stephanbisser - [29:27](https://youtu.be/PpjPCt00W9A?t=1767)
 -   **D3:**  Updates on Independent Publisher Connectors for Power
     Platform & Yelp Connector Demo -- [Natalie
-    Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \|
+    Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) |
     \@NataliePienkow1 & [Ahmad Najjar](http://twitter.com/ahmadn82)
-    (Infoworker) \| \@ahmadn82 -
+    (Infoworker) | \@ahmadn82 -
     [43:33](https://youtu.be/PpjPCt00W9A?t=2613) 
 
 **Resources:**
@@ -228,30 +228,30 @@ slides.
 
 -   D3:  Demo - [Publish a connector to the Power
     Platform](https://youtu.be/ulTBvCHw8MU) -- [Natalie
-    Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft)  \|
+    Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft)  |
     \@NataliePienkow1
 **General resources**:
 
 -   Samples - [Power Platform
-    Samples](https://aka.ms/powerplatform-samples) \| [aka.ms/](http://aka.ms/powerplatform-samples)[powerplatform](http://aka.ms/powerplatform-samples)[-samples](http://aka.ms/powerplatform-samples)
+    Samples](https://aka.ms/powerplatform-samples) | [aka.ms/](http://aka.ms/powerplatform-samples)[powerplatform](http://aka.ms/powerplatform-samples)[-samples](http://aka.ms/powerplatform-samples)
 -   Microsoft 365 tenant -- [Script Samples
-    Gallery](https://aka.ms/script-samples) \| aka.ms/script-samples
+    Gallery](https://aka.ms/script-samples) | aka.ms/script-samples
 -   [Microsoft Teams Samples
-    Gallery](https://pnp.github.io/teams-dev-samples/) \|
+    Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 -   [Microsoft 365 Extensibility look book
-    gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) \|
+    gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) |
     aka.ms/m365/extensibility
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
 -   PnP Teams Quickstart
-    \| [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
--   Microsoft Teams Toolkit v2.2 \| <https://aka.ms/teams-toolkit>
+    | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
+-   Microsoft Teams Toolkit v2.2 | <https://aka.ms/teams-toolkit>
 -   [Microsoft 365 PnP Community
-    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) \|
+    hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
     aka.ms/m365pnp/community 
 -   Microsoft Graph Toolkit in Microsoft Learn
-    \| <http://aka.ms/learn-mgt>
+    | <http://aka.ms/learn-mgt>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   [SharePoint look
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
@@ -259,17 +259,17 @@ slides.
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
     API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) \| aka.ms/m365pnp-videos
+    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
--   [yo Teams](http://aka.ms/yoteams) \| aka.ms/yoteams
+-   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
-    Teams](https://youtu.be/w0OrFkzNC10) \| [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)\| \@wictor
+    Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer
-    documentation](http://aka.ms/spdev-docs) \| <https://aka.ms/spdev-docs>
+    documentation](http://aka.ms/spdev-docs) | <https://aka.ms/spdev-docs>
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization Partner
     Guidance](http://aka.ms/sppnp-modernization-partnerguidance) -
@@ -297,21 +297,21 @@ slides.
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
-**Upcoming Calls \| Recurrent Invites:**
+**Upcoming Calls | Recurrent Invites:**
 -   **Microsoft 365 platform call** -- September 21st at 8:00 am PDT
-    \| <https://aka.ms/m365-dev-call>
+    | <https://aka.ms/m365-dev-call>
 -   **SharePoint Framework call --** September 23rd at 7:00 am PDT
-    \| <https://aka.ms/spdev-spfx-call>
+    | <https://aka.ms/spdev-spfx-call>
 -   **M365 General Dev call -- **September 30th at 7:00 am PDT
-    \| <https://aka.ms/m365-dev-sig>
+    | <https://aka.ms/m365-dev-sig>
 -   **Office add-in monthly call** -- October 13th at 8:00 am PDT
-    \| <https://aka.ms/officeaddinscall>
+    | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call** -- October14th at 9:00 am PDT
-    \| <https://aka.ms/adaptivecardscommunitycall>
+    | <https://aka.ms/adaptivecardscommunitycall>
 -   **Power Apps monthly call **-- October 20th at 8:00 am PDT
-    \| <https://aka.ms/PowerAppsMonthlyCall>
+    | <https://aka.ms/PowerAppsMonthlyCall>
 -   **Microsoft Identity Platform call --** October 21st at 9:00 am
-    PDT \| <https://aka.ms/IDDevCommunityCalendar>
+    PDT | <https://aka.ms/IDDevCommunityCalendar>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
