@@ -429,10 +429,8 @@ export default class ReactFormik extends React.Component<IReactFormikProps, IRea
   }
 }
 ```
- 
- 
 
-6.  Move to the **ReactFormik.module.scss** file to add some relaetd
+Move to the **ReactFormik.module.scss** file to add some relaetd
 CSS.
  
  
