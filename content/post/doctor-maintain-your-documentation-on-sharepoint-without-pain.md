@@ -116,7 +116,7 @@ advantages:
     It will only update that.
 -   Your ID department will love it as they can manage security and do
     not have yet another platform to support it.
-##   
+
 ## Getting started 
  
 If you want to get started, check out the documentation on

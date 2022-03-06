@@ -60,8 +60,9 @@ This session was recorded in front of a non-audience on Monday, November
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -85,6 +86,7 @@ everyone for your contributions to the community!
  
 
 **Microsoft articles:**
+
 
  
 
@@ -128,6 +130,7 @@ everyone for your contributions to the community!
  
 
 **Community articles:**
+
 
  
 
@@ -178,10 +181,11 @@ everyone for your contributions to the community!
 
 **Additional resources:**
 
+
  
 
 -   [Extend Microsoft Viva
-    Connections](https://docs.microsoft.com/en-us/learn/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa) -
+    Connections](https://docs.microsoft.com/learn/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa) -
     Microsoft Learn
 -   [Consume a multi-tenant API within a set of Microsoft Viva
     Connections Adaptive Card Extensions

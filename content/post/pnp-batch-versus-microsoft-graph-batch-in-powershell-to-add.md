@@ -23,7 +23,7 @@ PowerShell](https://www.pkbullock.com/blog/2020/calling-the-microsoft-graph-with
 by Paul Bullock useful to get started. Using PnP Batch with retry
 mechanisms still took up to 4 hours to create 300k items and up to 8
 hours to delete 300 k items. I thought [Microsoft
-Graph](https://docs.microsoft.com/en-us/graph/throttling) can handle
+Graph](https://docs.microsoft.com/graph/throttling) can handle
 huge volume of requests and could help with my scenario. Unfortunately,
 at random intervals I was getting errors like 
 
@@ -53,6 +53,7 @@ closed\".
 {{< image alt="reshmeeauckloo_0-1631978767171.png" src="images/blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/reshmeeauckloo_0-1631978767171.png" >}}
 
 Microsoft Graph batch script
+
 ```powershell
 $action = Read-Host "Enter the action you want to perform, e.g. Add or Delete"
 $siteUrl = "https://contoso.sharepoint.com/sites/Team1"

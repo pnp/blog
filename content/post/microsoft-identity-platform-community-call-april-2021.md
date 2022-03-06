@@ -10,12 +10,16 @@ type: "regular"
 
 ---
 
-# Microsoft Identity Platform community call - April 2021](/t5/microsoft-365-pnp-blog/microsoft-identity-platform-community-call-april-2021/ba-p/2315934)
-
 **{{< image alt="EventHubBlockDiagram.png" src="images/blog/microsoft-identity-platform-community-call-april-2021/EventHubBlockDiagram.png" >}}
 
  
+<<<<<<< HEAD
+
+## Call Summary
+
+=======
 ## Call summary
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 This month's in-depth topic:  Get Change notifications delivered via
 Azure Event Hubs.  Brief introduction to Graph change notification
@@ -68,13 +72,13 @@ app.    
 -   [Deck](https://www.slideshare.net/OfficeDev/change-notifications-in-azure-event-hubsapril-2021)
     for this call
 -   Documentation -  [Use the Microsoft Graph API to get change
-    notifications](https://docs.microsoft.com/en-us/graph/api/resources/webhooks?view=graph-rest-1.0)
+    notifications](https://docs.microsoft.com/graph/api/resources/webhooks?view=graph-rest-1.0)
     |
-    <https://docs.microsoft.com/en-us/graph/api/resources/webhooks?view=graph-rest-1.0>
+    <https://docs.microsoft.com/graph/api/resources/webhooks?view=graph-rest-1.0>
 -   Documentation - [Get change notifications delivered in different
-    ways](https://docs.microsoft.com/en-us/graph/change-notifications-delivery)
+    ways](https://docs.microsoft.com/graph/change-notifications-delivery)
     |
-    <https://docs.microsoft.com/en-us/graph/change-notifications-delivery>
+    <https://docs.microsoft.com/graph/change-notifications-delivery>
 -   Training - [Microsoft Graph Training Module - Using Change
     Notifications and Track Changes with Microsoft
     Graph](https://github.com/microsoftgraph/msgraph-training-changenotifications/tree/event-hub) 
@@ -82,13 +86,16 @@ app.    
     <https://github.com/microsoftgraph/msgraph-training-changenotifications/tree/event-hub>
 -   Documentation - [Azure Event Hubs --- A big data streaming platform
     and event ingestion
-    service](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about)
+    service](https://docs.microsoft.com/azure/event-hubs/event-hubs-about)
     |
-    <https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about>
+    <https://docs.microsoft.com/azure/event-hubs/event-hubs-about>
+
 
 
 
 ## Actions
+
+
 
 -   Submit your feedback and topic suggestions -
     <https://aka.ms/IDDevCommunityCallSurvey> 

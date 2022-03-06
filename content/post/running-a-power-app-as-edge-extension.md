@@ -30,6 +30,7 @@ If you count the ToDo there is a fourth one, but we are only using a
 ToDo list to store data from the Flow so there is no real logic required
 on that side.  The goal is thus to run our Power App as an Edge
 Extension.
+
 ## Edge Extension 
 
 Up until this scenario I never had build an Edge Extension so I resorted
@@ -38,7 +39,7 @@ quite a few tutorials and the process itself is straightforward. You
 have a `manifest.json` that describes the extension and a set of files
 like icons, html and JavaScript. You can walk through the [Create an
 extension
-tutorial](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/part1-simple-extension)
+tutorial](https://docs.microsoft.com/microsoft-edge/extensions-chromium/getting-started/part1-simple-extension)
 to get a feeling of all the components. 
 Our Manifest itself is straight forward. We will be using two
 files `frame.html` and `frame.js`, those must be in
@@ -103,7 +104,7 @@ The `frame.html` file can be an almost empty HTML file or contain as
 much styling as you want. I opted for a clean html file with the magic
 happening here. 
 
-::: highlight
+
 ``` {.lia-code-sample .language-markup}
 <body>
     <div id="iframeplaceholder"></div>
@@ -118,9 +119,7 @@ issue.  The `frame.js` is used to get the query string parameters, add
 them to our Power App play URL and set that URL as the Iframe. Make sure
 to update the `iframe.src` URL to reflect your Power App ID.
 
-::: highlight
- 
-:::
+
 
 ```javascript
 const params = new URLSearchParams(window.location.search)
@@ -131,11 +130,13 @@ iframe.src="https://apps.powerapps.com/play/xxxxxxx?source=iframe&title=" + enco
 var myFrame = document.getElementById('iframeplaceholder');
 myFrame.appendChild(iframe);
 ```
+
 This are all the steps required to run a Power App in your Edge Browser.
 However, make sure to reload your extension when side loading. Changes
 might not always trickle down as some of the content is cached. My best
 experience was to reload the extension each time I changed something in
 the JS or HTML.
+
 ## Power Apps 
 
 Once you have your Edge Extension working the Power App can be running
@@ -159,6 +160,7 @@ Flow is linked to the `OnSelect` and runs as follows:
 ```
 
 That is all there is to our app; a single button that calls our Flow. 
+
 ## Flow 
 
 The last component is the Flow, it uses the `Power App` trigger and a
@@ -171,8 +173,6 @@ looks like this:
 
 ## Fusion Development 
 
-::: {.section .post-full-content}
-::: kg-card-markdown
 Now I understand that some of these steps could have been done writing
 actual code instead of using the Power Platform. However the fact that I
 could click together a few components and have them interact with my

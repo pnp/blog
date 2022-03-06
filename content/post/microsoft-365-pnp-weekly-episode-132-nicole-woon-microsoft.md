@@ -56,8 +56,9 @@ M365/SharePoint Community calls and calls from other organizations.   
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -83,6 +84,7 @@ everyone for your contributions to the community!\
 
 **Microsoft articles:**
 
+
  
 
 -   [New hybrid work innovations in Microsoft Teams Rooms, Fluid, and
@@ -94,12 +96,13 @@ everyone for your contributions to the community!\
     footing](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-experiences-coming-to-microsoft-teams-rooms-to-allow/ba-p/2451553?WT.mc_id=m365-32540-wmastyka) -
     Microsoft
 -   [Assignments API for Microsoft Graph is now generally
-    available](https://developer.microsoft.com/en-us/microsoft-365/blogs/assignments-api-for-microsoft-graph-is-now-generally-available/?WT.mc_id=m365-32540-wmastyka) -
+    available](https://developer.microsoft.com/microsoft-365/blogs/assignments-api-for-microsoft-graph-is-now-generally-available/?WT.mc_id=m365-32540-wmastyka) -
     Microsoft
 
  
 
 **Community articles:**
+
 
  
 
@@ -184,6 +187,7 @@ everyone for your contributions to the community!\
  
 
 **Additional resources:**
+
 
  
 

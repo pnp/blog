@@ -15,7 +15,8 @@ Jeremy and Paul recap the latest news from Microsoft
 
 Listen to the show here: 
 [(m365devpodcast.com)](https://www.m365devpodcast.com/e/microsoft-news-november-2021/)
-## Ignite: 
+
+## Ignite
 
 -   [Ignite 2021: Building apps for collaboration in a hybrid
     world](https://devblogs.microsoft.com/microsoft365dev/ignite-2021-building-apps-for-collaboration-in-a-hybrid-world/?WT.mc_id=M365-MVP-4025164)
@@ -32,7 +33,7 @@ Exam MS-600:
     Building Applications and Solutions
     \...](https://devblogs.microsoft.com/microsoft365dev/grow-your-skills-and-build-collaborative-solutions-exam-ms-600-building-applications-and-solutions-with-microsoft-365-core-services/?WT.mc_id=M365-MVP-4025164)
 -   [Exam MS-600 -
-    Learn](https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600?WT.mc_id=M365-MVP-4025164)
+    Learn](https://docs.microsoft.com/learn/certifications/exams/ms-600?WT.mc_id=M365-MVP-4025164)
 
 Teams:
 
@@ -42,7 +43,7 @@ Teams:
 -   [Microsoft Teams development: All you need to
     know](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-development-all-you-need-to-know/?WT.mc_id=M365-MVP-4025164)
 -   [Build tabs with Adaptive
-    Cards](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/build-adaptive-card-tabs?WT.mc_id=M365-MVP-4025164)
+    Cards](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/build-adaptive-card-tabs?WT.mc_id=M365-MVP-4025164)
 -   [microsoft-teams-library-js:
     v2.0.0-beta.0](https://github.com/OfficeDev/microsoft-teams-library-js/blob/2.0-preview/CHANGELOG.md)
 

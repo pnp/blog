@@ -12,12 +12,12 @@ type: "regular"
 
 ---
 
-Recording of the Microsoft 365 -- General M365 development Special
-Interest Group (SIG) community call from April 15, 2021.
 {{< image alt="sig-agenda-15th-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-15th-of-april/sig-agenda-15th-recording.png" >}}
  
 
-## Call summary
+
+## Call Summary
+
 
 Latest news from Microsoft 365 engineering and updates on open-source
 projects: PnP .NET libraries, PnP PowerShell, modernization tooling, on
@@ -40,7 +40,15 @@ components (Preview).   The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
  Q&A takes place in chat throughout the call.
 
+<<<<<<< HEAD
+
+**Actions:**
+
+
+
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 -   [Microsoft 365 Developer Community
     Survey](https://aka.ms/m365pnp/survey) --
     <https://aka.ms/m365pnp/survey>
@@ -77,6 +85,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 {{< image alt="210415-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-15th-of-april/210415-together-mode.gif" >}}
 
 **It's together time - Super comfy seats!     **
+
 **Demos** delivered in this session
 
 -   **SharePoint Content Type APIs in Microsoft Graph** - Classic
@@ -151,20 +160,20 @@ slides.
     call](https://1drv.ms/p/s!AlposW7ozA_90j_0wCE_XEVxYoZQ?e=5YX8v4)
 
 -   Documentation - [contentType resource
-    type](https://docs.microsoft.com/en-us/graph/api/resources/contenttype?view=graph-rest-beta?WT.mc_id=m365-24198-cxa) 
+    type](https://docs.microsoft.com/graph/api/resources/contenttype?view=graph-rest-beta?WT.mc_id=m365-24198-cxa) 
 
 -   Blog -- [Create a London Underground Line Status Bot using Power
     Virtual Agents & Azure Management API in
     Dat\...](https://www.leonarmston.com/2021/02/create-a-london-underground-line-status-bot-power-virtual-agents-azure-azure-management-api-in-dataverse-for-teams/) 
 
 -   Blog - [Azure API Management connector on the Power
-    Platform](https://powerapps.microsoft.com/en-us/blog/azure-api-management-connector-on-the-power-platform/) 
+    Platform](https://powerapps.microsoft.com/blog/azure-api-management-connector-on-the-power-platform/) 
 
 -   Documentation - [Use column formatting to customize
-    SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) 
+    SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) 
 
 -   Documentation - [Use view formatting to customize
-    SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting?WT.mc_id=m365-24198-cxa) 
+    SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting?WT.mc_id=m365-24198-cxa) 
 
 -   Repo - [SharePoint List Formatting
     Samples](https://github.com/pnp/List-Formatting) 
@@ -191,13 +200,15 @@ slides.
     aka.ms/teams-samples
 
 -   Viva Connections <https://aka.ms/VivaConnections>
+
+
 **General resources**:
 
 -   [SharePoint look
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -222,7 +233,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -231,13 +242,16 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
+
 -   **M365 General Dev call --** April 15th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
 -   **Microsoft Identity Platform --** April 15th at 9:00 am PDT
@@ -246,7 +260,7 @@ slides.
     <https://aka.ms/microsoftteamscommunitycall>
 -   **Power Apps monthly call --** April 21st at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** April 22nd at 7:00 am PDT |
+-   **SharePoint Framework call** -- April 22nd at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **M365 General Dev call --** April 29th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>

@@ -18,7 +18,8 @@ Listen to the show here: [Microsoft Graph Connectors with Brian T.
 Jackett
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/microsoft-graph-connectors-with-brian-t-jackett/) 
 
-### Links from the show: 
+
+## Links from the show
 
 -   [Microsoft Graph Connector session fromb Build
     2021](https://aka.ms/brk243%22%22)
@@ -32,17 +33,17 @@ Jackett
 ### Microsoft News 
 
 -   [Homepage - Microsoft 365 Developer
-    Blog](https://developer.microsoft.com/en-us/microsoft-365/blogs/)
+    Blog](https://developer.microsoft.com/microsoft-365/blogs/)
 -   [Universal Actions in Adaptive Cards on Microsoft Teams - Microsoft
     365 Developer
-    Blog](https://developer.microsoft.com/en-us/microsoft-365/blogs/universal-actions-in-adaptive-cards-on-microsoft-teams/)
+    Blog](https://developer.microsoft.com/microsoft-365/blogs/universal-actions-in-adaptive-cards-on-microsoft-teams/)
 -   [Microsoft Graph @ Build
-    2021](https://developer.microsoft.com/en-us/graph/blogs/whats-new-in-microsoft-graph-at-build-2021/)
+    2021](https://developer.microsoft.com/graph/blogs/whats-new-in-microsoft-graph-at-build-2021/)
 -   [Microsoft Graph Mailbag -- A deeper look into the Microsoft Graph
     PowerShell
-    SDK](https://developer.microsoft.com/en-us/graph/blogs/microsoft-graph-mailbag-a-deeper-look-into-the-microsoft-graph-powershell-sdk/)
+    SDK](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-a-deeper-look-into-the-microsoft-graph-powershell-sdk/)
 -   [Protected APIs in Microsoft
-    Teams](https://docs.microsoft.com/en-us/graph/teams-protected-apis)
+    Teams](https://docs.microsoft.com/graph/teams-protected-apis)
 
 ### Community Links 
 

@@ -54,29 +54,28 @@ Now let's see an implementation.
 
 ### Get File content 
 
-    -   Action:  Select SharePoint Get file content
+- Action:  Select SharePoint Get file content
 
-
-  - **Site Address**
+    - **Site Address**
    Select Site URL or Add Custom Site URL on which you want to run this flow
-  - **File Identifier** 
+    - **File Identifier** 
   [Select ]
+
 {{< image alt="ChandaniPrajapati_1-1636864275047.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_1-1636864275047.png" >}}
 
--   ### Create a file to OneDrive 
+### Create a file to OneDrive 
 
-    -   Action:  Create a file for OneDrive for business
- 
-  - **Folder Path** 
+- Action:  Create a file for OneDrive for business
+    - **Folder Path** 
   Select folder path of one drive where you want or create a file
-  - **File Name** 
-  [Select ][File Name with extension]
-  - **File Content**
-- [Select File Content - which we have created in the previous action]
+    - **File Name** 
+    - [Select ][File Name with extension]
+    - **File Content**
+    - [Select File Content - which we have created in the previous action]
 
 {{< image alt="ChandaniPrajapati_7-1636864944228.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_7-1636864944228.png" >}}
 
--   #### Convert file to PDF 
+#### Convert file to PDF 
 
     -   Action:  Convert a file for OneDrive for business
 
@@ -85,52 +84,56 @@ Now let's see an implementation.
   **Target Type**   [Select ]
 
 {{< image alt="ChandaniPrajapati_6-1636864910697.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_6-1636864910697.png" >}}
--   #### Create PDF File to OneDrive 
 
-    -   Action:  Create a file for OneDrive for business
+#### Create PDF File to OneDrive 
 
+-   Action:  Create a file for OneDrive for business
 
-  - **Folder Path**    
-- Select folder path of one drive where you want or create a file
-  - **File Name**
+    - **Folder Path**    
+    - Select folder path of one drive where you want or create a file
+    - **File Name**
   [Select ][File Name with extension]
-  - **File Content**
+    - **File Content**
   [Select File Content - which we have created in the previous action]
 
 {{< image alt="ChandaniPrajapati_5-1636864879248.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_5-1636864879248.png" >}}
 
--   ### Create PDF file to Document Library 
+### Create PDF file to Document Library 
 
-    -   Action:  Create a file for SharePoint
-  - **Site Address**
+- Action:  Create a file for SharePoint
+    - **Site Address**
   Select Site URL
-  - **Folder Path**
+    - **Folder Path**
    Select folder path of one drive where you want or create a file
-  - **File Name** 
+    - **File Name** 
   [Select ][File Name with extension]
-  - **File Content**
+    - **File Content**
   [Select File Content - which we have created in the previous action]
+
 {{< image alt="ChandaniPrajapati_4-1636864839927.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_4-1636864839927.png" >}}
 
--   #### Delete word file from OneDrive 
+#### Delete word file from OneDrive 
 
-    -   Action:  Delete a file for OneDrive for business
+- Action:  Delete a file for OneDrive for business
 
   ---------------- ------------------------------
   **Properties**   **Value**
   **Id**           Select OneDrive word file ID
   ---------------- ------------------------------
+
 {{< image alt="ChandaniPrajapati_3-1636864760614.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_3-1636864760614.png" >}}
 
--   ### Delete PDF file from OneDrive 
+### Delete PDF file from OneDrive 
 
-    -   Action:  Delete a file for OneDrive for business
+- Action:  Delete a file for OneDrive for business
 
   ---------------- -----------------------------
   **Properties**   **Value**
   **Id**           Select OneDrive PDF file ID
   ---------------- -----------------------------
+
 {{< image alt="ChandaniPrajapati_2-1636864751972.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_2-1636864751972.png" >}}
+
 
 ## Output 
 

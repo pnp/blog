@@ -44,6 +44,7 @@ To Do!
 In this article, we will go over how we can have Power Automate send
 your outstanding tasks daily into Microsoft Teams. To achieve this, we
 will undertake the following:
+
 -   Learn how to interact with the Microsoft Graph To Do APIs in
     [Microsoft Graph
     Explorer](https://developer.microsoft.com/graph/graph-explorer)
@@ -92,6 +93,7 @@ Based on my response above, my query would be
 Take a copy of your request address as we will need that later on.
  
 ## Register an app in Azure Active Directory
+
 To be able to read your To Do task data using Microsoft Graph, we will
 need to grant an Azure AD application permission to access it.
  
@@ -154,7 +156,7 @@ You should now see *Tasks.Read* under **Configured permissions**.
 
 > Tasks.Read is one of many different API permissions in Graph.
 > Helpfully, there is a full breakdown of the different [Microsoft Graph
-> Permissions](https://docs.microsoft.com/en-us/graph/permissions-reference)
+> Permissions](https://docs.microsoft.com/graph/permissions-reference)
 {{< image alt="AADApp9.png" src="images/blog/get-your-to-do-tasks-daily-in-teams-using-power-automate/AADApp9.png" >}}
 That is all we need to do here for now, but there is one final step to
 be done, later on, so leave the page open in your browser.
@@ -183,6 +185,7 @@ step.
 {{< image alt="PA3.png" src="images/blog/get-your-to-do-tasks-daily-in-teams-using-power-automate/PA3.png" >}}
 
 For security, set as follows:
+
 -   **Authentication type**: *OAuth 2.0*
 -   **Identity Provider**: *Azure Active Directory*
 -   **Client id**: **Application (client) ID** we noted down when
@@ -201,6 +204,7 @@ our connector will perform when asked. In our case, our connector will
 retrieve our To Do tasks for us.
 
 Select **New action** and provide the action with the following:
+
 -   **Summary**: A summary of what the action is doing e.g. *Get To Do
     tasks*
 -   **Description**: A more in-depth description on what the action is
@@ -214,6 +218,7 @@ Select **New action** and provide the action with the following:
 Under the **Request** section, we need to provide it with sample data so
 the action understands what the data from Microsoft Graph will look
 like. Choose **Import from sample** and provide the following:
+
 -   **Verb**: *GET*
 -   **URL**:
     *<https://graph.microsoft.com/v1.0/me/todo/lists/%7BtaskListId%7D/tasks>* -
@@ -350,6 +355,7 @@ clicking the *T* icon.
 {{< image alt="PA22.png" src="images/blog/get-your-to-do-tasks-daily-in-teams-using-power-automate/PA22.png" >}}
 
 Now, add the following:
+
 -   **Options**: *Tasks* variable
 -   **Recipient**: The same account you signed in to the Flow with
 -   **Message**: Something like *Hey, here are your outstanding tasks
@@ -384,6 +390,7 @@ and the second value is *title* under **Parse JSON**.
 We now need to act upon when the condition is met (the task equals the
 chosen option in Teams). Under **If yes**, add **Post message as the
 Flow bot to a user**. Complete it as follows:
+
 -   **Recipient**: The same account you signed in to the Flow with
 -                             **Message**: A message containing the details of the task (see
     image)

@@ -45,6 +45,7 @@ of time! So instead of always displaying every category in the FAQ list
 you can select which categories you want to view from the property pane
 when you add the web part to the page. 
 Use cases: 
+
 -   A site can host a single FAQ list and only display certain
     categories on specific pages.
 -   Season change, Holiday's, Enrollment time -- all reasons you might

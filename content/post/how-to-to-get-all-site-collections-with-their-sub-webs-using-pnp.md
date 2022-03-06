@@ -18,6 +18,7 @@ PowerShell.
 Let's see step-by-step implementation:
 
 ## Implementation 
+
 Open Windows PowerShell ISE\
 Create a new file and write a script
 

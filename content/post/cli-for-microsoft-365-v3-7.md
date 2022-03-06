@@ -54,6 +54,7 @@ you a one-command upgrade.
 To get a list of changes necessary to upgrade your project to the latest
 version of the SharePoint Framework, execute in the folder of your
 SharePoint Framework project:
+
 ``` sh
 m365 spfx project upgrade --output md > report.md
 ```
@@ -70,6 +71,7 @@ report, which you can get by executing:
 ``` sh
 m365 spfx project upgrade --output tour
 ```
+
 When you open your SharePoint Framework project in VSCode, you will get
 an interactive tour of all the locations in your project that needs an
 update.

@@ -364,7 +364,7 @@ we chose, instead of the *Query text* box above.
 The biggest difference would be that we wouldn't see any search results
 until the user actually searched for something.
 
-#### The other options\... 
+#### The other options
 
 There are five other options available in this section which are
 somewhat self explanatory. The only exception to the rule might be the

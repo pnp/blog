@@ -140,13 +140,14 @@ Set-AzKeyVaultAccessPolicy -VaultName 'pkbtenant-keyvault' -UserPrincipalName 'p
 Please refer to the documentation if you want to be more specific around
 the KeyVault -- [Azure
 Portal](https://docs.microsoft.com/en-gb/azure/key-vault/general/quick-create-portal#create-a-vault)
-[PowerShell](https://docs.microsoft.com/en-us/powershell/module/az.keyvault/?view=azps-5.9.0).
+[PowerShell](https://docs.microsoft.com/powershell/module/az.keyvault/?view=azps-5.9.0).
 We will be importing a certificate in a later section.
  
 ### Create Azure AD App with Register-PnPAzureApp
 
 There are a few options when setting up the authentication to connect
 with PnP PowerShell:
+
 -   **Azure AD App** -- using your app (recommended), which will use the APPLICATION permissions, meaning the connection will use the permissions the app does.
 -   **PnP Management Shell** -- the multi-tenant app PnP provides -- this uses DELEGATE permissions meaning the connection will need to log in as the user and will only have access to services THE user has access to.
 If you need clarification on the difference between the types of
@@ -167,7 +168,7 @@ login credentials further steps if MFA is enabled. IMHO feels a bit
 cumbersome to do this each time I want to do a task in the Shell,
 especially on an iPad/phone.
 
-###  Create an Azure AD App 
+### Create an Azure AD App 
 
 To set up the app quickly with PnP PowerShell, you need to use a
 ***Windows machine*** to run the cmdlet *`Register-PnPAzureApp`* which
@@ -185,6 +186,7 @@ $result #output the result – Specifically grab the AzureAppId/ClientId – you
 ```
 
 {{< image alt="PowerShell - Registering Azure App" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Register App - Windows.png" >}}
+
 During this operation, two windows will pop-up to authenticate with the
 device login method and consent to the app permissions.
  
@@ -244,7 +246,7 @@ Get-NiceMessage @MyParams
 This will save time if you repeatedly apply the same parameters on the
 cmdlets, reducing the time to write the command and your scripts cleaner
 to read.  To read more about this PowerShell feature, [check out the
-documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_splatting?view=powershell-7.1).
+documentation](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_splatting?view=powershell-7.1).
  
 ### PowerShell Profiles 
 
@@ -303,7 +305,7 @@ prompt to indicate the prerequisites are ready to use for a connection
 (green text).
  
 To learn more about profiles check out the [documentation for
-profiles](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7).
+profiles](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7).
  
 ### Connecting to the service 
 

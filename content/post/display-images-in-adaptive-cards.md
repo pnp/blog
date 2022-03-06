@@ -24,11 +24,13 @@ In its properties you need to type the URL to an image:
  
 {{< image alt="image-5" src="images/blog/display-images-in-adaptive-cards/image-5.png" >}}
  
-**Important!** Image's URL must start with **https** and be a **direct
+**Important!** 
+Image's URL must start with **https** and be a **direct
 link** to a file itself (ending up with jpg, png, tiff, etc...).
  
 Ok, so what are the options to display images in Adaptive Cards?
 Actually two:
+
 1.  Via an absolute hyperlink to the file itself
 2.  Via data uri -- base64 encoded file contents
 The first approach I already explained above. It's quite simple. The
@@ -37,6 +39,7 @@ This can be done upfront, manually, using online services eg. [Base64
 Image Encoder](https://www.base64-image.de/). Or, using
 expression `dataUri(file content)` in Power Automate:
  
+
 {{< image alt="image-6" src="images/blog/display-images-in-adaptive-cards/image-6.png" >}}
 
  
@@ -65,6 +68,7 @@ SharePoint using absolute path. You can try, by first converting images
 to data uri, but remember the payload size :)
  
 What other places can be used then?
+
 1.  Anonymous FTP server
 2.  Some online image services like [Imgur](https://imgur.com/)
 3.  WordPress
@@ -73,16 +77,19 @@ What other places can be used then?
 OneDrive cannot be used as a storage to host images, since even when we
 select to share an image with anyone:
  
+
 {{< image alt="image-7" src="images/blog/display-images-in-adaptive-cards/image-7.png" >}}
+
  
-[The generated link is still not a valid, absolute link to a file
+The generated link is still not a valid, absolute link to a file
 itself, but to a page that displays the image, so when you put it as a
 Url property, it won't display the
-image:]
+image:
  
 {{< image alt="image-8" src="images/blog/display-images-in-adaptive-cards/image-8.png" >}}
  
 ## How to store images securely, but still display them in Adaptive Cards? 
+
 In such case you need to look for services that allow to secure contents
 with connection string/ SAS (shared access signature) that can be added
 to absolute URL as url parameters. My favorite is Azure Blob Storage.
@@ -93,7 +100,8 @@ Let me show you how.
 
  
 {{< image alt="" src="images/blog/display-images-in-adaptive-cards/image-9.png" >}}              
-</div>
+
+
 1.  Once account is provisioned, open it and:
     1.  Navigate to Containers
     2.  Click to create new container

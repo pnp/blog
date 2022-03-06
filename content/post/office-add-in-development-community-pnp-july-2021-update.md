@@ -98,7 +98,7 @@ Excel](https://docs.microsoft.com/office/dev/add-ins/excel/pnp-open-in-excel).
     program](https://developer.microsoft.com/office/dev-program).
 -   Try out some samples and get coding quickly with Office add-ins by
     downloading [Script
-    Lab](https://www.microsoft.com/en-us/garage/profiles/script-lab/).
+    Lab](https://www.microsoft.com/garage/profiles/script-lab/).
 -   Automate your solutions with [Office
     Scripts](https://docs.microsoft.com/office/dev/scripts/).
 

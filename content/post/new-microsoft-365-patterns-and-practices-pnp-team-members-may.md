@@ -13,6 +13,7 @@ type: "regular"
 ---
 
 {{< image alt="gautam-patrick-team.png" src="images/blog/new-microsoft-365-patterns-and-practices-pnp-team-members-may/gautam-patrick-team.png" >}}
+
 We are excited to announce that we are again extending our
 virtual [Microsoft 365 Patterns and Practices (PnP)
 team](https://aka.ms/m365pnp) with additional community members. PnP
@@ -24,7 +25,7 @@ Microsoft Teams, Power Platform, OneDrive, SharePoint or API layer like
 Microsoft Graph.
 We announced our new PnP team model in [April 2020 with additional
 community
-members](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and
+members](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and
 are further extending this team with new community members. We believe
 that **working together as a one unified team across the organization
 barriers**, we can make even larger worldwide impact and helping other
@@ -92,7 +93,7 @@ to let us know. We are here for you. Everyone is welcome!
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team members -
     February
-    2021](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/)
+    2021](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/)
     - [April
     Dunnam](https://www.twitter.com/aprildunnam "https://www.twitter.com/aprildunnam") (Microsoft),
     [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis
@@ -100,17 +101,18 @@ to let us know. We are here for you. Everyone is welcome!
     Lengelle](https://twitter.com/veronicageek) (CPS)
 -   [New Microsoft 365 Patterns and Practices (PnP) team members -
     December
-    2020](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-2/) - [Luise
+    2020](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-2/) - [Luise
     Freese](https://twitter.com/LuiseFreese) and [Sébastien
     Levert](https://twitter.com/sebastienlevert/) 
 -   [New Microsoft 365 Patterns and Practices (PnP) team members -
     August
-    2020](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members/) -
+    2020](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members/) -
     [Albert-Jan Schot](https://twitter.com/appieschot) (Portiva), [Koen
     Zomers](https://twitter.com/koenzomers) (Microsoft), [Paul
     Bullock](https://twitter.com/pkbullock) (CaPa Creative), [Rabia
     Williams](https://twitter.com/williamsrabia) (Microsoft)
     and [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions)
+    
 -----------------------------------------------------------------------
 
 Friday 7th of May, 2021

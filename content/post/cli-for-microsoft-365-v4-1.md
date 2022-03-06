@@ -67,7 +67,7 @@ m365 spfx project upgrade --output tour
 For more information about upgrading SharePoint Framework projects, see
 the [CLI
 documentation](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade/).
-###   
+
 ### Updates information of a specified Azure AD user 
  
 User management is one of the core activities of every Microsoft 365
@@ -110,7 +110,7 @@ part of this release:
 -   aad siteclassification set
  
 ## New Sample Scripts 
-\
+
 CLI for Microsoft 365 is a great tool both for quick adjustments to the
 configuration of your Microsoft 365 tenant as well as automating more
 complex tasks. Because CLI for Microsoft 365 is cross-platform you can
@@ -138,7 +138,8 @@ script](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/add-users-asso
 adds multiple users to associated SharePoint groups (Owners, Members,
 Visitors) of a site from a CSV file.
  
-### List Microsoft Teams teams, channels, and tabs in the tenant 
+### List Microsoft Teams teams, channels, and tabs in the tenant
+
 This [sample
 script](https://pnp.github.io/cli-microsoft365/sample-scripts/teams/list-teams-channels-tabs-for-tenant/)
 will list some information about each Teams, channels, and tabs within
@@ -159,6 +160,7 @@ order):
 -   [Garry Trinder](https://github.com/garrytrinder)
 -   [Rabia Williams](https://github.com/rabwill)
 -   [Adam Wojcik](https://github.com/Adam-it)
+
 ## Work in progress 
  
 Here are some things that we are currently working on.

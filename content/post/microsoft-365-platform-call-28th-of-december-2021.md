@@ -19,6 +19,7 @@ from December 28th, is now available from the Microsoft 365 Community
 YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos)
 
+
 **Call Summary**
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
@@ -56,6 +57,7 @@ platform.   
 The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen.  Discussion takes place throughout this call.   
+
 **Microsoft 365 Platform News Flash**
 
 -   [New features in Microsoft Graph Bookings APIs provide enhanced
@@ -64,7 +66,14 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 -   [Microsoft Graph Bookings APIs now available on the v1
     endpoint](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-bookings-apis-now-available-on-the-v1-endpoint/)
 
+<<<<<<< HEAD
+
+**Actions:**
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
+
 
 -   Submit a [Sample
     request](https://github.com/pnp/sp-dev-fx-webparts/issues/new?assignees=&labels=type%3Asample-request%2CHelp+wanted+%F0%9F%AA%A7&template=samplerequest.yml) to
@@ -114,6 +123,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 Always nice to see YOU and the actual people who are behind the scenes
 of this community.  Wishing you a happy and healthy entry into 2022.
 **Discussion and Resources referenced **in this session
+
 -   Developer tenant renewals and possibility of multi-geo and GCC dev
     tenants.
 -   Cloud adoption challenges/opportunities WW including supporting work
@@ -148,6 +158,7 @@ of this community.  Wishing you a happy and healthy entry into 2022.
     \@vesajuvonen -- [7:19](https://youtu.be/goyvp3Eh-1s?t=439)
 -   Open discussion on any topics around Microsoft 365 --
     [9:37](https://youtu.be/goyvp3Eh-1s?t=577)
+
 **General resources**:
 
 -   Archives - Microsoft 365 PnP Weekly
@@ -165,7 +176,7 @@ of this community.  Wishing you a happy and healthy entry into 2022.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -190,7 +201,7 @@ of this community.  Wishing you a happy and healthy entry into 2022.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -199,27 +210,30 @@ of this community.  Wishing you a happy and healthy entry into 2022.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
 
--   **SharePoint Framework call --** December 30th at 7:00 am PST
+
+-   **SharePoint Framework call** -- December 30th at 7:00 am PST
     | <https://aka.ms/spdev-spfx-call>
--   **Microsoft 365 platform call** **-- **January 4that 8:00 am PST
+-   **Microsoft 365 platform call** -- January 4that 8:00 am PST
     | <https://aka.ms/m365-dev-call>
--   **M365 General Dev call -- **January 6th at 7:00 am PST
+-   **M365 General Dev call** -- January 6th at 7:00 am PST
     | <https://aka.ms/m365-dev-sig>
--   **Office add-in monthly call -- **January 12that 8:00 am PST
+-   **Office add-in monthly call** -- January 12that 8:00 am PST
     | <https://aka.ms/officeaddinscall>
--   **Adaptive Cards monthly call -- **January 13that 9:00 am PST
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- January 19th at 8:00 am PST
+-   **Adaptive Cards monthly call** --January 13that 9:00 am PST
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- January 19th at 8:00 am PST
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** January 20th at 9:00 am
+-   **Microsoft Identity Platform call** -- January 20th at 9:00 am
     PST | <https://aka.ms/IDDevCommunityCalendar>
 Microsoft 365 Platform community call focuses on latest Microsoft 365
 Platform updates and demos delivered by Microsoft presenters and takes
@@ -229,14 +243,20 @@ development/implementation) and Microsoft 365 Platform (includes
 Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning,
 PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps,
 Column Formatting, list formatting, etc. topics.) with demos commonly
-delivered by community members.   More details on the Microsoft 365
+delivered by community members. 
+
+ More details on the Microsoft 365
 community from [http://aka.ms/m365pnp](http://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  Welcome and join in the
+from <https://aka.ms/m365-dev-call>.  
+
+Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free
 to provide your input as comments to this post as well. More details on
 the Microsoft 365 community and options to get involved are available
 from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
+
+
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

@@ -47,15 +47,17 @@ To help you easily ensure that sites with the right configuration
 exists, we introduce the `spo site ensure` command. Using this command,
 you can for example easily ensure that a site exists at the specified
 URL and create one if it doesn't:
+
 ```sh
 m365 spo site ensure --url https://contoso.sharepoint.com/sites/team1 --alias team1 --title "Team 1"
 ```      
 
 Using the command you can also ensure that the site that exists has the
 right type and properties:
+
 ```sh
 m365 spo site ensure --url https://contoso.sharepoint.com/sites/team1 --alias team1 --title "Team 1" --isPublic --shareByEmailEnabled
-``
+```
 
 This is the first `ensure` command that we introduce in CLI for
 Microsoft 365. We'd love you to give it a try and tell us what you
@@ -72,17 +74,20 @@ that allows you to control how the site's header and footer look like.
 In this version of CLI for Microsoft 365, we introduce a command that
 allows you to control site's chrome.
 To show site's header in compact mode, execute:
+
 ```sh
 m365 spo site chrome set --url https://contoso.sharepoint.com/sites/project-x --headerLayout Compact
 ```
  
 To show site's header in extended mode and align the logo to the right,
 execute:
+
 ```bash
 m365 spo site chrome set --url https://contoso.sharepoint.com/sites/project-x  --headerLayout Extended --logoAlignment Right
 ```
  
 To disable the footer, execute:
+
 ```bash
 m365 spo site chrome set --url https://contoso.sharepoint.com/sites/project-x --disableFooter true
 ```
@@ -98,11 +103,13 @@ it, is using CLI for Microsoft 365.
  
 In this version we introduce a command that let's you copy the
 specified page or page template. To copy a page template, execute:
+
 ```bash
 m365 spo page copy --webUrl https://contoso.sharepoint.com/sites/team-a --sourceName "templates/PageTemplate.aspx" --targetUrl "page.aspx"
 ```
 
 To copy a page to another site, execute:
+
 ```bash
 m365 spo page copy --webUrl https://contoso.sharepoint.com/sites/team-a --sourceName "templates/PageTemplate.aspx" --targetUrl "https://contoso.sharepoint.com/sites/team-b/sitepages/page.aspx"
 ```
@@ -120,19 +127,23 @@ To help organizations manage their Power Apps, we introduce in this
 version three new commands.
 First, we let you get the list of your Power Apps environments, by
 executing:
+
 ```bash
 m365 pa environment list
 ```
  
 To get more information about a specific environment, execute:
+
 ```bash
 m365 pa environment get --name Default-d87a7535-dd31-4437-bfe1-95340acd55c5
 ```
  
 To get information about a specific app, execute:
+
 ```bash
 m365 pa app get --name 3989cb59-ce1a-4a5c-bb78-257c5c39381d
 ```
+
 These commands extend our set of Power Platform commands. For the list
 of all commands for Power Platform, see the
 [documentation](https://pnp.github.io/cli-microsoft365/cmd/pa/environment/environment-list/).
@@ -200,6 +211,7 @@ Microsoft 365.
 In this version, we made it even easier by introducing an alias for the
 resource. If you called SharePoint previously using CLI for Microsoft
 365, you can quickly get an access token for SharePoint by executing:
+
 ```bash
 m365 util accesstoken get --resource sharepoint
 ```
@@ -266,6 +278,7 @@ for Microsoft, you can expect us to add more commands across the
 different workloads in Microsoft 365.
  
 ### Improved managing SharePoint pages
+
 Microsoft keeps investing in modern SharePoint pages continuously
 introducing new capabilities to let us publish rich content. We're
 looking into extending our support for managing modern SharePoint pages
@@ -310,14 +323,18 @@ it's something you'd like us to implement for other commands as well.
 
 Get the latest release of the CLI for Microsoft 365 from npm by
 executing in the command line:
+
 ```bash
 npm i -g @pnp/cli-microsoft365
 ```
+
 Alternatively, you can get the latest release from Docker by executing
 in the command line:
+
 ```bash
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
+
 If you need more help getting started or want more details about the
 commands, the architecture or the project, go to
 [aka.ms/cli-m365](https://aka.ms/cli-m365).

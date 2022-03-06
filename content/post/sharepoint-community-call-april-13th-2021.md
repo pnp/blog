@@ -19,7 +19,13 @@ community recognition for Developers, IT Pros and Makers.  This monthly
 community call happens on the second Tuesday of each month. You can
 download recurrent invite from <https://aka.ms/sp-call>.
 
+<<<<<<< HEAD
+
+## Call Summary
+
+=======
 ## Call summary
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 Visit the new [Microsoft 365 PnP Community
 hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP)
@@ -52,7 +58,14 @@ licensing.  Familiar extensible platform that will include mobile this
 summer.   Create Viva Connections app package in PowerShell, upload
 package to Teams Admin Center.    
 
+<<<<<<< HEAD
+
+**Actions:**
+
+
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 -   Register for livestream and for a regional watch party:
     -   Register to watch the Microsoft Graph livestream on April 14
         with your community at:  <https://aka.ms/pnpwatchparty>
@@ -90,7 +103,7 @@ package to Teams Admin Center.    
     -- <https://aka.ms/sp-call>.
 You can check the latest updates in the [monthly
 summary](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-community-pnp-april-2021-update/ba-p/2188616) and
-at [aka.ms/spdev-blog](https://developer.microsoft.com/en-us/sharepoint/blogs/).
+at [aka.ms/spdev-blog](https://developer.microsoft.com/sharepoint/blogs/).
 
 This call was delivered on Tuesday, April 13, 2021. The call agenda is
 reflected below with direct links to specific sections.  You can jump
@@ -100,6 +113,7 @@ the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
 
 **Call Agenda:**
+
 -   SharePoint community update with latest news and roadmap
     -- [2:47](https://youtu.be/CP_q6eRe3X4?t=167)
 -   UserVoice status for non-dev focused SharePoint entries
@@ -120,6 +134,7 @@ SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 ## Resources
 
 Additional resources on covered topics and discussions.
+
 -   Documentation - [Add Viva Connections for Microsoft Teams
     desktop](https://docs.microsoft.com/SharePoint/viva-connections) 
 
@@ -147,18 +162,19 @@ Additional resources on covered topics and discussions.
 
 -   Microsoft Teams Samples Gallery | aka.ms/teams-samples
 
-**Additional Resources:**
+**Additional resources:**
+
 -   [PnP Weekly - Videos](https://aka.ms/pnpweekly)
 -   [PnP Weekly - Podcasts](http://pnpweekly.podbean.com/)
 -   [M365 Community Documentation](https://aka.ms/m365-community-docs) -
     (non-dev)
 -   [SharePoint Documentation and
-    Guidance](https://docs.microsoft.com/en-us/sharepoint/) -
+    Guidance](https://docs.microsoft.com/sharepoint/) -
     (technical)
 -   [SharePoint Framework
-    v1.11](https://developer.microsoft.com/en-us/sharepoint/blogs/announcing-sharepoint-framework-1-11-extend-more-of-microsoft-teams-and-publish-to-appsource/)
+    v1.11](https://developer.microsoft.com/sharepoint/blogs/announcing-sharepoint-framework-1-11-extend-more-of-microsoft-teams-and-publish-to-appsource/)
 -   [SharePoint Framework v1.11 release
-    notes](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/release-1.11.0)
+    notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.11.0)
 -   [Exploring how to get started on open-source and community
     work?](https://aka.ms/sharing-is-caring)
 -   [SharePoint Starter
@@ -171,7 +187,9 @@ Additional resources on covered topics and discussions.
 -   SharePoint Development UserVoice - new feature requests
     - <http://aka.ms/spdev-uservoice>
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 -   **Office add-in monthly call --** April 14th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
 -   **M365 General Dev call --** April 15th at 7:00 am PDT |
@@ -182,7 +200,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/microsoftteamscommunitycall>
 -   **Power Apps monthly call --** April 21st at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** April 22nd at 7:00 am PDT |
+-   **SharePoint Framework call** -- April 22nd at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **M365 General Dev call --** April 29th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>

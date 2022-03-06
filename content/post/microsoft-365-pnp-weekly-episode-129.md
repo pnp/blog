@@ -25,8 +25,9 @@ inclusive and diverse.
 
 [This episode was recorded on Monday, May 31,
 2021.]
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 These videos and podcasts are published each week and are intended to be
@@ -42,6 +43,7 @@ Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
 **Events:**
+
 -   June 1-2, 2021 - [European SharePoint Conference 2021 -
     Online](https://www.sharepointeurope.com/conference/schedule/)
 -   August 9-11, 2021 - [North American Collaboration
@@ -51,8 +53,9 @@ everyone for your contributions to the community!
 
 
 **Microsoft articles:**
+
 -   [Build the next generation of collaborative apps for hybrid
-    work](https://www.microsoft.com/en-us/microsoft-365/blog/2021/05/25/build-the-next-generation-of-collaborative-apps-for-hybrid-work/?WT.mc_id=m365-30273-wmastyka) -
+    work](https://www.microsoft.com/microsoft-365/blog/2021/05/25/build-the-next-generation-of-collaborative-apps-for-hybrid-work/?WT.mc_id=m365-30273-wmastyka) -
     [Nicole Herskowitz](https://twitter.com/nicolelamb) (Microsoft)
     | \@nicolelamb
 -   [Microsoft Build - Book of
@@ -77,22 +80,23 @@ everyone for your contributions to the community!
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-for-admins-in-microsoft-365-apps-for-enterprise-april/ba-p/2382111?WT.mc_id=m365-30273-wmastyka) -
     Microsoft
 -   [What's New for the Microsoft 365 Developer | Build
-    2021](https://developer.microsoft.com/en-us/graph/blogs/whats-new-in-microsoft-365-platform-at-build-2021/?WT.mc_id=m365-30273-wmastyka) -
+    2021](https://developer.microsoft.com/graph/blogs/whats-new-in-microsoft-365-platform-at-build-2021/?WT.mc_id=m365-30273-wmastyka) -
     Microsoft
 -   [Four new features to build richer apps for Microsoft Teams
-    meetings](https://developer.microsoft.com/en-us/microsoft-365/blogs/learn-how-developers-can-build-new-innovative-meeting-experiences/?WT.mc_id=m365-30273-wmastyka) -
+    meetings](https://developer.microsoft.com/microsoft-365/blogs/learn-how-developers-can-build-new-innovative-meeting-experiences/?WT.mc_id=m365-30273-wmastyka) -
     Microsoft
 -   [What's new in Office Platform at Build
-    2021](https://developer.microsoft.com/en-us/microsoft-365/blogs/whats-new-in-office-platform-at-build-2021/?WT.mc_id=m365-30273-wmastyka) -
+    2021](https://developer.microsoft.com/microsoft-365/blogs/whats-new-in-office-platform-at-build-2021/?WT.mc_id=m365-30273-wmastyka) -
     Microsoft
 -   [Microsoft Graph @ Build
-    2021](https://developer.microsoft.com/en-us/microsoft-365/blogs/whats-new-in-microsoft-graph-at-build-2021/?WT.mc_id=m365-30273-wmastyka) -
+    2021](https://developer.microsoft.com/microsoft-365/blogs/whats-new-in-microsoft-graph-at-build-2021/?WT.mc_id=m365-30273-wmastyka) -
     Microsoft
 -   [Microsoft Teams App Development Challenge
-    Winners!](https://developer.microsoft.com/en-us/graph/blogs/microsoft-teams-app-development-challenge-winners/?WT.mc_id=m365-30273-wmastyka) -
+    Winners!](https://developer.microsoft.com/graph/blogs/microsoft-teams-app-development-challenge-winners/?WT.mc_id=m365-30273-wmastyka) -
     Microsoft
 
 **Community articles:**
+
 -   [Microsoft 365 PnP Community Spotlight: Hugo
     Bernier](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-hugo-bernier/ba-p/2377738?WT.mc_id=m365-30273-wmastyka) -
     [Hugo Bernier](https://twitter.com/bernierh) (Microsoft)
@@ -157,6 +161,7 @@ everyone for your contributions to the community!
     \@darrellaas
 
 **Additional resources:**
+
 -   [Power Platform Sample
     Gallery](https://aka.ms/powerplatform-samples) - for finding easily
     samples from the GitHub - contributions from the community are

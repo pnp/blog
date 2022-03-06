@@ -17,6 +17,7 @@ Microsoft 365 Platform Community Call - weekly community call recording
 from October 26th, is now available from the Microsoft 365 Community
 YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
+
 **Call Summary**
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
@@ -56,6 +57,7 @@ platform.   
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
 (Microsoft) | \@vesajuvonen.  Q&A takes place in chat throughout the
 call   
+
 **Microsoft 365 Platform News Flash**
 
 -   [Announcing SharePoint Framework 1.13 -- Extending Microsoft Viva
@@ -68,7 +70,14 @@ call   
 -   [Use end-to-end encryption for one-to-one Microsoft Teams
     calls](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/use-end-to-end-encryption-for-one-to-one-microsoft-teams-calls/ba-p/2867066)
 
+<<<<<<< HEAD
+
+**Actions:**
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
+
 
 -   **Next week, join your PnP Community mates in this regularly
     scheduled Microsoft 365 Platform Community Call time slot for a
@@ -115,6 +124,7 @@ call   
 Thank you everybody for being part of the call today.   Join us next
 Tuesday at this same time for a Microsoft Ignite 2021 watch party.     
  
+
 **Demos** delivered in this session
 
 -   **Getting started with hub associations in SharePoint - building the
@@ -178,6 +188,7 @@ slides.
     \@jthake and [Paul
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
+
 **General resources**:
 
 -   Archives - Microsoft 365 PnP Weekly
@@ -195,7 +206,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -220,7 +231,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -229,27 +240,30 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
 
--   **M365 General Dev call -- **October 28th at 7:00 am PDT
+
+-   **M365 General Dev call** -- October 28th at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
 -   Microsoft 365 platform call (**Ignite Watch Party**) **-- **November
     2nd at 8:00 am PDT | <https://aka.ms/m365-dev-call>
--   **SharePoint Framework call --** November 4th at 7:00 am PDT
+-   **SharePoint Framework call** -- November 4th at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
--   **Office add-in monthly call -- **November 10th at 8:00 am PDT
+-   **Office add-in monthly call** -- November 10th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call** -- November 11th at 9:00 am PDT
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- November 17th at 8:00 am PDT
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- November 17th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** November 18th at 9:00 am
+-   **Microsoft Identity Platform call** -- November 18th at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
 Microsoft 365 Platform community call focuses on latest Microsoft 365
 Platform updates and demos delivered by Microsoft presenters and takes
@@ -259,14 +273,20 @@ development/implementation) and Microsoft 365 Platform (includes
 Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning,
 PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps,
 Column Formatting, list formatting, etc. topics.) with demos commonly
-delivered by community members.   More details on the Microsoft 365
+delivered by community members. 
+
+ More details on the Microsoft 365
 community from [http://aka.ms/m365pnp](http://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  Welcome and join in the
+from <https://aka.ms/m365-dev-call>.  
+
+Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free
 to provide your input as comments to this post as well. More details on
 the Microsoft 365 community and options to get involved are available
 from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
+
+
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

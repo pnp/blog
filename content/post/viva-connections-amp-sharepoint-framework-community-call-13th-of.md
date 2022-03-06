@@ -11,14 +11,20 @@ type: "regular"
 ---
 
 {{< image alt="recording-13th-jan.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-13th-of/recording-13th-jan.png" >}}
+
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from January 13th is now available from the Microsoft 365
 Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
- {.video-embed-center .video-embed}
 
+<<<<<<< HEAD
+
+## Call Summary
+
+=======
 ## Call summary
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
     call](https://aka.ms/m365-dev-call).  Next call on the 18th of
@@ -68,7 +74,12 @@ throughout the call.
 Thank you for joining the call today and/or for viewing the recording. 
 Awesome to see many of you on the screen.
 
+<<<<<<< HEAD
+**Actions:**
+
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   Opt into PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
@@ -143,11 +154,11 @@ Awesome to see many of you on the screen.
 
 
 
-**SPFx extension samples: (<https://aka.ms/spfx-extensions>) **
+**SPFx extension samples: (<https://aka.ms/spfx-extensions>)**
 
 -   Next call
 
-**SPFx web part samples: (<https://aka.ms/spfx-webparts>) **
+**SPFx web part samples: (<https://aka.ms/spfx-webparts>)**
 
 
 -   **[Property Control
@@ -190,8 +201,13 @@ Awesome to see many of you on the screen.
 
 \* To be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
+<<<<<<< HEAD
+
+**Agenda items:**
+=======
   
 ## Agenda items
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -230,9 +246,14 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **Demo 3**:  SharePoint Framework Design Patterns -- Custom Web Part
     Properties (Part 3) -- [Hugo Bernier](http://twitter.com/bernierh)
     (Microsoft) |
+<<<<<<< HEAD
+    \@bernierh [--][ [43:52](https://youtu.be/iMbQyxdPcSU?t=2632)]
+**Resources:**
+=======
     \@bernierh [--][ [43:52](https://youtu.be/iMbQyxdPcSU?t=2632)][ ]
 
 ## Resources
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 Additional resources around the covered topics and links from the
 slides.
@@ -283,7 +304,7 @@ slides.
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
@@ -304,7 +325,7 @@ slides.
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
@@ -369,24 +390,24 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  **
 
--   **Microsoft 365 platform call** **-- **January 18th at 8:00 am PST
+-   **Microsoft 365 platform call** -- January 18th at 8:00 am PST
     | <https://aka.ms/m365-dev-call>
--   **Power Apps monthly call **-- January 19th at 8:00 am PST
+-   **Power Apps monthly call**-- January 19th at 8:00 am PST
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **M365 General Dev call -- **January 20th at 7:00 am PST
+-   **M365 General Dev call** -- January 20th at 7:00 am PST
     | <https://aka.ms/m365-dev-sig>
--   **Microsoft Identity Platform call --** January 20th at 9:00 am
+-   **Microsoft Identity Platform call** -- January 20th at 9:00 am
     PST | <https://aka.ms/IDDevCommunityCalendar>
--   **Viva Connections & SharePoint Framework call --** January
+**Viva Connections & SharePoint Framework call --** January
     27th at 7:00 am PST | <https://aka.ms/spdev-spfx-call>
--   **Office add-in monthly call -- **February 9th at 8:00 am PST
+-   **Office add-in monthly call** -- February 9th at 8:00 am PST
     | <https://aka.ms/officeaddinscall>
--   **Adaptive Cards monthly call -- **February 10th** **at 9:00 am
+-   **Adaptive Cards monthly call** --February 10th** **at 9:00 am
     PST | <https://aka.ms/adaptivecardscommunitycall>
 
 Viva Connections & SharePoint Framework bi-weekly calls are targeted at

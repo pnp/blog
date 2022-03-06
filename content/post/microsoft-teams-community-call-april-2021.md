@@ -14,7 +14,6 @@ type: "regular"
 
 {{< image alt="teams-monthly-20th-april-recording.png" src="images/blog/microsoft-teams-community-call-april-2021/teams-monthly-20th-april-recording.png" >}}
 
-
 **Call Summary**
 
 Latest news from Microsoft engineering on Microsoft Teams updates and
@@ -38,12 +37,19 @@ and 2 of a 3-part series of articles called: "[Build quality Microsoft
 Teams apps with these best practices](https://aka.ms/m365dev/blog)."
   Get the Microsoft Teams Toolkit (Controls) -- "[Designing your
 Microsoft Teams
-app](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview)"
+app](https://docs.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-overview)"
 with layout guidance and reusable assets.  The host of this call was
 Vesa Juvonen (Microsoft) | \@vesajuvonen.  Q&A takes place in chat
 throughout the call.
 
+<<<<<<< HEAD
+
+**Actions:**
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
+
 
 -   Complete the Microsoft 365 Developer Community Survey --
     <https://aka.ms/m365pnp/survey>
@@ -74,7 +80,7 @@ throughout the call.
  
 
 **Microsoft Teams Development
-Samples: **<https://aka.ms/teams-samples>
+Samples:**<https://aka.ms/teams-samples>
 
 -   Looking for Samples!  Please share your good work  
 
@@ -84,9 +90,10 @@ Samples: **<https://aka.ms/teams-samples>
 
  
 
-**It's all about Community - Hello Microsoft Teams community!       **
+**It's all about Community - Hello Microsoft Teams community!**
 
  
+
 
 **Demos** delivered in this session
 
@@ -159,37 +166,37 @@ slides.
     Composer](https://github.com/Microsoft/BotFramework-Composer/) 
 
 -   Documentation - [Bot Framework Composer
-    documentation](https://docs.microsoft.com/en-us/composer/) 
+    documentation](https://docs.microsoft.com/composer/) 
 
 -   Documentation - [Azure Bot Service
-    documentation](https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0) 
+    documentation](https://docs.microsoft.com/azure/bot-service/?view=azure-bot-service-4.0) 
 
 -   Samples - [Samples by JavaScript
     Framework](https://pnp.github.io/sp-dev-fx-webparts/) 
 
 -   [Microsoft Teams platform
-    documentation](https://docs.microsoft.com/en-us/microsoftteams/platform)
+    documentation](https://docs.microsoft.com/microsoftteams/platform)
 
 -   Blog - [Build quality Microsoft Teams apps with these best
     practices: Part
-    1](https://developer.microsoft.com/en-us/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-1/)
+    1](https://developer.microsoft.com/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-1/)
 
 -   Blog - [Build quality Microsoft Teams apps with these best
     practices: Part
-    2](https://developer.microsoft.com/en-us/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-2/)
+    2](https://developer.microsoft.com/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-2/)
 
 -   Blog - [Build quality Microsoft Teams apps with these best
     practices: Part
-    3](https://developer.microsoft.com/en-us/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-3/)
+    3](https://developer.microsoft.com/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-3/)
 
 -   Documentation - [Designing your Microsoft Teams
-    app](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview)
+    app](https://docs.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-overview)
 
 -   Documentation - [Building Microsoft Teams Tabs using SharePoint
-    Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/integrate-with-teams-introduction) 
+    Framework](https://docs.microsoft.com/sharepoint/dev/spfx/integrate-with-teams-introduction) 
 
 -   Documentation - [Build a Me-experience in Microsoft
-    Teams](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/build-for-teams-me-experience) 
+    Teams](https://docs.microsoft.com/sharepoint/dev/spfx/build-for-teams-me-experience) 
 
 -   [Microsoft 365 PnP Community
     hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
@@ -207,14 +214,15 @@ slides.
 
  
 
+
 **General resources**:
 
 -   Microsoft Learn - [Microsoft Teams development Learning
-    Paths](https://docs.microsoft.com/en-us/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
+    Paths](https://docs.microsoft.com/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 -   [Microsoft Teams app
-    templates](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
+    templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) |
     aka.ms/m365devyoutube
@@ -225,11 +233,13 @@ slides.
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
     Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 
+
 **Upcoming Calls | Recurrent Invites:**
+
 
  
 
--   **SharePoint Framework call --** April 22^nd^ at 7:00 am PDT |
+-   **SharePoint Framework call** -- April 22^nd^ at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft 365 Development call --** April 29^th^ at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>

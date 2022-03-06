@@ -57,8 +57,9 @@ parts - Monday, September 13, 2021 and Tuesday, September 21, 2021.
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -84,23 +85,25 @@ everyone for your contributions to the community!\
 
 **Microsoft articles:**
 
+
  
 
 -   [Bringing large groups and communities together in
     Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bringing-large-groups-and-communities-together-in-teams/ba-p/2758095) -
     Marc Pottier (Microsoft)
 -   [Changes to the Microsoft 365 advanced eDiscovery create case API
-    (beta)](https://developer.microsoft.com/en-us/microsoft-365/blogs/changes-to-the-microsoft-365-advanced-ediscovery-create-case-api-beta/) -
+    (beta)](https://developer.microsoft.com/microsoft-365/blogs/changes-to-the-microsoft-365-advanced-ediscovery-create-case-api-beta/) -
     Microsoft
 
  
 
 **Community articles:**
 
+
  
 
 -   [Multi-tenant architecture for SaaS
-    apps](https://developer.microsoft.com/en-us/microsoft-365/blogs/multi-tenant-architechture-for-saas-apps/) -
+    apps](https://developer.microsoft.com/microsoft-365/blogs/multi-tenant-architechture-for-saas-apps/) -
     [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft)
     | [rabwill](https://github.com/rabwill)
 -   [Microsoft 365 Developer Podcast - Microsoft 365 App Certification
@@ -159,6 +162,7 @@ everyone for your contributions to the community!\
  
 
 **Additional resources:**
+
 
  
 

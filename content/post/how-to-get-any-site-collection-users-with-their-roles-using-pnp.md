@@ -66,7 +66,7 @@ Function StartProcessing {
 
 Function GetUserRoles {
     try {
-        $siteURL = Read-Host "Please enter site collcetion URL"
+        $siteURL = Read-Host "Please enter site collection URL"
         Write-Host "Connecting to Site '$($siteURL)'" -f Yellow          
      
         Connect-PnPOnline -Url $siteURL -Credentials $Creds

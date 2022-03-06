@@ -17,9 +17,14 @@ recording from November 18th is now available from the Microsoft 365
 Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
- {.video-embed-center .video-embed}
 
+<<<<<<< HEAD
+
+## Call Summary
+
+=======
 ## Call summary
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
     call](https://aka.ms/m365-dev-call).  Featured topics for the
@@ -63,7 +68,13 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 Great to see all of you today - humans and ghosts.  Possibly some will
 meet in Düsseldorf or in Las Vegas later this year.     
 
+<<<<<<< HEAD
+**Actions:**
+
+
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   Opt in to PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
@@ -127,6 +138,13 @@ meet in Düsseldorf or in Las Vegas later this year.     
     list that's rendered using React controls.  Search, sort and group
     by app, type and expiration date.  
 
+<<<<<<< HEAD
+**SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
+
+-   **missing you! **
+
+**SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
+=======
 ## SPFx extension samples
 
 <https://aka.ms/spfx-extensions>
@@ -136,12 +154,14 @@ meet in Düsseldorf or in Las Vegas later this year.     
 ## SPFx web part samples
 
 <https://aka.ms/spfx-webparts>
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   [**Teams Graph Upload as
     PDF**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-graph-upload-as-pdf) -
     [Markus Moeller](http://twitter.com/moeller2_0) | \@moeller2_0
 **PnP SPFx
 ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
+
 -   Hybrid Work Employee Check-in\* - [Arijit
     Mondal](https://www.linkedin.com/in/arijit-cloud/) | [linkedin.com/in/arijit-cloud](https://www.linkedin.com/in/arijit-cloud)
 
@@ -204,7 +224,7 @@ slides.
     Item(s)](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-copy-move-items) 
 
 -   **D1: ** AppSource - [Items
-    Replicator](https://appsource.microsoft.com/en-us/product/office/WA200003307?tab=Overview) 
+    Replicator](https://appsource.microsoft.com/product/office/WA200003307?tab=Overview) 
 
 -   **D2:** Repo -
     [ace-cardgallery](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ace-cardgallery)
@@ -230,7 +250,11 @@ slides.
     Expirations](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/use-power-automate-to-notify-of-upcoming-azure-ad-app-client/ba-p/2406145)
 
 -   **D3:** LinkedIn -- [Aimery
+<<<<<<< HEAD
+    Thomas](https://www.linkedin.com/in/aimery-thomas-17418187/)
+=======
     Thomas](https://www.linkedin.com/in/aimery-thomas-17418187/ )
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   **PnP Weekly -- Episode 143** (November 15th) with Nairobi,
     Kenya-based Program Manager at Microsoft - [Roina
@@ -265,7 +289,7 @@ slides.
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
@@ -286,7 +310,7 @@ slides.
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
@@ -351,24 +375,25 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  **
 
--   **Microsoft 365 platform call** **-- **November 23rdat 8:00 am PST
+-   **Microsoft 365 platform call** -- November 23rdat 8:00 am PST
     | <https://aka.ms/m365-dev-call>
--   **M365 General Dev call -- **November 25th at 7:00 am PST
+-   **M365 General Dev call** -- November 25th at 7:00 am PST
     | <https://aka.ms/m365-dev-sig>
--   **SharePoint Framework call --** December 2nd at 7:00 am PST
+-   **SharePoint Framework call** -- December 2nd at 7:00 am PST
     | <https://aka.ms/spdev-spfx-call>
--   **Office add-in monthly call -- **December 8th at 8:00 am PST
+-   **Office add-in monthly call** -- December 8th at 8:00 am PST
     | <https://aka.ms/officeaddinscall>
--   **Adaptive Cards monthly call -- **December 9that 9:00 am PST
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- December 15th at 8:00 am PST
+-   **Adaptive Cards monthly call** --December 9that 9:00 am PST
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- December 15th at 8:00 am PST
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** December 16th at 9:00 am
+-   **Microsoft Identity Platform call** -- December 16th at 9:00 am
     PST | <https://aka.ms/IDDevCommunityCalendar>
 Viva Connections & SharePoint Framework bi-weekly calls are targeted at
 anyone who is interested in the JavaScript-based development towards

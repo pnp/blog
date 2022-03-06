@@ -21,13 +21,13 @@ Ayca Bas
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/azure-event-hub-and-rich-notifications-with-ayca-bas/)
 
 
-### Links from the show: 
+## Links from the show
 
 -   [Get Microsoft Graph change notifications delivered through Azure
     Event
-    Hubs](https://developer.microsoft.com/en-us/graph/blogs/get-microsoft-graph-change-notifications-delivered-through-azure-event-hubs/)
+    Hubs](https://developer.microsoft.com/graph/blogs/get-microsoft-graph-change-notifications-delivered-through-azure-event-hubs/)
 -   [Set up change notifications that include resource
-    data](https://docs.microsoft.com/en-us/graph/webhooks-with-resource-data)
+    data](https://docs.microsoft.com/graph/webhooks-with-resource-data)
 -   [Build session
     recording](https://www.youtube.com/watch?v=d04sJHNYWVshttps://www.youtube.com/watch?v=d04sJHNYWVs)
 
@@ -41,7 +41,7 @@ SDK](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/auto
 Update](https://techcommunity.microsoft.com/t5/azure-monitor/application-insights-azue-devops-release-annotations/ba-p/2406008)
 
 [Microsoft Teams: Change notifications extended for federated
-chats](https://developer.microsoft.com/en-us/graph/blogs/change-notifications-extended-for-federated-chats/)
+chats](https://developer.microsoft.com/graph/blogs/change-notifications-extended-for-federated-chats/)
 
 Microsoft Build 2021
 
@@ -53,7 +53,7 @@ Microsoft Build 2021
     Sessions](https://www.youtube.com/playlist?list=PLlrxD0HtieHgMGEnTzEEfkADbaG8aAWRp)
 
 [Join us to see what's next for
-Windows](https://www.microsoft.com/en-us/windows/event)
+Windows](https://www.microsoft.com/windows/event)
 
 ### Community Links 
 

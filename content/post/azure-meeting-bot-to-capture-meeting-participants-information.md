@@ -88,7 +88,7 @@ We will be using yo teams to generate our Node JS Based Bot Solution.
 
 Go to Node JS command prompt and type,
 
-```
+```PowerShell
 yo teams
 ```
 
@@ -122,7 +122,7 @@ expand this to store the body object in the Database.
 
 Modify /api/calling endpoint code to below,
 
-```
+```JavaScript
 /**
  * Webhook for incoming calls
  */
@@ -155,7 +155,7 @@ provide the below Application permissions.
 {{< image alt="SiddharthVaghasia_10-1630435867800.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_10-1630435867800.png" >}}
 
 We would be calling below GRAPH API document at
-<https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http>
+<https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http>
 which states the above permissions.
            
 ## Step - Create Client Secret
@@ -182,7 +182,7 @@ Method type - Post
 **Sample Request Body**
 
 
-``` 
+```JSON
 {
   "@odata.type": "#microsoft.graph.call",
   "callbackUri": "<span style="color: #0000ff;">https://bot.contoso.com/callback</span>",
@@ -228,7 +228,7 @@ Method type - Post
  
 
 Reference URL -
-[https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam\...](https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media)
+[https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam\...](https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media)
 
 Here I have highlighted the values which we have to replace according to
 our setup and team meeting. Below is how you will get this information.
@@ -293,7 +293,7 @@ steps from the Azure Ad App Registration screen.
 
 Go to command prompt and project path and run
 
-``` 
+```PowerShell
 gulp ngrok-serve
 ```
 
@@ -322,7 +322,7 @@ It takes on around 2 mins before we will receive the request body object
 in the webhook. We will receive the same response for every event, this
 is documented in the URL
 
-*[https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam\...](https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media)*
+*[https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam\...](https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media)*
 
 {{< image alt="SiddharthVaghasia_18-1630435934427.png" src="images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_18-1630435934427.png" >}}
 
@@ -344,7 +344,7 @@ Below are some notes based on my experience.
 Below is a sample of JSON which we receive when someone joins.
  
 
-``` 
+```JSON
 {
   "@odata.type": "#microsoft.graph.commsNotifications",
   "value": [

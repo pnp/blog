@@ -19,12 +19,13 @@ Listen to the show here:  [SPFx, Azure Functions and PnP Re-Usable
 controls with Joel Rodrigues
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/spfx-azure-functions-and-pnp-re-usable-controls-with-joel-rodrigues/)
 
-## Links from the show: 
+
+## Links from the show
 
 -   [Work with Azure Functions
-    Proxies](https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies?WT.mc_id=M365-MVP-4025164)
+    Proxies](https://docs.microsoft.com/azure/azure-functions/functions-proxies?WT.mc_id=M365-MVP-4025164)
 -   [Authentication and authorization in Azure App Service and Azure
-    Functions](https://docs.microsoft.com/en-us/azure/app-service/overview-authentication-authorization?WT.mc_id=M365-MVP-4025164)
+    Functions](https://docs.microsoft.com/azure/app-service/overview-authentication-authorization?WT.mc_id=M365-MVP-4025164)
 -   [PnP Reusable
     Controls](https://pnp.github.io/sp-dev-fx-controls-react/)
 -   [Joel on Twitter](https://twitter.com/JoelFMRodrigues)
@@ -49,3 +50,4 @@ controls with Joel Rodrigues
 -   [Get with the times & ditch TSLint in favor of ESLint in SharePoint
     Framework
     projects](https://www.voitanos.io/blog/spfx-replace-tslint-with-eslint/)
+    

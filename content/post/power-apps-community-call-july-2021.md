@@ -14,7 +14,13 @@ type: "regular"
 
 {{< image alt="900x506-JulyPAThumbslide.png" src="images/blog/power-apps-community-call-july-2021/900x506-JulyPAThumbslide.png" >}}
 
+<<<<<<< HEAD
+
+## Call Summary
+
+=======
 ## Call summary
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 Topics covered in this month's community call includes an inside look at
 the top 5 community selected apps (from over 20 entries) from Demo
@@ -87,18 +93,26 @@ or viewing it on demand. 
     <https://aka.ms/PowerAppsDemoExtravaganza>
 
 -   Documentation - [Microsoft Power Platform: 2021 release wave 2
-    plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave2/) 
+    plan](https://docs.microsoft.com/power-platform-release-plan/2021wave2/) 
 
 -   News - [Power Virtual Agents Community Challenge for all
     Communities](https://powerusers.microsoft.com/t5/News-Announcements/Power-Virtual-Agents-Community-Challenge-for-all-Communities/m-p/1169763#M93) 
 
 
+<<<<<<< HEAD
+
+**Actions:**
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
+
 
 -   Join us for our next call: August 18, 2021 at 08:00am PDT |
     <https://aka.ms/powerappscommunitycall>
 
 **Call Agenda:**
+
 
 -   Demo Extravaganza!
     -   **Course Maker Solution** -- [Rory
@@ -190,7 +204,7 @@ or viewing it on demand. 
     Game](https://powerusers.microsoft.com/t5/Demo-Extravaganza-2021/Kitty-Run/cns-p/951957) 
 
 -   Documentation - [What is the Speech
-    service?](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/overview) 
+    service?](https://docs.microsoft.com/azure/cognitive-services/speech-service/overview) 
 
 -   Video - [Speech to text in PowerApps with Power Automate by Yash
     Kamdar at Hyd Power Apps & Power Automate
@@ -207,7 +221,7 @@ or viewing it on demand. 
     \...](https://kamdaryash.wordpress.com/2020/02/05/create-a-pdf-file-of-text-converted-from-speech-recorded-in-powerapps-using-azure-cognitive-services-part-3/) 
 
 -   Documentation - [Use expressions in conditions to check multiple
-    values](https://docs.microsoft.com/en-us/power-automate/use-expressions-in-conditions) 
+    values](https://docs.microsoft.com/power-automate/use-expressions-in-conditions) 
 
 -   chrome web store - [Metadata Browser for Dynamics 365/Power
     Apps](https://chrome.google.com/webstore/detail/metadata-browser-for-dyna/ahbljnhlfdbecefhilipmpnlfldnplpb) 

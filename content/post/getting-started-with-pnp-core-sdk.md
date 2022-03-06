@@ -33,10 +33,13 @@ designed to use the latest development techniques and standards such as:
     accessing SharePoint.
 -   **Batching support** at the API level to reduce the calls to the
     service with retry logic to handle cases such as service throttling.
+
 ## Improved Quality 
+
 The PnP Core SDK has a strong focus on quality, to help reduce bugs and
 issues, provide developers with better support working with the SDK,
 concentrating, and building on the following points:
+
 -   **Unit testing** -- with a project goal to maintain over **80% of
     the SDK covered by unit tests**, we also as part use a new mocking
     framework that allows us to perform rapid tests without the
@@ -85,7 +88,7 @@ required, for this you we recommend creating your own Azure AD app, and
 there are tools that can assist with this either the [Microsoft 365
 CLI](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity/#register-azure-ad-application-in-your-tenant),
 [PnP
-PowerShell](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/register-pnpazureadapp?view=sharepoint-ps)
+PowerShell](https://docs.microsoft.com/powershell/module/sharepoint-pnp/register-pnpazureadapp?view=sharepoint-ps)
 are great at making it easy to setup your own Azure AD Apps --
 additionally, [we also have documentation to help set up the
 app](https://pnp.github.io/pnpcore/using-the-sdk/configuring%20authentication.html).
@@ -112,6 +115,7 @@ going, this blog is using Visual Studio 2019, version V16.9.
 In Visual Studio, create a new C# Console Application (.NET core),
  
 {{< image alt="Create a new visual studio project" src="images/blog/getting-started-with-pnp-core-sdk/Create a new project.png" >}}
+
 (Note: I have filtered the list using the dropdowns to find the project
 type quickly)
 
@@ -120,7 +124,8 @@ discretion,
 
 Under additional information, please select .NET 5.0 as the Target
 Framework
-{{< image alt="Visual studio - select .NET version" src="images/blog/getting-started-with-pnp-core-sdk/addtional information.png" >}}
+{{< image alt="Visual studio - select .NET version" src="images/blog/getting-started-with-pnp-core-sdk/additional information.png" >}}
+
 
 Visual Studio will create a hello world project for you, as a starting
 place.
@@ -141,7 +146,7 @@ earlier.
 
 {{< image alt="Find the PnP Core SDK NuGet packages" src="images/blog/getting-started-with-pnp-core-sdk/Nuget Packages.png" >}}
 
-### **About the versions and libraries** 
+### About the versions and libraries
 
 When searching for the NuGet packages you will see two options, these
 options are:
@@ -157,11 +162,12 @@ You will need an additional NuGet Package called
 "Microsoft.Extensions.Hosting" -- this allows us to manage the services
 in the lifetime of running the app. For further information, [please
 refer the documentation around the generic host
-library](https://docs.microsoft.com/en-us/dotnet/core/extensions/generic-host).
+library](https://docs.microsoft.com/dotnet/core/extensions/generic-host).
 With regards to the way versioning is done for the SDK, there are major
 releases which currently is v1.0.0 and nightly releases e.g.,
 v1.0.1-nightly which are the prerelease versions allowing you to use the
 very latest build this would include any fixes and new features.
+
 {{< image alt="PnP Core SDK release versions" src="images/blog/getting-started-with-pnp-core-sdk/SDK Release versions.png" >}}
 
 ### Let's start writing some code 
@@ -413,7 +419,9 @@ examples and a video walkthrough, checkout the short video by Paolo
 Pialorsi (one of the major authors of the SDK) on PiaSys Tech Bites, 
 "Welcome PnP Core SDK" with a fantastic demo (no spoilers here) -
 <https://www.youtube.com/watch?v=ozqN5-Yh5cM>
+
 **Check out these great resources to help you build your solutions:**
+
 -   For understanding how the PnP Core SDK fits in the picture of the
     wave of uplifts by the team check out - [How the new wave of
     libraries from Microsoft 365 PnP will change the way you modernize
@@ -432,4 +440,5 @@ areas in the issues
 list](https://github.com/pnp/pnpcore/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 for areas we are looking for help with, please reach out either on
 social media, via GitHub to connect and support you getting started.
+
 **Enjoy!**

@@ -16,6 +16,7 @@ type: "regular"
 
 
 In this month's community call, there is
+
 - a quick roadmap update -- 9
 features in development to be delivered in Schema versions 1.4, 1.5, 1.6
 over the next 3 months.
@@ -28,13 +29,14 @@ Schema v1.4.
 Outlook front-ends.   Developers no longer need to build separate
 applications for each environment.
 - The call was hosted by Matt
-Hidinger (Microsoft). Presenters include Shiladitya Saha (Microsoft
-Teams) and Karan Thapar (Microsoft Outlook).  Recorded on March 11,
-2021.
+Hidinger (Microsoft). Presenters include Shiladitya Saha (Microsoft Teams) and Karan Thapar (Microsoft Outlook).  Recorded on March 11, 2021.
+
+
 
 ## Demo
 
-**Deep dive into Universal Actions for Microsoft Teams and Outlook -**
+**Deep dive into Universal Actions for Microsoft Teams and Outlook**
+
 cards authored using the new **Action.Execute** action type "just work"
 in Teams chats, Outlook emails and more thanks to seamless back-end
 activity synchronization.  Action.Execute can return a new card to
@@ -48,7 +50,7 @@ adaptive card using auto invoke and synchronized refresh capabilities. 
 
 -   Portal - [Roadmap updates](https://aka.ms/ACRoadmap) 
 -   Document - [Universal Action
-    Model](https://docs.microsoft.com/en-us/adaptive-cards/authoring-cards/universal-action-model) 
+    Model](https://docs.microsoft.com/adaptive-cards/authoring-cards/universal-action-model) 
      
 -   Schema Explorer - [Schema v1.4
     Docs](https://adaptivecards.io/explorer/Action.Execute.html)
@@ -61,7 +63,7 @@ adaptive card using auto invoke and synchronized refresh capabilities. 
 -   Check out the Build 2020 Session - <https://aka.ms/m365sk134>
 -   Find tools, sample cards and more - <https://www.madewithcards.io>
 
-## Stay connected:
+## Stay connected
 
 -   Twitter
     [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​

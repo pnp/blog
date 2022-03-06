@@ -52,9 +52,11 @@ That's nice right. But how does it work. Well CLI for M365 is given as a
 npm package, that's right you need Node.js (that's why it's cross
 platform). How cool is that. If only we could use Node on Android right
 😀.
-## **CLI everywhere, why not on mobile?**
+
+## CLI everywhere, why not on mobile?
 
 So let's check how we may use CLI for Microsoft 365 on Andriod.
+
 1.  First we need a terminal to install Node. For this we may use
   
     [Termux
@@ -65,21 +67,28 @@ So let's check how we may use CLI for Microsoft 365 on Andriod.
     on
 2.  Next we need to usually update the
     terminal
+
     ```bash
     apt update && apt upgrade
     ```
+
 3.  Now we need to install
     Node
+
     ```bash
     apt install nodejs
     ```
+
 4.  Now we need to install CLI for
     M365
+
     ```bash
     npm i -g @pnp/cli-microsoft365
     ```
+
 ... done.
 Lets check what we have using bash
+
 ```bash
 m365
 ```
@@ -89,16 +98,22 @@ m365
 CLI for Microsoft 365 is up and running... Nice.
 Now to manage the tenant we only need to login. This is done like
 always
+
 ```bash
 m365 login
 ```
+
 {{< image alt="5.png" src="images/blog/cli-for-microsoft-365-on-your-mobile/5.png" >}}
 After successful login we may check the connection status running
+
 ```bash
 m365 status
 ```
+
 {{< image alt="3.png" src="images/blog/cli-for-microsoft-365-on-your-mobile/3.png" >}}
+
 Now lets try any command. Lets check my sites on tenant running
+
 ```bash
 m365 spo site list
 ```
@@ -106,6 +121,7 @@ m365 spo site list
 {{< image alt="1.png" src="images/blog/cli-for-microsoft-365-on-your-mobile/1.png" >}}
 
 Or lets check my ToDo tasks
+
 ```bash
 m365 todo task list --listName 'Test list
 ```

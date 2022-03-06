@@ -14,7 +14,9 @@ type: "regular"
 
 {{< image alt="8th-july-recording-m365dev.png" src="images/blog/microsoft-365-developer-community-call-recording-8th-of-july/8th-july-recording-m365dev.png" >}}
 
-## Call summary
+
+## Call Summary
+
 
 Summer and Fall community call schedule updates reviewed. Preview the
 new [Microsoft 365 Extensibility look book
@@ -48,6 +50,7 @@ throughout the call.
 
 **Actions**
 -   **Register for Sharing is Caring Events**:
+
     -   First Time Contributor Session -- [August
         31st](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u)
         (EMEA, APAC & US friendly times available)
@@ -88,6 +91,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 {{< image alt="PictureTimeGIF-8JUly2021-2Sec-30FPS.gif" src="images/blog/microsoft-365-developer-community-call-recording-8th-of-july/PictureTimeGIF-8JUly2021-2Sec-30FPS.gif" >}}
 Thank you for making time in your Summer time schedule to join us for
 today's PnP Community call.   You're awesome!   
+
 **Demos** delivered in this session
 
 -   **Image Column Type formatting in Microsoft 365** -- upload images
@@ -148,7 +152,7 @@ Additional resources around the covered topics and links from the
 slides.
 
 -   Documentation - [List thumbnails for a
-    DriveItem](https://docs.microsoft.com/en-us/graph/api/driveitem-list-thumbnails?view=graph-rest-1.0&tabs=http) 
+    DriveItem](https://docs.microsoft.com/graph/api/driveitem-list-thumbnails?view=graph-rest-1.0&tabs=http) 
 
 -   Sample - [Image
     Lightbox](https://github.com/pnp/List-Formatting/tree/master/column-samples/image-lightbox) 
@@ -161,10 +165,10 @@ slides.
     (nodeJS)](https://mmsharepoint.wordpress.com/2021/05/17/configure-teams-applications-with-azure-app-configuration-nodejs/) 
 
 -   Documentation - [Azure App Configuration
-    documentation](https://docs.microsoft.com/en-us/azure/azure-app-configuration/) 
+    documentation](https://docs.microsoft.com/azure/azure-app-configuration/) 
 
 -   Documentation - [Azure Key Vault Developer's
-    Guide](https://docs.microsoft.com/en-us/azure/key-vault/general/developers-guide) 
+    Guide](https://docs.microsoft.com/azure/key-vault/general/developers-guide) 
 
 -   Blog post - [Microsoft Teams Tabs SSO and Microsoft Graph - the
     'on-behalf-of' blog
@@ -191,6 +195,7 @@ slides.
 -   [Microsoft Teams Samples
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
+
 **General resources**:
 
 -   PnP Teams Quickstart
@@ -206,7 +211,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -231,7 +236,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -240,13 +245,15 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
 -   **Office add-in monthly call --** July 14th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
 -   **SharePoint Framework call** **--** July 15th at 7:00 am PDT |

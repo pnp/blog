@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Developer Podcast - Microsoft 365 App Certification with Orion O\'Malley"
+title: "Microsoft 365 Developer Podcast - Microsoft 365 App Certification with Orion O'Malley"
 date: 2021-09-20T08:31:00-04:00
 author: "Paul Schaeflein"
 githubname: pschaeflein
@@ -7,8 +7,6 @@ categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Orion O'Malley joins Jeremy and Paul to talk about the Microsoft 365
@@ -17,17 +15,18 @@ developers.
 
 Listen to the show here: 
 [(m365devpodcast.com)](https://www.m365devpodcast.com/e/)
-## Links from the show: 
+
+## Links from the show
 
 -   <https://aka.ms/getCertified>
 
 ## Microsoft News 
 
 -   [Updates for Microsoft Teams bots in Multi-Geo
-    environments](https://developer.microsoft.com/en-us/graph/blogs/updates-for-microsoft-teams-bots-in-multi-geo-environments/?WT.mc_id=M365-MVP-4025164)
+    environments](https://developer.microsoft.com/graph/blogs/updates-for-microsoft-teams-bots-in-multi-geo-environments/?WT.mc_id=M365-MVP-4025164)
 -   [Announcing a new Microsoft Teams authentication provider and file
     upload feature in the Microsoft
-    Gr\...](https://developer.microsoft.com/en-us/graph/blogs/announcing-a-new-microsoft-teams-authentication-provider-and-file-upload-feature-in-the-microsoft-graph-toolkit/?WT.mc_id=M365-MVP-4025164)
+    Gr\...](https://developer.microsoft.com/graph/blogs/announcing-a-new-microsoft-teams-authentication-provider-and-file-upload-feature-in-the-microsoft-graph-toolkit/?WT.mc_id=M365-MVP-4025164)
 -   [Viva Connections Public
     Preview](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-public-preview/ba-p/2730869?WT.mc_id=M365-MVP-4025164)
 

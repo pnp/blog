@@ -14,6 +14,7 @@ type: "regular"
 
 
 In this article, we will be exploring the below concepts,
+
 -   Understand QuickBooks Online APIs
 -   Trying QuickBooks API from the postman
 -   Create MS flow custom connectors.
@@ -58,6 +59,7 @@ On the top menu, follow the last link to sign up. The below screen will
 open, fill in the below details.
 
 {{< image alt="SiddharthVaghasia_0-1628135161016.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_0-1628135161016.png" >}}
+
 1.  Once sign in, you can follow
     this [link](https://developer.intuit.com/app/developer/qbo/docs/get-started) to
     create an APP. Ignore Steps 3 and 4 for now from this link. Make
@@ -125,7 +127,7 @@ Sandbox Base URL - sandbox-quickbooks.api.intuit.com
 Product Base URL - quickbooks.api.intuit.com (Production)
 
 Company ID -- You can find company ID by following
-this [link](https://quickbooks.intuit.com/learn-support/en-us/customer-company-settings/find-your-quickbooks-online-company-id/00/185551)
+this [link](https://quickbooks.intuit.com/learn-support/customer-company-settings/find-your-quickbooks-online-company-id/00/185551)
 
 Invoice Id -- Set is 1(we will query invoiced Id 1 in one Get Invoice
 Webservice)

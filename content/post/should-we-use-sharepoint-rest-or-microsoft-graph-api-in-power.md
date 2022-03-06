@@ -13,6 +13,7 @@ type: "regular"
 ---
 
 {{< image alt="hello-i-m-nik-n1ccr-zVG68-unsplash.jpg" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/hello-i-m-nik-n1ccr-zVG68-unsplash.jpg" >}}
+
 When working with Microsoft 365, we see many overlapping tools and
 features, and we will need (to provide) much guidance around 'when to
 use what' for users. While most comparisons address users, I want to
@@ -26,7 +27,7 @@ I will grab a coffee :hot_beverage: in the meanwhile.
 
 Back again? Cool. Let me introduce you to our
 
-## []use case 
+## use case 
 
 We want to create a new SharePoint list and add some columns based on
 the user's input using Power Automate or Azure Logic Apps. When we look
@@ -34,13 +35,13 @@ at the different available SharePoint actions in Power Automate, we will
 see that there is no 'create a list' and no 'add column to SharePoint
 list' action, but that we could try out something with ['send an HTTP
 request to
-SharePoint'](https://docs.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request)
+SharePoint'](https://docs.microsoft.com/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request)
 
 ### Option No. 1: SharePoint REST 
 
 The 'send an HTTP request to SharePoint' action uses SharePoint REST
 API. To create a list, we can look up [working with lists and lists
-items](https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest) and
+items](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest) and
 see that we need to send a POST request to
 the `https://{site_url}/_api/web/lists` endpoint and specify in the body
 of our list how it should look like. We can define the title and
@@ -121,7 +122,7 @@ as body- make sure you replace the placeholder with Dynamic Content:
 #### Parse JSON 
 
 Now we want to add a column. Let's have a look [into the
-documentation](https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest),
+documentation](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest),
 how we can do this.
 
     POST https://{site_url}/_api/web/lists(guid'{list_guid}')/Fields
@@ -177,7 +178,9 @@ will create us a column:
 -   enter Headers as follows:
     -   `Content-type` : `application/json;odata=verbose`
     -   `accept`:`application/json;odata=verbose` enter in the Body:
-```
+
+
+```JSON
     {
       "__metadata": {
         "type": "SP.Field"
@@ -196,7 +199,7 @@ will create us a column:
 {{< image alt="sendhttprequest2.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/sendhttprequest2.png" >}}
 
 Should you stumble upon the FieldTypeKind, please find
-reference [here](https://docs.microsoft.com/en-us/previous-versions/office/sharepoint-csom/ee540543(v=office.15)) -
+reference [here](https://docs.microsoft.com/previous-versions/office/sharepoint-csom/ee540543(v=office.15)) -
 2 means 'single line of text'.
 
 If you want to run your flow, please think about changing the list name
@@ -249,9 +252,9 @@ Let's see how we can create a SharePoint list or library and columns in
 it using Microsoft Graph. Microsoft Graph is a super powerful set of
 APIs that gives you a consistent experience for authentication,
 documentation, and samples. You can try it out on [Microsoft Graph
-Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer).
+Explorer](https://developer.microsoft.com/graph/graph-explorer).
 For full documentation please
-continue [here](https://docs.microsoft.com/en-us/graph/overview). If you
+continue here: [Microsoft Graph Docs]](https://docs.microsoft.com/graph/overview). If you
 are not familiar with using Microsoft Graph in Power Automate, [please
 continue to read
 here](https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/)
@@ -271,7 +274,7 @@ Now that we registered our app in Azure AD, we can continue with the
 HTTP action in Power Automate.
 
 To create a list, we will look up [documentation
-here](https://docs.microsoft.com/en-us/graph/api/list-create?view=graph-rest-1.0&tabs=http) and
+here](https://docs.microsoft.com/graph/api/list-create?view=graph-rest-1.0&tabs=http) and
 see that we will need to send a POST request to
 
 `https://graph.microsoft.com/v1.0/sites/{site-id}/lists`
@@ -292,7 +295,7 @@ We will follow these steps to register an app in Azure AD:
 -   Click **API PERMISSIONS** and select Microsoft Graph
 
 Now look up the permissions needed for this action: [Create a new
-list](https://docs.microsoft.com/en-us/graph/api/list-create?view=graph-rest-1.0&tabs=http):
+list](https://docs.microsoft.com/graph/api/list-create?view=graph-rest-1.0&tabs=http):
 
   Application                    Sites.ReadWrite.All
 
@@ -323,7 +326,7 @@ your flow and fill it out as follows:
 -   enter as body:
 
 
-```
+```JSON
     {
         "displayName": "@{triggerBody()['text']}",
         "columns": [
@@ -340,7 +343,7 @@ your flow and fill it out as follows:
 
 Replace the placeholders by Dynamic Content If you stumble off
 the `genericList,` please [read here for
-reference](https://docs.microsoft.com/en-us/previous-versions/office/sharepoint-server/ee541191(v=office.15)) about
+reference](https://docs.microsoft.com/previous-versions/office/sharepoint-server/ee541191(v=office.15)) about
 other list templates like libraries.
 
 If you need to add more columns, you can do that by
@@ -385,7 +388,7 @@ and so on. Let's go ahead and
 When we now run our flow, we will see that the columns that we created
 are already visible in the default view.
 
-### Advantages of this solution: 
+### Advantages of this solution
 
 -   We only need one HTTP request to Create a list, columns and have the
     columns in the default view
@@ -393,7 +396,7 @@ are already visible in the default view.
     in not only SharePoint, we can do this with Microsoft Graph as well
     and extend our permission scope in Azure AD app registration
 
-### Disadvantages of this solution: 
+### Disadvantages of this solution
 
 -   Because HTTP is a premium connector, we will need a Power Apps
     Standalone license

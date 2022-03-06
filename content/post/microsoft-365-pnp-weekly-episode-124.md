@@ -43,8 +43,9 @@ This episode was recorded on Monday, April 26, 2021.
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -67,6 +68,7 @@ everyone for your contributions to the community!\
 
 **Events:**
 
+
 -   April 26-28, 2021 - [Microsoft 365 Virtual Marathon
     2021](https://www.m365virtualmarathon.com/)
 -   May 25-27, 2021- [Microsoft Build
@@ -79,6 +81,7 @@ everyone for your contributions to the community!\
  
 
 **Microsoft articles:**
+
 
  
 
@@ -97,15 +100,16 @@ everyone for your contributions to the community!\
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
     | \@mkashman
 -   [Build quality Microsoft Teams apps with these best practices: Part
-    3](https://developer.microsoft.com/en-us/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-3/?WT.mc_id=m365-26913-wmastyka) -
+    3](https://developer.microsoft.com/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-3/?WT.mc_id=m365-26913-wmastyka) -
     Microsoft
 -   [Utilize change notification APIs for Microsoft Teams
-    messages](https://developer.microsoft.com/en-us/microsoft-365/blogs/utilize-change-notification-apis-for-microsoft-teams-messages/?WT.mc_id=m365-26913-wmastyka) -
+    messages](https://developer.microsoft.com/microsoft-365/blogs/utilize-change-notification-apis-for-microsoft-teams-messages/?WT.mc_id=m365-26913-wmastyka) -
     Microsoft
 
  
 
 **Community articles:**
+
 
  
 
@@ -147,7 +151,7 @@ everyone for your contributions to the community!\
     (Microsoft) | \@DanWahlin, [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
     | \@aprildunnam and [Ayca
-    Bas](http://twitter.com/aycabs)[ ](http://twitter.com/aycabs)(Microsoft)
+    Bas](http://twitter.com/aycabs) (Microsoft)
     | \@aycabs​
 -   [Episode #151​ - Paging Data with Microsoft Graph SDK for
     .NET](https://www.youtube.com/watch?v=H_gg3fmCWzo) - [Paolo
@@ -191,10 +195,11 @@ everyone for your contributions to the community!\
 
 **Additional resources:**
 
+
  
 
 -   [Maturity Model for Microsoft
-    365](https://docs.microsoft.com/en-us/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
+    365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
 -   [Microsoft 365 Community Survey](https://aka.ms/m365pnp/survey) -
     Open for April 2021 - please let us know how we can help to help
     you!

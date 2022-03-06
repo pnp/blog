@@ -21,6 +21,7 @@ from November 30th, is now available from the Microsoft 365 Community
 YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
 
+
 **Call Summary**
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
@@ -60,12 +61,20 @@ The host of this call was [Sébastien
 Levert](http://twitter.com/sebastienlevert) (Microsoft) |
 [sebastienlevert](https://github.com/sebastienlevert).  Q&A takes
 place in chat throughout the call.   
+
 **Microsoft 365 Platform News Flash**
 
 -   [What's New in Microsoft Teams | November
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-november-2021/ba-p/3015700)
 
+<<<<<<< HEAD
+
+**Actions:**
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
+
 
 -   **Register for Sharing is Caring Events:**
     -   Ask me anything (AMA) PnP Search -- [January
@@ -93,6 +102,7 @@ place in chat throughout the call.   
 
 It's great to see everyone today.  Some of you are joining from the
 European Collaboration Summit in *Düsseldorf*, Germany!
+
 **Demos** delivered in this session
 
 -   **Microsoft 365 Application Certification --** Microsoft 365 App
@@ -146,29 +156,30 @@ slides.
 -   **D1:**  Documentation - [Microsoft 365 App Compliance
     Program](https://docs.microsoft.com/microsoft-365-app-certification/overview) 
 
--   **D2:  **Article - [Guidance for implementing partner offerings for
+-   **D2:** Article - [Guidance for implementing partner offerings for
     Viva Connections with ACEs and custom
     APIs](https://devblogs.microsoft.com/microsoft365dev/guidance-on-implementing-partner-offerings-for-viva-connections-with-aces-and-custom-apis/) 
 
--   **D2: ** Sample - [Consume a multi-tenant API within a set of
+-   **D2:** Sample - [Consume a multi-tenant API within a set of
     Microsoft Viva Connections Adaptive Card Extensions
     (ACEs\...](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-pnp-contoso-orders) 
 
--   **D3: ** Article - [Go developers can now access Microsoft Graph
+-   **D3:** Article - [Go developers can now access Microsoft Graph
     with streamlined authentication and
     more](https://devblogs.microsoft.com/microsoft365dev/go-developers-can-now-access-microsoft-graph-with-streamlined-authentication-and-more/) 
 
--   **D3: ** Documentation - [Install the Microsoft Graph
+-   **D3:** Documentation - [Install the Microsoft Graph
     SDKs](https://docs.microsoft.com/graph/sdks/sdk-installation) 
 
--   **D3: ** Repo - [Microsoft Graph SDK for
+-   **D3:** Repo - [Microsoft Graph SDK for
     Go](https://github.com/microsoftgraph/msgraph-sdk-go) 
 
--   **D3: ** Documentation - [Azure for Go
+-   **D3:** Documentation - [Azure for Go
     developers](https://docs.microsoft.com/azure/developer/go/) 
 
--   **D3: ** Q&A --
+-   **D3:** Q&A --
     [aka.askgraphdk](https://docs.microsoft.com/answers/topics/microsoft-graph-sdk.html) 
+
 
 **General resources**:
 
@@ -187,7 +198,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -212,7 +223,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -221,27 +232,30 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
 
--   **SharePoint Framework call --** December 2nd at 7:00 am PST
+
+-   **SharePoint Framework call** -- December 2nd at 7:00 am PST
     | <https://aka.ms/spdev-spfx-call>
--   **Microsoft 365 platform call** **-- **December 7th at 8:00 am PST
+-   **Microsoft 365 platform call** -- December 7th at 8:00 am PST
     | <https://aka.ms/m365-dev-call>
--   **Office add-in monthly call -- **December 8th at 8:00 am PST
+-   **Office add-in monthly call** -- December 8th at 8:00 am PST
     | <https://aka.ms/officeaddinscall>
--   **M365 General Dev call -- **December 9th at 7:00 am PST
+-   **M365 General Dev call** -- December 9th at 7:00 am PST
     | <https://aka.ms/m365-dev-sig>
--   **Adaptive Cards monthly call -- **December 9that 9:00 am PST
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- December 15th at 8:00 am PST
+-   **Adaptive Cards monthly call** --December 9that 9:00 am PST
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- December 15th at 8:00 am PST
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** December 16th at 9:00 am
+-   **Microsoft Identity Platform call** -- December 16th at 9:00 am
     PST | <https://aka.ms/IDDevCommunityCalendar>
 Microsoft 365 Platform community call focuses on latest Microsoft 365
 Platform updates and demos delivered by Microsoft presenters and takes
@@ -251,14 +265,20 @@ development/implementation) and Microsoft 365 Platform (includes
 Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning,
 PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps,
 Column Formatting, list formatting, etc. topics.) with demos commonly
-delivered by community members.   More details on the Microsoft 365
+delivered by community members. 
+
+ More details on the Microsoft 365
 community from [http://aka.ms/m365pnp](http://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  Welcome and join in the
+from <https://aka.ms/m365-dev-call>.  
+
+Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free
 to provide your input as comments to this post as well. More details on
 the Microsoft 365 community and options to get involved are available
 from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
+
+
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

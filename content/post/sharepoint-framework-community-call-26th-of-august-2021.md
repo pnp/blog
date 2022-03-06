@@ -18,7 +18,13 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
+<<<<<<< HEAD
+
+## Call Summary
+
+=======
 ## Call summary
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 Updated Community call schedule starting in September.  Join for first
 weekly [Microsoft 365 platform community
@@ -55,7 +61,14 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 Thank you everybody for being part of this call, the community, a tweet,
 a blog post, and the solution to your customer's needs.  
 
+<<<<<<< HEAD
+
+**Actions:**
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
+
 
 -   Opt in to PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
@@ -105,12 +118,14 @@ a blog post, and the solution to your customer's needs.  
 
 
 
-**SPFx extension samples:  (<https://aka.ms/spfx-extensions>) **
+**SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
+
 -   **No samples**
 
 </div>
 
-**SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
+**SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
+
 -   **[My
     OneDrive](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-myonedrive)** -
     [Siddharth Vaghasia](http://twitter.com/siddh_me) | \@siddh_me
@@ -122,8 +137,13 @@ a blog post, and the solution to your customer's needs.  
     [Chandani Prajapati](http://twitter.com/Chanda) | \@Chanda
 
 Thank you for your great work.  Samples are often showcased in Demos. 
+<<<<<<< HEAD
+
+**Agenda items:**
+=======
   
 ## Agenda items
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -161,7 +181,7 @@ slides.
 -   Resource site -- [Adaptive Cards](https://adaptivecards.io/) 
 
 -   Mozilla MDN Web Docs - [Destructuring
-    assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) 
+    assignment](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) 
 
 -   TypeScript site - [Object
     destructuring](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#object-destructuring) 
@@ -201,7 +221,7 @@ slides.
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
@@ -222,7 +242,7 @@ slides.
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
@@ -286,7 +306,7 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  *(Subject to Updates in
@@ -294,15 +314,16 @@ September)***
 -   **Microsoft 365 platform** **-- **August 31st at 8 AM
     PDT | <https://aka.ms/m365-dev-call>  (Starts from the 31st of
     August as weekly cycle)
--   **M365 General Dev call -- **September 2nd at 7:00 am PDT
+-   **M365 General Dev call** -- September 2nd at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
--   **Office add-in monthly call -- **September 8th at 8:00 am PDT
+-   **Office add-in monthly call** -- September 8th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
 -   **SharePoint Framework call --**September 9th at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
--   **Adaptive Cards monthly call -- **September 9th at 9:00 am PDT
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- September 15th at 8:00 am PDT
+-   **Adaptive Cards monthly call** --September 9th at 9:00 am PDT
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- September 15th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
 -   **Microsoft Identity Platform --**September 16th at 9:00 am PDT
     | <https://aka.ms/IDDevCommunityCalendar>

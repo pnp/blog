@@ -18,20 +18,21 @@ Javascript and a new CLI.
 Listen to the show here:  [Latest Microsoft Graph SDKs with Maisa Rissi
 and Darrel Miller
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/latest-microsoft-graph-sdks-with-maisa-rissi-and-darrel-miller/)
-## Links from the show: 
+
+## Links from the show
 
 -   [Access Microsoft Graph through a new preview
-    CLI](https://developer.microsoft.com/en-us/graph/blogs/access-microsoft-graph-through-a-new-preview-cli/?WT.mc_id=M365-MVP-4025164)
+    CLI](https://developer.microsoft.com/graph/blogs/access-microsoft-graph-through-a-new-preview-cli/?WT.mc_id=M365-MVP-4025164)
 -   [Microsoft Graph .NET SDK v4 now generally available with
     streamlined authentication and
-    more](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-net-sdk-v4-now-generally-available-with-streamlined-authentication-and-more/?WT.mc_id=M365-MVP-4025164)
+    more](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-net-sdk-v4-now-generally-available-with-streamlined-authentication-and-more/?WT.mc_id=M365-MVP-4025164)
 -   [Microsoft Graph JavaScript SDK 3.0.0 is now generally
-    available](https://developer.microsoft.com/en-us/graph/blogs/microsoft-graph-javascript-sdk-3-0-0-is-now-generally-available/?WT.mc_id=M365-MVP-4025164)
+    available](https://developer.microsoft.com/graph/blogs/microsoft-graph-javascript-sdk-3-0-0-is-now-generally-available/?WT.mc_id=M365-MVP-4025164)
 
 ## Microsoft News 
 
 -   [Multi-tenant architecture for SaaS apps - Microsoft 365 Developer
-    Blog](https://developer.microsoft.com/en-us/graph/blogs/multi-tenant-architechture-for-saas-apps/?WT.mc_id=M365-MVP-4025164)
+    Blog](https://developer.microsoft.com/graph/blogs/multi-tenant-architechture-for-saas-apps/?WT.mc_id=M365-MVP-4025164)
 -   [MS Graph, Blazor WebAssembly and Azure Static Web Apps - DEV
     Community](https://dev.to/azure/ms-graph-blazor-webassembly-and-azure-static-web-apps-3p1d)
 

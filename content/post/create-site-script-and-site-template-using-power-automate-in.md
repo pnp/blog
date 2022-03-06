@@ -38,6 +38,7 @@ SharePoint Site.
 5.  Output
 
 ## Prerequisite
+
 1.  M365 environment
 2.  Power automate access requires a license
 3.  SharePoint Admin Access
@@ -48,6 +49,7 @@ Let's get started.
 
 
 ## Create JSON file for Site Scripts 
+
 You need to create JSON files in specific formats to implement
 SharePoint artifacts in SharePoint Site.
 Available Action includes.
@@ -89,6 +91,8 @@ property, you need to configure the things that you want to apply while
 creating the site or on an existing site.
  
 ## Create Power automate 
+
+
 Go to [https://portal.office.com](https://portal.office.com/) and click
 on Power automate.
 Click on "New Flow" and Select "Instant Cloud Flow"
@@ -96,10 +100,13 @@ Select "Manually Trigger Flow" and Add Name "Create-SiteTemplate-Flow"
 Click on Create Button.
 {{< image alt="Site Script and Site Template In Power Automate11.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Site Script and Site Template In Power Automate11.jpg" >}}
  
-### Create Site Script using REST Call in Power Automate 
+### Create Site Script using REST Call in Power Automate
+
 Initialize variable in power automat to store JSON config.
 {{< image alt="Flow2.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Flow2.jpg" >}}
+
 Select "Send an HTTP request to SharePoint" from the list of actions.
+
 {{< image alt="Flow3.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Flow3.jpg" >}}
  
 **Parameters**
@@ -121,6 +128,7 @@ Script Title Name>')
  
  
 **Body**
+
 \@{variables('SiteScript')} // Reference of variable that we
 Initialized before this action.
 Get Create Script ID and store it in Variable\
@@ -131,12 +139,14 @@ Get Create Script ID and store it in Variable\
 ### Create Site Template using REST Call in Power Automate
 
 {{< image alt="Dips365_0-1630571387332.png" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Dips365_0-1630571387332.png" >}}
+
 **Parameters**
 Site Address - You can select any site Address either it's root or not\
 Method - post\
 Url -
 /\_api/Microsoft.SharePoint.Utilities.WebTemplateExtensions.SiteScriptUtility.CreateSiteDesign
  
+
 **Headers**
 
 ```json
@@ -159,6 +169,7 @@ Url -
     }
 }
 ```
+
 The flow looks like as below\
 {{< image alt="Flow6.jpg" src="images/blog/create-site-script-and-site-template-using-power-automate-in/Flow6.jpg" >}}
 **Output**

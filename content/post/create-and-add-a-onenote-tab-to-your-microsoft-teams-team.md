@@ -15,7 +15,7 @@ type: "regular"
 I was asked to share how I have been adding new OneNote tabs to a team
 channel in Microsoft Teams using Power Automate + Graph API. If you look
 at
-the [documentation ](https://docs.microsoft.com/en-us/graph/teams-configuring-builtin-tabs?WT.mc_id=M365-MVP-5003326)it
+the [documentation ](https://docs.microsoft.com/graph/teams-configuring-builtin-tabs?WT.mc_id=M365-MVP-5003326)it
 shows you this:
 {{< image alt="image-13" src="images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-13.png" >}}
  
@@ -28,9 +28,9 @@ add OneNote book as a tab.
     since this is done using Graph API calls.
 2.  Set up Azure AD App Registration with application id and client
     secret with [required permissions for
-    OneNote](https://docs.microsoft.com/en-us/graph/api/onenote-post-notebooks?view=graph-rest-beta&tabs=http&WT.mc_id=M365-MVP-5003326) and [to
+    OneNote](https://docs.microsoft.com/graph/api/onenote-post-notebooks?view=graph-rest-beta&tabs=http&WT.mc_id=M365-MVP-5003326) and [to
     adding a
-    tab](https://docs.microsoft.com/en-us/graph/api/channel-post-tabs?view=graph-rest-beta&WT.mc_id=M365-MVP-5003326) to
+    tab](https://docs.microsoft.com/graph/api/channel-post-tabs?view=graph-rest-beta&WT.mc_id=M365-MVP-5003326) to
     create OneNote books and adding them to tabs.
 3.  You need a team id and a channel id you want to put the OneNote book
     into as a tab

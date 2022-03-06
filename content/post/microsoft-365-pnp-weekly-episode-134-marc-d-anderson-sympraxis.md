@@ -66,8 +66,9 @@ September 13, 2021.   
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -93,11 +94,12 @@ everyone for your contributions to the community!\
 
 **Microsoft articles:**
 
+
  
 
 -   [Brace yourselves: Hybrid work is hard. Here's how Microsoft Teams
     and Office 365 can
-    help](https://www.microsoft.com/en-us/microsoft-365/blog/2021/09/09/brace-yourselves-hybrid-work-is-hard-heres-how-microsoft-teams-and-office-365-can-help/)
+    help](https://www.microsoft.com/microsoft-365/blog/2021/09/09/brace-yourselves-hybrid-work-is-hard-heres-how-microsoft-teams-and-office-365-can-help/)
     - [Nicole Herskowitz](https://twitter.com/nicolelamb) (Microsoft)
     | \@nicolelamb
 -   [Viva Connections Public
@@ -109,17 +111,18 @@ everyone for your contributions to the community!\
     Microsoft
 -   [Announcing a new Microsoft Teams authentication provider and file
     upload feature in the Microsoft
-    Gr\...](https://developer.microsoft.com/en-us/microsoft-365/blogs/announcing-a-new-microsoft-teams-authentication-provider-and-file-upload-feature-in-the-microsoft-graph-toolkit/) -
+    Gr\...](https://developer.microsoft.com/microsoft-365/blogs/announcing-a-new-microsoft-teams-authentication-provider-and-file-upload-feature-in-the-microsoft-graph-toolkit/) -
     [Elise Yang](https://twitter.com/elisenyang) (Microsoft)
     | [\@elisenyang](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/803417)
 -   [Breaking changes to the me/assignments endpoint in the Microsoft
     Graph Assignments API
-    (beta)](https://developer.microsoft.com/en-us/microsoft-365/blogs/breaking-changes-to-the-me-assignments-endpoint-in-the-microsoft-graph-assignments-api-beta/) -
+    (beta)](https://developer.microsoft.com/microsoft-365/blogs/breaking-changes-to-the-me-assignments-endpoint-in-the-microsoft-graph-assignments-api-beta/) -
     Microsoft
 
  
 
 **Community articles:**
+
 
  
 
@@ -158,6 +161,7 @@ everyone for your contributions to the community!\
  
 
 **Additional resources:**
+
 
  
 

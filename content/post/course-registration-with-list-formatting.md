@@ -30,6 +30,7 @@ action to meet most of your requirements without the need of building a
 flow.
  
 Assume we have the following requirements:
+
 - A user can register for one or several courses
 - A course has a number of available places, when all places are taken
 registration is not possible
@@ -209,23 +210,23 @@ if(indexOf([$PeopleWhoRegistered.email], ) == -1 && length([$PeopleWhoRegistered
  
  
 In this formula I am using a conditional
-operator [if()](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/formatting-syntax-reference#expressions).
+operator [if()](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#expressions).
 In that if statement I am checking if three things are all true.
 1\. If the e-mail of the person who is creating the list item is not
 registered. This expression is using
-a [IndexOf](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/formatting-syntax-reference#operators) binary
+a [IndexOf](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#operators) binary
 operator and
-a [\@me](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/formatting-syntax-reference#special-string-values) special
+a [\@me](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#special-string-values) special
 string value. When the expression returns -1 it hasn't found the e-mail
 and the button will still be shown.
 2. It will compare
-the [length](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/formatting-syntax-reference#operators) unary
+the [length](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#operators) unary
 operator to check the number of people registered for the current
 course. When that isn't equal the number of available places the
 register button will still be shown.
 3. If the current date is before the registration date the register
 button will still be shown.
-The [\@now](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/formatting-syntax-reference#special-string-values) special
+The [\@now](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#special-string-values) special
 string value is used for this.
 In the bottom of the json I am using the same expressions only in
 individual divs and the true false values will be in reserve. This is to
@@ -248,8 +249,8 @@ show a custom message when one of the conditions is met.
  
  
 And finally the start of this blog, the customRowAction with
-a [setValue](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/formatting-syntax-reference#customrowaction).
+a [setValue](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#customrowaction).
 In this case I am using
-a [appendTo](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/formatting-syntax-reference#operators) binary
+a [appendTo](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#operators) binary
 operation to add the person who is creating the list item to the
 existing list of people who registered.

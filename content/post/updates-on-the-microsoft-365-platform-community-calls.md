@@ -42,6 +42,7 @@ community calls, this call is recorded and published from the Microsoft
 This call will replace monthly Microsoft Graph, Microsoft Teams and
 SharePoint community calls. It will also feature other Microsoft 365
 features and capabilities.
+
 -   [Download invite on the Microsoft 365 platform
     call](https://aka.ms/m365-dev-call) - Recurrent weekly call starts
     from Tuesday  31 of August

@@ -31,7 +31,7 @@ modern .NET 5 and refocus the SDK to Graph first. For details of this
 project check out this blog for more details about the long term plans
 for the project for [General Availability of the new PnP Framework
 library for automating SharePoint Online
-operations](https://developer.microsoft.com/en-us/sharepoint/blogs/general-availability-of-the-new-pnp-framework-library-for-automating-sharepoint-online-operations/)
+operations](https://developer.microsoft.com/sharepoint/blogs/general-availability-of-the-new-pnp-framework-library-for-automating-sharepoint-online-operations/)
 
  
 

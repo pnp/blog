@@ -42,11 +42,13 @@ leverage on it. Using this listener type, the message can be passed to
 any system or stored in a list or in a file based on our own
 implementation. The below steps and guidance will use this listener to
 write the logs in a SharePoint list. Some of the log levels provided are
+
 -   Verbose
 -   Info
 -   Warning
 -   Error
 -   Off
+
 **Focus on Code**
 Let us start by creating a new web part project using yeoman SharePoint
 generator, before that create a folder where you want to create the web
@@ -62,6 +64,7 @@ yo /sharepoint
  
 The generator will ask you a couple of questions,
 -   Enter the web part name as your solution name, and then select Enter.
+-   
 -   Select Create a subfolder with the solution name for where to place
     the files.
 -   Select **Y** to allow the solution to be deployed to all sites
@@ -99,6 +102,7 @@ code .
  
 Let's create a new folder under the **components** folder
 named **common**. Inside the common folder create 2 files as named below
+
 1.  **CustomLogger.ts** -- This file will have all the interfaces and
     methods for implementing the logging mechanism to write the logs in
     SharePoint List.
@@ -219,6 +223,7 @@ export default class CustomLogger implements ILogListener {
  
  
 The main artefacts in the above code are
+
 1.  **ILogData** -- This is an interface that is defined to tell what
     kind of information are gonna be logged to the list.
 2.  **ILogItem** -- This is an interface that is defined to map the
@@ -387,6 +392,7 @@ the second method will use the same PnP method with async and await.
 Before running the above solution or deploying the package, create a
 list named '**Error Log**' with the following fields. Make sure to
 maintain the same field name.
+
 -   **ApplicationName** -- Name of the application from where the logs
     fired
 -   **CodeFileName** -- Name of the file from where the exception
@@ -404,4 +410,4 @@ github link.
  
 [SPFx-Demos](https://github.com/sudharsank/spfx-demos)
  
-***Happy Coding...***
+*Happy Coding...*

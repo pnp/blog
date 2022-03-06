@@ -10,7 +10,7 @@ tags: []
 type: "regular"
 
 
----Microsoft 365 PnP Weekly - Episode 118]
+---
 {{< image alt="Thumb-Ep118.png" src="images/blog/microsoft-365-pnp-weekly-episode-118/Thumb-Ep118.png" >}}
 
 In this installment of the weekly discussion revolving around the latest
@@ -38,8 +38,9 @@ articles and videos this last week.  Brilliant!  This session was
 recorded on Monday, March 15, 2021.  
 
 This episode was recorded on Monday, March 15, 2021.
--   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+
+
+-   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 These videos and podcasts are published each week and are intended to be
@@ -54,26 +55,27 @@ Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
 Microsoft articles:
+
 -   [Four device capabilities developers can utilize for Microsoft Teams
     mobile
-    apps](https://developer.microsoft.com/en-us/microsoft-365/blogs/4-device-capabilities-developers-can-utilize-for-microsoft-teams-mobile-apps/) -
+    apps](https://developer.microsoft.com/microsoft-365/blogs/4-device-capabilities-developers-can-utilize-for-microsoft-teams-mobile-apps/) -
     Microsoft
 -   [Microsoft Graph Mailbag -- Microsoft Graph in Electron applications
     using Microsoft Graph
-    Toolkit](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-mailbag-microsoft-graph-in-electron-applications-using-microsoft-graph-toolkit/)
+    Toolkit](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-mailbag-microsoft-graph-in-electron-applications-using-microsoft-graph-toolkit/)
     - Microsoft
 -   [Microsoft Graph Toolkit adds a new Electron Provider plus enhanced
-    capabilities](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-toolkit-adds-a-new-electron-provider-plus-enhanced-capabilities/) -
+    capabilities](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-toolkit-adds-a-new-electron-provider-plus-enhanced-capabilities/) -
     Microsoft
 -   [GlobalCon5 -- three days of sessions and
     workshops](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/globalcon5-three-days-of-sessions-and-workshops/ba-p/2203523) - [Mark
     Kashman](https://twitter.com/mkashman) (Microsoft) | \@mkashman
 -   [11 New Connectors Released in February
-    2021!](https://flow.microsoft.com/en-us/blog/11-new-connectors-released-in-february-2021/) -
+    2021!](https://flow.microsoft.com/blog/11-new-connectors-released-in-february-2021/) -
     Doug Elliott (Microsoft) 
 -   [How to implement document automation in your business with
     Microsoft Power
-    Platform](https://flow.microsoft.com/en-us/blog/how-to-implement-document-automation-in-your-business-with-microsoft-power-platform/)
+    Platform](https://flow.microsoft.com/blog/how-to-implement-document-automation-in-your-business-with-microsoft-power-platform/)
     - Cedrick Bellarosa (Microsoft)
 -   [Microsoft 365 Extensibility look book
     gallery](https://adoption.microsoft.com/extensibility-look-book) -

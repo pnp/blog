@@ -198,7 +198,7 @@ data types. **DateTime** is some else than **Date**.
 The formula bar shows it to you, which might help you debugging your
 app and functions.
 
-### 9. Dear Diary...
+### 9. Dear Diary
 
 Document what you just learned. Like a learning diary. You will need
 this knowledge later and you can recycle bits and pieces you've once

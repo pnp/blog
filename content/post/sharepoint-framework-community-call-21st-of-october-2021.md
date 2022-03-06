@@ -20,7 +20,13 @@ Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
+<<<<<<< HEAD
+
+## Call Summary
+
+=======
 ## Call summary
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
 community call](https://aka.ms/m365-dev-call).  Featured topics for the
@@ -60,7 +66,14 @@ call.
 {{< image alt="211021-together-mode.gif" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/211021-together-mode.gif" >}}
 Full house today.  Clearly we've outgrow this venue.   Great to see
 everybody.  See you again soon.   
+<<<<<<< HEAD
+
+**Actions:**
+
+
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 -   Vote: [Next SPFx Design Patterns Topic -- November 4,
     2021](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR8ke1rGfE-VNsUHrnMWCrL5UN1dHRUYxV01CUkJESktKMENBQldURVpRWiQlQCN0PWcu&web=1&wdLOR=cC640D9E0-C403-405A-9EF1-D9F43B6ADF90)
 -   Register today for Hacktoberfest 2021
@@ -129,13 +142,15 @@ everybody.  See you again soon.   
     When to use/not use a property panes is predicated on directness. 
     See property pane samples in the SPFx samples repository. 
 
-**SPFx extension samples:  (<https://aka.ms/spfx-extensions>) **
+**SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
+
 -   **Animated Progress Bar\* -** [Ari
     Gunawan](http://twitter.com/AriGunawan3023) | \@AriGunawan3023
 
 
 **\*** *to be posted soon.*
-**SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
+**SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
+
 -   **Emoji Reactions\* -** [Siddharth
     Vaghasia](http://twitter.com/siddh_me) | \@siddh_me
 
@@ -157,12 +172,18 @@ everybody.  See you again soon.   
 **\*** *to be posted soon.*
 **PnP SPFx
 ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
+
 -   [Upcoming
     Events](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-Graph-UpcomingEvents) -
     [Zach Roberts](http://twitter.com/ZachSPODev) | \@ZachSPODev
 Thank you for your great work.  Samples are often showcased in Demos. 
+<<<<<<< HEAD
+
+**Agenda items:**
+=======
   
 ## Agenda items
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -255,7 +276,7 @@ slides.
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
@@ -276,7 +297,7 @@ slides.
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
@@ -340,24 +361,25 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  *(Subject to Updates in
 September)***
 -   **Microsoft 365 platform call** -- October 26th at 8:00 am PDT
     | <https://aka.ms/m365-dev-call>
--   **M365 General Dev call -- **October 28th at 7:00 am PDT
+-   **M365 General Dev call** -- October 28th at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
--   **SharePoint Framework call --** November 4th at 7:00 am PDT
+-   **SharePoint Framework call** -- November 4th at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
--   **Office add-in monthly call -- **November 10th at 8:00 am PDT
+-   **Office add-in monthly call** -- November 10th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
--   **Adaptive Cards monthly call -- **November 11th at 9:00 am PDT
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- November 17th at 8:00 am PDT
+-   **Adaptive Cards monthly call** --November 11th at 9:00 am PDT
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- November 17th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** November 18th at 9:00 am
+-   **Microsoft Identity Platform call** -- November 18th at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
 PnP SharePoint Framework Special Interest Group bi-weekly calls are
 targeted at anyone who is interested in the JavaScript-based development

@@ -52,9 +52,11 @@ workload (SharePoint). Now don't get too excited, it doesn't work for
 every call to the Graph API, it will only work for calls that are being
 passed through to SharePoint so don't expect to be able to call /teams
 and use this trick. Using the [Microsoft Graph
-Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer/preview?WT.mc_id=M365-MVP-5002900) it
+Explorer](https://developer.microsoft.com/graph/graph-explorer/preview?WT.mc_id=M365-MVP-5002900) it
 was really easy to poke around, here's some calls that I have tried.
+
 SharePoint (/sites)
+
 ``` {.lia-code-sample .language-markup}
 https://graph.microsoft.com/v1.0/sites/root/drives?test429=true
 ```
@@ -63,13 +65,16 @@ https://graph.microsoft.com/v1.0/sites/root/drives?test429=true
 {{< image alt="image" src="images/blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/image.png" >}}
 
 SharePoint List Items
+
 ``` {.lia-code-sample .language-markup}
 https://graph.microsoft.com/v1.0/sites/root/lists/{listid}/items?test429=true
 ```
  
 
-![](https://camerondwyer.files.wordpress.com/2021/08/image-2.png){border="0"}
+![Graph Explorer](https://camerondwyer.files.wordpress.com/2021/08/image-2.png)
+
 OneDrive (/drive)
+
 ``` {.lia-code-sample .language-markup}
 https://graph.microsoft.com/v1.0/me/drive/root/children?test429=true
 ```

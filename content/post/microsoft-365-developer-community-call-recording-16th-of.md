@@ -14,7 +14,9 @@ type: "regular"
 
 {{< image alt="call-16th-sep-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-16th-of/call-16th-sep-recording.png" >}}
 
-## Call summary
+
+## Call Summary
+
 
 Have a look at Microsoft 365 tenant -- [script samples
 gallery](https://aka.ms/script-samples) (84 scenarios and 111
@@ -47,7 +49,14 @@ There were 3 new script samples this week.  The host of this call was
 [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
+<<<<<<< HEAD
+
+**Actions:**
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
+
 
 -   Create a Teams Sample - [Microsoft Teams Samples Wish
     list](https://github.com/pnp/teams-dev-samples/issues) -- 10
@@ -123,6 +132,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 Picture time is back and it's a packed House!  Thank you for joining
 the PnP Community call today.   You're awesome!  
+
 **Demos** delivered in this session
 
 -   **List Formatting Magic Tips & Tricks​** -- create a list, add and
@@ -198,27 +208,27 @@ slides.
 
 -   [D2:  Documentation - ][Bot Framework
     Composer
-    documentation](https://aka.ms/bfcomposer)[ ]
+    documentation](https://aka.ms/bfcomposer)
 
 -   [D2:  Article - ][Bot Framework
     Composer Series - 3 - Teams Task
-    Modules](https://bisser.io/bot-framework-composer-series-3-teams-task-modules/)[ ]
+    Modules](https://bisser.io/bot-framework-composer-series-3-teams-task-modules/)
 
 -   [D2:  Repo -
-    ][microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)[ ]
+    ][microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer)
 
 -   [D3:  Website --
-    ][Yelp](https://www.yelp.com/)[ ]
+    ][Yelp](https://www.yelp.com/)
 
 -   [D3:  Website -- ][Yelp
-    Developers](https://www.yelp.com/developers)[ ]
+    Developers](https://www.yelp.com/developers)
 
 -   [D3:  Website -- ][Yelp Fusion
-    API](https://www.yelp.com/fusion)[ ]
+    API](https://www.yelp.com/fusion)
 
 -   [[D3:  Documentation - ][Yelp
     (Independent Publisher)
-    (Preview)](https://docs.microsoft.com/connectors/yelpip/)[ ]]
+    (Preview)](https://docs.microsoft.com/connectors/yelpip/)]
 
 -   D3:  Repo -
     [PowerPlatformConnectors/independent-publisher-connectors/Yelp/](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Yelp)
@@ -230,6 +240,7 @@ slides.
     Platform](https://youtu.be/ulTBvCHw8MU) -- [Natalie
     Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft)  |
     \@NataliePienkow1
+
 **General resources**:
 
 -   Samples - [Power Platform
@@ -257,7 +268,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -282,7 +293,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -291,26 +302,30 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
+
 -   **Microsoft 365 platform call** -- September 21st at 8:00 am PDT
     | <https://aka.ms/m365-dev-call>
--   **SharePoint Framework call --** September 23rd at 7:00 am PDT
+-   **SharePoint Framework call** -- September 23rd at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
--   **M365 General Dev call -- **September 30th at 7:00 am PDT
+-   **M365 General Dev call** -- September 30th at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
 -   **Office add-in monthly call** -- October 13th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call** -- October14th at 9:00 am PDT
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- October 20th at 8:00 am PDT
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- October 20th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** October 21st at 9:00 am
+-   **Microsoft Identity Platform call** -- October 21st at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365

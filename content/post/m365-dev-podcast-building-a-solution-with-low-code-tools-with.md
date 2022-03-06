@@ -17,7 +17,8 @@ with the tools used to create the magic.
 
 Listen to the show here: 
 [(m365devpodcast.com)](https://www.m365devpodcast.com/e/building-a-solution-with-low-code-tools-with-carmen-ysewijn-and-luise-freese/)
-## Links from the show: 
+
+## Links from the show
 
 -   [ProvisionGenie](https://github.com/ProvisionGenie/ProvisionGenie)
 
@@ -25,10 +26,10 @@ Listen to the show here: 
 
 -   [Breaking changes to the settings endpoint in the Microsoft Graph
     eDiscovery API
-    (beta)](https://developer.microsoft.com/en-us/graph/blogs/breaking-changes-to-the-settings-endpoint-in-the-microsoft-graph-ediscovery-api-beta/?WT.mc_id=M365-MVP-4025164)
+    (beta)](https://developer.microsoft.com/graph/blogs/breaking-changes-to-the-settings-endpoint-in-the-microsoft-graph-ediscovery-api-beta/?WT.mc_id=M365-MVP-4025164)
 -   [Announcing general availability of Microsoft Graph Export API for
     Microsoft Teams
-    messages](https://developer.microsoft.com/en-us/graph/blogs/announcing-general-availability-of-microsoft-graph-export-api-for-microsoft-teams-messages/?WT.mc_id=M365-MVP-4025164)
+    messages](https://developer.microsoft.com/graph/blogs/announcing-general-availability-of-microsoft-graph-export-api-for-microsoft-teams-messages/?WT.mc_id=M365-MVP-4025164)
 -   [Latest on SharePoint Site Scripts -- Intro and
     Roadmap](https://www.youtube.com/watch?v=FhDJNo_0df0)
 -   [Bring VS Code themes to Visual Studio 2022! - Visual Studio

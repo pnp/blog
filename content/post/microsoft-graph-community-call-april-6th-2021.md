@@ -31,7 +31,7 @@ Microsoft Graph Java SDK version 3 -- new features including a
 streamlined authentication with Azure Identity and improved batch
 support. To learn more about enhanced capabilities with the release of
 version 3, go to
-[https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-java-sdk-v3-adds-enhanced-\...](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-java-sdk-v3-adds-enhanced-capabilities-with-general-availability/).
+[https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-java-sdk-v3-adds-enhanced-\...](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-java-sdk-v3-adds-enhanced-capabilities-with-general-availability/).
 
  
 
@@ -110,7 +110,7 @@ at <https://aka.ms/GraphTAPForm>.  
     <https://aka.ms/mgt>  
 
 -   Documentation -- [Microsoft Graph Toolkit
-    Overview](https://docs.microsoft.com/en-us/graph/toolkit/overview)
+    Overview](https://docs.microsoft.com/graph/toolkit/overview)
     | <https://aka.ms/mgt-docs>
 
 -   Playground -- [Microsoft Graph Toolkit
@@ -118,10 +118,10 @@ at <https://aka.ms/GraphTAPForm>.  
     | <https://mgt.dev>
 
 -   Documentation - [Electron
-    Provider](https://docs.microsoft.com/en-us/graph/toolkit/providers/electron) 
+    Provider](https://docs.microsoft.com/graph/toolkit/providers/electron) 
 
 -   Electron applications using Microsoft Graph Toolkit -
-    [https://developer.microsoft.com/en-us/graph/blogs/microsoft-graph-mailbag-microsoft-graph-in-electro\...](https://developer.microsoft.com/en-us/graph/blogs/microsoft-graph-mailbag-microsoft-graph-in-electron-applications-using-microsoft-graph-toolkit/)
+    [https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-microsoft-graph-in-electro\...](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-microsoft-graph-in-electron-applications-using-microsoft-graph-toolkit/)
 
 ## General Resources:
 
@@ -131,7 +131,7 @@ at <https://aka.ms/GraphTAPForm>.  
 -   Microsoft Graph Mailbag - <http://aka.ms/MSGraphMailbag>
 -   Microsoft Q & A -- Graph - <https://aka.ms/askgraph/>
 
-## Stay connected:
+## Stay connected
 
 -   See the full blog post for this call at -
     <http://aka.ms/m365pnp-blog>

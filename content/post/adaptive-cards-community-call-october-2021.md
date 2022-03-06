@@ -13,6 +13,7 @@ type: "regular"
 ---
 
 The following topics are covered in this month's community call:
+
 - **FactSet + Adaptive Cards** (rendering Adaptive Cards in their
 products) Matt Pineau (FactSet) and Andrew Curtice (FactSet), 
 - **v1.5
@@ -80,4 +81,3 @@ across platforms with little code.  Q&A throughout.
 -   Blog - <https://aka.ms/m365pnp/community/blog>
 -   Recurrent Invite - <https://aka.ms/adaptivecardscommunitycall>
 -   Next call -- **November 11th at 09:00am PDT**
--   

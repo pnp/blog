@@ -19,7 +19,13 @@ SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
 
+<<<<<<< HEAD
+
+## Call Summary
+
+=======
 ## Call summary
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
     call](https://aka.ms/m365-dev-call).  Next call on the 4th of
@@ -67,7 +73,14 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 into the New Year!  Hang on, see you
 soon. ]
 
+<<<<<<< HEAD
+
+**Actions:**
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
+
 
 -   Opt into PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
@@ -138,7 +151,7 @@ soon. ]
 
 
 
-**SPFx extension samples: (<https://aka.ms/spfx-extensions>) **
+**SPFx extension samples: (<https://aka.ms/spfx-extensions>)**
 
 -   **[Show All Entries for Multiple Lines of Text Field
     Customizer](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-apreact-field-showentries) \*
@@ -148,7 +161,7 @@ soon. ]
 \* Link to be live soon!
 
 
-**SPFx web part samples: (<https://aka.ms/spfx-webparts>) **
+**SPFx web part samples: (<https://aka.ms/spfx-webparts>)**
 
 -   **[My
     Teams](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-my-teams)
@@ -170,13 +183,19 @@ soon. ]
 **PnP SPFx
 ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 
+
 -   **COVID Indicator\* - **[João
     Mendes](http://twitter.com/joaojmendes) | [\@joaojmendes](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/442957)
 
 \* to be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
+<<<<<<< HEAD
+
+**Agenda items:**
+=======
   
 ## Agenda items
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -205,7 +224,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **Demo 1**:  Viva Connections -- Adaptive Card Extension for
     Microsoft Planner Tasks -- [Ejaz
     Hussain](http://twitter.com/EjazHussain_) (Content and Cloud) |
-    \@EjazHussain\_ [--][ [15:20](https://youtu.be/--4erl4oE7Q?t=920)][ ]
+    \@EjazHussain\_ [--][ [15:20](https://youtu.be/--4erl4oE7Q?t=920)]
 
 -   **Demo 2**[:  SPFx Design Patterns -- Custom Properties (Part 2) --
     ][Hugo
@@ -215,9 +234,14 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **Demo 3**:  Viva Connections ACEs CardView Types in SharePoint
     Framework -- [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys)
     |
+<<<<<<< HEAD
+    \@PaoloPia [--][ [44:30](https://youtu.be/--4erl4oE7Q?t=2670)]
+**Resources:**
+=======
     \@PaoloPia [--][ [44:30](https://youtu.be/--4erl4oE7Q?t=2670)][ ]
 
 ## Resources
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 Additional resources around the covered topics and links from the
 slides.
@@ -281,7 +305,7 @@ slides.
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
@@ -302,7 +326,7 @@ slides.
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
@@ -367,24 +391,25 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  **
 
--   **Microsoft 365 platform call** **-- **January 4that 8:00 am PST
+-   **Microsoft 365 platform call** -- January 4that 8:00 am PST
     | <https://aka.ms/m365-dev-call>
--   **M365 General Dev call -- **January 6th at 7:00 am PST
+-   **M365 General Dev call** -- January 6th at 7:00 am PST
     | <https://aka.ms/m365-dev-sig>
--   **Office add-in monthly call -- **January 12that 8:00 am PST
+-   **Office add-in monthly call** -- January 12that 8:00 am PST
     | <https://aka.ms/officeaddinscall>
--   **SharePoint Framework call --** January 13th at 7:00 am PST
+-   **SharePoint Framework call** -- January 13th at 7:00 am PST
     | <https://aka.ms/spdev-spfx-call>
--   **Adaptive Cards monthly call -- **January 13th at 9:00 am PST
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- January 19th at 8:00 am PST
+-   **Adaptive Cards monthly call** --January 13th at 9:00 am PST
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- January 19th at 8:00 am PST
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** January 20th at 9:00 am
+-   **Microsoft Identity Platform call** -- January 20th at 9:00 am
     PST | <https://aka.ms/IDDevCommunityCalendar>
 
 Viva Connections & SharePoint Framework bi-weekly calls are targeted at

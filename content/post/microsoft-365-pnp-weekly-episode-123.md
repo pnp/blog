@@ -54,8 +54,8 @@ This episode was recorded on Monday, April 19, 2021.
 
  
 
--   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+
+-   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -78,6 +78,7 @@ everyone for your contributions to the community!\
 **Events:**
 
 
+
 -   May 25-27, 2021- [Microsoft Build
     2021](https://mybuild.microsoft.com/?WT.mc_id=m365-26189-wmastyka)
 -   August 9-11, 2021 - [North American Collaboration
@@ -88,6 +89,7 @@ everyone for your contributions to the community!\
  
 
 **Microsoft articles:**
+
 
  
 
@@ -104,33 +106,34 @@ everyone for your contributions to the community!\
     [Stephen Rose](https://twitter.com/stephenlrose) (Microsoft)
     | \@stephenlrose
 -   [Announcing public preview of SharePoint Framework
-    1.12.1](https://developer.microsoft.com/en-us/microsoft-365/blogs/announcing-public-preview-of-sharepoint-framework-1-12-1/?WT.mc_id=m365-26189-wmastyka) -
+    1.12.1](https://developer.microsoft.com/microsoft-365/blogs/announcing-public-preview-of-sharepoint-framework-1-12-1/?WT.mc_id=m365-26189-wmastyka) -
     Microsoft
 -   [Migrate messages from other chat platforms to Microsoft Teams with
     Microsoft Graph
-    APIs](https://developer.microsoft.com/en-us/microsoft-365/blogs/migrate-messages-from-other-chat-platforms-to-microsoft-teams/?WT.mc_id=m365-26189-wmastyka) -
+    APIs](https://developer.microsoft.com/microsoft-365/blogs/migrate-messages-from-other-chat-platforms-to-microsoft-teams/?WT.mc_id=m365-26189-wmastyka) -
     Microsoft
 -   [Enhance app engagement with the Microsoft Teams Activity Feed
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/enhance-app-engagement-with-the-microsoft-teams-activity-feed-api/?WT.mc_id=m365-26189-wmastyka) -
+    API](https://developer.microsoft.com/microsoft-365/blogs/enhance-app-engagement-with-the-microsoft-teams-activity-feed-api/?WT.mc_id=m365-26189-wmastyka) -
     Microsoft
 -   [Microsoft Graph Mailbag -- Copy/Move Files and Folders in
     SharePoint
-    Online](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-mailbag-copy-move-files-and-folders-in-sharepoint-online/?WT.mc_id=m365-26189-wmastyka)
+    Online](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-mailbag-copy-move-files-and-folders-in-sharepoint-online/?WT.mc_id=m365-26189-wmastyka)
     - [Srinivas Varukala](https://twitter.com/svarukala) (Microsoft)
     | \@svarukala
 -   [Build quality Microsoft Teams apps with these best practices: Part
-    2](https://developer.microsoft.com/en-us/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-2?WT.mc_id=m365-26189-wmastyka) -
+    2](https://developer.microsoft.com/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-2?WT.mc_id=m365-26189-wmastyka) -
     [Erin Bailie](https://www.linkedin.com/in/erinbailie) (Microsoft)
 -   [Announcing data source environment
     variables](https://powerapps.microsoft.com/es-es/blog/announcing-data-source-environment-variables/)
     - Casey Burke (Microsoft)
 -   [AI Builder April 2021
-    update](https://flow.microsoft.com/en-us/blog/ai-builder-april-2021-update?WT.mc_id=m365-26189-wmastyka)
+    update](https://flow.microsoft.com/blog/ai-builder-april-2021-update?WT.mc_id=m365-26189-wmastyka)
     - Cedrick Bellarosa
 
  
 
 **Community articles:**
+
 
  
 
@@ -198,6 +201,7 @@ everyone for your contributions to the community!\
  
 
 **Additional resources:**
+
 
 -   [Microsoft 365 Community Survey](https://aka.ms/m365pnp/survey) -
     Open for April 2021 - please let us know how we can help to help

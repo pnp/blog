@@ -14,7 +14,13 @@ type: "regular"
 {{< image alt="TitleSlide.png" src="images/blog/microsoft-teams-community-call-march-2021/TitleSlide.png" >}}
 
 
+<<<<<<< HEAD
+
+## Call Summary
+
+=======
 ## Call summary
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
 
 This month's community call featured latest look at the **Teams Sample
 Repository** (consolidated sample code Repo for Teams platform), then
@@ -86,26 +92,29 @@ development.  API documentation with code snippets is current.   
 -   Documentation - [Build apps for Microsoft
     Teams](Build%20apps%20for%20Microsoft%20Teams)
 -   Documentation - [Device
-    capabilities](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/device-capabilities/device-capabilities-overview?view=msteams-client-js-latest) 
+    capabilities](https://docs.microsoft.com/microsoftteams/platform/concepts/device-capabilities/device-capabilities-overview?view=msteams-client-js-latest) 
 -   Documentation - [Request device permissions for your Microsoft Teams
     app](Request%20device%20permissions%20for%20your%20Microsoft%20Teams%20app) 
 -   Documentation - [Integrate media
-    capabilities](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/device-capabilities/mobile-camera-image-permissions?view=msteams-client-js-latest) 
+    capabilities](https://docs.microsoft.com/microsoftteams/platform/concepts/device-capabilities/mobile-camera-image-permissions?view=msteams-client-js-latest) 
 -   Documentation - [Integrate QR or barcode scanner
-    capability](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/device-capabilities/qr-barcode-scanner-capability?view=msteams-client-js-latest) 
+    capability](https://docs.microsoft.com/microsoftteams/platform/concepts/device-capabilities/qr-barcode-scanner-capability?view=msteams-client-js-latest) 
 -   Documentation - [Integrate location
-    capabilities](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/device-capabilities/location-capability) 
+    capabilities](https://docs.microsoft.com/microsoftteams/platform/concepts/device-capabilities/location-capability) 
 -   Documentation - [Microsoft Teams JavaScript client
-    SDK](https://docs.microsoft.com/en-us/javascript/api/overview/msteams-client?view=msteams-client-js-latest) 
+    SDK](https://docs.microsoft.com/javascript/api/overview/msteams-client?view=msteams-client-js-latest) 
+
 
 ## Actions
+
+
 
 -   Survey - Complete the Microsoft 365 developer success survey -
     <https://aka.ms/developersuccess>
 -   Join - [M365 customer success platform
     panel](https://aka.ms/SuccessPanel) 
 -   Provide feedback -- [Microsoft Teams Developer Community
-    channels ](https://docs.microsoft.com/en-us/microsoftteams/platform/feedback)
+    channels ](https://docs.microsoft.com/microsoftteams/platform/feedback)
 -   Join us for our next call: April 20 at 8:00am PDT |
     <https://aka.ms/microsoftteamscommunitycall> 
 

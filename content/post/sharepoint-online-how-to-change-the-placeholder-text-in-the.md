@@ -25,7 +25,7 @@ You can change the placeholder text in the search box for a specific
 (sub) site or an entire site collection using PnP PowerShell. Follow
 below steps to change the placeholder text in the search box:
 
-## Install/Update PnP PowerShell module:
+## Install/Update PnP PowerShell module
 
 You can run the following command to install the PnP PowerShell cmdlets:
  
@@ -43,7 +43,7 @@ Update-Module -Name "PnP.PowerShell"
 ```
  
 
-### Connect to SharePoint site: 
+### Connect to SharePoint site
 
 You can connect to a SharePoint site using below PnP PowerShell command
 (use administrative account):
@@ -53,7 +53,7 @@ You can connect to a SharePoint site using below PnP PowerShell command
 Connect-PnPOnline -Url https://tenant.sharepoint.com/sites/siteName -UseWebLogin
 ```
 
-### Change the placeholder text: 
+### Change the placeholder text
 
 To change the placeholder text in search box for a given (sub) site run
 the following command:
@@ -74,7 +74,7 @@ Set-PnPSearchSettings -Scope Site -SearchBoxPlaceholderText "Search Work @ SPExp
 
 #### {{< image alt="sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png" src="images/blog/sharepoint-online-how-to-change-the-placeholder-text-in-the/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png" >}}
 
-### Reset to default placeholder text: 
+### Reset to default placeholder text
 
 If you have changed the placeholder text in search box previously & now
 you want to reset it to the default placeholder text, you can run the

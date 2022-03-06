@@ -65,9 +65,9 @@ npm i -g @pnp/cli-microsoft365
  
 In case you wonder:
 
-\* the \`i\` is an alias for \`install\`\
-\* the \`-g\` means that we want to install this package globally\
-\* it will take about 2 minutes
+* the `i` is an alias for `install`
+* the `-g` means that we want to install this package globally
+* it will take about 2 minutes
 
 #### Login 
 
@@ -89,15 +89,17 @@ m365 login
 In response you will be asked to open a web browser and login with a
 code. If you are using Visual Studio Code, you can click on the link,
 please copy the code upfront.
+
 {{< image alt="login.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/login.png" >}}
 
 After you pasted the code,
 
-\* click **Next**\
-\* pick an account out of the list of accounts
+* click **Next**
+* pick an account out of the list of accounts
 
 You will be seeing this message and can close this browser tab- we
 won't need it anymore.
+
 {{< image alt="PnPmanagementShellOK.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/PnPmanagementShellOK.png" >}}
 
 Yay! You successfully logged in! You don't believe that? Let's check
@@ -112,7 +114,7 @@ m365 status
 and it will get your status for you:
 
 {{< image alt="status.png" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/status.png" >}}
-\
+
 If you want some inspiration, what you could do now, run this command:
  
 
@@ -210,15 +212,16 @@ For everyone not very familiar writing and understanding code: We can
 make more sense of the snippet by copy/paste this into Visual Studio
 Code, and then press Alt+z to soft-wrap this and then separate the
 Adaptive Card from the rest:
-\* Select JSON in Language Mode\
-\* Insert somenew lines right before the first \`{\`\
-\* Delete the \`'\` at the beginning and the end of the snippet\
-\* Format with Shift + Alt + f
+
+* Select JSON in Language Mode\
+* Insert somenew lines right before the first \`{\`\
+* Delete the `'\` at the beginning and the end of the snippet\
+* Format with Shift + Alt + f
 Now go ahead and adjust the sample to work in your environment:
-\* replace the URL in the code with the URL that we copied when we added
+* replace the URL in the code with the URL that we copied when we added
 the webhook connector to Teams\
-\* copy the whole code\
-\* run it
+* copy the whole code\
+* run it
 
 !! Turned out, that there are some differences how to use quotes \`'\`
 or \`\"\` - please consider which shell you are using before you

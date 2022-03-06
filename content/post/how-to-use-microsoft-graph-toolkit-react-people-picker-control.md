@@ -13,9 +13,12 @@ type: "regular"
 ---
 
 ## Purpose 
+
 We can use this when we have a requirement to show Azure AD users in
 People picker control.
+
 ## Microsoft Graph Toolkit with React 
+
 The Microsoft Graph Toolkit React components (mgt-react) allow React
 developers to use the Microsoft Graph Toolkit in their React
 applications. The library wraps all Microsoft Graph Toolkit components
@@ -23,7 +26,7 @@ and exports them as React components.
 All components are available via the npm package and are named using
 PascalCase. To use a component, first, import it at the top.
 For more details refer to
-[this](https://docs.microsoft.com/en-us/graph/toolkit/get-started/use-toolkit-with-react).
+[this](https://docs.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react).
 
 ## Implementation 
 
@@ -305,11 +308,13 @@ export default class ReactAzureadUsers extends React.Component<IReactAzureadUser
  
  
 ## Output 
+
 {{< image alt="react-ad-mgt-users.gif" src="images/blog/how-to-use-microsoft-graph-toolkit-react-people-picker-control/react-ad-mgt-users.gif" >}}
  
 
 Find the full source
 code [here](https://github.com/chandaniprajapati/mgt-react-people-pickcer).  
+
 ## Summary 
 In this article, we have seen how to bind AD users in people picker
 using the MS graph toolkit react library.

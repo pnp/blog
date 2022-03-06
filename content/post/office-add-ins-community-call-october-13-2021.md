@@ -15,7 +15,9 @@ type: "regular"
 
 ## {{< image alt="OctAdd-insRecordingThumb.png" src="images/blog/office-add-ins-community-call-october-13-2021/OctAdd-insRecordingThumb.png" >}}
 
-## Call Summary 
+
+## Call Summary
+ 
 
 This month's community call features presentations - **Word API
 updates** (extensibility API updates - Word Online Only APIs, Bookmarks
@@ -32,7 +34,7 @@ chat throughout call. The call was hosted by [David
 Chesnut](http://twitter.com/davidchesnut) (Microsoft) | \@davidchesnut
 
 
-## Microsoft Presenters: 
+## Microsoft Presenters
 
 -   Abid Rahman - Program Manager
 -   Ashima Mathur - Program Manager
@@ -61,7 +63,9 @@ Chesnut](http://twitter.com/davidchesnut) (Microsoft) | \@davidchesnut
     program: <https://pnp.github.io/recognitionprogram/> 
 
 
+
 ## Q&A (Question & Answers) 
+
 
 **Can you please demo, or provide sample code for events in Office Word
 add-ins?**

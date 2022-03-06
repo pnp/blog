@@ -16,7 +16,9 @@ Cognitive Services.
 
 Listen to the show here: 
 [(m365devpodcast.com)](https://www.m365devpodcast.com/e/bot-framework-composer-video-series-with-ayca-bas-and-bob-german/)
-## Links from the show: 
+
+
+## Links from the show
 
 -   [https://aka.ms/BotComposerSeries](https://aka.ms/BotComposerSeries?WT.mc_id=M365-MVP-4025164)
 

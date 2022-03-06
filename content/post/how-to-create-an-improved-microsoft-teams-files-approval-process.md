@@ -16,7 +16,9 @@ We are all there during some days: Power Automate Premium is the key to
 the next level but there is no way we could justify that licensing --
 the ROI is simply not enough. Have you thought that you could be
 utilizing a Azure Logic App instead?
+
 {{< image alt="2021-02-10_22-02-47.png" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/2021-02-10_22-02-47.png" >}}
+
 Following my earlier post ( [How to: initiate a document approval
 directly in team files tab (using Power
 Automate) ](https://myteamsday.com/2021/01/29/approve-files/)) that
@@ -24,10 +26,12 @@ required a Power Automate Premium license I recreated that with Azure
 Logic Apps solution. Please do refer and compare to that blog post these
 steps to see how they differ. For later mentioned parts you need to
 follow steps in that post.
+
 ## What are Azure Logic Apps and do they cost? 
+
 First: what are Logic Apps? Let's take a snippet from [Microsoft Azure
 Logic Apps
-documentation](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview?WT.mc_id=M365-MVP-5003326) here.
+documentation](https://docs.microsoft.com/azure/logic-apps/logic-apps-overview?WT.mc_id=M365-MVP-5003326) here.
 *Azure Logic Apps is a cloud service that helps you schedule, automate,
 and orchestrate tasks, business processes, and workflows when you need
 to integrate apps, data, systems, and services across enterprises or
@@ -49,7 +53,7 @@ custom connector requirements Logic Apps might be a perfect solution.
 This also depends on number of users you would have to license Premium
 Power Automates to: yearly investment counts.
 Read more about [Logic Apps pricing
-here](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing?WT.mc_id=M365-MVP-5003326).
+here](https://docs.microsoft.com/azure/logic-apps/logic-apps-pricing?WT.mc_id=M365-MVP-5003326).
 I suggest to start with
 
 -   Create a resource group for Logic Apps so you can easily keep on

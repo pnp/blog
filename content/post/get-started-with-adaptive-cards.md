@@ -34,6 +34,7 @@ And what is the most obvious -- they are also present are very commonly used in
 ## How do Adaptive Cards work?
 
 Adaptive Card is a technology that uses JSON (JavaScript Object Notation -- structured method to describe information, learn more from [Bob German](https://twitter.com/Bob1German) here: <https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369>) to declare how the final card should look like. The defined code is then parsed by the host that has Adaptive Cards SDK installed. Using SDK and JSON schema (schema defines what information can be used by authors in their cards) for the specific version translates code into valid HTML that is being displayed to users. 
+
 {{< image alt="" src="images/blog/get-started-with-adaptive-cards/TomaszPoszytek_3-1610369704993.png" >}}
 
 Thanks to this approach, creation of user interface using Adaptive Cards is not only fast (no need to design separate card for desktop and mobile, for Android and iOS etc.), but also secure, since if part of JSON code that is used in card does not exist in SDK, it will not be rendered, so no malicious code can be then executed at user side. 
@@ -45,6 +46,7 @@ All right. Now that we know what they are and how they work, let me tell you h
 The best place to start authoring your first (and every next) Adaptive Card is the designer, that you can find at [https://adaptivecards.io/designer](https://adaptivecards.io/designer). There you can, following drag&drop visual designing approach create Adaptive Card and then configure all required properties. The designer is built from the following functionalities: 
 
 {{< image alt="" src="images/blog/get-started-with-adaptive-cards/TomaszPoszytek_4-1610369705020.png" >}}
+
 
 1.  **New card** -- allows to create a card from a blank canvas or to start using one from existing templates. 
 2.  **Select host app** -- is used to switch between hosts. Remember what I wrote at the beginning? Host control how the card is going to be displayed. Just experiment for example by choosing Microsoft Teams -- Dark and Light host. See the differences. 
@@ -66,6 +68,7 @@ the bottom of the main container. 
 {{< image alt="" src="images/blog/get-started-with-adaptive-cards/TomaszPoszytek_5-1610369704978.png" >}}
 
 There are four types of actions that author can choose from: 
+
 1.  **OpenUrl** -- lets to open an external URL. Like hyperlink. 
 2.  **Submit** -- sends back data from the card and inputs back to the
     host. Host is then responsible for the data processing and further
@@ -82,27 +85,28 @@ In Microsoft Teams the host that displays Adaptive Cards is called Flow Bot. T
 Today there is just one option to display Adaptive Cards in Microsoft Teams without a need to develop custom bots. This is through Power Automate. How? Flow sends Adaptive Cards JSON code to the Flow Bot which renders it and display in Microsoft Teams conversation. 
 
 In Power Automate there are several actions that allows to generate Adaptive Cards in MS Teams, however each has significantly different purpose. 
+
 {{< image alt="" src="images/blog/get-started-with-adaptive-cards/TomaszPoszytek_6-1610369705006.png" >}}
  
 1. Post a choice of options as the Flow bot to a user – action allows to send an Adaptive Card in a pre-defined layout, where author can define message and options – that will be displayed as button. After card is sent, flow is paused for up to 30 days waiting for user’s response. This action can be used in simple approval/ collecting feedback scenarios, where no fancy layout is expected.
 {{< image alt="" src="images/blog/get-started-with-adaptive-cards/TomaszPoszytek_7-1610369704982.png" >}}
 
-1. Post an Adaptive Card to a Teams user and wait for a response – allows to send custom built Adaptive Card to a specific Microsoft Teams user and to pause the flow for up to 30 days while waiting for response.
+2. Post an Adaptive Card to a Teams user and wait for a response – allows to send custom built Adaptive Card to a specific Microsoft Teams user and to pause the flow for up to 30 days while waiting for response.
 
-2. Post an Adaptive Card to a Teams channel and wait for a response – the same as above, but Adaptive Card is sent to a channel.
+3. Post an Adaptive Card to a Teams channel and wait for a response – the same as above, but Adaptive Card is sent to a channel.
 {{< image alt="" src="images/blog/get-started-with-adaptive-cards/TomaszPoszytek_8-1610369704984.png" >}}
 
-1. Post a message as the Flow bot to a user – sends a pre-defined Adaptive Card to a chosen user but does nothing more. Author cannot embed here custom JSON code.
+4. Post a message as the Flow bot to a user – sends a pre-defined Adaptive Card to a chosen user but does nothing more. Author cannot embed here custom JSON code.
 {{< image alt="" src="images/blog/get-started-with-adaptive-cards/TomaszPoszytek_9-1610369704985.png" >}}
 
-1. Post a message as the Flow bot to a channel – the same as above, but message is sent to a channel.
+5. Post a message as the Flow bot to a channel – the same as above, but message is sent to a channel.
 
-2. Post your own adaptive card as the Flow bot to a user – allows author to send custom Adaptive Card to a user, however it is not waiting for the response so in case card contains form, `Action.Submit` results in error.
+6. Post your own adaptive card as the Flow bot to a user – allows author to send custom Adaptive Card to a user, however it is not waiting for the response so in case card contains form, `Action.Submit` results in error.
 
-3. Post your own adaptive card as the Flow bot to a channel. As above, however the card is sent to a channel. The above two actions simply allow to send the card, but they do not offer any way to collect feedback. They are a good choice if you are planning to simply send informative card, without forms.
+7. Post your own adaptive card as the Flow bot to a channel. As above, however the card is sent to a channel. The above two actions simply allow to send the card, but they do not offer any way to collect feedback. They are a good choice if you are planning to simply send informative card, without forms.
 {{< image alt="" src="images/blog/get-started-with-adaptive-cards/TomaszPoszytek_10-1610369704997.png" >}}
 
-## Exercise!
+## Exercise
 
 Now it is your turn. Build an easy flow, that is triggered manually and all it does is posting an Adaptive Card to a Teams channel (of your choice), using **Post your own adaptive card as the Flow bot to a channel** action.  
 {{< image alt="" src="images/blog/get-started-with-adaptive-cards/TomaszPoszytek_11-1610369704987.png" >}}
@@ -164,6 +168,7 @@ Now save and test your flow. You should see the below cool Adaptive Card in Micr
 ## Further learning 
 
 Adaptive Cards is not just a simple technology. It is also the community that is behind. If you are interested in learning more about it, check the assets under the links below: 
+
 1.  **[https://adaptivecards.io](https://adaptivecards.io/)** -- here is the documentation, JSON schema explorer to tell you what is possible and what is not plus several samples. 
 2.  **[https://adaptivecards.io/designer](https://adaptivecards.io/designer)** -- the already known visual designer. 
 3.  **[https://aka.ms/acroadmap](https://aka.ms/acroadmap)** -- here is the roadmap, release log and user voice, where you can submit your ideas. 
@@ -172,6 +177,7 @@ Adaptive Cards is not just a simple technology. It is also the community that is
 6.  **[https://github.com/microsoft/AdaptiveCards](https://github.com/microsoft/AdaptiveCards)** -- the official GitHub repository for Adaptive Cards code, where you can find the latest SDK if you plan to begin your journey as a developer. 
  
 ## Wrap up
+
 Adaptive Cards is a modern technology built by Microsoft to help content creators author parts of user interface much faster and with less issues, due to device-specific aspects. 
 
 Knowledge about JSON code is useful, however it is not mandatory to successfully design cards. 

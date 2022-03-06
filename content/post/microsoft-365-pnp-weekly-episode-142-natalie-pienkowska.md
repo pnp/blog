@@ -11,7 +11,7 @@ type: "regular"
 
 
 ---
-# [ [Microsoft 365 PnP Weekly - Episode 142 - Natalie Pienkowska (Microsoft)](/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-142-natalie-pienkowska/ba-p/2939019){#link_6 .page-link .lia-link-navigation .lia-custom-event} ]{.lia-message-unread} {#microsoft-365-pnp-weekly---episode-142---natalie-pienkowska-microsoft-1 .message-subject itemprop="name"}
+
 
 {{< image alt="Thumb-Ep142-November8.png" src="images/blog/microsoft-365-pnp-weekly-episode-142-natalie-pienkowska/Thumb-Ep142-November8.png" >}}
 
@@ -63,8 +63,9 @@ This session was recorded in front of a non-audience on Monday, November
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -89,6 +90,7 @@ everyone for your contributions to the community!
 
 **Microsoft articles:**
 
+
  
 
 -   [Microsoft Ignite 2021 - Book of
@@ -104,7 +106,7 @@ everyone for your contributions to the community!
     [Geeta
     Ramakrishnan](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1191416)
 -   [Stay in the flow of work with new collaborative apps for Microsoft
-    Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2021/11/02/stay-in-the-flow-of-work-with-new-collaborative-apps-for-microsoft-teams/)
+    Teams](https://www.microsoft.com/microsoft-365/blog/2021/11/02/stay-in-the-flow-of-work-with-new-collaborative-apps-for-microsoft-teams/)
     - [Nicole Herskowitz](http://twitter.com/nicolelamb) (Microsoft) |
     \@nicolelamb
 -   [Ignite 2021: Building apps for collaboration in a hybrid
@@ -126,6 +128,7 @@ everyone for your contributions to the community!
  
 
 **Community articles:**
+
 
  
 
@@ -159,6 +162,7 @@ everyone for your contributions to the community!
  
 
 **Additional resources:**
+
 
  
 

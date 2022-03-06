@@ -23,6 +23,7 @@ your Canvas App from Power Apps Studio, it is saved in one opaque .msapp
 file. To be able to get the source files, you will need to use the Power
 Apps Language Toolkit to extract all files from the .msapp file. This
 way,
+
 -   developers can not only open the source code in their code editor of
     choice but can effectively manage the code of a Canvas app in GitHub
     or Azure DevOps. This makes a huge difference as we can't look into

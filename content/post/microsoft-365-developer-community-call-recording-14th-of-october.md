@@ -14,6 +14,7 @@ type: "regular"
 
 {{< image alt="recording-14th-pnp-generic.png" src="images/blog/microsoft-365-developer-community-call-recording-14th-of-october/recording-14th-pnp-generic.png" >}}
 
+
 **Call Summary**
 
 Updated [Viva Connections public developer
@@ -52,7 +53,14 @@ Platform Samples this week.  The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
+<<<<<<< HEAD
+
+**Actions:**
+=======
 ## Actions
+>>>>>>> 8b14bdbe3d758b1e8b4673fafae5dbfba74dbdc7
+
+
 
 -   Register today for Hacktoberfest 2021
     -- [https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
@@ -93,6 +101,7 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
+
 **Microsoft Teams Development
 Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
@@ -127,11 +136,14 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
         \@reshmeeauckloo
     -   [Dipen Shah](http://twitter.com/Dips_365) | \@Dips_365
 
--- Thank you :clapping_hands:
+-- Thank you
+
 **Together Mode!**
 {{< image alt="211014-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-14th-of-october/211014-together-mode.gif" >}}
+
 Awesome to have you as part of this Community, please keep the feedback
 coming, see you again soon.      
+
 **Demos** delivered in this session
 
 -   **Introduction to the new PnP Transformation Framework --** next
@@ -210,6 +222,7 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
 
 Additional resources around the covered topics and links from the
 slides.
+
 -   D1:  Article - [Introducing the New Microsoft 365 PnP Transformation
     Framework](https://practical365.com/introducing-the-new-microsoft-365-pnp-transformation-framework/) 
 
@@ -222,7 +235,7 @@ slides.
     App](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-record-name) 
 
 -   D2:  Documentation - [Apps for Teams
-    meetings](https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings) 
+    meetings](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings) 
 
 -   D3:  Article - [Universal Actions for Adaptive Cards in a NodeJs
     project](https://rabiawilliams.com/teams/uam-bot/)
@@ -250,6 +263,8 @@ slides.
     Belgium-based SharePoint/Power Platform developer at Qubix, [Carmen
     Ysewijn](http://twitter.com/CarmenYsewijn) | \@CarmenYsewijn
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-138-carmen-ysewijn-qubix-and/ba-p/2834568) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-138-%E2%80%93-11th-of-october-2021/)
+
+
 **General resources**:
 
 -   Samples - [Power Platform
@@ -277,7 +292,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -302,7 +317,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -311,24 +326,27 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
+
 -   **Microsoft 365 platform call** -- October 19th at 8:00 am PDT
     | <https://aka.ms/m365-dev-call>
--   **Power Apps monthly call **-- October 20th at 8:00 am PDT
+-   **Power Apps monthly call**-- October 20th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** October 21st at 7:00 am PDT
+-   **SharePoint Framework call** -- October 21st at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
--   **Microsoft Identity Platform call --** October 21st at 9:00 am
+-   **Microsoft Identity Platform call** -- October 21st at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
--   **M365 General Dev call -- **October 28th at 7:00 am PDT
+-   **M365 General Dev call** -- October 28th at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
--   **Office add-in monthly call -- **November 10th at 8:00 am PDT
+-   **Office add-in monthly call** -- November 10th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call** **-- **November 11th at 9:00 am
     PDT | <https://aka.ms/adaptivecardscommunitycall>
