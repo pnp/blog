@@ -48,4 +48,4 @@ jobs:
           use-verbose-mode: 'yes'
           check-modified-files-only: 'yes'
           config-file: '.mlc_config.json'
-            base-branch: main
+          base-branch: main
