@@ -1171,3 +1171,7 @@ mark {
 
 .card-body {
   padding: 23px 25px; }
+
+a.navbar-brand {
+  color: #fff;
+  padding-top: 0; }

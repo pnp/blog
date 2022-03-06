@@ -5,6 +5,7 @@
     <nav class="navbar navbar-expand-lg navbar-white">
       <a class="navbar-brand order-1" href="{{ site.BaseURL | relLangURL }}">
         {{ partial "logo.html" . }}
+        {{site.Title  }}
       </a>
 
       {{ if eq site.Params.menu_align "left"}}
@@ -49,7 +50,27 @@
       </div>
 
       <div class="order-2 order-lg-3 d-flex align-items-center">
-
+        <!-- Language List -->
+        {{ if .IsTranslated }}
+        <select class="m-2 border-0 bg-transparent" id="select-language" onchange="location = this.value;">
+          {{ $siteLanguages := site.Languages}}
+          {{ $pageLang := .Page.Lang}}
+          {{ range .Page.AllTranslations }}
+          {{ $translation := .}}
+          {{ range $siteLanguages }}
+          {{ if eq $translation.Lang .Lang }}
+          {{ $selected := false }}
+          {{ if eq $pageLang .Lang}}
+          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
+          </option>
+          {{ else }}
+          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
+          {{ end }}
+          {{ end }}
+          {{ end }}
+          {{ end }}
+        </select>
+        {{ end }}
 
         {{ if site.Params.search }}
         {{ "<!-- search -->" | safeHTML }}

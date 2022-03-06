@@ -6,7 +6,7 @@
   <ul class="list-inline widget-list-inline widget-card">
     {{- range $name, $items := site.Taxonomies.tags }}
     <li class="list-inline-item"><a
-        href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name }}</a></li>
+        href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | humanize }}</a></li>
     {{- end }}
   </ul>
   {{- end }}

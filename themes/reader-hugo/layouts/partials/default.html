@@ -59,22 +59,14 @@
             <h3 class="h4 mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
             <ul class="card-meta list-inline">
               <li class="list-inline-item">
-                <a href="{{ `author/` | relLangURL }}{{ .Params.author | urlize }}/" class="card-meta-author">
-                  {{ $author:= .Params.author | urlize}}
-                  {{ with site.GetPage $author }}
-                  {{ if .Params.image }}
-                  {{ $imagePath:= .Params.image }}
-                  {{ if (fileExists (add "assets/" $imagePath)) }}
-                  {{ $image:= resources.Get $imagePath }}
-                  {{ $img:= $image.Fill "20x20 webp" }}
-                  <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="{{ .Title }}" class="img-fluid">
-                  {{ end }}
-                  {{else if .Params.Email}}
-                  <img loading="lazy" decoding="async" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=20&pg&d=identicon">
-                  {{ end }}
-                  {{ end }}
+                {{ if .Params.githubname }}
+                <a href="https://github.com/{{ .Params.githubname }}/" class="card-meta-author">
+                  <img loading="lazy" decoding="async" width="24" height="24" src="https://github.com/{{ .Params.githubname }}.png" alt="{{ .Params.githubname }}" class="img-fluid">
                   <span>{{ .Params.author }}</span>
                 </a>
+                {{ else }}
+                <span>{{ .Params.author }}</span>
+                {{ end }}
               </li>
               <li class="list-inline-item">
                 <i class="far fa-clock"></i>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}
@@ -150,22 +142,14 @@
               <h3 class="h4 mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
               <ul class="card-meta list-inline">
                 <li class="list-inline-item">
-                  <a href="{{ `author/` | relLangURL }}{{ .Params.author | urlize }}/" class="card-meta-author">
-                    {{ $author:= .Params.author | urlize}}
-                    {{ with site.GetPage $author }}
-                    {{ if .Params.image }}
-                    {{ $imagePath:= .Params.image }}
-                    {{ if (fileExists (add "assets/" $imagePath)) }}
-                    {{ $image:= resources.Get $imagePath }}
-                    {{ $img:= $image.Fill "20x20 webp" }}
-                    <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="{{ .Title }}" class="img-fluid">
-                    {{ end }}
-                    {{else if .Params.Email}}
-                    <img loading="lazy" decoding="async" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=20&pg&d=identicon">
-                    {{ end }}
-                    {{ end }}
+                  {{ if .Params.githubname }}
+                  <a href="https://github.com/{{ .Params.githubname }}/" class="card-meta-author">
+                    <img loading="lazy" decoding="async" width="24" height="24" src="https://github.com/{{ .Params.githubname }}.png" alt="{{ .Params.githubname }}" class="img-fluid">
                     <span>{{ .Params.author }}</span>
                   </a>
+                  {{ else }}
+                  <span>{{ .Params.author }}</span>
+                  {{ end }}
                 </li>
                 <li class="list-inline-item">
                   <i class="far fa-clock"></i>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}
@@ -228,22 +212,14 @@
           <h3 class="mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
           <ul class="card-meta list-inline">
             <li class="list-inline-item">
-              <a href="{{ `author/` | relLangURL }}{{ .Params.author | urlize }}/" class="card-meta-author">
-                {{ $author:= .Params.author | urlize}}
-                {{ with site.GetPage $author }}
-                {{ if .Params.image }}
-                {{ $imagePath:= .Params.image }}
-                {{ if (fileExists (add "assets/" $imagePath)) }}
-                {{ $image:= resources.Get $imagePath }}
-                {{ $img:= $image.Fill "20x20 webp" }}
-                <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="{{ .Title }}" class="img-fluid">
-                {{ end }}
-                {{else if .Params.Email}}
-                <img loading="lazy" decoding="async" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=20&pg&d=identicon">
-                {{ end }}
-                {{ end }}
+              {{ if .Params.githubname }}
+              <a href="https://github.com/{{ .Params.githubname }}/" class="card-meta-author">
+                <img loading="lazy" decoding="async" width="24" height="24" src="https://github.com/{{ .Params.githubname }}.png" alt="{{ .Params.githubname }}" class="img-fluid">
                 <span>{{ .Params.author }}</span>
               </a>
+              {{ else }}
+              <span>{{ .Params.author }}</span>
+              {{ end }}
             </li>
             <li class="list-inline-item">
               <i class="far fa-clock"></i>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}

@@ -1,7 +1,7 @@
 ---
 title: "Create an event page with SharePoint, SharePoint Spaces and formatted Lists"
 date: 2021-11-23T02:10:00-05:00
-author: "Anand Vragav"
+author: "Anand Ragav"
 githubname: anandragav
 categories: ["SharePoint"]
 images:

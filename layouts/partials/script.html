@@ -8,7 +8,7 @@
 {{ end }}
 {{ end }}
 {{ $scripts := $scripts | append (resources.Get "js/script.js" | minify) }}
-{{ $scripts := $scripts | resources.Concat "/js/script.js" | fingerprint "sha512" }}
+{{ $scripts := $scripts | resources.Concat "/js/script.js" | minify | fingerprint "sha512" }}
 <script crossorigin="anonymous" defer="defer" integrity="{{ $scripts.Data.Integrity }}" type="application/javascript">{{$scripts.Content | safeJS}}</script>
 
 <!-- cookie -->
@@ -71,6 +71,42 @@
       sessionStorage.fontsLoaded = true
     }
   });
+</script>
+<script type="application/javascript">
+  // clean up tags -- this is temporary until we solve issues with Hugo humanized tag names
+  $(document).ready(function () {
+    $('.card-meta-tag > .list-inline-item').each(function () {
+      cleanTag($(this));
+    });
+
+    $('.widget-categories > ul.widget-list > li > a').each(function () {
+      cleanTag($(this));
+    });
+});
+
+function cleanTag(tag) {
+  var text = tag.text();
+  // find and replace pnp frmo text
+  text = text.replace(/microsoft/gi, 'Microsoft');
+  text = text.replace(/powershell/gi, 'PowerShell');
+  text = text.replace(/power shell/gi, 'PowerShell');
+  text = text.replace(/Pnp/gi, 'PnP');
+  text = text.replace(/Pn p/gi, 'PnP');
+  text = text.replace(/Microsoft teams/gi, 'Microsoft Teams');
+  text = text.replace(/Sharepoint/gi, 'SharePoint');
+  text = text.replace(/Share point/gi, 'SharePoint');
+  text = text.replace(/spfx/gi, 'SPFx');
+  text = text.replace(/pnpjs/gi, 'PnP JS');
+  text = text.replace(/dataverse/gi, 'DataVerse');
+  text = text.replace(/data verse/gi, 'DataVerse');
+  text = text.replace(/power apps/gi, 'Power Apps');
+  text = text.replace(/power automate/gi, 'Power Automate'); 
+  text = text.replace(/adaptive cards/gi, 'Adaptive Cards');
+  text = text.replace(/power virtual agents/gi, 'Power Virtual Agents');
+  text = text.replace(/viva/gi, 'Viva');
+
+  tag.text(text);
+}
 </script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){

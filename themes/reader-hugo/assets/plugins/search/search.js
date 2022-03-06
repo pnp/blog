@@ -1,28 +1,13 @@
 summaryInclude=100;
 var fuseOptions = {
-  isCaseSensitive: false,
   shouldSort: true,
   includeMatches: true,
-  threshold: 0.6,
-  //tokenize:true,
+  threshold: 0.0,
+  tokenize:true,
   location: 0,
   distance: 100,
-  //maxPatternLength: 32,
+  maxPatternLength: 32,
   minMatchCharLength: 1,
-  // NEW OPTIONS
-  // isCaseSensitive: false,
-  // includeScore: false,
-  // shouldSort: true,
-  // includeMatches: false,
-  // findAllMatches: false,
-  // minMatchCharLength: 1,
-  // location: 0,
-  // threshold: 0.6,
-  // distance: 100,
-  // useExtendedSearch: false,
-  // ignoreLocation: false,
-  // ignoreFieldNorm: false,
-  // fieldNormWeight: 1,
   keys: [
     {name:"title",weight:0.8},
     {name:"contents",weight:0.5},
@@ -46,7 +31,7 @@ function executeSearch(searchQuery){
     if(result.length > 0){
       populateResults(result);
     }else{
-      $('#search-results').append("<div class="text-center"><img class="img-fluid mb-5" src="../images/no-search-found.svg"><h3>No Search Found</h3></div>");
+      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"../images/no-search-found.svg\"><h3>No Search Found</h3></div>");
     }
   });
 }
