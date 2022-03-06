@@ -107,7 +107,7 @@ available in Power Automate, but it is very limited to Security
 considerations.</p><p>Thankfully, the rest of the Graph API abilities are
 available, but you have to go via a custom connector. You could call
 these directly via an HTTP request action, but by wrapping the Graph API
-in a connector, you are enabling other members of your organisation to
+in a connector, you are enabling other members of your organization to
 re-use the connector and security you establish.
 Microsoft also allows you to &ldquo;play&rdquo; with the Graph API as well, via
 the <a href=https://developer.microsoft.com/en-us/graph/graph-explorer>Graph
@@ -239,7 +239,7 @@ that they were denied access. You could also use the response written in
 the rejection.</p><p>
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_26-1620296726933_hue3ac2336a8ff12c172d4760fd0c53848_4773_750x0_resize_q100_h2_box_3.webp alt>
 In the Yes path, call the Custom connector again to check if the user is
-already a part of your organisation as a guest user. As the parameter is
+already a part of your organization as a guest user. As the parameter is
 expecting a query, use the expression below</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_27-1620296726901_hu94f46e52cef584d95c87b0f612411eb4_5260_645x0_resize_q100_h2_box_3.webp alt>
 <p>mail eq &lsquo;Email Parameter from the Form response&rsquo;</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-json data-lang=json><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>mail</span> <span style=color:#960050;background-color:#1e0010>eq</span> <span style=color:#960050;background-color:#1e0010>&#39;Email</span> <span style=color:#960050;background-color:#1e0010>Parameter</span> <span style=color:#960050;background-color:#1e0010>from</span> <span style=color:#960050;background-color:#1e0010>the</span> <span style=color:#960050;background-color:#1e0010>Form</span> <span style=color:#960050;background-color:#1e0010>response&#39;</span>
 </span></span></code></pre></div><p>Next, check the length of the returned object from the custom connector.
@@ -248,7 +248,7 @@ This basically checks if the user already belongs to your environment.</p><img l
 </code></pre><p>If there is a value in the return, use the return to invite the user to
 the team.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_29-1620296726913_hu3e4851da9e33c5168a2b422523b80407_6095_669x0_resize_q100_h2_box_3.webp alt>
 <p>The User id is returned by using the expression below</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-json data-lang=json><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>body(&#39;GetUser&#39;)?</span>[<span style=color:#960050;background-color:#1e0010>&#39;value&#39;</span>][<span style=color:#ae81ff>0</span>]<span style=color:#960050;background-color:#1e0010>?</span>[<span style=color:#960050;background-color:#1e0010>&#39;id&#39;</span>]
-</span></span></code></pre></div><p>On the negative side, firstly invite the user to your organisation by
+</span></span></code></pre></div><p>On the negative side, firstly invite the user to your organization by
 using the final action of the custom connector.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_30-1620296727013_hu9058a254e0bfde120205494d9da64ac8_7979_659x0_resize_q100_h2_box_3.webp alt>
 <p>And finally, use the response from your custom connector, the invited
 user to the team.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_31-1620296727008_hu1b902aed34aba1dc7c06bf16c04f0e9f_6111_604x0_resize_q100_h2_box_3.webp alt>

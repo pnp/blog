@@ -19,10 +19,11 @@
 <meta property="og:title" content="Using the PnP Modern Search Web Parts">
 <meta property="og:description" content="These are the web parts you&rsquo;re looking for The PnP Modern Search web parts, out of all of the hundreds of samples available as a part of the PnP initiative, are some of the most complicated web parts to get configured.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://pnp.github.io/community-blog/post/using-the-pnp-modern-search-web-parts/"><meta property="article:section" content="post">
+<meta property="og:url" content="https://pnp.github.io/community-blog/post/using-the-pnp-modern-search-web-parts/"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/using-the-pnp-modern-search-web-parts/16-final.png"><meta property="article:section" content="post">
 <meta property="article:published_time" content="2021-05-27T08:40:00-04:00">
 <meta property="article:modified_time" content="2021-05-27T08:40:00-04:00">
-<meta name=twitter:card content="summary">
+<meta name=twitter:card content="summary_large_image">
+<meta name=twitter:image content="https://pnp.github.io/community-blog/images/blog/using-the-pnp-modern-search-web-parts/16-final.png">
 <meta name=twitter:title content="Using the PnP Modern Search Web Parts">
 <meta name=twitter:description content="These are the web parts you&rsquo;re looking for The PnP Modern Search web parts, out of all of the hundreds of samples available as a part of the PnP initiative, are some of the most complicated web parts to get configured.">
 <meta http-equiv=x-dns-prefetch-control content="on">
@@ -67,7 +68,14 @@ Microsoft 365 Community Blog
 <div class=row>
 <div class="col-lg-8 mb-5 mb-lg-0">
 <article>
-<h1 class=h2>Using the PnP Modern Search Web Parts</h1><ul class="card-meta my-3 list-inline">
+<div class="post-slider mb-4">
+<picture>
+<source srcset=https://pnp.github.io/community-blog/images/blog/using-the-pnp-modern-search-web-parts/16-final_hubc9150bcbaee0a2de215156a7645cddd_223501_380x180_fill_box_smart1_3.png media="(max-width: 575px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/using-the-pnp-modern-search-web-parts/16-final_hubc9150bcbaee0a2de215156a7645cddd_223501_700x330_fill_box_smart1_3.png media="(max-width: 991px)">
+<source srcset=https://pnp.github.io/community-blog/images/blog/using-the-pnp-modern-search-web-parts/16-final.png>
+<img src=https://pnp.github.io/community-blog/images/blog/using-the-pnp-modern-search-web-parts/16-final.png class=card-img loading=lazy alt=post-thumb>
+</picture>
+</div><h1 class=h2>Using the PnP Modern Search Web Parts</h1><ul class="card-meta my-3 list-inline">
 <li class=list-inline-item>
 <a href=https://github.com/willholland/ class=card-meta-author>
 <img loading=lazy decoding=async width=24 height=24 src=https://github.com/willholland.png alt=willholland class=img-fluid>
@@ -84,36 +92,29 @@ parts</a></em>, out of
 all of the <a href=https://pnp.github.io/sp-dev-fx-webparts/>hundreds of samples
 available</a> as a part of the
 PnP initiative, are some of the <em>most</em> complicated web parts to get
-configured.
-Between the four of them, there&rsquo;s somewhere around 100 different
+configured.</p><p>Between the four of them, there&rsquo;s somewhere around 100 different
 configuration options, which can be configured into countless
 combinations; and if you want to make the most out of them, you&rsquo;re also
 going to need to be somewhat familiar with SharePoint Search topics such
 as <em>managed</em> and <em>crawled</em> properties, refiners, result sources, etc...
 Point is, these web parts are not meant for the masses and can be a
-challenge even for the most super of super users.
-The aim of this post is to, hopefully, lessen that challenge a bit. And
+challenge even for the most super of super users.</p><p>The aim of this post is to, hopefully, lessen that challenge a bit. And
 to do that, we&rsquo;re going to be using these web parts to build a page for
 searching a SharePoint list of the top 999 video games (by # of units
-shipped).
-We&rsquo;re not going to be deep diving into every option or combination of
+shipped).</p><p>We&rsquo;re not going to be deep diving into every option or combination of
 setting. Instead, we&rsquo;re going for the classic "Minimal Path to
 Awesome"...with a few detours throughout.
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/16-final_hubc9150bcbaee0a2de215156a7645cddd_223501_750x0_resize_q100_h2_box_3.webp alt=16-final.png></p><h2 id=getting-the-web-parts>Getting the Web Parts</h2><p>The latest version of the PnP Modern Search web parts can be found using
 <a href=https://github.com/microsoft-search/pnp-modern-search/releases/latest>this
-link</a>.
-For the purposes of this blog, we&rsquo;re looking at v4.1.0, which can be
+link</a>.</p><p>For the purposes of this blog, we&rsquo;re looking at v4.1.0, which can be
 found using <a href=https://github.com/microsoft-search/pnp-modern-search/releases/tag/4.1.0>this
 link</a>
-(in case it&rsquo;s no longer the latest).
-Just scroll down to the bottom of the page and download the <code>.SPPKG</code>
-file.
-Once you have those, you can follow along with the <a href=https://microsoft-search.github.io/pnp-modern-search/installation/>installation
+(in case it&rsquo;s no longer the latest).</p><p>Just scroll down to the bottom of the page and download the <code>.SPPKG</code>
+file.</p><p>Once you have those, you can follow along with the <a href=https://microsoft-search.github.io/pnp-modern-search/installation/>installation
 guide</a>
 to get them in your tenant.</p><h2 id=setting-up-for-the-demo>Setting up for the demo</h2><p>If you&rsquo;re interested in following along with the demo in your own
 environment, there&rsquo;s a bit of behind-the-scenes work that was done to
-stage things.
-I&rsquo;ve included a PnP Site template and a README in the <a href=https://github.com/willholland/blog-using-pnp-search>github
+stage things.</p><p>I&rsquo;ve included a PnP Site template and a README in the <a href=https://github.com/willholland/blog-using-pnp-search>github
 repository</a> for
 this blog to help get you up to speed.</p><h2 id=configuring-the-search-box-web-part>Configuring the Search Box web part</h2><p>In keeping with the spirit of our &ldquo;Minimal Path to Awesome&rdquo; approach,
 the Search Box web part will be the easiest to configure of the lot. We
@@ -123,20 +124,17 @@ has introduced more advanced features than we&rsquo;ll be making use of, but
 that doesn&rsquo;t mean we can&rsquo;t take a peek.</p><h3 id=panel-1---search-box-settings>Panel 1 - Search box settings</h3><p>The first configuration panel initially offers two settings.
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/5-search-box-settings_hu92a3425b5c7e93d9b7dc36dc91d9f817_8972_338x0_resize_q100_h2_box_3.webp alt=5-search-box-settings.png>
 The first setting will replace the default "<em>Enter your search
-terms...</em>" placeholder text with whatever you type here.
-The second setting - <strong>Send the query to a new page</strong> - will be off by
+terms...</em>" placeholder text with whatever you type here.</p><p>The second setting - <strong>Send the query to a new page</strong> - will be off by
 default (and will stay that way for this example). If you enable it,
 you&rsquo;ll see some new options appear that allow you send the user&rsquo;s
-query to a new page/tab.
-This can be incredibly useful if you want to create "Search Results"
+query to a new page/tab.</p><p>This can be incredibly useful if you want to create "Search Results"
 page like what we&rsquo;re currently doing, but also want to provide a search
 box on other pages. Using this we could, for example, include a Search
 box web part on the home page of our site and, when a user submits a
 query, the query is passed to the page we&rsquo;re building, and search
 results are shown.</p><h3 id=panel-2---query-suggestions>Panel 2 - Query Suggestions</h3><p>It&rsquo;s possible to provide users with some search suggestions (you know,
 the things that appear beneath what you&rsquo;re typing in search engines
-like Bing or Google) to help speed them along their search journey.
-As users search for a particular term or phrase and click on search
+like Bing or Google) to help speed them along their search journey.</p><p>As users search for a particular term or phrase and click on search
 results, SharePoint will (supposedly) make a correlation between the
 two. In our example, if a user searched for <em><strong>World of Warcraft</strong></em> and
 clicked on the result <em><strong>World of Warcraft: Legion</strong></em> six times,
@@ -148,8 +146,7 @@ the search results we&rsquo;re creating aren&rsquo;t clickable, or that the
 Search suggestions are only curated when you&rsquo;re using the built-in
 search boxes, such as the Microsoft Search bar.</p></blockquote><h3 id=panel-3---available-connections>Panel 3 - Available Connections</h3><p>The last panel of options includes configurations that allow us to pull
 queries from other sources.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/6-search-box-available-connections_hud8a7633bdf6b34c274c9d66e2f3cfdef_16976_331x0_resize_q100_h2_box_3.webp alt=6-search-box-available-connections.png>
-Again, we&rsquo;re not going to be dealing with these on our MPA. However,
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/6-search-box-available-connections_hud8a7633bdf6b34c274c9d66e2f3cfdef_16976_331x0_resize_q100_h2_box_3.webp alt=6-search-box-available-connections.png></p><p>Again, we&rsquo;re not going to be dealing with these on our MPA. However,
 referring to the example of having a search box on a home page sending
 queries to the page we&rsquo;re currently building, we would want to select
 the "Query string" option here and specify our parameter name. Once
@@ -157,46 +154,40 @@ configured, we could pass query information from one page and pull it in
 here.</p><h2 id=configuring-the-search-verticals-web-part>Configuring the Search Verticals web part</h2><p>Verticals allow users to limit their search results to a specific <em>kind</em>
 of result. If you&rsquo;ve been around SharePoint long enough, you&rsquo;ve no
 doubt seen the standard <em>All</em>, <em>Files</em>, <em>People</em>, <em>Sites</em>, etc...
-verticals that SharePoint shows when you search for stuff.
-Well, the <em>Search Verticals</em> web part allows us to create our own
+verticals that SharePoint shows when you search for stuff.</p><p>Well, the <em>Search Verticals</em> web part allows us to create our own
 verticals that enable our users to see results for specific platforms.
 In terms of difficulty, the <em>Search Verticals</em> web part comes in second
 place in our example, although it&rsquo;s probably the easiest to configure
 overall if you count the Search Box features we&rsquo;re not making use of.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/7-search-verticals_hu9602b5fe761cf41e44b9733ca14e33a0_9598_750x0_resize_q100_h2_box_3.webp alt=7-search-verticals.png>
-While the other three web parts in this package saw new features (and
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/7-search-verticals_hu9602b5fe761cf41e44b9733ca14e33a0_9598_750x0_resize_q100_h2_box_3.webp alt=7-search-verticals.png></p><p>While the other three web parts in this package saw new features (and
 added complexity) with the latest version, this web part is actually
 became much easier to use. There&rsquo;s only one configuration panel to deal
 with, so let&rsquo;s take a look.</p><h3 id=panel-1---search-verticals-configuration>Panel 1 - Search verticals configuration</h3><p>When you open the Search Verticals web part, you&rsquo;ll be greated with a
 singular button that says <strong>Configure Verticals</strong>.
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/8-meme_hu1389f531abe7f649fb60b8a9e2a7a652_159538_540x0_resize_q100_h2_box_3.webp alt=8-meme.png></p><p>When clicked, you get the real deal...
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/9-real-deal_hu115e8c81f2ca2303555a87bcd9fcbe4d_37730_750x0_resize_q100_h2_box_3.webp alt=9-real-deal.png>
-We can add any number of verticals simply by giving them a name and
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/9-real-deal_hu115e8c81f2ca2303555a87bcd9fcbe4d_37730_750x0_resize_q100_h2_box_3.webp alt=9-real-deal.png></p><p>We can add any number of verticals simply by giving them a name and
 setting an order. We can also make use of the standard Fabric icons if
 we wish (and we do!) and, if we choose, we can make verticals a link
-that opens a new page when clicked.
-Since we want our users to stay on the same page, we&rsquo;re not going to
+that opens a new page when clicked.</p><p>Since we want our users to stay on the same page, we&rsquo;re not going to
 bother with hyperlinks, but we will go ahead and create verticals for
 the latest generation of platforms available in our dataset, as well as
 an &ldquo;All&rdquo; vertical.</p><h3 id=search-verticals-summary>Search Verticals Summary</h3><p>That&rsquo;s all there is to it, really. However, one important thing to keep
 in mind is that each vertical you choose to add will require a separate
 instance of the Search Results web part. For those that are familiar
-with previous versions of these web parts, this is a deparature from
+with previous versions of these web parts, this is a departure from
 what we&rsquo;re used to.</p><h2 id=configuring-the-search-refiners-web-part>Configuring the Search Refiners web part</h2><p>Once a user gets to searching, they may want to be able to filter the
 results by certain criteria. We can use the <em>Search Filters</em> web part to
 fulfil that demand.</p><h3 id=panel-1---available-connections>Panel 1 - Available Connections</h3><p>For refiners to show, they&rsquo;ll need search results to refine. The
 "Available connections" settings will allow you select one or more
 <em>Search Results</em> web parts. If you haven&rsquo;t already added one, there
 won&rsquo;t be any options, so make sure you&rsquo;ve added one first. Once
-you&rsquo;ve got one, select it here.
-Later, you&rsquo;ll see that we end up with multiple <em>Search Results</em> web
+you&rsquo;ve got one, select it here.</p><p>Later, you&rsquo;ll see that we end up with multiple <em>Search Results</em> web
 parts, so we&rsquo;ll revisit this after that point to update it so our
 refiners respect that.</p><h3 id=panel-1---filter-settings>Panel 1 - Filter Settings</h3><p>The other section has two different settings we can configure.
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/18-filters-settings_hu38390c851377b80f495d06c7fffccfd9_8273_503x0_resize_q100_h2_box_3.webp alt=18-filters-settings.png></p><p>Clicking the edit button will, again, open a meme-worthy panel. Unlike
 the last panel, though, this new panel is far more involved.
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/19-refiners-settings_huf8838424aea6439de7ca8e46577f223c_84056_750x0_resize_q100_h2_box_3.webp alt=19-refiners-settings.png></p><p>Most of the settings are, I think, self explanatory and you can see the
-settings used for the demo in the above screenshot.
-However, it&rsquo;s important to note that the values you use in the "Filter
+settings used for the demo in the above screenshot.</p><p>However, it&rsquo;s important to note that the values you use in the "Filter
 field" column <strong>MUST</strong> map to a managed property that has been marked
 as Refinable. In our case, we&rsquo;ve already gone into our search schema
 and mapped the columns we wanted to filter by to the provided Refinable
@@ -205,11 +196,9 @@ managed properties.</p><blockquote>
 these settings will have already been mapped for you.</p></blockquote><h3 id=panel-2---available-layouts>Panel 2 - Available Layouts</h3><p>We have three pre-canned layouts available to us, as well as a Custom
 option which you can use to present your filters in any way you can
 imagine.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/17-vertical-layouts_hu3fff96d635801fb32ba84a0976ec8ac8_9845_321x0_resize_q100_h2_box_3.webp alt=17-vertical-layouts.png>
-The <em>Vertical</em> and <em>Horizontal</em> options are self-descriptive, while the
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/17-vertical-layouts_hu3fff96d635801fb32ba84a0976ec8ac8_9845_321x0_resize_q100_h2_box_3.webp alt=17-vertical-layouts.png></p><p>The <em>Vertical</em> and <em>Horizontal</em> options are self-descriptive, while the
 <em>Panel</em> option will cause a panel to flyout from the right (like how the
-web part properties do).
-Since our Filter web part is in a vertical column, we&rsquo;ll just stick
+web part properties do).</p><p>Since our Filter web part is in a vertical column, we&rsquo;ll just stick
 with that option.</p><h2 id=configuring-the-search-results-web-part>Configuring the Search Results web part.</h2><p>The <em>Search Results</em> web part is, as the name implies, the component we
 use to show search results for the things users are searching for. It&rsquo;s
 also where things start getting little more involved.
@@ -233,8 +222,7 @@ Search results are, behind the scenes, being rendered using
 is tied back to a property returned in the search results.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/12-slots_hue1db90ce50aed445f9db407f57b7391b_1964_750x0_resize_q100_h2_box_3.webp alt=12-slots.png>
 <p>Considering the above, there will be a property exposed in the
 Handlebars template called "Author" that is mapped to the
-"AuthorOWSUSER" managed property.
-For those of us walking the <em>minimalist</em> path, this isn&rsquo;t necessary.
+"AuthorOWSUSER" managed property.</p><p>For those of us walking the <em>minimalist</em> path, this isn&rsquo;t necessary.
 However, the search results shown in screenshots does make use of custom
 templates and does rely on some custom layout slots to tie into the
 managed properties associated with our list of video games. Below is a
@@ -257,8 +245,7 @@ so...
 {searchTerms} ContentTypeId:0x01004527A5975C6A534DAE7EBFD57E41A633*</p><p>In this case, the content type ID being used is for a "Video Game
 Data" content type that is used for items in our list. So, by doing
 this, we&rsquo;re limiting our search results to only those that match our
-content type.
-This also gives the benefit of displaying default search results when
+content type.</p><p>This also gives the benefit of displaying default search results when
 the user enters the page, which is pretty useful in our example.</p><h4 id=result-source-id>Result source ID</h4><p>Immediately below that is the <em>Result source ID</em> field, which allows you
 select a SharePoint Search Result Source. By default, it will be set to
 <strong>LocalSharePointResults</strong>. If you&rsquo;re using the method above, you can
@@ -266,12 +253,10 @@ leave it there. The other option is to create your own custom Search
 Results type to limit results to our content type and supply the GUID
 for that here. The end result is the same, ultimately.</p><h4 id=selected-properties>Selected Properties</h4><p>Next up is the <em>Selected Properties</em> dropdown. The web part will have
 several properties selected by default, and if you&rsquo;re just wanting to
-leverage the default layout options, you can leave this alone as well.
-If, however, you want to display different properties on your search
+leverage the default layout options, you can leave this alone as well.</p><p>If, however, you want to display different properties on your search
 results you can (de)select as many options as you need. You won&rsquo;t be
 able to make use of any property you haven&rsquo;t included here though, so
-bear that in mind.
-Our search results don&rsquo;t need any of the default options. Instead, you
+bear that in mind.</p><p>Our search results don&rsquo;t need any of the default options. Instead, you
 can just copy & paste the below string into the text box to get going.
 DeveloperOWSCHCS,ESRBRatingOWSCHCS,GenreOWSCHCS,imgurlOWSURLH,PlatformOWSCHCS,PublisherNameOWSCHCS,RankOWSNMBR,Title,YearOWSNMBR</p><p>Each one of those values points to a managed property that was created
 when our site columns were provisioned and allows us to show that data
@@ -289,66 +274,54 @@ We could totally add our
 we chose, instead of the <em>Query text</em> box above.
 The biggest difference would be that we wouldn&rsquo;t see any search results
 until the user actually searched for something.</p><h4 id=the-other-options>The other options...</h4><p>There are five other options available in this section which are
-somewhat self explantory. The only exception to the rule might be the
+somewhat self explanatory. The only exception to the rule might be the
 <em>Enable query rules</em> options, which is more than we&rsquo;re going to get
 into here (and honestly not something I&rsquo;m familiar with).</p><h3 id=panel-1---paging-options>Panel 1 - Paging options</h3><p>This section, as the name implies, allows you to configure paging
 options. They&rsquo;re all straight forward and the only one we changed for
 the demo was the <em>Number of items per page</em>, which we set to 9 - the
 idea being that we wanted to show three cards per row (which left a
-straggler if we lef it at the default 10).</p><h3 id=panel-2---available-layouts-1>Panel 2 - Available layouts</h3><p>This panel is more straight forward that the last. Select a layout and
+straggler if we left it at the default 10).</p><h3 id=panel-2---available-layouts-1>Panel 2 - Available layouts</h3><p>This panel is more straight forward that the last. Select a layout and
 configure any common or layout specific options you want.
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/14-layouts_hu8601810045d12313965f80c58a77fe25_9022_305x0_resize_q100_h2_box_3.webp alt=14-layouts.png></p><p>The complexity will come in when you want to customize the visual
 appearance of the search results. Many of the non-custom layouts have
 configuration options that allow you to influence the appearance, but
 all of them will require some familiarity with Handlebars to get the
-most out of them.
-If you&rsquo;re just using these web parts to surface standard SharePoint
+most out of them.</p><p>If you&rsquo;re just using these web parts to surface standard SharePoint
 content, such as Pages or Documents, the non-custom layouts should suit
-your needs perfectly.
-For the hardcore, you can also go full custom and get as creative as
+your needs perfectly.</p><p>For the hardcore, you can also go full custom and get as creative as
 you&rsquo;d like. We&rsquo;re using the custom layout in our <em>Search Results</em> web
 parts, the source for which can be <a href=https://github.com/willholland/blog-using-pnp-search/blob/main/card.html>found on
-github.</a></p><blockquote>
+GitHub.</a></p><blockquote>
 <p><strong>NOTE:</strong> For the custom layout to function, you will need to ensure
 that you&rsquo;ve defined the custom Slots referenced earlier in the blog.</p></blockquote><h3 id=panel-3---available-connections-1>Panel 3 - Available Connections</h3><p>The last panel of options allows us to connect the other web parts we
 have on our page which, in turn, allows them to influence our search
-results.
-The first option is whether to <em>Use input query text</em>, which is <strong>Off</strong>
+results.</p><p>The first option is whether to <em>Use input query text</em>, which is <strong>Off</strong>
 by default. This setting basically controls whether we want to allow
-search queries.
-Leaving it off might seem odd, but if we didn&rsquo;t want users to search
+search queries.</p><p>Leaving it off might seem odd, but if we didn&rsquo;t want users to search
 via text and instead use verticals, refiners, or just browse through
 result pages of the query we specified back on the first panel&rsquo;s <em>Query
-template</em>, that&rsquo;s how we&rsquo;d do it.
-However, we definitely want to flip that on, otherwise our <em>Search Box</em>
+template</em>, that&rsquo;s how we&rsquo;d do it.</p><p>However, we definitely want to flip that on, otherwise our <em>Search Box</em>
 web part will be about as useful as a glass nail. Once on, you can
-select Dynamic Value and select the <strong>PnP - Search Box</strong> option.</p><p>
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/15-input-query_huc25c148d048e892ba7b43521cee2233c_15200_326x0_resize_q100_h2_box_3.webp alt=15-input-query.png>
-We&rsquo;ll also want to go ahead and connect our filters web part, which is
+select Dynamic Value and select the <strong>PnP - Search Box</strong> option.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/15-input-query_huc25c148d048e892ba7b43521cee2233c_15200_326x0_resize_q100_h2_box_3.webp alt=15-input-query.png>
+<p>We&rsquo;ll also want to go ahead and connect our filters web part, which is
 as simple as toggling the switch and selecting the only item in the
-dropdown.
-Lastly, we&rsquo;ll want to connect to our verticals web part, which is only
+dropdown.</p><p>Lastly, we&rsquo;ll want to connect to our verticals web part, which is only
 slightly more complicated than the refiners. As you&rsquo;ll see, we have a
 second dropdown that is labeled <em>Display data only when the following
-vertical is selected</em>.
-To start with, just select the <strong>All</strong> option. Once that&rsquo;s done, in
+vertical is selected</em>.</p><p>To start with, just select the <strong>All</strong> option. Once that&rsquo;s done, in
 order to support all of our verticals, we&rsquo;ll need to actually duplicate
 the web part we just configured for each additional vertical (4 times,
-in our example) and update each one to show during a different vertical.
-It&rsquo;s a bit heavy handed for our example, but extremely useful if you
-intend to display different layouts for different verticals.
-Once you&rsquo;ve duplicated your <em>Search Results</em> web part, be sure to
+in our example) and update each one to show during a different vertical.</p><p>It&rsquo;s a bit heavy handed for our example, but extremely useful if you
+intend to display different layouts for different verticals.</p><p>Once you&rsquo;ve duplicated your <em>Search Results</em> web part, be sure to
 update the <strong>Available Connections</strong> setting in your <em>Search Refiners</em>
 web part to include these additions.</p><h2 id=conclusion>Conclusion</h2><p>If you&rsquo;ve followed along with everything, you should have a page that
 looks something like the below...
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/using-the-pnp-modern-search-web-parts/16-final_hubc9150bcbaee0a2de215156a7645cddd_223501_750x0_resize_q100_h2_box_3.webp alt=16-final.png></p><p>These web parts are amazingly cool, extremely powerful, and can be
-leveraged to create a lot of awesome experiences for our users.
-It&rsquo;s also one of the most complicated web parts out there. While this
+leveraged to create a lot of awesome experiences for our users.</p><p>It&rsquo;s also one of the most complicated web parts out there. While this
 blog post was (mostly) focused on that "minimal path to awesome",
 it&rsquo;s still <em><strong>REALLY</strong></em> long, which speaks to some of that complexity.
 However, hopefully this has helped make it more accessible to get
-started.
-At a minimum, you&rsquo;ve at least learned that <em>Wii Sports</em> is the most
+started.</p><p>At a minimum, you&rsquo;ve at least learned that <em>Wii Sports</em> is the most
 shipped game of all time...so you&rsquo;ve got that going for you, which is
 nice.</p></div></article><script src=https://utteranc.es/client.js repo=pnp/community-blog issue-term=title theme=github-light crossorigin=anonymous async></script>
 </div><aside class=col-lg-4>
