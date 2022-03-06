@@ -10,7 +10,7 @@ tags: []
 type: "regular"
 
 
----# [Microsoft 365 PnP Community -- December 2021 update
+---
 {{< image alt="dec-2021-pnp-promo.png" src="images/blog/microsoft-365-pnp-community-december-2021-update/dec-2021-pnp-promo.png" >}}
 
 Microsoft 365 Community (PnP) December 2021 update is out with a summary
@@ -20,7 +20,8 @@ different areas and topics around the community work we do around
 Microsoft 365 ecosystem during the past month. Thank you for being part
 of this success.
 *Sharing is caring!*
-# What is Microsoft 365 Community (PnP) 
+
+## What is Microsoft 365 Community (PnP) 
 
 [Microsoft 365 PnP](http://aka.ms/m365pnp) is a nick-name for Microsoft
 365 platform community activities coordinated by numerous teams inside

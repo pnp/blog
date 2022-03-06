@@ -21,6 +21,7 @@ Microsoft or from the community for the community. This article is a
 summary of all the different areas and topics around the community work
 we do around Microsoft 365 ecosystem during the past month. Thank you
 for being part of this success. *Sharing is caring!*
+
 ## What is Microsoft 365 Community (PnP) 
 
 [Microsoft 365 PnP](http://aka.ms/m365pnp) is a nick-name for Microsoft

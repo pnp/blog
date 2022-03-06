@@ -20,7 +20,8 @@ a summary of all the different areas and topics around the community
 work we do around Microsoft 365 ecosystem during the past month. Thank
 you for being part of this success.
 *Sharing is caring! 🧡*
-# What is Microsoft 365 Community (PnP) 
+
+## What is Microsoft 365 Community (PnP) 
 
 
 
