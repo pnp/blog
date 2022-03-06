@@ -181,12 +181,12 @@ export class ConvertFileService {
  
 
 Now move to the **{WebpartName}WebPart.ts** file.
-1\. Initialize service in onInit()
+1.  Initialize service in onInit()
 
-2\. Create an API key and API URL properties in property pane
+2.  Create an API key and API URL properties in property pane
 configuration.
 
-3\. Set properties value in render() so we can use it in the component.
+3.  Set properties value in render() so we can use it in the component.
  
 
 ```javascript

@@ -172,14 +172,14 @@ To enable SSL here, follow these steps:
 
 `HTTPS=trueSSL_CRT_FILE=../.cert/cert.crtSSL_KEY_FILE=../.cert/cert.keyCORS_ORIGIN=https://devappsforteams.local:3000`
 
-2\. Immediately above the
+2.  Immediately above the
 line `app.get('/getGraphAccessToken')` in `server.ts` or `server.js`,
 add these lines to allow the cross-origin call from the web page (port
 3000) to the web service (port 5000):
 
 `const cors = require('cors');app.use(cors({    origin: process.env.CORS_ORIGIN}));`
 
-3\. Near the bottom of the same file, replace the line
+3.  Near the bottom of the same file, replace the line
 
 `app.listen(port);`
 

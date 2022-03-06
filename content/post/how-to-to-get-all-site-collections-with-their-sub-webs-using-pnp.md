@@ -23,13 +23,13 @@ Open Windows PowerShell ISE\
 Create a new file and write a script
 
 Now we will see all the steps which we required to achieve the solution:
-1\. We will initialize the admin site URL, username, and password in the
+1.  We will initialize the admin site URL, username, and password in the
 global variables.
 
-2\. Then we will create a Login function to connect the O365 SharePoint
+2.  Then we will create a Login function to connect the O365 SharePoint
 Admin site.
 
-3\. Create a function to get all site collections and all the sub-webs 
+3.  Create a function to get all site collections and all the sub-webs 
 So in the end, our script will be like this,
  
 

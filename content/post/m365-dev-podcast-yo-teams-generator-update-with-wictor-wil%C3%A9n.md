@@ -36,7 +36,7 @@ Listen to the show here: 
     Microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/generating-software-bills-of-materials-sboms-with-spdx-at-microsoft/?WT.mc_id=M365-MVP-4025164)
 -   [Microsoft Teams ISV app monetization capabilities now available in
     developer preview - Microsoft
-    365\...](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-isv-app-monetization-capabilities-now-available-in-developer-preview/?WT.mc_id=M365-MVP-4025164)
+    365. ..](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-isv-app-monetization-capabilities-now-available-in-developer-preview/?WT.mc_id=M365-MVP-4025164)
 -   [azure-sdk-for-net/CHANGELOG.md at
     Azure.Core_1.20.0](https://github.com/Azure/azure-sdk-for-net/blob/Azure.Core_1.20.0/sdk/core/Azure.Core/CHANGELOG.md)
 

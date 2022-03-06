@@ -23,20 +23,20 @@ details refer to
 
 ## How to use it? 
 
-1\. Log in to any SharePoint Modern Site.
+1.  Log in to any SharePoint Modern Site.
 
-2\. Move to the modern list/library
+2.  Move to the modern list/library
 
-3\. Create a Person column in List/Library as below,
+3.  Create a Person column in List/Library as below,
  
 
 {{< image alt="22.png" src="images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/22.png" >}}
-4\. Turn on to show profile photo to see profile URL.
+4.  Turn on to show profile photo to see profile URL.
 
 {{< image alt="1.png" src="images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/1.png" >}}
  
 
-4\. Then create a list item and check it in the list/library view.
+4.  Then create a list item and check it in the list/library view.
 
 {{< image alt="3.png" src="images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/3.png" >}}
 

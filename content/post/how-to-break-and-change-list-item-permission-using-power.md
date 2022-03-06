@@ -23,20 +23,20 @@ this, we will use REST API
 Create a SharePoint List
 
 Create a Power Automate - We will create an **Automated Cloud Flow**
-1\. Go to **Power Automate** \> **My flows** \> Select  **New flow** \>
+1.  Go to **Power Automate** \> **My flows** \> Select  **New flow** \>
 Select **Automated Cloud Flow**
 **{{< image alt="STep 1.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/STep 1.png" >}}
  
-2\. It will ask for the flow name and trigger.
+2.  It will ask for the flow name and trigger.
 Add flow name and choose a trigger **when an item is created.**
 {{< image alt="Step2.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/Step2.png" >}}
-3\. Select  **Cerate.**
-4\. Now set Site name and list name in **when an item is created in
+3.  Select  **Cerate.**
+4.  Now set Site name and list name in **when an item is created in
 list **action.
 {{< image alt="Step3.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/Step3.png" >}}
 **For all API Calling, we will use Send an HTTP request to SharePoint
 action.**
-5\. Now we will call REST API to break role inheritance.
+5.  Now we will call REST API to break role inheritance.
 Set all properties as below.
   ----------------------------------- ---------------------------------------------------------------------------------------------------------------------
   **Site Address**                    Select Site Name from Dropdown
@@ -55,7 +55,7 @@ Set all properties as below.
 {{< image alt="step4.png" src="images/blog/how-to-break-and-change-list-item-permission-using-power/step4.png" >}}
  
 
-6\. Now we will set new permission so for that we need a **user id** to
+6.  Now we will set new permission so for that we need a **user id** to
 whom we have to give permission and need a **role definition ID**.
 **User ID: **You can directly use User ID if you have or if you have a
 user name or login name then we have to find user id from the particular

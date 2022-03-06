@@ -105,12 +105,12 @@ export interface IReactAzureadUsersState {
 
 Move to the **{webpartname}.ts** file. Here we will get the graph client
 and context and then we will pass it to the property,
-1\. Import required packages like **MSGraphClient**, **Providers**, and
+1.  Import required packages like **MSGraphClient**, **Providers**, and
 **SharePointProvider**.
 
-2\. In **OnInit()**, get context and graph client.
+2.  In **OnInit()**, get context and graph client.
 
-3\. In **render()**, pass properties so we can use them in our
+3.  In **render()**, pass properties so we can use them in our
 component.
  
 
@@ -199,15 +199,15 @@ export default class ReactAzureadUsersWebPart extends BaseClientSideWebPart<IRea
  
 
 Now move to the **{webpartname}.tsx** file.
-1\. Setup the graph context
+1.  Setup the graph context
 
-2\. Create a method to get the Azure group Id by group name and set it
+2.  Create a method to get the Azure group Id by group name and set it
 into the state.
 
-3\. Then get group members using by group id and then set it into the
+3.  Then get group members using by group id and then set it into the
 state so we can render it.
 
-4\. Now render it in PeoplePicker control, so here in People property,
+4.  Now render it in PeoplePicker control, so here in People property,
 we have to pass members.
  
 

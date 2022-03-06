@@ -54,7 +54,7 @@ Then follow the below steps,
 {{< image alt="Select Permssion.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Select Permssion.png" >}}
 
 
-2\. Then select the category in which you want to set permission and
+2.  Then select the category in which you want to set permission and
 select  the **Consent** button.
  
 {{< image alt="Permssions.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Permssions.png" >}}
@@ -135,7 +135,7 @@ endpoints. 
 ]
 ```
  
-2\. Move to the **IGraphApiDemoProps.ts** and update as below,
+2.  Move to the **IGraphApiDemoProps.ts** and update as below,
  
 ```javascript
 import { MSGraphClient } from "@microsoft/sp-http";
@@ -145,7 +145,7 @@ export interface IGraphApiDemoProps {
 }
 ```
  
-3\. Create a file IGraphApiDemoState.ts inside
+3.  Create a file IGraphApiDemoState.ts inside
 **src\\webparts\\graphApiDemo\\components** and create a state interface
 as below
  
@@ -157,7 +157,7 @@ export interface IGraphApiDemoState {
 }
 ```
  
-4\. Move to the**{WebpartName}Webpart.ts**
+4.  Move to the**{WebpartName}Webpart.ts**
  
 Import MSGraphClient module
 Create an OnInit() to initialize the Graph Configuration for the current
@@ -232,7 +232,7 @@ export default class GraphApiDemoWebPart extends BaseClientSideWebPart<IGraphApi
 }
 ```
  
-5\. Move to the **GraphApiDemo.tsx** and call API here and render the
+5.  Move to the **GraphApiDemo.tsx** and call API here and render the
 data.
  
 ```javascript

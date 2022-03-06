@@ -94,7 +94,7 @@ In the end, our structure will be looks like this,
 {{< image alt="Project Structure.png" src="images/blog/spfx-webpart-form-validation-using-react-formik/Project Structure.png" >}}
 
 
-2\. Create a state interface as below inside **IReactFormikState.ts.**
+2.  Create a state interface as below inside **IReactFormikState.ts.**
  
  
 
@@ -108,7 +108,7 @@ export interface IReactFormikState {
  
  
 
-3\. Create a method to create a task inside **SPService.ts.**
+3.  Create a method to create a task inside **SPService.ts.**
  
  
 
@@ -145,7 +145,7 @@ export class SPService {
  
  
 
-4\. Move to the **ReactFormikWebPart.ts**. In this, we will pass the
+4.  Move to the **ReactFormikWebPart.ts**. In this, we will pass the
 current SP context and read site URL from user.
  
  
@@ -231,7 +231,7 @@ export default class ReactFormikWebPart extends BaseClientSideWebPart<IReactForm
  
  
 
-5\. Move to the **ReactFormik.tsx** file to render form and validations
+5.  Move to the **ReactFormik.tsx** file to render form and validations
 **yup syntaxs:**
 
 -  For string: yup.string().required('Required')
@@ -440,7 +440,7 @@ export default class ReactFormik extends React.Component<IReactFormikProps, IRea
  
  
 
-6\. Move to the **ReactFormik.module.scss** file to add some relaetd
+6.  Move to the **ReactFormik.module.scss** file to add some relaetd
 CSS.
  
  

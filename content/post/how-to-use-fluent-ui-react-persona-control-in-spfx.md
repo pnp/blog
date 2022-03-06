@@ -154,7 +154,7 @@ export default class SpfxpersonaWebPart extends BaseClientSideWebPart<ISpfxperso
 ```
 
 
-3\. Create a common component means folder
+3.  Create a common component means folder
 called **RenderProfilePicture**
 inside *src/webparts/spfxpersona/Common/Components. *And inside this
 folder create a file **RenderProfilePicture.tsx** **.**

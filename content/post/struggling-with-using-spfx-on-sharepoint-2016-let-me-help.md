@@ -599,7 +599,7 @@ will likely find, as I did, that it works with a dev build, but not a
 production build.
 More details can be found here: [Duplicate of issue #985: deployed web
 part says "Manifest not found", after updating from 1.1.0 to
-1\...](https://github.com/SharePoint/sp-dev-docs/issues/1100)
+1. ..](https://github.com/SharePoint/sp-dev-docs/issues/1100)
 
 Note that you might want to remove the "\~" and "" from some of those
 versions to make sure the version matches exactly (and doesn't use an

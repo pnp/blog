@@ -51,10 +51,10 @@ For me it was so much easier to start with a canvas app. There is
 nothing there, just the plain white canvas. And that had two very
 important effects:
 
-1\. I was forced to build the app step by step and let it grow over
+1.  I was forced to build the app step by step and let it grow over
 time.
 
-2\. I learned how the connections, items and bits worked from the very
+2.  I learned how the connections, items and bits worked from the very
 beginning.
 
 Let's get into those two aspects a little bit deeper, shall we?

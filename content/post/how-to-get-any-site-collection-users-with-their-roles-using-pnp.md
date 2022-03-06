@@ -30,10 +30,10 @@ Now we will see all the steps which we required to achieve the solution:
 2.  Then we will connect to the O365 admin site and then we will connect
 to the site which the user has entered
 
-3\. Create a function to get user and their roles and store it in an
+3.  Create a function to get user and their roles and store it in an
 array
 
-4\. And we will export the array to CSV format
+4.  And we will export the array to CSV format
 So in the end, our script will be like this,
  
 ```powershell

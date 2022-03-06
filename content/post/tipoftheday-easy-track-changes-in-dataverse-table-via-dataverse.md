@@ -15,7 +15,7 @@ type: "regular"
 Note: I am using [PostMan](https://www.postman.com/downloads/) in my
 example. 
 
-1\. First  - use "GET" http request  to get details of dataverse table
+1.  First  - use "GET" http request  to get details of dataverse table
 "**Accounts**": 
  
 
@@ -43,7 +43,7 @@ environment API.*
 
 {{< image alt="ValerasNarbutas_0-1633418806793.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418806793.png" >}}
 
-3\. Use delta token in as GET request (image 3 )
+3.  Use delta token in as GET request (image 3 )
 
 {{< image alt="ValerasNarbutas_1-1633418877623.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_1-1633418877623.png" >}}
 
