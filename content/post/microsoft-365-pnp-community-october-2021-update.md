@@ -853,7 +853,8 @@ others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. Here to
 help.
 
-### Microsoft 365 Script Samples 
+### Microsoft 365 Script Samples
+
 {{< image alt="script-gallery.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/script-gallery.png" >}}
 
 \
@@ -1340,6 +1341,7 @@ Microsoft.
 **🤩 Thank you for your assistance and contributions on behalf of the
 community. You are truly making a difference!** If we missed someone,
 please let us know.
+
 -   Aaron Blair
 
 -   Abderahman Moujahid
@@ -2135,8 +2137,7 @@ Here are the Microsoft Internal PnP Core team members:
 -   Garry Trinder - [\@garrytrinder](https://twitter.com/garrytrinder)
 -   Hugo Bernier - [\@bernierh](https://twitter.com/bernierh)
 -   Koen Zomers - [\@koenzomers](https://twitter.com/koenzomers)
--   Mikael Svenson
-    -- [\@mikaelsvenson](https://twitter.com/mikaelsvenson
+-   Mikael Svenson -[\@mikaelsvenson](https://twitter.com/mikaelsvenson)
 -   Patrick
     Rodgers -- [\@mediocrebowler](https://twitter.com/mediocrebowler)
 -   Rabia Williams -
@@ -2155,7 +2156,11 @@ assets from <https://aka.ms/m365pnp>. Get involved!
 Got ideas or feedback on the topics to cover, additional partnerships,
 product feature capabilities? - let us know. Your input is important for
 us, so that we can support your journey in Microsoft 365.
+
+
+
 *"Sharing is caring" 🧡*
+
 ------------------------------------------------------------------------
 
 Microsoft 365 Community (PnP) -- October 22nd 2021

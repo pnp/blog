@@ -133,6 +133,7 @@ with npm.
 
 
 {{< image alt="npm install" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p8.png" >}}
+
 ## Create a new SPFx web part 
 
 To create a new SPFx app, follow the steps described at [Build your
