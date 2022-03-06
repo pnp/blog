@@ -468,12 +468,14 @@ from
 
 <https://aka.ms/m365pnp-recognition>. Thank you for being part of this
 journey with us.
+
 ## ⚙ Area-specific updates 
 
 These are different areas which are closely involved on the community
 work across the PnP initiative. Some are lead and coordinated by
 engineering organizations, some are coordinated by the community and
 MVPs.
+
 ### Microsoft Graph Toolkit 
 
 {{< image alt="graph-toolkit.jpg" src="images/blog/microsoft-365-pnp-community-november-2021-update/graph-toolkit.jpg" >}}

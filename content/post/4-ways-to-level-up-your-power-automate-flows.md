@@ -10,7 +10,7 @@ tags: []
 type: "regular"
 ---
 
-## Intro
+## Intro 
 
 A while back, I wrote about [How to use a custom connector in Power Automate](https://www.m365princess.com/blogs/2021-02-23-how-to-use-a-custom-connector-in-power-automate/) showing how easy you can create a connector to a cloud service that is not already in the very long list of connectors in Power Automate. I chose to create a connector for Spotify and connected a `Get_Current_Song` action with an IOT button and twitter. As a result, information about the song I would be listening to would be tweeted.
 
@@ -175,6 +175,7 @@ If we now also want to have the name of the artist, we get this with:
 `outputs('Get_Current_Song')['body']?['item']?['album]?['artists][0]?['name']`
 
 Wait, what? These are a lot of properties, so let's slow down for a bit to take a closer look:
+
 1.  we get the `Get_Current_Song` action with `outputs('Get_Current_Song')`
 2.  now we go ahead and with the `?` operator and select the first level property we are interested in: `item`
 3.  next up is taking a look inside of the `item` property: what do we want to get here? It's the `album` property. We do this as before with `?` and the name of the property in `[]`: `?['album']`

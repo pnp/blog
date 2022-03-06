@@ -1,5 +1,5 @@
 ---
-title: "What\'s up with Markdown?"
+title: "What's up with Markdown?"
 date: 2021-05-04T03:54:00-04:00
 author: "Bob German"
 githubname: BobGerman
@@ -64,7 +64,7 @@ If so, you already know how to make a table in Markdown!
   1       2      3
   ------- ------ -------
 
-\
+
 Markdown was designed to be intuitive. Where possible, it uses the
 formatting clues people type naturally. So you can type
 something `_in italics_` on the screen and it actually appears *in
@@ -100,7 +100,8 @@ some simple Markdown followed by the formatted result.
 
  
 
-##### Markdown:
+#### Markdown
+
     You can surround text with *single asterisks* or _single underscores_ to emphasize it a little bit;
     this usually formatted using italics.
 
@@ -108,7 +109,7 @@ some simple Markdown followed by the formatted result.
     this is usually formatted using bold text.
 
 
-##### Result:
+#### Result
 
 You can surround text with *single asterisks* or *single underscores* to
 emphasize it a little bit; this usually formatted using italics.
@@ -124,44 +125,52 @@ or - signs (for a level 2 heading) in the line below your heading text.
 
  
 
-##### Markdown:
+#### Markdown
+
     My Heading
     ---
 
-##### Result:
+#### Result
 
-## My Heading
+
+    ## My Heading
+
 
 You can also make headings with one or more hash marks in column 1. The
 number of hash marks controls the level of the heading.
 
-##### Markdown:
+
+#### Markdown
+
+
     # First level heading
     ## Second level heading
     ### Third level heading
     #### etc.
 
-##### Result: 
 
-# First level heading 
+#### Result 
 
-## Second level heading
 
-### Third level heading
+    # First level heading 
 
-#### etc. 
+    ## Second level heading
 
-### 3. Hyperlinks 
- 
+    ### Third level heading
 
-##### Markdown:
+    #### etc 
+
+    ### 3. Hyperlinks 
+
+
+##### Markdown
 
     To make a hyperlink, surround the text in square brackets
     immediately followed by the URL in parenthesis (with no space in
     between!) For example:
     [Microsoft](https://www.microsoft.com).
 
-##### Result:
+##### Result
 
 To make a hyperlink, surround the text in square brackets immediately
 followed by the URL in parenthesis (with no space in between!) For
@@ -175,29 +184,29 @@ brackets and the image URL is in parenthesis, with no spaces in between.
 
  
 
-##### Markdown:
+#### Markdown
 
     ![Parker the Porcupine](https://pnp.github.io/images/hero-parker-p-800.png)
 
-##### Result: 
+##### Result 
 
 {{< image alt="hero-parker-p-800.png" src="images/blog/what-s-up-with-markdown/hero-parker-p-800.png" >}}
 
 In case you were wondering, you can combine this with the hyperlink like
 this:
 
-##### Markdown:
+#### Markdown
 
     [![Parker the Porcupine](https://pnp.github.io/images/hero-parker-p-800.png)](http://pnp.github.io)
 
-##### Result
+#### Result
 
 {{< image alt="hero-parker-p-800.png" src="images/blog/what-s-up-with-markdown/hero-parker-p-800.png" >}}
 
 
 ### 5. Paragraphs and line breaks
 
-##### Markdown
+#### Markdown
 
 
     Markdown will
@@ -216,14 +225,14 @@ Two line breaks start a new paragraph.
 
 ### 6. Block quotes
 
-##### Markdown:
+#### Markdown
 
     Use a greater than sign in column 1 to make block quotes like this:
 
     > Line 1
     > Line 2
 
-##### Result:
+##### Result
 
 Use a greater than sign in column 1 to make block quotes like this:
 
@@ -231,7 +240,7 @@ Use a greater than sign in column 1 to make block quotes like this:
 
 ### 7. Bullet lists
 
-##### Markdown:
+#### Markdown
 
     Just put a asterisk or dash in front of a line that should be bulleted.
 
@@ -242,7 +251,7 @@ Use a greater than sign in column 1 to make block quotes like this:
     - Here is an item with a dash
         - Changing characters makes a new list.
 
-##### Result:
+##### Result
 
 Just put a asterisk or dash in front of a line that should be bulleted.
 
@@ -251,15 +260,18 @@ Just put a asterisk or dash in front of a line that should be bulleted.
     -   Indent to make sub-bullets
         -   Like this
 
-```{=html}
+{::ignore rule="MD046/code-block-style" relative_line="2"}
+
+```html
 <!-- -->
 ```
+
 -   Here is an item with a dash
     -   Changing characters makes a new list.
 
 ### 8. Numbered lists
 
-##### Markdown:
+#### Markdown
 
     1. Beginning a line with a number makes it a list item.
     1. You don't need to put a specific number; Markdown will renumber for you
@@ -269,7 +281,7 @@ Just put a asterisk or dash in front of a line that should be bulleted.
     1. Another item
 
 
-##### Result:
+#### Result
 
 1.  Beginning a line with a number makes it a list item.
 2.  You don't need to put a specific number; Markdown will renumber for
@@ -285,7 +297,7 @@ Many markdown implementations know how to format code by language. (This
 article was written in Markdown and made extensive use of this feature
 using "markdown" as the language!) For example to show some HTML:
 
-##### Markdown:
+#### Markdown
 
 
         ~~~html
@@ -293,7 +305,7 @@ using "markdown" as the language!) For example to show some HTML:
         ~~~
 
 
-##### Result:
+#### Result
 
 \<button type="button"\>Do not push this button\</button>
 
@@ -304,7 +316,7 @@ be part of this article. Here is a simple table. Separate columns with
 pipe characters, and don't worry about making things line up; Markdown
 will handle that part for you.
 
-##### Markdown:
+#### Markdown
 
 
     Column 1 | Column 2 | Column 3
@@ -312,12 +324,12 @@ will handle that part for you.
     Value 1a | Value 2a | Value 3a
     Value 1b | Value 2b | Value 3b
 
-##### Result:
+#### Result
 
-  Column 1   Column 2   Column 3
-  ---------- ---------- ----------
-  Value 1a   Value 2a   Value 3a
-  Value 1b   Value 2b   Value 3b
+    Column 1   Column 2   Column 3
+    ---------- ---------- ----------
+    Value 1a   Value 2a   Value 3a
+    Value 1b   Value 2b   Value 3b
 
 MVP Luise Freese also pointed out that there's a great [Markdown tables
 generator here](https://www.tablesgenerator.com/markdown_tables); looks

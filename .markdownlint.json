@@ -17,5 +17,11 @@
         "level": 1,
         "front_matter_title": "^\\s*title\\s*[:=]"
     },
-    "MD045": true
+    "MD045": true,
+    "MD036": false,
+    "MD029": {
+        "style": "one_or_ordered"
+    },
+    "MD046": false,
+    "MD024": false
 }

@@ -7,8 +7,6 @@ categories: ["Microsoft 365"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Microsoft 365 is a rich platform for building applications. Here are the
@@ -27,7 +25,6 @@ information about its users as well as the content they create is stored
 in Microsoft 365 and, bearing the necessary permissions, available for
 you to interact with in your applications.
 
-#
 
 Thinking about building apps on Microsoft 365, you can distinguish
 between two types of apps: standalone apps and apps that extend
@@ -65,6 +62,7 @@ are, they can focus on their work and interact with your app without
 having to switch the context.
 
 ### Extend conversations
+
 [Microsoft
 Teams](https://developer.microsoft.com/microsoft-teams?WT.mc_id=m365-16324-wmastyka)
 host conversations on Microsoft 365. You can bring your app as a part of

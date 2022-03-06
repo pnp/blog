@@ -8,8 +8,6 @@ images:
 - images/blog/what-is-a-dev-tenant-and-why-would-you-want-one/SampleData.png
 tags: []
 type: "regular"
-
-
 ---
 
 By visiting [Developer Program - Microsoft

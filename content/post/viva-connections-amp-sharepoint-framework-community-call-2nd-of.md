@@ -8,8 +8,6 @@ images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/recording-2nd-of-dec.png
 tags: []
 type: "regular"
-
-
 ---
 
 {{< image alt="recording-2nd-of-dec.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/recording-2nd-of-dec.png" >}}
@@ -20,7 +18,7 @@ SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
 
-**Call summary:**
+## Call summary
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
     call](https://aka.ms/m365-dev-call).  Featured topics for the
@@ -41,6 +39,7 @@ for **SharePoint** Online.
     -   **CLI for Microsoft 365** v4.2.0 GA.
 **Latest project updates include: ** (**Bold** indicates update from
 previous report 2 weeks ago) 
+
   --------------------------------------------------------------------------------------------- -------------------------------------------- ------------------------------------------------
   **PnP Project**                                                                               **Current version**                          **Release/Status**
   SharePoint Framework (SPFx)                                                                   **v1.13.1 GA**                               v1.14.0 January target
@@ -61,7 +60,8 @@ call.
 Awesome to see many of you seated in those plush brown seats and others
 joining off camera on the call today.  It's December!
 
-**Actions:**
+## Actions
+
 -   Opt in to PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
 -   **Register for Sharing is Caring Events:**
@@ -92,7 +92,7 @@ joining off camera on the call today.  It's December!
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Introduction to HtwoO React library -- Fluent UI experiences
     easily --** learn about the new open-source HtwoO React library
@@ -117,6 +117,7 @@ joining off camera on the call today.  It's December!
 
 
 **SPFx extension samples: (<https://aka.ms/spfx-extensions>) **
+
 -   **[Microsoft Clarity for Modern
     SharePoint](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-application-microsoft-clarity)** -
     [João Ferreira](http://twitter.com/joao12ferreira)
@@ -126,22 +127,24 @@ joining off camera on the call today.  It's December!
     [André Lage](http://twitter.com/aaclage) | @aaclage
 
 
-**SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
--   **[React
-    Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)** -
-    [Mohammed Amer](http://twitter.com/Mohammad3mer) | @Mohammad3mer
--   **[Follow
-    Document](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-follow-document)** -
-    [André Lage](http://twitter.com/aaclage) | @aaclage
+## SPFx web part samples
 
-**PnP SPFx ACEs**
+<https://aka.ms/spfx-webparts>
+
+
+-   **[React Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)** - [Mohammed Amer](http://twitter.com/Mohammad3mer) | @Mohammad3mer
+-   **[Follow Document](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-follow-document)** - [André Lage](http://twitter.com/aaclage) | @aaclage
+
+## PnP SPFx ACEs
+
 [**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
+
 -   **My Notifications* -**[João
     Mendes](http://twitter.com/joaojmendes) | @joaojmendes
 -   **Follow Document*** - [André
     Lage](http://twitter.com/aaclage) | @aaclage
 
-* to be posted soon.
+- to be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
 
 
@@ -171,40 +174,27 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 **Demos:**
 
--   **D1:**  Introduction to HtwoO React library -- Fluent UI
-    experiences easily -- [Julie Turner](http://twitter.com/jfj1997)
-    (Sympraxis Consulting) | @jfj1997 --
-    [18:31](https://youtu.be/NIjXZiEHx_8?t=1111)
+-   **D1:**  Introduction to HtwoO React library -- Fluent UI experiences easily -- [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 -- [18:31](https://youtu.be/NIjXZiEHx_8?t=1111)
 
--   **D2:** [Getting started with using PnP Search Web Parts v4 --
-    ][Franck
-    Cornu](http://twitter.com/FranckCornu)[ | @FranckCornu &
-    ][Mikael
-    Svenson](http://twitter.com/mikaelsvenson)[ (Microsoft) |
-    @mikaelsvenson --
-    [38:10](https://youtu.be/NIjXZiEHx_8?t=2290)]
+-   **D2:** [Getting started with using PnP Search Web Parts v4 -- ][Franck Cornu][http://twitter.com/FranckCornu]( | @FranckCornu & )[Mikael Svenson](http://twitter.com/mikaelsvenson)[ (Microsoft) | @mikaelsvenson -- [38:10](https://youtu.be/NIjXZiEHx_8?t=2290)]
 
 **Resources:**
 
-Additional resources around the covered topics and links from the
-slides.
+Additional resources around the covered topics and links from the slides.
 
 -   **D1:**  Tools - [Getting Started with
     HTWOO-REACT](https://lab.n8d.studio/htwoo/htwoo-react/) 
 
--   **D1:**  Icons - [hTWOo UI
-    Icons](https://github.com/n8design/htwoo/tree/main/packages/htwoo-icons) 
+-   **D1:**  Icons - [hTWOo UI Icons](https://github.com/n8design/htwoo/tree/main/packages/htwoo-icons) 
 
 -   **D1:**  Article - [ABOUT HTWOO UI](https://lab.n8d.studio/htwoo/) 
 
 -   **D1:**  Splash card -- [Welcome to your hTWOo Splash
     card](https://lab.n8d.studio/htwoo/htwoo-core/?p=pages-teams-splash-screen) 
 
--   **D2:**Repo - [PnP Modern Search
-    Solution](https://github.com/microsoft-search/pnp-modern-search)[ ]
+-   **D2:**Repo - [PnP Modern Search Solution][https://github.com/microsoft-search/pnp-modern-search](https://github.com/microsoft-search/pnp-modern-search)
 
--   **D2:**GitHub - [PnP Modern Search
-    v4](https://microsoft-search.github.io/pnp-modern-search/)[ ]
+-   **D2:** GitHub - [PnP Modern Search v4][https://microsoft-search.github.io/pnp-modern-search/](https://microsoft-search.github.io/pnp-modern-search/)
 
 -   **PnP Weekly -- Episode 145** (November 30th) with Bristol,
     England, United Kingdom-based Senior Program Manager on the
@@ -369,6 +359,6 @@ on-premises. Calls are used for the following objectives.
 
 *"Sharing is caring"*
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 3rd of December 2021*

@@ -8,8 +8,6 @@ images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-30th-of/recording-30th-dec.png
 tags: []
 type: "regular"
-
-
 ---
 
 {{< image alt="recording-30th-dec.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-30th-of/recording-30th-dec.png" >}}
@@ -70,6 +68,7 @@ into the New Year!  Hang on, see you
 soon. ]
 
 **Actions:**
+
 -   Opt into PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
 -   Holiday Break Challenge!!! Choose and update an SPFx sample v1.7,
@@ -409,6 +408,6 @@ on-premises. Calls are used for the following objectives.
 
 *"Sharing is caring"*
 
-------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 31st of December 2021*

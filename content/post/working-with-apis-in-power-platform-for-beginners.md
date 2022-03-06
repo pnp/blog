@@ -8,8 +8,6 @@ images:
 - images/blog/working-with-apis-in-power-platform-for-beginners/HTTPrequest.png
 tags: []
 type: "regular"
-
-
 ---
 
 I recently learned how to work with APIs and the different methods to
@@ -22,7 +20,7 @@ to be posted as a chat message in Microsoft Teams.
 
 Let's start with some theory first
 
-## Whats an API?
+## What's an API?
 
 API is an acronym for **Application Programming Interface** and they
 allow applications to communicate with each other and exchange data. An

@@ -24,9 +24,10 @@ extension for
 chrome](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en).
 After installation, you can check it in the developer tool. \
 So open developer tool(F12) \> SharePoint Tab \> PnP Js Console \> At
-here you can write pnp queries and using ctrl + D we can test it.
+here you can write PnP queries and using ctrl + D we can test it.
 
 Now we will implement the logic for break permission as below,
+
 1.  For eg. I want to set "Contribute" permission so we have to get a
     Role definition Id. you can set it as per your requirement. for more
     details to refer
@@ -37,11 +38,11 @@ Now we will implement the logic for break permission as below,
     permission we require two parameters UserId and Role definition ID.
     The meaning of this method is to give permission to a specific user.
 
-### Setting list item permission to one user:
+### Setting list item permission to one user
 
 {{< image alt="Single user.png" src="images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/Single user.png" >}}
 
-## Setting list item permission to multiple users:
+## Setting list item permission to multiple users
 
 {{< image alt="Multiple users.png" src="images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/Multiple users.png" >}}
 
@@ -71,7 +72,7 @@ level permission as below,
 ## Summary
 
 In this article, we have seen how to break and add permission to list
-items using PNP js.
+items using PnP JS.
 
 Hope this helps! If it is helpful to you then share it with others. Give
 your valuable feedback and suggestions in the comments section below.

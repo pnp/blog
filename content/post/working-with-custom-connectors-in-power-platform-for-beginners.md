@@ -5,11 +5,8 @@ author: "Michael Roth"
 githubname: MichaelRoth42
 categories: ["Power Automate"]
 images:
-
 tags: []
 type: "regular"
-
-
 ---
 
 ## Custom Connector vs HTTPS request - When to use what?
@@ -39,8 +36,8 @@ So, let's build one right now, shall we? 👏🏼
 
 ## Build a custom connector
 
-Since this is part two of my mini series \"working with APIs\" I'm
-using the same scenario and api as last time. I use an open API to get
+Since this is part two of my mini series "working with APIs" I'm
+using the same scenario and API as last time. I use an open API to get
 the number of the day from a website called MathTOOLs. I will post this
 number in a Microsoft Teams channel afterwards.
 
@@ -73,7 +70,7 @@ of the page you can see the necessary steps in a navigation:
 
 5. Test
 
-1. General
+6. General
 
 On the first page is only one mandatory field to fill out. We need to
 give a Host for our custom connector (but I strongly recommend to fill
@@ -88,7 +85,7 @@ will tell you.
 In this case, it's **api.math.tools**
 
 You can also upload a nice icon for you connector (which I love,
-obviously), just make sure that the file is .png or .jpg and smaller
+obviously), just make sure that the file is `.png` or `.jpg` and smaller
 than 1MB.
 
 You don't need to fill out the rest. We will look into that at a
@@ -102,11 +99,11 @@ both links work, the one at the top and the one in the lower right
 corner
 
 
-2. Security
+### 2. Security
 
 Since we use an open API we don't need to fill out anything here
 
-3. Definition
+### 3. Definition
 
 Now things are getting interesting, since we're defining the other
 parameters here. For this example, we just want to create an action that
@@ -151,11 +148,11 @@ connector\" in the upper right corner and keep your fingers crossed
 Usually you get a success notification :white_heavy_check_mark: above
 the upper navigation.
 
-4. Code (Preview)
+### 4. Code (Preview)
 
 Once again, no work for us here, so we skip this part
 
-5. Test
+### 5. Test
 
 There is one last task for us to finish our custom connector. We need to
 create a new connection. Select "+ New connection".
@@ -204,18 +201,11 @@ Now let's put the value in a variable, so the number of the day is
 always up to date. Select the action \"Initialize variable\" and put in
 the following information:
 
-**Name**: I called mine NrOfDay_Con (most importantly you need a name
-that YOU will recognize later on ;))
+**Name**: I called mine NrOfDay_Con (most importantly you need a name that YOU will recognize later on ;))
 
-**Type**: Choose string (since the number of the day is a sequence of
-characters)
+**Type**: Choose string (since the number of the day is a sequence of characters)
 
-**Value**: We need to define the value of the variable. Do you remember
-the JSON object this API call will give us back? If no, check out the
-first blog of the series: Working with APIs in Power Platform for
-beginners. Basically we want to get a certain value within this JSON
-object, which we get with a function:
-
+**Value**: We need to define the value of the variable. Do you remember the JSON object this API call will give us back? If no, check out the first blog of the series: Working with APIs in Power Platform for beginners. Basically we want to get a certain value within this JSON object, which we get with a function:
 \`body('Get_Number')\['contents'\]\['nod'\]\['numbers'\]\['number'\]\`
 
 Do you recognize the difference to the last function we used for the
