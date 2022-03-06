@@ -52,7 +52,7 @@ considerations.
 Thankfully, the rest of the Graph API abilities are
 available, but you have to go via a custom connector. You could call
 these directly via an HTTP request action, but by wrapping the Graph API
-in a connector, you are enabling other members of your organisation to
+in a connector, you are enabling other members of your organization to
 re-use the connector and security you establish.
 Microsoft also allows you to "play" with the Graph API as well, via
 the [Graph
@@ -112,6 +112,7 @@ Select Add Permissions to return you to the Configured permissions
 screen, then select Grant Admin consent button. This shortcuts and
 pre-approves the app.
 Leave this tab open and let's go and define our custom connector.
+
 ## Defining The Custom Connector 
 
 Jan Bakker has done an excellent job of walking you through
@@ -322,7 +323,7 @@ the rejection.
 
 {{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_26-1620296726933.png" >}}
 In the Yes path, call the Custom connector again to check if the user is
-already a part of your organisation as a guest user. As the parameter is
+already a part of your organization as a guest user. As the parameter is
 expecting a query, use the expression below
 
 
@@ -333,6 +334,7 @@ mail eq 'Email Parameter from the Form response'
 ```json
 mail eq 'Email Parameter from the Form response'
 ```
+
 Next, check the length of the returned object from the custom connector.
 This basically checks if the user already belongs to your environment.
 
@@ -342,6 +344,7 @@ This basically checks if the user already belongs to your environment.
 ``` wp-block-code
 length(outputs('GetUser')?['body/value'])
 ```
+
 If there is a value in the return, use the return to invite the user to
 the team.
 
@@ -353,7 +356,8 @@ The User id is returned by using the expression below
 ```json
 body('GetUser')?['value'][0]?['id']
 ```
-On the negative side, firstly invite the user to your organisation by
+
+On the negative side, firstly invite the user to your organization by
 using the final action of the custom connector.
 
 

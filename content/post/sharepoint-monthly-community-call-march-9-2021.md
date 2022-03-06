@@ -22,7 +22,7 @@ each month. You can download recurrent invite
 from <https://aka.ms/sp-call>.
 
 
-**Call Summary:**
+## Call summary
 
 If you're looking at this blog post, then you are at the new Microsoft
 365 PnP Community hub at Microsoft Tech Communities!  Please take a
@@ -56,7 +56,7 @@ Topics along with aligned content and SMEs are initially discovered
 through AI algorithms, then confirmed and curated by humans.   Topics
 draws on capabilities from across Microsoft and can be extended by
 you.  
-**Actions:**
+## Actions
 
 -   Register for Sharing is Caring Events
     -   First Time Contributor Session -- [March
@@ -110,7 +110,7 @@ SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found at
     [OneDrive](https://1drv.ms/p/s!AlposW7ozA_90jQWIX5-19SSp93e?e=UXweGM).
 
-**Resources:**
+## Resources
 
 Additional resources on covered topics and discussions.
 -   Documentation - [Set up Microsoft Viva

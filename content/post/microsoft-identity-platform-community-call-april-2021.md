@@ -15,7 +15,7 @@ type: "regular"
 **{{< image alt="EventHubBlockDiagram.png" src="images/blog/microsoft-identity-platform-community-call-april-2021/EventHubBlockDiagram.png" >}}
 
  
-**Call Summary:**
+## Call summary
 
 This month's in-depth topic:  Get Change notifications delivered via
 Azure Event Hubs.  Brief introduction to Graph change notification
@@ -61,7 +61,7 @@ app.    
 
  
 
-**Resources:**
+## Resources
 
  
 
@@ -88,7 +88,7 @@ app.    
 
 
 
-**Actions:**
+## Actions
 
 -   Submit your feedback and topic suggestions -
     <https://aka.ms/IDDevCommunityCallSurvey> 

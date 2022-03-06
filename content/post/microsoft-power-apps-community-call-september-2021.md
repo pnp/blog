@@ -19,7 +19,7 @@ type: "regular"
 
  
 
-**Call Summary:**
+## Call summary
 
 Topics covered in this month's community call include demos in **Visio,
 Power BI Tiles, and Reports in Power Apps!** (Combining capabilities in
@@ -52,7 +52,7 @@ demand. 
 
  
 
-**Demos:**
+## Demos
 
 -   **D1:  Visio, Power BI Tiles, and Reports in Power Apps! --** how to
     combine capabilities in Visio, Power BI tiles/Reports and in Power
@@ -86,7 +86,7 @@ demand. 
 
 ** **
 
-**Actions:**
+## Actions
 
 -   Attend the [BizApps LATAM Summit - Nov
     17-19^th^](https://aka.ms/BizappsLATAMSummit) |

@@ -51,7 +51,7 @@ takes place in chat throughout the call.
 -   [Multi-tenant architecture for SaaS
     apps](https://developer.microsoft.com/en-us/microsoft-365/blogs/multi-tenant-architechture-for-saas-apps/)
 
-**Actions:**
+## Actions
 
 -   Register for Microsoft Ignite (Digital event) - November 2-4, 2021-
     <https://ignite.microsoft.com>
@@ -134,7 +134,7 @@ Thank you for your work. Samples are often showcased in Demos.
     [\@vesajuvonen](https://twitter.com/vesajuvonen%20) --
     [16:55](https://youtu.be/GF0hfnYCy8M?t=1874)
 
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

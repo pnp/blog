@@ -18,7 +18,7 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+## Call summary
 
 Updated Community call schedule starting in September.  Join for first
 weekly [Microsoft 365 platform community
@@ -55,7 +55,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 Thank you everybody for being part of this call, the community, a tweet,
 a blog post, and the solution to your customer's needs.  
 
-**Actions:**
+## Actions
 
 -   Opt in to PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
@@ -123,7 +123,7 @@ a blog post, and the solution to your customer's needs.  
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
-**Agenda items:**
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -153,7 +153,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **Demo:**  Sneak Peek - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
     \@mediocrebowler -- [53:51](https://youtu.be/RvDsmZJ95xM?t=3231)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -283,7 +283,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)

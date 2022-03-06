@@ -15,7 +15,7 @@ type: "regular"
 {{< image alt="SEssionTHumb.png" src="images/blog/power-apps-community-call-june-2021/SEssionTHumb.png" >}}
  
 
-**Call Summary:**
+## Call summary
 
 Topics covered in this month's community call include 3 demos - COE in
 Dataverse for Teams in the Power Platform, Planner Gantt chart in Power
@@ -34,7 +34,7 @@ or viewing it on demand. 
  
 
 
-**Demos:**
+## Demos
 
 -   **COE in Dataverse for Teams in the Power Platform -** tips on
     configuring and using the Center of Excellence (CoE)
@@ -75,7 +75,7 @@ or viewing it on demand. 
     4PM -*<https://aka.ms/HoustonPPUG> 
 
 
-**Actions:**
+## Actions
 
 -   [View and Vote on Demo Extravaganza
     entries](https://powerusers.microsoft.com/t5/Demo-Extravaganza-2021/con-p/Demo_Extravaganza_2021/tab/entries) 

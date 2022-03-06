@@ -38,7 +38,7 @@ Building Apps with Microsoft Graph, on the 14th of April. The host of
 this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
 | \@vesajuvonen.  Q&A takes place in chat throughout the call
 
-**Actions:**
+## Actions
 -   Register for both:
     -   Register to watch the Microsoft Graph livestream with your
         community at:  <https://aka.ms/pnpwatchparty>
@@ -155,7 +155,7 @@ Thank you for your work. Samples are often showcased in Demos.
     external systems -- Kathy (Qingyu) Xu (Pfizer) and [Paolo
     Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia -
     [43:43](https://youtu.be/BDkZqbL2YAk?t=2623)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

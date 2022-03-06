@@ -159,7 +159,7 @@ Thank you for your work. Samples are often showcased in Demos.
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
     [sebastienlevert](https://github.com/sebastienlevert) --
     [40:24](https://youtu.be/YG16snk1fJU?t=2424)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

@@ -131,7 +131,7 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **D3:**  Latest on SharePoint Site Scripts -- Intro and Roadmap --
     [Cathy Dew](http://twitter.com/catpaint1) (Microsoft) |
     \@catpaint1 -- [31:40](https://youtu.be/pK1nbjLP0CI?t=1900)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

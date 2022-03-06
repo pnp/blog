@@ -20,7 +20,7 @@ Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+## Call summary
 Tune in each Tuesday for the [Microsoft 365 platform community
 call](https://aka.ms/m365-dev-call).  Featured topics for the November
 9th call - Introduction to Embedded Search Box (Shubham Gatkal) and
@@ -58,7 +58,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 Great to see all of you today.  Looking forward to seeing some of you in
 Düsseldorf or in Las Vegas later this year.   
 
-**Actions:**
+## Actions
 -   Opt in to PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
 -   **Register for Sharing is Caring Events:**
@@ -91,7 +91,7 @@ Düsseldorf or in Las Vegas later this year.   
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Microsoft 365 Tenant Service Health - Viva Connections Adaptive
     Card Extension --** building an ACE to keep Tenant Admins up to date
@@ -163,7 +163,7 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 \* to be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
   
-**Agenda items:**
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -187,7 +187,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
     \@DavidWarnerII -- [16:58](https://youtu.be/UbEI23buBtE?t=1018)
 
-**Demos:**
+## Demos
 
 -   **D1:**  Microsoft 365 Tenant Service Health - Viva Connections
     Adaptive Card Extension -- [Anoop
@@ -201,7 +201,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **D3:**  SPFx Design Patterns - Custom Properties -- [Hugo
     Bernier](http://twitter.com/bernierh) (Microsoft) |
     \@bernierh [--][ [32:47](https://youtu.be/UbEI23buBtE?t=1967)]
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -353,7 +353,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)

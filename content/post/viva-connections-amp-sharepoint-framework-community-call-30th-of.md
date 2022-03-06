@@ -19,7 +19,7 @@ SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
 
-**Call summary:**
+## Call summary
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
     call](https://aka.ms/m365-dev-call).  Next call on the 4th of
@@ -67,7 +67,7 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 into the New Year!  Hang on, see you
 soon. ]
 
-**Actions:**
+## Actions
 
 -   Opt into PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
@@ -106,7 +106,7 @@ soon. ]
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Viva Connections -- Adaptive Card Extension for Microsoft Planner
     Tasks --** this ACE shows all Microsoft Planner tasks (consolidated
@@ -176,7 +176,7 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 \* to be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
   
-**Agenda items:**
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -200,7 +200,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
     \@DavidWarnerII -- [13:14](https://youtu.be/--4erl4oE7Q?t=794)
 
-**Demos:**
+## Demos
 
 -   **Demo 1**:  Viva Connections -- Adaptive Card Extension for
     Microsoft Planner Tasks -- [Ejaz
@@ -216,7 +216,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Framework -- [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys)
     |
     \@PaoloPia [--][ [44:30](https://youtu.be/--4erl4oE7Q?t=2670)][ ]
-**Resources:**
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -363,7 +364,7 @@ slides.
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
 
-**Other mentioned topics:**
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)

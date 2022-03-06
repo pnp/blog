@@ -75,7 +75,7 @@ call.   
 
  
 
-**Actions:**
+## Actions
 
 -   Sign up for the -- [Graph Connector Private
     Preview](https://aka.ms/graphconnectorpreview)
@@ -150,7 +150,7 @@ Thank you for your work. Samples are often showcased in Demos.
     Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm &
     [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [21:07](https://youtu.be/dpMr8Y2buDw?t=1267)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

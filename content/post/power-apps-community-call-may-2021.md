@@ -15,7 +15,7 @@ type: "regular"
 {{< image alt="powerautomate-call-recording-19th-may.png" src="images/blog/power-apps-community-call-may-2021/powerautomate-call-recording-19th-may.png" >}}
 
 
-**Call Summary:**
+## Call summary
 
 Topics covered in this month's community call include - Building
 multilingual Power Apps, Using Environment Variables in Canvas Apps,
@@ -32,7 +32,7 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
 (Microsoft), and Reza Dorrani (Catapult).  This call was recorded on May
 19, 2021.  Thank for attending the call or viewing it on demand.
 
-**Demos:**
+## Demos
 
 -   **Building multilingual Power Apps -** a high-level architecture for
     multilingual forms supported by one or more SharePoint lists
@@ -71,7 +71,7 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
     [aka.ms/PACATAdoption](https://aka.ms/PACATAdoption)  
 
 
-**Actions:**
+## Actions
 
 -   Enter now for Demo Extravaganza 2021 |
     <https://aka.ms/PowerAppsDemoExtravaganza>

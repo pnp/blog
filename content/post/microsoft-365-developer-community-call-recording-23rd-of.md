@@ -186,7 +186,7 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     -- [Hugo Bernier](http://twitter.com/bernierh) | \@bernierh & [Bob
     German](http://twitter.com/Bob1German) |
     \@Bob1German -- [25:09](https://youtu.be/v_wYcTzHMs8?t=1509)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

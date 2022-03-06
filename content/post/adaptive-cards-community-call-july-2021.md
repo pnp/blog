@@ -33,7 +33,7 @@ throughout the call.  This call was hosted by Matt Hidinger (Microsoft)
 \@TimCadenbach.  Recorded on July 8, 2021.
 
 
-**Demos:**
+## Demos
 
 -   **A lap around MadeWithCards.io community site** - an assemblage of
     guidance, cards, tools, news and updates by and for Adaptive Cards

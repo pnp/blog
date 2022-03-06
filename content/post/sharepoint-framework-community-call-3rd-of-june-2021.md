@@ -18,7 +18,7 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+## Call summary
 
 [Register](https://aka.ms/viva/connections/preview/register) for the
 Private Preview of Viva Connections (including access to SPFx v.1.13)
@@ -53,7 +53,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 Thanks everybody for being part of the Community and helping making
 things happen. You are absolutely awesome!
 
-**Actions:**
+## Actions
 
 -   Join on the Viva Connections private preview! |
     [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
@@ -122,7 +122,7 @@ a custom card using the Dashboard web part and SPFx.
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
-**Agenda items:**
+## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -143,7 +143,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [11:49](https://youtu.be/65hRvHN5Iqk?t=709)
 
-**Demos:**
+## Demos
 
 -   **Demo:**  Get started developing mobile experiences for Microsoft
     Viva Connections, a preview of SharePoint Framework 1.13 - [Luca
@@ -160,7 +160,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
         [37:48](https://youtu.be/65hRvHN5Iqk?t=2268)]
     -   [Demo:  Developing a Custom Card using SharePoint Framework v --
         [46:00](https://youtu.be/65hRvHN5Iqk?t=2760)]
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -240,7 +240,7 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)

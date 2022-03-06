@@ -20,7 +20,7 @@ Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+## Call summary
 
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
 community call](https://aka.ms/m365-dev-call).  Featured topics for the
@@ -60,7 +60,7 @@ call.
 {{< image alt="211021-together-mode.gif" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/211021-together-mode.gif" >}}
 Full house today.  Clearly we've outgrow this venue.   Great to see
 everybody.  See you again soon.   
-**Actions:**
+## Actions
 -   Vote: [Next SPFx Design Patterns Topic -- November 4,
     2021](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR8ke1rGfE-VNsUHrnMWCrL5UN1dHRUYxV01CUkJESktKMENBQldURVpRWiQlQCN0PWcu&web=1&wdLOR=cC640D9E0-C403-405A-9EF1-D9F43B6ADF90)
 -   Register today for Hacktoberfest 2021
@@ -103,7 +103,7 @@ everybody.  See you again soon.   
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **At a Glance Web Part and Viva Adaptive Card Extension --** this
     sample shows a web part and an ACE, that displays the first few
@@ -162,7 +162,7 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
     [Zach Roberts](http://twitter.com/ZachSPODev) | \@ZachSPODev
 Thank you for your great work.  Samples are often showcased in Demos. 
   
-**Agenda items:**
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -186,7 +186,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
     \@DavidWarnerII -- [16:17 ](https://youtu.be/9vvasiylRYI?t=977)
 
-**Demos:**
+## Demos
 
 -   **D1:**  At a Glance Web Part and Viva Adaptive Card Extension --
     [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) |
@@ -202,7 +202,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](http://twitter.com/bernierh) (Microsoft) |
     \@bernierh [--][ [40:50](https://youtu.be/9vvasiylRYI?t=2450)]
 
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -337,7 +337,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)

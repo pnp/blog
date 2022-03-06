@@ -142,7 +142,7 @@ Thank you for your work. Samples are often showcased in Demos.
     and Azure Key Vault - [Markus
     Moeller](http://twitter.com/Moeller2_0) (Avanade) | \@Moeller2_0 -
     [33:04](https://youtu.be/rOHSrG1n43Y?t=1984) 
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

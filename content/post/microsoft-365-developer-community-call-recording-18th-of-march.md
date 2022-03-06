@@ -153,7 +153,7 @@ Thank you for your work. Samples are often showcased in Demos.
     [Thomy Gölles](http://twitter.com/thomyg) (Solvion) | \@thomyg
 
     \- [43:42](https://youtu.be/kPGpuGPtKHM?t=2622)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

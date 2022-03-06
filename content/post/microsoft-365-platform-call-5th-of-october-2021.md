@@ -135,7 +135,7 @@ Thank you for your work. Samples are often showcased in Demos.
     your tenant -- [Tejas Mehta](http://twitter.com/tpmehta) (Microsoft)
     | \@tpmehta -- [25:05](https://youtu.be/4LFP1Zyerq4?t=1505)
 
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

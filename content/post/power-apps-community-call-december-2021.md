@@ -13,7 +13,7 @@ type: "regular"
 ---
 
 {{< image alt="PowerApps Thumb December 2021.png" src="images/blog/power-apps-community-call-december-2021/PowerApps Thumb DEcember 2021.png" >}}
-**Call Summary:**
+## Call summary
 
 Topics covered in this month's community call includes 2 demos:
  
@@ -53,7 +53,7 @@ demand. 
     Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
     -- [54:55](https://youtu.be/KUCW242CV18?t=3295)
 
-**Demos:**
+## Demos
 
 -   Demo 1:  **Building Xbox games with Power Apps --** presenter steps
     through several apps and explains which Xbox sticks and buttons are
@@ -84,7 +84,7 @@ demand. 
     Refresh](https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-november-refresh/) 
 
 
-**Actions:**
+## Actions
 
 -   Power Platform User Groups - Find a user group in your area. 
     -   [Power Platform user groups](https://powerusers.microsoft.com/)

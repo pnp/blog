@@ -51,7 +51,7 @@ call.
 
  
 
-**Actions:**
+## Actions
 
 -   Opt in to PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
@@ -137,7 +137,7 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  Getting started with Microsoft Teams UI Library -- Will
     Shown (Microsoft) -- [42:11](https://youtu.be/OPiBhBf-9PU?t=2531)
 
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

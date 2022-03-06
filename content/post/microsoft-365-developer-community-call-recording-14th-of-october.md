@@ -52,7 +52,7 @@ Platform Samples this week.  The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
-**Actions:**
+## Actions
 
 -   Register today for Hacktoberfest 2021
     -- [https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
@@ -206,7 +206,7 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     [Rabia Williams](http://twitter.com/williamsrabia) |
     \@williamsrabia -- [42:50](https://youtu.be/f4NrenOuADg?t=2570)
 
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

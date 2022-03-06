@@ -46,7 +46,7 @@ Three Power Platform samples were delivered, as well.  The host of this
 call was [Julie Turner](http://twitter.com/jfj1997) (Sympraxis
 Consulting) | \@jfj1997.   Q&A takes place in chat throughout the call.
 
-**Actions:**
+## Actions
 
 -   Opt in to PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
@@ -164,7 +164,7 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  List Formatting Magic -- [Chris
     Kent](http://twitter.com/theChrisKent) (DMI) | \@theChrisKent -
     [40:13](https://youtu.be/0pWijfLYjEY?t=2413)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

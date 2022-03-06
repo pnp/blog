@@ -19,7 +19,7 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+## Call summary
 
 Welcome Luise Freese | \@LuiseFreese to the **Sharing is Caring** team
 and Joel Rodrigues | \@JoelFMRodrigues who is a new maintainer on the
@@ -43,7 +43,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 {{< image alt="together-pnp-25th-march-bi-weekly.gif" src="images/blog/sharepoint-framework-community-call-recording-25th-of-march-2021/together-pnp-25th-march-bi-weekly.gif" >}}
  
 
-**Actions:**
+## Actions
 
 -   RSVP to attend - 2-hour livestream -- Building Apps for with
     Microsoft Graph -- 2 sessions -- 2:00pm AEST and 8:30am PDT |
@@ -79,7 +79,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 1.  **Building extension to save documents as PDF in tenant document
     libraries - u**pdated list extension first created 2 years ago for
@@ -143,7 +143,7 @@ Communications and Quality improvements.     
 As is the case this week, samples are often showcased in Demos.  Thank
 you for your great work.
 
-**Agenda items:**
+## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -167,7 +167,7 @@ you for your great work.
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [15:24](https://youtu.be/K_aiG8RlBDU?t=924)
 
-**Demos:**
+## Demos
 
 -   **Building extension to save documents as PDF in tenant document
     libraries** -- [Mikael Svenson](http://twitter.com/mikaelsvenson)
@@ -185,7 +185,7 @@ you for your great work.
     | \@PatMill_MSFT & [Luca
     Bandinelli](http://twitter.com/BandinelliLuca) (Microsoft) |
     \@BandinelliLuca**-** [42:48](https://youtu.be/K_aiG8RlBDU?t=2568)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

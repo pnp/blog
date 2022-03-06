@@ -47,7 +47,7 @@ There were 3 new script samples this week.  The host of this call was
 [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
-**Actions:**
+## Actions
 
 -   Create a Teams Sample - [Microsoft Teams Samples Wish
     list](https://github.com/pnp/teams-dev-samples/issues) -- 10
@@ -185,7 +185,7 @@ Request a Demo spot on the call -- <https://aka.ms/m365pnp/request/demo>
     (Infoworker) | \@ahmadn82 -
     [43:33](https://youtu.be/PpjPCt00W9A?t=2613) 
 
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

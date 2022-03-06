@@ -16,7 +16,7 @@ type: "regular"
 
 
 
-**Call Summary:**
+## Call summary
 
 This month's in-depth topic:  **From zero to hero with Microsoft Graph
 API**.   This session opens with an overview of Microsoft Graph services
@@ -31,7 +31,7 @@ by Microsoft Program Managers Christer Ljung and Rohit Gulati and was
 recorded on July 15, 2021.  Live and in-chat Q&A throughout call. 
 
 
-**Resources:**
+## Resources
 
 -   Documentation -- [Microsoft Graph](https://graph.microsoft.com/) |
     <https://graph.microsoft.com/>
@@ -42,7 +42,7 @@ recorded on July 15, 2021.  Live and in-chat Q&A throughout call. 
     resources.
 
 
-**Actions:**
+## Actions
 
 -   Let us know how we're doing and suggest topics for future calls,
     please complete this

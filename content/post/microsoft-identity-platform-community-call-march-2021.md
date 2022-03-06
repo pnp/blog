@@ -11,7 +11,7 @@ type: "regular"
 
 ---
 
-**Call Summary:**
+## Call summary
 
 In this session - Microsoft Identity platform for developers, Microsoft
 Authentication Libraries (JS, .NET, Android, iOS, Python, Java, Angular,
@@ -48,7 +48,7 @@ include: 
 
  
 
-**Resources:**
+## Resources
 
 -   [Deck](https://www.slideshare.net/OfficeDev/microsoft-identity-platform-dos-and-dont)
 -   Documentation - Migrate applications to the Microsoft Authentication
@@ -71,7 +71,7 @@ include: 
         [https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options#creat\...](https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options#create-an-azure-support-request)
 
 
-**Actions:**
+## Actions
 
 -   Microsoft Office 365 Developer Survey -
     <https://aka.ms/developersuccess> 

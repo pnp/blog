@@ -162,7 +162,7 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo: ** Getting started on using Time Clock Microsoft Graph APIs
     to clock in and out of a shift -- Aarthi Kumar
     (Microsoft) [-][ [41:20](https://youtu.be/qOgH82b5Jw4?t=2480)][[ ]](https://youtu.be/qOgH82b5Jw4?t=2480)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

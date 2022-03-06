@@ -46,7 +46,7 @@ The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
-**Actions:**
+## Actions
 
 -   Opt into PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
@@ -194,7 +194,7 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     \@thechriskent  
 
      -- [47:48](https://youtu.be/-ovC3cO7xlA?t=2868)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

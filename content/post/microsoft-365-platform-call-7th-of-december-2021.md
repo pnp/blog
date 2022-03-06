@@ -134,7 +134,7 @@ Thank you for your work. Samples are often showcased in Demos.
     \@vesajuvonen -- [29:11](https://youtu.be/JkgFrbtwdJU?t=1751)
 -   General Q&A -- Microsoft 365 Platform Team --
     [47:56](https://youtu.be/JkgFrbtwdJU?t=2876)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

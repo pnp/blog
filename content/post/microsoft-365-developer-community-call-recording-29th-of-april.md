@@ -159,7 +159,7 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  Using field lookups with list formatting -- [Chris
     Kent](http://twitter.com/theChrisKent) (DMI) | \@theChrisKent [-
     [42:48](https://youtu.be/1NE_uMlpD08?t=2568)][ ]
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

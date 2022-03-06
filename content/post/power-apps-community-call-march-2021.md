@@ -14,7 +14,7 @@ type: "regular"
 
 {{< image alt="TitleSlide.png" src="images/blog/power-apps-community-call-march-2021/TitleSlide.png" >}}
 
-**Call Summary:**
+## Call summary
 
 Topics covered in this month's community include Creating Responsive
 Dataverse for Teams Power Apps (*Use responsive containers for gallery
@@ -29,7 +29,7 @@ by Todd Baginski (Canviz).  Demo presenters include Reza Dorrani
 March 17, 2021.  Thank for attending the call or viewing it on demand. 
 
 
-**Demos:**
+## Demos
 
 -   **Creating a responsive Power App running Dataverse in Teams** --
     Minor configuration tips elevates OOB responsiveness to next level. 
@@ -67,7 +67,7 @@ March 17, 2021.  Thank for attending the call or viewing it on demand. 
 -   Introducing Microsoft Power Fx - <https://aka.ms/PowerAppsPowerFX> 
 
 
-**Actions:**
+## Actions
 
 -   Entries Start May for Demo Extravaganza 2021
     - <https://aka.ms/PowerAppsDemoExtravaganza>

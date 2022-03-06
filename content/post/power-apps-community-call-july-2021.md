@@ -14,7 +14,7 @@ type: "regular"
 
 {{< image alt="900x506-JulyPAThumbslide.png" src="images/blog/power-apps-community-call-july-2021/900x506-JulyPAThumbslide.png" >}}
 
-**Call Summary:**
+## Call summary
 
 Topics covered in this month's community call includes an inside look at
 the top 5 community selected apps (from over 20 entries) from Demo
@@ -39,7 +39,7 @@ or viewing it on demand. 
  
 
 
-**Demos:**
+## Demos
 
 -   **Course Maker Solution** -- course management - Canvas + Model
     driven app that organizes 300 lessons (42 hours of Rory!) on his
@@ -93,7 +93,7 @@ or viewing it on demand. 
     Communities](https://powerusers.microsoft.com/t5/News-Announcements/Power-Virtual-Agents-Community-Challenge-for-all-Communities/m-p/1169763#M93) 
 
 
-**Actions:**
+## Actions
 
 -   Join us for our next call: August 18, 2021 at 08:00am PDT |
     <https://aka.ms/powerappscommunitycall>

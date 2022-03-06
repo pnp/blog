@@ -159,7 +159,7 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  ACS -- Teams InterOp with Call Routing -- Sathya
     Raveendran
     (Microsoft) [-][ [34:56](https://youtu.be/ebOtM8LpAK4?t=2096)][ ]
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

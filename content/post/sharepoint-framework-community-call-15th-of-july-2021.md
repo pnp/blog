@@ -18,7 +18,7 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+## Call summary
 
 Summer and Fall community call schedule updates reviewed.  Register
 today for July/August events on
@@ -51,7 +51,7 @@ the call.
 It's great to see spirits are high in the month of July!   Nice to see
 everyone.   See you again soon!  
 
-**Actions:**
+## Actions
 
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [August
@@ -82,7 +82,7 @@ everyone.   See you again soon!  
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Building a COVID attestation solution for Microsoft Teams and Viva
     Connections with SPFx** -- a personal app that collects information
@@ -140,7 +140,7 @@ everyone.   See you again soon!  
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
-**Agenda items:**
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -161,7 +161,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [15:07](https://youtu.be/RwgpMcqLgrs?t=907)
 
-**Demos:**
+## Demos
 
 -   **Demo:**  Building a COVID attestation solution for Microsoft Teams
     and Viva Connections with SPFx -- [Julie
@@ -177,7 +177,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
     [
     --][ [45:02](https://youtu.be/RwgpMcqLgrs?t=2702)]
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -263,7 +263,7 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)

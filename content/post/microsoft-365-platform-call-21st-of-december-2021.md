@@ -61,7 +61,7 @@ call.   
 
  
 
-**Actions:**
+## Actions
 -   Submit a [Sample
     request](https://github.com/pnp/sp-dev-fx-webparts/issues/new?assignees=&labels=type%3Asample-request%2CHelp+wanted+%F0%9F%AA%A7&template=samplerequest.yml)
     to create a web part that replicates the on prem capability - Check

@@ -21,7 +21,7 @@ for **SharePoint** Online.
 
  
 
-**Call summary:**
+## Call summary
 
 Preview the new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
@@ -54,7 +54,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 Thanks everybody for being part of the Community and helping making
 things happen. You are absolutely awesome!
 
-**Actions:**
+## Actions
 
 -   Reserve date - SharePoint Monthly community call -- 11th of May 8
     AM PDT | <https://aka.ms/sp-call>
@@ -85,7 +85,7 @@ things happen. You are absolutely awesome!
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 1.  **Adding support to add video with a text to modern pages with this
     video banner web part** -- from the Properties Pane, select a video,
@@ -147,7 +147,7 @@ things happen. You are absolutely awesome!
     Collins](http://twitter.com/Samc148) | \@Samc148
 Thank you for your great work.  Samples are often showcased in Demos. 
   
-**Agenda items:**
+## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -168,7 +168,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [12:18](https://youtu.be/yqz1HF72Guw?t=738)
 
-**Demos:**
+## Demos
 
 -   **Demo:**  Adding support to add video with a text to modern pages
     with this video banner web part -- [Mohamed
@@ -184,7 +184,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     detailed information for end users -- Alison Collins & [Sam
     Collins](http://twitter.com/samc148) (Coupled Technology) |
     \@samc148 | Deck -- [29:39](https://youtu.be/yqz1HF72Guw?t=1779)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -279,7 +279,7 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)

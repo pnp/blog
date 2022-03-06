@@ -44,7 +44,7 @@ this call was [David Warner II](http://twitter.com/DavidWarnerII)
 (Catapult Systems) \@DavidWarnerII.   Q&A takes place in chat throughout
 the call.
 
-**Actions:**
+## Actions
 
 -   Create a Teams Sample - [Microsoft Teams Samples Wish
     list](https://github.com/pnp/teams-dev-samples/issues) -- 10
@@ -184,7 +184,7 @@ Thank you for your work. Samples are often showcased in Demos.
     [troystaylor](https://github.com/troystaylor) -
     [45:46](https://youtu.be/qsr-OspeYug?t=2746)]
 
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

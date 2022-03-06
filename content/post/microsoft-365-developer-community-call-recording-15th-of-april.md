@@ -40,7 +40,7 @@ components (Preview).   The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
  Q&A takes place in chat throughout the call.
 
-**Actions:**
+## Actions
 -   [Microsoft 365 Developer Community
     Survey](https://aka.ms/m365pnp/survey) --
     <https://aka.ms/m365pnp/survey>
@@ -142,7 +142,7 @@ Thank you for your work. Samples are often showcased in Demos.
     \@theChrisKent - [41:29](https://youtu.be/HarfeUb-3TY?t=2489)
 
      
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

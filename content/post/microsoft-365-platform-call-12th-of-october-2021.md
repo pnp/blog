@@ -157,7 +157,7 @@ Thank you for your work. Samples are often showcased in Demos.
     [30:55](https://youtu.be/UONwL2HmpPc?t=1855)
 -   General Q&A - Microsoft 365 Platform Team --
     [43:56](https://youtu.be/UONwL2HmpPc?t=2636)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

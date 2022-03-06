@@ -20,7 +20,7 @@ community recognition for Developers, IT Pros and Makers.  This monthly
 community call happens on the second Tuesday of each month. You can
 download recurrent invite from <https://aka.ms/sp-call>.
 
-**Call Summary:**
+## Call summary
 
 Summer break and community call schedule updates reviewed. You are
 invited to join the [Viva Connections private
@@ -62,7 +62,7 @@ modern site scripts and site designs.   9 OOB Communications and Teams
 sites templates to be released in July-August.
  
 
-**Actions:**
+## Actions
 -   Join on the Viva Connections private preview! |
     [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
 -   Register for Sharing is Caring Events:
@@ -123,7 +123,7 @@ SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are attached to this
     post.
 
-**Resources:**
+## Resources
 
 Additional resources on covered topics and discussions.
 -   Support - [Apply and customize SharePoint site

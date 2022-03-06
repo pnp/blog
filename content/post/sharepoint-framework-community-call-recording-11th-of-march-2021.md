@@ -18,7 +18,7 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+## Call summary
 
 New [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) preview released.  Work
@@ -38,7 +38,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 \@mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="PictureTime-OutsideInTheGreenAmphitheater.png" src="images/blog/sharepoint-framework-community-call-recording-11th-of-march-2021/PictureTime-OutsideInTheGreenAmphitheater.png" >}}
 
-**Actions:**
+## Actions
 
 -   Register for [Sharing is Caring
     Events](https://aka.ms/sharing-is-caring)
@@ -63,7 +63,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
     -- <https://aka.ms/spdev-spfx-call>
 
 
-**Demos:**
+## Demos
 
 1.  **DataTable web part for rendering data from lists with advance
     features** -- this web part provides an easy way to render an
@@ -123,7 +123,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 As is the case this week, samples are often showcased in Demos.  Thank
 you for your great work.
 
-**Agenda items:**
+## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -163,7 +163,7 @@ you for your great work.
     Thorild](http://twitter.com/taxonomythorild) (Sogeti) |
     \@taxonomythorild -- [35:50](https://youtu.be/o_xcui0RZGM?t=2150)
 
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

@@ -54,7 +54,7 @@ integration including Microsoft chat integration.       
 
 ##   {#toc-hId--469670890}
 
-**Actions:**
+## Actions
 
 -   Interested in Presenting during this call?   Contact
     <Brian.Jackett@microsoft.com> or <Jeremy.Thake@microsoft.com>
@@ -66,7 +66,7 @@ integration including Microsoft chat integration.       
 
 ##   {#toc-hId-2017841943}
 
-**Resources:**
+## Resources
 
 From demos:
 

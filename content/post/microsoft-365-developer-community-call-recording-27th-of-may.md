@@ -171,7 +171,7 @@ Thank you for your work. Samples are often showcased in Demos.
     solution -- [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
     \@theChrisKent
     -[ [44:55](https://youtu.be/y0diQu23g88?t=2695)][ ]
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

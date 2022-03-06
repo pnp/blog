@@ -47,7 +47,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 -   [Viva Connections public preview is now
     available!](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-public-preview-is-now-available/ba-p/2768541)
 
-**Actions:**
+## Actions
 
 -   Register for Microsoft Ignite (Digital event) - November 2-4,
     2021- [https://ignite.microsoft.com](https://ignite.microsoft.com/)
@@ -127,7 +127,7 @@ Thank you for your work. Samples are often showcased in Demos.
     with Microsoft Search -- Jyoti Pal (Microsoft) --
     [29:25](https://youtu.be/MqGuY5V_0sQ?t=1765)
 
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

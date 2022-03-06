@@ -65,7 +65,7 @@ place in chat throughout the call.   
 -   [What's New in Microsoft Teams | November
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-november-2021/ba-p/3015700)
 
-**Actions:**
+## Actions
 
 -   **Register for Sharing is Caring Events:**
     -   Ask me anything (AMA) PnP Search -- [January
@@ -138,7 +138,7 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **D3:**  Introduction to Microsoft Graph Go SDK -- [Vincent
     Biret](http://twitter.com/baywet) (Microsoft) | \@baywet --
     [28:56](https://youtu.be/nzPfDZFbvm0?t=1736)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

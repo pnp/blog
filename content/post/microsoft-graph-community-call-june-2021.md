@@ -122,7 +122,7 @@ establishing the data pipeline connection between the Microsoft 365
 dataset and storage account.  Once the pipeline is setup, define source
 and sink, trigger the sync and use Power BI to display data insights.   
 
-**Actions:**
+## Actions
 
 -   Interested in Presenting during this call?  
     Contact <Brian.Jackett@microsoft.com> or <Jeremy.Thake@microsoft.com>
@@ -131,7 +131,7 @@ and sink, trigger the sync and use Power BI to display data insights.   
 
  
 
-**Resources:**
+## Resources
 
 From demos:
 
@@ -171,27 +171,27 @@ From demos:
 
 **Microsoft Build 2021 - Microsoft Graph session recordings**
 
-|||
-|--- |--- |
-|Breakouts||
-|BRK215|Empowering developers with powerful tooling and enabling frictionless app adoption|
-|BRK234|Build Zero Trust ready applications starting with the Microsoft identity platform|
-|BRK243|Build great discovery & collaboration apps for Microsoft 365 with new Microsoft Graph connector & Ad...|
-|BRK244|Three new ways to enrich your productivity apps with Microsoft Graph tools and data|
-|On Demand||
-|OD483|Getting started with Microsoft Graph Data Connect|
-|OD500|Build secure B2C applications​ with Azure AD External Identities|
-|OD531|Enlighten your Windows app with Microsoft Graph|
-|OD534|Integrate with Microsoft Teams data using Microsoft Graph|
-|Other||
-|STUDIO10|Build, integrate and accelerate Multi-cloud Compliance|
-|CON061|Develop apps with the Microsoft Graph Toolkit|
-|CON059|Application Authentication in the Microsoft Identity platform|
-|CON066|Integrate your app with Microsoft Teams using webhooks and connectors|
-|Round Tables||
-|CON-PRT148|Microsoft Graph Connectors|
-|CON-PRT149|Microsoft Graph Toolkit|
-|CON-PRT150|Microsoft Search for Developers|
+|              |                                                                                                         |
+| ------------ | ------------------------------------------------------------------------------------------------------- |
+| Breakouts    |                                                                                                         |
+| BRK215       | Empowering developers with powerful tooling and enabling frictionless app adoption                      |
+| BRK234       | Build Zero Trust ready applications starting with the Microsoft identity platform                       |
+| BRK243       | Build great discovery & collaboration apps for Microsoft 365 with new Microsoft Graph connector & Ad... |
+| BRK244       | Three new ways to enrich your productivity apps with Microsoft Graph tools and data                     |
+| On Demand    |                                                                                                         |
+| OD483        | Getting started with Microsoft Graph Data Connect                                                       |
+| OD500        | Build secure B2C applications​ with Azure AD External Identities                                        |
+| OD531        | Enlighten your Windows app with Microsoft Graph                                                         |
+| OD534        | Integrate with Microsoft Teams data using Microsoft Graph                                               |
+| Other        |                                                                                                         |
+| STUDIO10     | Build, integrate and accelerate Multi-cloud Compliance                                                  |
+| CON061       | Develop apps with the Microsoft Graph Toolkit                                                           |
+| CON059       | Application Authentication in the Microsoft Identity platform                                           |
+| CON066       | Integrate your app with Microsoft Teams using webhooks and connectors                                   |
+| Round Tables |                                                                                                         |
+| CON-PRT148   | Microsoft Graph Connectors                                                                              |
+| CON-PRT149   | Microsoft Graph Toolkit                                                                                 |
+| CON-PRT150   | Microsoft Search for Developers                                                                         |
 
 
 **General Resources:**

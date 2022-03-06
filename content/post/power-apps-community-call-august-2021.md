@@ -15,7 +15,7 @@ type: "regular"
 
 {{< image alt="powerapps-community-call-18th-aug.png" src="images/blog/power-apps-community-call-august-2021/powerapps-community-call-18th-aug.png" >}}
 
-**Call Summary:**
+## Call summary
 
 Topics covered in this month's community call include demos in
 - Performance Insights (a new Power Apps self-service tool that analyzes
@@ -51,7 +51,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 
 
 
-**Demos:**
+## Demos
 
 -   **Performance Insights** -- a new Power Apps self-service tool for
     enterprise app makers that analyzes runtime user data and delivers a
@@ -94,7 +94,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
     [https://powerapps.microsoft.com/en-us/blog/announcing-the-public-preview-for-connection-references-s\...](https://powerapps.microsoft.com/en-us/blog/announcing-the-public-preview-for-connection-references-support-in-power-platforms-tools/)
 
 
-**Actions:**
+## Actions
 
 -   Join us for our next call: September 15, 2021 at 08:00am PDT
     | <https://aka.ms/powerappscommunitycall>

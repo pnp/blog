@@ -148,7 +148,7 @@ joining off camera on the call today.  It's December!
 Thank you for your great work.  Samples are often showcased in Demos. 
 
 
-**Agenda items:**
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -172,13 +172,13 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [16:01](https://youtu.be/NIjXZiEHx_8?t=961)
 
-**Demos:**
+## Demos
 
 -   **D1:**  Introduction to HtwoO React library -- Fluent UI experiences easily -- [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 -- [18:31](https://youtu.be/NIjXZiEHx_8?t=1111)
 
 -   **D2:** [Getting started with using PnP Search Web Parts v4 -- ][Franck Cornu][http://twitter.com/FranckCornu]( | @FranckCornu & )[Mikael Svenson](http://twitter.com/mikaelsvenson)[ (Microsoft) | @mikaelsvenson -- [38:10](https://youtu.be/NIjXZiEHx_8?t=2290)]
 
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the slides.
 
@@ -314,7 +314,7 @@ Additional resources around the covered topics and links from the slides.
     feature requests
 
 
-**Other mentioned topics:**
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)

@@ -64,7 +64,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 -   [Microsoft Graph Bookings APIs now available on the v1
     endpoint](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-bookings-apis-now-available-on-the-v1-endpoint/)
 
-**Actions:**
+## Actions
 
 -   Submit a [Sample
     request](https://github.com/pnp/sp-dev-fx-webparts/issues/new?assignees=&labels=type%3Asample-request%2CHelp+wanted+%F0%9F%AA%A7&template=samplerequest.yml) to

@@ -212,7 +212,7 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     \@NataliePienkow1 & ][Rui
     Santos](https://www.linkedin.com/in/ruisantosnor/)[
     (Microsoft) ]]-- [47:41](https://youtu.be/o81Xah0o-xI?t=2861)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

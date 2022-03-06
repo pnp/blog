@@ -215,7 +215,7 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     (DMI) |
     \@thechriskent ]]--
     [45:34](https://youtu.be/GW7THadNYtQ?t=2734)
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

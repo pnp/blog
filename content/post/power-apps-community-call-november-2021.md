@@ -16,7 +16,7 @@ type: "regular"
 {{< image alt="PowerApps Thumb November 2021.png" src="images/blog/power-apps-community-call-november-2021/PowerApps Thumb November 2021.png" >}}
  
 
-**Call Summary:**
+## Call summary
 
 Topics covered in this month's community call include demos **Power Apps
 Christmas Calendar + Games** (Advent calendar with engaging games
@@ -54,7 +54,7 @@ attending the call or viewing it on demand. 
     Sterling](http://twitter.com/chass) (Microsoft) | \@chass --
     [63:44](https://youtu.be/4IOoopyx_Ko?t=3824)
 
-**Demos:**
+## Demos
 
 -   **D1:  Power Apps Christmas Calendar + Games** -- a 12-month
     countdown to fun that begins in December.  Open a window each day,
@@ -80,7 +80,7 @@ attending the call or viewing it on demand. 
     Apps!](https://powerapps.microsoft.com/en-us/blog/round-up-of-the-ignite-announcements-for-power-apps/) 
 
 
-**Actions:**
+## Actions
 
 -   Groups - [Public Preview for User
     Groups](https://community.powerbi.com/t5/Power-BI-User-Groups/ct-p/pbi_usergroups) 

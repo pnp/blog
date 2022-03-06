@@ -220,7 +220,7 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     \@NataliePienkow1 & ][Tomasz
     Poszytek](http://twitter.com/TomaszPoszytek)[ |
     \@TomaszPoszytek ][--][ [41:46](https://youtu.be/frJnxOITmSU?t=2506)]
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

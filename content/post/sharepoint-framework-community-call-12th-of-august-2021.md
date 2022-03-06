@@ -18,7 +18,7 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-**Call summary:**
+## Call summary
 Summer and Fall community call schedule updates reviewed.  Register
 today for August events on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).    [PnP
@@ -49,7 +49,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 Ahhhh, the Comfy seats today!     Everyone is alive with sporting
 colorful clothing.   Great to see you.     
 
-**Actions:**
+## Actions
 
 -   Add to your calendar - **Microsoft 365 platform
     call ** | <https://aka.ms/m365-dev-call>  (Weekly call starting
@@ -88,7 +88,7 @@ colorful clothing.   Great to see you.     
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Executive room reservation tool for Microsoft Teams** **and Viva
     Connections built with SPFx** - app for booking limited rooms by
@@ -137,7 +137,7 @@ colorful clothing.   Great to see you.     
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
-**Agenda items:**
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -158,7 +158,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [12:39](https://youtu.be/jJGkhttndU0?t=759)
 
-**Demos:**
+## Demos
 
 -   **Demo:**  Executive room reservation tool for Microsoft Teams and
     Viva Connections built with SPFx -- [**Julie
@@ -181,7 +181,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     [\@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
 
     [--][ [46:04](https://youtu.be/jJGkhttndU0?t=2764)]
-**Resources:**
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -311,7 +311,7 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
