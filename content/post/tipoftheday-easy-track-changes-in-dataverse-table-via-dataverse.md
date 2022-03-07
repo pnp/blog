@@ -2,7 +2,7 @@
 title: "TipOfTheDay - Easy Track changes in dataverse table via dataverse API"
 date: 2021-10-05T03:07:00-04:00
 author: "Valeras Narbutas"
-githubname: Valeras Narbutas
+githubname: ValerasNarbutas
 categories: ["Dataverse"]
 images:
 - images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418328122.png
