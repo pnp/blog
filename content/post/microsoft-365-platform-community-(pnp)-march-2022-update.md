@@ -2,20 +2,18 @@
 title: Microsoft 365 Platform Community (PnP) - March 2022 update
 slug: microsoft-365-platform-community-pnp-march-2022-update
 description: Microsoft 365 Platform Community (PnP) March 2022 update is out with a summary
-  of the latest guidance, samples, and solutions from Microsoft or from the
-  community for the community. This article is a summary of all the different
-  areas and topics around the community work we do around Microsoft 365
-  ecosystem during the past month. Thank you for being part of this success.
+  of the latest guidance, samples, & solutions from Microsoft or from the
+  community
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - Microsoft 365 Platform Community Update
 images:
-  - images/blog/microosft-365-platform-community-(pnp)-march-2022-update/title.png
+  - images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/title.png
 tags: []
 type: regular
 draft: true
-date: 2022-03-07T12:12:46.251Z
+date: 2022-03-07T13:33:32.430Z
 ---
 
 Microsoft 365 Platform Community (PnP) March 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success.
@@ -48,17 +46,46 @@ The initiative is facilitated by Microsoft, but we have multiple community membe
 Here are the latest blog posts and announcements around Microsoft 365 development topics from [https://developer.microsoft.com/microsoft-365/blogs](https://developer.microsoft.com/microsoft-365/blogs)
 
 
-* 4th of February - Breaking changes to the addToReviewSet action in the Microsoft Graph API for eDiscovery (beta)
+* 1st of March - [Learn from the community: Low-code Q&A bot for Microsoft Teams helps communities provide better onboarding process](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-low-code-qa-bot-for-microsoft-teams-helps-communities-provide-better-onboarding-process/) - [Ayca Bas](https://twitter.com/aycabs) (Microsoft)- @aycabs
+* 28th of February - [Announcing new permissions for Teams chats and tags APIs](https://devblogs.microsoft.com/microsoft365dev/announcing-new-permissions-for-teams-chats-and-tags-apis/) - Nick Kramer (Microsoft) 
+* 22nd of February - [Learn from the community: Microsoft AI MVP designs a Microsoft Teams bot to centralize tools for employees](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-microsoft-ai-mvp-designs-a-microsoft-teams-bot-to-centralize-tools-for-employees/) - [Ayca Bas](https://twitter.com/aycabs) (Microsoft)- @aycabs
+* 17th of February - [Breaking changes in the Microsoft Graph Tasks API (beta) ](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-in-the-microsoft-graph-tasks-api-beta/)
+* 17th of February - [Announcing SharePoint Framework 1.14 – with updates for Viva Connections, Microsoft Teams and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-14-with-updates-for-viva-connections-microsoft-teams-and-sharepoint/)
+* 16th of February - [Learn how to create secure identity solutions using the Microsoft identity platform](https://devblogs.microsoft.com/microsoft365dev/learn-how-to-create-secure-identity-solutions-using-the-microsoft-identity-platform/) - Nick Adman (Microsoft)
+* 15th of February - [Teams JS SDK v2 Public Preview Update: Teams Apps in Office.com & Office App for Windows](https://devblogs.microsoft.com/microsoft365dev/teams-js-sdk-v2-public-preview-update-teams-apps-in-office-com-office-app-for-windows/) - Zakiullah Khan (Microsoft)
+* 15th of February - [Learn from the community: Chatbot for Microsoft Teams personal and group chats](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-chatbot-for-microsoft-teams-personal-and-group-chats/) - [Ayca Bas](https://twitter.com/aycabs) (Microsoft)- @aycabs
+* 15th of February - [Updated design guidance for Viva Connections custom cards and quick view](https://devblogs.microsoft.com/microsoft365dev/updated-design-guidance-for-viva-connections-custom-cards/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
+* 10th of February - [Microsoft Graph Mailbag – Search DriveItems for Only Files](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-mailbag-filter-search-driveitems-for-only-files/) - [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | @BrianTJackett
+* 10th of February - [Announcing SharePoint Framework 1.14 Release Candidate – with updates for Viva Connections, Microsoft Teams and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-14-release-candidate-with-updates-for-viva-connections-microsoft-teams-and-sharepoint/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
+* 9th of February - [Client Secret expiration now limited to a maximum of two years](https://devblogs.microsoft.com/microsoft365dev/client-secret-expiration-now-limited-to-a-maximum-of-two-years/)
+* 8th of February - [Learn from the community: React web app and Azure QnA bot to centralize learning resources](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-react-web-app-and-azure-qna-bot-to-centralize-learning-resources/) - [Ayca Bas](https://twitter.com/aycabs) (Microsoft)- @aycabs
 
 ### Microsoft 365 Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
-* 7th of February - Siddharth Vaghasia | @siddh_me - How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs)
+* 3rd of March - Shrushti Shah (Rapid Circle) - [Assigning a built-in role to the group at resource group scope level using PowerShell scripts](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/assigning-a-built-in-role-to-the-group-at-resource-group-scope/ba-p/3244598)
+* 28th of February - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm - [CLI for Microsoft 365 v5.0](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v5-0/ba-p/3219956)
+* 27th of February - [Luise Freese](https://twitter.com/LuiseFreese) - [How to create a custom connector for your own Azure hosted API](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-create-a-custom-connector-for-your-own-azure-hosted-api/ba-p/3218944)
+* 18th of February - Shrushti Shah (Rapid Circle) - [Create Dataverse Expense Details Table and build simple PowerApp using that table](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-dataverse-expense-details-table-and-build-simple-powerapp/ba-p/3177499)
+* 14th of February - [Damien Bird](https://www.twitter.com/damobird365) | @damobird365 -  [Comparing two arrays without an apply to each?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/comparing-two-arrays-without-an-apply-to-each/ba-p/3161917)
+* 9th of February - [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek - [Showing and hiding content in Adaptive Cards](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/showing-and-hiding-content-in-adaptive-cards/ba-p/3142385)
 
 ### Community call recording blog posts
 
-* 4th of February - Microsoft 365 Developer Community Call recording – 3rd of February, 2022
+* 4th of March - [Microsoft 365 Developer Community Call recording – 3rd of March, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-3rd-of-march/ba-p/3246245)
+* 2nd of March - [Microsoft 365 Platform Call – 1st of March, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-1st-of-march-2022/ba-p/3235822)
+* 25th of February - [Viva Connections & SharePoint Framework Community Call – 24th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-24th-of/ba-p/3168855)
+* 22nd of February - [Microsoft 365 Platform Call – 22nd of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-22nd-of-february-2022/ba-p/3155637)
+* 22nd of February - [Power Apps Community Call – February 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/power-apps-community-call-february-2022/ba-p/3066095)
+* 18th of February - [Microsoft Identity Platform community call – February 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-identity-platform-community-call-february-2022/ba-p/3185880)
+* 18th of February - [Microsoft 365 Developer Community Call recording – 17th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-17th-of/ba-p/3179507)
+* 17th of February - [Adaptive Cards community call – February 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/adaptive-cards-community-call-february-2022/ba-p/3152216)
+* 16th of February - [Microsoft 365 Platform Call – 15th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-15th-of-february-2022/ba-p/3155634)
+* 15th of February - [Office Add-ins community call – February 9, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-ins-community-call-february-9-2022/ba-p/3164559)
+* 11th of February - [Viva Connections & SharePoint Framework Community Call – 10th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-10th-of/ba-p/3150124)
+* 8th of February - [Microsoft 365 Platform Call – 8th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-8th-of-february-2022/ba-p/3138121)
+
 
 ## 🎙 Microsoft 365 Developer Podcasts
 
@@ -67,13 +94,14 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Podcast is back! 
 
 * 7th of February - M365 Dev Podcast - Office Add-Ins with Juan Balmori
-
  
 ### Microsoft 365 PnP Weekly Podcasts and vlogs
 
 PnP Weekly is a recurrent podcast with visitors where Vesa and Waldek talk about the latest news and announcements in Microsoft 365 and SharePoint areas. 
 
-* 7th of February - Microsoft 365 PnP Weekly - Episode 152 - Hugo Bernier
+* 1st of March - [Microsoft 365 PnP Weekly - Episode 155 - Ayça Baş](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/ba-p/3221686)
+* 21st of February - [Microsoft 365 PnP Weekly - Episode 154 - Vardhaman Deshpande](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308)
+* 15th of February - [Microsoft 365 PnP Weekly - Episode 153 - Sudha Narayanan](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-153-sudha-narayanan/ba-p/3164026)
 
 ## Community Calls
 
@@ -92,7 +120,6 @@ If you are interested in doing a live demo of your solution or sample in these c
 ## Microsoft 365 Platform Community Ecosystem in GitHub
 
 Most of the community driven repositories are in the PnP GitHub organization as samples are not product specifics as they can contain numerous different solutions or the solution works in multiple different applications.
-
 
 * [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Repository and project on Microsoft Graph Toolkit controls - welcomes community contributors
 * [PnPjs](https://github.com/pnp/pnpjs) - PnPjs Framework repository
@@ -169,11 +196,34 @@ In April 2020 we announced our new [Microsoft 365 PnP team model](https://devblo
 
 We welcome all community members to get involved on the community and open-source efforts. Your input do matter!
 
-[New Microsoft 365 Patterns and Practices (PnP) team members – November 2021](content\post\new-microsoft-365-patterns-and-practices-pnp-team-members.md ) - [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed, [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1, [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp, [João J. Mendes](https://twitter.com/joaojmendes) (Valo) | @joaojmendes, [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues, [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt, [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @stephanbisser, [Tetsuya Kawahara](https://twitter.com/techan_k)  | @techan_k, and [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
-[New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](content\post\new-microsoft-365-patterns-and-practices-pnp-team-members-may.md) - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo) and [Patrick Lamber](https://github.com/plamber) (Experts Inside AG)
-[New Microsoft 365 Patterns and Practices (PnP) team members - February 2021](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/) -  [April Dunnam](https://twitter.com/aprildunnam) (Microsoft), [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) and [Veronique Lengelle](https://twitter.com/veronicageek) (CPS)
-New Microsoft 365 Patterns and Practices (PnP) team members - December 2020 -  [Luise Freese](https://twitter.com/LuiseFreese) and [Sébastien Levert](https://twitter.com/sebastienlevert/)
-[New Microsoft 365 Patterns and Practices (PnP) team members - August 2020](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-members/) - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital), [Koen Zomers](https://twitter.com/koenzomers) (Microsoft), [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative), [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) and [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions)
+* [New Microsoft 365 Patterns and Practices (PnP) team members – November 2021]
+  (content\post\new-microsoft-365-patterns-and-practices-pnp-team-members.md )
+    * [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed, 
+    * [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1, 
+    * [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp, 
+    * [João J. Mendes](https://twitter.com/joaojmendes) (Valo) | @joaojmendes, 
+    * [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues, 
+    * [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
+    * [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @stephanbisser, 
+    * [Tetsuya Kawahara](https://twitter.com/techan_k)  | @techan_k, and 
+    * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
+
+* [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](content\post\new-microsoft-365-patterns-and-practices-pnp-team-members-may.md) 
+    * [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo) and 
+    * [Patrick Lamber](https://github.com/plamber) (Experts Inside AG)
+* [New Microsoft 365 Patterns and Practices (PnP) team members - February 2021](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/) 
+    * [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
+    * [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) and 
+    * [Veronique Lengelle](https://twitter.com/veronicageek) (CPS)
+* New Microsoft 365 Patterns and Practices (PnP) team members - December 2020
+    * [Luise Freese](https://twitter.com/LuiseFreese) 
+    * [Sébastien Levert](https://twitter.com/sebastienlevert/) (Microsoft)
+* [New Microsoft 365 Patterns and Practices (PnP) team members - August 2020](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-members/) - 
+    * [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital), 
+    * [Koen Zomers](https://twitter.com/koenzomers) (Microsoft), 
+    * [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative), 
+    * [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) and 
+    * [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions)
 
 Got feedback, suggestions or ideas? - Please let us know. Everything we do in this program is for your benefit. Feedback and ideas are more than welcome so that we can adjust the process for benefitting you even more.
 
@@ -193,9 +243,7 @@ These are different areas which are closely involved on the community work acros
 
 ![Microsoft Graph Toolkit](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/mgt.png)
 
-
 Microsoft Graph Toolkit is engineering lead initiative, which works closely with the community on the open-source areas. The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic web components and helpers for accessing and working with Microsoft Graph. The components are fully functional right of out of the box, with built in providers that authenticate with and fetch data from Microsoft Graph.
-
 
 * Latest version currently is 2.3.2 
 * [mgt.dev](https://mgt.dev/?path=/story/components-mgt-agenda--simple) - Microsoft Graph Toolkit Playground
@@ -376,6 +424,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Clavin Fernandes](https://www.twitter.com/clavinfernandes) (Rapid Circle) | @clavinfernandes 
 * [Clement Olivier](https://twitter.com/Clement0livier) | @Clement0livier
 * [Cynthia Tiwana](https://www.github.com/ctiwana) (City of Sammamish) | ctiwana
+* [Damien Bird](https://www.twitter.com/damobird365) | @damobird365
 * [Daniel Laskewitz](https://twitter.com/laskewitz) (Sogeti) | @laskewitz
 * [Daniel Westerdale ](https://www.twitter.com/westerdaled)(Westerdale Solutions Ltd) | @westerdaled
 * [Danish Shafi](https://twitter.com/builtbydan) | @builtbydan
@@ -577,7 +626,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [April Dunnam](httpw://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 * Ashima Mathur (Microsoft)
-*  Ayca Bas (Microsoft)- @aycabs
+* [Ayca Bas](https://twitter.com/aycabs) (Microsoft)- @aycabs
 * [Bert Jansen](http://twitter.com/O365Bert) (Microsoft) | @O365Bert
 * Beverly Kim - [bvandaal](https://github.com/bvandaal)
 * [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
@@ -631,6 +680,8 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) | @nancyatMSFT
 * [Natalie Pienkowska](https://twitter.com/NataliePienkow1) | @NataliePienkow1
 * Natalie Pienkowska - [NataliePienkow1](https://twitter.com/NataliePienkow1)
+* Nick Adman (Microsoft)
+* Nick Kramer (Microsoft) 
 * [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @NikCharlebois
 * Nicolas Vogt - [vogtn](https://github.com/vogtn)
 * Nikolay Zainchkovskiy | [NZainchkovskiy](https://github.com/NZainchkovskiy)
@@ -666,7 +717,8 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Wajeed Shaikh | [Wajeed-msft](https://github.com/Wajeed-msft)
 * [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Wictor Wilen](https://twitter.com/wictor) | @wictor
-* [Vincent Biret](https://twitter.com/baywet) (Microsoft) | @baywet 
+* [Vincent Biret](https://twitter.com/baywet) (Microsoft) | @baywet
+* Zakiullah Khan (Microsoft)  
 
 ### MVP Community team
 
