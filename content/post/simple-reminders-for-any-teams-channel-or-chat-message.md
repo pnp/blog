@@ -8,11 +8,7 @@ images:
 - images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620122926624.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="Forgetting to take action on a message, or where that message was?" src="images/blog/simple-reminders-for-any-teams-channel-or-chat-message/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" >}}
 
 Forgetting to take action on a message, or
 where that message was?

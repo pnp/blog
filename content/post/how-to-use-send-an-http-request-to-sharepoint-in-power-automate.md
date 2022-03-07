@@ -6,8 +6,6 @@ githubname: chandaniprajapati
 categories: ["SharePoint", "Power Automate"]
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction 

@@ -7,8 +7,6 @@ images:
 - images/blog/spfx-webpart-form-validation-using-react-formik/Output.png
 tags: []
 type: "regular"
-
-
 ---
 
 

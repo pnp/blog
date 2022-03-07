@@ -8,8 +8,6 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
 
 So, recognition is important, and it is important to keep in mind that

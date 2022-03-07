@@ -8,8 +8,6 @@ images:
 - images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports2.png
 tags: []
 type: "regular"
-
-
 ---
 
 ### Introduction 

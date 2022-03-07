@@ -8,12 +8,7 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="sig-recordingly-22nd-july.png" src="images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png" >}}
-
 
 ## Call summary
 

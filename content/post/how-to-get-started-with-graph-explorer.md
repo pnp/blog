@@ -8,11 +8,7 @@ images:
 - images/blog/how-to-get-started-with-graph-explorer/adi-suryanata-5T0bY-x9A8U-unsplash.jpg
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="adi-suryanata-5T0bY-x9A8U-unsplash.jpg" src="images/blog/how-to-get-started-with-graph-explorer/adi-suryanata-5T0bY-x9A8U-unsplash.jpg" >}}
 
 Microsoft Graph offers us a single endpoint
 <https://graph.microsoft.com> to access data in Microsoft 365, Windows

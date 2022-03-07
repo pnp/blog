@@ -9,8 +9,6 @@ images:
 tags: []
 type: "regular"
 ---
-
-{{< image alt="pnp-aug-2021-release.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/pnp-aug-2021-release.png" >}}
 Microsoft 365 Patterns and Practices (PnP) Community August 2021 update
 is out with a summary of the latest guidance, samples, and solutions
 from Microsoft or from the community for the community. This article is

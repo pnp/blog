@@ -8,8 +8,6 @@ images:
 - images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image.png
 tags: []
 type: "regular"
-
-
 ---
 I love Microsoft Teams and I also love controlling my online appearance,
 but sadly both aren't big friends when you are a Guest in another

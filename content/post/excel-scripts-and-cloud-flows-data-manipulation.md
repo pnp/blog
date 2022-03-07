@@ -8,12 +8,7 @@ images:
 - images/blog/excel-scripts-and-cloud-flows-data-manipulation/Capture.PNG
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="Capture.PNG" src="images/blog/excel-scripts-and-cloud-flows-data-manipulation/Capture.PNG" >}}
  
 
 Have you discovered that the existing Power Automate actions for Excel

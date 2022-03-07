@@ -8,8 +8,6 @@ images:
 - images/blog/export-power-apps-and-power-automate-user-licenses/power-platform-licenses.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Context 

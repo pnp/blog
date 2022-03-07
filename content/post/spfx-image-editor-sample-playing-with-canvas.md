@@ -7,8 +7,6 @@ images:
 - images/blog/spfx-image-editor-sample-playing-with-canvas/Screenshot 2021-03-22 at 21.42.06.png
 tags: []
 type: "regular"
-
-
 ---
 
 In the year 2020, Microsoft added a new capability to the Image Viewer

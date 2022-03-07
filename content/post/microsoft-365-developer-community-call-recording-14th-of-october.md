@@ -8,11 +8,8 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-14th-of-october/recording-14th-pnp-generic.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="recording-14th-pnp-generic.png" src="images/blog/microsoft-365-developer-community-call-recording-14th-of-october/recording-14th-pnp-generic.png" >}}
 
 
 **Call Summary**

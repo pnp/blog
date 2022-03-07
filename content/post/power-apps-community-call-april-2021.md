@@ -8,11 +8,7 @@ images:
 - images/blog/power-apps-community-call-april-2021/Thumbnail - Power Apps Community Call - April 2021.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="Thumbnail - Power Apps Community Call - April 2021.png" src="images/blog/power-apps-community-call-april-2021/Thumbnail - Power Apps Community Call - April 2021.png" >}}
 
 ## Call summary
 

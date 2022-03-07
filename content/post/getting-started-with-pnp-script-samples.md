@@ -6,8 +6,6 @@ githubname: pkbullock
 categories: []
 tags: []
 type: "regular"
-
-
 ---
 
 Ever wanted to share your PowerShell or Bash scripts that you use to

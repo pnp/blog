@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-use-microsoft-graph-toolkit-react-people-picker-control/Implementations.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Purpose 

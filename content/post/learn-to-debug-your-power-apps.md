@@ -10,8 +10,6 @@ tags: []
 type: "regular"
 ---
 
-{{< image alt="Start debugging your Power App" src="images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png" >}}
-
 ## Make troubleshooting and understanding single elements easier
 
 They exist. Those little moments that drive you crazy. Things simply

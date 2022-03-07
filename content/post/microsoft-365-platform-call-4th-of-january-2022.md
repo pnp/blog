@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-4th-of-january-2022/recording-4th-january.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-4th-january.png" src="images/blog/microsoft-365-platform-call-4th-of-january-2022/recording-4th-january.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from January 4th, is now available from the Microsoft 365 Community

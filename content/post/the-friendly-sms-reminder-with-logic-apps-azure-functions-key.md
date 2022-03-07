@@ -8,8 +8,6 @@ images:
 - images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/AzureCreateResource.png
 tags: []
 type: "regular"
-
-
 ---
 
 Yay,  this is a new blog post series on how to put the FUN

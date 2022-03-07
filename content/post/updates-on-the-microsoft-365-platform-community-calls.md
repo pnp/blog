@@ -8,11 +8,7 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="community-call-updates.png" src="images/blog/updates-on-the-microsoft-365-platform-community-calls/community-call-updates.png" >}}
 
 We have been hosting different set of Microsoft 365 community calls
 since 2015 where we share the latest news and do live demos on the

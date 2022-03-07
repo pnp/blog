@@ -7,8 +7,6 @@ categories: ["SharePoint"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 You want to build an app using SharePoint Framework and wonder which

@@ -8,12 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-125/Thumb-Ep125.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="Thumb-Ep125.png" src="images/blog/microsoft-365-pnp-weekly-episode-125/Thumb-Ep125.png" >}}
  
 
 In this installment of the weekly discussion revolving around the latest

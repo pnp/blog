@@ -8,11 +8,7 @@ images:
 - images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/walle.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="walle.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/walle.png" >}}
 
 In this blog I want to show you, how you can build, test and publish an
 FAQ bot for Microsoft Teams within minutes. We will use the Power

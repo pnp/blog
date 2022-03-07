@@ -9,8 +9,6 @@ images:
 - images/blog/office-add-ins-community-call-november-10-2021/office-add-ins-Thumb-Nov.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## {{< image alt="office-add-ins-Thumb-Nov.png" src="images/blog/office-add-ins-community-call-november-10-2021/office-add-ins-Thumb-Nov.png" >}}

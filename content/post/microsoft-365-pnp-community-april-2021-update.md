@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-community-april-2021-update/april-monthly-update.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="april-monthly-update.png" src="images/blog/microsoft-365-pnp-community-april-2021-update/april-monthly-update.png" >}}
 Microsoft 365 Patterns and Practices (PnP) Community April 2021 update

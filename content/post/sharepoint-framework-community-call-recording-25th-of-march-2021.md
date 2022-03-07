@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-recording-25th-of-march-2021/together-pnp-25th-march-bi-weekly.gif
 tags: []
 type: "regular"
-
-
 ---
 
 

@@ -7,8 +7,6 @@ categories: ["CLI for Microsoft 365"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Changing the URL of a site results in a new site type: a Redirect Site.

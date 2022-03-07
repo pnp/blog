@@ -8,8 +8,6 @@ images:
 - images/blog/adaptive-cards-community-call-october-2021/adaptive-cards-October THumb.png
 tags: []
 type: "regular"
-
-
 ---
 
 The following topics are covered in this month's community call:

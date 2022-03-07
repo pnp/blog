@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-community-spotlight-stefan-bauer/stefanbauer.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="stefanbauer.png" src="images/blog/microsoft-365-pnp-community-spotlight-stefan-bauer/stefanbauer.png" >}}
 
 ## Which community project do you maintain? 
 

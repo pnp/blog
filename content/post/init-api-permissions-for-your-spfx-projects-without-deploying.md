@@ -8,8 +8,6 @@ images:
 - images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-fail.png
 tags: []
 type: "regular"
-
-
 ---
 
 When developing your SPFx components, you usually first run them locally

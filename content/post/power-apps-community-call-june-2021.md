@@ -8,11 +8,7 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="SEssionTHumb.png" src="images/blog/power-apps-community-call-june-2021/SEssionTHumb.png" >}}
  
 
 ## Call summary

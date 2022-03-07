@@ -9,8 +9,6 @@ tags: []
 type: "regular"
 ---
 
-{{< image alt="TeansResult.png" src="images/blog/provisiongenie-an-open-source-provisioning-engine-for-microsoft/TeansResult.png" >}}
-
 ## Once upon a time
 
 I teamed up with my friend and partner in crime [Carmen

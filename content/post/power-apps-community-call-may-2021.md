@@ -8,11 +8,7 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="powerautomate-call-recording-19th-may.png" src="images/blog/power-apps-community-call-may-2021/powerautomate-call-recording-19th-may.png" >}}
 
 
 ## Call summary

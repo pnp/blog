@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-power-apps-community-call-september-2021/powerapps-recording.jpg
 tags: []
 type: "regular"
-
-
 ---
 
 

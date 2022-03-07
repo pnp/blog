@@ -11,9 +11,6 @@ type: "regular"
 
 ---
 
-
-{{< image alt="pnp-team-growth-november.png" src="images/blog/new-microsoft-365-patterns-and-practices-pnp-team-members/pnp-team-growth-november.png" >}}
-
 We are excited to announce that we are again extending our
 virtual [Microsoft 365 Patterns and Practices (PnP)
 team](https://pnp.github.io/#team) with additional community members.

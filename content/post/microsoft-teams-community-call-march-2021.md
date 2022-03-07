@@ -7,11 +7,7 @@ images:
 - images/blog/microsoft-teams-community-call-march-2021/TitleSlide.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="TitleSlide.png" src="images/blog/microsoft-teams-community-call-march-2021/TitleSlide.png" >}}
 
 
 ## Call summary

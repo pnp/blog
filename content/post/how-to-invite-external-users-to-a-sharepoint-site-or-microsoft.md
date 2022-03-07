@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails.png
 tags: []
 type: "regular"
-
-
 ---
 
 SharePoint and Microsoft Teams services in Microsoft 365 makes it easier

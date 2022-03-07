@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-12th-of-august-2021/210812-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community

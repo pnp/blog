@@ -8,12 +8,7 @@ images:
 - images/blog/microsoft-teams-community-call-may-2021/teams-18th-recording-promo.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="teams-18th-recording-promo.png" src="images/blog/microsoft-teams-community-call-may-2021/teams-18th-recording-promo.png" >}}
 
 
 **Call Summary**

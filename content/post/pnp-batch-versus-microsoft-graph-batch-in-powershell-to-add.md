@@ -7,8 +7,6 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
 
 Following on previous blog [PnP Batch Add or Delete items from very

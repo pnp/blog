@@ -8,12 +8,7 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-29th-of-april/sig-29th-apr-recording.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="sig-29th-apr-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-29th-of-april/sig-29th-apr-recording.png" >}}
  
 
 

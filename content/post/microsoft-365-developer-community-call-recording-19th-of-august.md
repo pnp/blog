@@ -6,14 +6,10 @@ githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-19th-of-august/recording-august-19th.png
-
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="recording-august-19th.png" src="images/blog/microsoft-365-developer-community-call-recording-19th-of-august/recording-august-19th.png" >}}
  
 
 

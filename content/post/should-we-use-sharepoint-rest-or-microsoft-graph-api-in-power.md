@@ -8,11 +8,7 @@ images:
 - images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/hello-i-m-nik-n1ccr-zVG68-unsplash.jpg
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="hello-i-m-nik-n1ccr-zVG68-unsplash.jpg" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/hello-i-m-nik-n1ccr-zVG68-unsplash.jpg" >}}
 
 When working with Microsoft 365, we see many overlapping tools and
 features, and we will need (to provide) much guidance around 'when to

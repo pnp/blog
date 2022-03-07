@@ -8,12 +8,7 @@ images:
 - images/blog/sharepoint-framework-community-call-21st-of-october-2021/spfx-call-recording-21st-oct.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="spfx-call-recording-21st-oct.png" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/spfx-call-recording-21st-oct.png" >}}
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
 call recording from October 21st is now available from the Microsoft 365
 Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use

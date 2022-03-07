@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-1st-of-july-2021/PnP-Calls-TogetherMode-July1-LowerRes.gif
 tags: []
 type: "regular"
-
-
 ---
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community

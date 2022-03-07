@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-show-profile-picture-in-person-column-in-sharepoint-list/22.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction 

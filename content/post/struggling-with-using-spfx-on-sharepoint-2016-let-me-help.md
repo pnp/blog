@@ -6,8 +6,6 @@ categories: [ "SharePoint"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 SharePoint has a lot of great out-of-the-box capabilities, but sometimes

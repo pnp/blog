@@ -8,11 +8,7 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="Header_TimerApp.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Header_TimerApp.png" >}}
 
 
 ## Introduction

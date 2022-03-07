@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-29th-of-july-2021/PnP-Calls-TogetherMode-LowResolution.gif
 tags: []
 type: "regular"
-
-
 ---
 
 

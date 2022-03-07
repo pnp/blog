@@ -6,8 +6,6 @@ githubname: tonipohl
 categories: ["SharePoint", "Tooling"]
 tags: []
 type: "regular"
-
-
 ---
 
 To develop applications for SharePoint or Microsoft Teams with the [SPFx

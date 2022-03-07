@@ -8,11 +8,7 @@ images:
 - images/blog/adaptive-cards-community-call-july-2021/ThumbnailAC-July2021.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="ThumbnailAC-July2021.png" src="images/blog/adaptive-cards-community-call-july-2021/ThumbnailAC-July2021.png" >}}
 
 Covered off in this month's "conversational" community call:
 

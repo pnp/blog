@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-community-december-2021-update/dec-2021-pnp-promo.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="dec-2021-pnp-promo.png" src="images/blog/microsoft-365-pnp-community-december-2021-update/dec-2021-pnp-promo.png" >}}
 

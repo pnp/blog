@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-convert-html-content-or-file-to-pdf-using-the-muhimbi-api/ChandaniPrajapati_0-1639758794000.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction 

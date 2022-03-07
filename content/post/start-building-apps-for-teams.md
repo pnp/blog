@@ -12,8 +12,6 @@ type: "trending"
 
 ---
 
-{{< image alt="teams-hero.png" src="images/blog/start-building-apps-for-teams/teams-hero.png" >}}
-
 Microsoft Teams is a rich collaboration platform used by millions of
 people every day. By building custom apps for Teams you can help them
 work more effectively and connect them with even more knowledge and

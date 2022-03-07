@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-5th-of-august/PnP-Calls-TogetherMode-LowerResolution.gif
 tags: []
 type: "regular"
-
-
 --- 
 
 

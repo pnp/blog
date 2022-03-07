@@ -8,12 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-7th-of-september-2021/7th-sep-platform-call-recording.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="7th-sep-platform-call-recording.png" src="images/blog/microsoft-365-platform-call-7th-of-september-2021/7th-sep-platform-call-recording.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from September 7th, is now available from the Microsoft 365 Community

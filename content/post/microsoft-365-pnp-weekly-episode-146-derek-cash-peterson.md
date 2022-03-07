@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/pnp-weekly-146.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="pnp-weekly-146.png" src="images/blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/pnp-weekly-146.png" >}}
 

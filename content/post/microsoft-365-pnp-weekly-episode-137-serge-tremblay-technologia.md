@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/Thumb-Ep137.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="Thumb-Ep137.png" src="images/blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/Thumb-Ep137.png" >}}
 

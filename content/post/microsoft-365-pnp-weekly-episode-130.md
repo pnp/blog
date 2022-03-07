@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-130/Thumb-Ep130.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="Thumb-Ep130.png" src="images/blog/microsoft-365-pnp-weekly-episode-130/Thumb-Ep130.png" >}}
  
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa

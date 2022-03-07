@@ -7,8 +7,6 @@ categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Ayca Bas [\@aycabas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/371601) returns to

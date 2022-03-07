@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-break-and-change-list-item-permission-using-power/Step2.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction

@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-133-gautam-sheth-valo/pnp-weekly-133.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="pnp-weekly-133.png" src="images/blog/microsoft-365-pnp-weekly-episode-133-gautam-sheth-valo/pnp-weekly-133.png" >}}
 

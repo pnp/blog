@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-8th-of-july/8th-july-recording-m365dev.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="8th-july-recording-m365dev.png" src="images/blog/microsoft-365-developer-community-call-recording-8th-of-july/8th-july-recording-m365dev.png" >}}
 
 
 ## Call summary

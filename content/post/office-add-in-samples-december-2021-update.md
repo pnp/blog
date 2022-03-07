@@ -9,8 +9,6 @@ images:
 - images/blog/office-add-in-samples-december-2021-update/outlook-event-based-activation.png
 tags: []
 type: "regular"
-
-
 ---
 
 The Office Add-ins developer platform team has new updates to share this

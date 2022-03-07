@@ -10,8 +10,6 @@ tags: []
 type: "regular"
 ---
 
-{{< image alt="julieturner.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-julie-turner/julieturner.jpg" >}}
-
 
 ## Which community project do you maintain? 
 

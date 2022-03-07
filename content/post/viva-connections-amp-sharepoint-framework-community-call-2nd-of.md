@@ -10,8 +10,6 @@ tags: []
 type: "regular"
 ---
 
-{{< image alt="recording-2nd-of-dec.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/recording-2nd-of-dec.png" >}}
-
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from December 2nd is now available from the Microsoft 365
 Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use

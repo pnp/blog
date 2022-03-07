@@ -8,12 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-2nd-of-november-2021-microsoft/recording-2nd-nov.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="recording-2nd-nov.png" src="images/blog/microsoft-365-platform-call-2nd-of-november-2021-microsoft/recording-2nd-nov.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from November 2nd, is now available from the Microsoft 365 Community

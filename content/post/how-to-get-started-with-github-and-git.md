@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-get-started-with-github-and-git/github-new.png
 tags: []
 type: "regular"
-
-
 ---
 
 

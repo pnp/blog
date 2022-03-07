@@ -8,8 +8,6 @@ images:
 - images/blog/quick-sharepoint-approvals-using-list-formatting-json-to-set/choices.PNG
 tags: []
 type: "regular"
-
-
 ---
 
 This week it came to attention two new possible actions to be used in

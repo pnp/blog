@@ -8,8 +8,6 @@ categories: ["Office Add-in developer community call recordings"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 ## Call summary

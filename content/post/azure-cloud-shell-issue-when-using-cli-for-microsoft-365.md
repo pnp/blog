@@ -8,8 +8,6 @@ images:
 - images/blog/azure-cloud-shell-issue-when-using-cli-for-microsoft-365/ArjunMenon_0-1634207520847.jpeg
 tags: []
 type: "regular"
-
-
 ---
 
 [Azure Cloud

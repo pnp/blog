@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-community-spotlight-albert-jan-schot/Appie.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="Appie.png" src="images/blog/microsoft-365-pnp-community-spotlight-albert-jan-schot/Appie.png" >}}
 
 Which community project do you maintain? 
 

@@ -8,8 +8,6 @@ images:
 - images/blog/display-images-in-adaptive-cards/image-5.png
 tags: []
 type: "regular"
-
-
 ---
 
 Images always enricher Adaptive Cards designs. However in Microsoft

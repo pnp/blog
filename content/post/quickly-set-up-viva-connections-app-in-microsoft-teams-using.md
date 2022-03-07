@@ -7,8 +7,6 @@ images:
 - images/blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ShrushtiShah_7-1642505452452.png
 tags: []
 type: "regular"
-
-
 ---
 
 As we all know, Viva connection is a part of Employee Experience

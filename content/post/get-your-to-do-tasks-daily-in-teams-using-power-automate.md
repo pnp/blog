@@ -8,8 +8,6 @@ images:
 - images/blog/get-your-to-do-tasks-daily-in-teams-using-power-automate/Teams.png
 tags: []
 type: "regular"
-
-
 ---
 
 

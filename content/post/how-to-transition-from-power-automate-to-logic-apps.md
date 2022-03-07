@@ -6,8 +6,6 @@ githubname: pkbullock
 categories: ["Power Automate", "Azure Logic Apps"]
 tags: []
 type: "regular"
-
-
 ---
 
 

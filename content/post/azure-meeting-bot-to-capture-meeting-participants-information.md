@@ -8,8 +8,6 @@ images:
 - images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_0-1630435722443.png
 tags: []
 type: "regular"
-
-
 ---
 
 In this article, we will learn about how to create Azure Meeting Bot

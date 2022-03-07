@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-community-call-june-8th-2021/210608-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 

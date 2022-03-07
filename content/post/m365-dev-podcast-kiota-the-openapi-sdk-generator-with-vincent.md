@@ -7,8 +7,6 @@ categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Vincent Biret sits down with Jeremy to talk about Kiota - the new SDK

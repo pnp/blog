@@ -8,11 +8,7 @@ images:
 - images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="yulia-matvienko-kgz9vsP5JCU-unsplash.jpg" src="images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg" >}}
 
 In this blog post I want to explain how you can send an Adaptive Card
 with CLI Microsoft 365. I will guide you from zero to hero :rocket:, so

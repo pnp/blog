@@ -8,11 +8,7 @@ images:
 - images/blog/sharepoint-framework-community-call-9th-of-september-2021/spfx-call-9th-sep-recording.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="spfx-call-9th-sep-recording.png" src="images/blog/sharepoint-framework-community-call-9th-of-september-2021/spfx-call-9th-sep-recording.png" >}}
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
 call recording from September 9th is now available from the Microsoft

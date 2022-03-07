@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-monthly-community-call-march-9-2021/march-sp-monthly-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 

@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-use-microsoft-teams-app-templates/ask-away-app.png
 tags: []
 type: "regular"
-
-
 ---
 
 Microsoft Teams can be extended in several different ways using no-code,

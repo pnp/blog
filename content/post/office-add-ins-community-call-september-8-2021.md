@@ -9,8 +9,6 @@ images:
 - images/blog/office-add-ins-community-call-september-8-2021/officeadd-ins.jpg
 tags: []
 type: "regular"
-
-
 ---
 
 

@@ -8,8 +8,6 @@ images:
 - images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418328122.png
 tags: []
 type: "regular"
-
-
 ---
 
 Note: I am using [PostMan](https://www.postman.com/downloads/) in my

@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-community-january-2022-update/pnp-january-2022-update.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="pnp-january-2022-update.png" src="images/blog/microsoft-365-pnp-community-january-2022-update/pnp-january-2022-update.png" >}}
 
 Microsoft 365 Community (PnP) January 2021 update is out with a summary
 of the latest guidance, samples, and solutions from Microsoft or from

@@ -8,8 +8,6 @@ images:
 - images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/People1.jpg
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction

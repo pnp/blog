@@ -8,8 +8,6 @@ images:
 - images/blog/getting-started-with-graph-api-in-spfx-webpart/Permssions.png
 tags: []
 type: "regular"
-
-
 ---
 
 

@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-community-call-april-13th-2021/15th-april-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 The SharePoint community monthly call is our general monthly review of

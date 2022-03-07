@@ -8,8 +8,6 @@ images:
 - images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## User Profiles are an increasingly important part of a modern organisation

@@ -8,11 +8,7 @@ images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-16th-of/recording-16th-december.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-16th-december.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-16th-of/recording-16th-december.png" >}}
 
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from December 16th is now available from the Microsoft 365

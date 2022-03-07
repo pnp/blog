@@ -8,8 +8,6 @@ images:
 - images/blog/get-started-with-adaptive-cards/TomaszPoszytek_0-1610369598416.png
 tags: []
 type: "regular"
-
-
 ---
 
 Hello dear digital technology enthusiast. I heard you would like to find out what Adaptive Cards are? In this article I will help you to understand what[Adaptive Cards technology is, how it works and how you can use it. Follow me through the next chapters and I will try to explain it as clear.

@@ -7,8 +7,6 @@ categories: ["Microsoft Teams"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction

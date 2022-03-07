@@ -8,11 +8,7 @@ images:
 - images/blog/sharepoint-framework-community-call-23rd-of-september-2021/recording-23rd-sep.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-23rd-sep.png" src="images/blog/sharepoint-framework-community-call-23rd-of-september-2021/recording-23rd-sep.png" >}}
  
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community

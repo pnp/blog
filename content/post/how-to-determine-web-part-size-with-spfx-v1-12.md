@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-determine-web-part-size-with-spfx-v1-12/web-part-width.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Context 

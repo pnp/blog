@@ -8,11 +8,8 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-6th-of-january/recording-6th-jan.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="recording-6th-jan.png" src="images/blog/microsoft-365-developer-community-call-recording-6th-of-january/recording-6th-jan.png" >}}
 
 
 ## Call summary

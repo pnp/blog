@@ -8,8 +8,6 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
 
 Here is an example Power Automate solution where we query a real

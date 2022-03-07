@@ -8,12 +8,7 @@ images:
 - images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/solution-overview.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="solution-overview.png" src="images/blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/solution-overview.png" >}}
 
  
 ## The Story (Michael) 

@@ -8,12 +8,7 @@ images:
 - images/blog/power-apps-community-call-november-2021/PowerApps Thumb November 2021.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="PowerApps Thumb November 2021.png" src="images/blog/power-apps-community-call-november-2021/PowerApps Thumb November 2021.png" >}}
  
 
 ## Call summary

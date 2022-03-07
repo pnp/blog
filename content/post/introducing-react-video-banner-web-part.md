@@ -8,8 +8,6 @@ images:
 - images/blog/introducing-react-video-banner-web-part/derhallim_0-1620249069072.png
 tags: []
 type: "regular"
-
-
 ---
 
 In this post, we will see how easy it is to build a cool looking video

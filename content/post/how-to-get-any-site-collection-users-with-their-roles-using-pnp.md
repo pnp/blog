@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-get-any-site-collection-users-with-their-roles-using-pnp/UserRolesOP.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction 

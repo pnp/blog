@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-configure-and-use-incoming-webhooks-in-microsoft-teams/connector-select.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Intro

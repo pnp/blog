@@ -7,11 +7,7 @@ images:
 - images/blog/microsoft-identity-platform-community-call-june-2021/ViewPorter.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="IDArchitecture.png" src="images/blog/microsoft-identity-platform-community-call-june-2021/IDArchitecture.png" >}}
 
 ## Call summary
 

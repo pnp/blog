@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-135-adis-jugo-nubelus/pnp-weekly-135.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="pnp-weekly-135.png" src="images/blog/microsoft-365-pnp-weekly-episode-135-adis-jugo-nubelus/pnp-weekly-135.png" >}}
 

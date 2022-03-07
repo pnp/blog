@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-21st-of-december-2021/recording-21st-dec.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-21st-dec.png" src="images/blog/microsoft-365-platform-call-21st-of-december-2021/recording-21st-dec.png" >}}
 [Microsoft 365 Platform Community Call - weekly community call recording
 from December 21st, is now available from the Microsoft 365 Community
 YouTube channel

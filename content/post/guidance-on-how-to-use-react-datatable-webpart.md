@@ -8,8 +8,6 @@ images:
 - images/blog/guidance-on-how-to-use-react-datatable-webpart/ChandaniPrajapati.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction

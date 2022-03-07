@@ -8,8 +8,6 @@ images:
 - images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-without-ngrok-2.png
 tags: []
 type: "regular"
-
-
 ---
 
 If you've started down the path of developing

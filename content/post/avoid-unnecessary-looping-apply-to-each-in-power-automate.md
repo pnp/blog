@@ -8,8 +8,6 @@ images:
 - images/blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/LeonArmston_2-1615045186651.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Use Case

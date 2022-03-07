@@ -8,8 +8,6 @@ images:
 - images/blog/improving-the-page-properties-web-part/diff-screencap.png
 tags: []
 type: "regular"
-
-
 ---
 
 Ever get annoyed with the page properties web part put out by Microsoft?

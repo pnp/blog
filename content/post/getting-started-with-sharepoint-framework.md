@@ -8,11 +8,7 @@ images:
 - images/blog/getting-started-with-sharepoint-framework/graph.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="graph.png" src="images/blog/getting-started-with-sharepoint-framework/graph.png" >}}
 Using SharePoint Framework you can extend portals on Microsoft 365 and
 expose your apps where people work. Here are some resources to get you
 started.

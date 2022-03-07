@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-graph-fundamentals-learning-path-module-3/GraphFun-image.png
 tags: []
 type: "regular"
-
-
 ---
 
 This is already the third part of my little series on what it takes to

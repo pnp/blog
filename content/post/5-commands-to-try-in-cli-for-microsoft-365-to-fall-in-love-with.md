@@ -8,8 +8,6 @@ images:
 - images/blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/list-pa.png
 tags: []
 type: "regular"
-
-
 ---
 
 After I blogged about [How to send Adaptive Cards with CLI for Microsoft

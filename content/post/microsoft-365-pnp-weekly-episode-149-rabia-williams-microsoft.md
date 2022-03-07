@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/Thumb-Ep149-January 17.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="Thumb-Ep149-January 17.png" src="images/blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/Thumb-Ep149-January 17.png" >}}
 

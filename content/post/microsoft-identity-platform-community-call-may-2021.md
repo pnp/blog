@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-identity-platform-community-call-may-2021/ApTriggeredStep-up.png
 tags: []
 type: "regular"
-
-
 ---
 
 

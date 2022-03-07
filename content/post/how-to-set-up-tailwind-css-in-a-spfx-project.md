@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-set-up-tailwind-css-in-a-spfx-project/State of CSS 2020 Survey.png
 tags: []
 type: "regular"
-
-
 ---
 
 In the [State of CSS 2020

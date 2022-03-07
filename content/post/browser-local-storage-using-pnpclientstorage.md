@@ -6,8 +6,6 @@ githubname: sudharsank
 categories: ["SharePoint"]
 tags: []
 type: "regular"
-
-
 ---
 
 ## Why do we need to use browser storage?

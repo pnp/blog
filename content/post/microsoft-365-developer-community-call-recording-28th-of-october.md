@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-28th-of-october/recording-28th-oct.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-28th-oct.png" src="images/blog/microsoft-365-developer-community-call-recording-28th-of-october/recording-28th-oct.png" >}}
  
 
 

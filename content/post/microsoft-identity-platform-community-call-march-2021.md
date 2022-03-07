@@ -7,8 +7,6 @@ images:
 - images/blog/microsoft-identity-platform-community-call-march-2021/ViewPorter.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Call summary

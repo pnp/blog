@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-use-a-custom-connector-in-power-automate/tweet.png
 tags: []
 type: "regular"
-
-
 ---
 
 Power Automate is a super cool tool, which gives us a lot of options.

@@ -8,8 +8,6 @@ images:
 - images/blog/getting-the-working-hours-time-zones-for-other-users-using/01_Mysettings.PNG
 tags: []
 type: "regular"
-
-
 ---
 
 In a recent discussion on Twitter, we were exploring approaches on how

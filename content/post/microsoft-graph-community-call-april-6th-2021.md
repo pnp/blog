@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-graph-community-call-april-6th-2021/TitleSlidewithPhotos.png
 tags: []
 type: "regular"
-
-
 ---
 Hosted by [Nik Charlebois](https://twitter.com/NikCharlebois), this
 month's call covered topics including the Microsoft Graph Java SDK

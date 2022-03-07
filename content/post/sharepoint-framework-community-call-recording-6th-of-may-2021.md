@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-recording-6th-of-may-2021/210506-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 

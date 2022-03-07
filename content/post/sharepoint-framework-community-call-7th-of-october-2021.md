@@ -8,11 +8,7 @@ images:
 - images/blog/sharepoint-framework-community-call-7th-of-october-2021/agenda-7th-oct.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="agenda-7th-oct.png" src="images/blog/sharepoint-framework-community-call-7th-of-october-2021/agenda-7th-oct.png" >}}
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
 call recording from October 7th is now available from the Microsoft 365

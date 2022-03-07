@@ -8,8 +8,6 @@ images:
 - images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_0-1637611061380.png
 tags: []
 type: "regular"
-
-
 ---
 
 Recently I shared with the PnP community an event page I was working on

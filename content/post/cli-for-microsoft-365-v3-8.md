@@ -6,8 +6,6 @@ githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 tags: []
 type: "regular"
-
-
 ---
 
 We've just published a new version of the CLI for Microsoft 365 with new

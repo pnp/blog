@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/spfx-loader.gif
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction 

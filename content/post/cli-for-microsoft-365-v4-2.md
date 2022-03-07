@@ -6,8 +6,6 @@ githubname: appieschot
 categories: ["CLI for Microsoft 365"]
 tags: []
 type: "regular"
-
-
 ---
 
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform 

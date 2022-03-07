@@ -8,12 +8,7 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-15th-of-april/sig-agenda-15th-recording.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="sig-agenda-15th-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-15th-of-april/sig-agenda-15th-recording.png" >}}
- 
 
 
 ## Call summary

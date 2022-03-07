@@ -8,8 +8,6 @@ images:
 - images/blog/react-groups-and-teams-filters/img1.png
 tags: []
 type: "regular"
-
-
 ---
 
 In this article I'll go over both of the filters you can find in my

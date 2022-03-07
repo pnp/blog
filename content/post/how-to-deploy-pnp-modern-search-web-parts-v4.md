@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-deploy-pnp-modern-search-web-parts-v4/pnp-modern-search-sharepoint-app-catalog-01-1024x834.png
 tags: []
 type: "regular"
-
-
 ---
 
 If you use Microsoft 365 (Office 365), you probably have been using

@@ -8,14 +8,11 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-18th-of-march/sig-18th-march-recording.png
 tags: []
 type: "regular"
-
-
 ---
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from March 18, 2021.
-{{< image alt="sig-18th-march-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-18th-of-march/sig-18th-march-recording.png" >}}
- 
+
 
 
 ## Call summary

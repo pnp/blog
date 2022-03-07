@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-16th-of/call-16th-sep-recording.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="call-16th-sep-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-16th-of/call-16th-sep-recording.png" >}}
 
 
 ## Call summary

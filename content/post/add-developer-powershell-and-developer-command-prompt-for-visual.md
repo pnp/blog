@@ -9,8 +9,6 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
 
 [Windows

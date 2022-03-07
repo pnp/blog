@@ -8,8 +8,6 @@ images:
 - images/blog/running-a-power-app-as-edge-extension/edge-plugin.gif
 tags: []
 type: "regular"
-
-
 ---
 
 To get started you do need a sample, the demo used to get you started is

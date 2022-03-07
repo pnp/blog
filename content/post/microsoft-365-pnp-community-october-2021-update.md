@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="oct-monthly-summary-promo.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png" >}}
 Microsoft 365 Patterns and Practices (PnP) Community October 2021 update

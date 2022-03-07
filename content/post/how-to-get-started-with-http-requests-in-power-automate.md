@@ -12,8 +12,6 @@ type: "epic"
 
 ---
 
-{{< image alt="explorer.jpg" src="images/blog/how-to-get-started-with-http-requests-in-power-automate/explorer.jpg" >}}
-
 If you ever wondered what is an HTTP request and why you would want to
 know how this works - this post is made for you.
 

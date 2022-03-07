@@ -8,8 +8,6 @@ images:
 - images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma.png
 tags: []
 type: "regular"
-
-
 ---
 
 Using the CLI for Microsoft 365, you can manage your Microsoft 365

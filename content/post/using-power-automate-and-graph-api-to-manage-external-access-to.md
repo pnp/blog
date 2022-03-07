@@ -8,8 +8,6 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
 
 Matt Collins Jones and I presented [API's -- The most powerful tool,

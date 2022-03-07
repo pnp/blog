@@ -8,11 +8,7 @@ images:
 - images/blog/adaptive-cards-community-call-march-2021/THumbnailTitleSlide.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="THumbnailTitleSlide.png" src="images/blog/adaptive-cards-community-call-march-2021/THumbnailTitleSlide.png" >}}
 
 
 In this month's community call, there is

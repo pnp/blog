@@ -9,8 +9,6 @@ images:
 - images/blog/office-add-ins-community-call-august-2021/office-add-ins-august-agenda.png
 tags: []
 type: "regular"
-
-
 ---
 
 

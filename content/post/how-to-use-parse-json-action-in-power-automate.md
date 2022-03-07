@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-use-parse-json-action-in-power-automate/parsejson-SPList.png
 tags: []
 type: "regular"
-
-
 ---
 
 We can see a a lot of JSON in our Power Automate flow run history, and

@@ -7,8 +7,6 @@ categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Maisa Rissi and Darrel Miller join Jeremy and Paul to talk about the

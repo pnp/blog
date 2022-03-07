@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-community-spotlight-hugo-bernier/hugobernier.jpg
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="hugobernier.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-hugo-bernier/hugobernier.jpg" >}}
 
 ## Which community project do you maintain? 
 

@@ -8,12 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-16th-of-november-2021/recording-16th-m365-platform.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="recording-16th-m365-platform.png" src="images/blog/microsoft-365-platform-call-16th-of-november-2021/recording-16th-m365-platform.png" >}}
  
 
 Microsoft 365 Platform Community Call - weekly community call recording

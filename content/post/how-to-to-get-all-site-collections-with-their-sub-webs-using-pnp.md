@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-to-get-all-site-collections-with-their-sub-webs-using-pnp/AllSCAndSCW.png
 tags: []
 type: "regular"
-
-
 ---
 
 Sometimes we have a business requirement to get site collections with

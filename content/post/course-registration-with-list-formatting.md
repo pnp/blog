@@ -8,8 +8,6 @@ images:
 - images/blog/course-registration-with-list-formatting/51695169286_ae7588984b_c.jpg
 tags: []
 type: "regular"
-
-
 ---
 
 Recently [Tetsuya](https://twitter.com/techan_k) and [Michel](https://twitter.com/michelcarlo) shared

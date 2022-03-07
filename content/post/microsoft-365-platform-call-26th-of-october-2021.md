@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-26th-of-october-2021/recording-26th-oct.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-26th-oct.png" src="images/blog/microsoft-365-platform-call-26th-of-october-2021/recording-26th-oct.png" >}}
 Microsoft 365 Platform Community Call - weekly community call recording
 from October 26th, is now available from the Microsoft 365 Community
 YouTube channel

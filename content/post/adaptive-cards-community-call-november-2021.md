@@ -8,8 +8,6 @@ images:
 - images/blog/adaptive-cards-community-call-november-2021/adaptive-cards-November THumb.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="adaptive-cards-November THumb.png" src="images/blog/adaptive-cards-community-call-november-2021/adaptive-cards-November THumb.png" >}}
 

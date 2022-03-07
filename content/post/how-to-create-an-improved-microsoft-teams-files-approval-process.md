@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/2021-02-10_22-02-47.png
 tags: []
 type: "regular"
-
-
 ---
 
 We are all there during some days: Power Automate Premium is the key to

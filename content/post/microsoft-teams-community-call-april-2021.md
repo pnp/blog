@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-teams-community-call-april-2021/teams-monthly-20th-april-recording.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="teams-monthly-20th-april-recording.png" src="images/blog/microsoft-teams-community-call-april-2021/teams-monthly-20th-april-recording.png" >}}
 
 **Call Summary**
 

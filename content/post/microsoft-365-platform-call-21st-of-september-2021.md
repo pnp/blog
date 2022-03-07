@@ -7,8 +7,6 @@ categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-21st-of-september-2021/recording-21st-sep.png
 type: "regular"
-
-
 --- 
 
 

@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-platform-call-31st-of-august-2021/210831-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 Microsoft 365 Platform Community Call - weekly community call recording

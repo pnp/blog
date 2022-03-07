@@ -9,8 +9,6 @@ images:
 - images/blog/to-write-code-comments-or-not-it-should-not-be-a-question/comments1.png
 tags: []
 type: "regular"
-
-
 ---
 
 Comments, just do it. I write this post because I read a couple of

@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/Thumb-Ep143-November15.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="Thumb-Ep143-November15.png" src="images/blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/Thumb-Ep143-November15.png" >}}
 

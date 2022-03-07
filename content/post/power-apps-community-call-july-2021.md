@@ -8,11 +8,7 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="900x506-JulyPAThumbslide.png" src="images/blog/power-apps-community-call-july-2021/900x506-JulyPAThumbslide.png" >}}
 
 ## Call summary
 

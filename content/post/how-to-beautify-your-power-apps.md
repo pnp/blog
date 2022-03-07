@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-beautify-your-power-apps/fluentUIicons.png
 tags: []
 type: "regular"
-
-
 ---
 
 Power Apps offers you a variety of icons - and recently, there were nice

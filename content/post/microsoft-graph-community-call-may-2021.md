@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-graph-community-call-may-2021/TitleSlideThumbnail.png
 tags: []
 type: "regular"
-
-
 ---
 
 

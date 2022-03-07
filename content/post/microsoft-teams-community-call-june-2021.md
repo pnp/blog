@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-teams-community-call-june-2021/teams-june-15th-recording.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="teams-june-15th-recording.png" src="images/blog/microsoft-teams-community-call-june-2021/teams-june-15th-recording.png" >}}
 
 
 

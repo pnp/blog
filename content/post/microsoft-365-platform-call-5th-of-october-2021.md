@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-platform-call-5th-of-october-2021/recording-5th-oct.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="recording-5th-oct.png" src="images/blog/microsoft-365-platform-call-5th-of-october-2021/recording-5th-oct.png" >}}
 

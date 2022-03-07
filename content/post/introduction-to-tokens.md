@@ -8,8 +8,6 @@ images:
 - images/blog/introduction-to-tokens/01ed60e47ba84e66b302a6ef0e9035d2.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction 

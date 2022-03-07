@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-recording-22nd-of-april-2021/210422-spfx.gif
 tags: []
 type: "regular"
-
-
 ---
 
 

@@ -8,15 +8,11 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-10th-of-june/m365-general-10th-june-recording.png
 tags: []
 type: "regular"
-
-
 ---
-
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from June 10, 2021.
 
-{{< image alt="m365-general-10th-june-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-10th-of-june/m365-general-10th-june-recording.png" >}}
 
 ## Call summary
 

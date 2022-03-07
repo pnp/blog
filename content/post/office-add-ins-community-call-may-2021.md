@@ -9,12 +9,7 @@ images:
 - images/blog/office-add-ins-community-call-may-2021/office-add-ins-call-recording-12th-may.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="office-add-ins-call-recording-12th-may.png" src="images/blog/office-add-ins-community-call-may-2021/office-add-ins-call-recording-12th-may.png" >}}
 
 ## Agenda
 

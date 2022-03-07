@@ -8,8 +8,6 @@ images:
 - images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker01.png
 tags: []
 type: "regular"
-
-
 ---
 
 In this blog post, I will show how to send email reminders for Microsoft
