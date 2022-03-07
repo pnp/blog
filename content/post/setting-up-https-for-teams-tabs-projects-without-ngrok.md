@@ -7,7 +7,7 @@ categories: ["Microsoft Teams"]
 images:
 - images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/localhostcert.png
 tags: []
-type: "regular"
+type: "trending"
 ---
 
 I've started using the new Microsoft Teams toolkit, which is a Visual

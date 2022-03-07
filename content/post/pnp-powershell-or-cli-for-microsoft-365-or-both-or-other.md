@@ -13,7 +13,7 @@ summary: "During my SP consultant/dev work I most of the times used the last two
 # Taxonomies
 categories: ["CLI for Microsoft 365","PnP PowerShell"]
 tags: []
-type: "epic" # available type (epic, trending, popular, or regular)
+type: "regular" # available type (epic, trending, popular, or regular)
 
 ---
 
