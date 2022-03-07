@@ -260,7 +260,11 @@ Community Docs model was announced in the April 2020 and it's great to see the i
 
 #### New articles
 
-* Advanced Highlighted Content Web Part - Patrick Doran (NCDIT) | @swearpointjs
+This time no new articles.
+
+#### Updated articles
+
+* [Advanced Highlighted Content Web Part](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Community/highlighted-content-web-part.md) - updated by [Chanaka Palliyaguru](https://twitter.com/chanakavp) (Fortude) | @chanakavp
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model more detailed.
 
@@ -390,6 +394,8 @@ Here’s the list of active contributors (in alphabetical order) since last rele
 
 Thank you for your assistance and contributions on behalf of the community. You are truly making a difference! If we missed someone, please let us know.
 
+### Community people
+
 * [Abderahman Moujahid](https://github.com/Abderahman88) (iThink365) | Abderahman88
 * [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 * [Aimery Thomas](https://www.twitter.com/aimery_thomas) | @aimery_thomas
@@ -415,6 +421,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * Bob Morris (ThreeWill)
 * [Carianne Wong](https://www.twitter.com/cw_marie) (Majesco) | @cw_marie
 * [Carmen Ysewijn](https://twitter.com/CarmenYsewijn) (Qubix) | @carmenysewijn
+* [Chanaka Palliyaguru](https://twitter.com/chanakavp) (Fortude) | @chanakavp
 * [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani_SPD
 * [Chandra Sekhar Malla](https://twitter.com/ChandraSMalla) (Royal Group LLC) | @ChandraSMall
 * [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent
@@ -523,6 +530,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Patrik Hellgren](https://twitter.com/patrikhellgren) (Sherpas Group) | @patrikhellgren
 * [Paul Bullock](https://twitter.com/pkbullock) (CPS) | @pkbullock
 * [Paul Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) | @paulculmsee
+* [Paul McManus](https://twitter.com/PaulMcManus23) | @PaulMcManus23
 * [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | @paulschaeflein
 * [Pedro Monte](https://github.com/PedroMordeP) (BindTuning) | PedroMordeP
 * [Pete Simpkins](https://www.twitter.com/simpkinspete) (Fluid Interiors) | @simpkinspete
@@ -530,6 +538,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Phil McNiven](https://www.github.com/phil0074) | phil0074
 * [Prafull Kotecha](https://www.twitter.com/prafull) | @prafull
 * [Ralph Rivas](https://www.twitter.com/bigpix2000) (Sogeti) | @bigpix2000
+* [Rentu](https://github.com/SLdragon) | SLdragon
 * [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
 * [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
 * Rob Bell (Kizan technologies)
@@ -677,9 +686,11 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Michael Aldridge (Microsoft)
 * [Mikael Svenson](https://twitter.com/mikaelsvenson) | @mikaelsvenson
 * [Mike Hollinshead](https://twitter.com/mahollinshead) (Microsoft) | @mahollinshea
+* [Musale Martin](https://github.com/musale) (Microsoft) | musale 
 * [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) | @nancyatMSFT
 * [Natalie Pienkowska](https://twitter.com/NataliePienkow1) | @NataliePienkow1
 * Natalie Pienkowska - [NataliePienkow1](https://twitter.com/NataliePienkow1)
+* [Nathan Zipf](https://github.com/NathZ1) (Microsoft) | NathZ1
 * Nick Adman (Microsoft)
 * Nick Kramer (Microsoft) 
 * [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @NikCharlebois
@@ -688,7 +699,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Nickii Miaro - [Nickii Miaro](https://github.com/Mnickii)
 * [Niko](https://github.com/NikoMix) 
  | NikoMix
-* Nikola Metulev - [@metulev](https://twitter.com/metulev)
+* Nikola Metulev (Microsoft) - [@metulev](https://twitter.com/metulev)
 * Orion O'Malley (Microsoft)
 * [Pam Green](https://www.twitter.com/contextuallib) (Microsoft) | @contextuallib
 * Parag Jain (Microsoft)
