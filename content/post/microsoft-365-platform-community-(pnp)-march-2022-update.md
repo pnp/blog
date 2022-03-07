@@ -417,6 +417,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 
 * [Abderahman Moujahid](https://github.com/Abderahman88) (iThink365) | Abderahman88
 * [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
+* [Ademosu Ayodele](https://github.com/aaademosu) | aaademosu
 * [Aimery Thomas](https://www.twitter.com/aimery_thomas) | @aimery_thomas
 * [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @appieschot
 * [Alex Gonsales](https://www.github.com/MrDrSushi) (Intergen) | MrDrSushi
