@@ -313,9 +313,10 @@ If you are interested on Microsoft Teams samples, we have just released also new
 ### Power Platform samples
 
 ![Power Platform samples](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/powerplatform-samples.png)
- 
 
-* New Power Apps sample power-wordle-game by April Dunnam (Microsoft) | @aprildunnam, that is a re-imagining of the popular word puzzle game Wordle inside of Power Apps
+* New sample [dataverse-admin](https://github.com/pnp/powerapps-samples/tree/main/samples/dataverse-admin) by [Vivek Bavishi](https://twitter.com/that_api_guy) | @that_API_guy
+* New sample [sharepoint-events](https://github.com/pnp/powerapps-samples/tree/main/samples/sharepoint-events) by [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @sharepointalex
+
 
 There was also numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location
 
@@ -597,6 +598,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @troystaylor
 * [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @veronicageek
 * [Vipul Kelkar](https://twitter.com/vipulkelkar) (Rapid Circle) | @vipulkelkar
+* [Vivek Bavishi](https://twitter.com/that_api_guy) | @that_API_guy
 * [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions) | @yp_code
 *  Youssef Moumen
 * [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group) | @yhabersaat
@@ -644,7 +646,8 @@ Here's the companies, which provided support the community initiative for this 
 Here’s the list of Microsoft people who have been closely involved with the Microsoft 365 Platform community work during last month.
 
 * [Aakash Bhardwaj](https://twitter.com/aakash_316) (Microsoft) | @aakash_316
-* Abid Rahman (Microsoft) 
+* Abid Rahman (Microsoft)
+* [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @sharepointalex
 * [Alex Terentiev](https://twitter.com/alexaterentiev) | @alexaterentiev
 * Aline Tognini - [alinefmr](https://github.com/alinefmr)
 * Allen Snow - [@asnow003](https://twitter.com/asnow003)
