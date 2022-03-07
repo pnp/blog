@@ -23,7 +23,7 @@ SPFx Web part galleries. 
  
 
 To find the full source code refer to
-[this](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable).
+[react-datatable](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable).
 
  
 
@@ -45,7 +45,7 @@ Let's see step by step configuration.
  
 
 To download the package refer to
-[this](https://github.com/chandaniprajapati/react-datatable/blob/main/sharepoint/solution/react-datatable.sppkg).
+[react-datatable](https://github.com/chandaniprajapati/react-datatable/blob/main/sharepoint/solution/react-datatable.sppkg).
 
  
 
@@ -65,7 +65,7 @@ Now **Add** and **install** the web part.
 
  
 
-Click on **App**.
+Select  **App**.
 
  
 

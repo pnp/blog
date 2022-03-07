@@ -22,6 +22,7 @@ for **SharePoint** Online.
 
 ## Call summary
 
+
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
 community call](https://aka.ms/m365-dev-call).  Featured topics for the
 call on October 26th are Getting started with hub associations in
@@ -59,8 +60,10 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 call.
 {{< image alt="211021-together-mode.gif" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/211021-together-mode.gif" >}}
 Full house today.  Clearly we've outgrow this venue.   Great to see
-everybody.  See you again soon.   
+everybody.  See you again soon. 
+  
 ## Actions
+
 -   Vote: [Next SPFx Design Patterns Topic -- November 4,
     2021](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR8ke1rGfE-VNsUHrnMWCrL5UN1dHRUYxV01CUkJESktKMENBQldURVpRWiQlQCN0PWcu&web=1&wdLOR=cC640D9E0-C403-405A-9EF1-D9F43B6ADF90)
 -   Register today for Hacktoberfest 2021
@@ -115,7 +118,7 @@ everybody.  See you again soon.   
     render.     
 
 -   **Share to Teams -- SPFx Command Set Extension --** from within
-    SharePoint, this extension allows user to 1-click share site pages,
+    SharePoint, this extension allows user to 1-select share site pages,
     files, folders, and list items directly to selected (from dropdown)
     channels or groups in Microsoft Teams.  A concise 6-step CodeTour
     familiarizes the viewer with the inner workings of this extension. 
@@ -129,13 +132,15 @@ everybody.  See you again soon.   
     When to use/not use a property panes is predicated on directness. 
     See property pane samples in the SPFx samples repository. 
 
-**SPFx extension samples:  (<https://aka.ms/spfx-extensions>) **
+**SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
+
 -   **Animated Progress Bar\* -** [Ari
     Gunawan](http://twitter.com/AriGunawan3023) | \@AriGunawan3023
 
 
 **\*** *to be posted soon.*
-**SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
+**SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
+
 -   **Emoji Reactions\* -** [Siddharth
     Vaghasia](http://twitter.com/siddh_me) | \@siddh_me
 
@@ -157,6 +162,7 @@ everybody.  See you again soon.   
 **\*** *to be posted soon.*
 **PnP SPFx
 ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
+
 -   [Upcoming
     Events](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-Graph-UpcomingEvents) -
     [Zach Roberts](http://twitter.com/ZachSPODev) | \@ZachSPODev
@@ -201,6 +207,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **D3:**  SPFx Design Patterns Property Panes --  [Hugo
     Bernier](http://twitter.com/bernierh) (Microsoft) |
     \@bernierh [--][ [40:50](https://youtu.be/9vvasiylRYI?t=2450)]
+
+
 
 ## Resources
 
@@ -255,7 +263,7 @@ slides.
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
@@ -276,7 +284,7 @@ slides.
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
@@ -337,27 +345,29 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  *(Subject to Updates in
 September)***
 -   **Microsoft 365 platform call** -- October 26th at 8:00 am PDT
     | <https://aka.ms/m365-dev-call>
--   **M365 General Dev call -- **October 28th at 7:00 am PDT
+-   **M365 General Dev call** -- October 28th at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
--   **SharePoint Framework call --** November 4th at 7:00 am PDT
+-   **SharePoint Framework call** -- November 4th at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
--   **Office add-in monthly call -- **November 10th at 8:00 am PDT
+-   **Office add-in monthly call** -- November 10th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
--   **Adaptive Cards monthly call -- **November 11th at 9:00 am PDT
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- November 17th at 8:00 am PDT
+-   **Adaptive Cards monthly call** --November 11th at 9:00 am PDT
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- November 17th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** November 18th at 9:00 am
+-   **Microsoft Identity Platform call** -- November 18th at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
 PnP SharePoint Framework Special Interest Group bi-weekly calls are
 targeted at anyone who is interested in the JavaScript-based development

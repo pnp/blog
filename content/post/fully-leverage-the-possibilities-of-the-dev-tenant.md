@@ -16,7 +16,7 @@ type: "regular"
 Now let's imagine this. You have the developer tenant from your
 Microsoft 365 Developer Subscription, and you enrolled the [Power Apps
 Community
-Plan](https://powerapps.microsoft.com/en-us/communityplan/) with it, so
+Plan](https://powerapps.microsoft.com/communityplan/) with it, so
 you have the full range of possibilities on your dev tenant, right? 
  
 Not quite. 
@@ -41,12 +41,11 @@ your data.  
 But on your dev tenant you don't need one, right? Because you're just
 testing out and learning things, correct? Well yes, but what if you want
 to learn how to set up a staging environment for your
-organization, where you have the recommended environments? 
-1.  Development 
+organization, where you have the recommended environments?
 
-2.  Testing 
-
-3.  Production 
+1. Development
+2. Testing 
+3. Production 
 
 And imagine you want to learn how to set up the correct security roles
 in Azure to test things out. You can't do that on your regular dev
@@ -74,13 +73,14 @@ tenant to test, learn and grow for your organization with just the cost
 of the Power Apps license.  
  
 ## Here is how you do it
-Log into your dev tenant and go to the Admin center. Click on
-the **waffle menu** in the upper left corner and click on **Admin.** 
+
+Log into your dev tenant and go to the Admin center. Select 
+the **waffle menu** in the upper left corner and select  **Admin.** 
 {{< image alt="Gezeitenbrand42_10-1614283053396.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_10-1614283053396.png" >}}
  
  
 
-Next, click on **Purchase services**. 
+Next, select  **Purchase services**. 
 
 
 {{< image alt="Gezeitenbrand42_11-1614283053399.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_11-1614283053399.png" >}}
@@ -96,7 +96,7 @@ on **Details** to see, what's included. 
  
  
  
-In the next screen you can check all the details. Click on **Included
+In the next screen you can check all the details. Select  **Included
 apps** to see every detail. If you're happy with it click
 on **Purchase**. 
  
@@ -115,16 +115,16 @@ After a few minutes you will get your confirmation mail.  
 {{< image alt="Gezeitenbrand42_15-1614283053406.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_15-1614283053406.png" >}}
  
  
-If you click on **Get started** you will be transferred to the Your
-products section of the Admin center. Click on **Assign licenses**. 
+If you select  **Get started** you will be transferred to the Your
+products section of the Admin center. Select  **Assign licenses**. 
 {{< image alt="Gezeitenbrand42_16-1614283053415.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_16-1614283053415.png" >}}
  
  
 {{< image alt="Gezeitenbrand42_17-1614283053416.png" src="images/blog/fully-leverage-the-possibilities-of-the-dev-tenant/Gezeitenbrand42_17-1614283053416.png" >}}
  
  
-For whatever reasons, you have to click on Assign licenses once again.  
-After that you can type in a name and click on the chevron icon next to
+For whatever reasons, you have to select  Assign licenses once again.  
+After that you can type in a name and select  the chevron icon next to
 Turn apps and services on or off. Check all the apps and services you
 want to assign, then finish the process by clicking on Assign again, on
 the bottom of the page. 
@@ -140,6 +140,5 @@ unleash the full potential of the Power
 Platform*](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/ba-p/2158336),
 you can now add multiple environments and yes, even Production
 Environments. Check out the [Microsoft documentation about
-environments](https://docs.microsoft.com/en-us/power-platform/admin/create-environment) to
+environments](https://docs.microsoft.com/power-platform/admin/create-environment) to
 get more details and why and how to use them. Enjoy. 
- 

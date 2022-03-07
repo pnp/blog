@@ -45,7 +45,7 @@ the [PnP-OfficeAddins](https://github.com/OfficeDev/PnP-OfficeAddins)
 community effort.
 
 -   [Maarten van
-    Stam](https://mvp.microsoft.com/en-us/PublicProfile/33535) - helping
+    Stam](https://mvp.microsoft.com/PublicProfile/33535) - helping
     review PRs and issues on PnP-OfficeAddins
 
 ## Want to contribute? 
@@ -80,7 +80,7 @@ developer program](https://developer.microsoft.com/office/dev-program).
 
 Try out some samples and get coding quickly with Office add-ins by
 [downloading Script
-Lab](https://www.microsoft.com/en-us/garage/profiles/script-lab/).
+Lab](https://www.microsoft.com/garage/profiles/script-lab/).
 
 Learn more by joining the monthly [Office Add-ins community
 call](https://aka.ms/officeaddinscommunitycall).

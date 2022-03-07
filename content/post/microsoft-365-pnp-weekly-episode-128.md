@@ -34,8 +34,9 @@ inclusive and diverse.
 
 [This episode was recorded on Monday, May 24,
 2021.]
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 These videos and podcasts are published each week and are intended to be
@@ -51,6 +52,7 @@ Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
 **Events:**
+
 -   May 25-27, 2021- [Microsoft Build
     2021](https://mybuild.microsoft.com/?WT.mc_id=m365-29364-wmastyka)
 -   June 1-2, 2021 - [European SharePoint Conference 2021 -
@@ -62,6 +64,7 @@ everyone for your contributions to the community!
 
 
 **Microsoft articles:**
+
 -   [Rebrand apps to your own organization's branding with App
     customization in
     Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/rebrand-apps-to-your-own-organization-s-branding-with-app/ba-p/2376296?WT.mc_id=m365-29364-wmastyka) -
@@ -71,14 +74,15 @@ everyone for your contributions to the community!
     [Melissa Torres](https://twitter.com/Meltorac) (Microsoft)
     | \@Meltorac
 -   [Publish your apps to the Microsoft Teams
-    store](https://developer.microsoft.com/en-us/microsoft-365/blogs/publish-your-apps-to-the-microsoft-teams-store/?WT.mc_id=m365-29364-wmastyka) -
+    store](https://developer.microsoft.com/microsoft-365/blogs/publish-your-apps-to-the-microsoft-teams-store/?WT.mc_id=m365-29364-wmastyka) -
     Microsoft
 -   [Announcing new file components, MSAL 2 Provider, and SharePoint
     Framework library in Microsoft
-    Graph\...](https://developer.microsoft.com/en-us/microsoft-365/blogs/announcing-new-file-components-msal-2-provider-and-sharepoint-framework-library-in-microsoft-graph-toolkit/?WT.mc_id=m365-29364-wmastyka) -
+    Graph\...](https://developer.microsoft.com/microsoft-365/blogs/announcing-new-file-components-msal-2-provider-and-sharepoint-framework-library-in-microsoft-graph-toolkit/?WT.mc_id=m365-29364-wmastyka) -
     Microsoft
 
 **Community articles:**
+
 -   [Microsoft 365 PnP Community Spotlight: Garry
     Trinder](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-garry-trinder/ba-p/2377740?WT.mc_id=m365-29364-wmastyka)
     - [Garry Trinder](https://twitter.com/garrytrinder) (CPS)
@@ -130,6 +134,7 @@ everyone for your contributions to the community!
     | \@JoanneCKlein
 
 **Additional resources:**
+
 -   [Power Platform Sample
     Gallery](https://aka.ms/powerplatform-samples) - for finding easily
     samples from the GitHub - contributions from the community are

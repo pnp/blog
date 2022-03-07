@@ -13,6 +13,7 @@ type: "regular"
 ---
 
 ## Introduction 
+
 > This article is written to explain OAuth 2.0 and OpenID Connect bearer
 > tokens (JWT) and concepts relating to Microsoft Azure AD and related
 > technologies, but can most likely be applied elsewhere too.
@@ -99,10 +100,11 @@ also referred to as \"JWTs\" or JSON Web Tokens. This means that the
 token is formatted as a JSON object and then \"base64Url\" encoded and
 signed and with a bit of extra security (we'll cover this soon), the
 end result is what we have above.
-> For an introduction in to JSON, I highly recommend Bob German's
-> article [here](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369).
 
-### Decoding a token 
+> For an introduction in to JSON, I highly recommend [Bob German's
+> article](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369).
+
+### Decoding a token
 
 Taking the sample above and putting in in to [jwt.ms](https://jwt.ms),
 it is possible to decode from "base64url" back to human-readable JSON.
@@ -163,6 +165,7 @@ validate the signature part of the JWT.
 
 In addition to the signature, validation should also be taken place on
 the payload such as expiry time, audience and issuer.
+
 ### Token usage 
 
 Now we are familiar with tokens. Let's cover how they could be used in
@@ -189,9 +192,10 @@ authorization code is returned. A second request is then made to the
 authorization server with the authorization code, but this time an
 access token is returned. With the access token, a protected API can
 then be accessed.
+
 {{< image alt="LeeFord_0-1641203766651.png" src="images/blog/introduction-to-tokens/LeeFord_0-1641203766651.png" >}}
 
-# Wrap up 
+## Wrap up
 
 I hope you found this useful and understand more around what tokens are,
 the different types of tokens and how they are used.

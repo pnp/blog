@@ -51,7 +51,7 @@ follows:
 
 Let's break this down by component.
 
-###  Webhook 
+### Webhook 
 
 A Webhook is a way for two applications that can communicate with each
 other. In our case, a simple bot and Teams.
@@ -91,9 +91,9 @@ an API key.
 The bot is where the magic happens. It is code hosted externally to
 Teams that can be called over HTTP (via the Webhook). What that code
 does, where it is hosted, is all up to you. For this scenario, there is
-an Azure Function HTTP Trigger (written in TypeScript), which can be
-found
-[here](https://github.com/leeford/teams-webhook-weatherbot-sample).
+an (written in TypeScript), which can be
+found here:
+[Azure Function HTTP Trigger](https://github.com/leeford/teams-webhook-weatherbot-sample).
 
 You are free to use the linked code as a basis for your own idea, or
 create your own code in your choice of programming language. The basic
@@ -105,14 +105,14 @@ construct of a bot behaviour needs to be as follows:
     an attached Adaptive Card otherwise Teams will not handle the
     response correctly
 
-##  Setup 
+## Setup 
 
 The setup of this solution comprises of two parts:
 
 -   Bot code accessible via HTTP
 -   Outgoing Webhook in Teams
 
-###  Bot 
+### Bot 
 
 A Azure Function HTTP Trigger hosting the code is created. The URL of
 the trigger needs to be copied for the next step
@@ -127,7 +127,7 @@ To add an Outgoing Webhook, the following is done:
 
 1.  Find the Team to host the Webhook
 
-2.  Click the ellipsis (\...) on the Team and choose **Manage team**
+2.  Select the ellipsis (\...) on the Team and choose **Manage team**
 
     ![image](https://user-images.githubusercontent.com/472320/149214507-8e0f6fac-4fc7-4901-b121-4cdab13d7aae.png)
 
@@ -136,7 +136,7 @@ To add an Outgoing Webhook, the following is done:
 
 ![image](https://user-images.githubusercontent.com/472320/149138950-b86db5c1-cef7-4334-bd3e-c52f90a49e75.png)
 
-4.  Provide the following:
+Provide the following:
 
     -   **Name**: A short name that will be used to @ mention the
         Webhook. Keep it to one word if you can e.g. *Weather*
@@ -152,7 +152,7 @@ To add an Outgoing Webhook, the following is done:
 
         ![image](https://user-images.githubusercontent.com/472320/149214338-c8217ed4-bdb9-468d-be26-ccac553a735f.png)
 
-5.  Once the Webhook is created, take a note of the **Security token**
+1.  Once the Webhook is created, take a note of the **Security token**
     of the Webhook as it will only be shown once and will be required
     for authentication to the bot
 

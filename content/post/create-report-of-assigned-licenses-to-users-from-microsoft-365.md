@@ -33,6 +33,7 @@ assigned licenses to each user along with the metadata of users, and
 store excel report in the SharePoint document library.
 
 **Learning Objectives**
+
 1.  Register Application and Grant Permission in Azure Active Directory
 2.  Create Scheduler in Power Automate
 3.  Access SharePoint list in Power Automate
@@ -42,6 +43,7 @@ store excel report in the SharePoint document library.
 7.  Add row to Excel Worksheet.
    
 **Prerequisites**
+
 1.  Microsoft 365 Account
 2.  License to access Power Automate
 3.  SharePoint Site with Site Collection Administrator
@@ -51,55 +53,60 @@ store excel report in the SharePoint document library.
 Let's get started !!
 
 ## Step 1 - Create a new SharePoint List to stores licenses Product Name
+
 and SKU IDs**
 When we get the user's assigned licenses from Graph API then it returns
 SKU ID only. So, we can use this list to filter Product Names from SKU
-ID. [Click
-here](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/licensing-service-plan-reference) to
+ID. [Select
+here](https://docs.microsoft.com/azure/active-directory/enterprise-users/licensing-service-plan-reference) to
 get a list of licenses product names and SKU IDs.
 
 Create a new list called "licenses" in SharePoint Site and add a column
 called GUID. Add Product Name and GUID from above Microsoft Documents.
 {{< image alt="Reports 13.jpg" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports 13.jpg" >}}
 
-## Step 2 - Register Application and Azure Active Directory.
+## Step 2 - Register Application and Azure Active Directory
 
 ### Application Creation
 
 -   Open [Azure portal](http://portal.azure.com/)
--   Click on azure active directory
--   Click on App registration
--   Click on New Registration
+-   Select  azure active directory
+-   Select  App registration
+-   Select  New Registration
 -   Enter the Name of the application
 -   Select 'Accounts in this organizational directory only '
--   Click on register
+-   Select  register
 -   Copy Application ID and Tenant ID and put it aside, we will use it
     in power automate.
+
 ### Generate Secret Key
 
--   Click on 'Certificates & secrets' in the newly created application.
--   Click on New client secret
+-   Select  'Certificates & secrets' in the newly created application.
+-   Select  New client secret
 -   Add description
 -   Select Expires to 24 months.
--   Click on Add
+-   Select  Add
 -   Copy the value of the Secret key and put it aside, we will use it in
     power automate.
+
 ### Grant API Permission
 
--   Click on API Permission
--   Click on 'Add a permission'
+-   Select  API Permission
+-   Select  'Add a permission'
 -   Select Microsoft Graph
 -   Select Application Permission
 -   Find and Select '**User.Read.All**'
--   Click on Add Permission
--   Click on **Grant Admin consent** for <Tenant Name>
+-   Select  Add Permission
+-   Select  **Grant Admin consent** for `<Tenant Name>`
 
 ## Step 3 - Create Power Automate from Recurrence trigger
 
 Open power automates from App list in Microsoft 365.
 Create new flow -> Select Recurrence -> Select month -> Create.
 {{< image alt="Create report of assigned licenses for users from Microsoft 36502.gif" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Create report of assigned licenses for users from Microsoft 36502.gif" >}}
+
 ## Step 4 - Initialize variables in Power Automate
+
 We need 7 variables that will store multiple values and use them to
 generate reports.
 {{< image alt="Reports2.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports2.png" >}}
@@ -107,11 +114,13 @@ Paste Tenant ID, Client Secret and Client ID which we had from the azure
 active directory.
 
 ## Step 5 - Get Licenses from SharePoint list in Power Automate
+
 We will use 'Get Items' and 'Append to array object' connectors in
 power to automate.
 {{< image alt="Reports 3.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports 3.png" >}}
 
 ## Step 6 - Create report file from excel template
+
 We will get file content from a template file that is store in the
 SharePoint document library and create a new file that will be used to
 store users' details in it.
@@ -121,6 +130,7 @@ location in SharePoint.
 {{< image alt="Report4.1.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Report4.1.png" >}}-align-inline image-alt="Report4.1.png" style="width: 625px;"}
  
 ## Step 7 - Access Excel worksheet in Power Automate
+
 We will get worksheets from excel sheet using Excel Online connector in
 Power automate.
 Get all sheets from excel file using "get Worksheet: connector.
@@ -172,9 +182,6 @@ JSON Schema for Parse JSON should be the same as below.
 }
 ```
  
- 
- 
-
  
 ## Step 8 - Get Users using Graph API
 
@@ -268,12 +275,15 @@ We have an array of Product name list which we had created on starting
 of the automation.
 Let's Access the assigned Licenses object from the user's object which
 is getting on the response of HTTP request.
+
 {{< image alt="Create report of assigned licenses for users from Microsoft 36508.jpg" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Create report of assigned licenses for users from Microsoft 36508.jpg" >}}
+
 Let's filter the array if we found licenses are assigned to the user.
 We can get SKU ID from the response and we do filter from licenses array
 based on SKU IDs.
 "Filter Array" action is used to filter items from an existing array
 in power automate.
+
 {{< image alt="Reports9.png" src="images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports9.png" >}}
 
 ## Step 10

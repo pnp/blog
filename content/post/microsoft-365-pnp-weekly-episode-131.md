@@ -50,8 +50,9 @@ inclusive and diverse.
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -75,6 +76,7 @@ everyone for your contributions to the community!
 
 **Microsoft articles:**
 
+
  
 
 -   [What's new for Teams phones | June
@@ -92,11 +94,12 @@ everyone for your contributions to the community!
 
 **Community articles:**
 
+
  
 
 -   [Microsoft Graph Mailbag -- A deeper look into the Microsoft Graph
     PowerShell
-    SDK](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-graph-mailbag-a-deeper-look-into-the-microsoft-graph-powershell-sdk/?WT.mc_id=m365-31622-wmastyka)
+    SDK](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-mailbag-a-deeper-look-into-the-microsoft-graph-powershell-sdk/?WT.mc_id=m365-31622-wmastyka)
     - [Matt Krause](https://www.twitter.com/mattckrause) (Microsoft) |
     \@mattckrause
 -   [Microsoft 365 PnP Community -- June 2021
@@ -181,6 +184,7 @@ everyone for your contributions to the community!
  
 
 **Additional resources:**
+
 
  
 

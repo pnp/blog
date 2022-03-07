@@ -57,7 +57,7 @@ The solution is pretty straightforward. We're basically going to create
 a PnP site template, add our list data to it, and then apply that
 template to our target site.
  
-#### Step 1 - Connect to the Source Site 
+### Step 1 - Connect to the Source Site 
 
 The first thing we'll do is connect to the source site.
  
@@ -65,7 +65,7 @@ The first thing we'll do is connect to the source site.
 Connect-PnPOnline -Url https://constoso.sharepoint.com/sites/star-wars -Interactive
 ```
  
-#### Step 2 - Create the Template 
+### Step 2 - Create the Template 
 
 We actaully have two lists we need to copy. *Fellowship Members* is the
 list we care about but, since it contains a lookup column, we need to
@@ -75,7 +75,7 @@ grab the *Middle Earth Locales* lookup list as well.
 Get-PnPSiteTemplate -Out Lists.xml -ListsToExtract "Middle Earth Locales", "Fellowship Members" -Handlers Lists
 ```
  
-#### Step 3 - Get the List Data 
+### Step 3 - Get the List Data 
 
 We'll use the `Add-PnPDataRowToSiteTemplate` cmdlet to populate our
 list instances with actual list item. Because we have two lists, we need
@@ -87,7 +87,7 @@ Add-PnPDataRowsToSiteTemplate -Path Lists.xml -List "Middle Earth Locales"
 Add-PnPDataRowsToSiteTemplate -Path Lists.xml -List "Fellowship Members"
 ```
  
-#### Step 4 - Connect to Target Site 
+### Step 4 - Connect to Target Site 
 
 Now we connect to the target site\...
  
@@ -95,7 +95,7 @@ Now we connect to the target site\...
 Connect-PnPOnline -Url https://constoso.sharepoint.com/sites/lotr -Interactive
 ```
  
-#### Step 5 - Apply the Template 
+### Step 5 - Apply the Template 
 
 \...and we apply our template using the `Invoke-PnPSiteTemplate` cmdlet.
  

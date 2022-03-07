@@ -67,7 +67,7 @@ the Office Add-ins community effort.
 
 {{< image alt="maarten-van-stam-github-photo.png" src="images/blog/office-add-in-samples-december-2021-update/maarten-van-stam-github-photo.png" >}}
 [Maarten van
-Stam](https://mvp.microsoft.com/en-us/PublicProfile/33535)
+Stam](https://mvp.microsoft.com/PublicProfile/33535)
 
 Helping review PRs and issues on
 [Office-Add-ins-samples.](https://github.com/OfficeDev/Office-Add-in-samples)
@@ -94,6 +94,6 @@ samples](https://github.com/OfficeDev/PnP-OfficeAddins/issues?q=is%3Aissue+is%3A
     program](https://developer.microsoft.com/office/dev-program).
 -   Try out some samples and get coding quickly with Office add-ins by
     downloading [Script
-    Lab](https://www.microsoft.com/en-us/garage/profiles/script-lab/).
+    Lab](https://www.microsoft.com/garage/profiles/script-lab/).
 -   Automate your solutions with [Office
     Scripts](https://docs.microsoft.com/office/dev/scripts/).

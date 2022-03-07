@@ -36,8 +36,9 @@ this journey. We always welcome feedback on making the community more
 inclusive and diverse.
 
 This episode was recorded on Monday, May 10, 2021.
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 These videos and podcasts are published each week and are intended to be
@@ -53,6 +54,7 @@ Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
 **Events:**
+
 -   May 25-27, 2021- [Microsoft Build
     2021](https://mybuild.microsoft.com/?WT.mc_id=m365-27875-wmastyka)
 -   August 9-11, 2021 - [North American Collaboration
@@ -62,6 +64,7 @@ everyone for your contributions to the community!
 
 
 **Microsoft articles:**
+
 -   [Use SharePoint's new site templates
     today!](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/use-sharepoint-s-new-site-templates-today/ba-p/2304372?WT.mc_id=m365-27875-wmastyka) -
     [Nicole Woon](https://twitter.com/NovelNicole) (Microsoft) | 
@@ -71,11 +74,11 @@ everyone for your contributions to the community!
     [Ian Mikutel](http://www.twitter.com/ianmikutel) (Microsoft)
     | \@ianmikutel
 -   [Understanding the Office Add-ins
-    runtime](https://developer.microsoft.com/en-us/microsoft-365/blogs/understanding-office-add-ins-runtime/?WT.mc_id=m365-27875-wmastyka) -
+    runtime](https://developer.microsoft.com/microsoft-365/blogs/understanding-office-add-ins-runtime/?WT.mc_id=m365-27875-wmastyka) -
     Microsoft
 -   [Application permissions support for assignments API in Microsoft
     Graph now
-    available](https://developer.microsoft.com/en-us/microsoft-365/blogs/application-permissions-support-for-assignments-api-in-microsoft-graph-now-available/?WT.mc_id=m365-27875-wmastyka) -
+    available](https://developer.microsoft.com/microsoft-365/blogs/application-permissions-support-for-assignments-api-in-microsoft-graph-now-available/?WT.mc_id=m365-27875-wmastyka) -
     Microsoft
 -   [SharePoint Syntex Updates - April
     2021](https://techcommunity.microsoft.com/t5/sharepoint-syntex/sharepoint-syntex-updates-april-2021/ba-p/2280653?WT.mc_id=m365-27875-wmastyka) -
@@ -83,6 +86,7 @@ everyone for your contributions to the community!
     | \@cmcnulty2000
 
 **Community articles:**
+
 -   [SharePoint App Catalog Development
     Tips](https://julieturner.net/2021/05/sharepoint-app-catalog-development-tips/?utm_source=rss&utm_medium=rss&utm_campaign=sharepoint-app-catalog-development-tips) -
     [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
@@ -140,6 +144,7 @@ everyone for your contributions to the community!
     (WM Reply) | \@DarrellaaS
 
 **Additional resources:**
+
 -   [Power Platform Sample
     Gallery](https://aka.ms/powerplatform-samples) - for finding easily
     samples from the GitHub - contributions from the community are

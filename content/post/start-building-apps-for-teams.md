@@ -23,6 +23,7 @@ insights. Here are some resources to help you get started.
 
 The Microsoft Teams platform offers you several extensibility points for
 building apps. On Teams you can build:
+
 -   **tabs** that allow you to expose your whole web app inside Teams to
     let users conveniently access it without leaving Teams
 -   **bots** that help people complete tasks through conversations. Bots
@@ -36,10 +37,13 @@ building apps. On Teams you can build:
 
 If you have an existing web or mobile app, you can also bring
 information from Teams into your app.
+
+
 ## Resources for getting started with building apps for Teams 
 
 Sounds interesting? Here are some resources to help you get started
 building apps for Teams.
+
 ### [Develop apps for Microsoft Teams](https://docs.microsoft.com/learn/paths/m365-msteams-associate/?WT.mc_id=m365-15200-wmastyka) (learning path) 
 
 If you learn in a structured way and like to understand the concepts
@@ -73,6 +77,7 @@ implement a specific scenario, you should check out the [Teams app
 templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-15200-wmastyka).
 There are over 40 sample ready-to-use apps including their source code
 for you to explore!
+
 ### [Tutorials for the Microsoft Teams developer platform](https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-dotnet-app-studio?WT.mc_id=m365-15200-wmastyka) 
 
 A part of the docs are tutorials for the Teams developer platform. If
@@ -92,7 +97,7 @@ community calls, offer guidance, record videos, share sample apps, and
 build tools to speed up development. You can find everything we have to
 offer at [aka.ms/m365pnp](https://aka.ms/m365pnp).
 
-# today 
+## today 
 
 Over 250 million users work with Microsoft 365 and Microsoft Teams plays
 a key role in people's workdays. By integrating your app with Teams you

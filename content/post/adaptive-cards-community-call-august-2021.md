@@ -49,8 +49,9 @@ August 12, 2021.
 ## Referenced in this call
 
 -   Documentation -
-    [Extensibility](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/javascript/extensibility)
+    [Extensibility](https://docs.microsoft.com/adaptive-cards/sdk/rendering-cards/javascript/extensibility)
 -   Onboard OEM Contact - <onboardoam@microsoft.com>
+
 
 
 ## Resources in General

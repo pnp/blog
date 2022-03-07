@@ -10,7 +10,7 @@ tags: []
 type: "regular"
 
 
----# Microsoft 365 PnP Community Spotlight: Hugo Bernie
+---
 
 {{< image alt="hugobernier.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-hugo-bernier/hugobernier.jpg" >}}
 

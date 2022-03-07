@@ -10,7 +10,7 @@ tags: []
 type: "regular"
 ---
 
-## {{< image alt="CLI for Microsoft 365 3.12" src="images/blog/cli-for-microsoft-365-v3-12/banner-cli-m365.png" >}}\
+{{< image alt="CLI for Microsoft 365 3.12" src="images/blog/cli-for-microsoft-365-v3-12/banner-cli-m365.png" >}}\
 
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform 
 
@@ -153,8 +153,11 @@ information.
  
 To retrieve information about a given site along with it's associated
 groups, execute:
- 
+
+```bash
     m365 spo web get --webUrl https://contoso.sharepoint.com/subsite --withGroups
+```
+
 ### New script samples 
  
 
@@ -243,6 +246,7 @@ Here are some things that we're currently working on.
 
  
 ### More commands, what else
+
 Microsoft 365 is evolving and new capabilities are being released every
 day. With CLI for Microsoft 365, we aim to help you manage your tenant
 on any platform in a consistent way, no matter which part of Microsoft

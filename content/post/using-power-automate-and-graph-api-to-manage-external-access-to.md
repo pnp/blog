@@ -32,12 +32,12 @@ Also, I have been lucky to have this solution accepted as part of the
 samples in the [Microsoft Patterns And
 Practices](https://pnp.github.io/) initiative, so the Flow, Custom
 Connector and implementation instructions are available in
-GitHub [here](https://github.com/pnp/powerautomate-samples/tree/main/samples/teams-invites-via-graph-api).
+[GitHub](https://github.com/pnp/powerautomate-samples/tree/main/samples/teams-invites-via-graph-api).
 
 ## Getting Hands-On With Graph 
 
 The main part of this flow is numerous calls to the [Graph
-API](https://docs.microsoft.com/en-us/graph/overview). The Graph API is
+API](https://docs.microsoft.com/graph/overview). The Graph API is
 Microsoft's standard endpoint to expose and interact with data relevant
 to your tenant. It includes Microsoft 365 (such as Teams, Exchange,
 SharePoint, Workspace Analytics), Enterprise and Mobility and even
@@ -45,7 +45,7 @@ Windows 10 activities and devices. It really should be seen as a single
 stop shop for anything and everything in your tenant. The only thing it
 doesn't expose is D365 data.
 There is a [Graph
-connector](https://docs.microsoft.com/en-us/connectors/microsoftgraphsecurity/) already
+connector](https://docs.microsoft.com/connectors/microsoftgraphsecurity/) already
 available in Power Automate, but it is very limited to Security
 considerations. 
 
@@ -56,7 +56,7 @@ in a connector, you are enabling other members of your organization to
 re-use the connector and security you establish.
 Microsoft also allows you to "play" with the Graph API as well, via
 the [Graph
-Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer).
+Explorer](https://developer.microsoft.com/graph/graph-explorer).
 This web interface shows you all the sample calls you can make and also
 what permissions you require to call it and allows you to set up a call
 without using Power Automate or configuring a connector. It really
@@ -116,7 +116,7 @@ Leave this tab open and let's go and define our custom connector.
 ## Defining The Custom Connector 
 
 Jan Bakker has done an excellent job of walking you through
-this, [here](https://powerusers.microsoft.com/t5/Power-Automate-Community-Blog/Build-a-custom-connector-for-Microsoft-Graph-API/ba-p/647492).
+this, [Build a custom connector](https://powerusers.microsoft.com/t5/Power-Automate-Community-Blog/Build-a-custom-connector-for-Microsoft-Graph-API/ba-p/647492).
 His article goes into a lot of detail, so I will just take you through
 what is needed for this project.
 In make.powerapps.com, select the appropriate environment and chose
@@ -147,7 +147,7 @@ should be presented with the below screen.
 
 Now, this is where we need to use the values you saved (you did save
 them?) when you were registering your app
-up [here](https://linked365.blog/2021/05/06/using-power-automate-and-graph-api-to-manage-external-access-to-teams/#Granting-Permissions).
+up 
 Client Id is populated with the Application (client) ID, the Client
 secret is populated with the Value from the Client Secret grid. Login
 URL will be populated for you. The Resource URL value should be
@@ -158,7 +158,7 @@ your App registration to complete the security process.
 {{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_10-1620296727075.png" >}}
 
 I *think* that this is now standard, but just in case, copy the Redirect
-URL and go back to your App Registration in Azure AD. Click on the link
+URL and go back to your App Registration in Azure AD. select  the link
 highlighted.
 
 
@@ -372,6 +372,6 @@ user to the team.
 That's it! There is a lot of configuration here, but you can see how
 you can extend your usage of Power Automate to automate a function
 usually confined to manual work by the team owner.
-\
+
 This post was originally published on
 [LinkeD365.blog](https://linked365.blog/2021/05/06/using-power-automate-and-graph-api-to-manage-external-access-to-teams/)

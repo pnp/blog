@@ -17,7 +17,10 @@ Interest Group (SIG) community call from March 18, 2021.
 {{< image alt="sig-18th-march-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-18th-of-march/sig-18th-march-recording.png" >}}
  
 
+
 ## Call summary
+
+
 
 Latest news from Microsoft 365 engineering and updates on open-source
 projects: PnP .NET libraries, PnP PowerShell, modernization tooling, on
@@ -153,6 +156,9 @@ Thank you for your work. Samples are often showcased in Demos.
     [Thomy Gölles](http://twitter.com/thomyg) (Solvion) | \@thomyg
 
     \- [43:42](https://youtu.be/kPGpuGPtKHM?t=2622)
+
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -205,12 +211,14 @@ slides.
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-118-15th-of-march-2021/)
 
 -   Viva Connections <https://aka.ms/VivaConnections>
+
+
 **General resources**:
 
 -   [SharePoint look book](https://lookbook.microsoft.com/)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis/)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis/)
 -   [Microsoft 365 community (PnP) videos](http://aka.ms/m365pnp-videos)
     | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -235,7 +243,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program) -
+    site](https://developer.microsoft.com/office/dev-program) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -244,20 +252,23 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series/)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series/)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
--   **SharePoint Framework call --** March 25th at 7:00 am PDT |
+
+
+-   **SharePoint Framework call** -- March 25th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **M365 General Dev call --** April 1st at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
 -   **Microsoft Graph call - April** 6th at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint Framework call --** April 8th at 7:00 am PDT |
+-   **SharePoint Framework call** -- April 8th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Adaptive Cards monthly call --** April 8th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>

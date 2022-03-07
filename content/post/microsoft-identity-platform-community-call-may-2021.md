@@ -17,6 +17,7 @@ type: "regular"
 
 ## Call summary
 
+
 This month's in-depth topic:  **Using Conditional Access Auth Context in
 your app for step-up authentication**.   Use the Azure AD Conditional
 access engine's new Auth Context feature to trigger a demand for step-up
@@ -30,6 +31,7 @@ more secure operations and data behind stronger authentication controls.
 Program Manager presenters -- Caleb Baker and Kalyan Krishna.  This
 session was delivered and recorded on May 20, 2021.  Live and in chat
 Q&A throughout call. 
+
 
 ## Resources
 
@@ -45,29 +47,29 @@ Q&A throughout call. 
 
 -   Documentation - [Developers' guide to Conditional Access
     authentication
-    context](https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-guide-conditional-access-authentication-context)
+    context](https://docs.microsoft.com/azure/active-directory/develop/developer-guide-conditional-access-authentication-context)
 
 -   Documentation - [MS Graph
-    -](https://docs.microsoft.com/en-us/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
-    [authenticationContextClassReference](https://docs.microsoft.com/en-us/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
+    -](https://docs.microsoft.com/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
+    [authenticationContextClassReference](https://docs.microsoft.com/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
     [resource
-    type](https://docs.microsoft.com/en-us/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
+    type](https://docs.microsoft.com/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
 
 -   Documentation - [Claims challenges, claims requests, and client
-    capabilities](https://docs.microsoft.com/en-us/azure/active-directory/develop/claims-challenge)
+    capabilities](https://docs.microsoft.com/azure/active-directory/develop/claims-challenge)
 
 -   Documentation - [Microsoft identity platform
-    documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
+    documentation](https://docs.microsoft.com/azure/active-directory/develop/)
 
 -   Documentation - [Microsoft Authentication Libraries
-    (MSAL)](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview)
+    (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview)
 
 -   Documentation - [Microsoft identity platform code
-    samples](https://docs.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code) 
+    samples](https://docs.microsoft.com/azure/active-directory/develop/sample-v2-code) 
 
 -   Documentation - [Building Zero Trust ready apps with the Microsoft
     identity
-    platform](https://docs.microsoft.com/en-us/security/zero-trust/identity-developer)
+    platform](https://docs.microsoft.com/security/zero-trust/identity-developer)
 
 -   Documentation - [Introduction to Conditional
     Access](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
@@ -81,6 +83,8 @@ Q&A throughout call. 
 ** **
 
 ## Actions
+
+
 
 -   Submit your feedback and topic suggestions
     - <https://aka.ms/IDDevCommunityCallSurvey> 

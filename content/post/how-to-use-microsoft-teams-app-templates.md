@@ -28,7 +28,7 @@ Developer](https://github.com/OfficeDev/)). You can install each app as
 it is or clone the GitHub repository of an app and start developing it
 for your own purposes. You can find a detailed list of app templates
 here: [App Templates for Microsoft
-Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates).
+Teams](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates).
 In time of writing this article there are already 45 templates
 available.
 
@@ -36,28 +36,28 @@ App templates are developed using several different technologies and an
 app can utilize one or more of there technologies.
 
 -   Microsoft Teams Bots ([What are conversational
-    bots?](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/what-are-bots))
+    bots?](https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots))
 -   Tabs ([What are Microsoft Teams custom
-    tabs?](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs))
+    tabs?](https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs))
 -   Personal apps (tabs available on Teams left-rail)
 -   Message extensions ([What are messaging
-    extensions?](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions))
+    extensions?](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions))
 -   Power Apps and Power Automate workflows ([Teams integration with
     Microsoft Power
-    Platform](https://docs.microsoft.com/en-us/microsoftteams/teams-power-platfom-integration))
+    Platform](https://docs.microsoft.com/microsoftteams/teams-power-platfom-integration))
 -   SharePoint sites, lists, pages and templates
 
 **Prerequisites**
 
 -   Microsoft 365 tenant. If you are a developer, you can get a free
     Microsoft 365 Developer tenant by [joining a Microsoft 365 Developer
-    program](https://developer.microsoft.com/en-us/microsoft-365/dev-program). 
+    program](https://developer.microsoft.com/microsoft-365/dev-program). 
 -   Depending on an app template, you may also require a Microsoft Azure
     subscription for running web applications, workflows and for data
     storage. You can get a free trial subscription with \$200 credits
     for first 30 days and 12 months of popular free services
     here: [Azure trial
-    subscription](https://azure.microsoft.com/en-us/free/)
+    subscription](https://azure.microsoft.com/free/)
 -   Some templates may require a Power BI license, which is now included
     in new Microsoft 365 Developer subscription tenants. You can also
     use Power BI Pro trial license on your tenant.
@@ -111,7 +111,7 @@ when you are testing, so you can easily manage app's resources and
 access to them. Choose something unique for Base Resource Name, it's
 quite commonly used as part of deployed service URL endpoints, so it
 needs to be globally unique. Refer the app deployment documentation for
-other configuration options. Once complete click Create and Azure
+other configuration options. Once complete select Create and Azure
 resource deployment begins. Depending on a type and number of services,
 it can take up to 15 minutes to complete. Azure portal will notify when
 resources are deployed.
@@ -133,7 +133,7 @@ lists, to SharePoint Online. SharePoint resources are created with a
 PowerShell script provided in deployment guide, with a Power Automate
 Flow or manually. If the app is using a premade site template,
 deployment is done from SharePoint Lookbook. For scripts you need [PnP
-PowerShell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets) module
+PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets) module
 installed and easiest way is to install it from PowerShell Gallery by
 running a command
  
@@ -175,7 +175,7 @@ Teams. Depending on your tenant's configuration, there is two options
 for installing an app. With sideloading you can upload the app to you or
 your team. App is not available for anyone else in your tenant. To
 sideload an app open "Apps" in bottom left corner on Teams client,
-click "*Upload a custom app*" and select "*Upload for me or my
+select "*Upload a custom app*" and select "*Upload for me or my
 teams*". If the option is not available for you, sideloading is
 disabled. Configure the app and you're done.
 

@@ -16,10 +16,12 @@ Recently I shared with the PnP community an event page I was working on
 and how I used SharePoint, Spaces and formatted Lists to design the user
 experience. In this post is explained the details of how the page, space
 and lists are made.
+
 {{< image alt="AnandVRagav_0-1637611061380.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_0-1637611061380.png" >}}
  
 I will break down the components first and then go into the details one
 by one.
+
 1.  a headerless SharePoint page as the event page
 2.  a SharePoint Space
 3.  an events list in SharePoint
@@ -49,11 +51,15 @@ For comparison see the amount of space saved below.
 
 For comparison see the amount of space saved below.
 {{< image alt="" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_2-1637607984045.png" >}}
+
 {{< image alt="" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_4-1637607984059.png" >}}
+
 For the page layout choose the vertical section. This puts a vertical
 section for the full length of the page on the right-hand-side.
 {{< image alt="" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_6-1637608010041.png" >}}
+
 ## SharePoint Space
+
 Within the same SharePoint site, I activated
 Spaces. Spaces is a feature that needs to be activated at each site
 level. Do that from Site settings \> Manage Site features \> Spaces \>
@@ -62,7 +68,7 @@ Activate.
 {{< image alt="" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_8-1637608057361.png" >}}
 
 You can learn how to create Spaces from the [Microsoft support
-documentation](https://support.microsoft.com/en-us/office/create-a-sharepoint-space-77e0bb2a-625e-40a9-b38e-1ca84db6cf65 "Create a Space")
+documentation](https://support.microsoft.com/office/create-a-sharepoint-space-77e0bb2a-625e-40a9-b38e-1ca84db6cf65 "Create a Space")
 [Below image snapshot shows the design of my Space and the web parts I
 used.]
  
@@ -84,6 +90,7 @@ taste.]
 <iframe src="https://<Replace with your Space URL>" width="100%" height="550" style="border:1px solid black;">
 </iframe>
 ```
+
 [To get a similar result as shown below you may need to adjust the
 positions of the web parts in the Space by checking how they are aligned
 once embedded on the event
@@ -102,9 +109,9 @@ information is needed to let users add the event to their calendars. To
 create the events, use the Events web part on a separate hidden page or
 use the events list from the backend through Site contents. Use
 [Microsoft support
-documentation](https://support.microsoft.com/en-us/office/use-the-events-web-part-5fe4da93-5fa9-4695-b1ee-b0ae4c981909#bkmk_addevent)
+documentation](https://support.microsoft.com/office/use-the-events-web-part-5fe4da93-5fa9-4695-b1ee-b0ae4c981909#bkmk_addevent)
 for help
-list**[ ]**to
+list****to
 display the sessions information: **[To display the sessions on the
 event page, I created a list in the SharePoint site with the below
 columns. The field labels for the columns were renamed later to suit the
@@ -112,11 +119,12 @@ event
 needs.
  
 {{< image alt="AnandVRagav_0-1637608851038.png" src="images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_0-1637608851038.png" >}}
+
 style="width: 999px;"}
  
 [If you are new to lists and want to learn how to work with lists and
 add entries, follow the [Microsoft
-documentation](https://support.microsoft.com/en-us/office/introduction-to-lists-0a1c3ace-def0-44af-b225-cfa8d92c52d7).
+documentation](https://support.microsoft.com/office/introduction-to-lists-0a1c3ace-def0-44af-b225-cfa8d92c52d7).
 
 After adding the session entries, I formatted the columns using JSON to
 give it a better format and styling like the below. I recommend creating
@@ -141,7 +149,7 @@ channel.
 
 To get that format, use the below JSON code. Open the drown-down arrow
 next to the column header \> select column settings \> select Format
-this column. Then paste the below JSON and click save.
+this column. Then paste the below JSON and select save.
 
 ```json
 {
@@ -740,7 +748,8 @@ cover the Dynamic filtering in the next section.
  
  
 ## Optional: a SharePoint list to store session tracks information
- I
+
+I
 added a support list in my site to help users filter down the sessions
 by tracks. This list is what is used to dynamically filter the sessions
 list as you see in the image above. So, when the user selects the track
@@ -883,6 +892,7 @@ column.
 
 Create a view for the list and apply the below JSON under "Format
 view"
+
 ```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/tile-formatting.schema.json",
@@ -1025,7 +1035,7 @@ view"
 ```
  
 The result is a formatted people web part. Another good thing about
-this it also lets the users hover/click on the people to get their
+this it also lets the users hover/select  the people to get their
 office profile
 information.
  

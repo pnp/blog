@@ -15,7 +15,7 @@ type: "regular"
 ## Why? 
 
 Ever since I saw the post [Source code files for Canvas
-apps](https://powerapps.microsoft.com/en-us/blog/source-code-files-for-canvas-apps/) from
+apps](https://powerapps.microsoft.com/blog/source-code-files-for-canvas-apps/) from
 Microsoft, I thought this might come in handy for some of my Canvas
 Apps. As a non-coding Citizen Developer, I just thought that day would
 be more in the future. A day when this feature would not be experimental
@@ -75,10 +75,7 @@ Unzip this file and save the unzipped folder in a local place of your
 computer. I chose to store it next to my .msapp file so the directories
 would be near each other:
 
-
-``` 
-C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master
-```
+`C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master`
 
 4) Then just run the build.cmd file of the unzipped folder as
 Administrator to be sure:
@@ -90,12 +87,11 @@ After a successful run, the bin folder will have a number of files in
 the directory. The following path is the one to remember for
 
 
-``` 
-C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master\PowerApps-Language-Tooling-master\bin\Debug\PASopa
-```
+
+`C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master\PowerApps-Language-Tooling-master\bin\Debug\PASopa`
 
 Please note that your directory path may be different at the beginning,
-but from the last \\PowerApps-Langauage-Tooling-master\\ section it
+but from the last \\PowerApps-Language-Tooling-master\\ section it
 should be the same. The PASopa file is where the magic happens.
 
 5) Now open the default Windows Command Prompt and Run as
@@ -125,7 +121,7 @@ cd C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master\PowerApps-Lan
 **8)** Execute the following command to unpack the .msapp files to the
 desired folder:
 
-``` 
+```PowerShell
 pasopa -unpack C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master\ConfigScreen.msapp C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master\ConfigScreenSourceFiles
 ```
 
@@ -144,7 +140,7 @@ open up a whole folder in one go:
 
 {{< image alt="Visual Studio Code opening a whole Folder and Sub Folders to edit individual files" src="images/blog/power-apps-source-code-editing-for-canvas-apps/VisualStudioCode_Unpacked_msapp.png" >}} 
 
-9) Now you can remove frozen screens, rename controls in bulk,
+1) Now you can remove frozen screens, rename controls in bulk,
 update variables in bulk or any other action which in Power Apps Studio
 would be a
 hassle
@@ -152,7 +148,7 @@ hassle
 When this is all done, you can just repack the files with a command
 like:
 
-```
+```PowerShell
 pasopa -pack  ConfigScreen.msapp C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master\ConfigScreenSourceFiles 
 ```
 

@@ -11,7 +11,6 @@ type: "regular"
 
 
 ---
-## Learn how to combine Logic Apps, Azure Functions & Key Vault to send a friendly SMS reminder
 
 Yay,  this is a new blog post series on how to put the FUN
 in Azure
@@ -210,7 +209,7 @@ Now its time to add some functionality to our app:
 -   Paste in the following snippet:
 -   Don't forget to hit the save button -- I always do ¯\\\_(ツ)\_/¯
 
-```
+```JavaScript
     const accountSid = process.env.TWILIO_SID;
     const authToken = process.env.TWILIO_TOKEN;
     const client = require('twilio')(accountSid, authToken);
@@ -245,7 +244,7 @@ Please note
     variables -- If this is your first Azure Function app, I can highly
     recommend that you have a look over here: [JavaScript developer
     reference for Azure Functions | Microsoft
-    Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=v2)
+    Docs](https://docs.microsoft.com/azure/azure-functions/functions-reference-node?tabs=v2)
 -   that we of course want a success (for status 200/default) or error
     message (for status 500) to log
 -   More information on how to work with Twilio -- including code
@@ -417,8 +416,6 @@ may read the secrets. Head over to the Key vault and 
 {{< image alt="LuiseFreese_51-1627338622825.png" src="images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_51-1627338622825.png" >}}
  
 
-\
-
 Now fill out the form as follows: 
 
 -   Key permissions: **Get** and **List**
@@ -526,7 +523,7 @@ nicely together. Some thoughts though for everyone who wondered: 
     here](https://www.youtube.com/watch?v=_K30eBabb3A)
 -   yes, you can do all of the above in Azure CLI as well, to get you
     started, please read here: [Azure Functions | Microsoft
-    Docs](https://docs.microsoft.com/en-us/cli/azure/service-page/azure%20functions?view=azure-cli-latest)
+    Docs](https://docs.microsoft.com/cli/azure/service-page/azure%20functions?view=azure-cli-latest)
 
 You have a more fancy use case? Let me know about it! Just imagine that
 we can integrate other services/data in Azure and/or Microsoft 365 and
@@ -536,20 +533,20 @@ solution. 
 
 ## Additional resources 
 
-#NeverStopLearning! Here are some resources that may help you get
+NeverStopLearning! Here are some resources that may help you get
 started! 
 
 [Getting started with Azure Functions | Microsoft
-Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-get-started?pivots=programming-language-javascript)
+Docs](https://docs.microsoft.com/azure/azure-functions/functions-get-started?pivots=programming-language-javascript)
 
 [Quickstart - Create integration workflows with Azure Logic Apps in the
 Azure portal - Azure Logic
-Ap\...](https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-first-logic-app-workflow)
+Ap\...](https://docs.microsoft.com/azure/logic-apps/quickstart-create-first-logic-app-workflow)
 
 [Azure Quickstart - Set and retrieve a secret from Key Vault using Azure
 portal | Microsoft
-Docs](https://docs.microsoft.com/en-us/azure/key-vault/secrets/quick-create-portal)
+Docs](https://docs.microsoft.com/azure/key-vault/secrets/quick-create-portal)
 
 [Managed identities for Azure resources | Microsoft
-Docs](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
+Docs](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)
  

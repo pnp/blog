@@ -24,6 +24,7 @@ from <https://aka.ms/sp-call>.
 
 ## Call summary
 
+
 If you're looking at this blog post, then you are at the new Microsoft
 365 PnP Community hub at Microsoft Tech Communities!  Please take a
 moment to look around. The [Microsoft 365 Update - Community (PnP) |
@@ -56,7 +57,10 @@ Topics along with aligned content and SMEs are initially discovered
 through AI algorithms, then confirmed and curated by humans.   Topics
 draws on capabilities from across Microsoft and can be extended by
 you.  
+
 ## Actions
+
+
 
 -   Register for Sharing is Caring Events
     -   First Time Contributor Session -- [March
@@ -84,7 +88,7 @@ you.  
 You can check the latest updates in the [monthly
 summary](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-community-pnp-march-2021-update/ba-p/2188616)
 and at
-[aka.ms/spdev-blog](https://developer.microsoft.com/en-us/sharepoint/blogs/).
+[aka.ms/spdev-blog](https://developer.microsoft.com/sharepoint/blogs/).
 
 This call was delivered on Tuesday, March 9, 2021. The call agenda is
 reflected below with direct links to specific sections.  You can jump
@@ -94,6 +98,7 @@ the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
 
 **Call Agenda:**
+
 -   UserVoice status for non-dev focused SharePoint entries --
     [4:10](https://youtu.be/xXmpIVdokSs?t=250)
 -   UserVoice status for dev focused SharePoint Framework entries --
@@ -110,11 +115,13 @@ SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found at
     [OneDrive](https://1drv.ms/p/s!AlposW7ozA_90jQWIX5-19SSp93e?e=UXweGM).
 
+
 ## Resources
 
 Additional resources on covered topics and discussions.
+
 -   Documentation - [Set up Microsoft Viva
-    Topics](https://docs.microsoft.com/en-us/microsoft-365/knowledge/set-up-topic-experiences)
+    Topics](https://docs.microsoft.com/microsoft-365/knowledge/set-up-topic-experiences)
 
 -   Overview - [Microsoft Viva](https://aka.ms/Viva) 
 
@@ -129,7 +136,7 @@ Additional resources on covered topics and discussions.
     Center](https://aka.ms/KCS) 
 
 -   Documentation - [Microsoft Search Graph Content
-    Connectors](https://docs.microsoft.com/en-us/MicrosoftSearch/connectors-overview)
+    Connectors](https://docs.microsoft.com/MicrosoftSearch/connectors-overview)
       
 
 -   PnP Weekly -- Episode 117 with guest Bert Jansen (Microsoft) |
@@ -145,19 +152,20 @@ Additional resources on covered topics and discussions.
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 
-**Additional Resources:**
+**Additional resources:**
+
 
 -   [PnP Weekly - Videos](https://aka.ms/pnpweekly)
 -   [PnP Weekly - Podcasts](http://pnpweekly.podbean.com)
 -   [M365 Community Documentation](https://aka.ms/m365-community-docs) -
     (non-dev)
 -   [SharePoint Documentation and
-    Guidance](https://docs.microsoft.com/en-us/sharepoint/) -
+    Guidance](https://docs.microsoft.com/sharepoint/) -
     (technical)
 -   [SharePoint Framework
-    v1.11](https://developer.microsoft.com/en-us/sharepoint/blogs/announcing-sharepoint-framework-1-11-extend-more-of-microsoft-teams-and-publish-to-appsource/)
+    v1.11](https://developer.microsoft.com/sharepoint/blogs/announcing-sharepoint-framework-1-11-extend-more-of-microsoft-teams-and-publish-to-appsource/)
 -   [SharePoint Framework v1.11 release
-    notes](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/release-1.11.0)
+    notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.11.0)
 -   [Exploring how to get started on open-source and community
     work?](https://aka.ms/sharing-is-caring)
 -   [SharePoint Starter
@@ -170,10 +178,12 @@ Additional resources on covered topics and discussions.
 -   SharePoint Development UserVoice - new feature requests -
     <http://aka.ms/spdev-uservoice>
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 -   **Office add-in monthly call --** March 10th at 8 AM PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
--   **SharePoint Framework call --** March 11th at 07:00am PDT |
+-   **SharePoint Framework call** -- March 11th at 07:00am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Adaptive Cards monthly call -** March 11th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
@@ -190,6 +200,7 @@ Additional resources on covered topics and discussions.
 \"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics -
 <http://aka.ms/m365pnp>.
+
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

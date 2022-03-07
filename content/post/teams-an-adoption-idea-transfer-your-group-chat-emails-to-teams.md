@@ -37,7 +37,7 @@ provide a summary of the email I am transferring, from, subject and body
 preview and in my case the option to start a one to one chat with the
 sender or a group chat if there are more than one recipients of the
 email. This is done using the [Deep
-Link](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/deep-links#generating-a-deep-link-to-a-chat) feature
+Link](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/deep-links#generating-a-deep-link-to-a-chat) feature
 of Teams.
 I have supplied a copy/paste option at the end of my post that will
 allow you to replicate this in your personal PowerAutomate / Teams
@@ -61,16 +61,19 @@ emails.  You've therefore a couple options for the get group email
 compose action, do you want to include cc'd or not in the Group Chat
 Deep Link?  The below sample snippet expression includes the
 ccRecipients, but feel free to adjust as necessary.
+
 ```json
 replace(tolower(concat(triggerOutputs()?[‘body/toRecipients’], ‘;’, triggerOutputs()?[‘body/from’], ‘;’, triggerOutputs()?[‘body/ccRecipients’])), ‘;’, ‘,’)
 ```
+
 The second and final step is an adaptive card built via [adaptive cards
 designer](https://adaptivecards.io/samples/).  It's a steep learning
 curve but Designer site gives you plenty of sample cards to experiment
 with and it is here that you need to include the [deep
-links](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/deep-links#generating-a-deep-link-to-a-chat) to
+links](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/deep-links#generating-a-deep-link-to-a-chat) to
 your new Teams conversations which will automatically launch a teams
 conversation with these users.
+
 **The User Experience**
 My colleague Alex, sends me an email with a list of colleagues in the to
 field.  Before the conversation gets out of control, I simply flag the
@@ -81,6 +84,7 @@ Within a matter of seconds, basically as fast as your Flow is triggered,
 a Flow Bot message is received to my Teams application with the subject
 and summary email body including a link to both a one to one and group
 chat.  
+
 {{< image alt="DamoBird365_2-1619420664133.png" src="images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_2-1619420664133.png" >}}
 
 Clicking on that Group DM in Teams button results in an opening
@@ -89,6 +93,7 @@ the deep link.  Now it's time to get the conversation going.
 {{< image alt="DamoBird365_3-1619420755529.png" src="images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_3-1619420755529.png" >}}
 
 **Want to try the solution quickly?**
+
 Did you know that you can copy and paste Cloud Flow actions between
 environments really easily?  Simply by creating a new Cloud Flow with
 the "When an email is flagged" trigger you can then copy the provided
@@ -104,6 +109,7 @@ your own email address to receive the Adaptive Card.
 ```json
 {"id":"f616b2c7-1645-4360-aff5-1710-a2bfb6a1","brandColor":"#8C3900","connectionReferences":{"shared_office365":{"connection":{"id":"/providers/Microsoft.PowerApps/apis/shared_office365/connections/shared-office365-2c7a215d-616e-4cc2-9dab-9d05f14c21a5"}},"shared_teams_1":{"connection":{"id":"/providers/Microsoft.PowerApps/apis/shared_teams/connections/shared-teams-c32e6b36-e3dd-4ca6-806d-5969ba7e6dee"}}},"connectorDisplayName":"Control","icon":"data&colon;image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KIDxwYXRoIGQ9Im0wIDBoMzJ2MzJoLTMyeiIgZmlsbD0iIzhDMzkwMCIvPg0KIDxwYXRoIGQ9Im04IDEwaDE2djEyaC0xNnptMTUgMTF2LTEwaC0xNHYxMHptLTItOHY2aC0xMHYtNnptLTEgNXYtNGgtOHY0eiIgZmlsbD0iI2ZmZiIvPg0KPC9zdmc+DQo=","isTrigger":false,"operationName":"DamoBird365_Transfer_Email_To_Teams","operationDefinition":{"type":"Scope","actions":{"Get_All_To_and_From_Emails":{"type":"Compose","inputs":"@replace(tolower(concat(triggerOutputs()?['body/toRecipients'], ';', triggerOutputs()?['body/from'])), ';', ',')","runAfter":{}},"Post_your_own_adaptive_card_as_the_Flow_bot_to_a_user":{"type":"OpenApiConnection","inputs":{"host":{"connectionName":"shared_teams_1","operationId":"PostUserAdaptiveCard","apiId":"/providers/Microsoft.PowerApps/apis/shared_teams"},"parameters":{"PostAdaptiveCardRequest/recipient/to":"youremail[at]yourdomain[dot]com;","PostAdaptiveCardRequest/messageBody":"{\n    \"type\": \"AdaptiveCard\",\n    \"body\": [\n        {\n            \"type\": \"TextBlock\",\n            \"size\": \"Medium\",\n            \"weight\": \"Bolder\",\n            \"text\": \"Transfer Email to Chat\",\n            \"wrap\": true\n        },\n        {\n            \"type\": \"ColumnSet\",\n            \"columns\": [\n                {\n                    \"type\": \"Column\",\n                    \"items\": [\n                        {\n                            \"type\": \"TextBlock\",\n                            \"weight\": \"Bolder\",\n                            \"text\": \"@{triggerOutputs()?['body/from']}\",\n                            \"wrap\": true\n                        },\n                        {\n                            \"type\": \"TextBlock\",\n                            \"spacing\": \"None\",\n                            \"text\": \"@{triggerOutputs()?['body/subject']}\",\n                            \"isSubtle\": true,\n                            \"wrap\": true\n                        }\n                    ],\n                    \"width\": \"stretch\"\n                }\n            ]\n        },\n        {\n            \"type\": \"TextBlock\",\n            \"text\": \"@{triggerOutputs()?['body/bodyPreview']}\",\n            \"wrap\": true\n        }\n    ],\n  \"actions\": [\n    {\n      \"type\": \"Action.OpenUrl\",\n      \"title\": \"Start Group DM in Teams\",\n      \"url\": \"https://teams.microsoft.com/l/chat/0/0?users=@{outputs('Get_All_To_and_From_Emails')}&topicName=@{triggerOutputs()?['body/subject']}&message=Hi, regarding your Email (@{triggerOutputs()?['body/subject']}). \"\n    },\n    {\n      \"type\": \"Action.OpenUrl\",\n      \"title\": \"Start 1:1 DM in Teams\",\n      \"url\": \"https://teams.microsoft.com/l/chat/0/0?users=@{triggerOutputs()?['body/from']}&topicName=@{triggerOutputs()?['body/subject']}&message=Hi, regarding your Email (@{triggerOutputs()?['body/subject']}). \"\n    },\n  ],\n    \"$schema\": \"http://adaptivecards.io/schemas/adaptive-card.json\",\n    \"version\": \"1.2\"\n}","PostAdaptiveCardRequest/messageTitle":"Transfer Email To Teams"},"authentication":"@parameters('$authentication')"},"runAfter":{"Get_All_To_and_From_Emails":["Succeeded"]}}},"runAfter":{},"description":"***Please make sure you update the TO: in the Adaptive Card***"}}
 ```
+
 **Summary**
 
 Get that internal conversation moved from traditional Email into modern

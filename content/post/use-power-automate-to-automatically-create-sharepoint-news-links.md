@@ -51,14 +51,15 @@ article is published to the XBOX news RSS feed.
 Once triggered, seemingly regardless of the specific RSS feeds schema, a
 standardized JSON object is returned to the flow that gives us *most* of
 what we need.
+
 ``` JSON
 {
     "body": {
-        "id": "https://news.xbox.com/en-us/?p=152438",
+        "id": "https://news.xbox.com/?p=152438",
         "title": "Wasteland 3: The Battle of Steeltown Releasing June 3 ",
-        "primaryLink": "https://news.xbox.com/en-us/2021/04/15/wasteland-3-the-battle-of-steeltown-releasing-june-3/",
+        "primaryLink": "https://news.xbox.com/2021/04/15/wasteland-3-the-battle-of-steeltown-releasing-june-3/",
         "links": [
-            "https://news.xbox.com/en-us/2021/04/15/wasteland-3-the-battle-of-steeltown-releasing-june-3/"
+            "https://news.xbox.com/2021/04/15/wasteland-3-the-battle-of-steeltown-releasing-june-3/"
         ],
         "updatedOn": "0001-01-01 00:00:00Z",
         "publishDate": "2021-04-15 14:00:00Z",
@@ -68,6 +69,7 @@ what we need.
     }
 }
 ```
+
 Even better, this data gets turned into variables we can access through
 the *Dynamic Content* selector in Power Automate.
 {{< image alt="1-blog-properties.png" src="images/blog/use-power-automate-to-automatically-create-sharepoint-news-links/1-blog-properties.png" >}}
@@ -139,6 +141,7 @@ so it's time to prepare our payload using the `Compose` action.
 It's a fairly simply and (mostly) self-explanatory bit of JSON, so we
 won't dwell on it much. Below is the exact JSON used in the above
 screenshot.
+
 ``` JSON
 {
   "BannerImageUrl": @{variables('BannerImageUrl')},
@@ -163,16 +166,19 @@ endpoint (which is what SharePoint does when you post a news link).
 Our headers are only slightly more involved. Our endpoint is expecting
 to receive and will return JSON, so we need to include the appropriate
 headers\...
+
 ``` JSON
 {
   "accept": "application/json",
   "content-type": "application/json;odata=verbose;charset=utf-8"
 }
 ```
+
 Last but not least, we need to include the **Output** of the compose
 action we created in the previous step so that SharePoint knows what
 we're sharing.
 Once that's all setup, go ahead and save.
+
 ## Wrapping up 
 
 At this point, you're done developing. The only thing left to do is

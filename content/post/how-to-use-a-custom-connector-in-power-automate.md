@@ -20,28 +20,27 @@ Microsoft 365 in Power Automate and even use an IOT button to trigger
 your flow.
 
 
-##  Use case 
+## Use case 
 
-\
-To make things more approachable, here is a little use case for you:\
-\
+To make things more approachable, here is a little use case for you:
+
 I want to Select an IOT button and this shall trigger a flow which
 tweets about the music I currently listen to on Spotify.
 The result will look like this:
 
-\
+
 {{< image alt="tweet.png" src="images/blog/how-to-use-a-custom-connector-in-power-automate/tweet.png" >}}
 
-##  What we need 
+## What we need 
 
-\
+
 To achieve this, we will need a couple of things:
 
 -   an IOT button - I use a Flic Smart button for that- that triggers my
     flow
 -   a flow that connects to our Spotify and to twitter
 
-### So lets have a look at IOT button: 
+### So lets have a look at IOT button
 
 I use a Flic IOT button trigger my flow. This button works with
 Bluetooth, which means that we will need a Bluetooth enabled device to
@@ -58,18 +57,18 @@ If you like to, rename this button - please keep in mind, that one
 button can be used to trigger several flows, as we have three different
 event types: Select, Double-Select and Hold.
 
-###  Spotify 
+### Spotify 
 
 In this flow we want to trigger by one or any event of the flic button
 and then tweet the song we are currently listening to on Spotify. Turns
 out, that there is no connector for Spotify, so why not building our own
-custom connector?\
-\
+custom connector?
+
 To be able to build custom actions, you will need an API for this
 service. Lucky us, that Spotify provides us with that API so that we can
 use this to build our custom connector.
 
-\
+
 Of course we need to have at least a free Spotify account so that we can
 listen to music that then shall be tweeted about.
 Before we can build the connector, we will need to register for
@@ -81,11 +80,13 @@ this information.
 Register our application on Spotify\
 \
 Log into your brand new Spotify for Developers account
+
 -   Go to your Dashboar
 -   Select **Create an App**
 -   Give your app a name and accept T&C
 -   Select **Create**
 -   Copy the Client ID and the Client Secret
+
 ### Build the custom Connector 
 
 -   Go to flow.microsoft.com
@@ -101,7 +102,7 @@ Log into your brand new Spotify for Developers account
     You can find the values you need to fill in here in Spotify for
     developers documentation, but to make things easier for you, I will
     provide them for you.
--   Select on **Security**
+-   Select  **Security**
 -   Select **OAuth2.0**
 -   Select **Generic OAuth 2** as Identity Provider
 -   Paste in your Client ID and Client secret
@@ -152,18 +153,19 @@ Now go back to your Custom connector
 
 Now it's time to build our flow
 
-####  Trigger flic 
+#### Trigger flic 
 
-\
+
 As already said, we want the flic button to be our trigger\
 You can choose, if you want this flow to be triggered by any event type
 or if you want to save the two other event types for other flows.
 Now we want to get the current song from our shiny new Custom connector:
 
-####  Get current song 
--   Select on Insert a new Step
+#### Get current song
 
--   Select on Custom
+-   Select  Insert a new Step
+
+-   Select  Custom
 
 -   Select the new custom connector for Spotify
     Our intention now is to tweet something like "I am currently

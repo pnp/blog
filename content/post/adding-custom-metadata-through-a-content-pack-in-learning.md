@@ -11,18 +11,19 @@ type: "regular"
 ---
 
 Learning Pathways is
-a [customizable](https://docs.microsoft.com/en-us/office365/customlearning/custom_accessadmin)
+a [customizable](https://docs.microsoft.com/office365/customlearning/custom_accessadmin)
 on-demand learning solution in Microsoft 365. Learning Pathways offers - a
 customizable SharePoint Online communication site (that may be used as a
 training portal), 
+
 - easy provisioning from
 the [SharePoint Look
 Book](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239?source=default)
 - the ability to make your own training playlists with
 [custom
-assets](https://docs.microsoft.com/en-us/office365/customlearning/custom_addassets)
+assets](https://docs.microsoft.com/office365/customlearning/custom_addassets)
 - a [custom web
-part](https://docs.microsoft.com/en-us/office365/customlearning/custom_whereiswebpart) to 
+part](https://docs.microsoft.com/office365/customlearning/custom_whereiswebpart) to 
 surface training content across your SharePoint site collections, 
 - and
 up-to-date Microsoft documentation for Microsoft 365
@@ -84,12 +85,12 @@ pack.
 
 [Follow the docs.microsoft.com instructions
 for [provisioning Learning
-Pathways] ](https://docs.microsoft.com/en-us/office365/customlearning/custom_provision#to-provision-learning-pathways)
+Pathways] ](https://docs.microsoft.com/office365/customlearning/custom_provision#to-provision-learning-pathways)
 
 ### Step 1: Fork the Learning Pathways Repo
 
 Navigate
-to [https://github.com/pnp/custom-learning-office-365] ](https://github.com/pnp/custom-learning-office-365)[ and click **Fork ** in
+to [https://github.com/pnp/custom-learning-office-365](https://github.com/pnp/custom-learning-office-365)[ and select **Fork ** in
 the upper-right hand of the page. This will create an identical copy of
 the Learning Pathways content in your own repository allowing you to
 make customizations to the information architecture through editing the
@@ -105,7 +106,7 @@ navigation:
 
 ### Step 2: Turn on GitHub pages
 
-Click **Settings** in
+Select **Settings** in
 the top
 navigation:
 
@@ -115,7 +116,7 @@ Scroll down the page until you see a header
 for **GitHub Pages** . In the
 Source dropdowns,
 select **Main** and **docs** then
-click **Save**
+select **Save**
 {{< image alt="eemancini_0-1613663078684.png" src="images/blog/adding-custom-metadata-through-a-content-pack-in-learning/eemancini_0-1613663078684.png" >}}
 
 Upon saving, GitHub will bring you to the top of the page again. Scroll
@@ -128,11 +129,11 @@ pages:
 
 Follow the docs.microsoft.com instructions
 for [adding a content pack to learning
-pathways](https://docs.microsoft.com/en-us/office365/customlearning/custom_partnerguide_contint#add-a-content-pack-to-learning-pathways). When
+pathways](https://docs.microsoft.com/office365/customlearning/custom_partnerguide_contint#add-a-content-pack-to-learning-pathways). When
 adding the URL for your custom content pack, paste the URL from step
 3, add **learningpathways** to
 the
-URL, and click **Save**. For
+URL, and select **Save**. For
 example:
 
 [https://eemancini.github.io/custom-learning-office-365/learningpathways/](https://eemancini.github.io/custom-learning-office-365/learningpathways/)
@@ -149,7 +150,7 @@ Pathways: ]
 As of this step, your custom content pack is an identical copy of
 Learning Pathways content as you have not made any edits in the repo.
 Navigate
-to https://\[yourusername\].github.io/custom-learning-office-365/learningpathways/v4 to
+to `https://\[yourusername\].github.io/custom-learning-office-365/learningpathways/v4` to
 begin making edits. Open the applicable language
 folder, in this example we
 will be working in **en-us**. In
@@ -159,7 +160,7 @@ Select **metadata.json**
 {{< image alt="eemancini_3-1613663112898.png" src="images/blog/adding-custom-metadata-through-a-content-pack-in-learning/eemancini_3-1613663112898.png" >}}
 
 Explore the [metadata.json
-structure](https://docs.microsoft.com/en-us/office365/customlearning/custom_partnerguide_contint#metadatajson-structure) for
+structure](https://docs.microsoft.com/office365/customlearning/custom_partnerguide_contint#metadatajson-structure) for
 more guidance on  how to edit the information architecture
 within this JSON
 file. If you are new to
@@ -176,7 +177,7 @@ ones.
 After completing your JSON edits, scroll to the bottom of the page to
 the section for **Commit
 Changes** Add a title and description that clarifies
-what edits you made and click **Commit
+what edits you made and select **Commit
 Changes**. Once you commit a change, your edits will
 automatically appear in Learning Pathways. (Note: You may need to hard
 refresh or clear your cache to see these
@@ -188,7 +189,7 @@ Now that your custom content is added to Learning Pathways, you can
 surface it by adding a Learning Pathways web part to a page. Follow the
 docs.microsoft.com instructions on how to [filter to
 the content
-pack](https://docs.microsoft.com/en-us/office365/customlearning/custom_partnerguide_contint#filter-to-the-content-pack-in-the-web-part)
+pack](https://docs.microsoft.com/office365/customlearning/custom_partnerguide_contint#filter-to-the-content-pack-in-the-web-part)
 
 
 **Conclusion**

@@ -94,7 +94,7 @@ coincidence. Initially I started with a classic color scheme: red and
 green. But then I realized that red-green colorblindness is one of the
 most common visual disorders. I switched the colors to make sure that
 everybody can see everything on the screen. Learn more about
-[accessibility.](https://docs.microsoft.com/en-us/microsoft-365/community/accessibility-by-design)
+[accessibility.](https://docs.microsoft.com/microsoft-365/community/accessibility-by-design)
 
 On all the Power App applications you can find the checker symbol in the
 upper right corner. It's a very easy step to make sure that your product
@@ -173,7 +173,7 @@ the following function:
 5 min button:    `UpdateContext({Dauer:300000})`
 
 The timer control works with milliseconds, so you have to type your
-desired duration in milliseconds. When you click one of the buttons, you
+desired duration in milliseconds. When you select e of the buttons, you
 change the variable "Dauer" to the specific value and since the timer
 value show whatever the variable Dauer is set to, you can choose the
 duration.
@@ -314,7 +314,7 @@ I added a picture of a timer I've made myself. You can download and use
 it with the whole sample from the [PnP Power Apps samples github
 repository](https://github.com/pnp/powerapps-samples/tree/main/samples/timer).
 
-You click on Insert \> Media \> picture to use that picture in your app.
+You select  Insert \> Media \> picture to use that picture in your app.
 Now place it in the middle of the screen (Power Apps helps you with
 snapping it to the middle if you drag it near the middle).
 

@@ -13,7 +13,10 @@ type: "regular"
 ---
 
 {{< image alt="recording-9th-december.png" src="images/blog/microsoft-365-developer-community-call-recording-9th-of-december/recording-9th-december.png" >}}
+
 ## Call summary
+
+
 
 Why not visit the Microsoft 365 tenant -- [script samples
 gallery](https://aka.ms/script-samples) (118 scenarios and 161 scripts)
@@ -47,6 +50,8 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 ## Actions
+
+
 
 -   Opt into PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
@@ -110,6 +115,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 {{< image alt="211209-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-9th-of-december/211209-together-mode.gif" >}}
 The house is full!   Great seeing everyone today.   Coordinated stadium
 style wave rehearsals starting soon.   
+
 **Demos** delivered in this session
 
 -   **Updates on Independent Publisher Connectors & Notion Connector
@@ -194,6 +200,8 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     \@thechriskent  
 
      -- [47:48](https://youtu.be/-ovC3cO7xlA?t=2868)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -207,18 +215,18 @@ slides.
     API](https://developers.notion.com/) 
 -   **D1: ** User Group - [SCMENA Power Platform User
     Group](https://powerusers.microsoft.com/t5/Subcontinent-MENA-Power-Platform/gh-p/pp_Subcontinent_usergroups) 
--   **D2:  **Documentation - [Microsoft 365 Learning Pathways Content
+-   **D2:** Documentation - [Microsoft 365 Learning Pathways Content
     Updates](https://docs.microsoft.com/office365/customlearning/custom_contentupdates#december-2021-content-updates)
     (December update) 
--   **D2: **Documentation - [Microsoft 365 learning
+-   **D2:**Documentation - [Microsoft 365 learning
     pathways](https://docs.microsoft.com/office365/customlearning/) 
--   **D2: **Look book -- [SharePoint look
+-   **D2:**Look book -- [SharePoint look
     book](https://lookbook.microsoft.com/) 
--   **D2: **Repo -- [Microsoft 365 learning
+-   **D2:**Repo -- [Microsoft 365 learning
     pathways](https://github.com/pnp/custom-learning-office-365) 
 -   **D3:  **Repo - [Elf Progress
     Board](https://github.com/pnp/List-Formatting/tree/master/view-samples/elf-progress-board) 
--   **D3: ** Documentation - [Use column formatting to customize
+-   **D3:** Documentation - [Use column formatting to customize
     SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa)
     | aka.ms/spdocs-column-formatting
 -   **PnP Weekly -- Episode 146** (December 6th) with Reykjavik,
@@ -230,6 +238,7 @@ slides.
     Microsoft Graph Dev-X team [Rabeb
     Othmani](http://twitter.com/Rabeb_Othmani) |
     \@Rabeb_Othmani | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-145-rabeb-othmani-microsoft/ba-p/3008950) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-145-%E2%80%93-29th-of-november-2021/)
+
 **General resources**:
 
 -   Samples - [Power Platform
@@ -257,7 +266,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -282,7 +291,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -291,28 +300,31 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
 
--   **Microsoft 365 platform call** **-- **December 14that 8:00 am PST
+
+-   **Microsoft 365 platform call** -- December 14that 8:00 am PST
     | <https://aka.ms/m365-dev-call>
--   **Power Apps monthly call **-- December 15th at 8:00 am PST
+-   **Power Apps monthly call**-- December 15th at 8:00 am PST
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** December 16th at 7:00 am PST
+-   **SharePoint Framework call** -- December 16th at 7:00 am PST
     | <https://aka.ms/spdev-spfx-call>
--   **Microsoft Identity Platform call --** December 16th at 9:00 am
+-   **Microsoft Identity Platform call** -- December 16th at 9:00 am
     PST | <https://aka.ms/IDDevCommunityCalendar>
--   **M365 General Dev call -- **December 23rd at 7:00 am PST
+**M365 General Dev call** -- December 23rd at 7:00 am PST
     | <https://aka.ms/m365-dev-sig>
--   **Office add-in monthly call -- **January 12th at 8:00 am PST
+-   **Office add-in monthly call** -- January 12th at 8:00 am PST
     | <https://aka.ms/officeaddinscall>
--   **Adaptive Cards monthly call -- **January 13th[at 9:00 am PST
+-   **Adaptive Cards monthly call** --January 13th[at 9:00 am PST
     | ]<https://aka.ms/adaptivecardscommunitycall>
+    
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft

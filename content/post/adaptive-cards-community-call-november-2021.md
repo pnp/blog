@@ -68,6 +68,7 @@ scenes.  Step through 6 different Quick View card layouts. 
     generally
     available](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-mobile-and-new-partner-integrations-are-now/ba-p/2932217) 
 
+
 ## Resources in General
 
 -   Let us know the features you need    <https://aka.ms/ACRoadmap>

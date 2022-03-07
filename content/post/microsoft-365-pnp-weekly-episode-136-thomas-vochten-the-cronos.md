@@ -57,8 +57,9 @@ rooms on Monday, September 27, 2021.
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -84,21 +85,23 @@ everyone for your contributions to the community!\
 
 **Microsoft articles:**
 
+
  
 
 -   [Viva Connections public preview is now
     available!](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-public-preview-is-now-available/ba-p/2768541) -
     Brad McCabe (Microsoft)
 -   [Overview: Viva Connections
-    (Preview)](https://docs.microsoft.com/en-us/sharepoint/viva-connections-overview#step-by-step-guidance-to-provision-viva-connections) -
+    (Preview)](https://docs.microsoft.com/sharepoint/viva-connections-overview#step-by-step-guidance-to-provision-viva-connections) -
     Microsoft
 -   [Set up and launch Viva Connections
-    (Preview)](https://docs.microsoft.com/en-us/sharepoint/guide-to-setting-up-viva-connections) -
+    (Preview)](https://docs.microsoft.com/sharepoint/guide-to-setting-up-viva-connections) -
     Microsoft
 
  
 
 **Community articles:**
+
 
  
 
@@ -134,6 +137,7 @@ everyone for your contributions to the community!\
  
 
 **Additional resources:**
+
 
  
 

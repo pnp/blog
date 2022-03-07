@@ -13,6 +13,7 @@ type: "regular"
 ---
 
 {{< image alt="pnp-weekly-117.png" src="images/blog/microsoft-365-pnp-weekly-episode-117/pnp-weekly-117.png" >}}
+
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -20,6 +21,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
 joined by Belgium-based Senior Service Engineer from Microsoft - [Bert
 Jansen](http://twitter.com/o365bert) | \@o365bert.  
+
 Bert splits his time coaching ISVs and Partners on how to get the most
 out of their SharePoint Online experience and on PnP Community projects
 -- Modernization and PnP Core SDK.   This episode's discussion focuses
@@ -31,8 +33,9 @@ A blog busting 23 articles and videos were published by Microsoft and
 Community members in the last week.  
 
 This episode was recorded on Monday, March 8, 2021.
--   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+
+
+-   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 These videos and podcasts are published each week and are intended to be
@@ -47,6 +50,7 @@ Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
 Microsoft articles:
+
 -   [Microsoft Viva announcements at Microsoft
     Ignite](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-viva-announcements-at-microsoft-ignite/ba-p/2175907) - [Seth
     Patton](https://twitter.com/SethPat) (Microsoft) | \@SethPat
@@ -75,10 +79,10 @@ Microsoft articles:
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-february-2021/ba-p/2173114) - [Mark
     Kashman](https://twitter.com/mkashman) (Microsoft) | \@mkashman
 -   [What's new for Microsoft 365 and Teams Platform @ Ignite
-    2021](https://developer.microsoft.com/en-us/microsoft-365/blogs/whats-new-for-microsoft-365-and-teams-platform-ignite-2021/) -
+    2021](https://developer.microsoft.com/microsoft-365/blogs/whats-new-for-microsoft-365-and-teams-platform-ignite-2021/) -
     Microsoft
 -   [What's new for Excel add-ins developers in
-    2021](https://developer.microsoft.com/en-us/microsoft-365/blogs/whats-new-for-excel-add-ins-developers-in-2021/) - [Keyur
+    2021](https://developer.microsoft.com/microsoft-365/blogs/whats-new-for-excel-add-ins-developers-in-2021/) - [Keyur
     Patel](https://twitter.com/keyurp32) (Microsoft) | \@keyurp32
 -   [Introducing Microsoft Viva
     Connections](https://myignite.microsoft.com/sessions/3d561e77-84db-4225-9f36-65ed92a54118?source=%2Ffavorites) - [Adam

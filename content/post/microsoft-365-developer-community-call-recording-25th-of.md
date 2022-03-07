@@ -14,7 +14,10 @@ type: "regular"
 
 {{< image alt="recording-25th-nov.png" src="images/blog/microsoft-365-developer-community-call-recording-25th-of/recording-25th-nov.png" >}}
 
+
 ## Call summary
+
+
 
 Have you visited the Microsoft 365 tenant -- [script samples
 gallery](https://aka.ms/script-samples) (116 scenarios and 160 scripts,
@@ -149,6 +152,7 @@ Cloud Summit](https://collabsummit.eu/) in Düsseldorf, Germany or
 perhaps at the [Microsoft 365 Collaboration
 Conference](https://sharepointna.com/#!/) in Las Vegas, Nevada, US.     
    
+
 **Demos** delivered in this session
 
 -   **Contributors Corner - GitHub Contributions using the VS Code Web
@@ -209,12 +213,14 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     Spaces and custom Lists -- ][Anand
     Ragav](http://twitter.com/anandVragav)[ |
     [\@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372) ]--
-    [31:59](https://youtu.be/GW7THadNYtQ?t=1919)[ ]
+    [31:59](https://youtu.be/GW7THadNYtQ?t=1919)
 -   [**Demo 3:**[  Using Randomization with List Formatting --
     ][Chris Kent](http://twitter.com/thechriskent)[
     (DMI) |
     \@thechriskent ]]--
     [45:34](https://youtu.be/GW7THadNYtQ?t=2734)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -250,6 +256,7 @@ slides.
     Kenya-based Program Manager at Microsoft - [Roina
     Ochieng](http://twitter.com/roinochieng) |
     \@roinochieng | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/ba-p/2965580) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-143-%e2%80%93-15th-of-november-2021/)
+
 **General resources**:
 
 -   Samples - [Power Platform
@@ -277,7 +284,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -302,7 +309,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -311,27 +318,30 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
 
 -   **Microsoft 365 platform call** -- November 30th at 8:00 am PST
     | <https://aka.ms/m365-dev-call>
--   **SharePoint Framework call --** December 2nd at 7:00 am PST
+-   **SharePoint Framework call** -- December 2nd at 7:00 am PST
     | <https://aka.ms/spdev-spfx-call>
--   **Office add-in monthly call -- **December 8th at 8:00 am PST
+-   **Office add-in monthly call** -- December 8th at 8:00 am PST
     | <https://aka.ms/officeaddinscall>
--   **M365 General Dev call -- **December 9th at 7:00 am PST
+-   **M365 General Dev call** -- December 9th at 7:00 am PST
     | <https://aka.ms/m365-dev-sig>
--   **Adaptive Cards monthly call -- **December 9th at 9:00 am PST
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- December 15th at 8:00 am PST
+-   **Adaptive Cards monthly call** --December 9th at 9:00 am PST
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- December 15th at 8:00 am PST
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** December 16th at 9:00 am
+-   **Microsoft Identity Platform call** -- December 16th at 9:00 am
     PST | <https://aka.ms/IDDevCommunityCalendar>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365

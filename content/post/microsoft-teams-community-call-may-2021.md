@@ -15,6 +15,7 @@ type: "regular"
 
 {{< image alt="teams-18th-recording-promo.png" src="images/blog/microsoft-teams-community-call-may-2021/teams-18th-recording-promo.png" >}}
 
+
 **Call Summary**
 
 Latest news from Microsoft engineering on Microsoft Teams updates and
@@ -28,13 +29,15 @@ get started with Microsoft Teams development.  See the new [Microsoft
 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)
 co-developed by Microsoft Teams and SharePoint engineering.  Get the
 Microsoft Teams Toolkit (Controls) -- "[Designing your Microsoft Teams
-app](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview)"
+app](https://docs.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-overview)"
 with layout guidance and reusable assets.   Three great demos delivered
 during this session.  The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 Q&A takes place in chat throughout the call.
 
 ## Actions
+
+
 
 
 -   Register for Microsoft Build, May 25 -- 27, 2021 -
@@ -82,6 +85,7 @@ Samples:** <https://aka.ms/teams-samples>
 **Always a highlight to see you here.  Enjoy Microsoft Build.  Looking forward to seeing you in person at an event one day.**
 
  
+
 
 **Demos** delivered in this session
 
@@ -135,6 +139,8 @@ Thank you for your work. Samples are often showcased in Demos.
 
  
 
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -147,10 +153,10 @@ slides.
     Teams](http://dev.teams.microsoft.com/home) 
 
 -   Documentation - [Universal Actions for Adaptive
-    Cards](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview) 
+    Cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview) 
 
 -   Quick Start Guide - [Work with Universal Actions for Adaptive
-    Cards](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/work-with-universal-actions-for-adaptive-cards)  
+    Cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/work-with-universal-actions-for-adaptive-cards)  
 
 -   Blog - [Rick's blog](https://www.rickvanrousselt.com/) 
 
@@ -175,15 +181,16 @@ slides.
 
  
 
+
 **General resources**:
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   Microsoft Learn - [Microsoft Teams development Learning
-    Paths](https://docs.microsoft.com/en-us/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
+    Paths](https://docs.microsoft.com/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 -   [Microsoft Teams app
-    templates](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
+    templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) |
     aka.ms/m365devyoutube
@@ -194,13 +201,15 @@ slides.
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
     Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 
+
 **Upcoming Calls | Recurrent Invites:**
+
 
  
 
 -   **Power Apps monthly call --** May 19^th^ at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** May 20^th^ at 7:00 am PDT |
+-   **SharePoint Framework call** -- May 20^th^ at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** May 20^th^ at 9:00 am PDT
     | <https://aka.ms/IDDevCommunityCalendar> 

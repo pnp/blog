@@ -11,14 +11,15 @@ type: "regular"
 
 
 ---
-# {{< image alt="walle.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/walle.png" >}}
+
+{{< image alt="walle.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/walle.png" >}}
 
 In this blog I want to show you, how you can build, test and publish an
 FAQ bot for Microsoft Teams within minutes. We will use the Power
 Virtual Agents for Teams, which means, that you will not need any
 additional license to your Microsoft 365 license, for reference see
 also [Power Virtual Agents for Microsoft Teams
-plan](https://docs.microsoft.com/en-us/power-virtual-agents/requirements-licensing-subscriptions#power-virtual-agents-for-microsoft-teams-plan).
+plan](https://docs.microsoft.com/power-virtual-agents/requirements-licensing-subscriptions#power-virtual-agents-for-microsoft-teams-plan).
 
 ## What is Power Virtual Agents? 
 
@@ -35,12 +36,12 @@ Microsoft Teams](https://aka.ms/PVAForTeams).
 
 I will guide you how to create an FAQ bot. To feed our bot we will need
 some FAQ so that our can bot can learn them. I will use [FAQ regarding
-licensing](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-flow-licensing-faq) :nerd_face:,
+licensing](https://docs.microsoft.com/power-platform/admin/powerapps-flow-licensing-faq) :nerd_face:,
 but you can choose any FAQ from a website or PDF or even Word file that
 you like.
 
 -   Open Teams
--   Click on the **Apps** icon
+-   Select  the **Apps** icon
 -   Search for **Power Virtual Agents**
 
 
@@ -68,11 +69,13 @@ you like.
  
 
 {{< image alt="pva-create2.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/pva-create2.png" >}}
+
 -   Click **Chatbots** - here you get an overview of ALL your chatbots
 
  
 
 {{< image alt="my-chatsbots.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/my-chatsbots.png" >}}
+
 ### Add topics from any website 
 
 -   Click **Topics**
@@ -146,23 +149,24 @@ results.
 
 ### Publish your Bot to Microsoft Teams 
 
--   Click the **Publish** icon
+-   Select the **Publish** icon
 
 
  
 
 {{< image alt="publish.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/publish.png" >}}
+
 -   Click **Add**
 
  
 
 {{< image alt="add.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/add.png" >}}
+
 -   Click **Add to Teams**
 
 
 
 {{< image alt="publish-bot.png" src="images/blog/how-to-build-an-faq-bot-for-microsoft-teams-with-power-virtual/publish-bot.png" >}}
-
 
 
 -   Use your bot

@@ -50,6 +50,7 @@ the `m365 spo site classic list --output json` would look as follows.
  }]
 
 ```
+
 The most common queries are either to filter based on a specific
 property, or use a `contains, starts_with or ends_with` on a specific
 property. The final scenario is to limit the return values to have a
@@ -161,4 +162,4 @@ three users with the most edited files. 
 Hope this cheat sheet helps you in case you are working with JMESPath
 queries and don't hesitate to share your common scenario's as well!
 
-#sharingiscaring  
+**#SharingIsCaring**

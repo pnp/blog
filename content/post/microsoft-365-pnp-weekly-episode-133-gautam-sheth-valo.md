@@ -51,8 +51,9 @@ This session was recorded on Monday, September 6, 2021.   
 
  
 
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 
@@ -78,6 +79,7 @@ everyone for your contributions to the community!\
 
 **Microsoft articles:**
 
+
  
 
 -   [What's New in Microsoft Teams | August
@@ -90,12 +92,13 @@ everyone for your contributions to the community!\
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-31st-of-august-2021/ba-p/2703643) -
     [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
 -   [New public preview version on upcoming SharePoint Framework
-    1.13](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-public-preview-version-on-upcoming-sharepoint-framework-1-13/) -
+    1.13](https://developer.microsoft.com/microsoft-365/blogs/new-public-preview-version-on-upcoming-sharepoint-framework-1-13/) -
     Microsoft
 
  
 
 **Community articles:**
+
 
  
 
@@ -152,6 +155,7 @@ everyone for your contributions to the community!\
  
 
 **Additional resources:**
+
 
  
 

@@ -12,14 +12,17 @@ type: "regular"
 
 ---
 
-## Introduction 
+## Introduction
+
 A persona is a visual representation of a person across products,
 typically showcasing the image that person has chosen to upload
 themselves. This control includes an individual's avatar (an uploaded
 image or a composition of the person's initials on a background color),
 their name or identification, and so on. for more details refer to
-[this](https://developer.microsoft.com/en-us/fluentui#/controls/web/persona).
+[Fluent UI persona](https://developer.microsoft.com/fluentui#/controls/web/persona).
+
 ## Scenario  
+
 We will create an SPFx web part in the way to fetch users from any
 specific group and render these users using a persona. so let's see
 step-by-step implementation.
@@ -56,14 +59,14 @@ Now we will install **pnpjs** as shown below:
     npm install @pnp/sp --save
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
-```
+
+```bash
     code .
 ```
 
-1\. Move to
-the *src/webparts/spfxpersona/components/**ISpfxpersonaProps.ts ***and
+1. Move to
+the `src/webparts/spfxpersona/components/**ISpfxpersonaProps.ts` and
 create a context property as below,
-
 
 ```javascript
 import { WebPartContext } from "@microsoft/sp-webpart-base";
@@ -74,7 +77,7 @@ export interface ISpfxpersonaProps {
 }
 ```
 
-2\. Now move to the **SpfxpersonaWebPart.ts **file and here we
+1. Now move to the **SpfxpersonaWebPart.ts **file and here we
 initialize an SP context and pass it in the property.
 
 ```javascript
@@ -150,8 +153,7 @@ export default class SpfxpersonaWebPart extends BaseClientSideWebPart<ISpfxperso
 }
 ```
 
-
-3\. Create a common component means folder
+Create a common component means folder
 called **RenderProfilePicture**
 inside *src/webparts/spfxpersona/Common/Components. *And inside this
 folder create a file **RenderProfilePicture.tsx** **.**
@@ -196,7 +198,7 @@ export function RenderProfilePicture(props: IProfilePicProps) {
 }
 ```
 
-4\. Now move to the **Spfxpersona.tsx** our main component. here we will
+Now move to the **Spfxpersona.tsx** our main component. here we will
 call APIs and render the child component here.
 
 
@@ -282,11 +284,12 @@ Now test the webpart in SharePoint-SiteURL +
 {{< image alt="Output.png" src="images/blog/how-to-use-fluent-ui-react-persona-control-in-spfx/Output.png" >}}
  
 
-Find the full source code
-[here](https://github.com/chandaniprajapati/spfx-fluentui-persona).
+Find here the [full source code
+](https://github.com/chandaniprajapati/spfx-fluentui-persona).
  
 
 ## Summary 
+
 In this article, we have seen the step-by-step implementation of how to
 use a persona card to show the users' profile picture.
 \

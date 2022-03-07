@@ -11,7 +11,10 @@ type: "regular"
 
 
 ---
-## Call Summary: 
+
+## Call summary
+
+
 
 This month's community call features presentations - **Shared mailboxes
 in Outlook** (Shared Mailbox vs Delegate Access/Shared Folder, Shared
@@ -25,9 +28,7 @@ call was hosted by David Chesnut (Microsoft) | \@davidchesnut.
 Microsoft Presenters: Juan Balmori | \@juaneloBalmori, Ankush Oberoi,
 and Elizabeth Samuel.   Recorded July 14, 2021.
 
-##   
-
-## Agenda: 
+## Agenda
 
 -   Shared mailboxes in Outlook -- Juan Balmori (Microsoft) |
     \@juaneloBalmori -- [00:50](https://youtu.be/zZpelH7CxJ8?t=50)
@@ -38,9 +39,7 @@ and Elizabeth Samuel.   Recorded July 14, 2021.
     [22:37](https://youtu.be/zZpelH7CxJ8?t=1357)
 -   Q&A -- [26:45](https://youtu.be/zZpelH7CxJ8?t=1605)
 
-##   
-
-## Demo Summaries:  
+## Demo Summaries
 
 This month's community call featured presentations:
 
@@ -55,7 +54,9 @@ This month's community call featured presentations:
     Recipients Changed event to tag an email when there are external
     recipients.
 
-##  Q&A (Question & Answers) 
+
+## Q&A (Question & Answers) 
+
 
 \
 Due to the technical difficulties we had on this call, we could not
@@ -108,9 +109,11 @@ directly to disk from the browser in any way that works cross-platform.
 A recommended approach to write to a CSV file is to [write to files
 using Microsoft Graph and
 OneDrive](https://docs.microsoft.com/graph/api/resources/onedrive?view=graph-rest-1.0).
+
+
 ## Resources 
 
-###  Outlook shared mailbox 
+### Outlook shared mailbox 
 
 -   [Create a shared mailbox - Microsoft 365 admin | Microsoft
     Docs](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
@@ -120,15 +123,15 @@ OneDrive](https://docs.microsoft.com/graph/api/resources/onedrive?view=graph-res
 
 -   [Enable shared folders and shared mailbox scenarios in an Outlook
     add-in | Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/outlook/delegate-access?tabs=windows)
+    Docs](https://docs.microsoft.com/office/dev/add-ins/outlook/delegate-access?tabs=windows)
 
-###  PnP: Use Outlook event-based activation to tag external recipients (preview) 
+### PnP: Use Outlook event-based activation to tag external recipients (preview) 
 
 -   PnP sample: [Use Outlook event-based activation to tag external
     recipients
     (preview)](https://github.com/OfficeDev/PnP-OfficeAddins/tree/main/Samples/outlook-tag-external)
 
-###  Office Add-ins community call 
+### Office Add-ins community call 
 
 -   [Recurring, monthly community call calendar
     invite](https://aka.ms/officeaddinscommunitycall)
@@ -137,7 +140,7 @@ OneDrive](https://docs.microsoft.com/graph/api/resources/onedrive?view=graph-res
 -   Community call recordings on the [YouTube Microsoft 365 community
     channel](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 
-###  Office Add-ins feedback 
+### Office Add-ins feedback 
 
 -   Technical questions -- Microsoft Q&A
     ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),

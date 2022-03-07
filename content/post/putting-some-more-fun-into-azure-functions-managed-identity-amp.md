@@ -17,7 +17,7 @@ I want to show, how you can use a Managed Identity in Azure Functions to
 get an access token for Microsoft Graph API.
 {{< image alt="image-8.png" src="images/blog/putting-some-more-fun-into-azure-functions-managed-identity-amp/image-8.png" >}}
 
-## Prerequisites to benefit from this article: 
+## Prerequisites to benefit from this article
 
 To get the most out of this post, you should understand the following
 concepts -- I included some links that should help you getting started.
@@ -51,7 +51,7 @@ the demand decreases again, you don't need to worry about the extra
 resources anymore as they drop off again. This way, you only pay what
 you need. For more info please start to read here: [Azure Functions
 Overview | Microsoft
-Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+Docs](https://docs.microsoft.com/azure/azure-functions/functions-overview)
 
 I will use PowerShell for my Azure Functions, so that IT-Pros can
 benefit from this post as well. But please do choose [your poison
@@ -65,7 +65,7 @@ Microsoft Graph is THE API to access Microsoft 365 resources, in our
 case we will want to read all Microsoft 365 groups -- for more
 information see also the [Microsoft Graph permissions reference --
 Microsoft Graph | Microsoft
-Docs.](https://docs.microsoft.com/en-us/graph/permissions-reference#group-permissions)
+Docs.](https://docs.microsoft.com/graph/permissions-reference#group-permissions)
 
 Our challenge will be to access the Graph API with a Managed Identity. I
 will show how to do this entirely in Azure CLI & [VS
@@ -108,6 +108,7 @@ all the time when I am expanding or collapsing the pane)
 
 We will now write the code for our Azure Functions. Replace the default
 code of run.ps1 in VS Code by this:
+
 ```bash
 using namespace System.Net
 
@@ -155,6 +156,7 @@ StatusCode = $StatusCode
 Body = $body
 })
 ```
+
 Take a moment to understand what the code does:
 
 -   log that a request was received
@@ -165,7 +167,7 @@ Take a moment to understand what the code does:
     Reekmans](https://twitter.com/yannickreekmans) for this hint) --
     learn more here: [Managed identities -- Azure App Service |
     Microsoft
-    Docs](https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity?tabs=powershell&WT.mc_id=M365-MVP-5003400#obtain-tokens-for-azure-resources)
+    Docs](https://docs.microsoft.com/azure/app-service/overview-managed-identity?tabs=powershell&WT.mc_id=M365-MVP-5003400#obtain-tokens-for-azure-resources)
     -- you can also see your environment variables here, the mentioned
     ones will show after you assigned the system assigned Managed
     Identity:
@@ -176,14 +178,15 @@ Take a moment to understand what the code does:
 
 Watch out -- the Graph API will this way return up to 100 groups --
 Please adjust with [query
-parameters](https://docs.microsoft.com/en-us/graph/query-parameters) as
+parameters](https://docs.microsoft.com/graph/query-parameters) as
 needed like [https://graph.microsoft.com/v1.0/groups?\$top=42
 or](https://graph.microsoft.com/v1.0/groups?$top=42&nbsp;or) use paging,
 which is described here: [Paging Microsoft Graph data in your app --
 Microsoft Graph | Microsoft
-Docs](https://docs.microsoft.com/en-us/graph/paging)
+Docs](https://docs.microsoft.com/graph/paging)
 
-###  Resources in Azure 
+
+## Resources in Azure 
 
 We will now create the Functions App in Azure -- You can either install
 the CLI or use Cloud shell (available on shell.azure.com -- no
@@ -193,6 +196,7 @@ installation is needed then and it works in any browser!)
 
 For testing purposes, I pseudo-randomized a number to not always need to
 come up with new names:
+
 ```bash
 #Get a random number between 100 and 300 to more easily be able to distinguish between several trials
 $rand = Get-Random -Minimum 100 -Maximum 300
@@ -214,6 +218,7 @@ $functionapp = "LuiseDemo-functionapp$rand"
 
 Let's create a resource-group that will later hold our Azure Functions
 App
+
 ```bash
 #create group
 az group create -n $resourceGroup -l $location
@@ -238,6 +243,7 @@ az storage account create `
 Now create the Azure Functions app which later holds our functions
 (remember we created that earlier locally, but will later deploy it to
 Azure)
+
 ```bash
 #create function
 az functionapp create `
@@ -293,8 +299,10 @@ $appRoleId=$(az ad sp list --display-name "Microsoft Graph" --query "[0].appRole
 $body="{'principalId':'$principalId','resourceId':'$graphResourceId','appRoleId':'$appRoleId'}"
 
 #the actual REST call 
+
 az rest --method post --uri https://graph.microsoft.com/v1.0/servicePrincipals/$principalId/appRoleAssignments --body $body --headers Content-Type=application/json
 ```
+
 If you like to, you may now have a look at our Managed Identity
 permissions in the Azure portal -- for everyone who loves to be assured
 in a UI that things have worked:\
@@ -322,6 +330,7 @@ Time to test!
 Please note, that due to our Managed Identity, we can't test locally.
 You can trigger your Functions with Postman or similar or run a test in
 the Azure portal
+
 -   Open portal.azure.com
 -   Select **Resource groups**
 -   Select the resource group you worked in
@@ -330,7 +339,7 @@ the Azure portal
 -   Select **Code + Test**
 -   Select **Test/Run**
 -   Select **Run**
--   
+
 You should see a status code 200 -- and a list of all your Microsoft 365
 groups. YAY!
 
@@ -359,7 +368,7 @@ Samples](https://pnp.github.io/script-samples/)
 \
 Get started with Microsoft 365 development by signing up for a [free
 Developer
-tenant](https://developer.microsoft.com/en-us/microsoft-365/dev-program)\
+tenant](https://developer.microsoft.com/microsoft-365/dev-program)\
 Join the [Microsoft 365 PnP Community](https://pnp.github.io/) -- join
 our calls and benefit from guidance, tools, sample\
  \

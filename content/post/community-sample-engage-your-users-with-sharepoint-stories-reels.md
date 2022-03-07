@@ -72,7 +72,7 @@ couple of texts for heading and subheading. Although we could get the
 Author profile image, username and email using Graph API, it is going to
 be much easier to make use of the MS Graph Toolkit library, and use the
 [MGT Person
-component](https://docs.microsoft.com/en-us/graph/toolkit/components/person).
+component](https://docs.microsoft.com/graph/toolkit/components/person).
 In order to render the GMT Person component, we cannot use the Story
 Header property, however, the Story object allow us to specify a custom
 render function for the entire Story, and in that function, we can use
@@ -85,7 +85,7 @@ Story, and there, we use the GMT Person component. As you can see in the
 code above, we also use a React High Order Component called
 *WithSeeMore*, this component is from the *react-insta-stories* library
 and is the way to load a specific text when the "*See more*" link is
-clicked in the Story. So, if the list item has the Content field filled,
+selected in the Story. So, if the list item has the Content field filled,
 we set the "*seeMore*" property of the Story object. This property is
 again a function, so you can customize how the content is rendered.
  

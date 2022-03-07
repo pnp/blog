@@ -15,6 +15,7 @@ type: "regular"
 For any SharePoint modern page that you create manually, there will
 always be a page title that you cannot remove using the SharePoint UI at
 the moment.
+
 {{< image alt="page-title.png" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/page-title.png" >}}
 
 The logic behind those options is that on the background they change a
@@ -50,19 +51,25 @@ First, manipulate the page relative URL+ site id from data returned by
 the Flow's trigger.
 Initialise one variable called PageUrl and set it to the property
 '**itemUrl**', gathered from the flow's trigger:
+
 {{< image alt="PageURL.PNG" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/PageURL.PNG" >}}
+
 Then initialise two variables using the following expressions as value
 (their values are simply set by manipulating the page full URL by
 splitting it and getting the right piece of the string):
+
 **SiteURL**: split(variables('PageUrl'),'SitePages')\[0\]
 **PagePath:** split(variables('PageUrl'),'sharepoint.com')\[1\]
+
 {{< image alt="vars.PNG" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/vars.PNG" >}}
 
 Then you can make a call using REST API to
 the **GetFileByServerRelativeUrl **endpoint to retrieve the list item
 fields for the current page (explicitly selecting the PageLayoutType
 field, otherwise, it wouldn't be returned):
+
 {{< image alt="send an http get data.PNG" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/send an http get data.PNG" >}}
+
 Use the **Parse JSON** action with the schema below to facilitate
 accessing the properties:
  
@@ -87,20 +94,25 @@ accessing the properties:
 
 And initialise a new variable called **PageLayout**, having
 the **PageLayoutType **parsed from the JSON content as value:
+
 {{< image alt="parse json.PNG" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/parse json.PNG" >}}
+
 **Updating the Page Layout**
 Based on the current page layout value, you can update the variable
 value to the other desired (if it is **Home**, you should update it
 to **Article**, if it is **Article **you should update it to **Home**.
+
 {{< image alt="switch value.PNG" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/switch value.PNG" >}}
 And then send a **PATCH **HTTP request to SharePoint to update the
 current page field:
+
 {{< image alt="patch.PNG" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/patch.PNG" >}}
 
 **Results**
 When you execute the flow, it will switch the page layout as below. If
 you execute it again, it will switch back to the previous layout (from
 Article to Home or from Home to Article):
+
 {{< image alt="running-flow.gif" src="images/blog/hiding-the-sharepoint-page-title-with-power-automate/running-flow.gif" >}}
  
 
@@ -163,7 +175,7 @@ formatter, the values will be parsed correctly from the trigger and the
 flow will be executed successfully, as the JSON format button sends data
 related to the currently selected file and we run the rest of the flow
 dynamically based on the values sent by the trigger.
-\
+
 This sample flow is available on the Microsoft 365 PnP Power Automate
 Samples
 repository: <https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-hide-page-title>

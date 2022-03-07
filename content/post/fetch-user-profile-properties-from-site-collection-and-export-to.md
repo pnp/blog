@@ -37,12 +37,11 @@ Install-Module SharePointPnPPowerShellOnline -Scope CurrentUser
 -   Create a new file and write a script
  
 Now we will see all the steps which we required to achieve the solution:
- 
+
 1.  We will read the site URL from the user
-2.  then we will connect to the O365 admin site and then we will connect
-to the site which the user has entered
-3\. Create a function to bind a CSV
-4\. Create a function to get user profile properties by email d
+2.  then we will connect to the O365 admin site and then we will connect to the site which the user has entered
+3.  Create a function to bind a CSV
+4.  Create a function to get user profile properties by email
 5.  In the main function we will write a logic to get web and users of
 site collection URL and then get all the properties and bind it to CSV
  

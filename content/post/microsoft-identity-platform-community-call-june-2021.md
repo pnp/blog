@@ -15,6 +15,7 @@ type: "regular"
 
 ## Call summary
 
+
 This month's in-depth topic:  **Increase the resilience of
 authentication and authorization applications you develop**.   Tips for
 adding and increasing resiliency in apps that sign-in users and apps
@@ -30,20 +31,21 @@ Managers [Harish Suresh](http://twitter.com/harish_suresh) |
 throughout call
 
 
+
 ## Resources
 
 
 -   Documentation - [Increase resilience of authentication and
     authorization applications you
-    develop](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/resilience-app-development-overview) 
+    develop](https://docs.microsoft.com/azure/active-directory/fundamentals/resilience-app-development-overview) 
 
 -   Documentation - [How to use Continuous Access Evaluation enabled
     APIs in your
-    applications](https://docs.microsoft.com/en-us/azure/active-directory/develop/app-resilience-continuous-access-evaluation) 
+    applications](https://docs.microsoft.com/azure/active-directory/develop/app-resilience-continuous-access-evaluation) 
 
 -   Documentation - [Building resilience into identity and access
     management with Azure Active
-    Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/resilience-overview) 
+    Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/resilience-overview) 
 
 -   Organization -- [OpenID - Continuous Access Evaluation Protocol
     (CAEP)](https://openid.net/wg/sse/) 
@@ -52,18 +54,18 @@ throughout call
     7.0.0](https://www.nuget.org/packages/Microsoft.IdentityModel/) 
 
 -   Documentation - [Signing key rollover in the Microsoft identity
-    platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-signing-key-rollover) 
+    platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-signing-key-rollover) 
 
 -   Documentation - [How to: Build services that are resilient to Azure
     AD's OpenID Connect metadata
-    refresh](https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-build-services-resilient-to-metadata-refresh) 
+    refresh](https://docs.microsoft.com/azure/active-directory/develop/howto-build-services-resilient-to-metadata-refresh) 
 
 -   Documentation -- [Microsoft identity platform access
     tokens](https://docs.microsoft.com/azure/active-directory/develop/v2-id-and-access-tokens) 
 
 -   Documentation - [Microsoft identity platform access tokens -
     Validating
-    tokens](https://docs.microsoft.com/en-us/azure/active-directory/develop/access-tokens#validating-tokens) 
+    tokens](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#validating-tokens) 
 
 -   Sample - [How to manually validate a JWT access token using the
     Microsoft identity platform (formerly Azure
@@ -71,11 +73,14 @@ throughout call
 
 -   Documentation - [Protected web API: Code configuration - Customizing
     token
-    validation](https://docs.microsoft.com/en-us/azure/active-directory/develop/scenario-protected-web-api-app-configuration#customizing-token-validation)  
+    validation](https://docs.microsoft.com/azure/active-directory/develop/scenario-protected-web-api-app-configuration#customizing-token-validation)  
+
 
 
 
 ## Actions
+
+
 
 -   Let us know how we're doing and suggest topics for future calls,
     please complete this survey

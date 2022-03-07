@@ -54,7 +54,7 @@ For demo purposes I called my resource group *cli-test*.
 Create a Managed Identity
 
 In our resource group we can create a new user managed identity that we
-can use. Click on the **add** button and search for **User Assigned
+can use. Select  the **add** button and search for **User Assigned
 Managed Identity** to create the new managed identity. Simply provide a
 name and create your new managed identity. 
 {{< image alt="cli-ma.png" src="images/blog/run-reports-on-your-tenant-using-the-cli-for-microsoft-and-azure/cli-ma.png" >}}
@@ -92,7 +92,7 @@ As we need a Logic App to orchestrate the execution of our script the
 first step is to create one. You can do so in any resouce group, or
 create a new one. There are no requirements for your Logic App. So we
 pick a **Logic App (Consumption)** and provide a resource group and
-name. Once the Logic App is created navigate to it and click the
+name. Once the Logic App is created navigate to it and select the
 **edit** button. Once in edit mode you are free to pick your trigger.
 You can pick any trigger you like, for demo purposes you could connect
 it to a list in SharePoint Online, or just use a HTTP trigger. The next
@@ -100,9 +100,11 @@ step is to create two parameters, **containerGroup** and
 **containerName**. Both will be used more than once so it helps to
 create them parameters, but it is not required. For demo purposes I
 added a small snippet as a postfix to identify when it was created: 
+
 ``` {.lia-code-sample .language-excel}
 formatDateTime(utcNow(),'MM-dd-yyyy')
 ```
+
  This helps when debugging as you can always identify when something was
 created. The next step is to add a new action of type **Create or update
 a container group**. It is a pretty complex action with a lot of
@@ -124,7 +126,7 @@ typing:
 |Container Command Segment - 2|/mnt/repo1/test.sh|The value of the mount path and script name are dependant on settings below.|
 |Container Volume Mount Path - 1|/mnt/repo1||
 |Container Volume Mount Name - 1|gitrepo|The name for the mount path must match the volume name specified later.|
-|Volume Git Repo Volume Repository - 1|https://github.com/appieschot/cli-test.git|Any public repository will do.|
+|Volume Git Repo Volume Repository - 1|`https://github.com/appieschot/cli-test.git`|Any public repository will do.|
 |Volume Name - 1|gitrepo||
 |ContainerGroup Managed Identity User Assigned Identities|{"/subscriptions/[guid]/resourcegroups/[rg-name]/providers/microsoft.managedidentity/userassignedidentities/[identity-name]": {}}|Make sure to update the bold parts.|
 |ContainerGroup Restart Policy|OnFailure|Make sure the container is restarted if there are problems.|

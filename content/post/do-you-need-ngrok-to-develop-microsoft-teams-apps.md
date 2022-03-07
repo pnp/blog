@@ -17,11 +17,11 @@ applications for Microsoft Teams, you may have seen a tool
 called [ngrok](https://www.ngrok.com/) as a prerequisite in various
 tutorials and lab exercises. It's also integrated with a number of
 tools such as the [Microsoft Teams
-Toolkit](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview?WT.mc_id=m365-27674-rogerman) and
+Toolkit](https://docs.microsoft.com/microsoftteams/platform/toolkit/visual-studio-code-overview?WT.mc_id=m365-27674-rogerman) and
 the [yo
-teams](https://docs.microsoft.com/en-us/microsoftteams/platform/tutorials/get-started-yeoman?WT.mc_id=m365-27674-rogerman) generator;
+teams](https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-yeoman?WT.mc_id=m365-27674-rogerman) generator;
 even the [Bot Framework
-Emulator](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-debug-emulator?WT.mc_id=m365-27674-rogerman) has
+Emulator](https://docs.microsoft.com/azure/bot-service/bot-service-debug-emulator?WT.mc_id=m365-27674-rogerman) has
 an ngrok option.
 This article will explain what ngrok is, why it's useful, and what to
 do instead if you or your company are uncomfortable using it. Also,
@@ -39,6 +39,7 @@ Web developers typically host a small web server on the same computer
 where they edit their code to run and debug their applications. For
 Microsoft Teams developers in particular, ngrok is very handy in this
 situation. Here's why:
+
 1.  ngrok provides the encryption needed for https, which is required
     for Teams applications. It's set up using a trusted TLS certificate
     so it just works immediately in any web browser.
@@ -72,6 +73,7 @@ that reason, some IT departments block all access to ngrok.
 > Internet to your development computer, and thus the same security
 > concerns usually arise. This article will only consider approaches
 > that don't involve tunneling from the Internet.
+> 
 ## Tunneling explained 
 
 Most computers that are connected to the Internet aren't connected
@@ -92,7 +94,7 @@ from the Internet? Bots are an example of this; the requests come from
 the Azure Bot service in the cloud, not from a local web browser or
 other client program. Another place this comes up is when implementing
 webhooks such as [Microsoft Graph change
-notifications](https://docs.microsoft.com/en-us/graph/api/resources/webhooks?WT.mc_id=m365-27674-rogerman);
+notifications](https://docs.microsoft.com/graph/api/resources/webhooks?WT.mc_id=m365-27674-rogerman);
 the notifications are HTTP(s) requests that come from the Internet.
 The problem is these incoming requests are normally blocked by the
 firewall. If you've ever opened a port on your home router to allow a
@@ -116,7 +118,7 @@ Suppose your local web server is
 at [http://localhost:3978](http://localhost:3978/) (the default for
 bots). Then run this ngrok command line:
 
-```
+```bash
 ngrok http 3978
 ```
 
@@ -125,7 +127,7 @@ You will then see a screen like this:
 
 {{< image alt="ngrok-screenshot.png" src="images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-screenshot.png" >}}
 The \"Forwarding\" lines show what's happening. Requests arriving at
-http://(something).ngrok.io or https://(something).ngrok.io will be
+`http://(something).ngrok.io` or `https://(something).ngrok.io` will be
 forwarded to [http://localhost:3978](http://localhost:3978/) where your
 bot code is running. At this point you would put the
 "something.ngrok.io" address into your Azure bot configuration, Teams
@@ -150,7 +152,7 @@ The example above assumes that your local server is running http on the
 specified port. If your local server is running https you need a
 different command or it won't connect:
 
-```
+```bash
     ngrok http https://localhost:3978
 ```
 
@@ -170,7 +172,7 @@ headers with the local host name. Simply add the `-host-header` command
 switch to enable this.
 For example,
 
-```
+```bash
     ngrok http -host-header=localhost:3978 3978
 ```
 
@@ -200,7 +202,7 @@ application:
 -   Tabs and Tab Configuration Pages
 -   Task Modules (dialog boxes)
 -   Connector Configuration Pages
--   
+
 These features are backed by ordinary web pages that are displayed in an
 IFrame within the Microsoft Teams user interface. Tabs using the Azure
 Active Directory Single Sign-On (SSO) option also need to implement a
@@ -214,6 +216,7 @@ connection or it won't display. ngrok translates trusted https requests
 into local http requests, so it just works. But if you'd rather not
 have a tunnel to the Internet as part of your setup, you can do this all
 locally. It's just more work.
+
 ### Setting up a trusted https server 
 
 On a NodeJS server, you can usually enable https by editing
@@ -234,7 +237,7 @@ just works without any fuss. The local web server, on the other hand,
 will most likely have a self-signed, untrusted certificate. So the trick
 is to get your browser and/or Microsoft Teams to trust it.
 An option that often works is to browse to the local server from a
-regular web browser, click the security error, and tell the browser to
+regular web browser, select the security error, and tell the browser to
 trust the certificate. You can then run Teams in the same browser and
 bypass the issue. If the Teams client shares the same certificate store
 as your browser, it will also work. However these default certificates
@@ -267,7 +270,7 @@ and phone 2 is connected locally.
 
 {{< image alt="ngrok-mobile-device.png" src="images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-mobile-device.png" >}}
 [To set up local access you'll need a server name other
-than][ ]`localhost`[,
+than]`localhost`[,
 and you'll need to open a path on the local network from your phone to
 your local web server. Here are the high-level steps; the details vary
 depending on your phone OS, development computer OS, and network
@@ -298,13 +301,13 @@ Several features of Teams applications are based on a web service within
 your application that is called from the cloud. These are:
 
 -   Bots (called by [Azure Bot
-    Service](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?WT.mc_id=m365-27674-rogerman))
+    Service](https://docs.microsoft.com/azure/bot-service/bot-service-manage-channels?WT.mc_id=m365-27674-rogerman))
 -   Messaging Extensions (called by [Azure Bot
-    Service](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?WT.mc_id=m365-27674-rogerman))
+    Service](https://docs.microsoft.com/azure/bot-service/bot-service-manage-channels?WT.mc_id=m365-27674-rogerman))
 -   [Microsoft Graph change
-    notifications](https://docs.microsoft.com/en-us/graph/api/resources/webhooks?WT.mc_id=m365-27674-rogerman)
+    notifications](https://docs.microsoft.com/graph/api/resources/webhooks?WT.mc_id=m365-27674-rogerman)
 -   [Outgoing
-    webhooks](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-outgoing-webhook?WT.mc_id=m365-27674-rogerman)
+    webhooks](https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/add-outgoing-webhook?WT.mc_id=m365-27674-rogerman)
 All of these are implemented as REST services and could be built with
 any tool chain, but the requests will come from the cloud, so you need
 to have a port listening on the Internet to receive those requests.
@@ -314,20 +317,22 @@ to have a port listening on the Internet to receive those requests.
 Microsoft Teams that doesn't involve opening a port on the Internet or
 using some sort of tunnel, ngrok or otherwise. The same is true
 for[outgoing
-webhooks](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-outgoing-webhook?WT.mc_id=m365-27674-rogerman),
+webhooks](https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/add-outgoing-webhook?WT.mc_id=m365-27674-rogerman),
 which are outgoing from Teams to your
 app).]
 If ngrok isn't on your road map, don't worry, there are still options
 available!
+
 ### Option 1. Use the Bot Framework Emulator 
+
 If you're building a bot, consider using the [Bot Framework
-Emulator](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-debug-emulator?WT.mc_id=m365-27674-rogerman),
+Emulator](https://docs.microsoft.com/azure/bot-service/bot-service-debug-emulator?WT.mc_id=m365-27674-rogerman),
 which allows you to run bots locally without using the Azure Bot
 Service. Instead of running your bot in Teams, you run it in the
 emulator. The drawback is that the emulator doesn't currently
 understand some Teams-specific features such as messaging extensions
 or [other Invoke
-activities](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/bot-basics?WT.mc_id=m365-27674-rogerman#teams-specific-activity-handlers).
+activities](https://docs.microsoft.com/microsoftteams/platform/bots/bot-basics?WT.mc_id=m365-27674-rogerman#teams-specific-activity-handlers).
 However it does a great job running conversational bots! Adaptive cards
 work as well, though Invoke card actions do not.
 If your bot isn't too Teams-specific, consider using the Bot Framework
@@ -343,7 +348,7 @@ service and use the remote debugger. Here are the instructions
 for [Visual Studio Code
 (NodeJS)](https://code.visualstudio.com/docs/azure/remote-debugging?WT.mc_id=m365-27674-rogerman) and [Visual
 Studio 2019
-(.NET)](https://docs.microsoft.com/en-us/visualstudio/azure/vs-azure-tools-debug-cloud-services-virtual-machines?WT.mc_id=m365-27674-rogerman).
+(.NET)](https://docs.microsoft.com/visualstudio/azure/vs-azure-tools-debug-cloud-services-virtual-machines?WT.mc_id=m365-27674-rogerman).
 You could even set up a development virtual machine (VM) in Azure or
 your cloud service of choice and open an incoming port for the Azure Bot
 Service. Or just run ngrok in the VM, away from the concerns of a
@@ -352,12 +357,12 @@ corporate network.
 ### How many services do you have?
 
 Teams applications generated by the [yo
-teams](https://docs.microsoft.com/en-us/microsoftteams/platform/tutorials/get-started-yeoman?WT.mc_id=m365-27674-rogerman) generator
+teams](https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-yeoman?WT.mc_id=m365-27674-rogerman) generator
 have a single web server, so if your app has a combination of features -
 say, tabs and a bot - you can use one ngrok tunnel or one for all your
 application features.
 Teams applications generated by the [Microsoft Teams
-Toolkit](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview?WT.mc_id=m365-27674-rogerman) generate
+Toolkit](https://docs.microsoft.com/microsoftteams/platform/toolkit/visual-studio-code-overview?WT.mc_id=m365-27674-rogerman) generate
 multiple web servers (one for tabs, another for bots, and a third for
 the SSO web service if you use it). If you want to use ngrok, you'll
 need a tunnel for each one. This requires the paid service and you'll
@@ -368,9 +373,9 @@ service.
 Of course you don't have to use either of these tools; they're really
 just a convenience! You can use any tools you wish and create the Teams
 application package in [App
-Studio](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/app-studio-overview?WT.mc_id=m365-27674-rogerman) or
+Studio](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/app-studio-overview?WT.mc_id=m365-27674-rogerman) or
 by editing your
-own [manifest.json](https://docs.microsoft.com/en-us/microsoftteams/platform/resources/schema/manifest-schema?WT.mc_id=m365-27674-rogerman) file
+own [manifest.json](https://docs.microsoft.com/microsoftteams/platform/resources/schema/manifest-schema?WT.mc_id=m365-27674-rogerman) file
 and zipping it up with a couple icons.
 
 ## Summary
@@ -391,6 +396,6 @@ services will be called from the Internet and plan accordingly.
 -   [Setting up SSL for tabs in the Teams Toolkit for Visual Studio
     Code](https://aka.ms/tabs-without-ngrok-article)
 -   [Debug a bot from any channel using
-    ngrok](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-debug-channel-ngrok?WT.mc_id=m365-27674-rogerman)
+    ngrok](https://docs.microsoft.com/azure/bot-service/bot-service-debug-channel-ngrok?WT.mc_id=m365-27674-rogerman)
 -   [Testing authentication to your bot using the Bot Framework
     Emulator](https://blog.botframework.com/2018/08/28/testing-authentication-to-your-bot-using-the-bot-framework-emulator/?WT.mc_id=m365-27674-rogerman)

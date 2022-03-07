@@ -23,7 +23,7 @@ Let's dive into the topic, without any further delay: Here are 9 things
 I've learned while building my first canvas app. Why only 9? Why not 10?
 Because I want to leave room for improvement ;)
 
-## **1. Canvas App vs Model driven app**
+## 1. Canvas App vs Model driven app
 
 The first question I had for myself was "Do I want to build a model
 driven app or a canvas app"? And since I had no idea at all, I tried to
@@ -51,15 +51,15 @@ For me it was so much easier to start with a canvas app. There is
 nothing there, just the plain white canvas. And that had two very
 important effects:
 
-1\. I was forced to build the app step by step and let it grow over
+1.  I was forced to build the app step by step and let it grow over
 time.
 
-2\. I learned how the connections, items and bits worked from the very
+2.  I learned how the connections, items and bits worked from the very
 beginning.
 
 Let's get into those two aspects a little bit deeper, shall we?
 
-## **2. Scavenger Hunt. Build your app bit by bit**
+## 2. Scavenger Hunt. Build your app bit by bit
 
 If you build your app step by step you are forced to think about an MVP
 in the very beginning. I don't talk about the Microsoft Most Valuable
@@ -74,7 +74,7 @@ You will get the feeling, while your app grows and gets more
 functionality, it will become YOUR baby. Your thing, that you created
 out of nothing. There's hardly a related feeling.
 
-## **3. It's Trial and Error all the time**
+## 3. It's Trial and Error all the time
 
 Start with a canvas app and add functionality piece by piece. If
 something doesn't work, you know exactly what you did, before it broke
@@ -94,11 +94,11 @@ work.
 
 Get used to it and embrace failure as THE way of learning.
 
-## **4. You're constantly reading Microsoft Docs. All the time**
+## 4. You're constantly reading Microsoft Docs. All the time
 
 Usually I have an idea in my mind, what I want my app to do. Then I
 start to google, if this is even possible, I'll find the right function
-and read on [Microsoft Docs](https://docs.microsoft.com/en-us/) how this
+and read on [Microsoft Docs](https://docs.microsoft.com/) how this
 works. I try it out. Doesn't' work? Back to Microsoft Docs. Are all the
 circumstances okay? Did you use the same data source as MS docs
 describes it? Try it out again. Still not working? Back to reading MS
@@ -111,7 +111,7 @@ up things again and again. MS docs has (nearly) all the information you
 need to make this work. It's all in there, but you have to be prepared
 to dig into this. Really deep.
 
-## **5. Knowing about the Power Apps Community is crucial**
+## 5. Knowing about the Power Apps Community is crucial
 
 MS docs may have the answer to your problem, but quite often I couldn't
 find the right answer, or I didn't understand the answer at all (no tech
@@ -129,7 +129,7 @@ Quite often these people don't give you a plain manual but describe
 their problem and their solution. That makes it easier to understand it
 yourself.
 
-## **6. Find someone who can take you by hand**
+## 6. Find someone who can take you by hand
 
 MS docs and the community are awesome. Hands down. But I found myself in
 a couple of situations where I wasn't really able to explain my problem
@@ -169,7 +169,7 @@ gaining experience and get deeper into the topic themselves.
 
 It's a win-win situation.
 
-## **7. Always insert, create, make!** 
+## 7. Always insert, create, make!
 
 > "Nothing will work, unless you do!" -- Maya Angelou
 
@@ -183,7 +183,7 @@ out. Yes, it may be frustrating, but that is part of the learning
 process and it's actually good for you.
 
 If you are building a canvas app, you can undo every step you take, so
-there is actually little risk to try things out. Click and see, what
+there is actually little risk to try things out. select and see, what
 happens. It will teach you a lot.
 
 Here is a little trick that I found especially useful: Always make a
@@ -194,7 +194,7 @@ There are no other functions on that button but the one I want to test.
 If it works, I copy the code and paste it into the place, where I
 originally wanted it.
 
-## **8. Form follows function. Make it work, then make it pretty**
+## 8. Form follows function. Make it work, then make it pretty
 
 I think this point should be obvious from what I explained earlier, but
 this was hard for me to learn. You take care of the functionality first;
@@ -220,7 +220,7 @@ difficult.
 {{< image alt="Compare frontend and Backend" src="images/blog/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/backend.png" >}}
 
 
-## **9. Give back to the community. Tell others, what and how you did it**
+## 9. Give back to the community. Tell others, what and how you did it
 
 Maybe that is one of the most important parts. I talked a lot about the
 community, about resources to learn online, about getting help from the

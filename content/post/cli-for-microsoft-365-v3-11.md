@@ -12,10 +12,10 @@ type: "regular"
 
 ---
 
-## {{< image alt="CLI for Microsoft 365 v3.11" src="images/blog/cli-for-microsoft-365-v3-11/banner-cli-m365.png" >}}
+{{< image alt="CLI for Microsoft 365 v3.11" src="images/blog/cli-for-microsoft-365-v3-11/banner-cli-m365.png" >}}
  
 [Manage Microsoft 365 and SharePoint Framework projects on any
-platform]{style="color: inherit; font-size: 24px;"}
+platform]
 
 
 CLI for Microsoft 365 is a cross-platform CLI that allows you to manage
@@ -32,17 +32,7 @@ Microsoft 365, you can configure your tenant no matter which operating
 system you use. Additionally, using CLI for Microsoft 365, you can
 manage your SharePoint Framework projects.
 
-
-
- 
-
-
-
 New version of CLI for Microsoft 365 -- v3.11
-
-
-
-
 
 Following our monthly release cadence, we've released a new version of
 the CLI for Microsoft 365 with some new capabilities. Here are a few of
@@ -124,6 +114,7 @@ command to enable you to return a Power App by its name making it much
 more user friendly.
  
 To retrieve details of a Power App by its name, execute:
+
 ```bash
 m365 pa app get --displayName App
 ```
@@ -135,11 +126,13 @@ description property. In this release, we have enhanced commands to
 provide support for updating this on both modern and classic sites.
  
 To update the description on a modern SharePoint Online site, execute:
+
 ```bash
 m365 spo site set --url https://contoso.sharepoint.com/sites/ModernSite --description "something"
 ```
  
 To update the description on a classic SharePoint Online site, execute:
+
 ``` {.lia-code-sample .language-applescript}
 m365 spo site classic set --url https://contoso.sharepoint.com/sites/ClassicSite --description "something"
 ```
@@ -170,12 +163,11 @@ recommendation how to address these issues.
  
 To verify if your environment meets the requirements to work with the
 SharePoint Framework, execute:
+
 ```bash
 m365 spfx doctor
 ```
 
-
-##   
 ## New Commands 
  
 **Remove role from Azure AD application**
@@ -200,6 +192,7 @@ update the application URI property value.  
  
 To update the application URI of an Azure AD application registration
 specified by its name, execute:
+
 ```bash
 m365 aad app set --name "My app" --uri https://contoso.com/e75be2e1-0204-4f95-857d-51a37cf40be8
 ```
@@ -218,6 +211,7 @@ that removes all of the groups in the recycle bin in a single command to
 make this easier.
  
 To remove all deleted Microsoft 365 Groups in the tenant, execute:
+
 ```bash
 m365 aad o365group recyclebinitem clear
 ```
@@ -229,12 +223,14 @@ config* commands. In this release we have added the ability for you to
 reset these options back to their default values.
  
 To reset the *showHelpOnFailure* to its default value, execute:
+
 ```bash
 m365 cli config reset --key showHelpOnFailure
 ```
  
 Alternatively, to reset all configuration options to their default
 values, execute:
+
 ```bash
 m365 cli config reset
 ```
@@ -246,6 +242,7 @@ as well as who has made those activations.
  
 To get the count of Microsoft 365 activations on desktops and devices,
 execute:
+
 ```bash
 m365 tenant report office365activationcounts
 ```
@@ -253,11 +250,13 @@ m365 tenant report office365activationcounts
 To get the count of users that are enabled and those that have activated
 the Office subscription on desktop or devices or shared computers,
 execute:
+
 ```bash
 m365 tenant report office365activationsusercounts
 ```
  
 To get details about users who have activated Microsoft 365, execute:
+
 ```bash
 m365 tenant report office365activationsuserdetail
 ```
@@ -276,7 +275,7 @@ To generate a web part that shows the weather for Amsterdam, load web
 part contents from a local file, allow the web part to be deployed to
 all sites and expose the web part in Teams as a personal tab, execute:
     m365 spfx package generate --webPartTitle "Amsterdam weather" --webPartDescription "Shows weather in Amsterdam" --packageName amsterdam-weather --html @amsterdam-weather.html --allowTenantWideDeployment --enableForTeams all
-##   
+
 ## New script samples 
  
 
@@ -296,14 +295,6 @@ If you have any scripts that you use frequently, please
 [share](https://github.com/pnp/cli-microsoft365/discussions) them with
 us so that we can learn more about the common automation scenarios.
 
-
-
- 
-
-
-
-
-
 **Resubmit all failed Power Automate Flow runs for a specific flow in an
 environment**
 
@@ -318,11 +309,6 @@ will resubmit all failed flow runs of a Power Automate flow created in
 an environment. 
 
 
-
- 
-
-
-
 **Cancel all running Power Automate Flow runs for a Flow in an
 environment**
 
@@ -331,21 +317,10 @@ environment**
 Do you want to automate the cancellation of running Power Automate Flow
 runs?
 
-
-
- 
-
-
-
 This
 [script](https://pnp.github.io/cli-microsoft365/sample-scripts/flow/cancel-all-running-flow-runs/)
 will cancel all running flow runs of a Power Automate flow created in an
 environment.
-
-
-
- 
-
 
 
 **Remove SharePoint API permissions**
@@ -375,11 +350,7 @@ This
 [script](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/remove-pending-api-permission-requests/)
 helps you to quickly remove pending SharePoint API permission requests.
 
-
-
-##   
 ## Contributors 
- 
 
 
 This release wouldn't be possible without the help of (in alphabetical
@@ -405,15 +376,8 @@ order)
 Thank you all for the time you chose to spend on the CLI for Microsoft
 365 and your help to advance it!
 
-
-
- 
-
-
-
 ## Work in progress 
  
-
 
 Here are some things that we're currently working on.
 
@@ -447,23 +411,13 @@ configured Azure AD app for the most common scenarios with just one line
 of code.
 
 
-
- 
-
-
-
 We're currently working on adding support for updating Azure AD app
 registration which will be helpful for example when building apps for
 Microsoft Teams. Stay tuned!
 
 
-
- 
-
 ### Script examples 
  
-
-
 In every release of the CLI for Microsoft 365, we introduce new commands
 for managing Microsoft 365. With over 350 commands across the different
 Microsoft 365 services, the CLI for Microsoft 365 has become a powerful
@@ -479,12 +433,7 @@ using SPO or PnP PowerShell that you use frequently, please share them
 with us so that we can learn more about the common automation scenarios.
 
 
-
- 
-
 ### 'ensure' commands 
- 
-
 
 Recently, we shipped our first ensure command - an [easy way to help you
 that a site with specific settings

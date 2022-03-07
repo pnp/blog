@@ -20,6 +20,7 @@ for **SharePoint** Online.
 
 ## Call summary
 
+
 Summer and Fall community call schedule updates reviewed.  Register
 today for July/August events on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).   [PnP
@@ -52,6 +53,8 @@ It's great to see spirits are high in the month of July!   Nice to see
 everyone.   See you again soon!  
 
 ## Actions
+
+
 
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [August
@@ -104,7 +107,8 @@ everyone.   See you again soon!  
 
 
 
-**SPFx extension samples:  (<https://aka.ms/spfx-extensions>) **
+**SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
+
 -   **[List
     Notifications](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-my-lists-notifications)
     -** [João
@@ -115,7 +119,8 @@ everyone.   See you again soon!  
     Ferreira](http://twitter.com/joao12ferreira) | \@joao12ferreira
 
 
-**SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
+**SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
+
 -   **[Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)** -
     [Mohammad Amer](http://twitter.com/Mohammad3mer) | \@Mohammad3mer
 -   **[Tiles
@@ -177,6 +182,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
     [
     --][ [45:02](https://youtu.be/RwgpMcqLgrs?t=2702)]
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -210,7 +217,7 @@ slides.
 -   SharePoint Framework - v1.12.1 npm install
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
@@ -224,7 +231,7 @@ slides.
     series](https://aka.ms/mgtLap)
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
 -   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
@@ -263,14 +270,17 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 -   **Power Apps monthly call** -- July 21st at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
 -   **M365 General Dev call** -- July 22nd at 7:00 am PDT |

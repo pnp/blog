@@ -10,7 +10,7 @@ tags: []
 type: "regular"
 
 
----# How started with Graph Explorer
+---
 
 {{< image alt="adi-suryanata-5T0bY-x9A8U-unsplash.jpg" src="images/blog/how-to-get-started-with-graph-explorer/adi-suryanata-5T0bY-x9A8U-unsplash.jpg" >}}
 
@@ -23,9 +23,13 @@ What does it do? Well, it lets us explore Graph! It's a learning
 playground where we can try out requests, get responses, learn about
 permission scopes, and more. To access Graph Explorer, visit
 [aka.ms/ge](https://aka.ms/ge) and make yourself familiar with it:
+
 {{< image alt="overview.png" src="images/blog/how-to-get-started-with-graph-explorer/overview.png" >}}
+
 ### Authentication 
+
 You can decide if you want to sign in or if you want to try out with
+
 sample data provided by Microsoft. I recommend 'playing' in your
 developer tenant; if you don't have one, [learn here how to join the
 Microsoft 365 developer program and get a developer
@@ -33,7 +37,7 @@ tenant](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-
 The benefit of signing in with your (developer) account is, that you can
 execute all requests including POST and DELETE requests, which is not
 possible in the sample account.
-When you click the gear icon, you will find a shortcut to the Microsoft
+When you select the gear icon, you will find a shortcut to the Microsoft
 365 developer program website (to get your sandbox with sample data),
 and you can change the theme as it suits your needs best. I like dark
 mode most :black_heart:.
@@ -42,7 +46,7 @@ mode most :black_heart:.
 ### Sample queries 
 
 You will find sample queries below authentication - some may be disabled
-if you are not logged in. If you click on a sample, like I did in the
+if you are not logged in. If you select  a sample, like I did in the
 screenshot below, Graph Explorer will send this HTTP request to
 Microsoft Graph - and get my joined teams. We can see this in the
 request area (upper part) and the response area (lower part):
@@ -52,22 +56,27 @@ We now want to create a channel called 'Microsoft Graph' in the Team
 'Insidious Word Domination Plans'. We first copy the ID of the Team
 from the response of that request and then use this ID in the next
 sample we try out, which is:
+
 {{< image alt="post-teams-channel.png" src="images/blog/how-to-get-started-with-graph-explorer/post-teams-channel.png" >}}
 
 We then replace the \`{teams-id}\` placeholder with the copied ID value
 from the previous request and change the body to our needs:
+
 {{< image alt="post-teams-channel-replace.png" src="images/blog/how-to-get-started-with-graph-explorer/post-teams-channel-replace.png" >}}
 
 In the \*\*Modify permissions\*\* tab, we can learn about - and consent
 to permissions needed to execute this request:
+
 {{< image alt="modify-permissions.png" src="images/blog/how-to-get-started-with-graph-explorer/modify-permissions.png" >}}
 
 But the awesomeness of this tool doesn't stop here - we get
 ready-to-use code snippets in different languages to insert them into
 our applications:
+
 {{< image alt="code-snippet-js.png" src="images/blog/how-to-get-started-with-graph-explorer/code-snippet-js.png" >}}
 
 And for some GET requests, we even get Adaptive Cards:
+
 {{< image alt="adaptivecards-json.png" src="images/blog/how-to-get-started-with-graph-explorer/adaptivecards-json.png" >}}
 
 We can also try out Microsoft Graph Toolkit components right here,
@@ -77,10 +86,11 @@ unfamiliar with Microsoft Graph Toolkit, you can read how I started to
 use it - in my [blog series about
 MGT](https://m365princess.com/exploring-microsoft-graph-toolkit-lap-as-non-developer/) -
 I also recommend having a look at the beautiful \[Microsoft Graph
-component\](<https://developer.microsoft.com/en-us/graph/components> )
+component\](<https://developer.microsoft.com/graph/components> )
 browser.
 Last but not least: Documentation to every sample is nicely tied in -
-click on the pop-out icon next to the sample queries:
+select  the pop-out icon next to the sample queries:
+
 {{< image alt="pop-out-docs.png" src="images/blog/how-to-get-started-with-graph-explorer/pop-out-docs.png" >}}
 
 
@@ -97,6 +107,7 @@ connector](https://m365princess.com/how-to-use-a-custom-connector-in-power-autom
 [How to get started with HTTP requests in Power
 Automate](https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate)
 To get from the rough idea to a working up, I follow this process:
+
 1.  Read the docs. I mean, seriously. learn, which endpoint you will
     need to call, which permissions you will need.
 2.  Try out in Graph Explorer; when it works, proceed to step 3, in case
@@ -119,12 +130,13 @@ your app.
 I am curious - which other tools help you developing with Microsoft
 Graph? Recently, [Elio Struyf published a VSCode
 extension](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-msgraph-autocomplete),
-that auto-completes Graph URLs for you, read more about it
-[here](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-vscode-extension-for-autocompleting-your-microsoft-graph/ba-p/2231013).
+that auto-completes Graph URLs for you, read more about it:
+[vscode-msgraph-autocomplete](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-vscode-extension-for-autocompleting-your-microsoft-graph/ba-p/2231013).
 Also, please share below what you build with Microsoft Graph? And how
 you use Graph Explorer? If you like to contribute, you can check out
 [Graph Explorer on
 GitHub.](https://github.com/microsoftgraph/microsoft-graph-explorer-v4)
 I am looking forward to your feedback!
+
 ❤ Sharing is Caring
  

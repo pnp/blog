@@ -75,19 +75,19 @@ your part.
 
 ### On Windows 
 
--   Double click on the `ca.crt` file and click "Install Certificate".
+-   Double select  the `ca.crt` file and select "Install Certificate".
     \
     {{< image alt="ssl-01.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-01.png" >}}
 
--   Choose Local Machine and click next.
+-   Choose Local Machine and select next.
     \
     {{< image alt="ssl-02.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-02.png" >}}
 
      
 
 -   Select "Place all certificates in the following store" and then
-    click the "Browse" button. Choose "Trusted Root Certification
-    Authorities" click "OK" to close the dialog box, and then click
+    select the "Browse" button. Choose "Trusted Root Certification
+    Authorities" select "OK" to close the dialog box, and then click
     "Next".
     \
     {{< image alt="ssl-03.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-03.png" >}}
@@ -97,12 +97,12 @@ your part.
 
 ### On Mac 
 
--   Double click on the **ca.crt** file, which should be found
+-   Double select  the **ca.crt** file, which should be found
     under `/Users/[your-name]/`. It will launch Keychain Access app.
 -   Enter your password or use Touch ID when prompted. \
     {{< image alt="ssl-mac-01.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-mac-01.png" >}}
 -   The new certificate (in this case, "MyOrg") should be added.
-    Double-click it. \
+    Double-select it. \
     {{< image alt="ssl-mac-02.png" src="images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/ssl-mac-02.png" >}}
 -   In a new window, expand the **Trust** section of the certificate
     details. Select "Always Trust" for every option. \
@@ -171,22 +171,20 @@ To enable SSL here, follow these steps:
 1.  Add these lines to the `api-server\.env` file.
 
 `HTTPS=trueSSL_CRT_FILE=../.cert/cert.crtSSL_KEY_FILE=../.cert/cert.keyCORS_ORIGIN=https://devappsforteams.local:3000`
-
-2\. Immediately above the
+2.  Immediately above the
 line `app.get('/getGraphAccessToken')` in `server.ts` or `server.js`,
 add these lines to allow the cross-origin call from the web page (port
 3000) to the web service (port 5000):
 
 `const cors = require('cors');app.use(cors({    origin: process.env.CORS_ORIGIN}));`
-
-3\. Near the bottom of the same file, replace the line
+3.  Near the bottom of the same file, replace the line
 
 `app.listen(port);`
 
 with this code:
 
 
-```
+```js
 const fs = require('fs');const https = require('https');var privateKey = fs.readFileSync(process.env.SSL_KEY_FILE );var certificate = fs.readFileSync(process.env.SSL_CRT_FILE);https.createServer({    key: privateKey,    cert: certificate}, app).listen(port);
 ```
 

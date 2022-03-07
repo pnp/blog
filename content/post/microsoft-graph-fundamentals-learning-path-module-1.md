@@ -16,7 +16,7 @@ type: "regular"
 
 This blog post will summarize how I did the brand new [Microsoft Graph
 Fundamentals Learning
-path](https://docs.microsoft.com/en-us/learn/paths/m365-msgraph-fundamentals/).
+path](https://docs.microsoft.com/learn/paths/m365-msgraph-fundamentals/).
 Microsoft Graph Fundamentals consists of 3 modules:
 
 1.  What is Microsoft Graph - lets you understand the Graph services and
@@ -36,10 +36,6 @@ Microsoft Graph Fundamentals consists of 3 modules:
 
 The whole learning path is estimated to take us \~75 minutes. Let's see
 how it goes 
-
-::: {#tinyMceEditorLuise Freese_1 .mceNonEditable .lia-copypaste-placeholder}
- 
-:::
 
  
 
@@ -79,7 +75,7 @@ three tremendous advantages of it:
 For this module, you will need to be a global admin in a Microsoft 365
 tenant. The easiest way to have this is to [join the Microsoft 365
 developer
-program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) and
+program](https://developer.microsoft.com/microsoft-365/dev-program) and
 get a free E5 subscription. If you are not familiar with this,
 read [Julie Turner's article about
 it](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-dev-tenant-and-why-would-you-want-one/ba-p/2036610),
@@ -153,7 +149,7 @@ beautiful UI, Graph Explorer provides you with:
 You see, this is the 'absolutely carefree package' provided by the
 Microsoft Graph team.
 
-## Conclusion on Module 1:
+## Conclusion on Module 1
 
 Microsoft Graph is not only THE door opener to access all kinds of
 information and data across Microsoft 365 for developers and makers.

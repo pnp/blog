@@ -30,7 +30,7 @@ you design your application.
 
 Don't worry, there is another endpoint that you can rely upon which will
 achieve the same result which
-is [`/_api/SP.Web.ShareObject`](https://docs.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.client.web.shareobject?view=sharepoint-csom).
+is [`/_api/SP.Web.ShareObject`](https://docs.microsoft.com/dotnet/api/microsoft.sharepoint.client.web.shareobject?view=sharepoint-csom).
 This is the same endpoint that is used when you add users to the Owners
 / Members / Visitors from the user interface of the Modern SharePoint
 site. This endpoint is used primarily for sharing the Site, Folder,
@@ -45,7 +45,7 @@ something like below.
 
 BODY:
 
-```
+```JSON
 {
     "url": "https://tenantname.sharepoint.com/sites/SiteName",
     "peoplePickerInput": "[{"Key":"user1@tenantname.onmicrosoft.com"},{"Key":"user2@tenantname.onmicrosoft.com"}]",
@@ -77,7 +77,7 @@ users will be added.
 
 Since this API has a feature to share the site or document with external
 users also, it has [many
-properties](https://docs.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.client.web.shareobject?view=sharepoint-csom#parameters) which
+properties](https://docs.microsoft.com/dotnet/api/microsoft.sharepoint.client.web.shareobject?view=sharepoint-csom#parameters) which
 will be relevant in those scenarios. But for us, since we are just
 adding the user to the SharePoint group, all we need is the above list
 of objects in the JSON body.
@@ -87,12 +87,12 @@ of objects in the JSON body.
 > With Power comes ~~Responsility~~ Caveats (Some)
 
 Since we are using the API which is used for [Sharing the
-Site](https://support.microsoft.com/en-us/office/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658),
+Site](https://support.microsoft.com/office/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658),
 the API even supports adding the permission to the users albeit users
 are not part of your Active Directory. That being the case when you try
 to add the users who are not part of your AD, there will be 2 outcomes.
 
-### [Sharing Options is "Anyone"](https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site#which-option-to-select)
+### [Sharing Options is "Anyone"](https://docs.microsoft.com/sharepoint/change-external-sharing-site#which-option-to-select)
 
 When you have external sharing enabled and are trying to add a user who
 is not part of your site there wouldn't be any error thrown by the API,

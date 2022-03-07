@@ -15,7 +15,10 @@ type: "regular"
 
 {{< image alt="office-add-ins-call-recording-9th-june.png" src="images/blog/office-add-ins-community-call-june-2021/office-add-ins-call-recording-9th-june.png" >}}
 
-## Call Summary: 
+
+## Call summary
+
+
 
 This month's community call features presentations - Excel v1.13 API
 updates (highlights 2 new APIs  **insertWorksheetFromBase64** and
@@ -31,7 +34,8 @@ was hosted by David Chesnut (Microsoft) | \@davidchesnut. Microsoft
 Presenters: Raymond Lu and Juan Balmori | \@juaneloBalmori.  Special
 guest presenters James Wayne and Phillip Vetter from Exclaimer Cloud. 
 Recorded on June 9, 2021.
-## Agenda: 
+
+## Agenda
 
 June's call, hosted by **David Chesnut**, featured the following
 presenters and topics:
@@ -46,10 +50,10 @@ presenters and topics:
     (Microsoft) | \@davidchesnut -
     [37:12](https://youtu.be/934N5mZY_5M?t=2232)
 
- {.video-embed-center .video-embed}
-:::
-:::
+
+
 ## Q&A (Question & Answers) 
+
 Unfortunately, we had some issues with the chat during the call. We
 apologize to folks who were not able to ask a question. If you have a
 question, you can reach out to us by using our short [survey
@@ -65,7 +69,7 @@ time.**
 We can help with Office Add-ins development, but this is a good question
 for Microsoft Teams. We recommend asking this question on
 [office-teams-app-dev - Microsoft
-Q&A.](https://docs.microsoft.com/en-us/answers/topics/office-teams-app-dev.html)
+Q&A.](https://docs.microsoft.com/answers/topics/office-teams-app-dev.html)
 Thanks!
 **Are there plans to provide access to the Outlook auto-complete list
 via office-js? The list is available in the UI on mobile, OWA and
@@ -97,7 +101,7 @@ you do, you should use the official MSAL package for the
 framework/language of choice as recommended by Microsoft Azure. For more
 information see [Enable single sign-on for Office Add-ins - Office
 Add-ins | Microsoft
-Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/sso-in-office-add-ins)
+Docs](https://docs.microsoft.com/office/dev/add-ins/develop/sso-in-office-add-ins)
 
 
 **I am attempting to implement the shared JavaScript runtime. However, I
@@ -131,25 +135,27 @@ that uses a shared runtime.
 You can also run [manifest
 validation](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest)
 which can provide more information about the error.
-## Resources: 
+
+
+## Resources
 
 ### Excel API updates 
 
 -   insertWorksheetsFromBase64 - [Work with workbooks using the Excel
     JavaScript API - Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-workbooks#insert-a-copy-of-an-existing-workbook-into-the-current-one-preview)
+    Docs](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-workbooks#insert-a-copy-of-an-existing-workbook-into-the-current-one-preview)
 -   onFormulaChanged - [Work with worksheets using the Excel JavaScript
     API - Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-worksheets#detect-formula-changes-preview)
+    Docs](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-worksheets#detect-formula-changes-preview)
 -   getDirectDependents - [Work with formula precedents and dependents
     using the Excel JavaScript API - Office Add-ins |
-    Micros\...](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-ranges-precedents-dependents)
+    Micros\...](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-ranges-precedents-dependents)
 -   Workbook.onActivated - [Work with workbooks using the Excel
     JavaScript API - Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-workbooks#detect-workbook-activation-preview)
+    Docs](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-workbooks#detect-workbook-activation-preview)
 -   Table.resize - [Work with tables using the Excel JavaScript API -
     Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-tables#resize-a-table-online-only)
+    Docs](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-tables#resize-a-table-online-only)
 
 ### Outlook add-ins Build conference recap 
 

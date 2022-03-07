@@ -26,9 +26,9 @@ connection dashboard.
 ## Learning Objectives
 
 1. Create SPFx using Adaptive Card Extension
-2\. Consume Graph API in ACEs project\
+2. Consume Graph API in ACEs project\
 3. Render My team in Card View in ACEs
-4\. View user details in Quick View in ACEs
+4. View user details in Quick View in ACEs
 
 ## Prerequisites for SPFx ACEs Project
 
@@ -36,7 +36,7 @@ connection dashboard.
 2.  Gulp v4
 3.  Yeoman v3
 4.  [Set up SPFx Development
-    Environment](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment)
+    Environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
 Install latest beta release using below code
  
 ```bash
@@ -397,13 +397,13 @@ gulp serve -l --nobrowser
 ```
  
 Open URL <https://contoso.sharepoint.com/_layouts/workbench.aspx>\
-Add your extension using click on add web part button.
+Add your extension using select  add web part button.
 {{< image alt="1.gif" src="images/blog/consume-graph-api-to-adaptive-card-extension-aces-spfx-component/1.gif" >}}
 
 
 ## Conclusion
 
-**]{.underline}In this article, We explored how to create ACEs solution
+In this article, We explored how to create ACEs solution
 using SPFx, How to Consume Graph API in ACEs, How to render custom
 adaptive card using customization of JSON and add multiple button in
 card view.

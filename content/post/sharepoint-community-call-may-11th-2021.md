@@ -21,6 +21,7 @@ download recurrent invite from <https://aka.ms/sp-call>.
 
 ## Call summary
 
+
 SPFx v1.12.1 with Node v14 and Gulp4 support is generally available. 
 Don't miss the [SharePoint sample
 gallery](https://pnp.github.io/sp-dev-fx-webparts/).  Preview the new
@@ -57,6 +58,7 @@ publishing and processing content using PowerShell Commandlets or APIs
 
 
 ## Actions
+
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [May
         24th](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u)
@@ -82,7 +84,7 @@ publishing and processing content using PowerShell Commandlets or APIs
     -- <https://aka.ms/sp-call>.
 You can check the latest updates in the [monthly
 summary](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-may-2021-update/ba-p/2332366) and
-at [aka.ms/spdev-blog](https://developer.microsoft.com/en-us/sharepoint/blogs/).
+at [aka.ms/spdev-blog](https://developer.microsoft.com/sharepoint/blogs/).
 
 This call was delivered on Tuesday, May 11, 2021. The call agenda is
 reflected below with direct links to specific sections.  You can jump
@@ -92,6 +94,7 @@ the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
 
 **Call Agenda:**
+
 -   UserVoice status for non-dev focused SharePoint entries
     -- [8:04](https://youtu.be/PlXxbx7qNlc?t=484)
 -   UserVoice status for dev focused SharePoint Framework entries
@@ -114,11 +117,13 @@ SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found
     at [OneDrive](https://1drv.ms/p/s!AlposW7ozA_90kgHOZNOZvuJs4Xd?e=aKH8Cg).
 
+
 ## Resources
 
 Additional resources on covered topics and discussions.
+
 -   Web - [SharePoint
-    Syntex](https://www.microsoft.com/en-us/microsoft-365/enterprise/sharepoint-syntex-overview)
+    Syntex](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex-overview)
     | aka.ms/SharePointSyntex
 
 -   Blog -- [Syntex
@@ -130,15 +135,15 @@ Additional resources on covered topics and discussions.
     | aka.ms/SharePointSyntex/community
 
 -   Roadmap -- [Syntex
-    Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?rtc=2&filters=&searchterms=Syntex)
+    Roadmap](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=&searchterms=Syntex)
     | aka.ms/SharePointSyntex/roadmap
 
 -   Documentation - [Introduction to Microsoft SharePoint
-    Syntex](https://docs.microsoft.com/en-us/microsoft-365/contentunderstanding/)
+    Syntex](https://docs.microsoft.com/microsoft-365/contentunderstanding/)
      | aka.ms/SharePointSyntex/documentation
 
 -   Documentation -- [Scenario:  Manage contracts using a Microsoft 365
-    solution](https://docs.microsoft.com/en-us/microsoft-365/contentunderstanding/solution-manage-contracts-in-microsoft-365) 
+    solution](https://docs.microsoft.com/microsoft-365/contentunderstanding/solution-manage-contracts-in-microsoft-365) 
 
 -   SDK - [Working with SharePoint
     Syntex](https://pnp.github.io/pnpcore/using-the-sdk/syntex-intro.html) 
@@ -175,18 +180,19 @@ Additional resources on covered topics and discussions.
 
 -   Viva Connections <https://aka.ms/VivaConnections> 
 
-**Additional Resources:**
+**Additional resources:**
+
 -   [PnP Weekly - Videos](https://aka.ms/pnpweekly)
 -   [PnP Weekly - Podcasts](http://pnpweekly.podbean.com/)
 -   [M365 Community Documentation](https://aka.ms/m365-community-docs) -
     (non-dev)
 -   [SharePoint Documentation and
-    Guidance](https://docs.microsoft.com/en-us/sharepoint/) -
+    Guidance](https://docs.microsoft.com/sharepoint/) -
     (technical)
 -   [SharePoint Framework
-    v1.11](https://developer.microsoft.com/en-us/sharepoint/blogs/announcing-sharepoint-framework-1-11-extend-more-of-microsoft-teams-and-publish-to-appsource/)
+    v1.11](https://developer.microsoft.com/sharepoint/blogs/announcing-sharepoint-framework-1-11-extend-more-of-microsoft-teams-and-publish-to-appsource/)
 -   [SharePoint Framework v1.11 release
-    notes](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/release-1.11.0)
+    notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.11.0)
 -   [Exploring how to get started on open-source and community
     work?](https://aka.ms/sharing-is-caring)
 -   [SharePoint Starter
@@ -199,7 +205,9 @@ Additional resources on covered topics and discussions.
 -   SharePoint Development UserVoice - new feature requests
     - <http://aka.ms/spdev-uservoice>
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 -   **Office add-in monthly call --** May 12th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
 -   **M365 General Dev call --** May 13th at 7:00 am PDT |
@@ -210,7 +218,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/microsoftteamscommunitycall>
 -   **Power Apps monthly call --** May 19th at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** May 20th at 7:00 am PDT |
+-   **SharePoint Framework call** -- May 20th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** May 20th at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar> 

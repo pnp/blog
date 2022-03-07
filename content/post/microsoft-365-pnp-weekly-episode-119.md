@@ -31,8 +31,8 @@ delivered 18 articles and videos this last week.  This session was
 recorded on Monday, March 22, 2021. 
 
 This episode was recorded on Monday, March 22, 2021.
--   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+
+-   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 These videos and podcasts are published each week and are intended to be
@@ -49,8 +49,9 @@ everyone for your contributions to the community!
 
 
 **Microsoft articles:**
+
 -   [Announcing SharePoint Framework 1.12 -- Extending more of Microsoft
-    Teams](https://developer.microsoft.com/en-us/microsoft-365/blogs/announcing-sharepoint-framework-1-12-extending-more-of-microsoft-teams/) -
+    Teams](https://developer.microsoft.com/microsoft-365/blogs/announcing-sharepoint-framework-1-12-extending-more-of-microsoft-teams/) -
     [SharePoint team](http://twitter.com/sharepoint) | \@SharePoint
 
 -   [Get started with Microsoft Graph Toolkit at Microsoft
@@ -74,6 +75,7 @@ everyone for your contributions to the community!
 
 
 **Community articles:**
+
 -   [Getting started with SharePoint's custom view
     formatting](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-s-custom-view-formatting/ba-p/2222740)
     -- [Will Holland](http://twitter.com/_wcholland) (ThreeWill) |

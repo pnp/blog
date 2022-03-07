@@ -21,6 +21,7 @@ for **SharePoint** Online.
 
 ## Call summary
 
+
 Preview the new [Microsoft 365 Extensibility look book
 gallery](https://aka.ms/m365/extensibility) co-developed by Microsoft
 Teams and SharePoint engineering.   Register now for May/June trainings
@@ -54,6 +55,8 @@ Thanks everybody for being part of the Community and helping making
 things happen. You are absolutely awesome!
 
 ## Actions
+
+
 
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [May
@@ -177,6 +180,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     \@sebastienlevert [
     --][ [47:30](https://youtu.be/cAwKgUNR9jU?t=2850)]
 
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -197,7 +202,7 @@ slides.
 
 -   Documentation - [Combine multiple requests in one HTTP call using
     JSON
-    batching](https://docs.microsoft.com/en-us/graph/json-batching) 
+    batching](https://docs.microsoft.com/graph/json-batching) 
 
 -   Article - [Using the latest microsoft-graph-client in
     SPFx](https://www.sebastienlevert.com/2021/04/18/latest-microsoft-graph-client-spfx/) 
@@ -228,7 +233,7 @@ slides.
 -   SharePoint Framework - v1.12.1 npm install
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
@@ -242,7 +247,7 @@ slides.
     series](https://aka.ms/mgtLap)
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
 -   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
@@ -282,19 +287,22 @@ slides.
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
 
+
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 -   **M365 General Dev call --** May 27th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
 -   **Microsoft Graph call --** June 1st at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint Framework call --** June 3rd at 7:00 am PDT |
+-   **SharePoint Framework call** -- June 3rd at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **SharePoint monthly call --** June 8th at 8:00am PDT |
     <https://aka.ms/sp-call>

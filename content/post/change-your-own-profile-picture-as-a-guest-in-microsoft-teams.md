@@ -22,26 +22,34 @@ method of changing your profile picture in a private forum, but it
 stopped working due to some UI changes in the Azure Portal. Luckily,
 with some more "hackery", we can still make it work!
 The tl;dr version:
+
 1.  Tenant switch to the tenant where you want to change your profile
     picture
 2.  Figure out the ID of your user account in that tenant
 3.  Open your user profile page in the Azure Portal using a direct link
 4.  Edit the profile, upload a profile picture
 5.  Wait for about a week to have the profile picture synced into Teams
+
 ## Switch tenants
+
 If you found this blogpost, it's probably safe to assume that you know
 how to switch tenants. For the purpose of this guide, it is **VERY**
 important you do this in your browser because otherwise authentication
 will get confused ;).
+
 1.  Open your browser, go to <https://teams.microsoft.com> and sign in
     with your credentials
 2.  Top right of the Teams UI, switch to the tenant where you want to
     change the profile picture of your Guest account
+
 {{< image alt="image-1.png" src="images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-1.png" >}}
+
 ## Get ID of user account
+
 I don't know of any place in the UI that shows the id of your Guest
 account in a tenant, so I had to find a way using the Developer Tools of
 Chrome/Edge.
+
 1.  After switching to the Guest tenant, hit the F12 key to open the
     Developer Tools
 2.  Select the `Applications` tab
@@ -56,8 +64,10 @@ Chrome/Edge.
 {{< image alt="image-3.png" src="images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-3.png" >}}
 
 ## User profile page in Azure Portal
+
 Now that you have your user account ID, you can open up your profile
 page in the Azure AD of the Guest tenant!
+
 1.  In the same browser window, open <https://portal.azure.com>
 2.  Top right of the portal, make sure you are in the tenant where you
     are a Guest. Most probably that is not the case, so do a tenant
@@ -71,17 +81,22 @@ page in the Azure AD of the Guest tenant!
 {{< image alt="image-4.png" src="images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-4.png" >}}
 
 ## Edit profile and upload picture
+
 Finally time to upload your profile picture!
-1.  Top of the profile, click the `Edit` button
+
+1.  Top of the profile, select the `Edit` button
 2.  With your profile in edit mode, you can browse for a photo on your
     computer and upload it to your profile!
  {{< image alt="image-5.png" src="images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-5.png" >}}
+
 ## Wait and enjoy success 
+
 It takes a while for your profile picture to show in Teams, and it might
 even show for a short while and go away again. But if you have enough
 patience, after about a week or so, your profile picture should show
 consistently across the Teams UI both for you and for others!
 {{< image alt="image-6.png" src="images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-6.png" >}}
+
 Until Microsoft Teams or Microsoft 365 gives us an easier way to change
 our profile picture, this is the best way to do it self service. The
 days of the anonymous circle with initials are over, time to show your

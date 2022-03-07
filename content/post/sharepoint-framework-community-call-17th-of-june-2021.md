@@ -20,6 +20,8 @@ SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
 ## Call summary
+
+
 Summer break and community call schedule updates reviewed.  Register now
 for June trainings on
 [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).  You are
@@ -53,6 +55,8 @@ to seeing you in Las Vegas, Düsseldorf or another conference venue in
 the future!
 
 ## Actions
+
+
 
 -   Join on the Viva Connections private preview! |
     [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
@@ -119,7 +123,8 @@ the future!
 
 
 
-**SPFx extension samples:  (<https://aka.ms/spfx-extensions>) **
+**SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
+
 
 
 -   [**Copy PnP search results web part
@@ -131,7 +136,8 @@ the future!
     Lage](http://twitter.com/aaclage) | [\@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
 -    
 
-**SPFx web part samples:  (<https://aka.ms/spfx-webparts>) **
+**SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
+
 -   **[Remote Event Receiver
     Manager](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-remote-event-receiver-manager)** -
     [Dan Toft](http://twitter.com/tanddant) | \@tanddant
@@ -175,6 +181,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
     \@jfj1997 & [Derek Cash-Peterson](http://twitter.com/spdcp) |
     \@spdcp - [31:22](https://youtu.be/NyZP1oso8Mg?t=1882)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -217,7 +225,7 @@ slides.
 -   SharePoint Framework - v1.12.1 npm install
     --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
@@ -231,7 +239,7 @@ slides.
     series](https://aka.ms/mgtLap)
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
 -   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
@@ -270,14 +278,17 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
+
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
-**Upcoming calls | Recurrent invites:**
+
+**Upcoming Calls | Recurrent Invites:**
+
 -   **M365 General Dev call** -- June 24th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
 -   **SharePoint Framework call** -- July 1**st**at 7:00 am PDT |

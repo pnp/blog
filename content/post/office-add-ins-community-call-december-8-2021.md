@@ -15,7 +15,10 @@ type: "regular"
 
 ## {{< image alt="office-add-ins-Thumb Dec 2021.png" src="images/blog/office-add-ins-community-call-december-8-2021/office-add-ins-Thumb Dec 2021.png" >}}
 
-## Call Summary 
+
+## Call summary
+
+ 
 
 This month's community call features an Outlook: Ignite recap from
 [Juan
@@ -34,7 +37,8 @@ Recognition Program](https://aka.ms/m365pnp-recognition). Q&A both in
 chat throughout call and at end of call. The call was hosted by [David
 Chesnut](http://twitter.com/davidchesnut) (Microsoft) Recorded December
 8, 2021.
-## Presenters: 
+
+## Presenters
 
 -   [David Chesnut](http://twitter.com/davidchesnut), Senior Dev Writer
     (Microsoft) | \@davidchesnut
@@ -92,7 +96,9 @@ Chesnut](http://twitter.com/davidchesnut) (Microsoft) Recorded December
 -   Save the date. The next Office Add-ins community call is January
     12th at 08:00am PST - <https://aka.ms/officeaddinscommunitycall>
 
+
 ## Q&A (Question & Answers) 
+
 
 **When the Outlook REST API is decommissioned in October 2022, what API
 should add-ins deployed to customer-hosted Exchange Servers (2016/2019)
@@ -127,7 +133,7 @@ Passing a token to the client increases the risk of it getting leaked
 through browser history, caching, or other mechanisms. Keeping tokens on
 the server is a more secure way of managing them. For more guidance we
 recommend reaching out to the Microsoft identity platform team at
-<https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options>.
+<https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options>.
 
 **I have a question on unit testing. I created my office.js add-in for
 Word, that is working with existing documents, and it is
@@ -154,7 +160,7 @@ on desktop instead.**
 Unfortunately, Word add-ins are not supported on Office Online Server.
 For these scenarios, we recommend that you check that Office is properly
 initialized as described in
-<https://docs.microsoft.com/en-us/office/dev/add-ins/develop/initialize-add-in>.
+<https://docs.microsoft.com/office/dev/add-ins/develop/initialize-add-in>.
 
 
 **Can the Outlook event-based add-in be triggered by a user typing a
@@ -239,6 +245,7 @@ you will find a sample.
 **Any news when the current PowerPoint Preview API will go live?**
 
 We are looking at early next year.
+
 
 ## Resources 
 

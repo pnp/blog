@@ -52,9 +52,11 @@ integration including Microsoft chat integration.       
 
 
 
-##   {#toc-hId--469670890}
+
 
 ## Actions
+
+
 
 -   Interested in Presenting during this call?   Contact
     <Brian.Jackett@microsoft.com> or <Jeremy.Thake@microsoft.com>
@@ -66,25 +68,26 @@ integration including Microsoft chat integration.       
 
 ##   {#toc-hId-2017841943}
 
+
 ## Resources
 
 From demos:
 
 -   Documentation - [Calendar
-    API](https://docs.microsoft.com/en-us/graph/api/resources/event?view=graph-rest-1.0) 
+    API](https://docs.microsoft.com/graph/api/resources/event?view=graph-rest-1.0) 
 
 -   Documentation - [Cloud Communications
-    API](https://docs.microsoft.com/en-us/graph/api/application-post-onlinemeetings?view=graph-rest-1.0&tabs=http) 
+    API](https://docs.microsoft.com/graph/api/application-post-onlinemeetings?view=graph-rest-1.0&tabs=http) 
 
 -   Documentation - [Choose an API in Microsoft Graph to create and join
     online
-    meetings](https://docs.microsoft.com/en-us/graph/choose-online-meeting-api) 
+    meetings](https://docs.microsoft.com/graph/choose-online-meeting-api) 
 
 -   Documentation - [Microsoft Graph throttling
-    guidance](https://docs.microsoft.com/en-us/graph/throttling) 
+    guidance](https://docs.microsoft.com/graph/throttling) 
 
 -   Documentation - [Exchange Online
-    limits](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits) 
+    limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits) 
 
 -   Documentation - [Cloud Communications service
     limits](Cloud%20Communications%20service%20limits)
@@ -92,16 +95,16 @@ From demos:
 From Q&A
 
 -   Documentation -- [place resource
-    type](https://docs.microsoft.com/en-us/graph/api/resources/place) 
+    type](https://docs.microsoft.com/graph/api/resources/place) 
 
 -   Documentation - [Get free/busy schedule of users and
-    resources](https://docs.microsoft.com/en-us/graph/outlook-get-free-busy-schedule) 
+    resources](https://docs.microsoft.com/graph/outlook-get-free-busy-schedule) 
 
 -   Documentation - [calendar:
-    getSchedule](https://docs.microsoft.com/en-us/graph/api/calendar-getschedule)  
+    getSchedule](https://docs.microsoft.com/graph/api/calendar-getschedule)  
 
 -   Documentation - [user:
-    findMeetingTimes](https://docs.microsoft.com/en-us/graph/api/user-findmeetingtimes) 
+    findMeetingTimes](https://docs.microsoft.com/graph/api/user-findmeetingtimes) 
 
 ##   {#toc-hId-210387480}
 
@@ -119,7 +122,7 @@ From Q&A
     v2.1](https://github.com/microsoftgraph/microsoft-graph-toolkit) |
     <https://aka.ms/mgt>  
 -   Documentation -- [Microsoft Graph Toolkit
-    Overview](https://docs.microsoft.com/en-us/graph/toolkit/overview)
+    Overview](https://docs.microsoft.com/graph/toolkit/overview)
     | <https://aka.ms/mgt-docs>
 -   Playground -- [Microsoft Graph Toolkit
     Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple)

@@ -56,7 +56,8 @@ JSON data is organized as "objects" which contain name/value pairs.
 This example is the first step toward building a profile for Parker, the
 PnP mascot, who has kindly agreed to share personal information for this
 article.
-```
+
+```JSON
     { "name": "Parker" }
 ```
 
@@ -74,7 +75,8 @@ collections of values (arrays), or more objects containing their own
 name/value pairs.
 If you want to put more than one name/value pair in your JSON, separate
 them with commas like this:
-```
+
+```JSON
     {
       "name": "Parker",
       "species": "porcupine"
@@ -83,18 +85,21 @@ them with commas like this:
 
 Note that the order of the name/value pairs doesn't matter; this JSON
 is equivalent to the one above:
-```
+
+```JSON
     {
       "species": "porcupine",
       "name": "Parker"
     }
 ```
+
 The values don't need to be text like \"Parker\"; they can also be
 numbers, booleans, collections, or more JSON objects. This allows you to
 have objects within objects.
 Here's a more complete description of the Quilled Crusader that uses
 all of the JSON data types:
-```
+
+```JSON
     {
       "name": "Parker",
       "species": "porcupine",
@@ -138,15 +143,19 @@ the string, and then it gets really confused. (Computers are really
 stupid, aren't they?) So to put a `"` within a string, you need to
 \"escape\" it by preceding it with a `\`. For example:
 
+```JSON
     {
       "name": "Parker",
       "action": "Parker says "Sharing is caring""
     }
+
 ```
+
 As you might expect, this escaping thing is a bit of a slippery slope,
 as the parser may now be confused by the `\` character. So you also have
 to escape the `\` character:
-```
+
+```JSON
     {
       "name": "Parker",
       "home": "C:\\Users\\Parker"
@@ -160,7 +169,7 @@ You can also insert special characters using Unicode (UTF-16) character
 codes using the format \\uXXXX, but often it's easier to just type
 Unicode characters in your JSON.
 
-```
+```JSON
     {
       "name": "Parker",
       "mood": "😀"
@@ -172,13 +181,15 @@ Unicode characters in your JSON.
 
 Numeric values don't get quotes around them. For example, Parker's
 length and weight are expressed as numbers.
-```
+
+```JSON
     {
       "name": "Parker",
       "centimeters": 75,
       "kilograms": 28
     }
 ```
+
 Note that 75 is not the same as "75"; the quotes would indicate the
 characters `7` and `5` rather than a number.
 Numbers are in decimal, and can contain a sign, decimal point, and
@@ -194,7 +205,8 @@ exponent such as:
 ## Boolean (True or False) 
 
 For boolean values, just use `true` and `false` with no quotes.
-```
+
+```JSON
     {
       "name": "Parker",
       "friendly": true,
@@ -209,7 +221,8 @@ object with name/value pairs enclosed in a set of curly braces. But you
 don't need to limit yourself to one object! You can have as many
 objects as you want as values inside other objects. This nesting allows
 you to create a hierarchy.
-```
+
+```JSON
     {
       "name": "Parker",
       "classification": {
@@ -235,7 +248,7 @@ other data structures.
 An array is an ordered set of values enclosed in square
 braces `[` and `]` and separated by commas, such as:
 
-```
+```JSON
     {
       "name": "Parker",
       "nicknames": [
@@ -246,7 +259,8 @@ braces `[` and `]` and separated by commas, such as:
 ```
 
 or, more succinctly,
-```
+
+```JSON
     {
       "name": "Parker",
       "nicknames": [ "Quilled Crusader", "Spike" ]
@@ -256,7 +270,8 @@ or, more succinctly,
 Mascots could have any number of nicknames or none at all, and an array
 allows you to list them. Parker's sister Penny doesn't have any
 nicknames.
-```
+
+```JSON
     {
       "name": "Penny",
       "nicknames": []
@@ -265,7 +280,8 @@ nicknames.
 
 Arrays of objects are especially useful. For example, suppose you wanted
 to compile a list of Microsoft developer mascots:
-```
+
+```JSON
     {
       "mascots": [
         {
@@ -290,7 +306,8 @@ to compile a list of Microsoft developer mascots:
 Remember that spaces, tabs, and newlines are ignored, so this the same
 data could be written more compactly like this. Suddenly it starts to
 look a little bit like a table!
-```
+
+```JSON
     {
       "mascots": [
         { "name": "Bit",     "species": "raccoon",  "team": "Microsoft Developer Advocates" },
@@ -299,6 +316,7 @@ look a little bit like a table!
       ]
     }
 
+```
 
 > MIND THE COMMAS! There must be exactly one (1) comma between
 > name/value pairs and array elements. It's really easy to misplace a
@@ -324,7 +342,8 @@ by [Base64 encoding](https://en.wikipedia.org/wiki/Base64) them.
 
 To indicate an empty value, use `null`. For example, Parker hasn't had
 his DNA sequenced, so there is no value for that in his profile.
-```
+
+```JSON
     {
       "name": "Parker",
       "dnaSequence": null
@@ -345,7 +364,8 @@ applications will choke on them.
 One trick that's usually OK is to just add a few extra name/value pairs
 in lieu of comments; most software will simply ignore the extra data.
 For example:
-```
+
+```JSON
     {
       "name": "Parker",
       "classification": {
@@ -364,7 +384,8 @@ While it's not recommended, it
 is [legal](https://tools.ietf.org/html/rfc8259#section-4) to have
 duplicate names in a JavaScript object, so you could have more than
 one `"comment"` if you're daring. This is valid JSON:
-```
+
+```JSON
     {
       "name": "Parker",
       "comment": "Great mascot but gets a bit prickly at times",
@@ -392,7 +413,7 @@ A JSON Schema describes a specific JSON structure. For example, all
 animal mascots need to have a `name` and zero or more nicknames with an
 optional value for `quills`, such as:
 
-```
+```JSON
     {
       "name": "Parker",
       "nicknames": [
@@ -404,7 +425,8 @@ optional value for `quills`, such as:
 ```
 
 This would be expressed in JSON Schema as:
-```
+
+```JSON
     {
         "definitions": {},
         "$schema": "http://json-schema.org/draft-07/schema#", 
@@ -471,9 +493,10 @@ be.
 You can add a property to your JSON to indicate the URL of the JSON
 schema; for example, to indicate that a file is a Microsoft Teams
 manifest, include this schema URL:
-```
+
+```JSON
     {
-      "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.2/MicrosoftTeams.schema.json"
+      "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.2/MicrosoftTeams.schema.json"
     }
 ```
 
@@ -483,7 +506,8 @@ There are a ton of schemas available
 at <https://www.schemastore.org/json/> for you to reference. You can
 even reference a JSON schema in your own project by just specifying a
 relative path:
-```
+
+```JSON
     {
       "$schema": "./myschema.json"
     }
@@ -496,7 +520,8 @@ and begin with `@odata`. For example, here's the beginning of the data
 returned by the Microsoft Graph
 call `https://graph.microsoft.com/v1.0/me/messages` (returns messages in
 the user's inbox):
-```
+
+```JSON
     {
       "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('19671429-1359-457f-bfc1-1be1ee65d4d9')/messages",
       "@odata.nextLink": "https://graph.microsoft.com/v1.0/me/messages?$skip=10",
@@ -508,6 +533,7 @@ the user's inbox):
               "createdDateTime": "2020-12-16T00:14:19Z",
               ...
 ```
+
 [OData](https://www.odata.org/) is a standard for doing Create, Read,
 Update, and Delete (CRUD) operations on tabular data using a REST web
 service, and the Microsoft Graph uses it where appropriate. A folder of
@@ -516,8 +542,8 @@ that the Graph uses OData to work with them.
 The name/value pairs beginning with `@odata.` are OData *control
 information* used to control the flow of data. For example the value
 of `@odata.nextLink` is the URL to retrive the next set of rows in a
-large dataset. You can find details on all the OData Control
-Information [here](http://docs.oasis-open.org/odata/odata-json-format/v4.0/cos01/odata-json-format-v4.0-cos01.html#_Toc372793050) in
+large dataset. You can find details on all the [OData Control
+Information here](http://docs.oasis-open.org/odata/odata-json-format/v4.0/cos01/odata-json-format-v4.0-cos01.html#_Toc372793050) in
 the OData documentation.
 
 ## JSON and JavaScript 
@@ -526,6 +552,7 @@ Although JSON stands for "JavaScript Object Notation", and was
 inspired by the format JavaScript uses for object literals, they are not
 the same. Indeed, JSON is intended to be language independent. Some
 major differences between JSON and JavaScript are:
+
 -   In a JavaScript object literal, the names only need to be enclosed
     in quotes if they are reserved words like `for` or `if` in
     JavaScript. Furthermore, you can use either single or double quotes.
@@ -546,13 +573,16 @@ To convert between JSON and objects, use the `JSON` object that's built
 into JavaScript. This is preferable to using `eval` which is prone to
 security issues.
 To convert JSON to a JavaScript object:
+
 ```{.highlight .highlight-source-js}
     var json = '{"name": "Parker"}';
     var o = JSON.parse(json);
 
     console.log(o.name); // Parker
 ```
+
 To convert a JavaScript object to JSON:
+
 ```{.highlight .highlight-source-js}
     var o = new Object();
     o.name = "Parker";
@@ -560,8 +590,10 @@ To convert a JavaScript object to JSON:
 
     console.log(json);  // {"name":"Parker"}
 ```
+
 When you make a REST call, you end up using JSON as well. Here's a call
 to the Microsoft Graph:
+
 ```{.highlight .highlight-source-js}
     // Assume Parker has logged in and a variable called accessToken contains
     // a valid Azure AD access token for Parker to call the Microsoft Graph
@@ -579,6 +611,7 @@ to the Microsoft Graph:
         const name = profile.displayName;   // Parker
     }
 ```
+
 Notice that to ask the service for a JSON response, the HTTP header is
 set to accept "application/json", which is the MIME type for JSON. And
 the `response` object returned by `fetch()` has a `json()` function

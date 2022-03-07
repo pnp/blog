@@ -12,8 +12,10 @@ type: "regular"
 
 --- 
 
-:
+
 ## Call summary
+
+
 
 Summer break and community call schedule updates reviewed.  Preview the
 new [Microsoft 365 Extensibility look book
@@ -47,6 +49,8 @@ call was [Julie Turner](http://twitter.com/jfj1997) (Sympraxis
 Consulting) | \@jfj1997.   Q&A takes place in chat throughout the call.
 
 ## Actions
+
+
 
 -   Opt in to PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
@@ -99,6 +103,7 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
 {{< image alt="PnP-Calls-TogetherMode-LowerResolution.gif" src="images/blog/microsoft-365-developer-community-call-recording-5th-of-august/PnP-Calls-TogetherMode-LowerResolution.gif" >}}
 A packed house today.  Hope all are enjoying summer or winter, in
 Southern Hemisphere.  Nice seeing everyone.   Be well.  
+
 **Demos** delivered in this session
 
 -   **Power Platform Tips & Tricks** -- collaborate in a Power App
@@ -164,6 +169,8 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  List Formatting Magic -- [Chris
     Kent](http://twitter.com/theChrisKent) (DMI) | \@theChrisKent -
     [40:13](https://youtu.be/0pWijfLYjEY?t=2413)
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -173,13 +180,13 @@ slides.
     Formatting](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-enhanced-list-formatting)
 
 -   CSS -
-    [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) 
+    [Pseudo-elements](https://developer.mozilla.org/docs/Web/CSS/Pseudo-elements) 
 
 -   CSS -
-    [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) 
+    [Pseudo-classes](https://developer.mozilla.org/docs/Web/CSS/Pseudo-classes) 
 
 -   CSS -
-    [animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation) 
+    [animation](https://developer.mozilla.org/docs/Web/CSS/animation) 
 
 -   Icons -- [Flicon](https://www.flicon.io/) 
 
@@ -205,6 +212,7 @@ slides.
 -   [Microsoft Teams Samples
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
+
 **General resources**:
 
 -   Archives - Microsoft 365 PnP Weekly
@@ -222,7 +230,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -247,7 +255,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -256,24 +264,27 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
+
 -   **Office add-in monthly call** -- August 11th at 8:00 am PDT |
     <https://aka.ms/officeaddinscall>
 -   **SharePoint Framework call** -- August 12th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
--   **Adaptive Cards monthly call --** August 12th at 9:00 am PDT |
+-   **Adaptive Cards monthly call** --August 12th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call --** August 18th at 8:00 am PDT |
+-   **Power Apps monthly call** --August 18th at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **M365 General Dev call --** August 19th at 7:00 am PDT |
+-   **M365 General Dev call** --August 19th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>
--   **Microsoft Identity Platform --** August 19th at 9:00 am PDT |
+-   **Microsoft Identity Platform** --August 19th at 9:00 am PDT |
     <https://aka.ms/IDDevCommunityCalendar>
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365

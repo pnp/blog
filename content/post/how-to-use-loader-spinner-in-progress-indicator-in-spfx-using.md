@@ -26,7 +26,7 @@ while calling API until API responds. So for this, we will call a Graph
 API to get lists from the root site, and until API response we will show
 Loader. We will use an Office UI fabric Spinner.
 For more information refer to
-[this](https://developer.microsoft.com/en-us/fluentui#/controls/web/spinner).
+[Fluent UI spinner](https://developer.microsoft.com/fluentui#/controls/web/spinner).
 
 ## Implementation 
 
@@ -36,14 +36,22 @@ For more information refer to
  
 
 
-```
+```bash
     md spfx-loader
+```
+
 Move to the above-created directory using:
+
+```bash
     cd spfx-loader
+```
+
 Now execute the below command to create an SPFx solution:
     yo @microsoft/sharepoint 
 It will ask some questions, as shown below,
+
 {{< image alt="How To Use LoaderSpinner In SPFx.png" src="images/blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/How To Use LoaderSpinner In SPFx.png" >}}
+
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
     code .
@@ -156,7 +164,8 @@ export default class SpfxLoaderWebPart extends BaseClientSideWebPart<ISpfxLoader
 -   And in the **render()** method we will check if state loading is
     true then show Spinner and if the length of items is greater than 0
     then we will show records.
-    \
+    
+
 ```javascript
 import * as React from 'react';
 import styles from './SpfxLoader.module.scss';
@@ -241,14 +250,15 @@ export default class SpfxLoader extends React.Component<ISpfxLoaderProps, ISpfxL
 {{< image alt="spfx-loader.gif" src="images/blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/spfx-loader.gif" >}}
  
 
-Find the full source code
-[here](https://github.com/chandaniprajapati/react-spfx-loader).  
+Find here the [full source code
+](https://github.com/chandaniprajapati/react-spfx-loader).  
  
 
 ## Summary 
-\
+
 In this article, we have seen how to use Spinner/loading in the SPFx
 webpart.
 
 I hope this helps.
+
 Sharing is caring!

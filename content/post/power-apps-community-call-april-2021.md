@@ -16,6 +16,7 @@ type: "regular"
 
 ## Call summary
 
+
 Topics covered in this month's community call include
 
 - Make your Power
@@ -81,6 +82,8 @@ viewing it on demand. 
 
 
 ## Actions
+
+
 
 -   Complete the Microsoft 365 Developer Community Survey --
     <https://aka.ms/m365pnp/survey>

@@ -13,6 +13,7 @@ type: "regular"
 ---
 
 ## Introduction 
+
 This article is used whenever you are getting any content from
 SharePoint List/Library or anything else and rendering it in any
 component then it is difficult to get HTML from that component and
@@ -20,22 +21,21 @@ extract CSS as well so here we will create a dynamic HTML (List or Table
 or anything else as per our requirement) and we can add some inline CSS
 as well. So in this article, we will see step-by-step implementations.
 
-##   
-
 ## Implementation 
 
 **1. Register to Muhimbi API**
 To get the trial version API key, Register to
-[this](https://www.muhimbi.com/register?returnUrl=%2Flogin%20). After
+[www.muhimbi.com](https://www.muhimbi.com/register?returnUrl=%2Flogin%20). After
 registration, you have to activate a subscription and then you will get
 an API key, Access token, and Subscription ID on the registered email
 ID. 
 To check API response, you can refer to
-[this](https://api.muhimbi.com/api-docs/v1/index.html?url=/api-docs/v1/swagger.json#/Convert).
+[https://api.muhimbi.com/api-docs/v1/index.html?url=/api-docs/v1/swagger.json#/Convert](https://api.muhimbi.com/api-docs/v1/index.html?url=/api-docs/v1/swagger.json#/Convert).
 After this, we will use the API key in the SPFx web part while calling
 an API.
 
 **2. Create the SPFx web part**
+
 -   Open a command prompt
 -   Move to the path where you want to create a project
 -   Create a project directory using:
@@ -46,13 +46,16 @@ Move to the above-created directory using:
 Now execute the below command to create an SPFx solution:
     yo @microsoft/sharepoint 
 It will ask some questions, as shown below,
+
 {{< image alt="ChandaniPrajapati_0-1639758794000.png" src="images/blog/how-to-convert-html-content-or-file-to-pdf-using-the-muhimbi-api/ChandaniPrajapati_0-1639758794000.png" >}}
+
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
     code .
 Now go to the ***src \> webparts \> webpart \> components
 \>** **I{webpartname}Props.ts*** file and at here we will create some
 properties.
+
 ```javascript
 import { WebPartContext } from "@microsoft/sp-webpart-base";
 import { HttpClient } from "@microsoft/sp-http";
@@ -68,6 +71,7 @@ export interface IMuhimbiExportHtmlContentToPdfProps {
 
 Create a file ***I{webpartname}State.ts** *inside ***src \> webparts \>
 webpart \> components*** and create a state interface as below,
+
 ```javascript
 export interface IMuhimbiExportHtmlContentToPdfState{
     showLoader: boolean;
@@ -81,6 +85,7 @@ we will create services to download a file, create a blob, and covert
 file.
 We need to convert content to base64 string as API needs based64 content
 to convert a file.
+
 1. Create a function to generate a blob as per the base64 string. 
 
 2. Create a function to download a file. We will use API key and API URL
@@ -176,12 +181,13 @@ export class ConvertFileService {
  
 
 Now move to the **{WebpartName}WebPart.ts** file.
-1\. Initialize service in onInit()
 
-2\. Create an API key and API URL properties in property pane
+1.  Initialize service in onInit()
+
+2.  Create an API key and API URL properties in property pane
 configuration.
 
-3\. Set properties value in render() so we can use it in the component.
+3.  Set properties value in render() so we can use it in the component.
  
 
 ```javascript
@@ -361,8 +367,7 @@ export default class MuhimbiExportHtmlContentToPdf extends React.Component<IMuhi
 {{< image alt="Muhimbi - Export to pdf.gif" src="images/blog/how-to-convert-html-content-or-file-to-pdf-using-the-muhimbi-api/Muhimbi - Export to pdf.gif" >}}
  
 
-Please find a source code
-[here](https://github.com/chandaniprajapati/muhimbi-export-html-content-to-pdf).
+Please find my  [source code](https://github.com/chandaniprajapati/muhimbi-export-html-content-to-pdf).
 
 
 

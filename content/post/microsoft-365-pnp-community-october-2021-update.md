@@ -19,6 +19,7 @@ a summary of all the different areas and topics around the community
 work we do around Microsoft 365 ecosystem during the past month. Thank
 you for being part of this success.
 *Sharing is caring! 🧡*
+
 ## What is Microsoft 365 Community (PnP) 
 
 [Microsoft 365 PnP](http://aka.ms/m365pnp) is a nick-name for Microsoft
@@ -33,9 +34,10 @@ happen in GitHub by providing contributions to the samples, reusable
 components, and documentation for different areas. PnP is owned and
 coordinated by Microsoft engineering, but this is work done by the
 community for the community.
+
 -   See more details from [New Microsoft 365 Patterns and Practices
     (PnP) team model with new community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 The initiative is facilitated by Microsoft, but we have multiple
 community members as part of the PnP team (see team details in end of
 the article) and we are always looking to extend the PnP team with more
@@ -60,6 +62,7 @@ initiative](http://aka.ms/m365pnp) from October 2021:
     subscribers
 Most viewed videos in the [Microsoft 365 Community (PnP) YouTube
 channel](https://aka.ms/m365pnp-videos) during September 2021:
+
 1.  [Top 10 hidden gems: Microsoft
     Lists](https://www.youtube.com/watch?v=gTkrZEIHEWg) - [Mark
     Kashman](https://twitter.com/mkashman) | 2,740
@@ -98,6 +101,7 @@ channel](https://aka.ms/m365pnp-videos) during September 2021:
 Most viewed videos in the [Microsoft 365 Developer YouTube
 channel](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ)[
 during September 2021:]
+
 1.  [Understanding authentication and authorization in Microsoft Graph
     Explorer](https://www.youtube.com/watch?v=64kHAIq6LBQ) - [Ayca
     Bas](https://twitter.com/aycabs) (Microsoft), [Rabia
@@ -137,6 +141,7 @@ during September 2021:]
     2019](https://www.youtube.com/watch?v=EBbnpFdB92A) - Kalyan Krishna
     (Microsoft) | 721
 Main resources around Microsoft 365 Community:
+
 -   Microsoft 365 Community -
     [http://aka.ms/m365pnp](http://aka.ms/sppnp) - One location for all
     the resources and news around Microsoft 365 platform
@@ -147,11 +152,13 @@ Main resources around Microsoft 365 Community:
     [http://aka.ms/m365pnp-videos](http://aka.ms/m365pnp-Videos)
 -   Microsoft 365 Developer YouTube channel -
     <https://aka.ms/M365DevYouTube>
+
 ## ✍ Latest Dev Blog posts 
 
 Here are the latest blog posts and announcements around Microsoft 365
 development topics from
-<https://developer.microsoft.com/en-us/microsoft-365/blogs>.
+<https://developer.microsoft.com/microsoft-365/blogs>.
+
 -   18th of October - [Developing real-time collaborative apps with
     Azure, Microsoft 365, Power Platform, and
     GitHub](https://devblogs.microsoft.com/microsoft365dev/developing-real-time-collaborative-apps-with-azure-microsoft-365-power-platform-and-github/)
@@ -385,6 +392,7 @@ Microsoft 365 PnP Weekly Podcasts and vlogs
 -   7th of September - [Microsoft 365 PnP Weekly - Episode 133 - Gautam
     Sheth
     (Valo)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-133-gautam-sheth-valo/ba-p/2728148)
+
 ## 🤩 Community Calls 
 
 There are numerous different community calls on different areas. All
@@ -396,6 +404,7 @@ channels. Recordings are typically released within the following 24
 hours after the call. You can find a detailed agenda and links to
 specific covered topics on blog post articles at the [Microsoft 365
 developer blog](http://aka.ms/spdev-blog) when the videos are published.
+
 -   Microsoft 365 Platform Call - <https://aka.ms/m365-dev-call> -
     Updates and demos from Microsoft as weekly call on Tuesdays - topics
     vary from Microsoft Teams, Microsoft Graph, Power Platform,
@@ -424,16 +433,19 @@ These are great opportunities to gain visibility for example for
 existing MVPs, for community members who would like to be MVPs in the
 future or any community member who'd like to share some of their
 learnings.
+
 ## 🤩 Microsoft 365 Community (PnP) Ecosystem in GitHub 
 
 Most of the community driven repositories are in the [PnP GitHub
 organization](https://github.com/pnp) as samples are not product
 specifics as they can contain numerous different solutions or the
 solution works in multiple different applications.
+
 -   [Microsoft Graph
     Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -
     Repository and project on Microsoft Graph Toolkit controls -
     welcomes community contributors
+
 -   [PnPjs](https://github.com/pnp/pnpjs) - PnPjs Framework repository
 -   [CLI Microsoft
     365](https://pnp.github.io/cli-microsoft365/) - Cross-OS command
@@ -516,7 +528,7 @@ Microsoft are located in the SharePoint GitHub organization\
 
 -   [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) - Source
     for new SharePoint dev center documentation exposed from
-    [http://docs.microsoft.com/en-us/sharepoint/dev](http://docs.microsoft.com/en-us/sharepoint/dev/)
+    [http://docs.microsoft.com/sharepoint/dev](http://docs.microsoft.com/sharepoint/dev/)
 -   [sp-dev-provisioning-templates](https://github.com/SharePoint/sp-dev-provisioning-templates) -
     Open-source templates used by the [SharePoint Look Book
     site](https://lookbook.microsoft.com/)
@@ -552,9 +564,10 @@ contributed samples and solutions, including samples, core component(s)
 and solutions, like [SharePoint Starter
 Kit](https://github.com/SharePoint/sp-starter-kit), [yo
 teams](https://aka.ms/yoteams) or [PnP
-PowerShell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
+PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
 All Microsoft released SDKs and tools are supported based on the
 specific tool policies.
+
 -   PnP guidance and samples are created by Microsoft & by the Community
 -   PnP guidance and samples are maintained by Microsoft & community
 -   PnP uses supported and recommended techniques
@@ -571,10 +584,12 @@ specific tool policies.
     customer/deployment owner on the support model
 Please see the specifics on the supportability on the tool, SDK or 
 component repository or download page.
-## 🤩 Microsoft 365 PnP team model 
+
+## 🤩 Microsoft 365 PnP team model
+
 {{< image alt="pnp-community-model.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/pnp-community-model.png" >}}
 In April 2020 we announced our new [Microsoft 365 PnP team
-model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+model](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 and grew the MVP team quite significantly. PnP model exists for having
 more efficient engagement between Microsoft engineering and community
 members. Let's build things together. Your contributions and feedback
@@ -583,24 +598,25 @@ members. PnP Team coordinates and leads the different open-source and
 community efforts we execute in the Microsoft 365 platform.
 We welcome all community members to get involved on the community and
 open-source efforts. Your input do matter!
+
 -   [New Microsoft 365 Patterns and Practices (PnP) team members - May
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members-may/ba-p/2332415) - [Gautam
     Sheth](https://twitter.com/gautamdsheth) (Valo) and [Patrick
     Lamber](https://github.com/plamber) (Experts Inside AG)
 -   [New Microsoft 365 Patterns and Practices (PnP) team members -
     February
-    2021](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/) -  [April
+    2021](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/) -  [April
     Dunnam](https://www.twitter.com/aprildunnam "https://www.twitter.com/aprildunnam") (Microsoft), [Emily
     Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting)
     and [Veronique Lengelle](https://twitter.com/veronicageek) (CPS)
 -   [New Microsoft 365 Patterns and Practices (PnP) team members -
     December
-    2020](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-2/) -  [Luise
+    2020](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-2/) -  [Luise
     Freese](https://twitter.com/LuiseFreese) and [Sébastien
     Levert](https://twitter.com/sebastienlevert/) 
 -   [New Microsoft 365 Patterns and Practices (PnP) team members -
     August
-    2020](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members/) - [Albert-Jan
+    2020](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members/) - [Albert-Jan
     Schot](https://twitter.com/appieschot) (BLIS Digital), [Koen
     Zomers](https://twitter.com/koenzomers) (Microsoft), [Paul
     Bullock](https://twitter.com/pkbullock) (CaPa Creative), [Rabia
@@ -624,21 +640,26 @@ from
 
 <https://aka.ms/m365pnp-recognition>. Thank you for being part of this
 journey with us.
+
 ## ⚙ Area-specific updates 
 
 These are different areas which are closely involved on the community
 work across the PnP initiative. Some are lead and coordinated by
 engineering organizations, some are coordinated by the community and
 MVPs.
+
 ### 🦒 Microsoft Graph Toolkit 
 
 {{< image alt="graph-toolkit.jpg" src="images/blog/microsoft-365-pnp-community-october-2021-update/graph-toolkit.jpg" >}}
+
 Microsoft Graph Toolkit is engineering lead initiative, which works
 closely with the community on the open-source areas. The Microsoft Graph
 Toolkit is a collection of reusable, framework-agnostic web components
 and helpers for accessing and working with Microsoft Graph. The
 components are fully functional right of out of the box, with built in
 providers that authenticate with and fetch data from Microsoft Graph.
+
+
 -   Latest version currently is 2.3 See the v2.3 announcement blog post
     for more details - [Announcing a new Microsoft Teams authentication
     provider and file upload feature in the Microsoft
@@ -653,7 +674,9 @@ providers that authenticate with and fetch data from Microsoft Graph.
 All the latest updates on the Microsoft Graph Toolkit is being presented
 in our bi-weekly Microsoft 365 Generic Dev community call, including the
 latest community contributors.
+
 ### Microsoft 365 Community docs 
+
 {{< image alt="community-dcos.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/community-dcos.png" >}}
 Community docs model was announced in the April 2020 and it's great to
 see the interest for community to help each other by providing new
@@ -663,22 +686,27 @@ Docs](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/announcin
 We do welcome contributions from the community - our objective is to
 build a valuable location for articles from Microsoft and community
 together.
+
 -   [Microsoft 365 Community
-    Content](https://docs.microsoft.com/en-us/microsoft-365/community/)
+    Content](https://docs.microsoft.com/microsoft-365/community/)
     at docs.microsoft.com
 Have ideas for articles or want to contribute yourself? - Get involved!
 Here are also some additional resources explaining the model more
 detailed.
+
 -   YouTube - [Introducing Microsoft 365 Community
     Docs](https://www.youtube.com/watch?v=HTbgjWvsh3k)
 -   [GitHub issue
     list](https://github.com/MicrosoftDocs/microsoft-365-community/issues)
     with articles ideas
+
 ### SharePoint Framework development samples 
+
 {{< image alt="spfx-gallery.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/spfx-gallery.png" >}}
 
 These are the updated SharePoint Framework samples which are available
 from the the different repositories.
+
 -   New
     sample [BasicCard-Graph-UpcomingEvents](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-copy-move-items) by
     [Derek Cash-Peterson](https://twitter.com/spdcp) showing how to
@@ -749,11 +777,14 @@ solutions which work in Microsoft Teams
     - [http://aka.ms/spfx-aces](http://aka.ms/spfx-extensions)
 -   Microsoft Teams samples build with SharePoint Framework -
     <https://github.com/pnp/spfx-teams> - These will be relocated soon
+
 ### Microsoft Teams community samples 
+
 {{< image alt="teams-samples-promo.jpg" src="images/blog/microsoft-365-pnp-community-october-2021-update/teams-samples-promo.jpg" >}}
 These are samples which have been contributed on the community samples
 since last summary. We do welcome all Microsoft Teams samples to this
 gallery. They can be implemented using in any technology.
+
 -   New
     sample [bot-meeting-lifecycle-basic](https://github.com/pnp/teams-dev-samples/tree/main/samples/bot-meeting-lifecycle-basic)
     by [Markus Möller](https://twitter.com/Moeller2_0) showing a Teams
@@ -781,15 +812,17 @@ Contributions to [Microsoft Teams
 samples](https://github.com/pnp/teams-dev-samples) is also more than
 welcome. This gallery already surfaces all Microsoft samples, [Microsoft
 Teams app
-templates](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates)
+templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates)
 and community samples.
+
 ### Power Platform samples 
 
-\
+
 These are samples which have been contributed on the community samples
 since last summary. We do welcome all Power Platform samples to this
 gallery for providing a centralized location to share samples across the
 others in the community.
+
 -   New
     sample [request-review-and-approval-for-a-selected-file](https://github.com/pnp/powerautomate-samples/tree/main/samples/request-review-and-approval-for-a-selected-file)
     by [Lindsay Shelton](https://github.com/lsheltonSTO) as a flow which
@@ -819,7 +852,9 @@ If you have any existing samples which you'd be willing to share with
 others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. Here to
 help.
-### Microsoft 365 Script Samples 
+
+### Microsoft 365 Script Samples
+
 {{< image alt="script-gallery.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/script-gallery.png" >}}
 
 \
@@ -828,6 +863,8 @@ month. We welcome all scripts on Microsoft 365 automation to this
 centralized repository, targeted to help to manage and automate
 day-to-day operations.
 Here are the latest updates on the Script Samples
+
+
 -   New script
     [spo-setup-example-site](https://github.com/pnp/script-samples/tree/main/scripts/spo-setup-example-site)
     by [Adam Wójcik](https://github.com/Adam-it) and [Valeras
@@ -924,7 +961,9 @@ If you have any existing scripts which you'd be willing to share with
 others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. 
 -   Microsoft 365 Script Samples - <https://aka.ms/script-samples>
+
 ### Sharing is Caring initiative 
+
 {{< image alt="sharing-is-caring-promo-1024x576.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/sharing-is-caring-promo-1024x576.png" >}}
 The "Sharing Is Caring" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
@@ -932,16 +971,19 @@ requests to the PnP repositories and in GitHub in general. Take
 advantage of this instructor lead training for learning how to
 contribute to docs or to open-source solutions. Everyone is welcome to
 learn how to get started on contributing to open-source docs or code!
+
 -   See more from the [guidance
     documentation](http://aka.ms/sharing-is-caring) - including all
     upcoming instructor lead sessions which you can participate!
-### ✍ Different Microsoft 365 related open-source initiatives build together with the community 
+
+### ✍ Different Microsoft 365 related open-source initiatives build together with the community
 
 See exact details on the latest updates from the specific open-source
 project release notes. You can also follow up on the project updates
 from our community calls. There are numerous active projects which are
 releasing new versions with the community even on weekly basis. Get
 involved!
+
 -   **Microsoft Look Book** - Discover the modern experiences you can
     build with SharePoint in Microsoft 365. Look book provides design
     examples for SharePoint Online which can be automatically
@@ -1023,22 +1065,25 @@ involved!
 -   **Teams provisioning solution** - Set of open-source Azure Functions
     for Microsoft Teams provisioning. See more details from
     [GitHub](https://github.com/pnp/OrchestratedProvisioning).
+
 ### ✍ Documentation updates 
 
 Please see all the Microsoft 365 development documentation updates from
 the related documentation sets and repositories as listed below:
+
 -   Microsoft Teams platform documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) |
+    Docs](https://docs.microsoft.com/microsoftteams/platform/) |
     [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
 -   SharePoint Developer documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) |
+    Docs](https://docs.microsoft.com/sharepoint/dev/) |
     [GitHub](https://github.com/SharePoint/sp-dev-docs)
 -   Microsoft Graph documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/graph) |
+    Docs](https://docs.microsoft.com/graph) |
     [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
 -   Office add-in documentation - [Microsoft
-    Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) |
+    Docs](https://docs.microsoft.com/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
+
 ### 🤩 Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
 
 You can find all Microsoft 365 related videos on our YouTube Channel at
@@ -1049,6 +1094,7 @@ channels contains already a significant amount of detailed training
 material, demo videos, and community call recordings.
 Here are the new Microsoft demo or guidance videos released since the
 last monthly summary:
+
 -   [Introduction to Microsoft Viva Connections
     extensibility](https://www.youtube.com/watch?v=t_hLU25IvKU) - [Ed
     Averett](https://twitter.com/Ed_Averett) (Microsoft) |
@@ -1283,6 +1329,7 @@ Community demos as following: 
 -   [Getting started with Microsoft Lists - Templates, formatting and
     more](https://www.youtube.com/watch?v=OmoxVkQmiYo) - [Chris
     Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent\
+
 ## 🧡 Key contributors to the October 2021 update 
 
 Here's the list of active contributors (in alphabetical order) since
@@ -1294,6 +1341,7 @@ Microsoft.
 **🤩 Thank you for your assistance and contributions on behalf of the
 community. You are truly making a difference!** If we missed someone,
 please let us know.
+
 -   Aaron Blair
 
 -   Abderahman Moujahid
@@ -1958,6 +2006,7 @@ know and share the logo with us. Thx.
 
 **Microsoft people:** Here's the list of Microsoft people who have been
 closely involved with the PnP work during last month.
+
 -   Aakash Bhardwaj - [\@aakash_316](https://twitter.com/aakash_316)
 -   Alex Terentiev -
     [\@alexaterentiev](https://twitter.com/alexaterentiev)
@@ -2025,6 +2074,7 @@ closely involved with the PnP work during last month.
 -   Waldek Mastykarz - [\@waldekm](https://twitter.com/waldekm)
 -   Wictor Wilen - [\@wictor](https://twitter.com/wictor)
 -   Vincent Biret - [\@baywet](https://twitter.com/baywet)
+
 ## MVP Community team 
 
 MVP Community team (PnP Team) manages the PnP community work in the
@@ -2033,7 +2083,8 @@ Microsoft 365 topics. PnP Team members have a significant impact on
 driving adoption of Microsoft 365  topics. They have shown their
 commitment to the open-source and community-driven work by constantly
 contributing to the benefit of the others in the community.
-Thank you for all that you do! 🤩
+Thank you for all that you do!
+
 -   Albert-Jan Schot (BLIS Digital) -
     [\@appieschot](https://twitter.com/appieschot)
 -   Andrew Connell
@@ -2086,8 +2137,7 @@ Here are the Microsoft Internal PnP Core team members:
 -   Garry Trinder - [\@garrytrinder](https://twitter.com/garrytrinder)
 -   Hugo Bernier - [\@bernierh](https://twitter.com/bernierh)
 -   Koen Zomers - [\@koenzomers](https://twitter.com/koenzomers)
--   Mikael Svenson
-    -- [\@mikaelsvenson](https://twitter.com/mikaelsvenson
+-   Mikael Svenson -[\@mikaelsvenson](https://twitter.com/mikaelsvenson)
 -   Patrick
     Rodgers -- [\@mediocrebowler](https://twitter.com/mediocrebowler)
 -   Rabia Williams -
@@ -2106,7 +2156,11 @@ assets from <https://aka.ms/m365pnp>. Get involved!
 Got ideas or feedback on the topics to cover, additional partnerships,
 product feature capabilities? - let us know. Your input is important for
 us, so that we can support your journey in Microsoft 365.
+
+
+
 *"Sharing is caring" 🧡*
+
 ------------------------------------------------------------------------
 
 Microsoft 365 Community (PnP) -- October 22nd 2021

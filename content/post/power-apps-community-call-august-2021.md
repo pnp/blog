@@ -11,13 +11,15 @@ type: "regular"
 
 
 ---
-# Power Apps Community Call -- August 2021
+
 
 {{< image alt="powerapps-community-call-18th-aug.png" src="images/blog/power-apps-community-call-august-2021/powerapps-community-call-18th-aug.png" >}}
 
 ## Call summary
 
+
 Topics covered in this month's community call include demos in
+
 - Performance Insights (a new Power Apps self-service tool that analyzes
 runtime user data, makes efficiency recommendations), 
 - Event Calendar
@@ -82,19 +84,22 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 **Recent News & Cool Stuff:**
 
 -   Microsoft Power Platform: 2021 release wave 2 plan -
-    <https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave2/>
+    <https://docs.microsoft.com/power-platform-release-plan/2021wave2/>
 -   Announcing public preview of Custom Pages for converging
     model-driven apps and canvas apps - [Announcing public preview of
     Custom Pages for converging model-driven apps and canvas apps |
-    Microso\...](https://powerapps.microsoft.com/en-us/blog/custom-pages-for-converging-model-driven-apps-and-canvas-apps/)
+    Microso\...](https://powerapps.microsoft.com/blog/custom-pages-for-converging-model-driven-apps-and-canvas-apps/)
 -   Announcing command designer with Power Fx (preview) -
-    <https://powerapps.microsoft.com/en-us/blog/announcing-command-designer-with-power-fx-preview/>
+    <https://powerapps.microsoft.com/blog/announcing-command-designer-with-power-fx-preview/>
 -   Announcing the public preview for connection references support in
     Power Platforms Tools -
-    [https://powerapps.microsoft.com/en-us/blog/announcing-the-public-preview-for-connection-references-s\...](https://powerapps.microsoft.com/en-us/blog/announcing-the-public-preview-for-connection-references-support-in-power-platforms-tools/)
+    [https://powerapps.microsoft.com/blog/announcing-the-public-preview-for-connection-references-s\...](https://powerapps.microsoft.com/blog/announcing-the-public-preview-for-connection-references-support-in-power-platforms-tools/)
+
 
 
 ## Actions
+
+
 
 -   Join us for our next call: September 15, 2021 at 08:00am PDT
     | <https://aka.ms/powerappscommunitycall>
@@ -116,10 +121,10 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
     Young)]
 
 -   [Blog - ][Tooltips, not just a boring
-    description](https://powerusers.microsoft.com/t5/Power-Apps-Community-Blog/Tooltips-not-just-a-boring-description/ba-p/1213901)[ ]
+    description](https://powerusers.microsoft.com/t5/Power-Apps-Community-Blog/Tooltips-not-just-a-boring-description/ba-p/1213901)
 
 -   [Demo - ][Visual Holiday Calendar
-    Demo](https://youtu.be/NKNCsq3iF8I)[ ]
+    Demo](https://youtu.be/NKNCsq3iF8I)
 
 -   [Demo - Gerard Simpson's YouTube channel |
     ]<https://www.youtube.com/channel/UC8A8L7bplMnkLOB780mMfHg>[
@@ -127,7 +132,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 
 -   [Download -- ][How to Feed your
     Dragon
-    app](https://1drv.ms/u/s!AgVDDsrNKG0BjQMM8aopGfhLIsKB?e=r2upcG)[ ]
+    app](https://1drv.ms/u/s!AgVDDsrNKG0BjQMM8aopGfhLIsKB?e=r2upcG)
 
 **Learn more:**  
 

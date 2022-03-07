@@ -13,7 +13,10 @@ type: "regular"
 
 ---
 
-## Call Summary: 
+
+## Call summary
+
+
 
 This month's community call features presentations - **Dialog API
 security updates** (recent changes to dialog API that address a security
@@ -33,7 +36,7 @@ call.  The call was hosted by David Chesnut (Microsoft) |
 Manager and Onur Onder, Senior Software Engineer.   Recorded August 11,
 2021.
 
-## Agenda: 
+## Agenda
 
 -   Dialog API security updates - Lillian Liu, Senior Program Manager
     (Microsoft) -- [01:00](https://youtu.be/UflCQGPjz14?t=60)
@@ -45,7 +48,7 @@ Manager and Onur Onder, Senior Software Engineer.   Recorded August 11,
 
 {{< image alt="office-add-ins-august-agenda.png" src="images/blog/office-add-ins-community-call-august-2021/office-add-ins-august-agenda.png" >}}
 
-## Demo Summaries:  
+## Demo Summaries
 
 -   **PowerPoint API update: Shape object** -- overview and live demo of
     the new Shape APIs -- insertion APIs (Geometric Shapes, Lines, Text
@@ -61,7 +64,9 @@ Manager and Onur Onder, Senior Software Engineer.   Recorded August 11,
     spreadsheet and saved in OneDrive via Graph.   Code sample
     available.   Script Lab add-in uses Graph APIs and  ASP.NET.
 
+
 ## Q&A (Question & Answers) 
+
 
 **In response to your post about runtimes and XML errors - I am also
 having the same issue. It appears to be a bug in Visual Studio 2019
@@ -178,7 +183,7 @@ We're trying out the beta of shared/delegated mailbox support and
 finding that in OWA, we still can't open a shared mailbox. We get the
 error: \"The operation on mailbox failed because it's out of the
 current user's write scope.\" There are more details
-here([https://docs.microsoft.com/en-us/answers/questions/506662/outlook-owa-addin-installation-permission-\...](https://docs.microsoft.com/en-us/answers/questions/506662/outlook-owa-addin-installation-permission-issue-de.html)).
+here([https://docs.microsoft.com/answers/questions/506662/outlook-owa-addin-installation-permission-\...](https://docs.microsoft.com/answers/questions/506662/outlook-owa-addin-installation-permission-issue-de.html)).
 Is this something we can expect to work in the release?**
 
 This is a known outcome and you can find more information, including how
@@ -238,10 +243,10 @@ For books you might take a look at [Building Office Add-ins Using
 Office.js](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbuildingofficeaddins.com%2F&data=04%7C01%7Cdavech%40microsoft.com%7C4a289dd3e6cf4ceead0808d961afa380%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637648229255222695%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=vx2G2cwLHnOe3An1vve8qW6Cr5KNGl%2Bb%2BD4hUJCFTII%3D&reserved=0).
 There isn't a specific certification for Office Add-in development, but
 there is a [Microsoft 365 Certified: Developer
-Associate](https://docs.microsoft.com/en-us/learn/certifications/m365-developer-associate/)
+Associate](https://docs.microsoft.com/learn/certifications/m365-developer-associate/)
 certification. There is an Office Add-in specific learning at [Extend
 Office clients with Office add-ins -- Associate - Learn | Microsoft
-Docs](https://docs.microsoft.com/en-us/learn/paths/m365-office-add-in-associate/).
+Docs](https://docs.microsoft.com/learn/paths/m365-office-add-in-associate/).
 
 **Does anyone know when VSTO will reach official end of life?**
 
@@ -267,7 +272,8 @@ for mobile on the road map?**
 This is on our backlog but we don't yet have an ETA for when this could
 be available.
 
-## Resources: 
+
+## Resources
 
 ### Dialog API security updates 
 
@@ -279,12 +285,12 @@ be available.
 ### PowerPoint new Shape APIs 
 
 -   npm
-    package: [<https://www.npmjs.com/package/@microsoft/office-js/v/1.1.71-custom.37>]{style="language: en-US;"}
--   [CDN URLs for direct consumption:]{style="language: en-US;"}
-    -   [<https://unpkg.com/@microsoft/office-js@1.1.71-custom.37/dist/office.js>]{style="language: en-US;"}
-    -   [<https://unpkg.com/@microsoft/office-js@1.1.71-custom.37/dist/office.d.ts>]{style="language: en-US;"}
--   [Add a simple shape with some
-    properties: <https://gist.github.com/ononder/3f8986126d07a3f81d7fc36af80dbe72>]{style="language: en-US;"}
+    package: [<https://www.npmjs.com/package/@microsoft/office-js/v/1.1.71-custom.37>]
+-   [CDN URLs for direct consumption:]
+    -  <https://unpkg.com/@microsoft/office-js@1.1.71-custom.37/dist/office.js>]
+    -  <https://unpkg.com/@microsoft/office-js@1.1.71-custom.37/dist/office.d.ts>
+-   Add a simple shape with some
+    properties: <https://gist.github.com/ononder/3f8986126d07a3f81d7fc36af80dbe72>
 
 ### PnP open in Microsoft Teams sample 
 
@@ -302,7 +308,7 @@ be available.
 -   Community call recordings on the [YouTube Microsoft 365 community
     channel](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 
-###  Office Add-ins feedback 
+### Office Add-ins feedback 
 
 -   Technical questions -- Microsoft Q&A
     ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),

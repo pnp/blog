@@ -17,6 +17,7 @@ type: "regular"
 
 ## Call summary
 
+
 Topics covered in this month's community call include 3 demos - COE in
 Dataverse for Teams in the Power Platform, Planner Gantt chart in Power
 Apps, and Create a digital escape room with Power Apps.  Also, Recent
@@ -77,6 +78,8 @@ or viewing it on demand. 
 
 ## Actions
 
+
+
 -   [View and Vote on Demo Extravaganza
     entries](https://powerusers.microsoft.com/t5/Demo-Extravaganza-2021/con-p/Demo_Extravaganza_2021/tab/entries) 
 -   Last chance to submit entries for Demo Extravaganza 2021 |
@@ -85,6 +88,7 @@ or viewing it on demand. 
     <https://aka.ms/powerappscommunitycall>
 
 **Call Agenda:**
+
 
 -   COE in Dataverse for Teams in the Power Platform - [Krishna
     Vandanapu](http://twitter.com/KrishnaShp) | \@KrishnaShp

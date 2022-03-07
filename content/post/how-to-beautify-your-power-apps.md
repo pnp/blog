@@ -16,7 +16,7 @@ Power Apps offers you a variety of icons - and recently, there were nice
 additions announced and rolled out. But if we want to create even more
 appealing apps, it makes sense to extend our pretty little icon library.
 Microsoft provides us with [Fluent
-UI](https://developer.microsoft.com/en-us/fluentui#/).
+UI](https://developer.microsoft.com/fluentui#/).
 
 > Fluent UI is a collection of UX frameworks for creating beautiful,
 > cross-platform apps that share code, design, and interaction behavior
@@ -29,7 +29,7 @@ One part of Fluent UI is the iconography
 
 You can browse through the icons in the [Fluent UI icons
 tool](https://uifabricicons.azurewebsites.net/), but there is
-right-click download option. As a developer, you can import Fluent UI
+right-select download option. As a developer, you can import Fluent UI
 iconography (and more) into your applications; for Power Apps, there a
 different way how to use them:
 
@@ -51,6 +51,7 @@ GitHub](https://github.com/microsoft/fluentui-system-icons/blob/master/icons.md)
 right-click-download the icons. After that, you upload them to your
 Power App and can use them like any other image. Super cool: You get all
 icons as .svg files, which have three significant advantages:
+
 -   .svg are transparent, which means you have no extra work to remove
     any background
 
@@ -84,8 +85,9 @@ To create a pop up effect, create:
 -   a cancel icon
 
 Group these controls; it's easier to work with them then.
+
 -   Now create a textlabel (or a button, or an image\... something that
-    our user will click on to see the pop up).
+    our user will select  to see the pop up).
 
 -   Set the .onSelect property of this label
     to `UpdateContext({isShowPopUp:true})`
@@ -104,6 +106,7 @@ which means that the group will not be shown anymore!
 As we need to deal with all screen estate carefully, it is a fantastic
 idea to have a menu that can expand and collapse. To create this, we
 need
+
 -   a collection that holds the screens that we want our users to allow
     to navigate to
 
@@ -170,7 +173,7 @@ Image: ic_fluent_people_32_regular
 )
 ```
 
-2.  Gallery
+Gallery
 
 We create a gallery and set the .items property to our collection
 
@@ -180,23 +183,20 @@ first value is the expanded width, second is the non-expanded
 
 As we want to pretty things up a little bit,
 
--   add a small rectangle to your gallery
+- add a small rectangle to your gallery
+- add a rectangle (width = 1) to the right of your gallery
 
--   add a rectangle (width = 1) to the right of your gallery
-
-3.  Hamburger menu
+Hamburger menu
 
 we add a hamburger menu icon and set its .onSelect property
 to `Set(IsExpand, !IsExpand)```
 
-4.  adjust all other controls on the screens
+adjust all other controls on the screens
 
 Now work on the .X property of all labels, buttons, images, etc. Set it
-to
+to `If(!IsExpand, <original value>,<originalvalue>-150)`
 
-`If(!IsExpand, <original value>,<originalvalue>-150)`
-
-5\. variable so we can navigate to the selected screen on select of an
+1. variable so we can navigate to the selected screen on select of an
 item in the gallery
 
 

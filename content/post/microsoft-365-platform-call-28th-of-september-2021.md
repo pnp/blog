@@ -20,6 +20,7 @@ YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
 
 
+
 **Call Summary**
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
@@ -42,12 +43,14 @@ now open.  Latest news from Microsoft on Microsoft 365 platform and 2
 demos this week.  The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
   Q&A takes place in chat throughout the call.
+
 **Microsoft 365 Platform News Flash**
 
 -   [Viva Connections public preview is now
     available!](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-public-preview-is-now-available/ba-p/2768541)
 
 ## Actions
+
 
 -   Register for Microsoft Ignite (Digital event) - November 2-4,
     2021- [https://ignite.microsoft.com](https://ignite.microsoft.com/)
@@ -90,6 +93,7 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 
 Seated outdoors and waving in the Fall season.  It's awesome having you
 as a member of this community.    
+
 **Demos** delivered in this session
 
 -   **Introduction to Microsoft Viva Connections extensibility** -- Viva
@@ -127,6 +131,8 @@ Thank you for your work. Samples are often showcased in Demos.
     with Microsoft Search -- Jyoti Pal (Microsoft) --
     [29:25](https://youtu.be/MqGuY5V_0sQ?t=1765)
 
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -153,7 +159,7 @@ slides.
      
 
 -   D2:  Documentation - [Manage search result layouts -- Things to
-    consider](https://docs.microsoft.com/en-us/microsoftsearch/customize-results-layout#things-to-consider)
+    consider](https://docs.microsoft.com/microsoftsearch/customize-results-layout#things-to-consider)
 
 -   D2:  Registration - [Result type customization for SharePoint
     content - Private
@@ -176,6 +182,7 @@ slides.
     \@jthake and [Paul
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
+
 **General resources**:
 
 -   Archives - Microsoft 365 PnP Weekly
@@ -193,7 +200,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -218,7 +225,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -227,27 +234,30 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
 
--   **M365 General Dev call -- **September 30th at 7:00 am PDT
+
+-   **M365 General Dev call** -- September 30th at 7:00 am PDT
     | <https://aka.ms/m365-dev-sig>
 -   **Microsoft 365 platform call** -- October 5th at 8:00 am PDT
     | <https://aka.ms/m365-dev-call>
--   **SharePoint Framework call --** October 7th at 7:00 am PDT
+-   **SharePoint Framework call** -- October 7th at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
 -   **Office add-in monthly call** -- October 13th at 8:00 am PDT
     | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call** -- October 14th at 9:00 am PDT
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- October 20th at 8:00 am PDT
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- October 20th at 8:00 am PDT
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **Microsoft Identity Platform call --** October 21st at 9:00 am
+-   **Microsoft Identity Platform call** -- October 21st at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
 
 Microsoft 365 Platform community call focuses on latest Microsoft 365
@@ -258,14 +268,20 @@ development/implementation) and Microsoft 365 Platform (includes
 Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning,
 PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps,
 Column Formatting, list formatting, etc. topics.) with demos commonly
-delivered by community members.   More details on the Microsoft 365
+delivered by community members. 
+
+ More details on the Microsoft 365
 community from [http://aka.ms/m365pnp](http://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  Welcome and join in the
+from <https://aka.ms/m365-dev-call>.  
+
+Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free
 to provide your input as comments to this post as well. More details on
 the Microsoft 365 community and options to get involved are available
 from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
+
+
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

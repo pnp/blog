@@ -12,12 +12,13 @@ type: "regular"
 
 ---
 
-Recording of the Microsoft 365 -- General M365 development Special
-Interest Group (SIG) community call from May 27, 2021.
 {{< image alt="sig-27th-may-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-27th-of-may/sig-27th-may-recording.png" >}}
  
 
+
 ## Call summary
+
+
 
 Latest news from Microsoft 365 engineering and updates on open-source
 projects: PnP .NET libraries, PnP PowerShell, modernization tooling, on
@@ -62,6 +63,7 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
     not return classic CSOM objects from the cmdlets?"  Comments to: 
     \@erwinvanhunen.    
 -   **Register for Sharing is Caring Events**:
+
     -   First Time Contributor Session -- [June
         29th](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u)
         (EMEA, APAC & US friendly times available)
@@ -107,6 +109,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 {{< image alt="PnPCall-May27th-ReducedResolution.gif" src="images/blog/microsoft-365-developer-community-call-recording-27th-of-may/PnPCall-May27th-ReducedResolution.gif" >}}
 Hello!  it's always great to see everyone on the call today.  Thanks for
 participating. 
+
 **Demos** delivered in this session
 
 -   **Getting started with HTWOO UI -- Fluent Design in HTML and CSS**
@@ -171,6 +174,7 @@ Thank you for your work. Samples are often showcased in Demos.
     solution -- [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
     \@theChrisKent
     -[ [44:55](https://youtu.be/y0diQu23g88?t=2695)][ ]
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -187,27 +191,27 @@ slides.
 
 -   [Documentation - ][Send activity feed
     notifications to users in Microsoft
-    Teams](https://docs.microsoft.com/en-us/graph/teams-send-activityfeednotifications)[ ]
+    Teams](https://docs.microsoft.com/graph/teams-send-activityfeednotifications)
 
 -   [Video - ][Microsoft Teams -- Use the
     teamwork Microsoft Graph
-    endpoint](https://www.youtube.com/watch?v=G33bN7cl2QU&t=3536s)[ ]
+    endpoint](https://www.youtube.com/watch?v=G33bN7cl2QU&t=3536s)
 
 -   [Documentation - ][Create deep
-    links](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/deep-links)[ ]
+    links](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/deep-links)
 
 -   [Graphics - ][Fluent UI Icon
-    Search](https://www.flicon.io/)[ ]
+    Search](https://www.flicon.io/)
 
 -   [Sample - ][Person Mail To
-    Link](https://github.com/pnp/List-Formatting/tree/master/column-samples/person-mailto)[ ]
+    Link](https://github.com/pnp/List-Formatting/tree/master/column-samples/person-mailto)
 
 -   [Sample - ][Launch Power App
-    Button](https://github.com/pnp/List-Formatting/tree/master/column-samples/generic-launch-powerapp)[ ]
+    Button](https://github.com/pnp/List-Formatting/tree/master/column-samples/generic-launch-powerapp)
 
 -   [[Blog post - ][Custom Icon Buttons
     in Power Apps with Hover
-    Color](https://thechriskent.com/2021/05/27/custom-icon-buttons-in-power-apps-with-hover-color/)[ ]]
+    Color](https://thechriskent.com/2021/05/27/custom-icon-buttons-in-power-apps-with-hover-color/)]
 
 -   Editor - [Inkscape](https://inkscape.org/) - <https://inkscape.org>
 
@@ -227,6 +231,7 @@ slides.
 -   [Microsoft Teams Samples
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
+
 **General resources**:
 
 -   [Microsoft 365 PnP Community
@@ -239,7 +244,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -264,7 +269,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -273,16 +278,19 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
+
 -   **Microsoft Graph call --** June 1st at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>
--   **SharePoint Framework call --** June 3rdat 7:00 am PDT |
+-   **SharePoint Framework call** -- June 3rdat 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **SharePoint monthly call --** June 8th at 8:00am PDT |
     <https://aka.ms/sp-call>

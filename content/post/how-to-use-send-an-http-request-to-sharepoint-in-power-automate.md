@@ -17,7 +17,7 @@ queries. As we know when we want to perform any operations in SharePoint
 then we are using APIs so in the flow, we can use fro the same
 requirements.
 For more details refer to
-[this](https://docs.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request).
+[working with send sp http request](https://docs.microsoft.com/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request).
 
 ## Implementation 
 
@@ -26,7 +26,7 @@ Update and Delete operations. we will create an instant flow. let's see
 step-by-step implementation.
  
 
-**1. Go to Power Automate \> My flows \> Click on New flow \> Select
+**1. Go to Power Automate \> My flows \> select  New flow \> Select
 instant cloud flow**
 {{< image alt="STep 1.png" src="images/blog/how-to-use-send-an-http-request-to-sharepoint-in-power-automate/STep 1.png" >}}
  
@@ -121,7 +121,7 @@ actions
 
 **Headers**
 
-```
+```JSON
 {     \
       "content-type": "application/json;odata=verbose",\
       "IF-MATCH": "\*",\

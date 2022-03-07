@@ -16,7 +16,10 @@ type: "regular"
 {{< image alt="recording-august-19th.png" src="images/blog/microsoft-365-developer-community-call-recording-19th-of-august/recording-august-19th.png" >}}
  
 
+
 ## Call summary
+
+
 
 Summer break and community call schedule updates reviewed.  Microsoft
 365 tenant -- [script samples gallery](https://aka.ms/script-samples) -
@@ -127,10 +130,12 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
     set](https://pnp.github.io/script-samples/spo-import-taxonomy-terms-labels/README.html?tabs=pnpps)**
     -- [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) |
     \@ReshmeeAuckloo
+
 {{< image alt="210819-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-19th-of-august/210819-together-mode.gif" >}}
 
 Hopefully by the end of this year we will finally have the opportunity
 to meet face-to-face, that would be awesome.
+
 
 **Demos** delivered in this session
 
@@ -156,7 +161,7 @@ to meet face-to-face, that would be awesome.
     focusing on how to use Web Technologies to create a tab (Blazor app)
     inside of Teams using Visual Studio.  Open new project (Microsoft
     Teams App) in Visual Studio.   Install/open the Teams Toolkit
-    (Preview) for Visual Studio.  Configure for SSO.   Click F5. 
+    (Preview) for Visual Studio.  Configure for SSO.   Select F5. 
     Presto, a default page/tab is created with sample code and
     implements GraphClient.   Register the AAD app and modify it as you
     please.      
@@ -203,6 +208,8 @@ Thank you for your work. Samples are often showcased in Demos.
     -- [Thomas Gölles](http://twitter.com/thomyg) (Solvion) | \@thomyg
     -][ [44:13](https://youtu.be/_8BBaIJK2RM?t=2653)]
 
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -215,20 +222,20 @@ slides.
 -   Article - [Using Dynamic Values in Microsoft
     Flow](https://www.schaeflein.net/using-dynamic-values-in-microsoft-flow/) 
 -   Documentation - [Microsoft Power Platform Connectors
-    CLI](https://docs.microsoft.com/en-us/connectors/custom-connectors/paconn-cli) 
+    CLI](https://docs.microsoft.com/connectors/custom-connectors/paconn-cli) 
 -   Demo - [Publish a connector to the Power Platform with Independent
     Publisher Connector
     Program](https://www.youtube.com/watch?v=ulTBvCHw8MU) Natalie
     Pienkowska (Microsoft) 
 -   [Documentation --
-    ][Operators](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting#operators)[ ]
+    ][Operators](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting#operators)
 -   Documentation - [Use column formatting to customize
     SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) 
 -   All Samples - [SharePoint List Formatting
     Samples](https://github.com/pnp/List-Formatting) 
 -   Videos - [Microsoft Lists](https://bit.ly/lf-videos) 
 -   Documentation - [Prerequisites: Get started with Microsoft Teams app
-    development](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
+    development](https://docs.microsoft.com/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
 -   Issues List -
     [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) 
 -   Tool -- [Graph Explorer](https://aka.ms/ge) 
@@ -242,6 +249,7 @@ slides.
 -   [Microsoft Teams Samples
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
+
 **General resources**:
 
 -   [Microsoft 365 Extensibility look book
@@ -262,7 +270,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -287,7 +295,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -296,13 +304,15 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
 -   **SharePoint Framework call** -- August 26th at 7:00 am PDT
     |[ https://aka.ms/spdev-spfx-call](https://aka.ms/spdev-spfx-call)
 -   **Microsoft 365 platform** -- August 31st at 8 AM

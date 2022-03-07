@@ -36,7 +36,7 @@ If you haven't, I would highly recommend reading the first blog post in
 this series: [Getting started with SharePoint's custom column
 formatting](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-s-custom-column-formatting/ba-p/2207937).
 You can also refer to the [official
-documentation](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting)
+documentation](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting)
 for view formatting to help fill in any gaps not covered here.
 I should also warn you that your HTML and CSS skills are going to come
 into play a lot more here, as you'll be trying to work with multiple
@@ -95,6 +95,7 @@ formatting](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/gettin
 article, each custom format followed the same basic structure: A
 \$schema definition along with a parent HTML element and optional
 attributes, styles and children.
+
 ``` JSON
 {
     "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
@@ -109,7 +110,9 @@ attributes, styles and children.
     "children: []
 }
 ```
+
 List views aren't that much different.
+
 ``` JSON
 {
     "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json",    
@@ -135,7 +138,7 @@ make your row a different color, you're probably better off using the
 *design mode* tools, but if you're interested in learning more about
 the `additionalRowClass` property, it is covered well enough in the
 [official
-documentation](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting#apply-conditional-classes-on-rows).
+documentation](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting#apply-conditional-classes-on-rows).
 We, however, will not be satisfied with applying some simplistic
 styling. NO! We are bound for greater `rowFormatter` glory!
 
@@ -155,6 +158,7 @@ HTML elements we're going to create our view. If, for some reason, we
 wanted every row in our list to just simply display the basic column
 formatting shown in the previous section, we'd end up with the
 following JSON definition.
+
 ``` JSON
 {
     "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json",    
@@ -201,7 +205,7 @@ property. We'd do that in the following way `[$Member.title]`.
 
 
 
-## The World Is Not In Your Books And Maps. It Is Out There. 
+## The World Is Not In Your Books And Maps. It Is Out There
 
 Alright. Enough with the lessons, it's time to get started.
 We can use the \"map\" we created earlier and turn it into a rough
@@ -210,6 +214,7 @@ relationship. So, by looking at our map\...
 {{< image alt="blowout-witharrows.png" src="images/blog/getting-started-with-sharepoint-s-custom-view-formatting/blowout-witharrows.png" >}}
 
 We come up with this.
+
 ``` JSON
 {
     "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json",
@@ -279,6 +284,7 @@ We come up with this.
     }
 }
 ```
+
 That's the basic layout of our custom view, simply a series of parent
 and child divs. We'll start filling this skeleton out with content
 shortly, but there are a couple of things to point out already.
@@ -322,6 +328,7 @@ It's certainly a little short and skinny, so let's start by defining
 some CSS on our parent div. We know we want a border around the whole
 thing, as well as a particular font style and size, so we can apply
 those things at the top level.
+
 ``` JSON
 "style": {
     "position": "relative",
@@ -343,6 +350,7 @@ image. Normally, we'd just use the css property `background-image` and
 point it to a URL. Unfortunately, we can't do that here because the `(`
 character is prohibited in most use cases. So, instead, we have to use
 an **img** element and size it appropriately.
+
 ``` JSON
 {
     "elmType": "img",
@@ -383,6 +391,7 @@ third layer. If we refer back to our skeleton, we can see that our
 child has three children of its own. What we want to happen is to have a
 three-column layout and to do that, we're going to style this \"column
 container\" like so.
+
 ``` JSON
 "style": {
     "position": "absolute",
@@ -391,6 +400,7 @@ container\" like so.
     "display": "flex"
 }
 ```
+
 We have to specify the width and height here as being **"100%"**
 because, without it, the DIV will only grow as large as the content and
 we want to ensure that it stays as large as it can. We're also
@@ -411,6 +421,7 @@ children, which will represent our three columns.
 
 We'll just div right into the definition for our first column, which is
 a simple parent div to hold our image and role icon.
+
 ``` JSON
 {
     "elmType": "div",
@@ -489,6 +500,7 @@ At this point, we have something like the below image.
 Our second column consists of three rows, each containing a different
 bit of text relating information about the current member. Here's the
 definition for this section.
+
 ``` JSON
 {
     "elmType": "div",
@@ -530,6 +542,7 @@ definition for this section.
     ]
 }
 ```
+
 The only thing of real note here is that our parent container in this
 case is again defining a \"Flexbox\" with its `display` property. We're
 also using two new properties, `flex-direction` and `justify-content`,

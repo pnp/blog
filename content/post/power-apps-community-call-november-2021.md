@@ -18,6 +18,7 @@ type: "regular"
 
 ## Call summary
 
+
 Topics covered in this month's community call include demos **Power Apps
 Christmas Calendar + Games** (Advent calendar with engaging games
 unlocked on Dec 18th and 23rd) - [Craig
@@ -77,10 +78,13 @@ attending the call or viewing it on demand. 
 
 -   Blog (16 announcements) - [Round up of the Ignite announcements for
     Power
-    Apps!](https://powerapps.microsoft.com/en-us/blog/round-up-of-the-ignite-announcements-for-power-apps/) 
+    Apps!](https://powerapps.microsoft.com/blog/round-up-of-the-ignite-announcements-for-power-apps/) 
+
 
 
 ## Actions
+
+
 
 -   Groups - [Public Preview for User
     Groups](https://community.powerbi.com/t5/Power-BI-User-Groups/ct-p/pbi_usergroups) 

@@ -44,7 +44,7 @@ and the recommended actions. For more information see the [v4 Upgrade
 Guidance](https://pnp.github.io/cli-microsoft365/v4-upgrade-guidance) in
 our docs.***
  
-#### Change to JSON as default output mode 
+### Change to JSON as default output mode 
  
 We noticed that when scripts were written using CLI for Microsoft 365
 that it was common for commands to use the JSON output mode, as our
@@ -53,7 +53,7 @@ to include the *\--output* option in the command execution. We decided
 that in this new version we would change the default output to use JSON
 to help simplify these scenarios.
  
-#### Consistent JSON output for list commands 
+### Consistent JSON output for list commands 
  
 We noticed that some of our list commands were not consistent in the way
 they returned a response using the JSON output mode, a typical example
@@ -63,7 +63,7 @@ this inconsistency. In v4, we have removed the value array property and
 return the array values to you directly making for a much more
 consistent experience.
  
-#### Removal of deprecated file path options 
+### Removal of deprecated file path options 
  
 Earlier in the year we introduced a new way of passing complex inputs to
 command options by using the @ file reference syntax to tell the CLI
@@ -76,7 +76,7 @@ syntax from the following commands.
 -   `outlook mail send --bodyContentsFilePath`
 -   `spo theme set --filePath`
 -   `teams team add --templatePath`
-##   
+
 ## Updates 
  
 In addition to the notable evolutionary changes introduced in this major
@@ -87,7 +87,7 @@ new capabilities. Here are a few of the most noteworthy additions.
 
 Recently, Microsoft released a new [preview version of the SharePoint
 Framework -
-v1.13](https://developer.microsoft.com/en-us/sharepoint/blogs/announcing-public-preview-of-sharepoint-framework-1-13-with-viva-connections-extensibility/).
+v1.13](https://developer.microsoft.com/sharepoint/blogs/announcing-public-preview-of-sharepoint-framework-1-13-with-viva-connections-extensibility/).
 This version of SPFx, introduces new exciting capabilities for extending
 Viva Connections using Adaptive Card Extensions.
  

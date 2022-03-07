@@ -14,7 +14,7 @@ type: "regular"
 
 ## Intro
 
-[Incoming webhooks](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?WT.mc_id=m365-12509-rwilliams) are a way to send updates or messages in a channel in Teams
+[Incoming webhooks](https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?WT.mc_id=m365-12509-rwilliams) are a way to send updates or messages in a channel in Teams
 without a user interface,
 typically done via scripts or code
 programmatically. Having talked about omitting the
@@ -29,17 +29,17 @@ hidden gem for notification or logging
 mechanism. ]
 
 In short, [Incoming
-Webhooks]](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?WT.mc_id=m365-11878-rwilliams)[ are
+Webhooks](https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?WT.mc_id=m365-11878-rwilliams) are
 built-in connectors used to send updates back to a channel in Teams once
 configured. ]
 
-[The good thing is, it is easy to set up and even
+The good thing is, it is easy to set up and even
 more comfortable to design your
 messages you want to send through it. The messages can be plain text, or
 [actionable
-messages](https://docs.microsoft.com/en-us/outlook/actionable-messages/?WT.mc_id=m365-11878-rwilliams)
+messages](https://docs.microsoft.com/outlook/actionable-messages/?WT.mc_id=m365-11878-rwilliams)
 or [adaptive
-cards](https://docs.microsoft.com/en-us/adaptive-cards/authoring-cards/getting-started?WT.mc_id=m365-11878-rwilliams) .
+cards](https://docs.microsoft.com/adaptive-cards/authoring-cards/getting-started?WT.mc_id=m365-11878-rwilliams) .
 **Incoming
 Webhooks
 
@@ -49,7 +49,7 @@ understand what they are, but here
 is
 the blurb. ]
 [Incoming
-Webhooks](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?WT.mc_id=m365-12509-rwilliams) 
+Webhooks](https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?WT.mc_id=m365-12509-rwilliams) 
 is a special type of Connector in
 Teams
 that provide a
@@ -69,10 +69,10 @@ in maybe
 your  PowerAutomate 
 actions or  PowerShell  or  cURL 
 scripts [see how you can do the scripts
-here](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using?WT.mc_id=m365-11878-rwilliams)
+here](https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using?WT.mc_id=m365-11878-rwilliams)
 
 or any web app that can invoke a POST
-operation. ]*[ ]
+operation. ]*
 [In this article, we will take you
 through the configuration and
 testing of this connector in the next
@@ -108,13 +108,15 @@ configure]**
 
 
 {{< image alt="incoming-webhook.png" src="images/blog/how-to-configure-and-use-incoming-webhooks-in-microsoft-teams/incoming-webhook.png" >}}
--   [nce added, configure it by giving a name, optionally upload an
+
+-   once added, configure it by giving a name, optionally upload an
     icon and once
     done, click **[Create]**
 
 
 
 {{< image alt="create.png" src="images/blog/how-to-configure-and-use-incoming-webhooks-in-microsoft-teams/create.png" >}}
+
 -   Copy the URL that is unique for the channel, and
     we will later use this URL to post the
     message. 
@@ -140,7 +142,7 @@ operation](https://en.wikipedia.org/wiki/POST_(HTTP)) is
 what you need to send messages using this connector. Here, let 's see
 how we can test this using
 PowerShell.
-[Open the [Windows PowerShell]](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/starting-windows-powershell?view=powershell-7.1)
+[Open the [Windows PowerShell]](https://docs.microsoft.com/powershell/scripting/windows-powershell/starting-windows-powershell?view=powershell-7.1)
 
  terminal and
 run the below script assuming you
@@ -152,7 +154,7 @@ achieve the same (especially
 for macOs and Linux
 users). For
 that, [see post
-here](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using#post-a-message-to-the-webhook-using-curl
+here](https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using#post-a-message-to-the-webhook-using-curl)
 here I am using
 PowerShell.
  

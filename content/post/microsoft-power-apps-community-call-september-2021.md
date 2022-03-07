@@ -12,14 +12,12 @@ type: "regular"
 
 ---
 
-# Microsoft Power Apps Community Call -- September 2021
-
-
 {{< image alt="powerapps-recording.jpg" src="images/blog/microsoft-power-apps-community-call-september-2021/powerapps-recording.jpg" >}}
 
  
 
 ## Call summary
+
 
 Topics covered in this month's community call include demos in **Visio,
 Power BI Tiles, and Reports in Power Apps!** (Combining capabilities in
@@ -87,6 +85,8 @@ demand. 
 ** **
 
 ## Actions
+
+
 
 -   Attend the [BizApps LATAM Summit - Nov
     17-19^th^](https://aka.ms/BizappsLATAMSummit) |

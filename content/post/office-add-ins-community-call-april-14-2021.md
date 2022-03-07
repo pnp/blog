@@ -10,9 +10,12 @@ tags: []
 type: "regular"
 
 
----# [ Office add-ins community call -- April 14, 2021](/t5/microsoft-365-pnp-blog/
+---
 
-## Call summary 
+
+## Call summary
+
+ 
 
 April's call, hosted by **David Chesnut**, featured the following
 presenters and topics:\
@@ -28,7 +31,9 @@ To watch the call, tap the following link.
 [Office Add-ins community call -- April 2021 -
 YouTube](https://www.youtube.com/watch?v=hGVdftCzs20)
 
-##  Q&A (Question & Answers) 
+
+## Q&A (Question & Answers) 
+
 
 We welcome you to submit questions and topic suggestions prior to each
 call by using our short [survey form](https://aka.ms/officeaddinsform).
@@ -50,9 +55,9 @@ support, and does not include developer support. You can get help with
 developer questions at Microsoft Q&A for Office Add-ins, or at Stack
 Overflow \[office-js\].
 
-###  Office Scripts 
+### Office Scripts 
 
-\
+
 **ServiceHub is not enabled for my Enterprise ID. Is it possible for an
 admin to configure without admin access to rest of the Office 365
 tenant?**\
@@ -63,6 +68,7 @@ the O365 admin instead. Either should work.
 family accounts or just Enterprise?**\
 Currently, Office Scripts are only available on Enterprise, though
 we're exploring expanding availability to other licenses.
+
 ### Miscellaneous questions 
 
 **When will the current Outlook preview requirement set, including
@@ -82,7 +88,7 @@ Community](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platfo
 in the arguments. We've noticed that calling Excel.run to request that
 data through the Excel request context on every formula invocation leads
 to concurrency issues (RichApi.Error: Wait until the previous call
-completes.) Is there a flexible way to get this to work?**\
+completes.) Is there a flexible way to get this to work?**
 There is a code approach used in [GitHub issue 483 in
 office-js](https://github.com/OfficeDev/office-js/issues/483#issuecomment-490592291)
 that may help you. If that doesn't work for your scenario, please post a
@@ -91,7 +97,7 @@ API](https://docs.microsoft.com/answers/topics/office-js-dev.html).
 **In Excel custom functions, is there a way to pause the calculations
 and resume later (other than setting calculation mode to manual)? End
 users want to pass an additional flag to the custom function that
-indicates if it should run or not run.**\
+indicates if it should run or not run.**
 We suggest switching to manual recalc mode, instead of using an argument
 to the function. Our goal is for Excel custom functions to run using the
 same paradigm as built-in functions. We don't have a design pattern
@@ -104,6 +110,7 @@ from the invocation object. Is there a way to get the current value from
 the cell along with the address?**\
 We suggest that you use the onCalculated event which is called when
 custom functions are calculated. Here's an example:
+
 ```javascript
 async function onCalculated(event) {
  await Excel.run(async (context) => {
@@ -118,7 +125,7 @@ async function onCalculated(event) {
     }
 ```
 
-\
+
 **Can the Microsoft Graph API be used by an add-in without a dedicated
 server to proxy requests to the Graph API? We're trying to replace the
 usage of the Outlook REST API in an add-in that makes API calls from the
@@ -127,13 +134,14 @@ If you're Outlook add-in is basically a single-page app (SPA) this
 tutorial will help you call the Microsoft Graph API from the add-in:
 [Tutorial: Create a JavaScript single-page app that uses auth code
 flow - Microsoft identity
-platform\...](https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-javascript-auth-code).
+platform\...](https://docs.microsoft.com/azure/active-directory/develop/tutorial-v2-javascript-auth-code).
 There are also additional Microsoft Graph samples at
 [https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/tree/master/2-W\...](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/tree/master/2-WebApp-graph-user)\
 **When will Outlook sideload and debug from VS Code (as demoed in
 November community call) be available?**\
 This feature is available, but there is an issue that prevents it from
 working in all scenarios. We're working to get a fix out soon.
+
 
 ## Resources 
 
@@ -144,8 +152,8 @@ working in all scenarios. We're working to get a fix out soon.
 -   [Concierge Services in Office 365 Admin
     Portal](https://admin.microsoft.com/)
 -   Community and Q+A Answer Forums
-    -   <https://developer.microsoft.com/en-us/office/blogs/>
-    -   <https://docs.microsoft.com/en-us/answers/topics/office-addins-dev.html>
+    -   <https://developer.microsoft.com/office/blogs/>
+    -   <https://docs.microsoft.com/answers/topics/office-addins-dev.html>
     -   <https://stackoverflow.com>
 -   [Troubleshoot development errors with Office
     Add-ins](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-development-errors)\
@@ -181,7 +189,7 @@ working in all scenarios. We're working to get a fix out soon.
 -   Community call recordings on [Microsoft 365
     developer YouTube](https://aka.ms/OfficeDevYouTube)
 
-###  Office Add-ins feedback 
+### Office Add-ins feedback 
 
 -   Technical questions -- Microsoft Q&A
     ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),

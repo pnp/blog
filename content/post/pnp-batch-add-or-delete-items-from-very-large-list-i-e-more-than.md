@@ -17,9 +17,11 @@ post <https://vladilen.com/office-365/spo/fastest-way-to-delete-all-items-in-a-
 the difference of speed using batches, scriptblock and without batches.
 The conclusion was batches and scriptblock were equally fast and faster
 than without the use of batches. 
+
 ``` wp-block-preformatted
 Get-PnPListItem -List $list -Fields "ID" -PageSize 100 -ScriptBlock { Param($items) $items | Sort-Object -Property Id -Descending | ForEach-Object{ $_.DeleteObject() } } 
 ```
+
 Unfortunately the script kept producing errors like "The collection has
 not been initialised" , "A task has been canceled" or "The operation
 has timed out" at irregular intervals and had to manually restart the

@@ -14,8 +14,13 @@ type: "regular"
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from May 13, 2021.
+
 {{< image alt="recording-may-13th-call.png" src="images/blog/microsoft-365-developer-community-call-recording-13th-of-may/recording-may-13th-call.png" >}}
+
+
 ## Call summary
+
+
 
 Latest news from Microsoft 365 engineering and updates on open-source
 projects: PnP .NET libraries, PnP PowerShell, modernization tooling, on
@@ -77,9 +82,12 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     -** [Sébastien Levert](http://twitter.com/sebastienlevert)
     (Microsoft) |
     [sebastienlevert](https://github.com/sebastienlevert)
+
 {{< image alt="PnPCall-May13th-Small.gif" src="images/blog/microsoft-365-developer-community-call-recording-13th-of-may/PnPCall-May13th-Small.gif" >}}
+
 Great to see all the faces in the community.  Hopefully soon we will get
 to see each other in person.   
+
 **Demos** delivered in this session
 
 -   **Inspire, inform and prepare employees transition to the new hybrid
@@ -147,6 +155,9 @@ Thank you for your work. Samples are often showcased in Demos.
     [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
     \@theChrisKent [-
     [43:22](https://youtu.be/pg1M9AuTaO4?t=2602)][ ]
+
+
+
 ## Resources
 
 Additional resources around the covered topics and links from the
@@ -163,7 +174,7 @@ slides.
     SITE](https://aka.ms/WorkplaceTransformationSite) 
 
 -   Article - [The future of work---the good, the challenging & the
-    unknown](https://www.microsoft.com/en-us/microsoft-365/blog/2020/07/08/future-work-good-challenging-unknown/) 
+    unknown](https://www.microsoft.com/microsoft-365/blog/2020/07/08/future-work-good-challenging-unknown/) 
 
 -   Support site -- [Hybrid workplace
     guides](https://support.microsoft.com/office/view-usage-data-for-your-sharepoint-site-884b5a0e-ab1d-40a1-8c60-f8e46fb014f3)  
@@ -193,6 +204,7 @@ slides.
 -   [Microsoft Teams Samples
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
+
 **General resources**:
 
 -   [Microsoft 365 PnP Community
@@ -205,7 +217,7 @@ slides.
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
-    API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+    API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
     videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
@@ -230,7 +242,7 @@ slides.
     videos](https://aka.ms/sppnp-pagetransformationvideos)
 -   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 -   [Microsoft 365 developer program
-    site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) -
+    site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) -
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
@@ -239,18 +251,21 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
-    series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+    series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
+
 **Upcoming Calls | Recurrent Invites:**
+
+
 -   **Microsoft Teams monthly call --** May 18th at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>
 -   **Power Apps monthly call --** May 19th at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** May 20th at 7:00 am PDT |
+-   **SharePoint Framework call** -- May 20th at 7:00 am PDT |
     <https://aka.ms/spdev-spfx-call>
 -   **Microsoft Identity Platform --** May 20th at 9:00 am PDT
     | <https://aka.ms/IDDevCommunityCalendar> 

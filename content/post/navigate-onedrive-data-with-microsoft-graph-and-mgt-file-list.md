@@ -56,6 +56,7 @@ search files inside shared Libraries.
         itemId={this._itemID}
 ></FileList>
 ```
+
 #### Where can I found SiteID of a site? 
 
 Use the **Site Graph API with search** query based on hostname to
@@ -109,7 +110,7 @@ https://graph.microsoft.com/v1.0/me/drive/root/?$Select=id
 
 PS: This query's can be tested using the following site.
 
-<https://developer.microsoft.com/en-us/graph/graph-explorer>
+<https://developer.microsoft.com/graph/graph-explorer>
 
 Below some additional Mgt-File-List documentation regarding possible
 options to use.
@@ -130,6 +131,7 @@ features that were used in sample
 -   Custom Theme styles 
 
 {{< image alt="SampleFileList.png" src="images/blog/navigate-onedrive-data-with-microsoft-graph-and-mgt-file-list/SampleFileList.png" >}}
+
 ### Mgt provider and SharePointProvider 
 
 It's important that permissions are given from Microsoft Graph to SPFX
@@ -202,6 +204,7 @@ amounts of documents.
 
 Code below shows how can be implemented a multiple file extensions
 filter.
+
 ``` {.lia-code-sample .language-html}
  const checkFileExtensions = (event: React.FormEvent<HTMLDivElement>, selectedOption: IDropdownOption) => {
       let fileExtensions: string[] = [];
@@ -335,7 +338,7 @@ when **Mgt-File-List** is available by the Microsoft Graph Toolkit.*
 
 There is a very good articles on how to start for example, [Build a
 SharePoint web part with the Microsoft Graph
-Toolkit](https://docs.microsoft.com/en-us/graph/toolkit/get-started/build-a-sharepoint-web-part)
+Toolkit](https://docs.microsoft.com/graph/toolkit/get-started/build-a-sharepoint-web-part)
 
 To use the **Mgt-File-List control in Beta version** please use the
 following packages.
@@ -354,19 +357,19 @@ I will hope this article could help you onboard when the
 Support Documentation:
 
 -   [Build a SharePoint web part with the Microsoft Graph
-    Toolkit](https://docs.microsoft.com/en-us/graph/toolkit/get-started/build-a-sharepoint-web-part)
+    Toolkit](https://docs.microsoft.com/graph/toolkit/get-started/build-a-sharepoint-web-part)
 -   [PnP SPFX Samples "One Drive
     finder"](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder)
 -   [Microsoft Graph
     Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit)
 -   [OneDrive file storage API
-    overview](https://docs.microsoft.com/en-us/graph/onedrive-concept-overview)
+    overview](https://docs.microsoft.com/graph/onedrive-concept-overview)
 -   [Working with files in Microsoft
-    Graph](https://docs.microsoft.com/en-us/graph/api/resources/onedrive?view=graph-rest-1.0)
+    Graph](https://docs.microsoft.com/graph/api/resources/onedrive?view=graph-rest-1.0)
 -   [Working with SharePoint sites in Microsoft
-    Graph](https://docs.microsoft.com/en-us/graph/api/resources/sharepoint?view=graph-rest-1.0)
+    Graph](https://docs.microsoft.com/graph/api/resources/sharepoint?view=graph-rest-1.0)
 -   [Graph
-    Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
+    Explorer](https://developer.microsoft.com/graph/graph-explorer)
 -   [FileList
     specifications](https://github.com/microsoftgraph/microsoft-graph-toolkit/blob/main/specs/mgt-file-list.md)
 -   [FileList

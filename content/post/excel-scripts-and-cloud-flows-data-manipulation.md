@@ -20,7 +20,7 @@ Have you discovered that the existing Power Automate actions for Excel
 are limited to Excel Tables?  Are you looking to take your cloud flow
 interactions with Excel to the next level?  Maybe it's time to start
 looking at [Excel
-Scripts](https://support.microsoft.com/en-us/office/introduction-to-office-scripts-in-excel-9fbe283d-adb8-4f13-a75b-a81c6baf163a)
+Scripts](https://support.microsoft.com/office/introduction-to-office-scripts-in-excel-9fbe283d-adb8-4f13-a75b-a81c6baf163a)
 which are currently accessible to Power Automate as a Preview Feature.
  
 What are Excel Scripts?  Using either the built in recording tool or
@@ -174,25 +174,28 @@ function main(workbook: ExcelScript.Workbook) {
  
  
 **Where do you find Excel Scripts Functionality?**  It's an Excel
-Online feature.  Load up Excel and click on the Automate Tab.  Here you
+Online feature.  Load up Excel and select  the Automate Tab.  Here you
 can view all scripts, record some actions and edit new or existing
 scripts that have been built.
  
+
 {{< image alt="DamoBird365_0-1621236507649.png" src="images/blog/excel-scripts-and-cloud-flows-data-manipulation/DamoBird365_0-1621236507649.png" >}}
+
  
 **Wondering where they live?**  Jump onto OneDrive and take a look at
 Documents/Office Scripts where you can export/import and share.
  
+
 {{< image alt="DamoBird365_1-1621236596024.png" src="images/blog/excel-scripts-and-cloud-flows-data-manipulation/DamoBird365_1-1621236596024.png" >}}
+
  
-Want to see a proof of concept ?  Take a look at my Invoicing Demo
-[here](https://damobird365.birdhoose.co.uk/2021/03/24/power-automate-office-scripts-populate-an-excel-template-dynamically-using-type-script/)
+Want to see a proof of concept ?  Take a look at my [Invoicing Demo](https://damobird365.birdhoose.co.uk/2021/03/24/power-automate-office-scripts-populate-an-excel-template-dynamically-using-type-script/)
 where I show you how you could autocompete an excel invoice template
 using scripts.  I recently covered this in a live demo with the Monthly
 (12th May) Microsoft Office Scripts Dev Team and included a bonus
 feature, converting the excel files to PDF using the same flow without
 premium actions.  Look out for this video on
-[here](https://www.youtube.com/c/Microsoft365Developer/videos) soon.
+[Microsoft 365 Developer Youtube channel](https://www.youtube.com/c/Microsoft365Developer/videos) soon.
  
 Please let me know if you found this useful and what you might use Excel
 Scripts for next.

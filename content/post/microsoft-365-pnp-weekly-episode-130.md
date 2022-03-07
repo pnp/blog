@@ -10,7 +10,7 @@ tags: []
 type: "regular"
 
 
----# [ [Microsoft 365 PnP Weekly - Episode 13
+---
 
 {{< image alt="Thumb-Ep130.png" src="images/blog/microsoft-365-pnp-weekly-episode-130/Thumb-Ep130.png" >}}
  
@@ -36,8 +36,9 @@ inclusive and diverse.
 
 [This episode was recorded on Monday, June 7,
 2021.]
+
 -   Video at [Microsoft 365 Community YouTube
-    channel.](https://aka.ms/m365pnp-videos)
+    channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
 These videos and podcasts are published each week and are intended to be
@@ -54,6 +55,7 @@ everyone for your contributions to the community!
 
 
 **Microsoft articles:**
+
 -   [SharePoint Roadmap Pitstop: May
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-may-2021/ba-p/2405130?WT.mc_id=m365-30992-wmastyka) -
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
@@ -77,20 +79,21 @@ everyone for your contributions to the community!
     work](https://techcommunity.microsoft.com/t5/microsoft-365-blog/choose-the-right-microsoft-tool-for-managing-your-work/ba-p/2374115?WT.mc_id=m365-30992-wmastyka)
     - Shin-Yi Lim (Microsoft)
 -   [Change notifications extended for federated
-    chats](https://developer.microsoft.com/en-us/microsoft-365/blogs/change-notifications-extended-for-federated-chats/?WT.mc_id=m365-30992-wmastyka) -
+    chats](https://developer.microsoft.com/microsoft-365/blogs/change-notifications-extended-for-federated-chats/?WT.mc_id=m365-30992-wmastyka) -
     Microsoft
 -   [Universal Actions in Adaptive Cards on Microsoft
-    Teams](https://developer.microsoft.com/en-us/microsoft-365/blogs/universal-actions-in-adaptive-cards-on-microsoft-teams/?WT.mc_id=m365-30992-wmastyka)
+    Teams](https://developer.microsoft.com/microsoft-365/blogs/universal-actions-in-adaptive-cards-on-microsoft-teams/?WT.mc_id=m365-30992-wmastyka)
     - Shiladitya Saha (Microsoft)
 
 **Community articles:**
+
 -   [Getting started with graph API in SPFx web
     part](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-graph-api-in-spfx-webpart/ba-p/2401064?WT.mc_id=m365-30992-wmastyka)
     - [Chandani
     Prajapati](https://twitter.com/Chandani_SPD) | \@Chandani_SPD
 -   [Announcing new file components, MSAL 2 Provider, and SharePoint
     Framework library in Microsoft
-    Graph\...](https://developer.microsoft.com/en-us/graph/blogs/announcing-new-file-components-msal-2-provider-and-sharepoint-framework-library-in-microsoft-graph-toolkit/?WT.mc_id=m365-30992-wmastyka) -
+    Graph\...](https://developer.microsoft.com/graph/blogs/announcing-new-file-components-msal-2-provider-and-sharepoint-framework-library-in-microsoft-graph-toolkit/?WT.mc_id=m365-30992-wmastyka) -
     Microsoft
 -   [Sample script: quickly remove pending SharePoint API permission
     requests](https://blog.mastykarz.nl/sample-script-quickly-remove-pending-sharepoint-api-permission-requests/)
@@ -128,6 +131,7 @@ everyone for your contributions to the community!
     \@darrellaas
 
 **Additional resources:**
+
 -   [Microsoft Graph Toolkit](https://aka.ms/mgt) - aka.ms/mgt
 -   [PnP Sharing is Caring
     initiative](https://aka.ms/sharing-is-caring) - Getting started

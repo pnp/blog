@@ -40,7 +40,9 @@ web part gallery:
 2.  PnP Search Results
 3.  PnP Search Filters
 4.  PnP Search Verticals
+
 {{< image alt="pnp-modern-search-page-03-web-parts-example-1024x686" src="images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-03-web-parts-example-1024x686.png" >}}
+
 On a very simple search page, we have at least two web parts: a search
 box and a search results web part.
 
@@ -48,6 +50,7 @@ box and a search results web part.
 
 You simply add a Search Box to the page by choosing "PnP Search Box" web
 part. At this point, you don't have to do any further configuration.
+
 {{< image alt="pnp-modern-search-page-04-search-box-web-part" src="images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-04-search-box-web-part.png" >}}
 
 ### Search Results Web Part 
@@ -66,9 +69,11 @@ following these steps:
 6.  Select "PnP -- Search Box" in the "Connect to source" dropdown.
 7.  Select "Search query" in the "PnP -- Search Box's properties"
     dropdown.
+
 {{< image alt="pnp-modern-search-page-05-search-results-web-part-properties" src="images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-05-search-results-web-part-properties.png" >}}
 
 Once done, save the page and enjoy your very first search page!
+
 {{< image alt="pnp-modern-search-page-06-search-page-101" src="images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-06-search-page-101.png" >}}
 
 *This article was originally posted on [Search Explained

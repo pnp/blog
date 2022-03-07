@@ -58,11 +58,12 @@ throughout the call.  This call was hosted by Matt Hidinger (Microsoft)
 -   Tools -- [Microsoft Teams Developer Portal
     (Preview)](http://dev.teams.microsoft.com) 
 -   Documentation - [Universal Action
-    Model](https://docs.microsoft.com/en-us/adaptive-cards/authoring-cards/universal-action-model) 
+    Model](https://docs.microsoft.com/adaptive-cards/authoring-cards/universal-action-model) 
 -   Video - [Deep dive into Universal Actions for Microsoft Teams and
     Outlook](https://youtu.be/mwWAFw8df50) 
 
-## Resources in General:
+
+## Resources in General
 
 -   Let us know the features you need    <https://aka.ms/ACRoadmap>
 -   Schema Explorer -

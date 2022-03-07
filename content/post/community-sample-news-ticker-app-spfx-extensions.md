@@ -23,7 +23,7 @@ Below is the data source:
 {{< image alt="Data Source List" src="images/blog/community-sample-news-ticker-app-spfx-extensions/2021-05-10 19_32_40-Window.png" >}}
  
 You can find the full source code and how to install
-it [here](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-news-ticker).
+it [react-application-news-ticker](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-news-ticker).
  
 In this article, I will share some key points from the solution code
 that might be useful for other SPFx projects.
@@ -35,7 +35,7 @@ easily add it manually.
 We just need to render our React component in the placeholder element
 provided by the SPFx Extension Application Customizer.
 You can find my implementation
-code [here](https://github.com/pnp/sp-dev-fx-extensions/blob/635f2cc96302b193ed9fbcfbc8789ffcca229748/samples/react-application-news-ticker/src/extensions/newsTicker/NewsTickerApplicationCustomizer.ts#L87 "GitHub link").
+code [NewsTickerApplicationCustomizer](https://github.com/pnp/sp-dev-fx-extensions/blob/635f2cc96302b193ed9fbcfbc8789ffcca229748/samples/react-application-news-ticker/src/extensions/newsTicker/NewsTickerApplicationCustomizer.ts#L87 "GitHub link").
  
 {{< image alt="Render React Component" src="images/blog/community-sample-news-ticker-app-spfx-extensions/1.png" >}}
  
@@ -49,12 +49,13 @@ mechanism in our app to configure (sort, filter, top, etc.) the data to
 be displayed. Just use the OOTB list view configuration.
 It's very easy to get the data based on the list view using the [PnP
 JS](https://pnp.github.io/pnpjs/sp/). Below is my implementation:
+
 1.  Get the view information
     using [list.views.getByTitle(\...)](https://pnp.github.io/pnpjs/sp/views/#get-views-in-a-list)
 2.  Get list item based on the list view XML
     using [list.getItemsByCAMLQuery(\...)](https://pnp.github.io/pnpjs/sp/lists/#get-list-items-using-a-caml-query)
 You can find my implementation
-code [here](https://github.com/pnp/sp-dev-fx-extensions/blob/a2f8ca83d13978835c5a7468c68a2a460bf58a50/samples/react-application-news-ticker/src/extensions/newsTicker/service/SpService.ts#L10).
+code [react-application-news-ticker](https://github.com/pnp/sp-dev-fx-extensions/blob/a2f8ca83d13978835c5a7468c68a2a460bf58a50/samples/react-application-news-ticker/src/extensions/newsTicker/service/SpService.ts#L10).
  
 {{< image alt="Get Data Based on List View" src="images/blog/community-sample-news-ticker-app-spfx-extensions/2021-05-10 19_56_48-Window.png" >}}
  
@@ -65,7 +66,7 @@ text component:
 [react-ticker](https://github.com/AndreasFaust/react-ticker).
 It's easy to add any React third party components to our SPFx project.
 You can find my implementation code
-[here](https://github.com/pnp/sp-dev-fx-extensions/blob/main/samples/react-application-news-ticker/src/extensions/newsTicker/components/NewsTicker.tsx).
+[newsTicker](https://github.com/pnp/sp-dev-fx-extensions/blob/main/samples/react-application-news-ticker/src/extensions/newsTicker/components/NewsTicker.tsx).
  
 {{< image alt="Use Third Party Component" src="images/blog/community-sample-news-ticker-app-spfx-extensions/2021-05-10 20_28_27-Window.png" >}}
 

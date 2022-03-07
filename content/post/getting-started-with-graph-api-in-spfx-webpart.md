@@ -25,13 +25,13 @@ the following Microsoft services like  Bookings, Calendar, Delve, Excel,
 Microsoft 365 compliance eDiscovery, Microsoft Search, OneDrive,
 OneNote, Outlook/Exchange, People (Outlook contacts), Planner,
 SharePoint, Teams, To Do, Workplace Analytics. for more details refer to
-[this](https://docs.microsoft.com/en-us/graph/overview?view=graph-rest-1.0 "Graph API").
+[Graph API](https://docs.microsoft.com/graph/overview?view=graph-rest-1.0 "Graph API").
  
 ## How to test API in graph explorer? 
  
 Before creating an SPFx web part implementation with Graph API we can
 explore APIs in [Graph
-Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer "Graph Explorer").
+Explorer](https://developer.microsoft.com/graph/graph-explorer "Graph Explorer").
 At here To access your own data you have to log in with your O365
 Credentials.
  
@@ -50,12 +50,9 @@ If you are testing any API and get an **error** like this:
 Then follow the below steps,
  
 1. Select Permissions
-
 {{< image alt="Select Permssion.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Select Permssion.png" >}}
-
-
-2\. Then select the category in which you want to set permission and
-click on the **Consent** button.
+2. Then select the category in which you want to set permission and
+select the **Consent** button.
  
 {{< image alt="Permssions.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Permssions.png" >}}
  
@@ -64,7 +61,7 @@ checkbox and Accept it.
  
 {{< image alt="AcceptPermission.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/AcceptPermsiion.png" >}}
 
-Then click on the run query and it will retrieve the results. that's
+Then select  the run query and it will retrieve the results. that's
 it :)
  
  
@@ -93,12 +90,14 @@ It will ask some questions, as shown below,
 
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
-```
+
+```PowerShell
     code .
 ```
+
 Now will create a demo to read messages of a user. for more details
 refer to
-[this](https://docs.microsoft.com/en-us/graph/api/message-get?view=graph-rest-1.0&tabs=http "this").
+[Microsoft Graph](https://docs.microsoft.com/graph/api/message-get?view=graph-rest-1.0&tabs=http "this").
  
 So first of all we have to set permission as per our endpoint in
 **package-solution.json**. Now the question is which permission we have
@@ -133,7 +132,7 @@ endpoints. 
 ]
 ```
  
-2\. Move to the **IGraphApiDemoProps.ts** and update as below,
+2.  Move to the **IGraphApiDemoProps.ts** and update as below,
  
 ```javascript
 import { MSGraphClient } from "@microsoft/sp-http";
@@ -143,7 +142,7 @@ export interface IGraphApiDemoProps {
 }
 ```
  
-3\. Create a file IGraphApiDemoState.ts inside
+3.  Create a file IGraphApiDemoState.ts inside
 **src\\webparts\\graphApiDemo\\components** and create a state interface
 as below
  
@@ -155,7 +154,7 @@ export interface IGraphApiDemoState {
 }
 ```
  
-4\. Move to the**{WebpartName}Webpart.ts**
+4.  Move to the**{WebpartName}Webpart.ts**
  
 Import MSGraphClient module
 Create an OnInit() to initialize the Graph Configuration for the current
@@ -230,7 +229,7 @@ export default class GraphApiDemoWebPart extends BaseClientSideWebPart<IGraphApi
 }
 ```
  
-5\. Move to the **GraphApiDemo.tsx** and call API here and render the
+5.  Move to the **GraphApiDemo.tsx** and call API here and render the
 data.
  
 ```javascript
@@ -297,8 +296,7 @@ Now test the web part in SharePoint-SiteURL +
  
 {{< image alt="Output.png" src="images/blog/getting-started-with-graph-api-in-spfx-webpart/Output.png" >}}
  
-Find the full source code
-[here](https://github.com/chandaniprajapati/GraphAPIDemo).
+Find the [full source code](https://github.com/chandaniprajapati/GraphAPIDemo).
  
 ## Summary 
  

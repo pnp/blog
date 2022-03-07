@@ -16,6 +16,7 @@ type: "regular"
 
 ## Call summary
 
+
 Topics covered in this month's community call include a demo -
 **PokéBubbles Game** and a session on **How to get Microsoft Certified
 in the Power Platform**. 
@@ -77,7 +78,7 @@ on demand. 
     preview)](https://powerapps.microsoft.com/blog/managing-solutions-has-a-new-look-public-preview/) 
 
 -   Article - [AUGUST UPDATE: Power Platform Developer
-    Tools](https://powerapps.microsoft.com/en-us/blog/august-update-power-platform-developer-tools/) 
+    Tools](https://powerapps.microsoft.com/blog/august-update-power-platform-developer-tools/) 
 
 -   Article - [Generating Power Fx formulas from
     examples](https://powerapps.microsoft.com/blog/generating-power-fx-formulas-from-examples/) 
@@ -87,7 +88,7 @@ on demand. 
 
 -   Article - [Microsoft is a Leader in the 2021 Gartner® Magic
     Quadrant™ for Enterprise Low-Code Application
-    Platf\...](https://powerapps.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2021-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/) 
+    Platf\...](https://powerapps.microsoft.com/blog/microsoft-is-a-leader-in-the-2021-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/) 
 
 -   Article - [New Data Loss Prevention policies for enhanced Power
     Platform governance available for Public
@@ -101,6 +102,8 @@ on demand. 
 
 
 ## Actions
+
+
 
 -   Register -- [Microsoft Ignite 2021 -- Nov
     2--4](Microsoft%20Ignite%202021%20–%20Nov%202–4) 

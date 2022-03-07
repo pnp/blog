@@ -200,6 +200,7 @@ logic?
     -   If you need to explain the *what*, in many cases, it is too
         difficult to understand. Try to simplify, if not possible, you
         can comment. An example could be the screenshot from above.
+        
 ## Best of both worlds 
 
 There is a solution for everything. Almost everything can be solved by

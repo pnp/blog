@@ -11,6 +11,7 @@ type: "regular"
 ---
 
 {{< image alt="recording-2nd-of-dec.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/recording-2nd-of-dec.png" >}}
+
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from December 2nd is now available from the Microsoft 365
 Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
@@ -18,7 +19,10 @@ SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
 
+
 ## Call summary
+
+
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
     call](https://aka.ms/m365-dev-call).  Featured topics for the
@@ -116,7 +120,7 @@ joining off camera on the call today.  It's December!
 
 
 
-**SPFx extension samples: (<https://aka.ms/spfx-extensions>) **
+**SPFx extension samples: (<https://aka.ms/spfx-extensions>)**
 
 -   **[Microsoft Clarity for Modern
     SharePoint](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-application-microsoft-clarity)** -
@@ -178,6 +182,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   **D2:** [Getting started with using PnP Search Web Parts v4 -- ][Franck Cornu][http://twitter.com/FranckCornu]( | @FranckCornu & )[Mikael Svenson](http://twitter.com/mikaelsvenson)[ (Microsoft) | @mikaelsvenson -- [38:10](https://youtu.be/NIjXZiEHx_8?t=2290)]
 
+
 ## Resources
 
 Additional resources around the covered topics and links from the slides.
@@ -192,7 +197,7 @@ Additional resources around the covered topics and links from the slides.
 -   **D1:**  Splash card -- [Welcome to your hTWOo Splash
     card](https://lab.n8d.studio/htwoo/htwoo-core/?p=pages-teams-splash-screen) 
 
--   **D2:**Repo - [PnP Modern Search Solution][https://github.com/microsoft-search/pnp-modern-search](https://github.com/microsoft-search/pnp-modern-search)
+-   **D2:** Repo - [PnP Modern Search Solution][https://github.com/microsoft-search/pnp-modern-search](https://github.com/microsoft-search/pnp-modern-search)
 
 -   **D2:** GitHub - [PnP Modern Search v4][https://microsoft-search.github.io/pnp-modern-search/](https://microsoft-search.github.io/pnp-modern-search/)
 
@@ -230,7 +235,7 @@ Additional resources around the covered topics and links from the slides.
     --g [@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
 
 -   [CLI for Microsoft 365
-    v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+    v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 
 -   [CodeTour](https://aka.ms/codetour)
 
@@ -251,7 +256,7 @@ Additional resources around the covered topics and links from the slides.
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team model with new
     community
-    leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+    leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 -   [Microsoft 365 Community
     Content](http://aka.ms/m365-community-docs) (non-Dev docs)
@@ -314,27 +319,29 @@ Additional resources around the covered topics and links from the slides.
     feature requests
 
 
+
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+    documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  **
 
--   **Microsoft 365 platform call** **-- **December 7that 8:00 am PST
+-   **Microsoft 365 platform call** -- December 7that 8:00 am PST
     | <https://aka.ms/m365-dev-call>
--   **Office add-in monthly call -- **December 8th at 8:00 am PST
+-   **Office add-in monthly call** -- December 8th at 8:00 am PST
     | <https://aka.ms/officeaddinscall>
--   **M365 General Dev call -- **December 9th at 7:00 am PST
+-   **M365 General Dev call** -- December 9th at 7:00 am PST
     | <https://aka.ms/m365-dev-sig>
--   **Adaptive Cards monthly call -- **December 9that 9:00 am PST
-    | <https://aka.ms/adaptivecardscommunitycall>
--   **Power Apps monthly call **-- December 15th at 8:00 am PST
+-   **Adaptive Cards monthly call** --December 9that 9:00 am PST
+| <https://aka.ms/adaptivecardscommunitycall>
+
+-   **Power Apps monthly call**-- December 15th at 8:00 am PST
     | <https://aka.ms/PowerAppsMonthlyCall>
--   **SharePoint Framework call --** December 16th at 7:00 am PST
+-   **SharePoint Framework call** -- December 16th at 7:00 am PST
     | <https://aka.ms/spdev-spfx-call>
--   **Microsoft Identity Platform call --** December 16th at 9:00 am
+-   **Microsoft Identity Platform call** -- December 16th at 9:00 am
     PST | <https://aka.ms/IDDevCommunityCalendar>
 
 Viva Connections & SharePoint Framework bi-weekly calls are targeted at

@@ -14,6 +14,7 @@ type: "regular"
 
 
 In this article, we will be exploring the below concepts,
+
 -   Understand QuickBooks Online APIs
 -   Trying QuickBooks API from the postman
 -   Create MS flow custom connectors.
@@ -52,12 +53,13 @@ country different pricing and subscription are available.
 You would need to create Intuit (company owning Quickbook) developer
 account.
 
-1.  Go [here](https://developer.intuit.com/app/developer/homepage)
+1.  Go to [developer.intuit.com/app/developer/homepage](https://developer.intuit.com/app/developer/homepage)
 
 On the top menu, follow the last link to sign up. The below screen will
 open, fill in the below details.
 
 {{< image alt="SiddharthVaghasia_0-1628135161016.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_0-1628135161016.png" >}}
+
 1.  Once sign in, you can follow
     this [link](https://developer.intuit.com/app/developer/qbo/docs/get-started) to
     create an APP. Ignore Steps 3 and 4 for now from this link. Make
@@ -103,7 +105,7 @@ Now go to Imported postman collection and expand the Invoice.
 
 {{< image alt="SiddharthVaghasia_5-1628135161514.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_5-1628135161514.png" >}}
 We will use 2 API(invoice read by Id and create an invoice). Open one by
-one and click on Save as to save in our custom-created
+one and select  Save as to save in our custom-created
 collection(QBOMSflowIntegration).
 
 {{< image alt="SiddharthVaghasia_6-1628135161650.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_6-1628135161650.png" >}}
@@ -125,7 +127,7 @@ Sandbox Base URL - sandbox-quickbooks.api.intuit.com
 Product Base URL - quickbooks.api.intuit.com (Production)
 
 Company ID -- You can find company ID by following
-this [link](https://quickbooks.intuit.com/learn-support/en-us/customer-company-settings/find-your-quickbooks-online-company-id/00/185551)
+this [link](https://quickbooks.intuit.com/learn-support/customer-company-settings/find-your-quickbooks-online-company-id/00/185551)
 
 Invoice Id -- Set is 1(we will query invoiced Id 1 in one Get Invoice
 Webservice)
@@ -164,15 +166,15 @@ developer dashboard.
 Login to the developer dashboard at
 this [link](https://developer.intuit.com/app/developer/homepage).
 
-Click on My Apps, select targeted app, and refer to the below screenshot
+Select  My Apps, select targeted app, and refer to the below screenshot
 to add.
 
 {{< image alt="SiddharthVaghasia_10-1628135161610.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_10-1628135161610.png" >}}
 
-Once this is done, come back to Postman and Click on Request token, it
+Once this is done, come back to Postman and Select  Request token, it
 will ask you to authenticate with your Quickbook account, login with a
 valid account, and follow along. Once you are logged in you should see
-the below popup, rename the token name with your preference and click on
+the below popup, rename the token name with your preference and select 
 use token.
 
 {{< image alt="SiddharthVaghasia_11-1628135161603.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_11-1628135161603.png" >}}
@@ -188,7 +190,7 @@ what we used while created in the above step.
 
 **Step 4 -- Call a simple web service**
 
-Now we are ready to test, click on the send button. If everything is set
+Now we are ready to test, select  the send button. If everything is set
 up correctly, we can see the below output.
 
 {{< image alt="SiddharthVaghasia_14-1628135161638.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_14-1628135161638.png" >}}
@@ -197,7 +199,7 @@ In the same way, you can test Create invoice method. Make sure in the
 authorization tab you have selected the newly generated token. Follow
 the below screenshot, if you notice, there is already a JSON object in
 the body which is the bare minimum thing required to create an invoice.
-Click on send.
+Select  send.
 
 {{< image alt="SiddharthVaghasia_15-1628135161634.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_15-1628135161634.png" >}}
 
@@ -212,20 +214,20 @@ collection, which will be used in Power automate to create the custom
 connector.
 
 {{< image alt="SiddharthVaghasia_16-1628135161616.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_16-1628135161616.png" >}}
-Once you click one export, it will ask you to save the exported file,
+Once you select e export, it will ask you to save the exported file,
 save it at your preferred location.
 
 **Step 6 -- Create a custom connector**
 
 Now it's time to go to Power automate and create a custom connector.
 
-Go [here](https://flow.microsoft.com/).
+Go to  [flow.microsoft.com](https://flow.microsoft.com/).
 
 Follow the below screenshot,
 
 {{< image alt="SiddharthVaghasia_17-1628135161596.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_17-1628135161596.png" >}}
 It will open below popup, select the JSON file which was imported in
-step 5. Give your preferred name. Click on Continue.
+step 5. Give your preferred name. Select  Continue.
 
 {{< image alt="SiddharthVaghasia_18-1628135160901.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_18-1628135160901.png" >}}
 We will now be taken into a wizard where we have to setup our connector,
@@ -233,7 +235,7 @@ In first (below screenshot) enter details are per your preference, we
 will keep default but enter the base URL.
 
 {{< image alt="SiddharthVaghasia_19-1628135161522.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_19-1628135161522.png" >}}
-Click on Security Tab and select oAuth 2.0 in Authentication Type.
+Select  Security Tab and select oAuth 2.0 in Authentication Type.
 
 {{< image alt="SiddharthVaghasia_20-1628135161374.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_20-1628135161374.png" >}}
 Below is for your quick reference, most of them are the same as we did
@@ -256,7 +258,7 @@ We need to come back here and then copy this URL to add this in Intuit
 developer dashboard in Allowed Redirect URL, the way we did it for the
 postman.
 
-Click on Definition --Here we will see below screen,
+Select  Definition --Here we will see below screen,
 
 {{< image alt="SiddharthVaghasia_21-1628135161481.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_21-1628135161481.png" >}}
 Now comes the tricky part, By default the definition we imported using
@@ -313,7 +315,7 @@ Below is have it will look like if you made all entries correct.
 
 {{< image alt="SiddharthVaghasia_24-1628135161735.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_24-1628135161735.png" >}}
 
-You can Toggle Enable Swagger and click on create connector button.
+You can Toggle Enable Swagger and select  create connector button.
 
 It will validate and save your connector.
 
@@ -325,9 +327,9 @@ In most cases, it would be below,
 
 <https://global.consent.azure-apim.net/redirect>
 
-Now let's test. Click on the Test tab, Click on New connection. It will
+Now let's test. Select  the Test tab, Select  New connection. It will
 ask us to login to Quickbooks, follow all steps as required. Enter
-companyid, invoice id as in below screenshot and click on Test
+companyid, invoice id as in below screenshot and select  Test
 operation, If you got output as marked as no.5, we are good.
 :smiling_face_with_smiling_eyes:
 
@@ -374,12 +376,12 @@ adding 1 here, make sure you have customer created with that Id.
 
 We are done with setting up our actions, let us run it. Save flow,
 
-Click on Test,
+Select  Test,
 
-Select I'll perform the trigger action. Click on Save and test.
+Select I'll perform the trigger action. Select  Save and test.
 
 {{< image alt="SiddharthVaghasia_29-1628135161013.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_29-1628135161013.png" >}}
-**Click continue -\> Run Flow. **Wait for some time. If everything goes
+**Select continue -\> Run Flow. **Wait for some time. If everything goes
 well, you see the below message.
 
 {{< image alt="SiddharthVaghasia_30-1628135161134.png" src="images/blog/quickbooks-api-integration-with-power-automate-using-custom/SiddharthVaghasia_30-1628135161134.png" >}}

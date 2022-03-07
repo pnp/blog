@@ -267,9 +267,7 @@ To retrieve all installed languages from a given site, execute: 
 ```bash
 m365 spo web installedlanguage list --webUrl https://contoso.sharepoint.com
 ```
- 
- 
-###   
+
 ## New script samples 
  
 
