@@ -518,6 +518,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Jeffin Jacob](https://www.github.com/jeffinjacob) | jeffinjacob
 * Jennifer Davison (Akron Children's Hospital)
 * [Jennifer Erzen](https://www.twitter.com/jennifererzen) (SUNY Upstate Medical University) | @jennifererzen
+* [Jerker Vallbo](https://github.com/jerval53) | jerval53
 * [Jhan Zaib](https://www.github.com/jhan-zaib) (Ascertia) | jhan-zaib
 * [Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @sparchitect
 * [Jinlong Wang](https://www.github.com/apzl808) | apzl808
