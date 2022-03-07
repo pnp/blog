@@ -237,7 +237,7 @@ slides.
 -   Documentation - [Prerequisites: Get started with Microsoft Teams app
     development](https://docs.microsoft.com/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
 -   Issues List -
-    [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) 
+    [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues) 
 -   Tool -- [Graph Explorer](https://aka.ms/ge) 
 -   Repo -- [Demo code](https://github.com/thomyg/PnPDemo190821Backup) 
 -   Sample Project -
@@ -299,7 +299,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

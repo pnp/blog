@@ -42,7 +42,7 @@ the number of the day from a website called MathTOOLs. I will post this
 number in a Microsoft Teams channel afterwards.
 
 First of all, navigate to your [Power Automate
-dashboard](http://www.flow.microsoft.com). Select "Data" and then
+dashboard](https://powerautomate.microsoft.com/). Select "Data" and then
 "Custom connectors"
 
 
