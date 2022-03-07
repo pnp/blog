@@ -95,16 +95,16 @@ active meeting participants about their join and left time in Power
 Apps. They also used this information later for analyzing the
 participant&rsquo;s activities for a particular event.</p><h2 id=pre-requisites>Pre-requisites</h2><ul>
 <li>A valid Azure subscription</li><li>MS Visual Studio Code</li><li>Node JS</li><li>Access to power Automate</li></ul><h2 id=step---registering-an-azure-bot>Step - Registering an Azure Bot</h2><p>Go to azure.portal.com</p><p>Select New resource from home page.</p><p>Search for Web App Bot.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_0-1630435722443_hu0a427a843d363a3cd6e3abea1add011d_60475_441x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_0-1630435722443.png>
-<p>Click on Create and we shall see the below page. Enter below the
+<p>Select Create and we shall see the below page. Enter below the
 required details.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_1-1630435722896_hue474a7a1be0dbf00d1fd543341118006_70888_257x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_1-1630435722896.png>
-<p>Once you click create, it will validate and start creating resources, we
+<p>Once you select create, it will validate and start creating resources, we
 can see a message in the notification bar.</p><p>
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_2-1630435722887_hudf19208440bd99be59783ca7b76a7be1_15682_546x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_2-1630435722887.png>
 Once completed we should see the below message.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_3-1630435722444_hud175ede8bfaa4c870b0b704c901bbe1f_14732_548x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_3-1630435722444.png>
 <h2 id=step---enabling-bot-for-calling>Step - Enabling Bot for Calling</h2><p>Next, we would need to enable Teams Channel for this Bot. Please follow
 the below steps</p><p>Go to the newly created Web App Bot Resource.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_4-1630435722736_hu0ce900e2e64ab33561004bfb61da12dd_56970_601x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_4-1630435722736.png>
 <p>Select Channels from the left blade and then Teams(in the right blade).
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_5-1630435722747_hu1353b34dcf0e21cb783e81981b3728a7_77284_595x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_5-1630435722747.png></p><p>Click on the Calling from the left blade and Enable the Calling
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_5-1630435722747_hu1353b34dcf0e21cb783e81981b3728a7_77284_595x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_5-1630435722747.png></p><p>Select the Calling from the left blade and Enable the Calling
 checkbox.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_6-1630435722897_hua9ac855e4a9568cf59dbdc2477395ea6_80225_691x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_6-1630435722897.png>
 <p>Webhook (for calling) - We will need to enter a webhook URL (an API
 endpoint) which will be called when an event will occur in Teams meeting
@@ -113,8 +113,8 @@ purposes this can also be ngrok url or APP service URL in the below
 format. App service is already provisioned in our previous step where we
 have to take the domain and append /api/calling.</p><p><em><a href=https://gameetingbotdemo.azurewebsites.net/api/calling>https://gameetingbotdemo.azurewebsites.net/api/calling</a></em></p><h2 id=step---create-teams-bot>Step - Create Teams Bot</h2><p>In this step, we will create a bot that will have a webhook on which the
 meeting activities would be posted in JSON and from here we can use the
-JSON object to dump the information to the choice of your database.</p><p>We will be using yo teams to generate our Node JS Based Bot Solution.</p><p>Go to Node JS command prompt and type,</p><pre tabindex=0><code>yo teams
-</code></pre><p>It will ask you series of questions, you can select as per the below
+JSON object to dump the information to the choice of your database.</p><p>We will be using yo teams to generate our Node JS Based Bot Solution.</p><p>Go to Node JS command prompt and type,</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-PowerShell data-lang=PowerShell><span style=display:flex><span>yo teams
+</span></span></code></pre></div><p>It will ask you series of questions, you can select as per the below
 screenshot.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_7-1630435837476_huef6412995b83e26cd5c42a2b07701abb_172426_619x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_7-1630435837476.png>
 <h2 id=how-to-get-microsoft-app-id>How to get Microsoft App ID</h2><p>We can get this app ID from portal.azure.com. Go to Web App Bot
 Resource(which we created in the previous step).</p><p>Select configuration, and in the right blade you will find
@@ -122,72 +122,72 @@ MicrosoftAppId in Application settings.</p><img loading=lazy decoding=async clas
 <p>Please make sure you select yes to the question &ldquo;Do you want to include
 bot calling support?&rdquo;</p><h2 id=step---modify-code-to-log-request-object-in-the-console>Step - Modify Code to log request object in the console</h2><p>For the sake of simplicity, we will just log the request body object
 which webhook receives when any event happens in Teams meeting. We can
-expand this to store the body object in the Database.</p><p><em><strong>Go to</strong> \meetingbot\src\app\meetingBot.ts</em></p><p>Modify /api/calling endpoint code to below,</p><pre tabindex=0><code>/**
- * Webhook for incoming calls
- */
-@BotCallingWebhook(&#34;/api/calling&#34;)
-public async onIncomingCall(req: express.Request, res: express.Response) {
-    console.log(&#34;Incoming call&#34;);
-    console.log(JSON.stringify(req.body));
-    // TODO: Implement authorization header validation
-    // TODO: Add your management of calls (answer, reject etc.)
-    // default, send an access denied
-    // res.sendStatus(200);
-}
-</code></pre><h2 id=step---modify-api-permission-in-azure-ad-app-registration>Step - Modify API Permission in Azure AD APP Registration</h2><p>As we have created an Azure web app Bot, we can see that a default Azure
+expand this to store the body object in the Database.</p><p><em><strong>Go to</strong> \meetingbot\src\app\meetingBot.ts</em></p><p>Modify /api/calling endpoint code to below,</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JavaScript data-lang=JavaScript><span style=display:flex><span><span style=color:#75715e>/**
+</span></span></span><span style=display:flex><span><span style=color:#75715e> * Webhook for incoming calls
+</span></span></span><span style=display:flex><span><span style=color:#75715e> */</span>
+</span></span><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>@</span><span style=color:#a6e22e>BotCallingWebhook</span>(<span style=color:#e6db74>&#34;/api/calling&#34;</span>)
+</span></span><span style=display:flex><span><span style=color:#66d9ef>public</span> <span style=color:#66d9ef>async</span> <span style=color:#a6e22e>onIncomingCall</span>(<span style=color:#a6e22e>req</span><span style=color:#f92672>:</span> <span style=color:#a6e22e>express</span>.<span style=color:#a6e22e>Request</span>, <span style=color:#a6e22e>res</span><span style=color:#f92672>:</span> <span style=color:#a6e22e>express</span>.<span style=color:#a6e22e>Response</span>) {
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>console</span>.<span style=color:#a6e22e>log</span>(<span style=color:#e6db74>&#34;Incoming call&#34;</span>);
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>console</span>.<span style=color:#a6e22e>log</span>(<span style=color:#a6e22e>JSON</span>.<span style=color:#a6e22e>stringify</span>(<span style=color:#a6e22e>req</span>.<span style=color:#a6e22e>body</span>));
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// TODO: Implement authorization header validation
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>    <span style=color:#75715e>// TODO: Add your management of calls (answer, reject etc.)
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>    <span style=color:#75715e>// default, send an access denied
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>    <span style=color:#75715e>// res.sendStatus(200);
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>}
+</span></span></code></pre></div><h2 id=step---modify-api-permission-in-azure-ad-app-registration>Step - Modify API Permission in Azure AD APP Registration</h2><p>As we have created an Azure web app Bot, we can see that a default Azure
 AD App Registration would have been created.</p><p>Go to portal.azure.com -> Active Directory -> Select APP Registration
 from left blade.</p><p>We can see an App with our Bot name here.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_9-1630435867496_hu7e70bea46cccadd4f4e7326b7902f92b_119634_581x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_9-1630435867496.png>
-<p>Click on this App, from the Left blade click on API Permission, and
+<p>Select this App, from the Left blade select API Permission, and
 provide the below Application permissions.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_10-1630435867800_hu630ebf79e3718a5473504e67e7440ada_94093_638x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_10-1630435867800.png>
 <p>We would be calling below GRAPH API document at
-<a href="https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http">https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http</a>
+<a href="https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http">https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http</a>
 which states the above permissions.</p><h2 id=step---create-client-secret>Step - Create Client Secret</h2><p>We will need to create a client secret to calls the above graph API.
-From the left blade, click on Certificate and secrets, click on new
-click secret and note down this secret somewhere safely. We will use
+From the left blade, select Certificate and secrets, select new
+select secret and note down this secret somewhere safely. We will use
 this later.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_11-1630435867960_hubb9025bbd6f667db6463dae3206e6219_83871_641x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_11-1630435867960.png>
 <p>Also, note client Id and Tenant Id from the Overview tab.</p><h2 id=step---create-powerautomate-to-call-the-graph-api-to-add-bot-to-teams-meeting>Step - Create PowerAutomate to call the Graph API to add Bot to Teams Meeting</h2><p>Now that we have all the pieces created, we will call GRAPH API from
 Power Automate to Add Bot to the Teams meeting.</p><p>End Point to be called -
-<a href=https://graph.microsoft.com/v1.0/communications/calls>https://graph.microsoft.com/v1.0/communications/calls</a></p><p>Method type - Post</p><p><strong>Sample Request Body</strong></p><pre tabindex=0><code>{
-  &#34;@odata.type&#34;: &#34;#microsoft.graph.call&#34;,
-  &#34;callbackUri&#34;: &#34;&lt;span style=&#34;color: #0000ff;&#34;&gt;https://bot.contoso.com/callback&lt;/span&gt;&#34;,
-  &#34;requestedModalities&#34;: [
-    &#34;audio&#34;
-  ],
-  &#34;mediaConfig&#34;: {
-    &#34;@odata.type&#34;: &#34;#microsoft.graph.serviceHostedMediaConfig&#34;,
-    &#34;preFetchMedia&#34;: [
-     {
-       &#34;uri&#34;: &#34;https://cdn.contoso.com/beep.wav&#34;,
-       &#34;resourceId&#34;: &#34;f8971b04-b53e-418c-9222-c82ce681a582&#34;
-     },
-     {
-       &#34;uri&#34;: &#34;https://cdn.contoso.com/cool.wav&#34;,
-       &#34;resourceId&#34;: &#34;86dc814b-c172-4428-9112-60f8ecae1edb&#34;
-     }
-    ],
-  },
-  &#34;chatInfo&#34;: {
-    &#34;@odata.type&#34;: &#34;#microsoft.graph.chatInfo&#34;,
-    &#34;threadId&#34;: &#34;&lt;span style=&#34;color: #0000ff;&#34;&gt;19:meeting_Win6Ydo4wsMijFjZS00ZGVjLTk5MGUtOTRjNWY2NmNkYTFm@thread.v2&lt;/span&gt;&#34;,
-    &#34;messageId&#34;: &#34;0&#34;
-  },
-  &#34;meetingInfo&#34;: {
-    &#34;@odata.type&#34;: &#34;#microsoft.graph.organizerMeetingInfo&#34;,
-    &#34;organizer&#34;: {
-      &#34;@odata.type&#34;: &#34;#microsoft.graph.identitySet&#34;,
-      &#34;user&#34;: {
-        &#34;@odata.type&#34;: &#34;#microsoft.graph.identity&#34;,
-        &#34;id&#34;: &#34;&lt;span style=&#34;color: #0000ff;&#34;&gt;5810cede-f3cc-42eb-b2c1-e9bd5d53ec96&lt;/span&gt;&#34;,
-        &#34;displayName&#34;: &#34;Bob&#34;,
-        &#34;tenantId&#34;:&#34;&lt;span style=&#34;color: #0000ff;&#34;&gt;86dc81db-c112-4228-9222-63f3esaa1edb&lt;/span&gt;&#34;
-      }
-    },
-    &#34;allowConversationWithoutHost&#34;: true
-  },
-  &#34;tenantId&#34;:&#34;&lt;span style=&#34;color: #0000ff;&#34;&gt;86dc81db-c112-4228-9222-63f3esaa1edb&lt;/span&gt;&#34;
-}
-</code></pre><p> </p><p>Reference URL -
-<a href="https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media">https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam...</a></p><p>Here I have highlighted the values which we have to replace according to
+<a href=https://graph.microsoft.com/v1.0/communications/calls>https://graph.microsoft.com/v1.0/communications/calls</a></p><p>Method type - Post</p><p><strong>Sample Request Body</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>{
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.call&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;callbackUri&#34;</span>: <span style=color:#e6db74>&#34;&lt;span style=&#34;</span><span style=color:#960050;background-color:#1e0010>color</span>: <span style=color:#960050;background-color:#1e0010>#</span><span style=color:#ae81ff>0000</span><span style=color:#960050;background-color:#1e0010>ff;</span><span style=color:#e6db74>&#34;&gt;https://bot.contoso.com/callback&lt;/span&gt;&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;requestedModalities&#34;</span>: [
+</span></span><span style=display:flex><span>    <span style=color:#e6db74>&#34;audio&#34;</span>
+</span></span><span style=display:flex><span>  ],
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;mediaConfig&#34;</span>: {
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.serviceHostedMediaConfig&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;preFetchMedia&#34;</span>: [
+</span></span><span style=display:flex><span>     {
+</span></span><span style=display:flex><span>       <span style=color:#f92672>&#34;uri&#34;</span>: <span style=color:#e6db74>&#34;https://cdn.contoso.com/beep.wav&#34;</span>,
+</span></span><span style=display:flex><span>       <span style=color:#f92672>&#34;resourceId&#34;</span>: <span style=color:#e6db74>&#34;f8971b04-b53e-418c-9222-c82ce681a582&#34;</span>
+</span></span><span style=display:flex><span>     },
+</span></span><span style=display:flex><span>     {
+</span></span><span style=display:flex><span>       <span style=color:#f92672>&#34;uri&#34;</span>: <span style=color:#e6db74>&#34;https://cdn.contoso.com/cool.wav&#34;</span>,
+</span></span><span style=display:flex><span>       <span style=color:#f92672>&#34;resourceId&#34;</span>: <span style=color:#e6db74>&#34;86dc814b-c172-4428-9112-60f8ecae1edb&#34;</span>
+</span></span><span style=display:flex><span>     }
+</span></span><span style=display:flex><span>    ],
+</span></span><span style=display:flex><span>  },
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;chatInfo&#34;</span>: {
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.chatInfo&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;threadId&#34;</span>: <span style=color:#e6db74>&#34;&lt;span style=&#34;</span><span style=color:#960050;background-color:#1e0010>color</span>: <span style=color:#960050;background-color:#1e0010>#</span><span style=color:#ae81ff>0000</span><span style=color:#960050;background-color:#1e0010>ff;</span><span style=color:#e6db74>&#34;&gt;19:meeting_Win6Ydo4wsMijFjZS00ZGVjLTk5MGUtOTRjNWY2NmNkYTFm@thread.v2&lt;/span&gt;&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;messageId&#34;</span>: <span style=color:#e6db74>&#34;0&#34;</span>
+</span></span><span style=display:flex><span>  },
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;meetingInfo&#34;</span>: {
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.organizerMeetingInfo&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;organizer&#34;</span>: {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.identitySet&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;user&#34;</span>: {
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.identity&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;&lt;span style=&#34;</span><span style=color:#960050;background-color:#1e0010>color</span>: <span style=color:#960050;background-color:#1e0010>#</span><span style=color:#ae81ff>0000</span><span style=color:#960050;background-color:#1e0010>ff;</span><span style=color:#e6db74>&#34;&gt;5810cede-f3cc-42eb-b2c1-e9bd5d53ec96&lt;/span&gt;&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;displayName&#34;</span>: <span style=color:#e6db74>&#34;Bob&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;tenantId&#34;</span>:<span style=color:#e6db74>&#34;&lt;span style=&#34;</span><span style=color:#960050;background-color:#1e0010>color</span>: <span style=color:#960050;background-color:#1e0010>#</span><span style=color:#ae81ff>0000</span><span style=color:#960050;background-color:#1e0010>ff;</span><span style=color:#e6db74>&#34;&gt;86dc81db-c112-4228-9222-63f3esaa1edb&lt;/span&gt;&#34;</span>
+</span></span><span style=display:flex><span>      }
+</span></span><span style=display:flex><span>    },
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;allowConversationWithoutHost&#34;</span>: <span style=color:#66d9ef>true</span>
+</span></span><span style=display:flex><span>  },
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;tenantId&#34;</span>:<span style=color:#e6db74>&#34;&lt;span style=&#34;</span><span style=color:#960050;background-color:#1e0010>color</span>: <span style=color:#960050;background-color:#1e0010>#</span><span style=color:#ae81ff>0000</span><span style=color:#960050;background-color:#1e0010>ff;</span><span style=color:#e6db74>&#34;&gt;86dc81db-c112-4228-9222-63f3esaa1edb&lt;/span&gt;&#34;</span>
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><p> </p><p>Reference URL -
+<a href="https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media">https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam...</a></p><p>Here I have highlighted the values which we have to replace according to
 our setup and team meeting. Below is how you will get this information.</p><p><strong>callbackUri</strong> - This has to be the endpoint of your bot API from the
 portal.azure. If you have noticed in the previous step we have modified
 the code of endpoint &lsquo;<em>/api/calling&rsquo;</em></p><p>For demo purposes, we will use ngrok URL after running our code and once
@@ -205,11 +205,11 @@ have to pass. Initialize it with the default value from the above URL.
 Refer to the screenshot below.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_12-1630435910359_hu7efe662ea1f1d57047724882e61a2fce_93685_639x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_12-1630435910359.png>
 <p>Add action HTTP and configure as below.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_13-1630435910363_hu92226a5ddf2b524654750062b91f1f1f_50029_627x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_13-1630435910363.png>
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_14-1630435910364_hu441a7165121770e3ba0fcdfb84717103_35753_659x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_14-1630435910364.png>
-<p>Click on the Advanced option and select Active Directory OAuth. Here you
+<p>Select the Advanced option and select Active Directory OAuth. Here you
 have to add the client Id and client secret which we noted in the above
 steps from the Azure Ad App Registration screen.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_15-1630435910363_hu5af76b9498903c64007071c34a15253b_53020_678x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_15-1630435910363.png>
-<h2 id=step---using-ngrok-to-start-the-api-end-point>Step - Using ngRok to Start the API End Point</h2><p>Go to command prompt and project path and run</p><pre tabindex=0><code>gulp ngrok-serve
-</code></pre><p>Once it runs successfully, it will create a temporary ngrok domain URL
+<h2 id=step---using-ngrok-to-start-the-api-end-point>Step - Using ngRok to Start the API End Point</h2><p>Go to command prompt and project path and run</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-PowerShell data-lang=PowerShell><span style=display:flex><span>gulp ngrok-serve
+</span></span></code></pre></div><p>Once it runs successfully, it will create a temporary ngrok domain URL
 which we have to use in the Power Automate variable
 &ldquo;CallingAPIEndPointURL&rdquo;.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_16-1630435933837_hu1fd9e318b18cbcb5d4284f5e4f3fccf9_37850_660x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_16-1630435933837.png>
 <h2 id=step---add-ngrok-url-in-azure-web-app-bot-calling-webhook-url>Step - Add ngrok URL in Azure Web App Bot Calling Webhook URL</h2><p>As mentioned earlier we will also have to add this temporary URL(while
@@ -220,7 +220,7 @@ let us run PowerAutomate to add Bot to this Team meeting. Once you
 trigger the flow and if its runs successfully, we will notice some
 logging happening in our node js command prompt.</p><p>It takes on around 2 mins before we will receive the request body object
 in the webhook. We will receive the same response for every event, this
-is documented in the URL</p><p><em><a href="https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media">https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam...</a></em></p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_18-1630435934427_hu434b0e650d24f5395979243e7dd15320_139746_750x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_18-1630435934427.png>
+is documented in the URL</p><p><em><a href="https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media">https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam...</a></em></p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_18-1630435934427_hu434b0e650d24f5395979243e7dd15320_139746_750x0_resize_q100_h2_box_3.webp alt=SiddharthVaghasia_18-1630435934427.png>
 <p>Below are some notes based on my experience.</p><ul>
 <li>The first response we will receive with the state &ldquo;establishing&rdquo;</li><li>the second response we will receive with state &ldquo;established&rdquo;,
 which means the bot is added to Meeting.</li><li>Now on every event which will occur in teams meeting like for e.g.,
@@ -230,167 +230,167 @@ participants and its information, we will always get the current
 list of participants, the response does not say who joined, who
 left.</li><li>Basically, it gives us a current snapshot of the meeting when the
 webhook is has received a response.</li></ul><p>Below is a sample of JSON which we receive when someone joins.
- </p><pre tabindex=0><code>{
-  &#34;@odata.type&#34;: &#34;#microsoft.graph.commsNotifications&#34;,
-  &#34;value&#34;: [
-    {
-      &#34;@odata.type&#34;: &#34;#microsoft.graph.commsNotification&#34;,
-      &#34;changeType&#34;: &#34;updated&#34;,
-      &#34;resource&#34;: &#34;/app/calls/&lt;span style=&#34;color: #0000ff;&#34;&gt;ed1f5500-9a1f-4c02-953e-13cc0dc32d2c&lt;/span&gt;/participants&#34;,
-      &#34;resourceUrl&#34;: &#34;/communications/calls/ed1f5500-9a1f-4c02-953e-13cc0dc32d2c/participants&#34;,
-      &#34;resourceData&#34;: [
-        {
-          &#34;@odata.type&#34;: &#34;#microsoft.graph.participant&#34;,
-          &#34;info&#34;: {
-            &#34;@odata.type&#34;: &#34;#microsoft.graph.participantInfo&#34;,
-            &#34;identity&#34;: {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.identitySet&#34;,
-              &#34;user&#34;: {
-                &#34;@odata.type&#34;: &#34;#microsoft.graph.identity&#34;,
-                &#34;id&#34;: &#34;12e52958-60b9-425a-8e53-628013cb378a&#34;,
-                &#34;displayName&#34;: &#34;Parth Patel&#34;,
-                &#34;tenantId&#34;: &#34;5bac9eb0-1e6b-463d-8dbb-6ba2477914b9&#34;,
-                &#34;identityProvider&#34;: &#34;AAD&#34;
-              }
-            },
-            &#34;endpointType&#34;: &#34;default&#34;,
-            &#34;languageId&#34;: &#34;en-us&#34;,
-            &#34;platformId&#34;: &#34;27&#34;,
-            &#34;clientVersion&#34;: &#34;CallSignalingAgent (27/1.4.00.2879//;release_renarsl/backportsR38NR.2020.38.01.34;releases/CL2020.R38)&#34;
-          },
-          &#34;mediaStreams&#34;: [
-            {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.mediaStream&#34;,
-              &#34;mediaType&#34;: &#34;audio&#34;,
-              &#34;label&#34;: &#34;main-audio&#34;,
-              &#34;sourceId&#34;: &#34;12&#34;,
-              &#34;direction&#34;: &#34;sendReceive&#34;,
-              &#34;serverMuted&#34;: false
-            },
-            {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.mediaStream&#34;,
-              &#34;mediaType&#34;: &#34;video&#34;,
-              &#34;label&#34;: &#34;main-video&#34;,
-              &#34;sourceId&#34;: &#34;13&#34;,
-              &#34;direction&#34;: &#34;receiveOnly&#34;,
-              &#34;serverMuted&#34;: false
-            },
-            {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.mediaStream&#34;,
-              &#34;mediaType&#34;: &#34;videoBasedScreenSharing&#34;,
-              &#34;label&#34;: &#34;applicationsharing-video&#34;,
-              &#34;sourceId&#34;: &#34;23&#34;,
-              &#34;direction&#34;: &#34;receiveOnly&#34;,
-              &#34;serverMuted&#34;: false
-            },
-            {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.mediaStream&#34;,
-              &#34;mediaType&#34;: &#34;data&#34;,
-              &#34;label&#34;: &#34;data&#34;,
-              &#34;sourceId&#34;: &#34;24&#34;,
-              &#34;direction&#34;: &#34;sendReceive&#34;,
-              &#34;serverMuted&#34;: false
-            }
-          ],
-          &#34;isMuted&#34;: false,
-          &#34;isInLobby&#34;: false,
-          &#34;publishedStates&#34;: [
-
-          ],
-          &#34;meetingRole&#34;: &#34;presenter&#34;,
-          &#34;id&#34;: &#34;416cc5c8-4f8c-453e-a688-10ec10aa8e17&#34;
-        },
-        {
-          &#34;@odata.type&#34;: &#34;#microsoft.graph.participant&#34;,
-          &#34;info&#34;: {
-            &#34;@odata.type&#34;: &#34;#microsoft.graph.participantInfo&#34;,
-            &#34;identity&#34;: {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.identitySet&#34;,
-              &#34;application&#34;: {
-                &#34;@odata.type&#34;: &#34;#microsoft.graph.identity&#34;,
-                &#34;id&#34;: &#34;9aee55fc-4a43-42af-b3ca-9ec54a087e94&#34;,
-                &#34;tenantId&#34;: &#34;5bac9eb0-1e6b-463d-8dbb-6ba2477914b9&#34;,
-                &#34;identityProvider&#34;: &#34;AAD&#34;
-              }
-            },
-            &#34;endpointType&#34;: &#34;default&#34;,
-            &#34;clientVersion&#34;: &#34;GAMeetingBotDemo (appid:9aee55fc-4a43-42af-b3ca-9ec54a087e94)&#34;
-          },
-          &#34;mediaStreams&#34;: [
-            {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.mediaStream&#34;,
-              &#34;mediaType&#34;: &#34;audio&#34;,
-              &#34;label&#34;: &#34;main-audio&#34;,
-              &#34;sourceId&#34;: &#34;1&#34;,
-              &#34;direction&#34;: &#34;sendReceive&#34;,
-              &#34;serverMuted&#34;: false
-            }
-          ],
-          &#34;isMuted&#34;: false,
-          &#34;isInLobby&#34;: false,
-          &#34;publishedStates&#34;: [
-
-          ],
-          &#34;meetingRole&#34;: &#34;presenter&#34;,
-          &#34;id&#34;: &#34;35733c0a-7979-478e-8f12-4a42501f17ec&#34;
-        },
-        {
-          &#34;@odata.type&#34;: &#34;#microsoft.graph.participant&#34;,
-          &#34;info&#34;: {
-            &#34;@odata.type&#34;: &#34;#microsoft.graph.participantInfo&#34;,
-            &#34;identity&#34;: {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.identitySet&#34;,
-              &#34;user&#34;: {
-                &#34;@odata.type&#34;: &#34;#microsoft.graph.identity&#34;,
-                &#34;id&#34;: &#34;cd15fc37-4694-4f34-811f-965ca5cc586a&#34;,
-                &#34;displayName&#34;: &#34;Siddharth Vaghasia&#34;,
-                &#34;tenantId&#34;: &#34;5bac9eb0-1e6b-463d-8dbb-6ba2477914b9&#34;,
-                &#34;identityProvider&#34;: &#34;AAD&#34;
-              }
-            },
-            &#34;endpointType&#34;: &#34;default&#34;,
-            &#34;languageId&#34;: &#34;en-US&#34;,
-            &#34;clientVersion&#34;: &#34;SkypeSpaces/1415/1.0.0.2021012547/os=windows; osVer=10; deviceType=computer; browser=chrome; browserVer=87.0/TsCallingVersion=2020.48.01.8/Ovb=69fa6bdf9f79d2b0267e5549b4b79c54ef9fb06b&#34;
-          },
-          &#34;mediaStreams&#34;: [
-            {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.mediaStream&#34;,
-              &#34;mediaType&#34;: &#34;audio&#34;,
-              &#34;label&#34;: &#34;main-audio&#34;,
-              &#34;sourceId&#34;: &#34;3&#34;,
-              &#34;direction&#34;: &#34;sendReceive&#34;,
-              &#34;serverMuted&#34;: false
-            },
-            {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.mediaStream&#34;,
-              &#34;mediaType&#34;: &#34;video&#34;,
-              &#34;label&#34;: &#34;main-video&#34;,
-              &#34;sourceId&#34;: &#34;4&#34;,
-              &#34;direction&#34;: &#34;receiveOnly&#34;,
-              &#34;serverMuted&#34;: false
-            },
-            {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.mediaStream&#34;,
-              &#34;mediaType&#34;: &#34;videoBasedScreenSharing&#34;,
-              &#34;label&#34;: &#34;applicationsharing-video&#34;,
-              &#34;sourceId&#34;: &#34;10&#34;,
-              &#34;direction&#34;: &#34;receiveOnly&#34;,
-              &#34;serverMuted&#34;: false
-            }
-          ],
-          &#34;isMuted&#34;: true,
-          &#34;isInLobby&#34;: false,
-          &#34;publishedStates&#34;: [
-
-          ],
-          &#34;meetingRole&#34;: &#34;organizer&#34;,
-          &#34;id&#34;: &#34;7a863667-4e82-48e4-bbec-fb3a5feba132&#34;
-        }
-      ]
-    }
-  ]
-}
-</code></pre><p>If you notice in the above JSON object, it is giving us 3 users
+ </p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>{
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.commsNotifications&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;value&#34;</span>: [
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.commsNotification&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;changeType&#34;</span>: <span style=color:#e6db74>&#34;updated&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;resource&#34;</span>: <span style=color:#e6db74>&#34;/app/calls/&lt;span style=&#34;</span><span style=color:#960050;background-color:#1e0010>color</span>: <span style=color:#960050;background-color:#1e0010>#</span><span style=color:#ae81ff>0000</span><span style=color:#960050;background-color:#1e0010>ff;</span><span style=color:#e6db74>&#34;&gt;ed1f5500-9a1f-4c02-953e-13cc0dc32d2c&lt;/span&gt;/participants&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;resourceUrl&#34;</span>: <span style=color:#e6db74>&#34;/communications/calls/ed1f5500-9a1f-4c02-953e-13cc0dc32d2c/participants&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;resourceData&#34;</span>: [
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.participant&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;info&#34;</span>: {
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.participantInfo&#34;</span>,
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;identity&#34;</span>: {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.identitySet&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;user&#34;</span>: {
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.identity&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;12e52958-60b9-425a-8e53-628013cb378a&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;displayName&#34;</span>: <span style=color:#e6db74>&#34;Parth Patel&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;tenantId&#34;</span>: <span style=color:#e6db74>&#34;5bac9eb0-1e6b-463d-8dbb-6ba2477914b9&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;identityProvider&#34;</span>: <span style=color:#e6db74>&#34;AAD&#34;</span>
+</span></span><span style=display:flex><span>              }
+</span></span><span style=display:flex><span>            },
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;endpointType&#34;</span>: <span style=color:#e6db74>&#34;default&#34;</span>,
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;languageId&#34;</span>: <span style=color:#e6db74>&#34;en-us&#34;</span>,
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;platformId&#34;</span>: <span style=color:#e6db74>&#34;27&#34;</span>,
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;clientVersion&#34;</span>: <span style=color:#e6db74>&#34;CallSignalingAgent (27/1.4.00.2879//;release_renarsl/backportsR38NR.2020.38.01.34;releases/CL2020.R38)&#34;</span>
+</span></span><span style=display:flex><span>          },
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;mediaStreams&#34;</span>: [
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.mediaStream&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;mediaType&#34;</span>: <span style=color:#e6db74>&#34;audio&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;label&#34;</span>: <span style=color:#e6db74>&#34;main-audio&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;sourceId&#34;</span>: <span style=color:#e6db74>&#34;12&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;direction&#34;</span>: <span style=color:#e6db74>&#34;sendReceive&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;serverMuted&#34;</span>: <span style=color:#66d9ef>false</span>
+</span></span><span style=display:flex><span>            },
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.mediaStream&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;mediaType&#34;</span>: <span style=color:#e6db74>&#34;video&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;label&#34;</span>: <span style=color:#e6db74>&#34;main-video&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;sourceId&#34;</span>: <span style=color:#e6db74>&#34;13&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;direction&#34;</span>: <span style=color:#e6db74>&#34;receiveOnly&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;serverMuted&#34;</span>: <span style=color:#66d9ef>false</span>
+</span></span><span style=display:flex><span>            },
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.mediaStream&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;mediaType&#34;</span>: <span style=color:#e6db74>&#34;videoBasedScreenSharing&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;label&#34;</span>: <span style=color:#e6db74>&#34;applicationsharing-video&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;sourceId&#34;</span>: <span style=color:#e6db74>&#34;23&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;direction&#34;</span>: <span style=color:#e6db74>&#34;receiveOnly&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;serverMuted&#34;</span>: <span style=color:#66d9ef>false</span>
+</span></span><span style=display:flex><span>            },
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.mediaStream&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;mediaType&#34;</span>: <span style=color:#e6db74>&#34;data&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;label&#34;</span>: <span style=color:#e6db74>&#34;data&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;sourceId&#34;</span>: <span style=color:#e6db74>&#34;24&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;direction&#34;</span>: <span style=color:#e6db74>&#34;sendReceive&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;serverMuted&#34;</span>: <span style=color:#66d9ef>false</span>
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>          ],
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;isMuted&#34;</span>: <span style=color:#66d9ef>false</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;isInLobby&#34;</span>: <span style=color:#66d9ef>false</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;publishedStates&#34;</span>: [
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>          ],
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;meetingRole&#34;</span>: <span style=color:#e6db74>&#34;presenter&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;416cc5c8-4f8c-453e-a688-10ec10aa8e17&#34;</span>
+</span></span><span style=display:flex><span>        },
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.participant&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;info&#34;</span>: {
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.participantInfo&#34;</span>,
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;identity&#34;</span>: {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.identitySet&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;application&#34;</span>: {
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.identity&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;9aee55fc-4a43-42af-b3ca-9ec54a087e94&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;tenantId&#34;</span>: <span style=color:#e6db74>&#34;5bac9eb0-1e6b-463d-8dbb-6ba2477914b9&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;identityProvider&#34;</span>: <span style=color:#e6db74>&#34;AAD&#34;</span>
+</span></span><span style=display:flex><span>              }
+</span></span><span style=display:flex><span>            },
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;endpointType&#34;</span>: <span style=color:#e6db74>&#34;default&#34;</span>,
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;clientVersion&#34;</span>: <span style=color:#e6db74>&#34;GAMeetingBotDemo (appid:9aee55fc-4a43-42af-b3ca-9ec54a087e94)&#34;</span>
+</span></span><span style=display:flex><span>          },
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;mediaStreams&#34;</span>: [
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.mediaStream&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;mediaType&#34;</span>: <span style=color:#e6db74>&#34;audio&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;label&#34;</span>: <span style=color:#e6db74>&#34;main-audio&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;sourceId&#34;</span>: <span style=color:#e6db74>&#34;1&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;direction&#34;</span>: <span style=color:#e6db74>&#34;sendReceive&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;serverMuted&#34;</span>: <span style=color:#66d9ef>false</span>
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>          ],
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;isMuted&#34;</span>: <span style=color:#66d9ef>false</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;isInLobby&#34;</span>: <span style=color:#66d9ef>false</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;publishedStates&#34;</span>: [
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>          ],
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;meetingRole&#34;</span>: <span style=color:#e6db74>&#34;presenter&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;35733c0a-7979-478e-8f12-4a42501f17ec&#34;</span>
+</span></span><span style=display:flex><span>        },
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.participant&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;info&#34;</span>: {
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.participantInfo&#34;</span>,
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;identity&#34;</span>: {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.identitySet&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;user&#34;</span>: {
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.identity&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;cd15fc37-4694-4f34-811f-965ca5cc586a&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;displayName&#34;</span>: <span style=color:#e6db74>&#34;Siddharth Vaghasia&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;tenantId&#34;</span>: <span style=color:#e6db74>&#34;5bac9eb0-1e6b-463d-8dbb-6ba2477914b9&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;identityProvider&#34;</span>: <span style=color:#e6db74>&#34;AAD&#34;</span>
+</span></span><span style=display:flex><span>              }
+</span></span><span style=display:flex><span>            },
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;endpointType&#34;</span>: <span style=color:#e6db74>&#34;default&#34;</span>,
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;languageId&#34;</span>: <span style=color:#e6db74>&#34;en-US&#34;</span>,
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;clientVersion&#34;</span>: <span style=color:#e6db74>&#34;SkypeSpaces/1415/1.0.0.2021012547/os=windows; osVer=10; deviceType=computer; browser=chrome; browserVer=87.0/TsCallingVersion=2020.48.01.8/Ovb=69fa6bdf9f79d2b0267e5549b4b79c54ef9fb06b&#34;</span>
+</span></span><span style=display:flex><span>          },
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;mediaStreams&#34;</span>: [
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.mediaStream&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;mediaType&#34;</span>: <span style=color:#e6db74>&#34;audio&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;label&#34;</span>: <span style=color:#e6db74>&#34;main-audio&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;sourceId&#34;</span>: <span style=color:#e6db74>&#34;3&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;direction&#34;</span>: <span style=color:#e6db74>&#34;sendReceive&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;serverMuted&#34;</span>: <span style=color:#66d9ef>false</span>
+</span></span><span style=display:flex><span>            },
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.mediaStream&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;mediaType&#34;</span>: <span style=color:#e6db74>&#34;video&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;label&#34;</span>: <span style=color:#e6db74>&#34;main-video&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;sourceId&#34;</span>: <span style=color:#e6db74>&#34;4&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;direction&#34;</span>: <span style=color:#e6db74>&#34;receiveOnly&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;serverMuted&#34;</span>: <span style=color:#66d9ef>false</span>
+</span></span><span style=display:flex><span>            },
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.mediaStream&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;mediaType&#34;</span>: <span style=color:#e6db74>&#34;videoBasedScreenSharing&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;label&#34;</span>: <span style=color:#e6db74>&#34;applicationsharing-video&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;sourceId&#34;</span>: <span style=color:#e6db74>&#34;10&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;direction&#34;</span>: <span style=color:#e6db74>&#34;receiveOnly&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;serverMuted&#34;</span>: <span style=color:#66d9ef>false</span>
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>          ],
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;isMuted&#34;</span>: <span style=color:#66d9ef>true</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;isInLobby&#34;</span>: <span style=color:#66d9ef>false</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;publishedStates&#34;</span>: [
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>          ],
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;meetingRole&#34;</span>: <span style=color:#e6db74>&#34;organizer&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;7a863667-4e82-48e4-bbec-fb3a5feba132&#34;</span>
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>      ]
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>  ]
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><p>If you notice in the above JSON object, it is giving us 3 users
 including the bot itself and its attributes like the user is presenter,
 muted, is in the lobby, etc, userid and display name. Also, the guide
 marked in blue is basically a unique call-id for a particular session.
@@ -404,7 +404,7 @@ it in structure as participant information.</p><p>Hope this helps...Happy coding
 </div><aside class=col-lg-4>
 <div class="widget widget-categories">
 <h4 class=widget-title><span>Categories</span></h4><ul class="list-unstyled widget-list">
-<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(32)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
+<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(33)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
 <h4 class=widget-title>Recent</h4><article class=widget-card>
 <div class=d-flex>
 <img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan_hucc1ac96e36de230086610d28c2b93163_185162_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>

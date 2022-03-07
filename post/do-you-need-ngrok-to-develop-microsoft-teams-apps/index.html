@@ -91,11 +91,11 @@ Microsoft 365 Community Blog
 applications for Microsoft Teams, you may have seen a tool
 called <a href=https://www.ngrok.com/>ngrok</a> as a prerequisite in various
 tutorials and lab exercises. It&rsquo;s also integrated with a number of
-tools such as the <a href="https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview?WT.mc_id=m365-27674-rogerman">Microsoft Teams
+tools such as the <a href="https://docs.microsoft.com/microsoftteams/platform/toolkit/visual-studio-code-overview?WT.mc_id=m365-27674-rogerman">Microsoft Teams
 Toolkit</a> and
-the <a href="https://docs.microsoft.com/en-us/microsoftteams/platform/tutorials/get-started-yeoman?WT.mc_id=m365-27674-rogerman">yo
+the <a href="https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-yeoman?WT.mc_id=m365-27674-rogerman">yo
 teams</a> generator;
-even the <a href="https://docs.microsoft.com/en-us/azure/bot-service/bot-service-debug-emulator?WT.mc_id=m365-27674-rogerman">Bot Framework
+even the <a href="https://docs.microsoft.com/azure/bot-service/bot-service-debug-emulator?WT.mc_id=m365-27674-rogerman">Bot Framework
 Emulator</a> has
 an ngrok option.
 This article will explain what ngrok is, why it&rsquo;s useful, and what to
@@ -154,7 +154,7 @@ But what if, in order to test the application, it needs to get requests
 from the Internet? Bots are an example of this; the requests come from
 the Azure Bot service in the cloud, not from a local web browser or
 other client program. Another place this comes up is when implementing
-webhooks such as <a href="https://docs.microsoft.com/en-us/graph/api/resources/webhooks?WT.mc_id=m365-27674-rogerman">Microsoft Graph change
+webhooks such as <a href="https://docs.microsoft.com/graph/api/resources/webhooks?WT.mc_id=m365-27674-rogerman">Microsoft Graph change
 notifications</a>;
 the notifications are HTTP(s) requests that come from the Internet.
 The problem is these incoming requests are normally blocked by the
@@ -172,11 +172,11 @@ detail later in this article.</p><h2 id=using-ngrok>Using ngrok</h2><p>ngrok is 
 and FreeBSD</a>.
 Suppose your local web server is
 at <a href=http://localhost:3978/>http://localhost:3978</a> (the default for
-bots). Then run this ngrok command line:</p><pre tabindex=0><code>ngrok http 3978
-</code></pre><p>You will then see a screen like this:</p><p>
+bots). Then run this ngrok command line:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>ngrok http <span style=color:#ae81ff>3978</span>
+</span></span></code></pre></div><p>You will then see a screen like this:</p><p>
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-screenshot_hu2a5a23a0f879885ce4c980e8f44b1519_64648_750x0_resize_q100_h2_box_3.webp alt=ngrok-screenshot.png>
 The "Forwarding" lines show what&rsquo;s happening. Requests arriving at
-http://(something).ngrok.io or https://(something).ngrok.io will be
+<code>http://(something).ngrok.io</code> or <code>https://(something).ngrok.io</code> will be
 forwarded to <a href=http://localhost:3978/>http://localhost:3978</a> where your
 bot code is running. At this point you would put the
 &ldquo;something.ngrok.io&rdquo; address into your Azure bot configuration, Teams
@@ -191,8 +191,8 @@ persist, so you can just start ngrok and and you&rsquo;re ready to go.</p><block
 make a note of every place you use the ngrok URL. That way you can
 easily remember where to update it when it changes.</p></blockquote><p>The example above assumes that your local server is running http on the
 specified port. If your local server is running https you need a
-different command or it won&rsquo;t connect:</p><pre tabindex=0><code>    ngrok http https://localhost:3978
-</code></pre><h3 id=host-header-rewriting>Host header rewriting</h3><p>The HTTP(s) protocol includes a header called <code>Host</code>, which should
+different command or it won&rsquo;t connect:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>    ngrok http https://localhost:3978
+</span></span></code></pre></div><h3 id=host-header-rewriting>Host header rewriting</h3><p>The HTTP(s) protocol includes a header called <code>Host</code>, which should
 contain the host (domain) name and port of the web server. This is used
 for routing requests to the right server, and for allowing a single web
 server to serve multiple web sites and services.
@@ -204,8 +204,8 @@ host header when the server is expecting <code>localhost:3978</code>. To handle
 this, ngrok provides a command line argument that replaces the host
 headers with the local host name. Simply add the <code>-host-header</code> command
 switch to enable this.
-For example,</p><pre tabindex=0><code>    ngrok http -host-header=localhost:3978 3978
-</code></pre><p>If you see the messages go through to your local web server but it
+For example,</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>    ngrok http -host-header<span style=color:#f92672>=</span>localhost:3978 <span style=color:#ae81ff>3978</span>
+</span></span></code></pre></div><p>If you see the messages go through to your local web server but it
 doesn&rsquo;t respond, it may be expecting a specific host header.
 All the command options are detailed in the <a href=https://ngrok.com/docs>ngrok
 documentation</a>.</p><h3 id=network-tracing>Network tracing</h3><p>You might notice that the ngrok screen shows a trace of requests that
@@ -218,7 +218,11 @@ provides a full network trace of what went through the tunnel, which can
 be very helpful in debugging.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-trace_hu2a395c320ef2dd823bf69c32b7aafe88_111199_750x0_resize_q100_h2_box_3.webp alt=ngrok-trace.png>
 <h2 id=developing-tabs-and-web-page-based-teams-features>Developing Tabs and Web-Page based Teams features</h2><p>Some Teams application features are based on web pages provided by your
 application:</p><ul>
-<li>Tabs and Tab Configuration Pages</li><li>Task Modules (dialog boxes)</li><li>Connector Configuration Pages</li><li></li></ul><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-without-ngrok-sso_hu5a5c78e419ee62711778915c0c835c25_193831_750x0_resize_q100_h2_box_3.webp alt=ngrok-without-ngrok-sso.png>
+<li>Tabs and Tab Configuration Pages</li><li>Task Modules (dialog boxes)</li><li>Connector Configuration Pages</li></ul><p>These features are backed by ordinary web pages that are displayed in an
+IFrame within the Microsoft Teams user interface. Tabs using the Azure
+Active Directory Single Sign-On (SSO) option also need to implement a
+web service to do a token exchange. Accessing these via <code>localhost</code> is
+no problem; no tunnel is required.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-without-ngrok-sso_hu5a5c78e419ee62711778915c0c835c25_193831_750x0_resize_q100_h2_box_3.webp alt=ngrok-without-ngrok-sso.png>
 <p>[However Teams does require the web server to use a trusted https
 connection or it won&rsquo;t display. ngrok translates trusted https requests
 into local http requests, so it just works. But if you&rsquo;d rather not
@@ -239,7 +243,7 @@ just works without any fuss. The local web server, on the other hand,
 will most likely have a self-signed, untrusted certificate. So the trick
 is to get your browser and/or Microsoft Teams to trust it.
 An option that often works is to browse to the local server from a
-regular web browser, click the security error, and tell the browser to
+regular web browser, select the security error, and tell the browser to
 trust the certificate. You can then run Teams in the same browser and
 bypass the issue. If the Teams client shares the same certificate store
 as your browser, it will also work. However these default certificates
@@ -264,7 +268,7 @@ out of it. This picture shows two phones; phone 1 is connected via ngrok
 and phone 2 is connected locally.</p><p>
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/do-you-need-ngrok-to-develop-microsoft-teams-apps/ngrok-mobile-device_hud04a1d6f195e66214e5290b1958be959_139130_750x0_resize_q100_h2_box_3.webp alt=ngrok-mobile-device.png>
 [To set up local access you&rsquo;ll need a server name other
-than][ ]<code>localhost</code>[,
+than]<code>localhost</code>[,
 and you&rsquo;ll need to open a path on the local network from your phone to
 your local web server. Here are the high-level steps; the details vary
 depending on your phone OS, development computer OS, and network
@@ -284,10 +288,10 @@ While this might not seem easy, it is possible! And it&rsquo;s a one-time
 setup that you can use over and over. But you can see that ngrok makes
 it a whole lot easier.</li></ol><h2 id=developing-bots-and-messaging-extensions-with-and-without-ngrok>Developing Bots and Messaging Extensions with and without ngrok</h2><p>Several features of Teams applications are based on a web service within
 your application that is called from the cloud. These are:</p><ul>
-<li>Bots (called by <a href="https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?WT.mc_id=m365-27674-rogerman">Azure Bot
-Service</a>)</li><li>Messaging Extensions (called by <a href="https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?WT.mc_id=m365-27674-rogerman">Azure Bot
-Service</a>)</li><li><a href="https://docs.microsoft.com/en-us/graph/api/resources/webhooks?WT.mc_id=m365-27674-rogerman">Microsoft Graph change
-notifications</a></li><li><a href="https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-outgoing-webhook?WT.mc_id=m365-27674-rogerman">Outgoing
+<li>Bots (called by <a href="https://docs.microsoft.com/azure/bot-service/bot-service-manage-channels?WT.mc_id=m365-27674-rogerman">Azure Bot
+Service</a>)</li><li>Messaging Extensions (called by <a href="https://docs.microsoft.com/azure/bot-service/bot-service-manage-channels?WT.mc_id=m365-27674-rogerman">Azure Bot
+Service</a>)</li><li><a href="https://docs.microsoft.com/graph/api/resources/webhooks?WT.mc_id=m365-27674-rogerman">Microsoft Graph change
+notifications</a></li><li><a href="https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/add-outgoing-webhook?WT.mc_id=m365-27674-rogerman">Outgoing
 webhooks</a>
 All of these are implemented as REST services and could be built with
 any tool chain, but the requests will come from the cloud, so you need
@@ -296,18 +300,18 @@ to have a port listening on the Internet to receive those requests.</li></ul><p>
 [For this reason there&rsquo;s currently no local debugging option in
 Microsoft Teams that doesn&rsquo;t involve opening a port on the Internet or
 using some sort of tunnel, ngrok or otherwise. The same is true
-for<a href="https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-outgoing-webhook?WT.mc_id=m365-27674-rogerman">outgoing
+for<a href="https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/add-outgoing-webhook?WT.mc_id=m365-27674-rogerman">outgoing
 webhooks</a>,
 which are outgoing from Teams to your
 app).]
 If ngrok isn&rsquo;t on your road map, don&rsquo;t worry, there are still options
-available!</p><h3 id=option-1-use-the-bot-framework-emulator>Option 1. Use the Bot Framework Emulator</h3><p>If you&rsquo;re building a bot, consider using the <a href="https://docs.microsoft.com/en-us/azure/bot-service/bot-service-debug-emulator?WT.mc_id=m365-27674-rogerman">Bot Framework
+available!</p><h3 id=option-1-use-the-bot-framework-emulator>Option 1. Use the Bot Framework Emulator</h3><p>If you&rsquo;re building a bot, consider using the <a href="https://docs.microsoft.com/azure/bot-service/bot-service-debug-emulator?WT.mc_id=m365-27674-rogerman">Bot Framework
 Emulator</a>,
 which allows you to run bots locally without using the Azure Bot
 Service. Instead of running your bot in Teams, you run it in the
 emulator. The drawback is that the emulator doesn&rsquo;t currently
 understand some Teams-specific features such as messaging extensions
-or <a href="https://docs.microsoft.com/en-us/microsoftteams/platform/bots/bot-basics?WT.mc_id=m365-27674-rogerman#teams-specific-activity-handlers">other Invoke
+or <a href="https://docs.microsoft.com/microsoftteams/platform/bots/bot-basics?WT.mc_id=m365-27674-rogerman#teams-specific-activity-handlers">other Invoke
 activities</a>.
 However it does a great job running conversational bots! Adaptive cards
 work as well, though Invoke card actions do not.
@@ -318,18 +322,18 @@ set up for handling incoming requests.</p><h3 id=option-2-dont-debug-locally>Opt
 entirely. For example, you could publish your app to Microsoft Azure app
 service and use the remote debugger. Here are the instructions
 for <a href="https://code.visualstudio.com/docs/azure/remote-debugging?WT.mc_id=m365-27674-rogerman">Visual Studio Code
-(NodeJS)</a> and <a href="https://docs.microsoft.com/en-us/visualstudio/azure/vs-azure-tools-debug-cloud-services-virtual-machines?WT.mc_id=m365-27674-rogerman">Visual
+(NodeJS)</a> and <a href="https://docs.microsoft.com/visualstudio/azure/vs-azure-tools-debug-cloud-services-virtual-machines?WT.mc_id=m365-27674-rogerman">Visual
 Studio 2019
 (.NET)</a>.
 You could even set up a development virtual machine (VM) in Azure or
 your cloud service of choice and open an incoming port for the Azure Bot
 Service. Or just run ngrok in the VM, away from the concerns of a
-corporate network.</p><h3 id=how-many-services-do-you-have>How many services do you have?</h3><p>Teams applications generated by the <a href="https://docs.microsoft.com/en-us/microsoftteams/platform/tutorials/get-started-yeoman?WT.mc_id=m365-27674-rogerman">yo
+corporate network.</p><h3 id=how-many-services-do-you-have>How many services do you have?</h3><p>Teams applications generated by the <a href="https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-yeoman?WT.mc_id=m365-27674-rogerman">yo
 teams</a> generator
 have a single web server, so if your app has a combination of features -
 say, tabs and a bot - you can use one ngrok tunnel or one for all your
 application features.
-Teams applications generated by the <a href="https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview?WT.mc_id=m365-27674-rogerman">Microsoft Teams
+Teams applications generated by the <a href="https://docs.microsoft.com/microsoftteams/platform/toolkit/visual-studio-code-overview?WT.mc_id=m365-27674-rogerman">Microsoft Teams
 Toolkit</a> generate
 multiple web servers (one for tabs, another for bots, and a third for
 the SSO web service if you use it). If you want to use ngrok, you&rsquo;ll
@@ -340,10 +344,10 @@ the free service, and then use local connections for the tab and SSO web
 service.
 Of course you don&rsquo;t have to use either of these tools; they&rsquo;re really
 just a convenience! You can use any tools you wish and create the Teams
-application package in <a href="https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/app-studio-overview?WT.mc_id=m365-27674-rogerman">App
+application package in <a href="https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/app-studio-overview?WT.mc_id=m365-27674-rogerman">App
 Studio</a> or
 by editing your
-own <a href="https://docs.microsoft.com/en-us/microsoftteams/platform/resources/schema/manifest-schema?WT.mc_id=m365-27674-rogerman">manifest.json</a> file
+own <a href="https://docs.microsoft.com/microsoftteams/platform/resources/schema/manifest-schema?WT.mc_id=m365-27674-rogerman">manifest.json</a> file
 and zipping it up with a couple icons.</p><h2 id=summary>Summary</h2><p>While ngrok isn&rsquo;t a requirement for Teams development, it does make it
 a lot easier. However if you can&rsquo;t or don&rsquo;t want to open up a tunnel
 from the Internet, there are other strategies. Many of these, such as
@@ -355,13 +359,13 @@ any web development project. Trust your knowledge of web development to
 come up with a configuration that works for you. Just be aware of which
 services will be called from the Internet and plan accordingly.</p><h2 id=references>References</h2><ul>
 <li><a href=https://aka.ms/tabs-without-ngrok-article>Setting up SSL for tabs in the Teams Toolkit for Visual Studio
-Code</a></li><li><a href="https://docs.microsoft.com/en-us/azure/bot-service/bot-service-debug-channel-ngrok?WT.mc_id=m365-27674-rogerman">Debug a bot from any channel using
+Code</a></li><li><a href="https://docs.microsoft.com/azure/bot-service/bot-service-debug-channel-ngrok?WT.mc_id=m365-27674-rogerman">Debug a bot from any channel using
 ngrok</a></li><li><a href="https://blog.botframework.com/2018/08/28/testing-authentication-to-your-bot-using-the-bot-framework-emulator/?WT.mc_id=m365-27674-rogerman">Testing authentication to your bot using the Bot Framework
 Emulator</a></li></ul></div></article><script src=https://utteranc.es/client.js repo=pnp/community-blog issue-term=title theme=github-light crossorigin=anonymous async></script>
 </div><aside class=col-lg-4>
 <div class="widget widget-categories">
 <h4 class=widget-title><span>Categories</span></h4><ul class="list-unstyled widget-list">
-<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(32)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
+<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(33)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
 <h4 class=widget-title>Recent</h4><article class=widget-card>
 <div class=d-flex>
 <img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan_hucc1ac96e36de230086610d28c2b93163_185162_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>

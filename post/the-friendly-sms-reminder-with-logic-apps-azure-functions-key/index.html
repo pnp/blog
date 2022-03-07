@@ -15,9 +15,9 @@
 <meta name=msapplication-TileColor content="#da532c">
 <meta name=theme-color content="#fff">
 <meta name=twitter:title content="The friendly SMS reminder with Logic Apps, Azure Functions + Key Vault">
-<meta name=twitter:description content="Learn how to combine Logic Apps, Azure Functions & Key Vault to send a friendly SMS reminder Yay, this is a new blog post series on how to put the FUN in Azure Function">
+<meta name=twitter:description content="Yay, this is a new blog post series on how to put the FUN in Azure Function">
 <meta property="og:title" content="The friendly SMS reminder with Logic Apps, Azure Functions + Key Vault">
-<meta property="og:description" content="Learn how to combine Logic Apps, Azure Functions & Key Vault to send a friendly SMS reminder Yay, this is a new blog post series on how to put the FUN in Azure Function">
+<meta property="og:description" content="Yay, this is a new blog post series on how to put the FUN in Azure Function">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://pnp.github.io/community-blog/post/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/"><meta property="og:image" content="https://pnp.github.io/community-blog/images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/AzureCreateResource.png"><meta property="article:section" content="post">
 <meta property="article:published_time" content="2021-07-26T03:43:00-04:00">
@@ -25,7 +25,7 @@
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:image content="https://pnp.github.io/community-blog/images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/AzureCreateResource.png">
 <meta name=twitter:title content="The friendly SMS reminder with Logic Apps, Azure Functions + Key Vault">
-<meta name=twitter:description content="Learn how to combine Logic Apps, Azure Functions & Key Vault to send a friendly SMS reminder Yay, this is a new blog post series on how to put the FUN in Azure Function">
+<meta name=twitter:description content="Yay, this is a new blog post series on how to put the FUN in Azure Function">
 <meta http-equiv=x-dns-prefetch-control content="on">
 <link rel=preconnect href=//ajax.googleapis.com>
 <link rel=preconnect href=https://fonts.gstatic.com crossorigin=anonymous>
@@ -87,7 +87,7 @@ Microsoft 365 Community Blog
 <i class="far fa-calendar-alt"></i>26 Jul, 2021
 </li><li class=list-inline-item>
 <ul class="card-meta-tag list-inline">
-<li class=list-inline-item><a href=/community-blog/categories/azure-logic-apps>Azure logic apps</a></li><li class=list-inline-item><a href=/community-blog/categories/azure>Azure</a></li></ul></li></ul><div class=content><h2 id=learn-how-to-combine-logic-apps-azure-functions--key-vault-to-send-a-friendly-sms-reminder>Learn how to combine Logic Apps, Azure Functions & Key Vault to send a friendly SMS reminder</h2><p>Yay, this is a new blog post series on how to put the FUN
+<li class=list-inline-item><a href=/community-blog/categories/azure-logic-apps>Azure logic apps</a></li><li class=list-inline-item><a href=/community-blog/categories/azure>Azure</a></li></ul></li></ul><div class=content><p>Yay, this is a new blog post series on how to put the FUN
 in Azure
 Function</p><p>Recently, I was learning about Azure Functions and came up with a sweet
 use case what I could do to combine Azure Functions and Logic Apps: I
@@ -164,36 +164,36 @@ look a little like this:</p><img loading=lazy decoding=async class="w-100 d-bloc
 <li>(1) Select <strong>Functions</strong></li><li>(2) Select <strong>Add</strong></li><li>(3) Select HTTP trigger</li><li>(4) Type in a name</li><li>(5) Select <strong>Add</strong></li></ul><p><br>
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_42-1627337856099_hu33eb21ae725413b7b41a4db79c72c26f_418045_750x0_resize_q100_h2_box_3.webp alt=LuiseFreese_42-1627337856099.png>
  </p><ul>
-<li>Select <strong>Code + Test</strong></li><li>Delete the sample code in the index.js file</li><li>Paste in the following snippet:</li><li>Don&rsquo;t forget to hit the save button &ndash; I always do ¯\_(ツ)_/¯</li></ul><pre tabindex=0><code>    const accountSid = process.env.TWILIO_SID;
-    const authToken = process.env.TWILIO_TOKEN;
-    const client = require(&#39;twilio&#39;)(accountSid, authToken);
-
-    module.exports = function (context) {
-    client.messages
-    .create({ from: process.env.SENDER_NUMBER,
-    body: `This is your friendly weekly reminder to put away the laundry 🧺 you folded last weekend. 
-    Also, you go girl 😎`,
-    to: process.env.RECIPIENT_NUMBER
-    })
-    .then(message =&gt; { 
-    context.log(&#34;Message sent&#34;);
-    context.res = {
-    body: &#39;YAY it worked - girl check your phone  &#39;
-    }; 
-    context.done();
-    }).catch(err =&gt; {
-    context.log.error(&#34;Twilio Error: &#34; + err.message + &#34; -- &#34; + err.code);
-    context.res = {
-    status: 500,
-    body: `Twilio Error Message: ${err.message}\nTwilio Error code: ${err.code}`
-    };
-    context.done();
-    });
-    }
-</code></pre><p>Please note</p><ul>
+<li>Select <strong>Code + Test</strong></li><li>Delete the sample code in the index.js file</li><li>Paste in the following snippet:</li><li>Don&rsquo;t forget to hit the save button &ndash; I always do ¯\_(ツ)_/¯</li></ul><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JavaScript data-lang=JavaScript><span style=display:flex><span>    <span style=color:#66d9ef>const</span> <span style=color:#a6e22e>accountSid</span> <span style=color:#f92672>=</span> <span style=color:#a6e22e>process</span>.<span style=color:#a6e22e>env</span>.<span style=color:#a6e22e>TWILIO_SID</span>;
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>const</span> <span style=color:#a6e22e>authToken</span> <span style=color:#f92672>=</span> <span style=color:#a6e22e>process</span>.<span style=color:#a6e22e>env</span>.<span style=color:#a6e22e>TWILIO_TOKEN</span>;
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>const</span> <span style=color:#a6e22e>client</span> <span style=color:#f92672>=</span> <span style=color:#a6e22e>require</span>(<span style=color:#e6db74>&#39;twilio&#39;</span>)(<span style=color:#a6e22e>accountSid</span>, <span style=color:#a6e22e>authToken</span>);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>module</span>.<span style=color:#a6e22e>exports</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>function</span> (<span style=color:#a6e22e>context</span>) {
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>client</span>.<span style=color:#a6e22e>messages</span>
+</span></span><span style=display:flex><span>    .<span style=color:#a6e22e>create</span>({ <span style=color:#a6e22e>from</span><span style=color:#f92672>:</span> <span style=color:#a6e22e>process</span>.<span style=color:#a6e22e>env</span>.<span style=color:#a6e22e>SENDER_NUMBER</span>,
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>body</span><span style=color:#f92672>:</span> <span style=color:#e6db74>`This is your friendly weekly reminder to put away the laundry 🧺 you folded last weekend. 
+</span></span></span><span style=display:flex><span><span style=color:#e6db74>    Also, you go girl 😎`</span>,
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>to</span><span style=color:#f92672>:</span> <span style=color:#a6e22e>process</span>.<span style=color:#a6e22e>env</span>.<span style=color:#a6e22e>RECIPIENT_NUMBER</span>
+</span></span><span style=display:flex><span>    })
+</span></span><span style=display:flex><span>    .<span style=color:#a6e22e>then</span>(<span style=color:#a6e22e>message</span> =&gt; { 
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>context</span>.<span style=color:#a6e22e>log</span>(<span style=color:#e6db74>&#34;Message sent&#34;</span>);
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>context</span>.<span style=color:#a6e22e>res</span> <span style=color:#f92672>=</span> {
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>body</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#39;YAY it worked - girl check your phone  &#39;</span>
+</span></span><span style=display:flex><span>    }; 
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>context</span>.<span style=color:#a6e22e>done</span>();
+</span></span><span style=display:flex><span>    }).<span style=color:#66d9ef>catch</span>(<span style=color:#a6e22e>err</span> =&gt; {
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>context</span>.<span style=color:#a6e22e>log</span>.<span style=color:#a6e22e>error</span>(<span style=color:#e6db74>&#34;Twilio Error: &#34;</span> <span style=color:#f92672>+</span> <span style=color:#a6e22e>err</span>.<span style=color:#a6e22e>message</span> <span style=color:#f92672>+</span> <span style=color:#e6db74>&#34; -- &#34;</span> <span style=color:#f92672>+</span> <span style=color:#a6e22e>err</span>.<span style=color:#a6e22e>code</span>);
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>context</span>.<span style=color:#a6e22e>res</span> <span style=color:#f92672>=</span> {
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>status</span><span style=color:#f92672>:</span> <span style=color:#ae81ff>500</span>,
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>body</span><span style=color:#f92672>:</span> <span style=color:#e6db74>`Twilio Error Message: </span><span style=color:#e6db74>${</span><span style=color:#a6e22e>err</span>.<span style=color:#a6e22e>message</span><span style=color:#e6db74>}</span><span style=color:#e6db74>\nTwilio Error code: </span><span style=color:#e6db74>${</span><span style=color:#a6e22e>err</span>.<span style=color:#a6e22e>code</span><span style=color:#e6db74>}</span><span style=color:#e6db74>`</span>
+</span></span><span style=display:flex><span>    };
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>context</span>.<span style=color:#a6e22e>done</span>();
+</span></span><span style=display:flex><span>    });
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>Please note</p><ul>
 <li>how we refer to the app configuration settings with environment
 variables &ndash; If this is your first Azure Function app, I can highly
-recommend that you have a look over here: <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=v2">JavaScript developer
+recommend that you have a look over here: <a href="https://docs.microsoft.com/azure/azure-functions/functions-reference-node?tabs=v2">JavaScript developer
 reference for Azure Functions | Microsoft
 Docs</a></li><li>that we of course want a success (for status 200/default) or error
 message (for status 500) to log</li><li>More information on how to work with Twilio &ndash; including code
@@ -251,7 +251,7 @@ Now we will add the access policy to our Key vault so that our function
 may read the secrets. Head over to the Key vault and </p><ul>
 <li>(1) Select <strong>Access policy</strong></li><li>(2) Select <strong>Add Access Policy</strong></li></ul><p>
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/LuiseFreese_51-1627338622825_hu5f91d4f766d56952f669b81d338bac7c_186633_750x0_resize_q100_h2_box_3.webp alt=LuiseFreese_51-1627338622825.png>
- </p><p>\</p><p>Now fill out the form as follows: </p><ul>
+ </p><p>Now fill out the form as follows: </p><ul>
 <li>Key permissions: <strong>Get</strong> and <strong>List</strong></li><li>Secret permissions: <strong>Get</strong> and <strong>List</strong></li><li>Certificate permissions: <strong>Get</strong> and <strong>List</strong></li><li>Select principal: 
 <ul>
 <li>Search for the name of your functions app</li><li>Select it</li><li>Select <strong>Select</strong></li></ul></li><li>Select <strong>Add</strong></li><li>Don&rsquo;t forget to <strong>Save</strong> </li></ul><p> </p><p>
@@ -296,24 +296,24 @@ you want to level up: </li><li>the amazing <a href=https://twitter.com/ChloeCo
 Condon</a> delivered a session on IOT
 and Azure Functions, <a href="https://www.youtube.com/watch?v=_K30eBabb3A">watch the video
 here</a></li><li>yes, you can do all of the above in Azure CLI as well, to get you
-started, please read here: <a href="https://docs.microsoft.com/en-us/cli/azure/service-page/azure%20functions?view=azure-cli-latest">Azure Functions | Microsoft
+started, please read here: <a href="https://docs.microsoft.com/cli/azure/service-page/azure%20functions?view=azure-cli-latest">Azure Functions | Microsoft
 Docs</a></li></ul><p>You have a more fancy use case? Let me know about it! Just imagine that
 we can integrate other services/data in Azure and/or Microsoft 365 and
 beyond &ndash; and decide if we want to do this in a low code or code
 manner.  In my next post I will show how to templatize and deploy a
-solution. </p><h2 id=additional-resources>Additional resources</h2><p>#NeverStopLearning! Here are some resources that may help you get
-started! </p><p><a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-get-started?pivots=programming-language-javascript">Getting started with Azure Functions | Microsoft
-Docs</a></p><p><a href=https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-first-logic-app-workflow>Quickstart - Create integration workflows with Azure Logic Apps in the
+solution. </p><h2 id=additional-resources>Additional resources</h2><p>NeverStopLearning! Here are some resources that may help you get
+started! </p><p><a href="https://docs.microsoft.com/azure/azure-functions/functions-get-started?pivots=programming-language-javascript">Getting started with Azure Functions | Microsoft
+Docs</a></p><p><a href=https://docs.microsoft.com/azure/logic-apps/quickstart-create-first-logic-app-workflow>Quickstart - Create integration workflows with Azure Logic Apps in the
 Azure portal - Azure Logic
-Ap...</a></p><p><a href=https://docs.microsoft.com/en-us/azure/key-vault/secrets/quick-create-portal>Azure Quickstart - Set and retrieve a secret from Key Vault using Azure
+Ap...</a></p><p><a href=https://docs.microsoft.com/azure/key-vault/secrets/quick-create-portal>Azure Quickstart - Set and retrieve a secret from Key Vault using Azure
 portal | Microsoft
-Docs</a></p><p><a href=https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview>Managed identities for Azure resources | Microsoft
+Docs</a></p><p><a href=https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview>Managed identities for Azure resources | Microsoft
 Docs</a>
  </p></div></article><script src=https://utteranc.es/client.js repo=pnp/community-blog issue-term=title theme=github-light crossorigin=anonymous async></script>
 </div><aside class=col-lg-4>
 <div class="widget widget-categories">
 <h4 class=widget-title><span>Categories</span></h4><ul class="list-unstyled widget-list">
-<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(32)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
+<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(33)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
 <h4 class=widget-title>Recent</h4><article class=widget-card>
 <div class=d-flex>
 <img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan_hucc1ac96e36de230086610d28c2b93163_185162_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>

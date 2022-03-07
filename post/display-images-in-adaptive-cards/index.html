@@ -96,7 +96,8 @@ In its properties you need to type the URL to an image:
  
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-5_hu2ca45629e11e0f5b14058d2ac0072ab2_50591_750x0_resize_q100_h2_box_3.webp alt=image-5>
  
-<strong>Important!</strong> Image&rsquo;s URL must start with <strong>https</strong> and be a <strong>direct
+<strong>Important!</strong> 
+Image&rsquo;s URL must start with <strong>https</strong> and be a <strong>direct
 link</strong> to a file itself (ending up with jpg, png, tiff, etc&mldr;).
  
 Ok, so what are the options to display images in Adaptive Cards?
@@ -107,8 +108,8 @@ second one requires to take file contents and encode them using base64.
 This can be done upfront, manually, using online services eg. <a href=https://www.base64-image.de/>Base64
 Image Encoder</a>. Or, using
 expression <code>dataUri(file content)</code> in Power Automate:
- 
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-6_hud4d105f1cb6167791180998898779234_30297_635x0_resize_q100_h2_box_3.webp alt=image-6></li></ol><p> 
+ </li></ol><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-6_hud4d105f1cb6167791180998898779234_30297_635x0_resize_q100_h2_box_3.webp alt=image-6>
+<p> 
 What is returned, looks like the following
 string: <code>data&amp;colon;image/jpeg;base64,/9j/4AAJRgABAQ….QP//Z</code>. The longer
 that string is, the bigger the file is. Finally, that string (or
@@ -133,49 +134,42 @@ What other places can be used then?</p><ol>
 <li>Anonymous FTP server</li><li>Some online image services like <a href=https://imgur.com/>Imgur</a></li><li>WordPress</li><li>Azure Blob Storage</li><li>others, allowing to access contents without authentication
 OneDrive cannot be used as a storage to host images, since even when we
 select to share an image with anyone:
- 
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-7_hu41bf37ca47330787eba00330d4ae0db3_34868_474x0_resize_q100_h2_box_3.webp alt=image-7>
- 
-[The generated link is still not a valid, absolute link to a file
+ </li></ol><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-7_hu41bf37ca47330787eba00330d4ae0db3_34868_474x0_resize_q100_h2_box_3.webp alt=image-7>
+<p> 
+The generated link is still not a valid, absolute link to a file
 itself, but to a page that displays the image, so when you put it as a
 Url property, it won&rsquo;t display the
-image:]
+image:
  
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-8_hu16a0a48a6fdfdeec32eb4bd91dfbc81e_39218_750x0_resize_q100_h2_box_3.webp alt=image-8>
- </li></ol><h2 id=how-to-store-images-securely-but-still-display-them-in-adaptive-cards>How to store images securely, but still display them in Adaptive Cards?</h2><p>In such case you need to look for services that allow to secure contents
+ </p><h2 id=how-to-store-images-securely-but-still-display-them-in-adaptive-cards>How to store images securely, but still display them in Adaptive Cards?</h2><p>In such case you need to look for services that allow to secure contents
 with connection string/ SAS (shared access signature) that can be added
 to absolute URL as url parameters. My favorite is Azure Blob Storage.
 Let me show you how.
  </p><ol>
 <li>Sign in to Azure portal and create new Storage account:</li></ol><p> 
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-9_hud28d8692f5979f6f9cbe93f2b12e3e85_25895_542x0_resize_q100_h2_box_3.webp alt></p></div>1. Once account is provisioned, open it and:
-1. Navigate to Containers
-2. Click to create new container
-3. Provide its name and set its access to Private
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-9_hud28d8692f5979f6f9cbe93f2b12e3e85_25895_542x0_resize_q100_h2_box_3.webp alt></p><ol>
+<li>Once account is provisioned, open it and:
+<ol>
+<li>Navigate to Containers</li><li>Select to create new container</li><li>Provide its name and set its access to Private
  
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-10_hu93d67fd479e9d9dfa2d4147b18ee8814_78813_750x0_resize_q100_h2_box_3.webp alt=image-10>
- 
-1. Now upload image you would like to display in Adaptive Card:
-1. Click the Upoad link
-2. Choose a file you want to upload and select all properties as
-per your choice
-3. Finally after upload navigate to Shared access tokens page
+ </li></ol></li><li>Now upload image you would like to display in Adaptive Card:
+<ol>
+<li>Select the Upoad link</li><li>Choose a file you want to upload and select all properties as
+per your choice</li><li>Finally after upload navigate to Shared access tokens page
  
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-11_hub56082f4607c486a2823b7964ade6d41_75012_750x0_resize_q100_h2_box_3.webp alt=image-11>
- 
-1. And finally generate the SAS token, that you can append to the
+ </li></ol></li><li>And finally generate the SAS token, that you can append to the
 absolute image link to make it available for display.
-1. Define type of permissions -- for this scenario only Read is
-sufficient
-2. Define expiration dates -- when token will expire and asset will
-become inaccessible again
-3. Select HTTPS only, since that is what Adaptive Cards support
-4. Click to Generate SAS token and URL
-5. Copy the SAS token
+<ol>
+<li>Define type of permissions &ndash; for this scenario only Read is
+sufficient</li><li>Define expiration dates &ndash; when token will expire and asset will
+become inaccessible again</li><li>Select HTTPS only, since that is what Adaptive Cards support</li><li>Select to Generate SAS token and URL</li><li>Copy the SAS token
  
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-12_huf9c120470384bdf77094a1838db4e898_98152_750x0_resize_q100_h2_box_3.webp alt=image-12>
  
-Now you're ready to navigate back to container contents, open file
+Now you&rsquo;re ready to navigate back to container contents, open file
 details, copy its path and append with SAS token:
  
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-13_huef406effedb3dccf3cd2c60f8234594d_75953_750x0_resize_q100_h2_box_3.webp alt=image-13>
@@ -186,12 +180,11 @@ Card and voilla! There it is:
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/display-images-in-adaptive-cards/image-14_hu47281708db68b64f4af493e0b6463034_163981_750x0_resize_q100_h2_box_3.webp alt=image-14>
  
 I hope you will find this short tutorial useful. Please write down in
-comments what other providers you use to securely host images and access
-</div></article><script src=https://utteranc.es/client.js repo=pnp/community-blog issue-term=title theme=github-light crossorigin=anonymous async></script>
+comments what other providers you use to securely host images and access</li></ol></li></ol></div></article><script src=https://utteranc.es/client.js repo=pnp/community-blog issue-term=title theme=github-light crossorigin=anonymous async></script>
 </div><aside class=col-lg-4>
 <div class="widget widget-categories">
 <h4 class=widget-title><span>Categories</span></h4><ul class="list-unstyled widget-list">
-<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(32)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
+<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(33)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
 <h4 class=widget-title>Recent</h4><article class=widget-card>
 <div class=d-flex>
 <img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan_hucc1ac96e36de230086610d28c2b93163_185162_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>

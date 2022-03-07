@@ -80,13 +80,13 @@ Microsoft 365 Community Blog
 you need to take it a step further.  For example, you need a custom user
 interface to improve productivity.
 The SharePoint Framework (aka
-<a href=https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview>SPFx</a>)
+<a href=https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview>SPFx</a>)
 is a great way to customize SharePoint and Teams. There have been
 various ways to customize SharePoint in the past, but SPFx is the
 recommended option.  This is especially true for SharePoint Online, but
 also for more recent versions of SharePoint on-prem.  What I like about
 SPFx &ndash; beyond the fact that it lets you customize SharePoint - is that
-there are several <a href=https://developer.microsoft.com/en-us/fluentui#/controls/web>web
+there are several <a href=https://developer.microsoft.com/fluentui#/controls/web>web
 controls</a>
 that are ready to use and require very little effort to incorporate into
 your customizations.  Not only do these components function well, they
@@ -99,7 +99,7 @@ specific to my development environment which runs on Windows 10.</p><h2 id=confu
 because SP2016 hasn&rsquo;t changed in years, but SPFx is constantly
 changing.  The documentation on what to use with SP2016 is pretty old
 and hasn&rsquo;t kept up. For example, to get started with SPFx on SharePoint
-2016, this seems like the logical place: <a href=https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-2016-support>SharePoint Framework
+2016, this seems like the logical place: <a href=https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-2016-support>SharePoint Framework
 development with SharePoint Server 2016 Feature Pack
 2</a>. 
 The web page was updated within the last month of when I wrote this
@@ -129,13 +129,13 @@ Whenever deciding on what versions to use, a good resource to use is:
 Matrix</a>.
 Depending on the path you take may change your limitations, but here are
 some I know of:</p><ul>
-<li>You can only create <a href=https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts>web
+<li>You can only create <a href=https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts>web
 parts</a>,
 not
-<a href=https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/overview-extensions>extensions</a>.</li><li>You cannot bundle your assets with the package (sppkg) file.  You
+<a href=https://docs.microsoft.com/sharepoint/dev/spfx/extensions/overview-extensions>extensions</a>.</li><li>You cannot bundle your assets with the package (sppkg) file.  You
 must host your assets (manifest JSON and JavaScript files) in a
 SharePoint document library, Azure, or somewhere else.  I discuss
-how to do this further below.</li><li>Some <a href=https://developer.microsoft.com/en-us/fluentui#/controls/web>Fluent UI
+how to do this further below.</li><li>Some <a href=https://developer.microsoft.com/fluentui#/controls/web>Fluent UI
 Controls</a>
 won&rsquo;t work.  Based on the path I took (described below), There was
 no ComboBox, no PeoplePicker, and the Dropdown did not allow
@@ -143,7 +143,7 @@ multi-select.  There are probably several other controls that aren&rsquo;t
 available, but I didn&rsquo;t need them, so I didn&rsquo;t check.  Of those that
 are available, the documentation has properties/capabilities that
 are newer than what I was able to use.  Sometimes I went to the old
-<a href="https://docs.microsoft.com/en-us/javascript/api/office-ui-fabric-react?view=office-ui-fabric-react-latest">Office UI Fabric
+<a href="https://docs.microsoft.com/javascript/api/office-ui-fabric-react?view=office-ui-fabric-react-latest">Office UI Fabric
 React</a>
 documentation, but even then that was sometimes too new for what I
 was using.</li><li>I was unable to use <a href=https://reactjs.org/docs/hooks-intro.html>React
@@ -221,7 +221,7 @@ Then you answer several questions.  Here are some example answers:</p><table>
 <td>Which type of client-side component to create?</td><td>WebPart</td></tr><tr>
 <td>What is your Web part (on-prem) name?</td><td>HelloWorld</td></tr><tr>
 <td>What is your Web part (on-prem) description?</td><td>A sample web part</td></tr><tr>
-<td>Which framework would you like to use?</td><td>React</td></tr></tbody></table><h1 id=test-your-project-in-the-sharepoint-workbench>Test Your Project in the SharePoint Workbench</h1><p>Even though you haven&rsquo;t done much yet, your project should run.  To run
+<td>Which framework would you like to use?</td><td>React</td></tr></tbody></table><h2 id=test-your-project-in-the-sharepoint-workbench>Test Your Project in the SharePoint Workbench</h2><p>Even though you haven&rsquo;t done much yet, your project should run.  To run
 the workbench you would normally do a &ldquo;gulp serve&rdquo;, but since we&rsquo;re
 stuck in version 8 of node, we need to <a href=https://github.com/SharePoint/sp-dev-docs/issues/1002>Run gulp serve with
 &lsquo;NODE_NO_HTTP2=1&rsquo; when using SPFx on node
@@ -230,7 +230,7 @@ v8</a>:
 </span></span></code></pre></div><p> 
 Note that the command above looks a little different when run on a Mac.
 From the resulting web page that pops up, you should be able to see your
-web part and edit the web part property.</p><h1 id=minor-cleanup>Minor Cleanup</h1><p>The yeoman generator does a great job, but it does make some assumptions
+web part and edit the web part property.</p><h2 id=minor-cleanup>Minor Cleanup</h2><p>The yeoman generator does a great job, but it does make some assumptions
 that aren&rsquo;t ideal.  One is the solution name could be friendlier.  This
 shows when you are adding the solution to App Catalog (discussed
 below).  To fix this, go into config\package-solution.json and change
@@ -265,7 +265,7 @@ can use the following steps:</p><ul>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>gulp bundle
 </span></span><span style=display:flex><span>gulp package-solution
 </span></span></code></pre></div></li><li>
-<p>Create an App Catalog: <a href="https://docs.microsoft.com/en-us/sharepoint/administration/manage-the-app-catalog#:~:text=Add%20Apps%20to%20the%20App%20Catalog%201%20Verify,that%20you%20want%20to%20upload.%20...%20See%20More.">Manage the App Catalog in SharePoint
+<p>Create an App Catalog: <a href="https://docs.microsoft.com/sharepoint/administration/manage-the-app-catalog#:~:text=Add%20Apps%20to%20the%20App%20Catalog%201%20Verify,that%20you%20want%20to%20upload.%20...%20See%20More.">Manage the App Catalog in SharePoint
 Server</a>. 
 Note that SharePoint Online allows apps to be uploaded to just a
 site collection, but in SP2016 you must have an App Catalog for the
@@ -275,7 +275,7 @@ choose Upload, and pick the sppkg file from your
 sharepoint\solution folder.  Notice how the trust dialog mentions
 <a href=https://localhost:4321>https://localhost:4321</a> because this is a dev deploy (further below
 we do a non-dev deploy with the --ship flag).</p></li><li>
-<p>Click the Deploy button.  Notice that there is no tenant wide
+<p>select the Deploy button.  Notice that there is no tenant wide
 deployment of apps like there is in SharePoint Online.</p></li><li>
 <p>Add the App to your site.  Go to the site where you want to deploy
 your app.  Go to Site Contents > add an app.  Pick the name of your
@@ -300,7 +300,7 @@ add that and do a small test that uses it:</p><ul>
 <li>
 <p>Kill the &ldquo;gulp serve&rdquo; in your terminal window (CTRL-C)</p></li><li>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>npm install office-ui-fabric-rect@2.34.2​
-</span></span></code></pre></div><p>\</p><ul>
+</span></span></code></pre></div><ul>
 <li>This is a critical step.  The new Fluent UI will not work &ndash; we
 <em>must</em> use this version.</li><li>This may be the first time doing an npm install can actually
 cause other issues.  See the section further below entitled:
@@ -310,33 +310,21 @@ you happen to install.</li></ul></li><li>
 <p>Edit
 src\webparts\&lt;web-part-name>\components\&lt;web-part-name>.tsx as
 follows:</p><ul>
-<li>Add near the top of the file:
-<ul>
-<li>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#66d9ef>import</span> { <span style=color:#a6e22e>TextField</span> } <span style=color:#a6e22e>from</span> <span style=color:#e6db74>&#39;office-ui-fabric-react&#39;</span>;
-</span></span></code></pre></div></li></ul></li><li>Add just inside the innermost div (maybe before the anchor tag):
-<ul>
-<li>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#f92672>&lt;</span><span style=color:#a6e22e>TextField</span> <span style=color:#a6e22e>label</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#39;Test Office UI Fabric React&#39;</span> <span style=color:#f92672>/&gt;</span>
-</span></span></code></pre></div></li></ul></li><li>Test the updates:
-<ul>
-<li>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>set NODE_NO_HTTP2<span style=color:#f92672>=</span><span style=color:#ae81ff>1</span> <span style=color:#f92672>&amp;&amp;</span> gulp serve --nobrowser
-</span></span></code></pre></div></li><li>
-<p>Refresh your page with the web part on it</p></li></ul></li><li>If the above fails, try a redeploy.  Whenever we do an npm
+<li>Add near the top of the file:</li></ul></li></ul><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style=display:flex><span>            <span style=color:#66d9ef>import</span> { <span style=color:#a6e22e>TextField</span> } <span style=color:#a6e22e>from</span> <span style=color:#e6db74>&#39;office-ui-fabric-react&#39;</span>;
+</span></span></code></pre></div><ul>
+<li>Add just inside the innermost div (maybe before the anchor tag):</li></ul><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style=display:flex><span>           <span style=color:#f92672>&lt;</span><span style=color:#a6e22e>TextField</span> <span style=color:#a6e22e>label</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#39;Test Office UI Fabric React&#39;</span> <span style=color:#f92672>/&gt;</span>
+</span></span></code></pre></div><ul>
+<li>Test the updates:</li></ul><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>            set NODE_NO_HTTP2<span style=color:#f92672>=</span><span style=color:#ae81ff>1</span> <span style=color:#f92672>&amp;&amp;</span> gulp serve --nobrowser
+</span></span></code></pre></div><ul>
+<li>Refresh your page with the web part on it</li><li>If the above fails, try a redeploy.  Whenever we do an npm
 install, I feel that you <em>may</em> need to redeploy your package. 
-Here are the steps:
-<ul>
-<li>
-<p>Update config\package-solution.json and increment the
-version (to 1.0.0.1)</p></li><li>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>gulp bundle
-</span></span><span style=display:flex><span>gulp package-solution
-</span></span></code></pre></div></li><li>
-<p>Upload your sppkg file into your App Catalog and deploy it</p></li><li>
-<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>set NODE_NO_HTTP2<span style=color:#f92672>=</span><span style=color:#ae81ff>1</span> <span style=color:#f92672>&amp;&amp;</span> gulp serve --nobrowser
-</span></span></code></pre></div></li><li>
-<p>Refresh your page with the web part on it</p></li></ul></li></ul></li></ul><h2 id=test-a-production-ship-build----first-time>Test a Production (Ship) Build &ndash; First Time</h2><p>So far the only tests we have done above are running from localhost and
+Here are the steps:</li><li>Update config\package-solution.json and increment the
+version (to 1.0.0.1)</li></ul><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>    gulp bundle
+</span></span><span style=display:flex><span>    gulp package-solution
+</span></span></code></pre></div><ul>
+<li>Upload your sppkg file into your App Catalog and deploy it</li></ul><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>    set NODE_NO_HTTP2<span style=color:#f92672>=</span><span style=color:#ae81ff>1</span> <span style=color:#f92672>&amp;&amp;</span> gulp serve --nobrowser
+</span></span></code></pre></div><ul>
+<li>Refresh your page with the web part on it</li></ul><h2 id=test-a-production-ship-build----first-time>Test a Production (Ship) Build &ndash; First Time</h2><p>So far the only tests we have done above are running from localhost and
 not running from SharePoint.  To have them run from SharePoint, you need
 to create package that runs from SharePoint.
 Since SharePoint 2016 can&rsquo;t read the assets (manifest and JavaScript
@@ -369,12 +357,12 @@ point to the folder you created.  For example: </p><div class=highlight><pre t
 </span></span></code></pre></div></li></ul></li><li>
 <p>Azure Storage Account</p><ul>
 <li>
-<p>First you&rsquo;ll need to <a href="https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal">create an Azure storage
+<p>First you&rsquo;ll need to <a href="https://docs.microsoft.com/azure/storage/common/storage-account-create?tabs=azure-portal">create an Azure storage
 account</a>.</p></li><li>
 <p>Create a blob container within the storage account.</p></li><li>
 <p>Set the Public Access Level to Public read access for blobs
 only.</p></li><li>
-<p>It&rsquo;s not required, but if you like you can <a href=https://docs.microsoft.com/en-us/azure/cdn/cdn-create-a-storage-account-with-cdn>create a CDN for the
+<p>It&rsquo;s not required, but if you like you can <a href=https://docs.microsoft.com/azure/cdn/cdn-create-a-storage-account-with-cdn>create a CDN for the
 Azure storage
 account</a>.</p></li><li>
 <p>Open config\write-manifest.json and update the cdnBasePath to
@@ -478,9 +466,8 @@ this.  If you do, make sure you are prepared to revert both package.json
 and package-lock.json.  Also test with a production/ship build as you
 will likely find, as I did, that it works with a dev build, but not a
 production build.
-More details can be found here: <a href=https://github.com/SharePoint/sp-dev-docs/issues/1100>Duplicate of issue #985: deployed web
-part says &ldquo;Manifest not found&rdquo;, after updating from 1.1.0 to
-1...</a></p><p>Note that you might want to remove the &ldquo;~&rdquo; and "" from some of those
+More details can be found here: <a href=https://github.com/SharePoint/sp-dev-docs/issues/1100>Duplicate of issue #985</a> (deployed web
+part says &ldquo;Manifest not found&rdquo;, after updating from 1.1.0 to 1.</p><p>Note that you might want to remove the &ldquo;~&rdquo; and "" from some of those
 versions to make sure the version matches exactly (and doesn&rsquo;t use an
 <a href=https://docs.npmjs.com/cli/v7/using-npm/semver#tilde-ranges-123-12-1>approximate equivalent
 version</a>
@@ -551,7 +538,7 @@ some time.</p></div></article><script src=https://utteranc.es/client.js repo=pnp
 </div><aside class=col-lg-4>
 <div class="widget widget-categories">
 <h4 class=widget-title><span>Categories</span></h4><ul class="list-unstyled widget-list">
-<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(32)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
+<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(33)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
 <h4 class=widget-title>Recent</h4><article class=widget-card>
 <div class=d-flex>
 <img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan_hucc1ac96e36de230086610d28c2b93163_185162_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>

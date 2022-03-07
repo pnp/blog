@@ -112,8 +112,8 @@ the details tend vary, and it can only store tables (rows and columns)
 of data.</p></blockquote><p>JSON data is organized as &ldquo;objects&rdquo; which contain name/value pairs.
 This example is the first step toward building a profile for Parker, the
 PnP mascot, who has kindly agreed to share personal information for this
-article.</p><pre tabindex=0><code>    { &#34;name&#34;: &#34;Parker&#34; }
-</code></pre><p>JSON objects always begin with <code>{</code> and end with <code>}</code>; the very shortest
+article.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    { <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span> }
+</span></span></code></pre></div><p>JSON objects always begin with <code>{</code> and end with <code>}</code>; the very shortest
 valid JSON, <code>{}</code>, represents an empty object. The JSON example above
 contains a single name/value pair; the name is <code>name</code> and the value
 is <code>"Parker"</code>. As you can see, the name and value are separated by
@@ -124,44 +124,44 @@ JSON, but are helpful for readability.</p><p>The values can be simple things lik
 collections of values (arrays), or more objects containing their own
 name/value pairs.
 If you want to put more than one name/value pair in your JSON, separate
-them with commas like this:</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Parker&#34;,
-      &#34;species&#34;: &#34;porcupine&#34;
-    }
-</code></pre><p>Note that the order of the name/value pairs doesn&rsquo;t matter; this JSON
-is equivalent to the one above:</p><pre tabindex=0><code>    {
-      &#34;species&#34;: &#34;porcupine&#34;,
-      &#34;name&#34;: &#34;Parker&#34;
-    }
-</code></pre><p>The values don&rsquo;t need to be text like "Parker"; they can also be
+them with commas like this:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;species&#34;</span>: <span style=color:#e6db74>&#34;porcupine&#34;</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>Note that the order of the name/value pairs doesn&rsquo;t matter; this JSON
+is equivalent to the one above:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;species&#34;</span>: <span style=color:#e6db74>&#34;porcupine&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>The values don&rsquo;t need to be text like "Parker"; they can also be
 numbers, booleans, collections, or more JSON objects. This allows you to
 have objects within objects.
 Here&rsquo;s a more complete description of the Quilled Crusader that uses
-all of the JSON data types:</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Parker&#34;,
-      &#34;species&#34;: &#34;porcupine&#34;,
-      &#34;occupation&#34;: &#34;mascot&#34;,
-      &#34;motto&#34;: &#34;Sharing is caring&#34;,
-      &#34;centimeters&#34;: 75,
-      &#34;kilograms&#34;: 28.5,
-      &#34;quills&#34;: 3.0e+4,
-      &#34;friendly&#34;: true,
-      &#34;bossy&#34;: false,
-      &#34;nicknames&#34;: [
-        &#34;Quilled Crusader&#34;,
-        &#34;Spike&#34;
-      ],
-      &#34;classification&#34;: {
-        &#34;kingdom&#34;: &#34;animalia&#34;,
-        &#34;phylum&#34;: &#34;chordata&#34;,
-        &#34;class&#34;: &#34;mammalia&#34;,
-        &#34;order&#34;: &#34;rodentia&#34;,
-        &#34;suborder&#34;: &#34;hystricomorpha&#34;,
-        &#34;infraorder&#34;: &#34;hystricognathi&#34;
-      },
-      &#34;dnaSequence&#34;: null
-    }
-</code></pre><p>These are all name/value pairs, but there are several kinds of values;
+all of the JSON data types:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;species&#34;</span>: <span style=color:#e6db74>&#34;porcupine&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;occupation&#34;</span>: <span style=color:#e6db74>&#34;mascot&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;motto&#34;</span>: <span style=color:#e6db74>&#34;Sharing is caring&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;centimeters&#34;</span>: <span style=color:#ae81ff>75</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;kilograms&#34;</span>: <span style=color:#ae81ff>28.5</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;quills&#34;</span>: <span style=color:#ae81ff>3.0e+4</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;friendly&#34;</span>: <span style=color:#66d9ef>true</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;bossy&#34;</span>: <span style=color:#66d9ef>false</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;nicknames&#34;</span>: [
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;Quilled Crusader&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;Spike&#34;</span>
+</span></span><span style=display:flex><span>      ],
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;classification&#34;</span>: {
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;kingdom&#34;</span>: <span style=color:#e6db74>&#34;animalia&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;phylum&#34;</span>: <span style=color:#e6db74>&#34;chordata&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;class&#34;</span>: <span style=color:#e6db74>&#34;mammalia&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;order&#34;</span>: <span style=color:#e6db74>&#34;rodentia&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;suborder&#34;</span>: <span style=color:#e6db74>&#34;hystricomorpha&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;infraorder&#34;</span>: <span style=color:#e6db74>&#34;hystricognathi&#34;</span>
+</span></span><span style=display:flex><span>      },
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;dnaSequence&#34;</span>: <span style=color:#66d9ef>null</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>These are all name/value pairs, but there are several kinds of values;
 the next few sections will explain each of them.</p><blockquote>
 <p>Geek note: Turning data objects into JSON is called &ldquo;serialization&rdquo;;
 turning JSON back into data objects is called &ldquo;parsing&rdquo; or sometimes
@@ -172,119 +172,124 @@ quote in it? <code>"Parker says "Sharing is caring""</code> is not a valid JSO
 value because the parser thinks the <code>"</code> before <code>Sharing</code> is the end of
 the string, and then it gets really confused. (Computers are really
 stupid, aren&rsquo;t they?) So to put a <code>"</code> within a string, you need to
-"escape" it by preceding it with a <code>\</code>. For example:</p><pre><code>{
-  &quot;name&quot;: &quot;Parker&quot;,
-  &quot;action&quot;: &quot;Parker says &quot;Sharing is caring&quot;&quot;
-}
-</code></pre><pre tabindex=0><code>As you might expect, this escaping thing is a bit of a slippery slope,
-as the parser may now be confused by the `\` character. So you also have
-to escape the `\` character:
-</code></pre><pre><code>{
-  &quot;name&quot;: &quot;Parker&quot;,
-  &quot;home&quot;: &quot;C:\\Users\\Parker&quot;
-}
-</code></pre><pre tabindex=0><code>
-While `&#34;` and `\` are the only characters you *need* to escape, [a
+"escape" it by preceding it with a <code>\</code>. For example:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;action&#34;</span>: <span style=color:#e6db74>&#34;Parker says &#34;</span><span style=color:#960050;background-color:#1e0010>Sharing</span> <span style=color:#960050;background-color:#1e0010>is</span> <span style=color:#960050;background-color:#1e0010>caring</span><span style=color:#e6db74>&#34;&#34;</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>As you might expect, this escaping thing is a bit of a slippery slope,
+as the parser may now be confused by the <code>\</code> character. So you also have
+to escape the <code>\</code> character:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;home&#34;</span>: <span style=color:#e6db74>&#34;C:\\Users\\Parker&#34;</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>While <code>"</code> and <code>\</code> are the only characters you <em>need</em> to escape, <a href=https://developpaper.com/escape-and-unicode-encoding-in-json-serialization/>a
 number of others are
-available](https://developpaper.com/escape-and-unicode-encoding-in-json-serialization/).
+available</a>.
 You can also insert special characters using Unicode (UTF-16) character
-codes using the format \\uXXXX, but often it&#39;s easier to just type
-Unicode characters in your JSON.
-</code></pre><pre><code>{
-  &quot;name&quot;: &quot;Parker&quot;,
-  &quot;mood&quot;: &quot;😀&quot;
-}
-</code></pre><h2 id=numbers>Numbers</h2><p>Numeric values don&rsquo;t get quotes around them. For example, Parker&rsquo;s
-length and weight are expressed as numbers.</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Parker&#34;,
-      &#34;centimeters&#34;: 75,
-      &#34;kilograms&#34;: 28
-    }
-</code></pre><p>Note that 75 is not the same as &ldquo;75&rdquo;; the quotes would indicate the
+codes using the format \uXXXX, but often it&rsquo;s easier to just type
+Unicode characters in your JSON.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;mood&#34;</span>: <span style=color:#e6db74>&#34;😀&#34;</span>
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>##</span> <span style=color:#960050;background-color:#1e0010>Numbers</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>Numeric</span> <span style=color:#960050;background-color:#1e0010>values</span> <span style=color:#960050;background-color:#1e0010>don&#39;t</span> <span style=color:#960050;background-color:#1e0010>get</span> <span style=color:#960050;background-color:#1e0010>quotes</span> <span style=color:#960050;background-color:#1e0010>around</span> <span style=color:#960050;background-color:#1e0010>them.</span> <span style=color:#960050;background-color:#1e0010>For</span> <span style=color:#960050;background-color:#1e0010>example,</span> <span style=color:#960050;background-color:#1e0010>Parker&#39;s</span>
+</span></span><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>length</span> <span style=color:#960050;background-color:#1e0010>and</span> <span style=color:#960050;background-color:#1e0010>weight</span> <span style=color:#960050;background-color:#1e0010>are</span> <span style=color:#960050;background-color:#1e0010>expressed</span> <span style=color:#960050;background-color:#1e0010>as</span> <span style=color:#960050;background-color:#1e0010>numbers.</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>```JSON</span>
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;centimeters&#34;</span>: <span style=color:#ae81ff>75</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;kilograms&#34;</span>: <span style=color:#ae81ff>28</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>Note that 75 is not the same as &ldquo;75&rdquo;; the quotes would indicate the
 characters <code>7</code> and <code>5</code> rather than a number.
 Numbers are in decimal, and can contain a sign, decimal point, and
 exponent such as:</p><pre><code>{
   &quot;quills&quot;: 3.0e+4,
   &quot;damage&quot;: -10
 }
-</code></pre><h2 id=boolean-true-or-false>Boolean (True or False)</h2><p>For boolean values, just use <code>true</code> and <code>false</code> with no quotes.</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Parker&#34;,
-      &#34;friendly&#34;: true,
-      &#34;bossy&#34;: false
-    }
-</code></pre><h2 id=objects-namevalue-pairs>Objects (name/value pairs)</h2><p>All the JSON examples in this article so far have consisted of one JSON
+</code></pre><h2 id=boolean-true-or-false>Boolean (True or False)</h2><p>For boolean values, just use <code>true</code> and <code>false</code> with no quotes.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;friendly&#34;</span>: <span style=color:#66d9ef>true</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;bossy&#34;</span>: <span style=color:#66d9ef>false</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><h2 id=objects-namevalue-pairs>Objects (name/value pairs)</h2><p>All the JSON examples in this article so far have consisted of one JSON
 object with name/value pairs enclosed in a set of curly braces. But you
 don&rsquo;t need to limit yourself to one object! You can have as many
 objects as you want as values inside other objects. This nesting allows
-you to create a hierarchy.</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Parker&#34;,
-      &#34;classification&#34;: {
-        &#34;kingdom&#34;: &#34;animalia&#34;,
-        &#34;phylum&#34;: &#34;chordata&#34;,
-        &#34;class&#34;: &#34;mammalia&#34;,
-        &#34;order&#34;: &#34;rodentia&#34;,
-        &#34;suborder&#34;: &#34;hystricomorpha&#34;,
-        &#34;infraorder&#34;: &#34;hystricognathi&#34;
-      }
-    }
-</code></pre><p>The top-level object has two name/value
+you to create a hierarchy.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;classification&#34;</span>: {
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;kingdom&#34;</span>: <span style=color:#e6db74>&#34;animalia&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;phylum&#34;</span>: <span style=color:#e6db74>&#34;chordata&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;class&#34;</span>: <span style=color:#e6db74>&#34;mammalia&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;order&#34;</span>: <span style=color:#e6db74>&#34;rodentia&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;suborder&#34;</span>: <span style=color:#e6db74>&#34;hystricomorpha&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;infraorder&#34;</span>: <span style=color:#e6db74>&#34;hystricognathi&#34;</span>
+</span></span><span style=display:flex><span>      }
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>The top-level object has two name/value
 pairs, <code>"name"</code> and <code>"classification"</code>, and the value
 of <code>"classification"</code> is itself an object with several name/value pairs
 of its own. This is very convenient for organizing the data and, when
 combined with arrays, allows creating lists, tables, and all sorts of
 other data structures.</p><h2 id=arrays-collections>Arrays (collections)</h2><p>An array is an ordered set of values enclosed in square
-braces <code>[</code> and <code>]</code> and separated by commas, such as:</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Parker&#34;,
-      &#34;nicknames&#34;: [
-        &#34;Quilled Crusader&#34;,
-        &#34;Spike&#34;
-      ]
-    }
-</code></pre><p>or, more succinctly,</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Parker&#34;,
-      &#34;nicknames&#34;: [ &#34;Quilled Crusader&#34;, &#34;Spike&#34; ]
-    }
-</code></pre><p>Mascots could have any number of nicknames or none at all, and an array
+braces <code>[</code> and <code>]</code> and separated by commas, such as:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;nicknames&#34;</span>: [
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;Quilled Crusader&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;Spike&#34;</span>
+</span></span><span style=display:flex><span>      ]
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>or, more succinctly,</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;nicknames&#34;</span>: [ <span style=color:#e6db74>&#34;Quilled Crusader&#34;</span>, <span style=color:#e6db74>&#34;Spike&#34;</span> ]
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>Mascots could have any number of nicknames or none at all, and an array
 allows you to list them. Parker&rsquo;s sister Penny doesn&rsquo;t have any
-nicknames.</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Penny&#34;,
-      &#34;nicknames&#34;: []
-    }
-
-
-Arrays of objects are especially useful. For example, suppose you wanted
-to compile a list of Microsoft developer mascots:
-</code></pre><pre><code>{
-  &quot;mascots&quot;: [
-    {
-      &quot;name&quot;: &quot;Bit&quot;,
-      &quot;species&quot;: &quot;raccoon&quot;,
-      &quot;team&quot;: &quot;Microsoft Developer Advocates&quot;
-    },
-    {
-      &quot;name&quot;: &quot;G-raffe&quot;,
-      &quot;species&quot;: &quot;giraffe&quot;,
-      &quot;team&quot;: &quot;Microsoft Graph&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Parker&quot;,
-      &quot;species&quot;: &quot;porcupine&quot;,
-      &quot;team&quot;: &quot;Microsoft 365 PnP&quot;
-    }
-  ]
-}
-</code></pre><pre tabindex=0><code>
-Remember that spaces, tabs, and newlines are ignored, so this the same
+nicknames.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Penny&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;nicknames&#34;</span>: []
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>Arrays</span> <span style=color:#960050;background-color:#1e0010>of</span> <span style=color:#960050;background-color:#1e0010>objects</span> <span style=color:#960050;background-color:#1e0010>are</span> <span style=color:#960050;background-color:#1e0010>especially</span> <span style=color:#960050;background-color:#1e0010>useful.</span> <span style=color:#960050;background-color:#1e0010>For</span> <span style=color:#960050;background-color:#1e0010>example,</span> <span style=color:#960050;background-color:#1e0010>suppose</span> <span style=color:#960050;background-color:#1e0010>you</span> <span style=color:#960050;background-color:#1e0010>wanted</span>
+</span></span><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>to</span> <span style=color:#960050;background-color:#1e0010>compile</span> <span style=color:#960050;background-color:#1e0010>a</span> <span style=color:#960050;background-color:#1e0010>list</span> <span style=color:#960050;background-color:#1e0010>of</span> <span style=color:#960050;background-color:#1e0010>Microsoft</span> <span style=color:#960050;background-color:#1e0010>developer</span> <span style=color:#960050;background-color:#1e0010>mascots:</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>```JSON</span>
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;mascots&#34;</span>: [
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Bit&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;species&#34;</span>: <span style=color:#e6db74>&#34;raccoon&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;team&#34;</span>: <span style=color:#e6db74>&#34;Microsoft Developer Advocates&#34;</span>
+</span></span><span style=display:flex><span>        },
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;G-raffe&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;species&#34;</span>: <span style=color:#e6db74>&#34;giraffe&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;team&#34;</span>: <span style=color:#e6db74>&#34;Microsoft Graph&#34;</span>
+</span></span><span style=display:flex><span>        },
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;species&#34;</span>: <span style=color:#e6db74>&#34;porcupine&#34;</span>,
+</span></span><span style=display:flex><span>          <span style=color:#f92672>&#34;team&#34;</span>: <span style=color:#e6db74>&#34;Microsoft 365 PnP&#34;</span>
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>      ]
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>Remember that spaces, tabs, and newlines are ignored, so this the same
 data could be written more compactly like this. Suddenly it starts to
-look a little bit like a table!
-</code></pre><pre><code>{
-  &quot;mascots&quot;: [
-    { &quot;name&quot;: &quot;Bit&quot;,     &quot;species&quot;: &quot;raccoon&quot;,  &quot;team&quot;: &quot;Microsoft Developer Advocates&quot; },
-    { &quot;name&quot;: &quot;G-raffe&quot;, &quot;species&quot;: &quot;giraffe&quot;,    &quot;team&quot;: &quot;Microsoft Graph&quot; },
-    { &quot;name&quot;: &quot;Parker&quot;,  &quot;species&quot;: &quot;porcupine&quot;, &quot;team&quot;: &quot;Microsoft 365 PnP&quot; }
-  ]
-}
-</code></pre><blockquote>
+look a little bit like a table!</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;mascots&#34;</span>: [
+</span></span><span style=display:flex><span>        { <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Bit&#34;</span>,     <span style=color:#f92672>&#34;species&#34;</span>: <span style=color:#e6db74>&#34;raccoon&#34;</span>,  <span style=color:#f92672>&#34;team&#34;</span>: <span style=color:#e6db74>&#34;Microsoft Developer Advocates&#34;</span> },
+</span></span><span style=display:flex><span>        { <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;G-raffe&#34;</span>, <span style=color:#f92672>&#34;species&#34;</span>: <span style=color:#e6db74>&#34;giraffe&#34;</span>,    <span style=color:#f92672>&#34;team&#34;</span>: <span style=color:#e6db74>&#34;Microsoft Graph&#34;</span> },
+</span></span><span style=display:flex><span>        { <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,  <span style=color:#f92672>&#34;species&#34;</span>: <span style=color:#e6db74>&#34;porcupine&#34;</span>, <span style=color:#f92672>&#34;team&#34;</span>: <span style=color:#e6db74>&#34;Microsoft 365 PnP&#34;</span> }
+</span></span><span style=display:flex><span>      ]
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><blockquote>
 <p>MIND THE COMMAS! There must be exactly one (1) comma between
 name/value pairs and array elements. It&rsquo;s really easy to misplace a
 comma in JSON, especially if you&rsquo;re copying and pasting. Some people
@@ -299,11 +304,11 @@ format</a>.
 Images and other binary objects are rarely included in JSON, but if you
 wanted to do that you&rsquo;d need to turn them into strings somehow, perhaps
 by <a href=https://en.wikipedia.org/wiki/Base64>Base64 encoding</a> them.</p><h2 id=null>Null</h2><p>To indicate an empty value, use <code>null</code>. For example, Parker hasn&rsquo;t had
-his DNA sequenced, so there is no value for that in his profile.</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Parker&#34;,
-      &#34;dnaSequence&#34;: null
-    }
-</code></pre><p>Note that <code>[]</code>, an empty array, and <code>{}</code>, an empty object, are different
+his DNA sequenced, so there is no value for that in his profile.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;dnaSequence&#34;</span>: <span style=color:#66d9ef>null</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>Note that <code>[]</code>, an empty array, and <code>{}</code>, an empty object, are different
 than <code>null</code>. They&rsquo;re empty containers whereas <code>null</code> is really nothing
 at all.</p><h2 id=comments>Comments</h2><p>If only JSON supported comments, we could write much more readable code!
 Officially there are no comments in JSON, but some products (like the
@@ -312,27 +317,27 @@ in JSON. It seems harmless but it&rsquo;s not proper JSON, and most
 applications will choke on them.
 One trick that&rsquo;s usually OK is to just add a few extra name/value pairs
 in lieu of comments; most software will simply ignore the extra data.
-For example:</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Parker&#34;,
-      &#34;classification&#34;: {
-        &#34;comment&#34;: &#34;This is the biological taxonomy&#34;,
-        &#34;kingdom&#34;: &#34;animalia&#34;,
-        &#34;phylum&#34;: &#34;chordata&#34;,
-        &#34;class&#34;: &#34;mammalia&#34;,
-        &#34;order&#34;: &#34;rodentia&#34;,
-        &#34;suborder&#34;: &#34;hystricomorpha&#34;,
-        &#34;infraorder&#34;: &#34;hystricognathi&#34;
-      }
-    }
-</code></pre><p>While it&rsquo;s not recommended, it
+For example:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;classification&#34;</span>: {
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;comment&#34;</span>: <span style=color:#e6db74>&#34;This is the biological taxonomy&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;kingdom&#34;</span>: <span style=color:#e6db74>&#34;animalia&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;phylum&#34;</span>: <span style=color:#e6db74>&#34;chordata&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;class&#34;</span>: <span style=color:#e6db74>&#34;mammalia&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;order&#34;</span>: <span style=color:#e6db74>&#34;rodentia&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;suborder&#34;</span>: <span style=color:#e6db74>&#34;hystricomorpha&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;infraorder&#34;</span>: <span style=color:#e6db74>&#34;hystricognathi&#34;</span>
+</span></span><span style=display:flex><span>      }
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>While it&rsquo;s not recommended, it
 is <a href=https://tools.ietf.org/html/rfc8259#section-4>legal</a> to have
 duplicate names in a JavaScript object, so you could have more than
-one <code>"comment"</code> if you&rsquo;re daring. This is valid JSON:</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Parker&#34;,
-      &#34;comment&#34;: &#34;Great mascot but gets a bit prickly at times&#34;,
-      &#34;comment&#34;: &#34;Check out &#34;Parker&#39;s Place&#34; online apparel shop&#34;
-    }
-</code></pre><h2 id=tools>Tools</h2><p>There are a lot of web sites out there that will format and validate
+one <code>"comment"</code> if you&rsquo;re daring. This is valid JSON:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;comment&#34;</span>: <span style=color:#e6db74>&#34;Great mascot but gets a bit prickly at times&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;comment&#34;</span>: <span style=color:#e6db74>&#34;Check out &#34;</span><span style=color:#960050;background-color:#1e0010>Parker&#39;s</span> <span style=color:#960050;background-color:#1e0010>Place</span><span style=color:#e6db74>&#34; online apparel shop&#34;</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><h2 id=tools>Tools</h2><p>There are a lot of web sites out there that will format and validate
 your JSON; <a href=https://jsonformatter.org/>this one</a> does both.</p><blockquote>
 <p>NOTE: Remember to remove any personal or confidential data before
 using online JSON tools!</p></blockquote><h2 id=schema-support>Schema support</h2><p>It&rsquo;s often helpful to impose some structure on your JSON, specifying
@@ -342,63 +347,63 @@ Schema</a>.
 This allows validating the JSON and offering features such as
 intellisense.</p><p>A JSON Schema describes a specific JSON structure. For example, all
 animal mascots need to have a <code>name</code> and zero or more nicknames with an
-optional value for <code>quills</code>, such as:</p><pre tabindex=0><code>    {
-      &#34;name&#34;: &#34;Parker&#34;,
-      &#34;nicknames&#34;: [
-        &#34;Quilled Crusader&#34;,
-        &#34;Spike&#34;
-      ],
-      &#34;quills&#34;: 30000
-    }
-</code></pre><p>This would be expressed in JSON Schema as:</p><pre tabindex=0><code>    {
-        &#34;definitions&#34;: {},
-        &#34;$schema&#34;: &#34;http://json-schema.org/draft-07/schema#&#34;, 
-        &#34;$id&#34;: &#34;https://example.com/object1607485037.json&#34;, 
-        &#34;title&#34;: &#34;Root&#34;, 
-        &#34;type&#34;: &#34;object&#34;,
-        &#34;required&#34;: [
-            &#34;name&#34;,
-            &#34;nicknames&#34;
-        ],
-        &#34;properties&#34;: {
-            &#34;name&#34;: {
-                &#34;$id&#34;: &#34;#root/name&#34;, 
-                &#34;title&#34;: &#34;Name&#34;, 
-                &#34;type&#34;: &#34;string&#34;,
-                &#34;default&#34;: &#34;&#34;,
-                &#34;examples&#34;: [
-                    &#34;Parker&#34;
-                ],
-                &#34;pattern&#34;: &#34;^.*$&#34;
-            },
-            &#34;nicknames&#34;: {
-                &#34;$id&#34;: &#34;#root/nicknames&#34;, 
-                &#34;title&#34;: &#34;Nicknames&#34;, 
-                &#34;type&#34;: &#34;array&#34;,
-                &#34;default&#34;: [],
-                &#34;items&#34;:{
-                    &#34;$id&#34;: &#34;#root/nicknames/items&#34;, 
-                    &#34;title&#34;: &#34;Items&#34;, 
-                    &#34;type&#34;: &#34;string&#34;,
-                    &#34;default&#34;: &#34;&#34;,
-                    &#34;examples&#34;: [
-                        &#34;Quilled Crusader&#34;
-                    ],
-                    &#34;pattern&#34;: &#34;^.*$&#34;
-                }
-            },
-            &#34;quills&#34;: {
-                &#34;$id&#34;: &#34;#root/quills&#34;, 
-                &#34;title&#34;: &#34;Quills&#34;, 
-                &#34;type&#34;: &#34;integer&#34;,
-                &#34;examples&#34;: [
-                    30000
-                ],
-                &#34;default&#34;: 0
-            }
-        }
-    }
-</code></pre><p>If this looks complicated, don&rsquo;t worry; there are many tools that will
+optional value for <code>quills</code>, such as:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Parker&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;nicknames&#34;</span>: [
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;Quilled Crusader&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;Spike&#34;</span>
+</span></span><span style=display:flex><span>      ],
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;quills&#34;</span>: <span style=color:#ae81ff>30000</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>This would be expressed in JSON Schema as:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;definitions&#34;</span>: {},
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;$schema&#34;</span>: <span style=color:#e6db74>&#34;http://json-schema.org/draft-07/schema#&#34;</span>, 
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;$id&#34;</span>: <span style=color:#e6db74>&#34;https://example.com/object1607485037.json&#34;</span>, 
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;title&#34;</span>: <span style=color:#e6db74>&#34;Root&#34;</span>, 
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;object&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;required&#34;</span>: [
+</span></span><span style=display:flex><span>            <span style=color:#e6db74>&#34;name&#34;</span>,
+</span></span><span style=display:flex><span>            <span style=color:#e6db74>&#34;nicknames&#34;</span>
+</span></span><span style=display:flex><span>        ],
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;properties&#34;</span>: {
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;name&#34;</span>: {
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;$id&#34;</span>: <span style=color:#e6db74>&#34;#root/name&#34;</span>, 
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;title&#34;</span>: <span style=color:#e6db74>&#34;Name&#34;</span>, 
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;string&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;default&#34;</span>: <span style=color:#e6db74>&#34;&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;examples&#34;</span>: [
+</span></span><span style=display:flex><span>                    <span style=color:#e6db74>&#34;Parker&#34;</span>
+</span></span><span style=display:flex><span>                ],
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;pattern&#34;</span>: <span style=color:#e6db74>&#34;^.*$&#34;</span>
+</span></span><span style=display:flex><span>            },
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;nicknames&#34;</span>: {
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;$id&#34;</span>: <span style=color:#e6db74>&#34;#root/nicknames&#34;</span>, 
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;title&#34;</span>: <span style=color:#e6db74>&#34;Nicknames&#34;</span>, 
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;array&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;default&#34;</span>: [],
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;items&#34;</span>:{
+</span></span><span style=display:flex><span>                    <span style=color:#f92672>&#34;$id&#34;</span>: <span style=color:#e6db74>&#34;#root/nicknames/items&#34;</span>, 
+</span></span><span style=display:flex><span>                    <span style=color:#f92672>&#34;title&#34;</span>: <span style=color:#e6db74>&#34;Items&#34;</span>, 
+</span></span><span style=display:flex><span>                    <span style=color:#f92672>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;string&#34;</span>,
+</span></span><span style=display:flex><span>                    <span style=color:#f92672>&#34;default&#34;</span>: <span style=color:#e6db74>&#34;&#34;</span>,
+</span></span><span style=display:flex><span>                    <span style=color:#f92672>&#34;examples&#34;</span>: [
+</span></span><span style=display:flex><span>                        <span style=color:#e6db74>&#34;Quilled Crusader&#34;</span>
+</span></span><span style=display:flex><span>                    ],
+</span></span><span style=display:flex><span>                    <span style=color:#f92672>&#34;pattern&#34;</span>: <span style=color:#e6db74>&#34;^.*$&#34;</span>
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>            },
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;quills&#34;</span>: {
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;$id&#34;</span>: <span style=color:#e6db74>&#34;#root/quills&#34;</span>, 
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;title&#34;</span>: <span style=color:#e6db74>&#34;Quills&#34;</span>, 
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;integer&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;examples&#34;</span>: [
+</span></span><span style=display:flex><span>                    <span style=color:#ae81ff>30000</span>
+</span></span><span style=display:flex><span>                ],
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;default&#34;</span>: <span style=color:#ae81ff>0</span>
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>If this looks complicated, don&rsquo;t worry; there are many tools that will
 generate a schema from sample JSON. This is built into Power Apps and
 Power Automate, and you can generate a schema online using the <a href=https://extendsclass.com/json-schema-validator.html>JSON
 Schema Validator and
@@ -409,32 +414,32 @@ and Power Automate use schemas to determine what name/value pairs to
 expose as properties in your project, and what data types they should
 be.</p><p>You can add a property to your JSON to indicate the URL of the JSON
 schema; for example, to indicate that a file is a Microsoft Teams
-manifest, include this schema URL:</p><pre tabindex=0><code>    {
-      &#34;$schema&#34;: &#34;https://developer.microsoft.com/en-us/json-schemas/teams/v1.2/MicrosoftTeams.schema.json&#34;
-    }
-</code></pre><p>When a <code>$schema</code> property is present, Visual Studio and Visual Studio
+manifest, include this schema URL:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;$schema&#34;</span>: <span style=color:#e6db74>&#34;https://developer.microsoft.com/json-schemas/teams/v1.2/MicrosoftTeams.schema.json&#34;</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>When a <code>$schema</code> property is present, Visual Studio and Visual Studio
 Code will validate your JSON automatically and provide intellisense.
 There are a ton of schemas available
 at <a href=https://www.schemastore.org/json/>https://www.schemastore.org/json/</a> for you to reference. You can
 even reference a JSON schema in your own project by just specifying a
-relative path:</p><pre tabindex=0><code>    {
-      &#34;$schema&#34;: &#34;./myschema.json&#34;
-    }
-</code></pre><h2 id=odata>OData</h2><p>You may notice some name/value pairs in your JSON which look kind of odd
+relative path:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;$schema&#34;</span>: <span style=color:#e6db74>&#34;./myschema.json&#34;</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><h2 id=odata>OData</h2><p>You may notice some name/value pairs in your JSON which look kind of odd
 and begin with <code>@odata</code>. For example, here&rsquo;s the beginning of the data
 returned by the Microsoft Graph
 call <code>https://graph.microsoft.com/v1.0/me/messages</code> (returns messages in
-the user&rsquo;s inbox):</p><pre tabindex=0><code>    {
-      &#34;@odata.context&#34;: &#34;https://graph.microsoft.com/v1.0/$metadata#users(&#39;19671429-1359-457f-bfc1-1be1ee65d4d9&#39;)/messages&#34;,
-      &#34;@odata.nextLink&#34;: &#34;https://graph.microsoft.com/v1.0/me/messages?$skip=10&#34;,
-      &#34;value&#34;: [
-          {
-              &#34;@odata.type&#34;: &#34;#microsoft.graph.eventMessage&#34;,
-              &#34;@odata.etag&#34;: &#34;W/&#34;DQAAABYAAADcd/V5PKGOSLpB9pjjNuVqAALT5+Dw&#34;&#34;,
-              &#34;id&#34;: &#34;AAMkADIxMjk0NDNjLTJmNWItNDYzNy04MmQ2LTQyMjhkM2FjOWE3MQBGAAAAAAA7bH43fGymSJWqX6oeXPByBwDcd-V5PKGOSLpB9pjjNuVqAAAAAAEMAADcd-V5PKGOSLpB9pjjNuVqAALV0JNVAAA=&#34;,
-              &#34;createdDateTime&#34;: &#34;2020-12-16T00:14:19Z&#34;,
-              ...
-</code></pre><p><a href=https://www.odata.org/>OData</a> is a standard for doing Create, Read,
+the user&rsquo;s inbox):</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;@odata.context&#34;</span>: <span style=color:#e6db74>&#34;https://graph.microsoft.com/v1.0/$metadata#users(&#39;19671429-1359-457f-bfc1-1be1ee65d4d9&#39;)/messages&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;@odata.nextLink&#34;</span>: <span style=color:#e6db74>&#34;https://graph.microsoft.com/v1.0/me/messages?$skip=10&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;value&#34;</span>: [
+</span></span><span style=display:flex><span>          {
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.type&#34;</span>: <span style=color:#e6db74>&#34;#microsoft.graph.eventMessage&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;@odata.etag&#34;</span>: <span style=color:#e6db74>&#34;W/&#34;</span><span style=color:#960050;background-color:#1e0010>DQAAABYAAADcd/V</span><span style=color:#ae81ff>5</span><span style=color:#960050;background-color:#1e0010>PKGOSLpB</span><span style=color:#ae81ff>9</span><span style=color:#960050;background-color:#1e0010>pjjNuVqAALT</span><span style=color:#ae81ff>5</span><span style=color:#960050;background-color:#1e0010>+Dw</span><span style=color:#e6db74>&#34;&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#e6db74>&#34;AAMkADIxMjk0NDNjLTJmNWItNDYzNy04MmQ2LTQyMjhkM2FjOWE3MQBGAAAAAAA7bH43fGymSJWqX6oeXPByBwDcd-V5PKGOSLpB9pjjNuVqAAAAAAEMAADcd-V5PKGOSLpB9pjjNuVqAALV0JNVAAA=&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#f92672>&#34;createdDateTime&#34;</span>: <span style=color:#e6db74>&#34;2020-12-16T00:14:19Z&#34;</span>,
+</span></span><span style=display:flex><span>              <span style=color:#960050;background-color:#1e0010>...</span>
+</span></span></code></pre></div><p><a href=https://www.odata.org/>OData</a> is a standard for doing Create, Read,
 Update, and Delete (CRUD) operations on tabular data using a REST web
 service, and the Microsoft Graph uses it where appropriate. A folder of
 email messages is easily expressed as tabular data, so it&rsquo;s no surprise
@@ -442,8 +447,8 @@ that the Graph uses OData to work with them.
 The name/value pairs beginning with <code>@odata.</code> are OData <em>control
 information</em> used to control the flow of data. For example the value
 of <code>@odata.nextLink</code> is the URL to retrive the next set of rows in a
-large dataset. You can find details on all the OData Control
-Information <a href=http://docs.oasis-open.org/odata/odata-json-format/v4.0/cos01/odata-json-format-v4.0-cos01.html#_Toc372793050>here</a> in
+large dataset. You can find details on all the <a href=http://docs.oasis-open.org/odata/odata-json-format/v4.0/cos01/odata-json-format-v4.0-cos01.html#_Toc372793050>OData Control
+Information here</a> in
 the OData documentation.</p><h2 id=json-and-javascript>JSON and JavaScript</h2><p>Although JSON stands for &ldquo;JavaScript Object Notation&rdquo;, and was
 inspired by the format JavaScript uses for object literals, they are not
 the same. Indeed, JSON is intended to be language independent. Some
@@ -498,7 +503,7 @@ here</a></p></div></article><script src=https://utteranc.es/client.js repo=pnp/c
 </div><aside class=col-lg-4>
 <div class="widget widget-categories">
 <h4 class=widget-title><span>Categories</span></h4><ul class="list-unstyled widget-list">
-<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(32)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
+<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(33)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
 <h4 class=widget-title>Recent</h4><article class=widget-card>
 <div class=d-flex>
 <img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan_hucc1ac96e36de230086610d28c2b93163_185162_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>

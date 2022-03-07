@@ -87,9 +87,9 @@ Microsoft 365 Community Blog
 <i class="far fa-calendar-alt"></i>03 Mar, 2021
 </li><li class=list-inline-item>
 <ul class="card-meta-tag list-inline">
-<li class=list-inline-item><a href=/community-blog/categories/sharepoint>Share point</a></li><li class=list-inline-item><a href=/community-blog/categories/microsoft-graph>Microsoft graph</a></li></ul></li></ul><div class=content><p>
+<li class=list-inline-item><a href=/community-blog/categories/sharepoint>Share point</a></li><li class=list-inline-item><a href=/community-blog/categories/microsoft-graph>Microsoft graph</a></li></ul></li></ul><div class=content>
 <img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/hello-i-m-nik-n1ccr-zVG68-unsplash_hu7e0015561d098952e455e7bff58a8a23_532373_750x0_resize_q100_h2_box.webp alt=hello-i-m-nik-n1ccr-zVG68-unsplash.jpg>
-When working with Microsoft 365, we see many overlapping tools and
+<p>When working with Microsoft 365, we see many overlapping tools and
 features, and we will need (to provide) much guidance around &lsquo;when to
 use what&rsquo; for users. While most comparisons address users, I want to
 cover some more IT-related scenarios in this blog post. Specifically, I
@@ -98,14 +98,14 @@ Automate and Azure Logic Apps to send HTTP requests. If you are not
 familiar with that, don&rsquo;t fret; continue to read my blog post
 about <a href=https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/>how to get started with http requests in Power
 Automate</a>,
-I will grab a coffee :hot_beverage: in the meanwhile.</p><p>Back again? Cool. Let me introduce you to our</p><h2 id=use-case>[]use case</h2><p>We want to create a new SharePoint list and add some columns based on
+I will grab a coffee :hot_beverage: in the meanwhile.</p><p>Back again? Cool. Let me introduce you to our</p><h2 id=use-case>use case</h2><p>We want to create a new SharePoint list and add some columns based on
 the user&rsquo;s input using Power Automate or Azure Logic Apps. When we look
 at the different available SharePoint actions in Power Automate, we will
 see that there is no &lsquo;create a list&rsquo; and no &lsquo;add column to SharePoint
-list&rsquo; action, but that we could try out something with <a href=https://docs.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request>&lsquo;send an HTTP
+list&rsquo; action, but that we could try out something with <a href=https://docs.microsoft.com/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request>&lsquo;send an HTTP
 request to
 SharePoint&rsquo;</a></p><h3 id=option-no-1-sharepoint-rest>Option No. 1: SharePoint REST</h3><p>The &lsquo;send an HTTP request to SharePoint&rsquo; action uses SharePoint REST
-API. To create a list, we can look up <a href=https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest>working with lists and lists
+API. To create a list, we can look up <a href=https://docs.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest>working with lists and lists
 items</a> and
 see that we need to send a POST request to
 the <code>https://{site_url}/_api/web/lists</code> endpoint and specify in the body
@@ -147,7 +147,7 @@ whatever suits your use case.</p><h4 id=send-an-http-request-to-sharepoint---cre
   }
 </code></pre><p>as body- make sure you replace the placeholder with Dynamic Content:</p><p>{#tinyMceEditorLuise Freese_1 .mceNonEditable .lia-copypaste-placeholder}
  </p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/sendhttprequest_huf3d1c45b2d7b23a9a85426f5f6b08ba1_96362_734x0_resize_q100_h2_box_3.webp alt=sendhttprequest.png>
-<p> </p><h4 id=parse-json>Parse JSON</h4><p>Now we want to add a column. Let&rsquo;s have a look <a href=https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest>into the
+<p> </p><h4 id=parse-json>Parse JSON</h4><p>Now we want to add a column. Let&rsquo;s have a look <a href=https://docs.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest>into the
 documentation</a>,
 how we can do this.</p><pre><code>POST https://{site_url}/_api/web/lists(guid'{list_guid}')/Fields
 Authorization: &quot;Bearer &quot; + accessToken
@@ -180,20 +180,20 @@ will create us a column:</p><ul>
 <li>Select the site of your choice from the dropdown menu</li><li>Select method <strong>Post</strong></li><li>enter <code>_api/web/lists(guid'@{body('Parse_JSON')?['d']?['Id']}')/Fields</code>as
 URI (replace the placeholder with Dynamic content)</li><li>enter Headers as follows:
 <ul>
-<li><code>Content-type</code> : <code>application/json;odata=verbose</code></li><li><code>accept</code>:<code>application/json;odata=verbose</code> enter in the Body:</li></ul></li></ul><pre tabindex=0><code>    {
-      &#34;__metadata&#34;: {
-        &#34;type&#34;: &#34;SP.Field&#34;
-      },
-      &#34;Title&#34;: &#34;@{triggerBody()[&#39;text_2&#39;]}&#34;,
-      &#34;FieldTypeKind&#34;: 2,
-      &#34;Required&#34;: &#34;false&#34;,
-      &#34;EnforceUniqueValues&#34;: &#34;false&#34;,
-      &#34;StaticName&#34;: &#34;@{triggerBody()[&#39;text_2&#39;]}&#34;
-    }
-</code></pre><ul>
+<li><code>Content-type</code> : <code>application/json;odata=verbose</code></li><li><code>accept</code>:<code>application/json;odata=verbose</code> enter in the Body:</li></ul></li></ul><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;__metadata&#34;</span>: {
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;SP.Field&#34;</span>
+</span></span><span style=display:flex><span>      },
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;Title&#34;</span>: <span style=color:#e6db74>&#34;@{triggerBody()[&#39;text_2&#39;]}&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;FieldTypeKind&#34;</span>: <span style=color:#ae81ff>2</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;Required&#34;</span>: <span style=color:#e6db74>&#34;false&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;EnforceUniqueValues&#34;</span>: <span style=color:#e6db74>&#34;false&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;StaticName&#34;</span>: <span style=color:#e6db74>&#34;@{triggerBody()[&#39;text_2&#39;]}&#34;</span>
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><ul>
 <li>Please replace again all placeholder by Dynamic content</li></ul><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/sendhttprequest2_hu6a9c9667d9fce1bd2e057b14df68ca48_93617_733x0_resize_q100_h2_box_3.webp alt=sendhttprequest2.png>
 <p>Should you stumble upon the FieldTypeKind, please find
-reference <a href="https://docs.microsoft.com/en-us/previous-versions/office/sharepoint-csom/ee540543(v=office.15)">here</a> -
+reference here:  <a href="https://docs.microsoft.com/previous-versions/office/sharepoint-csom/ee540543(v=office.15)">FieldTypeKind</a> -
 2 means &lsquo;single line of text&rsquo;.</p><p>If you want to run your flow, please think about changing the list name
 because you already created a list!</p><p>If we now control our newly created SharePoint list, we will see that
 our new column doesn&rsquo;t show up in the default view but that we need to
@@ -210,27 +210,27 @@ means that you won&rsquo;t need a Power Automate Standalone license</li></ul><h4
 the power of Microsoft Graph API - limited options, as you can only
 send requests to SharePoint, but not to other services in Microsoft
 365-</li><li>to add the new column to our default view, we need 3 HTTP requests -
-which makes the flow unnecessarily more complex</li></ul><h3 id=option-no-2-microsoft-graph-api>}Option No. 2: Microsoft Graph API</h3><p>Let&rsquo;s see how we can create a SharePoint list or library and columns in
+which makes the flow unnecessarily more complex</li></ul><h3 id=option-no-2-microsoft-graph-api>Option No. 2: Microsoft Graph API</h3><p>Let&rsquo;s see how we can create a SharePoint list or library and columns in
 it using Microsoft Graph. Microsoft Graph is a super powerful set of
 APIs that gives you a consistent experience for authentication,
-documentation, and samples. You can try it out on <a href=https://developer.microsoft.com/en-us/graph/graph-explorer>Microsoft Graph
+documentation, and samples. You can try it out on <a href=https://developer.microsoft.com/graph/graph-explorer>Microsoft Graph
 Explorer</a>.
 For full documentation please
-continue <a href=https://docs.microsoft.com/en-us/graph/overview>here</a>. If you
+continue here: <a href=https://docs.microsoft.com/graph/overview>Microsoft Graph Docs</a>. If you
 are not familiar with using Microsoft Graph in Power Automate, <a href=https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/>please
 continue to read
 here</a>
 time for another coffee for me then :)</p><h4 id=mobile-flow-trigger>mobile flow trigger</h4><p>Again, to make things easy, we will use the same trigger as in Option
-No. 1.:</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/mobileflowtrigger_hucf3b3316b85115424c368c1fb6c4cf63_54025_750x0_resize_q100_h2_box_3.webp alt=mobileflowtrigger.png>
+No. 1.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/mobileflowtrigger_hucf3b3316b85115424c368c1fb6c4cf63_54025_750x0_resize_q100_h2_box_3.webp alt=mobileflowtrigger.png>
 <h4 id=http-action>HTTP action</h4><p>Now that we registered our app in Azure AD, we can continue with the
-HTTP action in Power Automate.</p><p>To create a list, we will look up <a href="https://docs.microsoft.com/en-us/graph/api/list-create?view=graph-rest-1.0&tabs=http">documentation
+HTTP action in Power Automate.</p><p>To create a list, we will look up <a href="https://docs.microsoft.com/graph/api/list-create?view=graph-rest-1.0&tabs=http">documentation
 here</a> and
 see that we will need to send a POST request to</p><p><code>https://graph.microsoft.com/v1.0/sites/{site-id}/lists</code></p><p>And that we will need to add permissions to be able to call this API.
 Our HTTP request requires authentication, which can be done via Azure
 Active Directory OAuth, but we will first need to represent our app
 (yes, this flow that calls Microsoft Graph is an application) in Azure
 AD.</p><p>We will follow these steps to register an app in Azure AD:</p><ul>
-<li>Go to portal.azure.com and log in</li><li>Click app registrations</li><li>Click New App registration</li><li>Give your app a nice name</li><li>Save tenant ID and Client(app) ID somewhere (notepad or similar)</li><li>Click <strong>API PERMISSIONS</strong> and select Microsoft Graph</li></ul><p>Now look up the permissions needed for this action: <a href="https://docs.microsoft.com/en-us/graph/api/list-create?view=graph-rest-1.0&tabs=http">Create a new
+<li>Go to portal.azure.com and log in</li><li>Select app registrations</li><li>Select New App registration</li><li>Give your app a nice name</li><li>Save tenant ID and Client(app) ID somewhere (notepad or similar)</li><li>Click <strong>API PERMISSIONS</strong> and select Microsoft Graph</li></ul><p>Now look up the permissions needed for this action: <a href="https://docs.microsoft.com/graph/api/list-create?view=graph-rest-1.0&tabs=http">Create a new
 list</a>:</p><p>Application Sites.ReadWrite.All</p><ul>
 <li>Select all these permissions</li><li>Grant Admin consent</li><li>Click <strong>Certificates & secrets</strong></li><li>Click <strong>New client secret</strong></li><li>Type in a description</li><li>Click <strong>Add</strong></li><li>Copy the value and save it in your notepad (you will need that
 later)</li></ul><h4 id=initialize-variables-for-tenant-id-app-id-and-app-secret>Initialize variables for Tenant ID, App ID and App Secret</h4><p>Create three different string variables with the copied values of Tenant
@@ -238,20 +238,20 @@ ID, App ID, and App Secret</p><h4 id=http-action-to-create-a-list>HTTP action to
 your flow and fill it out as follows:</p><ul>
 <li>Method: Post</li><li>URI: <code>https://graph.microsoft.com/v1.0/sites/{site-id}/lists</code> - You
 can obtain the site-id from a request in Graph
-Explorer: <code>https://graph.microsoft.com/v1.0/sites?search=keyword</code></li><li>add <strong>Content-Type</strong>: <strong>application/json</strong> to the Headers</li><li>enter as body:</li></ul><pre tabindex=0><code>    {
-        &#34;displayName&#34;: &#34;@{triggerBody()[&#39;text&#39;]}&#34;,
-        &#34;columns&#34;: [
-            {
-                &#34;name&#34;: &#34;@{triggerBody()[&#39;text_2&#39;]}&#34;,
-                &#34;text&#34;: {}
-            }
-        ],
-        &#34;list&#34;: {
-            &#34;template&#34;: &#34;genericList&#34;
-        }
-    }
-</code></pre><p>Replace the placeholders by Dynamic Content If you stumble off
-the <code>genericList,</code> please <a href="https://docs.microsoft.com/en-us/previous-versions/office/sharepoint-server/ee541191(v=office.15)">read here for
+Explorer: <code>https://graph.microsoft.com/v1.0/sites?search=keyword</code></li><li>add <strong>Content-Type</strong>: <strong>application/json</strong> to the Headers</li><li>enter as body:</li></ul><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;displayName&#34;</span>: <span style=color:#e6db74>&#34;@{triggerBody()[&#39;text&#39;]}&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;columns&#34;</span>: [
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;@{triggerBody()[&#39;text_2&#39;]}&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#f92672>&#34;text&#34;</span>: {}
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>        ],
+</span></span><span style=display:flex><span>        <span style=color:#f92672>&#34;list&#34;</span>: {
+</span></span><span style=display:flex><span>            <span style=color:#f92672>&#34;template&#34;</span>: <span style=color:#e6db74>&#34;genericList&#34;</span>
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>    }
+</span></span></code></pre></div><p>Replace the placeholders by Dynamic Content If you stumble off
+the <code>genericList,</code> please <a href="https://docs.microsoft.com/previous-versions/office/sharepoint-server/ee541191(v=office.15)">read here for
 reference</a> about
 other list templates like libraries.</p><p>If you need to add more columns, you can do that by</p><pre><code>{
     &quot;displayName&quot;: &quot;@{triggerBody()['text']}&quot;,
@@ -277,11 +277,11 @@ other list templates like libraries.</p><p>If you need to add more columns, you 
 <li>Click <strong>Advanced Options</strong></li><li>Select <strong>Active Directory OAuth</strong></li><li>Enter <code>https://login.microsoftonline.com</code> as Authority</li><li>Enter the Tenant ID variable as Tenant</li><li>Enter <code>https://graph.microsoft.com</code> as Audience</li><li>Enter the App ID variable as Client ID</li><li>Select <strong>Secret</strong> as Credential Type</li><li>Enter the App Secret variable as Secret</li></ul><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/varsandhttp_hu02fae4960901ca5cd68c0d3e1725cced_88169_437x0_resize_q100_h2_box_3.webp alt=varsandhttp.png>
 <p> 
 When we now run our flow, we will see that the columns that we created
-are already visible in the default view.</p><h3 id=advantages-of-this-solution-1>Advantages of this solution:</h3><ul>
+are already visible in the default view.</p><h3 id=advantages-of-this-solution-1>Advantages of this solution</h3><ul>
 <li>We only need one HTTP request to Create a list, columns and have the
 columns in the default view</li><li>If our flow gets more complex over time and we provision more things
 in not only SharePoint, we can do this with Microsoft Graph as well
-and extend our permission scope in Azure AD app registration</li></ul><h3 id=disadvantages-of-this-solution-1>Disadvantages of this solution:</h3><ul>
+and extend our permission scope in Azure AD app registration</li></ul><h3 id=disadvantages-of-this-solution-1>Disadvantages of this solution</h3><ul>
 <li>Because HTTP is a premium connector, we will need a Power Apps
 Standalone license</li><li>We also need to register an app in Azure AD</li></ul><h2 id=bonus-chapter-what-about-cli-microsoft-365>Bonus Chapter: What about CLI Microsoft 365?</h2><p>If you read one of my previous blog posts about <a href=https://m365princess.com/how-to-get-started-with-cli-microsoft-365-and-adaptive-cards/>How to get started with
 CLI Microsoft 365 and Adaptive
@@ -294,7 +294,7 @@ over to the <a href=https://pnp.github.io/cli-microsoft365>full
 documentation</a>. After you
 installed CLI Microsoft 365, open a shell that makes you happy (I use
 PowerShell inside Visual Studio Code Terminal).</p><h3 id=login>Login</h3><ul>
-<li>Run <code>m365 login</code></li><li>Copy the Login Code, click on the link</li><li>Paste the Login Code</li><li>Select the user you want to log in with from the list</li><li>Return to your shell window</li></ul><h3 id=create-a-list>Create a list</h3><ul>
+<li>Run <code>m365 login</code></li><li>Copy the Login Code, select the link</li><li>Paste the Login Code</li><li>Select the user you want to log in with from the list</li><li>Return to your shell window</li></ul><h3 id=create-a-list>Create a list</h3><ul>
 <li>Run <code>m365 spo list add --title Awesome%20List --baseTemplate DocumentLibrary --webUrl https://xxx.sharepoint.com/sites/yyy</code> by
 replacing <code>xxx</code>by your tenantname and <code>yyy</code> by your sitename</li></ul><h3 id=add-fields-and-more>Add fields and more</h3><p>You can now run even more commands to add fields, make them required,
 add them to default view, and so on, <a href=https://pnp.github.io/cli-microsoft365/cmd/spo/field/field-add/>feel free to try it
@@ -310,7 +310,7 @@ are your use cases? Please reply below; I am curious!</p><p> 
 </div><aside class=col-lg-4>
 <div class="widget widget-categories">
 <h4 class=widget-title><span>Categories</span></h4><ul class="list-unstyled widget-list">
-<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(32)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
+<li><a href=/community-blog/categories/adaptive-card-extensions-aces class=d-flex>Adaptive card extensions aces <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/adaptive-cards class=d-flex>Adaptive cards <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/adaptive-cards-community-call-recordings class=d-flex>Adaptive cards community call recordings <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/azure class=d-flex>Azure <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/azure-logic-apps class=d-flex>Azure logic apps <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/cli-for-microsoft-365 class=d-flex>CLI for microsoft 365 <small class=ml-auto>(29)</small></a></li><li><a href=/community-blog/categories/dataverse class=d-flex>Dataverse <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365 class=d-flex>Microsoft 365 <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community class=d-flex>Microsoft 365 community <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-spotlight class=d-flex>Microsoft 365 community spotlight <small class=ml-auto>(9)</small></a></li><li><a href=/community-blog/categories/microsoft-365-community-update class=d-flex>Microsoft 365 community update <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-community-call-recordings class=d-flex>Microsoft 365 developer community call recordings <small class=ml-auto>(22)</small></a></li><li><a href=/community-blog/categories/microsoft-365-developer-podcast class=d-flex>Microsoft 365 developer podcast <small class=ml-auto>(24)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-call-recordings class=d-flex>Microsoft 365 platform call recordings <small class=ml-auto>(21)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community class=d-flex>Microsoft 365 platform community <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/microsoft-365-platform-community-update class=d-flex>Microsoft 365 platform community update <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/microsoft-graph class=d-flex>Microsoft graph <small class=ml-auto>(14)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-community-call-recordings class=d-flex>Microsoft graph community call recordings <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-tookit class=d-flex>Microsoft graph tookit <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-graph-toolkit class=d-flex>Microsoft graph toolkit <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/microsoft-identity-platform-community-call-recordings class=d-flex>Microsoft identity platform community call recordings <small class=ml-auto>(6)</small></a></li><li><a href=/community-blog/categories/microsoft-teams class=d-flex>Microsoft teams <small class=ml-auto>(15)</small></a></li><li><a href=/community-blog/categories/microsoft-teams-community-call-recordings class=d-flex>Microsoft teams community call recordings <small class=ml-auto>(4)</small></a></li><li><a href=/community-blog/categories/microsoft-viva class=d-flex>Microsoft viva <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings class=d-flex>Microsoft viva and spfx community call recordings <small class=ml-auto>(27)</small></a></li><li><a href=/community-blog/categories/office-add-in-developer-community-call-recordings class=d-flex>Office add in developer community call recordings <small class=ml-auto>(16)</small></a></li><li><a href=/community-blog/categories/pnp-modern-search class=d-flex>Pnp modern search <small class=ml-auto>(3)</small></a></li><li><a href=/community-blog/categories/pnp-powershell class=d-flex>Pnp powershell <small class=ml-auto>(7)</small></a></li><li><a href=/community-blog/categories/pnp-weekly class=d-flex>Pnp weekly <small class=ml-auto>(28)</small></a></li><li><a href=/community-blog/categories/pnpjs class=d-flex>Pnpjs <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-apps class=d-flex>Power apps <small class=ml-auto>(13)</small></a></li><li><a href=/community-blog/categories/power-apps-community-call-recordings class=d-flex>Power apps community call recordings <small class=ml-auto>(10)</small></a></li><li><a href=/community-blog/categories/power-automate class=d-flex>Power automate <small class=ml-auto>(33)</small></a></li><li><a href=/community-blog/categories/power-platform class=d-flex>Power platform <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/power-virtual-agents class=d-flex>Power virtual agents <small class=ml-auto>(2)</small></a></li><li><a href=/community-blog/categories/sharepoint class=d-flex>Sharepoint <small class=ml-auto>(51)</small></a></li><li><a href=/community-blog/categories/spfx class=d-flex>Spfx <small class=ml-auto>(1)</small></a></li><li><a href=/community-blog/categories/tooling class=d-flex>Tooling <small class=ml-auto>(14)</small></a></li></ul></div><div class=widget>
 <h4 class=widget-title>Recent</h4><article class=widget-card>
 <div class=d-flex>
 <img loading=lazy decoding=async width=1865 height=1050 src=/community-blog/images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan_hucc1ac96e36de230086610d28c2b93163_185162_85x85_fill_q100_h2_box_smart1_3.webp class=card-img-sm loading=lazy alt=post-thumb>
