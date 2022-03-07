@@ -34,7 +34,7 @@ has to go installing certs.]
 > the first place) it's very popular and well supported! If you need
 > help, search on "Create React App" and you can find a plethora of
 > helpful articles; [this
-> one](https://dev.to/ganeshagrawal/how-to-setup-https-locally-with-create-react-app-e46) helped
+> one](https://dev.to/maximization/setup-https-in-development-with-create-react-app-3ien) helped
 > me figure this out!
 
 ## Step 1: Create and trust a certificate authority (CA) 
