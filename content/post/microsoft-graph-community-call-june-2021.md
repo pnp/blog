@@ -5,15 +5,10 @@ author: "Brian Jackett"
 githubname: briantjackett
 categories: ["Microsoft Graph community call recordings"]
 images:
-- images/blog/microsoft-graph-community-call-june-2021/BrianTJackett.png
+- images/blog/microsoft-graph-community-call-june-2021/MicrosoftGraphTHumbnail-June2021.png
 tags: []
 type: "regular"
-
 ---
-
-
-![Microsoft Graph THumbnail - June
-2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285511i65B8ACEEF6F49B52/image-size/large?v=v2&px=999 "Microsoft Graph THumbnail - June 2021.png")
  
 This month's community call features presentations on Assignment Graph
 API (v1.0 will be released to Microsoft Teams EDU tenants within days),

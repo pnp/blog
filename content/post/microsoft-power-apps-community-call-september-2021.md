@@ -12,9 +12,6 @@ type: "regular"
 
 ---
 
-{{< image alt="powerapps-recording.jpg" src="images/blog/microsoft-power-apps-community-call-september-2021/powerapps-recording.jpg" >}}
-
- 
 
 ## Call summary
 

@@ -5,15 +5,13 @@ author: "Brian Jackett"
 githubname: briantjackett
 categories: ["Microsoft Graph community call recordings"]
 images:
-- images/blog/microsoft-graph-community-call-may-2021/BrianTJackett.png
+- images/blog/microsoft-graph-community-call-may-2021/TitleSlideThumbnail.png
 tags: []
 type: "regular"
 
 
 ---
-{{< image alt="TitleSlideThumbnail.png" src="images/blog/microsoft-graph-community-call-may-2021/TitleSlideThumbnail.png" >}}
 
- 
 
 This month's community call features presentations on Application
 Consent Deep Dive (demystifying permissions and consent when accessing

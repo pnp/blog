@@ -11,9 +11,6 @@ type: "regular"
 
 ---
 
-
-{{< image alt="GraphFun.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-1/GraphFun.png" >}}
-
 This blog post will summarize how I did the brand new [Microsoft Graph
 Fundamentals Learning
 path](https://docs.microsoft.com/learn/paths/m365-msgraph-fundamentals/).

@@ -13,8 +13,6 @@ type: "regular"
 ---
 
 
-{{< image alt="ApTriggeredStep-up.png" src="images/blog/microsoft-identity-platform-community-call-may-2021/ApTriggeredStep-up.png" >}}
-
 ## Call summary
 
 

@@ -11,8 +11,6 @@ type: "regular"
 
 ---
 
-{{< image alt="identity-call-THumbnail-November-2021.png" src="images/blog/microsoft-identity-platform-community-call-december-2021/identity-call-THumbnail-November-2021.png" >}}
- 
 
 ## Call summary
 
