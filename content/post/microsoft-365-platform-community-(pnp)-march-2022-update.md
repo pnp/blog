@@ -285,7 +285,7 @@ These are the updated SharePoint Framework samples which are available from the 
 * New sample by [Jeffin Jacob](https://github.com/jeffinjacob) | jeffinjacob[react-datatable-using-mui-tables](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable-using-mui-tables)
 * New sample [PrimaryTextCard-MyShifts](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-MyShifts) by [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh_me, that shows how to build an ACE with a PrimaryText card view and a quick view to display current logged in user's immediate upcoming shift in card view and all upcoming shifts in Quick view
 * New sample [PrimaryTextCard-Graph-JoinNewTeams](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-Graph-JoinNewTeams) by [Aimery Thomas](https://www.twitter.com/aimery_thomas) | @aimery_thomas, that shows how to build an ACE that displays recently created Teams
-* New sample [BasicCard-MonitorSecurity](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-MonitorSecurity) by [Arjijit Mondal](https://github.com/ArijitCloud) (Microsoft) | ArijitCloud, that provides a security monitoring feature using identity protection graph endpoint and ACE https://github.com/ArijitCloud
+* New sample [BasicCard-MonitorSecurity](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-MonitorSecurity) by [Arjijit Mondal](https://github.com/ArijitCloud) (Microsoft) | ArijitCloud, that provides a security monitoring feature using identity protection graph endpoint and ACE h
 * New sample [ImageCard-OfficeLocations](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-OfficeLocations) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells, that shows how to build an ACE with multiple card views to show the details of the offices in an organization.
 * New sample [PrimaryTextCard-FootballStats](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-FootballStats) by [Soumit Mukherjee](https://twitter.com/msoumit) | @msoumit, [Soumyadeep Mukherjee](https://github.com/soumyadeep2207) | soumyadeep2207, and [Sourav Paul](https://twitter.com/spsouravp) | @spsouravp, that allows users to choose one of the top five European Football League to get information about current team standing
 * New sample [ace-designtemplate-gallery](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-designtemplate-gallery) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @spdcp, that provides a set of twelve (12) Adaptive Card Extensions to demonstrate different ways to style the quick view with more detailed layouts
@@ -363,6 +363,8 @@ For more information, you can watch this video on [Publish a connector to the Pu
 The "Sharing Is Caring" initative is targeted for learning the basics around making changes in Microsoft Docs, in GitHub, submitting pull requests to the PnP repositories and in GitHub in general. Take advantage of this instructor lead training for learning how to contribute to docs or to open-source solutions. Everyone is welcome to learn how to get started on contributing to open-source docs or code!
 
 See more from the [guidance documentation](https://pnp.github.io/sharing-is-caring/) - including all upcoming instructor lead sessions which you can participate!
+
+//TODO lookup contributors in these initiatives
 
 ## ✍ Different Microsoft 365 related open-source initiatives build together with the community
 
@@ -492,6 +494,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Ganesh R](https://twitter.com/geekwhocodes) (RapidCircle) | @geekwhocodes
 * [Ganesh Sanap](https://www.twitter.com/GaneshSanap20) (Globant) | @GaneshSanap20
 * [Garrick George](https://www.twitter.com/kod3m0ng3r) (City of Thornton) | @kod3m0ng3r
+* [@mahajang](https://twitter.com/mahajang) | @mahajang 
 * [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @gautamdsheth
 * [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
 * [Giacomo Pozzoni](https://github.com/jackpoz) (Fellowmind) | jackpoz
