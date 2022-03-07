@@ -277,8 +277,17 @@ Have ideas for articles or want to contribute yourself? - Get involved! Here are
 
 These are the updated SharePoint Framework samples which are available from the different repositories.
 
-* New sample react-my-approvals by Takashi Shinohara  | @karamem0, that displays the list of approval requests of Power Automate
-* Other adjustments to numerous samples by our awesome community members!
+* Updated sample [react-datatable](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable) by [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani_SPD
+* Updated sample [react-functional-component-with-data-fetch](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-functional-component-with-data-fetch) by  [Don Kirkham](https://twitter.com/DonKirkham) | @DonKirkham
+* New sample [React-PPW-HTML](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-ppw-html) by [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint, that showcases the use of the Property Pane Wrap to embed HTML controls in the SPFx Property Pane
+* New sample [react-flow-button](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-flow-button) by [Takashi Shinohara](https://twitter.com/karamem0)  | @karamem0, that demonstrates displaying the list of flow button of Power Automate
+* New sample by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
+* New sample by [Jeffin Jacob](https://github.com/jeffinjacob) | jeffinjacob[react-datatable-using-mui-tables](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable-using-mui-tables)
+* New sample [PrimaryTextCard-MyShifts](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-MyShifts) by [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh_me, that shows how to build an ACE with a PrimaryText card view and a quick view to display current logged in user's immediate upcoming shift in card view and all upcoming shifts in Quick view
+* New sample [PrimaryTextCard-Graph-JoinNewTeams](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-Graph-JoinNewTeams) by [Aimery Thomas](https://www.twitter.com/aimery_thomas) | @aimery_thomas, that shows how to build an ACE that displays recently created Teams
+* New sample [BasicCard-MonitorSecurity](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-MonitorSecurity) by [Arjijit Mondal](https://github.com/ArijitCloud) (Microsoft) | ArijitCloud, that provides a security monitoring feature using identity protection graph endpoint and ACE https://github.com/ArijitCloud
+* New sample [ImageCard-OfficeLocations](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-OfficeLocations) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells, that shows how to build an ACE with multiple card views to show the details of the offices in an organization.
+* New sample [PrimaryTextCard-FootballStats](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-FootballStats) by [Soumit Mukherjee](https://twitter.com/msoumit) | @msoumit, [Soumyadeep Mukherjee](https://github.com/soumyadeep2207) | soumyadeep2207, and [Sourav Paul](https://twitter.com/spsouravp) | @spsouravp, that allows users to choose one of the top five European Football League to get information about current team standing
 
 How to find what's relevant for you? Take advantage of our SharePoint Framework web part and extension sample galleries - also includes solutions which work in Microsoft Teams
 
@@ -341,9 +350,7 @@ These are the latest connectors:
 
 ![Sharing Is Caring](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/sharing-is-caring.png)
 
- 
-
-The "Sharing Is Caring" imitative is targeted for learning the basics around making changes in Microsoft Docs, in GitHub, submitting pull requests to the PnP repositories and in GitHub in general. Take advantage of this instructor lead training for learning how to contribute to docs or to open-source solutions. Everyone is welcome to learn how to get started on contributing to open-source docs or code!
+The "Sharing Is Caring" initative is targeted for learning the basics around making changes in Microsoft Docs, in GitHub, submitting pull requests to the PnP repositories and in GitHub in general. Take advantage of this instructor lead training for learning how to contribute to docs or to open-source solutions. Everyone is welcome to learn how to get started on contributing to open-source docs or code!
 
 See more from the [guidance documentation](https://pnp.github.io/sharing-is-caring/) - including all upcoming instructor lead sessions which you can participate!
 
@@ -427,6 +434,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent
 * Chris Sparrow (PA Consulting)
 * [Christian Zuellig](https://github.com/czullu) (Monday Coffee) | czullu
+* [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
 * [Christopher Graves ](https://www.twitter.com/Christo48927551)(Arvato) | @Christo48927551
 * [Clavin Fernandes](https://www.twitter.com/clavinfernandes) (Rapid Circle) | @clavinfernandes 
 * [Clement Olivier](https://twitter.com/Clement0livier) | @Clement0livier
@@ -444,6 +452,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @spdcp
 * [Dipen Shah](https://www.twitter.com/Dips_365) (Rapid Circle) | @Dips_365
 * Edmund David (Insentra)
+* [Don Kirkham](https://twitter.com/DonKirkham) | @DonKirkham
 * [Edris Kakembo](https://www.twitter.com/kaxeddie) (WFP) | @kaxeddie
 * [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @eliostruyf
 * Elise Yang (Shopify) | * [elisenyang](https://github.com/elisenyang)
@@ -559,7 +568,10 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @simondoy
 * [Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @simonjhudson
 * [Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
-* [Someleze Diko](https://twitter.com/DikoSomeleze) | @DikoSomeleze  
+* [Someleze Diko](https://twitter.com/DikoSomeleze) | @DikoSomeleze
+* [Soumit Mukherjee](https://twitter.com/msoumit) | @msoumit
+* [Soumyadeep Mukherjee](https://github.com/soumyadeep2207) | soumyadeep2207
+* [Sourav Paul](https://twitter.com/spsouravp) | @spsouravp
 * Sorina Becheru (abtis GmbH)
 * [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 * [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @stephanbisser
@@ -627,7 +639,7 @@ Here's the companies, which provided support the community initiative for this 
 Here’s the list of Microsoft people who have been closely involved with the Microsoft 365 Platform community work during last month.
 
 * [Aakash Bhardwaj](https://twitter.com/aakash_316) (Microsoft) | @aakash_316
-*  Abid Rahman (Microsoft) 
+* Abid Rahman (Microsoft) 
 * [Alex Terentiev](https://twitter.com/alexaterentiev) | @alexaterentiev
 * Aline Tognini - [alinefmr](https://github.com/alinefmr)
 * Allen Snow - [@asnow003](https://twitter.com/asnow003)
