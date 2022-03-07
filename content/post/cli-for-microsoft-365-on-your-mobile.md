@@ -13,7 +13,7 @@ summary: "CLI for Microsoft 365 is a cross platform command line tool you may us
 # Taxonomies
 categories: ["CLI for Microsoft 365","PnP PowerShell"]
 tags: []
-type: "epic" # available type (epic, trending, popular, or regular)
+type: "regular" # available type (epic, trending, popular, or regular)
 
 ---
 > *"Hey, do you have 5 min?"*\

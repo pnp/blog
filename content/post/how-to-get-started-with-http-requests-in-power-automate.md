@@ -7,7 +7,7 @@ categories: ["Power Automate", "Microsoft Graph"]
 images:
 - images/blog/how-to-get-started-with-http-requests-in-power-automate/explorer.jpg
 tags: []
-type: "epic"
+type: "popular"
 
 
 ---
