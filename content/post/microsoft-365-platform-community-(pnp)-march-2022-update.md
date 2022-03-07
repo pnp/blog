@@ -314,9 +314,11 @@ If you are interested on Microsoft Teams samples, we have just released also new
 
 ![Power Platform samples](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/powerplatform-samples.png)
 
-* New sample [dataverse-admin](https://github.com/pnp/powerapps-samples/tree/main/samples/dataverse-admin) by [Vivek Bavishi](https://twitter.com/that_api_guy) | @that_API_guy
-* New sample [sharepoint-events](https://github.com/pnp/powerapps-samples/tree/main/samples/sharepoint-events) by [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @sharepointalex
-
+* New Power Apps sample [dataverse-admin](https://github.com/pnp/powerapps-samples/tree/main/samples/dataverse-admin) by [Vivek Bavishi](https://twitter.com/that_api_guy) | @that_API_guy
+* New Power Apps sample [sharepoint-events](https://github.com/pnp/powerapps-samples/tree/main/samples/sharepoint-events) by [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @sharepointalex
+* New Power Automate sample [sharepoint-hide-list-site-contents](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-hide-list-site-contents) by [Michel Carlo](https://twitter.com/michelcarlo) | @michelcarlo
+* New Power Automate sample [teams-adaptive-card-reminders-from-lists](https://github.com/pnp/powerautomate-samples/tree/main/samples/teams-adaptive-card-reminders-from-lists) by [Norm Young](https://twitter.com/stormin_30) | @Norm Young
+* New Power Automate sample [o365groups-graph-create-group](https://github.com/pnp/powerautomate-samples/tree/main/samples/o365groups-graph-create-group) by [Michel Carlo](https://twitter.com/michelcarlo) | @michelcarlo
 
 There was also numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location
 
@@ -537,6 +539,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Naveen Karla](https://www.twitter.com/naveen67) | @naveen67
 * [Nikki Chapple](https://www.twitter.com/chapplenikki) (Cloudway) | @chapplenikki
 * [Nikki Chapple](https://www.twitter.com/chapplenikki) (NTT Cloud Communications) | @chapplenikki
+* [Norm Young](https://twitter.com/stormin_30) | @Norm Young
 * [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Patrick de Lanoy](https://www.twitter.com/empowerpatrick) (EmpowerTech) | @empowerpatrick
 * [Patrick Doran](https://twitter.com/swearpointjs) (NCDIT) | @swearpointjs
