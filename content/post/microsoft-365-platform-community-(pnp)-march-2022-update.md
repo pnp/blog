@@ -56,7 +56,7 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 * 7th of February - Siddharth Vaghasia | @siddh_me - How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs)
 
-### Community call recording blog posts:
+### Community call recording blog posts
 
 * 4th of February - Microsoft 365 Developer Community Call recording – 3rd of February, 2022
 
@@ -564,7 +564,7 @@ Here's the companies, which provided support the community initiative for this 
 * [Valo](https://www.valointranet.com/)
 * [Voitanos](https://www.voitanos.io/)  
 
-### Microsoft people:
+### Microsoft people
 
 Here’s the list of Microsoft people who have been closely involved with the Microsoft 365 Platform community work during last month.
 
