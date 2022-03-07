@@ -305,7 +305,8 @@ How to find what's relevant for you? Take advantage of our SharePoint Framework 
 
 These are samples which have been contributed on the community samples since last summary. We do welcome all Microsoft Teams samples to this gallery. They can be implemented using in any technology.
 
-Numerous adjustments on existing samples and solutions
+* New sample [tab-react-router](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-react-router) by [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh_me, that shows how to use React Router with Teams App project generated using Yo teams
+* Numerous adjustments on existing samples and solutions
  
 If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://pnp.github.io/teams-dev-samples/). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
 
@@ -457,6 +458,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * Edmund David (Insentra)
 * [Don Kirkham](https://twitter.com/DonKirkham) | @DonKirkham
 * [Edris Kakembo](https://www.twitter.com/kaxeddie) (WFP) | @kaxeddie
+* [Eduardo Cáceres](https://github.com/eduherminio) | eduherminio
 * [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @eliostruyf
 * Elise Yang (Shopify) | * [elisenyang](https://github.com/elisenyang)
 * [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content and Cloud) | @EjazHussain_
