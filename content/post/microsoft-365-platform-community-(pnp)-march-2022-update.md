@@ -334,20 +334,20 @@ We have released new Microsoft 365 Script Sample gallery within past month. We w
 
 Here are the latest updates on the Script Samples
 
-- Updated [Remove orphaned redirect sites](https://pnp.github.io/script-samples/spo-remove-orphaned-redirect-sites/README.html) by [Leon Armston](https://twitter.com/LeonArmston)  (Intelogy) | @LeonArmston
-- Updated [Get Site Usage Reports And Export It To CSV](https://pnp.github.io/script-samples/spo-export-site-usage-reports/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
-- New [Analyze users for known data breaches with have I been pwned](https://pnp.github.io/script-samples/aad-analyze-users-hibp/README.html) by [Albert-Jan Schot](https://twitter.com/appieschot)  ( BLIS Digital) | @appieschot
-- Updated [Modernizing classic pages from on-premises sites](https://pnp.github.io/script-samples/modernize-classic-pages-from-publishing-sites/README.html) by [Paul Bullock](https://twitter.com/pkbullock)  (CaPa Creative Ltd) | @pkbullock
-- New [Delete orphaned temporary site pages](https://pnp.github.io/script-samples/spo-delete-orphaned-temporary-sitepages/README.html) by [Brian McCullough](https://twitter.com/bpmccullough)  (Marsh & McLennan Companies) | @bpmccullough
-- Updated [List all external users in all site collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
-- Updated [Add App Catalog to SharePoint site](https://pnp.github.io/script-samples/spo-add-app-catalog/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
-- New [List all teams and teams members in Microsoft Teams in the tenant](https://pnp.github.io/script-samples/teams-export-teams-information/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
-- Updated [Hide SharePoint list from Site Contents](https://pnp.github.io/script-samples/spo-hide-list-from-site-contents/README.html) by [Leon Armston](https://twitter.com/LeonArmston)  (Intelogy) | @LeonArmston
-- Updated [Teams Full Report](https://pnp.github.io/script-samples/teams-full-report/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
-- New [Sample on exporting Document libraries inc folders and versions for selected Site Collections to a Fileshare/drive](https://pnp.github.io/script-samples/spo-export-files-and-versions/README.html) by [Kasper Bo Larsen](https://twitter.com/kasperbolarsen)  (Fellowmind Denmark) | @kasperbolarsen
-- Updated [Export a csv report on all Microsoft Stream videos](https://pnp.github.io/script-samples/stream-report-videos/README.html) by [Twan van Beers](https://twitter.com/NeroBlancoIT)  (Nero Blanco) | @NeroBlancoIT
-- New [Get permission group report of a site](https://pnp.github.io/script-samples/spo-group-permission-report/README.html) by [Adam Wójcik](https://twitter.com/Adam25858782)  (Hitachi Energy) | @Adam25858782
-- New [Export a csv report on all Whiteboards](https://pnp.github.io/script-samples/whiteboard-report-usage/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @NanddeepNachan and [Smita Nachan](https://twitter.com/SmitaNachan) | @SmitaNachan
+* Updated [Remove orphaned redirect sites](https://pnp.github.io/script-samples/spo-remove-orphaned-redirect-sites/README.html) by [Leon Armston](https://twitter.com/LeonArmston)  (Intelogy) | @LeonArmston
+* Updated [Get Site Usage Reports And Export It To CSV](https://pnp.github.io/script-samples/spo-export-site-usage-reports/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
+* New [Analyze users for known data breaches with have I been pwned](https://pnp.github.io/script-samples/aad-analyze-users-hibp/README.html) by [Albert-Jan Schot](https://twitter.com/appieschot)  ( BLIS Digital) | @appieschot
+* Updated [Modernizing classic pages from on-premises sites](https://pnp.github.io/script-samples/modernize-classic-pages-from-publishing-sites/README.html) by [Paul Bullock](https://twitter.com/pkbullock)  (CaPa Creative Ltd) | @pkbullock
+* New [Delete orphaned temporary site pages](https://pnp.github.io/script-samples/spo-delete-orphaned-temporary-sitepages/README.html) by [Brian McCullough](https://twitter.com/bpmccullough)  (Marsh & McLennan Companies) | @bpmccullough
+* Updated [List all external users in all site collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+* Updated [Add App Catalog to SharePoint site](https://pnp.github.io/script-samples/spo-add-app-catalog/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+* New [List all teams and teams members in Microsoft Teams in the tenant](https://pnp.github.io/script-samples/teams-export-teams-information/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+* Updated [Hide SharePoint list from Site Contents](https://pnp.github.io/script-samples/spo-hide-list-from-site-contents/README.html) by [Leon Armston](https://twitter.com/LeonArmston)  (Intelogy) | @LeonArmston
+* Updated [Teams Full Report](https://pnp.github.io/script-samples/teams-full-report/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
+* New [Sample on exporting Document libraries inc folders and versions for selected Site Collections to a Fileshare/drive](https://pnp.github.io/script-samples/spo-export-files-and-versions/README.html) by [Kasper Bo Larsen](https://twitter.com/kasperbolarsen)  (Fellowmind Denmark) | @kasperbolarsen
+* Updated [Export a csv report on all Microsoft Stream videos](https://pnp.github.io/script-samples/stream-report-videos/README.html) by [Twan van Beers](https://twitter.com/NeroBlancoIT)  (Nero Blanco) | @NeroBlancoIT
+* New [Get permission group report of a site](https://pnp.github.io/script-samples/spo-group-permission-report/README.html) by [Adam Wójcik](https://twitter.com/Adam25858782)  (Hitachi Energy) | @Adam25858782
+* New [Export a csv report on all Whiteboards](https://pnp.github.io/script-samples/whiteboard-report-usage/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @NanddeepNachan and [Smita Nachan](https://twitter.com/SmitaNachan) | @SmitaNachan
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative. 
 
