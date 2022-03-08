@@ -5,48 +5,45 @@ We love to have your contributions! To author a blog post, follow these steps:
 1. Register for a [GitHub](https://github.com) account in case you don't already have one - it's free!
 2. Install Git for Windows (if you work on a macOS, download Git for macOs). To continue with Windows,
 
-* Open [Git for Windows](https://git-scm.com/download/win)
-* Download the latest version (64-bit or 32-bit).
-* Optional: If you are not sure what you need, you can check it:
-    * Press WIN key and type about
-    * Select about your PC, it shows you the System type in the device specifications
-* Open the downloaded file
-* Confirm the User Account Control window by selecting **Yes**
-* In the Git Setup window, select **Next** for 6 times, Git will now extract the files
-* Select **Finish**
+   * Open [Git for Windows](https://git-scm.com/download/win)
+   * Download the latest version (64-bit or 32-bit).
+   * Optional: If you are not sure what you need, you can check it:
+       * Press WIN key and type about
+       * Select about your PC, it shows you the System type in the device specifications
+   * Open the downloaded file
+   * Confirm the User Account Control window by selecting **Yes**
+   * In the Git Setup window, select **Next** for 6 times, Git will now extract the files
+   * Select **Finish**
 
-1. Install [Visual Studio Code](https://code.visualstudio.com/)
+3. Install [Visual Studio Code](https://code.visualstudio.com/)
 
-1. Create a Git (not GitHub) account
+4. Create a Git (not GitHub) account
 
-* Open the terminal in Visual Studio Code
-* Type `git --version` in a directory of your choice - you should see the version of Git that you downloaded. If you see an error, close and reopen VS Code and try again.
-* Set your user name with 
-`git config --global user.name "<your-first-name> <your-last-name>"` - replace the `<placeholders>` with the real values
-* Set your email address with 
-`git config --global user.email "<your-email-here>"`- replace the `<placeholder>` with the real values (your email address should match the one with which you signed up for your GitHub account)
+   * Open the terminal in Visual Studio Code
+   * Type `git --version` in a directory of your choice - you should see the version of Git that you downloaded. If you see an error, close and reopen VS Code and try again.
+   * Set your user name with 
+   `git config --global user.name "<your-first-name> <your-last-name>"` - replace the `<placeholders>` with the real values
+   * Set your email address with 
+   `git config --global user.email "<your-email-here>"`- replace the `<placeholder>` with the real values (your email address should match the one with which you signed up for your GitHub account)
 
-1.  Fork this repository to create a copy in your GitHub account:
+5.  Fork this repository to create a copy in your GitHub account:
 
-* Open [pnp/community-blog/](https://github.com/pnp/community-blog/) (this repository)
-* Select **Fork**
+    * Open [pnp/community-blog/](https://github.com/pnp/community-blog/) (this repository)
+    * Select **Fork** --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/community-blog/`
 
-The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/community-blog/`
-
-1. Clone the repository
+6. Clone the repository
 
 Now you want to clone the repository so you have it locally available:
 
-* Select **Code**
-* Copy the URL (it is `https://github.com/<YOUR GITHUB ACCOUNT>/community-blog.git`)
-
 ![fork repository](community-blog/assets/GitHub-forkclone.png)
 
+* Select **Code**
+* Copy the URL (it is `https://github.com/<YOUR GITHUB ACCOUNT>/community-blog.git`)
 * Open the terminal in VS Code
 * Navigate to a directory where you want to clone the repository
 * Type `git clone <COPIED URL HERE>`
 
-1. Add Upstream
+7. Add Upstream
 
 You will now want to make sure, that all your contributions point to the original repository, which is why you want to add an upstream to it:
 
@@ -61,7 +58,7 @@ upstream https://github.com/pnp/community-blog (fetch)
 upstream https://github.com/pnp/community-blog (push)
 ```
 
-1. Write your blog post
+8. Write your blog post
 
 * type `code .` in VSCode terminal (yes, there is a space (` `) between `code` and the `.`) to open your project in a new VS Code instance
 * in the **community-blog/content/posts** folder, create your post as an `.md` file.
@@ -71,7 +68,7 @@ upstream https://github.com/pnp/community-blog (push)
   
 [What's up with markdown?](content/post\what-s-up-with-markdown.md)
 
-1. Commit and push your changes to your fork
+9. Commit and push your changes to your fork
 
 Whenever you want to upload your changes to your remote fork:
 
@@ -79,7 +76,7 @@ Whenever you want to upload your changes to your remote fork:
 * type `git commit -m "YOUR COMMIT MESSAGE"` - this will commit your changes with the messages
 * type `git push` to push the changes to your remote fork
 
-1. Pull request
+10.  Pull request
 
 You will now want to (kindly) ask the repository maintainers to pull in your changes. You do that with a pull request:
 
