@@ -580,8 +580,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * Harsh S (SRK Consulting)
 * [Harsh Samdani](https://www.github.com/hsamdani12) | hsamdani12
 * [Harshini Varma](https://twitter.com/HarshiniVarmaa) (Capgemini) | @HarshiniVarmaa
-* Hemant Risbud
-* [HEMANT RISBUD](https://www.github.com/Hemant%20Risbud) (SRK Consultants) | Hemant Risbud
+* [HEMANT RISBUD](https://www.github.com/HemantR) (SRK Consultants) | Hemant Risbud
 * [Henrik Yllemo](https://www.twitter.com/yllemo) (Ylltec Sweden AB) | @yllemo
 * Inez Jacobs (Amplexor)
 * Isolde Kanikani (SoftwareONE)
@@ -698,7 +697,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 * [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @stephanbisser
 * [Steven Reid](https://www.twitter.com/steven_reid) (FTZ) | @steven_reid
-* [Sujith Pasupuleti](https://www.github.com/Sujtih1907) (NRF) | Sujtih1907
+* [Sujith Pasupuleti](https://twitter.com/sujith1907) (NRF) | @Sujith1907
 * [Sumit Jadon](https://www.twitter.com/CoolJadon) (Avanade) | @CoolJadon
 * [Sunish](https://www.twitter.com/sunish) (SACHA Solutions) | @sunish
 * [Takashi Shinohara](https://twitter.com/karamem0)  | @karamem0
@@ -782,7 +781,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Brian Dang](https://twitter.com/mrdang) (Microsoft) | @mrdang
 * [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | @BrianTJackett
-* [Bryan Petersen](https://github.com/petey121175) (Microsoft) | petey121175
+* [Bryan Petersen](https://github.com/bpeterse03) (Microsoft) | bpeterse03
 * [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint
 * [Charles Sterling](https://twitter.com/chass) (Microsoft) | @chass
 * Christer Ljung (Microsoft)
