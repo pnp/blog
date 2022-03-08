@@ -9,7 +9,7 @@ githubname: VesaJuvonen
 categories:
   - Microsoft 365 Platform Community Update
 images:
-  - images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/title.png
+  - images/blog/microsoft-365-platform-community-pnp-march-2022-update/title.png
 tags: []
 type: regular
 draft: true
@@ -191,7 +191,7 @@ Please see the specifics on the supportability on the tool, SDK or  component re
 
 ## Microsoft 365 Platform Community team model
 
-![Microsoft 365 Platform Community team model](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/teammodel.png)
+![Microsoft 365 Platform Community team model](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/teammodel.png)
 
 In April 2020 we announced our new [Microsoft 365 PnP team model](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and grew the MVP team quite significantly. PnP model exists for having more efficient engagement between Microsoft engineering and community members. Let's build things together. Your contributions and feedback is always welcome! During August, we also crew the team with 5 new members. PnP Team coordinates and leads the different open-source and community efforts we execute in the Microsoft 365 platform.
 
@@ -230,7 +230,7 @@ Got feedback, suggestions or ideas? - Please let us know. Everything we do in th
 
 ## Microsoft 365 PnP Recognition Program
 
-![recognition program](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/recognitionprogram.png)
+![recognition program](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/recognitionprogram.png)
 
 We are excited to announce new community contributor program for all the active community members. Through this program you can get officially acknowledged with the a [Credly badge](https://www.credly.com/org/m365pnp/badge/community-contributor-2021) around your work on our open-source and community channels. See more from
 
@@ -242,7 +242,7 @@ These are different areas which are closely involved on the community work acros
 
 ### Microsoft Graph Toolkit
 
-![Microsoft Graph Toolkit](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/mgt.png)
+![Microsoft Graph Toolkit](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/mgt.png)
 
 Microsoft Graph Toolkit is engineering lead initiative, which works closely with the community on the open-source areas. The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic web components and helpers for accessing and working with Microsoft Graph. The components are fully functional right of out of the box, with built in providers that authenticate with and fetch data from Microsoft Graph.
 
@@ -255,7 +255,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented in our 
 
 ### Microsoft 365 Community Docs
 
-![Community Docs](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/communitydocs.png)
+![Community Docs](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/communitydocs.png)
 
 Community Docs model was announced in the April 2020 and it's great to see the interest for community to help each other by providing new guidance on the non-dev areas. See more on the announcement from the SharePoint blog - [Announcing the Microsoft 365 Community Docs](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/announcing-the-microsoft-365-community-docs/ba-p/1288203). We do welcome contributions from the community - our objective is to build a valuable location for articles from Microsoft and community together.
 
@@ -274,7 +274,7 @@ Have ideas for articles or want to contribute yourself? - Get involved! Here are
 
 ### SharePoint Framework development samples
 
-![SPFX dev samples](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/SPFX-dev-samples.png)
+![SPFX dev samples](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/SPFX-dev-samples.png)
 
 These are the updated SharePoint Framework samples which are available from the different repositories.
 
@@ -302,7 +302,7 @@ How to find what's relevant for you? Take advantage of our SharePoint Framework 
 
 ### Microsoft Teams community samples
 
-![Teams samples](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/Teams-samples.jpeg)
+![Teams samples](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/Teams-samples.jpeg)
 
 These are samples which have been contributed on the community samples since last summary. We do welcome all Microsoft Teams samples to this gallery. They can be implemented using in any technology.
 
@@ -313,7 +313,7 @@ If you are interested on Microsoft Teams samples, we have just released also new
 
 ### Power Platform samples
 
-![Power Platform samples](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/powerplatform-samples.png)
+![Power Platform samples](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/powerplatform-samples.png)
 
 * New Power Apps sample [dataverse-admin](https://github.com/pnp/powerapps-samples/tree/main/samples/dataverse-admin) by [Vivek Bavishi](https://twitter.com/that_api_guy) | @that_API_guy
 * New Power Apps sample [sharepoint-events](https://github.com/pnp/powerapps-samples/tree/main/samples/sharepoint-events) by [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @sharepointalex
@@ -329,7 +329,7 @@ If you have any existing samples which you'd be willing to share with others - p
 
 ### Microsoft 365 Script Samples
  
-![script samples](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/script-samples.png)
+![script samples](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/script-samples.png)
 
 We have released new Microsoft 365 Script Sample gallery within past month. We welcome all scripts on Microsoft 365 automation to this centralized repository, targeted to help to manage and automate day-to-day operations.
 
@@ -356,7 +356,7 @@ Microsoft 365 Script Samples - [https://aka.ms/script-samples](https://aka.ms/sc
 
 ### Independent Connectors Program
 
-![Independent Publishers](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/independent-publishers.png)
+![Independent Publishers](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/independent-publishers.png)
 
 Microsoft Power Platform comes with a huge variety of already built-in connectors and also provides you with the ability of creating your own custom connectors. As of July 2021, anyone can submit the connectors they built to Microsoft Power Platform so that they can be used by others as well. Previously, only API owners could publish their connectors. The Independent Publisher Connector Program's mission is to bring the best together: the best people, connecting great ideas to data, apps, and flows. We want to make it easier for connector developers to collaborate on connectors.
 
@@ -371,7 +371,7 @@ For more information, you can watch this video on [Publish a connector to the Pu
 
 ### Sharing is Caring initiative
 
-![Sharing Is Caring](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/sharing-is-caring.png)
+![Sharing Is Caring](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/sharing-is-caring.png)
 
 The "Sharing Is Caring" initative is targeted for learning the basics around making changes in Microsoft Docs, in GitHub, submitting pull requests to the PnP repositories and in GitHub in general. Take advantage of this instructor lead training for learning how to contribute to docs or to open-source solutions. Everyone is welcome to learn how to get started on contributing to open-source docs or code!
 
@@ -736,7 +736,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 
 Here's the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications. If you still want your logo for this month's release, please let us know and share the logo with us. Thx.
 
-![Update Title](/assets/images/blog/microsoft-365-platform-community-(pnp)-march-2022-update/title.png)
+![Update Title](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/title.png)
 
 * [Addin365](https://www.addin365.com/)
 * [Arvo Systems](https://www.arvosys.com/)
