@@ -438,8 +438,25 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [Module 3: Use Microsoft Graph in your web app | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=-yBZK6ImmVU&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=24) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [Module 3: Exercise - Use Microsoft Graph in your web | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=kbQvbPColJI) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [Module 3: Summary | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=PLLSZTkROZE&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=26) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-
-* App scaffolding with Microsoft Teams Toolkit v3.0 - Tomomi Imura (Microsoft) | @girlie_mac
+* [DEMO - Create the pre meeting user experience](https://www.youtube.com/watch?v=aZ4YFtf6yro) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [DEMO - Implement a post meeting experience for attendees](https://www.youtube.com/watch?v=D41cXE2BPoM) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [DEMO - Build and test the application](https://www.youtube.com/watch?v=8BX6HRgT_bY) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [Create interactive meeting apps for Microsoft Teams](https://www.youtube.com/watch?v=jDfGpTSZ9zA) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [DEMO - In meeting experience & participant roles](https://www.youtube.com/watch?v=6P5wvumfvA4) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [DEMO - Creating meeting apps for Microsoft Teams](https://www.youtube.com/watch?v=ViRUNUKJxuc) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [Get meeting details in your meeting app](https://www.youtube.com/watch?v=AqYWaqPUvXk) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [DEMO - Implement in meeting experience with a side panel](https://www.youtube.com/watch?v=BSoXnLFDBpk) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [In meeting experience & participant roles](https://www.youtube.com/watch?v=KYlczD-6eLU) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [DEMO - Implement the app's pre meeting user experience](https://www.youtube.com/watch?v=tzaBCph8kvk) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [02 03 Demo Create an API endpoint](https://www.youtube.com/watch?v=nhQhj5dmImU) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [DEMO - Create Microsoft Teams app](https://www.youtube.com/watch?v=wZtuAjo-hYQ) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [Implement a post meeting experience for attendees](https://www.youtube.com/watch?v=QDiyt4dzLPg) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [Finding Permissions with Microsoft Graph PowerShell SDK](https://www.youtube.com/watch?v=3xuo81t3JCg) by [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @NikCharlebois
+* [Dynamic Filters in Microsoft Graph Data Connect](https://www.youtube.com/watch?v=y6Uhpy_RD1M) by [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @NikCharlebois
+* [Integrating real-time Microsoft Graph notifications](https://www.youtube.com/watch?v=I4U99iVosuk) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @aycabs and [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Setting up resources for real-time Microsoft Graph notifications](https://www.youtube.com/watch?v=8a2fZ_wCgAk) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @aycabs
+* [Using the Fluid Framework](https://www.youtube.com/watch?v=kNmK9n4_jUM) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Introduction to collaborative app technologies](https://www.youtube.com/watch?v=Lbigni_5yic) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @aycabs and [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 
 ### Community demo videos
 
