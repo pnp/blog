@@ -546,7 +546,6 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * Darren Brown (Node4)
 * [Dave Young](https://www.twitter.com/klarkykhat) | @klarkykhat
 * David Gray (Visa)
-* [David Pileggi](https://www.twitter.com/DavidPileggi) (Staples) | @DavidPileggi
 * [David Pileggi](https://www.twitter.com/https:/twitter.com/DavidPileggi) (Staples) | @DavidPileggi  
 * [David Ramalho](https://github.com/DRamalho92) | @DRamalho92
 * [David Warner II](https://twitter.com/DavidWarnerII) (Catapult) | @DavidWarnerII
@@ -554,7 +553,6 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Dennis Goedegebuure](https://twitter.com/expiscornovus) (Ultima Business Solutions) | @expiscornovus
 * [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @spdcp
 * [Dipen Shah](https://www.twitter.com/Dips_365) (Rapid Circle) | @Dips_365
-* [Don Kirkham](https://twitter.com/DonKirkham) | @DonKirkham
 * [Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
 * [Dr Adrian Colquhoun](https://www.github.com/iddycol) (Strategik) | iddycol
 * Edmund David (Insentra)
@@ -589,9 +587,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * Isolde Kanikani (SoftwareONE)
 * [Jacob Warrington](https://www.twitter.com/jjhwarrington) (Catapult Systems) | @jjhwarrington
 * [Jan Bakker](https://twitter.com/janbakker_) | @JanBacker_
-* [Japhlet Nwamu](https://twitter.com/japhletnwamu) (Microsoft) | @japhletnwamu
 * [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert
-* [Jasmine Hoegh](https://www.twitter.com/sbjishu) (Microsoft) | @sbjishu
 * [Javier Hualpa](https://www.github.com/jhualpa) | jhualpa
 * [Jeffin Jacob](https://www.github.com/jeffinjacob) | jeffinjacob
 * Jennifer Davison (Akron Children's Hospital)
@@ -621,9 +617,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 * [Laurent Egbakou](https://twitter.com/lioncoding) | @lioncoding
 * [Lee Ford](https://twitter.com/lee_ford) ( Symity) | @lee_Ford
-* [Lee Stott](https://twitter.com/lee_stott) (Microsoft) | @Lee_Stott
 * [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
-* [Linda Delarvé (Microsoft)
 * [Lindsay Shelton](https://www.twitter.com/lshelton_tech) (Stowers Institute for Medical Research) | @lshelton_tech
 * [Loïc Cimon](https://twitter.com/LoicCimon) (Sogeti) | @LoicCimon
 * [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
@@ -651,7 +645,6 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * Nicole Fleming (Sherwin Williams)
 * [Nikki Chapple](https://www.twitter.com/chapplenikki) (Cloudway) | @chapplenikki
 * [Nizar Grindi](https://www.twitter.com/nizar_grindi) (Avanade) | @nizar_grindi
-* [Norm Young](https://twitter.com/stormin_30) | @Norm Young
 * [Norm Young](https://www.twitter.com/stormin_30) (UnlimitedViz) | @stormin_30
 * [Omar Stewart](https://www.twitter.com/OmarStewey) | @OmarStewey
 * [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
@@ -705,7 +698,6 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 * [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @stephanbisser
 * [Steven Reid](https://www.twitter.com/steven_reid) (FTZ) | @steven_reid
-* Sujith Pasupuleti (NRF)
 * [Sujith Pasupuleti](https://www.github.com/Sujtih1907) (NRF) | Sujtih1907
 * [Sumit Jadon](https://www.twitter.com/CoolJadon) (Avanade) | @CoolJadon
 * [Sunish](https://www.twitter.com/sunish) (SACHA Solutions) | @sunish
@@ -714,8 +706,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Tetsuya Kawahara](https://twitter.com/techan_k)  | @techan_k
 * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
 * [Tim Balk](https://www.twitter.com/tlbalk) (Wellmark) | @tlbalk
-* [Tim Cadenbach](https://twitter.com/timcadenbach) (Maximago) | @TimCadenbach
-* [Tim Mayo](https://www.twitter.com/timmayo) (Microsoft) | @timmayo  
+* [Tim Cadenbach](https://twitter.com/timcadenbach) (Maximago) | @TimCadenbach 
 * Tod Beane
 * Todd Alexander (Island Way Technology)
 * [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | @toddbaginski
@@ -828,6 +819,8 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Holland Kaviani  (Microsoft)
 * [Laura Graham](https://github.com/Lauragra) (Microsoft) | Lauragra
 * Holland Kaviani  (Microsoft)
+* [Lee Stott](https://twitter.com/lee_stott) (Microsoft) | @Lee_Stott
+* [Linda Delarvé (Microsoft)
 * [Linda Lu Cannon](https://github.com/lindalu-MSFT) - (Microsoft) | lindalu-MSFT
 * [Loki Meyburg](https://twitter.com/lokimeyburg) (Microsoft) (Microsoft) | @lokimeyburg
 * [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband
@@ -872,6 +865,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Steven Jia](https://github.com/Steven-Jia) (Microsoft)  | Steven-Jia
 * Shubham Gatkal (Microsoft)
 * [Tejas Mehta](https://twitter.com/tpmehta) (Microsoft) | @tpmehta
+* [Tim Mayo](https://www.twitter.com/timmayo) (Microsoft) | @timmayo 
 * [Tom Resing](https://twitter.com/resing) (Microsoft) | @resing
 * [Tomomi Imura](https://twitter.com/girlie_mac) (Microsoft) | @girlie_mac
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
