@@ -93,7 +93,8 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Podcast is back! 
 
-* 7th of February - M365 Dev Podcast - Office Add-Ins with Juan Balmori
+* 7th of March - [M365 Dev Podcast - Universal Actions and Adaptive Card Updates with Fabian Williams](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/m365-dev-podcast-universal-actions-and-adaptive-card-updates/ba-p/3249841)
+
  
 ### Microsoft 365 PnP Weekly Podcasts and vlogs
 
@@ -336,7 +337,7 @@ Here are the latest updates on the Script Samples
 
 * Updated [Remove orphaned redirect sites](https://pnp.github.io/script-samples/spo-remove-orphaned-redirect-sites/README.html) by [Leon Armston](https://twitter.com/LeonArmston)  (Intelogy) | @LeonArmston
 * Updated [Get Site Usage Reports And Export It To CSV](https://pnp.github.io/script-samples/spo-export-site-usage-reports/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
-* New [Analyze users for known data breaches with have I been pwned](https://pnp.github.io/script-samples/aad-analyze-users-hibp/README.html) by [Albert-Jan Schot](https://twitter.com/appieschot)  ( BLIS Digital) | @appieschot
+* New [Analyze users for known data breaches with have I been pwned](https://pnp.github.io/script-samples/aad-analyze-users-hibp/README.html) by [Albert-Jan Schot](https://twitter.com/appieschot)  (BLIS Digital) | @appieschot
 * Updated [Modernizing classic pages from on-premises sites](https://pnp.github.io/script-samples/modernize-classic-pages-from-publishing-sites/README.html) by [Paul Bullock](https://twitter.com/pkbullock)  (CaPa Creative Ltd) | @pkbullock
 * New [Delete orphaned temporary site pages](https://pnp.github.io/script-samples/spo-delete-orphaned-temporary-sitepages/README.html) by [Brian McCullough](https://twitter.com/bpmccullough)  (Marsh & McLennan Companies) | @bpmccullough
 * Updated [List all external users in all site collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
@@ -376,27 +377,25 @@ The "Sharing Is Caring" initative is targeted for learning the basics around mak
 
 See more from the [guidance documentation](https://pnp.github.io/sharing-is-caring/) - including all upcoming instructor lead sessions which you can participate!
 
-//TODO lookup contributors in these initiatives
-
 ## ✍ Different Microsoft 365 related open-source initiatives build together with the community
 
-* Microsoft Look Book - Discover the modern experiences you can build with SharePoint in Microsoft 365. Look book provides design examples for SharePoint Online which can be automatically provisioned to any tenant in the world. See more from [https://lookbook.microsoft.com](https://lookbook.microsoft.com/). This service is also provided as open-source solution sample from [GitHub](https://github.com/SharePoint/sp-provisioning-service).
-* yo teams - Open-source Yeoman generator for Microsoft Teams extensibility. Supports creation of bots, messaging extensions, tabs (with SSO), connectors and outgoing Webhooks. See more from [https://aka.ms/yoteams](https://github.com/pnp/generator-teams).
-* PnP Framework - .NET Standard 2.0 SDK containing the classic PnP Sites Core features for SharePoint Online. More around this package from GitHub.
-* PnP Core SDK - The PnP Core SDK is an SDK designed to work for Microsoft 365 with Graph API first approach. It provides a unified object model for working with SharePoint Online and Teams which is agnostic to the underlying API's being called. See more around the SDK from [documentation](https://pnp.github.io/pnpcore/).
-* PnP PowerShell - PnP PowerShell is a .NET Core 3.1 / .NET Framework 4.6.1 based PowerShell Module providing over 400 cmdlets that work with Microsoft 365 environments and more specifically SharePoint Online and Microsoft Teams. See more details from [documentation](https://pnp.github.io/powershell/).
-* Reusable SharePoint Framework controls - Reusable controls for SharePoint Framework web part and extension development. Separate projects for [React content controls](https://pnp.github.io/sp-dev-fx-controls-react/) and [Property Pane controls for web parts](https://github.com/pnp/sp-dev-fx-property-controls). These controls are using Office UI Fabric React controls under the covers and they are SharePoint aware to increase the productivity of developers.
-* CLI for Microsoft 365 - Cross-OS command line interface to manage Office 365 tenant settings. See [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/) for latest updates. 
-* PnPJs - PnPJs encapsulates SharePoint REST APIs and provides a fluent and easily usable interface for querying data from SharePoint sites. It's a replacement of already deprecated pnp-js-core library. See [changelog](https://github.com/pnp/pnpjs/blob/version-3/CHANGELOG.md) for the latest updates.
-* PnP Provisioning Engine and PnP CSOM Core - PnP provisioning engine is part of the PnP CSOM extension. They encapsulate complex business driven operations behind easily usable API surface, which extends out-of-the-box CSOM NuGet packages. See [changelog](https://github.com/pnp/PnP-Sites-Core/blob/master/CHANGELOG.md) for the latest updates.
-* PnP PowerShell - PnP PowerShell cmdlets are open-source complement for the SharePoint Online cmdlets. There are more than 300 different cmdlets to use and you can use them to manage tenant settings or to manipulate actual SharePoint sites. See [changelog](https://github.com/pnp/PnP-PowerShell/blob/master/CHANGELOG.md) for the latest updates.
-* PnP Modern Search solution - The PnP 'Modern Search' solution is a set of SharePoint Online modern Web Parts allowing SharePoint super users, webmasters and developers to create highly flexible and personalized search based experiences in minutes. See more details on the different supported capabilities from [https://aka.ms/pnp-search](https://microsoft-search.github.io/pnp-modern-search/).
-* Modernization tooling - All tools and guidance on helping you to transform you SharePoint to modern experiences from [https://aka.ms/sppnp-modernize](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
-* SharePoint Starter Kit v2 - Building modern experiences with Microsoft Teams flavors for SharePoint Online and SharePoint 2019 - reference solution in [GitHub](https://github.com/pnp/sp-starter-kit).
-* List formatting definitions - Community contributed samples around the column and view formatting in [GitHub](https://github.com/pnp/List-Formatting).
-* Site Designs and Site Scripts - Community contributed samples around * SharePoint Site Designs and Site Scripts in [GitHub](https://github.com/pnp/sp-dev-site-scripts).
-* DevOps tooling and scripts - Community contributed scripts and tooling automation around DevOps topics (CI/CD) in [GitHub](https://github.com/pnp/sp-dev-build-extensions).
-* Teams provisioning solution - Set of open-source Azure Functions for Microsoft Teams provisioning. See more details from [GitHub](https://github.com/pnp/OrchestratedProvisioning).
+* **Microsoft Look Book** - Discover the modern experiences you can build with SharePoint in Microsoft 365. Look book provides design examples for SharePoint Online which can be automatically provisioned to any tenant in the world. See more from [https://lookbook.microsoft.com](https://lookbook.microsoft.com/). This service is also provided as open-source solution sample from [GitHub](https://github.com/SharePoint/sp-provisioning-service).
+* **yo teams** - Open-source Yeoman generator for Microsoft Teams extensibility. Supports creation of bots, messaging extensions, tabs (with SSO), connectors and outgoing Webhooks. See more from [https://aka.ms/yoteams](https://github.com/pnp/generator-teams).
+* **PnP Framework** - .NET Standard 2.0 SDK containing the classic PnP Sites Core features for SharePoint Online. More around this package from GitHub.
+* **PnP Core SDK** - The PnP Core SDK is an SDK designed to work for Microsoft 365 with Graph API first approach. It provides a unified object model for working with SharePoint Online and Teams which is agnostic to the underlying API's being called. See more around the SDK from [documentation](https://pnp.github.io/pnpcore/).
+* **PnP PowerShell** - PnP PowerShell is a .NET Core 3.1 / .NET Framework 4.6.1 based PowerShell Module providing over 400 cmdlets that work with Microsoft 365 environments and more specifically SharePoint Online and Microsoft Teams. See more details from [documentation](https://pnp.github.io/powershell/).
+* **Reusable SharePoint Framework controls** - Reusable controls for SharePoint Framework web part and extension development. Separate projects for [React content controls](https://pnp.github.io/sp-dev-fx-controls-react/) and [Property Pane controls for web parts](https://github.com/pnp/sp-dev-fx-property-controls). These controls are using Office UI Fabric React controls under the covers and they are SharePoint aware to increase the productivity of developers.
+* **CLI for Microsoft 365** - Cross-OS command line interface to manage Office 365 tenant settings. See [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/) for latest updates. 
+* **PnPJs** - PnPJs encapsulates SharePoint REST APIs and provides a fluent and easily usable interface for querying data from SharePoint sites. It's a replacement of already deprecated pnp-js-core library. See [changelog](https://github.com/pnp/pnpjs/blob/version-3/CHANGELOG.md) for the latest updates.
+* **PnP Provisioning Engine and PnP CSOM Core** - PnP provisioning engine is part of the PnP CSOM extension. They encapsulate complex business driven operations behind easily usable API surface, which extends out-of-the-box CSOM NuGet packages. See [changelog](https://github.com/pnp/PnP-Sites-Core/blob/master/CHANGELOG.md) for the latest updates.
+* **PnP PowerShell** - PnP PowerShell cmdlets are open-source complement for the SharePoint Online cmdlets. There are more than 300 different cmdlets to use and you can use them to manage tenant settings or to manipulate actual SharePoint sites. See [changelog](https://github.com/pnp/PnP-PowerShell/blob/master/CHANGELOG.md) for the latest updates.
+* **PnP Modern Search solution** - The PnP 'Modern Search' solution is a set of SharePoint Online modern Web Parts allowing SharePoint super users, webmasters and developers to create highly flexible and personalized search based experiences in minutes. See more details on the different supported capabilities from [https://aka.ms/pnp-search](https://microsoft-search.github.io/pnp-modern-search/).
+* **Modernization tooling** - All tools and guidance on helping you to transform you SharePoint to modern experiences from [https://aka.ms/sppnp-modernize](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+* **SharePoint Starter Kit v2** - Building modern experiences with Microsoft Teams flavors for SharePoint Online and SharePoint 2019 - reference solution in [GitHub](https://github.com/pnp/sp-starter-kit).
+* **List formatting definitions** - Community contributed samples around the column and view formatting in [GitHub](https://github.com/pnp/List-Formatting).
+* **Site Designs and Site Scripts** - Community contributed samples around * SharePoint Site Designs and Site Scripts in [GitHub](https://github.com/pnp/sp-dev-site-scripts).
+* **DevOps tooling and scripts** - Community contributed scripts and tooling automation around DevOps topics (CI/CD) in [GitHub](https://github.com/pnp/sp-dev-build-extensions).
+* **Teams provisioning solution** - Set of open-source Azure Functions for Microsoft Teams provisioning. See more details from [GitHub](https://github.com/pnp/OrchestratedProvisioning).
 
 ### ✍ Documentation updates
 
@@ -579,6 +578,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Miguel Angel García](https://twitter.com/miangama) | @miangama
 * [Mike Duffy](https://www.twitter.com/mike_duffy) (Boardwalk Pipelines) | @mike_duffy
 * [Mike Dumka](https://www.twitter.com/mikedumka) (Habanero Consulting) | @mikedumka
+* [Mike Zimm](https://github.com/mikezimm) | mikezimm
 * [Mohammad Amer](https://twitter.com/Mohammad3mer) (Atea Global Services) | @Mohammad3mer
 * [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @NanddeepNachan
 * [Naveen Karla](https://www.twitter.com/naveen67) | @naveen67
@@ -608,6 +608,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Rentu](https://github.com/SLdragon) | SLdragon
 * [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
 * [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
+* [r-markus](https://github.com/r-markus) | r-markus
 * Rob Bell (Kizan technologies)
 * [Rob Ireland](https://www.twitter.com/RobIreland68) (Oast House Ltd) | @RobIreland68
 * [Robert Copelan](https://www.twitter.com/rcopelan) (ZF Friedrichshafen AG) | @rcopelan
@@ -659,6 +660,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Victor Ezeliorah](https://www.twitter.com/vezeliora) (Intels Nigeria Limited) | @vezeliora
 * [Vipul Kelkar](https://twitter.com/vipulkelkar) (Rapid Circle) | @vipulkelkar
 * [Vivek Bavishi](https://twitter.com/that_api_guy) | @that_API_guy
+* [wuxiaojun514](https://github.com/wuxiaojun514) | wuxiaojun514
 * [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions) | @yp_code
 * Youssef Moumen
 * [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group) | @yhabersaat
