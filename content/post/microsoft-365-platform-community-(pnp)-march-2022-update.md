@@ -13,7 +13,7 @@ images:
 tags: []
 type: regular
 draft: true
-date: 2022-03-07T13:33:32.430Z
+date: 2022-03-09T10:35:36.981Z
 ---
 
 Microsoft 365 Platform Community (PnP) March 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success.
@@ -206,24 +206,24 @@ We welcome all community members to get involved on the community and open-sourc
     * [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues, 
     * [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
     * [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @stephanbisser, 
-    * [Tetsuya Kawahara](https://twitter.com/techan_k)  | @techan_k, and 
+    * [Tetsuya Kawahara](https://twitter.com/techan_k)  | @techan_k, 
     * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
 
 * [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](content\post\new-microsoft-365-patterns-and-practices-pnp-team-members-may.md) 
-    * [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo) and 
+    * [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo),
     * [Patrick Lamber](https://github.com/plamber) (Experts Inside AG)
 * [New Microsoft 365 Patterns and Practices (PnP) team members - February 2021](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/) 
-    * [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    * [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) and 
+    * [April Dunnam](https://twitter.com/aprildunnam) (Microsoft),
+    * [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting),
     * [Veronique Lengelle](https://twitter.com/veronicageek) (CPS)
-* New Microsoft 365 Patterns and Practices (PnP) team members - December 2020
+* [New Microsoft 365 Patterns and Practices (PnP) team members - December 2020](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-members-2/)
     * [Luise Freese](https://twitter.com/LuiseFreese) 
     * [Sébastien Levert](https://twitter.com/sebastienlevert/) (Microsoft)
 * [New Microsoft 365 Patterns and Practices (PnP) team members - August 2020](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-members/) - 
     * [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital), 
     * [Koen Zomers](https://twitter.com/koenzomers) (Microsoft), 
     * [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative), 
-    * [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) and 
+    * [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft),
     * [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions)
 
 Got feedback, suggestions or ideas? - Please let us know. Everything we do in this program is for your benefit. Feedback and ideas are more than welcome so that we can adjust the process for benefitting you even more.
