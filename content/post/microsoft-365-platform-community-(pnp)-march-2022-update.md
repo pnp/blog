@@ -406,17 +406,66 @@ Office add-in documentation - [Microsoft Docs](https://docs.microsoft.com/office
 
 ## Microsoft 365 Developer and Microsoft 365 Community YouTube video channels
  
-You can find all Microsoft 365 related videos on our YouTube Channel at [https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w](https://aka.ms/m365pnp/videos) or at [Microsoft 365 Dev](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ). These channels contains already a significant amount of detailed training material, demo videos, and community call recordings.
+You can find all Microsoft 365 related videos on our YouTube Channel at [https://aka.ms/m365pnp/videos](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) or at [Microsoft 365 Dev](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ). These channels contains already a significant amount of detailed training material, demo videos, and community call recordings.
 
 ### Microsoft demo videos
 
 Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 
+* [Course Overview | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=dt-uuYPO1nk) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 1: Learning Objectives and Scenario | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=kakhiZRVJk4) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 1: What is Microsoft Graph? | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=fAI3wUaPDxk) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 1: Understand Microsoft Graph Services | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=vpuHPXYcs3o) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 1: Access User Info by using Graph Explorer | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=s69EeXRXTSo) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 1: Exercise - Get Started with Graph Explorer | Microsoft Graph Fundamentals for Beginners by](https://www.youtube.com/watch?v=3Y44jLc4RQQ&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=6) [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 1: Exercise - Test Queries with Your Own Account | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=wTfTOSzcYes) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 1: Exercise - Try a POST Request | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=DrextLK9o50&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=8) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 1: Exercise - Consume Microsoft Graph in Your Apps with the Help of Graph Explorer](https://www.youtube.com/watch?v=tFz-40bI1PA) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 1: Summary | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=MgyncFSKGJ4&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=10) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Configure a JavaScript App | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=DmSk2gBeJT0&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=11) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Understand the role of Azure Active Directory | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=Rv64w_nNN4I) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Microsoft Graph Permissions or Scopes | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=OKohNkzCUI8) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Microsoft Graph Permissions and Consent | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=PITreL9SQ6Y) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Permission Types | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=QanUrfURZ0o) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Access Tokens | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=wI0Tl5yDDmE&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=16) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Register an App with Azure Active Directory | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=PbWpVTPEJpg) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Exercise - Register an App with Azure AD | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=au1dBzirmvQ&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=18) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Retrieve an Access Token by Using MSAL | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=mO1lteh5nSk) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Authentication Flow | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=D2YqsB7cams&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=20) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Exercise - Retrieve Access Token Using MSAL | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=8wTyenSpuIc&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=21) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 2: Summary | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=kPNPoj4uSNk) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 3: Access user photo information | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=tv4znKNf72s) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 3: Use Microsoft Graph in your web app | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=-yBZK6ImmVU&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=24) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 3: Exercise - Use Microsoft Graph in your web | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=kbQvbPColJI) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Module 3: Summary | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=PLLSZTkROZE&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=26) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+
 * App scaffolding with Microsoft Teams Toolkit v3.0 - Tomomi Imura (Microsoft) | @girlie_mac
 
 ### Community demo videos
 
-* New Pay as you go Features for Power Apps - Kavishi Agarwal (Microsoft) 
+* [Creating engaging and dynamic Viva Connections mobile experiences](https://www.youtube.com/watch?v=e3CUtjIwW80) by [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler
+* [Introduction to Microsoft Intune APIs on Microsoft Graph](https://www.youtube.com/watch?v=gN0-zZBGUK0) by [Dave Randall](https://github.com/triplanedave) (Microsoft) | triplanedave
+* [Updates on Independent Publisher Connectors & Cloverly / Ecologi Connector Demo](https://www.youtube.com/watch?v=vM2D_QgATTc) by [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1 and [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @troystaylor
+* [Make a simple bot using Webhooks in Microsoft Teams](https://www.youtube.com/watch?v=bV55MLQrDs4) by [Lee Ford](https://twitter.com/lee_ford) ( Symity) | @lee_Ford
+* [Using the MGT Agenda and Tasks Components in your solutions](https://www.youtube.com/watch?v=Lu5wIZQtbTw) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
+* [Access a user's calendar events in an ASP.NET Core app with Microsoft Graph](https://www.youtube.com/watch?v=hTr6cOCAdto) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Viva Connections – Data Binding in SPFx Adaptive Card Extensions](https://www.youtube.com/watch?v=vcSM5PUgn0I) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+* [Use the Power Platform and Microsoft Teams to quiz yourself](https://www.youtube.com/watch?v=wOh05deLdBY) by [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @appieschot
+* [SPFx Design Guidance – Property pane input validation and error messages](https://www.youtube.com/watch?v=Fkb99T6tRmM) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh
+* [Latest on Microsoft Bookings API on Microsoft Graph](https://www.youtube.com/watch?v=AIIYFe2AH7o) by Altamish Ahmad (Microsoft)
+* [CRUD Operations in Viva Connections – Adaptive Card Extensions with SharePoint Framework](https://www.youtube.com/watch?v=kQRkGBydGBk) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @spdcp
+* [Latest with Microsoft Graph connectors](https://www.youtube.com/watch?v=NwfSXYR7nl4) by Arvind Ravi (Microsoft)
+* [Microsoft Graph Toolkit – Using the Teams Channel Picker Component in your solutions](https://www.youtube.com/watch?v=WhnhTUwJr1s) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
+* [When to build Viva Connections Adaptive Card Extensions](https://www.youtube.com/watch?v=YgguaCj3YqE) by [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler
+* [Microsoft 365 Maturity Model - February 2022](https://www.youtube.com/watch?v=I6cfNuk1a3s)
+* [Getting started on building a Microsoft Teams bot with yo teams](https://www.youtube.com/watch?v=ndp97skOsKI) by [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @stephanbisser
+* [Microsoft List Formatting - Challenges and Solutions](https://www.youtube.com/watch?v=yvEiXouwBUk) by [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
+* [Deep dive on Viva Connections Adaptive Card Extension development – State management](https://www.youtube.com/watch?v=6SqBoE8Bl4E) by [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler
+* [Microsoft Graph Toolkit – Using the People Picker Component in your solutions](https://www.youtube.com/watch?v=Nhefl7OigRA) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
+* [Adaptive Cards and the Power Platform to solve captchas](https://www.youtube.com/watch?v=7xIIjrHoqq0) by [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
+* [Show a user's emails in an ASP.NET Core app with Microsoft Graph](https://www.youtube.com/watch?v=CZd5SWjKTY0) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Updates on Independent Publisher Connectors & GoQR Connector Demo](https://www.youtube.com/watch?v=sfMtPESK_Mc) by [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1 and [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) (Microsoft)
+* [SharePoint Framework Design Patterns – Custom Web Part Properties (Part 3)](https://www.youtube.com/watch?v=rv-kG82i3kM) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh
 
 ## Key contributors to the March 2022 update
  
@@ -713,9 +762,11 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @alexaterentiev
 * [Aline Tognini](https://github.com/alinefmr) (Microsoft) | alinefmr
 * [Allen Snow](https://twitter.com/asnow003) (Microsoft) | @asnow003
+* Altamish Ahmad (Microsoft)
 * Andrey Esipov (Microsoft)
 * [April Dunnam](httpw://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
+* Arvind Ravi (Microsoft)
 * Ashima Mathur (Microsoft)
 * [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @aycabs
 * [Bert Jansen](http://twitter.com/O365Bert) (Microsoft) | @O365Bert
@@ -729,6 +780,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Christer Ljung (Microsoft)
 * [Christos Matskas](https://twitter.com/ChristosMatskas) (Microsoft) | @ChristosMatska
 * [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Dave Randall](https://github.com/triplanedave) (Microsoft) | triplanedave
 * [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @davidchesnut
 * [Doğan Erişen](https://github.com/derisen) (Microsoft) | derisen
 * [Dragan Panjkov](https://twitter.com/panjkov) (Microsoft) | @panjkov
@@ -739,7 +791,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
 * [Haimantika Mitra](https://twitter.com/HaimantikaM) (Microsoft) | @HaimantikaM
 * [Holger Lutz](https://github.com/HolgerLutz) (Microsoft) | HolgerLutz
-* [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernier
+* [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh
 * Igor Ribeiro (Microsoft)
 * [James Eccles](https://github.com/jameseccles) (Microsoft)  jameseccles
 * [James Skay](https://twitter.com/JamesSkay) (Microsoft) | @JamesSka
@@ -770,7 +822,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Mikael Svenson](https://twitter.com/mikaelsvenson)(Microsoft)  | @mikaelsvenson
 * [Mike Hollinshead](https://twitter.com/mahollinshead) (Microsoft) | @mahollinshea
 * [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) | @nancyatMSFT
-* [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft)  | @NataliePienkow1
+* [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1
 * [Nathan Zipf](https://github.com/NathZ1) (Microsoft) | NathZ1
 * Nick Adman (Microsoft)
 * Nick Kramer (Microsoft) 
