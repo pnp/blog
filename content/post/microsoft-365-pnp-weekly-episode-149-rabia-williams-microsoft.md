@@ -8,6 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/Thumb-Ep149-January 17.png
 tags: []
 type: "regular"
+summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen, Waldek Mastykarz are joined by Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph, Rabia Williams"
 ---
 
 
