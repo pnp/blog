@@ -12,31 +12,25 @@ type: "regular"
 
 The following topics are covered in this month's community call:
 
-- **Contribution Guidelines** (process for taking on feature requests in
-Adaptive Cards Repo), 
-- **Announcing v1.5** (Preview build of v1.5 is
-scheduled for September release.  Key features - Input.ChoiceSet search
-and filtering, Input.ChoiceSet auto complete, Improvements to table
-layouts) - J.P. Roca (Microsoft), 
-- **Teams support for v1.4** (Teams now
-has partial support of v1.4) - Steven Kong (Microsoft) and finally
-- **Q&A** (members of the Developer team and PM team field questions on a
-host of topics -- updating documentation, functionality with Power
-Platform, multi-line support, adaptive components, etc.) for 30
-minutes.   This call was hosted by [J.P.
-Roca](http://twitter.com/jpthepm) (Microsoft) | \@jpthepm. Recorded on
-August 12, 2021.
+- **Contribution Guidelines** (process for taking on feature requests in Adaptive Cards Repo), 
+- **Announcing v1.5** (Preview build of v1.5 is scheduled for September release.  Key features - Input.ChoiceSet search and filtering, Input.ChoiceSet auto complete, Improvements to table layouts) - J.P. Roca (Microsoft), 
+- **Teams support for v1.4** (Teams now has partial support of v1.4) - Steven Kong (Microsoft) and finally
+- **Q&A** (members of the Developer team and PM team field questions on a host of topics -- updating documentation, functionality with Power Platform, multi-line support, adaptive components, etc.) for 30 minutes.
+
+This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm. Recorded on August 12, 2021.
+
+{{< youtube 84IvNDDlehc >}}
 
 ## Agenda
 
 -   Contribution Guidelines - [J.P. Roca](http://twitter.com/jpthepm)
-    (Microsoft) | \@jpthepm --
+    (Microsoft) | @jpthepm --
     [1:03](https://youtu.be/84IvNDDlehc?t=63)
 -   Announcing v1.5 - [J.P. Roca](http://twitter.com/jpthepm)
-    (Microsoft) | \@jpthepm --
+    (Microsoft) | @jpthepm --
     [2:04](https://youtu.be/84IvNDDlehc?t=124)
 -   Teams support for v1.4 -- [Steven
-    Kong](https://twitter.com/stkong_sdk) (Microsoft) | \@stkong_sdk --
+    Kong](https://twitter.com/stkong_sdk) (Microsoft) | @stkong_sdk --
     [2:58](https://youtu.be/84IvNDDlehc?t=178)
 -   Q&A with members of Microsoft Developer and PM teams --
     [4:49](https://youtu.be/84IvNDDlehc?t=289)
