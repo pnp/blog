@@ -103,7 +103,8 @@ place in chat throughout the call
 {{< image alt="211116-together-mode.gif" src="images/blog/microsoft-365-platform-call-16th-of-november-2021/211116-together-mode.gif" >}}
 It's a full house and it's great seeing each and everyone of you.  
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Getting started on building Microsoft Teams tabs with Adaptive
     Cards -** appreciate a unified developer experience - power
@@ -124,7 +125,8 @@ It's a full house and it's great seeing each and everyone of you.  
     Extensions and Application Customizers. 
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
     Jackett](http://twitter.com/BrianTJackett) (Microsoft) *|*
@@ -166,7 +168,7 @@ slides.
      
 
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -224,7 +226,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Power Apps monthly call**-- November 17th at 8:00 am PDT

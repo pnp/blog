@@ -92,7 +92,8 @@ person at an event one day.**
  
 
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Kudos App sample using Teams Activity Feed API in Microsoft
     Graph** -- showcases how to build a solution leveraging the Teams
@@ -130,7 +131,8 @@ Thank you for your work. Samples are often showcased in Demos.
 
  
 
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   News and updates - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -213,7 +215,7 @@ slides.
  
 
 
-**General resources**:
+## General resources
 
 -   Controls -  [Designing your Microsoft Teams
     app](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-teams-community-call-may-2021/ba-p/Designing%20your%20Microsoft%20Teams%20app) | <https://aka.ms/teams/ui/design>
@@ -235,7 +237,7 @@ slides.
     Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
  

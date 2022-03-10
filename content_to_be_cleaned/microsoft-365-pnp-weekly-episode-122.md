@@ -63,7 +63,7 @@ everyone for your contributions to the community!
     -   Register with coupon code "PnP" for 25% off from the prize at
         <https://nacs.ticketspice.com/nacs2021>
 
-**Microsoft articles:**
+## Microsoft articles
 
 
 -   [Microsoft Teams Rooms on Android | April 2021
@@ -76,7 +76,7 @@ everyone for your contributions to the community!
     1](https://developer.microsoft.com/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-1/)
     - Microsoft
 
-**Community articles:**
+## Community articles
 
 
 -   [Introduction to
@@ -144,7 +144,7 @@ everyone for your contributions to the community!
     [Darrell Webster](https://twitter.com/DarrellaaS) (WM Reply)
     | \@DarrellaaS
 
-**Additional resources:**
+## Additional resources
 
 
 -   [PnP Sharing is Caring

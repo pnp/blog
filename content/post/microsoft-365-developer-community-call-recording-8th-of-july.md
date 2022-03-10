@@ -92,7 +92,8 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 Thank you for making time in your Summer time schedule to join us for
 today's PnP Community call.   You're awesome!   
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Image Column Type formatting in Microsoft 365** -- upload images
     to Site Assets and automatically expose them in a list's Image
@@ -116,7 +117,8 @@ today's PnP Community call.   You're awesome!   
      
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys.com) |
@@ -198,7 +200,7 @@ slides.
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
-**General resources**:
+## General resources
 
 -   PnP Teams Quickstart
     | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
@@ -254,7 +256,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 -   **Office add-in monthly call --** July 14th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)

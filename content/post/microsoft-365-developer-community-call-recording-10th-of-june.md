@@ -99,7 +99,8 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 Thank you for joining for today's PnP Community call.   The auditorium
 was packed.   
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Remote Event Receiver Manager solution in SPFx for managing list
     events** -
@@ -131,7 +132,8 @@ was packed.   
      
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Bert
     Jansen](http://twitter.com/O365bert) (Microsoft) | \@O365bert
@@ -215,7 +217,7 @@ slides.
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
-**General resources**:
+## General resources
 
 -   Microsoft Teams Toolkit v2.2 | <https://aka.ms/teams-toolkit>
 -   [Microsoft 365 PnP Community
@@ -269,7 +271,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 -   **Microsoft Teams monthly call --** June 15th at 8:00 am PDT |
     <https://aka.ms/microsoftteamscommunitycall>

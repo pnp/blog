@@ -137,7 +137,8 @@ Samples: **([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 everyone today.  Happy holidays and new year to you and family. 
  ]
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 **Teams Meetings Apps: Emoji feedback with bot and Adaptive Card
 universal action model --** enables meeting participants to provide
@@ -157,7 +158,8 @@ and demo video, if exist.  Site is launched, instruction on how to
 request and/or deliver samples.    
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | \@paolopia --
@@ -212,7 +214,7 @@ slides.
     Möller](http://twitter.com/Moeller2_0) (Avanade) |
     \@Moeller2_0 | [video ](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/ba-p/3037250)| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-147-%E2%80%93-13th-of-december-2021/)
 
-**General resources**:
+## General resources
 
 -   Samples - [Power Platform
     Samples](https://aka.ms/powerplatform-samples) | [aka.ms/](http://aka.ms/powerplatform-samples)[powerplatform](http://aka.ms/powerplatform-samples)[-samples](http://aka.ms/powerplatform-samples)
@@ -280,7 +282,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Microsoft 365 platform call** -- December 28th at 8:00 am

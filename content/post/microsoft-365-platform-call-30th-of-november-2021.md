@@ -95,7 +95,8 @@ place in chat throughout the call.   
 It's great to see everyone today.  Some of you are joining from the
 European Collaboration Summit in *Düsseldorf*, Germany!
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Microsoft 365 Application Certification --** Microsoft 365 App
     compliance program overview, publisher verification -- how to add a
@@ -124,7 +125,8 @@ European Collaboration Summit in *Düsseldorf*, Germany!
     Graph Explorer.
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Sébastien
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
@@ -175,7 +177,7 @@ slides.
     [aka.askgraphdk](https://docs.microsoft.com/answers/topics/microsoft-graph-sdk.html) 
 
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -233,7 +235,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **SharePoint Framework call** -- December 2nd at 7:00 am PST

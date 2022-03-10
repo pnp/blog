@@ -129,7 +129,8 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 Picture time is back and it's a packed House!  Thank you for joining
 the PnP Community call today.   You're awesome!  
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **List Formatting Magic Tips & Tricks​** -- create a list, add and
     format a location column.  Add a location with link to a map and
@@ -158,7 +159,8 @@ the PnP Community call today.   You're awesome!  
 
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call -- <https://aka.ms/m365pnp/request/demo>
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Bert
     Jansen](http://twitter.com/O365bert) (Microsoft)
@@ -239,7 +241,7 @@ slides.
     Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft)  |
     \@NataliePienkow1
 
-**General resources**:
+## General resources
 
 -   Samples - [Power Platform
     Samples](https://aka.ms/powerplatform-samples) | [aka.ms/](http://aka.ms/powerplatform-samples)[powerplatform](http://aka.ms/powerplatform-samples)[-samples](http://aka.ms/powerplatform-samples)
@@ -307,7 +309,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Microsoft 365 platform call** -- September 21st at 8:00 am PDT

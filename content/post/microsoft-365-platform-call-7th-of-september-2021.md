@@ -76,7 +76,8 @@ place in chat throughout the call.
 Thank you for your continued contributions of your time and talent to
 the betterment of this community.  Stay well.  See you soon.  
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Microsoft Graph Toolkit Latest Releases --** 2 key new features in
     v2.3 are Teams MSAL2 Authentication Provider (built on top of
@@ -103,7 +104,8 @@ the betterment of this community.  Stay well.  See you soon.  
     tenant, specify output parameters -- select or JsonPath queries.   
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
     Jackett](http://twitter.com/BrianTJackett) (Microsoft) |
@@ -164,7 +166,7 @@ slides.
     (Addin365)
     | [\@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -222,7 +224,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Office add-in monthly call** -- September 8th at 8:00 am PDT

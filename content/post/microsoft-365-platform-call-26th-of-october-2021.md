@@ -118,7 +118,8 @@ Thank you everybody for being part of the call today.   Join us next
 Tuesday at this same time for a Microsoft Ignite 2021 watch party.     
  
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Getting started with hub associations in SharePoint - building the
     hub of hubs --** learn about associated hubs and actions - how to
@@ -139,7 +140,8 @@ Tuesday at this same time for a Microsoft Ignite 2021 watch party.     
     Lists, Q&A, Roadmap.
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -184,7 +186,7 @@ slides.
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -242,7 +244,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **M365 General Dev call** -- October 28th at 7:00 am PDT

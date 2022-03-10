@@ -88,7 +88,8 @@ Samples:**<https://aka.ms/teams-samples>
  
 
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Build your first Microsoft Teams Bot** -- Bots are used for Chat,
     Messaging Extensions, Task Modules, and more.   3 options for
@@ -120,7 +121,8 @@ Thank you for your work. Samples are often showcased in Demos.
 
  
 
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Tour the Microsoft 365 Extensibility look book gallery
     - [5:20](https://youtu.be/sQeICJCdFjI?t=320)
@@ -210,7 +212,7 @@ slides.
  
 
 
-**General resources**:
+## General resources
 
 -   Microsoft Learn - [Microsoft Teams development Learning
     Paths](https://docs.microsoft.com/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
@@ -229,7 +231,7 @@ slides.
     Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
  

@@ -133,7 +133,8 @@ Hopefully by the end of this year we will finally have the opportunity
 to meet face-to-face, that would be awesome.
 
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Building your first Power Platform community connector** -- start
     with this brilliant lay-of-the-land overview.   Presenter advises
@@ -163,7 +164,8 @@ to meet face-to-face, that would be awesome.
     please.      
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -246,7 +248,7 @@ slides.
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
-**General resources**:
+## General resources
 
 -   [Microsoft 365 Extensibility look book
     gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) |
@@ -307,7 +309,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 -   **SharePoint Framework call** -- August 26th at 7:00 am PDT
     |[ https://aka.ms/spdev-spfx-call](https://aka.ms/spdev-spfx-call)

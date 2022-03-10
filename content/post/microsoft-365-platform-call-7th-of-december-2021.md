@@ -97,7 +97,8 @@ live at end of the call.   
 Thank you for joining the call today including many who are presently at
 the Microsoft 365 Collaboration Conference in Las Vegas this week! 
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Discover the Microsoft Graph Toolkit (MGT) --** first of several
     sessions on MGT. What is MGT and why use it? Step through 12 major
@@ -119,7 +120,8 @@ the Microsoft 365 Collaboration Conference in Las Vegas this week! 
     developer tenant.
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -162,7 +164,7 @@ slides.
     Program](https://developer.microsoft.com/microsoft-365/dev-program)
     | [aka.ms/m365/devprogram](http://aka.ms/m365/devprogram)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -220,7 +222,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Office add-in monthly call** -- December 8th at 8:00 am PST

@@ -148,7 +148,8 @@ Düsseldorf, Germany and/or at the [Microsoft 365 Collaboration
 Conference](https://sharepointna.com/#!/) in Las Vegas, Nevada, US. 
 Events are filling up, register soon.       
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **ProvisionGenie - a Teams provisioning engine on Power Apps and
     Azure Logic Apps -- **ProvisionGenie blends learning with the
@@ -184,7 +185,8 @@ Events are filling up, register soon.       
 
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates -[Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | \@paolopia --
@@ -254,7 +256,7 @@ slides.
     NataliePienkow1. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-142-natalie-pienkowska/ba-p/2939019) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-142-%e2%80%93-8th-of-november-2021/)
 
 
-**General resources**:
+## General resources
 
 -   Samples - [Power Platform
     Samples](https://aka.ms/powerplatform-samples) | [aka.ms/](http://aka.ms/powerplatform-samples)[powerplatform](http://aka.ms/powerplatform-samples)[-samples](http://aka.ms/powerplatform-samples)
@@ -322,7 +324,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Microsoft 365 platform call** **--** November 16th at 8:00 am

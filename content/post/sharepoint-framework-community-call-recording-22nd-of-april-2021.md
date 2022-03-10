@@ -289,7 +289,7 @@ slides.
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 -   **M365 General Dev call --** April 29th at 7:00 am PDT |
     <https://aka.ms/m365-dev-sig>

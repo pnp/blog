@@ -64,7 +64,7 @@ everyone for your contributions to the community!
         at <https://nacs.ticketspice.com/nacs2021>
 
 
-**Microsoft articles:**
+## Microsoft articles
 
 -   [Behind the scenes on Microsoft Viva with Microsoft
     Mechanics](https://techcommunity.microsoft.com/t5/microsoft-365-blog/behind-the-scenes-on-microsoft-viva-with-microsoft-mechanics/ba-p/2323255?WT.mc_id=m365-28827-wmastyka)
@@ -102,7 +102,7 @@ everyone for your contributions to the community!
     - [Ojasvi Choudhary](https://twitter.com/Ojasvi) (Microsoft)
     | \@Ojasvi
 
-**Community articles:**
+## Community articles
 
 -   [Excel Scripts and Cloud Flows - Data
     Manipulation](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/excel-scripts-and-cloud-flows-data-manipulation/ba-p/2356956?WT.mc_id=m365-28827-wmastyka)
@@ -189,7 +189,7 @@ everyone for your contributions to the community!
     [Megan Strant](https://twitter.com/MeganStrant) (Strant Consulting)
     | [\@MeganStrant](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/579847)
 
-**Additional resources:**
+## Additional resources
 
 -   [Power Platform Sample
     Gallery](https://aka.ms/powerplatform-samples) - for finding easily

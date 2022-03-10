@@ -31,7 +31,7 @@ Hidinger (Microsoft). Presenters include Shiladitya Saha (Microsoft Teams) and K
 
 ## Demo
 
-**Deep dive into Universal Actions for Microsoft Teams and Outlook**
+### Deep dive into Universal Actions for Microsoft Teams and Outlook
 
 cards authored using the new **Action.Execute** action type "just work"
 in Teams chats, Outlook emails and more thanks to seamless back-end

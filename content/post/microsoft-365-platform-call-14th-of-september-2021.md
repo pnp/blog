@@ -86,7 +86,8 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 Thank you for your continued contributions of your time and talent to
 the betterment of this community.  Stay well.  See you soon.  
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Introduction to new modernized SharePoint Store** -- with the
     mid-August GA release, My Apps and SharePoint Store pages have been
@@ -114,7 +115,8 @@ the betterment of this community.  Stay well.  See you soon.  
     the works - feature Roadmap reviewed and input is requested.
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -167,7 +169,7 @@ slides.
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -225,7 +227,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Power Apps monthly call**-- September 15th at 8:00 am PDT

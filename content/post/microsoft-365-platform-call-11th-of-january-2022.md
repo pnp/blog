@@ -105,7 +105,8 @@ takes place in chat throughout and live at end of the call.   
 It's clear, we need a larger room here.  The house is full!  Thank you
 everybody for joining the call today.    
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Introduction to Microsoft Graph connectors SDK -** learn about the
     connectors SDK that will be available for preview in February.  The
@@ -135,7 +136,8 @@ everybody for joining the call today.    
     rendering side-by-side.
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
     Jackett](http://twitter.com/BrianTJackett) (Microsoft)
@@ -214,7 +216,7 @@ slides.
     Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) |
     \@CarmenYsewijn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-148-carmen-ysewijn-qubix/ba-p/3056063) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-148-%E2%80%93-10th-of-january-2022/)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -272,7 +274,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Office add-in monthly call** -- January 12th at 8:00 am PST

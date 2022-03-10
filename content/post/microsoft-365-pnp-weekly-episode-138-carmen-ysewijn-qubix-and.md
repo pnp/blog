@@ -82,7 +82,7 @@ everyone for your contributions to the community!
 
  
 
-**Microsoft articles:**
+## Microsoft articles
 
 
  
@@ -111,7 +111,7 @@ everyone for your contributions to the community!
 
  
 
-**Community articles:**
+## Community articles
 
 
  
@@ -142,7 +142,7 @@ everyone for your contributions to the community!
     [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor)
     | \@WonderLaura\
 
-**Additional resources:**
+## Additional resources
 
 
  

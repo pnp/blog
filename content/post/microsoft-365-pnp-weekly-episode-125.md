@@ -62,7 +62,7 @@ everyone for your contributions to the community!
         at <https://nacs.ticketspice.com/nacs2021>
 
 
-**Microsoft articles:**
+## Microsoft articles
 
 -   [What's New in Microsoft Teams | April
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2021/ba-p/2305291?WT.mc_id=m365-27094-wmastyka) -
@@ -89,7 +89,7 @@ everyone for your contributions to the community!
     center](https://techcommunity.microsoft.com/t5/microsoft-365-blog/updates-to-organizational-theming-in-microsoft-365-admin-center/ba-p/2270839?WT.mc_id=m365-27094-wmastyka) -
     Maha Alam (Microsoft)
 
-**Community articles:**
+## Community articles
 
 -   [Microsoft Graph Mailbag -- Create engaging apps with the Microsoft
     Teams Activity Feed
@@ -158,7 +158,7 @@ everyone for your contributions to the community!
     [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
     | \@waldekm
 
-**Additional resources:**
+## Additional resources
 
 
 -   [Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)

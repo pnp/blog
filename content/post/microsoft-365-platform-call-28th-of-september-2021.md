@@ -92,7 +92,8 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 Seated outdoors and waving in the Fall season.  It's awesome having you
 as a member of this community.    
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Introduction to Microsoft Viva Connections extensibility** -- Viva
     is an Employee Experience Platform (EXP).  Latest Viva Connection
@@ -114,7 +115,8 @@ as a member of this community.    
     Graph Connector search.  Q&A.  
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -181,7 +183,7 @@ slides.
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -239,7 +241,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **M365 General Dev call** -- September 30th at 7:00 am PDT

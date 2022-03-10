@@ -5,7 +5,7 @@ author: "April Dunnam"
 githubname: aprildunnam
 categories: ["Microsoft 365 community"]
 images:
-
+- images/blog/powerful-devs-conference-sept-14th/powerful-devs-hero-banner.png
 tags: []
 type: "regular"
 

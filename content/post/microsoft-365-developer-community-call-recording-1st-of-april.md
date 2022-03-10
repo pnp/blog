@@ -94,7 +94,10 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 **It's together time - Spring time!**
 
 
-**Demos** delivered in this session
+## Demos
+
+
+Demos delivered in this session
 
 -   **List group header formatting options** -- new list formatting
     options in JSON using use groupProps for Group header and footer
@@ -122,8 +125,13 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     Vault, consuming Alation (data catalog) APIs   Uses Fluent and React
     Northstar library components for Teams.    
 
+
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+
+
+## Topics
+
+Topics covered in this call
 
 -   Updates from Microsoft 365 Engineering - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -202,7 +210,7 @@ slides.
 -   Viva Connections <https://aka.ms/VivaConnections>
 
 
-**General resources**:
+## General resources
 
 -   [SharePoint look book](https://lookbook.microsoft.com/)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
@@ -249,7 +257,7 @@ slides.
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Microsoft Graph call - April** 6th at 8:00 am PDT |
@@ -291,6 +299,6 @@ from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
 
 *"Sharing is caring"*
 
-------------------------------------------------------------------------
+------------------------------------------------------------------------    
 
 *Microsoft 365 PnP team, Microsoft - 2nd of April 2021*

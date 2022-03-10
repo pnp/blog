@@ -281,7 +281,7 @@ slides.
 
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Microsoft Teams monthly call --** March 16th at 8:00am PDT |

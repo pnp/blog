@@ -130,7 +130,8 @@ Are there ghosts or shadows occupying seats in this week's Together
 Mode photo?  Mention during call about people \"beaming up/down\" to the
 theater today?  
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Configuration-as-Code for Microsoft 365 with Microsoft365DSC** Desire State Configuration -- a PowerShell Module that
     represents your entire Microsoft 365 tenant's configuration as code
@@ -163,7 +164,8 @@ theater today?  
 
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates -[ Bert
     Jansen](http://twitter.com/O365bert) (Microsoft) | \@O365bert --
@@ -241,7 +243,7 @@ slides.
     Ågren](http://twitter.com/agrenpoint) |
     [\@AgrenPoint](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/271184). | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/ba-p/2881228) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-140-%e2%80%93-25th-of-october-2021/)
 
-**General resources**:
+## General resources
 
 -   Samples - [Power Platform
     Samples](https://aka.ms/powerplatform-samples) | [aka.ms/](http://aka.ms/powerplatform-samples)[powerplatform](http://aka.ms/powerplatform-samples)[-samples](http://aka.ms/powerplatform-samples)
@@ -309,7 +311,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 - **Microsoft 365 platform call** -- November 2nd at 8:00 am PDT

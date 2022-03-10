@@ -50,7 +50,7 @@ Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
 
-**Microsoft articles:**
+## Microsoft articles
 
 -   [SharePoint Roadmap Pitstop: May
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-may-2021/ba-p/2405130?WT.mc_id=m365-30992-wmastyka) -
@@ -81,7 +81,7 @@ everyone for your contributions to the community!
     Teams](https://developer.microsoft.com/microsoft-365/blogs/universal-actions-in-adaptive-cards-on-microsoft-teams/?WT.mc_id=m365-30992-wmastyka)
     - Shiladitya Saha (Microsoft)
 
-**Community articles:**
+## Community articles
 
 -   [Getting started with graph API in SPFx web
     part](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-graph-api-in-spfx-webpart/ba-p/2401064?WT.mc_id=m365-30992-wmastyka)
@@ -126,7 +126,7 @@ everyone for your contributions to the community!
     Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
     \@darrellaas
 
-**Additional resources:**
+## Additional resources
 
 -   [Microsoft Graph Toolkit](https://aka.ms/mgt) - aka.ms/mgt
 -   [PnP Sharing is Caring

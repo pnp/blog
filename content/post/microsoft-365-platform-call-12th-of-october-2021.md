@@ -116,7 +116,8 @@ call and specifically during the last 10 minutes of call. 
 Thank you everybody for being here today in the Microsoft 365 Platform
 Community Call.
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Hands-on with Microsoft Graph File Uploads and Downloads** 
     building file access into a Microsoft 365 application using
@@ -138,7 +139,8 @@ Community Call.
     toolkits.   
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
@@ -197,7 +199,7 @@ slides.
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -255,7 +257,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Office add-in monthly call** -- October 13th at 8:00 am PDT

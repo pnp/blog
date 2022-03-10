@@ -118,7 +118,8 @@ call.   
 Everyone do the Seb Rockelwave!  Thank you again to community members
 and organizations on your November contributions.    
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Introduction to SharePoint on-prem Microsoft Graph connector --**
     the SharePoint on-prem connector shown at Ignite 2021 is in Private
@@ -140,7 +141,8 @@ and organizations on your November contributions.    
     Site Admins and work only with Viva Connections desktop experience.
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -181,7 +183,7 @@ slides.
     book](https://lookbook.microsoft.com/) 
 
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -239,7 +241,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **M365 General Dev call** -- November 25th at 7:00 am PST

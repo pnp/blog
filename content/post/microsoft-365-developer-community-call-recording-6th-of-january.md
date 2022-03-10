@@ -136,7 +136,8 @@ Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-s
 Happy New Year!  Awesome to see everyone 170+ attendees in the call
 today.    Please keep the feedback coming.
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 **Building enterprise solutions with Power Platform - Things to do and
 not to do** -- based on learnings from creating Teams ProvisionGenie
@@ -167,7 +168,8 @@ first pull request and working through publishing process.  Canvas app
 calls a flow that uses connector to get currency information.   
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Bert
     Jansen](http://twitter.com/O365bert) (Microsoft) | \@O365bert --
@@ -259,7 +261,7 @@ slides.
     the Independent Publisher Connector
     Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors)
 
-**General resources**:
+## General resources
 
 -   Script Samples - [Getting started with PnP Script
     Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414)[
@@ -330,7 +332,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
   

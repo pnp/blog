@@ -106,7 +106,8 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 Hello!  it's always great to see everyone on the call today.  Thanks for
 participating. 
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Getting started with HTWOO UI -- Fluent Design in HTML and CSS**
     -- an open-source community driven Fluent UI driven framework that's
@@ -136,7 +137,8 @@ participating. 
      
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Bert
     Jansen](http://twitter.com/O365bert) (Microsoft) \@O365bert
@@ -228,7 +230,7 @@ slides.
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
-**General resources**:
+## General resources
 
 -   [Microsoft 365 PnP Community
     hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
@@ -281,7 +283,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Microsoft Graph call --** June 1st at 8:00 am PDT |

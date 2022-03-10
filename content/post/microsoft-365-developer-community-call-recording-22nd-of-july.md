@@ -94,7 +94,8 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 Thank you for making time in your Summer time schedule to join us for
 today's PnP Community call.   You're awesome!   
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Publish a connector to the Power Platform** -- announcement July
     19, anyone can submit a connector to the Microsoft Power Platform,
@@ -122,7 +123,8 @@ today's PnP Community call.   You're awesome!   
     call from desktop or mobile.    Sample in PnP samples repository.   
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys.com) |
@@ -208,7 +210,7 @@ slides.
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
-**General resources**:
+## General resources
 
 -   PnP Teams Quickstart
     | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
@@ -264,7 +266,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **SharePoint Framework call** -- July 29th at 7:00 am PDT

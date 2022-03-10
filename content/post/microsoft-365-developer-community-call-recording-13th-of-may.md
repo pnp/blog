@@ -84,7 +84,8 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 Great to see all the faces in the community.  Hopefully soon we will get
 to see each other in person.   
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Inspire, inform and prepare employees transition to the new hybrid
     Workplace transformation site** **-** learn about the customizable
@@ -115,7 +116,8 @@ to see each other in person.   
      
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys.com)
@@ -201,7 +203,7 @@ slides.
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
-**General resources**:
+## General resources
 
 -   [Microsoft 365 PnP Community
     hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
@@ -254,7 +256,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Microsoft Teams monthly call --** May 18th at 8:00 am PDT |

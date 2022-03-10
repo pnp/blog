@@ -105,7 +105,8 @@ An absolutely packed house today.  Great seeing everyone.
 
 
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Latest on Microsoft Graph Explorer** -- specifically focusing on 3
     new features - ***Pagination*** (with odata.nextLink- ability to
@@ -126,7 +127,8 @@ An absolutely packed house today.  Great seeing everyone.
 
 Thank you for your work. Samples are often showcased in Demos.
 
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Sébastien
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
@@ -166,7 +168,7 @@ slides.
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -225,7 +227,7 @@ slides.
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **SharePoint Framework call** October 7th at 7:00 am PDT

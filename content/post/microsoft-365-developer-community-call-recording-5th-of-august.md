@@ -104,7 +104,8 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
 A packed house today.  Hope all are enjoying summer or winter, in
 Southern Hemisphere.  Nice seeing everyone.   Be well.  
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Power Platform Tips & Tricks** -- collaborate in a Power App
     within a Microsoft Teams meeting using Main Stage (Developer
@@ -132,7 +133,8 @@ Southern Hemisphere.  Nice seeing everyone.   Be well.  
     expressions reviewed as well.   
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys.com) |
@@ -213,7 +215,7 @@ slides.
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -271,7 +273,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Office add-in monthly call** -- August 11th at 8:00 am PDT |

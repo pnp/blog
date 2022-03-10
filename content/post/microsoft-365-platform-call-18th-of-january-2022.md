@@ -109,7 +109,8 @@ live at end of the call.   
 Thank you everybody for joining the call today.   Brilliant to see many
 familiar faces week after week
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Show a user's emails in an ASP.NET Core app with Microsoft
     Graph** -- configure .NET app (or Python, Java Script, Java) to
@@ -138,7 +139,8 @@ familiar faces week after week
     See code and rendering side-by-side.
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
@@ -231,7 +233,7 @@ slides.
     Williams](http://twitter.com/williamsrabia) (Microsoft) |
     [rabwill](https://github.com/rabwill) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -289,7 +291,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Power Apps monthly call**-- January 19th at 8:00 am PST

@@ -59,7 +59,7 @@ everyone for your contributions to the community!
         at <https://nacs.ticketspice.com/nacs2021>
 
 
-**Microsoft articles:**
+## Microsoft articles
 
 -   [Use SharePoint's new site templates
     today!](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/use-sharepoint-s-new-site-templates-today/ba-p/2304372?WT.mc_id=m365-27875-wmastyka) -
@@ -81,7 +81,7 @@ everyone for your contributions to the community!
     [Chris McNulty](https://twitter.com/cmcnulty2000) (Microsoft)
     | \@cmcnulty2000
 
-**Community articles:**
+## Community articles
 
 -   [SharePoint App Catalog Development
     Tips](https://julieturner.net/2021/05/sharepoint-app-catalog-development-tips/?utm_source=rss&utm_medium=rss&utm_campaign=sharepoint-app-catalog-development-tips) -
@@ -139,7 +139,7 @@ everyone for your contributions to the community!
     |  \@DanielGlenn & [Darrel Webster](https://twitter.com/DarrellaaS)
     (WM Reply) | \@DarrellaaS
 
-**Additional resources:**
+## Additional resources
 
 -   [Power Platform Sample
     Gallery](https://aka.ms/powerplatform-samples) - for finding easily

@@ -86,7 +86,8 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 Thank you for joining for today's PnP Community call.   It's a full
 house!   
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Getting started with PnP Teams QuickStart** -- create a Teams SSO
     tab in 15 minutes using browser-based Codespaces currently in
@@ -117,7 +118,8 @@ house!   
      
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Bert
     Jansen](http://twitter.com/O365bert) (Microsoft) | \@O365bert
@@ -194,7 +196,7 @@ slides.
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
-**General resources**:
+## General resources
 
 -   Microsoft Teams Toolkit v2.2 | <https://aka.ms/teams-toolkit>
 -   [Microsoft 365 PnP Community
@@ -248,7 +250,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **SharePoint Framework call** **--** July 1st at 7:00 am PDT |

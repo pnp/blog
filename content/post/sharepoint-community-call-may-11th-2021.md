@@ -178,7 +178,7 @@ Additional resources on covered topics and discussions.
 
 -   Viva Connections <https://aka.ms/VivaConnections> 
 
-**Additional resources:**
+## Additional resources
 
 -   [PnP Weekly - Videos](https://aka.ms/pnpweekly)
 -   [PnP Weekly - Podcasts](http://pnpweekly.podbean.com/)
@@ -204,7 +204,7 @@ Additional resources on covered topics and discussions.
     - <http://aka.ms/spdev-uservoice>
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 -   **Office add-in monthly call --** May 12th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)

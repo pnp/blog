@@ -63,7 +63,7 @@ everyone for your contributions to the community!\
 -   April 14, 2021 - [Building Apps with Microsoft
     Graph](https://learntogether-graph.splashthat.com/)
 
-**Microsoft articles:**
+## Microsoft articles
 
 
 -   ["SharePoint: 20 years
@@ -106,7 +106,7 @@ everyone for your contributions to the community!\
     Dunnam](https://twitter.com/aprildunnam) (Microsoft) |
     \@aprildunnam
 
-**Community articles:**
+## Community articles
 
 
 -   [SharePoint Framework v1.12 Deprecated!!! (+ how to roll

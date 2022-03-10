@@ -59,7 +59,7 @@ everyone for your contributions to the community!
         at <https://nacs.ticketspice.com/nacs2021>
 
 
-**Microsoft articles:**
+## Microsoft articles
 
 -   [Rebrand apps to your own organization's branding with App
     customization in
@@ -77,7 +77,7 @@ everyone for your contributions to the community!
     Graph\...](https://developer.microsoft.com/microsoft-365/blogs/announcing-new-file-components-msal-2-provider-and-sharepoint-framework-library-in-microsoft-graph-toolkit/?WT.mc_id=m365-29364-wmastyka) -
     Microsoft
 
-**Community articles:**
+## Community articles
 
 -   [Microsoft 365 PnP Community Spotlight: Garry
     Trinder](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-garry-trinder/ba-p/2377740?WT.mc_id=m365-29364-wmastyka)
@@ -129,7 +129,7 @@ everyone for your contributions to the community!
     - [Joanne C Klein](https://twitter.com/JoanneCKlein)
     | \@JoanneCKlein
 
-**Additional resources:**
+## Additional resources
 
 -   [Power Platform Sample
     Gallery](https://aka.ms/powerplatform-samples) - for finding easily

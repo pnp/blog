@@ -84,7 +84,8 @@ Samples:** <https://aka.ms/teams-samples>
  
 
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Introduction to Microsoft Teams Developer Portal** - Meet the new
     and improved app management console for developers.  Access the
@@ -115,7 +116,8 @@ Thank you for your work. Samples are often showcased in Demos.
 
  
 
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   News and updates - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -179,7 +181,7 @@ slides.
  
 
 
-**General resources**:
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   Microsoft Learn - [Microsoft Teams development Learning
@@ -199,7 +201,7 @@ slides.
     Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
  

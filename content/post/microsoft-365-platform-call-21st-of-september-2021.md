@@ -104,7 +104,8 @@ everybody.   See you again soon.  
     secure applications and drive customer adoption.   Surveys are being
     sent out this week. 
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Microsoft Teams Sample code showcase** -- 4 Microsoft produced
     Teams samples - Build tabs with Adaptive Cards (build Teams tabs
@@ -125,7 +126,8 @@ everybody.   See you again soon.  
     the Viva Dashboard (web part) in Teams.
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
     Jackett](http://twitter.com/BrianTJackett) (Microsoft)
@@ -189,7 +191,7 @@ slides.
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -247,7 +249,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **SharePoint Framework call** -- September 23rd at 7:00 am PDT

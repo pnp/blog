@@ -149,7 +149,8 @@ aka.ms/script-samples/getting-started
 Thanks everyone for joining the call today.  You are an awesome
 community.   
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 **Getting started on building a Microsoft Teams bot with yo teams** --
 what is yo teams (a Microsoft Teams app generator) and how to use it to
@@ -176,7 +177,8 @@ build - a text field, a button (calls connector with action create) and
 a flow.   This connector is now available to anyone in the world. 
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Bert
     Jansen](http://twitter.com/O365bert) (Microsoft) | \@O365bert --
@@ -253,7 +255,7 @@ slides.
     Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) |
     \@CarmenYsewijn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-148-carmen-ysewijn-qubix/ba-p/3056063) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-148-%E2%80%93-10th-of-january-2022/) 
 
-**General resources**:
+## General resources
 
 -   Script Samples - [Getting started with PnP Script
     Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) --
@@ -317,7 +319,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Microsoft 365 platform call** **--** January 25th at 8:00 am PST

@@ -265,9 +265,19 @@
 
 .card {
   @extend .shadow;
-  border: 0;
+
+  border-radius: 2px;
+  border: none; //-color: rgb(50,49,48);
   background-color: $white;
   transition: .2s ease;
+
+  &:hover::after {
+    content: " ";
+    position: absolute;
+    inset: 0px;
+    border: 1px solid rgb(200, 198, 196);
+    pointer-events: none;
+}
 
   &-body {
     padding: 25px;
@@ -517,6 +527,7 @@
 
 // content style
 .content {
+
 
   * {
     word-break: break-word;

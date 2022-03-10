@@ -132,7 +132,8 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 Thank you everybody (200+) for being part of this community call today. 
 Awesome to see everyone in the house.
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Introduction to Embedded Search Box (ESB) --** with few lines of
     code, add Microsoft search box to any intranet site/page for easy
@@ -153,7 +154,8 @@ Awesome to see everyone in the house.
     in both desktop and mobile.
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -189,7 +191,7 @@ slides.
     your
     organization](https://docs.microsoft.com/sharepoint/home-site-plan) 
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -247,7 +249,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Office add-in monthly call** -- November 10th at 8:00 am PDT

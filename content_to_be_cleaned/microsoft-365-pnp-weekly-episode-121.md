@@ -63,7 +63,7 @@ everyone for your contributions to the community!
 -   May 25-27, 2021- [Microsoft Build
     2021](https://mybuild.microsoft.com/)
 
-**Microsoft articles:**
+## Microsoft articles
 
 
 -   [Install Viva Connections
@@ -99,7 +99,7 @@ everyone for your contributions to the community!
     [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) |
     \@aprildunnam
 
-**Community articles:**
+## Community articles
 
 
 -   [Microsoft Graph Fundamentals learning path -- Module
@@ -162,7 +162,7 @@ everyone for your contributions to the community!
 
  
 
-**Additional resources:**
+## Additional resources
 
 
  

@@ -212,7 +212,7 @@ slides.
 -   Viva Connections <https://aka.ms/VivaConnections>
 
 
-**General resources**:
+## General resources
 
 -   [SharePoint look book](https://lookbook.microsoft.com/)
 -   [Yo Teams video training package](http://aka.ms/yoteams-training)
@@ -258,7 +258,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **SharePoint Framework call** -- March 25th at 7:00 am PDT |

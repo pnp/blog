@@ -44,7 +44,7 @@ everyone for your contributions to the community!
 
 
 
-**Microsoft articles:**
+## Microsoft articles
 
 -   [Announcing SharePoint Framework 1.12 -- Extending more of Microsoft
     Teams](https://developer.microsoft.com/microsoft-365/blogs/announcing-sharepoint-framework-1-12-extending-more-of-microsoft-teams/) -
@@ -70,7 +70,7 @@ everyone for your contributions to the community!
     \@waldekm
 
 
-**Community articles:**
+## Community articles
 
 -   [Getting started with SharePoint's custom view
     formatting](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-s-custom-view-formatting/ba-p/2222740)

@@ -255,7 +255,7 @@ slides.
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 -   **SharePoint monthly call --** June 8th at 8:00am PDT |
     <https://aka.ms/sp-call>

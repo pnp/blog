@@ -50,7 +50,7 @@ everyone for your contributions to the community!
         at <https://nacs.ticketspice.com/nacs2021>
 
 
-**Microsoft articles:**
+## Microsoft articles
 
 -   [Build the next generation of collaborative apps for hybrid
     work](https://www.microsoft.com/microsoft-365/blog/2021/05/25/build-the-next-generation-of-collaborative-apps-for-hybrid-work/?WT.mc_id=m365-30273-wmastyka) -
@@ -93,7 +93,7 @@ everyone for your contributions to the community!
     Winners!](https://developer.microsoft.com/graph/blogs/microsoft-teams-app-development-challenge-winners/?WT.mc_id=m365-30273-wmastyka) -
     Microsoft
 
-**Community articles:**
+## Community articles
 
 -   [Microsoft 365 PnP Community Spotlight: Hugo
     Bernier](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-hugo-bernier/ba-p/2377738?WT.mc_id=m365-30273-wmastyka) -
@@ -158,7 +158,7 @@ everyone for your contributions to the community!
     Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
     \@darrellaas
 
-**Additional resources:**
+## Additional resources
 
 -   [Power Platform Sample
     Gallery](https://aka.ms/powerplatform-samples) - for finding easily

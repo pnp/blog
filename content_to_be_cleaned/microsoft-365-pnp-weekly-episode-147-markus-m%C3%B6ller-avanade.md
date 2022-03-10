@@ -73,7 +73,7 @@ caring!"* 
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
-**Microsoft articles:**
+## Microsoft articles
 
 
 -   [Explore the new Microsoft Teams Store and discover apps for work
@@ -103,7 +103,7 @@ everyone for your contributions to the community!
     | \@aprildunnam
 
 
-**Community articles:**
+## Community articles
 
 
 -   [Adoption with
@@ -125,7 +125,7 @@ everyone for your contributions to the community!
     1](https://www.youtube.com/watch?v=CAE6FRW2aig) - [Paolo
     Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@paolopia
 
-**Additional resources:**
+## Additional resources
 
 
 -   [Extend Microsoft Viva

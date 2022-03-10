@@ -150,7 +150,7 @@ Additional resources on covered topics and discussions.
 
 -   Microsoft Teams Samples Gallery | aka.ms/teams-samples
 
-**Additional resources:**
+## Additional resources
 
 -   [PnP Weekly - Videos](https://aka.ms/pnpweekly)
 -   [PnP Weekly - Podcasts](http://pnpweekly.podbean.com/)
@@ -176,7 +176,7 @@ Additional resources on covered topics and discussions.
     - <http://aka.ms/spdev-uservoice>
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 -   **Office add-in monthly call --** April 14th at 8:00 am PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)

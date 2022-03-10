@@ -279,7 +279,7 @@ slides.
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 -   **Power Apps monthly call** -- July 21st at 8:00 am PDT |
     <https://aka.ms/PowerAppsMonthlyCall>

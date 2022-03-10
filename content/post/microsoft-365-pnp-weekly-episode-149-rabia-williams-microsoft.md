@@ -9,27 +9,11 @@ images:
 tags: []
 type: "regular"
 ---
-{{< image alt="Thumb-Ep149-January 17.png" src="images/blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/Thumb-Ep149-January 17.png" >}}
 
- 
 
-In this installment of the weekly discussion revolving around the
-latest news and topics on ][Microsoft
-365][, hosts
--- ][Vesa
-Juvonen](http://twitter.com/vesajuvonen)[ (Microsoft) |
-\@vesajuvonen, ][Waldek
-Mastykarz](http://twitter.com/waldekm)[ (Microsoft) | \@waldekm are
-joined ]by Brisbane, Queensland,
-Australia-based Cloud Developer Advocate for Microsoft Teams and Graph,
-[Rabia Williams](http://twitter.com/williamsrabia) (Microsoft) |
-\@williamsrabia. 
-
- 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph, [Rabia Williams](http://twitter.com/williamsrabia) (Microsoft) | @williamsrabia. 
 
 Topics discussed in this session:
-
- 
 
 -   On becoming an MVP and subsequently joining Microsoft during a
     Pandemic. 
@@ -43,30 +27,25 @@ Topics discussed in this session:
 We also covered 21 articles published by Microsoft and the PnP Community
 over the last week. 
 
- 
-
 Please remember to keep on providing us feedback on how we can help on
 this journey. We always welcome feedback on making the community more
 inclusive and diverse.
 
- 
-
-
-
- 
-
 This session was recorded on Monday, January 17, 2022.   Enjoy the
 show. 
 
- 
+## YouTube
 
+Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
+ 
+{{< youtube Z9ml69_W30U >}}
+ 
 
--   Video at [Microsoft 365 Community YouTube
-    channel](https://aka.ms/m365pnp-videos)
--   Podcast format
-    at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+## Podcast
 
- 
+Podcast format at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+
+{{< podbean sharelink="pb-8tdhh-1180e09" title="PnP Weekly">}}
 
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
@@ -78,17 +57,10 @@ hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
 always on the lookout for refreshingly new content. "*Sharing is
 caring!"* 
 
- 
-
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
- 
-
-**Microsoft articles:**
-
-
- 
+## Microsoft articles
 
 -   [Most used SharePoint Framework solutions from the Store - December
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-december/ba-p/3057395) -
@@ -123,12 +95,7 @@ everyone for your contributions to the community!
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
     | \@aprildunnam
 
- 
-
-**Community articles:**
-
-
- 
+## Community articles
 
 -   [CLI for Microsoft 365 on your
     mobile](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-on-your-mobile/ba-p/3052058)
@@ -185,12 +152,7 @@ everyone for your contributions to the community!
     [Sarah Haase](https://twitter.com/sarahhaase) (U.S. Bank)
     | \@sarahhaase
 
- 
-
-**Additional resources:**
-
-
- 
+## Additional resources
 
 -   Microsoft 365 Unified Sample Gallery (preview)
     - <https://aka.ms/m365/samples> 
@@ -204,13 +166,10 @@ everyone for your contributions to the community!
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
- 
 
 If you'd like to hear from a specific community member in an upcoming
 recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
-
- 
 
 *"Sharing is caring!" *

@@ -152,7 +152,7 @@ of this community.  Wishing you a happy and healthy entry into 2022.
 -   Open discussion on any topics around Microsoft 365 --
     [9:37](https://youtu.be/goyvp3Eh-1s?t=577)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -210,7 +210,7 @@ of this community.  Wishing you a happy and healthy entry into 2022.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **SharePoint Framework call** -- December 30th at 7:00 am PST

@@ -89,7 +89,8 @@ Thank you for being part of the community and for helping others to
 succeed.  You are awesome!
  
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Delegated and application permissions in the Microsoft Identity
     Platform** -- demystifies the identity model with a clearly
@@ -122,7 +123,8 @@ succeed.  You are awesome!
      
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Bert
     Jansen](http://twitter.com/o365bert) (Microsoft) | \@O365bert
@@ -203,7 +205,7 @@ slides.
     Gallery](https://pnp.github.io/teams-dev-samples/) |
     aka.ms/teams-samples
 
-**General resources**:
+## General resources
 
 -   [Microsoft 365 PnP Community
     hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
@@ -256,7 +258,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 -   **Microsoft Graph call -** May 4th at 8:00 am PDT |
     <https://aka.ms/microsoftgraphcall>

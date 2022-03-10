@@ -105,7 +105,8 @@ place in chat throughout and live at end of the call.   
 Thank you for joining the call.  It is great to see over 200 attendees
 on this call today.
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Script buttons for Office Scripts --** what are Office Scripts,
     target user and usage scenario?  What are script buttons and how you
@@ -136,7 +137,8 @@ on this call today.
     for user information.    
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
     Jackett](http://twitter.com/BrianTJackett) (Microsoft) *|*
@@ -201,7 +203,7 @@ slides.
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
     \@sebastienlevert
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -259,7 +261,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **Power Apps monthly call**-- December 15th at 8:00 am PST

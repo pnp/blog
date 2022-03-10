@@ -1,0 +1,10 @@
+{{ $src:= (.Get "sharelink") }}
+{{ $title:= (.Get "title") }}
+{{ $cleanSrc:= replaceRE `pb-(.*)` "$1-pb" $src 1 }}
+{{ .Scratch.Set "shareLink" $cleanSrc }}
+
+
+<iframe title="{{ $title }}" allowtransparency="true" height="300" width="100%"
+  style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player"
+  src="https://www.podbean.com/player-v2/?i={{.Scratch.Get `shareLink`}}&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&btn-skin=3267a3&size=300"
+  allowfullscreen=""></iframe>

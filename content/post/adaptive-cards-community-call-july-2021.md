@@ -44,9 +44,9 @@ throughout the call.  This call was hosted by Matt Hidinger (Microsoft)
     AdaptiveCards.io/designer site.   Cards, templates, sample data,
     snippets, guidance, card submissions, full syntax highlighting and
     more.   
-    - Also a sneak peek at MadeWithCards Api -- work in progress. 
+    - Also a sneak peek at MadeWithCards API -- work in progress. 
 
-**Referenced in this call:**
+## Referenced in this call
 
 -   Tools -- [Adaptive Card
     Studio](https://marketplace.visualstudio.com/items?itemName=madewithcardsio.adaptivecardsstudiobeta) 

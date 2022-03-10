@@ -158,7 +158,8 @@ forward to continuing sharing and caring with community in 2022.
     card designer, dynamic cards, 1st[ and
     2]nd[ party cards.   
      ]
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -166,7 +167,7 @@ forward to continuing sharing and caring with community in 2022.
 -   Open discussion on any topics around Microsoft 365 --
     [14:12](https://youtu.be/o57wqT7i7tY?t=852)
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -224,7 +225,7 @@ forward to continuing sharing and caring with community in 2022.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **M365 General Dev call** -- December 23rd at 7:00 am PST

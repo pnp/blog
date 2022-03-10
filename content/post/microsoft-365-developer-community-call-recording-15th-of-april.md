@@ -77,7 +77,8 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 **It's together time - Super comfy seats!     **
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **SharePoint Content Type APIs in Microsoft Graph** - Classic
     SharePoint APIs are now showing up in Microsoft Graph.   In this
@@ -105,7 +106,8 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     aggregates, hiding, tips on double nesting and more.      
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Bert
     Jansen](http://twitter.com/o365bert) (Microsoft) | \@O365bert
@@ -195,7 +197,7 @@ slides.
 -   Viva Connections <https://aka.ms/VivaConnections>
 
 
-**General resources**:
+## General resources
 
 -   [SharePoint look
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
@@ -242,7 +244,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **M365 General Dev call --** April 15th at 7:00 am PDT |

@@ -5,7 +5,7 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 community"]
 images:
-
+- images/blog/updates-on-the-microsoft-365-platform-community-calls/VesaJuvonen_1-1624888942819.png
 tags: []
 type: "regular"
 ---

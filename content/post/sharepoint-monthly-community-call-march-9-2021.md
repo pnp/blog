@@ -152,7 +152,7 @@ Additional resources on covered topics and discussions.
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 
-**Additional resources:**
+## Additional resources
 
 
 -   [PnP Weekly - Videos](https://aka.ms/pnpweekly)
@@ -179,7 +179,7 @@ Additional resources on covered topics and discussions.
     <http://aka.ms/spdev-uservoice>
 
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 -   **Office add-in monthly call --** March 10th at 8 AM PDT |
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)

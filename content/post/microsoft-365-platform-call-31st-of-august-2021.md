@@ -97,7 +97,8 @@ call.
 Thank you for your continued contributions of your time and talent to
 the betterment of this community.  Stay well.  See you soon.  
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **Getting started with Microsoft Graph Toolkit** -- there is lots of
     data and insights available to developers via Microsoft Graph.  
@@ -125,7 +126,8 @@ the betterment of this community.  Stay well.  See you soon.  
     Teams UI kit.   See the fluent UI libraries on GitHub and npm.    
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
@@ -178,7 +180,7 @@ slides.
 -   GitHub Library -
     [\@fluentui/react-teams](https://github.com/OfficeDev/microsoft-teams-ui-component-library#readme) 
 
-**General resources**:
+## General resources
 
 -   Archives - Microsoft 365 PnP Weekly
     - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
@@ -236,7 +238,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 
 -   **M365 General Dev call** -- September 2nd at 7:00 am PDT

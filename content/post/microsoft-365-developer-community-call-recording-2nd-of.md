@@ -115,7 +115,8 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -   No new Script samples this week
 
-**Demos** delivered in this session
+## Demos
+Demos delivered in this session
 
 -   **SharePoint Approval Workflow Status Tracking with Column
     Formatting --** create dynamic multi-step expense approval workflow
@@ -146,7 +147,8 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
     App.         
 
 Thank you for your work. Samples are often showcased in Demos.
-**Topics** covered in this call
+## Topics
+Topics covered in this call
 
 -   PnP .NET library updates - [Bert
     Jansen](http://twitter.com/O365bert) (Microsoft)
@@ -228,7 +230,7 @@ slides.
     |
     [troystaylor](https://github.com/troystaylor)]
 
-**General resources**:
+## General resources
 
 -   Samples - [Power Platform
     Samples](https://aka.ms/powerplatform-samples) | [aka.ms/](http://aka.ms/powerplatform-samples)[powerplatform](http://aka.ms/powerplatform-samples)[-samples](http://aka.ms/powerplatform-samples)
@@ -296,7 +298,7 @@ slides.
 -   [SharePoint Modernization
     Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
-**Upcoming Calls | Recurrent Invites:**
+## Upcoming Calls | Recurrent Invites
 
 -   **Microsoft 365 platform call** -- September 7that 8:00 am PDT
     | <https://aka.ms/m365-dev-call>

@@ -90,7 +90,7 @@ everyone for your contributions to the community!
 
  
 
-**Microsoft articles:**
+## Microsoft articles
 
 
  
@@ -110,7 +110,7 @@ everyone for your contributions to the community!
 
  
 
-**Community articles:**
+## Community articles
 
 
  
@@ -162,7 +162,7 @@ everyone for your contributions to the community!
 
  
 
-**Additional resources:**
+## Additional resources
 
 
  
