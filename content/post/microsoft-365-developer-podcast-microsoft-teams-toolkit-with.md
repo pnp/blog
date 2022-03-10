@@ -39,4 +39,4 @@ Listen to the show here: 
 ## Community Links 
 
 -   [Azure AD User Account Federation Report
-    (\@darrenjrobinson)](https://blog.darrenjrobinson.com/azure-ad-user-account-federation-report/)
+    (@darrenjrobinson)](https://blog.darrenjrobinson.com/azure-ad-user-account-federation-report/)

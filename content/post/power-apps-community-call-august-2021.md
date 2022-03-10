@@ -41,9 +41,9 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
     [14:09](https://youtu.be/KwXWgWoMLsk?t=849)
 -   How To Feed Your Dragon Game - [Gerard
     Simpson](http://twitter.com/PowerFanAddict) (SSE Renewables) |
-    \@PowerFanAddict -- [25:47](https://youtu.be/KwXWgWoMLsk?t=1547)
+    @PowerFanAddict -- [25:47](https://youtu.be/KwXWgWoMLsk?t=1547)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) | \@chass
+    Sterling](http://twitter.com/chass) (Microsoft) | @chass
     -- [44:42](https://youtu.be/KwXWgWoMLsk?t=2682)
 
 

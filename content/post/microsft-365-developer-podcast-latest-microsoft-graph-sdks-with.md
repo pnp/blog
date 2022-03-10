@@ -37,6 +37,6 @@ and Darrel Miller
 ## Community Links 
 
 -   [Microsoft Teams Meeting Apps -- Lifecycle basics
-    (\@Moeller2_0)](https://mmsharepoint.wordpress.com/2021/09/21/microsoft-teams-meeting-apps-lifecycle-basics/)
+    (@Moeller2_0)](https://mmsharepoint.wordpress.com/2021/09/21/microsoft-teams-meeting-apps-lifecycle-basics/)
 -   [Graph.Community library on the Community CloudCast
-    (\@paulschaeflein)](https://www.schaeflein.net/graph-community-library-on-the-community-cloudcast/)
+    (@paulschaeflein)](https://www.schaeflein.net/graph-community-library-on-the-community-cloudcast/)

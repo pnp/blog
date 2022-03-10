@@ -351,7 +351,7 @@ exteruseremailadd\...](https://graph.microsoft.com/v1.0/users?$filter=UserType%2
 
 or
 
-[https://graph.microsoft.com/v1.0/users?\$filter=startswith(mail,'[exteruseremailaddress\@domain.com]'u)](https://graph.microsoft.com/v1.0/users?$filter=startswith(mail,'fejom29487@troikos.com'))
+[https://graph.microsoft.com/v1.0/users?\$filter=startswith(mail,'[exteruseremailaddress@domain.com]'u)](https://graph.microsoft.com/v1.0/users?$filter=startswith(mail,'fejom29487@troikos.com'))
 
 Find below the Graph API endpoint http request details to [invite the
 external

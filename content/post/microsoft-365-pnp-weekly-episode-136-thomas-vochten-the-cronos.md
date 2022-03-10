@@ -16,11 +16,11 @@ type: "regular"
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Belgium-based MVP and Technology Evangelist from The [Cronos
 Group](https://cronos-groep.be/en/) - [Thomas
-Vochten](https://twitter.com/ThomasVochten) | \@ThomasVochten.
+Vochten](https://twitter.com/ThomasVochten) | @ThomasVochten.
 
  
 
@@ -107,30 +107,30 @@ everyone for your contributions to the community!\
     2021](https://www.collabdays.org/2021-benl/)
 -   [Parse CSV through Code in Power Automate Custom
     Connection](http://johnliu.net/blog/2021/9/parse-csv-through-code-in-power-automate-custom-connection) -
-    [John Liu](https://twitter.com/johnnliu) (Flow Studio) | \@johnnliu
+    [John Liu](https://twitter.com/johnnliu) (Flow Studio) | @johnnliu
 -   [SharePoint Custom List
     Templates](https://wonderlaura.com/2021/09/21/sharepoint-custom-list-templates/) -
     [Laura Rogers](https://twitter.com/wonderlaura) (WI Mentor)
-    | \@wonderlaura
+    | @wonderlaura
 -   [How to use the Microsoft Graph SDK Chaos Handler to Simulate Graph
     API
     Errors](https://camerondwyer.com/2021/09/23/how-to-use-the-microsoft-graph-sdk-chaos-handler-to-simulate-graph-api-errors/) -
     [Cameron Dwyer](https://twitter.com/CameronDwyer) (OnePlace
-    Solutions) | \@CameronDwyer
+    Solutions) | @CameronDwyer
 -   [PnP Modern Search Filters web
     part](https://searchexplained.com/pnp-modern-search-filters-web-part/) -
     [Agnes Molnar](https://twitter.com/molnaragnes) (Search Explained)
-    | \@molnaragnes
+    | @molnaragnes
 -   [Using Font Awesome Icons In
     PowerApps](https://www.c-sharpcorner.com/article/using-font-awesome-icons-in-powerapps/)
-    - [Siddharth Vaghasia](https://twitter.com/siddh_me) | \@siddh_me
+    - [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh_me
 -   [Getting started with the Microsoft Teams Framework
     (TeamsFx)](https://thomy.tech/getting-started-with-the-microsoft-teams-framework-teamsfx/) -
-    [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | \@thomyg
+    [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
 -   [Adaptive Scope Retention Policy | A
     Walk-Thru](https://joannecklein.com/2021/09/24/adaptive-scope-retention-policy-a-walk-thru/)
     - [Joanne C Klein](https://twitter.com/JoanneCKlein)
-    | \@JoanneCKlein
+    | @JoanneCKlein
 
  
 

@@ -16,7 +16,7 @@ working with Power Automate. Some limits are due to licensing but some
 are due to other good reasons. I was running a PoC where a person
 interacting with a Power Virtual Agent bot required to do actions on
 behalf of that person. And after digging some information out (Thank
-you [\@Tomasz](https://poszytek.eu/en/homepage/) for helping there! ) it
+you [@Tomasz](https://poszytek.eu/en/homepage/) for helping there! ) it
 was clear that I had reached the wall when I was trying to make my
 little bot to set up Out of Office for the interacting user. Using the
 Office 365 Set Automatic Replies action always works on

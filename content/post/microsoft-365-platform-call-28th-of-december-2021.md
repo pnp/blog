@@ -39,7 +39,7 @@ platform.   
     for PnP Search and Open Discussions in January!   New class **Viva
     Connections ACEs (Feb 2022)**
 -   Join us for Viva Connections and SharePoint Framework community
-    call, 30th of December \@7:00 AM PT.  Three demos will be
+    call, 30th of December @7:00 AM PT.  Three demos will be
     delivered - Building Viva Connection ACE extension or managing
     Planner Tasks, Viva Connections ACEs CardView Types in SharePoint
     Framework, and SharePoint Framework design patterns.
@@ -52,7 +52,7 @@ platform.   
 
 The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen.  Discussion takes place throughout this call.   
+@vesajuvonen.  Discussion takes place throughout this call.   
 
 **Microsoft 365 Platform News Flash**
 
@@ -126,7 +126,7 @@ of this community.  Wishing you a happy and healthy entry into 2022.
     stored](https://docs.microsoft.com/microsoft-365/enterprise/o365-data-locations?view=o365-worldwide)
 -   Updates on combining PnP Community calls -- no changes at present.
 -   Microsoft 365 Developer call promotion (agenda, recordings, demos)
-    on twitter [\@Microsoft365Dev](https://twitter.com/microsoft365dev)
+    on twitter [@Microsoft365Dev](https://twitter.com/microsoft365dev)
     and on Facebook <https://www.facebook.com/M365Dev>. 
 -   Logic behind not provisioning Site Assets library when providing
     site?  Code at [SharePoint Provisioning
@@ -148,7 +148,7 @@ of this community.  Wishing you a happy and healthy entry into 2022.
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [7:19](https://youtu.be/goyvp3Eh-1s?t=439)
+    @vesajuvonen -- [7:19](https://youtu.be/goyvp3Eh-1s?t=439)
 -   Open discussion on any topics around Microsoft 365 --
     [9:37](https://youtu.be/goyvp3Eh-1s?t=577)
 
@@ -177,7 +177,7 @@ of this community.  Wishing you a happy and healthy entry into 2022.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

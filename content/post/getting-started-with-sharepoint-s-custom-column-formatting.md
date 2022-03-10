@@ -127,7 +127,7 @@ column, resulting in the following:
 ## Working with text 
 
 In the last example, we used the *txtContent* property and the
-**\@currentField** built-in variable. For basic SharePoint field types,
+**@currentField** built-in variable. For basic SharePoint field types,
 such as text, you can simply do like what was done in that example.
 However, some field types -- such as people or date fields - may require
 a little extra work.
@@ -153,8 +153,8 @@ transformation shown at the beginning.
 ### Raw value vs Display value 
 
 Notice how it's using that **displayValue** property of
-**\@currentField**? We could have simply done like in the original
-example and simply referenced the **\@currentField** and have gotten
+**@currentField**? We could have simply done like in the original
+example and simply referenced the **@currentField** and have gotten
 away with it except that it would only display the raw numeric value,
 such as 1234 (sans comma).
 By adding the additional property, we're telling SharePoint to "give us
@@ -336,13 +336,13 @@ Like the previous example, we've loaded up some images in well-known
 location, and we've made sure that we've named our image files the same
 as the corresponding choices available in the choice field.
 What's special here is the use of the *forEach* attribute. The value
-"**weapon in \@currentField**" tells SharePoint "*Hey, for each selected
+"**weapon in @currentField**" tells SharePoint "*Hey, for each selected
 option, create a copy of this element*"; in this case, our image
 element.
 You'll also notice that in our *src* attribute, instead of using the
-*\@currentField* built-in, we're using the **\[\$weapon\]** variable.
-Whatever text you put in front of "**in \@currentField**" will be your
-variable name, so if we had said "**thing in \@currentField**", our
+*@currentField* built-in, we're using the **\[\$weapon\]** variable.
+Whatever text you put in front of "**in @currentField**" will be your
+variable name, so if we had said "**thing in @currentField**", our
 variable would be **\[\$thing\]**.
 
 ### Dealing with conditions 

@@ -35,7 +35,7 @@ Cards](https://aka.ms/teams-dev-docs), [Microsoft Teams
 Toolkit](https://aka.ms/teams-toolkit) and [Developer
 Portal](https://aka.ms/teams-dev-docs).   The host of this call was
 [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen.  Q&A takes place in chat throughout the call
+@vesajuvonen.  Q&A takes place in chat throughout the call
 
 ## Actions
 
@@ -136,7 +136,7 @@ Topics covered in this call
 
 -   News and updates - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen - [3:11](https://youtu.be/wwTExv2Ha4g?t=191)
+    @vesajuvonen - [3:11](https://youtu.be/wwTExv2Ha4g?t=191)
 
 -   Build 2021 Recap on Microsoft Teams platform announcements -
     [9:15](https://youtu.be/wwTExv2Ha4g?t=555)
@@ -234,7 +234,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 
 
 ## Upcoming Calls | Recurrent Invites

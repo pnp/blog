@@ -66,12 +66,12 @@ everyone for your contributions to the community!
 -   [Most used SharePoint Framework solutions from the Store - December
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-december/ba-p/3057395) -
     [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
-    | \@vesajuvonen
+    | @vesajuvonen
 -   [Microsoft Graph Mailbag -- Using LargeFileUploadTask with Microsoft
     Graph
     SDKs](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-mailbag-using-largefileuploadtask-with-sdks/) -
     [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft)
-    | [\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556)
+    | [@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556)
 -   [New Single Sign-on service for Office Add-ins rolling out in Office
     on the
     web](https://devblogs.microsoft.com/microsoft365dev/new-single-sign-on-service-for-office-add-ins-rolling-out-in-office-on-the-web/) -
@@ -82,76 +82,76 @@ everyone for your contributions to the community!
 -   [January 2022 -- Syntex Licensing Updates and New Year
     Reflections](https://techcommunity.microsoft.com/t5/sharepoint-syntex-blog/january-2022-syntex-licensing-updates-and-new-year-reflections/ba-p/3062090) -
     [Chris McNulty](https://twitter.com/cmcnulty2000) (Microsoft)
-    | \@cmcnulty2000
+    | @cmcnulty2000
 -   [Syntex content assembly and the content
     lifecycle](https://techcommunity.microsoft.com/t5/sharepoint-syntex-blog/syntex-content-assembly-and-the-content-lifecycle/ba-p/3060175) -
     [Chris McNulty](https://twitter.com/cmcnulty2000) (Microsoft)
-    | \@cmcnulty2000
+    | @cmcnulty2000
 -   [Easily manage your Microsoft 365 apps with CLI for Microsoft
     365](https://blog.mastykarz.nl/easily-manage-microsoft-365-apps-cli-microsoft-365/) -
     [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
-    | \@waldekm
+    | @waldekm
 -   [Power Apps Collections
     Basics](https://www.youtube.com/watch?v=ipzIWfHVhDc) - [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    | \@aprildunnam
+    | @aprildunnam
 
 ## Community articles
 
 -   [CLI for Microsoft 365 on your
     mobile](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-on-your-mobile/ba-p/3052058)
     - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy)
-    | \@Adam25858782
+    | @Adam25858782
 -   [PnP PowerShell or CLI for Microsoft 365 or both or
     other](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/ba-p/3055126)
     - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy)
-    | \@Adam25858782
+    | @Adam25858782
 -   [Microsoft 365 self-service using Power
     Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-self-service-using-power-apps/ba-p/3056109)
-    - [Jan Bakker](https://twitter.com/janbakker_) | \@janbakker\_
+    - [Jan Bakker](https://twitter.com/janbakker_) | @janbakker\_
 -   [Working with Custom Connectors in Power Platform for
     beginners](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/working-with-custom-connectors-in-power-platform-for-beginners/ba-p/3062538) -
     [Michael Roth](https://twitter.com/MichaelRoth42) (IT-P Information
     Technology-Partner GmbH)
-    | [\@MichaelRoth42](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/514421)
+    | [@MichaelRoth42](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/514421)
 -   [Working with APIs in Power Platform for
     beginners](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/working-with-apis-in-power-platform-for-beginners/ba-p/3062520)
     - [Michael Roth](https://twitter.com/MichaelRoth42) (IT-P
     Information Technology-Partner GmbH)
-    | [\@MichaelRoth42](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/514421)
+    | [@MichaelRoth42](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/514421)
 -   [PnP PowerShell/CSOM Now Works With SharePoint Sites.Selected
     Permission using Azure AD
     App](https://www.leonarmston.com/2022/01/pnp-powershell-csom-now-works-with-sharepoint-sites-selected-permission-using-azure-ad-app/) -
     [Leon Armston](http://twitter.com/LeonArmston) (Intelogy)
-    | [\@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    | [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
 -   [Working with Apps for Microsoft Teams
     meetings](https://www.vrdmn.com/2022/01/working-with-apps-for-microsoft-teams.html) -
     [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions)
-    | \@vrdmn
+    | @vrdmn
 -   [How to create a To Do list using SharePoint and Microsoft Lists
     view formatting -- Part
     3](https://lists.handsontek.net/create-list-using-sharepoint-microsoft-lists-view-formatting-part-3/)
     - [João Ferreira](https://twitter.com/joao12ferreira) (Beezy)
-    | \@joao12ferreira
+    | @joao12ferreira
 -   [Configure Teams Tab
     applications](https://mmsharepoint.wordpress.com/2022/01/11/configure-teams-tab-applications/) -
     [Markus Möller](https://twitter.com/Moeller2_0) (Avanade)
-    | \@Moeller2_0
+    | @Moeller2_0
 -   [Set the task priority in Microsoft Planner using Power
     Automate](https://sharepains.com/2022/01/10/task-priority-in-microsoft-planner/)
     - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT
-    Services) | \@PieterVeenstra
+    Services) | @PieterVeenstra
 -   [Episode #189 - Shared Files Governance via Microsoft
     Graph](https://www.youtube.com/watch?v=_odZgZvGcNY) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiasSys) | \@PaoloPia
+    Pialorsi](https://twitter.com/PaoloPia) (PiasSys) | @PaoloPia
 -   [Role Touchpoints during Information Governance and Records
     Management
     Implementation](https://regarding365.com/role-touchpoints-during-information-governance-and-records-management-implementation-c35d87f6b8d1)
-    - [Joanne Klein](https://twitter.com/JoanneCKlein) | \@JoanneCKlein
+    - [Joanne Klein](https://twitter.com/JoanneCKlein) | @JoanneCKlein
 -   [Where to share important corporate
     documents](https://regarding365.com/where-to-share-important-corporate-documents-b4c039a730f8) -
     [Sarah Haase](https://twitter.com/sarahhaase) (U.S. Bank)
-    | \@sarahhaase
+    | @sarahhaase
 
 ## Additional resources
 

@@ -44,7 +44,7 @@ platform.   
     Paul Schaeflein (Addin365).
 -   **PnP Weekly -- Episode 145** (November 29th) with Bristol,
     England, United Kingdom-based Senior Program Manager [Rabeb
-    Othmani](http://twitter.com/Rabeb_Othmani) | \@Rabeb_Othmani, on
+    Othmani](http://twitter.com/Rabeb_Othmani) | @Rabeb_Othmani, on
     the Microsoft Graph Dev-X
     team. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-145-%e2%80%93-29th-of-november-2021/)
 -   The great people, supportive organizations and solid work done in
@@ -130,17 +130,17 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Sébastien
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
-    \@sebastienlevert -- [9:00](https://youtu.be/nzPfDZFbvm0?t=540)
+    @sebastienlevert -- [9:00](https://youtu.be/nzPfDZFbvm0?t=540)
 -   **D1**: Microsoft 365 Application Certification - Arpitha Dhanapathi
     (Microsoft) | *Intro only as technical issues precluded capturing
     the full recording*. -- [12:01](https://youtu.be/nzPfDZFbvm0?t=721)
 -   **D2:**  Consume a multi-tenant API within Viva Connections Adaptive
     Card Extensions (ACEs) -- [Paolo
-    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia &
+    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia &
     [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [14:33](https://youtu.be/nzPfDZFbvm0?t=873)
+    @vesajuvonen -- [14:33](https://youtu.be/nzPfDZFbvm0?t=873)
 -   **D3:**  Introduction to Microsoft Graph Go SDK -- [Vincent
-    Biret](http://twitter.com/baywet) (Microsoft) | \@baywet --
+    Biret](http://twitter.com/baywet) (Microsoft) | @baywet --
     [28:56](https://youtu.be/nzPfDZFbvm0?t=1736)
 
 
@@ -202,7 +202,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

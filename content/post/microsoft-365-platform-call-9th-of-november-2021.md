@@ -50,7 +50,7 @@ platform.   
 
 The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen.  Q&A takes place in chat throughout the call   
+@vesajuvonen.  Q&A takes place in chat throughout the call   
 
 **Microsoft 365 Platform News Flash**
 
@@ -159,16 +159,16 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [7:52](https://youtu.be/1fdex0a5css?t=472)
+    @vesajuvonen -- [7:52](https://youtu.be/1fdex0a5css?t=472)
 -   **Demo 1:**  Introduction to Embedded Search Box -- Shubham Gatkal
     (Microsoft) -- [11:45](https://youtu.be/1fdex0a5css?t=705) 
 -   **Demo 2:**[  Microsoft Learn Module - Extend Microsoft Viva
     Connections with Adaptive Card Extensions --
     ][Waldek
-    Mastykarz](http://twitter.com/waldekm)[ (Microsoft) | \@waldekm &
+    Mastykarz](http://twitter.com/waldekm)[ (Microsoft) | @waldekm &
     ][Vesa
     Juvonen](http://twitter.com/vesajuvonen)[ (Microsoft) |
-    \@vesajuvonen ]--
+    @vesajuvonen ]--
     [22:35](https://youtu.be/1fdex0a5css?t=1355)
 
 
@@ -216,7 +216,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

@@ -22,8 +22,8 @@ tips on evaluating/adopting CAE.   Resilient methods for fetching
 metadata and validating tokens including use of customized token
 validation, as needed.   This session was delivered by Microsoft Program
 Managers [Harish Suresh](http://twitter.com/harish_suresh) |
-\@harish_suresh and [Kyle Marsh](http://twitter.com/kylemar) |
-\@kylemar and was recorded on June 17, 2021.  Live and in chat Q&A
+@harish_suresh and [Kyle Marsh](http://twitter.com/kylemar) |
+@kylemar and was recorded on June 17, 2021.  Live and in chat Q&A
 throughout call
 
 
@@ -91,7 +91,7 @@ throughout call
 **Stay connected:**
 
 -   Twitter [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​
-    and \@azuread
+    and @azuread
 -   YouTube [https://aka.ms/M365DevYouTube](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3RzWmpNU2VPRmh6dXBad3hKMmxySjBaQVl6Z3xBQ3Jtc0trVjYyeXZlSXZiX0JydHlyeHdqcTRSUnczX2xrVDloOWhzeGVCYXFibjBiM1VpXzFOd2dZX2dJdlNYQWYtekcyWXZOTHp3VkdoU2JsdmNVQ3dtdkw2ZHF0cVdCS29TQmJ1Z3hoVmJyd3JtYlFxUW92WQ&q=https%3A%2F%2Faka.ms%2FM365DevYouTube)​
 -   Blog <https://aka.ms/m365pnp/community/blog>
 -   Recurrent Invite  <https://aka.ms/IDDevCommunityCalendar> 

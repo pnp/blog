@@ -33,7 +33,7 @@ for **SharePoint** Online.
 -   Register for the [PnP Recognition
     Program](https://aka.ms/m365pnp-recognition).
 -   SharePoint Framework 1.13.1 released - npm install -g
-    [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint
+    [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint
 -   The Road Ahead after 1.13.1 -- 1.14 and future.
 -   Modernized app catalog for SharePoint Framework solutions - Preview
 -   PnP project releases in the last two weeks
@@ -56,7 +56,7 @@ Additionally, there were 2 extensions, 2 web parts and 2 ACE
 **samples** were delivered!  Triple 2's are just great! Your
 contributions are greatly appreciated by many.  The host of this call is
 [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-\@mediocrebowler.  Q&A takes place as always in chat throughout the
+@mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
 {{< image alt="211202-together-mode.gif" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-2nd-of/211202-together-mode.gif" >}}
 Awesome to see many of you seated in those plush brown seats and others

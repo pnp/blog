@@ -15,10 +15,10 @@ type: "regular"
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Bristol, England, United Kingdom-based Senior Program Manager
-[Rabeb Othmani](http://twitter.com/Rabeb_Othmani) | \@Rabeb_Othmani, on
+[Rabeb Othmani](http://twitter.com/Rabeb_Othmani) | @Rabeb_Othmani, on
 the Microsoft Graph Dev-X team.
 
  
@@ -92,7 +92,7 @@ everyone for your contributions to the community!
 -   [The journey to Viva Topics adoption success:
     Initiate](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/the-journey-to-viva-topics-adoption-success-initiate/ba-p/2976653)
     - [Matt Wolodarsky](https://twitter.com/mwolodarsky) (Microsoft)
-    | \@mwolodarsky
+    | @mwolodarsky
 
  
 
@@ -104,27 +104,27 @@ everyone for your contributions to the community!
 -   [Monitor and Notify M365 health using CLI for Microsoft
     365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ba-p/3000703) -
     [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consultancy
-    Services) | \@arjunumenon
+    Services) | @arjunumenon
 -   [Create an event page with SharePoint, SharePoint Spaces and
     formatted
     Lists](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/ba-p/2994438) - [Anand
     Ragav](https://twitter.com/anandVragav) (Ericsson)
-    | [\@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372)
+    | [@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372)
 -   [M365 Dev Podcast - Microsoft News: November
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/m365-dev-podcast-microsoft-news-november-2021/ba-p/2997175) -
-    [Jeremy Thake](https://twitter.com/jthake) (Microsoft) | \@jthake &
+    [Jeremy Thake](https://twitter.com/jthake) (Microsoft) | @jthake &
     [Paul Schaeflein](http://twitter.com/paulschaeflein) (AddIn365)
-    | [\@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113)
+    | [@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113)
 -   [Microsoft Graph PowerShell SDK 1.9.0
     Released](https://helloitsliam.com/2021/11/24/microsoft-graph-powershell-sdk-1-9-0-released/) -
-    [Liam Cleary](https://twitter.com/helloitsliam) | \@helloitsliam
+    [Liam Cleary](https://twitter.com/helloitsliam) | @helloitsliam
 -   [Episode #182 - Navigation in Adaptive Card Extensions
     (ACEs)](https://www.youtube.com/watch?v=0OycGbfta9o) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@paolopia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @paolopia
 -   [Learn how to use Microsoft Loop with
     me](https://regarding365.com/learn-how-to-use-microsoft-loop-with-me-ea33487cc438)
     - [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace
-    Change) | \@darrellaas
+    Change) | @darrellaas
 
  
 

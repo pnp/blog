@@ -38,7 +38,7 @@ requests.
 A huge thank you to the record number of contributors and organizations
 actively participating in this PnP Community during April. Month over
 month, you continue to amaze.  The host of this call was [Vesa
-Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \@vesajuvonen. 
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call. 
 {{< image alt="210511-together-mode.gif" src="images/blog/sharepoint-community-call-may-11th-2021/210511-together-mode.gif" >}}
  
@@ -102,13 +102,13 @@ Channel](https://aka.ms/m365pnp-videos).
 -   Community contributors and companies which have been involved in the
     past month -- [11:56](https://youtu.be/PlXxbx7qNlc?t=716) 
 -   Topic: SharePoint Syntex:   Product overview and latest feature
-    updates - Sean Squires  (Microsoft) | \@iamseansquires --
+    updates - Sean Squires  (Microsoft) | @iamseansquires --
     [15:28](https://youtu.be/PlXxbx7qNlc?t=928)
     -   **Demo: ** How to build and publish a document understanding
-        model - James Eccles (Microsoft) | \@jimdeccles --
+        model - James Eccles (Microsoft) | @jimdeccles --
         [24:52](https://youtu.be/PlXxbx7qNlc?t=1492)
     -   **Demo:** SharePoint Syntex integration and automation options
-        - Bert Jansen (Microsoft) | \@o365bert --
+        - Bert Jansen (Microsoft) | @o365bert --
         [39:36](https://youtu.be/PlXxbx7qNlc?t=2376)
 The full recording of this session is available from Microsoft 365 &
 SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.

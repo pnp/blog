@@ -50,7 +50,7 @@ nightly!  Subscribe to nightly releases for the latest capabilities. **
 
 The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-\@DavidWarnerII.   Q&A takes place in chat throughout the call.
+@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 ## Actions
 
@@ -117,11 +117,11 @@ Samples: **([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 6 new scenarios and 1 script update contributed by
 
 -   [Rodrigo Pinto](http://twitter.com/ScoutmanPt) (Storm Technology) |
-    \@ScoutmanPt
+    @ScoutmanPt
 -   [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) |
-    [\@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+    [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
 -   [Kasper Larsen](http://twitter.com/kasperbolarsen) |
-    \@kasperbolarsen
+    @kasperbolarsen
 -   Jiten Parmar
 
 Blog: [Getting started with PnP Script
@@ -172,49 +172,49 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft) | \@O365bert --
+    Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert --
     [6:50](https://youtu.be/25L63KGPru0?t=410)
 
 -   PnP PowerShell updates - [Bert Jansen](http://twitter.com/O365bert)
     (Microsoft) |
-    \@O365bert -- [8:54](https://youtu.be/25L63KGPru0?t=534)
+    @O365bert -- [8:54](https://youtu.be/25L63KGPru0?t=534)
 
 -   yo Teams updates - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [9:45](https://youtu.be/25L63KGPru0?t=585)
+    @DavidWarnerII -- [9:45](https://youtu.be/25L63KGPru0?t=585)
 
 -   Microsoft Graph Toolkit updates - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [10:19](https://youtu.be/25L63KGPru0?t=619)
+    @DavidWarnerII -- [10:19](https://youtu.be/25L63KGPru0?t=619)
 
 -   Microsoft Script Samples - [Paul
     Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) |
-    \@pkbullock -- [2:40](https://youtu.be/25L63KGPru0?t=160)
+    @pkbullock -- [2:40](https://youtu.be/25L63KGPru0?t=160)
 
 -   Microsoft Teams Samples - [Bob
     German](http://twitter.com/Bob1German) (Microsoft) |
-    \@Bob1German -- [10:58](https://youtu.be/25L63KGPru0?t=658)
+    @Bob1German -- [10:58](https://youtu.be/25L63KGPru0?t=658)
 
 -   Microsoft Power Platform Samples - [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
+    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
     -- [12:19](https://youtu.be/25L63KGPru0?t=739)
 
 -   **Demo 1**:  Building enterprise solutions with Power Platform -
     Things to do and not to do -- [Luise
     Freese](http://twitter.com/LuiseFreese)[ |
-    \@LuiseFreese ]--
+    @LuiseFreese ]--
     [14:24](https://youtu.be/25L63KGPru0?t=864)
 
 -   **Demo 2**:  SharePoint site provisioning with Microsoft Teams
     Notifications using Bot Framework -- [Sergei
     Sergeev](http://twitter.com/sergeev_srg) (Mastaq) |
-    \@sergeev_srg -- [27:22](https://youtu.be/25L63KGPru0?t=1642)
+    @sergeev_srg -- [27:22](https://youtu.be/25L63KGPru0?t=1642)
 
 -   **Demo 3**:  Updates on Independent Publisher Connectors & Coinbase
     Connector Demo -- [Natalie
     Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) |
-    \@NataliePienkow1 & [Roy Paar](http://twitter.com/RoyPaar)
-    (Microsoft) | [\@RoyPaar](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1268106)
+    @NataliePienkow1 & [Roy Paar](http://twitter.com/RoyPaar)
+    (Microsoft) | [@RoyPaar](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1268106)
     ** ** ** **
 
     -- [40:50](https://youtu.be/25L63KGPru0?t=2450)
@@ -299,7 +299,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

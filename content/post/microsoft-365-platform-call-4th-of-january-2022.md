@@ -50,7 +50,7 @@ platform.   
     platform.
 
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
-(Microsoft) | \@vesajuvonen.  Q&A takes place in chat throughout and
+(Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and
 live at end of the call.   
 
 **Microsoft 365 Platform News Flash**
@@ -139,10 +139,10 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [8:12](https://youtu.be/kZ_JwZpbJb4?t=492)
+    @vesajuvonen -- [8:12](https://youtu.be/kZ_JwZpbJb4?t=492)
 -   **D1**:  Introduction to Microsoft Teams ISV app monetization
     capabilities -- [James Skay](http://twitter.com/JamesSkay)
-    (Microsoft) | \@JamesSkay --
+    (Microsoft) | @JamesSkay --
     [10:43](https://youtu.be/kZ_JwZpbJb4?t=643)
 -   **D2**:  Microsoft Graph Toolkit -- Using the Person Component in
     your solutions -- [Sébastien
@@ -152,7 +152,7 @@ Topics covered in this call
 -   **D3**:  Introduction to new Adaptive Cards samples for Viva
     Connections Quick View designs -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [45:21](https://youtu.be/kZ_JwZpbJb4?t=2721)
+    @vesajuvonen -- [45:21](https://youtu.be/kZ_JwZpbJb4?t=2721)
 
 
 ## Resources
@@ -240,7 +240,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

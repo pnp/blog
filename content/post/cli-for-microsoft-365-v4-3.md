@@ -153,7 +153,7 @@ length and complexity. We've added a new command that simplifies the
 ability for you to test and validate example passwords against
 your organisation's policy.
  
-To validate the password *cli365P\@ssW0rd* against your organisation's
+To validate the password *cli365P@ssW0rd* against your organisation's
 password validation policy, execute:
  
  

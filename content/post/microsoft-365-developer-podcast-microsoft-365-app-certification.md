@@ -34,9 +34,9 @@ Listen to the show here: 
 
 -   [Microsoft Graph Toolkit in a Teams application with yo teams (and
     SSO)
-    (\@Moeller2_0)](https://mmsharepoint.wordpress.com/2021/09/01/microsoft-graph-toolkit-in-a-teams-application-with-yo-teams-and-sso/)
+    (@Moeller2_0)](https://mmsharepoint.wordpress.com/2021/09/01/microsoft-graph-toolkit-in-a-teams-application-with-yo-teams-and-sso/)
 -   [Bringing external data into Microsoft 365 - custom search result
     types and verticals
-    (\@ChrisO_Brien)](https://www.sharepointnutsandbolts.com/2021/09/Microsoft-365-custom-search-vertical-result-type.html)
+    (@ChrisO_Brien)](https://www.sharepointnutsandbolts.com/2021/09/Microsoft-365-custom-search-vertical-result-type.html)
 -   [Azure SDK / Identity series
-    (\@jongallant)](https://blog.jongallant.com/tags/azure-identity/)
+    (@jongallant)](https://blog.jongallant.com/tags/azure-identity/)

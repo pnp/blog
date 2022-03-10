@@ -86,7 +86,7 @@ contributor to [Sharing is
 Caring](https://pnp.github.io/sharing-is-caring/) initiative.
 
 You can read his blog at [spdcp.com](https://spdcp.com/) and his random
-thoughts on twitter [\@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
+thoughts on twitter [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
 
 Outside of work he can be seen wandering the streets of Reykjavik
 looking for new restaurants or pubs
@@ -129,7 +129,7 @@ contributing to the technical community is the best way to help the
 technology evolve.
 His blog is available at [www.m365-dev.com](https://www.m365-dev.com/)
 and you can follow him on
-[\@JoelFMRodrigues](https://twitter.com/JoelFMRodrigues).
+[@JoelFMRodrigues](https://twitter.com/JoelFMRodrigues).
 Outside of work, I am generally keeping my young son busy and visiting
 places around the UK.
 
@@ -143,7 +143,7 @@ author living in Belgium. He's been working with SharePoint since 2007
 and made the transition to Office 365 and Azure. His main focus is
 development, but as you all know\... working with SharePoint, Microsoft
 365 and Azure will require you to understand a bit from everything.
-He's a managing partner [\@Advantive
+He's a managing partner [@Advantive
 Belgium](https://twitter.com/advantive) and you can connect with him on
 [various platforms](https://www.rickvanrousselt.com/about).
 If Rick is not online he's spending time with his family or visiting a
@@ -180,7 +180,7 @@ He also loves List Formatting in SharePoint development and contributes
 to the [community GitHub
 repository](https://github.com/pnp/List-Formatting).
 You can read his blogs at <https://mynote365.hatenadiary.com> and tweets
-[\@techan_k](https://twitter.com/techan_k).
+[@techan_k](https://twitter.com/techan_k).
 
 \
 When Tetsuya is not working, he often watches manga, anime, and movies.

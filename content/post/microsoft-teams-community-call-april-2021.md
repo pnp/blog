@@ -35,7 +35,7 @@ Teams apps with these best practices](https://aka.ms/m365dev/blog)."
 Microsoft Teams
 app](https://docs.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-overview)"
 with layout guidance and reusable assets.  The host of this call was
-Vesa Juvonen (Microsoft) | \@vesajuvonen.  Q&A takes place in chat
+Vesa Juvonen (Microsoft) | @vesajuvonen.  Q&A takes place in chat
 throughout the call.
 
 ## Actions
@@ -129,19 +129,19 @@ Topics covered in this call
 
 -   Latest News - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen - [9:07](https://youtu.be/sQeICJCdFjI?t=547)
+    @vesajuvonen - [9:07](https://youtu.be/sQeICJCdFjI?t=547)
 
 -   **Demo:**  Build your first Microsoft Teams Bot - [Stephan
     Bisser](http://twitter.com/stephanbisser) (Solvion) |
-    \@stephanbisser - [11:53](https://youtu.be/sQeICJCdFjI?t=713)
+    @stephanbisser - [11:53](https://youtu.be/sQeICJCdFjI?t=713)
 
 -   **Demo:**  Surfacing your existing solution in Microsoft Teams -
     [Rick Van Rousselt](http://twitter.com/RickVanRousselt) (Advantive)
-    | \@RickVanRousselt - [27:48](https://youtu.be/sQeICJCdFjI?t=1668)
+    | @RickVanRousselt - [27:48](https://youtu.be/sQeICJCdFjI?t=1668)
 
 -   **Demo:**  Transforming your SharePoint Framework web part as a
     Microsoft Teams personal app - [Albert-Jan
-    Schot](http://twitter.com/appieschot) (Portiva) | \@appieschot -
+    Schot](http://twitter.com/appieschot) (Portiva) | @appieschot -
     [43:20](https://youtu.be/sQeICJCdFjI?t=2600)
 
  
@@ -228,7 +228,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 
 
 ## Upcoming Calls | Recurrent Invites

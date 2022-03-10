@@ -215,7 +215,7 @@ In that if statement I am checking if three things are all true.
 registered. This expression is using
 a [IndexOf](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#operators) binary
 operator and
-a [\@me](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#special-string-values) special
+a [@me](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#special-string-values) special
 string value. When the expression returns -1 it hasn't found the e-mail
 and the button will still be shown.
 2. It will compare
@@ -225,7 +225,7 @@ course. When that isn't equal the number of available places the
 register button will still be shown.
 3. If the current date is before the registration date the register
 button will still be shown.
-The [\@now](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#special-string-values) special
+The [@now](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#special-string-values) special
 string value is used for this.
 In the bottom of the json I am using the same expressions only in
 individual divs and the true false values will be in reserve. This is to

@@ -43,14 +43,14 @@ platform.   
     **Episode 141** (November 1st) with UK-based SharePoint developer
     and MVP at Storm Technology - [Joel
     Rodrigues](http://twitter.com/JoelFMRodrigues) |
-    \@JoelFMRodrigues. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-141-joel-rodrigues-storm/ba-p/2908830) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-141-%E2%80%93-1st-of-november-2021/)
+    @JoelFMRodrigues. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-141-joel-rodrigues-storm/ba-p/2908830) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-141-%E2%80%93-1st-of-november-2021/)
 -   [Microsoft 365 Community (PnP) -- October 2021
     update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-october-2021-update/ba-p/2834987) is
     now available.
 -   Hear about this week's top Microsoft 365 Platform related stories
 -   **Ignite watch party:**  Microsoft Ignite 2021 opening keynote --
     [Satya Nadella](http://twitter.com/satyanadella) (Microsoft) |
-    \@satyanadella.
+    @satyanadella.
 -   Event wrap -- keynote highlights - favorite announcements shared by
     call viewers.
 
@@ -166,7 +166,7 @@ have a great event.    
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

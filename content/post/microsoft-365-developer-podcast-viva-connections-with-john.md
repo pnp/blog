@@ -34,7 +34,7 @@ Bandinelli
 ### Community Links 
 
 -   [How to determine web part size with SPFx v1.12
-    (\@yhabersaat)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-determine-web-part-size-with-spfx-v1-12/ba-p/2230898)
+    (@yhabersaat)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-determine-web-part-size-with-spfx-v1-12/ba-p/2230898)
 -   [spfx-fast-serve 2.0: new architecture, better extensibility,
     support of the latest
     SPFx](https://spblog.net/post/2021/05/04/spfx-fast-serve-2-0-new-architecture-better-extensibility-support-of-the-latest-spfx)

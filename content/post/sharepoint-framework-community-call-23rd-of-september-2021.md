@@ -48,7 +48,7 @@ previous report 2 weeks ago) 
  Visit the new samples repository for Adaptive Card Extensions (ACE) -
 aka.ms/spfx-aces.  Thank you all for your contributions!   The host of
 this call is [David Warner II](http://twitter.com/DavidWarnerII)
-(Catapult Systems) \@DavidWarnerII.  Live Q&A at end and in chat
+(Catapult Systems) @DavidWarnerII.  Live Q&A at end and in chat
 throughout this call.
 {{< image alt="210923-together-mode.gif" src="images/blog/sharepoint-framework-community-call-23rd-of-september-2021/210923-together-mode.gif" >}}
 Picture time is back!  Great to see all of you today.  Looking forward
@@ -128,7 +128,7 @@ to seeing some of you in Düsseldorf or Las Vegas later this year. 
 -   **[Copy/Move Items within
     Lists](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-copy-move-items)
     -** [Sudharsan
-    Kesavanarayanan](http://twitter.com/sudharsank)[ | \@sudharsank](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-share-to-teams)
+    Kesavanarayanan](http://twitter.com/sudharsank)[ | @sudharsank](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-share-to-teams)
 
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
@@ -138,11 +138,11 @@ to seeing some of you in Düsseldorf or Las Vegas later this year. 
     [Aimery Thomas](http://twitter.com/aimery_thomas) | @aimery_thomas
 -   **[Teams Membership
     Updater](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-membership-updater)** -
-    [Nick Brown](http://twitter.com/techienickb) | \@techienickb
+    [Nick Brown](http://twitter.com/techienickb) | @techienickb
 -   **[Advanced Page
     Properties](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-advanced-page-properties)** -
     [Abderahman
-    Moujahid](http://twitter.com/Abderahman88) | \@Abderahman88
+    Moujahid](http://twitter.com/Abderahman88) | @Abderahman88
 -   **[News](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-news)** -
     [Alison
     Collins](https://github.com/ReactIntern) | <https://github.com/ReactIntern>
@@ -153,38 +153,38 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [5:57](https://youtu.be/5dUg6n6JQ7c?t=357)
+    @vesajuvonen -- [5:57](https://youtu.be/5dUg6n6JQ7c?t=357)
 -   PnPjs Client-Side Libraries - [Julie
     Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
-    \@jfj1997 -- [8:21](https://youtu.be/5dUg6n6JQ7c?t=501)
+    @jfj1997 -- [8:21](https://youtu.be/5dUg6n6JQ7c?t=501)
 -   CLI for Microsoft 365 - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [9:49](https://youtu.be/5dUg6n6JQ7c?t=589)
+    @DavidWarnerII -- [9:49](https://youtu.be/5dUg6n6JQ7c?t=589)
 -   PnP SPFx Controls - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [10:29](https://youtu.be/5dUg6n6JQ7c?t=629)
+    @DavidWarnerII -- [10:29](https://youtu.be/5dUg6n6JQ7c?t=629)
 -   PnP Modern Search - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [11:26](https://youtu.be/5dUg6n6JQ7c?t=686) 
+    @DavidWarnerII -- [11:26](https://youtu.be/5dUg6n6JQ7c?t=686) 
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
-    \@bernierh -- [11:53](https://youtu.be/5dUg6n6JQ7c?t=713)
+    @bernierh -- [11:53](https://youtu.be/5dUg6n6JQ7c?t=713)
 
 ## Demos
 
 -   **D1:  **Apply a custom theme or a variation of the current
     SharePoint theme directly to the web part -- [Fabio
-    Franzini](http://twitter.com/franzinifabio) | \@franzinifabio --
+    Franzini](http://twitter.com/franzinifabio) | @franzinifabio --
     [15:01](https://youtu.be/5dUg6n6JQ7c?t=901)
 
 -   **D2:** Accessing personal files easily with My OneDrive Web Part
     -- [Siddharth
-    Vaghasia](http://twitter.com/siddh_me) | \@siddh_me --
+    Vaghasia](http://twitter.com/siddh_me) | @siddh_me --
     [26:23](https://youtu.be/5dUg6n6JQ7c?t=1583)
 
 -   **D3:** Surface user specific calendar events with my Outlook
     events web part build -- [Chandani
-    Prajapati](http://twitter.com/Chandani_SPD) | \@Chandani_SPD --
+    Prajapati](http://twitter.com/Chandani_SPD) | @Chandani_SPD --
     [35:38](https://youtu.be/5dUg6n6JQ7c?t=2138)
 
 
@@ -200,7 +200,7 @@ slides.
     SharePoint Framework
     solutions](https://pnp.github.io/sp-dev-fx-property-controls/) 
 
--   D1:  Tools - [\@fluentui/scheme-utilities --
+-   D1:  Tools - [@fluentui/scheme-utilities --
     npm](https://www.npmjs.com/package/@fluentui/scheme-utilities) 
 
 -   D2:  Sample - [My
@@ -222,7 +222,7 @@ slides.
 -   **[PnP Weekly -- Episode 135]** with
     [German-based MVP and founder
     of ][Nubelus](https://www.nubelus.com/)[Adis
-    Jugo](https://twitter.com/adisjugo)[ | \@adisjugo. |
+    Jugo](https://twitter.com/adisjugo)[ | @adisjugo. |
     ][video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-135-adis-jugo-nubelus/ba-p/2770145)[
     |
     ][podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-135-%e2%80%93-22nd-of-september-2021/)
@@ -248,7 +248,7 @@ slides.
     Brochure) - aka.ms/modernworkbuildsessions
 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)

@@ -16,10 +16,10 @@ latest news and topics on Microsoft
 365 hosts
 -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen,[Waldek
+@vesajuvonen,[Waldek
 Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Munich, Germany-based consultant and MVP, [Markus
-Möller](http://twitter.com/Moeller2_0) (Avanade) | \@Moeller2_0. 
+Möller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0. 
 
 Topics discussed in this session:
 
@@ -87,20 +87,20 @@ everyone for your contributions to the community!
 -   [Understanding Azure AD Single Sign-on for Microsoft Teams
     apps](https://devblogs.microsoft.com/microsoft365dev/understanding-azure-ad-single-sign-on-for-microsoft-teams-apps/) -
     [Bob German](https://twitter.com/Bob1German) (Microsoft)
-    | \@Bob1German
+    | @Bob1German
 -   [Public preview of SharePoint Framework 1.14 -- with updates for
     Viva Connections, Microsoft Teams
     and\...](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-14-with-updates-for-viva-connections-microsoft-teams-and-sharepoint/) -
     [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
-    | \@vesajuvonen
+    | @vesajuvonen
 -   [Most used SharePoint Framework solutions from the Store - November
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-november/ba-p/3034710) -
     [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
-    | \@vesajuvonen
+    | @vesajuvonen
 -   [Microsoft Process Advisor 1 Minute Intro
     #shorts](https://www.youtube.com/watch?v=ANvZcOXFm7w) - [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    | \@aprildunnam
+    | @aprildunnam
 
 
 ## Community articles
@@ -108,22 +108,22 @@ everyone for your contributions to the community!
 
 -   [Adoption with
     fun](https://regarding365.com/adoption-with-fun-76a8494b236d)
-    - [Robert Crane](https://twitter.com/directorcia) | \@directorcia
+    - [Robert Crane](https://twitter.com/directorcia) | @directorcia
 -   [Microsoft Ignite November 2021 announcements summary - Teams, Power
     Platform, Viva, Syntex and new
     p\...](https://www.sharepointnutsandbolts.com/2021/12/microsoft-ignite-november-2021-announcements.html)
     - [Chris O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
-    | \@ChrisO_Brien
+    | @ChrisO_Brien
 -   [Teams Meeting apps -- Stage view
     basics](https://mmsharepoint.wordpress.com/2021/12/07/teams-meeting-apps-stage-view-basics/)
     - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade)
-    | \@Moeller2_0
+    | @Moeller2_0
 -   [3 reasons on: Does the SharePoint App Bar really
     matter?](https://n8d.at/3-reasons-on-does-the-sharepoint-app-bar-really-matter) -
-    [Stefan Bauer](https://twitter.com/StfBauer) (N8D) | \@StfBauer
+    [Stefan Bauer](https://twitter.com/StfBauer) (N8D) | @StfBauer
 -   [Episode #184 - Consuming Microsoft Graph from iOS -- Part
     1](https://www.youtube.com/watch?v=CAE6FRW2aig) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@paolopia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @paolopia
 
 ## Additional resources
 

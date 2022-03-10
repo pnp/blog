@@ -39,7 +39,7 @@ update is now available!  A hearty thank you goes out to the community
 members, organizations and Microsoft employees who have contributed
 their time and talents to this community in the last month.   The host
 of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen)
-(Microsoft) \@vesajuvonen.   Q&A takes place in chat throughout the
+(Microsoft) @vesajuvonen.   Q&A takes place in chat throughout the
 call.
 
 **Microsoft 365 Platform News Flash**
@@ -131,12 +131,12 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [8:38](https://youtu.be/OPiBhBf-9PU?t=518)
+    @vesajuvonen -- [8:38](https://youtu.be/OPiBhBf-9PU?t=518)
 -   Monthly contributors on the Microsoft 365 platform community assets
     -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [11:12](https://youtu.be/OPiBhBf-9PU?t=672)
+    @vesajuvonen -- [11:12](https://youtu.be/OPiBhBf-9PU?t=672)
 -   **Demo:**  Getting started with Microsoft Graph Toolkit -- [Waldek
-    Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm  --
+    Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm  --
     [15:30](https://youtu.be/OPiBhBf-9PU?t=930)
 -   **Demo:**  Introduction to Microsoft Graph .NET SDK v4 -- Maisa
     Rissi (Microsoft), Andrew Omondi (Microsoft) --
@@ -175,10 +175,10 @@ slides.
     Kit](https://www.figma.com/community/file/916836509871353159) 
 
 -   NPM Library -
-    [\@fluentui/react-teams](https://www.npmjs.com/package/@fluentui/react-teams) 
+    [@fluentui/react-teams](https://www.npmjs.com/package/@fluentui/react-teams) 
 
 -   GitHub Library -
-    [\@fluentui/react-teams](https://github.com/OfficeDev/microsoft-teams-ui-component-library#readme) 
+    [@fluentui/react-teams](https://github.com/OfficeDev/microsoft-teams-ui-component-library#readme) 
 
 ## General resources
 
@@ -205,7 +205,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

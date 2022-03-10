@@ -41,7 +41,7 @@ Open-source project activity is focused on prepping for May releases.   
   ----------------------------------------- --------------------------- ---------------------------------------
 Additionally, one new Teams sample delivered.  The host of this call was
 [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen.  Q&A takes place in chat throughout the call.
+@vesajuvonen.  Q&A takes place in chat throughout the call.
 
 
 -   Last week to complete the Microsoft 365 Developer Community Survey
@@ -127,15 +127,15 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/o365bert) (Microsoft) | \@O365bert
+    Jansen](http://twitter.com/o365bert) (Microsoft) | @O365bert
     - [6:59](https://youtu.be/1NE_uMlpD08?t=419)
 
 -   PnP PowerShell updates - [Bert
     Jansen](http://twitter.com/o365bert) (Microsoft) |
-    \@O365bert - [8:43](https://youtu.be/1NE_uMlpD08?t=523)
+    @O365bert - [8:43](https://youtu.be/1NE_uMlpD08?t=523)
 
 -   yo Teams updates - [Wictor
-    Wilén](http://twitter.com/wictor) (Avanade) | \@wictor -
+    Wilén](http://twitter.com/wictor) (Avanade) | @wictor -
     [9:53](https://youtu.be/1NE_uMlpD08?t=593)
 
 -   Microsoft Graph Toolkit updates - [Beth
@@ -144,20 +144,20 @@ Topics covered in this call
 
 -   Microsoft Teams Samples - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen - [12:33](https://youtu.be/1NE_uMlpD08?t=753)
+    @vesajuvonen - [12:33](https://youtu.be/1NE_uMlpD08?t=753)
 
 -   **Demo:**  Delegated and application permissions in the Microsoft
     Identity Platform -- [Philippe
-    Signoret](http://twitter.com/psignoret) (Microsoft) | \@psignoret -
+    Signoret](http://twitter.com/psignoret) (Microsoft) | @psignoret -
     [14:48](https://youtu.be/1NE_uMlpD08?t=888)
 
 -   **Demo:**  Localization check inside SharePoint Framework projects
     -- VS Code extension to increase your productivity -- [Sergei
-    Sergeev](http://twitter.com/sergeev_srg) (Mastaq) | \@sergeev_srg -
+    Sergeev](http://twitter.com/sergeev_srg) (Mastaq) | @sergeev_srg -
     [30:22](https://youtu.be/1NE_uMlpD08?t=1822)
 
 -   **Demo:**  Using field lookups with list formatting -- [Chris
-    Kent](http://twitter.com/theChrisKent) (DMI) | \@theChrisKent [-
+    Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent [-
     [42:48](https://youtu.be/1NE_uMlpD08?t=2568)][ ]
 
 ## Resources
@@ -192,7 +192,7 @@ slides.
 -   [PnP Weekly -- Episode 124] with[
     guest MVP from Sympraxis
     Consulting ][Emily
-    Mancini](https://twitter.com/EEMancini)[ |\@EEMancini |
+    Mancini](https://twitter.com/EEMancini)[ |@EEMancini |
     ][video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-124/ba-p/2294147)[
     |
     ][podcast](https://pnpweekly.podbean.com/e/pnp-weekly-episode-124-26th-of-april-2021/)
@@ -225,7 +225,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

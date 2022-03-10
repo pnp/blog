@@ -51,7 +51,7 @@ platform.   
 
 The host of this call was [Brian T.
 Jackett](http://twitter.com/BrianTJackett) (Microsoft)
-*| *[\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A
+*| *[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A
 takes place in chat throughout and live at end of the call.   
 
 **Microsoft 365 Platform News Flash**
@@ -141,7 +141,7 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
     Jackett](http://twitter.com/BrianTJackett) (Microsoft)
-    *| *\@BrianTJackett -- [5:21](https://youtu.be/WU_CqJC5fyQ?t=321)
+    *| *@BrianTJackett -- [5:21](https://youtu.be/WU_CqJC5fyQ?t=321)
 -   **D1**:  Introduction to Microsoft Graph connectors SDK -- Rajdeep
     Chandra (Microsoft) -- [7:31](https://youtu.be/WU_CqJC5fyQ?t=451)
 -   **D2**:  Building a Microsoft Teams bot for scheduling tasks and to
@@ -150,7 +150,7 @@ Topics covered in this call
 -   **D3**:  Microsoft Graph Toolkit -- Using the People Component in
     your solutions -- [Sébastien
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
-    \@sebastienlevert -- [36:03](https://youtu.be/WU_CqJC5fyQ?t=2163)
+    @sebastienlevert -- [36:03](https://youtu.be/WU_CqJC5fyQ?t=2163)
 
 
 ## Resources
@@ -214,7 +214,7 @@ slides.
 -   **PnP Weekly -- Episode 148** (December 10th) with Belgium-based
     Power Platform Architect and Business Applications MVP, [Carmen
     Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) |
-    \@CarmenYsewijn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-148-carmen-ysewijn-qubix/ba-p/3056063) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-148-%E2%80%93-10th-of-january-2022/)
+    @CarmenYsewijn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-148-carmen-ysewijn-qubix/ba-p/3056063) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-148-%E2%80%93-10th-of-january-2022/)
 
 ## General resources
 
@@ -241,7 +241,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

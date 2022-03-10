@@ -12,8 +12,8 @@ type: "regular"
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Rhode Island, US-based, MVP, professional archer, blogger and
 presenter specializing in UI/UX, information architecture and user
 adoption at TrnDigital, [D'arce Hess](https://twitter.com/DarceHess) |
@@ -64,11 +64,11 @@ everyone for your contributions to the community!
 -   [Use SharePoint's new site templates
     today!](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/use-sharepoint-s-new-site-templates-today/ba-p/2304372?WT.mc_id=m365-27875-wmastyka) -
     [Nicole Woon](https://twitter.com/NovelNicole) (Microsoft) | 
-    \@NovelNicole and Holland Kaviani (Microsoft)
+    @NovelNicole and Holland Kaviani (Microsoft)
 -   [New ways to use Microsoft Whiteboard for
     Education](https://techcommunity.microsoft.com/t5/microsoft-365-blog/new-ways-to-use-microsoft-whiteboard-for-education/ba-p/2295661?WT.mc_id=m365-27875-wmastyka) -
     [Ian Mikutel](http://www.twitter.com/ianmikutel) (Microsoft)
-    | \@ianmikutel
+    | @ianmikutel
 -   [Understanding the Office Add-ins
     runtime](https://developer.microsoft.com/microsoft-365/blogs/understanding-office-add-ins-runtime/?WT.mc_id=m365-27875-wmastyka) -
     Microsoft
@@ -79,30 +79,30 @@ everyone for your contributions to the community!
 -   [SharePoint Syntex Updates - April
     2021](https://techcommunity.microsoft.com/t5/sharepoint-syntex/sharepoint-syntex-updates-april-2021/ba-p/2280653?WT.mc_id=m365-27875-wmastyka) -
     [Chris McNulty](https://twitter.com/cmcnulty2000) (Microsoft)
-    | \@cmcnulty2000
+    | @cmcnulty2000
 
 ## Community articles
 
 -   [SharePoint App Catalog Development
     Tips](https://julieturner.net/2021/05/sharepoint-app-catalog-development-tips/?utm_source=rss&utm_medium=rss&utm_campaign=sharepoint-app-catalog-development-tips) -
     [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
-    | \@jfj1997
+    | @jfj1997
 -   [Upgrade your SharePoint Framework (SPFx) projects to v1.12.1 with
     CLI for Microsoft
     365](https://yhabersaat.ch/2021/05/02/upgrade-your-spfx-projects-to-v1-12-1-with-cli-for-microsoft-365/)
     - [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group)
-    | [\@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
 -   [Adding custom formatting to all list
     views](https://www.donkirkham.com/blog/list-formatting/) - [Don
     Kirkham](https://twitter.com/DonKirkham) (GM Financial)
-    | [\@DonKirkham](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/407309)
+    | [@DonKirkham](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/407309)
 -   [Get Started with the New SharePoint App
     Bar](https://mattjimison.com/2021/04/30/get-started-with-the-new-sharepoint-app-bar/) -
-    [Matt Jimison](https://twitter.com/mjimison) (DMI) | \@mjimison
+    [Matt Jimison](https://twitter.com/mjimison) (DMI) | @mjimison
 -   [How to update an AdaptiveCard with a Teams Messaging
     Extension](https://mmsharepoint.wordpress.com/2021/05/05/how-to-update-an-adaptivecard-with-a-teams-messaging-extension/) -
     [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) |
-    \@Moeller2_0 
+    @Moeller2_0 
 -   [React Groups and
     Teams](https://graphgod.dev/2021/05/04/react-groups-and-teams-2/) -
     Alison Collins 
@@ -110,34 +110,34 @@ everyone for your contributions to the community!
     support of the latest
     SPFx](https://spblog.net/post/2021/05/04/spfx-fast-serve-2-0-new-architecture-better-extensibility-support-of-the-latest-spfx) -
     [Sergei Sergeev](https://twitter.com/sergeev_srg) (Mastaq)
-    | \@sergeev_srg
+    | @sergeev_srg
 -   [Restrict SharePoint list item attachments by file type using a
     custom
     form](https://michelcarlo.com/2021/05/08/restrict-sharepoint-list-attachments-by-file-type/)
     - [Michel Mendes](https://twitter.com/michelcarlo) (Storm
     Technology)
-    | [\@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
+    | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
 -   [Organization Chart web
     part](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-organization-chart)
     - [João Mendes](https://twitter.com/joaojmendes) (Storm Technology)
     | [joaojmendes](https://github.com/joaojmendes)
 -   [Episode #153​ - Batching with Microsoft Graph SDK for
     .NET](https://www.youtube.com/watch?v=LHcn8INyYAg) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 -   [SharePoint Framework What's New 1.12.1 \[Teams - Web Part
     APIs\]](https://www.youtube.com/watch?v=6Q3mKio9rXs) - [Giuliano De
     Luca](https://twitter.com/DeLucaGiulian){.yt-simple-endpoint
     .style-scope
-    .yt-formatted-string} | [\@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    .yt-formatted-string} | [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
 -   [Save Microsoft Forms Attachments to SharePoint with Power
     Automate](https://www.youtube.com/watch?v=Xb_k8vOERpU) - [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    | \@aprildunnam
+    | @aprildunnam
 -   [Access files offline in Teams
     mobile](https://regarding365.com/access-files-offline-in-teams-mobile-e804a32eafa8)
     - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks Inc)
-    |  \@DanielGlenn & [Darrel Webster](https://twitter.com/DarrellaaS)
-    (WM Reply) | \@DarrellaaS
+    |  @DanielGlenn & [Darrel Webster](https://twitter.com/DarrellaaS)
+    (WM Reply) | @DarrellaaS
 
 ## Additional resources
 

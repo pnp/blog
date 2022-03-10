@@ -192,7 +192,7 @@ link [PnP Storage](https://pnp.github.io/pnpjs/common/storage/ "PnP Storage").
 
 1.  We have used the selective imports concept of PnP to import the sp,
     web and site-users object. We have also
-    imported **PnPClientStorage** and **dateAdd** from **\@pnp/common**
+    imported **PnPClientStorage** and **dateAdd** from **@pnp/common**
 2.  We have declared a state interface to hold the user information to
     display the data in a div.
 3.  We have created 2 methods,

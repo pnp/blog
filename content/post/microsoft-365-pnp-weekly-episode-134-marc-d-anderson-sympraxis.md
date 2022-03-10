@@ -14,10 +14,10 @@ type: "regular"
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Boston-based MVP and founder of Sympraxis Consulting - [Marc D
-Anderson](http://twitter.com/sympmarc) | \@sympmarc.  
+Anderson](http://twitter.com/sympmarc) | @sympmarc.  
 
  
 
@@ -97,10 +97,10 @@ everyone for your contributions to the community!\
     and Office 365 can
     help](https://www.microsoft.com/microsoft-365/blog/2021/09/09/brace-yourselves-hybrid-work-is-hard-heres-how-microsoft-teams-and-office-365-can-help/)
     - [Nicole Herskowitz](https://twitter.com/nicolelamb) (Microsoft)
-    | \@nicolelamb
+    | @nicolelamb
 -   [Viva Connections Public
     Preview](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-public-preview/ba-p/2730869) -
-    [Andy Haon](https://twitter.com/andyhaon) (Microsoft) | \@andyhaon
+    [Andy Haon](https://twitter.com/andyhaon) (Microsoft) | @andyhaon
 -   [Beyond sharing your screen: Interactive collaboration with apps in
     Microsoft Teams
     meetings](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/beyond-sharing-your-screen-interactive-collaboration-with-apps/ba-p/2709595) -
@@ -109,7 +109,7 @@ everyone for your contributions to the community!\
     upload feature in the Microsoft
     Gr\...](https://developer.microsoft.com/microsoft-365/blogs/announcing-a-new-microsoft-teams-authentication-provider-and-file-upload-feature-in-the-microsoft-graph-toolkit/) -
     [Elise Yang](https://twitter.com/elisenyang) (Microsoft)
-    | [\@elisenyang](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/803417)
+    | [@elisenyang](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/803417)
 -   [Breaking changes to the me/assignments endpoint in the Microsoft
     Graph Assignments API
     (beta)](https://developer.microsoft.com/microsoft-365/blogs/breaking-changes-to-the-me-assignments-endpoint-in-the-microsoft-graph-assignments-api-beta/) -
@@ -125,34 +125,34 @@ everyone for your contributions to the community!\
 -   [Create Site Script and Site Template Using Power Automate in
     SharePoint](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-site-script-and-site-template-using-power-automate-in/ba-p/2710696) -
     [Dipen Shah](https://twitter.com/Dips_365) (RapidCircle)
-    | \@Dips_365
+    | @Dips_365
 -   [How to get started with GitHub and
     Git](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-get-started-with-github-and-git/ba-p/2736609) -
-    [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
+    [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 -   [Azure Meeting Bot To Capture Meeting Participants
     Information](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/azure-meeting-bot-to-capture-meeting-participants-information/ba-p/2704311)
-    - [Siddharth Vaghasia](https://twitter.com/siddh_me) | \@siddh_me
+    - [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh_me
 -   [Global Navigation In Modern SharePoint Using SPFx, PnP And Fluent
     UI](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/ba-p/2734875) -
     [Dipen Shah](https://twitter.com/Dips_365) (RapidCircle)
-    | \@Dips_365
+    | @Dips_365
 -   [PnP Batch Add or Delete items from very large list, i.e. more than
     300k
     items](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-batch-add-or-delete-items-from-very-large-list-i-e-more-than/ba-p/2739737)
     - [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)
-    | [\@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+    | [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
 -   [Meeting apps in Microsoft Teams (1) --
     Pre-meeting](https://mmsharepoint.wordpress.com/2021/09/07/meeting-apps-in-microsoft-teams-1-pre-meeting/) -
     [Markus Möller](https://twitter.com/Moeller2_0) (Avanade)
-    | \@Moeller2_0
+    | @Moeller2_0
 -   [Hiding the SharePoint page title with Power
     Automate](https://michelcarlo.com/2021/09/11/hiding-the-sharepoint-page-title-with-power-automate/)
     - [Michel Mendes](https://twitter.com/michelcarlo) (Storm Technology
-    Ltd) | [\@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
+    Ltd) | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
 -   [The Weekday and Calendar functions in Power
     Apps](https://sharepains.com/2021/09/10/weekday-calendar-functions-power-apps/) -
     [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT
-    Services) | \@PieterVeenstra
+    Services) | @PieterVeenstra
 
  
 

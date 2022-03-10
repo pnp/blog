@@ -35,4 +35,4 @@ Listen to the show here:  [Secretless Apps with Christos Matskas
 
 ## Community Links 
 
--   [hTWOo UI framework (\@stfbauer)](https://lab.n8d.studio/htwoo/)
+-   [hTWOo UI framework (@stfbauer)](https://lab.n8d.studio/htwoo/)

@@ -13,11 +13,11 @@ type: "regular"
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by the Software Engineer in the Windows team behind the Microsoft
 Graph Toolkit, [Nikola Metulev](http://twitter.com/metulev) (Microsoft)
-| \@metulev.   Topics discussed in this session include - why Microsoft
+| @metulev.   Topics discussed in this session include - why Microsoft
 is committed to working with Community and open source.  Nikola's
 evangelist roots, his many projects while on one team and key learnings
 on open source.   How Microsoft Graph Toolkit (MGT) came about, how the
@@ -55,16 +55,16 @@ everyone for your contributions to the community!
 -   [SharePoint Roadmap Pitstop: May
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-may-2021/ba-p/2405130?WT.mc_id=m365-30992-wmastyka) -
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
-    | \@mkashman
+    | @mkashman
 -   [Using 360° Imagery in SharePoint
     Spaces](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/using-360-imagery-in-sharepoint-spaces/ba-p/2376408?WT.mc_id=m365-30992-wmastyka) -
     [Matt Crisler](https://twitter.com/mccrisler) (Microsoft)
-    | \@mccrisler
+    | @mccrisler
 -   [Migrate content from Box, Dropbox, and Google Workspace into
     Microsoft 365 - release
     update](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/migrate-content-from-box-dropbox-and-google-workspace-into/ba-p/2405952?WT.mc_id=m365-30992-wmastyka) -
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
-    | \@mkashman
+    | @mkashman
 -   [Deep dive on Viva Learning at the Learning Transformation
     Briefings](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/deep-dive-on-viva-learning-at-the-learning-transformation/ba-p/2393797?WT.mc_id=m365-30992-wmastyka)
     - John Mighell (Microsoft)
@@ -86,7 +86,7 @@ everyone for your contributions to the community!
 -   [Getting started with graph API in SPFx web
     part](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-graph-api-in-spfx-webpart/ba-p/2401064?WT.mc_id=m365-30992-wmastyka)
     - [Chandani
-    Prajapati](https://twitter.com/Chandani_SPD) | \@Chandani_SPD
+    Prajapati](https://twitter.com/Chandani_SPD) | @Chandani_SPD
 -   [Announcing new file components, MSAL 2 Provider, and SharePoint
     Framework library in Microsoft
     Graph\...](https://developer.microsoft.com/graph/blogs/announcing-new-file-components-msal-2-provider-and-sharepoint-framework-library-in-microsoft-graph-toolkit/?WT.mc_id=m365-30992-wmastyka) -
@@ -94,37 +94,37 @@ everyone for your contributions to the community!
 -   [Sample script: quickly remove pending SharePoint API permission
     requests](https://blog.mastykarz.nl/sample-script-quickly-remove-pending-sharepoint-api-permission-requests/)
     - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
-    | \@waldekm
+    | @waldekm
 -   [Using sp-core-library with
     jest](https://mgwdevcom.wordpress.com/2021/06/04/using-sp-core-library-with-jest/)
     - [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo)
-    | \@mgwojciech
+    | @mgwojciech
 -   [We shipped version 1.2.0 of the PnP Core
     SDK](https://twitter.com/O365Bert/status/1401911699763048458) -
     [Bert Jansen](https://twitter.com/O365Bert) (Microsoft)
-    | \@O365Bert
+    | @O365Bert
 -   [SPFx SwatchColorPicker Office UI Fabric React Control
     example](https://www.spguides.com/swatchcolorpicker/) - [Bijay
     Kumar](https://twitter.com/fewlines4biju) (SPGuides.com)
-    | \@fewlines4biju
+    | @fewlines4biju
 -   [Issue with PnP JS sp.site.exists() call when page url contains
     hashes](http://sadomovalex.blogspot.com/2021/06/issue-with-pnp-js-spsiteexists-call.html)
     - [Alexey Sadomov](https://twitter.com/sadomovalex) (Valo)
-    | \@sadomovalex
+    | @sadomovalex
 -   [#DevHack: Get the shared file info with Microsoft
     Graph](https://www.eliostruyf.com/devhack-shared-file-info-microsoft-graph/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+estruyf+(Elio+Struyf)) -
     [Elio Struyf](https://twitter.com/eliostruyf) (Squarl)
-    | \@eliostruyf
+    | @eliostruyf
 -   [Dataverse tables relevant to
     approvals](https://sharepains.com/2021/06/04/power-automate-approvals-and-dataverse/)
     - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT
-    Services) | \@PieterVeenstra
+    Services) | @PieterVeenstra
 -   [Custom Backgrounds For Microsoft Teams Together
     Mode](https://regarding365.com/custom-backgrounds-for-microsoft-teams-together-mode-2b173f697d59)
     - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc)
-    | \@DanielGlenn, [Darrell
+    | @DanielGlenn, [Darrell
     Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
-    \@darrellaas
+    @darrellaas
 
 ## Additional resources
 

@@ -65,7 +65,7 @@ these permissions in the access token to access protected resources that
 you would not be able to access with an ID token.
 
 If you are still confused of the difference between **authentication**
-and **authorization**, [\@LuiseFreese](https://twitter.com/LuiseFreese)
+and **authorization**, [@LuiseFreese](https://twitter.com/LuiseFreese)
 sums it up perfectly:
 {{< image alt="01ed60e47ba84e66b302a6ef0e9035d2.png" src="images/blog/introduction-to-tokens/01ed60e47ba84e66b302a6ef0e9035d2.png" >}}
 

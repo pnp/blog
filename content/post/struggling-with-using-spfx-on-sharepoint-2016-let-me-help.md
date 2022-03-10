@@ -56,7 +56,7 @@ indicating you can use *any* version of key dependencies:
     Inst\...](https://www.voitanos.io/blog/spfx-which-version-of-spfx-generator-to-install/)
 
 That last post mentions version 1.9.1 of
-[\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint,
+[@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint,
 which is what I used.  But it was the latest at the time of that post. 
 I had trouble with later versions, which it recommended (but did caveat
 that they may not work).  Your mileage may vary.
@@ -588,8 +588,8 @@ look like this:
  
  
 
-You might be tempted, as I was, to maybe bump those \@microsoft/sp-\*
-and \@pnp/\* packages to 1.4.1 or some other version by doing an npm
+You might be tempted, as I was, to maybe bump those @microsoft/sp-\*
+and @pnp/\* packages to 1.4.1 or some other version by doing an npm
 install of them to a specific version.  I highly recommend against
 this.  If you do, make sure you are prepared to revert both package.json
 and package-lock.json.  Also test with a production/ship build as you

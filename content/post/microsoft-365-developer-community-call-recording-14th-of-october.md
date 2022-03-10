@@ -49,7 +49,7 @@ nightly!  Subscribe to nightly releases for the latest capabilities. 
 As well, there were 17 script samples, 2 Teams samples and 3 Power
 Platform Samples this week.  The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-\@DavidWarnerII.   Q&A takes place in chat throughout the call.
+@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 ## Actions
 
@@ -102,18 +102,18 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 -   **[bot meeting lifecycle feedback - Microsoft Teams
     App](https://github.com/pnp/teams-dev-samples/tree/main/samples/bot-meeting-lifecycle-feedback)** -
     [Markus Möller](http://twitter.com/Moeller2_0) (Avanade) |
-    \@Moeller2_0
+    @Moeller2_0
 -   **[TeamsLeaderboard](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-blazor-leaderboard)** -
-    [Thomy Gölles](http://twitter.com/thomyg) (Solvion) | \@thomyg
+    [Thomy Gölles](http://twitter.com/thomyg) (Solvion) | @thomyg
 **Microsoft Power Platform
 Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatform-samples)
 
 -   **\*Request Review and Approval -** [Lindsay
-    Shelton](http://twitter.com/LShelton_Tech) | \@LShelton_Tech
+    Shelton](http://twitter.com/LShelton_Tech) | @LShelton_Tech
 -   **\*Hide SharePoint Page Title -** [Michel
-    Mendes](http://twitter.com/michelcarlo) | \@michelcarlo
+    Mendes](http://twitter.com/michelcarlo) | @michelcarlo
 -   **\*Collect Feedback Workflow -** [April
-    Dunnam](http://twitter.com/aprildunnam) | \@aprildunnam
+    Dunnam](http://twitter.com/aprildunnam) | @aprildunnam
 
 [\*These latest samples should show within 24 hours of date of this
 call]{style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;"}
@@ -122,13 +122,13 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -   11 New Samples + 6 Updated Samples🤩  -- WOW!  Contributed by
     -   [Valeras Narbutas](http://twitter.com/ValerasNarbutas) |
-        \@ValerasNarbutas
+        @ValerasNarbutas
     -   [Chandani Prajapati](http://twitter.com/Chandani_SPD) |
-        \@Chandani_SPD
-    -   [Adam Wójcik](http://twitter.com/Adam25858782) | \@Adam25858782
+        @Chandani_SPD
+    -   [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
     -   [Reshmee Auckloo](http://twitter.com/reshmeeauckloo) |
-        \@reshmeeauckloo
-    -   [Dipen Shah](http://twitter.com/Dips_365) | \@Dips_365
+        @reshmeeauckloo
+    -   [Dipen Shah](http://twitter.com/Dips_365) | @Dips_365
 
 -- Thank you
 
@@ -174,16 +174,16 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft) | \@O365bert --
+    Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert --
     [5:36](https://youtu.be/f4NrenOuADg?t=336)
 
 -   PnP PowerShell - [Erwin van
     Hunen](http://twitter.com/erwinvanhunen) (Valo Intranet) |
-    \@erwinvanhunen -- [7:08](https://youtu.be/f4NrenOuADg?t=428)
+    @erwinvanhunen -- [7:08](https://youtu.be/f4NrenOuADg?t=428)
 
 -   yo Teams updates - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems)
-    \@DavidWarnerII -- [8:55](https://youtu.be/f4NrenOuADg?t=535)
+    @DavidWarnerII -- [8:55](https://youtu.be/f4NrenOuADg?t=535)
 
 -   Microsoft Graph Toolkit updates - [Beth
     Pan](http://twitter.com/beth_panx) (Microsoft)
@@ -191,19 +191,19 @@ Topics covered in this call
 
 -   Microsoft Script Samples -  [Paul
     Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) |
-    \@pkbullock -- [2:03](https://youtu.be/f4NrenOuADg?t=123)
+    @pkbullock -- [2:03](https://youtu.be/f4NrenOuADg?t=123)
 
 -   Microsoft Teams Samples -[ Bob
     German](http://twitter.com/Bob1German) (Microsoft)
-    \@Bob1German -- [10:58](https://youtu.be/f4NrenOuADg?t=658)
+    @Bob1German -- [10:58](https://youtu.be/f4NrenOuADg?t=658)
 
 -   Microsoft Power Platform Samples - [April
     Dunnam](http://twitter.com/aprildunnam) (Microsoft) |
-    \@aprildunnam -- [12:20](https://youtu.be/f4NrenOuADg?t=740)
+    @aprildunnam -- [12:20](https://youtu.be/f4NrenOuADg?t=740)
 
 -   **D1:**  Introduction to the new PnP Transformation Framework --
-    [Bert Jansen](http://twitter.com/O365Bert) | \@O365Bert & [Paolo
-    Pialorsi](http://twitter.com/PaoloPia) | \@PaoloPia --
+    [Bert Jansen](http://twitter.com/O365Bert) | @O365Bert & [Paolo
+    Pialorsi](http://twitter.com/PaoloPia) | @PaoloPia --
     [14:29](https://youtu.be/f4NrenOuADg?t=869)
 
 -   **D2:**  Teams Meeting App -- Record and playback attendee names --
@@ -212,7 +212,7 @@ Topics covered in this call
 
 -   **D3:**  Feedback bot using the new Adaptive Card capabilities --
     [Rabia Williams](http://twitter.com/williamsrabia) |
-    \@williamsrabia -- [42:50](https://youtu.be/f4NrenOuADg?t=2570)
+    @williamsrabia -- [42:50](https://youtu.be/f4NrenOuADg?t=2570)
 
 
 
@@ -257,9 +257,9 @@ slides.
 
 -   **PnP Weekly -- Episode 138** (October 11th) with Germany-based
     Office Apps and Services MVP, consultant, developer [Luise
-    Freese](http://twitter.com/LuiseFreese) | \@LuiseFreese and
+    Freese](http://twitter.com/LuiseFreese) | @LuiseFreese and
     Belgium-based SharePoint/Power Platform developer at Qubix, [Carmen
-    Ysewijn](http://twitter.com/CarmenYsewijn) | \@CarmenYsewijn
+    Ysewijn](http://twitter.com/CarmenYsewijn) | @CarmenYsewijn
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-138-carmen-ysewijn-qubix-and/ba-p/2834568) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-138-%E2%80%93-11th-of-october-2021/)
 
 
@@ -298,7 +298,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

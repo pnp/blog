@@ -44,7 +44,7 @@ roadmap priorities reviewed.
 A huge thank you to the record number of contributors and organizations
 actively participating in this PnP Community during May.  You make this
 community stronger.  The host of this call was [Vesa
-Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \@vesajuvonen. 
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call. 
 {{< image alt="210608-together-mode.gif" src="images/blog/sharepoint-community-call-june-8th-2021/210608-together-mode.gif" >}}
  
@@ -115,8 +115,8 @@ Channel](https://aka.ms/m365pnp-videos).
     past month -- [16:07](https://youtu.be/Pxfq2i4ys1U?t=967) 
 -   **Topic:  SharePoint Site Templates -- the latest features and
     experiences** - [Melissa Torres](http://twitter.com/Meltorac)
-    (Microsoft) | \@Meltorac, [Nicole
-    Woon](http://twitter.com/NovelNicole) (Microsoft) | \@NovelNicole &
+    (Microsoft) | @Meltorac, [Nicole
+    Woon](http://twitter.com/NovelNicole) (Microsoft) | @NovelNicole &
     Matt Mooty (Microsoft --
     [19:32](https://youtu.be/Pxfq2i4ys1U?t=1172)
 The full recording of this session is available from Microsoft 365 &
@@ -140,7 +140,7 @@ Additional resources on covered topics and discussions.
 
 -   PnP Weekly -- Episode 130 with the Software Engineer behind the
     Microsoft Graph Toolkit, [Nikola
-    Metulev](http://twitter.com/metulev) (Microsoft) | \@metulev. |
+    Metulev](http://twitter.com/metulev) (Microsoft) | @metulev. |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-130/ba-p/2422722)
     |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-130-7th-of-june-2021/)

@@ -14,11 +14,11 @@ type: "regular"
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by are joined Canadian based Senior Program Manager from Microsoft Graph
 team [Nik Charlebois](https://twitter.com/NikCharlebois) |
-\@NikCharlebois. 
+@NikCharlebois. 
 
  
 
@@ -69,7 +69,7 @@ everyone for your contributions to the community!
 -   [Install Viva Connections
     today](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/install-viva-connections-today/ba-p/2245410) -
     [Mike Holste](https://twitter.com/Mike_Holste) (Microsoft)
-    | [\@Mike](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/18377)\_Holste
+    | [@Mike](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/18377)\_Holste
 -   [What's New in Microsoft Teams | February and March
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-february-and-march-2021/ba-p/2245944) -
     Microsoft
@@ -79,7 +79,7 @@ everyone for your contributions to the community!
 -   [SharePoint Roadmap Pitstop: March
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-march-2021/ba-p/2245785) -
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
-    | \@mkashman
+    | @mkashman
 -   [Get Microsoft Graph change notifications delivered through Azure
     Event
     Hubs](https://developer.microsoft.com/microsoft-365/blogs/get-microsoft-graph-change-notifications-delivered-through-azure-event-hubs/) -
@@ -97,21 +97,21 @@ everyone for your contributions to the community!
 -   [Power Platform Rewind March
     2021](https://www.sharepointsiren.com/2021/04/power-platform-rewind-march-2021/) -
     [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) |
-    \@aprildunnam
+    @aprildunnam
 
 ## Community articles
 
 
 -   [Microsoft Graph Fundamentals learning path -- Module
     1](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-1/ba-p/2249800)
-    - [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
+    - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 -   [Microsoft Graph Fundamentals learning path -- Module
     2](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-2/ba-p/2253924)
-    - [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
+    - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 -   [SPFx Image Editor Sample - Playing with
     Canvas](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/spfx-image-editor-sample-playing-with-canvas/ba-p/2232131)
     - [Peter Paul Kirschner](https://twitter.com/petkir_at) (cubido)
-    | [\@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
+    | [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
 -   [CLI for Microsoft 365
     v3.8](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v3-8/ba-p/2245593) -
     [Garry Trinder](https://twitter.com/garrytrinder) (CPS)
@@ -119,7 +119,7 @@ everyone for your contributions to the community!
 -   [Copy a list - with list items - to another
     site](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/copy-a-list-with-list-items-to-another-site/ba-p/2248892) -
     [Will Holland](https://twitter.com/_WCHolland) (ThreeWill)
-    | \@\_WCHolland
+    | @\_WCHolland
 -   [Add Developer PowerShell and Developer Command Prompt for Visual
     Studio to Windows
     Terminal](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/add-developer-powershell-and-developer-command-prompt-for-visual/ba-p/2243078) -
@@ -133,32 +133,32 @@ everyone for your contributions to the community!
 -   [Create Viva Connections App Using PnP PowerShell
     (Publish-PnPCompanyApp)](https://www.leonarmston.com/2021/04/create-viva-connections-app-using-pnp-powershell/) -
     [Leon Armston](https://twitter.com/LeonArmston) (Intelogy)
-    | [\@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    | [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
 -   [Microsoft Teams | SharePoint Permissions: 7 Things to
     consider](https://tracyvanderschyff.com/2021/04/03/microsoft-teams-sharepoint-permissions-7-things-to-consider/)
-    - [Tracy van der Schyff](https://twitter.com/tracyvds) | \@tracyvds
+    - [Tracy van der Schyff](https://twitter.com/tracyvds) | @tracyvds
 -   [SharePoint Tips And Tricks](http://www.sharepoint-tips.com/)
     - [Ishai Sagi](https://twitter.com/ishaisagi) (Extelligent Design)
-    | \@ishaisagi
+    | @ishaisagi
 -   [Inside the Viva Connections desktop app, or BYO Viva
     app](https://www.wictorwilen.se/blog/inside-the-viva-connections-desktop-app/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+WictorWilen+%28Wictor+Wil%C3%A9n%29) -
-    [Wictor Wilén](https://twitter.com/wictor) (Avanade) | \@wictor
+    [Wictor Wilén](https://twitter.com/wictor) (Avanade) | @wictor
 -   [Dear Microsoft: Determining Solution Usage in Your Tenant Shouldn't
     Be Like
     This](https://sympmarc.com/2021/04/01/dear-microsoft-determining-solution-usage-in-your-tenant-shouldnt-be-like-this/) -
     [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis
-    Consulting) | \@sympmarc
+    Consulting) | @sympmarc
 -   [Many running flows in Power
     Automate](https://sharepains.com/2021/04/01/many-running-flows-in-power-automate/) -
     [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT
-    Services) | \@PieterVeenstra
+    Services) | @PieterVeenstra
 -   [Microsoft 365 connectivity testing
     tool](https://regarding365.com/microsoft-365-connectivity-testing-tool-1cdc8b97745e) -
-    [Robert Crane](https://twitter.com/directorcia) | \@directorcia
+    [Robert Crane](https://twitter.com/directorcia) | @directorcia
 -   [Microsoft Graph Essentials extension released for
     VSCode](https://www.eliostruyf.com/microsoft-graph-essentials-extension-released-vscode/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+estruyf+%28Elio+Struyf%29) -
     [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting)
-    | \@eliostruyf
+    | @eliostruyf
 
  
 

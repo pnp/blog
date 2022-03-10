@@ -14,11 +14,11 @@ type: "regular"
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by UK-based SharePoint developer and MVP at Storm Technology -
 [Joel Rodrigues](http://twitter.com/JoelFMRodrigues) |
-\@JoelFMRodrigues.
+@JoelFMRodrigues.
 
  
 
@@ -116,11 +116,11 @@ everyone for your contributions to the community!
     Syntex, Stream, Visio and
     more](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-ignite-2021-guide-to-sharepoint-onedrive-viva-lists/ba-p/2853103) -
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
-    | \@mkashman
+    | @mkashman
 -   [SharePoint Roadmap Pitstop: October
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-october-2021/ba-p/2890948) -
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft)
-    | \@mkashman
+    | @mkashman
 -   [Learn how to extend Microsoft Viva
     Connections](https://devblogs.microsoft.com/microsoft365dev/learn-how-to-extend-microsoft-viva-connections/) -
     [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft)
@@ -140,17 +140,17 @@ everyone for your contributions to the community!
 -   [It's finally here! Developers can now charge money for Microsoft
     Teams apps in the App
     Store](https://blog.thoughtstuff.co.uk/2021/11/its-finally-here-developers-can-now-charge-money-for-microsoft-teams-apps-in-the-app-store/) -
-    [Tom Morgan](https://twitter.com/tomorgan) (Modality) | \@tomorgan
+    [Tom Morgan](https://twitter.com/tomorgan) (Modality) | @tomorgan
 -   [Managing Microsoft Teams using the Microsoft Graph
     PowerShell](https://helloitsliam.com/2021/10/29/managing-microsoft-teams-using-the-microsoft-graph-powershell/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+helloitsliam+%28Liam+Cleary+%5BMVP%5D%29) -
-    [Liam Cleary](https://twitter.com/helloitsliam) | \@helloitsliam
+    [Liam Cleary](https://twitter.com/helloitsliam) | @helloitsliam
 -   [spfx-fast-serve with SPFx 1.13
     support](https://spblog.net/post/2021/10/26/spfx-fast-serve-with-spfx-1-13-support) -
-    [Sergei Sergeev](https://twitter.com/sergeev_srg) | \@sergeev_srg
+    [Sergei Sergeev](https://twitter.com/sergeev_srg) | @sergeev_srg
 -   [Working with MSAL and multiple Azure AD accounts in a React
     SPA](https://www.vrdmn.com/2021/11/work-with-multiple-accounts-in-react.html) -
     [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions)
-    | \@vrdmn
+    | @vrdmn
 
  
 

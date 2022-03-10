@@ -15,10 +15,10 @@ type: "regular"
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Sweden based MVP and Chief Technical Architect at Advania -
-[Simon Ågren](http://twitter.com/agrenpoint) | \@agrenpoint.   Simon
+[Simon Ågren](http://twitter.com/agrenpoint) | @agrenpoint.   Simon
 was last on PnP Weekly exactly 100 episodes ago.    
 
  
@@ -98,12 +98,12 @@ everyone for your contributions to the community!
 -   [Manage your Microsoft Teams apps with the Developer
     Portal](https://devblogs.microsoft.com/microsoft365dev/manage-your-microsoft-teams-apps-with-the-developer-portal/)
     - [Karthig Balendran](https://twitter.com/KarthigBalendr1)
-    (Microsoft) | \@KarthigBalendr1
+    (Microsoft) | @KarthigBalendr1
 -   [Developing real-time collaborative apps with Azure, Microsoft 365,
     Power Platform, and
     GitHub](https://devblogs.microsoft.com/microsoft365dev/developing-real-time-collaborative-apps-with-azure-microsoft-365-power-platform-and-github/) -
     [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft)
-    | \@DanWahlin
+    | @DanWahlin
 -   [Announcing SharePoint Framework 1.13 -- Extending Microsoft Viva
     Connections](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-13-extending-microsoft-viva-connections/) -
     Microsoft
@@ -118,11 +118,11 @@ everyone for your contributions to the community!
 -   [Customizing Lists best practices \[guest blog and
     video\]](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/customizing-lists-best-practices-guest-blog-and-video/ba-p/2858509) -
     [Norm Young](http://twitter.com/stormin_30) (UnlimitedViz)
-    | [\@stormin_30](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/764913)
+    | [@stormin_30](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/764913)
 -   [How 3 makers, 2 devs and a princess came together to save kittens
     for a
     hackathon](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/ba-p/2877335) -
-    [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
+    [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 -   [CLI for Microsoft 365
     v4.1](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v4-1/ba-p/2858687) -
     [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft)
@@ -130,35 +130,35 @@ everyone for your contributions to the community!
 -   [Connecting to SharePoint Online to On-Premises Databases with
     SharePoint
     Framework](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/connecting-to-sharepoint-online-to-on-premises-databases-with/ba-p/2843624) -
-    [Simon Doy](https://twitter.com/simondoy) (iThink365) | \@simondoy
+    [Simon Doy](https://twitter.com/simondoy) (iThink365) | @simondoy
 -   [Azure Cloud Shell issue when using CLI for Microsoft 365 -
     Workaround](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/azure-cloud-shell-issue-when-using-cli-for-microsoft-365/ba-p/2845590) -
     [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consultancy
-    Services) | \@arjunumenon
+    Services) | @arjunumenon
 -   [Connect Modern SharePoint Web
     Parts](https://wonderlaura.com/2021/10/22/connect-modern-sharepoint-web-parts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+LauraRogers+%28Laura+Rogers%2C+SharePoint+MVP%29) -
     [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor)
-    | \@WonderLaura
+    | @WonderLaura
 -   [Sparsely Populated SharePoint Complex Columns and Power
     BI](https://sympmarc.com/2021/10/21/sparsely-populated-sharepoint-complex-columns-and-power-bi/) -
     [Mark Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting)
-    | \@sympmarc
+    | @sympmarc
 -   [Simple Teams Tab Single-Sign-On with Microsoft
     Graph](https://www.wictorwilen.se/blog/simple-teams-tab-single-sign-on-with-microsoft-graph/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+WictorWilen+%28Wictor+Wil%C3%A9n%29) -
-    [Wictor Wilen](https://twitter.com/wictor) (Microsoft) | \@wictor
+    [Wictor Wilen](https://twitter.com/wictor) (Microsoft) | @wictor
 -   [Microsoft Graph PowerShell -- Backticks vs. Splatting vs. Class
     Objects](https://helloitsliam.com/2021/10/22/microsoft-graph-powershell-backticks-vs-splatting-vs-class-objects/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+helloitsliam+%28Liam+Cleary+%5BMVP%5D%29) -
-    [Liam Cleary](https://twitter.com/helloitsliam) | \@helloitsliam
+    [Liam Cleary](https://twitter.com/helloitsliam) | @helloitsliam
 -   [Microsoft Graph PowerShell Filtering Working and
     Failures](https://helloitsliam.com/2021/10/19/microsoft-graph-powershell-filtering-working-and-failures/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+helloitsliam+%28Liam+Cleary+%5BMVP%5D%29) -
-    [Liam Cleary](https://twitter.com/helloitsliam) | \@helloitsliam
+    [Liam Cleary](https://twitter.com/helloitsliam) | @helloitsliam
 -   [Episode #177 - Data Binding in SharePoint Framework
     ACEs](https://www.youtube.com/watch?v=exWqBguOdmo) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 -   [How to Build a Pretty Power Apps People Picker with Office365
     Users](https://www.youtube.com/watch?v=SRKHfv4XYJE) - [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    | \@aprildunnam
+    | @aprildunnam
 
  
 

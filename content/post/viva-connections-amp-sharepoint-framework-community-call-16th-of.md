@@ -53,7 +53,7 @@ previous report 2 weeks ago) 
   --------------------------------------------------------------------------------------------- ------------------------------------------------- ------------------------------------------------
 The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-\@mediocrebowler.  Q&A takes place as always in chat throughout the
+@mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
 {{< image alt="ViewPorter_0-1639698085131.gif" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-16th-of/ViewPorter_0-1639698085131.gif" >}}
 
@@ -161,39 +161,39 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [3:25](https://youtu.be/9_GkAoOmBeI?t=205)
+    @vesajuvonen -- [3:25](https://youtu.be/9_GkAoOmBeI?t=205)
 -   PnPjs Client-Side Libraries - [Julie
     Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
-    \@jfj1997 -- [4:56](https://youtu.be/9_GkAoOmBeI?t=296)
+    @jfj1997 -- [4:56](https://youtu.be/9_GkAoOmBeI?t=296)
 -   CLI for Microsoft 365 - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-    \@mediocrebowler -- [7:22](https://youtu.be/9_GkAoOmBeI?t=442)
+    @mediocrebowler -- [7:22](https://youtu.be/9_GkAoOmBeI?t=442)
 -   PnP SPFx Controls - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-    \@mediocrebowler -- [8:09](https://youtu.be/9_GkAoOmBeI?t=489)
+    @mediocrebowler -- [8:09](https://youtu.be/9_GkAoOmBeI?t=489)
 -   PnP Modern Search - [Mikael
     Svenson](http://twitter.com/mikaelsvenson) (Microsoft) |
-    \@mikaelsvenson -- [8:52](https://youtu.be/9_GkAoOmBeI?t=532)
+    @mikaelsvenson -- [8:52](https://youtu.be/9_GkAoOmBeI?t=532)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
-    \@bernierh -- [9:43](https://youtu.be/9_GkAoOmBeI?t=583)
+    @bernierh -- [9:43](https://youtu.be/9_GkAoOmBeI?t=583)
 -   PnP SPFx ACEs Samples - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [11:52](https://youtu.be/9_GkAoOmBeI?t=712)
+    @DavidWarnerII -- [11:52](https://youtu.be/9_GkAoOmBeI?t=712)
 
 ## Demos
 
 -   **D1**:  Building advanced Enterprise Search Center with PnP Search
     Web Parts v4 -- [Franck Cornu](https://twitter.com/FranckCornu) |
-    \@FranckCornu -- [13:43](https://youtu.be/9_GkAoOmBeI?t=823)
+    @FranckCornu -- [13:43](https://youtu.be/9_GkAoOmBeI?t=823)
 
 -   **D2**:  Building a custom React based Microsoft Graph Group Viewer
     experience -- [Zach Roberts](http://twitter.com/ZachSPODev) |
-    \@ZachSPODev -- [28:40](https://youtu.be/9_GkAoOmBeI?t=1720)
+    @ZachSPODev -- [28:40](https://youtu.be/9_GkAoOmBeI?t=1720)
 
 -   **D3**:  Introduction to Adaptive Card Extensions (ACEs) for
     Microsoft Viva Connections -- [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia --
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia --
     [33:50](https://youtu.be/9_GkAoOmBeI?t=2030) 
 
 
@@ -235,12 +235,12 @@ slides.
 -   **PnP Weekly -- Episode 147** (December 13th) with Munich,
     Germany-based consultant and MVP, [Markus
     Möller](http://twitter.com/Moeller2_0) (Avanade) |
-    \@Moeller2_0 | [video ](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/ba-p/3037250)| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-147-%E2%80%93-13th-of-december-2021/)
+    @Moeller2_0 | [video ](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/ba-p/3037250)| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-147-%E2%80%93-13th-of-december-2021/)
 
 -   **PnP Weekly -- Episode 146** (December 6th) with Reykjavik,
     Iceland-based Consultant and MVP, [Derek
     Cash-Peterson](http://twitter.com/spdcp) (Sympraxis Consulting) |
-    \@spdcp | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/ba-p/3031492) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-146-%E2%80%93-6th-of-december-2021/)
+    @spdcp | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/ba-p/3031492) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-146-%E2%80%93-6th-of-december-2021/)
 **General Resources:**
 
 -   Viva Connections <https://aka.ms/VivaConnections>
@@ -261,7 +261,7 @@ slides.
     guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital
     Brochure) - aka.ms/modernworkbuildsessions
 
--   SharePoint Framework - v1.12.1 `npm install --g` [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+-   SharePoint Framework - v1.12.1 `npm install --g` [@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)

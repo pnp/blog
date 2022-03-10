@@ -47,7 +47,7 @@ previous report 2 weeks ago) 
   --------------------------------------- -------------------------------------------- ------------------------------------------------------------------
 The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-\@mediocrebowler.  Q&A takes place in chat throughout the call.
+@mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="210603-together-mode.gif" src="images/blog/sharepoint-framework-community-call-3rd-of-june-2021/210603-together-mode.gif" >}}
 Thanks everybody for being part of the Community and helping making
 things happen. You are absolutely awesome!
@@ -62,7 +62,7 @@ things happen. You are absolutely awesome!
     [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
 -   Feedback wanted:  Regarding PnP PowerShell -- "What if we did not
     return classic CSOM objects from the cmdlets?"  Comments to: 
-    \@erwinvanhunen.   
+    @erwinvanhunen.   
 -   Register for Sharing is Caring Events:
     -   First Time Contributor Session -- [June
         29th](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u)
@@ -114,14 +114,14 @@ a custom card using the Dashboard web part and SPFx.
 -   **[Data
     Table](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable)** -
     [Chandani
-    Prajapati](http://twitter.com/Chandani_SPD) | \@Chandani_SPD
+    Prajapati](http://twitter.com/Chandani_SPD) | @Chandani_SPD
 -   **[Page
     Contributors](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-pagecontributors)** -
-    [Ari Gunawan](http://twitter.com/arigunawan3023) | \@arigunawan3023
+    [Ari Gunawan](http://twitter.com/arigunawan3023) | @arigunawan3023
 -   **[OneDrive
     Finder](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-onedrive-finder)** -
     [André
-    Lage ](http://twitter.com/aaclage)| [\@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)\
+    Lage ](http://twitter.com/aaclage)| [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)\
     \
 
 Thank you for your great work.  Samples are often showcased in Demos. 
@@ -130,30 +130,30 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [4:38](https://youtu.be/65hRvHN5Iqk?t=278)
+    @vesajuvonen -- [4:38](https://youtu.be/65hRvHN5Iqk?t=278)
 -   PnPjs Client-Side Libraries - [Julie
     Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
-    \@jfj1997 -- [6:43](https://youtu.be/65hRvHN5Iqk?t=403)
+    @jfj1997 -- [6:43](https://youtu.be/65hRvHN5Iqk?t=403)
 -   CLI for Microsoft 365 - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-    \@mediocrebowler -- [8:40](https://youtu.be/65hRvHN5Iqk?t=520)
+    @mediocrebowler -- [8:40](https://youtu.be/65hRvHN5Iqk?t=520)
 -   PnP SPFx Controls - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-    \@mediocrebowler -- [9:26](https://youtu.be/65hRvHN5Iqk?t=566)
+    @mediocrebowler -- [9:26](https://youtu.be/65hRvHN5Iqk?t=566)
 -   PnP Modern Search - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-    \@mediocrebowler -- [10:45](https://youtu.be/65hRvHN5Iqk?t=645)
+    @mediocrebowler -- [10:45](https://youtu.be/65hRvHN5Iqk?t=645)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
-    \@bernierh -- [11:49](https://youtu.be/65hRvHN5Iqk?t=709)
+    @bernierh -- [11:49](https://youtu.be/65hRvHN5Iqk?t=709)
 
 ## Demos
 
 -   **Demo:**  Get started developing mobile experiences for Microsoft
     Viva Connections, a preview of SharePoint Framework 1.13 - [Luca
     Bandinelli](http://twitter.com/BandinelliLuca) (Microsoft) |
-    \@BandinelliLuca, [Pat Miller](http://twitter.com/PatMill_MSFT)
-    (Microsoft) | \@PatMill_MSFT and John Nguyen
+    @BandinelliLuca, [Pat Miller](http://twitter.com/PatMill_MSFT)
+    (Microsoft) | @PatMill_MSFT and John Nguyen
     (Microsoft) [-- ][16:00](https://youtu.be/65hRvHN5Iqk?t=960)
 
     -   [Viva Connections Extensibility and Dashboard - Overview  --
@@ -177,9 +177,9 @@ slides.
 -   Designer -- [Adaptive Cards](https://adaptivecards.io/designer/) 
 -   PnP Weekly -- Episode 129 [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen, [Waldek
+    @vesajuvonen, [Waldek
     Mastykarz](http://twitter.com/waldekm) (Microsoft) |
-    \@waldekm discuss announcements from Microsoft Build 2021 |
+    @waldekm discuss announcements from Microsoft Build 2021 |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-129/ba-p/2401546)
     |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-129-31st-of-may-2021/)
@@ -191,7 +191,7 @@ slides.
     guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital
     Brochure) - aka.ms/modernworkbuildsessions
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)

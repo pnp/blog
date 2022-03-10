@@ -43,7 +43,7 @@ expected any day.  
 Thank you to the 200 + active contributors and organizations actively
 participating in this PnP Community during February. You are truly
 amazing.  The host of this call was [Vesa
-Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \@vesajuvonen. 
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call.
 {{< image alt="march-sp-monthly-together-mode.gif" src="images/blog/sharepoint-monthly-community-call-march-9-2021/march-sp-monthly-together-mode.gif" >}}
 
@@ -109,7 +109,7 @@ Channel](https://aka.ms/m365pnp-videos).
     past month -- [10:40](https://youtu.be/xXmpIVdokSs?t=640)
 -   **Demo:  **Getting started with Microsoft Viva Topics - [Naomi
     Moneypenny](http://twitter.com/nmoneypenny) (Microsoft) |
-    \@nmoneypenny - [14:26](https://youtu.be/xXmpIVdokSs?t=866)
+    @nmoneypenny - [14:26](https://youtu.be/xXmpIVdokSs?t=866)
 The full recording of this session is available from Microsoft 365 &
 SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found at
@@ -140,13 +140,13 @@ Additional resources on covered topics and discussions.
       
 
 -   PnP Weekly -- Episode 117 with guest Bert Jansen (Microsoft) |
-    \@o365bert |
+    @o365bert |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-117/ba-p/2193707)
     |
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-117-8th-of-march-2021/)
 
 -   Microsoft 365 Developer Podcast -- March 8, 2021, with guest Stephan
-    Bisser (Solvion) | \@stephanbisser |
+    Bisser (Solvion) | @stephanbisser |
     [podcast](https://www.m365devpodcast.com/e/conversational-ai-with-stephan-bisser/)
      
 

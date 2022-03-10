@@ -30,7 +30,7 @@ Legault for their continued contributions. Thank so much! Register for
 the [PnP Recognition
 Program](https://pnp.github.io/recognitionprogram/). Q&A live and in
 chat throughout call. The call was hosted by [David
-Chesnut](http://twitter.com/davidchesnut) (Microsoft) | \@davidchesnut
+Chesnut](http://twitter.com/davidchesnut) (Microsoft) | @davidchesnut
 
 
 ## Microsoft Presenters

@@ -39,7 +39,7 @@ Podcast](https://m365devpodcast.com) focused exclusively on Microsoft
 Ignite](https://ignite.microsoft.com/) (Digital event) -- November 2-4
 is now open.  The host of this call was [Brian T.
 Jackett](http://twitter.com/BrianTJackett) (Microsoft)
-*| *[\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).   Q&A
+*| *[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).   Q&A
 takes place in chat throughout the call.
 
 **Microsoft 365 Platform News Flash**
@@ -111,7 +111,7 @@ Demos delivered in this session
     Teams samples - Build tabs with Adaptive Cards (build Teams tabs
     with Adaptive Cards using Node or C#), Receive all channel messages
     with RSC (Preview) (bot receives all channel messages with RSC
-    without \@mention), Real-time Teams meeting events (bot receives
+    without @mention), Real-time Teams meeting events (bot receives
     real-time meeting events), and SSO for Tabs + Bots + Messaging
     Exchange (ME) (combined SSO for Bots, Tabs & ME).   Discussion on
     Resource-specific consent (RSC) for granular consent.
@@ -131,7 +131,7 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
     Jackett](http://twitter.com/BrianTJackett) (Microsoft)
-    *| *[\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556) -- [5:40](https://youtu.be/GF0hfnYCy8M?t=340)
+    *| *[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556) -- [5:40](https://youtu.be/GF0hfnYCy8M?t=340)
 -   The M365 Ecosystem Security - ISV and Customer Surveys -- Gladys
     Kenfack (Microsoft) -- [8:53](https://youtu.be/GF0hfnYCy8M?t=533)
 -   **D1:**  Microsoft Teams Sample code showcase -- Wajeed Shaikh
@@ -139,7 +139,7 @@ Topics covered in this call
 -   **D2:**  Preview on new templates for Microsoft Teams and SharePoint
     in SharePoint Framework -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    [\@vesajuvonen](https://twitter.com/vesajuvonen%20) --
+    [@vesajuvonen](https://twitter.com/vesajuvonen%20) --
     [16:55](https://youtu.be/GF0hfnYCy8M?t=1874)
 
 
@@ -179,7 +179,7 @@ slides.
 
 -   **PnP Weekly -- Episode 134** (September 13th) with Boston-based MVP
     and founder of Sympraxis Consulting - [Marc D
-    Anderson](http://twitter.com/sympmarc) | \@sympmarc
+    Anderson](http://twitter.com/sympmarc) | @sympmarc
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-134-marc-d-anderson-sympraxis/ba-p/2746312) |  [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-134-%e2%80%93-13th-of-september-2021/)
 
 -   [Microsoft 365 Developer
@@ -187,7 +187,7 @@ slides.
     Microsoft 365 dev topics -- hosted by [Jeremy
     Thake](http://twitter.com/jthake) (Microsoft) |
 
-    \@jthake and [Paul
+    @jthake and [Paul
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
@@ -216,7 +216,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

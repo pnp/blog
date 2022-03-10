@@ -53,7 +53,7 @@ platform.   
     time and talent to this community over the last month.  
 
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
-(Microsoft) | \@vesajuvonen.  Q&A takes place in chat throughout the
+(Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout the
 call and specifically during the last 10 minutes of call. 
 
 **Microsoft 365 Platform News Flash**
@@ -144,16 +144,16 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [7:30](https://youtu.be/UONwL2HmpPc?t=450)
+    @vesajuvonen -- [7:30](https://youtu.be/UONwL2HmpPc?t=450)
 -   Monthly contributors on the Microsoft 365 community efforts -- [Vesa
     Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [8:40](https://youtu.be/UONwL2HmpPc?t=520)
+    @vesajuvonen -- [8:40](https://youtu.be/UONwL2HmpPc?t=520)
 -   **Demo 1:**  Hands-on with Microsoft Graph File Uploads and
     Downloads -- [Bob German](http://twitter.com/Bob1German) (Microsoft)
-    | \@Bob1German -- [12:39](https://youtu.be/UONwL2HmpPc?t=759)
+    | @Bob1German -- [12:39](https://youtu.be/UONwL2HmpPc?t=759)
 -   **Demo 2:**  Microsoft Teams Toolkit v2 and SharePoint Framework
     debugging -- [Vesa Juvonen](https://twitter.com/vesajuvonen)
-    (Microsoft) | \@vesajuvonen --
+    (Microsoft) | @vesajuvonen --
     [30:55](https://youtu.be/UONwL2HmpPc?t=1855)
 -   General Q&A - Microsoft 365 Platform Team --
     [43:56](https://youtu.be/UONwL2HmpPc?t=2636)
@@ -185,9 +185,9 @@ slides.
 
 -   **PnP Weekly -- Episode 138** (October 11th) with Germany-based
     Office Apps and Services MVP, consultant, developer [Luise
-    Freese](http://twitter.com/LuiseFreese) | \@LuiseFreese and
+    Freese](http://twitter.com/LuiseFreese) | @LuiseFreese and
     Belgium-based SharePoint/Power Platform developer at Qubix, [Carmen
-    Ysewijn](http://twitter.com/CarmenYsewijn) | \@CarmenYsewijn
+    Ysewijn](http://twitter.com/CarmenYsewijn) | @CarmenYsewijn
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-138-carmen-ysewijn-qubix-and/ba-p/2834568) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-138-%E2%80%93-11th-of-october-2021/)
 
 -   [Microsoft 365 Developer
@@ -195,7 +195,7 @@ slides.
     Microsoft 365 dev topics -- hosted by [Jeremy
     Thake](http://twitter.com/jthake) (Microsoft) |
 
-    \@jthake and [Paul
+    @jthake and [Paul
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
@@ -224,7 +224,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

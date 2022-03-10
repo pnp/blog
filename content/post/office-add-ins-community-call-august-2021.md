@@ -29,7 +29,7 @@ inside a Microsoft Teams channel for purposes of collaborating on the
 data).  This month's Community spotlight recognizes MVP Maarten van Stam
 for his continued contributions.  Thank you!   Q&A in chat throughout
 call.  The call was hosted by David Chesnut (Microsoft) |
-\@davidchesnut. Microsoft Presenters: Lillian Liu - Senior Program
+@davidchesnut. Microsoft Presenters: Lillian Liu - Senior Program
 Manager and Onur Onder, Senior Software Engineer.   Recorded August 11,
 2021.
 
@@ -40,7 +40,7 @@ Manager and Onur Onder, Senior Software Engineer.   Recorded August 11,
 -   PowerPoint API update: Shape object - Onur Onder, Senior Software
     Engineer (Microsoft) -- [05:02](https://youtu.be/UflCQGPjz14?t=302)
 -   PnP: Open in Teams - David Chesnut, Senior Dev Writer (Microsoft) |
-    \@davidchesnut -- [13:08](https://youtu.be/UflCQGPjz14?t=788)
+    @davidchesnut -- [13:08](https://youtu.be/UflCQGPjz14?t=788)
 -   Q&A -- [28:15](https://youtu.be/UflCQGPjz14?t=1695)
 
 {{< image alt="office-add-ins-august-agenda.png" src="images/blog/office-add-ins-community-call-august-2021/office-add-ins-august-agenda.png" >}}

@@ -51,7 +51,7 @@ platform.   
     is available!
 
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
-(Microsoft) | \@vesajuvonen.  Q&A takes place in chat throughout and
+(Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and
 live at end of the call.   
 
 **Microsoft 365 Platform News Flash**
@@ -144,17 +144,17 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [6:08](https://youtu.be/YG16snk1fJU?t=368)
+    @vesajuvonen -- [6:08](https://youtu.be/YG16snk1fJU?t=368)
 -   Monthly contributors on the Microsoft 365 platform community efforts
     -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [7:17](https://youtu.be/YG16snk1fJU?t=437)
+    @vesajuvonen -- [7:17](https://youtu.be/YG16snk1fJU?t=437)
 -   **D1**:  Show a user's emails in an ASP.NET Core app with Microsoft
     Graph -- [Dan Wahlin](http://twitter.com/DanWahlin) (Microsoft) |
-    \@DanWahlin -- [10:21](https://youtu.be/YG16snk1fJU?t=621)
+    @DanWahlin -- [10:21](https://youtu.be/YG16snk1fJU?t=621)
 -   **D2**:  Deep dive on Viva Connections Adaptive Card Extension
     development -- State management -- [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-    \@mediocrebowler -- [28:38](https://youtu.be/YG16snk1fJU?t=1718)
+    @mediocrebowler -- [28:38](https://youtu.be/YG16snk1fJU?t=1718)
 -   **D3**:  Microsoft Graph Toolkit -- Using the People Picker
     Component in your solutions -- [Sébastien
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
@@ -176,7 +176,7 @@ slides.
     aka.ms/ge
 
 -   **D2**:  PnP/PnPjs Library -
-    [\@pnp/odata/caching](https://pnp.github.io/pnpjs/odata/caching/) 
+    [@pnp/odata/caching](https://pnp.github.io/pnpjs/odata/caching/) 
 
 -   **D2**:  Samples - [SharePoint Framework Reference
     Samples](https://github.com/pnp/spfx-reference-scenarios) 
@@ -184,7 +184,7 @@ slides.
 -   **D2**:  Demo - State referenced in [Introduction to Adaptive Card
     Extensions (ACEs) for Microsoft Viva
     Connections](https://youtu.be/iMbQyxdPcSU?t=1871) -- [Paolo
-    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia
+    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 
 -   **D3**:  Documentation - [Microsoft Graph Toolkit: UI Components and
     Authentication Providers for Microsoft
@@ -258,7 +258,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

@@ -50,7 +50,7 @@ Additionally, 1 extension and 6 web part and 6 ACE **samples** delivered
 in the last 2 weeks!   Wowmazing!  Thank you all for your
 contributions.   The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-\@mediocrebowler.  Q&A takes place as always in chat throughout the
+@mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
 {{< image alt="211007-together-mode.gif" src="images/blog/sharepoint-framework-community-call-7th-of-october-2021/211007-together-mode.gif" >}}
 Not an empty seat in the house.  Nice seeing everyone on the call. 
@@ -131,17 +131,17 @@ Please join again soon.
 -   [**My Flows
     List**](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-my-flows-list)
     **-** [Adam
-    Wójcik](http://twitter.com/Adam25858782) | \@Adam25858782
+    Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
 
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
 
 -   **[SharePoint Crud
     Operations](https://github.com/pnp/sp-dev-fx-webparts/main/samples/sharepoint-crud)** -
-    [Ari Gunawan](http://twitter.com/AriGunawan3023) | \@AriGunawan3023
+    [Ari Gunawan](http://twitter.com/AriGunawan3023) | @AriGunawan3023
 -   [**Graph Group
     Viewer**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-groupviewer) -
-    [Zach Roberts](http://twitter.com/ZachSPODev) | \@ZachSPODev
+    [Zach Roberts](http://twitter.com/ZachSPODev) | @ZachSPODev
 -   [**Questionnaire Teams Meeting
     App**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-meeting-app-questionnaire) -
     [Nanddeep
@@ -149,27 +149,27 @@ Please join again soon.
 -   [**Using Accordion
     Plugin**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-accordion) -
     [Fredrik
-    Thorild](http://twitter.com/taxonomythorild) | \@taxonomythorild
+    Thorild](http://twitter.com/taxonomythorild) | @taxonomythorild
 -   [**Calendar**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar) -
-    [Mohammad Amer](http://twitter.com/Mohammad3mer) | \@Mohammad3mer
+    [Mohammad Amer](http://twitter.com/Mohammad3mer) | @Mohammad3mer
 -   [**Multiscreen**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-multiscreen-webpart) -
-    [Ari Gunawan](http://twitter.com/AriGunawan3023) | \@AriGunawan3023
+    [Ari Gunawan](http://twitter.com/AriGunawan3023) | @AriGunawan3023
 **PnP SPFx ACEs **
 [**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 -   **Create Teams** -- [Dipen
-    Shah](http://twitter.com/Dips_365) | \@Dips_365
+    Shah](http://twitter.com/Dips_365) | @Dips_365
 -   [**Manage
     Team**](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ManageTeam)
-    -- [Dipen Shah](http://twitter.com/Dips_365) | \@Dips_365
+    -- [Dipen Shah](http://twitter.com/Dips_365) | @Dips_365
 -   **Planner Tasks** -- [Ejaz
-    Hussain](http://twitter.com/EjazHussain_) | [\@EjazHussain](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/323015)\_
+    Hussain](http://twitter.com/EjazHussain_) | [@EjazHussain](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/323015)\_
 -   **Tenant Service Health** -- [Anoop
-    Tatti](http://twitter.com/anooptells) | \@anooptells
+    Tatti](http://twitter.com/anooptells) | @anooptells
 -   [**Articles at a
     Glance**](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-At-a-glance)
-    -- [Anoop Tatti](http://twitter.com/anooptells) | \@anooptells
+    -- [Anoop Tatti](http://twitter.com/anooptells) | @anooptells
 -   **London Transport Service Status** --
-    [Anoop](http://twitter.com/anooptells) | \@anooptells
+    [Anoop](http://twitter.com/anooptells) | @anooptells
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
@@ -177,38 +177,38 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [7:15](https://youtu.be/Yh76J4aRVUQ?t=435)
+    @vesajuvonen -- [7:15](https://youtu.be/Yh76J4aRVUQ?t=435)
 -   PnPjs Client-Side Libraries - [Julie
     Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
-    \@jfj1997 -- [10:22](https://youtu.be/Yh76J4aRVUQ?t=622)
+    @jfj1997 -- [10:22](https://youtu.be/Yh76J4aRVUQ?t=622)
 -   CLI for Microsoft 365 - [Albert-Jan
     Schot](http://twitter.com/appieschot) (Portiva) |
-    \@appieschot -- [12:33](https://youtu.be/Yh76J4aRVUQ?t=753)
+    @appieschot -- [12:33](https://youtu.be/Yh76J4aRVUQ?t=753)
 -   PnP SPFx Controls - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-    \@mediocrebowler -- [13:58](https://youtu.be/Yh76J4aRVUQ?t=838)
+    @mediocrebowler -- [13:58](https://youtu.be/Yh76J4aRVUQ?t=838)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
-    \@bernierh -- [14:32](https://youtu.be/Yh76J4aRVUQ?t=872)
+    @bernierh -- [14:32](https://youtu.be/Yh76J4aRVUQ?t=872)
 -   PnP SPFx ACEs Samples - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [16:45](https://youtu.be/Yh76J4aRVUQ?t=1005) 
+    @DavidWarnerII -- [16:45](https://youtu.be/Yh76J4aRVUQ?t=1005) 
 
 ## Demos
 
 -   **D1**:  Create new Team using Viva Connections ACEs components from
     the Dashboard -- ​ [Dipen Shah](http://twitter.com/Dips_365) (Rapid
     Circle) |
-    \@Dips_365 [--][ [19:29](https://youtu.be/Yh76J4aRVUQ?t=1169)]
+    @Dips_365 [--][ [19:29](https://youtu.be/Yh76J4aRVUQ?t=1169)]
 
 -   **D2**:  Building Microsoft Teams data dashboard with SharePoint
     Framework -- [Paolo Pialorsi](http://twitter.com/PaoloPia)
     (PiaSys) |
-    \@PaoloPia [--][ [29:52](https://youtu.be/Yh76J4aRVUQ?t=1792)]
+    @PaoloPia [--][ [29:52](https://youtu.be/Yh76J4aRVUQ?t=1792)]
 
 -   **D3**:  SPFx Design Patterns -- Asynchronous Rendering -- [Hugo
     Bernier](http://twitter.com/bernierh) (Microsoft) |
-    \@bernierh [--][ [42:07](https://youtu.be/Yh76J4aRVUQ?t=2527)]
+    @bernierh [--][ [42:07](https://youtu.be/Yh76J4aRVUQ?t=2527)]
 
 
 ## Resources
@@ -263,7 +263,7 @@ slides.
 
 -   **PnP Weekly -- Episode 137** (October 4th) with Canada-based MVP
     and Consultant from [Technologia](https://www.technologia.com/en) -
-    [Serge Tremblay](http://twitter.com/Sergepoint) | \@Sergepoint
+    [Serge Tremblay](http://twitter.com/Sergepoint) | @Sergepoint
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/ba-p/2809397) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-137-%E2%80%93-4th-of-october-2021/)
 
 **General Resources:**
@@ -287,7 +287,7 @@ slides.
     Brochure) - aka.ms/modernworkbuildsessions
 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)

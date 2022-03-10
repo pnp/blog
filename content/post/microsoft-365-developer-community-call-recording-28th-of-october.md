@@ -51,7 +51,7 @@ nightly!  Subscribe to nightly releases for the latest capabilities. **
 As well, there were 12 new/updated script samples and 1 Power Platform
 Samples this week.  The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-\@DavidWarnerII.   Q&A takes place in chat throughout the call.
+@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 
 
@@ -105,21 +105,21 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatform-samples)
 
 -   **Covid Vaccine Survey**\* -
-    [Siddharth Vaghasia](http://twitter.com/siddh_me) | \@siddh_me
+    [Siddharth Vaghasia](http://twitter.com/siddh_me) | @siddh_me
 \*Check the site for this latest sample
 **Script
 Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -   11 New Samples + 6 Updated Samples🤩  -- WOW!  Contributed by
     -   [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw)
-        | [\@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
-    -   [Adam Wójcik](http://twitter.com/Adam25858782) | \@Adam25858782
+        | [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
+    -   [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
     -   [Rodrigo Pinto](http://twitter.com/ScoutmanPt) (Storm
-        Technology) | \@ScoutmanPt
+        Technology) | @ScoutmanPt
     -   [Marc D Anderson](http://twitter.com/sympmarc) (Sympraxis
-        Consulting LLC) | \@sympmarc
+        Consulting LLC) | @sympmarc
     -   [Russell Gove](http://twitter.com/russgove) (Tronox) |
-        [\@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
+        [@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
 
 -- Thank you :clapping_hands:
 **Together Mode!**
@@ -168,12 +168,12 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
 Topics covered in this call
 
 -   PnP .NET library updates -[ Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft) | \@O365bert --
+    Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert --
     [7:39](https://youtu.be/PFMUygySS3I?t=459)
 
 -   yo Teams updates - [Albert-Jan Schot](http://twitter.com/appieschot)
     (BLIS.digital) |
-    \@appieschot -- [9:30](https://youtu.be/PFMUygySS3I?t=570)
+    @appieschot -- [9:30](https://youtu.be/PFMUygySS3I?t=570)
 
 -   Microsoft Graph Toolkit updates - [Sébastien
     Levert](http://twitter.com/sebastienlevert) (Microsoft)
@@ -181,30 +181,30 @@ Topics covered in this call
 
 -   Microsoft Script Samples -  [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [3:17](https://youtu.be/PFMUygySS3I?t=197)
+    @DavidWarnerII -- [3:17](https://youtu.be/PFMUygySS3I?t=197)
 
 -   Microsoft Teams Samples - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [13:14](https://youtu.be/PFMUygySS3I?t=794)
+    @DavidWarnerII -- [13:14](https://youtu.be/PFMUygySS3I?t=794)
 
 -   Microsoft Power Platform Samples - [April
     Dunnam](http://twitter.com/aprildunnam) (Microsoft) |
-    \@aprildunnam -- [13:50](https://youtu.be/PFMUygySS3I?t=830)
+    @aprildunnam -- [13:50](https://youtu.be/PFMUygySS3I?t=830)
 
 -   **D1:**  Configuration-as-Code for Microsoft 365 with
     Microsoft365DSC -- [Nik
     Charlebois](http://twitter.com/NikCharlebois) (Microsoft) |
-    \@NikCharlebois [--][ [16:02](https://youtu.be/PFMUygySS3I?t=962)]
+    @NikCharlebois [--][ [16:02](https://youtu.be/PFMUygySS3I?t=962)]
 
 -   **D2:**  Automatically recognize your team champions :trophy: with
     CLI for Microsoft 365 -- [Albert-Jan
     Schot](http://twitter.com/appieschot) (BLIS.digital) |
-    \@appieschot [--][ [35:42](https://youtu.be/PFMUygySS3I?t=2142)]
+    @appieschot [--][ [35:42](https://youtu.be/PFMUygySS3I?t=2142)]
 
 -   **D3:**  Updates on Independent Publisher Connectors & Care Quality
     Commissions Connector Demo -- [Natalie
     Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) |
-    \@NataliePienkow1 & Martyn Lesbirel (Dynamiti) --
+    @NataliePienkow1 & Martyn Lesbirel (Dynamiti) --
     [48:09](https://youtu.be/PFMUygySS3I?t=2889)
 
 
@@ -241,7 +241,7 @@ slides.
 -   **PnP Weekly -- Episode 140** (October 25th) with Sweden based MVP
     and Chief Technical Architect at Advania - [Simon
     Ågren](http://twitter.com/agrenpoint) |
-    [\@AgrenPoint](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/271184). | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/ba-p/2881228) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-140-%e2%80%93-25th-of-october-2021/)
+    [@AgrenPoint](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/271184). | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/ba-p/2881228) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-140-%e2%80%93-25th-of-october-2021/)
 
 ## General resources
 
@@ -278,7 +278,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

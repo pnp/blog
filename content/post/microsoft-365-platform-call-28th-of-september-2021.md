@@ -37,7 +37,7 @@ Podcast](https://m365devpodcast.com) focused exclusively on Microsoft
 Ignite](https://ignite.microsoft.com) (Digital event) -- November 2-4 is
 now open.  Latest news from Microsoft on Microsoft 365 platform and 2
 demos this week.  The host of this call was [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
   Q&A takes place in chat throughout the call.
 
 **Microsoft 365 Platform News Flash**
@@ -120,7 +120,7 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
-    | [\@vesajuvonen](https://twitter.com/vesajuvonen%20) --
+    | [@vesajuvonen](https://twitter.com/vesajuvonen%20) --
     [4:24](https://youtu.be/MqGuY5V_0sQ?t=424)
 
 -   **D1:**  Introduction to Microsoft Viva Connections extensibility --
@@ -171,7 +171,7 @@ slides.
 -   **PnP Weekly -- Episode 136** (September 27th) with Belgium-based
     MVP and Technology Evangelist from The [Cronos
     Group](https://cronos-groep.be/en/) - [Thomas
-    Vochten](https://twitter.com/ThomasVochten) | \@ThomasVochten
+    Vochten](https://twitter.com/ThomasVochten) | @ThomasVochten
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-136-thomas-vochten-the-cronos/ba-p/2789135) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-136-%e2%80%93-27nd-of-september-2021/)
 
 -   [Microsoft 365 Developer
@@ -179,7 +179,7 @@ slides.
     Microsoft 365 dev topics -- hosted by [Jeremy
     Thake](http://twitter.com/jthake) (Microsoft) |
 
-    \@jthake and [Paul
+    @jthake and [Paul
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
@@ -208,7 +208,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

@@ -40,7 +40,7 @@ Listen to the show here: 
 ## Community Links 
 
 -   [Output connection strings and keys from Azure Bicep
-    (\@johnny_reilly)](https://blog.johnnyreilly.com/2021/07/07/output-connection-strings-and-keys-from-azure-bicep/?utm_source=pocket_mylist)
+    (@johnny_reilly)](https://blog.johnnyreilly.com/2021/07/07/output-connection-strings-and-keys-from-azure-bicep/?utm_source=pocket_mylist)
 -   [Updated script to re-index user profiles for
     search](https://www.techmikael.com/2021/06/updated-script-to-re-index-user.html?utm_source=pocket_mylist)
 -   [StreamDeck series on Paul's

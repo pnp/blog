@@ -26,8 +26,8 @@ template from external Excel file (insert external Excel file into the
 open Excel worksheet and populate it with JSON data).  This month's
 Community spotlight recognizes MVPs Damien Bird (DamoBird365) and
 Maarten van Stam.  Thank you!    Q&A in chat throughout call.  The call
-was hosted by David Chesnut (Microsoft) | \@davidchesnut. Microsoft
-Presenters: Raymond Lu and Juan Balmori | \@juaneloBalmori.  Special
+was hosted by David Chesnut (Microsoft) | @davidchesnut. Microsoft
+Presenters: Raymond Lu and Juan Balmori | @juaneloBalmori.  Special
 guest presenters James Wayne and Phillip Vetter from Exclaimer Cloud. 
 Recorded on June 9, 2021.
 
@@ -39,11 +39,11 @@ presenters and topics:
 -   **Excel API updates** -- Raymond Lu (Microsoft) -
     [1:31](https://youtu.be/934N5mZY_5M?t=91)
 -   **Outlook API updates** - Juan Balmori (Microsoft) |
-    \@juaneloBalmori - [13:17](https://youtu.be/934N5mZY_5M?t=797)
+    @juaneloBalmori - [13:17](https://youtu.be/934N5mZY_5M?t=797)
 -   **New Email Signature Add-in** - James Wayne (Exclaimer Cloud) -
     [21:27](https://youtu.be/934N5mZY_5M?t=1287)
 -   **PnP: Insert template from external Excel file** - David Chesnut
-    (Microsoft) | \@davidchesnut -
+    (Microsoft) | @davidchesnut -
     [37:12](https://youtu.be/934N5mZY_5M?t=2232)
 
 
@@ -81,8 +81,8 @@ Thanks!
 
 **There are many videos and articles about Single sign-on for Office
 Add-ins. The Yeoman generator uses the NPM package "msal" but there is
-also an NPM package called "\@azure/msal-browser" and another one
-called "\@azure/msal-react". Can these all be used inside an Office
+also an NPM package called "@azure/msal-browser" and another one
+called "@azure/msal-react". Can these all be used inside an Office
 Add-in? Which ones are the recommended ones to use?**
 
 

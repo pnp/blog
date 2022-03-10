@@ -13,11 +13,11 @@ type: "regular"
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by are joined by Scotland-based Solution Architect, dual
 MVP [Veronique Lengelle](http://twitter.com/veronicageek)
-([CPS](https://www.cps.co.uk/)) | \@veronicageek.  
+([CPS](https://www.cps.co.uk/)) | @veronicageek.  
 The discussion included insights to the role of technical architect for
 Microsoft 365 platform - both about designing solutions that solve
 customer problems and as important - educating customers on the value of
@@ -66,7 +66,7 @@ Microsoft articles:
     Microsoft
 -   [GlobalCon5 -- three days of sessions and
     workshops](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/globalcon5-three-days-of-sessions-and-workshops/ba-p/2203523) - [Mark
-    Kashman](https://twitter.com/mkashman) (Microsoft) | \@mkashman
+    Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 -   [11 New Connectors Released in February
     2021!](https://flow.microsoft.com/blog/11-new-connectors-released-in-february-2021/) -
     Doug Elliott (Microsoft) 
@@ -81,69 +81,69 @@ Community articles:
 -   [Microsoft 365 Community (PnP) -- March 2021
     update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-community-pnp-march-2021-update/ba-p/2188616) -
     [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
-    | \@vesajuvonen
+    | @vesajuvonen
 -   [Getting started with PnP Core
     SDK](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-core-sdk/ba-p/2207918) - [Paul
     Bullock](https://twitter.com/pkbullock) (CaPa Creative)
-    | \@pkbullock
+    | @pkbullock
 -   [Getting started with SharePoint's custom column
     formatting](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-s-custom-column-formatting/ba-p/2207937) -
     [Will Holland](https://twitter.com/_wcholland) (ThreeWill)
-    | \@\_wcholland
+    | @\_wcholland
 -   [Run CLI for Microsoft 365 in
     Docker](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/run-cli-for-microsoft-365-in-docker/ba-p/2207125) -
     [Garry Trinder](https://twitter.com/garrytrinder) (CPS) |
-    \@garrytrinder
+    @garrytrinder
 -   [10 things we should think about before we build an
     app](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/10-things-we-should-think-about-before-we-build-an-app/ba-p/2203553) - [Luise
-    Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
+    Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 -   [5 commands to try in CLI for Microsoft 365 to fall in love with
     it](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/ba-p/2202945)
-    - [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
+    - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 -   [Doctor - Maintain your documentation on SharePoint without
     pain](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/doctor-maintain-your-documentation-on-sharepoint-without-pain/ba-p/2199104)
     - [Elio Struyf](https://twitter.com/eliostruyf) (Struyf
-    Consulting) | \@eliostruyf
+    Consulting) | @eliostruyf
 -   [Init API permissions for your SPFx projects without deploying
     them](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/init-api-permissions-for-your-spfx-projects-without-deploying/ba-p/2189059) - [Michaël
     Maillot](https://twitter.com/michael_maillot) (onepoint)
-    | [\@michael](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/43617)\_maillot
+    | [@michael](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/43617)\_maillot
 -   [Getting started with SharePoint
     Framework](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-framework/ba-p/2193307) -
     [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
-    | \@waldekm
+    | @waldekm
 -   [Episode #145​ - Welcome PnP Core
     SDK!](https://www.youtube.com/watch?v=ozqN5-Yh5cM) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 -   [SharePoint Framework for beginners (SPFx) 2021 | Episode 02 -
     Development
     Environment](https://www.youtube.com/watch?v=k-z9BhaiBrA) - [Rob
     Pearmain](https://twitter.com/robertpearmain) (yorcloud)
-    | \@robertpearmain
+    | @robertpearmain
 -   [Migration report with CLI for Microsoft
     365](https://www.cloudappie.nl/migration-report-climicrosoft365/)
     - [Albert-Jan Schot](https://twitter.com/appieschot) (Portiva)
-    | \@appieschot
+    | @appieschot
 -   [Building Outlook addin with SPFx - save mail to OneDrive with Azure
     Function, MSAL.NET and MS Graph
     \...](https://spblog.net/post/2021/03/09/building-outlook-addin-with-spfx-save-mail-to-onedrive-with-azure-function-msal-net-and-ms-graph-net) -
     [Sergei Sergeev](https://twitter.com/sergeev_srg) (Mastaq)
-    | \@sergeev_srg
+    | @sergeev_srg
 -   [Export external users with CLI for Microsoft
     365](https://www.cloudappie.nl/migration-report-external-users/)
     - [Albert-Jan Schot](https://twitter.com/appieschot) (Portiva)
-    | \@appieschot
+    | @appieschot
 -   [Should you use a default label with Microsoft Information
     Protection
     (MIP)?](https://regarding365.com/should-you-use-a-default-label-with-microsoft-information-protection-mip-b5fe4d96ea2b)
     - [Sarah Haase](https://twitter.com/sarahhaase) |
-    \@sarahhaase, [Antonio Maio](https://twitter.com/AntonioMaio2) |
-    \@AntonioMaio2 and [Mike
-    Maadarani](https://twitter.com/mikemaadarani) | \@mikemaadarani
+    @sarahhaase, [Antonio Maio](https://twitter.com/AntonioMaio2) |
+    @AntonioMaio2 and [Mike
+    Maadarani](https://twitter.com/mikemaadarani) | @mikemaadarani
 -   [SharePoint Form Conditional
     Formulas](https://wonderlaura.com/2021/02/12/sharepoint-form-conditional-formulas/) -
     [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor)
-    | \@WonderLaura
+    | @WonderLaura
 Additional resources:
 -   [PnP Sharing is Caring
     initiative](https://aka.ms/sharing-is-caring) - Getting started

@@ -33,16 +33,16 @@ demand. 
 **Agenda:**  
 
 -   **Demo 1**:  Building Xbox games with Power Apps -- [Brian
-    Dang](http://twitter.com/mrdang) (Microsoft) | \@mrdang --
+    Dang](http://twitter.com/mrdang) (Microsoft) | @mrdang --
     [3:03](https://youtu.be/KUCW242CV18?t=183)
 -   **Demo 2**:  Office like commenting & co-authoring -- [Emma
     Cooper](https://www.linkedin.com/in/emmamcooper) (Microsoft) | --
     [29:57](https://youtu.be/KUCW242CV18?t=1797)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) | \@chass --
+    Sterling](http://twitter.com/chass) (Microsoft) | @chass --
     [50:59](https://youtu.be/KUCW242CV18?t=3059)
 -   Latest PnP Power Apps Samples -- [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
+    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
     -- [54:55](https://youtu.be/KUCW242CV18?t=3295)
 
 ## Demos
@@ -58,7 +58,7 @@ demand. 
 
 -   Demo 2:  **Office like commenting & co-authoring** -- 2 useful
     collaboration capabilities. Add comments, reply to threads, resolve
-    and delete comments, \@mention people, and receive an email across
+    and delete comments, @mention people, and receive an email across
     Power Platform products like done in Office apps.  Roadmap for
     comments GA CYQ1'22, comments in Canvas apps CYQ2'22.   Experimental
     co-authoring with git integration available now (as experimental) in

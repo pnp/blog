@@ -35,7 +35,7 @@ commandlets for Microsoft Viva Connections and Syntex).   **yo Teams**
 ***msteams-react-base-component*** (React UI helpers) v3.1.0, have been
 released.   **Microsoft Graph Toolkit** try out the new OneDrive file
 components (Preview).   The host of this call was [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
  Q&A takes place in chat throughout the call.
 
 ## Actions
@@ -110,15 +110,15 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/o365bert) (Microsoft) | \@O365bert
+    Jansen](http://twitter.com/o365bert) (Microsoft) | @O365bert
     - [6:51](https://youtu.be/HarfeUb-3TY?t=411)
 
 -   PnP PowerShell updates - [Bert
     Jansen](http://twitter.com/o365bert) (Microsoft) |
-    \@O365bert - [9:26](https://youtu.be/HarfeUb-3TY?t=566)
+    @O365bert - [9:26](https://youtu.be/HarfeUb-3TY?t=566)
 
 -   yo Teams updates - [Wictor
-    Wilén](http://twitter.com/wictor) (Avanade) \@wictor -
+    Wilén](http://twitter.com/wictor) (Avanade) @wictor -
     [10:42](https://youtu.be/HarfeUb-3TY?t=642)
 
 -   Microsoft Graph Toolkit updates - [Beth
@@ -127,7 +127,7 @@ Topics covered in this call
 
 -   Microsoft Teams Samples - [Bob
     German](http://twitter.com/Bob1German) (Microsoft) |
-    \@Bob1German - [13:53](https://youtu.be/HarfeUb-3TY?t=833)
+    @Bob1German - [13:53](https://youtu.be/HarfeUb-3TY?t=833)
 
 -   **Demo:**  SharePoint Content Type APIs in Microsoft Graph - Swapnil
     Shrivastava (Microsoft) -
@@ -136,12 +136,12 @@ Topics covered in this call
 -   **Demo:**  Live London Underground Line Status Bot in Microsoft
     Dataverse for Teams - [Leon Armston](http://twitter.com/LeonArmston)
     (Intelogy) |
-    [\@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621) -
+    [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621) -
     [25:18](https://youtu.be/HarfeUb-3TY?t=1518)
 
 -   **Demo:**  Microsoft list formatting with header and footer
     settings - [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
-    \@theChrisKent - [41:29](https://youtu.be/HarfeUb-3TY?t=2489)
+    @theChrisKent - [41:29](https://youtu.be/HarfeUb-3TY?t=2489)
 
      
 
@@ -174,7 +174,7 @@ slides.
     Samples](https://github.com/pnp/List-Formatting) 
 
 -   PnP Weekly -- Episode 122 with guest MVP [Mark
-    Rackley](http://twitter.com/mrackley) (PAIT Group) | \@mrackley|
+    Rackley](http://twitter.com/mrackley) (PAIT Group) | @mrackley|
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-122/ba-p/2268519)
     |
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-122-12th-of-april-2021/)
@@ -211,7 +211,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

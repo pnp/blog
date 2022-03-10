@@ -46,7 +46,7 @@ related repositories. He loves to contribute to the community and share
 his learnings. He is a firm believer in Sharing is Caring and helping
 others.
 You can read his blogs at <https://gautamdsheth.wordpress.com> and
-tweets [\@gautamdsheth](https://twitter.com/gautamdsheth)
+tweets [@gautamdsheth](https://twitter.com/gautamdsheth)
 Outside of work, you can find him reading books, listening to Bollywood
 songs or occasionally speaking at local community/user group events.
 

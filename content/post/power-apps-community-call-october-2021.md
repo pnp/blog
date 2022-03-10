@@ -22,7 +22,7 @@ and Community Contributions**, and more! 
 
 Community welcomes [Anna
 Chu](http://twitter.com/_achu) - Sr. Program Manager (Microsoft) |
-\@\_achu.  
+@\_achu.  
 
 This call was hosted by [Todd
 Baginski](http://twitter.com/toddbaginski) (Canviz).  Demo presenters
@@ -38,15 +38,15 @@ on demand. 
 
 -   PokéBubbles Game - [Michelle
     Wong](http://twitter.com/MichelleWongNL) |
-    [\@MichelleWongNL](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/707040) --
+    [@MichelleWongNL](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/707040) --
     [6:21](https://youtu.be/L_D-ppjeRoE?t=381)
 -   How to get Microsoft Certified in the Power Platform - [Sheryl
     Netley](http://twitter.com/SherylNetley)  |
-    [\@SherylNetley](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/718554) & [Jese
-    Navaranjan](http://twitter.com/JeseNav2) (Avanade) | \@JeseNav2 --
+    [@SherylNetley](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/718554) & [Jese
+    Navaranjan](http://twitter.com/JeseNav2) (Avanade) | @JeseNav2 --
     [28:53](https://youtu.be/L_D-ppjeRoE?t=1733)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) | \@chass --
+    Sterling](http://twitter.com/chass) (Microsoft) | @chass --
     [58:54](https://youtu.be/L_D-ppjeRoE?t=3534)
 
 ## Demos

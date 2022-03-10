@@ -129,7 +129,7 @@ Script Title Name>')
  
 **Body**
 
-\@{variables('SiteScript')} // Reference of variable that we
+@{variables('SiteScript')} // Reference of variable that we
 Initialized before this action.
 Get Create Script ID and store it in Variable\
 \

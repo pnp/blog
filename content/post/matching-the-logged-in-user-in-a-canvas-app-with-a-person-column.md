@@ -44,8 +44,8 @@ option available in the list, which is indicated with the canvas apps
 The first user, Hermione, does not give any issues. The email address of
 the logged-in user matches that of the approver in the SharePoint list,
 so the icon is visible. For the second user, Harry, the logged-in user's
-email is listed as Harry.Potter\@domain.com. However, in the list it is
-Chosen.One\@domain.com, the primary alias that was defined for the user.
+email is listed as Harry.Potter@domain.com. However, in the list it is
+Chosen.One@domain.com, the primary alias that was defined for the user.
 Since these do not match, the icon is not visible. Finally, for the
 third user, Ron, only the capitalization between the two email addresses
 differs, giving the same result: the icon is not visible.

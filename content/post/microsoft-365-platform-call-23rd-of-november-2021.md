@@ -53,7 +53,7 @@ platform.   
     365 platform.
 
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
-(Microsoft) | \@vesajuvonen.  Q&A takes place in chat throughout the
+(Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout the
 call.   
 
 **Microsoft 365 Platform News Flash**
@@ -146,15 +146,15 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [7:24](https://youtu.be/dpMr8Y2buDw?t=444)
+    @vesajuvonen -- [7:24](https://youtu.be/dpMr8Y2buDw?t=444)
 -   **Demo 1:**  Introduction to SharePoint on-prem Microsoft Graph
     connector - Parag Jain (Microsoft) --
     [13:00](https://youtu.be/dpMr8Y2buDw?t=780)
 -   **Demo 2:**  Microsoft Learn Module - Extend Microsoft Viva
     Connections with Application Customizers - [Waldek
-    Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm &
+    Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm &
     [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [21:07](https://youtu.be/dpMr8Y2buDw?t=1267)
+    @vesajuvonen -- [21:07](https://youtu.be/dpMr8Y2buDw?t=1267)
 
 
 ## Resources
@@ -177,7 +177,7 @@ slides.
 
 -   **D2:**  Tools - Viva Connections Toolkit (SPFx 1.13) | npm install
     -g
-    [\@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint 
+    [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint 
 
 -   **D2:**  Look book -- [SharePoint look
     book](https://lookbook.microsoft.com/) 
@@ -208,7 +208,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

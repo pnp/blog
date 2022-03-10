@@ -40,7 +40,7 @@ platform.   
     MVP and Head of Solutions at [Datalynx
     AG](https://www.datalynx.ch/en/) - [André
     Lage](http://twitter.com/aaclage) |
-    [\@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-139-%e2%80%93-18th-of-october-2021/)  
+    [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-139-%e2%80%93-18th-of-october-2021/)  
     Microsoft 365 PnP Weekly is hosted by Vesa Juvonen and Waldek
     Mastykarz.  
 -   [Registration for Microsoft Ignite](https://ignite.microsoft.com)
@@ -51,7 +51,7 @@ platform.   
 
 The host of this call was [Brian T.
 Jackett](http://twitter.com/BrianTJackett) (Microsoft)
-*| *[\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A
+*| *[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A
 takes place in chat throughout the call.   
 
 **Microsoft 365 Platform News Flash**
@@ -159,12 +159,12 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
     Jackett](http://twitter.com/BrianTJackett) (Microsoft) *|*
-    \@BrianTJackett -- [5:20](https://youtu.be/oKokNWh1IBg?t=320)
+    @BrianTJackett -- [5:20](https://youtu.be/oKokNWh1IBg?t=320)
 -   **Demo 1:**  Introduction to Universal Print -- Rachelle Cheung
     (Microsoft) -- [10:36](https://youtu.be/oKokNWh1IBg?t=636)
 -   **Demo 2:**  Latest on Microsoft Graph Data Connect -- [Nik
     Charlebois](http://twitter.com/NikCharlebois) (Microsoft) |
-    \@NikCharlebois -- [27:37](https://youtu.be/oKokNWh1IBg?t=1657)
+    @NikCharlebois -- [27:37](https://youtu.be/oKokNWh1IBg?t=1657)
 
 
 ## Resources
@@ -205,7 +205,7 @@ slides.
     at ][Datalynx
     AG](https://www.datalynx.ch/en/)[André
     Lage](http://twitter.com/aaclage)[ |
-    \@aaclage | ][video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579)
+    @aaclage | ][video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579)
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-139-%e2%80%93-18th-of-october-2021/)
 
 -   [Microsoft 365 Developer
@@ -213,7 +213,7 @@ slides.
     Microsoft 365 dev topics -- hosted by [Jeremy
     Thake](http://twitter.com/jthake) (Microsoft) |
 
-    \@jthake and [Paul
+    @jthake and [Paul
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
@@ -242,7 +242,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

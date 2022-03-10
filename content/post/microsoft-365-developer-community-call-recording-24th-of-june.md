@@ -45,7 +45,7 @@ components to Microsoft Graph Toolkit (MGT) v.2.2.0 GA. 
   ----------------------------------------- --------------------------- -----------------------------------------
 Additionally, 1 new Teams samples were delivered in the last 2 weeks.  
 Great work!  The host of this call was David Warner II (Catapult
-Systems) | \@DavidWarnerII.  Q&A takes place in chat throughout the
+Systems) | @DavidWarnerII.  Q&A takes place in chat throughout the
 call.
 
 
@@ -108,7 +108,7 @@ Demos delivered in this session
 
 -   **Getting started with Microsoft Graph Tag API for managing
     Microsoft Teams tagging** -- this presentation focuses on people
-    centric tags used in Teams to categorize, to \@mention and to start
+    centric tags used in Teams to categorize, to @mention and to start
     a chat.   Teams makes it nearly effortless to create, manage and use
     tags to connect people and groups.   New Beta APIs, available week
     of June 28th, address many tag management challenges --
@@ -122,11 +122,11 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft) | \@O365bert
+    Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert
     - [7:47](https://youtu.be/nm16Z3VEYHA?t=467)
 
 -   yo Teams updates - [Wictor
-    Wilén](http://twitter.com/wictor) (Avanade) | \@wictor -
+    Wilén](http://twitter.com/wictor) (Avanade) | @wictor -
     [9:45](https://youtu.be/nm16Z3VEYHA?t=585)
 
 -   Microsoft Graph Toolkit updates - [Beth
@@ -134,22 +134,22 @@ Topics covered in this call
     | [beth-panx](https://github.com/beth-panx) - [10:34](https://youtu.be/nm16Z3VEYHA?t=634)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) | \@Bob1German -
+    German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German -
     [12:14](https://youtu.be/nm16Z3VEYHA?t=734)
 
 -   **Demo: ** Getting started with PnP Teams QuickStart - [Wictor
-    Wilén](http://twitter.com/wictor) (Microsoft) | \@wictor -
+    Wilén](http://twitter.com/wictor) (Microsoft) | @wictor -
     [14:40](https://youtu.be/nm16Z3VEYHA?t=880)
 
 -   **Demo: ** Our learnings from the AppSource submission for Microsoft
     Teams - [Florian Grasel](http://twitter.com/trailbeard) (TagTeam) |
-    [\@Trailbeard](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/278114) -
+    [@Trailbeard](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/278114) -
     [32:17](https://youtu.be/nm16Z3VEYHA?t=1937)
 
 -   **Demo: ** Getting started with Microsoft Graph Tag API for managing
     Microsoft Teams tagging - [Annie
     Colonna](http://twitter.com/AnnieColonna) (Microsoft) |
-    \@AnnieColonna - [49:42](https://youtu.be/nm16Z3VEYHA?t=2982)
+    @AnnieColonna - [49:42](https://youtu.be/nm16Z3VEYHA?t=2982)
 
 
 ## Resources
@@ -177,7 +177,7 @@ slides.
 -   PnP Weekly -- Episode 132 with Seattle-based Program Manager from
     OneDrive and SharePoint (ODSP) engineering - [Nicole
     Woon](http://twitter.com/NovelNicole) (Microsoft) |
-    \@NovelNicole |
+    @NovelNicole |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-132-nicole-woon-microsoft/ba-p/2466409)
     |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-132-21st-of-june-2021/)
@@ -217,7 +217,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

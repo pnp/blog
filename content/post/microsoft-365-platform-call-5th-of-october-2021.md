@@ -132,14 +132,14 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Sébastien
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
-    \@sebastienlevert -- [8:21](https://youtu.be/4LFP1Zyerq4?t=501)
+    @sebastienlevert -- [8:21](https://youtu.be/4LFP1Zyerq4?t=501)
 -   **Demo 1:**  Latest on Microsoft Graph Explorer -- [Kristen
     Womack](http://twitter.com/kristen_womack) (Microsoft) |
-    \@kristen_womack & Vivian Adhiambo (Microsoft) --
+    @kristen_womack & Vivian Adhiambo (Microsoft) --
     [10:35](https://youtu.be/4LFP1Zyerq4?t=635)
 -   **Demo 2:** Getting started on using Microsoft Viva Connections in
     your tenant -- [Tejas Mehta](http://twitter.com/tpmehta) (Microsoft)
-    | \@tpmehta -- [25:05](https://youtu.be/4LFP1Zyerq4?t=1505)
+    | @tpmehta -- [25:05](https://youtu.be/4LFP1Zyerq4?t=1505)
 
 
 
@@ -156,7 +156,7 @@ slides.
 
 -   **PnP Weekly -- Episode 137** (October 4th) with Canada-based MVP
     and Consultant from [Technologia](https://www.technologia.com/en) -
-    [Serge Tremblay](http://twitter.com/Sergepoint) | \@Sergepoint
+    [Serge Tremblay](http://twitter.com/Sergepoint) | @Sergepoint
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/ba-p/2809397) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-137-%E2%80%93-4th-of-october-2021/)
 
 -   [Microsoft 365 Developer
@@ -164,7 +164,7 @@ slides.
     Microsoft 365 dev topics -- hosted by [Jeremy
     Thake](http://twitter.com/jthake) (Microsoft) |
 
-    \@jthake and [Paul
+    @jthake and [Paul
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
@@ -193,7 +193,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

@@ -24,7 +24,7 @@ you a lot of routine administration time.
 
 Using Power Automate, **When a new email arrives (v3)** trigger, we can
 be quite specific about the sender of the email and for this, I have
-assumed all emails will come from xerox\@mydomain.com and the email must
+assumed all emails will come from xerox@mydomain.com and the email must
 contain an attachment! Ideally, you want to limit the emails that this
 Flow will trigger by using the available parameters for that action.
 

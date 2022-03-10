@@ -22,14 +22,14 @@ e-mail's list of recipients, than the message is automatically tagged as
 External and optionally a disclaimer is appended to message).  This
 month's Community spotlight recognizes James Wayne (Exclaimer) for his
 continued contributions.  Thank you!   Q&A in chat throughout call.  The
-call was hosted by David Chesnut (Microsoft) | \@davidchesnut.
-Microsoft Presenters: Juan Balmori | \@juaneloBalmori, Ankush Oberoi,
+call was hosted by David Chesnut (Microsoft) | @davidchesnut.
+Microsoft Presenters: Juan Balmori | @juaneloBalmori, Ankush Oberoi,
 and Elizabeth Samuel.   Recorded July 14, 2021.
 
 ## Agenda
 
 -   Shared mailboxes in Outlook -- Juan Balmori (Microsoft) |
-    \@juaneloBalmori -- [00:50](https://youtu.be/zZpelH7CxJ8?t=50)
+    @juaneloBalmori -- [00:50](https://youtu.be/zZpelH7CxJ8?t=50)
 -   PnP: Message recipients changed event (Outlook) - Elizabeth Samuel,
     Sr. Dev Writer (Microsoft) --
     [11:13](https://youtu.be/zZpelH7CxJ8?t=673)

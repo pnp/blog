@@ -45,7 +45,7 @@ nightly!  Subscribe to nightly releases for the latest capabilities. **
 
 The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-\@DavidWarnerII.   Q&A takes place in chat throughout the call.
+@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 
 
@@ -107,36 +107,36 @@ Samples: **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatfor
 
 -   [**COVID Vaccine Survey
     App**](https://github.com/pnp/powerapps-samples/tree/main/samples/covid-vaccine-survey) -
-    [Siddharth Vaghasia ](http://twitter.com/siddh_me)| \@siddh_me &
+    [Siddharth Vaghasia ](http://twitter.com/siddh_me)| @siddh_me &
     Mayuresh Joshi
 -   [**Employee Tip of the Day
     Flow**](https://github.com/pnp/powerautomate-samples/tree/main/samples/new-employee-tip-of-the-day) -
-    [Adam Wójcik](http://twitter.com/Adam25858782) | \@Adam25858782
+    [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
 -   [**Icon Button
     Component**](https://github.com/pnp/powerapps-samples/tree/main/samples/icon-button-component) -
     Pavel Kovalevskij 
 -   **JSON Object to Power Fx Table Function** - [Bartolome
-    Sorrentino ](http://twitter.com/bsorrentinoJ)| \@bsorrentinoJ
+    Sorrentino ](http://twitter.com/bsorrentinoJ)| @bsorrentinoJ
 -   [**Power
     Wordle**](https://github.com/pnp/powerapps-samples/tree/main/samples/power-wordle-game) -
-    [April Dunnam](http://twitter.com/aprildunnam) | \@aprildunnam
+    [April Dunnam](http://twitter.com/aprildunnam) | @aprildunnam
 **Script
 Samples: **([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 4 new scenarios and 3 script updates contributed by
 
--   [Adam Wójcik](http://twitter.com/Adam25858782) | \@Adam25858782
+-   [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
 -   [Chandani Prajapati](http://twitter.com/Chandani_SPD) |
-    \@Chandani_SPD
--   [Ganesh Sanap](http://twitter.com/GaneshSanap20) | \@GaneshSanap20
+    @Chandani_SPD
+-   [Ganesh Sanap](http://twitter.com/GaneshSanap20) | @GaneshSanap20
 -   [Kunj Balkrishna Sangani](http://twitter.com/sanganikunj) |
-    \@sanganikunj
+    @sanganikunj
 -   [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) |
-    \@kasperbolarsen
+    @kasperbolarsen
 -   [Leon Armston](http://twitter.com/LeonArmston) |
-    [\@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
 -   [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) |
-    [\@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+    [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
 
 Blog: [Getting started with PnP Script
 Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) --
@@ -181,38 +181,38 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft) | \@O365bert --
+    Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert --
     [7:01](https://youtu.be/o81Xah0o-xI?t=421)
 -   PnP PowerShell updates - [Bert
     Jansen](http://twitter.com/O365bert) (Microsoft) |
-    \@O365bert -- [8:33](https://youtu.be/o81Xah0o-xI?t=513)
+    @O365bert -- [8:33](https://youtu.be/o81Xah0o-xI?t=513)
 -   yo Teams updates - [Stephan
     Bisser](http://twitter.com/stephanbisser) (Solvion) |
-    \@stephanbisser -- [9:44](https://youtu.be/o81Xah0o-xI?t=584)
+    @stephanbisser -- [9:44](https://youtu.be/o81Xah0o-xI?t=584)
 -   Microsoft Graph Toolkit updates - [Sébastien
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
-    \@sebastienlevert -- [11:57](https://youtu.be/o81Xah0o-xI?t=717)
+    @sebastienlevert -- [11:57](https://youtu.be/o81Xah0o-xI?t=717)
 -   Microsoft Script Samples - [Paul
     Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) |
-    \@pkbullock -- [2:33](https://youtu.be/o81Xah0o-xI?t=153%20)
+    @pkbullock -- [2:33](https://youtu.be/o81Xah0o-xI?t=153%20)
 -   Microsoft Teams Samples - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [13:39](https://youtu.be/o81Xah0o-xI?t=819)
+    @DavidWarnerII -- [13:39](https://youtu.be/o81Xah0o-xI?t=819)
 -   Microsoft Power Platform Samples - [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
+    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
     -- [13:56](https://youtu.be/o81Xah0o-xI?t=836)
 -   **Demo 1**:  Getting started on building a Microsoft Teams bot with
     yo teams -- [Stephan Bisser](http://twitter.com/stephanbisser)[
-    (Solvion) | \@stephanbisser ]--
+    (Solvion) | @stephanbisser ]--
     [16:14](https://youtu.be/o81Xah0o-xI?t=974)
 -   **Demo 2**[:  Microsoft List Formatting - Challenges and solutions
     --]** **[André
-    Lage](http://twitter.com/aaclage)[ (Datalynx AG) | \@aaclage --
+    Lage](http://twitter.com/aaclage)[ (Datalynx AG) | @aaclage --
     [28:44](https://youtu.be/o81Xah0o-xI?t=1724)]
 -   [**Demo 3**[:  Updates on Independent Publisher Connectors & GoQR
     Connector Demo -- ][Natalie
     Pienkowska](http://twitter.com/NataliePienkow1)[ (Microsoft) |
-    \@NataliePienkow1 & ][Rui
+    @NataliePienkow1 & ][Rui
     Santos](https://www.linkedin.com/in/ruisantosnor/)[
     (Microsoft) ]]-- [47:41](https://youtu.be/o81Xah0o-xI?t=2861)
 
@@ -248,12 +248,12 @@ slides.
     Queensland, Australia-based Cloud Developer Advocate for Microsoft
     Teams and Graph, [Rabia
     Williams](http://twitter.com/williamsrabia) (Microsoft) |
-    \@williamsrabia | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/)
+    @williamsrabia | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/)
 
 -   **PnP Weekly -- Episode 148** (January 9th) with Belgium-based
     Power Platform Architect and Business Applications MVP, [Carmen
     Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) |
-    \@CarmenYsewijn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-148-carmen-ysewijn-qubix/ba-p/3056063) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-148-%E2%80%93-10th-of-january-2022/) 
+    @CarmenYsewijn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-148-carmen-ysewijn-qubix/ba-p/3056063) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-148-%E2%80%93-10th-of-january-2022/) 
 
 ## General resources
 
@@ -293,7 +293,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

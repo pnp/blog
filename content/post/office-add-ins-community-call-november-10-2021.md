@@ -34,7 +34,7 @@ recognizes MVP Maarten van Stam and Eric Legault for their continued
 contributions to this community.  Greatly appreciated!  Register for the
 [PnP Recognition Program](https://aka.ms/m365pnp-recognition).  Q&A live
 and in chat throughout call.  The call was hosted by David Chesnut
-(Microsoft) | \@davidchesnut. Recorded November 10, 2021.
+(Microsoft) | @davidchesnut. Recorded November 10, 2021.
 
 ## Presenters 
 

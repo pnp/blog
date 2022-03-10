@@ -17,7 +17,7 @@ Microsoft Graph) and on Considerations for Creating Online Meetings
 (**Integration into Outlook or into other 3^rd^ party experiences)**. 
 Q&A in this call after demos, at end and in chat.  The call was hosted
 by [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) |
-[\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556). Microsoft
+[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556). Microsoft
 Presenters were Philippe Signoret and Fabian Williams.  Recorded on May
 4, 2021.
 
@@ -127,7 +127,7 @@ From Q&A
 -   See the full blog post for this call at
     - <https://aka.ms/m365pnp/community/blog>
 -   Twitter
-    - [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev) \@Microsoft365Dev​
+    - [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev) @Microsoft365Dev​
 -   YouTube - <https://aka.ms/M365DevYouTube>​
 -   Blogs - <https://aka.ms/m365pnp/community/blog>
 -   Recurrent Invite to this community call

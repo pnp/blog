@@ -43,7 +43,7 @@ project bug fixes, new idea prototyping, and vacationing this month.  
 Two new Teams samples showcasing Adaptive Cards Universal Action Model. 
 Great work!  The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems)
-\@DavidWarnerII.   Q&A takes place in chat throughout the call.
+@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 
 **Register for Sharing is Caring Events**:
@@ -128,14 +128,14 @@ Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys.com) |
-    \@paolopia - [7:46](https://youtu.be/ebOtM8LpAK4?t=466)
+    @paolopia - [7:46](https://youtu.be/ebOtM8LpAK4?t=466)
 
 -   PnP PowerShell - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | \@paolopia -
+    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | @paolopia -
     [9:01](https://youtu.be/ebOtM8LpAK4?t=541)
 
 -   yo Teams updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | \@paolopia -
+    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | @paolopia -
     [9:50](https://youtu.be/ebOtM8LpAK4?t=590)
 
 -   Microsoft Graph Toolkit updates - [Beth
@@ -143,19 +143,19 @@ Topics covered in this call
     | [beth-panx](https://github.com/beth-panx) - [10:37](https://youtu.be/ebOtM8LpAK4?t=637)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) | \@Bob1German -
+    German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German -
     [11:55](https://youtu.be/ebOtM8LpAK4?t=715)
 
 -   Microsoft Power Platform Samples - [April
     Dunnam](http://twitter.com/aprildunnam) (Microsoft) |
-    \@aprildunnam - [13:05](https://youtu.be/ebOtM8LpAK4?t=785)
+    @aprildunnam - [13:05](https://youtu.be/ebOtM8LpAK4?t=785)
 
 -   **Demo:**  Publish a connector to the Power Platform -- Natalie
     Pienkowska (Microsoft) - [14:54](https://youtu.be/ebOtM8LpAK4?t=894)
 
 -   **Demo:**  How to update an Adaptive Card with a Teams Messaging
     Extension and MessagePreview -- [Markus
-    Möller](http://twitter.com/Moeller2_0) (Avanade) | \@Moeller2_0 -
+    Möller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0 -
     [24:29](https://youtu.be/ebOtM8LpAK4?t=1469)
 
 -   **Demo:**  ACS -- Teams InterOp with Call Routing -- Sathya
@@ -233,7 +233,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

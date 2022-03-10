@@ -48,7 +48,7 @@ nightly!  Subscribe to nightly releases for the latest capabilities. **
 
 The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-\@DavidWarnerII.   Q&A takes place in chat throughout the call.
+@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 **Actions**
 
@@ -102,34 +102,34 @@ Samples: **(<https://aka.ms/TeamsSampleBrowser>)
 -   **[Tab Meeting StageView basic - Microsoft Teams
     App](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-stageview-basic)
     -** [Markus Möller](http://twitter.com/Moeller2_0) (Avanade) |
-    \@Moeller2_0
+    @Moeller2_0
 **Microsoft Power Platform
 Samples: **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatform-samples)
 
 -   **[COVID Vaccine Survey
     PowerApp](https://github.com/siddharth-vaghasia/covidsurveypowerapp)
-    -** [Siddharth Vaghasia](http://twitter.com/siddh_me) | \@siddh_me
+    -** [Siddharth Vaghasia](http://twitter.com/siddh_me) | @siddh_me
     & Mayuresh Joshi
 -   **New Employee Tip of the Day Flow -** [Adam
-    Wójcik](http://twitter.com/Adam25858782) | \@Adam25858782
+    Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
 -   **Icon Button Component -** Pavel Kovalevskij 
 -   **Refresh Microsoft Graph Data in Power BI -** [Scott
-    McKenzie](http://twitter.com/365EDUBI) | \@365EDUBI
+    McKenzie](http://twitter.com/365EDUBI) | @365EDUBI
 -   **JSON Object to Power Fx Table Function -** [Bartolome
-    Sorrentino](http://twitter.com/bsorrentinoJ)** **| \@bsorrentinoJ
+    Sorrentino](http://twitter.com/bsorrentinoJ)** **| @bsorrentinoJ
 **Script
 Samples: **([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 5 new and 3 updated scenario samples contributed by
 
--   [Adam Wójcik](http://twitter.com/Adam25858782) | \@Adam25858782
+-   [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
 -   [Chandani Prajapati](http://twitter.com/Chandani_SPD) |
-    \@Chandani_SPD
--   [Pete Skelly](http://twitter.com/pskelly) | \@pskelly
--   [Siddharth Vaghasia](http://twitter.com/siddh_me) | \@siddh_me
+    @Chandani_SPD
+-   [Pete Skelly](http://twitter.com/pskelly) | @pskelly
+-   [Siddharth Vaghasia](http://twitter.com/siddh_me) | @siddh_me
 -   [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) |
-    \@kasperbolarsen
--   [Paul Bullock](http://twitter.com/pkbullock) | \@pkbullock
+    @kasperbolarsen
+-   [Paul Bullock](http://twitter.com/pkbullock) | @pkbullock
 -- Many thanks!
 **Together Mode!**
 {{< image alt="PnP-Calls-TogetherMode-700W.gif" src="images/blog/microsoft-365-developer-community-call-recording-23rd-of/PnP-Calls-TogetherMode-700W.gif" >}}
@@ -162,34 +162,34 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
 Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | \@paolopia --
+    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | @paolopia --
     [6:08](https://youtu.be/v_wYcTzHMs8?t=368)
 -   PnP PowerShell updates - [Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys.com) |
-    \@paolopia -- [7:46](https://youtu.be/v_wYcTzHMs8?t=466)
+    @paolopia -- [7:46](https://youtu.be/v_wYcTzHMs8?t=466)
 -   yo Teams updates - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [8:40](https://youtu.be/v_wYcTzHMs8?t=520)
+    @DavidWarnerII -- [8:40](https://youtu.be/v_wYcTzHMs8?t=520)
 -   Microsoft Graph Toolkit updates - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [9:14](https://youtu.be/v_wYcTzHMs8?t=554)
+    @DavidWarnerII -- [9:14](https://youtu.be/v_wYcTzHMs8?t=554)
 -   Microsoft Script Samples - [Paul
     Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) |
-    \@pkbullock -- [2:22](https://youtu.be/v_wYcTzHMs8?t=142)
+    @pkbullock -- [2:22](https://youtu.be/v_wYcTzHMs8?t=142)
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) | \@Bob1German
+    German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German
     -- [9:55](https://youtu.be/v_wYcTzHMs8?t=595)
 -   Microsoft Power Platform Samples - [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
+    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
     -- [11:22](https://youtu.be/v_wYcTzHMs8?t=682)
 -   **Demo 1**:  Teams Meetings Apps: Emoji feedback with bot and
     Adaptive Card universal action model -- [Markus
     Möller](http://twitter.com/Moeller2_0) (Avanade) |
-    \@Moeller2_0 -- [13:36](https://youtu.be/v_wYcTzHMs8?t=816)
+    @Moeller2_0 -- [13:36](https://youtu.be/v_wYcTzHMs8?t=816)
 -   **Demo 2**: Introduction to Microsoft 365 Universal Sample Gallery
-    -- [Hugo Bernier](http://twitter.com/bernierh) | \@bernierh & [Bob
+    -- [Hugo Bernier](http://twitter.com/bernierh) | @bernierh & [Bob
     German](http://twitter.com/Bob1German) |
-    \@Bob1German -- [25:09](https://youtu.be/v_wYcTzHMs8?t=1509)
+    @Bob1German -- [25:09](https://youtu.be/v_wYcTzHMs8?t=1509)
 
 
 ## Resources
@@ -212,7 +212,7 @@ slides.
 -   **PnP Weekly -- Episode 147** (December 13th) with Munich,
     Germany-based consultant and MVP, [Markus
     Möller](http://twitter.com/Moeller2_0) (Avanade) |
-    \@Moeller2_0 | [video ](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/ba-p/3037250)| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-147-%E2%80%93-13th-of-december-2021/)
+    @Moeller2_0 | [video ](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/ba-p/3037250)| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-147-%E2%80%93-13th-of-december-2021/)
 
 ## General resources
 
@@ -249,7 +249,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

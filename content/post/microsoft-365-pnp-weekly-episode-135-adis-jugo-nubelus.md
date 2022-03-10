@@ -16,11 +16,11 @@ type: "regular"
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by German-based MVP and founder of
 [Nubelus](https://www.nubelus.com/) - [Adis
-Jugo](https://twitter.com/adisjugo) | \@adisjugo.
+Jugo](https://twitter.com/adisjugo) | @adisjugo.
 
  
 
@@ -109,53 +109,53 @@ everyone for your contributions to the community!\
     O'Malley](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-podcast-microsoft-365-app-certification/ba-p/2769303)
     -  | [Microsoft 365 Developer
     Podcast](https://twitter.com/m365devpodcast) | [Jeremy
-    Thake](https://twitter.com/jthake) (Microsoft) | \@jthake, [Paul
+    Thake](https://twitter.com/jthake) (Microsoft) | @jthake, [Paul
     Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) |
-    [\@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113) and Orion
+    [@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113) and Orion
     O'Malley
 -   [PnP Batch versus Microsoft Graph Batch in PowerShell to add/delete
     3k
     items](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/ba-p/2761214)
     - [Reshmee Auckloo](https://twitter.com/reshmeeauckloo) (Pension
     Protection Fund) |
-    [\@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+    [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
 -   [Export conversations from Microsoft Teams Channels using the CLI
     for Microsoft
     365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/export-conversations-from-microsoft-teams-channels-using-the-cli/ba-p/2762619)
     - [Patrick Lamber](https://twitter.com/patricklamber) (Experts
-    Inside) | \@patricklamber
+    Inside) | @patricklamber
 -   [4 ways to level up your Power Automate
     flows](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/4-ways-to-level-up-your-power-automate-flows/ba-p/2763560) -
-    [Luise Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
+    [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 -   [How to use loader/Spinner/In Progress indicator in SPFx using
     fluent UI
     Spinner?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-use-loader-spinner-in-progress-indicator-in-spfx-using/ba-p/2536896)
     -  [Chandani
-    Prajapati](https://twitter.com/Chandani_SPD) | \@Chandani_SPD
+    Prajapati](https://twitter.com/Chandani_SPD) | @Chandani_SPD
 -   [The three opportunities for MSP's moving
     forward](https://regarding365.com/the-three-opportunities-for-msps-moving-forward-d9bb6ab6070) -
-    [Alex Fields](https://twitter.com/vanvfields) | \@vanvfields
+    [Alex Fields](https://twitter.com/vanvfields) | @vanvfields
 -   [New SharePoint hub to hub
     associations](https://regarding365.com/new-sharepoint-hub-to-hub-associations-2b0b1db0a933)
     - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc)
-    | \@DanielGlenn, [Darrell
+    | @DanielGlenn, [Darrell
     Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
-    \@darrellaas
+    @darrellaas
 -   [Getting started with the Microsoft Teams Framework
     (TeamsFx)](https://thomy.tech/getting-started-with-the-microsoft-teams-framework-teamsfx/) -
-    [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | \@thomyg
+    [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
 -   [How to use Remote Event Receivers with .NET Core (or .NET 5) and
     PnP.Framework](https://spblog.net/post/2021/09/14/how-to-use-remote-event-receivers-with-net-core-or-net-5-and-pnp-framework) -
     [Sergei Sergeev](https://twitter.com/sergeev_srg) (Mastaq)
-    | \@sergeev_srg
+    | @sergeev_srg
 -   [Meeting apps in Microsoft Teams (2) -- Device
     permissions](https://mmsharepoint.wordpress.com/2021/09/13/meeting-apps-in-microsoft-teams-2-device-permissions/) -
     [Markus Möller](https://twitter.com/Moeller2_0) (Avanade)
-    | \@Moeller2_0
+    | @Moeller2_0
 -   [Meeting apps in Microsoft Teams (3) --
     In-meeting](https://mmsharepoint.wordpress.com/2021/09/13/meeting-apps-in-microsoft-teams-3-in-meeting/)
     - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade)
-    | \@Moeller2_0
+    | @Moeller2_0
 
  
 

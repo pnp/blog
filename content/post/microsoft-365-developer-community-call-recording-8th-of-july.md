@@ -44,7 +44,7 @@ members are working on new integrations and previews now.  
   Microsoft Graph Toolkit (MGT)             v2.2.0 GA                   Added Teams SSO Provider in Preview
   ----------------------------------------- --------------------------- -------------------------------------
 One new Teams sample was delivered.  Great work!  The host of this call
-was Paolo Pialorsi (PiaSys.com) | \@paolopia   Q&A takes place in chat
+was Paolo Pialorsi (PiaSys.com) | @paolopia   Q&A takes place in chat
 throughout the call.
 
 ## Actions
@@ -122,14 +122,14 @@ Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys.com) |
-    \@paolopia - [9:57](https://youtu.be/rOHSrG1n43Y?t=597)
+    @paolopia - [9:57](https://youtu.be/rOHSrG1n43Y?t=597)
 
 -   PnP PowerShell - [Erwin van Hunen](http://twitter.com/erwinvanhunen)
-    (Valo Intranet) | \@erwinvanhunen -
+    (Valo Intranet) | @erwinvanhunen -
     [12:13](https://youtu.be/rOHSrG1n43Y?t=733)
 
 -   yo Teams updates - [Wictor
-    Wilén](http://twitter.com/wictor) (Avanade) | \@wictor -
+    Wilén](http://twitter.com/wictor) (Avanade) | @wictor -
     [14:37](https://youtu.be/rOHSrG1n43Y?t=877)
 
 -   Microsoft Graph Toolkit updates - [Beth
@@ -137,16 +137,16 @@ Topics covered in this call
     | [beth-panx](https://github.com/beth-panx) - [15:44](https://youtu.be/rOHSrG1n43Y?t=944)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) | \@Bob1German -
+    German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German -
     [16:49](https://youtu.be/rOHSrG1n43Y?t=1009)
 
 -   **Demo: ** Image Column Type formatting in Microsoft 365 - [Chris
-    Kent](http://twitter.com/theChrisKent) (DMI) | \@theChrisKent -
+    Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent -
     [19:09](https://youtu.be/rOHSrG1n43Y?t=1149)
 
 -   **Demo: ** Configure Teams Applications with Azure App Configuration
     and Azure Key Vault - [Markus
-    Moeller](http://twitter.com/Moeller2_0) (Avanade) | \@Moeller2_0 -
+    Moeller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0 -
     [33:04](https://youtu.be/rOHSrG1n43Y?t=1984) 
 
 
@@ -187,7 +187,7 @@ slides.
 -   PnP Weekly -- Episode 132 with Seattle-based Program Manager from
     OneDrive and SharePoint (ODSP) engineering - [Nicole
     Woon](http://twitter.com/NovelNicole) (Microsoft) |
-    \@NovelNicole | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-132-nicole-woon-microsoft/ba-p/2466409) | [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-132-21st-of-june-2021/)
+    @NovelNicole | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-132-nicole-woon-microsoft/ba-p/2466409) | [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-132-21st-of-june-2021/)
 
 -   Microsoft 365 tenant -- [Script Samples
     Gallery](https://aka.ms/script-samples) | aka.ms/script-samples
@@ -223,7 +223,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

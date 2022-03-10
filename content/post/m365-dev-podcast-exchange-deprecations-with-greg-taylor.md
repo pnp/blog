@@ -39,11 +39,11 @@ Listen to the show here:  [Exchange Deprecations with Greg Taylor
     Graph
     API](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-the-working-hours-time-zones-for-other-users-using/ba-p/2852687?WT.mc_id=M365-MVP-4025164)
 -   [Simple Teams Tab Single-Sign-On with Microsoft Graph
-    (\@wictor)](https://www.wictorwilen.se/blog/simple-teams-tab-single-sign-on-with-microsoft-graph/)
+    (@wictor)](https://www.wictorwilen.se/blog/simple-teams-tab-single-sign-on-with-microsoft-graph/)
 -   [Sending e-mails with Microsoft Graph using .NET
-    (\@zimmergren)](https://zimmergren.net/sending-e-mails-using-microsoft-graph-using-dotnet/)
+    (@zimmergren)](https://zimmergren.net/sending-e-mails-using-microsoft-graph-using-dotnet/)
 -   [Sending Emails Using Microsoft Graph PowerShell
-    (\@helloitsliam)](https://helloitsliam.com/2021/10/18/sending-emails-using-microsoft-graph-powershell/)
+    (@helloitsliam)](https://helloitsliam.com/2021/10/18/sending-emails-using-microsoft-graph-powershell/)
 -   [Microsoft Graph PowerShell -- Backticks vs. Splatting vs. Class
     Objects
-    (\@helloitsliam)](https://helloitsliam.com/2021/10/22/microsoft-graph-powershell-backticks-vs-splatting-vs-class-objects/)
+    (@helloitsliam)](https://helloitsliam.com/2021/10/22/microsoft-graph-powershell-backticks-vs-splatting-vs-class-objects/)

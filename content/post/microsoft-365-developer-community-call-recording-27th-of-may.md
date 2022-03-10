@@ -48,7 +48,7 @@ with insights into MGT vNext.
 Additionally, 2 new Teams samples were delivered in the last 2 weeks. 
 The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-\@DavidWarnerII.   Q&A takes place in chat throughout the call.
+@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
  
 
@@ -57,7 +57,7 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
     [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
 -   **Feedback wanted:  Regarding PnP PowerShell** -- "What if we did
     not return classic CSOM objects from the cmdlets?"  Comments to: 
-    \@erwinvanhunen.    
+    @erwinvanhunen.    
 -   **Register for Sharing is Caring Events**:
 
     -   First Time Contributor Session -- [June
@@ -96,7 +96,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   **[Action
     Preview](https://github.com/pnp/teams-dev-samples/tree/main/samples/msgext-action-preview)
-    -** [Markus Moeller](http://twitter.com/Moeller2_0) |\@Moeller2_0
+    -** [Markus Moeller](http://twitter.com/Moeller2_0) |@Moeller2_0
 
 -   [**Teams Context Viewer
     tab**](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-context-viewer)
@@ -141,36 +141,36 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft) \@O365bert
+    Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
     - [5:50](https://youtu.be/y0diQu23g88?t=350)
 
 -   PnP PowerShell updates -[ Erwin van
     Hunen](http://twitter.com/erwinvanhunen) (Valo Intranet)
-    \@erwinvanhunen - [8:21](https://youtu.be/y0diQu23g88?t=501)
+    @erwinvanhunen - [8:21](https://youtu.be/y0diQu23g88?t=501)
 
 -   yo Teams updates - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems)
-    \@DavidWarnerII - [10:00](https://youtu.be/y0diQu23g88?t=600)
+    @DavidWarnerII - [10:00](https://youtu.be/y0diQu23g88?t=600)
 
 -   Microsoft Graph Toolkit updates - [Nikola
     Metulev](http://twitter.com/metulev) (Microsoft) |
-    \@metulev - [10:31](https://youtu.be/y0diQu23g88?t=631)
+    @metulev - [10:31](https://youtu.be/y0diQu23g88?t=631)
 
 -   Microsoft Teams Samples - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems)
-    \@DavidWarnerII - [13:38](https://youtu.be/y0diQu23g88?t=818)
+    @DavidWarnerII - [13:38](https://youtu.be/y0diQu23g88?t=818)
 
 -   **Demo:**  Getting started with HTWOO UI -- Fluent Design in HTML
     and CSS -- [Stefan Bauer](http://twitter.com/StfBauer) (N8D) |
-    \@StfBauer - [15:31](https://youtu.be/y0diQu23g88?t=931)
+    @StfBauer - [15:31](https://youtu.be/y0diQu23g88?t=931)
 
 -   **Demo:**  Gain your users attention with the Microsoft Teams
     Activity Feed API -- [Thomas Gölles](http://twitter.com/thomyg)
-    (Solvion) | \@thomyg - [29:54](https://youtu.be/y0diQu23g88?t=1794)
+    (Solvion) | @thomyg - [29:54](https://youtu.be/y0diQu23g88?t=1794)
 
 -   **Demo:**  Deep linking from List Formatting to Power Automate
     solution -- [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
-    \@theChrisKent
+    @theChrisKent
     -[ [44:55](https://youtu.be/y0diQu23g88?t=2695)][ ]
 
 ## Resources
@@ -215,7 +215,7 @@ slides.
 
 -   PnP Weekly -- Episode 128 with guest [Katie
     Swanson](http://twitter.com/kswansondesign) (Microsoft) |
-    \@kswansondesign |
+    @kswansondesign |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-128/ba-p/2381362)
     |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-128-24th-of-may-2021/)
@@ -250,7 +250,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

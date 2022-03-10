@@ -51,7 +51,7 @@ Additionally, 1 extension and 6 web part and 1 ACE **samples** delivered
 in the last 2 weeks!   Grrrreat!  Thank you all for your contributions. 
  The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-\@mediocrebowler.  Q&A takes place as always in chat throughout the
+@mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
 {{< image alt="211021-together-mode.gif" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/211021-together-mode.gif" >}}
 Full house today.  Clearly we've outgrow this venue.   Great to see
@@ -130,29 +130,29 @@ everybody.  See you again soon. 
 **SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
 
 -   **Animated Progress Bar\* -** [Ari
-    Gunawan](http://twitter.com/AriGunawan3023) | \@AriGunawan3023
+    Gunawan](http://twitter.com/AriGunawan3023) | @AriGunawan3023
 
 
 **\*** *to be posted soon.*
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
 
 -   **Emoji Reactions\* -** [Siddharth
-    Vaghasia](http://twitter.com/siddh_me) | \@siddh_me
+    Vaghasia](http://twitter.com/siddh_me) | @siddh_me
 
 -   **My Events -- Date Fixed\* -** [Chandani
-    Prajapati](http://twitter.com/Chandani_SPD) | \@Chandani_SPD
+    Prajapati](http://twitter.com/Chandani_SPD) | @Chandani_SPD
 
 -   **React Org Chart -- Read Users / Managers\* -** [Tom
-    Daly](http://twitter.com/_tomdaly_) | \@\_tomdaly\_
+    Daly](http://twitter.com/_tomdaly_) | @\_tomdaly\_
 
 -   **SharePoint News Star Ratings\* -** [Takashi
-    Shinohara](http://twitter.com/karamem0) | [\@karamem0](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/229602)
+    Shinohara](http://twitter.com/karamem0) | [@karamem0](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/229602)
 
 -   **React Groups -- Team Tab Support\* -** [Alison
     Collins](https://github.com/ReactIntern) | <https://github.com/ReactIntern>
 
     **React Documents Accordion\* -** [João
-    Mendes](http://twitter.com/joaojmendes) | \@joaojmendes
+    Mendes](http://twitter.com/joaojmendes) | @joaojmendes
 
 **\*** *to be posted soon.*
 **PnP SPFx
@@ -160,48 +160,48 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 
 -   [Upcoming
     Events](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-Graph-UpcomingEvents) -
-    [Zach Roberts](http://twitter.com/ZachSPODev) | \@ZachSPODev
+    [Zach Roberts](http://twitter.com/ZachSPODev) | @ZachSPODev
 Thank you for your great work.  Samples are often showcased in Demos. 
   
 ## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [7:43](https://youtu.be/9vvasiylRYI?t=463)
+    @vesajuvonen -- [7:43](https://youtu.be/9vvasiylRYI?t=463)
 -   PnPjs Client-Side Libraries - [Julie
     Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
-    \@jfj1997 -- [10:01](https://youtu.be/9vvasiylRYI?t=601)
+    @jfj1997 -- [10:01](https://youtu.be/9vvasiylRYI?t=601)
 -   CLI for Microsoft 365 - [Patrick
     Rodgers](http://twitter.com/mediocrebowler%20) (Microsoft) |
-    \@mediocrebowler -- [12:16](https://youtu.be/9vvasiylRYI?t=736)
+    @mediocrebowler -- [12:16](https://youtu.be/9vvasiylRYI?t=736)
 -   PnP SPFx Controls -[ Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-    \@mediocrebowler -- [13:05](https://youtu.be/9vvasiylRYI?t=785)
+    @mediocrebowler -- [13:05](https://youtu.be/9vvasiylRYI?t=785)
 -   PnP Modern Search - [Patrick
     Rodgers](http://twitter.com/mediocrebowler%20) (Microsoft) |
-    \@mediocrebowler -- [14:01](https://youtu.be/9vvasiylRYI?t=841)
+    @mediocrebowler -- [14:01](https://youtu.be/9vvasiylRYI?t=841)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
-    \@bernierh -- [14:53](https://youtu.be/9vvasiylRYI?t=893)
+    @bernierh -- [14:53](https://youtu.be/9vvasiylRYI?t=893)
 -   PnP SPFx ACEs Samples - [David Warner
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
-    \@DavidWarnerII -- [16:17 ](https://youtu.be/9vvasiylRYI?t=977)
+    @DavidWarnerII -- [16:17 ](https://youtu.be/9vvasiylRYI?t=977)
 
 ## Demos
 
 -   **D1:**  At a Glance Web Part and Viva Adaptive Card Extension --
     [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) |
-    \@anooptells [--
+    @anooptells [--
     [18:29](https://youtu.be/9vvasiylRYI?t=1109)]
 
 -   **D2:**  Share to Teams -- SPFx Command Set Extension --  [Kunj
     Sangani ](http://twitter.com/sanganikunj)(Cognizant) |
-    \@sanganikunj [--
+    @sanganikunj [--
     [33:45](https://youtu.be/9vvasiylRYI?t=2025)]
 
 -   **D3:**  SPFx Design Patterns Property Panes --  [Hugo
     Bernier](http://twitter.com/bernierh) (Microsoft) |
-    \@bernierh [--][ [40:50](https://youtu.be/9vvasiylRYI?t=2450)]
+    @bernierh [--][ [40:50](https://youtu.be/9vvasiylRYI?t=2450)]
 
 
 
@@ -225,15 +225,15 @@ slides.
     2021](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR8ke1rGfE-VNsUHrnMWCrL5UN1dHRUYxV01CUkJESktKMENBQldURVpRWiQlQCN0PWcu&web=1&wdLOR=cC640D9E0-C403-405A-9EF1-D9F43B6ADF90) 
 -   **PnP Weekly -- Episode 138** (October 11th) with Germany-based
     Office Apps and Services MVP, consultant, developer [Luise
-    Freese](http://twitter.com/LuiseFreese) | \@LuiseFreese and
+    Freese](http://twitter.com/LuiseFreese) | @LuiseFreese and
     Belgium-based SharePoint/Power Platform developer at Qubix, [Carmen
-    Ysewijn](http://twitter.com/CarmenYsewijn) | \@CarmenYsewijn
+    Ysewijn](http://twitter.com/CarmenYsewijn) | @CarmenYsewijn
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-138-carmen-ysewijn-qubix-and/ba-p/2834568) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-138-%E2%80%93-11th-of-october-2021/)
 -   **PnP Weekly -- Episode 139** (October 18th) with Switzerland based
     MVP and Head of Solutions at [Datalynx
     AG](https://www.datalynx.ch/en/) - [André
     Lage](http://twitter.com/aaclage) |
-    \@aaclage | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-139-%e2%80%93-18th-of-october-2021/)
+    @aaclage | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-139-%e2%80%93-18th-of-october-2021/)
 **General Resources:**
 
 -   Viva Connections <https://aka.ms/VivaConnections>
@@ -255,7 +255,7 @@ slides.
     Brochure) - aka.ms/modernworkbuildsessions
 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)

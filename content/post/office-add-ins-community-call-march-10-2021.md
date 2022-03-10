@@ -64,8 +64,8 @@ Platform Panel](https://aka.ms/SuccessPanel)  
     Panel](https://aka.ms/SuccessPanel) to be part of **M365 customer
     success platform panel** and share your challenges/ideas on M365
     adoption & success.  Also you may email the presenters from the
-    Customer Success Engineering Team directly - yinghao\@microsoft.com,
-    nikhilv\@microsoft.com  
+    Customer Success Engineering Team directly - yinghao@microsoft.com,
+    nikhilv@microsoft.com  
 -   Recurrent Invite - <https://aka.ms/officeaddinscommunitycall>
 -   Link to all Microsoft Developer Community calls
     - <https://aka.ms/M365DevCalls>

@@ -47,7 +47,7 @@ previous report 2 weeks ago) 
 
 The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-\@mediocrebowler.  Q&A takes place in chat throughout the call.
+@mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="210520-together-mode.gif" src="images/blog/sharepoint-framework-community-call-20th-of-may-2021/210520-together-mode.gif" >}}
 Thanks everybody for being part of the Community and helping making
 things happen. You are absolutely awesome!
@@ -133,7 +133,7 @@ things happen. You are absolutely awesome!
     Form](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-list-form)** -
     Ari Gunawan | AriGunawan
 -   **[Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)** -
-    [Eli H. Schei](http://twitter.com/acupof_dev) | \@acupof_dev
+    [Eli H. Schei](http://twitter.com/acupof_dev) | @acupof_dev
 
 
 -   **NEW Issue Templates!**
@@ -144,40 +144,40 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [5:38](https://youtu.be/cAwKgUNR9jU?t=338)
+    @vesajuvonen -- [5:38](https://youtu.be/cAwKgUNR9jU?t=338)
 -   PnPjs Client-Side Libraries - [Julie
     Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
-    \@jfj1997 -- [9:27](https://youtu.be/cAwKgUNR9jU?t=567)
+    @jfj1997 -- [9:27](https://youtu.be/cAwKgUNR9jU?t=567)
 -   CLI for Microsoft 365 - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-    \@mediocrebowler -- [11:29](https://youtu.be/cAwKgUNR9jU?t=689)
+    @mediocrebowler -- [11:29](https://youtu.be/cAwKgUNR9jU?t=689)
 -   PnP SPFx Controls - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-    \@mediocrebowler -- [12:28](https://youtu.be/cAwKgUNR9jU?t=748)
+    @mediocrebowler -- [12:28](https://youtu.be/cAwKgUNR9jU?t=748)
 -   PnP Modern Search - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-    \@mediocrebowler -- [13:24](https://youtu.be/cAwKgUNR9jU?t=804)
+    @mediocrebowler -- [13:24](https://youtu.be/cAwKgUNR9jU?t=804)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
-    \@bernierh -- [14:30](https://youtu.be/cAwKgUNR9jU?t=870)
+    @bernierh -- [14:30](https://youtu.be/cAwKgUNR9jU?t=870)
 
 ## Demos
 
 -   **Demo:**  Using Microsoft Graph Toolkit to easily access files in
     Sites and in OneDrive -- [André Lage](http://twitter.com/aaclage)
-    (Datalynx AG) | \@aaclage [--
+    (Datalynx AG) | @aaclage [--
     [18:27](https://youtu.be/cAwKgUNR9jU?t=1107)]
 
     **Demo:**  Building Microsoft Teams user bulk membership update tool
     with SPFx and Microsoft Graph -- [Nick
     Brown](http://twitter.com/techienickb) (Cardiff University) |
-    \@techienickb [--
+    @techienickb [--
     [34:06](https://youtu.be/cAwKgUNR9jU?t=2046)]
 
     **Demo:**  Building Microsoft Graph get client web part with latest
     Graph Client SDK -- [Sébastien
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
-    \@sebastienlevert [
+    @sebastienlevert [
     --][ [47:30](https://youtu.be/cAwKgUNR9jU?t=2850)]
 
 
@@ -218,7 +218,7 @@ slides.
 
 -   PnP Weekly -- Episode 127 with MVP guest [Rick Van
     Rousselt](http://twitter.com/RickVanRousselt) (Advantive) |
-    \@RickVanRousselt |
+    @RickVanRousselt |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-127-rick-van-rousselt/ba-p/2361251)
     |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-127-17th-of-may-2021/)
@@ -231,7 +231,7 @@ slides.
 
 -   Viva Connections <https://aka.ms/VivaConnections> 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)

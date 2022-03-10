@@ -41,7 +41,7 @@ Microsoft Build time frame.   
   ----------------------------------------- ------------------------------------------------------------- ---------------------------------------
 Additionally, one new Teams sample delivered.  The host of this call was
 [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems)
-| \@DavidWarnerII.   Q&A takes place in chat throughout the call.
+| @DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 
 -   Register for Sharing is Caring Events:
@@ -121,14 +121,14 @@ Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys.com)
-    \@paolopia - [4:45](https://youtu.be/pg1M9AuTaO4?t=285)
+    @paolopia - [4:45](https://youtu.be/pg1M9AuTaO4?t=285)
 
 -   PnP PowerShell updates - [Paolo
     Pialorsi](http://twitter.com/paolopia) (PiaSys.com)
-    \@paolopia - [6:35](https://youtu.be/pg1M9AuTaO4?t=395)
+    @paolopia - [6:35](https://youtu.be/pg1M9AuTaO4?t=395)
 
 -   yo Teams updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) \@paolopia -
+    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) @paolopia -
     [7:24](https://youtu.be/pg1M9AuTaO4?t=444)
 
 -   Microsoft Graph Toolkit updates - [Beth
@@ -137,21 +137,21 @@ Topics covered in this call
 
 -   Microsoft Teams Samples - [Bob
     German](http://twitter.com/Bob1German) (Microsoft)
-    \@Bob1German - [9:46](https://youtu.be/pg1M9AuTaO4?t=586)
+    @Bob1German - [9:46](https://youtu.be/pg1M9AuTaO4?t=586)
 
 -   **Demo:**  Inspire, inform and prepare employees transition to the
     new hybrid Workplace transformation site -- Holland Kaviani
     (Microsoft) & [Matt Wolodarsky](http://twitter.com/mwolodarsky)
-    (Microsoft) | \@mwolodarsky -
+    (Microsoft) | @mwolodarsky -
     [12:34](https://youtu.be/pg1M9AuTaO4?t=754)
 
 -   **Demo:**  Querying and Paging data with PnP Core SDK -- [Paolo
-    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia -
+    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia -
     [25:21](https://youtu.be/pg1M9AuTaO4?t=1521)
 
 -   **Demo:**  Advanced tricks for form formatting and customization --
     [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
-    \@theChrisKent [-
+    @theChrisKent [-
     [43:22](https://youtu.be/pg1M9AuTaO4?t=2602)
 
 
@@ -223,7 +223,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

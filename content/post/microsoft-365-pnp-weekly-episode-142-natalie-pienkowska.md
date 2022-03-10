@@ -14,8 +14,8 @@ type: "regular"
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm are
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by New York, US / Porto, Portugal-based Program Manager at
 Microsoft - [Natalie Pienkowska](http://twitter.com/NataliePienkow1) |
 @ NataliePienkow1.
@@ -95,7 +95,7 @@ everyone for your contributions to the community!
     2021
     announcements](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/rich-secure-content-and-collaboration-for-hybrid-work-ignite/ba-p/2892338)
     - [Jeff Teper](http://twitter.com/jeffteper) (Microsoft) |
-    \@jeffteper
+    @jeffteper
 -   [Announcing new Microsoft Viva partner
     integrations](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-new-microsoft-viva-partner-integrations/ba-p/2911173) -
     [Geeta
@@ -103,22 +103,22 @@ everyone for your contributions to the community!
 -   [Stay in the flow of work with new collaborative apps for Microsoft
     Teams](https://www.microsoft.com/microsoft-365/blog/2021/11/02/stay-in-the-flow-of-work-with-new-collaborative-apps-for-microsoft-teams/)
     - [Nicole Herskowitz](http://twitter.com/nicolelamb) (Microsoft) |
-    \@nicolelamb
+    @nicolelamb
 -   [Ignite 2021: Building apps for collaboration in a hybrid
     world](https://devblogs.microsoft.com/microsoft365dev/ignite-2021-building-apps-for-collaboration-in-a-hybrid-world/)
     - [Ben Summers](http://twitter.com/bensum365) (Microsoft) |
-    \@bensum365
+    @bensum365
 -   [Microsoft 365 Developer Program launches new instant sandbox with
     Teams sample data
     pack](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-program-launches-new-instant-sandbox-with-teams-sample-data-pack/) -
     [Michael Aldridge](https://www.linkedin.com/in/mikeald/)
 -   [Power Platform News Rewind Microsoft Ignite
     2021](https://www.youtube.com/watch?v=_eI3gSpWtiU) - [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
+    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 -   [New Microsoft 365 hybrid work and collaboration experiences to save
     you time](https://www.youtube.com/watch?v=yo22l1RUiLc) - [Omar
     Shahine](http://twitter.com/OmarShahine) (Microsoft) |
-    \@OmarShahine
+    @OmarShahine
 
  
 
@@ -130,29 +130,29 @@ everyone for your contributions to the community!
 -   [Displaying User Photos in Modern Lists and Libraries -- Modern
     Settings](https://sympmarc.com/2021/11/05/displaying-user-photos-in-modern-lists-and-libraries-modern-settings/) -
     [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis
-    Consulting) | \@sympmarc
+    Consulting) | @sympmarc
 -   [SharePoint Site Scripts and Site Designs in Power
     Automate](https://sharepains.com/2021/11/02/site-scripts-designs-power-automate/)
     - [Pieter Veenstra](https://twitter.com/PieterVeenstra/) (HybrIT
-    Services) | \@PieterVeenstra
+    Services) | @PieterVeenstra
 -   [Working with MSAL and multiple Azure AD accounts in a React
     SPA](https://www.vrdmn.com/2021/11/work-with-multiple-accounts-in-react.html)
     - [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions)
-    | \@vrdmn
+    | @vrdmn
 -   [Configure Postman to be easily used with any Azure AD protected API
     (SharePoint, Graph, custom
     etc.)](https://spblog.net/post/2021/11/02/configure-postman-to-be-easily-used-with-any-azure-ad-protected-api-sharepoint-graph-etc)
-    - [Sergei Sergeev](http://twitter.com/sergeev_srg) | \@sergeev_srg
+    - [Sergei Sergeev](http://twitter.com/sergeev_srg) | @sergeev_srg
 -   [Episode #179 - Consuming Microsoft Graph data in SPFx
     ACEs](https://www.youtube.com/watch?v=6yS4m6rEXyk) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@paolopia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @paolopia
 -   [How to create custom site templates in
     SharePoint](https://www.youtube.com/watch?v=ENCBbgAa-6U) - [Giuliano
     De Luca](http://twitter.com/DeLucaGiulian) |
-    [\@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
 -   [How to use Microsoft Loop components early in Microsoft
     Teams](https://www.youtube.com/watch?v=xQGOovY79VE) - [Darrell
-    Webster](https://twitter.com/DarrellaaS) (WM Reply) | \@DarrellaaS
+    Webster](https://twitter.com/DarrellaaS) (WM Reply) | @DarrellaaS
 
  
 

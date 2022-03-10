@@ -32,7 +32,7 @@ into the weekly [Microsoft 365 Developer
 Podcast](https://m365devpodcast.com) focused exclusively on Microsoft
 365 dev topics -- hosted by Jeremy Thake (Microsoft) and Paul Schaeflein
 (Addin365).   The host of this call was [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
+Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
   Q&A takes place in chat throughout the call.
 
 **Microsoft 365 Platform News Flash**
@@ -120,18 +120,18 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
-    | \@vesajuvonen -- [8:47](https://youtu.be/pK1nbjLP0CI?t=527)
+    | @vesajuvonen -- [8:47](https://youtu.be/pK1nbjLP0CI?t=527)
 
 -   **D1:**  Introduction to new modernized SharePoint Store -- Yi Han
     (Microsoft) -- [12:12](https://youtu.be/pK1nbjLP0CI?t=732)
 
 -   **D2:**  Microsoft Graph JavaScript SDK Updates. -- [Roina
     Ochieng](http://twitter.com/roinochieng) (Microsoft) |
-    \@roinochieng -- [24:43](https://youtu.be/pK1nbjLP0CI?t=1483)
+    @roinochieng -- [24:43](https://youtu.be/pK1nbjLP0CI?t=1483)
 
 -   **D3:**  Latest on SharePoint Site Scripts -- Intro and Roadmap --
     [Cathy Dew](http://twitter.com/catpaint1) (Microsoft) |
-    \@catpaint1 -- [31:40](https://youtu.be/pK1nbjLP0CI?t=1900)
+    @catpaint1 -- [31:40](https://youtu.be/pK1nbjLP0CI?t=1900)
 
 
 ## Resources
@@ -157,7 +157,7 @@ slides.
 
 -   **PnP Weekly -- Episode 134** (September 13th) with Boston-based MVP
     and founder of Sympraxis Consulting - [Marc D
-    Anderson](http://twitter.com/sympmarc) | \@sympmarc
+    Anderson](http://twitter.com/sympmarc) | @sympmarc
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-134-marc-d-anderson-sympraxis/ba-p/2746312) |  [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-134-%e2%80%93-13th-of-september-2021/)
 
 -   [Microsoft 365 Developer
@@ -165,7 +165,7 @@ slides.
     Microsoft 365 dev topics -- hosted by [Jeremy
     Thake](http://twitter.com/jthake) (Microsoft) |
 
-    \@jthake and [Paul
+    @jthake and [Paul
     Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
@@ -194,7 +194,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

@@ -16,7 +16,7 @@ In this session - Microsoft Identity platform for developers, Microsoft
 Authentication Libraries (JS, .NET, Android, iOS, Python, Java, Angular,
 Microsoft Identity Web), and top developer mistakes seen on the
 Microsoft Identity platform.  Microsoft Program Manager presenters -
-Harish Suresh | \@harish_suresh and Sahil Malik | \@sahilmalik.  This
+Harish Suresh | @harish_suresh and Sahil Malik | @sahilmalik.  This
 session was delivered and recorded on March 18, 2021.  Q&A in chat
 throughout call. 
  

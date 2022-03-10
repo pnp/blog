@@ -44,7 +44,7 @@ previous report 2 weeks ago) 
 There was 1 **PnP SPFx extension** and 4 **PnP web part samples**
 delivered in the last 2 weeks as well.  Nice work!    The host of this
 call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-| \@mediocrebowler.  Q&A takes place in chat throughout the call.
+| @mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="PnP-Calls-TogetherMode-LowResolution.gif" src="images/blog/sharepoint-framework-community-call-29th-of-july-2021/PnP-Calls-TogetherMode-LowResolution.gif" >}}
  
 
@@ -114,7 +114,7 @@ wait, now there's 35 wavers!   Data corruption.  
 -   **[Machine
     Translations](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-machine-translations)
     -** [Michał
-    Romiszewski](http://twitter.com/romiszewski) | \@romiszewski
+    Romiszewski](http://twitter.com/romiszewski) | @romiszewski
 
 </div>
 
@@ -122,16 +122,16 @@ wait, now there's 35 wavers!   Data corruption.  
 
 -   **[Datatable](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable)** -
     [Abderahman
-    Moujahid](http://twitter.com/Abderahman88) | \@Abderahman88
+    Moujahid](http://twitter.com/Abderahman88) | @Abderahman88
 -   **[Hero Web
     Part](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-hero-webpart)** -
-    [Omar El-Anis](http://twitter.com/omarelanis) | \@omarelanis
+    [Omar El-Anis](http://twitter.com/omarelanis) | @omarelanis
 -   **[Cross-Device
     Data](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-cross-device-data)** (link
     pending) - [Giuliano De
-    Luca](http://twitter.com/delucagiulian) | [\@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    Luca](http://twitter.com/delucagiulian) | [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
 -   **[Diagrams](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-diagram-webparts)** (link
-    pending) - [Hugo Bernier](http://twitter.com/bernierh) | \@bernierh
+    pending) - [Hugo Bernier](http://twitter.com/bernierh) | @bernierh
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
@@ -139,34 +139,34 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   SharePoint Framework - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-    \@mediocrebowler - [7:16](https://youtu.be/BMXZlYtyKp4?t=436)
+    @mediocrebowler - [7:16](https://youtu.be/BMXZlYtyKp4?t=436)
 -   PnPjs Client-Side Libraries - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-    \@mediocrebowler -- [10:11](https://youtu.be/BMXZlYtyKp4?t=611)
+    @mediocrebowler -- [10:11](https://youtu.be/BMXZlYtyKp4?t=611)
 -   CLI for Microsoft 365 - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-    \@mediocrebowler -- [11:47](https://youtu.be/BMXZlYtyKp4?t=707)
+    @mediocrebowler -- [11:47](https://youtu.be/BMXZlYtyKp4?t=707)
 -   PnP SPFx Controls - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-    \@mediocrebowler -- [13:08](https://youtu.be/BMXZlYtyKp4?t=788)
+    @mediocrebowler -- [13:08](https://youtu.be/BMXZlYtyKp4?t=788)
 -   PnP Modern Search - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-    \@mediocrebowler -- [13:58](https://youtu.be/BMXZlYtyKp4?t=838)
+    @mediocrebowler -- [13:58](https://youtu.be/BMXZlYtyKp4?t=838)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
-    \@bernierh -- [15:00](https://youtu.be/BMXZlYtyKp4?t=900)
+    @bernierh -- [15:00](https://youtu.be/BMXZlYtyKp4?t=900)
 
 ## Demos
 
 -   **Demo:**  Hero Web Part and Tiles V2 Web Part -- [Omar
     El-Anis](http://twitter.com/omarelanis) |
-    \@omarelanis [--][ [18:12](https://youtu.be/BMXZlYtyKp4?t=1092)]
+    @omarelanis [--][ [18:12](https://youtu.be/BMXZlYtyKp4?t=1092)]
 
 -   **Demo:**[  Exposing business data in Viva Connections or in
     SharePoint with custom diagram web parts --
     ][Hugo
     Bernier](http://twitter.com/bernierh)[ (Microsoft) |
-    \@bernierh ][--][ [41:12](https://youtu.be/BMXZlYtyKp4?t=2472)]
+    @bernierh ][--][ [41:12](https://youtu.be/BMXZlYtyKp4?t=2472)]
 
 
 ## Resources
@@ -227,7 +227,7 @@ slides.
     Brochure) - aka.ms/modernworkbuildsessions
 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)

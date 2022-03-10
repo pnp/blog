@@ -87,20 +87,20 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
 
 
 -   Building multilingual Power Apps -  [Haniel
-    Croitoru](http://twitter.com/HCroitoru) (Protiviti) | \@HCroitoru
+    Croitoru](http://twitter.com/HCroitoru) (Protiviti) | @HCroitoru
     -- [3:04](https://youtu.be/rrdpkOS9pnk?t=184)
 -   Using Environment Variables in Canvas Apps - [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) | \@chass --
+    Sterling](http://twitter.com/chass) (Microsoft) | @chass --
     [21:10](https://youtu.be/rrdpkOS9pnk?t=1270)
 -   Using Environment Variables in Flows - [Reza
     Dorrani](http://twitter.com/RezaDorrani) (Catapult) |
     [rdorrani](https://github.com/rdorrani) --
     [28:52](https://youtu.be/rrdpkOS9pnk?t=1732)
 -   Recent Power Apps News and Community Contributions - [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) | \@chass
+    Sterling](http://twitter.com/chass) (Microsoft) | @chass
     -- [46:28](https://youtu.be/rrdpkOS9pnk?t=2788)
 -   Latest PnP Power Platform Samples -- [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
+    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
     -- [49:05](https://youtu.be/rrdpkOS9pnk?t=2945)
 
 **Referenced in this session:**

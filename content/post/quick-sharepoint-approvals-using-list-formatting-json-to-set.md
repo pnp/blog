@@ -24,7 +24,7 @@ the JSON formatting formulas, for example, we could increment/decrement
 a number value by clicking a custom button created with JSON
 formatting. 
 With that in mind, after seeing some samples on Twitter published by
-[\@techan_k](https://twitter.com/techan_k), I thought this could be
+[@techan_k](https://twitter.com/techan_k), I thought this could be
 useful for approvals scenarios. For example, we can update the item
 status and who approved the item with a single click, so as in the
 example below:
@@ -58,7 +58,7 @@ stating that the item was already approved or rejected.
 On each button, we set as the **customRowAction**, an action using the
 new **setField** action, and pass two fields on each using their
 internal names. Note that to set the current user as the value, we
-simply pass the **[\@me](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/31142)**
+simply pass the **[@me](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/31142)**
 formula.
 Approval:
  

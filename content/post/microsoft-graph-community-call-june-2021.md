@@ -18,7 +18,7 @@ information at scale from Microsoft Graph).  Q&A throughout call in
 chat.  Microsoft Graph session recordings from Microsoft Build
 Conference are now available on demand.  The call was hosted by [Brian
 T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) |
-[\@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Microsoft
+[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Microsoft
 Presenters were [Leif Brenne](http://twitter.com/secondleif), Mei Tan
 and [Nik Charlebois](http://twitter.com/NikCharlebois). Guest presenter
 [Elio Struyf](http://twitter.com/eliostruyf) (Squarl).   This session
@@ -95,14 +95,14 @@ From demos:
 **Agenda:**
 
 -   Assignments API  - [Leif Brenne](http://twitter.com/secondleif)
-    (Microsoft) | \@secondleif and Mei Tan (Microsoft) --
+    (Microsoft) | @secondleif and Mei Tan (Microsoft) --
     [1:10](https://youtu.be/JePYam-hyUU?t=70)
 -   Dev Tips and Tricks with Microsoft Graph - [Elio
-    Struyf](http://twitter.com/eliostruyf) (Squarl) | \@eliostruyf --
+    Struyf](http://twitter.com/eliostruyf) (Squarl) | @eliostruyf --
     [22:44](https://youtu.be/JePYam-hyUU?t=1364)
 -   Microsoft Graph Data Connect - [Nik
     Charlebois](http://twitter.com/NikCharlebois) (Microsoft) |
-    \@NikCharlebois -- [33:20](https://youtu.be/JePYam-hyUU?t=2000)
+    @NikCharlebois -- [33:20](https://youtu.be/JePYam-hyUU?t=2000)
 
  
 
@@ -152,7 +152,7 @@ From demos:
 -   See the full blog post for this call at
     - <https://aka.ms/m365pnp/community/blog>
 -   Twitter
-    - [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev) \@Microsoft365Dev​
+    - [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev) @Microsoft365Dev​
 -   YouTube - <https://aka.ms/M365DevYouTube>​
 -   Recurrent Invite to this community call
     - <https://aka.ms/microsoftgraphcall>

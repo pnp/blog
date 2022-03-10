@@ -39,7 +39,7 @@ notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v370).
 ### Upgrade SharePoint Framework projects to v1.12 
 
 Microsoft has just released a new version of SharePoint Framework v1.12.
-The most notable improvements are support for Node\@12, including custom
+The most notable improvements are support for Node@12, including custom
 Teams manifests and support for building Teams meetings apps. For the
 full list of features, see the
 [documentation](https://docs.microsoft.com/sharepoint/dev/spfx/roadmap?WT.mc_id=m365-19903-wmastyka).

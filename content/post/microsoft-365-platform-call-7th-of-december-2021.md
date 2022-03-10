@@ -43,13 +43,13 @@ platform.   
 -   **PnP Weekly -- Episode 146** (December 6th) with Reykjavik,
     Iceland-based Consultant and MVP, [Derek
     Cash-Peterson](http://twitter.com/spdcp) (Sympraxis Consulting) |
-    [\@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/ba-p/3031492) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-146-%E2%80%93-6th-of-december-2021/)
+    [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/ba-p/3031492) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-146-%E2%80%93-6th-of-december-2021/)
 -   Hear about the top 2 Microsoft 365 Platform related stories and view
     2 demos from Microsoft presenters about working with the Microsoft
     365 platform.
 
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
-(Microsoft) | \@vesajuvonen.  Q&A takes place in chat throughout and
+(Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and
 live at end of the call.   
 
 **Microsoft 365 Platform News Flash**
@@ -125,7 +125,7 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [5:50](https://youtu.be/JkgFrbtwdJU?t=350)
+    @vesajuvonen -- [5:50](https://youtu.be/JkgFrbtwdJU?t=350)
 -   **D1:**  Discover the Microsoft Graph Toolkit -- [Sébastien
     Levert](http://twitter.com/sebastienlevert) (Microsoft) |
     [sebastienlevert](https://github.com/sebastienlevert) --
@@ -133,7 +133,7 @@ Topics covered in this call
 -   **D2:** Introduction to the Microsoft 365 developer program and to
     the instant development environment -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [29:11](https://youtu.be/JkgFrbtwdJU?t=1751)
+    @vesajuvonen -- [29:11](https://youtu.be/JkgFrbtwdJU?t=1751)
 -   General Q&A -- Microsoft 365 Platform Team --
     [47:56](https://youtu.be/JkgFrbtwdJU?t=2876)
 
@@ -189,7 +189,7 @@ slides.
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

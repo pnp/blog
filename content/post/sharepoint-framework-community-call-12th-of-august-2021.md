@@ -44,7 +44,7 @@ previous report 2 weeks ago) 
 There were 4** PnP web part samples** delivered in the last 2 weeks as
 well.  Nice work!    The host of this call is [Patrick
 Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
-\@mediocrebowler.  Q&A takes place in chat throughout the call.
+@mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="210812-together-mode.gif" src="images/blog/sharepoint-framework-community-call-12th-of-august-2021/210812-together-mode.gif" >}}
 Ahhhh, the Comfy seats today!     Everyone is alive with sporting
 colorful clothing.   Great to see you.     
@@ -137,9 +137,9 @@ colorful clothing.   Great to see you.     
 -   **[Accordion Dynamic
     Sections](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-accordion-dynamic-section/README.md) -
     [Ari
-    Gunawan](http://twitter.com/AriGunawan3023) | \@AriGunawan3023**
+    Gunawan](http://twitter.com/AriGunawan3023) | @AriGunawan3023**
 -   **Fluent UI Theme Variant - [Fabio
-    Franzini](http://twitter.com/franzinifabio) | \@franzinifabio**
+    Franzini](http://twitter.com/franzinifabio) | @franzinifabio**
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
@@ -147,36 +147,36 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
-    \@vesajuvonen - [6:31](https://youtu.be/jJGkhttndU0?t=391)
+    @vesajuvonen - [6:31](https://youtu.be/jJGkhttndU0?t=391)
 -   PnPjs Client-Side Libraries - [Julie
     Turner](http://twitter.com/jfj1997) (Sympraxis Consulting)
-    \@jfj1997 -- [9:13](https://youtu.be/jJGkhttndU0?t=553)
+    @jfj1997 -- [9:13](https://youtu.be/jJGkhttndU0?t=553)
 -   CLI for Microsoft 365 - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-    \@mediocrebowler -- [10:54](https://youtu.be/jJGkhttndU0?t=654)
+    @mediocrebowler -- [10:54](https://youtu.be/jJGkhttndU0?t=654)
 -   PnP SPFx Controls - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-    \@mediocrebowler -- [11:31](https://youtu.be/jJGkhttndU0?t=691)
+    @mediocrebowler -- [11:31](https://youtu.be/jJGkhttndU0?t=691)
 -   PnP Modern Search - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
-    \@mediocrebowler -- [12:04](https://youtu.be/jJGkhttndU0?t=724)
+    @mediocrebowler -- [12:04](https://youtu.be/jJGkhttndU0?t=724)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
-    \@bernierh -- [12:39](https://youtu.be/jJGkhttndU0?t=759)
+    @bernierh -- [12:39](https://youtu.be/jJGkhttndU0?t=759)
 
 ## Demos
 
 -   **Demo:**  Executive room reservation tool for Microsoft Teams and
     Viva Connections built with SPFx -- [**Julie
     Turner**](http://twitter.com/jfj1997) (Sympraxis Consulting) |
-    \@jfj1997 & [**Derek
+    @jfj1997 & [**Derek
     Cash-Peterson**](https://twitter.com/spdcp)** **(Sympraxis
-    Consulting) | \@spdpc --
+    Consulting) | @spdpc --
     [15:52](https://youtu.be/jJGkhttndU0?t=952)
 
 -   **Demo:**  My Lists Notifications SPFx extensions -- [**Hugo
     Bernier**](http://twitter.com/bernierh)** **(Microsoft) |
-    \@bernierh & [**João Mendes**](http://twitter.com/joaojmendes)
+    @bernierh & [**João Mendes**](http://twitter.com/joaojmendes)
     (Storm Technology) |
     [joaojmendes](https://github.com/joaojmendes) --
     [30:53](https://youtu.be/jJGkhttndU0?t=1853)
@@ -184,7 +184,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **Demo:**  Using OneDrive Apps folder to save user's preferences
     cross-device -- [**Giuliano De
     Luca**](http://twitter.com/DeLucaGiulian) **|**
-    [\@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
 
     [--][ [46:04](https://youtu.be/jJGkhttndU0?t=2764)]
 
@@ -234,7 +234,7 @@ slides.
     Brochure) - aka.ms/modernworkbuildsessions
 
 -   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+    --g [@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)

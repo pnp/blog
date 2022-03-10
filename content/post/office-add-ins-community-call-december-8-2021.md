@@ -39,25 +39,25 @@ Chesnut](http://twitter.com/davidchesnut) (Microsoft) Recorded December
 ## Presenters
 
 -   [David Chesnut](http://twitter.com/davidchesnut), Senior Dev Writer
-    (Microsoft) | \@davidchesnut
+    (Microsoft) | @davidchesnut
 
 -   [Juan Balmori Labra](http://twitter.com/juaneloBalmori)[, Principal
     Program Manager (Microsoft) |
-    \@juaneloBalmori]
+    @juaneloBalmori]
 
 -   [Eric Legault](http://twitter.com/elegault), Principal (Eric Legault
-    Consulting) | \@elegault
+    Consulting) | @elegault
 
 
 ## Agenda 
 
 -   **D1:  Outlook: Ignite recap **-- [Juan
     Balmori](http://twitter.com/juaneloBalmori) (Microsoft) |
-    \@juaneloBalmori -- [1:10](https://youtu.be/Yx2oCeEtbQQ?t=70)
+    @juaneloBalmori -- [1:10](https://youtu.be/Yx2oCeEtbQQ?t=70)
 -   **D2:  Outlook sample: Use event-based activation to encrypt
     attachments** -- [Eric Legault](http://twitter.com/elegault), (Eric
     Legault Consulting) |
-    \@elegault -- [22:41](https://youtu.be/Yx2oCeEtbQQ?t=1361)
+    @elegault -- [22:41](https://youtu.be/Yx2oCeEtbQQ?t=1361)
 -   **Community spotlight:** Michał Królewicz, Maarten van Stam, and
     Eric Legault -- [37:47](https://youtu.be/Yx2oCeEtbQQ?t=2267)
 -   **Q&A** -- [39:02](https://youtu.be/Yx2oCeEtbQQ?t=2342)

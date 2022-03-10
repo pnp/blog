@@ -92,7 +92,7 @@ I covered how to do this also in a previous post, but for the sake of a
 start-to-end scenario, here we go again:
 
 -   Install the Core Tools package with `npm install -g
-    azure-functions-core-tools\@3 \--unsafe-perm true`
+    azure-functions-core-tools@3 \--unsafe-perm true`
 -   Install the Azure Functions extension for VS Code
 -   Select New Project
 -   Select a folder for your project

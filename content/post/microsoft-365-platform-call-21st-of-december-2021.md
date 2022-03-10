@@ -43,7 +43,7 @@ platform.   
     and Resources referenced below 
 
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
-(Microsoft) | \@vesajuvonen.  Discussion takes place throughout this
+(Microsoft) | @vesajuvonen.  Discussion takes place throughout this
 call.   
 
 **Microsoft 365 Platform News Flash**
@@ -163,7 +163,7 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-    \@vesajuvonen -- [10:01](https://youtu.be/o57wqT7i7tY?t=601)
+    @vesajuvonen -- [10:01](https://youtu.be/o57wqT7i7tY?t=601)
 -   Open discussion on any topics around Microsoft 365 --
     [14:12](https://youtu.be/o57wqT7i7tY?t=852)
 
@@ -192,7 +192,7 @@ Topics covered in this call
 -   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
-    Wilén](https://twitter.com/wictor) (Avanade)| \@wictor
+    Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer

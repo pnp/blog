@@ -13,8 +13,8 @@ type: "regular"
 In this instalment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-\@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | \@waldekm discuss
+@vesajuvonen, [Waldek
+Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm discuss
 the announcements from Build 2021 and the latest articles published by
 the Microsoft 365 community.  
 Please remember to keep on providing us feedback on how we can help on
@@ -55,7 +55,7 @@ everyone for your contributions to the community!
 -   [Build the next generation of collaborative apps for hybrid
     work](https://www.microsoft.com/microsoft-365/blog/2021/05/25/build-the-next-generation-of-collaborative-apps-for-hybrid-work/?WT.mc_id=m365-30273-wmastyka) -
     [Nicole Herskowitz](https://twitter.com/nicolelamb) (Microsoft)
-    | \@nicolelamb
+    | @nicolelamb
 -   [Microsoft Build - Book of
     News](https://news.microsoft.com/build-2021-book-of-news/?WT.mc_id=m365-30273-wmastyka) -
     Microsoft
@@ -72,7 +72,7 @@ everyone for your contributions to the community!
     organization browser in
     Outlook](https://techcommunity.microsoft.com/t5/microsoft-365-blog/visualize-and-contextualize-people-and-teams-with-a-new/ba-p/2384435?WT.mc_id=m365-30273-wmastyka) -
     [Bill Baer](https://twitter.com/williambaer) (Microsoft)
-    | \@williambaer
+    | @williambaer
 -   [What's new for admins in Microsoft 365 Apps for enterprise - April
     and May
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-for-admins-in-microsoft-365-apps-for-enterprise-april/ba-p/2382111?WT.mc_id=m365-30273-wmastyka) -
@@ -98,65 +98,65 @@ everyone for your contributions to the community!
 -   [Microsoft 365 PnP Community Spotlight: Hugo
     Bernier](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-hugo-bernier/ba-p/2377738?WT.mc_id=m365-30273-wmastyka) -
     [Hugo Bernier](https://twitter.com/bernierh) (Microsoft)
-    | \@bernierh & [Luise
-    Freese](https://twitter.com/LuiseFreese) | \@LuiseFreese
+    | @bernierh & [Luise
+    Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 -   [How to invite external users to a SharePoint site or Microsoft Team
     using Power Automate & Graph
     API](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/ba-p/2385603?WT.mc_id=m365-30273-wmastyka)
     - [Mohamed Ashiq Faleel](https://twitter.com/ashiqfaleel) (Tata
-    Consultancy Services) | \@ashiqfaleel
+    Consultancy Services) | @ashiqfaleel
 -   [SPFx web part form validation using React
     Formik](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/spfx-webpart-form-validation-using-react-formik/ba-p/2386945?WT.mc_id=m365-30273-wmastyka) -
     [Chandani Prajapati](https://twitter.com/Chandani_SPD)
-    | \@Chandani_SPD
+    | @Chandani_SPD
 -   [Cache data when using the Microsoft Graph JavaScript
     SDK](https://blog.mastykarz.nl/cache-data-microsoft-graph-javascript-sdk/) -
     [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
-    | \@waldekm
+    | @waldekm
 -   [CLI for Microsoft 365
     v3.10](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v3-10/ba-p/2400105?WT.mc_id=m365-30246-wmastyka?WT.mc_id=m365-30273-wmastyka)
     - [Garry Trinder](https://twitter.com/garrytrinder) (CPS)
     | [garrytrinder](https://github.com/garrytrinder)
 -   [New features in hTWOo UI version
     0.2.0](https://n8d.at/new-features-in-htwoo-ui-version-0-2-0) -
-    [Stefan Bauer](https://twitter.com/StfBauer) (N8D) | \@StfBauer
+    [Stefan Bauer](https://twitter.com/StfBauer) (N8D) | @StfBauer
 -   [How to use hTWOo with a SPFx ReactJS web
     part](https://n8d.at/how-to-use-htwoo-with-a-reactjs-web-part) -
-    [Stefan Bauer](https://twitter.com/StfBauer) (N8D) | \@StfBauer
+    [Stefan Bauer](https://twitter.com/StfBauer) (N8D) | @StfBauer
 -   [Custom Icon Buttons in Power Apps with Hover
     Color](https://thechriskent.com/2021/05/27/custom-icon-buttons-in-power-apps-with-hover-color/) -
     [Chris Kent](https://twitter.com/theChrisKent) (DMI)
-    | \@theChrisKent
+    | @theChrisKent
 -   [Environment Variables in Power
     Apps](https://sharepains.com/2021/05/27/environment-variables-in-power-apps/)
     -  [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT
-    Services) | \@PieterVeenstra
+    Services) | @PieterVeenstra
 -   [Showing the Intranet's Link in the App Bar's Global
     Navigation](https://sympmarc.com/2021/05/26/showing-the-intranets-link-in-the-app-bars-global-navigation/) -
     [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis
-    Consulting) | \@sympmarc
+    Consulting) | @sympmarc
 -   [Simplify secret keys management for M365 applications with Azure
     Key Vault and Azure Managed
     Identit\...](https://spblog.net/post/2021/05/25/simplify-secret-keys-management-for-m365-applications-with-azure-key-vault-and-azure-managed-identity) -
     [Sergei Sergeev](https://twitter.com/sergeev_srg) (Mastaq)
-    | \@sergeev_srg
+    | @sergeev_srg
 -   [Microsoft 365 Fiscal Year Retention | Event-Based Library
     default](https://joannecklein.com/2021/05/25/microsoft-365-fiscal-year-retention-event-based-library-default/)
     - [Joanne C Klein](https://twitter.com/JoanneCKlein)
-    | \@JoanneCKlein
+    | @JoanneCKlein
 -   [Power Platform News Rewind May
     2021](https://www.youtube.com/watch?v=hb2jdJLDzE8) -  [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    | \@aprildunnam
+    | @aprildunnam
 -   [Episode #156 - Microsoft Graph Toolkit To Do
     Component](https://www.youtube.com/watch?v=apnNMLnJI7M) - [Paolo
-    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 -   [Power Apps can now display images from Microsoft
     Lists](https://regarding365.com/power-apps-can-now-display-images-from-microsoft-lists-fd412d38e9b6)
     - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc)
-    | \@DanielGlenn, [Darrell
+    | @DanielGlenn, [Darrell
     Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
-    \@darrellaas
+    @darrellaas
 
 ## Additional resources
 

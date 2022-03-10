@@ -240,12 +240,12 @@ The following Azure AD user attributes are synced to the UPA.
 
   ---------------------------- -------------------------------------------- ---------------------------------------------------------------------------------------------------------------------- -------------------
   **Azure AD attribute**       **User profile property display names**      **Notes**                                                                                                              **Sync to sites**
-  UserPrincipalName            Account Name User Name User Principal Name   Example: i:0#.f \<|\> membership \<|\> gherrera\@contoso.com gherrera\@contoso.com                                   Yes
+  UserPrincipalName            Account Name User Name User Principal Name   Example: i:0#.f \<|\> membership \<|\> gherrera@contoso.com gherrera@contoso.com                                   Yes
   DisplayName                  Name                                                                                                                                                                Yes
   GivenName                    FirstName                                                                                                                                                           Yes
   sn                           LastName                                                                                                                                                            Yes
   telephoneNumber              Work phone                                   Example: (123) 456-7890                                                                                                Yes
-  proxyAddresses               Work Email SIP Address                       Work Email is set to the value prefixed with SMTP. (SMTP:gherrera\@contoso.com) Example: gherrera\@contoso.com         Yes
+  proxyAddresses               Work Email SIP Address                       Work Email is set to the value prefixed with SMTP. (SMTP:gherrera@contoso.com) Example: gherrera@contoso.com         Yes
   PhysicalDeliveryOfficeName   Office                                                                                                                                                              Yes
   Title                        Title Job Title                              Job Title contains the same value as Title and is connected to a term set.                                             Yes
   Department                   Department                                   Department is connected to a term set.                                                                                 Yes

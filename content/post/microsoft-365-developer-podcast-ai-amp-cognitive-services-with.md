@@ -36,9 +36,9 @@ guide](https://github.com/microsoftgraph/msgraph-sdk-javascript/blob/dev/changel
 
 -   [Putting some more FUN into Azure Functions, Managed Identity &
     Microsoft Graph
-    (\@LuiseFreese)](https://regarding365.com/putting-some-more-fun-into-azure-functions-managed-identity-microsoft-graph-f9a51319f4e5)
+    (@LuiseFreese)](https://regarding365.com/putting-some-more-fun-into-azure-functions-managed-identity-microsoft-graph-f9a51319f4e5)
 -   [Simulating 429 Throttling in Microsoft Graph API
     (SharePoint/OneDrive workloads)
-    (\@camerondwyer)](https://camerondwyer.com/2021/08/12/simulating-429-throttling-in-microsoft-graph-api-sharepoint-onedrive-workloads/)
+    (@camerondwyer)](https://camerondwyer.com/2021/08/12/simulating-429-throttling-in-microsoft-graph-api-sharepoint-onedrive-workloads/)
 -   [Introducing the Property Pane Portal
-    (\@Path2SharePoint)](https://blog.pathtosharepoint.com/2021/07/29/introducing-the-property-pane-portal/)
+    (@Path2SharePoint)](https://blog.pathtosharepoint.com/2021/07/29/introducing-the-property-pane-portal/)

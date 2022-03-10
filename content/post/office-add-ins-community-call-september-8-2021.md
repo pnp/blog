@@ -29,7 +29,7 @@ with Office.js APIs.) and Community call feedback (live/chat discussion
 on the merits of this monthly community call). This month's Community
 spotlight recognizes MVP Maarten van Stam for his continued
 contributions. Thank you again! Q&A in chat throughout call. The call
-was hosted by David Chesnut (Microsoft) | \@davidchesnut.
+was hosted by David Chesnut (Microsoft) | @davidchesnut.
 
 **Microsoft Presenters:**
 

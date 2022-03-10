@@ -20,7 +20,7 @@ for any other features implemented in the component
 ## Understanding the Logging concept by PnP
 
 The logging module can be used by installing the npm package
-named **\@pnp/logging**. This is a very lightweight subscribable and
+named **@pnp/logging**. This is a very lightweight subscribable and
 extensive logging framework. There are multiple ways to make use of this
 feature in our web part, let us see the concept of using **Listeners**.
 There are 2 listeners provided by **PnP**.
