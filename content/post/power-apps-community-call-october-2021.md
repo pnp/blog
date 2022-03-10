@@ -8,14 +8,9 @@ images:
 - images/blog/power-apps-community-call-october-2021/PowerApps Thumb October 2021.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="PowerApps Thumb October 2021.png" src="images/blog/power-apps-community-call-october-2021/PowerApps Thumb October 2021.png" >}}
-
-
-## Call Summary
+## Call summary
 
 
 Topics covered in this month's community call include a demo -
@@ -54,7 +49,7 @@ on demand. 
     Sterling](http://twitter.com/chass) (Microsoft) | \@chass --
     [58:54](https://youtu.be/L_D-ppjeRoE?t=3534)
 
-**Demos:**
+## Demos
 
 -   **D1:  PokéBubbles Game -** this is Michelle's 4th Pokémon game
     and a Demo Extravaganza 2021 entry.  Hear about Michelle's approach
@@ -102,8 +97,9 @@ on demand. 
     Groups](https://community.powerbi.com/t5/Power-BI-User-Groups/ct-p/pbi_usergroups) 
 
 
+## Actions
 
-**Actions:**
+
 
 
 

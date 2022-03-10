@@ -8,8 +8,6 @@ images:
 - images/blog/get-permission-report-for-sharepoint-online-or-onedrive-file/SP Permission Report - CLI.png
 tags: []
 type: "regular"
-
-
 ---
 
 There were couple of folks who were asking me whether there are some

@@ -9,12 +9,10 @@ images:
 - images/blog/office-add-ins-community-call-august-2021/office-add-ins-august-agenda.png
 tags: []
 type: "regular"
-
-
 ---
 
 
-## Call Summary
+## Call summary
 
 
 This month's community call features presentations - **Dialog API

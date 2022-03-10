@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-community-spotlight-arjun-menon/Arjun.jpg
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="Arjun.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-arjun-menon/Arjun.jpg" >}}
 
 ## Which community project do you maintain? 
 

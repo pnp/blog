@@ -38,7 +38,7 @@ The toggles can be used to let the user participate in different pilots or featu
 
 Leveraging Azure Premium P1, we could use group-based licensing to automatically assign licenses to users based on group membership.  
 
-In the Azure portal, go to Azure Active Directory -> Licenses. Select the preferred licenses, then go to the Licensed groups blade, and click + Assign.
+In the Azure portal, go to Azure Active Directory -> Licenses. Select the preferred licenses, then go to the Licensed groups blade, and select + Assign.
 
 {{< image alt="1641917465.png" src="images/blog/microsoft-365-self-service-using-power-apps/1641917465.png" >}}
 

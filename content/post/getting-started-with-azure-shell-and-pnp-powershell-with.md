@@ -50,7 +50,7 @@ Shell, Azure AD App and Certificates.
 
 First, let's go ahead and activate the Azure Shell; we will use this to
 set up the required resources as well:
-Navigate to <https://shell.azure.com> or click on the icon in the Azure
+Navigate to <https://shell.azure.com> or select  the icon in the Azure
 Portal.
 
 Then run through the first setup of the Azure Shell:
@@ -84,7 +84,7 @@ options and specify:
   
 > Note: the naming of some of these resources is very strict, e.g., 3 -24characters, no spaces, lowercase
 
-- Click `Create Storage`
+- Select `Create Storage`
 
 {{< image alt="Azure Shell - Setup Complete" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/Azure Shell - Setup Complete.png" >}}
 Now the Azure Shell is ready to use.
@@ -216,7 +216,7 @@ Navigate to the KeyVault in the portal
 -   Select the generated certificate `PnP PowerShell Azure Shell
     Access.pfx`
 -   Enter the certificate password
--   Click Create
+-   Select Create
  
 {{< image alt="Azure Key Vault - Upload Certificate" src="images/blog/getting-started-with-azure-shell-and-pnp-powershell-with/KeyVault-Importing Certificate.png" >}}
 This is ready to use in a later section.

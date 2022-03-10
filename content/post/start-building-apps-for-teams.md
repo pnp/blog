@@ -12,8 +12,6 @@ type: "trending"
 
 ---
 
-{{< image alt="teams-hero.png" src="images/blog/start-building-apps-for-teams/teams-hero.png" >}}
-
 Microsoft Teams is a rich collaboration platform used by millions of
 people every day. By building custom apps for Teams you can help them
 work more effectively and connect them with even more knowledge and
@@ -76,6 +74,7 @@ implement a specific scenario, you should check out the [Teams app
 templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-15200-wmastyka).
 There are over 40 sample ready-to-use apps including their source code
 for you to explore!
+
 ### [Tutorials for the Microsoft Teams developer platform](https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-dotnet-app-studio?WT.mc_id=m365-15200-wmastyka) 
 
 A part of the docs are tutorials for the Teams developer platform. If

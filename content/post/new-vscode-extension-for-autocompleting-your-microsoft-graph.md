@@ -9,8 +9,6 @@ images:
 - images/blog/new-vscode-extension-for-autocompleting-your-microsoft-graph/how-it-works.gif
 tags: []
 type: "regular"
-
-
 ---
 
 While working on a project which uses Microsoft Graph APIs, I found

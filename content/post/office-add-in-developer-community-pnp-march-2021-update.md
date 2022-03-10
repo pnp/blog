@@ -9,8 +9,6 @@ images:
 - images/blog/office-add-in-developer-community-pnp-march-2021-update/pnp-set-signature.png
 tags: []
 type: "regular"
-
-
 ---
 
 The Office Add-ins developer platform team has new updates to share this

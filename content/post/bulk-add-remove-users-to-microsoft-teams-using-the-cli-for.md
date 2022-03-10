@@ -6,8 +6,6 @@ githubname: plamber
 categories: ["CLI For Microsoft 365"]
 tags: []
 type: "regular"
-
-
 ---
 
 

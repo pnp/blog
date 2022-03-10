@@ -7,8 +7,6 @@ categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 Ayca and Bob return to the show to talk about a new video series that
 discusses the Who's Online bot created using Bot Framework Composer and

@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-convert-html-content-or-file-to-pdf-using-the-muhimbi-api/ChandaniPrajapati_0-1639758794000.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction 
@@ -25,12 +23,12 @@ as well. So in this article, we will see step-by-step implementations.
 
 **1. Register to Muhimbi API**
 To get the trial version API key, Register to
-[this](https://www.muhimbi.com/register?returnUrl=%2Flogin%20). After
+[www.muhimbi.com](https://www.muhimbi.com/register?returnUrl=%2Flogin%20). After
 registration, you have to activate a subscription and then you will get
 an API key, Access token, and Subscription ID on the registered email
 ID. 
 To check API response, you can refer to
-[this](https://api.muhimbi.com/api-docs/v1/index.html?url=/api-docs/v1/swagger.json#/Convert).
+[https://api.muhimbi.com/api-docs/v1/index.html?url=/api-docs/v1/swagger.json#/Convert](https://api.muhimbi.com/api-docs/v1/index.html?url=/api-docs/v1/swagger.json#/Convert).
 After this, we will use the API key in the SPFx web part while calling
 an API.
 
@@ -181,12 +179,13 @@ export class ConvertFileService {
  
 
 Now move to the **{WebpartName}WebPart.ts** file.
-1\. Initialize service in onInit()
 
-2\. Create an API key and API URL properties in property pane
+1.  Initialize service in onInit()
+
+2.  Create an API key and API URL properties in property pane
 configuration.
 
-3\. Set properties value in render() so we can use it in the component.
+3.  Set properties value in render() so we can use it in the component.
  
 
 ```javascript
@@ -366,8 +365,7 @@ export default class MuhimbiExportHtmlContentToPdf extends React.Component<IMuhi
 {{< image alt="Muhimbi - Export to pdf.gif" src="images/blog/how-to-convert-html-content-or-file-to-pdf-using-the-muhimbi-api/Muhimbi - Export to pdf.gif" >}}
  
 
-Please find a source code
-[here](https://github.com/chandaniprajapati/muhimbi-export-html-content-to-pdf).
+Please find my  [source code](https://github.com/chandaniprajapati/muhimbi-export-html-content-to-pdf).
 
 
 

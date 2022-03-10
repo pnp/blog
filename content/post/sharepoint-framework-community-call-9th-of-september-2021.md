@@ -8,11 +8,7 @@ images:
 - images/blog/sharepoint-framework-community-call-9th-of-september-2021/spfx-call-9th-sep-recording.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="spfx-call-9th-sep-recording.png" src="images/blog/sharepoint-framework-community-call-9th-of-september-2021/spfx-call-9th-sep-recording.png" >}}
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
 call recording from September 9th is now available from the Microsoft
@@ -20,8 +16,7 @@ call recording from September 9th is now available from the Microsoft
 use SharePoint Framework for building solutions for **Microsoft
 Teams** and for **SharePoint** Online.
 
-
-## Call Summary
+## Call summary
 
 
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
@@ -54,7 +49,9 @@ throughout the call.
 Thank you everybody for being part of this call, the community, a tweet,
 a blog post, and the solution to your customer's needs.  
 
-**Actions:**
+## Actions
+
+
 
 
 
@@ -94,7 +91,7 @@ a blog post, and the solution to your customer's needs.  
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Hyperscript Tagged Markup (HTM) Templating --** approaches to web
     part UI development -- use a UI framework or use a templating
@@ -139,8 +136,8 @@ a blog post, and the solution to your customer's needs.  
     (Link to My OneDrive sample is correct)
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-
-**Agenda items:**
+  
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -161,7 +158,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [11:25](https://youtu.be/EIEFIL99WLc?t=685)
 
-**Demos:**
+## Demos
 
 -   **Demo:**  Hyperscript Tagged Markup (HTM) Templating -- [Fabio
     Franzini](http://twitter.com/franzinifabio) | \@franzinifabio --
@@ -175,7 +172,9 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     SharePoint Framework -- [Yannick
     Reekmans](http://twitter.com/YannickReekmans) (Qubix) |
     \@YannickReekmans -- [41:26](https://youtu.be/EIEFIL99WLc?t=2486)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -313,7 +312,8 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

@@ -8,8 +8,6 @@ images:
 - images/blog/adaptive-cards-community-call-november-2021/adaptive-cards-November THumb.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="adaptive-cards-November THumb.png" src="images/blog/adaptive-cards-community-call-november-2021/adaptive-cards-November THumb.png" >}}
 
@@ -67,6 +65,7 @@ scenes.  Step through 6 different Quick View card layouts. 
 -   Blog - [Viva Connections mobile and new partner integrations are now
     generally
     available](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-mobile-and-new-partner-integrations-are-now/ba-p/2932217) 
+
 
 ## Resources in General
 

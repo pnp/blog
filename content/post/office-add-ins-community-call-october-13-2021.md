@@ -9,14 +9,13 @@ images:
 - images/blog/office-add-ins-community-call-october-13-2021/OctAdd-insRecordingThumb.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## {{< image alt="OctAdd-insRecordingThumb.png" src="images/blog/office-add-ins-community-call-october-13-2021/OctAdd-insRecordingThumb.png" >}}
 
 
-## Call Summary
+## Call summary
+
  
 
 This month's community call features presentations - **Word API
@@ -170,6 +169,7 @@ mobile.) These features only apply to desktop platforms because web is
 AutoSave by default. But we'd like to understand more about your
 scenario. Please submit a feature request for this at
 <https://aka.ms/m365dev-suggestions>.
+
 
 ## Resources 
 

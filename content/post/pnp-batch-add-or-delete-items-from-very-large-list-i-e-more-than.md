@@ -7,8 +7,6 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
 
 I was tasked to delete more than 300k items loaded as part of testing

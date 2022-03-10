@@ -7,15 +7,10 @@ images:
 - images/blog/microsoft-teams-community-call-march-2021/TitleSlide.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="TitleSlide.png" src="images/blog/microsoft-teams-community-call-march-2021/TitleSlide.png" >}}
 
-
-
-## Call Summary
+## Call summary
 
 
 This month's community call featured latest look at the **Teams Sample
@@ -37,7 +32,7 @@ or viewing on demand. 
 
 
 
-**Demos:**
+## Demos
 
 **Business to Citizen Consumer Communication Bot** -- sample allows
 citizen end-users with no Teams license to engage a business licensed
@@ -69,7 +64,8 @@ development.  API documentation with code snippets is current.   
 
  
 
-**Resources:**
+
+## Resources
 
 -   Repository - [Microsoft Teams Samples
     Repository](https://aka.ms/teamssamples) 
@@ -101,7 +97,9 @@ development.  API documentation with code snippets is current.   
     SDK](https://docs.microsoft.com/javascript/api/overview/msteams-client?view=msteams-client-js-latest) 
 
 
-**Actions:**
+## Actions
+
+
 
 
 

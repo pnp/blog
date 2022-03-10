@@ -7,8 +7,6 @@ categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Paul talks with Cam Dwyer about creating add-ins for Office, including

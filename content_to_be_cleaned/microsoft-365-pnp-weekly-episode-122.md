@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-122/Thumb-Ep122.png
 tags: []
 type: "regular"
-
-
 ---
 
 

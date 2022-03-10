@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-recording-22nd-of-april-2021/210422-spfx.gif
 tags: []
 type: "regular"
-
-
 ---
 
 
@@ -19,8 +17,7 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-
-## Call Summary
+## Call summary
 
 
 Preview the new [Microsoft 365 Extensibility look book
@@ -52,7 +49,9 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 Jungle seating in a Pacific Northwest, Washington, US amphitheater! 
 Truly unique like this Community!
 
-**Actions:**
+## Actions
+
+
 
 
 
@@ -83,7 +82,7 @@ Truly unique like this Community!
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 1.  **Running the CLI for Microsoft 365 in Azure Container Instances
     orchestrated by Logic Apps** -- or Flow in Power Automate.  Step
@@ -142,8 +141,8 @@ Truly unique like this Community!
     Updater](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-teams-membership-updater) -
     [Nick Brown](http://twitter.com/techienickb) | \@techienickb
 Thank you for your great work.  Samples are often showcased in Demos. 
-
-**Agenda items:**
+  
+## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -164,7 +163,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [13:57](https://youtu.be/08UBXLU-g04?t=837)
 
-**Demos:**
+## Demos
 
 -   Running the CLI for Microsoft 365 in Azure Container Instances
     orchestrated by Logic Apps -- [Albert-Jan
@@ -181,7 +180,9 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
     [
     --][ [45:33](https://youtu.be/08UBXLU-g04?t=2733)]
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -279,7 +280,8 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-community-november-2021-update/pnp-nov-update.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="pnp-nov-update.png" src="images/blog/microsoft-365-pnp-community-november-2021-update/pnp-nov-update.png" >}}
 Microsoft 365 Patterns and Practices (PnP) Community November 2021
 update is out with a summary of the latest guidance, samples, and
 solutions from Microsoft or from the community for the community. This
@@ -991,7 +987,7 @@ involved!
     fluent and easily usable interface for querying data from SharePoint
     sites. It's a replacement of already deprecated pnp-js-core
     library. See
-    [changelog](https://github.com/pnp/pnpjs/blob/dev/CHANGELOG.md) for
+    [changelog](https://github.com/pnp/pnpjs/blob/main/CHANGELOG.md) for
     the latest updates.
 -   **PnP Provisioning Engine and PnP CSOM Core** - PnP provisioning
     engine is part of the PnP CSOM extension. They encapsulate complex
@@ -1048,7 +1044,8 @@ the related documentation sets and repositories as listed below:
 -   Office add-in documentation - [Microsoft
     Docs](https://docs.microsoft.com/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
-### ? Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
+
+### Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
 
 You can find all Microsoft 365 related videos on our YouTube Channel at
 [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos) or at
@@ -1789,6 +1786,7 @@ know and share the logo with us. Thx.
 
 Here's the list of Microsoft people who have been
 closely involved with the PnP work during last month.
+
 -   [Aakash Bhardwaj](https://twitter.com/aakash_316) (Microsoft) |
     \@aakash_316
 -   [Alex
@@ -1884,6 +1882,7 @@ closely involved with the PnP work during last month.
 -   [Waldek Mastykarz](https://twitter.com/waldekm) | \@waldekm
 -   [Wictor Wilen](https://twitter.com/wictor) | \@wictor
 -   [Vincent Biret](https://twitter.com/baywet) (Microsoft) | \@baywet 
+
 ## MVP Community team 
 
 MVP Community team (PnP Team) manages the PnP community work in the
@@ -1977,10 +1976,13 @@ Here are the Microsoft Internal PnP Core team members:
 
 See all of the available community calls, tools, components and other
 assets from <https://aka.ms/m365pnp>. Get involved!
+
 Got ideas or feedback on the topics to cover, additional partnerships,
 product feature capabilities? - let us know. Your input is important for
 us, so that we can support your journey in Microsoft 365.
-*"Sharing is caring" ?*
+
+*"Sharing is caring"*
+
 ------------------------------------------------------------------------
 
 Microsoft 365 Community (PnP) -- November 26th 2021

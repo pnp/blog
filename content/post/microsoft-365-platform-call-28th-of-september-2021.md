@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-28th-of-september-2021/recording-28th-sep.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-28th-sep.png" src="images/blog/microsoft-365-platform-call-28th-of-september-2021/recording-28th-sep.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from September 28th, is now available from the Microsoft 365 Community
@@ -21,7 +17,7 @@ at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
 
 
 
-**Call Summary**
+## Call summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   New to Microsoft 365 Platform development?  You are
@@ -49,8 +45,8 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 -   [Viva Connections public preview is now
     available!](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-public-preview-is-now-available/ba-p/2768541)
 
+## Actions
 
-**Actions:**
 
 
 
@@ -133,7 +129,9 @@ Thank you for your work. Samples are often showcased in Demos.
     with Microsoft Search -- Jyoti Pal (Microsoft) --
     [29:25](https://youtu.be/MqGuY5V_0sQ?t=1765)
 
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -229,7 +227,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

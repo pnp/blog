@@ -8,8 +8,6 @@ images:
 - images/blog/copy-a-list-with-list-items-to-another-site/sad-mario.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## The Problem 

@@ -42,7 +42,7 @@ the number of the day from a website called MathTOOLs. I will post this
 number in a Microsoft Teams channel afterwards.
 
 First of all, navigate to your [Power Automate
-dashboard](http://www.flow.microsoft.com). Select "Data" and then
+dashboard](https://powerautomate.microsoft.com/). Select "Data" and then
 "Custom connectors"
 
 
@@ -89,7 +89,7 @@ obviously), just make sure that the file is `.png` or `.jpg` and smaller
 than 1MB.
 
 You don't need to fill out the rest. We will look into that at a
-another blog of this series. For now we're good and we can click on
+another blog of this series. For now we're good and we can select 
 \"Security\" either in the lower right corner or in the navigation at
 the top of the page.
 

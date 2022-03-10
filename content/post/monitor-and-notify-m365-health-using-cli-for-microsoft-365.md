@@ -8,8 +8,6 @@ images:
 - images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_0-1637745741073.jpeg
 tags: []
 type: "regular"
-
-
 ---
 
 Are you an IT Pro who wants to have a solution that checks the status of

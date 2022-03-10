@@ -8,10 +8,8 @@ images:
 - images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png
 tags: []
 type: "regular"
-
-
 ---
-{{< image alt="oct-monthly-summary-promo.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png" >}}
+
 Microsoft 365 Patterns and Practices (PnP) Community October 2021 update
 is out with a summary of the latest guidance, samples, and solutions
 from Microsoft or from the community for the community. This article is
@@ -818,11 +816,11 @@ and community samples.
 ### Power Platform samples 
 
 
-\
 These are samples which have been contributed on the community samples
 since last summary. We do welcome all Power Platform samples to this
 gallery for providing a centralized location to share samples across the
 others in the community.
+
 -   New
     sample [request-review-and-approval-for-a-selected-file](https://github.com/pnp/powerautomate-samples/tree/main/samples/request-review-and-approval-for-a-selected-file)
     by [Lindsay Shelton](https://github.com/lsheltonSTO) as a flow which
@@ -853,7 +851,8 @@ others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. Here to
 help.
 
-### Microsoft 365 Script Samples 
+### Microsoft 365 Script Samples
+
 {{< image alt="script-gallery.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/script-gallery.png" >}}
 
 \
@@ -862,6 +861,8 @@ month. We welcome all scripts on Microsoft 365 automation to this
 centralized repository, targeted to help to manage and automate
 day-to-day operations.
 Here are the latest updates on the Script Samples
+
+
 -   New script
     [spo-setup-example-site](https://github.com/pnp/script-samples/tree/main/scripts/spo-setup-example-site)
     by [Adam Wójcik](https://github.com/Adam-it) and [Valeras
@@ -1023,7 +1024,7 @@ involved!
     fluent and easily usable interface for querying data from SharePoint
     sites. It's a replacement of already deprecated pnp-js-core
     library. See
-    [changelog](https://github.com/pnp/pnpjs/blob/dev/CHANGELOG.md) for
+    [changelog](https://github.com/pnp/pnpjs/blob/main/CHANGELOG.md) for
     the latest updates.
 -   **PnP Provisioning Engine and PnP CSOM Core** - PnP provisioning
     engine is part of the PnP CSOM extension. They encapsulate complex
@@ -1080,6 +1081,7 @@ the related documentation sets and repositories as listed below:
 -   Office add-in documentation - [Microsoft
     Docs](https://docs.microsoft.com/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
+
 ### 🤩 Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
 
 You can find all Microsoft 365 related videos on our YouTube Channel at
@@ -1325,6 +1327,7 @@ Community demos as following: 
 -   [Getting started with Microsoft Lists - Templates, formatting and
     more](https://www.youtube.com/watch?v=OmoxVkQmiYo) - [Chris
     Kent](https://twitter.com/theChrisKent) (DMI) | \@theChrisKent\
+
 ## 🧡 Key contributors to the October 2021 update 
 
 Here's the list of active contributors (in alphabetical order) since
@@ -1336,6 +1339,7 @@ Microsoft.
 **🤩 Thank you for your assistance and contributions on behalf of the
 community. You are truly making a difference!** If we missed someone,
 please let us know.
+
 -   Aaron Blair
 
 -   Abderahman Moujahid
@@ -2068,6 +2072,7 @@ closely involved with the PnP work during last month.
 -   Waldek Mastykarz - [\@waldekm](https://twitter.com/waldekm)
 -   Wictor Wilen - [\@wictor](https://twitter.com/wictor)
 -   Vincent Biret - [\@baywet](https://twitter.com/baywet)
+
 ## MVP Community team 
 
 MVP Community team (PnP Team) manages the PnP community work in the
@@ -2077,7 +2082,6 @@ driving adoption of Microsoft 365  topics. They have shown their
 commitment to the open-source and community-driven work by constantly
 contributing to the benefit of the others in the community.
 Thank you for all that you do!
- 🤩
 -   Albert-Jan Schot (BLIS Digital) -
     [\@appieschot](https://twitter.com/appieschot)
 -   Andrew Connell
@@ -2130,8 +2134,7 @@ Here are the Microsoft Internal PnP Core team members:
 -   Garry Trinder - [\@garrytrinder](https://twitter.com/garrytrinder)
 -   Hugo Bernier - [\@bernierh](https://twitter.com/bernierh)
 -   Koen Zomers - [\@koenzomers](https://twitter.com/koenzomers)
--   Mikael Svenson
-    -- [\@mikaelsvenson](https://twitter.com/mikaelsvenson
+-   Mikael Svenson -[\@mikaelsvenson](https://twitter.com/mikaelsvenson)
 -   Patrick
     Rodgers -- [\@mediocrebowler](https://twitter.com/mediocrebowler)
 -   Rabia Williams -
@@ -2150,7 +2153,11 @@ assets from <https://aka.ms/m365pnp>. Get involved!
 Got ideas or feedback on the topics to cover, additional partnerships,
 product feature capabilities? - let us know. Your input is important for
 us, so that we can support your journey in Microsoft 365.
+
+
+
 *"Sharing is caring" 🧡*
+
 ------------------------------------------------------------------------
 
 Microsoft 365 Community (PnP) -- October 22nd 2021

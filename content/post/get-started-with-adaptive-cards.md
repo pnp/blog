@@ -8,8 +8,6 @@ images:
 - images/blog/get-started-with-adaptive-cards/TomaszPoszytek_0-1610369598416.png
 tags: []
 type: "regular"
-
-
 ---
 
 Hello dear digital technology enthusiast. I heard you would like to find out what Adaptive Cards are? In this article I will help you to understand what[Adaptive Cards technology is, how it works and how you can use it. Follow me through the next chapters and I will try to explain it as clear.
@@ -31,6 +29,7 @@ You can find them in your Outlook when you receive a message containing an inter
 {{< image alt="" src="images/blog/get-started-with-adaptive-cards/TomaszPoszytek_2-1610369705011.png" >}}
 
 And what is the most obvious -- they are also present are very commonly used in Microsoft Teams -- this is the platform on which I will focus in this article.  Apart from the places I mentioned, Adaptive Cards are also present in multiple services from Microsoft, like Microsoft Search, Microsoft GraphAPI explorer, Azure Bot Framework and many more. This technology however is not limited and exclusively used only by Microsoft. Cisco is using it to display cards in their Webex Teams and Adaptive Cards' SDK (Software Development Kit -- set of tools used to build and run software) is open-source and hosted on GitHub, therefore anyone can use it in their development own projects, for example when building apps for Android or custom web sites with JavaScript or .NET. 
+
 ## How do Adaptive Cards work?
 
 Adaptive Card is a technology that uses JSON (JavaScript Object Notation -- structured method to describe information, learn more from [Bob German](https://twitter.com/Bob1German) here: <https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369>) to declare how the final card should look like. The defined code is then parsed by the host that has Adaptive Cards SDK installed. Using SDK and JSON schema (schema defines what information can be used by authors in their cards) for the specific version translates code into valid HTML that is being displayed to users. 

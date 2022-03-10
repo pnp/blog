@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-17th-of-june-2021/210617-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 
@@ -19,8 +17,8 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
+## Call summary
 
-## Call Summary
 
 Summer break and community call schedule updates reviewed.  Register now
 for June trainings on
@@ -54,8 +52,9 @@ The waving wall!  Impressive.  Great to see you.  Truly looking forward
 to seeing you in Las Vegas, Düsseldorf or another conference venue in
 the future!
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -90,7 +89,7 @@ the future!
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **spfx-fast-serve: faster SharePoint Framework development** -- a
     spfx command line utility, that accelerates SPFx development by
@@ -147,8 +146,8 @@ the future!
     Luca](http://twitter.com/delucagiulian) | [\@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-
-**Agenda items:**
+  
+## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -172,7 +171,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [52:48](https://youtu.be/NyZP1oso8Mg?t=3168) 
 
-**Demos:**
+## Demos
 
 -   **Demo:**  spfx-fast-serve: faster SharePoint Framework development
     -- [Sergei Sergeev](http://twitter.com/sergeev_srg) (Mastaq) |
@@ -182,7 +181,9 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
     \@jfj1997 & [Derek Cash-Peterson](http://twitter.com/spdcp) |
     \@spdcp - [31:22](https://youtu.be/NyZP1oso8Mg?t=1882)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -277,7 +278,8 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

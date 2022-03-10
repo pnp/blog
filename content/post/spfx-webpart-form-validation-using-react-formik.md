@@ -7,8 +7,6 @@ images:
 - images/blog/spfx-webpart-form-validation-using-react-formik/Output.png
 tags: []
 type: "regular"
-
-
 ---
 
 
@@ -92,11 +90,9 @@ implementation.
 *SPService.ts* file inside **src/webparts/shared/service**
 In the end, our structure will be looks like this,
 {{< image alt="Project Structure.png" src="images/blog/spfx-webpart-form-validation-using-react-formik/Project Structure.png" >}}
-
-
-2\. Create a state interface as below inside **IReactFormikState.ts.**
+2.  Create a state interface as below inside **IReactFormikState.ts.**
  
- 
+
 
 ```javascript
 export interface IReactFormikState {
@@ -104,13 +100,9 @@ export interface IReactFormikState {
   startDate?: any;
   endDate?: any;
 }
-```
- 
- 
+``` 
 
-3\. Create a method to create a task inside **SPService.ts.**
- 
- 
+3.  Create a method to create a task inside **SPService.ts.**
 
 ```javascript
 import "@pnp/sp/webs";
@@ -142,12 +134,10 @@ export class SPService {
     }
 }
 ```
- 
- 
 
-4\. Move to the **ReactFormikWebPart.ts**. In this, we will pass the
+Move to the **ReactFormikWebPart.ts**. In this, we will pass the
 current SP context and read site URL from user.
- 
+
  
 
 ```javascript
@@ -231,11 +221,13 @@ export default class ReactFormikWebPart extends BaseClientSideWebPart<IReactForm
  
  
 
-5\. Move to the **ReactFormik.tsx** file to render form and validations
+1.  Move to the **ReactFormik.tsx** file to render form and validations
 **yup syntaxs:**
+
 -  For string: yup.string().required('Required')
 
 -  For date: yup.date().required('Required').nullable()
+
 **Related to Formik**
 Fromik has its own handleReset and handleSubmit method so we don not
 have to manage manually
@@ -435,10 +427,8 @@ export default class ReactFormik extends React.Component<IReactFormikProps, IRea
   }
 }
 ```
- 
- 
 
-6\. Move to the **ReactFormik.module.scss** file to add some relaetd
+Move to the **ReactFormik.module.scss** file to add some relaetd
 CSS.
  
  
@@ -472,13 +462,16 @@ Now serve the application using the below command,
     gulp serve
 Now test the webpart in SharePoint-SiteURL +
 /\_layouts/15/workbench.aspx.
+
 ## Output 
+
 {{< image alt="SPFx-react-formik.gif" src="images/blog/spfx-webpart-form-validation-using-react-formik/SPFx-react-formik.gif" >}}
  
 
-Find the full source code
-[here](https://github.com/chandaniprajapati/spfx-react-formik).
-## Summary   
+Find here the [full source code
+](https://github.com/chandaniprajapati/spfx-react-formik).
+
+## Summary
 
 In this article, we have seen how to implement react formik library in
 SPFx.

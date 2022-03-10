@@ -8,12 +8,9 @@ images:
 - images/blog/office-add-ins-community-call-march-10-2021/M365ScuccessJourney.png
 tags: []
 type: "regular"
-
-
 ---
 
-
-## Call Summary
+## Call summary
 
 
 This month's community call features presentations on Excel JS API

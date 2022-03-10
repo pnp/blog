@@ -8,12 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-12th-of-october-2021/recording-12th-oct.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="recording-12th-oct.png" src="images/blog/microsoft-365-platform-call-12th-of-october-2021/recording-12th-oct.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from October 12th, is now available from the Microsoft 365 Community
@@ -160,7 +155,9 @@ Thank you for your work. Samples are often showcased in Demos.
     [30:55](https://youtu.be/UONwL2HmpPc?t=1855)
 -   General Q&A - Microsoft 365 Platform Team --
     [43:56](https://youtu.be/UONwL2HmpPc?t=2636)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -246,7 +243,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

@@ -8,11 +8,7 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="mgt-code-tour-banner.png" src="images/blog/learn-microsoft-graph-toolkit-interactively-with-a-code-tour/mgt-code-tour-banner.png" >}}
 
 Learn interactively how to turn your React app into a Microsoft 365 app
 with Microsoft Graph Toolkit

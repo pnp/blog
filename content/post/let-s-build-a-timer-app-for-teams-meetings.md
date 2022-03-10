@@ -8,11 +8,7 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="Header_TimerApp.png" src="images/blog/let-s-build-a-timer-app-for-teams-meetings/Header_TimerApp.png" >}}
 
 
 ## Introduction
@@ -173,7 +169,7 @@ the following function:
 5 min button:    `UpdateContext({Dauer:300000})`
 
 The timer control works with milliseconds, so you have to type your
-desired duration in milliseconds. When you click one of the buttons, you
+desired duration in milliseconds. When you select e of the buttons, you
 change the variable "Dauer" to the specific value and since the timer
 value show whatever the variable Dauer is set to, you can choose the
 duration.
@@ -314,7 +310,7 @@ I added a picture of a timer I've made myself. You can download and use
 it with the whole sample from the [PnP Power Apps samples github
 repository](https://github.com/pnp/powerapps-samples/tree/main/samples/timer).
 
-You click on Insert \> Media \> picture to use that picture in your app.
+You select  Insert \> Media \> picture to use that picture in your app.
 Now place it in the middle of the screen (Power Apps helps you with
 snapping it to the middle if you drag it near the middle).
 

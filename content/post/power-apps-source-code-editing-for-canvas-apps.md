@@ -8,8 +8,6 @@ images:
 - images/blog/power-apps-source-code-editing-for-canvas-apps/PowerApps_Page_Unresponsive.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Why? 

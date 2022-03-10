@@ -8,11 +8,7 @@ images:
 - images/blog/cli-for-microsoft-365-v3-9/banner-cli-m365.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="" src="images/blog/cli-for-microsoft-365-v3-9/banner-cli-m365.png" >}}
 
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform 
 

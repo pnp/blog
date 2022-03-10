@@ -8,8 +8,6 @@ images:
 - images/blog/init-api-permissions-for-your-spfx-projects-without-deploying/peoplepicker-ui-fail.png
 tags: []
 type: "regular"
-
-
 ---
 
 When developing your SPFx components, you usually first run them locally
@@ -106,11 +104,11 @@ API endpoints that have not been allowed on the first place.
 
 From the Azure portal, display the *Azure Active Directory* (AAD), then
 select the **App Registration** menu and select **All Applications**,
-then click on **SharePoint Online Client Extensibility Web Application
+then select  **SharePoint Online Client Extensibility Web Application
 Principal**. It's the AAD Application that holds the connection to the
 API (Microsoft and others) from SharePoint (SPFx or every other
 development) using the *Implicit Flow*.
-Once here, click on **Add a permission**, then select **Microsoft
+Once here, select  **Add a permission**, then select **Microsoft
 Graph** and add the \[*People.Read*\] Graph API [delegated
 permission]{.underline} (you can type the name of the permission in the
 available search box to get it easily).
@@ -163,8 +161,8 @@ Service Principal.
 ### Add your AAD Application to the SharePoint Service Principal 
 
 Display again the AAD page, then select the **App Registration** menu,
-select **All Applications** and click on **SharePoint Online Client
-Extensibility Web Application Principal**. Once here, click on **Add a
+select **All Applications** and select  **SharePoint Online Client
+Extensibility Web Application Principal**. Once here, select  **Add a
 permission**, then select the **My APIs** tab and select the fresh added
 AAD App created before. Select the **user_impersonation** permission,
 then confirm.

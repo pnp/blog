@@ -6,18 +6,15 @@ githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call Recordings"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-19th-of-august/recording-august-19th.png
-
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="recording-august-19th.png" src="images/blog/microsoft-365-developer-community-call-recording-19th-of-august/recording-august-19th.png" >}}
  
 
 
-## Call Summary
+## Call summary
+
 
 
 Summer break and community call schedule updates reviewed.  Microsoft
@@ -160,7 +157,7 @@ to meet face-to-face, that would be awesome.
     focusing on how to use Web Technologies to create a tab (Blazor app)
     inside of Teams using Visual Studio.  Open new project (Microsoft
     Teams App) in Visual Studio.   Install/open the Teams Toolkit
-    (Preview) for Visual Studio.  Configure for SSO.   Click F5. 
+    (Preview) for Visual Studio.  Configure for SSO.   Select F5. 
     Presto, a default page/tab is created with sample code and
     implements GraphClient.   Register the AAD app and modify it as you
     please.      
@@ -207,7 +204,9 @@ Thank you for your work. Samples are often showcased in Demos.
     -- [Thomas Gölles](http://twitter.com/thomyg) (Solvion) | \@thomyg
     -][ [44:13](https://youtu.be/_8BBaIJK2RM?t=2653)]
 
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -234,7 +233,7 @@ slides.
 -   Documentation - [Prerequisites: Get started with Microsoft Teams app
     development](https://docs.microsoft.com/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
 -   Issues List -
-    [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) 
+    [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues) 
 -   Tool -- [Graph Explorer](https://aka.ms/ge) 
 -   Repo -- [Demo code](https://github.com/thomyg/PnPDemo190821Backup) 
 -   Sample Project -
@@ -296,7 +295,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

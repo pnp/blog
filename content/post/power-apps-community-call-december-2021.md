@@ -8,19 +8,9 @@ images:
 - images/blog/power-apps-community-call-december-2021/PowerApps Thumb DEcember 2021.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="PowerApps Thumb December 2021.png" src="images/blog/power-apps-community-call-december-2021/PowerApps Thumb DEcember 2021.png" >}}
-
-## Call Summary
-
-
-Topics covered in this month's community call includes 2 demos:
- 
 - **Building Xbox games with Power Apps** -- (create an Xbox controller
-ready app) - [Brian Dang](http://twitter.com/mrdang) (Microsoft) and
 
 - **Office like commenting & co-authoring** (add commenting capability and
 Experimental co-authoring with git integration, to a canvas app**)** -
@@ -55,7 +45,7 @@ demand. 
     Dunnam](http://twitter.com/aprildunnam) (Microsoft) | \@aprildunnam
     -- [54:55](https://youtu.be/KUCW242CV18?t=3295)
 
-**Demos:**
+## Demos
 
 -   Demo 1:  **Building Xbox games with Power Apps --** presenter steps
     through several apps and explains which Xbox sticks and buttons are
@@ -87,7 +77,9 @@ demand. 
 
 
 
-**Actions:**
+## Actions
+
+
 
 
 

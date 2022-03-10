@@ -8,15 +8,10 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="SEssionTHumb.png" src="images/blog/power-apps-community-call-june-2021/SEssionTHumb.png" >}}
  
 
-
-## Call Summary
+## Call summary
 
 
 Topics covered in this month's community call include 3 demos - COE in
@@ -36,7 +31,7 @@ or viewing it on demand. 
  
 
 
-**Demos:**
+## Demos
 
 -   **COE in Dataverse for Teams in the Power Platform -** tips on
     configuring and using the Center of Excellence (CoE)
@@ -77,8 +72,9 @@ or viewing it on demand. 
     4PM -*<https://aka.ms/HoustonPPUG> 
 
 
+## Actions
 
-**Actions:**
+
 
 
 

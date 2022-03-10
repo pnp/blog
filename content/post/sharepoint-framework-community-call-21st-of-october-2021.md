@@ -8,20 +8,14 @@ images:
 - images/blog/sharepoint-framework-community-call-21st-of-october-2021/spfx-call-recording-21st-oct.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="spfx-call-recording-21st-oct.png" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/spfx-call-recording-21st-oct.png" >}}
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
 call recording from October 21st is now available from the Microsoft 365
 Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-
-## Call Summary
+## Call summary
 
 
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
@@ -61,10 +55,9 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 call.
 {{< image alt="211021-together-mode.gif" src="images/blog/sharepoint-framework-community-call-21st-of-october-2021/211021-together-mode.gif" >}}
 Full house today.  Clearly we've outgrow this venue.   Great to see
-everybody.  See you again soon.   
-
-**Actions:**
-
+everybody.  See you again soon. 
+  
+## Actions
 
 -   Vote: [Next SPFx Design Patterns Topic -- November 4,
     2021](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR8ke1rGfE-VNsUHrnMWCrL5UN1dHRUYxV01CUkJESktKMENBQldURVpRWiQlQCN0PWcu&web=1&wdLOR=cC640D9E0-C403-405A-9EF1-D9F43B6ADF90)
@@ -108,7 +101,7 @@ everybody.  See you again soon.   
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **At a Glance Web Part and Viva Adaptive Card Extension --** this
     sample shows a web part and an ACE, that displays the first few
@@ -120,7 +113,7 @@ everybody.  See you again soon.   
     render.     
 
 -   **Share to Teams -- SPFx Command Set Extension --** from within
-    SharePoint, this extension allows user to 1-click share site pages,
+    SharePoint, this extension allows user to 1-select share site pages,
     files, folders, and list items directly to selected (from dropdown)
     channels or groups in Microsoft Teams.  A concise 6-step CodeTour
     familiarizes the viewer with the inner workings of this extension. 
@@ -169,8 +162,8 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
     Events](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-Graph-UpcomingEvents) -
     [Zach Roberts](http://twitter.com/ZachSPODev) | \@ZachSPODev
 Thank you for your great work.  Samples are often showcased in Demos. 
-
-**Agenda items:**
+  
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -194,7 +187,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
     \@DavidWarnerII -- [16:17 ](https://youtu.be/9vvasiylRYI?t=977)
 
-**Demos:**
+## Demos
 
 -   **D1:**  At a Glance Web Part and Viva Adaptive Card Extension --
     [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) |
@@ -210,7 +203,9 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](http://twitter.com/bernierh) (Microsoft) |
     \@bernierh [--][ [40:50](https://youtu.be/9vvasiylRYI?t=2450)]
 
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -345,7 +340,8 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

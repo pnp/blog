@@ -8,8 +8,6 @@ images:
 - images/blog/create-and-retrieve-power-automate-flows-with-code/Tracy_1-1627940128961.png
 tags: []
 type: "regular"
-
-
 ---
 
 As you are probably aware, Microsoft is looking to [eliminate SharePoint

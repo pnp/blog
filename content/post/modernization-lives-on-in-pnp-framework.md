@@ -7,8 +7,6 @@ categories: ["SharePoint"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 Using the Modernization tooling, classic SharePoint pages can be
 converted to Modern pages residing in Microsoft 365 Team or

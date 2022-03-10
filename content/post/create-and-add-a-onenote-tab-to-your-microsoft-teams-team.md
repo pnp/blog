@@ -8,8 +8,6 @@ images:
 - images/blog/create-and-add-a-onenote-tab-to-your-microsoft-teams-team/image-13.png
 tags: []
 type: "regular"
-
-
 ---
  
 I was asked to share how I have been adding new OneNote tabs to a team

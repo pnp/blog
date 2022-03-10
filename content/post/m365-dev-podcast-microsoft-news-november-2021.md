@@ -7,8 +7,6 @@ categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Jeremy and Paul recap the latest news from Microsoft

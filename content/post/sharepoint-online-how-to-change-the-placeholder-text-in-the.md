@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-online-how-to-change-the-placeholder-text-in-the/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png
 tags: []
 type: "regular"
-
-
 ---
 
 Placeholder text is the text that appears in the search box before user

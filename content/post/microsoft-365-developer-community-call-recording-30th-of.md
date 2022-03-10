@@ -8,11 +8,10 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-30th-of/recording-30th-september.png
 tags: []
 type: "regular"
-
-
 ---
 
-## Call Summary
+## Call summary
+
 
 
 Have a look at Microsoft 365 tenant -- [script samples
@@ -245,7 +244,7 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     [45:05](https://youtu.be/y0PiVmB1gz4?t=2705)
 
 
-### Resources
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -254,7 +253,7 @@ slides.
     Teams app
     development](https://docs.microsoft.com/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
 -   D1:  Issues --
-    [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+    [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues)
 -   D1:  Video demo - [Getting stated with Microsoft Teams Toolkit and
     Blazor](https://www.youtube.com/watch?v=WPnZgcjr6PI) 
 -   D1:  Article - [Recognize active team members with the CLI for
@@ -327,7 +326,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

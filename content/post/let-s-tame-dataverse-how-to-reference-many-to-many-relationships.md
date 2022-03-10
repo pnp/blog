@@ -8,8 +8,6 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
 
 While building an app that stores data in Dataverse, I came across a

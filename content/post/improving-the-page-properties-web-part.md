@@ -8,8 +8,6 @@ images:
 - images/blog/improving-the-page-properties-web-part/diff-screencap.png
 tags: []
 type: "regular"
-
-
 ---
 
 Ever get annoyed with the page properties web part put out by Microsoft?
@@ -476,9 +474,7 @@ So that's all of the necessary code. Here's what the finished product
 looks like, compared to the original page properties web part.
 
 {{< image alt="diff-screencap" src="images/blog/improving-the-page-properties-web-part/diff-screencap.png" >}}
-This web part is now officially apart of the PnP Web Parts repository
-and can be found
-[here](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-advanced-page-properties).
+This web part is now officially apart of the [PnP Web Parts repository](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-advanced-page-properties).
 I would love to hear about improvements you'd like to see and obviously
 you are more than welcome to contribute. I already have a bit of a list
 of things I'd love to see it do. 

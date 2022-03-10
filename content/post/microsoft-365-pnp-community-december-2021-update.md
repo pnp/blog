@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-community-december-2021-update/dec-2021-pnp-promo.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="dec-2021-pnp-promo.png" src="images/blog/microsoft-365-pnp-community-december-2021-update/dec-2021-pnp-promo.png" >}}
 
@@ -613,6 +611,7 @@ month. We welcome all scripts on Microsoft 365 automation to this
 centralized repository, targeted to help to manage and automate
 day-to-day operations.
 Here are the latest updates on the Script Samples
+
 -   Updated [Export all flows in
     environment](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fflow-export-all-flows-in-environment%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=aOLZc38SgH6SiEHNijJ6ZMPd0P6lAKIZLRnB38INImQ%3D&reserved=0)
     by [Leon
@@ -885,7 +884,7 @@ involved!
     fluent and easily usable interface for querying data from SharePoint
     sites. It's a replacement of already deprecated pnp-js-core
     library. See
-    [changelog](https://github.com/pnp/pnpjs/blob/dev/CHANGELOG.md) for
+    [changelog](https://github.com/pnp/pnpjs/blob/main/CHANGELOG.md) for
     the latest updates.
 -   **PnP Provisioning Engine and PnP CSOM Core** - PnP provisioning
     engine is part of the PnP CSOM extension. They encapsulate complex
@@ -1634,7 +1633,8 @@ Got ideas or feedback on the topics to cover, additional partnerships,
 product feature capabilities? - let us know. Your input is important for
 us, so that we can support your journey in Microsoft 365.
 
-*"Sharing is caring!"*
+*Sharing is caring!*
+
 ------------------------------------------------------------------------
 
 Microsoft 365 Community (PnP) -- December 22nd 2021

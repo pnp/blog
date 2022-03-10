@@ -9,8 +9,6 @@ images:
 - images/blog/office-add-ins-community-call-september-8-2021/officeadd-ins.jpg
 tags: []
 type: "regular"
-
-
 ---
 
 
@@ -18,7 +16,8 @@ type: "regular"
 
 
 
-## Call Summary
+## Call summary
+
  
 
 This month's community call features presentations - Word API updates

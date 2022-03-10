@@ -8,11 +8,7 @@ images:
 - images/blog/adaptive-cards-community-call-july-2021/ThumbnailAC-July2021.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="ThumbnailAC-July2021.png" src="images/blog/adaptive-cards-community-call-july-2021/ThumbnailAC-July2021.png" >}}
 
 Covered off in this month's "conversational" community call:
 
@@ -33,7 +29,7 @@ throughout the call.  This call was hosted by Matt Hidinger (Microsoft)
 \@TimCadenbach.  Recorded on July 8, 2021.
 
 
-**Demos:**
+## Demos
 
 -   **A lap around MadeWithCards.io community site** - an assemblage of
     guidance, cards, tools, news and updates by and for Adaptive Cards

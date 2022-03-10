@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-15th-of-july-2021/210715-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
@@ -18,8 +16,7 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-
-## Call Summary
+## Call summary
 
 
 Summer and Fall community call schedule updates reviewed.  Register
@@ -53,8 +50,9 @@ the call.
 It's great to see spirits are high in the month of July!   Nice to see
 everyone.   See you again soon!  
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -87,7 +85,7 @@ everyone.   See you again soon!  
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Building a COVID attestation solution for Microsoft Teams and Viva
     Connections with SPFx** -- a personal app that collects information
@@ -146,8 +144,8 @@ everyone.   See you again soon!  
     Gove](http://twitter.com/russgove) | [\@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-
-**Agenda items:**
+  
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
@@ -168,7 +166,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [15:07](https://youtu.be/RwgpMcqLgrs?t=907)
 
-**Demos:**
+## Demos
 
 -   **Demo:**  Building a COVID attestation solution for Microsoft Teams
     and Viva Connections with SPFx -- [Julie
@@ -184,7 +182,9 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
     [
     --][ [45:02](https://youtu.be/RwgpMcqLgrs?t=2702)]
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -270,7 +270,8 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

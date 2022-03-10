@@ -8,8 +8,6 @@ images:
 - images/blog/react-groups-and-teams-filters/img1.png
 tags: []
 type: "regular"
-
-
 ---
 
 In this article I'll go over both of the filters you can find in my
@@ -27,10 +25,10 @@ In the screenshot below you can see the code for the buttons.
 
 The first three buttons are the visibility filters. They filter the
 MyGroupResultsFiltered to be the button text you clicked. For example,
-if you click the 'Public' button MyGroupResultsFiltered will be filtered
+if you select the 'Public' button MyGroupResultsFiltered will be filtered
 to include only groups with the visibility set as 'Public'.
 
-  Let's dive deeper into what's happening. On click of, for instance, Private, the button calls the SwitchGroupList2 function (line 69) and passes through 'Private' as a parameter.   {{< image alt="img2.png" src="images/blog/react-groups-and-teams-filters/img2.png" >}}
+  Let's dive deeper into what's happening. On select of, for instance, Private, the button calls the SwitchGroupList2 function (line 69) and passes through 'Private' as a parameter.   {{< image alt="img2.png" src="images/blog/react-groups-and-teams-filters/img2.png" >}}
 
 That parameter 'Private' is now called 'Switch' and next we check if
 that equals 'All'.
@@ -81,7 +79,7 @@ Private button the SwitchGroupList2 function will set the mode to be
   On the bottom right of the heading before the groups you will either see a button titled 'My Groups' or 'Groups In My Organization'.   {{< image alt="option filter.png" src="images/blog/react-groups-and-teams-filters/option filter.png" >}}
 
 This button allows you to toggle between either displaying groups you
-are a member of or groups in your organization. On click of this button
+are a member of or groups in your organization. On select of this button
 you call the SwitchGroupList function. ( Not the SwitchGroupList2
 function mentioned earlier )
 

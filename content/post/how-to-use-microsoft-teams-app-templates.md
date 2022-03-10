@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-use-microsoft-teams-app-templates/ask-away-app.png
 tags: []
 type: "regular"
-
-
 ---
 
 Microsoft Teams can be extended in several different ways using no-code,
@@ -111,7 +109,7 @@ when you are testing, so you can easily manage app's resources and
 access to them. Choose something unique for Base Resource Name, it's
 quite commonly used as part of deployed service URL endpoints, so it
 needs to be globally unique. Refer the app deployment documentation for
-other configuration options. Once complete click Create and Azure
+other configuration options. Once complete select Create and Azure
 resource deployment begins. Depending on a type and number of services,
 it can take up to 15 minutes to complete. Azure portal will notify when
 resources are deployed.
@@ -175,7 +173,7 @@ Teams. Depending on your tenant's configuration, there is two options
 for installing an app. With sideloading you can upload the app to you or
 your team. App is not available for anyone else in your tenant. To
 sideload an app open "Apps" in bottom left corner on Teams client,
-click "*Upload a custom app*" and select "*Upload for me or my
+select "*Upload a custom app*" and select "*Upload for me or my
 teams*". If the option is not available for you, sideloading is
 disabled. Configure the app and you're done.
 

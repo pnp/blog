@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-28th-of-december-2021/recording-28th-dec.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-28th-dec.png" src="images/blog/microsoft-365-platform-call-28th-of-december-2021/recording-28th-dec.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from December 28th, is now available from the Microsoft 365 Community
@@ -20,7 +16,7 @@ YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos)
 
 
-**Call Summary**
+## Call summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   
@@ -66,8 +62,9 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 -   [Microsoft Graph Bookings APIs now available on the v1
     endpoint](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-bookings-apis-now-available-on-the-v1-endpoint/)
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -201,7 +198,7 @@ of this community.  Wishing you a happy and healthy entry into 2022.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

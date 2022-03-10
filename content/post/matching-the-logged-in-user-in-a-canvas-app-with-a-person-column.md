@@ -8,8 +8,6 @@ images:
 - images/blog/matching-the-logged-in-user-in-a-canvas-app-with-a-person-column/Hermione-IconVisible.png
 tags: []
 type: "regular"
-
-
 ---
 
 Recently, I came across an interesting issue using people columns in a

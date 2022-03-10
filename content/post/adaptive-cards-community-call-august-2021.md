@@ -8,11 +8,7 @@ images:
 - images/blog/adaptive-cards-community-call-august-2021/900x506-AugustTHumb.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="900x506-AugustTHumb.png" src="images/blog/adaptive-cards-community-call-august-2021/900x506-AugustTHumb.png" >}}
 
 The following topics are covered in this month's community call:
 
@@ -51,6 +47,7 @@ August 12, 2021.
 -   Documentation -
     [Extensibility](https://docs.microsoft.com/adaptive-cards/sdk/rendering-cards/javascript/extensibility)
 -   Onboard OEM Contact - <onboardoam@microsoft.com>
+
 
 
 ## Resources in General

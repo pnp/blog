@@ -9,8 +9,6 @@ images:
 - images/blog/doctor-maintain-your-documentation-on-sharepoint-without-pain/doctor1.png
 tags: []
 type: "regular"
-
-
 ---
 
 

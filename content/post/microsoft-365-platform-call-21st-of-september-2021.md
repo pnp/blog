@@ -7,8 +7,6 @@ categories: ["Microsoft 365 platform call recordings"]
 images:
 - images/blog/microsoft-365-platform-call-21st-of-september-2021/recording-21st-sep.png
 type: "regular"
-
-
 --- 
 
 
@@ -20,7 +18,7 @@ from September 21st, is now available from the Microsoft 365 Community
 YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
 
-**Call Summary**
+## Call summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   New to Microsoft 365 Platform development?  You are
@@ -54,7 +52,9 @@ takes place in chat throughout the call.
     apps](https://developer.microsoft.com/microsoft-365/blogs/multi-tenant-architechture-for-saas-apps/)
 
 
-**Actions:**
+## Actions
+
+
 
 
 
@@ -140,7 +140,9 @@ Thank you for your work. Samples are often showcased in Demos.
     [\@vesajuvonen](https://twitter.com/vesajuvonen%20) --
     [16:55](https://youtu.be/GF0hfnYCy8M?t=1874)
 
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -233,7 +235,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

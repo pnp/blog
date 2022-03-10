@@ -8,8 +8,6 @@ images:
 - images/blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/image.png
 tags: []
 type: "regular"
-
-
 ---
 
 Developing and testing your error handling code is really important to

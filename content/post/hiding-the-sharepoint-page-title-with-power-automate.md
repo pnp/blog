@@ -8,8 +8,6 @@ images:
 - images/blog/hiding-the-sharepoint-page-title-with-power-automate/page-title.png
 tags: []
 type: "regular"
-
-
 ---
 
 For any SharePoint modern page that you create manually, there will

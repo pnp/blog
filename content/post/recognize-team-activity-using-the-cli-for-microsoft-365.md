@@ -8,8 +8,6 @@ images:
 - images/blog/recognize-team-activity-using-the-cli-for-microsoft-365/team-champion-script.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## The scenario 

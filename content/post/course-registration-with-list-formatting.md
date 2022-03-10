@@ -8,8 +8,6 @@ images:
 - images/blog/course-registration-with-list-formatting/51695169286_ae7588984b_c.jpg
 tags: []
 type: "regular"
-
-
 ---
 
 Recently [Tetsuya](https://twitter.com/techan_k) and [Michel](https://twitter.com/michelcarlo) shared
@@ -82,12 +80,12 @@ Disconnect-PnPOnline
  
 ### Change format Register column 
  
-1\. Navigate to your newly created list and click Column settings \>
+1.  Navigate to your newly created list and select Column settings \>
 Format this column.
  
 {{< image alt="51695571178_b626326204_c.jpg" src="images/blog/course-registration-with-list-formatting/51695571178_b626326204_c.jpg" >}}
  
-1. Insert the json below and click save.
+1. Insert the json below and select save.
  
  
  
@@ -212,7 +210,8 @@ if(indexOf([$PeopleWhoRegistered.email], ) == -1 && length([$PeopleWhoRegistered
 In this formula I am using a conditional
 operator [if()](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#expressions).
 In that if statement I am checking if three things are all true.
-1\. If the e-mail of the person who is creating the list item is not
+
+1.  If the e-mail of the person who is creating the list item is not
 registered. This expression is using
 a [IndexOf](https://docs.microsoft.com/sharepoint/dev/declarative-customization/formatting-syntax-reference#operators) binary
 operator and

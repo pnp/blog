@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-community-may-2021-update/may-pnp-summary-available.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="may-pnp-summary-available.png" src="images/blog/microsoft-365-pnp-community-may-2021-update/may-pnp-summary-available.png" >}}
 
 Microsoft 365 Patterns and Practices (PnP) Community April 2021 update
 is out with a summary of the latest guidance, samples, and solutions
@@ -36,6 +32,7 @@ GitHub by providing contributions to the samples, reusable components,
 and documentation for different areas. PnP is owned and coordinated by
 Microsoft engineering, but this is work done by the community for the
 community.
+
 -   See more details from [New Microsoft 365 Patterns and Practices
     (PnP) team model with new community
     leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
@@ -69,6 +66,7 @@ initiative](http://aka.ms/m365pnp) from April 2021:
     subscribers
 Most viewed videos in the [Microsoft 365 Community (PnP) YouTube
 channel](https://aka.ms/m365pnp-videos) during April 2021:
+
 1.  [Getting started on deploying Viva Connections for Microsoft Teams
     desktop](https://www.youtube.com/watch?v=-qiRxrPexNI) | 10,040
 2.  [Microsoft Teams community call - April
@@ -99,9 +97,11 @@ channel](https://aka.ms/m365pnp-videos) during April 2021:
 10. [Microsoft Teams Meeting Questionnaire App with SharePoint
     Framework](https://www.youtube.com/watch?v=gDcT7yu6UmU) | [Nanddeep
     Nachan](https://twitter.com/NanddeepNachan) | 1,717
+
 Most viewed videos in the [Microsoft 365 Developer YouTube
 channel](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ)
 during April 2021:
+
 1.  [Authenticate and connect with Microsoft Graph - June
     2019](https://www.youtube.com/watch?v=xWhyG-SuyQM) | 1,316
 2.  [Build Outlook Add-ins that integrate your solution seamlessly into
@@ -139,6 +139,7 @@ Main resources around Microsoft 365 Community:
     [http://aka.ms/m365pnp-videos](http://aka.ms/m365pnp-Videos)
 -   Microsoft 365 Developer YouTube channel -
     <https://aka.ms/M365DevYouTube>
+
 ## Latest Dev Blog posts 
 
 Here are the latest blog posts and announcements around Microsoft 365
@@ -789,9 +790,10 @@ and community samples.
 
 {{< image alt="power-platform-samples.png" src="images/blog/microsoft-365-pnp-community-may-2021-update/power-platform-samples.png" >}}
 
-\
+
 These are the updated Power Platform samples which are available from
 the new Power Platform sample gallery.
+
 -   New sample
     [color-functions](https://github.com/pnp/powerfx-samples/tree/main/samples/color-functions)
     by [P3N](https://github.com/P3N-101) showing functions that
@@ -941,7 +943,7 @@ involved!
     fluent and easily usable interface for querying data from SharePoint
     sites. It's a replacement of already deprecated pnp-js-core
     library. See
-    [changelog](https://github.com/pnp/pnpjs/blob/dev/CHANGELOG.md) for
+    [changelog](https://github.com/pnp/pnpjs/blob/main/CHANGELOG.md) for
     the latest updates.
 -   **PnP Provisioning Engine and PnP CSOM Core** - PnP provisioning
     engine is part of the PnP CSOM extension. They encapsulate complex

@@ -9,8 +9,6 @@ images:
 - images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_0-1637745741073.jpeg
 tags: []
 type: "regular"
-
-
 ---
 
 In my process of self learning regarding different technologies such us

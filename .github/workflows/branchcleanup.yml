@@ -1,5 +1,5 @@
 
-  name: Branch Cleanup
+  name: Delete branch after closed pull request
   # This workflow is triggered on all closed pull requests.
   # However the script does not do anything it a merge was not performed.
   on:

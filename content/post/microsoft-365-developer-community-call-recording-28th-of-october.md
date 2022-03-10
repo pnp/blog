@@ -8,15 +8,12 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-28th-of-october/recording-28th-oct.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-28th-oct.png" src="images/blog/microsoft-365-developer-community-call-recording-28th-of-october/recording-28th-oct.png" >}}
  
 
 
-## Call Summary
+## Call summary
+
 
 
 SharePoint Framework v1.13 is now generally available!  Have you visited
@@ -207,7 +204,9 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) |
     \@NataliePienkow1 & Martyn Lesbirel (Dynamiti) --
     [48:09](https://youtu.be/PFMUygySS3I?t=2889)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -298,7 +297,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

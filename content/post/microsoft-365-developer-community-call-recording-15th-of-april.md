@@ -8,15 +8,13 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-15th-of-april/sig-agenda-15th-recording.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="sig-agenda-15th-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-15th-of-april/sig-agenda-15th-recording.png" >}}
- 
 
 
-## Call Summary
+## Call summary
+
+
 
 
 Latest news from Microsoft 365 engineering and updates on open-source
@@ -40,10 +38,7 @@ components (Preview).   The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
  Q&A takes place in chat throughout the call.
 
-
-**Actions:**
-
-
+## Actions
 
 -   [Microsoft 365 Developer Community
     Survey](https://aka.ms/m365pnp/survey) --
@@ -147,7 +142,9 @@ Thank you for your work. Samples are often showcased in Demos.
     \@theChrisKent - [41:29](https://youtu.be/HarfeUb-3TY?t=2489)
 
      
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -233,7 +230,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
@@ -268,6 +265,7 @@ slides.
     [https://aka.ms/officeaddinscall](https://aka.ms/officeaddinscommunitycall)
 -   **Adaptive Cards monthly call --** May 13th at 9:00 am PDT |
     <https://aka.ms/adaptivecardscommunitycall>
+
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft

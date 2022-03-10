@@ -8,8 +8,6 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
 
 Matt Collins Jones and I presented [API's -- The most powerful tool,
@@ -25,14 +23,14 @@ something you can push to external users and allow them to request
 access.
 
 By using the Graph API via a Custom Connector, Microsoft Forms and Power
-Automate, we are able to realise this quickly and save a lot of time and
+Automate, we are able to realize this quickly and save a lot of time and
 effort in the manual process.
 
 Also, I have been lucky to have this solution accepted as part of the
 samples in the [Microsoft Patterns And
 Practices](https://pnp.github.io/) initiative, so the Flow, Custom
 Connector and implementation instructions are available in
-GitHub [here](https://github.com/pnp/powerautomate-samples/tree/main/samples/teams-invites-via-graph-api).
+[GitHub](https://github.com/pnp/powerautomate-samples/tree/main/samples/teams-invites-via-graph-api).
 
 ## Getting Hands-On With Graph 
 
@@ -52,7 +50,7 @@ considerations.
 Thankfully, the rest of the Graph API abilities are
 available, but you have to go via a custom connector. You could call
 these directly via an HTTP request action, but by wrapping the Graph API
-in a connector, you are enabling other members of your organisation to
+in a connector, you are enabling other members of your organization to
 re-use the connector and security you establish.
 Microsoft also allows you to "play" with the Graph API as well, via
 the [Graph
@@ -112,10 +110,11 @@ Select Add Permissions to return you to the Configured permissions
 screen, then select Grant Admin consent button. This shortcuts and
 pre-approves the app.
 Leave this tab open and let's go and define our custom connector.
+
 ## Defining The Custom Connector 
 
 Jan Bakker has done an excellent job of walking you through
-this, [here](https://powerusers.microsoft.com/t5/Power-Automate-Community-Blog/Build-a-custom-connector-for-Microsoft-Graph-API/ba-p/647492).
+this, [Build a custom connector](https://powerusers.microsoft.com/t5/Power-Automate-Community-Blog/Build-a-custom-connector-for-Microsoft-Graph-API/ba-p/647492).
 His article goes into a lot of detail, so I will just take you through
 what is needed for this project.
 In make.powerapps.com, select the appropriate environment and chose
@@ -146,7 +145,7 @@ should be presented with the below screen.
 
 Now, this is where we need to use the values you saved (you did save
 them?) when you were registering your app
-up [here](https://linked365.blog/2021/05/06/using-power-automate-and-graph-api-to-manage-external-access-to-teams/#Granting-Permissions).
+up 
 Client Id is populated with the Application (client) ID, the Client
 secret is populated with the Value from the Client Secret grid. Login
 URL will be populated for you. The Resource URL value should be
@@ -157,7 +156,7 @@ your App registration to complete the security process.
 {{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_10-1620296727075.png" >}}
 
 I *think* that this is now standard, but just in case, copy the Redirect
-URL and go back to your App Registration in Azure AD. Click on the link
+URL and go back to your App Registration in Azure AD. select  the link
 highlighted.
 
 
@@ -322,7 +321,7 @@ the rejection.
 
 {{< image alt="" src="images/blog/using-power-automate-and-graph-api-to-manage-external-access-to/LinkeD365_26-1620296726933.png" >}}
 In the Yes path, call the Custom connector again to check if the user is
-already a part of your organisation as a guest user. As the parameter is
+already a part of your organization as a guest user. As the parameter is
 expecting a query, use the expression below
 
 
@@ -356,7 +355,7 @@ The User id is returned by using the expression below
 body('GetUser')?['value'][0]?['id']
 ```
 
-On the negative side, firstly invite the user to your organisation by
+On the negative side, firstly invite the user to your organization by
 using the final action of the custom connector.
 
 

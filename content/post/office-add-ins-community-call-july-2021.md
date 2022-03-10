@@ -8,11 +8,10 @@ categories: ["Office Add-in developer community call recordings"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
-## Call Summary
+## Call summary
+
 
 
 This month's community call features presentations - **Shared mailboxes

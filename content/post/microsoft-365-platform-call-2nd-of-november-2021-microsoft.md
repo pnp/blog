@@ -8,12 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-2nd-of-november-2021-microsoft/recording-2nd-nov.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="recording-2nd-nov.png" src="images/blog/microsoft-365-platform-call-2nd-of-november-2021-microsoft/recording-2nd-nov.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from November 2nd, is now available from the Microsoft 365 Community
@@ -192,7 +187,7 @@ have a great event.    
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

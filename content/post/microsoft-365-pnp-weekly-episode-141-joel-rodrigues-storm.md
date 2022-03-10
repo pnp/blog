@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-141-joel-rodrigues-storm/Thumb-Ep141-November1.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="Thumb-Ep141-November1.png" src="images/blog/microsoft-365-pnp-weekly-episode-141-joel-rodrigues-storm/Thumb-Ep141-November1.png" >}}
  
 
 In this installment of the weekly discussion revolving around the latest

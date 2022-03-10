@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-29th-of-july-2021/PnP-Calls-TogetherMode-LowResolution.gif
 tags: []
 type: "regular"
-
-
 ---
 
 
@@ -19,8 +17,7 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-
-## Call Summary
+## Call summary
 
 Summer and Fall community call schedule updates reviewed.  Register
 today for August events on
@@ -32,17 +29,17 @@ preview!](https://aka.ms/viva/connections/developer/preview)
 preview on the Viva Connections extensibility tooling.  
 **Latest project updates include: ** (**Bold** indicates update from
 previous report 2 weeks ago) 
-||||
-|--- |--- |--- |
-|PnP Project|Current version|Release/Status|
-|SharePoint Framework (SPFx)|v1.12.1, v1.13 beta|v1.13.0 Beta end of July|
-|PnPjs Client-Side Libraries|v2.7.0|2.8.0 scheduled for Aug 13, 
-v3.0.0 developments underway|
-|CLI for Microsoft 365|v3.12.0 Preview, v4.0.0 Preview|v4.0.0 to release this fall|
-|Reusable SPFx React Controls|v2.8.0 (SPFx v1.11), v3.2.1 (SPFx v1.12.1)||
-|Reusable SPFx React Property Controls|v2.7.0 (SPFx v1.11), v3.2.0 (SPFx v1.12.1)||
-|PnP SPFx Generator|v1.16.0|v1.17.0 on the way|
-|PnP Modern Search|v4.3.0 & v3.21.0||
+|                                       |                                            |                             |
+| ------------------------------------- | ------------------------------------------ | --------------------------- |
+| PnP Project                           | Current version                            | Release/Status              |
+| SharePoint Framework (SPFx)           | v1.12.1, v1.13 beta                        | v1.13.0 Beta end of July    |
+| PnPjs Client-Side Libraries           | v2.7.0                                     | 2.8.0 scheduled for Aug 13, |
+| v3.0.0 developments underway          |
+| CLI for Microsoft 365                 | v3.12.0 Preview, v4.0.0 Preview            | v4.0.0 to release this fall |
+| Reusable SPFx React Controls          | v2.8.0 (SPFx v1.11), v3.2.1 (SPFx v1.12.1) |                             |
+| Reusable SPFx React Property Controls | v2.7.0 (SPFx v1.11), v3.2.0 (SPFx v1.12.1) |                             |
+| PnP SPFx Generator                    | v1.16.0                                    | v1.17.0 on the way          |
+| PnP Modern Search                     | v4.3.0 & v3.21.0                           |                             |
 
 There was 1 **PnP SPFx extension** and 4 **PnP web part samples**
 delivered in the last 2 weeks as well.  Nice work!    The host of this
@@ -56,7 +53,9 @@ seeing you again in August.    Data for Hugo:  24 left-handed wavers, 4
 right-handed wavers, 2 bi-handed wavers and 4 non-handed wavers.  But
 wait, now there's 35 wavers!   Data corruption.  
 
-**Actions:**
+## Actions
+
+
 
 
 
@@ -88,7 +87,7 @@ wait, now there's 35 wavers!   Data corruption.  
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Hero Web Part and Tiles V2 Web Part** -- **Tiles v2** -- displays
     a group of responsive flex tiles that can be configured to navigate
@@ -135,8 +134,8 @@ wait, now there's 35 wavers!   Data corruption.  
     pending) - [Hugo Bernier](http://twitter.com/bernierh) | \@bernierh
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-
-**Agenda items:**
+  
+## Agenda items
 
 -   SharePoint Framework - [Patrick
     Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
@@ -157,7 +156,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [15:00](https://youtu.be/BMXZlYtyKp4?t=900)
 
-**Demos:**
+## Demos
 
 -   **Demo:**  Hero Web Part and Tiles V2 Web Part -- [Omar
     El-Anis](http://twitter.com/omarelanis) |
@@ -168,7 +167,9 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     ][Hugo
     Bernier](http://twitter.com/bernierh)[ (Microsoft) |
     \@bernierh ][--][ [41:12](https://youtu.be/BMXZlYtyKp4?t=2472)]
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -311,7 +312,8 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

@@ -6,8 +6,6 @@ githubname: arjunumenon
 categories: ["SharePoint"]
 tags: []
 type: "regular"
-
-
 ---
 
 Adding a user to a SharePoint group from custom solutions via REST API

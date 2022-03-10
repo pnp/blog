@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-platform-call-5th-of-october-2021/recording-5th-oct.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="recording-5th-oct.png" src="images/blog/microsoft-365-platform-call-5th-of-october-2021/recording-5th-oct.png" >}}
 
@@ -19,7 +17,9 @@ YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos).
 
 
-## Call Summary
+## Call summary
+
+
 
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
@@ -139,7 +139,9 @@ Thank you for your work. Samples are often showcased in Demos.
     your tenant -- [Tejas Mehta](http://twitter.com/tpmehta) (Microsoft)
     | \@tpmehta -- [25:05](https://youtu.be/4LFP1Zyerq4?t=1505)
 
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -210,7 +212,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-use-a-custom-connector-in-power-automate/tweet.png
 tags: []
 type: "regular"
-
-
 ---
 
 Power Automate is a super cool tool, which gives us a lot of options.
@@ -102,7 +100,7 @@ Log into your brand new Spotify for Developers account
     You can find the values you need to fill in here in Spotify for
     developers documentation, but to make things easier for you, I will
     provide them for you.
--   Select on **Security**
+-   Select  **Security**
 -   Select **OAuth2.0**
 -   Select **Generic OAuth 2** as Identity Provider
 -   Paste in your Client ID and Client secret
@@ -163,9 +161,9 @@ Now we want to get the current song from our shiny new Custom connector:
 
 #### Get current song
 
--   Select on Insert a new Step
+-   Select  Insert a new Step
 
--   Select on Custom
+-   Select  Custom
 
 -   Select the new custom connector for Spotify
     Our intention now is to tweet something like "I am currently

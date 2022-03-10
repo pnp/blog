@@ -6,8 +6,6 @@ githubname: tonipohl
 categories: ["SharePoint", "Tooling"]
 tags: []
 type: "regular"
-
-
 ---
 
 To develop applications for SharePoint or Microsoft Teams with the [SPFx
@@ -133,6 +131,7 @@ with npm.
 
 
 {{< image alt="npm install" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p8.png" >}}
+
 ## Create a new SPFx web part 
 
 To create a new SPFx app, follow the steps described at [Build your
@@ -170,7 +169,7 @@ When done, let´s open the default browser with the gulp webserver:
 *gulp serve*
 
 This opens the SPFx workbench, in our sample at
-https://localhost:4321/temp/workbench.html. Here, you can add the
+`https://localhost:4321/temp/workbench.html`. Here, you can add the
 web part to the workbench page and test it.
 
 

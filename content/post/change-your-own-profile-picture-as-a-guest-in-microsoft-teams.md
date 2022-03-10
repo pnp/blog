@@ -8,8 +8,6 @@ images:
 - images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image.png
 tags: []
 type: "regular"
-
-
 ---
 I love Microsoft Teams and I also love controlling my online appearance,
 but sadly both aren't big friends when you are a Guest in another
@@ -84,7 +82,7 @@ page in the Azure AD of the Guest tenant!
 
 Finally time to upload your profile picture!
 
-1.  Top of the profile, click the `Edit` button
+1.  Top of the profile, select the `Edit` button
 2.  With your profile in edit mode, you can browse for a photo on your
     computer and upload it to your profile!
  {{< image alt="image-5.png" src="images/blog/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/image-5.png" >}}

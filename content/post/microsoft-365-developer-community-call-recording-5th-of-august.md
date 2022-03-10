@@ -8,12 +8,11 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-5th-of-august/PnP-Calls-TogetherMode-LowerResolution.gif
 tags: []
 type: "regular"
-
-
 --- 
 
 
-## Call Summary
+## Call summary
+
 
 
 Summer break and community call schedule updates reviewed.  Preview the
@@ -47,8 +46,9 @@ Three Power Platform samples were delivered, as well.  The host of this
 call was [Julie Turner](http://twitter.com/jfj1997) (Sympraxis
 Consulting) | \@jfj1997.   Q&A takes place in chat throughout the call.
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -169,7 +169,9 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  List Formatting Magic -- [Chris
     Kent](http://twitter.com/theChrisKent) (DMI) | \@theChrisKent -
     [40:13](https://youtu.be/0pWijfLYjEY?t=2413)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -257,7 +259,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

@@ -7,8 +7,6 @@ categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Zhenya Savchenko and Tim Ng from the Developer Division at Microsoft

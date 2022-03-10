@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-community-spotlight-wictor-wil%C3%A9n/wictorwilen.jpg
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="wictorwilen.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-wictor-wil%C3%A9n/wictorwilen.jpg" >}}
 
 ## Which community project do you maintain? 
 

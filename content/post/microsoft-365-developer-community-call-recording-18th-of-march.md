@@ -8,17 +8,17 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-18th-of-march/sig-18th-march-recording.png
 tags: []
 type: "regular"
-
-
 ---
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from March 18, 2021.
-{{< image alt="sig-18th-march-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-18th-of-march/sig-18th-march-recording.png" >}}
- 
+
+
 
 
 ## Call Summary
+
+
 
 
 Latest news from Microsoft 365 engineering and updates on open-source
@@ -155,7 +155,10 @@ Thank you for your work. Samples are often showcased in Demos.
     [Thomy Gölles](http://twitter.com/thomyg) (Solvion) | \@thomyg
 
     \- [43:42](https://youtu.be/kPGpuGPtKHM?t=2622)
-**Resources:**
+
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -243,7 +246,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service](https://provisioning.sharepointpnp.com/) - Easily provision
+    Service](https://lookbook.microsoft.com/) - Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

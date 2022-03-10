@@ -7,8 +7,6 @@ categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Paul talks with Jort Rodenburg about his new book *Code Like a Pro in

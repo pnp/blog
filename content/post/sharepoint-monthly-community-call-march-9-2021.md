@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-monthly-community-call-march-9-2021/march-sp-monthly-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 
@@ -22,8 +20,7 @@ each month. You can download recurrent invite
 from <https://aka.ms/sp-call>.
 
 
-
-## Call Summary
+## Call summary
 
 
 If you're looking at this blog post, then you are at the new Microsoft
@@ -59,7 +56,9 @@ through AI algorithms, then confirmed and curated by humans.   Topics
 draws on capabilities from across Microsoft and can be extended by
 you.  
 
-**Actions:**
+## Actions
+
+
 
 
 
@@ -116,7 +115,8 @@ SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found at
     [OneDrive](https://1drv.ms/p/s!AlposW7ozA_90jQWIX5-19SSp93e?e=UXweGM).
 
-**Resources:**
+
+## Resources
 
 Additional resources on covered topics and discussions.
 
@@ -200,6 +200,7 @@ Additional resources on covered topics and discussions.
 \"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics -
 <http://aka.ms/m365pnp>.
+
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

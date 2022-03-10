@@ -8,8 +8,6 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
 
 This week, I had the great pleasure to attend Microsoft's Learn

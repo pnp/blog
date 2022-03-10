@@ -8,14 +8,10 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="sig-recordingly-22nd-july.png" src="images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png" >}}
+## Call summary
 
-
-## Call Summary
 
 
 Summer break and community call schedule updates reviewed. Preview the
@@ -162,8 +158,9 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   **Demo:**  ACS -- Teams InterOp with Call Routing -- Sathya
     Raveendran
-    (Microsoft) [-][ [34:56](https://youtu.be/ebOtM8LpAK4?t=2096)]
-**Resources:**
+    (Microsoft) [-][ [34:56](https://youtu.be/ebOtM8LpAK4?t=2096)][ ]
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -255,7 +252,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

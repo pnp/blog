@@ -7,8 +7,6 @@ images:
 - images/blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/DamoBird365_0-1619420006466.png
 tags: []
 type: "regular"
-
-
 ---
 
 **Transfer your group chat emails to Teams with Power Automate**

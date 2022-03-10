@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/MSForm-ExternalUserdetails.png
 tags: []
 type: "regular"
-
-
 ---
 
 SharePoint and Microsoft Teams services in Microsoft 365 makes it easier
@@ -374,7 +372,7 @@ user](https://docs.microsoft.com/graph/api/invitation-post?view=graph-rest-1.0&t
   "inviteRedirectUrl": "SharePoint site URL or any URL",
   "invitedUserMessageInfo": {
     "messageLanguage": "en-US",
-    "customizedMessageBody": "Welcome to the M365PAL SharePoint site! Click the link below and sign in."
+    "customizedMessageBody": "Welcome to the M365PAL SharePoint site! Select the link below and sign in."
   }
 }
 ```

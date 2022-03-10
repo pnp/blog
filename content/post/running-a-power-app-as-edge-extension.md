@@ -8,8 +8,6 @@ images:
 - images/blog/running-a-power-app-as-edge-extension/edge-plugin.gif
 tags: []
 type: "regular"
-
-
 ---
 
 To get started you do need a sample, the demo used to get you started is
@@ -175,7 +173,7 @@ looks like this:
 
 Now I understand that some of these steps could have been done writing
 actual code instead of using the Power Platform. However the fact that I
-could click together a few components and have them interact with my
+could select together a few components and have them interact with my
 Edge browser really appealed to me :rocket:. Building a plugin to
 capture specific data from your browser has become way easier. Something
 that fits within the fusion development approach you hear a lot about.

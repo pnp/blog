@@ -6,8 +6,6 @@ categories: [ "SharePoint"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 SharePoint has a lot of great out-of-the-box capabilities, but sometimes
@@ -295,7 +293,7 @@ can use the following steps:
     <https://localhost:4321> because this is a dev deploy (further below
     we do a non-dev deploy with the \--ship flag).
 
--   Click the Deploy button.  Notice that there is no tenant wide
+-   select the Deploy button.  Notice that there is no tenant wide
     deployment of apps like there is in SharePoint Online.
 
 -   Add the App to your site.  Go to the site where you want to deploy
@@ -325,6 +323,7 @@ terminal is still running "gulp serve" as mentioned above, then you just
 need to wait a few seconds and refresh your web page from the previous
 section.  There is no need to re-deploy the sppkg file for simple code
 changes.
+
 ## Incorporate Office Fabric 
 
 The yeoman generator does not have Office Fabric as part of it.  Here we
@@ -596,9 +595,8 @@ this.  If you do, make sure you are prepared to revert both package.json
 and package-lock.json.  Also test with a production/ship build as you
 will likely find, as I did, that it works with a dev build, but not a
 production build.
-More details can be found here: [Duplicate of issue #985: deployed web
-part says "Manifest not found", after updating from 1.1.0 to
-1\...](https://github.com/SharePoint/sp-dev-docs/issues/1100)
+More details can be found here: [Duplicate of issue #985](https://github.com/SharePoint/sp-dev-docs/issues/1100) (deployed web
+part says "Manifest not found", after updating from 1.1.0 to 1.
 
 Note that you might want to remove the "\~" and "" from some of those
 versions to make sure the version matches exactly (and doesn't use an

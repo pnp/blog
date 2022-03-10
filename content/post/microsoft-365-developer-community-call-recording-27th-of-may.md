@@ -8,15 +8,12 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-27th-of-may/sig-27th-may-recording.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="sig-27th-may-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-27th-of-may/sig-27th-may-recording.png" >}}
  
 
 
-## Call Summary
+## Call summary
+
 
 
 Latest news from Microsoft 365 engineering and updates on open-source
@@ -172,8 +169,9 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  Deep linking from List Formatting to Power Automate
     solution -- [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
     \@theChrisKent
-    -[ [44:55](https://youtu.be/y0diQu23g88?t=2695)]
-**Resources:**
+    -[ [44:55](https://youtu.be/y0diQu23g88?t=2695)][ ]
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -271,7 +269,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

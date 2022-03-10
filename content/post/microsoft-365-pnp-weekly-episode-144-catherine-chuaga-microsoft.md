@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-144-catherine-chuaga-microsoft/Thumb-Ep144-November22.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="Thumb-Ep144-November22.png" src="images/blog/microsoft-365-pnp-weekly-episode-144-catherine-chuaga-microsoft/Thumb-Ep144-November22.png" >}}
 

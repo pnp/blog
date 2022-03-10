@@ -8,15 +8,12 @@ images:
 - images/blog/microsoft-teams-community-call-june-2021/teams-june-15th-recording.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="teams-june-15th-recording.png" src="images/blog/microsoft-teams-community-call-june-2021/teams-june-15th-recording.png" >}}
 
 
 
-**Call Summary**
+## Call summary
 
 Latest news from Microsoft engineering on Microsoft Teams updates and
 community assets.
@@ -40,8 +37,9 @@ Portal](https://aka.ms/teams-dev-docs).   The host of this call was
 [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 \@vesajuvonen.  Q&A takes place in chat throughout the call
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -157,7 +155,9 @@ Thank you for your work. Samples are often showcased in Demos.
 
  
 
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

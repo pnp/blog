@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-recording-8th-of-april-2021/8th-april-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 SharePoint Framework bi-weekly community call recording from April 8th
@@ -19,8 +17,7 @@ building solutions for **Microsoft Viva**, **Microsoft Teams** and
 for **SharePoint** Online.
 
 
-
-## Call Summary
+## Call summary
 
 
 Preview the new [Microsoft 365
@@ -45,13 +42,7 @@ is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 {{< image alt="8th-april-together-mode.gif" src="images/blog/sharepoint-framework-community-call-recording-8th-of-april-2021/8th-april-together-mode.gif" >}}
  
 
-
-**Actions:**
-
-
-
 -   Register for both:
-    -   Register to watch the Microsoft Graph livestream with your
         community at:  <https://aka.ms/pnpwatchparty>
     -   RSVP to attend - 2-hour livestream -- Building Apps for with
         Microsoft Graph -- 2 sessions -- 2:00pm AEST (Asia Pacific
@@ -88,7 +79,7 @@ is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 1.  **Teams Meeting Questionnaire App with SharePoint Framework** -- The
     Questionnaire Pre-meeting app allows Microsoft Teams meeting
@@ -161,7 +152,8 @@ is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 
 As is the case this week, samples are often showcased in Demos.  Thank
 you for your great work.
-**Agenda items:**
+
+## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -185,7 +177,7 @@ you for your great work.
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [13:09](https://youtu.be/PJ4aUybRrQo?t=789)
 
-**Demos:**
+## Demos
 
 -   Teams Meeting Questionnaire App with SharePoint Framework --
     [Nanddeep Nachan](http://twitter.com/NanddeepNachan) |
@@ -200,7 +192,9 @@ you for your great work.
 -   Viva Connections Desktop and Extensibility -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [39:29](https://youtu.be/PJ4aUybRrQo?t=2369)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -298,7 +292,8 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

@@ -8,14 +8,11 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-23rd-of/recording-23rd-dec.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="recording-23rd-dec.png" src="images/blog/microsoft-365-developer-community-call-recording-23rd-of/recording-23rd-dec.png" >}}
 
+## Call summary
 
-## Call Summary
 
 
 It's the perfect time to visit the Microsoft 365 tenant -- [script
@@ -191,7 +188,9 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
     -- [Hugo Bernier](http://twitter.com/bernierh) | \@bernierh & [Bob
     German](http://twitter.com/Bob1German) |
     \@Bob1German -- [25:09](https://youtu.be/v_wYcTzHMs8?t=1509)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -269,7 +268,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

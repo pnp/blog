@@ -8,8 +8,6 @@ images:
 - images/blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/AnandVRagav_0-1637611061380.png
 tags: []
 type: "regular"
-
-
 ---
 
 Recently I shared with the PnP community an event page I was working on
@@ -149,7 +147,7 @@ channel.
 
 To get that format, use the below JSON code. Open the drown-down arrow
 next to the column header \> select column settings \> select Format
-this column. Then paste the below JSON and click save.
+this column. Then paste the below JSON and select save.
 
 ```json
 {
@@ -1035,7 +1033,7 @@ view"
 ```
  
 The result is a formatted people web part. Another good thing about
-this it also lets the users hover/click on the people to get their
+this it also lets the users hover/select  the people to get their
 office profile
 information.
  

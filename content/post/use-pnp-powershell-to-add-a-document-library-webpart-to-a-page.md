@@ -8,8 +8,6 @@ images:
 - images/blog/use-pnp-powershell-to-add-a-document-library-webpart-to-a-page/MS-list.png
 tags: []
 type: "regular"
-
-
 ---
 As a non-developer (please read this as a disclaimer) I still try to
 make my life as easy as possible (yes, I am that lazy). PnP PowerShell

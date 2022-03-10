@@ -8,17 +8,14 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-1st-of-april/sig-1st-april-recording.png
 tags: []
 type: "regular"
-
-
 ---
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from April 1, 2021.
 
-{{< image alt="sig-1st-april-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-1st-of-april/sig-1st-april-recording.png" >}}
 
+## Call summary
 
-## Call Summary
 
 
 Latest news from Microsoft 365 engineering and updates on open-source
@@ -42,12 +39,10 @@ Building Apps with Microsoft Graph, on the 14th of April. The host of
 this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
 | \@vesajuvonen.  Q&A takes place in chat throughout the call
 
-
-**Actions:**
-
-
+## Actions
 
 -   Register for both:
+
     -   Register to watch the Microsoft Graph livestream with your
         community at:  <https://aka.ms/pnpwatchparty>
     -   RSVP to attend the 2-hour livestream -- Building Apps for with
@@ -165,7 +160,9 @@ Thank you for your work. Samples are often showcased in Demos.
     external systems -- Kathy (Qingyu) Xu (Pfizer) and [Paolo
     Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia -
     [43:43](https://youtu.be/BDkZqbL2YAk?t=2623)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -239,7 +236,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

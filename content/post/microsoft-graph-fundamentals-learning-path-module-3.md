@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-graph-fundamentals-learning-path-module-3/GraphFun-image.png
 tags: []
 type: "regular"
-
-
 ---
 
 This is already the third part of my little series on what it takes to
@@ -71,7 +69,7 @@ did in module 2 to insert tenant ID and application ID.
 
 ###  Now the new part
 
-1\. copy - paste two code snippets into the \`index.html\` file to
+1.  copy - paste two code snippets into the \`index.html\` file to
 create and style a button with an image element\
 2. add a function to the \`graph.js\` file to call Microsoft Graph API
 and retrieve the photo of the signed-in user\
@@ -95,8 +93,8 @@ Like in Module 2, open your terminal (I use the built-in PowerShell in
 Visual Studio Code) and type in \`npm start\`, which will open your
 browser with \`localhost:8080\`.
 
-\* Click on \*\*Sign in with Microsoft\*\*\
-\* Click the \`show profile picture\` button\
+\* Select  \*\*Sign in with Microsoft\*\*\
+\* Select the \`show profile picture\` button\
 \* see that profile pic? YAY - time for a happy dance- You made it!
 
 {{< image alt="tropy.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-3/tropy.png" >}}

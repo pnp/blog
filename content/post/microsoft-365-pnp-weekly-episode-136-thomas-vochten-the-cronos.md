@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-136-thomas-vochten-the-cronos/Thumb-Ep136.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="Thumb-Ep136.png" src="images/blog/microsoft-365-pnp-weekly-episode-136-thomas-vochten-the-cronos/Thumb-Ep136.png" >}}
 

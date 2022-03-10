@@ -8,16 +8,10 @@ images:
 - images/blog/microsoft-power-apps-community-call-september-2021/powerapps-recording.jpg
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="powerapps-recording.jpg" src="images/blog/microsoft-power-apps-community-call-september-2021/powerapps-recording.jpg" >}}
 
- 
-
-
-## Call Summary
+## Call summary
 
 
 Topics covered in this month's community call include demos in **Visio,
@@ -51,7 +45,7 @@ demand. 
 
  
 
-**Demos:**
+## Demos
 
 -   **D1:  Visio, Power BI Tiles, and Reports in Power Apps! --** how to
     combine capabilities in Visio, Power BI tiles/Reports and in Power
@@ -85,8 +79,9 @@ demand. 
 
 ** **
 
+## Actions
 
-**Actions:**
+
 
 
 

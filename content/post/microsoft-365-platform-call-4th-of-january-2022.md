@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-4th-of-january-2022/recording-4th-january.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-4th-january.png" src="images/blog/microsoft-365-platform-call-4th-of-january-2022/recording-4th-january.png" >}}
 
 Microsoft 365 Platform Community Call - weekly community call recording
 from January 4th, is now available from the Microsoft 365 Community
@@ -155,7 +151,9 @@ Thank you for your work. Samples are often showcased in Demos.
     Connections Quick View designs -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     \@vesajuvonen -- [45:21](https://youtu.be/kZ_JwZpbJb4?t=2721)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -261,7 +259,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

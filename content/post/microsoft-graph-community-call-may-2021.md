@@ -5,15 +5,11 @@ author: "Brian Jackett"
 githubname: briantjackett
 categories: ["Microsoft Graph community call recordings"]
 images:
-- images/blog/microsoft-graph-community-call-may-2021/BrianTJackett.png
+- images/blog/microsoft-graph-community-call-may-2021/TitleSlideThumbnail.png
 tags: []
 type: "regular"
-
-
 ---
-{{< image alt="TitleSlideThumbnail.png" src="images/blog/microsoft-graph-community-call-may-2021/TitleSlideThumbnail.png" >}}
 
- 
 
 This month's community call features presentations on Application
 Consent Deep Dive (demystifying permissions and consent when accessing
@@ -52,10 +48,11 @@ integration including Microsoft chat integration.       
 
 
 
-##   {#toc-hId--469670890}
 
 
-**Actions:**
+## Actions
+
+
 
 
 
@@ -67,9 +64,8 @@ integration including Microsoft chat integration.       
 -   Mark your calendar -- next Microsoft Graph community call is on June
     1 at 08:00am PDT - <https://aka.ms/microsoftgraphcall> 
 
-##   {#toc-hId-2017841943}
 
-**Resources:**
+## Resources
 
 From demos:
 
@@ -106,9 +102,7 @@ From Q&A
 -   Documentation - [user:
     findMeetingTimes](https://docs.microsoft.com/graph/api/user-findmeetingtimes) 
 
-##   {#toc-hId-210387480}
-
-**General Resources: **
+##   General Resources
 
 -   Suggestions -- <https://aka.ms/M365Dev-Suggestions>   
 -   Graph TAP Program - <https://aka.ms/GraphTAPForm>** **
@@ -128,9 +122,7 @@ From Q&A
     Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple)
     | <https://mgt.dev>
 
-##   {#toc-hId--1597066983}
-
-**Stay Connected:**
+##   Stay Connected
 
 -   See the full blog post for this call at
     - <https://aka.ms/m365pnp/community/blog>

@@ -8,11 +8,7 @@ images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-16th-of/recording-16th-december.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-16th-december.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-16th-of/recording-16th-december.png" >}}
 
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from December 16th is now available from the Microsoft 365
@@ -21,8 +17,8 @@ SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
 
+## Call summary
 
-## Call Summary
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
     call](https://aka.ms/m365-dev-call).  Next call on the 21st of
@@ -65,9 +61,7 @@ call.
 Great to see all of you today.  Happy Holidays.  Enjoy some down time
 from work and up time with family, friends, hobbies.
 
-
-**Actions:**
-
+## Actions
 
 -   Opt into PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
@@ -108,7 +102,7 @@ from work and up time with family, friends, hobbies.
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Building advanced Enterprise Search Center with PnP Search Web
     Parts v4 --** presenter highlights extensibility and customization
@@ -163,7 +157,7 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 Thank you for your great work.  Samples are often showcased in Demos. 
 
 
-**Agenda items:**
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -187,7 +181,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
     \@DavidWarnerII -- [11:52](https://youtu.be/9_GkAoOmBeI?t=712)
 
-**Demos:**
+## Demos
 
 -   **D1**:  Building advanced Enterprise Search Center with PnP Search
     Web Parts v4 -- [Franck Cornu](https://twitter.com/FranckCornu) |
@@ -201,7 +195,10 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Microsoft Viva Connections -- [Paolo
     Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | \@PaoloPia --
     [33:50](https://youtu.be/9_GkAoOmBeI?t=2030) 
-**Resources:**
+
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -264,8 +261,7 @@ slides.
     guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital
     Brochure) - aka.ms/modernworkbuildsessions
 
--   SharePoint Framework - v1.12.1 npm install
-    --g [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
+-   SharePoint Framework - v1.12.1 `npm install --g` [\@microsoft](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint\@next
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
@@ -350,7 +346,9 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

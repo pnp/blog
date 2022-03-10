@@ -8,8 +8,6 @@ images:
 - images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## User Profiles are an increasingly important part of a modern organisation
@@ -90,7 +88,7 @@ There are multiple 'ports of entry' to the profile update page:
 
 -   Delve *Me* page
     ([https://\<tenantName>-my.sharepoint.com/person.aspx](https://%3Ctenantname%3E-my.sharepoint.com/person.aspx))
--   Your account menu in Microsoft 365 (click your profile picture or
+-   Your account menu in Microsoft 365 (select your profile picture or
     initials)
 
 [{{< image alt="Account.png" src="images/blog/looking-at-things-in-profile/Account.png" >}}

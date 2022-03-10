@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-framework-community-call-1st-of-july-2021/PnP-Calls-TogetherMode-July1-LowerRes.gif
 tags: []
 type: "regular"
-
-
 ---
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
@@ -18,8 +16,7 @@ Community YouTube channel at <http://aka.ms/m365pnp-videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-
-## Call Summary
+## Call summary
 
 Summer break and community call schedule updates reviewed.  Register now
 for June trainings on
@@ -59,8 +56,9 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
 It appears fun is being had by all!  Great to see everyone.  Thanks for
 making this a great community.  
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -94,7 +92,7 @@ making this a great community.  
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Bringing your custom apps to Viva Connect mobile experience -**
     three graduating levels or views of information and customizability
@@ -140,8 +138,8 @@ making this a great community.  
     -** [Dipen Shah](http://twitter.com/Dips_365) | \@Dips_365
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-
-**Agenda items:**
+  
+## Agenda items
 
 -   PnPjs Client-Side Libraries - [Julie
     Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
@@ -162,7 +160,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [15:39](https://youtu.be/yGlkkdOp0U4?t=939)
 
-**Demos:**
+## Demos
 
 -   **Demo:**  Bringing your custom apps to Viva Connect mobile
     experience -- [Vardhaman Deshpande](http://twitter.com/vrdmn) (Valo
@@ -176,7 +174,9 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Lage](http://twitter.com/aaclage) (Datalynx AG) |
     [\@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803) --
     [44:26](https://youtu.be/yGlkkdOp0U4?t=2666)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -289,7 +289,8 @@ slides.
     capabilities
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

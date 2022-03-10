@@ -7,8 +7,6 @@ categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Prashant G Bhoyer sits down with Paul to answer questions about the AI

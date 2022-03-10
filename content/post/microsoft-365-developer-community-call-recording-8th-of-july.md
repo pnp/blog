@@ -8,14 +8,13 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-8th-of-july/8th-july-recording-m365dev.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="8th-july-recording-m365dev.png" src="images/blog/microsoft-365-developer-community-call-recording-8th-of-july/8th-july-recording-m365dev.png" >}}
 
 
 ## Call Summary
+
+
 
 
 Summer and Fall community call schedule updates reviewed. Preview the
@@ -48,7 +47,8 @@ One new Teams sample was delivered.  Great work!  The host of this call
 was Paolo Pialorsi (PiaSys.com) | \@paolopia   Q&A takes place in chat
 throughout the call.
 
-**Actions**
+## Actions
+
 -   **Register for Sharing is Caring Events**:
 
     -   First Time Contributor Session -- [August
@@ -146,7 +146,9 @@ Thank you for your work. Samples are often showcased in Demos.
     and Azure Key Vault - [Markus
     Moeller](http://twitter.com/Moeller2_0) (Avanade) | \@Moeller2_0 -
     [33:04](https://youtu.be/rOHSrG1n43Y?t=1984) 
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -240,7 +242,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

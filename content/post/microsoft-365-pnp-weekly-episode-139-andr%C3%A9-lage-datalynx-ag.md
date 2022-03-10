@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/Thumb-Ep139.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="Thumb-Ep139.png" src="images/blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/Thumb-Ep139.png" >}}
  
 
 In this installment of the weekly discussion revolving around the latest

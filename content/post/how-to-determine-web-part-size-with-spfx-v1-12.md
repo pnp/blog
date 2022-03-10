@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-determine-web-part-size-with-spfx-v1-12/web-part-width.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Context 
@@ -99,6 +97,7 @@ Final result of this demo web part:
 This a great add to SPFx and allows developers to re-render components
 when the web part is resized
 Happy coding everyone!
+
 
 ## Resources 
 

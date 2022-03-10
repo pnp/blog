@@ -8,11 +8,7 @@ images:
 - images/blog/adaptive-cards-community-call-march-2021/THumbnailTitleSlide.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="THumbnailTitleSlide.png" src="images/blog/adaptive-cards-community-call-march-2021/THumbnailTitleSlide.png" >}}
 
 
 In this month's community call, there is
@@ -54,6 +50,7 @@ adaptive card using auto invoke and synchronized refresh capabilities. 
      
 -   Schema Explorer - [Schema v1.4
     Docs](https://adaptivecards.io/explorer/Action.Execute.html)
+
 
 ## Resources in General
 

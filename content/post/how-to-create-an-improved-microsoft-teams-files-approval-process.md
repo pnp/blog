@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/2021-02-10_22-02-47.png
 tags: []
 type: "regular"
-
-
 ---
 
 We are all there during some days: Power Automate Premium is the key to
@@ -67,7 +65,7 @@ I suggest to start with
 Now that we have that householding taken care of we can finally create
 the Logic App.
 
-Navigate to your Resource Group and click on Add.
+Navigate to your Resource Group and select  Add.
 
 
 Add a Logic App. Use search to narrow the list down.
@@ -99,7 +97,7 @@ And now the UI starts to look very Power Automatish
 {{< image alt="image-61" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-61.png" >}}
  
 
-The difference is about available parameters. You need to click on Add
+The difference is about available parameters. You need to select  Add
 new parameter to open menu that is in this (and in many other actions)
 not visible unlike at Power Automate designer.
  
@@ -153,7 +151,7 @@ The FileID is missing. You need to do a bit trick here:
 -   Change parameter back to string
 
 {{< image alt="image-71" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-71.png" >}}
-And click on see more at Variable section in Dynamic content
+And select  see more at Variable section in Dynamic content
 {{< image alt="image-72" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-72.png" >}}
 Choose fileid. And yes! (don't forget to change the fileid parameter
 back to string)
@@ -191,7 +189,7 @@ Search for the action in Azure Logic Apps and add Create Item
 {{< image alt="image-78" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-78.png" >}}
  
 
-Now, we need to click on Add new parameter to add list columns to the
+Now, we need to select  Add new parameter to add list columns to the
 action.
 {{< image alt="image-79" src="images/blog/how-to-create-an-improved-microsoft-teams-files-approval-process/image-79.png" >}}
 Choosing Approver, FileID, and Outcome. I actually should have named

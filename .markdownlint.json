@@ -1,27 +1,29 @@
 {
-    "default": true,
-    "MD013": false,
     "MD003": {
         "style": "atx"
     },
     "MD007": {
         "indent": 4
     },
-    "no-hard-tabs": false,
-    "whitespace": false,
+    "MD013": false,
+    "MD024": false,
     "MD025": {
-        "level": 1,
-        "front_matter_title": "^\\s*title\\s*[:=]"
+        "front_matter_title": "^\\s*title\\s*[:=]",
+        "level": 1
     },
-    "MD041": {
-        "level": 1,
-        "front_matter_title": "^\\s*title\\s*[:=]"
-    },
-    "MD045": true,
-    "MD036": false,
+    "MD026": false,
     "MD029": {
         "style": "one_or_ordered"
     },
+    "MD035": false,
+    "MD036": false,
+    "MD041": {
+        "front_matter_title": "^\\s*title\\s*[:=]",
+        "level": 1
+    },
+    "MD045": true,
     "MD046": false,
-    "MD024": false
+    "default": true,
+    "no-hard-tabs": false,
+    "whitespace": false
 }

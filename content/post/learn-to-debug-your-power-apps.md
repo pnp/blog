@@ -10,8 +10,6 @@ tags: []
 type: "regular"
 ---
 
-{{< image alt="Start debugging your Power App" src="images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png" >}}
-
 ## Make troubleshooting and understanding single elements easier
 
 They exist. Those little moments that drive you crazy. Things simply
@@ -170,18 +168,18 @@ serious source of errors.
 
 I haven't used it for too long because nobody explained it to me. But
 this a so important to understand in order to learn what it needs for
-functions to work properly. If you click on functions you can get two
+functions to work properly. If you select  functions you can get two
 important views. The result view and the data type.
 
 By clicking on `Office365User` the formula bar shows you the original
 record with all elements.
 
-{{< image alt="If it's not showing at first, click on the little arrow next to the function." src="images/blog/learn-to-debug-your-power-apps/Picture6.png" >}}
+{{< image alt="If it's not showing at first, select  the little arrow next to the function." src="images/blog/learn-to-debug-your-power-apps/Picture6.png" >}}
 
 This way you can see, what kind of records are stored and what data you
 can work with.
 
-If you click on the next part of the function `DisplayName` Power Apps
+If you select  the next part of the function `DisplayName` Power Apps
 will show you what this function does AND what data type you get.
 
 That helps you understanding complex formulas (try it with a filter

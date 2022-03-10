@@ -8,8 +8,6 @@ images:
 - images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_1-1638227104052.png
 tags: []
 type: "regular"
-
-
 ---
 
 Often times we store videos in SharePoint and use the file viewer or the

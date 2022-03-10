@@ -8,12 +8,7 @@ images:
 - images/blog/microsoft-365-platform-call-30th-of-november-2021/recording-30th-nov-platform.png
 tags: []
 type: "regular"
-
-
 ---
-
-
-{{< image alt="recording-30th-nov-platform.png" src="images/blog/microsoft-365-platform-call-30th-of-november-2021/recording-30th-nov-platform.png" >}}
  
 
 Microsoft 365 Platform Community Call - weekly community call recording
@@ -22,7 +17,7 @@ YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
 
 
-**Call Summary**
+## Call summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   
@@ -67,8 +62,9 @@ place in chat throughout the call.   
 -   [What's New in Microsoft Teams | November
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-november-2021/ba-p/3015700)
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -144,7 +140,9 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **D3:**  Introduction to Microsoft Graph Go SDK -- [Vincent
     Biret](http://twitter.com/baywet) (Microsoft) | \@baywet --
     [28:56](https://youtu.be/nzPfDZFbvm0?t=1736)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -223,7 +221,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

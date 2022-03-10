@@ -8,17 +8,13 @@ images:
 - images/blog/microsoft-365-platform-call-21st-of-december-2021/recording-21st-dec.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-21st-dec.png" src="images/blog/microsoft-365-platform-call-21st-of-december-2021/recording-21st-dec.png" >}}
 [Microsoft 365 Platform Community Call - weekly community call recording
 from December 21st, is now available from the Microsoft 365 Community
 YouTube channel
 at][http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos)
 
-**Call Summary**
+## Call summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   
@@ -63,10 +59,7 @@ call.   
 
  
 
-
-**Actions:**
-
-
+## Actions
 
 -   Submit a [Sample
     request](https://github.com/pnp/sp-dev-fx-webparts/issues/new?assignees=&labels=type%3Asample-request%2CHelp+wanted+%F0%9F%AA%A7&template=samplerequest.yml)
@@ -219,7 +212,7 @@ forward to continuing sharing and caring with community in 2022.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

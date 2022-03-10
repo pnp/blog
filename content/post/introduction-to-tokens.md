@@ -8,8 +8,6 @@ images:
 - images/blog/introduction-to-tokens/01ed60e47ba84e66b302a6ef0e9035d2.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction 
@@ -100,10 +98,11 @@ also referred to as \"JWTs\" or JSON Web Tokens. This means that the
 token is formatted as a JSON object and then \"base64Url\" encoded and
 signed and with a bit of extra security (we'll cover this soon), the
 end result is what we have above.
-> For an introduction in to JSON, I highly recommend Bob German's
-> article [here](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369).
 
-### Decoding a token 
+> For an introduction in to JSON, I highly recommend [Bob German's
+> article](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369).
+
+### Decoding a token
 
 Taking the sample above and putting in in to [jwt.ms](https://jwt.ms),
 it is possible to decode from "base64url" back to human-readable JSON.

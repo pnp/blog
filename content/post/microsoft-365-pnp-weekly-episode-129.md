@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-129/pnp-weekly-129.png
 tags: []
 type: "regular"
-
-
 ---
 {{< image alt="pnp-weekly-129.png" src="images/blog/microsoft-365-pnp-weekly-episode-129/pnp-weekly-129.png" >}}
 In this instalment of the weekly discussion revolving around the latest

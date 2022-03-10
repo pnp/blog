@@ -18,10 +18,11 @@ an excel or word file on your OneDrive, try <http://excel.new> or
 <http://word.new>. 
  
 In the following post I will cover three ideas:
-1\. Splitting a workbook with many worksheets into unique workbooks
+
+1.  Splitting a workbook with many worksheets into unique workbooks
 containing one sheet
-2\. Creating a new excel file and populating it with data
-3\. Converting a CSV into an Excel File
+2.  Creating a new excel file and populating it with data
+3.  Converting a CSV into an Excel File
  
 ## Splitting a Workbook 
 
@@ -30,7 +31,7 @@ identify the number of worksheets in a workbook and delete the sheets
 that are no longer required.  I've written two basic scripts to do the
 following:
  
-1\. "GetSheetNames": retrieve a list of sheets and returns an array to
+1.  "GetSheetNames": retrieve a list of sheets and returns an array to
 PowerAutomate and;
  
  
@@ -45,7 +46,7 @@ function main(workbook: ExcelScript.Workbook) {
 ```
  
  
-2\. "DeleteSheets": delete the sheets from a workbook based on an
+2.  "DeleteSheets": delete the sheets from a workbook based on an
 array input, returning the number of sheets in the workbook (hopefully
 1!)
  
@@ -71,10 +72,11 @@ function main(workbook: ExcelScript.Workbook,
  
  
 This allows us to create a flow that will:
-1\. return an array of sheet names in our first office script action
-2\. create a copy of the original excel file with the sheet name
+
+1.  return an array of sheet names in our first office script action
+2.  create a copy of the original excel file with the sheet name
 prefixed to the file name
-3\. delete all but the unique sheet for each copy
+3.  delete all but the unique sheet for each copy
  
 This is what the flow looks like:
  
@@ -145,9 +147,10 @@ A compose action with the File Content copied into it.  
 
 
 By doing it this way, we achieve two things.
-1\. no need for the donor empty excel file, we can delete it and not
+
+1.  no need for the donor empty excel file, we can delete it and not
 have to worry about it being deleted accidentally
-2\. we can remove the get file content action and rely entirely on the
+2.  we can remove the get file content action and rely entirely on the
 compose action we have created
  
 By using the output of the compose action we can create a new file (in

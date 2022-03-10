@@ -5,15 +5,10 @@ author: "Brian Jackett"
 githubname: briantjackett
 categories: ["Microsoft Graph community call recordings"]
 images:
-- images/blog/microsoft-graph-community-call-june-2021/BrianTJackett.png
+- images/blog/microsoft-graph-community-call-june-2021/MicrosoftGraphTHumbnail-June2021.png
 tags: []
 type: "regular"
-
 ---
-
-
-![Microsoft Graph THumbnail - June
-2021.png](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/285511i65B8ACEEF6F49B52/image-size/large?v=v2&px=999 "Microsoft Graph THumbnail - June 2021.png")
  
 This month's community call features presentations on Assignment Graph
 API (v1.0 will be released to Microsoft Teams EDU tenants within days),
@@ -59,8 +54,9 @@ establishing the data pipeline connection between the Microsoft 365
 dataset and storage account.  Once the pipeline is setup, define source
 and sink, trigger the sync and use Power BI to display data insights.   
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -71,7 +67,8 @@ and sink, trigger the sync and use Power BI to display data insights.   
 
  
 
-**Resources:**
+
+## Resources
 
 From demos:
 
@@ -111,27 +108,27 @@ From demos:
 
 **Microsoft Build 2021 - Microsoft Graph session recordings**
 
-|||
-|--- |--- |
-|Breakouts||
-|BRK215|Empowering developers with powerful tooling and enabling frictionless app adoption|
-|BRK234|Build Zero Trust ready applications starting with the Microsoft identity platform|
-|BRK243|Build great discovery & collaboration apps for Microsoft 365 with new Microsoft Graph connector & Ad...|
-|BRK244|Three new ways to enrich your productivity apps with Microsoft Graph tools and data|
-|On Demand||
-|OD483|Getting started with Microsoft Graph Data Connect|
-|OD500|Build secure B2C applications​ with Azure AD External Identities|
-|OD531|Enlighten your Windows app with Microsoft Graph|
-|OD534|Integrate with Microsoft Teams data using Microsoft Graph|
-|Other||
-|STUDIO10|Build, integrate and accelerate Multi-cloud Compliance|
-|CON061|Develop apps with the Microsoft Graph Toolkit|
-|CON059|Application Authentication in the Microsoft Identity platform|
-|CON066|Integrate your app with Microsoft Teams using webhooks and connectors|
-|Round Tables||
-|CON-PRT148|Microsoft Graph Connectors|
-|CON-PRT149|Microsoft Graph Toolkit|
-|CON-PRT150|Microsoft Search for Developers|
+|              |                                                                                                         |
+| ------------ | ------------------------------------------------------------------------------------------------------- |
+| Breakouts    |                                                                                                         |
+| BRK215       | Empowering developers with powerful tooling and enabling frictionless app adoption                      |
+| BRK234       | Build Zero Trust ready applications starting with the Microsoft identity platform                       |
+| BRK243       | Build great discovery & collaboration apps for Microsoft 365 with new Microsoft Graph connector & Ad... |
+| BRK244       | Three new ways to enrich your productivity apps with Microsoft Graph tools and data                     |
+| On Demand    |                                                                                                         |
+| OD483        | Getting started with Microsoft Graph Data Connect                                                       |
+| OD500        | Build secure B2C applications​ with Azure AD External Identities                                        |
+| OD531        | Enlighten your Windows app with Microsoft Graph                                                         |
+| OD534        | Integrate with Microsoft Teams data using Microsoft Graph                                               |
+| Other        |                                                                                                         |
+| STUDIO10     | Build, integrate and accelerate Multi-cloud Compliance                                                  |
+| CON061       | Develop apps with the Microsoft Graph Toolkit                                                           |
+| CON059       | Application Authentication in the Microsoft Identity platform                                           |
+| CON066       | Integrate your app with Microsoft Teams using webhooks and connectors                                   |
+| Round Tables |                                                                                                         |
+| CON-PRT148   | Microsoft Graph Connectors                                                                              |
+| CON-PRT149   | Microsoft Graph Toolkit                                                                                 |
+| CON-PRT150   | Microsoft Search for Developers                                                                         |
 
 
 **General Resources:**

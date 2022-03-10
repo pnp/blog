@@ -8,15 +8,10 @@ images:
 - images/blog/microsoft-teams-community-call-may-2021/teams-18th-recording-promo.png
 tags: []
 type: "regular"
-
-
 ---
 
 
-{{< image alt="teams-18th-recording-promo.png" src="images/blog/microsoft-teams-community-call-may-2021/teams-18th-recording-promo.png" >}}
-
-
-**Call Summary**
+## Call summary
 
 Latest news from Microsoft engineering on Microsoft Teams updates and
 community assets.     
@@ -35,8 +30,9 @@ during this session.  The host of this call was [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 Q&A takes place in chat throughout the call.
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -140,7 +136,9 @@ Thank you for your work. Samples are often showcased in Demos.
 
  
 
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.

@@ -7,8 +7,6 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
 
 ## Use Cases
@@ -72,7 +70,7 @@ This command does the following:
 
 
 
-You can find more info about the command [here](https://pnp.github.io/powershell/cmdlets/Register-PnPAzureADApp.html).
+You can find more info about the command [Register-PnPAzureADAp](https://pnp.github.io/powershell/cmdlets/Register-PnPAzureADApp.html).
 
 
 ### Setup using CLI for Microsoft 365 
@@ -82,8 +80,8 @@ You can find more info about the command [here](https://pnp.github.io/po
 For now there's no option to: 
 
 
-- generate both a self-signed certificate and register an AAD Application using it, in a single command. Requested [here](https://github.com/pnp/cli-microsoft365/issues/2170)
-- admin consent permissions when registering an AAD Application. Requested [[here]](https://github.com/pnp/cli-microsoft365/issues/2563)
+- generate both a self-signed certificate and register an AAD Application using it, in a single command. Requested [in issue 2170](https://github.com/pnp/cli-microsoft365/issues/2170)
+- admin consent permissions when registering an AAD Application. Requested [in issue 2563](https://github.com/pnp/cli-microsoft365/issues/2563)
 
 #### Generate the self-signed certificate 
 

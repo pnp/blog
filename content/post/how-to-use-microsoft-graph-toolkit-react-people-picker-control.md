@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-use-microsoft-graph-toolkit-react-people-picker-control/Implementations.png
 tags: []
 type: "regular"
-
-
 ---
 
 ## Purpose 
@@ -26,7 +24,7 @@ and exports them as React components.
 All components are available via the npm package and are named using
 PascalCase. To use a component, first, import it at the top.
 For more details refer to
-[this](https://docs.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react).
+[use-toolkit-with-react](https://docs.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react).
 
 ## Implementation 
 
@@ -105,12 +103,13 @@ export interface IReactAzureadUsersState {
 
 Move to the **{webpartname}.ts** file. Here we will get the graph client
 and context and then we will pass it to the property,
-1\. Import required packages like **MSGraphClient**, **Providers**, and
+
+1.  Import required packages like **MSGraphClient**, **Providers**, and
 **SharePointProvider**.
 
-2\. In **OnInit()**, get context and graph client.
+2.  In **OnInit()**, get context and graph client.
 
-3\. In **render()**, pass properties so we can use them in our
+3.  In **render()**, pass properties so we can use them in our
 component.
  
 
@@ -199,15 +198,16 @@ export default class ReactAzureadUsersWebPart extends BaseClientSideWebPart<IRea
  
 
 Now move to the **{webpartname}.tsx** file.
-1\. Setup the graph context
 
-2\. Create a method to get the Azure group Id by group name and set it
+1.  Setup the graph context
+
+2.  Create a method to get the Azure group Id by group name and set it
 into the state.
 
-3\. Then get group members using by group id and then set it into the
+3.  Then get group members using by group id and then set it into the
 state so we can render it.
 
-4\. Now render it in PeoplePicker control, so here in People property,
+4.  Now render it in PeoplePicker control, so here in People property,
 we have to pass members.
  
 
@@ -312,10 +312,11 @@ export default class ReactAzureadUsers extends React.Component<IReactAzureadUser
 {{< image alt="react-ad-mgt-users.gif" src="images/blog/how-to-use-microsoft-graph-toolkit-react-people-picker-control/react-ad-mgt-users.gif" >}}
  
 
-Find the full source
-code [here](https://github.com/chandaniprajapati/mgt-react-people-pickcer).  
+Find the [full source
+code](https://github.com/chandaniprajapati/mgt-react-people-pickcer).  
 
-## Summary 
+## Summary
+
 In this article, we have seen how to bind AD users in people picker
 using the MS graph toolkit react library.
 

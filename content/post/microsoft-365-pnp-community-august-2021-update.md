@@ -9,8 +9,6 @@ images:
 tags: []
 type: "regular"
 ---
-
-{{< image alt="pnp-aug-2021-release.png" src="images/blog/microsoft-365-pnp-community-august-2021-update/pnp-aug-2021-release.png" >}}
 Microsoft 365 Patterns and Practices (PnP) Community August 2021 update
 is out with a summary of the latest guidance, samples, and solutions
 from Microsoft or from the community for the community. This article is
@@ -972,7 +970,7 @@ involved!
     fluent and easily usable interface for querying data from SharePoint
     sites. It's a replacement of already deprecated pnp-js-core
     library. See
-    [changelog](https://github.com/pnp/pnpjs/blob/dev/CHANGELOG.md) for
+    [changelog](https://github.com/pnp/pnpjs/blob/main/CHANGELOG.md) for
     the latest updates.
 -   **PnP Provisioning Engine and PnP CSOM Core** - PnP provisioning
     engine is part of the PnP CSOM extension. They encapsulate complex

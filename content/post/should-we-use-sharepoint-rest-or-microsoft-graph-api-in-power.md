@@ -8,11 +8,7 @@ images:
 - images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/hello-i-m-nik-n1ccr-zVG68-unsplash.jpg
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="hello-i-m-nik-n1ccr-zVG68-unsplash.jpg" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/hello-i-m-nik-n1ccr-zVG68-unsplash.jpg" >}}
 
 When working with Microsoft 365, we see many overlapping tools and
 features, and we will need (to provide) much guidance around 'when to
@@ -74,7 +70,6 @@ Now how do we do this in Power Automate without writing much code?
 To make things easier, I will use the mobile flow trigger with three
 text inputs:
 
- {#tinyMceEditorLuise Freese_0 .mceNonEditable .lia-copypaste-placeholder}
  
 
 
@@ -199,7 +194,7 @@ will create us a column:
 {{< image alt="sendhttprequest2.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/sendhttprequest2.png" >}}
 
 Should you stumble upon the FieldTypeKind, please find
-reference [here](https://docs.microsoft.com/previous-versions/office/sharepoint-csom/ee540543(v=office.15)) -
+reference here:  [FieldTypeKind](https://docs.microsoft.com/previous-versions/office/sharepoint-csom/ee540543(v=office.15)) -
 2 means 'single line of text'.
 
 If you want to run your flow, please think about changing the list name
@@ -246,7 +241,7 @@ another 'send an HTTP request to SharePoint' action:
 -   to add the new column to our default view, we need 3 HTTP requests -
     which makes the flow unnecessarily more complex
 
-### }Option No. 2: Microsoft Graph API 
+### Option No. 2: Microsoft Graph API 
 
 Let's see how we can create a SharePoint list or library and columns in
 it using Microsoft Graph. Microsoft Graph is a super powerful set of
@@ -254,7 +249,7 @@ APIs that gives you a consistent experience for authentication,
 documentation, and samples. You can try it out on [Microsoft Graph
 Explorer](https://developer.microsoft.com/graph/graph-explorer).
 For full documentation please
-continue here: [Microsoft Graph Docs]](https://docs.microsoft.com/graph/overview). If you
+continue here: [Microsoft Graph Docs](https://docs.microsoft.com/graph/overview). If you
 are not familiar with using Microsoft Graph in Power Automate, [please
 continue to read
 here](https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/)
@@ -263,7 +258,7 @@ time for another coffee for me then :)
 #### mobile flow trigger 
 
 Again, to make things easy, we will use the same trigger as in Option
-No. 1.:
+No. 1.
 
 
 {{< image alt="mobileflowtrigger.png" src="images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/mobileflowtrigger.png" >}}
@@ -288,8 +283,8 @@ AD.
 We will follow these steps to register an app in Azure AD:
 
 -   Go to portal.azure.com and log in
--   Click app registrations
--   Click New App registration
+-   Select app registrations
+-   Select New App registration
 -   Give your app a nice name
 -   Save tenant ID and Client(app) ID somewhere (notepad or similar)
 -   Click **API PERMISSIONS** and select Microsoft Graph
@@ -421,7 +416,7 @@ PowerShell inside Visual Studio Code Terminal).
 ### Login 
 
 -   Run `m365 login`
--   Copy the Login Code, click on the link
+-   Copy the Login Code, select  the link
 -   Paste the Login Code
 -   Select the user you want to log in with from the list
 -   Return to your shell window

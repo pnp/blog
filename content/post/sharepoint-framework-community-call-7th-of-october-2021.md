@@ -8,11 +8,7 @@ images:
 - images/blog/sharepoint-framework-community-call-7th-of-october-2021/agenda-7th-oct.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="agenda-7th-oct.png" src="images/blog/sharepoint-framework-community-call-7th-of-october-2021/agenda-7th-oct.png" >}}
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
 call recording from October 7th is now available from the Microsoft 365
@@ -20,8 +16,7 @@ Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-
-## Call Summary
+## Call summary
 
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
 community call](https://aka.ms/m365-dev-call).  Topics for the call on
@@ -61,9 +56,7 @@ call.
 Not an empty seat in the house.  Nice seeing everyone on the call. 
 Please join again soon.
 
-
-**Actions:**
-
+## Actions
 
 -   Register today for Hacktoberfest 2021 --
     <https://hacktoberfest.digitalocean.com>
@@ -103,7 +96,7 @@ Please join again soon.
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Create new Team using Viva Connections ACEs components from the
     Dashboard** -- overview of ACEs (Adaptive Card Extensions) -
@@ -179,8 +172,8 @@ Please join again soon.
     [Anoop](http://twitter.com/anooptells) | \@anooptells
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-
-**Agenda items:**
+  
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -201,7 +194,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
     \@DavidWarnerII -- [16:45](https://youtu.be/Yh76J4aRVUQ?t=1005) 
 
-**Demos:**
+## Demos
 
 -   **D1**:  Create new Team using Viva Connections ACEs components from
     the Dashboard -- ​ [Dipen Shah](http://twitter.com/Dips_365) (Rapid
@@ -216,7 +209,9 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **D3**:  SPFx Design Patterns -- Asynchronous Rendering -- [Hugo
     Bernier](http://twitter.com/bernierh) (Microsoft) |
     \@bernierh [--][ [42:07](https://youtu.be/Yh76J4aRVUQ?t=2527)]
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -377,7 +372,8 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

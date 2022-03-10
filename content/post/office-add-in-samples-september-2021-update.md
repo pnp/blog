@@ -9,8 +9,6 @@ images:
 - images/blog/office-add-in-samples-september-2021-update/DavidChesnut_0-1632174402426.png
 tags: []
 type: "regular"
-
-
 ---
 
 The Office Add-ins developer platform team has new updates to share this

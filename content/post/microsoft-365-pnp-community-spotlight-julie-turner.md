@@ -8,29 +8,26 @@ images:
 - images/blog/microsoft-365-pnp-community-spotlight-julie-turner/julieturner.jpg
 tags: []
 type: "regular"
-
-
----# Microsoft 365 PnP Community Spotlight: Julie Turner
-
-{{< image alt="julieturner.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-julie-turner/julieturner.jpg" >}}
+---
 
 
 ## Which community project do you maintain? 
 
  PnPjs; Microsoft 365 learning pathways 
 
- ## How does it help people?  
+## How does it help people?  
 
 PnPjs: 
 PnPjs is a collection of fluent libraries for consuming SharePoint, Graph, and Office 365 REST APIs in a type-safe way. You can use it within SharePoint Framework, Nodejs, or any JavaScript project. 
  
 Microsoft 365 Learning Pathways: 
-Provides a framework to administer and surface in any site collection learning content from 
+Provides a framework to administer and surface in any site collection learning content from
+
 - Microsoft content curated into playlists by Microsoft's documentation team 
 - Custom content you build on your own in SharePoint and surface as playlists 
 - Content curated by third parties that you include as content packs 
 
- ## What have you been working on lately? 
+## What have you been working on lately? 
 
  PnPjs: Planning V3 of the library. 
 Microsoft 365 learning pathways: We've recently brought the code base for the web parts to open source and a content update for Microsoft's playlists was updated for Q1 - 2021. 
@@ -45,7 +42,7 @@ Microsoft 365 learning pathways: We've recently brought the code base for the we
 
 ## What was you first community contribution? 
 
-In sp-dev-solutions the Multilingual Pages solution: https://github.com/pnp/sp-dev-solutions/tree/master/solutions/MultilingualPages/SPFxExt 
+In sp-dev-solutions the Multilingual Pages solution: `https://github.com/pnp/sp-dev-solutions/tree/master/solutions/MultilingualPages/SPFxExt`
 
 
 ## One tip for someone who’d like to start contributing 

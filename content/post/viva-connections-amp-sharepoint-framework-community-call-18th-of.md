@@ -8,11 +8,7 @@ images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-18th-of/recording-18th-nov.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-18th-nov.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-18th-of/recording-18th-nov.png" >}}
 
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from November 18th is now available from the Microsoft 365
@@ -20,8 +16,7 @@ Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-
-## Call Summary
+## Call summary
 
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
@@ -66,9 +61,7 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems)
 Great to see all of you today - humans and ghosts.  Possibly some will
 meet in Düsseldorf or in Las Vegas later this year.     
 
-**Actions:**
-
-
+## Actions
 
 -   Opt in to PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
@@ -104,7 +97,7 @@ meet in Düsseldorf or in Las Vegas later this year.     
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **SPFx Extension for Copying and Moving List Items --** this
     application customizer displays a command button named *Copy/Move
@@ -132,11 +125,15 @@ meet in Düsseldorf or in Las Vegas later this year.     
     list that's rendered using React controls.  Search, sort and group
     by app, type and expiration date.  
 
-**SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
+## SPFx extension samples
+
+<https://aka.ms/spfx-extensions>
 
 -   **missing you! **
 
-**SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
+## SPFx web part samples
+
+<https://aka.ms/spfx-webparts>
 
 -   [**Teams Graph Upload as
     PDF**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-graph-upload-as-pdf) -
@@ -154,7 +151,7 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 Thank you for your great work.  Samples are often showcased in Demos. 
 
 
-**Agenda items:**
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -178,7 +175,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
     \@DavidWarnerII -- [16:02](https://youtu.be/s7uWd2NeLNE?t=962)
 
-**Demos:**
+## Demos
 
 -   **D1:**  SPFx Extension for Copying and Moving List Items --
     [Sudharsan Kesavanarayanan](http://twitter.com/sudharsank) (NTT
@@ -196,7 +193,10 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Thomas](http://twitter.com/aimery_thomas)[ (Avanade) |
     [\@aimery_thomas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/925977)][ --
     [44:01](https://youtu.be/s7uWd2NeLNE?t=2641)]
-**Resources:**
+
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -231,7 +231,7 @@ slides.
     Expirations](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/use-power-automate-to-notify-of-upcoming-azure-ad-app-client/ba-p/2406145)
 
 -   **D3:** LinkedIn -- [Aimery
-    Thomas](https://www.linkedin.com/in/aimery-thomas-17418187/)
+    Thomas](https://www.linkedin.com/in/aimery-thomas-17418187/ )
 
 -   **PnP Weekly -- Episode 143** (November 15th) with Nairobi,
     Kenya-based Program Manager at Microsoft - [Roina
@@ -348,7 +348,9 @@ slides.
 
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
-**Other mentioned topics:**
+
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

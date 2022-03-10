@@ -8,14 +8,9 @@ images:
 - images/blog/power-apps-community-call-april-2021/Thumbnail - Power Apps Community Call - April 2021.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="Thumbnail - Power Apps Community Call - April 2021.png" src="images/blog/power-apps-community-call-april-2021/Thumbnail - Power Apps Community Call - April 2021.png" >}}
-
-
-## Call Summary
+## Call summary
 
 
 Topics covered in this month's community call include
@@ -82,8 +77,9 @@ viewing it on demand. 
     <https://aka.ms/PowerAppsDemoExtravaganza>
 
 
+## Actions
 
-**Actions:**
+
 
 
 

@@ -8,11 +8,7 @@ images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-13th-of/recording-13th-jan.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-13th-jan.png" src="images/blog/viva-connections-amp-sharepoint-framework-community-call-13th-of/recording-13th-jan.png" >}}
 
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from January 13th is now available from the Microsoft 365
@@ -20,8 +16,7 @@ Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
-
-## Call Summary
+## Call summary
 
 
 -   Tune in each Tuesday for the [Microsoft 365 platform community
@@ -72,8 +67,7 @@ throughout the call.
 Thank you for joining the call today and/or for viewing the recording. 
 Awesome to see many of you on the screen.
 
-**Actions:**
-
+## Actions
 
 -   Opt into PnP Recognition Program
     | <https://aka.ms/m365pnp-recognition>
@@ -115,7 +109,7 @@ Awesome to see many of you on the screen.
     -- <https://aka.ms/spdev-spfx-call>
 
 
-**Demos:**
+## Demos
 
 -   **Building Emoji Rating Web Part with SharePoint Framework --** a
     simple way for employees to give feedback on internal communications
@@ -195,8 +189,8 @@ Awesome to see many of you on the screen.
 
 \* To be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
-
-**Agenda items:**
+  
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -221,7 +215,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     \@DavidWarnerII -- [15:47](https://youtu.be/iMbQyxdPcSU?t=947)
 
 
-**Demos:**
+## Demos
 
 -   **Demo 1**:  Building Emoji Rating Web Part with SharePoint
     Framework -- [Siddharth Vaghasia](http://twitter.com/siddh_me) |
@@ -235,8 +229,10 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **Demo 3**:  SharePoint Framework Design Patterns -- Custom Web Part
     Properties (Part 3) -- [Hugo Bernier](http://twitter.com/bernierh)
     (Microsoft) |
-    \@bernierh [--][ [43:52](https://youtu.be/iMbQyxdPcSU?t=2632)]
-**Resources:**
+    \@bernierh [--][ [43:52](https://youtu.be/iMbQyxdPcSU?t=2632)][ ]
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -370,7 +366,8 @@ slides.
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
 
-**Other mentioned topics:**
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

@@ -8,8 +8,6 @@ images:
 - images/blog/sharepoint-community-call-april-13th-2021/15th-april-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 The SharePoint community monthly call is our general monthly review of
@@ -19,8 +17,7 @@ community recognition for Developers, IT Pros and Makers.  This monthly
 community call happens on the second Tuesday of each month. You can
 download recurrent invite from <https://aka.ms/sp-call>.
 
-
-## Call Summary
+## Call summary
 
 
 Visit the new [Microsoft 365 PnP Community
@@ -54,9 +51,7 @@ licensing.  Familiar extensible platform that will include mobile this
 summer.   Create Viva Connections app package in PowerShell, upload
 package to Teams Admin Center.    
 
-
-**Actions:**
-
+## Actions
 
 -   Register for livestream and for a regional watch party:
     -   Register to watch the Microsoft Graph livestream on April 14
@@ -123,7 +118,8 @@ SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found
     at [OneDrive](https://1drv.ms/p/s!AlposW7ozA_90j5EJfwLne2Eji8W?e=lDmhoH).
 
-**Resources:**
+
+## Resources
 
 Additional resources on covered topics and discussions.
 

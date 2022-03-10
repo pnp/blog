@@ -8,8 +8,6 @@ images:
 - images/blog/global-navigation-in-modern-sharepoint-using-spfx-pnp-and-fluent/GN3.jpg
 tags: []
 type: "regular"
-
-
 ---
 
 ## Introduction 

@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-01-new-page-1024x412.png
 tags: []
 type: "regular"
-
-
 ---
 
 After [deploying PnP Modern Search to your

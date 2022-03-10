@@ -7,14 +7,9 @@ images:
 - images/blog/microsoft-identity-platform-community-call-june-2021/ViewPorter.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="IDArchitecture.png" src="images/blog/microsoft-identity-platform-community-call-june-2021/IDArchitecture.png" >}}
-
-
-## Call Summary
+## Call summary
 
 
 This month's in-depth topic:  **Increase the resilience of
@@ -32,7 +27,8 @@ Managers [Harish Suresh](http://twitter.com/harish_suresh) |
 throughout call
 
 
-**Resources:**
+
+## Resources
 
 
 -   Documentation - [Increase resilience of authentication and
@@ -78,7 +74,9 @@ throughout call
 
 
 
-**Actions:**
+## Actions
+
+
 
 
 

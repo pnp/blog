@@ -7,8 +7,6 @@ categories: ["Microsoft 365 developer podcast"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 Jeremy and Paul talk with Brian T. Jackett about the Graph Connectors

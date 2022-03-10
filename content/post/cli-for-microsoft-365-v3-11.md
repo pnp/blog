@@ -8,11 +8,7 @@ images:
 - images/blog/cli-for-microsoft-365-v3-11/banner-cli-m365.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="CLI for Microsoft 365 v3.11" src="images/blog/cli-for-microsoft-365-v3-11/banner-cli-m365.png" >}}
  
 [Manage Microsoft 365 and SharePoint Framework projects on any
 platform]
@@ -114,6 +110,7 @@ command to enable you to return a Power App by its name making it much
 more user friendly.
  
 To retrieve details of a Power App by its name, execute:
+
 ```bash
 m365 pa app get --displayName App
 ```

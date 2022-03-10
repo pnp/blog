@@ -8,11 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-community-spotlight-mikael-svenson/mikaelsvenson.jpg
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="mikaelsvenson.jpg" src="images/blog/microsoft-365-pnp-community-spotlight-mikael-svenson/mikaelsvenson.jpg" >}}
 
 ## Which community project do you maintain? 
 

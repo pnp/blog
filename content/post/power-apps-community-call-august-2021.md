@@ -8,15 +8,9 @@ images:
 
 tags: []
 type: "regular"
-
-
 ---
 
-
-{{< image alt="powerapps-community-call-18th-aug.png" src="images/blog/power-apps-community-call-august-2021/powerapps-community-call-18th-aug.png" >}}
-
-
-## Call Summary
+## Call summary
 
 
 Topics covered in this month's community call include demos in
@@ -54,7 +48,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 
 
 
-**Demos:**
+## Demos
 
 -   **Performance Insights** -- a new Power Apps self-service tool for
     enterprise app makers that analyzes runtime user data and delivers a
@@ -98,7 +92,9 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 
 
 
-**Actions:**
+## Actions
+
+
 
 
 

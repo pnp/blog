@@ -2,20 +2,18 @@
 title: "TipOfTheDay - Easy Track changes in dataverse table via dataverse API"
 date: 2021-10-05T03:07:00-04:00
 author: "Valeras Narbutas"
-githubname: Valeras Narbutas
+githubname: ValerasNarbutas
 categories: ["Dataverse"]
 images:
 - images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418328122.png
 tags: []
 type: "regular"
-
-
 ---
 
 Note: I am using [PostMan](https://www.postman.com/downloads/) in my
 example. 
 
-1\. First  - use "GET" http request  to get details of dataverse table
+1.  First  - use "GET" http request  to get details of dataverse table
 "**Accounts**": 
  
 
@@ -33,15 +31,16 @@ environment API.*
 {{< image alt="ValerasNarbutas_0-1633418328122.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418328122.png" >}}
 
 1. Now add a new header in postman call:
+   
 ``` {.lia-code-sample .language-markup}
 "Prefer odata.track-changes"
 ```
+
  http request call will return additional information:\
 **deltalink** with **deltatoken** in body area (image 2)\
 
 {{< image alt="ValerasNarbutas_0-1633418806793.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_0-1633418806793.png" >}}
-
-3\. Use delta token in as GET request (image 3 )
+2.  Use delta token in as GET request (image 3 )
 
 {{< image alt="ValerasNarbutas_1-1633418877623.png" src="images/blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ValerasNarbutas_1-1633418877623.png" >}}
 
@@ -67,4 +66,3 @@ Hope this is useful :) have a great day
 [#dataverseAPI](https://web.yammer.com/main/search/threads?search=%23dataverseAPI)
 [#tip](https://web.yammer.com/main/search/threads?search=%23tip)
 [#postman ](https://web.yammer.com/main/search/threads?search=%23postman)[#tipoftheday](https://web.yammer.com/main/search/threads?search=%23postman)
-

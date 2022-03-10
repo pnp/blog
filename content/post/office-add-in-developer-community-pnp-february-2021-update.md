@@ -9,8 +9,6 @@ images:
 - images/blog/office-add-in-developer-community-pnp-february-2021-update/create-custom-contextual-tabs-on-the-ribbon.png
 tags: []
 type: "regular"
-
-
 ---
 The Office Add-ins developer platform team has new updates to share this
 month on Office Add-ins Patterns and Practices. PnP is a community

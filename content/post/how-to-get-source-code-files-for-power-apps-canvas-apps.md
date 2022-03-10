@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-get-source-code-files-for-power-apps-canvas-apps/PASopa-folder.png
 tags: []
 type: "regular"
-
-
 ---
 
 This post will guide you through the process of how to use the Power

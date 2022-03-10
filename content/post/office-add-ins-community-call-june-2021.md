@@ -9,14 +9,11 @@ images:
 - images/blog/office-add-ins-community-call-june-2021/office-add-ins-call-recording-9th-june.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="office-add-ins-call-recording-9th-june.png" src="images/blog/office-add-ins-community-call-june-2021/office-add-ins-call-recording-9th-june.png" >}}
 
+## Call summary
 
-## Call Summary
 
 
 This month's community call features presentations - Excel v1.13 API

@@ -8,16 +8,14 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-10th-of-june/m365-general-10th-june-recording.png
 tags: []
 type: "regular"
-
-
 ---
-
 
 Recording of the Microsoft 365 -- General M365 development Special
 Interest Group (SIG) community call from June 10, 2021.
-{{< image alt="m365-general-10th-june-recording.png" src="images/blog/microsoft-365-developer-community-call-recording-10th-of-june/m365-general-10th-june-recording.png" >}}
 
-## Call Summary
+
+## Call summary
+
 
 
 Summer break and community call schedule updates reviewed. You are
@@ -165,8 +163,11 @@ Thank you for your work. Samples are often showcased in Demos.
 
 -   **Demo: ** Getting started on using Time Clock Microsoft Graph APIs
     to clock in and out of a shift -- Aarthi Kumar
-    (Microsoft) [-][ [41:20](https://youtu.be/qOgH82b5Jw4?t=2480)][](https://youtu.be/qOgH82b5Jw4?t=2480)
-**Resources:**
+    (Microsoft) [-][ [41:20](https://youtu.be/qOgH82b5Jw4?t=2480)][[ ]](https://youtu.be/qOgH82b5Jw4?t=2480)
+
+
+## Resources
+
 
 Additional resources around the covered topics and links from the
 slides.
@@ -256,7 +257,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

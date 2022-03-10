@@ -8,17 +8,13 @@ images:
 - images/blog/microsoft-365-platform-call-26th-of-october-2021/recording-26th-oct.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-26th-oct.png" src="images/blog/microsoft-365-platform-call-26th-of-october-2021/recording-26th-oct.png" >}}
 Microsoft 365 Platform Community Call - weekly community call recording
 from October 26th, is now available from the Microsoft 365 Community
 YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
 
-**Call Summary**
+## Call summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   
@@ -70,8 +66,9 @@ call   
 -   [Use end-to-end encryption for one-to-one Microsoft Teams
     calls](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/use-end-to-end-encryption-for-one-to-one-microsoft-teams-calls/ba-p/2867066)
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -154,7 +151,9 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo 2:**  Progressive Web Apps and Beyond: Supercharging OneDrive
     & SharePoint web apps -- Andrey Esipov (Microsoft) --
     [33:03](https://youtu.be/SHjjmNa1EPw?t=1983)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -231,7 +230,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

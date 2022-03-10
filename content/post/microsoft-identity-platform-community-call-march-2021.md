@@ -7,12 +7,9 @@ images:
 - images/blog/microsoft-identity-platform-community-call-march-2021/ViewPorter.png
 tags: []
 type: "regular"
-
-
 ---
 
-
-## Call Summary
+## Call summary
 
 
 In this session - Microsoft Identity platform for developers, Microsoft
@@ -50,7 +47,8 @@ include: 
 
  
 
-**Resources:**
+
+## Resources
 
 -   [Deck](https://www.slideshare.net/OfficeDev/microsoft-identity-platform-dos-and-dont)
 -   Documentation - Migrate applications to the Microsoft Authentication
@@ -74,7 +72,9 @@ include: 
 
 
 
-**Actions:**
+## Actions
+
+
 
 
 

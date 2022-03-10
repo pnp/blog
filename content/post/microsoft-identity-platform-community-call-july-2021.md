@@ -7,17 +7,11 @@ images:
 - images/blog/microsoft-identity-platform-community-call-july-2021/ViewPorter.png
 tags: []
 type: "regular"
-
-
 ---
 
 
-{{< image alt="SessionGraphic.png" src="images/blog/microsoft-identity-platform-community-call-july-2021/SessionGraphic.png" >}}
 
-
-
-
-## Call Summary
+## Call summary
 
 
 This month's in-depth topic:  **From zero to hero with Microsoft Graph
@@ -33,7 +27,8 @@ by Microsoft Program Managers Christer Ljung and Rohit Gulati and was
 recorded on July 15, 2021.  Live and in-chat Q&A throughout call. 
 
 
-**Resources:**
+
+## Resources
 
 -   Documentation -- [Microsoft Graph](https://graph.microsoft.com/) |
     <https://graph.microsoft.com/>
@@ -44,8 +39,9 @@ recorded on July 15, 2021.  Live and in-chat Q&A throughout call. 
     resources.
 
 
+## Actions
 
-**Actions:**
+
 
 
 

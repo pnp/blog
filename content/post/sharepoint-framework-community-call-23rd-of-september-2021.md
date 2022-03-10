@@ -8,11 +8,7 @@ images:
 - images/blog/sharepoint-framework-community-call-23rd-of-september-2021/recording-23rd-sep.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="recording-23rd-sep.png" src="images/blog/sharepoint-framework-community-call-23rd-of-september-2021/recording-23rd-sep.png" >}}
  
 
 SharePoint Framework Special Interest Group (SIG) bi-weekly community
@@ -21,8 +17,7 @@ call recording from September 23rd is now available from the Microsoft
 use SharePoint Framework for building solutions for **Microsoft
 Teams** and for **SharePoint** Online.
 
-
-## Call Summary
+## Call summary
 
 
 A reminder to tune in each Tuesday for the new [Microsoft 365 platform
@@ -59,7 +54,9 @@ throughout this call.
 Picture time is back!  Great to see all of you today.  Looking forward
 to seeing some of you in Düsseldorf or Las Vegas later this year. 
 
-**Actions:**
+## Actions
+
+
 
 
 
@@ -98,7 +95,7 @@ to seeing some of you in Düsseldorf or Las Vegas later this year. 
 -   Download the recurrent invite for this call
     -- <https://aka.ms/spdev-spfx-call>
 
-**Demos:**
+## Demos
 
 -   **Apply a custom theme or a variation of the current SharePoint
     theme directly to the web part** -- see the 3 ways to change shading
@@ -151,8 +148,8 @@ to seeing some of you in Düsseldorf or Las Vegas later this year. 
     Collins](https://github.com/ReactIntern) | <https://github.com/ReactIntern>
 
 Thank you for your great work.  Samples are often showcased in Demos. 
-
-**Agenda items:**
+  
+## Agenda items
 
 -   SharePoint Framework - [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -173,7 +170,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     \@bernierh -- [11:53](https://youtu.be/5dUg6n6JQ7c?t=713)
 
-**Demos:**
+## Demos
 
 -   **D1:  **Apply a custom theme or a variation of the current
     SharePoint theme directly to the web part -- [Fabio
@@ -189,7 +186,9 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     events web part build -- [Chandani
     Prajapati](http://twitter.com/Chandani_SPD) | \@Chandani_SPD --
     [35:38](https://youtu.be/5dUg6n6JQ7c?t=2138)
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -335,7 +334,8 @@ slides.
 -   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
     feature requests
 
-**Other mentioned topics:**
+
+## Other topics mentioned
 
 -   [SharePoint dev
     documentation](https://docs.microsoft.com/sharepoint/dev/)

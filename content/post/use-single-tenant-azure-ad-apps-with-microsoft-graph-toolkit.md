@@ -8,11 +8,7 @@ images:
 - images/blog/use-single-tenant-azure-ad-apps-with-microsoft-graph-toolkit/banner-mgt-login-single-tenant-azure-ad.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="banner-mgt-login-single-tenant-azure-ad.png" src="images/blog/use-single-tenant-azure-ad-apps-with-microsoft-graph-toolkit/banner-mgt-login-single-tenant-azure-ad.png" >}}
 When using Microsoft Graph Toolkit with Azure AD single-tenant Azure AD
 apps, you need to adjust MSAL Provider initiation for your app to work.
 Here is how.

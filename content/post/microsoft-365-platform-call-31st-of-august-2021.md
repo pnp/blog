@@ -8,8 +8,6 @@ images:
 - images/blog/microsoft-365-platform-call-31st-of-august-2021/210831-together-mode.gif
 tags: []
 type: "regular"
-
-
 ---
 
 Microsoft 365 Platform Community Call - weekly community call recording
@@ -18,7 +16,7 @@ YouTube channel at <http://aka.ms/m365pnp-videos>.
 
  
 
-**Call Summary**
+## Call summary
 
 Welcome to the first in a new series of weekly calls focused on
 capabilities of the all up Microsoft 365 platform.   You are encouraged
@@ -53,8 +51,9 @@ call.
 
  
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -143,7 +142,9 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  Getting started with Microsoft Teams UI Library -- Will
     Shown (Microsoft) -- [42:11](https://youtu.be/OPiBhBf-9PU?t=2531)
 
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -223,7 +224,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)

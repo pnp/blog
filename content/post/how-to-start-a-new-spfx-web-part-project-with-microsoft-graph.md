@@ -8,8 +8,6 @@ images:
 - images/blog/how-to-start-a-new-spfx-web-part-project-with-microsoft-graph/mgt-react-result-2.png
 tags: []
 type: "regular"
-
-
 ---
 
 **Context**

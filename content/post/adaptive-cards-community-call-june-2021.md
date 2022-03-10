@@ -11,9 +11,6 @@ type: "regular"
 ---
 
 
-{{< image alt="g" src="images/blog/adaptive-cards-community-call-june-2021/Adaptive Cards Thumb_June 2021.png" >}}
-
-
 After a quick wrap up on Microsoft Build '21 from an Adaptive Cards
 perspective, this call's primary focus is on Microsoft Viva
 Connections Extensibility with Adaptive Cards. 

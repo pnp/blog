@@ -8,11 +8,7 @@ images:
 - images/blog/adaptive-cards-community-call-september-2021/900x506-AC-SeptemberThumb.png
 tags: []
 type: "regular"
-
-
 ---
-
-{{< image alt="900x506-AC-SeptemberThumb.png" src="images/blog/adaptive-cards-community-call-september-2021/900x506-AC-SeptemberThumb.png" >}}
 
 The following topics are covered in this month's community call: 
 
@@ -50,6 +46,7 @@ was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) |
     Templating](https://docs.microsoft.com/adaptive-cards/templating/) 
 -   Documentation -- [Adaptive Cards
     Partners](https://docs.microsoft.com/adaptive-cards/resources/partners) 
+
 
 ## Resources in General
 

@@ -7,8 +7,6 @@ categories: ["Microsoft 365 community spotlight"]
 images: []
 tags: []
 type: "regular"
-
-
 ---
 
 ## Which community project do you maintain? 

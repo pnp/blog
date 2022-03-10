@@ -8,15 +8,15 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-2nd-of/recording-2nd-september-call.png
 tags: []
 type: "regular"
-
-
 ---
 
-{{< image alt="recording-2nd-september-call.png" src="images/blog/microsoft-365-developer-community-call-recording-2nd-of/recording-2nd-september-call.png" >}}
 
 
 
-## Call Summary
+
+## Call summary
+
+
 
 
 Welcome back from summer holiday!  Have a look at Microsoft 365 tenant
@@ -47,8 +47,9 @@ this call was [David Warner II](http://twitter.com/DavidWarnerII)
 (Catapult Systems) \@DavidWarnerII.   Q&A takes place in chat throughout
 the call.
 
+## Actions
 
-**Actions:**
+
 
 
 
@@ -188,7 +189,9 @@ Thank you for your work. Samples are often showcased in Demos.
     [troystaylor](https://github.com/troystaylor) -
     [45:46](https://youtu.be/qsr-OspeYug?t=2746)]
 
-**Resources:**
+
+
+## Resources
 
 Additional resources around the covered topics and links from the
 slides.
@@ -281,7 +284,7 @@ slides.
     Need to become a Tenant Admin to test look book capabilities? Get a
     Microsoft 365 E5 developer subscription (free tenant for 90 days)
 -   [SharePoint Provisioning
-    Service ](https://provisioning.sharepointpnp.com/)- Easily provision
+    Service ](https://lookbook.microsoft.com/)- Easily provision
     look book designs to any tenant in the world
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
