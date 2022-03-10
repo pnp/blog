@@ -11,7 +11,9 @@ type: "regular"
 ---
 
 
-## Call summary
+
+## Call Summary
+
 
 
 
@@ -45,10 +47,9 @@ One new Teams sample was delivered.  Great work!  The host of this call
 was Paolo Pialorsi (PiaSys.com) | \@paolopia   Q&A takes place in chat
 throughout the call.
 
-**Actions**
+## Actions
 
 -   **Register for Sharing is Caring Events**:
-
 
     -   First Time Contributor Session -- [August
         31st](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUREZVRDVYUUJLT1VNRDM4SjhGMlpUNzBORy4u)

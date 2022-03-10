@@ -58,6 +58,8 @@ a blog post, and the solution to your customer's needs.  
 
 
 
+
+
 -   Opt in to PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
 -   Register for Sharing is Caring Events:

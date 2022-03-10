@@ -9,7 +9,7 @@ images:
 tags: []
 type: "regular"
 ---
-{{< image alt="oct-monthly-summary-promo.png" src="images/blog/microsoft-365-pnp-community-october-2021-update/oct-monthly-summary-promo.png" >}}
+
 Microsoft 365 Patterns and Practices (PnP) Community October 2021 update
 is out with a summary of the latest guidance, samples, and solutions
 from Microsoft or from the community for the community. This article is
@@ -2082,7 +2082,6 @@ driving adoption of Microsoft 365  topics. They have shown their
 commitment to the open-source and community-driven work by constantly
 contributing to the benefit of the others in the community.
 Thank you for all that you do!
-
 -   Albert-Jan Schot (BLIS Digital) -
     [\@appieschot](https://twitter.com/appieschot)
 -   Andrew Connell

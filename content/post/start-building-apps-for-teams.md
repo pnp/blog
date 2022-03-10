@@ -36,7 +36,6 @@ building apps. On Teams you can build:
 If you have an existing web or mobile app, you can also bring
 information from Teams into your app.
 
-
 ## Resources for getting started with building apps for Teams 
 
 Sounds interesting? Here are some resources to help you get started

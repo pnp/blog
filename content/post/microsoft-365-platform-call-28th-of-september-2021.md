@@ -17,7 +17,7 @@ at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
 
 
 
-**Call Summary**
+## Call summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   New to Microsoft 365 Platform development?  You are
@@ -46,6 +46,8 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
     available!](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-public-preview-is-now-available/ba-p/2768541)
 
 ## Actions
+
+
 
 
 -   Register for Microsoft Ignite (Digital event) - November 2-4,

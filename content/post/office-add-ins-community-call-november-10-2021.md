@@ -18,6 +18,7 @@ type: "regular"
 
 
 
+
 This month's community call features a customer presentation -
 **CodeTwo Outlook Add-in for email signature management** - (email
 signature manager designed for Microsoft 365) Michał Królewicz -

@@ -150,7 +150,7 @@ Thank you for your work. Samples are often showcased in Demos.
 -   **Demo:**  Advanced tricks for form formatting and customization --
     [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
     \@theChrisKent [-
-    [43:22](https://youtu.be/pg1M9AuTaO4?t=2602)][ ]
+    [43:22](https://youtu.be/pg1M9AuTaO4?t=2602)
 
 
 

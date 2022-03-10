@@ -10,13 +10,7 @@ tags: []
 type: "regular"
 ---
 
-## Call summary
-
-
-Topics covered in this month's community call includes 2 demos:
- 
 - **Building Xbox games with Power Apps** -- (create an Xbox controller
-ready app) - [Brian Dang](http://twitter.com/mrdang) (Microsoft) and
 
 - **Office like commenting & co-authoring** (add commenting capability and
 Experimental co-authoring with git integration, to a canvas app**)** -
@@ -84,6 +78,8 @@ demand. 
 
 
 ## Actions
+
+
 
 
 

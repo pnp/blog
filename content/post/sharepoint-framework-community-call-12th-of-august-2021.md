@@ -53,6 +53,8 @@ colorful clothing.   Great to see you.     
 
 
 
+
+
 -   Add to your calendar - **Microsoft 365 platform
     call ** | <https://aka.ms/m365-dev-call>  (Weekly call starting
     31st of August)

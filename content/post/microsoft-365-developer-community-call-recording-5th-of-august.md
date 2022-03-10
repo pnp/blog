@@ -50,6 +50,8 @@ Consulting) | \@jfj1997.   Q&A takes place in chat throughout the call.
 
 
 
+
+
 -   Opt in to PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
 -   Register for Sharing is Caring Events:

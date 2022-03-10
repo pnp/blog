@@ -54,6 +54,8 @@ integration including Microsoft chat integration.       
 
 
 
+
+
 -   Interested in Presenting during this call?   Contact
     <Brian.Jackett@microsoft.com> or <Jeremy.Thake@microsoft.com>
 -   [Register for Microsoft
@@ -61,8 +63,6 @@ integration including Microsoft chat integration.       
     -- 27, 2021.   <https://mybuild.microsoft.com/>  
 -   Mark your calendar -- next Microsoft Graph community call is on June
     1 at 08:00am PDT - <https://aka.ms/microsoftgraphcall> 
-
-##   {#toc-hId-2017841943}
 
 
 ## Resources
@@ -102,9 +102,7 @@ From Q&A
 -   Documentation - [user:
     findMeetingTimes](https://docs.microsoft.com/graph/api/user-findmeetingtimes) 
 
-##   {#toc-hId-210387480}
-
-**General Resources: **
+##   General Resources
 
 -   Suggestions -- <https://aka.ms/M365Dev-Suggestions>   
 -   Graph TAP Program - <https://aka.ms/GraphTAPForm>** **
@@ -124,9 +122,7 @@ From Q&A
     Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple)
     | <https://mgt.dev>
 
-##   {#toc-hId--1597066983}
-
-**Stay Connected:**
+##   Stay Connected
 
 -   See the full blog post for this call at
     - <https://aka.ms/m365pnp/community/blog>

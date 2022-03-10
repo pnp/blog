@@ -68,6 +68,8 @@ March 17, 2021.  Thank for attending the call or viewing it on demand. 
 
 
 
+
+
 -   Entries Start May for Demo Extravaganza 2021
     - <https://aka.ms/PowerAppsDemoExtravaganza>
 -   Microsoft Office 365 Developer Survey -

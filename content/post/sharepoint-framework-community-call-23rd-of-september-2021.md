@@ -58,6 +58,8 @@ to seeing some of you in Düsseldorf or Las Vegas later this year. 
 
 
 
+
+
 -   Register for Microsoft Ignite (Digital event) - November 2-4, 2021-
     <https://ignite.microsoft.com>
 -   Opt in to PnP Recognition Program

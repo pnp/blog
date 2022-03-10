@@ -6,7 +6,7 @@ The [Microsoft 365 Community](https://aka.ms/m365pnp) is the virtual home for ev
 
 ## What can you expect here?
 
-This blog is part of the Microsoft 365 community and complements our existing initiatives, such as our [open-source projects](https://github.com/pnp) and [Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/), where we explain how the different features of Microsoft 365 work and offer guidance on how to use them.
+This blog is part of the Microsoft 365 community and complements our existing initiatives, such as our [open-source projects](https://github.com/pnp) and [Community Docs](https://docs.microsoft.com/microsoft-365/community/), where we explain how the different features of Microsoft 365 work and offer guidance on how to use them.
 
 You can find community-authored blog posts alongside with Community Call recordings and Podcasts here.
 

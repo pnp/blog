@@ -11,9 +11,6 @@ tags: []
 type: "regular"
 ---
 
-## {{< image alt="office-add-ins-Thumb Jan 2022.png" src="images/blog/office-add-ins-community-call-january-12-2022/office-add-ins-Thumb Jan 2022.png" >}}
-
-
 
 ## Call summary
 

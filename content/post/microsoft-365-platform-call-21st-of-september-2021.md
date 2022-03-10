@@ -18,7 +18,7 @@ from September 21st, is now available from the Microsoft 365 Community
 YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
 
-**Call Summary**
+## Call summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   New to Microsoft 365 Platform development?  You are
@@ -53,6 +53,8 @@ takes place in chat throughout the call.
 
 
 ## Actions
+
+
 
 
 

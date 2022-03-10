@@ -14,7 +14,7 @@ from December 21st, is now available from the Microsoft 365 Community
 YouTube channel
 at][http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos)
 
-**Call Summary**
+## Call summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   

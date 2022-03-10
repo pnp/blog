@@ -94,6 +94,8 @@ or viewing it on demand. 
 
 
 
+
+
 -   Join us for our next call: August 18, 2021 at 08:00am PDT |
     <https://aka.ms/powerappscommunitycall>
 

@@ -16,7 +16,7 @@ YouTube channel
 at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos)
 
 
-**Call Summary**
+## Call summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   
@@ -63,6 +63,8 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
     endpoint](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-bookings-apis-now-available-on-the-v1-endpoint/)
 
 ## Actions
+
+
 
 
 

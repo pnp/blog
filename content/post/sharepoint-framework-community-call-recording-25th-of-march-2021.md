@@ -46,6 +46,8 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 
 
 
+
+
 -   RSVP to attend - 2-hour livestream -- Building Apps for with
     Microsoft Graph -- 2 sessions -- 2:00pm AEST and 8:30am PDT |
     <https://aka.ms/learntogether-graph>

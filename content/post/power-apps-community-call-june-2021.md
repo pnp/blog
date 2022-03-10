@@ -76,6 +76,8 @@ or viewing it on demand. 
 
 
 
+
+
 -   [View and Vote on Demo Extravaganza
     entries](https://powerusers.microsoft.com/t5/Demo-Extravaganza-2021/con-p/Demo_Extravaganza_2021/tab/entries) 
 -   Last chance to submit entries for Demo Extravaganza 2021 |

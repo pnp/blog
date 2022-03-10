@@ -82,6 +82,8 @@ Q&A throughout call. 
 
 
 
+
+
 -   Submit your feedback and topic suggestions
     - <https://aka.ms/IDDevCommunityCallSurvey> 
 -   Mark your calendar.  The next Identity Platform Community Call is on

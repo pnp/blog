@@ -12,7 +12,8 @@ type: "regular"
 
 
 
-**Call Summary**
+
+## Call summary
 
 Latest news from Microsoft engineering on Microsoft Teams updates and
 community assets.
@@ -37,6 +38,8 @@ Portal](https://aka.ms/teams-dev-docs).   The host of this call was
 \@vesajuvonen.  Q&A takes place in chat throughout the call
 
 ## Actions
+
+
 
 
 

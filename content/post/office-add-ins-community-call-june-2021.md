@@ -132,7 +132,6 @@ You can also run [manifest
 validation](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest)
 which can provide more information about the error.
 
-
 ## Resources
 
 ### Excel API updates 

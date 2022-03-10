@@ -90,7 +90,7 @@ Pathways] ](https://docs.microsoft.com/office365/customlearning/custom_provision
 ### Step 1: Fork the Learning Pathways Repo
 
 Navigate
-to [https://github.com/pnp/custom-learning-office-365](https://github.com/pnp/custom-learning-office-365)[ and select **Fork ** in
+to [https://github.com/pnp/custom-learning-office-365](https://github.com/pnp/custom-learning-office-365)[ and select **Fork** in
 the upper-right hand of the page. This will create an identical copy of
 the Learning Pathways content in your own repository allowing you to
 make customizations to the information architecture through editing the

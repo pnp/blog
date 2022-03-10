@@ -50,6 +50,8 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 
 
 
+
+
 -   Opt into PnP Recognition Program |
     <https://aka.ms/m365pnp-recognition>
 -   Join us at the next** Microsoft 365 platform call 14th of December

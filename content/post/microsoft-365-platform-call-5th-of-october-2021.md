@@ -21,6 +21,7 @@ at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos).
 
 
 
+
 Welcome to the weekly call focused on capabilities of the Microsoft 365
 platform.   New to Microsoft 365 Platform development?  You are
 encouraged to register at [Microsoft 365 Developer

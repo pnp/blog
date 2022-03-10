@@ -108,7 +108,6 @@ A recommended approach to write to a CSV file is to [write to files
 using Microsoft Graph and
 OneDrive](https://docs.microsoft.com/graph/api/resources/onedrive?view=graph-rest-1.0).
 
-
 ## Resources 
 
 ### Outlook shared mailbox 

@@ -12,7 +12,8 @@ type: "regular"
 
 
 
-**Call Summary**
+
+## Call summary
 
 Updated [Viva Connections public developer
 preview](https://aka.ms/viva/connections/developer/preview)!  Have a
@@ -51,6 +52,8 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 ## Actions
+
+
 
 
 -   Register today for Hacktoberfest 2021

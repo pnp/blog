@@ -58,6 +58,8 @@ and sink, trigger the sync and use Power BI to display data insights.   
 
 
 
+
+
 -   Interested in Presenting during this call?  
     Contact <Brian.Jackett@microsoft.com> or <Jeremy.Thake@microsoft.com>
 -   Mark your calendar -- next Microsoft Graph community call is on July

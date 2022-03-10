@@ -70,7 +70,6 @@ Now how do we do this in Power Automate without writing much code?
 To make things easier, I will use the mobile flow trigger with three
 text inputs:
 
- {#tinyMceEditorLuise Freese_0 .mceNonEditable .lia-copypaste-placeholder}
  
 
 

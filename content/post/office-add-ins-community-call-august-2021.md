@@ -15,7 +15,6 @@ type: "regular"
 ## Call summary
 
 
-
 This month's community call features presentations - **Dialog API
 security updates** (recent changes to dialog API that address a security
 vulnerability requires action from you IF your add-in uses cross-domain
@@ -269,7 +268,6 @@ for mobile on the road map?**
 
 This is on our backlog but we don't yet have an ETA for when this could
 be available.
-
 
 ## Resources
 

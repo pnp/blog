@@ -57,6 +57,8 @@ things happen. You are absolutely awesome!
 
 
 
+
+
 -   Reserve date - SharePoint Monthly community call -- 11th of May 8
     AM PDT | <https://aka.ms/sp-call>
 -   Register for Sharing is Caring Events:

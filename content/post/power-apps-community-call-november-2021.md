@@ -81,6 +81,8 @@ attending the call or viewing it on demand. 
 
 
 
+
+
 -   Groups - [Public Preview for User
     Groups](https://community.powerbi.com/t5/Power-BI-User-Groups/ct-p/pbi_usergroups) 
 -   Join us for our next call: December 15, 2021 at 08:00am PST

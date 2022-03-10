@@ -11,7 +11,7 @@ type: "regular"
 ---
 
 
-**Call Summary**
+## Call summary
 
 Latest news from Microsoft engineering on Microsoft Teams updates and
 community assets.     
@@ -31,6 +31,8 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | \@vesajuvonen.
 Q&A takes place in chat throughout the call.
 
 ## Actions
+
+
 
 
 

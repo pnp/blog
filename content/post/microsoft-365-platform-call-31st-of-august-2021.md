@@ -16,7 +16,7 @@ YouTube channel at <http://aka.ms/m365pnp-videos>.
 
  
 
-**Call Summary**
+## Call summary
 
 Welcome to the first in a new series of weekly calls focused on
 capabilities of the all up Microsoft 365 platform.   You are encouraged
@@ -52,6 +52,8 @@ call.
  
 
 ## Actions
+
+
 
 
 

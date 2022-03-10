@@ -60,6 +60,8 @@ making this a great community.  
 
 
 
+
+
 -   Join on the Viva Connections private preview!
     | [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
 -   Register for Sharing is Caring Events:

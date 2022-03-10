@@ -120,6 +120,8 @@ Now let's see an implementation.
   **Id**           Select eDrive word file ID
   ---------------- ------------------------------
 
+{{< image alt="ChandaniPrajapati_3-1636864760614.png" src="images/blog/how-to-convert-word-document-to-pdf-in-sharepoint-document/ChandaniPrajapati_3-1636864760614.png" >}}
+
 ### Delete PDF file from OneDrive 
 
 - Action:  Delete a file for OneDrive for business
@@ -128,6 +130,7 @@ Now let's see an implementation.
   **Properties**   **Value**
   **Id**           Select eDrive PDF file ID
   ---------------- -----------------------------
+
 
 
 ## Output 

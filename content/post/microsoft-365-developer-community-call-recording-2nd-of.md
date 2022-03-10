@@ -12,7 +12,10 @@ type: "regular"
 
 
 
+
+
 ## Call summary
+
 
 
 
@@ -45,6 +48,8 @@ this call was [David Warner II](http://twitter.com/DavidWarnerII)
 the call.
 
 ## Actions
+
+
 
 
 

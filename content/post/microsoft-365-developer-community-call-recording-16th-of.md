@@ -11,7 +11,9 @@ type: "regular"
 ---
 
 
-## Call summary
+
+## Call Summary
+
 
 
 
@@ -47,6 +49,8 @@ There were 3 new script samples this week.  The host of this call was
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 ## Actions
+
+
 
 
 

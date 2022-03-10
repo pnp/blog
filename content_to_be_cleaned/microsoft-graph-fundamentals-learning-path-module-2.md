@@ -14,7 +14,7 @@ type: "regular"
 
 Welcome back to my series about the [Microsoft Graph Fundamentals
 learning
-path](https://docs.microsoft.com/en-us/learn/paths/m365-msgraph-fundamentals/) on
+path](https://docs.microsoft.com/learn/paths/m365-msgraph-fundamentals/) on
 Microsoft Learn. This is part 2; if you did not read [part
 1](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-1/) yet,
 this is your chance to catch up! I will stay here and wait for you with
@@ -30,7 +30,7 @@ create an app that can access email, chats, files, meetings. To
 authenticate users, Microsoft 365 uses Microsoft Identity, and we will
 need to use Microsoft Identity and Microsoft Graph to get the data we
 want to display in our app by using [Microsoft Authentication
-Library(MSAL)](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview).
+Library(MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview).
 
 Wait, what? Don't worry if you did not completely understand this. We
 will do this step-by-step.
@@ -65,7 +65,7 @@ profile of the signed-in user) or *User.Read.All* lets you read the
 profiles of all users present in this directory. Of course, you will
 want only to allow scopes that are necessary for the application. You
 can look up scopes for each request in the [official
-documentation](https://docs.microsoft.com/en-us/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0) and
+documentation](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0) and
 also learn about them while trying out requests in [Graph
 Explorer](https://aka.ms/ge).
 
@@ -114,7 +114,7 @@ application before:
 
 Let's now
 
-## }Retrieve an access token using MSAL
+## Retrieve an access token using MSAL
 
 MSAL will make Token interaction more effortless for you because we can
 acquire tokens from the identity platform to authenticate users and
@@ -142,7 +142,7 @@ Congratz! - you made it!
 
 {{< image alt="GraphFun-didit2.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFun-didit2.png" >}}
 
-Conclusion
+## Conclusion
 
 I loved this module - even if I already knew how to register
 applications and what Microsoft Graph does - it clarified the

@@ -43,6 +43,8 @@ recorded on July 15, 2021.  Live and in-chat Q&A throughout call. 
 
 
 
+
+
 -   Let us know how we're doing and suggest topics for future calls,
     please complete this
     survey <https://aka.ms/IDDevCommunityCallSurvey>

@@ -100,7 +100,6 @@ Thanks for this request! We're looking into supporting this. Can you
 please create a request for this on our [ideas
 page](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform/label-name/office%20add-ins%20development)?
 
-
 ## Resources
 
 ### Keyboard shortcuts 

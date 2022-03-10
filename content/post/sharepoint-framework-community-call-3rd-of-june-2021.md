@@ -56,6 +56,8 @@ things happen. You are absolutely awesome!
 
 
 
+
+
 -   Join on the Viva Connections private preview! |
     [aka.ms/viva/connections/preview/register](https://aka.ms/viva/connections/preview/register)
 -   Feedback wanted:  Regarding PnP PowerShell -- "What if we did not

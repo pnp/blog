@@ -72,6 +72,8 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
 
 
 
+
+
 -   Enter now for Demo Extravaganza 2021 |
     <https://aka.ms/PowerAppsDemoExtravaganza>
 -   Spanish Bizz Summit -- June 4 -- 5, <https://bizzsummit.es/>

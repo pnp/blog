@@ -12,7 +12,9 @@ type: "regular"
 
 
 
+
 ## Call summary
+
 
 
 
@@ -51,6 +53,8 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 \@DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 ## Actions
+
+
 
 
 

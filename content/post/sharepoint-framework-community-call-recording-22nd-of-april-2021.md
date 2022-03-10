@@ -53,6 +53,8 @@ Truly unique like this Community!
 
 
 
+
+
 -   Complete the Microsoft 365 Developer Community Survey --
     <https://aka.ms/m365pnp/survey>
 -   Reserve date - SharePoint Monthly community call - 13th of April 8

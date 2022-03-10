@@ -23,7 +23,7 @@ something you can push to external users and allow them to request
 access.
 
 By using the Graph API via a Custom Connector, Microsoft Forms and Power
-Automate, we are able to realise this quickly and save a lot of time and
+Automate, we are able to realize this quickly and save a lot of time and
 effort in the manual process.
 
 Also, I have been lucky to have this solution accepted as part of the

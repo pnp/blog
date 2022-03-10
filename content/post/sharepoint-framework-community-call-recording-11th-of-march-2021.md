@@ -41,6 +41,8 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 
 
 
+
+
 -   Register for [Sharing is Caring
     Events](https://aka.ms/sharing-is-caring)
     -   First Time Contributor Session -- [March
