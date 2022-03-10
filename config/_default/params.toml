@@ -48,21 +48,21 @@ preloader = "" # use jpg, png, svg or gif format.
 # background shapes
 [background_shapes]
 enable = false
-# this image will be used as banner background
-banner_bg_image = "images/backgrounds/banner-bg.svg"
-# this image will be used as header background
-header_bg_image = "images/backgrounds/header-bg.svg"
-# this image will be used as wave background
-wave_bg_image = "images/backgrounds/wave-bg.svg"
-# this image will be used as footer background
-footer_bg_image = "images/backgrounds/footer-bg.svg"
+# # this image will be used as banner background
+# banner_bg_image = "images/backgrounds/banner-bg.svg"
+# # this image will be used as header background
+# header_bg_image = "images/backgrounds/header-bg.svg"
+# # this image will be used as wave background
+# wave_bg_image = "images/backgrounds/wave-bg.svg"
+# # this image will be used as footer background
+# footer_bg_image = "images/backgrounds/footer-bg.svg"
 
 # Subscription
 [subscription]
 enable = false
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+# mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+# mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # Instagram feed
 [instafeed]
@@ -107,7 +107,7 @@ link = "https://www.linkedin.com/company/m365pnp"
 [[social]]
 name = "github"
 icon = "fab fa-github" # Fontawesome Icons : https://fontawesome.com/icons
-link = "https://github.com/PnP"
+link = "https://github.com/pnp"
 
 [[social]]
 name = "youtube"

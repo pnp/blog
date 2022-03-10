@@ -4,7 +4,8 @@ date: 2022-01-18T05:05:00-05:00
 author: "Lee Ford"
 githubname: LeeFord
 categories: ["Microsoft Teams"]
-images: []
+images:
+- images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149174368-58562d12-5554-4625-a902-0df103e00cff.png
 tags: []
 type: "regular"
 ---
@@ -27,15 +28,17 @@ Instead, let's use **Webhooks** to achieve this.
 
 ## The idea 
 
-Before we begin, let's fictionalise a use case. The idea is that users
+Before we begin, let's fictionalize a use case. The idea is that users
 need to quickly be able to check the current and forecasted for any
 location from within a Team.
 
-![image](https://user-images.githubusercontent.com/472320/149214689-3bf95faa-11dc-466d-999d-731f41c6d8f3.png)
+{{< image alt="Image" src="images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149214689-3bf95faa-11dc-466d-999d-731f41c6d8f3.png" >}}
+
 
 ## The solution
 
-![image](https://user-images.githubusercontent.com/472320/149226058-e5b23a26-ab06-4197-a93e-0343ee3fbbf6.png)
+{{< image alt="Overview of the solution" src="images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149226058-e5b23a26-ab06-4197-a93e-0343ee3fbbf6.png" >}}
+
 
 The solution is a Webhook in Teams and a Bot (surprised?). This works as
 follows:
@@ -95,7 +98,7 @@ found here:
 
 You are free to use the linked code as a basis for your own idea, or
 create your own code in your choice of programming language. The basic
-construct of a bot behaviour needs to be as follows:
+construct of a bot behavior needs to be as follows:
 
 1.  Authenticate request (using a token from Teams)
 2.  Get weather information from API
@@ -115,11 +118,11 @@ The setup of this solution comprises of two parts:
 A Azure Function HTTP Trigger hosting the code is created. The URL of
 the trigger needs to be copied for the next step
 
-![image](https://user-images.githubusercontent.com/472320/149174368-58562d12-5554-4625-a902-0df103e00cff.png)
+{{< image alt="Overview of the solution" src="images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149174368-58562d12-5554-4625-a902-0df103e00cff.png" >}}
 
 > Disregard the trailing question mark and any other text past this
 
-### Teams Webhook}
+### Teams Webhook
 
 To add an Outgoing Webhook, the following is done:
 
@@ -127,15 +130,16 @@ To add an Outgoing Webhook, the following is done:
 
 2.  Select the ellipsis (\...) on the Team and choose **Manage team**
 
-    ![image](https://user-images.githubusercontent.com/472320/149214507-8e0f6fac-4fc7-4901-b121-4cdab13d7aae.png)
+    {{< image alt="Manage teams" src="images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149214507-8e0f6fac-4fc7-4901-b121-4cdab13d7aae.png" >}}
+
 
 3.  Under the **Apps** tab, at the bottom right of the page, there will
     be an option to **Create an outgoing webhook**
+    
+    {{< image alt="Manage teams" src="images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149138950-b86db5c1-cef7-4334-bd3e-c52f90a49e75.png" >}}
 
-![image](https://user-images.githubusercontent.com/472320/149138950-b86db5c1-cef7-4334-bd3e-c52f90a49e75.png)
-
-Provide the following:
-
+    Provide the following:
+    
     -   **Name**: A short name that will be used to @ mention the
         Webhook. Keep it to one word if you can e.g. *Weather*
 
@@ -148,13 +152,13 @@ Provide the following:
 
     -   **Icon**: Image that will appear next to the Webhook
 
-        ![image](https://user-images.githubusercontent.com/472320/149214338-c8217ed4-bdb9-468d-be26-ccac553a735f.png)
+        {{< image alt="Parameters to provide" src="images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149214338-c8217ed4-bdb9-468d-be26-ccac553a735f.png" >}}
 
 1.  Once the Webhook is created, take a note of the **Security token**
     of the Webhook as it will only be shown once and will be required
     for authentication to the bot
 
-    ![image](https://user-images.githubusercontent.com/472320/149213977-50ff69b7-cb4a-44fb-bfc6-277e8214a605.png)
+    {{< image alt="Parameters to provide" src="images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149213977-50ff69b7-cb4a-44fb-bfc6-277e8214a605.png" >}}
 
 ### Configure Bot
 
@@ -168,7 +172,7 @@ Azure Function:
 -   **WeatherAPIKey**: The **API key** to grant access to the
     OpenWeatherMap API
 
-![image](https://user-images.githubusercontent.com/472320/149180772-e8942bd0-217d-4ee9-b734-9f1910ad2535.png)
+{{< image alt="Configure the bot" src="images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149180772-e8942bd0-217d-4ee9-b734-9f1910ad2535.png" >}}
 
 > To simplify this example, I have stored these in application settings.
 > In a production environment, please ensure this is held somewhere more
@@ -180,4 +184,5 @@ Azure Function:
 With everything in place, all that is left is to try it! Simply mention
 the Webhook and enter a location, and the weather is returned!
 
-![demo](https://user-images.githubusercontent.com/472320/149221643-96f50590-dd93-4616-83f5-98ff9d219a4b.gif)
+{{< image alt="Configure the bot" src="images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149221643-96f50590-dd93-4616-83f5-98ff9d219a4b.gif" >}}
+

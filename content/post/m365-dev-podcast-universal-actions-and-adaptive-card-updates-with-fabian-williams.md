@@ -6,7 +6,8 @@ author: Paul Schaeflein
 githubname: pschaeflein
 categories:
   - Microsoft 365 developer podcast
-images: []
+images: 
+  - images/blog/m365-dev-podcast/m365podcast_artwork_copy.jpg
 tags: []
 type: regular
 ---
@@ -15,7 +16,7 @@ Fabian Williams joins Jeremy and Paul to talk about Universal Actions and update
 
 Listen to the show here:  [Universal Actions and Adaptive Card Updates with Fabian Williams (m365devpodcast.com)](https://www.m365devpodcast.com/e/universal-actions-and-adaptive-card-updates-with-fabian-williams/)
 
-## Links from the show:
+## Links from the show
 
 *   [bot-sequential-flow-adaptive-cards](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/bot-sequential-flow-adaptive-cards)
 *   [Teams Catering Bot](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/bot-teams-catering/csharp)

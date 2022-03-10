@@ -1,3 +1,9 @@
 languageCode = 'en-us'
 baseURL = "https://pnp.github.io/community-blog"
 title = "Microsoft 365 Community Blog"
+
+[frontmatter]
+date = ['date', 'publishDate', 'lastmod']
+expiryDate = ['expiryDate']
+lastmod = [':git', 'lastmod', 'date', 'publishDate']
+publishDate = ['publishDate', 'date']

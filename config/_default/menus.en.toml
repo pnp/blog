@@ -122,11 +122,11 @@
 
 # footer menu
 [[footer]]
-name = "Privacy Policy"
-URL = "privacy-policy/"
+name = "Privacy"
+URL = "https://privacy.microsoft.com/privacystatement"
 weight = 1
 
 [[footer]]
-name = "Terms Conditions"
-URL = "terms-conditions/"
+name = "Terms of use"
+URL = "https://www.microsoft.com/legal/terms-of-use"
 weight = 2
