@@ -5,7 +5,7 @@ author: "Django Lohn"
 githubname: m3ngi3
 categories: ["Power Apps", "Tooling"]
 images:
-
+- images/blog/power-apps-source-code-edit-for-canvas-apps-in-visual-studio/PowerApps_VisualStudio_PowerPlatform_Extension.png
 tags: []
 type: "regular"
 ---

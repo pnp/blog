@@ -5,7 +5,7 @@ author: "Luise Freese"
 githubname: LuiseFreese
 categories: ["Azure Logic Apps", "Dataverse"]
 images:
-
+- images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/platform.png
 tags: []
 type: "regular"
 ---
@@ -30,7 +30,6 @@ more
 
 {{< image alt="dataverse-saas.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/dataverse-saas.png" >}}
 
- 
 
 I will not go into full detail in this blog post, but cover something
 that people with a background in Microsoft 365/SharePoint might not be
@@ -70,8 +69,6 @@ You will come across the term 'N:1(many-to-1)' as well - it is the
 same thing as a 1:N relationship- just viewed from the related table,
 not from the parent/primary table.
 
- 
-
 As an example, please imagine a table `Teams Requests` and another
 related table `Teams Channels`. Each Team can have many channels, but a
 channel can be only associated with one Team (represented in
@@ -79,7 +76,6 @@ the `Teams Request` table). This means, that we need to have a 1:N
 relationship between `Teams Requests` table and
 the `Teams Channels` table. We reference this like this:
  
-
 [{{< image alt="TeamsChannel1N.png" src="images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/TeamsChannel1N.png" >}}
 
 We get the correct environment, fetch the table `Team Channels` and
@@ -92,7 +88,6 @@ An N:N (many-to-many) relationship depends on a special relationship
 table (intersect table), so that many rows of one table can be related
 to many rows of another table. We can see a list of all rows in the
 related table that our primary table is associated with.
-
 
 As an example, please image now the `Teams Requests` table again that
 needs to be related to a `Teams Users` table. In
@@ -163,7 +158,5 @@ consider.
 In order to take full advantage of Dataverse's capabilities in terms of
 being a 'relational database' its worth it to understand what is an
 intersection table and how you can reference it.
-
- 
 
 Let me know what you think in the comments :)

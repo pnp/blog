@@ -6,6 +6,9 @@ githubname: tonipohl
 categories: ["SharePoint", "Tooling"]
 tags: []
 type: "regular"
+images: 
+- images/blog/use-node-version-manager-to-develop-your-spfx-apps/p6.png
+summary: "To develop applications for SharePoint or Microsoft Teams with the SPFx framework, a few requirements must be met on your development computer. Learn how to install the supported Node.js v10.x version and how you can use other Node.js versions additionally with Node Version Manager"
 ---
 
 To develop applications for SharePoint or Microsoft Teams with the [SPFx
@@ -52,8 +55,11 @@ and allows to use it with nvm.
 Alternatively, when you have [chocolatey](https://chocolatey.org/)
 installed, you can run
 
-*choco uninstall nodejs -y\
-*(as I did on my machine to cleanup.)
+```bash
+choco uninstall nodejs -y
+```
+
+(as I did on my machine to cleanup.)
 
 {{< image alt="p2.png" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p2.png" >}}
 
@@ -68,7 +74,10 @@ and run it. Or, you can use choco (if installed on your computer):\
 
 Let´s check if nvm is working:
 
-`nvm ls`
+```bash
+nvm ls
+```
+
 should find no Node.js versions.
 
 
@@ -77,35 +86,49 @@ should find no Node.js versions.
 To see the latest Node.js versions check <https://nodejs.org/en/>, or
 simply run
 
-*nvm ls available*
+```bash
+nvm ls available
+```
 
 {{< image alt="List available Node.js versions" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p4.png" >}}
 
 Now, install the desired Node.js versions:
 
-  *nvm install 10.23.0*
+```bash
+nvm install 10.23.0
+```
 
+{{< image alt="p5.png" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p5.png" >}}
 
-    {{< image alt="p5.png" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p5.png" >}}
-
-  `nvm install 14.15.4`
-
-
+```bash
+nvm install 14.15.4
+```
 
 {{< image alt="p6.png" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p6.png" >}}
 
--   Etc. For the latest Node.js version, simply run
+Etc. For the latest Node.js version, simply run
 
-    `nvm install latest`
+```bash
+nvm install latest
+```
 
-Now check the installed versions: *nvm ls*
+Now check the installed versions: 
 
+```bash
+nvm ls
+```
 
 {{< image alt="p7.png" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p7.png" >}}
 
 You can now switch between versions with nvm. Use \<nvm version>, e.g.
 
-*nvm use 10.23.0* or *nvm use 14.15.4*
+```bash
+nvm use 10.23.0
+```
+or
+```bash
+nvm use 14.15.4
+```
 
 That´s the basic installation of Node.js and
 [npm](https://www.npmjs.com/get-npm).
@@ -123,12 +146,10 @@ Here are the commands to run in a PowerShell console: First, switch to
 Node.js v10, confirm, (check the current version), and install the tools
 with npm.
 
-*nvm use 10.23.0*
-
-*npm install gulp yo
-[@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint
---global*
-
+```bash
+nvm use 10.23.0
+npm install gulp yo @microsoft/generator-sharepoint --global
+```
 
 {{< image alt="npm install" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p8.png" >}}
 
@@ -139,9 +160,9 @@ first SharePoint client-side web part (Hello World part
 1)](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part "https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part").
 In a new directory, run
 
-*yo [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/sharepoint*
-
-
+```bash
+yo @microsoft/sharepoint
+```
 
 {{< image alt="Run yo" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p9.png" >}}
 
@@ -150,7 +171,9 @@ described at [Trusting the self-signed developer
 certificate](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#trusting-the-self-signed-developer-certificate "https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#trusting-the-self-signed-developer-certificate")
 here. Then, you can open the workbench with SSL.
 
-*gulp trust-dev-cert*
+```bash
+gulp trust-dev-cert
+```
 
 
 {{< image alt="gulp trust-dev-cert" src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p10.png" >}}
@@ -161,12 +184,12 @@ You can open Visual Studio Code now to modify the solution: *code .*
 
 The generated solution includes the sample app that can now be modified.
 
-
-
 {{< image alt="Coding\..." src="images/blog/use-node-version-manager-to-develop-your-spfx-apps/p11.png" >}}
 When done, let´s open the default browser with the gulp webserver:
 
-*gulp serve*
+```bash
+gulp serve
+```
 
 This opens the SPFx workbench, in our sample at
 `https://localhost:4321/temp/workbench.html`. Here, you can add the
@@ -183,13 +206,16 @@ site and use the custom web part with the data from SharePoint, too:
 
 To build the ready-to-use solution, run
 
-*gulp bundle \--ship*
-
+```bash
+gulp bundle --ship
+```
 to build the package for the correct folder and
 
-*gulp package-solution \--ship*
+```bash
+gulp package-solution --ship
+```
 
-to create the *\\sharepoint\\solution\\\<project>.sppkg* file that can
+to create the `\sharepoint\solution\<project>.sppkg` file that can
 be uploaded to the [SharePoint App
 catalog](https://docs.microsoft.com/sharepoint/use-app-catalog?redirectSourcePath=%252farticle%252fuse-the-app-catalog-to-make-custom-business-apps-available-for-your-sharepoint-online-environment-0b6ab336-8b83-423f-a06b-bcc52861cba0).
 

@@ -4,7 +4,8 @@ date: 2021-05-22T04:54:00-04:00
 author: "Luise Freese"
 githubname: LuiseFreese
 categories: ["Microsoft 365 community spotlight"]
-images: []
+images:
+- images/blog/microsoft-365-pnp-community-spotlight-garry-trinder/garrytrinder.jpg
 tags: []
 type: "regular"
 ---
@@ -14,6 +15,7 @@ type: "regular"
 CLI for Microsoft 365 
 
 ## How does it help people?  
+
 
 CLI for Microsoft 365 is a cross platform, command line interface that helps developers and administrators manage their Microsoft 365 tenants and SharePoint Framework projects, using any operating system and any command line shell. 
 

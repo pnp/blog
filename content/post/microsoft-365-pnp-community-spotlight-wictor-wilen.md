@@ -5,7 +5,7 @@ author: "Luise Freese"
 githubname: LuiseFreese
 categories: ["Microsoft 365 community spotlight"]
 images:
-- images/blog/microsoft-365-pnp-community-spotlight-wictor-wil%C3%A9n/wictorwilen.jpg
+- images/blog/microsoft-365-pnp-community-spotlight-wictor-wilen/wictorwilen.jpg
 tags: []
 type: "regular"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "source code editing for Canvas Apps"
+title: "Source code editing for Canvas Apps"
 date: 2021-07-01T08:40:00-04:00
 author: "Django Lohn"
 githubname: m3ngi3
