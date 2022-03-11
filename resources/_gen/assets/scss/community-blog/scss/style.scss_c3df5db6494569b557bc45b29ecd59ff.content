@@ -4,14 +4,16 @@ body {
   font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #555;
-  font-size: 18px; }
+  font-size: 16px; }
 
 p {
   font-weight: 400;
   color: #555;
-  font-size: 18px;
-  line-height: 1.7;
-  font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; }
+  font-size: 16px;
+  line-height: calc(1ex / 0.32);
+  font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  text-rendering: optimzizelegibility;
+  margin: calc(1ex / 0.32) 0; }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   color: #333;
