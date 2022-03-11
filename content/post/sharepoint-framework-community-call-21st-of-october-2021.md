@@ -234,7 +234,8 @@ slides.
     AG](https://www.datalynx.ch/en/) - [André
     Lage](http://twitter.com/aaclage) |
     @aaclage | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-139-%e2%80%93-18th-of-october-2021/)
-**General Resources:**
+
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 

@@ -250,7 +250,8 @@ slides.
     UK-based SharePoint developer and MVP at Storm Technology - [Joel
     Rodrigues](http://twitter.com/JoelFMRodrigues) |
     @JoelFMRodrigues. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-141-joel-rodrigues-storm/ba-p/2908830) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-141-%E2%80%93-1st-of-november-2021/)
-**General Resources:**
+
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 

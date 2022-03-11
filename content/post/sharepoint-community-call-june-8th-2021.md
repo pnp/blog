@@ -20,7 +20,6 @@ download recurrent invite from <https://aka.ms/sp-call>.
 
 ## Call summary
 
-
 Summer break and community call schedule updates reviewed. You are
 invited to join the [Viva Connections private
 preview](https://aka.ms/viva/connections/preview/register)!   Don't miss
@@ -47,7 +46,6 @@ community stronger.  The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call. 
 {{< image alt="210608-together-mode.gif" src="images/blog/sharepoint-community-call-june-8th-2021/210608-together-mode.gif" >}}
- 
 
 
 **SharePoint Site Templates -- the latest features and experiences**
@@ -103,7 +101,7 @@ will redirect your browser to that topic in the recording published on
 the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
 
-**Call Agenda:**
+## Call agenda
 
 -   UserVoice status for non-dev focused SharePoint entries
     -- [12:32](https://youtu.be/Pxfq2i4ys1U?t=752)

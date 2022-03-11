@@ -12,8 +12,6 @@ type: "regular"
 
 ## Call summary
 
-
-
 This month's in-depth topic:  **A Zero Trust primer for
 developers**.  In this session, we begin by introducing developers
 quickly to the core Zero Trust principles: **Verify explicitly**, **Use
@@ -46,7 +44,7 @@ This session was delivered by Kalyan Krishna - Sr Program Manager,
 Microsoft.  Recorded December 16, 2021. Q&A in chat and at end of call.
 
 
-**Referenced in this session:**
+## Referenced in this session
 
 -   eBook - Developer guide to Zero Trust - [Zero Trust for the
     Microsoft identity platform developer](https://aka.ms/ztdev) |
@@ -109,7 +107,7 @@ Microsoft.  Recorded December 16, 2021. Q&A in chat and at end of call.
 
  
 
-**Stay connected:**
+## Stay connected
 
 -   Twitter
     [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​

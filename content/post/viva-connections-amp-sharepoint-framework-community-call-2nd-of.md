@@ -209,7 +209,8 @@ Additional resources around the covered topics and links from the slides.
     US-based Senior Program Manager on the Viva Connections Platform
     team - [Catherine
     Chuaga](https://www.linkedin.com/in/wanjiru-chuaga/) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-144-catherine-chuaga-microsoft/ba-p/2994387) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-144-%e2%80%93-22nd-of-november-2021/)
-**General Resources:**
+
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 

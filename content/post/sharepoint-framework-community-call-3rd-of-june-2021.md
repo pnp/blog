@@ -183,7 +183,8 @@ slides.
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-129/ba-p/2401546)
     |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-129-31st-of-may-2021/)
-**General Resources:**
+
+## General resources
 
 -   Gallery - [Microsoft 365 Extensibility look book
     gallery](https://aka.ms/m365/extensibility)   

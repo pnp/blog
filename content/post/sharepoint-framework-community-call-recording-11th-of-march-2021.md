@@ -217,7 +217,7 @@ slides.
 
 -   Viva Connections <https://aka.ms/VivaConnections> 
 
-**General Resources:**
+## General resources
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)

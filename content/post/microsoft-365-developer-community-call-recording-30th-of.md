@@ -12,8 +12,6 @@ type: "regular"
 
 ## Call summary
 
-
-
 Have a look at Microsoft 365 tenant -- [script samples
 gallery](https://aka.ms/script-samples) (90 scenarios and 118 scripts,
 using CLI for Microsoft 365, PnP PowerShell, SPO Management Shell

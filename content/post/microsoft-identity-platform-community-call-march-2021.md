@@ -11,7 +11,6 @@ type: "regular"
 
 ## Call summary
 
-
 In this session - Microsoft Identity platform for developers, Microsoft
 Authentication Libraries (JS, .NET, Android, iOS, Python, Java, Angular,
 Microsoft Identity Web), and top developer mistakes seen on the
@@ -20,8 +19,7 @@ Harish Suresh | @harish_suresh and Sahil Malik | @sahilmalik.  This
 session was delivered and recorded on March 18, 2021.  Q&A in chat
 throughout call. 
  
-
-**In-depth topic:**
+## In-depth topic
 
 **Microsoft Identity platform - Do's and Don't. ** Based on extensive
 hands-on experience with enterprise customers - developers, ISVs, and
@@ -44,8 +42,6 @@ include: 
     scenarios)
 8.  Mobile broker/SSO behavior (approaches to performing SSO on iOS and
     Android). 
-
- 
 
 
 ## Resources
@@ -71,12 +67,7 @@ include: 
         [https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options#creat\...](https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options#create-an-azure-support-request)
 
 
-
 ## Actions
-
-
-
-
 
 -   Microsoft Office 365 Developer Survey -
     <https://aka.ms/developersuccess> 
@@ -84,7 +75,7 @@ include: 
     <https://aka.ms/SuccessPanel>
 
 
-**Stay connected:**
+## Stay connected
 
 -   Twitter
     [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​

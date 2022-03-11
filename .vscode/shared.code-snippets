@@ -1,0 +1,51 @@
+{
+    "MSFT Copyright Header": {
+        "scope": "markdown",
+        "prefix": [
+            "frontmatter",
+            "front"
+        ],
+        "body": [
+            "---",
+            "title: \"$1\"",
+            "summary: \"$2\"",
+            "date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T05:30:00-05:00",
+            "author: \"\"",
+            "githubname: \"\"",
+            "categories: []",
+            "images: []",
+            "tags: []",
+            "type: \"regular\"",
+            "---",
+            "$0"
+        ],
+        "description": "Insert brog post front matter"
+    },
+    "Shortcode -> Insert image": {
+        "scope": "markdown",
+        "description": "Image shortcode",
+        "prefix": [
+            "short-image",
+            "image"
+        ],
+        "body": "{{< image alt=\"${1:alt}\" src=\"images/blog/${TM_FILENAME_BASE}/${3:image-filename}}\" >}}"
+    },
+    "Shortcode -> Insert YouTube": {
+        "scope": "markdown",
+        "description": "YouTube shortcode",
+        "prefix": [
+            "short-youtube",
+            "youtube"
+        ],
+        "body": "{{< youtube ${1:youtube-id} >}}"
+    },
+    "Shortcode -> Insert PodBean": {
+        "scope": "markdown",
+        "description": "PodBean shortcode",
+        "prefix": [
+            "short-podbean",
+            "podbean"
+        ],
+        "body": "{{< podbean ${1:podbean-id} >}}"
+    }
+}

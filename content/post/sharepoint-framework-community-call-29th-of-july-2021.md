@@ -206,7 +206,8 @@ slides.
 
 -   PnP/SPFx-controls-react - [Placeholder
     control](https://pnp.github.io/sp-dev-fx-controls-react/controls/Placeholder) 
-**General Resources:**
+
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 

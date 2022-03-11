@@ -54,7 +54,7 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
     Bots, and Apps.  See how Environment Variables are created, added to
     an App and a Flow.
 
-**Recent News & Cool Stuff:**
+## Recent News & Cool Stuff
 
 -   Power Apps Demo Extravaganza 2021-
     [aka.ms/PowerAppsDemoExtravaganza](https://aka.ms/PowerAppsDemoExtravaganza)
@@ -70,10 +70,6 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
 
 ## Actions
 
-
-
-
-
 -   Enter now for Demo Extravaganza 2021 |
     <https://aka.ms/PowerAppsDemoExtravaganza>
 -   Spanish Bizz Summit -- June 4 -- 5, <https://bizzsummit.es/>
@@ -83,7 +79,7 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
 -   Join us for our next call: May 19, 2021 at 08:00am PDT
     | <https://aka.ms/powerappscommunitycall>
 
-**Call Agenda:**
+## Call agenda
 
 
 -   Building multilingual Power Apps -  [Haniel
@@ -103,7 +99,7 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
     Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
     -- [49:05](https://youtu.be/rrdpkOS9pnk?t=2945)
 
-**Referenced in this session:**
+## Referenced in this session
 
 -   Documentation - [Environment variables
     overview](https://docs.microsoft.com/powerapps/maker/data-platform/EnvironmentVariables)
@@ -114,7 +110,7 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
     |
     <https://powerapps.microsoft.com/blog/announcing-data-source-environment-variables/>
 
-**Learn more:**  
+## Learn more
 
 -   See the full blog post for this call on the Tech Community Blog
     - <https://aka.ms/m365pnp/community/blog>
@@ -137,7 +133,7 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
     - [#PowerAppsCC](https://twitter.com/hashtag/PowerAppsCC?src=hashtag_click)
 
 
-**Stay connected:**
+## Stay connected
 
 -   Twitter: <https://twitter.com/MSPowerPlat>
 -   Twitter

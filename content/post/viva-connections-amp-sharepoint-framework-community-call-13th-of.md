@@ -259,7 +259,8 @@ slides.
     Power Platform Architect and Business Applications MVP, [Carmen
     Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) |
     @CarmenYsewijn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-148-carmen-ysewijn-qubix/ba-p/3056063) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-148-%E2%80%93-10th-of-january-2022/)
-**General Resources:**
+
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 

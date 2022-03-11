@@ -19,7 +19,6 @@ download recurrent invite from <https://aka.ms/sp-call>.
 
 ## Call summary
 
-
 Visit the new [Microsoft 365 PnP Community
 hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP)
 at Microsoft Tech Communities!  Preview the new [Microsoft 365
@@ -99,7 +98,7 @@ will redirect your browser to that topic in the recording published on
 the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
 
-**Call Agenda:**
+## Call agenda
 
 -   SharePoint community update with latest news and roadmap
     -- [2:47](https://youtu.be/CP_q6eRe3X4?t=167)

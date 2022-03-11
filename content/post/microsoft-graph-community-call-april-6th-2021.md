@@ -20,7 +20,7 @@ Microsoft Graph Toolkit.
 
  
 
-**Topics:**
+## Topics
 
 ## Microsoft Graph Java SDK version 3 
 

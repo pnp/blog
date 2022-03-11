@@ -10,9 +10,7 @@ tags: []
 type: "regular"
 ---
 
-
 ## Call summary
-
 
 Topics covered in this month's community call include demos in **Visio,
 Power BI Tiles, and Reports in Power Apps!** (Combining capabilities in
@@ -29,7 +27,7 @@ September 15, 2021.  Thank for attending the call or viewing it on
 demand. 
 
 
-**Agenda:**  
+## Agenda
 
 -   Visio, Power BI Tiles, and Reports in Power Apps! - [Reza
     Dorrani](http://twitter.com/rezadorrani) (Catapult) |
@@ -66,7 +64,7 @@ demand. 
 
  
 
-**Recent News & Cool Stuff:**
+## Recent News & Cool Stuff
 
 -   Ask Me Anything (AMA) Event Sept 28th for Power Platform samples |
     [<https://aka.ms/PNPAMA>]{.underline}
@@ -81,10 +79,6 @@ demand. 
 
 ## Actions
 
-
-
-
-
 -   Attend the [BizApps LATAM Summit - Nov
     17-19^th^](https://aka.ms/BizappsLATAMSummit) |
     <https://aka.ms/BizappsLATAMSummit>
@@ -97,7 +91,7 @@ demand. 
 
  
 
-**Referenced in this session:**
+## Referenced in this session
 
 -   D1:  Videos -- [Power Platform
     Integration](https://www.youtube.com/playlist?list=PLTyFh-qDKAiEUf5st2WhUzgoDRF-1hET0) -
@@ -120,7 +114,7 @@ demand. 
 
  
 
-**Learn more:**  
+## Learn more
 
 -   See the full blog post for this call on the Tech Community Blog
     - <https://aka.ms/m365pnp/community/blog>

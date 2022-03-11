@@ -213,7 +213,8 @@ slides.
     Luca](https://www.youtube.com/giulianodeluca) 
 
 -   Blog - [Giuliano De Luca](https://delucagiuliano.com/) 
-**General Resources:**
+
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 

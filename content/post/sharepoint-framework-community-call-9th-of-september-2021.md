@@ -206,7 +206,8 @@ slides.
 
 -   D3:  Package - [react wrapper for:
     lightgallery.js](https://github.com/VLZH/react-lightgallery) 
-**General Resources:**
+
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 

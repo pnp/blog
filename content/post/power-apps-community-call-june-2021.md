@@ -10,9 +10,7 @@ tags: []
 type: "regular"
 ---
  
-
 ## Call summary
-
 
 Topics covered in this month's community call include 3 demos - COE in
 Dataverse for Teams in the Power Platform, Planner Gantt chart in Power
@@ -27,9 +25,6 @@ included Q&A in chat.  The call was hosted by Todd Baginski (Canviz). 
 Demo presenters are Krishna Vandanapu, Terho Antila and May Alhajri.
  This call was recorded on June 16, 2021.  Thank for attending the call
 or viewing it on demand. 
-
- 
-
 
 ## Demos
 
@@ -57,7 +52,7 @@ or viewing it on demand. 
     behind scenes to step through components used (button, label, pop up
     message, collections) for the app.   
 
-**Recent News & Cool Stuff:**
+## Recent News & Cool Stuff
 
 -   Power Apps Demo Extravaganza 2021-
     <https://aka.ms/PowerAppsDemoExtravaganza>
@@ -74,10 +69,6 @@ or viewing it on demand. 
 
 ## Actions
 
-
-
-
-
 -   [View and Vote on Demo Extravaganza
     entries](https://powerusers.microsoft.com/t5/Demo-Extravaganza-2021/con-p/Demo_Extravaganza_2021/tab/entries) 
 -   Last chance to submit entries for Demo Extravaganza 2021 |
@@ -85,7 +76,7 @@ or viewing it on demand. 
 -   Join us for our next call: July 21, 2021 at 08:00am PDT |
     <https://aka.ms/powerappscommunitycall>
 
-**Call Agenda:**
+## Call Agenda
 
 
 -   COE in Dataverse for Teams in the Power Platform - [Krishna
@@ -106,7 +97,7 @@ or viewing it on demand. 
     - [65:02](https://youtu.be/WVQ882sHoVc?t=3902)
 
 
-**Referenced in this session:**
+## Referenced in this session
 
 -   Repo -  [Microsoft Power Platform Center of Excellence (CoE) Starter
     Kit](https://github.com/microsoft/coe-starter-kit)  
@@ -121,7 +112,7 @@ or viewing it on demand. 
 -   Repo - [Planner Gantt Chart
     introduction](https://github.com/TerhoAntila/planner-gantt-chart)
 
-**Learn more:**  
+## Learn more
 
 -   See the full blog post for this call on the Tech Community Blog
     - <https://aka.ms/m365pnp/community/blog>
@@ -144,7 +135,7 @@ or viewing it on demand. 
     - [#PowerAppsCC](https://twitter.com/hashtag/PowerAppsCC?src=hashtag_click)
 
 
-**Stay connected:**
+## Stay connected
 
 -   Twitter: <https://twitter.com/MSPowerPlat>
 -   Twitter

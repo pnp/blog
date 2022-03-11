@@ -266,7 +266,7 @@ slides.
     [Serge Tremblay](http://twitter.com/Sergepoint) | @Sergepoint
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/ba-p/2809397) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-137-%E2%80%93-4th-of-october-2021/)
 
-**General Resources:**
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 

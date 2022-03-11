@@ -13,18 +13,13 @@ type: "regular"
 
 ## Call summary
 
-
 Topics covered in this month's community call include demos **Power Apps
 Christmas Calendar + Games** (Advent calendar with engaging games
 unlocked on Dec 18th and 23rd) - [Craig
 Gregory](http://twitter.com/CrashLongJohns)
 [@CrashLongJohns](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1127338) and 
 
-**Teams
-Provision Genie** (Canvas app that simplifies the configuration and
-deployment of enterprise ready Teams sites) - [Luise
-Freese](http://twitter.com/LuiseFreese) | @LuiseFreese & [Carmen
-Ysewijn](http://twitter.com/CarmenYsewijn) | @CarmenYsewijn.
+**Teams Provision Genie** (Canvas app that simplifies the configuration and deployment of enterprise ready Teams sites) - [Luise Freese](http://twitter.com/LuiseFreese) | @LuiseFreese & [Carmen Ysewijn](http://twitter.com/CarmenYsewijn) | @CarmenYsewijn.
 
 **Recent
 Power Apps News and Community Contributions** (16 Power Apps
@@ -37,7 +32,7 @@ The call was recorded on November 17, 2021.  Questions were addressed in
 chat throughout the call along with some live discussion.  Thank for
 attending the call or viewing it on demand. 
 
-**Agenda:**  
+## Agenda
 
 -   Power Apps Christmas Calendar + Games - [Craig
     Gregory](http://twitter.com/crashlongjohns) | @crashlongjohns --
@@ -69,7 +64,7 @@ attending the call or viewing it on demand. 
     The presenters' step through the configuration of a Team that's
     provisioned by Logic Apps.
 
-**Recent News & Cool Stuff:**
+## Recent News & Cool Stuff
 
 -   Blog (16 announcements) - [Round up of the Ignite announcements for
     Power
@@ -79,16 +74,12 @@ attending the call or viewing it on demand. 
 
 ## Actions
 
-
-
-
-
 -   Groups - [Public Preview for User
     Groups](https://community.powerbi.com/t5/Power-BI-User-Groups/ct-p/pbi_usergroups) 
 -   Join us for our next call: December 15, 2021 at 08:00am PST
     | <https://aka.ms/powerappscommunitycall>
 
-**Referenced in this session:**
+## Referenced in this session
 
 -   D1:  Wiki - [Power Apps Advent Calendar
     Games](https://github.com/unlimitedduck/CrashLongJohns/wiki/Power-Apps-Advent-Calendar---Games)
@@ -99,7 +90,7 @@ attending the call or viewing it on demand. 
 -   D2:  Repo --
     [ProvisionGenie](https://github.com/ProvisionGenie/ProvisionGenie) 
 
-**Learn more:**  
+## Learn more
 
 -   See the full blog post for this call on the Tech Community Blog
     - <https://aka.ms/m365pnp/community/blog>
@@ -124,7 +115,7 @@ attending the call or viewing it on demand. 
     - [#PowerAppsCC](https://twitter.com/hashtag/PowerAppsCC?src=hashtag_click)
 
 
-**Stay connected:**
+## Stay connected
 
 -   Twitter: <https://twitter.com/MSPowerPlat>
 -   Twitter

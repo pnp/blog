@@ -228,7 +228,8 @@ slides.
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-125-3rd-of-may-2021/)
 
 -   Viva Connections <https://aka.ms/VivaConnections> 
-**General Resources:**
+
+## General resources
 
 -   [CLI for Microsoft 365
     v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)

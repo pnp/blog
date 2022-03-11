@@ -30,7 +30,7 @@ chat throughout the call.
 Thank for attending the call or viewing it on
 demand. 
 
-**Agenda:**  
+## Agenda
 
 -   **Demo 1**:  Building Xbox games with Power Apps -- [Brian
     Dang](http://twitter.com/mrdang) (Microsoft) | @mrdang --
@@ -65,7 +65,7 @@ demand. 
     canvas apps.    Users intentionally decide when to publish/merge
     edits to shared document.  Update history stored in back-end. 
 
-**Recent News & Cool Stuff:**
+## Recent News & Cool Stuff
 
 -   [Visualize data in model-driven apps with Power BI
     (preview)](https://powerapps.microsoft.com/blog/visualize-data-in-model-driven-apps-with-power-bi-preview/) -
@@ -76,12 +76,7 @@ demand. 
     Refresh](https://powerapps.microsoft.com/blog/power-platform-developer-tools-november-refresh/) 
 
 
-
 ## Actions
-
-
-
-
 
 -   Power Platform User Groups - Find a user group in your area. 
     -   [Power Platform user groups](https://powerusers.microsoft.com/)
@@ -98,7 +93,7 @@ demand. 
 -   Join us for our next call: January 19, 2022, at 08:00am PST
     | <https://aka.ms/powerappscommunitycall>
 
-**Referenced in this session:**
+## Referenced in this session
 
 -   D1:  Repo - [gamepad](https://github.com/johnnliu/gamepad) 
 
@@ -114,7 +109,7 @@ demand. 
 -   D2:  Documentation - [Co-authoring in canvas apps
     (experimental)](https://docs.microsoft.com/powerapps/maker/canvas-apps/git-version-control)
 
-**Learn more:**  
+## Learn more
 
 -   See the full blog post for this call on the Tech Community Blog
     - <https://aka.ms/m365pnp/community/blog>
@@ -139,7 +134,7 @@ demand. 
     - [#PowerAppsCC](https://twitter.com/hashtag/PowerAppsCC?src=hashtag_click)
 
 
-**Stay connected:**
+## Stay connected
 
 -   Twitter: <https://twitter.com/MSPowerPlat>
 -   Twitter

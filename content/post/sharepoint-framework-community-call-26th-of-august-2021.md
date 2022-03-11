@@ -184,7 +184,8 @@ slides.
 
 -   Samples - [SharePoint Framework sample solutions for Microsoft
     Teams](https://github.com/pnp/spfx-teams) 
-**General Resources:**
+
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 

@@ -23,7 +23,7 @@ Presenters were Philippe Signoret and Fabian Williams.  Recorded on May
 
  
 
-**Topics:**
+## Topics
 
 **App Consent Deep Dive -** demystifying permissions and consent when
 accessing Microsoft Graph.  Most Graph permissions allow access to

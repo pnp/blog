@@ -12,7 +12,6 @@ type: "regular"
 
 ## Call summary
 
-
 Topics covered in this month's community call include
 
 - Make your Power
@@ -65,7 +64,7 @@ viewing it on demand. 
     typically read manuals and adoption is largely based on visual
     perceptions. 
 
-**Recent News & Cool Stuff:**
+## Recent News & Cool Stuff
 
 -   Power Apps Custom Functions Library
     -<https://github.com/yourekittenme/powerapps-custom-functions>
@@ -78,10 +77,6 @@ viewing it on demand. 
 
 
 ## Actions
-
-
-
-
 
 -   Complete the Microsoft 365 Developer Community Survey --
     <https://aka.ms/m365pnp/survey>
@@ -97,7 +92,7 @@ viewing it on demand. 
 -   Join us for our next call: May 19, 2021 at 08:00am PDT |
     <https://aka.ms/powerappscommunitycall>
 
-**Learn more:**  
+## Learn more
 
 -   See the full blog post for this call on the Tech Community Blog -
     <https://aka.ms/m365pnp/community/blog>
@@ -120,7 +115,7 @@ viewing it on demand. 
     [#PowerAppsCC](https://twitter.com/hashtag/PowerAppsCC?src=hashtag_click)
 
 
-**Stay connected:**
+## Stay connected
 
 -   Twitter: <https://twitter.com/MSPowerPlat>
 -   Twitter

@@ -241,7 +241,8 @@ slides.
     Iceland-based Consultant and MVP, [Derek
     Cash-Peterson](http://twitter.com/spdcp) (Sympraxis Consulting) |
     @spdcp | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/ba-p/3031492) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-146-%E2%80%93-6th-of-december-2021/)
-**General Resources:**
+
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 

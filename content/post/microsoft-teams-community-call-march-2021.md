@@ -30,8 +30,6 @@ or viewing on demand. 
 
 {{< image alt="Jun_Pak_0-1616095092787.gif" src="images/blog/microsoft-teams-community-call-march-2021/Jun_Pak_0-1616095092787.gif" >}}
 
-
-
 ## Demos
 
 **Business to Citizen Consumer Communication Bot** -- sample allows
@@ -99,10 +97,6 @@ development.  API documentation with code snippets is current.   
 
 ## Actions
 
-
-
-
-
 -   Survey - Complete the Microsoft 365 developer success survey -
     <https://aka.ms/developersuccess>
 -   Join - [M365 customer success platform
@@ -114,14 +108,14 @@ development.  API documentation with code snippets is current.   
 
  
 
-**General Resources:**
+## General Resources
 
 -   Teams developer documentation​ | <https://aka.ms/teamsdev> ​
 -   ​Teams developer feedback​ | <https://aka.ms/teamsdevfeedback> 
 -   Microsoft Teams Sample gallery | <https://aka.ms/teams-samples> -
     One location for all samples from Microsoft and community
 
-**Stay connected:**
+## Stay connected
 
 -   Full post for this call - <https://aka.ms/m365pnp/community/blog>
 -   Twitter -

@@ -27,11 +27,7 @@ manage your SharePoint Framework projects.
  
 ## New version of CLI for Microsoft 365 -- v3.6 
 
-Following our monthly release cadence, we released this new version of
-CLI for Microsoft 365 with some new commands and improvements. Here are
-some of the most noteworthy additions. For the full list of changes, see
-our [release
-notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v360).
+Following our monthly release cadence, we released this new version of CLI for Microsoft 365 with some new commands and improvements. Here are some of the most noteworthy additions. For the full list of changes, see our [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v360).
 
 ### Ensure SharePoint site
 

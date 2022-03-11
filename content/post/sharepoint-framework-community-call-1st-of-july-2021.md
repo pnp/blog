@@ -226,7 +226,7 @@ slides.
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 
-**General Resources:**
+## General resources
 
 -   Gallery - [Microsoft 365 Extensibility look book
     gallery](https://aka.ms/m365/extensibility)   

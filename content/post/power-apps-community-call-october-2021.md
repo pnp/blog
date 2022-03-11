@@ -34,7 +34,7 @@ Sterling](http://twitter.com/chass).  The call was recorded on October
 with some live discussion.  Thank for attending the call or viewing it
 on demand. 
 
-**Agenda:**  
+## Agenda
 
 -   PokéBubbles Game - [Michelle
     Wong](http://twitter.com/MichelleWongNL) |
@@ -68,7 +68,7 @@ on demand. 
     prep), top tips, and resources.  Start by finding a Learning Path on
     the Microsoft Learn site.  
 
-**Recent News & Cool Stuff:**
+## Recent News & Cool Stuff
 
 -   Announcement - [Managing solutions has a new look (public
     preview)](https://powerapps.microsoft.com/blog/managing-solutions-has-a-new-look-public-preview/) 
@@ -99,10 +99,6 @@ on demand. 
 
 ## Actions
 
-
-
-
-
 -   Register -- [Microsoft Ignite 2021 -- Nov
     2--4](Microsoft%20Ignite%202021%20–%20Nov%202–4) 
 
@@ -115,7 +111,7 @@ on demand. 
 -   Join us for our next call: November 17, 2021 at 08:00am PDT
     | <https://aka.ms/powerappscommunitycall>
 
-**Referenced in this session:**
+## Referenced in this session
 
 -   D1:  [Demo Extravaganza
     2021entry](https://powerusers.microsoft.com/t5/Demo-Extravaganza-2021/Pok%C3%A9Bubbles-Game/cns-p/936320)  
@@ -136,7 +132,7 @@ on demand. 
 -   D2:  Documentation - [Microsoft
     Learn](https://docs.microsoft.com/learn/)
 
-**Learn more:**  
+## Learn more
 
 -   See the full blog post for this call on the Tech Community Blog
     - <https://aka.ms/m365pnp/community/blog>
@@ -161,7 +157,7 @@ on demand. 
     - [#PowerAppsCC](https://twitter.com/hashtag/PowerAppsCC?src=hashtag_click)
 
 
-**Stay connected:**
+## Stay connected
 
 -   Twitter: <https://twitter.com/MSPowerPlat>
 -   Twitter

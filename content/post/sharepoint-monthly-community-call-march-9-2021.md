@@ -22,7 +22,6 @@ from <https://aka.ms/sp-call>.
 
 ## Call summary
 
-
 If you're looking at this blog post, then you are at the new Microsoft
 365 PnP Community hub at Microsoft Tech Communities!  Please take a
 moment to look around. The [Microsoft 365 Update - Community (PnP) |
@@ -57,10 +56,6 @@ draws on capabilities from across Microsoft and can be extended by
 you.  
 
 ## Actions
-
-
-
-
 
 -   Register for Sharing is Caring Events
     -   First Time Contributor Session -- [March
@@ -97,7 +92,7 @@ will redirect your browser to that topic in the recording published on
 the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
 
-**Call Agenda:**
+## Call agenda
 
 -   UserVoice status for non-dev focused SharePoint entries --
     [4:10](https://youtu.be/xXmpIVdokSs?t=250)

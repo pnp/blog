@@ -227,7 +227,7 @@ slides.
     guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital
     Brochure) - aka.ms/modernworkbuildsessions
 
-**General Resources:**
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections> 
 -   SharePoint Framework - v1.12.1 npm install

@@ -12,7 +12,6 @@ type: "regular"
 
 ## Call summary
 
-
 Topics covered in this month's community call includes an inside look at
 the top 5 community selected apps (from over 20 entries) from Demo
 Extravaganza 2021!   The winning submissions - Course Maker Solution,
@@ -32,8 +31,6 @@ Demo presenters are Rory Neary, Krishna Rachakonda, Venkat Rao, Nghiem
 Doan, Aakash Jain, Nicholas Nguyen, Todd Baginski and Matt Schuessler. 
 This call was recorded on July 21, 2021.  Thank for attending the call
 or viewing it on demand. 
-
- 
 
 
 ## Demos
@@ -78,7 +75,7 @@ or viewing it on demand. 
     storing stats in Dataverse, and updating Power App UI.   Review and
     edit past stats.  Use for any sport.
 
-**Recent News & Cool Stuff:**
+## Recent News & Cool Stuff
 
 -   3rd annual Power Apps Demo Extravaganza 2021 wrap up -
     <https://aka.ms/PowerAppsDemoExtravaganza>
@@ -92,14 +89,10 @@ or viewing it on demand. 
 
 ## Actions
 
-
-
-
-
 -   Join us for our next call: August 18, 2021 at 08:00am PDT |
     <https://aka.ms/powerappscommunitycall>
 
-**Call Agenda:**
+## Call agenda
 
 
 -   Demo Extravaganza!
@@ -134,7 +127,7 @@ or viewing it on demand. 
 -   Demo Extravaganza 2021 Winner --
     [76:30](https://youtu.be/4fqinmOt_TQ?t=4590)
 
-**Referenced in this session:**
+## Referenced in this session
 
 -   Courses -- [Power Platform
     Learn](http://www.powerplatformlearn.academy) 
@@ -232,7 +225,7 @@ or viewing it on demand. 
 -   Entry **- **[Sports Stats
     Tracker](https://powerusers.microsoft.com/t5/Demo-Extravaganza-2021/Sports-Statistics-Tracker-Speech-to-Text-to-Dataverse/cns-p/945380)
 
-**Learn more:**  
+## Learn more
 
 -   See the full blog post for this call on the Tech Community Blog
     - <https://aka.ms/m365pnp/community/blog>
@@ -257,7 +250,7 @@ or viewing it on demand. 
     - [#PowerAppsCC](https://twitter.com/hashtag/PowerAppsCC?src=hashtag_click)
 
 
-**Stay connected:**
+## Stay connected
 
 -   Twitter: <https://twitter.com/MSPowerPlat>
 -   Twitter

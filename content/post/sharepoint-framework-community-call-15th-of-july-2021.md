@@ -207,7 +207,8 @@ slides.
 -   Archives - Microsoft 365 PnP Weekly -
     [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC),
     [Podcasts](https://pnpweekly.podbean.com/)  
-**General Resources:**
+
+## General resources
 
 -   Gallery - [Microsoft 365 Extensibility look book
     gallery](https://aka.ms/m365/extensibility)   

@@ -19,7 +19,6 @@ download recurrent invite from <https://aka.ms/sp-call>.
 
 ## Call summary
 
-
 SPFx v1.12.1 with Node v14 and Gulp4 support is generally available. 
 Don't miss the [SharePoint sample
 gallery](https://pnp.github.io/sp-dev-fx-webparts/).  Preview the new
@@ -42,8 +41,6 @@ Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call. 
 {{< image alt="210511-together-mode.gif" src="images/blog/sharepoint-community-call-may-11th-2021/210511-together-mode.gif" >}}
  
-
-
 **Featured Topic:**
 
 **SharePoint Syntex:  Product overview and latest feature updates** --
@@ -91,7 +88,7 @@ will redirect your browser to that topic in the recording published on
 the [Microsoft 365 Community YouTube
 Channel](https://aka.ms/m365pnp-videos).
 
-**Call Agenda:**
+## Call agenda
 
 -   UserVoice status for non-dev focused SharePoint entries
     -- [8:04](https://youtu.be/PlXxbx7qNlc?t=484)

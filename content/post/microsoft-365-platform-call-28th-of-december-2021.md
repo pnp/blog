@@ -144,7 +144,8 @@ of this community.  Wishing you a happy and healthy entry into 2022.
     connecting to the Azure Fluid Relay.  Post -- [Stay in sync with
     Microsoft
     Loop](https://devblogs.microsoft.com/microsoft365dev/stay-in-sync-with-microsoft-loop/). 
-**Agenda:** 
+
+## Agenda 
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
     Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |

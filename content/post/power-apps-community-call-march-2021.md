@@ -53,7 +53,7 @@ March 17, 2021.  Thank for attending the call or viewing it on demand. 
     in CoE Starter Kit.   ALM for Advanced Makers is in Private
     preview.    
 
-**Recent News & Cool Stuff:**
+## Recent News & Cool Stuff
 
 -   Introducing Power Apps mobile app's new look (public preview)
     - [https://powerapps.microsoft.com/blog/introducing-power-apps-mobile-apps-new-look-public-previe\...](https://powerapps.microsoft.com/blog/introducing-power-apps-mobile-apps-new-look-public-preview)
@@ -81,7 +81,7 @@ March 17, 2021.  Thank for attending the call or viewing it on demand. 
 -   Join us for our next call: April 21, 2021 at 08:00am PDT
     - <https://aka.ms/powerappscommunitycall>
 
-**Learn more:**  
+## Learn more
 
 -   Microsoft's [Power Platform
     website](https://powerplatform.microsoft.com/)
@@ -101,7 +101,7 @@ March 17, 2021.  Thank for attending the call or viewing it on demand. 
 -   Share more - draw attention to your great work - #PowerAppsCC
 
 
-**Stay connected:**
+## Stay connected
 
 -   Twitter -
     [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​

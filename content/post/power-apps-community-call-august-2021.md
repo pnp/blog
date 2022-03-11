@@ -12,7 +12,6 @@ type: "regular"
 
 ## Call summary
 
-
 Topics covered in this month's community call include demos in
 
 - Performance Insights (a new Power Apps self-service tool that analyzes
@@ -33,7 +32,7 @@ Simpson](http://twitter.com/PowerFanAddict).
 This call was recorded on
 August 18, 2021.  Thank for attending the call or viewing it on demand. 
 
-**Agenda:**  
+## Agenda
 
 -   Performance Insights - Varda Shrivastava --
     [4:10](https://youtu.be/KwXWgWoMLsk?t=250)
@@ -76,7 +75,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
     timers) - properties in variable record that cascades down through
     app.     
 
-**Recent News & Cool Stuff:**
+## Recent News & Cool Stuff
 
 -   Microsoft Power Platform: 2021 release wave 2 plan -
     <https://docs.microsoft.com/power-platform-release-plan/2021wave2/>
@@ -90,18 +89,12 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
     Power Platforms Tools -
     [https://powerapps.microsoft.com/blog/announcing-the-public-preview-for-connection-references-s\...](https://powerapps.microsoft.com/blog/announcing-the-public-preview-for-connection-references-support-in-power-platforms-tools/)
 
-
-
 ## Actions
-
-
-
-
 
 -   Join us for our next call: September 15, 2021 at 08:00am PDT
     | <https://aka.ms/powerappscommunitycall>
 
-**Referenced in this session:**
+## Referenced in this session
 
 -   Blog - [Introducing Performance Insights (preview) for Model-driven
     apps](https://powerapps.microsoft.com/blog/introducing-performance-insights-preview-for-model-driven-apps/) 
@@ -131,7 +124,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
     Dragon
     app](https://1drv.ms/u/s!AgVDDsrNKG0BjQMM8aopGfhLIsKB?e=r2upcG)
 
-**Learn more:**  
+## Learn more
 
 -   See the full blog post for this call on the Tech Community Blog
     - <https://aka.ms/m365pnp/community/blog>
@@ -156,7 +149,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
     - [#PowerAppsCC](https://twitter.com/hashtag/PowerAppsCC?src=hashtag_click)
 
 
-**Stay connected:**
+## Stay connected
 
 -   Twitter: <https://twitter.com/MSPowerPlat>
 -   Twitter

@@ -24,9 +24,7 @@ and [Nik Charlebois](http://twitter.com/NikCharlebois). Guest presenter
 [Elio Struyf](http://twitter.com/eliostruyf) (Squarl).   This session
 was recorded on June 1, 2021.
 
- 
-
-**Topics:**
+## Topics
 
 **Assignments API --** specifically the Assignment Graph API v1.0 will
 be released in Microsoft Teams EDU tenants within days.  The APIs align
@@ -35,7 +33,6 @@ resources, track submissions, grade and post results back to students. 
  Try out the APIs in the Graph Explorer tool.   Think of a Team as a
 Class, and assignments are the class activities/coursework.     
 
- 
 
 **Dev Tips and Tricks with Microsoft Graph -** Save time with 2 VS Code
 Extensions 1) MS Graph Completion (autocompletion for Microsoft Graph
@@ -45,7 +42,6 @@ Extensions created by presenter are available in Marketplace.  Microsoft
 Graph Essentials extension comes with snippets, code completion for CSS
 variables, and an extension pack. 
 
- 
 
 **Microsoft Graph Data Connect** - is about extracting information at
 scale from Microsoft Graph.  Starting with an architecture overview --
@@ -56,16 +52,10 @@ and sink, trigger the sync and use Power BI to display data insights.   
 
 ## Actions
 
-
-
-
-
 -   Interested in Presenting during this call?  
     Contact <Brian.Jackett@microsoft.com> or <Jeremy.Thake@microsoft.com>
 -   Mark your calendar -- next Microsoft Graph community call is on July
     6th at 08:00am PDT - <https://aka.ms/microsoftgraphcall> 
-
- 
 
 
 ## Resources
@@ -92,7 +82,7 @@ From demos:
 
  
 
-**Agenda:**
+## Agenda
 
 -   Assignments API  - [Leif Brenne](http://twitter.com/secondleif)
     (Microsoft) | @secondleif and Mei Tan (Microsoft) --
@@ -131,7 +121,7 @@ From demos:
 | CON-PRT150   | Microsoft Search for Developers                                                                         |
 
 
-**General Resources:**
+## General resources
 
 -   Suggestions -- <https://aka.ms/M365Dev-Suggestions>   
 -   Graph TAP Program - <https://aka.ms/GraphTAPForm>** **
@@ -147,7 +137,7 @@ From demos:
 -   Playground -- [Microsoft Graph Toolkit
     Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple) | [https://mgt.dev](https://mgt.dev/)
 
-**Stay Connected:**
+## Stay connected
 
 -   See the full blog post for this call at
     - <https://aka.ms/m365pnp/community/blog>

@@ -242,7 +242,8 @@ slides.
     Porto, Portugal-based Program Manager at Microsoft - [Natalie
     Pienkowska](http://twitter.com/NataliePienkow1) | @
     NataliePienkow1. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-142-natalie-pienkowska/ba-p/2939019) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-142-%e2%80%93-8th-of-november-2021/)
-**General Resources:**
+
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 

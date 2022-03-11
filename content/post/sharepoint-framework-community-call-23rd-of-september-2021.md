@@ -227,7 +227,7 @@ slides.
     |
     ][podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-135-%e2%80%93-22nd-of-september-2021/)
 
-**General Resources:**
+## General resources
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 
