@@ -11,15 +11,7 @@ type: "regular"
 
 ---
 
-In this installment of the weekly discussion revolving around the
-latest news and topics on Microsoft
-365 hosts
--- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-@vesajuvonen,[Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
-joined by Munich, Germany-based consultant and MVP, [Markus
-Möller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365 hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen,[Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Munich, Germany-based consultant and MVP, [Markus Möller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0. 
 
 Topics discussed in this session:
 
@@ -38,26 +30,18 @@ Topics discussed in this session:
     his contributions to community.  
 -   Motivations behind sharing with community.   Give/Get
 
-[We also covered 11 articles or videos by Microsoft and the community
-from the last week. ]
+We also covered 11 articles or videos by Microsoft and the community from the last week.
 
- 
+Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-Please remember to keep on providing us feedback on how we can help on
-this journey. We always welcome feedback on making the community more
-inclusive and diverse.
-
- 
-This session was recorded in our rooms in front of a non-audience on
-Monday, December 13, 2021.   Enjoy the show. 
-
- 
-
+This session was recorded in our rooms in front of a non-audience on Monday, December 13, 2021.   Enjoy the show. 
 
 -   Video at [Microsoft 365 Community YouTube
     channel](https://aka.ms/m365pnp-videos)
+    {{< youtube a7A0KmGzLvk >}}
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-224pm-115598d >}}
 
 
 These videos and podcasts are published each week and are intended to be
@@ -74,7 +58,6 @@ Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
 ## Microsoft articles
-
 
 -   [Explore the new Microsoft Teams Store and discover apps for work
     and
@@ -105,7 +88,6 @@ everyone for your contributions to the community!
 
 ## Community articles
 
-
 -   [Adoption with
     fun](https://regarding365.com/adoption-with-fun-76a8494b236d)
     - [Robert Crane](https://twitter.com/directorcia) | @directorcia
@@ -127,7 +109,6 @@ everyone for your contributions to the community!
 
 ## Additional resources
 
-
 -   [Extend Microsoft Viva
     Connections](https://docs.microsoft.com/learn/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa) -
     Microsoft Learn
@@ -147,9 +128,6 @@ everyone for your contributions to the community!
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
-If you'd like to hear from a specific community member in an upcoming
-recording and/or have specific questions for Microsoft 365 engineering
-or visitors -- please let us know. We will do our best to address your
-requests or questions.
+If you'd like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors -- please let us know. We will do our best to address your requests or questions.
 
 *"Sharing is caring!"*

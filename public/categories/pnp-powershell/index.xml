@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>Use PnP Powershell to add a document library web part to a page (and only show a specific folder)</title>
+      <title>Use PnP PowerShell to add a document library web part to a page (and only show a specific folder)</title>
       <link>https://pnp.github.io/community-blog/post/use-pnp-powershell-to-add-a-document-library-webpart-to-a-page/</link>
       <pubDate>Thu, 10 Jun 2021 08:40:00 -0400</pubDate>
       
@@ -58,7 +58,7 @@
       <pubDate>Wed, 05 May 2021 01:32:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/how-to-to-get-all-site-collections-with-their-sub-webs-using-pnp/</guid>
-      <description>Sometimes we have a business requirement to get site collections with all the sub-webs so we can achieve the solution easily using PnP Powershell.</description>
+      <description>Sometimes we have a business requirement to get site collections with all the sub-webs so we can achieve the solution easily using PnP PowerShell.</description>
     </item>
     
     <item>

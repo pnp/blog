@@ -8,55 +8,29 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-121/pnp-weekly-121-nik.png
 tags: []
 type: "regular"
+summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by are joined Canadian based Senior Program Manager from Microsoft Graph team Nik Charlebois"
 ---
 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by are joined Canadian based Senior Program Manager from Microsoft Graph team [Nik Charlebois](https://twitter.com/NikCharlebois) | @NikCharlebois. 
 
-In this installment of the weekly discussion revolving around the latest
-news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
-joined by are joined Canadian based Senior Program Manager from Microsoft Graph
-team [Nik Charlebois](https://twitter.com/NikCharlebois) |
-@NikCharlebois. 
+Topics discussed in this session include Nik's career development in Canada from being a customer, then moving to Microsoft as a Premier Field Engineer and also on his recent role change on moving to the Microsoft Graph team. They focus on his current responsibilities on driving usage for [Microsoft Graph data connect](https://docs.microsoft.com/graph/data-connect-overview), which helps on accessing information in Microsoft 365. They also talk about [Microsoft 365 DSC](https://microsoft365dsc.com/) open-source work which Nik has been driving for a long time to be able to have desired state configuration for Microsoft 365 tenants.
 
- 
-
-Topics discussed in this session include Nik's career development in
-Canada from being a customer, then moving to Microsoft as a Premier
-Field Engineer and also on his recent role change on moving to the
-Microsoft Graph team. They focus on his current responsibilities on
-driving usage for [Microsoft Graph data
-connect](https://docs.microsoft.com/graph/data-connect-overview),
-which helps on accessing information in Microsoft 365. They also talk
-about [Microsoft 365 DSC](https://microsoft365dsc.com/) open-source work
-which Nik has been driving for a long time to be able to have desired
-state configuration for Microsoft 365 tenants.
-
-They also covered 25 articles from last week published by Microsoft and
-Community.
+They also covered 25 articles from last week published by Microsoft and Community.
 
 This episode was recorded on Tuesday, April 6, 2021.
 
-
 -   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
+    {{< youtube x9N6PfGN5QI >}}
+youtube
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-kfkex-ffebbc >}}
 
-These videos and podcasts are published each week and are intended to be
-roughly 45 - 60 minutes in length.  Please do give us feedback on this
-video and podcast series and also do let us know if you have done
-something cool/useful so that we can cover that in the next weekly
-summary! The easiest way to let us know is to share your work on Twitter
-and add the hashtag
-[#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always
-on the lookout for refreshingly new content. "*Sharing is caring!"* 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. *"Sharing is caring!"* 
 
-Here are all the links and people mentioned in this recording. Thanks,
-everyone for your contributions to the community!
+Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
-**Events:**
-
+## Events
 
 -   April 14, 2021 - [Building Apps with Microsoft
     Graph](https://learntogether-graph.splashthat.com/)
@@ -64,7 +38,6 @@ everyone for your contributions to the community!
     2021](https://mybuild.microsoft.com/)
 
 ## Microsoft articles
-
 
 -   [Install Viva Connections
     today](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/install-viva-connections-today/ba-p/2245410) -
@@ -100,7 +73,6 @@ everyone for your contributions to the community!
     @aprildunnam
 
 ## Community articles
-
 
 -   [Microsoft Graph Fundamentals learning path -- Module
     1](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-graph-fundamentals-learning-path-module-1/ba-p/2249800)
@@ -160,12 +132,7 @@ everyone for your contributions to the community!
     [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting)
     | @eliostruyf
 
- 
-
 ## Additional resources
-
-
- 
 
 -   [PnP Sharing is Caring
     initiative](https://aka.ms/sharing-is-caring) - Getting started
@@ -177,9 +144,6 @@ everyone for your contributions to the community!
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
-If you'd like to hear from a specific community member in an upcoming
-recording and/or have specific questions for Microsoft 365 engineering
-or visitors -- please let us know. We will do our best to address your
-requests or questions.
+If you'd like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors -- please let us know. We will do our best to address your requests or questions.
 
 *"Sharing is caring!"*

@@ -9,7 +9,6 @@ images:
 tags: []
 type: "regular"
 ---
-{{< image alt="Thumb-Ep144-November22.png" src="images/blog/microsoft-365-pnp-weekly-episode-144-catherine-chuaga-microsoft/Thumb-Ep144-November22.png" >}}
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
@@ -20,11 +19,7 @@ joined by Atlanta, US-based Senior Program Manager on the Viva
 Connections Platform team - [Catherine
 Chuaga](https://www.linkedin.com/in/wanjiru-chuaga/). 
 
- 
-
 Topics discussed in this session:
-
- 
 
 -   Delivering impact as voice of the developer ecosystem focused on
     moving the Viva Connections Partner Experience to the next level
@@ -36,35 +31,20 @@ Topics discussed in this session:
 -   4 Tips for woman looking at starting, advancing, transitioning to a
     career in IT.
 
- 
-
-[We also covered 18 articles or videos by Microsoft and the community
-from the last week. ]
-
- 
+We also covered 18 articles or videos by Microsoft and the community
+from the last week.
 
 Please remember to keep on providing us feedback on how we can help on
 this journey. We always welcome feedback on making the community more
 inclusive and diverse.
 
- 
-
-
-
- 
-
 This session was recorded in front of a non-audience on Monday, November
 22, 2021.   Enjoy the show. 
-
- 
-
 
 -   Video at [Microsoft 365 Community YouTube
     channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-
- 
 
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
@@ -76,17 +56,10 @@ hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
 always on the lookout for refreshingly new content. "*Sharing is
 caring!"* 
 
- 
-
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
- 
-
 ## Microsoft articles
-
-
- 
 
 -   [Go developers can now access Microsoft Graph with streamlined
     authentication and
@@ -125,12 +98,7 @@ everyone for your contributions to the community!
     [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) |
     @catpaint1
 
- 
-
 ## Community articles
-
-
- 
 
 -   [Quick SharePoint Approvals using list formatting JSON to set field
     values](https://michelcarlo.com/2021/11/19/quick-sharepoint-approvals-using-list-formatting-to-set-field-values/)
@@ -175,12 +143,7 @@ everyone for your contributions to the community!
     - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks)
     | @DanielGlenn
 
- 
-
 ## Additional resources
-
-
- 
 
 -   [Extend Microsoft Viva
     Connections](https://docs.microsoft.com/learn/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa) -
@@ -201,13 +164,9 @@ everyone for your contributions to the community!
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
- 
-
 If you'd like to hear from a specific community member in an upcoming
 recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
-
- 
 
 *"Sharing is caring!" *

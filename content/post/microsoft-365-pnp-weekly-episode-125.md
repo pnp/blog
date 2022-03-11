@@ -8,49 +8,28 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-125/Thumb-Ep125.png
 tags: []
 type: "regular"
+summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Business Applications MVP, Flow Pro Show co-host, NLightning co-founder and Technical Evangelist at SharePoint ISV Lightning Tools Sandy Ussia.   Topics discussed in this session include:  The appeal of Power Apps and Power Automate - enabling Power Users especially in resource constrained smaller businesses, whether or not Power Apps is the epitome or fulfillment of \"Good-enough IT\", Sandy 2.0, and Lightning Tools' business in COVID times.    Microsoft and the Community delivered 22 articles in this last week.  This session was recorded on Monday, May 3, 2021. " 
 ---
  
 
-In this installment of the weekly discussion revolving around the latest
-news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
-joined by Business Applications MVP, Flow Pro Show co-host, NLightning
-co-founder and Technical Evangelist at SharePoint ISV Lightning Tools
-[Sandy Ussia](https://twitter.com/SandyU) | @SandyU.  
-Topics discussed in this session include:  The appeal of Power Apps and
-Power Automate - enabling Power Users especially in resource constrained
-smaller businesses, whether or not Power Apps is the epitome or
-fulfillment of "Good-enough IT", Sandy 2.0, and Lightning Tools'
-business in COVID times.    Microsoft and the Community delivered 22
-articles in this last week.  This session was recorded on Monday, May 3,
-2021. 
-Please remember to keep on providing us feedback on how we can help on
-this journey. We always welcome feedback on making the community more
-inclusive and diverse.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Business Applications MVP, Flow Pro Show co-host, NLightning co-founder and Technical Evangelist at SharePoint ISV Lightning Tools [Sandy Ussia](https://twitter.com/SandyU) | @SandyU.   Topics discussed in this session include:  The appeal of Power Apps and Power Automate - enabling Power Users especially in resource constrained smaller businesses, whether or not Power Apps is the epitome or fulfillment of "Good-enough IT", Sandy 2.0, and Lightning Tools' business in COVID times.    Microsoft and the Community delivered 22 articles in this last week.  This session was recorded on Monday, May 3, 2021. 
 
- 
+Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
 This episode was recorded on Monday, May 3, 2021.
 
 -   Video at [Microsoft 365 Community YouTube
     channel](https://aka.ms/m365pnp-videos)
+    {{< youtube APGShP4J1so >}}
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-These videos and podcasts are published each week and are intended to be
-roughly 45 - 60 minutes in length.  Please do give us feedback on this
-video and podcast series and also do let us know if you have done
-something cool/useful so that we can cover that in the next weekly
-summary! The easiest way to let us know is to share your work on Twitter
-and add the
-hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
-always on the lookout for refreshingly new content. "*Sharing is
-caring!"* 
-Here are all the links and people mentioned in this recording. Thanks,
-everyone for your contributions to the community!
+    {{< podbean pb-wfyeb-1027f96 >}}
 
-**Events:**
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. "*Sharing is caring!"* 
+
+Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
+
+## Events
 
 -   May 4, 2021 - [Microsoft Business Applications Summit
     (MBAS)](https://www.register.mbas.microsoft.com/) - Digital Event
@@ -60,7 +39,6 @@ everyone for your contributions to the community!
     Summit](https://www.collabsummit.org/)
     -   Register with coupon code "PnP" for 25% off from the prize
         at <https://nacs.ticketspice.com/nacs2021>
-
 
 ## Microsoft articles
 
@@ -160,7 +138,6 @@ everyone for your contributions to the community!
 
 ## Additional resources
 
-
 -   [Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
 -   [Power Platform Sample
     Gallery](https://aka.ms/powerplatform-samples) - for finding easily
@@ -175,9 +152,7 @@ everyone for your contributions to the community!
     at <https://aka.ms/m365pnp/community>
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
-If you'd like to hear from a specific community member in an upcoming
-recording and/or have specific questions for Microsoft 365 engineering
-or visitors -- please let us know. We will do our best to address your
-requests or questions.
+
+If you'd like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors -- please let us know. We will do our best to address your requests or questions.
 
 *"Sharing is caring!"*

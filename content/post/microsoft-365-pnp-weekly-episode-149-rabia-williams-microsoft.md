@@ -25,12 +25,8 @@ Topics discussed in this session:
 -   Career tips for women considering a job in IT?   Representation
     matters. 
 
-We also covered 21 articles published by Microsoft and the PnP Community
-over the last week. 
-
-Please remember to keep on providing us feedback on how we can help on
-this journey. We always welcome feedback on making the community more
-inclusive and diverse.
+We also covered 21 articles published by Microsoft and the PnP Community over the last week. 
+Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
 This session was recorded on Monday, January 17, 2022.   Enjoy the
 show. 
@@ -48,18 +44,9 @@ Podcast format at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.co
 
 {{< podbean sharelink="pb-8tdhh-1180e09" title="PnP Weekly">}}
 
-These videos and podcasts are published each week and are intended to be
-roughly 45 - 60 minutes in length.  Please do give us feedback on this
-video and podcast series and also do let us know if you have done
-something cool/useful so that we can cover that in the next weekly
-summary! The easiest way to let us know is to share your work on Twitter
-and add the
-hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
-always on the lookout for refreshingly new content. "*Sharing is
-caring!"* 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. "*Sharing is caring!"* 
 
-Here are all the links and people mentioned in this recording. Thanks,
-everyone for your contributions to the community!
+Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
 ## Microsoft articles
 
@@ -167,10 +154,6 @@ everyone for your contributions to the community!
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
-
-If you'd like to hear from a specific community member in an upcoming
-recording and/or have specific questions for Microsoft 365 engineering
-or visitors -- please let us know. We will do our best to address your
-requests or questions.
+If you'd like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors -- please let us know. We will do our best to address your requests or questions.
 
 *"Sharing is caring!" *

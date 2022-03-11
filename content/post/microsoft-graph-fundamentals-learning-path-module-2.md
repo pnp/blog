@@ -11,7 +11,6 @@ type: "regular"
 
 ---
 
-
 Welcome back to my series about the [Microsoft Graph Fundamentals
 learning
 path](https://docs.microsoft.com/learn/paths/m365-msgraph-fundamentals/) on
@@ -110,8 +109,6 @@ application before:
 
 {{< image alt="appreg.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/appreg.png" >}}
 
- 
-
 Let's now
 
 ## Retrieve an access token using MSAL
@@ -122,7 +119,6 @@ access Microsoft Graph.
 
 {{< image alt="auth.gif" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/auth.gif" >}}
 
- 
 Now that we understood the authentication flow, it's time to get our
 hands dirty with
 
@@ -138,7 +134,7 @@ map this code to the authentication flow.
 
 {{< image alt="GraphApp.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphApp.png" >}}
 
-Congratz! - you made it!
+Congrats! - you made it!
 
 {{< image alt="GraphFun-didit2.png" src="images/blog/microsoft-graph-fundamentals-learning-path-module-2/GraphFun-didit2.png" >}}
 

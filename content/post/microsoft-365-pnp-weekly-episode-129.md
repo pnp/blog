@@ -9,7 +9,7 @@ images:
 tags: []
 type: "regular"
 ---
-{{< image alt="pnp-weekly-129.png" src="images/blog/microsoft-365-pnp-weekly-episode-129/pnp-weekly-129.png" >}}
+
 In this instalment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
 Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
@@ -21,8 +21,8 @@ Please remember to keep on providing us feedback on how we can help on
 this journey. We always welcome feedback on making the community more
 inclusive and diverse.
 
-[This episode was recorded on Monday, May 31,
-2021.]
+This episode was recorded on Monday, May 31,
+2021.
 
 -   Video at [Microsoft 365 Community YouTube
     channel](https://aka.ms/m365pnp-videos)
@@ -40,7 +40,7 @@ caring!"* 
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
-**Events:**
+## Events
 
 -   June 1-2, 2021 - [European SharePoint Conference 2021 -
     Online](https://www.sharepointeurope.com/conference/schedule/)

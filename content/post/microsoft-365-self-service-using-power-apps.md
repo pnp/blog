@@ -62,28 +62,10 @@ The flow is using the switch feature to determine what action should be taken. T
 
 {{< image alt="JanBakker_0-1641843830957.png" src="images/blog/microsoft-365-self-service-using-power-apps/JanBakker_0-1641843830957.png" >}}
 
-**How to get started?**
+## How to get started?
 
-This demo app is 
-[GitHub
-](https://github.com/BakkerJan/M365Portal) and can
-be up and running in
-minutes. Reach out to this
-repository for detailed information and step-by-step
-instructions
-Also
-[make sure
-to check out 
-[this YouTube video](https://www.youtube.com/watch?v=MzH1Ps6gG7A) for
-a short tutorial
+This demo app is on [GitHub ](https://github.com/BakkerJan/M365Portal) and can be up and running in minutes. Reach out to this repository for detailed information and step-by-step instructions Also [make sure to check out [this YouTube video](https://www.youtube.com/watch?v=MzH1Ps6gG7A) for a short tutorial
 
-**Conclusion**
+## Conclusion
 
-We hope to have provided some inspiration in 
- facilitating your end
-users with a 
- self-service experience using the
-Power Platform. Allowing your users to interact with an easy interface
-and requesting [the features they
-feel add[ value will make sure you
-stay in control!
+We hope to have provided some inspiration in facilitating your end users with a  self-service experience using the Power Platform. Allowing your users to interact with an easy interface and requesting [the features they feel add[ value will make sure you stay in control!

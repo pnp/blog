@@ -3,13 +3,148 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pnp.github.io/community-blog/post/</loc>
-    <lastmod>2022-01-21T01:14:00-05:00</lastmod>
+    <lastmod>2022-03-08T09:54:29+00:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/categories/</loc>
-    <lastmod>2022-01-21T01:14:00-05:00</lastmod>
+    <lastmod>2022-03-08T09:54:29+00:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/m365-dev-podcast-universal-actions-and-adaptive-card-updates-with-fabian-williams/</loc>
+    <lastmod>2022-03-08T09:54:29+00:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/</loc>
-    <lastmod>2022-01-21T01:14:00-05:00</lastmod>
+    <lastmod>2022-03-08T09:54:29+00:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/categories/microsoft-365-developer-podcast/</loc>
+    <lastmod>2022-03-08T09:54:29+00:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/m365-dev-podcast-property-pane-portal-project-with-christophe/</loc>
+    <lastmod>2022-01-31T06:04:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/adaptive-cards/</loc>
+    <lastmod>2022-01-31T05:23:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/categories/adaptive-cards-community-call-recordings/</loc>
+    <lastmod>2022-01-31T05:23:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-january-2022/</loc>
+    <lastmod>2022-01-31T05:23:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/developer/</loc>
+    <lastmod>2022-01-31T05:23:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/microsoft-365/</loc>
+    <lastmod>2022-01-31T05:23:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/power-automate/</loc>
+    <lastmod>2022-01-31T05:23:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/</loc>
+    <lastmod>2022-01-31T05:23:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/azure-ad/</loc>
+    <lastmod>2022-01-28T12:17:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/cli-for-microsoft-365/</loc>
+    <lastmod>2022-01-28T12:17:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-4/</loc>
+    <lastmod>2022-01-28T12:17:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/microsoft-365-apps/</loc>
+    <lastmod>2022-01-28T12:17:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/sharepoint-framework/</loc>
+    <lastmod>2022-01-28T12:17:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/sharepoint-online/</loc>
+    <lastmod>2022-01-28T12:17:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/spfx/</loc>
+    <lastmod>2022-01-28T12:17:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/add-ins/</loc>
+    <lastmod>2022-01-28T02:07:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/extensions/</loc>
+    <lastmod>2022-01-28T02:07:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/microsoft-teams/</loc>
+    <lastmod>2022-01-28T02:07:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings/</loc>
+    <lastmod>2022-01-28T02:07:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/sharepoint/</loc>
+    <lastmod>2022-01-28T02:07:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/viva-connections/</loc>
+    <lastmod>2022-01-28T02:07:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-27th-of/</loc>
+    <lastmod>2022-01-28T02:07:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/adaptive-card-extensions/</loc>
+    <lastmod>2022-01-26T06:24:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/create-your-first-adaptive-card-extensions-aces-with-spfx/</loc>
+    <lastmod>2022-01-26T06:24:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/welcome-new-employee-in-teams-using-adaptive-card/</loc>
+    <lastmod>2022-01-26T02:27:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/graph-toolkit/</loc>
+    <lastmod>2022-01-26T02:23:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/how-to-use-graph-toolkit-in-teams-app-inside-teams-tab/</loc>
+    <lastmod>2022-01-26T02:23:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/mgt/</loc>
+    <lastmod>2022-01-26T02:23:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/microsoft-graph-toolkit/</loc>
+    <lastmod>2022-01-26T02:23:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/teams-app/</loc>
+    <lastmod>2022-01-26T02:23:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/teams-tabs/</loc>
+    <lastmod>2022-01-26T02:23:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/using-power-automate-flow-api-in-your-spfx-solution/</loc>
+    <lastmod>2022-01-26T02:22:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/categories/microsoft-365-platform-call-recordings/</loc>
+    <lastmod>2022-01-25T09:09:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-25th-of-january-2022/</loc>
+    <lastmod>2022-01-25T09:09:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/microsoft-graph/</loc>
+    <lastmod>2022-01-25T09:09:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/</loc>
+    <lastmod>2022-01-25T03:21:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/categories/pnp-weekly/</loc>
+    <lastmod>2022-01-25T03:21:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/microsoft-365-developer/</loc>
+    <lastmod>2022-01-24T05:15:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/microsoft-azure/</loc>
+    <lastmod>2022-01-24T05:15:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/tags/microsoft-identity-platform/</loc>
+    <lastmod>2022-01-24T05:15:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/categories/microsoft-identity-platform-community-call-recordings/</loc>
+    <lastmod>2022-01-24T05:15:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-january-2022/</loc>
+    <lastmod>2022-01-24T05:15:00-05:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/m365-dev-podcast-microsoft-graph-data-connect-with-nik/</loc>
+    <lastmod>2022-01-24T05:57:00-04:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-20th-of-january/</loc>
     <lastmod>2022-01-21T01:14:00-05:00</lastmod>
@@ -17,10 +152,16 @@
     <loc>https://pnp.github.io/community-blog/categories/microsoft-365-developer-community-call-recordings/</loc>
     <lastmod>2022-01-21T01:14:00-05:00</lastmod>
   </url><url>
-    <loc>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-18th-of-january-2022/</loc>
-    <lastmod>2022-01-19T03:18:00-05:00</lastmod>
+    <loc>https://pnp.github.io/community-blog/tags/power-apps/</loc>
+    <lastmod>2022-01-19T12:10:00-04:00</lastmod>
   </url><url>
-    <loc>https://pnp.github.io/community-blog/categories/microsoft-365-platform-call-recordings/</loc>
+    <loc>https://pnp.github.io/community-blog/categories/power-apps-community-call-recordings/</loc>
+    <lastmod>2022-01-19T12:10:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/power-apps-community-call-january-2022/</loc>
+    <lastmod>2022-01-19T12:10:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-18th-of-january-2022/</loc>
     <lastmod>2022-01-19T03:18:00-05:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/categories/office-add-in-developer-community-call-recordings/</loc>
@@ -44,9 +185,6 @@
     <loc>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/</loc>
     <lastmod>2022-01-18T02:09:00-05:00</lastmod>
   </url><url>
-    <loc>https://pnp.github.io/community-blog/categories/pnp-weekly/</loc>
-    <lastmod>2022-01-18T02:09:00-05:00</lastmod>
-  </url><url>
     <loc>https://pnp.github.io/community-blog/post/course-registration-with-list-formatting/</loc>
     <lastmod>2022-01-17T12:43:00-05:00</lastmod>
   </url><url>
@@ -64,9 +202,6 @@
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/working-with-apis-in-power-platform-for-beginners/</loc>
     <lastmod>2022-01-15T08:33:00-05:00</lastmod>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings/</loc>
-    <lastmod>2022-01-14T04:26:00-05:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-13th-of/</loc>
     <lastmod>2022-01-14T04:26:00-05:00</lastmod>
@@ -95,9 +230,6 @@
     <loc>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-november-2021/</loc>
     <lastmod>2022-01-07T01:30:00-05:00</lastmod>
   </url><url>
-    <loc>https://pnp.github.io/community-blog/categories/adaptive-cards-community-call-recordings/</loc>
-    <lastmod>2022-01-07T01:30:00-05:00</lastmod>
-  </url><url>
     <loc>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-6th-of-january/</loc>
     <lastmod>2022-01-07T01:01:00-05:00</lastmod>
   </url><url>
@@ -111,9 +243,6 @@
     <lastmod>2021-12-31T02:42:00-05:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-december-2021/</loc>
-    <lastmod>2021-12-30T12:21:00-05:00</lastmod>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/categories/microsoft-identity-platform-community-call-recordings/</loc>
     <lastmod>2021-12-30T12:21:00-05:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-28th-of-december-2021/</loc>
@@ -140,16 +269,10 @@
     <loc>https://pnp.github.io/community-blog/post/power-apps-community-call-december-2021/</loc>
     <lastmod>2021-12-15T08:40:00-04:00</lastmod>
   </url><url>
-    <loc>https://pnp.github.io/community-blog/categories/power-apps-community-call-recordings/</loc>
-    <lastmod>2021-12-15T08:40:00-04:00</lastmod>
-  </url><url>
     <loc>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-14th-of-december-2021/</loc>
     <lastmod>2021-12-15T01:39:00-05:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/m365-dev-podcast-onboarding-developers-with-ahmed-el-herazy-and/</loc>
-    <lastmod>2021-12-13T07:02:00-05:00</lastmod>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/categories/microsoft-365-developer-podcast/</loc>
     <lastmod>2021-12-13T07:02:00-05:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/categories/adaptive-cards/</loc>
@@ -362,6 +485,9 @@
     <loc>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-september-2021/</loc>
     <lastmod>2021-10-07T09:56:00-04:00</lastmod>
   </url><url>
+    <loc>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-5th-of-october-2021/</loc>
+    <lastmod>2021-10-06T03:01:00-04:00</lastmod>
+  </url><url>
     <loc>https://pnp.github.io/community-blog/post/m365-dev-podcast-bot-framework-composer-video-series-with-ay%c3%a7a/</loc>
     <lastmod>2021-10-05T05:30:00-04:00</lastmod>
   </url><url>
@@ -554,6 +680,9 @@
     <loc>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-content-design-for-sharepoint/</loc>
     <lastmod>2021-08-09T06:11:00-04:00</lastmod>
   </url><url>
+    <loc>https://pnp.github.io/community-blog/post/use-single-tenant-azure-ad-apps-with-microsoft-graph-toolkit/</loc>
+    <lastmod>2021-08-08T08:40:00-04:00</lastmod>
+  </url><url>
     <loc>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-5th-of-august/</loc>
     <lastmod>2021-08-05T07:52:00-04:00</lastmod>
   </url><url>
@@ -683,6 +812,9 @@
     <loc>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-microsoft-graph-connectors-with/</loc>
     <lastmod>2021-06-21T08:14:00-04:00</lastmod>
   </url><url>
+    <loc>https://pnp.github.io/community-blog/post/save-an-email-attachment-to-a-custom-path-with-power-automate/</loc>
+    <lastmod>2021-06-20T11:11:00-04:00</lastmod>
+  </url><url>
     <loc>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-17th-of-june-2021/</loc>
     <lastmod>2021-06-18T12:58:00-04:00</lastmod>
   </url><url>
@@ -740,6 +872,12 @@
     <loc>https://pnp.github.io/community-blog/post/getting-started-with-graph-api-in-spfx-webpart/</loc>
     <lastmod>2021-06-03T03:59:00-04:00</lastmod>
   </url><url>
+    <loc>https://pnp.github.io/community-blog/post/microsoft-graph-community-call-june-2021/</loc>
+    <lastmod>2021-06-02T12:29:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/categories/microsoft-graph-community-call-recordings/</loc>
+    <lastmod>2021-06-02T12:29:00-04:00</lastmod>
+  </url><url>
     <loc>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-129/</loc>
     <lastmod>2021-06-01T06:46:00-04:00</lastmod>
   </url><url>
@@ -776,10 +914,10 @@
     <loc>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-20th-of-may-2021/</loc>
     <lastmod>2021-05-21T02:44:00-04:00</lastmod>
   </url><url>
-    <loc>https://pnp.github.io/community-blog/post/microsoft-graph-community-call-may-2021/</loc>
-    <lastmod>2021-05-20T05:28:00-04:00</lastmod>
+    <loc>https://pnp.github.io/community-blog/post/do-you-need-ngrok-to-develop-microsoft-teams-apps/</loc>
+    <lastmod>2021-05-20T10:41:00-04:00</lastmod>
   </url><url>
-    <loc>https://pnp.github.io/community-blog/categories/microsoft-graph-community-call-recordings/</loc>
+    <loc>https://pnp.github.io/community-blog/post/microsoft-graph-community-call-may-2021/</loc>
     <lastmod>2021-05-20T05:28:00-04:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-april-2021/</loc>
@@ -911,14 +1049,8 @@
     <loc>https://pnp.github.io/community-blog/post/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/</loc>
     <lastmod>2021-04-26T12:28:00-04:00</lastmod>
   </url><url>
-    <loc>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-spotlight-wictor-wil%c3%a9n/</loc>
+    <loc>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-spotlight-wictor-wilen/</loc>
     <lastmod>2021-04-25T11:54:00-04:00</lastmod>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/tags/non-dev/</loc>
-    <lastmod>2021-04-25T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/tags/</loc>
-    <lastmod>2021-04-25T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/</loc>
     <lastmod>2021-04-25T13:00:00+00:00</lastmod>
@@ -937,6 +1069,9 @@
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/power-apps-community-call-april-2021/</loc>
     <lastmod>2021-04-21T08:40:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/how-to-beautify-your-power-apps/</loc>
+    <lastmod>2021-04-21T02:36:00-04:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-123/</loc>
     <lastmod>2021-04-20T02:47:00-04:00</lastmod>
@@ -994,6 +1129,9 @@
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/copy-a-list-with-list-items-to-another-site/</loc>
     <lastmod>2021-04-01T08:47:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/microsoft-graph-fundamentals-learning-path-module-1/</loc>
+    <lastmod>2021-04-01T03:06:00-04:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/spfx-image-editor-sample-playing-with-canvas/</loc>
     <lastmod>2021-03-31T09:49:00-04:00</lastmod>
@@ -1072,6 +1210,9 @@
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/getting-started-with-sharepoint-s-custom-column-formatting/</loc>
     <lastmod>2021-03-14T10:08:00-04:00</lastmod>
+  </url><url>
+    <loc>https://pnp.github.io/community-blog/post/run-cli-for-microsoft-365-in-docker/</loc>
+    <lastmod>2021-03-13T02:34:00-05:00</lastmod>
   </url><url>
     <loc>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-recording-11th-of-march-2021/</loc>
     <lastmod>2021-03-12T01:38:00-05:00</lastmod>
@@ -1154,6 +1295,9 @@
     <loc>https://pnp.github.io/community-blog/post/use-node-version-manager-to-develop-your-spfx-apps/</loc>
     <lastmod>2021-02-14T08:40:00-04:00</lastmod>
   </url><url>
+    <loc>https://pnp.github.io/community-blog/post/modern-sharepoint-list-formatting/</loc>
+    <lastmod>2021-02-12T06:56:00-05:00</lastmod>
+  </url><url>
     <loc>https://pnp.github.io/community-blog/post/how-to-create-an-improved-microsoft-teams-files-approval-process/</loc>
     <lastmod>2021-02-12T05:46:00-05:00</lastmod>
   </url><url>
@@ -1184,46 +1328,7 @@
     <loc>https://pnp.github.io/community-blog/post/how-to-configure-and-use-incoming-webhooks-in-microsoft-teams/</loc>
     <lastmod>2021-01-11T03:37:00-05:00</lastmod>
   </url><url>
-    <loc>https://pnp.github.io/community-blog/tags/demo/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/categories/demo/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/tags/elements/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/categories/elements/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/post/elements/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://pnp.github.io/community-blog/404/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/about-us/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/author/adam-wojcik/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/author/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/contact/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/author/danny-mark/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/author/john-doe/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/author/kate-stone/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/author/mark-dinn/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/author/michael-roth/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/privacy-policy/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/terms-conditions/</loc>
-  </url><url>
-    <loc>https://pnp.github.io/community-blog/author/scarlet-witch/</loc>
   </url><url>
     <loc>https://pnp.github.io/community-blog/search/</loc>
   </url>

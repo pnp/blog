@@ -9,9 +9,6 @@ images:
 tags: []
 type: "regular"
 ---
-{{< image alt="Thumb-Ep143-November15.png" src="images/blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/Thumb-Ep143-November15.png" >}}
-
- 
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
@@ -22,11 +19,7 @@ joined by Nairobi, Kenya-based Program Manager at Microsoft - [Roina
 Ochieng](http://twitter.com/roinochieng) | @roinochieng, who works in
 the Microsoft Graph team focusing on the SDKs and tooling.
 
- 
-
-Topics discussed in this session:
-
- 
+Topics discussed in this session: 
 
 -   Working for a global organization with widely dispersed teams and
     with a growth mindset.   
@@ -40,35 +33,21 @@ Topics discussed in this session:
     enabling low friction tooling that helps people integrate with
     Microsoft 365 more easily.
 
- 
 
-[We also covered 12 articles or videos by Microsoft and the community
-from the last week. ]
-
- 
+We also covered 12 articles or videos by Microsoft and the community
+from the last week.
 
 Please remember to keep on providing us feedback on how we can help on
 this journey. We always welcome feedback on making the community more
 inclusive and diverse.
 
- 
-
-
-
- 
-
 This session was recorded in front of a non-audience on Monday, November
 15, 2021.   Enjoy the show. 
-
- 
-
 
 -   Video at [Microsoft 365 Community YouTube
     channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-
- 
 
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
@@ -80,17 +59,10 @@ hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
 always on the lookout for refreshingly new content. "*Sharing is
 caring!"* 
 
- 
-
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
- 
-
 ## Microsoft articles
-
-
- 
 
 -   [Viva Connections mobile and new partner integrations are now
     generally
@@ -101,12 +73,7 @@ everyone for your contributions to the community!
     Edition](https://techcommunity.microsoft.com/t5/tech-community-live/microsoft-tech-community-live-microsoft-viva-edition/ev-p/2824340) -
     Microsoft
 
- 
-
 ## Community articles
-
-
- 
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team members --
     November
@@ -150,12 +117,7 @@ everyone for your contributions to the community!
 -   [November 2021 DIWUG
     Meetup](https://www.meetup.com/Dutch-Information-Workers-User-Group-DIWUG/events/281733416/)
 
- 
-
 ## Additional resources
-
-
- 
 
 -   [Extend Microsoft Viva
     Connections](https://docs.microsoft.com/learn/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa) -
@@ -176,13 +138,9 @@ everyone for your contributions to the community!
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
- 
-
 If you'd like to hear from a specific community member in an upcoming
 recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
-
- 
 
 *"Sharing is caring!" *

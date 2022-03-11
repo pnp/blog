@@ -8,62 +8,29 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-124/Thumb-Ep124.png
 tags: []
 type: "regular"
+summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by MVP, PnP Team member, and Architect at US-based Sympraxis Consulting Emily Mancini.   Topics discussed in this session include:  Sharing is Caring engagement model, Aligning and addressing the client's business needs with capabilities of owned technologies, i.e., Microsoft 365 for making changes with the business and not to the business!   Conscious/unconscious usage of the Microsoft 365 Maturity Model for business ROI maximization.   Ideas for increasing diversity in IT personnel, Imposter Syndrome, Tech vs Outcome and Teams or Yammer.   "
 ---
 
-In this installment of the weekly discussion revolving around the latest
-news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
-joined by MVP, PnP Team member, and Architect at US-based Sympraxis
-Consulting [Emily Mancini](https://twitter.com/EEMancini)
-|@EEMancini.   Topics discussed in this session include:  Sharing is
-Caring engagement model, Aligning and addressing the client's business
-needs with capabilities of owned technologies, i.e., Microsoft 365 for
-making changes with the business and not to the business!
-  Conscious/unconscious usage of the Microsoft 365 Maturity Model for
-business ROI maximization.   Ideas for increasing diversity in IT
-personnel, Imposter Syndrome, Tech vs Outcome and Teams or Yammer.   
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by MVP, PnP Team member, and Architect at US-based Sympraxis Consulting [Emily Mancini](https://twitter.com/EEMancini) |@EEMancini.   Topics discussed in this session include:  Sharing is Caring engagement model, Aligning and addressing the client's business needs with capabilities of owned technologies, i.e., Microsoft 365 for making changes with the business and not to the business!   Conscious/unconscious usage of the Microsoft 365 Maturity Model for business ROI maximization.   Ideas for increasing diversity in IT personnel, Imposter Syndrome, Tech vs Outcome and Teams or Yammer.   
 
+Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
  
-
-Please remember to keep on providing us feedback on how we can help on
-this journey. We always welcome feedback on making the community more
-inclusive and diverse.
-
- 
-
 Covering also 23 articles from Microsoft and the Community.
 
 This episode was recorded on Monday, April 26, 2021.
 
- 
-
-
 -   Video at [Microsoft 365 Community YouTube
     channel](https://aka.ms/m365pnp-videos)
+    {{< youtube TXqSa4F9uzU >}}
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-y232n-101d8af >}}
 
-
-These videos and podcasts are published each week and are intended to be
-roughly 45 - 60 minutes in length.  Please do give us feedback on this
-video and podcast series and also do let us know if you have done
-something cool/useful so that we can cover that in the next weekly
-summary! The easiest way to let us know is to share your work on Twitter
-and add the
-hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
-always on the lookout for refreshingly new content. "*Sharing is
-caring!"* 
-
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. *"Sharing is caring!"* 
  
+Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
-Here are all the links and people mentioned in this recording. Thanks,
-everyone for your contributions to the community!\
-\
-
-**Events:**
-
+## Events
 
 -   April 26-28, 2021 - [Microsoft 365 Virtual Marathon
     2021](https://www.m365virtualmarathon.com/)
@@ -74,12 +41,7 @@ everyone for your contributions to the community!\
     -   Register with coupon code "PnP" for 25% off from the prize
         at <https://nacs.ticketspice.com/nacs2021>
 
- 
-
 ## Microsoft articles
-
-
- 
 
 -   [Announcing Viva Learning public
     preview](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-viva-learning-public-preview/ba-p/2251542?WT.mc_id=m365-26913-wmastyka) -
@@ -102,12 +64,7 @@ everyone for your contributions to the community!\
     messages](https://developer.microsoft.com/microsoft-365/blogs/utilize-change-notification-apis-for-microsoft-teams-messages/?WT.mc_id=m365-26913-wmastyka) -
     Microsoft
 
- 
-
 ## Community articles
-
-
- 
 
 -   [Teams - an adoption idea? Transfer your group chat emails to Teams
     with Power
@@ -187,12 +144,7 @@ everyone for your contributions to the community!\
     @AntonioMaio2 and [Mike
     Maadarani](https://twitter.com/mikemaadarani) | @mikemaadarani
 
- 
-
 ## Additional resources
-
-
- 
 
 -   [Maturity Model for Microsoft
     365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
@@ -213,13 +165,7 @@ everyone for your contributions to the community!\
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
- 
-
-If you'd like to hear from a specific community member in an upcoming
-recording and/or have specific questions for Microsoft 365 engineering
-or visitors -- please let us know. We will do our best to address your
-requests or questions.
-
+If you'd like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors -- please let us know. We will do our best to address your requests or questions.
  
 
 *"Sharing is caring!"*

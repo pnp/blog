@@ -9,9 +9,6 @@ images:
 tags: []
 type: "regular"
 ---
-{{< image alt="Thumb-Ep138.png" src="images/blog/microsoft-365-pnp-weekly-episode-138-carmen-ysewijn-qubix-and/Thumb-Ep138.png" >}}
-
- 
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
@@ -23,8 +20,6 @@ developer [Luise Freese](http://twitter.com/LuiseFreese) |
 @LuiseFreese and Belgium-based SharePoint/Power Platform developer at
 Qubix, [Carmen Ysewijn](http://twitter.com/CarmenYsewijn) |
 @CarmenYsewijn.
-
- 
 
 Topics discussed in this session include: 
 
@@ -40,30 +35,17 @@ Topics discussed in this session include: 
 We also covered 12 articles by Microsoft and the community from the last
 week. 
 
- 
-
 Please remember to keep on providing us feedback on how we can help on
 this journey. We always welcome feedback on making the community more
 inclusive and diverse.
 
- 
-
-
-
- 
-
 This session was recorded in front of web cams in totally audience free
 rooms on Monday, October 11, 2021.
-
- 
-
 
 -   Video at [Microsoft 365 Community YouTube
     channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-
- 
 
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
@@ -75,17 +57,10 @@ hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
 always on the lookout for refreshingly new content. "*Sharing is
 caring!"* 
 
- 
-
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
- 
-
 ## Microsoft articles
-
-
- 
 
 -   [SharePoint Roadmap Pitstop: September
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-september-2021/ba-p/2806235) -
@@ -109,12 +84,7 @@ everyone for your contributions to the community!
     Apps](https://docs.microsoft.com/events/learntv/developing-real-time-together-collaborative-apps-october-2021/?WT.mc_id=m365-44916-cxa) -
     Microsoft
 
- 
-
 ## Community articles
-
-
- 
 
 -   [Meeting feedback with Microsoft Teams Meeting
     App](https://mmsharepoint.wordpress.com/2021/10/09/meeting-feedback-with-microsoft-teams-meeting-app/) -
@@ -144,9 +114,6 @@ everyone for your contributions to the community!
 
 ## Additional resources
 
-
- 
-
 -   Microsoft 365 Unified Sample Gallery (preview)
     - <https://aka.ms/m365/samples> 
 -   [PnP Sharing is Caring
@@ -159,13 +126,9 @@ everyone for your contributions to the community!
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
- 
-
 If you'd like to hear from a specific community member in an upcoming
 recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
-
- 
 
 *"Sharing is caring!"*

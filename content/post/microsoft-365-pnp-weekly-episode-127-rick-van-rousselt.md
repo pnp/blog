@@ -52,7 +52,7 @@ caring!"* 
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
-**Events:**
+## Events
 
 -   May 25-27, 2021- [Microsoft Build
     2021](https://mybuild.microsoft.com/?WT.mc_id=m365-28827-wmastyka)

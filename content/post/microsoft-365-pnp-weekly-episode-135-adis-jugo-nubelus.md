@@ -9,9 +9,6 @@ images:
 tags: []
 type: "regular"
 ---
-{{< image alt="pnp-weekly-135.png" src="images/blog/microsoft-365-pnp-weekly-episode-135-adis-jugo-nubelus/pnp-weekly-135.png" >}}
-
- 
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
@@ -24,44 +21,29 @@ Jugo](https://twitter.com/adisjugo) | @adisjugo.
 
  
 
-Topics discussed in this session include: \
-\
+Topics discussed in this session include: 
 
 -   Discussion on the development around Azure and Microsoft 365
     services - call out for Azure Cognitive Services
 -   Role of Microsoft 365 and Azure for building business solutions
 -   History and the future of the [European Collaboration
     Summit](https://www.collabsummit.eu/en/) conference
--   Discussion on the remote vs in-person conferences\
-    \
+-   Discussion on the remote vs in-person conferences
 
 We also covered 15 articles by Microsoft and the PnP Community from the
 last week. 
-
- 
 
 Please remember to keep on providing us feedback on how we can help on
 this journey. We always welcome feedback on making the community more
 inclusive and diverse.
 
- 
-
-
-
- 
-
 This session was recorded in front of absolutely no audience in two
 parts - Monday, September 13, 2021 and Tuesday, September 21, 2021.
-
- 
-
 
 -   Video at [Microsoft 365 Community YouTube
     channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-
- 
 
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
@@ -73,18 +55,11 @@ hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
 always on the lookout for refreshingly new content. "*Sharing is
 caring!"* 
 
- 
-
 Here are all the links and people mentioned in this recording. Thanks,
-everyone for your contributions to the community!\
-\
-
+everyone for your contributions to the community!
  
 
 ## Microsoft articles
-
-
- 
 
 -   [Bringing large groups and communities together in
     Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bringing-large-groups-and-communities-together-in-teams/ba-p/2758095) -
@@ -93,12 +68,7 @@ everyone for your contributions to the community!\
     (beta)](https://developer.microsoft.com/microsoft-365/blogs/changes-to-the-microsoft-365-advanced-ediscovery-create-case-api-beta/) -
     Microsoft
 
- 
-
 ## Community articles
-
-
- 
 
 -   [Multi-tenant architecture for SaaS
     apps](https://developer.microsoft.com/microsoft-365/blogs/multi-tenant-architechture-for-saas-apps/) -
@@ -157,12 +127,7 @@ everyone for your contributions to the community!\
     - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade)
     | @Moeller2_0
 
- 
-
 ## Additional resources
-
-
- 
 
 -   Microsoft 365 Extensibility Look Book -
     <https://aka.ms/m365/extensibility> 
@@ -178,13 +143,9 @@ everyone for your contributions to the community!\
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
- 
-
 If you'd like to hear from a specific community member in an upcoming
 recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
-
- 
 
 *"Sharing is caring!"*

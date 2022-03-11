@@ -8,51 +8,28 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-122/Thumb-Ep122.png
 tags: []
 type: "regular"
+summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by a Partner at the US-based consultancy PAIT Group and Microsoft 365 MVP Mark Rackley."
 ---
 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by a Partner at the US-based consultancy PAIT Group and Microsoft 365 MVP [Mark Rackley](http://twitter.com/mrackley) | @mrackley. 
 
-{{< image alt="Thumb-Ep122.png" src="images/blog/microsoft-365-pnp-weekly-episode-122/Thumb-Ep122.png" >}}
-
-In this installment of the weekly discussion revolving around the latest
-news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
-joined by a Partner at the US-based consultancy PAIT Group and Microsoft
-365 MVP [Mark Rackley](http://twitter.com/mrackley) | @mrackley. 
-
-Topics discussed in this session include:   Hillbilly tabs, North
-American Collaboration Summit, how the transition from on-Prem to Cloud
-along with a talented PnP community has impacted the need to customize
-applications.  Hiring based on who's available, managing the pace of
-change and customer expectations, deployment planning, and the business
-unit customer's interest in Microsoft Viva experience.
+Topics discussed in this session include:   Hillbilly tabs, North American Collaboration Summit, how the transition from on-Prem to Cloud along with a talented PnP community has impacted the need to customize applications.  Hiring based on who's available, managing the pace of change and customer expectations, deployment planning, and the business unit customer's interest in Microsoft Viva experience.
 
 Covering also 20 articles from Microsoft and the Community.
 
 This episode was recorded on Monday, April 12, 2021.
 
- 
-
-
 -   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
+    {{< youtube Pz9OpquGDfU >}}
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-43irr-100883f >}}
 
-These videos and podcasts are published each week and are intended to be
-roughly 45 - 60 minutes in length.  Please do give us feedback on this
-video and podcast series and also do let us know if you have done
-something cool/useful so that we can cover that in the next weekly
-summary! The easiest way to let us know is to share your work on Twitter
-and add the hashtag
-[#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always
-on the lookout for refreshingly new content. "*Sharing is caring!"* 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. *"Sharing is caring!"* 
 
-Here are all the links and people mentioned in this recording. Thanks,
-everyone for your contributions to the community!
+Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
-**Events:**
-
+## Events
 
 -   April 14, 2021 - [Building Apps with Microsoft
     Graph](https://learntogether-graph.splashthat.com/)
@@ -65,7 +42,6 @@ everyone for your contributions to the community!
 
 ## Microsoft articles
 
-
 -   [Microsoft Teams Rooms on Android | April 2021
     Updates](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-rooms-on-android-april-2021-updates/ba-p/2259772) -
     Microsoft
@@ -77,7 +53,6 @@ everyone for your contributions to the community!
     - Microsoft
 
 ## Community articles
-
 
 -   [Introduction to
     tokens](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-tokens/ba-p/2267853) -
@@ -146,7 +121,6 @@ everyone for your contributions to the community!
 
 ## Additional resources
 
-
 -   [PnP Sharing is Caring
     initiative](https://aka.ms/sharing-is-caring) - Getting started
     guidance and training for using GitHub and contributing to the
@@ -157,12 +131,7 @@ everyone for your contributions to the community!
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
- 
-
-If you'd like to hear from a specific community member in an upcoming
-recording and/or have specific questions for Microsoft 365 engineering
-or visitors -- please let us know. We will do our best to address your
-requests or questions.
+If you'd like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors -- please let us know. We will do our best to address your requests or questions.
 
 
 *"Sharing is caring!"*

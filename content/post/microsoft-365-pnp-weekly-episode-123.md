@@ -8,74 +8,40 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-123/pnp-weekly-123.png
 tags: []
 type: "regular"
+summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by a Power Platform Cloud Advocate April Dunnam (Microsoft)"
 ---
 
-In this installment of the weekly discussion revolving around the latest
-news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
-joined by a Power Platform Cloud Advocate [April
-Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
-
- 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by a Power Platform Cloud Advocate [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 
 Topics discussed in this session include:
 
- 
-
 -   April's currently role and focus areas as a Cloud Advocate
--   Her experiences while starting her career in IT with her role models
-    being for example [Cathy Dew](https://twitter.com/catpaint1)
-    (Microsoft) and [Laura Rodgers](https://twitter.com/WonderLaura) (IW
-    Mentor)
--   Discussion on the inclusiveness of the IT industry and in community
-    efforts - we want everyone to feel welcome on getting involved!
--   How to get started in the community - steps on getting involved in
-    the community and growing your opportunities with the routes
--   Power Platform and the different flavors of it - no-code, low-code,
-    pro-code and more
+-   Her experiences while starting her career in IT with her role models being for example [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) and [Laura Rodgers](https://twitter.com/WonderLaura) (IW Mentor)
+-   Discussion on the inclusiveness of the IT industry and in community efforts - we want everyone to feel welcome on getting involved!
+-   How to get started in the community - steps on getting involved in the community and growing your opportunities with the routes
+-   Power Platform and the different flavors of it - no-code, low-code, pro-code and more
 
- 
-
-Please remember to keep on providing us feedback on how we can help on
-this journey. We always welcome feedback on making the community more
-inclusive and diverse.
-
- 
+Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
 Covering also 24 articles from Microsoft and the Community.
 
- 
-
 This episode was recorded on Monday, April 19, 2021.
 
- 
-
-
 -   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
+    {{< youtube uQ5CQODxpM0 >}}
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-sk6t3-101666f >}}
 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. 
 
-These videos and podcasts are published each week and are intended to be
-roughly 45 - 60 minutes in length.  Please do give us feedback on this
-video and podcast series and also do let us know if you have done
-something cool/useful so that we can cover that in the next weekly
-summary! The easiest way to let us know is to share your work on Twitter
-and add the hashtag
-[#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always
-on the lookout for refreshingly new content. "*Sharing is caring!"* 
+*Sharing is caring!* 
 
- 
 
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!\
-\
 
-**Events:**
-
-
+## Events
 
 -   May 25-27, 2021- [Microsoft Build
     2021](https://mybuild.microsoft.com/?WT.mc_id=m365-26189-wmastyka)
@@ -84,12 +50,7 @@ everyone for your contributions to the community!\
     -   Register with coupon code "PnP" for 25% off from the prize at
         <https://nacs.ticketspice.com/nacs2021>
 
- 
-
 ## Microsoft articles
-
-
- 
 
 -   [Streamline requests with new approval features in Microsoft
     Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/streamline-requests-with-new-approval-features-in-microsoft/ba-p/2259871?WT.mc_id=m365-26189-wmastyka) -
@@ -128,12 +89,7 @@ everyone for your contributions to the community!\
     update](https://flow.microsoft.com/blog/ai-builder-april-2021-update?WT.mc_id=m365-26189-wmastyka)
     - Cedrick Bellarosa
 
- 
-
 ## Community articles
-
-
- 
 
 -   [Use Power Automate to automatically create SharePoint News Links
     from an RSS
@@ -196,10 +152,7 @@ everyone for your contributions to the community!\
     [Robin Agten](https://twitter.com/AgtenRobin) (delaware)
     | @AgtenRobin
 
- 
-
 ## Additional resources
-
 
 -   [Microsoft 365 Community Survey](https://aka.ms/m365pnp/survey) -
     Open for April 2021 - please let us know how we can help to help
@@ -218,13 +171,6 @@ everyone for your contributions to the community!\
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
- 
-
-If you'd like to hear from a specific community member in an upcoming
-recording and/or have specific questions for Microsoft 365 engineering
-or visitors -- please let us know. We will do our best to address your
-requests or questions.
-
- 
+If you'd like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors -- please let us know. We will do our best to address your requests or questions.
 
 *"Sharing is caring!"*

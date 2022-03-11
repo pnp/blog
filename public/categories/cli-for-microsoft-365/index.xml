@@ -148,7 +148,7 @@
       <pubDate>Fri, 30 Jul 2021 02:28:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-12/</guid>
-      <description>Manage Microsoft 365 and SharePoint Framework projects on any platform  CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
+      <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
     </item>
     
     <item>
@@ -157,7 +157,7 @@
       <pubDate>Wed, 30 Jun 2021 10:45:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-11/</guid>
-      <description>[Manage Microsoft 365 and SharePoint Framework projects on any platform]{style=&amp;ldquo;color: inherit; font-size: 24px;&amp;quot;}</description>
+      <description>[Manage Microsoft 365 and SharePoint Framework projects on any platform]</description>
     </item>
     
     <item>
@@ -202,8 +202,7 @@
       <pubDate>Fri, 23 Apr 2021 05:48:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/export-power-apps-and-power-automate-user-licenses/</guid>
-      <description>]
-Context During a Power Platform audit for a customer, I was looking for exporting all user licenses data into a single file to analyze it with Power BI.</description>
+      <description>Context During a Power Platform audit for a customer, I was looking for exporting all user licenses data into a single file to analyze it with Power BI.</description>
     </item>
     
     <item>
@@ -222,6 +221,15 @@ Context During a Power Platform audit for a customer, I was looking for exportin
       
       <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-7/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
+    </item>
+    
+    <item>
+      <title>Run CLI for Microsoft 365 in Docker</title>
+      <link>https://pnp.github.io/community-blog/post/run-cli-for-microsoft-365-in-docker/</link>
+      <pubDate>Sat, 13 Mar 2021 02:34:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/run-cli-for-microsoft-365-in-docker/</guid>
+      <description>We are delighted to announce that CLI for Microsoft 365 Docker images are now available to download and use from the Docker Hub.</description>
     </item>
     
     <item>

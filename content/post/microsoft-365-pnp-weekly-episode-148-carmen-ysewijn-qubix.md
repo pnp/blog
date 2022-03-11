@@ -11,16 +11,7 @@ type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen, Waldek Mastykarz are joined by Antwerp, Belgium-based Power Platform Architect and Business Applications MVP, Carmen Ysewijn (Qubix)"
 ---
 
-In this installment of the weekly discussion revolving around the
-latest news and topics on ][Microsoft
-365][, hosts
--- ][Vesa
-Juvonen](http://twitter.com/vesajuvonen)[ (Microsoft) |
-@vesajuvonen, ][Waldek
-Mastykarz](http://twitter.com/waldekm)[ (Microsoft) | @waldekm are
-joined by Antwerp, Belgium-based Power Platform Architect and Business
-Applications MVP, [Carmen Ysewijn](http://twitter.com/CarmenYsewijn)
-(Qubix) | @CarmenYsewijn.  ]
+In this installment of the weekly discussion revolving around the latest news and topics on ][Microsoft 365][, hosts -- ][Vesa Juvonen](http://twitter.com/vesajuvonen)[ (Microsoft) | @vesajuvonen, ][Waldek Mastykarz](http://twitter.com/waldekm)[ (Microsoft) | @waldekm are joined by Antwerp, Belgium-based Power Platform Architect and Business Applications MVP, [Carmen Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) | @CarmenYsewijn.  ]
 
 Topics discussed in this session:
 
@@ -47,21 +38,14 @@ show. 
 
 -   Video at [Microsoft 365 Community YouTube
     channel](https://aka.ms/m365pnp-videos)
+    {{< youtube _SOkpwrJMG8 >}}
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-7j5p5-11770a3 >}}
 
-These videos and podcasts are published each week and are intended to be
-roughly 45 - 60 minutes in length.  Please do give us feedback on this
-video and podcast series and also do let us know if you have done
-something cool/useful so that we can cover that in the next weekly
-summary! The easiest way to let us know is to share your work on Twitter
-and add the
-hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
-always on the lookout for refreshingly new content. "*Sharing is
-caring!"* 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. "*Sharing is caring!"* 
 
-Here are all the links and people mentioned in this recording. Thanks,
-everyone for your contributions to the community!
+Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
 ## Microsoft articles
 
@@ -171,9 +155,6 @@ everyone for your contributions to the community!
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
-If you'd like to hear from a specific community member in an upcoming
-recording and/or have specific questions for Microsoft 365 engineering
-or visitors -- please let us know. We will do our best to address your
-requests or questions.
+If you'd like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors -- please let us know. We will do our best to address your requests or questions.
 
 *"Sharing is caring!" *

@@ -9,7 +9,7 @@ images:
 tags: []
 type: "regular"
 ---
-{{< image alt="pnp-weekly-133.png" src="images/blog/microsoft-365-pnp-weekly-episode-133-gautam-sheth-valo/pnp-weekly-133.png" >}}
+
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa

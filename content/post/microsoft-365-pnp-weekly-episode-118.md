@@ -8,6 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-118/Thumb-Ep118.png
 tags: []
 type: "regular"
+summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by are joined by Scotland-based Solution Architect, dual MVP Veronique Lengelle (CPS)"
 ---
 
 In this installment of the weekly discussion revolving around the latest
@@ -17,7 +18,8 @@ Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
 Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by are joined by Scotland-based Solution Architect, dual
 MVP [Veronique Lengelle](http://twitter.com/veronicageek)
-([CPS](https://www.cps.co.uk/)) | @veronicageek.  
+([CPS](https://www.cps.co.uk/)) | @veronicageek.
+  
 The discussion included insights to the role of technical architect for
 Microsoft 365 platform - both about designing solutions that solve
 customer problems and as important - educating customers on the value of
@@ -36,10 +38,12 @@ recorded on Monday, March 15, 2021.  
 
 This episode was recorded on Monday, March 15, 2021.
 
-
 -   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
+    {{< youtube dY07COiNnIw >}}
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-ycw5s-fdc65f >}}
+
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
 video and podcast series and also do let us know if you have done
@@ -51,7 +55,7 @@ caring!"*](https://twitter.com/search?q=%23pnpweekly)
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
-Microsoft articles:
+## Microsoft articles
 
 -   [Four device capabilities developers can utilize for Microsoft Teams
     mobile
@@ -77,7 +81,9 @@ Microsoft articles:
 -   [Microsoft 365 Extensibility look book
     gallery](https://adoption.microsoft.com/extensibility-look-book) -
     Microsoft 
-Community articles:
+
+## Community articles
+
 -   [Microsoft 365 Community (PnP) -- March 2021
     update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-community-pnp-march-2021-update/ba-p/2188616) -
     [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
@@ -144,7 +150,9 @@ Community articles:
     Formulas](https://wonderlaura.com/2021/02/12/sharepoint-form-conditional-formulas/) -
     [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor)
     | @WonderLaura
-Additional resources:
+
+## Additional resources
+
 -   [PnP Sharing is Caring
     initiative](https://aka.ms/sharing-is-caring) - Getting started
     guidance and training for using GitHub and contributing to the
@@ -154,6 +162,7 @@ Additional resources:
     at <https://aka.ms/m365pnp/community>
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
+
 If you'd like to hear from a specific community member in an upcoming
 recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your

@@ -9,9 +9,6 @@ images:
 tags: []
 type: "regular"
 ---
-{{< image alt="Thumb-Ep136.png" src="images/blog/microsoft-365-pnp-weekly-episode-136-thomas-vochten-the-cronos/Thumb-Ep136.png" >}}
-
- 
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
@@ -22,10 +19,7 @@ joined by Belgium-based MVP and Technology Evangelist from The [Cronos
 Group](https://cronos-groep.be/en/) - [Thomas
 Vochten](https://twitter.com/ThomasVochten) | @ThomasVochten.
 
- 
-
-Topics discussed in this session include: \
-\
+Topics discussed in this session include: 
 
 -   What is the Technical Evangelist role and how does one work into the
     role?
@@ -38,30 +32,17 @@ Topics discussed in this session include: \
 We also covered 11 articles by Microsoft and the community from the last
 week. 
 
- 
-
 Please remember to keep on providing us feedback on how we can help on
 this journey. We always welcome feedback on making the community more
 inclusive and diverse.
 
- 
-
-
-
- 
-
 This session was recorded in front of web cams in totally audience free
 rooms on Monday, September 27, 2021.
-
- 
-
 
 -   Video at [Microsoft 365 Community YouTube
     channel](https://aka.ms/m365pnp-videos)
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-
- 
 
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
@@ -73,18 +54,10 @@ hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
 always on the lookout for refreshingly new content. "*Sharing is
 caring!"* 
 
- 
-
 Here are all the links and people mentioned in this recording. Thanks,
-everyone for your contributions to the community!\
-\
-
- 
+everyone for your contributions to the community!
 
 ## Microsoft articles
-
-
- 
 
 -   [Viva Connections public preview is now
     available!](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-public-preview-is-now-available/ba-p/2768541) -
@@ -96,12 +69,7 @@ everyone for your contributions to the community!\
     (Preview)](https://docs.microsoft.com/sharepoint/guide-to-setting-up-viva-connections) -
     Microsoft
 
- 
-
 ## Community articles
-
-
- 
 
 -   [Collabdays - Belgium & Netherlands 2021 - Saturday, October 23
     2021](https://www.collabdays.org/2021-benl/)
@@ -132,12 +100,8 @@ everyone for your contributions to the community!\
     - [Joanne C Klein](https://twitter.com/JoanneCKlein)
     | @JoanneCKlein
 
- 
 
 ## Additional resources
-
-
- 
 
 -   Microsoft 365 Unified Sample Gallery (preview)
     - <https://aka.ms/m365/samples> 
@@ -151,13 +115,9 @@ everyone for your contributions to the community!\
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
 
- 
-
 If you'd like to hear from a specific community member in an upcoming
 recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your
 requests or questions.
-
- 
 
 *"Sharing is caring!"*

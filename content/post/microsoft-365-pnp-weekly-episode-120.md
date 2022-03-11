@@ -19,8 +19,6 @@ joined by Italy/US-based Senior Consultant at his own company
 PiaSys.com, PnP Team member, and Microsoft MVP [Paolo
 Pialorsi](http://twitter.com/paolopia) | @paolopia. 
 
- 
-
 Topics discussed in this session include the SharePoint 20th
 anniversary party, changes in PnP since Paolo's last appearance as a
 guest on the show 2 years ago, PnP Provisioning Engine, the value of the
@@ -36,12 +34,12 @@ Community members delivered 22 articles and videos.  
 
 This episode was recorded on Monday, March 29, 2021.
 
-
 -   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
+    {{< youtube aOqPUHh7beY >}}
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-cwezr-ff3d8c >}}
 
- 
 
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
@@ -52,12 +50,10 @@ and add the hashtag [#PnPWeekly. We are always on the lookout for
 refreshingly new content. "*Sharing is
 caring!"*](https://twitter.com/search?q=%23pnpweekly)
 
- 
-
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!\
 
-**Events:**
+## Events
 
 
 -   April 14, 2021 - [Building Apps with Microsoft
@@ -157,7 +153,7 @@ everyone for your contributions to the community!\
     [Chris O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
     | @ChrisO_Brien
 
-Additional resources:
+## Additional resources
 
 -   [PnP Sharing is Caring
     initiative](https://aka.ms/sharing-is-caring) - Getting started

@@ -9,44 +9,13 @@ images:
 tags: []
 type: "regular"
 ---
-{{< image alt="recording-5th-oct.png" src="images/blog/microsoft-365-platform-call-5th-of-october-2021/recording-5th-oct.png" >}}
 
-Microsoft 365 Platform Community Call - weekly community call recording
-from October 5th, is now available from the Microsoft 365 Community
-YouTube channel
-at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos).
+Microsoft 365 Platform Community Call - weekly community call recording from October 5th, is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos).
 
 
 ## Call summary
 
-
-
-
-Welcome to the weekly call focused on capabilities of the Microsoft 365
-platform.   New to Microsoft 365 Platform development?  You are
-encouraged to register at [Microsoft 365 Developer
-Program](https://aka.ms/m365/devprogram) for free E5 developer tenant
-and other assets.   Access the latest [free training
-modules](https://aka.ms/m365/dev/learn) to accelerate learning Microsoft
-365 platform capabilities.    Visit the [Microsoft 365 Sample Solution
-Gallery](https://aka.ms/m365/samples) with more than 500 samples from
-Microsoft and community that allow you to learn by example, expedite
-your development and appreciate what is possible.   Sign up and attend
-one of a growing list of events hosted by [Sharing is
-Caring](https://pnp.github.io/sharing-is-caring/) in October-November. 
-Tune into the weekly [Microsoft 365 Developer
-Podcast](https://m365devpodcast.com) focused exclusively on Microsoft
-365 dev topics -- hosted by Jeremy Thake (Microsoft) and Paul Schaeflein
-(Addin365).   As well, view or listen to [Microsoft 365 PnP Weekly --
-Episode
-137](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/ba-p/2809397),
-hosted by Vesa Juvonen and Waldek Mastykarz.   [Registration for
-Microsoft Ignite](https://ignite.microsoft.com) (Digital event) --
-November 2-4 is now open.  Latest news from Microsoft on Microsoft 365
-platform and 2 demos this week.  The host of this call was [Sébastien
-Levert](http://twitter.com/sebastienlevert) (Microsoft) |
-[sebastienlevert](https://github.com/sebastienlevert).  Q&A takes
-place in chat throughout the call.
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.   New to Microsoft 365 Platform development?  You are encouraged to register at [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) for free E5 developer tenant and other assets.   Access the latest [free training modules](https://aka.ms/m365/dev/learn) to accelerate learning Microsoft 365 platform capabilities.    Visit the [Microsoft 365 Sample Solution Gallery](https://aka.ms/m365/samples) with more than 500 samples from Microsoft and community that allow you to learn by example, expedite your development and appreciate what is possible.   Sign up and attend one of a growing list of events hosted by [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) in October-November.  Tune into the weekly [Microsoft 365 Developer Podcast](https://m365devpodcast.com) focused exclusively on Microsoft 365 dev topics -- hosted by Jeremy Thake (Microsoft) and Paul Schaeflein (Addin365).   As well, view or listen to [Microsoft 365 PnP Weekly -- Episode 137](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/ba-p/2809397), hosted by Vesa Juvonen and Waldek Mastykarz.   [Registration for Microsoft Ignite](https://ignite.microsoft.com) (Digital event) -- November 2-4 is now open.  Latest news from Microsoft on Microsoft 365 platform and 2 demos this week.  The host of this call was [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | [sebastienlevert](https://github.com/sebastienlevert).  Q&A takes place in chat throughout the call.
 
 ## Microsoft 365 Platform News Flash
 
@@ -103,9 +72,8 @@ place in chat throughout the call.
 
 An absolutely packed house today.  Great seeing everyone.
 
-
-
 ## Demos
+
 Demos delivered in this session
 
 -   **Latest on Microsoft Graph Explorer** -- specifically focusing on 3
@@ -115,19 +83,12 @@ Demos delivered in this session
     ***Resource Explorer*** (access Graph resources more easily --
     select API nodes and see underlying API query options).   See where
     to report a bug or suggest a feature.  Q&A.   
-
--   **Getting started on using Microsoft Viva Connections in your
-    tenant** -- latest positioning on Viva Connections.   Getting
-    started -- follow the Connections Setup Checklist -- you need a SPO
-    intranet, a home site, global navigation, a dashboard and Teams
-    Admin setup.   Demo steps through setting up a homesite, global nav,
-    dashboard creation and enabling Viva Connections in Teams Admin
-    Center so intended (by policy) users can use the app Inside Teams.
-      Q&A -- tenant rollout, why homesite requirement.
+-   **Getting started on using Microsoft Viva Connections in your tenant** -- latest positioning on Viva Connections.   Getting started -- follow the Connections Setup Checklist -- you need a SPO intranet, a home site, global navigation, a dashboard and Teams Admin setup.   Demo steps through setting up a homesite, global nav, dashboard creation and enabling Viva Connections in Teams Admin Center so intended (by policy) users can use the app Inside Teams.   Q&A -- tenant rollout, why homesite requirement.
 
 Thank you for your work. Samples are often showcased in Demos.
 
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Sébastien
@@ -140,8 +101,6 @@ Topics covered in this call
 -   **Demo 2:** Getting started on using Microsoft Viva Connections in
     your tenant -- [Tejas Mehta](http://twitter.com/tpmehta) (Microsoft)
     | @tpmehta -- [25:05](https://youtu.be/4LFP1Zyerq4?t=1505)
-
-
 
 ## Resources
 
@@ -229,7 +188,6 @@ slides.
 
 ## Upcoming Calls | Recurrent Invites
 
-
 -   **SharePoint Framework call** October 7th at 7:00 am PDT
     | <https://aka.ms/spdev-spfx-call>
 -   **Microsoft 365 platform call** - October 12th at 8:00 am PDT
@@ -246,26 +204,11 @@ slides.
 -   **Microsoft Identity Platform call** October 21st at 9:00 am
     PDT | <https://aka.ms/IDDevCommunityCalendar>
 
-Microsoft 365 Platform community call focuses on latest Microsoft 365
-Platform updates and demos delivered by Microsoft presenters and takes
-place weekly on Tuesday.  The alternating Special Interest Group
-community calls each Thursday focus on SharePoint Framework (client-side
-development/implementation) and Microsoft 365 Platform (includes
-Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning,
-PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps,
-Column Formatting, list formatting, etc. topics.) with demos commonly
-delivered by community members. 
+Microsoft 365 Platform community call focuses on latest Microsoft 365 Platform updates and demos delivered by Microsoft presenters and takes place weekly on Tuesday.  The alternating Special Interest Group community calls each Thursday focus on SharePoint Framework (client-side development/implementation) and Microsoft 365 Platform (includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps, Column Formatting, list formatting, etc. topics.) with demos commonly delivered by community members. 
 
- More details on the Microsoft 365
-community from [http://aka.ms/m365pnp](http://aka.ms/sppnp). 
-You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+More details on the Microsoft 365 community from [http://aka.ms/m365pnp](http://aka.ms/sppnp).  You can download recurrent invite for this call from <https://aka.ms/m365-dev-call>.  
 
-Welcome and join in the
-discussion. If you have any questions, comments, or feedback, feel free
-to provide your input as comments to this post as well. More details on
-the Microsoft 365 community and options to get involved are available
-from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
+Welcome and join in the discussion. If you have any questions, comments, or feedback, feel free to provide your input as comments to this post as well. More details on the Microsoft 365 community and options to get involved are available from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
 
 
 *"Sharing is caring"*

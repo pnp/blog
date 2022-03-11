@@ -12,16 +12,12 @@ type: "regular"
 
 ---
 
-
-{{< image alt="pnp-june-promo-summary.png" src="images/blog/microsoft-365-pnp-community-june-2021-update/pnp-june-promo-summary.png" >}}
-
 Microsoft 365 Patterns and Practices (PnP) Community June 2021 update is
 out with a summary of the latest guidance, samples, and solutions from
 Microsoft or from the community for the community. This article is a
 summary of all the different areas and topics around the community work
 we do around Microsoft 365 ecosystem during the past month. Thank you
 for being part of this success. *Sharing is caring!*
-
 
 ## What is Microsoft 365 Community (PnP) 
 
@@ -153,7 +149,6 @@ Main resources around Microsoft 365 Community:
 Here are the latest blog posts and announcements around Microsoft 365
 development topics from
 <https://developer.microsoft.com/microsoft-365/blogs>.
-
 
 -   26th of May - [Four new features to build richer apps for Microsoft
     Teams

@@ -8,6 +8,7 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-117/pnp-weekly-117.png
 tags: []
 type: "regular"
+summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft),aldek Mastykarz (Microsoft) are joined by Belgium-based Senior Service Engineer from Microsoft - Bert Jansen."
 ---
 
 In this installment of the weekly discussion revolving around the latest
@@ -30,22 +31,24 @@ Community members in the last week.  
 
 This episode was recorded on Monday, March 8, 2021.
 
-
 -   Video at [Microsoft 365 Community YouTube channel](https://aka.ms/m365pnp-videos)
+    {{< youtube c5Kq-nCS7fM >}}
 -   Podcast format at
     [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-cwezr-ff3d8c >}}
+
 These videos and podcasts are published each week and are intended to be
 roughly 45 - 60 minutes in length.  Please do give us feedback on this
 video and podcast series and also do let us know if you have done
 something cool/useful so that we can cover that in the next weekly
 summary! The easiest way to let us know is to share your work on Twitter
-and add the hashtag [#PnPWeekly. We are always on the lookout for
+and add the hashtag #PnPWeekly. We are always on the lookout for
 refreshingly new content. "*Sharing is
 caring!"*](https://twitter.com/search?q=%23pnpweekly)
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
-Microsoft articles:
+## Microsoft articles
 
 -   [Microsoft Viva announcements at Microsoft
     Ignite](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-viva-announcements-at-microsoft-ignite/ba-p/2175907) - [Seth
@@ -87,7 +90,9 @@ Microsoft articles:
 -   [What is Azure Communication Services and how to get
     started?](https://www.youtube.com/watch?v=gQdO3hJ2z0Y) - [Dan
     Wahlin](https://twitter.com/DanWahlin) (Microsoft)  
-Community articles:
+
+## Community articles
+
 -   [To write code comments or not, it should not be a
     question](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/to-write-code-comments-or-not-it-should-not-be-a-question/ba-p/2178622) - [Elio
     Struyf](https://twitter.com/eliostruyf) (Valo Intranet) |
@@ -132,24 +137,23 @@ Community articles:
     models](https://www.sharepointnutsandbolts.com/2021/03/syntex-tips-document-understanding-forms-processing.html) - [Chris
     O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
     | @ChrisO_Brien
-Additional resources:
+
+## Additional resources
+
 -   Migration Tool - [Metalogix Content Matrix
     (Qwest)](https://www.quest.com/products/metalogix-content-matrix/) 
-
 -   Blog -- [Microsoft 365 PnP
     Blog](https://aka.ms/m365pnp/community/blog) 
-
 -   [PnP Sharing is Caring
     initiative](https://aka.ms/sharing-is-caring) - Getting started
     guidance and training for using GitHub and contributing to the
     community
-
 -   Want to ask a question or in general engage with the community - Add
     a note in the Microsoft 365 PnP Community hub
     at <https://aka.ms/m365pnp/community>
-
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
+
 If you'd like to hear from a specific community member in an upcoming
 recording and/or have specific questions for Microsoft 365 engineering
 or visitors -- please let us know. We will do our best to address your

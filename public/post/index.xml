@@ -6,14 +6,140 @@
     <description>Recent content in Blogs on Microsoft 365 Community Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jan 2022 01:14:00 -0500</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2022 09:54:29 +0000</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M365 Dev Podcast - Universal Actions and Adaptive Card Updates with Fabian Williams</title>
+      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-universal-actions-and-adaptive-card-updates-with-fabian-williams/</link>
+      <pubDate>Tue, 08 Mar 2022 09:54:29 +0000</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-universal-actions-and-adaptive-card-updates-with-fabian-williams/</guid>
+      <description>Fabian Williams joins Jeremy and Paul to talk about Universal Actions and updates to Adaptive Cards.</description>
+    </item>
+    
+    <item>
+      <title>M365 Dev Podcast - Property Pane Portal project with Christophe Humbert</title>
+      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-property-pane-portal-project-with-christophe/</link>
+      <pubDate>Mon, 31 Jan 2022 06:04:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-property-pane-portal-project-with-christophe/</guid>
+      <description>Christophe Humbert joins Jeremy and Paul to talk about his Property Pane Portal project and the help he has received from the M365 Dev Community.</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Cards community call – January 2022</title>
+      <link>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-january-2022/</link>
+      <pubDate>Mon, 31 Jan 2022 05:23:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-january-2022/</guid>
+      <description>The following topics are covered in this month’s community call: Adaptive Cards and the Power Platform to solve captchas (Use RPA, Adaptive Cards actionable messaging and Power Automate to resolve captcha challenges remotely on desktop or mobile) - Tomasz Poszytek (MVP), Website Updates (Blog posts for previous community calls, new samples for all 1.5 features!) - J.P. Roca (Microsoft) and Q&amp;amp;A – members of the Developer and PM teams fielded questions on a host of topics for the last 15 minutes on this call.   This call was hosted by J.P. Roca (Microsoft).  Recorded on January 13, 2022.</description>
+    </item>
+    
+    <item>
+      <title>CLI for Microsoft 365 v4.4</title>
+      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-4/</link>
+      <pubDate>Fri, 28 Jan 2022 12:17:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-4/</guid>
+      <description>CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use</description>
+    </item>
+    
+    <item>
+      <title>Viva Connections &amp; SharePoint Framework Community Call – 27th of January, 2022</title>
+      <link>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-27th-of/</link>
+      <pubDate>Fri, 28 Jan 2022 02:07:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-27th-of/</guid>
+      <description>Viva Connections &amp;amp; SharePoint Framework bi-weekly community call recording from January 27th is now available from the Microsoft 365 Community YouTube channel at &lt;a href=&#34;http://aka.ms/m365pnp/videos&#34;&gt;http://aka.ms/m365pnp/videos&lt;/a&gt;. You can use SharePoint Framework for building solutions for Microsoft Teams and SharePoint Online</description>
+    </item>
+    
+    <item>
+      <title>Create your first Adaptive Card Extensions(ACEs) with SPFx</title>
+      <link>https://pnp.github.io/community-blog/post/create-your-first-adaptive-card-extensions-aces-with-spfx/</link>
+      <pubDate>Wed, 26 Jan 2022 06:24:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/create-your-first-adaptive-card-extensions-aces-with-spfx/</guid>
+      <description>In this article, we will learn how to extend your Viva Connections with our known SharePoint Framework(SPFx). We can extend our Viva Connections dashboard with out-of-the-box web parts, custom SPFx web parts, extensions, and now with Adaptive Card Extension, etc.</description>
+    </item>
+    
+    <item>
+      <title>Welcome new employee in Teams using Adaptive card</title>
+      <link>https://pnp.github.io/community-blog/post/welcome-new-employee-in-teams-using-adaptive-card/</link>
+      <pubDate>Wed, 26 Jan 2022 02:27:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/welcome-new-employee-in-teams-using-adaptive-card/</guid>
+      <description>Let’s make this process simple by using power automate automated flow wherein whenever a new employee is added in Organization’s Team -&amp;gt; General Channel -&amp;gt; Warm welcoming adaptive card will be posted in the channel where the new employee will also be mentioned.</description>
+    </item>
+    
+    <item>
+      <title>How to use Graph Toolkit in Teams App inside Teams Tab</title>
+      <link>https://pnp.github.io/community-blog/post/how-to-use-graph-toolkit-in-teams-app-inside-teams-tab/</link>
+      <pubDate>Wed, 26 Jan 2022 02:23:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/how-to-use-graph-toolkit-in-teams-app-inside-teams-tab/</guid>
+      <description>In this article, we will learn about Graph Toolkit and how to integrate Graph toolkit in Teams App.</description>
+    </item>
+    
+    <item>
+      <title>Using Power Automate flow API in your SPFx solution</title>
+      <link>https://pnp.github.io/community-blog/post/using-power-automate-flow-api-in-your-spfx-solution/</link>
+      <pubDate>Wed, 26 Jan 2022 02:22:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/using-power-automate-flow-api-in-your-spfx-solution/</guid>
+      <description>What&amp;rsquo;s it all about Ever needed a small feature in your webpart to show a list of flows from Power Automate or maybe show a history of one specific flow or maybe disable/enable a flow straight from you SPFx solution?</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 Platform Call – 25th of January, 2022</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-25th-of-january-2022/</link>
+      <pubDate>Tue, 25 Jan 2022 09:09:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-25th-of-january-2022/</guid>
+      <description>Microsoft 365 Platform Community Call - weekly community call recording from January 25th, is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 PnP Weekly - Episode 150 - Anoop Tatti (Content&#43;Cloud)</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/</link>
+      <pubDate>Tue, 25 Jan 2022 03:21:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/</guid>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by London, UK-based SharePoint developer architect and MVP, Anoop Tatti (Content+Cloud)</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Identity Platform community call – January 2022</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-january-2022/</link>
+      <pubDate>Mon, 24 Jan 2022 05:15:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-january-2022/</guid>
+      <description>Call summary This month’s in-depth topic: Secure DevOps with the Microsoft Identity platform.</description>
+    </item>
+    
+    <item>
+      <title>M365 Dev Podcast - Microsoft Graph Data Connect with Nik Charlebois</title>
+      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-microsoft-graph-data-connect-with-nik/</link>
+      <pubDate>Mon, 24 Jan 2022 05:57:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-microsoft-graph-data-connect-with-nik/</guid>
+      <description>Nik Charlebois returns to provide an update on Microsoft Graph Data Connect.</description>
+    </item>
+    
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 20th of January, 2021</title>
       <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-20th-of-january/</link>
       <pubDate>Fri, 21 Jan 2022 01:14:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-20th-of-january/</guid>
-      <description>Call summary One location the Microsoft 365 tenant &amp;ndash; script samples gallery (134 scenarios and 182 scripts) including recently added Teams PowerShell support!</description>
+      <description>One location the Microsoft 365 tenant – script samples gallery (134 scenarios and 182 scripts) including recently added Teams PowerShell support!  Sign up and attend an AMA and other events this month hosted by Sharing is Caring.  At the same time, sign up for the PnP Recognition Program.  Heads down on PnP projects.  Check out the TeamsFx authentication provider preview in MGT!  To see current releases and latest updates/nightly builds, access the Repos via the links in table below.  There were 7 new/updated script, 5 Power Platform samples delivered this week.   Wanted! – Teams Samples.</description>
+    </item>
+    
+    <item>
+      <title>Power Apps Community Call – January 2022</title>
+      <link>https://pnp.github.io/community-blog/post/power-apps-community-call-january-2022/</link>
+      <pubDate>Wed, 19 Jan 2022 12:10:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/power-apps-community-call-january-2022/</guid>
+      <description>Topics covered in this month’s community call includes 2 demos:  Power Audio Player (Canvas app, modified audio control functionality, SharePoint list back-end) - Shadrack Inusah (DreamOval) and New Pay as you go Features (Public Preview -  Power Apps Premium environments with Azure subscription) - Kavishi Agarwal (Microsoft),  Recent Power Apps News and Community Contributions (Power Platform ALM Accelerator, Power Apps portals and Power Apps Ideas) – Todd Baginski (Canviz) and learn about 5 new PnP Power Apps Samples – April Dunnam (Microsoft).  This call included the first ever Power Apps Community Call Quiz – using a Power App and played during the live call.   This call was hosted by Todd Baginski (Canviz). The call was recorded on January 19, 2022.  Questions addressed in chat throughout the call.</description>
     </item>
     
     <item>
@@ -31,7 +157,7 @@
       <pubDate>Tue, 18 Jan 2022 10:19:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-january-12-2022/</guid>
-      <description>Call Summary This month&amp;rsquo;s community call features updates on Excel shortcut customization APIs (introducing 3 new APIs to assist with keyboard shortcuts management) from Abid Rahman (Microsoft), an SSO update for Office Add-in (call to action: add new SSO service in Azure for your SSO enabled add-ins) by Matt Geimer (Microsoft), and the latest Outlook event-based activation on Mac (announcing Mailbox 1.</description>
+      <description>Call summary This month&amp;rsquo;s community call features updates on Excel shortcut customization APIs (introducing 3 new APIs to assist with keyboard shortcuts management) from Abid Rahman (Microsoft), an SSO update for Office Add-in (call to action: add new SSO service in Azure for your SSO enabled add-ins) by Matt Geimer (Microsoft), and the latest Outlook event-based activation on Mac (announcing Mailbox 1.</description>
     </item>
     
     <item>
@@ -40,16 +166,16 @@
       <pubDate>Tue, 18 Jan 2022 05:05:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/</guid>
-      <description>Introduction Have you ever had an idea to ask a bot to perform a simple interaction?</description>
+      <description>Have you ever had an idea to ask a bot to perform a simple interaction? Then this article is for you</description>
     </item>
     
     <item>
-      <title>Quickly set up Viva Connections app in Microsoft Teams using Teams admin center.</title>
+      <title>Quickly set up Viva Connections app in Microsoft Teams using Teams admin center</title>
       <link>https://pnp.github.io/community-blog/post/quickly-set-up-viva-connections-app-in-microsoft-teams-using/</link>
       <pubDate>Tue, 18 Jan 2022 04:39:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/quickly-set-up-viva-connections-app-in-microsoft-teams-using/</guid>
-      <description>Quickly set up Viva Connections app in Microsoft Teams using Teams admin center As we all know, Viva connection is a part of Employee Experience Platform.</description>
+      <description>In this article you can expect to quickly add your home site portal as Viva connection app right into your Microsoft Teams</description>
     </item>
     
     <item>
@@ -58,7 +184,7 @@
       <pubDate>Tue, 18 Jan 2022 02:09:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/</guid>
-      <description>In this installment of the weekly discussion revolving around the latest news and topics on ][Microsoft 365][, hosts &amp;ndash; ]Vesa Juvonen[ (Microsoft) | @vesajuvonen, ]Waldek Mastykarz[ (Microsoft) | @waldekm are joined ]by Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph, Rabia Williams (Microsoft) | @williamsrabia.</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen, Waldek Mastykarz are joined by Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph, Rabia Williams</description>
     </item>
     
     <item>
@@ -112,7 +238,7 @@
       <pubDate>Tue, 11 Jan 2022 12:55:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-148-carmen-ysewijn-qubix/</guid>
-      <description>[ In this installment of the weekly discussion revolving around the latest news and topics on ][Microsoft 365][, hosts &amp;ndash; ]Vesa Juvonen[ (Microsoft) | @vesajuvonen, ]Waldek Mastykarz[ (Microsoft) | @waldekm are joined by Antwerp, Belgium-based Power Platform Architect and Business Applications MVP, Carmen Ysewijn (Qubix) | @CarmenYsewijn.</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen, Waldek Mastykarz are joined by Antwerp, Belgium-based Power Platform Architect and Business Applications MVP, Carmen Ysewijn (Qubix)</description>
     </item>
     
     <item>
@@ -193,7 +319,7 @@
       <pubDate>Thu, 30 Dec 2021 12:21:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-december-2021/</guid>
-      <description>Microsoft Identity Platform community call &amp;ndash; December 2021 []{#display_2 .lia-img-message-has-url .</description>
+      <description>Call summary This month&amp;rsquo;s in-depth topic: A Zero Trust primer for developers.</description>
     </item>
     
     <item>
@@ -220,7 +346,7 @@
       <pubDate>Wed, 22 Dec 2021 12:43:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-21st-of-december-2021/</guid>
-      <description>[Microsoft 365 Platform Community Call - weekly community call recording from December 21st, is now available from the Microsoft 365 Community YouTube channel at][ ]http://aka.</description>
+      <description>[Microsoft 365 Platform Community Call - weekly community call recording from December 21st, is now available from the Microsoft 365 Community YouTube channel at]http://aka.</description>
     </item>
     
     <item>
@@ -229,7 +355,7 @@
       <pubDate>Wed, 22 Dec 2021 05:17:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-december-2021-update/</guid>
-      <description>[Microsoft 365 PnP Community &amp;ndash; December 2021 update Microsoft 365 Community (PnP) December 2021 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community.</description>
+      <description>Microsoft 365 Community (PnP) December 2021 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community.</description>
     </item>
     
     <item>
@@ -256,7 +382,7 @@
       <pubDate>Thu, 16 Dec 2021 03:51:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-december-8-2021/</guid>
-      <description>Call Summary This month&amp;rsquo;s community call features an Outlook: Ignite recap from Juan Balmori (Microsoft) highlighting the release of Mailbox 1.</description>
+      <description>Call summary This month&amp;rsquo;s community call features an Outlook: Ignite recap from Juan Balmori (Microsoft) highlighting the release of Mailbox 1.</description>
     </item>
     
     <item>
@@ -265,8 +391,7 @@
       <pubDate>Wed, 15 Dec 2021 08:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/power-apps-community-call-december-2021/</guid>
-      <description>Call Summary:
-Topics covered in this month&amp;rsquo;s community call includes 2 demos:   Building Xbox games with Power Apps &amp;ndash; (create an Xbox controller ready app) - Brian Dang (Microsoft) and</description>
+      <description>Building Xbox games with Power Apps &amp;ndash; (create an Xbox controller</description>
     </item>
     
     <item>
@@ -374,8 +499,7 @@ Topics covered in this month&amp;rsquo;s community call includes 2 demos:   Buil
       <pubDate>Wed, 01 Dec 2021 11:40:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-november-10-2021/</guid>
-      <description>](/t5/microsoft-365-pnp-blog/
- Call Summary This month&amp;rsquo;s community call features a customer presentation - CodeTwo Outlook Add-in for email signature management - (email signature manager designed for Microsoft 365) Michał Królewicz - Technical Marketing Manager (CodeTwo), Microsoft 365 instant sandbox (turnkey E5 developer sandbox all M365 workloads and Sample Data Packs) - Michael Aldridge &amp;ndash; Principal Program Manager (Microsoft), and a demo - Unit testing Office JavaScript with Office-Addin-Mock library (an NPM library to facilitate unit testing) - Igor Ribeiro &amp;ndash; Software Engineer (Microsoft)</description>
+      <description>Call summary This month&amp;rsquo;s community call features a customer presentation - CodeTwo Outlook Add-in for email signature management - (email signature manager designed for Microsoft 365) Michał Królewicz - Technical Marketing Manager (CodeTwo), Microsoft 365 instant sandbox (turnkey E5 developer sandbox all M365 workloads and Sample Data Packs) - Michael Aldridge &amp;ndash; Principal Program Manager (Microsoft), and a demo - Unit testing Office JavaScript with Office-Addin-Mock library (an NPM library to facilitate unit testing) - Igor Ribeiro &amp;ndash; Software Engineer (Microsoft)</description>
     </item>
     
     <item>
@@ -411,7 +535,7 @@ Topics covered in this month&amp;rsquo;s community call includes 2 demos:   Buil
       <pubDate>Fri, 26 Nov 2021 03:33:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-25th-of/</guid>
-      <description>Call summary Have you visited the Microsoft 365 tenant &amp;ndash; script samples gallery (116 scenarios and 160 scripts, using CLI for Microsoft 365, PnP PowerShell, SPO Management Shell tooling and more&amp;hellip;)?</description>
+      <description>Call Summary Have you visited the Microsoft 365 tenant &amp;ndash; script samples gallery (116 scenarios and 160 scripts, using CLI for Microsoft 365, PnP PowerShell, SPO Management Shell tooling and more&amp;hellip;)?</description>
     </item>
     
     <item>
@@ -502,8 +626,7 @@ Listen to the show here: (m365devpodcast.</description>
       <pubDate>Wed, 17 Nov 2021 08:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/power-apps-community-call-november-2021/</guid>
-      <description>Call Summary:
-Topics covered in this month&amp;rsquo;s community call include demos Power Apps Christmas Calendar + Games (Advent calendar with engaging games unlocked on Dec 18th and 23rd) - Craig Gregory @CrashLongJohns and</description>
+      <description>Call summary Topics covered in this month&amp;rsquo;s community call include demos Power Apps Christmas Calendar + Games (Advent calendar with engaging games unlocked on Dec 18th and 23rd) - Craig Gregory @CrashLongJohns and</description>
     </item>
     
     <item>
@@ -521,7 +644,7 @@ Topics covered in this month&amp;rsquo;s community call include demos Power Apps
       <pubDate>Tue, 16 Nov 2021 07:06:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/how-to-convert-word-document-to-pdf-in-sharepoint-document/</guid>
-      <description>Introduction In this article, we will see how to convert a Word Document to PDF in SharePoint Document Library using Power Automate without using any licence version.</description>
+      <description>Introduction In this article, we will see how to convert a Word Document to PDF in SharePoint Document Library using Power Automate without using any license version.</description>
     </item>
     
     <item>
@@ -575,7 +698,7 @@ Topics covered in this month&amp;rsquo;s community call include demos Power Apps
       <pubDate>Wed, 10 Nov 2021 01:58:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-october-2021/</guid>
-      <description>[ The following topics are covered in this month&amp;rsquo;s community call:</description>
+      <description>The following topics are covered in this month&amp;rsquo;s community call:</description>
     </item>
     
     <item>
@@ -584,7 +707,7 @@ Topics covered in this month&amp;rsquo;s community call include demos Power Apps
       <pubDate>Tue, 09 Nov 2021 02:23:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-142-natalie-pienkowska/</guid>
-      <description>[ Microsoft 365 PnP Weekly - Episode 142 - Natalie Pienkowska (Microsoft){#link_6 .</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by New York, US / Porto, Portugal-based Program Manager at Microsoft - Natalie Pienkowska | @ NataliePienkow1.</description>
     </item>
     
     <item>
@@ -710,7 +833,7 @@ Topics covered in this month&amp;rsquo;s community call include demos Power Apps
       <pubDate>Fri, 22 Oct 2021 01:56:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-october-13-2021/</guid>
-      <description>Call Summary This month&amp;rsquo;s community call features presentations - Word API updates (extensibility API updates - Word Online Only APIs, Bookmarks APIs, Shared Runtime Support, and Upcoming APIs), Outlook on Mac API updates (new extensibility updates &amp;ndash; Mailbox 1.</description>
+      <description>Call summary This month&amp;rsquo;s community call features presentations - Word API updates (extensibility API updates - Word Online Only APIs, Bookmarks APIs, Shared Runtime Support, and Upcoming APIs), Outlook on Mac API updates (new extensibility updates &amp;ndash; Mailbox 1.</description>
     </item>
     
     <item>
@@ -737,8 +860,7 @@ Topics covered in this month&amp;rsquo;s community call include demos Power Apps
       <pubDate>Wed, 20 Oct 2021 08:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/power-apps-community-call-october-2021/</guid>
-      <description>Call Summary:
-Topics covered in this month&amp;rsquo;s community call include a demo - PokéBubbles Game and a session on How to get Microsoft Certified in the Power Platform.</description>
+      <description>Call summary Topics covered in this month&amp;rsquo;s community call include a demo - PokéBubbles Game and a session on How to get Microsoft Certified in the Power Platform.</description>
     </item>
     
     <item>
@@ -792,8 +914,7 @@ Topics covered in this month&amp;rsquo;s community call include a demo - PokéBu
       <pubDate>Fri, 15 Oct 2021 12:41:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-14th-of-october/</guid>
-      <description>Call Summary
-Updated Viva Connections public developer preview! Have a look at Microsoft 365 tenant &amp;ndash; script samples gallery (101 scenarios and 135 scripts, using CLI for Microsoft 365, PnP PowerShell, SPO Management Shell tooling and more&amp;hellip;).</description>
+      <description>Call summary Updated Viva Connections public developer preview! Have a look at Microsoft 365 tenant &amp;ndash; script samples gallery (101 scenarios and 135 scripts, using CLI for Microsoft 365, PnP PowerShell, SPO Management Shell tooling and more&amp;hellip;).</description>
     </item>
     
     <item>
@@ -860,6 +981,15 @@ Updated Viva Connections public developer preview! Have a look at Microsoft 365
     </item>
     
     <item>
+      <title>Microsoft 365 Platform Call -- 5th of October, 2021</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-5th-of-october-2021/</link>
+      <pubDate>Wed, 06 Oct 2021 03:01:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-5th-of-october-2021/</guid>
+      <description>Microsoft 365 Platform Community Call - weekly community call recording from October 5th, is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
+    </item>
+    
+    <item>
       <title>M365 Dev Podcast - Bot Framework Composer Video series with Ayça Baş and Bob German</title>
       <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-bot-framework-composer-video-series-with-ay%c3%a7a/</link>
       <pubDate>Tue, 05 Oct 2021 05:30:00 -0400</pubDate>
@@ -883,7 +1013,7 @@ Updated Viva Connections public developer preview! Have a look at Microsoft 365
       <pubDate>Tue, 05 Oct 2021 03:07:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/</guid>
-      <description>Note: I am using PostMan in my example. 1. First - use &amp;ldquo;GET&amp;rdquo; http request to get details of dataverse table &amp;ldquo;Accounts&amp;quot;: {{webapiurl}}/accounts?</description>
+      <description>Note: I am using PostMan in my example.  First - use &amp;ldquo;GET&amp;rdquo; http request to get details of dataverse table &amp;ldquo;Accounts&amp;quot;:   {{webapiurl}}/accounts?</description>
     </item>
     
     <item>
@@ -1045,7 +1175,7 @@ Updated Viva Connections public developer preview! Have a look at Microsoft 365
       <pubDate>Fri, 17 Sep 2021 05:11:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-power-apps-community-call-september-2021/</guid>
-      <description>Microsoft Power Apps Community Call &amp;ndash; September 2021  Call Summary:</description>
+      <description>Call summary Topics covered in this month&amp;rsquo;s community call include demos in Visio, Power BI Tiles, and Reports in Power Apps!</description>
     </item>
     
     <item>
@@ -1054,7 +1184,7 @@ Updated Viva Connections public developer preview! Have a look at Microsoft 365
       <pubDate>Thu, 16 Sep 2021 10:45:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-september-8-2021/</guid>
-      <description>Call Summary This month&amp;rsquo;s community call features presentations - Word API updates (preview of Footnote and Comment APIs for citation management and content insertion), Excel API updats (preview Excel v1.</description>
+      <description>Call summary This month&amp;rsquo;s community call features presentations - Word API updates (preview of Footnote and Comment APIs for citation management and content insertion), Excel API updats (preview Excel v1.</description>
     </item>
     
     <item>
@@ -1063,7 +1193,7 @@ Updated Viva Connections public developer preview! Have a look at Microsoft 365
       <pubDate>Thu, 16 Sep 2021 03:34:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-16th-of/</guid>
-      <description>Call summary Have a look at Microsoft 365 tenant &amp;ndash; script samples gallery (84 scenarios and 111 scripts)*.</description>
+      <description>Call Summary Have a look at Microsoft 365 tenant &amp;ndash; script samples gallery (84 scenarios and 111 scripts)*.</description>
     </item>
     
     <item>
@@ -1279,7 +1409,7 @@ Updated Viva Connections public developer preview! Have a look at Microsoft 365
       <pubDate>Sun, 22 Aug 2021 08:43:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-august-2021/</guid>
-      <description>Call Summary: This month&amp;rsquo;s community call features presentations - Dialog API security updates (recent changes to dialog API that address a security vulnerability requires action from you IF your add-in uses cross-domain communication between the dialog and taskpane.</description>
+      <description>Call summary This month&amp;rsquo;s community call features presentations - Dialog API security updates (recent changes to dialog API that address a security vulnerability requires action from you IF your add-in uses cross-domain communication between the dialog and taskpane.</description>
     </item>
     
     <item>
@@ -1315,8 +1445,7 @@ Updated Viva Connections public developer preview! Have a look at Microsoft 365
       <pubDate>Wed, 18 Aug 2021 08:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/power-apps-community-call-august-2021/</guid>
-      <description>Power Apps Community Call &amp;ndash; August 2021 Call Summary:
-Topics covered in this month&amp;rsquo;s community call include demos in</description>
+      <description>Call summary Topics covered in this month&amp;rsquo;s community call include demos in</description>
     </item>
     
     <item>
@@ -1325,7 +1454,7 @@ Topics covered in this month&amp;rsquo;s community call include demos in</descri
       <pubDate>Tue, 17 Aug 2021 05:15:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/flexible-and-powerful-logging-using-pnp-logging-in-spfx/</guid>
-      <description>Flexible and powerful logging using PnP Logging in spfx Introduction Logging plays an important role in any application.</description>
+      <description>Introduction Logging plays an important role in any application. Whether it is a simple or complex app, logging helps you to record not only errors but also other information which you can use to improve your app.</description>
     </item>
     
     <item>
@@ -1352,7 +1481,7 @@ Topics covered in this month&amp;rsquo;s community call include demos in</descri
       <pubDate>Wed, 11 Aug 2021 08:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/putting-some-more-fun-into-azure-functions-managed-identity-amp/</guid>
-      <description>Usecase &amp;amp; purpose of this blog post I want to show, how you can use a Managed Identity in Azure Functions to get an access token for Microsoft Graph API.</description>
+      <description>Use case &amp;amp; purpose of this blog post I want to show, how you can use a Managed Identity in Azure Functions to get an access token for Microsoft Graph API.</description>
     </item>
     
     <item>
@@ -1401,13 +1530,21 @@ Topics covered in this month&amp;rsquo;s community call include demos in</descri
     </item>
     
     <item>
+      <title>Use single-tenant Azure AD apps with Microsoft Graph Toolkit</title>
+      <link>https://pnp.github.io/community-blog/post/use-single-tenant-azure-ad-apps-with-microsoft-graph-toolkit/</link>
+      <pubDate>Sun, 08 Aug 2021 08:40:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/use-single-tenant-azure-ad-apps-with-microsoft-graph-toolkit/</guid>
+      <description>When using Microsoft Graph Toolkit with Azure AD single-tenant Azure AD apps, you need to adjust MSAL Provider initiation for your app to work.</description>
+    </item>
+    
+    <item>
       <title>Microsoft 365 Developer Community Call recording -- 5th of August, 2021</title>
       <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-5th-of-august/</link>
       <pubDate>Thu, 05 Aug 2021 07:52:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-5th-of-august/</guid>
-      <description>:
-Call summary Summer break and community call schedule updates reviewed.</description>
+      <description>Call summary Summer break and community call schedule updates reviewed. Preview the new Microsoft 365 Extensibility look book gallery.</description>
     </item>
     
     <item>
@@ -1425,7 +1562,7 @@ Call summary Summer break and community call schedule updates reviewed.</descrip
       <pubDate>Wed, 04 Aug 2021 11:06:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/excel-file-tricks-with-powerautomate/</guid>
-      <description>A little secret.&amp;hellip; First of all, if you don&amp;rsquo;t know already and you want to quickly create an excel or word file on your OneDrive, try http://excel.</description>
+      <description>A little secret First of all, if you don&amp;rsquo;t know already and you want to quickly create an excel or word file on your OneDrive, try http://excel.</description>
     </item>
     
     <item>
@@ -1452,7 +1589,7 @@ Call summary Summer break and community call schedule updates reviewed.</descrip
       <pubDate>Fri, 30 Jul 2021 02:28:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-12/</guid>
-      <description>Manage Microsoft 365 and SharePoint Framework projects on any platform  CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
+      <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
     </item>
     
     <item>
@@ -1506,7 +1643,7 @@ Call summary Summer break and community call schedule updates reviewed.</descrip
       <pubDate>Mon, 26 Jul 2021 03:43:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/the-friendly-sms-reminder-with-logic-apps-azure-functions-key/</guid>
-      <description>Learn how to combine Logic Apps, Azure Functions &amp;amp; Key Vault to send a friendly SMS reminder Yay, this is a new blog post series on how to put the FUN in Azure Function</description>
+      <description>Yay, this is a new blog post series on how to put the FUN in Azure Function</description>
     </item>
     
     <item>
@@ -1515,7 +1652,7 @@ Call summary Summer break and community call schedule updates reviewed.</descrip
       <pubDate>Thu, 22 Jul 2021 10:22:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-july-2021/</guid>
-      <description>Call Summary: This month&amp;rsquo;s community call features presentations - Shared mailboxes in Outlook (Shared Mailbox vs Delegate Access/Shared Folder, Shared Mailbox design considerations and add-ins) and PnP: Message recipients changed event (Outlook) (If external recipients are detected in an e-mail&amp;rsquo;s list of recipients, than the message is automatically tagged as External and optionally a disclaimer is appended to message).</description>
+      <description>Call summary This month&amp;rsquo;s community call features presentations - Shared mailboxes in Outlook (Shared Mailbox vs Delegate Access/Shared Folder, Shared Mailbox design considerations and add-ins) and PnP: Message recipients changed event (Outlook) (If external recipients are detected in an e-mail&amp;rsquo;s list of recipients, than the message is automatically tagged as External and optionally a disclaimer is appended to message).</description>
     </item>
     
     <item>
@@ -1533,7 +1670,7 @@ Call summary Summer break and community call schedule updates reviewed.</descrip
       <pubDate>Thu, 22 Jul 2021 05:41:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-22nd-of-july/</guid>
-      <description>Call summary Summer break and community call schedule updates reviewed.</description>
+      <description>Call summary Summer break and community call schedule updates reviewed. Preview the new Microsoft 365 Extensibility look book gallery.</description>
     </item>
     
     <item>
@@ -1551,7 +1688,7 @@ Call summary Summer break and community call schedule updates reviewed.</descrip
       <pubDate>Wed, 21 Jul 2021 12:11:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-july-2021/</guid>
-      <description>Microsoft Identity Platform community call &amp;ndash; July 2021 Call Summary:</description>
+      <description>Call summary This month&amp;rsquo;s in-depth topic: From zero to hero with Microsoft Graph API.</description>
     </item>
     
     <item>
@@ -1560,8 +1697,7 @@ Call summary Summer break and community call schedule updates reviewed.</descrip
       <pubDate>Wed, 21 Jul 2021 08:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/power-apps-community-call-july-2021/</guid>
-      <description>Call Summary:
-Topics covered in this month&amp;rsquo;s community call includes an inside look at the top 5 community selected apps (from over 20 entries) from Demo Extravaganza 2021!</description>
+      <description>Call summary Topics covered in this month&amp;rsquo;s community call includes an inside look at the top 5 community selected apps (from over 20 entries) from Demo Extravaganza 2021!</description>
     </item>
     
     <item>
@@ -1643,7 +1779,7 @@ Topics covered in this month&amp;rsquo;s community call includes an inside look 
       <pubDate>Thu, 08 Jul 2021 05:08:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-8th-of-july/</guid>
-      <description>Call summary Summer and Fall community call schedule updates reviewed.</description>
+      <description>Call Summary Summer and Fall community call schedule updates reviewed. Preview the new Microsoft 365 Extensibility look book gallery.</description>
     </item>
     
     <item>
@@ -1674,7 +1810,7 @@ Topics covered in this month&amp;rsquo;s community call includes an inside look 
     </item>
     
     <item>
-      <title>source code editing for Canvas Apps</title>
+      <title>Source code editing for Canvas Apps</title>
       <link>https://pnp.github.io/community-blog/post/power-apps-source-code-editing-for-canvas-apps/</link>
       <pubDate>Thu, 01 Jul 2021 08:40:00 -0400</pubDate>
       
@@ -1688,7 +1824,7 @@ Topics covered in this month&amp;rsquo;s community call includes an inside look 
       <pubDate>Wed, 30 Jun 2021 10:45:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-11/</guid>
-      <description>[Manage Microsoft 365 and SharePoint Framework projects on any platform]{style=&amp;ldquo;color: inherit; font-size: 24px;&amp;quot;}</description>
+      <description>[Manage Microsoft 365 and SharePoint Framework projects on any platform]</description>
     </item>
     
     <item>
@@ -1724,8 +1860,7 @@ Topics covered in this month&amp;rsquo;s community call includes an inside look 
       <pubDate>Fri, 25 Jun 2021 05:14:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-june-2021/</guid>
-      <description>Call Summary:
-This month&amp;rsquo;s in-depth topic: Increase the resilience of authentication and authorization applications you develop.</description>
+      <description>Call summary This month&amp;rsquo;s in-depth topic: Increase the resilience of authentication and authorization applications you develop.</description>
     </item>
     
     <item>
@@ -1734,7 +1869,7 @@ This month&amp;rsquo;s in-depth topic: Increase the resilience of authenticatio
       <pubDate>Fri, 25 Jun 2021 03:16:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-24th-of-june/</guid>
-      <description>Recording of the Microsoft 365 &amp;ndash; General M365 development Special Interest Group (SIG) community call from June 24, 2021.</description>
+      <description>Call summary Summer break and community call schedule updates reviewed.</description>
     </item>
     
     <item>
@@ -1762,6 +1897,15 @@ This month&amp;rsquo;s in-depth topic: Increase the resilience of authenticatio
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-microsoft-graph-connectors-with/</guid>
       <description>Jeremy and Paul talk with Brian T. Jackett about the Graph Connectors API.</description>
+    </item>
+    
+    <item>
+      <title>Save an email attachment to a custom path with Power Automate</title>
+      <link>https://pnp.github.io/community-blog/post/save-an-email-attachment-to-a-custom-path-with-power-automate/</link>
+      <pubDate>Sun, 20 Jun 2021 11:11:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/save-an-email-attachment-to-a-custom-path-with-power-automate/</guid>
+      <description>This use case was generated from an idea involving Xerox Docucentres, which enables end-users to email themselves a scanned document.</description>
     </item>
     
     <item>
@@ -1797,7 +1941,7 @@ This month&amp;rsquo;s in-depth topic: Increase the resilience of authenticatio
       <pubDate>Thu, 17 Jun 2021 04:44:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-teams-community-call-june-2021/</guid>
-      <description>Recording of the Microsoft Teams monthly community call from June 15, 2021.</description>
+      <description>Call summary Latest news from Microsoft engineering on Microsoft Teams updates and community assets.</description>
     </item>
     
     <item>
@@ -1806,8 +1950,7 @@ This month&amp;rsquo;s in-depth topic: Increase the resilience of authenticatio
       <pubDate>Wed, 16 Jun 2021 08:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/power-apps-community-call-june-2021/</guid>
-      <description>Call Summary:
-Topics covered in this month&amp;rsquo;s community call include 3 demos - COE in Dataverse for Teams in the Power Platform, Planner Gantt chart in Power Apps, and Create a digital escape room with Power Apps.</description>
+      <description>Call summary Topics covered in this month&amp;rsquo;s community call include 3 demos - COE in Dataverse for Teams in the Power Platform, Planner Gantt chart in Power Apps, and Create a digital escape room with Power Apps.</description>
     </item>
     
     <item>
@@ -1816,7 +1959,7 @@ Topics covered in this month&amp;rsquo;s community call include 3 demos - COE in
       <pubDate>Wed, 16 Jun 2021 08:33:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-june-2021/</guid>
-      <description>Call Summary: This month&amp;rsquo;s community call features presentations - Excel v1.</description>
+      <description>Call summary This month&amp;rsquo;s community call features presentations - Excel v1.</description>
     </item>
     
     <item>
@@ -1865,7 +2008,7 @@ Topics covered in this month&amp;rsquo;s community call include 3 demos - COE in
     </item>
     
     <item>
-      <title>Use PnP Powershell to add a document library web part to a page (and only show a specific folder)</title>
+      <title>Use PnP PowerShell to add a document library web part to a page (and only show a specific folder)</title>
       <link>https://pnp.github.io/community-blog/post/use-pnp-powershell-to-add-a-document-library-webpart-to-a-page/</link>
       <pubDate>Thu, 10 Jun 2021 08:40:00 -0400</pubDate>
       
@@ -1906,7 +2049,7 @@ Topics covered in this month&amp;rsquo;s community call include 3 demos - COE in
       <pubDate>Tue, 08 Jun 2021 01:18:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-130/</guid>
-      <description>[ [Microsoft 365 PnP Weekly - Episode 13  In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by the Software Engineer in the Windows team behind the Microsoft Graph Toolkit, Nikola Metulev (Microsoft) | @metulev.</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by the Software Engineer in the Windows team behind the Microsoft Graph Toolkit, Nikola Metulev (Microsoft) | @metulev.</description>
     </item>
     
     <item>
@@ -1925,6 +2068,15 @@ Topics covered in this month&amp;rsquo;s community call include 3 demos - COE in
       
       <guid>https://pnp.github.io/community-blog/post/getting-started-with-graph-api-in-spfx-webpart/</guid>
       <description>What is Graph API?  Microsoft Graph provides a unified programmability model that you can use to build apps for organizations and consumers that interact with the data of millions of users.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Graph community call -- June 2021</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-graph-community-call-june-2021/</link>
+      <pubDate>Wed, 02 Jun 2021 12:29:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-graph-community-call-june-2021/</guid>
+      <description>This month&amp;rsquo;s community call features presentations on Assignment Graph API (v1.</description>
     </item>
     
     <item>
@@ -1951,7 +2103,7 @@ Topics covered in this month&amp;rsquo;s community call include 3 demos - COE in
       <pubDate>Fri, 28 May 2021 12:20:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-27th-of-may/</guid>
-      <description>Recording of the Microsoft 365 &amp;ndash; General M365 development Special Interest Group (SIG) community call from May 27, 2021.</description>
+      <description>Call summary Latest news from Microsoft 365 engineering and updates on open-source projects: PnP .</description>
     </item>
     
     <item>
@@ -1960,7 +2112,7 @@ Topics covered in this month&amp;rsquo;s community call include 3 demos - COE in
       <pubDate>Fri, 28 May 2021 09:00:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-spotlight-hugo-bernier/</guid>
-      <description>Microsoft 365 PnP Community Spotlight: Hugo Bernie Which community project do you maintain?</description>
+      <description>Which community project do you maintain? Web Part Samples, Extension Samples, Sharing is Caring (w/ David Warner, Emili Mancini, April Dunnam and Luise Freese)</description>
     </item>
     
     <item>
@@ -1978,17 +2130,16 @@ Topics covered in this month&amp;rsquo;s community call include 3 demos - COE in
       <pubDate>Wed, 26 May 2021 08:25:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/how-to-invite-external-users-to-a-sharepoint-site-or-microsoft/</guid>
-      <description>SharePoint and Microsoft teams services in Microsoft 365 makes it easier to share content and collaborate with external users who is outside your organization.</description>
+      <description>SharePoint and Microsoft Teams services in Microsoft 365 makes it easier to share content and collaborate with external users who is outside your organization.</description>
     </item>
     
     <item>
-      <title>SPFx webpart form validation using React Formik</title>
+      <title>SPFx web part form validation using React Formik</title>
       <link>https://pnp.github.io/community-blog/post/spfx-webpart-form-validation-using-react-formik/</link>
       <pubDate>Wed, 26 May 2021 05:56:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/spfx-webpart-form-validation-using-react-formik/</guid>
-      <description>{.lia-message-body-wrapper .lia-component-message-view-widget-body} {#bodyDisplay .lia-message-body itemprop=&amp;ldquo;text&amp;rdquo;} lia-message-body-content
-Introduction Formik is the world&amp;rsquo;s most popular open-source form library for React and React Native.</description>
+      <description>Introduction Formik is the world&amp;rsquo;s most popular open-source form library for React and React Native.</description>
     </item>
     
     <item>
@@ -1997,8 +2148,7 @@ Introduction Formik is the world&amp;rsquo;s most popular open-source form libra
       <pubDate>Wed, 26 May 2021 03:04:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-may-2021/</guid>
-      <description>Call Summary:
-This month&amp;rsquo;s in-depth topic: Using Conditional Access Auth Context in your app for step-up authentication.</description>
+      <description>Call summary This month&amp;rsquo;s in-depth topic: Using Conditional Access Auth Context in your app for step-up authentication.</description>
     </item>
     
     <item>
@@ -2029,6 +2179,15 @@ This month&amp;rsquo;s in-depth topic: Using Conditional Access Auth Context in
     </item>
     
     <item>
+      <title>Do you need ngrok to develop Microsoft Teams apps?</title>
+      <link>https://pnp.github.io/community-blog/post/do-you-need-ngrok-to-develop-microsoft-teams-apps/</link>
+      <pubDate>Thu, 20 May 2021 10:41:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/do-you-need-ngrok-to-develop-microsoft-teams-apps/</guid>
+      <description>If you&amp;rsquo;ve started down the path of developing applications for Microsoft Teams, you may have seen a tool called ngrok as a prerequisite in various tutorials and lab exercises.</description>
+    </item>
+    
+    <item>
       <title>Microsoft Graph community call -- May 2021</title>
       <link>https://pnp.github.io/community-blog/post/microsoft-graph-community-call-may-2021/</link>
       <pubDate>Thu, 20 May 2021 05:28:00 -0400</pubDate>
@@ -2043,7 +2202,7 @@ This month&amp;rsquo;s in-depth topic: Using Conditional Access Auth Context in
       <pubDate>Thu, 20 May 2021 05:28:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-april-2021/</guid>
-      <description>Microsoft Identity Platform community call - April 2021](/t5/microsoft-365-pnp-blog/microsoft-identity-platform-community-call-april-2021/ba-p/2315934) **  Call Summary:</description>
+      <description>**  Call summary This month&amp;rsquo;s in-depth topic: Get Change notifications delivered via Azure Event Hubs.</description>
     </item>
     
     <item>
@@ -2052,8 +2211,7 @@ This month&amp;rsquo;s in-depth topic: Using Conditional Access Auth Context in
       <pubDate>Wed, 19 May 2021 12:52:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-teams-community-call-may-2021/</guid>
-      <description>Call Summary
-Latest news from Microsoft engineering on Microsoft Teams updates and community assets.</description>
+      <description>Call summary Latest news from Microsoft engineering on Microsoft Teams updates and community assets.</description>
     </item>
     
     <item>
@@ -2062,8 +2220,7 @@ Latest news from Microsoft engineering on Microsoft Teams updates and community 
       <pubDate>Wed, 19 May 2021 08:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/power-apps-community-call-may-2021/</guid>
-      <description>Call Summary:
-Topics covered in this month&amp;rsquo;s community call include - Building multilingual Power Apps, Using Environment Variables in Canvas Apps, Using Environment Variables in Flows, Recent Power Apps News and Community Contributions and Latest on PnP Power Platform Samples Contributions.</description>
+      <description>Call summary Topics covered in this month&amp;rsquo;s community call include - Building multilingual Power Apps, Using Environment Variables in Canvas Apps, Using Environment Variables in Flows, Recent Power Apps News and Community Contributions and Latest on PnP Power Platform Samples Contributions.</description>
     </item>
     
     <item>
@@ -2072,7 +2229,7 @@ Topics covered in this month&amp;rsquo;s community call include - Building multi
       <pubDate>Wed, 19 May 2021 01:37:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-may-2021/</guid>
-      <description>Agenda: May&amp;rsquo;s call, hosted by David Chesnut, featured the following presenters and topics:</description>
+      <description>Agenda May&amp;rsquo;s call, hosted by David Chesnut, featured the following presenters and topics:</description>
     </item>
     
     <item>
@@ -2108,7 +2265,7 @@ Topics covered in this month&amp;rsquo;s community call include - Building multi
       <pubDate>Sat, 15 May 2021 04:02:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/react-groups-and-teams-filters/</guid>
-      <description>In this article I&amp;rsquo;ll go over both of the filters you can find in my React Groups and Teams Filters webpart.</description>
+      <description>In this article I&amp;rsquo;ll go over both of the filters you can find in my React Groups and Teams Filters web part.</description>
     </item>
     
     <item>
@@ -2298,7 +2455,7 @@ How does it help people?</description>
       <pubDate>Wed, 05 May 2021 01:32:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/how-to-to-get-all-site-collections-with-their-sub-webs-using-pnp/</guid>
-      <description>Sometimes we have a business requirement to get site collections with all the sub-webs so we can achieve the solution easily using PnP Powershell.</description>
+      <description>Sometimes we have a business requirement to get site collections with all the sub-webs so we can achieve the solution easily using PnP PowerShell.</description>
     </item>
     
     <item>
@@ -2316,7 +2473,7 @@ How does it help people?</description>
       <pubDate>Tue, 04 May 2021 03:54:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/what-s-up-with-markdown/</guid>
-      <description>[Perhaps you&amp;rsquo;ve noticed a technology called Markdown that&amp;rsquo;s been showing up in a lot of web sites and apps lately.</description>
+      <description>Perhaps you&amp;rsquo;ve noticed a technology called Markdown that&amp;rsquo;s been showing up in a lot of web sites and apps lately.</description>
     </item>
     
     <item>
@@ -2325,7 +2482,7 @@ How does it help people?</description>
       <pubDate>Mon, 03 May 2021 12:56:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-april-14-2021/</guid>
-      <description>[ Office add-ins community call &amp;ndash; April 14, 2021](/t5/microsoft-365-pnp-blog/ Call summary April&amp;rsquo;s call, hosted by David Chesnut, featured the following presenters and topics:</description>
+      <description>Call summary April&amp;rsquo;s call, hosted by David Chesnut, featured the following presenters and topics:</description>
     </item>
     
     <item>
@@ -2352,7 +2509,7 @@ How does it help people?</description>
       <pubDate>Fri, 30 Apr 2021 04:15:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-29th-of-april/</guid>
-      <description>Recording of the Microsoft 365 &amp;ndash; General M365 development Special Interest Group (SIG) community call from April 29, 2021.</description>
+      <description>Call summary Latest news from Microsoft 365 engineering and updates on open-source projects: PnP .</description>
     </item>
     
     <item>
@@ -2420,16 +2577,16 @@ How does it help people?</description>
     
     <item>
       <title>Microsoft 365 PnP Community Spotlight: Wictor Wilén</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-spotlight-wictor-wil%c3%a9n/</link>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-spotlight-wictor-wilen/</link>
       <pubDate>Sun, 25 Apr 2021 11:54:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-spotlight-wictor-wil%c3%a9n/</guid>
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-spotlight-wictor-wilen/</guid>
       <description>Which community project do you maintain? yo teams
 How does it help people?</description>
     </item>
     
     <item>
-      <title>What I (as a non dev) learned as I created my first Power App.</title>
+      <title>What I (as a non dev) learned as I created my first Power App</title>
       <link>https://pnp.github.io/community-blog/post/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/</link>
       <pubDate>Sun, 25 Apr 2021 13:00:00 +0000</pubDate>
       
@@ -2452,8 +2609,7 @@ How does it help people?</description>
       <pubDate>Fri, 23 Apr 2021 05:48:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/export-power-apps-and-power-automate-user-licenses/</guid>
-      <description>]
-Context During a Power Platform audit for a customer, I was looking for exporting all user licenses data into a single file to analyze it with Power BI.</description>
+      <description>Context During a Power Platform audit for a customer, I was looking for exporting all user licenses data into a single file to analyze it with Power BI.</description>
     </item>
     
     <item>
@@ -2471,8 +2627,7 @@ Context During a Power Platform audit for a customer, I was looking for exportin
       <pubDate>Thu, 22 Apr 2021 12:35:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-teams-community-call-april-2021/</guid>
-      <description>Call Summary
-Latest news from Microsoft engineering on Microsoft Teams updates and community assets.</description>
+      <description>Call summary Latest news from Microsoft engineering on Microsoft Teams updates and community assets.</description>
     </item>
     
     <item>
@@ -2481,8 +2636,16 @@ Latest news from Microsoft engineering on Microsoft Teams updates and community 
       <pubDate>Wed, 21 Apr 2021 08:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/power-apps-community-call-april-2021/</guid>
-      <description>Call Summary:
-Topics covered in this month&amp;rsquo;s community call include</description>
+      <description>Call summary Topics covered in this month&amp;rsquo;s community call include</description>
+    </item>
+    
+    <item>
+      <title>How to beautify your Power Apps</title>
+      <link>https://pnp.github.io/community-blog/post/how-to-beautify-your-power-apps/</link>
+      <pubDate>Wed, 21 Apr 2021 02:36:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/how-to-beautify-your-power-apps/</guid>
+      <description>Power Apps offers you a variety of icons - and recently, there were nice additions announced and rolled out.</description>
     </item>
     
     <item>
@@ -2500,7 +2663,8 @@ Topics covered in this month&amp;rsquo;s community call include</description>
       <pubDate>Sat, 17 Apr 2021 02:41:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-spotlight-mikael-svenson/</guid>
-      <description>Which community project do you maintain? PnP Modern Search</description>
+      <description>Which community project do you maintain? PnP Modern Search
+How does it help people?</description>
     </item>
     
     <item>
@@ -2509,7 +2673,7 @@ Topics covered in this month&amp;rsquo;s community call include</description>
       <pubDate>Fri, 16 Apr 2021 04:18:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-15th-of-april/</guid>
-      <description>Recording of the Microsoft 365 &amp;ndash; General M365 development Special Interest Group (SIG) community call from April 15, 2021.</description>
+      <description>Call summary Latest news from Microsoft 365 engineering and updates on open-source projects: PnP .</description>
     </item>
     
     <item>
@@ -2600,7 +2764,8 @@ Topics covered in this month&amp;rsquo;s community call include</description>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-spotlight-albert-jan-schot/</guid>
       <description>Which community project do you maintain?
-CLI Microsoft 365</description>
+CLI Microsoft 365
+How does it help people?</description>
     </item>
     
     <item>
@@ -2658,6 +2823,15 @@ CLI Microsoft 365</description>
     </item>
     
     <item>
+      <title>Microsoft Graph Fundamentals learning path -- Module 1</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-graph-fundamentals-learning-path-module-1/</link>
+      <pubDate>Thu, 01 Apr 2021 03:06:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-graph-fundamentals-learning-path-module-1/</guid>
+      <description>This blog post will summarize how I did the brand new Microsoft Graph Fundamentals Learning path.</description>
+    </item>
+    
+    <item>
       <title>SPFx Image Editor Sample - Playing with Canvas</title>
       <link>https://pnp.github.io/community-blog/post/spfx-image-editor-sample-playing-with-canvas/</link>
       <pubDate>Wed, 31 Mar 2021 09:49:00 -0400</pubDate>
@@ -2681,8 +2855,7 @@ CLI Microsoft 365</description>
       <pubDate>Mon, 29 Mar 2021 06:57:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-march-2021/</guid>
-      <description>Call Summary:
-In this session - Microsoft Identity platform for developers, Microsoft Authentication Libraries (JS, .</description>
+      <description>Call summary In this session - Microsoft Identity platform for developers, Microsoft Authentication Libraries (JS, .</description>
     </item>
     
     <item>
@@ -2709,7 +2882,7 @@ In this session - Microsoft Identity platform for developers, Microsoft Authenti
       <pubDate>Fri, 26 Mar 2021 07:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/how-to-get-started-with-graph-explorer/</guid>
-      <description>How started with Graph Explorer Microsoft Graph offers us a single endpoint https://graph.</description>
+      <description>Microsoft Graph offers us a single endpoint https://graph.microsoft.com to access data in Microsoft 365, Windows 10, and Enterprise Mobility and Security and can be used by makers and developers.</description>
     </item>
     
     <item>
@@ -2718,7 +2891,7 @@ In this session - Microsoft Identity platform for developers, Microsoft Authenti
       <pubDate>Fri, 26 Mar 2021 03:03:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-spotlight-julie-turner/</guid>
-      <description>Microsoft 365 PnP Community Spotlight: Julie Turner Which community project do you maintain?</description>
+      <description>Which community project do you maintain? PnPjs; Microsoft 365 learning pathways</description>
     </item>
     
     <item>
@@ -2772,7 +2945,8 @@ In this session - Microsoft Identity platform for developers, Microsoft Authenti
       <pubDate>Fri, 19 Mar 2021 02:18:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-spotlight-david-warner/</guid>
-      <description>Which community project do you maintain? Sharing is Caring</description>
+      <description>Which community project do you maintain? Sharing is Caring
+How does it help people?</description>
     </item>
     
     <item>
@@ -2799,8 +2973,7 @@ In this session - Microsoft Identity platform for developers, Microsoft Authenti
       <pubDate>Thu, 18 Mar 2021 12:19:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-teams-community-call-march-2021/</guid>
-      <description>Call Summary:
-This month&amp;rsquo;s community call featured latest look at the Teams Sample Repository (consolidated sample code Repo for Teams platform), then two Community Sample Showcase entries: Business to Citizen Consumer Communication Bot (allows citizen end-users with no Teams license to engage a business licensed user in a real-time Teams chat), and Bot Composer (create a simple bot, install it in Teams and have it calling the Graph in 15 minutes!</description>
+      <description>Call summary This month&amp;rsquo;s community call featured latest look at the Teams Sample Repository (consolidated sample code Repo for Teams platform), then two Community Sample Showcase entries: Business to Citizen Consumer Communication Bot (allows citizen end-users with no Teams license to engage a business licensed user in a real-time Teams chat), and Bot Composer (create a simple bot, install it in Teams and have it calling the Graph in 15 minutes!</description>
     </item>
     
     <item>
@@ -2818,8 +2991,7 @@ This month&amp;rsquo;s community call featured latest look at the Teams Sample R
       <pubDate>Wed, 17 Mar 2021 08:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/power-apps-community-call-march-2021/</guid>
-      <description>Call Summary:
-Topics covered in this month&amp;rsquo;s community include Creating Responsive Dataverse for Teams Power Apps (Use responsive containers for gallery and underlying form screen connected to a Dataverse table), Tagging documents with AI Builder (Power Automate flow calls Computer Vision Read API to scan for keywords to tag documents), Getting started with Power Apps ALM (ALM Accelerators automate packaging of Power Apps projects for transfer) and Recent Power Apps News and Community Contributions.</description>
+      <description>Call summary Topics covered in this month&amp;rsquo;s community include Creating Responsive Dataverse for Teams Power Apps (Use responsive containers for gallery and underlying form screen connected to a Dataverse table), Tagging documents with AI Builder (Power Automate flow calls Computer Vision Read API to scan for keywords to tag documents), Getting started with Power Apps ALM (ALM Accelerators automate packaging of Power Apps projects for transfer) and Recent Power Apps News and Community Contributions.</description>
     </item>
     
     <item>
@@ -2847,7 +3019,7 @@ Topics covered in this month&amp;rsquo;s community include Creating Responsive D
       <pubDate>Tue, 16 Mar 2021 02:35:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-118/</guid>
-      <description>Microsoft 365 PnP Weekly - Episode 118] In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by are joined by Scotland-based Solution Architect, dual MVP Veronique Lengelle (CPS) | @veronicageek.</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by are joined by Scotland-based Solution Architect, dual MVP Veronique Lengelle (CPS) | @veronicageek.</description>
     </item>
     
     <item>
@@ -2865,8 +3037,7 @@ Topics covered in this month&amp;rsquo;s community include Creating Responsive D
       <pubDate>Mon, 15 Mar 2021 01:52:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-march-10-2021/</guid>
-      <description>Call Summary:
-This month&amp;rsquo;s community call features presentations on Excel JS API v1.</description>
+      <description>Call summary This month&amp;rsquo;s community call features presentations on Excel JS API v1.</description>
     </item>
     
     <item>
@@ -2876,6 +3047,15 @@ This month&amp;rsquo;s community call features presentations on Excel JS API v1.
       
       <guid>https://pnp.github.io/community-blog/post/getting-started-with-sharepoint-s-custom-column-formatting/</guid>
       <description>Have you ever wished that you could turn your boring old SharePoint list, full of useful data as it may be, into something with a little more pizzazz?</description>
+    </item>
+    
+    <item>
+      <title>Run CLI for Microsoft 365 in Docker</title>
+      <link>https://pnp.github.io/community-blog/post/run-cli-for-microsoft-365-in-docker/</link>
+      <pubDate>Sat, 13 Mar 2021 02:34:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/run-cli-for-microsoft-365-in-docker/</guid>
+      <description>We are delighted to announce that CLI for Microsoft 365 Docker images are now available to download and use from the Docker Hub.</description>
     </item>
     
     <item>
@@ -3101,7 +3281,16 @@ Microsoft Graph Toolkit is a set of reusable components working with Microsoft G
       <pubDate>Sun, 14 Feb 2021 08:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/use-node-version-manager-to-develop-your-spfx-apps/</guid>
-      <description>To develop applications for SharePoint or Microsoft Teams with the SPFx framework, a few requirements must be met on your development computer.</description>
+      <description>To develop applications for SharePoint or Microsoft Teams with the SPFx framework, a few requirements must be met on your development computer. Learn how to install the supported Node.js v10.x version and how you can use other Node.js versions additionally with Node Version Manager</description>
+    </item>
+    
+    <item>
+      <title>Modern SharePoint list formatting</title>
+      <link>https://pnp.github.io/community-blog/post/modern-sharepoint-list-formatting/</link>
+      <pubDate>Fri, 12 Feb 2021 06:56:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/modern-sharepoint-list-formatting/</guid>
+      <description>This article shall give you guidance and inspiration on how to turn your classic boring lists into interactive modern list experiences, which will wow your users, let them get information at first sight, and increase overall productivity.</description>
     </item>
     
     <item>
@@ -3137,7 +3326,7 @@ Microsoft Graph Toolkit is a set of reusable components working with Microsoft G
       <pubDate>Wed, 10 Feb 2021 11:47:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/get-started-with-adaptive-cards/</guid>
-      <description>Hello dear digital technology enthusiast]{.N I heard you would like to find out what Adaptive Cards are?</description>
+      <description>Hello dear digital technology enthusiast. I heard you would like to find out what Adaptive Cards are?</description>
     </item>
     
     <item>
@@ -3192,15 +3381,6 @@ Microsoft Graph Toolkit is a set of reusable components working with Microsoft G
       
       <guid>https://pnp.github.io/community-blog/post/how-to-configure-and-use-incoming-webhooks-in-microsoft-teams/</guid>
       <description>Intro Incoming webhooks are a way to send updates or messages in a channel in Teams without a user interface, typically done via scripts or code programmatically.</description>
-    </item>
-    
-    <item>
-      <title>Elements That You Can Use In This Template.</title>
-      <link>https://pnp.github.io/community-blog/post/elements/</link>
-      <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/post/elements/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
   </channel>

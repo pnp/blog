@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 PnP Weekly - Episode 126 - D\'arce Hess"
+title: "Microsoft 365 PnP Weekly - Episode 126 - D'arce Hess"
 date: 2021-05-11T04:40:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
@@ -8,48 +8,29 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-126-d-arce-hess/Thumb-Ep126.png
 tags: []
 type: "regular"
+summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Rhode Island, US-based, MVP, professional archer, blogger and presenter specializing in UI/UX, information architecture and user adoption at TrnDigital, D'arce Hess.   Topics discussed in this session include:  The path to IT and on becoming an MVP, reflections on UX/UI changes over the years and designing custom experiences that addresses business processes.  In post pandemic times, organizations will be circling back to optimize Microsoft Teams experiences while vendors will continue efforts to land the right extensibility stories.   Microsoft Viva -- with great power comes great responsibility and ideas about prepping for Viva.   Finally, thoughts on women in IT and on using what we learn in school in the field.  "
 ---
-In this installment of the weekly discussion revolving around the latest
-news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
-joined by Rhode Island, US-based, MVP, professional archer, blogger and
-presenter specializing in UI/UX, information architecture and user
-adoption at TrnDigital, [D'arce Hess](https://twitter.com/DarceHess) |
-@ DarceHess.   Topics discussed in this session include:  The path to IT
-and on becoming an MVP, reflections on UX/UI changes over the years and
-designing custom experiences that addresses business processes.  In post
-pandemic times, organizations will be circling back to optimize
-Microsoft Teams experiences while vendors will continue efforts to land
-the right extensibility stories.   Microsoft Viva -- with great power
-comes great responsibility and ideas about prepping for Viva.   Finally,
-thoughts on women in IT and on using what we learn in school in the
-field.   Microsoft and the Community delivered 18 articles in this last
-week.  This session was recorded on Monday, May 10, 2021.
-Please remember to keep on providing us feedback on how we can help on
-this journey. We always welcome feedback on making the community more
-inclusive and diverse.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Rhode Island, US-based, MVP, professional archer, blogger and presenter specializing in UI/UX, information architecture and user adoption at TrnDigital, [D'arce Hess](https://twitter.com/DarceHess) | @ DarceHess.   Topics discussed in this session include:  The path to IT and on becoming an MVP, reflections on UX/UI changes over the years and designing custom experiences that addresses business processes.  In post pandemic times, organizations will be circling back to optimize Microsoft Teams experiences while vendors will continue efforts to land the right extensibility stories.   Microsoft Viva -- with great power comes great responsibility and ideas about prepping for Viva.   Finally, thoughts on women in IT and on using what we learn in school in the field.   
+
+Microsoft and the Community delivered 18 articles in this last week.  
+
+This session was recorded on Monday, May 10, 2021. Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
 This episode was recorded on Monday, May 10, 2021.
 
 -   Video at [Microsoft 365 Community YouTube
     channel](https://aka.ms/m365pnp-videos)
+    {{< youtube 5lhYr6kP-BY >}}
 -   Podcast format
     at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-These videos and podcasts are published each week and are intended to be
-roughly 45 - 60 minutes in length.  Please do give us feedback on this
-video and podcast series and also do let us know if you have done
-something cool/useful so that we can cover that in the next weekly
-summary! The easiest way to let us know is to share your work on Twitter
-and add the
-hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are
-always on the lookout for refreshingly new content. "*Sharing is
-caring!"* 
+    {{< podbean pb-necki-1032403 >}}
+
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. "*Sharing is caring!"* 
+
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
-**Events:**
+## Events
 
 -   May 25-27, 2021- [Microsoft Build
     2021](https://mybuild.microsoft.com/?WT.mc_id=m365-27875-wmastyka)
@@ -154,9 +135,7 @@ everyone for your contributions to the community!
     at <https://aka.ms/m365pnp/community>
 -   Check out all the great community calls, SDKs, and tooling for
     Microsoft 365 from <https://aka.ms/m365pnp>
-If you'd like to hear from a specific community member in an upcoming
-recording and/or have specific questions for Microsoft 365 engineering
-or visitors -- please let us know. We will do our best to address your
-requests or questions.
+
+If you'd like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors -- please let us know. We will do our best to address your requests or questions.
 
 *"Sharing is caring!"*
