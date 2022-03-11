@@ -134,16 +134,17 @@ article {
   transition: height 0.5s ease-in, opacity 0.5s ease-in;
   word-break: break-word;
 
-  & p.alert-title::before {
+  & p.alert-title .docon::before {
     // position: absolute;
     // top: 2px;
     color: var(--theme-text);
     font-family: $icon-font;
     font-weight: 900;
     left: 10px;
+    padding-right: 8px;
   }
 
-  & p.alert-title::after {
+  & p.alert-title .docon {
     color: var(--theme-text);
     font-weight: 600;
   }
@@ -153,13 +154,9 @@ article {
   background-color: var(--theme-info-background);
   border: 1px solid var(--theme-info-background-glow-high-contrast);
 
-  & p.alert-title::before {
+  & p.alert-title .docon::before {
     font-weight: 600;
     content: "\f05a";
-  }
-
-  & p.alert-title::after {
-    content: " Note";
   }
 }
 
@@ -167,13 +164,9 @@ article {
   background-color: var(--theme-success-background);
   border: 1px solid var(--theme-success-background-glow-high-contrast);
 
-  & p.alert-title::before {
+  & p.alert-title .docon::before {
         font-weight: 400;
     content: "\f0eb";
-  }
-
-  & p.alert-title::after {
-    content: " Tip";
   }
 }
 
@@ -183,12 +176,8 @@ article {
   background-color: var(--theme-primary-background);
   border: 1px solid var(--theme-primary-background-glow-high-contrast);
 
-  & p.alert-title::before {
+  & p.alert-title .docon::before {
     content: "\f05a";
-  }
-
-  & p.alert-title::after {
-    content: " Important";
   }
 }
 
@@ -196,13 +185,9 @@ article {
   background-color: var(--theme-danger-background);
   border: 1px solid var(--theme-danger-background-glow-high-contrast);
 
-  & p.alert-title::before {
+  & p.alert-title .docon::before {
         font-weight: 400;
     content: "\f057";
-  }
-
-  & p.alert-title::after {
-    content: " Caution";
   }
 }
 
@@ -211,13 +196,9 @@ article {
   background-color: var(--theme-warning-background);
   border: 1px solid var(--theme-warning-background-glow-high-contrast);
 
-  & p.alert-title::before {
+  & p.alert-title .docon::before {
         font-weight: 600;
     content: "\f071";
-  }
-
-  & p.alert-title::after {
-    content: " Warning";
   }
 }
 

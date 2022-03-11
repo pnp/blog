@@ -1,6 +1,7 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
+{{$title := .Get 0}}
 
 <div class="alert {{ .Get 0 }}">
-  <p class="alert-title"><span class="docon docon-status-error-outline" aria-hidden="true"></span></p>
+  <p class="alert-title"><span class="docon docon-status-{ .Get 0 }}-outline" aria-hidden="true">{{title $title}}</span></p>
   <p>{{ .Inner | markdownify }}</p>
 </div>

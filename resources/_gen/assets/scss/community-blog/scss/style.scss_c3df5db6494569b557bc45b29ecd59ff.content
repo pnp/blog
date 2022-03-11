@@ -1303,55 +1303,46 @@ article {
   position: relative;
   transition: height 0.5s ease-in, opacity 0.5s ease-in;
   word-break: break-word; }
-  .alert p.alert-title::before {
+  .alert p.alert-title .docon::before {
     color: var(--theme-text);
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
-    left: 10px; }
-  .alert p.alert-title::after {
+    left: 10px;
+    padding-right: 8px; }
+  .alert p.alert-title .docon {
     color: var(--theme-text);
     font-weight: 600; }
 
 .alert.note {
   background-color: var(--theme-info-background);
   border: 1px solid var(--theme-info-background-glow-high-contrast); }
-  .alert.note p.alert-title::before {
+  .alert.note p.alert-title .docon::before {
     font-weight: 600;
     content: "\f05a"; }
-  .alert.note p.alert-title::after {
-    content: " Note"; }
 
 .alert.tip {
   background-color: var(--theme-success-background);
   border: 1px solid var(--theme-success-background-glow-high-contrast); }
-  .alert.tip p.alert-title::before {
+  .alert.tip p.alert-title .docon::before {
     font-weight: 400;
     content: "\f0eb"; }
-  .alert.tip p.alert-title::after {
-    content: " Tip"; }
 
 .alert.important {
   background-color: var(--theme-primary-background);
   border: 1px solid var(--theme-primary-background-glow-high-contrast); }
-  .alert.important p.alert-title::before {
+  .alert.important p.alert-title .docon::before {
     content: "\f05a"; }
-  .alert.important p.alert-title::after {
-    content: " Important"; }
 
 .alert.caution {
   background-color: var(--theme-danger-background);
   border: 1px solid var(--theme-danger-background-glow-high-contrast); }
-  .alert.caution p.alert-title::before {
+  .alert.caution p.alert-title .docon::before {
     font-weight: 400;
     content: "\f057"; }
-  .alert.caution p.alert-title::after {
-    content: " Caution"; }
 
 .alert.warning {
   background-color: var(--theme-warning-background);
   border: 1px solid var(--theme-warning-background-glow-high-contrast); }
-  .alert.warning p.alert-title::before {
+  .alert.warning p.alert-title .docon::before {
     font-weight: 600;
     content: "\f071"; }
-  .alert.warning p.alert-title::after {
-    content: " Warning"; }

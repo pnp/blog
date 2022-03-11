@@ -51,7 +51,6 @@ PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1
 While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.
 {{< /notice >}}
 
-
 The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 @DavidWarnerII.   Q&A takes place in chat throughout the call.
