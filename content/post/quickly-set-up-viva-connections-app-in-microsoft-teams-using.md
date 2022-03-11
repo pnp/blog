@@ -7,6 +7,7 @@ images:
 - images/blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ShrushtiShah_7-1642505452452.png
 tags: []
 type: "regular"
+summary: "In this article you can expect to quickly add your home site portal as Viva connection app right into your Microsoft Teams"
 ---
 
 As we all know, Viva connection is a part of Employee Experience
@@ -14,6 +15,7 @@ Platform.
 
 In this article you can expect to quickly add your home site portal as
 Viva connection app right into your Microsoft Teams
+
 Before we move ahead, a quick note,
 
 1.  If you don't have an existing home site in your tenant you can
@@ -82,6 +84,7 @@ and make changes to your Home site.
 
  Fig 1.7 --
 Viva connections app with your SharePoint home site.
+
 I hope you all got a brief understanding on how you can quickly set up
 Viva connections app into your Microsoft Teams from Microsoft Teams
 Admin center.

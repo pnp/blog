@@ -123,7 +123,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
     List](https://pnp.github.io/script-samples/spo-generate-demo-events/README.html?tabs=pnpps)
     -** [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd)
     | @pkbullock
-**Together Mode!**
+## Together Mode!
 {{< image alt="PnP-Calls-TogetherMode-800W.gif" src="images/blog/microsoft-365-developer-community-call-recording-16th-of/PnP-Calls-TogetherMode-800W.gif" >}}
 
 Picture time is back and it's a packed House!  Thank you for joining

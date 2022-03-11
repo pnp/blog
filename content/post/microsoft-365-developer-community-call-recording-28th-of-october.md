@@ -43,8 +43,9 @@ and **Yo teams - yoteams-build-core** - v1.4.0.  
   [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)            v3.1.1                                                               
   [Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit)                        v2.3.0 GA                                                           Working on v3.0.0
   ----------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------- ----------------------------------------------------------
-**\* Note:  While version releases are periodic, nightly releases are
-nightly!  Subscribe to nightly releases for the latest capabilities. **
+{{< notice note>}}
+While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.
+{{< /notice >}}
 
 
 
@@ -122,7 +123,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
         [@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
 
 -- Thank you :clapping_hands:
-**Together Mode!**
+## Together Mode!
 
 {{< image alt="211028-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-28th-of-october/211028-together-mode.gif" >}}
 

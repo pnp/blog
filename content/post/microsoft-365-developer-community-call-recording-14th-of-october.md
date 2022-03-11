@@ -132,7 +132,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -- Thank you
 
-**Together Mode!**
+## Together Mode!
 {{< image alt="211014-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-14th-of-october/211014-together-mode.gif" >}}
 
 Awesome to have you as part of this Community, please keep the feedback

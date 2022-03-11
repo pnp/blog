@@ -8,50 +8,57 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-20th-of-january/recording-20th-jan.png
 tags: []
 type: "regular"
+summary: "One location the Microsoft 365 tenant – script samples gallery (134 scenarios and 182 scripts) including recently added Teams PowerShell support!  Sign up and attend an AMA and other events this month hosted by Sharing is Caring.  At the same time, sign up for the PnP Recognition Program.  Heads down on PnP projects.  Check out the TeamsFx authentication provider preview in MGT!  To see current releases and latest updates/nightly builds, access the Repos via the links in table below.  There were 7 new/updated script, 5 Power Platform samples delivered this week.   Wanted! – Teams Samples."
 ---
 
 ## Call summary
 
-
-
-One location the Microsoft 365 tenant -- [script samples
+- One location the Microsoft 365 tenant -- [script samples
 gallery](https://aka.ms/script-samples) (134 scenarios and 182 scripts)
-including recently added Teams PowerShell support!  Sign up and attend
+including recently added Teams PowerShell support!  
+- Sign up and attend
 an AMA and other events this month hosted by [Sharing is
 Caring](https://pnp.github.io/sharing-is-caring/).  At the same time,
 sign up for the [PnP Recognition
-Program](https://aka.ms/m365pnp-recognition).  Heads down on PnP
-projects.  Check out the TeamsFx authentication provider preview in
-**MGT**!  To see current releases and latest updates/nightly builds,
-access the Repos via the links in table below.  There were 7 new/updated
-script, 5 Power Platform samples delivered this week.   Wanted! -- Teams
+Program](https://aka.ms/m365pnp-recognition).  
+- Heads down on PnP
+projects.  
+- Check out the TeamsFx authentication provider preview in
+**MGT**!  
+- To see current releases and latest updates/nightly builds,
+access the Repos via the links in table below.  
+- There were 7 new/updated
+script, 5 Power Platform samples delivered this week.   
+- Wanted! -- Teams
 Samples.
-**Open-source project status: (Bold indicates new this call)**
 
-  ----------------------------------------------------------------------------------------------------------------- --------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
-  **Project**                                                                                                       **Current Version**                                       **Release/Status**
-  PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)                                         v1.8.0 GA with .NET 6.0 support added                     Prepping v1.9
-  PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)                                      v1.5.0 GA with .NET 6.0 support added                     Prepping v1.6
-  [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)                                                           v1.9.0 GA                                                 In progress: V2 POC, Prepping for v1.8, nightly releases
-  [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)         v3.5.0 GA                                                 v4.0.0-next
-  [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)   v1.5.0 GA, Next: v1.6.0-next.1                             
-  [Yo teams -- yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy)          v1.1.0 GA                                                  
-  [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)            v3.1.1                                                     
-  [Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit)                        v2.3.1 GA, **TeamsFx authentication provider preview!**   Preparing v2.3.1 release, working on v3.0.0 - Aligning all Toolkit components to Fluent UI Web Components
-  ----------------------------------------------------------------------------------------------------------------- --------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
-**\* Note:  While version releases are periodic, nightly releases are
-nightly!  Subscribe to nightly releases for the latest capabilities. **
+## Open-source project status
+
+(**Bold** indicates new this call)
+
+**Project**|**Current Version**|**Release/Status**
+---|---|--- 
+PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework) |v1.8.0 GA with .NET 6.0 support added|Prepping v1.9
+PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.5.0 GA with .NET 6.0 support added|Prepping v1.6
+[PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.9.0 GA|In progress: V2 POC, Prepping for v1.8, nightly releases
+[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v3.5.0 GA|v4.0.0-next
+[Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.5.0 GA, Next: v1.6.0-next.1                             
+[Yo teams -- yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy)|v1.1.0 GA                                                  
+[Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)|v3.1.1                                                     
+[Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit)|v2.3.1 GA, **TeamsFx authentication provider preview!**|Preparing v2.3.1 release, working on v3.0.0 - Aligning all Toolkit components to Fluent UI Web Components
+
+{{< notice note>}}
+While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.
+{{< /notice >}}
 
 
 The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 @DavidWarnerII.   Q&A takes place in chat throughout the call.
 
-
-
 -   Opt into PnP Recognition Program
     | [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)
--   Join us at the next** Microsoft 365 platform call 25th of January
+-   Join us at the next **Microsoft 365 platform call 25th of January
     @ 8 AM PT**
     -   Latest news from Microsoft engineering on Microsoft 365 topics
     -   Demos: 
@@ -60,7 +67,7 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
             Connections extensibility
         -   **Sébastien Levert** -- Introduction to Microsoft Graph
             Toolkit control
--   **Register for Sharing is Caring Events: **
+- **Register for Sharing is Caring Events:**
     -   PnP Sharing is Caring - AMA (Ask Me Anything) - SPFx React
         Controls -- [Tuesday, February 22nd, 9am
         PST](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUNjg1UVhPV0JHTjRLNDZISkM4MEI0VDZWSC4u)
@@ -97,13 +104,16 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-**Microsoft Teams Development
-Samples: **(<https://aka.ms/TeamsSampleBrowser>)
+
+## Microsoft Teams Development Samples
+
+(<https://aka.ms/TeamsSampleBrowser>)
 
 -   Wanted!  Teams Samples
 
-**Microsoft Power Platform
-Samples: **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatform-samples)
+## Microsoft Power Platform Samples
+
+(<https://aka.ms/powerplatform-samples>)
 
 -   [**COVID Vaccine Survey
     App**](https://github.com/pnp/powerapps-samples/tree/main/samples/covid-vaccine-survey) -
@@ -120,8 +130,10 @@ Samples: **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatfor
 -   [**Power
     Wordle**](https://github.com/pnp/powerapps-samples/tree/main/samples/power-wordle-game) -
     [April Dunnam](http://twitter.com/aprildunnam) | @aprildunnam
-**Script
-Samples: **([https://aka.ms/script-samples)](https://aka.ms/script-samples)
+
+## Script Samples
+
+<https://aka.ms/script-samples>
 
 4 new scenarios and 3 script updates contributed by
 
@@ -138,21 +150,23 @@ Samples: **([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 -   [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) |
     [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
 
-Blog: [Getting started with PnP Script
-Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) --
-aka.ms/script-samples/getting-started
+Blog: [Getting started with PnP Script Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) -- aka.ms/script-samples/getting-started
+
 -- Many thanks!
 
-**Together Mode!**
+## Together Mode!
+
 {{< image alt="220120-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-20th-of-january/220120-together-mode.gif" >}}
 
 Thanks everyone for joining the call today.  You are an awesome
 community.   
 
 ## Demos
+
 Demos delivered in this session
 
-**Getting started on building a Microsoft Teams bot with yo teams** --
+### Getting started on building a Microsoft Teams bot with yo teams
+
 what is yo teams (a Microsoft Teams app generator) and how to use it to
 build a bot.  After installing Yeoman generator and Gulp CLI task
 manager, install npm i -g generator-teams.  Create a project.  In VS
@@ -160,8 +174,9 @@ Code step through files generated by yo teams.  Use gulp build, gulp
 manifest and gulp serve.  Upload created bot to Teams site and
 appreciate its out-of-box capabilities.    
 
-**Microsoft List Formatting - Challenges and Solutions**
---** **appreciate results of one person's winter lock down -- List
+### Microsoft List Formatting - Challenges and Solutions
+
+appreciate results of one person's winter lock down -- List
 Formatting samples categorized by emotions, multiple person, color
 picker, bar option, slider, and Teams Group.  Solutions include
 discussion board, events mobile and payment.  Graphical tree along with
@@ -169,7 +184,8 @@ LABs (show how handle manual actions from users) for Tic Tac Toe and
 roll dice.  UI/script shown on slides, live in demo.   Samples available
 in List Formatting Repo soon. 
 
-**Updates on Independent Publisher Connectors & GoQR Connector Demo** --
+### Updates on Independent Publisher Connectors & GoQR Connector Demo
+
 49 connectors in production, 40 in pipeline today!  The GoQR connector
 generates QR codes.  In Power Apps, render the QR Code image alone or
 embed the QR code image in a document or pdf, i.e., an invoice.  Simple
@@ -177,7 +193,9 @@ build - a text field, a button (calls connector with action create) and
 a flow.   This connector is now available to anyone in the world. 
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
@@ -337,6 +355,7 @@ slides.
     | <https://aka.ms/PowerAppsMonthlyCall>
 -   **Microsoft Identity Platform call** -- February 17th at 9:00 am
     PST | <https://aka.ms/IDDevCommunityCalendar>
+
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
@@ -346,6 +365,7 @@ formatting, etc. topics. More details on the Microsoft 365 community
 from [http://aka.ms/m365pnp](http://aka.ms/sppnp). We also welcome
 community demos, if you are interested in doing a live demo in these
 calls!
+
 You can download recurrent invite from <http://aka.ms/m365-dev-sig>.
 Welcome and join in the discussion. If you have any questions, comments,
 or feedback, feel free to provide your input as comments to this post as

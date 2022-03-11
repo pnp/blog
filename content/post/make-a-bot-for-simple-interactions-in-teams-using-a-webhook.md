@@ -8,6 +8,7 @@ images:
 - images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149174368-58562d12-5554-4625-a902-0df103e00cff.png
 tags: []
 type: "regular"
+summary: "Have you ever had an idea to ask a bot to perform a simple interaction? Then this article is for you"
 ---
 
 ## Introduction

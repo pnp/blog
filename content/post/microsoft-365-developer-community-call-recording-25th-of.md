@@ -49,7 +49,8 @@ Project releases this week include **Yo teams - generator-teams** -
 v3.5.0 GA, **Yo teams - yoteams-build-core** - v1.5.0 GA, **Yo teams --
 yoteams-deploy** - v1.1.0 GA and **Microsoft Graph Toolkit (MGT)** -
 v2.3.1 GA.  Also added .NET 6 support to **PnP .NET libraries**.
-**Open-source project status: (Bold indicates new this call)**
+## Open-source project status
+(**Bold** indicates new this call)
 
   ----------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
   **Project**                                                                                                       **Current Version**                                                 **Release/Status**
@@ -62,8 +63,9 @@ v2.3.1 GA.  Also added .NET 6 support to **PnP .NET libraries**.
   [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)            v3.1.1                                                               
   [Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit)                        **v2.3.1 GA**                                                       Preparing v2.3.1 release, Working on v3.0.0 - Aligning all Toolkit components to Fluent UI Web Components
   ----------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
-**\* Note:  While version releases are periodic, nightly releases are
-nightly!  Subscribe to nightly releases for the latest capabilities. **
+{{< notice note>}}
+While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.
+{{< /notice >}}
 
 
 As well, there were 6 new/updated script samples this week!  The host of
@@ -143,7 +145,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
         [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
 
 -- Fabulous!
-**Together Mode!**
+## Together Mode!
 {{< image alt="211125-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-25th-of/211125-together-mode.gif" >}}
 Great seeing everyone today. See you at the [European Collaboration and
 Cloud Summit](https://collabsummit.eu/) in Düsseldorf, Germany or

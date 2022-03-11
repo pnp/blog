@@ -26,7 +26,8 @@ version releases this week, but much work is being done.  To see current
 releases and latest updates/nightly builds, access the Repos via the
 links in table below.  There were 2 new script samples delivered this
 week.  
-**Open-source project status: (Bold indicates new this call)**
+## Open-source project status
+(**Bold** indicates new this call)
 
   ----------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
   **Project**                                                                                                       **Current Version**                                                 **Release/Status**
@@ -39,8 +40,9 @@ week.  
   [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)            v3.1.1                                                               
   [Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit)                        v2.3.1 GA                                                           Preparing v2.3.1 release, working on v3.0.0 - Aligning all Toolkit components to Fluent UI Web Components
   ----------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
-**\* Note:  While version releases are periodic, nightly releases are
-nightly!  Subscribe to nightly releases for the latest capabilities. **
+{{< notice note>}}
+While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.
+{{< /notice >}}
 
 The host of this call was [David Warner
 II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
@@ -110,7 +112,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
     -   Kinga Kazala
 
 -- Many thanks!
-**Together Mode!**
+## Together Mode!
 {{< image alt="211209-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-9th-of-december/211209-together-mode.gif" >}}
 The house is full!   Great seeing everyone today.   Coordinated stadium
 style wave rehearsals starting soon.   

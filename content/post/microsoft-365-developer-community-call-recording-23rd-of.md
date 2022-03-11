@@ -28,7 +28,8 @@ v1.8.0 GA, **PnP Core SDK** v1.5.0 GA, **PnP PowerShell** v1.9.0 GA and
 current releases and latest updates/nightly builds, access the Repos via
 the links in table below.  8 new/updated script samples, 1 Microsoft
 Teams sample and 5 Power Apps samples were delivered this week!  
-**Open-source project status: (Bold indicates new this call)**
+## Open-source project status
+(**Bold** indicates new this call)
 
   ----------------------------------------------------------------------------------------------------------------- ------------------------------------------- -----------------------------------------------------------------------------------------------------------
   **Project**                                                                                                       **Current Version**                         **Release/Status**
@@ -41,8 +42,9 @@ Teams sample and 5 Power Apps samples were delivered this week!  
   [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)            v3.1.1                                       
   [Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit)                        v2.3.1 GA                                   Preparing v2.3.1 release, working on v3.0.0 - Aligning all Toolkit components to Fluent UI Web Components
   ----------------------------------------------------------------------------------------------------------------- ------------------------------------------- -----------------------------------------------------------------------------------------------------------
-**\* Note:  While version releases are periodic, nightly releases are
-nightly!  Subscribe to nightly releases for the latest capabilities. **
+{{< notice note>}}
+While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.
+{{< /notice >}}
 
 
 
@@ -131,7 +133,7 @@ Samples: **([https://aka.ms/script-samples)](https://aka.ms/script-samples)
     @kasperbolarsen
 -   [Paul Bullock](http://twitter.com/pkbullock) | @pkbullock
 -- Many thanks!
-**Together Mode!**
+## Together Mode!
 {{< image alt="PnP-Calls-TogetherMode-700W.gif" src="images/blog/microsoft-365-developer-community-call-recording-23rd-of/PnP-Calls-TogetherMode-700W.gif" >}}
 [Together here during the holiday's because - why not?  Great seeing
 everyone today.  Happy holidays and new year to you and family. 

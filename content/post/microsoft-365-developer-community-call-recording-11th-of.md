@@ -60,8 +60,9 @@ and **Yo teams -- yoteams-deploy** - v1.1.0 Preview2.  
   [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)            v3.1.1                                                               
   [Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit)                        v2.3.0 GA                                                           Preparing v2.3.1 release, Working on v3.0.0 - Aligning all Toolkit components to Fluent UI Web Components
   ----------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
-**\* Note:  While version releases are periodic, nightly releases are
-nightly!  Subscribe to nightly releases for the latest capabilities. **
+{{< notice note>}}
+While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.
+{{< /notice >}}
 
 **    **
 
@@ -140,7 +141,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
         [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
 
 -- Fabulous!
-**Together Mode!**
+## Together Mode!
 {{< image alt="211111-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-11th-of/211111-together-mode.gif" >}}
 Great seeing everyone today. Perhaps we will meet in person soon at the
 [European Collaboration and Cloud Summit](https://collabsummit.eu/) in

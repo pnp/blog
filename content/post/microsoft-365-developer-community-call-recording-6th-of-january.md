@@ -30,7 +30,8 @@ other projects.  Check out the TeamsFx authentication provider preview
 in **MGT**!  To see current releases and latest updates/nightly builds,
 access the Repos via the links in table below.  There were 7 new/updated
 script samples delivered this week.  
-**Open-source project status: (Bold indicates new this call)**
+## Open-source project status
+(**Bold** indicates new this call)
 
   ----------------------------------------------------------------------------------------------------------------- --------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
   **Project**                                                                                                       **Current Version**                                       **Release/Status**
@@ -43,8 +44,9 @@ script samples delivered this week.  
   [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)            v3.1.1                                                     
   [Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit)                        v2.3.1 GA, **TeamsFx authentication provider preview!**   Preparing v2.3.1 release, working on v3.0.0 - Aligning all Toolkit components to Fluent UI Web Components
   ----------------------------------------------------------------------------------------------------------------- --------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
-**\* Note:  While version releases are periodic, nightly releases are
-nightly!  Subscribe to nightly releases for the latest capabilities. **
+{{< notice note>}}
+While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.
+{{< /notice >}}
 
 
 
@@ -129,7 +131,7 @@ Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-s
 -- aka.ms/script-samples/getting-started
 -- Many thanks!
 
-**Together Mode!**
+## Together Mode!
 
 {{< image alt="220106-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-6th-of-january/220106-together-mode.gif" >}}
 

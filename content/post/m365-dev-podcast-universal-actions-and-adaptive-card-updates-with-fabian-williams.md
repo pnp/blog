@@ -10,10 +10,12 @@ images:
   - images/blog/m365-dev-podcast/m365podcast_artwork_copy.jpg
 tags: []
 type: regular
+summary: "Fabian Williams joins Jeremy and Paul to talk about Universal Actions and updates to Adaptive Cards."
 ---
 
 Fabian Williams joins Jeremy and Paul to talk about Universal Actions and updates to Adaptive Cards.
 
+{{< podbean title="Microsoft 365 Developer Podcast" sharelink="pb-yrhbq-11c6e4a"  >}}
 Listen to the show here:  [Universal Actions and Adaptive Card Updates with Fabian Williams (m365devpodcast.com)](https://www.m365devpodcast.com/e/universal-actions-and-adaptive-card-updates-with-fabian-williams/)
 
 ## Links from the show
