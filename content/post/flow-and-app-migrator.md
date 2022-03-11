@@ -3,16 +3,14 @@ title: "Migrate Cloud Flows and Canvas Apps across tenants"
 date: 2022-03-10T22:29:00-04:00
 author: "Denis Molodtsov"
 githubname: zerg00s
-categories: []
+categories: ["Tooling"]
 images:
 - images/blog/flow-and-app-migrator/flow-migrator.jpg
-tags: []
+tags: ["Power Apps", "Power Automate", "Flow", "SharePoint", "Solution", "DataVerse"]
 type: "regular"
 ---
 
 ## Introduction
-
-![](/assets/images/blog/flow-and-app-migrator/flow-migrator.jpg)
 
 If you are a Power App or Power Automate developer, chances are you had to move your creations between SharePoint sites or even Microsoft 365 tenants. At the very least, you were probably wondering about the easiest ways of doing it. Perhaps, you were trying to establish separate development, staging and production environments. Or you wanted to share your solution with a client or a friendly department within your organization.
 
@@ -23,12 +21,14 @@ This is why it is recommended to always develop apps and flows as part of a **so
 However, **solutions** are not used every time for one reason or another. On top of it, the majority of apps and flows are still using SharePoint lists and libraries as a data source instead of **Dataverse** tables. 
 
 As a result, you will still face a few challenges when migrating:
+
 - SharePoint lists need to be migrated separately since they are not packaged within a Power Platform solution.
 - Site and list URLs need to be replaced manually after migration.
 
 ## About Flow and App Migrator
 
-**[Flows and Power Apps Migrator](https://github.com/Zerg00s/FlowPowerAppsMigrator)** is a portable tool that lets you migrate apps and flows that primarily use **SharePoint** as a data source. With it:
+**[Flows and Power Apps Migrator](https://github.com/Zerg00s/FlowPowerAppsMigrator)** is an open-source portable tool that lets you migrate apps and flows that primarily use **SharePoint** as a data source. With it:
+
 - You can continue developing with or without solutions and environment variables. 
 - Don't have to worry about hardcoded SharePoint URLs.
 - Don't have to migrate SharePoint lists, libraries and content types. The tool does it for you.
@@ -38,59 +38,64 @@ As a result, you will still face a few challenges when migrating:
 - Navigate to [https://github.com/Zerg00s/FlowPowerAppsMigrator](https://github.com/Zerg00s/FlowPowerAppsMigrator)
 - Download the [latest release](https://github.com/Zerg00s/FlowPowerAppsMigrator/releases)
 - Extract the ZIP package
-- Exported your flows, apps and solutions to the `src` folder:
+- Export your flows, apps and solutions to the `src` folder:
 
-![](/assets/images/blog/flow-and-app-migrator/export.png)
+    {{< image alt="Exporting a Package as .ZIP" src="images/blog/flow-and-app-migrator/export.png" >}}
+     
+    {{< image alt="Exporting Apps" src="images/blog/flow-and-app-migrator/export-apps.png" >}}
+    
+    {{< image alt="The source" src="images/blog/flow-and-app-migrator/src.png" >}}
+    
+    {{< image alt="Migrate Packages.bat" src="images/blog/flow-and-app-migrator/contents.png" >}}
 
-![](/assets/images/blog/flow-and-app-migrator/export-apps.png)
 
-![](/assets/images/blog/flow-and-app-migrator/src.png)
+- Launch on `Migrate-Packages.bat` file.
 
-![](/assets/images/blog/flow-and-app-migrator/contents.png)
-- Double-click on `Migrate-Packages.bat` file.
-
-![](/assets/images/blog/flow-and-app-migrator/app.png)
+    {{< image alt="The Flow and Power App Migrator splash screen" src="images/blog/flow-and-app-migrator/app.png" >}}
 
 - Enter source site URL and target site URL.
 
-![](/assets/images/blog/flow-and-app-migrator/dialog.png)
+    {{< image alt="Enter source and target site" src="images/blog/flow-and-app-migrator/dialog.png" >}}
 
-- Click OK.
+- Select **OK**.
 - Select lists and libraries to migrate. These are dependencies used by your flows and apps.
 
-![](/assets/images/blog/flow-and-app-migrator/lists.png)
+    {{< image alt="Select lists and libraries to migrate" src="images/blog/flow-and-app-migrator/lists.png" >}}
 
-- Click OK. Sit back and wait for the lists and libraries to be migrated and the conversion process to finish.
+- Select **OK**. Sit back and wait for the lists and libraries to be migrated and the conversion process to finish.
 
 - Navigate to the `dist` folder and collect converted flows, apps and solutions
 
-![](/assets/images/blog/flow-and-app-migrator/dist.png)
+    {{< image alt="The dist folder containing converted flows, apps, and solutions" src="images/blog/flow-and-app-migrator/dist.png" >}}
 
 - Now go ahead and import your flows and apps to the destination tenant or environment. All SharePoint actions are now be converted and point to the new SharePoint location. You will also notice that SharePoint dependencies were migrated.
 
-![](/assets/images/blog/flow-and-app-migrator/converted.png)
+    {{< image alt="All SharePoint data sources converted with a smiley" src="images/blog/flow-and-app-migrator/converted.png" >}}
 
 ## Bonus: Preparing a deployment package for your clients and partners
 
-**On your end**
+### On your end
 
 - Run `Prepare-Deployment-Package-for-Client.bat` to create a **deployment package** that you can share with your clients or partners. This script will generate a `package` folder on disk.
 
 - Export your solutions, apps and flows and save them to the `package\src` folder.
 
-![](/assets/images/blog/flow-and-app-migrator/client-package.png) 
+    {{< image alt="Exported solutions, apps, and flows to the package/src folder" src="images/blog/flow-and-app-migrator/client-package.png" >}}
 
 - Send the `package` folder to your client or partner.
 
-**On the client's side**
+### On the client's side
+
 - If not already exists, create a SharePoint Online site. It will contain SharePoint Lists and Libraries that Power Apps/Flows require.
 - Open the `package` directory.
-- Run `Convert-Packages.bat` script. 
-- Provide target site URL.
+- Run the `Convert-Packages.bat` script. 
+- Provide a target site URL.
 - Import all solutions, flows and apps from the `dist` directory.
 
-### Credits to the PnP PowerShell team
+## Credits to the PnP PowerShell team
+
 Behind the scenes, Flow and Power Apps migrator uses a [PowerShell PnP module](https://pnp.github.io/powershell) for exporting and importing provisioning templates.
 
 ## Conclusion
+
 As you can see, Flow and Power Apps Migrator makes your  migration process simpler. Likewise, a deployment process for your clients is significantly simplified.
