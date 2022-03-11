@@ -202,3 +202,23 @@ article {
   }
 }
 
+.content .checklist>ul>li {
+    list-style-type: none;
+    position: relative;
+}
+
+.content ol>li, .content ul>li {
+    list-style: disc none outside;
+}
+
+.content .checklist>ul>li:before {
+    color: var(--theme-success-base);
+    content: "\f00c";
+    display: inline-block;
+    font-family: $icon-font;
+    height: 1em;
+    left: -1.5em;
+    position: absolute;
+    width: 1em;
+    font-weight: 900;
+}

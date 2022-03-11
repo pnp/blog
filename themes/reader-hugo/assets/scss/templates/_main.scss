@@ -544,36 +544,23 @@
   //   }
   // }
 
-  ol,
-  ul {
-    padding-left: 20px;
+	ul,
+	ol {
+		margin: 16px 0;
+	}
 
-    li {
-      margin-bottom: 10px;
-    }
-  }
+	ul > li,
+	ol > li {
+		list-style: disc outside none;
+	}
 
-  ul {
-    padding-left: 0;
-    margin-bottom: 20px;
-    list-style-type: none;
+	ul > li > ul > li {
+		list-style-type: circle;
+	}
 
-    li {
-      padding-left: 20px;
-      position: relative;
-
-      &::before {
-        position: absolute;
-        content: "";
-        height: 8px;
-        width: 8px;
-        border-radius: 50%;
-        background: $primary-color;
-        left: 3px;
-        top: 8px;
-      }
-    }
-  }
+	ol > li {
+		list-style-type: decimal;
+	}
 
   table {
     width: 100%;

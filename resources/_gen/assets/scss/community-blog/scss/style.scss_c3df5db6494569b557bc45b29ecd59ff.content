@@ -739,29 +739,19 @@ mark {
 .content img {
   max-width: 100%; }
 
-.content ol,
-.content ul {
-  padding-left: 20px; }
-  .content ol li,
-  .content ul li {
-    margin-bottom: 10px; }
+.content ul,
+.content ol {
+  margin: 16px 0; }
 
-.content ul {
-  padding-left: 0;
-  margin-bottom: 20px;
-  list-style-type: none; }
-  .content ul li {
-    padding-left: 20px;
-    position: relative; }
-    .content ul li::before {
-      position: absolute;
-      content: "";
-      height: 8px;
-      width: 8px;
-      border-radius: 50%;
-      background: #3974d3;
-      left: 3px;
-      top: 8px; }
+.content ul > li,
+.content ol > li {
+  list-style: disc outside none; }
+
+.content ul > li > ul > li {
+  list-style-type: circle; }
+
+.content ol > li {
+  list-style-type: decimal; }
 
 .content table {
   width: 100%;
@@ -1346,3 +1336,21 @@ article {
   .alert.warning p.alert-title .docon::before {
     font-weight: 600;
     content: "\f071"; }
+
+.content .checklist > ul > li {
+  list-style-type: none;
+  position: relative; }
+
+.content ol > li, .content ul > li {
+  list-style: disc none outside; }
+
+.content .checklist > ul > li:before {
+  color: var(--theme-success-base);
+  content: "\f00c";
+  display: inline-block;
+  font-family: "Font Awesome 5 Free";
+  height: 1em;
+  left: -1.5em;
+  position: absolute;
+  width: 1em;
+  font-weight: 900; }
