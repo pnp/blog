@@ -19,7 +19,7 @@
             "---",
             "$0"
         ],
-        "description": "Insert brog post front matter"
+        "description": "Insert blog post front matter"
     },
     "Shortcode -> Insert image": {
         "scope": "markdown",
@@ -28,7 +28,7 @@
             "short-image",
             "image"
         ],
-        "body": "{{< image alt=\"${1:alt}\" src=\"images/blog/${TM_FILENAME_BASE}/${3:image-filename}}\" >}}"
+        "body": "{{< image alt=\"${1:alt}\" src=\"images/blog/${TM_FILENAME_BASE}/${3:image-filename}\" >}}"
     },
     "Shortcode -> Insert YouTube": {
         "scope": "markdown",
@@ -47,5 +47,14 @@
             "podbean"
         ],
         "body": "{{< podbean ${1:podbean-id} >}}"
+    },
+    "Shortcode -> Insert Notice": {
+        "scope": "markdown",
+        "description": "Notice shortcode",
+        "prefix": [
+            "short-notice",
+            "notice"
+        ],
+        "body": ["{{< notice ${1:notice-type}>}}", "$0", "{{< /notice >}}"]
     }
 }

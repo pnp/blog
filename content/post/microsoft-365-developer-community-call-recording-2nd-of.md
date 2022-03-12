@@ -10,14 +10,7 @@ tags: []
 type: "regular"
 ---
 
-
-
-
-
 ## Call summary
-
-
-
 
 Welcome back from summer holiday!  Have a look at Microsoft 365 tenant
 -- [script samples gallery](https://aka.ms/script-samples) - s*cripts
@@ -48,10 +41,6 @@ this call was [David Warner II](http://twitter.com/DavidWarnerII)
 the call.
 
 ## Actions
-
-
-
-
 
 -   Create a Teams Sample - [Microsoft Teams Samples Wish
     list](https://github.com/pnp/teams-dev-samples/issues) -- 10
@@ -116,6 +105,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 -   No new Script samples this week
 
 ## Demos
+
 Demos delivered in this session
 
 -   **SharePoint Approval Workflow Status Tracking with Column
@@ -147,7 +137,9 @@ Demos delivered in this session
     App.         
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
