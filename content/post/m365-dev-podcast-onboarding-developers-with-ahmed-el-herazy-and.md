@@ -4,7 +4,8 @@ date: 2021-12-13T07:02:00-05:00
 author: "Paul Schaeflein"
 githubname: pschaeflein
 categories: ["Microsoft 365 developer podcast"]
-images: []
+images:
+  - images/blog/m365-dev-podcast/m365podcast_artwork_copy.jpg
 tags: []
 type: "regular"
 ---

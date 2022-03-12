@@ -14,8 +14,6 @@ type: "regular"
 
 ## Call summary
 
- 
-
 This month's community call features updates on **Excel shortcut
 customization APIs** (introducing 3 new APIs to assist with keyboard
 shortcuts management) from Abid Rahman (Microsoft), an **SSO update for
