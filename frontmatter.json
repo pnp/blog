@@ -1,3 +1,61 @@
 {
-  "$schema": "https://frontmatter.codes/frontmatter.schema.json"
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.fmHighlight": false,
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "Blog posts",
+      "path": "[[workspace]]/content/posts"
+    },
+    {
+      "title": "adaptive-cards-community-call",
+      "path": "[[workspace]]/content/adaptive-cards-community-call",
+      "excludeSubdir": true
+    },
+    {
+      "title": "CLI for Microsoft 365",
+      "path": "[[workspace]]/content/cli-for-microsoft-365",
+      "excludeSubdir": true
+    },
+    {
+      "title": "Microsoft 365 Developer Podcast",
+      "path": "[[workspace]]/content/m365-dev-podcast",
+      "excludeSubdir": true
+    },
+    {
+      "title": "Microsoft 365 Developer Community Call Recording",
+      "path": "[[workspace]]/content/microsoft-365-developer-community-call",
+      "excludeSubdir": true
+    },
+    {
+      "title": "Microsoft 365 Platform Community Update",
+      "path": "[[workspace]]/content/microsoft-365-platform-community-update",
+      "excludeSubdir": true
+    },
+    {
+      "title": "Microsoft 365 PnP Weekly",
+      "path": "[[workspace]]/content/microsoft-365-pnp-weekly",
+      "excludeSubdir": true
+    },
+    {
+      "title": "Microsoft Viva and SPFx Community Call",
+      "path": "[[workspace]]/content/microsoft-viva-and-spfx-community-call",
+      "excludeSubdir": true
+    },
+    {
+      "title": "Power Platform Community Call",
+      "path": "[[workspace]]/content/power-platform-community-call",
+      "excludeSubdir": true
+    }
+  ],
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.supportedFileTypes": [
+    "md",
+    "markdown"
+  ],
+  "frontMatter.dashboard.mediaSnippet": [
+    "{{< image alt=\"{alt}\" src=\"{mediaUrl}\"  >}}"
+  ],
+  "frontMatter.framework.startCommand": "hugo server -D",
+  "frontMatter.preview.host": "http://localhost:1313/community-blog/",
+  "frontMatter.taxonomy.seoDescriptionField": "summary"
 }
