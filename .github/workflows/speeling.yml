@@ -18,3 +18,4 @@ jobs:
       with:
         source_files: content/**/*.md
         task_name: Markdown
+        config_path: .spellcheck.yml
