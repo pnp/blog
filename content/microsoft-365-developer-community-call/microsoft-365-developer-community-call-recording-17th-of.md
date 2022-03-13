@@ -110,11 +110,9 @@ Article:  [Getting started with PnP Script Samples](https://techcommunity.micro
 
 ## Together Mode!
 
-![thumbnail image 2 of blog post titled 
-Microsoft 365 Developer Community Call recording – 17th of February, 2022
-](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/349365iEEB38F081161CB31/image-size/large?v=v2&px=999)
+{{< image alt="thumbnail image 2 of blog post titled Microsoft 365 Developer Community Call recording – 17th of February, 2022" src="images/blog/microsoft-365-developer-community-call-recording-17th-of/220217-together-mode.gif" >}}
 
-Mid-February and all's well at the ampitheater.   Thank you for joining your community today.    
+Mid-February and all's well at the amphitheater.   Thank you for joining your community today.    
 
 ## Demos
 

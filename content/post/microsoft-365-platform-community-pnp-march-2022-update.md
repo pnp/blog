@@ -191,7 +191,7 @@ Please see the specifics on the supportability on the tool, SDK or  component re
 
 ## Microsoft 365 Platform Community team model
 
-![Microsoft 365 Platform Community team model](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/teammodel.png)
+{{< image alt="Microsoft 365 Platform Community team model" src="/images/blog/microsoft-365-platform-community-pnp-march-2022-update/teammodel.png" >}}
 
 In April 2020 we announced our new [Microsoft 365 PnP team model](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and grew the MVP team quite significantly. PnP model exists for having more efficient engagement between Microsoft engineering and community members. Let's build things together. Your contributions and feedback is always welcome! During August, we also crew the team with 5 new members. PnP Team coordinates and leads the different open-source and community efforts we execute in the Microsoft 365 platform.
 
@@ -230,7 +230,7 @@ Got feedback, suggestions or ideas? - Please let us know. Everything we do in th
 
 ## Microsoft 365 PnP Recognition Program
 
-![recognition program](/assets/images/blog/microsoft-365-platform-community-pnp-march-2022-update/recognitionprogram.png)
+{{< image alt="recognition program" src="images/blog/microsoft-365-platform-community-pnp-march-2022-update/recognitionprogram.png" >}}
 
 We are excited to announce new community contributor program for all the active community members. Through this program you can get officially acknowledged with the a [Credly badge](https://www.credly.com/org/m365pnp/badge/community-contributor-2021) around your work on our open-source and community channels. See more from
 

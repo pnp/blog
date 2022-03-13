@@ -186,9 +186,7 @@ Please see the specifics on the supportability on the tool, SDK or  component r
 
 ## Microsoft 365 Platform Community team model
 
-![thumbnail image 2 of blog post titled 
-Microsoft 365 Platform Community (PnP) – February 2022 update
-](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/345811i24B94F29879E4FEF/image-size/large?v=v2&px=999)
+{{< image alt="thumbnail image 2 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update " src="images/blog/microsoft-365-platform-community-pnp-february-2022-update/LuiseFreese_0-1644235140726.png" >}}
 
 In April 2020 we announced our new [Microsoft 365 PnP team model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and grew the MVP team quite significantly. PnP model exists for having more efficient engagement between Microsoft engineering and community members. Let's build things together. Your contributions and feedback is always welcome! During August, we also crew the team with 5 new members. PnP Team coordinates and leads the different open-source and community efforts we execute in the Microsoft 365 platform.
 
@@ -216,9 +214,7 @@ These are different areas which are closely involved on the community work acros
 
 ### Microsoft Graph Toolkit
 
-![thumbnail image 4 of blog post titled 
-Microsoft 365 Platform Community (PnP) – February 2022 update
-](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/346805i2444639B264D59F5/image-size/large?v=v2&px=999)
+{{< image alt="thumbnail image 4 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update " src="images/blog/microsoft-365-platform-community-pnp-february-2022-update/mgt.png" >}}
 
 Microsoft Graph Toolkit is engineering lead initiative, which works closely with the community on the open-source areas. The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic web components and helpers for accessing and working with Microsoft Graph. The components are fully functional right of out of the box, with built in providers that authenticate with and fetch data from Microsoft Graph.
 
@@ -231,9 +227,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented in our 
 
 ### Microsoft 365 Community docs
 
-![thumbnail image 5 of blog post titled 
-Microsoft 365 Platform Community (PnP) – February 2022 update
-](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/345815iBCB189C0889F01B5/image-size/large?v=v2&px=999)
+{{< image alt="thumbnail image 5 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update " src="images/blog/microsoft-365-platform-community-pnp-february-2022-update/LuiseFreese_0-1644236472369.png" >}}
 
 Community docs model was announced in the April 2020 and it's great to see the interest for community to help each other by providing new guidance on the non-dev areas. See more on the announcement from the SharePoint blog - [Announcing the Microsoft 365 Community Docs](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/announcing-the-microsoft-365-community-docs/ba-p/1288203). We do welcome contributions from the community - our objective is to build a valuable location for articles from Microsoft and community together.
 
@@ -271,9 +265,7 @@ How to find what's relevant for you? Take advantage of our SharePoint Framework 
 
 ### Microsoft Teams community samples
 
-![thumbnail image 7 of blog post titled 
-Microsoft 365 Platform Community (PnP) – February 2022 update
-](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/345853i5BDB14C0961D9670/image-size/large?v=v2&px=999)
+{{< image alt="thumbnail image 7 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update " src="images/blog/microsoft-365-platform-community-pnp-february-2022-update/LuiseFreese_1-1644245510781.jpeg" >}}
 
 These are samples which have been contributed on the community samples since last summary. We do welcome all Microsoft Teams samples to this gallery. They can be implemented using in any technology.
 
@@ -295,9 +287,7 @@ If you have any existing samples which you'd be willing to share with others - p
 
 ### Microsoft 365 Script Samples
 
-![thumbnail image 9 of blog post titled 
-Microsoft 365 Platform Community (PnP) – February 2022 update
-](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/346173i9D3E924D17380FE3/image-size/large?v=v2&px=999)
+{{< image alt="thumbnail image 9 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update " src="images/blog/microsoft-365-platform-community-pnp-february-2022-update/LuiseFreese_0-1644314425708.png" >}}
 
   
 We have released new Microsoft 365 Script Sample gallery within past month. We welcome all scripts on Microsoft 365 automation to this centralized repository, targeted to help to manage and automate day-to-day operations.
@@ -322,9 +312,7 @@ If you have any existing scripts which you'd be willing to share with others - p
 
 ## Independent Connectors Program
 
-![thumbnail image 10 of blog post titled 
-Microsoft 365 Platform Community (PnP) – February 2022 update
-](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/346175i71DE145102454430/image-size/large?v=v2&px=999)
+{{< image alt="thumbnail image 10 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update " src="images/blog/microsoft-365-platform-community-pnp-february-2022-update/LuiseFreese_1-1644315226029.png" >}}
 
 Microsoft Power Platform comes with a huge variety of already built-in connectors and also provides you with the ability of creating your own custom connectors. As of July 2021, anyone can submit the connectors they built to Microsoft Power Platform so that they can be used by others as well. Previously, only API owners could publish their connectors. The Independent Publisher Connector Program's mission is to bring the best together: the best people, connecting great ideas to data, apps, and flows. We want to make it easier for connector developers to collaborate on connectors.
 
@@ -358,9 +346,7 @@ These are the latest connectors: 
 
 ### Sharing is Caring initiative
 
-![thumbnail image 11 of blog post titled 
-Microsoft 365 Platform Community (PnP) – February 2022 update
-](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/346174iE598F4CC6E5739CB/image-size/large?v=v2&px=999)
+{{< image alt="thumbnail image 11 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update " src="images/blog/microsoft-365-platform-community-pnp-february-2022-update/LuiseFreese_2-1644315226009.png" >}}
 
 The "Sharing Is Caring" imitative is targeted for learning the basics around making changes in Microsoft Docs, in GitHub, submitting pull requests to the PnP repositories and in GitHub in general. Take advantage of this instructor lead training for learning how to contribute to docs or to open-source solutions. Everyone is welcome to learn how to get started on contributing to open-source docs or code!
 

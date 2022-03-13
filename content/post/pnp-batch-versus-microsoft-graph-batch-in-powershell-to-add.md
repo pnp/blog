@@ -280,7 +280,7 @@ write-host "Total script run time: $($totalTime.Hours) hours, $($totalTime.Minut
 I have run the scripts using Microsoft Graph batch and PnP Batch 3 times
 to add and delete 3k items and below are the results.
 
-![table](/content/media/pnp-batch-versus-Microsoft-Graph-batch-in-PowerShell-to-add-delete-3k-items/table.png)
+{{< image alt="table" src="images/blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/table.png" >}}
 
 Microsoft Graph batch is faster to add and delete than PnP batch for 3k
 items.

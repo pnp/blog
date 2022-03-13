@@ -8,118 +8,116 @@ images:
 - images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker01.png
 tags: []
 type: "regular"
+summary: "In this blog post, I will show how to send email reminders for Microsoft Lists items based on a date column using Power Automate. "
 ---
 
-In this blog post, I will show how to send email reminders for Microsoft
-Lists items based on a date column using Power Automate. I am using the
-Microsoft Lists **Issue Tracker** template for this blog. 
-Automated email reminders give users time and opportunity to intervene
-in the business process prior to expiration or end dates. In this demo,
-we will base our Power Automate Flow on the "Due Date" column and will
-send reminders 30 days in advance of the date.
+In this blog post, I will show how to send email reminders for Microsoft Lists items based on a date column using Power Automate. I am using the Microsoft Lists **Issue Tracker** template for this blog.  Automated email reminders give users time and opportunity to intervene in the business process prior to expiration or end dates. In this demo, we will base our Power Automate Flow on the "Due Date" column and will send reminders 30 days in advance of the date.
 
 ## Issue Tracker setup 
 
-You can get started with the **Issue Tracker** by navigating to
-Microsoft Lists, select "New list" and then select "Issue tracker".
+You can get started with the **Issue Tracker** by navigating to Microsoft Lists, select **New list** and then select **Issue tracker**.
 
-{{< image alt="issuetracker01" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker01.png" >}}
+{{< image alt="The issue tracker template" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker01.png" >}}
 
-Review the sample and select "Use template".
+Review the sample and select **Use template**.
 
-{{< image alt="issuetracker02" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker02.png" >}}
+{{< image alt="The template preview with use template button on the lower right corner" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker02.png" >}}
 
-Provide a name, color, icon and storage location (OneDrive aka "My
-lists" or SharePoint) and then select "Create". I am using "My
-lists" in this example.
+Provide a **Name**, **Color**, **Icon** and storage location (i.e. **Save to**) (OneDrive aka **My lists** or **SharePoint**) and then select **Create**. I am using **My lists** in this example.
 
-{{< image alt="issuetracker03" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker03.png" >}}
+{{< image alt="The new list creation dialog" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/issuetracker03.png" >}}
 
 
-We will add a *Due Date* column to connect our reminders to. From
-**Issue Tracker** to the right of the *Date reported* column select **+
-Add column** or **+** and select "Date and Time". 
+We will add a `Due Date` column to connect our reminders to. From **Issue Tracker** to the right of the `Date reported` column select **+ Add column** or **+** and select **Date and Time** from the dropdown list of column types. 
 
-{{< image alt="stormin_30_4-1613402858860.png" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_4-1613402858860.png" >}}
-Set Name to *Due Date* and select "Save".
+{{< image alt="Dropdown list of column types" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_4-1613402858860.png" >}}
 
-{{< image alt="stormin_30_5-1613403503451.png" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_5-1613403503451.png" >}}
+Set **Name** to `Due Date` and select **Save**.
+
+{{< image alt="The create a column dialog" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/stormin_30_5-1613403503451.png" >}}
 
 ## Flow build 
 
-Create a new Flow by clicking "Automate" \> "Power Automate" \>
-"See your flows".
+Create a new Flow by selecting **Automate** \> **Power Automate** \> **See your flows**.
 
-{{< image alt="image-23" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-23.png" >}}
+{{< image alt="The automate menu" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-23.png" >}}
 
-Select "New" \> "Scheduled-from blank".
+Select **New** \> **Scheduled--from blank**.
 
-{{< image alt="image-24" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-24.png" >}}
-Provide a Flow name, I.e. *Issue Tracker -- Daily*, set "Starting" to
-"10:00 AM", "Repeat every" to "1", "Day" and select "Create".
+{{< image alt="New -- scheduled from blank dialog" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-24.png" >}}
 
-{{< image alt="image-25" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-25.png" >}}
-**Tip:** Use the advanced options to set your target time zone.
+Provide a **Flow name**, I.e. `Issue Tracker -- Daily`, set **Starting** to `10:00 AM`, **Repeat every** to `1`, **Day** and select **Create**.
 
-{{< image alt="image-26" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-26.png" >}}
+{{< image alt="Build a scheduled flow dialog" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-25.png" >}}
 
-Select "New step", search for "Variable" and select the "Initialize
-variable" action. 
+{{< notice tip>}}
+Use the advanced options to set your target time zone.
+{{< /notice >}}
 
-Set the "Name" to *varNumDays*; "Type" to "Integer" and "Value"
-to "30".
 
-![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-27.png)
-Select "New step", search for "Variable" and select the "Initialize
-variable" action.  
+{{< image alt="The recurrence step" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-26.png" >}}
 
-Set the "Name" to *varReminderDate*; "Type" to "String" and
-"Value" to the following expression:
+Select **New step**, search for **Variable** and select the **Initialize variable** action. 
 
-    addDays(utcNow(), variables('varNumDays'), 'yyyy-MM-dd')
+Set the **Name** to `varNumDays`; **Type** to **Integer** and **Value** to `30`.
 
-**Note:** Select "Add dynamic content" \> "Expression" to access the
-expression editor.
+{{< image alt="Initialize variable step" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-27.png" >}}
 
-![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-28.png)
-Select "New step", search for "SharePoint" and select the "Get
-items" action. **Note:** Microsoft Lists is really SharePoint, so that
-is why we are using the Power Automate SharePoint actions. 
-Set the "Site Address" and "List Name" to your **Issue
-Tracker** site and list. 
-Use the "Advanced options" to set "Filter query" to the following ODATA
-filter query:
+Select **New step**, search for **Variable** and select the **Initialize variable** action.  
 
-    DueDate eq '@{variables('varReminderDate')}'
+Set the **Name** to `varReminderDate`; **Type** to **String** and **Value** to the following expression:
 
-Where \"@{variables('varReminderDate')}\" is the *varReminderDate*
-variable. 
+```powerappsfl
+addDays(utcNow(), variables('varNumDays'), 'yyyy-MM-dd')
+```
 
-**Note:** pay attention to the single quotes used in the ODATA filter
-query.
+{{< notice note>}}
+Select **Add dynamic content** \> **Expression** to access the expression editor.
+{{< /notice >}}
 
-![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-30.png)
-Select "New step", search for "Office 365 Outlook" and select the
-"Send an email (V2)" action.
-Set "To" to *Person or group the issue is assigned to Email* (from the
-SharePoint Get items action). Power Automate will put this into a
-"Apply to each" loop so it can send multiple emails based on the
-previous "Get items" action.
-Set "Subject" and "Body" to something similar to the image below.
+{{< image alt="Initialize variable step" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-28.png" >}}
 
-![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-31.png)
+Select **New step**, search for **SharePoint** and select the **Get items** action. 
+
+{{< notice note>}}
+Microsoft Lists is really SharePoint, so that is why we are using the Power Automate SharePoint actions. 
+{{< /notice >}}
+
+Set the **Site Address** and **List Name** to your **Issue Tracker** site and list.  Use the **Advanced options** to set **Filter query** to the following ODATA filter query:
+
+```powerappsfl
+DueDate eq '@{variables('varReminderDate')}'
+```
+
+Where `@{variables('varReminderDate')}` is the `varReminderDate` variable. 
+
+{{< notice note>}}
+Pay attention to the single quotes used in the ODATA filter query.
+{{< /notice >}}
+
+{{< image alt="Get items step" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-30.png" >}}
+
+Select **New step**, search for **Office 365 Outlook** and select the **Send an email (V2)** action.
+
+Set **To** to **Person or group the issue is assigned to Email** (from the **SharePoint Get items** action). Power Automate will put this into a **Apply to each** loop so it can send multiple emails based on the previous **Get items** action.
+
+Set **Subject** and **Body** to something similar to the image below.
+
+{{< image alt="Reminder: title due in varNumDays" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-31.png" >}}
+
 My completed Flow looks like the image below.
 
-![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-33.png)
-Save and test the Flow. If you have items due in 30 days the owner will
-receive a reminder email.
+{{< image alt="The completed flow" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-33.png" >}}
 
-![flow](https://normanyoungblog.files.wordpress.com/2020/09/image-32.png)
-This Flow is relatively simplistic in design and function but
-illustrates how value can be added to existing business processes by
-automating tasks and giving users an opportunity to act prior to a due
-date.
+Save and test the Flow. If you have items due in 30 days the owner will receive a reminder email.
+
+{{< image alt="Sample reminder email" src="images/blog/send-email-reminders-from-microsoft-lists-using-power-automate/image-32.png" >}}
+
+
+This Flow is relatively simplistic in design and function but illustrates how value can be added to existing business processes by automating tasks and giving users an opportunity to act prior to a due date.
+
 Thanks for reading.
+
 NY
-*Adapted
-from *[normyoung.ca](https://normyoung.ca/2020/09/18/send-email-reminders-from-microsoft-lists-using-power-automate/) 
+
+Adapted from **[normyoung.ca](https://normyoung.ca/2020/09/18/send-email-reminders-from-microsoft-lists-using-power-automate/)**

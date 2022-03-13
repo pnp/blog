@@ -266,9 +266,7 @@ Repeat the steps 6-12 for the other endpoints that you created (i.e. `/news/bbc
 
 You can even create a dropdown menu that holds the different sources so that users can change what they want to consume.
 
-![thumbnail image 4 of blog post titled 
-How to create a custom connector for your own Azure hosted API
-](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/351571iB705FA3174185FAC/image-size/large?v=v2&px=999)
+{{< image alt="thumbnail image 4 of blog post titled How to create a custom connector for your own Azure hosted API " src="images/blog/how-to-create-a-custom-connector-for-your-own-azure-hosted-api/canvasappUkraine.png" >}}
 
 ## Conclusion
 

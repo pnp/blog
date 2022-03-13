@@ -28,7 +28,7 @@
             "short-image",
             "image"
         ],
-        "body": "{{< image alt=\"${1:alt}\" src=\"images/blog/${TM_FILENAME_BASE}/${3:image-filename}\" >}}"
+        "body": "{{< image alt=\"${1:alt}\" src=\"images/blog/${TM_FILENAME_BASE}/${3:image-filename}${4|.png,.gif,.jpg|}\" >}}"
     },
     "Shortcode -> Insert YouTube": {
         "scope": "markdown",
@@ -56,7 +56,7 @@
             "notice"
         ],
         "body": [
-            "{{< notice ${1:notice-type}>}}",
+            "{{< notice ${1|note,tip,important,caution,warning|}>}}",
             "$0",
             "{{< /notice >}}"
         ]
