@@ -100,6 +100,7 @@ Thank you for joining for today's PnP Community call.   The auditorium
 was packed.   
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Remote Event Receiver Manager solution in SPFx for managing list
@@ -132,7 +133,9 @@ Demos delivered in this session
      
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert

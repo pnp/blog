@@ -85,6 +85,7 @@ Great to see all the faces in the community.  Hopefully soon we will get
 to see each other in person.   
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Inspire, inform and prepare employees transition to the new hybrid
@@ -116,7 +117,9 @@ Demos delivered in this session
      
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Paolo

@@ -133,12 +133,14 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 -- Thank you
 
 ## Together Mode!
+
 {{< image alt="211014-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-14th-of-october/211014-together-mode.gif" >}}
 
 Awesome to have you as part of this Community, please keep the feedback
 coming, see you again soon.      
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Introduction to the new PnP Transformation Framework --** next
@@ -170,7 +172,9 @@ Demos delivered in this session
 
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert

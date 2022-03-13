@@ -141,7 +141,9 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
         [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
 
 -- Fabulous!
+
 ## Together Mode!
+
 {{< image alt="211111-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-11th-of/211111-together-mode.gif" >}}
 Great seeing everyone today. Perhaps we will meet in person soon at the
 [European Collaboration and Cloud Summit](https://collabsummit.eu/) in
@@ -150,6 +152,7 @@ Conference](https://sharepointna.com/#!/) in Las Vegas, Nevada, US. 
 Events are filling up, register soon.       
 
 ## Demos
+
 Demos delivered in this session
 
 -   **ProvisionGenie - a Teams provisioning engine on Power Apps and
@@ -186,7 +189,9 @@ Demos delivered in this session
 
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates -[Paolo
