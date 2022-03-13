@@ -30,12 +30,12 @@ jobs:
         name: Markdownlint
         continue-on-error: true
         with:
-          files: content/post/**/*.md
+          files: content/**/*.md
           config_file: ".markdownlint.json"
       - name: Run link check
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
-          folder-path: content/post
+          folder-path: content
           use-quiet-mode: 'yes'
           use-verbose-mode: 'no'
           check-modified-files-only: 'yes'

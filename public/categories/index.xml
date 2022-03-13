@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Microsoft 365 Community Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Mar 2022 09:54:29 +0000</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Mar 2022 05:56:00 -0500</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Viva and SPFx community call recordings</title>
+      <link>https://pnp.github.io/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings/</link>
+      <pubDate>Fri, 11 Mar 2022 05:56:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PnP Weekly</title>
+      <link>https://pnp.github.io/community-blog/categories/pnp-weekly/</link>
+      <pubDate>Tue, 08 Mar 2022 07:24:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/categories/pnp-weekly/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Microsoft 365 developer podcast</title>
       <link>https://pnp.github.io/community-blog/categories/microsoft-365-developer-podcast/</link>
@@ -17,74 +35,74 @@
     </item>
     
     <item>
-      <title>Adaptive Cards community call recordings</title>
-      <link>https://pnp.github.io/community-blog/categories/adaptive-cards-community-call-recordings/</link>
-      <pubDate>Mon, 31 Jan 2022 05:23:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/categories/adaptive-cards-community-call-recordings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft Viva and SPFx community call recordings</title>
-      <link>https://pnp.github.io/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings/</link>
-      <pubDate>Fri, 28 Jan 2022 02:07:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/categories/microsoft-viva-and-spfx-community-call-recordings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Microsoft 365 platform call recordings</title>
       <link>https://pnp.github.io/community-blog/categories/microsoft-365-platform-call-recordings/</link>
-      <pubDate>Tue, 25 Jan 2022 09:09:00 -0400</pubDate>
+      <pubDate>Tue, 08 Mar 2022 03:11:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/categories/microsoft-365-platform-call-recordings/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>PnP Weekly</title>
-      <link>https://pnp.github.io/community-blog/categories/pnp-weekly/</link>
-      <pubDate>Tue, 25 Jan 2022 03:21:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/categories/pnp-weekly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft Identity platform community call recordings</title>
-      <link>https://pnp.github.io/community-blog/categories/microsoft-identity-platform-community-call-recordings/</link>
-      <pubDate>Mon, 24 Jan 2022 05:15:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/categories/microsoft-identity-platform-community-call-recordings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Microsoft 365 Developer Community Call Recordings</title>
       <link>https://pnp.github.io/community-blog/categories/microsoft-365-developer-community-call-recordings/</link>
-      <pubDate>Fri, 21 Jan 2022 01:14:00 -0500</pubDate>
+      <pubDate>Thu, 03 Mar 2022 12:33:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/categories/microsoft-365-developer-community-call-recordings/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>CLI for Microsoft 365</title>
+      <link>https://pnp.github.io/community-blog/categories/cli-for-microsoft-365/</link>
+      <pubDate>Mon, 28 Feb 2022 12:45:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/categories/cli-for-microsoft-365/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Power Apps Community Call recordings</title>
       <link>https://pnp.github.io/community-blog/categories/power-apps-community-call-recordings/</link>
-      <pubDate>Wed, 19 Jan 2022 12:10:00 -0400</pubDate>
+      <pubDate>Tue, 22 Feb 2022 12:08:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/categories/power-apps-community-call-recordings/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Microsoft Identity platform community call recordings</title>
+      <link>https://pnp.github.io/community-blog/categories/microsoft-identity-platform-community-call-recordings/</link>
+      <pubDate>Fri, 18 Feb 2022 05:11:59 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/categories/microsoft-identity-platform-community-call-recordings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Cards community call recordings</title>
+      <link>https://pnp.github.io/community-blog/categories/adaptive-cards-community-call-recordings/</link>
+      <pubDate>Thu, 17 Feb 2022 04:40:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/categories/adaptive-cards-community-call-recordings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Office Add-in developer community call recordings</title>
       <link>https://pnp.github.io/community-blog/categories/office-add-in-developer-community-call-recordings/</link>
-      <pubDate>Tue, 18 Jan 2022 10:19:00 -0500</pubDate>
+      <pubDate>Tue, 15 Feb 2022 02:44:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/categories/office-add-in-developer-community-call-recordings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 Platform Community Update</title>
+      <link>https://pnp.github.io/community-blog/categories/microsoft-365-platform-community-update/</link>
+      <pubDate>Wed, 09 Feb 2022 08:46:36 +0000</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/categories/microsoft-365-platform-community-update/</guid>
       <description></description>
     </item>
     
@@ -116,15 +134,6 @@
     </item>
     
     <item>
-      <title>Microsoft 365 platform community update</title>
-      <link>https://pnp.github.io/community-blog/categories/microsoft-365-platform-community-update/</link>
-      <pubDate>Mon, 17 Jan 2022 09:24:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/categories/microsoft-365-platform-community-update/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Power Automate</title>
       <link>https://pnp.github.io/community-blog/categories/power-automate/</link>
       <pubDate>Sat, 15 Jan 2022 08:33:00 -0500</pubDate>
@@ -134,11 +143,11 @@
     </item>
     
     <item>
-      <title>CLI for Microsoft 365</title>
-      <link>https://pnp.github.io/community-blog/categories/cli-for-microsoft-365/</link>
-      <pubDate>Tue, 11 Jan 2022 15:40:24 +0600</pubDate>
+      <title>Power Apps</title>
+      <link>https://pnp.github.io/community-blog/categories/power-apps/</link>
+      <pubDate>Wed, 12 Jan 2022 06:00:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/categories/cli-for-microsoft-365/</guid>
+      <guid>https://pnp.github.io/community-blog/categories/power-apps/</guid>
       <description></description>
     </item>
     
@@ -184,15 +193,6 @@
       <pubDate>Thu, 11 Nov 2021 05:38:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/categories/microsoft-365-platform-community/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Apps</title>
-      <link>https://pnp.github.io/community-blog/categories/power-apps/</link>
-      <pubDate>Thu, 11 Nov 2021 05:27:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/categories/power-apps/</guid>
       <description></description>
     </item>
     

@@ -55,6 +55,23 @@
             "short-notice",
             "notice"
         ],
-        "body": ["{{< notice ${1:notice-type}>}}", "$0", "{{< /notice >}}"]
+        "body": [
+            "{{< notice ${1:notice-type}>}}",
+            "$0",
+            "{{< /notice >}}"
+        ]
+    },
+    "Shortcode -> Insert Mermaid diagram": {
+        "scope": "markdown",
+        "description": "mermaid shortcode",
+        "prefix": [
+            "short-mermaid",
+            "mermaid"
+        ],
+        "body": [
+            "{{< mermaid >}}",
+                "$0",
+            "{{< /mermaid >}}"
+        ]
     }
 }

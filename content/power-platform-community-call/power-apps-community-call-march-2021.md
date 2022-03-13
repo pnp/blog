@@ -12,18 +12,8 @@ type: "regular"
 
 ## Call summary
 
+Topics covered in this month's community include Creating Responsive Dataverse for Teams Power Apps (*Use responsive containers for gallery and underlying form screen connected to a Dataverse table)*, Tagging documents with AI Builder (*Power Automate flow calls Computer Vision Read API to scan for keywords to tag documents)*, Getting started with Power Apps ALM (*ALM Accelerators automate packaging of Power Apps projects for transfer)* and Recent Power Apps News and Community Contributions.  This session included Q&A in chat.  The call was hosted by Todd Baginski (Canviz).  Demo presenters include Reza Dorrani (Catapult), Uday Adhikari, Phil Topness and Mike Ochs.  Recorded on March 17, 2021.  Thank for attending the call or viewing it on demand. 
 
-Topics covered in this month's community include Creating Responsive
-Dataverse for Teams Power Apps (*Use responsive containers for gallery
-and underlying form screen connected to a Dataverse table)*, Tagging
-documents with AI Builder (*Power Automate flow calls Computer Vision
-Read API to scan for keywords to tag documents)*, Getting started with
-Power Apps ALM (*ALM Accelerators automate packaging of Power Apps
-projects for transfer)* and Recent Power Apps News and Community
-Contributions.  This session included Q&A in chat.  The call was hosted
-by Todd Baginski (Canviz).  Demo presenters include Reza Dorrani
-(Catapult), Uday Adhikari, Phil Topness and Mike Ochs.  Recorded on
-March 17, 2021.  Thank for attending the call or viewing it on demand. 
 
 
 ## Demos

@@ -6,49 +6,346 @@
     <description>Recent content on Microsoft 365 Community Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Mar 2022 09:54:29 +0000</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Mar 2022 05:56:00 -0500</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viva Connections &amp; SharePoint Framework Community Call – 10th of March, 2022</title>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-10th-of/</link>
+      <pubDate>Fri, 11 Mar 2022 05:56:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-10th-of/</guid>
+      <description>Latest news from Microsoft engineering on Microsoft 365 topics; Three demos: Siddharth Vaghasia &amp;ndash; My Emails Viva Connections Adaptive Card Extension, Yves Habersaat &amp;ndash; Getting started with Microsoft Graph Toolkit and SharePoint Framework, Paolo Pialorsi &amp;ndash; Using Microsoft Graph APIs in Viva Connection ACEs</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 PnP Weekly - Episode 156 - João Ferreira</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-156-jo%C3%A3o-ferreira/</link>
+      <pubDate>Tue, 08 Mar 2022 07:24:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-156-jo%C3%A3o-ferreira/</guid>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Portugal based, technologist, author, MVP Office Dev and Windows Insider, João Ferreira (Beezy).</description>
+    </item>
+    
     <item>
       <title>M365 Dev Podcast - Universal Actions and Adaptive Card Updates with Fabian Williams</title>
-      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-universal-actions-and-adaptive-card-updates-with-fabian-williams/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-universal-actions-and-adaptive-card-updates-with-fabian-williams/</link>
       <pubDate>Tue, 08 Mar 2022 09:54:29 +0000</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-universal-actions-and-adaptive-card-updates-with-fabian-williams/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-universal-actions-and-adaptive-card-updates-with-fabian-williams/</guid>
       <description>Fabian Williams joins Jeremy and Paul to talk about Universal Actions and updates to Adaptive Cards.</description>
     </item>
     
     <item>
+      <title>Microsoft 365 Platform Call – 8th of March, 2022</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-8th-of-march-2022/</link>
+      <pubDate>Tue, 08 Mar 2022 03:11:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-8th-of-march-2022/</guid>
+      <description>Microsoft 365 Platform Community Call - weekly community call recording from March 8th, is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 Developer Community Call recording – 3rd of March, 2022</title>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-3rd-of-march/</link>
+      <pubDate>Thu, 03 Mar 2022 12:33:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-3rd-of-march/</guid>
+      <description>One location the Microsoft 365 tenant – script samples gallery (140 scenarios and 198 scripts) now integrated into Sample Solution Gallery!  Sign up and attend an AMA and other events this month hosted by Sharing is Caring.  Power Platform Samples – First Time Contributor – Tuesday, March 8th, 2:00pm PT and AMA (Ask Me Anything) – PnPjs – Tuesday, March 15th, 9am PST.  Get the recognition you deserve, sign up for the PnP Recognition Program.  Join the Microsoft 365 platform call on 8th of March, @ 8 AM PT.  Recently refreshed the MGT playground!   To see current releases and latest updates/nightly builds, access the Repos via the links in table below.  There were 6 new/updated script, 3 Teams and 1Power Platform samples delivered this week.</description>
+    </item>
+    
+    <item>
+      <title>Assigning a built-in role to the group at resource group scope level using PowerShell scripts</title>
+      <link>https://pnp.github.io/community-blog/post/assigning-a-built-in-role-to-the-group-at-resource-group-scope/</link>
+      <pubDate>Thu, 03 Mar 2022 01:57:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/assigning-a-built-in-role-to-the-group-at-resource-group-scope/</guid>
+      <description>This article is focused on the following 4 sections: Creating new resource group, Fetching User Object Id, Creating an azure AD group with the user using user’s object Id, Assigning a built in ‘Reader’ role to the group at resource group scope level</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 Platform Call – 1st of March, 2022</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-1st-of-march-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 06:23:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-1st-of-march-2022/</guid>
+      <description>Microsoft 365 Platform Community Call - weekly community call recording from March 1st, is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 PnP Weekly - Episode 155 - Ayça Baş</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/</link>
+      <pubDate>Tue, 01 Mar 2022 01:21:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/</guid>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Dubai based, Senior Cloud Advocate, Ayça Baş (Microsoft)</description>
+    </item>
+    
+    <item>
+      <title>CLI for Microsoft 365 v5.0</title>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-0/</link>
+      <pubDate>Mon, 28 Feb 2022 12:45:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-0/</guid>
+      <description>We&amp;rsquo;ve just published a new major version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 and SharePoint Framework projects on any platform.</description>
+    </item>
+    
+    <item>
+      <title>How to create a custom connector for your own Azure hosted API</title>
+      <link>https://pnp.github.io/community-blog/post/how-to-create-a-custom-connector-for-your-own-azure-hosted-api/</link>
+      <pubDate>Sun, 27 Feb 2022 02:07:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/how-to-create-a-custom-connector-for-your-own-azure-hosted-api/</guid>
+      <description>In this blog post I am going to cover: How to create an API with JavaScript, How to deploy this to Azure, How to wrap the API into a custom connector, How to use the connector in Power Apps</description>
+    </item>
+    
+    <item>
+      <title>Viva Connections &amp; SharePoint Framework Community Call – 24th of February, 2022</title>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-24th-of/</link>
+      <pubDate>Fri, 25 Feb 2022 05:44:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-24th-of/</guid>
+      <description>Viva Connections &amp;amp; SharePoint Framework bi-weekly community call recording from February 24th is now available from the Microsoft 365 Community YouTube channel at &lt;a href=&#34;http://aka.ms/m365pnp/videos&#34;&gt;http://aka.ms/m365pnp/videos&lt;/a&gt;. You can use SharePoint Framework for building solutions for Microsoft Teams and for SharePoint Online</description>
+    </item>
+    
+    <item>
+      <title>Power Apps Community Call – February 2022</title>
+      <link>https://pnp.github.io/community-blog/post/power-apps-community-call-february-2022/</link>
+      <pubDate>Tue, 22 Feb 2022 12:08:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/power-apps-community-call-february-2022/</guid>
+      <description>Topics covered in this month’s community call includes 2 demos:  Make your wishes come true with Power Apps (Good Deeds App - 3 Lists, 3 E-mail addresses and 2 Flows) - Pranav Khurana and Spice up your Power Apps with SVGs (options - ranging from static to interactive - for adding SVG graphics with little code to your Power Apps) - Robin Rosengrün  (EnBW).  Recent Power Apps News and Community Contributions (Power Apps and Power Apps Portals code releases and new Dataverse auditing features) – Todd Baginski (Canviz).   ACTION:  Please vote on What to call this call?   This call was hosted by Todd Baginski (Canviz). The call was recorded on February 16, 2022.  Questions addressed in chat throughout the call.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 Platform Call – 22nd of February, 2022</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-22nd-of-february-2022/</link>
+      <pubDate>Tue, 22 Feb 2022 06:16:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-22nd-of-february-2022/</guid>
+      <description>Microsoft 365 Platform Community Call - weekly community call recording from February 22nd, is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 PnP Weekly - Episode 154 - Vardhaman Deshpande</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/</link>
+      <pubDate>Mon, 21 Feb 2022 02:17:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/</guid>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by London/India - based Developer, Product Owner, Technical Architect, MVP, Vardhaman Deshpande (Valo Solutions).</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Identity Platform community call – February 2022</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-february-2022/</link>
+      <pubDate>Fri, 18 Feb 2022 05:11:59 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-identity-platform-community-call-february-2022/</guid>
+      <description>This month’s in-depth topic:  Access Azure resources from software workload in different environments, no secrets necessary.  When applications or services run in environments outside Azure, they need Azure AD application secrets to authenticate to Azure AD and access resources such as Azure and Microsoft Graph. These secrets pose a security risk if they are not stored securely and rotated regularly. Azure AD workload identity federation removes the need for these secrets in selected scenarios. Join this session to learn how you can use this capability to get rid of secrets in your scenario.  Session opens - What are “workload identities” in Azure AD and what is Azure AD workload identity federation?   Then presenter will step through 4 scenarios for accessing Azure resources without secrets and conclude with next steps in this topic area.    This session was delivered by Uday Hegde – Architect, Microsoft Identity | @udayxhegde.  Recorded February 17, 2022. Q&amp;amp;A in chat and at end of session.</description>
+    </item>
+    
+    <item>
+      <title>Create Dataverse Expense Details Table and build a simple Power Apps app using that table</title>
+      <link>https://pnp.github.io/community-blog/post/create-dataverse-expense-details-table-and-build-simple-powerapp/</link>
+      <pubDate>Fri, 18 Feb 2022 04:21:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/create-dataverse-expense-details-table-and-build-simple-powerapp/</guid>
+      <description>This article is divided into 2 sections 1; Creating Dataverse Table with Choice, Date, Lookup type columns and 2nd; Creating a simple Power Apps app using that Dataverse table</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 Developer Community Call recording – 17th of February, 2022</title>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-17th-of/</link>
+      <pubDate>Fri, 18 Feb 2022 02:55:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-17th-of/</guid>
+      <description>One location the Microsoft 365 tenant – script samples gallery (138 scenarios and 193 scripts) now integrated into Sample Solution Gallery!  Sign up and attend an AMA and other events this month hosted by Sharing is Caring.  Added today - Ask me anything (PnPjs 3.0 – March 15th) and don’t forget the AMA on February 22 – PnP React Controls.  Get the recognition you deserve, sign up for the PnP Recognition Program.  Released Yo teams - yoteams-build-core v1.6.0 and Microsoft Graph Toolkit (MGT) v2.3.2, and Refreshed the MGT playground!   To see current releases and latest updates/nightly builds, access the Repos via the links in table below.  There were 6 new/updated script, 46 Bot samples, 2 Power Platform samples delivered this week.   Wanted! – Teams Samples.</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Cards community call – February 2022</title>
+      <link>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-february-2022/</link>
+      <pubDate>Thu, 17 Feb 2022 04:40:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-february-2022/</guid>
+      <description>The following topics are covered in this month’s community call.  Demo:  Adaptive Cards Video Player Bot on Teams (set up an Adaptive Card that plays video content within Teams environment, complete sample code) - Alexis Kinzelin (Microsoft), and Q&amp;amp;A – J.P. Roca (Microsoft) and Alexis Kinzelin (Microsoft) field general and demo related questions.   This call was hosted by J.P. Roca (Microsoft) | @jpthepm.  Recorded on February 10, 2022.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 Platform Call – 15th of February, 2022</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-15th-of-february-2022/</link>
+      <pubDate>Wed, 16 Feb 2022 12:48:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-15th-of-february-2022/</guid>
+      <description>Microsoft 365 Platform Community Call - weekly community call recording from February 15th, is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 PnP Weekly - Episode 153 - Sudha Narayanan</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-153-sudha-narayanan/</link>
+      <pubDate>Tue, 15 Feb 2022 12:18:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-153-sudha-narayanan/</guid>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by Redmond, Washington, US-based Senior Program Manager in the OneDrive and SharePoint organization responsible of the Power Platform integration, Sudha Narayanan (Microsoft).</description>
+    </item>
+    
+    <item>
+      <title>Office Add-ins community call – February 9, 2022</title>
+      <link>https://pnp.github.io/community-blog/post/office-add-ins-community-call-february-9-2022/</link>
+      <pubDate>Tue, 15 Feb 2022 02:44:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/office-add-ins-community-call-february-9-2022/</guid>
+      <description>Call summary This month&amp;rsquo;s community call features updates on Excel data type APIs (Review card view anatomy, data types, composable building blocks, New Values API and Data Types in Custom Functions) – Chris Gross, Senior Program Manager (Microsoft), Word Online API updates (Demo of In Preview capabilities – Comment and Track changes, Coming soon – Fields) – Phoebe Yuan, Program Manager (Microsoft) and Outlook add-ins and Outlook REST V2 decommission (move to Graph or EWS before Nov 2022, APIs impacted, exceptions called out) – Juan Balmori, Principal Program Manager (Microsoft).</description>
+    </item>
+    
+    <item>
+      <title>Comparing two arrays without an apply to each?</title>
+      <link>https://pnp.github.io/community-blog/post/comparing-two-arrays-without-an-apply-to-each/</link>
+      <pubDate>Mon, 14 Feb 2022 04:56:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/comparing-two-arrays-without-an-apply-to-each/</guid>
+      <description>I have two arrays in Power Automate, whilst very similar in structure (key/value pairs) the unique ID for both arrays is named differently (id vs PersonId) but I want to compare both and return only those that do not appear in the Array 1.</description>
+    </item>
+    
+    <item>
+      <title>Viva Connections &amp; SharePoint Framework Community Call – 10th of February, 2022</title>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-10th-of-feb/</link>
+      <pubDate>Fri, 11 Feb 2022 02:20:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-10th-of-feb/</guid>
+      <description>Viva Connections &amp;amp; SharePoint Framework bi-weekly community call recording from February 10th is now available from the Microsoft 365 Community YouTube channel at &lt;a href=&#34;http://aka.ms/m365pnp/videos&#34;&gt;http://aka.ms/m365pnp/videos&lt;/a&gt;. You can use SharePoint Framework for building solutions for Microsoft Teams and for SharePoint Online.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 Platform Call – 8th of February, 2022</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-8th-of-february-2022/</link>
+      <pubDate>Wed, 09 Feb 2022 12:17:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-8th-of-february-2022/</guid>
+      <description>Microsoft 365 Platform Community Call - weekly community call recording from February 8th, is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 Platform Community (PnP) – February 2022 update</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-platform-community-pnp-february-2022-update/</link>
+      <pubDate>Wed, 09 Feb 2022 08:46:36 +0000</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-platform-community-pnp-february-2022-update/</guid>
+      <description>Microsoft 365 Platform Community (PnP) February 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success.</description>
+    </item>
+    
+    <item>
+      <title>Showing and hiding content in Adaptive Cards</title>
+      <link>https://pnp.github.io/community-blog/post/showing-and-hiding-content-in-adaptive-cards/</link>
+      <pubDate>Wed, 09 Feb 2022 03:31:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/showing-and-hiding-content-in-adaptive-cards/</guid>
+      <description>In Adaptive Cards there are multiple ways to show and hide content depending on other content or conditions, or even user interaction. But despite that most of them is available since the version 1.2 (so quite early) it requires a bit of knowledge how to actually implement them.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 PnP Weekly - Episode 152 - Hugo Bernier</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-152-hugo-bernier/</link>
+      <pubDate>Tue, 08 Feb 2022 01:50:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-152-hugo-bernier/</guid>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, Hugo Bernier (Microsoft).</description>
+    </item>
+    
+    <item>
+      <title>M365 Dev Podcast - Office Add-Ins with Juan Balmori</title>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-office-add-ins-with-juan-balmori/</link>
+      <pubDate>Mon, 07 Feb 2022 05:36:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-office-add-ins-with-juan-balmori/</guid>
+      <description>Juan Balmori returns to the podcast, speaking with Jeremy about developing add-ins for Office Online.</description>
+    </item>
+    
+    <item>
+      <title>How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs)</title>
+      <link>https://pnp.github.io/community-blog/post/how-to-call-and-show-graph-api-data-in-spfx-adaptive-card/</link>
+      <pubDate>Mon, 07 Feb 2022 02:37:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/how-to-call-and-show-graph-api-data-in-spfx-adaptive-card/</guid>
+      <description>In this article, we will learn how to get data from Graph API and display it in SPFx Adaptive Card Extensions(ACEs). if you are new to ACEs then I would recommend going through my previous article where I have covered the concept and basics of ACEs along with step by step tutorial on understanding how the ACEs components work together especially Card View and Quick View.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 Developer Community Call recording – 3rd of February, 2022</title>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-3rd-of-february/</link>
+      <pubDate>Fri, 04 Feb 2022 03:09:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-3rd-of-february/</guid>
+      <description>One location the Microsoft 365 tenant – script samples gallery (136 scenarios and 187 scripts) including recently added Teams PowerShell support!  Sign up and attend an AMA and other events this month hosted by Sharing is Caring.  Get the recognition you deserve, sign up for the PnP Recognition Program.  Heads down on PnP projects.  Expecting to ship Microsoft Graph Toolkit v2.3.2 on Friday!  To see current releases and latest updates/nightly builds, access the Repos via the links in table below.  There were 5 new/updated script, 5 Power Platform samples delivered this week.</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t pay more for SharePoint Storage than you have to :-)</title>
+      <link>https://pnp.github.io/community-blog/post/don-t-pay-more-for-sharepoint-storage-than-you-have-to/</link>
+      <pubDate>Thu, 03 Feb 2022 12:35:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/don-t-pay-more-for-sharepoint-storage-than-you-have-to/</guid>
+      <description>Even though most of us likes Microsoft, on some days more than others, there are no reason why we should pay more than necessary.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Forms as a Tab in Teams using graph API in Power Automate</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-forms-as-a-tab-in-teams-using-graph-api-in-power/</link>
+      <pubDate>Wed, 02 Feb 2022 11:38:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-forms-as-a-tab-in-teams-using-graph-api-in-power/</guid>
+      <description>This article is focused on how you can add Forms as a Website Tab in Microsoft Teams using Post Tab in Teams channel graph API</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 Platform Call – 1st of February, 2022</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-1st-of-february-2022/</link>
+      <pubDate>Wed, 02 Feb 2022 03:25:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-platform-call-1st-of-february-2022/</guid>
+      <description>Microsoft 365 Platform Community Call - weekly community call recording from February 2nd, is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 PnP Weekly - Episode 151 - Paul Bullock</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-151-paul-bullock/</link>
+      <pubDate>Tue, 01 Feb 2022 01:05:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-151-paul-bullock/</guid>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by UK-based SharePoint developer, architect and MVP, Paul Bullock</description>
+    </item>
+    
+    <item>
       <title>M365 Dev Podcast - Property Pane Portal project with Christophe Humbert</title>
-      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-property-pane-portal-project-with-christophe/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-property-pane-portal-project-with-christophe/</link>
       <pubDate>Mon, 31 Jan 2022 06:04:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-property-pane-portal-project-with-christophe/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-property-pane-portal-project-with-christophe/</guid>
       <description>Christophe Humbert joins Jeremy and Paul to talk about his Property Pane Portal project and the help he has received from the M365 Dev Community.</description>
     </item>
     
     <item>
       <title>Adaptive Cards community call – January 2022</title>
-      <link>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-january-2022/</link>
+      <link>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-january-2022/</link>
       <pubDate>Mon, 31 Jan 2022 05:23:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-january-2022/</guid>
+      <guid>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-january-2022/</guid>
       <description>The following topics are covered in this month’s community call: Adaptive Cards and the Power Platform to solve captchas (Use RPA, Adaptive Cards actionable messaging and Power Automate to resolve captcha challenges remotely on desktop or mobile) - Tomasz Poszytek (MVP), Website Updates (Blog posts for previous community calls, new samples for all 1.5 features!) - J.P. Roca (Microsoft) and Q&amp;amp;A – members of the Developer and PM teams fielded questions on a host of topics for the last 15 minutes on this call.   This call was hosted by J.P. Roca (Microsoft).  Recorded on January 13, 2022.</description>
     </item>
     
     <item>
       <title>CLI for Microsoft 365 v4.4</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-4/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-4/</link>
       <pubDate>Fri, 28 Jan 2022 12:17:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-4/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-4/</guid>
       <description>CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use</description>
     </item>
     
     <item>
       <title>Viva Connections &amp; SharePoint Framework Community Call – 27th of January, 2022</title>
-      <link>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-27th-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-27th-of/</link>
       <pubDate>Fri, 28 Jan 2022 02:07:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-27th-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-27th-of/</guid>
       <description>Viva Connections &amp;amp; SharePoint Framework bi-weekly community call recording from January 27th is now available from the Microsoft 365 Community YouTube channel at &lt;a href=&#34;http://aka.ms/m365pnp/videos&#34;&gt;http://aka.ms/m365pnp/videos&lt;/a&gt;. You can use SharePoint Framework for building solutions for Microsoft Teams and SharePoint Online</description>
     </item>
     
@@ -117,19 +414,19 @@
     
     <item>
       <title>M365 Dev Podcast - Microsoft Graph Data Connect with Nik Charlebois</title>
-      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-microsoft-graph-data-connect-with-nik/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-microsoft-graph-data-connect-with-nik/</link>
       <pubDate>Mon, 24 Jan 2022 05:57:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-microsoft-graph-data-connect-with-nik/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-microsoft-graph-data-connect-with-nik/</guid>
       <description>Nik Charlebois returns to provide an update on Microsoft Graph Data Connect.</description>
     </item>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 20th of January, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-20th-of-january/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-20th-of-january/</link>
       <pubDate>Fri, 21 Jan 2022 01:14:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-20th-of-january/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-20th-of-january/</guid>
       <description>One location the Microsoft 365 tenant – script samples gallery (134 scenarios and 182 scripts) including recently added Teams PowerShell support!  Sign up and attend an AMA and other events this month hosted by Sharing is Caring.  At the same time, sign up for the PnP Recognition Program.  Heads down on PnP projects.  Check out the TeamsFx authentication provider preview in MGT!  To see current releases and latest updates/nightly builds, access the Repos via the links in table below.  There were 7 new/updated script, 5 Power Platform samples delivered this week.   Wanted! – Teams Samples.</description>
     </item>
     
@@ -216,11 +513,20 @@
     
     <item>
       <title>Viva Connections &amp; SharePoint Framework Community Call -- 13th of January, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-13th-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-13th-of/</link>
       <pubDate>Fri, 14 Jan 2022 04:26:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-13th-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-13th-of/</guid>
       <description>Viva Connections &amp;amp; SharePoint Framework bi-weekly community call recording from January 13th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 self-service using Power Apps</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-self-service-using-power-apps/</link>
+      <pubDate>Wed, 12 Jan 2022 06:00:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-self-service-using-power-apps/</guid>
+      <description>Many organizations are moving towards a modern workplace. And most of the time, that does not happen overnight.</description>
     </item>
     
     <item>
@@ -261,28 +567,28 @@
     
     <item>
       <title>CLI for Microsoft 365 v4.3</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-3/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-3/</link>
       <pubDate>Sat, 08 Jan 2022 11:19:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-3/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-3/</guid>
       <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
     </item>
     
     <item>
       <title>Adaptive Cards community call -- November 2021</title>
-      <link>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-november-2021/</link>
+      <link>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-november-2021/</link>
       <pubDate>Fri, 07 Jan 2022 01:30:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-november-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-november-2021/</guid>
       <description>The following topics are covered in this month&amp;rsquo;s community call:</description>
     </item>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 6th of January, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-6th-of-january/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-6th-of-january/</link>
       <pubDate>Fri, 07 Jan 2022 01:01:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-6th-of-january/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-6th-of-january/</guid>
       <description>Call summary Welcome to the New Year. It&amp;rsquo;s a great time to visit the Microsoft 365 tenant &amp;ndash; script samples gallery (129 scenarios and 173 scripts) including recently added Teams PowerShell support!</description>
     </item>
     
@@ -306,10 +612,10 @@
     
     <item>
       <title>Viva Connections &amp; SharePoint Framework Community Call -- 30th of December, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-30th-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-30th-of/</link>
       <pubDate>Fri, 31 Dec 2021 02:42:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-30th-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-30th-of/</guid>
       <description>Viva Connections &amp;amp; SharePoint Framework bi-weekly community call recording from December 30th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -333,10 +639,10 @@
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 23rd of December, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-23rd-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-23rd-of/</link>
       <pubDate>Fri, 24 Dec 2021 02:33:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-23rd-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-23rd-of/</guid>
       <description>Call summary It&amp;rsquo;s the perfect time to visit the Microsoft 365 tenant &amp;ndash; script samples gallery (123 scenarios and 168 scripts) today.</description>
     </item>
     
@@ -369,10 +675,10 @@
     
     <item>
       <title>Viva Connections &amp; SharePoint Framework Community Call -- 16th of December, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-16th-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-16th-of/</link>
       <pubDate>Fri, 17 Dec 2021 01:04:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-16th-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-16th-of/</guid>
       <description>Viva Connections &amp;amp; SharePoint Framework bi-weekly community call recording from December 16th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -404,11 +710,20 @@
     </item>
     
     <item>
+      <title>Microsoft 365 PnP Weekly - Episode 147 - Markus Möller (Avanade)</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-147-markus-m%c3%b6ller-avanade/</link>
+      <pubDate>Tue, 14 Dec 2021 12:46:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-147-markus-m%c3%b6ller-avanade/</guid>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365 hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen,Waldek Mastykarz (Microsoft) | @waldekm are joined by Munich, Germany-based consultant and MVP, Markus Möller (Avanade) | @Moeller2_0.</description>
+    </item>
+    
+    <item>
       <title>M365 Dev Podcast - Onboarding Developers with Ahmed El Herazy and Wes Hackett</title>
-      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-onboarding-developers-with-ahmed-el-herazy-and/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-onboarding-developers-with-ahmed-el-herazy-and/</link>
       <pubDate>Mon, 13 Dec 2021 07:02:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-onboarding-developers-with-ahmed-el-herazy-and/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-onboarding-developers-with-ahmed-el-herazy-and/</guid>
       <description>Wes Hackett and Ahmed El Herazy talk with Paul and share their story of onboarding a developer into a team and ensuring the process is positive for all involved.</description>
     </item>
     
@@ -432,10 +747,10 @@
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 9th of December, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-9th-of-december/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-9th-of-december/</link>
       <pubDate>Fri, 10 Dec 2021 02:03:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-9th-of-december/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-9th-of-december/</guid>
       <description>Call summary Why not visit the Microsoft 365 tenant &amp;ndash; script samples gallery (118 scenarios and 161 scripts) today.</description>
     </item>
     
@@ -459,10 +774,10 @@
     
     <item>
       <title>M365 Dev Podcast - Kiota, the OpenAPI SDK Generator with Vincent Biret</title>
-      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-kiota-the-openapi-sdk-generator-with-vincent/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-kiota-the-openapi-sdk-generator-with-vincent/</link>
       <pubDate>Tue, 07 Dec 2021 06:56:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-kiota-the-openapi-sdk-generator-with-vincent/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-kiota-the-openapi-sdk-generator-with-vincent/</guid>
       <description>Vincent Biret sits down with Jeremy to talk about Kiota - the new SDK generator from Microsoft.</description>
     </item>
     
@@ -477,10 +792,10 @@
     
     <item>
       <title>Viva Connections &amp; SharePoint Framework Community Call -- 2nd of December, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-2nd-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-2nd-of/</link>
       <pubDate>Fri, 03 Dec 2021 01:19:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-2nd-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-2nd-of/</guid>
       <description>Viva Connections &amp;amp; SharePoint Framework bi-weekly community call recording from December 2nd is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -522,19 +837,19 @@
     
     <item>
       <title>CLI for Microsoft 365 v4.2</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-2/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-2/</link>
       <pubDate>Fri, 26 Nov 2021 06:38:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-2/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-2/</guid>
       <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
     </item>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 25th of November, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-25th-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-25th-of/</link>
       <pubDate>Fri, 26 Nov 2021 03:33:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-25th-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-25th-of/</guid>
       <description>Call Summary Have you visited the Microsoft 365 tenant &amp;ndash; script samples gallery (116 scenarios and 160 scripts, using CLI for Microsoft 365, PnP PowerShell, SPO Management Shell tooling and more&amp;hellip;)?</description>
     </item>
     
@@ -567,10 +882,10 @@
     
     <item>
       <title>M365 Dev Podcast - Microsoft News: November 2021</title>
-      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-microsoft-news-november-2021/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-microsoft-news-november-2021/</link>
       <pubDate>Tue, 23 Nov 2021 05:54:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-microsoft-news-november-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-microsoft-news-november-2021/</guid>
       <description>Jeremy and Paul recap the latest news from Microsoft
 Listen to the show here: (m365devpodcast.</description>
     </item>
@@ -586,10 +901,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Viva Connections &amp; SharePoint Framework Community Call -- 18th of November, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-18th-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-18th-of/</link>
       <pubDate>Fri, 19 Nov 2021 12:44:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/viva-connections-amp-sharepoint-framework-community-call-18th-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/viva-connections-amp-sharepoint-framework-community-call-18th-of/</guid>
       <description>Viva Connections &amp;amp; SharePoint Framework bi-weekly community call recording from November 18th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -658,10 +973,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 11th of November, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-11th-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-11th-of/</link>
       <pubDate>Fri, 12 Nov 2021 02:20:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-11th-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-11th-of/</guid>
       <description>Call summary Visit the Microsoft 365 tenant &amp;ndash; script samples gallery (114 scenarios and 156 scripts, using CLI for Microsoft 365, PnP PowerShell, SPO Management Shell tooling and more&amp;hellip;)?</description>
     </item>
     
@@ -694,10 +1009,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Adaptive Cards community call -- October 2021</title>
-      <link>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-october-2021/</link>
+      <link>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-october-2021/</link>
       <pubDate>Wed, 10 Nov 2021 01:58:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-october-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-october-2021/</guid>
       <description>The following topics are covered in this month&amp;rsquo;s community call:</description>
     </item>
     
@@ -712,10 +1027,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>M365 Dev Podcast - Exchange Deprecations with Greg Taylor</title>
-      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-exchange-deprecations-with-greg-taylor/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-exchange-deprecations-with-greg-taylor/</link>
       <pubDate>Mon, 08 Nov 2021 05:56:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-exchange-deprecations-with-greg-taylor/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-exchange-deprecations-with-greg-taylor/</guid>
       <description>Greg Taylor brings his wealth of experience in Exchange to the show, discussing the upcoming deprecations in the Exchange online service.</description>
     </item>
     
@@ -730,10 +1045,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>SharePoint Framework Community Call -- 4th of November, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-4th-of-november-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-4th-of-november-2021/</link>
       <pubDate>Fri, 05 Nov 2021 03:52:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-4th-of-november-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-4th-of-november-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from November 4th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -757,10 +1072,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 28th of October, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-28th-of-october/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-28th-of-october/</link>
       <pubDate>Fri, 29 Oct 2021 05:40:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-28th-of-october/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-28th-of-october/</guid>
       <description>Call summary SharePoint Framework v1.13 is now generally available! Have you visited the Microsoft 365 tenant &amp;ndash; script samples gallery (106 scenarios and 142 scripts, using CLI for Microsoft 365, PnP PowerShell, SPO Management Shell tooling and more&amp;hellip;)?</description>
     </item>
     
@@ -793,10 +1108,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>M365 Dev Podcast - Exporting Content Using the Teams Export API with Yaron Hezroni</title>
-      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-exporting-content-using-the-teams-export-api/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-exporting-content-using-the-teams-export-api/</link>
       <pubDate>Mon, 25 Oct 2021 06:01:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-exporting-content-using-the-teams-export-api/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-exporting-content-using-the-teams-export-api/</guid>
       <description>Yaron Hezroni joins Jeremy and Paul to share the Export APIs for Microsoft Teams content.</description>
     </item>
     
@@ -820,10 +1135,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>CLI for Microsoft 365 v4.1</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-1/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-1/</link>
       <pubDate>Fri, 22 Oct 2021 04:48:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-1/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-1/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
     </item>
     
@@ -838,10 +1153,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>SharePoint Framework Community Call -- 21st of October, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-21st-of-october-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-21st-of-october-2021/</link>
       <pubDate>Fri, 22 Oct 2021 01:39:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-21st-of-october-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-21st-of-october-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from October 21st is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -874,10 +1189,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>M365 Dev Podcast - yo Teams Generator Update with Wictor Wilén</title>
-      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-yo-teams-generator-update-with-wictor-wil%c3%a9n/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-yo-teams-generator-update-with-wictor-wil%c3%a9n/</link>
       <pubDate>Mon, 18 Oct 2021 06:16:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-yo-teams-generator-update-with-wictor-wil%c3%a9n/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-yo-teams-generator-update-with-wictor-wil%c3%a9n/</guid>
       <description>Wictor Wilén returns to provide an update to the yo Teams generator project.</description>
     </item>
     
@@ -910,10 +1225,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 14th of October, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-14th-of-october/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-14th-of-october/</link>
       <pubDate>Fri, 15 Oct 2021 12:41:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-14th-of-october/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-14th-of-october/</guid>
       <description>Call summary Updated Viva Connections public developer preview! Have a look at Microsoft 365 tenant &amp;ndash; script samples gallery (101 scenarios and 135 scripts, using CLI for Microsoft 365, PnP PowerShell, SPO Management Shell tooling and more&amp;hellip;).</description>
     </item>
     
@@ -946,37 +1261,37 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>M365 Dev Podcast - Building a Solution with Low-Code Tools with Carmen Ysewijn and Luise Freese</title>
-      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-building-a-solution-with-low-code-tools-with/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-building-a-solution-with-low-code-tools-with/</link>
       <pubDate>Mon, 11 Oct 2021 10:07:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-building-a-solution-with-low-code-tools-with/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-building-a-solution-with-low-code-tools-with/</guid>
       <description>Carmen Ysewijn and Luise Freese talk with Paul about their open-source project ProvisionGenie, discussing its components and their experience with the tools used to create the magic.</description>
     </item>
     
     <item>
       <title>SharePoint Framework Community Call -- 7th of October, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-7th-of-october-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-7th-of-october-2021/</link>
       <pubDate>Fri, 08 Oct 2021 02:03:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-7th-of-october-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-7th-of-october-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from October 7th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
     <item>
       <title>CLI for Microsoft 365 v4</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4/</link>
       <pubDate>Thu, 07 Oct 2021 12:08:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4/</guid>
       <description>We&amp;rsquo;ve just published a new major version of the CLI for Microsoft 365 with new commands &amp;amp; enhancements for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
     </item>
     
     <item>
       <title>Adaptive Cards community call -- September 2021</title>
-      <link>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-september-2021/</link>
+      <link>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-september-2021/</link>
       <pubDate>Thu, 07 Oct 2021 09:56:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-september-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-september-2021/</guid>
       <description>The following topics are covered in this month&amp;rsquo;s community call:  Microsoft Search and Adaptive Cards (Intelligent search for the modern workplace, architecture, Microsoft Graph connectors, rendering using Adaptive Cards, and Search Layout Designer) - Jyoti Pal (Microsoft), A closer look at v1.</description>
     </item>
     
@@ -991,10 +1306,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>M365 Dev Podcast - Bot Framework Composer Video series with Ayça Baş and Bob German</title>
-      <link>https://pnp.github.io/community-blog/post/m365-dev-podcast-bot-framework-composer-video-series-with-ay%c3%a7a/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-bot-framework-composer-video-series-with-ay%c3%a7a/</link>
       <pubDate>Tue, 05 Oct 2021 05:30:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/m365-dev-podcast-bot-framework-composer-video-series-with-ay%c3%a7a/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/m365-dev-podcast-bot-framework-composer-video-series-with-ay%c3%a7a/</guid>
       <description>Ayca and Bob return to the show to talk about a new video series that discusses the Who&amp;rsquo;s Online bot created using Bot Framework Composer and Cognitive Services.</description>
     </item>
     
@@ -1027,10 +1342,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 30th of September, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-30th-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-30th-of/</link>
       <pubDate>Fri, 01 Oct 2021 02:29:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-30th-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-30th-of/</guid>
       <description>Call summary Have a look at Microsoft 365 tenant &amp;ndash; script samples gallery (90 scenarios and 118 scripts, using CLI for Microsoft 365, PnP PowerShell, SPO Management Shell tooling and more&amp;hellip;).</description>
     </item>
     
@@ -1098,29 +1413,29 @@ Listen to the show here: (m365devpodcast.</description>
     </item>
     
     <item>
-      <title>Microsft 365 Developer Podcast - Latest Microsoft Graph SDKs with Maisa Rissi and Darrel Miller</title>
-      <link>https://pnp.github.io/community-blog/post/microsft-365-developer-podcast-latest-microsoft-graph-sdks-with/</link>
+      <title>Microsoft 365 Developer Podcast - Latest Microsoft Graph SDKs with Maisa Rissi and Darrel Miller</title>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-latest-microsoft-graph-sdks-with/</link>
       <pubDate>Mon, 27 Sep 2021 05:49:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsft-365-developer-podcast-latest-microsoft-graph-sdks-with/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-latest-microsoft-graph-sdks-with/</guid>
       <description>Maisa Rissi and Darrel Miller join Jeremy and Paul to talk about the latest updates to the Microsoft Graph SDKs, including PowerShell, .</description>
     </item>
     
     <item>
       <title>SharePoint Framework Community Call -- 23rd of September, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-23rd-of-september-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-23rd-of-september-2021/</link>
       <pubDate>Fri, 24 Sep 2021 12:57:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-23rd-of-september-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-23rd-of-september-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from September 23rd is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
     <item>
       <title>Adaptive Cards community call -- August 2021</title>
-      <link>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-august-2021/</link>
+      <link>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-august-2021/</link>
       <pubDate>Thu, 23 Sep 2021 05:24:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-august-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-august-2021/</guid>
       <description>The following topics are covered in this month&amp;rsquo;s community call:</description>
     </item>
     
@@ -1144,10 +1459,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Podcast - Microsoft 365 App Certification with Orion O&#39;Malley</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-microsoft-365-app-certification/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-microsoft-365-app-certification/</link>
       <pubDate>Mon, 20 Sep 2021 08:31:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-microsoft-365-app-certification/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-microsoft-365-app-certification/</guid>
       <description>Orion O&amp;rsquo;Malley joins Jeremy and Paul to talk about the Microsoft 365 App Certification program and it&amp;rsquo;s benefits for organizations and developers.</description>
     </item>
     
@@ -1189,10 +1504,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 16th of September, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-16th-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-16th-of/</link>
       <pubDate>Thu, 16 Sep 2021 03:34:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-16th-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-16th-of/</guid>
       <description>Call Summary Have a look at Microsoft 365 tenant &amp;ndash; script samples gallery (84 scenarios and 111 scripts)*.</description>
     </item>
     
@@ -1279,10 +1594,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>SharePoint Framework Community Call -- 9th of September, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-9th-of-september-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-9th-of-september-2021/</link>
       <pubDate>Fri, 10 Sep 2021 01:27:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-9th-of-september-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-9th-of-september-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from September 9th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -1333,10 +1648,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 2nd of September, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-2nd-of/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-2nd-of/</link>
       <pubDate>Fri, 03 Sep 2021 03:45:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-2nd-of/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-2nd-of/</guid>
       <description>Call summary Welcome back from summer holiday! Have a look at Microsoft 365 tenant &amp;ndash; script samples gallery - s*cripts for PowerShell and CLIs.</description>
     </item>
     
@@ -1369,19 +1684,19 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>CLI for Microsoft 365 v3.13</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-13/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-13/</link>
       <pubDate>Mon, 30 Aug 2021 11:35:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-13/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-13/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
     </item>
     
     <item>
       <title>SharePoint Framework Community Call -- 26th of August, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-26th-of-august-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-26th-of-august-2021/</link>
       <pubDate>Fri, 27 Aug 2021 01:01:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-26th-of-august-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-26th-of-august-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from August 26th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -1396,10 +1711,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Dev Podcast - SPO Performance with Sean McDonough</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-dev-podcast-spo-performance-with-sean-mcdonough/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-dev-podcast-spo-performance-with-sean-mcdonough/</link>
       <pubDate>Tue, 24 Aug 2021 06:26:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-dev-podcast-spo-performance-with-sean-mcdonough/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-dev-podcast-spo-performance-with-sean-mcdonough/</guid>
       <description>Sean McDonough shares his tips and tricks for improving SPO performance.</description>
     </item>
     
@@ -1423,10 +1738,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 19th of August, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-19th-of-august/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-19th-of-august/</link>
       <pubDate>Fri, 20 Aug 2021 03:41:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-19th-of-august/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-19th-of-august/</guid>
       <description>Call summary Summer break and community call schedule updates reviewed.</description>
     </item>
     
@@ -1459,19 +1774,19 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Podcast - AI &amp; Cognitive Services with Prashant G Bhoyar</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-ai-amp-cognitive-services-with/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-ai-amp-cognitive-services-with/</link>
       <pubDate>Mon, 16 Aug 2021 06:10:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-ai-amp-cognitive-services-with/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-ai-amp-cognitive-services-with/</guid>
       <description>Prashant G Bhoyer sits down with Paul to answer questions about the AI offerings in Azure and how they are used in M365 and how they can be used by developers.</description>
     </item>
     
     <item>
       <title>SharePoint Framework Community Call -- 12th of August, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-12th-of-august-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-12th-of-august-2021/</link>
       <pubDate>Fri, 13 Aug 2021 01:27:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-12th-of-august-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-12th-of-august-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from August 12th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -1522,10 +1837,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Podcast - Content Design for SharePoint Syntex with Tom Resing</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-content-design-for-sharepoint/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-content-design-for-sharepoint/</link>
       <pubDate>Mon, 09 Aug 2021 06:11:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-content-design-for-sharepoint/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-content-design-for-sharepoint/</guid>
       <description>Tom Resing joins Paul at SPFest in Chicago to talk about his work as a Content Designer on SharePoint Syntex.</description>
     </item>
     
@@ -1540,10 +1855,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 5th of August, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-5th-of-august/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-5th-of-august/</link>
       <pubDate>Thu, 05 Aug 2021 07:52:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-5th-of-august/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-5th-of-august/</guid>
       <description>Call summary Summer break and community call schedule updates reviewed. Preview the new Microsoft 365 Extensibility look book gallery.</description>
     </item>
     
@@ -1576,37 +1891,37 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Dev Podcast - SPFx, Azure Functions and PnP Re-Usable controls with Joel Rodrigues</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-dev-podcast-spfx-azure-functions-and-pnp-re-usable/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-dev-podcast-spfx-azure-functions-and-pnp-re-usable/</link>
       <pubDate>Mon, 02 Aug 2021 06:29:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-dev-podcast-spfx-azure-functions-and-pnp-re-usable/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-dev-podcast-spfx-azure-functions-and-pnp-re-usable/</guid>
       <description>Joel Rodrigues joins Paul to talk about his projects using SPFx and Azure Functions, as well as his role as a maintainer of the PnP Re-Usable controls repository.</description>
     </item>
     
     <item>
       <title>CLI for Microsoft 365 v3.12</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-12/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-12/</link>
       <pubDate>Fri, 30 Jul 2021 02:28:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-12/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-12/</guid>
       <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
     </item>
     
     <item>
       <title>SharePoint Framework Community Call -- 29th of July, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-29th-of-july-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-29th-of-july-2021/</link>
       <pubDate>Thu, 29 Jul 2021 04:59:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-29th-of-july-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-29th-of-july-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from July 29th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
     <item>
       <title>Microsoft 365 Developer Podcast - Office Add-Ins with Cam Dwyer</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-office-add-ins-with-cam-dwyer/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-office-add-ins-with-cam-dwyer/</link>
       <pubDate>Wed, 28 Jul 2021 07:58:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-office-add-ins-with-cam-dwyer/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-office-add-ins-with-cam-dwyer/</guid>
       <description>Paul talks with Cam Dwyer about creating add-ins for Office, including DevOps and security principles.</description>
     </item>
     
@@ -1630,10 +1945,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Podcast - Secretless Apps with Christos Matskas</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-secretless-apps-with-christos/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-secretless-apps-with-christos/</link>
       <pubDate>Mon, 26 Jul 2021 07:32:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-secretless-apps-with-christos/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-secretless-apps-with-christos/</guid>
       <description>Christos Mastkas returns to the show to talk with Jeremy and Paul about &amp;ldquo;secretless&amp;rdquo; applications and the latest on Azure.</description>
     </item>
     
@@ -1657,19 +1972,19 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Podcast - Azure AD Entitlement Management and Governance with Elisabeth Olso</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-azure-ad-entitlement-management/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-azure-ad-entitlement-management/</link>
       <pubDate>Thu, 22 Jul 2021 06:47:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-azure-ad-entitlement-management/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-azure-ad-entitlement-management/</guid>
       <description>Elisabeth Olson joins the show to answer questions about Azure AD Entitlement management and other AAD governance topics.</description>
     </item>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 22nd of July, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-22nd-of-july/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-22nd-of-july/</link>
       <pubDate>Thu, 22 Jul 2021 05:41:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-22nd-of-july/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-22nd-of-july/</guid>
       <description>Call summary Summer break and community call schedule updates reviewed. Preview the new Microsoft 365 Extensibility look book gallery.</description>
     </item>
     
@@ -1702,10 +2017,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Podcast - Microsoft Teams Toolkit with Zhenya Savchenko and Tim Ng</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-microsoft-teams-toolkit-with/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-microsoft-teams-toolkit-with/</link>
       <pubDate>Mon, 19 Jul 2021 05:37:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-microsoft-teams-toolkit-with/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-microsoft-teams-toolkit-with/</guid>
       <description>Zhenya Savchenko and Tim Ng from the Developer Division at Microsoft join Jeremy and Paul to talk about the Microsoft Teams Toolkit.</description>
     </item>
     
@@ -1720,19 +2035,19 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Podcast - Microsoft Search with Mikael Svenson</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-microsoft-search-with-mikael/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-microsoft-search-with-mikael/</link>
       <pubDate>Thu, 15 Jul 2021 10:36:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-microsoft-search-with-mikael/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-microsoft-search-with-mikael/</guid>
       <description>Mikael Svenson joins Paul to talk about Search in Microsoft 365.</description>
     </item>
     
     <item>
       <title>SharePoint Framework Community Call -- 15th of July, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-15th-of-july-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-15th-of-july-2021/</link>
       <pubDate>Thu, 15 Jul 2021 08:22:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-15th-of-july-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-15th-of-july-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from July 15th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -1747,47 +2062,47 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Dev Podcast - Building an Application on the Microsoft 365 Platform with Elio Struyf</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-dev-podcast-building-an-application-on-the/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-dev-podcast-building-an-application-on-the/</link>
       <pubDate>Mon, 12 Jul 2021 05:50:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-dev-podcast-building-an-application-on-the/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-dev-podcast-building-an-application-on-the/</guid>
       <description>Elio Struyf joins Paul to talk about his experiences while building an application in the Microsoft 365 ecosystem, including the Microsoft for Startups program.</description>
     </item>
     
     <item>
       <title>Adaptive Cards Community Call - June 2021</title>
-      <link>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-june-2021/</link>
+      <link>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-june-2021/</link>
       <pubDate>Fri, 09 Jul 2021 05:19:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-june-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-june-2021/</guid>
       <description>After a quick wrap up on Microsoft Build &amp;lsquo;21 from an Adaptive Cards perspective, this call&amp;rsquo;s primary focus is on Microsoft Viva Connections Extensibility with Adaptive Cards.</description>
     </item>
     
     <item>
       <title>Adaptive Cards Community Call - July 2021</title>
-      <link>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-july-2021/</link>
+      <link>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-july-2021/</link>
       <pubDate>Fri, 09 Jul 2021 05:07:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-july-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-july-2021/</guid>
       <description>Covered off in this month&amp;rsquo;s &amp;ldquo;conversational&amp;rdquo; community call:
   A lap around MadeWithCards.</description>
     </item>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 8th of July, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-8th-of-july/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-8th-of-july/</link>
       <pubDate>Thu, 08 Jul 2021 05:08:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-8th-of-july/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-8th-of-july/</guid>
       <description>Call Summary Summer and Fall community call schedule updates reviewed. Preview the new Microsoft 365 Extensibility look book gallery.</description>
     </item>
     
     <item>
       <title>Microsoft 365 Developer Podcast - Code Like a Pro in C# with Jort Rodenburg</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-code-like-a-pro-in-c-with-jort/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-code-like-a-pro-in-c-with-jort/</link>
       <pubDate>Mon, 05 Jul 2021 10:37:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-code-like-a-pro-in-c-with-jort/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-code-like-a-pro-in-c-with-jort/</guid>
       <description>Paul talks with Jort Rodenburg about his new book Code Like a Pro in C#.</description>
     </item>
     
@@ -1802,10 +2117,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>SharePoint Framework Community Call -- 1st of July, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-1st-of-july-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-1st-of-july-2021/</link>
       <pubDate>Thu, 01 Jul 2021 09:45:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-1st-of-july-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-1st-of-july-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from July 1st is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -1820,10 +2135,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>CLI for Microsoft 365 v3.11</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-11/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-11/</link>
       <pubDate>Wed, 30 Jun 2021 10:45:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-11/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-11/</guid>
       <description>[Manage Microsoft 365 and SharePoint Framework projects on any platform]</description>
     </item>
     
@@ -1865,10 +2180,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 24th of June, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-24th-of-june/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-24th-of-june/</link>
       <pubDate>Fri, 25 Jun 2021 03:16:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-24th-of-june/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-24th-of-june/</guid>
       <description>Call summary Summer break and community call schedule updates reviewed.</description>
     </item>
     
@@ -1892,10 +2207,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Podcast - Microsoft Graph Connectors with Brian T. Jackett</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-microsoft-graph-connectors-with/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-microsoft-graph-connectors-with/</link>
       <pubDate>Mon, 21 Jun 2021 08:14:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-microsoft-graph-connectors-with/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-microsoft-graph-connectors-with/</guid>
       <description>Jeremy and Paul talk with Brian T. Jackett about the Graph Connectors API.</description>
     </item>
     
@@ -1910,10 +2225,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>SharePoint Framework Community Call -- 17th of June, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-17th-of-june-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-17th-of-june-2021/</link>
       <pubDate>Fri, 18 Jun 2021 12:58:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-17th-of-june-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-17th-of-june-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from June 17th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -1928,10 +2243,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Podcast - Viva Connections with John Nguyen and Luca Bandinelli</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-viva-connections-with-john/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-viva-connections-with-john/</link>
       <pubDate>Thu, 17 Jun 2021 09:53:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-viva-connections-with-john/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-viva-connections-with-john/</guid>
       <description>Paul talks with John Nguyen and Luca Bandinelli about the developer story for Viva Connections.</description>
     </item>
     
@@ -1964,10 +2279,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Podcast - Azure Event Hub and Rich Notifications with Ayca Bas</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-azure-event-hub-and-rich/</link>
+      <link>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-azure-event-hub-and-rich/</link>
       <pubDate>Wed, 16 Jun 2021 01:37:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-podcast-azure-event-hub-and-rich/</guid>
+      <guid>https://pnp.github.io/community-blog/m365-dev-podcast/microsoft-365-developer-podcast-azure-event-hub-and-rich/</guid>
       <description>Ayca Bas @aycabas returns to talk with Jeremy and Paul about updates to change notifications in Microsoft Graph.</description>
     </item>
     
@@ -2000,10 +2315,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 10th of June, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-10th-of-june/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-10th-of-june/</link>
       <pubDate>Thu, 10 Jun 2021 11:24:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-10th-of-june/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-10th-of-june/</guid>
       <description>Recording of the Microsoft 365 &amp;ndash; General M365 development Special Interest Group (SIG) community call from June 10, 2021.</description>
     </item>
     
@@ -2026,6 +2341,15 @@ Listen to the show here: (m365devpodcast.</description>
     </item>
     
     <item>
+      <title>Microsoft 365 PnP Community -- June 2021 update</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-june-2021-update/</link>
+      <pubDate>Thu, 10 Jun 2021 05:25:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-june-2021-update/</guid>
+      <description>Microsoft 365 Patterns and Practices (PnP) Community June 2021 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community.</description>
+    </item>
+    
+    <item>
       <title>What kind of apps can you build on Microsoft 365?</title>
       <link>https://pnp.github.io/community-blog/post/what-kind-of-apps-can-you-build-on-microsoft-365/</link>
       <pubDate>Thu, 10 Jun 2021 03:42:00 -0400</pubDate>
@@ -2036,10 +2360,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>SharePoint community call - June 8th, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-community-call-june-8th-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-community-call-june-8th-2021/</link>
       <pubDate>Wed, 09 Jun 2021 05:06:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-community-call-june-8th-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-community-call-june-8th-2021/</guid>
       <description>The SharePoint community monthly call is our general monthly review of the latest SharePoint news (news, tools, extensions, features, capabilities, content and training), engineering priorities and community recognition for Developers, IT Pros and Makers.</description>
     </item>
     
@@ -2054,10 +2378,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>SharePoint Framework Community Call -- 3rd of June, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-3rd-of-june-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-3rd-of-june-2021/</link>
       <pubDate>Fri, 04 Jun 2021 01:46:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-3rd-of-june-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-3rd-of-june-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from June 3rd is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -2090,19 +2414,19 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>CLI for Microsoft 365 v3.10</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-10/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-10/</link>
       <pubDate>Sun, 30 May 2021 11:31:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-10/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-10/</guid>
       <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
     </item>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 27th of May, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-27th-of-may/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-27th-of-may/</link>
       <pubDate>Fri, 28 May 2021 12:20:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-27th-of-may/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-27th-of-may/</guid>
       <description>Call summary Latest news from Microsoft 365 engineering and updates on open-source projects: PnP .</description>
     </item>
     
@@ -2171,10 +2495,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>SharePoint Framework Community Call -- 20th of May, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-20th-of-may-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-20th-of-may-2021/</link>
       <pubDate>Fri, 21 May 2021 02:44:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-20th-of-may-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-20th-of-may-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from May 20th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -2297,10 +2621,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 13th of May, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-13th-of-may/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-13th-of-may/</link>
       <pubDate>Fri, 14 May 2021 02:42:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-13th-of-may/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-13th-of-may/</guid>
       <description>Recording of the Microsoft 365 &amp;ndash; General M365 development Special Interest Group (SIG) community call from May 13, 2021.</description>
     </item>
     
@@ -2315,10 +2639,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>SharePoint community call - May 11th, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-community-call-may-11th-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-community-call-may-11th-2021/</link>
       <pubDate>Tue, 11 May 2021 11:59:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-community-call-may-11th-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-community-call-may-11th-2021/</guid>
       <description>The SharePoint community monthly call is our general monthly review of the latest SharePoint news (news, tools, extensions, features, capabilities, content and training), engineering priorities and community recognition for Developers, IT Pros and Makers.</description>
     </item>
     
@@ -2328,7 +2652,7 @@ Listen to the show here: (m365devpodcast.</description>
       <pubDate>Tue, 11 May 2021 04:40:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-126-d-arce-hess/</guid>
-      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by Rhode Island, US-based, MVP, professional archer, blogger and presenter specializing in UI/UX, information architecture and user adoption at TrnDigital, D&amp;rsquo;arce Hess | @ DarceHess.</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Rhode Island, US-based, MVP, professional archer, blogger and presenter specializing in UI/UX, information architecture and user adoption at TrnDigital, D&amp;rsquo;arce Hess.   Topics discussed in this session include:  The path to IT and on becoming an MVP, reflections on UX/UI changes over the years and designing custom experiences that addresses business processes.  In post pandemic times, organizations will be circling back to optimize Microsoft Teams experiences while vendors will continue efforts to land the right extensibility stories.   Microsoft Viva &amp;ndash; with great power comes great responsibility and ideas about prepping for Viva.   Finally, thoughts on women in IT and on using what we learn in school in the field.</description>
     </item>
     
     <item>
@@ -2360,10 +2684,10 @@ Listen to the show here: (m365devpodcast.</description>
     
     <item>
       <title>SharePoint Framework Community Call Recording -- 6th of May, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-recording-6th-of-may-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-recording-6th-of-may-2021/</link>
       <pubDate>Fri, 07 May 2021 12:41:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-recording-6th-of-may-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-recording-6th-of-may-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from May 6th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -2491,7 +2815,7 @@ How does it help people?</description>
       <pubDate>Mon, 03 May 2021 11:29:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-125/</guid>
-      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by Business Applications MVP, Flow Pro Show co-host, NLightning co-founder and Technical Evangelist at SharePoint ISV Lightning Tools Sandy Ussia | @SandyU.</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Business Applications MVP, Flow Pro Show co-host, NLightning co-founder and Technical Evangelist at SharePoint ISV Lightning Tools Sandy Ussia.   Topics discussed in this session include:  The appeal of Power Apps and Power Automate - enabling Power Users especially in resource constrained smaller businesses, whether or not Power Apps is the epitome or fulfillment of &amp;ldquo;Good-enough IT&amp;rdquo;, Sandy 2.0, and Lightning Tools&#39; business in COVID times.    Microsoft and the Community delivered 22 articles in this last week.  This session was recorded on Monday, May 3, 2021.</description>
     </item>
     
     <item>
@@ -2505,10 +2829,10 @@ How does it help people?</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 29th of April, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-29th-of-april/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-29th-of-april/</link>
       <pubDate>Fri, 30 Apr 2021 04:15:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-29th-of-april/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-29th-of-april/</guid>
       <description>Call summary Latest news from Microsoft 365 engineering and updates on open-source projects: PnP .</description>
     </item>
     
@@ -2523,10 +2847,10 @@ How does it help people?</description>
     
     <item>
       <title>CLI for Microsoft 365 v3.9</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-9/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-9/</link>
       <pubDate>Thu, 29 Apr 2021 05:29:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-9/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-9/</guid>
       <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use</description>
     </item>
     
@@ -2563,7 +2887,7 @@ How does it help people?</description>
       <pubDate>Tue, 27 Apr 2021 12:11:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-124/</guid>
-      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by MVP, PnP Team member, and Architect at US-based Sympraxis Consulting Emily Mancini |@EEMancini.</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by MVP, PnP Team member, and Architect at US-based Sympraxis Consulting Emily Mancini.   Topics discussed in this session include:  Sharing is Caring engagement model, Aligning and addressing the client&amp;rsquo;s business needs with capabilities of owned technologies, i.e., Microsoft 365 for making changes with the business and not to the business!   Conscious/unconscious usage of the Microsoft 365 Maturity Model for business ROI maximization.   Ideas for increasing diversity in IT personnel, Imposter Syndrome, Tech vs Outcome and Teams or Yammer.</description>
     </item>
     
     <item>
@@ -2614,10 +2938,10 @@ How does it help people?</description>
     
     <item>
       <title>SharePoint Framework Community Call Recording -- 22nd of April, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-recording-22nd-of-april-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-recording-22nd-of-april-2021/</link>
       <pubDate>Fri, 23 Apr 2021 02:30:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-recording-22nd-of-april-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-recording-22nd-of-april-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from April 22nd is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -2654,7 +2978,7 @@ How does it help people?</description>
       <pubDate>Tue, 20 Apr 2021 02:47:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-123/</guid>
-      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by a Power Platform Cloud Advocate April Dunnam (Microsoft) | @aprildunnam</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by a Power Platform Cloud Advocate April Dunnam (Microsoft)</description>
     </item>
     
     <item>
@@ -2669,10 +2993,10 @@ How does it help people?</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 15th of April, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-15th-of-april/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-15th-of-april/</link>
       <pubDate>Fri, 16 Apr 2021 04:18:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-15th-of-april/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-15th-of-april/</guid>
       <description>Call summary Latest news from Microsoft 365 engineering and updates on open-source projects: PnP .</description>
     </item>
     
@@ -2696,10 +3020,10 @@ How does it help people?</description>
     
     <item>
       <title>SharePoint community call - April 13th, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-community-call-april-13th-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-community-call-april-13th-2021/</link>
       <pubDate>Wed, 14 Apr 2021 12:43:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-community-call-april-13th-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-community-call-april-13th-2021/</guid>
       <description>The SharePoint community monthly call is our general monthly review of the latest SharePoint news (news, tools, extensions, features, capabilities, content and training), engineering priorities and community recognition for Developers, IT Pros and Makers.</description>
     </item>
     
@@ -2719,6 +3043,15 @@ How does it help people?</description>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-community-april-2021-update/</guid>
       <description>Microsoft 365 Patterns and Practices (PnP) Community April 2021 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 PnP Weekly - Episode 122</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-122/</link>
+      <pubDate>Tue, 13 Apr 2021 04:16:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-122/</guid>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by a Partner at the US-based consultancy PAIT Group and Microsoft 365 MVP Mark Rackley.</description>
     </item>
     
     <item>
@@ -2750,10 +3083,10 @@ How does it help people?</description>
     
     <item>
       <title>SharePoint Framework Community Call Recording -- 8th of April, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-recording-8th-of-april-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-recording-8th-of-april-2021/</link>
       <pubDate>Fri, 09 Apr 2021 12:44:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-recording-8th-of-april-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-recording-8th-of-april-2021/</guid>
       <description>SharePoint Framework bi-weekly community call recording from April 8th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -2787,6 +3120,15 @@ How does it help people?</description>
     </item>
     
     <item>
+      <title>Microsoft 365 PnP Weekly - Episode 121</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-121/</link>
+      <pubDate>Tue, 06 Apr 2021 11:16:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-121/</guid>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by are joined Canadian based Senior Program Manager from Microsoft Graph team Nik Charlebois</description>
+    </item>
+    
+    <item>
       <title>Change your own profile picture as a Guest in Microsoft Teams</title>
       <link>https://pnp.github.io/community-blog/post/change-your-own-profile-picture-as-a-guest-in-microsoft-teams/</link>
       <pubDate>Tue, 06 Apr 2021 01:37:00 -0400</pubDate>
@@ -2805,11 +3147,20 @@ How does it help people?</description>
     </item>
     
     <item>
+      <title>Microsoft Graph Fundamentals learning path -- Module 2</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-graph-fundamentals-learning-path-module-2/</link>
+      <pubDate>Mon, 05 Apr 2021 04:28:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-graph-fundamentals-learning-path-module-2/</guid>
+      <description>Welcome back to my series about the Microsoft Graph Fundamentals learning path on Microsoft Learn.</description>
+    </item>
+    
+    <item>
       <title>Microsoft 365 Developer Community Call recording -- 1st of April, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-1st-of-april/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-1st-of-april/</link>
       <pubDate>Fri, 02 Apr 2021 06:27:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-1st-of-april/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-1st-of-april/</guid>
       <description>Recording of the Microsoft 365 &amp;ndash; General M365 development Special Interest Group (SIG) community call from April 1, 2021.</description>
     </item>
     
@@ -2842,11 +3193,20 @@ How does it help people?</description>
     
     <item>
       <title>CLI for Microsoft 365 v3.8</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-8/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-8/</link>
       <pubDate>Tue, 30 Mar 2021 10:00:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-8/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-8/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365 PnP Weekly - Episode 120</title>
+      <link>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-120/</link>
+      <pubDate>Tue, 30 Mar 2021 03:57:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-120/</guid>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by Italy/US-based Senior Consultant at his own company PiaSys.</description>
     </item>
     
     <item>
@@ -2896,10 +3256,10 @@ How does it help people?</description>
     
     <item>
       <title>SharePoint Framework Community Call Recording -- 25th of March, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-recording-25th-of-march-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-recording-25th-of-march-2021/</link>
       <pubDate>Fri, 26 Mar 2021 02:08:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-recording-25th-of-march-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-recording-25th-of-march-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from March 25th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -2927,7 +3287,7 @@ How does it help people?</description>
       <pubDate>Tue, 23 Mar 2021 01:46:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-119/</guid>
-      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by London-based Products and Services Director at Content+Cloud and Microsoft MVP Chris O&amp;rsquo;Brien | @ChrisO_Brien.</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by London-based Products and Services Director at Content+Cloud and Microsoft MVP Chris O&amp;rsquo;Brien.  Topics discussed in this session include: Organizational coder vs influencer, work-life balance and prioritization, the importance of sustained focus, Partner opportunity in the cloud and success tied to being agile and innovating rapidly &amp;ndash; attributes in a successful organization&amp;rsquo;s DNA!  Finally, AI and Automation &amp;ndash; options and Synapse.  Microsoft and the Community delivered 18 articles and videos this last week.  This session was recorded on Monday, March 22, 2021.</description>
     </item>
     
     <item>
@@ -2960,10 +3320,10 @@ How does it help people?</description>
     
     <item>
       <title>Microsoft 365 Developer Community Call recording -- 18th of March, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-18th-of-march/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-18th-of-march/</link>
       <pubDate>Fri, 19 Mar 2021 01:49:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/microsoft-365-developer-community-call-recording-18th-of-march/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-365-developer-community-call/microsoft-365-developer-community-call-recording-18th-of-march/</guid>
       <description>Recording of the Microsoft 365 &amp;ndash; General M365 development Special Interest Group (SIG) community call from March 18, 2021.</description>
     </item>
     
@@ -2978,10 +3338,10 @@ How does it help people?</description>
     
     <item>
       <title>CLI for Microsoft 365 v3.7</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-7/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-7/</link>
       <pubDate>Wed, 17 Mar 2021 12:22:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-7/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-7/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
     </item>
     
@@ -3005,10 +3365,10 @@ How does it help people?</description>
     
     <item>
       <title>Adaptive Cards community call -- March 2021</title>
-      <link>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-march-2021/</link>
+      <link>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-march-2021/</link>
       <pubDate>Wed, 17 Mar 2021 01:15:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/adaptive-cards-community-call-march-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/adaptive-cards-community-call/adaptive-cards-community-call-march-2021/</guid>
       <description>In this month&amp;rsquo;s community call, there is
  a quick roadmap update &amp;ndash; 9 features in development to be delivered in Schema versions 1.</description>
     </item>
@@ -3019,7 +3379,7 @@ How does it help people?</description>
       <pubDate>Tue, 16 Mar 2021 02:35:00 -0400</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-118/</guid>
-      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by are joined by Scotland-based Solution Architect, dual MVP Veronique Lengelle (CPS) | @veronicageek.</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by are joined by Scotland-based Solution Architect, dual MVP Veronique Lengelle (CPS)</description>
     </item>
     
     <item>
@@ -3060,10 +3420,10 @@ How does it help people?</description>
     
     <item>
       <title>SharePoint Framework Community Call Recording -- 11th of March, 2021</title>
-      <link>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-recording-11th-of-march-2021/</link>
+      <link>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-recording-11th-of-march-2021/</link>
       <pubDate>Fri, 12 Mar 2021 01:38:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/sharepoint-framework-community-call-recording-11th-of-march-2021/</guid>
+      <guid>https://pnp.github.io/community-blog/microsoft-viva-and-spfx-community-call/sharepoint-framework-community-call-recording-11th-of-march-2021/</guid>
       <description>SharePoint Framework Special Interest Group (SIG) bi-weekly community call recording from March 11th is now available from the Microsoft 365 Community YouTube channel at http://aka.</description>
     </item>
     
@@ -3127,7 +3487,7 @@ How does it help people?</description>
       <pubDate>Mon, 08 Mar 2021 11:46:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/post/microsoft-365-pnp-weekly-episode-117/</guid>
-      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by Belgium-based Senior Service Engineer from Microsoft - Bert Jansen | @o365bert.</description>
+      <description>In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts &amp;ndash; Vesa Juvonen (Microsoft),aldek Mastykarz (Microsoft) are joined by Belgium-based Senior Service Engineer from Microsoft - Bert Jansen.</description>
     </item>
     
     <item>
@@ -3196,10 +3556,10 @@ Microsoft Graph Toolkit is a set of reusable components working with Microsoft G
     
     <item>
       <title>CLI for Microsoft 365 v3.6</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-6/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-6/</link>
       <pubDate>Sat, 27 Feb 2021 02:51:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-6/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-6/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
     </item>
     

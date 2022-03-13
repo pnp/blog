@@ -6,7 +6,16 @@
     <description>Recent content in CLI for Microsoft 365 on Microsoft 365 Community Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jan 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/categories/cli-for-microsoft-365/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Feb 2022 12:45:00 -0400</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/categories/cli-for-microsoft-365/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CLI for Microsoft 365 v5.0</title>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-0/</link>
+      <pubDate>Mon, 28 Feb 2022 12:45:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-0/</guid>
+      <description>We&amp;rsquo;ve just published a new major version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 and SharePoint Framework projects on any platform.</description>
+    </item>
+    
     <item>
       <title>PnP PowerShell or CLI for Microsoft 365 or both or other</title>
       <link>https://pnp.github.io/community-blog/post/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/</link>
@@ -27,10 +36,10 @@
     
     <item>
       <title>CLI for Microsoft 365 v4.3</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-3/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-3/</link>
       <pubDate>Sat, 08 Jan 2022 11:19:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-3/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-3/</guid>
       <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
     </item>
     
@@ -45,10 +54,10 @@
     
     <item>
       <title>CLI for Microsoft 365 v4.2</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-2/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-2/</link>
       <pubDate>Fri, 26 Nov 2021 06:38:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-2/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-2/</guid>
       <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
     </item>
     
@@ -81,10 +90,10 @@
     
     <item>
       <title>CLI for Microsoft 365 v4.1</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-1/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-1/</link>
       <pubDate>Fri, 22 Oct 2021 04:48:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4-1/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-1/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
     </item>
     
@@ -99,10 +108,10 @@
     
     <item>
       <title>CLI for Microsoft 365 v4</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4/</link>
       <pubDate>Thu, 07 Oct 2021 12:08:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v4/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4/</guid>
       <description>We&amp;rsquo;ve just published a new major version of the CLI for Microsoft 365 with new commands &amp;amp; enhancements for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
     </item>
     
@@ -126,10 +135,10 @@
     
     <item>
       <title>CLI for Microsoft 365 v3.13</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-13/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-13/</link>
       <pubDate>Mon, 30 Aug 2021 11:35:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-13/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-13/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
     </item>
     
@@ -144,19 +153,19 @@
     
     <item>
       <title>CLI for Microsoft 365 v3.12</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-12/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-12/</link>
       <pubDate>Fri, 30 Jul 2021 02:28:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-12/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-12/</guid>
       <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
     </item>
     
     <item>
       <title>CLI for Microsoft 365 v3.11</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-11/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-11/</link>
       <pubDate>Wed, 30 Jun 2021 10:45:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-11/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-11/</guid>
       <description>[Manage Microsoft 365 and SharePoint Framework projects on any platform]</description>
     </item>
     
@@ -171,10 +180,10 @@
     
     <item>
       <title>CLI for Microsoft 365 v3.10</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-10/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-10/</link>
       <pubDate>Sun, 30 May 2021 11:31:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-10/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-10/</guid>
       <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
     </item>
     
@@ -189,10 +198,10 @@
     
     <item>
       <title>CLI for Microsoft 365 v3.9</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-9/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-9/</link>
       <pubDate>Thu, 29 Apr 2021 05:29:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-9/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-9/</guid>
       <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use</description>
     </item>
     
@@ -207,19 +216,19 @@
     
     <item>
       <title>CLI for Microsoft 365 v3.8</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-8/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-8/</link>
       <pubDate>Tue, 30 Mar 2021 10:00:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-8/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-8/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
     </item>
     
     <item>
       <title>CLI for Microsoft 365 v3.7</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-7/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-7/</link>
       <pubDate>Wed, 17 Mar 2021 12:22:00 -0400</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-7/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-7/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
     </item>
     
@@ -252,10 +261,10 @@
     
     <item>
       <title>CLI for Microsoft 365 v3.6</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-6/</link>
+      <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-6/</link>
       <pubDate>Sat, 27 Feb 2021 02:51:00 -0500</pubDate>
       
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-v3-6/</guid>
+      <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-6/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
     </item>
     

@@ -10,7 +10,7 @@
 {{ $scripts := $scripts | append (resources.Get "js/script.js" | minify) }}
 {{ $scripts := $scripts | resources.Concat "/js/script.js" | minify | fingerprint "sha512" }}
 <script crossorigin="anonymous" defer="defer" integrity="{{ $scripts.Data.Integrity }}"
-  type="application/javascript">{ { $scripts.Content | safeJS } }</script>
+  type="application/javascript">{{ $scripts.Content | safeJS }}</script>
 
 <!-- cookie -->
 {{ with site.Params.cookies }}
@@ -110,6 +110,18 @@
     tag.text(text);
   }
 </script>
+{{ if .HasShortcode "mermaid" }}
+<!-- MermaidJS support -->
+<script src="https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({ startOnLoad: true,
+  securityLevel: 'loose',
+  theme: 'neutral', 
+themeVariables: {
+  fontFamily: '"Segoe UI",-apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; ',
+  primaryTextColor: '#171717',
+}});
+</script> 
+{{ end }}
 <script type="text/javascript">
   (function (c, l, a, r, i, t, y) {
     c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };

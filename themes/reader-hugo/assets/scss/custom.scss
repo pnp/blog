@@ -292,9 +292,28 @@ h6.heading-anchor {
   color: var(--theme-text);
   display: block;
   font-weight: 600;
-  margin-bottom: 12px!important;
+  margin-bottom: 12px !important;
   margin-block-start: 0.83em;
   margin-block-end: 0.83em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
 }
+
+.mermaid svg[id^="mermaid-"] {
+  .messageText {
+    fill: var(--theme-text);
+    stroke: none !important;
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI",
+      -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  }
+
+  text.actor > tspan {
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI",
+      -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  }
+}
+
+// .mermaid .actor {
+//     stroke: hsl(259.6261682243,59.7765363128%,87.9019607843%);
+//     fill: var(--theme-primary-base)!important;
+// }

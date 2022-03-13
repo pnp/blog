@@ -1415,3 +1415,11 @@ h6.heading-anchor {
   margin-block-end: 0.83em;
   margin-inline-start: 0px;
   margin-inline-end: 0px; }
+
+.mermaid svg[id^="mermaid-"] .messageText {
+  fill: var(--theme-text);
+  stroke: none !important;
+  font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; }
+
+.mermaid svg[id^="mermaid-"] text.actor > tspan {
+  font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; }

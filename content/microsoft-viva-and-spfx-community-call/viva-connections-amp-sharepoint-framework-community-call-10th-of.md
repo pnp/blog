@@ -15,6 +15,7 @@ Viva Connections & SharePoint Framework bi-weekly community call recording from 
 
 {{< youtube G1XEqm01xrA >}}
 
+
 ## Call summary
 
 *   Tune in each Tuesday for the [Microsoft 365 platform community call](https://aka.ms/m365-dev-call).  Next call on the 15th of March @ 8 AM PT

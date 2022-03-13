@@ -1,5 +1,5 @@
 {{- $.Scratch.Add "index" slice -}}
-{{- range (where site.RegularPages "Section" "post") -}}
+{{- range (where site.RegularPages "Section" "!=" "foo") -}}
 
 {{ with .Params.images }}
 {{ range first 1 . }}

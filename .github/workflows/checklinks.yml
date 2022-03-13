@@ -15,6 +15,6 @@ jobs:
       with:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
-        folder-path: content/post
+        folder-path: content
         config-file: '.mlc_config.json'
         base-branch: main
