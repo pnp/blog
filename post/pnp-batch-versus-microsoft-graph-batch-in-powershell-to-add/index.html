@@ -256,7 +256,7 @@ closed".
 </span></span><span style=display:flex><span> 
 </span></span><span style=display:flex><span>write-host <span style=color:#e6db74>&#34;Total script run time: </span>$($totalTime.Hours)<span style=color:#e6db74> hours, </span>$($totalTime.Minutes)<span style=color:#e6db74> minutes, </span>$($totalTime.Seconds)<span style=color:#e6db74> seconds&#34;</span> -ForegroundColor Cyan
 </span></span></code></pre></div><p> </p><p>I have run the scripts using Microsoft Graph batch and PnP Batch 3 times
-to add and delete 3k items and below are the results.</p><p><img src=/content/media/pnp-batch-versus-Microsoft-Graph-batch-in-PowerShell-to-add-delete-3k-items/table.png alt=table></p><p>Microsoft Graph batch is faster to add and delete than PnP batch for 3k
+to add and delete 3k items and below are the results.</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=table><p>Microsoft Graph batch is faster to add and delete than PnP batch for 3k
 items.</p><p>However for a very large number of items, i.e. more than 10 k the
 results can be sporadic with Microsoft Graph batch unless I added a
 delay of few seconds after each batch operation which makes it less
