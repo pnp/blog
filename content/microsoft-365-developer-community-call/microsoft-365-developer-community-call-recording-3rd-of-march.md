@@ -199,11 +199,5 @@ _“Sharing is caring”_
 
 _Microsoft 365 Community (PnP) team, Microsoft - 4th of March 2022_
 
-[PnP Core SIG - 220303.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-3rd-of-march/ba-p/3246245?attachment-id=50398)
 
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/766/2/PnP%20Core%20SIG%20-%20220303.pptx)
-
-[Creating a To Do list for Microsoft Lists and SharePoint using View Formatting (1).pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-3rd-of-march/ba-p/3246245?attachment-id=50560)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/766/3/Creating%20a%20To%20Do%20list%20for%20Microsoft%20Lists%20and%20SharePoint%20using%20View%20Formatting%20(1).pptx)
-
+{{< attachments style="blue" title="Related documents">}}

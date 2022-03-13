@@ -164,7 +164,4 @@ _“Sharing is caring”_
 
 _Microsoft 365 PnP team, Microsoft - 9th of February 2022_
 
-[M365 platform - Weekly 20220208.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-8th-of-february-2022/ba-p/3138121?attachment-id=49675)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/736/2/M365%20platform%20-%20Weekly%2020220208.pptx)
-
+{{< attachments style="blue" title="Related documents">}}

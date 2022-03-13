@@ -94,6 +94,6 @@ Thank for attending the call or viewing it on demand. 
 *   Blog - [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 *   Recurrent Invite - [https://aka.ms/powerappscommunitycall](https://aka.ms/powerappscommunitycall)
 
-[Power Apps Community Call - January 2022.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/power-apps-community-call-january-2022/ba-p/3066094?attachment-id=49100)
 
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/678/1/Power%20Apps%20Community%20Call%20-%20January%202022.pptx)
+
+{{< attachments style="blue" title="Related documents">}}

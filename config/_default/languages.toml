@@ -5,12 +5,3 @@ languageCode = "en-us"
 contentDir = "content"
 weight = 1
 heading = "What Would You <br> Like To Read Today?"
-
-
-################################### French language #####################################
-[fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-heading = "Qu'aimeriez-vous <br> lire aujourd'hui?"

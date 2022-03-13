@@ -78,6 +78,5 @@ Topics covered in this month’s community call includes 2 demos:  **Make your 
 *   Call attention to your great work by using [#PowerAppsCC](https://twitter.com/hashtag/PowerAppsCC?src=hashtag_click) and [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
 *   Next call March 16th at 08:00am PST | [https://aka.ms/powerappscommunitycall](https://aka.ms/powerappscommunitycall)
 
-[Power Apps Community Call - February 2022.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/power-apps-community-call-february-2022/ba-p/3066095?attachment-id=50090)
 
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/679/1/Power%20Apps%20Community%20Call%20-%20February%202022.pptx)
+{{< attachments style="blue" title="Related documents">}}

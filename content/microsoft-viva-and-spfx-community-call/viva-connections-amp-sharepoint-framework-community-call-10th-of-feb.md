@@ -217,10 +217,5 @@ _“Sharing is caring”_
 
 _Microsoft 365 PnP team, Microsoft - 11th of February 2022_
 
-[SPFx SIG 02 10 2022 - David & Joao.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-10th-of/ba-p/3150124?attachment-id=49741)
 
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/738/2/SPFx%20SIG%2002%2010%202022%20-%20David%20%26%20Joao.pptx)
-
-[PnP SIG (JavaScript) - Weekly 20220210.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-10th-of/ba-p/3150124?attachment-id=49743)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/738/3/PnP%20SIG%20(JavaScript)%20-%20Weekly%2020220210.pptx)
+{{< attachments style="blue" title="Related documents">}}

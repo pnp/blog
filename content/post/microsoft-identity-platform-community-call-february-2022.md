@@ -42,7 +42,5 @@ Then presenter will step through 4 scenarios for accessing Azure resources witho
 *   Blogs [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 *   Recurrent Invite  [https://aka.ms/IDDevCommunityCalendar](https://aka.ms/IDDevCommunityCalendar)
 
-[Azure AD Workload identity federation.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-identity-platform-community-call-february-2022/ba-p/3185880?attachment-id=50000)
 
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/752/1/Azure%20AD%20Workload%20identity%20federation.pptx)
-
+{{< attachments style="blue" title="Related documents">}}

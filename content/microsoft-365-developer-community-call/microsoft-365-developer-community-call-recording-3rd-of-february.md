@@ -195,10 +195,5 @@ _“Sharing is caring”_
 
 _Microsoft 365 Community (PnP) team, Microsoft - 4th of February 2022_
 
-[Teams Webhook Bot.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-3rd-of-february/ba-p/3111696?attachment-id=49540)
 
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/731/2/Teams%20Webhook%20Bot.pptx)
-
-[PnP Core SIG - 220203.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-3rd-of-february/ba-p/3111696?attachment-id=49541)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/731/3/PnP%20Core%20SIG%20-%20220203.pptx)
+{{< attachments style="blue" title="Related documents">}}

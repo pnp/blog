@@ -73,5 +73,14 @@
                 "$0",
             "{{< /mermaid >}}"
         ]
-    }
+    },
+    "Shortcode -> Insert Attachments list": {
+        "scope": "markdown",
+        "description": "Attachments shortcode",
+        "prefix": [
+            "short-attachments",
+            "attachments"
+        ],
+        "body": "{{< attachments title=\"${1:title}\" >}}"
+    },
 }

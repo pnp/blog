@@ -222,15 +222,6 @@ _“Sharing is caring”_
 
 _Microsoft 365 PnP team, Microsoft - 28th of January 2022_
 
-[SPFx Design Intro to Custom Properties part 4.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-27th-of/ba-p/3074002?attachment-id=49261)
 
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/712/2/SPFx%20Design%20Intro%20to%20Custom%20Properties%20part%204.pptx)
 
-[PnP SIG (JavaScript) - Weekly 20220127.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-27th-of/ba-p/3074002?attachment-id=49262)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/712/3/PnP%20SIG%20(JavaScript)%20-%20Weekly%2020220127.pptx)
-
-[SharePointCRUDCommunityCall-Demo.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-27th-of/ba-p/3074002?attachment-id=49263)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/712/4/SharePointCRUDCommunityCall-Demo.pptx)
-
+{{< attachments style="blue" title="Related documents">}}

@@ -218,14 +218,5 @@ _“Sharing is caring”_
 
 _Microsoft 365 PnP team, Microsoft - 25th of February 2022_
 
-[Change Page Layout-SPFx Extension.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-24th-of/ba-p/3168855?attachment-id=50151)
 
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/745/2/Change%20Page%20Layout-SPFx%20Extension.pptx)
-
-[Monitor SharePoint usage with Microsoft Clarity.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-24th-of/ba-p/3168855?attachment-id=50152)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/745/3/Monitor%20SharePoint%20usage%20with%20Microsoft%20Clarity.pptx)
-
-[PnP SIG (JavaScript) - Weekly 20220224.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-24th-of/ba-p/3168855?attachment-id=50153)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/745/4/PnP%20SIG%20(JavaScript)%20-%20Weekly%2020220224.pptx)
+{{< attachments style="blue" title="Related documents">}}

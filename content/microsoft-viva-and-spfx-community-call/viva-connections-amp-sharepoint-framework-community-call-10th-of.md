@@ -209,16 +209,5 @@ _“Sharing is caring”_
 
 _Microsoft 365 PnP team, Microsoft - 11th of March 2022_
 
-[PnP SIG (JavaScript) - Weekly 20220310.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-10th-of/ba-p/3253901?attachment-id=50548)
 
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/776/2/PnP%20SIG%20(JavaScript)%20-%20Weekly%2020220310.pptx)
-
-[PnP\_10\_03\_2022\_PnP ACE MyEmails.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-10th-of/ba-p/3253901?attachment-id=50549)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/776/3/PnP_10_03_2022_PnP%20ACE%20MyEmails.pptx)
-
-[10.03.2022 - Getting started with Microsoft Graph Toolkit and SharePoint Framework.pdf](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-10th-of/ba-p/3253901?attachment-id=50550)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/776/4/10.03.2022%20-%20Getting%20started%20with%20Microsoft%20Graph%20Toolkit%20and%20SharePoint%20Framework.pdf)
-
-
+{{< attachments style="blue" title="Related documents">}}

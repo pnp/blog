@@ -64,8 +64,4 @@ The following topics are covered in this month’s community call: **Adaptive Ca
 *   Recurrent Invite - [https://aka.ms/adaptivecardscommunitycall](https://aka.ms/adaptivecardscommunitycall)
 *   Next call – February 10th at 09:00am PST
 
-[Adaptive Cards January 2022 Deck.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/adaptive-cards-community-call-january-2022/ba-p/3065008?attachment-id=49239)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/673/1/Adaptive%20Cards%20January%202022%20Deck.pptx)
-
-
+{{< attachments style="blue" title="Related documents">}}

@@ -150,11 +150,4 @@ _“Sharing is caring”_
 
 _Microsoft 365 PnP team, Microsoft - 9th of March 2022_
 
-[modern-app-catalog-community-call-update-220308.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-8th-of-march-2022/ba-p/3250519?attachment-id=50479)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/771/2/modern-app-catalog-community-call-update-220308.pptx)
-
-[M365 platform - Weekly 20220308.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-8th-of-march-2022/ba-p/3250519?attachment-id=50489)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/771/3/M365%20platform%20-%20Weekly%2020220308.pptx)
-
+{{< attachments style="blue" title="Related documents">}}

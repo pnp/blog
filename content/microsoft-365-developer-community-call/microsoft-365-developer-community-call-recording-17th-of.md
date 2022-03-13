@@ -213,15 +213,5 @@ _“Sharing is caring”_
 
 _Microsoft 365 Community (PnP) team, Microsoft - 18th of February 2022_
 
-[PnP Core SIG - 220217.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-17th-of/ba-p/3179507?attachment-id=49962)
 
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/747/2/PnP%20Core%20SIG%20-%20220217.pptx)
-
-[TC\_CardsStudioPNP.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-17th-of/ba-p/3179507?attachment-id=49963)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/747/3/TC_CardsStudioPNP.pptx)
-
-[Bringing in your own data to Microsoft Search.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-17th-of/ba-p/3179507?attachment-id=49964)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/747/4/Bringing%20in%20your%20own%20data%20to%20Microsoft%20Search.pptx)
-
+{{< attachments style="blue" title="Related documents">}}

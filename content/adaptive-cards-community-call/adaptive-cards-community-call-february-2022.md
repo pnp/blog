@@ -53,7 +53,4 @@ The following topics are covered in this month’s community call.  Demo:  **A
 *   Recurrent Invite - [https://aka.ms/adaptivecardscommunitycall](https://aka.ms/adaptivecardscommunitycall)
 *   Next call – March 10th at 09:00am PST
 
-[Adaptive Cards February 2022 Deck.pptx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/adaptive-cards-community-call-february-2022/ba-p/3152216?attachment-id=49770)
-
-[](/gxcuf89792/attachments/gxcuf89792/Microsoft365PnPBlog/739/1/Adaptive%20Cards%20February%202022%20Deck.pptx)
-
+{{< attachments style="blue" title="Related documents">}}
