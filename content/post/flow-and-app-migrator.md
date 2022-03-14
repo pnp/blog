@@ -14,7 +14,7 @@ type: "regular"
 
 If you are a Power App or Power Automate developer, chances are you had to move your creations between SharePoint sites or even Microsoft 365 tenants. At the very least, you were probably wondering about the easiest ways of doing it. Perhaps, you were trying to establish separate development, staging and production environments. Or you wanted to share your solution with a client or a friendly department within your organization.
 
-If you are using [Solutions](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/solutions-overview) and [Dataverse](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-intro) for your development, chances are these migrations are not very difficult. A combination of [environment variables](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/environmentvariables) and the **Dataverse** tables, takes care of most complexities including packaging data sources and parametrization
+If you are using [Solutions](https://docs.microsoft.com/powerapps/maker/data-platform/solutions-overview) and [Dataverse](https://docs.microsoft.com/powerapps/maker/data-platform/data-platform-intro) for your development, chances are these migrations are not very difficult. A combination of [environment variables](https://docs.microsoft.com/powerapps/maker/data-platform/environmentvariables) and the **Dataverse** tables, takes care of most complexities including packaging data sources and parametrization
 
 This is why it is recommended to always develop apps and flows as part of a **solution** as opposed to standalone ones. **Solutions** allow us to expose all configurations via environment variables.
 
