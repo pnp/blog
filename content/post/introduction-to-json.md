@@ -156,7 +156,7 @@ Unicode characters in your JSON.
       "name": "Parker",
       "mood": "😀"
     }
-
+```
 
 ## Numbers
 
@@ -177,12 +177,12 @@ characters `7` and `5` rather than a number.
 Numbers are in decimal, and can contain a sign, decimal point, and
 exponent such as:
 
-
+```JSON
     {
       "quills": 3.0e+4,
       "damage": -10
     }
-
+```
 
 ## Boolean (True or False) 
 
@@ -258,6 +258,7 @@ nicknames.
       "name": "Penny",
       "nicknames": []
     }
+```
 
 
 Arrays of objects are especially useful. For example, suppose you wanted
@@ -316,6 +317,7 @@ practice, dates are passed in string values, but different applications
 use different date formats, which can be a bit maddening at times. The
 Microsoft Graph API uses [ISO 8601
 format](https://www.w3.org/TR/NOTE-datetime).
+
 Images and other binary objects are rarely included in JSON, but if you
 wanted to do that you'd need to turn them into strings somehow, perhaps
 by [Base64 encoding](https://en.wikipedia.org/wiki/Base64) them.
@@ -605,5 +607,6 @@ Learning to work with JSON is an important skill for both low-code and
 full stack developers, as well as for many IT Pro tasks. Here's hoping
 this article has helped you to understand and use JSON in your next
 project!
+
 (This article is [cross-posted
-here](https://bob1german.com/2021/01/11/introduction-to-json)
+here](https://bob1german.com/2021/01/11/introduction-to-json))
