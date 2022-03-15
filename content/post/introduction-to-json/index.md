@@ -14,10 +14,11 @@ type: "epic"
 It seems like JSON is everywhere these days. [Adaptive cards](https://adaptivecards.io/), [Microsoft Teams app manifests](https://docs.microsoft.com/microsoftteams/platform/resources/schema/manifest-schema?WT.mc_id=m365-00000-rogerman), and [SharePoint list formats](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-00000-rogerman) are all written in JSON. And JSON is the de-facto standard for REST APIs like [Microsoft Graph](https://docs.microsoft.com/graph/overview?WT.mc_id=m365-00000-rogerman); you can't make a call without it. [Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/functions/function-json?WT.mc_id=m365-00000-rogerman), [Power Automate](https://docs.microsoft.com/power-automate/data-operations?WT.mc_id=m365-00000-rogerman), and [Power BI](https://docs.microsoft.com/power-query/connectors/json?WT.mc_id=m365-00000-rogerman) can all handle JSON too. It really is everywhere except, it seems, in older products which were written when XML was king.
 
 The intent of this article is to teach you what you need to know to use JSON in typical IT, low-code, or JavaScript development scenarios. It's organized in order from simple to complex; if you don't need some sections, just skip over them; you can always come back and read them later!
-{{< image alt="AdaptiveCardJSON.png" src="images/blog/introduction-to-json/AdaptiveCardJSON.png" >}}
+
+![Two examples of JSON in Adaptive Card Designer](images/AdaptiveCardJSON.png)
 
 
- Working with JSON in the [Adaptive Card
+Working with JSON in the [Adaptive Card
 Designer](https://adaptivecards.io/designer/ "Adaptive Card Designer")
 
 ## What is JSON? 
@@ -612,3 +613,4 @@ project!
 
 (This article is cross-posted
 at [https://bob1german.com](https://bob1german.com/2021/01/11/introduction-to-json))
+

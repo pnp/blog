@@ -1,0 +1,5 @@
+<h{{ .Level }} id="{{ .Anchor | safeURL }}" class="heading-anchor">{{ .Text | safeHTML }}
+    {{- if and (ge .Level 2) (le .Level 4) }}{{" " -}}
+    <a class="anchor-link" href="#{{ .Anchor | safeURL }}" aria-labelledby="{{ .Anchor | safeURL }}"></a>
+    {{- end -}}
+</h{{ .Level }}>
