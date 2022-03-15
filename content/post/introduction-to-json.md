@@ -381,8 +381,10 @@ one `"comment"` if you're daring. This is valid JSON:
 
 There are a lot of web sites out there that will format and validate
 your JSON; [this one](https://jsonformatter.org/) does both.
-> NOTE: Remember to remove any personal or confidential data before
-> using online JSON tools!
+
+{{< notice warning>}}
+Remember to remove any personal or confidential data before using online JSON tools!
+{{< /notice >}}
 
 ## Schema support 
 
@@ -558,7 +560,7 @@ into JavaScript. This is preferable to using `eval` which is prone to
 security issues.
 To convert JSON to a JavaScript object:
 
-```{.highlight .highlight-source-js}
+```javascript
     var json = '{"name": "Parker"}';
     var o = JSON.parse(json);
 
@@ -567,7 +569,7 @@ To convert JSON to a JavaScript object:
 
 To convert a JavaScript object to JSON:
 
-```{.highlight .highlight-source-js}
+```javascript
     var o = new Object();
     o.name = "Parker";
     var json = JSON.stringify(o);
@@ -578,7 +580,7 @@ To convert a JavaScript object to JSON:
 When you make a REST call, you end up using JSON as well. Here's a call
 to the Microsoft Graph:
 
-```{.highlight .highlight-source-js}
+```javascript
     // Assume Parker has logged in and a variable called accessToken contains
     // a valid Azure AD access token for Parker to call the Microsoft Graph
     const response = await fetch("https://graph.microsoft.com/v1.0/me/",
@@ -597,7 +599,7 @@ to the Microsoft Graph:
 ```
 
 Notice that to ask the service for a JSON response, the HTTP header is
-set to accept "application/json", which is the MIME type for JSON. And
+set to accept `application/json`, which is the MIME type for JSON. And
 the `response` object returned by `fetch()` has a `json()` function
 built right in to turn the returned JSON into a JavaScript object.
 
@@ -608,5 +610,5 @@ full stack developers, as well as for many IT Pro tasks. Here's hoping
 this article has helped you to understand and use JSON in your next
 project!
 
-(This article is [cross-posted
-here](https://bob1german.com/2021/01/11/introduction-to-json))
+(This article is cross-posted
+at [https://bob1german.com](https://bob1german.com/2021/01/11/introduction-to-json))

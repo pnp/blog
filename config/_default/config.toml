@@ -19,6 +19,8 @@ disableLanguages = ["fr"] # desable language from here
 quality = 100
 
 
+
+
 ############################# Outputs ##############################
 [outputs]
 home = ["HTML", "RSS", "JSON", "WebAppManifest"]
