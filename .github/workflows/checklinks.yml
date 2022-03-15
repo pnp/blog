@@ -1,20 +1,22 @@
 name: Check Markdown links
 
-on: 
-  schedule:
-  # Run everyday at 5:00 AM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
-  - cron: "0 5 * * *"
+
+
+on:  
   workflow_dispatch:
- 
+  schedule:
+  - cron: '0 4 * * 0'
+name: Check markdown links
 jobs:
-  markdown-link-check:
+  linkChecker:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
-      with:
-        use-quiet-mode: 'yes'
-        use-verbose-mode: 'yes'
-        folder-path: content
-        config-file: '.mlc_config.json'
-        base-branch: main
+      - uses: actions/checkout@v2
+      - name: Link Checker
+        uses: peter-evans/link-checker@v1
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v2
+        with:
+          title: Link Checker Report
+          content-filepath: ./link-checker/out.md
+          labels: report, automated issue
