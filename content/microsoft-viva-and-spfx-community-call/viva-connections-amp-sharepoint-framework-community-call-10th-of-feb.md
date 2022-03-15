@@ -9,6 +9,8 @@ images:
 tags: ["Adaptive Card Extensions", "ACEs", "extensions", "Microsoft 365", "Office 365", "SharePoint", "SharePoint Framework", "Viva Connections"]
 type: "regular"
 summary: "Viva Connections & SharePoint Framework bi-weekly community call recording from February 10th is now available from the Microsoft 365 Community YouTube channel at http://aka.ms/m365pnp/videos. You can use SharePoint Framework for building solutions for Microsoft Teams and for SharePoint Online."
+videos:
+- https://www.youtube.com/watch?v=6efA9Du1KkQ
 ---
 
 Viva Connections & SharePoint Framework bi-weekly community call recording from February 10th is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp/videos). You can use SharePoint Framework for building solutions for **Microsoft Teams** and for **SharePoint** Online.

@@ -8,6 +8,8 @@ images:
 - images/blog/office-add-ins-community-call-february-9-2022/office-add-ins-Thumb Feb 2022.png
 tags: ["Add-ins","Microsoft 365","Office 365"]
 type: "regular"
+videos:
+- https://www.youtube.com/watch?v=O47gN9P8KAI
 ---
 
 ## Call summary

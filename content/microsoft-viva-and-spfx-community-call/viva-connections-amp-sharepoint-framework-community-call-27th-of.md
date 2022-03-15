@@ -9,6 +9,8 @@ images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-27th-of/recording-27th-jan.png
 tags: ["Adaptive Cards", "Add-ins", "extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework", "Viva Connections"]
 type: "regular"
+videos:
+- https://www.youtube.com/watch?v=WkFVkFKPDMc
 ---
 
 Viva Connections & SharePoint Framework bi-weekly community call recording from January 27th is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp/videos). You can use SharePoint Framework for building solutions for **Microsoft Teams** and for **SharePoint** Online.

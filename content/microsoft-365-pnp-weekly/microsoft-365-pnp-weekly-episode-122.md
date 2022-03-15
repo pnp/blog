@@ -9,6 +9,8 @@ images:
 tags: []
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by a Partner at the US-based consultancy PAIT Group and Microsoft 365 MVP Mark Rackley."
+videos:
+- https://www.youtube.com/watch?v=Pz9OpquGDfU
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by a Partner at the US-based consultancy PAIT Group and Microsoft 365 MVP [Mark Rackley](http://twitter.com/mrackley) | @mrackley. 

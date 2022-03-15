@@ -8,6 +8,8 @@ images:
 - images/blog/microsoft-365-platform-call-22nd-of-february-2022/recording-22nd-feb.png
 tags: ["Add-ins","extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework"]
 type: "regular"
+videos:
+- https://www.youtube.com/watch?v=627L2Lz5K3w
 ---
 
 Microsoft 365 Platform Community Call - weekly community call recording from February 22nd, is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 

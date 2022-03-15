@@ -8,6 +8,8 @@ images:
 - images/blog/microsoft-365-developer-community-call-recording-30th-of/recording-30th-september.png
 tags: []
 type: "regular"
+videos:
+- https://www.youtube.com/watch?v=y0PiVmB1gz4
 ---
 
 ## Call summary

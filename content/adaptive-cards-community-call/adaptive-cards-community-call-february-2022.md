@@ -9,6 +9,8 @@ images:
 - images/blog/adaptive-cards-community-call-february-2022/adaptive-cards-February Thumb.png
 tags: ["Adaptive Cards", "Community Call","Developer","extensions", "Microsoft 365"]
 type: "regular"
+videos:
+- https://www.youtube.com/watch?v=-Y7_nNwC20w
 ---
 
 ## Call summary

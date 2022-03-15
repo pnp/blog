@@ -8,29 +8,15 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-120/Thumb-Ep120.png
 tags: []
 type: "regular"
+videos:
+- https://www.youtube.com/watch?v=aOqPUHh7beY
 ---
 
-In this installment of the weekly discussion revolving around the latest
-news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
-@vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
-joined by Italy/US-based Senior Consultant at his own company
-PiaSys.com, PnP Team member, and Microsoft MVP [Paolo
-Pialorsi](http://twitter.com/paolopia) | @paolopia. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Italy/US-based Senior Consultant at his own company PiaSys.com, PnP Team member, and Microsoft MVP [Paolo Pialorsi](http://twitter.com/paolopia) | @paolopia. 
 
-Topics discussed in this session include the SharePoint 20th
-anniversary party, changes in PnP since Paolo's last appearance as a
-guest on the show 2 years ago, PnP Provisioning Engine, the value of the
-PnP Core SDK, and the scoop on Paolo's weekly video tutorials.  A very
-interesting deep dive on the approach behind PnP Sites Core library (Now
-PnP Core SDK -- the Modern developer experience for building apps for
-SPO and Microsoft Teams in .NET with a Microsoft Graph first, falling
-back to SharePoint Rest APIs approach). 
+Topics discussed in this session include the SharePoint 20th anniversary party, changes in PnP since Paolo's last appearance as a guest on the show 2 years ago, PnP Provisioning Engine, the value of the PnP Core SDK, and the scoop on Paolo's weekly video tutorials.  A very interesting deep dive on the approach behind PnP Sites Core library (Now PnP Core SDK -- the Modern developer experience for building apps for SPO and Microsoft Teams in .NET with a Microsoft Graph first, falling back to SharePoint Rest APIs approach). 
 
-The trio wraps up pondering the future of SPFx -- perhaps a new name?,
-server-side capabilities?, v2.00?.   In the last week Microsoft and
-Community members delivered 22 articles and videos.  
+The trio wraps up pondering the future of SPFx -- perhaps a new name?, server-side capabilities?, v2.00?.   In the last week Microsoft and Community members delivered 22 articles and videos.  
 
 This episode was recorded on Monday, March 29, 2021.
 

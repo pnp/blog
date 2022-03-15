@@ -9,6 +9,8 @@ images:
 tags: ["Add-ins", "extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework"]
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by London, UK-based SharePoint developer architect and MVP, Anoop Tatti (Content+Cloud)"
+videos:
+- https://www.youtube.com/watch?v=SLmJN7_knZY
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by London, UK-based SharePoint developer architect and MVP, [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells 

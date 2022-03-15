@@ -9,6 +9,8 @@ images:
 tags: []
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by are joined Canadian based Senior Program Manager from Microsoft Graph team Nik Charlebois"
+videos:
+- https://www.youtube.com/watch?v=x9N6PfGN5QI
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by are joined Canadian based Senior Program Manager from Microsoft Graph team [Nik Charlebois](https://twitter.com/NikCharlebois) | @NikCharlebois. 

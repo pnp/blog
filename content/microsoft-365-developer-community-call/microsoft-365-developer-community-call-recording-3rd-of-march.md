@@ -9,6 +9,8 @@ images:
 tags: []
 type: "regular"
 summary: "One location the Microsoft 365 tenant – script samples gallery (140 scenarios and 198 scripts) now integrated into Sample Solution Gallery!  Sign up and attend an AMA and other events this month hosted by Sharing is Caring.  Power Platform Samples – First Time Contributor – Tuesday, March 8th, 2:00pm PT and AMA (Ask Me Anything) – PnPjs – Tuesday, March 15th, 9am PST.  Get the recognition you deserve, sign up for the PnP Recognition Program.  Join the Microsoft 365 platform call on 8th of March, @ 8 AM PT.  Recently refreshed the MGT playground!   To see current releases and latest updates/nightly builds, access the Repos via the links in table below.  There were 6 new/updated script, 3 Teams and 1Power Platform samples delivered this week."
+videos:
+- https://www.youtube.com/watch?v=INw3zXlT5qc
 ---
 
 

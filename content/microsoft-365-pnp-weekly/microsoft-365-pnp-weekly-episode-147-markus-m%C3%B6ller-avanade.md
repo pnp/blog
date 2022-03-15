@@ -8,7 +8,8 @@ images:
 - images/blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/Thumb-Ep147-December1322.png
 tags: []
 type: "regular"
-
+videos:
+- https://www.youtube.com/watch?v=a7A0KmGzLvk
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365 hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen,[Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Munich, Germany-based consultant and MVP, [Markus Möller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0. 

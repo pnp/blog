@@ -9,6 +9,8 @@ images:
 tags: []
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by London-based Products and Services Director at Content+Cloud and Microsoft MVP Chris O'Brien.  Topics discussed in this session include: Organizational coder vs influencer, work-life balance and prioritization, the importance of sustained focus, Partner opportunity in the cloud and success tied to being agile and innovating rapidly -- attributes in a successful organization's DNA!  Finally, AI and Automation -- options and Synapse.  Microsoft and the Community delivered 18 articles and videos this last week.  This session was recorded on Monday, March 22, 2021."
+videos:
+- https://www.youtube.com/watch?v=Q0T2IDY0vUQ
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by London-based Products and Services Director at Content+Cloud and Microsoft MVP [Chris O'Brien](http://twitter.com/ChrisO_Brien) | @ChrisO_Brien.  Topics discussed in this session include: Organizational coder vs influencer, work-life balance and prioritization, the importance of sustained focus, Partner opportunity in the cloud and success tied to being agile and innovating rapidly -- attributes in a successful organization's DNA!  Finally, AI and Automation -- options and Synapse.  Microsoft and the Community delivered 18 articles and videos this last week.  This session was recorded on Monday, March 22, 2021. 

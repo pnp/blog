@@ -9,6 +9,8 @@ images:
 tags: ["extensions","Microsoft 365", "Office 365","SharePoint","SharePoint Framework"]
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by UK-based SharePoint developer, architect and MVP, Paul Bullock"
+videos:
+- https://www.youtube.com/watch?v=lg_Z09xQ0JE
 ---
 
 

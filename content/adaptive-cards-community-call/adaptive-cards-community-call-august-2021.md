@@ -8,6 +8,8 @@ images:
 - images/blog/adaptive-cards-community-call-august-2021/900x506-AugustTHumb.png
 tags: []
 type: "regular"
+videos:
+- https://www.youtube.com/watch?v=84IvNDDlehc
 ---
 
 The following topics are covered in this month's community call:

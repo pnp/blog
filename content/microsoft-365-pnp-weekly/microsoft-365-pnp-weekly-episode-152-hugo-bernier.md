@@ -9,6 +9,8 @@ images:
 tags: ["extensions","Microsoft 365", "Office 365","SharePoint","SharePoint Framework"]
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, Hugo Bernier (Microsoft)."
+videos:
+- https://www.youtube.com/watch?v=ozhbLz1gMi0
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) | @bernierh. 

@@ -9,6 +9,8 @@ images:
 tags: ["Add-ins", "extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework"]
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Portugal based, technologist, author, MVP Office Dev and Windows Insider, João Ferreira (Beezy)."
+videos:
+- https://www.youtube.com/watch?v=jzNzUyk71MA
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Portugal based, technologist, author, MVP Office Dev and Windows Insider, [João Ferreira](http://twitter.com/joao12ferreira) (Beezy) | @Joao12Ferreira.

@@ -9,6 +9,8 @@ images:
 tags: ["Add-ins","extensions","Microsoft 365", "Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework"]
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by London/India - based Developer, Product Owner, Technical Architect, MVP, Vardhaman Deshpande (Valo Solutions)."
+videos:
+- https://www.youtube.com/watch?v=YKHLl87LhxA
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by London/India - based Developer, Product Owner, Technical Architect, MVP, [Vardhaman Deshpande](http://twitter.com/vrdmn) (Valo Solutions) | @vrdmn.

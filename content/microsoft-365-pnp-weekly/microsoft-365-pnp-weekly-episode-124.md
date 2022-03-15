@@ -9,6 +9,8 @@ images:
 tags: []
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by MVP, PnP Team member, and Architect at US-based Sympraxis Consulting Emily Mancini.   Topics discussed in this session include:  Sharing is Caring engagement model, Aligning and addressing the client's business needs with capabilities of owned technologies, i.e., Microsoft 365 for making changes with the business and not to the business!   Conscious/unconscious usage of the Microsoft 365 Maturity Model for business ROI maximization.   Ideas for increasing diversity in IT personnel, Imposter Syndrome, Tech vs Outcome and Teams or Yammer.   "
+videos:
+- https://www.youtube.com/watch?v=TXqSa4F9uzU
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by MVP, PnP Team member, and Architect at US-based Sympraxis Consulting [Emily Mancini](https://twitter.com/EEMancini) |@EEMancini.   Topics discussed in this session include:  Sharing is Caring engagement model, Aligning and addressing the client's business needs with capabilities of owned technologies, i.e., Microsoft 365 for making changes with the business and not to the business!   Conscious/unconscious usage of the Microsoft 365 Maturity Model for business ROI maximization.   Ideas for increasing diversity in IT personnel, Imposter Syndrome, Tech vs Outcome and Teams or Yammer.   

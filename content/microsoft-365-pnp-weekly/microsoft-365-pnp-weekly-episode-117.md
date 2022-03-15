@@ -9,6 +9,8 @@ images:
 tags: []
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft),aldek Mastykarz (Microsoft) are joined by Belgium-based Senior Service Engineer from Microsoft - Bert Jansen."
+videos:
+- https://www.youtube.com/watch?v=c5Kq-nCS7fM
 ---
 
 In this installment of the weekly discussion revolving around the latest

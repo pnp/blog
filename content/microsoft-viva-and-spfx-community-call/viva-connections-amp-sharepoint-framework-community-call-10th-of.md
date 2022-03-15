@@ -9,6 +9,8 @@ images:
 tags: ["ACEs", "Add-ins", "extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework", "Viva Connections"]
 type: "regular"
 summary: "Latest news from Microsoft engineering on Microsoft 365 topics; Three demos: Siddharth Vaghasia -- My Emails Viva Connections Adaptive Card Extension, Yves Habersaat -- Getting started with Microsoft Graph Toolkit and SharePoint Framework, Paolo Pialorsi -- Using Microsoft Graph APIs in Viva Connection ACEs"
+videos:
+- https://www.youtube.com/watch?v=G1XEqm01xrA
 ---
 
 Viva Connections & SharePoint Framework bi-weekly community call recording from March 10th is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp/videos). You can use SharePoint Framework for building solutions for **Microsoft Teams** and for **SharePoint** Online.

@@ -9,6 +9,8 @@ images:
 tags: []
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen, Waldek Mastykarz are joined by Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph, Rabia Williams"
+videos:
+- https://www.youtube.com/watch?v=Z9ml69_W30U
 ---
 
 

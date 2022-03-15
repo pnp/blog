@@ -9,6 +9,8 @@ images:
 - images/blog/microsoft-365-platform-call-1st-of-march-2022/recording-1st-march.png
 tags: ["Add-ins", "extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework"]
 type: "regular"
+videos:
+- https://www.youtube.com/watch?v=fUElSw9OQN8
 ---
 
 

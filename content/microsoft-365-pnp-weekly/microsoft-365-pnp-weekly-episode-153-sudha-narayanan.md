@@ -9,6 +9,8 @@ images:
 tags: ["extensions","Microsoft 365", "Office 365","SharePoint","SharePoint Framework"]
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by Redmond, Washington, US-based Senior Program Manager in the OneDrive and SharePoint organization responsible of the Power Platform integration, Sudha Narayanan (Microsoft)."
+videos:
+- https://www.youtube.com/watch?v=QZBhffOlgeE
 ---
 
 
