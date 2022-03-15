@@ -32,22 +32,10 @@ jobs:
         with:
           files: content/**/*.md
           config_file: ".markdownlint.json"
-      # - name: Run link check
-      #   uses: gaurav-nelson/github-action-markdown-link-check@v1
-      #   with:
-      #     folder-path: content
-      #     use-quiet-mode: 'yes'
-      #     use-verbose-mode: 'no'
-      #     check-modified-files-only: 'yes'
-      #     config-file: '.markdownlint.json'
-      #     base-branch: main
       - name: Link Checker
-        uses: peter-evans/link-checker@v1.2.2
+        uses: lycheeverse/lychee-action@v1.3.2
         with:
-          args: -v -r content
-      # - name: Create Issue From File
-      #   uses: peter-evans/create-issue-from-file@v2
-      #   with:
-      #     title: Link Checker Report
-      #     content-filepath: ./link-checker/out.md
-      #     labels: report, automated issue
+          fail: true
+          args: --verbose --no-progress './content/**/*.md'
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
