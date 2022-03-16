@@ -36,6 +36,6 @@ jobs:
         uses: lycheeverse/lychee-action@v1.3.2
         with:
           fail: true
-          args: --verbose --no-progress './content/**/*.md'
+          args: --no-progress './content/**/*.md' --accept 200,201,403,429,401 --exclude-file ./.lychee/.lycheeignore
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
