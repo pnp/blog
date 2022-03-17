@@ -3,10 +3,10 @@ title: "Migrate Cloud Flows and Canvas Apps across tenants"
 date: 2022-03-10T22:29:00-04:00
 author: "Denis Molodtsov"
 githubname: zerg00s
-categories: ["Tooling"]
+categories: ["Community post"]
 images:
 - images/blog/flow-and-app-migrator/flow-migrator.jpg
-tags: ["Power Apps", "Power Automate", "Flow", "SharePoint", "Solution", "DataVerse"]
+tags: ["Power Apps", "Power Automate", "Flow", "SharePoint", "DataVerse"]
 type: "regular"
 ---
 

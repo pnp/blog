@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 14th of December, 2021"
 date: 2021-12-15T01:39:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-14th-of-december-2021/recording-14th-dec.png
 tags: []
@@ -106,6 +106,7 @@ Thank you for joining the call.  It is great to see over 200 attendees
 on this call today.
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Script buttons for Office Scripts --** what are Office Scripts,
@@ -137,7 +138,9 @@ Demos delivered in this session
     for user information.    
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.

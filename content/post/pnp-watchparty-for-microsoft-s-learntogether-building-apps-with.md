@@ -3,7 +3,7 @@ title: "PnP WatchParty for Microsoft's 'LearnTogether Building apps with Microso
 date: 2021-09-13T08:40:00-04:00
 author: "Luise Freese"
 githubname: LuiseFreese
-categories: ["Microsoft 365 community"]
+categories: ["Community post"]
 images:
 
 tags: []

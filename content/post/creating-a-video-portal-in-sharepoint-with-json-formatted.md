@@ -3,7 +3,7 @@ title: "Creating a video portal in SharePoint with JSON formatted document libra
 date: 2021-12-03T02:18:00-05:00
 author: "Anand Ragav"
 githubname: anandragav
-categories: ["SharePoint"]
+categories: ["Community post"]
 images:
 - images/blog/creating-a-video-portal-in-sharepoint-with-json-formatted/AnandVRagav_1-1638227104052.png
 tags: []

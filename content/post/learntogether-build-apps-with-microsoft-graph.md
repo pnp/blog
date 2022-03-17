@@ -3,7 +3,7 @@ title: "LearnTogether: Build Apps with Microsoft Graph 🦒"
 date: 2021-04-15T08:40:00-04:00
 author: "Luise Freese"
 githubname: LuiseFreese
-categories: ["Microsoft Graph"]
+categories: ["Community post"]
 images:
 
 tags: []

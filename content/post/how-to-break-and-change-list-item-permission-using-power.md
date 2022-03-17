@@ -3,7 +3,7 @@ title: "How to break and change list item permission using Power Automate?"
 date: 2021-06-29T01:00:00-04:00
 author: "Chandani Prajapati"
 githubname: chandaniprajapati
-categories: ["SharePoint", "Power Automate"]
+categories: ["Community post"]
 images:
 - images/blog/how-to-break-and-change-list-item-permission-using-power/Step2.png
 tags: []

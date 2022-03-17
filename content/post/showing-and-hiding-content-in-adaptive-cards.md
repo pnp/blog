@@ -7,7 +7,7 @@ githubname: "tposzytek"
 categories: []
 images:
 - images/blog/showing-and-hiding-content-in-adaptive-cards/image.png
-tags: ["Adaptive Cards","Only show when","ShowCard","Templating language","ToggleVisibility"]
+tags: ["Adaptive Cards", "Templating language"]
 type: "regular"
 ---
 

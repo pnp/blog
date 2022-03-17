@@ -3,7 +3,7 @@ title: "Get started with Adaptive Cards"
 date: 2021-02-10T11:47:00-05:00
 author: "Tomasz Poszytek"
 githubname: tposzytek
-categories: ["Adaptive Cards"]
+categories: ["Community post"]
 images:
 - images/blog/get-started-with-adaptive-cards/TomaszPoszytek_0-1610369598416.png
 tags: []

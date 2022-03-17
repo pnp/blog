@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 28th of October, 202
 date: 2021-10-29T05:40:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-28th-of-october/recording-28th-oct.png
 tags: []
@@ -123,6 +123,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
         [@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
 
 -- Thank you :clapping_hands:
+
 ## Together Mode!
 
 {{< image alt="211028-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-28th-of-october/211028-together-mode.gif" >}}
@@ -132,6 +133,7 @@ Mode photo?  Mention during call about people \"beaming up/down\" to the
 theater today?  
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Configuration-as-Code for Microsoft 365 with Microsoft365DSC** Desire State Configuration -- a PowerShell Module that
@@ -165,7 +167,9 @@ Demos delivered in this session
 
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates -[ Bert

@@ -3,7 +3,7 @@ title: "SharePoint community call - June 8th, 2021"
 date: 2021-06-09T05:06:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft Viva and SPFx community call recordings"]
+categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/blog/sharepoint-community-call-june-8th-2021/210608-together-mode.gif
 tags: []

@@ -3,7 +3,7 @@ title: "Hiding the SharePoint page title with Power Automate"
 date: 2021-09-14T06:30:00-04:00
 author: "Michel Mendes"
 githubname: michelcarlo
-categories: ["SharePoint", "Power Automate"]
+categories: ["Community post"]
 images:
 - images/blog/hiding-the-sharepoint-page-title-with-power-automate/page-title.png
 tags: []

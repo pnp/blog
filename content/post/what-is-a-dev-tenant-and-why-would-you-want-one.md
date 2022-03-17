@@ -3,7 +3,7 @@ title: 'What is a "Dev Tenant" and why would you want one?'
 date: 2021-01-11T06:31:00-05:00
 author: "Julie Turner"
 githubname: juliemturner
-categories: ["Tooling"]
+categories: ["Community post"]
 images:
 - images/blog/what-is-a-dev-tenant-and-why-would-you-want-one/SampleData.png
 tags: []

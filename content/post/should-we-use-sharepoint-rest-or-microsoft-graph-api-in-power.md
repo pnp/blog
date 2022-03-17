@@ -3,7 +3,7 @@ title: "Should we use SharePoint REST or Microsoft Graph API in Power Automate?"
 date: 2021-03-03T10:00:00-05:00
 author: "Luise Freese"
 githubname: LuiseFreese
-categories: ["SharePoint", "Microsoft Graph"]
+categories: ["Community post"]
 images:
 - images/blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/hello-i-m-nik-n1ccr-zVG68-unsplash.jpg
 tags: []

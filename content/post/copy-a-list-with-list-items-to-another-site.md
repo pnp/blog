@@ -3,7 +3,7 @@ title: "Copy a list - with list items - to another site"
 date: 2021-04-01T08:47:00-04:00
 author: "Will Holland"
 githubname: willholland
-categories: ["SharePoint"]
+categories: ["Community post"]
 images:
 - images/blog/copy-a-list-with-list-items-to-another-site/sad-mario.png
 tags: []

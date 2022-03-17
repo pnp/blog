@@ -3,7 +3,7 @@ title: "Source code editing for Canvas Apps"
 date: 2021-07-01T08:40:00-04:00
 author: "Django Lohn"
 githubname: m3ngi3
-categories: ["Power Apps", "Tooling"]
+categories: ["Community post"]
 images:
 - images/blog/power-apps-source-code-editing-for-canvas-apps/PowerApps_Page_Unresponsive.png
 tags: []

@@ -3,7 +3,7 @@ title: "Create Report Of Assigned Licenses To Users From Microsoft 365"
 date: 2021-09-02T12:08:00-04:00
 author: "Dipen Shah"
 githubname: dips365
-categories: ["Power Automate", "SharePoint", "Microsoft Graph"]
+categories: ["Community post"]
 images:
 - images/blog/create-report-of-assigned-licenses-to-users-from-microsoft-365/Reports2.png
 tags: []

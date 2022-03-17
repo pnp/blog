@@ -3,7 +3,7 @@ title: "Using the PnP Modern Search Web Parts"
 date: 2021-05-27T08:40:00-04:00
 author: "Will Holland"
 githubname: willholland
-categories: ["PnP Modern Search", "SharePoint"]
+categories: ["Community post"]
 images:
 - images/blog/using-the-pnp-modern-search-web-parts/16-final.png
 tags: []

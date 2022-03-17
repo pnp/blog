@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 7th of September, 2021"
 date: 2021-09-08T06:17:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-7th-of-september-2021/7th-sep-platform-call-recording.png
 tags: []
@@ -77,6 +77,7 @@ Thank you for your continued contributions of your time and talent to
 the betterment of this community.  Stay well.  See you soon.  
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Microsoft Graph Toolkit Latest Releases --** 2 key new features in
@@ -104,7 +105,9 @@ Demos delivered in this session
     tenant, specify output parameters -- select or JsonPath queries.   
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.

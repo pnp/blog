@@ -3,7 +3,7 @@ title: "Setting up https for Teams Tabs projects - without ngrok"
 date: 2021-05-13T07:58:00-04:00
 author: "Bob German"
 githubname: BobGerman
-categories: ["Microsoft Teams"]
+categories: ["Community post"]
 images:
 - images/blog/setting-up-https-for-teams-tabs-projects-without-ngrok/localhostcert.png
 tags: []

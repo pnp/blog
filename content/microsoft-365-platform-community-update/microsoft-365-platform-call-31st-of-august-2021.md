@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 31st of August, 2021"
 date: 2021-09-01T04:16:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-31st-of-august-2021/210831-together-mode.gif
 tags: []
@@ -98,6 +98,7 @@ Thank you for your continued contributions of your time and talent to
 the betterment of this community.  Stay well.  See you soon.  
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Getting started with Microsoft Graph Toolkit** -- there is lots of
@@ -126,7 +127,9 @@ Demos delivered in this session
     Teams UI kit.   See the fluent UI libraries on GitHub and npm.    
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa

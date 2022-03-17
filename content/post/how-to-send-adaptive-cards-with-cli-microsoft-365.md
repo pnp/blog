@@ -3,7 +3,7 @@ title: "How to send Adaptive Cards with CLI Microsoft 365"
 date: 2021-02-17T08:38:00-05:00
 author: "Luise Freese"
 githubname: LuiseFreese
-categories: ["Adaptive Cards", "CLI for Microsoft 365"]
+categories: ["Community post"]
 images:
 - images/blog/how-to-send-adaptive-cards-with-cli-microsoft-365/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg
 tags: []

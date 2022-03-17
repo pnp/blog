@@ -3,7 +3,7 @@ title: "How to use Microsoft Teams app templates"
 date: 2021-01-13T09:08:00-05:00
 author: "Matti Paukkonen"
 githubname: mpaukkon
-categories: ["Microsoft Teams"]
+categories: ["Community post"]
 images: 
 - images/blog/how-to-use-microsoft-teams-app-templates/ask-away-app.png
 tags: []

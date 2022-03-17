@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 23rd of November, 2021"
 date: 2021-11-24T02:45:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-23rd-of-november-2021/recording-23rd-nov-platform.png
 tags: []
@@ -119,6 +119,7 @@ Everyone do the Seb Rockelwave!  Thank you again to community members
 and organizations on your November contributions.    
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Introduction to SharePoint on-prem Microsoft Graph connector --**
@@ -141,7 +142,9 @@ Demos delivered in this session
     Site Admins and work only with Viva Connections desktop experience.
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa

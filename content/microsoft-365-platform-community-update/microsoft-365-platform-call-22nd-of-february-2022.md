@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call – 22nd of February, 2022"
 date: 2022-02-22T06:16:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images: 
 - images/blog/microsoft-365-platform-call-22nd-of-february-2022/recording-22nd-feb.png
 tags: ["Add-ins","extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework"]

@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 23rd of December, 20
 date: 2021-12-24T02:33:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-23rd-of/recording-23rd-dec.png
 tags: []
@@ -28,7 +28,9 @@ v1.8.0 GA, **PnP Core SDK** v1.5.0 GA, **PnP PowerShell** v1.9.0 GA and
 current releases and latest updates/nightly builds, access the Repos via
 the links in table below.  8 new/updated script samples, 1 Microsoft
 Teams sample and 5 Power Apps samples were delivered this week!  
+
 ## Open-source project status
+
 (**Bold** indicates new this call)
 
   ----------------------------------------------------------------------------------------------------------------- ------------------------------------------- -----------------------------------------------------------------------------------------------------------
@@ -133,13 +135,16 @@ Samples: **([https://aka.ms/script-samples)](https://aka.ms/script-samples)
     @kasperbolarsen
 -   [Paul Bullock](http://twitter.com/pkbullock) | @pkbullock
 -- Many thanks!
+
 ## Together Mode!
+
 {{< image alt="PnP-Calls-TogetherMode-700W.gif" src="images/blog/microsoft-365-developer-community-call-recording-23rd-of/PnP-Calls-TogetherMode-700W.gif" >}}
 [Together here during the holiday's because - why not?  Great seeing
 everyone today.  Happy holidays and new year to you and family. 
  ]
 
 ## Demos
+
 Demos delivered in this session
 
 **Teams Meetings Apps: Emoji feedback with bot and Adaptive Card
@@ -160,7 +165,9 @@ and demo video, if exist.  Site is launched, instruction on how to
 request and/or deliver samples.    
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Paolo

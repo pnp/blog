@@ -3,7 +3,7 @@ title: "Power Apps Community Call -- April 2021"
 date: 2021-04-21T08:40:00-04:00
 author: "Todd Baginski"
 githubname: Tbag
-categories: ["Power Apps community Call recordings"]
+categories: ["Power Apps community call"]
 images:
 - images/blog/power-apps-community-call-april-2021/Thumbnail - Power Apps Community Call - April 2021.png
 tags: []

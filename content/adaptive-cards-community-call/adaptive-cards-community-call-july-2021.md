@@ -3,7 +3,7 @@ title: "Adaptive Cards Community Call - July 2021"
 date: 2021-07-09T05:07:00-04:00
 author: "Matt Hidinger"
 githubname: MattHidinger
-categories:  ["Adaptive Cards community call recordings"]
+categories: ["Adaptive Cards community call"]
 images: 
 - images/blog/adaptive-cards-community-call-july-2021/ThumbnailAC-July2021.png
 tags: []

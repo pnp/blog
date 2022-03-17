@@ -3,7 +3,7 @@ title: "Use Power Automate to automatically create SharePoint News Links from an
 date: 2021-04-15T08:40:00-04:00
 author: "Will Holland"
 githubname: willholland
-categories: ["Power Automate", "SharePoint"]
+categories: ["Community post"]
 images:
 
 tags: []

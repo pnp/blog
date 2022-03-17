@@ -4,7 +4,7 @@ date: 2021-03-02T08:47:00-05:00
 author: "Elio Struyf"
 githubname: estruyf
 
-categories: ["Tooling"]
+categories: ["Community post"]
 images:
 - images/blog/to-write-code-comments-or-not-it-should-not-be-a-question/comments1.png
 tags: []

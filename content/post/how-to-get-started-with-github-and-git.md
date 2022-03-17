@@ -3,7 +3,7 @@ title: "How to get started with GitHub and Git"
 date: 2021-09-09T07:49:00-04:00
 author: "Luise Freese"
 githubname: LuiseFreese
-categories: ["Tooling"]
+categories: ["Community post"]
 images:
 - images/blog/how-to-get-started-with-github-and-git/github-new.png
 tags: []

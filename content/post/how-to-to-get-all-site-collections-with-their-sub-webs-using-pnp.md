@@ -3,7 +3,7 @@ title: "How to to get all site collections with their sub webs using PnP PowerSh
 date: 2021-05-05T01:32:00-04:00
 author: "Chandani Prajapati"
 githubname: chandaniprajapati
-categories: ["SharePoint", "PNP PowerShell"]
+categories: ["Community post"]
 images:
 - images/blog/how-to-to-get-all-site-collections-with-their-sub-webs-using-pnp/AllSCAndSCW.png
 tags: []

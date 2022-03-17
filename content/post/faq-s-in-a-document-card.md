@@ -3,7 +3,7 @@ title: "FAQ's in a Document Card"
 date: 2021-04-14T06:23:00-04:00
 author: "Sam Collins"
 githubname: SamC148
-categories: ["SharePoint"]
+categories: ["Community post"]
 images:
 - images/blog/faq-s-in-a-document-card/updateFAQgif.gif
 tags: []

@@ -3,7 +3,7 @@ title: "React Groups and Teams Filters"
 date: 2021-05-15T04:02:00-04:00
 author: "Alison Collins"
 githubname: ReactIntern
-categories: ["SharePoint"]
+categories: ["Community post"]
 images:
 - images/blog/react-groups-and-teams-filters/img1.png
 tags: []

@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 12th of October, 2021"
 date: 2021-10-13T01:51:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-12th-of-october-2021/recording-12th-oct.png
 tags: []
@@ -117,6 +117,7 @@ Thank you everybody for being here today in the Microsoft 365 Platform
 Community Call.
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Hands-on with Microsoft Graph File Uploads and Downloads** 
@@ -139,7 +140,9 @@ Demos delivered in this session
     toolkits.   
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa

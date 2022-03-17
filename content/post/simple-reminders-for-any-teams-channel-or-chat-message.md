@@ -3,7 +3,7 @@ title: "Simple reminders for any Teams Channel or Chat message"
 date: 2021-05-06T01:55:00-04:00
 author: "Hubert Lam"
 githubname: z3019494
-categories: ["Microsoft Teams", "Adaptive Cards"]
+categories: ["Community post"]
 images:
 - images/blog/simple-reminders-for-any-teams-channel-or-chat-message/z3019494_1-1620122926624.png
 tags: []

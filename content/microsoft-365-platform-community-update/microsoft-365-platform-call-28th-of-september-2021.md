@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 28th of September, 2021"
 date: 2021-09-29T12:40:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-28th-of-september-2021/recording-28th-sep.png
 tags: []
@@ -93,6 +93,7 @@ Seated outdoors and waving in the Fall season.  It's awesome having you
 as a member of this community.    
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Introduction to Microsoft Viva Connections extensibility** -- Viva
@@ -115,7 +116,9 @@ Demos delivered in this session
     Graph Connector search.  Q&A.  
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa

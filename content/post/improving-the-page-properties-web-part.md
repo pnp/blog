@@ -3,7 +3,7 @@ title: "Improving the Page Properties web part"
 date: 2021-04-06T01:18:00-04:00
 author: "mhomol"
 githubname: mhomol
-categories: ["SharePoint"]
+categories: ["Community post"]
 images:
 - images/blog/improving-the-page-properties-web-part/diff-screencap.png
 tags: []

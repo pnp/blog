@@ -3,7 +3,7 @@ title: "Power Apps Community Call – February 2022"
 date: 2022-02-22T12:08:00-04:00
 author: "Todd Baginski"
 githubname: Tbag
-categories: ["Power Apps community Call recordings"]
+categories: ["Power Apps community call"]
 images:
 - images/blog/power-apps-community-call-february-2022/PowerApps Thumb February 2022.png
 tags: ["Developer", "extensions", "Microsoft 365", "Power Apps"]

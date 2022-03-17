@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 27th of May, 2021"
 date: 2021-05-28T12:20:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-27th-of-may/sig-27th-may-recording.png
 tags: []
@@ -107,6 +107,7 @@ Hello!  it's always great to see everyone on the call today.  Thanks for
 participating. 
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Getting started with HTWOO UI -- Fluent Design in HTML and CSS**
@@ -137,7 +138,9 @@ Demos delivered in this session
      
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert

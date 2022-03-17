@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 1st of April, 2021"
 date: 2021-04-02T06:27:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-1st-of-april/sig-1st-april-recording.png
 tags: []

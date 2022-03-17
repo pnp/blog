@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 21st of December, 2021"
 date: 2021-12-22T12:43:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-21st-of-december-2021/recording-21st-dec.png
 tags: []
@@ -158,7 +158,9 @@ forward to continuing sharing and caring with community in 2022.
     card designer, dynamic cards, 1st[ and
     2]nd[ party cards.   
      ]
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa

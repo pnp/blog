@@ -3,7 +3,7 @@ title: "Modernization lives on in PnP Framework"
 date: 2021-03-02T11:40:00-05:00
 author: "Paul Bullock"
 githubname: pkbullock
-categories: ["SharePoint"]
+categories: ["Community post"]
 images: []
 tags: []
 type: "regular"

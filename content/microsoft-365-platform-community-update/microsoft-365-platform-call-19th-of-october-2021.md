@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 19th of October, 2021"
 date: 2021-10-20T12:03:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-19th-of-october-2021/recording-19th-oct.png
 tags: []
@@ -133,6 +133,7 @@ Thank you everybody for being part of the call today and for being a
 member of this community.       
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Introduction to Universal Print --** tools for better Print
@@ -154,7 +155,9 @@ Demos delivered in this session
     Solution Accelerator.   
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.

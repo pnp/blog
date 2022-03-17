@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 11th of January, 2022"
 date: 2022-01-12T01:15:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-11th-of-january-2022/recording-11th-january.png
 tags: []
@@ -106,6 +106,7 @@ It's clear, we need a larger room here.  The house is full!  Thank you
 everybody for joining the call today.    
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Introduction to Microsoft Graph connectors SDK -** learn about the
@@ -136,7 +137,9 @@ Demos delivered in this session
     rendering side-by-side.
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.

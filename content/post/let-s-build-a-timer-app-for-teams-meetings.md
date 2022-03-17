@@ -3,7 +3,7 @@ title: "Let's build a timer app for teams meetings"
 date: 2021-05-07T08:40:00-04:00
 author: "Michael Roth"
 githubname: MichaelRoth42
-categories: ["Microsoft Teams", "Power Apps"]
+categories: ["Community post"]
 images:
 
 tags: []

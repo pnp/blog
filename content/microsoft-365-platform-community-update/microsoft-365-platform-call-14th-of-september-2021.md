@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 14th of September, 2021"
 date: 2021-09-15T10:49:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-14th-of-september-2021/recording-14th-september-m365platform-call.png
 tags: []
@@ -87,6 +87,7 @@ Thank you for your continued contributions of your time and talent to
 the betterment of this community.  Stay well.  See you soon.  
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Introduction to new modernized SharePoint Store** -- with the
@@ -115,7 +116,9 @@ Demos delivered in this session
     the works - feature Roadmap reviewed and input is requested.
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa

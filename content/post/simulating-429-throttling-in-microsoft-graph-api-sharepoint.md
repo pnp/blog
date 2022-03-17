@@ -3,7 +3,7 @@ title: "Simulating 429 Throttling in Microsoft Graph API (SharePoint/OneDrive wo
 date: 2021-08-20T06:14:00-04:00
 author: "Cameron Dwyer"
 githubname: CameronDwyer
-categories: ["Microsoft Graph"]
+categories: ["Community post"]
 images:
 - images/blog/simulating-429-throttling-in-microsoft-graph-api-sharepoint/image.png
 tags: []

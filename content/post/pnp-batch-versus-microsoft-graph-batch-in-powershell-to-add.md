@@ -2,7 +2,7 @@
 title: "PnP Batch versus Microsoft Graph Batch in PowerShell to add/delete 3k items"
 date: 2021-09-13T08:40:00-04:00
 author: "Reshmee Auckloo"
-categories: ["PnP PowerShell", "SharePoint"]
+categories: ["Community post"]
 images:
 
 tags: []

@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 9th of December, 202
 date: 2021-12-10T02:03:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-9th-of-december/recording-9th-december.png
 tags: []
@@ -26,7 +26,9 @@ version releases this week, but much work is being done.  To see current
 releases and latest updates/nightly builds, access the Repos via the
 links in table below.  There were 2 new script samples delivered this
 week.  
+
 ## Open-source project status
+
 (**Bold** indicates new this call)
 
   ----------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
@@ -112,12 +114,15 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
     -   Kinga Kazala
 
 -- Many thanks!
+
 ## Together Mode!
+
 {{< image alt="211209-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-9th-of-december/211209-together-mode.gif" >}}
 The house is full!   Great seeing everyone today.   Coordinated stadium
 style wave rehearsals starting soon.   
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Updates on Independent Publisher Connectors & Notion Connector
@@ -149,7 +154,9 @@ Demos delivered in this session
 
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert

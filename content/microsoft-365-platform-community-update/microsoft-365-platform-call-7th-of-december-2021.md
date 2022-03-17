@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 7th of December, 2021"
 date: 2021-12-08T01:55:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-7th-of-december-2021/recording-7th-dec.png
 tags: []
@@ -98,6 +98,7 @@ Thank you for joining the call today including many who are presently at
 the Microsoft 365 Collaboration Conference in Las Vegas this week! 
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Discover the Microsoft Graph Toolkit (MGT) --** first of several
@@ -120,7 +121,9 @@ Demos delivered in this session
     developer tenant.
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa

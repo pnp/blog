@@ -3,7 +3,7 @@ title: "Power Virtual Agents bot setting the Out Of Office"
 date: 2021-05-14T08:40:00-04:00
 author: "Vesa Nopanen"
 githubname: veskunopanen
-categories: ["Power Virtual Agents"]
+categories: ["Community post"]
 images:
 
 tags: []

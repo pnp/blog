@@ -3,7 +3,7 @@ title: "How to use a custom connector in Power Automate"
 date: 2021-02-23T01:25:00-05:00
 author: "Luise Freese"
 githubname: LuiseFreese
-categories: ["Power Automate"]
+categories: ["Community post"]
 images:
 - images/blog/how-to-use-a-custom-connector-in-power-automate/tweet.png
 tags: []

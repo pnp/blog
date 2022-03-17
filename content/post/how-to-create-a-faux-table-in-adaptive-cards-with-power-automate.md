@@ -3,7 +3,7 @@ title: "How to create a (faux) table in Adaptive Cards with Power Automate"
 date: 2021-03-05T08:30:00-05:00
 author: "Luise Freese"
 githubname: LuiseFreese
-categories: ["Adaptive Cards", "Power Automate"]
+categories: ["Community post"]
 images:
 - images/blog/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/LuiseFreese_12-1629042402697.png
 tags: []

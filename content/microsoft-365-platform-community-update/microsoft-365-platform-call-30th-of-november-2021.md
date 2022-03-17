@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 30th of November, 2021"
 date: 2021-12-01T12:07:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-30th-of-november-2021/recording-30th-nov-platform.png
 tags: []
@@ -96,6 +96,7 @@ It's great to see everyone today.  Some of you are joining from the
 European Collaboration Summit in *Düsseldorf*, Germany!
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Microsoft 365 Application Certification --** Microsoft 365 App
@@ -125,7 +126,9 @@ Demos delivered in this session
     Graph Explorer.
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Sébastien

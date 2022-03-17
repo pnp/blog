@@ -3,7 +3,7 @@ title: "Export Power Apps and Power Automate user licenses"
 date: 2021-04-23T05:48:00-04:00
 author: "Yves Habersaat"
 githubname: yhabersaat
-categories: ["Power Automate", "CLI for Microsoft 365"]
+categories: ["Community post"]
 images:
 - images/blog/export-power-apps-and-power-automate-user-licenses/power-platform-licenses.png
 tags: []

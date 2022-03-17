@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 26th of October, 2021"
 date: 2021-10-27T03:20:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-26th-of-october-2021/recording-26th-oct.png
 tags: []
@@ -119,6 +119,7 @@ Tuesday at this same time for a Microsoft Ignite 2021 watch party.     
  
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Getting started with hub associations in SharePoint - building the
@@ -140,7 +141,9 @@ Demos delivered in this session
     Lists, Q&A, Roadmap.
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa

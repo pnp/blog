@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 4th of January, 2022"
 date: 2022-01-05T05:02:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-4th-of-january-2022/recording-4th-january.png
 tags: []
@@ -105,6 +105,7 @@ Welcome to the first call of the new year - 2022.  Glad you're here. 
 See you soon.      
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Introduction to Microsoft Teams ISV app monetization capabilities
@@ -134,7 +135,9 @@ Demos delivered in this session
     guidance, samples and possible modification options reviewed.   
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa

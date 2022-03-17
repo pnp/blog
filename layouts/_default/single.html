@@ -27,23 +27,39 @@
             <div
                 class="{{if $hasbar}} col-lg-8 {{ else }} col-lg-10 mx-auto {{end}} {{if eq $sidebar `left`}} order-1 order-lg-2 {{end}} mb-5 mb-lg-0">
                 <article>
+                    {{ $resources:= .Resources }}
                     <!-- post thumb -->
                     {{ with .Params.images }}
-                    <div class="post-slider mb-4">
-                        {{ range .}}
-                        {{ if (fileExists (add `assets/` .)) }}
-                        {{ $image:= resources.Get . }}
-                        {{ $imageMD:= $image.Fill "700x330" }}
-                        {{ $imageSM:= $image.Fill "380x180" }}
-                        <picture>
-                            <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
-                            <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">
-                            <source srcset="{{$image.Permalink}}">
-                            <img src="{{$image.Permalink}}" class="card-img" loading="lazy" alt="post-thumb">
-                        </picture>
-                        {{ else }}
-                        <img src="{{ . | absURL }}" class="card-img" loading="lazy" alt="post-thumb">
-                        {{ end }}
+                    <div class="mb-4">
+                        {{ range first 1 .}}
+                        {{ $imgPath:= . }}
+                            {{ if findRE `^https?://` $imgPath }}
+                                <img src="{{ $imgPath | absURL }}" class="card-img" loading="lazy" alt="post-thumb">
+                            {{ else  if (and (hasPrefix $imgPath `images/blog/`) (fileExists (add `assets/` $imgPath))) }}
+                                {{ $image:= resources.Get $imgPath }}
+                                {{ $imageMD:= $image.Fill "700x330" }}
+                                {{ $imageSM:= $image.Fill "380x180" }}
+                                <picture>
+                                    <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
+                                    <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">
+                                    <source srcset="{{$image.Permalink}}">
+                                    <img src="{{$image.Permalink}}" class="card-img" loading="lazy" alt="post-thumb">
+                                </picture>
+                            {{ else }}
+                                {{ with $resources.GetMatch $imgPath }}
+                                {{ $image:= . }}
+                                {{ $imageMD:= $image.Fill "700x330" }}
+                                {{ $imageSM:= $image.Fill "380x180" }}
+                                <picture>
+                                    <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
+                                    <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">
+                                    <source srcset="{{$image.Permalink}}">
+                                    <img src="{{$image.Permalink}}" class="card-img" loading="lazy" alt="post-thumb">
+                                </picture>
+                                {{ else }}
+                                <img src="{{ . | absURL }}" class="card-img" loading="lazy" alt="post-thumb">
+                                {{ end }}
+                            {{ end }}
                         {{ end }}
                     </div>
                     {{ end }}

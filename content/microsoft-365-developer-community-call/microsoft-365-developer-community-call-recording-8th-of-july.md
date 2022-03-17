@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 8th of July, 2021"
 date: 2021-07-08T05:08:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-8th-of-july/8th-july-recording-m365dev.png
 tags: []
@@ -93,6 +93,7 @@ Thank you for making time in your Summer time schedule to join us for
 today's PnP Community call.   You're awesome!   
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Image Column Type formatting in Microsoft 365** -- upload images
@@ -117,7 +118,9 @@ Demos delivered in this session
      
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Paolo

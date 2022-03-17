@@ -3,7 +3,7 @@ title: "How to transition from Power Automate to Logic Apps"
 date: 2021-01-12T12:07:00-05:00
 author: "Paul Bullock"
 githubname: pkbullock
-categories: ["Power Automate", "Azure Logic Apps"]
+categories: ["Community post"]
 tags: []
 type: "regular"
 ---

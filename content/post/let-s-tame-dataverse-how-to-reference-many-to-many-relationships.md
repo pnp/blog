@@ -3,7 +3,7 @@ title: "Let's tame Dataverse: How to reference Many-to-Many-relationships in Azu
 date: 2021-11-18T08:40:00-04:00
 author: "Luise Freese"
 githubname: LuiseFreese
-categories: ["Azure Logic Apps", "Dataverse"]
+categories: ["Community post"]
 images:
 - images/blog/let-s-tame-dataverse-how-to-reference-many-to-many-relationships/platform.png
 tags: []

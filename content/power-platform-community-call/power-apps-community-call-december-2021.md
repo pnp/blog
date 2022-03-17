@@ -3,7 +3,7 @@ title: "Power Apps Community Call -- December 2021"
 date: 2021-12-15T08:40:00-04:00
 author: "Todd Baginski"
 githubname: Tbag
-categories: ["Power Apps community Call recordings"]
+categories: ["Power Apps community call"]
 images:
 - images/blog/power-apps-community-call-december-2021/PowerApps Thumb DEcember 2021.png
 tags: []

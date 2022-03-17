@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 9th of November, 2021"
 date: 2021-11-10T12:59:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-9th-of-november-2021/recording-9th-november.png
 tags: []
@@ -133,6 +133,7 @@ Thank you everybody (200+) for being part of this community call today. 
 Awesome to see everyone in the house.
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Introduction to Embedded Search Box (ESB) --** with few lines of
@@ -154,7 +155,9 @@ Demos delivered in this session
     in both desktop and mobile.
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa

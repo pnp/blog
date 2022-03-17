@@ -3,7 +3,7 @@ title: "How to get Source Code files for Power Apps Canvas apps"
 date: 2021-04-29T03:07:00-04:00
 author: "Luise Freese"
 githubname: LuiseFreese
-categories: ["Tooling", "Power Apps"]
+categories: ["Community post"]
 images:
 - images/blog/how-to-get-source-code-files-for-power-apps-canvas-apps/PASopa-folder.png
 tags: []

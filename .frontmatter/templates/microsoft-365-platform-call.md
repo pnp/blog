@@ -18,7 +18,7 @@ type: regular
 ---
 
 
-Microsoft 365 Platform Community Call - weekly community call recording from DATE, is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos). 
+Microsoft 365 Platform Community Call - weekly community call recording from DATE, is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](https://aka.ms/m365pnp-videos). 
 
 ## Call summary
 
@@ -81,11 +81,11 @@ Additional resources around the covered topics and links from the slides.
 *   Microsoft Graph Toolkit in Microsoft Learn | [http://aka.ms/learn-mgt](http://aka.ms/learn-mgt)
 *   Viva Connections [https://aka.ms/VivaConnections](https://aka.ms/VivaConnections)
 *   [SharePoint look book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
-*   [Yo Teams video training package](http://aka.ms/yoteams-training)
+*   [Yo Teams video training package](https://aka.ms/yoteams-training)
 *   [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
-*   [Microsoft 365 community (PnP) videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
+*   [Microsoft 365 community (PnP) videos](https://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 *   [Microsoft Teams Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
-*   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
+*   [yo Teams](https://aka.ms/yoteams) | aka.ms/yoteams
 *   Video - [Getting started using yo Teams](https://youtu.be/w0OrFkzNC10) | [Wictor Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 *   [Build a crisis management site to connect people and information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 *   [Developer documentation](http://aka.ms/spdev-docs) | [https://aka.ms/spdev-docs](https://aka.ms/spdev-docs)

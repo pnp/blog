@@ -3,7 +3,7 @@ title: "Microsoft Graph Fundamentals learning path -- Module 3"
 date: 2021-04-07T06:55:00-04:00
 author: "Luise Freese"
 githubname: LuiseFreese
-categories: ["Microsoft Graph"]
+categories: ["Community post"]
 images:
 - images/blog/microsoft-graph-fundamentals-learning-path-module-3/GraphFun-image.png
 tags: []

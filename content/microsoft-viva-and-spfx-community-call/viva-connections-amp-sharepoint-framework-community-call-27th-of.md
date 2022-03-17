@@ -4,7 +4,7 @@ summary: "Viva Connections & SharePoint Framework bi-weekly community call recor
 date: 2022-01-28T02:07:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft Viva and SPFx community call recordings"]
+categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-27th-of/recording-27th-jan.png
 tags: ["Adaptive Cards", "Add-ins", "extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework", "Viva Connections"]

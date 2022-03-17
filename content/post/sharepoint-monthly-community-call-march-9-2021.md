@@ -3,7 +3,7 @@ title: "SharePoint monthly community call -- March 9, 2021"
 date: 2021-03-09T11:19:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft Viva and SPFx community call recordings"]
+categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/blog/sharepoint-monthly-community-call-march-9-2021/march-sp-monthly-together-mode.gif
 tags: []

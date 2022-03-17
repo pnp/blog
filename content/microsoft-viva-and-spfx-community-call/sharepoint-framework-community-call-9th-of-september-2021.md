@@ -3,7 +3,7 @@ title: "SharePoint Framework Community Call -- 9th of September, 2021"
 date: 2021-09-10T01:27:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft Viva and SPFx community call recordings"]
+categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/blog/sharepoint-framework-community-call-9th-of-september-2021/spfx-call-9th-sep-recording.png
 tags: []

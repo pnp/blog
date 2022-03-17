@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 18th of January, 2022"
 date: 2022-01-19T03:18:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-18th-of-january-2022/recording-18th-jan.png
 tags: []
@@ -110,6 +110,7 @@ Thank you everybody for joining the call today.   Brilliant to see many
 familiar faces week after week
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Show a user's emails in an ASP.NET Core app with Microsoft
@@ -139,7 +140,9 @@ Demos delivered in this session
     See code and rendering side-by-side.
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa

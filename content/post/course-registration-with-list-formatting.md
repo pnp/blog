@@ -3,7 +3,7 @@ title: "Course registration with List formatting"
 date: 2022-01-17T12:43:00-05:00
 author: "Dennis Goedegebuure"
 githubname: expiscornovus
-categories: ["SharePoint"]
+categories: ["Community post"]
 images:
 - images/blog/course-registration-with-list-formatting/51695169286_ae7588984b_c.jpg
 tags: []

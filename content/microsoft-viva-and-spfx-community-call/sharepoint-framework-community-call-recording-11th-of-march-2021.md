@@ -3,7 +3,7 @@ title: "SharePoint Framework Community Call Recording -- 11th of March, 2021"
 date: 2021-03-12T01:38:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft Viva and SPFx community call recordings"]
+categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/blog/sharepoint-framework-community-call-recording-11th-of-march-2021/PictureTime-OutsideInTheGreenAmphitheater.png
 tags: []

@@ -3,7 +3,7 @@ title: 'How to enhance your "dev tenant" to unleash the full potential of the Po
 date: 2021-02-23T12:13:00-05:00
 author: "Michael Roth"
 githubname: MichaelRoth42
-categories: ["Microsoft 365", "Power Platform", "Tooling"]
+categories: ["Community post"]
 images:
 - images/blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/devtenant-micha.png
 tags: []

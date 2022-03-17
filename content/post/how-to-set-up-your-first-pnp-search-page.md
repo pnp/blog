@@ -3,7 +3,7 @@ title: "How to set up your first PnP Search Page"
 date: 2021-07-27T08:22:00-04:00
 author: "Agnes Molnar"
 githubname: aghyyy
-categories: ["PnP Modern Search", "SharePoint"]
+categories: ["Community post"]
 images:
 - images/blog/how-to-set-up-your-first-pnp-search-page/pnp-modern-search-page-01-new-page-1024x412.png
 tags: []

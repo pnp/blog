@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording – 17th of February, 2
 date: 2022-02-18T02:55:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-17th-of/recording-17th-feb.png
 tags: ["Add-ins","extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework"]

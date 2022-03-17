@@ -3,7 +3,7 @@ title: "Power Platform MS Forms Quiz with dynamic Leader Board created using Pow
 date: 2021-04-29T08:40:00-04:00
 author: "Damien Bird"
 githubname: DamoBird365
-categories: ["Power Automate"]
+categories: ["Community post"]
 images:
 
 tags: []

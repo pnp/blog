@@ -4,7 +4,7 @@ date: 2021-05-07T05:38:00-05:00
 author: "Elio Struyf"
 githubname: estruyf
 
-categories: ["Microsoft Graph", "Tooling"]
+categories: ["Community post"]
 images:
 - images/blog/new-vscode-extension-for-autocompleting-your-microsoft-graph/how-it-works.gif
 tags: []

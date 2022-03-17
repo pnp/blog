@@ -3,7 +3,7 @@ title: "Running a Power App as Edge Extension"
 date: 2021-10-12T02:53:00-04:00
 author: "Albert-Jan Schot"
 githubname: appieschot
-categories: ["Power Apps"]
+categories: ["Community post"]
 images:
 - images/blog/running-a-power-app-as-edge-extension/edge-plugin.gif
 tags: []

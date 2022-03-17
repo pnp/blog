@@ -4,7 +4,7 @@ summary: "The following topics are covered in this month’s community call.  De
 date: 2022-02-17T04:40:00-05:00
 author: "J.P. Roca"
 githubname: JeanRoca
-categories: ["Adaptive Cards community call recordings"]
+categories: ["Adaptive Cards community call"]
 images:
 - images/blog/adaptive-cards-community-call-february-2022/adaptive-cards-February Thumb.png
 tags: ["Adaptive Cards", "Community Call","Developer","extensions", "Microsoft 365"]

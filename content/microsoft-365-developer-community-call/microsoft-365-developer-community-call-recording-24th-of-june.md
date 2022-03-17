@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 24th of June, 2021"
 date: 2021-06-25T03:16:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-24th-of-june/sig-recording-24th-june.png
 tags: []
@@ -87,6 +87,7 @@ Thank you for joining for today's PnP Community call.   It's a full
 house!   
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Getting started with PnP Teams QuickStart** -- create a Teams SSO
@@ -118,7 +119,9 @@ Demos delivered in this session
      
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert

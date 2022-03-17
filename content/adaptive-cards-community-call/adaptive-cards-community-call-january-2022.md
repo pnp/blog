@@ -4,7 +4,7 @@ summary: "The following topics are covered in this month’s community call: Ada
 date: 2022-01-31T05:23:00-05:00
 author: "J.P. Roca"
 githubname: JeanRoca
-categories: ["Adaptive Cards community call recordings"]
+categories: ["Adaptive Cards community call"]
 images:
 - images/blog/adaptive-cards-community-call-january-2022/adaptive-cards-January Thumb.png
 tags: ["Adaptive Cards", "Developer","Microsoft 365", "Power Automate"]

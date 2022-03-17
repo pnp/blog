@@ -3,7 +3,7 @@ title: "Break And Change List Item Permission Using PnP JS In SPFx"
 date: 2021-03-17T07:38:00-04:00
 author: "Chandani Prajapati"
 githubname: chandaniprajapati
-categories: ["PNPJS", "SPFx"]
+categories: ["Community post"]
 images:
 - images/blog/break-and-change-list-item-permission-using-pnp-js-in-spfx/FirstOP.png
 tags: []

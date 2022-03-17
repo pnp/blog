@@ -83,10 +83,15 @@
     $('.widget-categories > ul.widget-list > li > a').each(function () {
       cleanTag($(this));
     });
+
+    $('li.list-inline-item > a').each(function () {
+      cleanTag($(this));
+    });
   });
 
   function cleanTag(tag) {
     var text = tag.text();
+    console.log("cleaning tag: " + text);
     // find and replace pnp frmo text
     text = text.replace(/microsoft/gi, 'Microsoft');
     text = text.replace(/powershell/gi, 'PowerShell');
@@ -106,7 +111,14 @@
     text = text.replace(/adaptive card extensions aces/gi, 'Adaptive Card Extensions ACEs');
     text = text.replace(/power virtual agents/gi, 'Power Virtual Agents');
     text = text.replace(/viva/gi, 'Viva');
+    text = text.replace(/Azure ad/gi, 'Azure AD');
+      text = text.replace(/azure/gi, 'Azure');
+    text = text.replace(/Mgt/gi, 'MGT');
+    text = text.replace(/Aces/gi, 'ACEs');
+    text = text.replace(/graph/gi, 'Graph');
 
+
+    
     tag.text(text);
   }
 </script>

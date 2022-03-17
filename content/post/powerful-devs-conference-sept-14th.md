@@ -3,7 +3,7 @@ title: "Powerful Devs Conference Sept 14th"
 date: 2021-09-07T08:40:00-04:00
 author: "April Dunnam"
 githubname: aprildunnam
-categories: ["Microsoft 365 community"]
+categories: ["Community post"]
 images:
 - images/blog/powerful-devs-conference-sept-14th/powerful-devs-hero-banner.png
 tags: []

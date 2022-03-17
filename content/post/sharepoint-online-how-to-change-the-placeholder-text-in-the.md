@@ -3,7 +3,7 @@ title: "SharePoint Online: How to change the placeholder text in the search box"
 date: 2021-07-13T04:52:00-04:00
 author: "Ganesh Sanap"
 githubname: ganesh-sanap
-categories: ["SharePoint"]
+categories: ["Community post"]
 images:
 - images/blog/sharepoint-online-how-to-change-the-placeholder-text-in-the/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png
 tags: []

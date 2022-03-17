@@ -11,7 +11,7 @@ githubname: Adam-it
 description: "CLI for Microsoft 365 is a cross platform command line tool you may use to manage many things. To name a few, you may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course), now there is even a dedicated command to help you set up Viva. The list keeps on growing and growing"
 summary: "CLI for Microsoft 365 is a cross platform command line tool you may use to manage many things. To name a few, you may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course), now there is even a dedicated command to help you set up Viva. The list keeps on growing and growing"
 # Taxonomies
-categories: ["CLI for Microsoft 365","PnP PowerShell"]
+categories: ["Community post"]
 tags: []
 type: "regular" # available type (epic, trending, popular, or regular)
 

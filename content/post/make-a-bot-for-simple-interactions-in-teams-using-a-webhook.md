@@ -3,7 +3,7 @@ title: "Make a bot for simple interactions in Teams using a Webhook"
 date: 2022-01-18T05:05:00-05:00
 author: "Lee Ford"
 githubname: LeeFord
-categories: ["Microsoft Teams"]
+categories: ["Community post"]
 images:
 - images/blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/149174368-58562d12-5554-4625-a902-0df103e00cff.png
 tags: []

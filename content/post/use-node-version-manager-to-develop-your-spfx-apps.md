@@ -3,7 +3,7 @@ title: "Use Node Version Manager to develop your SPFx apps"
 date: 2021-02-14T08:40:00-04:00
 author: "Toni Pohl"
 githubname: tonipohl
-categories: ["SharePoint", "Tooling"]
+categories: ["Community post"]
 tags: []
 type: "regular"
 images: 
@@ -125,7 +125,9 @@ You can now switch between versions with nvm. Use \<nvm version>, e.g.
 ```bash
 nvm use 10.23.0
 ```
+
 or
+
 ```bash
 nvm use 14.15.4
 ```
@@ -209,6 +211,7 @@ To build the ready-to-use solution, run
 ```bash
 gulp bundle --ship
 ```
+
 to build the package for the correct folder and
 
 ```bash

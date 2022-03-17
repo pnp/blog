@@ -3,7 +3,7 @@ title: "Microsoft 365 Platform Call -- 16th of November, 2021"
 date: 2021-11-17T04:20:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform call recordings"]
+categories: ["Microsoft 365 platform call"]
 images:
 - images/blog/microsoft-365-platform-call-16th-of-november-2021/recording-16th-m365-platform.png
 tags: []
@@ -104,6 +104,7 @@ place in chat throughout the call
 It's a full house and it's great seeing each and everyone of you.  
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Getting started on building Microsoft Teams tabs with Adaptive
@@ -125,7 +126,9 @@ Demos delivered in this session
     Extensions and Application Customizers. 
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.

@@ -3,7 +3,7 @@ title: "Viva Connections & SharePoint Framework Community Call – 10th of March
 date: 2022-03-11T05:56:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft Viva and SPFx community call recordings"]
+categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/blog/viva-connections-amp-sharepoint-framework-community-call-10th-of/recording-10th-march.png
 tags: ["ACEs", "Add-ins", "extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework", "Viva Connections"]

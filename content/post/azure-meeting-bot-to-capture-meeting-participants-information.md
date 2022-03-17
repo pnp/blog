@@ -3,7 +3,7 @@ title: "Azure Meeting Bot To Capture Meeting Participants Information"
 date: 2021-09-13T02:43:00-04:00
 author: "Siddharth Vaghasia"
 githubname: siddharth-vaghasia
-categories: ["Microsoft Teams", "Power Automate", "Azure"]
+categories: ["Community post"]
 images:
 - images/blog/azure-meeting-bot-to-capture-meeting-participants-information/SiddharthVaghasia_0-1630435722443.png
 tags: []

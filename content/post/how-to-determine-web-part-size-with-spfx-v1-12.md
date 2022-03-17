@@ -3,7 +3,7 @@ title: "How to determine web part size with SPFx v1.12"
 date: 2021-03-23T03:55:00-04:00
 author: "Yves Habersaat"
 githubname: yhabersaat
-categories: ["SharePoint"]
+categories: ["Community post"]
 images:
 - images/blog/how-to-determine-web-part-size-with-spfx-v1-12/web-part-width.png
 tags: []

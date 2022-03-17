@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 6th of January, 2021
 date: 2022-01-07T01:01:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-6th-of-january/recording-6th-jan.png
 tags: []
@@ -30,7 +30,9 @@ other projects.  Check out the TeamsFx authentication provider preview
 in **MGT**!  To see current releases and latest updates/nightly builds,
 access the Repos via the links in table below.  There were 7 new/updated
 script samples delivered this week.  
+
 ## Open-source project status
+
 (**Bold** indicates new this call)
 
   ----------------------------------------------------------------------------------------------------------------- --------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
@@ -139,6 +141,7 @@ Happy New Year!  Awesome to see everyone 170+ attendees in the call
 today.    Please keep the feedback coming.
 
 ## Demos
+
 Demos delivered in this session
 
 **Building enterprise solutions with Power Platform - Things to do and
@@ -170,7 +173,9 @@ first pull request and working through publishing process.  Canvas app
 calls a flow that uses connector to get currency information.   
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert

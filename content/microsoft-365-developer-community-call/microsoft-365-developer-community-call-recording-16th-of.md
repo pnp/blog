@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 16th of September, 2
 date: 2021-09-16T03:34:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-16th-of/call-16th-sep-recording.png
 tags: []
@@ -123,13 +123,16 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
     List](https://pnp.github.io/script-samples/spo-generate-demo-events/README.html?tabs=pnpps)
     -** [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd)
     | @pkbullock
+
 ## Together Mode!
+
 {{< image alt="PnP-Calls-TogetherMode-800W.gif" src="images/blog/microsoft-365-developer-community-call-recording-16th-of/PnP-Calls-TogetherMode-800W.gif" >}}
 
 Picture time is back and it's a packed House!  Thank you for joining
 the PnP Community call today.   You're awesome!  
 
 ## Demos
+
 Demos delivered in this session
 
 -   **List Formatting Magic Tips & Tricks​** -- create a list, add and
@@ -159,7 +162,9 @@ Demos delivered in this session
 
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call -- <https://aka.ms/m365pnp/request/demo>
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert

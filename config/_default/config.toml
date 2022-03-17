@@ -14,6 +14,8 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = ["fr"] # desable language from here
 
+enableEmoji = true
+
 # Image Processing Config
 [imaging]
 quality = 100

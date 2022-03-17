@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 25th of November, 20
 date: 2021-11-26T03:33:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-25th-of/recording-25th-nov.png
 tags: []
@@ -49,7 +49,9 @@ Project releases this week include **Yo teams - generator-teams** -
 v3.5.0 GA, **Yo teams - yoteams-build-core** - v1.5.0 GA, **Yo teams --
 yoteams-deploy** - v1.1.0 GA and **Microsoft Graph Toolkit (MGT)** -
 v2.3.1 GA.  Also added .NET 6 support to **PnP .NET libraries**.
+
 ## Open-source project status
+
 (**Bold** indicates new this call)
 
   ----------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
@@ -145,7 +147,9 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
         [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
 
 -- Fabulous!
+
 ## Together Mode!
+
 {{< image alt="211125-together-mode.gif" src="images/blog/microsoft-365-developer-community-call-recording-25th-of/211125-together-mode.gif" >}}
 Great seeing everyone today. See you at the [European Collaboration and
 Cloud Summit](https://collabsummit.eu/) in Düsseldorf, Germany or
@@ -154,6 +158,7 @@ Conference](https://sharepointna.com/#!/) in Las Vegas, Nevada, US.     
    
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Contributors Corner - GitHub Contributions using the VS Code Web
@@ -182,7 +187,9 @@ Demos delivered in this session
 
 Thank you for your work. Samples are often showcased in Demos.   
 Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert

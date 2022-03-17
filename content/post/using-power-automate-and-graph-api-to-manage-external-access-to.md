@@ -3,7 +3,7 @@ title: "Using Power Automate And Graph API To Manage External Access To Teams"
 date: 2021-05-06T08:40:00-04:00
 author: "Carl Cookson"
 githubname: LinkeD365
-categories: ["Power Automate", "Microsoft Teams", "Microsoft Graph"]
+categories: ["Community post"]
 images:
 
 tags: []

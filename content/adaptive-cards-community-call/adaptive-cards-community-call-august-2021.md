@@ -3,7 +3,7 @@ title: "Adaptive Cards community call -- August 2021"
 date: 2021-09-23T05:24:00-04:00
 author: "J.P. Roca"
 githubname: JeanRoca
-categories: ["Adaptive Cards community call recordings"]
+categories: ["Adaptive Cards community call"]
 images:
 - images/blog/adaptive-cards-community-call-august-2021/900x506-AugustTHumb.png
 tags: []

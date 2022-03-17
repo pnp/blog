@@ -1,14 +1,21 @@
 {{- $.Scratch.Add "index" slice -}}
-{{- range (where site.RegularPages "Section" "!=" "foo") -}}
-
+{{- range (where site.RegularPages "Section" "!=" "dontshow") -}}
+                    {{ $resources:= .Resources }}
 {{ with .Params.images }}
 {{ range first 1 . }}
-{{ if (fileExists (add `assets/` .)) }}
-{{ $image:= resources.Get . }}
+{{ $imgPath:= . }}
+{{ if (fileExists (add `assets/` $imgPath)) }}
+{{ $image:= resources.Get $imgPath }}
 {{ $imageSM:= $image.Fill "460x200" }}
 {{ $.Scratch.Set "image" $imageSM.Permalink }}
 {{ else }}
-{{ $.Scratch.Set "image" (. | absURL) }}
+{{ with $resources.GetMatch $imgPath }}
+                  {{ $image:= . }}
+{{ $imageSM:= $image.Fill "460x200" }}
+{{ $.Scratch.Set "image" $imageSM.Permalink }}
+{{ else }}
+{{ $.Scratch.Set "image" ($imgPath | absURL) }}
+{{ end }}
 {{ end }}
 {{ end }}
 {{ end }}

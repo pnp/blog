@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 5th of August, 2021"
 date: 2021-08-05T07:52:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-5th-of-august/PnP-Calls-TogetherMode-LowerResolution.gif
 tags: []
@@ -105,6 +105,7 @@ A packed house today.  Hope all are enjoying summer or winter, in
 Southern Hemisphere.  Nice seeing everyone.   Be well.  
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Power Platform Tips & Tricks** -- collaborate in a Power App
@@ -133,7 +134,9 @@ Demos delivered in this session
     expressions reviewed as well.   
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Paolo

@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 22nd of July, 2021"
 date: 2021-07-22T05:41:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-22nd-of-july/sig-recordingly-22nd-july.png
 tags: []
@@ -95,6 +95,7 @@ Thank you for making time in your Summer time schedule to join us for
 today's PnP Community call.   You're awesome!   
 
 ## Demos
+
 Demos delivered in this session
 
 -   **Publish a connector to the Power Platform** -- announcement July
@@ -123,7 +124,9 @@ Demos delivered in this session
     call from desktop or mobile.    Sample in PnP samples repository.   
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Paolo

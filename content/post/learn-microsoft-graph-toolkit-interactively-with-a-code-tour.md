@@ -3,7 +3,7 @@ title: "Learn Microsoft Graph Toolkit interactively with a code tour"
 date: 2021-06-28T08:40:00-04:00
 author: "Waldek Mastykarz"
 githubname: WaldekMastykarz
-categories: ["Microsoft Graph Tookit"]
+categories: ["Community post"]
 images:
 
 tags: []

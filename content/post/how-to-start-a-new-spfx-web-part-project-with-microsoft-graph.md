@@ -3,7 +3,7 @@ title: "How to start a new SPFx web part project with Microsoft Graph Toolkit an
 date: 2021-03-07T07:46:00-05:00
 author: "Yves Habersaat"
 githubname: yhabersaat
-categories: ["SharePoint"]
+categories: ["Community post"]
 images:
 - images/blog/how-to-start-a-new-spfx-web-part-project-with-microsoft-graph/mgt-react-result-2.png
 tags: []

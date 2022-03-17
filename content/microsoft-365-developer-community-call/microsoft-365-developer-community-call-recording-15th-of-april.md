@@ -3,7 +3,7 @@ title: "Microsoft 365 Developer Community Call recording -- 15th of April, 2021"
 date: 2021-04-16T04:18:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call Recordings"]
+categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/blog/microsoft-365-developer-community-call-recording-15th-of-april/sig-agenda-15th-recording.png
 tags: []
@@ -78,6 +78,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 **It's together time - Super comfy seats!     **
 
 ## Demos
+
 Demos delivered in this session
 
 -   **SharePoint Content Type APIs in Microsoft Graph** - Classic
@@ -106,7 +107,9 @@ Demos delivered in this session
     aggregates, hiding, tips on double nesting and more.      
 
 Thank you for your work. Samples are often showcased in Demos.
+
 ## Topics
+
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert

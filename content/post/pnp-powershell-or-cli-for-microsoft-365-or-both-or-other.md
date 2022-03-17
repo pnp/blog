@@ -11,7 +11,7 @@ githubname: Adam-it
 description: "During my SP consultant/dev work I most of the times used the last two. From time to time I got the question: which one is better?"
 summary: "During my SP consultant/dev work I most of the times used the last two. From time to time I got the question: which one is better?"
 # Taxonomies
-categories: ["CLI for Microsoft 365","PnP PowerShell"]
+categories: ["Community post"]
 tags: []
 type: "regular" # available type (epic, trending, popular, or regular)
 

@@ -3,7 +3,7 @@ title: "New Microsoft 365 Patterns and Practices (PnP) team members -- November 
 date: 2021-11-11T05:38:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 platform community"]
+categories: ["Community post"]
 images:
 
 tags: []
