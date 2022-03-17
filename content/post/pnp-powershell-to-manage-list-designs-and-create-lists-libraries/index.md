@@ -1,11 +1,11 @@
 ---
 title: "PnP PowerShell to manage list designs and create lists/libraries using list designs"
-summary: "PnP PowerShell has a set of cmdlets to manage custom list templates: Add-PnPListDesign, Get-PnPListDesign, Remove-PnPListDesign, Invoke-PnPListDesign. This article explores how to use PnP PowerShell scripts to manage list templates and create multiple instances of document libraries using a CSV file."
-date: 2022-14-17T02:59:00-05:00
+date: 2022-03-14T02:59:00-05:00
 author: "Reshmee Auckloo"
 githubname: "reshmee011"
 categories: ["Community post"]
-images: ["images/reshmeeauckloo_3-1646365567131.png"]
+images:
+- images/reshmeeauckloo_3-1646365567131.png
 tags: ["PnP PowerShell", "List Designs", "List Templates"]
 type: "regular"
 ---
