@@ -28,7 +28,7 @@
 		"bungcip.better-toml",
 		"davidanson.vscode-markdownlint",
 		"eliostruyf.vscode-microsoft-writingstyleguide",
-		"docsmsft.docs-markdown"
+		"docsmsft.docs-authoring-pack"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
