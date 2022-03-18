@@ -17,16 +17,16 @@ get 100% and it is ordered by last completed to give everyone a chance
 to be top, albeit I am sorry to say that there is no official badge for
 this one.</p><p><strong>Want to test your Power Automate knowledge?   <a href="https://forms.office.com/pages/responsepage.aspx?id=0QHJFmOXsUmWHGzXAfXQ92JiZGxvT_tLiMeGs9ElLKxUQ1RRWFpGSEtVTjFDQ0QwNU1FUlkzSDlKMC4u">Click
 Here</a></strong>
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/DamoBird365_0-1619726369840_hue143cb3245e9669b53a5fd3ac671bca2_346296_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_0-1619726369840.png></p><p>For the <strong>first flow</strong> of <strong>two</strong>, using Microsoft Forms and Power
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=DamoBird365_0-1619726369840.png></p><p>For the <strong>first flow</strong> of <strong>two</strong>, using Microsoft Forms and Power
 Automate I have built a pretty standard process.  The user completes the
 quiz, the form gives them feedback on how well they have done and I
 capture the answers to a SharePoint List - seen below.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/DamoBird365_0-1619730541847_hu7d17f7ff00bd97597e08a6298da3a447_45451_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_0-1619730541847.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=DamoBird365_0-1619730541847.png>
  </p><p>I use the <strong>when a new [form] response is submitted</strong> trigger and
 during the next couple of actions I calculate their score again (based
 on their answers) as the score is not passed back to the Cloud Flow via
 the Response Body.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/DamoBird365_1-1619726475005_hua1d959269d3a17f7b499031babbd771f_65975_750x0_resize_q100_h2_box_3.webp alt=DamoBird365_1-1619726475005.png></p><p><strong>What&rsquo;s the Score?</strong></p><p>In order to calculate the score I have created an array via a
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=DamoBird365_1-1619726475005.png></p><p><strong>What&rsquo;s the Score?</strong></p><p>In order to calculate the score I have created an array via a
 <strong>compose</strong> action and used the equals expression.  If the response
 equals the answer, it will return true.  I then use a <strong>filter</strong> action
 on the <strong>item()</strong> of each output from the select and filter on true. 
@@ -34,7 +34,7 @@ This will leave me with an array of true values.  During the create item
 score field and tweet action, I use the <strong>length()</strong> expression (i.e.
 length of array from 10 possible true answers) to return the number of
 answers equaling true and multiply by 10 to get the percentage correct.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/DamoBird365_2-1619726584442_hu2168f31925b04da2902c4b983bf2857f_42412_701x0_resize_q100_h2_box_3.webp alt=DamoBird365_2-1619726584442.png></p><p>The final stage of this flow is a **condition **where I check to see if
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=DamoBird365_2-1619726584442.png></p><p>The final stage of this flow is a **condition **where I check to see if
 the user has supplied a twitter handle.  If it&rsquo;s not empty I tweet out
 their score.  The only disappointment here is that Twitter will not let
 you tag users due to
@@ -47,12 +47,12 @@ can run an action to get items, prepare HTML table rows using a select
 action and send back a response to the website in a fraction of a
 second.  The end user loading the website almost doesn&rsquo;t know it&rsquo;s
 happening, albeit there is a slight delay for the flow to run, i&rsquo;ll
-admit. <em>Did you notice the delay in this page loading?</em></p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/DamoBird365_3-1619727062254_hud7f047a93dfd3f3ba01df13a30b41918_50402_678x0_resize_q100_h2_box_3.webp alt=DamoBird365_3-1619727062254.png><p>The reponse to the embedded IFrame on my Blog and indeed this article
+admit. <em>Did you notice the delay in this page loading?</em></p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=DamoBird365_3-1619727062254.png><p>The reponse to the embedded IFrame on my Blog and indeed this article
 which is simply calling the url provided by the HTTP Request trigger is
 an HTML table.  I create the table header and then using the select
 action body, I use the <strong>join()</strong> expression to join the elements of the
 array with &rsquo;&rsquo; into a string and complete the HTML table.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/DamoBird365_4-1619727245209_huf063072cd0f9445a4142dc926c22fd18_28437_675x0_resize_q100_h2_box_3.webp alt=DamoBird365_4-1619727245209.png>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=DamoBird365_4-1619727245209.png>
 I&rsquo;m not a web developer and I am sure that there will be slicker ways
 to embed the results of the http response into your site and for that I
 would be grateful to hear from those with experience but what do you

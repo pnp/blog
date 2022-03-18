@@ -37,7 +37,7 @@ allowed us to connect from Azure back into the customer network without
 the need to reconfigure complex firewalls.
  
 To help visualize the solution, let&rsquo;s take a look at the architecture.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/connecting-to-sharepoint-online-to-on-premises-databases-with/image-5_huf1c088c9454bdd1c79e167a7a2fc4f25_179709_750x0_resize_q100_h2_box_3.webp alt="The architecture overview of the solution"></li></ul><p>We ended up having two <a href=https://docs.microsoft.com/azure/app-service/app-service-hybrid-connections>Azure Hybrid Connection
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="The architecture overview of the solution"></li></ul><p>We ended up having two <a href=https://docs.microsoft.com/azure/app-service/app-service-hybrid-connections>Azure Hybrid Connection
 Services</a> running.
 One for the active live environment and another for the disaster
 recovery environment.
@@ -62,7 +62,7 @@ and approving the request. Now the point to make is that the user
 accepting the request needs to be a SharePoint Administrator and also
 grant admin consent to Azure AD Applications. Basically, a Global Admin
 has this role, so we worked with the IT team to ensure a privileged user
-did the authorization. Be mindful of this when deploying to the customer</li></ul><p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/connecting-to-sharepoint-online-to-on-premises-databases-with/image-6_hu64a5ca2ec6fa7672714a10700d747b02_115692_750x0_resize_q100_h2_box_3.webp alt="The steps to authorize accessing an API in SharePoint Online.">
+did the authorization. Be mindful of this when deploying to the customer</li></ul><p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="The steps to authorize accessing an API in SharePoint Online.">
  
 The screen to authorize SharePoint Framework solutions.
  
@@ -82,7 +82,7 @@ this right.</p><pre tabindex=0><code class=language-wp-block-code data-lang=wp-b
 </code></pre><h3 id=azure-hybrid-connections class=heading-anchor>Azure Hybrid Connections <a class=anchor-link href=#azure-hybrid-connections aria-labelledby=azure-hybrid-connections></a></h3><p>The Azure Hybrid Connection is set up in two places.</p><ul><li>Azure App Service hosted in the cloud</li><li>Hybrid Connection service &ndash; running as a Windows server within the
 network.
 The hybrid connection service establishes a connection to the Azure App
-Service through Azure Relay which is built on top of Service Bus.</li></ul><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/connecting-to-sharepoint-online-to-on-premises-databases-with/hybridconn-connectiondiagram_hu1265c971111d600e5fd1df5fcf2a180f_49919_750x0_resize_q100_h2_box_3.webp alt="Diagram explaining the architecture of Azure Hybrid Connections."><p> 
+Service through Azure Relay which is built on top of Service Bus.</li></ul><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Diagram explaining the architecture of Azure Hybrid Connections."><p> 
 To set up the Hybrid Connection in Azure App Service you must be running
 at least the Basic Tier or above.
 There are some limitations to the types of connections that the

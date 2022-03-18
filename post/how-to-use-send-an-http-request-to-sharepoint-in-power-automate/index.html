@@ -17,7 +17,7 @@ Update and Delete operations. we will create an instant flow. let&rsquo;s see
 step-by-step implementation.
  </p><p><strong>1. Go to Power Automate > My flows > select New flow > Select
 instant cloud flow</strong>
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-use-send-an-http-request-to-sharepoint-in-power-automate/STep%201_hu3d4fde71c3050b619e6f300550094fe9_37629_376x0_resize_q100_h2_box_3.webp alt="STep 1.png">
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="STep 1.png">
  
 <strong>2. Read items from To Do list. (Read Operation)</strong>
 So to perform the read operation we will use the <strong>GET</strong> method.
@@ -27,10 +27,10 @@ we need Site address, Method, and URI.
 actions</p><p><strong>Method:</strong> <em>GET</em></p><p><strong>Uri:</strong> <em>_api/web/lists/getbytitle(&lsquo;To Do&rsquo;)/items</em></p><p><strong>Headers</strong>***:** Not required*
 You can also add URI in a variable because this we will need for all the
 actions.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-use-send-an-http-request-to-sharepoint-in-power-automate/Read%20Items_hu026610bde8f621a018c0978868574591_25743_603x0_resize_q100_h2_box_3.webp alt="Read Items.png">
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Read Items.png">
 If it will successfully execute it returns statusCode 200 and records in
 the body if records are available.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-use-send-an-http-request-to-sharepoint-in-power-automate/Read%20Items%20OP_hua2c29762154cd97f7b285e272828c7e0_75537_627x0_resize_q100_h2_box_3.webp alt="Read Items OP.png">
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Read Items OP.png">
  </p><p><strong>3. Create item in To Do list (Create Operation)</strong>
 <strong>Site Address:</strong> Select the Site URL in which we want to perform
 actions</p><p><strong>Method:</strong> <em>POST</em></p><p><strong>Uri:</strong> <em>_api/web/lists/getbytitle(&lsquo;To Do&rsquo;)/items</em></p><p><strong>Headers</strong>***:** Need JSON object*</p><p>*  {<br>       &ldquo;content-type&rdquo;: &ldquo;application/json;odata=verbose&rdquo;,<br>       &ldquo;accept&rdquo;: &ldquo;application/json;odata=verbose&rdquo;<br>  }*</p><p><strong>Body :</strong> <em>RequestBody</em></p><p>*     {<br>         &ldquo;__metadata&rdquo;: {<br>               &ldquo;type&rdquo;: &ldquo;SP.Data.To_x0020_DoListItem&rdquo;<br>        },<br>       &ldquo;Title&rdquo;: &ldquo;Demo Task1&rdquo;,<br>       &ldquo;Status&rdquo;: &ldquo;Started&rdquo;<br>   }*
@@ -38,14 +38,14 @@ In the request body, we need type so now the question is how to get
 type? It is <em><strong>SP.Data.{ListName}ListItem</strong></em> (replace {<em>ListName</em>} with
 list name. if space in between list name then it will be separated with
 <em><strong>_x0020_</strong></em>).
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-use-send-an-http-request-to-sharepoint-in-power-automate/Create%20item_hu7716df832c2996a4b67cc9578110c68f_23498_599x0_resize_q100_h2_box_3.webp alt="Create item.png">
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Create item.png">
 If it will successfully execute it returns statusCode 201.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-use-send-an-http-request-to-sharepoint-in-power-automate/Create%20item%20op_hu6f143d07e66015155e7fabfcfc9c0052_47641_608x0_resize_q100_h2_box_3.webp alt="Create item op.png">
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Create item op.png">
  
 <strong>4. Update item in To Do list (Update Operation)</strong>
 <strong>Site Address:</strong> Select the Site URL in which we want to perform
 actions</p><p><strong>Method:</strong> PATCH</p><p><strong>Uri:</strong> *_api/web/lists/getbytitle(&lsquo;To Do&rsquo;)/items(itemID) *</p><p><strong>Headers</strong>***: ***</p><p>*  {<br>      &ldquo;content-type&rdquo;: &ldquo;application/json;odata=verbose&rdquo;,<br>      &ldquo;IF-MATCH&rdquo;: &ldquo;*&rdquo;<br>}*</p><p><strong>Body :</strong> <em>RequestBody</em></p><p>*     {<br>         &ldquo;__metadata&rdquo;: {<br>               &ldquo;type&rdquo;: &ldquo;SP.Data.To_x0020_DoListItem&rdquo;<br>        },<br>       &ldquo;Title&rdquo;: &ldquo;Task1&rdquo;,<br>   }*</p><p>**  **</p><p>**
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-use-send-an-http-request-to-sharepoint-in-power-automate/Update%20Item_hucbed38805ac1df076dddcfe7ccddf5b1_22671_597x0_resize_q100_h2_box_3.webp alt="Update Item.png">
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Update Item.png">
  </p><p><strong>5. Delete item in To Do list (Delete Operation)</strong>
 <strong>Site Address:</strong> Select the Site URL in which we want to perform
 actions</p><p><strong>Method:</strong> DELETE</p><p><strong>Uri:</strong> *_api/web/lists/getbytitle(&lsquo;To Do&rsquo;)/items(itemID) *</p><p><strong>Headers</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-JSON data-lang=JSON><span style=display:flex><span>{     <span style=color:#960050;background-color:#1e0010>\</span>
@@ -55,7 +55,7 @@ actions</p><p><strong>Method:</strong> DELETE</p><p><strong>Uri:</strong> *_api
 </span></span><span style=display:flex><span>}
 </span></span></code></pre></div><p><strong>Body:</strong> <em>Not required</em>
 *
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-use-send-an-http-request-to-sharepoint-in-power-automate/Delete%20ietm_hu893783441c4dc194d764f82b3d8c6671_20621_599x0_resize_q100_h2_box_3.webp alt="Delete ietm.png"></p><h2 id=summary class=heading-anchor>Summary <a class=anchor-link href=#summary aria-labelledby=summary></a></h2><p>In this article, we have seen the step-by-step implementation of CRUD
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Delete ietm.png"></p><h2 id=summary class=heading-anchor>Summary <a class=anchor-link href=#summary aria-labelledby=summary></a></h2><p>In this article, we have seen the step-by-step implementation of CRUD
 operation of SharePoint list items using Send an HTTP request to
 SharePoint in Power automate.
 Hope this helps!

@@ -45,8 +45,8 @@ in the documentation.</p><h2 id=transitioning-from-power-automate-to-logic-apps 
 scenario, in Power Automate, a Flow has been created to trigger when a
 SharePoint list item, get property from my Office 365 profile and Email
 me when the item has changed (btw, this is available as a template), the
-Flow would look like this:</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-transition-from-power-automate-to-logic-apps/Power%20Automate%20Flow%20Example_hu4784a501debc8194ea606b28528656d5_106160_750x0_resize_q100_h2_box.webp alt="Example Flow in Power Automate"><p>Within Power Automate, you have the option of <strong>exporting</strong> a Flow to
-Logic apps:</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-transition-from-power-automate-to-logic-apps/Export%20to%20Logic%20Apps%20-%20When%20an%20item%20is%20modified_hu2722298aa163ddcbea2eb192343716cc_134408_750x0_resize_q100_h2_box.webp alt="Screenshot showing the export option to Logic Apps"><p>The export feature generates an ARM template (an Azure Resource Manager
+Flow would look like this:</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Example Flow in Power Automate"><p>Within Power Automate, you have the option of <strong>exporting</strong> a Flow to
+Logic apps:</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Screenshot showing the export option to Logic Apps"><p>The export feature generates an ARM template (an Azure Resource Manager
 template are used to provision resources in Azure) in JSON format. If
 you are unfamiliar with JSON, refer to the fantastic article from Bob
 German - <a href=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369>Introduction to
@@ -55,13 +55,13 @@ Using the ARM template, you can go to Azure
 (<a href=https://portal.azure.com>https://portal.azure.com</a>), note - this will require an <a href="https://azure.microsoft.com/pricing?WT.mc_id=AZ-MVP-5003816">Azure
 Subscription</a>.
 Search for &ldquo;custom template&rdquo; then find the option to &ldquo;Deploy a custom
-template&rdquo; as shown below:</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-transition-from-power-automate-to-logic-apps/Deploy%20a%20custom%20template_hubf6579992c54c869af4c9f00f3222da1_96850_750x0_resize_q100_h2_box.webp alt="Deploy a template option in the Azure Portal"><p>Following the instructions and complete the fields in which Azure
+template&rdquo; as shown below:</p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Deploy a template option in the Azure Portal"><p>Following the instructions and complete the fields in which Azure
 presents to you, can deploy the template. After deployment is complete,
 navigate to the Logic App Designer, you may need to authenticate the
 connections, select those and a pop-up window will show for you to log
 in.</p><p>Once completed, you will need to Enable your Logic App then your Flow
 will be ready in Azure:
- </p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-transition-from-power-automate-to-logic-apps/Azure%20Logic%20App%20Equivelant_hua2f08c5ec3847f7789730bdfb20d7f97_182041_750x0_resize_q100_h2_box.webp alt="Showing the Logic App Designer and the example Flow"><p>Whilst this is not the full instructions for performing the import, if
+ </p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Showing the Logic App Designer and the example Flow"><p>Whilst this is not the full instructions for performing the import, if
 you want to see the full process of importing the Flow, visit the
 article titled <a href="https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template?WT.mc_id=AZ-MVP-5003816">Export Flows from Power Automate and deploy to Azure
 Logic
@@ -104,7 +104,7 @@ deploy &ndash; the advantage of this, there is a feature called &ldquo;Budgets&r
 which allow you to set up an alerting period, e.g. monthly that send
 notifications if the costings go over a budget, allowing you to assess
 the resource and optimise &ndash; but to note this isn&rsquo;t a cap.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/how-to-transition-from-power-automate-to-logic-apps/Azure%20Budget_huc92560af3773bf653b7b69b2b399ede7_303982_750x0_resize_q100_h2_box.webp alt="Azure Resource Group with the Budget settings screen"></p><p>Azure Logic apps also have the option of Integrated Service
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt="Azure Resource Group with the Budget settings screen"></p><p>Azure Logic apps also have the option of Integrated Service
 Environments, whilst they provide access to dedicated Azure resources,
 the cost does go up accordingly. Check out the</p><p><a href="https://azure.microsoft.com/pricing/calculator?WT.mc_id=AZ-MVP-5003816">calculator</a></p><p>to understand the costs before proceeding.</p><h2 id=community-resources class=heading-anchor>Community Resources <a class=anchor-link href=#community-resources aria-labelledby=community-resources></a></h2><p>If you want to learn more about Power Automate, Logic Apps or the
 comparison, here are a list of additional resources that you can use to

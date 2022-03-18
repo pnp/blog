@@ -61,7 +61,7 @@ walkthrough on <a href=https://techcommunity.microsoft.com/t5/microsoft-365-pnp
 It explains into detail how to create a new webhook in teams and use the
 CLI to send information to this webhook.  If you follow that walkthrough
 and perhaps set a fancy logo you will end up with the URL you need and a
-welcome post that looks something like the following: </p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/use-cli-for-microsoft-365-to-recognize-contributions/social-webhook_hua74d09498ba9af66a43485d34b02bc7d_16770_750x0_resize_q100_h2_box_3.webp alt=social-webhook.png><h2 id=sharing-your-data class=heading-anchor>Sharing your data <a class=anchor-link href=#sharing-your-data aria-labelledby=sharing-your-data></a></h2><p>Once the webhook is set up you can use the URL and post results to it.
+welcome post that looks something like the following: </p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=social-webhook.png><h2 id=sharing-your-data class=heading-anchor>Sharing your data <a class=anchor-link href=#sharing-your-data aria-labelledby=sharing-your-data></a></h2><p>Once the webhook is set up you can use the URL and post results to it.
 Since we already have the data present we can use PowerShell to set the
 JSON of the card, add our users to it and post the card to Teams. Make
 sure to add some emojis to the Adaptive card to make it look pretty 🦾
@@ -82,7 +82,7 @@ or tweak it to your own liking. 
 </span></span><span style=display:flex><span>m365 adaptivecard send --url $webhookUrl --card $card
 </span></span></code></pre></div><p> 
 Executed the result will look as follows:  
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/use-cli-for-microsoft-365-to-recognize-contributions/2021-07-29_17-51-58_hue7ef3e39e112817d9aa0a2bfefa4a655_25470_750x0_resize_q100_h2_box_3.webp alt=2021-07-29_17-51-58.png></p><p>You can find this sample, and many more samples at the <a href=https://pnp.github.io/cli-microsoft365/sample-scripts/ title="CLI for Microsoft Sample script repository">CLI for
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=2021-07-29_17-51-58.png></p><p>You can find this sample, and many more samples at the <a href=https://pnp.github.io/cli-microsoft365/sample-scripts/ title="CLI for Microsoft Sample script repository">CLI for
 Microsoft Sample script
 repository</a>!
 If you want additional reports the script would look almost the same.

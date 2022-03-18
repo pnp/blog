@@ -20,7 +20,7 @@ the <strong>connection</strong> <strong>user</strong> only. And since you can
 that user it required to go beyond the wall and say &ldquo;there is no spoon&rdquo;.
 And I found it there wasn&rsquo;t a spoon- just the miracle world of Graph
 API.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-35_hu0ede9def1c453f3f3c9cfc089df63978_93661_750x0_resize_q100_h2_box_3.webp alt=image-35>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-35>
 From that phase I advanced to create</p><ul><li>Azure Logic Apps that uses **Graph API **to set the Out of Office /
 Automatic replies to a specific user.</li><li>Setting up a Azure API Management service so that Azure Logic App
 can be called from the Cloud Flow running inside Power Virtual Agent
@@ -33,15 +33,15 @@ documentation (& about permissions) from Docs
 here</a>.</p><p>Next I built a <strong>Azure Logic Apps</strong> that uses <strong>HTTP Request
 trigger</strong> (get) to retrieve user email and number of away days in
 parameters.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-36_hu9317c57c7e0b484f89bda4d4e705b3df_8896_658x0_resize_q100_h2_box_3.webp alt=image-36>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-36>
 This is the format to exclude parameters from the GET
 request. <strong>triggerOutputs()[&lsquo;queries&rsquo;][&lsquo;FileID&rsquo;]</strong></p><p>After those steps I have user email and number of days that needs to be
 set Out of Office. I returned the HTTP-request and prepared variables
 with Application ID, TenantID and App Secret information to be able to
 call Graph API with application permissions.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-37_hub69ac789563be5e12d84ce7898dfc51c_5542_685x0_resize_q100_h2_box_3.webp alt=image-37>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-37>
 The key is of course setting the Out of Office information JSON.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-38_hu9c6c29d17abe7b38139ed877c5713581_20040_713x0_resize_q100_h2_box_3.webp alt=image-38></p><p>The Graph API call URL and example JSON I used to test this are:
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-38></p><p>The Graph API call URL and example JSON I used to test this are:
  </p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-json data-lang=json><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>https:</span><span style=color:#75715e>//graph.microsoft.com/v1.0/users/useremail/mailboxsettings
 </span></span></span><span style=display:flex><span><span style=color:#75715e></span> 
 </span></span><span style=display:flex><span>{
@@ -63,13 +63,13 @@ The key is of course setting the Out of Office information JSON.
 </span></span><span style=display:flex><span>}
 </span></span></code></pre></div><p> 
 Then it was just the case of patching the information
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-39_hu874d72e0808132c38e1fd9db57508c13_25865_750x0_resize_q100_h2_box_3.webp alt=image-39>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-39>
 The next step was to create the <a href=https://azure.microsoft.com/services/api-management>Azure API Management
 Service</a> and
 define the API call there. There are two ways to handle the information
 transportation: in the body (as JSON) or as parameters. I put the
 Username and Days in this Proof of Concept to parameters.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-40_hube6272cd16328921e8f23a2a85c21252_29105_750x0_resize_q100_h2_box_3.webp alt=image-40>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-40>
 For how to create and set up Azure API Management you can <a href="https://docs.microsoft.com/azure/api-management/?WT.mc_id=M365-MVP-5003326">find
 information in this
 URL</a>.
@@ -86,14 +86,14 @@ using it for this as well is a good idea. But setting it up solely for a
 single purpose does not get a good ROI for most cases.</p><p>After setting the API up into the Azure you can export it directly to
 the Dataverse for Teams environment &ndash; so it is there for the bot to use
 without any Premium licensing.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-45_hu55b1fc33d384f549ad75051971e1cc6e_40377_750x0_resize_q100_h2_box_3.webp alt=image-45>
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-47_hudc2384f32bf840dedf99c35096a24950_13178_353x0_resize_q100_h2_box_3.webp alt=image-47></p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-46_hucd19a656971315f5da2784e43e50be48_7292_355x0_resize_q100_h2_box_3.webp alt=image-46><p>When adding an action to your Cloud Flow in the Dataverse for Teams
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-45>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-47></p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-46><p>When adding an action to your Cloud Flow in the Dataverse for Teams
 environment where your bot runs you can find the custom action in the
 menu.
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-43_hu50d8b45a09f60b083f60ec2377b6920a_21736_750x0_resize_q100_h2_box_3.webp alt=image-43></p><p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-44_hu5f9fed30d943a9da7443ce344f1792cc_16052_750x0_resize_q100_h2_box_3.webp alt=image-44>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-43></p><p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-44>
 <strong>Cool &ndash; what about the test-run side?</strong></p><p>And when running this one from the PVA of the acting user I can see the
 results via Teams easily
-<img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-42_hue4d37a7730c0dab11b0726b8d7a04ba0_22580_750x0_resize_q100_h2_box_3.webp alt=image-42></p><p><img loading=lazy decoding=async class="w-100 d-block mb-4" src=/community-blog/images/blog/power-virtual-agents-bot-setting-the-out-of-office/image-41_hu58a41a95773060678cc8d4f3dad57d19_25604_750x0_resize_q100_h2_box_3.webp alt=image-41>
+<img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-42></p><p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=image-41>
 There are of course other steps as well in that PoC conversation & flow
 but setting up the Out of Office proved to require a bit more steps than
 I originally thought. I have to say that this was also a great learning
