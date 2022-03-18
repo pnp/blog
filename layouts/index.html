@@ -102,6 +102,7 @@
           {{ if .Params.images }}
 
           <div class="post-slider slider-sm">
+            <a href="{{ .Permalink }}">
             {{ range .Params.images }}
               {{ $imgPath:= . }}
               
@@ -136,11 +137,13 @@
                     <div class="image-fallback"><span>{{ .Title | truncate 1}}</span></div>
                   {{ end }}
                 {{ end }}
-            {{ end }}
+            {{ end }} 
+            </a>
           </div>
           {{ else }}
             <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
           {{ end }}
+
           <!-- /post thumb -->
           <div class="card-body">
             <h3 class="h4 mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
@@ -194,6 +197,7 @@
 
             <!-- post thumb -->
             {{ if .Params.images }}
+            <a href="{{ .Permalink }}">
               {{ range first 1 .Params.images }}
               {{ $imgPath:= . }}
               {{ if fileExists (add `assets/` $imgPath) }}
@@ -209,7 +213,7 @@
                 {{ else }}
                   <div class="image-fallback"><span>{{ .Title | truncate 1}}</span></div>
                 {{ end }}
-              {{ end }}
+              {{ end }}</a>
               {{ end }}
             {{ else }}
               <div class="image-fallback-sm"><span>{{.Title | truncate 1}}</span></div>
@@ -239,6 +243,7 @@
           <!-- post thumb -->
           {{ if .Params.images }}
           <div class="post-slider slider-sm">
+            <a href="{{ .Permalink }}">
             {{ range .Params.images }}
               {{ $imgPath:= . }}
               {{ if fileExists (add `assets/` .) }}
@@ -271,7 +276,7 @@
                 <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
               {{ end }}
               {{ end }}
-            {{ end }}
+            {{ end }}</a>
           </div>
           {{ else }}
             <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>

@@ -35,6 +35,7 @@
           <div class="col-md-4 mb-4 mb-md-0">
             {{ if .Params.images }}
             <div class="post-slider slider-sm">
+              <a href="{{ .Permalink }}">
               {{ range .Params.images }}
               {{ $imgPath:= . }}
               {{ if fileExists (add `assets/` $imgPath) }}
@@ -64,7 +65,7 @@
               <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
               {{ end }}
               {{ end }}
-              {{ end }}
+              {{ end }}</a>
             </div>
             {{ else }}
             <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
@@ -135,6 +136,7 @@
             <!-- post thumb -->
             {{ if .Params.images }}
             <div class="post-slider slider-sm">
+              <a href="{{ .Permalink }}">
               {{ range .Params.images }}
               {{ $imgPath:= . }}
               {{ if fileExists (add `assets/` $imgPath) }}
@@ -168,7 +170,7 @@
               <div class="image-fallback h-auto"><span>{{.Title | truncate 1}}</span></div>
               {{ end }}
               {{ end }}
-              {{ end }}
+              {{ end }}</a>
             </div>
             {{ else }}
             <div class="image-fallback h-auto"><span>{{.Title | truncate 1}}</span></div>
@@ -231,6 +233,7 @@
         <!-- post thumb -->
         {{ if .Params.images }}
         <div class="post-slider slider-sm">
+          <a href="{{ .Permalink }}">
           {{ range .Params.images }}
           {{ $imgPath:= . }}
           {{ if fileExists (add `assets/` $imgPath) }}
@@ -256,7 +259,7 @@
           </picture>
           {{ end }}
           {{ end }}
-          {{ end }}
+          {{ end }}</a>
         </div>
         {{ end }}
         <!-- /post thumb -->

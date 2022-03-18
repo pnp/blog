@@ -8,6 +8,7 @@
   <article class="widget-card">
     <div class="d-flex">
       {{ if .Params.images }}
+      <a href="{{ .Permalink }}">
         {{ range first 1 .Params.images }}
         {{ $imgPath:= . }}
 
@@ -24,7 +25,7 @@
               <div class="image-fallback-sm"><span>{{$title | truncate 1}}</span></div>
             {{ end }}
           {{ end }}
-        {{ end }}
+        {{ end }}</a>
       {{ else }}
         <div class="image-fallback-sm">
           <div class="image-fallback-sm"><span>{{.Title | truncate 1}}</span></div>
