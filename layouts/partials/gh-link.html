@@ -1,0 +1,41 @@
+{{ $logoPath:= "images/githublogo.svg" }}
+{{ $logoWidth:= replace site.Params.logo_width "px" "x" }}
+
+<!-- checking logo existance -->
+{{ if $logoPath }}
+{{ if fileExists (add `assets/` $logoPath) }}
+{{ $logo:= resources.Get $logoPath }}
+
+<!-- checking gif -->
+{{ $logoExt := path.Ext $logo }}
+{{ if eq $logoExt ".gif" }}
+{{ .Scratch.Set "logo" ($logo.Resize $logoWidth).RelPermalink }}
+<!-- checking svg -->
+{{ else if eq $logoExt ".svg"}}
+{{ .Scratch.Set "logo" $logo.RelPermalink }}
+<!-- logo fallback for svg -->
+{{ .Scratch.Set "logo_fallback" $logo.RelPermalink }}
+{{ else }}
+<!-- logo processing to webp -->
+{{ $logoDefaultWidth:= add (string $logo.Width) "x"}}
+{{ $logoWidth:= $logoWidth | default $logoDefaultWidth }}
+{{ $options := add (string $logoWidth) " webp" }}
+{{ .Scratch.Set "logo" ($logo.Resize $options).RelPermalink }}
+<!-- logo fallback -->
+{{ .Scratch.Set "logo_fallback" ($logo.Resize $logoWidth).RelPermalink }}
+{{ end }}
+<a class="nav-link" href="{{ site.Params.ghrepo  }}">
+<img loading="preload" decoding="async" class="img-fluid" style="height:32px;" src="{{.Scratch.Get `logo`}}" title="GitHub repository"
+  src="{{.Scratch.Get `logo`}}" alt="GitHub repository"
+  onerror="this.onerror=null;this.src='{{.Scratch.Get `logo_fallback`}}'"></a>
+{{ else }}
+<strong class="text-danger">`{{$logoPath}}` doesn't exist</strong>
+{{ end }}
+<!-- / checking logo existance -->
+<!-- logo text -->
+{{ else if site.Params.logo_text }}
+{{ site.Params.logo_text | markdownify }}
+<!-- logo title -->
+{{ else }}
+{{ site.Title | markdownify }}
+{{ end }}

@@ -41,7 +41,8 @@ sidebar = "right" # sidebar value (left, right or false)
 main_taxonomy = "category" # optional value (tag or category)
 
 ### Edit content repo (set to automatically enter "edit" mode; this is good for "improve this page" links)
-ghrepo = "https://github.dev/pnp/community-blog/"
+ghrepo_edit = "https://github.dev/pnp/community-blog/"
+ghrepo = "https://github.com/pnp/community-blog/"
 
 # Preloader
 [preloader]
