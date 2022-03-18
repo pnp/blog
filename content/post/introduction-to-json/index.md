@@ -5,7 +5,7 @@ author: "Bob German"
 githubname: BobGerman
 categories: []
 images:
-- images/blog/introduction-to-json/AdaptiveCardJSON.png
+- images/AdaptiveCardJSON.png
 tags: []
 type: "epic"
 
