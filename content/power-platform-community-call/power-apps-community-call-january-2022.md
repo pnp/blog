@@ -96,4 +96,4 @@ Thank for attending the call or viewing it on demand. 
 
 
 
-{{< attachments style="blue" title="Related documents">}}
+{{< attachments >}}

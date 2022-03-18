@@ -55,4 +55,4 @@ The following topics are covered in this month’s community call.  Demo:  **A
 *   Recurrent Invite - [https://aka.ms/adaptivecardscommunitycall](https://aka.ms/adaptivecardscommunitycall)
 *   Next call – March 10th at 09:00am PST
 
-{{< attachments style="blue" title="Related documents">}}
+{{< attachments >}}

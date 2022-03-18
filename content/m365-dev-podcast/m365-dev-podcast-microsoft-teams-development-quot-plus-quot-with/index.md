@@ -5,7 +5,7 @@ author: "Paul Schaeflein"
 githubname: pschaeflein
 categories: ["Microsoft 365 developer podcast"]
 images:
-  - images/EP272.png
+  - images/EP272PnP.png
 tags: []
 type: "regular"
 ---

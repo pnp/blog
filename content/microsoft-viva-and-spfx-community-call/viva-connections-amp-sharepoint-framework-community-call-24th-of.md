@@ -214,11 +214,11 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 *   Demonstrate SharePoint Framework in practice in Microsoft Viva, Microsoft Teams or SharePoint context
 *   You can download a recurrent invite from [https://aka.ms/spdev-spfx-call](https://aka.ms/spdev-spfx-call). Welcome and join the discussion!
 
+
+{{< attachments >}}
+
 _“Sharing is caring”_
 
 * * *
 
 _Microsoft 365 PnP team, Microsoft - 25th of February 2022_
-
-
-{{< attachments style="blue" title="Related documents">}}

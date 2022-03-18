@@ -1,14 +1,15 @@
 {{- $_hugo_config := `{ "version": 1 }` }}
-{{- $style := .Get "style" | default "transparent" }}
-{{- $title := .Get "title" | default "Attachments" }}
+{{- $title := .Get "title" | default "Related documents" }}
 {{- $sort := .Get "sort" | default "asc" }}
 {{- $icon := .Get "icon" | default "" }}
 {{- if and (not $icon) (eq (len $icon) 0) }}
 {{- $icon = "paperclip" }}
 {{- end }}
 {{- $icon = trim $icon " " }}
-<div class="box attachments {{ $style }}">
-    <div class="box-label">{{ if $icon }}<i class="fas fa-{{ $icon }} fa-fw"></i> {{ end }}{{ $title }}</div>
+
+<h2 id="{{ $title | urlize }}" class="heading-anchor">{{ $title }} <a
+        class="anchor-link" href="#{{ $title | urlize }}"
+        aria-labelledby="{{ $title | urlize  }}"></a></h2>
     <ul class="box-content attachments-files">
         {{- $filesName := "files" }}
         {{- if ne .Page.File.BaseFileName "index" }}
@@ -33,10 +34,9 @@
         {{- $unit = "MB" }}
         {{- end }}
         {{- $unitsymbol := $unit }}
-        <li><a href="{{ (printf "%s%s/%s" $fileLink $filesName .Name) | relURL }}">{{.Name}}</a> ({{$size}}
+        <li><a href="{{ (printf "%s%s/%s" $fileLink $filesName .Name) | relURL }}">{{ if $icon }}<i class="fas fa-{{ $icon }} fa-fw"></i> {{ end }}{{.Name}}</a> ({{$size}}
             {{$unitsymbol}})</li>
         {{- end }}
         {{- end }}
     </ul>
     {{- .Inner }}
-</div>

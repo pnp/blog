@@ -158,11 +158,11 @@ Microsoft 365 Platform community call focuses on latest Microsoft 365 Platform 
 
 You can download recurrent invite for this call from [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call).  Welcome and join in the discussion. If you have any questions, comments, or feedback, feel free to provide your input as comments to this post as well. More details on the Microsoft 365 community and options to get involved are available from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
 
+
+{{< attachments >}}
+
 _“Sharing is caring”_
 
 * * *
 
 _Microsoft 365 PnP team, Microsoft - 22nd of February 2022_
-
-
-{{< attachments style="blue" title="Related documents">}}

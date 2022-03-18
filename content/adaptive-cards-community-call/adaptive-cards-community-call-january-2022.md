@@ -64,4 +64,4 @@ The following topics are covered in this month’s community call: **Adaptive Ca
 *   Recurrent Invite - [https://aka.ms/adaptivecardscommunitycall](https://aka.ms/adaptivecardscommunitycall)
 *   Next call – February 10th at 09:00am PST
 
-{{< attachments style="blue" title="Related documents">}}
+{{< attachments >}}

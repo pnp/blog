@@ -81,6 +81,6 @@
             "short-attachments",
             "attachments"
         ],
-        "body": "{{< attachments title=\"${1:title}\" >}}"
+        "body": "{{< attachments >}}"
     },
 }
