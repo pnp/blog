@@ -1,5 +1,6 @@
 ---
 title: "How to get started deploying Azure resources using Bicep"
+summary: "Luise takes you from zero to hero when deploying Azure resources using Bicep instead of traditional ARM templates. Learn about tools, process and additional tips"
 date: 2022-03-18T08:40:00-04:00
 author: "Luise Freese"
 githubname: LuiseFreese
