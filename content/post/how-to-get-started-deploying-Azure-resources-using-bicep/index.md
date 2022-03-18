@@ -5,10 +5,12 @@ author: "Luise Freese"
 githubname: LuiseFreese
 categories: ["Community post"]
 images:
-  - /images/dragon.jpg
+  - images/dragon.jpg
 tags: ["Azure"]
 type: "regular"
 ---
+
+![Dragon](images/dragon.jpg)
 
 ## tl;dr - why would I care?
 
