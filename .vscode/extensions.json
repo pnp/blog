@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "bungcip.better-toml",
+        "eliostruyf.vscode-microsoft-writingstyleguide",
+        "docsmsft.docs-authoring-pack",
+        "mushan.vscode-paste-image",
+        "phoenisx.gohugo"
+    ]
+}

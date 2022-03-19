@@ -149,7 +149,7 @@ II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
 -   [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) |
     [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
 
-Blog: [Getting started with PnP Script Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) -- aka.ms/script-samples/getting-started
+Blog: [Getting started with PnP Script Samples](https://aka.ms/script-samples/getting-started) -- aka.ms/script-samples/getting-started
 
 -- Many thanks!
 
@@ -275,7 +275,7 @@ slides.
 ## General resources
 
 -   Script Samples - [Getting started with PnP Script
-    Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) --
+    Samples](https://aka.ms/script-samples/getting-started) --
     aka.ms/script-samples/getting-started
 -   Samples - [Power Platform
     Samples](https://aka.ms/powerplatform-samples) | [aka.ms/](http://aka.ms/powerplatform-samples)[powerplatform](http://aka.ms/powerplatform-samples)[-samples](http://aka.ms/powerplatform-samples)

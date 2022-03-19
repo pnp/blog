@@ -1,27 +1,5 @@
 {
-    "MSFT Copyright Header": {
-        "scope": "markdown",
-        "prefix": [
-            "frontmatter",
-            "front"
-        ],
-        "body": [
-            "---",
-            "title: \"$1\"",
-            "summary: \"$2\"",
-            "date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T05:30:00-05:00",
-            "author: \"\"",
-            "githubname: \"\"",
-            "categories: []",
-            "images: []",
-            "tags: []",
-            "type: \"regular\"",
-            "---",
-            "$0"
-        ],
-        "description": "Insert blog post front matter"
-    },
-    "Shortcode -> Insert image": {
+    "PnP Blog -> Insert image": {
         "scope": "markdown",
         "description": "Image shortcode",
         "prefix": [
@@ -30,7 +8,7 @@
         ],
         "body": "{{< image alt=\"${1:alt}\" src=\"images/blog/${TM_FILENAME_BASE}/${3:image-filename}${4|.png,.gif,.jpg|}\" >}}"
     },
-    "Shortcode -> Insert YouTube": {
+    "PnP Blog -> Insert YouTube": {
         "scope": "markdown",
         "description": "YouTube shortcode",
         "prefix": [
@@ -39,7 +17,7 @@
         ],
         "body": "{{< youtube ${1:youtube-id} >}}"
     },
-    "Shortcode -> Insert PodBean": {
+    "PnP Blog -> Insert PodBean": {
         "scope": "markdown",
         "description": "PodBean shortcode",
         "prefix": [
@@ -48,7 +26,7 @@
         ],
         "body": "{{< podbean ${1:podbean-id} >}}"
     },
-    "Shortcode -> Insert Notice": {
+    "PnP Blog -> Insert Notice": {
         "scope": "markdown",
         "description": "Notice shortcode",
         "prefix": [
@@ -61,7 +39,7 @@
             "{{< /notice >}}"
         ]
     },
-    "Shortcode -> Insert Mermaid diagram": {
+    "PnP Blog -> Insert Mermaid diagram": {
         "scope": "markdown",
         "description": "mermaid shortcode",
         "prefix": [
@@ -74,7 +52,7 @@
             "{{< /mermaid >}}"
         ]
     },
-    "Shortcode -> Insert Attachments list": {
+    "PnP Blog -> Insert Attachments list": {
         "scope": "markdown",
         "description": "Attachments shortcode",
         "prefix": [
@@ -82,5 +60,35 @@
             "attachments"
         ],
         "body": "{{< attachments >}}"
+    },    
+    "PnP Blog -> Insert bold bullet": {
+        "scope": "markdown",
+        "description": "Bold bullet",
+        "prefix": [
+            "blog-boldbullet",
+            "boldbullet"
+        ],
+        "body": "**${1:type title and hit tab}** $0"
+    },    
+    "PnP Blog -> Insert video timepoint": {
+        "scope": "markdown",
+        "description": "Timepoint",
+        "prefix": [
+            "blog-timepoint",
+            "timepoint"
+        ],
+        "body": ["-   ${1:type title and hit tab} - [${2:speaker name}](http://twitter.com/${3:Twitter}) (${4:Microsoft}) | @${3} --",
+    "[${5:timecode}](https://youtu.be/${6:youtube code}?t=${7:startat})"]
+    },
+    "PnP Blog -> Insert article link": {
+        "scope": "markdown",
+        "description": "Article link",
+        "prefix": [
+            "blog-articlelink",
+            "articlelink"
+        ],
+        "body": [
+            "*   [${1:type title and hit tab}](${2:https://}) - [${3:author name}](http://twitter.com/${4:Twitter}) (${5:Microsoft}) | @${4}"
+        ]
     },
 }

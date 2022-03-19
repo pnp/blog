@@ -106,7 +106,7 @@ Delivered - 46 Bot samples from the Microsoft Bot Framework Team – each sample
     *   [**Modernizing classic pages from on-premises sites**](https://pnp.github.io/script-samples/modernize-classic-pages-from-publishing-sites/README.html?tabs=pnpps) - [Paul Bullock](http://twitter.com/pkbullock) | @pkbullock
     *   [**Remove orphaned redirect sites**](https://pnp.github.io/script-samples/spo-remove-orphaned-redirect-sites/README.html?tabs=cli-m365-ps) - [Leon Armston](http://twitter.com/LeonArmston) | [@LeonArmston](/t5/user/viewprofilepage/user-id/855621)
 
-Article:  [Getting started with PnP Script Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) – aka.ms/script-samples/getting-started
+Article:  [Getting started with PnP Script Samples](https://aka.ms/script-samples/getting-started) – aka.ms/script-samples/getting-started
 
 – Many thanks!
 
@@ -164,7 +164,7 @@ Additional resources around the covered topics and links from the slides.
 
 ## General resources
 
-*   Script Samples - [Getting started with PnP Script Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) – aka.ms/script-samples/getting-started
+*   Script Samples - [Getting started with PnP Script Samples](https://aka.ms/script-samples/getting-started) – aka.ms/script-samples/getting-started
 *   Samples - [Power Platform Samples](https://aka.ms/powerplatform-samples) | [aka.ms/](http://aka.ms/powerplatform-samples)[powerplatform](http://aka.ms/powerplatform-samples)[\-samples](http://aka.ms/powerplatform-samples)
 *   Microsoft 365 tenant – [Script Samples Gallery](https://aka.ms/script-samples) | aka.ms/script-samples
 *   [Microsoft Teams Samples Gallery](https://pnp.github.io/teams-dev-samples/) | aka.ms/teams-samples

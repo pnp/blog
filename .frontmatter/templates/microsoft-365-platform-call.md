@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 Platform Call – DATE
-date: 2022-01-25T09:09:00-04:00
+date: {{ .Date }}
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:

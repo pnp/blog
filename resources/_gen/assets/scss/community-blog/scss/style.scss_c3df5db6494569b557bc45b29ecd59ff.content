@@ -1281,6 +1281,9 @@ mark {
   --BOX-ORANGE-TEXT-color: var(--BOX-ORANGE-color);
   --BOX-RED-TEXT-color: var(--BOX-RED-color); }
 
+@media (prefers-color-scheme: dark) {
+  /* we'll add support for darkmode here */ }
+
 a.navbar-brand {
   color: #fff;
   padding-top: 0; }

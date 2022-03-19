@@ -100,7 +100,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) 
     *   **[Hide SharePoint list from Site Contents](https://pnp.github.io/script-samples/spo-hide-list-from-site-contents/README.html?tabs=cli-m365-ps)** - [Leon Armston](http://twitter.com/LeonArmston) | [@LeonArmston](/t5/user/viewprofilepage/user-id/855621)
     *   **[Add App Catalog to SharePoint site](https://pnp.github.io/script-samples/spo-add-app-catalog/README.html?tabs=cli-m365-ps)** - [Chandani Prajapati](http://twitter.com/Chandani_SPD) | @Chandani\_SPD
 
-Article:  [Getting started with PnP Script Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) – aka.ms/script-samples/getting-started
+Article:  [Getting started with PnP Script Samples](https://aka.ms/script-samples/getting-started) – aka.ms/script-samples/getting-started
 
 – Many thanks!
 
@@ -150,7 +150,7 @@ Additional resources around the covered topics and links from the slides.
 
 ## General resources
 
-*   Script Samples - [Getting started with PnP Script Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) – aka.ms/script-samples/getting-started
+*   Script Samples - [Getting started with PnP Script Samples](https://aka.ms/script-samples/getting-started) – aka.ms/script-samples/getting-started
 *   Samples - [Power Platform Samples](https://aka.ms/powerplatform-samples) | [aka.ms/](http://aka.ms/powerplatform-samples)[powerplatform](http://aka.ms/powerplatform-samples)[\-samples](http://aka.ms/powerplatform-samples)
 *   Microsoft 365 tenant – [Script Samples Gallery](https://aka.ms/script-samples) | aka.ms/script-samples
 *   [Microsoft Teams Samples Gallery](https://pnp.github.io/teams-dev-samples/) | aka.ms/teams-samples

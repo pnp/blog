@@ -1,0 +1,34 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Serve",
+            "type": "shell",
+            "command": "hugo server",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
+            "isBackground": true,
+        },
+        {
+            "label": "Serve Drafts",
+            "type": "shell",
+            "command": "hugo server -D",
+            "group": {
+                "kind": "test",
+                "isDefault": false
+            },
+            "isBackground": true,
+        },
+        {
+            "label": "Build",
+            "type": "shell",
+            "command": "hugo",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+        }
+    ]
+}

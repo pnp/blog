@@ -192,7 +192,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     SPFx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/flexible-and-powerful-logging-using-pnp-logging-in-spfx/ba-p/2655701)
 -   10th of August - [Paul Bullock](https://twitter.com/pkbullock) (CPS)
     - [Getting started with PnP Script
-    Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414)
+    Samples](https://aka.ms/script-samples/getting-started)
 -   9th of August - [Luise
     Freese](https://twitter.com/LuiseFreese) - [Putting some more FUN
     into Azure Functions, Managed Identity & Microsoft

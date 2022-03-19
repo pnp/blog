@@ -12,8 +12,8 @@ $white: {{.white | default "#fff"}};
 $light: {{.light | default "#EDF6F5"}};
 
 // Font Variables
-$primary-font: '{{ replaceRE ":[ital,]*wght@[0-9,;]+" "" .primary_font | default "Segoeui"}}', {{.primary_font_type | default "sans-serif"}};
-$secondary-font: '{{ replaceRE ":[ital,]*wght@[0-9,;]+" "" .secondary_font | default "Segoeui"}}', {{.secondary_font_type | default "sans-serif"}};
+$primary-font: '{{ replaceRE ":[ital,]*wght@[0-9,;]+" "" .primary_font | default "Lato"}}', {{.primary_font_type | default "sans-serif"}};
+$secondary-font: '{{ replaceRE ":[ital,]*wght@[0-9,;]+" "" .secondary_font | default "Lato"}}', {{.secondary_font_type | default "sans-serif"}};
 $icon-font: '{{.icon_font | default "Font Awesome 5 Free"}}';
 {{ end }}
 
