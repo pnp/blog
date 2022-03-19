@@ -1845,7 +1845,7 @@ LITHIUM.RenderedScripts = [
 <LI>Found an issue with SharePoint Dev? - please let us know at<SPAN>&nbsp;</SPAN><A href="http://aka.ms/spdev-issues" target="_blank" rel="noreferrer noopener">http://aka.ms/spdev-issues</A></LI>
 <LI><A href="https://sharepoint.github.io/sp-dev-fx-property-controls/" target="_blank" rel="noopener nofollow noreferrer">Reusable web part property controls</A></LI>
 <LI><A href="https://sharepoint.github.io/sp-dev-fx-controls-react/" target="_blank" rel="noopener nofollow noreferrer">Reusable react controls for SharePoint Framework solutions</A></LI>
-<LI><A href="https://dev.office.com/blogs/webcast-reusable-controls-for-your-sharepoint-framework-solutions" target="_blank" rel="noreferrer noopener">Reusable controls webcast</A></LI>
+<LI><A href="https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/" target="_blank" rel="noreferrer noopener">Reusable controls webcast</A></LI>
 <LI><A href="https://sharepoint.github.io/office365-cli/" target="_blank" rel="noreferrer noopener nofollow">Office 365 CLI</A></LI>
 <LI><A href="https://github.com/pnp/generator-spfx" target="_blank" rel="noopener noreferrer">PnP SPFx Yeoman Generator</A><SPAN>&nbsp;</SPAN>- Extends the out-of-the-box experience with open-source community capabilities</LI>
 <LI><A href="http://aka.ms/spdev-uservoice" target="_blank" rel="noreferrer noopener">SharePoint Dev UserVoice</A><SPAN>&nbsp;</SPAN>- for new feature requests</LI>
