@@ -1779,7 +1779,7 @@ LITHIUM.RenderedScripts = [
 </LI>
 </UL>
 <P>&nbsp;</P>
-<P>Article: &nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414" target="_blank">Getting started with PnP Script Samples</A><SPAN>&nbsp;</SPAN>– aka.ms/script-samples/getting-started</P>
+<P>Article: &nbsp;<A href="https://aka.ms/script-samples/getting-started" target="_blank">Getting started with PnP Script Samples</A><SPAN>&nbsp;</SPAN>– aka.ms/script-samples/getting-started</P>
 <P>&nbsp;</P>
 <P class="lia-indent-padding-left-30px">– Many thanks!</P>
 <P>&nbsp;</P>
@@ -1827,7 +1827,7 @@ LITHIUM.RenderedScripts = [
 <P>&nbsp;</P>
 <P><STRONG>General resources</STRONG>:</P>
 <UL>
-<LI>Script Samples -&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414" target="_blank">Getting started with PnP Script Samples</A><SPAN>&nbsp;– aka.ms/script-samples/getting-started</SPAN></LI>
+<LI>Script Samples -&nbsp;<A href="https://aka.ms/script-samples/getting-started" target="_blank">Getting started with PnP Script Samples</A><SPAN>&nbsp;– aka.ms/script-samples/getting-started</SPAN></LI>
 <LI>Samples -<SPAN>&nbsp;</SPAN><A href="https://aka.ms/powerplatform-samples" target="_blank" rel="noopener noreferrer">Power Platform Samples</A><SPAN>&nbsp;</SPAN>|<SPAN>&nbsp;</SPAN><A href="http://aka.ms/powerplatform-samples" target="_blank" rel="noopener noreferrer">aka.ms/</A><A href="http://aka.ms/powerplatform-samples" target="_blank" rel="noopener noreferrer">powerplatform</A><A href="http://aka.ms/powerplatform-samples" target="_blank" rel="noopener noreferrer">-samples</A></LI>
 <LI><SPAN>Microsoft 365 tenant –&nbsp;</SPAN><A href="https://aka.ms/script-samples" target="_blank" rel="noopener noreferrer">Script Samples Gallery</A><SPAN>&nbsp;| aka.ms/script-samples</SPAN></LI>
 <LI><A href="https://pnp.github.io/teams-dev-samples/" target="_blank" rel="noopener nofollow noreferrer">Microsoft Teams Samples Gallery</A><SPAN>&nbsp;</SPAN>| aka.ms/teams-samples</LI>
