@@ -27,7 +27,7 @@ Ayca Bas
 -   [Set up change notifications that include resource
     data](https://docs.microsoft.com/graph/webhooks-with-resource-data)
 -   [Build session
-    recording](https://www.youtube.com/watch?v=d04sJHNYWVshttps://www.youtube.com/watch?v=d04sJHNYWVs)
+    recording](https://www.youtube.com/watch?v=d04sJHNYWVs)
 
 ### Microsoft News 
 

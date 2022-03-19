@@ -181,7 +181,7 @@ Additional resources around the covered topics and links from the slides.
 *   Found an issue with SharePoint Dev? - please let us know at [http://aka.ms/spdev-issues](http://aka.ms/spdev-issues)
 *   [Reusable web part property controls](https://sharepoint.github.io/sp-dev-fx-property-controls/)
 *   [Reusable react controls for SharePoint Framework solutions](https://sharepoint.github.io/sp-dev-fx-controls-react/)
-*   [Reusable controls webcast](https://dev.office.com/blogs/webcast-reusable-controls-for-your-sharepoint-framework-solutions)
+*   [Reusable controls webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
 *   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
 *   [PnP SPFx Yeoman Generator](https://github.com/pnp/generator-spfx) \- Extends the out-of-the-box experience with open-source community capabilities
 *   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) \- for new feature requests

@@ -202,7 +202,7 @@ slides.
     Editor](https://microsoft.github.io/monaco-editor/) 
 
 -   PnP/SPFx-property-controls - [PropertyPaneMarkdownContent
-    control](https://pnp.github.io/sp-dev-fx-property-controls/controls/PropertyPaneMarkdownContent.html) 
+    control](https://pnp.github.io/sp-dev-fx-property-controls/controls/PropertyPaneMarkdownContent) 
 
 -   PnP/SPFx-controls-react - [Placeholder
     control](https://pnp.github.io/sp-dev-fx-controls-react/controls/Placeholder) 
@@ -303,7 +303,7 @@ slides.
     solutions](https://sharepoint.github.io/sp-dev-fx-controls-react/)
 
 -   [Reusable controls
-    webcast](https://dev.office.com/blogs/webcast-reusable-controls-for-your-sharepoint-framework-solutions)
+    webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
 
 -   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
 

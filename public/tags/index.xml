@@ -6,7 +6,160 @@
     <description>Recent content in Tags on Microsoft 365 Community Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Mar 2022 05:56:00 -0500</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Mar 2022 08:40:00 -0400</lastBuildDate><atom:link href="https://pnp.github.io/community-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure</title>
+      <link>https://pnp.github.io/community-blog/tags/azure/</link>
+      <pubDate>Fri, 18 Mar 2022 08:40:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Add-ins</title>
+      <link>https://pnp.github.io/community-blog/tags/add-ins/</link>
+      <pubDate>Wed, 16 Mar 2022 08:01:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/add-ins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365</title>
+      <link>https://pnp.github.io/community-blog/tags/microsoft-365/</link>
+      <pubDate>Wed, 16 Mar 2022 08:01:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/microsoft-365/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Office 365</title>
+      <link>https://pnp.github.io/community-blog/tags/office-365/</link>
+      <pubDate>Wed, 16 Mar 2022 08:01:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/office-365/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Cards</title>
+      <link>https://pnp.github.io/community-blog/tags/adaptive-cards/</link>
+      <pubDate>Wed, 16 Mar 2022 03:30:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/adaptive-cards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community Call</title>
+      <link>https://pnp.github.io/community-blog/tags/community-call/</link>
+      <pubDate>Wed, 16 Mar 2022 03:30:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/community-call/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer</title>
+      <link>https://pnp.github.io/community-blog/tags/developer/</link>
+      <pubDate>Wed, 16 Mar 2022 03:30:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>extensions</title>
+      <link>https://pnp.github.io/community-blog/tags/extensions/</link>
+      <pubDate>Wed, 16 Mar 2022 03:30:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/extensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Graph</title>
+      <link>https://pnp.github.io/community-blog/tags/microsoft-graph/</link>
+      <pubDate>Wed, 16 Mar 2022 01:37:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/microsoft-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Teams</title>
+      <link>https://pnp.github.io/community-blog/tags/microsoft-teams/</link>
+      <pubDate>Wed, 16 Mar 2022 01:37:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/microsoft-teams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SharePoint</title>
+      <link>https://pnp.github.io/community-blog/tags/sharepoint/</link>
+      <pubDate>Wed, 16 Mar 2022 01:37:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/sharepoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SharePoint Framework</title>
+      <link>https://pnp.github.io/community-blog/tags/sharepoint-framework/</link>
+      <pubDate>Wed, 16 Mar 2022 01:37:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/sharepoint-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>List formatting</title>
+      <link>https://pnp.github.io/community-blog/tags/list-formatting/</link>
+      <pubDate>Mon, 14 Mar 2022 03:04:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/list-formatting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Lists</title>
+      <link>https://pnp.github.io/community-blog/tags/microsoft-lists/</link>
+      <pubDate>Mon, 14 Mar 2022 03:04:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/microsoft-lists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>List Designs</title>
+      <link>https://pnp.github.io/community-blog/tags/list-designs/</link>
+      <pubDate>Mon, 14 Mar 2022 02:59:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/list-designs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>List Templates</title>
+      <link>https://pnp.github.io/community-blog/tags/list-templates/</link>
+      <pubDate>Mon, 14 Mar 2022 02:59:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/list-templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PnP PowerShell</title>
+      <link>https://pnp.github.io/community-blog/tags/pnp-powershell/</link>
+      <pubDate>Mon, 14 Mar 2022 02:59:00 -0500</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/pnp-powershell/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ACEs</title>
       <link>https://pnp.github.io/community-blog/tags/aces/</link>
@@ -17,74 +170,47 @@
     </item>
     
     <item>
-      <title>Add-ins</title>
-      <link>https://pnp.github.io/community-blog/tags/add-ins/</link>
-      <pubDate>Fri, 11 Mar 2022 05:56:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/add-ins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>extensions</title>
-      <link>https://pnp.github.io/community-blog/tags/extensions/</link>
-      <pubDate>Fri, 11 Mar 2022 05:56:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/extensions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft 365</title>
-      <link>https://pnp.github.io/community-blog/tags/microsoft-365/</link>
-      <pubDate>Fri, 11 Mar 2022 05:56:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/microsoft-365/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft Graph</title>
-      <link>https://pnp.github.io/community-blog/tags/microsoft-graph/</link>
-      <pubDate>Fri, 11 Mar 2022 05:56:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/microsoft-graph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft Teams</title>
-      <link>https://pnp.github.io/community-blog/tags/microsoft-teams/</link>
-      <pubDate>Fri, 11 Mar 2022 05:56:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/microsoft-teams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SharePoint</title>
-      <link>https://pnp.github.io/community-blog/tags/sharepoint/</link>
-      <pubDate>Fri, 11 Mar 2022 05:56:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/sharepoint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SharePoint Framework</title>
-      <link>https://pnp.github.io/community-blog/tags/sharepoint-framework/</link>
-      <pubDate>Fri, 11 Mar 2022 05:56:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/sharepoint-framework/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Viva Connections</title>
       <link>https://pnp.github.io/community-blog/tags/viva-connections/</link>
       <pubDate>Fri, 11 Mar 2022 05:56:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/tags/viva-connections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DataVerse</title>
+      <link>https://pnp.github.io/community-blog/tags/dataverse/</link>
+      <pubDate>Thu, 10 Mar 2022 22:29:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/dataverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow</title>
+      <link>https://pnp.github.io/community-blog/tags/flow/</link>
+      <pubDate>Thu, 10 Mar 2022 22:29:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Apps</title>
+      <link>https://pnp.github.io/community-blog/tags/power-apps/</link>
+      <pubDate>Thu, 10 Mar 2022 22:29:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/power-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Automate</title>
+      <link>https://pnp.github.io/community-blog/tags/power-automate/</link>
+      <pubDate>Thu, 10 Mar 2022 22:29:00 -0400</pubDate>
+      
+      <guid>https://pnp.github.io/community-blog/tags/power-automate/</guid>
       <description></description>
     </item>
     
@@ -125,33 +251,6 @@
     </item>
     
     <item>
-      <title>Adaptive Cards</title>
-      <link>https://pnp.github.io/community-blog/tags/adaptive-cards/</link>
-      <pubDate>Fri, 25 Feb 2022 05:44:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/adaptive-cards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developer</title>
-      <link>https://pnp.github.io/community-blog/tags/developer/</link>
-      <pubDate>Tue, 22 Feb 2022 12:08:00 -0400</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/developer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Apps</title>
-      <link>https://pnp.github.io/community-blog/tags/power-apps/</link>
-      <pubDate>Tue, 22 Feb 2022 12:08:00 -0400</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/power-apps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Microsoft 365 Developer</title>
       <link>https://pnp.github.io/community-blog/tags/microsoft-365-developer/</link>
       <pubDate>Fri, 18 Feb 2022 05:11:59 -0500</pubDate>
@@ -179,24 +278,6 @@
     </item>
     
     <item>
-      <title>Community Call</title>
-      <link>https://pnp.github.io/community-blog/tags/community-call/</link>
-      <pubDate>Thu, 17 Feb 2022 04:40:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/community-call/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Office 365</title>
-      <link>https://pnp.github.io/community-blog/tags/office-365/</link>
-      <pubDate>Tue, 15 Feb 2022 12:18:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/office-365/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Adaptive Card Extensions</title>
       <link>https://pnp.github.io/community-blog/tags/adaptive-card-extensions/</link>
       <pubDate>Fri, 11 Feb 2022 02:20:00 -0500</pubDate>
@@ -206,38 +287,11 @@
     </item>
     
     <item>
-      <title>Only show when</title>
-      <link>https://pnp.github.io/community-blog/tags/only-show-when/</link>
-      <pubDate>Wed, 09 Feb 2022 03:31:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/only-show-when/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ShowCard</title>
-      <link>https://pnp.github.io/community-blog/tags/showcard/</link>
-      <pubDate>Wed, 09 Feb 2022 03:31:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/showcard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Templating language</title>
       <link>https://pnp.github.io/community-blog/tags/templating-language/</link>
       <pubDate>Wed, 09 Feb 2022 03:31:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/tags/templating-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ToggleVisibility</title>
-      <link>https://pnp.github.io/community-blog/tags/togglevisibility/</link>
-      <pubDate>Wed, 09 Feb 2022 03:31:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/togglevisibility/</guid>
       <description></description>
     </item>
     
@@ -256,15 +310,6 @@
       <pubDate>Mon, 07 Feb 2022 02:37:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/tags/spfx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Automate</title>
-      <link>https://pnp.github.io/community-blog/tags/power-automate/</link>
-      <pubDate>Mon, 31 Jan 2022 05:23:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/tags/power-automate/</guid>
       <description></description>
     </item>
     

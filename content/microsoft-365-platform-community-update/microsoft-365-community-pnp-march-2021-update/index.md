@@ -245,15 +245,15 @@ PnP Weekly video blog / podcast shows:
 -   9th of March - [Microsoft 365 PnP Weekly -- Episode
     117](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-117/ba-p/2193707)
 -   2nd of March - [Microsoft 365 PnP Weekly -- Episode
-    116](https://developer.microsoft.com/microsoft-365/blogs/microsoft-365-pnp-weekly-episode-116/)
+    116](https://pnp.github.io/community-blog/microsoft-365-pnp-weekly/episode-116/)
 -   23rd of February - [Microsoft 365 PnP Weekly -- Episode
-    115](https://developer.microsoft.com/microsoft-365/blogs/microsoft-365-pnp-weekly-episode-115/)
+    115](https://pnp.github.io/community-blog/microsoft-365-pnp-weekly/episode-115/)
 -   16th of February - [Microsoft 365 PnP Weekly -- Episode
-    114](https://developer.microsoft.com/microsoft-365/blogs/microsoft-365-pnp-weekly-episode-114/)
+    114](https://pnp.github.io/community-blog/microsoft-365-pnp-weekly/episode-114/)
 -   8th of February - [Microsoft 365 PnP Weekly -- Episode
-    113](https://developer.microsoft.com/microsoft-365/blogs/microsoft-365-pnp-weekly-episode-113/) 
+    113](https://pnp.github.io/community-blog/microsoft-365-pnp-weekly/episode-113/) 
 -   2nd of February - [Microsoft 365 PnP Weekly -- Episode
-    112](https://developer.microsoft.com/microsoft-365/blogs/microsoft-365-pnp-weekly-episode-112/)
+    112](https://pnp.github.io/community-blog/microsoft-365-pnp-weekly/microsoft-365-pnp-weekly-episode-112/)
 We highly recommend also subscribing on the [Microsoft 365 Developer
 Podcast show](https://www.m365devpodcast.com/), which is a great show
 covering also latest development in the Microsoft 365 platform from

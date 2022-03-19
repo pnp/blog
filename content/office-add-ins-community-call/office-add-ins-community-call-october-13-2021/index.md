@@ -204,7 +204,7 @@ scenario. Please submit a feature request for this at
 -   Repo -- [Hello world
     samples](https://github.com/OfficeDev/PnP-OfficeAddins/pull/213)
 -   Article -- [Office Add-ins platform
-    overview](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins%C2%A0)
+    overview](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins)
 
 ### Office Add-ins community call 
 

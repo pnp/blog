@@ -135,7 +135,7 @@ Topics covered in this call
     Jackett](http://twitter.com/BrianTJackett) (Microsoft) *|*
     @BrianTJackett -- [5:45](https://youtu.be/HlLv3AQ-btk?t=345)
 -   **Demo 1:**  Getting started on building Microsoft Teams tabs with
-    Adaptive Cards - [Loki Meyburg](http://twitter.com/LokiMeyburg) |
+    Adaptive Cards - [Loki Meyburg](https://twitter.com/LokiMeyburg) |
     @LokiMeyburg -- [8:30](https://youtu.be/HlLv3AQ-btk?t=510)
 -   **Demo 2:**  Microsoft Learn Module - Extend Microsoft Viva
     Connections with Web Parts - [Waldek

@@ -17,39 +17,12 @@
     </item>
     
     <item>
-      <title>PnP PowerShell or CLI for Microsoft 365 or both or other</title>
-      <link>https://pnp.github.io/community-blog/post/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/</link>
-      <pubDate>Tue, 11 Jan 2022 15:40:24 +0600</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/post/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/</guid>
-      <description>During my SP consultant/dev work I most of the times used the last two. From time to time I got the question: which one is better?</description>
-    </item>
-    
-    <item>
-      <title>CLI for Microsoft 365 on your mobile</title>
-      <link>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-on-your-mobile/</link>
-      <pubDate>Tue, 11 Jan 2022 02:44:24 +0600</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/post/cli-for-microsoft-365-on-your-mobile/</guid>
-      <description>CLI for Microsoft 365 is a cross platform command line tool you may use to manage many things. To name a few, you may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course), now there is even a dedicated command to help you set up Viva. The list keeps on growing and growing</description>
-    </item>
-    
-    <item>
       <title>CLI for Microsoft 365 v4.3</title>
       <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-3/</link>
       <pubDate>Sat, 08 Jan 2022 11:19:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v4-3/</guid>
       <description>Manage Microsoft 365 and SharePoint Framework projects on any platform CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.</description>
-    </item>
-    
-    <item>
-      <title>A JMESPath cheat sheet for the CLI for Microsoft 365</title>
-      <link>https://pnp.github.io/community-blog/post/a-jmespath-cheat-sheet-for-the-cli-for-microsoft-365/</link>
-      <pubDate>Fri, 10 Dec 2021 04:23:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/post/a-jmespath-cheat-sheet-for-the-cli-for-microsoft-365/</guid>
-      <description>JMESPath The CLI documentation explains some of the basics of filtering.</description>
     </item>
     
     <item>
@@ -206,15 +179,6 @@
     </item>
     
     <item>
-      <title>Export Power Apps and Power Automate user licenses</title>
-      <link>https://pnp.github.io/community-blog/post/export-power-apps-and-power-automate-user-licenses/</link>
-      <pubDate>Fri, 23 Apr 2021 05:48:00 -0400</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/post/export-power-apps-and-power-automate-user-licenses/</guid>
-      <description>Context During a Power Platform audit for a customer, I was looking for exporting all user licenses data into a single file to analyze it with Power BI.</description>
-    </item>
-    
-    <item>
       <title>CLI for Microsoft 365 v3.8</title>
       <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-8/</link>
       <pubDate>Tue, 30 Mar 2021 10:00:00 -0400</pubDate>
@@ -242,39 +206,12 @@
     </item>
     
     <item>
-      <title>5 commands to try in CLI for Microsoft 365 to fall in love with it</title>
-      <link>https://pnp.github.io/community-blog/post/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/</link>
-      <pubDate>Thu, 11 Mar 2021 09:33:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/post/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with/</guid>
-      <description>After I blogged about How to send Adaptive Cards with CLI for Microsoft 365 and also used CLI to compare different ways to create SharePoint lists, I found some more commands that made me fall in love with it.</description>
-    </item>
-    
-    <item>
-      <title>Doctor - Maintain your documentation on SharePoint without pain</title>
-      <link>https://pnp.github.io/community-blog/post/doctor-maintain-your-documentation-on-sharepoint-without-pain/</link>
-      <pubDate>Wed, 10 Mar 2021 03:41:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/post/doctor-maintain-your-documentation-on-sharepoint-without-pain/</guid>
-      <description>The story  Internally in our team, we did the same.</description>
-    </item>
-    
-    <item>
       <title>CLI for Microsoft 365 v3.6</title>
       <link>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-6/</link>
       <pubDate>Sat, 27 Feb 2021 02:51:00 -0500</pubDate>
       
       <guid>https://pnp.github.io/community-blog/cli-for-microsoft-365/cli-for-microsoft-365-v3-6/</guid>
       <description>We&amp;rsquo;ve just published a new version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 tenants and SharePoint Framework projects on any platform.</description>
-    </item>
-    
-    <item>
-      <title>How to send Adaptive Cards with CLI Microsoft 365</title>
-      <link>https://pnp.github.io/community-blog/post/how-to-send-adaptive-cards-with-cli-microsoft-365/</link>
-      <pubDate>Wed, 17 Feb 2021 08:38:00 -0500</pubDate>
-      
-      <guid>https://pnp.github.io/community-blog/post/how-to-send-adaptive-cards-with-cli-microsoft-365/</guid>
-      <description>In this blog post I want to explain how you can send an Adaptive Card with CLI Microsoft 365.</description>
     </item>
     
   </channel>
