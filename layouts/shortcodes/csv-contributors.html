@@ -1,0 +1,27 @@
+{{- $filesName := "data" }}
+{{- $file := .Get "file" }}
+{{- if ne .Page.File.BaseFileName "index" }}
+{{- $filesName = printf "%s.data" .Page.File.BaseFileName }}
+{{- end}}
+
+{{- $fileLink := printf "%s/%s" (.Page.Language.ContentDir | default "content") .Page.File.Dir }}
+{{- $fileLink = replace (replace $fileLink "\\" "/") "content/" "" }}
+{{- $fileDir := printf "%s/%s%s/%s" (.Page.Language.ContentDir | default "content")  .Page.File.Dir $filesName $file }}
+{{- $fileDir = replace $fileDir "\\" "/" }}
+
+    {{ $sep := .Get "sep" | default "," }}    
+    <ul>
+    {{ range $i, $r := getCSV $sep $fileDir }}
+    {{ if eq $i 0 }}
+    {{else}}
+        <li>
+            {{ if index $r 1  }}
+            <a href="{{ index $r 1 | safeURL }}">{{ index $r 0 }}</a> {{ with index $r 2 }} ({{ . }}) {{ end }} {{ with index $r 3 }} | {{ . }} {{ end }}
+            {{ else }}
+                {{ index $r 0 }}{{ with index $r 2 }} ({{ . }}) {{ end }} {{ with index $r 3 }} | {{ . }} {{ end }}
+            {{ end }}
+        </li>
+    {{end}}
+    {{ end }}
+    </ul>
+
