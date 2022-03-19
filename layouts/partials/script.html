@@ -133,6 +133,12 @@ themeVariables: {
 }});
 </script> 
 {{ end }}
+{{ if .HasShortcode "asciinema" }}
+<!-- Asciinema support -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/asciinema-player/2.6.1/asciinema-player.min.js"
+  integrity="sha512-MjHbdLR1n8cAM8UQLZB/4NUbbOkDk9H+GCzi5Vfw5oQP6utsTb456XEB+R59VtCul88CNVXLGTa6Va9JTOYh+Q=="
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+{{ end }}
 <script type="text/javascript">
   (function (c, l, a, r, i, t, y) {
     c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };

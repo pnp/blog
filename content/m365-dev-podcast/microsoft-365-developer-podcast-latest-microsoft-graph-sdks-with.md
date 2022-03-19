@@ -30,7 +30,7 @@ and Darrel Miller
 ## Microsoft News 
 
 -   [Multi-tenant architecture for SaaS apps - Microsoft 365 Developer
-    Blog](https://developer.microsoft.com/graph/blogs/multi-tenant-architechture-for-saas-apps/?WT.mc_id=M365-MVP-4025164)
+    Blog](https://developer.microsoft.com/graph/blogs/multi-tenant-architecture-for-saas-apps/?WT.mc_id=M365-MVP-4025164)
 -   [MS Graph, Blazor WebAssembly and Azure Static Web Apps - DEV
     Community](https://dev.to/azure/ms-graph-blazor-webassembly-and-azure-static-web-apps-3p1d)
 

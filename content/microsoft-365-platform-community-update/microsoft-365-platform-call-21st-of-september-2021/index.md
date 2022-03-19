@@ -49,7 +49,7 @@ takes place in chat throughout the call.
 -   [Bringing large groups and communities together in
     Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bringing-large-groups-and-communities-together-in-teams/ba-p/2758095)
 -   [Multi-tenant architecture for SaaS
-    apps](https://developer.microsoft.com/microsoft-365/blogs/multi-tenant-architechture-for-saas-apps/)
+    apps](https://developer.microsoft.com/microsoft-365/blogs/multi-tenant-architecture-for-saas-apps/)
 
 
 ## Actions

@@ -2,6 +2,9 @@ languageCode = 'en-us'
 baseURL = "https://pnp.github.io/community-blog"
 title = "Microsoft 365 Community Blog"
 
+# Set content editor
+newContentEditor = "code"
+
 [frontmatter]
 date = ['date', 'publishDate', 'lastmod']
 expiryDate = ['expiryDate']

@@ -71,7 +71,7 @@ everyone for your contributions to the community!
 ## Community articles
 
 -   [Multi-tenant architecture for SaaS
-    apps](https://developer.microsoft.com/microsoft-365/blogs/multi-tenant-architechture-for-saas-apps/) -
+    apps](https://developer.microsoft.com/microsoft-365/blogs/multi-tenant-architecture-for-saas-apps/) -
     [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft)
     | [rabwill](https://github.com/rabwill)
 -   [Microsoft 365 Developer Podcast - Microsoft 365 App Certification
