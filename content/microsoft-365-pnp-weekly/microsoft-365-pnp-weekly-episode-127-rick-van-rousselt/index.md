@@ -169,7 +169,7 @@ everyone for your contributions to the community!
     | @sergeev_srg
 -   [Find who deleted files in SharePoint Online using PowerShell PnP
     (from the recycle
-    bin)](https://veronicageek.com/microsoft-365/sharepoint-online/find-who-deleted-files-in-sharepoint-online-using-powershell-pnp-from-the-recycle-bin/2021/05/) -
+    bin)](https://veronicageek.com/2021/find-who-deleted-files-in-sharepoint-from-recycle-bin/) -
     [Veronique Lengelle](https://twitter.com/veronicageek) (CPS)
     | @veronicageek
 -   [Episode #154 - Introducing the Microsoft Graph

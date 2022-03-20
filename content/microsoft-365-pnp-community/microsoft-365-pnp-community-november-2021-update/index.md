@@ -981,7 +981,7 @@ involved!
 -   **Office 365 CLI** - Using the Office 365 CLI, you can manage your
     Microsoft Office 365 tenant and SharePoint Framework projects on any
     platform. See [release
-    notes](https://pnp.github.io/office365-cli/about/release-notes/) for
+    notes](https://pnp.github.io/cli-microsoft365/about/release-notes/) for
     the latest updates.
 -   **PnPJs** - PnPJs encapsulates SharePoint REST APIs and provides a
     fluent and easily usable interface for querying data from SharePoint
@@ -1231,7 +1231,7 @@ last monthly summary:
 -   [Learn Together: Developing Real-Time Collaborative Apps with Azure,
     M365, Power Platform, and
     GitHub](https://www.youtube.com/watch?v=-mcjtnR7CFs) - [April
-    Dunnam](httpw://twitter.com/aprildunnam) (Microsoft)
+    Dunnam](https://twitter.com/aprildunnam) (Microsoft)
     | @aprildunnam and [Dan Wahlin](https://twitter.com/DanWahlin)
     (Microsoft) | @DanWahlin
 Community demos as following: 
@@ -1765,7 +1765,7 @@ know and share the logo with us. Thx.
 -   [onepoint](https://www.groupeonepoint.com/en/)
 -   [Piasys](https://piasys.com/)
 -   [PixelMill](https://pixelmill.com/)
--   [Pramerica](https://www.pramerica.ie/)
+-   [Pramerica](https://www.prudential.com/)
 -   [PVX Solutions](https://www.pvx-solutions.com/)
 -   [Qubix](https://www.qubix.be/)
 -   [Rapid Circle](https://en.rapidcircle.com/)
@@ -1794,7 +1794,7 @@ closely involved with the PnP work during last month.
 -   Aline Tognini - [alinefmr](https://github.com/alinefmr)
 -   Allen Snow - [@asnow003](https://twitter.com/asnow003)
 -   Andrey Esipov (Microsoft)
--   [April Dunnam](httpw://twitter.com/aprildunnam) (Microsoft)
+-   [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
     | @aprildunnam
 -   [[Arijit Mondal](https://www.github.com/ArijitCloud)]{.underline}
     (Microsoft)

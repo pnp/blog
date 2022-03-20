@@ -211,7 +211,7 @@ slides.
 -   **D1**:  Sample -- [bot meeting lifecycle feedback - Microsoft Teams
     App](https://github.com/pnp/teams-dev-samples/tree/main/samples/bot-meeting-lifecycle-feedback) 
 -   **D1**:  Documentation - [Prerequisites for apps in Teams
-    meetings](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/create-apps-for-teams-meetings?tabs=dotnet#real-time-teams-meeting-events) 
+    meetings](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings?tabs=dotnet#real-time-teams-meeting-events) 
 -   **D2**:  Website - [Drive value with Microsoft 365 adoption
     tools](https://adoption.microsoft.com/) 
 -   **D2**:  Samples - [Sample Solution

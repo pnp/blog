@@ -60,4 +60,4 @@ You can read this article [on my blog](https://yhabersaat.ch/2021/04/18/get-powe
 ## Resources 
 
 <https://docs.microsoft.com/powershell/powerapps/get-started-powerapps-admin>
-[https://docs.microsoft.com/powershell/module/microsoft.powerapps.administration.powershell/get\...](https://docs.microsoft.com/powershell/module/microsoft.powerapps.administration.powershell/get-adminpowerapplicenses)
+[https://docs.microsoft.com/powershell/module/microsoft.powerapps.administration.powershell/get-adminpowerapplicenses](https://docs.microsoft.com/powershell/module/microsoft.powerapps.administration.powershell/get-adminpowerapplicenses)

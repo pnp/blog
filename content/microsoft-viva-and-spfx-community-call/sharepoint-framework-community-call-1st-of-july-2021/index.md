@@ -188,7 +188,7 @@ slides.
     settings](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-copy-pnp-search-webpart-settings) 
 
 -   Control - [Animated
-    Dialog](https://pnp.github.io/sp-dev-fx-controls-react/controls/AnimatedDialog.html) 
+    Dialog](https://pnp.github.io/sp-dev-fx-controls-react/controls/AnimatedDialog) 
 
 -   Documentation - [Follow documents, sites, and tags by using the REST
     service in

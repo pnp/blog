@@ -277,7 +277,7 @@ If you are interested on Microsoft Teams samples, we have just released also new
 
 {{< image alt="thumbnail image 8 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update " src="images/LuiseFreese_0-1644246005941.png" >}}
 
-*   New Power Apps sample [power-wordle-game](https://github.com/pnp/powerapps-samples/tree/main/samples/power-wordle-game) by [April Dunnam](httpw://twitter.com/aprildunnam) (Microsoft) | @aprildunnam, that is a re-imagining of the popular word puzzle game Wordle inside of Power Apps
+*   New Power Apps sample [power-wordle-game](https://github.com/pnp/powerapps-samples/tree/main/samples/power-wordle-game) by [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam, that is a re-imagining of the popular word puzzle game Wordle inside of Power Apps
 
 There was also numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location
 
@@ -651,7 +651,7 @@ Here are the companies, which provided support the community initiative for thi
 *   [N8D](https://n8d.at/)
 *   [Piasys](https://piasys.com/)
 *   [PixelMill](https://pixelmill.com/)
-*   [Pramerica](https://www.pramerica.ie/)
+*   [Pramerica](https://www.prudential.com/)
 *   [PVX Solutions](https://www.pvx-solutions.com/)
 *   [Qubix](https://www.qubix.be/)
 *   [Rapid Circle](https://en.rapidcircle.com/)
@@ -677,7 +677,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   Aline Tognini - [alinefmr](https://github.com/alinefmr)
 *   Allen Snow - [@asnow003](https://twitter.com/asnow003)
 *   Andrey Esipov (Microsoft)
-*   [April Dunnam](httpw://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
+*   [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 *   [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 *   Ashima Mathur (Microsoft)
 *   Ayca Bas (Microsoft)- [@aycabs](https://twitter.com/aycabs)
@@ -725,7 +725,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   Linda Lu Cannon - [lindalu-MSFT](https://github.com/lindalu-MSFT)
 *   Loki Meyburg (Microsoft)- [@lokimeyburg](https://twitter.com/lokimeyburg)
 *   Luca Bandinelli - [lucaband](https://github.com/lucaband)
-*   [Mansa MusaLE](http://@m4musale) (Microsoft) | @m4musale
+*   [Mansa MusaLE](https://www.twitter.com/m4musale) (Microsoft) | @m4musale
 *   Mathangi Chakrapani (Microsoft)
 *   [Matthijs Hoekstra](https://twitter.com/mahoekst) | @mahoekst
 *   Max Kulakov (Microsoft)

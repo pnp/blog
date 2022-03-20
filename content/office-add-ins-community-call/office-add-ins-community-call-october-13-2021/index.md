@@ -82,7 +82,7 @@ examining email headers? I've raised the issue on Developer Platform
 already but wanted to know if it had come up internally.**
 We don't have plans to enable examining email headers at this time. It
 looks like a feature request was created for this idea at
-[https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/activate-contextual-add-ins-\...](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/activate-contextual-add-ins-using-regex-based-on-headers-in/idi-p/2781149).
+[https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/activate-contextual-add-ins-using-regex-based-on-headers-in/idi-p/2781149](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/activate-contextual-add-ins-using-regex-based-on-headers-in/idi-p/2781149).
 If developers can upvote or tell us more about this scenario that will
 help in our planning down the road.
 
@@ -116,7 +116,7 @@ can.
 The best way to keep these methods on our planning radar is to request
 them at <https://aka.ms/m365dev-suggestions>. It looks like there is
 already a feature request for these methods at
-[https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/office-js-save-and-close-met\...](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/office-js-save-and-close-methods-for-word-excel-and-powerpoint/idi-p/2800214).
+[https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/office-js-save-and-close-methods-for-word-excel-and-powerpoint/idi-p/2800214](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/office-js-save-and-close-methods-for-word-excel-and-powerpoint/idi-p/2800214).
 So if you or anyone is interested in these methods, please upvote and
 let us know more about your scenarios.
 
@@ -197,7 +197,7 @@ scenario. Please submit a feature request for this at
 -   Documentation -- [Outlook add-in API requirement set
     1.9](https://docs.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.9/outlook-requirement-set-1.9)
 -   Documentation -- [Outlook add-in API requirement set
-    1.10](https://docs.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.10/outlook-requirement-set-1.10%C2%A0)
+    1.10](https://docs.microsoft.com/en-us/office/dev/add-ins/reference/objectmodel/requirement-set-1.10/outlook-requirement-set-1.10)
 
 ### Demo: Hello World code sample 
 

@@ -476,7 +476,7 @@ Docs](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column
 * [Flicon - Fluent UI Icon Search](https://www.flicon.io/)-- A super
 handy tool for finding the right Fabric UI icon.
 * [SharePoint List Formatting Samples
-(pnp.github.io)](https://pnp.github.io/sp-dev-list-formatting/) -- A PnP
+(pnp.github.io)](https://pnp.github.io/List-Formatting/) -- A PnP
 community driven repository of custom column & view formatting samples.
 A great place to go to get inspired, or look for other samples if
 Hobbits aren't your thing.

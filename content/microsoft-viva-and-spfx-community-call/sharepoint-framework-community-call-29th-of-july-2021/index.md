@@ -183,7 +183,7 @@ slides.
     V2](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-tiles-v2) 
 
 -   Controls -- [PropertyFieldCollectionData
-    control](https://pnp.github.io/sp-dev-fx-property-controls/controls/PropertyFieldCollectionData.html) 
+    control](https://pnp.github.io/sp-dev-fx-property-controls/controls/PropertyFieldCollectionData) 
 
 -   Hugo's Repo - [React Diagram Web
     Parts](http://github.com/hugoabernier/react-diagram-webparts) 

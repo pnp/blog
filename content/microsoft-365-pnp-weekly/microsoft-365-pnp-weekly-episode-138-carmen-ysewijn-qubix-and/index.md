@@ -78,7 +78,7 @@ everyone for your contributions to the community!
     (beta)](https://developer.microsoft.com/microsoft-365/blogs/breaking-changes-to-the-settings-endpoint-in-the-microsoft-graph-ediscovery-api-beta/)
     - Marshal Hagen (Microsoft)
 -   [settings resource type
-    (eDiscovery)](https://docs.microsoft.com/graph/api/resources/ediscovery-settings?view=graph-rest-beta) -
+    (eDiscovery)](https://docs.microsoft.com/graph/api/resources/ediscovery-ediscoveryapioverview?view=graph-rest-beta) -
     docs.microsoft.com
 -   [Developing Real-Time Collaborative
     Apps](https://docs.microsoft.com/events/learntv/developing-real-time-together-collaborative-apps-october-2021/?WT.mc_id=m365-44916-cxa) -

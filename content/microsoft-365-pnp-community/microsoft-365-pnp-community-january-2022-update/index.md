@@ -1232,7 +1232,7 @@ know and share the logo with us. Thx.
 -   [NTT Digital Business Solutions](https://www.global.ntt/)
 -   [Piasys](https://piasys.com/)
 -   [PixelMill](https://pixelmill.com/)
--   [Pramerica](https://www.pramerica.ie/)
+-   [Pramerica](https://www.prudential.com/)
 -   [PVX Solutions](https://www.pvx-solutions.com/)
 -   [Qubix](https://www.qubix.be/)
 -   [Rapid Circle](https://en.rapidcircle.com/)
@@ -1258,7 +1258,7 @@ closely involved with the PnP work during last month.
 -   Aline Tognini - [alinefmr](https://github.com/alinefmr)
 -   Allen Snow - [@asnow003](https://twitter.com/asnow003)
 -   Andrey Esipov (Microsoft)
--   [April Dunnam](httpw://twitter.com/aprildunnam) (Microsoft)
+-   [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
     | @aprildunnam
 -   [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 -   Ayca Bas (Microsoft)- [@aycabs](https://twitter.com/aycabs)

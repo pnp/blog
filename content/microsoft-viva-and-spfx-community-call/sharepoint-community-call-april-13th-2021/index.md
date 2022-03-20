@@ -123,7 +123,7 @@ SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
 Additional resources on covered topics and discussions.
 
 -   Documentation - [Add Viva Connections for Microsoft Teams
-    desktop](https://docs.microsoft.com/SharePoint/viva-connections) 
+    desktop](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
 
 -   Overview - [Microsoft Viva](https://aka.ms/Viva) |
     <https://aka.ms/Viva>

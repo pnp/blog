@@ -86,7 +86,7 @@ To remove an Azure AD app registration, run:
 m365 aad app delete --appId d75be2e1-0204-4f95-857d-51a37cf40be8
 ```
 
-For more information about managing Azure AD apps using CLI for Microsoft 365, see the [documentation](https://pnp.github.io/cli-microsoft365/cmd/aad/app/app-delete/).
+For more information about managing Azure AD apps using CLI for Microsoft 365, see the [documentation](https://pnp.github.io/cli-microsoft365/cmd/aad/app/app-remove/).
 
 ### Get Planner tasks
 

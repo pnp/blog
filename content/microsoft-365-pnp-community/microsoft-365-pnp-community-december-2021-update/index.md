@@ -771,7 +771,7 @@ See exact details on the latest updates from the specific open-source project re
 -   **Office 365 CLI** - Using the Office 365 CLI, you can manage your
     Microsoft Office 365 tenant and SharePoint Framework projects on any
     platform. See [release
-    notes](https://pnp.github.io/office365-cli/about/release-notes/) for
+    notes](https://pnp.github.io/cli-microsoft365/about/release-notes/) for
     the latest updates.
 -   **PnPJs** - PnPJs encapsulates SharePoint REST APIs and provides a
     fluent and easily usable interface for querying data from SharePoint
@@ -1281,7 +1281,7 @@ Here are the companies which provided support the community initiative for this
 -   [NTT Digital Business Solutions](https://www.global.ntt/)
 -   [Piasys](https://piasys.com/)
 -   [PixelMill](https://pixelmill.com/)
--   [Pramerica](https://www.pramerica.ie/)
+-   [Pramerica](https://www.prudential.com/)
 -   [PVX Solutions](https://www.pvx-solutions.com/)
 -   [Qubix](https://www.qubix.be/)
 -   [Rapid Circle](https://en.rapidcircle.com/)
@@ -1308,7 +1308,7 @@ Here's the list of Microsoft people who have been closely involved with the PnP 
 -   Aline Tognini - [alinefmr](https://github.com/alinefmr)
 -   Allen Snow - [@asnow003](https://twitter.com/asnow003)
 -   Andrey Esipov (Microsoft)
--   [April Dunnam](httpw://twitter.com/aprildunnam) (Microsoft)
+-   [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
     | @aprildunnam
 -   [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 -   Ayca Bas (Microsoft)- [@aycabs](https://twitter.com/aycabs)

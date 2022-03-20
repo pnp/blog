@@ -142,7 +142,7 @@ Additional resources around the covered topics and links from the
 slides.
 
 -   D1:  Documentation - [Overview: Viva Connections
-    (Preview)](https://docs.microsoft.com/sharepoint/viva-connections-overview) 
+    (Preview)](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections-overview) 
 
 -   D1:  Blog - [Announcing public preview of SharePoint Framework 1.13
     -- with Viva Connections

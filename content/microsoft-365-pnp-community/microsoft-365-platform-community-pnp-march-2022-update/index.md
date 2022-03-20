@@ -763,7 +763,7 @@ Here's the companies, which provided support the community initiative for this m
 *   [N8D - Stefan Bauer - Innovation and Design Agency](https://n8d.at/)
 *   [Piasys](https://piasys.com/)
 *   [PixelMill](https://pixelmill.com/)
-*   [Pramerica](https://www.pramerica.ie/)
+*   [Pramerica](https://www.prudential.com/)
 *   [PVX Solutions](https://www.pvx-solutions.com/)
 *   [Qubix](https://www.qubix.be/)
 *   [Rapid Circle](https://en.rapidcircle.com/)
@@ -791,7 +791,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Allen Snow](https://twitter.com/asnow003) (Microsoft) | @Asnow003
 *   Altamish Ahmad (Microsoft)
 *   Andrey Esipov (Microsoft)
-*   [April Dunnam](httpw://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
+*   [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
 *   [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 *   Arvind Ravi (Microsoft)
 *   Ashima Mathur (Microsoft)

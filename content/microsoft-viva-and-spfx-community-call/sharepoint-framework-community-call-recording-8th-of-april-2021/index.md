@@ -215,7 +215,7 @@ slides.
     Solutions](https://blog.aterentiev.com/support-microsoft-teams-themes-in) 
 
 -   Documentation - [Create apps for Teams
-    meetings](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/create-apps-for-teams-meetings)
+    meetings](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings)
 
 -   Repo - [React Image
     Editor](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-image-editor) 

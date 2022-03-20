@@ -125,7 +125,7 @@ Additional resources around the covered topics and links from the slides.
 *   [Page transformation videos](https://aka.ms/sppnp-pagetransformationvideos)
 *   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
 *   [Microsoft 365 developer program site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
-*   [SharePoint Provisioning Service](https://provisioning.sharepointpnp.com/) \- Easily provision look book designs to any tenant in the world
+*   [SharePoint Provisioning Service](https://lookbook.microsoft.com/service-description) \- Easily provision look book designs to any tenant in the world
 *   [SharePoint Provisioning templates on Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
 *   [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 *   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)

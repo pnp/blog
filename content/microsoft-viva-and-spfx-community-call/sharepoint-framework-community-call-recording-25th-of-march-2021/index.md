@@ -218,7 +218,7 @@ slides.
     <https://developer.microsoft.com/graph/graph-explorer>
 
 -   Documentation - [Add Viva Connections for Microsoft Teams
-    desktop](https://docs.microsoft.com/en-gb/SharePoint/viva-connections) 
+    desktop](https://docs.microsoft.com/sharepoint/viva-connections-desktop) 
 
 -   PnP Weekly -- Episode 119 with guest MVP [Chris
     O'Brien](http://twitter.com/ChrisO_Brien) | @ChrisO_Brien |
