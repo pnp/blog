@@ -12,8 +12,8 @@ images:
 
 tags: []
 categories: ["Adaptive Cards community call"]
-
 # Videos lists the video on the page for social media
+# TIP: Search and replace INSERT-VIDEO-CODE-HERE with the youtube code to update this page quickly
 videos:
 - https://www.youtube.com/watch?v=INSERT-VIDEO-CODE-HERE
 ---

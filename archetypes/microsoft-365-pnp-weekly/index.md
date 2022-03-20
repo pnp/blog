@@ -12,6 +12,7 @@ images:
 - images/thumbnail.png
 tags: []
 # Videos lists the video on the page for social media
+# TIP: Search and replace INSERT-VIDEO-CODE-HERE with the youtube code to update this page quickly
 videos:
 - https://www.youtube.com/watch?v=INSERT-VIDEO-CODE-HERE
 ---
@@ -39,7 +40,7 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Recorded on {{ dateFormat  "Monday, January 2, 2006" (now.AddDate 0 0 -1)}}.   Enjoy the show. 
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube CODE >}}
+    {{< youtube INSERT-VIDEO-CODE-HERE >}}
 *   Podcast format at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
     {{< podbean CODE >}}
 

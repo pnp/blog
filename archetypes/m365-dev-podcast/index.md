@@ -1,5 +1,5 @@
 ---
-title: "M365 Dev Podcast - {{ replace .Name "-" " " | title }}"
+title: M365 Dev Podcast - {{ replace .Name "-" " " | title }}
 summary: "INSERT SUMMARY HERE"
 date: {{ .Date }}
 author: "Paul Schaeflein"

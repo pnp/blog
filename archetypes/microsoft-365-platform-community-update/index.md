@@ -11,6 +11,7 @@ images:
 - images/thumbnail.png
 tags: ["Add-ins", "extensions","Microsoft 365", "Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework"]
 # Videos lists the video on the page for social media
+# TIP: Search and replace INSERT-VIDEO-CODE-HERE with the youtube code to update this page quickly
 videos:
 - https://www.youtube.com/watch?v=INSERT-VIDEO-CODE-HERE
 ---
@@ -72,16 +73,16 @@ Thank you for your work. Samples are often showcased in Demos. Request a Demo s
 
 ## Topics
 
-*   PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/CODE?t=TIME)
-*   PnP PowerShell updates \- [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/CODE?t=TIME)
-*   yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [TIME](https://youtu.be/CODE?t=TIME)
-*   Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [TIME](https://youtu.be/CODE?t=TIME)
-*   Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) | @pkbullock – [TIME](https://youtu.be/CODE?t=TIME)
-*   Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German – [TIME](https://youtu.be/CODE?t=TIME)
-*   Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [TIME](https://youtu.be/CODE?t=TIME)
-*   **Demo 1**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/CODE?t=TIME)
-*   **Demo 2**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/CODE?t=TIME)
-*   **Demo 3**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/CODE?t=TIME)
+*   PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   PnP PowerShell updates \- [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) | @pkbullock – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   **Demo 1**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   **Demo 2**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   **Demo 3**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
 
 ## Resources
 

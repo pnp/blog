@@ -1,6 +1,6 @@
 ---
-title: "Microsoft 365 Platform Community (PnP) – {{ dateFormat "January 2006" .Date}} update"
-summary: "Microsoft 365 Platform Community (PnP) {{ dateFormat "January 2006" .Date}} update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success."
+title: Microsoft 365 Platform Community (PnP) – {{ dateFormat "January 2006" .Date}} update
+summary: Microsoft 365 Platform Community (PnP) {{ dateFormat "January 2006" .Date}} update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success.
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -8,10 +8,8 @@ categories:
 images:
 - images/monthly-summary-march2022.png
 tags: []
-type: regular
-date: 2022-03-15T05:11:36.981Z
+date: {{ .Date }}
 ---
-
 
 Microsoft 365 Platform Community (PnP) {{ dateFormat "January 2006" .Date}} update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success.
 
