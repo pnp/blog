@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 PnP Weekly - Episode 114
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft), are joined by UK-based Office Development MVP, MCT, MCM, focused on Microsoft 365, Microsoft Teams, mobile and AI/ML – Bill Ayers (Flow Simulation Ltd)"
-date: 2022-03-19T16:13:06-04:00
+date: 2022-02-16T16:13:06-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
