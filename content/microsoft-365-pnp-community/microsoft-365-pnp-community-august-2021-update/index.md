@@ -1153,7 +1153,7 @@ parameters](https://www.youtube.com/playlist?list=PLWZJrkeLOrbaN6ec41NC27RsQW1Vt
 New playlist - [Optimize network traffic with Microsoft
 Graph](https://www.youtube.com/playlist?list=PLWZJrkeLOrbabcgkU-_DQJfEUbIw1qZeK)
 -   [Optimize network traffic with Microsoft
-    Graph](https://www.youtube.com/watch?v=V1wAxblkuqo&list=PLWZJrkeLOrbabcgkU-_DQJfEUbIw1qZeK&index=1)
+    Graph](https://www.youtube.com/watch?v=wAXiHf5Z3fk&list=PLWZJrkeLOrbabcgkU-_DQJfEUbIw1qZeK&index=1)
 -   [Identifying throttled
     requests](https://www.youtube.com/watch?v=E-nPaTGf0FI&list=PLWZJrkeLOrbabcgkU-_DQJfEUbIw1qZeK&index=2)
 -   [Demo - Create Azure AD app to submit requests to Microsoft

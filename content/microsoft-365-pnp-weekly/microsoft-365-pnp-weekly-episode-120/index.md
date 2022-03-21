@@ -81,7 +81,7 @@ everyone for your contributions to the community!\
     [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)
     | @waldekm
 -   [Add Viva Connections for Microsoft Teams
-    desktop](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections-desktop) -
+    desktop](https://docs.microsoft.com/sharepoint/viva-connections-desktop) -
     Microsoft
 -   [SharePoint List Formatting for Grouped
     Views](https://www.youtube.com/watch?v=-Cl_PtZFkfs) - [April
