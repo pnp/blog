@@ -189,7 +189,7 @@ slides.
     SDK](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-core-sdk/ba-p/2207918) 
 -   Documentation - [Create your first Microsoft Teams app using the
     Yeoman
-    generator](https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-yeoman)
+    generator](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab)
 -   Documentation - [Single sign-on (SSO) support for
     tabs](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso)
 -   Documentation - [Microsoft identity platform and OAuth 2.0

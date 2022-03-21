@@ -26,7 +26,7 @@ SharePoint Server 2019 or SharePoint Online with the SPFx framework, you
 need to have **Node.js LTS v10.x.x** installed (LTS stands for Long Time
 Support). You can find all the requirements at [Set up your SharePoint
 Framework development
-environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment "Set up your SharePoint Framework development environment"). For
+environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment). For
 developing other web applications, e.g. when using frameworks such
 as Angular, you might need other versions of Node.js installed.
 
@@ -143,7 +143,7 @@ To install the required tools
 [gulp](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#install-gulp)
 and for SharePoint development, we follow the steps at [Set up your
 SharePoint Framework development
-environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment "https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment").
+environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment).
 Here are the commands to run in a PowerShell console: First, switch to
 Node.js v10, confirm, (check the current version), and install the tools
 with npm.
@@ -170,7 +170,7 @@ yo @microsoft/sharepoint
 
 You need to trust the development self-signed SSL certificate as
 described at [Trusting the self-signed developer
-certificate](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#trusting-the-self-signed-developer-certificate "https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#trusting-the-self-signed-developer-certificate")
+certificate](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#trusting-the-self-signed-developer-certificate)
 here. Then, you can open the workbench with SSL.
 
 ```bash
