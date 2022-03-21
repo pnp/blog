@@ -45,7 +45,7 @@ nightly!  Subscribe to nightly releases for the latest capabilities. 
     **
 
 There were 3 new script samples this week.  The host of this call was
-[David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems)
+[David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems)
 @DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 ## Actions
@@ -100,7 +100,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   **[Teams Tab with SSO and Microsoft Graph Toolkit
     usage](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-mgt-person)** - [Markus
-    Möller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
+    Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 -   **[Teams Tab Single Sign-on (SSO)
     Sample](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-sso) **(updated) **- **Doğan
     Erişen (Microsoft)
@@ -113,15 +113,15 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -   **[Provision Home Page to a SharePoint
     site](https://pnp.github.io/script-samples/spo-provision-homepage/README.html?tabs=pnpps)
-    -** [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) |
+    -** [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) |
     [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
 -   **[Extract Modern Pages to Individual Provisioning
     Files](https://pnp.github.io/script-samples/spo-extract-modern-pages/README.html?tabs=pnpps)
-    -** [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd)
+    -** [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd)
     | @pkbullock
 -   **[Generate Demo Events for SharePoint Events
     List](https://pnp.github.io/script-samples/spo-generate-demo-events/README.html?tabs=pnpps)
-    -** [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd)
+    -** [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd)
     | @pkbullock
 
 ## Together Mode!
@@ -168,33 +168,33 @@ Request a Demo spot on the call -- <https://aka.ms/m365pnp/request/demo>
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft)
+    Jansen](https://twitter.com/O365bert) (Microsoft)
     @O365bert - [6:32](https://youtu.be/PpjPCt00W9A?t=392)
--   PnP PowerShell - [Erwin van Hunen](http://twitter.com/erwinvanhunen)
+-   PnP PowerShell - [Erwin van Hunen](https://twitter.com/erwinvanhunen)
     (Valo Intranet) | @erwinvanhunen -
     [8:20](https://youtu.be/PpjPCt00W9A?t=500)
--   yo Teams updates - [Wictor Wilén](http://twitter.com/wictor)
+-   yo Teams updates - [Wictor Wilén](https://twitter.com/wictor)
     (Microsoft) | @wictor - [9:57](https://youtu.be/PpjPCt00W9A?t=597)
 -   Microsoft Graph Toolkit updates - [Elise
-    Yang](http://twitter.com/elisenyang) (Microsoft) |
+    Yang](https://twitter.com/elisenyang) (Microsoft) |
     [@elisenyang](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/803417) - [11:58](https://youtu.be/PpjPCt00W9A?t=718)
 -   Microsoft Teams Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems)
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems)
     | @DavidWarnerII - [14:00](https://youtu.be/PpjPCt00W9A?t=840)
 -   Microsoft Power Platform Samples - [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
+    Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
      - [14:28](https://youtu.be/PpjPCt00W9A?t=868)
 -   **D1:**  List formatting magic tips and tricks -- [Chris
-    Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent -
+    Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent -
     [16:06](https://youtu.be/PpjPCt00W9A?t=966)
 -   **D2:**  Getting started with Bot Framework Composer for building
     Teams Task Modules -- [Stephan
-    Bisser](http://twitter.com/stephanbisser) (Solvion) |
+    Bisser](https://twitter.com/stephanbisser) (Solvion) |
     @stephanbisser - [29:27](https://youtu.be/PpjPCt00W9A?t=1767)
 -   **D3:**  Updates on Independent Publisher Connectors for Power
     Platform & Yelp Connector Demo -- [Natalie
-    Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) |
-    @NataliePienkow1 & [Ahmad Najjar](http://twitter.com/ahmadn82)
+    Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) |
+    @NataliePienkow1 & [Ahmad Najjar](https://twitter.com/ahmadn82)
     (Infoworker) | @ahmadn82 -
     [43:33](https://youtu.be/PpjPCt00W9A?t=2613) 
 
@@ -243,7 +243,7 @@ slides.
 
 -   D3:  Demo - [Publish a connector to the Power
     Platform](https://youtu.be/ulTBvCHw8MU) -- [Natalie
-    Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft)  |
+    Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft)  |
     @NataliePienkow1
 
 ## General resources

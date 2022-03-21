@@ -13,12 +13,12 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Switzerland based MVP and Head of Solutions at [Datalynx
 AG](https://www.datalynx.ch/en/) - [André
-Lage](http://twitter.com/aaclage) | @aaclage.  
+Lage](https://twitter.com/aaclage) | @aaclage.  
 
  
 
@@ -112,7 +112,7 @@ everyone for your contributions to the community!
     Intrazone
     podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/visualize-lists-with-power-bi-the-intrazone-podcast/ba-p/2835417)
     - [Amanda Rivera](https://www.linkedin.com/in/amanda-cofsky/)
-    & [Mark Kashman](http://twitter.com/mkashman) (Microsoft) |
+    & [Mark Kashman](https://twitter.com/mkashman) (Microsoft) |
     @mkashman
 
  

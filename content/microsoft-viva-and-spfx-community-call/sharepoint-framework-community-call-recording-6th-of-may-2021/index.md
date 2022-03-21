@@ -47,7 +47,7 @@ previous report 2 weeks ago) 
   PnP Modern Search                       v3.19 and v4.1.0      April and March 20th
 
 The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="210506-together-mode.gif" src="images/210506-together-mode.gif" >}}
 Thanks everybody for being part of the Community and helping making
@@ -124,7 +124,7 @@ things happen. You are absolutely awesome!
 
 -   **[Print List Item Command View
     Set](https://github.com/pnp/sp-dev-fx-extensions/blob/main/samples/react-command-print)
-    -** [Ari Gunawan](http://twitter.com/arigunawan3023)
+    -** [Ari Gunawan](https://twitter.com/arigunawan3023)
     [| @arigunawan3023](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-send-to-teams)
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
@@ -132,40 +132,40 @@ things happen. You are absolutely awesome!
 
 -   **[Teams Membership
     Updater](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-membership-updater)
-    -** [Nick Brown](http://twitter.com/techienickb) | @techienickb
+    -** [Nick Brown](https://twitter.com/techienickb) | @techienickb
 -   **[OneDrive
     Finder](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-onedrive-finder)
     -** [André
-    Lage](http://twitter.com/aaclage) | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
+    Lage](https://twitter.com/aaclage) | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
 -   **[Organization
     Chart](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-organization-chart)
     -** [João
-    Mendes](http://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
+    Mendes](https://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
 -   **[Remote Event Receiver
     Manager](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-remote-event-receiver-manager)
-    -** [Dan Toft](http://twitter.com/tanddant) | @tanddant
+    -** [Dan Toft](https://twitter.com/tanddant) | @tanddant
 -   **[All Microsoft 365 Groups and
     Teams](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-groups-teams)
     -** Alison Collins and [Sam
-    Collins](http://twitter.com/Samc148) | @Samc148
+    Collins](https://twitter.com/Samc148) | @Samc148
 Thank you for your great work.  Samples are often showcased in Demos. 
   
 ## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [5:24](https://youtu.be/yqz1HF72Guw?t=324)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [7:49](https://youtu.be/yqz1HF72Guw?t=469)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [9:22](https://youtu.be/yqz1HF72Guw?t=562)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [10:27](https://youtu.be/yqz1HF72Guw?t=627)
 -   PnP SPFx Generator - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [11:57](https://youtu.be/yqz1HF72Guw?t=717)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
@@ -175,17 +175,17 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   **Demo:**  Adding support to add video with a text to modern pages
     with this video banner web part -- [Mohamed
-    Derhalli](http://twitter.com/MohamedDerhalli) (BDO Canada) |
+    Derhalli](https://twitter.com/MohamedDerhalli) (BDO Canada) |
     @MohamedDerhalli | Deck --
     [13:13](https://youtu.be/yqz1HF72Guw?t=793)
 
 -   **Demo:**  Building company stories web part for story experience --
-    [Luis Mañez](http://twitter.com/luismanez) (ClearPeople) |
+    [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) |
     @luismanez | Deck -- [18:39](https://youtu.be/yqz1HF72Guw?t=1119)
 
 -   **Demo:**  Building react groups and teams web part for aggregating
     detailed information for end users -- Alison Collins & [Sam
-    Collins](http://twitter.com/samc148) (Coupled Technology) |
+    Collins](https://twitter.com/samc148) (Coupled Technology) |
     @samc148 | Deck -- [29:39](https://youtu.be/yqz1HF72Guw?t=1779)
 
 
@@ -221,7 +221,7 @@ slides.
     gallery](https://aka.ms/m365/extensibility)   
 
 -   PnP Weekly -- Episode 125 with Business Applications MVP guest
-    [Sandy Ussia](http://twitter.com/SandyU) (Lightning Tools ) |
+    [Sandy Ussia](https://twitter.com/SandyU) (Lightning Tools ) |
     @SandyU |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-125/ba-p/2318240)
     |

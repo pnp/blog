@@ -125,33 +125,33 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert
+    Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert
     - [7:47](https://youtu.be/nm16Z3VEYHA?t=467)
 
 -   yo Teams updates - [Wictor
-    Wilén](http://twitter.com/wictor) (Avanade) | @wictor -
+    Wilén](https://twitter.com/wictor) (Avanade) | @wictor -
     [9:45](https://youtu.be/nm16Z3VEYHA?t=585)
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft)
+    Pan](https://twitter.com/beth_panx) (Microsoft)
     | [beth-panx](https://github.com/beth-panx) - [10:34](https://youtu.be/nm16Z3VEYHA?t=634)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German -
+    German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German -
     [12:14](https://youtu.be/nm16Z3VEYHA?t=734)
 
 -   **Demo: ** Getting started with PnP Teams QuickStart - [Wictor
-    Wilén](http://twitter.com/wictor) (Microsoft) | @wictor -
+    Wilén](https://twitter.com/wictor) (Microsoft) | @wictor -
     [14:40](https://youtu.be/nm16Z3VEYHA?t=880)
 
 -   **Demo: ** Our learnings from the AppSource submission for Microsoft
-    Teams - [Florian Grasel](http://twitter.com/trailbeard) (TagTeam) |
+    Teams - [Florian Grasel](https://twitter.com/trailbeard) (TagTeam) |
     [@Trailbeard](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/278114) -
     [32:17](https://youtu.be/nm16Z3VEYHA?t=1937)
 
 -   **Demo: ** Getting started with Microsoft Graph Tag API for managing
     Microsoft Teams tagging - [Annie
-    Colonna](http://twitter.com/AnnieColonna) (Microsoft) |
+    Colonna](https://twitter.com/AnnieColonna) (Microsoft) |
     @AnnieColonna - [49:42](https://youtu.be/nm16Z3VEYHA?t=2982)
 
 
@@ -179,7 +179,7 @@ slides.
 
 -   PnP Weekly -- Episode 132 with Seattle-based Program Manager from
     OneDrive and SharePoint (ODSP) engineering - [Nicole
-    Woon](http://twitter.com/NovelNicole) (Microsoft) |
+    Woon](https://twitter.com/NovelNicole) (Microsoft) |
     @NovelNicole |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-132-nicole-woon-microsoft/ba-p/2466409)
     |

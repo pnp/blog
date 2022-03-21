@@ -51,7 +51,7 @@ platform.   
     Resources referenced below 
 
 The host of this call was [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen.  Discussion takes place throughout this call.   
 
 **Microsoft 365 Platform News Flash**
@@ -148,7 +148,7 @@ of this community.  Wishing you a happy and healthy entry into 2022.
 ## Agenda 
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [7:19](https://youtu.be/goyvp3Eh-1s?t=439)
 -   Open discussion on any topics around Microsoft 365 --
     [9:37](https://youtu.be/goyvp3Eh-1s?t=577)

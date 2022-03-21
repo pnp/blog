@@ -15,7 +15,7 @@ Microsoft 365 Platform Community Call - weekly community call recording from Oct
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.   New to Microsoft 365 Platform development?  You are encouraged to register at [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) for free E5 developer tenant and other assets.   Access the latest [free training modules](https://aka.ms/m365/dev/learn) to accelerate learning Microsoft 365 platform capabilities.    Visit the [Microsoft 365 Sample Solution Gallery](https://aka.ms/m365/samples) with more than 500 samples from Microsoft and community that allow you to learn by example, expedite your development and appreciate what is possible.   Sign up and attend one of a growing list of events hosted by [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) in October-November.  Tune into the weekly [Microsoft 365 Developer Podcast](https://m365devpodcast.com) focused exclusively on Microsoft 365 dev topics -- hosted by Jeremy Thake (Microsoft) and Paul Schaeflein (Addin365).   As well, view or listen to [Microsoft 365 PnP Weekly -- Episode 137](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/ba-p/2809397), hosted by Vesa Juvonen and Waldek Mastykarz.   [Registration for Microsoft Ignite](https://ignite.microsoft.com) (Digital event) -- November 2-4 is now open.  Latest news from Microsoft on Microsoft 365 platform and 2 demos this week.  The host of this call was [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | [sebastienlevert](https://github.com/sebastienlevert).  Q&A takes place in chat throughout the call.
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.   New to Microsoft 365 Platform development?  You are encouraged to register at [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) for free E5 developer tenant and other assets.   Access the latest [free training modules](https://aka.ms/m365/dev/learn) to accelerate learning Microsoft 365 platform capabilities.    Visit the [Microsoft 365 Sample Solution Gallery](https://aka.ms/m365/samples) with more than 500 samples from Microsoft and community that allow you to learn by example, expedite your development and appreciate what is possible.   Sign up and attend one of a growing list of events hosted by [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) in October-November.  Tune into the weekly [Microsoft 365 Developer Podcast](https://m365devpodcast.com) focused exclusively on Microsoft 365 dev topics -- hosted by Jeremy Thake (Microsoft) and Paul Schaeflein (Addin365).   As well, view or listen to [Microsoft 365 PnP Weekly -- Episode 137](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/ba-p/2809397), hosted by Vesa Juvonen and Waldek Mastykarz.   [Registration for Microsoft Ignite](https://ignite.microsoft.com) (Digital event) -- November 2-4 is now open.  Latest news from Microsoft on Microsoft 365 platform and 2 demos this week.  The host of this call was [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | [sebastienlevert](https://github.com/sebastienlevert).  Q&A takes place in chat throughout the call.
 
 ## Microsoft 365 Platform News Flash
 
@@ -92,14 +92,14 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    Levert](https://twitter.com/sebastienlevert) (Microsoft) |
     @sebastienlevert -- [8:21](https://youtu.be/4LFP1Zyerq4?t=501)
 -   **Demo 1:**  Latest on Microsoft Graph Explorer -- [Kristen
-    Womack](http://twitter.com/kristen_womack) (Microsoft) |
+    Womack](https://twitter.com/kristen_womack) (Microsoft) |
     @kristen_womack & Vivian Adhiambo (Microsoft) --
     [10:35](https://youtu.be/4LFP1Zyerq4?t=635)
 -   **Demo 2:** Getting started on using Microsoft Viva Connections in
-    your tenant -- [Tejas Mehta](http://twitter.com/tpmehta) (Microsoft)
+    your tenant -- [Tejas Mehta](https://twitter.com/tpmehta) (Microsoft)
     | @tpmehta -- [25:05](https://youtu.be/4LFP1Zyerq4?t=1505)
 
 ## Resources
@@ -115,16 +115,16 @@ slides.
 
 -   **PnP Weekly -- Episode 137** (October 4th) with Canada-based MVP
     and Consultant from [Technologia](https://www.technologia.com/en) -
-    [Serge Tremblay](http://twitter.com/Sergepoint) | @Sergepoint
+    [Serge Tremblay](https://twitter.com/Sergepoint) | @Sergepoint
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-137-serge-tremblay-technologia/ba-p/2809397) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-137-%E2%80%93-4th-of-october-2021/)
 
 -   [Microsoft 365 Developer
     Podcast](https://m365devpodcast.com/) focused  exclusively on
     Microsoft 365 dev topics -- hosted by [Jeremy
-    Thake](http://twitter.com/jthake) (Microsoft) |
+    Thake](https://twitter.com/jthake) (Microsoft) |
 
     @jthake and [Paul
-    Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
+    Schaeflein](https://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
 ## General resources

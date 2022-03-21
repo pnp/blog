@@ -20,7 +20,7 @@ videos:
 
 
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by DESCRIPTION, [NAME](http://twitter.com/TWITTER) (Company) | @TWITTER
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by DESCRIPTION, [NAME](https://twitter.com/TWITTER) (Company) | @TWITTER
 
 ## Topics discussed in this session
 

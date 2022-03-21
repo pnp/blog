@@ -10,7 +10,7 @@ tags: []
 type: "regular"
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Reykjavik, Iceland-based Consultant and MVP, [Derek Cash-Peterson](http://twitter.com/spdcp) (Sympraxis Consulting) | @spdcp. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Reykjavik, Iceland-based Consultant and MVP, [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | @spdcp. 
 
 Topics discussed in this session:
 

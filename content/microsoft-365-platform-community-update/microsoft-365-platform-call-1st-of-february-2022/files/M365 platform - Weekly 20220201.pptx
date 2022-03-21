@@ -1663,7 +1663,7 @@ LITHIUM.RenderedScripts = [
 </LI>
 <LI>Hear about the latest 8 Microsoft 365 Platform related stories and enjoy 3 demos delivered by Microsoft presenters on the latest capabilities of the Microsoft 365 platform.</LI>
 </UL>
-<P>The host of this call was <A href="http://twitter.com/BrianTJackett" target="_blank" rel="noopener nofollow noreferrer">Brian T. Jackett</A> (Microsoft) <EM>|&nbsp;</EM><a href="/t5/user/viewprofilepage/user-id/4556">@BrianTJackett</a>.&nbsp;&nbsp;Q&amp;A takes place in chat throughout and live at end of the call.</P>
+<P>The host of this call was <A href="https://twitter.com/BrianTJackett" target="_blank" rel="noopener nofollow noreferrer">Brian T. Jackett</A> (Microsoft) <EM>|&nbsp;</EM><a href="/t5/user/viewprofilepage/user-id/4556">@BrianTJackett</a>.&nbsp;&nbsp;Q&amp;A takes place in chat throughout and live at end of the call.</P>
 <P>&nbsp;</P>
 <P><STRONG>Microsoft 365 Platform News Flash</STRONG></P>
 <UL>
@@ -1724,10 +1724,10 @@ LITHIUM.RenderedScripts = [
 <P>&nbsp;</P>
 <P><STRONG>Topics</STRONG><SPAN>&nbsp;</SPAN>covered in this call</P>
 <UL>
-<LI>Latest updates and news on the Microsoft 365 platform – <A href="http://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A> (Microsoft) | @sebastienlevert – <A href="https://youtu.be/Ddc0vZYAXDs?t=342" target="_blank" rel="noopener nofollow noreferrer">5:42</A></LI>
-<LI><STRONG>D1</STRONG>:&nbsp; Access a user's calendar events in an ASP.NET Core app with Microsoft Graph – <A href="http://twitter.com/DanWahlin" target="_blank" rel="noopener nofollow noreferrer">Dan Wahlin</A> (Microsoft) | @DanWahlin – <A href="https://youtu.be/Ddc0vZYAXDs?t=556" target="_blank" rel="noopener nofollow noreferrer">9:16</A></LI>
+<LI>Latest updates and news on the Microsoft 365 platform – <A href="https://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A> (Microsoft) | @sebastienlevert – <A href="https://youtu.be/Ddc0vZYAXDs?t=342" target="_blank" rel="noopener nofollow noreferrer">5:42</A></LI>
+<LI><STRONG>D1</STRONG>:&nbsp; Access a user's calendar events in an ASP.NET Core app with Microsoft Graph – <A href="https://twitter.com/DanWahlin" target="_blank" rel="noopener nofollow noreferrer">Dan Wahlin</A> (Microsoft) | @DanWahlin – <A href="https://youtu.be/Ddc0vZYAXDs?t=556" target="_blank" rel="noopener nofollow noreferrer">9:16</A></LI>
 <LI><STRONG>D2</STRONG>:&nbsp; Latest on Microsoft Bookings API on Microsoft Graph – Altamish Ahmad (Microsoft) – <A href="https://youtu.be/Ddc0vZYAXDs?t=1597" target="_blank" rel="noopener nofollow noreferrer">26:37</A></LI>
-<LI><STRONG>D3</STRONG>:&nbsp; Using the MGT Agenda and Tasks Components in your solutions – <A href="http://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A> (Microsoft) | @sebastienlevert&nbsp;– <A href="https://youtu.be/Ddc0vZYAXDs?t=2619" target="_blank" rel="noopener nofollow noreferrer">43:39</A></LI>
+<LI><STRONG>D3</STRONG>:&nbsp; Using the MGT Agenda and Tasks Components in your solutions – <A href="https://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A> (Microsoft) | @sebastienlevert&nbsp;– <A href="https://youtu.be/Ddc0vZYAXDs?t=2619" target="_blank" rel="noopener nofollow noreferrer">43:39</A></LI>
 </UL>
 <P>&nbsp;</P>
 <P><STRONG>Resources:</STRONG></P>
@@ -1735,7 +1735,7 @@ LITHIUM.RenderedScripts = [
 <UL>
 <LI><STRONG>D1</STRONG>:&nbsp; Learn - <A href="https://docs.microsoft.com/learn/modules/msgraph-dotnet-core-access-user-events/" target="_blank" rel="noopener noreferrer">Access a user's calendar events in an ASP.NET Core app with Microsoft Graph</A> | aka.ms/learn-msgraph-calendar</LI>
 <LI><STRONG>D1</STRONG>:&nbsp; Tool – <A href="https://developer.microsoft.com/graph/graph-explorer" target="_blank" rel="noopener noreferrer">Graph Explorer</A> | aka.ms/ge</LI>
-<LI><STRONG>D1</STRONG>:&nbsp; Related Demo - <A href="https://youtu.be/YG16snk1fJU?t=621" target="_blank" rel="noopener nofollow noreferrer">Show a user's emails in an ASP.NET Core app with Microsoft Graph</A> – <A href="http://twitter.com/DanWahlin" target="_blank" rel="noopener nofollow noreferrer">Dan Wahlin</A> (Microsoft) | @DanWahlin</LI>
+<LI><STRONG>D1</STRONG>:&nbsp; Related Demo - <A href="https://youtu.be/YG16snk1fJU?t=621" target="_blank" rel="noopener nofollow noreferrer">Show a user's emails in an ASP.NET Core app with Microsoft Graph</A> – <A href="https://twitter.com/DanWahlin" target="_blank" rel="noopener nofollow noreferrer">Dan Wahlin</A> (Microsoft) | @DanWahlin</LI>
 <LI>
 <P><STRONG>D2</STRONG>:&nbsp; Documentation - <A href="https://docs.microsoft.com/graph/booking-concept-overview" target="_blank" rel="noopener noreferrer">Microsoft Bookings API overview (preview)</A>&nbsp;</P>
 </LI>
@@ -1782,7 +1782,7 @@ LITHIUM.RenderedScripts = [
 <P><STRONG>D3</STRONG><STRONG><SPAN style="font-weight: normal;">:&nbsp;</SPAN> </STRONG>Learn - <A href="https://aka.ms/mgt/learn" target="_blank" rel="noopener noreferrer">Develop apps with the Microsoft Graph Toolkit</A> | <A href="https://aka.ms/mgt/learn" target="_blank" rel="noopener noreferrer">aka.ms/mgt/learn</A></P>
 </LI>
 <LI>
-<P><SPAN style="font-family: inherit;">Previous demos delivered by&nbsp;</SPAN><A style="font-family: inherit; background-color: #ffffff;" href="http://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A><SPAN style="font-family: inherit;">&nbsp;on</SPAN><SPAN style="font-family: inherit;">&nbsp;</SPAN><SPAN style="font-family: inherit;">Microsoft Graph Toolkit (MGT)</SPAN></P>
+<P><SPAN style="font-family: inherit;">Previous demos delivered by&nbsp;</SPAN><A style="font-family: inherit; background-color: #ffffff;" href="https://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A><SPAN style="font-family: inherit;">&nbsp;on</SPAN><SPAN style="font-family: inherit;">&nbsp;</SPAN><SPAN style="font-family: inherit;">Microsoft Graph Toolkit (MGT)</SPAN></P>
 <UL>
 <LI><A href="https://youtu.be/JkgFrbtwdJU?t=476" target="_blank" rel="noopener nofollow noreferrer">Discover the Microsoft Graph Toolkit</A><SPAN>&nbsp;</SPAN>–&nbsp;7 December 2021</LI>
 <LI><A href="https://youtu.be/HfBVaeGRDw8?t=2375" target="_blank" rel="noopener nofollow noreferrer">Microsoft Graph Toolkit – Using Login Component in your solutions</A><SPAN>&nbsp;</SPAN>–&nbsp;14 December 2021</LI>
@@ -1794,7 +1794,7 @@ LITHIUM.RenderedScripts = [
 </LI>
 </UL>
 <UL>
-<LI><STRONG>Microsoft 365 PnP Weekly – Episode 151</STRONG> (January 31<SUP>st</SUP>) with UK-based SharePoint developer, architect and MVP,&nbsp;<A href="http://twitter.com/pkbullock" target="_blank" rel="noopener nofollow noreferrer">Paul Bullock</A>&nbsp;| @pkbullock&nbsp;|&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-151-paul-bullock/ba-p/3091966" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-151-%E2%80%93-31st-of-january-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></LI>
+<LI><STRONG>Microsoft 365 PnP Weekly – Episode 151</STRONG> (January 31<SUP>st</SUP>) with UK-based SharePoint developer, architect and MVP,&nbsp;<A href="https://twitter.com/pkbullock" target="_blank" rel="noopener nofollow noreferrer">Paul Bullock</A>&nbsp;| @pkbullock&nbsp;|&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-151-paul-bullock/ba-p/3091966" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-151-%E2%80%93-31st-of-january-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></LI>
 </UL>
 <P>&nbsp;</P>
 <P><STRONG>General resources</STRONG>:</P>
@@ -3024,7 +3024,7 @@ LITHIUM.RenderedScripts = [
             </a>
         </li>
         <li class="social-share-option">
-            <a class="social-share-link social-share-twitter" href="http://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Microsoft 365 Platform Call – 1st of February, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-1st-of-february-2022/ba-p/3100174?attachment-id=49382" target="_blank" title="Share to Twitter">
+            <a class="social-share-link social-share-twitter" href="https://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Microsoft 365 Platform Call – 1st of February, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-1st-of-february-2022/ba-p/3100174?attachment-id=49382" target="_blank" title="Share to Twitter">
                 <span class="social-share-title">Share to Twitter</span>
             </a>
         </li>

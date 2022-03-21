@@ -18,7 +18,7 @@ videos:
 ## Call summary
 
 This month’s in-depth topic:  **Access Azure resources from software workload in different environments, no secrets necessary.**  When applications or services run in environments outside Azure, they need Azure AD application secrets to authenticate to Azure AD and access resources such as Azure and Microsoft Graph. These secrets pose a security risk if they are not stored securely and rotated regularly. Azure AD workload identity federation removes the need for these secrets in selected scenarios. Join this session to learn how you can use this capability to get rid of secrets in your scenario.  Session opens - What are “workload identities” in Azure AD and what is Azure AD workload identity federation?
-Then presenter will step through 4 scenarios for accessing Azure resources without secrets and conclude with next steps in this topic area.    This session was delivered by [Uday Hegde](http://twitter.com/udayxhegde) – Architect, Microsoft Identity | @udayxhegde.  Recorded February 17, 2022. Q&A in chat and at end of session.
+Then presenter will step through 4 scenarios for accessing Azure resources without secrets and conclude with next steps in this topic area.    This session was delivered by [Uday Hegde](https://twitter.com/udayxhegde) – Architect, Microsoft Identity | @udayxhegde.  Recorded February 17, 2022. Q&A in chat and at end of session.
 
 ## Referenced in this call
 

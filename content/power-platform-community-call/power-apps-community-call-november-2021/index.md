@@ -16,16 +16,16 @@ type: "regular"
 Topics covered in this month's community call include demos **Power Apps
 Christmas Calendar + Games** (Advent calendar with engaging games
 unlocked on Dec 18th and 23rd) - [Craig
-Gregory](http://twitter.com/CrashLongJohns)
+Gregory](https://twitter.com/CrashLongJohns)
 [@CrashLongJohns](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1127338) and 
 
-**Teams Provision Genie** (Canvas app that simplifies the configuration and deployment of enterprise ready Teams sites) - [Luise Freese](http://twitter.com/LuiseFreese) | @LuiseFreese & [Carmen Ysewijn](http://twitter.com/CarmenYsewijn) | @CarmenYsewijn.
+**Teams Provision Genie** (Canvas app that simplifies the configuration and deployment of enterprise ready Teams sites) - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese & [Carmen Ysewijn](https://twitter.com/CarmenYsewijn) | @CarmenYsewijn.
 
 **Recent
 Power Apps News and Community Contributions** (16 Power Apps
 announcements at Ignite and more) **--** [Charles
-Sterling](http://twitter.com/chass) (Microsoft) | @chass. This call
-was hosted by [Todd Baginski](http://twitter.com/toddbaginski) (Canviz).
+Sterling](https://twitter.com/chass) (Microsoft) | @chass. This call
+was hosted by [Todd Baginski](https://twitter.com/toddbaginski) (Canviz).
 
 
 The call was recorded on November 17, 2021.  Questions were addressed in
@@ -35,14 +35,14 @@ attending the call or viewing it on demand. 
 ## Agenda
 
 -   Power Apps Christmas Calendar + Games - [Craig
-    Gregory](http://twitter.com/crashlongjohns) | @crashlongjohns --
+    Gregory](https://twitter.com/crashlongjohns) | @crashlongjohns --
     [4:05](https://youtu.be/4IOoopyx_Ko?t=245)
 -   Teams Provision Genie - [Luise
-    Freese](http://twitter.com/LuiseFreese) | @LuiseFreese & [Carmen
-    Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) |
+    Freese](https://twitter.com/LuiseFreese) | @LuiseFreese & [Carmen
+    Ysewijn](https://twitter.com/CarmenYsewijn) (Qubix) |
     @CarmenYsewijn -- [27:05](https://youtu.be/4IOoopyx_Ko?t=1625)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) | @chass --
+    Sterling](https://twitter.com/chass) (Microsoft) | @chass --
     [63:44](https://youtu.be/4IOoopyx_Ko?t=3824)
 
 ## Demos

@@ -1664,7 +1664,7 @@ LITHIUM.RenderedScripts = [
 <LI>Hear about the latest 10 Microsoft 365 Platform related stories and take-in 3 demos delivered by Microsoft presenters on the latest capabilities of the Microsoft 365 platform.</LI>
 <LI>New series launched – <A href="https://aka.ms/LearnFromTheCommunity/ThisWeek" target="_blank" rel="noopener noreferrer">Learn from the community</A>.&nbsp; This week’s article:&nbsp; <A href="https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-react-web-app-and-azure-qna-bot-to-centralize-learning-resources/" target="_blank" rel="noopener noreferrer">Learn from the community: React web app and Azure QnA bot to centralize learning resources</A></LI>
 </UL>
-<P>The host of this call was <A href="http://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A> (Microsoft) | @vesajuvonen.&nbsp;&nbsp;Q&amp;A takes place in chat throughout and live at end of the call. &nbsp;&nbsp;</P>
+<P>The host of this call was <A href="https://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A> (Microsoft) | @vesajuvonen.&nbsp;&nbsp;Q&amp;A takes place in chat throughout and live at end of the call. &nbsp;&nbsp;</P>
 <P>&nbsp;</P>
 <P><STRONG>Microsoft 365 Platform News Flash</STRONG></P>
 <UL>
@@ -1727,10 +1727,10 @@ LITHIUM.RenderedScripts = [
 <P>&nbsp;</P>
 <P><STRONG>Topics</STRONG><SPAN>&nbsp;</SPAN>covered in this call</P>
 <UL>
-<LI>Latest updates and news on the Microsoft 365 platform – <A href="http://twitter.com/vesajuvonen" target="_blank" rel="nofollow noopener noreferrer">Vesa Juvonen</A> (Microsoft) | @vesajuvonen – <A href="https://youtu.be/AHF8poXLZ10?t=491" target="_blank" rel="nofollow noopener noreferrer">8:11</A></LI>
+<LI>Latest updates and news on the Microsoft 365 platform – <A href="https://twitter.com/vesajuvonen" target="_blank" rel="nofollow noopener noreferrer">Vesa Juvonen</A> (Microsoft) | @vesajuvonen – <A href="https://youtu.be/AHF8poXLZ10?t=491" target="_blank" rel="nofollow noopener noreferrer">8:11</A></LI>
 <LI><STRONG>D1</STRONG>:&nbsp; Introduction to Intune APIs on Microsoft Graph – Dave Randall (Microsoft) – <A href="https://youtu.be/AHF8poXLZ10?t=753" target="_blank" rel="nofollow noopener noreferrer">12:33</A></LI>
-<LI><STRONG>D2</STRONG>:&nbsp; Creating engaging and dynamic Viva Connections mobile experiences – <A href="http://twitter.com/mediocrebowler" target="_blank" rel="nofollow noopener noreferrer">Patrick Rodgers</A> (Microsoft) | @mediocrebowler – <A href="https://youtu.be/AHF8poXLZ10?t=1533" target="_blank" rel="nofollow noopener noreferrer">25:33</A></LI>
-<LI><STRONG>D3</STRONG>:&nbsp; Using the MGT Files Components in your solutions – <A href="http://twitter.com/sebastienlevert" target="_blank" rel="nofollow noopener noreferrer">Sébastien Levert</A>&nbsp;(Microsoft) | <a href="/t5/user/viewprofilepage/user-id/926766">@sebastienlevert</a> – <A href="https://youtu.be/AHF8poXLZ10?t=2198" target="_blank" rel="nofollow noopener noreferrer">36:38</A></LI>
+<LI><STRONG>D2</STRONG>:&nbsp; Creating engaging and dynamic Viva Connections mobile experiences – <A href="https://twitter.com/mediocrebowler" target="_blank" rel="nofollow noopener noreferrer">Patrick Rodgers</A> (Microsoft) | @mediocrebowler – <A href="https://youtu.be/AHF8poXLZ10?t=1533" target="_blank" rel="nofollow noopener noreferrer">25:33</A></LI>
+<LI><STRONG>D3</STRONG>:&nbsp; Using the MGT Files Components in your solutions – <A href="https://twitter.com/sebastienlevert" target="_blank" rel="nofollow noopener noreferrer">Sébastien Levert</A>&nbsp;(Microsoft) | <a href="/t5/user/viewprofilepage/user-id/926766">@sebastienlevert</a> – <A href="https://youtu.be/AHF8poXLZ10?t=2198" target="_blank" rel="nofollow noopener noreferrer">36:38</A></LI>
 </UL>
 <P>&nbsp;</P>
 <P><STRONG>Resources:</STRONG></P>
@@ -1760,7 +1760,7 @@ LITHIUM.RenderedScripts = [
 <LI><STRONG>D2:&nbsp; </STRONG>Sample - <A href="https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-dynamic-card" target="_blank" rel="noopener noreferrer">ace-dynamic-card</A>&nbsp;</LI>
 <LI><STRONG>D2:&nbsp; </STRONG>Documentation - <A href="https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections" target="_blank" rel="noopener noreferrer">Overview of Viva Connections Extensibility</A>&nbsp;</LI>
 <LI><STRONG>D2:&nbsp; </STRONG>Samples - <A href="https://github.com/pnp/sp-dev-fx-aces" target="_blank" rel="noopener noreferrer">Viva Connection Adaptive Card Extensions (ACEs) sample repository</A>&nbsp;</LI>
-<LI><SPAN>Previous demos in </SPAN><A href="http://twitter.com/mediocrebowler" target="_blank" rel="nofollow noopener noreferrer">Patrick Rodgers</A> | @mediocrebowler, Adaptive Card Extensions <SPAN>series</SPAN>
+<LI><SPAN>Previous demos in </SPAN><A href="https://twitter.com/mediocrebowler" target="_blank" rel="nofollow noopener noreferrer">Patrick Rodgers</A> | @mediocrebowler, Adaptive Card Extensions <SPAN>series</SPAN>
 <UL>
 <LI><A href="https://youtu.be/F5JcbIlxSpo?t=1562" target="_blank" rel="nofollow noopener noreferrer">When to build Viva Connections Adaptive Card Extensions</A> – 25<SUP>th</SUP> of January</LI>
 <LI><A href="https://youtu.be/YG16snk1fJU?t=1718" target="_blank" rel="nofollow noopener noreferrer">Deep dive on Viva Connections Adaptive Card Extension development – State management</A> – 30<SUP>th</SUP> of January</LI>
@@ -1770,7 +1770,7 @@ LITHIUM.RenderedScripts = [
 <LI><STRONG>D3:&nbsp; </STRONG>Tool - <A href="https://mgt.dev/?path=/story/components-mgt-file--file" target="_blank" rel="nofollow noopener noreferrer">Microsoft Graph Toolkit Playground – File</A>&nbsp;</LI>
 <LI><STRONG>D3:&nbsp; </STRONG>Repo - <A href="https://github.com/sebastienlevert/mgt-sandbox" target="_blank" rel="noopener noreferrer">MGT Sandbox</A>&nbsp;</LI>
 <LI><STRONG>D3:&nbsp; </STRONG>Learn - <A href="https://aka.ms/mgt/learn" target="_blank" rel="noopener noreferrer">Develop apps with the Microsoft Graph Toolkit</A> | <A href="https://aka.ms/mgt/learn" target="_blank" rel="noopener noreferrer">aka.ms/mgt/learn</A></LI>
-<LI><SPAN>Previous demos in </SPAN><A href="http://twitter.com/sebastienlevert" target="_blank" rel="nofollow noopener noreferrer">Sébastien Levert</A><SPAN>’s</SPAN> (Microsoft) | <a href="/t5/user/viewprofilepage/user-id/926766">@sebastienlevert</a>,<SPAN> Microsoft Graph Toolkit (MGT) series</SPAN>
+<LI><SPAN>Previous demos in </SPAN><A href="https://twitter.com/sebastienlevert" target="_blank" rel="nofollow noopener noreferrer">Sébastien Levert</A><SPAN>’s</SPAN> (Microsoft) | <a href="/t5/user/viewprofilepage/user-id/926766">@sebastienlevert</a>,<SPAN> Microsoft Graph Toolkit (MGT) series</SPAN>
 <UL>
 <LI><A href="https://youtu.be/JkgFrbtwdJU?t=476" target="_blank" rel="nofollow noopener noreferrer">Discover the Microsoft Graph Toolkit</A> –&nbsp;7 December 2021</LI>
 <LI><A href="https://youtu.be/HfBVaeGRDw8?t=2375" target="_blank" rel="nofollow noopener noreferrer">Microsoft Graph Toolkit – Using Login Component in your solutions</A> –&nbsp;14 December 2021</LI>
@@ -1780,7 +1780,7 @@ LITHIUM.RenderedScripts = [
 <LI><A href="https://youtu.be/Ddc0vZYAXDs?t=2619" target="_blank" rel="nofollow noopener noreferrer">Using the MGT Agenda and Tasks Components in your solutions</A> – 1 February 2022</LI>
 </UL>
 </LI>
-<LI><STRONG>Microsoft 365 PnP Weekly – Episode 152</STRONG> (February 7<SUP>th</SUP>) with Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum,&nbsp;<A href="http://twitter.com/bernierh" target="_blank" rel="nofollow noopener noreferrer">Hugo Bernier</A>&nbsp;(Microsoft) | @bernierh&nbsp;|&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-152-hugo-bernier/ba-p/3131722" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-152-%E2%80%93-7th-of-february-2022/" target="_blank" rel="nofollow noopener noreferrer">podcast</A></LI>
+<LI><STRONG>Microsoft 365 PnP Weekly – Episode 152</STRONG> (February 7<SUP>th</SUP>) with Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum,&nbsp;<A href="https://twitter.com/bernierh" target="_blank" rel="nofollow noopener noreferrer">Hugo Bernier</A>&nbsp;(Microsoft) | @bernierh&nbsp;|&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-152-hugo-bernier/ba-p/3131722" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-152-%E2%80%93-7th-of-february-2022/" target="_blank" rel="nofollow noopener noreferrer">podcast</A></LI>
 </UL>
 <P>&nbsp;</P>
 <P><STRONG>General resources</STRONG>:</P>
@@ -3010,7 +3010,7 @@ LITHIUM.RenderedScripts = [
             </a>
         </li>
         <li class="social-share-option">
-            <a class="social-share-link social-share-twitter" href="http://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Microsoft 365 Platform Call – 8th of February, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-8th-of-february-2022/ba-p/3138121?attachment-id=49675" target="_blank" title="Share to Twitter">
+            <a class="social-share-link social-share-twitter" href="https://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Microsoft 365 Platform Call – 8th of February, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-8th-of-february-2022/ba-p/3138121?attachment-id=49675" target="_blank" title="Share to Twitter">
                 <span class="social-share-title">Share to Twitter</span>
             </a>
         </li>

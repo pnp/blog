@@ -19,16 +19,16 @@ The following topics are covered in this month's community call:
 - **Teams support for v1.4** (Teams now has partial support of v1.4) - Steven Kong (Microsoft) and finally
 - **Q&A** (members of the Developer team and PM team field questions on a host of topics -- updating documentation, functionality with Power Platform, multi-line support, adaptive components, etc.) for 30 minutes.
 
-This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm. Recorded on August 12, 2021.
+This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) | @jpthepm. Recorded on August 12, 2021.
 
 {{< youtube 84IvNDDlehc >}}
 
 ## Agenda
 
--   Contribution Guidelines - [J.P. Roca](http://twitter.com/jpthepm)
+-   Contribution Guidelines - [J.P. Roca](https://twitter.com/jpthepm)
     (Microsoft) | @jpthepm --
     [1:03](https://youtu.be/84IvNDDlehc?t=63)
--   Announcing v1.5 - [J.P. Roca](http://twitter.com/jpthepm)
+-   Announcing v1.5 - [J.P. Roca](https://twitter.com/jpthepm)
     (Microsoft) | @jpthepm --
     [2:04](https://youtu.be/84IvNDDlehc?t=124)
 -   Teams support for v1.4 -- [Steven

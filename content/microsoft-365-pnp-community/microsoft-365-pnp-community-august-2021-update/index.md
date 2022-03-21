@@ -225,10 +225,10 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     Schot](https://twitter.com/appieschot) - [Use CLI for Microsoft 365
     to recognize
     contributions](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/use-cli-for-microsoft-365-to-recognize-contributions/ba-p/2595191)
--   27th of July - [Agnes Molnar](http://twitter.com/searchexplained)
+-   27th of July - [Agnes Molnar](https://twitter.com/searchexplained)
     (Search Explained) - [How to set up your first PnP Search
     Page](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-set-up-your-first-pnp-search-page/ba-p/2591265)
--   27th of July - [Agnes Molnar](http://twitter.com/searchexplained)
+-   27th of July - [Agnes Molnar](https://twitter.com/searchexplained)
     (Search Explained) - [How to Deploy PnP Modern Search Web Parts
     v4](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-deploy-pnp-modern-search-web-parts-v4/ba-p/2591253)
 -   26th of July - [Luise

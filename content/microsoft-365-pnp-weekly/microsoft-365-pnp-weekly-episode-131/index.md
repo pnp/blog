@@ -13,9 +13,9 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by the Senior Program Manager Zhenya Savchenko (Microsoft) from
 the Developer Division of Visual Studio group. He one of the PMs
 coordinating new [Microsoft Teams Toolkit v2 extension for Visual Studio
@@ -176,7 +176,7 @@ everyone for your contributions to the community!
     Teams](https://regarding365.com/edit-a-sharepoint-page-or-news-post-in-microsoft-teams-8954a9667369) - [Daniel
     Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) |
     @DanielGlenn, [Darrell
-    Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
+    Webster](https://twitter.com/darrellaas) (Modern Workplace Change) |
     @darrellaas
 
  

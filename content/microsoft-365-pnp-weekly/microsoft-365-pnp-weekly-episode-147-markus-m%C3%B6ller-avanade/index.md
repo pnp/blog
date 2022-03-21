@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=a7A0KmGzLvk
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365 hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen,[Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Munich, Germany-based consultant and MVP, [Markus Möller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365 hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen,[Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Munich, Germany-based consultant and MVP, [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0. 
 
 Topics discussed in this session:
 

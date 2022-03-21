@@ -15,15 +15,15 @@ videos:
 
 ## Call summary
 
-The following topics are covered in this month’s community call.  Demo:  **Adaptive Cards Host Control in Microsoft PnP Library** (use an Adaptive Card in an SPFx solution that allows UI changes at runtime) – [Fabio Franzini](http://twitter.com/franzinifabio) (Apvee Solutions), **Designer Device Emulator**  (quick way to see Adaptive Card layout at various selected screen resolutions) – Will Shown (Microsoft), and 15 minute live **Q&A** – host and demo presenters answer questions about their demos and on **building Teams apps with React; which React library to use - React Northstar, React Teams or Fluent UI?**  This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm.  Recorded on March 10, 2022.
+The following topics are covered in this month’s community call.  Demo:  **Adaptive Cards Host Control in Microsoft PnP Library** (use an Adaptive Card in an SPFx solution that allows UI changes at runtime) – [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee Solutions), **Designer Device Emulator**  (quick way to see Adaptive Card layout at various selected screen resolutions) – Will Shown (Microsoft), and 15 minute live **Q&A** – host and demo presenters answer questions about their demos and on **building Teams apps with React; which React library to use - React Northstar, React Teams or Fluent UI?**  This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) | @jpthepm.  Recorded on March 10, 2022.
 
 {{< youtube k5kNBgevDBM >}}
 
 ## Agenda
 
-*   **Adaptive Cards Host Control in Microsoft PnP Library** – [Fabio Franzini](http://twitter.com/franzinifabio) (Apvee Solutions) | @franzinifabio – [00:38](https://youtu.be/k5kNBgevDBM?t=38)
+*   **Adaptive Cards Host Control in Microsoft PnP Library** – [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee Solutions) | @franzinifabio – [00:38](https://youtu.be/k5kNBgevDBM?t=38)
 *   **Designer Device Emulator** – Will Shown (Microsoft) – [20:20](https://youtu.be/k5kNBgevDBM?t=1220)
-*   **Q&A** – [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm & demo presenters – [23:49](https://youtu.be/k5kNBgevDBM?t=1429)
+*   **Q&A** – [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) | @jpthepm & demo presenters – [23:49](https://youtu.be/k5kNBgevDBM?t=1429)
 
 ## Demo
 

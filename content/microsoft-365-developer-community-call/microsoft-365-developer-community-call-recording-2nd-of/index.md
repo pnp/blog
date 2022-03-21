@@ -36,7 +36,7 @@ There are 2 new Microsoft Teams samples this week.  Have you visited the
 [Teams Samples wish list](https://aka.ms/teams-sample-wishlist)?  Need
 an idea for a sample?  Consider collaborating with Microsoft Teams
 Engineering to create a sample and earn a Credly badge.   The host of
-this call was [David Warner II](http://twitter.com/DavidWarnerII)
+this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Catapult Systems) @DavidWarnerII.   Q&A takes place in chat throughout
 the call.
 
@@ -88,7 +88,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   **[Teams Tab with SSO and Microsoft Graph Toolkit
     usage](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-mgt-person)** -
-    [Markus Möller](http://twitter.com/Moeller2_0) (Avanade) |
+    [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) |
     @Moeller2_0
 -   **[Teams Tab Single Sign-on (SSO)
     Sample](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-sso) **(updated)
@@ -143,43 +143,43 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft)
+    Jansen](https://twitter.com/O365bert) (Microsoft)
     @O365bert - [5:57](https://youtu.be/qsr-OspeYug?t=357)
 
--   PnP PowerShell - [Bert Jansen](http://twitter.com/O365bert)
+-   PnP PowerShell - [Bert Jansen](https://twitter.com/O365bert)
     (Microsoft) @O365bert - [7:30](https://youtu.be/qsr-OspeYug?t=450)
 
--   yo Teams updates - [Paolo Pialorsi](http://twitter.com/paolopia)
+-   yo Teams updates - [Paolo Pialorsi](https://twitter.com/paolopia)
     (PiaSys.com) @paolopia - [8:22](https://youtu.be/qsr-OspeYug?t=502)
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft)
+    Pan](https://twitter.com/beth_panx) (Microsoft)
     | [beth-panx](https://github.com/beth-panx) - [9:23](https://youtu.be/qsr-OspeYug?t=563)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German -
+    German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German -
     [11:24](https://youtu.be/qsr-OspeYug?t=684)
 
 -   Microsoft Power Platform Samples - [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
+    Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
      - [12:45](https://youtu.be/qsr-OspeYug?t=765)
 
 -   **Demo:**  SharePoint Approval Workflow Status Tracking with Column
-    Formatting - [Reza Dorrani](http://twitter.com/rezadorrani)
+    Formatting - [Reza Dorrani](https://twitter.com/rezadorrani)
     (Catapult) |
     [rdorrani](https://github.com/rdorrani) -
     [15:16](https://youtu.be/qsr-OspeYug?t=916)
 
 -   **Demo:**  Build your first conversational chatbot for Teams -
-    [Stephan Bisser](http://twitter.com/stephanbisser) (Solvion) |
+    [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) |
     @stephanbisser - [34:39](https://youtu.be/qsr-OspeYug?t=2079)
 
 -   **Demo:**
 -   Updates on Independent Publisher Connectors for Power
     Platform - [Natalie
-    Pienkowska](http://twitter.com/NataliePienkow1)[ (Microsoft) |
+    Pienkowska](https://twitter.com/NataliePienkow1)[ (Microsoft) |
     @NataliePienkow1 and ][Troy
-    Taylor](http://twitter.com/troystaylor)[ (Hitachi Solutions) |
+    Taylor](https://twitter.com/troystaylor)[ (Hitachi Solutions) |
     [troystaylor](https://github.com/troystaylor) -
     [45:46](https://youtu.be/qsr-OspeYug?t=2746)]
 
@@ -213,12 +213,12 @@ slides.
 
 -   [Demo - ][Publish a connector to the
     Power Platform](https://youtu.be/ulTBvCHw8MU)[ -- [Natalie
-    Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft)  |
+    Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft)  |
     @NataliePienkow1]
 
 -   [[How I Make Power Platform Independent Publisher Custom
     Connectors](https://www.troystaylor.com/how-i-make-power-platform-independent-publisher-custom-connectors)
-    - [Troy Taylor](http://twitter.com/troystaylor) (Hitachi Solutions)
+    - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions)
     |
     [troystaylor](https://github.com/troystaylor)]
 

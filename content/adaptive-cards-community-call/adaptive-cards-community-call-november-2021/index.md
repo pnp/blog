@@ -16,16 +16,16 @@ The following topics are covered in this month's community call:
 - **v1.5 Blog Post + Website Changes** (feature details in latest blog post and v1.5 features added to Designer) - J.P. Roca (Microsoft) and 
 - **Q&A** -- members of the Developer and PM teams fielded questions on a host of topics for the last 25 minutes on this call.
 - Questions on Power Apps, Viva Connections, Adaptive Cards, AC in Azure Logic Apps, Adaptive Components, AC Designer, Universal Actions, Teams, Outlook integration...
-- This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm.  Recorded on November 11, 2021.
+- This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) | @jpthepm.  Recorded on November 11, 2021.
 
 ## Agenda
 
 -   **Viva Connections + Adaptive Cards** :handshake: - Emily Lynam
     (Microsoft), Max Kulakov (Microsoft), and [Siddharth
-    Gulati](http://twitter.com/sidvaani) (Microsoft) | @sidvaani
+    Gulati](https://twitter.com/sidvaani) (Microsoft) | @sidvaani
     --[00:45](https://youtu.be/_qDFDMUouxE?t=45)
 -   **v1.5 Blog Post + Website Changes** :loudspeaker: - [J.P.
-    Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm --
+    Roca](https://twitter.com/jpthepm) (Microsoft) | @jpthepm --
     [13:53](https://youtu.be/_qDFDMUouxE?t=833)
 -   **Q&A** :white_question_mark: - with members of Microsoft Developer
     and PM teams -- [14:53](https://youtu.be/_qDFDMUouxE?t=873)

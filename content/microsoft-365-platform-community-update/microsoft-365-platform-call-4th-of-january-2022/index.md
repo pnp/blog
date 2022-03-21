@@ -49,7 +49,7 @@ platform.   
     Microsoft presenters on latest capabilities of the Microsoft 365
     platform.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and
 live at end of the call.   
 
@@ -141,20 +141,20 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [8:12](https://youtu.be/kZ_JwZpbJb4?t=492)
 -   **D1**:  Introduction to Microsoft Teams ISV app monetization
-    capabilities -- [James Skay](http://twitter.com/JamesSkay)
+    capabilities -- [James Skay](https://twitter.com/JamesSkay)
     (Microsoft) | @JamesSkay --
     [10:43](https://youtu.be/kZ_JwZpbJb4?t=643)
 -   **D2**:  Microsoft Graph Toolkit -- Using the Person Component in
     your solutions -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    Levert](https://twitter.com/sebastienlevert) (Microsoft) |
     [sebastienlevert](https://github.com/sebastienlevert) --
     [19:18](https://youtu.be/kZ_JwZpbJb4?t=1158)
 -   **D3**:  Introduction to new Adaptive Cards samples for Viva
     Connections Quick View designs -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [45:21](https://youtu.be/kZ_JwZpbJb4?t=2721)
 
 
@@ -190,13 +190,13 @@ slides.
 
 -   **D2:** First session - 7 December 2021 - [Discover the Microsoft
     Graph Toolkit](https://youtu.be/JkgFrbtwdJU?t=476) -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    Levert](https://twitter.com/sebastienlevert) (Microsoft) |
     [sebastienlevert](https://github.com/sebastienlevert)
 
 -   **D2:** Second session -- 14 December 2021 - [Microsoft Graph
     Toolkit -- Using Login Component in your
     solutions](https://youtu.be/HfBVaeGRDw8?t=2375) -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    Levert](https://twitter.com/sebastienlevert) (Microsoft) |
     [sebastienlevert](https://github.com/sebastienlevert) 
 
 -   **D3**:  Samples - [Adaptive Card templates - design

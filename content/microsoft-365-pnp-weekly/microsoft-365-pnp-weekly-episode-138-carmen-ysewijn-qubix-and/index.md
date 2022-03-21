@@ -12,13 +12,13 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Germany-based Office Apps and Services MVP, consultant,
-developer [Luise Freese](http://twitter.com/LuiseFreese) |
+developer [Luise Freese](https://twitter.com/LuiseFreese) |
 @LuiseFreese and Belgium-based SharePoint/Power Platform developer at
-Qubix, [Carmen Ysewijn](http://twitter.com/CarmenYsewijn) |
+Qubix, [Carmen Ysewijn](https://twitter.com/CarmenYsewijn) |
 @CarmenYsewijn.
 
 Topics discussed in this session include: 
@@ -64,7 +64,7 @@ everyone for your contributions to the community!
 
 -   [SharePoint Roadmap Pitstop: September
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-september-2021/ba-p/2806235) -
-    [Mark Kashman](http://twitter.com/mkashman) (Microsoft) |
+    [Mark Kashman](https://twitter.com/mkashman) (Microsoft) |
     @mkashman
 -   [Manage your apps with the Developer Portal for Microsoft
     Teams](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/teams-developer-portal?referrer=whats.new.rssfeed) -
@@ -98,7 +98,7 @@ everyone for your contributions to the community!
     availability](https://regarding365.com/viva-learning-preview-moving-to-general-availability-d73ba4690e29) - [Daniel
     Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) |
     @DanielGlenn, [Darrell
-    Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
+    Webster](https://twitter.com/darrellaas) (Modern Workplace Change) |
     @darrellaas
 -   [Script: Connecting to Microsoft 365 Using the Microsoft Graph
     PowerShell](https://helloitsliam.com/2021/10/08/connect-to-the-microsoft-graph-powershell/) -

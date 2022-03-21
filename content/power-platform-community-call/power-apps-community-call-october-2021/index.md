@@ -21,15 +21,15 @@ As well there was **Recent Power Apps News
 and Community Contributions**, and more! 
 
 Community welcomes [Anna
-Chu](http://twitter.com/_achu) - Sr. Program Manager (Microsoft) |
+Chu](https://twitter.com/_achu) - Sr. Program Manager (Microsoft) |
 @\_achu.  
 
 This call was hosted by [Todd
-Baginski](http://twitter.com/toddbaginski) (Canviz).  Demo presenters
-included [Michelle Wong](http://twitter.com/MichelleWongNL), [Sheryl
-Netley](http://twitter.com/SherylNetley), [Jese
-Navaranjan](http://twitter.com/JeseNav2)  and [Charles
-Sterling](http://twitter.com/chass).  The call was recorded on October
+Baginski](https://twitter.com/toddbaginski) (Canviz).  Demo presenters
+included [Michelle Wong](https://twitter.com/MichelleWongNL), [Sheryl
+Netley](https://twitter.com/SherylNetley), [Jese
+Navaranjan](https://twitter.com/JeseNav2)  and [Charles
+Sterling](https://twitter.com/chass).  The call was recorded on October
 20, 2021.  Questions were addressed in chat throughout the call along
 with some live discussion.  Thank for attending the call or viewing it
 on demand. 
@@ -37,16 +37,16 @@ on demand. 
 ## Agenda
 
 -   PokéBubbles Game - [Michelle
-    Wong](http://twitter.com/MichelleWongNL) |
+    Wong](https://twitter.com/MichelleWongNL) |
     [@MichelleWongNL](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/707040) --
     [6:21](https://youtu.be/L_D-ppjeRoE?t=381)
 -   How to get Microsoft Certified in the Power Platform - [Sheryl
-    Netley](http://twitter.com/SherylNetley)  |
+    Netley](https://twitter.com/SherylNetley)  |
     [@SherylNetley](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/718554) & [Jese
-    Navaranjan](http://twitter.com/JeseNav2) (Avanade) | @JeseNav2 --
+    Navaranjan](https://twitter.com/JeseNav2) (Avanade) | @JeseNav2 --
     [28:53](https://youtu.be/L_D-ppjeRoE?t=1733)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) | @chass --
+    Sterling](https://twitter.com/chass) (Microsoft) | @chass --
     [58:54](https://youtu.be/L_D-ppjeRoE?t=3534)
 
 ## Demos

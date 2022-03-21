@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=SLmJN7_knZY
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by London, UK-based SharePoint developer architect and MVP, [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by London, UK-based SharePoint developer architect and MVP, [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells 
 
 Topics discussed in this session:
 
@@ -52,7 +52,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Community articles
 
-*   [Samples from Microsoft 365 Unified Sample Gallery by Anoop](https://adoption.microsoft.com/sample-solution-gallery/author/Anoop-Tatti?action=ajax_plugin_call_sample_solution_gallery&authorId=anoopt&size=8&page=1) - [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells 
+*   [Samples from Microsoft 365 Unified Sample Gallery by Anoop](https://adoption.microsoft.com/sample-solution-gallery/author/Anoop-Tatti?action=ajax_plugin_call_sample_solution_gallery&authorId=anoopt&size=8&page=1) - [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells 
 *   [Make a bot for simple interactions in Teams using a Webhook](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/make-a-bot-for-simple-interactions-in-teams-using-a-webhook/ba-p/3064378) - [Lee Ford](https://www.twitter.com/lee_ford) (Symity Ltd) | [@Lee](/t5/user/viewprofilepage/user-id/1218535)\_ford
 *   [Quickly set up Viva Connections app in Microsoft Teams using Teams admin center](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ba-p/3064444) - [Shrusti Shah](https://www.linkedin.com/in/shrushti-shah-bba565162/) (Rapid Circle)
 *   [Create folders on SharePoint Document Library from CSV](https://sharepoint-tricks.com/create-folders-on-sharepoint-document-library-from-csv/) - [David Ramalho](https://twitter.com/DavRamalho) (Storm Technology Ltd) | [@davRamalho](/t5/user/viewprofilepage/user-id/718524)

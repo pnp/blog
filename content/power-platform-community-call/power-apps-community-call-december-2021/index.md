@@ -18,10 +18,10 @@ Experimental co-authoring with git integration, to a canvas app**)** -
 
 - **Recent Power Apps News and Community Contributions** (Visualize data
 in model-driven apps with Power BI (preview, and December Developer
-Tools Refresh) **--** [Charles Sterling](http://twitter.com/chass)
+Tools Refresh) **--** [Charles Sterling](https://twitter.com/chass)
 (Microsoft).  Latest PnP Power Apps Samples -- [April
-Dunnam](http://twitter.com/aprildunnam) (Microsoft). This call was
-hosted by [Todd Baginski](http://twitter.com/toddbaginski) (Canviz). 
+Dunnam](https://twitter.com/aprildunnam) (Microsoft). This call was
+hosted by [Todd Baginski](https://twitter.com/toddbaginski) (Canviz). 
 
 The
 call was recorded on December 15, 2021.  Questions were addressed in
@@ -33,16 +33,16 @@ demand. 
 ## Agenda
 
 -   **Demo 1**:  Building Xbox games with Power Apps -- [Brian
-    Dang](http://twitter.com/mrdang) (Microsoft) | @mrdang --
+    Dang](https://twitter.com/mrdang) (Microsoft) | @mrdang --
     [3:03](https://youtu.be/KUCW242CV18?t=183)
 -   **Demo 2**:  Office like commenting & co-authoring -- [Emma
     Cooper](https://www.linkedin.com/in/emmamcooper) (Microsoft) | --
     [29:57](https://youtu.be/KUCW242CV18?t=1797)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) | @chass --
+    Sterling](https://twitter.com/chass) (Microsoft) | @chass --
     [50:59](https://youtu.be/KUCW242CV18?t=3059)
 -   Latest PnP Power Apps Samples -- [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
+    Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
     -- [54:55](https://youtu.be/KUCW242CV18?t=3295)
 
 ## Demos

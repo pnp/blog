@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=Ghul8r1XjwU
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm, are joined by UK-based Office Development MVP, MCT, MCM, focused on Microsoft 365, Microsoft Teams, mobile and AI/ML – [Bill Ayers](http://twitter.com/SPDoctor) (Flow Simulation Ltd) | @SPDoctor.   
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm, are joined by UK-based Office Development MVP, MCT, MCM, focused on Microsoft 365, Microsoft Teams, mobile and AI/ML – [Bill Ayers](https://twitter.com/SPDoctor) (Flow Simulation Ltd) | @SPDoctor.   
 
 In this session Bill shares his tips on dealing with data overload, technology updates, event management, and religious like enthusiasm.  His advice – learn broadly, go deep as necessary to solve specific problem, avoid reacting to notifications, beware of same functionality, new name.   Adopt latest technology when clear business reason is established. 
 

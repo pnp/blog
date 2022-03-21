@@ -16,7 +16,7 @@ Consent Deep Dive (demystifying permissions and consent when accessing
 Microsoft Graph) and on Considerations for Creating Online Meetings
 (**Integration into Outlook or into other 3^rd^ party experiences)**. 
 Q&A in this call after demos, at end and in chat.  The call was hosted
-by [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) |
+by [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) |
 [@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556). Microsoft
 Presenters were Philippe Signoret and Fabian Williams.  Recorded on May
 4, 2021.

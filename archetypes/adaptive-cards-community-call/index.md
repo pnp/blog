@@ -24,13 +24,13 @@ The following topics are covered in this month's community call:
 - **ADD MORE HERE** Add text here (tip: use the `boldbullet` snippet to add more bolded bullets)
 
 
-This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm. Recorded on {{ dateFormat  "January 2, 2006" .Date}}.
+This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) | @jpthepm. Recorded on {{ dateFormat  "January 2, 2006" .Date}}.
 
 {{< youtube INSERT-VIDEO-CODE-HERE >}}
 
 ## Agenda
 
--   Contribution Guidelines - [J.P. Roca](http://twitter.com/jpthepm)
+-   Contribution Guidelines - [J.P. Roca](https://twitter.com/jpthepm)
     (Microsoft) | @jpthepm --
     [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
 -   Use `timepoint` snippet to enter more

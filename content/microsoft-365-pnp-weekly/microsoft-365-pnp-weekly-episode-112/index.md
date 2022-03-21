@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=UYg-adKY9bU
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm, are joined by [Ed Everett](https://twitter.com/Ed_Averett), Principal Group Program Manager from Microsoft, leading the platform extensibility efforts for OneDrive and SharePoint areas. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm, are joined by [Ed Everett](https://twitter.com/Ed_Averett), Principal Group Program Manager from Microsoft, leading the platform extensibility efforts for OneDrive and SharePoint areas. 
 
 The trio talk about continued integrations of infrastructure and app platform across Microsoft 365, including still tighter integration with Microsoft Teams, Microsoft Graph, Power Platform, resource-based consent for app development, several SPFx updates, and more on forms customization.  
 

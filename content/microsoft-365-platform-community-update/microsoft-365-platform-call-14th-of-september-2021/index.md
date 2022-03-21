@@ -32,7 +32,7 @@ into the weekly [Microsoft 365 Developer
 Podcast](https://m365devpodcast.com) focused exclusively on Microsoft
 365 dev topics -- hosted by Jeremy Thake (Microsoft) and Paul Schaeflein
 (Addin365).   The host of this call was [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
   Q&A takes place in chat throughout the call.
 
 **Microsoft 365 Platform News Flash**
@@ -122,18 +122,18 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
     | @vesajuvonen -- [8:47](https://youtu.be/pK1nbjLP0CI?t=527)
 
 -   **D1:**  Introduction to new modernized SharePoint Store -- Yi Han
     (Microsoft) -- [12:12](https://youtu.be/pK1nbjLP0CI?t=732)
 
 -   **D2:**  Microsoft Graph JavaScript SDK Updates. -- [Roina
-    Ochieng](http://twitter.com/roinochieng) (Microsoft) |
+    Ochieng](https://twitter.com/roinochieng) (Microsoft) |
     @roinochieng -- [24:43](https://youtu.be/pK1nbjLP0CI?t=1483)
 
 -   **D3:**  Latest on SharePoint Site Scripts -- Intro and Roadmap --
-    [Cathy Dew](http://twitter.com/catpaint1) (Microsoft) |
+    [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) |
     @catpaint1 -- [31:40](https://youtu.be/pK1nbjLP0CI?t=1900)
 
 
@@ -160,16 +160,16 @@ slides.
 
 -   **PnP Weekly -- Episode 134** (September 13th) with Boston-based MVP
     and founder of Sympraxis Consulting - [Marc D
-    Anderson](http://twitter.com/sympmarc) | @sympmarc
+    Anderson](https://twitter.com/sympmarc) | @sympmarc
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-134-marc-d-anderson-sympraxis/ba-p/2746312) |  [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-134-%e2%80%93-13th-of-september-2021/)
 
 -   [Microsoft 365 Developer
     Podcast](https://m365devpodcast.com/) focused  exclusively on
     Microsoft 365 dev topics -- hosted by [Jeremy
-    Thake](http://twitter.com/jthake) (Microsoft) |
+    Thake](https://twitter.com/jthake) (Microsoft) |
 
     @jthake and [Paul
-    Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
+    Schaeflein](https://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
 ## General resources

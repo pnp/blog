@@ -13,12 +13,12 @@ type: "regular"
 
 ## Call summary
 
-The following topics are covered in this month’s community call: **Adaptive Cards and the Power Platform to solve captchas** (Use RPA, Adaptive Cards actionable messaging and Power Automate to resolve captcha challenges remotely on desktop or mobile) - [Tomasz Poszytek](http://twitter.com/TomaszPoszytek) (MVP), **Website Updates** (Blog posts for previous community calls, new samples for all 1.5 features!) - [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) and **Q&A** – members of the Developer and PM teams fielded questions on a host of topics for the last 15 minutes on this call.   This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm.  Recorded on January 13, 2022.
+The following topics are covered in this month’s community call: **Adaptive Cards and the Power Platform to solve captchas** (Use RPA, Adaptive Cards actionable messaging and Power Automate to resolve captcha challenges remotely on desktop or mobile) - [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) (MVP), **Website Updates** (Blog posts for previous community calls, new samples for all 1.5 features!) - [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) and **Q&A** – members of the Developer and PM teams fielded questions on a host of topics for the last 15 minutes on this call.   This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) | @jpthepm.  Recorded on January 13, 2022.
 
 ## Agenda
 
-*   Adaptive Cards and the Power Platform to solve captchas - [Tomasz Poszytek](http://twitter.com/TomaszPoszytek) (MVP) | [@TomaszPoszytek](/t5/user/viewprofilepage/user-id/335682) – [00:25](https://youtu.be/1IOr7naHqYA?t=25)
-*   Website Updates - [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm – [25:15](https://youtu.be/1IOr7naHqYA?t=1515)
+*   Adaptive Cards and the Power Platform to solve captchas - [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) (MVP) | [@TomaszPoszytek](/t5/user/viewprofilepage/user-id/335682) – [00:25](https://youtu.be/1IOr7naHqYA?t=25)
+*   Website Updates - [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) | @jpthepm – [25:15](https://youtu.be/1IOr7naHqYA?t=1515)
 *   Q&A - with members of Microsoft Developer and PM teams – [27:11](https://youtu.be/1IOr7naHqYA?t=1631)
 
 ## Demo

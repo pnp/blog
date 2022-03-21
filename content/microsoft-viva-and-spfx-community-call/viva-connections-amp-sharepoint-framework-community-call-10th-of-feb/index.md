@@ -50,7 +50,7 @@ SharePoint Framework (SPFx)|v1.13 GA, **v****1.14 RC**|GA targeted for mid-Febru
 [PnP SPFx Generator](https://github.com/pnp/generator-spfx)|v1.16.0|v1.17.0 on the way
 [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|**v4.5.4**, v3.23.0
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
 
 {{< image alt="thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 10th of February, 2022 " src="images/220210-together-mode.gif" >}}
 
@@ -93,11 +93,11 @@ Thank you for joining the call today and/or for viewing the recording.  You are
 
 <https://aka.ms/spfx-webparts>
 
-*   **[Enhanced Power Apps](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-enhanced-powerapps) -** [Kunj Sangani](http://twitter.com/sanganikunj) | @sanganikunj
+*   **[Enhanced Power Apps](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-enhanced-powerapps) -** [Kunj Sangani](https://twitter.com/sanganikunj) | @sanganikunj
 *   **Datatables using MUI Tables\* -** Jeffin Jacob  
-*   **Auto Batching Graph calls\* -** [Marcin Wojciechowski](http://twitter.com/mgwojciech) | @mgwojciech
-*   **Flow Button\* -** [Takashi Shinohara](http://twitter.com/karamem0) | [@karamem0](/t5/user/viewprofilepage/user-id/229602)
-*   **Property Pane Wrap\* -** [Christophe Humbert](http://twitter.com/Path2SharePoint) | @PathToSharePoint
+*   **Auto Batching Graph calls\* -** [Marcin Wojciechowski](https://twitter.com/mgwojciech) | @mgwojciech
+*   **Flow Button\* -** [Takashi Shinohara](https://twitter.com/karamem0) | [@karamem0](/t5/user/viewprofilepage/user-id/229602)
+*   **Property Pane Wrap\* -** [Christophe Humbert](https://twitter.com/Path2SharePoint) | @PathToSharePoint
 
 \* To be posted soon.
 
@@ -113,19 +113,19 @@ Thank you for your great work.  Samples are often showcased in Demos.    
 
 ## Agenda items
 
-*   SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [5:12](https://youtu.be/6efA9Du1KkQ?t=312)
-*   PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [7:35](https://youtu.be/6efA9Du1KkQ?t=455)
-*   CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [9:07](https://youtu.be/6efA9Du1KkQ?t=547)
-*   PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [9:56](https://youtu.be/6efA9Du1KkQ?t=596)
-*   PnP Modern Search \- [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [10:56](https://youtu.be/6efA9Du1KkQ?t=656) 
+*   SharePoint Framework - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [5:12](https://youtu.be/6efA9Du1KkQ?t=312)
+*   PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [7:35](https://youtu.be/6efA9Du1KkQ?t=455)
+*   CLI for Microsoft 365 - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [9:07](https://youtu.be/6efA9Du1KkQ?t=547)
+*   PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [9:56](https://youtu.be/6efA9Du1KkQ?t=596)
+*   PnP Modern Search \- [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [10:56](https://youtu.be/6efA9Du1KkQ?t=656) 
 *   PnP SPFx Samples - [Hugo Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) | @bernierh – [12:01](https://youtu.be/6efA9Du1KkQ?t=721)
-*   PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [13:42](https://youtu.be/6efA9Du1KkQ?t=822)
+*   PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [13:42](https://youtu.be/6efA9Du1KkQ?t=822)
 
 ## Demos
 
-*   **Demo 1**:  Document Links Accordion SPFx Web Part – [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII & [João Mendes](http://twitter.com/joaojmendes) (Valo) | [@joaojmendes](/t5/user/viewprofilepage/user-id/442957) – [15:26](https://youtu.be/6efA9Du1KkQ?t=926) 
-*   **Demo 2**:  New Development Containers for SPFx Samples – [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) | @bernierh – [25:02](https://youtu.be/6efA9Du1KkQ?t=1502) 
-*   **Demo 3**:  Viva Connections – Consuming SharePoint Online Data in SPFx Adaptive Card Extensions – [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia – [47:38](https://youtu.be/6efA9Du1KkQ?t=2858) 
+*   **Demo 1**:  Document Links Accordion SPFx Web Part – [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII & [João Mendes](https://twitter.com/joaojmendes) (Valo) | [@joaojmendes](/t5/user/viewprofilepage/user-id/442957) – [15:26](https://youtu.be/6efA9Du1KkQ?t=926) 
+*   **Demo 2**:  New Development Containers for SPFx Samples – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh – [25:02](https://youtu.be/6efA9Du1KkQ?t=1502) 
+*   **Demo 3**:  Viva Connections – Consuming SharePoint Online Data in SPFx Adaptive Card Extensions – [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia – [47:38](https://youtu.be/6efA9Du1KkQ?t=2858) 
 
 ## Resources
 
@@ -141,9 +141,9 @@ Additional resources around the covered topics and links from the slides.
 *   **D2**:  Docker Hub - [m365pnp/spfx](https://hub.docker.com/r/m365pnp/spfx) 
 *   **D2**:  Guidance - [Opening a sample using a development container](https://github.com/pnp/sp-dev-fx-webparts/wiki/Opening-a-sample-using-a-development-container) | aka.ms/spfx-devcontainer
 *   **D2**:  Documentation - [Set up your SharePoint Framework development environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment) 
-*   **D3**:  Demo - [Viva Connections – Data Binding in SPFx Adaptive Card Extensions](https://youtu.be/WkFVkFKPDMc?t=1297) – [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia 
-*   **Microsoft 365 PnP Weekly – Episode 152** (February 7th) with Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) | @bernierh | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-152-hugo-bernier/ba-p/3131722) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-152-%E2%80%93-7th-of-february-2022/)
-*   **Microsoft 365 PnP Weekly – Episode 151** (January 31st) with UK-based SharePoint developer, architect and MVP, [Paul Bullock](http://twitter.com/pkbullock) | @pkbullock | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-151-paul-bullock/ba-p/3091966) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-151-%E2%80%93-31st-of-january-2022/)
+*   **D3**:  Demo - [Viva Connections – Data Binding in SPFx Adaptive Card Extensions](https://youtu.be/WkFVkFKPDMc?t=1297) – [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia 
+*   **Microsoft 365 PnP Weekly – Episode 152** (February 7th) with Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-152-hugo-bernier/ba-p/3131722) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-152-%E2%80%93-7th-of-february-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 151** (January 31st) with UK-based SharePoint developer, architect and MVP, [Paul Bullock](https://twitter.com/pkbullock) | @pkbullock | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-151-paul-bullock/ba-p/3091966) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-151-%E2%80%93-31st-of-january-2022/)
 
 ## General Resources
 

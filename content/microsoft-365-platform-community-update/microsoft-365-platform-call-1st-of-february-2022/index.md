@@ -28,7 +28,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
     *   Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/) focused on the latest news and topics on Microsoft 365 hosted by Vesa Juvonen and Waldek Mastykarz
 *   Hear about the latest 8 Microsoft 365 Platform related stories and enjoy 3 demos delivered by Microsoft presenters on the latest capabilities of the Microsoft 365 platform.
 
-The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) _|_ [@BrianTJackett](/t5/user/viewprofilepage/user-id/4556).  Q&A takes place in chat throughout and live at end of the call.
+The host of this call was [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) _|_ [@BrianTJackett](/t5/user/viewprofilepage/user-id/4556).  Q&A takes place in chat throughout and live at end of the call.
 
 ## Microsoft 365 Platform News Flash
 
@@ -81,10 +81,10 @@ Thank you for your work. Samples are often showcased in Demos.
 
 ## Topics
 
-*   Latest updates and news on the Microsoft 365 platform – [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [5:42](https://youtu.be/Ddc0vZYAXDs?t=342)
-*   **D1**:  Access a user's calendar events in an ASP.NET Core app with Microsoft Graph – [Dan Wahlin](http://twitter.com/DanWahlin) (Microsoft) | @DanWahlin – [9:16](https://youtu.be/Ddc0vZYAXDs?t=556)
+*   Latest updates and news on the Microsoft 365 platform – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [5:42](https://youtu.be/Ddc0vZYAXDs?t=342)
+*   **D1**:  Access a user's calendar events in an ASP.NET Core app with Microsoft Graph – [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin – [9:16](https://youtu.be/Ddc0vZYAXDs?t=556)
 *   **D2**:  Latest on Microsoft Bookings API on Microsoft Graph – Altamish Ahmad (Microsoft) – [26:37](https://youtu.be/Ddc0vZYAXDs?t=1597)
-*   **D3**:  Using the MGT Agenda and Tasks Components in your solutions – [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [43:39](https://youtu.be/Ddc0vZYAXDs?t=2619)
+*   **D3**:  Using the MGT Agenda and Tasks Components in your solutions – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [43:39](https://youtu.be/Ddc0vZYAXDs?t=2619)
 
 ## Resources
 
@@ -92,7 +92,7 @@ Additional resources around the covered topics and links from the slides.
 
 *   **D1**:  Learn - [Access a user's calendar events in an ASP.NET Core app with Microsoft Graph](https://docs.microsoft.com/learn/modules/msgraph-dotnet-core-access-user-events/) | aka.ms/learn-msgraph-calendar
 *   **D1**:  Tool – [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer) | aka.ms/ge
-*   **D1**:  Related Demo - [Show a user's emails in an ASP.NET Core app with Microsoft Graph](https://youtu.be/YG16snk1fJU?t=621) – [Dan Wahlin](http://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+*   **D1**:  Related Demo - [Show a user's emails in an ASP.NET Core app with Microsoft Graph](https://youtu.be/YG16snk1fJU?t=621) – [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 *   **D2**:  Documentation - [Microsoft Bookings API overview (preview)](https://docs.microsoft.com/graph/booking-concept-overview)  
 *   **D2**:  Documentation - [Use the Microsoft Bookings API in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-1.0) 
 *   **D2**:  Microsoft.com - [Microsoft Bookings](https://www.microsoft.com/microsoft-365/business/scheduling-and-booking-app?rtc=1) 
@@ -108,14 +108,14 @@ Additional resources around the covered topics and links from the slides.
 *   **D3:**  Tool – [mgt-agenda simple](https://mgt.dev/?path=/story/components-mgt-agenda--simple) 
 *   **D3****:**  Repo - [MGT Sandbox](https://github.com/sebastienlevert/mgt-sandbox) 
 *   **D3****:**  Learn - [Develop apps with the Microsoft Graph Toolkit](https://aka.ms/mgt/learn) | [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
-*   Previous demos delivered by [Sébastien Levert](http://twitter.com/sebastienlevert) on Microsoft Graph Toolkit (MGT)
+*   Previous demos delivered by [Sébastien Levert](https://twitter.com/sebastienlevert) on Microsoft Graph Toolkit (MGT)
     *   [Discover the Microsoft Graph Toolkit](https://youtu.be/JkgFrbtwdJU?t=476) – 7 December 2021
     *   [Microsoft Graph Toolkit – Using Login Component in your solutions](https://youtu.be/HfBVaeGRDw8?t=2375) – 14 December 2021
     *   [Microsoft Graph Toolkit – Using the Person Component in your solutions](https://youtu.be/kZ_JwZpbJb4?t=1158) – 4 January 2022
     *   [Microsoft Graph Toolkit – Using the People Component in your solutions](https://youtu.be/WU_CqJC5fyQ?t=2163) – 11 January 2022
     *   [Microsoft Graph Toolkit – Using the People Picker Component in your solutions](https://youtu.be/YG16snk1fJU?t=2424) – 18 January 2022
     *   [Microsoft Graph Toolkit – Using the Teams Channel Picker Component in your solutions](https://youtu.be/F5JcbIlxSpo?t=2293) – 25 January 2022
-*   **Microsoft 365 PnP Weekly – Episode 151** (January 31st) with UK-based SharePoint developer, architect and MVP, [Paul Bullock](http://twitter.com/pkbullock) | @pkbullock | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-151-paul-bullock/ba-p/3091966) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-151-%E2%80%93-31st-of-january-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 151** (January 31st) with UK-based SharePoint developer, architect and MVP, [Paul Bullock](https://twitter.com/pkbullock) | @pkbullock | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-151-paul-bullock/ba-p/3091966) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-151-%E2%80%93-31st-of-january-2022/)
 
 ## General resources
 

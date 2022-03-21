@@ -42,14 +42,14 @@ platform.   
 -   View or audio only the latest episode of PnP Weekly -- Episode 142
     (November 8th) with New York, US / Porto, Portugal-based Program
     Manager at Microsoft - [Natalie
-    Pienkowska](http://twitter.com/NataliePienkow1) | @
+    Pienkowska](https://twitter.com/NataliePienkow1) | @
     NataliePienkow1. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-142-natalie-pienkowska/ba-p/2939019) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-142-%e2%80%93-8th-of-november-2021/)
 -   Hear about this week's top 9 Microsoft 365 Platform related stories
     and view 2 demos from Microsoft presenters about working with the
     Microsoft 365 platform.
 
 The host of this call was [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen.  Q&A takes place in chat throughout the call   
 
 **Microsoft 365 Platform News Flash**
@@ -161,16 +161,16 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [7:52](https://youtu.be/1fdex0a5css?t=472)
 -   **Demo 1:**  Introduction to Embedded Search Box -- Shubham Gatkal
     (Microsoft) -- [11:45](https://youtu.be/1fdex0a5css?t=705) 
 -   **Demo 2:**[  Microsoft Learn Module - Extend Microsoft Viva
     Connections with Adaptive Card Extensions --
     ][Waldek
-    Mastykarz](http://twitter.com/waldekm)[ (Microsoft) | @waldekm &
+    Mastykarz](https://twitter.com/waldekm)[ (Microsoft) | @waldekm &
     ][Vesa
-    Juvonen](http://twitter.com/vesajuvonen)[ (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen)[ (Microsoft) |
     @vesajuvonen ]--
     [22:35](https://youtu.be/1fdex0a5css?t=1355)
 

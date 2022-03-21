@@ -43,7 +43,7 @@ Libraries - **PnP Core SDK v1.3.0** and **PnP PowerShell v1.7.0**. 
   Microsoft Graph Toolkit (MGT)             v2.2.0 GA                                               **Bug fixes and Updates, v2.3.0 later in August**
   ----------------------------------------- ------------------------------------------------------- ---------------------------------------------------
 Three Power Platform samples were delivered, as well.  The host of this
-call was [Julie Turner](http://twitter.com/jfj1997) (Sympraxis
+call was [Julie Turner](https://twitter.com/jfj1997) (Sympraxis
 Consulting) | @jfj1997.   Q&A takes place in chat throughout the call.
 
 ## Actions
@@ -93,13 +93,13 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
 
 -   **[SharePoint Collect
     Feedback](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-collect-feedback)** -
-    [April Dunnam](http://twitter.com/aprildunnam) | @aprildunnam
+    [April Dunnam](https://twitter.com/aprildunnam) | @aprildunnam
 -   **Get Graph API Data within Power BI Reports** - [Scott
-    McKenzie](http://twitter.com/365EDUBI) | @365EDUBI 
+    McKenzie](https://twitter.com/365EDUBI) | @365EDUBI 
 -   [**Fluent UI Custom
     Theme**](https://github.com/pnp/powerapps-samples/tree/main/samples/fluentui-custom-theme) -
     [Fabio
-    Franzini](http://twitter.com/franzinifabio) | @franzinifabio
+    Franzini](https://twitter.com/franzinifabio) | @franzinifabio
 {{< image alt="PnP-Calls-TogetherMode-LowerResolution.gif" src="images/PnP-Calls-TogetherMode-LowerResolution.gif" >}}
 A packed house today.  Hope all are enjoying summer or winter, in
 Southern Hemisphere.  Nice seeing everyone.   Be well.  
@@ -140,39 +140,39 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) |
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com) |
     @paolopia - [9:49](https://youtu.be/0pWijfLYjEY?t=589)
 
 -   PnP PowerShell - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | @paolopia -
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com) | @paolopia -
     [12:06](https://youtu.be/0pWijfLYjEY?t=726)
 
 -   yo Teams updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | @paolopia -
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com) | @paolopia -
     [12:50](https://youtu.be/0pWijfLYjEY?t=770)
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft)
+    Pan](https://twitter.com/beth_panx) (Microsoft)
     | [beth-panx](https://github.com/beth-panx) - [13:35](https://youtu.be/0pWijfLYjEY?t=815)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German -
+    German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German -
     [15:42](https://youtu.be/0pWijfLYjEY?t=942)
 
 -   Microsoft Power Platform Samples - [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) |
+    Dunnam](https://twitter.com/aprildunnam) (Microsoft) |
     @aprildunnam - [17:04](https://youtu.be/0pWijfLYjEY?t=1024)
 
 -   **Demo:**  Power Platform Tips & Tricks -- [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
+    Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
     - [19:10](https://youtu.be/0pWijfLYjEY?t=1150)
 
 -   **Demo:**  List Formatting Enhanced Web Part -- [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII - [29:58](https://youtu.be/0pWijfLYjEY?t=1798)
 
 -   **Demo:**  List Formatting Magic -- [Chris
-    Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent -
+    Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent -
     [40:13](https://youtu.be/0pWijfLYjEY?t=2413)
 
 

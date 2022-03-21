@@ -12,11 +12,11 @@ type: "regular"
  
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by the Software Engineer in the Windows team behind the Microsoft
-Graph Toolkit, [Nikola Metulev](http://twitter.com/metulev) (Microsoft)
+Graph Toolkit, [Nikola Metulev](https://twitter.com/metulev) (Microsoft)
 | @metulev.   Topics discussed in this session include - why Microsoft
 is committed to working with Community and open source.  Nikola's
 evangelist roots, his many projects while on one team and key learnings
@@ -123,7 +123,7 @@ everyone for your contributions to the community!
     Mode](https://regarding365.com/custom-backgrounds-for-microsoft-teams-together-mode-2b173f697d59)
     - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc)
     | @DanielGlenn, [Darrell
-    Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
+    Webster](https://twitter.com/darrellaas) (Modern Workplace Change) |
     @darrellaas
 
 ## Additional resources

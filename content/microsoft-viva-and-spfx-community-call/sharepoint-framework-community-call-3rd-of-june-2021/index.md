@@ -46,7 +46,7 @@ previous report 2 weeks ago) 
   PnP Modern Search                       **v4.2.0, v3.20.0**                           
   --------------------------------------- -------------------------------------------- ------------------------------------------------------------------
 The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="210603-together-mode.gif" src="images/210603-together-mode.gif" >}}
 Thanks everybody for being part of the Community and helping making
@@ -114,14 +114,14 @@ a custom card using the Dashboard web part and SPFx.
 -   **[Data
     Table](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable)** -
     [Chandani
-    Prajapati](http://twitter.com/Chandani_SPD) | @Chandani_SPD
+    Prajapati](https://twitter.com/Chandani_SPD) | @Chandani_SPD
 -   **[Page
     Contributors](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-pagecontributors)** -
-    [Ari Gunawan](http://twitter.com/arigunawan3023) | @arigunawan3023
+    [Ari Gunawan](https://twitter.com/arigunawan3023) | @arigunawan3023
 -   **[OneDrive
     Finder](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-onedrive-finder)** -
     [André
-    Lage ](http://twitter.com/aaclage)| [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)\
+    Lage ](https://twitter.com/aaclage)| [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)\
     \
 
 Thank you for your great work.  Samples are often showcased in Demos. 
@@ -129,19 +129,19 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 ## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [4:38](https://youtu.be/65hRvHN5Iqk?t=278)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [6:43](https://youtu.be/65hRvHN5Iqk?t=403)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [8:40](https://youtu.be/65hRvHN5Iqk?t=520)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [9:26](https://youtu.be/65hRvHN5Iqk?t=566)
 -   PnP Modern Search - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [10:45](https://youtu.be/65hRvHN5Iqk?t=645)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
@@ -151,8 +151,8 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   **Demo:**  Get started developing mobile experiences for Microsoft
     Viva Connections, a preview of SharePoint Framework 1.13 - [Luca
-    Bandinelli](http://twitter.com/BandinelliLuca) (Microsoft) |
-    @BandinelliLuca, [Pat Miller](http://twitter.com/PatMill_MSFT)
+    Bandinelli](https://twitter.com/BandinelliLuca) (Microsoft) |
+    @BandinelliLuca, [Pat Miller](https://twitter.com/PatMill_MSFT)
     (Microsoft) | @PatMill_MSFT and John Nguyen
     (Microsoft) [-- ][16:00](https://youtu.be/65hRvHN5Iqk?t=960)
 
@@ -176,9 +176,9 @@ slides.
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   Designer -- [Adaptive Cards](https://adaptivecards.io/designer/) 
 -   PnP Weekly -- Episode 129 [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen, [Waldek
-    Mastykarz](http://twitter.com/waldekm) (Microsoft) |
+    Mastykarz](https://twitter.com/waldekm) (Microsoft) |
     @waldekm discuss announcements from Microsoft Build 2021 |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-129/ba-p/2401546)
     |

@@ -42,7 +42,7 @@ Great work!    
   PnP Modern Search                       v3.19 and v4.1.0      April and March 20th
   --------------------------------------- --------------------- -----------------------------------------
 The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="210422-spfx.gif" src="images/210422-spfx.gif" >}}
 
@@ -117,7 +117,7 @@ Truly unique like this Community!
 -   [News
     Ticker](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-send-to-teams)
     [-](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-send-to-teams)
-    [Ari Gunawan](http://twitter.com/arigunawan)
+    [Ari Gunawan](https://twitter.com/arigunawan)
     [| @arigunawan](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-send-to-teams)
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
@@ -125,39 +125,39 @@ Truly unique like this Community!
 
 -   [Data Table](https://github.com/pnp/sp-dev-fx-webparts/pull/1818) -
     [Chandani
-    Prajapati](http://twitter.com/Chandani_SPD) | @Chandani_SPD
+    Prajapati](https://twitter.com/Chandani_SPD) | @Chandani_SPD
 -   [Staff
     Directory](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-staffdirectory) -
     Tristian O'Brien
 -   [OneDrive
     Finder](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder) -
     [André
-    Lage](http://twitter.com/aaclage) | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
+    Lage](https://twitter.com/aaclage) | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
 -   [Graph MGT
     Client](https://github.com/pnp/sp-dev-fx-webparts/blob/master/samples/react-graph-mgt-client) -
     [Sébastien
-    Levert](http://twitter.com/sebastienlevert) | [sebastienlevert](https://github.com/sebastienlevert)
+    Levert](https://twitter.com/sebastienlevert) | [sebastienlevert](https://github.com/sebastienlevert)
 -   [Teams Membership
     Updater](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-teams-membership-updater) -
-    [Nick Brown](http://twitter.com/techienickb) | @techienickb
+    [Nick Brown](https://twitter.com/techienickb) | @techienickb
 Thank you for your great work.  Samples are often showcased in Demos. 
   
 ## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [6:25](https://youtu.be/08UBXLU-g04?t=385)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [8:07](https://youtu.be/08UBXLU-g04?t=487)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [10:20](https://youtu.be/08UBXLU-g04?t=620)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [11:34](https://youtu.be/08UBXLU-g04?t=694)
 -   PnP Modern Search - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [12:49](https://youtu.be/08UBXLU-g04?t=769)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
@@ -167,15 +167,15 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   Running the CLI for Microsoft 365 in Azure Container Instances
     orchestrated by Logic Apps -- [Albert-Jan
-    Schot](http://twitter.com/appieschot) (Portiva) | @appieschot |
+    Schot](https://twitter.com/appieschot) (Portiva) | @appieschot |
     [deck](https://1drv.ms/p/s!AlposW7ozA_90kWX8lhXVWx2QXGF?e=VogeNR) [--][ [18:04](https://youtu.be/08UBXLU-g04?t=1084)]
 
 -   Advanced Page Properties web part solution -- [Mike
-    Homol](http://twitter.com/homol) (ThreeWill) | @homol |
+    Homol](https://twitter.com/homol) (ThreeWill) | @homol |
     [deck](https://1drv.ms/p/s!AlposW7ozA_90kQb2NjM2sQAiEOu?e=q7eLpV) [--][ [32:00](https://youtu.be/08UBXLU-g04?t=1920)]
 
 -   SharePoint Framework 1.12.1 new features -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen
 
     [

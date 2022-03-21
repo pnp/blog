@@ -20,11 +20,11 @@ type: "regular"
 
 This month's community call features an Outlook: Ignite recap from
 [Juan
-Balmori](http://twitter.com/juaneloBalmori) (Microsoft) highlighting the
+Balmori](https://twitter.com/juaneloBalmori) (Microsoft) highlighting the
 release of Mailbox 1.11 GA and demos for Event-based add-ins and Smart
 Alerts for Outlook. Then appreciate an Outlook sample: Use event-based
 activation to encrypt attachments delivered by [Eric
-Legault](http://twitter.com/elegault) (Eric Legault Consulting), with 3
+Legault](https://twitter.com/elegault) (Eric Legault Consulting), with 3
 scenarios demonstrating automated task execution, messages displayed in
 information bar and related code step-through. This month's Community
 spotlight recognizes Michał Królewicz, Maarten van Stam, and Eric
@@ -33,29 +33,29 @@ complete the [Office add-in developing experience
 survey](https://forms.office.com/r/wmzCgccbPa) and register for the [PnP
 Recognition Program](https://aka.ms/m365pnp-recognition). Q&A both in
 chat throughout call and at end of call. The call was hosted by [David
-Chesnut](http://twitter.com/davidchesnut) (Microsoft) Recorded December
+Chesnut](https://twitter.com/davidchesnut) (Microsoft) Recorded December
 8, 2021.
 
 ## Presenters
 
--   [David Chesnut](http://twitter.com/davidchesnut), Senior Dev Writer
+-   [David Chesnut](https://twitter.com/davidchesnut), Senior Dev Writer
     (Microsoft) | @davidchesnut
 
--   [Juan Balmori Labra](http://twitter.com/juaneloBalmori)[, Principal
+-   [Juan Balmori Labra](https://twitter.com/juaneloBalmori)[, Principal
     Program Manager (Microsoft) |
     @juaneloBalmori]
 
--   [Eric Legault](http://twitter.com/elegault), Principal (Eric Legault
+-   [Eric Legault](https://twitter.com/elegault), Principal (Eric Legault
     Consulting) | @elegault
 
 
 ## Agenda 
 
 -   **D1:  Outlook: Ignite recap **-- [Juan
-    Balmori](http://twitter.com/juaneloBalmori) (Microsoft) |
+    Balmori](https://twitter.com/juaneloBalmori) (Microsoft) |
     @juaneloBalmori -- [1:10](https://youtu.be/Yx2oCeEtbQQ?t=70)
 -   **D2:  Outlook sample: Use event-based activation to encrypt
-    attachments** -- [Eric Legault](http://twitter.com/elegault), (Eric
+    attachments** -- [Eric Legault](https://twitter.com/elegault), (Eric
     Legault Consulting) |
     @elegault -- [22:41](https://youtu.be/Yx2oCeEtbQQ?t=1361)
 -   **Community spotlight:** Michał Królewicz, Maarten van Stam, and

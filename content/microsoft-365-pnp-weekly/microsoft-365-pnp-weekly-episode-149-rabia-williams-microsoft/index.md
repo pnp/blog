@@ -14,7 +14,7 @@ videos:
 ---
 
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph, [Rabia Williams](http://twitter.com/williamsrabia) (Microsoft) | @williamsrabia. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph, [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia. 
 
 Topics discussed in this session:
 
@@ -111,7 +111,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 -   [PnP PowerShell/CSOM Now Works With SharePoint Sites.Selected
     Permission using Azure AD
     App](https://www.leonarmston.com/2022/01/pnp-powershell-csom-now-works-with-sharepoint-sites-selected-permission-using-azure-ad-app/) -
-    [Leon Armston](http://twitter.com/LeonArmston) (Intelogy)
+    [Leon Armston](https://twitter.com/LeonArmston) (Intelogy)
     | [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
 -   [Working with Apps for Microsoft Teams
     meetings](https://www.vrdmn.com/2022/01/working-with-apps-for-microsoft-teams.html) -

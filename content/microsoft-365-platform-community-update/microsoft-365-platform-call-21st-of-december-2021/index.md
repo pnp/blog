@@ -42,7 +42,7 @@ platform.   
 -   Q&A / AMA / Discussion / Ad-hoc demos / and more\... - Discussion
     and Resources referenced below 
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) | @vesajuvonen.  Discussion takes place throughout this
 call.   
 
@@ -164,7 +164,7 @@ forward to continuing sharing and caring with community in 2022.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [10:01](https://youtu.be/o57wqT7i7tY?t=601)
 -   Open discussion on any topics around Microsoft 365 --
     [14:12](https://youtu.be/o57wqT7i7tY?t=852)

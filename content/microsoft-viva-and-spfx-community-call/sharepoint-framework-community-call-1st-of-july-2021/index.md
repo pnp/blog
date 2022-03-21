@@ -49,7 +49,7 @@ previous report 2 weeks ago) 
   PnP Modern Search                       v4.2.3 & v3.20.0                                 **July versions in progress**
 
 The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="PnP-Calls-TogetherMode-July1-LowerRes.gif" src="images/PnP-Calls-TogetherMode-July1-LowerRes.gif" >}}
 
@@ -130,31 +130,31 @@ making this a great community.  
 -   **[Follow
     Documents](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-follow-document)
     -** [André
-    Lage](http://twitter.com/aaclage) | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
+    Lage](https://twitter.com/aaclage) | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
 -   **[Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)
     -** Abderahman Moujahid
 -   **[Quick
     Poll](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-quick-poll)
-    -** [Dipen Shah](http://twitter.com/Dips_365) | @Dips_365
+    -** [Dipen Shah](https://twitter.com/Dips_365) | @Dips_365
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
 ## Agenda items
 
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [9:42](https://youtu.be/yGlkkdOp0U4?t=582)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [11:13](https://youtu.be/yGlkkdOp0U4?t=673)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [12:09](https://youtu.be/yGlkkdOp0U4?t=729)
 -   PnP SPFx Community Yeoman Generator - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [13:32](https://youtu.be/yGlkkdOp0U4?t=812)
 -   PnP Modern Search - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [14:35](https://youtu.be/yGlkkdOp0U4?t=875)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
@@ -163,15 +163,15 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 ## Demos
 
 -   **Demo:**  Bringing your custom apps to Viva Connect mobile
-    experience -- [Vardhaman Deshpande](http://twitter.com/vrdmn) (Valo
+    experience -- [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo
     Intranet) | @vrdmn -- [19:14](https://youtu.be/yGlkkdOp0U4?t=1154)
 
 -   **Demo:**  Copy PnP Search results web part settings -- [Anoop
-    Tatti](http://twitter.com/anooptells) (Content and Code) |
+    Tatti](https://twitter.com/anooptells) (Content and Code) |
     @anooptells -- [31:24](https://youtu.be/yGlkkdOp0U4?t=1884)
 
 -   **Demo:**  Follow Documents in Modern Workspace with SPFx -- [André
-    Lage](http://twitter.com/aaclage) (Datalynx AG) |
+    Lage](https://twitter.com/aaclage) (Datalynx AG) |
     [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803) --
     [44:26](https://youtu.be/yGlkkdOp0U4?t=2666)
 
@@ -208,12 +208,12 @@ slides.
     <https://youtu.be/-p09L3RRNQ8>
 
 -   PnP Weekly -- Episode 132 [Vesa
-    Juvonen ](http://twitter.com/vesajuvonen)(Microsoft) |
+    Juvonen ](https://twitter.com/vesajuvonen)(Microsoft) |
     @vesajuvonen, [Waldek
-    Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm were
+    Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm were
     joined by Seattle-based Program Manager from OneDrive and SharePoint
     (ODSP) engineering - [Nicole
-    Woon](http://twitter.com/NovelNicole) (Microsoft) | @NovelNicole
+    Woon](https://twitter.com/NovelNicole) (Microsoft) | @NovelNicole
     |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-132-nicole-woon-microsoft/ba-p/2466409?lightbox-message-images-2466409=290389i49D802D14B16E567)
     |

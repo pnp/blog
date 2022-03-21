@@ -27,7 +27,7 @@ Microsoft Teams Toolkit (Controls) -- "[Designing your Microsoft Teams
 app](https://docs.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-overview)"
 with layout guidance and reusable assets.   Three great demos delivered
 during this session.  The host of this call was [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
 Q&A takes place in chat throughout the call.
 
 ## Actions
@@ -122,11 +122,11 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   News and updates - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen - [3:35](https://youtu.be/adVfHsp8PfM?t=215)
 
 -   **Demo:**  Introduction to Microsoft Teams Developer Portal --
-    [Karthig Balendran](http://twitter.com/KarthigBalendr1) (Microsoft)
+    [Karthig Balendran](https://twitter.com/KarthigBalendr1) (Microsoft)
     | @KarthigBalendr1 - [10:20](https://youtu.be/adVfHsp8PfM?t=620)
 
     **Demo:**  Elevate user experiences with Universal Actions on Teams
@@ -134,7 +134,7 @@ Topics covered in this call
     [23:30](https://youtu.be/adVfHsp8PfM?t=1410)
 
     **Demo:**  Getting started on building Microsoft Teams meeting apps
-    -- [Rick van Rousselt](http://twitter.com/RickVanRousselt)
+    -- [Rick van Rousselt](https://twitter.com/RickVanRousselt)
     (Advantive) |  @RickVanRousselt -
     [36:54](https://youtu.be/adVfHsp8PfM?t=2214)
 
@@ -162,7 +162,7 @@ slides.
 -   Blog - [Rick's blog](https://www.rickvanrousselt.com/) 
 
 -   PnP Weekly -- Episode 127 with guest MVP [Rick van
-    Rousselt](http://twitter.com/RickVanRousselt) (Advantive) |
+    Rousselt](https://twitter.com/RickVanRousselt) (Advantive) |
     @RickVanRousselt |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-127-rick-van-rousselt/ba-p/2361251)
     |

@@ -13,11 +13,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Boston-based MVP and founder of Sympraxis Consulting - [Marc D
-Anderson](http://twitter.com/sympmarc) | @sympmarc.  
+Anderson](https://twitter.com/sympmarc) | @sympmarc.  
 
  
 

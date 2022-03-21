@@ -681,7 +681,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 *   Ashima Mathur (Microsoft)
 *   Ayca Bas (Microsoft)- [@aycabs](https://twitter.com/aycabs)
-*   [Bert Jansen](http://twitter.com/O365Bert) (Microsoft) | @O365Bert
+*   [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
 *   Beth Pan - [@beth\_panx](https://twitter.com/beth_panx)
 *   Beverly Kim - [bvandaal](https://github.com/bvandaal)
 *   [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German

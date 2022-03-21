@@ -46,14 +46,14 @@ platform.   
     Paul Schaeflein (Addin365).
 -   **PnP Weekly -- Episode 147** (December 13th) with Munich,
     Germany-based consultant and MVP, [Markus
-    Möller](http://twitter.com/Moeller2_0) (Avanade) |
+    Möller](https://twitter.com/Moeller2_0) (Avanade) |
     @Moeller2_0 | [video ](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/ba-p/3037250)| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-147-%E2%80%93-13th-of-december-2021/)
 -   Hear about the top 4 Microsoft 365 Platform related stories and view
     not 2, but 3 demos this week from Microsoft presenters about the
     latest capabilities of the Microsoft 365 platform.
 
 The host of this call was [Brian T.
-Jackett](http://twitter.com/BrianTJackett) (Microsoft)
+Jackett](https://twitter.com/BrianTJackett) (Microsoft)
 | [@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A takes
 place in chat throughout and live at end of the call.   
 
@@ -144,16 +144,16 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
-    Jackett](http://twitter.com/BrianTJackett) (Microsoft) *|*
+    Jackett](https://twitter.com/BrianTJackett) (Microsoft) *|*
     @BrianTJackett -- [6:21](https://youtu.be/HfBVaeGRDw8?t=381)
 -   **D1:**  Script buttons for Office Scripts -- [Nancy
-    Wang](http://twitter.com/nancyatMSFT) (Microsoft) | @nancyatMSFT
+    Wang](https://twitter.com/nancyatMSFT) (Microsoft) | @nancyatMSFT
     -- [9:47](https://youtu.be/HfBVaeGRDw8?t=587)
 -   **D2:**  Planning to build experiences for the US Government Cloud -
     what are the differences -- Jay Hangan (Microsoft) --
     [29:01](https://youtu.be/HfBVaeGRDw8?t=1741)
 -   **D3:**  Microsoft Graph Toolkit -- Using Login Component in your
-    solutions -- [Sébastien Levert](http://twitter.com/sebastienlevert)
+    solutions -- [Sébastien Levert](https://twitter.com/sebastienlevert)
     (Microsoft) | @sebastienlevert --
     [39:35](https://youtu.be/HfBVaeGRDw8?t=2375)
 
@@ -203,7 +203,7 @@ slides.
 
 -   **D3:** First session - 7 December, 2021 - [Discover the Microsoft
     Graph Toolkit](https://youtu.be/JkgFrbtwdJU?t=476) -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    Levert](https://twitter.com/sebastienlevert) (Microsoft) |
     @sebastienlevert
 
 ## General resources

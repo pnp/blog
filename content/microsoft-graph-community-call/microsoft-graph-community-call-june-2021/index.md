@@ -17,11 +17,11 @@ Code Extensions), and Microsoft Graph Data Connect (extracting
 information at scale from Microsoft Graph).  Q&A throughout call in
 chat.  Microsoft Graph session recordings from Microsoft Build
 Conference are now available on demand.  The call was hosted by [Brian
-T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) |
+T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) |
 [@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Microsoft
-Presenters were [Leif Brenne](http://twitter.com/secondleif), Mei Tan
-and [Nik Charlebois](http://twitter.com/NikCharlebois). Guest presenter
-[Elio Struyf](http://twitter.com/eliostruyf) (Squarl).   This session
+Presenters were [Leif Brenne](https://twitter.com/secondleif), Mei Tan
+and [Nik Charlebois](https://twitter.com/NikCharlebois). Guest presenter
+[Elio Struyf](https://twitter.com/eliostruyf) (Squarl).   This session
 was recorded on June 1, 2021.
 
 ## Topics
@@ -84,14 +84,14 @@ From demos:
 
 ## Agenda
 
--   Assignments API  - [Leif Brenne](http://twitter.com/secondleif)
+-   Assignments API  - [Leif Brenne](https://twitter.com/secondleif)
     (Microsoft) | @secondleif and Mei Tan (Microsoft) --
     [1:10](https://youtu.be/JePYam-hyUU?t=70)
 -   Dev Tips and Tricks with Microsoft Graph - [Elio
-    Struyf](http://twitter.com/eliostruyf) (Squarl) | @eliostruyf --
+    Struyf](https://twitter.com/eliostruyf) (Squarl) | @eliostruyf --
     [22:44](https://youtu.be/JePYam-hyUU?t=1364)
 -   Microsoft Graph Data Connect - [Nik
-    Charlebois](http://twitter.com/NikCharlebois) (Microsoft) |
+    Charlebois](https://twitter.com/NikCharlebois) (Microsoft) |
     @NikCharlebois -- [33:20](https://youtu.be/JePYam-hyUU?t=2000)
 
  

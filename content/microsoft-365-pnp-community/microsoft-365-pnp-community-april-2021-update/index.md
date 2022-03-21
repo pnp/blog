@@ -379,16 +379,16 @@ PnP Weekly video blog / podcast shows:
     Charlebois](https://twitter.com/NikCharlebois) (Microsoft)
 -   30th of March - [Microsoft 365 PnP Weekly -- Episode
     120](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-120/ba-p/2242545) - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys)
+    Pialorsi](https://twitter.com/paolopia) (PiaSys)
 -   23rd of March - [Microsoft 365 PnP Weekly -- Episode
     119](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-119/ba-p/2228107) - [Chris
-    O'Brien](http://twitter.com/ChrisO_Brien) (Content+Cloud)
+    O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
 -   16th of March - [Microsoft 365 PnP Weekly -- Episode
     118](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-118/ba-p/2211589) -  [Veronique
-    Lengelle](http://twitter.com/veronicageek) ([CPS](https://www.cps.co.uk/))
+    Lengelle](https://twitter.com/veronicageek) ([CPS](https://www.cps.co.uk/))
 -   9th of March - [Microsoft 365 PnP Weekly -- Episode
     117](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-117/ba-p/2193707) - [Bert
-    Jansen](http://twitter.com/o365bert) (Microsoft)
+    Jansen](https://twitter.com/o365bert) (Microsoft)
 We highly recommend also subscribing on the [Microsoft 365 Developer
 Podcast show](https://www.m365devpodcast.com/), which is a great show
 covering also latest development in the Microsoft 365 platform from

@@ -48,7 +48,7 @@ previous report 2 weeks ago) 
 There were 3 **PnP SPFx web part samples** delivered as well.  Thank you
 for contributing!  There was a formal demo and an informal sneak peek
 demo during this call.    The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="210826-together-mode.gif" src="images/210826-together-mode.gif" >}}
 Thank you everybody for being part of this call, the community, a tweet,
@@ -118,32 +118,32 @@ a blog post, and the solution to your customer's needs.  
 
 -   **[My
     OneDrive](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-myonedrive)** -
-    [Siddharth Vaghasia](http://twitter.com/siddh_me) | @siddh_me
+    [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh_me
 -   **[Teams Membership
     Updater](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-membership-updater)** -
-    [Nick Brown](http://twitter.com/techienickb)  | @techienickb
+    [Nick Brown](https://twitter.com/techienickb)  | @techienickb
 -   **[My
     Events](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-my-events)** -
-    [Chandani Prajapati](http://twitter.com/Chanda) | @Chanda
+    [Chandani Prajapati](https://twitter.com/Chanda) | @Chanda
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
 ## Agenda items
 
 -   SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
     @vesajuvonen - [6:53](https://youtu.be/RvDsmZJ95xM?t=413)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting)
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
     @jfj1997 -- [8:59](https://youtu.be/RvDsmZJ95xM?t=539)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
     @mediocrebowler -- [10:10](https://youtu.be/RvDsmZJ95xM?t=610)
 -   PnP SPFx Controls - [Alex
-    Terentiev](http://twitter.com/alexaterentiev) (Sharepointalist) |
+    Terentiev](https://twitter.com/alexaterentiev) (Sharepointalist) |
     @alexaterentiev -- [11:14](https://youtu.be/RvDsmZJ95xM?t=674)
 -   PnP Modern Search - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
     @mediocrebowler -- [12:21](https://youtu.be/RvDsmZJ95xM?t=741) 
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
@@ -152,11 +152,11 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   **Demo:**  Getting started on building Microsoft Viva Connection
     adaptive card components using SharePoint Framework -- [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [16:57](https://youtu.be/RvDsmZJ95xM?t=1017)
 
 -   **Demo:**  Sneak Peek - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [53:51](https://youtu.be/RvDsmZJ95xM?t=3231)
 
 

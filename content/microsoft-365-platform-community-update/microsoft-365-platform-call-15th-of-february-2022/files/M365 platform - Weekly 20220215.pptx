@@ -1665,7 +1665,7 @@ LITHIUM.RenderedScripts = [
 <LI>The great people, supportive organizations and solid work done in this community over the last month is recognized today!&nbsp; Available now – the <A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-community-pnp-february-2022-update/ba-p/3124847" target="_blank">Microsoft 365 Platform Community (PnP) – February 2022 update</A>.&nbsp;</LI>
 <LI>New series launched – <A href="https://aka.ms/LearnFromTheCommunity/ThisWeek" target="_blank" rel="noopener noreferrer">Learn from the community</A>.&nbsp; This week’s article:&nbsp; <A href="https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-chatbot-for-microsoft-teams-personal-and-group-chats/" target="_blank" rel="noopener noreferrer">Learn from the community: Chatbot for Microsoft Teams personal and group chats</A></LI>
 </UL>
-<P>The host of this call was<SPAN>&nbsp;</SPAN><A href="http://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A><SPAN>&nbsp;</SPAN>(Microsoft) | @vesajuvonen.&nbsp;&nbsp;Q&amp;A takes place in chat throughout and live at end of the call. &nbsp;&nbsp;</P>
+<P>The host of this call was<SPAN>&nbsp;</SPAN><A href="https://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A><SPAN>&nbsp;</SPAN>(Microsoft) | @vesajuvonen.&nbsp;&nbsp;Q&amp;A takes place in chat throughout and live at end of the call. &nbsp;&nbsp;</P>
 <P>&nbsp;</P>
 <P><STRONG>Microsoft 365 Platform News Flash</STRONG></P>
 <UL>
@@ -1729,11 +1729,11 @@ LITHIUM.RenderedScripts = [
 <P>&nbsp;</P>
 <P><STRONG>Topics</STRONG><SPAN>&nbsp;</SPAN>covered in this call</P>
 <UL>
-<LI>Latest updates and news on the Microsoft 365 platform – <A href="http://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A> (Microsoft) | @vesajuvonen – <A href="https://youtu.be/9w2L3-7sCDI?t=436" target="_blank" rel="noopener nofollow noreferrer">7:16</A></LI>
+<LI>Latest updates and news on the Microsoft 365 platform – <A href="https://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A> (Microsoft) | @vesajuvonen – <A href="https://youtu.be/9w2L3-7sCDI?t=436" target="_blank" rel="noopener nofollow noreferrer">7:16</A></LI>
 <LI>Monthly contributors on the Microsoft 365 platform community efforts – <A href="https://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A> (Microsoft) | @vesajuvonen – <A href="https://youtu.be/9w2L3-7sCDI?t=578" target="_blank" rel="noopener nofollow noreferrer">9:38</A></LI>
 <LI><STRONG>D1</STRONG>:&nbsp; Introduction to Information Protection Policy APIs – Tom Moser ​(Microsoft) – <A href="https://youtu.be/9w2L3-7sCDI?t=770" target="_blank" rel="noopener nofollow noreferrer">12:50</A></LI>
 <LI><STRONG>D2</STRONG>:&nbsp; Latest on Cloud Hybrid Search (SSA) &amp; Graph connectors​ for indexing content from on-premises – Harshit Kumar (Microsoft) – <A href="https://youtu.be/9w2L3-7sCDI?t=1705" target="_blank" rel="noopener nofollow noreferrer">28:25</A></LI>
-<LI><STRONG>D3</STRONG>:&nbsp; Using the Microsoft Graph Toolkit Get Component in your solutions – <A href="http://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A> (Microsoft) | @sebastienlevert – <A href="https://youtu.be/9w2L3-7sCDI?t=2432" target="_blank" rel="noopener nofollow noreferrer">40:32</A></LI>
+<LI><STRONG>D3</STRONG>:&nbsp; Using the Microsoft Graph Toolkit Get Component in your solutions – <A href="https://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A> (Microsoft) | @sebastienlevert – <A href="https://youtu.be/9w2L3-7sCDI?t=2432" target="_blank" rel="noopener nofollow noreferrer">40:32</A></LI>
 </UL>
 <P>&nbsp;</P>
 <P><STRONG>Resources:</STRONG></P>
@@ -1783,7 +1783,7 @@ LITHIUM.RenderedScripts = [
 <P><STRONG style="font-family: inherit;">D3:&nbsp; </STRONG><SPAN style="font-family: inherit;">Learn - </SPAN><A style="font-family: inherit; background-color: #ffffff;" href="https://aka.ms/mgt/learn" target="_blank" rel="noopener noreferrer">Develop apps with the Microsoft Graph Toolkit</A><SPAN style="font-family: inherit;"> | </SPAN><A style="font-family: inherit; background-color: #ffffff;" href="https://aka.ms/mgt/learn" target="_blank" rel="noopener noreferrer">aka.ms/mgt/learn</A></P>
 </LI>
 </UL>
-<P><SPAN>Previous demos in </SPAN><A href="http://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A><SPAN>’s</SPAN> (Microsoft) | <a href="/t5/user/viewprofilepage/user-id/926766">@sebastienlevert</a>,<SPAN> Microsoft Graph Toolkit (MGT) series</SPAN></P>
+<P><SPAN>Previous demos in </SPAN><A href="https://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A><SPAN>’s</SPAN> (Microsoft) | <a href="/t5/user/viewprofilepage/user-id/926766">@sebastienlevert</a>,<SPAN> Microsoft Graph Toolkit (MGT) series</SPAN></P>
 <UL>
 <LI><A href="https://youtu.be/JkgFrbtwdJU?t=476" target="_blank" rel="noopener nofollow noreferrer">Discover the Microsoft Graph Toolkit</A> –&nbsp;7 December 2021&nbsp;</LI>
 <LI><A href="https://youtu.be/HfBVaeGRDw8?t=2375" target="_blank" rel="noopener nofollow noreferrer">Microsoft Graph Toolkit – Using Login Component in your solutions</A> –&nbsp;14 December 2021&nbsp;</LI>
@@ -3023,7 +3023,7 @@ LITHIUM.RenderedScripts = [
             </a>
         </li>
         <li class="social-share-option">
-            <a class="social-share-link social-share-twitter" href="http://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Microsoft 365 Platform Call – 15th of February, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-15th-of-february-2022/ba-p/3155634?attachment-id=49887" target="_blank" title="Share to Twitter">
+            <a class="social-share-link social-share-twitter" href="https://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Microsoft 365 Platform Call – 15th of February, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-15th-of-february-2022/ba-p/3155634?attachment-id=49887" target="_blank" title="Share to Twitter">
                 <span class="social-share-title">Share to Twitter</span>
             </a>
         </li>

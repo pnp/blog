@@ -94,7 +94,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   **[Configure Teams applications with Azure App
     Configuration](https://aka.ms/msgext-graph-action-config) -**
-    [Markus Moeller](http://twitter.com/Moeller2_0) | @Moeller2_0 
+    [Markus Moeller](https://twitter.com/Moeller2_0) | @Moeller2_0 
 {{< image alt="210610-together-mode.gif" src="images/210610-together-mode.gif" >}}
 Thank you for joining for today's PnP Community call.   The auditorium
 was packed.   
@@ -139,31 +139,31 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert
+    Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert
     - [10:31](https://youtu.be/qOgH82b5Jw4?t=631)
 
 -   PnP PowerShell updates -[ Erwin van
-    Hunen](http://twitter.com/erwinvanhunen) (Valo Intranet)
+    Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet)
     | @erwinvanhunen - [12:59](https://youtu.be/qOgH82b5Jw4?t=779)
 
--   yo Teams updates - [Wictor Wilén](http://twitter.com/wictor)
+-   yo Teams updates - [Wictor Wilén](https://twitter.com/wictor)
     (Avanade) | @wictor - [14:23](https://youtu.be/qOgH82b5Jw4?t=863)
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft)
+    Pan](https://twitter.com/beth_panx) (Microsoft)
     | [beth-panx](https://github.com/beth-panx) - [16:42](https://youtu.be/qOgH82b5Jw4?t=1002)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German -
+    German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German -
     [18:22](https://youtu.be/qOgH82b5Jw4?t=1102)
 
 -   **Demo: ** Remote Event Receiver Manager solution in SPFx for
-    managing list events -- [Dan Toft](http://twitter.com/tanddant)
+    managing list events -- [Dan Toft](https://twitter.com/tanddant)
     (Evobis ApS) | @tanddant -
     [20:22](https://youtu.be/qOgH82b5Jw4?t=1222)
 
 -   **Demo: ** Preview on list formatting demo site template -- [Chris
-    Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent -
+    Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent -
     [31:32](https://youtu.be/qOgH82b5Jw4?t=1892)
 
 -   **Demo: ** Getting started on using Time Clock Microsoft Graph APIs
@@ -200,7 +200,7 @@ slides.
 
 -   PnP Weekly -- Episode 130 with the Software Engineer behind the
     Microsoft Graph Toolkit, [Nikola
-    Metulev](http://twitter.com/metulev) (Microsoft) | @metulev. |
+    Metulev](https://twitter.com/metulev) (Microsoft) | @metulev. |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-130/ba-p/2422722)
     |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-130-7th-of-june-2021/)

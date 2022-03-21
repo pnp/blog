@@ -13,11 +13,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by UK-based SharePoint developer and MVP at Storm Technology -
-[Joel Rodrigues](http://twitter.com/JoelFMRodrigues) |
+[Joel Rodrigues](https://twitter.com/JoelFMRodrigues) |
 @JoelFMRodrigues.
 
  

@@ -52,7 +52,7 @@ platform.   
     2 demos from Microsoft presenters about working with the Microsoft
     365 platform.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout the
 call.   
 
@@ -148,15 +148,15 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [7:24](https://youtu.be/dpMr8Y2buDw?t=444)
 -   **Demo 1:**  Introduction to SharePoint on-prem Microsoft Graph
     connector - Parag Jain (Microsoft) --
     [13:00](https://youtu.be/dpMr8Y2buDw?t=780)
 -   **Demo 2:**  Microsoft Learn Module - Extend Microsoft Viva
     Connections with Application Customizers - [Waldek
-    Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm &
-    [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm &
+    [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [21:07](https://youtu.be/dpMr8Y2buDw?t=1267)
 
 

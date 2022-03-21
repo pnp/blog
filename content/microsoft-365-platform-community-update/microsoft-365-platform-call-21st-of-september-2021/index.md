@@ -38,7 +38,7 @@ Podcast](https://m365devpodcast.com) focused exclusively on Microsoft
 (Addin365).   [Registration for Microsoft
 Ignite](https://ignite.microsoft.com/) (Digital event) -- November 2-4
 is now open.  The host of this call was [Brian T.
-Jackett](http://twitter.com/BrianTJackett) (Microsoft)
+Jackett](https://twitter.com/BrianTJackett) (Microsoft)
 *| *[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).   Q&A
 takes place in chat throughout the call.
 
@@ -133,7 +133,7 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
-    Jackett](http://twitter.com/BrianTJackett) (Microsoft)
+    Jackett](https://twitter.com/BrianTJackett) (Microsoft)
     *| *[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556) -- [5:40](https://youtu.be/GF0hfnYCy8M?t=340)
 -   The M365 Ecosystem Security - ISV and Customer Surveys -- Gladys
     Kenfack (Microsoft) -- [8:53](https://youtu.be/GF0hfnYCy8M?t=533)
@@ -141,7 +141,7 @@ Topics covered in this call
     (Microsoft) -- [16:55](https://youtu.be/GF0hfnYCy8M?t=1015)
 -   **D2:**  Preview on new templates for Microsoft Teams and SharePoint
     in SharePoint Framework -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     [@vesajuvonen](https://twitter.com/vesajuvonen%20) --
     [16:55](https://youtu.be/GF0hfnYCy8M?t=1874)
 
@@ -182,16 +182,16 @@ slides.
 
 -   **PnP Weekly -- Episode 134** (September 13th) with Boston-based MVP
     and founder of Sympraxis Consulting - [Marc D
-    Anderson](http://twitter.com/sympmarc) | @sympmarc
+    Anderson](https://twitter.com/sympmarc) | @sympmarc
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-134-marc-d-anderson-sympraxis/ba-p/2746312) |  [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-134-%e2%80%93-13th-of-september-2021/)
 
 -   [Microsoft 365 Developer
     Podcast](https://m365devpodcast.com/) focused  exclusively on
     Microsoft 365 dev topics -- hosted by [Jeremy
-    Thake](http://twitter.com/jthake) (Microsoft) |
+    Thake](https://twitter.com/jthake) (Microsoft) |
 
     @jthake and [Paul
-    Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
+    Schaeflein](https://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
 ## General resources

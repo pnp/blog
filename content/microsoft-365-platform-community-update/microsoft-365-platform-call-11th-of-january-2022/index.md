@@ -50,7 +50,7 @@ platform.   
     capabilities of the Microsoft 365 platform.
 
 The host of this call was [Brian T.
-Jackett](http://twitter.com/BrianTJackett) (Microsoft)
+Jackett](https://twitter.com/BrianTJackett) (Microsoft)
 *| *[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A
 takes place in chat throughout and live at end of the call.   
 
@@ -143,7 +143,7 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
-    Jackett](http://twitter.com/BrianTJackett) (Microsoft)
+    Jackett](https://twitter.com/BrianTJackett) (Microsoft)
     *| *@BrianTJackett -- [5:21](https://youtu.be/WU_CqJC5fyQ?t=321)
 -   **D1**:  Introduction to Microsoft Graph connectors SDK -- Rajdeep
     Chandra (Microsoft) -- [7:31](https://youtu.be/WU_CqJC5fyQ?t=451)
@@ -152,7 +152,7 @@ Topics covered in this call
     [19:38](https://youtu.be/WU_CqJC5fyQ?t=1178)
 -   **D3**:  Microsoft Graph Toolkit -- Using the People Component in
     your solutions -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    Levert](https://twitter.com/sebastienlevert) (Microsoft) |
     @sebastienlevert -- [36:03](https://youtu.be/WU_CqJC5fyQ?t=2163)
 
 
@@ -202,7 +202,7 @@ slides.
      
 
 -   Previous demos delivered by [Sébastien
-    Levert](http://twitter.com/sebastienlevert) on Microsoft Graph
+    Levert](https://twitter.com/sebastienlevert) on Microsoft Graph
     Toolkit (MGT)
 
     -   [Discover the Microsoft Graph
@@ -216,7 +216,7 @@ slides.
 
 -   **PnP Weekly -- Episode 148** (December 10th) with Belgium-based
     Power Platform Architect and Business Applications MVP, [Carmen
-    Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) |
+    Ysewijn](https://twitter.com/CarmenYsewijn) (Qubix) |
     @CarmenYsewijn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-148-carmen-ysewijn-qubix/ba-p/3056063) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-148-%E2%80%93-10th-of-january-2022/)
 
 ## General resources

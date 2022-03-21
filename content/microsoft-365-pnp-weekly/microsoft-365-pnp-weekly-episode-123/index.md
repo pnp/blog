@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=uQ5CQODxpM0
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by a Power Platform Cloud Advocate [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by a Power Platform Cloud Advocate [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 
 Topics discussed in this session include:
 

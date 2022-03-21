@@ -47,7 +47,7 @@ with insights into MGT vNext.
   ----------------------------------------- ------------------------------------------------------------- ------------------------------------------------
 Additionally, 2 new Teams samples were delivered in the last 2 weeks. 
 The host of this call was [David Warner
-II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
 @DavidWarnerII.   Q&A takes place in chat throughout the call.
 
  
@@ -96,11 +96,11 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   **[Action
     Preview](https://github.com/pnp/teams-dev-samples/tree/main/samples/msgext-action-preview)
-    -** [Markus Moeller](http://twitter.com/Moeller2_0) |@Moeller2_0
+    -** [Markus Moeller](https://twitter.com/Moeller2_0) |@Moeller2_0
 
 -   [**Teams Context Viewer
     tab**](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-context-viewer)
-    **-** [Sébastien Levert](http://twitter.com/sebastienlevert) |
+    **-** [Sébastien Levert](https://twitter.com/sebastienlevert) |
     [sebastienlevert](https://github.com/sebastienlevert)
 {{< image alt="PnPCall-May27th-ReducedResolution.gif" src="images/PnPCall-May27th-ReducedResolution.gif" >}}
 Hello!  it's always great to see everyone on the call today.  Thanks for
@@ -144,35 +144,35 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
+    Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
     - [5:50](https://youtu.be/y0diQu23g88?t=350)
 
 -   PnP PowerShell updates -[ Erwin van
-    Hunen](http://twitter.com/erwinvanhunen) (Valo Intranet)
+    Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet)
     @erwinvanhunen - [8:21](https://youtu.be/y0diQu23g88?t=501)
 
 -   yo Teams updates - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems)
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems)
     @DavidWarnerII - [10:00](https://youtu.be/y0diQu23g88?t=600)
 
 -   Microsoft Graph Toolkit updates - [Nikola
-    Metulev](http://twitter.com/metulev) (Microsoft) |
+    Metulev](https://twitter.com/metulev) (Microsoft) |
     @metulev - [10:31](https://youtu.be/y0diQu23g88?t=631)
 
 -   Microsoft Teams Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems)
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems)
     @DavidWarnerII - [13:38](https://youtu.be/y0diQu23g88?t=818)
 
 -   **Demo:**  Getting started with HTWOO UI -- Fluent Design in HTML
-    and CSS -- [Stefan Bauer](http://twitter.com/StfBauer) (N8D) |
+    and CSS -- [Stefan Bauer](https://twitter.com/StfBauer) (N8D) |
     @StfBauer - [15:31](https://youtu.be/y0diQu23g88?t=931)
 
 -   **Demo:**  Gain your users attention with the Microsoft Teams
-    Activity Feed API -- [Thomas Gölles](http://twitter.com/thomyg)
+    Activity Feed API -- [Thomas Gölles](https://twitter.com/thomyg)
     (Solvion) | @thomyg - [29:54](https://youtu.be/y0diQu23g88?t=1794)
 
 -   **Demo:**  Deep linking from List Formatting to Power Automate
-    solution -- [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
+    solution -- [Chris Kent](https://twitter.com/theChrisKent) (DMI) |
     @theChrisKent
     -[ [44:55](https://youtu.be/y0diQu23g88?t=2695)][ ]
 
@@ -217,7 +217,7 @@ slides.
 -   Editor - [Inkscape](https://inkscape.org/) - <https://inkscape.org>
 
 -   PnP Weekly -- Episode 128 with guest [Katie
-    Swanson](http://twitter.com/kswansondesign) (Microsoft) |
+    Swanson](https://twitter.com/kswansondesign) (Microsoft) |
     @kswansondesign |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-128/ba-p/2381362)
     |

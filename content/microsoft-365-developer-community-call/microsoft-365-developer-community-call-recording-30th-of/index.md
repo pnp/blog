@@ -48,7 +48,7 @@ nightly! Subscribe to nightly releases for the latest capabilities.
 As well, there were 4 Script samples and 3 Teams samples this week.
 
 The
-host of this call was [Paolo Pialorsi](http://twitter.com/paolopia)
+host of this call was [Paolo Pialorsi](https://twitter.com/paolopia)
 (PiaSys.com) | @paolopia.
 
 Q&A takes place in chat throughout the
@@ -115,14 +115,14 @@ call.
 `https://aka.ms/TeamsSampleBrowser`
 
 -   **[Meeting Record Names](https://aka.ms/tab-meeting-record-name)** -
-    [Markus Möller](http://twitter.com/Moeller2_0) (Avanade) |
+    [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) |
     @Moeller2_0
 -   **[Bot with Meeting
     Lifecycle](https://aka.ms/bot-meeting-lifecycle-basic)** - [Markus
-    Möller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
+    Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 -   [**Improved yo teams with MS Graph
     Toolkit**](https://aka.ms/tab-mgt-people) - [Markus
-    Möller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
+    Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 
 
 ### Microsoft Power Platform Samples
@@ -139,19 +139,19 @@ call.
 
 -   **[Extract Space content type Modern page as template and save to
     SharePoint](https://pnp.github.io/script-samples/spo-export-space-page-as-template-and-save-to-sharepoint/README.html?tabs=pnpps)
-    --** [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw)
+    --** [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw)
     | [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
 -   **[Export SharePoint List Data to CSV with
     attachments](https://pnp.github.io/script-samples/spo-export-sharepoint-list-items-to-csv/README.html?tabs=pnpps)**
-    -- [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) |
+    -- [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) |
     [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
 -   **[Get, Update, Add, Remove SharePoint list items in large
     lists](https://pnp.github.io/script-samples/spo-list-items-large-lists/README.html?tabs=pnpps)** -
-    [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) |
+    [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) |
     [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
 -   **[Apply column format to SharePoint
     column](https://pnp.github.io/script-samples/spo-apply-column-format/README.html?tabs=pnpps)** -
-    [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) |
+    [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) |
     [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
 
 
@@ -200,46 +200,46 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
 ### Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | @paolopia --
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com) | @paolopia --
     [9:20](https://youtu.be/y0PiVmB1gz4?t=560)
 
 -   PnP PowerShell - [Erwin van
-    Hunen](http://twitter.com/erwinvanhunen) (Valo Intranet) |
+    Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) |
     @erwinvanhunen -- [12:30](https://youtu.be/y0PiVmB1gz4?t=750)
 
--   yo Teams updates - [Paolo Pialorsi](http://twitter.com/paolopia)
+-   yo Teams updates - [Paolo Pialorsi](https://twitter.com/paolopia)
     (PiaSys.com) |
     @paolopia -- [14:54](https://youtu.be/y0PiVmB1gz4?t=894)
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft)
+    Pan](https://twitter.com/beth_panx) (Microsoft)
     @beth_panx -- [15:39](https://youtu.be/y0PiVmB1gz4?t=939)
 
 -   Microsoft Script Samples -  [Paul
-    Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) |
+    Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd) |
     @pkbullock -- [03:14](https://youtu.be/y0PiVmB1gz4?t=194)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft)
+    German](https://twitter.com/Bob1German) (Microsoft)
     @Bob1German -- [17:42](https://youtu.be/y0PiVmB1gz4?t=1062)
 
 -   Microsoft Power Platform Samples - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | @paolopia --
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com) | @paolopia --
     [20:41](https://youtu.be/y0PiVmB1gz4?t=1241)
 
 -   [**D1:**](#D1) Teams Leaderboard -- measure Channel engagement with a
     Teams Toolkit sample in Blazor -- [Thomas
-    Gölles](http://twitter.com/thomyg) (Solvion) | @thomyg --
+    Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg --
     [22:23](https://youtu.be/y0PiVmB1gz4?t=1343)
 
 -   **D2:**  Surface an embedded web chat that can communicate with
-    users in a Teams Channel -- [Lee Ford](http://twitter.com/lee_ford)
+    users in a Teams Channel -- [Lee Ford](https://twitter.com/lee_ford)
     (Symity) | @lee_ford --
     [35:10](https://youtu.be/y0PiVmB1gz4?t=2110)
 
 -   **D3:**  Updates on Independent Publisher Connectors for Power
     Platform & UK Bank Holidays Connector Demo -- [Natalie
-    Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) |
+    Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) |
     @NataliePienkow1 & Martyn Lesbirel (Dynamiti) --
     [45:05](https://youtu.be/y0PiVmB1gz4?t=2705)
 

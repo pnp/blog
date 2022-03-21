@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=x9N6PfGN5QI
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by are joined Canadian based Senior Program Manager from Microsoft Graph team [Nik Charlebois](https://twitter.com/NikCharlebois) | @NikCharlebois. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by are joined Canadian based Senior Program Manager from Microsoft Graph team [Nik Charlebois](https://twitter.com/NikCharlebois) | @NikCharlebois. 
 
 Topics discussed in this session include Nik's career development in Canada from being a customer, then moving to Microsoft as a Premier Field Engineer and also on his recent role change on moving to the Microsoft Graph team. They focus on his current responsibilities on driving usage for [Microsoft Graph data connect](https://docs.microsoft.com/graph/data-connect-overview), which helps on accessing information in Microsoft 365. They also talk about [Microsoft 365 DSC](https://microsoft365dsc.com/) open-source work which Nik has been driving for a long time to be able to have desired state configuration for Microsoft 365 tenants.
 

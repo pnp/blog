@@ -11,11 +11,11 @@ type: "regular"
 ---
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Belgium-based, MVP, author, Microsoft Teams developer, and CTO
-with Advantive, [Rick Van Rousselt](http://twitter.com/RickVanRousselt)
+with Advantive, [Rick Van Rousselt](https://twitter.com/RickVanRousselt)
 | @RickVanRousselt.   Topics discussed in this session can be
 summarized with one word.   Change!  The leap from Teams tab (iFrame) to
 Extension (Bot Framework) development, or transition from Skype to

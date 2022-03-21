@@ -37,7 +37,7 @@ Podcast](https://m365devpodcast.com) focused exclusively on Microsoft
 Ignite](https://ignite.microsoft.com) (Digital event) -- November 2-4 is
 now open.  Latest news from Microsoft on Microsoft 365 platform and 2
 demos this week.  The host of this call was [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
   Q&A takes place in chat throughout the call.
 
 **Microsoft 365 Platform News Flash**
@@ -122,12 +122,12 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
     | [@vesajuvonen](https://twitter.com/vesajuvonen%20) --
     [4:24](https://youtu.be/MqGuY5V_0sQ?t=424)
 
 -   **D1:**  Introduction to Microsoft Viva Connections extensibility --
-    [Ed Averett](http://twitter.com/Ed_Averett) (Microsoft) --
+    [Ed Averett](https://twitter.com/Ed_Averett) (Microsoft) --
     [8:58](https://youtu.be/MqGuY5V_0sQ?t=538)
 
 -   **D2:**  Building custom search layout experiences in SharePoint
@@ -180,10 +180,10 @@ slides.
 -   [Microsoft 365 Developer
     Podcast](https://m365devpodcast.com/) focused  exclusively on
     Microsoft 365 dev topics -- hosted by [Jeremy
-    Thake](http://twitter.com/jthake) (Microsoft) |
+    Thake](https://twitter.com/jthake) (Microsoft) |
 
     @jthake and [Paul
-    Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
+    Schaeflein](https://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
 ## General resources

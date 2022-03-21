@@ -58,7 +58,7 @@ previous report 2 weeks ago) 
   [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)                    v4.5.2, v3.23.0                               Release expected by calendar year end
   --------------------------------------------------------------------------------------------- --------------------------------------------- ------------------------------------------------------------
 The host of this call is [David Warner
-II](http://twitter.com/DavidWarnerII) (Catapult Systems)
+II](https://twitter.com/DavidWarnerII) (Catapult Systems)
 @DavidWarnerII.  Q&A takes place as always in chat throughout the call.
 {{< image alt="211230-together-mode.gif" src="images/211230-together-mode.gif" >}}
 
@@ -145,7 +145,7 @@ soon. ]
 
 -   **[Show All Entries for Multiple Lines of Text Field
     Customizer](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-apreact-field-showentries) \*
-    -** [Kinga Kazala](http://twitter.com/kinga_kazala)
+    -** [Kinga Kazala](https://twitter.com/kinga_kazala)
     | @kinga_kazala
 
 \* Link to be live soon!
@@ -155,17 +155,17 @@ soon. ]
 
 -   **[My
     Teams](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-my-teams)
-    -** [Yves Habersaat](http://twitter.com/yhabersaat) | @yhabersaat
+    -** [Yves Habersaat](https://twitter.com/yhabersaat) | @yhabersaat
 -   **[Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)
-    -** [Mohammed Amer](http://twitter.com/Mohammad3mer)
+    -** [Mohammed Amer](https://twitter.com/Mohammad3mer)
     | @Mohammad3mer
 -   **[Taxonomy File
     Explorer](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-taxonomy-file-explorer) \*
-    -** [Markus Möller](http://twitter.com/moeller2_0) (Avanade)
+    -** [Markus Möller](https://twitter.com/moeller2_0) (Avanade)
     | @moeller2_0
 -   **[Advanced Page
     Properties](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-advanced-page-properties)
-    -** [Abderahman Moujahid](http://twitter.com/Abderahman88)
+    -** [Abderahman Moujahid](https://twitter.com/Abderahman88)
     | @Abderahman88
 
 \* Link to be live soon!
@@ -175,7 +175,7 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 
 
 -   **COVID Indicator\* - **[João
-    Mendes](http://twitter.com/joaojmendes) | [@joaojmendes](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/442957)
+    Mendes](https://twitter.com/joaojmendes) | [@joaojmendes](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/442957)
 
 \* to be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
@@ -183,41 +183,41 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 ## Agenda items
 
 -   SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [6:32](https://youtu.be/--4erl4oE7Q?t=392)
 -   PnPjs Client-Side Libraries - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [8:05](https://youtu.be/--4erl4oE7Q?t=485)
 -   CLI for Microsoft 365 - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [8:45](https://youtu.be/--4erl4oE7Q?t=525)
 -   PnP SPFx Controls - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [9:17](https://youtu.be/--4erl4oE7Q?t=557)
 -   PnP Modern Search - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [10:09](https://youtu.be/--4erl4oE7Q?t=609)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     @bernierh -- [10:38](https://youtu.be/--4erl4oE7Q?t=638)
 -   PnP SPFx ACEs Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [13:14](https://youtu.be/--4erl4oE7Q?t=794)
 
 ## Demos
 
 -   **Demo 1**:  Viva Connections -- Adaptive Card Extension for
     Microsoft Planner Tasks -- [Ejaz
-    Hussain](http://twitter.com/EjazHussain_) (Content and Cloud) |
+    Hussain](https://twitter.com/EjazHussain_) (Content and Cloud) |
     @EjazHussain\_ [--][ [15:20](https://youtu.be/--4erl4oE7Q?t=920)]
 
 -   **Demo 2**[:  SPFx Design Patterns -- Custom Properties (Part 2) --
     ][Hugo
-    Bernier](http://twitter.com/bernierh)[ | @bernierh --
+    Bernier](https://twitter.com/bernierh)[ | @bernierh --
     [26:59](https://youtu.be/--4erl4oE7Q?t=1619) ]
 
 -   **Demo 3**:  Viva Connections ACEs CardView Types in SharePoint
-    Framework -- [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys)
+    Framework -- [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys)
     |
     @PaoloPia [--][ [44:30](https://youtu.be/--4erl4oE7Q?t=2670)][ ]
 
@@ -254,12 +254,12 @@ slides.
 
 -   **PnP Weekly -- Episode 147** (December 13th) with Munich,
     Germany-based consultant and MVP, [Markus
-    Möller](http://twitter.com/Moeller2_0) (Avanade) |
+    Möller](https://twitter.com/Moeller2_0) (Avanade) |
     @Moeller2_0 | [video ](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/ba-p/3037250)| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-147-%E2%80%93-13th-of-december-2021/)
 
 -   **PnP Weekly -- Episode 146** (December 6th) with Reykjavik,
     Iceland-based Consultant and MVP, [Derek
-    Cash-Peterson](http://twitter.com/spdcp) (Sympraxis Consulting) |
+    Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) |
     [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/ba-p/3031492) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-146-%E2%80%93-6th-of-december-2021/)
 
 ## General resources

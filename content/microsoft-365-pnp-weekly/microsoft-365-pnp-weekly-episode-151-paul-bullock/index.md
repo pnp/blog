@@ -14,7 +14,7 @@ videos:
 ---
 
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by UK-based SharePoint developer, architect and MVP, [Paul Bullock](http://twitter.com/pkbullock) | @pkbullock
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by UK-based SharePoint developer, architect and MVP, [Paul Bullock](https://twitter.com/pkbullock) | @pkbullock
 
 Topics discussed in this session:
 
@@ -62,7 +62,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 *   [How to set up SPFx development environments for multiple SharePoint Server deployments](https://www.voitanos.io/blog/how-to-setup-sharepoint-framework-development-environment-for-multiple-sharepoint-server-deployments) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
 *   [Delete O365 group with associated site collection via Graph SDK](http://sadomovalex.blogspot.com/2022/01/delete-o365-group-with-associated-site.html) - [Alexey Sadomov](https://twitter.com/sadomovalex) (Valo Solutions) | @sadomovalex
 *   [Compare two arrays, tables or lists a lot faster in Power Automate](https://sharepains.com/2022/01/27/compare-two-arrays-power-automate/) \- [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
-*   [Get All the Public or Private Team Sites in SharePoint with PnP.PowerShell](https://sympmarc.com/2022/01/27/get-all-the-public-or-private-team-sites-in-sharepoint-with-pnp-powershell/) - [Marc D Anderson](http://twitter.com/sympmarc) (Sympraxis Consulting) | @sympmarc
+*   [Get All the Public or Private Team Sites in SharePoint with PnP.PowerShell](https://sympmarc.com/2022/01/27/get-all-the-public-or-private-team-sites-in-sharepoint-with-pnp-powershell/) - [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @sympmarc
 *   [#59 Quick reference cards for Microsoft 365 apps](https://blog.mastykarz.nl/quick-reference-cards-microsoft-365-apps/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 *   [Episode #191 - Managing AAD Apps Registration via Microsoft Graph](https://www.youtube.com/watch?v=0_qcMqkAICA) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiasSys) | @PaoloPia
 *   [Power Apps UI Dark Mode Light Mode Toggle](https://www.youtube.com/watch?v=-VAfYb_uqNg) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam

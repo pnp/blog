@@ -139,7 +139,7 @@ Topics covered in this call
     -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [11:12](https://youtu.be/OPiBhBf-9PU?t=672)
 -   **Demo:**  Getting started with Microsoft Graph Toolkit -- [Waldek
-    Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm  --
+    Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm  --
     [15:30](https://youtu.be/OPiBhBf-9PU?t=930)
 -   **Demo:**  Introduction to Microsoft Graph .NET SDK v4 -- Maisa
     Rissi (Microsoft), Andrew Omondi (Microsoft) --

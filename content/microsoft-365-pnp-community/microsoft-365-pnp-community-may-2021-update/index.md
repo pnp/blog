@@ -382,7 +382,7 @@ PnP Weekly video blog / podcast shows:
     - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) 
 -   13th of April - [Microsoft 365 PnP Weekly - Episode
     122](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-122/ba-p/2268519)
-    - [Mark Rackley](http://twitter.com/mrackley) (PAIT Group)
+    - [Mark Rackley](https://twitter.com/mrackley) (PAIT Group)
 -   4th of April - [Microsoft 365 PnP Weekly -- Episode
     121](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-120/ba-p/2242545) -  [Nik
     Charlebois](https://twitter.com/NikCharlebois) (Microsoft)

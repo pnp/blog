@@ -15,11 +15,11 @@ videos:
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Belgium-based Senior Service Engineer from Microsoft - [Bert
-Jansen](http://twitter.com/o365bert) | @o365bert.  
+Jansen](https://twitter.com/o365bert) | @o365bert.  
 
 Bert splits his time coaching ISVs and Partners on how to get the most
 out of their SharePoint Online experience and on PnP Community projects
@@ -46,7 +46,7 @@ something cool/useful so that we can cover that in the next weekly
 summary! The easiest way to let us know is to share your work on Twitter
 and add the hashtag #PnPWeekly. We are always on the lookout for
 refreshingly new content. "*Sharing is
-caring!"*](https://twitter.com/search?q=%23pnpweekly)
+caring!"*](<https://twitter.com/search?q=%23pnpweekly>)
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 

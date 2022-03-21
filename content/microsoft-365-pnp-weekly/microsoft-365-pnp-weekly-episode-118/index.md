@@ -15,11 +15,11 @@ videos:
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by are joined by Scotland-based Solution Architect, dual
-MVP [Veronique Lengelle](http://twitter.com/veronicageek)
+MVP [Veronique Lengelle](https://twitter.com/veronicageek)
 ([CPS](https://www.cps.co.uk/)) | @veronicageek.
   
 The discussion included insights to the role of technical architect for

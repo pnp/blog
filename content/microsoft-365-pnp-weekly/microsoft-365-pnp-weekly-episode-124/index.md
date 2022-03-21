@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=TXqSa4F9uzU
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by MVP, PnP Team member, and Architect at US-based Sympraxis Consulting [Emily Mancini](https://twitter.com/EEMancini) |@EEMancini.   Topics discussed in this session include:  Sharing is Caring engagement model, Aligning and addressing the client's business needs with capabilities of owned technologies, i.e., Microsoft 365 for making changes with the business and not to the business!   Conscious/unconscious usage of the Microsoft 365 Maturity Model for business ROI maximization.   Ideas for increasing diversity in IT personnel, Imposter Syndrome, Tech vs Outcome and Teams or Yammer.   
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by MVP, PnP Team member, and Architect at US-based Sympraxis Consulting [Emily Mancini](https://twitter.com/EEMancini) |@EEMancini.   Topics discussed in this session include:  Sharing is Caring engagement model, Aligning and addressing the client's business needs with capabilities of owned technologies, i.e., Microsoft 365 for making changes with the business and not to the business!   Conscious/unconscious usage of the Microsoft 365 Maturity Model for business ROI maximization.   Ideas for increasing diversity in IT personnel, Imposter Syndrome, Tech vs Outcome and Teams or Yammer.   
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
  
@@ -106,7 +106,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     (Microsoft) | @DanWahlin, [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
     | @aprildunnam and [Ayca
-    Bas](http://twitter.com/aycabs) (Microsoft)
+    Bas](https://twitter.com/aycabs) (Microsoft)
     | @aycabs​
 -   [Episode #151​ - Paging Data with Microsoft Graph SDK for
     .NET](https://www.youtube.com/watch?v=H_gg3fmCWzo) - [Paolo

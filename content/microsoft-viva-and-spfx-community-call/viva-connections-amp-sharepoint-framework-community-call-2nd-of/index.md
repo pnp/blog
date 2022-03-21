@@ -55,7 +55,7 @@ previous report 2 weeks ago) 
 Additionally, there were 2 extensions, 2 web parts and 2 ACE
 **samples** were delivered!  Triple 2's are just great! Your
 contributions are greatly appreciated by many.  The host of this call is
-[Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+[Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
 {{< image alt="211202-together-mode.gif" src="images/211202-together-mode.gif" >}}
@@ -122,11 +122,11 @@ joining off camera on the call today.  It's December!
 
 -   **[Microsoft Clarity for Modern
     SharePoint](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-application-microsoft-clarity)** -
-    [João Ferreira](http://twitter.com/joao12ferreira)
+    [João Ferreira](https://twitter.com/joao12ferreira)
     | @joao12ferreira
 -   **[Follow
     Document](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-follow-document)**-
-    [André Lage](http://twitter.com/aaclage) | @aaclage
+    [André Lage](https://twitter.com/aaclage) | @aaclage
 
 
 ## SPFx web part samples
@@ -134,17 +134,17 @@ joining off camera on the call today.  It's December!
 <https://aka.ms/spfx-webparts>
 
 
--   **[React Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)** - [Mohammed Amer](http://twitter.com/Mohammad3mer) | @Mohammad3mer
--   **[Follow Document](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-follow-document)** - [André Lage](http://twitter.com/aaclage) | @aaclage
+-   **[React Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)** - [Mohammed Amer](https://twitter.com/Mohammad3mer) | @Mohammad3mer
+-   **[Follow Document](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-follow-document)** - [André Lage](https://twitter.com/aaclage) | @aaclage
 
 ## PnP SPFx ACEs
 
 [**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 
 -   **My Notifications* -**[João
-    Mendes](http://twitter.com/joaojmendes) | @joaojmendes
+    Mendes](https://twitter.com/joaojmendes) | @joaojmendes
 -   **Follow Document*** - [André
-    Lage](http://twitter.com/aaclage) | @aaclage
+    Lage](https://twitter.com/aaclage) | @aaclage
 
 - to be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
@@ -153,32 +153,32 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 ## Agenda items
 
 -   SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [6:56](https://youtu.be/NIjXZiEHx_8?t=416)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [9:29](https://youtu.be/NIjXZiEHx_8?t=569)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [11:46](https://youtu.be/NIjXZiEHx_8?t=706)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [12:34](https://youtu.be/NIjXZiEHx_8?t=754)
--   PnP Modern Search - [Franck Cornu](http://twitter.com/FranckCornu)
+-   PnP Modern Search - [Franck Cornu](https://twitter.com/FranckCornu)
     (aequos) | @FranckCornu --
     [13:18](https://youtu.be/NIjXZiEHx_8?t=798)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     @bernierh -- [13:56](https://youtu.be/NIjXZiEHx_8?t=836)
 -   PnP SPFx ACEs Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [16:01](https://youtu.be/NIjXZiEHx_8?t=961)
 
 ## Demos
 
--   **D1:**  Introduction to HtwoO React library -- Fluent UI experiences easily -- [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 -- [18:31](https://youtu.be/NIjXZiEHx_8?t=1111)
+-   **D1:**  Introduction to HtwoO React library -- Fluent UI experiences easily -- [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 -- [18:31](https://youtu.be/NIjXZiEHx_8?t=1111)
 
--   **D2:** [Getting started with using PnP Search Web Parts v4 -- ][Franck Cornu][http://twitter.com/FranckCornu]( | @FranckCornu & )[Mikael Svenson](http://twitter.com/mikaelsvenson)[ (Microsoft) | @mikaelsvenson -- [38:10](https://youtu.be/NIjXZiEHx_8?t=2290)]
+-   **D2:** [Getting started with using PnP Search Web Parts v4 -- ][Franck Cornu][https://twitter.com/FranckCornu]( | @FranckCornu & )[Mikael Svenson](https://twitter.com/mikaelsvenson)[ (Microsoft) | @mikaelsvenson -- [38:10](https://youtu.be/NIjXZiEHx_8?t=2290)]
 
 
 ## Resources
@@ -202,7 +202,7 @@ Additional resources around the covered topics and links from the slides.
 -   **PnP Weekly -- Episode 145** (November 30th) with Bristol,
     England, United Kingdom-based Senior Program Manager on the
     Microsoft Graph Dev-X team [Rabeb
-    Othmani](http://twitter.com/Rabeb_Othmani) |
+    Othmani](https://twitter.com/Rabeb_Othmani) |
     @Rabeb_Othmani | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-145-rabeb-othmani-microsoft/ba-p/3008950) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-144-%e2%80%93-22nd-of-november-2021/)
 
 -   **PnP Weekly -- Episode 144** (November 22nd) with Atlanta,

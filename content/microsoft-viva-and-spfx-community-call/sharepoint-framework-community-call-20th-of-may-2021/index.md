@@ -46,7 +46,7 @@ previous report 2 weeks ago) 
   PnP Modern Search                       v3.19 and v4.1.0      April and March 20th
 
 The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="210520-together-mode.gif" src="images/210520-together-mode.gif" >}}
 Thanks everybody for being part of the Community and helping making
@@ -124,16 +124,16 @@ things happen. You are absolutely awesome!
 -   [**List Items Menu (SP2019
     Version)**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-list-items-menu-sp2019) -
     [João
-    Mendes](http://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
+    Mendes](https://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
 -   **[News
     Banner](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-news-banner)** -
     [João
-    Mendes](http://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
+    Mendes](https://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
 -   **[List
     Form](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-list-form)** -
     Ari Gunawan | AriGunawan
 -   **[Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)** -
-    [Eli H. Schei](http://twitter.com/acupof_dev) | @acupof_dev
+    [Eli H. Schei](https://twitter.com/acupof_dev) | @acupof_dev
 
 
 -   **NEW Issue Templates!**
@@ -143,19 +143,19 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 ## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [5:38](https://youtu.be/cAwKgUNR9jU?t=338)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [9:27](https://youtu.be/cAwKgUNR9jU?t=567)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [11:29](https://youtu.be/cAwKgUNR9jU?t=689)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [12:28](https://youtu.be/cAwKgUNR9jU?t=748)
 -   PnP Modern Search - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [13:24](https://youtu.be/cAwKgUNR9jU?t=804)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
@@ -164,19 +164,19 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 ## Demos
 
 -   **Demo:**  Using Microsoft Graph Toolkit to easily access files in
-    Sites and in OneDrive -- [André Lage](http://twitter.com/aaclage)
+    Sites and in OneDrive -- [André Lage](https://twitter.com/aaclage)
     (Datalynx AG) | @aaclage [--
     [18:27](https://youtu.be/cAwKgUNR9jU?t=1107)]
 
     **Demo:**  Building Microsoft Teams user bulk membership update tool
     with SPFx and Microsoft Graph -- [Nick
-    Brown](http://twitter.com/techienickb) (Cardiff University) |
+    Brown](https://twitter.com/techienickb) (Cardiff University) |
     @techienickb [--
     [34:06](https://youtu.be/cAwKgUNR9jU?t=2046)]
 
     **Demo:**  Building Microsoft Graph get client web part with latest
     Graph Client SDK -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    Levert](https://twitter.com/sebastienlevert) (Microsoft) |
     @sebastienlevert [
     --][ [47:30](https://youtu.be/cAwKgUNR9jU?t=2850)]
 
@@ -217,7 +217,7 @@ slides.
     gallery](https://aka.ms/m365/extensibility)   
 
 -   PnP Weekly -- Episode 127 with MVP guest [Rick Van
-    Rousselt](http://twitter.com/RickVanRousselt) (Advantive) |
+    Rousselt](https://twitter.com/RickVanRousselt) (Advantive) |
     @RickVanRousselt |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-127-rick-van-rousselt/ba-p/2361251)
     |

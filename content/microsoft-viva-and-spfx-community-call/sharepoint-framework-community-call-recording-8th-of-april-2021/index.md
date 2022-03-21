@@ -37,7 +37,7 @@ for SPFx v1.12.1).   **PnP SPFx Generator** v1.16.0 (Angular 11
 supported), **PnP Modern Search** v3.19 to be released shortly and
 v4.1.0 released March 20th.     There were eight **PnP SPFx web part
 samples** delivered last 2 weeks.  Great work!    The host of this call
-is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="8th-april-together-mode.gif" src="images/8th-april-together-mode.gif" >}}
  
@@ -116,39 +116,39 @@ is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 
 -   **[Send to
     Teams](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-send-to-teams)** -
-    [João Mendes](http://twitter.com/joaojmendes)
+    [João Mendes](https://twitter.com/joaojmendes)
     | [joaojmendes](https://github.com/joaojmendes)
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
 
 -   [**Calendar**](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-calendar) -
-    [Mohammad Amer ](http://twitter.com/Mohammad3mer)| @Mohammad3mer
+    [Mohammad Amer ](https://twitter.com/Mohammad3mer)| @Mohammad3mer
 
 -   **[Staff
     Directory](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-staffdirectory)** -
-    [Ari Gunawan](http://twitter.com/AriGunawan) | @AriGunawan
+    [Ari Gunawan](https://twitter.com/AriGunawan) | @AriGunawan
 
 -   **[Advanced Page
     Properties](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-advanced-page-properties)**
-    -- [Mike Homol](http://twitter.com/homol) (ThreeWill) | @homol
+    -- [Mike Homol](https://twitter.com/homol) (ThreeWill) | @homol
 
 -   **[Datatable](https://github.com/pnp/sp-dev-fx-webparts/blob/master/samples/react-datatable)** -
     [Chandani
-    Prajapati](http://twitter.com/Chandani_SPD) | @Chandani_SPD
+    Prajapati](https://twitter.com/Chandani_SPD) | @Chandani_SPD
 
 -   **[Company
     Stories](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-company-stories)** -
-    [Luis Mañez](http://twitter.com/luismanez) | @luismanez
+    [Luis Mañez](https://twitter.com/luismanez) | @luismanez
 
 -   **[Video
     Banner](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-video-banner)** -
     [Mohamed
-    Derhalli](http://twitter.com/MohamedDerhalli) | @MohamedDerhalli
+    Derhalli](https://twitter.com/MohamedDerhalli) | @MohamedDerhalli
 
 -   **[Document Card
     FAQ](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-doccard-faq)** -
     [Sam
-    Collins](http://twitter.com/samc148) | [@SamCollins](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/369055)
+    Collins](https://twitter.com/samc148) | [@SamCollins](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/369055)
 
 As is the case this week, samples are often showcased in Demos.  Thank
 you for your great work.
@@ -156,22 +156,22 @@ you for your great work.
 ## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen --[ 5:41](https://youtu.be/PJ4aUybRrQo?t=341)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [7:59](https://youtu.be/PJ4aUybRrQo?t=479)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [9:19](https://youtu.be/PJ4aUybRrQo?t=559)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [10:11](https://youtu.be/PJ4aUybRrQo?t=611)
 -   PnP SPFx Generator - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [11:22](https://youtu.be/PJ4aUybRrQo?t=682)
 -   PnP Modern Search - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [12:21](https://youtu.be/PJ4aUybRrQo?t=741)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
@@ -180,17 +180,17 @@ you for your great work.
 ## Demos
 
 -   Teams Meeting Questionnaire App with SharePoint Framework --
-    [Nanddeep Nachan](http://twitter.com/NanddeepNachan) |
+    [Nanddeep Nachan](https://twitter.com/NanddeepNachan) |
     [nanddeepn](https://github.com/nanddeepn) --
     [17:09](https://youtu.be/PJ4aUybRrQo?t=1029)
 
 -   Building an advanced SPFx Image Editor web part -- [Peter Paul
-    Kirschner](http://twitter.com/petkir_at) (cubido) |
+    Kirschner](https://twitter.com/petkir_at) (cubido) |
     [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at --
     [31:05](https://youtu.be/PJ4aUybRrQo?t=1865)
 
 -   Viva Connections Desktop and Extensibility -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [39:29](https://youtu.be/PJ4aUybRrQo?t=2369)
 
 

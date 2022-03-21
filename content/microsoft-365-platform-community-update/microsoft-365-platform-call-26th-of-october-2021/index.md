@@ -39,7 +39,7 @@ platform.   
     Paul Schaeflein (Addin365).
 -   View or Cast the latest episode of PnP Weekly -- Episode 140
     (October 25th) with Sweden based MVP and Chief Technical Architect
-    at Advania - [Simon Ågren](http://twitter.com/agrenpoint) |
+    at Advania - [Simon Ågren](https://twitter.com/agrenpoint) |
     [@AgrenPoint](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/271184). | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/ba-p/2881228) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-140-%e2%80%93-25th-of-october-2021/)
 -   [Registration for Microsoft Ignite](https://ignite.microsoft.com)
     (Digital event) and join the Ignite watch party.
@@ -50,7 +50,7 @@ platform.   
     and view 2 demos from Microsoft presenters about working with the
     Microsoft 365 platform.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout the
 call   
 
@@ -147,11 +147,11 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [8:42](https://youtu.be/SHjjmNa1EPw?t=522)
 -   **Demo 1:**  Getting started with hub associations in SharePoint -
     building the hub of hubs -- [Cathy
-    Dew](http://twitter.com/catpaint1) (Microsoft) | @catpaint1 --
+    Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1 --
     [12:06](https://youtu.be/SHjjmNa1EPw?t=726)
 -   **Demo 2:**  Progressive Web Apps and Beyond: Supercharging OneDrive
     & SharePoint web apps -- Andrey Esipov (Microsoft) --
@@ -177,16 +177,16 @@ slides.
 
 -   PnP Weekly -- Episode 140 (October 25th) with Sweden based MVP and
     Chief Technical Architect at Advania - [Simon
-    Ågren](http://twitter.com/agrenpoint) |
+    Ågren](https://twitter.com/agrenpoint) |
     @agrenpoint. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/ba-p/2881228) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-140-%e2%80%93-25th-of-october-2021/)
 
 -   [Microsoft 365 Developer
     Podcast](https://m365devpodcast.com/) focused  exclusively on
     Microsoft 365 dev topics -- hosted by [Jeremy
-    Thake](http://twitter.com/jthake) (Microsoft) |
+    Thake](https://twitter.com/jthake) (Microsoft) |
 
     @jthake and [Paul
-    Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
+    Schaeflein](https://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
 ## General resources

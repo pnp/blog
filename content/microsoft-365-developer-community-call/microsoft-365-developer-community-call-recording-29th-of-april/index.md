@@ -40,7 +40,7 @@ Open-source project activity is focused on prepping for May releases.   
   Microsoft Graph Toolkit (MGT)             v2.1.0 GA, v2.2.0 Preview   Bug fixes and v2.2.0 preview updates
   ----------------------------------------- --------------------------- ---------------------------------------
 Additionally, one new Teams sample delivered.  The host of this call was
-[Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+[Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen.  Q&A takes place in chat throughout the call.
 
 
@@ -130,37 +130,37 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/o365bert) (Microsoft) | @O365bert
+    Jansen](https://twitter.com/o365bert) (Microsoft) | @O365bert
     - [6:59](https://youtu.be/1NE_uMlpD08?t=419)
 
 -   PnP PowerShell updates - [Bert
-    Jansen](http://twitter.com/o365bert) (Microsoft) |
+    Jansen](https://twitter.com/o365bert) (Microsoft) |
     @O365bert - [8:43](https://youtu.be/1NE_uMlpD08?t=523)
 
 -   yo Teams updates - [Wictor
-    Wilén](http://twitter.com/wictor) (Avanade) | @wictor -
+    Wilén](https://twitter.com/wictor) (Avanade) | @wictor -
     [9:53](https://youtu.be/1NE_uMlpD08?t=593)
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft)
+    Pan](https://twitter.com/beth_panx) (Microsoft)
     | [beth-panx](https://github.com/beth-panx) - [11:10](https://youtu.be/1NE_uMlpD08?t=670)
 
 -   Microsoft Teams Samples - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen - [12:33](https://youtu.be/1NE_uMlpD08?t=753)
 
 -   **Demo:**  Delegated and application permissions in the Microsoft
     Identity Platform -- [Philippe
-    Signoret](http://twitter.com/psignoret) (Microsoft) | @psignoret -
+    Signoret](https://twitter.com/psignoret) (Microsoft) | @psignoret -
     [14:48](https://youtu.be/1NE_uMlpD08?t=888)
 
 -   **Demo:**  Localization check inside SharePoint Framework projects
     -- VS Code extension to increase your productivity -- [Sergei
-    Sergeev](http://twitter.com/sergeev_srg) (Mastaq) | @sergeev_srg -
+    Sergeev](https://twitter.com/sergeev_srg) (Mastaq) | @sergeev_srg -
     [30:22](https://youtu.be/1NE_uMlpD08?t=1822)
 
 -   **Demo:**  Using field lookups with list formatting -- [Chris
-    Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent [-
+    Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent [-
     [42:48](https://youtu.be/1NE_uMlpD08?t=2568)][ ]
 
 ## Resources

@@ -12,9 +12,9 @@ type: "regular"
 
 In this instalment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm discuss
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm discuss
 the announcements from Build 2021 and the latest articles published by
 the Microsoft 365 community.  
 Please remember to keep on providing us feedback on how we can help on
@@ -155,7 +155,7 @@ everyone for your contributions to the community!
     Lists](https://regarding365.com/power-apps-can-now-display-images-from-microsoft-lists-fd412d38e9b6)
     - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc)
     | @DanielGlenn, [Darrell
-    Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
+    Webster](https://twitter.com/darrellaas) (Modern Workplace Change) |
     @darrellaas
 
 ## Additional resources

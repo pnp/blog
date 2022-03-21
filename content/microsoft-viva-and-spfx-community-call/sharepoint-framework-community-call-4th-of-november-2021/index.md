@@ -48,7 +48,7 @@ previous report 2 weeks ago) 
 Additionally, there was 1 extension, 5 web part and 3 ACE **samples**
 delivered! Outstanding! Your contributions are greatly appreciated by
 many. The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler. Q&A takes place as always in chat throughout the call.
 {{< image alt="211104-together-mode.gif" src="images/211104-together-mode.gif" >}}
 
@@ -121,45 +121,45 @@ Düsseldorf or in Las Vegas later this year.   
 
 -   [**Change Page Layout
     Type**](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-change-page-layouttype)
-    -- [Sudharsan K.](http://twitter.com/sudharsank) | @sudharsank
+    -- [Sudharsan K.](https://twitter.com/sudharsank) | @sudharsank
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
 
 -   **[List Items
     Menu](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-list-items-menu)**
     -- [João
-    Mendes](http://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
+    Mendes](https://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
 
 -   **[Kanban
     Board](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-kanban-board)**
     -- [Alex
-    Terentiev](http://twitter.com/alexaterentiev) | @alexaterentiev
+    Terentiev](https://twitter.com/alexaterentiev) | @alexaterentiev
 
 -   **[React
     Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)**
     -- [Mohammed
-    Amer](http://twitter.com/Mohammad3mer) | @Mohammad3mer
+    Amer](https://twitter.com/Mohammad3mer) | @Mohammad3mer
 
 -   **[Modern
     Calendar](https://github.com/pnp/sp-dev-fx-webparts/blob/master/samples/js-modern-calendar)**
     -- [Peter Paul
-    Kirschner](http://twitter.com/petkir_at) | [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
+    Kirschner](https://twitter.com/petkir_at) | [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
 
 -   **Find Parker** -- [Adam
-    Wojcik](http://twitter.com/Adam25858782) | @Adam25858782 
+    Wojcik](https://twitter.com/Adam25858782) | @Adam25858782 
 
 \* to be posted soon.
 **PnP SPFx
 ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 
 -   **Today's Lunch Information\*** -- [Luis
-    Mañez](http://twitter.com/luismanez) | @luismanez
+    Mañez](https://twitter.com/luismanez) | @luismanez
 
 -   **Service Health - Updates\*** -- [Anoop
-    Tatti](http://twitter.com/anooptells) | @anooptells
+    Tatti](https://twitter.com/anooptells) | @anooptells
 
 -   **Transport for London Status\*** - Updates -- [Anoop
-    Tatti ](http://twitter.com/anooptells)| @anooptells
+    Tatti ](https://twitter.com/anooptells)| @anooptells
 
 \* to be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
@@ -167,32 +167,32 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 ## Agenda items
 
 -   SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [7:07](https://youtu.be/UbEI23buBtE?t=427)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [9:55](https://youtu.be/UbEI23buBtE?t=595)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler%20) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler%20) (Microsoft) |
     @mediocrebowler -- [11:34](https://youtu.be/UbEI23buBtE?t=694)
 -   PnP SPFx Controls -[ Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
     @mediocrebowler -- [12:26](https://youtu.be/UbEI23buBtE?t=746)
 -   PnP Modern Search - [Mikael
-    Svenson](http://twitter.com/mikaelsvenson) (Microsoft) |
+    Svenson](https://twitter.com/mikaelsvenson) (Microsoft) |
     [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173) -- [13:32](https://youtu.be/UbEI23buBtE?t=812)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     @bernierh -- [14:00](https://youtu.be/UbEI23buBtE?t=840)
 -   PnP SPFx ACEs Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [16:58](https://youtu.be/UbEI23buBtE?t=1018)
 
 ## Demos
 
 -   **D1:**  Microsoft 365 Tenant Service Health - Viva Connections
     Adaptive Card Extension -- [Anoop
-    Tatti](http://twitter.com/anooptells) (Content+Cloud) |
+    Tatti](https://twitter.com/anooptells) (Content+Cloud) |
     @anooptells [--][ [19:26](https://youtu.be/UbEI23buBtE?t=1166)]
 
 -   **D2:**  React News Web Part -- [Alison
@@ -200,7 +200,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     ReactIntern [--][ [43:21](https://youtu.be/UbEI23buBtE?t=2601)]
 
 -   **D3:**  SPFx Design Patterns - Custom Properties -- [Hugo
-    Bernier](http://twitter.com/bernierh) (Microsoft) |
+    Bernier](https://twitter.com/bernierh) (Microsoft) |
     @bernierh [--][ [32:47](https://youtu.be/UbEI23buBtE?t=1967)]
 
 
@@ -243,12 +243,12 @@ slides.
 
 -   **Microsoft 365 PnP Weekly -- Episode 140** (October 25th) with
     Sweden based MVP and Chief Technical Architect at Advania - [Simon
-    Ågren](http://twitter.com/agrenpoint) |
+    Ågren](https://twitter.com/agrenpoint) |
     [@AgrenPoint](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/271184). | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/ba-p/2881228) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-140-%e2%80%93-25th-of-october-2021/)
 
 -   **Microsoft 365 PnP Weekly - Episode 141** (November 1st) with
     UK-based SharePoint developer and MVP at Storm Technology - [Joel
-    Rodrigues](http://twitter.com/JoelFMRodrigues) |
+    Rodrigues](https://twitter.com/JoelFMRodrigues) |
     @JoelFMRodrigues. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-141-joel-rodrigues-storm/ba-p/2908830) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-141-%E2%80%93-1st-of-november-2021/)
 
 ## General resources

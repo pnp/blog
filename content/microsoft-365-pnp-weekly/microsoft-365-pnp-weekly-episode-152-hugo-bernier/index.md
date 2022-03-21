@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=ozhbLz1gMi0
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) | @bernierh. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh. 
 
 Topics discussed in this session:
 
@@ -69,7 +69,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 *   [Mea culpa - always install gulp-cli globally, not gulp](https://www.voitanos.io/blog/mea-culpa-always-install-gulp-cli-globally-not-gulp/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
 *   [Migrating a Planner board to a List](https://www.loryanstrant.com/2022/02/03/migrating-a-planner-board-to-a-list/) - [Loryan Strant](https://twitter.com/LoryanStrant) (Rapid Circle) | @LoryanStrant
 *   [:thumbs\_up::thumbs\_down:How to add like and dislike buttons in Microsoft/SharePoint Lists \[YouTube u...](https://www.youtube.com/watch?v=0bGwNUojk0Y) - [Giuliano De Luca](https://twitter.com/DeLucaGiulian) | @DeLucaGiulian
-*   [Episode #192 - Working with SharePoint Online Libraries and Files via Microsoft Graph](https://www.youtube.com/watch?v=rjZnuuKQu3c) - [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
+*   [Episode #192 - Working with SharePoint Online Libraries and Files via Microsoft Graph](https://www.youtube.com/watch?v=rjZnuuKQu3c) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 *   [Power Apps User Personalization Color Blind Mode #UI](https://www.youtube.com/watch?v=BS4Uhd9JrMg) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 
 ## Additional resources

@@ -36,17 +36,17 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 *   The great people, supportive organizations and solid work done in this community over the last month is recognized today!  Available now – the [Microsoft 365 Platform Community (PnP) – March 2022 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-community-pnp-march-2022-update/ba-p/3253349).  A heartfelt thank you goes out to the community members, organizations and Microsoft employees who have contributed their time and talents to this community in the last month. 
 *   Hear about the latest 7 Microsoft 365 Platform related stories and view 3 great demos delivered by Microsoft presenters on the latest capabilities of the Microsoft 365 platform.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and live at end of the call.  
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and live at end of the call.  
 
 ## Microsoft 365 Platform News Flash
 
 *   [A Community Celebration: Microsoft Teams 5 Year Anniversary](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/a-community-celebration-microsoft-teams-5-year-anniversary/ba-p/3252827) – Microsoft
-*   [Public preview of SharePoint Framework 1.15 – First release of the upcoming features](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-15-first-release-of-the-upcoming-features/) – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
-*   [Learn from the community: Low code bot onboards members to Microsoft Teams channel](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-low-code-bot-onboards-members-to-microsoft-teams-channel/) – [Ayça Baş](http://twitter.com/aycabs) (Microsoft) | @aycabs
+*   [Public preview of SharePoint Framework 1.15 – First release of the upcoming features](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-15-first-release-of-the-upcoming-features/) – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
+*   [Learn from the community: Low code bot onboards members to Microsoft Teams channel](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-low-code-bot-onboards-members-to-microsoft-teams-channel/) – [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs
 *   [TLS certificate changes to Microsoft 365 services including Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/tls-certificate-changes-to-microsoft-365-services-including/ba-p/3249676) – Parker Shelton (Microsoft)
 *   [Viva Learning news and feature update](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-learning-news-and-feature-update/ba-p/3238357) – John Mighell (Microsoft)
-*   [Most used SharePoint Framework solutions from the Store - February 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-february/ba-p/3254138) – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
-*   [“FastTrack'ing Viva, SharePoint, and OneDrive” :studio\_microphone: – The Intrazone podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/fasttrack-ing-viva-sharepoint-and-onedrive-the-intrazone-podcast/ba-p/3249737) – [Mark Kashman](http://twitter.com/mkashman) (Microsoft) | @mkashman
+*   [Most used SharePoint Framework solutions from the Store - February 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-february/ba-p/3254138) – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
+*   [“FastTrack'ing Viva, SharePoint, and OneDrive” :studio\_microphone: – The Intrazone podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/fasttrack-ing-viva-sharepoint-and-onedrive-the-intrazone-podcast/ba-p/3249737) – [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 
 {{< youtube LbVbaBZdK3o >}}
 
@@ -85,8 +85,8 @@ Thank you for your creativity and work execution.   Samples are often showcase
 
 *   Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [7:53](https://youtu.be/LbVbaBZdK3o?t=473)
 *   Monthly community contributors – [13:14](https://youtu.be/LbVbaBZdK3o?t=794)
-*   **D1**:  Fit and format Microsoft Lists for work and life –​ [Harini Saladi](http://twitter.com/HariniSaladi) (Microsoft) | [@HariniSaladi](/t5/user/viewprofilepage/user-id/581590), [Miceile Barrett](http://twitter.com/MSFTMiceile) (Microsoft) | @MSFTMiceile & [Mark Kashman](http://twitter.com/mkashman) (Microsoft) | @mkashman – [15:47](https://youtu.be/LbVbaBZdK3o?t=947)
-*   **D2**:  Building Microsoft Graph Toolkit apps with SharePoint –​ [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [46:42](https://youtu.be/LbVbaBZdK3o?t=2802)
+*   **D1**:  Fit and format Microsoft Lists for work and life –​ [Harini Saladi](https://twitter.com/HariniSaladi) (Microsoft) | [@HariniSaladi](/t5/user/viewprofilepage/user-id/581590), [Miceile Barrett](https://twitter.com/MSFTMiceile) (Microsoft) | @MSFTMiceile & [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman – [15:47](https://youtu.be/LbVbaBZdK3o?t=947)
+*   **D2**:  Building Microsoft Graph Toolkit apps with SharePoint –​ [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [46:42](https://youtu.be/LbVbaBZdK3o?t=2802)
 
 ## Resources
 
@@ -100,10 +100,10 @@ Additional resources around the covered topics and links from the slides.
 *   **D1:**  Documentation - [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) | aka.ms/spdocs-column-formatting
 *   **D1:**  See latest list samples in [Sample Solution Gallery - Microsoft Adoption](https://adoption.microsoft.com/sample-solution-gallery?sortby=creationDateTime-true&keyword=&product=Microsoft%20Lists&action=ajax_plugin_call_sample_solution_gallery) from
     
-    *   [André Lage](http://twitter.com/aaclage) (Datalynx AG) | [@aaclage](/t5/user/viewprofilepage/user-id/861803)
-    *   [Chris Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent
-    *   [João Ferreira](http://twitter.com/joao12ferreira) (Beezy) | @joao12ferreira
-    *   [Tetsuya Kawahara](http://twitter.com/techan_k) | @techan\_k
+    *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | [@aaclage](/t5/user/viewprofilepage/user-id/861803)
+    *   [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent
+    *   [João Ferreira](https://twitter.com/joao12ferreira) (Beezy) | @joao12ferreira
+    *   [Tetsuya Kawahara](https://twitter.com/techan_k) | @techan\_k
         
 *   **D2:**  Documentation - [Build a SharePoint web part with the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/get-started/build-a-sharepoint-web-part) | aka.ms/mgt/spfx
 *   **D2:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://docs.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
@@ -115,7 +115,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D2:**  MGT Demos Playlist **\-** [Microsoft Graph Toolkit – YouTube](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUVLPfpm0QL4DVQ8Rw2Md5k)
 *   **D2:**  Issues – [MGT Issus](https://github.com/microsoftgraph/microsoft-graph-toolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) | [aka.ms/mgt/issues](https://aka.ms/mgt/issues)
 *   **D2:**  Learn – [Develop apps with the Microsoft Graph Toolkit](https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa) | [https://aka.ms/mgt/learn](https://aka.ms/mgt/learn) 
-*   **Microsoft 365 PnP Weekly – Episode 157** (March 14th) with US based, Microsoft 365 Extensibility Developer, MVP, and PnP team member focused on PnPjs project, [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997  | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-157-julie-turner-sympraxis/ba-p/3256417) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-157-%e2%80%93-14th-of-march-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 157** (March 14th) with US based, Microsoft 365 Extensibility Developer, MVP, and PnP team member focused on PnPjs project, [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997  | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-157-julie-turner-sympraxis/ba-p/3256417) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-157-%e2%80%93-14th-of-march-2022/)
 
 ## General resources
 

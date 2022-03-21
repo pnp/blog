@@ -31,7 +31,7 @@ Podcast](https://m365devpodcast.com) focused  exclusively on Microsoft
 (Addin365).   View the [Microsoft 365 Developer
 blog](https://aka.ms/m365dev/blog) for the latest news in last 7 days
 from Microsoft on Microsoft 365 platform.  The host of this call was
-[Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) |
+[Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) |
 [@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).   Q&A takes
 place in chat throughout the call.
 
@@ -111,22 +111,22 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
-    Jackett](http://twitter.com/BrianTJackett) (Microsoft) |
+    Jackett](https://twitter.com/BrianTJackett) (Microsoft) |
     [@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556) --
     [4:05](https://youtu.be/gf00sxZvK5M?t=245)
 -   **Demo:**  Microsoft Graph Toolkit Latest Releases -- [Elise
-    Yang](http://twitter.com/elisenyang) (Microsoft) |
+    Yang](https://twitter.com/elisenyang) (Microsoft) |
     [@elisenyang](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/803417), [André
-    Lage](http://twitter.com/aaclage) (Datalynx AG) |
+    Lage](https://twitter.com/aaclage) (Datalynx AG) |
     [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803) --
     [6:20](https://youtu.be/gf00sxZvK5M?t=380)
 -   **Demo:**  Getting started with Microsoft Lists templates -- [Harini
-    Saladi](http://twitter.com/HariniSaladi) (Microsoft) |
+    Saladi](https://twitter.com/HariniSaladi) (Microsoft) |
     @HariniSaladi -- [14:32](https://youtu.be/gf00sxZvK5M?t=872)
 -   **Demo:**  Introduction to Microsoft Graph CLI -- [Roina
-    Ochieng](http://twitter.com/roinochieng) (Microsoft) |
+    Ochieng](https://twitter.com/roinochieng) (Microsoft) |
     @roinochieng, [Samwel
-    Kanda](http://twitter.com/samwelkanda) (Microsoft) |
+    Kanda](https://twitter.com/samwelkanda) (Microsoft) |
     @samwelkanda -- [30:17](https://youtu.be/gf00sxZvK5M?t=1817)
 
 
@@ -163,9 +163,9 @@ slides.
 
 -   [Microsoft 365 Developer Podcast](https://m365devpodcast.com)
     focused  exclusively on Microsoft 365 dev topics -- hosted by
-    [Jeremy Thake](http://twitter.com/jthake) (Microsoft) |
+    [Jeremy Thake](https://twitter.com/jthake) (Microsoft) |
 
-    @jthake and [Paul Schaeflein](http://twitter.com/paulschaeflein)
+    @jthake and [Paul Schaeflein](https://twitter.com/paulschaeflein)
     (Addin365)
     | [@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113)
 

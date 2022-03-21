@@ -38,7 +38,7 @@ While version releases are periodic, nightly releases are nightly!  Subscribe t
 {{< /notice >}}
 
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII.   Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 {{< youtube 1zeXVvcBIJo >}}
 
@@ -78,12 +78,12 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) 
 
 <https://aka.ms/powerplatform-samples>
 
-*   **Create M365 Groups using Graph\* -** [Michel Mendes](http://twitter.com/michelcarlo) | @michelcarlo
-*   **Hide List from Site Contents\* -** [Michel Mendes](http://twitter.com/michelcarlo) | @michelcarlo
+*   **Create M365 Groups using Graph\* -** [Michel Mendes](https://twitter.com/michelcarlo) | @michelcarlo
+*   **Hide List from Site Contents\* -** [Michel Mendes](https://twitter.com/michelcarlo) | @michelcarlo
 *   **[Breadcrumb Component](https://github.com/pashasongz/powerapps-samples/tree/main/samples/breadcrumb-component) -** [Pavel Kovalevskij](https://www.linkedin.com/in/pavel-kovalevskij-4a55b41b2)
-*   **SelfService Portal for Microsoft 365\* -** [Jan Bakker](http://twitter.com/janbakker_) | @janbakker\_  
-    [Albert-Jan Schot](http://twitter.com/appieschot) | @appieschot
-*   **Users and Groups Directory\* -** [Siddharth Vaghasia](http://twitter.com/siddh_me) | @siddh\_me
+*   **SelfService Portal for Microsoft 365\* -** [Jan Bakker](https://twitter.com/janbakker_) | @janbakker\_  
+    [Albert-Jan Schot](https://twitter.com/appieschot) | @appieschot
+*   **Users and Groups Directory\* -** [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh\_me
 
 \*These latest samples should show on site shortly after this call
 
@@ -93,10 +93,10 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) 
 
 2 New Scenarios and 3 Script Updates:
 
-*   **[Delete a library exceeding the list threshold limit. Remove the files and folders before deleting th...](https://pnp.github.io/script-samples/spo-remove-large-library/README.html?tabs=pnpps)** \- [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782   
-*   **[Get All Apps From The App Catalog And Export It To CSV](https://pnp.github.io/script-samples/spo-get-all-apps-from-appcatalog/README.html?tabs=pnpps)** - [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782   
-*   **[Sample on a report showing how much SharePoint Storage you can save by trimming document versions on...](https://pnp.github.io/script-samples/spo-generate-sp-storage-savings-report/README.html?tabs=pnpps)** - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) | @kasperbolarsen   
-*   **[Empty the tenant recycle bin](https://pnp.github.io/script-samples/spo-empty-tenant-recyclebin/README.html?tabs=cli-m365-ps)** - [Leon Armston](http://twitter.com/LeonArmston) | @LeonArmston 
+*   **[Delete a library exceeding the list threshold limit. Remove the files and folders before deleting th...](https://pnp.github.io/script-samples/spo-remove-large-library/README.html?tabs=pnpps)** \- [Adam Wójcik](https://twitter.com/Adam25858782) | @Adam25858782   
+*   **[Get All Apps From The App Catalog And Export It To CSV](https://pnp.github.io/script-samples/spo-get-all-apps-from-appcatalog/README.html?tabs=pnpps)** - [Adam Wójcik](https://twitter.com/Adam25858782) | @Adam25858782   
+*   **[Sample on a report showing how much SharePoint Storage you can save by trimming document versions on...](https://pnp.github.io/script-samples/spo-generate-sp-storage-savings-report/README.html?tabs=pnpps)** - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) | @kasperbolarsen   
+*   **[Empty the tenant recycle bin](https://pnp.github.io/script-samples/spo-empty-tenant-recyclebin/README.html?tabs=cli-m365-ps)** - [Leon Armston](https://twitter.com/LeonArmston) | @LeonArmston 
 *   **[Flow run status list dashboard](https://pnp.github.io/script-samples/flow-runs-status-list-dashboard/README.html?tabs=cli-m365-ps)** - [Ryan Healy](https://www.linkedin.com/in/ryanjonhealy/)         
 
 Article:  [Getting started with PnP Script Samples](https://aka.ms/script-samples/getting-started) – aka.ms/script-samples/getting-started
@@ -121,16 +121,16 @@ Thank you for your work. Samples are often showcased in Demos.    Request a De
 
 ## Topics
 
-*   PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [6:44](https://youtu.be/1zeXVvcBIJo?t=404)
-*   PnP PowerShell updates \- [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [8:17](https://youtu.be/1zeXVvcBIJo?t=497)
-*   yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [9:08](https://youtu.be/1zeXVvcBIJo?t=548)
-*   Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [9:48](https://youtu.be/1zeXVvcBIJo?t=588)
-*   Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) | @pkbullock – [2:47](https://youtu.be/1zeXVvcBIJo?t=167)
-*   Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German – [11:29](https://youtu.be/1zeXVvcBIJo?t=689)
-*   Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [12:05](https://youtu.be/1zeXVvcBIJo?t=725)
-*   **Demo 1**:  Make a simple bot using Webhooks in Microsoft Teams – [Lee Ford](http://twitter.com/lee_ford) (Symity Ltd) | @lee\_ford – [14:32](https://youtu.be/1zeXVvcBIJo?t=872)
-*   **Demo 2**:  Use the Power Platform and Microsoft Teams to quiz yourself – [Albert-Jan Schot](http://twitter.com/appieschot) (BLIS.digital) | @appieschot – [24:15](https://youtu.be/1zeXVvcBIJo?t=1455)
-*   **Demo 3**:  Updates on Independent Publisher Connectors & Cloverly / Ecologi Connector Demo – [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1 & [Troy Taylor](http://twitter.com/troystaylor) (Hitachi Solutions) | @troystaylor – [36:08](https://youtu.be/1zeXVvcBIJo?t=2168)
+*   PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert – [6:44](https://youtu.be/1zeXVvcBIJo?t=404)
+*   PnP PowerShell updates \- [Bert Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert – [8:17](https://youtu.be/1zeXVvcBIJo?t=497)
+*   yo Teams updates - [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [9:08](https://youtu.be/1zeXVvcBIJo?t=548)
+*   Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [9:48](https://youtu.be/1zeXVvcBIJo?t=588)
+*   Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd) | @pkbullock – [2:47](https://youtu.be/1zeXVvcBIJo?t=167)
+*   Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German – [11:29](https://youtu.be/1zeXVvcBIJo?t=689)
+*   Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [12:05](https://youtu.be/1zeXVvcBIJo?t=725)
+*   **Demo 1**:  Make a simple bot using Webhooks in Microsoft Teams – [Lee Ford](https://twitter.com/lee_ford) (Symity Ltd) | @lee\_ford – [14:32](https://youtu.be/1zeXVvcBIJo?t=872)
+*   **Demo 2**:  Use the Power Platform and Microsoft Teams to quiz yourself – [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS.digital) | @appieschot – [24:15](https://youtu.be/1zeXVvcBIJo?t=1455)
+*   **Demo 3**:  Updates on Independent Publisher Connectors & Cloverly / Ecologi Connector Demo – [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1 & [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @troystaylor – [36:08](https://youtu.be/1zeXVvcBIJo?t=2168)
 
 ## Resources
 
@@ -141,8 +141,8 @@ Additional resources around the covered topics and links from the slides.
 *   **D2**:  Article - [Shuffle an array with Power Automate](https://www.cloudappie.nl/shuffle-array-power-automate/) 
 *   **D3**:  Documentation - [Power Platform and Azure Logic Apps connectors documentation](https://docs.microsoft.com/connectors/) 
 *   **D3**:  Connectors - [Welcome to the Independent Publisher Connector Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors) 
-*   **Microsoft 365 PnP Weekly – Episode 151** (January 31st) with UK-based SharePoint developer, architect and MVP, [Paul Bullock](http://twitter.com/pkbullock) | @pkbullock | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-151-paul-bullock/ba-p/3091966) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-151-%E2%80%93-31st-of-january-2022/)
-*   **Microsoft 365 PnP Weekly – Episode 150** (January 24th) with London, UK-based SharePoint developer architect and MVP, [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-150-%E2%80%93-24th-of-january-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 151** (January 31st) with UK-based SharePoint developer, architect and MVP, [Paul Bullock](https://twitter.com/pkbullock) | @pkbullock | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-151-paul-bullock/ba-p/3091966) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-151-%E2%80%93-31st-of-january-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 150** (January 24th) with London, UK-based SharePoint developer architect and MVP, [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-150-%E2%80%93-24th-of-january-2022/)
 
 ## General resources
 

@@ -207,7 +207,7 @@ We welcome all community members to get involved on the community and open-sourc
     *   [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
     *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 
-*   [New Microsoft 365 Patterns and Practices (PnP) team members – November 2021](http://content\post\new-microsoft-365-patterns-and-practices-pnp-team-members.md)
+*   [New Microsoft 365 Patterns and Practices (PnP) team members – November 2021](https://pnp.github.io/community-blog/post/new-microsoft-365-patterns-and-practices-pnp-team-members)
     
     *   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed,
     *   [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1,
@@ -219,7 +219,7 @@ We welcome all community members to get involved on the community and open-sourc
     *   [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k,
     *   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 
-*   [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](content\post\new-microsoft-365-patterns-and-practices-pnp-team-members-may.md)
+*   [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](https://pnp.github.io/community-blog/post/new-microsoft-365-patterns-and-practices-pnp-team-members-may)
     
     *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo),
     *   [Patrick Lamber](https://github.com/plamber) (Experts Inside AG)
@@ -796,7 +796,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   Arvind Ravi (Microsoft)
 *   Ashima Mathur (Microsoft)
 *   [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
-*   [Bert Jansen](http://twitter.com/O365Bert) (Microsoft) | @O365Bert
+*   [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
 *   [Beverly Kim](https://github.com/bvandaal) (Microsoft) | bvandaal
 *   [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 *   [Brian Dang](https://twitter.com/mrdang) (Microsoft) | @Mrdang

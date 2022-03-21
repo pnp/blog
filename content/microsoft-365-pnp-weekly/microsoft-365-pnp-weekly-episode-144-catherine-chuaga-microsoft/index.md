@@ -12,9 +12,9 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Atlanta, US-based Senior Program Manager on the Viva
 Connections Platform team - [Catherine
 Chuaga](https://www.linkedin.com/in/wanjiru-chuaga/). 
@@ -133,7 +133,7 @@ everyone for your contributions to the community!
 -   [Speaking at the European Collaboration Summit 2021 - Infuse AI into
     your Power Platform
     solutions](https://www.sharepointnutsandbolts.com/2021/11/ECS2021.html) -
-    [Chris O'Brien](http://twitter.com/ChrisO_Brien) (Content+Cloud)
+    [Chris O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
     | @ChrisO_Brien
 -   [Episode #181 - Creating forms with Adaptive Card Extensions in
     SPFx](https://www.youtube.com/watch?v=FOZMgicX_Jo) - [Paolo

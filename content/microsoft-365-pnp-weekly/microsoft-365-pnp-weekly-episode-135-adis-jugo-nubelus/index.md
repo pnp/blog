@@ -12,9 +12,9 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by German-based MVP and founder of
 [Nubelus](https://www.nubelus.com/) - [Adis
 Jugo](https://twitter.com/adisjugo) | @adisjugo.
@@ -109,7 +109,7 @@ everyone for your contributions to the community!
     associations](https://regarding365.com/new-sharepoint-hub-to-hub-associations-2b0b1db0a933)
     - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc)
     | @DanielGlenn, [Darrell
-    Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
+    Webster](https://twitter.com/darrellaas) (Modern Workplace Change) |
     @darrellaas
 -   [Getting started with the Microsoft Teams Framework
     (TeamsFx)](https://thomy.tech/getting-started-with-the-microsoft-teams-framework-teamsfx/) -

@@ -35,7 +35,7 @@ OneDrive file components in **Microsoft Graph Toolkit**.  Released new
 [Microsoft Graph Toolkit training in Microsoft
 Learn](http://aka.ms/learn-mgt), Register now for March/April trainings
 on [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).   The
-host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
+host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout the
 call.
 
@@ -80,7 +80,7 @@ call.
 
 -   [Teams SSO with server-side Graph
     calls](https://aka.ms/TabSSO2Graph) - [Hilton
-    Giesenow](http://twitter.com/TheMossShow) | @TheMossShow & Doğan
+    Giesenow](https://twitter.com/TheMossShow) | @TheMossShow & Doğan
     Erişen.  Supporting Article - [Securely connect to Microsoft Graph
     from Teams tabs using
     SSO](https://blog.mastykarz.nl/securely-connect-microsoft-graph-teams-tabs-sso/)
@@ -118,41 +118,41 @@ Thank you for your work. Samples are often showcased in Demos.
 **Topics** covered in this call
 
 -   Updates from Microsoft 365 Engineering - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
     | @vesajuvonen - [6:29](https://youtu.be/kPGpuGPtKHM?t=389)
 
--   PnP.NET library updates - [Bert Jansen](http://twitter.com/o365bert)
+-   PnP.NET library updates - [Bert Jansen](https://twitter.com/o365bert)
     (Microsoft) | @O365bert -
     [7:24](https://youtu.be/kPGpuGPtKHM?t=444)
 
--   PnP PowerShell updates - [Bert Jansen](http://twitter.com/o365bert)
+-   PnP PowerShell updates - [Bert Jansen](https://twitter.com/o365bert)
     (Microsoft) | @O365bert -
     [10:29](https://youtu.be/kPGpuGPtKHM?t=629)
 
--   yo Teams updates - [Wictor Wilén](http://twitter.com/wictor)
+-   yo Teams updates - [Wictor Wilén](https://twitter.com/wictor)
     (Avanade) @wictor [-
     [11:42](https://youtu.be/kPGpuGPtKHM?t=702)]{style="float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: Georgia,'Times New Roman','Bitstream Charter',Times,serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none;"}
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft) |
+    Pan](https://twitter.com/beth_panx) (Microsoft) |
     [beth-panx](https://github.com/beth-panx) -
     [13:41](https://youtu.be/kPGpuGPtKHM?t=821)
 
 -   Microsoft Teams Samples - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) | @vesajuvonen -
+    Juvonen](https://twitter.com/vesajuvonen) | @vesajuvonen -
     [15:21](https://youtu.be/kPGpuGPtKHM?t=921)
 
 -   **Demo:**  Accessing comment information in list formatting and
     advance form adjustments -- [Chris
-    Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent -
+    Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent -
     [16:53](https://youtu.be/kPGpuGPtKHM?t=1013)
 
 -   **Demo:**  Getting started on using Microsoft Teams Yeoman generator
-    v3 -- [Wictor Wilén](http://twitter.com/wictor) (Avanade) |
+    v3 -- [Wictor Wilén](https://twitter.com/wictor) (Avanade) |
     @wictor - [30:54](https://youtu.be/kPGpuGPtKHM?t=1854)
 
 -   **Demo:**  The Microsoft Graph Toolkit in Teams with Blazor --
-    [Thomy Gölles](http://twitter.com/thomyg) (Solvion) | @thomyg
+    [Thomy Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
 
     \- [43:42](https://youtu.be/kPGpuGPtKHM?t=2622)
 
@@ -203,7 +203,7 @@ slides.
     Toolkit](https://www.youtube.com/watch?v=TbAZHvB5NEk)
 
 -   PnP Weekly -- Episode 118 **with** dual MVP [Veronique
-    Lengelle](http://twitter.com/veronicageek) (CPS) | @veronicageek
+    Lengelle](https://twitter.com/veronicageek) (CPS) | @veronicageek
     |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-118/ba-p/2211589)
     |
