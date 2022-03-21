@@ -197,7 +197,7 @@ development topics from
 Latest community posts at <https://aka.ms/m365pnp/community/blog>
 -   18th of October - [Michel Mendes](https://twitter.com/michelcarlo)
     (Storm Technology)
-    | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753) - [Getting
+    | @michelcarlo - [Getting
     the working hours/time zones for other users using Microsoft Graph
     API](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-the-working-hours-time-zones-for-other-users-using/ba-p/2852687)
 -   18th of October - [Arjun Menon](https://twitter.com/arjunumenon)
@@ -221,7 +221,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bulk-add-remove-users-to-microsoft-teams-using-the-cli-for/ba-p/2799296)
 -   5th of October - [Valeras
     Narbutas](https://twitter.com/ValerasNarbutas) (Macaw)
-    - [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
+    - @ValerasNarbutas
     - [TipOfTheDay - Easy Track changes in dataverse table via dataverse
     API](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/tipoftheday-easy-track-changes-in-dataverse-table-via-dataverse/ba-p/2811831)
 -   29th of September - [Luise
@@ -240,13 +240,13 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/get-permission-report-for-sharepoint-online-or-onedrive-file/ba-p/2781372)
 -   29th of September - [Simon Hudson](https://twitter.com/simonjhudson)
     (Cloud2) |
-    [@SimonJHudson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/792961) - [Looking
+    @SimonJHudson - [Looking
     at Things in
     Profile](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/looking-at-things-in-profile/ba-p/2781232)
 -   20th of September - [Reshmee
     Auckloo](https://twitter.com/ReshmeeAuckloo) (Pension Protection
     Fund)
-    | [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+    | @reshmeeauckloo
     - [PnP Batch versus Microsoft Graph Batch in PowerShell to
     add/delete 3k
     items](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/ba-p/2761214)
@@ -261,7 +261,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     flows](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/4-ways-to-level-up-your-power-automate-flows/ba-p/2763560)
 -   14th of September - [Michel Mendes](https://twitter.com/michelcarlo)
     (Storm Technology)
-    | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753) - [Hiding
+    | @michelcarlo - [Hiding
     the SharePoint page title with Power
     Automate](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/hiding-the-sharepoint-page-title-with-power-automate/ba-p/2747412)
 -   14th of September - [Chandani
@@ -272,7 +272,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
 -   13th of September - [Reshmee
     Auckloo](https://twitter.com/ReshmeeAuckloo) (Pension Protection
     Fund)
-    | [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+    | @reshmeeauckloo
     - [PnP Batch Add or Delete items from very large list, i.e. more
     than 300k
     items](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-batch-add-or-delete-items-from-very-large-list-i-e-more-than/ba-p/2739737)
@@ -1096,7 +1096,7 @@ last monthly summary:
 -   [Introduction to Microsoft Viva Connections
     extensibility](https://www.youtube.com/watch?v=t_hLU25IvKU) - [Ed
     Averett](https://twitter.com/Ed_Averett) (Microsoft) |
-    [@ed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65134)\_Averett
+    @ed\_Averett
 -   [Getting started on using Microsoft Viva Connections in your
     tenant](https://www.youtube.com/watch?v=2PJs-fO0qP8) - [Tejas
     Mehta](https://twitter.com/tpmehta) (Microsoft) | @tpmehta
@@ -1272,7 +1272,7 @@ Community demos as following: 
 -   [Power Apps Design
     Philosophy](https://www.youtube.com/watch?v=A9T_KhhfnzY) - [May
     Alhajri](https://twitter.com/MayAlhajri2) |
-    [@MayAlhajri2](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696)
+    @MayAlhajri2
 -   [Hyperscript Tagged Markup (HTM) Templating with SharePoint
     Framework](https://www.youtube.com/watch?v=G8A_L3CC25E) - [Fabio
     Franzini](https://twitter.com/franzinifabio) | @franzinifabio
@@ -1304,7 +1304,7 @@ Community demos as following: 
 -   [How To Feed Your Dragon
     Game](https://www.youtube.com/watch?v=hDDTqWLmqHc) - [Gerard
     Simpson](https://twitter.com/PowerFanAddict) |
-    [@PowerFanAddict](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145052)
+    @PowerFanAddict
 -   [List Formatting Enhanced Web
     Part](https://www.youtube.com/watch?v=B7p7_lVc8kI) - [David Warner
     II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
@@ -1316,7 +1316,7 @@ Community demos as following: 
     Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 & [Derek Cash-Peterson](https://twitter.com/spdcp)
     (Sympraxis Consulting) |
-    [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
+    @Spdcp
 -   [Using OneDrive Apps folder to save user's preferences
     cross-device](https://www.youtube.com/watch?v=EZGiEb2NlrU)
     - [Giuliano De Luca](https://twitter.com/DeLucaGiulian) |

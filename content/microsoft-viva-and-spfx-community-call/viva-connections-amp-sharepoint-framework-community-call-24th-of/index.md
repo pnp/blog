@@ -50,7 +50,7 @@ SharePoint Framework (SPFx)|**v1.14 GA**|v1.15 Preview in weeks, GA in June 2022
 [PnP SPFx Generator](https://github.com/pnp/generator-spfx)|v1.16.0|v1.17.0 on the way
 [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|v4.5.4, v3.23.0
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
 
 {{< image alt="thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 24th of February, 2022 " src="images/Feb24TogetherModeGif.gif" >}}
 
@@ -92,9 +92,9 @@ Thank you for joining the call today and/or for viewing the recording.  You are
 
 <https://aka.ms/spfx-webparts> 
 
-*   **Save to User Application Personal Folder in OneDrive\* -** [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
-*   **[React Functional Component web part with data fetch](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-functional-component-with-data-fetch) -** [Don Kirkham](http://twitter.com/donkirkham) | [@DonKirkham](/t5/user/viewprofilepage/user-id/407309)
-*   **[Datatable](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable) -** [Chandani Prajapati](http://twitter.com/Chandani_SPD) | @Chandani\_SPD
+*   **Save to User Application Personal Folder in OneDrive\* -** [Adam Wójcik](https://twitter.com/Adam25858782) | @Adam25858782
+*   **[React Functional Component web part with data fetch](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-functional-component-with-data-fetch) -** [Don Kirkham](https://twitter.com/donkirkham) | [@DonKirkham](/t5/user/viewprofilepage/user-id/407309)
+*   **[Datatable](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable) -** [Chandani Prajapati](https://twitter.com/Chandani_SPD) | @Chandani\_SPD
 
 \* To be posted soon.
 
@@ -102,9 +102,9 @@ Thank you for joining the call today and/or for viewing the recording.  You are
 
 <https://aka.ms/spfx-aces>
 
-*   **[My Shifts](https://github.com/pnp/sp-dev-fx-aces/pull/36) - [Siddharth Vaghasia](http://twitter.com/siddh_me) | @siddh\_me**
-*   **Join New Teams\* - [Aimery Thomas](http://twitter.com/aimery_thomas) | [@aimery\_thomas](/t5/user/viewprofilepage/user-id/925977)**
-*   **Office Locations\* - [Anoop Tatti](http://twitter.com/anooptells) | @anooptells**
+*   **[My Shifts](https://github.com/pnp/sp-dev-fx-aces/pull/36) - [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh\_me**
+*   **Join New Teams\* - [Aimery Thomas](https://twitter.com/aimery_thomas) | [@aimery\_thomas](/t5/user/viewprofilepage/user-id/925977)**
+*   **Office Locations\* - [Anoop Tatti](https://twitter.com/anooptells) | @anooptells**
 
 \* To be posted soon.
 
@@ -112,19 +112,19 @@ Thank you for your great work.  Samples are often showcased in Demos.    
 
 ## Agenda items
 
-*   SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [6:20](https://youtu.be/9ofUQax_Fio?t=380)
-*   PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [8:30](https://youtu.be/9ofUQax_Fio?t=510)
-*   CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [10:13](https://youtu.be/9ofUQax_Fio?t=613)
-*   PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [10:54](https://youtu.be/9ofUQax_Fio?t=654)
-*   PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [11:30](https://youtu.be/9ofUQax_Fio?t=690) 
+*   SharePoint Framework - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [6:20](https://youtu.be/9ofUQax_Fio?t=380)
+*   PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [8:30](https://youtu.be/9ofUQax_Fio?t=510)
+*   CLI for Microsoft 365 - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [10:13](https://youtu.be/9ofUQax_Fio?t=613)
+*   PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [10:54](https://youtu.be/9ofUQax_Fio?t=654)
+*   PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [11:30](https://youtu.be/9ofUQax_Fio?t=690) 
 *   PnP SPFx Samples - [Hugo Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) | @bernierh – [12:11](https://youtu.be/9ofUQax_Fio?t=731)
-*   PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [13:45](https://youtu.be/9ofUQax_Fio?t=825)
+*   PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [13:45](https://youtu.be/9ofUQax_Fio?t=825)
 
 ## Demos
 
-*   **Demo 1**:  Change Page Layout Type Command Set Extension – [Sudharsan Kesavanarayanan](http://twitter.com/sudharsank) (NTT) | @sudharsank – [15:38](https://youtu.be/9ofUQax_Fio?t=938)
-*   **Demo 2**:  Microsoft Clarity Application Customizer – [João Ferreira](http://twitter.com/joao12ferreira) (Beezy) | @joao12ferreira – [21:45](https://youtu.be/9ofUQax_Fio?t=1305)
-*   **Demo 3**:  Improvements to the Community SPFx Samples Gallery - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) | @bernierh – [31:24](https://youtu.be/9ofUQax_Fio?t=1884) 
+*   **Demo 1**:  Change Page Layout Type Command Set Extension – [Sudharsan Kesavanarayanan](https://twitter.com/sudharsank) (NTT) | @sudharsank – [15:38](https://youtu.be/9ofUQax_Fio?t=938)
+*   **Demo 2**:  Microsoft Clarity Application Customizer – [João Ferreira](https://twitter.com/joao12ferreira) (Beezy) | @joao12ferreira – [21:45](https://youtu.be/9ofUQax_Fio?t=1305)
+*   **Demo 3**:  Improvements to the Community SPFx Samples Gallery - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh – [31:24](https://youtu.be/9ofUQax_Fio?t=1884) 
 
 ## Resources
 
@@ -143,7 +143,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D3**:  Documentation - [SharePoint Framework development tools and libraries compatibility](https://docs.microsoft.com/sharepoint/dev/spfx/compatibility) 
 *   **D3**:  Tools - [Remote – Containers (Preview)](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) 
 *   **D3**:  Documentation - [Remote development in Containers](https://code.visualstudio.com/docs/remote/containers-tutorial) 
-*   **Microsoft 365 PnP Weekly – Episode 154** (February 21st) with London/India - based Developer, Product Owner, Technical Architect, MVP, [Vardhaman Deshpande](http://twitter.com/vrdmn) (Valo Solutions) | @vrdmn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-154-%e2%80%93-21st-of-february-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 154** (February 21st) with London/India - based Developer, Product Owner, Technical Architect, MVP, [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions) | @vrdmn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-154-%e2%80%93-21st-of-february-2022/)
 *   **Microsoft 365 PnP Weekly – Episode 153** (February 14th) with Redmond, Washington, US-based Senior Program Manager in the OneDrive and SharePoint organization responsible of the Power Platform integration, [Sudha Narayanan](https://www.linkedin.com/in/sudha-narayanan-3295326a/) (Microsoft) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-153-sudha-narayanan/ba-p/3164026) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-153-%E2%80%93-14th-of-february-2022/)
 
 ## General Resources
@@ -154,7 +154,7 @@ Additional resources around the covered topics and links from the slides.
 *   Tools - [Microsoft Teams Framework (TeamsFx)](https://github.com/officedev/teamsfx) 
 *   Gallery - [Microsoft 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)   
 *   [Microsoft Build sessions guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital Brochure) - aka.ms/modernworkbuildsessions
-*   SharePoint Framework - v1.12.1 npm install –g [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
+*   SharePoint Framework - v1.12.1 npm install –g @microsoft/generator-sharepoint@next
 *   [CLI for Microsoft 365 v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 *   [CodeTour](https://aka.ms/codetour)
 *   [Sharing is Caring](https://aka.ms/sharing-is-caring) | aka.ms/sharing-is-caring

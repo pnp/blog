@@ -15,14 +15,14 @@ videos:
 
 ## Call summary
 
-The following topics are covered in this month’s community call.  Demo:  **Adaptive Cards Video Player Bot on Teams** (set up an Adaptive Card that plays video content within Teams environment, complete sample code) - [Alexis Kinzelin](https://www.linkedin.com/in/alexis-kinzelin-214b6b20/) (Microsoft), and **Q&A** – [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) and [Alexis Kinzelin](https://www.linkedin.com/in/alexis-kinzelin-214b6b20/) (Microsoft) field general and demo related questions.   This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm.  Recorded on February 10, 2022.
+The following topics are covered in this month’s community call.  Demo:  **Adaptive Cards Video Player Bot on Teams** (set up an Adaptive Card that plays video content within Teams environment, complete sample code) - [Alexis Kinzelin](https://www.linkedin.com/in/alexis-kinzelin-214b6b20/) (Microsoft), and **Q&A** – [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) and [Alexis Kinzelin](https://www.linkedin.com/in/alexis-kinzelin-214b6b20/) (Microsoft) field general and demo related questions.   This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) | @jpthepm.  Recorded on February 10, 2022.
 
 {{< youtube -Y7_nNwC20w >}}
 
 ## Agenda
 
 *   Adaptive Cards Video Player Bot on Teams :movie\_camera: - [Alexis Kinzelin](https://www.linkedin.com/in/alexis-kinzelin-214b6b20/) (Microsoft) – [00:28](https://youtu.be/-Y7_nNwC20w?t=28)
-*   Q&A :white\_question\_mark: [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm and Team – [22:06](https://youtu.be/-Y7_nNwC20w?t=1326)
+*   Q&A :white\_question\_mark: [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) | @jpthepm and Team – [22:06](https://youtu.be/-Y7_nNwC20w?t=1326)
 
 ## Demo
 

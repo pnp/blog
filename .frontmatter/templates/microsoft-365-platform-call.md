@@ -28,7 +28,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 *
 *
 
-The host of this call was [HOST NAME](http://twitter.com/TWITTERACCOUNT) (COMPANY) | @USERNAME.  Q&A takes place in chat throughout and live at end of the call.   
+The host of this call was [HOST NAME](https://twitter.com/TWITTERACCOUNT) (COMPANY) | @USERNAME.  Q&A takes place in chat throughout and live at end of the call.   
 
 ## Microsoft 365 Platform News Flash
 

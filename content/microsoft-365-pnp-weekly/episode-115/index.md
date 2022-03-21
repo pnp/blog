@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=2446arMYATM
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm, are joined by Germany-based MVP, Product owner for the Valo Teamwork tool, and community contributor – [Jarbas Horst](http://twitter.com/devjhorst) – working for Finland-based Valo Intranet | [@devjhorst](/t5/user/viewprofilepage/user-id/578429).   
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm, are joined by Germany-based MVP, Product owner for the Valo Teamwork tool, and community contributor – [Jarbas Horst](https://twitter.com/devjhorst) – working for Finland-based Valo Intranet | [@devjhorst](/t5/user/viewprofilepage/user-id/578429).   
 
 The discussion touches on role transition from developer to big picture manager, what suggests a successful day, evaluating feedback, the value of being an empathetic leader, proper onboarding, and the challenge of bringing people together in remote work times.
 

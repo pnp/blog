@@ -40,7 +40,7 @@ Microsoft Build time frame.   
   Microsoft Graph Toolkit (MGT)             v2.1.0 GA, v2.2.0 Preview                                     v2.2.0 planned Build release
   ----------------------------------------- ------------------------------------------------------------- ---------------------------------------
 Additionally, one new Teams sample delivered.  The host of this call was
-[David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems)
+[David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems)
 | @DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 
@@ -75,7 +75,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   **[Kudos App (Teams Activity Feed
     API)](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-activity-feed)
-    -** [Sébastien Levert](http://twitter.com/sebastienlevert)
+    -** [Sébastien Levert](https://twitter.com/sebastienlevert)
     (Microsoft) |
     [sebastienlevert](https://github.com/sebastienlevert)
 
@@ -123,37 +123,37 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com)
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com)
     @paolopia - [4:45](https://youtu.be/pg1M9AuTaO4?t=285)
 
 -   PnP PowerShell updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com)
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com)
     @paolopia - [6:35](https://youtu.be/pg1M9AuTaO4?t=395)
 
 -   yo Teams updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) @paolopia -
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com) @paolopia -
     [7:24](https://youtu.be/pg1M9AuTaO4?t=444)
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft)
+    Pan](https://twitter.com/beth_panx) (Microsoft)
     | [beth-panx](https://github.com/beth-panx) - [8:34](https://youtu.be/pg1M9AuTaO4?t=514)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft)
+    German](https://twitter.com/Bob1German) (Microsoft)
     @Bob1German - [9:46](https://youtu.be/pg1M9AuTaO4?t=586)
 
 -   **Demo:**  Inspire, inform and prepare employees transition to the
     new hybrid Workplace transformation site -- Holland Kaviani
-    (Microsoft) & [Matt Wolodarsky](http://twitter.com/mwolodarsky)
+    (Microsoft) & [Matt Wolodarsky](https://twitter.com/mwolodarsky)
     (Microsoft) | @mwolodarsky -
     [12:34](https://youtu.be/pg1M9AuTaO4?t=754)
 
 -   **Demo:**  Querying and Paging data with PnP Core SDK -- [Paolo
-    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia -
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia -
     [25:21](https://youtu.be/pg1M9AuTaO4?t=1521)
 
 -   **Demo:**  Advanced tricks for form formatting and customization --
-    [Chris Kent](http://twitter.com/theChrisKent) (DMI) |
+    [Chris Kent](https://twitter.com/theChrisKent) (DMI) |
     @theChrisKent [-
     [43:22](https://youtu.be/pg1M9AuTaO4?t=2602)
 

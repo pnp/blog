@@ -42,7 +42,7 @@ project bug fixes, new idea prototyping, and vacationing this month.  
   ----------------------------------------- ---------------------------------------------------------------- ------------------------------
 Two new Teams samples showcasing Adaptive Cards Universal Action Model. 
 Great work!  The host of this call was [David Warner
-II](http://twitter.com/DavidWarnerII) (Catapult Systems)
+II](https://twitter.com/DavidWarnerII) (Catapult Systems)
 @DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 
@@ -83,12 +83,12 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   [**[Card Bot - Bot showcasing the Adaptive Card Universal Action
     Model in Node/TypeScript](https://aka.ms/bot-uam-cardbot)** - [Rabia
-    Williams](http://twitter.com/williamsrabia) |
+    Williams](https://twitter.com/williamsrabia) |
     [rabwill](https://github.com/rabwill)]{style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;"}
 
 -   [[**MS Teams Incident Management
     Bot**](https://aka.ms/bot-teams-incidentmanagement) - [Nanddeep
-    Nachan](http://twitter.com/NanddeepNachan) |
+    Nachan](https://twitter.com/NanddeepNachan) |
     [nanddeepn](https://github.com/nanddeepn)]{style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;"}
 {{< image alt="wave3.gif" src="images/wave3.gif" >}}
 Thank you for making time in your Summer time schedule to join us for
@@ -130,27 +130,27 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) |
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com) |
     @paolopia - [7:46](https://youtu.be/ebOtM8LpAK4?t=466)
 
 -   PnP PowerShell - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | @paolopia -
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com) | @paolopia -
     [9:01](https://youtu.be/ebOtM8LpAK4?t=541)
 
 -   yo Teams updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) | @paolopia -
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com) | @paolopia -
     [9:50](https://youtu.be/ebOtM8LpAK4?t=590)
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft)
+    Pan](https://twitter.com/beth_panx) (Microsoft)
     | [beth-panx](https://github.com/beth-panx) - [10:37](https://youtu.be/ebOtM8LpAK4?t=637)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German -
+    German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German -
     [11:55](https://youtu.be/ebOtM8LpAK4?t=715)
 
 -   Microsoft Power Platform Samples - [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) |
+    Dunnam](https://twitter.com/aprildunnam) (Microsoft) |
     @aprildunnam - [13:05](https://youtu.be/ebOtM8LpAK4?t=785)
 
 -   **Demo:**  Publish a connector to the Power Platform -- Natalie
@@ -158,7 +158,7 @@ Topics covered in this call
 
 -   **Demo:**  How to update an Adaptive Card with a Teams Messaging
     Extension and MessagePreview -- [Markus
-    Möller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0 -
+    Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0 -
     [24:29](https://youtu.be/ebOtM8LpAK4?t=1469)
 
 -   **Demo:**  ACS -- Teams InterOp with Call Routing -- Sathya

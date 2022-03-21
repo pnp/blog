@@ -382,7 +382,7 @@ PnP Weekly video blog / podcast shows:
     - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) 
 -   13th of April - [Microsoft 365 PnP Weekly - Episode
     122](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-122/ba-p/2268519)
-    - [Mark Rackley](http://twitter.com/mrackley) (PAIT Group)
+    - [Mark Rackley](https://twitter.com/mrackley) (PAIT Group)
 -   4th of April - [Microsoft 365 PnP Weekly -- Episode
     121](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-120/ba-p/2242545) -  [Nik
     Charlebois](https://twitter.com/NikCharlebois) (Microsoft)
@@ -1100,7 +1100,7 @@ Community demos as following:
     Teams tabs!](https://www.youtube.com/watch?v=GNlPXr_jgKA) - [Hardit
     Bhatia](https://twitter.com/thepoweraddict) (Hitachi Solutions
     America, Ltd.) |
-    [@ThePowerAddict](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/965791)
+    @ThePowerAddict
 -   [Surfacing your existing solution in Microsoft
     Teams](https://www.youtube.com/watch?v=jIvryvxfXmM) - [Rick Van
     Rousselt](https://twitter.com/RickVanRousselt) (Advantive) |
@@ -1108,7 +1108,7 @@ Community demos as following:
 -   [Make your Power Apps user experience awesome with Gestalt design
     principles](https://www.youtube.com/watch?v=k7LXbC49VxQ) - [Rory
     Neary](https://twitter.com/AzureRory) |
-    [@azurerory](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/449976)
+    @azurerory
 -   [Build your first Microsoft Teams
     Bot](https://www.youtube.com/watch?v=bxF2LWZcUR8) - [Stephan
     Bisser](https://twitter.com/stephanbisser) (Solvion) |
@@ -1116,7 +1116,7 @@ Community demos as following:
 -   [Live London Underground Line Status Bot in Microsoft Dataverse for
     Teams](https://www.youtube.com/watch?v=phzXxSVhYeA) - [Leon
     Armston](https://twitter.com/LeonArmston) (Intelogy) |
-    [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    @LeonArmston
 -   [Microsoft Lists formatting with header and footer
     settings](https://www.youtube.com/watch?v=4DjicVdmZHY) - [Chris
     Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent
@@ -1127,7 +1127,7 @@ Community demos as following:
 -   [Building an advanced SPFx Image Editor web
     part](https://www.youtube.com/watch?v=aNvvFz8Ab5Y) - [Peter Paul
     Kirschner](https://twitter.com/petkir_at) (cubido) |
-    [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
+    @petkir\_at
 -   [Customer scenario - Microsoft Teams integration with external
     systems](https://www.youtube.com/watch?v=Tu4_s3k7Lhc) - Kathy
     (Qinqyu) Xu (Pfizer) & [Paolo
@@ -1319,7 +1319,7 @@ please let us know.
 -   Haiye Wang - [haiyewang0717](https://github.com/haiyewang0717)
 
 -   Hardit Bhatia (Hitachi Solutions America, Ltd.) |
-    [@ThePowerAddict](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/965791)
+    @ThePowerAddict
 
 -   Hamid Malik (Smart-IS)
     - [@HamidHMalik](https://twitter.com/HamidHMalik)
@@ -1523,7 +1523,7 @@ please let us know.
 -   Rolands Strakis (Atea Global Services SIA)
     - [wonderplayer](https://github.com/wonderplayer)
 
--   Rory Neary - [@azurerory](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/449976)
+-   Rory Neary - @azurerory
 
 -   Ross Allan (PKF LittleJohn)
 

@@ -80,20 +80,20 @@ or viewing it on demand. 
 
 
 -   COE in Dataverse for Teams in the Power Platform - [Krishna
-    Vandanapu](http://twitter.com/KrishnaShp) | @KrishnaShp
+    Vandanapu](https://twitter.com/KrishnaShp) | @KrishnaShp
     - [3:50](https://youtu.be/WVQ882sHoVc?t=230)
 -   Planner Gantt chart in Power Apps - [Terho
-    Antila](http://twitter.com/terhoantila) | @terhoantila
+    Antila](https://twitter.com/terhoantila) | @terhoantila
     - [26:05](https://youtu.be/WVQ882sHoVc?t=1565)
 -   Create a digital escape room with Power Apps - [May
-    Alhajri](http://twitter.com/MayAlhajri2) |
-    [@MayAlhajri2](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696) -
+    Alhajri](https://twitter.com/MayAlhajri2) |
+    @MayAlhajri2 -
     [42:48](https://youtu.be/WVQ882sHoVc?t=2568)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) | @chass
+    Sterling](https://twitter.com/chass) (Microsoft) | @chass
     - [63:49](https://youtu.be/WVQ882sHoVc?t=3829)
 -   Latest PnP Power Apps Samples -- [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
+    Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
     - [65:02](https://youtu.be/WVQ882sHoVc?t=3902)
 
 

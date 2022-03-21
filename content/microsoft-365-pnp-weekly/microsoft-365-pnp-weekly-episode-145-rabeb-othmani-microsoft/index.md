@@ -14,11 +14,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Bristol, England, United Kingdom-based Senior Program Manager
-[Rabeb Othmani](http://twitter.com/Rabeb_Othmani) | @Rabeb_Othmani, on
+[Rabeb Othmani](https://twitter.com/Rabeb_Othmani) | @Rabeb_Othmani, on
 the Microsoft Graph Dev-X team.
 
  
@@ -109,12 +109,12 @@ everyone for your contributions to the community!
     formatted
     Lists](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/ba-p/2994438) - [Anand
     Ragav](https://twitter.com/anandVragav) (Ericsson)
-    | [@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372)
+    | @AnandVRagav
 -   [M365 Dev Podcast - Microsoft News: November
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/m365-dev-podcast-microsoft-news-november-2021/ba-p/2997175) -
     [Jeremy Thake](https://twitter.com/jthake) (Microsoft) | @jthake &
-    [Paul Schaeflein](http://twitter.com/paulschaeflein) (AddIn365)
-    | [@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113)
+    [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365)
+    | @paulschaeflein
 -   [Microsoft Graph PowerShell SDK 1.9.0
     Released](https://helloitsliam.com/2021/11/24/microsoft-graph-powershell-sdk-1-9-0-released/) -
     [Liam Cleary](https://twitter.com/helloitsliam) | @helloitsliam
@@ -123,7 +123,7 @@ everyone for your contributions to the community!
     Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @paolopia
 -   [Learn how to use Microsoft Loop with
     me](https://regarding365.com/learn-how-to-use-microsoft-loop-with-me-ea33487cc438)
-    - [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace
+    - [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace
     Change) | @darrellaas
 
  

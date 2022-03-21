@@ -34,7 +34,7 @@ components](https://aka.ms/codewithfluid), [Adaptive
 Cards](https://aka.ms/teams-dev-docs), [Microsoft Teams
 Toolkit](https://aka.ms/teams-toolkit) and [Developer
 Portal](https://aka.ms/teams-dev-docs).   The host of this call was
-[Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+[Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen.  Q&A takes place in chat throughout the call
 
 ## Actions
@@ -137,7 +137,7 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   News and updates - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen - [3:11](https://youtu.be/wwTExv2Ha4g?t=191)
 
 -   Build 2021 Recap on Microsoft Teams platform announcements -
@@ -145,7 +145,7 @@ Topics covered in this call
 
 -   **Demo:**  Kudos App sample using Teams Activity Feed API in
     Microsoft Graph -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    Levert](https://twitter.com/sebastienlevert) (Microsoft) |
     [sebastienlevert](https://github.com/sebastienlevert) -
     [15:39](https://youtu.be/wwTExv2Ha4g?t=939)
 

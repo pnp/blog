@@ -28,23 +28,23 @@ Program](https://aka.ms/m365pnp-recognition).   Welcome to 9 new members
 to the Microsoft 365 PnP Team!  We're thrilled you have joined us.  
 
 -   [Geetha
-    Sivasailam](http://twitter.com/GSiVed) | [@GSiVed](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388)
--   [João Mendes](http://twitter.com/joaojmendes) (independent/Storm
+    Sivasailam](https://twitter.com/GSiVed) | [@GSiVed](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388)
+-   [João Mendes](https://twitter.com/joaojmendes) (independent/Storm
     Technologies Ltd)
     | [@joaojmendes](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/442957)
--   [Stephan Bisser](http://twitter.com/stephanbisser) (Solvion) |
+-   [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) |
     @stephanbisser  
--   [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft)
+-   [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft)
     | @NataliePienkow1
--   [Joel Rodrigues](http://twitter.com/JoelFMRodrigues) (Storm
+-   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm
     Technology Ltd) | @JoelFMRodrigues
--   [Tetsuya Kawahara](http://twitter.com/techan_k) (MVP) | @techan_k
--   [Derek Cash-Peterson](http://twitter.com/spdcp) (Sympraxis
+-   [Tetsuya Kawahara](https://twitter.com/techan_k) (MVP) | @techan_k
+-   [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis
     Consulting)
     | [@Spdcp](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
--   [Rick Van Rousselt](http://twitter.com/rickvanrousselt) (Advantive)
+-   [Rick Van Rousselt](https://twitter.com/rickvanrousselt) (Advantive)
     | @rickvanrousselt
--   [Thomy Gölles](http://twitter.com/thomyg) (Solvion) | @thomyg
+-   [Thomy Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
 Project releases this week include **Yo teams - generator-teams** -
 v3.5.0 GA, **Yo teams - yoteams-build-core** - v1.5.0 GA, **Yo teams --
 yoteams-deploy** - v1.1.0 GA and **Microsoft Graph Toolkit (MGT)** -
@@ -71,7 +71,7 @@ While version releases are periodic, nightly releases are nightly!  Subscribe t
 
 
 As well, there were 6 new/updated script samples this week!  The host of
-this call was [David Warner II](http://twitter.com/DavidWarnerII)
+this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Catapult Systems) | @DavidWarnerII.   Q&A takes place in chat
 throughout the call.
 
@@ -142,9 +142,9 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
 Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -   2 New Samples + 4 Updated Samples🤩 -- WOW!  Contributed by
-    -   [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
-    -   [Leon Armston](http://twitter.com/LeonArmston) |
-        [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    -   [Adam Wójcik](https://twitter.com/Adam25858782) | @Adam25858782
+    -   [Leon Armston](https://twitter.com/LeonArmston) |
+        @LeonArmston
 
 -- Fabulous!
 
@@ -193,38 +193,38 @@ Request a Demo spot on the call <https://aka.ms/m365pnp/request/demo>
 Topics covered in this call
 
 -   PnP .NET library updates - [Bert
-    Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert --
+    Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert --
     [7:11](https://youtu.be/GW7THadNYtQ?t=431)
--   PnP PowerShell updates - [Bert Jansen](http://twitter.com/O365bert)
+-   PnP PowerShell updates - [Bert Jansen](https://twitter.com/O365bert)
     (Microsoft) | @O365bert --
     [8:49](https://youtu.be/GW7THadNYtQ?t=529)
--   yo Teams updates - [Wictor Wilén](http://twitter.com/wictor)
+-   yo Teams updates - [Wictor Wilén](https://twitter.com/wictor)
     (Microsoft) |
     @wictor -- [10:28](https://youtu.be/GW7THadNYtQ?t=628)
 -   Microsoft Graph Toolkit updates -[ Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft)
+    Levert](https://twitter.com/sebastienlevert) (Microsoft)
     | [sebastienlevert](https://github.com/sebastienlevert) -- [13:00](https://youtu.be/GW7THadNYtQ?t=780)
 -   Microsoft Script Samples -[ Paul
-    Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) |
+    Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd) |
     @pkbullock -- [2:30](https://youtu.be/GW7THadNYtQ?t=150)
 -   Microsoft Teams Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [15:12](https://youtu.be/GW7THadNYtQ?t=912)
 -   Microsoft Power Platform Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [15:40](https://youtu.be/GW7THadNYtQ?t=940)
 -   **Demo 1:  **[Contributors Corner - GitHub Contributions using the
     VS Code Web Editor -- ][David
-    Warner](http://twitter.com/DavidWarnerII)[ (Catapult) |
+    Warner](https://twitter.com/DavidWarnerII)[ (Catapult) |
     @DavidWarnerII ]--
     [17:26](https://youtu.be/GW7THadNYtQ?t=1046)
 -   **Demo 2:**[  Create an event page in SharePoint with SharePoint
     Spaces and custom Lists -- ][Anand
-    Ragav](http://twitter.com/anandVragav)[ |
-    [@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372) ]--
+    Ragav](https://twitter.com/anandVragav)[ |
+    @AnandVRagav ]--
     [31:59](https://youtu.be/GW7THadNYtQ?t=1919)
 -   [**Demo 3:**[  Using Randomization with List Formatting --
-    ][Chris Kent](http://twitter.com/thechriskent)[
+    ][Chris Kent](https://twitter.com/thechriskent)[
     (DMI) |
     @thechriskent ]]--
     [45:34](https://youtu.be/GW7THadNYtQ?t=2734)
@@ -263,7 +263,7 @@ slides.
 
 -   **PnP Weekly -- Episode 143** (November 15th) with Nairobi,
     Kenya-based Program Manager at Microsoft - [Roina
-    Ochieng](http://twitter.com/roinochieng) |
+    Ochieng](https://twitter.com/roinochieng) |
     @roinochieng | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/ba-p/2965580) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-143-%e2%80%93-15th-of-november-2021/)
 
 ## General resources

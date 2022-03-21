@@ -209,7 +209,7 @@ We welcome all community members to get involved on the community and open-sourc
     * [Tetsuya Kawahara](https://twitter.com/techan_k)  | @techan_k, 
     * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
 
-* [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](content\post\new-microsoft-365-patterns-and-practices-pnp-team-members-may.md) 
+* [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](https://pnp.github.io/community-blog/post/new-microsoft-365-patterns-and-practices-pnp-team-members-may) 
     * [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo),
     * [Patrick Lamber](https://github.com/plamber) (Experts Inside AG)
 * [New Microsoft 365 Patterns and Practices (PnP) team members - February 2021](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/) 
@@ -776,7 +776,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Arvind Ravi (Microsoft)
 * Ashima Mathur (Microsoft)
 * [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @aycabs
-* [Bert Jansen](http://twitter.com/O365Bert) (Microsoft) | @O365Bert
+* [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
 * [Beverly Kim](https://github.com/bvandaal) (Microsoft) | bvandaal
 * [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Brian Dang](https://twitter.com/mrdang) (Microsoft) | @mrdang
@@ -883,7 +883,7 @@ Thank you for all that you do!
 * [Emily Mancini](https://twitter.com/EEMancini) 
  (Sympraxis Consulting) | @EEMancini
 * [Geetha Sivasailam](https://twitter.com/gsived) 
-(Artis Consulting) | [@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388)
+(Artis Consulting) | @GSiVed
 * [Julie Turner](https://twitter.com/jfj1997)(Sympraxis Consulting) | @jfj1997
 * [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 * [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese

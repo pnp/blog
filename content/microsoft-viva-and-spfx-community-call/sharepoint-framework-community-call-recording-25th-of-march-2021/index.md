@@ -37,7 +37,7 @@ Property Controls** -- v2.5.0 and v3.0.0 (SPFx v1.12 support) delivered.
 Modern Search** v3.18.1 released March 9th and v4.1.0 released March
 20th.     There were six **PnP SPFx web part samples** delivered last
 2 weeks.  Great work!    The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="together-pnp-25th-march-bi-weekly.gif" src="images/together-pnp-25th-march-bi-weekly.gif" >}}
  
@@ -123,49 +123,49 @@ Communications and Quality improvements.     
 -   **[Teams Meeting Questionnaire
     App](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-teams-meeting-app-questionnaire)** -
     [Nanddeep
-    Nachan](http://twitter.com/NanddeepNachan) | [nanddeepn](https://github.com/nanddeepn),
-    [Ravi Kulkarni](http://twitter.com/RaviKul16a87) | @RaviKul16a87,
+    Nachan](https://twitter.com/NanddeepNachan) | [nanddeepn](https://github.com/nanddeepn),
+    [Ravi Kulkarni](https://twitter.com/RaviKul16a87) | @RaviKul16a87,
     [Smita
-    Nachan](http://twitter.com/SmitaNachan) | [@SmitaNachan](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/899815)
+    Nachan](https://twitter.com/SmitaNachan) | @SmitaNachan
 -   **[Questions and
     Answers](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-questions-and-answers)** -
-    [Bo George](http://twitter.com/bo_george) | @bo_george
+    [Bo George](https://twitter.com/bo_george) | @bo_george
 -   **[Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-calendar)** -
     [Peter Paul
-    Kirschner ](http://twitter.com/petkir_at)| [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
+    Kirschner ](https://twitter.com/petkir_at)| @petkir\_at
 -   **[Image
     Editor](https://github.com/pnp/sp-dev-fx-webparts/blob/master/samples/react-image-editor)** -
     [Peter Paul
-    Kirschner](http://twitter.com/petkir_at) | [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
+    Kirschner](https://twitter.com/petkir_at) | @petkir\_at
 -   **[Jump to
     Folder](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-jump-to-folder)** -
     [Joel
-    Rodrigues ](http://twitter.com/joelfmrodrigues)| @joelfmrodrigues
+    Rodrigues ](https://twitter.com/joelfmrodrigues)| @joelfmrodrigues
 -   **[Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-calendar)** -
-    [Mohammad Amer ](http://twitter.com/Mohammad3mer)| @Mohammad3mer
+    [Mohammad Amer ](https://twitter.com/Mohammad3mer)| @Mohammad3mer
 As is the case this week, samples are often showcased in Demos.  Thank
 you for your great work.
 
 ## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [7:30](https://youtu.be/K_aiG8RlBDU?t=450)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj199 -- [8:55](https://youtu.be/K_aiG8RlBDU?t=535)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [11:03](https://youtu.be/K_aiG8RlBDU?t=663)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [12:03](https://youtu.be/K_aiG8RlBDU?t=723)
 -   PnP SPFx Generator - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [13:15](https://youtu.be/K_aiG8RlBDU?t=795)
 -   PnP Modern Search - [Mikael
-    Svenson](http://twitter.com/mikaelsvenson) (Microsoft) |
-    [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173) -- [14:19](https://youtu.be/K_aiG8RlBDU?t=859)
+    Svenson](https://twitter.com/mikaelsvenson) (Microsoft) |
+    @MikaelSvenson
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     @bernierh -- [15:24](https://youtu.be/K_aiG8RlBDU?t=924)
@@ -173,20 +173,20 @@ you for your great work.
 ## Demos
 
 -   **Building extension to save documents as PDF in tenant document
-    libraries** -- [Mikael Svenson](http://twitter.com/mikaelsvenson)
+    libraries** -- [Mikael Svenson](https://twitter.com/mikaelsvenson)
     (Microsoft) |
-    [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173) -- [18:09](https://youtu.be/K_aiG8RlBDU?t=1089)
+    @MikaelSvenson
 -   **Sending messages to Microsoft Teams using Microsoft Graph from
     SharePoint Framework solution** -- [David
-    Ramalho](http://twitter.com/DavRamalho) (Storm Technology) |
-    [@davRamalho](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/718524) -- [29:17](https://youtu.be/K_aiG8RlBDU?t=1757)
+    Ramalho](https://twitter.com/DavRamalho) (Storm Technology) |
+    @davRamalho
 
 **Update: **
 
 -   **Latest on SharePoint Framework - **[Pat
-    Miller](http://twitter.com/PatMill_MSFT) (Microsoft)
+    Miller](https://twitter.com/PatMill_MSFT) (Microsoft)
     | @PatMill_MSFT & [Luca
-    Bandinelli](http://twitter.com/BandinelliLuca) (Microsoft) |
+    Bandinelli](https://twitter.com/BandinelliLuca) (Microsoft) |
     @BandinelliLuca**-** [42:48](https://youtu.be/K_aiG8RlBDU?t=2568)
 
 
@@ -221,7 +221,7 @@ slides.
     desktop](https://docs.microsoft.com/sharepoint/viva-connections-desktop) 
 
 -   PnP Weekly -- Episode 119 with guest MVP [Chris
-    O'Brien](http://twitter.com/ChrisO_Brien) | @ChrisO_Brien |
+    O'Brien](https://twitter.com/ChrisO_Brien) | @ChrisO_Brien |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-119/ba-p/2228107)
     |
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-119-22nd-of-march-2021/)

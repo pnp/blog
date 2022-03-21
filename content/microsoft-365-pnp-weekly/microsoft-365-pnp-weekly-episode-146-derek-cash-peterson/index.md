@@ -10,7 +10,7 @@ tags: []
 type: "regular"
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Reykjavik, Iceland-based Consultant and MVP, [Derek Cash-Peterson](http://twitter.com/spdcp) (Sympraxis Consulting) | @spdcp. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Reykjavik, Iceland-based Consultant and MVP, [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | @spdcp. 
 
 Topics discussed in this session:
 
@@ -72,7 +72,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 -   [Developing enterprise-ready Microsoft Teams apps with Teams ToolKit
     v3.0](https://devblogs.microsoft.com/microsoft365dev/developing-enterprise-ready-microsoft-teams-apps-with-teams-toolkit-v3-0/)
     - [Tomomi Imura](https://twitter.com/girlie_mac) (Microsoft)
-    | [@girlie_mac](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/727310)
+    | @girlie_mac
 
  
 
@@ -81,7 +81,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 -   [Creating a video portal in SharePoint with JSON formatted document
     library](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/creating-a-video-portal-in-sharepoint-with-json-formatted/ba-p/3016104)
     - [Anand Ragav](https://twitter.com/anandVragav) (Ericsson)
-    | [@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372)
+    | @AnandVRagav
 -   [Dataverse search: the good, the bad and the
     ugly](http://jopx.blogspot.com/2021/12/dataverse-search-good-bad-and-ugly.html)
     - [Joris Poelmans](https://twitter.com/jopxtwits)
@@ -101,7 +101,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 -   [Extract All Table Data (Rows) In A Form Using SharePoint
     Syntex](https://www.leonarmston.com/2021/12/extract-all-table-data-rows-using-sharepoint-syntex/) -
     [Leon Armston](https://twitter.com/LeonArmston) (Intelogy)
-    | [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    | @LeonArmston
 -   [Episode #183 - Extending Microsoft Viva Connections Desktop with
     SPFx](https://www.youtube.com/watch?v=5E-XVKUHQpE) - [Paolo
     Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @paolopia
@@ -109,7 +109,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     Formatting in
     SharePoint](https://www.youtube.com/watch?v=pP8DcE-V8uA) - [Giuliano
     De Luca](https://twitter.com/DeLucaGiulian)
-    | [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    | @delucagiulian
 
 ## Additional resources
 

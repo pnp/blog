@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=Pz9OpquGDfU
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by a Partner at the US-based consultancy PAIT Group and Microsoft 365 MVP [Mark Rackley](http://twitter.com/mrackley) | @mrackley. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by a Partner at the US-based consultancy PAIT Group and Microsoft 365 MVP [Mark Rackley](https://twitter.com/mrackley) | @mrackley. 
 
 Topics discussed in this session include:   Hillbilly tabs, North American Collaboration Summit, how the transition from on-Prem to Cloud along with a talented PnP community has impacted the need to customize applications.  Hiring based on who's available, managing the pace of change and customer expectations, deployment planning, and the business unit customer's interest in Microsoft Viva experience.
 

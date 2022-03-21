@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=x9N6PfGN5QI
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by are joined Canadian based Senior Program Manager from Microsoft Graph team [Nik Charlebois](https://twitter.com/NikCharlebois) | @NikCharlebois. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by are joined Canadian based Senior Program Manager from Microsoft Graph team [Nik Charlebois](https://twitter.com/NikCharlebois) | @NikCharlebois. 
 
 Topics discussed in this session include Nik's career development in Canada from being a customer, then moving to Microsoft as a Premier Field Engineer and also on his recent role change on moving to the Microsoft Graph team. They focus on his current responsibilities on driving usage for [Microsoft Graph data connect](https://docs.microsoft.com/graph/data-connect-overview), which helps on accessing information in Microsoft 365. They also talk about [Microsoft 365 DSC](https://microsoft365dsc.com/) open-source work which Nik has been driving for a long time to be able to have desired state configuration for Microsoft 365 tenants.
 
@@ -44,7 +44,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 -   [Install Viva Connections
     today](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/install-viva-connections-today/ba-p/2245410) -
     [Mike Holste](https://twitter.com/Mike_Holste) (Microsoft)
-    | [@Mike](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/18377)\_Holste
+    | @Mike\_Holste
 -   [What's New in Microsoft Teams | February and March
     2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-february-and-march-2021/ba-p/2245944) -
     Microsoft
@@ -85,7 +85,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 -   [SPFx Image Editor Sample - Playing with
     Canvas](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/spfx-image-editor-sample-playing-with-canvas/ba-p/2232131)
     - [Peter Paul Kirschner](https://twitter.com/petkir_at) (cubido)
-    | [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
+    | @petkir\_at
 -   [CLI for Microsoft 365
     v3.8](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v3-8/ba-p/2245593) -
     [Garry Trinder](https://twitter.com/garrytrinder) (CPS)
@@ -107,7 +107,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 -   [Create Viva Connections App Using PnP PowerShell
     (Publish-PnPCompanyApp)](https://www.leonarmston.com/2021/04/create-viva-connections-app-using-pnp-powershell/) -
     [Leon Armston](https://twitter.com/LeonArmston) (Intelogy)
-    | [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    | @LeonArmston
 -   [Microsoft Teams | SharePoint Permissions: 7 Things to
     consider](https://tracyvanderschyff.com/2021/04/03/microsoft-teams-sharepoint-permissions-7-things-to-consider/)
     - [Tracy van der Schyff](https://twitter.com/tracyvds) | @tracyvds

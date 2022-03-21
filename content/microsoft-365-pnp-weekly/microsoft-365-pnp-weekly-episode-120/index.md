@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=aOqPUHh7beY
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Italy/US-based Senior Consultant at his own company PiaSys.com, PnP Team member, and Microsoft MVP [Paolo Pialorsi](http://twitter.com/paolopia) | @paolopia. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Italy/US-based Senior Consultant at his own company PiaSys.com, PnP Team member, and Microsoft MVP [Paolo Pialorsi](https://twitter.com/paolopia) | @paolopia. 
 
 Topics discussed in this session include the SharePoint 20th anniversary party, changes in PnP since Paolo's last appearance as a guest on the show 2 years ago, PnP Provisioning Engine, the value of the PnP Core SDK, and the scoop on Paolo's weekly video tutorials.  A very interesting deep dive on the approach behind PnP Sites Core library (Now PnP Core SDK -- the Modern developer experience for building apps for SPO and Microsoft Teams in .NET with a Microsoft Graph first, falling back to SharePoint Rest APIs approach). 
 
@@ -98,7 +98,7 @@ everyone for your contributions to the community!\
 -   [How to determine web part size with SPFx
     v1.12](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-determine-web-part-size-with-spfx-v1-12/ba-p/2230898)
     - [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group)
-    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    | @yhabersaat
 -   [New VSCode extension for autocompleting your Microsoft Graph
     APIs](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-vscode-extension-for-autocompleting-your-microsoft-graph/ba-p/2231013) -
     [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting)
@@ -116,7 +116,7 @@ everyone for your contributions to the community!\
     [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 -   [Using the PnP Modern Search Web
     Parts](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/using-the-pnp-modern-search-web-parts/ba-p/2239771)
-    -- [Will Holland](http://twitter.com/_wcholland) (ThreeWill) |
+    -- [Will Holland](https://twitter.com/_wcholland) (ThreeWill) |
     @\_wcholland
 -   [How to use Azure CLI to Generate Documentation for Azure AD
     Applications?](https://blog.josephvelliah.com/document-aad-applications) -

@@ -41,15 +41,15 @@ platform.   
     Paul Schaeflein (Addin365).
 -   **PnP Weekly -- Episode 143** (November 15th) with Nairobi,
     Kenya-based Program Manager at Microsoft - [Roina
-    Ochieng](http://twitter.com/roinochieng) |
+    Ochieng](https://twitter.com/roinochieng) |
     @roinochieng | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/ba-p/2965580) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-143-%e2%80%93-15th-of-november-2021/)
 -   Hear about this week's top 9 Microsoft 365 Platform related stories
     and view 2 demos from Microsoft presenters about working with the
     Microsoft 365 platform.
 
 The host of this call was [Brian T.
-Jackett](http://twitter.com/BrianTJackett) (Microsoft)
-*|*[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A takes
+Jackett](https://twitter.com/BrianTJackett) (Microsoft)
+*|*@BrianTJackett.  Q&A takes
 place in chat throughout the call
 
 **Microsoft 365 Platform News Flash**
@@ -132,15 +132,15 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
-    Jackett](http://twitter.com/BrianTJackett) (Microsoft) *|*
+    Jackett](https://twitter.com/BrianTJackett) (Microsoft) *|*
     @BrianTJackett -- [5:45](https://youtu.be/HlLv3AQ-btk?t=345)
 -   **Demo 1:**  Getting started on building Microsoft Teams tabs with
     Adaptive Cards - [Loki Meyburg](https://twitter.com/LokiMeyburg) |
     @LokiMeyburg -- [8:30](https://youtu.be/HlLv3AQ-btk?t=510)
 -   **Demo 2:**  Microsoft Learn Module - Extend Microsoft Viva
     Connections with Web Parts - [Waldek
-    Mastykarz](http://twitter.com/waldekm) | @waldekm & [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) | @vesajuvonen --
+    Mastykarz](https://twitter.com/waldekm) | @waldekm & [Vesa
+    Juvonen](https://twitter.com/vesajuvonen) | @vesajuvonen --
     [27:34](https://youtu.be/HlLv3AQ-btk?t=1654)
 
 

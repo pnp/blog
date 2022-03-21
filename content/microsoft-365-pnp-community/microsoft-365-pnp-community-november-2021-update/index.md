@@ -1260,7 +1260,7 @@ Community demos as following: 
     Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 -   [Introduction to the new PnP Transformation
     Framework](https://www.youtube.com/watch?v=j4CsZd8VNN4) - [Bert
-    Jansen](http://twitter.com/O365Bert) (Microsoft) | @O365Bert
+    Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
     and [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) |
     @PaoloPia
 -   [At a Glance Web Part and Viva Adaptive Card
@@ -1274,7 +1274,7 @@ Community demos as following: 
 -   [How to get Microsoft Certified in the Power
     Platform](https://www.youtube.com/watch?v=-Bde4OsWClE) - [Sheryl
     Netley](https://twitter.com/SherylNetley) | @SherylNetley and
-    [Jese Navaranjan](http://twitter.com/JeseNav2) (Avanade) |
+    [Jese Navaranjan](https://twitter.com/JeseNav2) (Avanade) |
     @JeseNav
 -   [PokéBubbles Game created with Power
     Apps](https://www.youtube.com/watch?v=FYtVhclFBT8) - [Michelle
@@ -1498,7 +1498,7 @@ please let us know.
     | @JenniferBruce13
 -   [[Jeremy Hancock](https://www.twitter.com/ozippy)]{.underline} |
     @ozippy
--   [Jese Navaranjan](http://twitter.com/JeseNav2) (Avanade) |
+-   [Jese Navaranjan](https://twitter.com/JeseNav2) (Avanade) |
     @JeseNav
 -   [Jim
     Love](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fjimmywim&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=M%2BetG%2BYa%2FAjHfOnZ%2FfoOto9C1PEmqvjRWrMBZE78iOo%3D&reserved=0) (ID
@@ -1799,7 +1799,7 @@ closely involved with the PnP work during last month.
 -   [[Arijit Mondal](https://www.github.com/ArijitCloud)]{.underline}
     (Microsoft)
 -   Ayca Bas - [@aycabs](https://twitter.com/aycabs)
--   [Bert Jansen](http://twitter.com/O365Bert) (Microsoft) | @O365Bert
+-   [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
 -   Beth Pan - [@beth_panx](https://twitter.com/beth_panx)
 -   Beverly Kim - [bvandaal](https://github.com/bvandaal)
 -   [Bob German](https://twitter.com/Bob1German) (Microsoft) |

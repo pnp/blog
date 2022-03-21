@@ -56,7 +56,7 @@ indicating you can use *any* version of key dependencies:
     Inst\...](https://www.voitanos.io/blog/spfx-which-version-of-spfx-generator-to-install/)
 
 That last post mentions version 1.9.1 of
-[@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint,
+@microsoft/generator-sharepoint,
 which is what I used.  But it was the latest at the time of that post. 
 I had trouble with later versions, which it recommended (but did caveat
 that they may not work).  Your mileage may vary.

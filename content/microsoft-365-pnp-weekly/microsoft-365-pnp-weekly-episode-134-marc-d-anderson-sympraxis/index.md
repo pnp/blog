@@ -13,11 +13,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Boston-based MVP and founder of Sympraxis Consulting - [Marc D
-Anderson](http://twitter.com/sympmarc) | @sympmarc.  
+Anderson](https://twitter.com/sympmarc) | @sympmarc.  
 
  
 
@@ -109,7 +109,7 @@ everyone for your contributions to the community!\
     upload feature in the Microsoft
     Gr\...](https://developer.microsoft.com/microsoft-365/blogs/announcing-a-new-microsoft-teams-authentication-provider-and-file-upload-feature-in-the-microsoft-graph-toolkit/) -
     [Elise Yang](https://twitter.com/elisenyang) (Microsoft)
-    | [@elisenyang](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/803417)
+    | @elisenyang
 -   [Breaking changes to the me/assignments endpoint in the Microsoft
     Graph Assignments API
     (beta)](https://developer.microsoft.com/microsoft-365/blogs/breaking-changes-to-the-me-assignments-endpoint-in-the-microsoft-graph-assignments-api-beta/) -
@@ -140,7 +140,7 @@ everyone for your contributions to the community!\
     300k
     items](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-batch-add-or-delete-items-from-very-large-list-i-e-more-than/ba-p/2739737)
     - [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)
-    | [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+    | @reshmeeauckloo
 -   [Meeting apps in Microsoft Teams (1) --
     Pre-meeting](https://mmsharepoint.wordpress.com/2021/09/07/meeting-apps-in-microsoft-teams-1-pre-meeting/) -
     [Markus Möller](https://twitter.com/Moeller2_0) (Avanade)
@@ -148,7 +148,7 @@ everyone for your contributions to the community!\
 -   [Hiding the SharePoint page title with Power
     Automate](https://michelcarlo.com/2021/09/11/hiding-the-sharepoint-page-title-with-power-automate/)
     - [Michel Mendes](https://twitter.com/michelcarlo) (Storm Technology
-    Ltd) | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
+    Ltd) | @michelcarlo
 -   [The Weekday and Calendar functions in Power
     Apps](https://sharepains.com/2021/09/10/weekday-calendar-functions-power-apps/) -
     [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT

@@ -14,11 +14,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Sweden based MVP and Chief Technical Architect at Advania -
-[Simon Ågren](http://twitter.com/agrenpoint) | @agrenpoint.   Simon
+[Simon Ågren](https://twitter.com/agrenpoint) | @agrenpoint.   Simon
 was last on PnP Weekly exactly 100 episodes ago.    
 
  
@@ -117,8 +117,8 @@ everyone for your contributions to the community!
 
 -   [Customizing Lists best practices \[guest blog and
     video\]](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/customizing-lists-best-practices-guest-blog-and-video/ba-p/2858509) -
-    [Norm Young](http://twitter.com/stormin_30) (UnlimitedViz)
-    | [@stormin_30](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/764913)
+    [Norm Young](https://twitter.com/stormin_30) (UnlimitedViz)
+    | @stormin_30
 -   [How 3 makers, 2 devs and a princess came together to save kittens
     for a
     hackathon](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/ba-p/2877335) -

@@ -12,7 +12,7 @@ tags: []
 videos:
 - https://www.youtube.com/watch?v=y1Xdo40kYRA
 ---
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Porto, Portugal-based MVP, [João Mendes](http://twitter.com/joaojmendes.) – Senior Office 365 Solution/Architect Developer, Storm Technology Ltd | [@joaojmendes](/t5/user/viewprofilepage/user-id/442957).     
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Porto, Portugal-based MVP, [João Mendes](https://twitter.com/joaojmendes.) – Senior Office 365 Solution/Architect Developer, Storm Technology Ltd | [@joaojmendes](/t5/user/viewprofilepage/user-id/442957).     
 
 The episode’s discussion focuses on being familiar with your tools in order to create beautiful apps, the need for a Fluent tutorial, and top features that could be added to SPFx one day and on João’s story-filled career.
 

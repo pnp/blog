@@ -379,16 +379,16 @@ PnP Weekly video blog / podcast shows:
     Charlebois](https://twitter.com/NikCharlebois) (Microsoft)
 -   30th of March - [Microsoft 365 PnP Weekly -- Episode
     120](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-120/ba-p/2242545) - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys)
+    Pialorsi](https://twitter.com/paolopia) (PiaSys)
 -   23rd of March - [Microsoft 365 PnP Weekly -- Episode
     119](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-119/ba-p/2228107) - [Chris
-    O'Brien](http://twitter.com/ChrisO_Brien) (Content+Cloud)
+    O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud)
 -   16th of March - [Microsoft 365 PnP Weekly -- Episode
     118](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-118/ba-p/2211589) -  [Veronique
-    Lengelle](http://twitter.com/veronicageek) ([CPS](https://www.cps.co.uk/))
+    Lengelle](https://twitter.com/veronicageek) ([CPS](https://www.cps.co.uk/))
 -   9th of March - [Microsoft 365 PnP Weekly -- Episode
     117](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-117/ba-p/2193707) - [Bert
-    Jansen](http://twitter.com/o365bert) (Microsoft)
+    Jansen](https://twitter.com/o365bert) (Microsoft)
 We highly recommend also subscribing on the [Microsoft 365 Developer
 Podcast show](https://www.m365devpodcast.com/), which is a great show
 covering also latest development in the Microsoft 365 platform from
@@ -923,7 +923,7 @@ last monthly summary:
 -   [Building extension to save documents as PDF in tenant document
     libraries](https://www.youtube.com/watch?v=K7IodsvoN-A) - [Mikael
     Svenson](https://twitter.com/mikaelsvenson) (Microsoft) |
-    [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173)
+    @MikaelSvenson
 -   [Jeff Teper's Beatles-inspired \"SharePoint at 20\" birthday
     singalong
     :birthday_cake::guitar:](https://www.youtube.com/watch?v=4oCGiR9CDUU) -
@@ -945,7 +945,7 @@ last monthly summary:
     articles from pages
     library](https://www.youtube.com/watch?v=QM5CKu6Xcso) - [Mikael
     Svenson](https://twitter.com/mikaelsvenson) (Microsoft) |
-    [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173)
+    @MikaelSvenson
 -   [Using Kiota to generate a TypeScript SDK for Microsoft
     Graph](https://www.youtube.com/watch?v=q-MIYdo1K8Q) - [Vincent
     Biret](https://twitter.com/baywet) (Microsoft) | @baywet
@@ -974,9 +974,9 @@ last monthly summary:
 -   [Getting started with Power Apps
     ALM](https://www.youtube.com/watch?v=_jeFTasxYNk) - [Phil
     Topness](https://twitter.com/topness) (Microsoft) |
-    [@topness](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/278943), [Mike
+    @topness, [Mike
     Ochs](https://twitter.com/MikeFactorial) (Exalents) |
-    [@mikefactorial](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/350360) & [Marc
+    @mikefactorial & [Marc
     Scgweigert](https://twitter.com/devkeydet) (Microsoft) | @devkeyde
 -   [Utilizing Mobile First Device Capabilities for Microsoft Teams
     Apps](https://www.youtube.com/watch?v=30R0oFpGN_I) - Anuj Bahl
@@ -987,7 +987,7 @@ last monthly summary:
 -   [Office Scripts Tutorial: Scripting for
     Beginners](https://www.youtube.com/watch?v=oeP4cb6rpso) - [Ayushi
     Garg](https://twitter.com/ayushi_at_msft) (Microsoft)
-    | [@Ayushi](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/409353)\_at_msft
+    | @Ayushi\_at_msft
 Community demos as following:
 -   [PnP Watch Party - Building Apps with Microsoft Graph - Learn
     Together](https://www.youtube.com/watch?v=ueyEZf4stfY) - David Warne
@@ -996,7 +996,7 @@ Community demos as following:
     SharePoint Framework
     solution](https://www.youtube.com/watch?v=E1xXHsRTb7E) - [David
     Ramalho](https://twitter.com/DavRamalho) (Storm Technology) |
-    [@davRamalho](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/718524)
+    @davRamalho
 -   [The Microsoft Graph Toolkit in Microsoft Teams with
     Blazor](https://www.youtube.com/watch?v=U9SQcxKpq1g) - [Thomy
     Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
@@ -1033,7 +1033,7 @@ Community demos as following:
 -   [Add Folder Command Extension for easy doc library structure
     management](https://www.youtube.com/watch?v=Oqg_S1CLsss) - [Michaël
     Maillot](https://twitter.com/michael_maillot) (onepoint) |
-    [@michael](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/43617)\_maillot
+    @michael\_maillot
 -   [Using reusable chart controls to present business data in a web
     part](https://www.youtube.com/watch?v=U_rtVSyM6_I) - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) | @bernierh

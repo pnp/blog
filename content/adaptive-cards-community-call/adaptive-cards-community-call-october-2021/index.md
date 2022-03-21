@@ -23,7 +23,7 @@ Roca (Microsoft) and finally
 teams fielded questions on a host of topics for the last 20 minutes on
 this call.   
 - This call was hosted by [J.P.
-Roca](http://twitter.com/jpthepm) (Microsoft) | @jpthepm.  Recorded on
+Roca](https://twitter.com/jpthepm) (Microsoft) | @jpthepm.  Recorded on
 October 14, 2021.
 
 ## Agenda
@@ -31,7 +31,7 @@ October 14, 2021.
 -   FactSet + Adaptive Cards :handshake:- Matt Pineau (FactSet) and
     Andrew Curtice (FactSet) --
     [00:29](https://youtu.be/zr8TiZZB5_k?t=29)
--   v1.5 Release :loudspeaker: - [J.P. Roca](http://twitter.com/jpthepm)
+-   v1.5 Release :loudspeaker: - [J.P. Roca](https://twitter.com/jpthepm)
     (Microsoft) | @jpthepm --
     [23:42](https://youtu.be/zr8TiZZB5_k?t=1422)
 -   Q&A :white_question_mark: - with members of Microsoft Developer and

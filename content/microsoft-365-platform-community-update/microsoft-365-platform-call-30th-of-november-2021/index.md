@@ -44,7 +44,7 @@ platform.   
     Paul Schaeflein (Addin365).
 -   **PnP Weekly -- Episode 145** (November 29th) with Bristol,
     England, United Kingdom-based Senior Program Manager [Rabeb
-    Othmani](http://twitter.com/Rabeb_Othmani) | @Rabeb_Othmani, on
+    Othmani](https://twitter.com/Rabeb_Othmani) | @Rabeb_Othmani, on
     the Microsoft Graph Dev-X
     team. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-145-%e2%80%93-29th-of-november-2021/)
 -   The great people, supportive organizations and solid work done in
@@ -53,7 +53,7 @@ platform.   
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-november-2021-update/ba-p/2992931). 
 
 The host of this call was [Sébastien
-Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+Levert](https://twitter.com/sebastienlevert) (Microsoft) |
 [sebastienlevert](https://github.com/sebastienlevert).  Q&A takes
 place in chat throughout the call.   
 
@@ -132,18 +132,18 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    Levert](https://twitter.com/sebastienlevert) (Microsoft) |
     @sebastienlevert -- [9:00](https://youtu.be/nzPfDZFbvm0?t=540)
 -   **D1**: Microsoft 365 Application Certification - Arpitha Dhanapathi
     (Microsoft) | *Intro only as technical issues precluded capturing
     the full recording*. -- [12:01](https://youtu.be/nzPfDZFbvm0?t=721)
 -   **D2:**  Consume a multi-tenant API within Viva Connections Adaptive
     Card Extensions (ACEs) -- [Paolo
-    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia &
-    [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia &
+    [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [14:33](https://youtu.be/nzPfDZFbvm0?t=873)
 -   **D3:**  Introduction to Microsoft Graph Go SDK -- [Vincent
-    Biret](http://twitter.com/baywet) (Microsoft) | @baywet --
+    Biret](https://twitter.com/baywet) (Microsoft) | @baywet --
     [28:56](https://youtu.be/nzPfDZFbvm0?t=1736)
 
 

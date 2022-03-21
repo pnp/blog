@@ -23,14 +23,14 @@ complete; and ActionSet Overflow due out end of September - J.P. Roca
 - **Q&A** -- members of the Developer team and PM
 team fielded questions on a host of topics for 8 minutes.
 - This call
-was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) |
+was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) |
 @jpthepm. Recorded on September 9, 2021.
 
 ## Agenda
 
 -   Microsoft Search and Adaptive Cards - Jyoti Pal (Microsoft) --
     [1:00](https://youtu.be/Gc-Wc6D9mx4?t=60)
--   A closer look at v1.5 SDK - [J.P. Roca](http://twitter.com/jpthepm)
+-   A closer look at v1.5 SDK - [J.P. Roca](https://twitter.com/jpthepm)
     (Microsoft) | @jpthepm --
     [25:39](https://youtu.be/Gc-Wc6D9mx4?t=1539)
 -   Q&A with members of Microsoft Developer and PM teams --

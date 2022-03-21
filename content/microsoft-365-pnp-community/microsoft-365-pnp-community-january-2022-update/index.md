@@ -335,11 +335,11 @@ open-source efforts. Your input do matter!
     November
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members/ba-p/2953966) - [Geetha
     Sivasailam](https://twitter.com/gsived) (Artis Consulting)
-    | [@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388), [Natalie
+    | @GSiVed, [Natalie
     Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft)
     | @NataliePienkow1, [Derek
     Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting)
-    | [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549), [João J.
+    | @Spdcp, [João J.
     Mendes](https://twitter.com/joaojmendes) (Valo)
     | [joaojmendes](https://github.com/joaojmendes), [Joel
     Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology)
@@ -670,7 +670,7 @@ These are the latest connectors: 
 -   [Weather
     Forecast](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/WeatherForecast) - [Haimantika
     Mitra](https://twitter.com/HaimantikaM) (Microsoft) |
-    [@HaimantikaM](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1201804)
+    @HaimantikaM
 -   [Carbon
     Intensity](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Carbon%20Intensity) --
     Hasan Unlu
@@ -686,9 +686,9 @@ These are the latest connectors: 
 -   [What3Words](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/What3Words) - [Matt
     Beard](https://twitter.com/mattybeard) (Data8) | @mattybeard
 -   [FreeAgent](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/FreeAgent) - [Nirmal](https://twitter.com/nirmal_kumar)|
-    [@Nirmal_kumar](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/797905)
+    @Nirmal_kumar
 -   [ITGlue](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/ITGlue) - [Nirmal](https://twitter.com/nirmal_kumar) |
-    [@Nirmal_kumar](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/797905)
+    @Nirmal_kumar
 -   [Jira
     Search](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/JiraSearch)- [Paul
     Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) |
@@ -707,7 +707,7 @@ These are the latest connectors: 
 -   [GoQR](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/GoQR) - [Rui
     Santos](https://www.linkedin.com/in/ruisantosnor/) (Microsoft)
 -   myStrom - [Tomasz Poszytek](https://twitter.com/TomaszPoszytek)|
-    [@TomaszPoszytek](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/335682)
+    @TomaszPoszytek
 -   Clearbit - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi
     Solutions) |
     [troystaylor](https://github.com/troystaylor)
@@ -1262,7 +1262,7 @@ closely involved with the PnP work during last month.
     | @aprildunnam
 -   [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 -   Ayca Bas (Microsoft)- [@aycabs](https://twitter.com/aycabs)
--   [+Bert Jansen](http://twitter.com/O365Bert) (Microsoft) |
+-   [+Bert Jansen](https://twitter.com/O365Bert) (Microsoft) |
     @O365Bert
 -   Beth Pan - [@beth_panx](https://twitter.com/beth_panx)
 -   Beverly Kim - [bvandaal](https://github.com/bvandaal)
@@ -1388,7 +1388,7 @@ Thank you for all that you do!
 -   [David Warner II](https://twitter.com/DavidWarnerII) (Catapult)
     | @DavidWarnerII
 -   [+Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis
-    Consulting) | [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
+    Consulting) | @Spdcp
 -   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf
     Consulting) | @eliostruyf
 -   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis
@@ -1400,7 +1400,7 @@ Thank you for all that you do!
 -   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions)
     | @gautamdsheth
 -   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting)
-    | [@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388)
+    | @GSiVed
 -   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions)
     | [joaojmendes](https://github.com/joaojmendes)
 -   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm
@@ -1441,7 +1441,7 @@ Here are the Microsoft Internal PnP Core team members:
 -   [Hugo Bernier](https://twitter.com/bernierh) | @bernierh
 -   [Koen Zomers](https://twitter.com/koenzomers) | @koenzomers
 -   [Mikael Svenson](https://twitter.com/mikaelsvenson)
-    | [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173)
+    | @MikaelSvenson
 -   [Natalie
     Pienkowska](https://twitter.com/NataliePienkow1) | @NataliePienkow1
 -   [Patrick Rodgers](https://twitter.com/mediocrebowler)

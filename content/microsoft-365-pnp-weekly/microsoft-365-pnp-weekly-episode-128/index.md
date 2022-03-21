@@ -13,11 +13,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by US-based, Microsoft Senior Product Designer on the SharePoint
-Team, [Katie Swanson](http://twitter.com/kswansondesign) (Microsoft) |
+Team, [Katie Swanson](https://twitter.com/kswansondesign) (Microsoft) |
 @kswansondesign.   Topics discussed in this session include:  The art
 of the possible, the design process and baking in customer feedback,
 accessibility testing, evolution of and possible future updates to

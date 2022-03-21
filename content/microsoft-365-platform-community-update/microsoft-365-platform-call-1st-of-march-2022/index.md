@@ -32,7 +32,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 *   Hear about the latest 4 Microsoft 365 Platform related stories and view 3 great demos delivered by Microsoft presenters on the latest capabilities of the Microsoft 365 platform.
 *   New series launched – [Learn from the community](https://aka.ms/LearnFromTheCommunity/ThisWeek).  This week’s article:  [Learn from the community: Low-code Q&A bot for Microsoft Teams helps communities provide better onbo...](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-low-code-qa-bot-for-microsoft-teams-helps-communities-provide-better-onboarding-process/).  Sign up to [Share your story](https://aka.ms/share-your-story)
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and live at end of the call.   
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and live at end of the call.   
 
 ## Microsoft 365 Platform News Flash
 
@@ -77,10 +77,10 @@ Thank you for your creativity and work execution.   Samples are often showcase
 
 ## Topics
 
-*   Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [7:33](https://youtu.be/fUElSw9OQN8?t=453)
+*   Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [7:33](https://youtu.be/fUElSw9OQN8?t=453)
 *   **D1**:  What's new with Profile Photos API on Microsoft Graph – Harald Liavaag (Microsoft) – [11:45](https://youtu.be/fUElSw9OQN8?t=705)
-*   **D2**:  Engineering update on SharePoint Framework - 1.14 and next steps – Luca Bandinelli (Microsoft), John Nguyen (Microsoft), [Alex Terentiev](http://twitter.com/alexaterentiev) (Microsoft) | @alexaterentiev, [Siddharth Gulati](http://twitter.com/sidvaani) (Microsoft) | @sidvaani – [22:20](https://youtu.be/fUElSw9OQN8?t=1340)
-*   **D3**:  Building Microsoft Graph Toolkit apps with React – [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [38:44](https://youtu.be/fUElSw9OQN8?t=2324)
+*   **D2**:  Engineering update on SharePoint Framework - 1.14 and next steps – Luca Bandinelli (Microsoft), John Nguyen (Microsoft), [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @alexaterentiev, [Siddharth Gulati](https://twitter.com/sidvaani) (Microsoft) | @sidvaani – [22:20](https://youtu.be/fUElSw9OQN8?t=1340)
+*   **D3**:  Building Microsoft Graph Toolkit apps with React – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [38:44](https://youtu.be/fUElSw9OQN8?t=2324)
 
 ## Resources
 
@@ -99,7 +99,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D3:**  MGT Demos Playlist **\-** [Microsoft Graph Toolkit – YouTube](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUVLPfpm0QL4DVQ8Rw2Md5k)
 *   **D3:**  Issues – [MGT Issus](https://github.com/microsoftgraph/microsoft-graph-toolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) | [aka.ms/mgt/issues](https://aka.ms/mgt/issues)
 *   **D3:**  Learn – [Develop apps with the Microsoft Graph Toolkit](https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa) | [https://aka.ms/mgt/learn](https://aka.ms/mgt/learn) 
-*   **Microsoft 365 PnP Weekly – Episode 155** (February 28th) with Dubai based, Senior Cloud Advocate, [Ayça Baş](http://twitter.com/aycabs) (Microsoft) | @aycabs| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/ba-p/3221686) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-155-%e2%80%93-28th-of-february-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 155** (February 28th) with Dubai based, Senior Cloud Advocate, [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/ba-p/3221686) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-155-%e2%80%93-28th-of-february-2022/)
 
 ## General resources
 

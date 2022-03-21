@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=m-nvCyXmQiQ
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Dubai based, Senior Cloud Advocate, [Ayça Baş](http://twitter.com/aycabs) (Microsoft) | @aycabs
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Dubai based, Senior Cloud Advocate, [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs
 
 Topics discussed in this session:
 
@@ -48,7 +48,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 *   [What’s New in Microsoft Teams | February 2022](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-february-2022/ba-p/3215410) - Microsoft
 *   [Best practices for successful large meetings in Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/best-practices-for-successful-large-meetings-in-microsoft-teams/ba-p/3201971) - Siunie Sutjahjo (Microsoft)
 *   [Learn from the community: Microsoft AI MVP designs a Microsoft Teams bot to centralize tools for emp...](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-microsoft-ai-mvp-designs-a-microsoft-teams-bot-to-centralize-tools-for-employees/) - [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs
-*   [Syntex product updates – February 2022](https://techcommunity.microsoft.com/t5/sharepoint-syntex-blog/syntex-product-updates-february-2022/ba-p/3206102) - [Chris McNulty](http://twitter.com/cmcnulty2000) (Microsoft) | @cmcnulty2000
+*   [Syntex product updates – February 2022](https://techcommunity.microsoft.com/t5/sharepoint-syntex-blog/syntex-product-updates-february-2022/ba-p/3206102) - [Chris McNulty](https://twitter.com/cmcnulty2000) (Microsoft) | @cmcnulty2000
 
 ## Community articles
 
@@ -70,7 +70,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Additional resources
 
-*   Demo - [Learn from the Community – Introduction to new weekly initiative](https://youtu.be/627L2Lz5K3w?t=1382) – [Ayça Baş](http://twitter.com/aycabs) (Microsoft) | @aycabs.  New project application form - [https://aka.ms/share-your-story](https://aka.ms/share-your-story)
+*   Demo - [Learn from the Community – Introduction to new weekly initiative](https://youtu.be/627L2Lz5K3w?t=1382) – [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs.  New project application form - [https://aka.ms/share-your-story](https://aka.ms/share-your-story)
 *   [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/) program
 *   [Adafruit](https://www.adafruit.com/about)
 *   Microsoft 365 Unified Sample Gallery (preview) - [https://aka.ms/m365/samples](https://aka.ms/m365/samples) 

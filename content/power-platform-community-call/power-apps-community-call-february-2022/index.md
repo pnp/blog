@@ -17,14 +17,14 @@ videos:
 
 ## Call summary
 
-Topics covered in this month’s community call includes 2 demos:  **Make your wishes come true with Power Apps** (Good Deeds App - 3 Lists, 3 E-mail addresses and 2 Flows) - [Pranav Khurana](https://www.linkedin.com/in/pranav-khurana-uk/) and **Spice up your Power Apps with SVGs** (options - ranging from static to interactive - for adding SVG graphics with little code to your Power Apps) - [Robin Rosengrün](https://www.linkedin.com/in/robin-rosengr%C3%BCn-ab35091b6/)  (EnBW).  **Recent Power Apps News and Community Contributions** (Power Apps and Power Apps Portals code releases and new Dataverse auditing features) – [Todd Baginski](http://twitter.com/toddbaginski) (Canviz).   ACTION:  Please vote on [What to call this call](https://aka.ms/PPCommunityCallVote)?   This call was hosted by [Todd Baginski](http://twitter.com/toddbaginski) (Canviz). The call was recorded on February 16, 2022.  Questions addressed in chat throughout the call. 
+Topics covered in this month’s community call includes 2 demos:  **Make your wishes come true with Power Apps** (Good Deeds App - 3 Lists, 3 E-mail addresses and 2 Flows) - [Pranav Khurana](https://www.linkedin.com/in/pranav-khurana-uk/) and **Spice up your Power Apps with SVGs** (options - ranging from static to interactive - for adding SVG graphics with little code to your Power Apps) - [Robin Rosengrün](https://www.linkedin.com/in/robin-rosengr%C3%BCn-ab35091b6/)  (EnBW).  **Recent Power Apps News and Community Contributions** (Power Apps and Power Apps Portals code releases and new Dataverse auditing features) – [Todd Baginski](https://twitter.com/toddbaginski) (Canviz).   ACTION:  Please vote on [What to call this call](https://aka.ms/PPCommunityCallVote)?   This call was hosted by [Todd Baginski](https://twitter.com/toddbaginski) (Canviz). The call was recorded on February 16, 2022.  Questions addressed in chat throughout the call. 
 
 ## Agenda
 
-*   **Power Apps Community events and resources** - [Todd Baginski](http://twitter.com/toddbaginski) (Canviz) | [@ToddBaginski](/t5/user/viewprofilepage/user-id/720073) – [3:06](https://youtu.be/asoz_WxvfeY?t=186)
+*   **Power Apps Community events and resources** - [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | [@ToddBaginski](/t5/user/viewprofilepage/user-id/720073) – [3:06](https://youtu.be/asoz_WxvfeY?t=186)
 *   **Demo 1**:  Make your wishes come true with Power Apps - [Pranav Khurana](https://www.linkedin.com/in/pranav-khurana-uk/) – [7:20](https://youtu.be/asoz_WxvfeY?t=440) 
 *   **Demo 2**:  Spice up your Power Apps with SVGs - [Robin Rosengrün](https://www.linkedin.com/in/robin-rosengr%C3%BCn-ab35091b6/) (EnBW) – [22:54](https://youtu.be/asoz_WxvfeY?t=1374) 
-*   **Recent Power Apps News and Community Contributions** – [Todd Baginski](http://twitter.com/toddbaginski) (Canviz) | [@ToddBaginski](/t5/user/viewprofilepage/user-id/720073) – [44:48](https://youtu.be/asoz_WxvfeY?t=2688)
+*   **Recent Power Apps News and Community Contributions** – [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | [@ToddBaginski](/t5/user/viewprofilepage/user-id/720073) – [44:48](https://youtu.be/asoz_WxvfeY?t=2688)
 
 ## Demos
 

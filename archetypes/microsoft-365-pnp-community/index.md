@@ -40,23 +40,23 @@ The initiative is facilitated by Microsoft, but we have multiple community membe
 Here are the latest blog posts and announcements around Microsoft 365 development topics from [https://developer.microsoft.com/microsoft-365/blogs](https://developer.microsoft.com/microsoft-365/blogs)
 
 
-*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](http://twitter.com/TWITTER) | @TWITTER
-*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](http://twitter.com/TWITTER) | @TWITTER
-*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](http://twitter.com/TWITTER) | @TWITTER      
+*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER
+*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER
+*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER      
 
 ### Microsoft 365 Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
-*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](http://twitter.com/TWITTER) | @TWITTER
-*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](http://twitter.com/TWITTER) | @TWITTER
-*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](http://twitter.com/TWITTER) | @TWITTER   
+*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER
+*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER
+*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER   
 
 ### Community call recording blog posts
 
-*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](http://twitter.com/TWITTER) | @TWITTER
-*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](http://twitter.com/TWITTER) | @TWITTER
-*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](http://twitter.com/TWITTER) | @TWITTER   
+*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER
+*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER
+*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER   
 
 ## Microsoft 365 Developer Podcasts
 
@@ -175,7 +175,7 @@ We welcome all community members to get involved on the community and open-sourc
     *   [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
     *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 
-*   [New Microsoft 365 Patterns and Practices (PnP) team members – November 2021](http://content\post\new-microsoft-365-patterns-and-practices-pnp-team-members.md)
+*   [New Microsoft 365 Patterns and Practices (PnP) team members – November 2021](https://pnp.github.io/community-blog/post/new-microsoft-365-patterns-and-practices-pnp-team-members)
     
     *   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed,
     *   [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1,
@@ -187,7 +187,7 @@ We welcome all community members to get involved on the community and open-sourc
     *   [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k,
     *   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 
-*   [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](content\post\new-microsoft-365-patterns-and-practices-pnp-team-members-may.md)
+*   [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](https://pnp.github.io/community-blog/post/new-microsoft-365-patterns-and-practices-pnp-team-members-may)
     
     *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo),
     *   [Patrick Lamber](https://github.com/plamber) (Experts Inside AG)
@@ -297,9 +297,9 @@ If you are interested on Microsoft Teams samples, we have just released also new
 
 ![thumbnail image 8 of blog post titled Microsoft 365 Platform Community (PnP) – {{ dateFormat "January 2006" .Date}} update ](images/powerplatform-samples.png)
 
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER  
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER  
 
 There was also numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location
 
@@ -315,9 +315,9 @@ We welcome all scripts on Microsoft 365 automation to this centralized repositor
 
 Here are the latest updates on the Script Samples:
 
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER   
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER   
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative.
 
@@ -333,9 +333,9 @@ For more information, you can watch this video on [Publish a connector to the Pu
 
 #### These are the latest connectors
 
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER  
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER  
 
 ### Sharing is Caring initiative
 
@@ -380,15 +380,15 @@ You can find all Microsoft 365 related videos on our YouTube Channel at [https:/
 
 Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER  
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER  
 
 ### Community demo videos
 
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
-*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER  
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+*   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER  
 
 ## Key contributors to the {{ dateFormat "January 2006" .Date}} update
 
@@ -420,9 +420,9 @@ MVP Community team manages the Microsoft 365 platform community work in the GitH
 
 Thank you for all that you do!
 
-*   [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
+*   [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani_SPD
 *   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
-*   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | [@gSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388)
+*   Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @gSiVed
 *   [Julie Turner](https://twitter.com/jfj1997)(Sympraxis Consulting) | @Jfj1997
 *   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 *   [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese

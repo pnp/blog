@@ -1664,7 +1664,7 @@ LITHIUM.RenderedScripts = [
 <LI>Hear about the latest 4 Microsoft 365 Platform related stories and view 3 great demos delivered by Microsoft presenters on the latest capabilities of the Microsoft 365 platform.</LI>
 <LI>New series launched – <A href="https://aka.ms/LearnFromTheCommunity/ThisWeek" target="_blank" rel="noopener noreferrer">Learn from the community</A>.&nbsp; This week’s article:&nbsp; <A href="https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-low-code-qa-bot-for-microsoft-teams-helps-communities-provide-better-onboarding-process/" target="_blank" rel="noopener noreferrer">Learn from the community: Low-code Q&amp;A bot for Microsoft Teams helps communities provide better onbo...</A>.&nbsp; Sign up to <A href="https://aka.ms/share-your-story" target="_blank" rel="noopener noreferrer">Share your story</A></LI>
 </UL>
-<P>The host of this call was <A href="http://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A> (Microsoft) | @vesajuvonen.&nbsp; Q&amp;A takes place in chat throughout and live at end of the call. &nbsp;&nbsp;</P>
+<P>The host of this call was <A href="https://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A> (Microsoft) | @vesajuvonen.&nbsp; Q&amp;A takes place in chat throughout and live at end of the call. &nbsp;&nbsp;</P>
 <P>&nbsp;</P>
 <P><STRONG>Microsoft 365 Platform News Flash</STRONG></P>
 <UL>
@@ -1719,10 +1719,10 @@ LITHIUM.RenderedScripts = [
 <P>&nbsp;</P>
 <P><STRONG>Topics</STRONG><SPAN>&nbsp;</SPAN>covered in this call</P>
 <UL>
-<LI>Latest updates and news on the Microsoft 365 platform – <A href="http://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A> (Microsoft) | @vesajuvonen – <A href="https://youtu.be/fUElSw9OQN8?t=453" target="_blank" rel="noopener nofollow noreferrer">7:33</A></LI>
+<LI>Latest updates and news on the Microsoft 365 platform – <A href="https://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A> (Microsoft) | @vesajuvonen – <A href="https://youtu.be/fUElSw9OQN8?t=453" target="_blank" rel="noopener nofollow noreferrer">7:33</A></LI>
 <LI><STRONG>D1</STRONG>:&nbsp; What's new with Profile Photos API on Microsoft Graph – Harald Liavaag (Microsoft) – <A href="https://youtu.be/fUElSw9OQN8?t=705" target="_blank" rel="noopener nofollow noreferrer">11:45</A></LI>
-<LI><STRONG>D2</STRONG>:&nbsp; Engineering update on SharePoint Framework - 1.14 and next steps – Luca Bandinelli (Microsoft), John Nguyen (Microsoft), <A href="http://twitter.com/alexaterentiev" target="_blank" rel="noopener nofollow noreferrer">Alex Terentiev</A> (Microsoft) | @alexaterentiev, <A href="http://twitter.com/sidvaani" target="_blank" rel="noopener nofollow noreferrer">Siddharth Gulati</A> (Microsoft) | @sidvaani – <A href="https://youtu.be/fUElSw9OQN8?t=1340" target="_blank" rel="noopener nofollow noreferrer">22:20</A></LI>
-<LI><STRONG>D3</STRONG>:&nbsp; Building Microsoft Graph Toolkit apps with React – <A href="http://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A>&nbsp;(Microsoft) | <a href="/t5/user/viewprofilepage/user-id/926766">@sebastienlevert</a> – <A href="https://youtu.be/fUElSw9OQN8?t=2324" target="_blank" rel="noopener nofollow noreferrer">38:44</A></LI>
+<LI><STRONG>D2</STRONG>:&nbsp; Engineering update on SharePoint Framework - 1.14 and next steps – Luca Bandinelli (Microsoft), John Nguyen (Microsoft), <A href="https://twitter.com/alexaterentiev" target="_blank" rel="noopener nofollow noreferrer">Alex Terentiev</A> (Microsoft) | @alexaterentiev, <A href="https://twitter.com/sidvaani" target="_blank" rel="noopener nofollow noreferrer">Siddharth Gulati</A> (Microsoft) | @sidvaani – <A href="https://youtu.be/fUElSw9OQN8?t=1340" target="_blank" rel="noopener nofollow noreferrer">22:20</A></LI>
+<LI><STRONG>D3</STRONG>:&nbsp; Building Microsoft Graph Toolkit apps with React – <A href="https://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A>&nbsp;(Microsoft) | <a href="/t5/user/viewprofilepage/user-id/926766">@sebastienlevert</a> – <A href="https://youtu.be/fUElSw9OQN8?t=2324" target="_blank" rel="noopener nofollow noreferrer">38:44</A></LI>
 </UL>
 <P>&nbsp;</P>
 <P><STRONG>Resources:</STRONG></P>
@@ -1761,7 +1761,7 @@ LITHIUM.RenderedScripts = [
 <P><STRONG>D3:&nbsp;&nbsp;</STRONG>Issues –<SPAN>&nbsp;</SPAN><A href="https://github.com/microsoftgraph/microsoft-graph-toolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc" target="_blank" rel="noopener noreferrer">MGT Issus</A><SPAN>&nbsp;</SPAN>|<SPAN>&nbsp;</SPAN><A href="https://aka.ms/mgt/issues" target="_blank" rel="noopener noreferrer">aka.ms/mgt/issues</A></P>
 </LI>
 <LI><STRONG>D3:&nbsp;&nbsp;</STRONG>Learn –<SPAN>&nbsp;</SPAN><A href="https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa" target="_blank" rel="noopener noreferrer">Develop apps with the Microsoft Graph Toolkit</A><SPAN>&nbsp;</SPAN>|<SPAN>&nbsp;</SPAN><A href="https://aka.ms/mgt/learn" target="_blank" rel="noopener noreferrer">https://aka.ms/mgt/learn</A>&nbsp;</LI>
-<LI><STRONG>Microsoft 365 PnP Weekly – Episode 155</STRONG> (February 28<SUP>th</SUP>) with Dubai based, Senior Cloud Advocate,&nbsp;<A href="http://twitter.com/aycabs" target="_blank" rel="noopener nofollow noreferrer">Ayça Baş</A>&nbsp;(Microsoft) | @aycabs|&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/ba-p/3221686" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-155-%e2%80%93-28th-of-february-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></LI>
+<LI><STRONG>Microsoft 365 PnP Weekly – Episode 155</STRONG> (February 28<SUP>th</SUP>) with Dubai based, Senior Cloud Advocate,&nbsp;<A href="https://twitter.com/aycabs" target="_blank" rel="noopener nofollow noreferrer">Ayça Baş</A>&nbsp;(Microsoft) | @aycabs|&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/ba-p/3221686" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-155-%e2%80%93-28th-of-february-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></LI>
 </UL>
 <P>&nbsp;</P>
 <P><STRONG>General resources</STRONG>:</P>
@@ -2991,7 +2991,7 @@ LITHIUM.RenderedScripts = [
             </a>
         </li>
         <li class="social-share-option">
-            <a class="social-share-link social-share-twitter" href="http://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Microsoft 365 Platform Call – 1st of March, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-1st-of-march-2022/ba-p/3235822?attachment-id=50320" target="_blank" title="Share to Twitter">
+            <a class="social-share-link social-share-twitter" href="https://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Microsoft 365 Platform Call – 1st of March, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-1st-of-march-2022/ba-p/3235822?attachment-id=50320" target="_blank" title="Share to Twitter">
                 <span class="social-share-title">Share to Twitter</span>
             </a>
         </li>

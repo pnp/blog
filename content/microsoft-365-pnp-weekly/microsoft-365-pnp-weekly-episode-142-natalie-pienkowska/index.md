@@ -13,11 +13,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by New York, US / Porto, Portugal-based Program Manager at
-Microsoft - [Natalie Pienkowska](http://twitter.com/NataliePienkow1) |
+Microsoft - [Natalie Pienkowska](https://twitter.com/NataliePienkow1) |
 @ NataliePienkow1.
 
  
@@ -94,7 +94,7 @@ everyone for your contributions to the community!
 -   [Rich, secure content and collaboration for hybrid work -- Ignite
     2021
     announcements](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/rich-secure-content-and-collaboration-for-hybrid-work-ignite/ba-p/2892338)
-    - [Jeff Teper](http://twitter.com/jeffteper) (Microsoft) |
+    - [Jeff Teper](https://twitter.com/jeffteper) (Microsoft) |
     @jeffteper
 -   [Announcing new Microsoft Viva partner
     integrations](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-new-microsoft-viva-partner-integrations/ba-p/2911173) -
@@ -102,11 +102,11 @@ everyone for your contributions to the community!
     Ramakrishnan](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1191416)
 -   [Stay in the flow of work with new collaborative apps for Microsoft
     Teams](https://www.microsoft.com/microsoft-365/blog/2021/11/02/stay-in-the-flow-of-work-with-new-collaborative-apps-for-microsoft-teams/)
-    - [Nicole Herskowitz](http://twitter.com/nicolelamb) (Microsoft) |
+    - [Nicole Herskowitz](https://twitter.com/nicolelamb) (Microsoft) |
     @nicolelamb
 -   [Ignite 2021: Building apps for collaboration in a hybrid
     world](https://devblogs.microsoft.com/microsoft365dev/ignite-2021-building-apps-for-collaboration-in-a-hybrid-world/)
-    - [Ben Summers](http://twitter.com/bensum365) (Microsoft) |
+    - [Ben Summers](https://twitter.com/bensum365) (Microsoft) |
     @bensum365
 -   [Microsoft 365 Developer Program launches new instant sandbox with
     Teams sample data
@@ -114,10 +114,10 @@ everyone for your contributions to the community!
     [Michael Aldridge](https://www.linkedin.com/in/mikeald/)
 -   [Power Platform News Rewind Microsoft Ignite
     2021](https://www.youtube.com/watch?v=_eI3gSpWtiU) - [April
-    Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
+    Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 -   [New Microsoft 365 hybrid work and collaboration experiences to save
     you time](https://www.youtube.com/watch?v=yo22l1RUiLc) - [Omar
-    Shahine](http://twitter.com/OmarShahine) (Microsoft) |
+    Shahine](https://twitter.com/OmarShahine) (Microsoft) |
     @OmarShahine
 
  
@@ -142,14 +142,14 @@ everyone for your contributions to the community!
 -   [Configure Postman to be easily used with any Azure AD protected API
     (SharePoint, Graph, custom
     etc.)](https://spblog.net/post/2021/11/02/configure-postman-to-be-easily-used-with-any-azure-ad-protected-api-sharepoint-graph-etc)
-    - [Sergei Sergeev](http://twitter.com/sergeev_srg) | @sergeev_srg
+    - [Sergei Sergeev](https://twitter.com/sergeev_srg) | @sergeev_srg
 -   [Episode #179 - Consuming Microsoft Graph data in SPFx
     ACEs](https://www.youtube.com/watch?v=6yS4m6rEXyk) - [Paolo
     Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @paolopia
 -   [How to create custom site templates in
     SharePoint](https://www.youtube.com/watch?v=ENCBbgAa-6U) - [Giuliano
-    De Luca](http://twitter.com/DeLucaGiulian) |
-    [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    De Luca](https://twitter.com/DeLucaGiulian) |
+    @delucagiulian
 -   [How to use Microsoft Loop components early in Microsoft
     Teams](https://www.youtube.com/watch?v=xQGOovY79VE) - [Darrell
     Webster](https://twitter.com/DarrellaaS) (WM Reply) | @DarrellaaS

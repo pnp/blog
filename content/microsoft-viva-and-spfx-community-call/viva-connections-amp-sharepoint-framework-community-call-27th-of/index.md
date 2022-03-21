@@ -47,7 +47,7 @@ SharePoint Framework (SPFx)|v1.13 GA, **updated v1.14 (beta 5) public developer 
 [PnP SPFx Generator](https://github.com/pnp/generator-spfx)|v1.16.0|v1.17.0 on the way
 [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|v4.5.3, v3.23.0
 
-The host of this call is [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997.  Q&A takes place as always in chat throughout the call.
+The host of this call is [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997.  Q&A takes place as always in chat throughout the call.
 
 {{< image alt="thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 27th of January, 2022 " src="images/220127-together-mode.gif" >}}
 
@@ -91,16 +91,16 @@ Thank you for joining the call today and/or for viewing the recording.  Awesome
 
 <https://aka.ms/spfx-webparts>
 
-*   **[My Approvals](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-my-approvals)** - [Takashi Shinohara](http://twitter.com/karamem0) | [@karamem0](/t5/user/viewprofilepage/user-id/229602)
-*   **[Custom property pane controls](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-custompropertypanecontrols)** - [Alex Terentiev](http://twitter.com/alexaterentiev) | @alexaterentiev
+*   **[My Approvals](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-my-approvals)** - [Takashi Shinohara](https://twitter.com/karamem0) | [@karamem0](/t5/user/viewprofilepage/user-id/229602)
+*   **[Custom property pane controls](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-custompropertypanecontrols)** - [Alex Terentiev](https://twitter.com/alexaterentiev) | @alexaterentiev
 
 ## PnP SPFx ACEs
 
 <https://aka.ms/spfx-aces>
 
 *   [**ACE Forms – CRUD Operations**](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-SharePoint-CRUD) - Derek Cash-Peterson | [@Spdcp](/t5/user/viewprofilepage/user-id/386549)
-*   **Football Stats**\* - [Soumit Mukherjee](http://twitter.com/msoumit) | @msoumit, Soumyadeep Mukherjee and Sourav Paul
-*   **People Details**\* - [Soumit Mukherjee](http://twitter.com/msoumit) | @msoumit, Soumyadeep Mukherjee and Sourav Paul
+*   **Football Stats**\* - [Soumit Mukherjee](https://twitter.com/msoumit) | @msoumit, Soumyadeep Mukherjee and Sourav Paul
+*   **People Details**\* - [Soumit Mukherjee](https://twitter.com/msoumit) | @msoumit, Soumyadeep Mukherjee and Sourav Paul
 
 \* To be posted soon.
 
@@ -108,21 +108,21 @@ Thank you for your great work.  Samples are often showcased in Demos.    
 
 ## Agenda items
 
-*   SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [5:01](https://youtu.be/WkFVkFKPDMc?t=301)
-*   PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [8:08](https://youtu.be/WkFVkFKPDMc?t=488)
-*   CLI for Microsoft 365 - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [8:47](https://youtu.be/WkFVkFKPDMc?t=527)
-*   PnP SPFx Controls - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [9:19](https://youtu.be/WkFVkFKPDMc?t=559)
-*   PnP Modern Search \- [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [10:00](https://youtu.be/WkFVkFKPDMc?t=600) 
+*   SharePoint Framework - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [5:01](https://youtu.be/WkFVkFKPDMc?t=301)
+*   PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [8:08](https://youtu.be/WkFVkFKPDMc?t=488)
+*   CLI for Microsoft 365 - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [8:47](https://youtu.be/WkFVkFKPDMc?t=527)
+*   PnP SPFx Controls - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [9:19](https://youtu.be/WkFVkFKPDMc?t=559)
+*   PnP Modern Search \- [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [10:00](https://youtu.be/WkFVkFKPDMc?t=600) 
 *   PnP SPFx Samples - [Hugo Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) | @bernierh – [10:42](https://youtu.be/WkFVkFKPDMc?t=642)
-*   PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [11:42](https://youtu.be/WkFVkFKPDMc?t=702)
+*   PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [11:42](https://youtu.be/WkFVkFKPDMc?t=702)
 
 ## Demos
 
-*   **Demo 1**:  CRUD Operations in Viva Connections – Adaptive Card Extensions with SharePoint Framework – [Derek Cash-Peterson](http://twitter.com/spdcp) (Sympraxis Consulting) | [@Spdcp](/t5/user/viewprofilepage/user-id/386549) – [13:46](https://youtu.be/WkFVkFKPDMc?t=826) 
+*   **Demo 1**:  CRUD Operations in Viva Connections – Adaptive Card Extensions with SharePoint Framework – [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | [@Spdcp](/t5/user/viewprofilepage/user-id/386549) – [13:46](https://youtu.be/WkFVkFKPDMc?t=826) 
     
-*   **Demo 2**:  Viva Connections – Data Binding in SPFx Adaptive Card Extensions – [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia – [21:37](https://youtu.be/WkFVkFKPDMc?t=1297)
+*   **Demo 2**:  Viva Connections – Data Binding in SPFx Adaptive Card Extensions – [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia – [21:37](https://youtu.be/WkFVkFKPDMc?t=1297)
     
-*   **Demo 3**:  SPFx Design Guidance – Property pane input validation and error messages – [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) | @bernierh – [41:39](https://youtu.be/WkFVkFKPDMc?t=2499) 
+*   **Demo 3**:  SPFx Design Guidance – Property pane input validation and error messages – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh – [41:39](https://youtu.be/WkFVkFKPDMc?t=2499) 
     
 
 ## Resources
@@ -139,14 +139,14 @@ Additional resources around the covered topics and links from the slides.
 *   **D3**:  Documentation - [Validate web part property values](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/validate-web-part-property-values) 
 *   **D3**:  Documentation - [Make your SharePoint client-side web part configurable](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/basics/integrate-with-property-pane) 
 *   **D3**:  Documentation - [Integrate web part properties with SharePoint](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/integrate-web-part-properties-with-sharepoint) 
-*   **D3**:  Previous demos from [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) | @bernierh, on SPFx Design Patterns series
+*   **D3**:  Previous demos from [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh, on SPFx Design Patterns series
     *   [SharePoint Framework Design Patterns – Custom Web Part Properties (Part 3)](https://youtu.be/iMbQyxdPcSU?t=2632) – 13 January
     *   [SPFx Design Patterns – Custom Properties (Part 2)](https://youtu.be/--4erl4oE7Q?t=1619) – 30 December
     *   [SPFx Design Patterns – Custom Properties (Part 1)](https://youtu.be/8QrZOw4UmL0) – 4 November
     *   [SPFx Design Patterns – Property Panes](https://youtu.be/L1b812A-U-E) \- 21 October
-*   **PnP Weekly – Episode 150** (January 24th) with London, UK-based SharePoint developer architect and MVP, [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-150-%E2%80%93-24th-of-january-2022/)
+*   **PnP Weekly – Episode 150** (January 24th) with London, UK-based SharePoint developer architect and MVP, [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-150-%E2%80%93-24th-of-january-2022/)
     
-    **PnP Weekly – Episode 149** (January 17th) with Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph, [Rabia Williams](http://twitter.com/williamsrabia) (Microsoft) | @williamsrabia | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/)
+    **PnP Weekly – Episode 149** (January 17th) with Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph, [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/)
     
 
 ## General Resources
@@ -158,7 +158,7 @@ Additional resources around the covered topics and links from the slides.
     
 *   Gallery - [Microsoft 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)   
 *   [Microsoft Build sessions guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital Brochure) - aka.ms/modernworkbuildsessions
-*   SharePoint Framework - v1.12.1 npm install –g [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
+*   SharePoint Framework - v1.12.1 npm install –g @microsoft/generator-sharepoint@next
 *   [CLI for Microsoft 365 v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 *   [CodeTour](https://aka.ms/codetour)
 *   [Sharing is Caring](https://aka.ms/sharing-is-caring) | aka.ms/sharing-is-caring

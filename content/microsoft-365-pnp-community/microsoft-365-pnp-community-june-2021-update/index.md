@@ -948,9 +948,9 @@ last monthly summary:
 -   [Populate your Excel templates dynamically using Office Scripts and
     Power Automate](https://www.youtube.com/watch?v=LHDfyxf9BNc)
     - [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) |
-    [@NancyatMSFT](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/918701) & [Damien
+    @NancyatMSFT & [Damien
     Bird](https://twitter.com/DamoBird365) (DamoBird365) |
-    [@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
+    @DamoBird365
 -   [SharePoint Syntex integration and automation
     options](https://www.youtube.com/watch?v=AN8I51MTirY) - [Bert
     Jansen](https://twitter.com/o365bert) (Microsoft) | @o365bert
@@ -1054,7 +1054,7 @@ Community demos as following:
 -   [Using Microsoft Graph Toolkit to easily access files in Sites and
     in OneDrive](https://www.youtube.com/watch?v=Xgna1iH55k8) - [André
     Lage](https://twitter.com/aaclage) (Datalynx AG) |
-    [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
+    @aaclage
 -   [Getting started on building Microsoft Teams meeting
     apps](https://www.youtube.com/watch?v=IkEHWsDr3_k) - [Rick van
     Rousselt](https://twitter.com/RickVanRousselt) (Advantive) |

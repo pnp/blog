@@ -36,7 +36,7 @@ Register now for March/April trainings on
  [Register to join fellow community
 members](https://aka.ms/pnpwatchparty) to watch the 2-hour livestream -
 Building Apps with Microsoft Graph, on the 14th of April. The host of
-this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
+this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
 | @vesajuvonen.  Q&A takes place in chat throughout the call
 
 ## Actions
@@ -85,7 +85,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   [**Questionnaire Teams Meeting
     App**](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-teams-meeting-app-questionnaire) -
-    [Nanddeep Nachan](http://twitter.com/NanddeepNachan) |
+    [Nanddeep Nachan](https://twitter.com/NanddeepNachan) |
     [nanddeepn](https://github.com/nanddeepn), Ravi
     Kulkarni, and Smita Nachan
 {{< image alt="1st-april-together-mode.gif" src="images/1st-april-together-mode.gif" >}}
@@ -134,39 +134,39 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Updates from Microsoft 365 Engineering - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
     | @vesajuvonen - [7:23](https://youtu.be/BDkZqbL2YAk?t=443)
 
 -   PnP.NET library updates - [Bert
-    Jansen](http://twitter.com/o365bert) (Microsoft) | @O365bert
+    Jansen](https://twitter.com/o365bert) (Microsoft) | @O365bert
     - [9:06](https://youtu.be/BDkZqbL2YAk?t=546)
 
 -   PnP PowerShell updates - [Erwin van
-    Hunen](http://twitter.com/erwinvanhunen) (Valo Intranet) |
+    Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) |
     @erwinvanhunen - [11:08](https://youtu.be/BDkZqbL2YAk?t=668)
 
 -   yo Teams updates - [Wictor
-    Wilén](http://twitter.com/wictor) (Avanade) @wictor -
+    Wilén](https://twitter.com/wictor) (Avanade) @wictor -
     [13:07](https://youtu.be/BDkZqbL2YAk?t=787)
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft)
+    Pan](https://twitter.com/beth_panx) (Microsoft)
     | [beth-panx](https://github.com/beth-panx) - [14:23](https://youtu.be/BDkZqbL2YAk?t=863)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) |
+    German](https://twitter.com/Bob1German) (Microsoft) |
     @Bob1German - [16:17](https://youtu.be/BDkZqbL2YAk?t=977)
 
 -   **Demo:**  List group header formatting options -- Naveed Ahmed
     (Microsoft) - [17:56](https://youtu.be/BDkZqbL2YAk?t=1076)
 
 -   **Demo:**  Introduction to PnP Core SDK - Getting started -- [Bert
-    Jansen](http://twitter.com/O365Bert) (Microsoft) | @O365Bert -
+    Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert -
     [25:54](https://youtu.be/BDkZqbL2YAk?t=1554)
 
 -   **Demo:**  Customer scenario - Microsoft Teams integration with
     external systems -- Kathy (Qingyu) Xu (Pfizer) and [Paolo
-    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia -
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia -
     [43:43](https://youtu.be/BDkZqbL2YAk?t=2623)
 
 
@@ -200,7 +200,7 @@ slides.
 -   Templates & Components - [Teams React UI
     Library](https://dev-int.teams.microsoft.com/storybook/main/index.html)
 -   PnP Weekly -- Episode 120 with guest MVP [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys) | @paolopia |
+    Pialorsi](https://twitter.com/paolopia) (PiaSys) | @paolopia |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-120/ba-p/2242545)
     |
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-120-29th-of-march-2021/)

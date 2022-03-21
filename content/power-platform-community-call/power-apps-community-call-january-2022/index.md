@@ -14,14 +14,14 @@ summary: "Topics covered in this month’s community call includes 2 demos:  Po
 ## Call summary
 
 Topics covered in this month’s community call includes 2 demos:  
-**Power Audio Player** (Canvas app, modified audio control functionality, SharePoint list back-end) - [Shadrack Inusah](http://twitter.com/kojo_shaddy) (DreamOval) and 
+**Power Audio Player** (Canvas app, modified audio control functionality, SharePoint list back-end) - [Shadrack Inusah](https://twitter.com/kojo_shaddy) (DreamOval) and 
 **New Pay as you go Features** (Public Preview -  Power Apps Premium environments with Azure subscription) - [Kavishi Agarwal](https://www.linkedin.com/in/kavishi-agarwal-28507a51/) (Microsoft),  
-**Recent Power Apps News and Community Contributions** (Power Platform ALM Accelerator, Power Apps portals and Power Apps Ideas) – [Todd Baginski](http://twitter.com/toddbaginski) (Canviz) and 
-learn about **5 new PnP Power Apps Samples** – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft).  
+**Recent Power Apps News and Community Contributions** (Power Platform ALM Accelerator, Power Apps portals and Power Apps Ideas) – [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) and 
+learn about **5 new PnP Power Apps Samples** – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft).  
 
 This call included the first ever **Power Apps Community Call Quiz** – using a Power App and played during the live call.   
 
-This call was hosted by [Todd Baginski](http://twitter.com/toddbaginski) (Canviz). 
+This call was hosted by [Todd Baginski](https://twitter.com/toddbaginski) (Canviz). 
 
 The call was recorded on January 19, 2022.  Questions addressed in chat throughout the call.   
 
@@ -29,11 +29,11 @@ Thank for attending the call or viewing it on demand. 
 
 ## Agenda
 
-*   **Demo 1**:  Power Audio Player - [Shadrack Inusah](http://twitter.com/kojo_shaddy) (DreamOval) | [@kojo\_shaddy](/t5/user/viewprofilepage/user-id/1239826) – [3:25](https://youtu.be/ebT1Gi2Hzcs?t=205)
+*   **Demo 1**:  Power Audio Player - [Shadrack Inusah](https://twitter.com/kojo_shaddy) (DreamOval) | [@kojo\_shaddy](/t5/user/viewprofilepage/user-id/1239826) – [3:25](https://youtu.be/ebT1Gi2Hzcs?t=205)
 *   **Demo 2**:  New Pay as you go Features - [Kavishi Agarwal](https://www.linkedin.com/in/kavishi-agarwal-28507a51/) (Microsoft) – [28:53](https://youtu.be/ebT1Gi2Hzcs?t=1733)
-*   Recent Power Apps News and Community Contributions – [Todd Baginski](http://twitter.com/toddbaginski) (Canviz) | [@ToddBaginski](/t5/user/viewprofilepage/user-id/720073) – [46:36](https://youtu.be/ebT1Gi2Hzcs?t=2796)
-*   Latest PnP Power Apps Samples – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [49:25](https://youtu.be/ebT1Gi2Hzcs?t=2965)
-*   Power Apps Community Call Quiz - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [51:17](https://youtu.be/ebT1Gi2Hzcs?t=3077)
+*   Recent Power Apps News and Community Contributions – [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | [@ToddBaginski](/t5/user/viewprofilepage/user-id/720073) – [46:36](https://youtu.be/ebT1Gi2Hzcs?t=2796)
+*   Latest PnP Power Apps Samples – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [49:25](https://youtu.be/ebT1Gi2Hzcs?t=2965)
+*   Power Apps Community Call Quiz - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [51:17](https://youtu.be/ebT1Gi2Hzcs?t=3077)
 
 
 ## Demos

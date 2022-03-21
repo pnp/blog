@@ -48,7 +48,7 @@ SharePoint Framework (SPFx)|v1.14 GA, **v1.15 Beta**|v1.15 GA in June 2022
 [PnP SPFx Generator](https://github.com/pnp/generator-spfx)|v1.16.0|v1.17.0 on the way
 [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|v4.5.4, v3.23.0
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
 
 {{< image alt="thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 10th of March, 2022 " src="images/220310-together-mode.gif" >}}
 
@@ -99,8 +99,8 @@ Thank you for joining the call today and/or for viewing the recording.  Can any
 
 <https://aka.ms/spfx-aces>
 
-*   **[My Calendar Plan](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-my-calendar)** - [João Mendes](http://twitter.com/joaojmendes) | [@joaojmendes](/t5/user/viewprofilepage/user-id/442957)
-*   **Weather ACE**\* - [Aakash Bhardwaj](http://twitter.com/aakash_316) (HCL Technologies) | @aakash\_316
+*   **[My Calendar Plan](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-my-calendar)** - [João Mendes](https://twitter.com/joaojmendes) | [@joaojmendes](/t5/user/viewprofilepage/user-id/442957)
+*   **Weather ACE**\* - [Aakash Bhardwaj](https://twitter.com/aakash_316) (HCL Technologies) | @aakash\_316
 
 \* To be posted soon.
 
@@ -108,18 +108,18 @@ Thank you for your great work.  Samples are often showcased in Demos.    
 
 ## Agenda items
 
-*   SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [6:40](https://youtu.be/G1XEqm01xrA?t=400)
-*   PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [8:44](https://youtu.be/G1XEqm01xrA?t=524)
-*   CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [10:51](https://youtu.be/G1XEqm01xrA?t=651)
-*   PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [11:42](https://youtu.be/G1XEqm01xrA?t=702)
-*   PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [12:25](https://youtu.be/G1XEqm01xrA?t=745)
-*   PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [13:00](https://youtu.be/G1XEqm01xrA?t=780)
+*   SharePoint Framework - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [6:40](https://youtu.be/G1XEqm01xrA?t=400)
+*   PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [8:44](https://youtu.be/G1XEqm01xrA?t=524)
+*   CLI for Microsoft 365 - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [10:51](https://youtu.be/G1XEqm01xrA?t=651)
+*   PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [11:42](https://youtu.be/G1XEqm01xrA?t=702)
+*   PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [12:25](https://youtu.be/G1XEqm01xrA?t=745)
+*   PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [13:00](https://youtu.be/G1XEqm01xrA?t=780)
 
 ## Demos
 
-*   **Demo 1**:  My Emails Viva Connections Adaptive Card Extension – [Siddharth Vaghasia](http://twitter.com/siddh_me) | @siddh\_me – [15:52](https://youtu.be/G1XEqm01xrA?t=952)
-*   **Demo 2**:  Getting started with Microsoft Graph Toolkit and SharePoint Framework – [Yves Habersaat](http://twitter.com/yhabersaat) (Sword Group) | @yhabersaat – [28:30](https://youtu.be/G1XEqm01xrA?t=1710)
-*   **Demo 3**:  Using Microsoft Graph APIs in Viva Connection ACEs – [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia – [39:56](https://youtu.be/G1XEqm01xrA?t=2396)
+*   **Demo 1**:  My Emails Viva Connections Adaptive Card Extension – [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh\_me – [15:52](https://youtu.be/G1XEqm01xrA?t=952)
+*   **Demo 2**:  Getting started with Microsoft Graph Toolkit and SharePoint Framework – [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group) | @yhabersaat – [28:30](https://youtu.be/G1XEqm01xrA?t=1710)
+*   **Demo 3**:  Using Microsoft Graph APIs in Viva Connection ACEs – [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia – [39:56](https://youtu.be/G1XEqm01xrA?t=2396)
 
 ## Resources
 
@@ -129,13 +129,13 @@ Additional resources around the covered topics and links from the slides.
 *   **D1**:  Article - [Create your first Adaptive Card Extensions (ACEs) with SPFx](https://siddharthvaghasia.com/2021/12/29/create-your-first-adaptive-card-extension-with-spfx/) 
 *   **D1**:  Sample - [My Emails](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-MyEmails) 
 *   **D2**:  Repo – [Microsoft Graph Toolkit - v2.4.0](https://github.com/microsoftgraph/microsoft-graph-toolkit/releases)
-*   **D2**:  Demo - [Using the Microsoft Graph Toolkit Get Component in your solutions](https://youtu.be/9w2L3-7sCDI?t=2432) – [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert 
+*   **D2**:  Demo - [Using the Microsoft Graph Toolkit Get Component in your solutions](https://youtu.be/9w2L3-7sCDI?t=2432) – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert 
 *   **D2**:  Documentation - [Get component in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/components/get) 
 *   **D2**:  MGT Playground – [mgt-get](https://mgt.dev/?path=/story/components-mgt-get--get-email) 
 *   **D3**:  Documentation - [List events](https://docs.microsoft.com/graph/api/user-list-events) 
-*   **D3**:  Demo - [Viva Connections – Data Binding in SPFx Adaptive Card Extensions](https://youtu.be/WkFVkFKPDMc?t=1297) – [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia 
-*   **Microsoft 365 PnP Weekly – Episode 156** (March 7th) with Portugal based, technologist, author, MVP Office Dev and Windows Insider, [João Ferreira](http://twitter.com/joao12ferreira) (Beezy) | @Joao12Ferreira | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-156-jo%C3%A3o-ferreira/ba-p/3249551) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-156-%e2%80%93-7th-of-march-2022/)
-*   **Microsoft 365 PnP Weekly – Episode 155** (February 28th) with Dubai based, Senior Cloud Advocate, [Ayça Baş](http://twitter.com/aycabs) (Microsoft) | @aycabs| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/ba-p/3221686) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-155-%e2%80%93-28th-of-february-2022/)
+*   **D3**:  Demo - [Viva Connections – Data Binding in SPFx Adaptive Card Extensions](https://youtu.be/WkFVkFKPDMc?t=1297) – [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia 
+*   **Microsoft 365 PnP Weekly – Episode 156** (March 7th) with Portugal based, technologist, author, MVP Office Dev and Windows Insider, [João Ferreira](https://twitter.com/joao12ferreira) (Beezy) | @Joao12Ferreira | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-156-jo%C3%A3o-ferreira/ba-p/3249551) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-156-%e2%80%93-7th-of-march-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 155** (February 28th) with Dubai based, Senior Cloud Advocate, [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/ba-p/3221686) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-155-%e2%80%93-28th-of-february-2022/)
 
 ## General Resources
 
@@ -145,7 +145,7 @@ Additional resources around the covered topics and links from the slides.
 *   Tools - [Microsoft Teams Framework (TeamsFx)](https://github.com/officedev/teamsfx) 
 *   Gallery - [Microsoft 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)   
 *   [Microsoft Build sessions guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital Brochure) - aka.ms/modernworkbuildsessions
-*   SharePoint Framework - v1.12.1 npm install –g [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
+*   SharePoint Framework - v1.12.1 npm install –g @microsoft/generator-sharepoint@next
 *   [CLI for Microsoft 365 v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 *   [CodeTour](https://aka.ms/codetour)
 *   [Sharing is Caring](https://aka.ms/sharing-is-caring) | aka.ms/sharing-is-caring

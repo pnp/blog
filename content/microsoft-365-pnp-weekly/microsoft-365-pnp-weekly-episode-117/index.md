@@ -15,11 +15,11 @@ videos:
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Belgium-based Senior Service Engineer from Microsoft - [Bert
-Jansen](http://twitter.com/o365bert) | @o365bert.  
+Jansen](https://twitter.com/o365bert) | @o365bert.  
 
 Bert splits his time coaching ISVs and Partners on how to get the most
 out of their SharePoint Online experience and on PnP Community projects
@@ -46,7 +46,7 @@ something cool/useful so that we can cover that in the next weekly
 summary! The easiest way to let us know is to share your work on Twitter
 and add the hashtag #PnPWeekly. We are always on the lookout for
 refreshingly new content. "*Sharing is
-caring!"*](https://twitter.com/search?q=%23pnpweekly)
+caring!"*](<https://twitter.com/search?q=%23pnpweekly>)
 Here are all the links and people mentioned in this recording. Thanks,
 everyone for your contributions to the community!
 
@@ -112,12 +112,12 @@ everyone for your contributions to the community!
 -   [Avoid Unnecessary Looping (Apply to each) in Power
     Automate](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/avoid-unnecessary-looping-apply-to-each-in-power-automate/ba-p/2190265) - [Leon
     Armston](https://twitter.com/LeonArmston) (Intelogy)
-    | [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    | @LeonArmston
 -   [How to start a new SPFx web part project with Microsoft Graph
     Toolkit and
     React](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-start-a-new-spfx-web-part-project-with-microsoft-graph/ba-p/2191526) - [Yves
     Habersaat](https://twitter.com/yhabersaat) (Sword Group)
-    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    | @yhabersaat
 -   [Episode #144​ - Creating Teams Link Unfurling Extensions with Yo
     Teams v 3.x](https://www.youtube.com/watch?v=GCN-pt0dhjU) - [Paolo
     Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
@@ -133,7 +133,7 @@ everyone for your contributions to the community!
     deploying
     them](https://michaelmaillot.github.io/tips/20210302-spfx-api-permissions/) - [Michaël
     Maillot](https://twitter.com/michael_maillot) (onepoint)
-    | [@michael](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/43617)\_maillot
+    | @michael\_maillot
 -   [SharePoint Syntex AI - tips for choosing between document
     understanding and form processing
     models](https://www.sharepointnutsandbolts.com/2021/03/syntex-tips-document-understanding-forms-processing.html) - [Chris

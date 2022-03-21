@@ -50,7 +50,7 @@ platform.   
     update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-january-2022-update/ba-p/3055873)
     is available!
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and
 live at end of the call.   
 
@@ -152,15 +152,15 @@ Topics covered in this call
     -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [7:17](https://youtu.be/YG16snk1fJU?t=437)
 -   **D1**:  Show a user's emails in an ASP.NET Core app with Microsoft
-    Graph -- [Dan Wahlin](http://twitter.com/DanWahlin) (Microsoft) |
+    Graph -- [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) |
     @DanWahlin -- [10:21](https://youtu.be/YG16snk1fJU?t=621)
 -   **D2**:  Deep dive on Viva Connections Adaptive Card Extension
     development -- State management -- [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [28:38](https://youtu.be/YG16snk1fJU?t=1718)
 -   **D3**:  Microsoft Graph Toolkit -- Using the People Picker
     Component in your solutions -- [Sébastien
-    Levert](http://twitter.com/sebastienlevert) (Microsoft) |
+    Levert](https://twitter.com/sebastienlevert) (Microsoft) |
     [sebastienlevert](https://github.com/sebastienlevert) --
     [40:24](https://youtu.be/YG16snk1fJU?t=2424)
 
@@ -187,7 +187,7 @@ slides.
 -   **D2**:  Demo - State referenced in [Introduction to Adaptive Card
     Extensions (ACEs) for Microsoft Viva
     Connections](https://youtu.be/iMbQyxdPcSU?t=1871) -- [Paolo
-    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 
 -   **D3**:  Documentation - [Microsoft Graph Toolkit: UI Components and
     Authentication Providers for Microsoft
@@ -215,7 +215,7 @@ slides.
     [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
 
 -   Previous demos delivered by [Sébastien
-    Levert](http://twitter.com/sebastienlevert) on Microsoft Graph
+    Levert](https://twitter.com/sebastienlevert) on Microsoft Graph
     Toolkit (MGT)
 
     -   [Discover the Microsoft Graph
@@ -233,7 +233,7 @@ slides.
 -   **PnP Weekly -- Episode 149** (January 17th) with Brisbane,
     Queensland, Australia-based Cloud Developer Advocate for Microsoft
     Teams and Graph, [Rabia
-    Williams](http://twitter.com/williamsrabia) (Microsoft) |
+    Williams](https://twitter.com/williamsrabia) (Microsoft) |
     [rabwill](https://github.com/rabwill) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/)
 
 ## General resources

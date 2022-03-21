@@ -22,8 +22,8 @@ SSO enabled add-ins) by Matt Geimer (Microsoft), and the latest
 **Outlook event-based activation on Mac** (announcing Mailbox 1.10 APIs
 and Event-based add-ins are GA in New Outlook for Mac) from Ashima
 Mathur (Microsoft). This month's Community spotlight recognizes [Eric
-Legault](http://twitter.com/elegault) (Eric Legault Consulting) and
-[Maarten van Stam](http://twitter.com/aafvstam) (Deloitte) for their
+Legault](https://twitter.com/elegault) (Eric Legault Consulting) and
+[Maarten van Stam](https://twitter.com/aafvstam) (Deloitte) for their
 continued contributions to this community.  Q&A both at end of call and
 in chat throughout call. Please register for the [PnP Recognition
 Program](https://aka.ms/m365pnp-recognition). The call was hosted by
@@ -46,8 +46,8 @@ Alex Jerabek (Microsoft). Recorded January 12, 2022.
 -   **Outlook event-based activation on Mac** -- Ashima Mathur, Program
     Manager (Microsoft) -- [18:42](https://youtu.be/ncFuSJ4T58k?t=1122)
 -   **Community spotlight** -- [Eric
-    Legault](http://twitter.com/elegault) (Eric Legault Consulting) and
-    [Maarten van Stam](http://twitter.com/aafvstam) (Deloitte) --
+    Legault](https://twitter.com/elegault) (Eric Legault Consulting) and
+    [Maarten van Stam](https://twitter.com/aafvstam) (Deloitte) --
     [24:06](https://youtu.be/ncFuSJ4T58k?t=1446)
 -   **Q&A** -- [24:45](https://youtu.be/ncFuSJ4T58k?t=1485)
 

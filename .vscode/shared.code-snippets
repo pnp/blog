@@ -48,7 +48,7 @@
         ],
         "body": [
             "{{< mermaid >}}",
-                "$0",
+            "$0",
             "{{< /mermaid >}}"
         ]
     },
@@ -60,7 +60,7 @@
             "attachments"
         ],
         "body": "{{< attachments >}}"
-    },    
+    },
     "PnP Blog -> Insert bold bullet": {
         "scope": "markdown",
         "description": "Bold bullet",
@@ -69,7 +69,7 @@
             "boldbullet"
         ],
         "body": "**${1:type title and hit tab}** $0"
-    },    
+    },
     "PnP Blog -> Insert video timepoint": {
         "scope": "markdown",
         "description": "Timepoint",
@@ -77,8 +77,10 @@
             "blog-timepoint",
             "timepoint"
         ],
-        "body": ["-   ${1:type title and hit tab} - [${2:speaker name}](http://twitter.com/${3:Twitter}) (${4:Microsoft}) | @${3} --",
-    "[${5:timecode}](https://youtu.be/${6:youtube code}?t=${7:startat})"]
+        "body": [
+            "-   ${1:type title and hit tab} - [${2:speaker name}](https://twitter.com/${3:Twitter}) (${4:Microsoft}) | @${3} --",
+            "[${5:timecode}](https://youtu.be/${6:youtube code}?t=${7:startat})"
+        ]
     },
     "PnP Blog -> Insert article link": {
         "scope": "markdown",
@@ -88,7 +90,7 @@
             "articlelink"
         ],
         "body": [
-            "*   [${1:type title and hit tab}](${2:https://}) - [${3:author name}](http://twitter.com/${4:Twitter}) (${5:Microsoft}) | @${4}"
+            "*   [${1:type title and hit tab}](${2:https://}) - [${3:author name}](https://twitter.com/${4:Twitter}) (${5:Microsoft}) | @${4}"
         ]
     },
 }

@@ -12,9 +12,9 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by German-based MVP and founder of
 [Nubelus](https://www.nubelus.com/) - [Adis
 Jugo](https://twitter.com/adisjugo) | @adisjugo.
@@ -81,14 +81,14 @@ everyone for your contributions to the community!
     Podcast](https://twitter.com/m365devpodcast) | [Jeremy
     Thake](https://twitter.com/jthake) (Microsoft) | @jthake, [Paul
     Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) |
-    [@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113) and Orion
+    @paulschaeflein and Orion
     O'Malley
 -   [PnP Batch versus Microsoft Graph Batch in PowerShell to add/delete
     3k
     items](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-batch-versus-microsoft-graph-batch-in-powershell-to-add/ba-p/2761214)
     - [Reshmee Auckloo](https://twitter.com/reshmeeauckloo) (Pension
     Protection Fund) |
-    [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+    @reshmeeauckloo
 -   [Export conversations from Microsoft Teams Channels using the CLI
     for Microsoft
     365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/export-conversations-from-microsoft-teams-channels-using-the-cli/ba-p/2762619)
@@ -109,7 +109,7 @@ everyone for your contributions to the community!
     associations](https://regarding365.com/new-sharepoint-hub-to-hub-associations-2b0b1db0a933)
     - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc)
     | @DanielGlenn, [Darrell
-    Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
+    Webster](https://twitter.com/darrellaas) (Modern Workplace Change) |
     @darrellaas
 -   [Getting started with the Microsoft Teams Framework
     (TeamsFx)](https://thomy.tech/getting-started-with-the-microsoft-teams-framework-teamsfx/) -

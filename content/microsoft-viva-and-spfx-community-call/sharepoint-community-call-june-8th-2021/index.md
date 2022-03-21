@@ -112,9 +112,9 @@ Channel](https://aka.ms/m365pnp-videos).
 -   Community contributors and companies which have been involved in the
     past month -- [16:07](https://youtu.be/Pxfq2i4ys1U?t=967) 
 -   **Topic:  SharePoint Site Templates -- the latest features and
-    experiences** - [Melissa Torres](http://twitter.com/Meltorac)
+    experiences** - [Melissa Torres](https://twitter.com/Meltorac)
     (Microsoft) | @Meltorac, [Nicole
-    Woon](http://twitter.com/NovelNicole) (Microsoft) | @NovelNicole &
+    Woon](https://twitter.com/NovelNicole) (Microsoft) | @NovelNicole &
     Matt Mooty (Microsoft --
     [19:32](https://youtu.be/Pxfq2i4ys1U?t=1172)
 The full recording of this session is available from Microsoft 365 &
@@ -138,7 +138,7 @@ Additional resources on covered topics and discussions.
 
 -   PnP Weekly -- Episode 130 with the Software Engineer behind the
     Microsoft Graph Toolkit, [Nikola
-    Metulev](http://twitter.com/metulev) (Microsoft) | @metulev. |
+    Metulev](https://twitter.com/metulev) (Microsoft) | @metulev. |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-130/ba-p/2422722)
     |
     [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-130-7th-of-june-2021/)

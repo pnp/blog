@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=TXqSa4F9uzU
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by MVP, PnP Team member, and Architect at US-based Sympraxis Consulting [Emily Mancini](https://twitter.com/EEMancini) |@EEMancini.   Topics discussed in this session include:  Sharing is Caring engagement model, Aligning and addressing the client's business needs with capabilities of owned technologies, i.e., Microsoft 365 for making changes with the business and not to the business!   Conscious/unconscious usage of the Microsoft 365 Maturity Model for business ROI maximization.   Ideas for increasing diversity in IT personnel, Imposter Syndrome, Tech vs Outcome and Teams or Yammer.   
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by MVP, PnP Team member, and Architect at US-based Sympraxis Consulting [Emily Mancini](https://twitter.com/EEMancini) |@EEMancini.   Topics discussed in this session include:  Sharing is Caring engagement model, Aligning and addressing the client's business needs with capabilities of owned technologies, i.e., Microsoft 365 for making changes with the business and not to the business!   Conscious/unconscious usage of the Microsoft 365 Maturity Model for business ROI maximization.   Ideas for increasing diversity in IT personnel, Imposter Syndrome, Tech vs Outcome and Teams or Yammer.   
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
  
@@ -73,7 +73,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     Automate](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/ba-p/2290219?WT.mc_id=m365-26913-wmastyka)
     - [Damien Bird](https://twitter.com/DamoBird365) (Aberdeen City
     Council)
-    | [@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
+    | @DamoBird365
 -   [Microsoft 365 PnP Community Spotlight: Wictor
     Wilén](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-wictor-wil%C3%A9n/ba-p/2290078?WT.mc_id=m365-26913-wmastyka)
     - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese &
@@ -82,16 +82,16 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     App](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/ba-p/2288239?WT.mc_id=m365-26913-wmastyka)
     - [Michael Roth](https://twitter.com/@gezeitenbrand) (IT-P
     Information Technology-Partner GmbH)
-    | [@Gezeitenbrand](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/308558)
+    | @Gezeitenbrand
 -   [Learn to debug your Power
     Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/learn-to-debug-your-power-apps/ba-p/2288271?WT.mc_id=m365-26913-wmastyka)
     - [Michael Roth](https://twitter.com/@gezeitenbrand) (IT-P
     Information Technology-Partner GmbH)
-    | [@Gezeitenbrand](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/308558)
+    | @Gezeitenbrand
 -   [Export Power Apps and Power Automate user
     licenses](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/export-power-apps-and-power-automate-user-licenses/ba-p/2281840?WT.mc_id=m365-26913-wmastyka)
     - [Yves Habersaat](https://www.twitter.com/yhabersaat) (Sword Group)
-    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    | @yhabersaat
 -   [How to beautify your Power
     Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-beautify-your-power-apps/ba-p/2280799?WT.mc_id=m365-26913-wmastyka)
     - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
@@ -106,7 +106,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     (Microsoft) | @DanWahlin, [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)
     | @aprildunnam and [Ayca
-    Bas](http://twitter.com/aycabs) (Microsoft)
+    Bas](https://twitter.com/aycabs) (Microsoft)
     | @aycabs​
 -   [Episode #151​ - Paging Data with Microsoft Graph SDK for
     .NET](https://www.youtube.com/watch?v=H_gg3fmCWzo) - [Paolo

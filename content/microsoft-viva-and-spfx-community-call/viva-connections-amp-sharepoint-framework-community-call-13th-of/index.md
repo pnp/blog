@@ -59,7 +59,7 @@ previous report 2 weeks ago) 
   [PnP SPFx Generator](https://github.com/pnp/generator-spfx)                                   v1.16.0                                       v1.17.0 on the way
   [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)                    **v4.5.3**, v3.23.0                            
   --------------------------------------------------------------------------------------------- --------------------------------------------- ------------------------------------------------------------
-The host of this call is [Vesa Juvonen](http://twitter.com/vesajuvonen)
+The host of this call is [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) | @vesajuvonen.  Q&A takes place as always in chat
 throughout the call.
 {{< image alt="220113-together-mode.gif" src="images/220113-together-mode.gif" >}}
@@ -153,39 +153,39 @@ Awesome to see many of you on the screen.
     SVG](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/js-propertycontrols-svg)** -
     [Jonah](https://github.com/corkindustry) | corkindustry
 -   [**Quotes**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-quotes) -
-    [Yves Habersaat](http://twitter.com/yhabersaat)
-    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    [Yves Habersaat](https://twitter.com/yhabersaat)
+    | @yhabersaat
 -   [**My
     Teams**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-my-teams) -
-    [Yves Habersaat](http://twitter.com/yhabersaat)
-    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    [Yves Habersaat](https://twitter.com/yhabersaat)
+    | @yhabersaat
 -   [**List
     Search**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-list-search) -
-    [Alberto Gutierrez Perez](http://twitter.com/albertogperez)
+    [Alberto Gutierrez Perez](https://twitter.com/albertogperez)
     | @albertogperez
 -   [**NEW: Drag and Drop Followed
     Sites**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-followed-drag-and-drop-grid)**\*** -
-    [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
+    [Adam Wójcik](https://twitter.com/Adam25858782) | @Adam25858782
 -   [**Star
     Rating**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-star-ratings) -
-    [Takashi Shinohara](http://twitter.com/karamem0)
-    | [@karamem0](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/229602)
+    [Takashi Shinohara](https://twitter.com/karamem0)
+    | @karamem0
 -   [**Advanced Page
     Properties**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-advanced-page-properties) -
     [Abderahman Moujahid](https://github.com/Abderahman88)
     | Abderahman88
 -   [**Follow
     Documents**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-follow-document) -
-    [André Lage](http://twitter.com/aaclage)
-    | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
+    [André Lage](https://twitter.com/aaclage)
+    | @aaclage
 
 \* Link to be live soon!
 **PnP SPFx ACEs: (<https://aka.ms/spfx-aces>)**
 
 -   My Emails\* - [Siddharth
-    Vaghasia](http://twitter.com/siddh_me) | @siddh_me
+    Vaghasia](https://twitter.com/siddh_me) | @siddh_me
 -   My Groups\* - [Nanddeep
-    Nachan](http://twitter.com/NanddeepNachan) | [nanddeepn](https://github.com/nanddeepn)
+    Nachan](https://twitter.com/NanddeepNachan) | [nanddeepn](https://github.com/nanddeepn)
 
 \* To be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
@@ -193,41 +193,41 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 ## Agenda items
 
 -   SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [7:30](https://youtu.be/iMbQyxdPcSU?t=450)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [10:09](https://youtu.be/iMbQyxdPcSU?t=609)
 -   CLI for Microsoft 365 - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [11:17](https://youtu.be/iMbQyxdPcSU?t=677)
 -   PnP SPFx Controls - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [12:13](https://youtu.be/iMbQyxdPcSU?t=733)
 -   PnP Modern Search - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [12:55](https://youtu.be/iMbQyxdPcSU?t=775)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     @bernierh -- [13:26](https://youtu.be/iMbQyxdPcSU?t=806)
 -   PnP SPFx ACEs Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [15:47](https://youtu.be/iMbQyxdPcSU?t=947)
 
 
 ## Demos
 
 -   **Demo 1**:  Building Emoji Rating Web Part with SharePoint
-    Framework -- [Siddharth Vaghasia](http://twitter.com/siddh_me) |
+    Framework -- [Siddharth Vaghasia](https://twitter.com/siddh_me) |
     @siddh_me [--][ [17:47](https://youtu.be/iMbQyxdPcSU?t=1067)]
 
 -   **Demo 2**:  Introduction to Adaptive Card Extensions (ACEs) for
     Microsoft Viva Connections -- [Paolo
-    Pialorsi](http://twitter.com/PaoloPia) (PiaSys) |
+    Pialorsi](https://twitter.com/PaoloPia) (PiaSys) |
     @PaoloPia [--][ [31:11](https://youtu.be/iMbQyxdPcSU?t=1871)]
 
 -   **Demo 3**:  SharePoint Framework Design Patterns -- Custom Web Part
-    Properties (Part 3) -- [Hugo Bernier](http://twitter.com/bernierh)
+    Properties (Part 3) -- [Hugo Bernier](https://twitter.com/bernierh)
     (Microsoft) |
     @bernierh [--][ [43:52](https://youtu.be/iMbQyxdPcSU?t=2632)][ ]
 
@@ -246,7 +246,7 @@ slides.
 -   **D3**:  Documentation - [Integrate web part properties with
     SharePoint](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/integrate-web-part-properties-with-sharepoint) 
 -   **D3**[:  ]Previous demos from [Hugo
-    Bernier](http://twitter.com/bernierh)[ (Microsoft) |
+    Bernier](https://twitter.com/bernierh)[ (Microsoft) |
     @bernierh,][ on SPFx Design Patterns
     series]
     -   [SPFx Design Patterns -- Custom Properties (Part
@@ -257,7 +257,7 @@ slides.
         Panes](https://youtu.be/L1b812A-U-E) - 21 October
 -   **PnP Weekly -- Episode 148** (January 9th) with Belgium-based
     Power Platform Architect and Business Applications MVP, [Carmen
-    Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) |
+    Ysewijn](https://twitter.com/CarmenYsewijn) (Qubix) |
     @CarmenYsewijn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-148-carmen-ysewijn-qubix/ba-p/3056063) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-148-%E2%80%93-10th-of-january-2022/)
 
 ## General resources

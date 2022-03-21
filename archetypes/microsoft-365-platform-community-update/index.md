@@ -73,16 +73,16 @@ Thank you for your work. Samples are often showcased in Demos. Request a Demo s
 
 ## Topics
 
-*   PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
-*   PnP PowerShell updates \- [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
-*   yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
-*   Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
-*   Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) | @pkbullock – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
-*   Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
-*   Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
-*   **Demo 1**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
-*   **Demo 2**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
-*   **Demo 3**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   PnP PowerShell updates \- [Bert Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   yo Teams updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd) | @pkbullock – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   **Demo 1**: TITLE – [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   **Demo 2**: TITLE – [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
+*   **Demo 3**: TITLE – [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=TIME)
 
 ## Resources
 
@@ -94,7 +94,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D2**:  Sample - [TITLE](https://github.com/LINK)  
 *   **D3**:  Article - [TITLE](URL) 
 *   **D3**:  Sample - [TITLE](https://github.com/LINK) 
-*   **Microsoft 365 PnP Weekly – Episode NUMBER** (DATE) DESCRIPTION, [NAME](http://twitter.com/TWITTER) | @TWITTER | [video](VIDEO URL) | [podcast](https://pnpweekly.podbean.com/e/EPISODECODE)
+*   **Microsoft 365 PnP Weekly – Episode NUMBER** (DATE) DESCRIPTION, [NAME](https://twitter.com/TWITTER) | @TWITTER | [video](VIDEO URL) | [podcast](https://pnpweekly.podbean.com/e/EPISODECODE)
 
 
 ## General resources

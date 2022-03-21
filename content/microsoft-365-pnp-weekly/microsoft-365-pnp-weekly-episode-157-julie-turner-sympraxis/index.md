@@ -14,7 +14,7 @@ videos:
 ---
 
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US based, Microsoft 365 Extensibility Developer, MVP, and PnP team member focused on PnPjs project, [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US based, Microsoft 365 Extensibility Developer, MVP, and PnP team member focused on PnPjs project, [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 
 
 ## Topics discussed in this session
 
@@ -61,7 +61,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Community articles
 
 *   [PnP PowerShell to manage list designs and create lists/libraries using list designs](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-powershell-to-manage-list-designs-and-create-lists-libraries/ba-p/3225097) - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | [@reshmeeauckloo](/t5/user/viewprofilepage/user-id/1145036)
-*   [M365 Dev Podcast - Microsoft Teams development "plus" with Tom Morgan](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/m365-dev-podcast-microsoft-teams-development-quot-plus-quot-with/ba-p/3256350) - [Jeremy Thake](https://twitter.com/jthake) (Microsoft) | @jthake, [Paul Schaeflein](http://twitter.com/paulschaeflein) (AddIn365) | [@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113) & [Tom Morgan](https://twitter.com/tomorgan) (Modality Systems) | @tomorgan
+*   M365 Dev Podcast - Microsoft Teams development "plus" with Tom Morgan](<https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/m365-dev-podcast-microsoft-teams-development-quot-plus-quot-with/ba-p/3256350>) - [Jeremy Thake](https://twitter.com/jthake) (Microsoft) | @jthake, [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | [@paulschaeflein | @tomorgan
 *   [How to combine Graph & SharePoint permission consent into a single MSAL dialog on first use](https://camerondwyer.com/2022/03/11/how-to-combine-graph-sharepoint-permission-consent-into-a-single-msal-dialog-on-first-use/) - [Cameron Dwyer](https://twitter.com/CameronDwyer) (OnePlace Solutions) | @CameronDwyer
 *   [SharePoint Site Lock and Remove from Search Results](https://sympmarc.com/2022/03/10/sharepoint-site-lock-and-remove-from-search-results/) - [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @sympmarc
 *   [NEVER give your SharePoint fields the displayname of Value!](https://sharepains.com/2022/03/10/sharepoint-fields-displayname-value/) -  [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra

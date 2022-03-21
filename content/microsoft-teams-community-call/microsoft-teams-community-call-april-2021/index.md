@@ -130,20 +130,20 @@ Topics covered in this call
     - [5:20](https://youtu.be/sQeICJCdFjI?t=320)
 
 -   Latest News - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen - [9:07](https://youtu.be/sQeICJCdFjI?t=547)
 
 -   **Demo:**  Build your first Microsoft Teams Bot - [Stephan
-    Bisser](http://twitter.com/stephanbisser) (Solvion) |
+    Bisser](https://twitter.com/stephanbisser) (Solvion) |
     @stephanbisser - [11:53](https://youtu.be/sQeICJCdFjI?t=713)
 
 -   **Demo:**  Surfacing your existing solution in Microsoft Teams -
-    [Rick Van Rousselt](http://twitter.com/RickVanRousselt) (Advantive)
+    [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive)
     | @RickVanRousselt - [27:48](https://youtu.be/sQeICJCdFjI?t=1668)
 
 -   **Demo:**  Transforming your SharePoint Framework web part as a
     Microsoft Teams personal app - [Albert-Jan
-    Schot](http://twitter.com/appieschot) (Portiva) | @appieschot -
+    Schot](https://twitter.com/appieschot) (Portiva) | @appieschot -
     [43:20](https://youtu.be/sQeICJCdFjI?t=2600)
 
  

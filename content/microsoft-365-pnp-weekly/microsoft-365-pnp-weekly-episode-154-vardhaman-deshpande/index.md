@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=YKHLl87LhxA
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by London/India - based Developer, Product Owner, Technical Architect, MVP, [Vardhaman Deshpande](http://twitter.com/vrdmn) (Valo Solutions) | @vrdmn.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by London/India - based Developer, Product Owner, Technical Architect, MVP, [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions) | @vrdmn.
 
 Topics discussed in this session:
 

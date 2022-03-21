@@ -1664,7 +1664,7 @@ LITHIUM.RenderedScripts = [
 <LI>Hear about the latest 5 Microsoft 365 Platform related stories and view 3 great demos delivered by Microsoft presenters on the latest capabilities of the Microsoft 365 platform.</LI>
 <LI>New series launched – <A href="https://aka.ms/LearnFromTheCommunity/ThisWeek" target="_blank" rel="noopener noreferrer">Learn from the community</A>.&nbsp; This week’s article:&nbsp; <A href="https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-chatbot-for-microsoft-teams-personal-and-group-chats/" target="_blank" rel="noopener noreferrer">Learn from the community: Chatbot for Microsoft Teams personal and group chats</A></LI>
 </UL>
-<P>The host of this call was <A href="http://twitter.com/BrianTJackett" target="_blank" rel="noopener nofollow noreferrer">Brian T. Jackett</A> (Microsoft) <EM>|</EM><a href="/t5/user/viewprofilepage/user-id/4556">@BrianTJackett</a>.&nbsp; Q&amp;A takes place in chat throughout and live at end of the call. &nbsp;&nbsp;</P>
+<P>The host of this call was <A href="https://twitter.com/BrianTJackett" target="_blank" rel="noopener nofollow noreferrer">Brian T. Jackett</A> (Microsoft) <EM>|</EM><a href="/t5/user/viewprofilepage/user-id/4556">@BrianTJackett</a>.&nbsp; Q&amp;A takes place in chat throughout and live at end of the call. &nbsp;&nbsp;</P>
 <P>&nbsp;</P>
 <P><STRONG>Microsoft 365 Platform News Flash</STRONG></P>
 <UL>
@@ -1721,10 +1721,10 @@ LITHIUM.RenderedScripts = [
 <P>&nbsp;</P>
 <P><STRONG>Topics</STRONG><SPAN>&nbsp;</SPAN>covered in this call</P>
 <UL>
-<LI>Latest updates and news on the Microsoft 365 platform – <A href="http://twitter.com/BrianTJackett" target="_blank" rel="noopener nofollow noreferrer">Brian T. Jackett</A> (Microsoft) <EM>| </EM><a href="/t5/user/viewprofilepage/user-id/4556">@BrianTJackett</a> – <A href="https://youtu.be/627L2Lz5K3w?t=317" target="_blank" rel="noopener nofollow noreferrer">5:17</A></LI>
-<LI><STRONG>D1</STRONG>:&nbsp; PowerShell Snippets for Microsoft Graph Docs – <A href="http://twitter.com/Rabeb_Othmani" target="_blank" rel="noopener nofollow noreferrer">Rabeb Othmani</A> ​(Microsoft) | @Rabeb_Othmani – <A href="https://youtu.be/627L2Lz5K3w?t=772" target="_blank" rel="noopener nofollow noreferrer">12:52</A></LI>
-<LI><STRONG>D2</STRONG>:&nbsp; Learn from the Community – Introduction to new weekly initiative – <A href="http://twitter.com/aycabs" target="_blank" rel="noopener nofollow noreferrer">Ayça Baş</A> (Microsoft) | @aycabs – <A href="https://youtu.be/627L2Lz5K3w?t=1382" target="_blank" rel="noopener nofollow noreferrer">23:02</A></LI>
-<LI><STRONG>D3</STRONG>:&nbsp; Customizing MGT Components in your solution – <A href="http://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A> (Microsoft) | <a href="/t5/user/viewprofilepage/user-id/926766">@sebastienlevert</a> – <A href="https://youtu.be/627L2Lz5K3w?t=1713" target="_blank" rel="noopener nofollow noreferrer">28:33</A></LI>
+<LI>Latest updates and news on the Microsoft 365 platform – <A href="https://twitter.com/BrianTJackett" target="_blank" rel="noopener nofollow noreferrer">Brian T. Jackett</A> (Microsoft) <EM>| </EM><a href="/t5/user/viewprofilepage/user-id/4556">@BrianTJackett</a> – <A href="https://youtu.be/627L2Lz5K3w?t=317" target="_blank" rel="noopener nofollow noreferrer">5:17</A></LI>
+<LI><STRONG>D1</STRONG>:&nbsp; PowerShell Snippets for Microsoft Graph Docs – <A href="https://twitter.com/Rabeb_Othmani" target="_blank" rel="noopener nofollow noreferrer">Rabeb Othmani</A> ​(Microsoft) | @Rabeb_Othmani – <A href="https://youtu.be/627L2Lz5K3w?t=772" target="_blank" rel="noopener nofollow noreferrer">12:52</A></LI>
+<LI><STRONG>D2</STRONG>:&nbsp; Learn from the Community – Introduction to new weekly initiative – <A href="https://twitter.com/aycabs" target="_blank" rel="noopener nofollow noreferrer">Ayça Baş</A> (Microsoft) | @aycabs – <A href="https://youtu.be/627L2Lz5K3w?t=1382" target="_blank" rel="noopener nofollow noreferrer">23:02</A></LI>
+<LI><STRONG>D3</STRONG>:&nbsp; Customizing MGT Components in your solution – <A href="https://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A> (Microsoft) | <a href="/t5/user/viewprofilepage/user-id/926766">@sebastienlevert</a> – <A href="https://youtu.be/627L2Lz5K3w?t=1713" target="_blank" rel="noopener nofollow noreferrer">28:33</A></LI>
 </UL>
 <P>&nbsp;</P>
 <P><STRONG>Resources:</STRONG></P>
@@ -1777,7 +1777,7 @@ LITHIUM.RenderedScripts = [
 </LI>
 <LI><STRONG>D3:&nbsp;&nbsp;</STRONG>Learn – <A href="https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa" target="_blank" rel="noopener noreferrer">Develop apps with the Microsoft Graph Toolkit</A> | <A href="https://aka.ms/mgt/learn" target="_blank" rel="noopener noreferrer">https://aka.ms/mgt/learn</A>&nbsp;</LI>
 </UL>
-<P><SPAN>Previous demos in&nbsp;</SPAN><A href="http://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A><SPAN>’s</SPAN><SPAN>&nbsp;</SPAN>(Microsoft) |<SPAN>&nbsp;</SPAN><A href="https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/926766" target="_blank">@sebastienlevert</A>,<SPAN>&nbsp;Microsoft Graph Toolkit (MGT) series</SPAN></P>
+<P><SPAN>Previous demos in&nbsp;</SPAN><A href="https://twitter.com/sebastienlevert" target="_blank" rel="noopener nofollow noreferrer">Sébastien Levert</A><SPAN>’s</SPAN><SPAN>&nbsp;</SPAN>(Microsoft) |<SPAN>&nbsp;</SPAN><A href="https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/926766" target="_blank">@sebastienlevert</A>,<SPAN>&nbsp;Microsoft Graph Toolkit (MGT) series</SPAN></P>
 <UL>
 <LI><A href="https://youtu.be/JkgFrbtwdJU?t=476" target="_blank" rel="noopener nofollow noreferrer">Discover the Microsoft Graph Toolkit</A><SPAN>&nbsp;</SPAN>–&nbsp;7 December 2021&nbsp;</LI>
 <LI><A href="https://youtu.be/HfBVaeGRDw8?t=2375" target="_blank" rel="noopener nofollow noreferrer">Microsoft Graph Toolkit – Using Login Component in your solutions</A><SPAN>&nbsp;</SPAN>–&nbsp;14 December 2021&nbsp;</LI>
@@ -1791,7 +1791,7 @@ LITHIUM.RenderedScripts = [
 </UL>
 <P>&nbsp;</P>
 <UL>
-<LI><STRONG>Microsoft 365 PnP Weekly – Episode 154</STRONG> (February 21<SUP>st</SUP>) with London/India - based Developer, Product Owner, Technical Architect, MVP, <A href="http://twitter.com/vrdmn" target="_blank" rel="noopener nofollow noreferrer">Vardhaman Deshpande</A> (Valo Solutions) | @vrdmn |&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-154-%e2%80%93-21st-of-february-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></LI>
+<LI><STRONG>Microsoft 365 PnP Weekly – Episode 154</STRONG> (February 21<SUP>st</SUP>) with London/India - based Developer, Product Owner, Technical Architect, MVP, <A href="https://twitter.com/vrdmn" target="_blank" rel="noopener nofollow noreferrer">Vardhaman Deshpande</A> (Valo Solutions) | @vrdmn |&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-154-%e2%80%93-21st-of-february-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></LI>
 </UL>
 <P>&nbsp;</P>
 <P><STRONG>General resources</STRONG>:</P>
@@ -3021,7 +3021,7 @@ LITHIUM.RenderedScripts = [
             </a>
         </li>
         <li class="social-share-option">
-            <a class="social-share-link social-share-twitter" href="http://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Microsoft 365 Platform Call – 22nd of February, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-22nd-of-february-2022/ba-p/3155637?attachment-id=50114" target="_blank" title="Share to Twitter">
+            <a class="social-share-link social-share-twitter" href="https://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Microsoft 365 Platform Call – 22nd of February, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-22nd-of-february-2022/ba-p/3155637?attachment-id=50114" target="_blank" title="Share to Twitter">
                 <span class="social-share-title">Share to Twitter</span>
             </a>
         </li>

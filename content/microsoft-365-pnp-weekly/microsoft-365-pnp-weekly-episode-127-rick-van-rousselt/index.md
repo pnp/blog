@@ -11,11 +11,11 @@ type: "regular"
 ---
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Belgium-based, MVP, author, Microsoft Teams developer, and CTO
-with Advantive, [Rick Van Rousselt](http://twitter.com/RickVanRousselt)
+with Advantive, [Rick Van Rousselt](https://twitter.com/RickVanRousselt)
 | @RickVanRousselt.   Topics discussed in this session can be
 summarized with one word.   Change!  The leap from Teams tab (iFrame) to
 Extension (Bot Framework) development, or transition from Skype to
@@ -96,7 +96,7 @@ everyone for your contributions to the community!
 -   [Microsoft Graph Mailbag -- Azure AD applications and users for
     testing](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-mailbag-azure-ad-applications-and-users-for-testing/?WT.mc_id=m365-28827-wmastyka)
     - [Brian T. Jackett](https://twitter.com/briantjackett) (Microsoft)
-    | [@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556)
+    | @BrianTJackett
 -   [Five new features enhancing Adaptive Cards in Microsoft
     Teams](https://developer.microsoft.com/microsoft-365/blogs/five-new-features-enhancing-adaptive-cards-in-microsoft-teams/?WT.mc_id=m365-28827-wmastyka)
     - [Ojasvi Choudhary](https://twitter.com/Ojasvi) (Microsoft)
@@ -108,7 +108,7 @@ everyone for your contributions to the community!
     Manipulation](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/excel-scripts-and-cloud-flows-data-manipulation/ba-p/2356956?WT.mc_id=m365-28827-wmastyka)
     - [Damien Bird](https://twitter.com/damobird365) (Aberdeen City
     Council)
-    | [@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
+    | @DamoBird365
 -   [Microsoft 365 PnP Community Spotlight: Arjun
     Menon](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-arjun-menon/ba-p/2356938?WT.mc_id=m365-28827-wmastyka) -
     [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consultancy
@@ -129,7 +129,7 @@ everyone for your contributions to the community!
 -   [Power Automate: skip the Parse JSON action to reference
     data](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/power-automate-skip-the-parse-json-action-to-reference-data/ba-p/2336866?WT.mc_id=m365-28827-wmastyka)
     - [Django Lohn](https://twitter.com/lohndjango) (InSpark)
-    | [@LohnDjango](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/179280)
+    | @LohnDjango
 -   [Community Sample: News Ticker app (SPFx
     Extensions)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/community-sample-news-ticker-app-spfx-extensions/ba-p/2337566?WT.mc_id=m365-28827-wmastyka) -
     Ari Gunawan (DevStack) | @AriGunawan
@@ -138,7 +138,7 @@ everyone for your contributions to the community!
     API](https://ashiqf.com/2021/05/09/resubmit-your-failed-power-automate-flow-runs-automatically-using-m365-cli-and-rest-api/amp/#top)
     - [Mohamed Ashiq Faleel](https://twitter.com/AshiqFaleel) (Tata
     Consultancy Services)
-    | [@AshiqFaleel](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/435366)
+    | @AshiqFaleel
 -   [SPFx People Search web part,
     v2.5.0](https://blog.yannickreekmans.be/spfx-people-search-web-part-v2-5-0/) -
     [Yannick Reekmans](https://twitter.com/yannickreekmans) (Qubix)
@@ -154,7 +154,7 @@ everyone for your contributions to the community!
 -   [Teams + Power Apps: Building context/theme aware
     apps](https://michelcarlo.com/2021/05/15/teams-power-apps-building-theme-and-context-aware-apps/)
     - [Michel Mendes](https://twitter.com/michelcarlo) (Storm Technology
-    Ltd) | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
+    Ltd) | @michelcarlo
 -   [Teams Activity Notifications using Azure
     Services](https://aakashbhardwaj619.github.io/2021/05/15/Teams-Activity-Notifications-Azure.html) -
     [Aakash Bhardwaj](https://twitter.com/aakash_316) (Microsoft)
@@ -187,7 +187,7 @@ everyone for your contributions to the community!
     platform
     experience](https://regarding365.com/lesson-1-the-attitude-of-a-decision-maker-can-impact-the-entire-platform-experience-5a891e12e677) -
     [Megan Strant](https://twitter.com/MeganStrant) (Strant Consulting)
-    | [@MeganStrant](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/579847)
+    | @MeganStrant
 
 ## Additional resources
 

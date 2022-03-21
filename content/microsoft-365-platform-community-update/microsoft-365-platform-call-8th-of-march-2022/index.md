@@ -27,12 +27,12 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 *   Hear about the latest 3 Microsoft 365 Platform related stories and view 3 great demos delivered by Microsoft presenters on the latest capabilities of the Microsoft 365 platform.
 *   New series launched – [Learn from the community](https://aka.ms/LearnFromTheCommunity/ThisWeek).  This week’s article:  [Learn from the community: Employee survey solution built with Microsoft Teams and Power Platform](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-employee-survey-solution-built-with-microsoft-teams-and-power-platform/).  Sign up to [Share your story](https://aka.ms/share-your-story)
 
-The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) _|_[@BrianTJackett](/t5/user/viewprofilepage/user-id/4556).  Q&A takes place in chat throughout and live at end of the call.
+The host of this call was [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) _|_[@BrianTJackett](/t5/user/viewprofilepage/user-id/4556).  Q&A takes place in chat throughout and live at end of the call.
 
 ## Microsoft 365 Platform News Flash
 
-*   [Learn from the community: Employee survey solution built with Microsoft Teams and Power Platform](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-employee-survey-solution-built-with-microsoft-teams-and-power-platform/) - [Ayça Baş](http://twitter.com/aycabs) (Microsoft) | @aycabs
-*   [Debugging Microsoft Teams app locally with Teams Toolkit](https://devblogs.microsoft.com/microsoft365dev/debugging-microsoft-teams-app-locally-with-teams-toolkit/) - [Tomomi Imura](http://twitter.com/girlie_mac) (Microsoft) | [@girlie\_mac](/t5/user/viewprofilepage/user-id/727310)
+*   [Learn from the community: Employee survey solution built with Microsoft Teams and Power Platform](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-employee-survey-solution-built-with-microsoft-teams-and-power-platform/) - [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs
+*   [Debugging Microsoft Teams app locally with Teams Toolkit](https://devblogs.microsoft.com/microsoft365dev/debugging-microsoft-teams-app-locally-with-teams-toolkit/) - [Tomomi Imura](https://twitter.com/girlie_mac) (Microsoft) | [@girlie\_mac](/t5/user/viewprofilepage/user-id/727310)
 *   [End-of-service for SharePoint Online Machine Translation Service and APIs](https://devblogs.microsoft.com/microsoft365dev/end-of-service-for-sharepoint-online-machine-translation-service-and-apis/) - Microsoft
 
 ## Actions
@@ -70,10 +70,10 @@ Thank you for your creativity and work execution.   Samples are often showcase
 
 ## Topics
 
-*   Latest updates and news on the Microsoft 365 platform – [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) _|_@BrianTJackett – [6:52](https://youtu.be/zUehxqNoc2o?t=412)
-*   **D1**:  Managing your Viva Connections and SharePoint Framework solutions using the new Apps site in SharePoint Online –​ [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [12:02](https://youtu.be/zUehxqNoc2o?t=722)
-*   **D2**:  Building a bot for Microsoft Teams which detects user presence changes –​ [Wajeed Shaikh](http://twitter.com/Wajeed_Shaikh) (Microsoft) | @Wajeed\_Shaikh – [29:40](https://youtu.be/zUehxqNoc2o?t=1780)
-*   **D3**:  Building MGT apps with Angular –​ [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [43:41](https://youtu.be/zUehxqNoc2o?t=2621)
+*   Latest updates and news on the Microsoft 365 platform – [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) _|_@BrianTJackett – [6:52](https://youtu.be/zUehxqNoc2o?t=412)
+*   **D1**:  Managing your Viva Connections and SharePoint Framework solutions using the new Apps site in SharePoint Online –​ [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [12:02](https://youtu.be/zUehxqNoc2o?t=722)
+*   **D2**:  Building a bot for Microsoft Teams which detects user presence changes –​ [Wajeed Shaikh](https://twitter.com/Wajeed_Shaikh) (Microsoft) | @Wajeed\_Shaikh – [29:40](https://youtu.be/zUehxqNoc2o?t=1780)
+*   **D3**:  Building MGT apps with Angular –​ [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [43:41](https://youtu.be/zUehxqNoc2o?t=2621)
 
 ## Resources
 
@@ -97,7 +97,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D3:**  MGT Demos Playlist **\-** [Microsoft Graph Toolkit – YouTube](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUVLPfpm0QL4DVQ8Rw2Md5k)
 *   **D3:**  Issues – [MGT Issus](https://github.com/microsoftgraph/microsoft-graph-toolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) | [aka.ms/mgt/issues](https://aka.ms/mgt/issues)
 *   **D3:**  Learn – [Develop apps with the Microsoft Graph Toolkit](https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa) | [https://aka.ms/mgt/learn](https://aka.ms/mgt/learn) 
-*   **Microsoft 365 PnP Weekly – Episode 156** (March 7th) with Portugal based, technologist, author, MVP Office Dev and Windows Insider, [João Ferreira](http://twitter.com/joao12ferreira) (Beezy) | @Joao12Ferreira | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-156-jo%C3%A3o-ferreira/ba-p/3249551) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-156-%e2%80%93-7th-of-march-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 156** (March 7th) with Portugal based, technologist, author, MVP Office Dev and Windows Insider, [João Ferreira](https://twitter.com/joao12ferreira) (Beezy) | @Joao12Ferreira | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-156-jo%C3%A3o-ferreira/ba-p/3249551) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-156-%e2%80%93-7th-of-march-2022/)
 
 ## General resources
 

@@ -12,7 +12,7 @@ summary: "In this installment of the weekly discussion revolving around the late
 videos:
 - https://www.youtube.com/watch?v=5lhYr6kP-BY
 ---
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Rhode Island, US-based, MVP, professional archer, blogger and presenter specializing in UI/UX, information architecture and user adoption at TrnDigital, [D'arce Hess](https://twitter.com/DarceHess) | @ DarceHess.   Topics discussed in this session include:  The path to IT and on becoming an MVP, reflections on UX/UI changes over the years and designing custom experiences that addresses business processes.  In post pandemic times, organizations will be circling back to optimize Microsoft Teams experiences while vendors will continue efforts to land the right extensibility stories.   Microsoft Viva -- with great power comes great responsibility and ideas about prepping for Viva.   Finally, thoughts on women in IT and on using what we learn in school in the field.   
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Rhode Island, US-based, MVP, professional archer, blogger and presenter specializing in UI/UX, information architecture and user adoption at TrnDigital, [D'arce Hess](https://twitter.com/DarceHess) | @ DarceHess.   Topics discussed in this session include:  The path to IT and on becoming an MVP, reflections on UX/UI changes over the years and designing custom experiences that addresses business processes.  In post pandemic times, organizations will be circling back to optimize Microsoft Teams experiences while vendors will continue efforts to land the right extensibility stories.   Microsoft Viva -- with great power comes great responsibility and ideas about prepping for Viva.   Finally, thoughts on women in IT and on using what we learn in school in the field.   
 
 Microsoft and the Community delivered 18 articles in this last week.  
 
@@ -74,11 +74,11 @@ everyone for your contributions to the community!
     CLI for Microsoft
     365](https://yhabersaat.ch/2021/05/02/upgrade-your-spfx-projects-to-v1-12-1-with-cli-for-microsoft-365/)
     - [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group)
-    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    | @yhabersaat
 -   [Adding custom formatting to all list
     views](https://www.donkirkham.com/blog/list-formatting/) - [Don
     Kirkham](https://twitter.com/DonKirkham) (GM Financial)
-    | [@DonKirkham](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/407309)
+    | @DonKirkham
 -   [Get Started with the New SharePoint App
     Bar](https://mattjimison.com/2021/04/30/get-started-with-the-new-sharepoint-app-bar/) -
     [Matt Jimison](https://twitter.com/mjimison) (DMI) | @mjimison
@@ -99,7 +99,7 @@ everyone for your contributions to the community!
     form](https://michelcarlo.com/2021/05/08/restrict-sharepoint-list-attachments-by-file-type/)
     - [Michel Mendes](https://twitter.com/michelcarlo) (Storm
     Technology)
-    | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
+    | @michelcarlo
 -   [Organization Chart web
     part](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-organization-chart)
     - [João Mendes](https://twitter.com/joaojmendes) (Storm Technology)
@@ -111,7 +111,7 @@ everyone for your contributions to the community!
     APIs\]](https://www.youtube.com/watch?v=6Q3mKio9rXs) - [Giuliano De
     Luca](https://twitter.com/DeLucaGiulian){.yt-simple-endpoint
     .style-scope
-    .yt-formatted-string} | [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    .yt-formatted-string} | @delucagiulian
 -   [Save Microsoft Forms Attachments to SharePoint with Power
     Automate](https://www.youtube.com/watch?v=Xb_k8vOERpU) - [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)

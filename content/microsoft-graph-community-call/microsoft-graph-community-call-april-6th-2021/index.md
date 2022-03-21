@@ -83,9 +83,9 @@ at <https://aka.ms/GraphTAPForm>.  
 -   Mark your calendar -- next Microsoft Graph community call is on May
     4 at 08:00am PDT - <https://aka.ms/microsoftgraphcall> 
 -   Try new file components -- npm install
-    [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/mgt@next.file
+    @microsoftmgt@next.file
 -   Try MSAL 2.0 Provider -- npm install
-    [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/mgt@next.msal2provider
+    @microsoft/mgt@next.msal2provider
 
 
 ## Resources:

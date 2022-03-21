@@ -192,7 +192,7 @@ In April 2020 we announced our new [Microsoft 365 PnP team model](https://devel
 
 We welcome all community members to get involved on the community and open-source efforts. Your input do matter!
 
-*   [New Microsoft 365 Patterns and Practices (PnP) team members – November 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members/ba-p/2953966) - [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | [@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388), [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1, [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549), [João J. Mendes](https://twitter.com/joaojmendes) (Valo) | [@joaojmendes](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/442957), [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues, [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt, [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @stephanbisser, [Tetsuya Kawahara](https://twitter.com/techan_k)  | @techan\_k, and [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
+*   New Microsoft 365 Patterns and Practices (PnP) team members – November 2021](<https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members/ba-p/2953966>) - [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | [@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388), [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1, [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549), [João J. Mendes](https://twitter.com/joaojmendes) (Valo) | [@joaojmendes | @thomyg
 *   [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members-may/ba-p/2332415) - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo) and [Patrick Lamber](https://github.com/plamber) (Experts Inside AG)
 *   [New Microsoft 365 Patterns and Practices (PnP) team members - February 2021](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/) -  [April Dunnam](https://www.twitter.com/aprildunnam "https://www.twitter.com/aprildunnam") (Microsoft), [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) and [Veronique Lengelle](https://twitter.com/veronicageek) (CPS)
 *   [New Microsoft 365 Patterns and Practices (PnP) team members - December 2020](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-2/) -  [Luise Freese](https://twitter.com/LuiseFreese) and [Sébastien Levert](https://twitter.com/sebastienlevert/) 
@@ -331,16 +331,16 @@ These are the latest connectors: 
 *   [Siddharth Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0) | @siddh\_me - Rest Countries
 *   [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek \- Airly
 *   [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek \- Zippopotamus
-*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/281742) - Buy Me a Coffee
-*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/281742) - Cloverly
-*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/281742) -  Companies house
-*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor -](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/281742)  Ecologi
-*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/281742) - haveibeenpwned
-*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/281742) -Placedog
-*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/281742) -Quickbase
-*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/281742) - Pantry
-*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/281742)\- Shields.io
-*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/281742) - Unsplash
+*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Buy Me a Coffee
+*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Cloverly
+*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -  Companies house
+*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -  Ecologi
+*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - haveibeenpwned
+*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -Placedog
+*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -Quickbase
+*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Pantry
+*   Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor\- Shields.io
+*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Unsplash
 *   [Woong Choi](https://www.linkedin.com/in/woongchoi/) (Seven Sigma)\- Covid-19 API
 *   [Woong Choi](https://www.linkedin.com/in/woongchoi/) (Seven Sigma) \- OpenFDA Drug
 
@@ -621,7 +621,7 @@ Here’s the list of active contributors (in alphabetical order) since last rele
 *   [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) - @toddbaginski
 *   [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 *   [Tony Derricott](https://www.twitter.com/computx) (BYUI) | @computx
-*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/281742) 
+*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor 
 *   [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @veronicageek
 *   [Vipul Kelkar](https://twitter.com/vipulkelkar) (Rapid Circle) | @vipulkelkar
 *   [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions) | @yp\_code
@@ -681,7 +681,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 *   Ashima Mathur (Microsoft)
 *   Ayca Bas (Microsoft)- [@aycabs](https://twitter.com/aycabs)
-*   [Bert Jansen](http://twitter.com/O365Bert) (Microsoft) | @O365Bert
+*   [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
 *   Beth Pan - [@beth\_panx](https://twitter.com/beth_panx)
 *   Beverly Kim - [bvandaal](https://github.com/bvandaal)
 *   [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
@@ -777,7 +777,7 @@ MVP Community team manages the Microsoft 365 platform community work in the GitH
 Thank you for all that you do!
 
 *   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
-*   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | [@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388)
+*   Geetha Sivasailam](<https://twitter.com/gsived>) (Artis Consulting) | [@GSiVed
 *   [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997
 *   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 *   [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
@@ -788,12 +788,12 @@ Thank you for all that you do!
 *   [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
 *   [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent
 *   [David Warner II](https://twitter.com/DavidWarnerII) (Catapult) | @DavidWarnerII
-*   [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
+*   Derek Cash-Peterson](<https://twitter.com/spdcp>) (Sympraxis Consulting) | [@Spdcp
 *   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @eliostruyf
 *   [Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
 *   [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) | @erwinvanhunen 
 *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @gautamdsheth
-*   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | [@joaojmendes](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/442957)
+*   João J. Mendes](<https://twitter.com/joaojmendes>) (Valo Solutions) | [@joaojmendes
 *   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
 *   [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @sympmarc
 *   [Paolo Pialorsi](https://twitter.com/PaoloPia) (Piasys.com) | @PaoloPia
@@ -811,16 +811,16 @@ Here are the Microsoft Internal Platform Community team members:
 
 *   [April Dunnam](https://twitter.com/aprildunnam) | @aprildunnam
 *   [Natalie Pienkowska](https://twitter.com/NataliePienkow1) | @NataliePienkow1
-*   [Rabia Williams](https://twitter.com/williamsrabia) | [@williamsrabia](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/792201)
+*   Rabia Williams](<https://twitter.com/williamsrabia>) | [@williamsrabia
 *   [Alex Terentiev](https://twitter.com/alexaterentiev) | @alexaterentiev
 *   [Bert Jansen](https://twitter.com/O365Bert) | @O365Bert
 *   [Bob German](https://twitter.com/Bob1German) | @Bob1German
-*   [Garry Trinder](https://twitter.com/garrytrinder) | [@garrytrinder](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/716447)
+*   Garry Trinder](<https://twitter.com/garrytrinder>) | [@garrytrinder
 *   [Hugo Bernier](https://twitter.com/bernierh) | @bernierh
 *   [Koen Zomers](https://twitter.com/koenzomers) | @koenzomers
-*   [Mikael Svenson](https://twitter.com/mikaelsvenson) | [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173)
+*   Mikael Svenson](<https://twitter.com/mikaelsvenson>) | [@MikaelSvenson
 *   [Patrick Rodgers](https://twitter.com/mediocrebowler) | @mediocrebowler
-*   [Sébastien Levert](https://twitter.com/sebastienlevert) | [@sebastienlevert](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/926766)
+*   Sébastien Levert](<https://twitter.com/sebastienlevert>) | [@sebastienlevert
 *   [Vesa Juvonen](https://twitter.com/vesajuvonen) | @vesajuvonen
 *   [Waldek Mastykarz](https://twitter.com/waldekm) | @waldekm
 *   [Wictor Wilen](https://twitter.com/wictor) | @wictor

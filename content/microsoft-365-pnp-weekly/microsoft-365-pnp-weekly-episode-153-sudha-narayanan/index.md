@@ -14,7 +14,7 @@ videos:
 ---
 
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Redmond, Washington, US-based Senior Program Manager in the OneDrive and SharePoint organization responsible of the Power Platform integration, [Sudha Narayanan](https://www.linkedin.com/in/sudha-narayanan-3295326a/) (Microsoft).
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Redmond, Washington, US-based Senior Program Manager in the OneDrive and SharePoint organization responsible of the Power Platform integration, [Sudha Narayanan](https://www.linkedin.com/in/sudha-narayanan-3295326a/) (Microsoft).
 
 Topics discussed in this session:
 
@@ -58,11 +58,11 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 *   [Changing a SharePoint Site URL When Connected to Microsoft Teams](https://sympmarc.com/2022/02/14/changing-a-sharepoint-site-url-when-connected-to-microsoft-teams/) - [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @sympmarc
 *   [Migrate a Planner plan to a List using CLI for Microsoft 365](https://www.cloudappie.nl/migrate-planner-plan-list-climicrosoft365/) \- [Albert-Jan Schot](https://twitter.com/appieschot) (BLISS.digital) | @appieschot
 *   [Create a custom connector in the Power Platform – The WordPress example](https://sharepains.com/2022/02/11/custom-connector-powerplatform-wordpress/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
-*   [SharePoint Syntex: Pre-built & Pre-Trained Models now available for Invoices & Receipts](https://www.leonarmston.com/2022/02/sharepoint-syntex-pre-built-pre-trained-models-now-available-for-invoices-receipts/) - [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+*   SharePoint Syntex: Pre-built & Pre-Trained Models now available for Invoices & Receipts](<https://www.leonarmston.com/2022/02/sharepoint-syntex-pre-built-pre-trained-models-now-available-for-invoices-receipts/>) - [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | [@LeonArmston
 *   [Announcement tweet on the PnPjs v3](https://twitter.com/m365pnpjs/status/1492177933116530691) - [PnPjs crew](https://twitter.com/m365pnpjs) | @m365pnpjs
 *   [Adaptive Card Host - Reusable SPFx controls react control](https://pnp.github.io/sp-dev-fx-controls-react/controls/AdaptiveCardHost/) - [Fabio Franzini](https://twitter.com/franzinifabio) | @franzinifabio
 *   [Microsoft Lists Wordle Game - Microsoft Lists formatting definition](https://github.com/pnp/List-Formatting/tree/master/view-samples/wordle-game-tile-format) - [Tetsuya Kawahara](https://twitter.com/techan_k) | @techan\_k
-*   [Episode #193 - Creating OneNote pages via Microsoft Graph](https://www.youtube.com/watch?v=B_PWQyijV6E) - [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
+*   [Episode #193 - Creating OneNote pages via Microsoft Graph](https://www.youtube.com/watch?v=B_PWQyijV6E) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 
 ## Additional resources
 

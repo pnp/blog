@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=UfTfmwTkwUM
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by DESCRIPTION, [NAME](http://twitter.com/TWITTER) (Company) | @TWITTER
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by DESCRIPTION, [NAME](https://twitter.com/TWITTER) (Company) | @TWITTER
 
 Topics raised in today’s discussion include voice extensibility, Microsoft Teams – the OS for work, and the value of integrating communications into apps or business processes enabling users to take action without having jump from environment to environment.   Viewing the Microsoft Graph as APIs organized by workload with the benefit of shared authentication and discussion and articles on the recent Microsoft Viva announcement. 
 

@@ -103,7 +103,7 @@ Channel](https://aka.ms/m365pnp-videos).
 -   Community contributors and companies which have been involved in the
     past month -- [10:40](https://youtu.be/xXmpIVdokSs?t=640)
 -   **Demo:  **Getting started with Microsoft Viva Topics - [Naomi
-    Moneypenny](http://twitter.com/nmoneypenny) (Microsoft) |
+    Moneypenny](https://twitter.com/nmoneypenny) (Microsoft) |
     @nmoneypenny - [14:26](https://youtu.be/xXmpIVdokSs?t=866)
 The full recording of this session is available from Microsoft 365 &
 SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.

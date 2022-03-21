@@ -40,7 +40,7 @@ PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1
 While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.
 {{< /notice >}}
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII.   Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 ## Actions
 
@@ -73,7 +73,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) 
 
 <https://aka.ms/TeamsSampleBrowser>
 
-*   **[Teams Tab with React Routing and yo teams](https://aka.ms/tab-react-router) -** [Siddharth Vaghasia](http://twitter.com/siddh_me) | @siddh\_me and [Kunj Sangani](http://twitter.com/sanganikunj) | @sanganikunj
+*   **[Teams Tab with React Routing and yo teams](https://aka.ms/tab-react-router) -** [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh\_me and [Kunj Sangani](https://twitter.com/sanganikunj) | @sanganikunj
 *   **The famous [Contoso HR App sample](https://aka.ms/teams-hr-app) has been renewed!** \- [Jack Lewis](https://www.linkedin.com/in/jacklewis123/) (Microsoft) and [Scott Perham](https://www.linkedin.com/in/scottperham/) (Microsoft)
 *   **Tab-SSO sample (updated) – Eduardo Cáceres**
 
@@ -81,7 +81,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) 
 
 <https://aka.ms/powerplatform-samples>
 
-*   **Dataverse Admin App**\* - [Vivek Bavishi](http://twitter.com/that_API_guy) | @that\_API\_guy
+*   **Dataverse Admin App**\* - [Vivek Bavishi](https://twitter.com/that_API_guy) | @that\_API\_guy
 
 \*These latest samples should show on site shortly after this call
 
@@ -92,13 +92,13 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) 
 2 New Scenarios and 4 Script Updates:
 
 *   **_New Scenarios_**
-    *   **[List all teams and teams members in Microsoft Teams in the tenant](https://pnp.github.io/script-samples/teams-export-teams-information/README.html?tabs=pnpps)** - [Chandani Prajapati](http://twitter.com/Chandani_SPD) | @Chandani\_SPD
-    *   **[Sample on exporting Document libraries inc folders and versions for selected Site Collections to a F...](https://pnp.github.io/script-samples/spo-export-files-and-versions/README.html?tabs=pnpps)** - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) | @kasperbolarsen
+    *   **[List all teams and teams members in Microsoft Teams in the tenant](https://pnp.github.io/script-samples/teams-export-teams-information/README.html?tabs=pnpps)** - [Chandani Prajapati](https://twitter.com/Chandani_SPD) | @Chandani\_SPD
+    *   **[Sample on exporting Document libraries inc folders and versions for selected Site Collections to a F...](https://pnp.github.io/script-samples/spo-export-files-and-versions/README.html?tabs=pnpps)** - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) | @kasperbolarsen
 *   **_Updates or scenarios implemented with alterative tools_**
-    *   **[Teams Full Report](https://pnp.github.io/script-samples/teams-full-report/README.html?tabs=pnpps)** - [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) | [@reshmeeauckloo](/t5/user/viewprofilepage/user-id/1145036)
+    *   **[Teams Full Report](https://pnp.github.io/script-samples/teams-full-report/README.html?tabs=pnpps)** - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) | [@reshmeeauckloo](/t5/user/viewprofilepage/user-id/1145036)
     *   **[Export a csv report on all Microsoft Stream videos](https://pnp.github.io/script-samples/stream-report-videos/README.html?tabs=pnpps)** - [Twan van Beers](https://www.linkedin.com/in/twanvanbeers/)
-    *   **[Hide SharePoint list from Site Contents](https://pnp.github.io/script-samples/spo-hide-list-from-site-contents/README.html?tabs=cli-m365-ps)** - [Leon Armston](http://twitter.com/LeonArmston) | [@LeonArmston](/t5/user/viewprofilepage/user-id/855621)
-    *   **[Add App Catalog to SharePoint site](https://pnp.github.io/script-samples/spo-add-app-catalog/README.html?tabs=cli-m365-ps)** - [Chandani Prajapati](http://twitter.com/Chandani_SPD) | @Chandani\_SPD
+    *   **[Hide SharePoint list from Site Contents](https://pnp.github.io/script-samples/spo-hide-list-from-site-contents/README.html?tabs=cli-m365-ps)** - [Leon Armston](https://twitter.com/LeonArmston) | [@LeonArmston](/t5/user/viewprofilepage/user-id/855621)
+    *   **[Add App Catalog to SharePoint site](https://pnp.github.io/script-samples/spo-add-app-catalog/README.html?tabs=cli-m365-ps)** - [Chandani Prajapati](https://twitter.com/Chandani_SPD) | @Chandani\_SPD
 
 Article:  [Getting started with PnP Script Samples](https://aka.ms/script-samples/getting-started) – aka.ms/script-samples/getting-started
 
@@ -122,16 +122,16 @@ Thank you for your work. Samples are often showcased in Demos.    Request a De
 
 ## Topics
 
-*   PnP .NET library updates - [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [7:05](https://youtu.be/INw3zXlT5qc?t=425)
-*   PnP PowerShell updates \- [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [7:31](https://youtu.be/INw3zXlT5qc?t=451)
-*   yo Teams updates - [Wictor Wilén](http://twitter.com/wictor) (Microsoft) | @wictor – [8:13](https://youtu.be/INw3zXlT5qc?t=493)
-*   Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [8:58](https://youtu.be/INw3zXlT5qc?t=538)
-*   Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) | @pkbullock – [2:43](https://youtu.be/INw3zXlT5qc?t=163)
-*   Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German – [10:30](https://youtu.be/INw3zXlT5qc?t=630)
-*   Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [12:37](https://youtu.be/INw3zXlT5qc?t=757)
-*   **Demo 1**:  Updates on Independent Publisher Connectors & LibreBor Connector Demo – [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1 & [Marco Amoedo](http://twitter.com/marcoamoedo) (KPMG) | @marcoamoedo & [Mario Trueba](http://twitter.com/MarioTrueba365) (KPMG) | @MarioTrueba365 – [14:50](https://youtu.be/INw3zXlT5qc?t=890)
-*   **Demo 2**:  Migrating Cloud Flows using Flow & Apps migrator – [Denis Molodtsov](http://twitter.com/Zerg00s) (Point Alliance) | @Zerg00s – [27:19](https://youtu.be/INw3zXlT5qc?t=1639)
-*   **Demo 3**:  Creating a To Do list for Microsoft Lists and SharePoint using View Formatting – [João Ferreira](http://twitter.com/joao12ferreira) (Beezy) | @joao12ferreira – [36:15](https://youtu.be/INw3zXlT5qc?t=2175)
+*   PnP .NET library updates - [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [7:05](https://youtu.be/INw3zXlT5qc?t=425)
+*   PnP PowerShell updates \- [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [7:31](https://youtu.be/INw3zXlT5qc?t=451)
+*   yo Teams updates - [Wictor Wilén](https://twitter.com/wictor) (Microsoft) | @wictor – [8:13](https://youtu.be/INw3zXlT5qc?t=493)
+*   Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [8:58](https://youtu.be/INw3zXlT5qc?t=538)
+*   Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) | @pkbullock – [2:43](https://youtu.be/INw3zXlT5qc?t=163)
+*   Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German – [10:30](https://youtu.be/INw3zXlT5qc?t=630)
+*   Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [12:37](https://youtu.be/INw3zXlT5qc?t=757)
+*   **Demo 1**:  Updates on Independent Publisher Connectors & LibreBor Connector Demo – [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1 & [Marco Amoedo](https://twitter.com/marcoamoedo) (KPMG) | @marcoamoedo & [Mario Trueba](https://twitter.com/MarioTrueba365) (KPMG) | @MarioTrueba365 – [14:50](https://youtu.be/INw3zXlT5qc?t=890)
+*   **Demo 2**:  Migrating Cloud Flows using Flow & Apps migrator – [Denis Molodtsov](https://twitter.com/Zerg00s) (Point Alliance) | @Zerg00s – [27:19](https://youtu.be/INw3zXlT5qc?t=1639)
+*   **Demo 3**:  Creating a To Do list for Microsoft Lists and SharePoint using View Formatting – [João Ferreira](https://twitter.com/joao12ferreira) (Beezy) | @joao12ferreira – [36:15](https://youtu.be/INw3zXlT5qc?t=2175)
 
 ## Resources
 
@@ -145,8 +145,8 @@ Additional resources around the covered topics and links from the slides.
 *   **D3**:  Article - [How to create a To Do list using SharePoint and Microsoft Lists view formatting – Part 1](https://lists.handsontek.net/create-list-using-sharepoint-microsoft-lists-view-formatting-part-1/) 
 *   **D3**:  Samples - [List of View Formatting Samples](https://pnp.github.io/List-Formatting/viewsamples/) 
 *   **D3**:  Blog – [HANDS ON tek](https://handsontek.net/blog/) 
-*   **Microsoft 365 PnP Weekly – Episode 155** (February 28th) with Dubai based, Senior Cloud Advocate, [Ayça Baş](http://twitter.com/aycabs) (Microsoft) | @aycabs| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/ba-p/3221686) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-155-%e2%80%93-28th-of-february-2022/)
-*   **Microsoft 365 PnP Weekly – Episode 154** (February 21st) with London/India - based Developer, Product Owner, Technical Architect, MVP, [Vardhaman Deshpande](http://twitter.com/vrdmn) (Valo Solutions) | @vrdmn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-154-%e2%80%93-21st-of-february-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 155** (February 28th) with Dubai based, Senior Cloud Advocate, [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/ba-p/3221686) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-155-%e2%80%93-28th-of-february-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 154** (February 21st) with London/India - based Developer, Product Owner, Technical Architect, MVP, [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions) | @vrdmn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-154-%e2%80%93-21st-of-february-2022/)
 
 ## General resources
 

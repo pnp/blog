@@ -1729,7 +1729,7 @@ LITHIUM.RenderedScripts = [
 </TBODY>
 </TABLE>
 <P>&nbsp;</P>
-<P>The host of this call is<SPAN>&nbsp;</SPAN><A href="http://twitter.com/mediocrebowler" target="_blank" rel="noopener nofollow noreferrer">Patrick Rodgers</A><SPAN>&nbsp;</SPAN>(Microsoft) | @mediocrebowler.&nbsp; Q&amp;A takes place as always in chat throughout the call.</P>
+<P>The host of this call is<SPAN>&nbsp;</SPAN><A href="https://twitter.com/mediocrebowler" target="_blank" rel="noopener nofollow noreferrer">Patrick Rodgers</A><SPAN>&nbsp;</SPAN>(Microsoft) | @mediocrebowler.&nbsp; Q&amp;A takes place as always in chat throughout the call.</P>
 <P>&nbsp;</P>
 <P><span class="lia-inline-image-display-wrapper lia-image-align-center" image-alt="Feb24TogetherModeGif.gif" style="width: 999px;"><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/351126iBDBE98AC3FF5EE45/image-size/large?v=v2&amp;px=999" role="button" title="Feb24TogetherModeGif.gif" alt="Feb24TogetherModeGif.gif" li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/351126iBDBE98AC3FF5EE45?v=v2" li-image-display-id="'351126iBDBE98AC3FF5EE45'" li-message-uid="'3168855'" li-messages-message-image="true" li-bindable="" class="lia-media-image" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false" /></span></P>
 <P>&nbsp;</P>
@@ -1778,17 +1778,17 @@ LITHIUM.RenderedScripts = [
 <P><STRONG>SPFx web part samples: (<A href="https://aka.ms/spfx-webparts" target="_blank" rel="noopener noreferrer">https://aka.ms/spfx-webparts</A>)&nbsp;</STRONG></P>
 </DIV>
 <UL>
-<LI><STRONG>Save to User Application Personal Folder in OneDrive* - </STRONG><A href="http://twitter.com/Adam25858782" target="_blank" rel="noopener nofollow noreferrer">Adam Wójcik</A> |&nbsp;@Adam25858782</LI>
-<LI><STRONG><A href="https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-functional-component-with-data-fetch" target="_blank" rel="noopener noreferrer">React Functional Component web part with data fetch</A> - </STRONG><A href="http://twitter.com/donkirkham" target="_blank" rel="noopener nofollow noreferrer">Don Kirkham</A> |&nbsp;<a href="/t5/user/viewprofilepage/user-id/407309">@DonKirkham</a></LI>
-<LI><STRONG><A href="https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable" target="_blank" rel="noopener noreferrer">Datatable</A> - </STRONG><A href="http://twitter.com/Chandani_SPD" target="_blank" rel="noopener nofollow noreferrer">Chandani Prajapati</A> |&nbsp;@Chandani_SPD</LI>
+<LI><STRONG>Save to User Application Personal Folder in OneDrive* - </STRONG><A href="https://twitter.com/Adam25858782" target="_blank" rel="noopener nofollow noreferrer">Adam Wójcik</A> |&nbsp;@Adam25858782</LI>
+<LI><STRONG><A href="https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-functional-component-with-data-fetch" target="_blank" rel="noopener noreferrer">React Functional Component web part with data fetch</A> - </STRONG><A href="https://twitter.com/donkirkham" target="_blank" rel="noopener nofollow noreferrer">Don Kirkham</A> |&nbsp;<a href="/t5/user/viewprofilepage/user-id/407309">@DonKirkham</a></LI>
+<LI><STRONG><A href="https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable" target="_blank" rel="noopener noreferrer">Datatable</A> - </STRONG><A href="https://twitter.com/Chandani_SPD" target="_blank" rel="noopener nofollow noreferrer">Chandani Prajapati</A> |&nbsp;@Chandani_SPD</LI>
 </UL>
 <P>* To be posted soon.</P>
 <P>&nbsp;</P>
 <P><STRONG>PnP SPFx ACEs:<SPAN>&nbsp;(</SPAN></STRONG><STRONG><A href="https://aka.ms/spfx-aces" target="_blank" rel="noopener noreferrer">https://aka.ms/spfx-aces</A>)</STRONG></P>
 <UL>
-<LI><STRONG><A href="https://github.com/pnp/sp-dev-fx-aces/pull/36" target="_blank" rel="noopener noreferrer">My Shifts</A> - <A href="http://twitter.com/siddh_me" target="_blank" rel="noopener nofollow noreferrer">Siddharth Vaghasia</A>&nbsp;|&nbsp;@siddh_me</STRONG></LI>
-<LI><STRONG>Join New Teams* - <A href="http://twitter.com/aimery_thomas" target="_blank" rel="noopener nofollow noreferrer">Aimery Thomas</A>&nbsp;|&nbsp;<a href="/t5/user/viewprofilepage/user-id/925977">@aimery_thomas</a></STRONG></LI>
-<LI><STRONG>Office Locations* - <A href="http://twitter.com/anooptells" target="_blank" rel="noopener nofollow noreferrer">Anoop Tatti&nbsp;</A>|&nbsp;@anooptells</STRONG></LI>
+<LI><STRONG><A href="https://github.com/pnp/sp-dev-fx-aces/pull/36" target="_blank" rel="noopener noreferrer">My Shifts</A> - <A href="https://twitter.com/siddh_me" target="_blank" rel="noopener nofollow noreferrer">Siddharth Vaghasia</A>&nbsp;|&nbsp;@siddh_me</STRONG></LI>
+<LI><STRONG>Join New Teams* - <A href="https://twitter.com/aimery_thomas" target="_blank" rel="noopener nofollow noreferrer">Aimery Thomas</A>&nbsp;|&nbsp;<a href="/t5/user/viewprofilepage/user-id/925977">@aimery_thomas</a></STRONG></LI>
+<LI><STRONG>Office Locations* - <A href="https://twitter.com/anooptells" target="_blank" rel="noopener nofollow noreferrer">Anoop Tatti&nbsp;</A>|&nbsp;@anooptells</STRONG></LI>
 </UL>
 <P>* To be posted soon.</P>
 <P>&nbsp;</P>
@@ -1796,19 +1796,19 @@ LITHIUM.RenderedScripts = [
 <P>&nbsp;</P>
 <P><STRONG>Agenda items:</STRONG></P>
 <UL>
-<LI>SharePoint Framework -&nbsp;<A href="http://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A>&nbsp;(Microsoft) | @vesajuvonen&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=380" target="_blank" rel="noopener nofollow noreferrer">6:20</A></LI>
-<LI>PnPjs Client-Side Libraries -&nbsp;<A href="http://twitter.com/jfj1997" target="_blank" rel="noopener nofollow noreferrer">Julie Turner</A>&nbsp;(Sympraxis Consulting) | @jfj1997&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=510" target="_blank" rel="noopener nofollow noreferrer">8:30</A></LI>
-<LI>CLI for Microsoft 365&nbsp;-&nbsp;<A href="http://twitter.com/mediocrebowler" target="_blank" rel="noopener nofollow noreferrer">Patrick Rodgers</A>&nbsp;(Microsoft) | @mediocrebowler&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=613" target="_blank" rel="noopener nofollow noreferrer">10:13</A></LI>
-<LI>PnP SPFx Controls&nbsp;-&nbsp;<A href="http://twitter.com/mediocrebowler" target="_blank" rel="noopener nofollow noreferrer">Patrick Rodgers</A>&nbsp;(Microsoft) | @mediocrebowler&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=654" target="_blank" rel="noopener nofollow noreferrer">10:54</A></LI>
-<LI>PnP Modern Search&nbsp;-&nbsp;<A href="http://twitter.com/mediocrebowler" target="_blank" rel="noopener nofollow noreferrer">Patrick Rodgers</A>&nbsp;(Microsoft) | @mediocrebowler&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=690" target="_blank" rel="noopener nofollow noreferrer">11:30&nbsp;</A></LI>
+<LI>SharePoint Framework -&nbsp;<A href="https://twitter.com/vesajuvonen" target="_blank" rel="noopener nofollow noreferrer">Vesa Juvonen</A>&nbsp;(Microsoft) | @vesajuvonen&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=380" target="_blank" rel="noopener nofollow noreferrer">6:20</A></LI>
+<LI>PnPjs Client-Side Libraries -&nbsp;<A href="https://twitter.com/jfj1997" target="_blank" rel="noopener nofollow noreferrer">Julie Turner</A>&nbsp;(Sympraxis Consulting) | @jfj1997&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=510" target="_blank" rel="noopener nofollow noreferrer">8:30</A></LI>
+<LI>CLI for Microsoft 365&nbsp;-&nbsp;<A href="https://twitter.com/mediocrebowler" target="_blank" rel="noopener nofollow noreferrer">Patrick Rodgers</A>&nbsp;(Microsoft) | @mediocrebowler&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=613" target="_blank" rel="noopener nofollow noreferrer">10:13</A></LI>
+<LI>PnP SPFx Controls&nbsp;-&nbsp;<A href="https://twitter.com/mediocrebowler" target="_blank" rel="noopener nofollow noreferrer">Patrick Rodgers</A>&nbsp;(Microsoft) | @mediocrebowler&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=654" target="_blank" rel="noopener nofollow noreferrer">10:54</A></LI>
+<LI>PnP Modern Search&nbsp;-&nbsp;<A href="https://twitter.com/mediocrebowler" target="_blank" rel="noopener nofollow noreferrer">Patrick Rodgers</A>&nbsp;(Microsoft) | @mediocrebowler&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=690" target="_blank" rel="noopener nofollow noreferrer">11:30&nbsp;</A></LI>
 <LI>PnP SPFx Samples -&nbsp;<A href="https://twitter.com/bernierh" target="_blank" rel="noopener nofollow noreferrer">Hugo Bernier</A>&nbsp;(Tahoe Ninjas) | @bernierh&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=731" target="_blank" rel="noopener nofollow noreferrer">12:11</A></LI>
-<LI>PnP SPFx ACEs Samples -&nbsp;<A href="http://twitter.com/DavidWarnerII" target="_blank" rel="noopener nofollow noreferrer">David Warner II</A>&nbsp;(Catapult Systems) | @DavidWarnerII&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=825" target="_blank" rel="noopener nofollow noreferrer">13:45</A></LI>
+<LI>PnP SPFx ACEs Samples -&nbsp;<A href="https://twitter.com/DavidWarnerII" target="_blank" rel="noopener nofollow noreferrer">David Warner II</A>&nbsp;(Catapult Systems) | @DavidWarnerII&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=825" target="_blank" rel="noopener nofollow noreferrer">13:45</A></LI>
 </UL>
 <P><STRONG>Demos:</STRONG></P>
 <UL>
-<LI><STRONG>Demo 1</STRONG>:&nbsp; Change Page Layout Type Command Set Extension –&nbsp;<A href="http://twitter.com/sudharsank" target="_blank" rel="noopener nofollow noreferrer">Sudharsan Kesavanarayanan</A>&nbsp;(NTT) | @sudharsank&nbsp;– <A href="https://youtu.be/9ofUQax_Fio?t=938" target="_blank" rel="noopener nofollow noreferrer">15:38</A></LI>
-<LI><STRONG>Demo 2</STRONG>:&nbsp; Microsoft Clarity Application Customizer –&nbsp;<A href="http://twitter.com/joao12ferreira" target="_blank" rel="noopener nofollow noreferrer">João Ferreira</A>&nbsp;(Beezy) | @joao12ferreira&nbsp;– <A href="https://youtu.be/9ofUQax_Fio?t=1305" target="_blank" rel="noopener nofollow noreferrer">21:45</A></LI>
-<LI><STRONG>Demo 3</STRONG>:&nbsp; Improvements to the&nbsp;Community&nbsp;SPFx Samples Gallery -&nbsp;<A href="http://twitter.com/bernierh" target="_blank" rel="noopener nofollow noreferrer">Hugo Bernier</A>&nbsp;(Microsoft)&nbsp;| @bernierh&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=1884" target="_blank" rel="noopener nofollow noreferrer">31:24&nbsp;</A></LI>
+<LI><STRONG>Demo 1</STRONG>:&nbsp; Change Page Layout Type Command Set Extension –&nbsp;<A href="https://twitter.com/sudharsank" target="_blank" rel="noopener nofollow noreferrer">Sudharsan Kesavanarayanan</A>&nbsp;(NTT) | @sudharsank&nbsp;– <A href="https://youtu.be/9ofUQax_Fio?t=938" target="_blank" rel="noopener nofollow noreferrer">15:38</A></LI>
+<LI><STRONG>Demo 2</STRONG>:&nbsp; Microsoft Clarity Application Customizer –&nbsp;<A href="https://twitter.com/joao12ferreira" target="_blank" rel="noopener nofollow noreferrer">João Ferreira</A>&nbsp;(Beezy) | @joao12ferreira&nbsp;– <A href="https://youtu.be/9ofUQax_Fio?t=1305" target="_blank" rel="noopener nofollow noreferrer">21:45</A></LI>
+<LI><STRONG>Demo 3</STRONG>:&nbsp; Improvements to the&nbsp;Community&nbsp;SPFx Samples Gallery -&nbsp;<A href="https://twitter.com/bernierh" target="_blank" rel="noopener nofollow noreferrer">Hugo Bernier</A>&nbsp;(Microsoft)&nbsp;| @bernierh&nbsp;–&nbsp;<A href="https://youtu.be/9ofUQax_Fio?t=1884" target="_blank" rel="noopener nofollow noreferrer">31:24&nbsp;</A></LI>
 </UL>
 <P><STRONG>Resources:</STRONG></P>
 <P>Additional resources around the covered topics and links from the slides.</P>
@@ -1826,7 +1826,7 @@ LITHIUM.RenderedScripts = [
 <LI><STRONG>D3</STRONG>:&nbsp; Documentation - <A style="font-family: inherit; background-color: #ffffff;" href="https://docs.microsoft.com/sharepoint/dev/spfx/compatibility" target="_blank" rel="noopener noreferrer">SharePoint Framework development tools and libraries compatibility</A><SPAN style="font-family: inherit;">&nbsp;</SPAN></LI>
 <LI><STRONG>D3</STRONG>:&nbsp;&nbsp;Tools - <A style="font-family: inherit; background-color: #ffffff;" href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers" target="_blank" rel="noopener noreferrer">Remote – Containers (Preview)</A><SPAN style="font-family: inherit;">&nbsp;</SPAN></LI>
 <LI><STRONG>D3</STRONG>:&nbsp;&nbsp;Documentation - <A style="font-family: inherit; background-color: #ffffff;" href="https://code.visualstudio.com/docs/remote/containers-tutorial" target="_blank" rel="noopener noreferrer">Remote development in Containers</A><SPAN style="font-family: inherit;">&nbsp;</SPAN></LI>
-<LI><STRONG>Microsoft 365 PnP Weekly – Episode 154</STRONG> (February 21<SUP>st</SUP>) with London/India - based Developer, Product Owner, Technical Architect, MVP, <A href="http://twitter.com/vrdmn" target="_blank" rel="noopener nofollow noreferrer">Vardhaman Deshpande</A> (Valo Solutions) | @vrdmn |&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-154-%e2%80%93-21st-of-february-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></LI>
+<LI><STRONG>Microsoft 365 PnP Weekly – Episode 154</STRONG> (February 21<SUP>st</SUP>) with London/India - based Developer, Product Owner, Technical Architect, MVP, <A href="https://twitter.com/vrdmn" target="_blank" rel="noopener nofollow noreferrer">Vardhaman Deshpande</A> (Valo Solutions) | @vrdmn |&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-154-%e2%80%93-21st-of-february-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></LI>
 <LI><STRONG>Microsoft 365 PnP Weekly – Episode 153</STRONG> (February 14<SUP>th</SUP>) with Redmond, Washington, US-based Senior Program Manager in the OneDrive and SharePoint organization responsible of the Power Platform integration,&nbsp;<A href="https://www.linkedin.com/in/sudha-narayanan-3295326a/" target="_blank" rel="noopener nofollow noreferrer">Sudha Narayanan</A>&nbsp;(Microsoft) |&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-153-sudha-narayanan/ba-p/3164026" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-153-%E2%80%93-14th-of-february-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></LI>
 </UL>
 <P><STRONG>General Resources:</STRONG></P>
@@ -3151,7 +3151,7 @@ LITHIUM.RenderedScripts = [
             </a>
         </li>
         <li class="social-share-option">
-            <a class="social-share-link social-share-twitter" href="http://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Viva Connections &amp; SharePoint Framework Community Call – 24th of February, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-24th-of/ba-p/3168855?attachment-id=50153" target="_blank" title="Share to Twitter">
+            <a class="social-share-link social-share-twitter" href="https://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Viva Connections &amp; SharePoint Framework Community Call – 24th of February, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-24th-of/ba-p/3168855?attachment-id=50153" target="_blank" title="Share to Twitter">
                 <span class="social-share-title">Share to Twitter</span>
             </a>
         </li>

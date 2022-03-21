@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=jzNzUyk71MA
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Portugal based, technologist, author, MVP Office Dev and Windows Insider, [João Ferreira](http://twitter.com/joao12ferreira) (Beezy) | @Joao12Ferreira.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Portugal based, technologist, author, MVP Office Dev and Windows Insider, [João Ferreira](https://twitter.com/joao12ferreira) (Beezy) | @Joao12Ferreira.
 
 Topics discussed in this session:
 
@@ -29,7 +29,7 @@ We also covered 14 articles published by Microsoft and the PnP Community over th
 
 ## This week
 
-*   **Waldek** – is working with [Alex Terentiev](http://twitter.com/alexaterentiev) (Microsoft) | @alexaterentiev, to build a command to validate an SPFx project set-up, tips on improving Teams app developer experience using Angular.
+*   **Waldek** – is working with [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @alexaterentiev, to build a command to validate an SPFx project set-up, tips on improving Teams app developer experience using Angular.
 *   **Vesa** – meetings, meetings and meetings + SPFx v1.15 preview release. 
 *   **João** – investigating tech opportunities, prepping View Formatting samples and documentation to share with PnP Community.
 

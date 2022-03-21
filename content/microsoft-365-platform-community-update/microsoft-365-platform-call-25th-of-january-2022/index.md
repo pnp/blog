@@ -25,7 +25,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
     *   Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/) focused on the latest news and topics on Microsoft 365 hosted by Vesa Juvonen and Waldek Mastykarz
 *   Hear about the latest 4 Microsoft 365 Platform related stories and absorb 3 demos delivered by Microsoft presenters on latest capabilities of the Microsoft 365 platform.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and live at end of the call.   
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and live at end of the call.   
 
 ## Microsoft 365 Platform News Flash
 
@@ -78,8 +78,8 @@ Topics covered in this call
 
 *   Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [7:01](https://youtu.be/F5JcbIlxSpo?t=421)
 *   **D1**:  Latest with Microsoft Graph connectors – [Arvind Ravi](https://www.linkedin.com/in/arvindravi/) (Microsoft) – [10:09](https://youtu.be/F5JcbIlxSpo?t=609)
-*   **D2**:  When to build Viva Connections Adaptive Card Extensions – [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [26:02](https://youtu.be/F5JcbIlxSpo?t=1562)
-*   **D3**:  Microsoft Graph Toolkit – Using the Teams Channel Picker Component in your solutions – [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [38:13](https://youtu.be/F5JcbIlxSpo?t=2293)
+*   **D2**:  When to build Viva Connections Adaptive Card Extensions – [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [26:02](https://youtu.be/F5JcbIlxSpo?t=1562)
+*   **D3**:  Microsoft Graph Toolkit – Using the Teams Channel Picker Component in your solutions – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [38:13](https://youtu.be/F5JcbIlxSpo?t=2293)
 
 ## Resources
 
@@ -115,7 +115,7 @@ Additional resources around the covered topics and links from the slides.
     
 *   **D3:**  Learn - [Develop apps with the Microsoft Graph Toolkit](https://aka.ms/mgt/learn) | [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
     
-*   Previous demos delivered by [Sébastien Levert](http://twitter.com/sebastienlevert) on Microsoft Graph Toolkit (MGT)
+*   Previous demos delivered by [Sébastien Levert](https://twitter.com/sebastienlevert) on Microsoft Graph Toolkit (MGT)
     
     *   [Discover the Microsoft Graph Toolkit](https://youtu.be/JkgFrbtwdJU?t=476) – 7 December 2021
     *   [Microsoft Graph Toolkit – Using Login Component in your solutions](https://youtu.be/HfBVaeGRDw8?t=2375) – 14 December 2021
@@ -123,7 +123,7 @@ Additional resources around the covered topics and links from the slides.
     *   [Microsoft Graph Toolkit – Using the People Component in your solutions](https://youtu.be/WU_CqJC5fyQ?t=2163) – 11 January 2022
     *   [Microsoft Graph Toolkit – Using the People Picker Component in your solutions](https://youtu.be/YG16snk1fJU?t=2424) – 18 January 2022
 
-*   **PnP Weekly – Episode 150** (January 24th) with London, UK-based SharePoint developer architect and MVP, [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-150-%E2%80%93-24th-of-january-2022/)
+*   **PnP Weekly – Episode 150** (January 24th) with London, UK-based SharePoint developer architect and MVP, [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-150-%E2%80%93-24th-of-january-2022/)
 
 ## General resources
 

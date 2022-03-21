@@ -28,7 +28,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 *   Hear about the latest 10 Microsoft 365 Platform related stories and take-in 3 demos delivered by Microsoft presenters on the latest capabilities of the Microsoft 365 platform.
 *   New series launched – [Learn from the community](https://aka.ms/LearnFromTheCommunity/ThisWeek).  This week’s article:  [Learn from the community: React web app and Azure QnA bot to centralize learning resources](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-react-web-app-and-azure-qna-bot-to-centralize-learning-resources/)
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and live at end of the call.   
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and live at end of the call.   
 
 ## Microsoft 365 Platform News Flash
 
@@ -80,10 +80,10 @@ Thank you for your work. Samples are often showcased in Demos.
 
 ## Topics
 
-*   Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [8:11](https://youtu.be/AHF8poXLZ10?t=491)
+*   Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [8:11](https://youtu.be/AHF8poXLZ10?t=491)
 *   **D1**:  Introduction to Intune APIs on Microsoft Graph – Dave Randall (Microsoft) – [12:33](https://youtu.be/AHF8poXLZ10?t=753)
-*   **D2**:  Creating engaging and dynamic Viva Connections mobile experiences – [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [25:33](https://youtu.be/AHF8poXLZ10?t=1533)
-*   **D3**:  Using the MGT Files Components in your solutions – [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [36:38](https://youtu.be/AHF8poXLZ10?t=2198)
+*   **D2**:  Creating engaging and dynamic Viva Connections mobile experiences – [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler – [25:33](https://youtu.be/AHF8poXLZ10?t=1533)
+*   **D3**:  Using the MGT Files Components in your solutions – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [36:38](https://youtu.be/AHF8poXLZ10?t=2198)
 
 ## Resources
 
@@ -99,21 +99,21 @@ Additional resources around the covered topics and links from the slides.
 *   **D2:**  Sample - [ace-dynamic-card](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-dynamic-card) 
 *   **D2:**  Documentation - [Overview of Viva Connections Extensibility](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
 *   **D2:**  Samples - [Viva Connection Adaptive Card Extensions (ACEs) sample repository](https://github.com/pnp/sp-dev-fx-aces) 
-*   Previous demos in [Patrick Rodgers](http://twitter.com/mediocrebowler) | @mediocrebowler, Adaptive Card Extensions series
+*   Previous demos in [Patrick Rodgers](https://twitter.com/mediocrebowler) | @mediocrebowler, Adaptive Card Extensions series
     *   [When to build Viva Connections Adaptive Card Extensions](https://youtu.be/F5JcbIlxSpo?t=1562) – 25th of January
     *   [Deep dive on Viva Connections Adaptive Card Extension development – State management](https://youtu.be/YG16snk1fJU?t=1718) – 30th of January
 *   **D3:**  Documentation - [File component in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/components/file) 
 *   **D3:**  Tool - [Microsoft Graph Toolkit Playground – File](https://mgt.dev/?path=/story/components-mgt-file--file) 
 *   **D3:**  Repo - [MGT Sandbox](https://github.com/sebastienlevert/mgt-sandbox) 
 *   **D3:**  Learn - [Develop apps with the Microsoft Graph Toolkit](https://aka.ms/mgt/learn) | [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
-*   Previous demos in [Sébastien Levert](http://twitter.com/sebastienlevert)’s (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766), Microsoft Graph Toolkit (MGT) series
+*   Previous demos in [Sébastien Levert](https://twitter.com/sebastienlevert)’s (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766), Microsoft Graph Toolkit (MGT) series
     *   [Discover the Microsoft Graph Toolkit](https://youtu.be/JkgFrbtwdJU?t=476) – 7 December 2021
     *   [Microsoft Graph Toolkit – Using Login Component in your solutions](https://youtu.be/HfBVaeGRDw8?t=2375) – 14 December 2021
     *   [Microsoft Graph Toolkit – Using the Person Component in your solutions](https://youtu.be/kZ_JwZpbJb4?t=1158) – 4 January 2022
     *   [Microsoft Graph Toolkit – Using the People Component in your solutions](https://youtu.be/WU_CqJC5fyQ?t=2163) – 11 January 2022
     *   [Microsoft Graph Toolkit – Using the People Picker Component in your solutions](https://youtu.be/YG16snk1fJU?t=2424) – 18 [Microsoft Graph Toolkit – Using the Teams Channel Picker Component in your solutions](https://youtu.be/F5JcbIlxSpo?t=2293) – 25 January 2022
     *   [Using the MGT Agenda and Tasks Components in your solutions](https://youtu.be/Ddc0vZYAXDs?t=2619) – 1 February 2022
-*   **Microsoft 365 PnP Weekly – Episode 152** (February 7th) with Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) | @bernierh | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-152-hugo-bernier/ba-p/3131722) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-152-%E2%80%93-7th-of-february-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 152** (February 7th) with Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-152-hugo-bernier/ba-p/3131722) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-152-%E2%80%93-7th-of-february-2022/)
 
 ## General resources
 

@@ -15,11 +15,11 @@ videos:
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by are joined by Scotland-based Solution Architect, dual
-MVP [Veronique Lengelle](http://twitter.com/veronicageek)
+MVP [Veronique Lengelle](https://twitter.com/veronicageek)
 ([CPS](https://www.cps.co.uk/)) | @veronicageek.
   
 The discussion included insights to the role of technical architect for
@@ -115,7 +115,7 @@ everyone for your contributions to the community!
 -   [Init API permissions for your SPFx projects without deploying
     them](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/init-api-permissions-for-your-spfx-projects-without-deploying/ba-p/2189059) - [Michaël
     Maillot](https://twitter.com/michael_maillot) (onepoint)
-    | [@michael](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/43617)\_maillot
+    | @michael\_maillot
 -   [Getting started with SharePoint
     Framework](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-framework/ba-p/2193307) -
     [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)

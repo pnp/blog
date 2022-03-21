@@ -109,8 +109,8 @@ Channel](https://aka.ms/m365pnp-videos).
 -   Community contributors and companies which have been involved in the
     past month -- [12:50](https://youtu.be/CP_q6eRe3X4?t=770) 
 -   **Topic: **Getting started with Microsoft Viva Connections Desktop -
-    [Tejas Mehta](http://twitter.com/tpmehta) (Microsoft) | @tpmehta
-    and [Prateek Dudeja](http://twitter.com/PrateekDudeja4) (Microsoft)
+    [Tejas Mehta](https://twitter.com/tpmehta) (Microsoft) | @tpmehta
+    and [Prateek Dudeja](https://twitter.com/PrateekDudeja4) (Microsoft)
     | @PrateekDudeja4 -- [16:16](https://youtu.be/CP_q6eRe3X4?t=976)
 The full recording of this session is available from Microsoft 365 &
 SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
@@ -129,7 +129,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/Viva>
 
 -   PnP Weekly -- Episode 122 with guest MVP [Mark
-    Rackley](http://twitter.com/mrackley) (PAIT Group) | @mrackley|
+    Rackley](https://twitter.com/mrackley) (PAIT Group) | @mrackley|
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-122/ba-p/2268519)
     |
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-122-12th-of-april-2021/)

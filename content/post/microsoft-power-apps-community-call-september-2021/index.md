@@ -19,10 +19,10 @@ management and desk reservation solutions), **Power Apps Design
 Philosophy** (an aligned value-based approach/process to building Apps),
 along with **Recent Power Apps News and Community Contributions**, and
 more!  This session included Q&A in chat.  The call was hosted by [Todd
-Baginski](http://twitter.com/toddbaginski) (Canviz).  Demo presenters
-are [Reza Dorrani](http://twitter.com/rezadorrani), [May
-Alhajri](http://twitter.com/MayAlhajri2) and [Charles
-Sterling](http://twitter.com/chass).  This call was recorded on
+Baginski](https://twitter.com/toddbaginski) (Canviz).  Demo presenters
+are [Reza Dorrani](https://twitter.com/rezadorrani), [May
+Alhajri](https://twitter.com/MayAlhajri2) and [Charles
+Sterling](https://twitter.com/chass).  This call was recorded on
 September 15, 2021.  Thank for attending the call or viewing it on
 demand. 
 
@@ -30,15 +30,15 @@ demand. 
 ## Agenda
 
 -   Visio, Power BI Tiles, and Reports in Power Apps! - [Reza
-    Dorrani](http://twitter.com/rezadorrani) (Catapult) |
+    Dorrani](https://twitter.com/rezadorrani) (Catapult) |
     [rdorrani](https://github.com/rdorrani) --
     [4:13](https://youtu.be/8bDUAK6N8Jg?t=253)
 -   Power Apps Design Philosophy - [May
-    Alhajri](http://twitter.com/MayAlhajri2) |
-    [@MayAlhajri2](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696) --
+    Alhajri](https://twitter.com/MayAlhajri2) |
+    @MayAlhajri2 --
     [34:04](https://youtu.be/8bDUAK6N8Jg?t=2044)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) | @chass --
+    Sterling](https://twitter.com/chass) (Microsoft) | @chass --
     [50:53](https://youtu.be/8bDUAK6N8Jg?t=3053)
 
  

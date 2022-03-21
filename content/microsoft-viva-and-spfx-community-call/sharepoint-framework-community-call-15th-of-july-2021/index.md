@@ -43,7 +43,7 @@ previous report 2 weeks ago) 
 
 There were 2 **PnP SPFx extensions** and **7 web part samples**
 delivered in the last 2 weeks as well.  Way to go contributors!    The
-host of this call is [David Warner II](http://twitter.com/DavidWarnerII)
+host of this call is [David Warner II](https://twitter.com/DavidWarnerII)
 (Catapult Systems) @DavidWarnerII.  Q&A takes place in chat throughout
 the call.
 {{< image alt="210715-together-mode.gif" src="images/210715-together-mode.gif" >}}
@@ -112,55 +112,55 @@ everyone.   See you again soon!  
 -   **[List
     Notifications](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-my-lists-notifications)
     -** [João
-    Mendes](http://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
+    Mendes](https://twitter.com/joaojmendes) | [joaojmendes](https://github.com/joaojmendes)
 -   **[Google
     Analytics](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-application-analytics)
     -** [João
-    Ferreira](http://twitter.com/joao12ferreira) | @joao12ferreira
+    Ferreira](https://twitter.com/joao12ferreira) | @joao12ferreira
 
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
 
 -   **[Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)** -
-    [Mohammad Amer](http://twitter.com/Mohammad3mer) | @Mohammad3mer
+    [Mohammad Amer](https://twitter.com/Mohammad3mer) | @Mohammad3mer
 -   **[Tiles
     V2](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-tiles-v2)** -
-    [Omar El-Anis](http://twitter.com/omarelanis) | @omarelanis
+    [Omar El-Anis](https://twitter.com/omarelanis) | @omarelanis
 -   **[Team Membership
     Updater](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-membership-updater)** -
-    [Nick Brown](http://twitter.com/techienickb) | @techienickb
+    [Nick Brown](https://twitter.com/techienickb) | @techienickb
 -   **[Facebook Page Social
     Plugin](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-facebook-plugin)** -
-    [Ari Gunawan](http://twitter.com/AriGunawan3023) | @AriGunawan3023
+    [Ari Gunawan](https://twitter.com/AriGunawan3023) | @AriGunawan3023
 -   **[Hero Web
     Part](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-hero-webpart)** -
-    [Omar El-Anis](http://twitter.com/omarelanis) | @omarelanis
+    [Omar El-Anis](https://twitter.com/omarelanis) | @omarelanis
 -   **[Page
     Contributors](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-pagecontributors)** -
-    [Ari Gunawan](http://twitter.com/AriGunawan3023) | @AriGunawan3023
+    [Ari Gunawan](https://twitter.com/AriGunawan3023) | @AriGunawan3023
 -   **[Private Library/Folder
     Manager](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-private-libraries)** -
     [Russell
-    Gove](http://twitter.com/russgove) | [@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
+    Gove](https://twitter.com/russgove) | @russgove
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
 ## Agenda items
 
 -   SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
     | @vesajuvonen - [7:33](https://youtu.be/RwgpMcqLgrs?t=455)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [10:53](https://youtu.be/RwgpMcqLgrs?t=653)
 -   CLI for Microsoft 365 - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems)  |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems)  |
     @DavidWarnerII  -- [12:52](https://youtu.be/RwgpMcqLgrs?t=772)
 -   PnP SPFx Controls - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems)  |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems)  |
     @DavidWarnerII -- [13:35](https://youtu.be/RwgpMcqLgrs?t=815)
 -   PnP Modern Search - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems)  |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems)  |
     @DavidWarnerII -- [14:33](https://youtu.be/RwgpMcqLgrs?t=873)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
@@ -170,14 +170,14 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   **Demo:**  Building a COVID attestation solution for Microsoft Teams
     and Viva Connections with SPFx -- [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
-    @jfj1997 & [Derek Cash-Peterson](http://twitter.com/spdcp)
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
+    @jfj1997 & [Derek Cash-Peterson](https://twitter.com/spdcp)
     (Sympraxis Consulting) |
-    [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549) [--][ [18:57](https://youtu.be/RwgpMcqLgrs?t=1137)]
+    @Spdcp]
 
 -   **Demo:**[  Building SharePoint Framework solutions with Microsoft
     Teams Toolkit v2 -- ][Vesa
-    Juvonen](http://twitter.com/vesajuvonen)[ (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen)[ (Microsoft) |
     @vesajuvonen]
 
     [

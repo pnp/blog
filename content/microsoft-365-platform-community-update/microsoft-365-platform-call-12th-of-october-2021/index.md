@@ -52,7 +52,7 @@ platform.   
     organizations and Microsoft employees who have contributed their
     time and talent to this community over the last month.  
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen)
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout the
 call and specifically during the last 10 minutes of call. 
 
@@ -152,7 +152,7 @@ Topics covered in this call
     Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [8:40](https://youtu.be/UONwL2HmpPc?t=520)
 -   **Demo 1:**  Hands-on with Microsoft Graph File Uploads and
-    Downloads -- [Bob German](http://twitter.com/Bob1German) (Microsoft)
+    Downloads -- [Bob German](https://twitter.com/Bob1German) (Microsoft)
     | @Bob1German -- [12:39](https://youtu.be/UONwL2HmpPc?t=759)
 -   **Demo 2:**  Microsoft Teams Toolkit v2 and SharePoint Framework
     debugging -- [Vesa Juvonen](https://twitter.com/vesajuvonen)
@@ -188,18 +188,18 @@ slides.
 
 -   **PnP Weekly -- Episode 138** (October 11th) with Germany-based
     Office Apps and Services MVP, consultant, developer [Luise
-    Freese](http://twitter.com/LuiseFreese) | @LuiseFreese and
+    Freese](https://twitter.com/LuiseFreese) | @LuiseFreese and
     Belgium-based SharePoint/Power Platform developer at Qubix, [Carmen
-    Ysewijn](http://twitter.com/CarmenYsewijn) | @CarmenYsewijn
+    Ysewijn](https://twitter.com/CarmenYsewijn) | @CarmenYsewijn
     | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-138-carmen-ysewijn-qubix-and/ba-p/2834568) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-138-%E2%80%93-11th-of-october-2021/)
 
 -   [Microsoft 365 Developer
     Podcast](https://m365devpodcast.com/) focused  exclusively on
     Microsoft 365 dev topics -- hosted by [Jeremy
-    Thake](http://twitter.com/jthake) (Microsoft) |
+    Thake](https://twitter.com/jthake) (Microsoft) |
 
     @jthake and [Paul
-    Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
+    Schaeflein](https://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
 ## General resources

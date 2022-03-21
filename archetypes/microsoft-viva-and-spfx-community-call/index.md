@@ -51,7 +51,7 @@ SharePoint Framework (SPFx)|CURRENT VERSION|STATUS
 [PnP SPFx Generator](https://github.com/pnp/generator-spfx)|CURRENT VERSION|STATUS
 [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|CURRENT VERSION|STATUS
 
-The host of this call is [NAME](http://twitter.com/TWITTER) (Microsoft) | @TWITER.  Q&A takes place as always in chat throughout the call.
+The host of this call is [NAME](https://twitter.com/TWITTER) (Microsoft) | @TWITER.  Q&A takes place as always in chat throughout the call.
 
 {{< image alt="A bunch of people smiling and waving" src="images/together-mode.gif" >}}
 
@@ -95,25 +95,25 @@ Demo description
 
 <https://aka.ms/spfx-extensions>
 
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER  
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER  
 
 ## SPFx web part samples
 
 <https://aka.ms/spfx-webparts>
 
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER  
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER  
 
 ## PnP SPFx ACEs
 
 <https://aka.ms/spfx-aces>
 
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER  
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER  
 
 \* To be posted soon.
 
@@ -121,20 +121,20 @@ Thank you for your great work.  Samples are often showcased in Demos.    
 
 ## Agenda items
 
--   SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
--   PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
--   CLI for Microsoft 365 - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
--   PnP SPFx Controls - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
--   PnP Modern Search \- [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
+-   SharePoint Framework - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
+-   PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
+-   CLI for Microsoft 365 - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
+-   PnP SPFx Controls - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
+-   PnP Modern Search \- [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
 -   PnP SPFx Samples - [Hugo Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) | @bernierh – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
--   PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
+-   PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##)
 -   Use `timepoint` snippet to enter more
 
 ## Demos
 
--   **Demo 1**:  TITLE – [PRESENTER](http://twitter.com/TWITTER) (Company) | @TWITTER – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##) 
--   **Demo 2**:  TITLE – [PRESENTER](http://twitter.com/TWITTER) (Company) | @TWITTER – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##) 
--   **Demo 3**:  TITLE – [PRESENTER](http://twitter.com/TWITTER) (Company) | @TWITTER – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##) 
+-   **Demo 1**:  TITLE – [PRESENTER](https://twitter.com/TWITTER) (Company) | @TWITTER – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##) 
+-   **Demo 2**:  TITLE – [PRESENTER](https://twitter.com/TWITTER) (Company) | @TWITTER – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##) 
+-   **Demo 3**:  TITLE – [PRESENTER](https://twitter.com/TWITTER) (Company) | @TWITTER – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##) 
     
 
 ## Resources
@@ -148,8 +148,8 @@ Additional resources around the covered topics and links from the slides.
 -   **D2**:  Sample - [TITLE](https://github.com/LINK)  
 -   **D3**:  Article - [TITLE](URL) 
 -   **D3**:  Sample - [TITLE](https://github.com/LINK) 
--   **Microsoft 365 PnP Weekly – Episode NUMBER** (DATE) DESCRIPTION, [NAME](http://twitter.com/TWITTER) | @TWITTER | [video](VIDEO URL) | [podcast](https://pnpweekly.podbean.com/e/EPISODECODE)
--   **Microsoft 365 PnP Weekly – Episode NUMBER** (DATE) DESCRIPTION, [NAME](http://twitter.com/TWITTER) | @TWITTER | [video](VIDEO URL) | [podcast](https://pnpweekly.podbean.com/e/EPISODECODE)
+-   **Microsoft 365 PnP Weekly – Episode NUMBER** (DATE) DESCRIPTION, [NAME](https://twitter.com/TWITTER) | @TWITTER | [video](VIDEO URL) | [podcast](https://pnpweekly.podbean.com/e/EPISODECODE)
+-   **Microsoft 365 PnP Weekly – Episode NUMBER** (DATE) DESCRIPTION, [NAME](https://twitter.com/TWITTER) | @TWITTER | [video](VIDEO URL) | [podcast](https://pnpweekly.podbean.com/e/EPISODECODE)
 
 ## General Resources
 
@@ -160,7 +160,7 @@ Additional resources around the covered topics and links from the slides.
     
 -   Gallery - [Microsoft 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)   
 -   [Microsoft Build sessions guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital Brochure) - aka.ms/modernworkbuildsessions
--   SharePoint Framework - v1.12.1 npm install –g [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
+-   SharePoint Framework - v1.12.1 npm install –g @microsoft/generator-sharepoint@next
 -   [CLI for Microsoft 365 v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) | aka.ms/sharing-is-caring

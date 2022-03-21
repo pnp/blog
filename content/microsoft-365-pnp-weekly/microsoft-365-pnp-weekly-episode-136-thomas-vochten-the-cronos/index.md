@@ -12,9 +12,9 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Belgium-based MVP and Technology Evangelist from The [Cronos
 Group](https://cronos-groep.be/en/) - [Thomas
 Vochten](https://twitter.com/ThomasVochten) | @ThomasVochten.

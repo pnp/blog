@@ -14,7 +14,7 @@ videos:
 ---
  
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Business Applications MVP, Flow Pro Show co-host, NLightning co-founder and Technical Evangelist at SharePoint ISV Lightning Tools [Sandy Ussia](https://twitter.com/SandyU) | @SandyU.   Topics discussed in this session include:  The appeal of Power Apps and Power Automate - enabling Power Users especially in resource constrained smaller businesses, whether or not Power Apps is the epitome or fulfillment of "Good-enough IT", Sandy 2.0, and Lightning Tools' business in COVID times.    Microsoft and the Community delivered 22 articles in this last week.  This session was recorded on Monday, May 3, 2021. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Business Applications MVP, Flow Pro Show co-host, NLightning co-founder and Technical Evangelist at SharePoint ISV Lightning Tools [Sandy Ussia](https://twitter.com/SandyU) | @SandyU.   Topics discussed in this session include:  The appeal of Power Apps and Power Automate - enabling Power Users especially in resource constrained smaller businesses, whether or not Power Apps is the epitome or fulfillment of "Good-enough IT", Sandy 2.0, and Lightning Tools' business in COVID times.    Microsoft and the Community delivered 22 articles in this last week.  This session was recorded on Monday, May 3, 2021. 
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
@@ -86,7 +86,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     Trigger](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/ba-p/2308467?WT.mc_id=m365-27094-wmastyka) -
     [Damien Bird](https://twitter.com/DamoBird365) (Aberdeen City
     Council)
-    | [@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
+    | @DamoBird365
 -   [How to get Source Code files for Power Apps Canvas
     apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-get-source-code-files-for-power-apps-canvas-apps/ba-p/2308822?WT.mc_id=m365-27094-wmastyka) - [Luise
     Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
@@ -107,7 +107,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     Automate](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/ba-p/2290219?WT.mc_id=m365-26913-wmastyka)
     - [Damien Bird](https://twitter.com/DamoBird365) (Aberdeen City
     Council)
-    | [@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
+    | @DamoBird365
 -   [SPFx Check Locale - a nice option to check your localization
     consistency across SharePoint
     Framework\...](https://spblog.net/post/2021/04/29/spfx-check-locale-a-nice-option-to-check-your-localization-consistency-across-sharepoint-framework-solution) -

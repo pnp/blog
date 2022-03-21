@@ -124,32 +124,32 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys.com) |
+    Pialorsi](https://twitter.com/paolopia) (PiaSys.com) |
     @paolopia - [9:57](https://youtu.be/rOHSrG1n43Y?t=597)
 
--   PnP PowerShell - [Erwin van Hunen](http://twitter.com/erwinvanhunen)
+-   PnP PowerShell - [Erwin van Hunen](https://twitter.com/erwinvanhunen)
     (Valo Intranet) | @erwinvanhunen -
     [12:13](https://youtu.be/rOHSrG1n43Y?t=733)
 
 -   yo Teams updates - [Wictor
-    Wilén](http://twitter.com/wictor) (Avanade) | @wictor -
+    Wilén](https://twitter.com/wictor) (Avanade) | @wictor -
     [14:37](https://youtu.be/rOHSrG1n43Y?t=877)
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft)
+    Pan](https://twitter.com/beth_panx) (Microsoft)
     | [beth-panx](https://github.com/beth-panx) - [15:44](https://youtu.be/rOHSrG1n43Y?t=944)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German -
+    German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German -
     [16:49](https://youtu.be/rOHSrG1n43Y?t=1009)
 
 -   **Demo: ** Image Column Type formatting in Microsoft 365 - [Chris
-    Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent -
+    Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent -
     [19:09](https://youtu.be/rOHSrG1n43Y?t=1149)
 
 -   **Demo: ** Configure Teams Applications with Azure App Configuration
     and Azure Key Vault - [Markus
-    Moeller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0 -
+    Moeller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0 -
     [33:04](https://youtu.be/rOHSrG1n43Y?t=1984) 
 
 
@@ -189,7 +189,7 @@ slides.
 
 -   PnP Weekly -- Episode 132 with Seattle-based Program Manager from
     OneDrive and SharePoint (ODSP) engineering - [Nicole
-    Woon](http://twitter.com/NovelNicole) (Microsoft) |
+    Woon](https://twitter.com/NovelNicole) (Microsoft) |
     @NovelNicole | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-132-nicole-woon-microsoft/ba-p/2466409) | [podcast](https://pnpweekly.podbean.com/e/Microsoft-365-pnp-weekly-episode-132-21st-of-june-2021/)
 
 -   Microsoft 365 tenant -- [Script Samples

@@ -25,9 +25,9 @@ with Recent Power Apps News and Community Contributions, and more! 
 
 This
 session included Q&A in chat.  The call was hosted by [Todd
-Baginski](http://twitter.com/toddbaginski) (Canviz).  Demo presenters
+Baginski](https://twitter.com/toddbaginski) (Canviz).  Demo presenters
 are Varda Shrivastava, Juli Reid, and [Gerard
-Simpson](http://twitter.com/PowerFanAddict). 
+Simpson](https://twitter.com/PowerFanAddict). 
 
 This call was recorded on
 August 18, 2021.  Thank for attending the call or viewing it on demand. 
@@ -39,10 +39,10 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 -   Event Calendar Power App - Juli Reid --
     [14:09](https://youtu.be/KwXWgWoMLsk?t=849)
 -   How To Feed Your Dragon Game - [Gerard
-    Simpson](http://twitter.com/PowerFanAddict) (SSE Renewables) |
+    Simpson](https://twitter.com/PowerFanAddict) (SSE Renewables) |
     @PowerFanAddict -- [25:47](https://youtu.be/KwXWgWoMLsk?t=1547)
 -   Recent Power Apps News and Community Contributions -- [Charles
-    Sterling](http://twitter.com/chass) (Microsoft) | @chass
+    Sterling](https://twitter.com/chass) (Microsoft) | @chass
     -- [44:42](https://youtu.be/KwXWgWoMLsk?t=2682)
 
 

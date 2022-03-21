@@ -97,32 +97,32 @@ or viewing it on demand. 
 
 -   Demo Extravaganza!
     -   **Course Maker Solution** -- [Rory
-        Neary](http://twitter.com/azurerory) | @azurerory --
+        Neary](https://twitter.com/azurerory) | @azurerory --
         [4:52](https://youtu.be/4fqinmOt_TQ?t=292)
     -   **Number Puzzle** -- [Krishna
-        Rachakonda](http://twitter.com/rachakonda78) |
+        Rachakonda](https://twitter.com/rachakonda78) |
         @rachakonda78 -- [15:17](https://youtu.be/4fqinmOt_TQ?t=917)
     -   **Pandemic Response Solution** -- Venkat Rao, Nghiem Doan and
         Aakash Jain -- [26:37](https://youtu.be/4fqinmOt_TQ?t=1597)
     -   **Kitty Run! Game** -- [Nicholas
-        Nguyen](http://twitter.com/PowerAppsGamer1) |
+        Nguyen](https://twitter.com/PowerAppsGamer1) |
         @PowerAppsGamer1 --
         [43:21](https://youtu.be/4fqinmOt_TQ?t=2601)
     -   **Sports Stats Tracker** - [Todd
-        Baginski](http://twitter.com/toddbaginski) |
-        [@ToddBaginski](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/720073), [Matt
-        Schuessler](http://twitter.com/mattschues) |
-        @mattschues, [Hubert Sui](http://twitter.com/HubertSui) |
+        Baginski](https://twitter.com/toddbaginski) |
+        @ToddBaginski, [Matt
+        Schuessler](https://twitter.com/mattschues) |
+        @mattschues, [Hubert Sui](https://twitter.com/HubertSui) |
         @HubertSui, Sarah Meyer, and Damian Gibbs  --
         [58:16](https://youtu.be/4fqinmOt_TQ?t=3496)
 -   Recent Power Apps News and Community Contributions -- [Todd
-    Baginski](http://twitter.com/toddbaginski) |
-    [@ToddBaginski](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/720073)
+    Baginski](https://twitter.com/toddbaginski) |
+    @ToddBaginski
     and Charles Sterling (Microsoft) | @chass --
     [73:46](https://youtu.be/4fqinmOt_TQ?t=4426)
 -   Latest PnP Power Apps Samples -- [Todd
-    Baginski](http://twitter.com/toddbaginski) |
-    [@ToddBaginski](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/720073) --
+    Baginski](https://twitter.com/toddbaginski) |
+    @ToddBaginski --
     [74:47](https://youtu.be/4fqinmOt_TQ?t=4487)
 -   Demo Extravaganza 2021 Winner --
     [76:30](https://youtu.be/4fqinmOt_TQ?t=4590)
@@ -134,7 +134,7 @@ or viewing it on demand. 
 
 -   Demo - [Make your Power Apps user experience awesome with Gestalt
     design principles](https://youtu.be/k7LXbC49VxQ) - Rory Neary
-    [@azurerory](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/449976)  
+    @azurerory  
 
 -   Video - [Power Fx Canvas Apps from Zero to
     Hero](https://youtu.be/vpvuGhqgxKQ)

@@ -43,7 +43,7 @@ previous report 2 weeks ago) 
 Two **PnP SPFx samples** were delivered in the last 2 weeks as well. 
 There is a new samples repository for Adaptive Card Extensions (ACE) -
 aka.ms/spfx-aces.  Thank you all for your contributions!   The host of
-this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
+this call is [Patrick Rodgers](https://twitter.com/mediocrebowler)
 (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat
 throughout the call.
 Thank you everybody for being part of this call, the community, a tweet,
@@ -124,7 +124,7 @@ a blog post, and the solution to your customer's needs.  
 
 -   **[Share to
     Teams](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-share-to-teams)
-    -** [Kunj Sangani](http://twitter.com/sanganikunj) | @sanganikunj
+    -** [Kunj Sangani](https://twitter.com/sanganikunj) | @sanganikunj
 
 
 
@@ -132,7 +132,7 @@ a blog post, and the solution to your customer's needs.  
 
 -   **[At a
     Glance](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-myonedrive)
-    -** [Anoop Tatti](http://twitter.com/anooptells) | @anooptells 
+    -** [Anoop Tatti](https://twitter.com/anooptells) | @anooptells 
     (Link to My OneDrive sample is correct)
 
 Thank you for your great work.  Samples are often showcased in Demos. 
@@ -140,19 +140,19 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 ## Agenda items
 
 -   SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
     @vesajuvonen - [6:24](https://youtu.be/EIEFIL99WLc?t=384)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting)
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
     @jfj1997 -- [7:52](https://youtu.be/EIEFIL99WLc?t=472)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
     @mediocrebowler -- [9:05](https://youtu.be/EIEFIL99WLc?t=545)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
     @mediocrebowler -- [9:46](https://youtu.be/EIEFIL99WLc?t=586)
 -   PnP Modern Search - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
     @mediocrebowler -- [10:39](https://youtu.be/EIEFIL99WLc?t=639) 
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
@@ -161,16 +161,16 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 ## Demos
 
 -   **Demo:**  Hyperscript Tagged Markup (HTM) Templating -- [Fabio
-    Franzini](http://twitter.com/franzinifabio) | @franzinifabio --
+    Franzini](https://twitter.com/franzinifabio) | @franzinifabio --
     [13:15](https://youtu.be/EIEFIL99WLc?t=795)
 
 -   **Demo:**  Modernize your SharePoint Framework projects -- [Andrew
-    Connell](http://twitter.com/andrewconnell) (Voitanos) |
+    Connell](https://twitter.com/andrewconnell) (Voitanos) |
     @andrewconnell -- [26:38](https://youtu.be/EIEFIL99WLc?t=1598)
 
 -   **Demo:**  Building advanced image gallery experience with
     SharePoint Framework -- [Yannick
-    Reekmans](http://twitter.com/YannickReekmans) (Qubix) |
+    Reekmans](https://twitter.com/YannickReekmans) (Qubix) |
     @YannickReekmans -- [41:26](https://youtu.be/EIEFIL99WLc?t=2486)
 
 

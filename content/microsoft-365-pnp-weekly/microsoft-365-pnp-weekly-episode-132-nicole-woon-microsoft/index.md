@@ -12,11 +12,11 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Seattle-based Program Manager from OneDrive and SharePoint
-(ODSP) engineering - [Nicole Woon](http://twitter.com/NovelNicole)
+(ODSP) engineering - [Nicole Woon](https://twitter.com/NovelNicole)
 (Microsoft) | @NovelNicole .   Topics discussed in this episode
 include:  Nicole's product - SharePoint site templates.  The importance
 and Making products approachable to both the most advanced developer and
@@ -106,7 +106,7 @@ everyone for your contributions to the community!\
     and Luca
     Bandinelli](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-podcast-viva-connections-with-john/ba-p/2459393?WT.mc_id=m365-32540-wmastyka)
     - [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365)
-    | [@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113)
+    | @paulschaeflein
 -   [SharePoint Site Templates -- the latest features and
     experiences](https://www.youtube.com/watch?v=S165Pi0sJfQ) - [Nicole
     Woon](https://twitter.com/NovelNicole) (Microsoft) | @NovelNicole
@@ -119,9 +119,9 @@ everyone for your contributions to the community!\
     Microsoft Graph Toolkit
 -   [Save an email attachment to a custom path with Power
     Automate](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/save-an-email-attachment-to-a-custom-path-with-power-automate/ba-p/2465396?WT.mc_id=m365-32540-wmastyka)
-    - [Damien Bird](http://twitter.com/DamoBird365) (Aberdeen City
+    - [Damien Bird](https://twitter.com/DamoBird365) (Aberdeen City
     Council)
-    | [@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
+    | @DamoBird365
 -   [How to use Send an HTTP request to SharePoint in Power
     Automate?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-use-send-an-http-request-to-sharepoint-in-power-automate/ba-p/2439436?WT.mc_id=m365-32540-wmastyka) - [Chandani
     Prajapati](https://twitter.com/Chandani_SPD) | @Chandani_SPD
@@ -164,12 +164,12 @@ everyone for your contributions to the community!\
 -   [Creating a Modern SharePoint Site using Power
     Automate](https://michelcarlo.com/2021/06/19/create-a-modern-sharepoint-site-using-power-automate/)
     - [Michel Mendes](https://twitter.com/michelcarlo) (Storm Technology
-    Ltd) | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
+    Ltd) | @michelcarlo
 -   [Updates for Microsoft Teams connected team
     sites](https://regarding365.com/updates-for-microsoft-teams-connected-team-sites-6c8356cad790) - [Daniel
     Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) |
     @DanielGlenn, [Darrell
-    Webster](http://twitter.com/darrellaas) (Modern Workplace Change) |
+    Webster](https://twitter.com/darrellaas) (Modern Workplace Change) |
     @darrellaas
 -   [Business processes vs. automated
     activities](https://regarding365.com/business-processes-vs-automated-activities-d24f1f444f93)

@@ -13,7 +13,7 @@ videos:
 - https://www.youtube.com/watch?v=_SOkpwrJMG8
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on ][Microsoft 365][, hosts -- ][Vesa Juvonen](http://twitter.com/vesajuvonen)[ (Microsoft) | @vesajuvonen, ][Waldek Mastykarz](http://twitter.com/waldekm)[ (Microsoft) | @waldekm are joined by Antwerp, Belgium-based Power Platform Architect and Business Applications MVP, [Carmen Ysewijn](http://twitter.com/CarmenYsewijn) (Qubix) | @CarmenYsewijn.  ]
+In this installment of the weekly discussion revolving around the latest news and topics on ][Microsoft 365][, hosts -- ][Vesa Juvonen][https://twitter.com/vesajuvonen]( (Microsoft) | @vesajuvonen, )[Waldek Mastykarz](https://twitter.com/waldekm)[ (Microsoft) | @waldekm are joined by Antwerp, Belgium-based Power Platform Architect and Business Applications MVP, [Carmen Ysewijn](https://twitter.com/CarmenYsewijn) (Qubix) | @CarmenYsewijn.  ]
 
 Topics discussed in this session:
 
@@ -130,11 +130,11 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     present](https://www.blimped.nl/contributing-as-a-holiday-season-present/)
     - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU
     Business Solutions B.V.)
-    | [@martinlingstuyl](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/795423)
+    | @martinlingstuyl
 -   [Apply a DevOps process to your SPFx project (Part
     1)](https://michaelmaillot.github.io/articles/20220104-apply-devops-spfx-part1/)
     - [Michaël Maillot](https://twitter.com/michael_maillot) (onepoint)
-    | [@michael](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/43617)\_maillot
+    | @michael\_maillot
 -   [Export Microsoft Teams Chat Conversations using
     PowerShell](https://arjunumenon.com/export-microsoft-teams-chat-conversations-powershell/) -
     [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consultancy

@@ -50,4 +50,4 @@ Jackett
     Kuijs](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/93178) 
 -   [Displaying the Connected Account for Microsoft Graph on the
     Terminal
-    prompt](https://www.schaeflein.net/msgraph-terminal-prompt/) [@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113) 
+    prompt](https://www.schaeflein.net/msgraph-terminal-prompt/) @paulschaeflein 

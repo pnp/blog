@@ -37,7 +37,7 @@ PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1
 While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.
 {{< /notice >}}
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII.   Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 {{< youtube NqwmtJyDEo8 >}}
 
@@ -88,8 +88,8 @@ Delivered - 46 Bot samples from the Microsoft Bot Framework Team – each sample
 
 <https://aka.ms/powerplatform-samples>
 
-*   **Teams Adaptive Card Reminders From Lists\* -** [Norm Young](http://twitter.com/stormin_30) | [@stormin\_30](/t5/user/viewprofilepage/user-id/764913)
-*   [**SharePoint event registration Power App**](https://github.com/alexc-MSFT/sharepoint-events-powerapp) - [Alex Clark](http://twitter.com/sharepointalex) | @sharepointalex
+*   **Teams Adaptive Card Reminders From Lists\* -** [Norm Young](https://twitter.com/stormin_30) | [@stormin\_30](/t5/user/viewprofilepage/user-id/764913)
+*   [**SharePoint event registration Power App**](https://github.com/alexc-MSFT/sharepoint-events-powerapp) - [Alex Clark](https://twitter.com/sharepointalex) | @sharepointalex
 
 \*These latest samples should show on site shortly after this call
 
@@ -98,13 +98,13 @@ Delivered - 46 Bot samples from the Microsoft Bot Framework Team – each sample
 2 New Scenarios and 4 Script Updates:
 
 *   **_New Scenarios_**
-    *   [**Analyze users for known data breaches with have I been pwned**](https://pnp.github.io/script-samples/aad-analyze-users-hibp/README.html?tabs=cli-m365-ps) - [Albert-Jan Schot](http://twitter.com/appieschot) | @appieschot
-    *   [**Delete orphaned temporary site pages**](https://pnp.github.io/script-samples/spo-delete-orphaned-temporary-sitepages/README.html?tabs=pnpps) - [Brian McCullough](http://twitter.com/bpmccullough) | @bpmccullough
+    *   [**Analyze users for known data breaches with have I been pwned**](https://pnp.github.io/script-samples/aad-analyze-users-hibp/README.html?tabs=cli-m365-ps) - [Albert-Jan Schot](https://twitter.com/appieschot) | @appieschot
+    *   [**Delete orphaned temporary site pages**](https://pnp.github.io/script-samples/spo-delete-orphaned-temporary-sitepages/README.html?tabs=pnpps) - [Brian McCullough](https://twitter.com/bpmccullough) | @bpmccullough
 *   **_Updates or scenarios implemented with alterative tools_**
-    *   [**Get Site Usage Reports And Export It To CSV**](https://pnp.github.io/script-samples/spo-export-site-usage-reports/README.html?tabs=pnpps) - [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) | [@reshmeeauckloo](/t5/user/viewprofilepage/user-id/1145036)
-    *   [**List all external users in all site collections**](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html?tabs=cli-m365-ps) - [Chandani Prajapati](http://twitter.com/Chandani_SPD) | @Chandani\_SPD
-    *   [**Modernizing classic pages from on-premises sites**](https://pnp.github.io/script-samples/modernize-classic-pages-from-publishing-sites/README.html?tabs=pnpps) - [Paul Bullock](http://twitter.com/pkbullock) | @pkbullock
-    *   [**Remove orphaned redirect sites**](https://pnp.github.io/script-samples/spo-remove-orphaned-redirect-sites/README.html?tabs=cli-m365-ps) - [Leon Armston](http://twitter.com/LeonArmston) | [@LeonArmston](/t5/user/viewprofilepage/user-id/855621)
+    *   [**Get Site Usage Reports And Export It To CSV**](https://pnp.github.io/script-samples/spo-export-site-usage-reports/README.html?tabs=pnpps) - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) | [@reshmeeauckloo](/t5/user/viewprofilepage/user-id/1145036)
+    *   [**List all external users in all site collections**](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html?tabs=cli-m365-ps) - [Chandani Prajapati](https://twitter.com/Chandani_SPD) | @Chandani\_SPD
+    *   [**Modernizing classic pages from on-premises sites**](https://pnp.github.io/script-samples/modernize-classic-pages-from-publishing-sites/README.html?tabs=pnpps) - [Paul Bullock](https://twitter.com/pkbullock) | @pkbullock
+    *   [**Remove orphaned redirect sites**](https://pnp.github.io/script-samples/spo-remove-orphaned-redirect-sites/README.html?tabs=cli-m365-ps) - [Leon Armston](https://twitter.com/LeonArmston) | [@LeonArmston](/t5/user/viewprofilepage/user-id/855621)
 
 Article:  [Getting started with PnP Script Samples](https://aka.ms/script-samples/getting-started) – aka.ms/script-samples/getting-started
 
@@ -128,16 +128,16 @@ Thank you for your work. Samples are often showcased in Demos.    Request a De
 
 ## Topics
 
-*   PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [6:32](https://youtu.be/NqwmtJyDEo8?t=392)
-*   PnP PowerShell updates \- [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [8:24](https://youtu.be/NqwmtJyDEo8?t=504)
-*   yo Teams updates - [Wictor Wilén](http://twitter.com/wictor) (Microsoft) | @wictor – [9:08](https://youtu.be/NqwmtJyDEo8?t=548)
-*   Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [10:35](https://youtu.be/NqwmtJyDEo8?t=635)
-*   Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [2:35](https://youtu.be/NqwmtJyDEo8?t=155)
-*   Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German – [11:17](https://youtu.be/NqwmtJyDEo8?t=677)
-*   Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [12:32](https://youtu.be/NqwmtJyDEo8?t=752)
-*   **Demo 1**:  Introduction to Adaptive Card Studio VS Code extension – [Tim Cadenbach](http://twitter.com/TimCadenbach) | @TimCadenbach – [15:18](https://youtu.be/NqwmtJyDEo8?t=918)
-*   **Demo 2**:  Solving reCaptcha with Power Automate Desktop – [Tomasz Poszytek](http://twitter.com/TomaszPoszytek) | [@TomaszPoszytek](/t5/user/viewprofilepage/user-id/335682) – [21:33](https://youtu.be/NqwmtJyDEo8?t=1293)
-*   **Demo 3**:  Bringing in your own data to Microsoft Search – [Kevin McDonnell](http://twitter.com/kevmcdonk) | @kevmcdonk  
+*   PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert – [6:32](https://youtu.be/NqwmtJyDEo8?t=392)
+*   PnP PowerShell updates \- [Bert Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert – [8:24](https://youtu.be/NqwmtJyDEo8?t=504)
+*   yo Teams updates - [Wictor Wilén](https://twitter.com/wictor) (Microsoft) | @wictor – [9:08](https://youtu.be/NqwmtJyDEo8?t=548)
+*   Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [10:35](https://youtu.be/NqwmtJyDEo8?t=635)
+*   Microsoft Script Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Catapult Systems) | @DavidWarnerII – [2:35](https://youtu.be/NqwmtJyDEo8?t=155)
+*   Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German – [11:17](https://youtu.be/NqwmtJyDEo8?t=677)
+*   Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [12:32](https://youtu.be/NqwmtJyDEo8?t=752)
+*   **Demo 1**:  Introduction to Adaptive Card Studio VS Code extension – [Tim Cadenbach](https://twitter.com/TimCadenbach) | @TimCadenbach – [15:18](https://youtu.be/NqwmtJyDEo8?t=918)
+*   **Demo 2**:  Solving reCaptcha with Power Automate Desktop – [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | [@TomaszPoszytek](/t5/user/viewprofilepage/user-id/335682) – [21:33](https://youtu.be/NqwmtJyDEo8?t=1293)
+*   **Demo 3**:  Bringing in your own data to Microsoft Search – [Kevin McDonnell](https://twitter.com/kevmcdonk) | @kevmcdonk  
     – [34:25](https://youtu.be/NqwmtJyDEo8?t=2065)
 
 ## Resources
@@ -160,7 +160,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D3**:  Samples - [Samples for Microsoft Search Connectors – Twitter](https://github.com/kevmcdonk/S4MSC-Twitter) 
 *   **D3**:  Demo – [Latest on Cloud Hybrid Search (SSA) & Graph connectors​ for indexing content from on-premises](https://youtu.be/9w2L3-7sCDI?t=1705) – Harshit Kumar (Microsoft) 
 *   **Microsoft 365 PnP Weekly – Episode 153** (February 14th) with Redmond, Washington, US-based Senior Program Manager in the OneDrive and SharePoint organization responsible of the Power Platform integration, [Sudha Narayanan](https://www.linkedin.com/in/sudha-narayanan-3295326a/) (Microsoft) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-153-sudha-narayanan/ba-p/3164026) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-153-%E2%80%93-14th-of-february-2022/)
-*   **Microsoft 365 PnP Weekly – Episode 152** (February 7th) with Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) | @bernierh | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-152-hugo-bernier/ba-p/3131722) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-152-%E2%80%93-7th-of-february-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 152** (February 7th) with Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-152-hugo-bernier/ba-p/3131722) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-152-%E2%80%93-7th-of-february-2022/)
 
 ## General resources
 

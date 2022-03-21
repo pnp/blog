@@ -43,7 +43,7 @@ Teams samples in the last two weeks.  But wait, we have a [Teams Samples
 wish list](https://aka.ms/teams-sample-wishlist).  Need an idea for a
 Teams sample?  Feel like granting wishes?  Collaborate with Teams
 Engineering to create a sample and earn a Credly badge.   The host of
-this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft)
+this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
 @vesajuvonen.   Q&A takes place in chat throughout the call.
 
 
@@ -97,15 +97,15 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
 
 -   **[Power Automate: SharePoint Collect
     Feedback](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-collect-feedback)** -
-    [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) |
+    [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) |
     @aprildunnam (link will be good by Aug 24)
 -   [**Power Automate: Get Graph API Data within Power BI
     Reports**](https://github.com/pnp/powerautomate-samples/tree/main/samples/graph_api_in_power_bi) -
-    [Scott McKenzie](http://twitter.com/365EDUBI) | @365EDUBI (link
+    [Scott McKenzie](https://twitter.com/365EDUBI) | @365EDUBI (link
     will be good by Aug 24)
 -   [**Fluent UI Custom
     Theme**](https://github.com/pnp/powerapps-samples/tree/main/samples/fluentui-custom-theme) -
-    [Fabio Franzini](http://twitter.com/franzinifabio) |
+    [Fabio Franzini](https://twitter.com/franzinifabio) |
     @franzinifabio
 
 **Script Samples: **
@@ -113,18 +113,18 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
 
 -   **[Download contents of Document library as
     PDF](https://pnp.github.io/script-samples/graph-download-office-documents-as-pdf/README.html?tabs=pnpps)**
-    -- [Russell Gove](http://twitter.com/russgove) (Tronox) |
-    [@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
+    -- [Russell Gove](https://twitter.com/russgove) (Tronox) |
+    @russgove
 -   **[Assign Graph permissions to a Managed
     Identity](https://pnp.github.io/script-samples/graph-assign-permissions-managed-identity/README.html?tabs=azure-cli)**
-    -- [Luise Freese](http://twitter.com/LuiseFreese) | @LuiseFreese
+    -- [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 -   **[Reset files permissions unique to
     Inherited](https://pnp.github.io/script-samples/reset-files-permission-unique-to-inherited/README.html?tabs=pnpps)**
-    -- [Dipen Shah](http://twitter.com/Dips_365) (Rapid Circle) |
+    -- [Dipen Shah](https://twitter.com/Dips_365) (Rapid Circle) |
     @Dips_365
 -   **[Import taxonomy terms and labels into a term
     set](https://pnp.github.io/script-samples/spo-import-taxonomy-terms-labels/README.html?tabs=pnpps)**
-    -- [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) |
+    -- [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) |
     @ReshmeeAuckloo
 
 {{< image alt="210819-together-mode.gif" src="images/210819-together-mode.gif" >}}
@@ -171,34 +171,34 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   PnP .NET library updates - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen - [6:44](https://youtu.be/_8BBaIJK2RM?t=404)
 
--   PnP PowerShell - [Vesa Juvonen](http://twitter.com/vesajuvonen)
+-   PnP PowerShell - [Vesa Juvonen](https://twitter.com/vesajuvonen)
     (Microsoft) | @vesajuvonen -
     [7:30](https://youtu.be/_8BBaIJK2RM?t=450)
 
--   yo Teams updates - [Wictor Wilén](http://twitter.com/wictor)
+-   yo Teams updates - [Wictor Wilén](https://twitter.com/wictor)
     (Microsoft) | @wictor - [8:04](https://youtu.be/_8BBaIJK2RM?t=484)
 
 -   Microsoft Graph Toolkit updates - [Beth
-    Pan](http://twitter.com/beth_panx) (Microsoft)
+    Pan](https://twitter.com/beth_panx) (Microsoft)
     | [beth-panx](https://github.com/beth-panx) - [9:11](https://youtu.be/_8BBaIJK2RM?t=551)
 
 -   Microsoft Script Samples - [Paul
-    Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) |
+    Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd) |
     @pkbullock - [3:15](https://youtu.be/_8BBaIJK2RM?t=195)
 
 -   Microsoft Teams Samples - [Bob
-    German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German -
+    German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German -
     [11:24](https://youtu.be/_8BBaIJK2RM?t=684)
 
 -   Microsoft Power Platform Samples - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen - [14:05](https://youtu.be/_8BBaIJK2RM?t=845)
 
 -   **Demo:**  Building your first Power Platform community connector
-    **--** [Daniel Laskewitz](http://twitter.com/laskewitz) (Sogeti) |
+    **--** [Daniel Laskewitz](https://twitter.com/laskewitz) (Sogeti) |
     @laskewitz [-][ [16:21](https://youtu.be/_8BBaIJK2RM?t=981)]
 
 -   **Demo:**  Operators for Precision within List Formatting -- [Chris
@@ -206,7 +206,7 @@ Topics covered in this call
     @theChrisKent [-][ [30:23](https://youtu.be/_8BBaIJK2RM?t=1823)]
 
 -   [**Demo:**  Getting stated with Microsoft Teams Toolkit and Blazor
-    -- [Thomas Gölles](http://twitter.com/thomyg) (Solvion) | @thomyg
+    -- [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
     -][ [44:13](https://youtu.be/_8BBaIJK2RM?t=2653)]
 
 

@@ -39,7 +39,7 @@ While version releases are periodic, nightly releases are nightly!  Subscribe t
 {{< /notice >}}
 
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII.   Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII.   Q&A takes place in chat throughout the call.
 
 {{< youtube YOUTUBECODEHERE >}}
 
@@ -78,7 +78,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) 
 
 <https://aka.ms/powerplatform-samples>
 
-*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](http://twitter.com/TWITTER) | @TWITTER
+*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER
 
 
 \*These latest samples should show on site shortly after this call
@@ -89,7 +89,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) 
 
 ADD SECTION INTRO
 
-*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](http://twitter.com/TWITTER) | @TWITTER       
+*   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER       
 
 Article:  [Getting started with PnP Script Samples](https://aka.ms/script-samples/getting-started) – aka.ms/script-samples/getting-started
 
@@ -119,16 +119,16 @@ Thank you for your work. Samples are often showcased in Demos. Request a Demo s
 
 ## Topics
 
-*   PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/CODE?t=TIME)
-*   PnP PowerShell updates \- [Bert Jansen](http://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/CODE?t=TIME)
-*   yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [TIME](https://youtu.be/CODE?t=TIME)
-*   Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [TIME](https://youtu.be/CODE?t=TIME)
-*   Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) (CaPa Creative Ltd) | @pkbullock – [TIME](https://youtu.be/CODE?t=TIME)
-*   Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German – [TIME](https://youtu.be/CODE?t=TIME)
-*   Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [TIME](https://youtu.be/CODE?t=TIME)
-*   **Demo 1**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/CODE?t=TIME)
-*   **Demo 2**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/CODE?t=TIME)
-*   **Demo 3**: TITLE – [AUTHOR](http://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/CODE?t=TIME)
+*   PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/CODE?t=TIME)
+*   PnP PowerShell updates \- [Bert Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert – [TIME](https://youtu.be/CODE?t=TIME)
+*   yo Teams updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [TIME](https://youtu.be/CODE?t=TIME)
+*   Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [TIME](https://youtu.be/CODE?t=TIME)
+*   Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd) | @pkbullock – [TIME](https://youtu.be/CODE?t=TIME)
+*   Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German – [TIME](https://youtu.be/CODE?t=TIME)
+*   Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [TIME](https://youtu.be/CODE?t=TIME)
+*   **Demo 1**: TITLE – [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/CODE?t=TIME)
+*   **Demo 2**: TITLE – [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/CODE?t=TIME)
+*   **Demo 3**: TITLE – [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER – [TIME](https://youtu.be/CODE?t=TIME)
 
 ## Resources
 
@@ -140,7 +140,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D2**:  Sample - [TITLE](https://github.com/LINK)  
 *   **D3**:  Article - [TITLE](URL) 
 *   **D3**:  Sample - [TITLE](https://github.com/LINK) 
-*   **Microsoft 365 PnP Weekly – Episode NUMBER** (DATE) DESCRIPTION, [NAME](http://twitter.com/TWITTER) | @TWITTER | [video](VIDEO URL) | [podcast](https://pnpweekly.podbean.com/e/EPISODECODE)
+*   **Microsoft 365 PnP Weekly – Episode NUMBER** (DATE) DESCRIPTION, [NAME](https://twitter.com/TWITTER) | @TWITTER | [video](VIDEO URL) | [podcast](https://pnpweekly.podbean.com/e/EPISODECODE)
 
 
 ## General resources

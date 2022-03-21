@@ -30,7 +30,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 *   Hear about the latest 5 Microsoft 365 Platform related stories and view 3 great demos delivered by Microsoft presenters on the latest capabilities of the Microsoft 365 platform.
 *   New series launched – [Learn from the community](https://aka.ms/LearnFromTheCommunity/ThisWeek).  This week’s article:  [Learn from the community: Chatbot for Microsoft Teams personal and group chats](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-chatbot-for-microsoft-teams-personal-and-group-chats/)
 
-The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) _|_[@BrianTJackett](/t5/user/viewprofilepage/user-id/4556).  Q&A takes place in chat throughout and live at end of the call.   
+The host of this call was [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) _|_[@BrianTJackett](/t5/user/viewprofilepage/user-id/4556).  Q&A takes place in chat throughout and live at end of the call.   
 
 ## Microsoft 365 Platform News Flash
 
@@ -74,10 +74,10 @@ Thank you for your creativity and work execution.   Samples are often showcase
 
 ## Topics
 
-*   Latest updates and news on the Microsoft 365 platform – [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) _|_ [@BrianTJackett](/t5/user/viewprofilepage/user-id/4556) – [5:17](https://youtu.be/627L2Lz5K3w?t=317)
-*   **D1**:  PowerShell Snippets for Microsoft Graph Docs – [Rabeb Othmani](http://twitter.com/Rabeb_Othmani) ​(Microsoft) | @Rabeb\_Othmani – [12:52](https://youtu.be/627L2Lz5K3w?t=772)
-*   **D2**:  Learn from the Community – Introduction to new weekly initiative – [Ayça Baş](http://twitter.com/aycabs) (Microsoft) | @aycabs – [23:02](https://youtu.be/627L2Lz5K3w?t=1382)
-*   **D3**:  Customizing MGT Components in your solution – [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [28:33](https://youtu.be/627L2Lz5K3w?t=1713)
+*   Latest updates and news on the Microsoft 365 platform – [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) _|_ [@BrianTJackett](/t5/user/viewprofilepage/user-id/4556) – [5:17](https://youtu.be/627L2Lz5K3w?t=317)
+*   **D1**:  PowerShell Snippets for Microsoft Graph Docs – [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) ​(Microsoft) | @Rabeb\_Othmani – [12:52](https://youtu.be/627L2Lz5K3w?t=772)
+*   **D2**:  Learn from the Community – Introduction to new weekly initiative – [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs – [23:02](https://youtu.be/627L2Lz5K3w?t=1382)
+*   **D3**:  Customizing MGT Components in your solution – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766) – [28:33](https://youtu.be/627L2Lz5K3w?t=1713)
 
 ## Resources
 
@@ -100,7 +100,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D3:**  Issues – [MGT Issus](https://github.com/microsoftgraph/microsoft-graph-toolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) | [aka.ms/mgt/issues](https://aka.ms/mgt/issues)
 *   **D3:**  Learn – [Develop apps with the Microsoft Graph Toolkit](https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa) | [https://aka.ms/mgt/learn](https://aka.ms/mgt/learn) 
 
-Previous demos in [Sébastien Levert](http://twitter.com/sebastienlevert)’s (Microsoft) | [@sebastienlevert](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/926766), Microsoft Graph Toolkit (MGT) series
+Previous demos in Sébastien Levert](<https://twitter.com/sebastienlevert)’s> (Microsoft) | [@sebastienlevert series
 
 *   [Discover the Microsoft Graph Toolkit](https://youtu.be/JkgFrbtwdJU?t=476) – 7 December 2021 
 *   [Microsoft Graph Toolkit – Using Login Component in your solutions](https://youtu.be/HfBVaeGRDw8?t=2375) – 14 December 2021 
@@ -111,7 +111,7 @@ Previous demos in [Sébastien Levert](http://twitter.com/sebastienlevert)’s 
 *   [Using the MGT Agenda and Tasks Components in your solutions](https://youtu.be/Ddc0vZYAXDs?t=2619) – 1 February 2022 
 *   [Using the MGT Files Components in your solutions](https://youtu.be/AHF8poXLZ10?t=2198) – 8 February 2022 
 *   [Using the Microsoft Graph Toolkit Get Component in your solutions](https://youtu.be/9w2L3-7sCDI?t=2432) – 15 February 2022
-*   **Microsoft 365 PnP Weekly – Episode 154** (February 21st) with London/India - based Developer, Product Owner, Technical Architect, MVP, [Vardhaman Deshpande](http://twitter.com/vrdmn) (Valo Solutions) | @vrdmn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-154-%e2%80%93-21st-of-february-2022/)
+*   **Microsoft 365 PnP Weekly – Episode 154** (February 21st) with London/India - based Developer, Product Owner, Technical Architect, MVP, [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions) | @vrdmn | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-154-%e2%80%93-21st-of-february-2022/)
 
 ## General resources
 

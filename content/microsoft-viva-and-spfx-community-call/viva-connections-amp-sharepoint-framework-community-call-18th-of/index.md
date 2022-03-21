@@ -53,7 +53,7 @@ Additionally, there were 1 web part and 2 ACE **samples** delivered!
  Nice work! Your contributions are appreciated by many.
 
 The host of this call is [David Warner
-II](http://twitter.com/DavidWarnerII) (Catapult Systems)
+II](https://twitter.com/DavidWarnerII) (Catapult Systems)
 @DavidWarnerII.  Q&A takes place as always in chat throughout the call.
 {{< image alt="211118-together-mode.gif" src="images/211118-together-mode.gif" >}}
  
@@ -137,7 +137,7 @@ meet in Düsseldorf or in Las Vegas later this year.     
 
 -   [**Teams Graph Upload as
     PDF**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-graph-upload-as-pdf) -
-    [Markus Moeller](http://twitter.com/moeller2_0) | @moeller2_0
+    [Markus Moeller](https://twitter.com/moeller2_0) | @moeller2_0
 **PnP SPFx
 ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
 
@@ -145,7 +145,7 @@ ACEs  **[**https://aka.ms/spfx-aces**](https://aka.ms/spfx-aces)
     Mondal](https://www.linkedin.com/in/arijit-cloud/) | [linkedin.com/in/arijit-cloud](https://www.linkedin.com/in/arijit-cloud)
 
 -   Upcoming Events\* -- Updates -
-    [Jake Stanger](http://twitter.com/cakestanger) | @cakestanger
+    [Jake Stanger](https://twitter.com/cakestanger) | @cakestanger
 
 \* to be posted soon.
 Thank you for your great work.  Samples are often showcased in Demos. 
@@ -154,44 +154,44 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 ## Agenda items
 
 -   SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [6:09](https://youtu.be/s7uWd2NeLNE?t=369)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [9:08](https://youtu.be/s7uWd2NeLNE?t=548)
 -   CLI for Microsoft 365 - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [11:33](https://youtu.be/s7uWd2NeLNE?t=693)
 -   PnP SPFx Controls - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [12:00](https://youtu.be/s7uWd2NeLNE?t=720)
 -   PnP Modern Search - [Mikael
-    Svenson](http://twitter.com/mikaelsvenson) (Microsoft)
+    Svenson](https://twitter.com/mikaelsvenson) (Microsoft)
     | [@MikaelSvenson](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173) -- [12:36](https://youtu.be/s7uWd2NeLNE?t=756)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     @bernierh -- [13:35](https://youtu.be/s7uWd2NeLNE?t=815)
 -   PnP SPFx ACEs Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Catapult Systems) |
+    II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
     @DavidWarnerII -- [16:02](https://youtu.be/s7uWd2NeLNE?t=962)
 
 ## Demos
 
 -   **D1:**  SPFx Extension for Copying and Moving List Items --
-    [Sudharsan Kesavanarayanan](http://twitter.com/sudharsank) (NTT
+    [Sudharsan Kesavanarayanan](https://twitter.com/sudharsank) (NTT
     Digital Business Solutions) |
     @sudharsank [--][ [17:51](https://youtu.be/s7uWd2NeLNE?t=1071)]
 
 -   **D2:**[  Viva Connections -- Adaptive Card Showcase Gallery --
     ][Derek
-    Cash-Peterson](http://twitter.com/spdcp)[ (Sympraxis Consulting) |
-    [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549) --
+    Cash-Peterson](https://twitter.com/spdcp)[ (Sympraxis Consulting) |
+    @Spdcp --
     [24:21](https://youtu.be/s7uWd2NeLNE?t=1461)]
 
 -   **D3:**[  Application Secrets Expiration Web Part --
     ][Aimery
-    Thomas](http://twitter.com/aimery_thomas)[ (Avanade) |
-    [@aimery_thomas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/925977)][ --
+    Thomas](https://twitter.com/aimery_thomas)[ (Avanade) |
+    @aimery_thomas][ --
     [44:01](https://youtu.be/s7uWd2NeLNE?t=2641)]
 
 
@@ -235,12 +235,12 @@ slides.
 
 -   **PnP Weekly -- Episode 143** (November 15th) with Nairobi,
     Kenya-based Program Manager at Microsoft - [Roina
-    Ochieng](http://twitter.com/roinochieng) |
+    Ochieng](https://twitter.com/roinochieng) |
     @roinochieng | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-143-roina-ochieng-microsoft/ba-p/2965580) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-143-%e2%80%93-15th-of-november-2021/)
 
 -   **PnP Weekly -- Episode 142** (November 8th) with New York, US /
     Porto, Portugal-based Program Manager at Microsoft - [Natalie
-    Pienkowska](http://twitter.com/NataliePienkow1) | @
+    Pienkowska](https://twitter.com/NataliePienkow1) | @
     NataliePienkow1. | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-142-natalie-pienkowska/ba-p/2939019) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-142-%e2%80%93-8th-of-november-2021/)
 
 ## General resources

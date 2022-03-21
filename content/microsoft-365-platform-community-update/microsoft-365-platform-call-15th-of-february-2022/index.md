@@ -29,7 +29,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 *   The great people, supportive organizations and solid work done in this community over the last month is recognized today!  Available now – the [Microsoft 365 Platform Community (PnP) – February 2022 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-community-pnp-february-2022-update/ba-p/3124847). 
 *   New series launched – [Learn from the community](https://aka.ms/LearnFromTheCommunity/ThisWeek).  This week’s article:  [Learn from the community: Chatbot for Microsoft Teams personal and group chats](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-chatbot-for-microsoft-teams-personal-and-group-chats/)
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and live at end of the call.   
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout and live at end of the call.   
 
 ## Microsoft 365 Platform News Flash
 
@@ -85,11 +85,11 @@ Thank you for your creativity and work execution.   Samples are often showcase
 
 ## Topics
 
-*   Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [7:16](https://youtu.be/9w2L3-7sCDI?t=436)
+*   Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [7:16](https://youtu.be/9w2L3-7sCDI?t=436)
 *   Monthly contributors on the Microsoft 365 platform community efforts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [9:38](https://youtu.be/9w2L3-7sCDI?t=578)
 *   **D1**:  Introduction to Information Protection Policy APIs – Tom Moser ​(Microsoft) – [12:50](https://youtu.be/9w2L3-7sCDI?t=770)
 *   **D2**:  Latest on Cloud Hybrid Search (SSA) & Graph connectors​ for indexing content from on-premises – Harshit Kumar (Microsoft) – [28:25](https://youtu.be/9w2L3-7sCDI?t=1705)
-*   **D3**:  Using the Microsoft Graph Toolkit Get Component in your solutions – [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [40:32](https://youtu.be/9w2L3-7sCDI?t=2432)
+*   **D3**:  Using the Microsoft Graph Toolkit Get Component in your solutions – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert – [40:32](https://youtu.be/9w2L3-7sCDI?t=2432)
 
 ## Resources
 
@@ -111,7 +111,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D3:**  Repo - [MGT Sandbox](https://github.com/sebastienlevert/mgt-sandbox) 
 *   **D3:**  Learn - [Develop apps with the Microsoft Graph Toolkit](https://aka.ms/mgt/learn) | [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
 
-Previous demos in [Sébastien Levert](http://twitter.com/sebastienlevert)’s (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766), Microsoft Graph Toolkit (MGT) series
+Previous demos in [Sébastien Levert](https://twitter.com/sebastienlevert)’s (Microsoft) | [@sebastienlevert](/t5/user/viewprofilepage/user-id/926766), Microsoft Graph Toolkit (MGT) series
 
 *   [Discover the Microsoft Graph Toolkit](https://youtu.be/JkgFrbtwdJU?t=476) – 7 December 2021 
 *   [Microsoft Graph Toolkit – Using Login Component in your solutions](https://youtu.be/HfBVaeGRDw8?t=2375) – 14 December 2021 

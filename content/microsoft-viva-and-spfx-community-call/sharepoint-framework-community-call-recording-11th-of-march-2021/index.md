@@ -33,7 +33,7 @@ and **Reusable SPFx React Property Controls** -- v2.4.0 delivered. 
 **PnP Modern Search** v3.18.0 released March 9th, v4.1 in progress.
   There were five **PnP SPFx web part samples** delivered last week.  So
 useful!    The host of this call is [Patrick
-Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
+Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
 {{< image alt="PictureTime-OutsideInTheGreenAmphitheater.png" src="images/PictureTime-OutsideInTheGreenAmphitheater.png" >}}
 
@@ -105,7 +105,7 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 
 -   [Data
     Table](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-datatable) -
-    [Chandani Prajapati](http://twitter.com/Chandani_SPD) |
+    [Chandani Prajapati](https://twitter.com/Chandani_SPD) |
     @Chandani_SPD 
 
 -   [Feedback](https://github.com/pnp/sp-dev-fx-webparts/blob/master/samples/react-feedback/README.md) -
@@ -115,13 +115,13 @@ Rodgers](http://twitter.com/mediocrebowler) (Microsoft)
 
 -   [Sites Selected
     Admin](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-sites-selected-admin) -
-    [Fredrik Thorild](http://twitter.com/taxonomythorild) |
+    [Fredrik Thorild](https://twitter.com/taxonomythorild) |
     @taxonomythorild
 
 -   [Security
     Grid](https://github.com/pnp/sp-dev-fx-webparts/blob/master/samples/react-securitygrid) -
-    [Russell Gove](http://twitter.com/russgove)
-    | [@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
+    [Russell Gove](https://twitter.com/russgove)
+    | @russgove
 
 As is the case this week, samples are often showcased in Demos.  Thank
 you for your great work.
@@ -129,22 +129,22 @@ you for your great work.
 ## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [5:30](https://youtu.be/o_xcui0RZGM?t=330)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj199 -- [8:16](https://youtu.be/o_xcui0RZGM?t=496)
 -   CLI for Microsoft 365 - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [10:33](https://youtu.be/o_xcui0RZGM?t=633)
 -   PnP SPFx Controls - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [11:31](https://youtu.be/o_xcui0RZGM?t=691)
 -   PnP SPFx Generator - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [12:25](https://youtu.be/o_xcui0RZGM?t=745)
 -   PnP Modern Search - [Patrick
-    Rodgers](http://twitter.com/mediocrebowler) (Microsoft) |
+    Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
     @mediocrebowler -- [13:07](https://youtu.be/o_xcui0RZGM?t=787)
 -   PnP SPFx Samples - [Hugo Bernier](https://twitter.com/bernierh)
     (Tahoe Ninjas) | @bernierh --
@@ -153,17 +153,17 @@ you for your great work.
 **Demos :**
 
 -   **DataTable web part for rendering data from lists with advance
-    features** -- [Chandani Prajapati](http://twitter.com/Chandani_SPD)
+    features** -- [Chandani Prajapati](https://twitter.com/Chandani_SPD)
     | @Chandani_SPD & [David
-    Warner](http://twitter.com/DavidWarnerII) | @DavidWarnerII --
+    Warner](https://twitter.com/DavidWarnerII) | @DavidWarnerII --
     [16:45](https://youtu.be/o_xcui0RZGM?t=1005)
 -   **Building List Search web part for showing data flexibly from lists
     or libraries** -- [Alberto Gutierrez
-    Perez](http://twitter.com/albertogperez) (Minsait) |
+    Perez](https://twitter.com/albertogperez) (Minsait) |
     @albertogperez -- [28:00](https://youtu.be/o_xcui0RZGM?t=1680)
 -   **Using a web part to control which Sites have been granted
     permissions in Azure AD application** --  [Fredrik
-    Thorild](http://twitter.com/taxonomythorild) (Sogeti) |
+    Thorild](https://twitter.com/taxonomythorild) (Sogeti) |
     @taxonomythorild -- [35:50](https://youtu.be/o_xcui0RZGM?t=2150)
 
 

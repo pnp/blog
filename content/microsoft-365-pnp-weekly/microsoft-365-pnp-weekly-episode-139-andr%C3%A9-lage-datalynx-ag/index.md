@@ -13,12 +13,12 @@ type: "regular"
 
 In this installment of the weekly discussion revolving around the latest
 news and topics on Microsoft 365, hosts -- [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are
+Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are
 joined by Switzerland based MVP and Head of Solutions at [Datalynx
 AG](https://www.datalynx.ch/en/) - [André
-Lage](http://twitter.com/aaclage) | @aaclage.  
+Lage](https://twitter.com/aaclage) | @aaclage.  
 
  
 
@@ -112,7 +112,7 @@ everyone for your contributions to the community!
     Intrazone
     podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/visualize-lists-with-power-bi-the-intrazone-podcast/ba-p/2835417)
     - [Amanda Rivera](https://www.linkedin.com/in/amanda-cofsky/)
-    & [Mark Kashman](http://twitter.com/mkashman) (Microsoft) |
+    & [Mark Kashman](https://twitter.com/mkashman) (Microsoft) |
     @mkashman
 
  
@@ -138,7 +138,7 @@ everyone for your contributions to the community!
     Microsoft Graph
     API](https://michelcarlo.com/2021/10/16/getting-the-working-hours-time-zones-for-other-users-using-microsoft-graph-api/) -
     [Michel Mendes](https://twitter.com/michelcarlo) (Storm Technology
-    Ltd) | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
+    Ltd) | @michelcarlo
 -   [Create an event page with SharePoint and
     Lists](https://medium.com/@anand.vadivelan/create-an-event-page-with-sharepoint-and-lists-5f3852e9117)
     - [Anand Ragav](https://twitter.com/anandVragav) | @anandVragav

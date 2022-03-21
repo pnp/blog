@@ -45,7 +45,7 @@ previous report 2 weeks ago) 
   PnP SPFx Generator                      v1.16.0                                      Angular 11 support
   PnP Modern Search                       **v4.2.3 & v3.20.0**                          
 
-The host of this call is [Vesa Juvonen](http://twitter.com/vesajuvonen)
+The host of this call is [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) @vesajuvonen.  Q&A takes place in chat throughout the call.
 {{< image alt="210617-together-mode.gif" src="images/210617-together-mode.gif" >}}
 The waving wall!  Impressive.  Great to see you.  Truly looking forward
@@ -129,57 +129,57 @@ the future!
 
 -   [**Copy PnP search results web part
     settings**](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-copy-pnp-search-webpart-settings) -
-    [Anoop Tatti](http://twitter.com/anooptells) | @anooptells
+    [Anoop Tatti](https://twitter.com/anooptells) | @anooptells
 -   [**Follow
     Documents**](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-follow-document) -
     [André
-    Lage](http://twitter.com/aaclage) | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
+    Lage](https://twitter.com/aaclage) | @aaclage
 -    
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
 
 -   **[Remote Event Receiver
     Manager](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-remote-event-receiver-manager)** -
-    [Dan Toft](http://twitter.com/tanddant) | @tanddant
+    [Dan Toft](https://twitter.com/tanddant) | @tanddant
 -   **[Carousel](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-carousel)** -
     [Giuliano De
-    Luca](http://twitter.com/delucagiulian) | [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    Luca](https://twitter.com/delucagiulian) | @delucagiulian
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
 ## Agenda items
 
 -   Latest updates on SharePoint Framework - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [6:36](https://youtu.be/NyZP1oso8Mg?t=396)
 -   PnPjs Client-Side Libraries - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 -- [8:47](https://youtu.be/NyZP1oso8Mg?t=527)
 -   CLI for Microsoft 365 - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [10:34](https://youtu.be/NyZP1oso8Mg?t=634)
 -   PnP SPFx Controls - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [11:54](https://youtu.be/NyZP1oso8Mg?t=714)
 -   PnP Modern Search - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [12:56](https://youtu.be/NyZP1oso8Mg?t=776)
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     @bernierh -- [14:03](https://youtu.be/NyZP1oso8Mg?t=843)
 -   Topic:  Microsoft Teams Toolkit v2.0 - [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) |
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     @vesajuvonen -- [52:48](https://youtu.be/NyZP1oso8Mg?t=3168) 
 
 ## Demos
 
 -   **Demo:**  spfx-fast-serve: faster SharePoint Framework development
-    -- [Sergei Sergeev](http://twitter.com/sergeev_srg) (Mastaq) |
+    -- [Sergei Sergeev](https://twitter.com/sergeev_srg) (Mastaq) |
     @sergeev_srg - [17:42](https://youtu.be/NyZP1oso8Mg?t=1062)
 -   **Demo:**  Building team time zone assistant Teams solution with
     SPFx v1.13, including Viva Connections Card -- [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) |
-    @jfj1997 & [Derek Cash-Peterson](http://twitter.com/spdcp) |
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
+    @jfj1997 & [Derek Cash-Peterson](https://twitter.com/spdcp) |
     @spdcp - [31:22](https://youtu.be/NyZP1oso8Mg?t=1882)
 
 
@@ -204,9 +204,9 @@ slides.
 -   Viva Connections <https://aka.ms/VivaConnections>
 
 -   PnP Weekly -- Episode 131 [Vesa
-    Juvonen ](http://twitter.com/vesajuvonen)(Microsoft) |
+    Juvonen ](https://twitter.com/vesajuvonen)(Microsoft) |
     @vesajuvonen, [Waldek
-    Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm were
+    Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm were
     joined by Senior Program Manager - Zhenya Savchenko (Microsoft),
     from the Developer Division of Visual Studio group to talk about
     new [Microsoft Teams Toolkit v2 extension for Visual Studio

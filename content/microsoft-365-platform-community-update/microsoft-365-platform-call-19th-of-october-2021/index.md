@@ -39,8 +39,8 @@ platform.   
 -   View PnP Weekly -- Episode 139 (October 18th) with Switzerland based
     MVP and Head of Solutions at [Datalynx
     AG](https://www.datalynx.ch/en/) - [André
-    Lage](http://twitter.com/aaclage) |
-    [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-139-%e2%80%93-18th-of-october-2021/)  
+    Lage](https://twitter.com/aaclage) |
+    @aaclage  
     Microsoft 365 PnP Weekly is hosted by Vesa Juvonen and Waldek
     Mastykarz.  
 -   [Registration for Microsoft Ignite](https://ignite.microsoft.com)
@@ -50,8 +50,8 @@ platform.   
     Microsoft 365 platform.
 
 The host of this call was [Brian T.
-Jackett](http://twitter.com/BrianTJackett) (Microsoft)
-*| *[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A
+Jackett](https://twitter.com/BrianTJackett) (Microsoft)
+*| *@BrianTJackett.  Q&A
 takes place in chat throughout the call.   
 
 **Microsoft 365 Platform News Flash**
@@ -161,12 +161,12 @@ Thank you for your work. Samples are often showcased in Demos.
 Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
-    Jackett](http://twitter.com/BrianTJackett) (Microsoft) *|*
+    Jackett](https://twitter.com/BrianTJackett) (Microsoft) *|*
     @BrianTJackett -- [5:20](https://youtu.be/oKokNWh1IBg?t=320)
 -   **Demo 1:**  Introduction to Universal Print -- Rachelle Cheung
     (Microsoft) -- [10:36](https://youtu.be/oKokNWh1IBg?t=636)
 -   **Demo 2:**  Latest on Microsoft Graph Data Connect -- [Nik
-    Charlebois](http://twitter.com/NikCharlebois) (Microsoft) |
+    Charlebois](https://twitter.com/NikCharlebois) (Microsoft) |
     @NikCharlebois -- [27:37](https://youtu.be/oKokNWh1IBg?t=1657)
 
 
@@ -207,17 +207,17 @@ slides.
     MVP and Head of Solutions
     at ][Datalynx
     AG](https://www.datalynx.ch/en/)[André
-    Lage](http://twitter.com/aaclage)[ |
+    Lage](https://twitter.com/aaclage)[ |
     @aaclage | ][video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579)
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-139-%e2%80%93-18th-of-october-2021/)
 
 -   [Microsoft 365 Developer
     Podcast](https://m365devpodcast.com/) focused  exclusively on
     Microsoft 365 dev topics -- hosted by [Jeremy
-    Thake](http://twitter.com/jthake) (Microsoft) |
+    Thake](https://twitter.com/jthake) (Microsoft) |
 
     @jthake and [Paul
-    Schaeflein](http://twitter.com/paulschaeflein) (Addin365)
+    Schaeflein](https://twitter.com/paulschaeflein) (Addin365)
     | [pschaeflein](https://github.com/pschaeflein)
 
 ## General resources
