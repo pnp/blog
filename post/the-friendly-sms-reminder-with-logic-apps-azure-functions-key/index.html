@@ -129,7 +129,7 @@ configuration and get rid of the hard coded values in there. For this,
 we only need the name of our vault and the name of the
 secrets TWILIOTOKEN and TWILIOSID. </p><p>Let&rsquo;s now add these to the app configuration of our functions app. Head
 over to the functions app and </p><ul><li>Select <strong>Configuration</strong></li><li>Select <strong>New Application Settings</strong></li></ul><p> </p><p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=LuiseFreese_52-1627338697431.png>
- </p><ul><li>Fill out the form as follows: <ul><li>Name: <strong>TWILIOSID</strong></li><li>Value: <strong><a href=https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501>@microsoft</a>.KeyVault(VaultName=myvault;SecretName=mysecret)</strong></li><li>Select <strong>OK</strong></li></ul></li><li>Repeat for <strong>TWILIOTOKEN</strong></li><li>Don&rsquo;t forget to **Save<br>**</li></ul><p>Now let&rsquo;s get rid of our hard coded values in the app configuration to
+ </p><ul><li>Fill out the form as follows: <ul><li>Name: <strong>TWILIOSID</strong></li><li>Value: <strong>@microsoft</strong></li><li>Select <strong>OK</strong></li></ul></li><li>Repeat for <strong>TWILIOTOKEN</strong></li><li>Don&rsquo;t forget to **Save<br>**</li></ul><p>Now let&rsquo;s get rid of our hard coded values in the app configuration to
 clean up things: </p><p><img loading=lazy decoding=async class="w-100 d-block mb-4" src alt=cleanup.png>
 Select the <strong>Delete</strong> icon &ndash; please check twice to delete the right
 settings! </p><p>Now we need to make sure that our Azure function looks at the right app

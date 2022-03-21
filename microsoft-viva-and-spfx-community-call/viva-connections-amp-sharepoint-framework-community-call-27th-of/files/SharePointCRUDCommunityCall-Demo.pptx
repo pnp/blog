@@ -1727,7 +1727,7 @@ LITHIUM.RenderedScripts = [
 </TBODY>
 </TABLE>
 <P>&nbsp;</P>
-<P>The host of this call is <A href="http://twitter.com/jfj1997" target="_blank" rel="noopener nofollow noreferrer">Julie Turner</A> (Sympraxis Consulting) | @jfj1997.&nbsp; Q&amp;A takes place as always in chat throughout the call.</P>
+<P>The host of this call is <A href="https://twitter.com/jfj1997" target="_blank" rel="noopener nofollow noreferrer">Julie Turner</A> (Sympraxis Consulting) | @jfj1997.&nbsp; Q&amp;A takes place as always in chat throughout the call.</P>
 <P>&nbsp;</P>
 <P><span class="lia-inline-image-display-wrapper lia-image-align-center" image-alt="220127-together-mode.gif" style="width: 999px;"><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/343243iE2B3DCAA2D8FFA98/image-size/large?v=v2&amp;px=999" role="button" title="220127-together-mode.gif" alt="220127-together-mode.gif" li-image-url="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/343243iE2B3DCAA2D8FFA98?v=v2" li-image-display-id="'343243iE2B3DCAA2D8FFA98'" li-message-uid="'3074002'" li-messages-message-image="true" li-bindable="" class="lia-media-image" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false" /></span></P>
 <P>&nbsp;</P>
@@ -1776,15 +1776,15 @@ LITHIUM.RenderedScripts = [
 <P><STRONG>SPFx web part samples: (<A href="https://aka.ms/spfx-webparts" target="_blank" rel="noopener noreferrer">https://aka.ms/spfx-webparts</A>)&nbsp;</STRONG></P>
 </DIV>
 <UL>
-<LI><STRONG><A href="https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-my-approvals" target="_blank" rel="noopener noreferrer">My Approvals</A></STRONG> - <A href="http://twitter.com/karamem0" target="_blank" rel="noopener nofollow noreferrer">Takashi Shinohara</A> |&nbsp;<a href="/t5/user/viewprofilepage/user-id/229602">@karamem0</a></LI>
-<LI><STRONG><A href="https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-custompropertypanecontrols" target="_blank" rel="noopener noreferrer">Custom property pane controls</A></STRONG> - <A href="http://twitter.com/alexaterentiev" target="_blank" rel="noopener nofollow noreferrer">Alex Terentiev</A> |&nbsp;@alexaterentiev</LI>
+<LI><STRONG><A href="https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-my-approvals" target="_blank" rel="noopener noreferrer">My Approvals</A></STRONG> - <A href="https://twitter.com/karamem0" target="_blank" rel="noopener nofollow noreferrer">Takashi Shinohara</A> |&nbsp;<a href="/t5/user/viewprofilepage/user-id/229602">@karamem0</a></LI>
+<LI><STRONG><A href="https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-custompropertypanecontrols" target="_blank" rel="noopener noreferrer">Custom property pane controls</A></STRONG> - <A href="https://twitter.com/alexaterentiev" target="_blank" rel="noopener nofollow noreferrer">Alex Terentiev</A> |&nbsp;@alexaterentiev</LI>
 </UL>
 <P>&nbsp;</P>
 <P><STRONG>PnP SPFx ACEs:<SPAN>&nbsp;(</SPAN></STRONG><STRONG><A href="https://aka.ms/spfx-aces" target="_blank" rel="noopener noreferrer">https://aka.ms/spfx-aces</A>)</STRONG></P>
 <UL>
 <LI><A href="https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-SharePoint-CRUD" target="_blank" rel="noopener noreferrer"><STRONG>ACE Forms – CRUD Operations</STRONG></A> - Derek Cash-Peterson&nbsp;|&nbsp;<a href="/t5/user/viewprofilepage/user-id/386549">@Spdcp</a></LI>
-<LI><STRONG>Football Stats</STRONG>* - <A href="http://twitter.com/msoumit" target="_blank" rel="noopener nofollow noreferrer">Soumit Mukherjee</A>&nbsp;|&nbsp;@msoumit, Soumyadeep Mukherjee&nbsp;and Sourav Paul</LI>
-<LI><STRONG>People Details</STRONG>* - <A href="http://twitter.com/msoumit" target="_blank" rel="noopener nofollow noreferrer">Soumit Mukherjee</A>&nbsp;|&nbsp;@msoumit, Soumyadeep Mukherjee&nbsp;and Sourav Paul</LI>
+<LI><STRONG>Football Stats</STRONG>* - <A href="https://twitter.com/msoumit" target="_blank" rel="noopener nofollow noreferrer">Soumit Mukherjee</A>&nbsp;|&nbsp;@msoumit, Soumyadeep Mukherjee&nbsp;and Sourav Paul</LI>
+<LI><STRONG>People Details</STRONG>* - <A href="https://twitter.com/msoumit" target="_blank" rel="noopener nofollow noreferrer">Soumit Mukherjee</A>&nbsp;|&nbsp;@msoumit, Soumyadeep Mukherjee&nbsp;and Sourav Paul</LI>
 </UL>
 <P>* To be posted soon.</P>
 <P>&nbsp;</P>
@@ -1792,24 +1792,24 @@ LITHIUM.RenderedScripts = [
 <P>&nbsp;</P>
 <P><STRONG>Agenda items:</STRONG></P>
 <UL>
-<LI>SharePoint Framework -&nbsp;<A href="http://twitter.com/vesajuvonen" target="_self" rel="nofollow noopener noreferrer">Vesa Juvonen</A><SPAN>&nbsp;</SPAN>(Microsoft) | @vesajuvonen&nbsp;–<SPAN>&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=301" target="_self" rel="nofollow noopener noreferrer">5:01</A></SPAN></LI>
-<LI>PnPjs Client-Side Libraries -<SPAN>&nbsp;</SPAN><A href="http://twitter.com/jfj1997" target="_self" rel="nofollow noopener noreferrer">Julie Turner</A><SPAN>&nbsp;</SPAN>(Sympraxis Consulting) | @jfj1997&nbsp;–<SPAN>&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=488" target="_self" rel="nofollow noopener noreferrer">8:08</A></SPAN></LI>
-<LI>CLI for Microsoft 365&nbsp;-<SPAN>&nbsp;</SPAN><A href="http://twitter.com/jfj1997" target="_self" rel="nofollow noopener noreferrer">Julie Turner</A><SPAN>&nbsp;</SPAN>(Sympraxis Consulting) | @jfj1997&nbsp;–<SPAN>&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=527" target="_self" rel="nofollow noopener noreferrer">8:47</A></SPAN></LI>
-<LI>PnP SPFx Controls&nbsp;-<SPAN>&nbsp;</SPAN><A href="http://twitter.com/jfj1997" target="_self" rel="nofollow noopener noreferrer">Julie Turner</A><SPAN>&nbsp;</SPAN>(Sympraxis Consulting) | @jfj1997&nbsp;– <A href="https://youtu.be/WkFVkFKPDMc?t=559" target="_self" rel="nofollow noopener noreferrer">9:19</A></LI>
-<LI><SPAN>PnP Modern Search&nbsp;</SPAN>-<SPAN>&nbsp;</SPAN><A href="http://twitter.com/jfj1997" target="_self" rel="nofollow noopener noreferrer">Julie Turner</A><SPAN>&nbsp;</SPAN>(Sympraxis Consulting) | @jfj1997&nbsp;– <A href="https://youtu.be/WkFVkFKPDMc?t=600" target="_self" rel="nofollow noopener noreferrer">10:00</A>&nbsp;</LI>
+<LI>SharePoint Framework -&nbsp;<A href="https://twitter.com/vesajuvonen" target="_self" rel="nofollow noopener noreferrer">Vesa Juvonen</A><SPAN>&nbsp;</SPAN>(Microsoft) | @vesajuvonen&nbsp;–<SPAN>&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=301" target="_self" rel="nofollow noopener noreferrer">5:01</A></SPAN></LI>
+<LI>PnPjs Client-Side Libraries -<SPAN>&nbsp;</SPAN><A href="https://twitter.com/jfj1997" target="_self" rel="nofollow noopener noreferrer">Julie Turner</A><SPAN>&nbsp;</SPAN>(Sympraxis Consulting) | @jfj1997&nbsp;–<SPAN>&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=488" target="_self" rel="nofollow noopener noreferrer">8:08</A></SPAN></LI>
+<LI>CLI for Microsoft 365&nbsp;-<SPAN>&nbsp;</SPAN><A href="https://twitter.com/jfj1997" target="_self" rel="nofollow noopener noreferrer">Julie Turner</A><SPAN>&nbsp;</SPAN>(Sympraxis Consulting) | @jfj1997&nbsp;–<SPAN>&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=527" target="_self" rel="nofollow noopener noreferrer">8:47</A></SPAN></LI>
+<LI>PnP SPFx Controls&nbsp;-<SPAN>&nbsp;</SPAN><A href="https://twitter.com/jfj1997" target="_self" rel="nofollow noopener noreferrer">Julie Turner</A><SPAN>&nbsp;</SPAN>(Sympraxis Consulting) | @jfj1997&nbsp;– <A href="https://youtu.be/WkFVkFKPDMc?t=559" target="_self" rel="nofollow noopener noreferrer">9:19</A></LI>
+<LI><SPAN>PnP Modern Search&nbsp;</SPAN>-<SPAN>&nbsp;</SPAN><A href="https://twitter.com/jfj1997" target="_self" rel="nofollow noopener noreferrer">Julie Turner</A><SPAN>&nbsp;</SPAN>(Sympraxis Consulting) | @jfj1997&nbsp;– <A href="https://youtu.be/WkFVkFKPDMc?t=600" target="_self" rel="nofollow noopener noreferrer">10:00</A>&nbsp;</LI>
 <LI><SPAN>P</SPAN>nP SPFx Samples -<SPAN>&nbsp;</SPAN><A href="https://twitter.com/bernierh" target="_blank" rel="noopener nofollow noreferrer">Hugo Bernier</A><SPAN>&nbsp;</SPAN>(Tahoe Ninjas) | @bernierh&nbsp;–<SPAN>&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=642" target="_self" rel="nofollow noopener noreferrer">10:42</A></SPAN></LI>
-<LI><SPAN>PnP SPFx ACEs Samples -&nbsp;</SPAN><SPAN><A href="http://twitter.com/DavidWarnerII" target="_blank" rel="noopener nofollow noreferrer">David Warner II</A>&nbsp;(Catapult Systems) | @DavidWarnerII&nbsp;</SPAN>–<SPAN>&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=702" target="_self" rel="nofollow noopener noreferrer">11:42</A></SPAN></LI>
+<LI><SPAN>PnP SPFx ACEs Samples -&nbsp;</SPAN><SPAN><A href="https://twitter.com/DavidWarnerII" target="_blank" rel="noopener nofollow noreferrer">David Warner II</A>&nbsp;(Catapult Systems) | @DavidWarnerII&nbsp;</SPAN>–<SPAN>&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=702" target="_self" rel="nofollow noopener noreferrer">11:42</A></SPAN></LI>
 </UL>
 <P><STRONG>Demos:</STRONG></P>
 <UL>
 <LI>
-<P><STRONG>Demo 1</STRONG>:&nbsp; CRUD Operations in Viva Connections – Adaptive Card Extensions with SharePoint Framework – <A href="http://twitter.com/spdcp" target="_blank" rel="noopener nofollow noreferrer">Derek Cash-Peterson</A> (Sympraxis Consulting) | <a href="/t5/user/viewprofilepage/user-id/386549">@Spdcp</a>&nbsp;<SPAN style="font-family: inherit;">–</SPAN><SPAN style="font-family: inherit;">&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=826" target="_self" rel="nofollow noopener noreferrer">13:46</A></SPAN><SPAN style="font-family: inherit;">&nbsp;</SPAN></P>
+<P><STRONG>Demo 1</STRONG>:&nbsp; CRUD Operations in Viva Connections – Adaptive Card Extensions with SharePoint Framework – <A href="https://twitter.com/spdcp" target="_blank" rel="noopener nofollow noreferrer">Derek Cash-Peterson</A> (Sympraxis Consulting) | <a href="/t5/user/viewprofilepage/user-id/386549">@Spdcp</a>&nbsp;<SPAN style="font-family: inherit;">–</SPAN><SPAN style="font-family: inherit;">&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=826" target="_self" rel="nofollow noopener noreferrer">13:46</A></SPAN><SPAN style="font-family: inherit;">&nbsp;</SPAN></P>
 </LI>
 <LI>
-<P><STRONG>Demo 2</STRONG>:&nbsp; Viva Connections – Data Binding in SPFx Adaptive Card Extensions – <A href="http://twitter.com/PaoloPia" target="_blank" rel="noopener nofollow noreferrer">Paolo Pialorsi</A> (PiaSys) | @PaoloPia – <A href="https://youtu.be/WkFVkFKPDMc?t=1297" target="_self" rel="nofollow noopener noreferrer">21:37</A></P>
+<P><STRONG>Demo 2</STRONG>:&nbsp; Viva Connections – Data Binding in SPFx Adaptive Card Extensions – <A href="https://twitter.com/PaoloPia" target="_blank" rel="noopener nofollow noreferrer">Paolo Pialorsi</A> (PiaSys) | @PaoloPia – <A href="https://youtu.be/WkFVkFKPDMc?t=1297" target="_self" rel="nofollow noopener noreferrer">21:37</A></P>
 </LI>
 <LI>
-<P><STRONG>Demo 3</STRONG>:&nbsp; SPFx Design Guidance – Property pane input validation and error messages – <A href="http://twitter.com/bernierh" target="_blank" rel="noopener nofollow noreferrer">Hugo Bernier</A>&nbsp;(Microsoft) | @bernierh <SPAN style="font-family: inherit;">–</SPAN><SPAN style="font-family: inherit;">&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=2499" target="_self" rel="nofollow noopener noreferrer">41:39</A></SPAN><SPAN style="font-family: inherit;">&nbsp;</SPAN></P>
+<P><STRONG>Demo 3</STRONG>:&nbsp; SPFx Design Guidance – Property pane input validation and error messages – <A href="https://twitter.com/bernierh" target="_blank" rel="noopener nofollow noreferrer">Hugo Bernier</A>&nbsp;(Microsoft) | @bernierh <SPAN style="font-family: inherit;">–</SPAN><SPAN style="font-family: inherit;">&nbsp;<A href="https://youtu.be/WkFVkFKPDMc?t=2499" target="_self" rel="nofollow noopener noreferrer">41:39</A></SPAN><SPAN style="font-family: inherit;">&nbsp;</SPAN></P>
 </LI>
 </UL>
 <P>&nbsp;</P>
@@ -1828,7 +1828,7 @@ LITHIUM.RenderedScripts = [
 <LI><STRONG>D3</STRONG>:&nbsp; Documentation - <A style="font-family: inherit; background-color: #ffffff;" href="https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/validate-web-part-property-values" target="_blank" rel="noopener noreferrer">Validate web part property values</A><SPAN style="font-family: inherit;">&nbsp;</SPAN></LI>
 <LI><STRONG>D3</STRONG>:&nbsp;&nbsp;Documentation -<SPAN>&nbsp;</SPAN><A href="https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/basics/integrate-with-property-pane" target="_blank" rel="noopener noreferrer">Make your SharePoint client-side web part configurable</A>&nbsp;</LI>
 <LI><STRONG>D3</STRONG>:&nbsp;&nbsp;Documentation -<SPAN>&nbsp;</SPAN><A href="https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/integrate-web-part-properties-with-sharepoint" target="_blank" rel="noopener noreferrer">Integrate web part properties with SharePoint</A>&nbsp;</LI>
-<LI><STRONG>D3</STRONG><SPAN>:&nbsp;&nbsp;</SPAN>Previous demos from<SPAN>&nbsp;</SPAN><A href="http://twitter.com/bernierh" target="_blank" rel="noopener nofollow noreferrer">Hugo Bernier</A><SPAN>&nbsp;(Microsoft) | @bernierh,</SPAN><SPAN>&nbsp;on SPFx Design Patterns series</SPAN>
+<LI><STRONG>D3</STRONG><SPAN>:&nbsp;&nbsp;</SPAN>Previous demos from<SPAN>&nbsp;</SPAN><A href="https://twitter.com/bernierh" target="_blank" rel="noopener nofollow noreferrer">Hugo Bernier</A><SPAN>&nbsp;(Microsoft) | @bernierh,</SPAN><SPAN>&nbsp;on SPFx Design Patterns series</SPAN>
 <UL>
 <LI><A href="https://youtu.be/iMbQyxdPcSU?t=2632" target="_blank" rel="noopener nofollow noreferrer">SharePoint Framework Design Patterns – Custom Web Part Properties (Part 3)</A> – 13 January</LI>
 <LI><A href="https://youtu.be/--4erl4oE7Q?t=1619" target="_blank" rel="noopener nofollow noreferrer">SPFx Design Patterns – Custom Properties (Part 2)</A><SPAN>&nbsp;</SPAN>– 30 December</LI>
@@ -1837,8 +1837,8 @@ LITHIUM.RenderedScripts = [
 </UL>
 </LI>
 <LI>
-<P><STRONG>PnP Weekly – Episode 150</STRONG> (January 24<SUP>th</SUP>) with London, UK-based SharePoint developer architect and MVP,&nbsp;<A href="http://twitter.com/anooptells" target="_blank" rel="noopener nofollow noreferrer">Anoop Tatti</A>&nbsp;(Content+Cloud) | @anooptells&nbsp;|&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-150-%E2%80%93-24th-of-january-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></P>
-<P><STRONG>PnP Weekly – Episode 149</STRONG> (January 17<SUP>th</SUP>) with Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph,&nbsp;<A href="http://twitter.com/williamsrabia" target="_blank" rel="noopener nofollow noreferrer">Rabia Williams</A>&nbsp;(Microsoft) | @williamsrabia&nbsp;|&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></P>
+<P><STRONG>PnP Weekly – Episode 150</STRONG> (January 24<SUP>th</SUP>) with London, UK-based SharePoint developer architect and MVP,&nbsp;<A href="https://twitter.com/anooptells" target="_blank" rel="noopener nofollow noreferrer">Anoop Tatti</A>&nbsp;(Content+Cloud) | @anooptells&nbsp;|&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-150-%E2%80%93-24th-of-january-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></P>
+<P><STRONG>PnP Weekly – Episode 149</STRONG> (January 17<SUP>th</SUP>) with Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph,&nbsp;<A href="https://twitter.com/williamsrabia" target="_blank" rel="noopener nofollow noreferrer">Rabia Williams</A>&nbsp;(Microsoft) | @williamsrabia&nbsp;|&nbsp;<A href="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869" target="_blank">video</A>&nbsp;|&nbsp;<A href="https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/" target="_blank" rel="noopener nofollow noreferrer">podcast</A></P>
 </LI>
 </UL>
 <P>&nbsp;</P>
@@ -3164,7 +3164,7 @@ LITHIUM.RenderedScripts = [
             </a>
         </li>
         <li class="social-share-option">
-            <a class="social-share-link social-share-twitter" href="http://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Viva Connections &amp; SharePoint Framework Community Call – 27th of January, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-27th-of/ba-p/3074002?attachment-id=49263" target="_blank" title="Share to Twitter">
+            <a class="social-share-link social-share-twitter" href="https://twitter.com/share?text=Check out this post on the Microsoft Tech Community : Viva Connections &amp; SharePoint Framework Community Call – 27th of January, 2022 - Microsoft Tech Community&url=https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-27th-of/ba-p/3074002?attachment-id=49263" target="_blank" title="Share to Twitter">
                 <span class="social-share-title">Share to Twitter</span>
             </a>
         </li>
