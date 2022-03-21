@@ -154,7 +154,7 @@ Additional resources around the covered topics and links from the slides.
 *   Tools - [Microsoft Teams Framework (TeamsFx)](https://github.com/officedev/teamsfx) 
 *   Gallery - [Microsoft 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)   
 *   [Microsoft Build sessions guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital Brochure) - aka.ms/modernworkbuildsessions
-*   SharePoint Framework - v1.12.1 npm install –g [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
+*   SharePoint Framework - v1.12.1 npm install –g @microsoft/generator-sharepoint@next
 *   [CLI for Microsoft 365 v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
 *   [CodeTour](https://aka.ms/codetour)
 *   [Sharing is Caring](https://aka.ms/sharing-is-caring) | aka.ms/sharing-is-caring

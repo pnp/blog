@@ -154,11 +154,11 @@ Awesome to see many of you on the screen.
     [Jonah](https://github.com/corkindustry) | corkindustry
 -   [**Quotes**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-quotes) -
     [Yves Habersaat](https://twitter.com/yhabersaat)
-    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    | @yhabersaat
 -   [**My
     Teams**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-my-teams) -
     [Yves Habersaat](https://twitter.com/yhabersaat)
-    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    | @yhabersaat
 -   [**List
     Search**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-list-search) -
     [Alberto Gutierrez Perez](https://twitter.com/albertogperez)
@@ -169,7 +169,7 @@ Awesome to see many of you on the screen.
 -   [**Star
     Rating**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-star-ratings) -
     [Takashi Shinohara](https://twitter.com/karamem0)
-    | [@karamem0](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/229602)
+    | @karamem0
 -   [**Advanced Page
     Properties**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-advanced-page-properties) -
     [Abderahman Moujahid](https://github.com/Abderahman88)
@@ -177,7 +177,7 @@ Awesome to see many of you on the screen.
 -   [**Follow
     Documents**](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-follow-document) -
     [André Lage](https://twitter.com/aaclage)
-    | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
+    | @aaclage
 
 \* Link to be live soon!
 **PnP SPFx ACEs: (<https://aka.ms/spfx-aces>)**

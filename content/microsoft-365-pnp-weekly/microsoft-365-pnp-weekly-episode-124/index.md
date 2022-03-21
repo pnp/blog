@@ -73,7 +73,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     Automate](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/ba-p/2290219?WT.mc_id=m365-26913-wmastyka)
     - [Damien Bird](https://twitter.com/DamoBird365) (Aberdeen City
     Council)
-    | [@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
+    | @DamoBird365
 -   [Microsoft 365 PnP Community Spotlight: Wictor
     Wilén](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-wictor-wil%C3%A9n/ba-p/2290078?WT.mc_id=m365-26913-wmastyka)
     - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese &
@@ -82,16 +82,16 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     App](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/ba-p/2288239?WT.mc_id=m365-26913-wmastyka)
     - [Michael Roth](https://twitter.com/@gezeitenbrand) (IT-P
     Information Technology-Partner GmbH)
-    | [@Gezeitenbrand](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/308558)
+    | @Gezeitenbrand
 -   [Learn to debug your Power
     Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/learn-to-debug-your-power-apps/ba-p/2288271?WT.mc_id=m365-26913-wmastyka)
     - [Michael Roth](https://twitter.com/@gezeitenbrand) (IT-P
     Information Technology-Partner GmbH)
-    | [@Gezeitenbrand](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/308558)
+    | @Gezeitenbrand
 -   [Export Power Apps and Power Automate user
     licenses](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/export-power-apps-and-power-automate-user-licenses/ba-p/2281840?WT.mc_id=m365-26913-wmastyka)
     - [Yves Habersaat](https://www.twitter.com/yhabersaat) (Sword Group)
-    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    | @yhabersaat
 -   [How to beautify your Power
     Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-beautify-your-power-apps/ba-p/2280799?WT.mc_id=m365-26913-wmastyka)
     - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese

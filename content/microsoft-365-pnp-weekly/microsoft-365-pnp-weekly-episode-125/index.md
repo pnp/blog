@@ -86,7 +86,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     Trigger](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/power-platform-ms-forms-quiz-with-dynamic-leader-board-created/ba-p/2308467?WT.mc_id=m365-27094-wmastyka) -
     [Damien Bird](https://twitter.com/DamoBird365) (Aberdeen City
     Council)
-    | [@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
+    | @DamoBird365
 -   [How to get Source Code files for Power Apps Canvas
     apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-get-source-code-files-for-power-apps-canvas-apps/ba-p/2308822?WT.mc_id=m365-27094-wmastyka) - [Luise
     Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
@@ -107,7 +107,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     Automate](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/teams-an-adoption-idea-transfer-your-group-chat-emails-to-teams/ba-p/2290219?WT.mc_id=m365-26913-wmastyka)
     - [Damien Bird](https://twitter.com/DamoBird365) (Aberdeen City
     Council)
-    | [@DamoBird365](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1035201)
+    | @DamoBird365
 -   [SPFx Check Locale - a nice option to check your localization
     consistency across SharePoint
     Framework\...](https://spblog.net/post/2021/04/29/spfx-check-locale-a-nice-option-to-check-your-localization-consistency-across-sharepoint-framework-solution) -

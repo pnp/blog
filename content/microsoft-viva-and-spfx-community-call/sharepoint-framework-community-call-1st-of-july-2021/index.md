@@ -130,7 +130,7 @@ making this a great community.  
 -   **[Follow
     Documents](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-follow-document)
     -** [André
-    Lage](https://twitter.com/aaclage) | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
+    Lage](https://twitter.com/aaclage) | @aaclage
 -   **[Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-calendar)
     -** Abderahman Moujahid
 -   **[Quick
@@ -172,7 +172,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 
 -   **Demo:**  Follow Documents in Modern Workspace with SPFx -- [André
     Lage](https://twitter.com/aaclage) (Datalynx AG) |
-    [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803) --
+    @aaclage --
     [44:26](https://youtu.be/yGlkkdOp0U4?t=2666)
 
 

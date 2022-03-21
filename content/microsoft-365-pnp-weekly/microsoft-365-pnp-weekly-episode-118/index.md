@@ -115,7 +115,7 @@ everyone for your contributions to the community!
 -   [Init API permissions for your SPFx projects without deploying
     them](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/init-api-permissions-for-your-spfx-projects-without-deploying/ba-p/2189059) - [Michaël
     Maillot](https://twitter.com/michael_maillot) (onepoint)
-    | [@michael](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/43617)\_maillot
+    | @michael\_maillot
 -   [Getting started with SharePoint
     Framework](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-framework/ba-p/2193307) -
     [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)

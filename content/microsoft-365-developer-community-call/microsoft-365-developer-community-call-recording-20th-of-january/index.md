@@ -145,9 +145,9 @@ II](https://twitter.com/DavidWarnerII) (Catapult Systems) |
 -   [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) |
     @kasperbolarsen
 -   [Leon Armston](https://twitter.com/LeonArmston) |
-    [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    @LeonArmston
 -   [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) |
-    [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+    @reshmeeauckloo
 
 Blog: [Getting started with PnP Script Samples](https://aka.ms/script-samples/getting-started) -- aka.ms/script-samples/getting-started
 

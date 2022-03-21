@@ -156,7 +156,7 @@ everyone for your contributions to the community!
     SharePoint](https://o365code.blogspot.com/2021/06/export-import-from-excel-file-in.html)
     - [Gaurav Goyal](https://twitter.com/gauravgoyal_5) (eWorkplace Apps
     Pvt. Ltd.)
-    | [@GauravGoyal](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/584998)
+    | @GauravGoyal
 -   [PnPjs - release
     2.6.0](https://github.com/pnp/pnpjs/blob/main/CHANGELOG.md) - [Julie
     Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)

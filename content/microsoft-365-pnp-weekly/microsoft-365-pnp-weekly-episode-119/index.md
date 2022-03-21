@@ -77,7 +77,7 @@ These videos and podcasts are published each week and are intended to be roughly
     Automate - including
     Pagination](https://www.leonarmston.com/2021/03/office-365-management-api-with-logic-apps-power-automate-including-pagination/) --
     [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) |
-    [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    @LeonArmston
 -   [Teams App Deployment to Azure Web
     App](https://aakashbhardwaj619.github.io/2021/03/15/Teams-App-Deployment.html) -
     [Aakash Bhardwaj](https://twitter.com/aakash_316) (HCL Technologies)
@@ -89,7 +89,7 @@ These videos and podcasts are published each week and are intended to be roughly
 -   [Manage sites content types with Microsoft Graph
     (beta)](https://yhabersaat.ch/2021/03/21/manage-sites-content-types-microsoft-graph-beta/) -
     [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group) |
-    [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    @yhabersaat
 -   [Episode #146​ - Creating a Bot with Yo Teams v.
     3.x](https://www.youtube.com/watch?v=q37QO6boKoE) - [Paolo
     Pialorsi](https://twitter.com/paolopia) (PiaSys.com) | @paolopia

@@ -1193,7 +1193,7 @@ Community demos as following: 
 -   [Power Apps Demo Extravaganza 2021 - Sports Stats
     Tracker](https://www.youtube.com/watch?v=DJfDL9FWH0M) - [Todd
     Baginski](https://twitter.com/toddbaginski) (Canviz) |
-    [@ToddBaginski](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/720073), [Matt
+    @ToddBaginski, [Matt
     Schuessler](https://twitter.com/mattschues) (Canviz) |
     @mattschues, [Hubert Sui](https://twitter.com/HubertSui) (Canviz)
     | @HubertSui, Sarah Meyer (Canviz) & Damian Gibbs (Canviz)
@@ -1203,14 +1203,14 @@ Community demos as following: 
 -   [Power Apps Demo Extravaganza 2021 - Course Maker
     Solution](https://www.youtube.com/watch?v=gHgQ4r60pxc) - [Rory
     Neary](https://twitter.com/azurerory) (hybrit.co.uk) |
-    [@azurerory](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/449976)
+    @azurerory
 -   [Building a COVID attestation solution for Microsoft Teams and Viva
     Connections with
     SPFx](https://www.youtube.com/watch?v=SAITSnFiAg8) - [Julie
     Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 & [Derek Cash-Peterson](https://twitter.com/spdcp)
     (Sympraxis Consulting) |
-    [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
+    @Spdcp
 -   [Configure Teams Applications with Azure App Configuration and Azure
     Key Vault](https://www.youtube.com/watch?v=ytTx-G6AskA) - [Markus
     Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
@@ -1236,7 +1236,7 @@ Community demos as following: 
 -   [Follow Documents in Modern Workspace with
     SPFx](https://www.youtube.com/watch?v=Wx7nqlP3WQU) - [André
     Lage](https://twitter.com/aaclage) (Datalynx AG)
-    | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
+    | @aaclage
 -   [Copy PnP Search results web part
     settings](https://www.youtube.com/watch?v=Jb-Q-Ih4quY) - [Anoop
     Tatti](https://twitter.com/anooptells) (Content and Code)
@@ -1252,7 +1252,7 @@ Community demos as following: 
 -   [Our learnings from the AppSource submission for Microsoft
     Teams](https://www.youtube.com/watch?v=pZNbHMsgdPo) - [Florian
     Grasel](https://twitter.com/trailbeard) (Smarter Business Solutions
-    GmbH) | [@Trailbeard](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/278114)
+    GmbH) | @Trailbeard
 -   [COE in Dataverse for Teams in the Power
     Platform](https://www.youtube.com/watch?v=sG6Q7E0gDrk) - [Krishna
     Vandanapu](https://twitter.com/KrishnaShp) | @KrishnaShp
@@ -1262,18 +1262,18 @@ Community demos as following: 
     Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 & [Derek Cash-Peterson](https://twitter.com/spdcp)
     (Sympraxis Consulting) |
-    [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
+    @Spdcp
 -   [Planner Gantt chart in Power
     Apps](https://www.youtube.com/watch?v=yJ69VUD0iVY) - [Terho
     Antila](https://twitter.com/terhoantila) |
-    [@terhoantila](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1124748)
+    @terhoantila
 -   [spfx-fast-serve: faster SharePoint Framework
     development](https://www.youtube.com/watch?v=69Gp_akTZjA) - [Sergei
     Sergeev](https://twitter.com/sergeev_srg) (Mastaq) | @sergeev_srg
 -   [Create a digital escape room with Power
     Apps](https://www.youtube.com/watch?v=H9alGYs17JA) - [May
     Alhajri](https://twitter.com/MayAlhajri2) |
-    [@MayAlhajri2](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696)
+    @MayAlhajri2
 -   [Building a digital asset / document repository management app for
     Microsoft Teams](https://www.youtube.com/watch?v=D-Y-MqJHBDk)
     - Sathya Raveendran (Microsoft) & Arun Kumar Anaparthi (Zen3

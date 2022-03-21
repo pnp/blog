@@ -109,7 +109,7 @@ everyone for your contributions to the community!\
     Svenson](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-mikael-svenson/ba-p/2276791)
     - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese &
     [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft)
-    |  [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173)
+    |  @MikaelSvenson
 -   [Power Apps print
     function](https://wonderlaura.com/2021/04/13/power-apps-print-function/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+LauraRogers+%28Laura+Rogers%2C+SharePoint+MVP%29) -
     [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor)

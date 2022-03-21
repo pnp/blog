@@ -114,7 +114,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 -   **[Provision Home Page to a SharePoint
     site](https://pnp.github.io/script-samples/spo-provision-homepage/README.html?tabs=pnpps)
     -** [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) |
-    [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+    @reshmeeauckloo
 -   **[Extract Modern Pages to Individual Provisioning
     Files](https://pnp.github.io/script-samples/spo-extract-modern-pages/README.html?tabs=pnpps)
     -** [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd)
@@ -177,7 +177,7 @@ Topics covered in this call
     (Microsoft) | @wictor - [9:57](https://youtu.be/PpjPCt00W9A?t=597)
 -   Microsoft Graph Toolkit updates - [Elise
     Yang](https://twitter.com/elisenyang) (Microsoft) |
-    [@elisenyang](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/803417) - [11:58](https://youtu.be/PpjPCt00W9A?t=718)
+    @elisenyang
 -   Microsoft Teams Samples - [David Warner
     II](https://twitter.com/DavidWarnerII) (Catapult Systems)
     | @DavidWarnerII - [14:00](https://youtu.be/PpjPCt00W9A?t=840)

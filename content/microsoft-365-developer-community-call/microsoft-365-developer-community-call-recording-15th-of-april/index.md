@@ -139,7 +139,7 @@ Topics covered in this call
 -   **Demo:**  Live London Underground Line Status Bot in Microsoft
     Dataverse for Teams - [Leon Armston](https://twitter.com/LeonArmston)
     (Intelogy) |
-    [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621) -
+    @LeonArmston -
     [25:18](https://youtu.be/HarfeUb-3TY?t=1518)
 
 -   **Demo:**  Microsoft list formatting with header and footer

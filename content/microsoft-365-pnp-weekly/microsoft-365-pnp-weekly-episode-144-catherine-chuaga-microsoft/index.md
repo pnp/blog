@@ -65,7 +65,7 @@ everyone for your contributions to the community!
     authentication and
     more](https://devblogs.microsoft.com/microsoft365dev/go-developers-can-now-access-microsoft-graph-with-streamlined-authentication-and-more/)
     - [Vincent Biret](https://twitter.com/baywet) (Microsoft)
-    | [@baywet](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1028300)
+    | @baywet
 -   [Announcing Teams JS SDK v2 in public preview: Extend Teams apps
     across Microsoft
     365](https://devblogs.microsoft.com/microsoft365dev/announcing-teams-js-sdk-v2-in-public-preview-extend-teams-apps-across-microsoft-365/)
@@ -104,7 +104,7 @@ everyone for your contributions to the community!
     values](https://michelcarlo.com/2021/11/19/quick-sharepoint-approvals-using-list-formatting-to-set-field-values/)
     - [Michel Mendes](https://twitter.com/michelcarlo) (Storm
     Technology)
-    | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
+    | @michelcarlo
 -   [Upload files to SharePoint with JavaScript using Microsoft Graph
     and Microsoft Authentication
     Librar\...](https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/)

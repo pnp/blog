@@ -132,7 +132,7 @@ Truly unique like this Community!
 -   [OneDrive
     Finder](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder) -
     [André
-    Lage](https://twitter.com/aaclage) | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
+    Lage](https://twitter.com/aaclage) | @aaclage
 -   [Graph MGT
     Client](https://github.com/pnp/sp-dev-fx-webparts/blob/master/samples/react-graph-mgt-client) -
     [Sébastien
@@ -209,7 +209,7 @@ slides.
     Properties](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-advanced-page-properties) 
 
     Framework - v1.12.1 public preview \\ npm install --g
-    [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint@next
+    @microsoft/generator-sharepoint@next
 
 -   Gallery - [Microsoft 365 Extensibility look book
     gallery](https://aka.ms/m365/extensibility) |

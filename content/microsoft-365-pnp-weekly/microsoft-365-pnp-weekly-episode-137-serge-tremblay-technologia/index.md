@@ -71,7 +71,7 @@ everyone for your contributions to the community!
     Maisa Rissi and Darrel
     Miller](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsft-365-developer-podcast-latest-microsoft-graph-sdks-with/ba-p/2790309) -
     [Paul Schaeflein](https://twitter.com/paulschaeflein) (Addin365) |
-    [@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113) 
+    @paulschaeflein 
 -   [Office Add-in Samples - September 2021
     update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-in-samples-september-2021-update/ba-p/2768832) -
     [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) |
@@ -95,7 +95,7 @@ everyone for your contributions to the community!
 -   [Looking at Things in
     Profile](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/looking-at-things-in-profile/ba-p/2781232) -
     [Simon Hudson](https://twitter.com/simonjhudson) (Cloud2) |
-    [@SimonJHudson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/792961)  
+    @SimonJHudson  
 -   [Grant Permissions to All Communication Sites Associated with a Hub
     Site](https://sympmarc.com/2021/09/29/grant-permissions-to-all-communication-sites-associated-with-a-hub-site/) -
     [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting

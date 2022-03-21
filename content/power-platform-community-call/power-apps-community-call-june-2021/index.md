@@ -87,7 +87,7 @@ or viewing it on demand. 
     - [26:05](https://youtu.be/WVQ882sHoVc?t=1565)
 -   Create a digital escape room with Power Apps - [May
     Alhajri](https://twitter.com/MayAlhajri2) |
-    [@MayAlhajri2](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696) -
+    @MayAlhajri2 -
     [42:48](https://youtu.be/WVQ882sHoVc?t=2568)
 -   Recent Power Apps News and Community Contributions -- [Charles
     Sterling](https://twitter.com/chass) (Microsoft) | @chass

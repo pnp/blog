@@ -138,7 +138,7 @@ everyone for your contributions to the community!
     Microsoft Graph
     API](https://michelcarlo.com/2021/10/16/getting-the-working-hours-time-zones-for-other-users-using-microsoft-graph-api/) -
     [Michel Mendes](https://twitter.com/michelcarlo) (Storm Technology
-    Ltd) | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
+    Ltd) | @michelcarlo
 -   [Create an event page with SharePoint and
     Lists](https://medium.com/@anand.vadivelan/create-an-event-page-with-sharepoint-and-lists-5f3852e9117)
     - [Anand Ragav](https://twitter.com/anandVragav) | @anandVragav

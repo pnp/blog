@@ -114,7 +114,7 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
 -   **[Download contents of Document library as
     PDF](https://pnp.github.io/script-samples/graph-download-office-documents-as-pdf/README.html?tabs=pnpps)**
     -- [Russell Gove](https://twitter.com/russgove) (Tronox) |
-    [@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
+    @russgove
 -   **[Assign Graph permissions to a Managed
     Identity](https://pnp.github.io/script-samples/graph-assign-permissions-managed-identity/README.html?tabs=azure-cli)**
     -- [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese

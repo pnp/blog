@@ -113,14 +113,14 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -   11 New Samples + 6 Updated Samples🤩  -- WOW!  Contributed by
     -   [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw)
-        | [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
+        | @ValerasNarbutas
     -   [Adam Wójcik](https://twitter.com/Adam25858782) | @Adam25858782
     -   [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm
         Technology) | @ScoutmanPt
     -   [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis
         Consulting LLC) | @sympmarc
     -   [Russell Gove](https://twitter.com/russgove) (Tronox) |
-        [@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
+        @russgove
 
 -- Thank you :clapping_hands:
 
@@ -246,7 +246,7 @@ slides.
 -   **PnP Weekly -- Episode 140** (October 25th) with Sweden based MVP
     and Chief Technical Architect at Advania - [Simon
     Ågren](https://twitter.com/agrenpoint) |
-    [@AgrenPoint](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/271184). | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/ba-p/2881228) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-140-%e2%80%93-25th-of-october-2021/)
+    @AgrenPoint
 
 ## General resources
 

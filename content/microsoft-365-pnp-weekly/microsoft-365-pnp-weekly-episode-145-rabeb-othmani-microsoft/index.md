@@ -109,12 +109,12 @@ everyone for your contributions to the community!
     formatted
     Lists](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/ba-p/2994438) - [Anand
     Ragav](https://twitter.com/anandVragav) (Ericsson)
-    | [@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372)
+    | @AnandVRagav
 -   [M365 Dev Podcast - Microsoft News: November
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/m365-dev-podcast-microsoft-news-november-2021/ba-p/2997175) -
     [Jeremy Thake](https://twitter.com/jthake) (Microsoft) | @jthake &
     [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365)
-    | [@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113)
+    | @paulschaeflein
 -   [Microsoft Graph PowerShell SDK 1.9.0
     Released](https://helloitsliam.com/2021/11/24/microsoft-graph-powershell-sdk-1-9-0-released/) -
     [Liam Cleary](https://twitter.com/helloitsliam) | @helloitsliam

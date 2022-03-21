@@ -17,7 +17,7 @@ Topics covered in this month's community call include demos **Power Apps
 Christmas Calendar + Games** (Advent calendar with engaging games
 unlocked on Dec 18th and 23rd) - [Craig
 Gregory](https://twitter.com/CrashLongJohns)
-[@CrashLongJohns](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1127338) and 
+@CrashLongJohns and 
 
 **Teams Provision Genie** (Canvas app that simplifies the configuration and deployment of enterprise ready Teams sites) - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese & [Carmen Ysewijn](https://twitter.com/CarmenYsewijn) | @CarmenYsewijn.
 

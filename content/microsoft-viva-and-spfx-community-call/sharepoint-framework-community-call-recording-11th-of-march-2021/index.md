@@ -121,7 +121,7 @@ Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 -   [Security
     Grid](https://github.com/pnp/sp-dev-fx-webparts/blob/master/samples/react-securitygrid) -
     [Russell Gove](https://twitter.com/russgove)
-    | [@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
+    | @russgove
 
 As is the case this week, samples are often showcased in Demos.  Thank
 you for your great work.

@@ -123,7 +123,7 @@ Samples: **([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 -   [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology) |
     @ScoutmanPt
 -   [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) |
-    [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+    @reshmeeauckloo
 -   [Kasper Larsen](https://twitter.com/kasperbolarsen) |
     @kasperbolarsen
 -   Jiten Parmar
@@ -221,7 +221,7 @@ Topics covered in this call
     Connector Demo -- [Natalie
     Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) |
     @NataliePienkow1 & [Roy Paar](https://twitter.com/RoyPaar)
-    (Microsoft) | [@RoyPaar](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1268106)
+    (Microsoft) | @RoyPaar
     ** ** ** **
 
     -- [40:50](https://youtu.be/25L63KGPru0?t=2450)

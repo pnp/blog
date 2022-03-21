@@ -18,7 +18,7 @@ information at scale from Microsoft Graph).  Q&A throughout call in
 chat.  Microsoft Graph session recordings from Microsoft Build
 Conference are now available on demand.  The call was hosted by [Brian
 T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) |
-[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Microsoft
+@BrianTJackett.  Microsoft
 Presenters were [Leif Brenne](https://twitter.com/secondleif), Mei Tan
 and [Nik Charlebois](https://twitter.com/NikCharlebois). Guest presenter
 [Elio Struyf](https://twitter.com/eliostruyf) (Squarl).   This session

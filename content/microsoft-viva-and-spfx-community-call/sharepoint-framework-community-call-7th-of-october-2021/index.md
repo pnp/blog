@@ -162,7 +162,7 @@ Please join again soon.
     Team**](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ManageTeam)
     -- [Dipen Shah](https://twitter.com/Dips_365) | @Dips_365
 -   **Planner Tasks** -- [Ejaz
-    Hussain](https://twitter.com/EjazHussain_) | [@EjazHussain](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/323015)\_
+    Hussain](https://twitter.com/EjazHussain_) | @EjazHussain\_
 -   **Tenant Service Health** -- [Anoop
     Tatti](https://twitter.com/anooptells) | @anooptells
 -   [**Articles at a

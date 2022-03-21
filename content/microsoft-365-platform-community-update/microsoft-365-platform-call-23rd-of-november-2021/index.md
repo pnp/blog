@@ -180,7 +180,7 @@ slides.
 
 -   **D2:**  Tools - Viva Connections Toolkit (SPFx 1.13) | npm install
     -g
-    [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/generator-sharepoint 
+    @microsoft/generator-sharepoint 
 
 -   **D2:**  Look book -- [SharePoint look
     book](https://lookbook.microsoft.com/) 

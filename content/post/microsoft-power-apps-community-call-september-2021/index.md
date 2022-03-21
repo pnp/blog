@@ -35,7 +35,7 @@ demand. 
     [4:13](https://youtu.be/8bDUAK6N8Jg?t=253)
 -   Power Apps Design Philosophy - [May
     Alhajri](https://twitter.com/MayAlhajri2) |
-    [@MayAlhajri2](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670696) --
+    @MayAlhajri2 --
     [34:04](https://youtu.be/8bDUAK6N8Jg?t=2044)
 -   Recent Power Apps News and Community Contributions -- [Charles
     Sterling](https://twitter.com/chass) (Microsoft) | @chass --

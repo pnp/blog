@@ -27,7 +27,7 @@ Program](https://aka.ms/m365pnp-recognition). Welcome to 9 new members
 to the Microsoft 365 PnP Team!  We're thrilled you have joined us.  
 
 -   [Geetha Sivasailam](https://twitter.com/GSiVed) |
-    [@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388)
+    @GSiVed
 -   [João Mendes](https://twitter.com/joaojmendes) (independent/Storm
     Technologies Ltd) |
     [joaojmendes](https://github.com/joaojmendes)
@@ -39,7 +39,7 @@ to the Microsoft 365 PnP Team!  We're thrilled you have joined us.  
     Technology Ltd) | @JoelFMRodrigues
 -   [Tetsuya Kawahara](https://twitter.com/techan_k) (MVP) | @techan_k
 -   [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis
-    Consulting) | [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
+    Consulting) | @Spdcp
 -   [Rick Van Rousselt](https://twitter.com/rickvanrousselt) (Advantive)
     | @rickvanrousselt
 -   [Thomy Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
@@ -131,14 +131,14 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 -   8 New Samples + 6 Updated Samples🤩  -- WOW!  Contributed by
     -   [Adam Wójcik](https://twitter.com/Adam25858782) | @Adam25858782
     -   [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw)
-        | [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
+        | @ValerasNarbutas
     -   [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm
         Technology) | @ScoutmanPt
     -   [Srinivas Varukala](https://twitter.com/svarukala) (Microsoft) |
         @svarukala
     -   [Jim Love](https://twitter.com/jimmywim) | @jimmywim
     -   [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) |
-        [@reshmeeauckloo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1145036)
+        @reshmeeauckloo
 
 -- Fabulous!
 

@@ -98,7 +98,7 @@ everyone for your contributions to the community!\
 -   [How to determine web part size with SPFx
     v1.12](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-determine-web-part-size-with-spfx-v1-12/ba-p/2230898)
     - [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group)
-    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    | @yhabersaat
 -   [New VSCode extension for autocompleting your Microsoft Graph
     APIs](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-vscode-extension-for-autocompleting-your-microsoft-graph/ba-p/2231013) -
     [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting)

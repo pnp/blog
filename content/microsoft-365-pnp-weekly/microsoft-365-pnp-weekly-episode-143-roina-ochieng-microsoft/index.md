@@ -68,7 +68,7 @@ everyone for your contributions to the community!
     generally
     available](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-mobile-and-new-partner-integrations-are-now/ba-p/2932217) -
     [Michael Holste](https://twitter.com/Mike_Holste) (Microsoft)
-    | [@Mike](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/18377)\_Holste
+    | @Mike\_Holste
 -   [Microsoft Tech Community Live: Microsoft Viva
     Edition](https://techcommunity.microsoft.com/t5/tech-community-live/microsoft-tech-community-live-microsoft-viva-edition/ev-p/2824340) -
     Microsoft
@@ -88,7 +88,7 @@ everyone for your contributions to the community!
     collaborative
     canvas](https://regarding365.com/collaborating-on-a-loop-preparing-for-microsoft-loop-and-the-collaborative-canvas-1908b2fd1a0b)
     - [Rebecca Jackson](https://twitter.com/RebeccaJLJ) (Avanade)
-    | [@RebeccaJLJ](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/478380)
+    | @RebeccaJLJ
 -   [Cleaning Up Content Types Orphaned from the Content Type
     Hub](https://sympmarc.com/2021/11/09/cleaning-up-content-types-orphaned-from-the-content-type-hub/) -
     [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis

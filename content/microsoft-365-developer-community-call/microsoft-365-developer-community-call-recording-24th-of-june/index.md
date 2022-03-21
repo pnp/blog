@@ -146,7 +146,7 @@ Topics covered in this call
 
 -   **Demo: ** Our learnings from the AppSource submission for Microsoft
     Teams - [Florian Grasel](https://twitter.com/trailbeard) (TagTeam) |
-    [@Trailbeard](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/278114) -
+    @Trailbeard -
     [32:17](https://youtu.be/nm16Z3VEYHA?t=1937)
 
 -   **Demo: ** Getting started with Microsoft Graph Tag API for managing

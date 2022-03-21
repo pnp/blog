@@ -86,7 +86,7 @@ contributor to [Sharing is
 Caring](https://pnp.github.io/sharing-is-caring/) initiative.
 
 You can read his blog at [spdcp.com](https://spdcp.com/) and his random
-thoughts on twitter [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
+thoughts on twitter @Spdcp
 
 Outside of work he can be seen wandering the streets of Reykjavik
 looking for new restaurants or pubs

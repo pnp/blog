@@ -185,13 +185,13 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **D2:**[  Viva Connections -- Adaptive Card Showcase Gallery --
     ][Derek
     Cash-Peterson](https://twitter.com/spdcp)[ (Sympraxis Consulting) |
-    [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549) --
+    @Spdcp --
     [24:21](https://youtu.be/s7uWd2NeLNE?t=1461)]
 
 -   **D3:**[  Application Secrets Expiration Web Part --
     ][Aimery
     Thomas](https://twitter.com/aimery_thomas)[ (Avanade) |
-    [@aimery_thomas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/925977)][ --
+    @aimery_thomas][ --
     [44:01](https://youtu.be/s7uWd2NeLNE?t=2641)]
 
 

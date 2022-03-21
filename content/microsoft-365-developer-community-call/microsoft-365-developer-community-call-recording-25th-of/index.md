@@ -144,7 +144,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 -   2 New Samples + 4 Updated Samples🤩 -- WOW!  Contributed by
     -   [Adam Wójcik](https://twitter.com/Adam25858782) | @Adam25858782
     -   [Leon Armston](https://twitter.com/LeonArmston) |
-        [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+        @LeonArmston
 
 -- Fabulous!
 
@@ -221,7 +221,7 @@ Topics covered in this call
 -   **Demo 2:**[  Create an event page in SharePoint with SharePoint
     Spaces and custom Lists -- ][Anand
     Ragav](https://twitter.com/anandVragav)[ |
-    [@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372) ]--
+    @AnandVRagav ]--
     [31:59](https://youtu.be/GW7THadNYtQ?t=1919)
 -   [**Demo 3:**[  Using Randomization with List Formatting --
     ][Chris Kent](https://twitter.com/thechriskent)[

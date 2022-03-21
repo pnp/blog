@@ -148,7 +148,7 @@ is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 -   **[Document Card
     FAQ](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-doccard-faq)** -
     [Sam
-    Collins](https://twitter.com/samc148) | [@SamCollins](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/369055)
+    Collins](https://twitter.com/samc148) | @SamCollins
 
 As is the case this week, samples are often showcased in Demos.  Thank
 you for your great work.
@@ -186,7 +186,7 @@ you for your great work.
 
 -   Building an advanced SPFx Image Editor web part -- [Peter Paul
     Kirschner](https://twitter.com/petkir_at) (cubido) |
-    [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at --
+    @petkir\_at --
     [31:05](https://youtu.be/PJ4aUybRrQo?t=1865)
 
 -   Viva Connections Desktop and Extensibility -- [Vesa

@@ -201,7 +201,7 @@ Topics covered in this call
     Hollinshead](https://twitter.com/mahollinshead) (Microsoft) |
     @mahollinshead & [Derek Cash-Peterson](https://twitter.com/spdcp)
     (Sympraxis Consulting) |
-    [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549) --
+    @Spdcp --
     [33:21](https://youtu.be/-ovC3cO7xlA?t=2001)
 
 -   **Demo 3:**  Using inline editing with list formatting --
@@ -242,7 +242,7 @@ slides.
 -   **PnP Weekly -- Episode 146** (December 6th) with Reykjavik,
     Iceland-based Consultant and MVP, [Derek
     Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) |
-    [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-146-derek-cash-peterson/ba-p/3031492) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-146-%E2%80%93-6th-of-december-2021/)
+    @Spdcp
 -   **PnP Weekly -- Episode 145** (November 30th) with Bristol,
     England, United Kingdom-based Senior Program Manager on the
     Microsoft Graph Dev-X team [Rabeb

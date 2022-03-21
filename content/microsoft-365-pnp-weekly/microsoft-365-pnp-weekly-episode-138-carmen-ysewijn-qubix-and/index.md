@@ -93,7 +93,7 @@ everyone for your contributions to the community!
 -   [How to Get the Microsoft 365 Connected User with PnP
     PowerShell](https://www.toddklindt.com/blog/Lists/Posts/Post.aspx?List=56f96349-3bb6-4087-94f4-7f95ff4ca81f&ID=890&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20ToddKlindtsBlogPosts%20(Todd%20Klindt%27s%20SharePoint%20Blog)&Web=48e6fdd1-17db-4543-b2f9-6fc7185484fc) -
     [Todd Klindt](https://twitter.com/ToddKlindt) (Sympraxis Consulting)
-    | [@ToddKlindt](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/738018)
+    | @ToddKlindt
 -   [Viva Learning preview moving to general
     availability](https://regarding365.com/viva-learning-preview-moving-to-general-availability-d73ba4690e29) - [Daniel
     Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) |

@@ -49,7 +49,7 @@ platform.   
 
 The host of this call was [Brian T.
 Jackett](https://twitter.com/BrianTJackett) (Microsoft)
-*|*[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A takes
+*|*@BrianTJackett.  Q&A takes
 place in chat throughout the call
 
 **Microsoft 365 Platform News Flash**

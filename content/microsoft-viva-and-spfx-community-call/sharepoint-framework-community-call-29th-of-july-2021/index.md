@@ -129,7 +129,7 @@ wait, now there's 35 wavers!   Data corruption.  
 -   **[Cross-Device
     Data](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-cross-device-data)** (link
     pending) - [Giuliano De
-    Luca](https://twitter.com/delucagiulian) | [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    Luca](https://twitter.com/delucagiulian) | @delucagiulian
 -   **[Diagrams](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-diagram-webparts)** (link
     pending) - [Hugo Bernier](https://twitter.com/bernierh) | @bernierh
 

@@ -883,7 +883,7 @@ Thank you for all that you do!
 * [Emily Mancini](https://twitter.com/EEMancini) 
  (Sympraxis Consulting) | @EEMancini
 * [Geetha Sivasailam](https://twitter.com/gsived) 
-(Artis Consulting) | [@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388)
+(Artis Consulting) | @GSiVed
 * [Julie Turner](https://twitter.com/jfj1997)(Sympraxis Consulting) | @jfj1997
 * [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 * [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese

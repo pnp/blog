@@ -95,7 +95,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-in-samples-december-2021-update/ba-p/3041522)
 -   11th of December - [Tomasz
     Poszytek](https://twitter.com/TomaszPoszytek)|
-    [@TomaszPoszytek](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/335682) -
+    @TomaszPoszytek -
     [Display images in Adaptive
     Cards](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/display-images-in-adaptive-cards/ba-p/3036435)
 -   10th of December - [Albert-Jan
@@ -104,7 +104,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/a-jmespath-cheat-sheet-for-the-cli-for-microsoft-365/ba-p/3034584)
 -   3rd of December - [Anand
     Ragav](https://twitter.com/anandVragav) (Ericsson) |
-    [@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372) -
+    @AnandVRagav -
     [Creating a video portal in SharePoint with JSON formatted document
     library](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/creating-a-video-portal-in-sharepoint-with-json-formatted/ba-p/3016104)
 
@@ -120,7 +120,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ba-p/3000703)
 -   23rd of November - [Anand
     Ragav](https://twitter.com/anandVragav) (Ericsson) |
-    [@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372) - [Create
+    @AnandVRagav - [Create
     an event page with SharePoint, SharePoint Spaces and formatted
     Lists](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/ba-p/2994438)
 Community call recording blog posts:
@@ -350,11 +350,11 @@ In April 2020 we announced our new [Microsoft 365 PnP team model](https://develo
     November
     2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members/ba-p/2953966) - [Geetha
     Sivasailam](https://twitter.com/gsived) (Artis Consulting)
-    | [@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388), [Natalie
+    | @GSiVed, [Natalie
     Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft)
     | @NataliePienkow1, [Derek
     Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting)
-    | [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549), [João J.
+    | @Spdcp, [João J.
     Mendes](https://twitter.com/joaojmendes) (Valo)
     | [joaojmendes](https://github.com/joaojmendes), [Joel
     Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology)
@@ -468,7 +468,7 @@ from the different repositories.
 -   New sample
     [js-application-microsoft-clarity](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-application-microsoft-clarity)
     by [João Ferreira](https://twitter.com/Joao12Ferreira) |
-    [@joaoferreira](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/404524) that
+    @joaoferreira that
     allows to use Clarity in SharePoint
 -   New sample
     [PrimaryTextCard-Graph-UnreadEmails](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-Graph-UnreadEmails)
@@ -531,7 +531,7 @@ Here are the latest updates on the Script Samples
     by [Leon
     Armston](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FLeonArmston&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=JJBITkM3iDUYdrw1%2Fs3phVO58TvxREAoGT54PXhO6tQ%3D&reserved=0)
     (Intelogy) |
-    [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    @LeonArmston
 -   Updated [Report of Private Teams channels to
     Excel](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Freport-private-teams-excel%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=gno6zCmzanqTNIaonGjjyt%2FW1RInOi1kQhkIC0Vcl5Y%3D&reserved=0)
     by [Adam
@@ -629,7 +629,7 @@ These are the latest connectors: 
 -   [Weather
     Forecast](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/WeatherForecast) - [Haimantika
     Mitra](https://twitter.com/HaimantikaM) (Microsoft) |
-    [@HaimantikaM](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1201804)
+    @HaimantikaM
 -   [Carbon
     Intensity](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Carbon%20Intensity) --
     Hasan Unlu
@@ -645,9 +645,9 @@ These are the latest connectors: 
 -   [What3Words](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/What3Words) - [Matt
     Beard](https://twitter.com/mattybeard) (Data8) | @mattybeard
 -   [FreeAgent](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/FreeAgent) - [Nirmal](https://twitter.com/nirmal_kumar)|
-    [@Nirmal_kumar](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/797905)
+    @Nirmal_kumar
 -   [ITGlue](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/ITGlue) - [Nirmal](https://twitter.com/nirmal_kumar) |
-    [@Nirmal_kumar](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/797905)
+    @Nirmal_kumar
 -   [Jira
     Search](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/JiraSearch)- [Paul
     Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) |
@@ -666,7 +666,7 @@ These are the latest connectors: 
 -   [GoQR](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/GoQR) - [Rui
     Santos](https://www.linkedin.com/in/ruisantosnor/) (Microsoft)
 -   myStrom - [Tomasz Poszytek](https://twitter.com/TomaszPoszytek)|
-    [@TomaszPoszytek](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/335682)
+    @TomaszPoszytek
 -   Clearbit - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi
     Solutions) |
     [troystaylor](https://github.com/troystaylor)
@@ -844,11 +844,11 @@ You can find all Microsoft 365 related videos on our YouTube Channel at [http://
     Teams](https://www.youtube.com/watch?v=flAOtxvOyvY) - Ayca Bas
     (Microsoft)- [@aycabs](https://twitter.com/aycabs), [Lee
     Scott](https://twitter.com/lee_stott) (Microsoft) |
-    [@Lee](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1218535)\_stott,
+    @Lee\_stott,
     [Haimantika Mitra](https://twitter.com/HaimantikaM) (Microsoft) |
-    [@HaimantikaM](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1201804), [Someleze
+    @HaimantikaM, [Someleze
     Diko](https://twitter.com/DikoSomeleze) |
-    [@DikoSomeleze](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1128058), and Ansh
+    @DikoSomeleze, and Ansh
     Mishra
 -   Ask the Expert: Windows 11 Deployment -- Thomas Trembley
 -   [Understanding single sign-on (SSO) with Azure AD and Microsoft
@@ -870,11 +870,11 @@ Community demos as following: 
 -   [Create an event page in SharePoint with SharePoint Spaces and
     custom Lists](https://www.youtube.com/watch?v=p7eOuO5bDYo) - [Anand
     Ragav](https://twitter.com/anandVragav) (Ericsson) |
-    [@AnandVRagav](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1101372)
+    @AnandVRagav
 -   [Introduction to Microsoft Graph Go
     SDK](https://www.youtube.com/watch?v=eqI_etrnR9U) - [Vincent
     Biret](https://twitter.com/baywet) (Microsoft) |
-    [@baywet](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1028300) 
+    @baywet 
 -   Consume a multi-tenant API within Viva Connections Adaptive Card
     Extensions (ACEs) [Paolo
     Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
@@ -889,7 +889,7 @@ Community demos as following: 
 -   [Power Apps Christmas Calendar +
     Games](https://www.youtube.com/watch?v=Nt1qm19JBfs) - [Craig
     Gregory](https://twitter.com/crashlongjohns) |
-    [@CrashLongJohns](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1127338)
+    @CrashLongJohns
 -   [Microsoft Learn Module - Extend Microsoft Viva Connections with
     Application
     Customizers](https://www.youtube.com/watch?v=09a7v86RQRI) - [Waldek
@@ -901,7 +901,7 @@ Community demos as following: 
     (Microsoft)
 -   [Building custom Application Secrets Expiration Web
     Part](https://www.youtube.com/watch?v=RjOD7w1MOZ0) - [Aimery
-    Thomas](https://www.twitter.com/aimery_thomas) | [@aimery_thomas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/925977)
+    Thomas](https://www.twitter.com/aimery_thomas) | @aimery_thomas
 -   [Microsoft 365 instant
     sandbox](https://www.youtube.com/watch?v=e1iE1_L9NJw) - Michael
     Aldridge (Microsoft)
@@ -918,7 +918,7 @@ Community demos as following: 
 -   [Viva Connections -- Adaptive Card Showcase
     Gallery](https://www.youtube.com/watch?v=KjF3hO7pLN8) [Derek
     Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting)
-    | [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
+    | @Spdcp
 -   [Unit testing Office JavaScript with Office-Addin-Mock
     library](https://www.youtube.com/watch?v=GLn7PhzGuDQ) - Igor Ribeiro
     (Microsoft)
@@ -1429,7 +1429,7 @@ Thank you for all that you do!
 -   [David Warner II](https://twitter.com/DavidWarnerII) (Catapult)
     | @DavidWarnerII
 -   [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis
-    Consulting) | [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549)
+    Consulting) | @Spdcp
 -   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf
     Consulting) | @eliostruyf
 -   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis
@@ -1441,7 +1441,7 @@ Thank you for all that you do!
 -   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions)
     | @gautamdsheth
 -   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting)
-    | [@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388)
+    | @GSiVed
 -   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions)
     | [joaojmendes](https://github.com/joaojmendes)
 -   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm
@@ -1484,7 +1484,7 @@ Here are the Microsoft Internal PnP Core team members:
 -   [Hugo Bernier](https://twitter.com/bernierh) | @bernierh
 -   [Koen Zomers](https://twitter.com/koenzomers) | @koenzomers
 -   [Mikael Svenson](https://twitter.com/mikaelsvenson)
-    | [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173)
+    | @MikaelSvenson
 -   [Natalie
     Pienkowska](https://twitter.com/NataliePienkow1) | @NataliePienkow1
 -   [Patrick Rodgers](https://twitter.com/mediocrebowler)

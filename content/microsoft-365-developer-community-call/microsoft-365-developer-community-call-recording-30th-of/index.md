@@ -140,19 +140,19 @@ call.
 -   **[Extract Space content type Modern page as template and save to
     SharePoint](https://pnp.github.io/script-samples/spo-export-space-page-as-template-and-save-to-sharepoint/README.html?tabs=pnpps)
     --** [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw)
-    | [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
+    | @ValerasNarbutas
 -   **[Export SharePoint List Data to CSV with
     attachments](https://pnp.github.io/script-samples/spo-export-sharepoint-list-items-to-csv/README.html?tabs=pnpps)**
     -- [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) |
-    [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
+    @ValerasNarbutas
 -   **[Get, Update, Add, Remove SharePoint list items in large
     lists](https://pnp.github.io/script-samples/spo-list-items-large-lists/README.html?tabs=pnpps)** -
     [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) |
-    [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
+    @ValerasNarbutas
 -   **[Apply column format to SharePoint
     column](https://pnp.github.io/script-samples/spo-apply-column-format/README.html?tabs=pnpps)** -
     [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) |
-    [@ValerasNarbutas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/142422)
+    @ValerasNarbutas
 
 
 ### Together mode

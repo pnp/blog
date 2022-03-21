@@ -100,7 +100,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D3:**  Issues – [MGT Issus](https://github.com/microsoftgraph/microsoft-graph-toolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) | [aka.ms/mgt/issues](https://aka.ms/mgt/issues)
 *   **D3:**  Learn – [Develop apps with the Microsoft Graph Toolkit](https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa) | [https://aka.ms/mgt/learn](https://aka.ms/mgt/learn) 
 
-Previous demos in [Sébastien Levert](https://twitter.com/sebastienlevert)’s (Microsoft) | [@sebastienlevert](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/926766), Microsoft Graph Toolkit (MGT) series
+Previous demos in Sébastien Levert](<https://twitter.com/sebastienlevert)’s> (Microsoft) | [@sebastienlevert series
 
 *   [Discover the Microsoft Graph Toolkit](https://youtu.be/JkgFrbtwdJU?t=476) – 7 December 2021 
 *   [Microsoft Graph Toolkit – Using Login Component in your solutions](https://youtu.be/HfBVaeGRDw8?t=2375) – 14 December 2021 

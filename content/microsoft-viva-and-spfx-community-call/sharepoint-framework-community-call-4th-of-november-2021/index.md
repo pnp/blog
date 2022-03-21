@@ -143,7 +143,7 @@ Düsseldorf or in Las Vegas later this year.   
 -   **[Modern
     Calendar](https://github.com/pnp/sp-dev-fx-webparts/blob/master/samples/js-modern-calendar)**
     -- [Peter Paul
-    Kirschner](https://twitter.com/petkir_at) | [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
+    Kirschner](https://twitter.com/petkir_at) | @petkir\_at
 
 -   **Find Parker** -- [Adam
     Wojcik](https://twitter.com/Adam25858782) | @Adam25858782 
@@ -180,7 +180,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     @mediocrebowler -- [12:26](https://youtu.be/UbEI23buBtE?t=746)
 -   PnP Modern Search - [Mikael
     Svenson](https://twitter.com/mikaelsvenson) (Microsoft) |
-    [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173) -- [13:32](https://youtu.be/UbEI23buBtE?t=812)
+    @MikaelSvenson
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     @bernierh -- [14:00](https://youtu.be/UbEI23buBtE?t=840)
@@ -244,7 +244,7 @@ slides.
 -   **Microsoft 365 PnP Weekly -- Episode 140** (October 25th) with
     Sweden based MVP and Chief Technical Architect at Advania - [Simon
     Ågren](https://twitter.com/agrenpoint) |
-    [@AgrenPoint](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/271184). | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/ba-p/2881228) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-140-%e2%80%93-25th-of-october-2021/)
+    @AgrenPoint
 
 -   **Microsoft 365 PnP Weekly - Episode 141** (November 1st) with
     UK-based SharePoint developer and MVP at Storm Technology - [Joel

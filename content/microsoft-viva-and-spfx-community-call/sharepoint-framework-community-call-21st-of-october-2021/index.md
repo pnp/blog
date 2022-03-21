@@ -146,7 +146,7 @@ everybody.  See you again soon. 
     Daly](https://twitter.com/_tomdaly_) | @\_tomdaly\_
 
 -   **SharePoint News Star Ratings\* -** [Takashi
-    Shinohara](https://twitter.com/karamem0) | [@karamem0](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/229602)
+    Shinohara](https://twitter.com/karamem0) | @karamem0
 
 -   **React Groups -- Team Tab Support\* -** [Alison
     Collins](https://github.com/ReactIntern) | <https://github.com/ReactIntern>

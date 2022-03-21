@@ -149,7 +149,7 @@ everyone for your contributions to the community!
 -   [How to create custom site templates in
     SharePoint](https://www.youtube.com/watch?v=ENCBbgAa-6U) - [Giuliano
     De Luca](https://twitter.com/DeLucaGiulian) |
-    [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    @delucagiulian
 -   [How to use Microsoft Loop components early in Microsoft
     Teams](https://www.youtube.com/watch?v=xQGOovY79VE) - [Darrell
     Webster](https://twitter.com/DarrellaaS) (WM Reply) | @DarrellaaS

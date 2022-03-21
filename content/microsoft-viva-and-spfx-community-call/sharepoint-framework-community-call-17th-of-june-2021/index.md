@@ -133,7 +133,7 @@ the future!
 -   [**Follow
     Documents**](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-command-follow-document) -
     [André
-    Lage](https://twitter.com/aaclage) | [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)
+    Lage](https://twitter.com/aaclage) | @aaclage
 -    
 
 **SPFx web part samples:  (<https://aka.ms/spfx-webparts>)**
@@ -143,7 +143,7 @@ the future!
     [Dan Toft](https://twitter.com/tanddant) | @tanddant
 -   **[Carousel](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-carousel)** -
     [Giuliano De
-    Luca](https://twitter.com/delucagiulian) | [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    Luca](https://twitter.com/delucagiulian) | @delucagiulian
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   

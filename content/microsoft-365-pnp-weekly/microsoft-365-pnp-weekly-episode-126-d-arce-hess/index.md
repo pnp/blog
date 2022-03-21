@@ -74,11 +74,11 @@ everyone for your contributions to the community!
     CLI for Microsoft
     365](https://yhabersaat.ch/2021/05/02/upgrade-your-spfx-projects-to-v1-12-1-with-cli-for-microsoft-365/)
     - [Yves Habersaat](https://twitter.com/yhabersaat) (Sword Group)
-    | [@yhabersaat](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/957821)
+    | @yhabersaat
 -   [Adding custom formatting to all list
     views](https://www.donkirkham.com/blog/list-formatting/) - [Don
     Kirkham](https://twitter.com/DonKirkham) (GM Financial)
-    | [@DonKirkham](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/407309)
+    | @DonKirkham
 -   [Get Started with the New SharePoint App
     Bar](https://mattjimison.com/2021/04/30/get-started-with-the-new-sharepoint-app-bar/) -
     [Matt Jimison](https://twitter.com/mjimison) (DMI) | @mjimison
@@ -99,7 +99,7 @@ everyone for your contributions to the community!
     form](https://michelcarlo.com/2021/05/08/restrict-sharepoint-list-attachments-by-file-type/)
     - [Michel Mendes](https://twitter.com/michelcarlo) (Storm
     Technology)
-    | [@michelcarlo](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65753)
+    | @michelcarlo
 -   [Organization Chart web
     part](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-organization-chart)
     - [João Mendes](https://twitter.com/joaojmendes) (Storm Technology)
@@ -111,7 +111,7 @@ everyone for your contributions to the community!
     APIs\]](https://www.youtube.com/watch?v=6Q3mKio9rXs) - [Giuliano De
     Luca](https://twitter.com/DeLucaGiulian){.yt-simple-endpoint
     .style-scope
-    .yt-formatted-string} | [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    .yt-formatted-string} | @delucagiulian
 -   [Save Microsoft Forms Attachments to SharePoint with Power
     Automate](https://www.youtube.com/watch?v=Xb_k8vOERpU) - [April
     Dunnam](https://twitter.com/aprildunnam) (Microsoft)

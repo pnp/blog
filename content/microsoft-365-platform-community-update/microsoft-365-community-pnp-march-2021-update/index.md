@@ -818,7 +818,7 @@ last monthly summary:
 -   [Introduction to Power BI layout
     containers](https://www.youtube.com/watch?v=tGx_ZIydFds) - [Charles
     Sterling](https://twitter.com/chass) (Microsoft)
-    | [@Chas](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/166148)
+    | @Chas
 Community demos as following:
 -   [Streamline SPFx development in Microsoft Teams with easy debugging
     and reusable controls](https://www.youtube.com/watch?v=HSqlxROsJ8w)

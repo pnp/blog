@@ -39,7 +39,7 @@ Podcast](https://m365devpodcast.com) focused exclusively on Microsoft
 Ignite](https://ignite.microsoft.com/) (Digital event) -- November 2-4
 is now open.  The host of this call was [Brian T.
 Jackett](https://twitter.com/BrianTJackett) (Microsoft)
-*| *[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).   Q&A
+*| *@BrianTJackett.   Q&A
 takes place in chat throughout the call.
 
 **Microsoft 365 Platform News Flash**
@@ -134,7 +134,7 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
     Jackett](https://twitter.com/BrianTJackett) (Microsoft)
-    *| *[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556) -- [5:40](https://youtu.be/GF0hfnYCy8M?t=340)
+    *| *@BrianTJackett
 -   The M365 Ecosystem Security - ISV and Customer Surveys -- Gladys
     Kenfack (Microsoft) -- [8:53](https://youtu.be/GF0hfnYCy8M?t=533)
 -   **D1:**  Microsoft Teams Sample code showcase -- Wajeed Shaikh

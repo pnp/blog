@@ -141,7 +141,7 @@ everyone.   See you again soon!  
 -   **[Private Library/Folder
     Manager](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-private-libraries)** -
     [Russell
-    Gove](https://twitter.com/russgove) | [@russgove](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/670687)
+    Gove](https://twitter.com/russgove) | @russgove
 
 Thank you for your great work.  Samples are often showcased in Demos. 
   
@@ -173,7 +173,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
     Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) |
     @jfj1997 & [Derek Cash-Peterson](https://twitter.com/spdcp)
     (Sympraxis Consulting) |
-    [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549) [--][ [18:57](https://youtu.be/RwgpMcqLgrs?t=1137)]
+    @Spdcp]
 
 -   **Demo:**[  Building SharePoint Framework solutions with Microsoft
     Teams Toolkit v2 -- ][Vesa

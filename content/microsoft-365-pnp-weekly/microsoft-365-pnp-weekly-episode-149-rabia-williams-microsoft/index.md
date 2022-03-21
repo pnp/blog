@@ -60,7 +60,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     Graph
     SDKs](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-mailbag-using-largefileuploadtask-with-sdks/) -
     [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft)
-    | [@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556)
+    | @BrianTJackett
 -   [New Single Sign-on service for Office Add-ins rolling out in Office
     on the
     web](https://devblogs.microsoft.com/microsoft365dev/new-single-sign-on-service-for-office-add-ins-rolling-out-in-office-on-the-web/) -
@@ -102,17 +102,17 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     beginners](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/working-with-custom-connectors-in-power-platform-for-beginners/ba-p/3062538) -
     [Michael Roth](https://twitter.com/MichaelRoth42) (IT-P Information
     Technology-Partner GmbH)
-    | [@MichaelRoth42](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/514421)
+    | @MichaelRoth42
 -   [Working with APIs in Power Platform for
     beginners](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/working-with-apis-in-power-platform-for-beginners/ba-p/3062520)
     - [Michael Roth](https://twitter.com/MichaelRoth42) (IT-P
     Information Technology-Partner GmbH)
-    | [@MichaelRoth42](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/514421)
+    | @MichaelRoth42
 -   [PnP PowerShell/CSOM Now Works With SharePoint Sites.Selected
     Permission using Azure AD
     App](https://www.leonarmston.com/2022/01/pnp-powershell-csom-now-works-with-sharepoint-sites-selected-permission-using-azure-ad-app/) -
     [Leon Armston](https://twitter.com/LeonArmston) (Intelogy)
-    | [@LeonArmston](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/855621)
+    | @LeonArmston
 -   [Working with Apps for Microsoft Teams
     meetings](https://www.vrdmn.com/2022/01/working-with-apps-for-microsoft-teams.html) -
     [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions)

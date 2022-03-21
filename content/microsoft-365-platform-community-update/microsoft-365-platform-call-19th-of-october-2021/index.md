@@ -40,7 +40,7 @@ platform.   
     MVP and Head of Solutions at [Datalynx
     AG](https://www.datalynx.ch/en/) - [André
     Lage](https://twitter.com/aaclage) |
-    [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803) | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-139-%e2%80%93-18th-of-october-2021/)  
+    @aaclage  
     Microsoft 365 PnP Weekly is hosted by Vesa Juvonen and Waldek
     Mastykarz.  
 -   [Registration for Microsoft Ignite](https://ignite.microsoft.com)
@@ -51,7 +51,7 @@ platform.   
 
 The host of this call was [Brian T.
 Jackett](https://twitter.com/BrianTJackett) (Microsoft)
-*| *[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).  Q&A
+*| *@BrianTJackett.  Q&A
 takes place in chat throughout the call.   
 
 **Microsoft 365 Platform News Flash**

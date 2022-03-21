@@ -184,7 +184,7 @@ Thank you for your great work.  Samples are often showcased in Demos. 
 -   **Demo:**  Using OneDrive Apps folder to save user's preferences
     cross-device -- [**Giuliano De
     Luca**](https://twitter.com/DeLucaGiulian) **|**
-    [@delucagiulian](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1038317)
+    @delucagiulian
 
     [--][ [46:04](https://youtu.be/jJGkhttndU0?t=2764)]
 

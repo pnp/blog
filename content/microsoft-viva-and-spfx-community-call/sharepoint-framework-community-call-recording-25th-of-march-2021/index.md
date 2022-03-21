@@ -126,17 +126,17 @@ Communications and Quality improvements.     
     Nachan](https://twitter.com/NanddeepNachan) | [nanddeepn](https://github.com/nanddeepn),
     [Ravi Kulkarni](https://twitter.com/RaviKul16a87) | @RaviKul16a87,
     [Smita
-    Nachan](https://twitter.com/SmitaNachan) | [@SmitaNachan](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/899815)
+    Nachan](https://twitter.com/SmitaNachan) | @SmitaNachan
 -   **[Questions and
     Answers](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-questions-and-answers)** -
     [Bo George](https://twitter.com/bo_george) | @bo_george
 -   **[Calendar](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-calendar)** -
     [Peter Paul
-    Kirschner ](https://twitter.com/petkir_at)| [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
+    Kirschner ](https://twitter.com/petkir_at)| @petkir\_at
 -   **[Image
     Editor](https://github.com/pnp/sp-dev-fx-webparts/blob/master/samples/react-image-editor)** -
     [Peter Paul
-    Kirschner](https://twitter.com/petkir_at) | [@petkir](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1003898)\_at
+    Kirschner](https://twitter.com/petkir_at) | @petkir\_at
 -   **[Jump to
     Folder](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-jump-to-folder)** -
     [Joel
@@ -165,7 +165,7 @@ you for your great work.
     @mediocrebowler -- [13:15](https://youtu.be/K_aiG8RlBDU?t=795)
 -   PnP Modern Search - [Mikael
     Svenson](https://twitter.com/mikaelsvenson) (Microsoft) |
-    [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173) -- [14:19](https://youtu.be/K_aiG8RlBDU?t=859)
+    @MikaelSvenson
 -   PnP SPFx Samples - [Hugo
     Bernier](https://twitter.com/bernierh) (Tahoe Ninjas) |
     @bernierh -- [15:24](https://youtu.be/K_aiG8RlBDU?t=924)
@@ -175,11 +175,11 @@ you for your great work.
 -   **Building extension to save documents as PDF in tenant document
     libraries** -- [Mikael Svenson](https://twitter.com/mikaelsvenson)
     (Microsoft) |
-    [@MikaelSvenson](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/734173) -- [18:09](https://youtu.be/K_aiG8RlBDU?t=1089)
+    @MikaelSvenson
 -   **Sending messages to Microsoft Teams using Microsoft Graph from
     SharePoint Framework solution** -- [David
     Ramalho](https://twitter.com/DavRamalho) (Storm Technology) |
-    [@davRamalho](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/718524) -- [29:17](https://youtu.be/K_aiG8RlBDU?t=1757)
+    @davRamalho
 
 **Update: **
 

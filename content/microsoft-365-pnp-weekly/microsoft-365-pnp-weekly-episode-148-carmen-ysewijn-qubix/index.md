@@ -130,11 +130,11 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     present](https://www.blimped.nl/contributing-as-a-holiday-season-present/)
     - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU
     Business Solutions B.V.)
-    | [@martinlingstuyl](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/795423)
+    | @martinlingstuyl
 -   [Apply a DevOps process to your SPFx project (Part
     1)](https://michaelmaillot.github.io/articles/20220104-apply-devops-spfx-part1/)
     - [Michaël Maillot](https://twitter.com/michael_maillot) (onepoint)
-    | [@michael](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/43617)\_maillot
+    | @michael\_maillot
 -   [Export Microsoft Teams Chat Conversations using
     PowerShell](https://arjunumenon.com/export-microsoft-teams-chat-conversations-powershell/) -
     [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consultancy

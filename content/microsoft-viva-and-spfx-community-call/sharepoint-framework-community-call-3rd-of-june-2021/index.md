@@ -121,7 +121,7 @@ a custom card using the Dashboard web part and SPFx.
 -   **[OneDrive
     Finder](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-onedrive-finder)** -
     [André
-    Lage ](https://twitter.com/aaclage)| [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803)\
+    Lage ](https://twitter.com/aaclage)| @aaclage\
     \
 
 Thank you for your great work.  Samples are often showcased in Demos. 

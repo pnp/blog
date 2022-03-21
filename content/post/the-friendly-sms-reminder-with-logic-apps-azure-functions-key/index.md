@@ -453,7 +453,7 @@ over to the functions app and 
 
 -   Fill out the form as follows: 
     -   Name: **TWILIOSID**
-    -   Value: **[@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501).KeyVault(VaultName=myvault;SecretName=mysecret)**
+    -   Value: **@microsoft**
     -   Select **OK**
 -   Repeat for **TWILIOTOKEN**
 -   Don't forget to **Save\

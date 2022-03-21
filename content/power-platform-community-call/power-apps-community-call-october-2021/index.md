@@ -38,11 +38,11 @@ on demand. 
 
 -   PokéBubbles Game - [Michelle
     Wong](https://twitter.com/MichelleWongNL) |
-    [@MichelleWongNL](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/707040) --
+    @MichelleWongNL --
     [6:21](https://youtu.be/L_D-ppjeRoE?t=381)
 -   How to get Microsoft Certified in the Power Platform - [Sheryl
     Netley](https://twitter.com/SherylNetley)  |
-    [@SherylNetley](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/718554) & [Jese
+    @SherylNetley & [Jese
     Navaranjan](https://twitter.com/JeseNav2) (Avanade) | @JeseNav2 --
     [28:53](https://youtu.be/L_D-ppjeRoE?t=1733)
 -   Recent Power Apps News and Community Contributions -- [Charles

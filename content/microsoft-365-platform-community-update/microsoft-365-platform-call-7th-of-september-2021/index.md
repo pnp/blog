@@ -32,7 +32,7 @@ Podcast](https://m365devpodcast.com) focused  exclusively on Microsoft
 blog](https://aka.ms/m365dev/blog) for the latest news in last 7 days
 from Microsoft on Microsoft 365 platform.  The host of this call was
 [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) |
-[@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556).   Q&A takes
+@BrianTJackett.   Q&A takes
 place in chat throughout the call.
 
 **Microsoft 365 Platform News Flash**
@@ -112,13 +112,13 @@ Topics covered in this call
 
 -   Latest updates and news on the Microsoft 365 platform -- [Brian T.
     Jackett](https://twitter.com/BrianTJackett) (Microsoft) |
-    [@BrianTJackett](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/4556) --
+    @BrianTJackett --
     [4:05](https://youtu.be/gf00sxZvK5M?t=245)
 -   **Demo:**  Microsoft Graph Toolkit Latest Releases -- [Elise
     Yang](https://twitter.com/elisenyang) (Microsoft) |
-    [@elisenyang](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/803417), [André
+    @elisenyang, [André
     Lage](https://twitter.com/aaclage) (Datalynx AG) |
-    [@aaclage](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/861803) --
+    @aaclage --
     [6:20](https://youtu.be/gf00sxZvK5M?t=380)
 -   **Demo:**  Getting started with Microsoft Lists templates -- [Harini
     Saladi](https://twitter.com/HariniSaladi) (Microsoft) |
@@ -167,7 +167,7 @@ slides.
 
     @jthake and [Paul Schaeflein](https://twitter.com/paulschaeflein)
     (Addin365)
-    | [@paulschaeflein](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/113)
+    | @paulschaeflein
 
 ## General resources
 

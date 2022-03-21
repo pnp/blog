@@ -40,7 +40,7 @@ platform.   
 -   View or Cast the latest episode of PnP Weekly -- Episode 140
     (October 25th) with Sweden based MVP and Chief Technical Architect
     at Advania - [Simon Ågren](https://twitter.com/agrenpoint) |
-    [@AgrenPoint](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/271184). | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-140-simon-%C3%A5gren-advania/ba-p/2881228) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-140-%e2%80%93-25th-of-october-2021/)
+    @AgrenPoint
 -   [Registration for Microsoft Ignite](https://ignite.microsoft.com)
     (Digital event) and join the Ignite watch party.
 -   [Microsoft 365 Community (PnP) -- October 2021
