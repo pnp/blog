@@ -98,8 +98,8 @@ These videos and podcasts are published each week and are intended to be roughly
     2021](https://www.youtube.com/watch?v=Z83jXzRq6iU) - [Rob
     Pearmain](https://twitter.com/robertpearmain) (yorcloud) |
     @robertpearmain
--   [SharePoint's 20th birthday
-    party](https://www.sharepointbirthday.com/) -- European
+-   SharePoint's 20th birthday
+    party -- European
     Collaboration Summit  
 
 ## Additional resources

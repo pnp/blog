@@ -81,10 +81,6 @@ everyone for your contributions to the community!
     2021](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-november/ba-p/3034710) -
     [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft)
     | @vesajuvonen
--   [Microsoft Process Advisor 1 Minute Intro
-    #shorts](https://www.youtube.com/watch?v=ANvZcOXFm7w) - [April
-    Dunnam](https://twitter.com/aprildunnam) (Microsoft)
-    | @aprildunnam
 
 
 ## Community articles
