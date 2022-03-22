@@ -54,6 +54,7 @@
           {{ range site.Menus.footer }}
           <li class="list-inline-item"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
           {{ end }}
+          <li class="list-inline-item">{{ partial "page-edit.html" . }}</li>
         </ul>
       </div>
       <div class="col-md-2 text-center mb-4">
