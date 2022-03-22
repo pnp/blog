@@ -114,7 +114,7 @@ Leave this tab open and let's go and define our custom connector.
 ## Defining The Custom Connector 
 
 Jan Bakker has done an excellent job of walking you through
-this, [Build a custom connector](https://powerusers.microsoft.com/t5/Power-Automate-Community-Blog/Build-a-custom-connector-for-Microsoft-Graph-API/ba-p/647492).
+this, [Build a custom connector](https://powerusers.microsoft.com/t5/Power-Automate-blog/Build-a-custom-connector-for-Microsoft-Graph-API/ba-p/647492).
 His article goes into a lot of detail, so I will just take you through
 what is needed for this project.
 In make.powerapps.com, select the appropriate environment and chose

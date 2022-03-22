@@ -111,7 +111,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
     Young)]
 
 -   [Blog - ][Tooltips, not just a boring
-    description](https://powerusers.microsoft.com/t5/Power-Apps-Community-Blog/Tooltips-not-just-a-boring-description/ba-p/1213901)
+    description](https://powerusers.microsoft.com/t5/Power-Apps-blog/Tooltips-not-just-a-boring-description/ba-p/1213901)
 
 -   [Demo - ][Visual Holiday Calendar
     Demo](https://youtu.be/NKNCsq3iF8I)

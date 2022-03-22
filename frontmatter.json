@@ -56,6 +56,6 @@
     "{{< image alt=\"{alt}\" src=\"{mediaUrl}\"  >}}"
   ],
   "frontMatter.framework.startCommand": "hugo server -D",
-  "frontMatter.preview.host": "http://localhost:1313/community-blog/",
+  "frontMatter.preview.host": "http://localhost:1313/blog/",
   "frontMatter.taxonomy.seoDescriptionField": "summary"
 }

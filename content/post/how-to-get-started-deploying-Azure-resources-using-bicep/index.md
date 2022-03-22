@@ -11,8 +11,6 @@ tags: ["Azure"]
 type: "regular"
 ---
 
-![Dragon](images/dragon.jpg)
-
 ## tl;dr - why would I care?
 
 > Bicep is an awesome language to deploy Azure resources using a simple syntax but with some awesome features like for-loops, modules and being able to share deployment files in your organization.

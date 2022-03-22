@@ -28,17 +28,17 @@ We love to have your contributions! To author a blog post, follow these steps:
 
 5.  Fork this repository to create a copy in your GitHub account:
 
-    * Open [pnp/community-blog/](https://github.com/pnp/community-blog/) (this repository)
-    * Select **Fork** --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/community-blog/`
+    * Open [pnp/blog/](https://github.com/pnp/blog/) (this repository)
+    * Select **Fork** --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/blog/`
 
 6. Clone the repository
 
 Now you want to clone the repository so you have it locally available:
 
-![fork repository](community-blog/assets/GitHub-forkclone.png)
+![fork repository](blog/assets/GitHub-forkclone.png)
 
 * Select **Code**
-* Copy the URL (it is `https://github.com/<YOUR GITHUB ACCOUNT>/community-blog.git`)
+* Copy the URL (it is `https://github.com/<YOUR GITHUB ACCOUNT>/blog.git`)
 * Open the terminal in VS Code
 * Navigate to a directory where you want to clone the repository
 * Type `git clone <COPIED URL HERE>`
@@ -47,28 +47,28 @@ Now you want to clone the repository so you have it locally available:
 
 You will now want to make sure, that all your contributions point to the original repository, which is why you want to add an upstream to it:
 
-* Navigate to the folder where your cloned repository is located with `cd community-blog`
-* type `git remote add upstream https://github.com/pnp/community-blog` (this needs to be the original repository URL)
+* Navigate to the folder where your cloned repository is located with `cd blog`
+* type `git remote add upstream https://github.com/pnp/blog` (this needs to be the original repository URL)
 * to check if everything works correctly, type `git remote -v`, you should see this output:
 
 ```powershell
-origin  https://github.com/<YOUR ACCOUNT HERE>/community-blog.git (fetch)
-origin  https://github.com/<YOUR ACCOUNT HERE>/community-blog.git (push)
-upstream https://github.com/pnp/community-blog (fetch)
-upstream https://github.com/pnp/community-blog (push)
+origin  https://github.com/<YOUR ACCOUNT HERE>/blog.git (fetch)
+origin  https://github.com/<YOUR ACCOUNT HERE>/blog.git (push)
+upstream https://github.com/pnp/blog (fetch)
+upstream https://github.com/pnp/blog (push)
 ```
 
 8. Write your blog post
 
 * type `code .` in VSCode terminal (yes, there is a space (` `) between `code` and the `.`) to open your project in a new VS Code instance
-* in the **community-blog/content/posts** folder, create your post as an `.md` file.
+* in the **blog/content/posts** folder, create your post as an `.md` file.
 * create a new folder in the **assets/images/blog** folder that matches the name of your `.md` file
 * upload all images for your article in this folder
 * in case you need some help on how markdown works, please see this article:
   
 [What's up with markdown?](content/post\what-s-up-with-markdown.md)
 
-We also put together some information about markdown and how to use it in our [Wiki](https://github.com/pnp/community-blog/wiki/Microsoft-365-Community-Blog-Markdown-reference)
+We also put together some information about markdown and how to use it in our [Wiki](https://github.com/pnp/blog/wiki/Microsoft-365-blog-Markdown-reference)
 
 9. Commit and push your changes to your fork
 
@@ -82,16 +82,16 @@ Whenever you want to upload your changes to your remote fork:
 
 You will now want to (kindly) ask the repository maintainers to pull in your changes. You do that with a pull request:
 
-* Open [pnp/community-blog](https://github.com/pnp/community-blog) (this repository)
+* Open [pnp/blog](https://github.com/pnp/blog) (this repository)
 * Select **Pull requests**
 * Select **New pull request**
 
-![create pull request](community-blog/assets/GitHub-newPR.png)
+![create pull request](blog/assets/GitHub-newPR.png)
 
 * Select **compare across forks**
 * Select your fork from the **head repository**
 
-![compare changes](community-blog/assets/GitHub-createPR.png)
+![compare changes](blog/assets/GitHub-createPR.png)
 
 * Select **Compare & pull request**
 
@@ -103,7 +103,7 @@ You will now want to (kindly) ask the repository maintainers to pull in your cha
 * Select **Create pull request**
 * If needed, you can commit more files and changes
 
-A maintainer will review your pull request and merge your changes soon so that your blog appears on the [Microsoft 365 Community blog](https://pnp.github.io/community-blog/).
+A maintainer will review your pull request and merge your changes soon so that your blog appears on the [Microsoft 365 Community blog](https://pnp.github.io/blog/).
 
 This repository is maintained by volunteers in their free time, please be kind. Everyone is doing their best to keep things moving forward.
 
