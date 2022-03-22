@@ -220,7 +220,7 @@ slides.
 ## General resources
 
 -   Controls -  [Designing your Microsoft Teams
-    app](https://pnp.github.io/community-blog/microsoft-teams-community-call/microsoft-teams-community-call-may-2021) | <https://aka.ms/teams/ui/design>
+    app](https://pnp.github.io/blog/microsoft-teams-community-call/microsoft-teams-community-call-may-2021) | <https://aka.ms/teams/ui/design>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   Microsoft Learn - [Microsoft Teams development Learning
     Paths](https://docs.microsoft.com/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)

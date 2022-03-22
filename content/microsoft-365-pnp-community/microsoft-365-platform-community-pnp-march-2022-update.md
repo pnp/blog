@@ -209,7 +209,7 @@ We welcome all community members to get involved on the community and open-sourc
     * [Tetsuya Kawahara](https://twitter.com/techan_k)  | @techan_k, 
     * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg
 
-* [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](https://pnp.github.io/community-blog/post/new-microsoft-365-patterns-and-practices-pnp-team-members-may) 
+* [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](https://pnp.github.io/blog/post/new-microsoft-365-patterns-and-practices-pnp-team-members-may) 
     * [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo),
     * [Patrick Lamber](https://github.com/plamber) (Experts Inside AG)
 * [New Microsoft 365 Patterns and Practices (PnP) team members - February 2021](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/) 

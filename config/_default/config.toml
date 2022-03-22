@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://pnp.github.io/community-blog"
+baseURL = "https://pnp.github.io/blog"
 title = "Microsoft 365 Community Blog"
 theme = "reader-hugo"
 # post pagination
