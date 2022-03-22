@@ -33,7 +33,7 @@ jobs:
           files: content/**/*.md
           config_file: ".markdownlint.json"
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v1.3.2
+        uses: lycheeverse/lychee-action@master
         with:
           fail: true
           args: --no-progress './content/**/*.md' --accept 200,201,403,429,401 --exclude-file ./.lychee/.lycheeignore

@@ -17,7 +17,6 @@ jobs:
         uses: lycheeverse/lychee-action@master
         with:
           args: --no-progress './content/**/*.md' --accept 200,201,403,429,401 --exclude-file ./.lychee/.lycheeignore
-          output: ./.lychee/out.md
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 # Skipping issue creation until issue file is created
