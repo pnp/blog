@@ -6,7 +6,7 @@ githubname: davidchesnut
 categories: ["Office add-in developer community call"]
 images:
 - images/office-add-ins-Thumb Mar 2022.png
-tags: ["Add-ins","Microsoft 365","Office 365"]
+tags: ["Office Add-ins","Microsoft 365","Office 365"]
 type: "regular"
 ---
 

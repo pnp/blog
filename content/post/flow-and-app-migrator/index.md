@@ -6,7 +6,7 @@ githubname: zerg00s
 categories: ["Community post"]
 images:
 - images/flow-migrator.jpg
-tags: ["Power Apps", "Power Automate", "Flow", "SharePoint", "DataVerse"]
+tags: ["Power Apps", "Power Automate",  "SharePoint", "DataVerse"]
 type: "regular"
 ---
 

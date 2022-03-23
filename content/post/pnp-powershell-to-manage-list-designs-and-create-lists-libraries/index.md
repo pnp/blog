@@ -6,7 +6,7 @@ githubname: "reshmee011"
 categories: ["Community post"]
 images:
 - images/reshmeeauckloo_3-1646365567131.png
-tags: ["PnP PowerShell", "List Designs", "List Templates"]
+tags: ["PnP PowerShell"]
 type: "regular"
 ---
 

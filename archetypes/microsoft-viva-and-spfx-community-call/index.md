@@ -9,7 +9,7 @@ categories: ["Microsoft Viva and SPFx community call"]
 # To use, add an image named `thumbnail.jpg/png` to your page's images folder. Make sure to replace the placeholder image
 images:
 - images/thumbnail.png
-tags: ["Adaptive Cards", "Add-ins", "extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework", "Viva Connections"]
+tags: ["Adaptive Cards", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 # Videos lists the video on the page for social media
 # TIP: Search and replace INSERT-VIDEO-CODE-HERE with the youtube code to update this page quickly
 videos:

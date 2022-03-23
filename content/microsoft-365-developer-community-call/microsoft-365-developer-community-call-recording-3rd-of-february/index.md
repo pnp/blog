@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/recording-3rd-feb.png
-tags: ["Add-ins", "extensions","Microsoft 365", "Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework"]
+tags: ["Office Add-ins", "Extensions","Microsoft 365", "Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
 type: "regular"
 summary: "One location the Microsoft 365 tenant – script samples gallery (136 scenarios and 187 scripts) including recently added Teams PowerShell support!  Sign up and attend an AMA and other events this month hosted by Sharing is Caring.  Get the recognition you deserve, sign up for the PnP Recognition Program.  Heads down on PnP projects.  Expecting to ship Microsoft Graph Toolkit v2.3.2 on Friday!  To see current releases and latest updates/nightly builds, access the Repos via the links in table below.  There were 5 new/updated script, 5 Power Platform samples delivered this week."
 videos:

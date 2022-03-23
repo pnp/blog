@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/Thumb-Ep152-February7.png
-tags: ["extensions","Microsoft 365", "Office 365","SharePoint","SharePoint Framework"]
+tags: ["Extensions","Microsoft 365", "SharePoint","SharePoint Framework (SPFx)"]
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, Hugo Bernier (Microsoft)."
 videos:

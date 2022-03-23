@@ -7,7 +7,7 @@ githubname: "tposzytek"
 categories: []
 images:
 - images/image.png
-tags: ["Adaptive Cards", "Templating language"]
+tags: ["Adaptive Cards", ]
 type: "regular"
 ---
 

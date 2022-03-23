@@ -6,7 +6,7 @@ githubname: siddharth-vaghasia
 categories: []
 images:
 - images/img_61d08358e702f.png
-tags: ["MGT", "Microsoft Graph Toolkit", "graph toolkit", "Teams App", "Teams Tabs"]
+tags: ["Microsoft Graph Toolkit", "Microsoft Teams"]
 type: "regular"
 summary: "In this article, we will learn about Graph Toolkit and how to integrate Graph toolkit in Teams App."
 ---

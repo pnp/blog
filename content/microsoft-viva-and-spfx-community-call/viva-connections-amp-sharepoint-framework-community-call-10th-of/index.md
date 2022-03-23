@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-10th-march.png
-tags: ["ACEs", "Add-ins", "extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework", "Viva Connections"]
+tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Latest news from Microsoft engineering on Microsoft 365 topics; Three demos: Siddharth Vaghasia -- My Emails Viva Connections Adaptive Card Extension, Yves Habersaat -- Getting started with Microsoft Graph Toolkit and SharePoint Framework, Paolo Pialorsi -- Using Microsoft Graph APIs in Viva Connection ACEs"
 videos:

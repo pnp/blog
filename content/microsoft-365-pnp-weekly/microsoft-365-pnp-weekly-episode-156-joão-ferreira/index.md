@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/Thumb-Ep156-March1.png
-tags: ["Add-ins", "extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework"]
+tags: ["Office Add-ins", "Extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Portugal based, technologist, author, MVP Office Dev and Windows Insider, João Ferreira (Beezy)."
 videos:

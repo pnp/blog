@@ -7,7 +7,7 @@ githubname: "arjunumenon"
 categories: []
 images:
 - images/banner-cli-m365.png
-tags: ["Azure AD","CLI for Microsoft 365", "Microsoft 365 Apps","SharePoint Framework","SharePoint online", "SPFx"]
+tags: ["Azure AD","CLI for Microsoft 365","SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
