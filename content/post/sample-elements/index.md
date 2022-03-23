@@ -1,7 +1,7 @@
 ---
 title: "Sample Elements"
 summary: "Don't delete this article, it is only visible in draft mode"
-date: 2022-03-15T05:30:00-05:00
+date: 2022-03-23T02:00:00-05:00
 author: "Hugo Bernier"
 githubname: "hugoabernier"
 categories: ["Community post"]
@@ -12,6 +12,7 @@ images:
 - images/AdaptiveCardJSON.png
 ---
 
+<!-- This is a text for Andrew. -->
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
@@ -151,8 +152,8 @@ Make sure to mark the language using the [supported list of languages](https://g
 #### Ordered List
 
 1. First item
-2. Second item
-3. Third item
+1. Second item
+1. Third item
 
 #### Unordered List
 
@@ -163,12 +164,12 @@ Make sure to mark the language using the [supported list of languages](https://g
 #### Nested list
 
 * Fruit
-    * Apple
-    * Orange
-    * Banana
+  * Apple
+  * Orange
+  * Banana
 * Dairy
-    * Milk
-    * Cheese
+  * Milk
+  * Cheese
 
 ## Other Elements — abbr, sub, sup, kbd, mark
 
@@ -192,7 +193,6 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and ot
 
 <br>
 
----
 
 ## Twitter Simple Shortcode
 
