@@ -7,7 +7,7 @@ githubname: JeanRoca
 categories: ["Adaptive Cards community call"]
 images:
 - images/adaptive-cards-February Thumb.png
-tags: ["Adaptive Cards", "Community Call","Extensions", "Microsoft 365"]
+tags: ["Adaptive Cards", "Community Call", "Microsoft 365"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=-Y7_nNwC20w
