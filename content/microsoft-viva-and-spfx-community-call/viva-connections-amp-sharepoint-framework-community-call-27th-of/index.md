@@ -7,7 +7,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-27th-jan.png
-tags: ["Adaptive Cards", "Add-ins", "extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework", "Viva Connections"]
+tags: ["Adaptive Cards", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=WkFVkFKPDMc

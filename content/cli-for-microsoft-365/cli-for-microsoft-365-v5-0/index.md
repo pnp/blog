@@ -6,7 +6,7 @@ githubname: waldekmastykarz
 categories: ["CLI for Microsoft 365"]
 images:
 - images/banner-cli-m365.png 
-tags: ["CLI for Microsoft 365","Microsoft 365 development","SharePoint", "SharePoint Development", "SharePoint Framework"]
+tags: ["CLI for Microsoft 365","SharePoint", "SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 

@@ -6,7 +6,7 @@ githubname: Adam-it
 categories: []
 images:
 - images/flowTitle.png
-tags: ["Power Automate", "SPFx"]
+tags: ["Power Automate", "SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 

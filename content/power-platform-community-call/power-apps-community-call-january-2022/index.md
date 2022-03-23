@@ -6,7 +6,7 @@ githubname: Tbag
 categories: ["Power Apps community call"]
 images:
 - images/PowerApps Thumb January 2022.png
-tags: ["Developer", "extensions", "Microsoft 365", "Power Apps", "SharePoint"]
+tags: [ "Extensions", "Microsoft 365", "Power Apps", "SharePoint"]
 type: "regular"
 summary: "Topics covered in this month’s community call includes 2 demos:  Power Audio Player (Canvas app, modified audio control functionality, SharePoint list back-end) - Shadrack Inusah (DreamOval) and New Pay as you go Features (Public Preview -  Power Apps Premium environments with Azure subscription) - Kavishi Agarwal (Microsoft),  Recent Power Apps News and Community Contributions (Power Platform ALM Accelerator, Power Apps portals and Power Apps Ideas) – Todd Baginski (Canviz) and learn about 5 new PnP Power Apps Samples – April Dunnam (Microsoft).  This call included the first ever Power Apps Community Call Quiz – using a Power App and played during the live call.   This call was hosted by Todd Baginski (Canviz). The call was recorded on January 19, 2022.  Questions addressed in chat throughout the call."
 ---

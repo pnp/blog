@@ -7,7 +7,7 @@ githubname: JeanRoca
 categories: ["Adaptive Cards community call"]
 images:
 - images/adaptive-cards-January Thumb.png
-tags: ["Adaptive Cards", "Developer","Microsoft 365", "Power Automate"]
+tags: ["Adaptive Cards", "Microsoft 365", "Power Automate"]
 type: "regular"
 ---
 
