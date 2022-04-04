@@ -15,7 +15,9 @@ type: "regular"
 The FAQ Web Part is not only for questions and answers — it can be used for any content that lends itself to expanding/collapsing functionality, such as keywords and definitions or expanding on short phrases.
 
 In my latest community sample, I built an SPFx web part to provide an ability to display FAQs as Accordion or Tab. 
+
 Here is how it looks: 
+
 {{< image alt="FAQ Web Part" src="images/FAQWebPart.png" >}}
 
 In this article, I will share details on how to configure the FAQ webpart.
