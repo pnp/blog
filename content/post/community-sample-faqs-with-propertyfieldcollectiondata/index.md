@@ -14,8 +14,7 @@ type: "regular"
 
 The FAQ Web Part is not only for questions and answers — it can be used for any content that lends itself to expanding/collapsing functionality, such as keywords and definitions or expanding on short phrases.
 
-In my latest community sample, I built an SPFx web part to provide an ability to display FAQs as Accordion or Tab. Here is how it looks:
- 
+In my latest community sample, I built an SPFx web part to provide an ability to display FAQs as Accordion or Tab. Here is how it looks: 
 {{< image alt="FAQ Web Part" src="images/FAQWebPart.png" >}}
 
 In this article, I will share details on how to configure the FAQ webpart.
@@ -26,8 +25,7 @@ Below is the default screen of the FAQ webpart, when added to a SharePoint Onlin
 
 FAQ webpart uses PropertyFieldCollectionData which provides page Content Editors the ability to manage the content of the web part within the web part properties. 
  
-Below is the data source:
-{{< image alt="Data Source List" src="images/2021-05-10 19_32_40-Window.png" >}}
+
  
 You can find the full source code and how to install
 it [react-faqs](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs).
