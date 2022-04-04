@@ -10,7 +10,7 @@ tags: []
 type: "regular"
 ---
 
-​​Frequently ​Asked Questions (FAQ) is a useful addition to pages where you need to display common requests. The FAQ Web Part can be added to a page as a straight list of questions and answers or a series of grouped questions and answers when the need for a more organized approach is required.
+Frequently Asked Questions (FAQ) is a useful addition to pages where you need to display common requests. The FAQ Web Part can be added to a page as a straight list of questions and answers or a series of grouped questions and answers when the need for a more organized approach is required.
 
 The FAQ Web Part is not only for questions and answers — it can be used for any content that lends itself to expanding/collapsing functionality, such as keywords and definitions or expanding on short phrases.
 
@@ -30,7 +30,7 @@ FAQ webpart uses PropertyFieldCollectionData which provides page Content Editors
 
 Let's see how to manage the FAQ webpart
  
-# Changing Title of the web part
+## Changing Title of the web part
 Below are the steps to update the Title of the FAQ Web part 
 
 1. Edit the webpart. 
@@ -40,29 +40,29 @@ Check below image for more details.
 
 {{< image alt="Change Title" src="images/Updating Title.gif" >}}
 
-# Adding/Updating Categories
+## Adding/Updating Categories
 Below are the steps to update the Add/Update Categories of the FAQ Web part 
 
 1. Edit the webpart.
-1. Click on "Configure Categories" in the web part properties.
+1. Select "Configure Categories" in the web part properties.
 1. Property pane is open providing ability to add/update categories. 
 
 Check below image for more details. 
 
 {{< image alt="Updating Categories" src="images/Updating Categories.gif" >}}
 
-# Adding/Updating FAQs
+## Adding/Updating FAQs
 Below are the steps to update the Add/Update FAQs of the FAQ Web part 
 
 1. Edit the webpart.
-1. Click on "Configure Faqs" in the web part properties.
+1. Select "Configure Faqs" in the web part properties.
 1. Property pane is open providing ability to add/update faqs. 
 
 Check below image for more details. 
 
 {{< image alt="Updating Faqs" src="images/Updating FAQs.gif" >}}
 
-# Search FAQs
+## Search FAQs
 Below are the steps to update the Add/Update FAQs of the FAQ Web part 
 
 1. Enter the search text in the search box.
@@ -72,7 +72,7 @@ Check below image for more details.
 
 {{< image alt="Search Faqs" src="images/search faq.gif" >}}
 
-# Type Options
+## Type Options
 FAQ webpart has the ability to display the FAQS as an Accordion or Tab. Below are the steps to change the display type of the FAQ Web part 
 
 1. Edit the web part. Enter the search text in the search box.
@@ -90,15 +90,14 @@ Check below image to see how to change the type from Tab to Accordion
 
 {{< image alt="Change Type Tab to Accordion" src="images/Change type from Tab to Accordion.gif" >}}
 
-# Changing the Sort Order for FAQs
+## Changing the Sort Order for FAQs
 FAQ webpart uses the sorting option provided with PropertyFieldCollection Data. 
 
 Check below image for details on how to change the Sort order. 
 
 {{< image alt="Changing the sort order" src="images/Changing the sort order.gif" >}}
 
-
-# Source Code
+## Source Code
 You can find the full source code and how to install
 it [react-faqs](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs).
  
