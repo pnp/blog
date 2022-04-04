@@ -27,9 +27,20 @@ Below is the default screen of the FAQ webpart, when added to a SharePoint Onlin
 {{< image alt="FAQ Web Part" src="images/Default Screen.png" >}}
 
 FAQ webpart uses PropertyFieldCollectionData which provides page Content Editors the ability to manage the content of the web part within the web part properties. 
- 
 
+Let's see how to manage the FAQ webpart
  
+# Changing Title of the web part
+Below are the steps to update the Title of the FAQ Web part 
+
+1. Edit the webpart 
+2. Select the default text and start typing the text needed as Title for the web part
+
+Check below image for more details. 
+
+{{< image alt="FAQ Web Part" src="images/Updating Title.gif" >}}
+
+
 You can find the full source code and how to install
 it [react-faqs](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs).
  
