@@ -98,7 +98,7 @@ Check below image for details on how to change the Sort order.
 {{< image alt="Changing the sort order" src="images/Changing the sort order.gif" >}}
 
 
-
+# Source Code
 You can find the full source code and how to install
 it [react-faqs](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs).
  
