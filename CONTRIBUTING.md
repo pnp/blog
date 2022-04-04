@@ -61,8 +61,9 @@ upstream https://github.com/pnp/blog (push)
 8. Write your blog post
 
 * type `code .` in VSCode terminal (yes, there is a space (` `) between `code` and the `.`) to open your project in a new VS Code instance
-* in the **blog/content/posts** folder, create your post as an `.md` file.
-* create a new folder in the **assets/images/blog** folder that matches the name of your `.md` file
+* in the **blog/content/posts** folder, create your own folder (you may use the title of your post as the name of the folder, use `-` instead of ` `)
+* in the newly created folder add an `index.md` file with your post.
+* create a new folder **images** in your posts folder. In the images folder you may save any image/graphic which may be used in your article
 * upload all images for your article in this folder
 * in case you need some help on how markdown works, please see this article:
   
