@@ -34,7 +34,7 @@ Let's see how to manage the FAQ webpart
 Below are the steps to update the Title of the FAQ Web part 
 
 1. Edit the webpart 
-2. Select the default text and start typing the text needed as Title for the web part
+1. Select the default text and start typing the text needed as Title for the web part
 
 Check below image for more details. 
 
