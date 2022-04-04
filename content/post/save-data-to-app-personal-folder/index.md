@@ -14,8 +14,8 @@ summary: ""
 categories: ["Community post"]
 tags: []
 type: "regular" # available type (epic, trending, popular, or regular)
-
 ---
+
 ## What's it all about?
 
 So you have this really cool idea for an Spfx solution, you have the workspace ready, you added all needed dependencies, already made you mind up on the whether it's gonna be react or angular or other, and your just about to write that first line of code when suddenly: 
@@ -47,46 +47,58 @@ endpoint for all that? Ye, it creates a folder for you app automagically - I mea
 Lets start with a bit of experimenting to try it out in the [graph explorer](https://developer.microsoft.com/en-us/graph/graph-explorer) (If you haven't used it before, the graph explorer is a perfect place to test out different MS Graph API requests and also, after login, you may do it in the context of your tenant, which is really cool). 
 
 Ok so lets run a simple GET request
+
 ```
 https://graph.microsoft.com/v1.0/me/drive/special/approot
 ``` 
+
 And see what happens. 
 
 {{< image alt="requestToAppRoot.png" src="images/requestToAppRoot.png" >}}
 
 Ok success, that's nice, but what actually happened. In the response we will see a 'webUrl' param where we may see the 
+
 ```
 me/drive/special/approot
 ```
+
 was resolved as
+
 ```
 "webUrl": "https://{YOURTENANTHERE}-my.sharepoint.com/personal/{YOURLOGINHERE}_onmicrosoft_com/Documents/Apps/Graph%20Explorer"
 ```
+
 And if we go there we see
 
 {{< image alt="oneDriveFolders.png" src="images/oneDriveFolders.png" >}}
 
-… hey… a new folder in my personal OneDrive, now that’s nice. In the response we may also find that the folder was created by 'Graph Explorer' app and currently 'childcount' is zero.
+… hey… a new folder in my personal OneDrive, now that’s nice. In the response we may also find that the folder was created by 'Graph Explorer' app and currently `childcount` is zero.
 Ok so that's pretty sweet. With this single request I have a personal folder created for me in the user OneDrive. Isn't it a perfect place to save user defined data? 
  
 Ok so lets see how to do that.
 In order to add a new .json file with some data we need to run a PUT request
+
 ```
 https://graph.microsoft.com/v1.0/me/drive/special/approot:/{YOURFILENAMEHERE}.json:/content
 ```
+
 and in the request body we need to provide some JSON structure string like
+
 ```
 {"data":"test"}
 ```
+
 As a result we see a new file added to the catalog with your json object. Also we may use the same request to update the data and since it is JSON we may change the data schema how we want quite dynamically. Adding new properties becomes easy.
 
 {{< image alt="putRequest.png" src="images/putRequest.png" >}}
  
 Ok so now lets see how to get our saved data. For this we need another GET request:
+
 ```
 https://graph.microsoft.com/v1.0/me/drive/special/approot:/{YOURFILENAMEHERE}.json
 ```
-In the response section you should see '@microsoft.graph.downloadUrl' property. 
+
+In the response section you should see `@microsoft.graph.downloadUrl` property. 
 
 {{< image alt="getData.png" src="images/getData.png" >}}
 
@@ -94,7 +106,7 @@ Click on that link and see what happens
 
 {{< image alt="downloadFile.png" src="images/downloadFile.png" >}}
 
-… ye our JSON file is downloaded. In the app we may use this approach to get the '.text()' from the response and parse the JSON object back to our model. So in general in our app we will actually need two steps (two requests) to retrieve the data.
+… ye our JSON file is downloaded. In the app we may use this approach to get the `.text()` from the response and parse the JSON object back to our model. So in general in our app we will actually need two steps (two requests) to retrieve the data.
  
 There you have it. With a couple of simple requests I was able to create a folder for may data, save it as a .json file in the user OneDrive apps personal folder, and finally get the data back. If only there was some ready to use Spfx sample with some kind of library abstraction that does all that with simple *saveData()*, *getData()* methods, right? Well lucky for you, not that long ago I added a new sample in the *'pnp/sp-dev-fx-webparts'* repo with and Spfx library component that does all this logic for you and a simple webpart which just uses the methods get/save our json object. If you are interested take a look at [react-save-to-onedrive-app-personal-folder sample](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-save-to-onedrive-app-personal-folder).
 
