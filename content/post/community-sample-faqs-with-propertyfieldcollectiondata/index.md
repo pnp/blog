@@ -24,7 +24,7 @@ In this article, I will share details on how to configure the FAQ webpart.
 
 Below is the default screen of the FAQ webpart, when added to a SharePoint Online page. 
 
-![Default Screen ](images/Default-Screen.png)
+![Default Screen ](images/Default-Screen.PNG)
 
 FAQ webpart uses PropertyFieldCollectionData which provides page Content Editors the ability to manage the content of the web part within the web part properties. 
 
@@ -38,7 +38,7 @@ Below are the steps to update the Title of the FAQ Web part
 
 Check below image for more details. 
 
-![Change Title ](images/Updating-Title.png)
+![Change Title ](images/Updating-Title.gif)
 
 ## Adding/Updating Categories
 Below are the steps to update the Add/Update Categories of the FAQ Web part 
@@ -49,7 +49,7 @@ Below are the steps to update the Add/Update Categories of the FAQ Web part
 
 Check below image for more details. 
 
-![Change Title ](images/Updating-Categories.png)
+![Change Title ](images/Updating-Categories.gif)
 
 ## Adding/Updating FAQs
 Below are the steps to update the Add/Update FAQs of the FAQ Web part 
@@ -60,7 +60,7 @@ Below are the steps to update the Add/Update FAQs of the FAQ Web part
 
 Check below image for more details. 
 
-![Updating Faqs ](images/Updating-FAQs.png)
+![Updating Faqs ](images/Updating-FAQs.gif)
 
 ## Search FAQs
 Below are the steps to update the Add/Update FAQs of the FAQ Web part 
@@ -70,7 +70,7 @@ Below are the steps to update the Add/Update FAQs of the FAQ Web part
 
 Check below image for more details. 
 
-![search faq ](images/search-faq.png)
+![search faq ](images/search-faq.gif)
 
 ## Type Options
 FAQ webpart has the ability to display the FAQS as an Accordion or Tab. Below are the steps to change the display type of the FAQ Web part 
@@ -80,23 +80,23 @@ FAQ webpart has the ability to display the FAQS as an Accordion or Tab. Below ar
 
 Check below image for more details. 
 
-![Type Options ](images/Type-Options.png)
+![Type Options ](images/Type-Options.PNG)
 
 
 Check below image to see how to change the type from Accordion to Tab
 
-![Change type from Accordion to Tab ](images/change-type-from-Accordion-to-Tab.png)
+![Change type from Accordion to Tab ](images/change-type-from-Accordion-to-Tab.gif)
 
 Check below image to see how to change the type from Tab to Accordion
 
-![Change Type Tab to Accordion ](images/Change-type-from-Tab-to-Accordion.png)
+![Change Type Tab to Accordion ](images/Change-type-from-Tab-to-Accordion.gif)
 
 ## Changing the Sort Order for FAQs
 FAQ webpart uses the sorting option provided with PropertyFieldCollection Data. 
 
 Check below image for details on how to change the Sort order. 
 
-{{< image alt="Changing the sort order" src="images/Changing-the-sort-order.gif" >}}
+![Change the sort order ](images/Changing-the-sort-order.gif)
 
 ## Source Code
 You can find the full source code and how to install
