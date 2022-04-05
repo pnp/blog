@@ -18,13 +18,13 @@ In my latest community sample, I built an SPFx web part to provide an ability to
 
 Here is how it looks:
 
-![FAQ Web Part](images/FAQWebPart.png)
+![FAQ Web Part](images/FAQWebpart.png)
 
 In this article, I will share details on how to configure the FAQ webpart.
 
 Below is the default screen of the FAQ webpart, when added to a SharePoint Online page.
 
-![FAQ Web Part](images/Default-Screen.png)
+![Default Screen](images/Default-Screen.PNG)
 
 FAQ webpart uses PropertyFieldCollectionData which provides page Content Editors the ability to manage the content of the web part within the web part properties.
 
@@ -51,6 +51,7 @@ Below are the steps to update the Add/Update Categories of the FAQ Web part
 
 Check below image for more details.
 
+
 ![Updating Categories](images/Updating-Categories.gif)
 
 ## Adding/Updating FAQs
@@ -63,7 +64,8 @@ Below are the steps to update the Add/Update FAQs of the FAQ Web part
 
 Check below image for more details.
 
-![Updating Faqs](images/Updating-FAQs.gif)
+![Updating Faqs ](images/Updating-FAQs.gif)
+
 
 ## Search FAQs
 
@@ -74,7 +76,7 @@ Below are the steps to update the Add/Update FAQs of the FAQ Web part
 
 Check below image for more details.
 
-![Search Faqs](images/search-faq.gif)
+![search faq ](images/search-faq.gif)
 
 ## Type Options
 
@@ -85,22 +87,21 @@ FAQ webpart has the ability to display the FAQS as an Accordion or Tab. Below ar
 
 Check below image for more details.
 
-![Type Options](images/Type-Options.gif)
+![Type Options ](images/Type-Options.PNG)
+
 
 Check below image to see how to change the type from Accordion to Tab
 
-![Change Type Accordion to Tab](images/change-type-from-Accordion-to-Tab.gif)
+![Change type from Accordion to Tab ](images/change-type-from-Accordion-to-Tab.gif)
 
 Check below image to see how to change the type from Tab to Accordion
 
-![Change Type Tab to Accordion](images/Change-type-from-Tab-to-Accordion.gif)
+![Change Type Tab to Accordion ](images/Change-type-from-Tab-to-Accordion.gif)
 
 ## Changing the Sort Order for FAQs
 
 
-Check below image for details on how to change the Sort order.
-
-![Changing the sort order](images/Changing-the-sort-order.gif)
+![Changeing the sort order](images/Changing-the-sort-order.gif)
 
 ## Source Code
 
