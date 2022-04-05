@@ -18,7 +18,7 @@ In my latest community sample, I built an SPFx web part to provide an ability to
 
 Here is how it looks: 
 
-{{< image alt="FAQ Web Part" src="images/FAQWebPart.png" >}}
+![FAQ Web Part ](images/FAQWebPart.png)
 
 In this article, I will share details on how to configure the FAQ webpart.
 
