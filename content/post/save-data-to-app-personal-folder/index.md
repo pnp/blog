@@ -3,7 +3,7 @@ title: "Save data to app personal folder"
 date: 2022-03-27T05:30:00-05:00
 # post thumb
 images:
-  - "images/" //ToDo -> add image here
+  - "images/thumbnail.png"
 #author
 author: "Adam Wójcik"
 githubname: Adam-it
