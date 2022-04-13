@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 PnP Weekly - Episode 161
-summary: "California, US based David Warner, joins Vesa Juvonen and Waldek Mastykarz to discuss evolution of PnP - Sharing is Caring and Recognition programs.  Three tips for getting involved in this community.  Reviewed 9 articles from Microsoft and Community.”  
+title: "Microsoft 365 PnP Weekly - Episode 161"
+summary: "California, US based David Warner, joins Vesa Juvonen and Waldek Mastykarz to discuss evolution of PnP - Sharing is Caring and Recognition programs.  Three tips for getting involved in this community.  Reviewed 9 articles from Microsoft and Community."
 date: 2022-04-11T20:41:08-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen

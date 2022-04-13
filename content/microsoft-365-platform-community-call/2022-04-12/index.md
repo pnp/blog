@@ -1,15 +1,14 @@
 ---
-title: Microsoft 365 Platform Community Call - 12th of April, 2022 
-summary: "Two demos - Building in meeting document signing app for Microsoft Teams and Building wellbeing solution with Teams and Viva Connections.  Released Microsoft 365 Unified Sample Solution Gallery (1040+ samples), 3 new articles and 3 Teams documents.”  
+title: "Microsoft 365 Platform Community Call - 12th of April, 2022"
+summary: "Two demos - Building in meeting document signing app for Microsoft Teams and Building wellbeing solution with Teams and Viva Connections. Released Microsoft 365 Unified Sample Solution Gallery with 1040 samples, 3 new articles and 3 Teams documents."
 date: 2022-04-13T20:41:08-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
 images:
-- images/recording-12th-april.png- 
+- images/recording-12th-april.png
 tags: []
-videos:
-- https://www.youtube.com/watch?v=6Zcba6w7TBs
+type: "regular"
 ---
 
 
