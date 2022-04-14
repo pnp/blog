@@ -1,5 +1,5 @@
 ---
-title: "How to use Microsoft Teams app templates"
+title: "How to use oh-my-posh with PnPPowerShell"
 date: 2021-01-13T09:08:00-05:00
 author: "Luise Freese"
 githubname:  luisefreese
