@@ -59,6 +59,21 @@ Set-PoshPrompt -Theme M365Princess
    - Add (for example) `"terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font"`
    - Save settings and restart VS Code
 
+### Slow prompt?
+In case the prompt is responding slow on Windows OS, then one of the reasons might be the oh-my-posh process being blocked by Windows defender. To overcome that, please run PowerShell with elevated permissions (Run as administrator) and execute the following command:
+
+```ps1
+Add-MpPreference -ExclusionProcess "oh-my-posh.exe"
+```
+
+If that doesn't solve the problem then, execute the following command
+
+```ps1
+Add-MpPreference -ExclusionPath "$env:POSH_PATH\oh-my-posh.exe"
+```
+
+For more information see the comments [this issue](https://github.com/JanDeDobbeleer/oh-my-posh/issues/1904).
+
 ## Conclusion
 
 It's the little things! Of course this is just one puzzle tile, but better overview, crucial information presented in a minimal but nerdy and compelling way helps people to ease their workloads. When working with PnP PowerShell, it's a game changer to know to which of your tenants and sites you are connected to.
