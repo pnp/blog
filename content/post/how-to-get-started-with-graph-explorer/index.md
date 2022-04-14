@@ -94,7 +94,7 @@ select  the pop-out icon next to the sample queries:
 
 I use Microsoft Graph in Power Apps with custom connectors or in Power
 Automate and Azure Logic Apps with the HTTP action to execute actions
-that are not present (yet). If you never did that but want to learn
+that are not present (yet). If you never did that, but want to learn
 about it, here are two blog posts that will get you started:
 
 [How to use a custom
