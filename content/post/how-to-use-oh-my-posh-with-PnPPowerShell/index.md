@@ -8,7 +8,7 @@ images:
 - images/oh-my-posh.png
 tags: ["PnPPowerShell"]
 type: "regular"
-draft: true
+draft: false
 ---
 
 ## What is oh my posh?
@@ -60,6 +60,7 @@ Set-PoshPrompt -Theme M365Princess
    - Save settings and restart VS Code
 
 ### Slow prompt?
+
 In case the prompt is responding slow on Windows OS, then one of the reasons might be the oh-my-posh process being blocked by Windows defender. To overcome that, please run PowerShell with elevated permissions (Run as administrator) and execute the following command:
 
 ```ps1
@@ -82,4 +83,4 @@ If you like the oh-my-posh and can afford it, go buy Jan, who builds and maintai
 
 *sharing is caring*
 
-<!-- note: will make sure that we get a co-author field.  -->
+*This post was written by Luise Freese and Anoop Tatti - we are working on having a co-author field.* 
