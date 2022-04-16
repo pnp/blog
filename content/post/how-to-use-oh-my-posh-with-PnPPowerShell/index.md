@@ -46,7 +46,7 @@ To have this experience in Visual Studio Code, complete the following steps:
    - Open it with `code $PROFILE` 
    - Insert this:
 
-```
+```ps1
 Import-Module oh-my-posh
 Import-Module posh-git
 Set-PoshPrompt -Theme M365Princess
