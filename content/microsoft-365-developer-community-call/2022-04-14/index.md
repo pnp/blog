@@ -17,7 +17,7 @@ videos:
 
 ## Call summary
 
-Yes, in one location you will find Microsoft 365 tenant – [script samples gallery](https://aka.ms/script-samples) (147 scenarios and 207+ scripts) now also integrated into the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) (1040+ samples) from Microsoft and community!!  Sign up and attend an AMA and other events this month hosted by [Sharing is Caring](https://pnp.github.io/sharing-is-caring/).  Get the recognition you deserve, sign up for the [PnP Recognition Program](https://aka.ms/m365pnp-recognition).   The MGT samples repository is now LIVE! [https://aka.ms/mgt/samples](https://aka.ms/mgt/samples) and see the preview release for the MGT TeamsFxProvider - npm i [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/mgt@next.teamsfx.  Join the [Microsoft 365 platform call](https://aka.ms/m365-dev-call) on Tuesday, April 19, 8:00 am PT.
+Yes, in one location you will find Microsoft 365 tenant – [script samples gallery](https://aka.ms/script-samples) (147 scenarios and 207+ scripts) now also integrated into the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) (1040+ samples) from Microsoft and community!!  Sign up and attend an AMA and other events this month hosted by [Sharing is Caring](https://pnp.github.io/sharing-is-caring/).  Get the recognition you deserve, sign up for the [PnP Recognition Program](https://aka.ms/m365pnp-recognition).   The MGT samples repository is now LIVE! [https://aka.ms/mgt/samples](https://aka.ms/mgt/samples) and see the preview release for the MGT TeamsFxProvider - `npm i [@microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/41501)/mgt@next.teamsfx`.  Join the [Microsoft 365 platform call](https://aka.ms/m365-dev-call) on Tuesday, April 19, 8:00 am PT.
 
 ### Just Released - since last call
 
@@ -47,7 +47,7 @@ The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (
 * Mark your calendar for [Microsoft Tech Days](https://aka.ms/techdays/m365) - Have a seat with Microsoft 365 developer platform | Thursday, May 5, 2022.  Registration and Agenda coming soon.
 * Mark your calendar for Microsoft Build, May 24-26, 2022 - [Register](https://mybuild.microsoft.com/)
 * Opt into PnP Recognition Program | [https://aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)
-* Join us at the next ** ** Microsoft 365 platform call on Tuesday, April 19, 8:00 am PT.
+* Join us at the next **Microsoft 365 platform call** on Tuesday, April 19, 8:00 am PT.
     * Latest news from Microsoft engineering on Microsoft 365 topics
     * Demos:
         * Latest on Microsoft Graph Data Connect data sets – Nik Charlebois
@@ -70,16 +70,19 @@ The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (
 * Call attention to your great work by using the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
 
 ## Microsoft Teams Development Samples
+
 ([https://aka.ms/TeamsSampleBrowser](https://aka.ms/TeamsSampleBrowser))
 
 * [Move Your Filters app](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-move-your-filters) - [Mark Allan](http://twitter.com/MarkXA) | @MarkXA &amp; [Tom Resing](http://twitter.com/resing) | @resing
 
 ## Microsoft Power Platform Samples
+
 ([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatform-samples)
 
 * [Invoice Automation using the SharePoint Syntex](https://github.com/Spucelik/powerapps-samples/tree/main/samples/InvoiceProcessing) - [Steve Pucelik](http://twitter.com/spucelik) | @spucelik
 
 ## Script Samples
+
 ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 * New Scenarios
@@ -153,11 +156,11 @@ Additional resources around the covered topics and links from the slides.
 *   PnP Teams Quickstart | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
 *   Microsoft Teams Toolkit v3.x | [https://aka.ms/teams-toolkit](https://aka.ms/teams-toolkit)
 *   [Microsoft 365 PnP Community hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) | aka.ms/m365pnp/community 
-*   Microsoft Graph Toolkit in Microsoft Learn | [http://aka.ms/learn-mgt](http://aka.ms/learn-mgt)
+*   Microsoft Graph Toolkit in Microsoft Learn | [https://aka.ms/learn-mgt](http://aka.ms/learn-mgt)
 *   Viva Connections [https://aka.ms/VivaConnections](https://aka.ms/VivaConnections)
 *   [SharePoint look book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 *   [Yo Teams video training package](http://aka.ms/yoteams-training)
-*   [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+*   [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 *   [Microsoft 365 community (PnP) videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 *   [Microsoft Teams Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 *   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
@@ -170,8 +173,8 @@ Additional resources around the covered topics and links from the slides.
 *   [Page transformation guidance](https://aka.ms/sppnp-pagetransformation)
 *   [Page transformation videos](https://aka.ms/sppnp-pagetransformationvideos)
 *   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
-*   [Microsoft 365 developer program site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
-*   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+*   [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
+*   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 *   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 *   [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
