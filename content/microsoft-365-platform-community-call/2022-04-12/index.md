@@ -15,6 +15,8 @@ type: "regular"
 
 Microsoft 365 Platform Community Call - weekly community call recording from April 12th, is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](https://aka.ms/m365pnp-videos).
 
+{{< youtube 6Zcba6w7TBs >}}
+
 ## Call summary
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.
@@ -35,8 +37,6 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Learn from 3 Microsoft 365 Platform related stories, 2 very useful demos, and 3 Teams documents delivered by Microsoft.
 
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&amp;A takes place in chat throughout and live at end of the call.
-
-{{< youtube 6Zcba6w7TBs >}}
 
 ## Microsoft 365 Platform News Flash
 
@@ -67,7 +67,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 * Download the recurrent invite for this call – [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call%C2%A0)
 * Call attention to your great work by using the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
 
-{{< image alt="220412-together-mode.gif" src="images/220412-together-mode.gif" >}}
+![220412-together-mode.gif](images/220412-together-mode.gif)
 
 Awesome to see all of the faces of this community.   Please keep the feedback coming.
 

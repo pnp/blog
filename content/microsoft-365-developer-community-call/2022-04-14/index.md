@@ -93,7 +93,7 @@ Article: [Getting started with PnP Script Samples](https://techcommunity.microso
 
 ## Together Mode!
 
-{{< image alt="thumbnail image 2 of blog post titled Microsoft 365 Developer Community Call recording – 14th of April, 2022 "src="images/220414-together-mode.gif" >}}
+![thumbnail image 2 of blog post titled Microsoft 365 Developer Community Call recording – 14th of April, 2022](images/220414-together-mode.gif)
 
 Thanks everyone for joining the call today.  It’s awesome to see your smiling faces.     
 
