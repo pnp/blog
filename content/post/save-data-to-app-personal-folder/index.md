@@ -54,7 +54,7 @@ https://graph.microsoft.com/v1.0/me/drive/special/approot
 
 And see what happens. 
 
-{{< image alt="requestToAppRoot.png" src="images/requestToAppRoot.png" >}}
+![requestToAppRoot](images/requestToAppRoot.png)
 
 Ok success, that's nice, but what actually happened. In the response we will see a 'webUrl' param where we may see the 
 
@@ -70,7 +70,7 @@ was resolved as
 
 And if we go there we see
 
-{{< image alt="oneDriveFolders.png" src="images/oneDriveFolders.png" >}}
+![oneDriveFolders](images/oneDriveFolders.png)
 
 … hey… a new folder in my personal OneDrive, now that’s nice. In the response we may also find that the folder was created by 'Graph Explorer' app and currently `childcount` is zero.
 Ok so that's pretty sweet. With this single request I have a personal folder created for me in the user OneDrive. Isn't it a perfect place to save user defined data? 
@@ -90,7 +90,7 @@ and in the request body we need to provide some JSON structure string like
 
 As a result we see a new file added to the catalog with your json object. Also we may use the same request to update the data and since it is JSON we may change the data schema how we want quite dynamically. Adding new properties becomes easy.
 
-{{< image alt="putRequest.png" src="images/putRequest.png" >}}
+![putRequest](images/putRequest.png)
  
 Ok so now lets see how to get our saved data. For this we need another GET request:
 
@@ -100,24 +100,24 @@ https://graph.microsoft.com/v1.0/me/drive/special/approot:/{YOURFILENAMEHERE}.js
 
 In the response section you should see `@microsoft.graph.downloadUrl` property. 
 
-{{< image alt="getData.png" src="images/getData.png" >}}
+![getData](images/getData.png)
 
 Click on that link and see what happens
 
-{{< image alt="downloadFile.png" src="images/downloadFile.png" >}}
+![downloadFile](images/downloadFile.png)
 
 … ye our JSON file is downloaded. In the app we may use this approach to get the `.text()` from the response and parse the JSON object back to our model. So in general in our app we will actually need two steps (two requests) to retrieve the data.
  
 There you have it. With a couple of simple requests I was able to create a folder for may data, save it as a .json file in the user OneDrive apps personal folder, and finally get the data back. If only there was some ready to use Spfx sample with some kind of library abstraction that does all that with simple *saveData()*, *getData()* methods, right? Well lucky for you, not that long ago I added a new sample in the *'pnp/sp-dev-fx-webparts'* repo with and Spfx library component that does all this logic for you and a simple webpart which just uses the methods get/save our json object. If you are interested take a look at [react-save-to-onedrive-app-personal-folder sample](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-save-to-onedrive-app-personal-folder).
 
-{{< image alt="manageDataLibraryMethods.png" src="images/manageDataLibraryMethods.png" >}}
+![manageDataLibraryMethods](images/manageDataLibraryMethods.png)
  
 Before you start creating an Spfx solution that uses this approach there are two things we need to remember. 
 First one, and this is quite obvious, as we are using MS Graph here, our webpart/library will need to request *webApiPermissionRequests* for *Sites.ReadWrite.All* scope which we may add in the *package-solution.json* config. Then of course, after the app is deployed we need to approve this permission request in the SharePoint admin web api management page.
 
 Second one is not that obvious at first but is quite logical. As the Graph request creates the application folder for us we don't have control over the name. As a result of that each Spfx solution will save it's files in the same place (same folder), which name will be *'SharePoint Online Client Extensibility Web Application Principal'* so it would be a good idea to first create a subfolder for your current solution and store the .json file there. That way we may avoid future problems if we have two (or more) Spfx solutions which save data as .json files with the same name (Saving the data from one Spfx webpart would completely overwrite the data saved by the other one).
 
-{{< image alt="subFolders.png" src="images/subFolders.png" >}}
+![subFolders](images/subFolders.png)
 
 ## So what I actually learned after reading this? 
 
