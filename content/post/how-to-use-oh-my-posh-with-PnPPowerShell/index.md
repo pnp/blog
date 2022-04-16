@@ -6,7 +6,7 @@ githubname:  luisefreese
 categories: ["Community post"]
 images: 
 - images/oh-my-posh.png
-tags: ["PnPPowerShell"]
+tags: ["PnP PowerShell", "SharePoint"]
 type: "regular"
 draft: false
 ---
