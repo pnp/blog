@@ -59,6 +59,22 @@ Set-PoshPrompt -Theme M365Princess
    - Add (for example) `"terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font"`
    - Save settings and restart VS Code
 
+## How does the site information get displayed
+
+oh-my-posh has the capability to display environment variables in the prompt. We use this capability to show the site information.
+
+When we run the `Connect-PnPOnline` cmdlet, a couple of environment variables are set. They are `PNPPSHOST` and `PNPPSSITE`. This can be seen in the PnP PowerShell code [here](https://github.com/pnp/powershell/blob/dev/src/Commands/Base/ConnectOnline.cs#L305). `PNPPSHOST` contains the host name e.g. `yourtenant.sharepoint.com` and `PNPPSSITE` contains the URL of the connected site e.g. `yoursite.sharepoint.com`.
+
+To display environment variables in an oh-my-posh theme we need to use the syntax `{{ .Env.variablename }}`.
+
+In the oh-my-posh M365Princess theme, we are displaying the values of `PNPPSHOST` and `PNPPSSITE` using `{{ .Env.PNPPSHOST }}` and `{{ .Env.PNPPSSITE }}`. The same be seen in the following lines of the code for theme:
+   - [Displaying the host name](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/M365Princess.omp.json#L13)
+   - [Displaying the site URL](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/M365Princess.omp.json#L21)
+
+The above lines of code check if the corresponding variables have a value and if they do then, the value is shown.
+
+These values can be shown in any other oh-my-posh theme if needed. To customise any other on-my-posh theme, please follow the guide [here](https://ohmyposh.dev/docs/customize). As part of the customisation, the block between lines [4](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/M365Princess.omp.json#L4) and [33](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/M365Princess.omp.json#L33) of the M365Princess theme to the custom theme. 
+
 ### Slow prompt?
 
 In case the prompt is responding slow on Windows OS, then one of the reasons might be the oh-my-posh process being blocked by Windows defender. To overcome that, please run PowerShell with elevated permissions (Run as administrator) and execute the following command:
