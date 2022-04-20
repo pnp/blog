@@ -1,5 +1,6 @@
 ---
-title: "Three great demos: Latest on Microsoft Graph Data Connect datasets, Extending Teams apps to Outlook and Office.com, and Graph Connectors updates and Postman samples. The Microsoft 365 Platform Community (PnP) – April 2022 update is now available!"
+title: "Microsoft 365 Platform Community Call - 19th of April, 2022"
+summary: "Three great demos: Latest on Microsoft Graph Data Connect datasets, Extending Teams apps to Outlook and Office.com, and Graph Connectors updates and Postman samples. The Microsoft 365 Platform Community (PnP) – April 2022 update is now available!"
 date: 2022-04-19T20:41:08-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
