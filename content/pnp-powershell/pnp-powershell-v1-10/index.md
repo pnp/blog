@@ -13,7 +13,7 @@ type: "regular"
 
 ## PnP PowerShell
 
-PnP PowerShell is a "swiss army knife" type of PowerShell Module providing over 600 cmdlets that work with Microsoft products such as SharePoint Online, Microsoft Teams, Microsoft Project, Security & Compliance, Azure Active Directory, and more. The advantage is that you will have a consistent way to work with a broad range of Microsoft products from one single connect only. No need to download different PowerShell Modules, which all work in a slightly different way, all require their slightly different ways of connecting and authenticating.
+PnP PowerShell is a "swiss army knife" type of PowerShell Module providing over 600 cmdlets that work with Microsoft products such as SharePoint Online, Microsoft Teams, Microsoft Project, Security & Compliance, Azure Active Directory, and more. The advantage is that you will have a consistent way to work with a broad range of Microsoft products from a single connection. No need to download different PowerShell Modules, which all work in a slightly different way, requiring different ways of connecting and authenticating.
 
 PnP PowerShell runs on any device on any platform. This means you can run it i.e. from a Windows machine, Mac, Linux based device, Azure Function, Azure Runbook or even a Raspberry Pi. All in the same consistent way.
 
@@ -91,7 +91,7 @@ With the addition of these cmdlets, you will be able to Publish or Unpublish a c
 - Set-PnPMessageCenterAnnouncementAsFavorite
 - Set-PnPMessageCenterAnnouncementAsNotFavorite
 
-The Microsoft 365 message center is the place to get notified about planned changes and new upcoming features in your tenant. With the addition of these cmdlets, you will be able to programmatically intereact with the message center announcements. These cmdlets replace some of the ones we've had before in PnP PowerShell.
+The Microsoft 365 message center is the place to get notified about planned changes and new upcoming features in your tenant. With the addition of these cmdlets, you will be able to programmatically interact with the message center announcements. These cmdlets replace some of the ones we've had before in PnP PowerShell.
 
 ### Other notable stuff
 
@@ -144,7 +144,7 @@ Based on the fantastic work done by the Azure PowerShell SDK team for the Az.Too
 
 We are in very early stage discussion around 2.0 version. This is one version where we want to focus on and reduce the dependency on CSOM itself for the cmdlets. The replacement for CSOM would be SharePoint REST APIs or Microsoft Graph APIs where possible.
 
-What else could we improve and add? Let us know what you think by helping out with one of our [open issues](https://github.com/pnp/powershell/issues) or chime in on our [open discussion](https://github.com/pnp/powershell/discussions)! If you're having dev skills yourself, we very much welcome your contribution to the source code by submitting PRs, after all PnP PowerShell is a community effort. Sharing is caring!
+What else could we improve, add and fix? Let us know what you think by helping out with one of our [open issues](https://github.com/pnp/powershell/issues) or chime in on our [open discussion](https://github.com/pnp/powershell/discussions)! If you're having dev skills yourself, we very much welcome your contribution to the source code by submitting PRs, after all PnP PowerShell is a community effort. Sharing is caring!
 
 ## Try it today
 
