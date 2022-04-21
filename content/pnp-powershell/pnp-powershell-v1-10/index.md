@@ -162,4 +162,4 @@ Install-Module PnP.PowerShell -AllowPrerelease
 
 If you need more help getting started or want more details about the commands, the architecture or the project, go to [aka.ms/pnp/powershell](https://aka.ms/pnp/powershell).
 
-If you see any room for improvement, please, don’t hesitate to reach out to us either on [GitHub](https://github.com/pnp/powershell/issues) or [twitter](https://twitter.com/pnppowershell).
+If you see any room for improvement, please, don’t hesitate to reach out to us either on [GitHub](https://github.com/pnp/powershell/issues) or [Twitter](https://twitter.com/pnppowershell).
