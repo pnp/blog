@@ -125,6 +125,7 @@ The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
 (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
+
 {{< youtube 3_QF94JWIlk >}}
 
 ## Agenda items
