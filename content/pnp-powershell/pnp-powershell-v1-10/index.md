@@ -1,6 +1,6 @@
 ---
 title: "PnP PowerShell v1.10"
-summary: "PnP PowerShell is a cross-platform PowerShell Module providing over 600 cmdlets that work with Microsoft 365 environments and more specifically SharePoint Online, Microsoft Teams, Microsoft Planner and Microsoft Flow."
+summary: "PnP PowerShell is a cross-platform PowerShell Module providing over 600 cmdlets that work with Microsoft 365 environments and more specifically SharePoint Online, Microsoft Teams, Microsoft Planner and Power Automate."
 date: 2022-04-19T12:17:00-05:00
 author: "Gautam Sheth"
 githubname: "gautamdsheth"
