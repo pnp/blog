@@ -1,13 +1,16 @@
 ---
-title: "Microsoft 365 self-service using Power Apps"
+title: Microsoft 365 self-service using Power Apps
 date: 2022-01-12T06:00:00-05:00
-author: "Jan Bakker"
+author: Jan Bakker
 githubname: BakkerJan
-categories: ["Community post"]
+categories:
+  - Community post
 images:
-- images/1641653378.png
+  - images/1641653378.png
 tags: []
-type: "regular"
+type: regular
+preview: 
+  - images/1641653378.png
 ---
 
 Many organizations are moving towards a modern workplace. And most of the time, that does not happen overnight. It's a big change for both end-users, management, and IT staff.
