@@ -6,8 +6,8 @@ author: "Gautam Sheth"
 githubname: "gautamdsheth"
 categories: ["PnP PowerShell"]
 images:
-- images/banner-cli-m365.png
-tags: ["Azure AD","PnP PowerShell","Microsoft Teams", "SharePoint"]
+- images/banner-pnp-powershell.PNG
+tags: ["Azure AD","PnP Pobanner-pnp-powershell.PNGwerShell","Microsoft Teams", "SharePoint"]
 type: "regular"
 ---
 
