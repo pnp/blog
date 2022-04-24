@@ -16,7 +16,7 @@ I’m a big fan of self-service and believe that organizations can benefit from 
 
 This blog post is a showcase for a Power App around self-service. It is also a perfect example of fusion development. Microsoft made sure we have an API we can use to assign the settings we want. The Power App is already set up to use those connections, and you as a citizen developer only need to make sure the app interacts with those as you desire, with a minimum of coding effort.
 
-{{< image alt="1641653378.png" src="images/1641653378.png" >}}
+![1641653378.png](images/1641653378.png)
 
 ## The idea behind the app
 
@@ -30,7 +30,7 @@ The ultimate goal of this app thus is a UI where any end-user in the organizatio
 
 The idea behind the slider is to bring your users in control of their modern workplace, easier put: on what pace updates will get delivered to their Windows device. By choosing a different update channel, they will be assigned to a specific Windows Update for Business ring in the back-end.
 
-{{< image alt="1641747471.png" src="images/1641747471.png" >}}
+![1641747471.png](images/1641747471.png)
 
 The toggles can be used to let the user participate in different pilots or features that Microsoft 365 offers. It can also be used to request licenses, for example, if the user needs Power-BI Pro for a specific project. You could even build an additional flow that will ask for manager approval first, or you can make use of Azure Active Directory Access Reviews to review the groups periodically.
 
@@ -40,11 +40,11 @@ Leveraging Azure Premium P1, we could use group-based licensing to automatically
 
 In the Azure portal, go to Azure Active Directory -> Licenses. Select the preferred licenses, then go to the Licensed groups blade, and select + Assign.
 
-{{< image alt="1641917465.png" src="images/1641917465.png" >}}
+![1641917465.png](images/1641917465.png)
 
 From the list, select the underlying services that you want to assign to the group.
 
-[{{< image alt="1641748265.png" src="images/1641748265.png" >}}
+![1641748265.png](images/1641748265.png)
 
 As soon as the user is added to the group, the license is automatically assigned. When the user is removed, also the license will be unassigned.
 
@@ -52,15 +52,15 @@ How does the app work under the hood?
 
 The app is using Power Automate to connect to the Graph API. Inside the Power Automate flow, we use the HTTP connector to send out the API calls. Based on the parameters that we define in Power Apps, the user is either added or removed from the group.
 
-{{< image alt="PowerAppsFlow.png" src="images/PowerAppsFlow.png" >}}
+![PowerAppsFlow.png](images/PowerAppsFlow.png)
 
 The flow is using the switch feature to determine what action should be taken. This can be either “add”,”remove”, or “fetch”. More details on the app and flow can be found in the extended documentation on GitHub.  
 
-[{{< image alt="1641918438.png" src="images/1641918438.png" >}}
+[![1641918438.png](images/1641918438.png)
 
 The flow is using the switch feature to determine what action should be taken. This can be either “add”,”remove”, or “fetch”. More details on the app and flow can be found in the extended documentation on GitHub.
 
-{{< image alt="JanBakker_0-1641843830957.png" src="images/JanBakker_0-1641843830957.png" >}}
+![JanBakker_0-1641843830957.png](images/JanBakker_0-1641843830957.png)
 
 ## How to get started?
 
