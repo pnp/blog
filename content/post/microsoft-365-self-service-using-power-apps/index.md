@@ -58,13 +58,11 @@ The flow is using the switch feature to determine what action should be taken. T
 
 [![1641918438.png](images/1641918438.png)
 
-The flow is using the switch feature to determine what action should be taken. This can be either “add”,”remove”, or “fetch”. More details on the app and flow can be found in the extended documentation on GitHub.
-
 ![JanBakker_0-1641843830957.png](images/JanBakker_0-1641843830957.png)
 
 ## How to get started?
 
-This demo app is on [GitHub ](https://github.com/BakkerJan/M365Portal) and can be up and running in minutes. Reach out to this repository for detailed information and step-by-step instructions Also [make sure to check out [this YouTube video](https://www.youtube.com/watch?v=MzH1Ps6gG7A) for a short tutorial
+This demo app is on [GitHub](https://github.com/BakkerJan/M365Portal) and can be up and running in minutes. Reach out to this repository for detailed information and step-by-step instructions Also [make sure to check out [this YouTube video](https://www.youtube.com/watch?v=MzH1Ps6gG7A) for a short tutorial
 
 ## Conclusion
 
