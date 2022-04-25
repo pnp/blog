@@ -7,7 +7,7 @@ categories: []
 images:
 - images/AdaptiveCardJSON.png
 tags: []
-type: "epic"
+type: "regular"
 
 ---
 
