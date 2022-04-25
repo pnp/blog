@@ -42,7 +42,13 @@ Now you want to clone the repository so you have it locally available:
 * Navigate to a directory where you want to clone the repository
 * Type `git clone <COPIED URL HERE>`
 
-7. Write your blog post
+8. Create a new branch 
+
+`git checkout -b myBlogPost`
+
+(the main branch is protected.)
+
+9. Write your blog post
 
 * type `code .` in VSCode terminal (yes, there is a space (` `) between `code` and the `.`) to open your project in a new VS Code instance
 * in the **content/post** folder, create your own folder (you may use the title of your post as the name of the folder, use `-` instead of ` `)
@@ -75,7 +81,7 @@ type: "regular"
 
 We also put together some information about markdown and how to use it in our [Wiki](https://github.com/pnp/blog/wiki/Microsoft-365-blog-Markdown-reference)
 
-8. Commit and push your changes to your fork
+10. Commit and push your changes to your fork
 
 Whenever you want to upload your changes to your remote fork:
 
@@ -83,7 +89,7 @@ Whenever you want to upload your changes to your remote fork:
 * type `git commit -m "YOUR COMMIT MESSAGE"` - this will commit your changes with the messages
 * type `git push` to push the changes to your remote fork
 
-9. Pull request
+11. Pull request
 
 You will now want to (kindly) ask the repository maintainers to pull in your changes. You do that with a pull request:
 
