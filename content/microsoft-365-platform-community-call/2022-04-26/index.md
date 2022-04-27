@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Platform Community Call - 26th of April, 2022"
 summary: "Two great demos: Create an app that extends across Teams, Outlook, and Office, and Graph Connectors updates and Postman samples."
-date: 2022-04-27T10:00:00-04:00
+date: 2022-04-27T08:00:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
