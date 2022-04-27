@@ -11,8 +11,6 @@ tags: ["SharePoint", "Power Automate"]
 type: regular
 ---
 
-## the issue
-
 Although SharePoint and Power Automate are heavily interwoven, there is no "rename file" action in Power Automate - if the file lives in a SharePoint library. Out of the box that is only possible for files living in OneDrive.
 
 I recently saw a cry for help on [twitter](https://twitter.com/_achu/status/1518786319907901442?s=20&t=XHVS1oXjKIC_cksmztVWDg) and decided to share here how my solution looks like.
