@@ -41,7 +41,7 @@ In order to change a filename, we will need to use SharePoint REST API, which is
       * **X-HTTP-METHOD**: `PATCH`
    * Body:
 
-```JSON
+```
 {'__metadata':
 {'type':'@{outputs('Send_an_HTTP_request_to_SharePoint_to_get_type')?['body']?['d']?['ListItemEntityTypeFullName']}'},
 'FileLeafRef':'<your new filename goes here>'}
