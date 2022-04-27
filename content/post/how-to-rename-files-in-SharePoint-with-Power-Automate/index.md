@@ -9,7 +9,6 @@ images:
   - images/lego-file.jpg
 tags: ["SharePoint", "Power Automate"]
 type: regular
-slug: rename-files-sharepoint-power-automate
 ---
 
 ## the issue
