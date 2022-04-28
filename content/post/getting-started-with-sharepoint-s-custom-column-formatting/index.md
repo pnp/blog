@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/Will_Holland_0-1615739594928.png
 tags: ["Microsoft lists", "SharePoint", "List formatting"]
-type: "regular"
+type: "popular"
 
 
 ---
