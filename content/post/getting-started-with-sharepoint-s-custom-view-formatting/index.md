@@ -3,10 +3,10 @@ title: "Getting started with SharePoint's custom view formatting"
 date: 2021-03-19T08:42:00-04:00
 author: "Will Holland"
 githubname: willholland
-categories: []
+categories: ["Community post"]
 images:
 - images/column-formatting-after.png
-tags: []
+tags: ["Microsoft lists", "SharePoint", "List formatting"]
 type: "regular"
 ---
 
