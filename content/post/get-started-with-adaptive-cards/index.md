@@ -22,7 +22,7 @@ In Microsoft landscape we do have Adaptive Cards already in various places. Have
 
 They are also in Windows Timeline (access it by pressing Win+Tab).  
 
-![](images/TomaszPoszytek_1-1610369705002.jpeg" >}}
+![](images/TomaszPoszytek_1-1610369705002.jpeg)
 
 You can find them in your Outlook when you receive a message containing an interactive form inside. 
 
