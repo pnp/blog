@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/explorer.jpg
 tags: []
-type: "popular"
+type: "regular"
 
 
 ---

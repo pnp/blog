@@ -7,7 +7,7 @@ categories: ["CLI for Microsoft 365"]
 images:
 
 tags: []
-type: "regular"
+type: "trending"
 ---
 
 So, recognition is important, and it is important to keep in mind that

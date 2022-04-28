@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/localhostcert.png
 tags: []
-type: "trending"
+type: "regular"
 ---
 
 I've started using the new Microsoft Teams toolkit, which is a Visual
