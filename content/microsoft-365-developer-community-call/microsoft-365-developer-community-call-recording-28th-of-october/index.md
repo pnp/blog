@@ -126,7 +126,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 ## Together Mode!
 
-{{< image alt="211028-together-mode.gif" src="images/211028-together-mode.gif" >}}
+![211028-together-mode.gif](images/211028-together-mode.gif)
 
 Are there ghosts or shadows occupying seats in this week's Together
 Mode photo?  Mention during call about people \"beaming up/down\" to the

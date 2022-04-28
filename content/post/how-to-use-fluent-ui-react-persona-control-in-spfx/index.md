@@ -25,7 +25,7 @@ We will create an SPFx web part in the way to fetch users from any
 specific group and render these users using a persona. so let's see
 step-by-step implementation.
 In the end, our output will be like this,
-{{< image alt="Output.png" src="images/Output.png" >}}
+![Output.png](images/Output.png)
 
 ## Implementation   
 
@@ -49,7 +49,7 @@ Now execute the below command to create an SPFx solution:
 
 It will ask some questions, as shown below,
 
-{{< image alt="Project Structure.png" src="images/Project Structure.png" >}}
+![Project Structure.png](images/Project Structure.png)
 
 
 
@@ -279,7 +279,7 @@ Now test the webpart in SharePoint-SiteURL +
 
 ## Output 
 
-{{< image alt="Output.png" src="images/Output.png" >}}
+![Output.png](images/Output.png)
  
 
 Find here the [full source code

@@ -343,7 +343,7 @@ component repository or download page.
 
 ## Microsoft 365 PnP team model 
 
-{{< image alt="pnp-community-model.png" src="images/pnp-community-model.png" >}}
+![pnp-community-model.png](images/pnp-community-model.png)
 In April 2020 we announced our new [Microsoft 365 PnP team model](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and grew the MVP team quite significantly. PnP model exists for having more efficient engagement between Microsoft engineering and community members. Let's build things together. Your contributions and feedback is always welcome! During August, we also crew the team with 5 new members. PnP Team coordinates and leads the different open-source and community efforts we execute in the Microsoft 365 platform. We welcome all community members to get involved on the community and open-source efforts. Your input do matter!
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team members --
@@ -393,7 +393,7 @@ Got feedback, suggestions or ideas? - Please let us know. Everything we do in th
 
 ## Microsoft 365 PnP Recognition Program   
 
-{{< image alt="VesaJuvonen_0-1629736432373.png" src="images/VesaJuvonen_0-1629736432373.png" >}}
+![VesaJuvonen_0-1629736432373.png](images/VesaJuvonen_0-1629736432373.png)
 
 We are excited to announce new community contributor program for all the active community members. Through this program you can get officially acknowledged with the a [Credly badge](https://www.credly.com/org/m365pnp/badge/community-contributor-2021) around your work on our open-source and community channels. See more from <https://aka.ms/m365pnp-recognition>. Thank you for being part of this journey with us.
 
@@ -403,7 +403,7 @@ These are different areas which are closely involved on the community work acros
 
 ### Microsoft Graph Toolkit 
 
-{{< image alt="graph-toolkit.jpg" src="images/graph-toolkit.jpg" >}}
+![graph-toolkit.jpg](images/graph-toolkit.jpg)
 
 Microsoft Graph Toolkit is engineering lead initiative, which works closely with the community on the open-source areas. The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic web components and helpers for accessing and working with Microsoft Graph. The components are fully functional right of out of the box, with built in providers that authenticate with and fetch data from Microsoft Graph.
 
@@ -424,7 +424,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented in our 
 
 ### Microsoft 365 Community docs 
 
-{{< image alt="community-dcos.png" src="images/community-dcos.png" >}}
+![community-dcos.png](images/community-dcos.png)
 
 Community docs model was announced in the April 2020 and it's great to see the interest for community to help each other by providing new guidance on the non-dev areas. See more on the announcement from the SharePoint blog - [Announcing the Microsoft 365 Community Docs](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/announcing-the-microsoft-365-community-docs/ba-p/1288203). We do welcome contributions from the community - our objective is to build a valuable location for articles from Microsoft and community together.
 
@@ -455,7 +455,7 @@ All [Microsoft 365 Community Content](https://docs.microsoft.com/microsoft-365/c
 
 ### SharePoint Framework development samples 
 
-{{< image alt="spfx-gallery.png" src="images/spfx-gallery.png" >}}
+![spfx-gallery.png](images/spfx-gallery.png)
 
 These are the updated SharePoint Framework samples which are available
 from the different repositories.
@@ -489,7 +489,7 @@ How to find what's relevant for you? Take advantage of our SharePoint Framework 
 
 ### Microsoft Teams community samples 
 
-{{< image alt="teams-samples-promo.jpg" src="images/teams-samples-promo.jpg" >}}
+![teams-samples-promo.jpg](images/teams-samples-promo.jpg)
 
 These are samples which have been contributed on the community samples since last summary. We do welcome all Microsoft Teams samples to this gallery. They can be implemented using in any technology.
 
@@ -507,7 +507,7 @@ and community samples.
 ### Power Platform samples 
 
 
-{{< image alt="power-platform-samples.png" src="images/power-platform-samples.png" >}}
+![power-platform-samples.png](images/power-platform-samples.png)
 
 There was numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location:
 
@@ -520,7 +520,7 @@ help.
 
 ### Microsoft 365 Script Samples 
 
-{{< image alt="script-gallery.png" src="images/script-gallery.png" >}}
+![script-gallery.png](images/script-gallery.png)
 
 We have released new Microsoft 365 Script Sample gallery within past month. We welcome all scripts on Microsoft 365 automation to this centralized repository, targeted to help to manage and automate day-to-day operations.
 
@@ -588,7 +588,7 @@ If you have any existing scripts which you'd be willing to share with others - p
 
 -   Microsoft 365 Script Samples - <https://aka.ms/script-samples>
 **Independent Connectors Program**
-{{< image alt="independent-connectors.png" src="images/independent-connectors.png" >}}
+![independent-connectors.png](images/independent-connectors.png)
 
 Microsoft Power Platform comes with a huge variety of already built-in connectors and also provides you with the ability of creating your own custom connectors. As of July 2021, anyone can submit the connectors they built to Microsoft Power Platform so that they can be used by others as well. Previously, only API owners could publish their connectors. The Independent Publisher Connector Program's mission is to bring the best together: the best people, connecting great ideas to data, apps, and flows. We want to make it easier for connector developers to collaborate on connectors. For more information, you can watch this video on Publish a connector to the [Publish a connector to the Power Platform with Independent Publisher Connector Program](https://www.youtube.com/watch?v=ulTBvCHw8MU) gram and check out [Microsoft Power Platform Connectors on GitHub](https://github.com/microsoft/PowerPlatformConnectors)
 
@@ -723,7 +723,7 @@ These are the latest connectors: 
 
 ### Sharing is Caring initiative 
 
-{{< image alt="sharing-is-caring-promo-1024x576.png" src="images/sharing-is-caring-promo-1024x576.png" >}}
+![sharing-is-caring-promo-1024x576.png](images/sharing-is-caring-promo-1024x576.png)
 
 The "Sharing Is Caring" imitative is targeted for learning the basics around making changes in Microsoft Docs, in GitHub, submitting pull requests to the PnP repositories and in GitHub in general. Take advantage of this instructor lead training for learning how to contribute to docs or to open-source solutions. Everyone is welcome to learn how to get started on contributing to open-source docs or code!
 
@@ -1263,7 +1263,7 @@ Here's the list of active contributors (in alphabetical order) since last releas
 Here are the companies which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications. If you still want your logo for this month's release, please let us know and share the logo with us. Thx.
 
 
-{{< image alt="dec-2021-companies.png" src="images/dec-2021-companies.png" >}}
+![dec-2021-companies.png](images/dec-2021-companies.png)
 
 -   [Addin365](https://www.addin365.com/)
 -   [Arvo Systems](https://www.arvosys.com/)

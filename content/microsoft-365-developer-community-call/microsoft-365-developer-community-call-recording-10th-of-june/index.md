@@ -95,7 +95,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 -   **[Configure Teams applications with Azure App
     Configuration](https://aka.ms/msgext-graph-action-config) -**
     [Markus Moeller](https://twitter.com/Moeller2_0) | @Moeller2_0 
-{{< image alt="210610-together-mode.gif" src="images/210610-together-mode.gif" >}}
+![210610-together-mode.gif](images/210610-together-mode.gif)
 Thank you for joining for today's PnP Community call.   The auditorium
 was packed.   
 

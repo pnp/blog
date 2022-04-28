@@ -99,7 +99,7 @@ StartProcessing
 
 ## Output 
 
-{{< image alt="UserRolesOP.png" src="images/UserRolesOP.png" >}}
+![UserRolesOP.png](images/UserRolesOP.png)
 
 ## Summary 
 

@@ -73,7 +73,7 @@ Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
 Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   Looking for Samples!  Please share your good work  
-{{< image alt="210415-together-mode.gif" src="images/210415-together-mode.gif" >}}
+![210415-together-mode.gif](images/210415-together-mode.gif)
 
 **It's together time - Super comfy seats!     **
 

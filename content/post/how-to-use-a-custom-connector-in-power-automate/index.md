@@ -27,7 +27,7 @@ tweets about the music I currently listen to on Spotify.
 The result will look like this:
 
 
-{{< image alt="tweet.png" src="images/tweet.png" >}}
+![tweet.png](images/tweet.png)
 
 ## What we need 
 

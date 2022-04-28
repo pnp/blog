@@ -82,7 +82,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     Routing](https://github.com/pnp/teams-dev-samples/tree/main/samples/app-acs-calling) -
     Sathya Raveendran (Microsoft), Saikrishna Neeli & Arun Kumar
     Anaparthi** (Zen3 Infosolutions)
-{{< image alt="210624-together-mode.gif" src="images/210624-together-mode.gif" >}}
+![210624-together-mode.gif](images/210624-together-mode.gif)
 Thank you for joining for today's PnP Community call.   It's a full
 house!   
 

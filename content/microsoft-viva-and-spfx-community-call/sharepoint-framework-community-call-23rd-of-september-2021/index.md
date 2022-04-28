@@ -50,7 +50,7 @@ aka.ms/spfx-aces.  Thank you all for your contributions!   The host of
 this call is [David Warner II](https://twitter.com/DavidWarnerII)
 (Catapult Systems) @DavidWarnerII.  Live Q&A at end and in chat
 throughout this call.
-{{< image alt="210923-together-mode.gif" src="images/210923-together-mode.gif" >}}
+![210923-together-mode.gif](images/210923-together-mode.gif)
 Picture time is back!  Great to see all of you today.  Looking forward
 to seeing some of you in Düsseldorf or Las Vegas later this year. 
 

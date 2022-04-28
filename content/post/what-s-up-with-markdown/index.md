@@ -147,7 +147,7 @@ Images use almost the same syntax as hyperlinks except they begin with an exclam
 
 #### Result 
 
-> {{< image alt="hero-parker-p-800.png" src="images/hero-parker-p-800.png" >}}
+> ![hero-parker-p-800.png](images/hero-parker-p-800.png)
 
 In case you were wondering, you can combine this with the hyperlink like
 this:
@@ -160,7 +160,7 @@ this:
 
 #### Result
 
-> {{< image alt="hero-parker-p-800.png" src="images/hero-parker-p-800.png" >}}
+> ![hero-parker-p-800.png](images/hero-parker-p-800.png)
 
 ### 5. Paragraphs and line breaks
 

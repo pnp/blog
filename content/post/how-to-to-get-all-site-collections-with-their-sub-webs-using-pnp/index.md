@@ -67,7 +67,7 @@ AllSiteCollAndSubWebs
  
 ## Output
 
-{{< image alt="AllSCAndSCW.png" src="images/AllSCAndSCW.png" >}}
+![AllSCAndSCW.png](images/AllSCAndSCW.png)
  
 
 ## Summary

@@ -30,7 +30,7 @@ rescue. With CLI for Microsoft 365, there is a command via which you can
 get the complete sharing report which you will fetch the result
 something like below.
  
-{{< image alt="SP Permission Report - CLI.png" src="images/SP Permission Report - CLI.png" >}}
+![SP Permission Report - CLI.png](images/SP Permission Report - CLI.png)
 
  
 When you execute the command

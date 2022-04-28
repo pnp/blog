@@ -44,7 +44,7 @@ participating in this PnP Community during February. You are truly
 amazing.  The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call.
-{{< image alt="march-sp-monthly-together-mode.gif" src="images/march-sp-monthly-together-mode.gif" >}}
+![march-sp-monthly-together-mode.gif](images/march-sp-monthly-together-mode.gif)
 
 **Demo: Getting started with Microsoft Viva Topics** -- system and tools
 to help customers manage knowledge within their organizations through a

@@ -138,7 +138,7 @@ Samples: **([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 ## Together Mode!
 
-{{< image alt="PnP-Calls-TogetherMode-700W.gif" src="images/PnP-Calls-TogetherMode-700W.gif" >}}
+![PnP-Calls-TogetherMode-700W.gif](images/PnP-Calls-TogetherMode-700W.gif)
 [Together here during the holiday's because - why not?  Great seeing
 everyone today.  Happy holidays and new year to you and family. 
  ]

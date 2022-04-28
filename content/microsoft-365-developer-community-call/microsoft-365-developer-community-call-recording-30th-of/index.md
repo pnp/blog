@@ -157,7 +157,7 @@ call.
 
 ### Together mode
 
-{{< image alt="210930-together-mode.gif" src="images/210930-together-mode.gif" >}}
+![210930-together-mode.gif](images/210930-together-mode.gif)
 
 A fully packed room!  Waiting on the beginning of a new year where we
 will be able to get together in person again.

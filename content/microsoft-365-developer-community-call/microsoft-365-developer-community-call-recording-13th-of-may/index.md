@@ -79,7 +79,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     (Microsoft) |
     [sebastienlevert](https://github.com/sebastienlevert)
 
-{{< image alt="PnPCall-May13th-Small.gif" src="images/PnPCall-May13th-Small.gif" >}}
+![PnPCall-May13th-Small.gif](images/PnPCall-May13th-Small.gif)
 
 Great to see all the faces in the community.  Hopefully soon we will get
 to see each other in person.   

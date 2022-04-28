@@ -217,7 +217,7 @@ You have a lot of possibilities to make a working app look nice. The
 other way around, getting a nice-looking app to work is way more
 difficult.
 
-{{< image alt="Compare frontend and Backend" src="images/backend.png" >}}
+![Compare frontend and Backend](images/backend.png)
 
 
 ## 9. Give back to the community. Tell others, what and how you did it

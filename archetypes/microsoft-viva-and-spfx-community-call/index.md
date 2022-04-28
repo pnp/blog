@@ -53,7 +53,7 @@ SharePoint Framework (SPFx)|CURRENT VERSION|STATUS
 
 The host of this call is [NAME](https://twitter.com/TWITTER) (Microsoft) | @TWITER.  Q&A takes place as always in chat throughout the call.
 
-{{< image alt="A bunch of people smiling and waving" src="images/together-mode.gif" >}}
+![A bunch of people smiling and waving](images/together-mode.gif)
 
 Thank you for joining the call today and/or for viewing the recording.  Awesome to see many of you on the screen.
 

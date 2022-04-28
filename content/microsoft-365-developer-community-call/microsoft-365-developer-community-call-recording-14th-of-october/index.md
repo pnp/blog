@@ -134,7 +134,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 ## Together Mode!
 
-{{< image alt="211014-together-mode.gif" src="images/211014-together-mode.gif" >}}
+![211014-together-mode.gif](images/211014-together-mode.gif)
 
 Awesome to have you as part of this Community, please keep the feedback
 coming, see you again soon.      
