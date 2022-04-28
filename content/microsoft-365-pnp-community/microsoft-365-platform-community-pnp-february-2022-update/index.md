@@ -265,7 +265,7 @@ How to find what's relevant for you? Take advantage of our SharePoint Framework 
 
 ### Microsoft Teams community samples
 
-![thumbnail image 7 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update ](images/LuiseFreese_1-1644245510781.jpeg" >}}
+![thumbnail image 7 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update ](images/LuiseFreese_1-1644245510781.jpeg)
 
 These are samples which have been contributed on the community samples since last summary. We do welcome all Microsoft Teams samples to this gallery. They can be implemented using in any technology.
 
