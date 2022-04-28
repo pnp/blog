@@ -45,7 +45,7 @@ In order to change a filename, we will need to use SharePoint REST API, which is
 'FileLeafRef':'<your new filename goes here>'}
 ```
 
-> 💡 For the type, we are selecting the `ListItemEntityTypeFullName` property from the output of the previous action. You could also use **Parse JSON** action to obtain that value.
+> 💡 For the type, we are selecting the `ListItemEntityTypeFullName` property from the output of the previous action. This value is different for every library. You could also use **Parse JSON** action to obtain that value.
 
 ## Conclusion
 
