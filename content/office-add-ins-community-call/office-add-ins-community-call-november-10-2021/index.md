@@ -11,7 +11,7 @@ tags: []
 type: "regular"
 ---
 
-## {{< image alt="office-add-ins-Thumb-Nov.png" src="images/office-add-ins-Thumb-Nov.png" >}}
+## ![office-add-ins-Thumb-Nov.png](images/office-add-ins-Thumb-Nov.png)
 
 
 ## Call summary

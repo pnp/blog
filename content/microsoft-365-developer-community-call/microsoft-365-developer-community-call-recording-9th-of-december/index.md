@@ -117,7 +117,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 ## Together Mode!
 
-{{< image alt="211209-together-mode.gif" src="images/211209-together-mode.gif" >}}
+![211209-together-mode.gif](images/211209-together-mode.gif)
 The house is full!   Great seeing everyone today.   Coordinated stadium
 style wave rehearsals starting soon.   
 

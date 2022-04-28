@@ -39,7 +39,7 @@ v4.1.0 released March 20th.     There were eight **PnP SPFx web part
 samples** delivered last 2 weeks.  Great work!    The host of this call
 is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-{{< image alt="8th-april-together-mode.gif" src="images/8th-april-together-mode.gif" >}}
+![8th-april-together-mode.gif](images/8th-april-together-mode.gif)
  
 
 -   Register for both:

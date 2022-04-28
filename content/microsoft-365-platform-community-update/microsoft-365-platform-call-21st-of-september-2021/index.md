@@ -10,7 +10,7 @@ type: "regular"
 --- 
 
 
-{{< image alt="recording-21st-sep.png" src="images/recording-21st-sep.png" >}}
+![recording-21st-sep.png](images/recording-21st-sep.png)
  
 
 Microsoft 365 Platform Community Call - weekly community call recording
@@ -90,7 +90,7 @@ takes place in chat throughout the call.
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-{{< image alt="210921-together-mode.gif" src="images/210921-together-mode.gif" >}}
+![210921-together-mode.gif](images/210921-together-mode.gif)
 Together mode is back and the house is packed!   Great seeing
 everybody.   See you again soon.  
 **Program:**

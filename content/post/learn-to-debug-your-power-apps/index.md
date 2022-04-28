@@ -56,7 +56,7 @@ mess with the progress you've made so far.
 A duplicated screen is like an additional save game slot, just to make
 sure. If you break everything, you can always go back.  
 
-{{< image alt="" src="images/Picture1.png" >}} 
+![](images/Picture1.png) 
 
 ### 2. Use debug label
 
@@ -162,7 +162,7 @@ looking for. It can also be frustrating, when you keep adding the wrong
 elements to your function and that causes it to not work. It can be a
 serious source of errors.
 
-{{< image alt="Which label shows you variable and which is just some explanatory text? " src="images/Picture5.png" >}}
+![Which label shows you variable and which is just some explanatory text? ](images/Picture5.png)
 
 ### 8. Learn what the result view is
 
@@ -174,7 +174,7 @@ important views. The result view and the data type.
 By clicking on `Office365User` the formula bar shows you the original
 record with all elements.
 
-{{< image alt="If it's not showing at first, select  the little arrow next to the function." src="images/Picture6.png" >}}
+![If it's not showing at first, select  the little arrow next to the function.](images/Picture6.png)
 
 This way you can see, what kind of records are stored and what data you
 can work with.
@@ -191,7 +191,7 @@ needs a value to work. Here is a comparison between the `Now()` and
 the `Today()` function. The output looks similar, but it's different
 data types. **DateTime** is some else than **Date**.
 
-{{< image alt="" src="images/Picture9.png" >}}
+![](images/Picture9.png)
 
 The formula bar shows it to you, which might help you debugging your
 app and functions.
@@ -235,9 +235,9 @@ effort.
 
 Two labels for my most used colors
 
-{{< image alt="Fill value of the Rectangle_background" src="images/Picture12.png" >}}
+![Fill value of the Rectangle_background](images/Picture12.png)
 
-{{< image alt="Color value of the Icon_heart" src="images/Picture13.png" >}}
+![Color value of the Icon_heart](images/Picture13.png)
  
 
 Here you see the Fill and Color values, set by the labels we defined

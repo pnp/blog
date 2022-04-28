@@ -82,7 +82,7 @@ Samples:**<https://aka.ms/teams-samples>
 
  
 
-{{< image alt="210615-together-mode.gif" src="images/210615-together-mode.gif" >}}
+![210615-together-mode.gif](images/210615-together-mode.gif)
 
  
 

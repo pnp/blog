@@ -126,7 +126,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 ## Together Mode!
 
-{{< image alt="PnP-Calls-TogetherMode-800W.gif" src="images/PnP-Calls-TogetherMode-800W.gif" >}}
+![PnP-Calls-TogetherMode-800W.gif](images/PnP-Calls-TogetherMode-800W.gif)
 
 Picture time is back and it's a packed House!  Thank you for joining
 the PnP Community call today.   You're awesome!  

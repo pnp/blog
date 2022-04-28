@@ -105,7 +105,7 @@ live at end of the call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-{{< image alt="220118-together-mode.gif" src="images/220118-together-mode.gif" >}}
+![220118-together-mode.gif](images/220118-together-mode.gif)
 Thank you everybody for joining the call today.   Brilliant to see many
 familiar faces week after week
 

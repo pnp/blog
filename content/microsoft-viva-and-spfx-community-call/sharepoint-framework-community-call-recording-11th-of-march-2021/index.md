@@ -35,7 +35,7 @@ and **Reusable SPFx React Property Controls** -- v2.4.0 delivered. 
 useful!    The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-{{< image alt="PictureTime-OutsideInTheGreenAmphitheater.png" src="images/PictureTime-OutsideInTheGreenAmphitheater.png" >}}
+![PictureTime-OutsideInTheGreenAmphitheater.png](images/PictureTime-OutsideInTheGreenAmphitheater.png)
 
 ## Actions
 

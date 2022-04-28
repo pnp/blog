@@ -66,7 +66,7 @@ Move to the above-created directory using:
 Now execute the below command to create an SPFx solution:
      yo @microsoft/sharepoint 
 It will ask some questions, as shown below,
-{{< image alt="Project Setup.png" src="images/Project Setup.png" >}}
+![Project Setup.png](images/Project Setup.png)
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
     code .
@@ -80,7 +80,7 @@ Now we will install the following packages:
 ```
 
 In the end, our output will be like this,
-{{< image alt="Output.png" src="images/Output.png" >}}
+![Output.png](images/Output.png)
 
 After the successful installation, we will start our form
 implementation.
@@ -89,7 +89,7 @@ implementation.
 
 *SPService.ts* file inside **src/webparts/shared/service**
 In the end, our structure will be looks like this,
-{{< image alt="Project Structure.png" src="images/Project Structure.png" >}}
+![Project Structure.png](images/Project Structure.png)
 2.  Create a state interface as below inside **IReactFormikState.ts.**
  
 
@@ -465,7 +465,7 @@ Now test the webpart in SharePoint-SiteURL +
 
 ## Output 
 
-{{< image alt="SPFx-react-formik.gif" src="images/SPFx-react-formik.gif" >}}
+![SPFx-react-formik.gif](images/SPFx-react-formik.gif)
  
 
 Find here the [full source code

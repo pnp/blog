@@ -135,7 +135,7 @@ Samples](https://aka.ms/script-samples/getting-started)
 
 ## Together Mode!
 
-{{< image alt="220106-together-mode.gif" src="images/220106-together-mode.gif" >}}
+![220106-together-mode.gif](images/220106-together-mode.gif)
 
 Happy New Year!  Awesome to see everyone 170+ attendees in the call
 today.    Please keep the feedback coming.

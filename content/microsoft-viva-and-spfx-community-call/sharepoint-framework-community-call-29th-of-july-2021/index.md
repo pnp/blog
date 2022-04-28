@@ -45,7 +45,7 @@ There was 1 **PnP SPFx extension** and 4 **PnP web part samples**
 delivered in the last 2 weeks as well.  Nice work!    The host of this
 call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 | @mediocrebowler.  Q&A takes place in chat throughout the call.
-{{< image alt="PnP-Calls-TogetherMode-LowResolution.gif" src="images/PnP-Calls-TogetherMode-LowResolution.gif" >}}
+![PnP-Calls-TogetherMode-LowResolution.gif](images/PnP-Calls-TogetherMode-LowResolution.gif)
  
 
 Yep!  Nice wave action.  Great seeing you this week.  Looking forward to

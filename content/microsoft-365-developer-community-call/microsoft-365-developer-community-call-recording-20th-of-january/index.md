@@ -155,7 +155,7 @@ Blog: [Getting started with PnP Script Samples](https://aka.ms/script-samples/g
 
 ## Together Mode!
 
-{{< image alt="220120-together-mode.gif" src="images/220120-together-mode.gif" >}}
+![220120-together-mode.gif](images/220120-together-mode.gif)
 
 Thanks everyone for joining the call today.  You are an awesome
 community.   

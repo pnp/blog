@@ -50,7 +50,7 @@ delivered! Outstanding! Your contributions are greatly appreciated by
 many. The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler. Q&A takes place as always in chat throughout the call.
-{{< image alt="211104-together-mode.gif" src="images/211104-together-mode.gif" >}}
+![211104-together-mode.gif](images/211104-together-mode.gif)
 
 Great to see all of you today.  Looking forward to seeing some of you in
 Düsseldorf or in Las Vegas later this year.   

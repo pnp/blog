@@ -145,7 +145,7 @@ Then run the script with the **F5** command.
  
 ## Output 
  
-{{< image alt="OP.png" src="images/OP.png" >}}
+![OP.png](images/OP.png)
  
  
 After this check the CSV file at your base location.
