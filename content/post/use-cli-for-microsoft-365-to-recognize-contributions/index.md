@@ -5,7 +5,7 @@ author: "Albert-Jan Schot"
 githubname: appieschot
 categories: ["CLI for Microsoft 365"]
 images:
-
+- images/2021-07-29_17-51-58.png
 tags: []
 type: "trending"
 ---
