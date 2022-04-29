@@ -15,16 +15,16 @@ logo_text = "Microsoft 365 Community"
 menu_align = "center"
 
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "Microsoft 365 Community your community to share best practices and get the latest news on Microsoft 365"
 author = "Themefisher"
 # this image will be used as fallback if a page has no image of its own
 image = "images/logo.svg"
 
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
-# Go to https://formspree.io, and create an account by click on signup button. Now verify your email address by click on varify button in the mail you got in your inbox. form action will looks like this contact_form_action = "https://formspree.io/your.name@email.com/" 
+# Go to https://formspree.io, and create an account by click on signup button. Now verify your email address by click on varify button in the mail you got in your inbox. form action will looks like this contact_form_action = "https://formspree.io/your.name@email.com/"
 
-# custom script on header, example: custom_script= "<script>console.log("Hello World")</script>" 
+# custom script on header, example: custom_script= "<script>console.log("Hello World")</script>"
 custom_script= ""
 
 # search
