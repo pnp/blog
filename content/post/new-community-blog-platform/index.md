@@ -11,7 +11,7 @@ tags: []
 type: "epic"
 ---
 
-![Parker](images/parker-ms-300.png)
+
 
 ## Hello World
 
