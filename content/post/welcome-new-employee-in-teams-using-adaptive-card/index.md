@@ -5,7 +5,7 @@ author: "Shrusti Shah"
 categories: []
 images:
 - images/ShrushtiShah_0-1642687727071.png
-tags: []
+tags: ["Microsoft Teams", "Adaptive cards"]
 type: "regular"
 ---
 

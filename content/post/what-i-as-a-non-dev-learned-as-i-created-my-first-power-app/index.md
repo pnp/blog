@@ -8,6 +8,7 @@ githubname: MichaelRoth42
 description: I like to share my very own experiences while building my first canvas app. I have no tech background and at the beginning I thought that I could never do it.
 categories: ["Community post"]
 type: regular
+tags: ["Power Apps"]
 ---
 
 

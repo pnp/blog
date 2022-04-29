@@ -5,7 +5,7 @@ author: "Peter Paul Kirschner"
 categories: ["Community post"]
 images:
 - images/Screenshot 2021-03-22 at 21.42.06.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

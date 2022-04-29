@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/AzureCreateResource.png
-tags: []
+tags: ["Azure"]
 type: "regular"
 ---
 

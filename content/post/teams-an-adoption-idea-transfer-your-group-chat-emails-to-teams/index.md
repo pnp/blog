@@ -5,7 +5,7 @@ author: "Damo Bird 365"
 categories: ["Community post"]
 images:
 - images/DamoBird365_0-1619420006466.png
-tags: []
+tags: ["Microsoft Teams", "Adaptive cards", "Power Automate"]
 type: "regular"
 ---
 

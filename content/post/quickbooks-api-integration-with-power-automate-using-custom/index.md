@@ -6,7 +6,7 @@ githubname: siddharth-vaghasia
 categories: ["Community post"]
 images:
 - images/SiddharthVaghasia_0-1628135161016.png
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 

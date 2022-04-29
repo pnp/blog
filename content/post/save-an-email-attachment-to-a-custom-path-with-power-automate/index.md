@@ -6,7 +6,7 @@ githubname: DamoBird365
 categories: ["Community post"]
 images:
 - images/DamoBird365_0-1624209543175.png
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 
 ---

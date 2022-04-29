@@ -6,7 +6,7 @@ githubname: WaldekMastykarz
 categories: ["Community post"]
 images:
 - images/banner-mgt-login-single-tenant-azure-ad.png
-tags: []
+tags: ["Microsoft Graph toolkit"]
 type: "regular"
 ---
 When using Microsoft Graph Toolkit with Azure AD single-tenant Azure AD

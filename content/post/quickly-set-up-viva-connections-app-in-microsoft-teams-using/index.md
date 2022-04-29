@@ -5,7 +5,7 @@ author: "Shrusti Shah"
 categories: ["Community post"]
 images:
 - images/ShrushtiShah_7-1642505452452.png
-tags: []
+tags: ["Microsoft Teams"]
 type: "regular"
 summary: "In this article you can expect to quickly add your home site portal as Viva connection app right into your Microsoft Teams"
 ---

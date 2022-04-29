@@ -6,7 +6,7 @@ githubname: willholland
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Power Automate", SharePoint"]
 type: "regular"
 ---
 

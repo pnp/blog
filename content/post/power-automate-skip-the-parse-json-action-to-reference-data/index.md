@@ -6,7 +6,7 @@ githubname: m3ngi3
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 

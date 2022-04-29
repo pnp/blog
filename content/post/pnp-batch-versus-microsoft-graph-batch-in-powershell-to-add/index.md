@@ -5,7 +5,7 @@ author: "Reshmee Auckloo"
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["PnP PowerShell", "Microsoft Graph"]
 type: "regular"
 ---
 

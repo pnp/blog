@@ -6,7 +6,7 @@ githubname: michelcarlo
 categories: ["Community post"]
 images:
 - images/choices.PNG
-tags: []
+tags: ["SharePoint","List formatting"]
 type: "regular"
 ---
 

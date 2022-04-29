@@ -6,7 +6,7 @@ githubname: appieschot
 categories: ["Community post"]
 images:
 - images/edge-plugin.gif
-tags: []
+tags: ["Power Apps"]
 type: "regular"
 ---
 

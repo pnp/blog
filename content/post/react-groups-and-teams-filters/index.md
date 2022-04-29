@@ -6,7 +6,7 @@ githubname: ReactIntern
 categories: ["Community post"]
 images:
 - images/img1.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

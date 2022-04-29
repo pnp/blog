@@ -4,7 +4,7 @@ date: 2021-02-14T08:40:00-04:00
 author: "Toni Pohl"
 githubname: tonipohl
 categories: ["Community post"]
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 images: 
 - images/p6.png

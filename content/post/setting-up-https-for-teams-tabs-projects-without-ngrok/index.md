@@ -6,7 +6,7 @@ githubname: BobGerman
 categories: ["Community post"]
 images:
 - images/localhostcert.png
-tags: []
+tags: ["Microsoft Teams"]
 type: "regular"
 ---
 
