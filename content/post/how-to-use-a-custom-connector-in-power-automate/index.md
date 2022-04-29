@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/tweet.png
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 
