@@ -6,7 +6,7 @@ githubname: anandragav
 categories: ["Community post"]
 images:
 - images/AnandVRagav_0-1637611061380.png
-tags: ["SharePoint framework (SPFx), "List formatting", "SharePoint"]
+tags: ["SharePoint"]
 type: "regular"
 ---
 
