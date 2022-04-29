@@ -1,13 +1,17 @@
 ---
-title: "CLI for Microsoft 365 v5.2"
-date: 2022-04-29T10:00:00-00:00
-author: "Waldek Mastykarz"
+title: CLI for Microsoft 365 v5.2
+date: 2022-04-29T09:22:38.096Z
+author: Waldek Mastykarz
 githubname: waldekmastykarz
-categories: ["CLI for Microsoft 365"]
+categories:
+  - CLI for Microsoft 365
 images:
-- images/banner-cli-m365.png 
-tags: ["CLI for Microsoft 365","SharePoint", "SharePoint Framework (SPFx)"]
-type: "popular"
+  - images/banner-cli-m365.png
+tags:
+  - CLI for Microsoft 365
+  - SharePoint
+  - SharePoint Framework (SPFx)
+type: popular
 ---
 
 We've just published a new major version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 and SharePoint Framework projects on any platform.
