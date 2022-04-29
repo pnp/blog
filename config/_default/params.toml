@@ -15,7 +15,7 @@ logo_text = "Microsoft 365 Community"
 menu_align = "center"
 
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "Microsoft 365 Community your community to share best practices and get the latest news on Microsoft 365"
 author = "Themefisher"
 # this image will be used as fallback if a page has no image of its own
 image = "images/logo.svg"
