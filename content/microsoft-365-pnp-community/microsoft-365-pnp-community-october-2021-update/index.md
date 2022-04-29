@@ -585,7 +585,7 @@ component repository or download page.
 
 ## 🤩 Microsoft 365 PnP team model
 
-{{< image alt="pnp-community-model.png" src="images/pnp-community-model.png" >}}
+![pnp-community-model.png](images/pnp-community-model.png)
 In April 2020 we announced our new [Microsoft 365 PnP team
 model](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 and grew the MVP team quite significantly. PnP model exists for having
@@ -628,7 +628,7 @@ more.
 
 ## 🤩 Microsoft 365 PnP Recognition Program   
 
-{{< image alt="VesaJuvonen_0-1629736432373.png" src="images/VesaJuvonen_0-1629736432373.png" >}}
+![VesaJuvonen_0-1629736432373.png](images/VesaJuvonen_0-1629736432373.png)
 We are excited to announce new community contributor program for all the
 active community members. Through this program you can get officially
 acknowledged with the a [Credly
@@ -648,7 +648,7 @@ MVPs.
 
 ### 🦒 Microsoft Graph Toolkit 
 
-{{< image alt="graph-toolkit.jpg" src="images/graph-toolkit.jpg" >}}
+![graph-toolkit.jpg](images/graph-toolkit.jpg)
 
 Microsoft Graph Toolkit is engineering lead initiative, which works
 closely with the community on the open-source areas. The Microsoft Graph
@@ -675,7 +675,7 @@ latest community contributors.
 
 ### Microsoft 365 Community docs 
 
-{{< image alt="community-dcos.png" src="images/community-dcos.png" >}}
+![community-dcos.png](images/community-dcos.png)
 Community docs model was announced in the April 2020 and it's great to
 see the interest for community to help each other by providing new
 guidance on the non-dev areas. See more on the announcement from the
@@ -700,7 +700,7 @@ detailed.
 
 ### SharePoint Framework development samples 
 
-{{< image alt="spfx-gallery.png" src="images/spfx-gallery.png" >}}
+![spfx-gallery.png](images/spfx-gallery.png)
 
 These are the updated SharePoint Framework samples which are available
 from the the different repositories.
@@ -778,7 +778,7 @@ solutions which work in Microsoft Teams
 
 ### Microsoft Teams community samples 
 
-{{< image alt="teams-samples-promo.jpg" src="images/teams-samples-promo.jpg" >}}
+![teams-samples-promo.jpg](images/teams-samples-promo.jpg)
 These are samples which have been contributed on the community samples
 since last summary. We do welcome all Microsoft Teams samples to this
 gallery. They can be implemented using in any technology.
@@ -853,7 +853,7 @@ help.
 
 ### Microsoft 365 Script Samples
 
-{{< image alt="script-gallery.png" src="images/script-gallery.png" >}}
+![script-gallery.png](images/script-gallery.png)
 
 \
 We have released new Microsoft 365 Script Sample gallery within past
@@ -962,7 +962,7 @@ get started on getting more closely involved on this initiative. 
 
 ### Sharing is Caring initiative 
 
-{{< image alt="sharing-is-caring-promo-1024x576.png" src="images/sharing-is-caring-promo-1024x576.png" >}}
+![sharing-is-caring-promo-1024x576.png](images/sharing-is-caring-promo-1024x576.png)
 The "Sharing Is Caring" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
@@ -1965,7 +1965,7 @@ contributed from other companies during last month, but we did not get
 their logos and approval to show them in time for these communications.
 If you still want your logo for this month's release, please let us
 know and share the logo with us. Thx.
-{{< image alt="pnp-aug-companies.png" src="images/pnp-aug-companies.png" >}}
+![pnp-aug-companies.png](images/pnp-aug-companies.png)
 -   [Addin365](https://www.addin365.com/)
 -   [aequous](https://www.aequos.ca/)
 -   [Arvo Systems](https://www.arvosys.com/)

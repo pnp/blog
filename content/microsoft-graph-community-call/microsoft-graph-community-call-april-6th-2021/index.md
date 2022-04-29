@@ -16,7 +16,7 @@ Microsoft Graph Toolkit.
 
  
 
-{{< image alt="TitleSlidewithPhotos.png" src="images/TitleSlidewithPhotos.png" >}}
+![TitleSlidewithPhotos.png](images/TitleSlidewithPhotos.png)
 
  
 

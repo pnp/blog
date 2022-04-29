@@ -38,7 +38,7 @@ Now execute the below command to create an SPFx solution:
     yo @microsoft/sharepoint 
 It will ask some questions, as shown below,
 
-{{< image alt="Implementations.png" src="images/Implementations.png" >}}
+![Implementations.png](images/Implementations.png)
 
 Now install a Microsoft Graph toolkit React NPM package as below,
     npm i @microsoft/mgt-react
@@ -309,7 +309,7 @@ export default class ReactAzureadUsers extends React.Component<IReactAzureadUser
  
 ## Output 
 
-{{< image alt="react-ad-mgt-users.gif" src="images/react-ad-mgt-users.gif" >}}
+![react-ad-mgt-users.gif](images/react-ad-mgt-users.gif)
  
 
 Find the [full source

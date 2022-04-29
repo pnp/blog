@@ -50,7 +50,7 @@ When you have a later version, such as 14.5, already installed, it´s
 usually not required to uninstall this version. nvm finds that version
 and allows to use it with nvm.
 
-{{< image alt="p1.png" src="images/p1.png" >}}
+![p1.png](images/p1.png)
 
 Alternatively, when you have [chocolatey](https://chocolatey.org/)
 installed, you can run
@@ -61,7 +61,7 @@ choco uninstall nodejs -y
 
 (as I did on my machine to cleanup.)
 
-{{< image alt="p2.png" src="images/p2.png" >}}
+![p2.png](images/p2.png)
 
 You can install nvm from [Node Version Manager (nvm) for
 Windows](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows "https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows")
@@ -81,7 +81,7 @@ nvm ls
 should find no Node.js versions.
 
 
-{{< image alt="p3.png" src="images/p3.png" >}}
+![p3.png](images/p3.png)
 
 To see the latest Node.js versions check <https://nodejs.org/en/>, or
 simply run
@@ -90,7 +90,7 @@ simply run
 nvm ls available
 ```
 
-{{< image alt="List available Node.js versions" src="images/p4.png" >}}
+![List available Node.js versions](images/p4.png)
 
 Now, install the desired Node.js versions:
 
@@ -98,13 +98,13 @@ Now, install the desired Node.js versions:
 nvm install 10.23.0
 ```
 
-{{< image alt="p5.png" src="images/p5.png" >}}
+![p5.png](images/p5.png)
 
 ```bash
 nvm install 14.15.4
 ```
 
-{{< image alt="p6.png" src="images/p6.png" >}}
+![p6.png](images/p6.png)
 
 Etc. For the latest Node.js version, simply run
 
@@ -118,7 +118,7 @@ Now check the installed versions:
 nvm ls
 ```
 
-{{< image alt="p7.png" src="images/p7.png" >}}
+![p7.png](images/p7.png)
 
 You can now switch between versions with nvm. Use \<nvm version>, e.g.
 
@@ -153,7 +153,7 @@ nvm use 10.23.0
 npm install gulp yo @microsoft/generator-sharepoint --global
 ```
 
-{{< image alt="npm install" src="images/p8.png" >}}
+![npm install](images/p8.png)
 
 ## Create a new SPFx web part 
 
@@ -166,7 +166,7 @@ In a new directory, run
 yo @microsoft/sharepoint
 ```
 
-{{< image alt="Run yo" src="images/p9.png" >}}
+![Run yo](images/p9.png)
 
 You need to trust the development self-signed SSL certificate as
 described at [Trusting the self-signed developer
@@ -178,7 +178,7 @@ gulp trust-dev-cert
 ```
 
 
-{{< image alt="gulp trust-dev-cert" src="images/p10.png" >}}
+![gulp trust-dev-cert](images/p10.png)
 
 You can open Visual Studio Code now to modify the solution: *code .*
 
@@ -186,7 +186,7 @@ You can open Visual Studio Code now to modify the solution: *code .*
 
 The generated solution includes the sample app that can now be modified.
 
-{{< image alt="Coding\..." src="images/p11.png" >}}
+![Coding\...](images/p11.png)
 When done, let´s open the default browser with the gulp webserver:
 
 ```bash
@@ -198,7 +198,7 @@ This opens the SPFx workbench, in our sample at
 web part to the workbench page and test it.
 
 
-{{< image alt="Use the workbench to run the web part" src="images/p12.png" >}}
+![Use the workbench to run the web part](images/p12.png)
 
 **Tip:** When gulp serve is running, you can open your M365 tenant´s SPO
 site and use the custom web part with the data from SharePoint, too:

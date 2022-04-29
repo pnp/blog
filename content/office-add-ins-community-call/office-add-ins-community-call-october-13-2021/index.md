@@ -11,7 +11,7 @@ tags: []
 type: "regular"
 ---
 
-## {{< image alt="OctAdd-insRecordingThumb.png" src="images/OctAdd-insRecordingThumb.png" >}}
+## ![OctAdd-insRecordingThumb.png](images/OctAdd-insRecordingThumb.png)
 
 
 ## Call summary

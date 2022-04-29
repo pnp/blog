@@ -127,7 +127,7 @@ Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-{{< image alt="211109-together-mode.gif" src="images/211109-together-mode.gif" >}}
+![211109-together-mode.gif](images/211109-together-mode.gif)
 
 Thank you everybody (200+) for being part of this community call today. 
 Awesome to see everyone in the house.

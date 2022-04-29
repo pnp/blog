@@ -12,7 +12,7 @@ type: "regular"
 ---
 
 
-## {{< image alt="officeadd-ins.jpg" src="images/officeadd-ins.jpg" >}}
+## ![officeadd-ins.jpg](images/officeadd-ins.jpg)
 
 
 

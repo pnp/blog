@@ -16,7 +16,7 @@ A while back, I wrote about [How to use a custom connector in Power Automate](ht
 
 Now I stumbled upon a [really great blog post](https://www.loryanstrant.com/2021/09/16/how-to-display-the-currently-playing-spotify-track-as-your-teams-status-message/) by fellow MVP Loryan Strant who also used this Spotify connector to change the pinned message of your status in Microsoft Teams. To get the most value out of this post, go read Loryans post first- it is written with great clarity and also I love this guys' taste of music :musical_notes:! Also please understand his flow first. I love the idea and creativity! The result of such a flow looks like this:
 
-{{< image alt="Teams-status.png" src="images/Teams-status.png" >}}
+![Teams-status.png](images/Teams-status.png)
 
 While some would debate if this flow is necessary, I feel it shows that custom connectors are a great way to extend Microsoft 365. Also: #MusicWasMyFirstLove - case closed :)
 
@@ -24,7 +24,7 @@ However when reading this blog post, I saw some patterns that I often see in flo
 
 Loryan created 13 actions and as I seem to be just more lazy than he is, therefore I thinned out his awesome idea to just 5-6 actions: This is what it looks like:
 
-{{< image alt="flow-overview.png" src="images/flow-overview.png" >}}
+![flow-overview.png](images/flow-overview.png)
 
 The result is about the same - just that I display also a message if I am currently not listening to music (yes, this happens!)
 
@@ -36,7 +36,7 @@ To be successful with that, it is crucial to understand the JSON schema of the r
 
 a) copy the body of the output of that action, paste it into a code editor - I work with Visual Studio Code
 
-{{< image alt="flow-output.png" src="images/flow-output.png" >}}
+![flow-output.png](images/flow-output.png)
 
 
 b) we make sure that we select `JSON` as language - VS Code will then color everything nicely for us and highlight beginning and ends of objects for example
@@ -153,7 +153,7 @@ c) we have a look at the code. For the sake of better readability - this schema 
 
 d) look for the properties you are interested in - for example we want to if a song is playing right now - we will find the `is_playing` property, which will either return `true` or `false`, which makes it perfect to put this into our condition:
 
-{{< image alt="flow-condition.png" src="images/flow-condition.png" >}}
+![flow-condition.png](images/flow-condition.png)
 
 The expression is `outputs('Get_Current_Song')['body']['is_playing']`.
 

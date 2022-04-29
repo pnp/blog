@@ -150,7 +150,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 ## Together Mode!
 
-{{< image alt="211125-together-mode.gif" src="images/211125-together-mode.gif" >}}
+![211125-together-mode.gif](images/211125-together-mode.gif)
 Great seeing everyone today. See you at the [European Collaboration and
 Cloud Summit](https://collabsummit.eu/) in Düsseldorf, Germany or
 perhaps at the [Microsoft 365 Collaboration

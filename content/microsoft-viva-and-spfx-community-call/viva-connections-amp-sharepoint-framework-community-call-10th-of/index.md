@@ -50,7 +50,7 @@ SharePoint Framework (SPFx)|v1.14 GA, **v1.15 Beta**|v1.15 GA in June 2022
 
 The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
 
-{{< image alt="thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 10th of March, 2022 " src="images/220310-together-mode.gif" >}}
+![thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 10th of March, 2022 ](images/220310-together-mode.gif)
 
 Thank you for joining the call today and/or for viewing the recording.  Can anyone explain why seats in the middle are empty today?   You are not in an airplane.   Are the seats out of order?     
 

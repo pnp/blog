@@ -128,7 +128,7 @@ takes place in chat throughout the call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-{{< image alt="211019-together-mode.gif" src="images/211019-together-mode.gif" >}}
+![211019-together-mode.gif](images/211019-together-mode.gif)
 Thank you everybody for being part of the call today and for being a
 member of this community.       
 

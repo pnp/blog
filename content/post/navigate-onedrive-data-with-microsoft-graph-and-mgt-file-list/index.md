@@ -30,7 +30,7 @@ Site.
 Below a draw resuming the custom query's made and what control uses to
 retrieve associated folders and files from different locations.
 
-{{< image alt="MainCalls.png" src="images/MainCalls.png" >}}
+![MainCalls.png](images/MainCalls.png)
 
 ### How the Mgt-File-List Work 
 
@@ -128,7 +128,7 @@ features that were used in sample
 -   Filter by file extension
 -   Custom Theme styles 
 
-{{< image alt="SampleFileList.png" src="images/SampleFileList.png" >}}
+![SampleFileList.png](images/SampleFileList.png)
 
 ### Mgt provider and SharePointProvider 
 
@@ -322,7 +322,7 @@ const checkSearchDrive = (SearchQuery: string) => {
 Below the final result of the configuration of **Mgt-File-List** react
 controls:
 
-{{< image alt="OneDrivefinderSample3.gif" src="images/OneDrivefinderSample3.gif" >}}
+![OneDrivefinderSample3.gif](images/OneDrivefinderSample3.gif)
 
 Solution can be found in the *SharePoint Framework Client-Side Web Part
 Samples* - **OneDrive finder**:

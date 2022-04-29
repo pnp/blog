@@ -23,7 +23,7 @@ functionality, it's easy to forget:
 
 ## Outlook's solution: a well trodden path for many 
 
-{{< image alt="Flags in Outlook have been the bridge to emails and task management" src="images/Outlook Flags.png" >}}
+![Flags in Outlook have been the bridge to emails and task management](images/Outlook Flags.png)
  
 In Outlook, there are "flags" which can be set to remind yourself to
 take action for a particular email.
@@ -32,7 +32,7 @@ well seasoned **ToDo** and **Planner** user, you would still have to use
 the `Copy Link`{.sample} feature and paste that into the ToDo/Planner
 task, which can be quite tedious. 
 
-{{< image alt="Copy link to a Teams Channel message" src="images/Copy Link.png" >}}
+![Copy link to a Teams Channel message](images/Copy Link.png)
 
 Plus I entering a phase where I was forgetting that I had to respond to
 messages. Sometimes I ended up talking to Google (I use an Android
@@ -57,7 +57,7 @@ this flow will generate a reminder via the **Flow bot** at a certain
 number of *hours/minutes*, or at a *specified time* to remind you to
 take action for a message!
 
-{{< image alt="The reminder card we wish to send ourselves" src="images/Reminder_annotated.png" >}}
+![The reminder card we wish to send ourselves](images/Reminder_annotated.png)
 The beauty of this Flow is that it will give you **one-select access**
 back **to the conversation thread** within the team, or **back to the
 chat with a person** or a group of people. 
@@ -76,9 +76,9 @@ experience via adaptive cards rather than just the Flow bot.
 When I first saw the template provided by Microsoft, I thought: this is
 nice, but it's a bit too elementary with the fixed timeframes from the
 choice radio buttons:
-{{< image alt="Microsoft's own sample Flow" src="images/Followup.png" >}}
+![Microsoft's own sample Flow](images/Followup.png)
 
-{{< image alt="...is perhaps a bit too restrictive" src="images/MS.png" >}}
+![...is perhaps a bit too restrictive](images/MS.png)
 However, that was definitely a starting point. The sample Flow used an
 adaptive card (with some `Input.Choice`{.sample} options) and a
 **Delay** action. Why not take this further?
@@ -92,14 +92,14 @@ specific time:
 1.  One to **get user input** regarding when they'd like to be
     reminded\
 
-    {{< image alt="The reminder setting card can accept an hour/minute offset or absolute time as input" src="images/Set Reminder.png" >}}
+    ![The reminder setting card can accept an hour/minute offset or absolute time as input](images/Set Reminder.png)
 
 2.  One for the **reminder** itself:
 
-    {{< image alt="The reminder card itself, with links to the original message and chat with message author" src="images/Reminder.png" >}}
+    ![The reminder card itself, with links to the original message and chat with message author](images/Reminder.png)
 
 3.  Two other cards which are for **catching errors**:
-    {{< image alt="Cards reminding users of input error" src="images/Error Cards.png" >}}
+    ![Cards reminding users of input error](images/Error Cards.png)
 
 ## The Flow 
 
@@ -110,14 +110,14 @@ we extend the adaptive card by using an **Action.ToggleVisibility**
 button to show and hide parts of a card: the **relative time entry** and
 the **absolute time entry** containers, in blue and green respectively:
 
-{{< image alt="The reminder setting card, with an initially invisible container" src="images/Card Source.png" >}}
+![The reminder setting card, with an initially invisible container](images/Card Source.png)
 
 The **Change reminder type** button within the gray container is
 `Action.ToggleVisibility`{.sample} button that you can add from the card
 elements bar on the left of the adaptive card designer screen. The JSON
 code looks like this:
 
-{{< image alt="Action Toggle Visibility.png" src="images/Action Toggle Visibility.png" >}}
+![Action Toggle Visibility.png](images/Action Toggle Visibility.png)
 
 The action button targets the `section-hours`{.sample} (**blue**) and
 `section-absolute-time`{.sample} (**green**) containers - i.e. when
@@ -125,7 +125,7 @@ pressed, turns the visibility of `section-hours`{.sample} off and
 `section-absolute-time`{.sample} (as the respective `ids`{.sample} of
 the containers) on, and vice versa. The blue and green containers are
 never on at the same time.
-{{< image alt="The ID and initial visibility of the blue container" src="images/Container ID_annotated.png" >}}
+![The ID and initial visibility of the blue container](images/Container ID_annotated.png)
 
  [For the **Change reminder type **button to turn the **blue** and
 **green** containers on and off,
@@ -136,26 +136,26 @@ be ]
 -   *Unchecked*[ for the green
     container:]
 
-{{< image alt="The green container should initially be invisible" src="images/Container ID 2_annotated.png" >}}
+![The green container should initially be invisible](images/Container ID 2_annotated.png)
 
 Within the containers are also `Columnto house the
 fields side by side, just to make it look
 nice.
 
-{{< image alt="Use the ColumnSet to place fields and labels (as TextBlock) adjacent to each other" src="images/ColumnSet_annotated.png" >}}
+![Use the ColumnSet to place fields and labels (as TextBlock) adjacent to each other](images/ColumnSet_annotated.png)
 
  The fields also need `TextBlocks`{.sample} above them as their labels
 (until we get Adaptive Cards v1.3 in Teams), as well as having some of
 the parameters set properly:
 
-{{< image alt="Set some restrictions on the fields, and place TextBlocks above them as labels" src="images/Field_annotated.png" >}}
+![Set some restrictions on the fields, and place TextBlocks above them as labels](images/Field_annotated.png)
 
 [Finally, the ]**orange** [container just
 contains what to remind yourself of, and has
 an `Input.ChoiceSet `{.sample}][to
 provide the dropdown menu:]
 
-{{< image alt="Input.ChoiceSet for dropdown menu" src="images/What to remind_annotated.png" >}}
+![Input.ChoiceSet for dropdown menu](images/What to remind_annotated.png)
 Below is the complete JSON code for the adaptive card that captures the
 user input:
  
@@ -432,7 +432,7 @@ After some experimentation with the **For a selected message** trigger
 for Teams, it seems that there is a good amount of dynamic content that
 would be useful for the reminder card:
 
-{{< image alt="For a selected (Teams) message provides a lot of useful dynamic content" src="images/FSM.png" >}}
+![For a selected (Teams) message provides a lot of useful dynamic content](images/FSM.png)
 We will return to this card after looking at the upcoming sections after
 having a look at the actions which the flow will take.
 
@@ -440,7 +440,7 @@ having a look at the actions which the flow will take.
 
 Some variables are required to hold hold some of the data:
 
-{{< image alt="Some variables are required to hold the time information" src="images/z3019494_0-1620122846412.png" >}}
+![Some variables are required to hold the time information](images/z3019494_0-1620122846412.png)
 
 Then we get the user profiles of the *message sender* and the *person
 who initiated the flow: *interestingly, only the **AAD ID** is available
@@ -448,7 +448,7 @@ as dynamic content from the trigger, but thankfully the **Get user
 profile (V2)** action is able to handle this and return all of the
 information required:
 
-{{< image alt="z3019494_1-1620122926624.png" src="images/z3019494_1-1620122926624.png" >}}
+![z3019494_1-1620122926624.png](images/z3019494_1-1620122926624.png)
 
 ## 4. Check for *Chat* or *Channel* conversation message and what action to take 
 
@@ -458,7 +458,7 @@ with a simple check of whether the **team** dynamic content is
 `null`{.sample} or not (input `null`{.sample} as an expression, not
 dynamic content):
 
-{{< image alt="Check whether the message is in a Chat or Channel, and building the adaptive card to suit the occasion" src="images/z3019494_2-1620123065824.png" >}}
+![Check whether the message is in a Chat or Channel, and building the adaptive card to suit the occasion](images/z3019494_2-1620123065824.png)
  
 
 -   If the message is from a Team Channel, then the **List channels**
@@ -472,7 +472,7 @@ dynamic content):
 The **ActionToTake** variable is also populated after checking for
 whether it's been left blank, or one of the selections have been made:
 
-{{< image alt="Checking whether the ActionToTake choice has been set, and building the adaptive card brick to suit the input" src="images/z3019494_3-1620123467870.png" >}}
+![Checking whether the ActionToTake choice has been set, and building the adaptive card brick to suit the input](images/z3019494_3-1620123467870.png)
  
 
 ## 5. Time calculations, data types & error handling  
@@ -483,7 +483,7 @@ We quickly check whether either date or time entered is null or not, and
 if so, the user probably has inputted the hour/minute offset instead
 since that is the default:
 
-{{< image alt="Checking to see whether absolute or relative time delay has been inputted" src="images/z3019494_0-1620123654283.png" >}}
+![Checking to see whether absolute or relative time delay has been inputted](images/z3019494_0-1620123654283.png)
  
  
 
@@ -498,7 +498,7 @@ reminded:**
     the **MinutesToDelay** variable to a "0" or simply use the hours
     inputted.
 
-{{< image alt="z3019494_1-1620123840984.png" src="images/z3019494_1-1620123840984.png" >}}
+![z3019494_1-1620123840984.png](images/z3019494_1-1620123840984.png)
 
 Finally, the **TotalTimeDelay** is set to the following expression:
 
@@ -566,7 +566,7 @@ A lot more string processing is required!
         action would just cause it to continue full steam ahead instead
         of sitting there and waiting!)
 
-{{< image alt="Absolute time calculations: finding out the TotalTimeToDelay" src="images/Absolute Time Processing.png" >}}
+![Absolute time calculations: finding out the TotalTimeToDelay](images/Absolute Time Processing.png)
 **One final major condition block**: check to see if the user has set a
 date over 28 days (or 720 hours)
 We check the `TotalTimeToDelay `{.sample}variable and see how many days
@@ -579,7 +579,7 @@ let's just be a little more conservative and set that at 28 days, and
 throw an error if so. This will ensure no reminders (especially those
 over 30 days) are quietly dumped without the user's knowledge.
 
-{{< image alt="Double checking that the user has entered a date no further than 28 days out to ensure the flow doesn't time out" src="images/z3019494_0-1620126528730.png" >}}
+![Double checking that the user has entered a date no further than 28 days out to ensure the flow doesn't time out](images/z3019494_0-1620126528730.png)
  
 
 The adaptive card that reports the error if a user enters a date that is
@@ -740,7 +740,7 @@ greater than 28 days:
 
 ### 6. The *Delay* vs *Delay Until* action 
 
-{{< image alt="Setting the delay" src="images/z3019494_1-1620126674977.png" >}}
+![Setting the delay](images/z3019494_1-1620126674977.png)
 
 We are now ready to delay the flow!
 Initially there was a consideration to use the **Delay Until** action if
@@ -758,7 +758,7 @@ option.
 Two more **Compose** actions are required before we pop the reminder
 card out, namely:
 
-{{< image alt="z3019494_2-1620126836459.png" src="images/z3019494_2-1620126836459.png" >}}
+![z3019494_2-1620126836459.png](images/z3019494_2-1620126836459.png)
 Unfortunately if you wanted to insert the **Plain Text Message **dynamic
 content into the replace formula, you're almost out of luck. Here's
 where **Compose **comes to the rescue. The **Compose - PTM without
@@ -774,12 +774,12 @@ reminder card to spit the dummy with any double quotation marks.
 With the `TotalChannelBlock `{.sample}variable inserted into the
 appropriate location so that the correct information about the message
 is displayed to the user who initiated the flow:
-{{< image alt="z3019494_3-1620127059580.png" src="images/z3019494_3-1620127059580.png" >}}
+![z3019494_3-1620127059580.png](images/z3019494_3-1620127059580.png)
 
 \...and a summary at the bottom of the card (pop the **Show advanced
 options** open!) to ensure a summary is sent - especially useful if your
 smartwatch notifications rely on a summary of sorts:
-{{< image alt="z3019494_0-1620127122452.png" src="images/z3019494_0-1620127122452.png" >}}
+![z3019494_0-1620127122452.png](images/z3019494_0-1620127122452.png)
  
  
 ```json

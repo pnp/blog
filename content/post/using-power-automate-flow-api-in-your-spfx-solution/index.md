@@ -90,15 +90,15 @@ One thing worth mentioning is the authorization. Since This is not a standard _S
 
 Ok so lets run `gulp serve` and check out what we have will be hopefully working.
 
-{{< image alt="thumbnail image 2 of blog post titled Using Power Automate flow API in your SPFx solution " src="images/flow3.png" >}}
+![thumbnail image 2 of blog post titled Using Power Automate flow API in your SPFx solution ](images/flow3.png)
 
 Well ok so it turned out it doesn't !:facepalm:. That’s cool !:smile:. But what we see in the error message is an AuthError and that the admin needs to consent to use the application with ID… and so on so on. Ok lets try to extend permissions of this app. When we search for it in the AAD App registrations we will find the 'SharePoint Online Client Extensibility Web Application Principal'. Ok so lets try to add appropriate permissions to make it work. Lets add Flow Service: `Flows.Read.All` permissions to the app and consent to it.
 
-{{< image alt="thumbnail image 3 of blog post titled Using Power Automate flow API in your SPFx solution " src="images/flow8.png" >}}
+![thumbnail image 3 of blog post titled Using Power Automate flow API in your SPFx solution ](images/flow8.png)
 
 Ok this seems about right lets retry our solution and check it out now.
 
-{{< image alt="thumbnail image 4 of blog post titled Using Power Automate flow API in your SPFx solution " src="images/flow1.png" >}}
+![thumbnail image 4 of blog post titled Using Power Automate flow API in your SPFx solution ](images/flow1.png)
 
 Sweet it turns out it works 😀. That’s nice 🤩. As you may see as a result we got the list of active flows from current environment. That’s a good starting point to develop any functionality using this API in our SPFx solution.
 

@@ -17,10 +17,10 @@ created the News Ticker app. Basically, the app will show some news from
 a SharePoint list as a running text at the top of every modern page on
 the site. Below is how it looks:
  
-{{< image alt="News Ticker" src="images/react-application-news-ticker.gif" >}}
+![News Ticker](images/react-application-news-ticker.gif)
  
 Below is the data source:
-{{< image alt="Data Source List" src="images/2021-05-10 19_32_40-Window.png" >}}
+![Data Source List](images/2021-05-10 19_32_40-Window.png)
  
 You can find the full source code and how to install
 it [react-application-news-ticker](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-news-ticker).
@@ -37,7 +37,7 @@ provided by the SPFx Extension Application Customizer.
 You can find my implementation
 code [NewsTickerApplicationCustomizer](https://github.com/pnp/sp-dev-fx-extensions/blob/635f2cc96302b193ed9fbcfbc8789ffcca229748/samples/react-application-news-ticker/src/extensions/newsTicker/NewsTickerApplicationCustomizer.ts#L87 "GitHub link").
  
-{{< image alt="Render React Component" src="images/1.png" >}}
+![Render React Component](images/1.png)
  
 ### 2. Get data from SharePoint list based on View using PnP JS
 
@@ -57,7 +57,7 @@ JS](https://pnp.github.io/pnpjs/sp/). Below is my implementation:
 You can find my implementation
 code [react-application-news-ticker](https://github.com/pnp/sp-dev-fx-extensions/blob/a2f8ca83d13978835c5a7468c68a2a460bf58a50/samples/react-application-news-ticker/src/extensions/newsTicker/service/SpService.ts#L10).
  
-{{< image alt="Get Data Based on List View" src="images/2021-05-10 19_56_48-Window.png" >}}
+![Get Data Based on List View](images/2021-05-10 19_56_48-Window.png)
  
 ### 3. Use React third party component 
 
@@ -68,7 +68,7 @@ It's easy to add any React third party components to our SPFx project.
 You can find my implementation code
 [newsTicker](https://github.com/pnp/sp-dev-fx-extensions/blob/main/samples/react-application-news-ticker/src/extensions/newsTicker/components/NewsTicker.tsx).
  
-{{< image alt="Use Third Party Component" src="images/2021-05-10 20_28_27-Window.png" >}}
+![Use Third Party Component](images/2021-05-10 20_28_27-Window.png)
 
 Thanks for reading. Hope you find this article
 useful

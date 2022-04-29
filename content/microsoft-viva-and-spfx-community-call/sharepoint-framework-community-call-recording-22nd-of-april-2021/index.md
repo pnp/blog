@@ -44,7 +44,7 @@ Great work!    
 The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-{{< image alt="210422-spfx.gif" src="images/210422-spfx.gif" >}}
+![210422-spfx.gif](images/210422-spfx.gif)
 
 Jungle seating in a Pacific Northwest, Washington, US amphitheater! 
 Truly unique like this Community!
