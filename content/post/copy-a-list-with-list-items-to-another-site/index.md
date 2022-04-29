@@ -6,7 +6,7 @@ githubname: willholland
 categories: ["Community post"]
 images:
 - images/sad-mario.png
-tags: []
+tags: ["SharePoint", "PnP PowerShell"]
 type: "regular"
 ---
 

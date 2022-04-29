@@ -6,7 +6,7 @@ githubname: MichaelRoth42
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Power Apps", "Microsoft Teams"]
 type: "regular"
 ---
 

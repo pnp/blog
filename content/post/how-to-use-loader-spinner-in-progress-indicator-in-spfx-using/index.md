@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/spfx-loader.gif
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

@@ -6,7 +6,7 @@ githubname: LeonArmston
 categories: ["Community post"]
 images:
 - images/LeonArmston_2-1615045186651.png
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 

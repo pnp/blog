@@ -6,7 +6,7 @@ githubname: eemancini
 categories: ["Community post"]
 images:
 - images/eemancini_1-1613662523389.png
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
 

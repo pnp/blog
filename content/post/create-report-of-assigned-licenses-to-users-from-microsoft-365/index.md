@@ -6,13 +6,13 @@ githubname: dips365
 categories: ["Community post"]
 images:
 - images/Reports2.png
-tags: []
+tags: ["Power Automate", "Microsoft Graph"]
 type: "regular"
 ---
 
 ### Introduction 
 
-Power automate is a tool that enables you to implement queries without
+Power Automate is a tool that enables you to implement queries without
 knowing hardcore coding patterns. Microsoft Graph API is the universal
 endpoint for Microsoft 365 which give you the flexibility to access
 azure active directory resource through single endpoint using power

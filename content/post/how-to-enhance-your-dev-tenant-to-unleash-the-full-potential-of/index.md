@@ -6,7 +6,7 @@ githubname: MichaelRoth42
 categories: ["Community post"]
 images:
 - images/devtenant-micha.png
-tags: []
+tags: ["Power Automate", "Power Apps"]
 type: "regular"
 ---
 

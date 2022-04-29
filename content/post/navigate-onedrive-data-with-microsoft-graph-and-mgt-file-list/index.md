@@ -7,7 +7,7 @@ githubname: aaclage
 categories: ["Community post"]
 images:
 - images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_0-1637745741073.jpeg
-tags: []
+tags: ["Microsoft Graph toolkit"]
 type: "regular"
 ---
 

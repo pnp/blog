@@ -4,10 +4,10 @@ summary: "In this blog post I am going to cover: How to create an API with JavaS
 date: 2022-02-27T02:07:00-05:00
 author: "Luise Freese"
 githubname: "LuiseFreese"
-categories: []
+categories: ["Community post"]
 images: 
 - images/diagram.png
-tags: []
+tags: ["Azure", "Power Automate", "Power Apps"]
 type: "regular"
 ---
 

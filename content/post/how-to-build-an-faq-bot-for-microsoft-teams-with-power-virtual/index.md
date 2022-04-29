@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/walle.png
-tags: []
+tags: ["Power Virtual Agents", "Microsoft Teams"]
 type: "regular"
 ---
 

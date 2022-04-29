@@ -6,7 +6,7 @@ githubname: tposzytek
 categories: ["Community post"]
 images:
 - images/image-5.png
-tags: []
+tags: ["Adaptive cards", "Azure"]
 type: "regular"
 ---
 

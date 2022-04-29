@@ -3,8 +3,8 @@ title: "Getting started with PnP Script Samples"
 date: 2021-08-10T06:10:00-04:00
 author: "Paul Bullock"
 githubname: pkbullock
-categories: []
-tags: []
+categories: ["Community post"]
+tags: ["SharePoint"]
 type: "regular"
 ---
 

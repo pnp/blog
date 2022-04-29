@@ -6,7 +6,7 @@ author: "Shrusti Shah"
 categories: []
 images: 
 - images/ShrushtiShah_0-1643783152544.png
-tags: []
+tags: ["Microsoft Graph", "Power Automate"]
 type: "regular"
 ---
 

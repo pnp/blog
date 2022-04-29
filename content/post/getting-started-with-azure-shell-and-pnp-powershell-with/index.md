@@ -6,7 +6,7 @@ githubname: pkbullock
 categories: []
 images:
 - images/Azure Shell - First Welcome.png
-tags: []
+tags: ["Azure", "PnP PowerShell"]
 type: "regular"
 ---
 

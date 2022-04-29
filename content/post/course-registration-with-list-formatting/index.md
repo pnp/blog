@@ -6,7 +6,7 @@ githubname: expiscornovus
 categories: ["Community post"]
 images:
 - images/51695169286_ae7588984b_c.jpg
-tags: []
+tags: ["List formatting", "SharePoint", "PnP PowerShell"]
 type: "regular"
 ---
 

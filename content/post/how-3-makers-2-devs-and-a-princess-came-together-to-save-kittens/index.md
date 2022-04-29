@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/solution-overview.png
-tags: []
+tags: ["Power Automate", "Power Apps"]
 type: "regular"
 ---
 

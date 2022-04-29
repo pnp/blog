@@ -6,7 +6,7 @@ githubname: veskunopanen
 categories: ["Community post"]
 images:
 - images/image-13.png
-tags: []
+tags: ["Power Automate", "Microsoft Graph"]
 type: "regular"
 ---
  

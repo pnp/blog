@@ -6,7 +6,7 @@ githubname: TracyGH
 categories: ["Community post"]
 images:
 - images/Tracy_1-1627940128961.png
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 

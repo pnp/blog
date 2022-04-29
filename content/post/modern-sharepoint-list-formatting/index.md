@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/daniel-cheung-zky0BmMT5m8-unsplash.jpg
-tags: []
+tags: ["SharePoint", "List formatting"]
 type: "regular"
 
 ---

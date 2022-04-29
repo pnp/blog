@@ -6,7 +6,7 @@ githubname: mhomol
 categories: ["Community post"]
 images:
 - images/diff-screencap.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

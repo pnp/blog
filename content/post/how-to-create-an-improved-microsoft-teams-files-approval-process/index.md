@@ -6,7 +6,7 @@ githubname: veskunopanen
 categories: ["Community post"]
 images:
 - images/2021-02-10_22-02-47.png
-tags: []
+tags: ["Azure", "Azure Logic Apps", "Microsoft Teams"]
 type: "regular"
 ---
 

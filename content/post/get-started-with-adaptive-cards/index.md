@@ -6,7 +6,7 @@ githubname: tposzytek
 categories: ["Community post"]
 images:
 - images/TomaszPoszytek_0-1610369598416.png
-tags: []
+tags: ["Adaptive cards"]
 type: "regular"
 ---
 

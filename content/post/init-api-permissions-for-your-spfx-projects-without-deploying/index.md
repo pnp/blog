@@ -6,7 +6,7 @@ githubname: michaelmaillot
 categories: ["Community post"]
 images:
 - images/peoplepicker-ui-fail.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

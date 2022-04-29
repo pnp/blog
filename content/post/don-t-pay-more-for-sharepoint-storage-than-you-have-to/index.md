@@ -2,10 +2,11 @@
 title: "Don't pay more for SharePoint Storage than you have to :-)"
 date: 2022-02-03T12:35:00-05:00
 author: "Kasper Bo Larsen"
-categories: []
+githubname: kasperbolarsen
+categories: ["Community post"]
 images:
 - images/VersionHistory.png
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
 

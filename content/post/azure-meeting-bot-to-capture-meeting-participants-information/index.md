@@ -6,7 +6,7 @@ githubname: siddharth-vaghasia
 categories: ["Community post"]
 images:
 - images/SiddharthVaghasia_0-1630435722443.png
-tags: []
+tags: ["Microsoft Teams", "Azure"]
 type: "regular"
 ---
 

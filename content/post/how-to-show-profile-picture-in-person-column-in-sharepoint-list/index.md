@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/22.png
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
 

@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/list-pa.png
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 

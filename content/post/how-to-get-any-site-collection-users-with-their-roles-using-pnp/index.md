@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/UserRolesOP.png
-tags: []
+tags: ["SharePoint", "PnP PowerShell"]
 type: "regular"
 ---
 

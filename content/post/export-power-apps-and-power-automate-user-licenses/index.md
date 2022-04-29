@@ -6,7 +6,7 @@ githubname: yhabersaat
 categories: ["Community post"]
 images:
 - images/power-platform-licenses.png
-tags: []
+tags: ["Power Apps", "Power Automate"]
 type: "regular"
 ---
 

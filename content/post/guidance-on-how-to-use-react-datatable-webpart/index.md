@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: []
 images:
 - images/ChandaniPrajapati.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

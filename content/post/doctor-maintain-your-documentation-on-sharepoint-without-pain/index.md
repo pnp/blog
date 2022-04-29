@@ -7,7 +7,7 @@ githubname: estruyf
 categories: ["Community post"]
 images:
 - images/doctor1.png
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 

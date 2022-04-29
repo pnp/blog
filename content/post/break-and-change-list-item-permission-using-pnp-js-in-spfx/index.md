@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/FirstOP.png
-tags: []
+tags: ["PnPjs", "SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

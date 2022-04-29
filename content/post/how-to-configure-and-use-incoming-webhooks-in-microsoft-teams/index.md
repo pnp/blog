@@ -6,7 +6,7 @@ githubname: rabwill
 categories: ["Community post"]
 images: 
 - images/connector-select.png
-tags: []
+tags: ["Microsoft Teams"]
 type: "regular"
 ---
 

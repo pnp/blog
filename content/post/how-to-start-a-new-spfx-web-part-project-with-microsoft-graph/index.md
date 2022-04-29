@@ -6,7 +6,7 @@ githubname: yhabersaat
 categories: ["Community post"]
 images:
 - images/mgt-react-result-2.png
-tags: []
+tags: ["SharePoint framework (SPFx)", "Microsoft Graph tookit"]
 type: "regular"
 ---
 

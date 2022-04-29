@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/LuiseFreese_12-1629042402697.png
-tags: []
+tags: ["Adaptive cards"]
 type: "regular"
 ---
 

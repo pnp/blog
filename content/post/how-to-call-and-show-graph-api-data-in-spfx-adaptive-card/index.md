@@ -7,7 +7,7 @@ githubname: "siddharth-vaghasia"
 categories: []
 images:
 - images/img_61d1fb4343467.png
-tags: ["Adaptive Card Extensions", "API data","SharePoint Framework (SPFx)"]
+tags: ["Adaptive card extensions", "API data","SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
