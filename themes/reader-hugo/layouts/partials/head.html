@@ -18,7 +18,7 @@
 
 <!-- mobile responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
-<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 {{ with site.Params.author }}
 <meta name="author" content="{{ . }}">{{ end }}
 {{ hugo.Generator }}
