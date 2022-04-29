@@ -6,7 +6,7 @@ githubname: aghyyy
 categories: ["Community post"]
 images:
 - images/pnp-modern-search-sharepoint-app-catalog-01-1024x834.png
-tags: []
+tags: ["PnP Modern Search", "SharePoint"]
 type: "regular"
 ---
 

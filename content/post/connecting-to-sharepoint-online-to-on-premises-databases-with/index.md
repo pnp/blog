@@ -4,7 +4,7 @@ date: 2021-10-18T04:08:00-04:00
 author: "Simon Doy"
 githubname: SimonDoy
 categories: ["Community post"]
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

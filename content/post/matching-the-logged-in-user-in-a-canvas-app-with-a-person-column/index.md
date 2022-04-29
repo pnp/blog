@@ -6,7 +6,7 @@ githubname: CarmenYsewijn
 categories: ["Community post"]
 images:
 - images/Hermione-IconVisible.png
-tags: []
+tags: ["Power Apps", "SharePoint"]
 type: "regular"
 ---
 

@@ -6,7 +6,7 @@ githubname: SamC148
 categories: ["Community post"]
 images:
 - images/updateFAQgif.gif
-tags: []
+tags: ["SharePoint", "SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

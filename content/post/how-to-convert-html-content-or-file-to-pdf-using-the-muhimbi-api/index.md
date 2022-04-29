@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/ChandaniPrajapati_0-1639758794000.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

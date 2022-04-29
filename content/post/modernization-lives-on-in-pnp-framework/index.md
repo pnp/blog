@@ -5,7 +5,7 @@ author: "Paul Bullock"
 githubname: pkbullock
 categories: ["Community post"]
 images: []
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
 Using the Modernization tooling, classic SharePoint pages can be

@@ -6,7 +6,7 @@ githubname: arjunumenon
 categories: ["CLI For Microsoft 365"]
 images:
 - images/ArjunMenon_0-1634207520847.jpeg
-tags: []
+tags: ["CLI for Microsoft 365", "Azure"]
 type: "regular"
 ---
 

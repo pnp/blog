@@ -1,12 +1,12 @@
 ---
-title: "Getting started with graph API in SPFx webpart"
+title: "Getting started with Graph API in SPFx webpart"
 date: 2021-06-03T03:59:00-04:00
 author: "Chandani Prajapati"
 githubname: chandaniprajapati
-categories: []
+categories: ["Community post"]
 images:
 - images/Permssions.png
-tags: []
+tags: ["Microsoft Graph", "SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

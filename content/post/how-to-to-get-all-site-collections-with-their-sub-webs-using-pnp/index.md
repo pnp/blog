@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/AllSCAndSCW.png
-tags: []
+tags: ["PnP PowerShell", "SharePoint"]
 type: "regular"
 ---
 

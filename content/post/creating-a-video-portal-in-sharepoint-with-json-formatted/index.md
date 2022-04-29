@@ -6,7 +6,7 @@ githubname: anandragav
 categories: ["Community post"]
 images:
 - images/AnandVRagav_1-1638227104052.png
-tags: []
+tags: ["SharePoint", "List formatting"]
 type: "regular"
 ---
 

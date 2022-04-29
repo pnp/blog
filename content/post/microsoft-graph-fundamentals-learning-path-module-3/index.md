@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/GraphFun-image.png
-tags: []
+tags: ["Microsoft Graph"]
 type: "regular"
 ---
 

@@ -7,7 +7,7 @@ githubname: estruyf
 categories: ["Community post"]
 images:
 - images/how-it-works.gif
-tags: []
+tags: ["Microsoft Graph"]
 type: "regular"
 ---
 

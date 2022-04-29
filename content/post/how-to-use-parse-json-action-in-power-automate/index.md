@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/parsejson-SPList.png
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 

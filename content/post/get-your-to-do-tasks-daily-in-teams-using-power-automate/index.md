@@ -6,7 +6,7 @@ githubname: LeeFord
 categories: []
 images:
 - images/Teams.png
-tags: []
+tags: ["Microsoft Teams", "Power Automate"]
 type: "regular"
 ---
 

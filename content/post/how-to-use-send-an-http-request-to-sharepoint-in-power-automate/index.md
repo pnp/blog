@@ -4,7 +4,7 @@ date: 2021-06-15T01:50:00-04:00
 author: "Chandani Prajapati"
 githubname: chandaniprajapati
 categories: ["Community post"]
-tags: []
+tags: ["SharePoint", "Power Automate"]
 type: "regular"
 ---
 

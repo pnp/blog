@@ -6,7 +6,7 @@ githubname: arjunumenon
 categories: []
 images:
 - images/SP Permission Report - CLI.png
-tags: []
+tags: ["CLI for Microsoft 365", "SharePoint"]
 type: "regular"
 ---
 

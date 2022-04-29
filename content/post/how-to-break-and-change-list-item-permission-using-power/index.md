@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/Step2.png
-tags: []
+tags: ["Power Automate", "SharePoint"]
 type: "regular"
 ---
 

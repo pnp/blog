@@ -6,7 +6,7 @@ githubname: YannickRe
 categories: ["Community post"]
 images:
 - images/image.png
-tags: []
+tags: ["Microsoft Teams", "Azure AD"]
 type: "regular"
 ---
 I love Microsoft Teams and I also love controlling my online appearance,

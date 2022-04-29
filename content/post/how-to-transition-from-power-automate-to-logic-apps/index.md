@@ -4,7 +4,7 @@ date: 2021-01-12T12:07:00-05:00
 author: "Paul Bullock"
 githubname: pkbullock
 categories: ["Community post"]
-tags: []
+tags: ["Power Automate", "Azure Logic Apps"]
 type: "regular"
 ---
 

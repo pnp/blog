@@ -5,8 +5,8 @@ author: "Simon Hudson"
 githubname: SimonJHudson
 categories: ["Community post"]
 images:
-- images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png
-tags: []
+- images/Account.png
+tags: ["Azure AD", "SharePoint"]
 type: "regular"
 ---
 

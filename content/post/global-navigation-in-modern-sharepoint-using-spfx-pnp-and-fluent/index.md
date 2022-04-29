@@ -6,7 +6,7 @@ githubname: dips365
 categories: []
 images:
 - images/GN3.jpg
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

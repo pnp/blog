@@ -6,7 +6,7 @@ githubname: mpaukkon
 categories: ["Community post"]
 images: 
 - images/ask-away-app.png
-tags: []
+tags: ["Microsoft Teams"]
 type: "regular"
 ---
 

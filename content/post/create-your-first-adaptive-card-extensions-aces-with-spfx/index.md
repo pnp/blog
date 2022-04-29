@@ -4,7 +4,7 @@ summary: "In this article, we will learn how to extend your Viva Connections wit
 date: 2022-01-26T06:24:00-05:00
 author: "Siddharth Vaghasia"
 githubname: "siddharth-vaghasia"
-categories: []
+categories: ["Community post"]
 images:
 - images/img_61cbfcc5a7e38-1024x369.png
 tags: ["Adaptive Card Extensions", "SharePoint Framework (SPFx)"]

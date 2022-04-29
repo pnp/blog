@@ -6,7 +6,7 @@ githubname: dips365
 categories: ["Community post"]
 images:
 - images/Flow2.jpg
-tags: []
+tags: ["Power Automate", "SharePoint"]
 type: "regular"
 ---
 

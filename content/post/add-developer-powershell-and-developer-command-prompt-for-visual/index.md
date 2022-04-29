@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/image.png
 
-tags: []
+tags: ["PowerShell"]
 type: "regular"
 ---
 

@@ -6,7 +6,7 @@ githubname: yhabersaat
 categories: ["Community post"]
 images:
 - images/web-part-width.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

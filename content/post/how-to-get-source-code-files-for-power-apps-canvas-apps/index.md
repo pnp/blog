@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/PASopa-folder.png
-tags: []
+tags: ["Power Apps"]
 type: "regular"
 ---
 

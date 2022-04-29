@@ -6,7 +6,7 @@ githubname: michelcarlo
 categories: []
 images:
 - images/01_Mysettings.PNG
-tags: []
+tags: ["Microsoft Graph"]
 type: "regular"
 ---
 

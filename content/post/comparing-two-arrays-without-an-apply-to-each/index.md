@@ -5,7 +5,7 @@ author: "Damo Bird 365"
 categories: []
 images:
 - images/DamoBird365_0-1644836389622.png
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 summary: "I have two arrays in Power Automate, whilst very similar in structure (key/value pairs) the unique ID for both arrays is named differently (id vs PersonId) but I want to compare both and return only those that do not appear in the Array 1."
 ---

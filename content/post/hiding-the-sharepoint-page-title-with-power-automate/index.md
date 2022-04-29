@@ -6,7 +6,7 @@ githubname: michelcarlo
 categories: ["Community post"]
 images:
 - images/page-title.png
-tags: []
+tags: ["SharePoint", "Power Automate"]
 type: "regular"
 ---
 

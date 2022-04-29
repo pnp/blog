@@ -6,7 +6,7 @@ githubname: dips365
 categories: ["Community post"]
 images:
 - images/People1.jpg
-tags: []
+tags: ["SharePoint framework (SPFx)", "Adaptive card extensions", "Microsoft Graph"]
 type: "regular"
 ---
 

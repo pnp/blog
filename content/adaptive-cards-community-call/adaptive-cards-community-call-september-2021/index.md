@@ -6,7 +6,7 @@ githubname: JeanRoca
 categories: ["Adaptive Cards community call"]
 images:
 - images/900x506-AC-SeptemberThumb.png
-tags: []
+tags: ["Adaptive Cards"]
 type: "regular"
 ---
 

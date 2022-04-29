@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/Implementations.png
-tags: []
+tags: ["SharePoint framework (SPFx)", "Microsoft Graph toolkit"]
 type: "regular"
 ---
 

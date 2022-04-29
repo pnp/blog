@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg
-tags: []
+tags: ["CLI for Microsoft 365", "Adaptive Cards"]
 type: "regular"
 ---
 
