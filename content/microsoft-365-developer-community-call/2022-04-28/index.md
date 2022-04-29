@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 & Power Platform Development Community call - 28th of April, 2022"
-date: 2022-04-28T12:33:00-04:00
+date: 2022-04-28T02:02:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call"]
