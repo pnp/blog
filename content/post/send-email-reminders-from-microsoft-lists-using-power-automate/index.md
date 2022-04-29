@@ -6,7 +6,7 @@ githubname: nyoung30
 categories: ["Community post"]
 images:
 - images/issuetracker01.png
-tags: []
+tags: ["Power Automate", "Microsoft Lists"]
 type: "regular"
 summary: "In this blog post, I will show how to send email reminders for Microsoft Lists items based on a date column using Power Automate. "
 ---

@@ -6,7 +6,7 @@ githubname: WaldekMastykarz
 categories: ["Community post"]
 images:
 - images/teams-hero.png
-tags: []
+tags: ["Microsoft Teams"]
 type: "trending"
 
 

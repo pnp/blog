@@ -12,7 +12,7 @@ description: "During my SP consultant/dev work I most of the times used the last
 summary: "During my SP consultant/dev work I most of the times used the last two. From time to time I got the question: which one is better?"
 # Taxonomies
 categories: ["Community post"]
-tags: []
+tags: ["CLI for Microsoft 365", "PnP PowerShell"]
 type: "regular" # available type (epic, trending, popular, or regular)
 
 ---

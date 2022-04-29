@@ -6,7 +6,7 @@ githubname: Marijnsomers
 categories: ["Community post"]
 images:
 - images/MS-list.png
-tags: []
+tags: ["PnP PowerShell"]
 type: "regular"
 ---
 As a non-developer (please read this as a disclaimer) I still try to

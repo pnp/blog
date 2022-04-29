@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/TeansResult.png
-tags: []
+tags: ["Microsoft Teams", "Dataverse", "Azure", "Power Apps"]
 type: "regular"
 ---
 

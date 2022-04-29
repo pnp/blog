@@ -6,7 +6,7 @@ githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 images:
 - images/garrytrinder_0-1615630685864.png
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 
 ---

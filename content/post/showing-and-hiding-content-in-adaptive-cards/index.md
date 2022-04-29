@@ -4,10 +4,10 @@ summary: "In Adaptive Cards there are multiple ways to show and hide content dep
 date: 2022-02-09T03:31:00-05:00
 author: "Tomasz Poszytek"
 githubname: "tposzytek"
-categories: []
+categories: ["Community post"]
 images:
 - images/image.png
-tags: ["Adaptive Cards", ]
+tags: ["Adaptive Cards"]
 type: "regular"
 ---
 

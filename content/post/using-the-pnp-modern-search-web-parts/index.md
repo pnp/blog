@@ -6,7 +6,7 @@ githubname: willholland
 categories: ["Community post"]
 images:
 - images/16-final.png
-tags: []
+tags: ["SharePoint framework (SPFx)", "PnP Modern Search"]
 type: "regular"
 ---
 

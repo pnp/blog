@@ -6,7 +6,7 @@ githubname: appieschot
 categories: ["CLI for Microsoft 365"]
 images:
 - images/team-champion-script.png
-tags: []
+tags: ["CLI Microsoft 365", "Microsoft Teams"]
 type: "regular"
 ---
 

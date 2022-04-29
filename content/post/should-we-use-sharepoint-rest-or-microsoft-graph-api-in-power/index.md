@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/hello-i-m-nik-n1ccr-zVG68-unsplash.jpg
-tags: []
+tags: ["Microsoft Graph", "SharePoint"]
 type: "regular"
 ---
 

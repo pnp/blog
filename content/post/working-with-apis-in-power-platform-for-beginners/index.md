@@ -6,7 +6,7 @@ githubname: MichaelRoth42
 categories: ["Community post"]
 images:
 - images/HTTPrequest.png
-tags: []
+tags: ["Power Apps", "Power Automate"]
 type: "regular"
 ---
 

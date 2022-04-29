@@ -5,7 +5,7 @@ author: "Chandani Prajapati"
 categories: ["Community post"]
 images:
 - images/Output.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 

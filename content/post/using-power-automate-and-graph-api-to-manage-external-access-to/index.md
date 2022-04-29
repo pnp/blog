@@ -6,7 +6,7 @@ githubname: LinkeD365
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Microsoft Graph", "Power Automate", "Microsoft Teams"]
 type: "regular"
 ---
 

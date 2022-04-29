@@ -6,7 +6,7 @@ githubname: m3ngi3
 categories: ["Community post"]
 images:
 - images/PowerApps_Page_Unresponsive.png
-tags: []
+tags: ["Power Apps"]
 type: "regular"
 ---
 

@@ -6,7 +6,7 @@ githubname: veskunopanen
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Power Virtual Agents"]
 type: "regular"
 ---
 

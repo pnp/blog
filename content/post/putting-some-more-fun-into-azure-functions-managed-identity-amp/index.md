@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Microsoft Graph", "Azure"]
 type: "regular"
 
 ---

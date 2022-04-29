@@ -6,7 +6,7 @@ githubname: ganesh-sanap
 categories: ["Community post"]
 images:
 - images/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
 

@@ -6,7 +6,7 @@ githubname: CameronDwyer
 categories: ["Community post"]
 images:
 - images/image.png
-tags: []
+tags: ["Microsoft Graph"]
 type: "regular"
 ---
 

@@ -5,7 +5,7 @@ author: "Michael Maillot"
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["PnP PowerShell"]
 type: "regular"
 ---
 
