@@ -51,7 +51,7 @@ To have this experience in Visual Studio Code, complete the following steps:
 
 ```ps1
 Import-Module posh-git
-Set-PoshPrompt -Theme M365Princess
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\M365Princess.omp.json" | Invoke-Expression
 ```
 
 3. Install a font 
