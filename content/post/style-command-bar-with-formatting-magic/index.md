@@ -1,6 +1,6 @@
 ---
 title: "Style your command bar with formatting magic"
-date: 2022-04-29T10:00:00-00:00
+date: 2022-05-01T10:00:00-00:00
 author: "Jasey Waegebaert"
 githubname: jwaegebaert
 categories: ["Community post"]
