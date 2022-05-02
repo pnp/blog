@@ -4,6 +4,7 @@ title = "Microsoft 365 Community Blog"
 
 # Set content editor
 newContentEditor = "code"
+timeout = 60000
 
 [frontmatter]
 date = ['date', 'publishDate', 'lastmod']
