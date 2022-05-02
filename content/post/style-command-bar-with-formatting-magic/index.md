@@ -18,7 +18,7 @@ A little background story about this article. For a customer, I was working on a
 
 The way I usually apply this is to implement some CSS logic. Here you can already start applying a lot of logic within the command bar but you also run into a whole bunch of limitations. Within SPFx, I personally use Sass. This makes it a bit easier to write CSS but that aside. 
 
-``` css 
+```css 
 :global {
   button[name='Upload'], 
   button[name='Share'] {
@@ -152,5 +152,5 @@ For myself, this opens a lot of new doors with possibilities towards the formatt
 
 Some useful additional resources:
 
-- [Use view formatting to customize SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting)
-- [Command bar customization syntax reference](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-commandbar-formatting)
+- [Use view formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting)
+- [Command bar customization syntax reference](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-commandbar-formatting)
