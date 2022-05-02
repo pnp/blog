@@ -6,7 +6,7 @@ githubname: jwaegebaert
 categories: ["Community post"]
 images:
 - images/preview.png 
-tags: []
+tags: ["SharePoint", "List formatting"]
 type: "regular"
 ---
 
@@ -80,6 +80,7 @@ With this new knowledge, I started testing the possibilities and a lot of new us
   }
 }
 ```
+
 Here you will notice a lot of new information but it's pretty straightforward. Within view formatting, we have now been given the ability to start customizing the `commandBarProps`. Here you start by selecting a key. This then refers to one of the action buttons you want to change the properties of. 
 
 > To make a quick comparison with the other approaches we discussed. If your site suddenly changes to another language, this key will still relate to the correct button.
