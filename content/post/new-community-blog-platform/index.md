@@ -27,7 +27,7 @@ Let us introduce our new Microsoft 365 platform community blog to you! After a y
 * We will publish new articles including Community Call recording blogs, podcast blogs, monthly updates only here
 * The Tech Community hub will retire - we won't accept new content there anymore
 
-If you don't feel comfortable using GitHub, please sign up for an interactive training on how to contribute in our [Sharing Is Caring](https://aka.ms/sharing-is-caring) initiative
+If you don't feel comfortable using GitHub, please sign up for an interactive training on how to contribute in our [Sharing Is Caring](https://aka.ms/sharing-is-caring) initiative.
 
 
 ## What won't change
