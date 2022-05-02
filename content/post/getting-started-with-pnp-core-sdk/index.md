@@ -3,8 +3,8 @@ title: "Getting started with PnP Core SDK"
 date: 2021-03-15T01:55:00-04:00
 author: "Paul Bullock"
 githubname: pkbullock
-categories: []
-tags: []
+categories: ["Community post"]
+tags: ["PnP Core SDK"]
 type: "regular"
 ---
 
@@ -112,7 +112,7 @@ going, this blog is using Visual Studio 2019, version V16.9.
  
 In Visual Studio, create a new C# Console Application (.NET core),
  
-{{< image alt="Create a new visual studio project" src="images/Create a new project.png" >}}
+![Create a new visual studio project](images/Create a new project.png)
 
 (Note: I have filtered the list using the dropdowns to find the project
 type quickly)
@@ -122,7 +122,7 @@ discretion,
 
 Under additional information, please select .NET 5.0 as the Target
 Framework
-{{< image alt="Visual studio - select .NET version" src="images/additional information.png" >}}
+![Visual studio - select .NET version](images/additional information.png)
 
 
 Visual Studio will create a hello world project for you, as a starting
@@ -136,13 +136,13 @@ to](https://www.nuget.org/packages?q=PnP+Core+SDK).
 Continuing in Visual Studio, right select  the solution and find the
 "Manage NuGet Packages for Solution" option.
 
-{{< image alt="Option to manage NuGet packages in the solution right-select menu" src="images/Manage Nuget.png" >}}
+![Option to manage NuGet packages in the solution right-select menu](images/Manage Nuget.png)
 
 When the package manager opens, Select to Browse for Packages and Enter
 "PnP Core SDK" in the search bar, to show the two packages described
 earlier.
 
-{{< image alt="Find the PnP Core SDK NuGet packages" src="images/Nuget Packages.png" >}}
+![Find the PnP Core SDK NuGet packages](images/Nuget Packages.png)
 
 ### About the versions and libraries
 
@@ -166,7 +166,7 @@ releases which currently is v1.0.0 and nightly releases e.g.,
 v1.0.1-nightly which are the prerelease versions allowing you to use the
 very latest build this would include any fixes and new features.
 
-{{< image alt="PnP Core SDK release versions" src="images/SDK Release versions.png" >}}
+![PnP Core SDK release versions](images/SDK Release versions.png)
 
 ### Let's start writing some code 
 
@@ -408,7 +408,7 @@ configuring the header, publishing and promoting pages and multi-lingual
 support.
 Once written, Hit F5, log in and see the result:
 
-{{< image alt="Resulting page creation by the console app" src="images/result.png" >}}
+![Resulting page creation by the console app](images/result.png)
 
 ## What's Next 
 

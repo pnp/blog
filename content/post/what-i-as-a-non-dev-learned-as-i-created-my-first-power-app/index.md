@@ -8,6 +8,7 @@ githubname: MichaelRoth42
 description: I like to share my very own experiences while building my first canvas app. I have no tech background and at the beginning I thought that I could never do it.
 categories: ["Community post"]
 type: regular
+tags: ["Power Apps"]
 ---
 
 
@@ -217,7 +218,7 @@ You have a lot of possibilities to make a working app look nice. The
 other way around, getting a nice-looking app to work is way more
 difficult.
 
-{{< image alt="Compare frontend and Backend" src="images/backend.png" >}}
+![Compare frontend and Backend](images/backend.png)
 
 
 ## 9. Give back to the community. Tell others, what and how you did it

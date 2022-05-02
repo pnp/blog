@@ -12,7 +12,7 @@ description: ""
 summary: ""
 # Taxonomies
 categories: ["Community post"]
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular" # available type (epic, trending, popular, or regular)
 ---
 

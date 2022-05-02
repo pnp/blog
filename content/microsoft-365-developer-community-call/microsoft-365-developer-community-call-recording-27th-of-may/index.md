@@ -102,7 +102,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     tab**](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-context-viewer)
     **-** [Sébastien Levert](https://twitter.com/sebastienlevert) |
     [sebastienlevert](https://github.com/sebastienlevert)
-{{< image alt="PnPCall-May27th-ReducedResolution.gif" src="images/PnPCall-May27th-ReducedResolution.gif" >}}
+![PnPCall-May27th-ReducedResolution.gif](images/PnPCall-May27th-ReducedResolution.gif)
 Hello!  it's always great to see everyone on the call today.  Thanks for
 participating. 
 

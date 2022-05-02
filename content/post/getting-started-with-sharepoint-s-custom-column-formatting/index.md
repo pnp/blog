@@ -3,11 +3,11 @@ title: "Getting started with SharePoint's custom column formatting"
 date: 2021-03-14T10:08:00-04:00
 author: "Will Holland"
 githubname: willholland
-categories: []
+categories: ["Community post"]
 images:
 - images/Will_Holland_0-1615739594928.png
-tags: []
-type: "trending"
+tags: ["Microsoft lists", "SharePoint", "List formatting"]
+type: "regular"
 
 
 ---
@@ -20,11 +20,11 @@ outside of the box.
 
 Continue reading to learn how to turn this\....
 
-{{< image alt="Will_Holland_0-1615739594928.png" src="images/Will_Holland_0-1615739594928.png" >}}
+![Will_Holland_0-1615739594928.png](images/Will_Holland_0-1615739594928.png)
 
 ...into something like this...
 
-{{< image alt="Will_Holland_1-1615739594936.png" src="images/Will_Holland_1-1615739594936.png" >}}
+![Will_Holland_1-1615739594936.png](images/Will_Holland_1-1615739594936.png)
 
 ## What do you need to get started? 
 
@@ -82,7 +82,7 @@ named "iconName" with a value of "Game". We're also defining the CSS
 styling we want to use, setting the font size and color to 'big and
 red'.
 This definition would turn any column in our list into the below.
-{{< image alt="Will_Holland_2-1615739594938.png" src="images/Will_Holland_2-1615739594938.png" >}}
+![Will_Holland_2-1615739594938.png](images/Will_Holland_2-1615739594938.png)
 
 Our definition only has one element being defined. If all we wanted to
 do was display the icon, then we're all set. But what if we also want to
@@ -122,7 +122,7 @@ With this, we've changed our root element to act as a container for two
 children. The first child is the same as the original example. The
 second child is another div that simply displays the string value of the
 column, resulting in the following:
-{{< image alt="Will_Holland_3-1615739594938.png" src="images/Will_Holland_3-1615739594938.png" >}}
+![Will_Holland_3-1615739594938.png](images/Will_Holland_3-1615739594938.png)
 
 ## Working with text 
 
@@ -164,7 +164,7 @@ Middle Earth we'll see the difference.
 Here's a before-and-after of what we get if we omit the property and
 when we include it...
 
-{{< image alt="Will_Holland_4-1615739594943.png" src="images/Will_Holland_4-1615739594943.png" >}}
+![Will_Holland_4-1615739594943.png](images/Will_Holland_4-1615739594943.png)
 
 It's a subtle but impactful difference.
 
@@ -204,7 +204,7 @@ is stored in the *title* property and the URL for their profile picture
 is stored in the "picture" property.
 We can use that knowledge (and some CSS) to turn the standard people
 picker into something with a little more flair.
-{{< image alt="Will_Holland_5-1615739594946.png" src="images/Will_Holland_5-1615739594946.png" >}}
+![Will_Holland_5-1615739594946.png](images/Will_Holland_5-1615739594946.png)
 Here's the JSON definition.
  
 
@@ -266,7 +266,7 @@ Dwarf, Human and Hobbit.
 We have a choice column to represent the valid options for our members
 but, rather than simply display the name of the race, let's see how we
 make the following transformation.
-{{< image alt="Will_Holland_6-1615739594947.png" src="images/Will_Holland_6-1615739594947.png" >}}
+![Will_Holland_6-1615739594947.png](images/Will_Holland_6-1615739594947.png)
 
 Here's the definition:
  
@@ -307,7 +307,7 @@ screen was Gandalf. Watching him swinging a sword and staff around was
 really exciting, so we'll use him as our example.
 \
 
-{{< image alt="Will_Holland_7-1615739594949.png" src="images/Will_Holland_7-1615739594949.png" >}}
+![Will_Holland_7-1615739594949.png](images/Will_Holland_7-1615739594949.png)
 Here's our definition.
  
 
@@ -358,7 +358,7 @@ In our example, the **Role** field is a simple text field used to
 describe what role the member had within the group, but rather than
 display that text we want to display a different Fabric icon depending
 on the role.
-{{< image alt="Will_Holland_8-1615739594955.png" src="images/Will_Holland_8-1615739594955.png" >}}
+![Will_Holland_8-1615739594955.png](images/Will_Holland_8-1615739594955.png)
 And here's the definition.
  
 
@@ -405,7 +405,7 @@ For our final example, we'll look at the last column in our list:
 **From**.
 The **From** column is a lookup column that references list items in a
 *Middle Earth Locales* list.
-{{< image alt="Will_Holland_9-1615739594966.png" src="images/Will_Holland_9-1615739594966.png" >}}
+![Will_Holland_9-1615739594966.png](images/Will_Holland_9-1615739594966.png)
 And the definition\...
  
 
@@ -455,7 +455,7 @@ building blocks for creating amazing visuals and really spicing up the
 life of our list data, creating a great little breakdown of information
 related to members of the Fellowship with interesting visuals and
 colors.
-{{< image alt="Will_Holland_10-1615739594999.png" src="images/Will_Holland_10-1615739594999.png" >}}
+![Will_Holland_10-1615739594999.png](images/Will_Holland_10-1615739594999.png)
  
 
 Now that you've seen it all come together, time to get out there and

@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/TeansResult.png
-tags: []
+tags: ["Microsoft Teams", "Dataverse", "Azure", "Power Apps"]
 type: "regular"
 ---
 
@@ -82,7 +82,7 @@ provisioning process for all channels is that, once the Wiki is
 
 ## Making ProvisionGenie a deployable solution 
 
-{{< image alt="xkcd.png" src="images/xkcd.png" >}}
+![xkcd.png](images/xkcd.png)
 
 To make this solution available, it was not enough to only provide the
 (opaque) .zip file for the canvas app. We provide
@@ -100,7 +100,7 @@ To make this solution available, it was not enough to only provide the
 -   proper documentation
 
 As a result, the app looks like this:
-{{< image alt="TeansResult.png" src="images/TeansResult.png" >}}
+![TeansResult.png](images/TeansResult.png)
 We open-sourced ProvisionGenie 🧞 and just shipped our first release,
 you can find the repository here - with guidance how to get the app and
 how to contribute to

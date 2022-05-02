@@ -6,7 +6,7 @@ githubname: LeeFord
 categories: ["Community post"]
 images:
 - images/149174368-58562d12-5554-4625-a902-0df103e00cff.png
-tags: []
+tags: ["Azure", "Microsoft Teams"]
 type: "regular"
 summary: "Have you ever had an idea to ask a bot to perform a simple interaction? Then this article is for you"
 ---
@@ -33,12 +33,12 @@ Before we begin, let's fictionalize a use case. The idea is that users
 need to quickly be able to check the current and forecasted for any
 location from within a Team.
 
-{{< image alt="Image" src="images/149214689-3bf95faa-11dc-466d-999d-731f41c6d8f3.png" >}}
+![Image](images/149214689-3bf95faa-11dc-466d-999d-731f41c6d8f3.png)
 
 
 ## The solution
 
-{{< image alt="Overview of the solution" src="images/149226058-e5b23a26-ab06-4197-a93e-0343ee3fbbf6.png" >}}
+![Overview of the solution](images/149226058-e5b23a26-ab06-4197-a93e-0343ee3fbbf6.png)
 
 
 The solution is a Webhook in Teams and a Bot (surprised?). This works as
@@ -119,7 +119,7 @@ The setup of this solution comprises of two parts:
 A Azure Function HTTP Trigger hosting the code is created. The URL of
 the trigger needs to be copied for the next step
 
-{{< image alt="Overview of the solution" src="images/149174368-58562d12-5554-4625-a902-0df103e00cff.png" >}}
+![Overview of the solution](images/149174368-58562d12-5554-4625-a902-0df103e00cff.png)
 
 > Disregard the trailing question mark and any other text past this
 
@@ -131,13 +131,13 @@ To add an Outgoing Webhook, the following is done:
 
 2.  Select the ellipsis (\...) on the Team and choose **Manage team**
 
-    {{< image alt="Manage teams" src="images/149214507-8e0f6fac-4fc7-4901-b121-4cdab13d7aae.png" >}}
+    ![Manage teams](images/149214507-8e0f6fac-4fc7-4901-b121-4cdab13d7aae.png)
 
 
 3.  Under the **Apps** tab, at the bottom right of the page, there will
     be an option to **Create an outgoing webhook**
     
-    {{< image alt="Manage teams" src="images/149138950-b86db5c1-cef7-4334-bd3e-c52f90a49e75.png" >}}
+    ![Manage teams](images/149138950-b86db5c1-cef7-4334-bd3e-c52f90a49e75.png)
 
     Provide the following:
     
@@ -153,13 +153,13 @@ To add an Outgoing Webhook, the following is done:
 
     -   **Icon**: Image that will appear next to the Webhook
 
-        {{< image alt="Parameters to provide" src="images/149214338-c8217ed4-bdb9-468d-be26-ccac553a735f.png" >}}
+        ![Parameters to provide](images/149214338-c8217ed4-bdb9-468d-be26-ccac553a735f.png)
 
 1.  Once the Webhook is created, take a note of the **Security token**
     of the Webhook as it will only be shown once and will be required
     for authentication to the bot
 
-    {{< image alt="Parameters to provide" src="images/149213977-50ff69b7-cb4a-44fb-bfc6-277e8214a605.png" >}}
+    ![Parameters to provide](images/149213977-50ff69b7-cb4a-44fb-bfc6-277e8214a605.png)
 
 ### Configure Bot
 
@@ -173,7 +173,7 @@ Azure Function:
 -   **WeatherAPIKey**: The **API key** to grant access to the
     OpenWeatherMap API
 
-{{< image alt="Configure the bot" src="images/149180772-e8942bd0-217d-4ee9-b734-9f1910ad2535.png" >}}
+![Configure the bot](images/149180772-e8942bd0-217d-4ee9-b734-9f1910ad2535.png)
 
 > To simplify this example, I have stored these in application settings.
 > In a production environment, please ensure this is held somewhere more
@@ -185,5 +185,5 @@ Azure Function:
 With everything in place, all that is left is to try it! Simply mention
 the Webhook and enter a location, and the weather is returned!
 
-{{< image alt="Configure the bot" src="images/149221643-96f50590-dd93-4616-83f5-98ff9d219a4b.gif" >}}
+![Configure the bot](images/149221643-96f50590-dd93-4616-83f5-98ff9d219a4b.gif)
 

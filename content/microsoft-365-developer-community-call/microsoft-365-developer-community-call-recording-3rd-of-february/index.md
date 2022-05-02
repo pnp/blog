@@ -105,7 +105,7 @@ Article:  [Getting started with PnP Script Samples](https://aka.ms/script-sampl
 
 ## Together Mode!
 
-{{< image alt="thumbnail image 2 of blog post titled Microsoft 365 Developer Community Call recording – 3rd of February, 2022 " src="images/220203-together-mode.gif" >}}
+![thumbnail image 2 of blog post titled Microsoft 365 Developer Community Call recording – 3rd of February, 2022 ](images/220203-together-mode.gif)
 
 The pleasure of seeing everyone here is shared by all.  You are an awesome community.   
 

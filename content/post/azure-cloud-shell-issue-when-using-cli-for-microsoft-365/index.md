@@ -6,7 +6,7 @@ githubname: arjunumenon
 categories: ["CLI For Microsoft 365"]
 images:
 - images/ArjunMenon_0-1634207520847.jpeg
-tags: []
+tags: ["CLI for Microsoft 365", "Azure"]
 type: "regular"
 ---
 
@@ -40,7 +40,7 @@ SyntaxError: Unexpected token {
     at Object.<anonymous> (/usr/local/lib/node_modules/@pnp/cli-microsoft365/dist/index.js:17:28)
 ```
 
-{{< image alt="ArjunMenon_0-1634207520847.jpeg" src="images/ArjunMenon_0-1634207520847.jpeg" >}}
+![ArjunMenon_0-1634207520847.jpeg](images/ArjunMenon_0-1634207520847.jpeg)
 It was identified by the expert team that this was because of the case
 where Azure Cloud Shell uses node version 8.16 as the base image. But
 CLI for Microsoft 365 uses later Node version which is causing the issue
@@ -78,7 +78,7 @@ You can follow the below steps if you want to know the complete steps
 4.  Once the CLI package is installed, you can see that CLI works
     perfectly well in Azure Shell
 
-{{< image alt="ArjunMenon_1-1634207520863.jpeg" src="images/ArjunMenon_1-1634207520863.jpeg" >}}
+![ArjunMenon_1-1634207520863.jpeg](images/ArjunMenon_1-1634207520863.jpeg)
 
 
 This is just a workaround till we have a permanent solution from Azure

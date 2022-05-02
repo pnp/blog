@@ -6,7 +6,7 @@ githubname: Marijnsomers
 categories: ["Community post"]
 images:
 - images/MS-list.png
-tags: []
+tags: ["PnP PowerShell"]
 type: "regular"
 ---
 As a non-developer (please read this as a disclaimer) I still try to
@@ -42,7 +42,7 @@ Using the user interface, following steps were required:
     This can be set up from the web part properties
 
 
-{{< image alt="Document library UI properties" src="images/MS-list.png" >}}
+![Document library UI properties](images/MS-list.png)
 
 
 That would definitely be a lot of work to do manually, so I decided that
@@ -137,7 +137,7 @@ UI: If you go to the library settings, the document library Id is shown
 in the url:
 
 
-{{< image alt="SharePoint document library ID in the url of the library settings page" src="images/documentlibrary-id.png" >}}
+![SharePoint document library ID in the url of the library settings page](images/documentlibrary-id.png)
 
 Just cut out the %7B in the front, and the %7D on the back.
 In this example, the document library Id is

@@ -43,7 +43,7 @@ Manager and Onur Onder, Senior Software Engineer.   Recorded August 11,
     @davidchesnut -- [13:08](https://youtu.be/UflCQGPjz14?t=788)
 -   Q&A -- [28:15](https://youtu.be/UflCQGPjz14?t=1695)
 
-{{< image alt="office-add-ins-august-agenda.png" src="images/office-add-ins-august-agenda.png" >}}
+![office-add-ins-august-agenda.png](images/office-add-ins-august-agenda.png)
 
 ## Demo Summaries
 

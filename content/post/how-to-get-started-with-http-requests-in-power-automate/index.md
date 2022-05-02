@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/explorer.jpg
 tags: []
-type: "popular"
+type: "regular"
 
 
 ---
@@ -100,7 +100,7 @@ ask for Team Name, Team Description, and if a user wants a channel
 for **Learning** and wants to pin training material (a website) as a tab
 to this channel 
 
-{{< image alt="manually-trigger.png" src="images/manually-trigger.png" >}}
+![manually-trigger.png](images/manually-trigger.png)
 
 (Of course, we would do that later in a form, an app, or a bot, but for
 understanding the logic of HTTP requests in Power Automate I will keep
@@ -117,7 +117,7 @@ action into the flow:
 
 
 
-{{< image alt="methods.png" src="images/methods.png" >}}
+![methods.png](images/methods.png)
 You can see a lot of fields in that HTTP action, so I will make you
 understand them.
 
@@ -159,7 +159,7 @@ If we now open the dropdown menu for the **Method** field in the HTTP
 action, we will see a representation of that:
 
 
-{{< image alt="methods.png" src="images/methods.png" >}}
+![methods.png](images/methods.png)
 
 As we want to *create* a new tab in a channel, we will use **POST**.
 
@@ -212,7 +212,7 @@ Some remarks on that:
 In total, this looks like this:
 
 
-{{< image alt="http-without-auth.png" src="images/http-without-auth.png" >}}
+![http-without-auth.png](images/http-without-auth.png)
 
 #### Authentication in Azure AD 
 
@@ -267,7 +267,7 @@ App Secret.
 
  Our flow should look like this:
 
-{{< image alt="flow-total.png" src="images/flow-total.png" >}}
+![flow-total.png](images/flow-total.png)
 
 ## [](https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/#celebrate)Celebrate 
 
@@ -276,7 +276,7 @@ Teams:
 
 
 
-{{< image alt="channel-with-tab.png" src="images/channel-with-tab.png" >}}
+![channel-with-tab.png](images/channel-with-tab.png)
 
 
 we can spot our freshly created tab with the the content we wanted to

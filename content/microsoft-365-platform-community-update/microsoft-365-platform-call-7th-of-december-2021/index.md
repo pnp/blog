@@ -92,7 +92,7 @@ live at end of the call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-{{< image alt="211207-together-mode.gif" src="images/211207-together-mode.gif" >}}
+![211207-together-mode.gif](images/211207-together-mode.gif)
 
 Thank you for joining the call today including many who are presently at
 the Microsoft 365 Collaboration Conference in Las Vegas this week! 

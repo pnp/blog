@@ -6,7 +6,7 @@ githubname: anandragav
 categories: ["Community post"]
 images:
 - images/AnandVRagav_1-1638227104052.png
-tags: []
+tags: ["SharePoint", "List formatting"]
 type: "regular"
 ---
 
@@ -18,7 +18,7 @@ increase. Recently I worked on an event page in SharePoint and thought
 it would be useful to have a video portal created for the event to store
 and display event session recordings.
  
-{{< image alt="AnandVRagav_1-1638227104052.png" src="images/AnandVRagav_1-1638227104052.png" >}}
+![AnandVRagav_1-1638227104052.png](images/AnandVRagav_1-1638227104052.png)
  
 In this post are the details of the document library and how to display
 that in the SharePoint site page.
@@ -28,10 +28,10 @@ that in the SharePoint site page.
 The document library exists at the same level as the default shared
 documents library on the site.
  
-{{< image alt="AnandVRagav_2-1638227193903.png" src="images/AnandVRagav_2-1638227193903.png" >}}
+![AnandVRagav_2-1638227193903.png](images/AnandVRagav_2-1638227193903.png)
  
 Video files are uploaded to the document library.
-{{< image alt="AnandVRagav_3-1638227225340.png" src="images/AnandVRagav_3-1638227225340.png" >}}
+![AnandVRagav_3-1638227225340.png](images/AnandVRagav_3-1638227225340.png)
  
 Additional columns can be created in the library, these additional
 columns provide rich information that can be displayed in the video
@@ -39,12 +39,12 @@ portal. Rich metadata such as title, description, people, tools/topics
 covered, social sharing options like yammer, share and like buttons can
 compliment the video portal experience.
  
-{{< image alt="AnandVRagav_4-1638227250191.png" src="images/AnandVRagav_4-1638227250191.png" >}}
+![AnandVRagav_4-1638227250191.png](images/AnandVRagav_4-1638227250191.png)
  
 When video files are uploaded and the metadata fields are filled in with
 the information, the default "All Documents" view can look like this.
  
-{{< image alt="AnandVRagav_5-1638227276106.png" src="images/AnandVRagav_5-1638227276106.png" >}}
+![AnandVRagav_5-1638227276106.png](images/AnandVRagav_5-1638227276106.png)
  
 The default view or a new view can be created with all the columns
 included. The view can be formatted using JSON to get the card view in a
@@ -61,14 +61,14 @@ copy link, the thumbs-up button registers user likes in the "User"
 person column using the recently released setValue function in List
 formatting.
  
-{{< image alt="AnandVRagav_6-1638227301475.png" src="images/AnandVRagav_6-1638227301475.png" >}}
+![AnandVRagav_6-1638227301475.png](images/AnandVRagav_6-1638227301475.png)
  
 To achieve this formatting, the view needs to be formatted using JSON.
  
-{{< image alt="AnandVRagav_7-1638227333192.png" src="images/AnandVRagav_7-1638227333192.png" >}}
+![AnandVRagav_7-1638227333192.png](images/AnandVRagav_7-1638227333192.png)
  
  
-{{< image alt="AnandVRagav_8-1638227355460.png" src="images/AnandVRagav_8-1638227355460.png" >}}
+![AnandVRagav_8-1638227355460.png](images/AnandVRagav_8-1638227355460.png)
  
 The complete JSON is provided below.
  
@@ -591,22 +591,22 @@ The complete JSON is provided below.
 The final step is then to embed this view in the SharePoint site page
 using the Document library web part.
  
-{{< image alt="AnandVRagav_9-1638227433322.png" src="images/AnandVRagav_9-1638227433322.png" >}}
+![AnandVRagav_9-1638227433322.png](images/AnandVRagav_9-1638227433322.png)
  
 And choosing the library to be embedded. "Session recordings" is the
 name of my library.
  
-{{< image alt="AnandVRagav_10-1638227461663.png" src="images/AnandVRagav_10-1638227461663.png" >}}
+![AnandVRagav_10-1638227461663.png](images/AnandVRagav_10-1638227461663.png)
  
 Editing the web part to set the correct view, hiding the command bar and
 "See all" buttons.
  
-{{< image alt="AnandVRagav_11-1638227490353.png" src="images/AnandVRagav_11-1638227490353.png" >}}
+![AnandVRagav_11-1638227490353.png](images/AnandVRagav_11-1638227490353.png)
  
 The final result can look like this. Optionally a support list to filter
 down videos by topic or category can be added to enhance the experience.
  
-{{< image alt="AnandVRagav_12-1638227543478.png" src="images/AnandVRagav_12-1638227543478.png" >}}
+![AnandVRagav_12-1638227543478.png](images/AnandVRagav_12-1638227543478.png)
  
 Hope you found this useful. I would be interested to hear your thoughts
 and if you would use this and how you might enhance this.

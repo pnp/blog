@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/ChandaniPrajapati_0-1639758794000.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 
@@ -45,7 +45,7 @@ Now execute the below command to create an SPFx solution:
     yo @microsoft/sharepoint 
 It will ask some questions, as shown below,
 
-{{< image alt="ChandaniPrajapati_0-1639758794000.png" src="images/ChandaniPrajapati_0-1639758794000.png" >}}
+![ChandaniPrajapati_0-1639758794000.png](images/ChandaniPrajapati_0-1639758794000.png)
 
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
@@ -362,7 +362,7 @@ export default class MuhimbiExportHtmlContentToPdf extends React.Component<IMuhi
  
 ## Output  
 
-{{< image alt="Muhimbi - Export to pdf.gif" src="images/Muhimbi - Export to pdf.gif" >}}
+![Muhimbi - Export to pdf.gif](images/Muhimbi - Export to pdf.gif)
  
 
 Please find my  [source code](https://github.com/chandaniprajapati/muhimbi-export-html-content-to-pdf).

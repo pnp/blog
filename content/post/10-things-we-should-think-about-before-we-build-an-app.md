@@ -4,7 +4,7 @@ date: 2021-03-11T01:50:00-05:00
 author: "Luise Freese"
 githubname: LuiseFreese
 categories: ["Community post"]
-tags: []
+tags: ["Power Apps"]
 type: "regular"
 ---
 

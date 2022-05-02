@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/PASopa-folder.png
-tags: []
+tags: ["Power Apps"]
 type: "regular"
 ---
 
@@ -54,7 +54,7 @@ Please also not, that you can now find a **bin** folder in the local
 folder you extracted the PowerApps Language Toolkit to. In this
 **bin** folder, you will find a **Debug** folder and inside of the
 **Debug** folder you will find a **PASopa** folder.
-{{< image alt="PASopa-folder.png" src="images/PASopa-folder.png" >}}
+![PASopa-folder.png](images/PASopa-folder.png)
 
 ## **Download the .msapp file** 
 

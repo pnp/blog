@@ -38,7 +38,7 @@ actively participating in this PnP Community. You continue to amaze. 
 The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call. 
-{{< image alt="15th-april-together-mode.gif" src="images/15th-april-together-mode.gif" >}}
+![15th-april-together-mode.gif](images/15th-april-together-mode.gif)
  
 
 **Getting started with Microsoft Viva Connections** **Desktop** - an

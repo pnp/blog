@@ -136,7 +136,7 @@ an account if you don't already have one.
 
 
 
-{{< image alt="github-new.png" src="images/github-new.png" >}}
+![github-new.png](images/github-new.png)
 
  
 
@@ -161,7 +161,7 @@ VSCode:
     -   hash of the commit
 
 
-{{< image alt="first-commit.png" src="images/first-commit.png" >}}
+![first-commit.png](images/first-commit.png)
 
 
 
@@ -175,7 +175,7 @@ computer. We do this by cloning the repository:
     is `https://github.com/<YOUR GITHUB ACCOUNT>/<YOUR REPOSITORY NAME>.git`)
 
 
-{{< image alt="github-clone.png" src="images/github-clone.png" >}}
+![github-clone.png](images/github-clone.png)
 
  
 
@@ -235,13 +235,13 @@ the editor and resolve the situation.
 
 
 
-{{< image alt="git-changes.png" src="images/git-changes.png" >}}
+![git-changes.png](images/git-changes.png)
 
 Then use the commands `git commit` and `git push` again. (You can always
 access your last commands with the arrow-up and arrow-down key.) You
 should see a response that looks about like this
 
-{{< image alt="git-push.png" src="images/git-push.png" >}}
+![git-push.png](images/git-push.png)
 
 Please note that you see two abbreviated hashs, with which you could
 also compare what happened in the last commit compared to the previous
@@ -306,7 +306,7 @@ pull in your changes. You do that by doing a pull request:
 
 
 
-{{< image alt="compare-changes.png" src="images/compare-changes.png" >}}
+![compare-changes.png](images/compare-changes.png)
 
 -   fill out the form
 

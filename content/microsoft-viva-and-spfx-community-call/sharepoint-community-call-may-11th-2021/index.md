@@ -39,7 +39,7 @@ actively participating in this PnP Community during April. Month over
 month, you continue to amaze.  The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call. 
-{{< image alt="210511-together-mode.gif" src="images/210511-together-mode.gif" >}}
+![210511-together-mode.gif](images/210511-together-mode.gif)
  
 **Featured Topic:**
 

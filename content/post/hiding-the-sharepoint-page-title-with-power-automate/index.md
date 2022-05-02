@@ -6,7 +6,7 @@ githubname: michelcarlo
 categories: ["Community post"]
 images:
 - images/page-title.png
-tags: []
+tags: ["SharePoint", "Power Automate"]
 type: "regular"
 ---
 
@@ -14,7 +14,7 @@ For any SharePoint modern page that you create manually, there will
 always be a page title that you cannot remove using the SharePoint UI at
 the moment.
 
-{{< image alt="page-title.png" src="images/page-title.png" >}}
+![page-title.png](images/page-title.png)
 
 The logic behind those options is that on the background they change a
 hidden field in the Page, which is the **PageLayoutType** field. This
@@ -29,17 +29,17 @@ updating the **PageLayoutType** field.
 If it is a normal page (Article), this flow will switch it to a page
 with the home page layout (no title), and vice versa (in case there is a
 need to show the title again).
-{{< image alt="running-flow.gif" src="images/running-flow.gif" >}}
+![running-flow.gif](images/running-flow.gif)
 So we want to make this flow available from the library UI, and for this
 to happen we need to use the SharePoint flow Trigger: **For a Selected
 File**.
 Select the site you want to use this functionality. And add the library
 too.
-{{< image alt="for-a-selected-file.png" src="images/for-a-selected-file.png" >}}
+![for-a-selected-file.png](images/for-a-selected-file.png)
 Note that the Pages Library is not listed on the options for the
 triggers, however, you can add the list manually by adding its id
 (GUID), which can be found on the library settings page URL:
-{{< image alt="list id.PNG" src="images/list id.PNG" >}}
+![list id.PNG](images/list id.png)
 
 **Accessing Page Data**
 For the next steps, we need to use data returned by the flow trigger to
@@ -50,7 +50,7 @@ the Flow's trigger.
 Initialise one variable called PageUrl and set it to the property
 '**itemUrl**', gathered from the flow's trigger:
 
-{{< image alt="PageURL.PNG" src="images/PageURL.PNG" >}}
+![PageURL.PNG](images/PageURL.png)
 
 Then initialise two variables using the following expressions as value
 (their values are simply set by manipulating the page full URL by
@@ -59,14 +59,14 @@ splitting it and getting the right piece of the string):
 **SiteURL**: split(variables('PageUrl'),'SitePages')\[0\]
 **PagePath:** split(variables('PageUrl'),'sharepoint.com')\[1\]
 
-{{< image alt="vars.PNG" src="images/vars.PNG" >}}
+![vars.PNG](images/vars.png)
 
 Then you can make a call using REST API to
 the **GetFileByServerRelativeUrl **endpoint to retrieve the list item
 fields for the current page (explicitly selecting the PageLayoutType
 field, otherwise, it wouldn't be returned):
 
-{{< image alt="send an http get data.PNG" src="images/send an http get data.PNG" >}}
+![send an http get data.PNG](images/send an http get data.png)
 
 Use the **Parse JSON** action with the schema below to facilitate
 accessing the properties:
@@ -93,25 +93,25 @@ accessing the properties:
 And initialise a new variable called **PageLayout**, having
 the **PageLayoutType **parsed from the JSON content as value:
 
-{{< image alt="parse json.PNG" src="images/parse json.PNG" >}}
+![parse json.PNG](images/parse json.png)
 
 **Updating the Page Layout**
 Based on the current page layout value, you can update the variable
 value to the other desired (if it is **Home**, you should update it
 to **Article**, if it is **Article **you should update it to **Home**.
 
-{{< image alt="switch value.PNG" src="images/switch value.PNG" >}}
+![switch value.PNG](images/switch value.png)
 And then send a **PATCH **HTTP request to SharePoint to update the
 current page field:
 
-{{< image alt="patch.PNG" src="images/patch.PNG" >}}
+![patch.PNG](images/patch.png)
 
 **Results**
 When you execute the flow, it will switch the page layout as below. If
 you execute it again, it will switch back to the previous layout (from
 Article to Home or from Home to Article):
 
-{{< image alt="running-flow.gif" src="images/running-flow.gif" >}}
+![running-flow.gif](images/running-flow.gif)
  
 
 **Reusing the flow in other Page Libraries**
@@ -162,12 +162,12 @@ same flow will be called as if it was triggered from the Automate menu.
  
 
 To find your Flow id, just check the URL used when you edit it:
-{{< image alt="flow id.PNG" src="images/flow id.PNG" >}}
+![flow id.PNG](images/flow id.png)
 
 You can then start it normally from any other Site Pages library in the
 tenant, where you add the column with the JSON formatting calling the
 flow:
-{{< image alt="switch_flow.PNG" src="images/switch_flow.PNG" >}}
+![switch_flow.PNG](images/switch_flow.png)
 If you run the flow from a library where it was called using only the
 formatter, the values will be parsed correctly from the trigger and the
 flow will be executed successfully, as the JSON format button sends data

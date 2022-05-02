@@ -75,7 +75,7 @@ Samples:** <https://aka.ms/teams-samples>
 
  
 
-{{< image alt="210518-together-mode.gif" src="images/210518-together-mode.gif" >}}
+![210518-together-mode.gif](images/210518-together-mode.gif)
 
  
 

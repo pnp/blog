@@ -6,7 +6,7 @@ githubname: Tbag
 categories: ["Power Apps community call"]
 images:
 - images/powerapps-recording.jpg
-tags: []
+tags: ["Power Apps"]
 type: "regular"
 ---
 

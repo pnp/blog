@@ -68,7 +68,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
 
-{{< image alt="211005-together-mode.gif" src="images/211005-together-mode.gif" >}}
+![211005-together-mode.gif](images/211005-together-mode.gif)
 
 An absolutely packed house today.  Great seeing everyone.
 

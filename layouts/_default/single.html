@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "microsoft-viva-and-spfx-community-call") (eq .Section "cli-for-microsoft-365") (eq .Section "cli-for-microsoft-365") (eq .Section "m365-dev-podcast") (eq .Section "microsoft-365-developer-community-call") 
+{{ if or (eq .Section "post") (eq .Section "microsoft-viva-and-spfx-community-call") (eq .Section "cli-for-microsoft-365") (eq .Section "cli-for-microsoft-365") (eq .Section "m365-dev-podcast") (eq .Section "microsoft-365-developer-community-call")
 (eq .Section "categories") (eq .Section "tags") (eq .Section "adaptive-card-community-call") (eq .Section "power-platform-community-call") (eq .Section "microsoft-365-platform-community-update") (eq .Section "microsoft-365-pnp-weekly") (eq .Section "m365-pnp-weekly") (eq .Section "adaptive-cards-community-call") (eq .Section "microsoft-365-pnp-community") (eq .Section "office-add-ins-community-call") (eq .Section "microsoft-graph-community-call") (eq .Section "microsoft-identity-platform-community-call") (eq .Section "microsoft-teams-community-call")}}
 
 {{ $sidebar:= site.Params.sidebar }}
@@ -37,24 +37,30 @@
                                 <img src="{{ $imgPath | absURL }}" class="card-img" loading="lazy" alt="post-thumb">
                             {{ else  if (and (hasPrefix $imgPath `images/blog/`) (fileExists (add `assets/` $imgPath))) }}
                                 {{ $image:= resources.Get $imgPath }}
-                                {{ $imageMD:= $image.Fill "700x330" }}
-                                {{ $imageSM:= $image.Fill "380x180" }}
+                                {{ $imageMD:= $image.Fill "700x330 webp" }}
+                                {{ $imageLG:= $image.Fill "510x240 webp" }}
+                                {{ $imageSM:= $image.Fill "380x180 webp" }}
                                 <picture>
                                     <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
-                                    <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">
-                                    <source srcset="{{$image.Permalink}}">
-                                    <img src="{{$image.Permalink}}" class="card-img" loading="lazy" alt="post-thumb">
+                                    <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 767px)">
+                                    <source srcset="{{ $imageLG.Permalink }}" media="(max-width: 991px)">
+                                    <source srcset="{{$imageMD.Permalink}}">
+                                    <img src="{{$image.Permalink}}" class="card-img img-fluid" loading="lazy" alt="post-thumb"
+                                    max-width="{{$image.Width}}" max-height="{{$image.Height}}">
                                 </picture>
                             {{ else }}
                                 {{ with $resources.GetMatch $imgPath }}
                                 {{ $image:= . }}
-                                {{ $imageMD:= $image.Fill "700x330" }}
-                                {{ $imageSM:= $image.Fill "380x180" }}
+                                {{ $imageMD:= $image.Fill "700x330 webp" }}
+                                {{ $imageLG:= $image.Fill "510x240 webp" }}
+                                {{ $imageSM:= $image.Fill "380x180 webp" }}
                                 <picture>
                                     <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
-                                    <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">
-                                    <source srcset="{{$image.Permalink}}">
-                                    <img src="{{$image.Permalink}}" class="card-img" loading="lazy" alt="post-thumb">
+                                    <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 767px)">
+                                    <source srcset="{{ $imageLG.Permalink }}" media="(max-width: 991px)">
+                                    <source srcset="{{$imageMD.Permalink}}">
+                                    <img src="{{$image.Permalink}}" class="card-img img-fluid" loading="lazy" alt="post-thumb"
+                                    max-width="{{$image.Width}}" max-height="{{$image.Height}}">
                                 </picture>
                                 {{ else }}
                                 <img src="{{ . | absURL }}" class="card-img" loading="lazy" alt="post-thumb">
@@ -111,7 +117,7 @@
                 <div class="mt-5 border-default border p-4 bg-white">
                     {{ template "_internal/disqus.html" . }}
                 </div>
-                {{ end }} 
+                {{ end }}
                 <script src="https://utteranc.es/client.js"
                 repo="pnp/blog"
                 issue-term="title"

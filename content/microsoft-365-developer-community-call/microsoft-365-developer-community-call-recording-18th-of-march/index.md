@@ -84,7 +84,7 @@ call.
     Erişen.  Supporting Article - [Securely connect to Microsoft Graph
     from Teams tabs using
     SSO](https://blog.mastykarz.nl/securely-connect-microsoft-graph-teams-tabs-sso/)
-{{< image alt="CmtyPhoto.png" src="images/CmtyPhoto.png" >}}
+![CmtyPhoto.png](images/CmtyPhoto.png)
 **"Hello Community"     **
 **Demos** delivered in this session
 

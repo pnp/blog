@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/yulia-matvienko-kgz9vsP5JCU-unsplash.jpg
-tags: []
+tags: ["CLI for Microsoft 365", "Adaptive Cards"]
 type: "regular"
 ---
 
@@ -86,7 +86,7 @@ In response you will be asked to open a web browser and login with a
 code. If you are using Visual Studio Code, you can select  the link,
 please copy the code upfront.
 
-{{< image alt="login.png" src="images/login.png" >}}
+![login.png](images/login.png)
 
 After you pasted the code,
 
@@ -96,7 +96,7 @@ After you pasted the code,
 You will be seeing this message and can close this browser tab- we
 won't need it anymore.
 
-{{< image alt="PnPmanagementShellOK.png" src="images/PnPmanagementShellOK.png" >}}
+![PnPmanagementShellOK.png](images/PnPmanagementShellOK.png)
 
 Yay! You successfully logged in! You don't believe that? Let's check
 with CLI Microsoft 365 and run this command to get your status:
@@ -109,7 +109,7 @@ m365 status
 
 and it will get your status for you:
 
-{{< image alt="status.png" src="images/status.png" >}}
+![status.png](images/status.png)
 
 If you want some inspiration, what you could do now, run this command:
  
@@ -118,7 +118,7 @@ If you want some inspiration, what you could do now, run this command:
 m365 help
 ```
  
-{{< image alt="help.png" src="images/help.png" >}}
+![help.png](images/help.png)
 
 which gives you a list of things you can try, these are called command
 groups, as each of them can contain several commands. When you now
@@ -170,7 +170,7 @@ Teams](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-conf
 the Adaptive Card to\
 \* Select **Connectors**\
 \* Search for 'webhook'\
-{{< image alt="incoming-webhook.png" src="images/incoming-webhook.png" >}}
+![incoming-webhook.png](images/incoming-webhook.png)
 
 \* Select **Add**\
 \* Select **Add** (yes, yet again)\

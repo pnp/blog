@@ -40,16 +40,18 @@ To have this experience in Visual Studio Code, complete the following steps:
 
 1. Install oh-my-posh and posh-git
    - Open the the terminal and run 
-        - `Install-Module oh-my-posh -Scope CurrentUser`
+        - `winget install JanDeDobbeleer.OhMyPosh --scope user`
         - `Install-Module posh-git -Scope CurrentUser`
-1. Edit your PowerShell profile in VS Code
+   
+      > If you are unable to use `winget` then please install oh-my-posh using the `install-amd64.exe` file under the oh-my-posh reopsitory's [latest release](https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest).
+
+2. Edit your PowerShell profile in VS Code
    - Open it with `code $PROFILE` 
    - Insert this:
 
 ```ps1
-Import-Module oh-my-posh
 Import-Module posh-git
-Set-PoshPrompt -Theme M365Princess
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\M365Princess.omp.json" | Invoke-Expression
 ```
 
 3. Install a font 

@@ -6,7 +6,7 @@ githubname: rabwill
 categories: ["Community post"]
 images: 
 - images/connector-select.png
-tags: []
+tags: ["Microsoft Teams"]
 type: "regular"
 ---
 
@@ -96,7 +96,7 @@ configure]**
     (•••) and (2)
     Choose ]**[Connectors]**
 
-{{< image alt="connector-select.png" src="images/connector-select.png" >}}
+![connector-select.png](images/connector-select.png)
 
 
 -  Search
@@ -105,7 +105,7 @@ configure]**
 
 
 
-{{< image alt="incoming-webhook.png" src="images/incoming-webhook.png" >}}
+![incoming-webhook.png](images/incoming-webhook.png)
 
 -   once added, configure it by giving a name, optionally upload an
     icon and once
@@ -113,14 +113,14 @@ configure]**
 
 
 
-{{< image alt="create.png" src="images/create.png" >}}
+![create.png](images/create.png)
 
 -   Copy the URL that is unique for the channel, and
     we will later use this URL to post the
     message. 
 
 
-{{< image alt="url.png" src="images/url.png" >}}
+![url.png](images/url.png)
  
 
 [Now we have successfully configured the connector in the
@@ -130,7 +130,7 @@ below ]
 
 
 
-{{< image alt="success.png" src="images/success.png" >}}
+![success.png](images/success.png)
  
 
 ## Test the connector with PowerShell
@@ -162,14 +162,14 @@ Invoke-RestMethod -Method post -ContentType 'Application/Json' -Body�
 ```
  
 
-[{{< image alt="powershell.png" src="images/powershell.png" >}}
+[![powershell.png](images/powershell.png)
 
 If the
 configuration is successful, we
 can see the message already sent by the script to our
 channel.
 
-{{< image alt="messagesent.png" src="images/messagesent.png" >}}
+![messagesent.png](images/messagesent.png)
 
 
 Now, if we want to try sending an
@@ -223,7 +223,7 @@ And here is the
 result after running
 the above  script
 
-{{< image alt="adaptivecard.png" src="images/adaptivecard.png" >}}
+![adaptivecard.png](images/adaptivecard.png)
 
 Hope you found this simple out of
 the box capability useful and

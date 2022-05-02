@@ -6,7 +6,7 @@ githubname: aghyyy
 categories: ["Community post"]
 images:
 - images/pnp-modern-search-sharepoint-app-catalog-01-1024x834.png
-tags: []
+tags: ["PnP Modern Search", "SharePoint"]
 type: "regular"
 ---
 
@@ -68,37 +68,37 @@ You have to be a tenant administrator to create a new App Catalog.
 
 Go to Microsoft 365 Admin / SharePoint Admin Center. On the left menu,
 select  "More features", and the select "Apps":
-{{< image alt="pnp-modern-search-sharepoint-app-catalog-01-1024x834" src="images/pnp-modern-search-sharepoint-app-catalog-01-1024x834.png" >}}
+![pnp-modern-search-sharepoint-app-catalog-01-1024x834](images/pnp-modern-search-sharepoint-app-catalog-01-1024x834.png)
 Once here, select  New App Catalog, then fill in the form, so that the
 new site collection will be created:
  
 
-{{< image alt="pnp-modern-search-sharepoint-app-catalog-02-1024x535" src="images/pnp-modern-search-sharepoint-app-catalog-02-1024x535.png" >}}
+![pnp-modern-search-sharepoint-app-catalog-02-1024x535](images/pnp-modern-search-sharepoint-app-catalog-02-1024x535.png)
 
 ### 2.2 - Deploy the PnP Modern Search Package 
 
 Once your App Catalog is done, or you have one that has been created
 earlier, open its URL and then select  "Apps for SharePoint":
 
-{{< image alt="pnp-modern-search-sharepoint-app-catalog-03-1024x553" src="images/pnp-modern-search-sharepoint-app-catalog-03-1024x553.png" >}}
+![pnp-modern-search-sharepoint-app-catalog-03-1024x553](images/pnp-modern-search-sharepoint-app-catalog-03-1024x553.png)
 
 On this screen, select  Upload, then choose the PnP Modern Search
 package file which you downloaded above.
 
 
-{{< image alt="pnp-modern-search-sharepoint-app-catalog-04-1024x652" src="images/pnp-modern-search-sharepoint-app-catalog-04-1024x652.png" >}}
+![pnp-modern-search-sharepoint-app-catalog-04-1024x652](images/pnp-modern-search-sharepoint-app-catalog-04-1024x652.png)
 
 When you're asked if you trust PnP Modern Search Web Parts, select the
 checkbox if you want to deploy it to all site collections, otherwise
 leave it unchecked if you need it on a few selected sites only. Then
 select Deploy:
 
-{{< image alt="pnp-modern-search-sharepoint-app-catalog-05" src="images/pnp-modern-search-sharepoint-app-catalog-05.png" >}}
+![pnp-modern-search-sharepoint-app-catalog-05](images/pnp-modern-search-sharepoint-app-catalog-05.png)
 
 Once done, you should see the PnP Modern Search Web Parts in the App
 Catalog:
 
-{{< image alt="pnp-modern-search-sharepoint-app-catalog-06-1024x274" src="images/pnp-modern-search-sharepoint-app-catalog-06-1024x274.png" >}}
+![pnp-modern-search-sharepoint-app-catalog-06-1024x274](images/pnp-modern-search-sharepoint-app-catalog-06-1024x274.png)
 
 ## 3 - Enjoy
 
@@ -107,7 +107,7 @@ you've deployed PnP Modern Search above), and edit the page. In the web
 parts list, search for "PnP", and you'll see the PnP Modern Search Web
 Parts there:
 
-{{< image alt="pnp-modern-search-v4-webparts" src="images/pnp-modern-search-v4-webparts.png" >}}
+![pnp-modern-search-v4-webparts](images/pnp-modern-search-v4-webparts.png)
 
 
 *This article was originally posted on [Search Explained

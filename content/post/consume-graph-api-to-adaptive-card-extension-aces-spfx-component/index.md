@@ -6,7 +6,7 @@ githubname: dips365
 categories: ["Community post"]
 images:
 - images/People1.jpg
-tags: []
+tags: ["SharePoint framework (SPFx)", "Adaptive card extensions", "Microsoft Graph"]
 type: "regular"
 ---
 
@@ -52,10 +52,10 @@ yo @microsoft/sharepoint
 ```
  
 When prompted, enter the below values to each parameter.
-{{< image alt="People1.jpg" src="images/People1.jpg" >}}
+![People1.jpg](images/People1.jpg)
  Once all required packages are downloaded then you will get a message
 as below.
-{{< image alt="People2.jpg" src="images/People2.jpg" >}}
+![People2.jpg](images/People2.jpg)
 Now open a solution in visual studio code or editor that you want to
 use.
 The below command is used to open the solution in VS Code.
@@ -396,7 +396,7 @@ gulp serve -l --nobrowser
  
 Open URL <https://contoso.sharepoint.com/_layouts/workbench.aspx>\
 Add your extension using select  add web part button.
-{{< image alt="1.gif" src="images/1.gif" >}}
+![1.gif](images/1.gif)
 
 
 ## Conclusion

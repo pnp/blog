@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/Step2.png
-tags: []
+tags: ["Power Automate", "SharePoint"]
 type: "regular"
 ---
 
@@ -24,15 +24,15 @@ Create a Power Automate - We will create an **Automated Cloud Flow**
 
 1.  Go to **Power Automate** \> **My flows** \> Select  **New flow** \>
 Select **Automated Cloud Flow**
-**{{< image alt="STep 1.png" src="images/STep 1.png" >}}
+**![STep 1.png](images/STep 1.png)
  
 2.  It will ask for the flow name and trigger.
 Add flow name and choose a trigger **when an item is created.**
-{{< image alt="Step2.png" src="images/Step2.png" >}}
+![Step2.png](images/Step2.png)
 3.  Select  **Cerate.**
 4.  Now set Site name and list name in **when an item is created in
 list **action.
-{{< image alt="Step3.png" src="images/Step3.png" >}}
+![Step3.png](images/Step3.png)
 **For all API Calling, we will use Send an HTTP request to SharePoint
 action.**
 5.  Now we will call REST API to break role inheritance.
@@ -52,7 +52,7 @@ Set all properties as below.
   ----------------------------------- ---------------------------------------------------------------------------------------------------------------------
  
 
-{{< image alt="step4.png" src="images/step4.png" >}}
+![step4.png](images/step4.png)
  
 
 1.  Now we will set new permission so for that we need a **user id** to
@@ -76,13 +76,13 @@ user so for that we will call REST API.
 Create a variable and set User Title or if you have any list column
 then you can use it.
 
-{{< image alt="Step5.png" src="images/Step5.png" >}}
+![Step5.png](images/Step5.png)
 
 Call API to get a user ID and filter it by the above-declared user
 name.
 
 
-{{< image alt="step6.png" src="images/step6.png" >}}
+![step6.png](images/step6.png)
 It will return an object as below,
  
 
@@ -114,11 +114,11 @@ outputs('Send_an_HTTP_request_to_SharePoint_-_Get_user_id')?['body']['d']['resul
 
 And we will set it in a variable called **UserId**.
 
-{{< image alt="step7.png" src="images/step7.png" >}}
+![step7.png](images/step7.png)
 
 Now we will set **contribute** permission for the above UserId.
 
-{{< image alt="step8.png" src="images/step8.png" >}}
+![step8.png](images/step8.png)
  
 
 Now we can test the flow.
@@ -127,7 +127,7 @@ Now we can test the flow.
 
 We can see contribute permission for an item as below,
 
-{{< image alt="OP.png" src="images/OP.png" >}}-align-center image-alt="OP.png" style="width: 999px;"}
+![OP.png](images/OP.png)-align-center image-alt="OP.png" style="width: 999px;"}
  
 
 ## Summary 

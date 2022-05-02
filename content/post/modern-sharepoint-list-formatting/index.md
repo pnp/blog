@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/daniel-cheung-zky0BmMT5m8-unsplash.jpg
-tags: []
+tags: ["SharePoint", "List formatting"]
 type: "regular"
 
 ---
@@ -20,7 +20,7 @@ list templates; I will cover them in one of the next blog posts.
 If you never heard anything about modern SharePoint list formatting,
 don't worry; I will guide you through this.
 
-{{< image alt="daniel-cheung-zky0BmMT5m8-unsplash.jpg" src="images/daniel-cheung-zky0BmMT5m8-unsplash.jpg" >}}
+![daniel-cheung-zky0BmMT5m8-unsplash.jpg](images/daniel-cheung-zky0BmMT5m8-unsplash.jpg)
 
 ## Why would we use SharePoint lists
 
@@ -65,7 +65,7 @@ Formatting a view means modifying the way the entire list is displayed.
 Formatting a column means changing the way this particular column looks
 like.
 
-{{< image alt="list-formatting-create.png" src="images/list-formatting-create.png" >}}
+![list-formatting-create.png](images/list-formatting-create.png)
 
  
 Formatting Views
@@ -75,18 +75,18 @@ Formatting Views
 
 -   and also display a gallery view
 
-{{< image alt="list-formatting-formatgallery.png" src="images/list-formatting-formatgallery.png" >}}
+![list-formatting-formatgallery.png](images/list-formatting-formatgallery.png)
 
 #### Formatting columns
 
 -   If we want to change the column's appearance, we can do that very
     end-user-friendly directly in the UI:
 
-{{< image alt="list-formatting-formatcolumns.png" src="images/list-formatting-formatcolumns.png" >}}
+![list-formatting-formatcolumns.png](images/list-formatting-formatcolumns.png)
 
  and even with rules like if - then - else:
 
-{{< image alt="list-formatting-formatrules.png" src="images/list-formatting-formatrules.png" >}}
+![list-formatting-formatrules.png](images/list-formatting-formatrules.png)
  
 ### How can I apply conditional formatting, aka rules
 
@@ -96,14 +96,14 @@ value. If the number is below 30, the field should be red; between 30
 and 70, it should yellow, and above 70, it should be green. Let's see
 how this looks like:
 
-{{< image alt="list-formatting.gif" src="images/list-formatting.gif" >}}
+![list-formatting.gif](images/list-formatting.gif)
 
 ### How can we change the look and feel of a list with JSON
 
 Sometimes, even if those options are already cool, we need some more
 flexibility.
 
-{{< image alt="whatif.jpg" src="images/whatif.jpg" >}}
+![whatif.jpg](images/whatif.jpg)
 
 There is a way to format both columns and views beyond what is already
 offered, as seen above. Perhaps you might have noticed the little
@@ -111,7 +111,7 @@ link **Advanced mode**? This is where we will find the cool tools to
 play with!
 
 
-{{< image alt="advanced-mode.png" src="images/advanced-mode.png" >}}
+![advanced-mode.png](images/advanced-mode.png)
 
 This field expects you to put some JSON code in it to format this
 column. If you never heard about JSON, you can quickly get started
@@ -130,12 +130,12 @@ make our lists look fantastic.
 
 Instead of having a list like this:
 
-{{< image alt="example list-BEFORE.png" src="images/example list-BEFORE.png" >}}
+![example list-BEFORE.png](images/example list-BEFORE.png)
 
 
 we can now look at a list like that:
 
-[{{< image alt="example list.png" src="images/example list.png" >}}
+[![example list.png](images/example list.png)
 
 ### How can we apply a sample? 
 
@@ -153,7 +153,7 @@ we can now look at a list like that:
 -   click **Save**
 
 
-{{< image alt="formatsplist.gif" src="images/formatsplist.gif" >}}
+![formatsplist.gif](images/formatsplist.gif)
  
 
 One more example how amazing a list can look like? I run a
@@ -166,7 +166,7 @@ With [this
 sample](https://lists.handsontek.net/format-image-column-preview-microsoft-lists-sharepoint/) we
 can hover over our images to have a big preview:
 
-{{< image alt="listformat-pyod.gif" src="images/listformat-pyod.gif" >}}
+![listformat-pyod.gif](images/listformat-pyod.gif)
 
 That's
 it!!

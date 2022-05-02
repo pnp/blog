@@ -4,7 +4,7 @@ date: 2021-03-30T10:00:00-04:00
 author: "Garry Trinder"
 githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 

@@ -6,7 +6,7 @@ githubname: tposzytek
 categories: ["Community post"]
 images:
 - images/TomaszPoszytek_0-1610369598416.png
-tags: []
+tags: ["Adaptive cards"]
 type: "regular"
 ---
 
@@ -18,15 +18,15 @@ Like a YouTube video in Facebook Messenger conversation. You see how seamless
 
 In Microsoft landscape we do have Adaptive Cards already in various places. Have you known it? You can find them when you talk to Cortana. 
 
-{{< image alt="" src="images/TomaszPoszytek_0-1610369598416.png" >}}
+![](images/TomaszPoszytek_0-1610369598416.png)
 
 They are also in Windows Timeline (access it by pressing Win+Tab).  
 
-{{< image alt="" src="images/TomaszPoszytek_1-1610369705002.jpeg" >}}
+![](images/TomaszPoszytek_1-1610369705002.jpeg)
 
 You can find them in your Outlook when you receive a message containing an interactive form inside. 
 
-{{< image alt="" src="images/TomaszPoszytek_2-1610369705011.png" >}}
+![](images/TomaszPoszytek_2-1610369705011.png)
 
 And what is the most obvious -- they are also present are very commonly used in Microsoft Teams -- this is the platform on which I will focus in this article.  Apart from the places I mentioned, Adaptive Cards are also present in multiple services from Microsoft, like Microsoft Search, Microsoft GraphAPI explorer, Azure Bot Framework and many more. This technology however is not limited and exclusively used only by Microsoft. Cisco is using it to display cards in their Webex Teams and Adaptive Cards' SDK (Software Development Kit -- set of tools used to build and run software) is open-source and hosted on GitHub, therefore anyone can use it in their development own projects, for example when building apps for Android or custom web sites with JavaScript or .NET. 
 
@@ -34,7 +34,7 @@ And what is the most obvious -- they are also present are very commonly used in
 
 Adaptive Card is a technology that uses JSON (JavaScript Object Notation -- structured method to describe information, learn more from [Bob German](https://twitter.com/Bob1German) here: <https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/introduction-to-json/ba-p/2049369>) to declare how the final card should look like. The defined code is then parsed by the host that has Adaptive Cards SDK installed. Using SDK and JSON schema (schema defines what information can be used by authors in their cards) for the specific version translates code into valid HTML that is being displayed to users. 
 
-{{< image alt="" src="images/TomaszPoszytek_3-1610369704993.png" >}}
+![](images/TomaszPoszytek_3-1610369704993.png)
 
 Thanks to this approach, creation of user interface using Adaptive Cards is not only fast (no need to design separate card for desktop and mobile, for Android and iOS etc.), but also secure, since if part of JSON code that is used in card does not exist in SDK, it will not be rendered, so no malicious code can be then executed at user side. 
 
@@ -44,7 +44,7 @@ All right. Now that we know what they are and how they work, let me tell you h
 
 The best place to start authoring your first (and every next) Adaptive Card is the designer, that you can find at [https://adaptivecards.io/designer](https://adaptivecards.io/designer). There you can, following drag&drop visual designing approach create Adaptive Card and then configure all required properties. The designer is built from the following functionalities: 
 
-{{< image alt="" src="images/TomaszPoszytek_4-1610369705020.png" >}}
+![](images/TomaszPoszytek_4-1610369705020.png)
 
 
 1.  **New card** -- allows to create a card from a blank canvas or to start using one from existing templates. 
@@ -64,7 +64,7 @@ The best place to start authoring your first (and every next) Adaptive Card is�
 
 Actions can be added to the card via the ActionSet or simply defined at
 the bottom of the main container. 
-{{< image alt="" src="images/TomaszPoszytek_5-1610369704978.png" >}}
+![](images/TomaszPoszytek_5-1610369704978.png)
 
 There are four types of actions that author can choose from: 
 
@@ -85,30 +85,30 @@ Today there is just one option to display Adaptive Cards in Microsoft Teams�
 
 In Power Automate there are several actions that allows to generate Adaptive Cards in MS Teams, however each has significantly different purpose. 
 
-{{< image alt="" src="images/TomaszPoszytek_6-1610369705006.png" >}}
+![](images/TomaszPoszytek_6-1610369705006.png)
  
 1. Post a choice of options as the Flow bot to a user – action allows to send an Adaptive Card in a pre-defined layout, where author can define message and options – that will be displayed as button. After card is sent, flow is paused for up to 30 days waiting for user’s response. This action can be used in simple approval/ collecting feedback scenarios, where no fancy layout is expected.
-{{< image alt="" src="images/TomaszPoszytek_7-1610369704982.png" >}}
+![](images/TomaszPoszytek_7-1610369704982.png)
 
 2. Post an Adaptive Card to a Teams user and wait for a response – allows to send custom built Adaptive Card to a specific Microsoft Teams user and to pause the flow for up to 30 days while waiting for response.
 
 3. Post an Adaptive Card to a Teams channel and wait for a response – the same as above, but Adaptive Card is sent to a channel.
-{{< image alt="" src="images/TomaszPoszytek_8-1610369704984.png" >}}
+![](images/TomaszPoszytek_8-1610369704984.png)
 
 4. Post a message as the Flow bot to a user – sends a pre-defined Adaptive Card to a chosen user but does nothing more. Author cannot embed here custom JSON code.
-{{< image alt="" src="images/TomaszPoszytek_9-1610369704985.png" >}}
+![](images/TomaszPoszytek_9-1610369704985.png)
 
 5. Post a message as the Flow bot to a channel – the same as above, but message is sent to a channel.
 
 6. Post your own adaptive card as the Flow bot to a user – allows author to send custom Adaptive Card to a user, however it is not waiting for the response so in case card contains form, `Action.Submit` results in error.
 
 7. Post your own adaptive card as the Flow bot to a channel. As above, however the card is sent to a channel. The above two actions simply allow to send the card, but they do not offer any way to collect feedback. They are a good choice if you are planning to simply send informative card, without forms.
-{{< image alt="" src="images/TomaszPoszytek_10-1610369704997.png" >}}
+![](images/TomaszPoszytek_10-1610369704997.png)
 
 ## Exercise
 
 Now it is your turn. Build an easy flow, that is triggered manually and all it does is posting an Adaptive Card to a Teams channel (of your choice), using **Post your own adaptive card as the Flow bot to a channel** action.  
-{{< image alt="" src="images/TomaszPoszytek_11-1610369704987.png" >}}
+![](images/TomaszPoszytek_11-1610369704987.png)
 
 Then copy paste the following Adaptive Card JSON code and paste as **Message** inside the action: 
  
@@ -162,7 +162,7 @@ Then copy paste the following Adaptive Card JSON code and paste as **Message** 
 ```
  
 Now save and test your flow. You should see the below cool Adaptive Card in Microsoft Teams channel: 
-{{< image alt="" src="images/TomaszPoszytek_12-1610369704999.png" >}}
+![](images/TomaszPoszytek_12-1610369704999.png)
  
 ## Further learning 
 

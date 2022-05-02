@@ -6,7 +6,7 @@ githubname: eemancini
 categories: ["Community post"]
 images:
 - images/eemancini_1-1613662523389.png
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
 
@@ -29,7 +29,7 @@ surface training content across your SharePoint site collections,
 up-to-date Microsoft documentation for Microsoft 365
 solutions
 
-{{< image alt="eemancini_0-1613662523386.png" src="images/eemancini_0-1613662523386.png" >}}
+![eemancini_0-1613662523386.png](images/eemancini_0-1613662523386.png)
 
 The information architecture behind Learning Pathways supports
 structuring your playlists by category and subcategory. Within a
@@ -43,7 +43,7 @@ within technology
 level, or
 audience.
 
-{{< image alt="eemancini_1-1613662523389.png" src="images/eemancini_1-1613662523389.png" >}}
+![eemancini_1-1613662523389.png](images/eemancini_1-1613662523389.png)
 
 Some organizations may find the existing choices do not support their
 needs. To customize these fields, you will need to
@@ -96,13 +96,13 @@ the Learning Pathways content in your own repository allowing you to
 make customizations to the information architecture through editing the
 JSON.
 
-{{< image alt="eemancini_2-1613662523392.png" src="images/eemancini_2-1613662523392.png" >}}
+![eemancini_2-1613662523392.png](images/eemancini_2-1613662523392.png)
 
 After you are done forking the repo, you will see your own copy of the
 repo in the top left
 navigation:
 
-{{< image alt="eemancini_3-1613662523373.png" src="images/eemancini_3-1613662523373.png" >}}
+![eemancini_3-1613662523373.png](images/eemancini_3-1613662523373.png)
 
 ### Step 2: Turn on GitHub pages
 
@@ -110,14 +110,14 @@ Select **Settings** in
 the top
 navigation:
 
-{{< image alt="eemancini_4-1613662523375.png" src="images/eemancini_4-1613662523375.png" >}}
+![eemancini_4-1613662523375.png](images/eemancini_4-1613662523375.png)
 
 Scroll down the page until you see a header
 for **GitHub Pages** . In the
 Source dropdowns,
 select **Main** and **docs** then
 select **Save**
-{{< image alt="eemancini_0-1613663078684.png" src="images/eemancini_0-1613663078684.png" >}}
+![eemancini_0-1613663078684.png](images/eemancini_0-1613663078684.png)
 
 Upon saving, GitHub will bring you to the top of the page again. Scroll
 down to ] **GitHub Pages**  once more
@@ -125,7 +125,7 @@ to copy the URL for your
 GitHub
 pages:
 
-{{< image alt="eemancini_1-1613663087728.png" src="images/eemancini_1-1613663087728.png" >}}
+![eemancini_1-1613663087728.png](images/eemancini_1-1613663087728.png)
 
 Follow the docs.microsoft.com instructions
 for [adding a content pack to learning
@@ -143,7 +143,7 @@ page CustomLearningAdmin.aspx of
 Learning
 Pathways: ]
 
-{{< image alt="eemancini_2-1613663101656.png" src="images/eemancini_2-1613663101656.png" >}}
+![eemancini_2-1613663101656.png](images/eemancini_2-1613663101656.png)
 
 ### Step 5: Edit metadata in GitHub
 
@@ -157,7 +157,7 @@ will be working in **en-us**. In
 this folder you will find 3 JSON files.
 Select **metadata.json**
 
-{{< image alt="eemancini_3-1613663112898.png" src="images/eemancini_3-1613663112898.png" >}}
+![eemancini_3-1613663112898.png](images/eemancini_3-1613663112898.png)
 
 Explore the [metadata.json
 structure](https://docs.microsoft.com/office365/customlearning/custom_partnerguide_contint#metadatajson-structure) for

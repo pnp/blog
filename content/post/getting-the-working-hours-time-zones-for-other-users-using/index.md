@@ -6,7 +6,7 @@ githubname: michelcarlo
 categories: []
 images:
 - images/01_Mysettings.PNG
-tags: []
+tags: ["Microsoft Graph"]
 type: "regular"
 ---
 
@@ -27,7 +27,7 @@ object available through the user properties in Graph:
 This gives us a response in the following format, and those details are
 available (sample test using Graph Explorer):
 
-{{< image alt="01_Mysettings.PNG" src="images/01_Mysettings.PNG" >}}
+![01_Mysettings.PNG](images/01_Mysettings.png)
 
 However, using delegated permissions, the current user can only access
 their own settings.
@@ -35,7 +35,7 @@ If I try to access the same information for another user 'Carlos'
 under the tenant, the access will be denied, even with all related
 permissions granted to the current app:
 
-{{< image alt="02_OtherUsers.PNG" src="images/02_OtherUsers.PNG" >}}
+![02_OtherUsers.PNG](images/02_OtherUsers.png)
 
 Most of the operations that access Exchange Online with delegated
 permission will work only for the current user's data.
@@ -55,7 +55,7 @@ graph endpoints:
 And use the request body in the following format (use an array of a
 single user email address if you want to retrieve only one user):
 
-{{< image alt="03_CarlosPostBody.PNG" src="images/03_CarlosPostBody.PNG" >}}
+![03_CarlosPostBody.PNG](images/03_CarlosPostBody.png)
 
 Simply check for a user's schedule and the working hours will be
 returned together with the schedule. You can use any valid dates/time
@@ -67,7 +67,7 @@ the query wouldn't bring any schedule items info.
 In the response to the query mentioned above, no schedule item is
 returned but the working hours property is still correctly provided:
 
-{{< image alt="04_CarlosResponseBody.PNG" src="images/04_CarlosResponseBody.PNG" >}}
+![04_CarlosResponseBody.PNG](images/04_CarlosResponseBody.png)
 
 ## Conclusion
 

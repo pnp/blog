@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/AzureCreateResource.png
-tags: []
+tags: ["Azure"]
 type: "regular"
 ---
 
@@ -39,7 +39,7 @@ Here is our solution overview: 
 
  
 
-{{< image alt="AZTwilio.png" src="images/AZTwilio.png" >}}
+![AZTwilio.png](images/AZTwilio.png)
 
 As you can see, we will touch some interesting things like 
 
@@ -61,13 +61,13 @@ to it.
 
 -   Go to [portal.azure.com](https://portal.azure.com/)
 -   Select  **Create a resource**
-{{< image alt="AzureCreateResource.png" src="images/AzureCreateResource.png" >}}
+![AzureCreateResource.png](images/AzureCreateResource.png)
  
 -   Search for **Function App **in the search bar
 -   Select **Function App**
 
-{{< image alt="LuiseFreese_3-1627339056564.png" src="images/LuiseFreese_3-1627339056564.png" >}}
-{{< image alt="FunctionAppNew.png" src="images/FunctionAppNew.png" >}}
+![LuiseFreese_3-1627339056564.png](images/LuiseFreese_3-1627339056564.png)
+![FunctionAppNew.png](images/FunctionAppNew.png)
 
  
 
@@ -85,7 +85,7 @@ Select **Create**
     -   \(7\) Select your Region
     -   \(8\) Select ** Review + Create**
 
-{{< image alt="FunctionAppCreateSteps.png" src="images/FunctionAppCreateSteps.png" >}}
+![FunctionAppCreateSteps.png](images/FunctionAppCreateSteps.png)
 you can now review everything -- as a last step
 
 -   Select **Create**
@@ -115,7 +115,7 @@ Please follow these steps: 
 
 You will now see your **Local Project** in the pane.
 
-{{< image alt="azfunctionVSCode.png" src="images/azfunctionVSCode.png" >}}
+![azfunctionVSCode.png](images/azfunctionVSCode.png)
 
 You can now develop, debug and test your function locally and have
 source control of your code . I like this way more than jumping back and
@@ -127,12 +127,12 @@ already logged into your Azure account, a browser window will pop up and
 ask you to sign in with your credentials. \
 \
 
- {{< image alt="swploy.png" src="images/swploy.png" >}}
+ ![swploy.png](images/swploy.png)
 Once you selected the **deploy** icon, you need to specify the function
 in Azure and need to confirm that you know what you are doing 
  
 
-{{< image alt="confirmdeploy.png" src="images/confirmdeploy.png" >}}
+![confirmdeploy.png](images/confirmdeploy.png)
 
 
 Azure needs again a few seconds to deploy and Visual Studio Code will
@@ -140,7 +140,7 @@ let you know once this is done 
  
 
 
-{{< image alt="confirmdeploysuccess.png" src="images/confirmdeploysuccess.png" >}}
+![confirmdeploysuccess.png](images/confirmdeploysuccess.png)
  
 
 ## Twilio 
@@ -157,7 +157,7 @@ more secure in an Azure Key Vault. But first, head over to Twilio,
 create an account and get a trial number. Your Twilio Dashboard should
 look a little like this:
 
-{{< image alt="Codeandtest.png" src="images/Codeandtest.png" >}}
+![Codeandtest.png](images/Codeandtest.png)
 
 -   Copy **Account SID**
 -   Copy **Auth token**
@@ -176,7 +176,7 @@ Head over to your Azure Function App
 -   \(4\) Paste in your copied **Account SID** as the value
 -   \(5\) Select **OK**
 
-{{< image alt="LuiseFreese_40-1627337771809.png" src="images/LuiseFreese_40-1627337771809.png" >}}
+![LuiseFreese_40-1627337771809.png](images/LuiseFreese_40-1627337771809.png)
 
 Repeat step 1-5 from above for
 
@@ -186,7 +186,7 @@ Repeat step 1-5 from above for
 
 Hit save Your App setting should now look like this:
 
-{{< image alt="LuiseFreese_41-1627337799414.png" src="images/LuiseFreese_41-1627337799414.png" >}}
+![LuiseFreese_41-1627337799414.png](images/LuiseFreese_41-1627337799414.png)
 
 ## **Azure Function App -add function** 
 
@@ -199,7 +199,7 @@ Now its time to add some functionality to our app:
 -   \(5\) Select **Add**
 
 \
-{{< image alt="LuiseFreese_42-1627337856099.png" src="images/LuiseFreese_42-1627337856099.png" >}}
+![LuiseFreese_42-1627337856099.png](images/LuiseFreese_42-1627337856099.png)
  
 
 -   Select **Code + Test**
@@ -301,7 +301,7 @@ Now select your new workflow and follow these steps:
 
 
 
-{{< image alt="Createworkflow.png" src="images/Createworkflow.png" >}}
+![Createworkflow.png](images/Createworkflow.png)
 
  
 
@@ -319,7 +319,7 @@ function, this is:
 -   Select the function within your Functions app
 -   Select **Create**
 
-{{< image alt="LuiseFreese_44-1627338250789.png" src="images/LuiseFreese_44-1627338250789.png" >}}
+![LuiseFreese_44-1627338250789.png](images/LuiseFreese_44-1627338250789.png)
 
 -   Select **Get** as Method
 -   Save your app.
@@ -327,7 +327,7 @@ function, this is:
 -   Select **Run Trigger**
 -   Select **Run**
 
-{{< image alt="LuiseFreese_45-1627338310190.png" src="images/LuiseFreese_45-1627338310190.png" >}}
+![LuiseFreese_45-1627338310190.png](images/LuiseFreese_45-1627338310190.png)
 
 Note the custom output body that we defined in our Azure Function
 
@@ -345,7 +345,7 @@ Fun**, search for **HTTP**
 
 Once again, you can see the outputs of your workflow run 
 
-{{< image alt="LuiseFreese_46-1627338363471.png" src="images/LuiseFreese_46-1627338363471.png" >}}
+![LuiseFreese_46-1627338363471.png](images/LuiseFreese_46-1627338363471.png)
 
 Next step, makes this even more secure by storing our Twilio token and
 the Twilio SID in an Azure Key vault so that we can refer to it in our
@@ -362,7 +362,7 @@ Head over to your Resource Group
 
 Now fill out the form as follows
 
-{{< image alt="LuiseFreese_47-1627338404313.png" src="images/LuiseFreese_47-1627338404313.png" >}}
+![LuiseFreese_47-1627338404313.png](images/LuiseFreese_47-1627338404313.png)
 Review and select **Create.**
 
 It will take a couple of seconds again for Azure to deploy your resource
@@ -381,7 +381,7 @@ both Twilio SID and Twilio Auth Token: 
  
 
 
-{{< image alt="LuiseFreese_48-1627338540906.png" src="images/LuiseFreese_48-1627338540906.png" >}}
+![LuiseFreese_48-1627338540906.png](images/LuiseFreese_48-1627338540906.png)
  
 
 We will use these two secrets later again in our Azure Function, but to
@@ -397,13 +397,13 @@ Head over to your Function app again and 
 -   \(3\) Select **Save**
 
 
-{{< image alt="LuiseFreese_49-1627338576580.png" src="images/LuiseFreese_49-1627338576580.png" >}}
+![LuiseFreese_49-1627338576580.png](images/LuiseFreese_49-1627338576580.png)
 A Pop-up displaying the following message appears, select **Yes**
 
  
 
 
-{{< image alt="LuiseFreese_50-1627338604177.png" src="images/LuiseFreese_50-1627338604177.png" >}}
+![LuiseFreese_50-1627338604177.png](images/LuiseFreese_50-1627338604177.png)
 Now we will add the access policy to our Key vault so that our function
 may read the secrets. Head over to the Key vault and 
 
@@ -411,7 +411,7 @@ may read the secrets. Head over to the Key vault and 
 -   \(2\) Select **Add Access Policy**
 
 
-{{< image alt="LuiseFreese_51-1627338622825.png" src="images/LuiseFreese_51-1627338622825.png" >}}
+![LuiseFreese_51-1627338622825.png](images/LuiseFreese_51-1627338622825.png)
  
 
 Now fill out the form as follows: 
@@ -430,7 +430,7 @@ Now fill out the form as follows: 
  
 
 
-{{< image alt="accesspolicyform.png" src="images/accesspolicyform.png" >}}
+![accesspolicyform.png](images/accesspolicyform.png)
  
 Now that our function app has permission to read the secrets from our
 Key vault, we will reference to the secret in the functions app
@@ -448,7 +448,7 @@ over to the functions app and 
  
 
 
-{{< image alt="LuiseFreese_52-1627338697431.png" src="images/LuiseFreese_52-1627338697431.png" >}}
+![LuiseFreese_52-1627338697431.png](images/LuiseFreese_52-1627338697431.png)
  
 
 -   Fill out the form as follows: 
@@ -463,7 +463,7 @@ Now let's get rid of our hard coded values in the app configuration to
 clean up things: 
 
 
-{{< image alt="cleanup.png" src="images/cleanup.png" >}}
+![cleanup.png](images/cleanup.png)
 Select the **Delete** icon -- please check twice to delete the right
 settings! 
 
@@ -478,7 +478,7 @@ Select **Functions**
 
 **That's it -- you made it work! And this is the result: **
 
-{{< image alt="LuiseFreese_56-1627338765021.png" src="images/LuiseFreese_56-1627338765021.png" >}}
+![LuiseFreese_56-1627338765021.png](images/LuiseFreese_56-1627338765021.png)
 
 **You successfully**
 

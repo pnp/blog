@@ -6,7 +6,7 @@ githubname: michaelmaillot
 categories: ["Community post"]
 images:
 - images/peoplepicker-ui-fail.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 
@@ -90,12 +90,12 @@ remote workbench
 (<https://contoso.sharepoint.com/_layouts/15/workbench.aspx>). Try to
 use the `PeoplePicker` component: you'll see that just by clicking on
 the search box, you'll get *We didn't find any matches*.
-{{< image alt="peoplepicker-ui-fail.png" src="images/peoplepicker-ui-fail.png" >}}
+![peoplepicker-ui-fail.png](images/peoplepicker-ui-fail.png)
  
 
 Display your developer toolbox (F12) and go to the browser console, you
 should see the following error:
-{{< image alt="peoplepicker-console-fail.png" src="images/peoplepicker-console-fail.png" >}}
+![peoplepicker-console-fail.png](images/peoplepicker-console-fail.png)
 As you can see, it's a 403 error, which is well-known when using Graph
 API endpoints that have not been allowed on the first place.
  
@@ -112,12 +112,12 @@ Once here, select  **Add a permission**, then select **Microsoft
 Graph** and add the \[*People.Read*\] Graph API [delegated
 permission]{.underline} (you can type the name of the permission in the
 available search box to get it easily).
-{{< image alt="aad-app-spo-api-graph.png" src="images/aad-app-spo-api-graph.png" >}}
+![aad-app-spo-api-graph.png](images/aad-app-spo-api-graph.png)
 Once added, grant it by clicking on **Grant admin consent for contoso**.
 If you go in the *API access* page
 (<https://contoso-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/webApiPermissionManagement>),
 you should see something like this:
-{{< image alt="(other Graph API permissions displayed here won't be necessary for the sample)" src="images/api-access-approved.png" >}}
+![(other Graph API permissions displayed here won't be necessary for the sample)](images/api-access-approved.png)
 **Warning**
 
 It can take a couple of minutes before consented permissions is
@@ -142,7 +142,7 @@ your SPFx solution to work.
 Now try to use the `PeoplePicker` component again: you'll see that with
 the addition of the Graph API permission, you should be able to use that
 component!
-{{< image alt="peoplepicker-ui-success.png" src="images/peoplepicker-ui-success.png" >}}
+![peoplepicker-ui-success.png](images/peoplepicker-ui-success.png)
 
 ## With custom API 
 
@@ -166,13 +166,13 @@ Extensibility Web Application Principal**. Once here, select  **Add a
 permission**, then select the **My APIs** tab and select the fresh added
 AAD App created before. Select the **user_impersonation** permission,
 then confirm.
-{{< image alt="aad-app-spo-api-custom.png" src="images/aad-app-spo-api-custom.png" >}}
+![aad-app-spo-api-custom.png](images/aad-app-spo-api-custom.png)
 
 Finally, grant this permission by clicking on **Grant admin consent for
 contoso**.
 If you go again in the *API access* page, you should see something like
 this:
-{{< image alt="api-access-custom-approved.png" src="images/api-access-custom-approved.png" >}}
+![api-access-custom-approved.png](images/api-access-custom-approved.png)
 
 ### Add custom API through CLI for Microsoft 365
 

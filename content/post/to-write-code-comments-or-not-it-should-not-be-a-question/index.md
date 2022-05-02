@@ -75,7 +75,7 @@ what is the point? Well, new developers are joining the team.
 Another good reason from [Wassim
 Chegham](https://twitter.com/manekinekko/status/1365425869909549062 "Link to the tweet of Wassim Chegham")
 
-{{< image alt="comments1.png" src="images/comments1.png" >}}
+![comments1.png](images/comments1.png)
 
 
 
@@ -207,4 +207,4 @@ created just the VSCode Extension for you. With the [Hide
 Comments](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hide-comments "VSCode Hide Comments Extension") extension,
 you decide if you want to show or hide the comments for the project.
 
-{{< image alt="comments2.png" src="images/comments2.png" >}}
+![comments2.png](images/comments2.png)

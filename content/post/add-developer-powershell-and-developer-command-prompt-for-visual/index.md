@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/image.png
 
-tags: []
+tags: ["PowerShell"]
 type: "regular"
 ---
 
@@ -19,7 +19,7 @@ Ubuntu or PowerShell Core 7. Unfortunately, it doesn't detect the
 Developer Command Prompt and Developer PowerShell for Visual Studio.
 Luckily, you can add them yourself!
 
-{{< image alt="image.png" src="images/image.png" >}}
+![image.png](images/image.png)
 
 The steps are rather simple:
 
@@ -28,7 +28,7 @@ The steps are rather simple:
 -   In the `settings.json` file that opens in your favorite code editor,
     locate the `lists` array inside the `profiles` object
 
-{{< image alt="image-1.png" src="images/image-1.png" >}}{
+![image-1.png](images/image-1.png){
 
 Inside that `lists` array, you can add your additional profiles. In this
 case, for the Visual Studio command prompts, just use the following
@@ -50,7 +50,7 @@ snippet:
 Save the `settings.json` file, and now the new options show when opening
 a new tab:
 
-{{< image alt="image-2.png" src="images/image-2.png" >}}
+![image-2.png](images/image-2.png)
 
 Time to do your Visual Studio command line work in the fancy new Windows
 Terminal!

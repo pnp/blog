@@ -5,7 +5,7 @@ author: "Paul Bullock"
 githubname: pkbullock
 categories: ["Community post"]
 images: []
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
 Using the Modernization tooling, classic SharePoint pages can be
@@ -33,7 +33,7 @@ operations](https://developer.microsoft.com/sharepoint/blogs/general-availabilit
 
  
 
-{{< image alt="Diagram to show the transition of PnP Modernisation tooling in the underlying framework" src="images/Modernisation-Transition.png" >}}
+![Diagram to show the transition of PnP Modernisation tooling in the underlying framework](images/Modernisation-Transition.png)
  
 
 The modernization tooling is dependent on the PnP Sites Core, we are

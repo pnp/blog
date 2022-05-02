@@ -6,7 +6,7 @@ githubname: DamoBird365
 categories: ["Community post"]
 images:
 - images/DamoBird365_0-1628093847880.png
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 
@@ -84,7 +84,7 @@ When a file is created in our folder location (in this case OneDrive but
 equally it would work on SharePoint), we get the worksheet names and
 then get the file content of the original file.
  
-{{< image alt="DamoBird365_0-1628093847880.png" src="images/DamoBird365_0-1628093847880.png" >}}
+![DamoBird365_0-1628093847880.png](images/DamoBird365_0-1628093847880.png)
 
  
 Then in an apply to each, we use the results array from the
@@ -98,7 +98,7 @@ file content and a prefix of "Current Item".  Finally calling the
 Action, based on the result of the filter array.  
 
  
-{{< image alt="DamoBird365_1-1628094142942.png" src="images/DamoBird365_1-1628094142942.png" >}}
+![DamoBird365_1-1628094142942.png](images/DamoBird365_1-1628094142942.png)
 
 
 The end result is an excel workbook, containing one sheet and as we are
@@ -107,19 +107,19 @@ worksheet.  Below we have the original workbook containing five
 worksheets.
 
  
-{{< image alt="DamoBird365_3-1628094699559.png" src="images/DamoBird365_3-1628094699559.png" >}}
+![DamoBird365_3-1628094699559.png](images/DamoBird365_3-1628094699559.png)
 
  
 Here we see the individual workbooks on OneDrive, prefixed with the
 sheet name:
  
 
-{{< image alt="DamoBird365_2-1628094676818.png" src="images/DamoBird365_2-1628094676818.png" >}}
+![DamoBird365_2-1628094676818.png](images/DamoBird365_2-1628094676818.png)
 
 Now we have a single workbook with a unique sheet, called "ATable":
  
 
-{{< image alt="DamoBird365_4-1628094930996.png" src="images/DamoBird365_4-1628094930996.png" >}}
+![DamoBird365_4-1628094930996.png](images/DamoBird365_4-1628094930996.png)
  
 
 Why might you want to do this?  If you maintain a single workbook with
@@ -139,11 +139,11 @@ content action, it's possible to save the JSON output to a compose and
 re-use the empty template file when using the "create file" action.
 
  
-{{< image alt="DamoBird365_0-1628095727802.png" src="images/DamoBird365_0-1628095727802.png" >}}
+![DamoBird365_0-1628095727802.png](images/DamoBird365_0-1628095727802.png)
 
 A compose action with the File Content copied into it.  
  
-{{< image alt="DamoBird365_1-1628095823450.png" src="images/DamoBird365_1-1628095823450.png" >}}
+![DamoBird365_1-1628095823450.png](images/DamoBird365_1-1628095823450.png)
 
 
 By doing it this way, we achieve two things.
@@ -161,7 +161,7 @@ column A to E on row 1, i.e. 5 columns with headers Name, Age, Address1,
 Address2, PostCode.
  
 
-{{< image alt="DamoBird365_2-1628096048590.png" src="images/DamoBird365_2-1628096048590.png" >}}
+![DamoBird365_2-1628096048590.png](images/DamoBird365_2-1628096048590.png)
 
 To populate our excel file, I have an array contained within a compose,
 this data array could be the result of another action or a filter or
@@ -169,7 +169,7 @@ OData query on another Excel Worksheet that you simply want to save a
 copy of:
 
  
-{{< image alt="DamoBird365_4-1628096378139.png" src="images/DamoBird365_4-1628096378139.png" >}}
+![DamoBird365_4-1628096378139.png](images/DamoBird365_4-1628096378139.png)
  
  
 Then using an apply to each and the compose array as an input we can add
@@ -196,7 +196,7 @@ create table action. 
 The table name is provided dynamically from the create table action and
 the File Id is the dynamic value from the create file action.
  
-{{< image alt="DamoBird365_3-1628096174072.png" src="images/DamoBird365_3-1628096174072.png" >}}
+![DamoBird365_3-1628096174072.png](images/DamoBird365_3-1628096174072.png)
 If we turn on concurrency, we can add 50 rows to the newly created excel
 file in a matter of seconds.  Whilst I haven't covered this here, it
 would be possible to write an office script to take an array of objects
@@ -217,7 +217,7 @@ Here we have a CSV contained within a compose and another compose action
 with a return line (literally press return on your keyboard).  Then
 using split, we turn the CSV into an array of separate lines.
  
-{{< image alt="DamoBird365_5-1628096964541.png" src="images/DamoBird365_5-1628096964541.png" >}}
+![DamoBird365_5-1628096964541.png](images/DamoBird365_5-1628096964541.png)
 
  
 Using the select action, the from array input is the output from the
@@ -230,20 +230,20 @@ This will allow us to call each value by integer
 index *split(item(),',')\[0\].*
  
 
-{{< image alt="DamoBird365_6-1628097127838.png" src="images/DamoBird365_6-1628097127838.png" >}}
+![DamoBird365_6-1628097127838.png](images/DamoBird365_6-1628097127838.png)
 
 
 Our select action take an array of comma separated lines and outputs an
 array of key/value pairs like follows:
 
-{{< image alt="DamoBird365_7-1628097240857.png" src="images/DamoBird365_7-1628097240857.png" >}}
+![DamoBird365_7-1628097240857.png](images/DamoBird365_7-1628097240857.png)
 
  
 And if we update the apply to each source as the select output, we end
 up with a new excel file using a CSV file as our input:
 
 
-{{< image alt="DamoBird365_8-1628097338222.png" src="images/DamoBird365_8-1628097338222.png" >}}
+![DamoBird365_8-1628097338222.png](images/DamoBird365_8-1628097338222.png)
 
  
 For more information about parsing CSV files in PowerAutomate, please

@@ -39,11 +39,11 @@ We would be asked with series of questions, please refer to the below screenshot
 
 For this sample, we are going to create a tab without SSO support.
 
-{{< image alt="thumbnail image 1 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d08358e702f.png" >}}
+![thumbnail image 1 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d08358e702f.png)
 
 _Note – As we are choosing SSO support as No, the user will have to log in to Teams Tab separately if you wish to make the Graph API calls…We won’t be able to use the Teams Login token to make Graph API calls but have to make separate calls. It is also possible to have SSO support where users don’t have to log in but we would also need to have a backend(server) making use of ID token from Teams App and getting access token to make Graph API call on behalf of the user flow… I would try to write a separate article on it._
 
-{{< image alt="thumbnail image 2 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d086d0b920c.png" >}}
+![thumbnail image 2 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d086d0b920c.png)
 
 It will take some time and finally you should be able to see below.
 
@@ -63,7 +63,7 @@ _Ideally, we should use Teams MSAL2Provider for authentication purposes as it is
 
 So I have separately installed  `@microsoft/mgt` package, make sure you are also doing so.
 
-{{< image alt="thumbnail image 3 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d088492862d.png" >}}
+![thumbnail image 3 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d088492862d.png)
 
 Open your solution in Visual Studio code using `code .`
 
@@ -96,21 +96,21 @@ Choose Azure Active Directory
 
 Select **App Registration** from left Blade, Select New Registration
 
-{{< image alt="thumbnail image 4 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d0945460a06.png" >}}
+![thumbnail image 4 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d0945460a06.png)
 
 Provide the name of your App ‘TeamsAppGraphToolkit1 ‘. Select **Register** at the bottom of the page
 
-{{< image alt="thumbnail image 5 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d094d605263.png" >}}
+![thumbnail image 5 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d094d605263.png)
 
 Once created, select **Authentication** on the left blade, choose Add platform and select Single-page application
 
-{{< image alt="thumbnail image 6 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d09529034e3.png" >}}
+![thumbnail image 6 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d09529034e3.png)
 
 Enter ‘Redirect URIs’  as `http://localhost` for a sample, ideally, once you publish this app, it should be the domain of your team’s app. We will also have to change this to ngrok URL while doing testing.
 
 Next thing here we have to enable Implicit this App registration supports. As Teams Provider user MSAL(not MSAL2) which only supports Implicit Flow for OAuth, we have enabled both **Access tokens and ID tokens.** 
 
-{{< image alt="thumbnail image 7 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d148a4dc83a.png" >}}
+![thumbnail image 7 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d148a4dc83a.png)
 
 Save it and note down the client Id of this App from the Overview tab, we would require it later.
 
@@ -192,17 +192,17 @@ gulp ngrok-serve
 
 Once it has run successfully, it should show some like below
 
-{{< image alt="thumbnail image 8 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d14cc00c1fe.png" >}}
+![thumbnail image 8 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d14cc00c1fe.png)
 
 Next thing, we will have to add the ngrok URL in Azure AD App registration as a redirect URL.
 
-{{< image alt="thumbnail image 9 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d14ce80c11c-1024x546.png" >}}
+![thumbnail image 9 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d14ce80c11c-1024x546.png)
 
 ## Step – Test the App in Teams
 
 Go to teams and select **Apps** on the left panel and then select upload a custom app(this button will only be visible if sideloading is enabled by Teams Administrator)
 
-{{< image alt="thumbnail image 10 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d14d4b1bb1a.png" >}}
+![thumbnail image 10 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d14d4b1bb1a.png)
 
 Select **Upload a custom app**, then **Upload for me and my teams**,  
 Select the zip package at `D:\SP\samples\teamsapps\teams-graphtoolkit\package\teamsgraphtoolkit.zip`
@@ -211,19 +211,19 @@ Note -This zip file will be updated everything you run gulp ngrok-serve, so you 
 
 Select **Add**
 
-{{< image alt="thumbnail image 11 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d14e07de75e-768x592.png" >}}
+![thumbnail image 11 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d14e07de75e-768x592.png)
 
 Once installed, we should see below output
 
-{{< image alt="thumbnail image 12 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d14e38c591f.png" >}}
+![thumbnail image 12 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d14e38c591f.png)
 
 As you see the **Sign In** button has come from Login Component which we added. Click on it, it should open below auth popup and ask us to log in
 
-{{< image alt="thumbnail image 13 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d14e831956d.png" >}}
+![thumbnail image 13 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d14e831956d.png)
 
 Once logged in, we should see below that our integration with Graph Toolkit worked 
 
-{{< image alt="thumbnail image 14 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d14f089f61d.png" >}}
+![thumbnail image 14 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d14f089f61d.png)
 
 Now let us see how we can use another component with some minor changes.
 
@@ -288,7 +288,7 @@ You need to rerun the solution again as we have added new scope permission. Run 
 
 Select **Sign In**, you must provide consent again as we have added new Scope. Once you Sign In, we should see the current user’s meeting as below
 
-{{< image alt="thumbnail image 15 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d15a198025a-768x743.png" >}}
+![thumbnail image 15 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d15a198025a-768x743.png)
 
 ## Conclusion
 
@@ -296,7 +296,7 @@ In this article, we have seen step by step guide on how to integrate Graph Toolk
 
 As of today, the below components are available which can be used easily and there are many configurations also available for each component to customize.
 
-{{< image alt="thumbnail image 16 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab " src="images/img_61d15ab513d0c.png" >}}
+![thumbnail image 16 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d15ab513d0c.png)
 
 ## Side Note
 

@@ -1,12 +1,12 @@
 ---
-title: "Getting started with graph API in SPFx webpart"
+title: "Getting started with Graph API in SPFx webpart"
 date: 2021-06-03T03:59:00-04:00
 author: "Chandani Prajapati"
 githubname: chandaniprajapati
-categories: []
+categories: ["Community post"]
 images:
 - images/Permssions.png
-tags: []
+tags: ["Microsoft Graph", "SharePoint framework (SPFx)"]
 type: "regular"
 ---
 
@@ -48,16 +48,16 @@ If you are testing any API and get an **error** like this:
 Then follow the below steps,
  
 1. Select Permissions
-{{< image alt="Select Permssion.png" src="images/Select Permssion.png" >}}
+![Select Permssion.png](images/Select Permssion.png)
 2. Then select the category in which you want to set permission and
 select the **Consent** button.
  
-{{< image alt="Permssions.png" src="images/Permssions.png" >}}
+![Permssions.png](images/Permssions.png)
  
 3 After clicking on the Consent it will open a popup so check the
 checkbox and Accept it.
  
-{{< image alt="AcceptPermission.png" src="images/AcceptPermsiion.png" >}}
+![AcceptPermission.png](images/AcceptPermsiion.png)
 
 Then select  the run query and it will retrieve the results. that's
 it :)
@@ -83,7 +83,7 @@ Now execute the below command to create an SPFx solution:
  
 It will ask some questions, as shown below,
  
-{{< image alt="Project Structure.png" src="images/Project Structure.png" >}}
+![Project Structure.png](images/Project Structure.png)
 
 
 After a successful installation, we can open a project in any source
@@ -110,7 +110,7 @@ tab under the **run query** button so after the response checks the
 permission tab. It shows all required permissions for the endpoint as
 below.
  
-{{< image alt="Modify Permission.png" src="images/Modify Permission.png" >}}
+![Modify Permission.png](images/Modify Permission.png)
  
 **2. Official documentation for endpoint**
  
@@ -292,7 +292,7 @@ Now test the web part in SharePoint-SiteURL +
  
 ## Output
  
-{{< image alt="Output.png" src="images/Output.png" >}}
+![Output.png](images/Output.png)
  
 Find the [full source code](https://github.com/chandaniprajapati/GraphAPIDemo).
  

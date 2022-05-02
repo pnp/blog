@@ -48,7 +48,7 @@ previous report 2 weeks ago) 
 The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-{{< image alt="210520-together-mode.gif" src="images/210520-together-mode.gif" >}}
+![210520-together-mode.gif](images/210520-together-mode.gif)
 Thanks everybody for being part of the Community and helping making
 things happen. You are absolutely awesome!
 
