@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 164"
 summary: "Belgium based Consultant, MVP Elio Struyf, joins Vesa Juvonen and Waldek Mastykarz to discuss Elio’s work building VS Code extensions/tooling for Rapid API, his open-source Front Matter extension, recognition as a GitHub Star, and 17 articles/videos from Microsoft and Community."
-date: 2022-05-03T10:00:00-00:00
+date: 2022-05-03T04:00:00-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
