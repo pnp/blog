@@ -65,9 +65,9 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [What’s New in Microsoft Teams | April 2022](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2022/ba-p/3297881#power) - Microsoft
 
-* [Announcing General Availability (GA) for In-app notifications in Model-driven apps](https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-for-in-app-notifications-in-model-driven-apps/) - Adrian Orth (Microsoft)
-* [Meet the developers combining Power Platform and Azure to go faster](https://powerapps.microsoft.com/en-us/blog/meet-the-developers-combining-power-platform-and-azure-to-go-faster/) - Sameer Bhangar (Microsoft)
-* [Set up CI/CD pipelines- Microsoft Teams Platform docs](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/use-cicd-template?referrer=whats.new.rssfeed) - Microsoft
+* [Announcing General Availability (GA) for In-app notifications in Model-driven apps](https://powerapps.microsoft.com/blog/announcing-general-availability-ga-for-in-app-notifications-in-model-driven-apps/) - Adrian Orth (Microsoft)
+* [Meet the developers combining Power Platform and Azure to go faster](https://powerapps.microsoft.com/blog/meet-the-developers-combining-power-platform-and-azure-to-go-faster/) - Sameer Bhangar (Microsoft)
+* [Set up CI/CD pipelines- Microsoft Teams Platform docs](https://docs.microsoft.com/microsoftteams/platform/toolkit/use-cicd-template?referrer=whats.new.rssfeed) - Microsoft
 * [Power Apps String Interpolation How To](https://www.youtube.com/watch?v=33aiMrmelOI) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 
 
@@ -97,7 +97,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [365 EduCon - Seattle and PWR EduCon - Seattle](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/two-conferences-in-one-365-educon-amp-pwr-educon-seattle-wa/ba-p/3285243) - May 9-13, 2022
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
-* Want to ask a question or in general engage with the community - Add a note in the Microsoft 365 Platform Community hub at <https://aka.ms/m365pnp/community>
+* Want to ask a question or in general engage with the community - Add a question as an issue in the Microsoft 365 Platform Community blog repository at [https://github.com/pnp/blog](https://github.com/pnp/blog/issues/new/choose)
 * Check out all the great community calls, SDKs, and tooling for Microsoft 365 from <https://aka.ms/m365pnp>
 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
