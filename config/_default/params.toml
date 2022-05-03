@@ -9,13 +9,13 @@ logo_width = "100x"
 logo_height = "44px"
 
 # logo text will only show when logo is missing.
-logo_text = "Microsoft 365 Community"
+logo_text = "Microsoft 365 Platform Community"
 
 # menu align available option (left, right, or center )
 menu_align = "center"
 
 # OpenGraph / Twitter Card metadata
-description = "Microsoft 365 Community your community to share best practices and get the latest news on Microsoft 365"
+description = "Microsoft 365 Platform Community your community to share best practices and get the latest news on Microsoft 365"
 author = "Themefisher"
 # this image will be used as fallback if a page has no image of its own
 image = "images/logo.svg"
@@ -101,7 +101,7 @@ link = "https://pnp.github.io/blog/index.xml"
 [[social]]
 name = "facebook"
 icon = "fab fa-facebook" # Fontawesome Icons : https://fontawesome.com/icons
-link = "https://www.facebook.com/OfficeDevPnP/"
+link = "https://www.facebook.com/M365Dev"
 
 [[social]]
 name = "twitter"
