@@ -7,7 +7,7 @@ categories: ["CLI for Microsoft 365"]
 images:
 - images/2021-07-29_17-51-58.png
 tags: ["CLI for Microsoft 365"]
-type: "trending"
+type: "regular"
 ---
 
 So, recognition is important, and it is important to keep in mind that
