@@ -158,7 +158,7 @@ call.
 
 ## Together Mode
 
-![220421-together-mode.gif](images/220421-together-mode.gif)
+![220421-together-mode.gif](images/220505-together-mode.gif)
 
 Nice to capture a video of everybody in the same room today. Thank you for being a part of this Community. Please keep the feedback coming.
 
