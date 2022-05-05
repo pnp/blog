@@ -1,5 +1,7 @@
 # Contributing guidelines
 
+These are detailed instructions on how to contribute. If you are already familiar with GitHub, follow this [high-level instructions](content\post\how-to-contribute-to-this-blog\index.md).
+
 We love to have your contributions! To author a blog post, follow these steps:
 
 1. Register for a [GitHub](https://github.com) account in case you don't already have one - it's free!
@@ -8,8 +10,8 @@ We love to have your contributions! To author a blog post, follow these steps:
    * Open [Git for Windows](https://git-scm.com/download/win)
    * Download the latest version (64-bit or 32-bit).
    * Optional: If you are not sure what you need, you can check it:
-       * Press WIN key and type about
-       * Select about your PC, it shows you the System type in the device specifications
+       * Press WIN key and type `about`
+       * Select **about your PC**, it shows you the **System type** in the device specifications
    * Open the downloaded file
    * Confirm the User Account Control window by selecting **Yes**
    * In the Git Setup window, select **Next** for 6 times, Git will now extract the files
@@ -31,6 +33,7 @@ We love to have your contributions! To author a blog post, follow these steps:
     * Open [pnp/blog/](https://github.com/pnp/blog/) (this repository)
     * Select **Fork** --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/blog/`
 
+
 1. Clone the repository
 
 Now you want to clone the repository so you have it locally available:
@@ -42,13 +45,7 @@ Now you want to clone the repository so you have it locally available:
 * Navigate to a directory where you want to clone the repository
 * Type `git clone <COPIED URL HERE>`
 
-8. Create a new branch 
-
-`git checkout -b myBlogPost`
-
-(the main branch is protected.)
-
-9. Write your blog post
+7. Write your blog post
 
 * type `code .` in VSCode terminal (yes, there is a space (` `) between `code` and the `.`) to open your project in a new VS Code instance
 * in the **content/post** folder, create your own folder (you may use the title of your post as the name of the folder, use `-` instead of ` `)
@@ -81,7 +78,7 @@ type: "regular"
 
 We also put together some information about markdown and how to use it in our [Wiki](https://github.com/pnp/blog/wiki/Microsoft-365-blog-Markdown-reference)
 
-10. Commit and push your changes to your fork
+8. Commit and push your changes to your fork
 
 Whenever you want to upload your changes to your remote fork:
 
@@ -89,7 +86,7 @@ Whenever you want to upload your changes to your remote fork:
 * type `git commit -m "YOUR COMMIT MESSAGE"` - this will commit your changes with the messages
 * type `git push` to push the changes to your remote fork
 
-11. Pull request
+9. Pull request
 
 You will now want to (kindly) ask the repository maintainers to pull in your changes. You do that with a pull request:
 
