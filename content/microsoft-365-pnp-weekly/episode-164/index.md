@@ -12,23 +12,13 @@ videos:
 - https://www.youtube.com/watch?v=h4pzXyF8cnc
 ---
 
-In this installment of the weekly discussion revolving around the latest news
-and topics on Microsoft 365, hosts – [Vesa
-Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by
-Belgium based Consultant, Office Developer MVP [Elio
-Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Belgium based Consultant, Office Developer MVP [ElioStruyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf.
 
 ## Topics discussed in this session
 
-* Presently Elio is building VS Code extensions/tooling for [Rapid
-    API](https://rapidapi.com/)
-* About Rapid API – app store for APIs - a very practical Graph like proxy
-    service model.
-* Elio’s work on [Front
-    Matter](https://www.eliostruyf.com/features-benefits-front-matter-cms/) - a
-    CMS (extension) that runs within Visual Studio Code - the post’s metadata.
-    And how this open-source contribution generated an interview and job!
+* Presently Elio is building VS Code extensions/tooling for [Rapid API](https://rapidapi.com/)
+* About Rapid API – app store for APIs - a very practical Graph like proxy service model.
+* Elio’s work on [Front Matter](https://www.eliostruyf.com/features-benefits-front-matter-cms/) - a CMS (extension) that runs within Visual Studio Code - the post’s metadata. And how this open-source contribution generated an interview and job!
 * On being recognized as a [GitHub Star](https://stars.github.com/).
 * Tips to young people considering a career in development.
 
@@ -36,17 +26,8 @@ We also covered 2 events along with 17 articles/videos published by Microsoft an
 
 ## This week
 
-* **Waldek** – final prep for 2-hour session at [Microsoft Tech
-    Days](https://aka.ms/techdays/m365) on Thursday, May 5, 2022. Planning while
-    reflecting on past year’s learnings at Microsoft, a new project that can’t
-    be discussed, continuation of POC work to enable Angular Devs to create
-    Teams tabs with SSO, and always evaluating/adding features to CLI for
-    Microsoft 365.
-* **Vesa** – final prep for 2-hour session at [Microsoft Tech
-    Days](https://aka.ms/techdays/m365) on Thursday, May 5, 2022. Coordinating 2
-    community calls for this week. Plans for community engagement during Summer.
-    Small details planning for [Microsoft Build](https://mybuild.microsoft.com/)
-    – May 24–26, 2022.
+* **Waldek** – final prep for 2-hour session at [Microsoft Tech Days](https://aka.ms/techdays/m365) on Thursday, May 5, 2022. Planning while reflecting on past year’s learnings at Microsoft, a new project that can’t be discussed, continuation of POC work to enable Angular Devs to create Teams tabs with SSO, and always evaluating/adding features to CLI for Microsoft 365.
+* **Vesa** – final prep for 2-hour session at [Microsoft Tech Days](https://aka.ms/techdays/m365) on Thursday, May 5, 2022. Coordinating 2 community calls for this week. Plans for community engagement during Summer. Small details planning for [Microsoft Build](https://mybuild.microsoft.com/) – May 24–26, 2022.
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
