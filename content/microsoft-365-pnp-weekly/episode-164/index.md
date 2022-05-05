@@ -88,7 +88,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Using PnP DataRows to update document field values](https://www.m365-dev.com/2022/04/27/using-pnp-datarows-to-update-document-field-values/) - [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology Ltd) | @JoelFMRodrigues
 * [Using low-code to categorize meetings in outlook](https://www.cloudappie.nl/lowcode-categorize-meetings-outlook/) - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @appieschot
 * [Microsoft Search Connectors Licensing](https://searchexplained.com/microsoft-search-connectors-licensing/) - [Agnes Molnar](https://twitter.com/molnaragnes) (Search Explained) | @molnaragnes
-* [How to create your first Microsoft Teawms bot and deploy it to Azure](https://laurakokkarinen.com/how-to-create-your-first-teams-bot-and-deploy-it-to-azure/) - [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
+* [How to create your first Microsoft Teams bot and deploy it to Azure](https://laurakokkarinen.com/how-to-create-your-first-teams-bot-and-deploy-it-to-azure/) - [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 * [Episode #203 - Using the PnP People Picker control in SPFx solutions](https://www.youtube.com/watch?v=fFCw4u9ywXc) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [SharePoint Troubleshooting and Updating with Power Apps and Power Automate](https://www.youtube.com/watch?v=Yx2mQQZ6z6E) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
 
