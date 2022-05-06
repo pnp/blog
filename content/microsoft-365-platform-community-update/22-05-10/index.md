@@ -42,29 +42,23 @@ The initiative is facilitated by Microsoft, but we have multiple community membe
 Here are the latest blog posts and announcements around Microsoft 365 development topics from [https://developer.microsoft.com/microsoft-365/blogs](https://developer.microsoft.com/microsoft-365/blogs)
 
 * 19th of April - [Updated preview of SharePoint Framework 1.15 – New release of the upcoming features](https://devblogs.microsoft.com/microsoft365dev/updated-preview-of-sharepoint-framework-1-15-new-release-of-the-upcoming-features/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
-* 7th of April - [From 0 to hero: connecting your web app to Microsoft Teams using Azure Communication Services](https://devblogs.microsoft.com/microsoft365dev/from-0-to-hero-connecting-your-web-app-to-microsoft-teams-using-azure-communication-services/)  - [David Rousset](https://twitter.com/davrous) (Microsoft) - @davrous
-* 6th of April - [Announcing new Microsoft 365 unified sample gallery with over 1,000 samples](https://devblogs.microsoft.com/microsoft365dev/announcing-new-microsoft-365-unified-sample-gallery-with-more-than-1000-samples/)
-* 5th of April - [Learn from the community: Teams App Dev Challenge winner brings high quality training into Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-teams-app-dev-challenge-winner-brings-high-quality-training-into-microsoft-teams/) - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
-* 30th of March - [Get inspired with Microsoft 365 apps at Microsoft Tech Days](https://devblogs.microsoft.com/microsoft365dev/get-inspired-with-microsoft-365-apps-at-microsoft-tech-days/)
-* 29th of March[Learn from the community: Teams App Dev Challenge winners bring data and dashboards into Teams chats](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-teams-app-dev-challenge-winners-bring-data-and-dashboards-into-teams-chats/)  - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
-* 28th of March - [Microsoft Graph API support for new content type sync enhancements](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-api-support-for-new-content-type-sync-enhancements/)
-* 22nd of March - [Learn from the Community: Microsoft MVPs digitize knowledge in a Community Bot for OneDrive](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-microsoft-mvps-digitize-knowledge-in-community-bot-for-onedrive/) - [Ayca Bas](https://twitter.com/aycabs) (Microsoft) - @Aycabs
-* 15th of March - [Learn from the community: Low code bot onboards members to Microsoft Teams channel](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-low-code-bot-onboards-members-to-microsoft-teams-channel/) - [Ayca Bas](https://twitter.com/aycabs) (Microsoft) - @Aycabs
+
 
 ### Microsoft 365 Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
-*   14th of March - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo - [PnP PowerShell to manage list designs and create lists/libraries using list designs](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-powershell-to-manage-list-designs-and-create-lists-libraries/ba-p/3225097)
-*   14th of March - [Michel Mendes](https://twitter.com/michelcarlo) (Storm Technologies) | @michelcarlo - [Displaying selected SharePoint form fields as read-only using List Formatting](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/displaying-selected-sharepoint-form-fields-as-read-only-using/ba-p/3253330)
-*   3rd of March - Shrushti Shah (Rapid Circle) - [Assigning a built-in role to the group at resource group scope level using PowerShell scripts](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/assigning-a-built-in-role-to-the-group-at-resource-group-scope/ba-p/3244598)
-*   28th of February - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - [CLI for Microsoft 365 v5.0](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v5-0/ba-p/3219956)
-*   27th of February - [Luise Freese](https://twitter.com/LuiseFreese) - [How to create a custom connector for your own Azure hosted API](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-create-a-custom-connector-for-your-own-azure-hosted-api/ba-p/3218944)
-*   18th of February - Shrushti Shah (Rapid Circle) - [Create Dataverse Expense Details Table and build simple PowerApp using that table](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-dataverse-expense-details-table-and-build-simple-powerapp/ba-p/3177499)
-*   14th of February - [Damien Bird](https://www.twitter.com/damobird365) | [@DamoBird365](/t5/user/viewprofilepage/user-id/1035201)
-*   9th of February - [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek - [Showing and hiding content in Adaptive Cards](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/showing-and-hiding-content-in-adaptive-cards/ba-p/3142385)
+
+* 3rd of May - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [How to contribute to this blog ](https://pnp.github.io/blog/post/contribute-blog/) 
+* 1st of May - [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert - [Style your command bar with formatting magic](https://pnp.github.io/blog/post/style-command-bar-with-formatting-magic/)
+* 29th of April - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - [CLI for Microsoft 365 v5.2](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-2/)
+* 27th of April - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese  - [How to rename files in SharePoint with Power Automate](https://pnp.github.io/blog/post/how-to-rename-files-in-sharepoint-with-power-automate/)
+* 25th of Aoril - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [New Microsoft 365 platform community blog](https://pnp.github.io/blog/post/new-community-blog-platform/)
+* 19th of April - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth - [PnP PowerShell v1.10](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v1-10/)
+
 
 ### Community call recording blog posts
+
 
 *   10th of March - [Viva Connections & SharePoint Framework Community Call – 10th of March, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-10th-of/ba-p/3253901)
 *   8th of March - [Microsoft 365 Platform Call – 8th of March, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-8th-of-march-2022/ba-p/3250519)
