@@ -133,7 +133,7 @@ Most of the community driven repositories are in the PnP GitHub organization as 
 *   [powerapps-samples](https://github.com/pnp/powerapps-samples) - Samples that demonstrate different usage patterns for Power Apps
 *   [powerautomate-samples](https://github.com/pnp/powerautomate-samples) - Samples that demonstrate different usage patterns for Power Automate
 *   [powerva-samples](https://github.com/pnp/powerva-samples) - Samples that demonstrate different usage patterns for Power Virtual Agents
-*   [AdaptiveCards-Templates](https://github.com/pnp/AdaptiveCards-Templates) - Samples on showcasing the art of possible with adaptive cards
+*   [AdaptiveCards-Templates](https://github.com/pnp/AdaptiveCards-Templates) - Samples on showcasing the art of possible with Adaptive cards
 
 All SharePoint specific repositories or services supported directly by Microsoft are located in the SharePoint GitHub organization
 
@@ -300,6 +300,10 @@ If you are interested on Microsoft Teams samples, we have just released also new
 * New Power Apps sample [US-Map-with-SVG-Images](https://github.com/pnp/powerapps-samples/tree/main/samples/US-Map-with-SVG-Images) by Krishna Rachakonda (Catapult) | rsk2013
 * New Power Apps sample [power-wordle-game](https://github.com/pnp/powerapps-samples/tree/main/samples/power-wordle-game) by [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
 * New Power Apps sample [Office 365 Network (Skills Matrix)](https://github.com/pnp/powerapps-samples/tree/main/samples/skills-matrix) by Jennifer McGee | RainWatcher
+* New Power Automate sample [Pattern: new-employee-tip-of-the-day](https://github.com/pnp/powerautomate-samples/tree/main/samples/new-employee-tip-of-the-day) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
+* Updated Power Automate sample [notify-on-last-working-day](https://github.com/pnp/powerautomate-samples/tree/main/samples/notify-on-last-working-day) by [Michal Ziemba](https://twitter.com/Michal_Ziemba) | @Michal_Ziemba
+* 
+
 
 There was also numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location
 
@@ -592,6 +596,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Jeffin Jacob](https://www.github.com/jeffinjacob) | jeffinjacob
 *   Jennifer Davison (Akron Children's Hospital)
 *   [Jennifer Erzen](https://www.twitter.com/jennifererzen) (SUNY Upstate Medical University) | @Jennifererzen
+*   Jennifer McGee | RainWatcher
 *   [Jerker Vallbo](https://github.com/jerval53) | jerval53
 *   [Jhan Zaib](https://www.github.com/jhan-zaib) (Ascertia) | jhan-zaib
 *   [Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
