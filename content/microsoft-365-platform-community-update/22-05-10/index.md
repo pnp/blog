@@ -351,10 +351,24 @@ For more information, you can watch this video on [Publish a connector to the Pu
 
 #### These are the latest connectors
 
-*   [CQC Data](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Care%20Quaility%20Comission%20For%20England) - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-*   [HubSpot CRM](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/HubSpot%20CRM) - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-*   [Square Payments](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Square%20Payments) -[Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-*   [Square Business](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Square%20Business) - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Advanced Scraper - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Ambee- [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* AMEE Open Company - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Aviationstack- [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Do Not Call Reported Calls - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Finnish BIS - [Timo Pertilä](https://twitter.com/timopertila) (Forward Forever) | @timopertila
+* Finnish Railway Traffic - [Timo Pertilä](https://twitter.com/timopertila) (Forward Forever) | @timopertila
+* Lit Ipsum - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* NIST NVD - [Paul Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) | @Paulculmsee
+* OpenAI - [Robin Rosengrün](https://twitter.com/power_r2) (EnBW)| @power_r2
+* ProPublica Congress - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* ProPublica Nonprofit Explorer - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Reachability - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Rebrandly - Vivek Bavishi
+* Robohash - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Storm Glass - [Paul Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) | @Paulculmsee
+* Udemy - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
+
 
 ### Sharing is Caring initiative
 
@@ -666,6 +680,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Robert Copelan](https://www.twitter.com/rcopelan) (ZF Friedrichshafen AG) | @Rcopelan
 *   [Robert Dyjas](https://twitter.com/robdyy) (EQTek) | @Robdy
 *   Robert Lindström | robert-lindstrom
+*   [Robin Rosengrün](https://twitter.com/power_r2) (EnBW)| @power_r2
 *   [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology) | @ScoutmanPt
 *   Rohit S Patil (C3it)
 *   [Russell Gove](https://www.twitter.com/russgove) (tronox) | @Russgove
@@ -702,6 +717,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 *   [Tim Balk](https://www.twitter.com/tlbalk) (Wellmark) | @Tlbalk
 *   [Tim Cadenbach](https://twitter.com/timcadenbach) (Maximago) | @TimCadenbach
+*   [Timo Pertilä](https://twitter.com/timopertila) (Forward Forever) | @timopertila
 *   Tod Beane
 *   Todd Alexander (Island Way Technology)
 *   [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | @Toddbaginski
