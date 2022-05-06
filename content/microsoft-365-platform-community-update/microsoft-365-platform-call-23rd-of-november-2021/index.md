@@ -268,7 +268,7 @@ place weekly on Tuesday.  The alternating Special Interest Group
 community calls each Thursday focus on SharePoint Framework (client-side
 development/implementation) and Microsoft 365 Platform (includes
 Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning,
-PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps,
+PnP PowerShell, PnP Sites Core, Site Designs, Power Automate, PowerApps,
 Column Formatting, list formatting, etc. topics.) with demos commonly
 delivered by community members. 
 

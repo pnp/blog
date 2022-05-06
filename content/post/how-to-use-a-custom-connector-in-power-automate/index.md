@@ -205,7 +205,7 @@ Now we want to get the current song from our shiny new Custom connector:
 -   Run your flow
 
 -   Open your flic app and select the new button, set the action that is
-    triggered by the Select event to Microsoft Flow (watch out, this is
+    triggered by the Select event to Power Automate (watch out, this is
     the old name of Power Automate, which is not reflected in the Flic
     app). When you now Select the button, this will trigger our flow,
     that listens to the Select event of that button, get the current

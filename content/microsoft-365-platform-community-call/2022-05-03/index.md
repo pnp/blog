@@ -188,7 +188,7 @@ It’s great seeing everybody in the room today.  Thank you for joining this wee
 * Microsoft Identity Platform call \| Thursday, May 19, 9:00 am PT -
     <https://aka.ms/IDDevCommunityCalendar> (monthly)
 
-Microsoft 365 Platform community call focuses on latest Microsoft 365 Platform updates and demos delivered by Microsoft presenters and takes place weekly on Tuesday.  The alternating Special Interest Group community calls each Thursday focus on SharePoint Framework (client-side development/implementation) and Microsoft 365 Platform (includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps, Column Formatting, list formatting, etc. topics.) with demos commonly delivered by community members.
+Microsoft 365 Platform community call focuses on latest Microsoft 365 Platform updates and demos delivered by Microsoft presenters and takes place weekly on Tuesday.  The alternating Special Interest Group community calls each Thursday focus on SharePoint Framework (client-side development/implementation) and Microsoft 365 Platform (includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Power Automate, PowerApps, Column Formatting, list formatting, etc. topics.) with demos commonly delivered by community members.
 
 More details on the Microsoft 365 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 
