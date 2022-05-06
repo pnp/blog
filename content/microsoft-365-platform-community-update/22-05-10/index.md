@@ -80,11 +80,9 @@ In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Mi
 
 PnP Weekly is a recurrent podcast with visitors where Vesa and Waldek talk about the latest news and announcements in Microsoft 365 and SharePoint areas.
 
-*   15th of March - [Microsoft 365 PnP Weekly - Episode 157 - Julie Turner (Sympraxis Consulting)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-157-julie-turner-sympraxis/ba-p/3256417)
-*   8th of March - [Microsoft 365 PnP Weekly - Episode 156 - João Ferreira](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-156-jo%C3%A3o-ferreira/ba-p/3249551)
-*   1st of March - [Microsoft 365 PnP Weekly - Episode 155 - Ayça Baş](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/ba-p/3221686)
-*   21st of February - [Microsoft 365 PnP Weekly - Episode 154 - Vardhaman Deshpande](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308)
-*   15th of February - [Microsoft 365 PnP Weekly - Episode 153 - Sudha Narayanan](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-153-sudha-narayanan/ba-p/3164026)
+* 3rd of May - [Microsoft 365 PnP Weekly - Episode 164 - Elio Stryf](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-164/)
+* 26th of April - [Microsoft 365 PnP Weekly - Episode 163 - Mikael Svenson](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-163/)
+* 19th of April - [Microsoft 365 PnP Weekly - Episode 162 - Wictor Wilén ](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-162/)
 
 ## Community calls
 
