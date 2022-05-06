@@ -498,6 +498,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Alistair Pugin](https://www.twitter.com/alistairpugin) (Tangent Solutions) | @Alistairpugin
 *   [Akash Karda](https://twitter.com/akkikarda) | @akkikarda
 *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
+*   Andreas Omayrat | andreasomayrat
 *   [Andrea Mondello](https://www.twitter.com/mondello_power) (Withum Smith + Brown) | @Mondello\_power
 *   [Andrew Burns](https://www.twitter.com/SharePointRox) (AmSty) | @SharePointRox
 *   [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
@@ -517,6 +518,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Bartolomeo Sorrentino](https://twitter.com/bsorrentinoJ) (soulsoftware) | @BsorrentinoJ
 *   [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
 *   Bob Morris (ThreeWill)
+*   [Brian McCullough](https://twitter.com/bpmccullough) | @bpmccullough
 *   [Carianne Wong](https://www.twitter.com/cw_marie) (Majesco) | @CW\_marie
 *   [Carike Blignaut-Staden](https://www.twitter.com/CarikeBStaden) | @CarikeBStaden
 *   [Carl Joakim Damsleth](https://twitter.com/kimzter) | @kimzter
@@ -669,6 +671,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Ralph Rivas](https://www.twitter.com/bigpix2000) (Sogeti) | @Bigpix2000
 *   [Rentu](https://github.com/SLdragon) | SLdragon
 *   [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
+*   Rico van de Ven | RicoNL
 *   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
 *   [r-markus](https://github.com/r-markus) | r-markus
 *   Rob Bell (Kizan technologies)
