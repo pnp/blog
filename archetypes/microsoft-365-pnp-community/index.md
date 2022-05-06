@@ -422,7 +422,7 @@ Thank you for all that you do!
 
 *   [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani_SPD
 *   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
-*   Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @gSiVed
+*   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @gSiVed
 *   [Julie Turner](https://twitter.com/jfj1997)(Sympraxis Consulting) | @Jfj1997
 *   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 *   [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese

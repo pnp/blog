@@ -254,8 +254,7 @@ slides.
     development](https://docs.microsoft.com/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
 -   D1:  Issues --
     [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues)
--   D1:  Video demo - [Getting stated with Microsoft Teams Toolkit and
-    Blazor](https://www.youtube.com/watch?v=WPnZgcjr6PI) 
+-   D1:  Video demo - [Getting stated with Microsoft Teams Toolkit and Blazor](https://www.youtube.com/watch?v=WPnZgcjr6PI)
 -   D1:  Article - [Recognize active team members with the CLI for
     Microsoft
     365](https://www.cloudappie.nl/recognize-active-team-members-cli-microsoft-365/) 
