@@ -124,7 +124,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 Beta|v1.15 GA in June 2022
 *   [CLI for Microsoft 365 v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 *   [CodeTour](https://aka.ms/codetour)
 *   [Sharing is Caring](https://aka.ms/sharing-is-caring) | aka.ms/sharing-is-caring
-*   [Tools -](http://aka.ms/pnp-search) [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)  [|](http://aka.ms/pnp-search) [https://aka.ms/pnp-search](https://aka.ms/pnp-search)
+*   [Tools -](https://aka.ms/pnp-search) [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)  [|](https://aka.ms/pnp-search) [https://aka.ms/pnp-search](https://aka.ms/pnp-search)
 *   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 *   [SharePoint Starter Kit v2](https://github.com/pnp/sp-starter-kit/tree/v2)
 *   Blog: "[A Lap Around Microsoft Graph Toolkit" blog series](https://aka.ms/mgtLap)
@@ -139,11 +139,11 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 Beta|v1.15 GA in June 2022
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
-*   [SPFx Library Components](http://aka.ms/spfx-library-components)
+*   [SPFx Library Components](https://aka.ms/spfx-library-components)
 *   Documentation - [PnPjs v2 documentation](https://pnp.github.io/pnpjs/)
 *   Link - [Microsoft 365 developer training](https://aka.ms/M365DevTraining)
 *   Link - [Office 365 Developer Program](https://aka.ms/O365DevProgram)
-*   [Latest documentation on SharePoint Framework](http://aka.ms/spdev-docs)
+*   [Latest documentation on SharePoint Framework](https://aka.ms/spdev-docs)
 *   Found an issue with SharePoint Dev? - please let us know at [https://aka.ms/spdev-issues](https://aka.ms/spdev-issues)
 *   [Reusable web part property controls](https://sharepoint.github.io/sp-dev-fx-property-controls/)
 *   [Reusable react controls for SharePoint Framework solutions](https://sharepoint.github.io/sp-dev-fx-controls-react/)

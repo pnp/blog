@@ -108,7 +108,7 @@ Channel](https://aka.ms/m365pnp-videos).
         - Bert Jansen (Microsoft) | @o365bert --
         [39:36](https://youtu.be/PlXxbx7qNlc?t=2376)
 The full recording of this session is available from Microsoft 365 &
-SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
+SharePoint Community YouTube channel - <https://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found
     at [OneDrive](https://1drv.ms/p/s!AlposW7ozA_90kgHOZNOZvuJs4Xd?e=aKH8Cg).
 
@@ -193,12 +193,12 @@ Additional resources on covered topics and discussions.
 -   [SharePoint Starter
     Kit](https://github.com/SharePoint/sp-starter-kit)
 -   Recurrent invite to SharePoint Development monthly calls
-    - <http://aka.ms/spdev-call>
--   SharePoint Developer documentation - <http://aka.ms/spdev-docs>
--   SharePoint Development Issues - <http://aka.ms/spdev-issues>
+    - <https://aka.ms/spdev-call>
+-   SharePoint Developer documentation - <https://aka.ms/spdev-docs>
+-   SharePoint Development Issues - <https://aka.ms/spdev-issues>
 -   SharePoint GitHub organization - <http://github.com/SharePoint>
 -   SharePoint Development UserVoice - new feature requests
-    - <http://aka.ms/spdev-uservoice>
+    - <https://aka.ms/spdev-uservoice>
 
 
 ## Upcoming Calls | Recurrent Invites
@@ -223,7 +223,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/sp-call>
 \"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
-- <http://aka.ms/m365pnp>.
+- <https://aka.ms/m365pnp>.
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

@@ -18,7 +18,7 @@ _“We are committed on building the best tech community in the world where ever
 
 ## What is Microsoft 365 Platform Community
 
-[Microsoft 365 Platform Community](http://aka.ms/m365pnp) is community activities coordinated by numerous teams inside of the Microsoft 365 engineering organizations. This is a community-driven open-source initiative where Microsoft and external community members are sharing their learning's around implementation practices for Microsoft 365.
+[Microsoft 365 Platform Community](https://aka.ms/m365pnp) is community activities coordinated by numerous teams inside of the Microsoft 365 engineering organizations. This is a community-driven open-source initiative where Microsoft and external community members are sharing their learning's around implementation practices for Microsoft 365.
 
 Topics vary from Microsoft Viva, Microsoft Graph, Microsoft Teams, Power Platform, OneDrive and SharePoint. Active development and contributions happen in GitHub by providing contributions to the samples, reusable components, and documentation for different areas. PnP is owned and coordinated by Microsoft engineering, but this is work done by the community for the community.
 
@@ -28,10 +28,10 @@ The initiative is facilitated by Microsoft, but we have multiple community membe
 
 Main resources around Microsoft 365 Community:
 
-*   Microsoft 365 Platform Community - [http://aka.ms/m365pnp](http://aka.ms/sppnp) - One location for all the resources and news around Microsoft 365 platform
-*   Microsoft 365 community blog -  [http://aka.ms/m365pnp/community/blog](http://aka.ms/m365pnp/community/blog)
-*   Microsoft 365 development blog -  [http://aka.ms/m365pnp-blog](http://aka.ms/m365pnp-blog)
-*   Microsoft 365 Community Channel on YouTube - [http://aka.ms/m365pnp-videos](http://aka.ms/m365pnp-Videos)
+*   Microsoft 365 Platform Community - [https://aka.ms/m365pnp](https://aka.ms/sppnp) - One location for all the resources and news around Microsoft 365 platform
+*   Microsoft 365 community blog -  [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
+*   Microsoft 365 development blog -  [https://aka.ms/m365pnp-blog](https://aka.ms/m365pnp-blog)
+*   Microsoft 365 Community Channel on YouTube - [https://aka.ms/m365pnp-videos](https://aka.ms/m365pnp-Videos)
 *   Microsoft 365 Developer YouTube channel - [https://aka.ms/M365DevYouTube](https://aka.ms/M365DevYouTube)
 
 ## ✍ Latest Dev Blog posts
@@ -100,7 +100,7 @@ In the [Microsoft 365 Developer Podcast](https://www.m365devpodcast.com/), Jere
 
 ## Community Calls
 
-There are numerous different community calls on different areas. All calls are being recorded and published either from [Microsoft 365 Developer](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ) or [Microsoft 365 Community (PnP) YouTube](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) channels. Recordings are typically released within the following 24 hours after the call. You can find a detailed agenda and links to specific covered topics on blog post articles at the [Microsoft 365 developer blog](http://aka.ms/spdev-blog) when the videos are published.
+There are numerous different community calls on different areas. All calls are being recorded and published either from [Microsoft 365 Developer](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ) or [Microsoft 365 Community (PnP) YouTube](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) channels. Recordings are typically released within the following 24 hours after the call. You can find a detailed agenda and links to specific covered topics on blog post articles at the [Microsoft 365 developer blog](https://aka.ms/spdev-blog) when the videos are published.
 
 *   Microsoft 365 Platform Call - [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call) - Updates and demos from Microsoft as weekly call on Tuesdays - topics vary from Microsoft Teams, Microsoft Graph, Power Platform, SharePoint, OneDrive and more
 *   Adaptive Cards  [https://aka.ms/adaptivecardscommunitycall](https://aka.ms/adaptivecardscommunitycall) \- Updates and news around Adaptive Cards with live demos
@@ -258,9 +258,9 @@ These are the updated SharePoint Framework samples which are available from the 
 
 How to find what's relevant for you? Take advantage of our SharePoint Framework web part and extension sample galleries - also includes solutions which work in Microsoft Teams
 
-*   Web Part sample gallery - [http://aka.ms/spfx-webparts](http://aka.ms/spfx-webparts)
-*   Extensions sample gallery - [http://aka.ms/spfx-extensions](http://aka.ms/spfx-extensions)
-*   Viva Connections Adaptive Card samples - [http://aka.ms/spfx-aces](http://aka.ms/spfx-extensions)
+*   Web Part sample gallery - [https://aka.ms/spfx-webparts](https://aka.ms/spfx-webparts)
+*   Extensions sample gallery - [https://aka.ms/spfx-extensions](https://aka.ms/spfx-extensions)
+*   Viva Connections Adaptive Card samples - [https://aka.ms/spfx-aces](https://aka.ms/spfx-extensions)
 *   Microsoft Teams samples build with SharePoint Framework - [https://github.com/pnp/spfx-reference-scenarios](https://github.com/pnp/spfx-reference-scenarios) 
 
 ### Microsoft Teams community samples
@@ -350,7 +350,7 @@ These are the latest connectors: 
 
 The "Sharing Is Caring" imitative is targeted for learning the basics around making changes in Microsoft Docs, in GitHub, submitting pull requests to the PnP repositories and in GitHub in general. Take advantage of this instructor lead training for learning how to contribute to docs or to open-source solutions. Everyone is welcome to learn how to get started on contributing to open-source docs or code!
 
-*   See more from the [guidance documentation](http://aka.ms/sharing-is-caring) \- including all upcoming instructor lead sessions which you can participate!
+*   See more from the [guidance documentation](https://aka.ms/sharing-is-caring) \- including all upcoming instructor lead sessions which you can participate!
 
 ### ✍ Different Microsoft 365 related open-source initiatives build together with the community
 
@@ -367,7 +367,7 @@ See exact details on the latest updates from the specific open-source project re
 *   **PnP Provisioning Engine and PnP CSOM Core** \- PnP provisioning engine is part of the PnP CSOM extension. They encapsulate complex business driven operations behind easily usable API surface, which extends out-of-the-box CSOM NuGet packages. See [changelog](https://github.com/SharePoint/PnP-Sites-Core/blob/master/CHANGELOG.md) for the latest updates.
 *   **PnP PowerShell** \- PnP PowerShell cmdlets are open-source complement for the SharePoint Online cmdlets. There are more than 300 different cmdlets to use and you can use them to manage tenant settings or to manipulate actual SharePoint sites. They See [changelog](https://github.com/SharePoint/PnP-PowerShell/blob/master/CHANGELOG.md) for the latest updates.
 *   **PnP Modern Search solution** \- The PnP 'Modern Search' solution is a set of SharePoint Online modern Web Parts allowing SharePoint super users, webmasters and developers to create highly flexible and personalized search based experiences in minutes. See more details on the different supported capabilities from [https://aka.ms/pnp-search](https://aka.ms/pnp-search).
-*   **Modernization tooling** \- All tools and guidance on helping you to transform you SharePoint to modern experiences from [http://aka.ms/sppnp-modernize](http://aka.ms/sppnp-modernize).
+*   **Modernization tooling** \- All tools and guidance on helping you to transform you SharePoint to modern experiences from [https://aka.ms/sppnp-modernize](https://aka.ms/sppnp-modernize).
 *   **SharePoint Starter Kit v2** \- Building modern experiences with Microsoft Teams flavors for SharePoint Online and SharePoint 2019 - reference solution in [GitHub](https://github.com/SharePoint/sp-starter-kit).
 *   **List formatting definitions** \- Community contributed samples around the column and view formatting in [GitHub](https://github.com/SharePoint/sp-dev-list-formatting).
 *   **Site Designs and Site Scripts** \- Community contributed samples around SharePoint Site Designs and Site Scripts in [GitHub](https://github.com/SharePoint/sp-dev-site-scripts).
@@ -385,7 +385,7 @@ Please see all the Microsoft 365 development documentation updates from the rela
 
 ### Microsoft 365 Developer and Microsoft 365 Community YouTube video channels
 
-You can find all Microsoft 365 related videos on our YouTube Channel at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos) or at [Microsoft 365 Dev](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ). These channels contains already a significant amount of detailed training material, demo videos, and community call recordings.
+You can find all Microsoft 365 related videos on our YouTube Channel at [https://aka.ms/m365pnp/videos](https://aka.ms/m365pnp-videos) or at [Microsoft 365 Dev](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ). These channels contains already a significant amount of detailed training material, demo videos, and community call recordings.
 
 Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 

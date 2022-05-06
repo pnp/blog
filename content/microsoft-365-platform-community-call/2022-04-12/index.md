@@ -13,7 +13,7 @@ type: "regular"
 
 
 
-Microsoft 365 Platform Community Call - weekly community call recording from April 12th, is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](https://aka.ms/m365pnp-videos).
+Microsoft 365 Platform Community Call - weekly community call recording from April 12th, is now available from the Microsoft 365 Community YouTube channel at [https://aka.ms/m365pnp/videos](https://aka.ms/m365pnp-videos).
 
 {{< youtube 6Zcba6w7TBs >}}
 
