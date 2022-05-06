@@ -331,16 +331,16 @@ These are the latest connectors: 
 *   [Siddharth Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0) | @siddh\_me - Rest Countries
 *   [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek \- Airly
 *   [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek \- Zippopotamus
-*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Buy Me a Coffee
-*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Cloverly
-*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -  Companies house
-*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -  Ecologi
-*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - haveibeenpwned
-*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -Placedog
-*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -Quickbase
-*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Pantry
-*   Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor\- Shields.io
-*   Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Unsplash
+*   [Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Buy Me a Coffee
+*   [Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Cloverly
+*   [Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -  Companies house
+*   [Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -  Ecologi
+*   [Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - haveibeenpwned
+*   [Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -Placedog
+*   [Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor -Quickbase
+*   [Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Pantry
+*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | [@troystaylor\- Shields.io
+*   [Troy Taylor](<https://twitter.com/troystaylor>) (Hitachi Solutions) | [@troystaylor - Unsplash
 *   [Woong Choi](https://www.linkedin.com/in/woongchoi/) (Seven Sigma)\- Covid-19 API
 *   [Woong Choi](https://www.linkedin.com/in/woongchoi/) (Seven Sigma) \- OpenFDA Drug
 

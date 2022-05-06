@@ -214,9 +214,7 @@ slides.
     [react-at-a-glance](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-at-a-glance) 
 -   D1:  Sample - [News article content at a
     glance](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-At-a-glance) 
--   D1:  Video - [Getting started on building Microsoft Viva Connection
-    adaptive card components using
-    SPFx](https://www.youtube.com/watch?v=KQGsY5fvLaY) 
+-   D1:  Video - [Getting started on building Microsoft Viva Connection adaptive card components using SPFx](https://www.youtube.com/watch?v=KQGsY5fvLaY)
 -   D2:  Sample Extension - [Share to Teams - Command
     Set](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-share-to-teams) 
 -   D2:  Documentation - [Create Share-to-Teams

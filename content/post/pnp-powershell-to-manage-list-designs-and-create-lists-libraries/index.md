@@ -132,7 +132,6 @@ if($lib)
 
 ```powershell-interactive
 
-```
     PS C:\Windows\system32> C:\Scripts\DocumentLibraryTemplate\ApplyListDesignToCreateLibaries.ps1
     
     Title                                        OutcomeText                            Outcome
@@ -178,6 +177,7 @@ if($lib)
     Annual Reports                                                                            
     	Setting versioning to major/minor to : Annual Reports
     
+```
 
 Libraries created after running the script
 
