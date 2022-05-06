@@ -83,7 +83,7 @@ Thank you for your creativity and work execution. Samples are often showcased in
 
 ## Together Mode 
    
-![220503-together-mode.gif](220503-together-mode.gif)
+![220503-together-mode.gif](images/220503-together-mode.gif)
 
 It’s great seeing everybody in the room today.  Thank you for joining this weekly community call and for being part of this community.  
 
