@@ -44,7 +44,7 @@ endpoint for all that? Ye, it creates a folder for you app automagically - I mea
 
 ## How to get started?
 
-Lets start with a bit of experimenting to try it out in the [graph explorer](https://developer.microsoft.com/en-us/graph/graph-explorer) (If you haven't used it before, the graph explorer is a perfect place to test out different MS Graph API requests and also, after login, you may do it in the context of your tenant, which is really cool). 
+Lets start with a bit of experimenting to try it out in the [graph explorer](https://developer.microsoft.com/graph/graph-explorer) (If you haven't used it before, the graph explorer is a perfect place to test out different MS Graph API requests and also, after login, you may do it in the context of your tenant, which is really cool). 
 
 Ok so lets run a simple GET request
 

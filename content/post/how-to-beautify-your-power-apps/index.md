@@ -237,7 +237,7 @@ the download button)
 ## sample app  
 
 If you like to reverse-engineer this idea - I provided a sample in the
-[PnP PowerApps sample
+[PnP Power Apps sample
 gallery](https://pnp.github.io/powerplatform-samples/samples/powerapps/): [link
 to source code files on
 GitHub](https://github.com/pnp/powerapps-samples/blob/main/samples/expandable-navigation/readme.md)

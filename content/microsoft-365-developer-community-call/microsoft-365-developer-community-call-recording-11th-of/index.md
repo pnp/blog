@@ -252,7 +252,7 @@ slides.
     STEP](https://poszytek.eu/en/microsoft-en/office-365-en/powerautomate-en/independent-publisher-connector-step-by-step/#more-3186) 
 -   D3:  Video - [Independent Publisher connector step by
     step](https://www.youtube.com/watch?v=wGFWZqsxIBQ) 
--   D3:  Article - [MICROSOFT FLOW IS NOT ONLY FOR
+-   D3:  Article - [Power Automate IS NOT ONLY FOR
     BUSINESS](https://poszytek.eu/en/microsoft-en/office-365-en/microsoft-flow-is-not-only-for-business/) 
 -   D3:  Website -- [MyStrom API for
     Developers](https://mystrom.com/mystrom-for-developers/) 
@@ -352,7 +352,7 @@ General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
-Site Designs, Microsoft Flow, PowerApps, Column Formatting, list
+Site Designs, Power Automate, PowerApps, Column Formatting, list
 formatting, etc. topics. More details on the Microsoft 365 community
 from [http://aka.ms/m365pnp](http://aka.ms/sppnp). We also welcome
 community demos, if you are interested in doing a live demo in these

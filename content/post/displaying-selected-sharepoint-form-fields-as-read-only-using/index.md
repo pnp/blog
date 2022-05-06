@@ -144,6 +144,6 @@ This trick makes it harder for people to edit the values in the form, however, i
 
 ## Additional References
 
-Conditional formulas for form fields reference: [Show or hide columns in a list or library form](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/list-form-conditional-show-hide)
+Conditional formulas for form fields reference: [Show or hide columns in a list or library form](https://docs.microsoft.com/sharepoint/dev/declarative-customization/list-form-conditional-show-hide)
 
 

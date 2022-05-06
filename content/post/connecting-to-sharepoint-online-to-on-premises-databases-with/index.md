@@ -32,11 +32,11 @@ section.
 So several options were looked at, and as moving the database was
 quickly ruled out, we came up with these two:
 
--   Build a solution with PowerApps and use the On-Premise data gateway.
+-   Build a solution with Power Apps and use the On-Premise data gateway.
 -   Build a solution with SharePoint Framework using a REST API using
     Azure Hybrid Connections
-Whilst the PowerApps solution would take less time, the licensing cost
-of the PowerApps solution ended up ruling it out due to its total cost
+Whilst the Power Apps solution would take less time, the licensing cost
+of the Power Apps solution ended up ruling it out due to its total cost
 of ownership (TCO).
 So, the SPFX solution was chosen. The architecture was to use SPFX web
 parts that connected to a REST API hosted in Azure App Services. The

@@ -177,7 +177,7 @@ Additional resources around the covered topics and links from the slides.
 *   Viva Connections [https://aka.ms/VivaConnections](https://aka.ms/VivaConnections)
 *   [SharePoint look book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 *   [Yo Teams video training package](http://aka.ms/yoteams-training)
-*   [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+*   [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 *   [Microsoft 365 community (PnP) videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 *   [Microsoft Teams Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 *   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
@@ -190,8 +190,8 @@ Additional resources around the covered topics and links from the slides.
 *   [Page transformation guidance](https://aka.ms/sppnp-pagetransformation)
 *   [Page transformation videos](https://aka.ms/sppnp-pagetransformationvideos)
 *   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
-*   [Microsoft 365 developer program site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
-*   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+*   [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
+*   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 *   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 *   [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
@@ -205,7 +205,7 @@ Additional resources around the covered topics and links from the slides.
 *   **Power Apps monthly call** – March 16th at 8:00 am PST | [https://aka.ms/PowerAppsMonthlyCall](https://aka.ms/PowerAppsMonthlyCall)
 *   **Microsoft Identity Platform call –** March 17th at 9:00 am PST | [https://aka.ms/IDDevCommunityCalendar](https://aka.ms/IDDevCommunityCalendar)
 
-General Microsoft 365 Dev Special Interest Group bi-weekly calls are targeted at anyone who's interested in the general Microsoft 365 development topics. This includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps, Column Formatting, list formatting, etc. topics. More details on the Microsoft 365 community from [http://aka.ms/m365pnp](http://aka.ms/sppnp). We also welcome community demos, if you are interested in doing a live demo in these calls!
+General Microsoft 365 Dev Special Interest Group bi-weekly calls are targeted at anyone who's interested in the general Microsoft 365 development topics. This includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Power Automate, PowerApps, Column Formatting, list formatting, etc. topics. More details on the Microsoft 365 community from [http://aka.ms/m365pnp](http://aka.ms/sppnp). We also welcome community demos, if you are interested in doing a live demo in these calls!
 
 You can download recurrent invite from [http://aka.ms/m365-dev-sig](http://aka.ms/m365-dev-sig). Welcome and join in the discussion. If you have any questions, comments, or feedback, feel free to provide your input as comments to this post as well. More details on the Microsoft 365 community and options to get involved are available from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
 

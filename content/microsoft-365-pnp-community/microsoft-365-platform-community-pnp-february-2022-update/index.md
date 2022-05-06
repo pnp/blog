@@ -22,7 +22,7 @@ _“We are committed on building the best tech community in the world where ever
 
 Topics vary from Microsoft Viva, Microsoft Graph, Microsoft Teams, Power Platform, OneDrive and SharePoint. Active development and contributions happen in GitHub by providing contributions to the samples, reusable components, and documentation for different areas. PnP is owned and coordinated by Microsoft engineering, but this is work done by the community for the community.
 
-*   See more details from [New Microsoft 365 Platform (PnP) team model with new community leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+*   See more details from [New Microsoft 365 Platform (PnP) team model with new community leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 The initiative is facilitated by Microsoft, but we have multiple community members as part of the platform community team (see team details in end of the article) and we are always looking to extend the Platform Community team with more community members. Notice that since this is open-source community initiative, so there’s no SLAs for the support for the samples provided through GitHub. Obviously, all officially released components and libraries are under official support from Microsoft.
 
@@ -36,7 +36,7 @@ Main resources around Microsoft 365 Community:
 
 ## ✍ Latest Dev Blog posts
 
-Here are the latest blog posts and announcements around Microsoft 365 development topics from [https://developer.microsoft.com/en-us/microsoft-365/blogs](https://developer.microsoft.com/en-us/microsoft-365/blogs).
+Here are the latest blog posts and announcements around Microsoft 365 development topics from [https://developer.microsoft.com/microsoft-365/blogs](https://developer.microsoft.com/microsoft-365/blogs).
 
 *   4th of February - [Breaking changes to the addToReviewSet action in the Microsoft Graph API for eDiscovery (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-to-the-addtoreviewset-action-in-the-microsoft-graph-api-for-ediscovery-beta/)
 *   2nd of February - [Breaking changes to the Microsoft Graph API for eDiscovery (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-to-the-microsoft-graph-api-for-ediscovery-beta/)
@@ -106,7 +106,7 @@ There are numerous different community calls on different areas. All calls are b
 *   Adaptive Cards  [https://aka.ms/adaptivecardscommunitycall](https://aka.ms/adaptivecardscommunitycall) \- Updates and news around Adaptive Cards with live demos
 *   Microsoft identity platform  [https://aka.ms/IDDevCommunityCalendar](https://aka.ms/IDDevCommunityCalendar) \- Latest on the identity side
 *   Office Add-ins  [https://aka.ms/officeaddinscommunitycall](https://aka.ms/officeaddinscommunitycall) \- News and community work around Office add-ins with live demos
-*   PowerApps   [https://aka.ms/PowerAppsMonthlyCall](https://aka.ms/PowerAppsMonthlyCall) \- Monthly summary on PowerApps community with live demos
+*   Power Apps   [https://aka.ms/PowerAppsMonthlyCall](https://aka.ms/PowerAppsMonthlyCall) \- Monthly summary on Power Apps community with live demos
 *   M365 Community Call  [https://aka.ms/spdev-sig-call](https://aka.ms/spdev-sig-call)  - Bi-weekly - General topics on Microsoft 365 Dev from various aspects - Microsoft Teams, Microsoft Graph Toolkit, Provisioning, Automation, Scripting, Power Automate, Solution design
 *   Viva Connections & SharePoint Framework Community call [https://aka.ms/spdev-spfx-call](https://aka.ms/spdev-spfx-call) \- Bi-weekly - Consists of topics around SharePoint Framework and JavaScript-based development in the Microsoft Teams and in SharePoint platform.
 
@@ -151,7 +151,7 @@ Most of the community driven repositories are in the [PnP GitHub organization](
 All SharePoint specific repositories or services supported directly by Microsoft are located in the SharePoint GitHub organization  
   
 
-*   [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) \- Source for new SharePoint dev center documentation exposed from [http://docs.microsoft.com/en-us/sharepoint/dev](http://docs.microsoft.com/en-us/sharepoint/dev/)
+*   [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) \- Source for new SharePoint dev center documentation exposed from [http://docs.microsoft.com/sharepoint/dev](http://docs.microsoft.com/sharepoint/dev/)
 *   [sp-dev-provisioning-templates](https://github.com/SharePoint/sp-dev-provisioning-templates) \- Open-source templates used by the [SharePoint Look Book site](https://lookbook.microsoft.com/)
 *   [sp-provisioning-service](https://github.com/SharePoint/sp-provisioning-service) \- Source code of the [SharePoint look book site](https://lookbook.microsoft.com/)
 
@@ -172,7 +172,7 @@ Other related resources from GitHub
 
 ## What's supportability story around the community tooling and assets?
 
-Following statements apply across all of the community lead and contributed samples and solutions, including samples, core component(s) and solutions, like [SharePoint Starter Kit](https://github.com/SharePoint/sp-starter-kit), [yo teams](https://aka.ms/yoteams) or [PnP PowerShell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps). All Microsoft released SDKs and tools are supported based on the specific tool policies.
+Following statements apply across all of the community lead and contributed samples and solutions, including samples, core component(s) and solutions, like [SharePoint Starter Kit](https://github.com/SharePoint/sp-starter-kit), [yo teams](https://aka.ms/yoteams) or [PnP PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps). All Microsoft released SDKs and tools are supported based on the specific tool policies.
 
 *   PnP guidance and samples are created by Microsoft & by the Community
 *   PnP guidance and samples are maintained by Microsoft & community
@@ -188,15 +188,15 @@ Please see the specifics on the supportability on the tool, SDK or  component r
 
 ![thumbnail image 2 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update ](images/LuiseFreese_0-1644235140726.png)
 
-In April 2020 we announced our new [Microsoft 365 PnP team model](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and grew the MVP team quite significantly. PnP model exists for having more efficient engagement between Microsoft engineering and community members. Let's build things together. Your contributions and feedback is always welcome! During August, we also crew the team with 5 new members. PnP Team coordinates and leads the different open-source and community efforts we execute in the Microsoft 365 platform.
+In April 2020 we announced our new [Microsoft 365 PnP team model](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and grew the MVP team quite significantly. PnP model exists for having more efficient engagement between Microsoft engineering and community members. Let's build things together. Your contributions and feedback is always welcome! During August, we also crew the team with 5 new members. PnP Team coordinates and leads the different open-source and community efforts we execute in the Microsoft 365 platform.
 
 We welcome all community members to get involved on the community and open-source efforts. Your input do matter!
 
 *   New Microsoft 365 Patterns and Practices (PnP) team members – November 2021](<https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members/ba-p/2953966>) - [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | [@GSiVed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/384388), [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1, [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | [@Spdcp](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/386549), [João J. Mendes](https://twitter.com/joaojmendes) (Valo) | [@joaojmendes | @thomyg
 *   [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members-may/ba-p/2332415) - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo) and [Patrick Lamber](https://github.com/plamber) (Experts Inside AG)
-*   [New Microsoft 365 Patterns and Practices (PnP) team members - February 2021](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/) -  [April Dunnam](https://www.twitter.com/aprildunnam "https://www.twitter.com/aprildunnam") (Microsoft), [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) and [Veronique Lengelle](https://twitter.com/veronicageek) (CPS)
-*   [New Microsoft 365 Patterns and Practices (PnP) team members - December 2020](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-2/) -  [Luise Freese](https://twitter.com/LuiseFreese) and [Sébastien Levert](https://twitter.com/sebastienlevert/) 
-*   [New Microsoft 365 Patterns and Practices (PnP) team members - August 2020](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members/) - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital), [Koen Zomers](https://twitter.com/koenzomers) (Microsoft), [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative), [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) and [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions)
+*   [New Microsoft 365 Patterns and Practices (PnP) team members - February 2021](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-february-2021/) -  [April Dunnam](https://www.twitter.com/aprildunnam "https://www.twitter.com/aprildunnam") (Microsoft), [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) and [Veronique Lengelle](https://twitter.com/veronicageek) (CPS)
+*   [New Microsoft 365 Patterns and Practices (PnP) team members - December 2020](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members-2/) -  [Luise Freese](https://twitter.com/LuiseFreese) and [Sébastien Levert](https://twitter.com/sebastienlevert/) 
+*   [New Microsoft 365 Patterns and Practices (PnP) team members - August 2020](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-members/) - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital), [Koen Zomers](https://twitter.com/koenzomers) (Microsoft), [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative), [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) and [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions)
 
 Got feedback, suggestions or ideas? - Please let us know. Everything we do in this program is **for your benefit**. Feedback and ideas are more than welcome so that we can adjust the process for benefitting you even more.
 
@@ -234,7 +234,7 @@ Community docs model was announced in the April 2020 and it's great to see the i
 #### New articles
 
 *   [Advanced Highlighted Content Web Part](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/Community/highlighted-content-web-part.md) \- [Patrick Doran](https://twitter.com/swearpointjs) (NCDIT) | @swearpointjs
-*   [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](https://docs.microsoft.com/en-us/microsoft-365/community/microsoft365-maturity-model--governance-and-compliance) - [Nikki Chapple](https://www.twitter.com/chapplenikki) (NTT Cloud Communications) | @chapplenikki
+*   [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--governance-and-compliance) - [Nikki Chapple](https://www.twitter.com/chapplenikki) (NTT Cloud Communications) | @chapplenikki
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model more detailed.
 
@@ -271,7 +271,7 @@ These are samples which have been contributed on the community samples since las
 
 *   Numerous adjustments on existing samples and solutions
 
-If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://aka.ms/teams-samples). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates) and community samples.
+If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://aka.ms/teams-samples). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
 
 ### Power Platform samples
 
@@ -378,10 +378,10 @@ See exact details on the latest updates from the specific open-source project re
 
 Please see all the Microsoft 365 development documentation updates from the related documentation sets and repositories as listed below:
 
-*   Microsoft Teams platform documentation - [Microsoft Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/) | [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
-*   SharePoint Developer documentation - [Microsoft Docs](https://docs.microsoft.com/en-us/sharepoint/dev/) | [GitHub](https://github.com/SharePoint/sp-dev-docs)
-*   Microsoft Graph documentation - [Microsoft Docs](https://docs.microsoft.com/en-us/graph) | [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
-*   Office add-in documentation - [Microsoft Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/) | [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
+*   Microsoft Teams platform documentation - [Microsoft Docs](https://docs.microsoft.com/microsoftteams/platform/) | [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
+*   SharePoint Developer documentation - [Microsoft Docs](https://docs.microsoft.com/sharepoint/dev/) | [GitHub](https://github.com/SharePoint/sp-dev-docs)
+*   Microsoft Graph documentation - [Microsoft Docs](https://docs.microsoft.com/graph) | [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
+*   Office add-in documentation - [Microsoft Docs](https://docs.microsoft.com/office/dev/add-ins/) | [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
 
 ### Microsoft 365 Developer and Microsoft 365 Community YouTube video channels
 

@@ -187,8 +187,8 @@ There are numerous different community calls on different areas. All calls are b
     side
 -   Office Add-ins  <https://aka.ms/officeaddinscommunitycall> - News
     and community work around Office add-ins with live demos
--   PowerApps   <https://aka.ms/PowerAppsMonthlyCall> - Monthly summary
-    on PowerApps community with live demos
+-   Power Apps   <https://aka.ms/PowerAppsMonthlyCall> - Monthly summary
+    on Power Apps community with live demos
 -   M365 Community Call  <https://aka.ms/spdev-sig-call>  - Bi-weekly -
     General topics on Microsoft 365 Dev from various aspects - Microsoft
     Teams, Microsoft Graph Toolkit, Provisioning, Automation, Scripting,
@@ -537,7 +537,7 @@ Here are the latest updates on the Script Samples
     by [Adam
     Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ou1UssfsX%2FGuAkrYEi0B7XnbGHgC669zrH3vjq%2FBJdw%3D&reserved=0)
     (Hitachi Energy) | @Adam25858782
--   New [Export all PowerApps details and its Role assignments from
+-   New [Export all Power Apps details and its Role assignments from
     Tenant in CSV
     format](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fpowerapps-get-app-users-list-csv%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=qsNgZyojfbGn0heuJD87Tmgo9wBJedCAoGdfJ57RMVA%3D&reserved=0)
     by [Siddharth
@@ -548,7 +548,7 @@ Here are the latest updates on the Script Samples
     by [Kinga
     Kazala](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkinga_kazala&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=YXcunQsz4ooiKW7cOPOQLTfdbCsQB4hRD7UqjjkV5sg%3D&reserved=0)
     (SharePoint and Azure Architect) | @kinga_kazala
--   New [Add/Remove users(bulk) from PowerApps from CSV
+-   New [Add/Remove users(bulk) from Power Apps from CSV
     file](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fpowerapps-bulk-useraccess%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=sjEpKsZ9zPuZIZDJgV6mXJmwk3n9ukpQ6IoqiElH3Mk%3D&reserved=0)
     by [Siddharth
     Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0)

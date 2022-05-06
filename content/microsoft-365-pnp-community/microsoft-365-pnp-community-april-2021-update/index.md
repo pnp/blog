@@ -418,8 +418,8 @@ developer blog](http://aka.ms/spdev-blog) when the videos are published.
     Microsoft Teams monthly update with live demos
 -   Office Add-ins  <https://aka.ms/officeaddinscommunitycall> - News
     and community work around Office add-ins with live demos
--   PowerApps   <https://aka.ms/PowerAppsMonthlyCall> - Monthly summary
-    on PowerApps community with live demos
+-   Power Apps   <https://aka.ms/PowerAppsMonthlyCall> - Monthly summary
+    on Power Apps community with live demos
 -   SharePoint   <https://aka.ms/spdev-call> - Consists of the latest
     news, providing credits for all community contributors and live
     demos typically by SharePoint engineering.

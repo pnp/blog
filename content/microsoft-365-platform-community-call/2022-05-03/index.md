@@ -141,7 +141,7 @@ It’s great seeing everybody in the room today.  Thank you for joining this wee
 * **Run Office Scripts with a button - now in Excel for Windows**
     * Automate button – [New workbook -Excel](https://excel.new/)
     * Program - [Join the Microsoft 365 Developer Program
-        today!](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
+        today!](https://developer.microsoft.com/microsoft-365/dev-program)
     * Scenario - [Office Scripts sample scenario: Punch clock button](https://docs.microsoft.com/office/dev/scripts/resources/scenarios/punch-clock)
     * Documentation - [Office Scripts samples and scenarios](https://docs.microsoft.com/office/dev/scripts/resources/samples/samples-overview) \| aka.ms/sample-scripts
     * Feedback - [Office Scripts @ M365 Developer
@@ -164,12 +164,12 @@ It’s great seeing everybody in the room today.  Thank you for joining this wee
 * Viva Connections [https://aka.ms/VivaConnections](https://aka.ms/VivaConnections)
 * [SharePoint look book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 * [Yo Teams video training package](https://aka.ms/yoteams-training)
-* [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+* [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 * [Microsoft 365 Platform Community (PnP) videos](https://aka.ms/m365/videos) | aka.ms/m365/videos
 * [Microsoft Teams Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 * [yo Teams](https://aka.ms/yoteams) | aka.ms/yoteams
 * [SPFx Developer documentation](https://aka.ms/spfx) | <https://aka.ms/spfx>
-* [Microsoft 365 developer program site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) - Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription - free tenant for 90 days with automatic renewal if used for dev purposes
+* [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) - Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription - free tenant for 90 days with automatic renewal if used for dev purposes
 
 ## Upcoming Calls | Recurrent Invites
 
@@ -188,7 +188,7 @@ It’s great seeing everybody in the room today.  Thank you for joining this wee
 * Microsoft Identity Platform call \| Thursday, May 19, 9:00 am PT -
     <https://aka.ms/IDDevCommunityCalendar> (monthly)
 
-Microsoft 365 Platform community call focuses on latest Microsoft 365 Platform updates and demos delivered by Microsoft presenters and takes place weekly on Tuesday.  The alternating Special Interest Group community calls each Thursday focus on SharePoint Framework (client-side development/implementation) and Microsoft 365 Platform (includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps, Column Formatting, list formatting, etc. topics.) with demos commonly delivered by community members.
+Microsoft 365 Platform community call focuses on latest Microsoft 365 Platform updates and demos delivered by Microsoft presenters and takes place weekly on Tuesday.  The alternating Special Interest Group community calls each Thursday focus on SharePoint Framework (client-side development/implementation) and Microsoft 365 Platform (includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Power Automate, PowerApps, Column Formatting, list formatting, etc. topics.) with demos commonly delivered by community members.
 
 More details on the Microsoft 365 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 

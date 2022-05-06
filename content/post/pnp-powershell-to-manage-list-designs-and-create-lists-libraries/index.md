@@ -12,7 +12,7 @@ type: "regular"
 
 
 
-PnP PowerShell has a set of cmdlets to [manage custom list templates.](https://docs.microsoft.com/en-us/sharepoint/lists-custom-template)
+PnP PowerShell has a set of cmdlets to [manage custom list templates.](https://docs.microsoft.com/sharepoint/lists-custom-template)
 
 [**Add-PnPListDesign**](https://pnp.github.io/powershell/cmdlets/Add-PnPListDesign.html)
 

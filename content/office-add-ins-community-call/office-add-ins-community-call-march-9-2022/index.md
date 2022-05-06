@@ -81,7 +81,7 @@ We see this issue is affecting multiple customers and we’ve moved this up in p
 
 ### Should we post in the Microsoft Q&A forum or StackOverflow or GitHub?
 
-The team monitors all of these locations. For development assistance, particularly with coding, please post your questions to [Microsoft Q&A](https://docs.microsoft.com/en-us/answers/products/m365) or [Stack Overflow](https://stackoverflow.com). To report bugs, please open an issue in [GitHub](https://github.com/OfficeDev/office-js).
+The team monitors all of these locations. For development assistance, particularly with coding, please post your questions to [Microsoft Q&A](https://docs.microsoft.com/answers/products/m365) or [Stack Overflow](https://stackoverflow.com). To report bugs, please open an issue in [GitHub](https://github.com/OfficeDev/office-js).
 
 ### Is there a documented or known issue that anyone is aware of with the Word API and supporting older versions of Word documents?
 
