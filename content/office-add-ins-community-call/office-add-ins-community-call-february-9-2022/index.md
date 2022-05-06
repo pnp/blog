@@ -111,7 +111,7 @@ Yes, this is on the backlog. The Outlook mobile team is focusing first on event-
   
 **Can Power automate 'Excel Run script' run macros in a .xlsm file?**
 
-No, you can't run VBA macros using the Run Script action. However, you can run Office Scripts in a .xlsm file. See [https://docs.microsoft.com/office/dev/scripts/develop/macros-power-automate](https://docs.microsoft.com/en-us/office/dev/scripts/develop/macros-power-automate) for more information.
+No, you can't run VBA macros using the Run Script action. However, you can run Office Scripts in a .xlsm file. See [https://docs.microsoft.com/office/dev/scripts/develop/macros-power-automate](https://docs.microsoft.com/office/dev/scripts/develop/macros-power-automate) for more information.
 
   
 **Is it possible to get the w14:paraId attribute value for paragraphs using the API? When getting the Open XML, it is not included even if the paragraphs have w14:paraId attributes.**

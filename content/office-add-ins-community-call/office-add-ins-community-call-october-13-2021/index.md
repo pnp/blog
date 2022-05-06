@@ -197,7 +197,7 @@ scenario. Please submit a feature request for this at
 -   Documentation -- [Outlook add-in API requirement set
     1.9](https://docs.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.9/outlook-requirement-set-1.9)
 -   Documentation -- [Outlook add-in API requirement set
-    1.10](https://docs.microsoft.com/en-us/office/dev/add-ins/reference/objectmodel/requirement-set-1.10/outlook-requirement-set-1.10)
+    1.10](https://docs.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.10/outlook-requirement-set-1.10)
 
 ### Demo: Hello World code sample 
 

@@ -22,7 +22,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Article - [Updated preview of SharePoint Framework 1.15 – New release of the upcoming features](https://devblogs.microsoft.com/microsoft365dev/updated-preview-of-sharepoint-framework-1-15-new-release-of-the-upcoming-features/) | [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * Article - [Walkie Talkie in Microsoft Teams integrated with Kyocera 5G Rugged Smartphones](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/walkie-talkie-in-microsoft-teams-integrated-with-kyocera-5g/ba-p/3288641) | Christina Wu (Microsoft)
 * Article - [Delivering Professional Grade Broadcasts with New Microsoft Teams Integrations](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/delivering-professional-grade-broadcasts-with-new-microsoft/ba-p/3293454) | [Aaron Linne](https://twitter.com/linne) (Microsoft) | @linne
-* Teams paltform documentation update - [Create a Set up CI/CD pipelines sidepanel](https://docs.microsoft.com/en-us/microsoftteams/platform/sbs-meetings-sidepanel?tabs=vs)
+* Teams paltform documentation update - [Create a Set up CI/CD pipelines sidepanel](https://docs.microsoft.com/microsoftteams/platform/sbs-meetings-sidepanel?tabs=vs)
 * Microsoft 365 PnP Weekly – Episode 163 (April 26th) with Oslo, Norway based Principal Product Manager, [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @mikaelsvenson | [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-163/) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-163-mikael-svenson-microsoft/)
 * M365 Dev Podcast - Extensibility discussion with [Ed Averett](https://twitter.com/Ed_Averett) (April 20th) | @Ed_Averett |[podcast](https://www.m365devpodcast.com/e/extensibility-discussion-with-ed-averett/)
 
@@ -69,7 +69,7 @@ Thank you for being part of this community and these calls. You make this commun
 
 * **Create an apps that extends across Teams, Outlook, and Office**
     * [VS Code Teams Toolkit](https://aka.ms/VSCodeTeamsToolkit)
-    * Documentation - [Microsoft Teams JavaScript client SDK v2 Preview](https://docs.microsoft.com/en-us/microsoftteams/platform/m365-apps/using-teams-client-sdk-preview?tabs=manifest-teams-toolkit%2Cjavascript)
+    * Documentation - [Microsoft Teams JavaScript client SDK v2 Preview](https://docs.microsoft.com/microsoftteams/platform/m365-apps/using-teams-client-sdk-preview?tabs=manifest-teams-toolkit%2Cjavascript)
 
 * **Easily fix errors in your SPFx projects with CLI for Microsoft 365**
     * [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
@@ -84,12 +84,12 @@ Thank you for being part of this community and these calls. You make this commun
 * Viva Connections [https://aka.ms/VivaConnections](https://aka.ms/VivaConnections)
 * [SharePoint look book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 * [Yo Teams video training package](https://aka.ms/yoteams-training)
-* [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+* [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 * [Microsoft 365 Platform Community (PnP) videos](https://aka.ms/m365/videos) | aka.ms/m365/videos
 * [Microsoft Teams Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 * [yo Teams](https://aka.ms/yoteams) | aka.ms/yoteams
 * [SPFx Developer documentation](https://aka.ms/spfx) | https://aka.ms/spfx
-* [Microsoft 365 developer program site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) - Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription - free tenant for 90 days with automatic renewal if used for dev purposes
+* [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) - Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription - free tenant for 90 days with automatic renewal if used for dev purposes
 
 ## Upcoming Calls | Recurrent Invites
 

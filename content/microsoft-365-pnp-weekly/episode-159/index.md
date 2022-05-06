@@ -50,7 +50,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Microsoft articles
 
 *   [Help your employees thrive with Microsoft Viva in the hybrid
-    world](https://www.microsoft.com/en-us/microsoft-365/blog/2022/03/24/help-your-employees-thrive-with-microsoft-viva-in-the-hybrid-world/)
+    world](https://www.microsoft.com/microsoft-365/blog/2022/03/24/help-your-employees-thrive-with-microsoft-viva-in-the-hybrid-world/)
     \- [Seth Patton](https://twitter.com/SethPat) (Microsoft) \| @SethPat
 *   [Streamline your day in the hybrid workplace with workflows for Microsoft
     Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/streamline-your-day-in-the-hybrid-workplace-with-workflows-for/ba-p/3263057)
@@ -62,9 +62,9 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     Ganguly](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1249247)
     (Microsoft)
 *   [Automate your work day with workflows in
-    Teams](https://powerautomate.microsoft.com/en-us/blog/automate-your-work-day-with-workflows-in-teams/)
+    Teams](https://powerautomate.microsoft.com/blog/automate-your-work-day-with-workflows-in-teams/)
     \- [Harysh
-    Menon](https://powerautomate.microsoft.com/en-us/blog/author/hamenon/)
+    Menon](https://powerautomate.microsoft.com/blog/author/hamenon/)
     (Microsoft)
 *   [Learn from the Community: Microsoft MVPs digitize knowledge in a Community
     Bot for

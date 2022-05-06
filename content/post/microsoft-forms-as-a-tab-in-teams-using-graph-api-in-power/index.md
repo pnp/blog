@@ -10,7 +10,7 @@ tags: ["Microsoft Graph", "Power Automate"]
 type: "regular"
 ---
 
-This article is focused on how you can add Forms as a Website Tab in Microsoft Teams using [Post Tab in Teams channel graph API](https://docs.microsoft.com/en-us/graph/api/channel-post-tabs?view=graph-rest-1.0)
+This article is focused on how you can add Forms as a Website Tab in Microsoft Teams using [Post Tab in Teams channel graph API](https://docs.microsoft.com/graph/api/channel-post-tabs?view=graph-rest-1.0)
 
 From the below shown figure 1.1 You can see the whole layout of the Power Automate flow which when triggered will add Form into Teams channel as a Tab
 
@@ -18,7 +18,7 @@ From the below shown figure 1.1 You can see the whole layout of the Power Automa
 
 Fig 1.1 – Post Forms as Tab in Microsoft Teams Power Automate Flow diagram
 
-Before digging more into Power Automate, Create an Azure AD App by giving the Application permissions required for [Add Tabs to Channel API](https://docs.microsoft.com/en-us/graph/api/channel-post-tabs?view=graph-rest-1.0) just like shown in Fig 1.2
+Before digging more into Power Automate, Create an Azure AD App by giving the Application permissions required for [Add Tabs to Channel API](https://docs.microsoft.com/graph/api/channel-post-tabs?view=graph-rest-1.0) just like shown in Fig 1.2
 
 ![thumbnail image 2 of blog post titled Microsoft Forms as a Tab in Teams using graph API in Power Automate ](images/ShrushtiShah_1-1643783152566.png)
 
@@ -110,7 +110,7 @@ For, Content URL and Website URL in the HTTP Request Body, select dynamically th
 
 Teams APP ID for Website tab will be:
 
-To know more on Teams APP ID refer; [Configuring built-In Tab types in Teams](https://docs.microsoft.com/en-us/graph/teams-configuring-builtin-tabs#:~:text=For%20document%20library%20tabs%2C%20the,tab.)
+To know more on Teams APP ID refer; [Configuring built-In Tab types in Teams](https://docs.microsoft.com/graph/teams-configuring-builtin-tabs#:~:text=For%20document%20library%20tabs%2C%20the,tab.)
 
 In this use-case, For Microsoft Forms the teamsAppID is: `81fef3a6-72aa-4648-a763-de824aeafb7d`
 

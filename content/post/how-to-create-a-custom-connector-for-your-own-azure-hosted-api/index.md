@@ -276,11 +276,11 @@ You can wrap ANY API into a custom connector for Power Platform - even the ones 
 
 Some helpful resources:   
   
-[Quickstart: Create a Node.js web app - Azure App Service | Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/quickstart-nodejs?pivots=development-environment-cli&tabs=linux)
+[Quickstart: Create a Node.js web app - Azure App Service | Microsoft Docs](https://docs.microsoft.com/azure/app-service/quickstart-nodejs?pivots=development-environment-cli&tabs=linux)
 
 [How to Scrape Websites with Node.js and Cheerio (freecodecamp.org)](https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/)
 
-[Create a custom connector from scratch | Microsoft Docs](https://docs.microsoft.com/en-us/connectors/custom-connectors/define-blank)
+[Create a custom connector from scratch | Microsoft Docs](https://docs.microsoft.com/connectors/custom-connectors/define-blank)
 
 [How to use a custom connector in Power Automate (m365princess.com)](https://www.m365princess.com/blogs/2021-02-23-how-to-use-a-custom-connector-in-power-automate/)
 

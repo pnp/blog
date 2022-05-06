@@ -53,7 +53,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 - [Get inspired with Microsoft 365 apps at Microsoft Tech Days](https://devblogs.microsoft.com/microsoft365dev/get-inspired-with-microsoft-365-apps-at-microsoft-tech-days/) - Microsoft
 - [Two conferences in one! 365 EduCon & PWR EduCon - Seattle, WA](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/two-conferences-in-one-365-educon-amp-pwr-educon-seattle-wa/ba-p/3285243) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 - [Microsoft 365 Platform Call – 12th of April 2022 - Wellbeing sample](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-12th-of-april-2022/ba-p/3283301) - [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm, [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells
-- [Introducing the new Power Automate pane in Power Apps!](https://powerapps.microsoft.com/en-us/blog/introducing-the-new-power-automate-pane-in-power-apps/) - Tasha Scott (Microsoft)
+- [Introducing the new Power Automate pane in Power Apps!](https://powerapps.microsoft.com/blog/introducing-the-new-power-automate-pane-in-power-apps/) - Tasha Scott (Microsoft)
 
 ## Community articles
 

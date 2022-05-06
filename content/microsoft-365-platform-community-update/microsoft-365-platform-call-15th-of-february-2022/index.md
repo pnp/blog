@@ -74,7 +74,7 @@ Thank you everybody for joining the call today, for being part of this community
 
 ## Demos
 
-*   **Introduction to Microsoft Information Protection Policy APIs** – MIP capabilities help organizations to classify, label, manage and protect data based on [sensitivity](https://docs.microsoft.com/en-us/Office365/SecurityCompliance/sensitivity-labels).  Learn about the MIP SDK (File, Policy and Protection SDKs).  Microsoft Graph exposes MIP Policy APIs - policy-specific functionality and resolves state to Actions (add a header/footer, add metadata…).   Graph (Beta) endpoint Policy APIs reviewed - Get Labels, Evaluate (add/remove labels), Extract Label (metadata), are moving to Graph this week.      
+*   **Introduction to Microsoft Information Protection Policy APIs** – MIP capabilities help organizations to classify, label, manage and protect data based on [sensitivity](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels).  Learn about the MIP SDK (File, Policy and Protection SDKs).  Microsoft Graph exposes MIP Policy APIs - policy-specific functionality and resolves state to Actions (add a header/footer, add metadata…).   Graph (Beta) endpoint Policy APIs reviewed - Get Labels, Evaluate (add/remove labels), Extract Label (metadata), are moving to Graph this week.      
     
 *   **Latest on Cloud Hybrid Search (SSA) & Graph connectors​ for indexing content from on-premises** – Cloud Hybrid Search a.k.a. Cloud SSA, creates a single cloud-based index and interleaves search content from multiple internal/external sources in results.  Alternatively, Microsoft Search powered by Microsoft Graph uses Graph connectors (3 types) to bring in data from sources.  See search experiences that use Graph connectors rolling out in 2022 - Intelligent Discovery, Viva Topics, Context IQ, etc.   Sign-up for Graph connectors SDK Preview. 
     
@@ -96,7 +96,7 @@ Thank you for your creativity and work execution.   Samples are often showcase
 Additional resources around the covered topics and links from the slides.
 
 *   **D1:**  Article - [Microsoft Information Protection SDK: Now Generally Available!](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-information-protection-sdk-now-generally-available/ba-p/263144) | aka.ms/mipsdk
-*   **D1:**  SDK - [Microsoft Information Protection Software Development Kit Version 1.11](https://www.microsoft.com/en-us/download/details.aspx?id=103655) | aka.ms/mipsdkbins
+*   **D1:**  SDK - [Microsoft Information Protection Software Development Kit Version 1.11](https://www.microsoft.com/download/details.aspx?id=103655) | aka.ms/mipsdkbins
 *   **D1:**  Documentation - [Microsoft Information Protection SDK documentation](https://docs.microsoft.com/information-protection/develop/) | aka.ms/MIPSDKDocs
 *   **D1:**  Code Samples - [mip sdk](https://docs.microsoft.com/samples/browse/?terms=mip%20sdk) | aka.ms/MIPSDKSamples
 *   **D1:**  Documentation - [Information Protection overview](https://docs.microsoft.com/graph/information-protection-overview) 
@@ -133,7 +133,7 @@ Previous demos in [Sébastien Levert](https://twitter.com/sebastienlevert)’s (
 *   Viva Connections [https://aka.ms/VivaConnections](https://aka.ms/VivaConnections)
 *   [SharePoint look book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 *   [Yo Teams video training package](http://aka.ms/yoteams-training)
-*   [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+*   [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 *   [Microsoft 365 community (PnP) videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 *   [Microsoft Teams Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 *   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
@@ -146,11 +146,11 @@ Previous demos in [Sébastien Levert](https://twitter.com/sebastienlevert)’s (
 *   [Page transformation guidance](https://aka.ms/sppnp-pagetransformation)
 *   [Page transformation videos](https://aka.ms/sppnp-pagetransformationvideos)
 *   [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
-*   [Microsoft 365 developer program site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
+*   [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
 *   [SharePoint Provisioning Service](https://lookbook.microsoft.com/service-description) \- Easily provision look book designs to any tenant in the world
 *   [SharePoint Provisioning templates on Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
-*   [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
-*   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+*   [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+*   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 *   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 *   [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 

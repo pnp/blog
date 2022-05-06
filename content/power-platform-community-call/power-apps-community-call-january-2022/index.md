@@ -44,11 +44,11 @@ Thank for attending the call or viewing it on demand. 
 
 ## Recent News & Cool Stuff
 
-*   [Introducing the ALM Accelerator for Power Platform](https://powerapps.microsoft.com/en-us/blog/introducing-the-alm-accelerator-for-power-platform/)
+*   [Introducing the ALM Accelerator for Power Platform](https://powerapps.microsoft.com/blog/introducing-the-alm-accelerator-for-power-platform/)
     
-*   [Power Apps portals: Introducing the portals search powered by Microsoft Dataverse search API (previe...](https://powerapps.microsoft.com/en-us/blog/powerapps-portals-introducing-the-portals-search-powered-by-microsoft-dataverse-search-api-preview/)
+*   [Power Apps portals: Introducing the portals search powered by Microsoft Dataverse search API (previe...](https://powerapps.microsoft.com/blog/powerapps-portals-introducing-the-portals-search-powered-by-microsoft-dataverse-search-api-preview/)
     
-*   [Power Apps Ideas: New enhancements and increased capabilities](https://powerapps.microsoft.com/en-us/blog/power-apps-ideas-new-enhancements-and-increased-capabilities/)
+*   [Power Apps Ideas: New enhancements and increased capabilities](https://powerapps.microsoft.com/blog/power-apps-ideas-new-enhancements-and-increased-capabilities/)
 
 
 ## Actions
