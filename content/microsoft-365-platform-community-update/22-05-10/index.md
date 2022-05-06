@@ -233,7 +233,7 @@ These are different areas which are closely involved on the community work acros
 
 ### Microsoft Graph Toolkit
 
-![thumbnail image 4 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/mgt.png)
+![Microsoft Graph Toolkit ](images/mgt.png)
 
 Microsoft Graph Toolkit is engineering lead initiative, which works closely with the community on the open-source areas. The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic web components and helpers for accessing and working with Microsoft Graph. The components are fully functional right of out of the box, with built in providers that authenticate with and fetch data from Microsoft Graph.
 
@@ -474,7 +474,7 @@ Here are the new Microsoft demo or guidance videos released since the last month
 *   [Updates on Independent Publisher Connectors & GoQR Connector Demo](https://www.youtube.com/watch?v=sfMtPESK_Mc) by [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1 and [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) (Microsoft)
 *   [SharePoint Framework Design Patterns – Custom Web Part Properties (Part 3)](https://www.youtube.com/watch?v=rv-kG82i3kM) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
 
-## Key contributors to the March 2022 update
+## Key contributors to the May 2022 update
 
 Here’s the list of active contributors (in alphabetical order) since last release details in GitHub repositories or community channels. PnP is really about building tooling and knowledge together with the community for the community, so your contributions are highly valued across the Microsoft 365 customers, partners and obviously also at Microsoft.
 
@@ -670,6 +670,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Sabrina Faragoza (Cognizant's Microsoft Business Group)
 *   [Sachchin Annam](https://www.twitter.com/Sachchinn) (Freelancer) | @Sachchinn
 *   [Sam Bridegroom](https://www.twitter.com/sambridegroom) (Allied Solutions) | @Sambridegroom
+*   Sami Nieminen | stniemin
 *   [Sekar Thangavel](https://github.com/SekarThangavel) (IBM) | SekarThangavel
 *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 *   [Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
