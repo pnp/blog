@@ -55,7 +55,7 @@ Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @davidchesnut
 ## Actions 
 
 -   Please reach out to us to provide input on upcoming Word APIs such
-    as the Bookmark APIs: <http://aka.ms/wordextensibilitysurvey> 
+    as the Bookmark APIs: <https://aka.ms/wordextensibilitysurvey> 
 -   Give us feedback on the Hello World sample in the PR:
     <https://github.com/OfficeDev/PnP-OfficeAddins/pull/213>
 -   Earn contributor badges - sign up for the PnP Recognition

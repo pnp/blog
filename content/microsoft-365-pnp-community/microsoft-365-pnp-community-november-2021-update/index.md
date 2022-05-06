@@ -20,7 +20,7 @@ month. Thank you for being part of this success.
 
 ## What is Microsoft 365 Community (PnP) 
 
-[Microsoft 365 PnP](http://aka.ms/m365pnp) is a nick-name for Microsoft
+[Microsoft 365 PnP](https://aka.ms/m365pnp) is a nick-name for Microsoft
 365 platform community activities coordinated by numerous teams inside
 of the Microsoft 365 engineering organizations. PnP is a
 community-driven open source initiative where Microsoft and external
@@ -46,13 +46,13 @@ libraries are under official support from Microsoft.
 Main resources around Microsoft 365 Community:
 
 -   Microsoft 365 Community -
-    [http://aka.ms/m365pnp](http://aka.ms/sppnp) - One location for all
+    [https://aka.ms/m365pnp](https://aka.ms/sppnp) - One location for all
     the resources and news around Microsoft 365 platform
 -   Microsoft 365 community blog - 
-    <http://aka.ms/m365pnp/community/blog>
--   Microsoft 365 development blog -  <http://aka.ms/m365pnp-blog>
+    <https://aka.ms/m365pnp/community/blog>
+-   Microsoft 365 development blog -  <https://aka.ms/m365pnp-blog>
 -   Microsoft 365 Community Channel on YouTube -
-    [http://aka.ms/m365pnp-videos](http://aka.ms/m365pnp-Videos)
+    [https://aka.ms/m365pnp-videos](https://aka.ms/m365pnp-Videos)
 -   Microsoft 365 Developer YouTube channel -
     <https://aka.ms/M365DevYouTube>
 
@@ -224,7 +224,7 @@ YouTube](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 channels. Recordings are typically released within the following 24
 hours after the call. You can find a detailed agenda and links to
 specific covered topics on blog post articles at the [Microsoft 365
-developer blog](http://aka.ms/spdev-blog) when the videos are published.
+developer blog](https://aka.ms/spdev-blog) when the videos are published.
 
 -   Microsoft 365 Platform Call - <https://aka.ms/m365-dev-call> -
     Updates and demos from Microsoft as weekly call on Tuesdays - topics
@@ -608,10 +608,10 @@ from the the different repositories.
 How to find what's relevant for you? Take advantage of our SharePoint
 Framework web part and extension sample galleries - includes also
 solutions which work in Microsoft Teams
--   Web Part sample gallery - <http://aka.ms/spfx-webparts>
--   Extensions sample gallery - <http://aka.ms/spfx-extensions>
+-   Web Part sample gallery - <https://aka.ms/spfx-webparts>
+-   Extensions sample gallery - <https://aka.ms/spfx-extensions>
 -   Viva Connections Adaptive Card samples
-    - [http://aka.ms/spfx-aces](http://aka.ms/spfx-extensions)
+    - [https://aka.ms/spfx-aces](https://aka.ms/spfx-extensions)
 -   Microsoft Teams samples build with SharePoint Framework -
     <https://github.com/pnp/spfx-teams> - These will be relocated soon
 
@@ -934,7 +934,7 @@ contribute to docs or to open-source solutions. Everyone is welcome to
 learn how to get started on contributing to open-source docs or code!
 
 -   See more from the [guidance
-    documentation](http://aka.ms/sharing-is-caring) - including all
+    documentation](https://aka.ms/sharing-is-caring) - including all
     upcoming instructor lead sessions which you can participate!
 
 ### ✍ Different Microsoft 365 related open-source initiatives build together with the community
@@ -1009,7 +1009,7 @@ involved!
     <https://aka.ms/pnp-search>.
 -   **Modernization tooling** - All tools and guidance on helping you to
     transform you SharePoint to modern experiences from
-    <http://aka.ms/sppnp-modernize>.
+    <https://aka.ms/sppnp-modernize>.
 -   **SharePoint Starter Kit v2** - Building modern experiences with
     Microsoft Teams flavors for SharePoint Online and SharePoint 2019 -
     reference solution in
@@ -1048,7 +1048,7 @@ the related documentation sets and repositories as listed below:
 ### Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
 
 You can find all Microsoft 365 related videos on our YouTube Channel at
-[http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos) or at
+[https://aka.ms/m365pnp/videos](https://aka.ms/m365pnp-videos) or at
 [Microsoft 365
 Dev](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ). These
 channels contains already a significant amount of detailed training
