@@ -124,7 +124,8 @@ Most of the community driven repositories are in the PnP GitHub organization as 
 *   [sp-dev-solutions](https://github.com/pnp/sp-dev-solutions) - Repository for more polished and fine-tuned reusable solutions build with SharePoint Framework
 *   [sp-dev-samples](https://github.com/pnp/sp-dev-samples) - Repository for other samples related on the SharePoint development topics - WebHooks etc.
 *   [sp-dev-fx-controls-react](https://github.com/pnp/sp-dev-fx-controls-react) - Reusable content controls for SharePoint Framework solutions build with React
-*   [sp-dev-fx-property-controls](https://github.com/pnp/sp-dev-fx-property-controls) - Reusable property pane controls to be used in web parts [list-formatting](https://github.com/SharePoint/sp-dev-column-formatting) - Open-source community-driven repository for the column and view formatting JSON definitions
+*   [sp-dev-fx-property-controls](https://github.com/pnp/sp-dev-fx-property-controls) - Reusable property pane controls to be used in web part
+*   [list-formatting](https://github.com/SharePoint/sp-dev-column-formatting) - Open-source community-driven repository for the column and view formatting JSON definitions
 *   [sp-dev-site-scripts](https://github.com/pnp/sp-dev-site-scripts) - Open-source community-driven repository for community Site Designs and Site Scripts
 *   [sp-dev-modernization](https://github.com/pnp/modernization) - Tooling and guidance around modernizing SharePoint from classic to modern
 *   [sp-power-platform-solutions](https://github.com/pnp/sp-power-platform-solutions) - Solution and sample code for SharePoint Power Platform solutions
@@ -132,7 +133,7 @@ Most of the community driven repositories are in the PnP GitHub organization as 
 *   [powerapps-samples](https://github.com/pnp/powerapps-samples) - Samples that demonstrate different usage patterns for Power Apps
 *   [powerautomate-samples](https://github.com/pnp/powerautomate-samples) - Samples that demonstrate different usage patterns for Power Automate
 *   [powerva-samples](https://github.com/pnp/powerva-samples) - Samples that demonstrate different usage patterns for Power Virtual Agents
-*   [AdaptiveCards-Templates](https://github.com/pnp/AdaptiveCards-Templates) - Samples on showcasing the art of possible with adaptive cards
+*   [AdaptiveCards-Templates](https://github.com/pnp/AdaptiveCards-Templates) - Samples on showcasing the art of possible with Adaptive cards
 
 All SharePoint specific repositories or services supported directly by Microsoft are located in the SharePoint GitHub organization
 
@@ -172,7 +173,7 @@ Please see the specifics on the supportability on the tool, SDK or component rep
 
 ## Microsoft 365 Platform Community team model
 
-![thumbnail image 2 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/teammodel.png)
+![Teammodel ](images/teammodel.png)
 
 In April 2020 we announced our new [Microsoft 365 PnP team model](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and grew the MVP team quite significantly. PnP model exists for having more efficient engagement between Microsoft engineering and community members. Let's build things together. Your contributions and feedback is always welcome! During August, we also crew the team with 5 new members. PnP Team coordinates and leads the different open-source and community efforts we execute in the Microsoft 365 platform.
 
@@ -256,7 +257,7 @@ This time no new articles.
 
 #### Updated articles
 
-*   [Advanced Highlighted Content Web Part](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Community/highlighted-content-web-part.md) - updated by [Chanaka Palliyaguru](https://twitter.com/chanakavp) (Fortude) | @Chanakavp
+<!-- TODO check with Marc -->
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model more detailed.
 
@@ -269,19 +270,12 @@ Have ideas for articles or want to contribute yourself? - Get involved! Here are
 
 These are the updated SharePoint Framework samples which are available from the different repositories.
 
-*   New sample [React-PPW-HTML](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-ppw-html) by [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint, that showcases the use of the Property Pane Wrap to embed HTML controls in the SPFx Property Pane
-*   New sample [react-flow-button](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-flow-button) by [Takashi Shinohara](https://twitter.com/karamem0) | @Karamem0, that demonstrates displaying the list of flow button of Power Automate
-*   New sample [react-datatable-using-mui-tables](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable-using-mui-tables) by [Jeffin Jacob](https://github.com/jeffinjacob) | jeffinjacob, that shows how to provide mui datatable features for your lists
-*   New sample [PrimaryTextCard-MyShifts](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-MyShifts) by [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh\_me, that shows how to build an ACE with a PrimaryText card view and a quick view to display current logged in user's immediate upcoming shift in card view and all upcoming shifts in Quick view
-*   New sample [PrimaryTextCard-Graph-JoinNewTeams](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-Graph-JoinNewTeams) by [Aimery Thomas](https://www.twitter.com/aimery_thomas) | @aimery\_thomas, that shows how to build an ACE that displays recently created Teams
-*   New sample [BasicCard-MonitorSecurity](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-MonitorSecurity) by [Arjijit Mondal](https://github.com/ArijitCloud) (Microsoft) | ArijitCloud, that provides a security monitoring feature using identity protection graph endpoint and ACE h
-*   New sample [ImageCard-OfficeLocations](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-OfficeLocations) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells, that shows how to build an ACE with multiple card views to show the details of the offices in an organization.
-*   New sample [PrimaryTextCard-FootballStats](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-FootballStats) by [Soumit Mukherjee](https://twitter.com/msoumit) | @Msoumit, [Soumyadeep Mukherjee](https://github.com/soumyadeep2207) | soumyadeep2207, and [Sourav Paul](https://twitter.com/spsouravp) | @Spsouravp, that allows users to choose one of the top five European Football League to get information about current team standing
-*   New sample [ace-designtemplate-gallery](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-designtemplate-gallery) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp, that provides a set of twelve (12) Adaptive Card Extensions to demonstrate different ways to style the quick view with more detailed layouts
-*   New sample [ace-wellbeing](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-wellbeing) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells, that showcases how users can request wellbeing days
-*   New sample [ace-dynamic-card](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-dynamic-card) by [Patrick Rodgers](https://twitter.com/mediocrebowler) | @Mediocrebowler, that includes three ACE's showing simple ways to include dynamic content and liven up the appearance of your ACE's.
-*   Updated sample [react-datatable](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable) by [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
-*   Updated sample [react-functional-component-with-data-fetch](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-functional-component-with-data-fetch) by [Don Kirkham](https://twitter.com/DonKirkham) (DMI) | @DonKirkham
+* Updated sample [react-birthdays](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-birthdays) by Milan Holemans | milanholemans
+* Updated sample [js-propertycontrols-svg](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/js-propertycontrols-svg) by [Nader Hadjebi](https://twitter.com/nader2015) | @nader2015
+* Updated sample [react-tour-pnpjs](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-tour-pnpjs) by [Mike Homol](https://twitter.com/homol) | @homol
+* Updated sample [vuejs-todo-single-file-component](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/vuejs-todo-single-file-component) by LOLCATATONIA
+* Updated sample [react-display-hierarchy](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-display-hierarchy) by [Nick Brown](https://twitter.com/techienickb)  (JISC) | @techieni
+
 
 How to find what's relevant for you? Take advantage of our SharePoint Framework web part and extension sample galleries - also includes solutions which work in Microsoft Teams
 
@@ -302,11 +296,14 @@ If you are interested on Microsoft Teams samples, we have just released also new
 
 ![Power Platform samples](images/powerplatform-samples.png)
 
-*   New Power Apps sample [dataverse-admin](https://github.com/pnp/powerapps-samples/tree/main/samples/dataverse-admin) by [Vivek Bavishi](https://twitter.com/that_api_guy) | @That\_API\_guy
-*   New Power Apps sample [sharepoint-events](https://github.com/pnp/powerapps-samples/tree/main/samples/sharepoint-events) by [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @Sharepointalex
-*   New Power Automate sample [sharepoint-hide-list-site-contents](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-hide-list-site-contents) by [Michel Mendes](https://twitter.com/michelcarlo) | @Michelcarlo
-*   New Power Automate sample [teams-adaptive-card-reminders-from-lists](https://github.com/pnp/powerautomate-samples/tree/main/samples/teams-adaptive-card-reminders-from-lists) by [Norm Young](https://twitter.com/stormin_30) | @norm Young
-*   New Power Automate sample [o365groups-graph-create-group](https://github.com/pnp/powerautomate-samples/tree/main/samples/o365groups-graph-create-group) by [Michel Mendes](https://twitter.com/michelcarlo) | @Michelcarlo
+
+* New Power Apps sample [US-Map-with-SVG-Images](https://github.com/pnp/powerapps-samples/tree/main/samples/US-Map-with-SVG-Images) by Krishna Rachakonda (Catapult) | rsk2013
+* New Power Apps sample [power-wordle-game](https://github.com/pnp/powerapps-samples/tree/main/samples/power-wordle-game) by [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
+* New Power Apps sample [Office 365 Network (Skills Matrix)](https://github.com/pnp/powerapps-samples/tree/main/samples/skills-matrix) by Jennifer McGee | RainWatcher
+* New Power Automate sample [Pattern: new-employee-tip-of-the-day](https://github.com/pnp/powerautomate-samples/tree/main/samples/new-employee-tip-of-the-day) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
+* Updated Power Automate sample [notify-on-last-working-day](https://github.com/pnp/powerautomate-samples/tree/main/samples/notify-on-last-working-day) by [Michal Ziemba](https://twitter.com/Michal_Ziemba) | @Michal_Ziemba
+* 
+
 
 There was also numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location
 
@@ -322,20 +319,7 @@ We welcome all scripts on Microsoft 365 automation to this centralized repositor
 
 Here are the latest updates on the Script Samples:
 
-*   Updated [Remove orphaned redirect sites](https://pnp.github.io/script-samples/spo-remove-orphaned-redirect-sites/README.html) by [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
-*   Updated [Get Site Usage Reports And Export It To CSV](https://pnp.github.io/script-samples/spo-export-site-usage-reports/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo) | @Reshmeeauckloo
-*   New [Analyze users for known data breaches with have I been pwned](https://pnp.github.io/script-samples/aad-analyze-users-hibp/README.html) by [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
-*   Updated [Modernizing classic pages from on-premises sites](https://pnp.github.io/script-samples/modernize-classic-pages-from-publishing-sites/README.html) by [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd) | @Pkbullock
-*   New [Delete orphaned temporary site pages](https://pnp.github.io/script-samples/spo-delete-orphaned-temporary-sitepages/README.html) by [Brian McCullough](https://twitter.com/bpmccullough) (Marsh & McLennan Companies) | @Bpmccullough
-*   Updated [List all external users in all site collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
-*   Updated [Add App Catalog to SharePoint site](https://pnp.github.io/script-samples/spo-add-app-catalog/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
-*   New [List all teams and teams members in Microsoft Teams in the tenant](https://pnp.github.io/script-samples/teams-export-teams-information/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
-*   Updated [Hide SharePoint list from Site Contents](https://pnp.github.io/script-samples/spo-hide-list-from-site-contents/README.html) by [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
-*   Updated [Teams Full Report](https://pnp.github.io/script-samples/teams-full-report/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo) | @Reshmeeauckloo
-*   New [Sample on exporting Document libraries inc folders and versions for selected Site Collections to a F...](https://pnp.github.io/script-samples/spo-export-files-and-versions/README.html) by [Kasper Bo Larsen](https://twitter.com/sperbolarsen) (Fellowmind) | @Kasperbolarsen
-*   Updated [Export a csv report on all Microsoft Stream videos](https://pnp.github.io/script-samples/stream-report-videos/README.html) by [Twan van Beers](https://twitter.com/NeroBlancoIT) (Nero Blanco) | @neroBlancoIT
-*   New [Get permission group report of a site](https://pnp.github.io/script-samples/spo-group-permission-report/README.html) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
-*   New [Export a csv report on all Whiteboards](https://pnp.github.io/script-samples/whiteboard-report-usage/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan and [Smita Nachan](https://twitter.com/SmitaNachan) | @SmitaNachan
+<!-- TODO Paul, your samples go here -->
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative.
 
@@ -351,10 +335,24 @@ For more information, you can watch this video on [Publish a connector to the Pu
 
 #### These are the latest connectors
 
-*   [CQC Data](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Care%20Quaility%20Comission%20For%20England) - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-*   [HubSpot CRM](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/HubSpot%20CRM) - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-*   [Square Payments](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Square%20Payments) -[Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-*   [Square Business](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Square%20Business) - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Advanced Scraper - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Ambee- [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* AMEE Open Company - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Aviationstack- [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Do Not Call Reported Calls - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Finnish BIS - [Timo Pertilä](https://twitter.com/timopertila) (Forward Forever) | @timopertila
+* Finnish Railway Traffic - [Timo Pertilä](https://twitter.com/timopertila) (Forward Forever) | @timopertila
+* Lit Ipsum - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* NIST NVD - [Paul Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) | @Paulculmsee
+* OpenAI - [Robin Rosengrün](https://twitter.com/power_r2) (EnBW)| @power_r2
+* ProPublica Congress - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* ProPublica Nonprofit Explorer - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Reachability - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Rebrandly - [Vivek Bavishi](https://twitter.com/that_api_guy) | @That\_API\_guy
+* Robohash - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* Storm Glass - [Paul Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) | @Paulculmsee
+* Udemy - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
+
 
 ### Sharing is Caring initiative
 
@@ -491,6 +489,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Alistair Pugin](https://www.twitter.com/alistairpugin) (Tangent Solutions) | @Alistairpugin
 *   [Akash Karda](https://twitter.com/akkikarda) | @akkikarda
 *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
+*   Andreas Omayrat | andreasomayrat
 *   [Andrea Mondello](https://www.twitter.com/mondello_power) (Withum Smith + Brown) | @Mondello\_power
 *   [Andrew Burns](https://www.twitter.com/SharePointRox) (AmSty) | @SharePointRox
 *   [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
@@ -501,6 +500,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 *   [Antti Pajunen](https://www.twitter.com/anttipajunen) (Forward Forever) | @Anttipajunen
 *   [Aric Bost](https://www.twitter.com/1CyberState) (North Carolina Housing Finance Agency) | @1CyberState
+*   [Arjan Cornelissen](https://twitter.com/arjancornelis) | @arjancornelis
 *   [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
 *   [Arleta Wanat](https://github.com/PowershellScripts) | PowershellScripts
 *   Art Pagano (University of Texas San Antonio)
@@ -509,7 +509,9 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Ashwani Kumar](https://www.twitter.com/ashwanidv100) (Walmart Global Tech) | @Ashwanidv100
 *   [Bartolomeo Sorrentino](https://twitter.com/bsorrentinoJ) (soulsoftware) | @BsorrentinoJ
 *   [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
+*   Bianca W | bianca-git
 *   Bob Morris (ThreeWill)
+*   [Brian McCullough](https://twitter.com/bpmccullough) | @bpmccullough
 *   [Carianne Wong](https://www.twitter.com/cw_marie) (Majesco) | @CW\_marie
 *   [Carike Blignaut-Staden](https://www.twitter.com/CarikeBStaden) | @CarikeBStaden
 *   [Carl Joakim Damsleth](https://twitter.com/kimzter) | @kimzter
@@ -560,6 +562,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Garrick George](https://www.twitter.com/kod3m0ng3r) (City of Thornton) | @Kod3m0ng3r
 *   [Gaurav Mahajan](https://twitter.com/mahajang) | @Mahajang
 *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
+*   [Geert de Kooter](https://twitter.com/gdekooter) | @gdekooter
 *   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
 *   [Giacomo Pozzoni](https://github.com/jackpoz) (Fellowmind) | jackpoz
 *   [Giuliano De Luca](https://twitter.com/delucagiulian) | @delucagiulian
@@ -581,6 +584,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Jeffin Jacob](https://www.github.com/jeffinjacob) | jeffinjacob
 *   Jennifer Davison (Akron Children's Hospital)
 *   [Jennifer Erzen](https://www.twitter.com/jennifererzen) (SUNY Upstate Medical University) | @Jennifererzen
+*   Jennifer McGee | RainWatcher
 *   [Jerker Vallbo](https://github.com/jerval53) | jerval53
 *   [Jhan Zaib](https://www.github.com/jhan-zaib) (Ascertia) | jhan-zaib
 *   [Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
@@ -600,6 +604,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Katrin Rannaste
 *   [Kevin McDonnell](https://twitter.com/kevmcdonk) (CPS) | @Kevmcdonk
 *   [Kim Kiefer](https://www.twitter.com/kkkiefe) (GenTech Associates) | @Kkkiefe
+*   Krishna Rachakonda (Catapult) | rsk2013
 *   [Kunj Balkrishna Sangani](https://www.twitter.com/sanganikunj) | @Sanganikunj
 *   [Kyle Bigelow](https://www.github.com/hazondata) | hazondata
 *   [Lance Yoder](https://www.twitter.com/lyoder) (Cerner) | @Lyoder
@@ -630,11 +635,14 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Milan Holemans | milanholemans
 *   [Mike Duffy](https://www.twitter.com/mike_duffy) (Boardwalk Pipelines) | @Mike\_duffy
 *   [Mike Dumka](https://www.twitter.com/mikedumka) (Habanero Consulting) | @Mikedumka
+*   [Mike Homol](https://twitter.com/homol) | @homol
 *   [Mike Zimm](https://github.com/mikezimm) | mikezimm
 *   [Mohammad Amer](https://twitter.com/Mohammad3mer) (Atea Global Services) | @Mohammad3mer
+*   [Nader Hadjebi](https://twitter.com/nader2015) | @nader2015
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
 *   [Nathan Zipf](https://github.com/NathZ1) | NathZ1
 *   [Naveen Karla](https://www.twitter.com/naveen67) | @naveen67
+* 
 *   Nicole Fleming (Sherwin Williams)
 *   [Nikki Chapple](https://www.twitter.com/chapplenikki) (Cloudway) | @Chapplenikki
 *   [Nizar Grindi](https://www.twitter.com/nizar_grindi) (Avanade) | @nizar\_grindi
@@ -659,13 +667,16 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Ralph Rivas](https://www.twitter.com/bigpix2000) (Sogeti) | @Bigpix2000
 *   [Rentu](https://github.com/SLdragon) | SLdragon
 *   [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
+*   Rico van de Ven | RicoNL
 *   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
 *   [r-markus](https://github.com/r-markus) | r-markus
 *   Rob Bell (Kizan technologies)
+*   Rob Ellis | ee61re
 *   [Rob Ireland](https://www.twitter.com/RobIreland68) (Oast House Ltd) | @RobIreland68
 *   [Robert Copelan](https://www.twitter.com/rcopelan) (ZF Friedrichshafen AG) | @Rcopelan
 *   [Robert Dyjas](https://twitter.com/robdyy) (EQTek) | @Robdy
 *   Robert Lindström | robert-lindstrom
+*   [Robin Rosengrün](https://twitter.com/power_r2) (EnBW)| @power_r2
 *   [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology) | @ScoutmanPt
 *   Rohit S Patil (C3it)
 *   [Russell Gove](https://www.twitter.com/russgove) (tronox) | @Russgove
@@ -692,6 +703,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Sourav Paul](https://twitter.com/spsouravp) | @Spsouravp
 *   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 *   [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
+*   Stephen Peters | StephenBrentPeters
 *   [Steven Reid](https://www.twitter.com/steven_reid) (FTZ) | @Steven\_reid
 *   [Sujith Pasupuleti](https://twitter.com/sujith1907) (NRF) | @Sujith1907
 *   [Sumit Jadon](https://www.twitter.com/CoolJadon) (Avanade) | @CoolJadon
@@ -702,6 +714,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 *   [Tim Balk](https://www.twitter.com/tlbalk) (Wellmark) | @Tlbalk
 *   [Tim Cadenbach](https://twitter.com/timcadenbach) (Maximago) | @TimCadenbach
+*   [Timo Pertilä](https://twitter.com/timopertila) (Forward Forever) | @timopertila
 *   Tod Beane
 *   Todd Alexander (Island Way Technology)
 *   [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | @Toddbaginski
@@ -713,6 +726,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions) | @vrdmn
 *   [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
 *   [Victor Ezeliorah](https://www.twitter.com/vezeliora) (Intels Nigeria Limited) | @Vezeliora
+*   [Vijay Sisodia](https://twitter.com/ec0321)(Accenture) | @ec0321
 *   [Vipul Kelkar](https://twitter.com/vipulkelkar) (Rapid Circle) | @Vipulkelkar
 *   [Vivek Bavishi](https://twitter.com/that_api_guy) | @That\_API\_guy
 *   [wuxiaojun514](https://github.com/wuxiaojun514) | wuxiaojun514
@@ -725,7 +739,9 @@ Thank you for your assistance and contributions on behalf of the community. You 
 
 Here's the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications. If you still want your logo for this month's release, please let us know and share the logo with us. Thx.
 
-![thumbnail image 12 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/monthly-summary-march2022-companies.png)
+
+<!-- TODO insert correct image -->
+![may companies](images/monthly-summary-march2022-companies.png)
 
 *   [Addin365](https://www.addin365.com/)
 *   [Arvo Systems](https://www.arvosys.com/)
@@ -808,6 +824,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Jasmine Hoegh](https://www.twitter.com/sbjishu) (Microsoft) | @Sbjishu
 *   Jason Johnston (Microsoft) | jasonjoh
 *   Jay Hangan (Microsoft)
+*   Joanne Hendrickson (Microsoft) | JoanneHendrickson
 *   John Nguyen (Microsoft) | johnguy0
 *   [John Sudds](https://twitter.com/jsuddsjr) (Microsoft) | @Jsuddsjr
 *   [Jos Verlinde](https://github.com/Josverl) (Microsoft) Josverl
