@@ -492,6 +492,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Alexis CONIA](https://www.twitter.com/alexis_conia) (Kickle) | @Alexis\_conia
 *   [Alienson](https://github.com/Alienson) | @Alienson
 *   [Alistair Pugin](https://www.twitter.com/alistairpugin) (Tangent Solutions) | @Alistairpugin
+*   [Akash Karda](https://twitter.com/akkikarda) | @akkikarda
 *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 *   [Andrea Mondello](https://www.twitter.com/mondello_power) (Withum Smith + Brown) | @Mondello\_power
 *   [Andrew Burns](https://www.twitter.com/SharePointRox) (AmSty) | @SharePointRox
@@ -574,6 +575,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Inez Jacobs (Amplexor)
 *   Isolde Kanikani (SoftwareONE)
 *   [Jacob Warrington](https://www.twitter.com/jjhwarrington) (Catapult Systems) | @Jjhwarrington
+*   Jake Stanger | JakeStanger
 *   [Jan Bakker](https://twitter.com/janbakker_) | @JanBacker\_
 *   [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert
 *   [Javier Hualpa](https://www.github.com/jhualpa) | jhualpa
@@ -618,6 +620,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Matt Beard](https://twitter.com/mattybeard) (Data8) | @Mattybeard
 *   [Matt Collins-Jones](https://www.twitter.com/D365Geek) | @D365Geek
 *   [Michael Blumenthal](https://www.twitter.com/MichaelBL) (M365chicago.com) | @MichaelBL
+*   [Michaël Maillot](https://twitter.com/michael_maillot) ( OnePoint) | @michael_maillot
 *   [Michael Roth](https://twitter.com/michaelroth42) ( ITP) | @MichaelRoth42
 *   [Michal Guzowski](https://twitter.com/abcguzowksi) (Developico) | @Abcguzowski
 *   [Michal Romiszewski](https://twitter.com/romiszewski) | @Romiszewski
@@ -625,6 +628,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Michel Mendes](https://twitter.com/michelcarlo) | @Michelcarlo
 *   Michelle Heisler (Hennepin County)
 *   [Miguel Angel García](https://twitter.com/miangama) | @Miangama
+*   Milan Holemans | milanholemans
 *   [Mike Duffy](https://www.twitter.com/mike_duffy) (Boardwalk Pipelines) | @Mike\_duffy
 *   [Mike Dumka](https://www.twitter.com/mikedumka) (Habanero Consulting) | @Mikedumka
 *   [Mike Zimm](https://github.com/mikezimm) | mikezimm
@@ -662,6 +666,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Rob Ireland](https://www.twitter.com/RobIreland68) (Oast House Ltd) | @RobIreland68
 *   [Robert Copelan](https://www.twitter.com/rcopelan) (ZF Friedrichshafen AG) | @Rcopelan
 *   [Robert Dyjas](https://twitter.com/robdyy) (EQTek) | @Robdy
+*   Robert Lindström | robert-lindstrom
 *   [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology) | @ScoutmanPt
 *   Rohit S Patil (C3it)
 *   [Russell Gove](https://www.twitter.com/russgove) (tronox) | @Russgove
