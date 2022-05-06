@@ -85,7 +85,7 @@ npm i -g @pnp/cli-microsoft365
 
 If you need more help getting started or want more details about the
 commands, the architecture or the project, go to
-[aka.ms/cli-m365](http://aka.ms/cli-m365).
+[aka.ms/cli-m365](https://aka.ms/cli-m365).
 
 If you see any room for improvement, please, don't hesitate to reach out
 to us either on [GitHub](https://github.com/pnp/cli-microsoft365) or

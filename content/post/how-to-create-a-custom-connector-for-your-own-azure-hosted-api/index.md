@@ -181,7 +181,7 @@ You can now test this with `localhost:8000/news/bbc` or `localhost:8000/news/
 
 Please do yourself a favor and create a `.gitignore` file with
 
-```
+``` bash
 node_modules
 ```
 

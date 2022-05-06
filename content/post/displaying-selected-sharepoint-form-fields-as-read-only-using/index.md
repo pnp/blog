@@ -136,6 +136,7 @@ Displaying selected SharePoint form fields as read-only using List Formatting
         ]
     }
 ```
+
 **Save** the form changes, and now the list form will now look like this, with the read-only values displayed in the header:
 
 ## Conclusion

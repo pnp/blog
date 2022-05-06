@@ -24,7 +24,7 @@ Listen to the show here:  [Exchange Deprecations with Greg Taylor
     Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-api-deprecations-in-exchange-web-services-for-exchange/ba-p/2813925?WT.mc_id=M365-MVP-4025164)
 -   [Basic Authentication and Exchange Online -- September 2021
     Update](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-and-exchange-online-september-2021-update/ba-p/2772210?WT.mc_id=M365-MVP-4025164)
--   [https://http://aka.ms/graphtapform](https://http://aka.ms/graphtapform?WT.mc_id=M365-MVP-4025164)
+-   [https://https://aka.ms/graphtapform](https://https://aka.ms/graphtapform?WT.mc_id=M365-MVP-4025164)
 
 ## Microsoft News 
 

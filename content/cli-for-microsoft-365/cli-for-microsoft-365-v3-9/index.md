@@ -494,7 +494,7 @@ docker run --rm -it m365pnp/cli-microsoft365:latest
 
 If you need more help getting started or want more details about the
 commands, the architecture or the project, go to
-[aka.ms/cli-m365](http://aka.ms/cli-m365).
+[aka.ms/cli-m365](https://aka.ms/cli-m365).
 
  
 
