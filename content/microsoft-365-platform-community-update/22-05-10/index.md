@@ -269,19 +269,12 @@ Have ideas for articles or want to contribute yourself? - Get involved! Here are
 
 These are the updated SharePoint Framework samples which are available from the different repositories.
 
-*   New sample [React-PPW-HTML](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-ppw-html) by [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint, that showcases the use of the Property Pane Wrap to embed HTML controls in the SPFx Property Pane
-*   New sample [react-flow-button](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-flow-button) by [Takashi Shinohara](https://twitter.com/karamem0) | @Karamem0, that demonstrates displaying the list of flow button of Power Automate
-*   New sample [react-datatable-using-mui-tables](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable-using-mui-tables) by [Jeffin Jacob](https://github.com/jeffinjacob) | jeffinjacob, that shows how to provide mui datatable features for your lists
-*   New sample [PrimaryTextCard-MyShifts](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-MyShifts) by [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh\_me, that shows how to build an ACE with a PrimaryText card view and a quick view to display current logged in user's immediate upcoming shift in card view and all upcoming shifts in Quick view
-*   New sample [PrimaryTextCard-Graph-JoinNewTeams](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-Graph-JoinNewTeams) by [Aimery Thomas](https://www.twitter.com/aimery_thomas) | @aimery\_thomas, that shows how to build an ACE that displays recently created Teams
-*   New sample [BasicCard-MonitorSecurity](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-MonitorSecurity) by [Arjijit Mondal](https://github.com/ArijitCloud) (Microsoft) | ArijitCloud, that provides a security monitoring feature using identity protection graph endpoint and ACE h
-*   New sample [ImageCard-OfficeLocations](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-OfficeLocations) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells, that shows how to build an ACE with multiple card views to show the details of the offices in an organization.
-*   New sample [PrimaryTextCard-FootballStats](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-FootballStats) by [Soumit Mukherjee](https://twitter.com/msoumit) | @Msoumit, [Soumyadeep Mukherjee](https://github.com/soumyadeep2207) | soumyadeep2207, and [Sourav Paul](https://twitter.com/spsouravp) | @Spsouravp, that allows users to choose one of the top five European Football League to get information about current team standing
-*   New sample [ace-designtemplate-gallery](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-designtemplate-gallery) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp, that provides a set of twelve (12) Adaptive Card Extensions to demonstrate different ways to style the quick view with more detailed layouts
-*   New sample [ace-wellbeing](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-wellbeing) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells, that showcases how users can request wellbeing days
-*   New sample [ace-dynamic-card](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-dynamic-card) by [Patrick Rodgers](https://twitter.com/mediocrebowler) | @Mediocrebowler, that includes three ACE's showing simple ways to include dynamic content and liven up the appearance of your ACE's.
-*   Updated sample [react-datatable](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-datatable) by [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
-*   Updated sample [react-functional-component-with-data-fetch](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-functional-component-with-data-fetch) by [Don Kirkham](https://twitter.com/DonKirkham) (DMI) | @DonKirkham
+* Updated sample [react-birthdays](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-birthdays) by Milan Holemans | milanholemans
+* Updated sample [js-propertycontrols-svg](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/js-propertycontrols-svg) by [Nader Hadjebi](https://twitter.com/nader2015) | @nader2015
+* Updated sample [react-tour-pnpjs](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-tour-pnpjs) by [Mike Homol](https://twitter.com/homol) | @homol
+* Updated sample [vuejs-todo-single-file-component](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/vuejs-todo-single-file-component) by LOLCATATONIA
+* Updated sample [react-display-hierarchy](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-display-hierarchy) by [Nick Brown](https://twitter.com/techienickb)  (JISC) | @techieni
+
 
 How to find what's relevant for you? Take advantage of our SharePoint Framework web part and extension sample galleries - also includes solutions which work in Microsoft Teams
 
@@ -644,11 +637,14 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Milan Holemans | milanholemans
 *   [Mike Duffy](https://www.twitter.com/mike_duffy) (Boardwalk Pipelines) | @Mike\_duffy
 *   [Mike Dumka](https://www.twitter.com/mikedumka) (Habanero Consulting) | @Mikedumka
+*   [Mike Homol](https://twitter.com/homol) | @homol
 *   [Mike Zimm](https://github.com/mikezimm) | mikezimm
 *   [Mohammad Amer](https://twitter.com/Mohammad3mer) (Atea Global Services) | @Mohammad3mer
+*   [Nader Hadjebi](https://twitter.com/nader2015) | @nader2015
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
 *   [Nathan Zipf](https://github.com/NathZ1) | NathZ1
 *   [Naveen Karla](https://www.twitter.com/naveen67) | @naveen67
+* 
 *   Nicole Fleming (Sherwin Williams)
 *   [Nikki Chapple](https://www.twitter.com/chapplenikki) (Cloudway) | @Chapplenikki
 *   [Nizar Grindi](https://www.twitter.com/nizar_grindi) (Avanade) | @nizar\_grindi
