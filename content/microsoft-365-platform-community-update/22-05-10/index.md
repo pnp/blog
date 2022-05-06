@@ -73,8 +73,8 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Podcast is back!
 
-*   14th of March - [M365 Dev Podcast - Microsoft Teams development "plus" with Tom Morgan](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/m365-dev-podcast-microsoft-teams-development-quot-plus-quot-with/ba-p/3256350)
-*   7th of March - [M365 Dev Podcast - Universal Actions and Adaptive Card Updates with Fabian Williams](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/m365-dev-podcast-universal-actions-and-adaptive-card-updates/ba-p/3249841)
+* 26th of April - [M365 Dev Podcast - Bookings API with Altamish Ahmad](https://pnp.github.io/blog/m365-dev-podcast/22-04-26-Altamish-Ahmad)
+* 20th of April - [M365 Dev Podcast - Extensibility discussion with Ed Averett](https://pnp.github.io/blog/m365-dev-podcast/22-04-20-Ed-Averett)
 
 ### Microsoft 365 PnP Weekly Podcasts and vlogs
 
