@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 Community (PnP) -- May 2022 update
-date: 2022-05-10T04:00:00.000Z
+date: 2022-05-15T04:00:00.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
