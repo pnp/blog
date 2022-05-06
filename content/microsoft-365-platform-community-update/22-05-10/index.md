@@ -173,7 +173,7 @@ Please see the specifics on the supportability on the tool, SDK or component rep
 
 ## Microsoft 365 Platform Community team model
 
-![thumbnail image 2 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/teammodel.png)
+![Teammodel ](images/teammodel.png)
 
 In April 2020 we announced our new [Microsoft 365 PnP team model](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and grew the MVP team quite significantly. PnP model exists for having more efficient engagement between Microsoft engineering and community members. Let's build things together. Your contributions and feedback is always welcome! During August, we also crew the team with 5 new members. PnP Team coordinates and leads the different open-source and community efforts we execute in the Microsoft 365 platform.
 
@@ -257,7 +257,7 @@ This time no new articles.
 
 #### Updated articles
 
-*   [Advanced Highlighted Content Web Part](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Community/highlighted-content-web-part.md) - updated by [Chanaka Palliyaguru](https://twitter.com/chanakavp) (Fortude) | @Chanakavp
+<!-- TODO check with Marc -->
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model more detailed.
 
@@ -319,20 +319,7 @@ We welcome all scripts on Microsoft 365 automation to this centralized repositor
 
 Here are the latest updates on the Script Samples:
 
-*   Updated [Remove orphaned redirect sites](https://pnp.github.io/script-samples/spo-remove-orphaned-redirect-sites/README.html) by [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
-*   Updated [Get Site Usage Reports And Export It To CSV](https://pnp.github.io/script-samples/spo-export-site-usage-reports/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo) | @Reshmeeauckloo
-*   New [Analyze users for known data breaches with have I been pwned](https://pnp.github.io/script-samples/aad-analyze-users-hibp/README.html) by [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
-*   Updated [Modernizing classic pages from on-premises sites](https://pnp.github.io/script-samples/modernize-classic-pages-from-publishing-sites/README.html) by [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd) | @Pkbullock
-*   New [Delete orphaned temporary site pages](https://pnp.github.io/script-samples/spo-delete-orphaned-temporary-sitepages/README.html) by [Brian McCullough](https://twitter.com/bpmccullough) (Marsh & McLennan Companies) | @Bpmccullough
-*   Updated [List all external users in all site collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
-*   Updated [Add App Catalog to SharePoint site](https://pnp.github.io/script-samples/spo-add-app-catalog/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
-*   New [List all teams and teams members in Microsoft Teams in the tenant](https://pnp.github.io/script-samples/teams-export-teams-information/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
-*   Updated [Hide SharePoint list from Site Contents](https://pnp.github.io/script-samples/spo-hide-list-from-site-contents/README.html) by [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
-*   Updated [Teams Full Report](https://pnp.github.io/script-samples/teams-full-report/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo) | @Reshmeeauckloo
-*   New [Sample on exporting Document libraries inc folders and versions for selected Site Collections to a F...](https://pnp.github.io/script-samples/spo-export-files-and-versions/README.html) by [Kasper Bo Larsen](https://twitter.com/sperbolarsen) (Fellowmind) | @Kasperbolarsen
-*   Updated [Export a csv report on all Microsoft Stream videos](https://pnp.github.io/script-samples/stream-report-videos/README.html) by [Twan van Beers](https://twitter.com/NeroBlancoIT) (Nero Blanco) | @neroBlancoIT
-*   New [Get permission group report of a site](https://pnp.github.io/script-samples/spo-group-permission-report/README.html) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
-*   New [Export a csv report on all Whiteboards](https://pnp.github.io/script-samples/whiteboard-report-usage/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan and [Smita Nachan](https://twitter.com/SmitaNachan) | @SmitaNachan
+<!-- TODO Paul, your samples go here -->
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative.
 
@@ -513,6 +500,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 *   [Antti Pajunen](https://www.twitter.com/anttipajunen) (Forward Forever) | @Anttipajunen
 *   [Aric Bost](https://www.twitter.com/1CyberState) (North Carolina Housing Finance Agency) | @1CyberState
+*   [Arjan Cornelissen](https://twitter.com/arjancornelis) | @arjancornelis
 *   [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
 *   [Arleta Wanat](https://github.com/PowershellScripts) | PowershellScripts
 *   Art Pagano (University of Texas San Antonio)
@@ -715,6 +703,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Sourav Paul](https://twitter.com/spsouravp) | @Spsouravp
 *   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 *   [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
+*   Stephen Peters | StephenBrentPeters
 *   [Steven Reid](https://www.twitter.com/steven_reid) (FTZ) | @Steven\_reid
 *   [Sujith Pasupuleti](https://twitter.com/sujith1907) (NRF) | @Sujith1907
 *   [Sumit Jadon](https://www.twitter.com/CoolJadon) (Avanade) | @CoolJadon
@@ -737,6 +726,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions) | @vrdmn
 *   [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
 *   [Victor Ezeliorah](https://www.twitter.com/vezeliora) (Intels Nigeria Limited) | @Vezeliora
+*   [Vijay Sisodia](https://twitter.com/ec0321)(Accenture) | @ec0321
 *   [Vipul Kelkar](https://twitter.com/vipulkelkar) (Rapid Circle) | @Vipulkelkar
 *   [Vivek Bavishi](https://twitter.com/that_api_guy) | @That\_API\_guy
 *   [wuxiaojun514](https://github.com/wuxiaojun514) | wuxiaojun514
@@ -749,7 +739,9 @@ Thank you for your assistance and contributions on behalf of the community. You 
 
 Here's the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications. If you still want your logo for this month's release, please let us know and share the logo with us. Thx.
 
-![thumbnail image 12 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/monthly-summary-march2022-companies.png)
+
+<!-- TODO insert correct image -->
+![may companies](images/monthly-summary-march2022-companies.png)
 
 *   [Addin365](https://www.addin365.com/)
 *   [Arvo Systems](https://www.arvosys.com/)
@@ -832,6 +824,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Jasmine Hoegh](https://www.twitter.com/sbjishu) (Microsoft) | @Sbjishu
 *   Jason Johnston (Microsoft) | jasonjoh
 *   Jay Hangan (Microsoft)
+*   Joanne Hendrickson (Microsoft) | JoanneHendrickson
 *   John Nguyen (Microsoft) | johnguy0
 *   [John Sudds](https://twitter.com/jsuddsjr) (Microsoft) | @Jsuddsjr
 *   [Jos Verlinde](https://github.com/Josverl) (Microsoft) Josverl
