@@ -1,6 +1,6 @@
 ---
 title: "Viva Connections & SharePoint Framework Community Call – 5th of May, 2022"
-date: 2022-05-06T04:00:00-05:00
+date: 2022-05-06T02:00:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
