@@ -26,7 +26,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Documentation - Step-by-step guide updates – [Microsoft Teams Developer
     Documentation](https://docs.microsoft.com/microsoftteams/platform/mstdd-landing)
 * Microsoft 365 PnP Weekly – Episode 164 (May 2nd) with Belgium based
-    Consultant, Office Developer MVP [Elio
+    Consultant, Office Development MVP [Elio
     Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf
     \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-164/)
     \| [podcast](https://www.podbean.com/media/share/pb-euwht-1217b1b)
