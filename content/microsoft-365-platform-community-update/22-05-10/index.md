@@ -246,7 +246,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented in our 
 
 ### Microsoft 365 Community Docs
 
-![thumbnail image 5 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/communitydocs.png)
+![Community Docs ](images/communitydocs.png)
 
 Community Docs model was announced in the April 2020 and it's great to see the interest for community to help each other by providing new guidance on the non-dev areas. See more on the announcement from the SharePoint blog - [Announcing the Microsoft 365 Community Docs](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/announcing-the-microsoft-365-community-docs/ba-p/1288203). We do welcome contributions from the community - our objective is to build a valuable location for articles from Microsoft and community together.
 
@@ -265,7 +265,7 @@ Have ideas for articles or want to contribute yourself? - Get involved! Here are
 
 ### SharePoint Framework development samples
 
-![thumbnail image 6 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/SPFX-dev-samples.png)
+![SPFx samples ](images/SPFX-dev-samples.png)
 
 These are the updated SharePoint Framework samples which are available from the different repositories.
 
@@ -292,18 +292,15 @@ How to find what's relevant for you? Take advantage of our SharePoint Framework 
 
 ### Microsoft Teams community samples
 
-![thumbnail image 7 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/Teams-samples.jpeg)
+![Teams samples ](images/Teams-samples.jpeg)
 
 These are samples which have been contributed on the community samples since last summary. We do welcome all Microsoft Teams samples to this gallery. They can be implemented using in any technology.
-
-*   New sample [tab-react-router](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-react-router) by [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh\_me, that shows how to use React Router with Teams App project generated using Yo teams
-*   Numerous adjustments on existing samples and solutions
 
 If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://pnp.github.io/teams-dev-samples/). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
 
 ### Power Platform samples
 
-![thumbnail image 8 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/powerplatform-samples.png)
+![Power Platform samples](images/powerplatform-samples.png)
 
 *   New Power Apps sample [dataverse-admin](https://github.com/pnp/powerapps-samples/tree/main/samples/dataverse-admin) by [Vivek Bavishi](https://twitter.com/that_api_guy) | @That\_API\_guy
 *   New Power Apps sample [sharepoint-events](https://github.com/pnp/powerapps-samples/tree/main/samples/sharepoint-events) by [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @Sharepointalex
@@ -319,7 +316,7 @@ If you have any existing samples which you'd be willing to share with others - p
 
 ### Microsoft 365 Script Samples
 
-![thumbnail image 9 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/script-samples.png)
+![Script samples ](images/script-samples.png)
 
 We welcome all scripts on Microsoft 365 automation to this centralized repository, targeted to help to manage and automate day-to-day operations.
 
@@ -346,7 +343,7 @@ Microsoft 365 Script Samples - [https://aka.ms/script-samples](https://aka.ms/sc
 
 ### Independent Connectors Program
 
-![thumbnail image 10 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/independent-publishers.png)
+![Independent publishers](images/independent-publishers.png)
 
 Microsoft Power Platform comes with a huge variety of already built-in connectors and also provides you with the ability of creating your own custom connectors. As of July 2021, anyone can submit the connectors they built to Microsoft Power Platform so that they can be used by others as well. Previously, only API owners could publish their connectors. The Independent Publisher Connector Program's mission is to bring the best together: the best people, connecting great ideas to data, apps, and flows. We want to make it easier for connector developers to collaborate on connectors.
 
@@ -515,7 +512,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Bob Morris (ThreeWill)
 *   [Carianne Wong](https://www.twitter.com/cw_marie) (Majesco) | @CW\_marie
 *   [Carike Blignaut-Staden](https://www.twitter.com/CarikeBStaden) | @CarikeBStaden
-*   [Carmen Ysewijn](https://twitter.com/CarmenYsewijn) (Qubix) | @Carmenysewijn
+*   [Carl Joakim Damsleth](https://twitter.com/kimzter) | @kimzter
 *   [Catherine Thenault](https://www.twitter.com/o365techcat) (AIPSO) | @O365techcat
 *   [Chanaka Palliyaguru](https://twitter.com/chanakavp) (Fortude) | @Chanakavp
 *   [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
@@ -542,6 +539,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Dean Gross](https://www.twitter.com/dean144) (Insight) | @Dean144
 *   [Dennis Goedegebuure](https://twitter.com/expiscornovus) (Ultima Business Solutions) | Expiscornovus
 *   [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
+*   Dennis van Niel | dennisvanniel
 *   [Dipen Shah](https://www.twitter.com/Dips_365) (Rapid Circle) | @Dips\_365
 *   [Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
 *   [Dr Adrian Colquhoun](https://www.github.com/iddycol) (Strategik) | iddycol
@@ -576,6 +574,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Isolde Kanikani (SoftwareONE)
 *   [Jacob Warrington](https://www.twitter.com/jjhwarrington) (Catapult Systems) | @Jjhwarrington
 *   Jake Stanger | JakeStanger
+*   James May | fowl2
 *   [Jan Bakker](https://twitter.com/janbakker_) | @JanBacker\_
 *   [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert
 *   [Javier Hualpa](https://www.github.com/jhualpa) | jhualpa
@@ -828,6 +827,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Mansa MusaLe](https://twitter.com/m4musale) (Microsoft) | @M4musale
 *   Mathangi Chakrapani (Microsoft)
 *   [Matthijs Hoekstra](https://twitter.com/mahoekst) (Microsoft) | @Mahoekst
+*   Mathijs Verbeeck | MathijsVerbeeck
 *   Max Kulakov (Microsoft)
 *   Michael Aldridge (Microsoft)
 *   [Mikael Svenson](https://twitter.com/mikaelsvenson)(Microsoft) | @Mikaelsvenson
