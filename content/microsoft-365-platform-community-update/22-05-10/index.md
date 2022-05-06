@@ -53,27 +53,19 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 * 1st of May - [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert - [Style your command bar with formatting magic](https://pnp.github.io/blog/post/style-command-bar-with-formatting-magic/)
 * 29th of April - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - [CLI for Microsoft 365 v5.2](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-2/)
 * 27th of April - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese  - [How to rename files in SharePoint with Power Automate](https://pnp.github.io/blog/post/how-to-rename-files-in-sharepoint-with-power-automate/)
-* 25th of Aoril - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [New Microsoft 365 platform community blog](https://pnp.github.io/blog/post/new-community-blog-platform/)
+* 25th of April - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [New Microsoft 365 platform community blog](https://pnp.github.io/blog/post/new-community-blog-platform/)
 * 19th of April - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth - [PnP PowerShell v1.10](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v1-10/)
 
 
 ### Community call recording blog posts
 
-
-*   10th of March - [Viva Connections & SharePoint Framework Community Call – 10th of March, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-10th-of/ba-p/3253901)
-*   8th of March - [Microsoft 365 Platform Call – 8th of March, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-8th-of-march-2022/ba-p/3250519)
-*   4th of March - [Microsoft 365 Developer Community Call recording – 3rd of March, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-3rd-of-march/ba-p/3246245)
-*   2nd of March - [Microsoft 365 Platform Call – 1st of March, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-1st-of-march-2022/ba-p/3235822)
-*   25th of February - [Viva Connections & SharePoint Framework Community Call – 24th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-24th-of/ba-p/3168855)
-*   22nd of February - [Microsoft 365 Platform Call – 22nd of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-22nd-of-february-2022/ba-p/3155637)
-*   22nd of February - [Power Apps Community Call – February 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/power-apps-community-call-february-2022/ba-p/3066095)
-*   18th of February - [Microsoft Identity Platform community call – February 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-identity-platform-community-call-february-2022/ba-p/3185880)
-*   18th of February - [Microsoft 365 Developer Community Call recording – 17th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-17th-of/ba-p/3179507)
-*   17th of February - [Adaptive Cards community call – February 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/adaptive-cards-community-call-february-2022/ba-p/3152216)
-*   16th of February - [Microsoft 365 Platform Call – 15th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-15th-of-february-2022/ba-p/3155634)
-*   15th of February - [Office Add-ins community call – February 9, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-ins-community-call-february-9-2022/ba-p/3164559)
-*   11th of February - [Viva Connections & SharePoint Framework Community Call – 10th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-10th-of/ba-p/3150124)
-*   8th of February - [Microsoft 365 Platform Call – 8th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-8th-of-february-2022/ba-p/3138121)
+* 6th of May - [Viva Connections & SharePoint Framework Community Call – 5th of May, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-05-05/)
+* 4th of May - [Microsoft 365 Platform Community Call - 3rd of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-03/)
+* 28th of April - [Microsoft 365 & Power Platform Development Community call - 28th of April, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-04-28/)
+* 27th of April - [Microsoft 365 Platform Community Call - 26th of April, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-04-26/)
+* 21st of April - [Viva Connections & SharePoint Framework Community Call – 21st of March, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-04-21/)
+* 20th of April - [Power Platform Community Call – April 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-april-2022/)
+* 19th of April - [Microsoft 365 Platform Community Call - 19th of April, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-04-19/)
 
 ## Microsoft 365 Developer Podcasts
 
