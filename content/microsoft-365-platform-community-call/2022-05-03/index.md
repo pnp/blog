@@ -26,7 +26,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Documentation - Step-by-step guide updates – [Microsoft Teams Developer
     Documentation](https://docs.microsoft.com/microsoftteams/platform/mstdd-landing)
 * Microsoft 365 PnP Weekly – Episode 164 (May 2nd) with Belgium based
-    Consultant, Office Developer MVP [Elio
+    Consultant, Office Development MVP [Elio
     Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf
     \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-164/)
     \| [podcast](https://www.podbean.com/media/share/pb-euwht-1217b1b)
@@ -83,7 +83,7 @@ Thank you for your creativity and work execution. Samples are often showcased in
 
 ## Together Mode 
    
-![220503-together-mode.gif](220503-together-mode.gif)
+![220503-together-mode.gif](images/220503-together-mode.gif)
 
 It’s great seeing everybody in the room today.  Thank you for joining this weekly community call and for being part of this community.  
 
