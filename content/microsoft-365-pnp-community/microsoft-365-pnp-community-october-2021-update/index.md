@@ -414,8 +414,8 @@ developer blog](http://aka.ms/spdev-blog) when the videos are published.
     side
 -   Office Add-ins  <https://aka.ms/officeaddinscommunitycall> - News
     and community work around Office add-ins with live demos
--   PowerApps   <https://aka.ms/PowerAppsMonthlyCall> - Monthly summary
-    on PowerApps community with live demos
+-   Power Apps   <https://aka.ms/PowerAppsMonthlyCall> - Monthly summary
+    on Power Apps community with live demos
 -   M365 Community Call  <https://aka.ms/spdev-sig-call>  - Bi-weekly -
     General topics on Microsoft 365 Dev from various aspects - Microsoft
     Teams, Microsoft Graph Toolkit, Provisioning, Automation, Scripting,
