@@ -318,8 +318,13 @@ If you have any existing samples which you'd be willing to share with others - p
 We welcome all scripts on Microsoft 365 automation to this centralized repository, targeted to help to manage and automate day-to-day operations.
 
 Here are the latest updates on the Script Samples:
-
-<!-- TODO Paul, your samples go here -->
+- Updated [Export a csv report on all Whiteboards](https://pnp.github.io/script-samples/whiteboard-report-usage/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
+- New [Export OneDrive Admins](https://pnp.github.io/script-samples/onedrive-export-admins/README.html) by Matt Maher
+- Updated [List guests within Teams in a tenant](https://pnp.github.io/script-samples/teams-list-guestusers/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
+- New [Get Hub Sites Details And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+- Updated [Get Hub Sites Information And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
+- Updated [Get Hub Sites Information And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+- Updated [Update User Profile Properties](https://pnp.github.io/script-samples/spo-update-user-profile-properties/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative.
 
