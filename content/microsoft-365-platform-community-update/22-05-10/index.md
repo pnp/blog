@@ -430,7 +430,15 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [Docker Loves SharePoint Framework (SPFx)](https://www.youtube.com/watch?v=7wTWj7sbswg) by Aleksandr Sapozhkov | shurick81
 * [Making SharePoint Syntex testing easy – new templates in look book service](https://www.youtube.com/watch?v=MEqd1pfV9aw) by [Sean Squires](https://twitter.com/iamseansquires) (Microsoft) | @iamseansquires
 * [Getting started on using Power Automate in Microsoft Lists](https://www.youtube.com/watch?v=jJVAh77cYmQ) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
-* 
+* [Microsoft Teams Meeting app sample with link unfurling](https://www.youtube.com/watch?v=zkd5_zMXokM) by Anuj Gupta (Microsoft) 
+* [Building Microsoft Graph Toolkit apps with Microsoft Teams](https://www.youtube.com/watch?v=AAKxbKDptwo) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
+* [Upgrade Web Parts using CLI for Microsoft 365](https://www.youtube.com/watch?v=NGYGJG4VNHs&t=27s) by [Hugo Bernier](https://twitter.com/bernierh) | @Bernierh
+* [Latest on Microsoft Graph connectors SDK](https://www.youtube.com/watch?v=rRLRXWjY11k) by Rajdeep Chandra
+* [Preview on upcoming list extensibility options with SPFx v1.15](https://www.youtube.com/watch?v=90DWB9hjo-k) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
+* [Getting started with using CLI for Microsoft 365](https://www.youtube.com/watch?v=xycWw4A_RyQ&t=2s) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
+* [Updates on Independent Publisher Connectors & Infura Ethereum Connector Demo](https://www.youtube.com/watch?v=V2PMQrpbX1E) by [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1 and [Sebastian Zolg](https://twitter.com/sebastianzolg) (Swisscom) | @sebastianzolg
+* [Installing PnP PowerShell](https://www.youtube.com/watch?v=bDAeJgwkHH4) by [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
+
 
 
 ## Key contributors to the May 2022 update
@@ -607,7 +615,6 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
 *   [Nathan Zipf](https://github.com/NathZ1) | NathZ1
 *   [Naveen Karla](https://www.twitter.com/naveen67) | @naveen67
-* 
 *   Nicole Fleming (Sherwin Williams)
 *   [Nikki Chapple](https://www.twitter.com/chapplenikki) (Cloudway) | @Chapplenikki
 *   [Nizar Grindi](https://www.twitter.com/nizar_grindi) (Avanade) | @nizar\_grindi
@@ -651,6 +658,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Sachchin Annam](https://www.twitter.com/Sachchinn) (Freelancer) | @Sachchinn
 *   [Sam Bridegroom](https://www.twitter.com/sambridegroom) (Allied Solutions) | @Sambridegroom
 *   Sami Nieminen | stniemin
+*   [Sebastian Zolg](https://twitter.com/sebastianzolg) (Swisscom) | @sebastianzolg
 *   [Sekar Thangavel](https://github.com/SekarThangavel) (IBM) | SekarThangavel
 *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 *   [Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
@@ -753,6 +761,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Allen Snow](https://twitter.com/asnow003) (Microsoft) | @Asnow003
 *   Altamish Ahmad (Microsoft)
 *   Andrey Esipov (Microsoft)
+*   Anuj Gupta (Microsoft) 
 *   [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
 *   [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 *   Arvind Ravi (Microsoft)
