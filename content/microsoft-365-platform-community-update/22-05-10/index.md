@@ -398,51 +398,8 @@ You can find all Microsoft 365 related videos on our YouTube Channel at [https:/
 
 Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 
-*   [Course Overview | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=dt-uuYPO1nk) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 1: Learning Objectives and Scenario | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=kakhiZRVJk4) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 1: What is Microsoft Graph? | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=fAI3wUaPDxk) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 1: Understand Microsoft Graph Services | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=vpuHPXYcs3o) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 1: Access User Info by using Graph Explorer | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=s69EeXRXTSo) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 1: Exercise - Get Started with Graph Explorer | Microsoft Graph Fundamentals for Beginners by](https://www.youtube.com/watch?v=3Y44jLc4RQQ&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=6) [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 1: Exercise - Test Queries with Your Own Account | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=wTfTOSzcYes) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 1: Exercise - Try a POST Request | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=DrextLK9o50&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=8) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 1: Exercise - Consume Microsoft Graph in Your Apps with the Help of Graph Explorer](https://www.youtube.com/watch?v=tFz-40bI1PA) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 1: Summary | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=MgyncFSKGJ4&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=10) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Configure a JavaScript App | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=DmSk2gBeJT0&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=11) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Understand the role of Azure Active Directory | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=Rv64w_nNN4I) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Microsoft Graph Permissions or Scopes | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=OKohNkzCUI8) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Microsoft Graph Permissions and Consent | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=PITreL9SQ6Y) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Permission Types | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=QanUrfURZ0o) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Access Tokens | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=wI0Tl5yDDmE&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=16) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Register an App with Azure Active Directory | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=PbWpVTPEJpg) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Exercise - Register an App with Azure AD | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=au1dBzirmvQ&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=18) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Retrieve an Access Token by Using MSAL | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=mO1lteh5nSk) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Authentication Flow | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=D2YqsB7cams&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=20) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Exercise - Retrieve Access Token Using MSAL | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=8wTyenSpuIc&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=21) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 2: Summary | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=kPNPoj4uSNk) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 3: Access user photo information | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=tv4znKNf72s) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 3: Use Microsoft Graph in your web app | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=-yBZK6ImmVU&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=24) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 3: Exercise - Use Microsoft Graph in your web | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=kbQvbPColJI) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Module 3: Summary | Microsoft Graph Fundamentals for Beginners](https://www.youtube.com/watch?v=PLLSZTkROZE&list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt&index=26) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [DEMO - Create the pre meeting user experience](https://www.youtube.com/watch?v=aZ4YFtf6yro) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [DEMO - Implement a post meeting experience for attendees](https://www.youtube.com/watch?v=D41cXE2BPoM) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [DEMO - Build and test the application](https://www.youtube.com/watch?v=8BX6HRgT_bY) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [Create interactive meeting apps for Microsoft Teams](https://www.youtube.com/watch?v=jDfGpTSZ9zA) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [DEMO - In meeting experience & participant roles](https://www.youtube.com/watch?v=6P5wvumfvA4) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [DEMO - Creating meeting apps for Microsoft Teams](https://www.youtube.com/watch?v=ViRUNUKJxuc) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [Get meeting details in your meeting app](https://www.youtube.com/watch?v=AqYWaqPUvXk) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [DEMO - Implement in meeting experience with a side panel](https://www.youtube.com/watch?v=BSoXnLFDBpk) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [In meeting experience & participant roles](https://www.youtube.com/watch?v=KYlczD-6eLU) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [DEMO - Implement the app's pre meeting user experience](https://www.youtube.com/watch?v=tzaBCph8kvk) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [02 03 Demo Create an API endpoint](https://www.youtube.com/watch?v=nhQhj5dmImU) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [DEMO - Create Microsoft Teams app](https://www.youtube.com/watch?v=wZtuAjo-hYQ) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [Implement a post meeting experience for attendees](https://www.youtube.com/watch?v=QDiyt4dzLPg) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-*   [Finding Permissions with Microsoft Graph PowerShell SDK](https://www.youtube.com/watch?v=3xuo81t3JCg) by [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
-*   [Dynamic Filters in Microsoft Graph Data Connect](https://www.youtube.com/watch?v=y6Uhpy_RD1M) by [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
-*   [Integrating real-time Microsoft Graph notifications](https://www.youtube.com/watch?v=I4U99iVosuk) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Setting up resources for real-time Microsoft Graph notifications](https://www.youtube.com/watch?v=8a2fZ_wCgAk) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
-*   [Using the Fluid Framework](https://www.youtube.com/watch?v=kNmK9n4_jUM) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Introduction to collaborative app technologies](https://www.youtube.com/watch?v=Lbigni_5yic) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+*  [Publish your app in the Microsoft Teams App Store](https://www.youtube.com/watch?v=IQf2Zs9Mob8) by Natalia Kats (Microsoft)
+*  [Dynamic User Scope in Microsoft Graph Data Connect](https://www.youtube.com/watch?v=TMRrDUsqcYo&t=34s) by Nik Charlebois (Microsoft) | @NikCharlebois
 
 ### Community demo videos
 
@@ -852,6 +809,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Mike Hollinshead](https://twitter.com/mahollinshead) (Microsoft) | @Mahollinshea
 *   [Musale Martin](https://twitter.com/m4musale) (Microsoft) | m4musale
 *   [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) | @nancyatMSFT
+*   Natalia Kats (Microsoft)
 *   [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1
 *   [Nathan Zipf](https://github.com/NathZ1) (Microsoft) | NathZ1
 *   Nick Adman (Microsoft)
