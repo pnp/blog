@@ -30,7 +30,7 @@ The initiative is facilitated by Microsoft, but we have multiple community membe
 ### Main resources around Microsoft 365 Community
 
 *   Microsoft 365 Platform Community - [https://aka.ms/m365pnp](https://aka.ms/m365pnp) - One location for all the resources and news around Microsoft 365 platform
-*   Microsoft 365 community blog - [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
+*   Microsoft 365 community blog - [https://aka.ms/m365pnp/blog](https://aka.ms/m365pnp/blog)
 *   Microsoft 365 development blog - [https://aka.ms/m365pnp-blog](https://aka.ms/m365pnp-blog)
 *   Microsoft 365 Community Channel on YouTube - [https://aka.ms/m365pnp-videos](https://aka.ms/m365pnp-videos)
 *   Microsoft 365 Developer YouTube channel - [https://aka.ms/M365DevYouTube](https://aka.ms/M365DevYouTube)
@@ -155,9 +155,7 @@ Other related resources from GitHub
 *   [Office add-in Patterns and Practices](https://github.com/OfficeDev/Office-Add-in-samples) in GitHub - Community contributions welcome!
 *   [Microsoft Graph](https://github.com/microsoftgraph) GitHub organization
 *   [OfficeDev](https://github.com/officedev) GitHub organization - Includes all Microsoft Teams samples from Microsoft
-
 ## What's supportability story around the community tooling and assets?
-
 
 Following statements apply across all of the community lead and contributed samples and solutions, including samples, core component(s) and solutions, like SharePoint Starter Kit, yo teams or PnP PowerShell. All Microsoft released SDKs and tools are supported based on the specific tool policies.
 
@@ -296,16 +294,13 @@ If you are interested on Microsoft Teams samples, we have just released also new
 
 ![Power Platform samples](images/powerplatform-samples.png)
 
-
 * New Power Apps sample [US-Map-with-SVG-Images](https://github.com/pnp/powerapps-samples/tree/main/samples/US-Map-with-SVG-Images) by Krishna Rachakonda (Catapult) | rsk2013
 * New Power Apps sample [power-wordle-game](https://github.com/pnp/powerapps-samples/tree/main/samples/power-wordle-game) by [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
 * New Power Apps sample [Office 365 Network (Skills Matrix)](https://github.com/pnp/powerapps-samples/tree/main/samples/skills-matrix) by Jennifer McGee | RainWatcher
 * New Power Automate sample [Pattern: new-employee-tip-of-the-day](https://github.com/pnp/powerautomate-samples/tree/main/samples/new-employee-tip-of-the-day) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
 * Updated Power Automate sample [notify-on-last-working-day](https://github.com/pnp/powerautomate-samples/tree/main/samples/notify-on-last-working-day) by [Michal Ziemba](https://twitter.com/Michal_Ziemba) | @Michal_Ziemba
-* 
 
-
-There was also numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location
+There were also numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location
 
 Power Platform sample gallery - [https://aka.ms/powerplatform-samples](https://pnp.github.io/powerplatform-samples/)
 
@@ -318,13 +313,14 @@ If you have any existing samples which you'd be willing to share with others - p
 We welcome all scripts on Microsoft 365 automation to this centralized repository, targeted to help to manage and automate day-to-day operations.
 
 Here are the latest updates on the Script Samples:
-- Updated [Export a csv report on all Whiteboards](https://pnp.github.io/script-samples/whiteboard-report-usage/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
-- New [Export OneDrive Admins](https://pnp.github.io/script-samples/onedrive-export-admins/README.html) by Matt Maher
-- Updated [List guests within Teams in a tenant](https://pnp.github.io/script-samples/teams-list-guestusers/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
-- New [Get Hub Sites Details And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
-- Updated [Get Hub Sites Information And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
-- Updated [Get Hub Sites Information And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
-- Updated [Update User Profile Properties](https://pnp.github.io/script-samples/spo-update-user-profile-properties/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
+
+* Updated [Export a csv report on all Whiteboards](https://pnp.github.io/script-samples/whiteboard-report-usage/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
+* New [Export OneDrive Admins](https://pnp.github.io/script-samples/onedrive-export-admins/README.html) by Matt Maher
+* Updated [List guests within Teams in a tenant](https://pnp.github.io/script-samples/teams-list-guestusers/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
+* New [Get Hub Sites Details And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+* Updated [Get Hub Sites Information And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
+* Updated [Get Hub Sites Information And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+* Updated [Update User Profile Properties](https://pnp.github.io/script-samples/spo-update-user-profile-properties/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative.
 
@@ -961,6 +957,6 @@ Here are the Microsoft Internal Platform Community team members:
 
 See all of the available community calls, tools, components and other assets from [https://aka.ms/m365pnp](https://aka.ms/m365pnp). Get involved!
 
-Got ideas or feedback on the topics to cover, additional partnerships, product feature capabilities? - let us know. Your input is important for us, so that we can support your journey in Microsoft 365.
+Got ideas or feedback on the topics to cover, additional partnerships, product feature capabilities? - let us know. Your input is important for us, so that we can support your journey in Microsoft 365. You can comment below this post 👇.
 
 _Sharing Is Caring!_
