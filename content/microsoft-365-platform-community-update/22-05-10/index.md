@@ -403,29 +403,35 @@ Here are the new Microsoft demo or guidance videos released since the last month
 
 ### Community demo videos
 
-*   [Creating engaging and dynamic Viva Connections mobile experiences](https://www.youtube.com/watch?v=e3CUtjIwW80) by [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
-*   [Introduction to Microsoft Intune APIs on Microsoft Graph](https://www.youtube.com/watch?v=gN0-zZBGUK0) by [Dave Randall](https://github.com/triplanedave) (Microsoft) | triplanedave
-*   [Updates on Independent Publisher Connectors & Cloverly / Ecologi Connector Demo](https://www.youtube.com/watch?v=vM2D_QgATTc) by [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1 and [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-*   [Make a simple bot using Webhooks in Microsoft Teams](https://www.youtube.com/watch?v=bV55MLQrDs4) by [Lee Ford](https://twitter.com/lee_ford) ( Symity) | @Lee\_Ford
-*   [Using the MGT Agenda and Tasks Components in your solutions](https://www.youtube.com/watch?v=Lu5wIZQtbTw) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
-*   [Access a user's calendar events in an ASP.NET Core app with Microsoft Graph](https://www.youtube.com/watch?v=hTr6cOCAdto) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Viva Connections – Data Binding in SPFx Adaptive Card Extensions](https://www.youtube.com/watch?v=vcSM5PUgn0I) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
-*   [Use the Power Platform and Microsoft Teams to quiz yourself](https://www.youtube.com/watch?v=wOh05deLdBY) by [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
-*   [SPFx Design Guidance – Property pane input validation and error messages](https://www.youtube.com/watch?v=Fkb99T6tRmM) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
-*   [Latest on Microsoft Bookings API on Microsoft Graph](https://www.youtube.com/watch?v=AIIYFe2AH7o) by Altamish Ahmad (Microsoft)
-*   [CRUD Operations in Viva Connections – Adaptive Card Extensions with SharePoint Framework](https://www.youtube.com/watch?v=kQRkGBydGBk) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
-*   [Latest with Microsoft Graph connectors](https://www.youtube.com/watch?v=NwfSXYR7nl4) by Arvind Ravi (Microsoft)
-*   [Microsoft Graph Toolkit – Using the Teams Channel Picker Component in your solutions](https://www.youtube.com/watch?v=WhnhTUwJr1s) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
-*   [When to build Viva Connections Adaptive Card Extensions](https://www.youtube.com/watch?v=YgguaCj3YqE) by [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
-*   [Microsoft 365 Maturity Model - February 2022](https://www.youtube.com/watch?v=I6cfNuk1a3s)
-*   [Getting started on building a Microsoft Teams bot with yo teams](https://www.youtube.com/watch?v=ndp97skOsKI) by [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
-*   [Microsoft List Formatting - Challenges and Solutions](https://www.youtube.com/watch?v=yvEiXouwBUk) by [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
-*   [Deep dive on Viva Connections Adaptive Card Extension development – State management](https://www.youtube.com/watch?v=6SqBoE8Bl4E) by [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
-*   [Microsoft Graph Toolkit – Using the People Picker Component in your solutions](https://www.youtube.com/watch?v=Nhefl7OigRA) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
-*   [Adaptive Cards and the Power Platform to solve captchas](https://www.youtube.com/watch?v=7xIIjrHoqq0) by [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
-*   [Show a user's emails in an ASP.NET Core app with Microsoft Graph](https://www.youtube.com/watch?v=CZd5SWjKTY0) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Updates on Independent Publisher Connectors & GoQR Connector Demo](https://www.youtube.com/watch?v=sfMtPESK_Mc) by [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1 and [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) (Microsoft)
-*   [SharePoint Framework Design Patterns – Custom Web Part Properties (Part 3)](https://www.youtube.com/watch?v=rv-kG82i3kM) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
+* [PowerPoint selection APIs](https://www.youtube.com/watch?v=Pl3OcUXnIeo) by Onur Onder (Microsoft) and Camille Birch (Microsoft)
+* [Building a wellbeing solution with Teams and Viva Connections](https://www.youtube.com/watch?v=87HCKNs6KzI) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
+* [Getting started with Microsoft Teams Private Channels](https://www.youtube.com/watch?v=oK_JKmG1wvs) by [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
+* [Controlling list toolbar with JSON using commandBarProps option](https://www.youtube.com/watch?v=P7HoSUnhmOE) by [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
+* [Building in-meeting document signing app for Microsoft Teams](https://www.youtube.com/watch?v=6cwj_UmNrlQ) by SaiBhavya Reddy (Microsoft) and Eoin O'Brien (Microsoft)   
+* [Getting started with Branching in Microsoft Forms](https://www.youtube.com/watch?v=Pf8un8IZ4Tw) by [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
+* [Ribbon API updates with Office Add-ins](https://www.youtube.com/watch?v=SGQ5ccfQI_g) by Abid Rahman (Microsoft) and Preethika Kiruveedula (Microsoft)
+* [Getting started with PnPjs 3.0 JavaScript library](https://www.youtube.com/watch?v=Fxh6ha6UWmM&t=3s) by [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997 and [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
+* [ACE with a card view and multiple quick views to display Microsoft 365 (Unified) groups in a tenant](https://www.youtube.com/watch?v=XyEGLeToeOU) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
+* [Enabling any control to be used in the SPFx property pane with a custom solution](https://www.youtube.com/watch?v=kSjaiwJFtUw) by [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
+* [Getting started with Teams Toolkit .NET](https://www.youtube.com/watch?v=yqP5-m2BCGc) by [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
+* [Microsoft Graph API support for new content type sync enhancements](https://www.youtube.com/watch?v=6X-bope9cKg) by Shreya Ganguly (Microsoft) and Swapnil Shrivastava (Microsoft)
+* [Microsoft Lists for Android - demo tour](https://www.youtube.com/watch?v=Cq7mKp_lY6k) by Join Sahil Baid (Microsoft)
+* [The future of self-serve Microsoft Graph SDKs](https://www.youtube.com/watch?v=ADteVNa8Yyw) by Rabeb Othmani (Microsoft)
+* [Managing State Across Viva Connections ACE components](https://www.youtube.com/watch?v=mv_V8kqhmec) by [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler]
+* [Getting started with Microsoft Forms](https://www.youtube.com/watch?v=DtwFMLu3TJU) by [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
+* Use [CLI for Microsoft 365 to get HaveIBeenPwned status](https://www.youtube.com/watch?v=cuPq3CYJ1Ac) by [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
+* [SharePoint Syntex - Content Assembly (Modern Mail Merge)](https://www.youtube.com/watch?v=fx4oV-qu7c8) by [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
+* [Introduction on the new Microsoft Graph Toolkit sample gallery](https://www.youtube.com/watch?v=QsLgkPmDYeU) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
+* [Using 3rd Party APIs in Viva Connections ACEs](https://www.youtube.com/watch?v=YPTic0ZOO-M) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+* [Updates on Independent Publisher Connectors & Miro Connector Demo](https://www.youtube.com/watch?v=iUzykwMCOGI) by [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1 and [Michał Romiszewski](https://twitter.com/romiszewski) | @romiszewski
+* [Securing your Java Web Apps and APIs with Microsoft Identity – April 2022](https://www.youtube.com/watch?v=a4vH9fKG8cs) by Didun Ayodeji (Microsoft) 
+* [Microsoft 365 Maturity Model - April 2022](https://www.youtube.com/watch?v=72cHzMdPdus) by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII, [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc, [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini, [Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy, [Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @Simonjhudson, [Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
+* [Creating a workflow engine within SharePoint Framework and Azure](https://www.youtube.com/watch?v=ZL6V0jgotuM) by Greg Hitchon | Greg-Hitchon
+* [Docker Loves SharePoint Framework (SPFx)](https://www.youtube.com/watch?v=7wTWj7sbswg) by Aleksandr Sapozhkov | shurick81
+* [Making SharePoint Syntex testing easy – new templates in look book service](https://www.youtube.com/watch?v=MEqd1pfV9aw) by [Sean Squires](https://twitter.com/iamseansquires) (Microsoft) | @iamseansquires
+* [Getting started on using Power Automate in Microsoft Lists](https://www.youtube.com/watch?v=jJVAh77cYmQ) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
+* 
+
 
 ## Key contributors to the May 2022 update
 
@@ -442,6 +448,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 *   [Alex Gonsales](https://www.github.com/MrDrSushi) (Intergen) | MrDrSushi
 *   Alexander Ernon (Amplexor)
+*   Aleksandr Sapozhkov | shurick81
 *   [Alexis CONIA](https://www.twitter.com/alexis_conia) (Kickle) | @Alexis\_conia
 *   [Alienson](https://github.com/Alienson) | @Alienson
 *   [Alistair Pugin](https://www.twitter.com/alistairpugin) (Tangent Solutions) | @Alistairpugin
@@ -495,7 +502,6 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   David Gray (Visa)
 *   [David Pileggi](https://www.twitter.com/https:/twitter.com/DavidPileggi) (Staples) | DavidPileggi
 *   [David Ramalho](https://github.com/DRamalho92) | @DRamalho92
-*   [David Warner II](https://twitter.com/DavidWarnerII) (Catapult) | @DavidWarnerII
 *   [Dean Gross](https://www.twitter.com/dean144) (Insight) | @Dean144
 *   [Dennis Goedegebuure](https://twitter.com/expiscornovus) (Ultima Business Solutions) | Expiscornovus
 *   [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
@@ -524,6 +530,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
 *   [Giacomo Pozzoni](https://github.com/jackpoz) (Fellowmind) | jackpoz
 *   [Giuliano De Luca](https://twitter.com/delucagiulian) | @delucagiulian
+*   Greg Hitchon | Greg-Hitchon
 *   Haritha Sama (Intouch Solutions)
 *   [Harry Jones](https://www.twitter.com/hejones50) (Civica) | @Hejones50
 *   Harsh S (SRK Consulting)
@@ -757,6 +764,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Brian Dang](https://twitter.com/mrdang) (Microsoft) | @Mrdang
 *   [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | BrianTJackett
 *   [Bryan Petersen](https://github.com/bpeterse03) (Microsoft) | bpeterse03
+*   Camille Birch (Microsoft)
 *   [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @Catpaint
 *   [Charles Sterling](https://twitter.com/chass) (Microsoft) | @Chass
 *   Christer Ljung (Microsoft)
@@ -764,10 +772,13 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 *   [Dave Randall](https://github.com/triplanedave) (Microsoft) | triplanedave
 *   [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
+*   [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
+*   Didun Ayodeji (Microsoft) 
 *   [Doğan Erişen](https://github.com/derisen) (Microsoft) | derisen
 *   [Dragan Panjkov](https://twitter.com/panjkov) (Microsoft) | @Panjkov
 *   [Ed Averett](https://twitter.com/Ed_Averett) (Microsoft) | Ed\_Everett
 *   Emily Lynam (Microsoft)
+*   Eoin O'Brien
 *   Elizabeth Samuel (Microsoft)
 *   Emma Cooper (Microsoft)
 *   [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
@@ -785,6 +796,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   Joanne Hendrickson (Microsoft) | JoanneHendrickson
 *   John Nguyen (Microsoft) | johnguy0
 *   [John Sudds](https://twitter.com/jsuddsjr) (Microsoft) | @Jsuddsjr
+*   Join Sahil Baid (Microsoft)
 *   [Jos Verlinde](https://github.com/Josverl) (Microsoft) Josverl
 *   Jyoti Pal (Microsoft)
 *   Kavishi Agarwal (Microsoft)
@@ -820,11 +832,14 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Nickii Miaro](https://github.com/Mnickii) (Microsoft) | Nickii Miaro
 *   [Niko](https://github.com/NikoMix) (Microsoft) | NikoMix
 *   [Nikola Metulev](https://twitter.com/metulev) (Microsoft) | @Metulev
+*   Onur Onder (Microsoft)
 *   Orion O'Malley (Microsoft)
 *   [Pam Green](https://www.twitter.com/contextuallib) (Microsoft) | @Contextuallib
 *   Parag Jain (Microsoft)
 *   [Pat Miller](https://twitter.com/PatMill_MSFT) (Microsoft) | @PatMill\_MSFT
 *   [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
+*   Preethika Kiruveedula (Microsoft)
+*   Rabeb Othmani (Microsoft)
 *   [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
 *   Rajdeep Chandra
 *   [Ravichandran Krishnasamy](https://twitter.com/spfx_blog) (Microsoft) | @Spfx\_blog
@@ -833,13 +848,17 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Roel](https://github.com/RoelVB) (Microsoft) | RoelVB
 *   [Roy Paar](https://www.linkedin.com/in/roypaar/)(Microsoft)
 *   [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) (Microsoft)
+*   SaiBhavya Reddy (Microsoft)
 *   [Sam Larson](https://github.com/salarson) (Microsoft) | salarson
 *   [Shane Weaver](https://github.com/shweaver-MSFT) (Microsoft) | shweaver-MSFT
 *   [Shreyansh Agrawal](https://github.com/shagra-ms) (Microsoft) | shagra-ms
+*   [Sean Squires](https://twitter.com/iamseansquires) (Microsoft) | @iamseansquires
 *   [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
+*   Shreya Ganguly (Microsoft)
+*   Shubham Gatkal (Microsoft)
 *   [Srinivas Varukala](https://twitter.com/svarukala) (Microsoft) | @Svarukala
 *   [Steven Jia](https://github.com/Steven-Jia) (Microsoft) | Steven-Jia
-*   Shubham Gatkal (Microsoft)
+*   Swapnil Shrivastava (Microsoft)
 *   [Tejas Mehta](https://twitter.com/tpmehta) (Microsoft) | @Tpmehta
 *   [Tim Mayo](https://www.twitter.com/timmayo) (Microsoft) | @Timmayo
 *   [Tom Resing](https://twitter.com/resing) (Microsoft) | @Resing
