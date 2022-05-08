@@ -5,7 +5,7 @@ author: "Michael Roth"
 githubname: MichaelRoth42
 categories: ["Community post"]
 images:
-- images/HTTPrequest.png
+- images/title-calling-apis.png
 tags: ["Power Apps", "Power Automate"]
 type: "regular"
 ---
@@ -14,7 +14,7 @@ I recently learned how to work with APIs and the different methods to
 call them. I started with a straight forward example that's not too
 complex. I used an open API (that means I don't need authentication for
 my request) to get the [number of the
-day ](https://math.tools/numbers/number-of-the-day/)from a website
+day ](https://math.tools/numbers/number-of-the-day/) from a website
 called [MathTOOLS](https://math.tools/). I want this number of the day
 to be posted as a chat message in Microsoft Teams.
 
@@ -27,11 +27,11 @@ allow applications to communicate with each other and exchange data. An
 API lists operations that it can perform and which you can use, if you
 know how to trigger them. Usually the operations are\...
 
-- **GET**(read)
-- **POST**(write)
-- **PUT**(update)
-- **PATCH**(update, but only partially)
-- **DELETE**(remove)
+- **GET** (read)
+- **POST** (write)
+- **PUT** (update)
+- **PATCH** (update, but only partially)
+- **DELETE** (remove)
 
 ## How to address APIs?
 
