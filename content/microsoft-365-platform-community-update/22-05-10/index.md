@@ -1,16 +1,15 @@
 ---
-title: Microsoft 365 Community (PnP) -- May 2022 update
-date: 2022-05-15T04:00:00.000Z
+title: Microsoft 365 Platform Community (PnP) - May 2022 update
+date: 2022-05-09T04:00:00.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - Microsoft 365 Platform Community update
 # TODO Insert image
 images:
-  - images/
-tags: []
+- images/monthly-summary-may-2022.png
+tags: ["Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
 type: default
-draft: true
 ---
 
 Microsoft 365 Platform Community (PnP) May 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success.
@@ -210,7 +209,7 @@ We welcome all community members to get involved on the community and open-sourc
 *   [New Microsoft 365 Patterns and Practices (PnP) team members - August 2020](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-members/) -
     *   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital),
     *   [Koen Zomers](https://twitter.com/koenzomers) (Microsoft),
-    *   [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative),
+    *   [Paul Bullock](https://twitter.com/pkbullock) (Avanade),
     *   [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft),
     *   [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions)
 
@@ -254,7 +253,7 @@ This time no new articles.
 
 #### Updated articles
 
-<!-- TODO check with Marc -->
+* Updated article - [Content Type Propagation](https://docs.microsoft.com/en-us/microsoft-365/community/content-type-propagation) - by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) (Microsoft)
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model more detailed.
 
@@ -537,7 +536,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
 *   [Giacomo Pozzoni](https://github.com/jackpoz) (Fellowmind) | jackpoz
 *   [Giuliano De Luca](https://twitter.com/delucagiulian) | @delucagiulian
-*   Greg Hitchon | Greg-Hitchon
+*   [Greg Hitchon](https://github.com/Greg-Hitchon) | Greg-Hitchon
 *   Haritha Sama (Intouch Solutions)
 *   [Harry Jones](https://www.twitter.com/hejones50) (Civica) | @Hejones50
 *   Harsh S (SRK Consulting)
@@ -607,7 +606,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Milan Holemans | milanholemans
 *   [Mike Duffy](https://www.twitter.com/mike_duffy) (Boardwalk Pipelines) | @Mike\_duffy
 *   [Mike Dumka](https://www.twitter.com/mikedumka) (Habanero Consulting) | @Mikedumka
-*   [Mike Homol](https://twitter.com/homol) | @homol
+*   [Mike Homol](https://twitter.com/homol) (ThreeWill) | @homol
 *   [Mike Zimm](https://github.com/mikezimm) | mikezimm
 *   [Mohammad Amer](https://twitter.com/Mohammad3mer) (Atea Global Services) | @Mohammad3mer
 *   [Nader Hadjebi](https://twitter.com/nader2015) | @nader2015
@@ -625,13 +624,13 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Patrick Galloway](https://www.github.com/BammaSlim) | BammaSlim
 *   [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
 *   [Patrik Hellgren](https://twitter.com/patrikhellgren) (Sherpas Group) | @Patrikhellgren 
-*   [Paul Bullock](https://twitter.com/pkbullock) (CPS) | @Pkbullock
+*   [Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @Pkbullock
 *   [Paul Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) | @Paulculmsee
 *   [Paul McManus](https://twitter.com/PaulMcManus23) | @PaulMcManus23
 *   [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | @Paulschaeflein
 *   [Pedro Monte](https://github.com/PedroMordeP) (BindTuning) | PedroMordeP
 *   [Pete Simpkins](https://www.twitter.com/simpkinspete) (Fluid Interiors) | @Simpkinspete
-*   [Pete Skelly](https://twitter.com/pskelly) (ThreeWill ) | @Pskelly
+*   [Pete Skelly](https://twitter.com/pskelly) (ThreeWill) | @Pskelly
 *   [Phil McNiven](https://www.github.com/phil0074) | phil0074
 *   [Pierre Geraud](https://www.github.com/pedrion) (Bluekango) | pedrion
 *   [Prafull Kotecha](https://www.twitter.com/prafull) | @Prafull
@@ -647,7 +646,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Robert Copelan](https://www.twitter.com/rcopelan) (ZF Friedrichshafen AG) | @Rcopelan
 *   [Robert Dyjas](https://twitter.com/robdyy) (EQTek) | @Robdy
 *   Robert Lindström | robert-lindstrom
-*   [Robin Rosengrün](https://twitter.com/power_r2) (EnBW)| @power_r2
+*   [Robin Rosengrün](https://twitter.com/power_r2) (EnBW) | @power_r2
 *   [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology) | @ScoutmanPt
 *   Rohit S Patil (C3it)
 *   [Russell Gove](https://www.twitter.com/russgove) (tronox) | @Russgove
@@ -713,13 +712,11 @@ Here's the companies, which provided support the community initiative for this m
 
 
 <!-- TODO insert correct image -->
-![may companies](images/monthly-summary-march2022-companies.png)
+![may companies](images/monthly-summary-may-2022-companies.png)
 
 *   [Addin365](https://www.addin365.com/)
 *   [Arvo Systems](https://www.arvosys.com/)
-*   [Beezy](https://www.beezy.net/)
 *   [BLIS Digital](https://blisdigital.com/en/)
-*   [CaPa Creative Ltd](https://www.capacreative.co.uk/)
 *   [Canviz Solutions](https://canviz.com/)
 *   [Catapult Systems](https://www.catapultsystems.com/)
 *   [CPS](https://www.cps.co.uk/)
@@ -732,9 +729,7 @@ Here's the companies, which provided support the community initiative for this m
 *   [N8D - Stefan Bauer - Innovation and Design Agency](https://n8d.at/)
 *   [Piasys](https://piasys.com/)
 *   [PixelMill](https://pixelmill.com/)
-*   [Pramerica](https://www.prudential.com/)
 *   [PVX Solutions](https://www.pvx-solutions.com/)
-*   [Qubix](https://www.qubix.be/)
 *   [Rapid Circle](https://en.rapidcircle.com/)
 *   [Sherpas](https://www.sherpas.se/)
 *   [Solvion](https://www.solvion.net/)
@@ -908,7 +903,7 @@ Thank you for all that you do!
 *   [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
 *   [Paolo Pialorsi](https://twitter.com/PaoloPia) (Piasys.com) | @PaoloPia
 *   [Patrick Lamber](https://twitter.com/patricklamber) (Expertsinside AG) | @Patricklamber
-*   [Paul Bullock](https://twitter.com/pkbullock) (CPS) | @Pkbullock
+*   [Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @Pkbullock
 *   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
 *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @sergeev\_srg
 *   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
