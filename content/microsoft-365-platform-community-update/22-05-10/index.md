@@ -9,7 +9,7 @@ categories:
 images:
   - images/
 tags: []
-type: regular
+type: default
 draft: true
 ---
 
@@ -48,14 +48,12 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
-
 * 3rd of May - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [How to contribute to this blog ](https://pnp.github.io/blog/post/contribute-blog/) 
 * 1st of May - [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert - [Style your command bar with formatting magic](https://pnp.github.io/blog/post/style-command-bar-with-formatting-magic/)
 * 29th of April - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - [CLI for Microsoft 365 v5.2](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-2/)
 * 27th of April - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese  - [How to rename files in SharePoint with Power Automate](https://pnp.github.io/blog/post/how-to-rename-files-in-sharepoint-with-power-automate/)
 * 25th of April - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [New Microsoft 365 platform community blog](https://pnp.github.io/blog/post/new-community-blog-platform/)
 * 19th of April - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth - [PnP PowerShell v1.10](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v1-10/)
-
 
 ### Community call recording blog posts
 
@@ -92,7 +90,7 @@ There are numerous different community calls on different areas. All calls are b
 *   Adaptive Cards [https://aka.ms/adaptivecardscommunitycall](https://aka.ms/adaptivecardscommunitycall) - Updates and news around Adaptive Cards with live demos
 *   Microsoft identity platform [https://aka.ms/IDDevCommunityCalendar](https://aka.ms/IDDevCommunityCalendar) - Latest on the identity side
 *   Office Add-ins [https://aka.ms/officeaddinscommunitycall](https://aka.ms/officeaddinscommunitycall) - News and community work around Office add-ins with live demos
-*   Power Apps [https://aka.ms/PowerAppsMonthlyCall](https://aka.ms/PowerAppsMonthlyCall) - Monthly summary on Power Apps community with live demos
+*   Power Platform community call [https://aka.ms/PowerAppsMonthlyCall](https://aka.ms/PowerAppsMonthlyCall) - Monthly summary on Power Platform community with live demos
 *   M365 Community Call [https://aka.ms/spdev-sig-call](https://aka.ms/spdev-sig-call) - Bi-weekly - General topics on Microsoft 365 Dev from various aspects - Microsoft Teams, Microsoft Graph Toolkit, Provisioning, Automation, Scripting, Power Automate, Solution design
 *   Viva Connections & SharePoint Framework Community call [https://aka.ms/spdev-spfx-call](https://aka.ms/spdev-spfx-call) - Bi-weekly - Consists of topics around SharePoint Framework and JavaScript-based development in the Microsoft Teams and in SharePoint platform.
 
@@ -155,6 +153,7 @@ Other related resources from GitHub
 *   [Office add-in Patterns and Practices](https://github.com/OfficeDev/Office-Add-in-samples) in GitHub - Community contributions welcome!
 *   [Microsoft Graph](https://github.com/microsoftgraph) GitHub organization
 *   [OfficeDev](https://github.com/officedev) GitHub organization - Includes all Microsoft Teams samples from Microsoft
+
 ## What's supportability story around the community tooling and assets?
 
 Following statements apply across all of the community lead and contributed samples and solutions, including samples, core component(s) and solutions, like SharePoint Starter Kit, yo teams or PnP PowerShell. All Microsoft released SDKs and tools are supported based on the specific tool policies.
