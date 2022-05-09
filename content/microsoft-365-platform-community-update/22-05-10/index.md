@@ -40,6 +40,7 @@ The initiative is facilitated by Microsoft, but we have multiple community membe
 
 Here are the latest blog posts and announcements around Microsoft 365 development topics from [https://developer.microsoft.com/microsoft-365/blogs](https://developer.microsoft.com/microsoft-365/blogs)
 
+* 9th of May - [Building real-time collaborative apps with Microsoft 365, Azure and Power Platform](https://devblogs.microsoft.com/microsoft365dev/building-real-time-collaborative-apps-with-microsoft-365-azure-and-power-platform/) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 * 19th of April - [Updated preview of SharePoint Framework 1.15 – New release of the upcoming features](https://devblogs.microsoft.com/microsoft365dev/updated-preview-of-sharepoint-framework-1-15-new-release-of-the-upcoming-features/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 
 
