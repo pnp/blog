@@ -25,7 +25,7 @@ Topics vary from Microsoft Viva, Microsoft Graph, Microsoft Teams, Power Platfor
 
 See more details from New Microsoft 365 Platform (PnP) team model with new community leads
 
-The initiative is facilitated by Microsoft, but we have multiple community members as part of the platform community team (see team details in end of the article) and we are always looking to extend the Platform Community team with more community members. Notice that since this is open-source community initiative, so there’s no SLAs for the support for the samples provided through GitHub. Obviously, all officially released components and libraries are under official support from Microsoft.
+The initiative is facilitated by Microsoft, but we have multiple community members as part of the platform community team (see team details in end of the article) and we are always looking to extend the Platform Community team with more community members. Notice that since this is open-source community initiative, so there’s no SLAs for the support for the samples provided through GitHub. Obviously, all officially released components and libraries are under official support from Microsoft. 
 
 ### Main resources around Microsoft 365 Community
 
