@@ -593,6 +593,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Markus Joschko](https://github.com/jocsch) | jocsch
 *   [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
 *   [Martin Lingstuyl](https://twitter.com/martinlingstuyl) | @Martinlingstuy
+*   [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 *   [Matt Beard](https://twitter.com/mattybeard) (Data8) | @Mattybeard
 *   [Matt Collins-Jones](https://www.twitter.com/D365Geek) | @D365Geek
 *   [Michael Blumenthal](https://www.twitter.com/MichaelBL) (M365chicago.com) | @MichaelBL
@@ -818,7 +819,6 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Mansa MusaLe](https://twitter.com/m4musale) (Microsoft) | @M4musale
 *   Mathangi Chakrapani (Microsoft)
 *   [Matthijs Hoekstra](https://twitter.com/mahoekst) (Microsoft) | @Mahoekst
-*   Mathijs Verbeeck | MathijsVerbeeck
 *   Max Kulakov (Microsoft)
 *   Michael Aldridge (Microsoft)
 *   [Mikael Svenson](https://twitter.com/mikaelsvenson)(Microsoft) | @Mikaelsvenson
