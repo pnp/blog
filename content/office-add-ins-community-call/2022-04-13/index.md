@@ -39,20 +39,20 @@ This month's community call features demos on **Ribbon API updates** (previewing
 
 ## Q&A (Question & Answers)
 
-### When Microsoft deprecated User Voice there were a large number of great ideas lost. The replacement Microsoft 365 Developer Platform Ideas platform currently has New ideas = 535, Working on it = 2 and Need more information = 0 and Completed = 2! Even the most upvoted idea shows no responses from Microsoft. What value is there to posting ideas in this forum?
+**When Microsoft deprecated User Voice there were a large number of great ideas lost. The replacement Microsoft 365 Developer Platform Ideas platform currently has New ideas = 535, Working on it = 2 and Need more information = 0 and Completed = 2! Even the most upvoted idea shows no responses from Microsoft. What value is there to posting ideas in this forum?**
 
 Unfortunately, we were unable to preserve all ideas when we moved from UserVoice to the new ideas site. We did get a capture of all ideas with more than 100 votes and those were migrated to the new forum which we do use internally for planning. We definitely need improve this experience for better engagement and transparency into our planning process. There's currently a significant effort underway to reevaluate our community engagement on idea suggestions. We hope to share more details soon in an upcoming community call. Please understand that we absolutely value your suggestions and take them seriously. And thank you for raising this important issue!
 
-### When can we expect "insertWorksheetsFromBase64" completely supported for Excel on the web? Currently Excel on the web doesn't support source worksheets with PivotTable, Chart, Comment, or Slicer elements."
+**When can we expect "insertWorksheetsFromBase64" completely supported for Excel on the web? Currently Excel on the web doesn't support source worksheets with PivotTable, Chart, Comment, or Slicer elements."**
 
 We don't have a plan to implement **insertWorksheetsFromBase64** for Excel on the web at this time. There's a dependency on a feature we require that is not yet in Excel on the web. There's an [existing idea request](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/add-full-support-for-insertworksheetsfrombase64-method-for-excel/idi-p/3255216) to implement 
 **insertWorksheetsFromBase64**. We ask that any developers affected by this please upvote it. If you can provide comments, especially if you are blocked, this would be helpful to bump up the priority on this.
 
-### I'm trying to use the Shape API. In Script Lab, when I run the "Insert shape, line, and text box" sample code, some things work (e.g., insert hexagon) and others don't (e.g., create shape with text). When I change the code on Script Lab, I'm able to play with position, dimensions, shape type, etc. but I can't change colors, text, line weight and style, etc. Can you confirm whether all of this should work?
+**I'm trying to use the Shape API. In Script Lab, when I run the "Insert shape, line, and text box" sample code, some things work (e.g., insert hexagon) and others don't (e.g., create shape with text). When I change the code on Script Lab, I'm able to play with position, dimensions, shape type, etc. but I can't change colors, text, line weight and style, etc. Can you confirm whether all of this should work?**
 
 There was a bug in the "Insert shape, line, and text box" sample that we fixed based on this question. See the [issue on GitHub](https://github.com/OfficeDev/office-js-snippets/issues/618) for more details. If you're still seeing issues, can you please create report them [in the GitHub office-js-snippets repo](https://github.com/officedev/office-js-snippets)? We can follow up there.
 
-### I have some questions about the Outlook add-ins and Outlook REST V2 decommission. We provide our customers with Outlook add-ins that use the On-send feature. We are wondering if it will be extended only to existing customers or to new customers as well.
+**I have some questions about the Outlook add-ins and Outlook REST V2 decommission. We provide our customers with Outlook add-ins that use the On-send feature. We are wondering if it will be extended only to existing customers or to new customers as well.**
 
 The exemption for Outlook add-ins using Outlook REST V2 applies to any add-ins created before November 2022.
 
@@ -67,47 +67,47 @@ Case:
 * Is there any difference between registration by side-loading or by centralized deployment?
     * We use the App ID that you register at <https://aka.ms/RESTCheck> to track apps and provide the exemption. Once registered your add-in will continue to work regardless of the deployment method you choose.
 
-### We develop an Office.js add-in for Outlook that can encrypt/decrypt emails. We'd like the compose window to disappear after our "Encrypt and Send" button is clicked. Or we need a toggle such that a user can enable/disable encryption, and subsequently, our encryption process is done after the user clicks on the Send button (thus, an extended on-send feature, not only for validation purposes). Is one of those two features planned to be implemented anytime soon, or is it wise to consider developing our addin within VSTO?
+**We develop an Office.js add-in for Outlook that can encrypt/decrypt emails. We'd like the compose window to disappear after our "Encrypt and Send" button is clicked. Or we need a toggle such that a user can enable/disable encryption, and subsequently, our encryption process is done after the user clicks on the Send button (thus, an extended on-send feature, not only for validation purposes). Is one of those two features planned to be implemented anytime soon, or is it wise to consider developing our addin within VSTO?**
 
 You can accomplish this scenario using web add-ins and smart alerts. We recommend you combine this handling of the send event with event-based add-ins so you can encrypt the attachments as they are added on the email while composing, so that your on-send processing takes less time. We have a sample that shows how to do this at [https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/outlook-encrypt-attachments.](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/outlook-encrypt-attachments)
 
-### Why is it not possible to use the mail in MIME format as payload in the request when trying to create a message within a mailFolder (via "POST /me/mailFolders/{id}/messages"), as it seems that only JSON is accepted here? But via /me/messages I can use MIME format.
+**Why is it not possible to use the mail in MIME format as payload in the request when trying to create a message within a mailFolder (via "POST /me/mailFolders/{id}/messages"), as it seems that only JSON is accepted here? But via /me/messages I can use MIME format.**
 
 The best place to ask Microsoft Graph questions is at <https://aka.ms/askgraph>. When creating a draft email, it is typically created in the Drafts folder using “POST /me/messages”. This supports the MIME format. You can use “POST /me/mailFolders/{id}/messages” to create messages in any folder, although they will always be in draft mode. This did not seem like a likely scenario to support MIME. If there is a need for this please let us know more about your scenario at <https://aka.ms/askgraph>.
 
-### In Word desktop, with WebView2, if I reject the consent for audio/video recording for the first time, how can I change it or raise this question again? And a similar question, how can I disable or change the spellcheck settings in WebView2 in Word desktop?
+**In Word desktop, with WebView2, if I reject the consent for audio/video recording for the first time, how can I change it or raise this question again? And a similar question, how can I disable or change the spellcheck settings in WebView2 in Word desktop?**
 
-If consent was rejected, you need to clear the Office cache to raise the question again. For more information, see [Clear the Office cache - Office Add-ins \| Microsoft Docs](https://docs.microsoft.com/en-us/office/dev/add-ins/testing/clear-cache).
+If consent was rejected, you need to clear the Office cache to raise the question again. For more information, see [Clear the Office cache - Office Add-ins \| Microsoft Docs](https://docs.microsoft.com/office/dev/add-ins/testing/clear-cache).
 
-Spellcheck settings are controlled at the webview level. For example, "\<div id="content" spellcheck="true".
+Spellcheck settings are controlled at the webview level. For example, `\<div id="content" spellcheck="true"`.
 
-### Where can I go to request feature enhancements for outlook, such as controlling the width of an Outlook add in?
+**Where can I go to request feature enhancements for outlook, such as controlling the width of an Outlook add in?**
 
 Please let us know about any feature enhancements or suggestions at the Microsoft 365 developer platform ideas site <https://aka.ms/m365dev-suggestions>.
 
-### Are there any plans to have contextual tabs available for PowerPoint?
+**Are there any plans to have contextual tabs available for PowerPoint?**
 
 We currently don’t have plans to extend to PPT, if you would like to have contextual tabs in PPT, please post more information around your scenario at <https://aka.ms/m365dev-suggestions>.
 
-### Are you planning to make the Mail Compose Surface available on mobile?
+**Are you planning to make the Mail Compose Surface available on mobile?**
 
 Yes, we're planning to support it and are exploring various scenarios. We don't have a timeline to share yet.
 
-### Is it possible to customize the save dialog in Office (PPT, Word)?
+**Is it possible to customize the save dialog in Office (PPT, Word)?**
 
 We don’t have any way to customize the save dialog with Office Add-ins. If you could post an idea request at <https://aka.ms/m365dev-suggestions> we'd like to learn more about the scenarios where you would need to customize the save dialog.
 
-### What's the best place to store an "access token" in the Excel add-in? The access token is received by third-party app.
+**What's the best place to store an "access token" in the Excel add-in? The access token is received by third-party app.**
 
 In general it's not a good idea to store, or cache access tokens. You have to be very careful not to accidentally store the token in a way where malicious software could obtain it. Most libraries and APIs have a caching mechanism that you can take advantage of. For example, when calling the **getAccessToken** API in your Office Add-in, we recommend you call **getAccessToken** again whenever you need the token. Office caches it for you. If you are using the Microsoft Authentication Library, it also has caching that you can take advantage of. See [Acquire and cache tokens with Microsoft Authentication Library (MSAL) - Microsoft identity platform ...](https://docs.microsoft.com/azure/active-directory/develop/msal-acquire-cache-tokens), and [Enable single sign-on (SSO) in an Office Add-in - Office Add-ins \| Microsoft Docs](https://docs.microsoft.com/office/dev/add-ins/develop/sso-in-office-add-ins) for more details.
 
-### When creating an office-js add-in in the context of a larger solution that also integrates with Teams, which UI package is recommended: Fluent UI React or Fluent UI React Northstar? Would either of those be fine with a view to getting those apps accepted in the store? I would like to develop a solution for both Office (Word and Excel) and Teams, so the question is what the best starting point would be. I would like to avoid having to use two libraries.
+**When creating an office-js add-in in the context of a larger solution that also integrates with Teams, which UI package is recommended: Fluent UI React or Fluent UI React Northstar? Would either of those be fine with a view to getting those apps accepted in the store? I would like to develop a solution for both Office (Word and Excel) and Teams, so the question is what the best starting point would be. I would like to avoid having to use two libraries.**
 
-[Fluent UI v8](https://developer.microsoft.com/en-us/fluentui#/controls/web) is the current look of Office and other apps. Northstar is the system used by Microsoft Teams. We are building out Fluent UI v9 as a new system for both Teams and Office. v9 is still pretty early on, and still in release candidate for the initial base controls. For now, we recommend using Fluent UI v8.
+[Fluent UI v8](https://developer.microsoft.com/fluentui#/controls/web) is the current look of Office and other apps. Northstar is the system used by Microsoft Teams. We are building out Fluent UI v9 as a new system for both Teams and Office. v9 is still pretty early on, and still in release candidate for the initial base controls. For now, we recommend using Fluent UI v8.
 
-### Is there a roadmap for future PowerPoint APIs beyond the preview API sets?
+**Is there a roadmap for future PowerPoint APIs beyond the preview API sets?**
 
-We'll be posting roadmaps for PowerPoint APIs and other features to the [Microsoft 365 roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap) soon.
+We'll be posting roadmaps for PowerPoint APIs and other features to the [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap) soon.
 
 ## References
 

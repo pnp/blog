@@ -21,7 +21,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 ### New this week
 
 * Article – [Building real-time collaborative apps with Microsoft 365, Azure and Power Platform](https://devblogs.microsoft.com/microsoft365dev/building-real-time-collaborative-apps-with-microsoft-365-azure-and-power-platform/) - [Ayça Baş](http://twitter.com/aycabs) (Microsoft) \| @aycabs
-* Article - [Join the new Microsoft Viva Community Group on LinkedIn](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/join-the-new-microsoft-viva-community-group-on-linkedin/ba-p/3300541) -
+* Article - [Join the new Microsoft Viva Community Group on LinkedIn](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/join-the-new-microsoft-viva-community-group-on-linkedin/ba-p/3300541)
 * Sample - Teams platform update – [tab-people-picker](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/tab-people-picker)
 * Documentation – Teams Dev Docs - [Common reasons for app validation failure](https://docs.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/common-reasons-for-app-validation-failure)
 * Microsoft 365 Platform Community (PnP) – May 2022 update. Thank you to active community members and supportive organizations for your contributions. Not on the list? Join us!
