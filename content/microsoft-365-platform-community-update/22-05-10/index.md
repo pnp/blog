@@ -551,7 +551,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Jake Stanger | JakeStanger
 *   James May | fowl2
 *   [Jan Bakker](https://twitter.com/janbakker_) | @JanBacker\_
-*   [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI group) | Jwaegebaert
+*   [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 *   [Javier Hualpa](https://www.github.com/jhualpa) | jhualpa
 *   [Jeffin Jacob](https://www.github.com/jeffinjacob) | jeffinjacob
 *   Jennifer Davison (Akron Children's Hospital)
