@@ -551,7 +551,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Jake Stanger | JakeStanger
 *   James May | fowl2
 *   [Jan Bakker](https://twitter.com/janbakker_) | @JanBacker\_
-*   [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert
+*   [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 *   [Javier Hualpa](https://www.github.com/jhualpa) | jhualpa
 *   [Jeffin Jacob](https://www.github.com/jeffinjacob) | jeffinjacob
 *   Jennifer Davison (Akron Children's Hospital)
@@ -794,7 +794,6 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [James Eccles](https://github.com/jameseccles) (Microsoft) jameseccles
 *   [James Skay](https://twitter.com/JamesSkay) (Microsoft) | @JamesSka
 *   [Japhlet Nwamu](https://twitter.com/japhletnwamu) (Microsoft) | @Japhletnwamu
-*   [Jasey Waegebaert](https://github.com/Jwaegebaert) (Microsoft) | Jwaegebaert
 *   [Jasmine Hoegh](https://www.twitter.com/sbjishu) (Microsoft) | @Sbjishu
 *   Jason Johnston (Microsoft) | jasonjoh
 *   Jay Hangan (Microsoft)
