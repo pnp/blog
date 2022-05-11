@@ -1,7 +1,6 @@
 ---
-title: "Microsoft 365 Platform Community Call - 10th of May, 2022"
-summary: "Three demos - Extend your Microsoft Teams app to Outlook and Office, Introducing new M365 Assessment Tool with SharePoint Syntex Module, and Run Office Scripts with a button- now in Excel for Windows.  Review latest articles, documents, and podcasts."
-date: 2022-05-04 02:00:00 +0000
+title: "Demos this week - Extend your Teams Search Based Message Extension to Outlook and Getting started on using Azure Communication Services in your web site. Released Microsoft 365 Platform Community (PnP) – May 2022 update + articles, documents, videos, podcasts and more."
+date: 2022-05-10 02:00:00 +0000
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
@@ -10,75 +9,38 @@ images:
 tags: []
 type: "regular"
 videos:
-- https://www.youtube.com/watch?v=xcQQ5AOldb4
-draft: true
+- https://www.youtube.com/watch?v=qFhzkaY0PSs
+draft: false
 ---
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this particular call, we highlighted recently announced and key existing developer resources, news, community events and two demos.
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and two demos.
 
 ### New this week
 
-* Article – [What’s New in Microsoft Teams \| April
-    2022](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2022/ba-p/3297881)
-* Documentation - Teams feature update – [Set up CI/CD
-    pipelines](https://docs.microsoft.com/microsoftteams/platform/toolkit/use-cicd-template)
-* Documentation - Step-by-step guide updates – [Microsoft Teams Developer
-    Documentation](https://docs.microsoft.com/microsoftteams/platform/mstdd-landing)
-* Microsoft 365 PnP Weekly – Episode 164 (May 2nd) with Belgium based
-    Consultant, Office Development MVP [Elio
-    Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf
-    \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-164/)
-    \| [podcast](https://www.podbean.com/media/share/pb-euwht-1217b1b)
-* Microsoft 365 Developer Podcast (April 26th) - Bookings API with [Altamish
-    Ahmad](https://www.linkedin.com/in/altamishahmad/) (Microsoft) \|
-    [podcast](https://www.m365devpodcast.com/e/bookings-api-with-altamish-ahmad/)
+* Article – [Building real-time collaborative apps with Microsoft 365, Azure and Power Platform](https://devblogs.microsoft.com/microsoft365dev/building-real-time-collaborative-apps-with-microsoft-365-azure-and-power-platform/) - [Ayça Baş](http://twitter.com/aycabs) (Microsoft) \| @aycabs
+* Article - [Join the new Microsoft Viva Community Group on LinkedIn](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/join-the-new-microsoft-viva-community-group-on-linkedin/ba-p/3300541) -
+* Sample - Teams platform update – [tab-people-picker](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/tab-people-picker)
+* Documentation – Teams Dev Docs - [Common reasons for app validation failure](https://docs.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/common-reasons-for-app-validation-failure)
+* Microsoft 365 Platform Community (PnP) – May 2022 update. Thank you to active community members and supportive organizations for your contributions. Not on the list? Join us!
+* Microsoft 365 PnP Weekly – Episode 165 (May 2nd) Finland-based software architect and Office Developer MVP [Laura Kokkarinen](http://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/) \| [podcast](https://www.podbean.com/media/share/pb-96zpk-12216e6)
 
 ### Demos
 
-* **Extend your Microsoft Teams app to Outlook and Office.com** – using the
-    same development tooling to expose a Teams app in 3 host environments.
-    Here’s how. Download latest TeamsJS v2 SDK, open VS Code and run 2 commands
-    to upgrade the Teams app package so the app will run in other hosts and to
-    upgrade the SDK to point to TeamsJS v2.0. Done! Learn more about M365 cross
-    stack tooling journey here and at Microsoft Build.
-* **Introducing new M365 Assessment Tool with SharePoint Syntex Module** – an
-    open-source assessment platform, for which additional modules can be built
-    by Microsoft and Community. Uses CLI to run assessments tenant wide or on
-    selected site collections. Step through tool download, usage and
-    interpretation of Power BI report results. Replaces Modernization scanner.
-    Effectively analyzes content stored in SharePoint and generates
-    recommendations. In the case of Systex, the module identifies where Syntex
-    could deliver highest impact.
-* **Run Office Scripts with a button - now in Excel for Windows** – what are
-    Office Scripts, the new script button, and how to get involved in the
-    scripting journey. Scripts automate repetitive tasks and processes, and they
-    are stored in your OneDrive for anywhere access by anyone with access to
-    your workbook. Scripts are recorded and written in TypeScript/JavaScript.
-    The new script button shown in demo is a first offering that works on Excel
-    \- web and Windows.
+* **Extend your Teams Search Based Message Extension to Outlook** – search messaging extensions are Adaptive Cards (rendered in Teams and now in Outlook) and contain links to external content. See three steps for updating an existing messaging extension – update app manifest (manually or with Teams toolkit), add Outlook channel for bot (in Azure Portal or Bot Framework Portal), and sideload updated app in Teams. Capability in public developer preview. Covered Roadmap, more announcements at Microsoft Build.
+* **Getting started on using Azure Communication Services in your web site** – glimpse the future in this demo showing some of the present capabilities of ACS – the same platform leveraged by Microsoft Teams, can be leveraged by you. Add voice and video calling capabilities to your web apps. Demo shows securely connecting 2 users through the ACS infrastructure and the few lines of code enabling this. ACS is fully managed by Microsoft. Use cases reviewed, sample provided.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
+The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett. Q&A takes place in chat throughout and live at end of the call.
 
-{{< youtube xcQQ5AOldb4 >}}
+{{< youtube qFhzkaY0PSs >}}
 
 ## Agenda items
 
-* Latest updates and news on the Microsoft 365 platform – [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen –
-    [6:47](https://youtu.be/xcQQ5AOldb4?t=407)
-* Demo - Extend your Microsoft Teams app to Outlook and Office.com – [Erin
-    Bailie](https://www.linkedin.com/in/erinbailie/) (Microsoft) –
-    [9:54](https://youtu.be/xcQQ5AOldb4?t=594)
-* Demo - Introducing new M365 Assessment Tool with SharePoint Syntex Module –
-    [Bert Jansen](http://twitter.com/O365Bert) (Microsoft) \| @O365Bert and
-    [James Eccles](http://twitter.com/jimdeccles) (Microsoft) \| @jimdeccles –
-    [22:10](https://youtu.be/xcQQ5AOldb4?t=1330)
-* Demo - Run Office Scripts with a button- now in Excel for Windows – [Nancy
-    Wang](http://twitter.com/nancyatMSFT) (Microsoft) \| @nancyatMSFT –
-    [40:51](https://youtu.be/xcQQ5AOldb4?t=2451)
-
+* Latest updates and news on the Microsoft 365 platform – [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett – [5:43](https://youtu.be/qFhzkaY0PSs?t=343)
+* Monthly contributors on the Microsoft 365 platform community efforts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [8:52](https://youtu.be/qFhzkaY0PSs?t=532)
+* Demo - Extend your Teams Search Based Message Extension to Outlook – [Namrata Khubchandani](https://www.linkedin.com/in/namrata-khubchandani-181943a7/) (Microsoft) – [13:49](https://youtu.be/qFhzkaY0PSs?t=829)
+* Demo - Getting started on using Azure Communication Services in your web site – [David Rousset](http://twitter.com/davrous) (Microsoft) \| @davrous – [26:13](https://youtu.be/qFhzkaY0PSs?t=1573)
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
@@ -86,76 +48,35 @@ Thank you for your creativity and work execution. Samples are often showcased in
    
 ![Attendees waving hands in Microsoft Teams together mode picture](images/220510-together-mode.gif)
 
-It’s great seeing everybody in the room today.  Thank you for joining this weekly community call and for being part of this community.  
+We are celebrating you as a member of this community today. Thank you for joining this community and for all you do. 
 
 ## Actions
 
-* Register for [Microsoft Tech Days](https://aka.ms/techdays/m365) \|
-    Thursday, May 5, 2022.
-* Register for [Microsoft Build](http://register.build.microsoft.com) \| May
-    24-26, 2022
+* Register for [Microsoft Build](http://register.build.microsoft.com) \| May 24-26, 2022
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
-* Register for [Sharing is Caring](https://pnp.github.io/sharing-is-caring/)
-    events:
-    * Community Docs Session \| Tuesday, May 17, 10:00 am PT -
-        [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUOUdFR0U1STdGS0lXUDA2Sk1YSE1WMEtHSy4u)
-    * Power Platform Samples – First Time Contributor \| Monday, May 9, 10:30
-        am PT-
-        [Register](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUMTFJWFFGVUxBNUFZQjZWRUdaOE5BMFkwNS4u)
+* Register for [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) events:
+    * Community Docs Session \| Tuesday, May 17, 10:00 am PT - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUOUdFR0U1STdGS0lXUDA2Sk1YSE1WMEtHSy4u)
     * Maturity Model Practitioners \| [Register](https://aka.ms/mm4m365)
-    * PnP Office Hours – 1:1 session \|
-        [Register](https://outlook.office365.com/owa/calendar/PnPSharingisCaring@warner.digital/bookings/)
-    * PnP Buddy System \| [Request a
-        Buddy](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUMjRRUVg4NElZUUJLTEY1TVVSVDJFRFpLRS4u)
-* Register for the [Microsoft 365 Developer
-    Program](https://aka.ms/m365/devprogram) and get a free developer tenant
-* Get started with [free training modules](https://aka.ms/m365/dev/learn)
-    covering Microsoft 365 platform capabilities.
-* Visit the [Microsoft 365 Unified Sample Solution
-    Gallery](https://adoption.microsoft.com/sample-solution-gallery) from
-    Microsoft and community.
-* Sign up to [Share your story](https://aka.ms/share-your-story) in the [Learn
-    from the community](https://aka.ms/LearnFromTheCommunity/ThisWeek) series.
+    * PnP Office Hours – 1:1 session \| [Register](https://outlook.office365.com/owa/calendar/PnPSharingisCaring@warner.digital/bookings/)
+    * PnP Buddy System \| [Request a Buddy](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUMjRRUVg4NElZUUJLTEY1TVVSVDJFRFpLRS4u)
+* Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free developer tenant
+* Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
+* Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
+* Sign up to [Share your story](https://aka.ms/share-your-story) in the [Learn from the community](https://aka.ms/LearnFromTheCommunity/ThisWeek) series.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
 * Download the recurrent invite for this call – <https://aka.ms/m365-dev-call>
 
 ## Demo references
 
-* **Extend your Microsoft Teams app to Outlook and Office.com**
-    * Tools - [Teams Toolkit
-        (Preview)](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
-        \| aka.ms/VSTeamsToolkit
-    * Documentation - [Microsoft Teams JavaScript client SDK v2
-        Preview](https://docs.microsoft.com/microsoftteams/platform/m365-apps/using-teams-client-sdk-preview?tabs=manifest-teams-toolkit%2Cjavascript)
-        \| aka.ms/TeamsJSSDK
-    * Demo - [Extending Teams apps to Outlook and
-        Office.com](https://youtu.be/JckgmonMbCM?t=1776) – [Saurabh
-        Bhatia](http://twitter.com/iamSBTron) (Microsoft) \| @iamSBTron
-    * Topic related sessions at Microsoft Build \| May 24-26, 2022 \|
-        [Register now](http://register.build.microsoft.com)
-* **Introducing new M365 Assessment Tool with SharePoint Syntex Module**
-    * Tool - [Microsoft 365 Assessment
-        tool](https://pnp.github.io/pnpassessment/index.html) \|
-        aka.ms/microsoft365assessmenttool
-    * Repo - [Microsoft 365 Assessment
-        tool](https://github.com/pnp/pnpassessment)
-* **Run Office Scripts with a button - now in Excel for Windows**
-    * Automate button – [New workbook -Excel](https://excel.new/)
-    * Program - [Join the Microsoft 365 Developer Program
-        today!](https://developer.microsoft.com/microsoft-365/dev-program)
-    * Scenario - [Office Scripts sample scenario: Punch clock button](https://docs.microsoft.com/office/dev/scripts/resources/scenarios/punch-clock)
-    * Documentation - [Office Scripts samples and scenarios](https://docs.microsoft.com/office/dev/scripts/resources/samples/samples-overview) \| aka.ms/sample-scripts
-    * Feedback - [Office Scripts @ M365 Developer
-    Call](https://forms.office.com/r/0vP20FRKCN)
-    * Resources - [Office Scripts
-        Portal](https://developer.microsoft.com/office-scripts) \|
-        aka.ms/office-scripts
-    * Documentation - [Sample
-        Scripts](https://docs.microsoft.com/office/dev/scripts/resources/samples/excel-samples)
-        \| aka.ms/officesamplescripts
-    * Program - [Office Scripts
-        Makers](https://ux.microsoft.com/Panel/OfficeScriptsTrade?utm_campaign=tradesperson&utm_source=adhoc&utm_medium=presentation)
-        \| aka.ms/oscripts
+* **Extend your Teams Search Based Message Extension to Outlook**
+    * Documentation - [Extend a Teams message extension across Microsoft 365](https://docs.microsoft.com/microsoftteams/platform/m365-apps/extend-m365-teams-message-extension)
+    * Tool – [Teams Toolkit (Preview)](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) \| aka.ms/VSTeamsToolkit
+    * Topic related sessions at Microsoft Build \| May 24-26, 2022 \| [Register now](http://register.build.microsoft.com)
+* **Getting started on using Azure Communication Services in your web site**
+    * Documentation - [What is Azure Communication Services?](https://docs.microsoft.com/azure/communication-services/overview) \| aka.ms/communication-services-overview
+    * Sample – [Azure Communication Services Quick Starter](https://github.com/davrous/acsauth)
+    * Test Portal - [Azure Communication Services - Quick Test sample](https://david.azureedge.net/acs/samples/testacs.html) \| aka.ms/acsquicktest
+    * Documentation – [Calling SDK overview](https://docs.microsoft.com/azure/communication-services/concepts/voice-video-calling/calling-sdk-features)
 
 ## General resources
 
@@ -174,20 +95,13 @@ It’s great seeing everybody in the room today.  Thank you for joining this wee
 
 ## Upcoming Calls | Recurrent Invites
 
-* Viva Connections & SharePoint Framework call \| Thursday, May 5, 7:00 am PT -
-    <https://aka.ms/spdev-spfx-call> (bi-weekly)
-* Microsoft 365 platform call \| Tuesday, May 10, 8:00 am PT –
-    <https://aka.ms/m365-dev-call> (weekly)
-* Office add-in monthly call \| Wednesday, May 11, 8:00 am PT -
-    <https://aka.ms/officeaddinscall> (monthly)
-* M365 General Dev call \| Thursday, May 12, 7:00 am PT -
-    <https://aka.ms/m365-dev-sig> (bi-weekly)
-* Adaptive Cards monthly call \| Thursday, May 12, 9:00 am PT -
-    <https://aka.ms/adaptivecardscommunitycall> (monthly)
-* Power Platform monthly call \| Wednesday, May 18, 8:00 am PT -
-    <https://aka.ms/PowerAppsMonthlyCall> (monthly)
-* Microsoft Identity Platform call \| Thursday, May 19, 9:00 am PT -
-    <https://aka.ms/IDDevCommunityCalendar> (monthly)
+* Office add-in monthly call \| Wednesday, May 11, 8:00 am PT - <https://aka.ms/officeaddinscall> (monthly)
+* M365 General Dev call \| Thursday, May 12, 7:00 am PT - <https://aka.ms/m365-dev-sig> (bi-weekly)
+* Adaptive Cards monthly call \| Thursday, May 12, 9:00 am PT - <https://aka.ms/adaptivecardscommunitycall> (monthly)
+* Microsoft 365 platform call \| Tuesday, May 17, 8:00 am PT – <https://aka.ms/m365-dev-call> (weekly)
+* Power Platform monthly call \| Wednesday, May 18, 8:00 am PT - <https://aka.ms/PowerAppsMonthlyCall> (monthly)
+* Viva Connections & SharePoint Framework call \| Thursday, May 19, 7:00 am PT - <https://aka.ms/spdev-spfx-call> (bi-weekly)
+* Microsoft Identity Platform call \| Thursday, May 19, 9:00 am PT - <https://aka.ms/IDDevCommunityCalendar> (monthly)
 
 Microsoft 365 Platform community call focuses on latest Microsoft 365 Platform updates and demos delivered by Microsoft presenters and takes place weekly on Tuesday.  The alternating Special Interest Group community calls each Thursday focus on SharePoint Framework (client-side development/implementation) and Microsoft 365 Platform (includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Power Automate, PowerApps, Column Formatting, list formatting, etc. topics.) with demos commonly delivered by community members.
 
@@ -198,6 +112,6 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 &quot;_Sharing is caring&quot;_
 
-_Microsoft 365 Platform Community team, Microsoft - 4th of May 2022_
+*Microsoft 365 Platform Community team, Microsoft - 10th of May 2022*
 
 {{< attachments >}}
