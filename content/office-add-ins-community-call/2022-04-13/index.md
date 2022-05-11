@@ -12,15 +12,7 @@ type: "regular"
 
 ## Call Summary
 
-This month's community call features demos on 
-
-✅ **Ribbon API updates** (previewing enable/disable ribbon buttons and contextual tabs for PowerPoint and Word) – Abid Rahman, Program Manager (Microsoft) & Preethika Kiruveedula, Program Manager (Microsoft), 
-✅ **PowerPoint selection APIs** (previewing 17 new APIs for getting and setting slides, shapes and text range in PowerPoint) – Onur Onder, Senior Software Engineer (Microsoft) & Camille Birch, Product Manager (Microsoft), and 
-✅ **Add-ins on Appointment read surface on Outlook Mobile** (previewing appointment organizer APIs for logging event details to 3rd party applications) – Jatin Guptam, Program Manager (Microsoft). 
-
-There was Q&A at end of call and in chat throughout call. The call was hosted by [David Chesnut](https://twitter.com/davidchesnut) Senior Dev Writer (Microsoft) \| @davidchesnut. 
-
-Recorded April 13, 2022.
+This month's community call features demos on **Ribbon API updates** (previewing enable/disable ribbon buttons and contextual tabs for PowerPoint and Word) – Abid Rahman, Program Manager (Microsoft) & Preethika Kiruveedula, Program Manager (Microsoft), **PowerPoint selection APIs** (previewing 17 new APIs for getting and setting slides, shapes and text range in PowerPoint) – Onur Onder, Senior Software Engineer (Microsoft) & Camille Birch, Product Manager (Microsoft), and **Add-ins on Appointment read surface on Outlook Mobile** (previewing appointment organizer APIs for logging event details to 3rd party applications) – Jatin Guptam, Program Manager (Microsoft). There was Q&A at end of call and in chat throughout call. The call was hosted by [David Chesnut](https://twitter.com/davidchesnut) Senior Dev Writer (Microsoft) \| @davidchesnut. Recorded April 13, 2022.
 
 ## Demos
 
