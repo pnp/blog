@@ -44,6 +44,14 @@ You may find me on:
 
 At home you might find me giving the necessary attention to my two lovely kids and my wife. If any time is left over I’ll probably be reading a good book, doing some biking, supping or surfing or some such. I also like to share my learnings using blogs and contribute back to the community in all kinds of ways. Because sharing is caring!"
 
+You my find me on:
+
+- [Twitter](https://twitter.com/martinlingstuyl)
+- [GitHub](https://github.com/martinlingstuyl)
+- [LinkedIn](https://www.linkedin.com/in/martinlingstuyl/)
+
+or read my blogs at [blimped.nl](https://www.blimped.nl)
+
 ## Achieve more together
 
 Both Adam and Martin have been regularly contributing to CLI for Microsoft 365 for the past months. They've been also selflessly helping others contribute and thinking together with us of ways to improve the CLI. We're thrilled to have them on the team and are looking forward to working together with them.
