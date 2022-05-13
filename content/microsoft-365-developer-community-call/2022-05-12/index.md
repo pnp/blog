@@ -90,13 +90,13 @@ Nice to get virtually outside again in today’s dynamic community picture. Grea
 
 ## Demo references
 
-* **How to build a SSO bot using yo teams for Microsoft Teams**
+* **How to build an SSO bot using yo teams for Microsoft Teams**
     * Tool - [Microsoft Teams App Project Generator - \#YoTeams](https://github.com/pnp/generator-teams)
     * Documentation - [Single sign-on (SSO) with Microsoft Teams bots](https://docs.microsoft.com/learn/modules/msteams-sso/6-bots-sso)
-    * Training - [SSO Teams Bot - Microsoft Teams App](https://github.com/OfficeDev/TrainingContent/tree/master/Teams/80%20Using%20Single%20Sign-On%20with%20Microsoft%20Teams/Demos/02-learn-msteams-sso-bot) \|
+    * Training - [SSO Teams Bot - Microsoft Teams App](https://github.com/OfficeDev/TrainingContent/tree/master/Teams/80%20Using%20Single%20Sign-On%20with%20Microsoft%20Teams/Demos/02-learn-msteams-sso-bot)
     * Documentation - [Single sign-on (SSO) support for bots](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
 * **List formatting magic – Advance discussion board formatting with Power Automate**
-    * Sample - [discussion board format](https://github.com/pnp/List-Formatting/tree/master/view-samples/discussion-board-format)
+    * Sample - [Discussion board format](https://github.com/pnp/List-Formatting/tree/master/view-samples/discussion-board-format)
     * Sample - [Calculator sample](https://github.com/pnp/List-Formatting/tree/master/column-samples/generic-calculator)
     * Sample - [Percent chart format](https://github.com/pnp/List-Formatting/tree/master/view-samples/percent-chart-format)
     * Samples - [List Formatting Samples](https://pnp.github.io/List-Formatting/) \| aka.ms/list-formatting
@@ -168,9 +168,9 @@ PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.
 
 ## About
 
-General Microsoft 365 Dev Special Interest Group bi-weekly calls are targeted at anyone who's interested in the general Microsoft 365 development topics. This includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Power Automate, PowerApps, Column Formatting, list formatting, etc. topics. More details on the Microsoft 365 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). We also welcome community demos, if you are interested in doing a live demo in these calls!
+Microsoft 365 Development Community bi-weekly calls are targeted at anyone who's interested in the general Microsoft 365 development topics. This includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Power Automate, Power Apps, Column Formatting, List formatting, etc. topics. More details on the Microsoft 365 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). We also welcome community demos, if you are interested in doing a live demo in these calls!
 
-You can download recurrent invite from [https://aka.ms/m365-dev-sig](https://aka.ms/m365-dev-sig). Welcome and join in the discussion. If you have any questions, comments, or feedback, feel free to provide your input as comments to this post as well. More details on the Microsoft 365 community and options to get involved are available from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
+You can download recurrent invite from [https://aka.ms/m365-dev-sig](https://aka.ms/m365-dev-sig). Welcome and join in the discussion. If you have any questions, comments, or feedback, feel free to provide your input as comments below this post as well. More details on the Microsoft 365 community and options to get involved are available from [https://aka.ms/m365pnp](https://aka.ms/m365pnp).
 
 
 _“Sharing is caring”_
