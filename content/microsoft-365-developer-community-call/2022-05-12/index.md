@@ -59,7 +59,7 @@ call.
 * Microsoft Teams Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:04](https://www.youtube.com/watch?v=SM_KlEcefcw?t=664)
 * Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [11:37](https://www.youtube.com/watch?v=SM_KlEcefcw?t=697)
 * Demo - How to build a SSO bot using yo teams for Microsoft Teams – [Stephan Bisser](http://twitter.com/stephanbisser) (Solvion) \| @stephanbisser – [15:08](https://www.youtube.com/watch?v=SM_KlEcefcw?t=908)
-* Demo - List formatting magic – Advance discussion board formatting with Power Automate – [André Lage](http://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [42:05](https://www.youtube.com/watch?v=SM_KlEcefcw?t=1588)
+* Demo - List formatting magic – Advance discussion board formatting with Power Automate – [André Lage](http://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [26:24](https://www.youtube.com/watch?v=SM_KlEcefcw?t=1588)
 * Demo - List formatting magic – Taking advantage of new multi-lingual capabilities in list formatting – [Chris Kent](http://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [43:25](https://www.youtube.com/watch?v=SM_KlEcefcw?t=2628)
 
 ## Together Mode
