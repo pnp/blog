@@ -9,6 +9,8 @@ images:
 - images/office-add-ins-call-may-2022-recording.png
 tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
+videos:
+- https://www.youtube.com/watch?v=_3rzh23TaH4
 draft: true
 ---
 
@@ -23,6 +25,8 @@ This month's community call topics:
 5. **Q&A** at end of call and in chat throughout call.
 
 The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut. Recorded May 11, 2022.
+
+{{< youtube _3rzh23TaH4 >}}
 
 ## Topic summaries
 
