@@ -18,10 +18,10 @@ draft: true
 
 This month's community call topics:
 
-1. **AppSource Add-in Validation Improvements** – See the latest browser support update, top failure outcomes to avoid, and see how to communicate directly with your validation team - [Juan Balmori](http://twitter.com/juaneloBalmori) – Principal Product Manager (Microsoft) \| @juaneloBalmori
-2. **Blazor in Office Add-ins** – Step through creating a Blazor Webassembly Word add-in – [Maarten van Stam](http://twitter.com/aafvstam) - MVP Office Add-ins \| @aafvstam
-3. **Add-in command changes** – Update and register your add-in commands that use ExecuteFunction, by October 30th deadline – [Abid Rahman](https://www.linkedin.com/in/abidrahman1/) - Product Manager (Microsoft)
-4. **Community ideas** – Shape how we gather and prioritize Microsoft 365 development suggestions - [Linda Cannon](http://twitter.com/lindalu_MSFT) – Senior Content Product Manager (Microsoft) \| @lindalu_MSFT.
+1. **AppSource Add-in Validation Improvements** – See the latest browser support update, top failure outcomes to avoid, and see how to communicate directly with your validation team – [Juan Balmori](http://twitter.com/juaneloBalmori) – Principal Product Manager (Microsoft) \| @juaneloBalmori
+2. **Blazor in Office Add-ins** – Step through creating a Blazor Webassembly Word add-in – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins \| @aafvstam
+3. **Add-in command changes** – Update and register your add-in commands that use ExecuteFunction, by October 30th deadline – [Abid Rahman](https://www.linkedin.com/in/abidrahman1/) – Product Manager (Microsoft)
+4. **Community ideas** – Shape how we gather and prioritize Microsoft 365 development suggestions – [Linda Cannon](http://twitter.com/lindalu_MSFT) – Senior Content Product Manager (Microsoft) \| @lindalu_MSFT.
 5. **Q&A** – See question and answers at end of call and in chat throughout call.
 
 The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut. Recorded May 11, 2022.
@@ -37,11 +37,11 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 ## Agenda
 
-* AppSource Add-in Validation Improvements - [Juan Balmori](http://twitter.com/juaneloBalmori) - Principal Product Manager (Microsoft) \| @juaneloBalmori – [1:17](https://youtu.be/_3rzh23TaH4?t=77)
-* Blazor in Office Add-ins (Demo) - [Maarten van Stam](http://twitter.com/aafvstam) - MVP Office Add-ins \| @aafvstam – [11:58](https://youtu.be/_3rzh23TaH4?t=718)
-* Add-in command changes - [Abid Rahman](https://www.linkedin.com/in/abidrahman1/) - Product Manager (Microsoft) – [29:16](https://youtu.be/_3rzh23TaH4?t=1756)
-* Community ideas - [Linda Cannon](http://twitter.com/lindalu_MSFT) - Senior Content Product Manager (Microsoft) \| @lindalu_MSFT – [35:09](https://youtu.be/_3rzh23TaH4?t=2109)
-* Q&A – [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut - [47:15](https://youtu.be/_3rzh23TaH4?t=2835)
+* AppSource Add-in Validation Improvements – [Juan Balmori](http://twitter.com/juaneloBalmori) – Principal Product Manager (Microsoft) \| @juaneloBalmori – [1:17](https://youtu.be/_3rzh23TaH4?t=77)
+* Blazor in Office Add-ins (Demo) – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins \| @aafvstam – [11:58](https://youtu.be/_3rzh23TaH4?t=718)
+* Add-in command changes – [Abid Rahman](https://www.linkedin.com/in/abidrahman1/) – Product Manager (Microsoft) – [29:16](https://youtu.be/_3rzh23TaH4?t=1756)
+* Community ideas – [Linda Cannon](http://twitter.com/lindalu_MSFT) – Senior Content Product Manager (Microsoft) \| @lindalu_MSFT – [35:09](https://youtu.be/_3rzh23TaH4?t=2109)
+* Q&A – [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut – [47:15](https://youtu.be/_3rzh23TaH4?t=2835)
 
 ## Actions
 
@@ -152,18 +152,18 @@ Yes, this should work. We do have customers who have implemented a service middl
     * Article – [Announcing WebView2 for Office Add-ins Platform – Preview](https://devblogs.microsoft.com/microsoft365dev/announcing-webview2-for-office-add-ins-platform/)
 
 * **Blazor in Office Add-ins (Demo)**
-    * Sample - [Create a Blazor Webassembly Word add-in](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/word-blazor-add-in)
-    * Videos channel – [Maarten van Stam - Soft As In Software](https://www.youtube.com/SoftAsInSoftware)
+    * Sample – [Create a Blazor Webassembly Word add-in](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/word-blazor-add-in)
+    * Videos channel – [Maarten van Stam – Soft As In Software](https://www.youtube.com/SoftAsInSoftware)
     * Twitch – [Soft As In Software](https://www.twitch.tv/softasinsoftware)
 
 * **Add-in command changes**
-    * Article - [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/)
-    * Samples - [Office Add-in commands](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/office-add-in-commands)
-    * Documentation - [Create add-in commands in your manifest for Excel, PowerPoint, and Word](https://docs.microsoft.com/office/dev/add-ins/develop/create-addin-commands)
+    * Article – [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/)
+    * Samples – [Office Add-in commands](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/office-add-in-commands)
+    * Documentation – [Create add-in commands in your manifest for Excel, PowerPoint, and Word](https://docs.microsoft.com/office/dev/add-ins/develop/create-addin-commands)
     * Issues – [Office Add-ins issues](https://github.com/OfficeDev/office-js/issues)
 
 * **Community ideas**
-    * Suggestions - [Microsoft 365 Developer Platform Ideas - Office Add-ins](https://aka.ms/m365dev-suggestions) \| [aka.ms/m365dev-suggestions](https://aka.ms/m365dev-suggestions)
+    * Suggestions – [Microsoft 365 Developer Platform Ideas – Office Add-ins](https://aka.ms/m365dev-suggestions) \| [aka.ms/m365dev-suggestions](https://aka.ms/m365dev-suggestions)
     * Issues – [OfficeDev/office-js/issues](https://github.com/OfficeDev/office-js/issues)
     * Forum – [Microsoft 365 Developer Ideas forum](https://feedbackportal.microsoft.com/feedback)
     * Feedback on Feedback – how should people contact you regarding our presentation today?
@@ -187,11 +187,11 @@ Yes, this should work. We do have customers who have implemented a service middl
 
 ## Stay connected
 
-* See the full blog post for this call in the Microsoft 365 platform community blog - <https://aka.ms/m365pnp/blog>
-* Twitter - [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​
-* Microsoft 365 Platform Community in YouTube - <https://aka.ms/m365/videos>
-* Link to all Microsoft Developer Community calls - <https://aka.ms/M365DevCalls>
-* Submit questions for next community call - <https://aka.ms/officeaddinsform>
-* Next community call – June 8th at 08:00am PT - <https://aka.ms/officeaddinscommunitycall>
+* See the full blog post for this call in the Microsoft 365 platform community blog – <https://aka.ms/m365pnp/blog>
+* Twitter – [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​
+* Microsoft 365 Platform Community in YouTube – <https://aka.ms/m365/videos>
+* Link to all Microsoft Developer Community calls – <https://aka.ms/M365DevCalls>
+* Submit questions for next community call – <https://aka.ms/officeaddinsform>
+* Next community call – June 8th at 08:00am PT – <https://aka.ms/officeaddinscommunitycall>
 
 {{< attachments >}}
