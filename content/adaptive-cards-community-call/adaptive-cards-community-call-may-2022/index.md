@@ -31,7 +31,7 @@ In this month’s community call. Featured demo - Handling multi-user responses 
 
 *  **Handling multi-user responses for Adaptive Cards in Microsoft Teams** – posting a card (requesting information from meeting attendees) with Power Automate in a Teams meeting chat. The card can handle multiple responses to it (evidenced in multiple responses in meeting chat). Every time a person responds to the card (trigger), a Planner task is created. The solution requires 2 flows - Trigger (Response Handling Flow) and Action (Card Posting Flow). Available in Preview today.
 
-## demo references
+## Demo References
 
 *  **Handling multi-user responses for Adaptive Cards in Microsoft Teams** - 
     * Article – [Microsoft Power Automate: Post Adaptive cards to a Microsoft Teams for an Approval](https://powerusers.microsoft.com/t5/Power-Automate-Community-Blog/Microsoft-Power-Automate-Post-Adaptive-cards-to-a-Microsoft/ba-p/658693)
