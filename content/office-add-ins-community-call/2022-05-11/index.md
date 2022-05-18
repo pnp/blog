@@ -18,11 +18,11 @@ draft: true
 
 This month's community call topics:
 
-1. **AppSource Add-in Validation Improvements** – including browser support update, top failure outcomes to avoid and communicating directly with your validation team - [Juan Balmori](http://twitter.com/juaneloBalmori) - Principal Product Manager (Microsoft) \| @juaneloBalmori
-2. **Blazor in Office Add-ins** - step through creating a Blazor Webassembly Word add-in - [Maarten van Stam](http://twitter.com/aafvstam) - MVP Office Add-ins \| @aafvstam
-3. **Add-in command changes** - how to update and register your add-ins commands that use ExecuteFunction, by October 30th deadline - [Abid Rahman](https://www.linkedin.com/in/abidrahman1/) - Product Manager (Microsoft)
-4. **Community ideas** - help shape how we gather and prioritize Microsoft 365 development suggestions - [Linda Cannon](http://twitter.com/lindalu_MSFT) - Senior Content Product Manager (Microsoft) \| @lindalu_MSFT.
-5. **Q&A** at end of call and in chat throughout call.
+1. **AppSource Add-in Validation Improvements** – See the latest browser support update, top failure outcomes to avoid, and see how to communicate directly with your validation team – [Juan Balmori](http://twitter.com/juaneloBalmori) – Principal Product Manager (Microsoft) \| @juaneloBalmori
+2. **Blazor in Office Add-ins** – Step through creating a Blazor Webassembly Word add-in – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins \| @aafvstam
+3. **Add-in command changes** – Update and register your add-in commands that use ExecuteFunction, by October 30th deadline – [Abid Rahman](https://www.linkedin.com/in/abidrahman1/) – Product Manager (Microsoft)
+4. **Community ideas** – Shape how we gather and prioritize Microsoft 365 development suggestions – [Linda Cannon](http://twitter.com/lindalu_MSFT) – Senior Content Product Manager (Microsoft) \| @lindalu_MSFT.
+5. **Q&A** – See question and answers at end of call and in chat throughout call.
 
 The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut. Recorded May 11, 2022.
 
@@ -30,124 +30,142 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 ## Topic summaries
 
-* **AppSource Add-in Validation Improvements** – effective immediately, we (AppSource) will activate your add-in in IE (Trident). If your add-in fails to load in Trident, we will soft-fail it. Top failures when validating add-ins include no testing instructions, poor first run experience and external service experience, no additional charges disclosure, and more. Now you can engage directly with the Add-ins Validation Team in response to a validation report from team.
-* **Blazor in Office Add-ins (Demo)** – initial Pull Request to bring in the Office Add-in based on Blazor Webassembly technologies using Blazor, .NET Core, C\# and JavaScript Interop. Blazor WASM will be handled just like any other Office JS Add-in on cross-platform environments that are compatible with WASM. See Blazor web assembly app in Word, add content controls and event handlers to the controls from the task pane.
-* **Add-in command changes** – reinforcing our May 10th announcement regarding add-ins that use ExecuteFunction, if your handler function is not registered by October 30, 2022, it will fail to run! You do not need to resubmit your add-in, you are just making a change in the js function itself. See the one line of code you need to add after your function definitions and learn how to verify completeness.
-* **Community ideas** – Door \#1, \#2, \#3? Sharing a transparent update on the quest to settle on the right and ONE home for your Office Add-ins related suggestions. What is the current state, our shared objectives, our technical challenges, and pros/cons for potential next steps? Please chime in and let us know what you think we should do on this front.
+* **AppSource add-in validation improvements** – Effective immediately, we (AppSource) no longer require IE (Trident) support. If your add-in fails to load in Trident, we'll soft-fail it. Top failures when validating add-ins include: no testing instructions, poor first run and external service experiences, missing additional charges disclosures, and more. Now you can engage directly with the Add-ins Validation Team in response to a validation report from team.
+* **Blazor in Office Add-ins (demo)** – We viewed a demo of the initial pull request to bring in the Office Add-in based on Blazor WebAssembly technologies using Blazor, .NET Core, C\#, and JavaScript Interop. Blazor WASM is handled just like any other Office JS add-in on cross-platform environments that are compatible with WASM. See the Blazor WebAssembly app in Word to add content controls and event handlers to the controls from the task pane.
+* **Add-in command changes** – On May 10th, 2022, we announced changes to add-ins that use ExecuteFunction. If your handler function is not registered by October 30, 2022, it will fail to run! You don't need to resubmit your add-in; you're just making a change in the js function itself. See the one line of code you need to add after your function definitions and learn how to verify completeness.
+* **Community ideas** – Door \#1, \#2, \#3? We shared a transparent update on the quest to settle on the correct and final home for your Office Add-ins related suggestions and ideas. What is the current state, our shared objectives, our technical challenges, and pros/cons for potential next steps? Please chime in and let us know what you think we should do on this front.
 
 ## Agenda
 
-* AppSource Add-in Validation Improvements - [Juan Balmori](http://twitter.com/juaneloBalmori) - Principal Product Manager (Microsoft) \| @juaneloBalmori – [1:17](https://youtu.be/_3rzh23TaH4?t=77)
-* Blazor in Office Add-ins (Demo) - [Maarten van Stam](http://twitter.com/aafvstam) - MVP Office Add-ins \| @aafvstam – [11:58](https://youtu.be/_3rzh23TaH4?t=718)
-* Add-in command changes - [Abid Rahman](https://www.linkedin.com/in/abidrahman1/) - Product Manager (Microsoft) – [29:16](https://youtu.be/_3rzh23TaH4?t=1756)
-* Community ideas - [Linda Cannon](http://twitter.com/lindalu_MSFT) - Senior Content Product Manager (Microsoft) \| @lindalu_MSFT – [35:09](https://youtu.be/_3rzh23TaH4?t=2109)
-* Q&A – [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut - [47:15](https://youtu.be/_3rzh23TaH4?t=2835)
+* AppSource Add-in Validation Improvements – [Juan Balmori](http://twitter.com/juaneloBalmori) – Principal Product Manager (Microsoft) \| @juaneloBalmori – [1:17](https://youtu.be/_3rzh23TaH4?t=77)
+* Blazor in Office Add-ins (Demo) – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins \| @aafvstam – [11:58](https://youtu.be/_3rzh23TaH4?t=718)
+* Add-in command changes – [Abid Rahman](https://www.linkedin.com/in/abidrahman1/) – Product Manager (Microsoft) – [29:16](https://youtu.be/_3rzh23TaH4?t=1756)
+* Community ideas – [Linda Cannon](http://twitter.com/lindalu_MSFT) – Senior Content Product Manager (Microsoft) \| @lindalu_MSFT – [35:09](https://youtu.be/_3rzh23TaH4?t=2109)
+* Q&A – [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut – [47:15](https://youtu.be/_3rzh23TaH4?t=2835)
 
 ## Actions
 
-* Join the Teams call – [Office Add-ins samples discussion](https://aka.ms/officeaddinsamples-call) – June 15, 8:00 am PT \| aka.ms/officeaddinsamples-call
-* Earn contributor badges - sign up for the PnP Recognition program. - <https://pnp.github.io/recognitionprogram/>
-* Follow channels in twitter – for call agendas and summaries, release announcements,…
+* Give us feedback on what you need from code samples. Join the Teams call – [Office Add-ins samples discussion](https://aka.ms/officeaddinsamples-call) – June 15, 8:00 am PT \| aka.ms/officeaddinsamples-call
+* Sign up for the PnP Recognition Program and earn contribution badges – <https://pnp.github.io/recognitionprogram/>
+* See call agendas and summaries, and release announcements. Follow us on Twitter – 
     * <https://twitter.com/microsoft365dev>
     * <https://twitter.com/m365pnp>
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
-* Next community call – June 8th at 08:00am PT - <https://aka.ms/officeaddinscommunitycall>
-
+* Join the next community call on June 8th at 08:00am Pacific Time (PT) – <https://aka.ms/officeaddinscommunitycall>
 
 ## Q&A (Question & Answers)
 
-**When Microsoft deprecated User Voice there were a large number of great ideas lost. The replacement Microsoft 365 Developer Platform Ideas platform currently has New ideas = 535, Working on it = 2 and Need more information = 0 and Completed = 2! Even the most upvoted idea shows no responses from Microsoft. What value is there to posting ideas in this forum?**
+**I'd love to follow-up on this feature request: [Office JS Save and Close methods for Word, Excel, and PowerPoint](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/office-js-save-and-close-methods-for-word-excel-and-powerpoint/idi-p/2800214). Apologies for my persistence, but this is literally the only blocking issue for us to move from the old add-ins to the Office web Add-ins platform. We would really appreciate if you could push this into the roadmap. We represent hundreds of users and the deployments of the old add-ins and updates are not ideal. Thank you so much.**
 
-Unfortunately, we were unable to preserve all ideas when we moved from UserVoice to the new ideas site. We did get a capture of all ideas with more than 100 votes and those were migrated to the new forum which we do use internally for planning. We definitely need improve this experience for better engagement and transparency into our planning process. There's currently a significant effort underway to reevaluate our community engagement on idea suggestions. We hope to share more details soon in an upcoming community call. Please understand that we absolutely value your suggestions and take them seriously. And thank you for raising this important issue!
+Thanks for your persistence! We're sorry you're blocked by this. Unfortunately, we can't add this to the roadmap at this time, but we'll continue to keep an eye on the request. Consider asking the [Office JS developer community](https://stackoverflow.com/questions/tagged/office-js) on Stack Overflow how others have addressed this issue.
 
-**When can we expect "insertWorksheetsFromBase64" completely supported for Excel on the web? Currently Excel on the web doesn't support source worksheets with PivotTable, Chart, Comment, or Slicer elements."**
+As a workaround you may want to explore continuing to use your COM add-in for full functionality while adding partial functionality in the web add-in for cross-platform support. For more information, we recommend exploring [Make your Office Add-in compatible with an existing COM add-in](https://docs.microsoft.com/office/dev/add-ins/develop/make-office-add-in-compatible-with-existing-com-add-in).
 
-We don't have a plan to implement **insertWorksheetsFromBase64** for Excel on the web at this time. There's a dependency on a feature we require that is not yet in Excel on the web. There's an [existing idea request](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/add-full-support-for-insertworksheetsfrombase64-method-for-excel/idi-p/3255216) to implement 
-**insertWorksheetsFromBase64**. We ask that any developers affected by this please upvote it. If you can provide comments, especially if you are blocked, this would be helpful to bump up the priority on this.
+**Open the Outlook mobile API to allow compose scenarios to insert attachments in emails. Currently, third-party cloud storage companies cannot integrate directly into Outlook mobile. With this API, we would be able to click a button and insert files from private cloud storage providers into emails.**
 
-**I'm trying to use the Shape API. In Script Lab, when I run the "Insert shape, line, and text box" sample code, some things work (e.g., insert hexagon) and others don't (e.g., create shape with text). When I change the code on Script Lab, I'm able to play with position, dimensions, shape type, etc. but I can't change colors, text, line weight and style, etc. Can you confirm whether all of this should work?**
+We'd like to know more about this scenario. Can you please create a feature request with more information at [https://aka.ms/m365dev-suggestions](https://aka.ms/m365dev-suggestions)? Thanks!
 
-There was a bug in the "Insert shape, line, and text box" sample that we fixed based on this question. See the [issue on GitHub](https://github.com/OfficeDev/office-js-snippets/issues/618) for more details. If you're still seeing issues, can you please create report them [in the GitHub office-js-snippets repo](https://github.com/officedev/office-js-snippets)? We can follow up there.
+**How can you communicate from a Word add-in to an Office JS task pane? For example, OnContentEnter, highlight one HTML control in the task pane.**
 
-**I have some questions about the Outlook add-ins and Outlook REST V2 decommission. We provide our customers with Outlook add-ins that use the On-send feature. We are wondering if it will be extended only to existing customers or to new customers as well.**
+We see this question was also [posted to the Q&A site](https://docs.microsoft.com/answers/questions/827167/how-to-call-office-js-function-hosted-in-taskpane.html). You should be able to use the [onSelectionChanged](https://docs.microsoft.com/javascript/api/word/word.contentcontrol?view=word-js-preview#word-word-contentcontrol-onselectionchanged-member) event. If not, can you please follow up with more information on the Q&A site? Thanks!
 
-The exemption for Outlook add-ins using Outlook REST V2 applies to any add-ins created before November 2022.
+**During the last call, one of my questions was is possible to programmatically let the compose window disappear after the user clicks a custom "Encrypt and Send" button, as the mail already is encrypted. Then send the email as a MIME payload via the send message Graph API. You suggested to use smart alerts to handle the send event. However, this is not ideal for our use case. The on-send event is triggered on each email, but we want the user to deliberately decide via the custom button if they want to encrypt the email or not. Also, encrypting "on the fly" via OnMessage events is not on option as not every mail should be encrypted. Also, it does not work well with our custom encryption protocol. Hence, a feature request could be to programmatically discard the current composed mail, and subsequently close the compose form.**
 
-Case:
+We are not planning to override or suppress the native send button, nor to expose a cancel composition API. This can cause user confusion and could be used maliciously in some conditions. The scenario can still be solved with smart alerts. The key here is to combine the following things.
 
-* Tenant A has Outlook Add-in X using the On-send feature that was deployed before November 2022.
-    * If you request an exemption for Outlook Add-in X before November 2022 it will continue to work.
-* After November 2022, what happens if we delete the add-in X and then register it again?
-    * It will continue to work. You only need to register once at <https://aka.ms/RESTCheck>.
-* After November 2022, what happens if we register the add-in X for a new tenant B?
-    * Registrations at <https://aka.ms/RESTCheck> will not be accepted after November 2022. Be sure to register your add-in before then if you need to continue using the Outlook REST APIs
-* Is there any difference between registration by side-loading or by centralized deployment?
-    * We use the App ID that you register at <https://aka.ms/RESTCheck> to track apps and provide the exemption. Once registered your add-in will continue to work regardless of the deployment method you choose.
+* Custom properties
+* LaunchEvents (attachmentsChanges particularly)
+* Smart Alerts
 
-**We develop an Office.js add-in for Outlook that can encrypt/decrypt emails. We'd like the compose window to disappear after our "Encrypt and Send" button is clicked. Or we need a toggle such that a user can enable/disable encryption, and subsequently, our encryption process is done after the user clicks on the Send button (thus, an extended on-send feature, not only for validation purposes). Is one of those two features planned to be implemented anytime soon, or is it wise to consider developing our addin within VSTO?**
+Pre-conditions: we cannot override the “send” button in Outlook. This is also not a recommended experience for Outlook users who expect to send an item using the native “send” option. So, the ability to encrypt and send UEX-wise is not possible.
 
-You can accomplish this scenario using web add-ins and smart alerts. We recommend you combine this handling of the send event with event-based add-ins so you can encrypt the attachments as they are added on the email while composing, so that your on-send processing takes less time. We have a sample that shows how to do this at [https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/outlook-encrypt-attachments.](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/outlook-encrypt-attachments)
+1. Indeed the user needs to take an explicit action to encrypt the content. So there needs to be an “Encrypt Message” button. The button needs to open a task pane and ask the user what they want to encrypt (should the add-in encrypt the message? the attachments? all?) Also, the task pane can configure other settings or rules. For example, a rule like “always encrypt when sending messages to this particular customer”. Those can be stored as a mailbox setting, so that afterwards the setting can be honored when running the on-send event.
+2. When the user chooses the “Encrypt Message” button and configures what to encrypt, they can also create a custom property that serves as a flag for the onSend event. (i.e. pleaseEncrypt=true)
+3. Then in the onSend event, the first thing to do is to check the pleaseEncrypt custom property. If it does not exist it means the event needs to do nothing and just send the email.
+4. To avoid a heavy onSend management logic, consider encrypting attachments as they are added using the AttachmentAdd event.
 
-**Why is it not possible to use the mail in MIME format as payload in the request when trying to create a message within a mailFolder (via "POST /me/mailFolders/{id}/messages"), as it seems that only JSON is accepted here? But via /me/messages I can use MIME format.**
+**Do you plan to upgrade the Visual Studio Web Add-in templates to ASP.NET Core?**
 
-The best place to ask Microsoft Graph questions is at <https://aka.ms/askgraph>. When creating a draft email, it is typically created in the Drafts folder using “POST /me/messages”. This supports the MIME format. You can use “POST /me/mailFolders/{id}/messages” to create messages in any folder, although they will always be in draft mode. This did not seem like a likely scenario to support MIME. If there is a need for this please let us know more about your scenario at <https://aka.ms/askgraph>.
+We are looking into some updates to the Visual Studio Office Add-in templates, but don't have anything on the roadmap at this time. Please let us know more about what you'd like to see in these templates by posting a request at [https://aka.ms/m365dev-suggestions](https://aka.ms/m365dev-suggestions).
 
-**In Word desktop, with WebView2, if I reject the consent for audio/video recording for the first time, how can I change it or raise this question again? And a similar question, how can I disable or change the spellcheck settings in WebView2 in Word desktop?**
+**Has the PowerPoint API 1.3 been officially released to all platforms?**
 
-If consent was rejected, you need to clear the Office cache to raise the question again. For more information, see [Clear the Office cache - Office Add-ins \| Microsoft Docs](https://docs.microsoft.com/office/dev/add-ins/testing/clear-cache).
+The PowerPoint JavaScript API 1.3 requirement set is supported on Windows, Mac, and the web (but not iOS or mobile at this time.) See [PowerPoint JavaScript API requirement sets](https://docs.microsoft.com/javascript/api/requirement-sets/powerpoint/powerpoint-api-requirement-sets?view=powerpoint-js-preview) for complete details.
 
-Spellcheck settings are controlled at the webview level. For example, `\<div id="content" spellcheck="true"`.
+**If the task pane is specified in the add in manifest.xml that is installed by an admin, it will always show in Excel files. Is there a way for Excel add-ins that are installed by an admin to appear for a user or group only when the Excel file is created by the SaaS application, and not for existing or new Excel files created by the user?**
 
-**Where can I go to request feature enhancements for outlook, such as controlling the width of an Outlook add in?**
+The **Show Taskpane** commands appear in all Excel workbooks once an add-in is deployed. To hide a custom tab, certain properties on the workbook must be present. See the [visible property](https://docs.microsoft.com/javascript/api/office/office.tab?view=common-js-preview#office-office-tab-visible-member) for more information.
 
-Please let us know about any feature enhancements or suggestions at the Microsoft 365 developer platform ideas site <https://aka.ms/m365dev-suggestions>.
+**The manifest validation service continues to fail for the Outlook add-in ItemSend event (see https://github.com/OfficeDev/Office-Addin-Scripts/issues/613). Our organization wants to use our build pipeline as we did in the past for admin deployed add-ins.**
 
-**Are there any plans to have contextual tabs available for PowerPoint?**
+Thanks for pinging us on this. It's possible that the PowerShell command is using the store validation that ACCEPTS launch event annotations causing it to fail erroneously. We'll investigate more and follow up on the original GitHub issue.
 
-We currently don’t have plans to extend to PPT, if you would like to have contextual tabs in PPT, please post more information around your scenario at <https://aka.ms/m365dev-suggestions>.
+**Regarding Trident support, just for clarification, "support" could mean a friendly screen telling the user that Trident is not supported. Is that correct? "Not supporting" would mean some form of error and blank screen without any notification of what happens.**
 
-**Are you planning to make the Mail Compose Surface available on mobile?**
+Supporting really implies that your add-in provides some functionality in Trident. We know that for some customers this is not required so the bare minimum we are asking is to "fail gracefully", which is basically the friendly screen you are referring to. We have some folks who only show a blank page, so that was not good and we used to reject on that situation. We have some guidance on how to fail gracefully at [Determine at runtime if the add-in is running in Internet Explorer](https://docs.microsoft.com/office/dev/add-ins/develop/support-ie-11#determine-at-runtime-if-the-add-in-is-running-in-internet-explorer)
 
-Yes, we're planning to support it and are exploring various scenarios. We don't have a timeline to share yet.
+**Could AppSource submission provide a testing notes field with the submission that gets submitted with the app submission? Current testing notes always get lost between submissions! This might help get rid of the number one validation failures!**
 
-**Is it possible to customize the save dialog in Office (PPT, Word)?**
+You can attach a PDF to your submission that will stay for the lifetime of the validation even on subsequent submissions.
 
-We don’t have any way to customize the save dialog with Office Add-ins. If you could post an idea request at <https://aka.ms/m365dev-suggestions> we'd like to learn more about the scenarios where you would need to customize the save dialog.
+**Comment on AppSource: After submitting an update to an add-in, if the add-in is distributed to employees through Microsoft Admin Center, or Integrated apps, the add-in is never updated for the end-users (employees). Please could you review this issue?**
 
-**What's the best place to store an "access token" in the Excel add-in? The access token is received by third-party app.**
+This should not be the case; this could happen within 72 hours in the worst case. Depending on the type of add-in, there are a few conditions that require an admin to approve the update (i.e. if your add-in was updated to support SSO, or event-based in Outlook). If you can provide more details we can definitely help you (what type of add-in is this). Please let us know more at [office-js on Stack Overflow](https://stackoverflow.com) or the [Q&A forum](https://aka.ms/office-addins-dev-questions).
 
-In general it's not a good idea to store, or cache access tokens. You have to be very careful not to accidentally store the token in a way where malicious software could obtain it. Most libraries and APIs have a caching mechanism that you can take advantage of. For example, when calling the **getAccessToken** API in your Office Add-in, we recommend you call **getAccessToken** again whenever you need the token. Office caches it for you. If you are using the Microsoft Authentication Library, it also has caching that you can take advantage of. See [Acquire and cache tokens with Microsoft Authentication Library (MSAL) - Microsoft identity platform ...](https://docs.microsoft.com/azure/active-directory/develop/msal-acquire-cache-tokens), and [Enable single sign-on (SSO) in an Office Add-in - Office Add-ins \| Microsoft Docs](https://docs.microsoft.com/office/dev/add-ins/develop/sso-in-office-add-ins) for more details.
+**Regarding the add-in commands, there is noticeable lag between clicking a button and seeing the result. That lag does not exist when performing the exact same action from a task pane. Is there a reason for this, and a way around it?**
 
-**When creating an office-js add-in in the context of a larger solution that also integrates with Teams, which UI package is recommended: Fluent UI React or Fluent UI React Northstar? Would either of those be fine with a view to getting those apps accepted in the store? I would like to develop a solution for both Office (Word and Excel) and Teams, so the question is what the best starting point would be. I would like to avoid having to use two libraries.**
+When these commands are invoked, we start the runtime that is required to execute the action. This may result in the delay that you are experiencing. A work around is to use the shared runtime in your add-in. The shared runtime starts the same runtime as the task pane and it continues to run in the background even when the task pane is closed. This avoids having to start the runtime every time a ribbon button is invoked for an action. For more information, see [Configure your Office Add-in to use a shared JavaScript runtime](https://docs.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime).
 
-[Fluent UI v8](https://developer.microsoft.com/fluentui#/controls/web) is the current look of Office and other apps. Northstar is the system used by Microsoft Teams. We are building out Fluent UI v9 as a new system for both Teams and Office. v9 is still pretty early on, and still in release candidate for the initial base controls. For now, we recommend using Fluent UI v8.
+**For Ribbon commands, is it ever going to be possible to have multiple add-ins appear in the same group?**
 
-**Is there a roadmap for future PowerPoint APIs beyond the preview API sets?**
+This is not something we are currently focused on. Please let us know more about this scenario at https://aka.ms/m365dev-suggestions.
 
-We'll be posting roadmaps for PowerPoint APIs and other features to the [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap) soon.
+**Will Office.actions.associate be recognized by the Intellisense in VS Code similar to CustomFunctions.associate?**
+
+Yes, the associate API should be recognized by Intellisense. Please be sure to have the latest [office-js type library](https://www.npmjs.com/package/@types/office-js).
+
+**Is the new Answers Q&A forum just for users to ask questions about existing functionality?**
+
+You can ask any technical question you need help with. We monitor both [office-js questions on Stack Overflow](https://stackoverflow.com) and the [Q&A forum](https://aka.ms/office-addins-dev-questions).
+
+**Is it recommended to post to this newer feedback portal, stick to the M365 developer tools, or post on GitHub?**
+
+That is exactly what we're trying to determine. If we're going to ask customers to move yet again to a new forum, we want to be sure we're going to support it! Stay tuned, we'll get there. For the moment, we're using https://aka.ms/m365dev-sugggestions.
+
+**Will Office.auth.getAccessToken ever return a Graph API compatible token?**
+
+We're investigating this. Ideally, we want to allow the same operations that we allow on Exchange Web Services (EWS). But there's a lot of complexity to solve to allow this. We'll let you know if we have updates. In the meantime, the recommended flow is that the server should get the Graph token using the [OAuth 2.0 On-Behalf-Of flow (OBO)](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow).
+
+**This might have come up before but since mobile add-ins only support the REST API, and REST is being decommissioned this year, any Outlook add-in on mobile that relies on REST API functionality with getAccessToken is going to break when REST API goes away right? There's no support for IdentityAPI 1.3 on mobile so no getAccessToken for Graph so no auth path it can take yeah?**
+
+For mobile, the alternative is to use Exchange Web Services (EWS). You can also request an exception at [https://aka.ms/RESTCheck](https://aka.ms/RESTCheck) that also applies to mobile. If your add-in is using REST before the November 2022 decommission date, it will be allowed to work until we end support for Office 2019.
+
+**Does the add-in's getCallbackTokenAsync work on mobile to get a token that can be used against EWS on the server for authentication as the add-in user?**
+
+Yes, this should work. We do have customers who have implemented a service middle tier to call EWS on environments not supporting REST (like Exchange 2013 on premise). You can also use that technique to use Microsoft Graph. This is all valid if your add-in is accessing Exchange 2013 on premise.
 
 ## References
 
 * **AppSource Add-in Validation Improvements**
-    * Documentation - [App validation documentation](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/Office%20Videos/Add%20In%20Calls/2022-05-11-OfficeAdd-ins/App%20validation%20documentation)
-    * Documentation - [Microsoft AppSource submission FAQ](https://docs.microsoft.com/office/dev/store/appsource-submission-faq)
+    * Documentation – [Test your Office Add-in on Internet Explorer](https://docs.microsoft.com/office/dev/add-ins/testing/ie-11-testing)
+    * Documentation – [Microsoft AppSource submission FAQ](https://docs.microsoft.com/office/dev/store/appsource-submission-faq)
     * Article – [Announcing WebView2 for Office Add-ins Platform – Preview](https://devblogs.microsoft.com/microsoft365dev/announcing-webview2-for-office-add-ins-platform/)
 
 * **Blazor in Office Add-ins (Demo)**
-    * Sample - [Create a Blazor Webassembly Word add-in](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/word-blazor-add-in)
-    * Videos channel – [Maarten van Stam - Soft As In Software](https://www.youtube.com/SoftAsInSoftware)
+    * Sample – [Create a Blazor Webassembly Word add-in](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/word-blazor-add-in)
+    * Videos channel – [Maarten van Stam – Soft As In Software](https://www.youtube.com/SoftAsInSoftware)
     * Twitch – [Soft As In Software](https://www.twitch.tv/softasinsoftware)
 
 * **Add-in command changes**
-    * Article - [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/)
-    * Samples - [Office Add-in commands](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/office-add-in-commands)
-    * Documentation - [Create add-in commands in your manifest for Excel, PowerPoint, and Word](https://docs.microsoft.com/office/dev/add-ins/develop/create-addin-commands)
+    * Article – [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/)
+    * Samples – [Office Add-in commands](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/office-add-in-commands)
+    * Documentation – [Create add-in commands in your manifest for Excel, PowerPoint, and Word](https://docs.microsoft.com/office/dev/add-ins/develop/create-addin-commands)
     * Issues – [Office Add-ins issues](https://github.com/OfficeDev/office-js/issues)
 
 * **Community ideas**
-    * Suggestions - [Microsoft 365 Developer Platform Ideas - Office Add-ins](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform) \| [aka.ms/m365dev-suggestions](https://aka.ms/m365dev-suggestions)
-    * Issues - [OfficeDev/office-js/issues](https://github.com/OfficeDev/office-js/issues)
-    * Forum - [Microsoft Ideas forum - Feedback Portal](https://feedbackportal.microsoft.com/feedback)
+    * Suggestions – [Microsoft 365 Developer Platform Ideas – Office Add-ins](https://aka.ms/m365dev-suggestions) \| [aka.ms/m365dev-suggestions](https://aka.ms/m365dev-suggestions)
+    * Issues – [OfficeDev/office-js/issues](https://github.com/OfficeDev/office-js/issues)
+    * Forum – [Microsoft 365 Developer Ideas forum](https://feedbackportal.microsoft.com/feedback)
     * Feedback on Feedback – how should people contact you regarding our presentation today?
 
 * **Office Add-ins community call**
@@ -169,11 +187,11 @@ We'll be posting roadmaps for PowerPoint APIs and other features to the [Microso
 
 ## Stay connected
 
-* See the full blog post for this call in the Microsoft 365 platform community blog - <https://aka.ms/m365pnp/blog>
-* Twitter - [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​
-* Microsoft 365 Platform Community in YouTube - <https://aka.ms/m365/videos>
-* Link to all Microsoft Developer Community calls - <https://aka.ms/M365DevCalls>
-* Submit questions for next community call - <https://aka.ms/officeaddinsform>
-* Next community call – June 8th at 08:00am PT - <https://aka.ms/officeaddinscommunitycall>
+* See the full blog post for this call in the Microsoft 365 platform community blog – <https://aka.ms/m365pnp/blog>
+* Twitter – [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​
+* Microsoft 365 Platform Community in YouTube – <https://aka.ms/m365/videos>
+* Link to all Microsoft Developer Community calls – <https://aka.ms/M365DevCalls>
+* Submit questions for next community call – <https://aka.ms/officeaddinsform>
+* Next community call – June 8th at 08:00am PT – <https://aka.ms/officeaddinscommunitycall>
 
 {{< attachments >}}
