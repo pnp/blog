@@ -46,7 +46,7 @@ Latest updates and news on Power Platform including 2 articles and 3 training op
 
 ## Together Mode
 
-![PowerApps-CommunityCall-TogetherMode-220518-together-mide.gif](images/PowerApps-CommunityCall-TogetherMode-220518-together-mode.gif)
+![Attendees waving hands in Microsoft Teams together mode picture](images/220518-together-mode.gif)
 
 What time is it? It’s optional picture time! Great to see so many smiling faces. The mood is contagious. Thank you for joining the call today.
 
