@@ -11,7 +11,7 @@ tags: ["Adaptive Cards", "Community Call", "Microsoft 365"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=3nZRgt-WUv0
-- draft: true
+- draft: false
 ---
 
 ## Call summary
@@ -31,11 +31,16 @@ In this month’s community call. Featured demo - Handling multi-user responses 
 
 *  **Handling multi-user responses for Adaptive Cards in Microsoft Teams** – posting a card (requesting information from meeting attendees) with Power Automate in a Teams meeting chat. The card can handle multiple responses to it (evidenced in multiple responses in meeting chat). Every time a person responds to the card (trigger), a Planner task is created. The solution requires 2 flows - Trigger (Response Handling Flow) and Action (Card Posting Flow). Available in Preview today.
 
+In the post demo Q&A with Josh, he gave viewers a first look at 2 more features to be released soon:
+
+*   **Update an Adaptive Card in a chat or channel** - build an instant cloud flow from compose Box v2 and add a message extension trigger – Button that updates an Adaptive Card dynamically in chat. Makes the flow synchronous.
+*   **Respond in Teams Task Module with Messaging Triggers** - Using the V2 for a selected message or V2 from the compose box trigger you will *soon* be able to use a new action, Respond in Teams Task Module action which takes an adaptive card as an input and will synchronously run the flow and then show this card in the same task module. This allows for immediate feedback upon completion of the flow in the same context that it was triggered.
+ 
 ## Demo References
 
 *  **Handling multi-user responses for Adaptive Cards in Microsoft Teams** - 
     * Article – [Microsoft Power Automate: Post Adaptive cards to a Microsoft Teams for an Approval](https://powerusers.microsoft.com/t5/Power-Automate-Community-Blog/Microsoft-Power-Automate-Post-Adaptive-cards-to-a-Microsoft/ba-p/658693)
-  
+
 
 ## Actions
 
@@ -77,3 +82,4 @@ In this month’s community call. Featured demo - Handling multi-user responses 
 * Microsoft 365 Platform Community - <https://aka.ms/m365pnp>
 
 {{< attachments >}}
+
