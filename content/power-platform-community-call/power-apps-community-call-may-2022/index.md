@@ -1,6 +1,6 @@
 ---
 title: "Power Platform Community Call – May 2022"
-date: 2022-05-18T12:08:00-04:00
+date: 2022-05-19T04:00:00-05:00
 author: "David Warner II"
 githubname: PopWarner
 categories: ["Power Apps community call"]
