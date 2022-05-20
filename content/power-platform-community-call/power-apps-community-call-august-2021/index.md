@@ -15,19 +15,19 @@ type: "regular"
 Topics covered in this month's community call include demos in
 
 - Performance Insights (a new Power Apps self-service tool that analyzes
-runtime user data, makes efficiency recommendations), 
+runtime user data, makes efficiency recommendations),
 - Event Calendar
 Power App (See event dates in month and full year views by country. 
  Simplify event scheduling by comparing holidays in up to 4 countries),
 - How To Feed Your Dragon Game (a Demo Extravaganza 2021 entry.  3 games,
 3 levels of difficulty - dialed up/down through variable record) along
-with Recent Power Apps News and Community Contributions, and more!  
+with Recent Power Apps News and Community Contributions, and more! 
 
 This
 session included Q&A in chat.  The call was hosted by [Todd
 Baginski](https://twitter.com/toddbaginski) (Canviz).  Demo presenters
 are Varda Shrivastava, Juli Reid, and [Gerard
-Simpson](https://twitter.com/PowerFanAddict). 
+Simpson](https://twitter.com/PowerFanAddict).
 
 This call was recorded on
 August 18, 2021.  Thank for attending the call or viewing it on demand. 
@@ -87,7 +87,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
     <https://powerapps.microsoft.com/blog/announcing-command-designer-with-power-fx-preview/>
 -   Announcing the public preview for connection references support in
     Power Platforms Tools -
-    [https://powerapps.microsoft.com/blog/announcing-the-public-preview-for-connection-references-s\...](https://powerapps.microsoft.com/blog/announcing-the-public-preview-for-connection-references-support-in-power-platforms-tools/)
+    [https://powerapps.microsoft.com/blog/announcing-the-public-preview-for-connection-references-support-in-power-platforms-tools/](https://powerapps.microsoft.com/blog/announcing-the-public-preview-for-connection-references-support-in-power-platforms-tools/)
 
 ## Actions
 

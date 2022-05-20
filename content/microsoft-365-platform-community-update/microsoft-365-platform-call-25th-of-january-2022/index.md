@@ -64,11 +64,11 @@ Thank you everybody for joining the call today.  Great to see a full auditorium
 Demos delivered in this session
 
 *   **Latest with Microsoft Graph connectors** – used to bring external data into Microsoft Search and other Microsoft 365 experiences.  Overview including supported hubs, query experience, development, and Administration.  130+ connectors currently.  Build a custom connector – create a connection (container for external data on Graph), register the schema (define labels or metadata for data), ingest items (into the connection).  Customize for verticals, setup custom filters.  See how data renders in Microsoft Search. 
-    
+
 *   **When to build Viva Connections Adaptive Card Extensions** – and not a web part?  Think Lightweight (mobile first), Immediate (single idea, actionable) and Personal (provide direct value to user).  Link out to richer experiences – Teams apps, SharePoint page, SaaS solutions.   ACE use cases include – solicit feedback, track task status, check paystub, clock in/out, book travel...  ACEs can be location based, allow audience targeting, and deliver an organization’s mobile portal experience.   
-    
+
 *   **Microsoft Graph Toolkit – Using the Teams Channel Picker Component in your solutions** – this session opens with an overview of Microsoft Graph then dives into the Teams Channel Picker component that can display channels user is a member, find a channel and show members, and send a message to channel users.  Not only can you get data from Graph, but post data via Graph and optionally add a custom template experience.  See code and rendering side-by-side.
-    
+
 
 Thank you for your work. Samples are often showcased in Demos.
 
@@ -86,37 +86,37 @@ Topics covered in this call
 Additional resources around the covered topics and links from the slides.
 
 *   **D1**:  Repo - [Microsoft Graph connector Sample](https://github.com/microsoftgraph/msgraph-search-connector-sample) 
-    
+
 *   **D1**:  Documentation - [Overview of Microsoft Graph connectors](https://docs.microsoft.com/MicrosoftSearch/connectors-overview) | aka.ms/GraphConnectors
-    
+
 *   **D1**:  Documentation - [Microsoft Graph connectors overview](https://docs.microsoft.com/graph/connecting-external-content-connectors-overview) | aka.ms/GraphConnectorsAPI
-    
+
 *   **D1**:  Catalog - [Microsoft Graph connectors](https://www.microsoft.com/microsoft-search/connectors/) | aka.ms/GraphConnectorsCatalog
-    
+
 *   **D1**:  Feedback - [Feedback: Microsoft Graph Connectors](https://aka.ms/GraphConnectorsFeedback) | aka.ms/GraphConnectorsFeedback
-    
+
 *   **D1**:  Preview - [Preview of Microsoft Graph Connectors and features - sign up here](https://aka.ms/GraphConnectorPreview) | aka.ms/GraphConnectorPreview
-    
+
 *   **D1**:  Blog - [What’s new and what’s next for Microsoft Graph connectors](https://techcommunity.microsoft.com/t5/microsoft-search-blog/what-s-new-and-what-s-next-for-microsoft-graph-connectors/ba-p/2913895) | 
-    
-*   **D2**:  PnP JS Library - [@pnp/odata/caching](https://pnp.github.io/pnpjs/odata/caching/) 
-    
+
+*   **D2**:  PnP JS Library - [@pnp/odata/caching](https://pnp.github.io/pnpjs/concepts/batching/) 
+
 *   **D2**:  Repo - [SharePoint Framework Reference Samples](https://github.com/pnp/spfx-reference-scenarios) 
-    
+
 *   **D3**:  Documentation - [Microsoft Teams Channel Picker component in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/components/teams-channel-picker) 
-    
+
 *   **D3**:  Repo - [MGT Sandbox](https://github.com/sebastienlevert/mgt-sandbox) Seb’s demos 
-    
+
 *   **D3**:  MGT Playground – [Teams Channel Picker](https://mgt.dev/?path=/story/components-mgt-teams-channel-picker--teams-channel-picker) 
-    
+
 *   **D3**:  Repo – [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) | [aka.ms/mgt](https://aka.ms/mgt)
-    
+
 *   **D3:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://docs.microsoft.com/graph/toolkit/overview) | [aka.ms/MGT/docs](https://aka.ms/MGT/docs)
-    
+
 *   **D3:**  Learn - [Develop apps with the Microsoft Graph Toolkit](https://aka.ms/mgt/learn) | [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
-    
+
 *   Previous demos delivered by [Sébastien Levert](https://twitter.com/sebastienlevert) on Microsoft Graph Toolkit (MGT)
-    
+
     *   [Discover the Microsoft Graph Toolkit](https://youtu.be/JkgFrbtwdJU?t=476) – 7 December 2021
     *   [Microsoft Graph Toolkit – Using Login Component in your solutions](https://youtu.be/HfBVaeGRDw8?t=2375) – 14 December 2021
     *   [Microsoft Graph Toolkit – Using the Person Component in your solutions](https://youtu.be/kZ_JwZpbJb4?t=1158) – 4 January 2022

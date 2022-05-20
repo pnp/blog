@@ -179,7 +179,7 @@ slides.
     aka.ms/ge
 
 -   **D2**:  PnP/PnPjs Library -
-    [@pnp/odata/caching](https://pnp.github.io/pnpjs/odata/caching/) 
+    [@pnp/odata/caching](https://pnp.github.io/pnpjs/concepts/batching/) 
 
 -   **D2**:  Samples - [SharePoint Framework Reference
     Samples](https://github.com/pnp/spfx-reference-scenarios) 
@@ -325,7 +325,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free
