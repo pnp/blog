@@ -35,6 +35,7 @@ https://cdn.contoso.com
 https://constoso.sharepoint.com/.*
 https://contoso.com/.*
 https://contoso.sharepoint.com/.*
+https://yourtenant.sharepoint.com/.*
 https://damobird365.birdhoose.co.uk/.*
 https://developer.microsoft.com/microsoft-365/blogs/.*
 https://docs.microsoft.com/answers/.*
@@ -55,9 +56,7 @@ https://www.m365devpodcast.com/e/
 https://www.pvx-solutions.com/
 https://www.register.mbas.microsoft.com/
 https://www.twitter.com/.*
-https://www.youtube.com/watch?v=
-https://www.youtube.com/watch?v=:
-https://www.youtube.com/watch?v=ANvZcOXFm7w
+https://www.youtube.com/watch?v=*
 https?://localhost.*
 Ida.Stevens@contoso.com
 ldap://.*
@@ -67,3 +66,5 @@ react-dom@.*
 react@.*
 steve@contoso.onmicrosoft.com
 tailwindcss@.*
+https://adoption.microsoft.com/.*
+https://aka.ms/m365/extensibility
