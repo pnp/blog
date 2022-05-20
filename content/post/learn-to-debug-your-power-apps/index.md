@@ -56,7 +56,7 @@ mess with the progress you've made so far.
 A duplicated screen is like an additional save game slot, just to make
 sure. If you break everything, you can always go back.  
 
-![](images/Picture1.png) 
+![](images/Picture1.png)
 
 ### 2. Use debug label
 
@@ -151,7 +151,7 @@ in your organization has access to those. If you published and shared
 your app, ask yourself if everyone who wants to use it has access to the
 data source you used.
 
-### 7. Name the elements you use, as you build them 
+### 7. Name the elements you use, as you build them
 
 Develop the habit of re-naming your screens and elements as you build
 them. That will keep you a lot of frustration and time. Especially if
@@ -209,11 +209,11 @@ Also, the brain processes things differently when you not only think
 about them but write them down. This additional occupation with learning
 content consolidates what you just learned.
 
-### 10. The world gains beauty through all its colors 
+### 10. The world gains beauty through all its colors
 
 If you want to make your app pretty and professional (I recommend Luise
 Freese's latest blog "[How to beautify your Power
-Apps](https://m365princess.com/how-to-beautify-your-power-apps/)" on
+Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-beautify-your-power-apps/)" on
 that) you want to use more then the set of standard colors. But I can be
 a lot of work to paste all the color codes in every single element you
 have in your app.

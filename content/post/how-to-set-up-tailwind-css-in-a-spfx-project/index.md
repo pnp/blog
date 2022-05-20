@@ -11,7 +11,7 @@ type: "regular"
 ---
 
 In the [State of CSS 2020
-survey](https://2020.stateofcss.com/technologies/css-frameworks/css_frameworks_experience_ranking), the [Tailwind
+survey](https://2020.stateofcss.com/en-US/technologies/css-frameworks/), the [Tailwind
 CSS](https://tailwindcss.com/)
 becomes the number 1 CSS Framework in terms of **Satisfaction** and
 **Interest** in the last 2 years. It also gets the awards for **The Most

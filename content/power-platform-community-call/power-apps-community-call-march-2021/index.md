@@ -46,7 +46,7 @@ Topics covered in this month's community include Creating Responsive Dataverse f
 ## Recent News & Cool Stuff
 
 -   Introducing Power Apps mobile app's new look (public preview)
-    - [https://powerapps.microsoft.com/blog/introducing-power-apps-mobile-apps-new-look-public-previe\...](https://powerapps.microsoft.com/blog/introducing-power-apps-mobile-apps-new-look-public-preview)
+    - [https://powerapps.microsoft.com/blog/introducing-power-apps-mobile-apps-new-look-public-preview](https://powerapps.microsoft.com/blog/introducing-power-apps-mobile-apps-new-look-public-preview)
 -   Power Apps Custom Functions Library
     - <https://github.com/yourekittenme/powerapps-custom-functions>
 -   Power Apps Demo Extravaganza 2021
