@@ -27,12 +27,6 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * Project releases
     * [PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/) v3.3.2 GA
     * [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) v5.3.0 beta
-* Extension samples
-    * processing
-* Web part samples
-    * processing
-* ACE samples
-    * processing
 * Microsoft 365 PnP Weekly – Episode 166 (May 16th) with US-based Principal PM Lead, DevDiv, VS extensions - Pierce Boggan (Microsoft) \| @pierceboggan \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-166/) \| [podcast](https://www.podbean.com/media/share/pb-66mt4-122a0e4)
 * Microsoft 365 PnP Weekly – Episode 165 (May 2nd) Finland-based software architect and Office Developer MVP [Laura Kokkarinen](http://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/) \| [podcast](https://www.podbean.com/media/share/pb-96zpk-12216e6)
 
