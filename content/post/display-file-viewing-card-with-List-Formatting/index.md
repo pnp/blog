@@ -89,5 +89,9 @@ The above procedure completes the application of the file viewing card.
 
 ## Additional notes
 
+- Some file types may not be supported for display.
+
+## Additional references
+
 - [Use view formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting)
 - [Formatting syntax reference](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/formatting-syntax-reference)
