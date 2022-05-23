@@ -12,7 +12,7 @@ type: "regular"
 
 In List Formatting, `filepreview` can be set to `elmType`. Then, by setting the URL of the file or thumbnail image to its `src` attribute, the set image or file can be previewed.
 
-So, I used this `filepreview` to create a column formatting that displays files on a custom card for quick and easy file viewing. With this column formatting, you can see the files without having to transition to the screen.
+So I got the idea from [Hubert Lam's tweet](https://twitter.com/z3019494/status/1526424899060846597) and used this `filepreview` to create a column format that displays files on a custom card for quick and easy file viewing. With this column format, you can view files without having to transition between screens.
 
 ![sample](images/sample.gif)
 
