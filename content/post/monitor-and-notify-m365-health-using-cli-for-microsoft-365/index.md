@@ -41,7 +41,7 @@ cross-platform
 CLI](https://pnp.github.io/cli-microsoft365/about/why-cli/) and is
 independent of the OS platform which you use.
 
-## Index 
+## Index
 
 -   [Solution](#solution)
 -   [Index](#index)
@@ -74,9 +74,9 @@ independent of the OS platform which you use.
 -   [Need to know more on how to use CLI for Microsoft
     365](#need-to-know-more-on-how-to-use-cli-for-microsoft-365)
 
-## Implementation 
+## Implementation
 
-### Authentication and Login 
+### Authentication and Login
 
 The biggest advantage CLI for Microsoft 365 has is its ability
 to [Persist Connection
@@ -93,11 +93,9 @@ certificate](https://pnp.github.io/cli-microsoft365/user-guide/connecting-office
 you prefer that approach.
 
 
-### Get status of Tenant 
+### Get status of Tenant
 
-The first step for the script is to get the current status using [tenant
-status
-list](https://pnp.github.io/cli-microsoft365/cmd/tenant/status/status-list/) command.
+The first step for the script is to get the current status using [tenant service announcement health list](https://pnp.github.io/cli-microsoft365/cmd/tenant/serviceannouncement/serviceannouncement-health-list/) command.
 In our case, we just want to get the services which are not normal.
 Here, we use the tenant status list command and would pass [JMESPath
 Query](https://jmespath.org/) since CLI for Microsoft 365 supports that.
@@ -121,7 +119,7 @@ m365 tenant status list --query "value[?Status != 'ServiceOperational']"  --outp
 
 
 
-### Pushing to SharePoint list when Services are not normal 
+### Pushing to SharePoint list when Services are not normal
 
 #### SharePoint List
 
@@ -135,7 +133,7 @@ accordingly). In my case, SharePoint List look something like below
 
 ![ArjunMenon_0-1637745741073.jpeg](images/ArjunMenon_0-1637745741073.jpeg)
 
-#### Adding to SharePoint List if a Service is not Normal 
+#### Adding to SharePoint List if a Service is not Normal
 
 We will be using [spo listitem
 add](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-add/) which
@@ -175,9 +173,9 @@ below. 
 
 ![ArjunMenon_1-1637745741149.jpeg](images/ArjunMenon_1-1637745741149.jpeg)
 
-### Send email to any users using CLI for Microsoft 365 
+### Send email to any users using CLI for Microsoft 365
 
-#### Send email when the service is NOT Operational 
+#### Send email when the service is NOT Operational
 
 CLI for Microsoft 365 gives us the power of sending an email using the
 command [outlook
@@ -197,7 +195,7 @@ Command may look something like below,
 m365 outlook mail send --to "recipient@yourtenant.onmicrosoft.com" --subject "Outage Reported in $($workload.WorkloadDisplayName)" --bodyContents "Any outage has been reported for the Service : $($workload.WorkloadDisplayName) <a href='https://yourtenant.sharepoint.com/sites/M365CLI/Lists/O365%20Health%20Status'>Access the Health Status List</a>" --bodyContentType HTML
 ```
 
-#### Send email when the service is back to Operational 
+#### Send email when the service is back to Operational
 
 Getting notification when the service is back to normal is equally
 important compared to the [notification when a Service is not
@@ -238,7 +236,7 @@ What we do in the above code is,
 -   Send email to recipients informing that the Service is back to
     Normal
 
-## Bonus Solution - Configure Power Automate for doing any Business Process 
+## Bonus Solution - Configure Power Automate for doing any Business Process
 
 As we may know [Power
 Automate](https://flow.microsoft.com/) provides rich features
@@ -277,14 +275,14 @@ you have some business logic which needs to be in place with this, it
 always gives you the flexibility for the same. Just giving a glimpse of
 my simple Power Automate screen below,
 
-### Power Automate - Creation Trigger 
+### Power Automate - Creation Trigger
 
 Below Power Automate will do the process when a new outage is reported
 by the script 
 
 ![ArjunMenon_2-1637745741136.jpeg](images/ArjunMenon_2-1637745741136.jpeg)
 
-### Power Automate - On Modified 
+### Power Automate - On Modified
 
 Below is the Power Automate which is created when existing outage is
 modified, which means one of the current Service which was **NOT
@@ -295,12 +293,12 @@ OPERATIONAL** is changed to **OPERATIONAL**
 
 ![ArjunMenon_4-1637745741165.jpeg](images/ArjunMenon_4-1637745741165.jpeg)
 
-## PowerShell Scripts 
+## PowerShell Scripts
 
 As mentioned above, in my case, I have used PowerShell for scripting the
 requirement. You can access the scripts which I have used from below.
 
-### Complete Script - Easily understandable 
+### Complete Script - Easily understandable
 
 Below script is the similar implementation of the [Production Read
 Script](https://arjunumenon.com/tenant-status-solution-m365cli/#simple-script---production-ready-lines-of-code--4).
@@ -313,7 +311,7 @@ $LoginStatus = m365 status
 
 if($LoginStatus -Match "Logged out"){
     #Exiting the execution
-    exit;    
+    exit;
 }
 
 $webURL = "https://contoso.sharepoint.com/sites/HealthStatusSite"
@@ -341,7 +339,7 @@ Foreach ($currentOutageService in $currentOutageServices){
 }
 ```
 
-### Simple Script - Production Ready (Lines of Code : 4) 
+### Simple Script - Production Ready (Lines of Code : 4)
 
 In the below script, I have used PowerShell piping and hence the script
 may look complicated. But it hardly has 3 lines of code which does the
@@ -361,7 +359,7 @@ $currentOutageServices | ?{$_.Workload -notin $workLoads.Workload} | %{ $Updated
 ```
  
  
-## Schedule the script 
+## Schedule the script
 
 The last part of the solution is to schedule the script which we have
 created. In my case, I have scheduled the script to run every half an
@@ -378,7 +376,7 @@ blog](https://o365reports.com/2019/08/02/schedule-powershell-script-task-schedul
 it has explained how to configure PowerShell
 
 
-## Complete Scripts 
+## Complete Scripts
 
 Too lazy to build scripts. Don't worry. We got your back. Now the
 complete script package is available in the CLI for Microsoft
