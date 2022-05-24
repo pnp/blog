@@ -78,10 +78,11 @@ https://elischei.com
 https://quickbooks.intuit.com
 https://medium.com/re-office-365
 https://www.wortell.nl
+https://www.cubido.at/
 
-https://twitter.com/*
-https://www.twitter.com/*
-http://twitter.com/*
+https://twitter.com/.*
+https://www.twitter.com/.*
+http://twitter.com/.*
 https://www.linkedin.com/.*
 https://linkedin.com/.*
 https://www.youtube.com/watch.*
