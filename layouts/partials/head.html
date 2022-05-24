@@ -59,7 +59,7 @@
     {{ end }}
   {{ end }}
 {{ else }}
-<meta property="og:image" content="{{ site.Params.image | absURL }}" />
+<meta property="og:image" content="{{ site.Params.socialFallbackImage | absURL }}" />
 {{end}}
 
 <meta name="twitter:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}" />
