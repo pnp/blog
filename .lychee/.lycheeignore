@@ -72,8 +72,11 @@ https://regarding365.com/.*
 https://greenthumb.powerappsportals.com
 https://tahoeninjas.blog
 https://emilymancini.com
+https://eemancini.github.io
 https://m365princess.com
 https://elischei.com
+https://quickbooks.intuit.com
+https://medium.com/re-office-365
 
 https://twitter.com/*
 https://www.twitter.com/*
@@ -94,4 +97,4 @@ microsoft/generator-sharepoint@.*
 yo@.*
 gulp@.*
 https://sp2016.*
-'+'@currentField.desc
+.*@currentField.*
