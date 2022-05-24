@@ -10,7 +10,6 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=RGvSc5Gm86A
-draft: false
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Helsinki-based software engineer, PowerShell maintainer and Office Apps and Services MVP [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Solutions) \| @gautamdsheth. 
