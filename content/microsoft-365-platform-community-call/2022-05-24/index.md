@@ -35,7 +35,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 ## Agenda items
 
-* Topic - Introduction to Microsoft Viva ISV benefits program - [Gloria Sánchez](https://www.linkedin.com/in/glosanchez/) (Microsoft) – [3:28](https://youtu.be/H27wIjW4BNA?t=208)
+* Topic - Introduction to Microsoft Viva ISV benefits program - [Gloria Sánchez](https://www.linkedin.com/in/glosanchez/) (Microsoft) & [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [3:28](https://youtu.be/H27wIjW4BNA?t=208)
 * Microsoft Build 2022 Keynote Watch party – [12:50](https://youtu.be/H27wIjW4BNA?t=770)
 
 ## Actions
