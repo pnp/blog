@@ -8,9 +8,9 @@ images:
 - images/recording-26th-may.png
 tags: []
 type: "regular"
-summary: "Demos:  How to build a SSO bot using yo teams for Microsoft Teams, List formatting magic – Advance discussion board formatting with Power Automate, and Taking advantage of new multi-lingual capabilities in list formatting.  Released Yo teams previews, 3 scripts, 1 Teams sample!"
+summary: "Demos - Independent Publishing Connectors Case - Netherland Railroads, Data Loss Prevention (DLP) solution for emails with Microsoft Graph, and TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo. Released MGT v2.5.2, 3 script samples."
 videos:
-- https://www.youtube.com/watch?v=SM_KlEcefcw
+- https://www.youtube.com/watch?v=Yx9-HUaJsak
 draft: false
 ---
 
@@ -21,61 +21,58 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 
 ### New this week
 
-* Agenda set for next [Microsoft 365 platform call](https://aka.ms/m365-dev-call) - Tuesday, May 17, 8:00 am PT.
+* Agenda set for next [Microsoft 365 platform call](https://aka.ms/m365-dev-call) - Tuesday, May 31, 8:00 am PT.
     * Latest news from Microsoft engineering on Microsoft 365 topics
-    * **Mounika Narayanan** - Integrate Graph connector content on Office.com
-    * **Waldek Mastykarz** and **Paolo Pialorsi** - Your Microsoft 365 app within the fingertips of employees with Viva Connections
+    * Microsoft Build 2022 - Recap of the key announcements
+    * **David de Matheu** - Get started with UI Library for Azure Communication Services
+    * **Luis Ramos Vea & Rabeb Othmani** - Latest on Microsoft Graph developer portal updates
 * Project releases
-    * Yo teams - generator-teams - v4.0.0-preview.1
-    * [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core) - v1.7.0-preview.2
-    * [Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy) - v1.2.0-preview.2
+    * [Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - v2.5.2 GA
+    * [PnP PowerShell](https://github.com/pnp/PnP-PowerShell) - released new Docker image, new commands, and bug fixes
 * Script samples
-    * Updated - [Testing user preferred language of SharePoint Site](https://pnp.github.io/script-samples/user-language-for-site/README.html?tabs=pnpps) - [Adam Wójcik](http://twitter.com/Adam25858782) \| @Adam25858782
-    * Updated - [Update User Profile Properties](https://pnp.github.io/script-samples/spo-update-user-profile-properties/README.html?tabs=pnpps) - [Jasey Waegebaert](https://github.com/Jwaegebaert) \| Jwaegebaert
-    * Updated - [Flow run day summary](https://pnp.github.io/script-samples/flow-runs-day-summary/README.html?tabs=cli-m365-ps) - [Leon Armston](http://twitter.com/LeonArmston) \| @LeonArmston
-* Microsoft Teams samples
-    * [HR Talent App Node](https://github.com/OfficeDev/msteams-sample-contoso-hr-talent-app-node) - [Scott Perham](https://github.com/scottperham) \| scottperham and [Jack Lewis](https://linkedin.com/in/jacklewis123) \| jacklewis123
-* Microsoft 365 PnP Weekly – Episode 165 (May 2nd) Finland-based software architect and Office Developer MVP [Laura Kokkarinen](http://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/) \| [podcast](https://www.podbean.com/media/share/pb-96zpk-12216e6)
+    * New scenario - [Planner migration to SharePoint list](https://pnp.github.io/script-samples/planner-migration-spo-list/README.html?tabs=cli-m365-ps) - [Albert-Jan Schot](http://twitter.com/appieschot) \| @appieschot
+    * 2 New scenarios - [SharePoint Online Hub Site Association *(SPO MS + PnP PS)*](https://pnp.github.io/script-samples/spo-hub-sites-association/README.html?tabs=pnpps) - [Chandani Prajapati](http://twitter.com/Chandani_SPD) \| @Chandani_SPD
+* Microsoft 365 PnP Weekly – Episode 167 (May 23rd) with Helsinki-based software engineer, PowerShell maintainer and Office Apps and Services MVP Gautam Sheth (Valo Solutions) \| @gautamdsheth. \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-167/) \| [podcast](https://www.podbean.com/media/share/pb-2jtm9-1232f34)
 
 ### Demos
 
-* **How to build a SSO bot using yo teams for Microsoft Teams** – for your SSO-based bot, start with yo Teams, an Azure bot service instance and an Azure AD App registration. In Azure add a new OAuth setting (Configuration), select API permissions, and Expose an API. Build your bot using yo teams, update Teams app manifest, etc. This bot starts by authenticating user – token from Azure AD or Teams, then calls Graph for user related information.
-* **List formatting magic – Advance discussion board formatting with Power Automate** - using JSON formatting to transform out-of-box discussion board to next level discussion view. Add menu with support features (permission checker, default editing, comments & responses to post), add a custom discussion board timeline view, support information lookup (discussion answers list), and add voting with Emoji’s. leverages existing capabilities – SharePoint page, filter web parts, Microsoft Power Automate (declarative JSON for Flow), and Microsoft Teams.
-* **List formatting magic – Taking advantage of new multi-lingual capabilities in list formatting** - jazz up percentage amounts in a column using a number level bar and then add a localizable textual interpretation to the amounts. Localize the text using the @lcid token (magic). Localizing text in a list side-steps complicated page translations and ensures users in various regions can use your formats without issue. Observe simplicity of copying JSON from sample into the column’s Advance mode formatting box.
+* **Introduction on getting stared on building Independent Publishing Connectors – Case Netherland Railroads** – Microsoft Teams app gets information on train arrivals, departures, stations, and station disruptions through connector accessing Dutch railway operator’s open API. Power Automate flow is triggered each afternoon to assess if commuter train is on time, notification delivered by a chatbot. See detailed [article](https://www.powerplatformchallenge.com/challenges/2022/04/01/challenge-004.html) on creating a custom connector in Miguel’s blog. 128 certified Independent Publisher Connectors in production, 27 in pipeline today!
+* **Data Loss Prevention (DLP) solution for emails with Microsoft Graph** – the new secure and customizable alternative to Microsoft Purview Insider Risk Management uses Microsoft Graph subscriptions for email (and other event) notifications and Azure.Messaging.EventHub as an incident reporting end-point. See how to create an EventHub and configure policies. Essentially 2 policies - Graph can only send to my EventHub and my custom code can only listen to my Event Hub! Solution uses an Azure Durable Function.
+* **TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo** – see use of TeamsFx for scaffolding a Teams Tab as a Blazor project, use Entity Framework Core to manage data in SQLite, use C\# Source Code Generators to auto create service classes, usage of Mezaiantou’s generic forms for Blazor, and use of the generators to also create razor components. This demo assumes familiarity of building TeamsFx apps, covered in previous PnP demos.
 
 The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the
 call.
 
-{{< youtube SM_KlEcefcw >}}
+{{< youtube Yx9-HUaJsak >}}
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [6:24](https://www.youtube.com/watch?v=SM_KlEcefcw?t=384)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [8:11](https://www.youtube.com/watch?v=SM_KlEcefcw?t=491)
-* yo Teams updates - [Wictor Wilén](http://twitter.com/wictor) (Microsoft) @wictor – [9:54](https://www.youtube.com/watch?v=SM_KlEcefcw?t=594)
-* Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:19](https://www.youtube.com/watch?v=SM_KlEcefcw?t=619)
-* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [4:06](https://www.youtube.com/watch?v=SM_KlEcefcw?t=246)
-* Microsoft Teams Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:04](https://www.youtube.com/watch?v=SM_KlEcefcw?t=664)
-* Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [11:37](https://www.youtube.com/watch?v=SM_KlEcefcw?t=697)
-* Demo - How to build a SSO bot using yo teams for Microsoft Teams – [Stephan Bisser](http://twitter.com/stephanbisser) (Solvion) \| @stephanbisser – [15:08](https://www.youtube.com/watch?v=SM_KlEcefcw?t=908)
-* Demo - List formatting magic – Advance discussion board formatting with Power Automate – [André Lage](http://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [26:24](https://www.youtube.com/watch?v=SM_KlEcefcw?t=1588)
-* Demo - List formatting magic – Taking advantage of new multi-lingual capabilities in list formatting – [Chris Kent](http://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [43:25](https://www.youtube.com/watch?v=SM_KlEcefcw?t=2628)
+* PnP .NET library updates - [Paolo Pialorsi](http://twitter.com/paolopia) (PiaSys.com) \| @paolopia – [5:20](https://youtu.be/Yx9-HUaJsak?t=320)
+* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [6:57](https://youtu.be/Yx9-HUaJsak?t=417)
+* yo Teams updates - [Rick Van Rousselt](http://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt – [8:29](https://youtu.be/Yx9-HUaJsak?t=509)
+* Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [9:25](https://youtu.be/Yx9-HUaJsak?t=565)
+* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [10:24](https://youtu.be/Yx9-HUaJsak?t=624)
+* Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) \| @Bob1German – [12:06](https://youtu.be/Yx9-HUaJsak?t=726)
+* Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [13:02](https://youtu.be/Yx9-HUaJsak?t=782)
+* Demo - Introduction on getting stared on building Independent Publishing Connectors – Case Netherland Railroads – [Miguel Verweij](http://twitter.com/MiguelVerweij) (Sogeti) \| @MiguelVerweij & [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [14:47](https://youtu.be/Yx9-HUaJsak?t=887)
+* Dwmo - Data Loss Prevention (DLP) solution for emails with Microsoft Graph – [Rick Van Rousselt](http://twitter.com/RickVanRousselt) (Advantive) \| @RickVanRousselt – [22:36](https://youtu.be/Yx9-HUaJsak?t=1356)
+* Demo - TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo – [Thomy Gölles](http://twitter.com/thomyg) (Solvion) \| @thomyg – [39:02](https://youtu.be/Yx9-HUaJsak?t=2342)
+
 
 ## Together Mode
 
-![220512-together-mode.gif](images/220512-together-mode.gif)
+![220526-together-mode.gif](images/220526-together-mode.gif)
 
-Nice to get virtually outside again in today’s dynamic community picture. Great seeing everybody in the packed amphitheater and a great call!
+Awesome seeing everybody on the call today. Thank you everyone for being so collaborative. See you again.
 
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
-* Register for [Microsoft Build](https://mybuild.microsoft.com/) \| May 24-26, 2022
-* Join us at the next Microsoft 365 platform call on Tuesday, May 17, 8:00 am PT. [Invite](https://aka.ms/m365-dev-call)
 * Register for Sharing is Caring Events:
-    * Community Docs Session \| Tuesday, May 17, 10:00 am PT - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUOUdFR0U1STdGS0lXUDA2Sk1YSE1WMEtHSy4u)
     * Power Platform Samples – First Time Contributor \| Monday, May 31, 9:30 am PT- [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUN09VTVU2QzRLNE0yVERQMklHSDBMUTJGWC4u)
+    * Writing for the Web \| Thursday, June 23, 12pm PT \| 3pm ET \| 9pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)
+    * Writing for the Web \| Monday, June 27, 10am PT \| 1pm ET \| 7pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)
     * Maturity Model Practitioners \| [Register](https://aka.ms/mm4m365)
     * PnP Office Hours – 1:1 session \| [Register](https://outlook.office365.com/owa/calendar/PnPSharingisCaring@warner.digital/bookings/)
     * PnP Buddy System \| [Request a Buddy](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUMjRRUVg4NElZUUJLTEY1TVVSVDJFRFpLRS4u)
@@ -90,21 +87,19 @@ Nice to get virtually outside again in today’s dynamic community picture. Grea
 
 ## Demo references
 
-* **How to build an SSO bot using yo teams for Microsoft Teams**
-    * Tool - [Microsoft Teams App Project Generator - \#YoTeams](https://github.com/pnp/generator-teams)
-    * Documentation - [Single sign-on (SSO) with Microsoft Teams bots](https://docs.microsoft.com/learn/modules/msteams-sso/6-bots-sso)
-    * Training - [SSO Teams Bot - Microsoft Teams App](https://github.com/OfficeDev/TrainingContent/tree/master/Teams/80%20Using%20Single%20Sign-On%20with%20Microsoft%20Teams/Demos/02-learn-msteams-sso-bot)
-    * Documentation - [Single sign-on (SSO) support for bots](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
-* **List formatting magic – Advance discussion board formatting with Power Automate**
-    * Sample - [Discussion board format](https://github.com/pnp/List-Formatting/tree/master/view-samples/discussion-board-format)
-    * Sample - [Calculator sample](https://github.com/pnp/List-Formatting/tree/master/column-samples/generic-calculator)
-    * Sample - [Percent chart format](https://github.com/pnp/List-Formatting/tree/master/view-samples/percent-chart-format)
-    * Samples - [List Formatting Samples](https://pnp.github.io/List-Formatting/) \| aka.ms/list-formatting
-* **List formatting magic – Taking advantage of new multi-lingual capabilities in list formatting**
-    * Sample - [Number Level Bar](https://github.com/pnp/List-Formatting/tree/master/column-samples/number-level-bar)
-    * Sample – [Number Localization](https://github.com/pnp/List-Formatting/tree/master/column-samples/number-localization)
-    * Sample – [Person Localization](https://github.com/pnp/List-Formatting/tree/master/column-samples/person-localization)
-    * Samples - [List Formatting Samples](https://pnp.github.io/List-Formatting/) \| aka.ms/list-formatting
+* **Introduction on getting stared on building Independent Publishing Connectors – Case Netherland Railroads**
+    * Documentation - [Nederlandse Spoorwegen (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/nederlandsespoorweip/)
+    * Repo - [Nederlandse Spoorwegen](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Nederlandse%20Spoorwegen)
+    * Blog - [Power Platform Challenge 004](https://www.powerplatformchallenge.com/challenges/2022/04/01/challenge-004.html)
+    * Connectors - [Welcome to the Independent Publisher Connector Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Miro)
+* **Data Loss Prevention (DLP) solution for emails with Microsoft Graph**
+    * Documentation – [Get change notifications delivered in different ways](https://docs.microsoft.com/graph/change-notifications-delivery)
+    * Documentation - [Send events to and receive events from Azure Event Hubs - .NET (Azure.Messaging.EventHubs)](https://docs.microsoft.com/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send)
+    * Documentation - [Azure Durable Functions documentation](https://docs.microsoft.com/azure/azure-functions/durable/)
+* **TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo**
+    * Repo – [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio)
+    * Forms - [Meziantou’s Blog](https://www.meziantou.net)
+
 
 Thank you for your great work. Samples are often showcased in Demos. Request a Demo spot on the call [https://aka.ms/m365pnp/request/demo](https://aka.ms/m365pnp/request/demo)
 
@@ -116,12 +111,12 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.9.0 GA|Prepping for v1.10.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.6.0 GA|Prepping for v1.7.0
 [Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool                                     
-[PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.10.0 GA|In progress: V2 POC - .NET 6.0 based, Requires PowerShell 7.2
-[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v3.5.0 GA,v4.0.0-preview.1
+[PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.10.0 GA|Many bug fixes, also in progress: V2 POC - .NET 6.0 based, Requires PowerShell 7.2
+[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v3.5.0 GA,v4.0.0-preview.1|Version 4.0 is imminent – pending an issue with the new Teams JS SDK
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.6.0 GA, v1.7.0-preview.2
 [Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy)|v1.1.0 GA, v1.2.0-preview.2
 [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)|v3.1.1 GA
-[Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit)|v2.4.0 GA|Working on v3.0.0 - Aligning all Toolkit components to Fluent UI Web Components
+[Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit)|v2.5.2 GA|Working on v3.0.0 - Aligning all Toolkit components to Fluent UI Web Components
 
 ## General resources
 
@@ -158,13 +153,13 @@ PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.
 
 ## Upcoming calls | Recurrent invites
 
-* Microsoft 365 platform call \| Tuesday, May 17, 8:00 am PT - <https://aka.ms/m365-dev-call> (weekly)
-* Power Platform monthly call \| Wednesday, May 18, 8:00 am PT - <https://aka.ms/PowerAppsMonthlyCall> (monthly)
-* Viva Connections & SharePoint Framework call \| Thursday, May 19, 7:00 am PT - <https://aka.ms/spdev-spfx-call> (bi-weekly)
-* Microsoft Identity Platform call \| Thursday, May 19, 9:00 am PT - <https://aka.ms/IDDevCommunityCalendar> (monthly)
-* M365 General Dev call \| Thursday, May 26, 7:00 am PT - <https://aka.ms/m365-dev-sig> (bi-weekly)
+* Microsoft 365 platform call \| Tuesday, May 31, 8:00 am PT – <https://aka.ms/m365-dev-call> (weekly)
+* Viva Connections & SharePoint Framework call \| Thursday, June 2, 7:00 am PT - <https://aka.ms/spdev-spfx-call> (bi-weekly)
 * Office add-in monthly call \| Wednesday, June 8, 8:00 am PT - <https://aka.ms/officeaddinscall> (monthly)
+* M365 General Dev call \| Thursday, June 9, 7:00 am PT - <https://aka.ms/m365-dev-sig> (bi-weekly)
 * Adaptive Cards monthly call \| Thursday, June 9, 9:00 am PT - <https://aka.ms/adaptivecardscommunitycall> (monthly)
+* Power Platform monthly call \| Wednesday, June 15, 8:00 am PT - <https://aka.ms/PowerAppsMonthlyCall> (monthly)
+* Microsoft Identity Platform call \| Thursday, June 16, 9:00 am PT - <https://aka.ms/IDDevCommunityCalendar> (monthly)
 
 ## About
 
@@ -173,9 +168,9 @@ Microsoft 365 Development Community bi-weekly calls are targeted at anyone who's
 You can download recurrent invite from [https://aka.ms/m365-dev-sig](https://aka.ms/m365-dev-sig). Welcome and join in the discussion. If you have any questions, comments, or feedback, feel free to provide your input as comments below this post as well. More details on the Microsoft 365 community and options to get involved are available from [https://aka.ms/m365pnp](https://aka.ms/m365pnp).
 
 
-_“Sharing is caring”_
+*“Sharing is caring”*
 
-_Microsoft 365 Community (PnP) team, Microsoft - 12th of May 2022_
+*Microsoft 365 Community (PnP) team, Microsoft - 27th of May 2022*
 
 {{< attachments >}}
 
