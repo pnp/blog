@@ -8,6 +8,7 @@ images:
 - images/Microsoft-365.jpg
 tags: ["Microsoft 365 Developer Account", "Microsoft 365"]
 type: "regular"
+draft: true
 ---
 
 ### What is Microsoft 365 Developer Account?
