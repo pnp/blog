@@ -12,7 +12,7 @@ images:
 tags: []
 # don't change
 type: "regular"
-draft: true
+draft: false
 ---
 ## Community Sample Timesheet App
 
