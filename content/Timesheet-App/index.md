@@ -12,6 +12,7 @@ images:
 tags: []
 # don't change
 type: "regular"
+draft: true
 ---
 # Community Sample Timesheet App
 This blog explains how I created a time sheet app in Power Apps. The app is made up of 3 core components
