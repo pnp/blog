@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 168"
 summary: "abc, joins Vesa Juvonen and Waldek Mastykarz to discuss how employers may look at open-source, keeping up with product changes and what’s next for PowerShell?  Latest articles/videos from Microsoft and Community."
-date: 2022-05-24T04:00:00-00:00
+date: 2022-05-31T04:00:00-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -10,6 +10,7 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=RGvSc5Gm86A
+draft: true
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Helsinki-based software engineer, PowerShell maintainer and Office Apps and Services MVP [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Solutions) \| @gautamdsheth. 
