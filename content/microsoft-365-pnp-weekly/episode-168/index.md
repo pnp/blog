@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 168"
-summary: "abc, joins Vesa Juvonen and Waldek Mastykarz to discuss how employers may look at open-source, keeping up with product changes and what’s next for PowerShell?  Latest articles/videos from Microsoft and Community."
+summary: "Microsoft Graph team PM Sébastien Levert, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss delivering great customer experiences, importance of data in product development decisionmaking, tips to prospective Product Managers, and latest articles/videos (many Build related) from Microsoft and Community."
 date: 2022-05-31T04:00:00-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
@@ -13,30 +13,28 @@ videos:
 draft: true
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Helsinki-based software engineer, PowerShell maintainer and Office Apps and Services MVP [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Solutions) \| @gautamdsheth. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Montréal based Sr Product Manager on the Microsoft Graph team [Sébastien Levert](http://twitter.com/sebastienlevert) \| @sebastienlevert.
 
 ## Topics discussed in this session
 
-* How he got to Valo – hint: community contributions mattered.
-* Why may an employer encourage you to contribute to open source?
-* The day in the life of a product software engineer.
-* Moving from project work to product work.
-* What are [Valo Solutins](https://www.valosolutions.com/)?
-* How to keep up with changes across Microsoft’s product line?
-* What was the one technology mind blow in the past 3 months?
-* What’s next for PnP PowerShell?
+* Séb’s obsession with delivering a great developer experience.
+* Data, data, data. Measuring the right thing, rightly, and how to measure new ideas without data.
+* The logic behind releasing Minimum Viable Products - ship quickly, fast, very small increments.
+* Choosing what thing to build?
+* The most rewarding part of the job. Example - [Microsoft Graph SDK for Go](https://github.com/microsoftgraph/msgraph-sdk-go)
+* Tips to prospective Product Mangers.
 
-Also, we showcased 9 articles/videos published by Microsoft and the PnP Community in the last week.  
+Also, we showcased 17 articles/videos published by Microsoft and the PnP Community in the last week.  
 
 ## This week
 
-* **Gautam** – moving projects from .NET to .NET Core due to significant benefits.
-* **Waldek** – Subject Matter Expert at Microsoft Build 2022, working on internal projects and reviews, and as always feature enhancements for CLI for Microsoft 365.
-* **Vesa** – shedding wisdom teeth, Microsoft Build 2022 activities and the next version of SPFx Beta.
+* **Sébastien** – closing on semester planning with latest feedback from Build, traveling to Redmond soon and expecting to meet many colleagues face-to-face for first time and time, and time with family.
+* **Waldek** – closing in on new release of CLI for Microsoft 365 that includes great ideas from 2 new [maintainers - Adam Wójcik and Martin Lingstuyl](https://pnp.github.io/blog/cli-for-microsoft-365/new-maintainers-2022/), catching breath after Microsoft Build and yes, it’s planning time at Microsoft.
+* **Vesa** – planning time, preparing to travel to Redmond next week and preparing to release SPFx v1.15 RC due out in 2 weeks.
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, May 20, 2022, for release on Tuesday, May 24th. Enjoy the show.  
+This session was recorded on Monday, May 30, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube RGvSc5Gm86A >}}
@@ -49,9 +47,9 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Microsoft articles
 
-* [Build collaborative apps with Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2022/05/24/build-collaborative-apps-with-microsoft-teams/) - [Jeff Teper](https://twitter.com/jeffteper) (Microsoft) | @jeffteper
-* [Announcing Microsoft Power Pages: Build secure, low-code websites](https://powerpages.microsoft.com/en-gb/blog/announcing-microsoft-power-pages-build-secure-low-code-websites/) - [Charles Lamanna](https://twitter.com/clamanna) (Microsoft) | @clamanna
-* [Announcing the public preview of Virtual Appointment Graph API](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/announcing-the-public-preview-of-virtual-appointment-graph-api/ba-p/3408285) - Evan Westenberger (Microosft)
+* [Build collaborative apps with Microsoft Teams](https://www.microsoft.com/microsoft-365/blog/2022/05/24/build-collaborative-apps-with-microsoft-teams/) - [Jeff Teper](https://twitter.com/jeffteper) (Microsoft) | @jeffteper
+* [Announcing Microsoft Power Pages: Build secure, low-code websites](https://powerpages.microsoft.com/blog/announcing-microsoft-power-pages-build-secure-low-code-websites/) - [Charles Lamanna](https://twitter.com/clamanna) (Microsoft) | @clamanna
+* [Announcing the public preview of Virtual Appointment Graph API](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/announcing-the-public-preview-of-virtual-appointment-graph-api/ba-p/3408285) - Evan Westenberger (Microsoft)
 * [Introducing Live Share: Interactive app experiences in Microsoft Teams meetings](https://devblogs.microsoft.com/microsoft365dev/introducing-live-share-interactive-app-experiences-in-microsoft-teams-meetings/) - Hal Bond (Microsoft)
 * [Microsoft Graph @ Build 2022](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-build-2022/) - [Ben Summers](https://www.linkedin.com/in/benjamin-summers-8461921/) (Microsoft)
 * [What’s new for Office Add-ins at Build 2022](https://devblogs.microsoft.com/microsoft365dev/whats-new-for-office-add-ins-at-build-2022/) - Microsoft
