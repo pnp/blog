@@ -57,5 +57,15 @@
   ],
   "frontMatter.framework.startCommand": "hugo server -D",
   "frontMatter.preview.host": "http://localhost:1313/blog/",
-  "frontMatter.taxonomy.seoDescriptionField": "summary"
+  "frontMatter.taxonomy.seoDescriptionField": "summary",
+  "frontMatter.content.snippets": {
+    "Media snippet (migrated)": {
+      "body": [
+        "{{< image alt=\"[[alt]]\" src=\"[[&mediaUrl]]\"  >}}"
+      ],
+      "isMediaSnippet": true,
+      "description": "Migrated media snippet from frontMatter.dashboard.mediaSnippet setting"
+    }
+  },
+  "frontMatter.templates.enabled": false
 }
