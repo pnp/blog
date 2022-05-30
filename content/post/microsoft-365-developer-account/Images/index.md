@@ -1,6 +1,6 @@
 ---
 title: "How to use the Power Platform developer plan with the Microsoft 365 Developer program"
-date: 2022-5-22T05:27:00-05:00
+date: 2022-05-22T05:27:00-05:00
 author: "Rachel Irabor"
 githubname: Uchemena
 categories: ["Community post"]
