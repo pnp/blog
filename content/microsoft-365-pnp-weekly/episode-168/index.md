@@ -22,7 +22,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * The logic behind releasing Minimum Viable Products - ship quickly, fast, very small increments.
 * Choosing what thing to build?
 * The most rewarding part of the job. Referenced - [Microsoft Graph SDK for Go](https://github.com/microsoftgraph/msgraph-sdk-go)
-* Tips to prospective Product Mangers.
+* Tips to prospective Product Managers.
 
 Also, we showcased 17 articles/videos published by Microsoft and the PnP Community in the last week.  
 
