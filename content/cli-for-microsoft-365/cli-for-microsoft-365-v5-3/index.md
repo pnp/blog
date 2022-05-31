@@ -1,6 +1,6 @@
 ---
 title: CLI for Microsoft 365 v5.3
-date: 2022-05-31T09:22:38.096Z
+date: 2022-05-31T07:22:38.096Z
 author: Patrick Lamber
 githubname: plamber
 categories:
