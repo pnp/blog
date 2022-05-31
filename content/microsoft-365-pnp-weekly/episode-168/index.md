@@ -9,8 +9,8 @@ images:
 - images/pnp-weekly-168-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=RGvSc5Gm86A
-draft: true
+- https://www.youtube.com/watch?v=10aCVzFOirw
+draft: false
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Montréal based Sr Product Manager on the Microsoft Graph team [Sébastien Levert](http://twitter.com/sebastienlevert) \| @sebastienlevert.
@@ -21,25 +21,25 @@ In this installment of the weekly discussion revolving around the latest news an
 * Data, data, data. Measuring the right thing, rightly, and how to measure new ideas without data.
 * The logic behind releasing Minimum Viable Products - ship quickly, fast, very small increments.
 * Choosing what thing to build?
-* The most rewarding part of the job. Example - [Microsoft Graph SDK for Go](https://github.com/microsoftgraph/msgraph-sdk-go)
-* Tips to prospective Product Mangers.
+* The most rewarding part of the job. Referenced - [Microsoft Graph SDK for Go](https://github.com/microsoftgraph/msgraph-sdk-go)
+* Tips to prospective Product Managers.
 
 Also, we showcased 17 articles/videos published by Microsoft and the PnP Community in the last week.  
 
 ## This week
 
-* **Sébastien** – closing on semester planning with latest feedback from Build, traveling to Redmond soon and expecting to meet many colleagues face-to-face for first time and time, and time with family.
-* **Waldek** – closing in on new release of CLI for Microsoft 365 that includes great ideas from 2 new [maintainers - Adam Wójcik and Martin Lingstuyl](https://pnp.github.io/blog/cli-for-microsoft-365/new-maintainers-2022/), catching breath after Microsoft Build and yes, it’s planning time at Microsoft.
-* **Vesa** – planning time, preparing to travel to Redmond next week and preparing to release SPFx v1.15 RC due out in 2 weeks.
+* **Sébastien** – closing on semester planning with latest feedback from Build, traveling to Redmond next week and expecting to meet many colleagues face-to-face for first time and time, and time with family before travels.
+* **Waldek** – closing in on the June release of CLI for Microsoft 365 that includes great ideas from 2 new [maintainers - Adam Wójcik and Martin Lingstuyl](https://pnp.github.io/blog/cli-for-microsoft-365/new-maintainers-2022/), catching breath after Microsoft Build and yes, it’s planning time at Microsoft.
+* **Vesa** – planning time, preparing to travel to Redmond next week and preparing to release SPFx v1.15 RC, due out in 2 weeks.
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
 This session was recorded on Monday, May 30, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube RGvSc5Gm86A >}}
+    {{< youtube 10aCVzFOirw >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-2jtm9-1232f34 >}}
+    {{< podbean pb-yvgjv-123b062 >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
