@@ -28,19 +28,19 @@ Following our monthly release cadence, we've released a new version of the CLI f
 
 > For the complete list of what's new and changed, see the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v530).
 
-### Manage the Planner bucket life-cycle
+### Manage the Planner bucket lifecycle
 
 We added 16 commands to manage Microsoft Planner with our CLI in the past couple of months. This latest beta introduces the ability to manage all aspects of managing Planner buckets.
 
 To create a new Bucket in a Plan associated with a Group you can use:
 
-"`bash
+```sh
 m365 planner bucket add --name "My Planner Bucket" --planName "My Planner Plan" --ownerGroupName "My Planner Group"
 ```
 
 You can list the Buckets of a Plan by using the bucket list command:
 
-"`bash
+```bash
 m365 planner bucket list --planName "My Planner Plan" --ownerGroupName "My Planner Group"
 ```
 
@@ -56,7 +56,7 @@ To break the role inheritance of a list, use:
 m365 spo list roleinheritance break --webUrl "https://contoso.sharepoint.com/sites/project-x" --listTitle "someList"
 ```
 
-To restore it back, use:
+To restore it, use:
 
 ```sh
 m365 spo list roleinheritance reset --webUrl "https://contoso.sharepoint.com/sites/project-x" --listTitle "someList"
@@ -68,9 +68,29 @@ If you are interested in managing the role inheritance for list items, see [spo 
 
 We extended the list of reporting commands in our CLI with the list of security alerts associated with a tenant:
 
-"`sh
+```sh
 m365 tenant security alerts list --vendor "Azure Sentinel"
 ```
+
+### Setting certificates on Azure AD apps
+
+When building apps for Microsoft 365, there are cases when you need an unattended process that runs either on a trigger (like a CI/CD pipeline triggered by a commit) or on schedule (like a monitoring process). Unattended processes typically use application-only permissions. Because there's no user context, you'll often authenticate to Microsoft 365 using managed identity or a secret like a certificate.
+
+To help you set up Azure AD applications for unattended processes, we extended CLI for Microsoft 365 with support for setting certificates on Azure AD apps.
+
+You can set a certificate when creating a new Azure AD app:
+
+```sh
+m365 aad app add --name 'My AAD app' --certificateDisplayName "Some certificate name" --certificateFile c:\temp\some-certificate.cer
+```
+
+You can also add a certificate to an existing Azure AD app:
+
+```sh
+m365 aad app set --certificateDisplayName "Some certificate name" --certificateFile c:\temp\some-certificate.cer
+```
+
+For more information about working with certificates and Azure AD apps using CLI for Microsoft 365, see the [documentation](https://pnp.github.io/cli-microsoft365/cmd/aad/app/app-add/).
 
 ### What else
 
@@ -107,7 +127,7 @@ You can add checklist items to a Planner task to organize your task. We are work
 
 Get the latest release of CLI for Microsoft 365 from npm by executing:
 
-"`bash
+```bash
 npm i -g @pnp/CLI-microsoft365
 ```
 
