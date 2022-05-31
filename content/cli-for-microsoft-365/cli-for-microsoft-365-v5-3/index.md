@@ -119,16 +119,26 @@ Thank you all for the time you chose to spend on CLI for Microsoft 365 and for y
 
 Here are some things that we're currently working on.
 
-### Manage Planner checklist items
+### `@me` user tokens to simplify working with the current user
 
-You can add checklist items to a Planner task to organize your task. We are working on the commands to manage a Planner task's checklist item life cycle.
+We're constantly seeking for ways to let you work with CLI for Microsoft 365 more efficiently. In the past, we've shipped support for [passing contents from files into options using the `@` token](https://pnp.github.io/cli-microsoft365/user-guide/using-cli/#passing-complex-content-into-cli-options) and [using server-relative URLs with SharePoint commands](https://pnp.github.io/cli-microsoft365/user-guide/using-cli/#working-with-sharepoint-urls-in-spo-commands). We're continuing the improvement by introducing [`@me` tokens](https://github.com/pnp/cli-microsoft365/issues/3056) to let you pass information about the current user into options.
+
+### Managing Planner plans
+
+Many organizations use Microsoft Planner to keep track of their work. As you start working with Planner at scale, you'll be likely to need to automate managing plans, buckets and tasks. In the previous versions of CLI for Microsoft 365 we introduced the base functionality for managing objects in Planner and we'll keep extending it with additional features so that you have everything you need.
+
+### Microsoft 365 app commands
+
+When building apps for Microsoft 365, next to your code, you also need to manage how your app is exposed to Microsoft 365. You need to register your application in Azure Active Directory, and depending what type of app you build, you might need to deploy it to an app catalog as well. All these properties are managed in different locations and we're thinking of ways that we could simplify it for you.
+
+What else could we simplify? Let us know what you think by helping out with one of our [open issues](https://github.com/pnp/cli-microsoft365/issues) or chime in on our [discussions](https://github.com/pnp/cli-microsoft365/discussions)!
 
 ## Try it today
 
 Get the latest release of CLI for Microsoft 365 from npm by executing:
 
 ```bash
-npm i -g @pnp/CLI-microsoft365
+npm i -g @pnp/cli-microsoft365
 ```
 
 Alternatively, you can get the latest release from Docker by executing:
