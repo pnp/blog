@@ -3,10 +3,6 @@
   "frontMatter.content.fmHighlight": false,
   "frontMatter.content.pageFolders": [
     {
-      "title": "Blog posts",
-      "path": "[[workspace]]/content/posts"
-    },
-    {
       "title": "adaptive-cards-community-call",
       "path": "[[workspace]]/content/adaptive-cards-community-call",
       "excludeSubdir": true
@@ -45,6 +41,10 @@
       "title": "Power Platform Community Call",
       "path": "[[workspace]]/content/power-platform-community-call",
       "excludeSubdir": true
+    },
+    {
+      "title": "post",
+      "path": "[[workspace]]/content/post"
     }
   ],
   "frontMatter.content.publicFolder": "static",
