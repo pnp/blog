@@ -12,7 +12,7 @@ images:
 tags: ["Microsoft Teams", "Microsoft Graph", "Microsoft Graph toolkit"]
 # don't change
 type: "regular"
-draft: true
+draft: false
 ---
 
 ## Business Case
@@ -97,7 +97,7 @@ resource={"teams/<TeamID>/channels/<ChannelID>/messages/<MessageID>/replies?$top
 </Get>
 ```
 
-In the above component we have 2 sub components having their own templates. The LastMessageItem component loads when the data is received from the API and LoadingTemplate component loads when the call is happening to the backend service. The loading template is used to show the progress or loading behavior. In my case I am showing shimmers from [Office UI Fabric Controls](https://developer.microsoft.com/en-us/fluentui#/controls/web).
+In the above component we have 2 sub components having their own templates. The LastMessageItem component loads when the data is received from the API and LoadingTemplate component loads when the call is happening to the backend service. The loading template is used to show the progress or loading behavior. In my case I am showing shimmers from [Fluent UI Controls](https://developer.microsoft.com/en-us/fluentui#/controls/web).
 
 ### LoadingTemplate
 
