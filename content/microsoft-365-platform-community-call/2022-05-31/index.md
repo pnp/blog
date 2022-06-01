@@ -11,7 +11,7 @@ type: "regular"
 summary: "Demos - Independent Publishing Connectors Case - Netherland Railroads, Data Loss Prevention (DLP) solution for emails with Microsoft Graph, and TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo. Released MGT v2.5.2, 3 script samples."
 videos:
 - https://www.youtube.com/watch?v=Yx9-HUaJsak
-draft: true
+draft: false
 ---
 
 
