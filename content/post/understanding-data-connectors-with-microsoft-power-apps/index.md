@@ -8,23 +8,15 @@ categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
 - images/banner.webp
-- images/image1.png
-- images/image2.png
-- images/image3.png
-- images/image4.png
-- images/image5.png
-- images/image5.png
 # don't change
 tags: []
 # don't change
 type: "regular"
 ---
 
-## Understanding Data Connectors with Microsoft Power Apps
-
 In today's article, I will be looking at working with Data Connectors while building with Microsoft Power Apps. 
 
-# What are Data Connectors?
+## What are Data Connectors?
 Data is very important while building every native application, this is because in every application, it is either you are requesting/fetching data, sending data, or perhaps doing both. And while building applications with Microsoft Power Apps, there is no difference. 
 
 In very clear terms, "Data Connectors" connects or communicates with the data source in every power app. Data is stored in a data source, and you bring that data into your app by creating a connection.
@@ -48,7 +40,7 @@ But in a situation where you want to connect to other types of data sources, suc
 Check out this article for more on  Custom Connectors - [Register and use custom connectors](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/register-custom-api)
 
 
-# Connecting to Microsoft Dataverse
+## Connecting to Microsoft Dataverse
 
 Microsoft Dataverse lets you securely store and manage data that are used by business applications. 
 Data within Dataverse is stored within a set of tables. A table is a set of rows (formerly referred to as records) and columns (formerly referred to as fields/attributes). Each column in the table is designed to store a certain type of data, for example, name, age, salary, and so on.
@@ -86,7 +78,7 @@ That is the end of this codelab and hope you were able to follow it properly.
 
 I will also be ending this article here now, leaving you with resources for further study. 
 
-# Resources
+## Resources
 1. [Overview of connectors for canvas apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/connections-list)
 2. [Use custom connectors in a Power Apps canvas app](https://docs.microsoft.com/en-us/learn/modules/use-custom-connectors-in-powerapps-canvas-app/)
 3. [Microsoft Dataverse Documentation](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/)
