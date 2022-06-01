@@ -1,6 +1,6 @@
 ---
 title: "Understanding Data Connectors with Microsoft Power Apps"
-date: 2022-06-1 T10:56:00-04:00
+date: 2022-06-01T04:30:00+04:00
 author: "Favour Adekunle"
 githubname: Favour-dgreat
 # don't change
@@ -9,7 +9,7 @@ categories: ["Community post"]
 images:
 - images/banner.webp
 # don't change
-tags: []
+tags: ["Power Apps"]
 # don't change
 type: "regular"
 ---
