@@ -12,6 +12,7 @@ images:
 tags: ["Microsoft Teams", "Graph", "Graph Toolkit"]
 # don't change
 type: "regular"
+draft: true
 ---
 
 # Business Case  
