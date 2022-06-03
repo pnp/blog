@@ -5,13 +5,13 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/recording-19th-may.png
+- images/recording-2nd-june.png
 tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
-summary: "Demos:  Building Office Locations Viva Connections Adaptive Card Extension with SPF, and Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions.     Released PnPjs Client-Side Libraries v3.3.2 GA and CLI for Microsoft 365 v5.3.0 beta."
+summary: "Demos: Building FAQs web part with Property Field Collection Data, Solve Teams and SharePoint Theme problems with the "Enhanced Theme Provider" control, and Building custom list form components with SPFx v1.15. Released SPFx v1.15 (RC), 6 web part, 4 ACE samples."
 videos:
-- https://www.youtube.com/watch?v=NQUoEQZECe0
-draft: true
+- https://www.youtube.com/watch?v=XvZz75q8vag
+draft: false
 ---
 
 ## Call summary
@@ -20,52 +20,66 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 
 ### New this week
 
-* Agenda set for Microsoft 365 platform call - Tuesday, May 24, 8:00 am PT \| aka.ms/m365-dev-call
+* Agenda set for Microsoft 365 platform call - Tuesday, June 7, 8:00 am PT \| aka.ms/m365-dev-call
     * Latest news from Microsoft engineering on Microsoft 365 topics
     * Monthly community contributors
-    * Demo - Corina Strein & Vesa Juvonen- Introduction to Microsoft Viva ISV benefits program
-    * Keynote - Satya Nadella **-** Build 2022 Keynote Watch Party – starts half past the hour
+    * **Zac Sun** - Migrate your SharePoint workflows to Power Automate with migration tooling (preview)
+    * **Dan Wahlin** - Send a SMS message with Azure Communication Services
+    * **Bob German** - TeamsJS SDK V2 to extend your Microsoft Teams solutions to Outlook and Office
 * Project releases
-    * [PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/) v3.3.2 GA
-    * [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) v5.3.0 beta
-* Microsoft 365 PnP Weekly – Episode 166 (May 16th) with US-based Principal PM Lead, DevDiv, VS extensions - Pierce Boggan (Microsoft) \| @pierceboggan \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-166/) \| [podcast](https://www.podbean.com/media/share/pb-66mt4-122a0e4)
-* Microsoft 365 PnP Weekly – Episode 165 (May 2nd) Finland-based software architect and Office Developer MVP [Laura Kokkarinen](http://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/) \| [podcast](https://www.podbean.com/media/share/pb-96zpk-12216e6)
+    * [SharePoint Framework (SPFx)](https://aka.ms/spfx) - v1.15 (RC) – includes list and library form extensability
+    * [PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/) - v3.4.0 to be released June 10th
+    * [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/) - Adaptive Card support in the dev branch
+* Web part samples
+    * [Frequently Asked Questions with Property Field Collection Data](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs) - [Arun Kumar Perumal](http://twitter.com/arun_perumal16) \| @arun_perumal16
+    * [Pages Hierarchy](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-page-navigator) - [Nick Brown](http://twitter.com/techienickb) \| @techienickb
+    * [My Awards](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-profile-awards/README.md) - [Luis Mañez](http://twitter.com/luismanez) \| @luismanez
+    * [Filterable Image Gallery](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-image-gallery/README.md) - [Ari Gunawan](http://twitter.com/arigunawan3023) \| @arigunawan3023
+    * [Page Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) - [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
+    * [ACE Strategy Pattern](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/ace-strategy-pattern)\* - [Marcin Wojciechowski](http://twitter.com/mgwojciech) \| @mgwojciech
+* ACE samples
+    * Updated - [Office Locations](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-officelocations) – Image Card – [Nick Brown](http://twitter.com/techienickb) \| @techienickb
+    * Updated - [Unread Emails](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-graph-unreademails) – Primary Text Card – [Nick Brown](http://twitter.com/techienickb) \| @techienickb
+    * Updated - [My Calendar Plan](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-my-calendar) – Primary Text Card - [Nick Brown](http://twitter.com/techienickb) \| @techienickb
+    * Updated - [News Feed](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-NewsFeed) – Primary Text Card - [Nick Brown](http://twitter.com/techienickb) \| @techienickb
+* Microsoft 365 PnP Weekly – Episode 168 (May 30th) with Montréal based Sr Product Manager on the Microsoft Graph team [Sébastien Levert](http://twitter.com/sebastienlevert) \| @sebastienlevert \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-168/) \| [podcast](https://www.podbean.com/media/share/pb-yvgjv-123b062)
+* Microsoft 365 PnP Weekly – Episode 167 (May 23rd) with Helsinki-based software engineer, PowerShell maintainer and Office Apps and Services MVP Gautam Sheth (Valo Solutions) \| @gautamdsheth. \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-167/) \| [podcast](https://www.podbean.com/media/share/pb-2jtm9-1232f34)
 
 ### Demos
 
-* **Building Office Locations Viva Connections Adaptive Card Extension with SPFx** – Office locations ACE. See configuring this ACE with multiple card views showing the details of the geographically distributed offices for an organization. Key solution properties: Multiple data sources (local properties, taxonomy, or SharePoint list), Bing and Google for maps, PnP JS v3, OpenWeather API to get weather, Temporal API to get local time, Geolocation action type and Caching. Uses new Show location action.
-* **Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions** – see the new control to be included in the next version of the PnP Reusable React controls library. The control simplifies the use of Designer inside a SPFx web part. Essentially, the Host renders a single Adaptive Card in a web part and on the selected Adaptive Card now is a superimposed button ‘Open Designer’ that brings up the new and SPFx optimized, Designer control.
+* **Building Frequently Asked Questions web part with Property Field Collection Data** – configure the FAQ web part’s layout in property pane - select accordion or tab, colors and themes. Create categories and sort conditions. Use the rich text editor to easily answer questions. Uses Office UI Fabric Search Box - search by question, searched term highlighted in results. See code for the 2 components (FAQ and Accordion) in web part. Accordion is a custom component.
+* **Solve Teams and SharePoint Theme problems with the "Enhanced Theme Provider" control for SPFx solutions** – introduction to the “Enhanced Theme Provider” control, what problem it solves (lack of support for Teams high contrast theme and basic styles), how it’s implemented, and how to use it in SPFx. Extends functionality of the Fluent UI ThemeProvider control by adding some logic and considered as a sort-of wrapper for all react and non-react controls that you want to add to the WebPart.
+* **Getting started on building custom list form components with SPFx v1.15** – introducing a new component type in v1.15 called Form customizer. Enabling development of custom modern forms with custom edit experience. Delivering API level support for content types with 6 new properties for separately configuring new form, edit form and display form. Look at how to debug your form customizer and how form customizer will work in your production environment. Review List extensibility roadmap.
 
 The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
 (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
-{{< youtube NQUoEQZECe0 >}}
+{{< youtube XvZz75q8vag >}}
 
 ## Agenda items
 
-* SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:44](https://youtu.be/NQUoEQZECe0?t=404)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:42](https://youtu.be/NQUoEQZECe0?t=519)
-* CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:39](https://youtu.be/NQUoEQZECe0?t=639)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:36](https://youtu.be/NQUoEQZECe0?t=696)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [12:38](https://youtu.be/NQUoEQZECe0?t=758)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:15](https://youtu.be/NQUoEQZECe0?t=795)
-* Demo - Building Office Locations Viva Connections Adaptive Card Extension with SPFx – [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) \| @anooptells – [15:10](https://youtu.be/NQUoEQZECe0?t=910)
-* Demo - Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions – [Fabio Franzini](http://twitter.com/franzinifabio) (Apvee Solutions) \| @franzinifabio – [35:31](https://youtu.be/NQUoEQZECe0?t=2131)
+* SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:19](https://youtu.be/XvZz75q8vag?t=379)
+* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [9:04](https://youtu.be/XvZz75q8vag?t=544)
+* CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:35](https://youtu.be/XvZz75q8vag?t=635)
+* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:15](https://youtu.be/XvZz75q8vag?t=675)
+* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [12:09](https://youtu.be/XvZz75q8vag?t=729)
+* PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [13:01](https://youtu.be/XvZz75q8vag?t=781)
+* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:10](https://youtu.be/XvZz75q8vag?t=910)
+* Demo - Building Frequently Asked Questions web part with Property Field Collection Data – [Arun Kumar Perumal](http://twitter.com/arun_perumal16) \| @arun_perumal16 – [17:08](https://youtu.be/XvZz75q8vag?t=1028)
+* Demo - Solve Teams and SharePoint Theme problems with the "Enhanced Theme Provider" control for SPFx solutions – [Fabio Franzini](http://twitter.com/franzinifabio) (Apvee Solutions) \| @franzinifabio – [25:58](https://youtu.be/XvZz75q8vag?t=1558)
+* Demo - Getting started on building custom list form components with SPFx v1.15 – [Alex Terentiev](http://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev & [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [36:40](https://youtu.be/XvZz75q8vag?t=2200)
 
 ## Together Mode
 
-![220519-together-mode.gif](images/220519-together-mode.gif)
+![220602-together-mode.gif](images/220602-together-mode.gif)
 
-Thank you for joining today and for being part of this awesome community, really pleased to have you here again. 
+We have a full room of people today! Great seeing everyone. Thank you for being part of this awesome community.
 
 ## Actions
 
-* Register for [Microsoft Build](https://mybuild.microsoft.com/) \| May 24-26, 2022
-* Add to your Build schedule - the Innovation Keynote with Jeff Teper – **Innovate with collaborative apps and low code** and other sessions \| aka.ms/m365/build22
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)
 * Register for upcoming [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) events:
-    * Power Platform Samples Contributor \| Tuesday, May 31, 9:30 am PT - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUN09VTVU2QzRLNE0yVERQMklHSDBMUTJGWC4u)
     * Writing for the Web \| Thursday, June 23, 12pm PT \| 3pm ET \| 9pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)
     * Writing for the Web \| Monday, June 27, 10am PT \| 1pm ET \| 7pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)
     * Maturity Model Practitioners \| [Register](https://aka.ms/mm4m365)
@@ -80,17 +94,17 @@ Thank you for joining today and for being part of this awesome community, really
 
 ## Demo references
 
-* **Building Office Locations Viva Connections Adaptive Card Extension with SPF**
-    * Sample - [Office locations](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-OfficeLocations)
-    * Demo - [Getting started on building Microsoft Viva Connection adaptive card components using SPFx](https://www.youtube.com/watch?v=KQGsY5fvLaY) – [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler
-    * Ignite session - [Get started with Microsoft Viva Connections Extensibility](https://aka.ms/CONLL112) \| aka.ms/CONLL112
-    * YouTube Channel - [PiaSys Tech Bites](https://www.youtube.com/c/PiaSysTechBites)
-    * Documentation - [Location capabilities in Adaptive Card Extension](https://docs.microsoft.com/sharepoint/dev/spfx/viva/get-started/actions/geolocation/geolocationdocumentation)
-    * Overview - [JavaScript Temporal API Cheatsheet](https://temporal-api-cheatsheet.rodneylab.com/)
-* **Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions**
-    * Tools – [Adaptive Cards](https://adaptivecards.io/) \| adaptivecards.io/
-    * SPFx Controls - [Adaptive Card Host](https://pnp.github.io/sp-dev-fx-controls-react/controls/AdaptiveCardHost/)
-    * Samples - [Adaptive Card Host control](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptive-card-host-control)
+* **Building Frequently Asked Questions web part with Property Field Collection**
+    * Sample - [Frequently Asked Questions with Property Field Collection Data](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs)
+    * Article - [Community Sample: React FAQs webpart](https://pnp.github.io/blog/post/community-sample-faqs-with-propertyfieldcollectiondata/)
+* **Solve Teams and SharePoint Theme problems with the "Enhanced Theme Provider" control for SPFx solutions**
+    * Documentation – [Build Microsoft Teams tab using SharePoint Framework – Tutorial](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab)
+    * Documentation - [Isolated web parts](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/isolated-web-parts)
+    * npm Tools - [@fluentui/react-theme-provider](https://www.npmjs.com/package/@fluentui/react-theme-provider)
+* **Getting started on building custom list form components with SPFx v1.15**
+    * Documentation - [SharePoint Framework v1.15 preview release notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.15)
+    * Documentation - [Build your first Form Customizer extension (preview)](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
+    * Control - [Dynamic Form](https://pnp.github.io/sp-dev-fx-controls-react/controls/DynamicForm/)
 
 Thank you for your great work. Samples are often showcased in Demos.
 
@@ -98,13 +112,13 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 **PnP Project**|**Current version**|**Release/Status**
 ---|---|---
-SharePoint Framework (SPFx)|v1.14 GA, v1.15 Beta|v1.15 GA in June 2022
-[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v2.13 GA, v3.3.2 GA|Nightly builds.
+SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.15 GA in June 2022, v1.16 Beta in July
+[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v2.13 GA, v3.3.2 GA|v3.4.0 to be released June 10th, Nightly builds.
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)|v4.3.0 GA, v5.3.0 beta|
 [Reusable SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react)|v3.8.0, v2.9.0 (SPFx v1.11)|
 [Reusable SPFx React Property Controls](https://github.com/pnp/sp-dev-fx-property-controls)|v3.7.0, v2.7.0 (SPFx v1.11)|
 [PnP SPFx Generator](https://github.com/pnp/generator-spfx)|v1.16.0|v1.17.0 on the way
-[PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|v4.6.1, v3.23.0
+[PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|v4.6.1, v3.23.0|Adaptive Card support in the dev branch
 
 
 ## General Resources
@@ -154,12 +168,12 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 Beta|v1.15 GA in June 2022
 
 ## Upcoming calls | Recurrent invites
 
-* Microsoft 365 platform call \| Tuesday, May 24, 8:00 am PT – <https://aka.ms/m365-dev-call> (weekly)
-* M365 General Dev call \| Thursday, May 26, 7:00 am PT - <https://aka.ms/m365-dev-sig> (bi-weekly)
-* Viva Connections & SharePoint Framework call \| Thursday, June 2, 7:00 am PT - <https://aka.ms/spdev-spfx-call> (bi-weekly)
+* Microsoft 365 platform call \| Tuesday, June 7, 8:00 am PT – <https://aka.ms/m365-dev-call> (weekly)
 * Office add-in monthly call \| Wednesday, June 8, 8:00 am PT - <https://aka.ms/officeaddinscall> (monthly)
+* M365 General Dev call \| Thursday, June 9, 7:00 am PT - <https://aka.ms/m365-dev-sig> (bi-weekly)
 * Adaptive Cards monthly call \| Thursday, June 9, 9:00 am PT - <https://aka.ms/adaptivecardscommunitycall> (monthly)
 * Power Platform monthly call \| Wednesday, June 15, 8:00 am PT - <https://aka.ms/PowerAppsMonthlyCall> (monthly)
+* Viva Connections & SharePoint Framework call \| Thursday, June 16, 7:00 am PT - <https://aka.ms/spdev-spfx-call> (bi-weekly)
 * Microsoft Identity Platform call \| Thursday, June 16, 9:00 am PT - <https://aka.ms/IDDevCommunityCalendar> (monthly)
 
 ## About
@@ -182,7 +196,7 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 
 * * *
 
-*Microsoft 365 PnP team, Microsoft - 19th of May 2022*
+*Microsoft 365 PnP team, Microsoft - 3rd of June 2022*
 
 {{< attachments >}}
 
