@@ -8,7 +8,7 @@ images:
 - images/recording-2nd-june.png
 tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
-summary: "Demos: Building FAQs web part with Property Field Collection Data, Solve Teams and SharePoint Theme problems with the "Enhanced Theme Provider" control, and Building custom list form components with SPFx v1.15. Released SPFx v1.15 (RC), 6 web part, 4 ACE samples."
+summary: "Demos: Building FAQs web part with Property Field Collection Data, Solve Teams and SharePoint Theme problems with the 'Enhanced Theme Provider' control, and Building custom list form components with SPFx v1.15. Released SPFx v1.15 (RC), 6 web part, 4 ACE samples."
 videos:
 - https://www.youtube.com/watch?v=XvZz75q8vag
 draft: false
@@ -27,7 +27,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     * **Dan Wahlin** - Send a SMS message with Azure Communication Services
     * **Bob German** - TeamsJS SDK V2 to extend your Microsoft Teams solutions to Outlook and Office
 * Project releases
-    * [SharePoint Framework (SPFx)](https://aka.ms/spfx) - v1.15 (RC) – includes list and library form extensability
+    * [SharePoint Framework (SPFx)](https://aka.ms/spfx) - v1.15 (RC) – includes list and library form extensibility
     * [PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/) - v3.4.0 to be released June 10th
     * [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/) - Adaptive Card support in the dev branch
 * Web part samples
