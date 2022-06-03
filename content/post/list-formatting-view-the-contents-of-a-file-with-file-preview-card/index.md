@@ -8,6 +8,7 @@ images:
 - images/thumbnail.png
 tags: []
 type: "regular"
+draft: true
 ---
 
 Have you ever opened and checked each file or page in the Document Library or Site Pages one by one to find the desired file or page? And have you ever been frustrated by the screen transitions that occur each time you open a file? I often have.
