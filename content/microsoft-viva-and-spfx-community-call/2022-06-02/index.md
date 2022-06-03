@@ -36,7 +36,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     * [My Awards](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-profile-awards/README.md) - [Luis Mañez](http://twitter.com/luismanez) \| @luismanez
     * [Filterable Image Gallery](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-image-gallery/README.md) - [Ari Gunawan](http://twitter.com/arigunawan3023) \| @arigunawan3023
     * [Page Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) - [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
-    * [ACE Strategy Pattern](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/ace-strategy-pattern)\* - [Marcin Wojciechowski](http://twitter.com/mgwojciech) \| @mgwojciech
+    * [ACE Strategy Pattern](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/ace-strategy-pattern) - [Marcin Wojciechowski](http://twitter.com/mgwojciech) \| @mgwojciech
 * ACE samples
     * Updated - [Office Locations](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-officelocations) – Image Card – [Nick Brown](http://twitter.com/techienickb) \| @techienickb
     * Updated - [Unread Emails](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-graph-unreademails) – Primary Text Card – [Nick Brown](http://twitter.com/techienickb) \| @techienickb
