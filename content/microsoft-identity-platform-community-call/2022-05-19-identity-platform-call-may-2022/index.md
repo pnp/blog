@@ -3,6 +3,7 @@ title: "Microsoft Identity Platform community call – May 2022"
 tags: ["Microsoft 365", "Azure", "Microsoft Identity Platform"]
 date: 2022-05-19T05:11:59-05:00
 author: "Nandeesh Swami"
+githubname: Nandeeshswami
 categories: ["Microsoft Identity platform community call"]
 images:
 - images/recording-identity-community-call-may-2022.png
