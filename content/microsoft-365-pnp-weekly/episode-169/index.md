@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 169"
 summary: ", joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss delivering great customer experiences, importance of data in product development decisionmaking, tips to prospective Product Managers, and latest articles/videos (many Build related) from Microsoft and Community."
-date: 2022-05-31T04:00:00-00:00
+date: 2022-06-07T04:00:00-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -10,7 +10,7 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=10aCVzFOirw
-draft: false
+draft: true
 ---
 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Montréal based Sr Product Manager on the Microsoft Graph team [Sébastien Levert](http://twitter.com/sebastienlevert) | @sebastienlevert.
