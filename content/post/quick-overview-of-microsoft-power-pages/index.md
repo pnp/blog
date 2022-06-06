@@ -19,7 +19,7 @@ Hi there,in this article, I will be introducing you to the new member of the new
 
 So let's get started!
 
-![image2.png](./images/image2.png)
+![Power Pages Home Screen](./images/image2.png)
 
 ## What is Power Pages?
 In previous times we have made use of Power Apps portals to build customized web pages, layouts, and contents. 
@@ -39,13 +39,13 @@ The Design Studio makes it easy to design, style, configure and publish modern b
 2. The Templates Hub:
 The Templates Hub hosts full-featured websites with demo data, so you can jumpstart your journey to managing scheduling, registration, application submission, and more, with these amazing built templates.
 
-![image3.png](./images/image3.png)
+![Power Pages Templates Screen Screenshot](./images/image3.png)
 
 3.Learn Hub:
 With the Learn Hub, you can explore guides, tutorials, and quick videos to learn how to build websites, model and visualize business data, work with code components, and of course, configure sites.
 This will help you get started if you are just about building your first website or not quite familiar with building websites using a low-code tool. 
 
-![image4.png](./images/image4.png)
+![Power Pages Learn Screen Screenshot](./images/image4.png)
 
 Another amazing reason to try out Power Pages is that Power Pages runs on Microsoft Azure and connects with Dataverse to provide critical security capabilities that include advanced encryption, rich role-based access controls (RBAC), and support for Microsoft Azure Front Door and other web application firewalls. Microsoft Azure DDoS Protection addresses top web security vulnerabilities.
 

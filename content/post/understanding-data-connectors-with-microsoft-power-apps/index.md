@@ -37,7 +37,7 @@ The image above showing popular connectors are all Standard Connectors.
 
 But in a situation where you want to connect to other types of data sources, such as the one you built, then they are referred to as Custom Connectors 
 
-Check out this article for more on  Custom Connectors - [Register and use custom connectors](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/register-custom-api)
+Check out this article for more on  Custom Connectors - [Register and use custom connectors](https://docs.microsoft.com/powerapps/maker/canvas-apps/register-custom-api)
 
 
 ## Connecting to Microsoft Dataverse
@@ -50,39 +50,39 @@ Now with the understanding of the Dataverse let us get into this codelab!
 ## Building a simple record-keeping app with Google Sheets (a Standard Connector):
 1. [Sign in to Power Apps](https://powerapps.microsoft.com/en-gb/) If you don't already have a Power Apps account, click the Start Free button. 
 
-![image1.png](images/image1.png)
+![Power Apps HomePage Screenshot](images/image1.png)
 
 2. After successful sign in to Power Apps this is what you should have now! 
 
-![image2.png](images/image2.png) 
+![Power Apps Screen after successful sign-in](images/image2.png) 
 Click on the Dataverse card. 
 
 3. You should have this screen now, showing previous connections. Then you click on New Connection
 
-![image3.png](images/image3.png)
+![PowerApps Connection screen](images/image3.png)
 
 4. If you followed the previous step properly, you should have this now, then click on Google Sheets and authenticate with your Google account. 
 
-![image4.png](images/image4.png)
+![google sheet connection power pages screenshot](images/image4.png)
 Now you choose a dataset, from a set of previous google sheet documents or perhaps you search for the one you have in mind just as I have done here. 
 
 5. The next option is to choose a table or create a new one. 
 
-![image5.png](images/image5.png)
+![Power Pages Connection sheet](images/image5.png)
 
 6. And finally you should have a very simple app for you with the data from the table you chose or created. Just as I have here too. 
 
-![image6.png](images/image6.png)
+![App screen](images/image6.png)
 
 That is the end of this codelab and hope you were able to follow it properly. 
 
 I will also be ending this article here now, leaving you with resources for further study. 
 
 ## Resources
-1. [Overview of connectors for canvas apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/connections-list)
-2. [Use custom connectors in a Power Apps canvas app](https://docs.microsoft.com/en-us/learn/modules/use-custom-connectors-in-powerapps-canvas-app/)
-3. [Microsoft Dataverse Documentation](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/)
-4. [Use custom connectors with the timeline control](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/custom-connectors-timeline-control)
+1. [Overview of connectors for canvas apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/connections-list)
+2. [Use custom connectors in a Power Apps canvas app](https://docs.microsoft.com/learn/modules/use-custom-connectors-in-powerapps-canvas-app/)
+3. [Microsoft Dataverse Documentation](https://docs.microsoft.com/powerapps/maker/data-platform/)
+4. [Use custom connectors with the timeline control](https://docs.microsoft.com/powerapps/maker/model-driven-apps/custom-connectors-timeline-control)
 
 So concluding now, in this article we understood what are Data connectors, Popular connectors used in Microsoft Power Apps, Standard and Custom connectors, Connecting to Microsoft Dataverse and finally had a codelab that taught us how to Connect or Build an app with data gotten from Google Sheet, which is an example of a Standard Connector. 
 
