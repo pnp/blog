@@ -63,18 +63,13 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
-* 1st of June -  Favour Adekunle | [Favour-dgreat Understanding Data Connectors with Microsoft Power Apps](https://pnp.github.io/blog/post/understanding-data-connectors-with-microsoft-power-apps/)
+* 1st of June -  [Understanding Data Connectors with Microsoft Power Apps](https://pnp.github.io/blog/post/understanding-data-connectors-with-microsoft-power-apps/) - Favour Adekunle | Favour-dgreat
 * 31st of May - [Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components](https://pnp.github.io/blog/post/build-teams-using-graph-toolkit/) - Sohil Bhalla | sohilbhalla
 * 31st orf May - [CLI for Microsoft 365 v5.3](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-3/) - [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
-* 22nd of May - [Darren Lutchner](https://twitter.com/assist_365) | @assist_365 - [Power App for Time Sheeting](https://pnp.github.io/blog/post/timesheet-app/)
+* 22nd of May - [Power App for Time Sheeting](https://pnp.github.io/blog/post/timesheet-app/) - [Darren Lutchner](https://twitter.com/assist_365) | @assist_365 
 * 22nd of May - [How to use the Power Platform developer plan with the Microsoft 365 Developer program](https://pnp.github.io/blog/post/microsoft-365-developer-account/images/) - [Rachel Irabor](https://twitter.com/Richie4love) | @Richie4love
 * 12th of May - [Adam Wójcik and Martin Lingstuyl join CLI for Microsoft 365 maintainers team](https://pnp.github.io/blog/cli-for-microsoft-365/new-maintainers-2022/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
-* 3rd of May - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [How to contribute to this blog ](https://pnp.github.io/blog/post/contribute-blog/)
-* 1st of May - [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert - [Style your command bar with formatting magic](https://pnp.github.io/blog/post/style-command-bar-with-formatting-magic/)
-* 29th of April - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - [CLI for Microsoft 365 v5.2](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-2/)
-* 27th of April - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese  - [How to rename files in SharePoint with Power Automate](https://pnp.github.io/blog/post/how-to-rename-files-in-sharepoint-with-power-automate/)
-* 25th of April - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [New Microsoft 365 platform community blog](https://pnp.github.io/blog/post/new-community-blog-platform/)
-* 19th of April - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth - [PnP PowerShell v1.10](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v1-10/)
+* 9th of May - [Microsoft 365 Platform Community (PnP) - May 2022 update](https://pnp.github.io/blog/microsoft-365-platform-community-update/22-05-10/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 
 ### Community call recording blog posts
 
@@ -90,14 +85,7 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 * 15th of May - [Office Add-ins community call – May 11, 2022](https://pnp.github.io/blog/office-add-ins-community-call/2022-05-11/)
 * 12th of May - [Microsoft 365 & Power Platform Development Community call - 12th of May, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-05-12/)
 * 10th of May - [Office Add-ins community call – April 13, 2022](https://pnp.github.io/blog/office-add-ins-community-call/2022-04-13/)
-
-* 6th of May - [Viva Connections & SharePoint Framework Community Call – 5th of May, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-05-05/)
-* 4th of May - [Microsoft 365 Platform Community Call - 3rd of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-03/)
-* 28th of April - [Microsoft 365 & Power Platform Development Community call - 28th of April, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-04-28/)
-* 27th of April - [Microsoft 365 Platform Community Call - 26th of April, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-04-26/)
-* 21st of April - [Viva Connections & SharePoint Framework Community Call – 21st of March, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-04-21/)
-* 20th of April - [Power Platform Community Call – April 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-april-2022/)
-* 19th of April - [Microsoft 365 Platform Community Call - 19th of April, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-04-19/)
+* 10th of May - [Microsoft 365 Platform Community Call - 10th of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-10/)
 
 ## Microsoft 365 Developer Podcasts
 
@@ -270,7 +258,7 @@ These are different areas which are closely involved on the community work acros
 
 Microsoft Graph Toolkit is engineering lead initiative, which works closely with the community on the open-source areas. The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic web components and helpers for accessing and working with Microsoft Graph. The components are fully functional right of out of the box, with built in providers that authenticate with and fetch data from Microsoft Graph.
 
-*   Latest version currently is 2.4
+*   Latest version currently is 2.5.2
 *   [mgt.dev](https://mgt.dev/?path=/story/components-mgt-agenda--simple) - Microsoft Graph Toolkit Playground
 *   [Getting started with Microsoft Graph Toolkit guidance video](https://www.youtube.com/watch?v=TbAZHvB5NEk) from developer community call by [Beth Pan](https://twitter.com/beth_panx) (Microsoft)
 *   Latest code and preview versions from [https://aka.ms/mgt](https://github.com/microsoftgraph/microsoft-graph-toolkit)
@@ -322,6 +310,8 @@ How to find what's relevant for you? Take advantage of our SharePoint Framework 
 
 These are samples which have been contributed on the community samples since last summary. We do welcome all Microsoft Teams samples to this gallery. They can be implemented using in any technology.
 
+*   New sample [bot-microsoft-search-api](https://github.com/pnp/teams-dev-samples/tree/main/samples/bot-microsoft-search-api) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German which shows how a bot can retreive different entities such as messages, events, files, and SharePoint list items using Microsoft Graph Search API, and display the resutls in adaptive cards with paging capability.
+
 If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://pnp.github.io/teams-dev-samples/). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
 
 ### Power Platform samples
@@ -348,13 +338,7 @@ We welcome all scripts on Microsoft 365 automation to this centralized repositor
 
 Here are the latest updates on the Script Samples:
 
-* Updated [Export a csv report on all Whiteboards](https://pnp.github.io/script-samples/whiteboard-report-usage/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
-* New [Export OneDrive Admins](https://pnp.github.io/script-samples/onedrive-export-admins/README.html) by Matt Maher
-* Updated [List guests within Teams in a tenant](https://pnp.github.io/script-samples/teams-list-guestusers/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
-* New [Get Hub Sites Details And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
-* Updated [Get Hub Sites Information And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
-* Updated [Get Hub Sites Information And Export It To CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
-* Updated [Update User Profile Properties](https://pnp.github.io/script-samples/spo-update-user-profile-properties/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
+//TODO Paul your samples go here
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative.
 
@@ -484,7 +468,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 ### Community people
 
 *   x[Abderahman Moujahid](https://github.com/Abderahman88) (iThink365) | Abderahman88
-*   x[Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
+*   [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 *   x[Ademosu Ayodele](https://github.com/aaademosu) | aaademosu
 *   x[Aimery Thomas](https://www.twitter.com/aimery_thomas) | @aimery\_thomas
 *   x[Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
@@ -627,12 +611,12 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
 *   x[Markus Joschko](https://github.com/jocsch) | jocsch
 *   x[Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
-*   x[Martin Lingstuyl](https://twitter.com/martinlingstuyl) | @Martinlingstuy
-*   x[Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
+*   [Martin Lingstuyl](https://twitter.com/martinlingstuyl) | @Martinlingstuy
+*   [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 *   x[Matt Beard](https://twitter.com/mattybeard) (Data8) | @Mattybeard
 *   x[Matt Collins-Jones](https://www.twitter.com/D365Geek) | @D365Geek
 *   x[Michael Blumenthal](https://www.twitter.com/MichaelBL) (M365chicago.com) | @MichaelBL
-*   x[Michaël Maillot](https://twitter.com/michael_maillot) ( OnePoint) | @michael_maillot
+*   [Michaël Maillot](https://twitter.com/michael_maillot) ( OnePoint) | @michael_maillot
 *   x[Michael Roth](https://twitter.com/michaelroth42) ( ITP) | @MichaelRoth42
 *   x[Michal Guzowski](https://twitter.com/abcguzowksi) (Developico) | @Abcguzowski
 *   x[Michal Romiszewski](https://twitter.com/romiszewski) | @Romiszewski
@@ -647,7 +631,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Mike Zimm](https://github.com/mikezimm) | mikezimm
 *   x[Mohammad Amer](https://twitter.com/Mohammad3mer) (Atea Global Services) | @Mohammad3mer
 *   x[Nader Hadjebi](https://twitter.com/nader2015) | @nader2015
-*   x[Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
+*   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
 *   x[Nathan Zipf](https://github.com/NathZ1) | NathZ1
 *   x[Naveen Karla](https://www.twitter.com/naveen67) | @naveen67
 *   Nicole Fleming (Sherwin Williams)
@@ -703,7 +687,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Simon Ågren](https://www.twitter.com/Agrenpoint) | @AgrenPoint
 *   x[Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy
 *   [Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @Simonjhudson
-*   x[Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
+*   [Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
 *   Sohil Bhalla | sohilbhalla
 *   x[Someleze Diko](https://twitter.com/DikoSomeleze) | DikoSomeleze
 *   Sorina Becheru (abtis GmbH)
