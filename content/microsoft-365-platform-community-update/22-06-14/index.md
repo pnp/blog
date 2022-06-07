@@ -67,6 +67,8 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 * 31st of May - [Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components](https://pnp.github.io/blog/post/build-teams-using-graph-toolkit/) - Sohil Bhalla | sohilbhalla
 * 31st orf May - [CLI for Microsoft 365 v5.3](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-3/) - [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
 * 22nd of May - [Darren Lutchner](https://twitter.com/assist_365) | @assist_365 - [Power App for Time Sheeting](https://pnp.github.io/blog/post/timesheet-app/)
+* 22nd of May - [How to use the Power Platform developer plan with the Microsoft 365 Developer program](https://pnp.github.io/blog/post/microsoft-365-developer-account/images/) - [Rachel Irabor](https://twitter.com/Richie4love) | @Richie4love
+* 12th of May - [Adam Wójcik and Martin Lingstuyl join CLI for Microsoft 365 maintainers team](https://pnp.github.io/blog/cli-for-microsoft-365/new-maintainers-2022/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
 * 3rd of May - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [How to contribute to this blog ](https://pnp.github.io/blog/post/contribute-blog/)
 * 1st of May - [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert - [Style your command bar with formatting magic](https://pnp.github.io/blog/post/style-command-bar-with-formatting-magic/)
 * 29th of April - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - [CLI for Microsoft 365 v5.2](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-2/)
@@ -80,6 +82,15 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 * 1st of June - [Microsoft 365 Platform Community Call - 31st of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-31/)
 * 27th of May - [Microsoft 365 & Power Platform Development Community call - 26th of May, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-05-26/)
 * 25th of May - [Microsoft 365 Platform Community Call - 24th of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-24/)
+* 19th of May - [Microsoft Identity Platform community call – May 2022](https://pnp.github.io/blog/microsoft-identity-platform-community-call/2022-05-19-identity-platform-call-may-2022/)
+* 19th of May - [Power Platform Community Call – May 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-may-2022/)
+* 19th of May - [Viva Connections & SharePoint Framework Community Call – 19th of May, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-05-19/)
+* 18th of May - [Adaptive Cards community call – May 2022](https://pnp.github.io/blog/adaptive-cards-community-call/adaptive-cards-community-call-may-2022/)
+* 17th of May - [Microsoft 365 Platform Community Call - 17th of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-17/)
+* 15th of May - [Office Add-ins community call – May 11, 2022](https://pnp.github.io/blog/office-add-ins-community-call/2022-05-11/)
+* 12th of May - [Microsoft 365 & Power Platform Development Community call - 12th of May, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-05-12/)
+* 10th of May - [Office Add-ins community call – April 13, 2022](https://pnp.github.io/blog/office-add-ins-community-call/2022-04-13/)
+
 * 6th of May - [Viva Connections & SharePoint Framework Community Call – 5th of May, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-05-05/)
 * 4th of May - [Microsoft 365 Platform Community Call - 3rd of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-03/)
 * 28th of April - [Microsoft 365 & Power Platform Development Community call - 28th of April, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-04-28/)
@@ -94,8 +105,7 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Podcast is back!
 
-* 26th of April - [M365 Dev Podcast - Bookings API with Altamish Ahmad](https://www.m365devpodcast.com/e/Bookings-API-with-Altamish-Ahmad)
-* 20th of April - [M365 Dev Podcast - Extensibility discussion with Ed Averett](https://www.m365devpodcast.com/e/extensibility-discussion-with-ed-averett)
+//TODO hunt Paul Schaeflein/Jeremy Thake
 
 ### Microsoft 365 PnP Weekly Podcasts and vlogs
 
@@ -104,9 +114,8 @@ PnP Weekly is a recurrent podcast with visitors where Vesa and Waldek talk about
 * 6th of June - [Microsoft 365 PnP Weekly - Episode 169 - Yannick Reekmans](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/)
 * 31st of May - [Microsoft 365 PnP Weekly - Episode 168 - Sébastien Levert ](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-168/)
 * 24th of May - [Microsoft 365 PnP Weekly - Episode 167 - Gautam Sheth](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-167/)
-* 3rd of May - [Microsoft 365 PnP Weekly - Episode 164 - Elio Stryf](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-164/)
-* 26th of April - [Microsoft 365 PnP Weekly - Episode 163 - Mikael Svenson](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-163/)
-* 19th of April - [Microsoft 365 PnP Weekly - Episode 162 - Wictor Wilén ](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-162/)
+* 17th of May - [Microsoft 365 PnP Weekly - Episode 166 - Pierce Boggan](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-166/)
+* 10th of May - [Microsoft 365 PnP Weekly - Episode 165 - Laura Kokkarinen](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/)
 
 ## Community calls
 
