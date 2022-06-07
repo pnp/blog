@@ -495,7 +495,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Aric Bost](https://www.twitter.com/1CyberState) (North Carolina Housing Finance Agency) | @1CyberState
 *   x[Arjan Cornelissen](https://twitter.com/arjancornelis) | @arjancornelis
 *   [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
-*   x[Arleta Wanat](https://github.com/PowershellScripts) | PowershellScripts
+*   [Arleta Wanat](https://github.com/PowershellScripts) | PowershellScripts
 *   Art Pagano (University of Texas San Antonio)
 *   x[Artur Posluszny](https://www.github.com/aposl1) | aposl1
 *   x[Asad Refai](https://www.twitter.com/asadrefai) (Intelogy) | @AsadRefai
@@ -514,7 +514,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Chandra Sekhar Malla](https://twitter.com/ChandraSMalla) (Royal Group LLC) | @ChandraSMall
 *   [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
 *   Chris Sparrow (PA Consulting)
-*   x[Christian Zuellig](https://github.com/czullu) (MondayCoffee) | czullu
+*   [Christian Zuellig](https://github.com/czullu) (MondayCoffee) | czullu
 *   x[Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
 *   x[Christopher Graves](https://www.twitter.com/Christo48927551) (Arvato) | @Christo48927551
 *   x[Chuck Piotrowski](https://www.twitter.com/chuckpiot) (PIOT) | @chuckpiot
@@ -522,6 +522,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Clement Olivier](https://twitter.com/Clement0livier) | @Clement0livier
 *   Cynthia Tiwana (city of sammamish) | ctiwana
 *   x[Daniel Laskewitz](https://twitter.com/laskewitz) (Sogeti) | @Laskewitz
+*   Daniel Pastoor | danielpastoor
 *   x[Daniel Westerdale](https://www.twitter.com/westerdaled) (Westerdale Solutions Ltd) | @Westerdaled
 *   x[Danish Shafi](https://twitter.com/builtbydan) | @Builtbydan
 *   Darren Brown (Node4)
@@ -625,7 +626,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Michal Ziemba](https://www.twitter.com/Michal_Ziemba) (Flugger) | @Michal\_Ziemba
 *   x[Michel Mendes](https://twitter.com/michelcarlo) | @Michelcarlo
 *   Michelle Heisler (Hennepin County)
-*   x[Miguel Angel García](https://twitter.com/miangama) | @Miangama
+*   [Miguel Angel García](https://twitter.com/miangama) | @Miangama
 *   Milan Holemans | milanholemans
 *   x[Mike Duffy](https://www.twitter.com/mike_duffy) (Boardwalk Pipelines) | @Mike\_duffy
 *   x[Mike Dumka](https://www.twitter.com/mikedumka) (Habanero Consulting) | @Mikedumka
@@ -681,7 +682,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Sami Nieminen | stniemin
 *   x[Sebastian Zolg](https://twitter.com/sebastianzolg) (Swisscom) | @sebastianzolg
 *   x[Sekar Thangavel](https://github.com/SekarThangavel) (IBM) | SekarThangavel
-*   x[Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
+*   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 *   x[Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
 *   x[Shishir](https://www.github.com/skky05) | skky05
 *   Shrushti Shah (Rapid Circle)
