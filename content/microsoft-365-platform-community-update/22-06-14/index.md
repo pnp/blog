@@ -63,7 +63,10 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
-* 1st of June -  Favour Adekunle | Favour-dgreat Understanding Data Connectors with Microsoft Power Apps
+* 1st of June -  Favour Adekunle | [Favour-dgreat Understanding Data Connectors with Microsoft Power Apps](https://pnp.github.io/blog/post/understanding-data-connectors-with-microsoft-power-apps/)
+* 31st of May - [Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components](https://pnp.github.io/blog/post/build-teams-using-graph-toolkit/) - Sohil Bhalla | sohilbhalla
+* 31st orf May - [CLI for Microsoft 365 v5.3](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-3/) - [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
+* 22nd of May - [Darren Lutchner](https://twitter.com/assist_365) | @assist_365 - [Power App for Time Sheeting](https://pnp.github.io/blog/post/timesheet-app/)
 * 3rd of May - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [How to contribute to this blog ](https://pnp.github.io/blog/post/contribute-blog/)
 * 1st of May - [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert - [Style your command bar with formatting magic](https://pnp.github.io/blog/post/style-command-bar-with-formatting-magic/)
 * 29th of April - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - [CLI for Microsoft 365 v5.2](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-2/)
@@ -74,7 +77,9 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 ### Community call recording blog posts
 
 * 3rd of June - [Viva Connections & SharePoint Framework Community Call – 2nd of June, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-06-02/)
-*1st of June - Microsoft 365 Platform Community Call - 31st of May, 2022 
+* 1st of June - [Microsoft 365 Platform Community Call - 31st of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-31/)
+* 27th of May - [Microsoft 365 & Power Platform Development Community call - 26th of May, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-05-26/)
+* 25th of May - [Microsoft 365 Platform Community Call - 24th of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-24/)
 * 6th of May - [Viva Connections & SharePoint Framework Community Call – 5th of May, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-05-05/)
 * 4th of May - [Microsoft 365 Platform Community Call - 3rd of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-03/)
 * 28th of April - [Microsoft 365 & Power Platform Development Community call - 28th of April, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-04-28/)
@@ -97,7 +102,8 @@ In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Mi
 PnP Weekly is a recurrent podcast with visitors where Vesa and Waldek talk about the latest news and announcements in Microsoft 365 and SharePoint areas.
 
 * 6th of June - [Microsoft 365 PnP Weekly - Episode 169 - Yannick Reekmans](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/)
-* 
+* 31st of May - [Microsoft 365 PnP Weekly - Episode 168 - Sébastien Levert ](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-168/)
+* 24th of May - [Microsoft 365 PnP Weekly - Episode 167 - Gautam Sheth](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-167/)
 * 3rd of May - [Microsoft 365 PnP Weekly - Episode 164 - Elio Stryf](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-164/)
 * 26th of April - [Microsoft 365 PnP Weekly - Episode 163 - Mikael Svenson](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-163/)
 * 19th of April - [Microsoft 365 PnP Weekly - Episode 162 - Wictor Wilén ](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-162/)
@@ -545,6 +551,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
 *   x[Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
 *   [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) | @Erwinvanhunen
+*   Favour Adekunle
 *   Florian Zink | fzbm
 *   [Franck Cornu](https://twitter.com/FranckCornu) | @FranckCornu
 *   x[Ganesh R](https://twitter.com/geekwhocodes) (RapidCircle) | @Geekwhocodes
@@ -688,6 +695,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy
 *   [Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @Simonjhudson
 *   x[Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
+*   Sohil Bhalla | sohilbhalla
 *   x[Someleze Diko](https://twitter.com/DikoSomeleze) | DikoSomeleze
 *   Sorina Becheru (abtis GmbH)
 *   x[Soumit Mukherjee](https://twitter.com/msoumit) | @Msoumit
