@@ -277,7 +277,7 @@ This time no new articles.
 
 #### Updated articles
 
-* Updated article - [Content Type Propagation](https://docs.microsoft.com/en-us/microsoft-365/community/content-type-propagation) - by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) (Microsoft)
+* Updated article - [Content Type Propagation](https://docs.microsoft.com/microsoft-365/community/content-type-propagation) - by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) (Microsoft)
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model more detailed.
 
@@ -290,11 +290,12 @@ Have ideas for articles or want to contribute yourself? - Get involved! Here are
 
 These are the updated SharePoint Framework samples which are available from the different repositories.
 
+* New sample [react-fluentui-9](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-fluentui-9) by [Nick Brown](https://twitter.com/techienickb)  (JISC) | @techieni, that shows the use of the new Fluent UI version 9 controls and theme provider
+* New samplpe [ace-strategy-pattern](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/ace-strategy-pattern) by [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
+* New sample [react-graph-profile-awards](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-profile-awards) by [Luis Mañez](https://twitter.com/luismanez) () | @luismanez
+* Updated sample [react-faqs](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs) by 
 * Updated sample [react-birthdays](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-birthdays) by Milan Holemans | milanholemans
-* Updated sample [js-propertycontrols-svg](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/js-propertycontrols-svg) by [Nader Hadjebi](https://twitter.com/nader2015) | @nader2015
-* Updated sample [react-tour-pnpjs](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-tour-pnpjs) by [Mike Homol](https://twitter.com/homol) | @homol
-* Updated sample [vuejs-todo-single-file-component](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/vuejs-todo-single-file-component) by LOLCATATONIA
-* Updated sample [react-display-hierarchy](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-display-hierarchy) by [Nick Brown](https://twitter.com/techienickb)  (JISC) | @techieni
+
 
 
 How to find what's relevant for you? Take advantage of our SharePoint Framework web part and extension sample galleries - also includes solutions which work in Microsoft Teams
@@ -338,20 +339,20 @@ We welcome all scripts on Microsoft 365 automation to this centralized repositor
 
 Here are the latest updates on the Script Samples:
 
-- Updated [Testing user preferred language of SharePoint site](https://pnp.github.io/script-samples/user-language-for-site/README.html) by [Adam Wójcik](https://twitter.com/Adam25858782)  (Hitachi Energy) | @Adam25858782
-- Updated [Flow run day summary](https://pnp.github.io/script-samples/flow-runs-day-summary/README.html) by [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
-- New [SharePoint Online Hub Site Association](https://pnp.github.io/script-samples/spo-hub-sites-association/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
-- New [Planner migration to SharePoint list](https://pnp.github.io/script-samples/planner-migration-spo-list/README.html) by [Albert-Jan Schot](https://twitter.com/appieschot)  ( BLIS Digital) | @appieschot
-- Updated [Run A Search Query And Export To CSV](https://pnp.github.io/script-samples/spo-search-export-to-csv/README.html) by [Smita Nachan](https://twitter.com/smitanachan)  (TietoEVRY) | @smitanachan
-- Updated [Get SharePoint List Fields With Required properties And Export It To CSV](https://pnp.github.io/script-samples/spo-get-and-export-list-fields/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
-- Updated [Bulk library generation](https://pnp.github.io/script-samples/spo-create-bulk-libraries/README.html) by Milan Holemans
-- Updated [Script allow copy column format in SharePoint and apply to different column](https://pnp.github.io/script-samples/spo-apply-column-format/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
-- Updated [Planner migration to SharePoint list](https://pnp.github.io/script-samples/planner-migration-spo-list/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
-- Updated [Reset files permission unique to inheritance](https://pnp.github.io/script-samples/reset-files-permission-unique-to-inherited/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
-- Updated [Get SharePoint List Or Library Permissions And Export It To CSV](https://pnp.github.io/script-samples/spo-get-list-library-permission-export-to-csv/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
-- Updated [SharePoint Online Hub Site Association](https://pnp.github.io/script-samples/spo-hub-sites-association/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
-- New [Copy Planner plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html) by Milan Holemans
-- Updated [Fetch User Profile Properties From Site Collection And Export To CSV](https://pnp.github.io/script-samples/fetch-user-profile-properties/README.html) by [Mathijs Verbeeck](https://twitter.com/mathijsverbeeck)  | @mathijsverbeeck
+* Updated [Testing user preferred language of SharePoint site](https://pnp.github.io/script-samples/user-language-for-site/README.html) by [Adam Wójcik](https://twitter.com/Adam25858782)  (Hitachi Energy) | @Adam25858782
+* Updated [Flow run day summary](https://pnp.github.io/script-samples/flow-runs-day-summary/README.html) by [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
+* New [SharePoint Online Hub Site Association](https://pnp.github.io/script-samples/spo-hub-sites-association/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+* New [Planner migration to SharePoint list](https://pnp.github.io/script-samples/planner-migration-spo-list/README.html) by [Albert-Jan Schot](https://twitter.com/appieschot)  ( BLIS Digital) | @appieschot
+* Updated [Run A Search Query And Export To CSV](https://pnp.github.io/script-samples/spo-search-export-to-csv/README.html) by [Smita Nachan](https://twitter.com/smitanachan)  (TietoEVRY) | @smitanachan
+* Updated [Get SharePoint List Fields With Required properties And Export It To CSV](https://pnp.github.io/script-samples/spo-get-and-export-list-fields/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
+* Updated [Bulk library generation](https://pnp.github.io/script-samples/spo-create-bulk-libraries/README.html) by Milan Holemans
+* Updated [Script allow copy column format in SharePoint and apply to different column](https://pnp.github.io/script-samples/spo-apply-column-format/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
+* Updated [Planner migration to SharePoint list](https://pnp.github.io/script-samples/planner-migration-spo-list/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
+* Updated [Reset files permission unique to inheritance](https://pnp.github.io/script-samples/reset-files-permission-unique-to-inherited/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
+* Updated [Get SharePoint List Or Library Permissions And Export It To CSV](https://pnp.github.io/script-samples/spo-get-list-library-permission-export-to-csv/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
+* Updated [SharePoint Online Hub Site Association](https://pnp.github.io/script-samples/spo-hub-sites-association/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
+* New [Copy Planner plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html) by Milan Holemans
+* Updated [Fetch User Profile Properties From Site Collection And Export To CSV](https://pnp.github.io/script-samples/fetch-user-profile-properties/README.html) by [Mathijs Verbeeck](https://twitter.com/mathijsverbeeck)  | @mathijsverbeeck
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative.
 
@@ -486,7 +487,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 *   x[Ademosu Ayodele](https://github.com/aaademosu) | aaademosu
 *   x[Aimery Thomas](https://www.twitter.com/aimery_thomas) | @aimery\_thomas
-*   x[Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
+*   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 *   x[Alex Gonsales](https://www.github.com/MrDrSushi) (Intergen) | MrDrSushi
 *   Alexander Ernon (Amplexor)
 *   Aleksandr Sapozhkov | shurick81
@@ -511,6 +512,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Arleta Wanat](https://github.com/PowershellScripts) | PowershellScripts
 *   Art Pagano (University of Texas San Antonio)
 *   x[Artur Posluszny](https://www.github.com/aposl1) | aposl1
+*   Arun Kumar Perumal | arunkumarperumal
 *   x[Asad Refai](https://www.twitter.com/asadrefai) (Intelogy) | @AsadRefai
 *   x[Ashwani Kumar](https://www.twitter.com/ashwanidv100) (Walmart Global Tech) | @Ashwanidv100
 *   x[Bartolomeo Sorrentino](https://twitter.com/bsorrentinoJ) (soulsoftware) | @BsorrentinoJ
@@ -618,13 +620,15 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 *   x[Laurent Egbakou](https://twitter.com/lioncoding) | @Lioncoding
 *   x[Lee Ford](https://twitter.com/lee_ford) ( Symity) | @Lee\_Ford
-*   x[Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
+*   [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
 *   x[Lindsay Shelton](https://www.twitter.com/lshelton_tech) (Stowers Institute for Medical Research) | @Lshelton\_tech
 *   x[Loïc Cimon](https://twitter.com/LoicCimon) (Sogeti) | @LoicCimon
 *   [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
+*   [Luis Mañez](https://twitter.com/luismanez) () | @luismanez
 *   Manickam Sethuramalingam (microland)
 *   x[Manjunath Puttaswamy](https://www.twitter.com/ManjunathPutta3) (Momentive Performance Materials India Private Limited) | @ManjunathPutta3
 *   [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
+*   [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
 *   x[Markus Joschko](https://github.com/jocsch) | jocsch
 *   x[Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
 *   [Martin Lingstuyl](https://twitter.com/martinlingstuyl) | @Martinlingstuy
@@ -673,7 +677,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Prafull Kotecha](https://www.twitter.com/prafull) | @Prafull
 *   x[Ralph Rivas](https://www.twitter.com/bigpix2000) (Sogeti) | @Bigpix2000
 *   x[Rentu](https://github.com/SLdragon) | SLdragon
-*   x[Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
+*   [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
 *   Rico van de Ven | RicoNL
 *   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
 *   x[r-markus](https://github.com/r-markus) | r-markus
