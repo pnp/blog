@@ -1,15 +1,15 @@
 ---
 title: "Getting started with unit testing SPFx"
-date: 2022-06-01T08:40:00-04:00
+date: 2022-06-06T08:40:00-04:00
 author: "Marcin Wojciechowski"
 githubname: mgwojciech
 # don't change
 categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
-- images/myImage.png
+- images/TestFails.PNG
 # don't change
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 # don't change
 type: "regular"
 ---
@@ -45,14 +45,16 @@ I will follow a sample I created some time ago. It's a simple web part showing s
 Jest is most popular unit testing framework for javascript. It's flexible, robust and fast. I think it's a best solution we can pick.
 
 ### Initial setup
-To install it and other dependencies we are going to need, let's open a terminal in our SPFx project location and run 
+To install it and other dependencies we are going to need, let's open a terminal in our SPFx project location and run
+
 ```
 npm i -D @types/jest @types/chai chai identity-obj-proxy jest ts-jest
 ```
 
 With this command we will add jest and types for jest (our unit testing framework), chai and types form chai (assertion library), identity-obj-proxy - great helper method to simplify mocking and ts-jest - typescript helper library for jest.
 
-Now we can define jest minimal configuration in our package.json file
+Now we can define jest minimal configuration in our `package.json` file
+
 ``` JSON
     ...,
     "jest": {
@@ -72,7 +74,9 @@ Now we can define jest minimal configuration in our package.json file
     }
   ...
 ```
-What is happening here is:
+
+What is happening here is
+
  * Transforming ts and tsx files using ts-jest - effectively we add support for typescript in our unit tests
  * testRegex - we basically define what files we will consider as a unit test file
  * moduleFileExtensions - we define what files are considered modules in our solution. I would consider it optional, unless You are using some .js files in the solution. The order matters so we want to give typescript files priority over javascript files and jest defaults to js over ts. 
@@ -224,13 +228,14 @@ describe("GraphSearchAPIDocumentsProvider", () => {
  ```
 
 ### First run
+
  Now we can run our test running npx jest. There is an exception though
 
  ![TestRunError](./images//TestFails.PNG)
 
  This will be a common issue during our testing. What is happening here is jest is trying to load the sp-core-library dependency at runtime however jest can load only commonjs dependencies. In this particular case the underlying problem is that MS does not include commonjs versions of their libraries in npm, which means the requested modules are physically not there.
 
->Starting SPFx 1.13 I've noticed there are some SPFx libraries with commonjs version. In most cases I would still recommend mocking them in tests for better control.
+> Starting SPFx 1.13 I've noticed there are some SPFx libraries with commonjs version. In most cases I would still recommend mocking them in tests for better control.
 
 In our class we use sp-core-library for logging, so let's define a test suite level mock for it, to avoid loading the actual dependency.
 
