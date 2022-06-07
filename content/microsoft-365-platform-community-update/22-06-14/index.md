@@ -354,6 +354,8 @@ For more information, you can watch this video on [Publish a connector to the Pu
 
 #### These are the latest connectors
 
+//TODO Natalie - the new connectors go here, thank you! 
+
 * Advanced Scraper - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
 * Ambee- [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
 * AMEE Open Company - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
