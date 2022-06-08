@@ -270,17 +270,28 @@ All the latest updates on the Microsoft Graph Toolkit is being presented in our 
 
 ![Community Docs ](images/communitydocs.png)
 
-Community Docs model was announced in the April 2020 and it's great to see the interest for community to help each other by providing new guidance on the non-dev areas. See more on the announcement from the SharePoint blog - [Announcing the Microsoft 365 Community Docs](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/announcing-the-microsoft-365-community-docs/ba-p/1288203). We do welcome contributions from the community - our objective is to build a valuable location for articles from Microsoft and community together.
+The Community Docs model was announced in April 2020 and it's great to see the interest for community to help each other by providing new guidance on non-dev areas. See more on the announcement from the SharePoint blog - [Announcing the Microsoft 365 Community Docs](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/announcing-the-microsoft-365-community-docs/ba-p/1288203). We welcome contributions from the community: our objective is to build a valuable location for articles from Microsoft and the community together.
 
 #### New articles
 
-<!-- TODO Marc this is your placeholder -->
+* [Teams Shared Channels for Admins](./Community/teams-shared-channel-for-admins.md) by [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
 
 #### Updated articles
 
-* Updated article - [Content Type Propagation](https://docs.microsoft.com/microsoft-365/community/content-type-propagation) - by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) (Microsoft)
+* [Content Type Propagation](./Community/content-type-propagation.md) by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
+* [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) by [Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/)
+* [Power Automate - Send SharePoint files as attachments](./Community/power-automate-send-sharepoint-files-as-attachments.md) by [blb0004](https://github.com/blb0004/)
+* [Glossary](./Community/glossary.md) by [Saisang Cai](https://github.com/Saisang)
+* [Accessibility by Design](./Community/accessibility-by-design.md) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [Benefits of using PowerShell with SharePoint](./Community/benefits-of-using-powershell-with-sharepoint.md) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [Glossary](./Community/glossary.md) by [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
+* [Glossary](./Community/glossary.md) by [Rene Modery](https://www.linkedin.com/in/modery/)
+* [Why Microsoft 365 adoption projects fail](./Community/why-m365-adoption-projects-fail.md) by [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
+* [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [SharePoint Naming Guidelines](./Community/sharepoint-naming-guidelines.md) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) by [Saisang Cai](https://github.com/Saisang)
 
-Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model more detailed.
+Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model in more detail.
 
 *   YouTube - [Introducing Microsoft 365 Community Docs](https://www.youtube.com/watch?v=HTbgjWvsh3k)
 *   [GitHub issue list](https://github.com/MicrosoftDocs/microsoft-365-community/issues) with articles ideas
@@ -564,6 +575,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Clavin Fernandes](https://www.twitter.com/clavinfernandes) (Rapid Circle) | @Clavinfernandes
 *   x[Clement Olivier](https://twitter.com/Clement0livier) | @Clement0livier
 *   Cynthia Tiwana (city of sammamish) | ctiwana
+*   [Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
 *   x[Daniel Laskewitz](https://twitter.com/laskewitz) (Sogeti) | @Laskewitz
 *   Daniel Pastoor | danielpastoor
 *   x[Daniel Westerdale](https://www.twitter.com/westerdaled) (Westerdale Solutions Ltd) | @Westerdaled
@@ -633,6 +645,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Jerker Vallbo](https://github.com/jerval53) | jerval53
 *   x[Jhan Zaib](https://www.github.com/jhan-zaib) (Ascertia) | jhan-zaib
 *   [Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
+*   [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
 *   x[Jinlong Wang](https://www.github.com/apzl808) | apzl808
 *   x[Jiten Parmar](https://www.twitter.com/Jitenpa44241205) (Rapid Circle) | @Jitenpa44241205
 *   [João Ferreira](https://twitter.com/Joao12Ferreira) | @Joaoferreira
@@ -665,7 +678,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Maarten van Stam](https://twitter.com/aafvstam) | @aafvstam
 *   Manickam Sethuramalingam (microland)
 *   x[Manjunath Puttaswamy](https://www.twitter.com/ManjunathPutta3) (Momentive Performance Materials India Private Limited) | @ManjunathPutta3
-*   [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
+*   [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
 *   [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
 *   x[Markus Joschko](https://github.com/jocsch) | jocsch
 *   x[Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
@@ -678,7 +691,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
     [Michael Badia](https://www.github.com/stoicvincero) | stoicvincero
 *   x[Michael Blumenthal](https://www.twitter.com/MichaelBL) (M365chicago.com) | @MichaelBL
 *   [Michaël Maillot](https://twitter.com/michael_maillot) ( OnePoint) | @michael_maillot
-*   x[Michael Roth](https://twitter.com/michaelroth42) ( ITP) | @MichaelRoth42
+*   [Michael Roth](https://twitter.com/michaelroth42) ( ITP) | @MichaelRoth42
 *   x[Michal Guzowski](https://twitter.com/abcguzowksi) (Developico) | @Abcguzowski
 *   x[Michal Romiszewski](https://twitter.com/romiszewski) | @Romiszewski
 *   x[Michal Ziemba](https://www.twitter.com/Michal_Ziemba) (Flugger) | @Michal\_Ziemba
@@ -700,6 +713,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Nikki Chapple](https://www.twitter.com/chapplenikki) (Cloudway) | @Chapplenikki
 *   x[Nizar Grindi](https://www.twitter.com/nizar_grindi) (Avanade) | @nizar\_grindi
 *   x[Norm Young](https://www.twitter.com/stormin_30) (UnlimitedViz) | @Stormin\_30
+*   [Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/)
 *   x[Omar Stewart](https://www.twitter.com/OmarStewey) | @OmarStewey
 *   [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 *   x[Patrick de Lanoy](https://www.twitter.com/empowerpatrick)(EmpowerTech) | @EmpowerPatrick
@@ -740,6 +754,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Ryan Healy](https://www.twitter.com/Ryan365Apps) (365Apps) | @Ryan365Apps
 *   Sabrina Faragoza (Cognizant's Microsoft Business Group)
 *   x[Sachchin Annam](https://www.twitter.com/Sachchinn) (Freelancer) | @Sachchinn
+*   [Saisang Cai](https://github.com/Saisang)
 *   x[Sam Bridegroom](https://www.twitter.com/sambridegroom) (Allied Solutions) | @Sambridegroom
 *   Sami Nieminen | stniemin
 *   x[Sebastian Zolg](https://twitter.com/sebastianzolg) (Swisscom) | @sebastianzolg
@@ -748,6 +763,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
 *   x[Shishir](https://www.github.com/skky05) | skky05
 *   Shrushti Shah (Rapid Circle)
+*   [Sid Lama](https://www.linkedin.com/in/sidlama/)
 *   x[Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh\_me
 *   x[Simon Ågren](https://www.twitter.com/Agrenpoint) | @AgrenPoint
 *   x[Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy
