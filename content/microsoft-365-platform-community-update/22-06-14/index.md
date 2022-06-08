@@ -415,8 +415,10 @@ Here are the new Microsoft demo or guidance videos released since the last month
 *  [Publish your app in the Microsoft Teams App Store](https://www.youtube.com/watch?v=IQf2Zs9Mob8) by Natalia Kats (Microsoft)
 *  [Dynamic User Scope in Microsoft Graph Data Connect](https://www.youtube.com/watch?v=TMRrDUsqcYo&t=34s) by Nik Charlebois (Microsoft) | @NikCharlebois### Community demo videos
 
+### Community demo videos
+
 * [Blazor in Office Add-ins](https://www.youtube.com/watch?v=rmZEJ45xG7s) by [Maarten van Stam](https://twitter.com/aafvstam) | @aafvstam
-* [Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions](https://www.youtube.com/watch?v=-2xFSyhDUtg) by [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
+* [Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions](https://www.youtube.com/watch?v=-2xFSyhDUtg) by [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | @franzinifabio
 * [Streamline Annual Document Reviews with Power Apps](https://www.youtube.com/watch?v=yJsgn48-xC0) by [Heidi Jordan](https://twitter.com/heidi_jordan14) (High Plains Technology) | @heidi_jordan14
 * [Building Office Locations Viva Connections Adaptive Card Extension with SPFx](https://www.youtube.com/watch?v=bxjutcL_s6A) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 * [Automatically generate technical documentation of your Power Apps and Power Automate Flows](https://www.youtube.com/watch?v=2-mH8vdVlaM) by [Rene Modery](https://twitter.com/modery) (WPP) | @modery 
@@ -433,20 +435,25 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [Easily fix errors in your SPFx projects with CLI for Microsoft 365](https://www.youtube.com/watch?v=UNsLb8Kj2O0) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
 * [List formatting magic – Advance discussion board formatting with Power Automate](https://www.youtube.com/watch?v=Kdwbehx1804) by [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 * [Handling multi-user responses for Adaptive Cards in Microsoft Teams](https://www.youtube.com/watch?v=V0iTtOYcP6w) by Josh Friedman (Microsoft) 
-* [Manage data in OneDrive application folder within your SPFx solution with Microsoft Graph](https://www.youtube.com/watch?v=Mk8PRRcT_qI) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
-* [SPFx Design Patterns – Property pane exception handling](https://www.youtube.com/watch?v=ZQcqIm0DlxU) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
+* [Manage data in OneDrive application folder within your SPFx solution with Microsoft Graph](https://www.youtube.com/watch?v=Mk8PRRcT_qI) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878[
+* [SPFx Design Patterns – Property pane exception handling](https://www.youtube.com/watch?v=ZQcqIm0DlxU) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh](https://www.youtube.com/watch?v=_yJ4V5145z8)
 * [Auto Batching Microsoft Graph Calls in your SPFx solutions](https://www.youtube.com/watch?v=Wt5HewSLV-o) by [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
 * [Run Office Scripts with a button - now in Excel for Windows](https://www.youtube.com/watch?v=IrYndOa_Snk) by [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) | @nancyatMSFT
 * Rename SharePoint Framework project easily using CLI for Microsoft 365[](https://www.youtube.com/watch?v=BMogZ0vjQi0) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
 * [Introducing new Microsoft 365 Assessment Tool with SharePoint Syntex Module](https://www.youtube.com/watch?v=2remAiSfajA) by [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert and [James Eccles](https://github.com/jameseccles) (Microsoft) | @jimdeccles
 * [List formatting magic - Discussion board formatting](https://www.youtube.com/watch?v=KTleK0_66IU) by [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 * [Extend your Microsoft Teams app to Outlook and Office](https://www.youtube.com/watch?v=T0-4daiWsE0) by [Erin Bailie](https://twitter.com/EMBailie) (Microsoft) | @EMBailie
-* Introduction to Adaptive Card Design Gallery reusable reference sample[](https://www.youtube.com/watch?v=ouKq4i9RjbY) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
+* [Introduction to Adaptive Card Design Gallery reusable reference sample](https://www.youtube.com/watch?v=ouKq4i9RjbY) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
 * [Microsoft Teams and SharePoint updates with Stephen Rose](https://www.youtube.com/watch?v=xcNaYZINR_c) by [Stephen Rose](https://twitter.com/stephenlrose) (Microsoft) | @stephenlrose
 * [Updates on Independent Publisher Connectors & GitLab Connector Demo](https://www.youtube.com/watch?v=mxcV7CZaHRE) by [Roy Paar](https://twitter.com/RoyPaar) (Microsoft) | @RoyPaar
-* 
-
-* [Building in-mee
+* [Using Adaptive Cards control from the PnP control gallery in SPFx solutions](https://www.youtube.com/watch?v=q2DzLofRfwE) by [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | @franzinifabio
+* [Customer Inventory and Daily Expenses App](https://www.youtube.com/watch?v=8OnWUGNnoxw) by [Rachel Irabor](https://twitter.com/Richie4love) | @Richie4love
+* [Hybrid workplace momentum with Jeff Teper](https://www.youtube.com/watch?v=gpyWqYwH_mk) by [Jeff Teper](https://twitter.com/jeffteper) (Microsoft) | @JeffTeper
+* [Microsoft Graph connectors updates and Postman samples](https://www.youtube.com/watch?v=pP97YNIhU8A) by 
+* [Introduction to Power Apps Portals ](https://www.youtube.com/watch?v=_yJ4V5145z8) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
+* [Navigating Cards in Viva Connections ACEs](https://www.youtube.com/watch?v=EjB3ocoDqBA) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+* [Extending Microsoft Teams apps to Outlook and Office.com](https://www.youtube.com/watch?v=PVEPji6xB4U) by [Saurabh Bhatia](https://twitter.com/iamSBTron) (Microsoft) | @iamSBTron  
+* [Latest on Microsoft Graph Data Connect datasets](https://www.youtube.com/watch?v=Q7n60jr4gCM) by [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
 
 
 
@@ -602,6 +609,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Inez Jacobs (Amplexor)
 *   Isolde Kanikani (SoftwareONE)
 *   x[Jacob Warrington](https://www.twitter.com/jjhwarrington) (Catapult Systems) | @Jjhwarrington
+*   Jay Jani
 *   Jake Stanger | JakeStanger
 *   James May | fowl2
 *   x[Jan Bakker](https://twitter.com/janbakker_) | @JanBacker\_
@@ -669,6 +677,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Mike Dumka](https://www.twitter.com/mikedumka) (Habanero Consulting) | @Mikedumka
 *   x[Mike Homol](https://twitter.com/homol) (ThreeWill) | @homol
 *   x[Mike Zimm](https://github.com/mikezimm) | mikezimm
+*   Mitanshu Garg
 *   x[Mohammad Amer](https://twitter.com/Mohammad3mer) (Atea Global Services) | @Mohammad3mer
 *   x[Nader Hadjebi](https://twitter.com/nader2015) | @nader2015
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
@@ -867,6 +876,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Jasmine Hoegh](https://www.twitter.com/sbjishu) (Microsoft) | @Sbjishu
 *   Jason Johnston (Microsoft) | jasonjoh
 *   Jay Hangan (Microsoft)
+*   [Jeff Teper](https://twitter.com/jeffteper) (Microsoft) | @JeffTeper
 *   Joanne Hendrickson (Microsoft) | JoanneHendrickson
 *   John Nguyen (Microsoft) | johnguy0
 *   [John Sudds](https://twitter.com/jsuddsjr) (Microsoft) | @Jsuddsjr
