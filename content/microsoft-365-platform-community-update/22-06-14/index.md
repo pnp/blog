@@ -454,7 +454,6 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [Navigating Cards in Viva Connections ACEs](https://www.youtube.com/watch?v=EjB3ocoDqBA) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Extending Microsoft Teams apps to Outlook and Office.com](https://www.youtube.com/watch?v=PVEPji6xB4U) by [Saurabh Bhatia](https://twitter.com/iamSBTron) (Microsoft) | @iamSBTron  
 * [Latest on Microsoft Graph Data Connect datasets](https://www.youtube.com/watch?v=Q7n60jr4gCM) by [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
-[[[](https://www.youtube.com/watch?v=Q7n60jr4gCM)](https://www.youtube.com/watch?v=Q7n60jr4gCM)](https://www.youtube.com/watch?v=Q7n60jr4gCM)
 
 
 
