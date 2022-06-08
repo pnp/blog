@@ -94,7 +94,8 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Podcast is back!
 
-//TODO hunt Paul Schaeflein/Jeremy Thake
+
+<!-- TODO hunt Paul Schaeflein/Jeremy Thake -->
 
 ### Microsoft 365 PnP Weekly Podcasts and vlogs
 
@@ -428,9 +429,42 @@ You can find all Microsoft 365 related videos on our YouTube Channel at [https:/
 Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 
 *  [Publish your app in the Microsoft Teams App Store](https://www.youtube.com/watch?v=IQf2Zs9Mob8) by Natalia Kats (Microsoft)
-*  [Dynamic User Scope in Microsoft Graph Data Connect](https://www.youtube.com/watch?v=TMRrDUsqcYo&t=34s) by Nik Charlebois (Microsoft) | @NikCharlebois
+*  [Dynamic User Scope in Microsoft Graph Data Connect](https://www.youtube.com/watch?v=TMRrDUsqcYo&t=34s) by Nik Charlebois (Microsoft) | @NikCharlebois### Community demo videos
 
-### Community demo videos
+* [Blazor in Office Add-ins](https://www.youtube.com/watch?v=rmZEJ45xG7s) by [Maarten van Stam](https://twitter.com/aafvstam) | @aafvstam
+* [Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions](https://www.youtube.com/watch?v=-2xFSyhDUtg) by [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
+* [Streamline Annual Document Reviews with Power Apps](https://www.youtube.com/watch?v=yJsgn48-xC0) by [Heidi Jordan](https://twitter.com/heidi_jordan14) (High Plains Technology) | @heidi_jordan14
+* [Building Office Locations Viva Connections Adaptive Card Extension with SPFx](https://www.youtube.com/watch?v=bxjutcL_s6A) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
+* [Automatically generate technical documentation of your Power Apps and Power Automate Flows](https://www.youtube.com/watch?v=2-mH8vdVlaM) by [Rene Modery](https://twitter.com/modery) (WPP) | @modery 
+* [Office Add-ins community ideas](https://www.youtube.com/watch?v=GpW04WDdryY) by [Linda Lu Cannon](https://github.com/lindalu-MSFT) - (Microsoft) | lindalu-MSFT
+* [Microsoft Graph’s advanced capabilities for querying directory objects – May 2022](https://www.youtube.com/watch?v=6yV8ejEiAvk) by [Luca Spolidoro](https://twitter.com/Licantrop0) (Microsoft) |@Licantrop0
+* [Integrate Microsoft Graph connector content on Office.com](https://www.youtube.com/watch?v=fpyuQQMvTuI) by [Mounika Narayanan](https://twitter.com/nmounika97) (Microsoft) | @nmounika97
+* [Power Platform + Microsoft Teams: Create a "back-channel" internal chat for any meeting](https://www.youtube.com/watch?v=f02fYUcQYCc) by Amber Weise (Microsoft) 
+* [Your Microsoft 365 app within the fingertips of employees with Viva Connections](https://www.youtube.com/watch?v=2gIOCCi-_PQ) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+* [Extend your Teams Search Based Message Extension to Outlook](https://www.youtube.com/watch?v=6F7vhQZs0Js) by Namrata Khubchandani (Microsoft) 
+* [Getting started on using Azure Communication Services in your web site   ](https://www.youtube.com/watch?v=kRzeNSGFi4o) by [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
+* [List formatting magic – Taking advantage of new multi-lingual capabilities in list formatting](https://www.youtube.com/watch?v=j6pvLx7qdCE) by [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
+* [Create an app that extends across Teams, Outlook, and Office.com](https://www.youtube.com/watch?v=GlgzF-7RLHw) by [Saurabh Bhatia](https://twitter.com/iamSBTron) (Microsoft) | @iamSBTron
+* [How to build a SSO bot using yo teams for Microsoft Teams](https://www.youtube.com/watch?v=BjLsFKBJ3Ok) by [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
+* [Easily fix errors in your SPFx projects with CLI for Microsoft 365](https://www.youtube.com/watch?v=UNsLb8Kj2O0) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
+* [List formatting magic – Advance discussion board formatting with Power Automate](https://www.youtube.com/watch?v=Kdwbehx1804) by [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
+* [Handling multi-user responses for Adaptive Cards in Microsoft Teams](https://www.youtube.com/watch?v=V0iTtOYcP6w) by Josh Friedman (Microsoft) 
+* [Manage data in OneDrive application folder within your SPFx solution with Microsoft Graph](https://www.youtube.com/watch?v=Mk8PRRcT_qI) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
+* [SPFx Design Patterns – Property pane exception handling](https://www.youtube.com/watch?v=ZQcqIm0DlxU) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
+* [Auto Batching Microsoft Graph Calls in your SPFx solutions](https://www.youtube.com/watch?v=Wt5HewSLV-o) by [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
+* [Run Office Scripts with a button - now in Excel for Windows](https://www.youtube.com/watch?v=IrYndOa_Snk) by [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) | @nancyatMSFT
+* Rename SharePoint Framework project easily using CLI for Microsoft 365[](https://www.youtube.com/watch?v=BMogZ0vjQi0) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
+* [Introducing new Microsoft 365 Assessment Tool with SharePoint Syntex Module](https://www.youtube.com/watch?v=2remAiSfajA) by [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert and [James Eccles](https://github.com/jameseccles) (Microsoft) | @jimdeccles
+* [List formatting magic - Discussion board formatting](https://www.youtube.com/watch?v=KTleK0_66IU) by [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
+* [Extend your Microsoft Teams app to Outlook and Office](https://www.youtube.com/watch?v=T0-4daiWsE0) by [Erin Bailie](https://twitter.com/EMBailie) (Microsoft) | @EMBailie
+* Introduction to Adaptive Card Design Gallery reusable reference sample[](https://www.youtube.com/watch?v=ouKq4i9RjbY) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
+* [Microsoft Teams and SharePoint updates with Stephen Rose](https://www.youtube.com/watch?v=xcNaYZINR_c) by [Stephen Rose](https://twitter.com/stephenlrose) (Microsoft) | @stephenlrose
+* [Updates on Independent Publisher Connectors & GitLab Connector Demo](https://www.youtube.com/watch?v=mxcV7CZaHRE) by [Roy Paar](https://twitter.com/RoyPaar) (Microsoft) | @RoyPaar
+* 
+
+* [Building in-mee
+
+
 
 * [PowerPoint selection APIs](https://www.youtube.com/watch?v=Pl3OcUXnIeo) by Onur Onder (Microsoft) and Camille Birch (Microsoft)
 * [Building a wellbeing solution with Teams and Viva Connections](https://www.youtube.com/watch?v=87HCKNs6KzI) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
@@ -559,6 +593,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
 *   x[Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
 *   [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) | @Erwinvanhunen
+*   [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
 *   Favour Adekunle
 *   Florian Zink | fzbm
 *   [Franck Cornu](https://twitter.com/FranckCornu) | @FranckCornu
@@ -577,6 +612,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Harsh S (SRK Consulting)
 *   x[Harsh Samdani](https://www.github.com/hsamdani12) | hsamdani12
 *   x[Harshini Varma](https://twitter.com/HarshiniVarmaa) (Capgemini) | @HarshiniVarmaa
+*   [Heidi Jordan](https://twitter.com/heidi_jordan14) (High Plains Technology) | @heidi_jordan14
 *   x[HEMANT RISBUD](https://www.github.com/HemantR) (SRK Consultants) | Hemant Risbud
 *   x[Henrik Yllemo](https://www.twitter.com/yllemo) (Ylltec Sweden AB) | @Yllemo
 *   Inez Jacobs (Amplexor)
@@ -623,6 +659,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Loïc Cimon](https://twitter.com/LoicCimon) (Sogeti) | @LoicCimon
 *   [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
 *   [Luis Mañez](https://twitter.com/luismanez) () | @luismanez
+*   [Maarten van Stam](https://twitter.com/aafvstam) | @aafvstam
 *   Manickam Sethuramalingam (microland)
 *   x[Manjunath Puttaswamy](https://www.twitter.com/ManjunathPutta3) (Momentive Performance Materials India Private Limited) | @ManjunathPutta3
 *   [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
@@ -675,6 +712,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Pierre Geraud](https://www.github.com/pedrion) (Bluekango) | pedrion
 *   x[Prafull Kotecha](https://www.twitter.com/prafull) | @Prafull
 *   x[Ralph Rivas](https://www.twitter.com/bigpix2000) (Sogeti) | @Bigpix2000
+*   [Rene Modery](https://twitter.com/modery) (WPP) | @modery 
 *   x[Rentu](https://github.com/SLdragon) | SLdragon
 *   [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
 *   Rico van de Ven | RicoNL
@@ -798,6 +836,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Aline Tognini](https://github.com/alinefmr) (Microsoft) | alinefmr
 *   [Allen Snow](https://twitter.com/asnow003) (Microsoft) | @Asnow003
 *   Altamish Ahmad (Microsoft)
+*   Amber Weise (Microsoft) 
 *   Andrey Esipov (Microsoft)
 *   Anuj Gupta (Microsoft)
 *   [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
@@ -820,6 +859,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 *   [Dave Randall](https://github.com/triplanedave) (Microsoft) | triplanedave
 *   [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
+*   [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
 *   [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 *   Didun Ayodeji (Microsoft)
 *   [Doğan Erişen](https://github.com/derisen) (Microsoft) | derisen
@@ -829,13 +869,14 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   Eoin O'Brien
 *   Elizabeth Samuel (Microsoft)
 *   Emma Cooper (Microsoft)
+*   [Erin Bailie](https://twitter.com/EMBailie) (Microsoft) | @EMBailie
 *   [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 *   [Haimantika Mitra](https://twitter.com/HaimantikaM) (Microsoft) | @HaimantikaM
 *   Hal Bond (Microsoft)
 *   [Holger Lutz](https://github.com/HolgerLutz) (Microsoft) | HolgerLutz
 *   [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
 *   Igor Ribeiro (Microsoft)
-*   [James Eccles](https://github.com/jameseccles) (Microsoft) jameseccles
+*   [James Eccles](https://github.com/jameseccles) (Microsoft) | @jimdeccles
 *   James Lau (Microsoft) 
 *   [James Skay](https://twitter.com/JamesSkay) (Microsoft) | @JamesSka
 *   [Japhlet Nwamu](https://twitter.com/japhletnwamu) (Microsoft) | @Japhletnwamu
@@ -848,6 +889,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   Join Sahil Baid (Microsoft)
 *   Jonathan Kahati (Microsoft)
 *   [Jos Verlinde](https://github.com/Josverl) (Microsoft) Josverl
+*   Josh Friedman (Microsoft) 
 *   Jyoti Pal (Microsoft)
 *   Kavishi Agarwal (Microsoft)
 *   [Kevin Coughlin](https://twitter.com/kevintcoughlin) (Microsoft) | @Kevintcoughlin
@@ -857,18 +899,21 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Laura Graham](https://github.com/Lauragra) (Microsoft) | Lauragra
 *   Holland Kaviani (Microsoft)
 *   [Lee Stott](https://twitter.com/lee_stott) (Microsoft) | @Lee\_Stott
-*   \[Linda Delarvé (Microsoft)
+*   [Linda Delarvé (Microsoft)
 *   [Linda Lu Cannon](https://github.com/lindalu-MSFT) - (Microsoft) | lindalu-MSFT
 *   [Loki Meyburg](https://twitter.com/lokimeyburg) (Microsoft) (Microsoft) | @Lokimeyburg
 *   [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband
+*   [Luca Spolidoro](https://twitter.com/Licantrop0) (Microsoft) |@Licantrop0
 *   [Mansa MusaLe](https://twitter.com/m4musale) (Microsoft) | @M4musale
 *   Mathangi Chakrapani (Microsoft)
 *   [Matthijs Hoekstra](https://twitter.com/mahoekst) (Microsoft) | @Mahoekst
 *   Max Kulakov (Microsoft)
 *   Michael Aldridge (Microsoft)
-*   [Mikael Svenson](https://twitter.com/mikaelsvenson)(Microsoft) | @Mikaelsvenson
+*   [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @Mikaelsvenson
 *   [Mike Hollinshead](https://twitter.com/mahollinshead) (Microsoft) | @Mahollinshea
+*   [Mounika Narayanan](https://twitter.com/nmounika97) (Microsoft) | @nmounika97
 *   [Musale Martin](https://twitter.com/m4musale) (Microsoft) | m4musale
+*   Namrata Khubchandani (Microsoft)
 *   [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) | @nancyatMSFT
 *   Natalia Kats (Microsoft)
 *   [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1
@@ -896,11 +941,12 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Richard Astbury](https://twitter.com/richorama) (Microsoft) | @Richorama
 *   Rick Kirkham (Microsoft)
 *   [Roel](https://github.com/RoelVB) (Microsoft) | RoelVB
-*   [Roy Paar](https://www.linkedin.com/in/roypaar/)(Microsoft)
+*   [Roy Paar](https://twitter.com/RoyPaar) (Microsoft) | @RoyPaar
 *   [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) (Microsoft)
 *   SaiBhavya Reddy (Microsoft)
 *   Saisang Cai (Microsoft) | Saisang
 *   [Sam Larson](https://github.com/salarson) (Microsoft) | salarson
+*   [Saurabh Bhatia](https://twitter.com/iamSBTron) (Microsoft) | @iamSBTron  
 *   [Shane Weaver](https://github.com/shweaver-MSFT) (Microsoft) | shweaver-MSFT
 *   [Shreyansh Agrawal](https://github.com/shagra-ms) (Microsoft) | shagra-ms
 *   [Sean Squires](https://twitter.com/iamseansquires) (Microsoft) | @iamseansquires
@@ -909,6 +955,8 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   Shubham Gatkal (Microsoft)
 *   [Srinivas Varukala](https://twitter.com/svarukala) (Microsoft) | @Svarukala
 *   [Steven Jia](https://github.com/Steven-Jia) (Microsoft) | Steven-Jia
+*   [Stephen Rose](https://twitter.com/stephenlrose) (Microsoft) | @stephenlrose
+
 *   Swapnil Shrivastava (Microsoft)
 *   [Tejas Mehta](https://twitter.com/tpmehta) (Microsoft) | @Tpmehta
 *   [Tim Mayo](https://www.twitter.com/timmayo) (Microsoft) | @Timmayo
