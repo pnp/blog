@@ -92,8 +92,7 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 ### Microsoft 365 Developer Podcast
 
-In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Podcast is back!
-
+In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Off
 
 <!-- TODO hunt Paul Schaeflein/Jeremy Thake -->
 
