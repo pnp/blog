@@ -363,26 +363,10 @@ For more information, you can watch this video on [Publish a connector to the Pu
 
 #### These are the latest connectors
 
-//TODO Natalie - the new connectors go here, thank you! 
-
-* Advanced Scraper - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-* Ambee- [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-* AMEE Open Company - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-* Aviationstack- [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-* Do Not Call Reported Calls - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-* Finnish BIS - [Timo Pertilä](https://twitter.com/timopertila) (Forward Forever) | @timopertila
-* Finnish Railway Traffic - [Timo Pertilä](https://twitter.com/timopertila) (Forward Forever) | @timopertila
-* Lit Ipsum - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-* NIST NVD - [Paul Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) | @Paulculmsee
-* OpenAI - [Robin Rosengrün](https://twitter.com/power_r2) (EnBW)| @power_r2
-* ProPublica Congress - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-* ProPublica Nonprofit Explorer - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-* Reachability - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-* Rebrandly - [Vivek Bavishi](https://twitter.com/that_api_guy) | @That\_API\_guy
-* Robohash - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-* Storm Glass - [Paul Culmsee](https://twitter.com/paulculmsee) (Seven Sigma) | @Paulculmsee
-* Udemy - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
-
+* Meme - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+* MS Graph Groups and Users - Jay Jani
+* RegEx Matching - Mitanshu Garg
+* Unofficial Netflix Search - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
 
 ### Sharing is Caring initiative
 
