@@ -503,9 +503,16 @@ Thank you for your assistance and contributions on behalf of the community. You 
 ### Community people
 
 *   x[Abderahman Moujahid](https://github.com/Abderahman88) (iThink365) | Abderahman88
+    [Abdul Mughni Ansari](https://www.twitter.com/Ansarimughni) (Hexaware) | @Ansarimughni
+    [Abdur Raheem](https://www.twitter.com/im_offline) (Avanade) | @im_offline
 *   [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 *   x[Ademosu Ayodele](https://github.com/aaademosu) | aaademosu
+    [Ahmad](https://www.twitter.com/ahmadpirani) | @ahmadpirani
+    [Ahmed](https://www.github.com/ahghaith) (Diyar United Company) | ahghaith
+    [Aiden Kasakya Muganzi](https://www.github.com/muganzix) | muganzix
 *   x[Aimery Thomas](https://www.twitter.com/aimery_thomas) | @aimery\_thomas
+    [Aja ifeanyi](https://www.twitter.com/Ajaifeanyi) | @Ajaifeanyi
+    [Ajo Suresh](https://www.github.com/ajo3403) | ajo3403
 *   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 *   x[Alex Gonsales](https://www.github.com/MrDrSushi) (Intergen) | MrDrSushi
 *   Alexander Ernon (Amplexor)
@@ -517,7 +524,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 *   Andreas Omayrat | andreasomayrat
 *   x[Andrea Mondello](https://www.twitter.com/mondello_power) (Withum Smith + Brown) | @Mondello\_power
-*   x[Andrew Burns](https://www.twitter.com/SharePointRox) (AmSty) | @SharePointRox
+*   [Andrew Burns](https://www.twitter.com/SharePointRox) (AmSty) | @SharePointRox
 *   [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 *   x[Andrew Pilcher](https://www.github.com/andrewpilcher) (CSULB) | andrewpilcher
 *   x[Andy Harmon](https://www.twitter.com/andygharmon) (Oldham Metropolitan Borough Council) | @Andygharmon
@@ -536,6 +543,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Ashwani Kumar](https://www.twitter.com/ashwanidv100) (Walmart Global Tech) | @Ashwanidv100
 *   x[Bartolomeo Sorrentino](https://twitter.com/bsorrentinoJ) (soulsoftware) | @BsorrentinoJ
 *   x[Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
+    [Bhushan Mittal](https://www.github.com/mit579) (UBS) | mit579
 *   Bianca W | bianca-git
 *   Bob Morris (ThreeWill)
 *   x[Brian McCullough](https://twitter.com/bpmccullough) | @bpmccullough
@@ -571,6 +579,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
 *   Dennis van Niel | dennisvanniel
 *   [Dipen Shah](https://www.twitter.com/Dips_365) (Rapid Circle) | @Dips\_365
+    [Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
 *   x[Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
 *   x[Dr Adrian Colquhoun](https://www.github.com/iddycol) (Strategik) | iddycol
 *   Edmund David (Insentra)
@@ -584,11 +593,13 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
 *   [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) | @Erwinvanhunen
 *   [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
+    [Faride Ilanda](https://www.twitter.com/FarideIlanda) (Atos) | @FarideIlanda
 *   Favour Adekunle
 *   Florian Zink | fzbm
 *   [Franck Cornu](https://twitter.com/FranckCornu) | @FranckCornu
 *   x[Ganesh R](https://twitter.com/geekwhocodes) (RapidCircle) | @Geekwhocodes
 *   x[Ganesh Sanap](https://www.twitter.com/GaneshSanap20) (Globant) | @GaneshSanap20
+    [Gerard Simpson](https://www.twitter.com/powerfanaddict) | @powerfanaddict
 *   x[Garrick George](https://www.twitter.com/kod3m0ng3r) (City of Thornton) | @Kod3m0ng3r
 *   x[Gaurav Mahajan](https://twitter.com/mahajang) | @Mahajang
 *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
@@ -612,6 +623,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Jake Stanger | JakeStanger
 *   James May | fowl2
 *   x[Jan Bakker](https://twitter.com/janbakker_) | @JanBacker\_
+    [Jan Vidar Elven](https://www.twitter.com/JanVidarElven) (Skill AS) | @JanVidarElven
 *   [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 *   x[Javier Hualpa](https://www.github.com/jhualpa) | jhualpa
 *   x[Jeffin Jacob](https://www.github.com/jeffinjacob) | jeffinjacob
@@ -661,7 +673,9 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 *   x[Matt Beard](https://twitter.com/mattybeard) (Data8) | @Mattybeard
 *   x[Matt Collins-Jones](https://www.twitter.com/D365Geek) | @D365Geek
+    [Matthew Jones](https://www.github.com/msterlingjones) (The Church of Jesus Christ of Latter-day Saints) | msterlingjones
 *   Mai Mostafa | Maya-Mostafa
+    [Michael Badia](https://www.github.com/stoicvincero) | stoicvincero
 *   x[Michael Blumenthal](https://www.twitter.com/MichaelBL) (M365chicago.com) | @MichaelBL
 *   [Michaël Maillot](https://twitter.com/michael_maillot) ( OnePoint) | @michael_maillot
 *   x[Michael Roth](https://twitter.com/michaelroth42) ( ITP) | @MichaelRoth42
@@ -703,6 +717,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Phil McNiven](https://www.github.com/phil0074) | phil0074
 *   x[Pierre Geraud](https://www.github.com/pedrion) (Bluekango) | pedrion
 *   x[Prafull Kotecha](https://www.twitter.com/prafull) | @Prafull
+    [Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4love
 *   x[Ralph Rivas](https://www.twitter.com/bigpix2000) (Sogeti) | @Bigpix2000
 *   [Rene Modery](https://twitter.com/modery) (WPP) | @modery 
 *   x[Rentu](https://github.com/SLdragon) | SLdragon
@@ -765,8 +780,10 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Tom Morgan](https://twitter.com/tomorgan) (Modality Systems) | @tomorgan
 *   x[Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 *   x[Tony Derricott](https://www.twitter.com/computx) (BYUI) | @Computx
+    [Troy Tanon](https://www.github.com/troytanon) | troytanon
 *   x[Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
 *   x[Twan van Beers](https://twitter.com/NeroBlancoIT) (Nero Blanco) | @neroBlancoIT
+    [Udeagha Kingsley](https://www.twitter.com/kylzbaba) (Sterling Bank) | @kylzbaba
 *   x[Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions) | @vrdmn
 *   [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
 *   x[Victor Ezeliorah](https://www.twitter.com/vezeliora) (Intels Nigeria Limited) | @Vezeliora
