@@ -57,7 +57,7 @@ Thank you for your creativity and work execution. Samples are often showcased in
 
 ## Together Mode 
    
-![Attendees waving hands in Microsoft Teams together mode picture](images/220607-together-mode.gif)
+![Attendees waving hands in Microsoft Teams together mode picture](images/together-mode-220607.gif)
 
 Thank you everyone for joining the call today. Awesome to see your faces. 
 
