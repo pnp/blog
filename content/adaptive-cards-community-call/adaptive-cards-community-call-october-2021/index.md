@@ -56,8 +56,8 @@ across platforms with little code.  Q&A throughout.
     Workflow and Triggers for each Signal**, that shows example adaptive
     cards.
 -   General website -
-    [FactSet.com](https://factset.com)
-    | <http://factset.com>
+    [FactSet.com](https://www.factset.com/)
+    | <https://www.factset.com/>
 
 
 ## Resources in General
