@@ -51,7 +51,7 @@ SharePoint Framework (SPFx)|CURRENT VERSION|STATUS
 [PnP SPFx Generator](https://github.com/pnp/generator-spfx)|CURRENT VERSION|STATUS
 [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|CURRENT VERSION|STATUS
 
-The host of this call is [NAME](https://twitter.com/TWITTER) (Microsoft) | @TWITER.  Q&A takes place as always in chat throughout the call.
+The host of this call is [NAME](https://twitter.com/TWITTER) (Microsoft) | @twitter.  Q&A takes place as always in chat throughout the call.
 
 ![A bunch of people smiling and waving](images/together-mode.gif)
 

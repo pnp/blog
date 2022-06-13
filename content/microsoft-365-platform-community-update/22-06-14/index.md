@@ -42,6 +42,9 @@ The initiative is facilitated by Microsoft, but we have multiple community membe
 
 Here are the latest blog posts and announcements around Microsoft 365 development topics from [https://developer.microsoft.com/microsoft-365/blogs](https://developer.microsoft.com/microsoft-365/blogs)
 
+  
+* 9th of June - [Microsoft Teams JS SDK v2 is now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-js-sdk-v2-is-now-generally-available/) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
+* 8th of June [Application permissions for Bookings APIs in Microsoft Graph now available](https://devblogs.microsoft.com/microsoft365dev/application-permissions-for-bookings-apis-in-microsoft-graph-now-available/)
 * 2nd of June - [Upcoming billing changes for Microsoft Graph APIs for Teams messages](https://devblogs.microsoft.com/microsoft365dev/upcoming-billing-changes-for-microsoft-graph-apis-for-teams-messages/)
 * 2nd of June  - [Breaking changes for the Insights API (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-for-the-insights-api-beta/)
 * 1st of June - [SharePoint Framework 1.15 Release Candidate now available with new features and updates](https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-1-15-release-candidate-new-features-for-viva-connections-microsoft-teams-and-sharepoint/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
@@ -56,13 +59,12 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 * 11th of May - [Office JavaScript API for Power Query read-only data now available for Excel](https://devblogs.microsoft.com/microsoft365dev/office-javascript-api-for-power-query-read-only-data-now-available-for-excel/) - Jonathan Kahati (Microsoft)
 * 10th of May - [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/)
 * 10th of May - [Publish your app in the Microsoft Teams app store ](https://devblogs.microsoft.com/microsoft365dev/publish-your-app-in-the-microsoft-teams-app-store/) - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
-  
-
 
 ### Microsoft 365 Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
+* 8th of June - [Quick overview of Microsoft Power Pages](https://pnp.github.io/blog/post/quick-overview-of-microsoft-power-pages/) - Favour Adekunle | Favour-dgrea
 * 6th of June - [Getting started with unit testing SPFx](https://pnp.github.io/blog/post/getting-started-with-unit-testing-spfx/) - [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
 * 1st of June -  [Understanding Data Connectors with Microsoft Power Apps](https://pnp.github.io/blog/post/understanding-data-connectors-with-microsoft-power-apps/) - Favour Adekunle | Favour-dgreat
 * 31st of May - [Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components](https://pnp.github.io/blog/post/build-teams-using-graph-toolkit/) - Sohil Bhalla | sohilbhalla
@@ -74,6 +76,8 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 ### Community call recording blog posts
 
+* 9th of June - [Microsoft 365 & Power Platform Development Community call - 9th of June, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-06-09/)
+* 7th of June - [Microsoft 365 Platform Community Call - 7th of June, 20](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-06-07/)
 * 3rd of June - [Viva Connections & SharePoint Framework Community Call – 2nd of June, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-06-02/)
 * 1st of June - [Microsoft 365 Platform Community Call - 31st of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-31/)
 * 27th of May - [Microsoft 365 & Power Platform Development Community call - 26th of May, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-05-26/)
@@ -92,9 +96,9 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 ### Microsoft 365 Developer Podcast
 
-In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Off
+In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Dev podcast is back. 
 
-<!-- TODO hunt Paul Schaeflein/Jeremy Thake -->
+New episodes soon!
 
 ### Microsoft 365 PnP Weekly Podcasts and vlogs
 
@@ -201,7 +205,7 @@ In April 2020 we announced our new [Microsoft 365 PnP team model](https://devblo
 We welcome all community members to get involved on the community and open-source efforts. Your input do matter!
 
 *   New Microsoft 365 Platform (PnP) team members - March 2022
-    *   [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
+    *   [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani_SPD
     *   [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
     *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 
@@ -274,22 +278,22 @@ The Community Docs model was announced in April 2020 and it's great to see the i
 
 #### New articles
 
-* [Teams Shared Channels for Admins](./Community/teams-shared-channel-for-admins.md) by [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
+* [Teams Shared Channels for Admins](https://docs.microsoft.com/microsoft-365/community/teams-shared-channel-for-admins) by [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
 
 #### Updated articles
 
-* [Content Type Propagation](./Community/content-type-propagation.md) by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
-* [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) by [Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/)
-* [Power Automate - Send SharePoint files as attachments](./Community/power-automate-send-sharepoint-files-as-attachments.md) by [blb0004](https://github.com/blb0004/)
-* [Glossary](./Community/glossary.md) by [Saisang Cai](https://github.com/Saisang)
-* [Accessibility by Design](./Community/accessibility-by-design.md) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [Benefits of using PowerShell with SharePoint](./Community/benefits-of-using-powershell-with-sharepoint.md) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [Glossary](./Community/glossary.md) by [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-* [Glossary](./Community/glossary.md) by [Rene Modery](https://www.linkedin.com/in/modery/)
-* [Why Microsoft 365 adoption projects fail](./Community/why-m365-adoption-projects-fail.md) by [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
-* [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [SharePoint Naming Guidelines](./Community/sharepoint-naming-guidelines.md) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) by [Saisang Cai](https://github.com/Saisang)
+* [Content Type Propagation](https://docs.microsoft.com/microsoft-365/community/content-type-propagation) by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
+* [Query String URL Tricks for SharePoint and Microsoft 365](https://docs.microsoft.com/microsoft-365/community/query-string-url-tricks-sharepoint-m365) by [Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/)
+* [Power Automate - Send SharePoint files as attachments](https://docs.microsoft.com/microsoft-365/community/power-automate-send-sharepoint-files-as-attachments) by [blb0004](https://github.com/blb0004/)
+* [Glossary](https://docs.microsoft.com/microsoft-365/community/glossary) by [Saisang Cai](https://github.com/Saisang)
+* [Accessibility by Design](https://docs.microsoft.com/microsoft-365/community/accessibility-by-design) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [Benefits of using PowerShell with SharePoint](https://docs.microsoft.com/microsoft-365/community/benefits-of-using-powershell-with-sharepoint) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [Glossary](https://docs.microsoft.com/microsoft-365/community/glossary) by [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
+* [Glossary](https://docs.microsoft.com/microsoft-365/community/glossary) by [Rene Modery](https://www.linkedin.com/in/modery/)
+* [Why Microsoft 365 adoption projects fail](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail) by [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
+* [Elevating People and Communities](https://docs.microsoft.com/microsoft-365/community/microsoft-maturity-model-how-to-people-communities) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [SharePoint Naming Guidelines](https://docs.microsoft.com/microsoft-365/community/sharepoint-naming-guidelines) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--governance-and-compliance) by [Saisang Cai](https://github.com/Saisang)
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model in more detail.
 
@@ -446,7 +450,7 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [List formatting magic – Advance discussion board formatting with Power Automate](https://www.youtube.com/watch?v=Kdwbehx1804) by [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 * [Handling multi-user responses for Adaptive Cards in Microsoft Teams](https://www.youtube.com/watch?v=V0iTtOYcP6w) by Josh Friedman (Microsoft) 
 * [Manage data in OneDrive application folder within your SPFx solution with Microsoft Graph](https://www.youtube.com/watch?v=Mk8PRRcT_qI) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878[
-* [SPFx Design Patterns – Property pane exception handling](https://www.youtube.com/watch?v=ZQcqIm0DlxU) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh](https://www.youtube.com/watch?v=_yJ4V5145z8)
+* [SPFx Design Patterns – Property pane exception handling](https://www.youtube.com/watch?v=ZQcqIm0DlxU) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh]
 * [Auto Batching Microsoft Graph Calls in your SPFx solutions](https://www.youtube.com/watch?v=Wt5HewSLV-o) by [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
 * [Run Office Scripts with a button - now in Excel for Windows](https://www.youtube.com/watch?v=IrYndOa_Snk) by [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) | @nancyatMSFT
 * Rename SharePoint Framework project easily using CLI for Microsoft 365[](https://www.youtube.com/watch?v=BMogZ0vjQi0) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
@@ -464,9 +468,6 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [Navigating Cards in Viva Connections ACEs](https://www.youtube.com/watch?v=EjB3ocoDqBA) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Extending Microsoft Teams apps to Outlook and Office.com](https://www.youtube.com/watch?v=PVEPji6xB4U) by [Saurabh Bhatia](https://twitter.com/iamSBTron) (Microsoft) | @iamSBTron  
 * [Latest on Microsoft Graph Data Connect datasets](https://www.youtube.com/watch?v=Q7n60jr4gCM) by [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
-
-
-
 * [PowerPoint selection APIs](https://www.youtube.com/watch?v=Pl3OcUXnIeo) by Onur Onder (Microsoft) and Camille Birch (Microsoft)
 * [Building a wellbeing solution with Teams and Viva Connections](https://www.youtube.com/watch?v=87HCKNs6KzI) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 * [Getting started with Microsoft Teams Private Channels](https://www.youtube.com/watch?v=oK_JKmG1wvs) by [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
@@ -503,8 +504,6 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [Updates on Independent Publisher Connectors & Infura Ethereum Connector Demo](https://www.youtube.com/watch?v=V2PMQrpbX1E) by [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1 and [Sebastian Zolg](https://twitter.com/sebastianzolg) (Swisscom) | @sebastianzolg
 * [Installing PnP PowerShell](https://www.youtube.com/watch?v=bDAeJgwkHH4) by [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
 
-
-
 ## Key contributors to the May 2022 update
 
 Here’s the list of active contributors (in alphabetical order) since last release details in GitHub repositories or community channels. PnP is really about building tooling and knowledge together with the community for the community, so your contributions are highly valued across the Microsoft 365 customers, partners and obviously also at Microsoft.
@@ -514,16 +513,16 @@ Thank you for your assistance and contributions on behalf of the community. You 
 ### Community people
 
 *   x[Abderahman Moujahid](https://github.com/Abderahman88) (iThink365) | Abderahman88
-    [Abdul Mughni Ansari](https://www.twitter.com/Ansarimughni) (Hexaware) | @Ansarimughni
-    [Abdur Raheem](https://www.twitter.com/im_offline) (Avanade) | @im_offline
+*   [Abdul Mughni Ansari](https://www.twitter.com/Ansarimughni) (Hexaware) | @Ansarimughni
+*   [Abdur Raheem](https://www.twitter.com/im_offline) (Avanade) | @im_offline
 *   [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 *   x[Ademosu Ayodele](https://github.com/aaademosu) | aaademosu
-    [Ahmad](https://www.twitter.com/ahmadpirani) | @ahmadpirani
-    [Ahmed](https://www.github.com/ahghaith) (Diyar United Company) | ahghaith
-    [Aiden Kasakya Muganzi](https://www.github.com/muganzix) | muganzix
+*   [Ahmad](https://www.twitter.com/ahmadpirani) | @ahmadpirani
+*   [Ahmed](https://www.github.com/ahghaith) (Diyar United Company) | ahghaith
+*   [Aiden Kasakya Muganzi](https://www.github.com/muganzix) | muganzix
 *   x[Aimery Thomas](https://www.twitter.com/aimery_thomas) | @aimery\_thomas
-    [Aja ifeanyi](https://www.twitter.com/Ajaifeanyi) | @Ajaifeanyi
-    [Ajo Suresh](https://www.github.com/ajo3403) | ajo3403
+*   [Aja ifeanyi](https://www.twitter.com/Ajaifeanyi) | @Ajaifeanyi
+*   [Ajo Suresh](https://www.github.com/ajo3403) | ajo3403
 *   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 *   x[Alex Gonsales](https://www.github.com/MrDrSushi) (Intergen) | MrDrSushi
 *   Alexander Ernon (Amplexor)
@@ -554,7 +553,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Ashwani Kumar](https://www.twitter.com/ashwanidv100) (Walmart Global Tech) | @Ashwanidv100
 *   x[Bartolomeo Sorrentino](https://twitter.com/bsorrentinoJ) (soulsoftware) | @BsorrentinoJ
 *   x[Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
-    [Bhushan Mittal](https://www.github.com/mit579) (UBS) | mit579
+*   [Bhushan Mittal](https://www.github.com/mit579) (UBS) | mit579
 *   Bianca W | bianca-git
 *   Bob Morris (ThreeWill)
 *   x[Brian McCullough](https://twitter.com/bpmccullough) | @bpmccullough
@@ -569,14 +568,14 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Chris Sparrow (PA Consulting)
 *   Chris S | chrisms86
 *   [Christian Zuellig](https://github.com/czullu) (MondayCoffee) | czullu
-*   x[Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
+*   [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
 *   x[Christopher Graves](https://www.twitter.com/Christo48927551) (Arvato) | @Christo48927551
 *   x[Chuck Piotrowski](https://www.twitter.com/chuckpiot) (PIOT) | @chuckpiot
 *   x[Clavin Fernandes](https://www.twitter.com/clavinfernandes) (Rapid Circle) | @Clavinfernandes
 *   x[Clement Olivier](https://twitter.com/Clement0livier) | @Clement0livier
 *   Cynthia Tiwana (city of sammamish) | ctiwana
 *   [Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
-*   x[Daniel Laskewitz](https://twitter.com/laskewitz) (Sogeti) | @Laskewitz
+*   [Daniel Laskewitz](https://twitter.com/laskewitz) (Sogeti) | @Laskewitz
 *   Daniel Pastoor | danielpastoor
 *   x[Daniel Westerdale](https://www.twitter.com/westerdaled) (Westerdale Solutions Ltd) | @Westerdaled
 *   x[Danish Shafi](https://twitter.com/builtbydan) | @Builtbydan
@@ -591,7 +590,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
 *   Dennis van Niel | dennisvanniel
 *   [Dipen Shah](https://www.twitter.com/Dips_365) (Rapid Circle) | @Dips\_365
-    [Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
+*   [Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
 *   x[Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
 *   x[Dr Adrian Colquhoun](https://www.github.com/iddycol) (Strategik) | iddycol
 *   Edmund David (Insentra)
@@ -601,17 +600,17 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 *   x[Elise Yang](https://github.com/elisenyang) (Shopify) | elisenyang
 *   x[Elka Dunnette](https://www.twitter.com/ElkaD_YYC) | @ElkaD\_YYC
-*   x[Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
+*   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
 *   x[Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
 *   [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) | @Erwinvanhunen
 *   [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
-    [Faride Ilanda](https://www.twitter.com/FarideIlanda) (Atos) | @FarideIlanda
+*   [Faride Ilanda](https://www.twitter.com/FarideIlanda) (Atos) | @FarideIlanda
 *   Favour Adekunle
 *   Florian Zink | fzbm
 *   [Franck Cornu](https://twitter.com/FranckCornu) | @FranckCornu
 *   x[Ganesh R](https://twitter.com/geekwhocodes) (RapidCircle) | @Geekwhocodes
 *   x[Ganesh Sanap](https://www.twitter.com/GaneshSanap20) (Globant) | @GaneshSanap20
-    [Gerard Simpson](https://www.twitter.com/powerfanaddict) | @powerfanaddict
+*   [Gerard Simpson](https://www.twitter.com/powerfanaddict) | @powerfanaddict
 *   x[Garrick George](https://www.twitter.com/kod3m0ng3r) (City of Thornton) | @Kod3m0ng3r
 *   x[Gaurav Mahajan](https://twitter.com/mahajang) | @Mahajang
 *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
@@ -635,7 +634,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Jake Stanger | JakeStanger
 *   James May | fowl2
 *   x[Jan Bakker](https://twitter.com/janbakker_) | @JanBacker\_
-    [Jan Vidar Elven](https://www.twitter.com/JanVidarElven) (Skill AS) | @JanVidarElven
+*   [Jan Vidar Elven](https://www.twitter.com/JanVidarElven) (Skill AS) | @JanVidarElven
 *   [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 *   x[Javier Hualpa](https://www.github.com/jhualpa) | jhualpa
 *   x[Jeffin Jacob](https://www.github.com/jeffinjacob) | jeffinjacob
@@ -681,14 +680,14 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
 *   [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
 *   x[Markus Joschko](https://github.com/jocsch) | jocsch
-*   x[Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
+*   [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
 *   [Martin Lingstuyl](https://twitter.com/martinlingstuyl) | @Martinlingstuy
 *   [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 *   x[Matt Beard](https://twitter.com/mattybeard) (Data8) | @Mattybeard
 *   x[Matt Collins-Jones](https://www.twitter.com/D365Geek) | @D365Geek
-    [Matthew Jones](https://www.github.com/msterlingjones) (The Church of Jesus Christ of Latter-day Saints) | msterlingjones
+*   [Matthew Jones](https://www.github.com/msterlingjones) (The Church of Jesus Christ of Latter-day Saints) | msterlingjones
 *   Mai Mostafa | Maya-Mostafa
-    [Michael Badia](https://www.github.com/stoicvincero) | stoicvincero
+*   [Michael Badia](https://www.github.com/stoicvincero) | stoicvincero
 *   x[Michael Blumenthal](https://www.twitter.com/MichaelBL) (M365chicago.com) | @MichaelBL
 *   [Michaël Maillot](https://twitter.com/michael_maillot) ( OnePoint) | @michael_maillot
 *   [Michael Roth](https://twitter.com/michaelroth42) ( ITP) | @MichaelRoth42
@@ -731,7 +730,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Phil McNiven](https://www.github.com/phil0074) | phil0074
 *   x[Pierre Geraud](https://www.github.com/pedrion) (Bluekango) | pedrion
 *   x[Prafull Kotecha](https://www.twitter.com/prafull) | @Prafull
-    [Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4love
+*   [Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4love
 *   x[Ralph Rivas](https://www.twitter.com/bigpix2000) (Sogeti) | @Bigpix2000
 *   [Rene Modery](https://twitter.com/modery) (WPP) | @modery 
 *   x[Rentu](https://github.com/SLdragon) | SLdragon
@@ -747,7 +746,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Robert Dyjas](https://twitter.com/robdyy) (EQTek) | @Robdy
 *   Robert Lindström | robert-lindstrom
 *   x[Robin Rosengrün](https://twitter.com/power_r2) (EnBW) | @power_r2
-*   x[Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology) | @ScoutmanPt
+*   [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology) | @ScoutmanPt
 *   Rohit S Patil (C3it)
 *   x[Russell Gove](https://www.twitter.com/russgove) (tronox) | @Russgove
 *   x[Ruth Shyer](https://www.twitter.com/rshyer) (SuMMit Consulting, LLC) | @Rshyer
@@ -796,10 +795,10 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Tom Morgan](https://twitter.com/tomorgan) (Modality Systems) | @tomorgan
 *   x[Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 *   x[Tony Derricott](https://www.twitter.com/computx) (BYUI) | @Computx
-    [Troy Tanon](https://www.github.com/troytanon) | troytanon
-*   x[Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
+*   [Troy Tanon](https://www.github.com/troytanon) | troytanon
+*   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
 *   x[Twan van Beers](https://twitter.com/NeroBlancoIT) (Nero Blanco) | @neroBlancoIT
-    [Udeagha Kingsley](https://www.twitter.com/kylzbaba) (Sterling Bank) | @kylzbaba
+*   [Udeagha Kingsley](https://www.twitter.com/kylzbaba) (Sterling Bank) | @kylzbaba
 *   x[Vardhaman Deshpande](https://twitter.com/vrdmn) (Valo Solutions) | @vrdmn
 *   [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
 *   x[Victor Ezeliorah](https://www.twitter.com/vezeliora) (Intels Nigeria Limited) | @Vezeliora

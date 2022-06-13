@@ -237,7 +237,7 @@ development in Office.JS?**
 
 
 For books you might take a look at [Building Office Add-ins Using
-Office.js](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbuildingofficeaddins.com%2F&data=04%7C01%7Cdavech%40microsoft.com%7C4a289dd3e6cf4ceead0808d961afa380%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637648229255222695%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=vx2G2cwLHnOe3An1vve8qW6Cr5KNGl%2Bb%2BD4hUJCFTII%3D&reserved=0).
+Office.js](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/develop-overview).
 There isn't a specific certification for Office Add-in development, but
 there is a [Microsoft 365 Certified: Developer
 Associate](https://docs.microsoft.com/learn/certifications/m365-developer-associate/)

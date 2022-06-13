@@ -75,7 +75,7 @@ user) via office-js to check the entered recipients.**
 
 There are no plans at this time, but this sounds like a great idea!
 Please create a feature request for this on our ideas page at
-[https://aka.ms/m365dev-suggestions](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Fm365dev-suggestions&data=04%7C01%7Cdavech%40microsoft.com%7Ce1ed3b7e509d4c8fa39e08d927bf43a6%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637584524691404082%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=MH2HkV%2FyvkwOPdYFflUVCub8VB5FBCh%2BkjileqtpW4s%3D&reserved=0).
+[https://aka.ms/m365dev-suggestions](https://aka.ms/m365dev-suggestions).
 Thanks!
 
 

@@ -67,7 +67,7 @@ Congrats 🥳
 
 ![Build-Profile.png](images/Build-Profile.png)
 
-* Go to [https://account.microsoft.com/profile](https://account.microsoft.com/profile) to build your profile
+* Go to [https://account.microsoft.com/account](https://account.microsoft.com/account/Account?ru=https%3A%2F%2Faccount.microsoft.com%2Fprofile&destrt=profile-landing) to build your profile
 
 The main reason for this is to avoid FNU and LNU as your First and Last Name in your Microsoft 365 Developer Account
 
