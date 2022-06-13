@@ -32,7 +32,7 @@ This month’s in-depth topic:  **Secure DevOps with the Microsoft Identity pl
 
 *   Join our Hackathon – [Microsoft Decentralized Identity](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/join-us-to-build-solutions-using-decentralized-identities/ba-p/2810649) – January 27 – 31, 2022
 *   Check out [The 425 Show](https://aka.ms/425show) – aka.ms/425show
-*   Download and go through the developer guide available at [https://aka.ms/ztdev](https://https://aka.ms/ztdev)
+*   Download and go through the developer guide available at [https://aka.ms/ztdev](https://aka.ms/ztdev)
 *   Let us know how we’re doing and suggest topics for future calls, please complete this survey [https://aka.ms/IDDevCommunityCallSurvey](https://aka.ms/IDDevCommunityCallSurvey)
 *   Join us for the next Microsoft Identity Platform community call on February 17th at 9:00am PT
 *   Join our Discord community [https://aka.ms/425Show/Discord/Join](https://aka.ms/425Show/Discord/Join) 
