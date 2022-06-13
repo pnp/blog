@@ -565,8 +565,8 @@ Here are the latest updates on the Script Samples
     (Hitachi Energy) | @Adam25858782
 -   New [Create bulk dummy documents in SharePoint Document
     library](https://pnp.github.io/script-samples/create-dummy-docs-in-library/README.html?tabs=pnpps)
-    by [Siddharth
-    Vaghasia](https://twitter.com/sidd_me)
+    by [Siddharth Vaghasia](https://twitter.com/sidd_me)
+
     (Independent Consultant) | @siddh_me
 -   New [Get All Apps From The App Catalog And Export It To
     CSV](https://pnp.github.io/script-samples/spo-get-all-apps-from-appcatalog/README.html?tabs=pnpps)
@@ -577,6 +577,8 @@ Here are the latest updates on the Script Samples
     collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html?tabs=cli-m365-ps)
     by [Paul
     Bullock](https://twitter.com/pkbullock)
+
+
     (CPS) | @pkbullock
 -   Updated [Generate Markdown Report of
     LCIDs](https://pnp.github.io/script-samples/generate-markdown-lcids/README.html?tabs=pnpps)
