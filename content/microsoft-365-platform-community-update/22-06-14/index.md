@@ -278,7 +278,7 @@ The Community Docs model was announced in April 2020 and it's great to see the i
 
 #### New articles
 
-* [Teams Shared Channels for Admins](https://docs.microsoft.com/microsoft-365/community/teams-shared-channel-for-admins.md) by [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
+* [Teams Shared Channels for Admins](https://docs.microsoft.com/microsoft-365/community/teams-shared-channel-for-admins) by [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
 
 #### Updated articles
 
