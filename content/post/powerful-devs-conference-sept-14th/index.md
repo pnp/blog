@@ -27,4 +27,4 @@ future of development.  
 
 
 Register
-now [https://aka.ms/PowerfulDevsConf21](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FPowerfulDevsConf21&data=04%7C01%7CApril.Dunnam%40microsoft.com%7C892d963a62a2425adf5208d973b1786b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637668028391088722%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=e0%2Bx8tkHd6JpCWb9G92bt2yeW5k2csm32ugfsR0jCnQ%3D&reserved=0) 
+now [https://aka.ms/PowerfulDevsConf21](https://aka.ms/PowerfulDevsConf21) 

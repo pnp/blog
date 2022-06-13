@@ -698,7 +698,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Dragan Panjkov](https://twitter.com/panjkov) | @panjkov
 *   [Ed Averett](https://twitter.com/Ed_Averett) | @Ed\_Averett
 *   Emily Lynam (Microsoft)
-*   Elizabeth Samuel - [ElizabethSamuel-MSFT](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FElizabethSamuel-MSFT&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158426857%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=36jxGazKZR9TtD7Xt3E%2BqS8s0%2BcxsCPrZ6mZc2Khkog%3D&reserved=0)
+*   Elizabeth Samuel - [ElizabethSamuel-MSFT](https://github.com/ElizabethSamuel-MSFT)
 *   Emma Cooper (Microsoft)
 *   [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
 *   [Haimantika Mitra](https://twitter.com/HaimantikaM) (Microsoft) | @HaimantikaM
@@ -718,7 +718,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   Jyoti Pal (Microsoft)
 *   Kavishi Agarwal
 *   Kevin Coughlin - [@kevintcoughlin](https://twitter.com/kevintcoughlin)
-*   Keyur Patel - [keyur32](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fkeyur32&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wuL4ROZqAuJ2N6DosAfpyX5lO4BQorlpntSxHphncpA%3D&reserved=0)
+*   Keyur Patel - [keyur32](https://github.com/keyur32)
 *   [Koen Zomers](https://twitter.com/koenzomers) | @koenzomers
 *   Holland Kaviani - [Holland-ODSP](https://github.com/Holland-ODSP)
 *   Laura Graham - [Lauragra](https://github.com/Lauragra)
@@ -750,7 +750,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   Rajdeep Chandra
 *   [Ravichandran Krishnasamy](https://twitter.com/spfx_blog) | @spfx\_blog
 *   [Richard Astbury](https://twitter.com/richorama) (Microsoft) | @richorama
-*   Rick Kirkham | [Rick-Kirkham](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FRick-Kirkham&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=dxJSOcjYFcyHpZgsHFjTJ5dUvNhwOH7dUiSV06GC7P8%3D&reserved=0)
+*   Rick Kirkham | [Rick-Kirkham](https://github.com/Rick-Kirkham)
 *   Roel | [RoelVB](https://github.com/RoelVB)
 *   [Roy Paar](https://www.linkedin.com/in/roypaar/)
 *   [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) 
@@ -758,7 +758,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   Shane Weaver | [shweaver-MSFT](https://github.com/shweaver-MSFT)  
 *   [Shreyansh Agrawal](https://github.com/shagra-ms) (Microsoft)
 *   [Sébastien Levert](https://twitter.com/sebastienlevert) | @sebastienlevert
-*   [Srinivas Varukala](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsvarukala&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=hB1N9L15hhOUOVPXd%2FuYCG8sPJP0HinF1fADwf0YOCk%3D&reserved=0) (Microsoft) | @svarukala
+*   [Srinivas Varukala](https://twitter.com/svarukala) (Microsoft) | @svarukala
 *   [Steven Jia](https://github.com/Steven-Jia) | Steven-Jia
 *   Shubham Gatkal (Microsoft)
 *   [Tejas Mehta](https://twitter.com/tpmehta) | @tpmehta
