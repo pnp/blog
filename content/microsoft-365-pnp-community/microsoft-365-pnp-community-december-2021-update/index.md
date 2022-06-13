@@ -556,7 +556,7 @@ Here are the latest updates on the Script Samples
 -   New [Reports to Excel where the specified Term is
     used](https://pnp.github.io/script-samples/ReportTermUse/README.html?tabs=pnpps)
     by [Kasper Bo
-    Larsen](https://twiter.com/kasperbolarsen)
+    Larsen](https://twitter.com/kasperbolarsen)
     (Fellowmind Denmark) | @kasperbolarsen
 -   Updated [Remove delete option on a document
     library](https://pnp.github.io/script-samples/remove-delete-option-library/README.html?tabs=pnpps)
@@ -566,17 +566,17 @@ Here are the latest updates on the Script Samples
 -   New [Create bulk dummy documents in SharePoint Document
     library](https://pnp.github.io/script-samples/create-dummy-docs-in-library/README.html?tabs=pnpps)
     by [Siddharth
-    Vaghasia](https://twiter.com/sidd_me)
+    Vaghasia](https://twitter.com/sidd_me)
     (Independent Consultant) | @siddh_me
 -   New [Get All Apps From The App Catalog And Export It To
     CSV](https://pnp.github.io/script-samples/spo-get-all-apps-from-appcatalog/README.html?tabs=pnpps)
     by [Chandani
-    Prajapati](https://twiter.com/Chandani_SPD)
+    Prajapati](https://twitter.com/Chandani_SPD)
     (Rapid Circle) | @Chandani_SPD
 -   Updated [List all external users in all site
     collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html?tabs=cli-m365-ps)
     by [Paul
-    Bullock](https://twiter.com/pkbullock)
+    Bullock](https://twitter.com/pkbullock)
     (CPS) | @pkbullock
 -   Updated [Generate Markdown Report of
     LCIDs](https://pnp.github.io/script-samples/generate-markdown-lcids/README.html?tabs=pnpps)
