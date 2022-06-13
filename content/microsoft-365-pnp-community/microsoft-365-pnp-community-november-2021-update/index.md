@@ -755,7 +755,7 @@ Here are the latest updates on the Script Samples
     Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 -   New [SharePoint Modern Page Publishing
-    Report](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.https://pnp.github.io/script-samples/spo-add-document-library-webpart-to-page/README.html?tabs=pnpps)io%2Fscript-samples%2Fspo-modern-page-publishing-report%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=2myxogtQHROXSNEVwypvxwb63mpkElZduswp5bBE2LQ%3D&reserved=0)
+    Report](https://pnp.github.io/script-samples/spo-modern-page-publishing-report/README.html?tabs=pnpps)
     by [Paul
     Bullock](https://twitter.com/pkbullock)
     (CPS) | @pkbullock
