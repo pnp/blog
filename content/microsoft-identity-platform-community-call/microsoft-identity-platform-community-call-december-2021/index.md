@@ -64,7 +64,7 @@ Microsoft.  Recorded December 16, 2021. Q&A in chat and at end of call.
     it
     matters](https://aka.ms/ZTRappsblog-part1) | [aka.ms/ZTRappsblog-part1](https://aka.ms/ZTRappsblog-part1)
 -   Documentation - [Code samples for
-    developers](https://aka.ms/aadcodesamples) | [aka.ms/aadcodesamples](https://https://aka.ms/aadcodesamples)
+    developers](https://aka.ms/aadcodesamples) | [aka.ms/aadcodesamples](https://aka.ms/aadcodesamples)
 -   Sample - [Add app roles to your application and receive them in the
     token](https://aka.ms/approles) | aka.ms/approles  
 -   Sample - [Use groups & group claims to an ASP.NET Core Web app that
