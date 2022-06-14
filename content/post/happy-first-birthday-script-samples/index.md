@@ -10,13 +10,11 @@ tags: ["PnP Script Samples"]
 type: "regular"
 ---
 
-# PnP Script samples birthday blog
-
-!Note: Must be ready for the 17th June
+## PnP Script samples birthday blog
 
 On this day, last year was the first release of the PnP Script Samples site. Wahoo **HAPPY 1ST BIRTHDAY!!!**
 
-Check out the [Launch Tweet | Twitter](https://twitter.com/pkbullock/status/1405646438315565069?s=21&t=3jGXUj0ll9pPluDB0jWs9Q)
+Check out the [Launch Tweet | Twitter](https://twitter.com/pkbullock/status/1405646438315565069)
 
 As of today, we have over **153 scenarios and 230 scripts** that you can leverage in your projects.
 
