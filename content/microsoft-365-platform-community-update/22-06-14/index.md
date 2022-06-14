@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 Platform Community (PnP) - June 2022 update
-date: 2022-06-14T04:00:00.000Z
+date: 2022-06-14T04:00:05.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 - images/monthly-summary-june-2022.png
 tags: ["Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
 type: "regular"
-draft: true
+draft: false
 
 ---
 
@@ -621,6 +621,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @Pkbullock
 *   [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | @Paulschaeflein
 *   [Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4love
+*   [Ravichandran Krishnasamy](https://twitter.com/spfx_blog) (Content Formula) | @Spfx\_blog
 *   [Rene Modery](https://twitter.com/modery) (WPP) | @modery 
 *   [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
 *   Rico van de Ven | RicoNL
@@ -703,35 +704,25 @@ Here's the companies, which provided support the community initiative for this m
 
 Here’s the list of Microsoft people who have been closely involved with the Microsoft 365 Platform community work during last month.
 
-*   [Aakash Bhardwaj](https://twitter.com/aakash_316) (Microsoft) | @Aakash\_316
-*   Abid Rahman (Microsoft)
 *   [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @Sharepointalex
 *   [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
-*   [Aline Tognini](https://github.com/alinefmr) (Microsoft) | alinefmr
-*   [Allen Snow](https://twitter.com/asnow003) (Microsoft) | @Asnow003
 *   Altamish Ahmad (Microsoft)
 *   Amber Weise (Microsoft) 
 *   Andrey Esipov (Microsoft)
 *   Anuj Gupta (Microsoft)
 *   [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
-*   [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 *   Arvind Ravi (Microsoft)
-*   Ashima Mathur (Microsoft)
 *   [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 *   Ben Summers (Microsoft)
 *   [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
-*   [Beverly Kim](https://github.com/bvandaal) (Microsoft) | bvandaal
 *   [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 *   [Brian Dang](https://twitter.com/mrdang) (Microsoft) | @Mrdang
 *   [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | BrianTJackett
 *   [Bryan Petersen](https://github.com/bpeterse03) (Microsoft) | bpeterse03
 *   Camille Birch (Microsoft)
 *   [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @Catpaint
-*   [Charles Sterling](https://twitter.com/chass) (Microsoft) | @Chass
 *   Christer Ljung (Microsoft)
-*   [Christos Matskas](https://twitter.com/ChristosMatskas) (Microsoft) | @ChristosMatska
 *   [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   [Dave Randall](https://github.com/triplanedave) (Microsoft) | triplanedave
 *   [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
 *   [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
 *   [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
@@ -739,87 +730,51 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Doğan Erişen](https://github.com/derisen) (Microsoft) | derisen
 *   [Dragan Panjkov](https://twitter.com/panjkov) (Microsoft) | @Panjkov
 *   [Ed Averett](https://twitter.com/Ed_Averett) (Microsoft) | Ed\_Everett
-*   Emily Lynam (Microsoft)
 *   Eoin O'Brien
 *   Elizabeth Samuel (Microsoft)
-*   Emma Cooper (Microsoft)
 *   [Erin Bailie](https://twitter.com/EMBailie) (Microsoft) | @EMBailie
 *   [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
-*   [Haimantika Mitra](https://twitter.com/HaimantikaM) (Microsoft) | @HaimantikaM
-*   Hal Bond (Microsoft)
 *   [Holger Lutz](https://github.com/HolgerLutz) (Microsoft) | HolgerLutz
 *   [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
-*   Igor Ribeiro (Microsoft)
 *   [James Eccles](https://github.com/jameseccles) (Microsoft) | @jimdeccles
 *   James Lau (Microsoft) 
 *   [James Skay](https://twitter.com/JamesSkay) (Microsoft) | @JamesSka
-*   [Japhlet Nwamu](https://twitter.com/japhletnwamu) (Microsoft) | @Japhletnwamu
 *   [Jasmine Hoegh](https://www.twitter.com/sbjishu) (Microsoft) | @Sbjishu
-*   Jason Johnston (Microsoft) | jasonjoh
-*   Jay Hangan (Microsoft)
 *   [Jeff Teper](https://twitter.com/jeffteper) (Microsoft) | @JeffTeper
 *   Joanne Hendrickson (Microsoft) | JoanneHendrickson
 *   John Nguyen (Microsoft) | johnguy0
 *   [John Sudds](https://twitter.com/jsuddsjr) (Microsoft) | @Jsuddsjr
-*   Join Sahil Baid (Microsoft)
-*   Jonathan Kahati (Microsoft)
 *   [Jos Verlinde](https://github.com/Josverl) (Microsoft) Josverl
-*   Josh Friedman (Microsoft) 
 *   Jyoti Pal (Microsoft)
-*   Kavishi Agarwal (Microsoft)
 *   [Kevin Coughlin](https://twitter.com/kevintcoughlin) (Microsoft) | @Kevintcoughlin
-*   Keyur Patelsdata (Microsoft)
 *   [Koen Zomers](https://twitter.com/koenzomers) (Microsoft) | @Koenzomers
-*   Holland Kaviani (Microsoft)
 *   [Laura Graham](https://github.com/Lauragra) (Microsoft) | Lauragra
 *   Holland Kaviani (Microsoft)
-*   [Lee Stott](https://twitter.com/lee_stott) (Microsoft) | @Lee\_Stott
-*   [Linda Delarvé (Microsoft)
 *   [Linda Lu Cannon](https://github.com/lindalu-MSFT) - (Microsoft) | lindalu-MSFT
 *   [Loki Meyburg](https://twitter.com/lokimeyburg) (Microsoft) (Microsoft) | @Lokimeyburg
 *   [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband
 *   [Luca Spolidoro](https://twitter.com/Licantrop0) (Microsoft) |@Licantrop0
-*   [Mansa MusaLe](https://twitter.com/m4musale) (Microsoft) | @M4musale
-*   Mathangi Chakrapani (Microsoft)
-*   [Matthijs Hoekstra](https://twitter.com/mahoekst) (Microsoft) | @Mahoekst
-*   Max Kulakov (Microsoft)
 *   Michael Aldridge (Microsoft)
 *   [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @Mikaelsvenson
 *   [Mike Hollinshead](https://twitter.com/mahollinshead) (Microsoft) | @Mahollinshea
 *   [Mounika Narayanan](https://twitter.com/nmounika97) (Microsoft) | @nmounika97
-*   [Musale Martin](https://twitter.com/m4musale) (Microsoft) | m4musale
-*   Namrata Khubchandani (Microsoft)
 *   [Nancy Wang](https://twitter.com/nancyatMSFT) (Microsoft) | @nancyatMSFT
-*   Natalia Kats (Microsoft)
 *   [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1
 *   [Nathan Zipf](https://github.com/NathZ1) (Microsoft) | NathZ1
-*   Nick Adman (Microsoft)
 *   Nick Kramer (Microsoft)
 *   [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
 *   [Nicolas Vogt](https://github.com/vogtn) (Microsoft) | vogtn
-*   [Nikolay Zainchkovskiy](https://github.com/NZainchkovskiy) (Microsoft) | NZainchkovskiy
 *   [Nickii Miaro](https://github.com/Mnickii) (Microsoft) | Nickii Miaro
 *   [Niko](https://github.com/NikoMix) (Microsoft) | NikoMix
 *   [Nikola Metulev](https://twitter.com/metulev) (Microsoft) | @Metulev
-*   Ojasvi Choudhary (Microsoft)
-*   Onur Onder (Microsoft)
-*   Orion O'Malley (Microsoft)
 *   [Pam Green](https://www.twitter.com/contextuallib) (Microsoft) | @Contextuallib
-*   Parag Jain (Microsoft)
 *   [Pat Miller](https://twitter.com/PatMill_MSFT) (Microsoft) | @PatMill\_MSFT
 *   [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
-*   Preethika Kiruveedula (Microsoft)
-*   Rabeb Othmani (Microsoft)
+*   [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
 *   [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
-*   Rajdeep Chandra
-*   [Ravichandran Krishnasamy](https://twitter.com/spfx_blog) (Microsoft) | @Spfx\_blog
-*   [Richard Astbury](https://twitter.com/richorama) (Microsoft) | @Richorama
 *   Rick Kirkham (Microsoft)
-*   [Roel](https://github.com/RoelVB) (Microsoft) | RoelVB
 *   [Roy Paar](https://twitter.com/RoyPaar) (Microsoft) | @RoyPaar
 *   [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) (Microsoft)
-*   SaiBhavya Reddy (Microsoft)
-*   Saisang Cai (Microsoft) | Saisang
 *   [Sam Larson](https://github.com/salarson) (Microsoft) | salarson
 *   [Saurabh Bhatia](https://twitter.com/iamSBTron) (Microsoft) | @iamSBTron  
 *   [Shane Weaver](https://github.com/shweaver-MSFT) (Microsoft) | shweaver-MSFT
@@ -831,7 +786,6 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Srinivas Varukala](https://twitter.com/svarukala) (Microsoft) | @Svarukala
 *   [Steven Jia](https://github.com/Steven-Jia) (Microsoft) | Steven-Jia
 *   [Stephen Rose](https://twitter.com/stephenlrose) (Microsoft) | @stephenlrose
-
 *   Swapnil Shrivastava (Microsoft)
 *   [Tejas Mehta](https://twitter.com/tpmehta) (Microsoft) | @Tpmehta
 *   [Tim Mayo](https://www.twitter.com/timmayo) (Microsoft) | @Timmayo
@@ -842,7 +796,6 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
 *   [Wictor Wilen](https://twitter.com/wictor)(Microsoft) | @Wictor
 *   [Vincent Biret](https://twitter.com/baywet) (Microsoft) | @baywet
-*   Zakiullah Khan (Microsoft)
 
 ### MVP Community team
 
