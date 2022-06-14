@@ -5,7 +5,7 @@ author: "Paul Bullock"
 githubname: pkbullock
 categories: ["Community post"]
 images:
-- images/myImage.png
+- images/HomePage-140622.png
 tags: ["PnP Script Samples"]
 type: "regular"
 ---
