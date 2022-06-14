@@ -1,10 +1,10 @@
 ---
 title: "Office Add-ins community call – June 8, 2022"
-summary: "Topics: Microsoft roadmap for One Outlook, Microsoft Outlook Smart Alerts (Demo), Using Blazor in a Microsoft Excel add-in. Q&A in chat and at end of call."
+summary: "Microsoft roadmap for One Outlook, Outlook Smart Alerts (Demo), Using Blazor in an Excel add-in. Q&A in chat and at end of call."
 date: 2022-06-13T08:01:00-05:00
 author: "Sam Ramon"
 githubname: samantharamon
-categories: ["Office add-in developer community call"]
+categories: ["Office Add-in developer community call"]
 images:
 - images/office-add-ins-call-june-2022-recording.png
 tags: ["Office Add-ins","Microsoft 365"]
@@ -20,18 +20,18 @@ This month's community call topics:
 
 * **Microsoft roadmap for One Outlook** – Get to know more about One Outlook, including enabling support for web add-ins and the planned timeline for preview and release – [Nikita Mittal](https://www.linkedin.com/in/nikita-mittal-92536648) – Senior Product Manager (Microsoft)
 * **Microsoft Outlook Smart Alerts** – Preview how to use Outlook Smart Alerts to enable your add-in to run logic when a user sends a message or appointment – [Sam Ramon](https://github.com/samantharamon) – Technical Writer (Microsoft)
-* **Using Blazor in a Microsoft Excel add-in** – Step through creating a Blazor Webassembly Excel add-in – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins \| @aafvstam
-* **Community spotlight** recognizes [Maarten van Stam](http://twitter.com/aafvstam).
-* **Community panels** – Join us to share your feedback on how we can provide you with a better Office Add-ins development experience.
-* **Q&A** – See question and answers at end of call and in chat throughout call.
+* **Using Blazor in a Microsoft Excel add-in** – Step through creating a Blazor Webassembly Excel add-in – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins | @aafvstam
+* **Community spotlight** recognizes [Maarten van Stam](http://twitter.com/aafvstam)
+* **Community panels** – Join us to share your feedback on how we can provide you with a better Office Add-ins development experience
+* **Q&A** – See question and answers at end of call and in chat throughout call
 
-The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut. Recorded June 8, 2022.
+The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded June 8, 2022.
 
 {{< youtube aIydcCxJFBo >}}
 
 ## Topic summaries
 
-* **Microsoft roadmap for One Outlook** – A Microsoft initiative to unify our code base, increase engineering velocity, and deliver a consistent experience across all Outlook clients. One Outlook uses the Outlook on the web code in a native frame. Our team is currently working to support web add-ins in One Outlook and are tentatively planning to preview this in July. We're aiming to request for partner feedback from July through September.
+* **Microsoft roadmap for One Outlook** – One Outlook is a Microsoft initiative to unify our code base, increase engineering velocity, and deliver a consistent experience across all Outlook clients. One Outlook uses the Outlook on the web code in a native frame. Our team is currently working to support web add-ins in One Outlook and are tentatively planning to preview this in July. We're aiming to request for partner feedback from July through September.
 * **Microsoft Outlook Smart Alerts (demo)** – Outlook Smart Alerts is an event-based activation capability in preview that allows an add-in to run logic after a user selects Send from a message or appointment. The demo showcases an add-in which verifies that correct color categories are applied to a message or appointment based on keywords found in the item's subject and body.
 * **Using Blazor in a Microsoft Excel add-in (demo)** – Blazor Webassembly allows you to build Office Add-ins using .NET, C#, and JavaScript technologies. This demo walks through how to clone the Office Add-ins sample repository and build a Blazor Webassembly Excel add-in project to create tables and bubble charts.
 
@@ -39,7 +39,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 * Update – Microsoft roadmap for One Outlook – [Nikita Mittal](https://www.linkedin.com/in/nikita-mittal-92536648) – Senior Product Manager (Microsoft) – [1:23](https://www.youtube.com/watch?v=aIydcCxJFBo&t=83s)
 * Demo – Microsoft Outlook Smart Alerts – [Sam Ramon](https://github.com/samantharamon) – Technical Writer (Microsoft) – [7:35](https://www.youtube.com/watch?v=aIydcCxJFBo&t=455s) 
-* Demo – Using Blazor in a Microsoft Excel add-in – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins \| @aafvstam – [15:12](https://www.youtube.com/watch?v=aIydcCxJFBo&t=912s)
+* Demo – Using Blazor in a Microsoft Excel add-in – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins | @aafvstam – [15:12](https://www.youtube.com/watch?v=aIydcCxJFBo&t=912s)
 * Community spotlight – [32:26](https://www.youtube.com/watch?v=aIydcCxJFBo&t=1946s)
 * Community panels – [33:10](https://www.youtube.com/watch?v=aIydcCxJFBo&t=1990s)
 * Q&A – [David Chesnut](http://twitter.com/davidchesnut) – Senior Technical Writer (Microsoft) \| @davidchesnut – [36:26](https://www.youtube.com/watch?v=aIydcCxJFBo&t=2186s)
@@ -53,18 +53,18 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
     * [Word add-ins panel](https://ux.microsoft.com/Panel/WordAddinDeveloper)
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
-* Sign up for the PnP Recognition Program and earn contribution badges – <https://pnp.github.io/recognitionprogram/>
+* [Sign up for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contribution badges
 * See call agendas and summaries, and release announcements. Follow us on Twitter – 
-    * <https://twitter.com/microsoft365dev>
-    * <https://twitter.com/m365pnp>
+    * [@microsoft365dev](https://twitter.com/microsoft365dev)
+    * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
-* Join the next community call on July 13th at 8:00 AM Pacific Time (PT) – <https://aka.ms/officeaddinscommunitycall>
+* [Join the next community call](https://aka.ms/officeaddinscommunitycall) on July 13th at 8:00 AM Pacific Time (PT)
 
 ## Q&A (Question & Answers)
 
-**Is there a way to create spell-checking add-ins? We are currently trying to create some spellcheckers for small languages not supported officially by Microsoft. Is there a way to include them via office.js on all platforms and applications?**
+**Is there a way to create spell checker add-ins? We are currently trying to create some spell checkers for small languages not supported officially by Microsoft. Is there a way to include them via office.js on all platforms and applications?**
 
-This depends on what features you want to support. For example, you can't integrate with the built-in spellchecker to scan as the user types, but you can read document content, spellcheck it, and write document content with corrections. You can create one add-in for Word, Excel, and PowerPoint. For more information on how to configure multiple hosts in the manifest, see [Specify Office applications and API requirements](https://docs.microsoft.com/office/dev/add-ins/develop/specify-office-hosts-and-api-requirements#specify-which-office-applications-can-host-your-add-in). Also take a look at the [Script Lab manifest](https://github.com/OfficeDev/script-lab/blob/master/manifests/script-lab-react-prod.xml) which supports multiple hosts. You'll need to create a separate add-in for Outlook.
+This depends on what features you want to support. For example, you can't integrate with the built-in spell checker to scan as the user types, but you can read document content, spell check it, and write document content with corrections. You can create one add-in for Word, Excel, and PowerPoint. For more information on how to configure multiple hosts in the manifest, see [Specify Office applications and API requirements](https://docs.microsoft.com/office/dev/add-ins/develop/specify-office-hosts-and-api-requirements#specify-which-office-applications-can-host-your-add-in). Also take a look at the [Script Lab manifest](https://github.com/OfficeDev/script-lab/blob/master/manifests/script-lab-react-prod.xml) which supports multiple hosts. You'll need to create a separate add-in for Outlook.
 
 If you need more information, please let us know more about your scenario at either [Microsoft Q&A](https://aka.ms/office-addins-dev-questions) (using the ​**office-js-dev** and **office-addins-dev** tags) or [Stack Overflow](https://stackoverflow.com) (using the **office-js**, **outlook-web-addins**, and **office-scripts** tags).
 
