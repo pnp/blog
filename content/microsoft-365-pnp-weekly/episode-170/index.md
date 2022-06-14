@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 170"
 summary: "SharePoint developer - Marcin Wojciechowski (Valo Solutions), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss quality assurance, risk management, development tools, news sources, tips to new developers plus latest 24 articles/tweets/videos from Microsoft/Community this week."
-date: 2022-06-14T04:00:00-00:00
+date: 2022-06-14T04:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
