@@ -148,7 +148,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 Great seeing everyone today. Perhaps we will meet in person soon at the
 [European Collaboration and Cloud Summit](https://collabsummit.eu/) in
 Düsseldorf, Germany and/or at the [Microsoft 365 Collaboration
-Conference](https://sharepointna.com/#!/) in Las Vegas, Nevada, US. 
+Conference](https://m365conf.com/#!/) in Las Vegas, Nevada, US. 
 Events are filling up, register soon.       
 
 ## Demos
