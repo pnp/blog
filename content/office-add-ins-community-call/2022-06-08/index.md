@@ -140,10 +140,10 @@ We're sorry to hear you've encountered an issue. Please open a [GitHub issue](ht
 ## Stay connected
 
 * See the full blog post for this call in the Microsoft 365 platform community blog – <https://aka.ms/m365pnp/blog>
-* Twitter – <https://twitter.com/microsoft365dev>
-* Microsoft 365 Platform Community in YouTube – <https://aka.ms/m365/videos>
-* Link to all Microsoft Developer Community calls – <https://aka.ms/M365DevCalls>
-* Submit questions for next community call – <https://aka.ms/officeaddinsform>
+* Follow us on Twitter – <https://twitter.com/microsoft365dev>
+* Microsoft 365 Platform Community on YouTube – <https://aka.ms/m365/videos>
+* All Microsoft Developer Community calls – <https://aka.ms/M365DevCalls>
+* Submit questions about add-ins development for our next community call – <https://aka.ms/officeaddinsform>
 * Next community call – July 13th at 8:00 AM PT – <https://aka.ms/officeaddinscommunitycall>
 
 {{< attachments >}}
