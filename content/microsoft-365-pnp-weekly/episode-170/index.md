@@ -1,46 +1,50 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 170"
-summary: "Microsoft 365 Solution Architect - Yannick Reekmans (Qubix), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss how customers, partners and IT can approach Power Platform, staying current, building business, Microsoft support, plus latest 14 articles/videos from Microsoft/Community this week."
-date: 2022-06-06T04:00:00-00:00
+summary: "SharePoint developer - Marcin Wojciechowski (Valo Solutions), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss quality assurance, risk management, development tools, news sources, tips to new developers plus latest 24 articles/tweets/videos from Microsoft/Community this week."
+date: 2022-06-14T04:00:00-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-169-promo.png
+- images/pnp-weekly-170-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=0lCh3-0nhUI
-draft: true
+- https://www.youtube.com/watch?v=iciZb2BP0Hg
+draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](http://twitter.com/YannickReekmans) \| @YannickReekmans.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Kraków, Poland based SharePoint developer at Valo Solutions - [Marcin Wojciechowski](https://twitter.com/mgwojciech) \| @mgwojciech.
 
 ## Topics discussed in this session
 
-Since his last appearance on [PnP Weekly – Episode 92](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-365-amp-sharepoint-pnp-weekly-episode-92/ba-p/1601161), Yannick has built up a 10 person consulting business and offerings on Power Platform in addition to integration services with Office 365, Dynamics 365, SharePoint, Teams and Azure.
+* First started on SharePoint back in the day when: If you have a problem, SharePoint will solve it!
+* Why the move from consultancy projects to product development was extremely refreshing.
+* Importance of quality assurance and risk management when developing and testing for performance and scale in a process driven environment of continuous delivery and continuous integration.
+* Advice to technical grads - "Have fun at your work, eventually you will get good at it" and "never write a call you don’t understand."
+* Development tools you might want to consider.
+* Marcin’s tips for staying on top of latest technology.
+* Development tools mentioned:
+    * [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)
+    * [Edge Console](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/console/)
+    * [GitHub Copilot](https://dev.to/github/understand-your-code-using-github-copilot-5375#:~:text=%20Understand%20your%20code%20using%20GitHub%20Copilot%20,Copilot%20Labs%20sidebar%20has%20everything%20you...%20More%20)
+    * [Jest](https://jestjs.io/)
+* Articles mentioned - [How to be better at twitter](https://www.m365princess.com/blogs/twitter/) and [How to be better at twitter - part 2](https://www.m365princess.com/blogs/twitter-part-2/) \| [Luise Freese](http://twitter.com/LuiseFreese) \| @LuiseFreese
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-
-Also, we showcased xx articles/videos published by Microsoft and the PnP Community in the last week.  
+Also, we showcased 24 articles/tweets/videos published by Microsoft and the PnP Community in the last week.  
 
 ## This week
 
-* **Waldek** – 
-* **Vesa** – 
+* **Waldek** – yes, interesting stuff
+* **Vesa** – interesting stuff, yes
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
 This session was recorded on Monday, June 13, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 0lCh3-0nhUI >}}
+    {{< youtube iciZb2BP0Hg >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-uvjxj-1244047 >}}
+    {{< podbean pb-w7j5e-124d4dc >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -48,14 +52,14 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Microsoft articles
 
-* [How Microsoft is equipping manufacturing workers with the tools of the future ](https://www.microsoft.com/en-us/microsoft-365/blog/2022/05/31/how-microsoft-is-equipping-manufacturing-workers-with-the-tools-of-the-future/) - [Emma Williams](https://twitter.com/emmawil35) (Microsoft) | @emmawil35
+* [How Microsoft is equipping manufacturing workers with the tools of the future ](https://www.microsoft.com/microsoft-365/blog/2022/05/31/how-microsoft-is-equipping-manufacturing-workers-with-the-tools-of-the-future/) - [Emma Williams](https://twitter.com/emmawil35) (Microsoft) | @emmawil35
 * [Crafting a new hybrid meeting room experience at Microsoft with Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/crafting-a-new-hybrid-meeting-room-experience-at-microsoft-with/ba-p/3478711) - Lukas Velush (Microsoft)
 * [Expanding background noise suppression across platforms and scenarios](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/expanding-background-noise-suppression-across-platforms-and/ba-p/3300366) - Mehrsa Golestaneh (Microsoft)
 * [New cultural site template: Pride Month (June 2022)](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/new-cultural-site-template-pride-month-june-2022/ba-p/3490291) - [Quentin Mackey](https://twitter.com/mackey_quentin) (Microsoft) | @mackey_quentin
 * [SharePoint Roadmap Pitstop: May 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-may-2022/ba-p/3468499) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 * [Application permissions for Bookings APIs in Microsoft Graph now available](https://devblogs.microsoft.com/microsoft365dev/application-permissions-for-bookings-apis-in-microsoft-graph-now-available/) - Microsoft
-* [Microsoft Teams JS SDK v2 is now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-js-sdk-v2-is-now-generally-available/) - [Rabia Williams](https://twitter.com/williamsrabia) | @williamsrabia
-* [Enable single sign-on in a tab app](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/tab-sso-overview?referrer=whats.new.rssfeed) - Microsoft
+* [Microsoft Teams JS SDK v2 is now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-js-sdk-v2-is-now-generally-available/) - [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia
+* [Enable single sign-on in a tab app](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/tab-sso-overview?referrer=whats.new.rssfeed) - Microsoft
 
 
 ## Community articles
@@ -79,10 +83,11 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
   
 ## Additional resources
 
-
+* [Release Notes for PnPjs v3.4.1](https://pnp.github.io/pnpjs/)  
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
 * Check out all the great community calls, SDKs, and tooling for Microsoft 365 from <https://aka.ms/m365/community>
 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
+
