@@ -1,6 +1,6 @@
 ---
 title: "Happy 1st Birthday PnP Script Samples"
-date: 2022-06-17T10:00:00-00:00
+date: 2022-06-17T00:00:00-00:00
 author: "Paul Bullock"
 githubname: pkbullock
 categories: ["Community post"]
@@ -18,7 +18,7 @@ On this day, last year was the first release of the PnP Script Samples site. Wah
 
 Check out the [Launch Tweet | Twitter](https://twitter.com/pkbullock/status/1405646438315565069?s=21&t=3jGXUj0ll9pPluDB0jWs9Q)
 
-As of today, we have over XXX scenarios and XXX scripts that you can leverage in your projects.
+As of today, we have over **153 scenarios and 230 scripts** that you can leverage in your projects.
 
 _"It's been fantastic to see the excitement and engagement around the Script samples across the community. As we share our knowledge across the community members in the different formats, we are together much stronger and much more skillful to achieve the day to day objectives._
 
@@ -43,9 +43,43 @@ Another cool element of the scripts, is they are now integrated into the [Unifie
 
 We could not have done this without your support and would like to recognise the following contributors that made the project happen:
 
-- XXX LIST ALL CONTRIBUTORS XX.
+- Adam Wójcik
+- Albert-Jan Schot
+- Anoop Tatti
+- Brian McCullough
+- Chandani Prajapati
+- Dipen Shah
+- Ganesh Sanap
+- Jago Pauwels
+- Jasey Waegebaert
+- Jim Love
+- Jiten Palmer
+- Kasper Bo Larsen
+- Kinga Kazala
+- Kunj Balkrishna Sangani
+- Leon Armston
+- Luise Freese
+- Marc D Anderson
+- Mathijs Verbeeck
+- Matt Maher
+- Milan Holemans
+- Nanddeep Nachan
+- Paul Schaeflein
+- Pete Skelly
+- Reshmee Auckloo
+- Rodrigo Pinto
+- Russell Gove
+- Ryan Healy
+- Siddharth Vaghasia
+- Smita Nachan
+- Srinivas Varukala
+- Steven Chorkawy
+- Twan van Beers
+- Valeras Narbutas
 
-I'd also like to thank those that have retweeted, amplified and supported PnP Script Samples on social media platforms, additional to the [PnP Team](https://pnp.github.io/#team) for advice and help with progress the community project. **THANK YOU ALL!!**
+I'd also like to thank those that have retweeted, amplified and supported PnP Script Samples on social media platforms, additional to the [PnP Team](https://pnp.github.io/#team) for advice and help with progress the community project. 
+
+**THANK YOU ALL!!**
 
 #CommunityRocks
 
@@ -69,4 +103,8 @@ We do great appreciate and value all the contributions from the community, if yo
 
 ## So what's next
 
+The site is under continuous development and we have a number of ideas to take it further. If you have features you would like or samples to contribute to the repository, please reach out and we can help make this happen.
 
+Enjoy!
+
+**Paul Bullock**
