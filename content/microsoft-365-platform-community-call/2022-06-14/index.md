@@ -43,7 +43,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 
 The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett. Q&A takes place in chat throughout and live at end of the call.
 
-{{< youtube B4F0KY-qCUU >}}
+{{< youtube y9FsUBzCRF8 >}}
 
 ## Agenda items
 
