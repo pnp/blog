@@ -10,7 +10,7 @@ images:
 tags: []
 type: "regular"
 videos:
-- https://www.youtube.com/watch?v=B4F0KY-qCUU
+- https://www.youtube.com/watch?v=y9FsUBzCRF8
 draft: false
 ---
 
@@ -47,10 +47,11 @@ The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (
 
 ## Agenda items
 
-* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [8:20](https://youtu.be/B4F0KY-qCUU?t=500)
-* Demo - Migrate your SharePoint workflows to Power Automate with migration tooling (preview) – Zac Sun (Microsoft) – [13:29](https://youtu.be/B4F0KY-qCUU?t=809)
-* Demo - TeamsJS SDK V2 to extend your Microsoft Teams solutions to Outlook and Office – [Bob German](http://twitter.com/Bob1German) (Microsoft) \| @Bob1German – [20:02](https://youtu.be/B4F0KY-qCUU?t=1202)
-* Demo - Send a SMS message with Azure Communication Services – [Dan Wahlin](http://twitter.com/DanWahlin) (Microsoft) \| @DanWahlin – [39:10](https://youtu.be/B4F0KY-qCUU?t=2350)
+* Monthly contributors on the Microsoft 365 platform community efforts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [7:21](https://youtu.be/y9FsUBzCRF8?t=441)
+* Latest updates and news on the Microsoft 365 platform – [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett – [9:36](https://youtu.be/y9FsUBzCRF8?t=576)
+* Demo - Impact of deprecating basic authentication for Exchange for your solution – [Greg Taylor](https://twitter.com/gregtaylor_msft) (Microsoft) \| @gregtaylor_msft – [16:11](https://youtu.be/y9FsUBzCRF8?t=971)
+* Demo - Introduction to Microsoft Graph .Net SDK v5 – Andrew Omondi  (Microsoft) – [29:08](https://youtu.be/y9FsUBzCRF8?t=1748)
+* Demo - Introduction to Microsoft Graph Postman collection – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [37:18](https://youtu.be/y9FsUBzCRF8?t=2238)
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
