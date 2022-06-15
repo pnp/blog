@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Platform Community Call - 14th of June, 2022"  
-summary: "Three demos - Migrate your SharePoint workflows to Power Automate with migration tooling (preview), TeamsJS SDK V2 to extend your Microsoft Teams solutions to Outlook and Office, and Send a SMS message with Azure Communication Services. New articles, updated samples."
-date: 2022-06-07 02:00:00 +0000
+summary: "Three demos - Latest on deprecating basic auth for Exchange, Introduction to Microsoft Graph .Net SDK v5, and Introduction to Microsoft Graph Postman collection. Microsoft 365 Platform Community (PnP) - June 2022 update and 8 new documents/articles released."
+date: 2022-06-15 02:00:00 +0000
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
@@ -11,7 +11,7 @@ tags: []
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=B4F0KY-qCUU
-draft: true
+draft: false
 ---
 
 ## Call summary
@@ -20,29 +20,28 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 
 ### New this week
 
-* Article – [Upcoming billing changes for Microsoft Graph APIs for Teams messages](https://devblogs.microsoft.com/microsoft365dev/upcoming-billing-changes-for-microsoft-graph-apis-for-teams-messages/) \| Microsoft
-* Article – [Breaking changes for the Insights API (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-for-the-insights-api-beta/) \| Microsoft
-* Article – [SharePoint Framework 1.15 Release Candidate now available with new features and updates](https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-1-15-release-candidate-new-features-for-viva-connections-microsoft-teams-and-sharepoint/) \| [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+* Samples – the [Microsoft 365 Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) now has more than 1099 samples from Microsoft and community \| aka.ms/m365/samples
+* Opportunity – Microsoft Community Initiative to build a unified **Microsoft Cloud Community model** with Microsoft 365 and Azure. We are looking for community members to join the Community Advisory Board \| aka.ms/MCABLeaderApp
+* Article – [Microsoft 365 Platform Community (PnP) - June 2022 update](https://pnp.github.io/blog/microsoft-365-platform-community-update/22-06-14/) \| Microsoft
+* Article – [Microsoft Teams JS SDK v2 is now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-js-sdk-v2-is-now-generally-available/) \| [Rabia Williams](http://twitter.com/williamsrabia) (Microsoft) \| @williamsrabia
+* Article – [Application permissions for Bookings APIs in Microsoft Graph now available](https://devblogs.microsoft.com/microsoft365dev/application-permissions-for-bookings-apis-in-microsoft-graph-now-available/) \| Microsoft
+* Article – [New AI-based speech enhancements for Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-ai-based-speech-enhancements-for-microsoft-teams/ba-p/3490168) \| Solomiya Branets (Microsoft)
+* Article – [Inside Microsoft Teams Season 5 Episode 3- “Perfect blend: coffee and Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/inside-microsoft-teams-season-5-episode-3-perfect-blend-coffee/ba-p/3490369)” \| Stephen Rose (Microsoft)
+* Article – [Updated integrations with Confluence and Zendesk now available in Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/updated-integrations-with-confluence-and-zendesk-now-available/ba-p/3474204) \| Microsoft
+* Article – [Crafting a new hybrid meeting room experience at Microsoft with Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/crafting-a-new-hybrid-meeting-room-experience-at-microsoft-with/ba-p/3478711) \| Lukas Velush (Microsoft)
 * Article – [Expanding background noise suppression across platforms and scenarios](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/expanding-background-noise-suppression-across-platforms-and/ba-p/3300366) \| Mehrsa Golestaneh (Microsoft)
-* Article – [Introducing Direct Guest Join for expanded capabilities in Microsoft Teams Rooms on Android](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-direct-guest-join-for-expanded-capabilities-in/ba-p/3467078) \| Matt Taylor (Microsoft)
-* Article – [‘Follow Office Preview’ update policy setting in Microsoft Teams available for Windows & Mac users](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/follow-office-preview-update-policy-setting-in-microsoft-teams/ba-p/3466821) \| Shikha Varshney (Microsoft)
-* Article – [Make your Microsoft Teams meetings more effective and inclusive](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/make-your-microsoft-teams-meetings-more-effective-and-inclusive/ba-p/3423688) \| Chinmaya Madan (Microsoft)
-* Article – [Performance enhancements to Microsoft Teams lead to faster response times](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/performance-enhancements-to-microsoft-teams-lead-to-faster/ba-p/3460419) \| Mark Longton (Microsoft)
-* Article – [More ways to collaborate seamlessly outside your organization with Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/more-ways-to-collaborate-seamlessly-outside-your-organization/ba-p/3452686) \| Christine Ho (Microsoft)
-* Article – [What’s New in Microsoft Teams \| May 2022](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-may-2022/ba-p/3440546) \| Teams Team
-* Article – [What’s new in Viva Learning – May 2022](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/what-s-new-in-viva-learning-may-2022/ba-p/3435796) \| John Mighell (Microsoft)
-* Teams Samples – [SDK v2 changes](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples) (Samples updated to take advantage of updated SDK)
-* Authentication Samples – [updated samples to use the MSAL Library](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples)
-* Teams Documentation – [Enable SSO for tab app](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/tab-sso-overview)
-* Microsoft 365 PnP Weekly – Episode 169 (June 6th) with Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](http://twitter.com/YannickReekmans) \| @YannickReekmans \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/) \| [podcast](https://www.podbean.com/media/share/pb-uvjxj-1244047)
+* Documentation - [Conversation events in your Teams bot](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/conversations/subscribe-to-conversation-events?tabs=dotnet) \| Teams Platform Update
+* App Studio will be deprecated by June 30, 2022, use [Developer Portal](https://dev.teams.microsoft.com/home) \| Teams Platform Update
+* Dev Podcast - [Day in the life of an API Architect on Microsoft Graph with Darrel Miller](https://www.m365devpodcast.com/e/microsoft-apis-with-darrel-miller/) (June 1)
+* Microsoft 365 PnP Weekly – Episode 170 (June 13th) with Kraków, Poland based SharePoint developer at Valo Solutions - [Marcin Wojciechowski](https://twitter.com/mgwojciech) \| @mgwojciech \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-170/) \| [podcast](https://www.podbean.com/media/share/pb-w7j5e-124d4dc)
 
 ### Demos
 
-* **Migrate your SharePoint workflows to Power Automate with migration tooling (preview)** – a new feature working on top of SharePoint Migration tool that automates the migration of legacy (classic) SharePoint workflows to Power Automate. The tool queries the source workflow, converts to Power Automate flow, packages into a solution that’s published with Power Automate API. Owner reviews migrated flows, elects which to switch on. Details on 2 Previews – Public and Private (ends June 30). Step through migration.
-* **TeamsJS SDK V2 to extend your Microsoft Teams solutions to Outlook and Office** – learn about recently announced enhancements (multi-host support, new namespaces, promises, new API calls, and backward compatibility) in the client-side SDK v2, along with concepts of capabilities and hosts. See how new capabilities can be queried, review several capability APIs, and then see capabilities in a demo of an app running in all 3 supported hosts. Code walkthrough and upgrade steps outlined.
-* **Send a SMS message with Azure Communication Services** – it’s super easy to send an SMS message from ACS. Review 5 ACS core services, dive into the SMS service looking at 4 SMS use cases and at specific SMS features. Step through creating an ACS service in Azure Portal, creating a toll free number, adding the ACS package to project, adding a connection string to project, creating the SmsClient Object and calling Send().
+* **Latest on deprecating basic auth for Exchange** - an impactful change to be aware. Beginning October 1, 2022, Microsoft will *start* to turn off Basic Auth for a number of mail protocols. Microsoft is not turning off the protocols. And fortunately, the protocols all support modern OAuth today. Understand where to look for usage data, tips for interpreting the data (based on protocol), next steps check list, and Useful Links.
+* **Introduction to Microsoft Graph .Net SDK v5** - generated by the new code generator called Kiota – v5 enhancements covered in this session that enrich the developer’s experiences across Microsoft Graph include Backing store (object tracking), support \$count endpoints, support for OData Cast endpoints and Parameter objects. Appreciate differences between v4 and v5 calls, improvements in Intellisense, increased performance due to smaller payloads, newly supported endpoints, fewer lines of code for greater capability, etc.
+* **Introduction to Microsoft Graph Postman collection** - starts with Postman fundamentals then how Postman – the tool, is used with Microsoft Graph - the APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so that you can create better APIs faster. Use the 8 step Microsoft Graph Postman collection to get started with Microsoft Graph APIs in minutes and get simplified authentication, pre-defined endpoints, and environment variables.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
+The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett. Q&A takes place in chat throughout and live at end of the call.
 
 {{< youtube B4F0KY-qCUU >}}
 
@@ -57,13 +56,14 @@ Thank you for your creativity and work execution. Samples are often showcased in
 
 ## Together Mode 
    
-![Attendees waving hands in Microsoft Teams together mode picture](images/together-mode-220607.gif)
+![Attendees waving hands in Microsoft Teams together mode picture](images/together-mode-220614.gif)
 
-Thank you everyone for joining the call today. Awesome to see your faces. 
+The auditorium is packed!  Thank you for joining the call today and for all you do for this Community.   
 
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
+* Interested in joining the Community Advisory Board? Complete the [Community Board Member Application](https://aka.ms/MCABLeaderApp) \| aka.ms/MCABLeaderApp
 * Register for [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) events:
     * Writing for the Web \| Thursday, June 23, 12pm PT \| 3pm ET \| 9pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)
     * Writing for the Web \| Monday, June 27, 10am PT \| 1pm ET \| 7pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)
@@ -78,20 +78,27 @@ Thank you everyone for joining the call today. Awesome to see your faces.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
 * Download the recurrent invite for this call – <https://aka.ms/m365-dev-call>
 
+
 ## Demo references
 
-* **Migrate your SharePoint workflows to Power Automate with migration tooling (preview)**
-    * Register - [Welcome to the Early Adoption of SharePoint Workflow Migration](https://forms.office.com/r/SX9VBNFJbX)
-    * Documentation - [Overview: Migrate SharePoint Server 2010 workflows to Power Automate](https://docs.microsoft.com/sharepointmigration/spmt-workflow-overview)
-    * Documentation – [Overview of the SharePoint Migration Tool (SPMT)](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-    * Documentation - [Overview of the SharePoint Migration Assessment Tool](https://docs.microsoft.com/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
-* **TeamsJS SDK V2 to extend your Microsoft Teams solutions to Outlook and Office**
-    * Sample - [Extend Teams app to other M365 host apps like Outlook, Office.com](https://github.com/OfficeDev/m365-msteams-northwind-app-samples/tree/main/experimental/ExtendTeamsforM365) \| aka.ms/teamssdk-v2-sample
-    * Documentation - [Microsoft Teams JavaScript client SDK](https://docs.microsoft.com/javascript/api/overview/msteams-client) \| aka.ms/TeamsSDK-V2
-    * NPM Package – [Microsoft Teams JavaScript client SDK](https://www.npmjs.com/package/@microsoft/teams-js/)
-* **Send a SMS message with Azure Communication Services**
-    * Library - [Azure Communication Services UI Library](https://azure.github.io/communication-ui-library/?path=/docs/overview--page) \| aka.ms/acs-ui-library
-    * Documentation - [Quickstart: Send an SMS message](https://docs.microsoft.com/azure/communication-services/quickstarts/sms/send) \| aka.ms/acs-sms-quickstart
+* **Latest on deprecating basic auth for Exchange**
+    * Documentation - [Deprecation of Basic authentication in Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/deprecation-of-basic-authentication-exchange-online)
+    * Article - [Basic Authentication and Exchange Online – September 2021 Update](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-and-exchange-online-september-2021-update/ba-p/2772210)
+    * Documentation - [How modern authentication works for Office 2013, Office 2016, and Office 2019 client apps](https://docs.microsoft.com/microsoft-365/enterprise/modern-auth-for-office-2013-and-2016?view=o365-worldwide)
+    * Article – [Enabling Modern Auth for Outlook – How Hard Can It Be?](https://techcommunity.microsoft.com/t5/exchange-team-blog/enabling-modern-auth-for-outlook-how-hard-can-it-be/ba-p/2278411)
+    * Documentation – [About the Exchange Online PowerShell V2 module](https://docs.microsoft.com/powershell/exchange/exchange-online-powershell-v2?view=exchange-ps)
+    * Documentation – [Connect to Security & Compliance PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell?view=exchange-ps)
+    * Documentation – [Exchange Online and Exchange development](https://docs.microsoft.com/exchange/client-developer/exchange-server-development)
+    * Documentation – [Authentication and EWS in Exchange](https://docs.microsoft.com/exchange/client-developer/exchange-web-services/authentication-and-ews-in-exchange)
+    * Documentation – [Microsoft identity platform and OAuth 2.0 authorization code flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow)
+    * Documentation – [Authentication flow support in MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows)
+    * Repo - [Using MSAL in the EWS Managed API and doing auto token expiration and renewal in Delegate and Client Credential Azure oAuth Flows](https://github.com/gscales/EWS-BasicToOAuth-Info/blob/main/EWA%20Managed%20API%20MASL%20Token%20Refresh.md)
+    * Documentation – [Authenticate an IMAP, POP or SMTP connection using OAuth](https://docs.microsoft.com/exchange/client-developer/legacy-protocols/how-to-authenticate-an-imap-pop-smtp-application-by-using-oauth)
+* **Introduction to Microsoft Graph .Net SDK v5**
+    * Repo – [Project Kiota](https://github.com/microsoft/kiota) \| aka.ms/Kiota
+    * Repo - [Microsoft Graph .NET SDK v5 changelog and upgrade guide](https://github.com/microsoftgraph/msgraph-sdk-dotnet/blob/feature/5.0/docs/upgrade-to-v5.md) \| aka.ms/graph/sdk/dotnet-preview
+* **Introduction to Microsoft Graph Postman collection**
+    * Documentation - [Use Postman with the Microsoft Graph API](https://docs.microsoft.com/graph/use-postman) \| aka.ms/graph/postman
 
 ## General resources
 
@@ -110,13 +117,13 @@ Thank you everyone for joining the call today. Awesome to see your faces.
 
 ## Upcoming Calls | Recurrent Invites
 
-* Office add-in monthly call \| Wednesday, June 8, 8:00 am PT - <https://aka.ms/officeaddinscall> (monthly)
-* M365 General Dev call \| Thursday, June 9, 7:00 am PT - <https://aka.ms/m365-dev-sig> (bi-weekly)
-* Adaptive Cards monthly call \| Thursday, June 9, 9:00 am PT - <https://aka.ms/adaptivecardscommunitycall> (monthly)
-* Microsoft 365 platform call \| Tuesday, June 14, 8:00 am PT – <https://aka.ms/m365-dev-call> (weekly)
 * Power Platform monthly call \| Wednesday, June 15, 8:00 am PT - <https://aka.ms/PowerAppsMonthlyCall> (monthly)
 * Viva Connections & SharePoint Framework call \| Thursday, June 16, 7:00 am PT - <https://aka.ms/spdev-spfx-call> (bi-weekly)
 * Microsoft Identity Platform call \| Thursday, June 16, 9:00 am PT - <https://aka.ms/IDDevCommunityCalendar> (monthly)
+* Microsoft 365 platform call \| Tuesday, June 21, 8:00 am PT – <https://aka.ms/m365-dev-call> (weekly)
+* M365 General Dev call \| Thursday, June 23, 7:00 am PT - <https://aka.ms/m365-dev-sig> (bi-weekly)
+* Office add-in monthly call \| Wednesday, July 13, 8:00 am PT - <https://aka.ms/officeaddinscall> (monthly)
+* Adaptive Cards monthly call \| Thursday, June 14, 9:00 am PT - <https://aka.ms/adaptivecardscommunitycall> (monthly)
 
 Microsoft 365 Platform community call focuses on latest Microsoft 365 Platform updates and demos delivered by Microsoft presenters and takes place weekly on Tuesday.  The alternating Special Interest Group community calls each Thursday focus on SharePoint Framework (client-side development/implementation) and Microsoft 365 Platform (includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Power Automate, PowerApps, Column Formatting, list formatting, etc. topics.) with demos commonly delivered by community members.
 
@@ -127,7 +134,7 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 &quot;_Sharing is caring&quot;_
 
-_Microsoft 365 Platform Community team, Microsoft - 7th of June 2022_
+*Microsoft 365 Platform Community team, Microsoft - 15th of June 2022*
 
 {{< attachments >}}
 
