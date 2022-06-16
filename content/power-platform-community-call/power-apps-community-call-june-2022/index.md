@@ -40,7 +40,7 @@ Latest updates and news on Power Platform including community events, training o
 
 ## Together Mode
 
-![Attendees waving hands in Microsoft Teams together mode picture](images/220518-together-mode.gif)
+![Attendees waving hands in Microsoft Teams together mode picture](images/220615-together-mode.gif)
 
 Hello extended Power Platform community! This picture conveys many words – excited, committed, empowered. You are absolutely amazing! Thank you for being part of this community. 
 
