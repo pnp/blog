@@ -21,10 +21,10 @@ When videos are stored in SharePoint, they can be displayed on SharePoint pages 
 The document library exists at the same level as the default shared
 documents library on the site.
  
-![image1.png](images/AnandVRagav_2-1638227193903.png)
+![image1.png](images/image1.png)
  
 Video files are uploaded to the document library.
-![image2.png](images/AnandVRagav_3-1638227225340.png)
+![image2.png](images/Aimage2.png)
  
 Additional columns can be created in the library, these additional
 columns provide rich information that can be displayed in the video
@@ -32,22 +32,22 @@ portal. Rich metadata such as title, description, people, tools/topics
 covered, social sharing options like yammer buttons can
 compliment the experience.
  
-![image3.png](images/AnandVRagav_4-1638227250191.png)
+![image3.png](image3.png)
  
 When video files are uploaded and the metadata fields are filled in with
 the information, the default "All Documents" view can look like this.
  
-![image4.png](images/AnandVRagav_5-1638227276106.png)
+![image4.png](images/image4.png)
  
 The default view or a new view can be created with all the columns
 included. The view can be edited to create grouping by topic, and then formatted using JSON. 
 The groupprops element goves the group headers the formatting as shown. Each row when when formatted, looks like shown below. A thumbnail image, title and track info and a Yammer button that opens the connected conversation thread in Yammer.
  
-![image5.png](images/AnandVRagav_6-1638227301475.png)
+![image5.png](images/image5.png)
  
 To achieve this formatting, the view needs to be formatted using JSON.
  
-![image6.jpg](images/AnandVRagav_7-1638227333192.png)
+![image6.jpg](images/image6.png)
  
 The complete JSON is provided below.
  
@@ -243,7 +243,7 @@ The complete JSON is provided below.
                       "iconName": "YammerLogo",
                       "href": "=[$Yammer]",
                       "target": "_blank",
-                      "title": "Teams Chat"
+                      "title": "Go to Yammer coversation"
                     }
                   }
                 ]
@@ -260,30 +260,30 @@ The complete JSON is provided below.
 The next step is then to embed this view in the SharePoint site page
 using the Document library web part.
  
-![image8.png](images/AnandVRagav_9-1638227433322.png)
+![image8.png](images/image8.png)
  
 And choosing the library to be embedded. "Session recordings" is the
 name of my library.
  
-![image9.png](images/AnandVRagav_10-1638227461663.png)
+![image9.png](images/image9.png)
  
 Editing the web part to set the correct view, hiding the command bar and
 "See all" buttons.
  
-![image10.png](images/AnandVRagav_11-1638227490353.png)
+![image10.png](images/image10.png)
  
 The next step is to add a File viewer web part on the SharePoint page.
  
-![image11.png](images/AnandVRagav_11-1638227490353.png)
+![image11.png](images/image11.png)
  
 Next connect it to the "Session recordings" web part, so that when a session recording is selected, the file viewer displays the video of the selected recording.
  
-![image12.png](images/AnandVRagav_11-1638227490353.png)
+![image12.png](images/image12.png)
  
-![image13.png](images/AnandVRagav_11-1638227490353.png)
+![image13.png](images/image13.png)
  
 You can then add additional text, related materials using a highlighted content web part and finish things off.
-![image14.png](images/AnandVRagav_11-1638227490353.png)
+![image14.png](images/image14.png)
  
 Hope you found this useful. I would be interested to hear your thoughts
 and if you would use this and how you might enhance this.
