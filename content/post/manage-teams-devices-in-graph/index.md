@@ -5,7 +5,7 @@ author: "Lee Ford"
 githubname: leeford
 categories: ["Community post"]
 images:
-- images/device-operations.png
+- images/get-mgteamworkdevicehealth-extended.png
 tags: []
 type: "regular"
 ---
@@ -38,7 +38,7 @@ Whilst you can use these endpoints in any application/language you choose, to be
 
 > Other SDKs/languages are available, and you can see samples within the Graph reference:
 >
-> ![image](https://user-images.githubusercontent.com/472320/172245610-bafef6ca-8621-4feb-9469-aacb8eaacfe6.png)
+> ![image](./images/sdks.png)
 
 To install the Graph SDK for PowerShell Module by following [these instructions](https://docs.microsoft.com/en-us/powershell/microsoftgraph/installation?view=graph-powershell-1.0).
 
@@ -48,7 +48,7 @@ Once installed, if you can check the module is installed by running:
 Get-InstalledModule Microsoft.Graph
 ```
 
-![image](https://user-images.githubusercontent.com/472320/171275368-78d90fa9-c695-4a61-a7f1-f997e8ee58d1.png)
+![image](./images/graph-powershell-module.png)
 
 ## Using the PowerShell module
 
@@ -70,9 +70,9 @@ Connect-MgGraph -Scopes "TeamworkDevice.Read.All"
 
 You should be redirected to the browser to sign in to your Microsoft account (on the tenant where the devices are). You may need to consent to additional permissions.
 
-![image](https://user-images.githubusercontent.com/472320/171278310-3b62bc77-d2ba-4fb0-af8f-ed6dd5ecf6dd.png)
+![image](./images/consent-permission.png)
 
-![image](https://user-images.githubusercontent.com/472320/171278073-89ef8de4-ccf6-4dd8-b1d9-19d95b013468.png)
+![image](./images/connect-mggraph.png)
 
 ### Get/list devices
 
@@ -82,19 +82,19 @@ Now you are connected, the fun can start. Start by querying all Teams devices:
 Get-MgTeamworkDevice
 ```
 
-![image](https://user-images.githubusercontent.com/472320/171279214-a4693634-2dd7-435f-8c4e-3dfc8327258d.png)
+![image](./images/get-mgteamworkdevice.png)
 
 I only have one device in the list, but if you wanted to specify a particular device you can do this by using the `TeamworkDeviceId` of the device.
 
-![image](https://user-images.githubusercontent.com/472320/171279615-6100da18-ab94-4d71-a7f2-72ff3ccefb72.png)
+![image](./images/get-mgteamworkdevice-2.png)
 
 When working with a particular device, you will need to make use of the `TeamworkDeviceId` and of device. I tend to save the device under a variable to reference back to when required.
 
-![image](https://user-images.githubusercontent.com/472320/171281699-c1d95b66-8736-4877-af29-ebffbb40be7c.png)
+![image](./images/get-mgteamworkdevice-3.png)
 
 Then you can drill down and query the response:
 
-![image](https://user-images.githubusercontent.com/472320/172242488-56db5b51-9c1b-494c-951f-744a53c17127.png)
+![image](./images/get-mgteamworkdevice-4.png)
 
 ### Restart device
 
@@ -112,7 +112,7 @@ To start a diagnostics report of a device, you can do the following:
 Start-MgTeamworkDeviceDiagnostic -TeamworkDeviceId <TeamworkDeviceId>
 ```
 
-![image](https://user-images.githubusercontent.com/472320/172241303-6ffca236-c5cf-419d-9c67-a96899cce82a.png)
+![image](./images/start-mgteamworkdevicediagnostic.png)
 
 > You will need to get the report (once complete) separately from Teams Admin Center
 
@@ -124,7 +124,7 @@ To get a list of queued and previous operations (restarts, upgrades, etc.), you 
 Get-MgTeamworkDeviceOperation -TeamworkDeviceId <TeamworkDeviceId>
 ```
 
-![image](https://user-images.githubusercontent.com/472320/171282422-5edcc0b8-99e9-4472-b5f3-51e02db92291.png)
+![image](./images/get-mgteamdeviceoperation.png)
 
 ### Update device software
 
@@ -134,7 +134,7 @@ To update the device to the latest software build (hosted by Microsoft), you can
 Update-MgTeamworkDeviceSoftware -TeamworkDeviceId <TeamworkDeviceId> -SoftwareType <SoftwareType> -SoftwareVersion <SoftwareVersion>
 ```
 
-![image](https://user-images.githubusercontent.com/472320/172240685-5749dcfb-b578-408c-a482-430780159922.png)
+![image](./images/update-mgteamworkdevicesoftware.png)
 
 * **SoftwareType**: Can be one of the following: `adminAgent`, `operatingSystem`, `teamsClient`, `firmware`, `partnerAgent`, `companyPortal`
 * **SoftwareVersion**: Specific version to upgrade to.
@@ -142,10 +142,10 @@ Update-MgTeamworkDeviceSoftware -TeamworkDeviceId <TeamworkDeviceId> -SoftwareTy
 You can then check on the status of the firmware using the device operations command (already covered):
 
 (In progress)
-![image](https://user-images.githubusercontent.com/472320/172243152-f7405dc0-8d9b-4209-abdc-b80b66ff4907.png)
+![image](./images/in-progress-upgrade.png)
 
 (Complete)
-![image](https://user-images.githubusercontent.com/472320/172244129-79aaf74c-5bd7-43fe-89d0-a86c78f3975e.png)
+![image](./images/completed-upgrade.png)
 
 > Remember software updates can fail and leave the device in an unknown state, be careful!
 
@@ -157,11 +157,11 @@ You can query the device health including software and hardware status, pending 
 Get-MgTeamworkDeviceHealth -TeamworkDeviceId <TeamworkDeviceId>
 ```
 
-![image](https://user-images.githubusercontent.com/472320/172477382-e4595fd8-a83d-4b04-996f-939fc4f7d79d.png)
+![image](./images/get-mgteamworkdevicehealth.png)
 
 Like a lot of output from the Graph PowerShell SDK, it isn't terribly useful with the default output. You can use `Select-Object` and `ConvertTo-Json` to make it more useful at a glance.
 
-![image](https://user-images.githubusercontent.com/472320/172477701-7397cd13-4b2d-4e5b-83f8-6158fa577b57.png)
+![image](./images/get-mgteamworkdevicehealth-extended.png)
 
 ### Get device config
 
@@ -171,7 +171,7 @@ You can query the device configuration by doing the following:
 Get-MgTeamworkDeviceConfiguration -TeamworkDeviceId <TeamworkDeviceId>
 ```
 
-![image](https://user-images.githubusercontent.com/472320/172479778-8d1c93bc-0e00-4186-9710-563ca4179fdc.png)
+![image](./images/get-mgteamworkdeviceconfiguration.png)
 
 > Not much to show here as the device is a Teams phone. Devices such as MTRs show way more.
 
