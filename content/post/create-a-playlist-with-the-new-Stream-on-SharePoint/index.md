@@ -1,50 +1,51 @@
 ---
 title: "Create a playlist with the new Stream on SharePoint"
-date: 2022-06-16T02:18:00-05:00
+date: 2022-06-16T02:04:00-05:00
 author: "Anand Ragav"
 githubname: anandragav
 categories: ["Community post"]
 images:
 - images/image14.png
-tags: ["SharePoint", "List formatting", "Stream on SharePoint"]
+tags: ["SharePoint", "List formatting"]
 type: "regular"
 ---
 
 ## The new Stream
-The new stream is built on top of SharePoint and OneDrive. This means storing a video file is the same as storing a word document or a PowerPoint file. This also means sharing, setting permissions, and adding comments on a video is the same as these other Office document types stored within SharePoint and OneDrive.
+
+The new stream is built on top of SharePoint and OneDrive. This means storing a video file is the same as storing a Word document or a PowerPoint file. This also means sharing, setting permissions, and adding comments on a video is the same as these other Office document types stored within SharePoint and OneDrive.
  
 ## Displaying on a SharePoint site
+
 When videos are stored in SharePoint, they can be displayed on SharePoint pages using the file viewer, the highlighted content, and the Document library web parts. The Stream player controls are available too for video playback.
  
 ## Creating the playlist with the Document library and file viewer web parts
 
-The document library exists at the same level as the default shared
-documents library on the site.
+The document library exists at the same level as the default **Shared Documents** library on the site.
  
 ![image1.png](images/image1.png)
+
  
 Video files are uploaded to the document library.
-![image2.png](images/Aimage2.png)
+
+
+![image2.png](images/image2.png)
+
  
-Additional columns can be created in the library, these additional
-columns provide rich information that can be displayed in the video
-portal. Rich metadata such as title, description, people, tools/topics
-covered, social sharing options like yammer buttons can
-compliment the experience.
- 
-![image3.png](image3.png)
+Additional columns can be created in the library, these additional columns provide rich information that can be displayed in the video portal. Rich metadata such as title, description, people, tools/topics covered, social sharing options like yammer buttons can compliment the experience.
+
+![image3.png](images/image3.png)
+
  
 When video files are uploaded and the metadata fields are filled in with
-the information, the default "All Documents" view can look like this.
+the information, the default **All Documents** view can look like this.
  
 ![image4.png](images/image4.png)
- 
-The default view or a new view can be created with all the columns
-included. The view can be edited to create grouping by topic, and then formatted using JSON. 
+
+The default view or a new view can be created with all the columns included. The view can be edited to create grouping by topic, and then formatted using JSON. 
 The groupprops element goves the group headers the formatting as shown. Each row when when formatted, looks like shown below. A thumbnail image, title and track info and a Yammer button that opens the connected conversation thread in Yammer.
  
 ![image5.png](images/image5.png)
- 
+
 To achieve this formatting, the view needs to be formatted using JSON.
  
 ![image6.jpg](images/image6.png)
@@ -262,29 +263,30 @@ using the Document library web part.
  
 ![image8.png](images/image8.png)
  
-And choosing the library to be embedded. "Session recordings" is the
+And choosing the library to be embedded. **Session recordings** is the
 name of my library.
  
 ![image9.png](images/image9.png)
- 
-Editing the web part to set the correct view, hiding the command bar and
-"See all" buttons.
+
+
+Editing the web part to set the correct view, hiding the command bar and **See all** buttons.
+
  
 ![image10.png](images/image10.png)
- 
+
 The next step is to add a File viewer web part on the SharePoint page.
- 
+
 ![image11.png](images/image11.png)
- 
-Next connect it to the "Session recordings" web part, so that when a session recording is selected, the file viewer displays the video of the selected recording.
+
+Next connect it to the **Session recordings** web part, so that when a session recording is selected, the file viewer displays the video of the selected recording.
  
 ![image12.png](images/image12.png)
- 
+
+
 ![image13.png](images/image13.png)
  
 You can then add additional text, related materials using a highlighted content web part and finish things off.
+
 ![image14.png](images/image14.png)
  
-Hope you found this useful. I would be interested to hear your thoughts
-and if you would use this and how you might enhance this.
- 
+Hope you found this useful. I would be interested to hear your thoughts and if you would use this and how you might enhance this.
