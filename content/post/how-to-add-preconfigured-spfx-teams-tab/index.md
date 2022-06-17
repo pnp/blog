@@ -1,6 +1,6 @@
 ---
 title: "How to add pre-configured SPFx Teams Tab to a channel"
-date: 2022-06-016T08:40:00-04:00
+date: 2022-06-16T08:40:00-04:00
 author: "Marcin Wojciechowski"
 githubname: mgwojciech
 # don't change
@@ -287,7 +287,7 @@ With this step the pre-configured web part will be added to provided channel as 
 
 ## Closing hacks
 
-If You want to provide Your users with configurable personal app You can execute steps from Step two - Preparation of SharePoint site and use the \<content-url> as a static tab content url in Your teams app manifest. In my experience this will not work for a root site collection but will work for every other. To update the configuration You can call:
+If You want to provide Your users with configurable personal app You can execute steps from Step two - Preparation of SharePoint site and use the  `\<content-url>` as a static tab content url in your teams app manifest. In my experience this will not work for a root site collection but will work for every other. To update the configuration You can call:
 
 ``` JSON
 POST: <web-url>/_api/web/hostedapps/getbyid(<list-item-id>)/updatewebpartdata
