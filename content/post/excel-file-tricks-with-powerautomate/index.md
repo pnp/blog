@@ -8,7 +8,7 @@ images:
 - images/DamoBird365_0-1628093847880.png
 tags: ["Power Automate"]
 type: "regular"
-draft: true
+draft: false
 ---
 
 
