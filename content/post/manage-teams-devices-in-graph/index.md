@@ -6,7 +6,7 @@ githubname: leeford
 categories: ["Community post"]
 images:
 - images/get-mgteamworkdevicehealth-extended.png
-tags: []
+tags: ["Microsoft Graph", "Microsoft Teams"]
 type: "regular"
 ---
 
