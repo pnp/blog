@@ -7,7 +7,7 @@ githubname: mgwojciech
 categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
-- images: images/tianyi-ma-WiONHd_zYI4-unsplash.jpg
+- images/tianyi-ma-WiONHd_zYI4-unsplash.jpg
 tags: ["SharePoint frameworks (SPFx)", "Microsoft Teams"]
 # don't change
 type: "regular"
@@ -18,7 +18,7 @@ draft: false
 
 Let's consider following scenario. We developed a SPFx web part and added TeamsTab as a supported host. From now one, users can add our beautiful web part as a Teams Tab to any channel. That's amazing! However we would like to be able to automate adding this web part with some initial configuration without any user interaction.
 
-In this article I will not provide any code samples as I want to keep this tech agnostic. You can perform all of those steps from Power Platform, Powershell, .NET app or some other web part with javascript. To my best knowledge You can use both delegated and app only permissions to execute each provided requests. 
+In this article I will not provide any code samples as I want to keep this tech agnostic. You can perform all of those steps from Power Platform, Powershell, .NET app or some other web part with javascript. To my best knowledge You can use both delegated and app only permissions to execute each provided requests.
 
 ## Step one - finding the IDs
 
