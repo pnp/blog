@@ -30,7 +30,7 @@ In this month’s community call the focus is on the newly released Teams Toolki
 *  **New Teams Toolkit v4.0 features used in Scenario-based Teams app using Adaptive Cards** – key v4 capabilities called out - scenario-based app creation, run your Teams apps on Office and Outlook, create an app from sample, side-by-site edit-render experience (when Adaptive Cards VS Code extension installed), select to uncomment/activate commented out functionality, and test your app in Run and Debug mode. New capabilities are used in a scenario-based timer trigger app that delivers Adaptive Card notifications in Teams.
 
  
-## Demo References
+## Demo references
 
 *  **New Teams Toolkit v4.0 features used in Scenario-based Teams app using Adaptive Cards**  
     * Tenant – [Microsoft 365 Developer Tenant](https://developer.microsoft.com/microsoft-365/dev-program)
@@ -42,8 +42,8 @@ In this month’s community call the focus is on the newly released Teams Toolki
 
 ## Other references
 
-* Handling multi-user responses for Adaptive Cards in Microsoft Teams - [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft) <https://youtu.be/V0iTtOYcP6w>
-* Playlist - [Tomasz Poszytek’s Adaptive Cards YouTube Playlist](https://www.youtube.com/playlist?list=PLaHN-sDizNyXdxiWTp96pLuu4S1i8RpCF) \| <https://www.youtube.com/playlist?list=PLaHN-sDizNyXdxiWTp96pLuu4S1i8RpCF>
+* Video - [Handling multi-user responses for Adaptive Cards in Microsoft Teams](<https://youtu.be/V0iTtOYcP6w>) - [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft) 
+* Playlist - [Tomasz Poszytek’s Adaptive Cards videos](https://www.youtube.com/playlist?list=PLaHN-sDizNyXdxiWTp96pLuu4S1i8RpCF) [TomaszPoszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek 
 
 ## Actions
 
@@ -56,7 +56,7 @@ In this month’s community call the focus is on the newly released Teams Toolki
 * Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 * Join us on July 14th at 09:00 am PT, Download the recurrent invite for this call – <https://aka.ms/adaptivecardscommunitycall>
 
-## Resources in General
+## Resources in general
 
 * Let us know the features you need <https://aka.ms/ACRoadmap>
 * Schema Explorer - <https://adaptivecards.io/explorer/Action.Execute.html>
