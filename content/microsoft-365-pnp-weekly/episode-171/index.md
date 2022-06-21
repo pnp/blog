@@ -1,7 +1,7 @@
 ---
-title: "Microsoft 365 PnP Weekly - Episode 170"
-summary: "SharePoint developer - Marcin Wojciechowski (Valo Solutions), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss quality assurance, risk management, development tools, news sources, tips to new developers plus latest 24 articles/tweets/videos from Microsoft/Community this week."
-date: 2022-06-14T04:00:01-00:00
+title: "Microsoft 365 PnP Weekly - Episode 171"
+summary: "Teams/Power Apps Consultant, MVP - Edyta Gorzon (Valo Solutions), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss technology adoption, vision re-engineering, tips for anyone curious about a career in technology plus latest 24 articles/videos from Microsoft/Community this week."
+date: 2022-06-21T04:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,34 +9,35 @@ images:
 - images/pnp-weekly-171-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=iciZb2BP0Hg
-draft: true
+- https://www.youtube.com/watch?v=e3jaNb2pV9s
+draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Germany based Teams/Power Apps Consultant, Partner Manager, MVP at Valo Solutions - [Edyta Gorzon](https://twitter.com/EdytaGorzon) \| @EdytaGorzon. 
 
 ## Topics discussed in this session
 
-* te
-* te
-* te
-* te
-* te
-* te
-* te
+* Edyta’s personal mission – to simply explain technology to non-technology minded individuals and include these people in community.
+* Learnings from driving rapid (and heterogeneous) Teams adoptions in COVID times.
+* Top 5 tips for driving technology adoption.
+* Tips for Inspiring customers to make good, informed technology/business decisions.
+* Vision re-engineering customer example – when you need to counter the solution the customer has defined emphatically with the solution, they truly need + change management.
+* Ideas for helping Tenant Admins communicate changes to users – Adoption Champions and…
+* Ideas for staying up to date with latest innovations.
+* How I got to where I’m at and advice to people seeking a career in technology related field.
+* And when you think you have nothing to contribute…..
+* Tips for Women in IT.
 
-Also, we showcased xx articles/tweets/videos published by Microsoft and the PnP Community in the last week.  
-
-## This week
+Also, we showcased 12 articles/videos published by Microsoft and the PnP Community in the last week.  
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, June 13, 2022.
+This session was recorded on Friday, June 17, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube iciZb2BP0Hg >}}
+    {{< youtube e3jaNb2pV9s >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-w7j5e-124d4dc >}}
+    {{< podbean pb-axtx9-1255b1a >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -45,21 +46,11 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Microsoft articles
 
 * [Microsoft 365 Assessment tool helps scan for active SharePoint 2013 workflows](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-365-assessment-tool-helps-scan-for-active-sharepoint/ba-p/3493331) - Sudha Narayanan (Microsoft)
-* [Working with templates in Microsoft Lists](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/working-with-templates-in-microsoft-lists/ba-p/3508266) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
+* [Working with templates in Microsoft Lists](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/working-with-templates-in-microsoft-lists/ba-p/3508266) - [Mark Kashman](http://twitter.com/mkashman) (Microsoft) \| @mkashman along with [Chris Kent](http://twitter.com/theChrisKent) (DMI) \| @theChrisKent and [André Lage](http://twitter.com/aaclage) (Datalynx AG) \| @aaclage
 * [Most used SharePoint Framework solutions from the Store - May 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-may-2022/ba-p/3498944) - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * [Introducing the first-annual Microsoft Power Platform Conference](https://powerusers.microsoft.com/t5/Power-Apps-Community-Blog/Introducing-the-first-annual-Microsoft-Power-Platform-Conference/ba-p/1630891) - heaher_italent (Microsoft)
-* [Coming soon to makers everywhere: make.powerautomate.com](https://powerautomate.microsoft.com/en-us/blog/flow-microsoft-com-is-moving-to-make-powerautomate-com/) - Kishor Subedi (Microsoft)
-* [Announcing general availability of wrap for Power Apps](https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-wrap-for-power-apps/) - Larry Knibb (Microsoft)
-* ======
-* [How Microsoft is equipping manufacturing workers with the tools of the future ](https://www.microsoft.com/microsoft-365/blog/2022/05/31/how-microsoft-is-equipping-manufacturing-workers-with-the-tools-of-the-future/) - [Emma Williams](https://twitter.com/emmawil35) (Microsoft) | @emmawil35
-* [Crafting a new hybrid meeting room experience at Microsoft with Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/crafting-a-new-hybrid-meeting-room-experience-at-microsoft-with/ba-p/3478711) - Lukas Velush (Microsoft)
-* [Expanding background noise suppression across platforms and scenarios](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/expanding-background-noise-suppression-across-platforms-and/ba-p/3300366) - Mehrsa Golestaneh (Microsoft)
-* [New cultural site template: Pride Month (June 2022)](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/new-cultural-site-template-pride-month-june-2022/ba-p/3490291) - [Quentin Mackey](https://twitter.com/mackey_quentin) (Microsoft) | @mackey_quentin
-* [SharePoint Roadmap Pitstop: May 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-may-2022/ba-p/3468499) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
-* [Application permissions for Bookings APIs in Microsoft Graph now available](https://devblogs.microsoft.com/microsoft365dev/application-permissions-for-bookings-apis-in-microsoft-graph-now-available/) - Microsoft
-* [Microsoft Teams JS SDK v2 is now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-js-sdk-v2-is-now-generally-available/) - [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia
-* [Enable single sign-on in a tab app](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/tab-sso-overview?referrer=whats.new.rssfeed) - Microsoft
-
+* [Coming soon to makers everywhere: make.powerautomate.com](https://powerautomate.microsoft.com/blog/flow-microsoft-com-is-moving-to-make-powerautomate-com/) - Kishor Subedi (Microsoft)
+* [Announcing general availability of wrap for Power Apps](https://powerapps.microsoft.com/blog/announcing-general-availability-of-wrap-for-power-apps/) - Larry Knibb (Microsoft) 
 
 ## Community articles
 
