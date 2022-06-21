@@ -52,6 +52,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Coming soon to makers everywhere: make.powerautomate.com](https://powerautomate.microsoft.com/blog/flow-microsoft-com-is-moving-to-make-powerautomate-com/) - Kishor Subedi (Microsoft)
 * [Announcing general availability of wrap for Power Apps](https://powerapps.microsoft.com/blog/announcing-general-availability-of-wrap-for-power-apps/) - Larry Knibb (Microsoft) 
 
+
 ## Community articles
 
 * [Action button in Lists: Set Column Value](https://wonderlaura.com/2022/06/16/action-button-in-lists-set-column-value/) - [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor) | @WonderLaura
