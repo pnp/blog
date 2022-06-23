@@ -186,7 +186,7 @@ slides.
     fields](https://github.com/pnp/List-Formatting/tree/master/column-samples/multi-lookup-projected-field) 
 
 -   Demos -- [Other formatting demos from
-    Chris](https://youtube.com/c/Microsoft365PnPCommunity/search?query=format%20flow) 
+    Chris](https://www.youtube.com/c/Microsoft365Community/search?query=format%20flow) 
 
 -   Documentation -- [Create list relationships by using unique and
     lookup
