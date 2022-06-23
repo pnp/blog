@@ -1,14 +1,14 @@
 ---
 title: "We love community"
 date: 2022-06-20T08:40:00-04:00
-author: "Vesa Juvonen"
-githubname: vesajuvonen
+author: "Luise Freese"
+githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/mika-baumeister-Y_LgXwQEx2c-unsplash.jpg
 tags: ["SharePoint framework (SPFx)", "Microsoft Teams", "Power Platform"]
 type: "regular"
-draft: true
+draft: false
 ---
 
 ## Community rocks
