@@ -30,7 +30,7 @@ Following our monthly release cadence, we've released a new version of the CLI f
 
 ### Upgrade SharePoint Framework projects to v1.15
 
-June 21 2022, Microsoft released a new version of SharePoint Framework which, among many things, introduced the Form Customizer Extension which allows developers to customize new, edit and display forms of lists and document libraries. It also adds support for TypeScript v4.5 and Node.js v16. To help you upgrade your projects we've updated CLI for Microsoft 365 with the support for this new version.
+On June 21 2022, Microsoft released a new version of SharePoint Framework. The most noteworthy features are the introduction Form Customizer Extension, which allows developers to customize new, edit and display forms of lists and document libraries, and support for TypeScript v4.5 and Node.js v16. To help you upgrade your projects we've updated CLI for Microsoft 365 with the support for this new version.
 
 To upgrade your SPFx project to this version, change the working directory to your project and execute:
 
@@ -46,7 +46,7 @@ m365 spfx project upgrade --preview --output tour
 
 For more information about upgrading SharePoint Framework projects, see the [CLI documentation](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade/).
 
-### Manage the Planner tasks management
+### Manage Planner tasks
 
 We added 5 new commands to manage Microsoft Planner tasks with our CLI. With this new addition you are now able to list, add and remove tasks checklist items and also now we may remove task reference.
 
@@ -67,6 +67,18 @@ Removing checklist item from task is possible with:
 ```sh
 m365 planner task checklistitem remove --id "40012" --taskId "2Vf8JHgsBUiIf-nuvBtv-ZgAAYw2" 
 ```
+
+### Permanently remove Office 365 groups
+
+Office 365 groups are a fundamental building block on Microsoft 365 that supports collaboration. As time passes by, you'll likely want to clean up groups that are no longer used. Previously, we added support for retrieving and removing Office 365 groups. In this release, we extended it with the ability to permanently delete removed Office 365 groups.
+
+To remove an Office 365 group from the recycle bin, execute:
+
+```sh
+m365 aad o365group recyclebinitem remove --displayName "My Group"
+```
+
+For more information about managing Office 365 groups using CLI for Microsoft 365 see the [documentation](https://pnp.github.io/cli-microsoft365/cmd/aad/o365group/o365group-recyclebinitem-remove/).
 
 ### Manage SharePoint Online event receivers
 
@@ -95,14 +107,14 @@ These features are just the tip of the ice berg of what we've shipped in this ve
 This release wouldn't be possible without the help of (in alphabetical order):
 
 - [Adam Wójcik](https://github.com/Adam-it)
+- [Akash Karda](https://github.com/akashkarda)
+- [Albert-Jan Schot](https://github.com/appieschot)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
 - [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Patrick Lamber](https://github.com/plamber)
-- [RobertHoegner](https://github.com/RobertHoegner)
-- [Sébastien Levert](https://github.com/sebastienlevert)
 - [Vipul Kelkar](https://github.com/vipulkelkar)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
