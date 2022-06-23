@@ -162,7 +162,7 @@ everyone for your contributions to the community!
     Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
     | @jfj1997
 -   [Migrate Files and Folder to SharePoint Online Using Microsoft 365
-    CLI](https://dips365.com/2021/06/07/migrate-files-and-folder-to-sp-online-using-microsoft-365-cli/) -
+    CLI](https://dips365.wordpress.com/2021/06/07/migrate-files-and-folder-to-sp-online-using-microsoft-365-cli/) -
     [Dipen Shah](https://twitter.com/Dips_365) (Rapid Circle)
     | @Dips_365
 -   [Dataverse for Teams Profile Plus Power Apps
