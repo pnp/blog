@@ -1,11 +1,11 @@
 ---
 title: "We love community"
-date: 2022-06-20T08:40:00-04:00
+date: 2022-063T08:40:00-04:00
 author: "Luise Freese"
 githubname: LuiseFreese
 categories: ["Community post"]
 images:
-- images/mika-baumeister-Y_LgXwQEx2c-unsplash.jpg
+- images/ideas.png
 tags: ["SharePoint framework (SPFx)", "Microsoft Teams", "Power Platform"]
 type: "regular"
 draft: false
