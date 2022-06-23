@@ -1,8 +1,8 @@
 ---
-title: CLI for Microsoft 365 v5.3
-date: 2022-05-31T07:22:38.096Z
-author: Patrick Lamber
-githubname: plamber
+title: CLI for Microsoft 365 v5.4
+date: 2022-06-22T22:22:22.222Z
+author: Adam Wójcik
+githubname: adam-it
 categories:
   - CLI for Microsoft 365
 images:
@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - SharePoint
   - SharePoint Framework (SPFx)
-type: regular
+type: popular
 ---
 
 We've just published a new major version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 and SharePoint Framework projects on any platform.
@@ -22,95 +22,100 @@ CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various 
 
 While building solutions for Microsoft 365 expands beyond the Windows operating system, managing many platform settings is possible only through PowerShell on Windows. As more and more users work on non-Windows machines, it's inconvenient for them to use a Windows virtual machine to configure their tenants. With the CLI for Microsoft 365, you can configure your tenant no matter which operating system you use. Additionally, using CLI for Microsoft 365, you can manage your SharePoint Framework projects.
 
-## New version of CLI for Microsoft 365 – v5.3
+## New version of CLI for Microsoft 365 – v5.4
 
 Following our monthly release cadence, we've released a new version of the CLI for Microsoft 365 with some new capabilities. Here are a few of the most noteworthy additions.
 
-> For the complete list of what's new and changed, see the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v530).
+> For the complete list of what's new and changed, see the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v540).
 
-### Manage the Planner bucket lifecycle
+### Upgrade SharePoint Framework projects to v1.15
 
-We added 16 commands to manage Microsoft Planner with our CLI in the past couple of months. This latest beta introduces the ability to manage all aspects of managing Planner buckets.
+On June 21 2022, Microsoft released a new version of SharePoint Framework. The most noteworthy features are the introduction Form Customizer Extension, which allows developers to customize new, edit and display forms of lists and document libraries, and support for TypeScript v4.5 and Node.js v16. To help you upgrade your projects we've updated CLI for Microsoft 365 with the support for this new version.
 
-To create a new Bucket in a Plan associated with a Group you can use:
-
-```sh
-m365 planner bucket add --name "My Planner Bucket" --planName "My Planner Plan" --ownerGroupName "My Planner Group"
-```
-
-You can list the Buckets of a Plan by using the bucket list command:
+To upgrade your SPFx project to this version, change the working directory to your project and execute:
 
 ```bash
-m365 planner bucket list --planName "My Planner Plan" --ownerGroupName "My Planner Group"
+m365 spfx project upgrade --output md > report.md
 ```
 
-Some commands allow you to set and delete Planner buckets. For more information about using these commands, see [bucket set](https://pnp.github.io/cli-microsoft365/cmd/planner/bucket/bucket-set/) or [bucket remove](https://pnp.github.io/cli-microsoft365/cmd/planner/bucket/bucket-remove/).
+We'd also recommend that you try a richer upgrade report based on the Visual Studio Code CodeTour extension:
 
-### Manage the list and listitem role inheritance
+```bash
+m365 spfx project upgrade --preview --output tour
+```
 
-In some situations, you must break or restore the role inheritance for SharePoint Online lists or items. With this version we introduced 4 new commands to handle these use cases.
+For more information about upgrading SharePoint Framework projects, see the [CLI documentation](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade/).
 
-To break the role inheritance of a list, use:
+### Manage Planner tasks
+
+We added 5 new commands to manage Microsoft Planner tasks with our CLI. With this new addition you are now able to list, add and remove tasks checklist items and also now we may remove task reference.
+
+To create a checklist item for a specified task you can use:
 
 ```sh
-m365 spo list roleinheritance break --webUrl "https://contoso.sharepoint.com/sites/project-x" --listTitle "someList"
+m365 planner task checklistitem add --taskId 2Vf8JHgsBUiIf-nuvBtv-ZgAAYw2 --title "My checklist item"
 ```
 
-To restore it, use:
+You can list all checklist items for task with the new list command:
 
 ```sh
-m365 spo list roleinheritance reset --webUrl "https://contoso.sharepoint.com/sites/project-x" --listTitle "someList"
+m365 planner task checklistitem list --taskId "vzCcZoOv-U27PwydxHB8opcADJo-"
 ```
 
-If you are interested in managing the role inheritance for list items, see [spo listitem role inheritance break](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-roleinheritance-break/) and [spo listitem role inheritance reset](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-roleinheritance-reset/).
-
-### Retrieve the security alerts for a tenant
-
-We extended the list of reporting commands in our CLI with the list of security alerts associated with a tenant:
+Removing checklist item from task is possible with:
 
 ```sh
-m365 tenant security alerts list --vendor "Azure Sentinel"
+m365 planner task checklistitem remove --id "40012" --taskId "2Vf8JHgsBUiIf-nuvBtv-ZgAAYw2" 
 ```
 
-### Setting certificates on Azure AD apps
+### Permanently remove Office 365 groups
 
-When building apps for Microsoft 365, there are cases when you need an unattended process that runs either on a trigger (like a CI/CD pipeline triggered by a commit) or on schedule (like a monitoring process). Unattended processes typically use application-only permissions. Because there's no user context, you'll often authenticate to Microsoft 365 using managed identity or a secret like a certificate.
+Office 365 groups are a fundamental building block on Microsoft 365 that supports collaboration. As time passes by, you'll likely want to clean up groups that are no longer used. Previously, we added support for retrieving and removing Office 365 groups. In this release, we extended it with the ability to permanently delete removed Office 365 groups.
 
-To help you set up Azure AD applications for unattended processes, we extended CLI for Microsoft 365 with support for setting certificates on Azure AD apps.
-
-You can set a certificate when creating a new Azure AD app:
+To remove an Office 365 group from the recycle bin, execute:
 
 ```sh
-m365 aad app add --name 'My AAD app' --certificateDisplayName "Some certificate name" --certificateFile c:\temp\some-certificate.cer
+m365 aad o365group recyclebinitem remove --displayName "My Group"
 ```
 
-You can also add a certificate to an existing Azure AD app:
+For more information about managing Office 365 groups using CLI for Microsoft 365 see the [documentation](https://pnp.github.io/cli-microsoft365/cmd/aad/o365group/o365group-recyclebinitem-remove/).
+
+### Manage SharePoint Online event receivers
+
+New command was added in order to help you manage event receivers on SharePoint online, which allows you to retrieve event receivers for the specified web, site or list.
+
+In order to retrieve event receivers in web simply:
 
 ```sh
-m365 aad app set --certificateDisplayName "Some certificate name" --certificateFile c:\temp\some-certificate.cer
+m365 spo eventreceiver list --webUrl https://contoso.sharepoint.com/sites/contoso-sales
 ```
 
-For more information about working with certificates and Azure AD apps using CLI for Microsoft 365, see the [documentation](https://pnp.github.io/cli-microsoft365/cmd/aad/app/app-add/).
+You can also list all event receivers from specified list:
+
+```sh
+m365 spo eventreceiver list --webUrl https://contoso.sharepoint.com/sites/contoso-sales --listUrl '/sites/contoso-sales/lists/Events'
+```
+
+For more information about listing event receivers, see the [CLI documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/eventreceiver/eventreceiver-list/).
 
 ### What else
 
-These features are just the tip of the ice berg of what we've shipped in this version. Check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v530) for the complete list of what's new and improved.
+These features are just the tip of the ice berg of what we've shipped in this version. Check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v540) for the complete list of what's new and improved.
 
 ## Contributors
 
 This release wouldn't be possible without the help of (in alphabetical order):
 
 - [Adam Wójcik](https://github.com/Adam-it)
+- [Akash Karda](https://github.com/akashkarda)
+- [Albert-Jan Schot](https://github.com/appieschot)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
 - [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
-- [Michaël Maillot](https://github.com/michaelmaillot)
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Patrick Lamber](https://github.com/plamber)
-- [Reshmee Auckloo](https://github.com/reshmee011)
-- [Smita Nachan](https://github.com/SmitaNachan)
-- [Veronique Lengelle](https://github.com/veronicageek)
+- [Vipul Kelkar](https://github.com/vipulkelkar)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
 Thank you all for the time you chose to spend on CLI for Microsoft 365 and for your help to advance it!
