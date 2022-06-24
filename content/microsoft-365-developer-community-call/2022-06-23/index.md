@@ -21,7 +21,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 
 ### New this week
 
-* Agenda set for next [Microsoft 365 platform call](https://aka.ms/m365-dev-call) - Tuesday, June 14, 8:00 am PT.
+* Agenda set for next [Microsoft 365 platform call](https://aka.ms/m365-dev-call) - Tuesday, June 28, 8:00 am PT.
     * Latest news from Microsoft engineering on Microsoft 365 topics
     * **Rabeb Othmani** - Taking advantage of the Microsoft Graph postman collections
     * **Geeta Ramakrishnan, Divyanka Malik, Malabika Roy** - Introduction on the Microsoft Viva Learning extensibility
