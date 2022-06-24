@@ -12,20 +12,20 @@ type: "regular"
 
 ## Call Summary
 
-
-This month's community call features updates on **Consuming Graph Services using SSO and CORS from event-based Outlook add-ins** (covers automatic initiation of an event-based add-in while composing an email with demo showing use of SSO to get a Graph compatible Token and Call the Graph using CORS!) – [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Program Manager (Microsoft) | @juaneloBalmori & [Hlynur Tryggvason](https://twitter.com/htryggva), Senior Software Architect ([officeatwork](https://www.officeatwork.com/)), and Excel API 1.15 preview (accessing and using Chart Series Dimension and Pivot Table Data Source APIs) – Sirui Sun, Software Engineer (Microsoft). There was Q&A at end of call and in chat throughout call. Don’t forget to register for the [PnP Recognition Program](https://aka.ms/m365pnp-recognition). The call was hosted by Alex Jerabek (Microsoft). Recorded March 9, 2022.
+This month's community call features Excel API 1.15 preview (accessing and using Chart Series Dimension and Pivot Table Data Source APIs) – Sirui Sun, Software Engineer (Microsoft). There was Q&A at end of call and in chat throughout call. Don’t forget to register for the [PnP Recognition Program](https://aka.ms/m365pnp-recognition). The call was hosted by Alex Jerabek (Microsoft). Recorded March 9, 2022.
 
 ## Microsoft Presenters
 
-*   [Juan Balmori](https://twitter.com/juaneloBalmori) – Principal Program Manager (Microsoft)
-*   [Hlynur Tryggvason](https://twitter.com/htryggva) – Senior Software Architect ([officeatwork](https://www.officeatwork.com/))
 *   Sirui Sun – Software Engineer (Microsoft)
 
 ## Agenda
 
-*   **Consuming Graph Services using SSO and CORS from event–based Outlook add–ins** – [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Program Manager (Microsoft) | @juaneloBalmori & [Hlynur Tryggvason](https://twitter.com/htryggva), Senior Software Architect (officeatwork) | @htryggva – [00:51](https://youtu.be/95qxmmqWUAk&t=51)
 *   **Excel API 1.15 preview** – Sirui Sun, Software Engineer (Microsoft) – [21:08](https://youtu.be/95qxmmqWUAk&t=1268)
 *   **Q&A** – [25:45](https://youtu.be/95qxmmqWUAk&t=1545)
+
+> Last updated: June 22. The presentation **Consuming Graph Services using SSO and CORS from event–based Outlook add–ins** was removed from this call. Upon further research, it came to our attention that this demonstration has a potential security risk. Once the Microsoft Graph token is obtained by the middle-tier, it sends the token to the add-in's client code running in Outlook. The Microsoft Graph access token created by the Microsoft identity platform as part of the on-behalf-of flow is only intended to be used by the middle tier. Find more details about this security risk at https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#middle-tier-access-token-request. 
+> We apologize for not catching this issue before the demo. We've pulled the video of the demo from YouTube to avoid promoting a risky security pattern. 
+> We understand this is frustrating for Outlook add-in developers. Running all Microsoft Graph calls on the middle tier can be complicated and slow. We're working to improve the current limitations that exist with SSO and improve the feature to include support for other application architectures in the future.  We do not have a timeline for sharing details, but as soon as information is available, we will be sharing it with the community.  
 
 ## Actions
 
