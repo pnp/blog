@@ -1,6 +1,6 @@
 ---
 title: "We love community"
-date: 2022-063T08:40:00-04:00
+date: 2022-06-24T08:40:00-04:00
 author: "Luise Freese"
 githubname: LuiseFreese
 categories: ["Community post"]
