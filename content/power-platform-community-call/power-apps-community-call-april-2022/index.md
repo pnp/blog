@@ -38,15 +38,15 @@ throughout the call.
     and [OData Editor
     Improvements](https://docs.microsoft.com/power-platform-release-plan/2022wave1/power-automate/odata-editor-improvements-cloud-flows)
 * [Announcing Public Preview of a new Power Apps application on
-    Windows](https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-a-new-power-apps-application-on-windows/)
+    Windows](https://powerapps.microsoft.com/blog/announcing-public-preview-of-a-new-power-apps-application-on-windows/)
     \- run your Power Apps offline on the desktop, supports native device
     capabilities
 * [Introducing the new Power Automate pane in Power
-    Apps!](https://powerapps.microsoft.com/en-us/blog/introducing-the-new-power-automate-pane-in-power-apps/)
+    Apps!](https://powerapps.microsoft.com/blog/introducing-the-new-power-automate-pane-in-power-apps/)
     \- see Flows already in your App or edit existing Flows, create new Flow
     button
 * [Announcing Public Preview of wrap for Power
-    Apps](https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-wrap-for-power-apps/)
+    Apps](https://powerapps.microsoft.com/blog/announcing-public-preview-of-wrap-for-power-apps/)
     \- wrap Canvas apps as custom-branded Android & iOS apps
 * Power Platform sample - [Invoice Automation using the SharePoint
     Syntex](https://github.com/Spucelik/syntex-samples/tree/main/models/Invoice%20Processing)

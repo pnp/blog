@@ -10,7 +10,7 @@ type: "regular"
 
 ---
 
-**{{< image alt="EventHubBlockDiagram.png" src="images/EventHubBlockDiagram.png" >}}
+**![EventHubBlockDiagram.png](images/EventHubBlockDiagram.png)
 
  
 ## Call summary

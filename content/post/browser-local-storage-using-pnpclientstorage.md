@@ -118,26 +118,26 @@ import "@pnp/sp/webs";
 import "@pnp/sp/site-users";
 import { ISiteUserInfo } from '@pnp/sp/site-users/types';
 import { PnPClientStorage, dateAdd } from '@pnp/common';
- 
+
 const pnpStorage = new PnPClientStorage();
- 
+
 export interface ILocalStorageProps {
     description: string;
 }
- 
+
 export interface ILocalStorageState {
     userinfo: ISiteUserInfo;
 }
- 
+
 export default class LocalStorage extends React.Component<ILocalStorageProps, ILocalStorageState> {
- 
+
     constructor(props: ILocalStorageProps) {
         super(props);
         this.state = {
             userinfo: null
         };
     }
- 
+
     public _storeCurrentUserInfo = async () => {
         let currentUserInfo: ISiteUserInfo = pnpStorage.local.get("PnP_UserInfo");
         if (!currentUserInfo) {
@@ -145,18 +145,18 @@ export default class LocalStorage extends React.Component<ILocalStorageProps, IL
             pnpStorage.local.put('PnP_UserInfo', currentUserInfo, dateAdd(new Date(), 'hour', 1));
         }
     }
- 
+
     public _getStoredUserInfo = async () => {
         let currentUserInfo: ISiteUserInfo = pnpStorage.local.get("PnP_UserInfo");
         if (currentUserInfo) this.setState({ userinfo: currentUserInfo });
         else this.setState({ userinfo: null });
     }
- 
+
     public componentDidMount() {
         pnpStorage.local.deleteExpired();
     }
- 
-    public render(): React.ReactElement<ILocalStorageProps> {        
+
+    public render(): React.ReactElement<ILocalStorageProps> {
         return (
             <div className={styles.localStorage}>
                 <div className={styles.container}>
@@ -188,7 +188,7 @@ Let us see what we have done in the above code.
 **Note:** We have used the **local storage** in this sample, there is
 also another storage option named **session storage** which is not
 covered in this article. More information can be found in the
-link [PnP Storage](https://pnp.github.io/pnpjs/common/storage/ "PnP Storage").
+link [PnP Storage](https://pnp.github.io/pnpjs/core/storage/).
 
 1.  We have used the selective imports concept of PnP to import the sp,
     web and site-users object. We have also

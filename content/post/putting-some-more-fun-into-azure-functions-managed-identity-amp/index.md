@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Microsoft Graph", "Azure"]
 type: "regular"
 
 ---
@@ -15,7 +15,7 @@ type: "regular"
 
 I want to show, how you can use a Managed Identity in Azure Functions to
 get an access token for Microsoft Graph API.
-{{< image alt="image-8.png" src="images/image-8.png" >}}
+![image-8.png](images/image-8.png)
 
 ## Prerequisites to benefit from this article
 
@@ -307,7 +307,7 @@ If you like to, you may now have a look at our Managed Identity
 permissions in the Azure portal -- for everyone who loves to be assured
 in a UI that things have worked:\
 \
-{{< image alt="image-10-2048x664.png" src="images/image-10-2048x664.png" >}}
+![image-10-2048x664.png](images/image-10-2048x664.png)
 
 -   Open [portal.azure.com](https://portal.azure.com/)
 -   Select Azure Active Directory
@@ -343,7 +343,7 @@ the Azure portal
 You should see a status code 200 -- and a list of all your Microsoft 365
 groups. YAY!
 
-{{< image alt="groups (1).png" src="images/groups (1).png" >}}
+![groups (1).png](images/groups (1).png)
 
 ## Conclusion and FusionDev scenario 
 

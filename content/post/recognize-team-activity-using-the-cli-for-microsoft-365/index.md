@@ -6,7 +6,7 @@ githubname: appieschot
 categories: ["CLI for Microsoft 365"]
 images:
 - images/team-champion-script.png
-tags: []
+tags: ["CLI Microsoft 365", "Microsoft Teams"]
 type: "regular"
 ---
 
@@ -187,12 +187,12 @@ to process all channels and messages depending the size of your team.
 
  
 
-{{< image alt="team-champion-script.png" src="images/team-champion-script.png" >}}
+![team-champion-script.png](images/team-champion-script.png)
 
 Once the script is finished you can expect an adaptive card showing the
 score for that team. If no top 3 can be constructed it will only show
 the top 1 or 2, and their score.
-{{< image alt="team-champion-result.png" src="images/team-champion-result.png" >}}
+![team-champion-result.png](images/team-champion-result.png)
 
 Hopefully this sample provides some insights in how you can track
 activity and recognize the contributions team members make per team. I

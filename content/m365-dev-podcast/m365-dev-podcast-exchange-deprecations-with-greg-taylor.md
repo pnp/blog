@@ -22,11 +22,11 @@ Listen to the show here:  [Exchange Deprecations with Greg Taylor
 -   [Upcoming API Deprecations in Exchange Web Services for Exchange
     Online - Microsoft Tech
     Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-api-deprecations-in-exchange-web-services-for-exchange/ba-p/2813925?WT.mc_id=M365-MVP-4025164)
--   [Basic Authentication and Exchange Online -- September 2021
+-   [Basic Authentication and Exchange Online -- September 2021 
     Update](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-and-exchange-online-september-2021-update/ba-p/2772210?WT.mc_id=M365-MVP-4025164)
--   [https://http://aka.ms/graphtapform](https://http://aka.ms/graphtapform?WT.mc_id=M365-MVP-4025164)
+-   [https://aka.ms/graphtapform](https://aka.ms/graphtapform?WT.mc_id=M365-MVP-4025164)
 
-## Microsoft News 
+## Microsoft News
 
 -   [Announcing SharePoint Framework 1.13 -- Extending Microsoft Viva
     Connections](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-13-extending-microsoft-viva-connections/?WT.mc_id=M365-MVP-4025164)
@@ -34,7 +34,7 @@ Listen to the show here:  [Exchange Deprecations with Greg Taylor
     Syntex, Stream, Visio and
     more](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-ignite-2021-guide-to-sharepoint-onedrive-viva-lists/ba-p/2853103?WT.mc_id=M365-MVP-4025164)
 
-## Community Links 
+## Community Links
 
 -   [Getting working hours/time zones for other users using Microsoft
     Graph

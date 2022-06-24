@@ -6,7 +6,7 @@ githubname: anandragav
 categories: ["Community post"]
 images:
 - images/AnandVRagav_0-1637611061380.png
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
 
@@ -15,7 +15,7 @@ and how I used SharePoint, Spaces and formatted Lists to design the user
 experience. In this post is explained the details of how the page, space
 and lists are made.
 
-{{< image alt="AnandVRagav_0-1637611061380.png" src="images/AnandVRagav_0-1637611061380.png" >}}
+![AnandVRagav_0-1637611061380.png](images/AnandVRagav_0-1637611061380.png)
  
 I will break down the components first and then go into the details one
 by one.
@@ -44,17 +44,17 @@ in page properties. The copy gets added to the page library with url
 ending "..home1.aspx".
 For comparison see the amount of space saved below.
  
-{{< image alt="AnandVRagav_1-1637607933245.png" src="images/AnandVRagav_1-1637607933245.png" >}}
+![AnandVRagav_1-1637607933245.png](images/AnandVRagav_1-1637607933245.png)
  
 
 For comparison see the amount of space saved below.
-{{< image alt="" src="images/AnandVRagav_2-1637607984045.png" >}}
+![](images/AnandVRagav_2-1637607984045.png)
 
-{{< image alt="" src="images/AnandVRagav_4-1637607984059.png" >}}
+![](images/AnandVRagav_4-1637607984059.png)
 
 For the page layout choose the vertical section. This puts a vertical
 section for the full length of the page on the right-hand-side.
-{{< image alt="" src="images/AnandVRagav_6-1637608010041.png" >}}
+![](images/AnandVRagav_6-1637608010041.png)
 
 ## SharePoint Space
 
@@ -63,20 +63,20 @@ Spaces. Spaces is a feature that needs to be activated at each site
 level. Do that from Site settings \> Manage Site features \> Spaces \>
 Activate.
 
-{{< image alt="" src="images/AnandVRagav_8-1637608057361.png" >}}
+![](images/AnandVRagav_8-1637608057361.png)
 
 You can learn how to create Spaces from the [Microsoft support
 documentation](https://support.microsoft.com/office/create-a-sharepoint-space-77e0bb2a-625e-40a9-b38e-1ca84db6cf65 "Create a Space")
 [Below image snapshot shows the design of my Space and the web parts I
 used.]
  
-{{< image alt="AnandVRagav_9-1637608480549.png" src="images/AnandVRagav_9-1637608480549.png" >}}
+![AnandVRagav_9-1637608480549.png](images/AnandVRagav_9-1637608480549.png)
  
 [Now with the Space created, copy the URL to the Space and to add it to
 the event page (the headerless page) using the embed web part on the
 page.]
  
-{{< image alt="AnandVRagav_10-1637608513774.png" src="images/AnandVRagav_10-1637608513774.png" >}}
+![AnandVRagav_10-1637608513774.png](images/AnandVRagav_10-1637608513774.png)
  
 [Paste the URL to the Space in the embed web part and save the page. If
 you want to customize the height and width properties of the embedded
@@ -94,7 +94,7 @@ positions of the web parts in the Space by checking how they are aligned
 once embedded on the event
 page.]
  
-{{< image alt="AnandVRagav_11-1637608636463.png" src="images/AnandVRagav_11-1637608636463.png" >}}
+![AnandVRagav_11-1637608636463.png](images/AnandVRagav_11-1637608636463.png)
  
 ## Events list
 
@@ -116,7 +116,7 @@ columns. The field labels for the columns were renamed later to suit the
 event
 needs.
  
-{{< image alt="AnandVRagav_0-1637608851038.png" src="images/AnandVRagav_0-1637608851038.png" >}}
+![AnandVRagav_0-1637608851038.png](images/AnandVRagav_0-1637608851038.png)
 
 style="width: 999px;"}
  
@@ -131,7 +131,7 @@ you have a view to embed on the event page and another view in the
 backend for editing
 purposes.
  
-{{< image alt="AnandVRagav_1-1637608940183.png" src="images/AnandVRagav_1-1637608940183.png" >}}
+![AnandVRagav_1-1637608940183.png](images/AnandVRagav_1-1637608940183.png)
  
 
 Let's look at the formatting, let us take them column by column starting
@@ -142,7 +142,7 @@ default share option for list items to allow users to share session
 links through email or copy the link to share through Teams or another
 channel.
 
-{{< image alt="AnandVRagav_0-1637611467410.png" src="images/AnandVRagav_0-1637611467410.png" >}}
+![AnandVRagav_0-1637611467410.png](images/AnandVRagav_0-1637611467410.png)
 
 
 To get that format, use the below JSON code. Open the drown-down arrow
@@ -252,7 +252,7 @@ The About column is a multi-line text column and has the below
 formatting
 applied.
  
-{{< image alt="AnandVRagav_1-1637611523762.png" src="images/AnandVRagav_1-1637611523762.png" >}}
+![AnandVRagav_1-1637611523762.png](images/AnandVRagav_1-1637611523762.png)
  
 ```json
 {
@@ -319,7 +319,7 @@ has the below
 formatting.
 
  
-{{< image alt="AnandVRagav_2-1637611559251.png" src="images/AnandVRagav_2-1637611559251.png" >}}
+![AnandVRagav_2-1637611559251.png](images/AnandVRagav_2-1637611559251.png)
  
  
 ```json
@@ -393,7 +393,7 @@ Hyperlink field. The "Add to calendar" element holds the URL to the
 event in the events
 list.]
  
-{{< image alt="AnandVRagav_3-1637611581623.png" src="images/AnandVRagav_3-1637611581623.png" >}}
+![AnandVRagav_3-1637611581623.png](images/AnandVRagav_3-1637611581623.png)
  
 ```json
 {
@@ -493,7 +493,7 @@ applied. The URLs stored in the Hyperlink fields are URLs to meetings
 created in Microsoft
 Teams
  
-{{< image alt="AnandVRagav_4-1637611605702.png" src="images/AnandVRagav_4-1637611605702.png" >}}
+![AnandVRagav_4-1637611605702.png](images/AnandVRagav_4-1637611605702.png)
  
  
 ```json
@@ -584,7 +584,7 @@ The Session tracks column is a Single line text column with below
 formatting
 applied.
  
-{{< image alt="AnandVRagav_5-1637611630100.png" src="images/AnandVRagav_5-1637611630100.png" >}}
+![AnandVRagav_5-1637611630100.png](images/AnandVRagav_5-1637611630100.png)
  
  
 ``` {.lia-code-sample .language-js
@@ -742,7 +742,7 @@ Now that the formatting is done, the list is embedded on the event page.
 Select the view to be shown, hide the command bar and Apply. We will
 cover the Dynamic filtering in the next section.
  
-{{< image alt="AnandVRagav_2-1637609958440.png" src="images/AnandVRagav_2-1637609958440.png" >}}
+![AnandVRagav_2-1637609958440.png](images/AnandVRagav_2-1637609958440.png)
  
  
 ## Optional: a SharePoint list to store session tracks information
@@ -759,13 +759,13 @@ column, which is a multi-line text column.
 
 
 
-{{< image alt="AnandVRagav_3-1637610034852.png" src="images/AnandVRagav_3-1637610034852.png" >}}
+![AnandVRagav_3-1637610034852.png](images/AnandVRagav_3-1637610034852.png)
 
  
 I have used JSON formatting of the view on this list. Create a view for
 the list and apply the below JSON under "Format view"
  
-{{< image alt="AnandVRagav_6-1637610078483.png" src="images/AnandVRagav_6-1637610078483.png" >}}
+![AnandVRagav_6-1637610078483.png](images/AnandVRagav_6-1637610078483.png)
  
 
 
@@ -860,7 +860,7 @@ Next, on the event page, embed the Tracks list on the right hand side
 column in line with the Sessions list web
 part.
  
-{{< image alt="AnandVRagav_7-1637610296235.png" src="images/AnandVRagav_7-1637610296235.png" >}}
+![AnandVRagav_7-1637610296235.png](images/AnandVRagav_7-1637610296235.png)
  
 
 With the Tracks list now embedded, we can now look at the Dynamic
@@ -868,7 +868,7 @@ filtering of the Sessions list. Connect the two lists as show in the
 image illustration below and save the
 page.
  
-{{< image alt="AnandVRagav_8-1637610455816.png" src="images/AnandVRagav_8-1637610455816.png" >}}
+![AnandVRagav_8-1637610455816.png](images/AnandVRagav_8-1637610455816.png)
 
  
 ## a SharePoint list to store people information
@@ -885,7 +885,7 @@ column.
  
 
 
-{{< image alt="AnandVRagav_9-1637610530919.png" src="images/AnandVRagav_9-1637610530919.png" >}}
+![AnandVRagav_9-1637610530919.png](images/AnandVRagav_9-1637610530919.png)
  
 
 Create a view for the list and apply the below JSON under "Format
@@ -1037,21 +1037,21 @@ this it also lets the users hover/select  the people to get their
 office profile
 information.
  
-{{< image alt="AnandVRagav_0-1637610654153.png" src="images/AnandVRagav_0-1637610654153.png" >}}
+![AnandVRagav_0-1637610654153.png](images/AnandVRagav_0-1637610654153.png)
  
 Other web parts in the vertical section on the right-hand-side.
 **Countdown timer:** In the vertical section I thought it would be
 useful to have the countdown timer web part with a countdown towards the
 event date.
  
-{{< image alt="AnandVRagav_6-1637611708366.png" src="images/AnandVRagav_6-1637611708366.png" >}}
+![AnandVRagav_6-1637611708366.png](images/AnandVRagav_6-1637611708366.png)
  
 ## About web part
 
  I used the fourth list web part to show "what",
 "when", "where", "who" of the event.
  
-{{< image alt="AnandVRagav_1-1637610757197.png" src="images/AnandVRagav_1-1637610757197.png" >}}
+![AnandVRagav_1-1637610757197.png](images/AnandVRagav_1-1637610757197.png)
  
 
 The list is view formatted with the below JSON

@@ -33,10 +33,10 @@ Topics covered in this month’s community call includes 2 demos:  **Make your 
 
 ## Recent News & Cool Stuff
 
-*   [Power Apps 2022 April Release Wave 1 updates for Model-driven apps!](https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-2022-april-release-wave-1-updates-for-model-driven-apps)
-*   [General Availability (GA) of Power Apps portals as mobile apps](https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps)
-*   [General Availability (GA) of code components for portals](https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-code-components-for-portals)
-*   [New Dataverse auditing features – granular and powerful – 100,000 days!](https://powerapps.microsoft.com/en-us/blog/announcing-new-dataverse-auditing-features)
+*   [Power Apps 2022 April Release Wave 1 updates for Model-driven apps!](https://powerapps.microsoft.com/blog/try-out-the-power-apps-2022-april-release-wave-1-updates-for-model-driven-apps)
+*   [General Availability (GA) of Power Apps portals as mobile apps](https://powerapps.microsoft.com/blog/announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps)
+*   [General Availability (GA) of code components for portals](https://powerapps.microsoft.com/blog/announcing-general-availability-ga-of-code-components-for-portals)
+*   [New Dataverse auditing features – granular and powerful – 100,000 days!](https://powerapps.microsoft.com/blog/announcing-new-dataverse-auditing-features)
 
 ## Actions
 

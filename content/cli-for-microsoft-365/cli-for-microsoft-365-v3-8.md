@@ -4,7 +4,7 @@ date: 2021-03-30T10:00:00-04:00
 author: "Garry Trinder"
 githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 
@@ -325,7 +325,7 @@ docker run --rm -it m365pnp/cli-microsoft365:latest
 
 If you need more help getting started or want more details about the
 commands, the architecture or the project, go to
-[aka.ms/cli-m365](http://aka.ms/cli-m365).
+[aka.ms/cli-m365](https://aka.ms/cli-m365).
 
 
 If you see any room for improvement, please, don't hesitate to reach out

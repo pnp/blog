@@ -4,7 +4,7 @@ date: 2021-06-15T01:50:00-04:00
 author: "Chandani Prajapati"
 githubname: chandaniprajapati
 categories: ["Community post"]
-tags: []
+tags: ["SharePoint", "Power Automate"]
 type: "regular"
 ---
 
@@ -26,7 +26,7 @@ step-by-step implementation.
 
 **1. Go to Power Automate \> My flows \> select  New flow \> Select
 instant cloud flow**
-{{< image alt="STep 1.png" src="images/STep 1.png" >}}
+![STep 1.png](images/STep 1.png)
  
 **2. Read items from To Do list. (Read Operation)**
 So to perform the read operation we will use the **GET** method.
@@ -42,10 +42,10 @@ actions
 **Headers*****:** Not required*
 You can also add URI in a variable because this we will need for all the
 actions.
-{{< image alt="Read Items.png" src="images/Read Items.png" >}}
+![Read Items.png](images/Read Items.png)
 If it will successfully execute it returns statusCode 200 and records in
 the body if records are available.
-{{< image alt="Read Items OP.png" src="images/Read Items OP.png" >}}
+![Read Items OP.png](images/Read Items OP.png)
  
 
 **3. Create item in To Do list (Create Operation)**
@@ -76,9 +76,9 @@ In the request body, we need type so now the question is how to get
 type? It is ***SP.Data.{ListName}ListItem*** (replace {*ListName*} with
 list name. if space in between list name then it will be separated with
 ***\_x0020\_***).
-{{< image alt="Create item.png" src="images/Create item.png" >}}
+![Create item.png](images/Create item.png)
 If it will successfully execute it returns statusCode 201.
-{{< image alt="Create item op.png" src="images/Create item op.png" >}}
+![Create item op.png](images/Create item op.png)
  
 **4. Update item in To Do list (Update Operation)**
 **Site Address:** Select the Site URL in which we want to perform
@@ -106,7 +106,7 @@ actions
 
 **  **
 
-**{{< image alt="Update Item.png" src="images/Update Item.png" >}}
+**![Update Item.png](images/Update Item.png)
  
 
 **5. Delete item in To Do list (Delete Operation)**
@@ -128,7 +128,7 @@ actions
 ```
 
 **Body:** *Not required*
-*{{< image alt="Delete ietm.png" src="images/Delete ietm.png" >}}
+*![Delete ietm.png](images/Delete ietm.png)
 
 ## Summary 
 

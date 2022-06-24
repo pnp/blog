@@ -4,7 +4,7 @@ date: 2021-02-27T02:51:00-05:00
 author: "Waldek Mastykarz"
 githubname: WaldekMastykarz
 categories: ["CLI for Microsoft 365"]
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 We've just published a new version of the CLI for Microsoft 365 with new

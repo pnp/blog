@@ -6,7 +6,7 @@ githubname: JeanRoca
 categories: ["Adaptive Cards community call"]
 images:
 - images/adaptive-cards-community-call-august-2021/900x506-AugustTHumb.png
-tags: []
+tags: ["Adaptive Cards"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=84IvNDDlehc

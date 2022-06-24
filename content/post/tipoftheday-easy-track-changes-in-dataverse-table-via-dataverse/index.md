@@ -6,7 +6,7 @@ githubname: ValerasNarbutas
 categories: ["Community post"]
 images:
 - images/ValerasNarbutas_0-1633418328122.png
-tags: []
+tags: ["Dataverse"]
 type: "regular"
 ---
 
@@ -28,7 +28,7 @@ environment API.*
 \
 **Accounts** table data retrieved: (image 1)
 
-{{< image alt="ValerasNarbutas_0-1633418328122.png" src="images/ValerasNarbutas_0-1633418328122.png" >}}
+![ValerasNarbutas_0-1633418328122.png](images/ValerasNarbutas_0-1633418328122.png)
 
 1. Now add a new header in postman call:
    
@@ -39,10 +39,10 @@ environment API.*
  http request call will return additional information:\
 **deltalink** with **deltatoken** in body area (image 2)\
 
-{{< image alt="ValerasNarbutas_0-1633418806793.png" src="images/ValerasNarbutas_0-1633418806793.png" >}}
+![ValerasNarbutas_0-1633418806793.png](images/ValerasNarbutas_0-1633418806793.png)
 2.  Use delta token in as GET request (image 3 )
 
-{{< image alt="ValerasNarbutas_1-1633418877623.png" src="images/ValerasNarbutas_1-1633418877623.png" >}}
+![ValerasNarbutas_1-1633418877623.png](images/ValerasNarbutas_1-1633418877623.png)
 
 Were are no changes that happen last time we did
 request to **accounts** table, this is why under "**value**" it shows
@@ -50,7 +50,7 @@ empty array\
 If I do changes like: add **new** details, **edit** and **delete** in
 **accounts**  table I would get result: (image 4)\
 
-{{< image alt="ValerasNarbutas_2-1633419038732.png" src="images/ValerasNarbutas_2-1633419038732.png" >}}
+![ValerasNarbutas_2-1633419038732.png](images/ValerasNarbutas_2-1633419038732.png)
 
 Now "value" contain 3 additional results for **new**, **edit**, and
 **delete** records.

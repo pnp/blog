@@ -4,10 +4,10 @@ summary: "In this blog post I am going to cover: How to create an API with JavaS
 date: 2022-02-27T02:07:00-05:00
 author: "Luise Freese"
 githubname: "LuiseFreese"
-categories: []
+categories: ["Community post"]
 images: 
 - images/diagram.png
-tags: []
+tags: ["Azure", "Power Automate", "Power Apps"]
 type: "regular"
 ---
 
@@ -181,7 +181,7 @@ You can now test this with `localhost:8000/news/bbc` or `localhost:8000/news/
 
 Please do yourself a favor and create a `.gitignore` file with
 
-```
+``` bash
 node_modules
 ```
 
@@ -214,7 +214,7 @@ Select that link! In case you didn’t delete the root endpoint, you should now 
 
 It should look something like this:
 
-{{< image alt="thumbnail image 2 of blog post titled How to create a custom connector for your own Azure hosted API " src="images/RG-NewsApi.png" >}}
+![thumbnail image 2 of blog post titled How to create a custom connector for your own Azure hosted API ](images/RG-NewsApi.png)
 
 ### 3\. Wrap your API into a custom connector
 
@@ -249,7 +249,7 @@ Now that we have a cool API, let’s use it in Power Platform!
 11.  Select **Create connector**
 12.  you may want to test your connector on the **Test** tab. To do so, select **New Connection** and then select **Test operation** \- This should return an HTTP code 200 and you should see some real data.
 
-{{< image alt="thumbnail image 3 of blog post titled How to create a custom connector for your own Azure hosted API " src="images/CC-Test.png" >}}
+![thumbnail image 3 of blog post titled How to create a custom connector for your own Azure hosted API ](images/CC-Test.png)
 
 Repeat the steps 6-12 for the other endpoints that you created (i.e. `/news/bbc)` You can also pass in the newspaperId as a parameter.
 
@@ -266,7 +266,7 @@ Repeat the steps 6-12 for the other endpoints that you created (i.e. `/news/bbc
 
 You can even create a dropdown menu that holds the different sources so that users can change what they want to consume.
 
-{{< image alt="thumbnail image 4 of blog post titled How to create a custom connector for your own Azure hosted API " src="images/canvasappUkraine.png" >}}
+![thumbnail image 4 of blog post titled How to create a custom connector for your own Azure hosted API ](images/canvasappUkraine.png)
 
 ## Conclusion
 
@@ -276,11 +276,11 @@ You can wrap ANY API into a custom connector for Power Platform - even the ones 
 
 Some helpful resources:   
   
-[Quickstart: Create a Node.js web app - Azure App Service | Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/quickstart-nodejs?pivots=development-environment-cli&tabs=linux)
+[Quickstart: Create a Node.js web app - Azure App Service | Microsoft Docs](https://docs.microsoft.com/azure/app-service/quickstart-nodejs?pivots=development-environment-cli&tabs=linux)
 
 [How to Scrape Websites with Node.js and Cheerio (freecodecamp.org)](https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/)
 
-[Create a custom connector from scratch | Microsoft Docs](https://docs.microsoft.com/en-us/connectors/custom-connectors/define-blank)
+[Create a custom connector from scratch | Microsoft Docs](https://docs.microsoft.com/connectors/custom-connectors/define-blank)
 
 [How to use a custom connector in Power Automate (m365princess.com)](https://www.m365princess.com/blogs/2021-02-23-how-to-use-a-custom-connector-in-power-automate/)
 

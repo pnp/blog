@@ -6,7 +6,7 @@ githubname: LeonArmston
 categories: ["Community post"]
 images:
 - images/LeonArmston_2-1615045186651.png
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 
@@ -23,13 +23,13 @@ want to use a property from the Get Items action then Power Automate
 will automatically add the action to an Apply to each loop as it comes
 from an Array (*see image below*).
 
-{{< image alt="LeonArmston_1-1615045186646.png" src="images/LeonArmston_1-1615045186646.png" >}}
+![LeonArmston_1-1615045186646.png](images/LeonArmston_1-1615045186646.png)
 
 If we test the Flow and we can see there is only one object in the array
 so we can see the Apply to each loop is unnecessary as it does not need
 to loop through any other items.
 
-{{< image alt="LeonArmston_2-1615045186651.png" src="images/LeonArmston_2-1615045186651.png" >}}
+![LeonArmston_2-1615045186651.png](images/LeonArmston_2-1615045186651.png)
 
 I always like to reduce the amount of actions and loops in Power
 Automate for speed and readability reasons.
@@ -47,7 +47,7 @@ delete the Apply to each loop from our Flow and then create a new
 Compose action where we will enter the following expression to access
 just the Title property of the list item without a loop.
 
-{{< image alt="LeonArmston_3-1615045186656.png" src="images/LeonArmston_3-1615045186656.png" >}}
+![LeonArmston_3-1615045186656.png](images/LeonArmston_3-1615045186656.png)
 
 In the image below I will describe the expression: in **blue** the
 first() expression is being used and within it is brackets () in **red**
@@ -60,7 +60,7 @@ to be changed. The first function brackets are then closed in **blue**.
 Then finally in **green** enter the internal name of the SP column you
 wish display in my case the Title column.
 
-{{< image alt="LeonArmston_4-1615045186663.png" src="images/LeonArmston_4-1615045186663.png" >}}
+![LeonArmston_4-1615045186663.png](images/LeonArmston_4-1615045186663.png)
 
 The above expression could also be done with the following expression
 using **\[0\]** to access the first element of the array. However using
@@ -70,7 +70,7 @@ I will now test my Flow by running it and we can now see from the image
 below that it ran successfully and without a adding the Compose action
 to a Apply to each loop.
 
-{{< image alt="LeonArmston_5-1615045186665.png" src="images/LeonArmston_5-1615045186665.png" >}}
+![LeonArmston_5-1615045186665.png](images/LeonArmston_5-1615045186665.png)
 
 ## Summary
 

@@ -1,0 +1,80 @@
+{{- $pctx := . -}}
+{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+{{- $pages := slice -}}
+{{- if or $.IsHome $.IsSection -}}
+{{- $pages = $pctx.RegularPages -}}
+{{- else -}}
+{{- $pages = $pctx.Pages -}}
+{{- end -}}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+{{- $pages = $pages | first $limit -}}
+{{- end -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <link>{{ .Permalink }}</link>
+
+    {{ $favicon:= site.Params.favicon }}
+    {{ if $favicon }}
+    {{ if fileExists (add `assets/` $favicon) }}
+    {{ $favicon:= resources.Get $favicon }}
+    {{ $favicon_32:= $favicon.Resize "32x png"}}
+
+    <image>
+      <url>{{$favicon_32.RelPermalink}}</url>
+      <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+      <link>{{ .Permalink }}</link>
+    </image>
+
+    {{ end }}
+    {{ end }}
+
+    <description>Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
+    <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
+    <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
+    <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
+    <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
+    <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
+    <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+    <ttl>60</ttl>
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    {{- with .OutputFormats.Get "RSS" -}}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{- end -}}
+    {{ range first 25 $pages }}
+    <item>
+        <title>{{ .Title }}</title>
+        <link>{{ .Permalink }}</link>
+        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+        {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+        <guid>{{ .Permalink }}</guid>
+        <description>{{ .Summary | html }}</description>
+        {{ $summary:= .Summary }}
+        {{ $resources:= .Resources }}
+        {{ if .Params.images }}
+        {{ range first 1 .Params.images }}
+            {{ with $resources.GetMatch . }}
+            {{ $img:= . }}
+
+            <media:content url="{{ $img.RelPermalink | absURL }}" medium="image"/>
+            <description>{{ htmlUnescape "<p><img src="}}"{{ $img.RelPermalink | absURL }}" class="webfeedsFeaturedVisual" {{ htmlUnescape "/></p>" }}
+            {{ htmlUnescape "<p>"}}{{ $summary | htmlUnescape }}{{ htmlUnescape "</p>"}}</description>
+
+        {{ end }}
+        {{ else }}
+            <media:content url="{{ site.Params.socialFallbackImage | absURL }}" medium="image"/>
+            <description>{{ htmlUnescape "<p><img src="}}"{{ site.Params.image | absURL }}" class="webfeedsFeaturedVisual" {{ htmlUnescape "/></p>" }}
+            {{ htmlUnescape "<p>"}}{{ $summary | htmlUnescape }}{{ htmlUnescape "</p>"}}</description>
+        {{end}}
+        {{end}}
+
+        <dc:creator>{{.Params.Author}}</dc:creator>
+        {{ range .Params.categories }}
+                <category>{{ . }}</category>
+        {{ end }}
+    </item>
+    {{ end }}
+  </channel>
+</rss>

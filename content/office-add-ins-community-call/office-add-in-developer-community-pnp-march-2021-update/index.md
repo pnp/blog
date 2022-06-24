@@ -19,7 +19,7 @@ list](https://github.com/OfficeDev/PnP-OfficeAddins/issues?q=is%3Aissue+is%3Aope
 
 ## Use Outlook event-based activation to set the signature (preview) 
 
-{{< image alt="Screen shot of PnP sample displaying an information bar prompting the user to set up signatures, and sample signature inserted into the email." src="images/pnp-set-signature.png" >}}
+![Screen shot of PnP sample displaying an information bar prompting the user to set up signatures, and sample signature inserted into the email.](images/pnp-set-signature.png)
 
 This sample uses event-based activation to run an Outlook add-in when
 the user creates a new message or appointment. The add-in can respond to

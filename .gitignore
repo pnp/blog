@@ -1,4 +1,3 @@
 .vscode/settings.json
-public/
-public/**
+*public/
 resources/_gen/**

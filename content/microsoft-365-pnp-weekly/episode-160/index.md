@@ -75,7 +75,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     \- [Bob German](https://twitter.com/Bob1German) (Microsoft) \| @Bob1German
     and [Decision Point team](https://beagleanalytics.ai/)
 *   [Introducing Microsoft Power Platform API
-    (preview)](https://powerapps.microsoft.com/en-us/blog/introducing-microsoft-power-platform-api-preview/)
+    (preview)](https://powerapps.microsoft.com/blog/introducing-microsoft-power-platform-api-preview/)
     \- Lane Swenka (Microsoft)
 
 ## Community articles

@@ -6,7 +6,7 @@ githubname: yhabersaat
 categories: ["Community post"]
 images:
 - images/web-part-width.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 
@@ -92,7 +92,7 @@ And you can display it in your component render() method:
 Final result of this demo web part:
 
 
-{{< image alt="web-part-width.png" src="images/web-part-width.png" >}}
+![web-part-width.png](images/web-part-width.png)
 
 This a great add to SPFx and allows developers to re-render components
 when the web part is resized

@@ -12,7 +12,7 @@ description: "During my SP consultant/dev work I most of the times used the last
 summary: "During my SP consultant/dev work I most of the times used the last two. From time to time I got the question: which one is better?"
 # Taxonomies
 categories: ["Community post"]
-tags: []
+tags: ["CLI for Microsoft 365", "PnP PowerShell"]
 type: "regular" # available type (epic, trending, popular, or regular)
 
 ---
@@ -138,7 +138,7 @@ GitHub actions you may use for you CI/CD workflows. Ever had this "ye
 and when we push on the master branch it would be nice if the webpart
 would be build and pushed to a test/QA tenant". If yes then you have to
 see this [GitHub Actions - CLI for Microsoft 365
-pnp.github.io](https://pnp.github.io/cli-microsoft365/concepts/github-actions/)
+pnp.github.io](https://pnp.github.io/cli-microsoft365/user-guide/github-actions/)
 
 ## When? What? Why?
 

@@ -5,7 +5,7 @@ author: "Shrusti Shah"
 categories: []
 images:
 - images/ShrushtiShah_0-1642687727071.png
-tags: []
+tags: ["Microsoft Teams", "Adaptive cards"]
 type: "regular"
 ---
 
@@ -19,7 +19,7 @@ In this article you will see few easy steps as shown in Fig 1.1, in which whenev
 
 Let’s look at the high-level Automation flow from Fig 1.1, then will look at trigger and actions in details
 
-{{< image alt="thumbnail image 1 of blog post titled Welcome new employee in Teams using Adaptive card. " src="images/ShrushtiShah_0-1642687727071.png" >}}
+![thumbnail image 1 of blog post titled Welcome new employee in Teams using Adaptive card. ](images/ShrushtiShah_0-1642687727071.png)
 
 Fig 1.1 - High level automated flow steps
 
@@ -29,7 +29,7 @@ Let’s take a closer look at trigger and actions in the flow
 
 In Fig 1.2 - Give your organization Team Name
 
-{{< image alt="thumbnail image 2 of blog post titled Welcome new employee in Teams using Adaptive card. " src="images/ShrushtiShah_1-1642687727073.png" >}}
+![thumbnail image 2 of blog post titled Welcome new employee in Teams using Adaptive card. ](images/ShrushtiShah_1-1642687727073.png)
 
 Fig 1.2 - When a new team member is added selected as trigger
 
@@ -37,7 +37,7 @@ Fig 1.2 - When a new team member is added selected as trigger
 
 In Fig 1.3 - Pass the user Id from the first step using the dynamic content, you can also pass some selected fields of the user like surname, department, etc keep it blank to get all the details in Select fields
 
-{{< image alt="thumbnail image 3 of blog post titled Welcome new employee in Teams using Adaptive card. " src="images/ShrushtiShah_2-1642687727075.png" >}}
+![thumbnail image 3 of blog post titled Welcome new employee in Teams using Adaptive card. ](images/ShrushtiShah_2-1642687727075.png)
 
 In Fig 1.3 - Get user profile (v2)
 
@@ -45,7 +45,7 @@ In Fig 1.3 - Get user profile (v2)
 
 In Fig 1.4 - You just need to pass the user Id from Step 1 using dynamic content
 
-{{< image alt="thumbnail image 4 of blog post titled Welcome new employee in Teams using Adaptive card. " src="images/ShrushtiShah_3-1642687727076.png" >}}
+![thumbnail image 4 of blog post titled Welcome new employee in Teams using Adaptive card. ](images/ShrushtiShah_3-1642687727076.png)
 
 Fig 1.4 - This will get the @mention token of the new employee
 
@@ -60,7 +60,7 @@ In Fig 1.5 -
 *   **Adaptive card** \- Post the JSON of your adaptive card. I have added the sample below. Refer that or create a design as per your choice in adaptive [https://adaptivecards.io/designer/](https://adaptivecards.io/designer/)
 *   **Welcome Message** \- You can also give a welcome message headline for your adaptive card
 
-{{< image alt="thumbnail image 5 of blog post titled Welcome new employee in Teams using Adaptive card. " src="images/ShrushtiShah_4-1642687727076.png" >}}
+![thumbnail image 5 of blog post titled Welcome new employee in Teams using Adaptive card. ](images/ShrushtiShah_4-1642687727076.png)
 
 Fig 1.5 - Post an adaptive card in chat or channel
 
@@ -119,13 +119,13 @@ Sample Adaptive card JSON:
 
 In Fig 1.6 - This is a part of JSON code, here you can see we have used the dynamic content from the Get user profile connector and @mention token is used in the text message. This part of code is already added in the sample JSON use that or select dynamically.
 
-{{< image alt="thumbnail image 6 of blog post titled Welcome new employee in Teams using Adaptive card. " src="images/ShrushtiShah_5-1642687727077.png" >}}
+![thumbnail image 6 of blog post titled Welcome new employee in Teams using Adaptive card. ](images/ShrushtiShah_5-1642687727077.png)
 
 Fig 1.6 - Adaptive card message with the user profile details fetched dynamically and @mentioned user in the card.
 
 Now it’s the time to reveal the flow outcome. When a new employee will be added to the Team, an adaptive card will be posted with all the user details in Teams General Channel as shown in the Figure below
 
-{{< image alt="thumbnail image 7 of blog post titled Welcome new employee in Teams using Adaptive card. " src="images/ShrushtiShah_6-1642687727077.png" >}}
+![thumbnail image 7 of blog post titled Welcome new employee in Teams using Adaptive card. ](images/ShrushtiShah_6-1642687727077.png)
 
 I hope this article will help many organizations where they are looking out for a solution of welcoming newly onboarded employee, they can use this automated flow to welcome new employee in Teams by posting an adaptive card.
 

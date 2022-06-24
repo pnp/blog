@@ -49,7 +49,7 @@ how Microsoft can help developers to be more successful with M365
 ecosystem.  9 enabling components of a M365 Customer Success Developer
 Journey shown.  Join the ongoing discussion at [M365 Customer Success
 Platform Panel](https://aka.ms/SuccessPanel)  
-{{< image alt="M365ScuccessJourney.png" src="images/M365ScuccessJourney.png" >}}
+![M365ScuccessJourney.png](images/M365ScuccessJourney.png)
 **Resources**:   
 
 -   Documentation - [Integrate built-in Office buttons into custom
@@ -101,7 +101,7 @@ Platform Panel](https://aka.ms/SuccessPanel)  
 
 We welcome you to submit questions and topic suggestions prior to each
 call by using our short [survey
-form](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Fofficeaddinsform&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C4428509363454852ad7308d8ee27d922%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637521202237530628%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=WgzYkUZM%2BMAIGP3nyGudifVFl3IvDXyhPNlc48mOdJo%3D&reserved=0). 
+form](https://aka.ms/officeaddinsform). 
 ***Excel API updates for 1.13****** ***
 
 **Q:  Will insertWorksheetsFromBase64 preserve formula references
@@ -130,13 +130,13 @@ tabs, into your own tab?** 
 A:  You can bring in any native feature that is currently supported. See
 the following list representing all controls that are currently
 supported and visible on the Office
-ribbon: [https://github.com/OfficeDev/office-control-ids](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FOfficeDev%2Foffice-control-ids&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C4428509363454852ad7308d8ee27d922%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637521202237530628%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=1b8j9bYazjIxvCyzqB2GD90UHfP84jLKesODh4VvSSM%3D&reserved=0). 
+ribbon: [https://github.com/OfficeDev/office-control-ids](https://github.com/OfficeDev/office-control-ids0). 
 
 **Q:  What are the future plans for the shapes API on PowerPoint?** 
 
 A:  We have some of the shapes API in preview documented in the
 article [PowerPoint JavaScript preview
-APIs](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Foffice%2Fdev%2Fadd-ins%2Freference%2Frequirement-sets%2Fpowerpoint-preview-apis&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C4428509363454852ad7308d8ee27d922%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637521202237540621%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=UZ17mWlGpp3%2BN0mGGhHSE3VYcBmeN5bio0xh4gpu0cw%3D&reserved=0).
+APIs](https://docs.microsoft.com/javascript/api/requirement-sets/powerpoint/powerpoint-preview-apis?view=common-js-preview).
 We also have some additional APIs planned around adding
 shapes, textbox and tags to shapes. We don't have a concrete timeline
 yet. 
@@ -156,4 +156,4 @@ A:  We haven't yet documented the Group Policy (\"Deactivate Outlook
 web add-ins whose equivalent COM or VSTO add-in is installed\") that
 configures this behavior. However, it will be added to the article [Make
 your Office Add-in compatible with an existing COM
-add-in](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Foffice%2Fdev%2Fadd-ins%2Fdevelop%2Fmake-office-add-in-compatible-with-existing-com-add-in&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C4428509363454852ad7308d8ee27d922%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637521202237540621%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=lbiGowypY91230dddlS8RTnhi%2FI7M%2Fwm1yEDGEWIKAU%3D&reserved=0). 
+add-in](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/make-office-add-in-compatible-with-existing-com-add-in). 

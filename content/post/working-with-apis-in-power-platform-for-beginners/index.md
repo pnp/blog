@@ -5,8 +5,8 @@ author: "Michael Roth"
 githubname: MichaelRoth42
 categories: ["Community post"]
 images:
-- images/HTTPrequest.png
-tags: []
+- images/title-calling-apis.png
+tags: ["Power Apps", "Power Automate"]
 type: "regular"
 ---
 
@@ -14,7 +14,7 @@ I recently learned how to work with APIs and the different methods to
 call them. I started with a straight forward example that's not too
 complex. I used an open API (that means I don't need authentication for
 my request) to get the [number of the
-day ](https://math.tools/numbers/number-of-the-day/)from a website
+day ](https://math.tools/numbers/number-of-the-day/) from a website
 called [MathTOOLS](https://math.tools/). I want this number of the day
 to be posted as a chat message in Microsoft Teams.
 
@@ -27,11 +27,11 @@ allow applications to communicate with each other and exchange data. An
 API lists operations that it can perform and which you can use, if you
 know how to trigger them. Usually the operations are\...
 
-- **GET**(read)
-- **POST**(write)
-- **PUT**(update)
-- **PATCH**(update, but only partially)
-- **DELETE**(remove)
+- **GET** (read)
+- **POST** (write)
+- **PUT** (update)
+- **PATCH** (update, but only partially)
+- **DELETE** (remove)
 
 ## How to address APIs?
 
@@ -62,7 +62,7 @@ will need a\...
 - Headers
 - and a body
 
-{{< image alt="HTTPrequest.png" src="images/HTTPrequest.png" >}}
+![HTTPrequest.png](images/HTTPrequest.png)
 
 ### Method
 
@@ -88,20 +88,20 @@ not only that, we will also need the **endpoint**. This is something
 like the direct call, putting you to that exact point that you want.
 Usually an API will tell you how the endpoint looks:
 
-{{< image alt="api-math-tool.png" src="images/api-math-tool.png" >}}
+![api-math-tool.png](images/api-math-tool.png)
 
 The endpoint of the website MathTOOLS is \`<https://api.math.tools>\`,
 but if we read carefully (I usually struggle with that), we get more details for the API of the number
 of the day:
 
-{{< image alt="api-nr-of-day.png" src="images/api-nr-of-day.png" >}}
+![api-nr-of-day.png](images/api-nr-of-day.png)
 
 The endpoint for the number of the day is
 \`<https://api.math.tools/numbers/nod>\`. The API documentation even
 provides us with the information of how the HTTP response will look
 like:
 
-{{< image alt="JSON-nod.png" src="images/JSON-nod.png" >}}
+![JSON-nod.png](images/JSON-nod.png)
 
 It's a very long JSON object (if you want to get started with JSON, I
 recommend the amazing blog from Bob German [Introduction to
@@ -112,16 +112,16 @@ Method, we know the URL and we know that we don't need any
 authentication. That means we can fill out all mandatory fields in that
 flow action and it looks like this:
 
-{{< image alt="HTTP-flow-step.png" src="images/HTTP-flow-step.png" >}}
+![HTTP-flow-step.png](images/HTTP-flow-step.png)
 
 Let's run this flow on a daily basis and see what the result looks
 like:
 
-{{< image alt="HTTP-flow-run-successfull.png" src="images/HTTP-flow-run-successfull.png" >}}
+![HTTP-flow-run-successfull.png](images/HTTP-flow-run-successfull.png)
 
 (Since you can hardly see the result, I paste the body here once again)
 
-{{< image alt="HTTP-flow-result.png" src="images/HTTP-flow-result.png" >}}
+![HTTP-flow-result.png](images/HTTP-flow-result.png)
 
 And that's it, we used an **HTTP request** to **GET** information from
 a **API**. Now for the last part of this blog, we want to use some
@@ -154,7 +154,7 @@ recognized as a "text")
 **Value**: Here we want to define the value of this variable. In our
 case that means that particular information from this long JSON object.
 
-{{< image alt="JSON-value.png" src="images/JSON-value.png" >}}
+![JSON-value.png](images/JSON-value.png)
 
 We want the value of the property "number"
 
@@ -163,13 +163,13 @@ have the objects "success", "copyright" and "content". The object
 "content" contains an object called "nod", which contains two more
 objects called "category" and "numbers".
 
-{{< image alt="JSON-objects.png" src="images/JSON-objects.png" >}}
+![JSON-objects.png](images/JSON-objects.png)
 
 As stated earlier, we want the value of the property "number", which
 is located in the object "numbers" (which is part of the object
 "nod", which is part of the object "content").
 
-{{< image alt="JSON-nod-value.png" src="images/JSON-nod-value.png" >}}
+![JSON-nod-value.png](images/JSON-nod-value.png)
 
 Now we can tell our variable in Power Automate the exact location of the
 value we want to use in this variable. The expression to "navigate" to
@@ -186,7 +186,7 @@ Now you can build in the variable in a "Post message in a chat or
 channel" action as dynamic content in Flow and it will always show the
 value of the property of that JSON object.
 
-{{< image alt="Teams-message.png" src="images/Teams-message.png" >}}
+![Teams-message.png](images/Teams-message.png)
 
 That's it. That is how you call an API, get a JSON object back and use
 certain values from that object in Power Automate. I hope you liked it

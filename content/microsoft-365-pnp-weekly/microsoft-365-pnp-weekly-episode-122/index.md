@@ -114,7 +114,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 -   [How to build a SharePoint glossary page using view formatting and
     connected list Web
     Parts](https://michelcarlo.com/2021/04/09/how-to-build-a-sharepoint-glossary-page-using-view-formatting-and-connected-list-webparts/)
-    - [Michel Mendes](http://twiter.com/michelcarlo) (Storm Technology
+    - [Michel Mendes](https://twitter.com/michelcarlo) (Storm Technology
     Ltd) | @michelcarl
 -   [Change your background for a Teams meeting on
     mobile](https://regarding365.com/change-your-background-for-a-teams-meeting-on-mobile-a640c9d40395) -

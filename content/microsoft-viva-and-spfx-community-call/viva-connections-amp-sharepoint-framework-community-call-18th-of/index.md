@@ -12,7 +12,7 @@ type: "regular"
 
 Viva Connections & SharePoint Framework bi-weekly community call
 recording from November 18th is now available from the Microsoft 365
-Community YouTube channel at <http://aka.ms/m365pnp/videos>. You can use
+Community YouTube channel at <https://aka.ms/m365pnp/videos>. You can use
 SharePoint Framework for building solutions for **Microsoft Teams** and
 for **SharePoint** Online.
 
@@ -55,7 +55,7 @@ Additionally, there were 1 web part and 2 ACE **samples** delivered!
 The host of this call is [David Warner
 II](https://twitter.com/DavidWarnerII) (Catapult Systems)
 @DavidWarnerII.  Q&A takes place as always in chat throughout the call.
-{{< image alt="211118-together-mode.gif" src="images/211118-together-mode.gif" >}}
+![211118-together-mode.gif](images/211118-together-mode.gif)
  
 
 Great to see all of you today - humans and ghosts.  Possibly some will
@@ -274,9 +274,9 @@ slides.
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
 
--   [Tools - ](http://aka.ms/pnp-search)[PnP Modern Search
+-   [Tools - ](https://aka.ms/pnp-search)[PnP Modern Search
     v4](https://microsoft-search.github.io/pnp-modern-search/)[ 
-    | ](http://aka.ms/pnp-search)<https://aka.ms/pnp-search>
+    | ](https://aka.ms/pnp-search)<https://aka.ms/pnp-search>
 
 -   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 
@@ -291,11 +291,11 @@ slides.
     leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 
 -   [Microsoft 365 Community
-    Content](http://aka.ms/m365-community-docs) (non-Dev docs)
+    Content](https://aka.ms/m365-community-docs) (non-Dev docs)
 
--   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
+-   [PnP SPFx web part samples](https://aka.ms/spfx-webparts)
 
--   [PnP SPFx extension samples](http://aka.ms/spfx-extensions)
+-   [PnP SPFx extension samples](https://aka.ms/spfx-extensions)
 
 -   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 
@@ -316,7 +316,7 @@ slides.
 
 -   [SPFx Extensions](https://aka.ms/spfx-extensions)
 
--   [SPFx Library Components](http://aka.ms/spfx-library-components)
+-   [SPFx Library Components](https://aka.ms/spfx-library-components)
 
 -   Documentation - [PnPjs v2
     documentation](https://pnp.github.io/pnpjs/)
@@ -327,10 +327,10 @@ slides.
 -   Link - [Office 365 Developer Program](https://aka.ms/O365DevProgram)
 
 -   [Latest documentation on SharePoint
-    Framework](http://aka.ms/spdev-docs)
+    Framework](https://aka.ms/spdev-docs)
 
 -   Found an issue with SharePoint Dev? - please let us know
-    at <http://aka.ms/spdev-issues>
+    at <https://aka.ms/spdev-issues>
 
 -   [Reusable web part property
     controls](https://sharepoint.github.io/sp-dev-fx-property-controls/)
@@ -347,7 +347,7 @@ slides.
     Extends the out-of-the-box experience with open-source community
     capabilities
 
--   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
+-   [SharePoint Dev UserVoice](https://aka.ms/spdev-uservoice) - for new
     feature requests
 
 

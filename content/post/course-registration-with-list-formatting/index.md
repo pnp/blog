@@ -6,7 +6,7 @@ githubname: expiscornovus
 categories: ["Community post"]
 images:
 - images/51695169286_ae7588984b_c.jpg
-tags: []
+tags: ["List formatting", "SharePoint", "PnP PowerShell"]
 type: "regular"
 ---
 
@@ -16,7 +16,7 @@ action within List formatting. This blog shows an example on how to use
 list formatting to create registration or sign-up formatting in a
 SharePoint list. 
 
-### {{< image alt="51695169286_ae7588984b_c.jpg" src="images/51695169286_ae7588984b_c.jpg" >}}
+### ![51695169286_ae7588984b_c.jpg](images/51695169286_ae7588984b_c.jpg)
 
 ### Course Registration 
  
@@ -83,7 +83,7 @@ Disconnect-PnPOnline
 1.  Navigate to your newly created list and select Column settings \>
 Format this column.
  
-{{< image alt="51695571178_b626326204_c.jpg" src="images/51695571178_b626326204_c.jpg" >}}
+![51695571178_b626326204_c.jpg](images/51695571178_b626326204_c.jpg)
  
 1. Insert the json below and select save.
  

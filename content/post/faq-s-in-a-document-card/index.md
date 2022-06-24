@@ -6,7 +6,7 @@ githubname: SamC148
 categories: ["Community post"]
 images:
 - images/updateFAQgif.gif
-tags: []
+tags: ["SharePoint", "SharePoint framework (SPFx)"]
 type: "regular"
 ---
 
@@ -17,7 +17,7 @@ it was a great resource to share.
  
 Here's what the web part looks like and an idea how it functions
 
-{{< image alt="updateFAQgif.gif" src="images/updateFAQgif.gif" >}}
+![updateFAQgif.gif](images/updateFAQgif.gif)
  
 
 TLDR: For a tutorial of how to build the whole thing from scratch check

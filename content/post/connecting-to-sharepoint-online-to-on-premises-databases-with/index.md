@@ -4,7 +4,7 @@ date: 2021-10-18T04:08:00-04:00
 author: "Simon Doy"
 githubname: SimonDoy
 categories: ["Community post"]
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 
@@ -32,11 +32,11 @@ section.
 So several options were looked at, and as moving the database was
 quickly ruled out, we came up with these two:
 
--   Build a solution with PowerApps and use the On-Premise data gateway.
+-   Build a solution with Power Apps and use the On-Premise data gateway.
 -   Build a solution with SharePoint Framework using a REST API using
     Azure Hybrid Connections
-Whilst the PowerApps solution would take less time, the licensing cost
-of the PowerApps solution ended up ruling it out due to its total cost
+Whilst the Power Apps solution would take less time, the licensing cost
+of the Power Apps solution ended up ruling it out due to its total cost
 of ownership (TCO).
 So, the SPFX solution was chosen. The architecture was to use SPFX web
 parts that connected to a REST API hosted in Azure App Services. The
@@ -46,7 +46,7 @@ allowed us to connect from Azure back into the customer network without
 the need to reconfigure complex firewalls.
  
 To help visualize the solution, let's take a look at the architecture.
-{{< image alt="The architecture overview of the solution" src="images/image-5.png" >}}
+![The architecture overview of the solution](images/image-5.png)
 
 We ended up having two [Azure Hybrid Connection
 Services](https://docs.microsoft.com/azure/app-service/app-service-hybrid-connections) running.
@@ -81,7 +81,7 @@ grant admin consent to Azure AD Applications. Basically, a Global Admin
 has this role, so we worked with the IT team to ensure a privileged user
 did the authorization. Be mindful of this when deploying to the customer
 
-{{< image alt="The steps to authorize accessing an API in SharePoint Online." src="images/image-6.png" >}}
+![The steps to authorize accessing an API in SharePoint Online.](images/image-6.png)
  
 The screen to authorize SharePoint Framework solutions.
  
@@ -113,7 +113,7 @@ The Azure Hybrid Connection is set up in two places.
 The hybrid connection service establishes a connection to the Azure App
 Service through Azure Relay which is built on top of Service Bus.
 
-{{< image alt="Diagram explaining the architecture of Azure Hybrid Connections." src="images/hybridconn-connectiondiagram.png" >}}
+![Diagram explaining the architecture of Azure Hybrid Connections.](images/hybridconn-connectiondiagram.png)
 
  
 To set up the Hybrid Connection in Azure App Service you must be running

@@ -5,7 +5,7 @@ author: "Reshmee Auckloo"
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["PnP PowerShell", "Microsoft Graph"]
 type: "regular"
 ---
 
@@ -27,11 +27,11 @@ at random intervals I was getting errors like 
 
 \"Invoke-WebRequest : The underlying connection was closed: A connection
 that was expected to be kept alive was closed by the server\"
-{{< image alt="reshmeeauckloo_0-1631898450004.png" src="images/reshmeeauckloo_0-1631898450004.png" >}}
+![reshmeeauckloo_0-1631898450004.png](images/reshmeeauckloo_0-1631898450004.png)
 and 
 \"Invoke-webRequest : The remote server returned an error: (401)
 Unauthorized\" 
-{{< image alt="reshmeeauckloo_1-1631898461413.png" src="images/reshmeeauckloo_1-1631898461413.png" >}}
+![reshmeeauckloo_1-1631898461413.png](images/reshmeeauckloo_1-1631898461413.png)
 I used a retry mechanism in case of failure to re-establish the
 connection to continue the operation. To my dismay even if the script
 completed looping the 300k times to either add or delete the items, not
@@ -48,7 +48,7 @@ minutes. 
 Below is a screenshot of the results of running the script which resumed
 the operation in case of errors like \"The underlying connection was
 closed\".
-{{< image alt="reshmeeauckloo_0-1631978767171.png" src="images/reshmeeauckloo_0-1631978767171.png" >}}
+![reshmeeauckloo_0-1631978767171.png](images/reshmeeauckloo_0-1631978767171.png)
 
 Microsoft Graph batch script
 
@@ -280,7 +280,7 @@ write-host "Total script run time: $($totalTime.Hours) hours, $($totalTime.Minut
 I have run the scripts using Microsoft Graph batch and PnP Batch 3 times
 to add and delete 3k items and below are the results.
 
-{{< image alt="table" src="images/table.png" >}}
+![table](images/table.png)
 
 Microsoft Graph batch is faster to add and delete than PnP batch for 3k
 items.

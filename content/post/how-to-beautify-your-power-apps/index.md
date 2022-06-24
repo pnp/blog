@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/fluentUIicons.png
-tags: []
+tags: ["Power Apps"]
 type: "regular"
 ---
 
@@ -21,7 +21,7 @@ UI](https://developer.microsoft.com/fluentui#/).
 
 One part of Fluent UI is the iconography
 
-{{< image alt="fluentUIicons.png" src="images/fluentUIicons.png" >}}
+![fluentUIicons.png](images/fluentUIicons.png)
 
 ### How to get Fluent UI icons 
 
@@ -65,12 +65,12 @@ Screens in Power Apps are perfect for displaying information that should
 always be shown. But what if we only want to show some more content
 occasionally? Pop up to the rescue!
 
-{{< image alt="showpopup.gif" src="images/showpopup.gif" >}}
+![showpopup.gif](images/showpopup.gif)
 To create a pop up effect, create:
 
 
 
-{{< image alt="controls.png" src="images/controls.png" >}}
+![controls.png](images/controls.png)
 
 -   a rectangle that overlays the content that our user now should not
     focus on - good idea to have it filled grey and semi-transparent
@@ -215,7 +215,7 @@ ThisItem.Row = 5, Navigate('Lists Screen', None)
 
 Our result should look something like this:
 
-{{< image alt="expand.gif" src="images/expand.gif" >}}
+![expand.gif](images/expand.gif)
 
 
 ## Feedback and what's next? 
@@ -232,12 +232,12 @@ image](https://github.com/LuiseFreese/blog/blob/main/media/beautify/sketchnotebe
 the download button)
  
 
-{{< image alt="beautify.gif" src="images/beautify.gif" >}}
+![beautify.gif](images/beautify.gif)
 
 ## sample app  
 
 If you like to reverse-engineer this idea - I provided a sample in the
-[PnP PowerApps sample
+[PnP Power Apps sample
 gallery](https://pnp.github.io/powerplatform-samples/samples/powerapps/): [link
 to source code files on
 GitHub](https://github.com/pnp/powerapps-samples/blob/main/samples/expandable-navigation/readme.md)

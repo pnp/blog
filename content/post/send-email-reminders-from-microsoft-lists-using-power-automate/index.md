@@ -6,7 +6,7 @@ githubname: nyoung30
 categories: ["Community post"]
 images:
 - images/issuetracker01.png
-tags: []
+tags: ["Power Automate", "Microsoft Lists"]
 type: "regular"
 summary: "In this blog post, I will show how to send email reminders for Microsoft Lists items based on a date column using Power Automate. "
 ---
@@ -17,51 +17,51 @@ In this blog post, I will show how to send email reminders for Microsoft Lists i
 
 You can get started with the **Issue Tracker** by navigating to Microsoft Lists, select **New list** and then select **Issue tracker**.
 
-{{< image alt="The issue tracker template" src="images/issuetracker01.png" >}}
+![The issue tracker template](images/issuetracker01.png)
 
 Review the sample and select **Use template**.
 
-{{< image alt="The template preview with use template button on the lower right corner" src="images/issuetracker02.png" >}}
+![The template preview with use template button on the lower right corner](images/issuetracker02.png)
 
 Provide a **Name**, **Color**, **Icon** and storage location (i.e. **Save to**) (OneDrive aka **My lists** or **SharePoint**) and then select **Create**. I am using **My lists** in this example.
 
-{{< image alt="The new list creation dialog" src="images/issuetracker03.png" >}}
+![The new list creation dialog](images/issuetracker03.png)
 
 
 We will add a `Due Date` column to connect our reminders to. From **Issue Tracker** to the right of the `Date reported` column select **+ Add column** or **+** and select **Date and Time** from the dropdown list of column types. 
 
-{{< image alt="Dropdown list of column types" src="images/stormin_30_4-1613402858860.png" >}}
+![Dropdown list of column types](images/stormin_30_4-1613402858860.png)
 
 Set **Name** to `Due Date` and select **Save**.
 
-{{< image alt="The create a column dialog" src="images/stormin_30_5-1613403503451.png" >}}
+![The create a column dialog](images/stormin_30_5-1613403503451.png)
 
 ## Flow build 
 
 Create a new Flow by selecting **Automate** \> **Power Automate** \> **See your flows**.
 
-{{< image alt="The automate menu" src="images/image-23.png" >}}
+![The automate menu](images/image-23.png)
 
 Select **New** \> **Scheduled--from blank**.
 
-{{< image alt="New -- scheduled from blank dialog" src="images/image-24.png" >}}
+![New -- scheduled from blank dialog](images/image-24.png)
 
 Provide a **Flow name**, I.e. `Issue Tracker -- Daily`, set **Starting** to `10:00 AM`, **Repeat every** to `1`, **Day** and select **Create**.
 
-{{< image alt="Build a scheduled flow dialog" src="images/image-25.png" >}}
+![Build a scheduled flow dialog](images/image-25.png)
 
 {{< notice tip>}}
 Use the advanced options to set your target time zone.
 {{< /notice >}}
 
 
-{{< image alt="The recurrence step" src="images/image-26.png" >}}
+![The recurrence step](images/image-26.png)
 
 Select **New step**, search for **Variable** and select the **Initialize variable** action. 
 
 Set the **Name** to `varNumDays`; **Type** to **Integer** and **Value** to `30`.
 
-{{< image alt="Initialize variable step" src="images/image-27.png" >}}
+![Initialize variable step](images/image-27.png)
 
 Select **New step**, search for **Variable** and select the **Initialize variable** action.  
 
@@ -75,7 +75,7 @@ addDays(utcNow(), variables('varNumDays'), 'yyyy-MM-dd')
 Select **Add dynamic content** \> **Expression** to access the expression editor.
 {{< /notice >}}
 
-{{< image alt="Initialize variable step" src="images/image-28.png" >}}
+![Initialize variable step](images/image-28.png)
 
 Select **New step**, search for **SharePoint** and select the **Get items** action. 
 
@@ -95,7 +95,7 @@ Where `@{variables('varReminderDate')}` is the `varReminderDate` variable. 
 Pay attention to the single quotes used in the ODATA filter query.
 {{< /notice >}}
 
-{{< image alt="Get items step" src="images/image-30.png" >}}
+![Get items step](images/image-30.png)
 
 Select **New step**, search for **Office 365 Outlook** and select the **Send an email (V2)** action.
 
@@ -103,15 +103,15 @@ Set **To** to **Person or group the issue is assigned to Email** (from the **Sha
 
 Set **Subject** and **Body** to something similar to the image below.
 
-{{< image alt="Reminder: title due in varNumDays" src="images/image-31.png" >}}
+![Reminder: title due in varNumDays](images/image-31.png)
 
 My completed Flow looks like the image below.
 
-{{< image alt="The completed flow" src="images/image-33.png" >}}
+![The completed flow](images/image-33.png)
 
 Save and test the Flow. If you have items due in 30 days the owner will receive a reminder email.
 
-{{< image alt="Sample reminder email" src="images/image-32.png" >}}
+![Sample reminder email](images/image-32.png)
 
 
 This Flow is relatively simplistic in design and function but illustrates how value can be added to existing business processes by automating tasks and giving users an opportunity to act prior to a due date.

@@ -3,12 +3,13 @@ title: "Getting started with SharePoint Framework"
 date: 2021-03-08T06:17:00-05:00
 author: "Waldek Mastykarz"
 githubname: WaldekMastykarz
-categories: []
+categories: ["Community post"]
 images:
 - images/graph.png
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
+
 Using SharePoint Framework you can extend portals on Microsoft 365 and
 expose your apps where people work. Here are some resources to get you
 started.

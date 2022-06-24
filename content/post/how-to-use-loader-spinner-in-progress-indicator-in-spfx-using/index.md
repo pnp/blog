@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/spfx-loader.gif
-tags: []
+tags: ["SharePoint framework (SPFx)"]
 type: "regular"
 ---
 
@@ -48,7 +48,7 @@ Now execute the below command to create an SPFx solution:
     yo @microsoft/sharepoint 
 It will ask some questions, as shown below,
 
-{{< image alt="How To Use LoaderSpinner In SPFx.png" src="images/How To Use LoaderSpinner In SPFx.png" >}}
+![How To Use LoaderSpinner In SPFx.png](images/How To Use LoaderSpinner In SPFx.png)
 
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
@@ -245,7 +245,7 @@ export default class SpfxLoader extends React.Component<ISpfxLoaderProps, ISpfxL
  
 ## Output 
 
-{{< image alt="spfx-loader.gif" src="images/spfx-loader.gif" >}}
+![spfx-loader.gif](images/spfx-loader.gif)
  
 
 Find here the [full source code

@@ -1,6 +1,5 @@
-# Please use this template to ensure easier processing of your pull request
 
-#### Category
+## Category
 
 - [ ] Content fix
 - [ ] New article
@@ -10,7 +9,7 @@
 >
 > *(DELETE THIS PARAGRAPH AFTER READING)*
 
-#### Related issues
+## Related issues
 
 - fixes #issuenumber
 - partially #issuenumber
@@ -20,16 +19,14 @@
 >
 > *(DELETE THIS PARAGRAPH AFTER READING)*
 
-#### Contents of the Pull Request
+## Contents of the Pull Request
 
 > Please describe the changes in this PR. Try to give enough details so the person reviewing it to merge it can make a good decision about your content.
 >
 > *(DELETE THIS PARAGRAPH AFTER READING)*
 
-#### Guidance
+## Guidance
 
-> *Please update this PR information accordingly. We'll use this as part of our release notes in monthly communications.*
->
 > *Please target your PR to `main` branch.*
 >
 > *(DELETE THIS PARAGRAPH AFTER READING)*

@@ -6,7 +6,7 @@ githubname: MichaelRoth42
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Power Apps", "Microsoft Teams"]
 type: "regular"
 ---
 
@@ -66,7 +66,7 @@ to know how to write code or anything.
 
 Before we start, here's a picture of the finished app.
 
-[{{< image alt="TimerApp.png" src="images/TimerApp.png" >}}
+[![TimerApp.png](images/TimerApp.png)
 
 I build this in the portrait orientation, since I want it to be used in
 Teams meetings. That means, it has to fit in the meeting side panel.
@@ -97,9 +97,9 @@ upper right corner. It's a very easy step to make sure that your product
 (app or flow or slide or whatever) reaches more people. We want to
 include everyone, correct? Correct! 
 
-{{< image alt="Accessibility.png" src="images/Accessibility.png" >}}
+![Accessibility.png](images/Accessibility.png)
 
-{{< image alt="Picture5.jpg" src="images/Picture5.jpg" >}}
+![Picture5.jpg](images/Picture5.jpg)
 
 
 ## Building the app
@@ -128,7 +128,7 @@ your components). Here is how to edit the parts:
 
 #### Timer input
 
-**[{{< image alt="Timer.png" src="images/Timer.png" >}}
+**[![Timer.png](images/Timer.png)
 
 Start by changing the **Duration** into a variable. I called it "Dauer"
 (sorry for the german, but you can call it whatever you like). The timer
@@ -208,7 +208,7 @@ function:
 
 `UpdateContext({ResetIt:false}); UpdateContext({ResetIt: true})`
 
-{{< image alt="Buttons.png" src="images/Buttons.png" >}}
+![Buttons.png](images/Buttons.png)
 
 Now we have a timer that can be set to the values of the four buttons on
 the right side AND we can control it with three buttons. Neat!
@@ -226,7 +226,7 @@ on the left. We're going to start with the slider
 
 To build this, start to insert the slider control.
 
-[{{< image alt="Build_3.png" src="images/Build_3.png" >}}
+[![Build_3.png](images/Build_3.png)
 
 Now it's time to flip it over.
 
@@ -257,11 +257,11 @@ need the following icons:
 -   Half circle (1x)
 -   Three-quarter circle (1x)
 
-{{< image alt="Icons.png" src="images/Icons.png" >}}
+![Icons.png](images/Icons.png)
 
 You need to layer these in the following order:
 
-{{< image alt="Build_5.png" src="images/Build_5.png" >}}
+![Build_5.png](images/Build_5.png)
 
 Set the **Fill property** to of the top four elements to some blue, the
 full circle at the bottom is going to be red. The exact colors don't
@@ -323,7 +323,7 @@ Now you can remove the border and background from your...
 
 In the Timer properties, change these values to transparent:
 
- [{{< image alt="Picture9.png" src="images/Picture9.png" >}}
+ [![Picture9.png](images/Picture9.png)
 
 I did the same for the Start, Stop and Reset Button and placed them in
 the middle of a circle icon, I've added (Insert \> Icon \> Circle).
@@ -332,7 +332,7 @@ the center. You do that by right-clicking on the button and use the
 align feature. With Reorder you can also place the icon under the
 button.
 
-{{< image alt="Align.png" src="images/Align.png" >}}
+![Align.png](images/Align.png)
 
 Now select the icon and the button and group them (Ctrl+G), so you can
 place them in the spare holes of the timer picture.
@@ -346,11 +346,11 @@ I set the **size and position values** of the circles like this, but you
 can place them wherever you
 like:
 
-{{< image alt="Position.png" src="images/Position.png" >}}
+![Position.png](images/Position.png)
 
 Now for the slider. Set the **size and position values** like this:
 
-{{< image alt="Position_Slider.png" src="images/Position_Slider.png" >}}
+![Position_Slider.png](images/Position_Slider.png)
 
 Set the **Handle size** value to *50*.
 
@@ -372,7 +372,7 @@ and over again.
 You want to set those variables on the OnStart property of the app
 itself, so the colors will show when, you start the app.
 
-[{{< image alt="Picture10.png" src="images/Picture10.png" >}}
+[![Picture10.png](images/Picture10.png)
 
  
 
@@ -458,7 +458,7 @@ Concurrent(
 
 The result should look a lot like this:
 
-{{< image alt="TimerApp.png" src="images/TimerApp.png" >}}
+![TimerApp.png](images/TimerApp.png)
 
 As you can see, I added Fluent UI Icons on the buttons of the timer (if
 you don't know how to use them, have a look at this awesome [blog from

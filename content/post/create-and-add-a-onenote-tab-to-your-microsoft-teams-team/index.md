@@ -6,7 +6,7 @@ githubname: veskunopanen
 categories: ["Community post"]
 images:
 - images/image-13.png
-tags: []
+tags: ["Power Automate", "Microsoft Graph"]
 type: "regular"
 ---
  
@@ -15,7 +15,7 @@ channel in Microsoft Teams using Power Automate + Graph API. If you look
 at
 the [documentation ](https://docs.microsoft.com/graph/teams-configuring-builtin-tabs?WT.mc_id=M365-MVP-5003326)it
 shows you this:
-{{< image alt="image-13" src="images/image-13.png" >}}
+![image-13](images/image-13.png)
  
 Of course I never believed that but found earlier a way to hack OneNote
 into a channel as tab but also updated my methods when it became much
@@ -33,14 +33,14 @@ add OneNote book as a tab.
 3.  You need a team id and a channel id you want to put the OneNote book
     into as a tab
  
-{{< image alt="image-14" src="images/image-14.png" >}}
+![image-14](images/image-14.png)
  
 Adding a new notebook is done directly to the team. The creation is
 quite simple -- I used the team name as part of the Notebook's name.
 Once you have created the notebook you need to parse the body for some
 important variabled.
  
-{{< image alt="image-16" src="images/image-16.png" >}}
+![image-16](images/image-16.png)
  
  
 I created the schema based on one creation body to retrieve essential
@@ -151,7 +151,7 @@ The final piece is to use this information to add OneNote as a tab to a
 channel. For this you need the notebook id, the channel id along with
 the team id.
  
-{{< image alt="image-18" src="images/image-18.png" >}}
+![image-18](images/image-18.png)
  
  
  
@@ -159,14 +159,14 @@ I got the display name directly out of parsed JSON but you can rename
 the tab better.
 And that's that.
  
-{{< image alt="image-20" src="images/image-20.png" >}}
+![image-20](images/image-20.png)
  
 Of course we could take this further by adding new sections and pages to
 the OneNote -- or even content. But even as this is now this is very
 useful when doing a custom team provisioning. If you have premium
 licenses for Power Automate.
  
-{{< image alt="image-22" src="images/image-22.png" >}}
+![image-22](images/image-22.png)
  
  
 **Instead of using Power Automate Premium this could be very well done

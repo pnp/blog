@@ -33,7 +33,7 @@ and ***msteams-react-base-component*** (React UI helpers) v3.1.0, have
 been released.    In development - MSAL 2.0 provider and preview of
 OneDrive file components in **Microsoft Graph Toolkit**.  Released new
 [Microsoft Graph Toolkit training in Microsoft
-Learn](http://aka.ms/learn-mgt), Register now for March/April trainings
+Learn](https://aka.ms/learn-mgt), Register now for March/April trainings
 on [Sharing-is-caring](https://pnp.github.io/sharing-is-caring/).   The
 host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) | @vesajuvonen.  Q&A takes place in chat throughout the
@@ -69,7 +69,7 @@ call.
     -   PnP Office Hours -- 1:1 session -
         [Register](https://outlook.office365.com/owa/calendar/PnPSharingisCaring@warner.digital/bookings/)
 -   Download the recurrent invite for this call
-    -- <http://aka.ms/m365-dev-sig>
+    -- <https://aka.ms/m365-dev-sig>
 -   [Call attention to your great work by using the
     ][#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click)
     on
@@ -84,7 +84,7 @@ call.
     Erişen.  Supporting Article - [Securely connect to Microsoft Graph
     from Teams tabs using
     SSO](https://blog.mastykarz.nl/securely-connect-microsoft-graph-teams-tabs-sso/)
-{{< image alt="CmtyPhoto.png" src="images/CmtyPhoto.png" >}}
+![CmtyPhoto.png](images/CmtyPhoto.png)
 **"Hello Community"     **
 **Demos** delivered in this session
 
@@ -167,13 +167,13 @@ slides.
     call](https://1drv.ms/p/s!AlposW7ozA_90jjI88X4mCwv3GAA?e=9BukMz)
 
 -   Microsoft Graph Toolkit in Microsoft Learn |
-    <http://aka.ms/learn-mgt> 
+    <https://aka.ms/learn-mgt> 
 
 -   Microsoft Teams Samples Gallery |
     [aka.ms/teams-samples](https://aka.ms/teams-samples)
 
 -   Documentation - [Use column formatting to customize
-    SharePoint](http://aka.ms/spdocs-column-formatting) 
+    SharePoint](https://aka.ms/spdocs-column-formatting) 
 
 -   Samples -- [SharePoint List Formatting
     Samples](http://github.com/pnp/sp-dev-list-formatting) 
@@ -215,24 +215,24 @@ slides.
 ## General resources
 
 -   [SharePoint look book](https://lookbook.microsoft.com/)
--   [Yo Teams video training package](http://aka.ms/yoteams-training)
+-   [Yo Teams video training package](https://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
     API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis/)
--   [Microsoft 365 community (PnP) videos](http://aka.ms/m365pnp-videos)
+-   [Microsoft 365 community (PnP) videos](https://aka.ms/m365pnp-videos)
     | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
--   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
+-   [yo Teams](https://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
     Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791)
--   [Developer documentation](http://aka.ms/spdev-docs) |
+-   [Developer documentation](https://aka.ms/spdev-docs) |
     <https://aka.ms/spdev-docs>
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization Partner
-    Guidance](http://aka.ms/sppnp-modernization-partnerguidance) -
+    Guidance](https://aka.ms/sppnp-modernization-partnerguidance) -
     Feedback welcome
 -   Solution - [Building a modern search experiences with SharePoint
     Framework web parts](https://aka.ms/pnp-modern-search)
@@ -287,17 +287,17 @@ General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
-Site Designs, Microsoft Flow, PowerApps, Column Formatting, list
+Site Designs, Power Automate, PowerApps, Column Formatting, list
 formatting, etc. topics. More details on the Microsoft 365 community
-from [http://aka.ms/m365pnp](http://aka.ms/sppnp). We also welcome
+from [https://aka.ms/m365pnp](https://aka.ms/sppnp). We also welcome
 community demos, if you are interested in doing a live demo in these
 calls!
-You can download recurrent invite from <http://aka.ms/m365-dev-sig>.
+You can download recurrent invite from <https://aka.ms/m365-dev-sig>.
 Welcome and join in the discussion. If you have any questions, comments,
 or feedback, feel free to provide your input as comments to this post as
 well. More details on the Microsoft 365 community and options to get
 involved are available from
-[http://aka.ms/m365pnp](http://aka.ms/sppnp).
+[https://aka.ms/m365pnp](https://aka.ms/sppnp).
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

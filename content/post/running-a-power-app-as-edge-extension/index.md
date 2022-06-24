@@ -6,7 +6,7 @@ githubname: appieschot
 categories: ["Community post"]
 images:
 - images/edge-plugin.gif
-tags: []
+tags: ["Power Apps"]
 type: "regular"
 ---
 
@@ -17,7 +17,7 @@ suffer from the not invented here syndrome and want to build something
 myself...
 The final result will look as follows: 
 
-{{< image alt="edge-plugin.gif" src="images/edge-plugin.gif" >}}
+![edge-plugin.gif](images/edge-plugin.gif)
 There are three building blocks that make up the logic: 
 
 1.  Edge Extension
@@ -167,7 +167,7 @@ URL we can use those in the Flow as input parameters for our action
 using the following
 expression: `@{triggerBody()['Addato-do(V3)_Title']}`. The full flow
 looks like this:
-{{< image alt="flow-todo.png" src="images/flow-todo.png" >}}
+![flow-todo.png](images/flow-todo.png)
 
 ## Fusion Development 
 

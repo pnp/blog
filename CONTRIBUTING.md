@@ -1,23 +1,25 @@
 # Contributing guidelines
 
+These are detailed instructions on how to contribute. If you are already familiar with GitHub, follow this [high-level instructions](content\post\how-to-contribute-to-this-blog\index.md).
+
 We love to have your contributions! To author a blog post, follow these steps:
 
 1. Register for a [GitHub](https://github.com) account in case you don't already have one - it's free!
-2. Install Git for Windows (if you work on a macOS, download Git for macOs). To continue with Windows,
+1. Install Git for Windows (if you work on a macOS, download Git for macOs). To continue with Windows,
 
    * Open [Git for Windows](https://git-scm.com/download/win)
    * Download the latest version (64-bit or 32-bit).
    * Optional: If you are not sure what you need, you can check it:
-       * Press WIN key and type about
-       * Select about your PC, it shows you the System type in the device specifications
+       * Press WIN key and type `about`
+       * Select **about your PC**, it shows you the **System type** in the device specifications
    * Open the downloaded file
    * Confirm the User Account Control window by selecting **Yes**
    * In the Git Setup window, select **Next** for 6 times, Git will now extract the files
    * Select **Finish**
 
-3. Install [Visual Studio Code](https://code.visualstudio.com/)
+1. Install [Visual Studio Code](https://code.visualstudio.com/)
 
-4. Create a Git (not GitHub) account
+1. Create a Git (not GitHub) account
 
    * Open the terminal in Visual Studio Code
    * Type `git --version` in a directory of your choice - you should see the version of Git that you downloaded. If you see an error, close and reopen VS Code and try again.
@@ -26,15 +28,15 @@ We love to have your contributions! To author a blog post, follow these steps:
    * Set your email address with 
    `git config --global user.email "<your-email-here>"`- replace the `<placeholder>` with the real values (your email address should match the one with which you signed up for your GitHub account)
 
-5.  Fork this repository to create a copy in your GitHub account:
+1.  Fork this repository to create a copy in your GitHub account:
 
     * Open [pnp/blog/](https://github.com/pnp/blog/) (this repository)
     * Select **Fork** --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/blog/`
 
-6. Clone the repository
+
+1. Clone the repository
 
 Now you want to clone the repository so you have it locally available:
-
 ![fork repository](blog/assets/GitHub-forkclone.png)
 
 * Select **Code**
@@ -43,26 +45,31 @@ Now you want to clone the repository so you have it locally available:
 * Navigate to a directory where you want to clone the repository
 * Type `git clone <COPIED URL HERE>`
 
-7. Add Upstream
-
-You will now want to make sure, that all your contributions point to the original repository, which is why you want to add an upstream to it:
-
-* Navigate to the folder where your cloned repository is located with `cd blog`
-* type `git remote add upstream https://github.com/pnp/blog` (this needs to be the original repository URL)
-* to check if everything works correctly, type `git remote -v`, you should see this output:
-
-```powershell
-origin  https://github.com/<YOUR ACCOUNT HERE>/blog.git (fetch)
-origin  https://github.com/<YOUR ACCOUNT HERE>/blog.git (push)
-upstream https://github.com/pnp/blog (fetch)
-upstream https://github.com/pnp/blog (push)
-```
-
-8. Write your blog post
+7. Write your blog post
 
 * type `code .` in VSCode terminal (yes, there is a space (` `) between `code` and the `.`) to open your project in a new VS Code instance
-* in the **blog/content/posts** folder, create your own folder (you may use the title of your post as the name of the folder, use `-` instead of ` `)
+* in the **content/post** folder, create your own folder (you may use the title of your post as the name of the folder, use `-` instead of ` `)
 * in the newly created folder add an `index.md` file with your post.
+* insert metadata at the top if this file and adjust with your values
+  
+```yaml
+---
+title: "this is the title of your blog post"
+date: 2022-04-25T08:40:00-04:00
+author: "your Name"
+githubname: yourGitHubUserName
+# don't change
+categories: ["Community post"]
+# link to the thumbnail image for the post
+images:
+- images/myImage.png
+# don't change
+tags: []
+# don't change
+type: "regular"
+---
+```
+
 * create a new folder **images** in your posts folder. In the images folder you may save any image/graphic which may be used in your article
 * upload all images for your article in this folder
 * in case you need some help on how markdown works, please see this article:
@@ -71,7 +78,7 @@ upstream https://github.com/pnp/blog (push)
 
 We also put together some information about markdown and how to use it in our [Wiki](https://github.com/pnp/blog/wiki/Microsoft-365-blog-Markdown-reference)
 
-9. Commit and push your changes to your fork
+8. Commit and push your changes to your fork
 
 Whenever you want to upload your changes to your remote fork:
 
@@ -79,7 +86,7 @@ Whenever you want to upload your changes to your remote fork:
 * type `git commit -m "YOUR COMMIT MESSAGE"` - this will commit your changes with the messages
 * type `git push` to push the changes to your remote fork
 
-10. Pull request
+9. Pull request
 
 You will now want to (kindly) ask the repository maintainers to pull in your changes. You do that with a pull request:
 
@@ -104,7 +111,7 @@ You will now want to (kindly) ask the repository maintainers to pull in your cha
 * Select **Create pull request**
 * If needed, you can commit more files and changes
 
-A maintainer will review your pull request and merge your changes soon so that your blog appears on the [Microsoft 365 Community blog](https://pnp.github.io/blog/).
+A maintainer will review your pull request and merge your changes soon so that your blog appears on the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/).
 
 This repository is maintained by volunteers in their free time, please be kind. Everyone is doing their best to keep things moving forward.
 

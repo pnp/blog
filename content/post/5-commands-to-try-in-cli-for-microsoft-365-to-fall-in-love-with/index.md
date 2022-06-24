@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/list-pa.png
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 
@@ -51,7 +51,7 @@ Run `m365 pa app list`
 which will get you exactly that list - with internal names and display
 names:
 
-{{< image alt="list-pa.png" src="images/list-pa.png" >}}
+![list-pa.png](images/list-pa.png)
 
 ## Get an overview of custom connectors in an environment
 
@@ -69,7 +69,7 @@ App running in this environment, or you can copy it
 from [portal.azure.com](https://portal.azure.com/), where you will find
 it in Azure Active Directory as **Tenant ID**.
 
-{{< image alt="url-powerapps.png" src="images/url-powerapps.png" >}}
+![url-powerapps.png](images/url-powerapps.png)
 
 -   Copy this Tenant ID
 -   Replace `<name of your default environment>` with this Tenant ID
@@ -86,7 +86,7 @@ want to query.
 
 The response will be something like this:
 
-{{< image alt="list-spo-users.png" src="images/list-spo-users.png" >}}
+![list-spo-users.png](images/list-spo-users.png)
 
 ## Get a list of external users
 
@@ -97,7 +97,7 @@ created. You can also obtain the ID of users.
 
 Run `m365 spo externaluser list`,
 
-{{< image alt="list-external.png" src="images/list-external.png" >}}
+![list-external.png](images/list-external.png)
 
 ## remove users
 

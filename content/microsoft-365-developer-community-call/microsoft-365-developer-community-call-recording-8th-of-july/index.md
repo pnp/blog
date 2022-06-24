@@ -78,7 +78,7 @@ throughout the call.
     -   PnP Buddy System - [Request a
         Buddy](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUMjRRUVg4NElZUUJLTEY1TVVSVDJFRFpLRS4u)
 -   Download the recurrent invite for this call
-    -- <http://aka.ms/m365-dev-sig>
+    -- <https://aka.ms/m365-dev-sig>
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
@@ -88,7 +88,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 -   **[ReporterPlus -- Teams Device Capabilities
     Application](https://github.com/pnp/teams-dev-samples/tree/main/samples/app-ReporterPlus)
     -** Sathya Raveendran (Microsoft) and Veera Venkata Sai Pothan Thota
-{{< image alt="PictureTimeGIF-8JUly2021-2Sec-30FPS.gif" src="images/PictureTimeGIF-8JUly2021-2Sec-30FPS.gif" >}}
+![PictureTimeGIF-8JUly2021-2Sec-30FPS.gif](images/PictureTimeGIF-8JUly2021-2Sec-30FPS.gif)
 Thank you for making time in your Summer time schedule to join us for
 today's PnP Community call.   You're awesome!   
 
@@ -212,28 +212,28 @@ slides.
     hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
     aka.ms/m365pnp/community 
 -   Microsoft Graph Toolkit in Microsoft Learn
-    | <http://aka.ms/learn-mgt>
+    | <https://aka.ms/learn-mgt>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   [SharePoint look
     book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
--   [Yo Teams video training package](http://aka.ms/yoteams-training)
+-   [Yo Teams video training package](https://aka.ms/yoteams-training)
 -   [.NET Standard 2.0 version of SharePoint Online CSOM
     API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
+    videos](https://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
--   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
+-   [yo Teams](https://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
     Wilén](https://twitter.com/wictor) (Avanade)| @wictor
 -   [Build a crisis management site to connect people and
     information](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/build-a-crisis-management-site-to-connect-people-and-information/ba-p/1216791?WT.mc_id=m365-24198-cxa)
 -   [Developer
-    documentation](http://aka.ms/spdev-docs) | <https://aka.ms/spdev-docs>
+    documentation](https://aka.ms/spdev-docs) | <https://aka.ms/spdev-docs>
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 -   [SharePoint Modernization Partner
-    Guidance](http://aka.ms/sppnp-modernization-partnerguidance) -
+    Guidance](https://aka.ms/sppnp-modernization-partnerguidance) -
     Feedback welcome
 -   Solution - [Building a modern search experiences with SharePoint
     Framework web parts](https://aka.ms/pnp-modern-search)
@@ -277,17 +277,17 @@ General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
-Site Designs, Microsoft Flow, PowerApps, Column Formatting, list
+Site Designs, Power Automate, PowerApps, Column Formatting, list
 formatting, etc. topics. More details on the Microsoft 365 community
-from [http://aka.ms/m365pnp](http://aka.ms/sppnp). We also welcome
+from [https://aka.ms/m365pnp](https://aka.ms/sppnp). We also welcome
 community demos, if you are interested in doing a live demo in these
 calls!
-You can download recurrent invite from <http://aka.ms/m365-dev-sig>.
+You can download recurrent invite from <https://aka.ms/m365-dev-sig>.
 Welcome and join in the discussion. If you have any questions, comments,
 or feedback, feel free to provide your input as comments to this post as
 well. More details on the Microsoft 365 community and options to get
 involved are available
-from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
+from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

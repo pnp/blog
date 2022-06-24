@@ -5,8 +5,8 @@ author: "Albert-Jan Schot"
 githubname: appieschot
 categories: ["CLI for Microsoft 365"]
 images:
-
-tags: []
+- images/2021-07-29_17-51-58.png
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 
@@ -111,7 +111,7 @@ CLI to send information to this webhook.  If you follow that walkthrough
 and perhaps set a fancy logo you will end up with the URL you need and a
 welcome post that looks something like the following: 
 
-{{< image alt="social-webhook.png" src="images/social-webhook.png" >}}
+![social-webhook.png](images/social-webhook.png)
 
 ## Sharing your data 
 
@@ -139,7 +139,7 @@ m365 adaptivecard send --url $webhookUrl --card $card
 ```
  
 Executed the result will look as follows:  
-{{< image alt="2021-07-29_17-51-58.png" src="images/2021-07-29_17-51-58.png" >}}
+![2021-07-29_17-51-58.png](images/2021-07-29_17-51-58.png)
 
 
 You can find this sample, and many more samples at the [CLI for

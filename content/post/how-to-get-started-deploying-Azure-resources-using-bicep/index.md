@@ -179,7 +179,7 @@ Sometimes when decompiling, we don't get the right API version - in this case we
 
 Now let's deploy this to Azure! Again, we will be using Azure CLI
 
-```Bicep
+```ps1
 $DeployTimestamp = (Get-Date).ToUniversalTime().ToString("yyyyMMdTHmZ")
 az deployment group create `
     --name "DeployLinkedTemplate-$DeployTimestamp" `
