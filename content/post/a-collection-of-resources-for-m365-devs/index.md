@@ -6,7 +6,7 @@ githubname: eli-schei
 categories: ["Community post"]
 images:
 - images/image.jpg
-tags: ["Azure"]
+tags: ["Microsoft 365"]
 type: "regular"
 canonicalURL: "https://elischei.com/a-collection-of-resources-for-microsoft-365-developers/"
 ---
