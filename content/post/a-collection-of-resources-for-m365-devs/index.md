@@ -91,7 +91,7 @@ Keep up to date with what is moving in the community by listening to podcasts
 
 **Tools**
 
-* [Graph explorer](http://%28https//developer.microsoft.com/en-us/graph/graph-explorer)
+* [Graph explorer](https//developer.microsoft.com/en-us/graph/graph-explorer)
 * [Discover the Microsoft Graph toolkit](https://www.youtube.com/watch?v=HdQlVv3Wekk) (youtube video)
 * [Microsoft graph toolkit](https://docs.microsoft.com/en-us/graph/toolkit/overview) (Microsoft docs)
 
