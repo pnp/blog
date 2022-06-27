@@ -1,6 +1,6 @@
 ---
 title: "A collection of resources for Microsoft 365 developers"
-date: 2022-06-23T03:43:00-04:00
+date: 2022-06-26T03:43:00-04:00
 author: "Eli Schei"
 githubname: eli-schei
 categories: ["Community post"]
@@ -10,13 +10,14 @@ tags: ["Microsoft 365"]
 type: "regular"
 canonicalURL: "https://elischei.com/a-collection-of-resources-for-microsoft-365-developers/"
 ---
-Being a Microsoft 365 developer can mean a lot of things. Backend, frontend, low-code, nocode. Teams, SharePoint, PowerApps, Office… and so on. And it can be hard to navigate the ocean of good resources for Microsoft 365 developers on each of these topics. Thats why I have been collecting resources for a while now, and I thought it was about time I share it with you!
+
+Being a Microsoft 365 developer can mean a lot of things. Backend, frontend, low-code, nocode. Teams, SharePoint, Power Apps, Office… and so on. And it can be hard to navigate the ocean of good resources for Microsoft 365 developers on each of these topics. Thats why I have been collecting resources for a while now, and I thought it was about time I share them with you!
 
 This collection lists the resources I myself have found usefull in my day to day work. I have not worked with every different type of “M365 development” so some sections might be lacking, and some won’t be here at all.
 
 And I’m sure there are a lot of other good resources out there too that I have never had the pleasure of stumbeling upon, so please drop a comment below if you have some you’d like to share!
 
-> Some resources may appear multiple times if it is relevant in different categories.
+> Some resources may appear multiple times if they are relevant in different categories.
 
 ### Common resources for Microsoft 365 developers
 
@@ -138,5 +139,6 @@ Tip, you can use [SPfx to develop Teams apps](https://docs.microsoft.com/en-us/m
 
 ---
 
-### Do you know of any other resources that should be on this list? 
-Leave a comment below, or fork this blogs gitbub repo and add them yourself (Here is the [guidence on how to contribute](https://pnp.github.io/blog/post/contribute-blog/))
+### Do you know of any other resources that should be on this list?
+
+Leave a comment below, or fork this blogs gitbub repo and add them yourself (Here is the [guidance on how to contribute](https://pnp.github.io/blog/post/contribute-blog/))
