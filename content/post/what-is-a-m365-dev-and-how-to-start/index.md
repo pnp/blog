@@ -57,7 +57,7 @@ Power apps is itself a tool for creating apps. It provides an easy no-code/low-c
 Power automate is a service to help you create workflows. This is also a low-code solution where you can drag and drop different steps together to create your flow. This is an easy way to get the different parts of M365 talking together.
 
 ### Office
-Most people use the office suite and never conciders that it can be extended with add-ins. An O[ffice add-in is almost like a miniature webapp that embedded in the office clients](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/learning-path-beginner).
+Most people use the office suite and never conciders that it can be extended with add-ins. An [Office add-in is almost like a miniature webapp that embedded in the office clients](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/learning-path-beginner).
 
 ### Azure
 Ok, so Azure is strictly speaking not a part of Microsoft 365, but as a Microsoft 365 developer you should still be familiar with some parts of it. The most important part (from a M365 developer perspective) is [Azure App registrations](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app) which we use to grant the apps/extensions access to resources. Azure functions are also very useful, but in my personal definition of M365 Development I don’t consider Azure Functions part of it so I won’t cover that here.
@@ -66,9 +66,9 @@ Ok, so Azure is strictly speaking not a part of Microsoft 365, but as a Microsof
 Another tool you should know about if you want to get started with Microsoft 365 Development is [Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview). This is an API that you can use to get information from different parts of M365. This can be current user, documents, list elements and so on. You can also use it to edit/add information, [upload files](https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/) ++.
 
 ## How to get started as a Microsoft 365 developer?
-First you should sign up for the Microsoft 365 Developer program. It is free and it will give you access to your own M365 developer tenant that you can use to test the apps/extensions that you build.
+First you should [sign up for the Microsoft 365 Developer program](https://developer.microsoft.com/en-us/microsoft-365/dev-program). It is free and it will give you access to your own M365 developer tenant that you can use to test the apps/extensions that you build.
 
-When working with Power Apps you also need to get the Power Apps developer plan  (this is also free).
+When working with Power Apps you also [need to get the Power Apps developer plan](https://powerapps.microsoft.com/en-us/developerplan/) (this is also free).
 
 And from there – start by following some guides/tutorials and just jump into it. I’ve added a lot of links to different resources in the previous sections, but I’ll also add a list of links in the end of this blogpost.
 
@@ -78,13 +78,11 @@ A lot of the M365 developer toolkits are offered for both .NET and JavaScript/Ty
 In my experience a lot of the M365 development are now client-side focused, and you can almost always find an example on how to do something in JavaScript/TypeScript. But since I’m a frontend developer I haven’t really looked for that many backend resources – so there might be many out there. I can only speak from my own experience and I will always choose TypeScript (or JavaScript) if I can – but I know enough C#/.NET to do small simple things if I absolutely have to. And that combination of skills works great for me.
 
 ## Resources
-I’ve previusly written a blogpost “A collection of resources for Microsoft 365 Developers” so take a look at that too. But here are some good resources if you are completely new to this area of development.
+I’ve previusly written a blogpost “[A collection of resources for Microsoft 365 Developers](https://pnp.github.io/blog/post/a-collection-of-resources-for-m365-devs/)” so take a look at that too. But here are some good resources if you are completely new to this area of development.
 
-* Introduction to the Microsoft 365 Developer program (youtube video)
-* Microsoft 365 Developer program
-* Extend Microsoft 365 – Fundamental (Microsoft Learn module)
-* Introduction to SharePoint Framwork (Microsoft docs)
-* Get started building Microsoft Teams apps (youtube course)
-* My previous blogposts about Teams development
-* My previous blogposts about SharePoint development
-* A comprehensive guide to PCF components
+* [Introduction to the Microsoft 365 Developer program](https://www.youtube.com/watch?v=2JWUr6zBtwg) (youtube video)
+* [Microsoft 365 Developer program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
+* [Extend Microsoft 365 – Fundamental](https://docs.microsoft.com/en-gb/learn/paths/m365-extend-fundamental/) (Microsoft Learn module)
+* [Introduction to SharePoint Framwork](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview) (Microsoft docs)
+* [Get started building Microsoft Teams apps](https://www.youtube.com/watch?v=EQuB8l4sccg&list=PLWZJrkeLOrbblzC_s22pIBOotBV66erf-) (youtube course)
+* [A comprehensive guide to PCF components](https://elischei.com/a-comprehensive-guide-to-power-apps-component-framework-pcf-part-1-getting-started/)
