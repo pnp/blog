@@ -34,6 +34,9 @@ a{
   &:focus{
     border: 1px solid var(--theme-hyperlink);
   }
+  &.btn, &.btn-outline-primary{
+    text-decoration: none;
+  }
 }
 .widget-list, .widget-list-inline{
   a{
