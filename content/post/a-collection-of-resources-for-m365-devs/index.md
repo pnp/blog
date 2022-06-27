@@ -139,4 +139,4 @@ Tip, you can use [SPfx to develop Teams apps](https://docs.microsoft.com/en-us/m
 ---
 
 ### Do you know of any other resources that should be on this list? 
-Leave a comment below, or fork this blogs gitbub repo and add them yourself (Here is the[ guidence on how to contribute](https://pnp.github.io/blog/post/contribute-blog/))
+Leave a comment below, or fork this blogs gitbub repo and add them yourself (Here is the [guidence on how to contribute](https://pnp.github.io/blog/post/contribute-blog/))
