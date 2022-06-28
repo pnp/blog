@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Colorado, US based Architect, Developer and MVP at DMI - [Beau Cameron](https://twitter.com/Beau__Cameron) \| @Beau__Cameron. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Colorado, US based Architect, Developer and MVP at DMI - [Beau Cameron](https://twitter.com/Beau__Cameron) \| @Beau__Cameron.
 
 ## Topics discussed in this session
 
