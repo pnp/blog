@@ -1,38 +1,47 @@
 ---
-title: "Microsoft 365 PnP Weekly - Episode 171"
-summary: "Teams/Power Apps Consultant, MVP - Edyta Gorzon (Valo Solutions), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss technology adoption, vision re-engineering, tips for anyone curious about a career in technology plus latest 24 articles/videos from Microsoft/Community this week."
-date: 2022-06-21T04:00:01-00:00
+title: "Microsoft 365 PnP Weekly - Episode 172"
+summary: "Architect, Developer, MVP - Beau Cameron (DMI), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss transitioning from SharePoint on-prem to SPO, living in mountain isolation, why use SPFx plus latest 16 articles/videos from Microsoft/Community this week."
+date: 2022-06-28T04:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-171-promo.png
+- images/pnp-weekly-172-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=e3jaNb2pV9s
-draft: true
+- https://www.youtube.com/watch?v=fpkhxsG_b6M
+draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Germany based Teams/Power Apps Consultant, Partner Manager, MVP at Valo Solutions - [Edyta Gorzon](https://twitter.com/EdytaGorzon) \| @EdytaGorzon. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Colorado, US based Architect, Developer and MVP at DMI - [Beau Cameron](https://twitter.com/Beau__Cameron) \| @Beau__Cameron. 
 
 ## Topics discussed in this session
 
-* item
-* item
-* item
-* item
-* item
+* Thoughts on using SharePoint Framework (SPFx) including the clear advantage of being able to easily tap into Microsoft 365 and Microsoft Azure resources.
+* Tips to developers on transitioning from SharePoint on-premises to SPO and SPFx.
+* SPFx and development platform options - Windows, macOS, iOS, Linux
+* Thoughts on moving from the big city to relative isolation in the Colorado Rocky Mountains – there is great community, but no pizza delivery.
+* The many reasons for getting involved in PnP Community.
+* Consider these three forums for keeping up with the latest technology developments:
+    * <https://reddit.com/r/sharepoint/>
+    * <https://discord.gg/7FqFA9rQzR>
+    * <https://www.facebook.com/groups/2226513806>
 
-Also, we showcased 12 articles/videos published by Microsoft and the PnP Community in the last week.  
+Also, we showcased 16 articles/videos published by Microsoft and the PnP Community in the last week. 
+
+## This week
+
+* **Waldek** – planning and business as usual – recording, building code, creating content and helping people build on Microsoft 365.
+* **Vesa** – shipped SPFx v1.15 last week, now closing on actions, planning, and catching up before personal holiday.
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Friday, June 17, 2022.
+This session was recorded on Monday, June 27, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube e3jaNb2pV9s >}}
+    {{< youtube fpkhxsG_b6M >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-axtx9-1255b1a >}}
+    {{< podbean pb-itk6r-125e65b >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -42,7 +51,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [Microsoft Loop components: Extending capabilities in Microsoft Teams and Outlook](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-loop-components-extending-capabilities-in-microsoft/ba-p/3530785) - Tricia Van Hollebeke (Microsoft)
 * [Privacy changes and API support for Microsoft 365 usage reports – Rolling out starting June 23](https://techcommunity.microsoft.com/t5/microsoft-365-blog/privacy-changes-and-api-support-for-microsoft-365-usage-reports/ba-p/3535694) - James Bell (Microsoft)
-* [New site template updates: new templates and the template history panel](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/new-site-template-updates-new-templates-and-the-template-history/ba-p/3517769) - [Nicole Woon](https://twitter.com/NovelNicole) (Micorosft) | @NovelNicole
+* [New site template updates: new templates and the template history panel](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/new-site-template-updates-new-templates-and-the-template-history/ba-p/3517769) - [Nicole Woon](https://twitter.com/NovelNicole) (Microsoft) | @NovelNicole
 * [Power platform Developer tools May Refresh](https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-may-refresh/) - Kartik Kanakasabesan (Microsoft)
 * [Announcing SharePoint Framework 1.15 – with updates for Viva Connections, Microsoft Teams and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-15-with-updates-for-viva-connections-microsoft-teams-and-sharepoint/) - Microsoft
 
