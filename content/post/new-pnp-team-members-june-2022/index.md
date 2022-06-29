@@ -8,7 +8,7 @@ images:
 - images/new-pnp-team-members-anoop-fabio.png
 tags: []
 type: "regular"
-draft: true
+draft: false
 ---
 
 We are excited to announce that we are again extending our virtual [Microsoft 365 Platform Community (PnP) team](https://aka.ms/m365/community) with additional community members. PnP team is responsible of the different Microsoft 365 Platform Community activities in different community channels, including our open-source work in the GitHub. This team consist of Microsoft employees and community members (MVPs) focused on helping the community the best use of Microsoft products, like Microsoft Teams, Microsoft Viva, Power Platform, OneDrive, SharePoint or API layer like Microsoft Graph.
