@@ -47,7 +47,7 @@ The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Micro
 ## Agenda items
 
 * Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [8:44](https://youtu.be/DIITgN5u8gA?t=524)
-* Demo - Taking advantage of the Microsoft Graph Postman collections - [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) \| @Rabeb_Othmani (Microsoft) – [11:57](https://youtu.be/DIITgN5u8gA?t=717)
+* Demo - Taking advantage of the Microsoft Graph Postman collections - [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) \| @Rabeb_Othmani – [11:57](https://youtu.be/DIITgN5u8gA?t=717)
 * Demo - Introduction on the Microsoft Viva Learning extensibility - Divyanka Malik (Microsoft) – [28:18](https://youtu.be/DIITgN5u8gA?t=1698)
 * Demo - Introduction to Virtual Appointment Microsoft Graph API - Ben Olson (Microsoft) – [39:50](https://youtu.be/DIITgN5u8gA?t=2390)
 
