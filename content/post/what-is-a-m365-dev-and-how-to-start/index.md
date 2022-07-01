@@ -1,6 +1,6 @@
 ---
 title: "What is a Microsoft 365 Developer, and how to get started"
-date: 2022-06-27T03:43:00-04:00
+date: 2022-06-30T03:43:00-04:00
 author: "Eli Schei"
 githubname: eli-schei
 categories: ["Community post"]
