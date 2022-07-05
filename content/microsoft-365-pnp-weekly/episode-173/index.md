@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=2JBtVXDGJDg
 draft: false
 ---
-
+ 
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Cloud Developer Advocate at Microsoft - [Garry Trinder](https://twitter.com/garrytrinder) \| @garrytrinder.
 
 ## Topics discussed in this session
