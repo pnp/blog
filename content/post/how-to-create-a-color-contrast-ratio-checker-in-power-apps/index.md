@@ -65,7 +65,7 @@ Let's first understand what needs to happen so that we can implement this in our
 
 The brightness difference is calculated as `(299*R_pc + 587*G_pc + 114*B_pc)/1000 - (299*R_bg + 587*G_bg + 114*B_bg)/1000`, where as `R` , `G`, `B` stands for Red, Green, Blue and `_pc` stand for primaryColor and `_bg` stands for BackgroundColor. The result of this calculation needs to be a number > 125.
 
-In our app we will therefore calculate the brightness difference with  `(299*sli_Blue.Value + 587*sli_Green.Value + 114*sli_Blue.Value)/1000 - (299*sli_Red_1.Value + 587*sli_Green_1.Value + sli_Blue_1.Value*237)/1000`
+In our app we will therefore calculate the brightness difference with  `(299*sli_Red.Value + 587*sli_Green.Value + 114*sli_Blue.Value)/1000 - (299*sli_Red_1.Value + 587*sli_Green_1.Value + sli_Blue_1.Value*237)/10
 
 The color difference is calculated as `-((R_pc - R_bg) + (G_pc - G_bg + (B_pc - B_bg))`. The result of this calculation needs to be a number > 500.
 
