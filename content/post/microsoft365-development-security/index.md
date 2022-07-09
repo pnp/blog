@@ -11,11 +11,11 @@ type: "regular"
 summary: "This article will typical SharePoint and Microsoft 365 development security patterns. Those patterns can be applied especially in so-called ZeroTrust environments, too, and are linked to step-by-step implementation guidances."
 ---
 
-Although the "good all days" are over where you could implement nearly everything with full trust solutions there are still lots of SharePoint and M365 development capabilities that need to be considered closely in terms of security. Especially in large enterprises more and more so-called ZeroTrust strategies are implemented. What this means especially for a modern SharePoint and Microsoft 365 developer I’m gonna show in this post with some examples. Every given example is linked to a step-by-step implementation guidance.
+Although the _"good old days"_ are over where you could implement nearly everything with full trust solutions there are still lots of SharePoint and M365 development capabilities that need to be considered closely in terms of security. Especially in large enterprises more and more so-called ZeroTrust strategies are implemented. What this means especially for a modern SharePoint and Microsoft 365 developer I’m gonna show in this post with some examples. Every given example is linked to a step-by-step implementation guidance.
 
 ## Authentication
 
-Authentication normally is not a big deal inside SharePoint Framework applications as this comes out of the box. Nevertheless in specific scenarios there still might occur security or functionality issues. Together with 3rd-party API access [ANCHOR LINK]  there is a need to generate additional access tokens. In SharePoint add-in model those tokens were generated ACS based. That should not be done anymore. But also with the modern SharePoint framework clients MSGraphClient or AadHttpClient there might be issues. One problem is that more and more browsers by default disable third-party cookies. This should be handled by MSAL.js 2.0 with the Authorization Code Flow with Proof Key for Code Exchange (PKCE). Unfortunately we still face issues when using SPFx directly. [Implementation of MSAL.js 2.0 into SPFx solutions](https://mmsharepoint.wordpress.com/2020/08/15/using-msal-js-2-0-in-sharepoint-framework-spfx/) can help to solve this. Especially in SPA like solutions this works great while having many webparts on the same page using that technique in a portal-style lead to concurrency challenges while the token needs to be generated and you have to deal with.
+Authentication normally is not a big deal inside SharePoint Framework applications as this comes out of the box. Nevertheless in specific scenarios there still might occur security or functionality issues. Together with [3rd-party API access](#spfx-3rd-party-api-and-issues) there is a need to generate additional access tokens. In SharePoint add-in model those tokens were generated ACS based. That should not be done anymore. But also with the modern SharePoint framework clients MSGraphClient or AadHttpClient there might be issues. One problem is that more and more browsers by default disable third-party cookies. This should be handled by MSAL.js 2.0 with the Authorization Code Flow with Proof Key for Code Exchange (PKCE). Unfortunately we still face issues when using SPFx directly. [Implementation of MSAL.js 2.0 into SPFx solutions](https://mmsharepoint.wordpress.com/2020/08/15/using-msal-js-2-0-in-sharepoint-framework-spfx/) can help to solve this. Especially in SPA like solutions this works great while having many webparts on the same page using that technique in a portal-style lead to concurrency challenges while the token needs to be generated and you have to deal with.
 
 If there is a need to generate an access token for Sharpoint rest API outside an SPFx solution you can try [SSO with on-behalf flow](https://mmsharepoint.wordpress.com/2021/06/22/use-sharepoint-rest-api-in-microsoft-teams-with-sso-and-on-behalf-flow/) if possible or [generate your OAuth2.0 access token manually](https://mmsharepoint.wordpress.com/2021/12/04/testing-an-azure-function-using-delegated-access-with-postman/).
 
@@ -31,7 +31,7 @@ public static async Task<IActionResult> Run(
     ...
 ```
 
-Is okay but together with
+is okay but together with
 
 ![](images/03azfuncauthsettings.jpg)
 
@@ -40,7 +40,7 @@ Is okay but together with
 ![](images/05editazfuncidentityproviderapp.jpg)
 
 ## SPFx 3rd-party Api and issues
-SPFx solutions normally run in user context. Client-side this cannot be changed. But on behalf of 3rd-party Api access the “good old pattern“ of using elevated privileges can still be implemented. To be strict they should be prevented whenever possible. If a user is not allowed to do something the user should not be able to do it. As simple as that.
+SPFx solutions normally run in user context. Client-side this cannot be changed. But on behalf of 3rd-party Api access the _“good old pattern“_ of using _elevated privileges_ can still be implemented. To be strict they should be prevented whenever possible. If a user is not allowed to do something the user should not be able to do it. As simple as that.
 
 For 3rd-party Api access SPFx offers two clients: MSGraphClient and AadHttpClient. While the former one is easier to handle it has one big disadvantage. It deals with one public enterprise application which [grants permission tenant-wide](https://www.wictorwilen.se/blog/sharepoint-framework-and-microsoft-graph-access-convenient-but-be-very-careful/) and not application or webpart specific. Furthermore in typical ZeroTrust implementations those "public" enterprise applications are disabled first by conditional access policies!
 
@@ -66,8 +66,6 @@ Dealing with sensitive information of course always is a potential security risk
 
 ## Summary
 
-I hope you enjoyed this post and found some helpful patterns. Of course this topic is not finally covered. The opposite is true, it will always be subject to change. This is because security always is a moving target. 
+I hope you enjoyed this post and found some helpful patterns. Of course this topic is not finally covered. The opposite is true, it will always be subject to change. This is because security always is a moving target. So might be this post.
 
-<iframe src="https://giphy.com/embed/3o6Zt254fdn49fZo9a" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/br-oktoberfest-wiesn-muenchen-3o6Zt254fdn49fZo9a">via GIPHY</a></p>
-
-Feel free to leave a comment here or in the related blog post or directly reach out to me on [Twitter](https://twitter.com/moeller2_0/)
+To help moving forward feel free to leave a comment here or in the referenced blog posts or directly reach out to me on [Twitter](https://twitter.com/moeller2_0/)
