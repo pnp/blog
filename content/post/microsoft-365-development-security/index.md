@@ -1,6 +1,6 @@
 ---
 title: "M365 Development Security - From full trust to ZeroTrust"
-date: 2022-07-04T03:54:00-04:00
+date: 2022-07-09T03:54:00-04:00
 author: "Markus Moeller"
 githubname: msharepoint
 categories: ["Community post"]
@@ -17,7 +17,7 @@ Although the _"good old days"_ are over where you could implement nearly everyth
 
 Authentication normally is not a big deal inside SharePoint Framework applications as this comes out of the box. Nevertheless in specific scenarios there still might occur security or functionality issues. Together with [3rd-party API access](#spfx-3rd-party-api-and-issues) there is a need to generate additional access tokens. In SharePoint add-in model those tokens were generated ACS based. That should not be done anymore. But also with the modern SharePoint framework clients MSGraphClient or AadHttpClient there might be issues. One problem is that more and more browsers by default disable third-party cookies. This should be handled by MSAL.js 2.0 with the Authorization Code Flow with Proof Key for Code Exchange (PKCE). Unfortunately we still face issues when using SPFx directly. [Implementation of MSAL.js 2.0 into SPFx solutions](https://mmsharepoint.wordpress.com/2020/08/15/using-msal-js-2-0-in-sharepoint-framework-spfx/) can help to solve this. Especially in SPA like solutions this works great while having many webparts on the same page using that technique in a portal-style lead to concurrency challenges while the token needs to be generated and you have to deal with.
 
-If there is a need to generate an access token for Sharpoint rest API outside an SPFx solution you can try [SSO with on-behalf flow](https://mmsharepoint.wordpress.com/2021/06/22/use-sharepoint-rest-api-in-microsoft-teams-with-sso-and-on-behalf-flow/) if possible or [generate your OAuth2.0 access token manually](https://mmsharepoint.wordpress.com/2021/12/04/testing-an-azure-function-using-delegated-access-with-postman/).
+If there is a need to generate an access token for SharePoint rest API outside an SPFx solution you can try [SSO with on-behalf flow](https://mmsharepoint.wordpress.com/2021/06/22/use-sharepoint-rest-api-in-microsoft-teams-with-sso-and-on-behalf-flow/) if possible or [generate your OAuth2.0 access token manually](https://mmsharepoint.wordpress.com/2021/12/04/testing-an-azure-function-using-delegated-access-with-postman/).
 
 ### No anonymous access 
 When implementing backend services in Azure Functions for instance always require authentication. Best with [adding Microsoft as identity provider](https://mmsharepoint.wordpress.com/2022/06/04/fluidframework-and-azure-fluid-relay-service/#userauth) if not further restrict by Azure AD groups [as described below](#secure-user-specific)
@@ -52,7 +52,7 @@ Client-side makes sense to disable or hide functionality in the UI immediately w
 
 ## Avoid app permissions
 
-To be precisely and clear: Always prefer to use delegated access and delegated permissions. Permissions always are applied non-resource specific. This means what you can do with one site you can do with every site. No user specific access to specific resources is possible that way. In the past there was the option to authenticate with ACS site-scoped which is not recommended anymore. For instance this is not centrally managed in Azure AD where you could apply conditional access policies as an example from a typical ZeroTrust scenario. A new option is the so called [resource specific consent (RSC)](https://mmsharepoint.wordpress.com/2021/08/18/accessing-sharepoint-sites-with-resource-specific-consent-rsc-and-microsoft-graph/). This is not SharePoint specific as for instance it also works with Teams. This is a big advantage over the old site-scoped ACS approach. One disadvantage is, this approach still requires a high privileged app permission needed at least for setup. So if your organization does not allow app permissions at all you need really good arguments for this approach. A request “Sites.FullControl.All” app permission is a bit like requesting a bazooka...
+To be precisely and clear: Always prefer to use delegated access and delegated permissions. App permissions always are applied non-resource specific. This means what you can do with one site you can do with every site. No user specific access to specific resources is possible that way. In the past there was the option to authenticate with ACS site-scoped which is not recommended anymore. For instance this is not centrally managed in Azure AD where you could apply conditional access policies as an example from a typical ZeroTrust scenario. A new option is the so called [resource specific consent (RSC)](https://mmsharepoint.wordpress.com/2021/08/18/accessing-sharepoint-sites-with-resource-specific-consent-rsc-and-microsoft-graph/). This is not SharePoint specific as for instance it also works with Teams. This is a big advantage over the old site-scoped ACS approach. One disadvantage is, this approach still requires a high privileged app permission needed at least for setup. So if your organization does not allow app permissions at all you need really good arguments for this approach. A request “Sites.FullControl.All” app permission is a bit like requesting a bazooka...
 
 ### Domain Isolated
 
@@ -63,6 +63,12 @@ Of course there is another option to prevent granting permissions too broad. You
 Dealing with sensitive information of course always is a potential security risk. Client IDs, secrets or other sensitive data should be kept away from the user. Of course those things should never be unveiled in client-side code. But also in the backend there are enterprise-ready, secure, reliable and easy-to-use patterns to be a applied. [Sensitive secrets should be stored in Azure KeyVault](https://mmsharepoint.wordpress.com/2019/01/11/secure-azure-functions-part-2-handle-certificates-with-azure-keyvault-when-accessing-sharepoint-online/), for additional [configuration data Azure app configuration store](https://mmsharepoint.wordpress.com/2021/05/17/configure-teams-applications-with-azure-app-configuration-nodejs/) could be a matter of choice. The [access to your back-end application should be established with managed identity](https://mmsharepoint.wordpress.com/2018/11/14/secure-azure-functions-part-1-use-azure-keyvault-secrets-when-accessing-microsoft-graph/). The ultimate solution to stop the credentials needed to access credentials store challenge ...
 
 ![Use Azure KeyVault - Architecture](images/01securelyaccessmsgraphfromazurefunction1.jpg)
+
+### With delegated permissions?
+
+Nevertheless there is one disadvantage in managed identities. In combination with Microsoft Graph or SharePoint permissions it only works with app permissions. Although I already implemented a delegated sample working in AzureAutomation I couldn’t reproduce this as an Azure function and I’m quite sure this is not yet supported. So my wish would be this becomes a valid scenario in the near future:
+
+Managed Identity—>Member of AD security group—>Granted access to Graph or SharePoint resource—>Access Token with delegated permissions works 
 
 ## Summary
 
