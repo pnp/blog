@@ -8,18 +8,19 @@ images:
 - images/SecurityLock.webp
 tags: []
 type: "regular"
-summary: "This article will typical SharePoint and Microsoft 365 development security patterns. Those patterns can be applied especially in so-called ZeroTrust environments, too, and are linked to step-by-step implementation guidances."
+summary: "This article will showcase typical SharePoint and Microsoft 365 development security patterns. Those patterns can be applied especially in so-called ZeroTrust environments, too, and are linked to step-by-step implementation guidances."
 ---
 
-Although the _"good old days"_ are over where you could implement nearly everything with full trust solutions there are still lots of SharePoint and M365 development capabilities that need to be considered closely in terms of security. Especially in large enterprises more and more so-called ZeroTrust strategies are implemented. What this means especially for a modern SharePoint and Microsoft 365 developer I’m gonna show in this post with some examples. Every given example is linked to a step-by-step implementation guidance.
+Although the *good old days* are over where you could implement nearly everything with full trust solutions there are still lots of SharePoint and M365 development capabilities that need to be considered closely in terms of security. Especially in large enterprises more and more so-called ZeroTrust strategies are implemented. What this means especially for a modern SharePoint and Microsoft 365 developer I’m gonna show in this post with some examples. Every given example is linked to a step-by-step implementation guidance.
 
 ## Authentication
 
 Authentication normally is not a big deal inside SharePoint Framework applications as this comes out of the box. Nevertheless in specific scenarios there still might occur security or functionality issues. Together with [3rd-party API access](#spfx-3rd-party-api-and-issues) there is a need to generate additional access tokens. In SharePoint add-in model those tokens were generated ACS based. That should not be done anymore. But also with the modern SharePoint framework clients MSGraphClient or AadHttpClient there might be issues. One problem is that more and more browsers by default disable third-party cookies. This should be handled by MSAL.js 2.0 with the Authorization Code Flow with Proof Key for Code Exchange (PKCE). Unfortunately we still face issues when using SPFx directly. [Implementation of MSAL.js 2.0 into SPFx solutions](https://mmsharepoint.wordpress.com/2020/08/15/using-msal-js-2-0-in-sharepoint-framework-spfx/) can help to solve this. Especially in SPA like solutions this works great while having many webparts on the same page using that technique in a portal-style lead to concurrency challenges while the token needs to be generated and you have to deal with.
 
-If there is a need to generate an access token for SharePoint rest Api outside an SPFx solution you can try [SSO with on-behalf flow](https://mmsharepoint.wordpress.com/2021/06/22/use-sharepoint-rest-api-in-microsoft-teams-with-sso-and-on-behalf-flow/) if possible or [generate your OAuth2.0 access token manually](https://mmsharepoint.wordpress.com/2021/12/04/testing-an-azure-function-using-delegated-access-with-postman/).
+If there is a need to generate an access token for SharePoint Rest Api outside an SPFx solution you can try [SSO with on-behalf flow](https://mmsharepoint.wordpress.com/2021/06/22/use-sharepoint-rest-api-in-microsoft-teams-with-sso-and-on-behalf-flow/) if possible or [generate your OAuth2.0 access token manually](https://mmsharepoint.wordpress.com/2021/12/04/testing-an-azure-function-using-delegated-access-with-postman/).
 
-### No anonymous access 
+### No anonymous access
+
 When implementing backend services in Azure Functions for instance, always require authentication. Best with [adding Microsoft as identity provider](https://mmsharepoint.wordpress.com/2022/06/04/fluidframework-and-azure-fluid-relay-service/#userauth), if not even further restrict it by Azure AD groups [as described below](#secure-user-specific)
 
 ```cs
@@ -40,19 +41,21 @@ is okay but together with
 ![](images/05editazfuncidentityproviderapp.jpg)
 
 ## SPFx 3rd-party Api and issues
-SPFx solutions normally run in user context. Client-side this cannot be changed. But on behalf of 3rd-party Api access the _“good old pattern“_ of using _elevated privileges_ can still be implemented. To be strict they should be prevented whenever possible. If a user is not allowed to do something the user should not be able to do it. As simple as that.
+
+SPFx solutions normally run in user context. Client-side this cannot be changed. But on behalf of 3rd-party Api access the *good old pattern* of using _elevated privileges_ can still be implemented. To be strict they should be prevented whenever possible. If a user is not allowed to do something the user should not be able to do it. As simple as that.
 
 For 3rd-party Api access SPFx offers two clients: MSGraphClient and AadHttpClient. While the former one is easier to handle it has one big disadvantage. It deals with one public enterprise application which [grants permission tenant-wide](https://www.wictorwilen.se/blog/sharepoint-framework-and-microsoft-graph-access-convenient-but-be-very-careful/) and not application or webpart specific. Furthermore in typical ZeroTrust implementations those "public" enterprise applications are disabled first by conditional access policies!
 
 ![Microsoft's SPFx client extensibility enterprise application](images/SPFxClientExtensebiltyEnterpriseApp.png)
 
 <a name="secure-user-specific"></a>
+
 Therefore it’s better to handle this with AadHttpClient in the backend and a specific app registration. It still allows to be consumed by any app but only in the way you implement it. 
-You still need one public enterprise application. But only to access your backend function which can be considered less critical than directly granted Microsoft Graph permissions, such as Directory.Read.All. Those critical permissions for Microsoft Graph e.g. you can handle in your app specific app registration available only to your specific backend application. 
+You still need one public Enterprise application. But only to access your backend function which can be considered less critical than directly granted Microsoft Graph permissions, such as Directory.Read.All. Those critical permissions for Microsoft Graph e.g. you can handle in your app specific app registration available only to your specific backend application. 
 
 You can further [secure your backend function either server-side](https://mmsharepoint.wordpress.com/2022/03/02/restrict-calls-from-spfx-inside-azure-functions/) or [client-side](https://mmsharepoint.wordpress.com/2021/08/20/restrict-calls-to-azure-functions-from-spfx/) on behalf of Azure AD security groups.
 
-Client-side makes sense to disable or hide functionality in the UI immediately while server-side of course is the more secure one as the Api cannot be called by any client without an appropriate user. 
+Client-side makes sense to disable or hide functionality in the UI immediately while server-side of course is the more secure one as the API cannot be called by any client without an appropriate user. 
 
 ## Avoid app permissions
 
