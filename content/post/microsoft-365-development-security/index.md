@@ -5,7 +5,7 @@ author: "Markus Moeller"
 githubname: msharepoint
 categories: ["Community post"]
 images:
-- images/SecurityLock.webp
+- images/SecurityLock.jpg
 tags: []
 type: "regular"
 summary: "This article will showcase typical SharePoint and Microsoft 365 development security patterns. Those patterns can be applied especially in so-called ZeroTrust environments, too, and are linked to step-by-step implementation guidances."
@@ -34,11 +34,11 @@ public static async Task<IActionResult> Run(
 
 is okay but together with
 
-![](images/03azfuncauthsettings.jpg)
+![Azure Function Authentication Tab](images/03azfuncauthsettings.jpg)
 
-![](images/04addmsftauthprovidertoazfunc.jpg)
+![Azure Function Authentication Tab - Add identity provider](images/04addmsftauthprovidertoazfunc.jpg)
 
-![](images/05editazfuncidentityproviderapp.jpg)
+![Azure Function Authentication Tab - Added Microsoft identity provider](images/05editazfuncidentityproviderapp.jpg)
 
 ## SPFx 3rd-party Api and issues
 
@@ -71,7 +71,7 @@ Of course there is another option to prevent granting permissions too broad. You
 
 Dealing with sensitive information of course always is a potential security risk. Client IDs, secrets or other sensitive data should be kept away from the user. Of course those things should never be unveiled in client-side code. But also in the backend there are enterprise-ready, secure, reliable and easy-to-use patterns to be a applied. [Sensitive secrets should be stored in Azure KeyVault](https://mmsharepoint.wordpress.com/2019/01/11/secure-azure-functions-part-2-handle-certificates-with-azure-keyvault-when-accessing-sharepoint-online/), for additional [configuration data Azure app configuration store](https://mmsharepoint.wordpress.com/2021/05/17/configure-teams-applications-with-azure-app-configuration-nodejs/) could be a matter of choice. The [access to your back-end application should be established with managed identity](https://mmsharepoint.wordpress.com/2018/11/14/secure-azure-functions-part-1-use-azure-keyvault-secrets-when-accessing-microsoft-graph/). The ultimate solution to stop the credentials needed to access credentials store challenge ...
 
-![Use Azure KeyVault - Architecture](images/01securelyaccessmsgraphfromazurefunction1.jpg)
+![Use Azure KeyVault from Azure Function with Managed Identity  - Architecture](images/01securelyaccessmsgraphfromazurefunction1.jpg)
 
 ### With delegated permissions?
 
