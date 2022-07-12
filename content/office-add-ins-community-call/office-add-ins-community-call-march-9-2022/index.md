@@ -25,7 +25,7 @@ This month's community call features an update on **Excel API 1.15 preview** (ac
 *   **Q&A** – [05:10](https://youtu.be/eC94i0ZJkao?t=310)
 
 > Last updated: July 7. The presentation **Consuming Graph Services using SSO and CORS from event–based Outlook add–ins** was removed from this call. Upon further research, it came to our attention that this approach has a potential security risk. Once the Microsoft Graph token is obtained by the middle-tier, it sends the token to the add-in's client code running in Outlook. The Microsoft Graph access token created by the Microsoft identity platform as part of the on-behalf-of flow is only intended to be used by the middle-tier. Find more details about this security risk at [Middle-tier access token request](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#middle-tier-access-token-request).
-> We are working on creating a sample with prescriptive guidance on how to implement event-based add-ins in Outlook using SSO with the guidance documented at [Microsoft identity platform and OAuth 2.0 On-Behalf-Of flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow). 
+> We are working on creating a sample with prescriptive guidance on how to implement event-based add-ins in Outlook using SSO with the guidance documented at [Microsoft identity platform and OAuth 2.0 On-Behalf-Of flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow).
 
 ## Actions
 
