@@ -13,19 +13,17 @@ type: "regular"
 ## Call Summary
 
 
-This month's community call features updates on **Consuming Graph Services using SSO and CORS from event-based Outlook add-ins** (covers automatic initiation of an event-based add-in while composing an email with demo showing use of SSO to get a Graph compatible Token and Call the Graph using CORS!) – [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Program Manager (Microsoft) | @juaneloBalmori & [Hlynur Tryggvason](https://twitter.com/htryggva), Senior Software Architect ([officeatwork](https://www.officeatwork.com/)), and Excel API 1.15 preview (accessing and using Chart Series Dimension and Pivot Table Data Source APIs) – Sirui Sun, Software Engineer (Microsoft). There was Q&A at end of call and in chat throughout call. Don’t forget to register for the [PnP Recognition Program](https://aka.ms/m365pnp-recognition). The call was hosted by Alex Jerabek (Microsoft). Recorded March 9, 2022.
+This month's community call features an update on **Excel API 1.15 preview** (accessing and using Chart Series Dimension and Pivot Table Data Source APIs) – Sirui Sun, Software Engineer (Microsoft) and **Q&A** both at end of call and in chat throughout call. Don’t forget to register for the [PnP Recognition Program](https://aka.ms/m365pnp-recognition). The call was hosted by Alex Jerabek (Microsoft). Recorded March 9, 2022.
 
 ## Microsoft Presenters
 
-*   [Juan Balmori](https://twitter.com/juaneloBalmori) – Principal Program Manager (Microsoft)
-*   [Hlynur Tryggvason](https://twitter.com/htryggva) – Senior Software Architect ([officeatwork](https://www.officeatwork.com/))
 *   Sirui Sun – Software Engineer (Microsoft)
+*   Alex Jerabek - Dev Writer (Microsoft)
 
 ## Agenda
 
-*   **Consuming Graph Services using SSO and CORS from event–based Outlook add–ins** – [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Program Manager (Microsoft) | @juaneloBalmori & [Hlynur Tryggvason](https://twitter.com/htryggva), Senior Software Architect (officeatwork) | @htryggva – [00:51](https://youtu.be/95qxmmqWUAk&t=51)
-*   **Excel API 1.15 preview** – Sirui Sun, Software Engineer (Microsoft) – [21:08](https://youtu.be/95qxmmqWUAk&t=1268)
-*   **Q&A** – [25:45](https://youtu.be/95qxmmqWUAk&t=1545)
+*   **Excel API 1.15 preview** – Sirui Sun, Software Engineer (Microsoft) – [00:31](https://youtu.be/eC94i0ZJkao?t=31)
+*   **Q&A** – [05:10](https://youtu.be/eC94i0ZJkao?t=310)
 
 ## Actions
 
