@@ -49,3 +49,37 @@ In Power Query,
 - You can carry out some AL insights like text analysis on your data using Azure Machine Learning and Cognitive Services.
 
 ![power_query.png](images/power_query.png)
+
+### Extract in Power Query
+Data is extracted and imported into Power Query from various data sources. At the moment, Power Query has over 200 connectors, ranging from simple fiat files, webpages, and databases to social media platforms and enterprise applications.
+
+![get_data.png](images/get_data.png)
+
+### Transform in Power Query
+The data is cleaned and undergoes some transformation. You can do transformations by writing R or Python scripts, M-language, or one of Power Query's 350+ pre-built data transformation buttons.
+
+![transform1.png](images/transform1.png)
+
+A few of these transformation operations are:
+- Checking for missing or duplicates.
+- Removing and keeping rows and columns.
+- Splitting columns.
+- Grouping.
+- Changing data types.
+- Merging and appending queries.
+- Text analytics.
+
+![transform2.png](images/transform2.png)
+
+- Pivot and unpivot.
+- Find and replace.
+- Extracting characters.
+- Formating.
+- Running R and Python Scripts.
+
+![transform3.png](images/transform3.png)
+
+- Validating to ensure data quality.
+- Creating conditional columns.
+- Machine learning capabilities and much more.
+
