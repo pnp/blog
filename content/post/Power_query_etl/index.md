@@ -83,3 +83,14 @@ A few of these transformation operations are:
 - Creating conditional columns.
 - Machine learning capabilities and much more.
 
+### Load in Power Query
+Here, the transformed data is loaded into a data warehouse or an analytic tool in the case of Power BI and Excel.
+
+## Why do I love Power Query?
+- The user-friendly UI.
+- Ease of use.
+- The fact that I can get data from just about anywhere.
+- It's a low-code or no-code transformation engine with pre-built transformation functions.
+- Automate data cleaning process and use it as a pipeline. 
+
+
