@@ -98,3 +98,8 @@ Here, the transformed data is loaded into a data warehouse or an analytic tool i
 As much as I would like to write about how to use it, I would like to show you instead. 
 
 A few weeks ago, maybe a month ago, I presented at the [Microsoft Power BI UK](https://www.meetup.com/microsoft-power-bi-uk/events/286388659/) and [Power BI Learning Community, Lagos](https://www.meetup.com/Power-BI-Learning-Community/events/rgfmrsydchblb/) meetup, and showcased a few of Power Query's capabilities. You can watch this video [here](https://www.youtube.com/watch?v=gbvSqYLe5Hc) and [here](https://www.youtube.com/watch?v=H_poqUidbo0).
+
+## Conclusion
+This short post has introduced you to the ETL capabilities of Power Query.
+
+If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/Bennykillua) or [LinkedIn](https://www.linkedin.com/in/ifeanyi-iheagwara/). You can also leave a comment below.
