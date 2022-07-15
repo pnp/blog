@@ -46,6 +46,6 @@ In Power Query,
 
 - You can write Python or R scripts.
 
--You can carry out some AL insights like text analysis on your data using Azure Machine Learning and Cognitive Services.
+- You can carry out some AL insights like text analysis on your data using Azure Machine Learning and Cognitive Services.
 
 ![power_query.png](images/power_query.png)
