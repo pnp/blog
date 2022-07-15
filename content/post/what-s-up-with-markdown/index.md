@@ -65,7 +65,7 @@ Markdown isn't a formal standard, and a lot of variations have emerged. It all s
 
 This article will stick to the most commonly used features that are widely supported. Each of the following sections shows an example of some simple Markdown followed by the formatted result.
 
-### 1. Emphasizing Text {#toc-hId-900859643}
+### 1. Emphasizing Text
 
 #### Markdown
 
@@ -297,7 +297,7 @@ Markdown doesn't create any old formatted text - it specifically creates HTML. I
 
 Many Markdown implementations allow you to insert HTML directly into the middle of your Markdown; this may be limited to certain HTML tags depending on the application. So if you know HTML and you're not sure how to format something in Markdown, try including the HTML directly!
 
-## Editing Markdown {#toc-hId--1800629526}
+## Editing Markdown
 
 If you'd like to play with Markdown right now, you might like to try the [Markdown Previewer](https://mdpreviewer.github.io/) where you can type and preview Markdown using any web browser.
 
