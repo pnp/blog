@@ -22,3 +22,12 @@ Microsoft Excel and Power BI have an ETL tool and many more tools in them. Howev
 
 ## What is ETL?
 
+ETL is an acronym for extract, transform, and load.
+
+- Extract: Data is extracted from legacy applications and various data sources.
+
+- Transform: Data is cleaned and transformed into a more useable form. Duplicates are removed, new columns are formed or split, and much more transformation happens.
+
+- Load: The data is loaded into the target database or analytic software.
+
+## What is Power Query?
