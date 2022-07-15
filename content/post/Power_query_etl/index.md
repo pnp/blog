@@ -93,4 +93,8 @@ Here, the transformed data is loaded into a data warehouse or an analytic tool i
 - It's a low-code or no-code transformation engine with pre-built transformation functions.
 - Automate data cleaning process and use it as a pipeline. 
 
+## How to get started with Power Query
 
+As much as I would like to write about how to use it, I would like to show you instead. 
+
+A few weeks ago, maybe a month ago, I presented at the [Microsoft Power BI UK](https://www.meetup.com/microsoft-power-bi-uk/events/286388659/) and [Power BI Learning Community, Lagos](https://www.meetup.com/Power-BI-Learning-Community/events/rgfmrsydchblb/) meetup, and showcased a few of Power Query's capabilities. You can watch this video [here](https://www.youtube.com/watch?v=gbvSqYLe5Hc) and [here](https://www.youtube.com/watch?v=H_poqUidbo0).
