@@ -22,7 +22,17 @@ If you haven't come across PnP Powershell yet, it is a cross-platform Powershell
 
 To find all of the PnP Powershell Cmdlets, you can check out the PnP PS site [here](https://pnp.github.io/powershell)
 
-## What Cmdlet can we use to copy our site configuration?
+## Which Cmdlets can we use to copy our site configuration?
 
 So, to create a copy of a site using its template or configuration, but without its content such as list items, we can use a couple of template related Cmdlets. 
 In order to get the template of our existing and pre-configured site, we can use the 'Get-PnpSiteTemplate', and to copy this to another created site, we can use the 'Invoke-PnpSiteTemplate' cmdlet.
+
+## Running the script!
+
+Now... the part you came here for. In order to copy a template of a SharePoint site from one site to another, we're going to first want to make sure that we have PnP Powershell installed with the latest major release. To do this, open a Powershell window which you can do using the Windows clients or VSCode. Then you simply need to execute this line:
+
+
+```bash
+Install-Module -Name PnP.PowerShell
+```
+
