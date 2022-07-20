@@ -78,7 +78,9 @@ type: "regular"
 
 We also put together some information about markdown and how to use it in our [Wiki](https://github.com/pnp/blog/wiki/Microsoft-365-blog-Markdown-reference)
 
-8. Commit and push your changes to your fork
+8. Tip: Run the blog locally to see how it will look. [Read more about running hugo locally here](./HOW_TO_RUN_HUGO_LOCALLY.md).
+
+9. Commit and push your changes to your fork
 
 Whenever you want to upload your changes to your remote fork:
 
@@ -86,7 +88,7 @@ Whenever you want to upload your changes to your remote fork:
 * type `git commit -m "YOUR COMMIT MESSAGE"` - this will commit your changes with the messages
 * type `git push` to push the changes to your remote fork
 
-9. Pull request
+10. Pull request
 
 You will now want to (kindly) ask the repository maintainers to pull in your changes. You do that with a pull request:
 
