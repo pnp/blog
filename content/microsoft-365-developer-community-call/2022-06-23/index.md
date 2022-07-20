@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 & Power Platform Development Community call - 23rd of June, 2022"
-date: 2022-06-09T02:02:00-04:00
+date: 2022-06-23T02:02:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call"]
@@ -8,10 +8,10 @@ images:
 - images/recording-23rd-june.png
 tags: []
 type: "regular"
-summary: "Demos - Independent Publishing Connectors Sessionize Demo, List Formatting - Payment Registration, and Understanding Sites.Selected permissions in SharePoint Online. Yo teams version preview releases, 5 Independent Publisher Connectors, 9 scripts and 1Teams sample. Power Platform Samples Contributor training announced."
+summary: "Demos - List Formatting - Tab and Percentage Chart, Tracking activities with Microsoft Lists and Power Automate, and Building your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API + Integrate using Web Components. Yo teams version releases + 9 scripts."
 videos:
-- https://www.youtube.com/watch?v=DPye7S6lVf0
-draft: true
+- https://www.youtube.com/watch?v=WZwg_Zo1ZL4
+draft: false
 ---
 
 
@@ -21,15 +21,16 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 
 ### New this week
 
-* Agenda set for next [Microsoft 365 platform call](https://aka.ms/m365-dev-call) - Tuesday, June 14, 8:00 am PT.
+* Agenda set for next [Microsoft 365 platform call](https://aka.ms/m365-dev-call) - Tuesday, June 28, 8:00 am PT.
     * Latest news from Microsoft engineering on Microsoft 365 topics
-    * **Rabeb Othmani** - Introduction to Microsoft Graph Postman collection
-    * **Maisa Rissi** - Microsoft Graph .Net SDK v5
-    * **Greg Taylor** - Latest on deprecating basic auth for Exchange
+    * **Rabeb Othmani** - Taking advantage of the Microsoft Graph postman collections
+    * **Geeta Ramakrishnan, Divyanka Malik, Malabika Roy** - Introduction on the Microsoft Viva Learning extensibility
+    * **Benjamin Olson** - Introduction to Virtual Appointment API
+    * Note: **Last call before summer break 1st of July – 31st of August**
 * Project releases
-    * [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams) - v4.0.0-preview.3
-    * [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core) - v1.7.0-preview.3
-    * Note: Between major releases there are many fixes and improvements on all projects each week and for these we thank the many contributors who work tirelessly behind the scenes to bring first rate capabilities to the members of this community. Anytime you wish to see latest updates or contribute to a project, please pull down a repo to get started. Thanks!
+    * [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams) - v4.0 GA
+    * [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core) - v1.7 GA
+    * [Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy) - v1.2 GA
 * Power Platform - [Independent Publisher Connectors](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors)
     * New - MS Graph Groups and Users - [Jay Jani](https://www.linkedin.com/in/jayjani03/)
     * New - RegEx Matching - Mitanshu Garg
@@ -37,61 +38,58 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * New - Unofficial Netflix Search - [Troy Taylor](https://github.com/troystaylor/PowerPlatformConnectors)
     * Updated - [GoQR](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/GoQR) (originally built by Rui Santos) - [Woong Choi](https://www.linkedin.com/in/woongchoi/)
     * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
-* [Script samples](https://adoption.microsoft.com/sample-solution-gallery)
-    * New CLI Scenario – [Copy planner plan](https://adoption.microsoft.com/sample-solution-gallery/planner-copy-planner-plan) - [Milan Holemans](https://www.linkedin.com/in/milan-holemans/)
-    * Updated CLI Scenario – [Fetch User Profile Properties from Site Collection and export to CSV](https://adoption.microsoft.com/sample-solution-gallery/fetch-user-profile-properties) - [Mathijs Verbeeck](https://www.linkedin.com/in/mathijsverbeeck/)
-    * Updated CLI Scenario – [SharePoint Online Hub Site Association](https://adoption.microsoft.com/sample-solution-gallery/spo-hub-sites-association) - [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
-    * Updated CLI Scenario – [Get SharePoint List or Library Permissions and export to CSV](https://adoption.microsoft.com/sample-solution-gallery/spo-get-list-library-permission-export-to-csv) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
-    * Updated CLI Scenario – [Reset files permissions unique to inheritance](https://adoption.microsoft.com/sample-solution-gallery/reset-files-permission-unique-to-inherited) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
-    * Updated CLI Scenario – [Script allow copy column format in SharePoint and appl to different column](https://adoption.microsoft.com/sample-solution-gallery/spo-apply-column-format) - [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
-    * Updated CLI Scenario – [Bulk Library generation](https://adoption.microsoft.com/sample-solution-gallery/spo-create-bulk-libraries) - [Milan Holemans](https://www.linkedin.com/in/milan-holemans/)
-    * Updated CLI Scenario – [Run a search query and export to CSV](https://adoption.microsoft.com/sample-solution-gallery/spo-search-export-to-csv) - [Smita Nachan](https://www.linkedin.com/in/smitanachan/)
-    * Updated PowerShell Scenario – [Planner migration to SharePoint List](https://adoption.microsoft.com/sample-solution-gallery/planner-migration-spo-list) - [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+* [Script samples](https://pnp.github.io/script-samples/)
+    * New for CLI - [Install Solution and Deploy to the SharePoint site](https://pnp.github.io/script-samples/spo-install-deploy-spfx-solution/README.html?tabs=cli-m365-ps) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * Updated for Power Apps/Power Shell - [Add/Remove users (bulk from Power Apps from CSV file](https://pnp.github.io/script-samples/powerapps-bulk-useraccess/README.html?tabs=powerapps-ps) - [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese
+    * Updated for CLI - [Set Home site for SharePoint online tenant](https://pnp.github.io/script-samples/spo-set-home-site/README.html?tabs=pnpps) - [Smita Nachan](https://twitter.com/SmitaNachan) \| @SmitaNachan
+    * Updated for CLI - [Bulk Create Teams with JSON File](https://pnp.github.io/script-samples/teams-bulk-create-teams/README.html?tabs=pnpps) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * Updated for CLI - [Export SharePoint List Data to CSV with attachments](https://pnp.github.io/script-samples/spo-export-sharepoint-list-items-to-csv/README.html?tabs=pnpps) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * Updated for CLI - [Create bulk dummy documents, including major/minor versions](https://pnp.github.io/script-samples/create-dummy-docs-versions-in-library/README.html?tabs=pnpps) - [Mathijs Verbeeck](https://www.linkedin.com/in/mathijsverbeeck/)
+    * Updated for PowerShell - [Delete custom color themes from SharePoint](https://pnp.github.io/script-samples/spo-remove-custom-themes/README.html?tabs=cli-m365-ps) - [Leon Armston](http://twitter.com/LeonArmston) \| @LeonArmston
+    * Updated for PowerShell - [Read SharePoint List Items Using CAML Query](https://pnp.github.io/script-samples/spo-list-items-with-caml-query/README.html?tabs=pnpps) - [Jago Pauwels](https://github.com/jagopauwels/)
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Teams samples](https://adoption.microsoft.com/sample-solution-gallery?sortby=creationDateTime-true&keyword=&product=Teams&action=ajax_plugin_call_sample_solution_gallery)
     * New - [Movie Vote - Tab meeting w/stageview](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-dev-teams-sample-tab-meeting-stageview-basic) - [Markus Moeller](http://twitter.com/Moeller2_0) \| @Moeller2_0
-* Microsoft 365 PnP Weekly – Episode 169 (June 6th) with Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](http://twitter.com/YannickReekmans) \| @YannickReekmans \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/) \| [podcast](https://www.podbean.com/media/share/pb-uvjxj-1244047)
+* Microsoft 365 PnP Weekly – Episode 171 (June 20th) with Germany based Teams/Power Apps Consultant, Partner Manager, MVP at Valo Solutions - [Edyta Gorzon](https://twitter.com/EdytaGorzon) \| @EdytaGorzon \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-171/) \| [podcast](https://www.podbean.com/media/share/pb-axtx9-1255b1a)
 
 ### Demos
 
-* **Independent Publishing Connectors Sessionize Demo** - use Sessionize connector with Power Automate to populate an e-mail listing speakers and sessions from Sessionize, on agenda for conference you’re organizing. Step through creating a Power App, gallery, selecting data source (Sessionize connector), and choosing methods to complete UI. Then create a cloud flow in Power Automate that creates an HTML table (containing speakers and sessions) and sends table in e-mail to conference attendees.
-* **List Formatting - Payment Registration** - extending Microsoft Lists Expense tracker template’s capabilities by adding file picker, locations (embedded Bing maps), payment timeline view and mobile view list formatting. Solution leverages a SharePoint page - filter web parts, Power Automate - declarative JSON for flow (expense approval), and Adaptive Cards for approval in a Teams channel. Create/populate a new expense item and call a flow action for large expense approval.
-* **Understanding Sites.Selected permissions in SharePoint Online** - the new Sites.Selected permission in AAD negates the need for ACS. Sites.Selected is an application permission for Microsoft Graph and/or SPO and allows Admins to grant Read or Write permission to the selected/targeted sites. Manage sites using Graph or CSOM/REST. PnP PowerShell can be used to Grant, Get, Revoke and Set AAD app permissions in Azure. Perfect for running an application in the background.
+* **List Formatting magic - Tab and Percentage Chart** – simple examples of formatting we can implement on a SharePoint page. Create tabs with associated content. Tabs sample allows you to add an icon or url to image displayed on each Tab. Percentage chart displays formatted chart row based on icon/emoji/svg and associated calculated numbers. Add new items to list in Property Pane on page. Edit dates and values alternatively on page or in list.
+* **Keep track of your activities with Microsoft Lists and Power Automate** – create a custom list that captures notes and automatically highlights, groups and sorts by date, is flexible and easy to use, tracks information about activities as well as operations, and is Microsoft Teams ready. Keeps track of attachments (Power Automate) and can be customized further. Each list record has Title, writing box and a tool bar. Edit content in list or on page.
+* **Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components** – why build your own version of Teams? Step through one business case and architecture. Uses a Graph Toolkit provider, mgt-get components, back-end implementation (.NET 5), Graph change subscription, SignalR implementation, client-side changes to get latest messages from Teams, and respond to all Graph calls (Proxy Provider). See demo of near instantaneous chat and notifications in the non-Teams app and Teams App side-by-side.
 
 The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the
 call.
 
-{{< youtube DPye7S6lVf0 >}}
+{{< youtube WZwg_Zo1ZL4 >}}
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [6:12](https://youtu.be/DPye7S6lVf0?t=372)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [8:14](https://youtu.be/DPye7S6lVf0?t=494)
-* yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:39](https://youtu.be/DPye7S6lVf0?t=579)
-* Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [10:00](https://youtu.be/DPye7S6lVf0?t=600)
-* Independent Publisher Connectors - [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [11:00](https://youtu.be/DPye7S6lVf0?t=660)
-* Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:22](https://youtu.be/DPye7S6lVf0?t=802)
-* Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) \| @Bob1German – [13:57](https://youtu.be/DPye7S6lVf0?t=837)
-* Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:33](https://youtu.be/DPye7S6lVf0?t=933)
-* Demo - Independent Publishing Connectors Sessionize Demo - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan & [Smita Nachan](http://twitter.com/SmitaNachan) \| @SmitaNachan – [17:00](https://youtu.be/DPye7S6lVf0?t=1020)
-* Demo - List Formatting - Payment Registration - [André Lage](http://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [29:05](https://youtu.be/DPye7S6lVf0?t=1745)
-* Demo - Understanding Sites.Selected permissions in SharePoint Online - [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys.com) \| @PaoloPia – [43:56](https://youtu.be/DPye7S6lVf0?t=2636)
+* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [5:58](https://youtu.be/WZwg_Zo1ZL4?t=358)
+* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [9:05](https://youtu.be/WZwg_Zo1ZL4?t=545)
+* yo Teams updates - [Wictor Wilén](http://twitter.com/wictor) (Microsoft) @wictor – [11:09](https://youtu.be/WZwg_Zo1ZL4?t=669)
+* Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [13:16](https://youtu.be/WZwg_Zo1ZL4?t=796)
+* Independent Publisher Connectors - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:04](https://youtu.be/WZwg_Zo1ZL4?t=904)
+* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [15:25](https://youtu.be/WZwg_Zo1ZL4?t=925)
+* Microsoft Teams Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [17:38](https://youtu.be/WZwg_Zo1ZL4?t=1058)
+* Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [18:00](https://youtu.be/WZwg_Zo1ZL4?t=1080)
+* Demo - List Formatting magic - Tab and Percentage Chart – [André Lage](https://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [19:47](https://youtu.be/WZwg_Zo1ZL4?t=1187)
+* Demo - Keep track of your activities with Microsoft Lists and Power Automate – Federico Sapia (ANPAL Servizi) – [28:17](https://youtu.be/WZwg_Zo1ZL4?t=1697)
+* Demo - Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components – [Sohil Bhalla](https://twitter.com/SohilBhalla) (Codeless Technology) \| @SohilBhalla – [35:20](https://youtu.be/WZwg_Zo1ZL4?t=2120)
 
 ## Together Mode
 
-![together-mode-220609.gif](images/together-mode-220609.gif)
+![together-mode-220623.gif](images/together-mode-220623.gif)
 
-Feeling the air moving during the 15-minute-mark photo event. Everybody is looking great today! Thanks for joining and participating on the call.
+Greetings from us to everyone in or considering becoming part of this community. You are welcome and valued.
 
 ## Actions
 
-* Create a connector – [Top Power Platform Independent Publisher Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
-* Attend the next [Power Platform LABs call](https://aka.ms/PowerPlatformIntegrationLABs), June 29, 8am PT \|11am ET at [aka.ms/](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/June%209%20-%20M365%20Gen%20Dev%20Call/aka.ms/PowerPlatformIntegrationLABs)[PowerPlatformIntegrationLABs](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/June%209%20-%20M365%20Gen%20Dev%20Call/aka.ms/PowerPlatformIntegrationLABs)
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
+* Attend the next [Power Platform LABs call](https://aka.ms/PowerPlatformIntegrationLABs), June 29, 8am PT \|11am ET at [aka.ms/](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/June%2023%20-%20M365%20Gen%20Dev%20Call/aka.ms/PowerPlatformIntegrationLABs)[PowerPlatformIntegrationLABs](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/June%2023%20-%20M365%20Gen%20Dev%20Call/aka.ms/PowerPlatformIntegrationLABs)
 * Register for [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) events:
-    * Writing for the Web \| Thursday, June 23, 12pm PT \| 3pm ET \| 9pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)
-    * Writing for the Web \| Monday, June 27, 10am PT \| 1pm ET \| 7pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)
+    * Writing for the Web \| Monday, July 11th, 10am PT \| 1pm ET \| 7pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)
     * Power Platform Samples Contributor \| Wednesday, June 29, 10:00 am PT - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUN09VTVU2QzRLNE0yVERQMklHSDBMUTJGWC4u)
     * Maturity Model Practitioners \| [Register](https://aka.ms/mm4m365)
     * PnP Office Hours – 1:1 session \| [Register](https://outlook.office365.com/owa/calendar/PnPSharingisCaring@warner.digital/bookings/)
@@ -99,6 +97,7 @@ Feeling the air moving during the 15-minute-mark photo event. Everybody is looki
 * What do you need from PnP Core SDK? Let us know and/or view the latest changes at [PnP Core SDK Changelog](https://github.com/pnp/pnpcore/blob/dev/src/sdk/CHANGELOG.md).
 * PowerShell suggestions? Please visit [PnP.PowerShell Changelog](https://github.com/pnp/powershell/blob/dev/CHANGELOG.md)
 * Ideas for Microsoft Lists? aka.ms/Feedback/Lists
+* Create a connector – [Top Power Platform Independent Publisher Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free developer tenant
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
@@ -108,20 +107,16 @@ Feeling the air moving during the 15-minute-mark photo event. Everybody is looki
 
 ## Demo references
 
-* **Independent Publishing Connectors Sessionize Demo**
-    * Documentatiuon - [Sessionize (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/sessionizeip/)
-    * Repo – [Sessionize](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Sessionize)
-    * Blog – [Nadddeep Nachan](https://nanddeepnachanblogs.com/)
-    * Documentation – [Sessionize API / Embed Documentation for Developers](https://sessionize.com/api-documentation)
-* **List Formatting - Payment Registration**
-    * Sample - [Payment format](https://github.com/pnp/List-Formatting/tree/master/view-samples/payments-format)
-    * Sample - [Bing Maps format](https://github.com/pnp/List-Formatting/tree/master/column-samples/generic-bingmaps-format)
-    * Sample - [File Picker format](https://github.com/pnp/List-Formatting/tree/master/column-samples/generic-filepicker-format)
-    * Samples - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting)
-* **Understanding Sites.Selected permissions in SharePoint Online**
-    * Video - [Sites.Selected Application permission for Graph and SharePoint APIs](https://youtu.be/mz4ye-AsUnY)
-    * Documentation - [Sites permissions - Application permissions](https://docs.microsoft.com/graph/permissions-reference#application-permissions-56)
-    * Article - [Controlling app access on a specific SharePoint site collections is now available in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/controlling-app-access-on-specific-sharepoint-site-collections/)
+* **List Formatting magic - Tab and Percentage Chart**
+    * Repo - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting)
+    * Feedback - [Microsoft Lists](https://feedbackportal.microsoft.com/feedback/forum/ab3ad59e-6dd1-ec11-a7b5-0022481f35a4) \| aka.ms/Feedback/Lists
+    * Repo - [tabs format](https://github.com/pnp/List-Formatting/tree/master/view-samples/tabs-format)
+    * Repo - [Percent chart format](https://github.com/pnp/List-Formatting/tree/master/view-samples/percent-chart-format)
+* **Keep track of your activities with Microsoft Lists and Power Automate**
+    * Article - [Keep track of your activities with Microsoft Lists and Power Automate](https://github.com/Fedes365/Microsoft-Lists-Templates/wiki/Keep-track-of-your-activities-with-Microsoft-Lists-and-Power-Automate)
+    * Documentation - [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting)
+* **Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components**
+    * Article - [Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components](https://pnp.github.io/blog/post/build-teams-using-graph-toolkit/)
 
 Thank you for your great work. Samples are often showcased in Demos. Request a Demo spot on the call [https://aka.ms/m365pnp/request/demo](https://aka.ms/m365pnp/request/demo)
 
@@ -134,9 +129,9 @@ PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.9.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.6.0 GA|Prepping for v1.7.0 (end of June)
 [Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool                                     
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.10.0 GA|Bug fixes and improvements continue to 1.11 release (end of June)
-[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v3.5.0 GA,v4.0.0-preview.3|Version 4.0 is imminent – pending an issue with the new Teams JS SDK
-[Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.6.0 GA, v1.7.0-preview.3
-[Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy)|v1.1.0 GA, v1.2.0-preview.2
+[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.0 GA
+[Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.7.0 GA
+[Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy)|v1.2.0 GA
 [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)|v3.1.1 GA
 [Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit)|v2.5.2 GA|Working on v3.0.0 - Aligning all Toolkit components to Fluent UI Web Components
 
@@ -175,13 +170,13 @@ PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.
 
 ## Upcoming calls | Recurrent invites
 
-* Microsoft 365 platform call \| Tuesday, June 14, 8:00 am PT – <https://aka.ms/m365-dev-call> (weekly)
-* Power Platform monthly call \| Wednesday, June 15, 8:00 am PT - <https://aka.ms/PowerAppsMonthlyCall> (monthly)
-* Viva Connections & SharePoint Framework call \| Thursday, June 16, 7:00 am PT - <https://aka.ms/spdev-spfx-call> (bi-weekly)
-* Microsoft Identity Platform call \| Thursday, June 16, 9:00 am PT - <https://aka.ms/IDDevCommunityCalendar> (monthly)
-* M365 General Dev call \| Thursday, June 23, 7:00 am PT - <https://aka.ms/m365-dev-sig> (bi-weekly)
+* Microsoft 365 platform call \| Tuesday, June 28, 8:00 am PT – <https://aka.ms/m365-dev-call> (weekly)
+* Viva Connections & SharePoint Framework call \| Thursday, June 30, 7:00 am PT - <https://aka.ms/spdev-spfx-call> (bi-weekly)
+* M365 & Power Platform Dev call \| Thursday, July 7, 7:00 am PT - <https://aka.ms/m365-dev-sig> (bi-weekly)
 * Office add-in monthly call \| Wednesday, July 13, 8:00 am PT - <https://aka.ms/officeaddinscall> (monthly)
-* Adaptive Cards monthly call \| Thursday, June 14, 9:00 am PT - <https://aka.ms/adaptivecardscommunitycall> (monthly)
+* Adaptive Cards monthly call \| Thursday, July 14, 9:00 am PT - <https://aka.ms/adaptivecardscommunitycall> (monthly)
+* Power Platform monthly call \| Wednesday, July 20, 8:00 am PT - <https://aka.ms/PowerAppsMonthlyCall> (monthly)
+* Microsoft Identity Platform call \| Thursday, July 21, 9:00 am PT - <https://aka.ms/IDDevCommunityCalendar> (monthly)
 
 ## About
 
