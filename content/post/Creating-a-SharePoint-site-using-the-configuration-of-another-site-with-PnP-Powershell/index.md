@@ -4,7 +4,7 @@ author: "Lewis Baybutt"
 githubname: lowcodelewis
 categories: ["Community Post"]
 images:
--
+- https://github.com/lowcodelewis/blog/blob/Creating-a-SharePoint-site-using-the-configuration-of-another-site-with-PnP-Powershell/content/post/Creating-a-SharePoint-site-using-the-configuration-of-another-site-with-PnP-Powershell/Untitled-2.png
 tags: []
 type: "regular"
 ---
