@@ -4,7 +4,7 @@ author: "Lewis Baybutt"
 githubname: lowcodelewis
 categories: ["Community Post"]
 images:
-- https://github.com/lowcodelewis/blog/blob/Creating-a-SharePoint-site-using-the-configuration-of-another-site-with-PnP-Powershell/content/post/Creating-a-SharePoint-site-using-the-configuration-of-another-site-with-PnP-Powershell/Untitled-2.png
+- images/Untitled-2.png
 tags: []
 type: "regular"
 ---
@@ -18,7 +18,7 @@ In this post, I'm going to show you how you can do this, using PnP Powershell cm
 
 If you haven't come across PnP Powershell yet, it is a cross-platform Powershell Module which provides over 600 cmdlets that work with various Microsoft 365 platform areas. It is also a community based module and is open source.
 
-![](https://github.com/lowcodelewis/blog/blob/Creating-a-SharePoint-site-using-the-configuration-of-another-site-with-PnP-Powershell/content/post/Creating-a-SharePoint-site-using-the-configuration-of-another-site-with-PnP-Powershell/logo.svg)
+![](images/logo.svg)
 
 To find all of the PnP Powershell Cmdlets, you can check out the PnP PS site [here](https://pnp.github.io/powershell)
 
