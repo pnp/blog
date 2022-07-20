@@ -84,7 +84,7 @@ So, let's now revisit a use case as to why we might want to take advantage of th
 
 ## Further ALM Background
 
-Not overly sure on what Application Lifecycle Management is yet? Don't worry, I've got you covered! You can check out [these blog posts](https://www.lowcodelewis.com/blog/category/ALM) on my site, Low Code Lewis, where I give you a bit of guidance to getting started with Application Lifecycle Management and Power Platform.
+Not overly sure on what Application Lifecycle Management is yet? Don't worry, I've got you covered! You can check out [these blog posts](https://www.lowcodelewis.com/blog/category/ALM) on my site, [Low Code Lewis](https://www.lowcodelewis.com/), where I give you a bit of guidance to getting started with Application Lifecycle Management and Power Platform.
 
 * [A simple start to Application Lifecycle Management with Power Platform](https://www.lowcodelewis.com/blog/a-simple-start-to-application-lifecycle-management-with-power-platform)
 * [Environment Variables](https://www.lowcodelewis.com/blog/environment-variables)
