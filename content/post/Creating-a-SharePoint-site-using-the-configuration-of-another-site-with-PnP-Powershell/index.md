@@ -18,7 +18,7 @@ In this post, I'm going to show you how you can do this, using PnP Powershell cm
 
 If you haven't come across PnP Powershell yet, it is a cross-platform Powershell Module which provides over 600 cmdlets that work with various Microsoft 365 platform areas. It is also a community based module and is open source.
 
-![](images/logo.svg)
+![](images/logo%20(1).svg)
 
 To find all of the PnP Powershell Cmdlets, you can check out the PnP PS site [here](https://pnp.github.io/powershell)
 
