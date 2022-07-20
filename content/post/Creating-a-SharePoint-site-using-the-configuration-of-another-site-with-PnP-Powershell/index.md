@@ -51,7 +51,7 @@ Connect-PnPOnline -Url $TargetSiteUrl -PnPManagementShell
 Invoke-PnPSiteTemplate -Path $SiteTemplateFile
 ```
 
-Make sure that when you paste this code into your PowerShell / VSCode window, that you replace the SharePoint site links. You should expect that on running this script you will get a message to complete a device login using a code. Simply go to https://microsoft.com/devicelogin and enter the code that your PowerShell window returns. Then go through the on screen instructions accepting anything necessary to give PowerShell permissions to your tenant, then exit the browser window when you are asked to. It is important that you go to a browser window where you are already signed in with the account with the necessary privileges prior to going to this link.
+Make sure that when you paste this code into your PowerShell / VSCode window, that you replace the SharePoint site links. You should expect that on running this script you will get a message to complete a device login using a code. Simply go to https://microsoft.com/devicelogin and enter the code that your PowerShell window returns. Then go through the on screen instructions accepting anything necessary to give PnP PowerShell permissions to your tenant, then exit the browser window when you are asked to. It is important that you go to a browser window where you are already signed in with the account with the necessary privileges prior to going to this link.
 
 ## I only want lists!
 
