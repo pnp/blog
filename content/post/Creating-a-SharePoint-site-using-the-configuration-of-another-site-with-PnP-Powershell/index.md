@@ -9,7 +9,7 @@ tags: []
 type: "regular"
 ---
 
-# Creating a SharePoint site using the configuration of another site with PnP Powershell
+## Creating a SharePoint site using the configuration of another site with PnP Powershell
 
 So... have you ever had the need to copy the configuration of a site you've created to another SharePoint site, or make a copy of that site say? Perhaps you're implementing ALM practices and need to make duplicates of a SharePoint site with all the same lists and columns, but the content doesn't matter?
 In this post, I'm going to show you how you can do this, using PnP Powershell cmdlets!
@@ -18,7 +18,7 @@ In this post, I'm going to show you how you can do this, using PnP Powershell cm
 
 If you haven't come across PnP Powershell yet, it is a cross-platform Powershell Module which provides over 600 cmdlets that work with various Microsoft 365 platform areas. It is also a community based module and is open source.
 
-![](images/logo%20(1).svg)
+![PnP PowerShell and ALM](images/logo%20(1).svg)
 
 To find all of the PnP Powershell Cmdlets, you can check out the PnP PS site [here](https://pnp.github.io/powershell)
 
