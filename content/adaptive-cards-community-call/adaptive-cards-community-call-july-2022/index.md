@@ -27,14 +27,14 @@ In this month’s community call the following topics were presented - Action.To
 * React Native Adaptive Cards Renderer – [05:35](https://youtu.be/YtnW60YHwS8?t=335)
 * Q&A – [06:14](https://youtu.be/YtnW60YHwS8?t=374)
 
-## Demo summaries
+## Topic summaries
 
 * **Action.ToggleVisibility Deprecation –** introduced in schema 1.2, Toggles (trigger action) the visibility of associated card elements. Why deprecating? The content changes on screen are not detectable by screen readers. Impact on card authors? None while developing a proper expander control that meets accessibility requirements. Let us know how you are using this capability today - issue 7678. This is a formality, not a breaking change.
 * **Adaptive Cards Handle Responses Connector in GA –** the connector has been released into production, blog post coming soon, get an MSA account and try it at flow.microsoft.com. You can find learn more in the Microsoft Teams connector trigger documentation focused on responding to an Adaptive Card.
 * **React Native Adaptive Cards Renderer** – developed and maintained by BigThinkCode and recently used in a Microsoft Viva Connections mobile app. Join the Adaptive Cards call next month to see a demo delivered by Vasanthakumar Sarpasayanam, CEO & Founder at BigThinkCode Technologies about using this capability.
 * **Q & A –** topics include availability of WinUI 3 Renderer and v1.6 schema, adoption of latest GA schema version (v1.5) by Viva Connections (presently using V1.3 today) and by other groups in general - release schedule coordination. Incorporation of Microsoft Loop components, building Adaptive Cards presentations, and getting a Power Virtual Agent speaker on this call.
 
-## Demo references
+## Topic references
 
 * **Action.ToggleVisibility Deprecation**
     * Tool – [Adaptive Cards Schema Explorer](https://adaptivecards.io/explorer/Action.ToggleVisibility.html)
