@@ -10,12 +10,7 @@ tags: ["Redirect sites after tenant rename"]
 type: "regular"
 ---
 
-After I blogged about [How to send Adaptive Cards with CLI for Microsoft
-365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-send-adaptive-cards-with-cli-microsoft-365/ba-p/2143466) and
-also used [CLI to compare different ways to create SharePoint
-lists](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power/ba-p/2182284),
-I found some more commands that made me fall in love with it. CLI for
-Microsoft 365 has three main benefits from my point of view:
+It is possible to change the SharePoint domain name after an organisation has gone through a rebranding, acquisition or needs to change to a more appropriate name [Change your SharePoint domain name (preview)](https://docs.microsoft.com/en-us/sharepoint/change-your-sharepoint-domain-name). Before migrating the all SharePoint 2013 applications to SharePoint Online and we changed the domain name end of last year in November 2021. For business continuity a third party back up SAAS backup solution was purchased and due to tenant rename exercise the backup solution was failing due to its inability to filter out redirect sites created due to the domain rename. Redirect sites [Manage site redirects (https://docs.microsoft.com/en-us/sharepoint/manage-site-redirects)] are created when a SharePoint site address 
 
 -   it's platform-agnostic and even works on [Azure Cloud
     Shell](https://azure.microsoft.com/features/cloud-shell/?&ef_id=Cj0KCQiAnKeCBhDPARIsAFDTLTIDlnMADqglDP6WLiQ_Yq23PQL7px3W9ElP7bBanGB6762ENh6DzScaAsTxEALw_wcB:G:s&OCID=AID2100049_SEM_Cj0KCQiAnKeCBhDPARIsAFDTLTIDlnMADqglDP6WLiQ_Yq23PQL7px3W9ElP7bBanGB6762ENh6DzScaAsTxEALw_wcB:G:s) so
