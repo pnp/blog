@@ -14,9 +14,9 @@ tags: []
 type: "regular"
 ---
 
-Garbage in, garbage out. A phrase conveys that incorrect or poor data quality will produce faulty output. ETL is necessary for this reason.
+Garbage in, garbage out. This phrase conveys that incorrect or poor data quality will produce faulty and bad output. Thus, ETL is necessary for this very reason.
 
-ETL means Extract, Transform, and Load. These three steps are the foundation of any data analytics and machine learning project, especially if you want promising findings. And I bet you do. The ETL process is also a form of a data pipeline, especially when integrating data from various data sources.
+ETL means Extract, Transform, and Load. These three steps are the foundation of any data analytics and machine learning project, especially if you want promising findings. And I bet you do. The ETL process also acts as a form of a data pipeline, especially when integrating data from various data sources.
 
 Microsoft Excel and Power BI have an ETL tool and many more tools in them. However, today we are focusing on this ETL tool: Power Query.
 
@@ -93,9 +93,9 @@ Here, the transformed data is loaded into a data warehouse or an analytic tool i
 
 ## How to get started with Power Query
 
-As much as I would like to write about how to use it, I would like to show you instead. 
+As much as I would love to write about how to use it, I would rather just show you instead. 
 
-A few weeks ago, maybe a month ago, I presented at the [Microsoft Power BI UK](https://www.meetup.com/microsoft-power-bi-uk/events/286388659/) and [Power BI Learning Community, Lagos](https://www.meetup.com/Power-BI-Learning-Community/events/rgfmrsydchblb/) meetup, and showcased a few of Power Query's capabilities. You can watch this video [here](https://www.youtube.com/watch?v=gbvSqYLe5Hc) and [here](https://www.youtube.com/watch?v=H_poqUidbo0).
+A few weeks ago, maybe a month ago, I presented at the [Microsoft Power BI UK](https://www.meetup.com/microsoft-power-bi-uk/events/286388659/) and [Power BI Learning Community, Lagos](https://www.meetup.com/Power-BI-Learning-Community/events/rgfmrsydchblb/) meetup, and showcased a few of Power Query's capabilities. You can watch these presentation video recording [here](https://www.youtube.com/watch?v=gbvSqYLe5Hc) and [here](https://www.youtube.com/watch?v=H_poqUidbo0).
 
 ## Conclusion
 
