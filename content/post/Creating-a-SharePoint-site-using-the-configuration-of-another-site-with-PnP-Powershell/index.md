@@ -1,3 +1,4 @@
+---
 title: "Creating a SharePoint site using the configuration of another site with PnP Powershell"
 date: 2022-07-16T21:57:00
 author: "Lewis Baybutt"
