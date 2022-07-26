@@ -58,7 +58,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
-* [Join the next community call](https://aka.ms/officeaddinscommunitycall) on July 13th at 8:00 AM Pacific Time (PT)
+* [Join the next community call](https://aka.ms/officeaddinscommunitycall) on August 10th at 8:00 AM Pacific Time (PT)
 
 ## Q&A (Question & Answers)
 
@@ -102,15 +102,15 @@ We unfortunately cannot disclose user information regarding bitness. That being 
 
 **Can someone speak to support for Visio?**
 
-We would love to get more context on the type of support you are looking for. Please contact prateek.sharma@microsoft.com.
+We would love to get more context on the type of support you are looking for. Please go submit a feature request at https://aka.ms/m365dev-suggestions.
 
 **I sent this question a few weeks ago. Any chance you can include a compare API? Basically sending 2 files to Word Online to make a comparison and see the compared file.**
 
-We would love to discuss your use case with you further. Please contact Yun Wang at wyun@microsoft.com.
+We'd love to discuss your use case with you further. Please contact Yun Wang at wyun@microsoft.com.
 
 **Is there planned support for onSelectionChanged() for the Word API in Content Controls? I am curious about when it will work with the production release of the API.**
 
-There will be more content control support going forward, but there are currently no production plans for it this year. However, we would like to further discuss your use case with you to help us reprioritize and see if we could push forward for another release. Please contact Yun Wang (wyun@microsoft.com) and Maja Damjanic (maja.damjanic@microsoft.com).
+There will be more content control support going forward, but there are currently no production plans for it this year. However, we'd like to further discuss your use case with you to help us reprioritize and see if we could push forward for another release. Please contact Yun Wang (wyun@microsoft.com) and Maja Damjanic (maja.damjanic@microsoft.com).
 
 **Any idea if "run on startup" will be available in all platforms for Word API? I see it depends on shared execution which is broken in Word?**
 
@@ -134,7 +134,7 @@ Public folders should be supported. We invite you to try out this feature in bet
 
 **Are you going to provide an API that lets Office.js add-ins create comparison documents, which is possible with VSTO add-ins, for example?**
 
-We currently don't have this on our list. However, we would love to know more about your use case to help us understand. Please connect with Yung Wang at wyun@microsoft.com.
+We currently don't have this on our list. However, we'd love to know more about your use case to help us understand. Please connect with Yung Wang at wyun@microsoft.com.
 
 **Maybe I missed something, but I was not able to get types working when I was trying the JS API in Word. I ended up with a pile of ts-ignores. Is there a better way? I am using WebStorm, but I would be happy to use VS Code if that solves it. My hope would be to use imports like import {OfficeStuff} from 'officesdk'.**
 
@@ -159,10 +159,10 @@ Tags: [office-js-dev] [office-addins-dev]
 https://stackoverflow.com 
 Tags: [office-js] [outlook-web-addins] [office-scripts]
 
-For any products please create an issue at:
-https://github.com/OfficeDev/office-js 
+For any products please create an issue at: https://github.com/OfficeDev/office-js 
 
 **Thank you for the PowerPoint preview APIs and the progress being made there! Are there plans to continue extending the functionality such that eventually everything on a slide can be read and updated?**
+
 We encourage the users to try and test the current preview APIs and provide us the feedbacks. If the users have specific requirements other than those listed in the preview, they need to go to where to submit office proposal - Search (aka.ms) to submit new proposals.
 
 **Any plans to support the onSelectionChanged event in the Outlook Javascript Add-in APIs? In our Word and Excel Add-ins we have buttons that dynamically update according to user selection, but we can't do this in Outlook yet.**
@@ -173,16 +173,17 @@ Microsoft 365 Developer Platform - Microsoft Tech Community
 ## References
 
 * **Word Update**
-    * Documentation - [Word JavaScript API online-only requirement set](https://docs.microsoft.com/en-us/javascript/api/requirement-sets/word/word-api-online-requirement-set?view=common-js-preview)
+    * Documentation - [Word JavaScript API online-only requirement set](https://docs.microsoft.com/javascript/api/requirement-sets/word/word-api-online-requirement-set)
 * **Outlook Add-ins Update (REST decommission, Shared Folders support, Item multiselect)**
-    * Verification Form - [REST API Add-in verification request](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxxP2zxSbypLp5NxVTGn_ONUN0JVQ1Y5NlVEUUU4Uk5DSkVYR01KVElVVC4u)
+    * Verification form - [REST API Add-in verification request](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxxP2zxSbypLp5NxVTGn_ONUN0JVQ1Y5NlVEUUU4Uk5DSkVYR01KVElVVC4u)
 * **SSO samples update**
-    * Documentation - [Microsoft identity platform and OAuth 2.0 On-Behalf-Of flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow)
+    * Documentation - [Microsoft identity platform and OAuth 2.0 On-Behalf-Of flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow)
     * Documentation - [Middle-tier access token request](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#middle-tier-access-token-request)
     * Debugging tool for examining tokens - [jwt.ms](https://jwt.ms/)
     * SSO NodeJS walkthrough - [Create a Node.js Office Add-in that uses single sign-on](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/create-sso-office-add-ins-nodejs)
     * SSO NodeJS sample repo - [Office Add-in that supports Single Sign-on to Office, the Add-in, and Microsoft Graph](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/auth/Office-Add-in-NodeJS-SSO)
     * Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
+
 ## General resources
 
 * [Office developer center](https://developer.microsoft.com/office)
@@ -194,6 +195,6 @@ Microsoft 365 Developer Platform - Microsoft Tech Community
 * Microsoft 365 Platform Community on YouTube – <https://aka.ms/m365/videos>
 * All Microsoft Developer Community calls – <https://aka.ms/M365DevCalls>
 * Submit questions about add-ins development for our next community call – <https://aka.ms/officeaddinsform>
-* Next community call – July 13th at 8:00 AM PT – <https://aka.ms/officeaddinscommunitycall>
+* Next community call – August 10th at 8:00 AM PT – <https://aka.ms/officeaddinscommunitycall>
 
 {{< attachments >}}
