@@ -102,7 +102,7 @@ We unfortunately cannot disclose user information regarding bitness. That being 
 
 **Can someone speak to support for Visio?**
 
-We would love to get more context on the type of support you are looking for. Please go submit a feature request at https://aka.ms/m365dev-suggestions.
+We'd love to get more context on the type of support you are looking for. Please go submit a feature request at https://aka.ms/m365dev-suggestions.
 
 **I sent this question a few weeks ago. Any chance you can include a compare API? Basically sending 2 files to Word Online to make a comparison and see the compared file.**
 
