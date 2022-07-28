@@ -30,7 +30,7 @@ Following our monthly release cadence, we've released a new version of the CLI f
 
 ### Manage Planner
 
-Many organizations use Microsoft Planner to keep track of their work. As you start working with Planner at scale, you'll be likely to need to automate managing plans, buckets and tasks. In this release we introduce which allow you to remove a specified plan and manage planner tenant settings
+Many organizations use Microsoft Planner to keep track of their work. As you start working with Planner at scale, you'll be likely to need to automate managing plans, buckets and tasks. In this release we introduce commands which allow you to remove a specified plan and manage planner tenant settings.
 
 Removes the Microsoft Planner plan with title My Plan in group with name My Planner Group without confirmation prompt
 
@@ -86,14 +86,13 @@ Sets a specified user as group owner
 m365 spo group set --webUrl https://contoso.sharepoint.com/sites/project-x --id 18 --ownerEmail john.doe@contoso.com
 ```
 
-
 Create group with title and description
 
 ```sh
 m365 spo group add --webUrl https://contoso.sharepoint.com/sites/project-x --name "Project leaders" --description "This group contains all project leaders"
 ```
 
-For more information see the [spo roledefinition get](https://pnp.github.io/cli-microsoft365/cmd/spo/roledefinition/roledefinition-get/), [spo group set](https://pnp.github.io/cli-microsoft365/cmd/spo/group/group-set/) and [spo group add](https://pnp.github.io/cli-microsoft365/cmd/spo/group/group-add/) 
+For more information see the [spo roledefinition get](https://pnp.github.io/cli-microsoft365/cmd/spo/roledefinition/roledefinition-get/), [spo group set](https://pnp.github.io/cli-microsoft365/cmd/spo/group/group-set/) and [spo group add](https://pnp.github.io/cli-microsoft365/cmd/spo/group/group-add/) command documentation.
 
 ### Remove Microsoft Teams client cache
 
