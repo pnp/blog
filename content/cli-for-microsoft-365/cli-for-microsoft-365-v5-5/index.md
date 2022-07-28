@@ -110,7 +110,7 @@ For more information see the [teams cache remove](https://pnp.github.io/cli-micr
 
 We're constantly seeking for ways to let you work with CLI for Microsoft 365 more efficiently. In this release we introduce the @meId and @meUsername which we may use to easily specify information about the current user in a command. This is a huge improvement as now we no longer need to retrieve current user name from the `status` command or use `aad user get` to get the current user id.
 
-Get information about the currently logged user using the Id token
+Get information about the currently logged in user using the Id token
 
 ```sh
 m365 aad user get --id "@meId"
@@ -124,9 +124,15 @@ m365 aad user get --userName "@meUsername"
 
 For more information see the [@meId and @meUserName tokens](https://pnp.github.io/cli-microsoft365/user-guide/using-cli/#meid-and-meusername-tokens)
 
-#### List all external users in site groups across all site collections
+## New script samples
 
-Martin Lingstuyl contributed a sample that shows external users in site groups across all site collections [List all external users in site groups across all site collections](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/list-externalusers-in-sitegroups/).
+CLI for Microsoft 365 is a great tool both for quick adjustments to the configuration of your Microsoft 365 tenant as well as automating more complex tasks. Because CLI for Microsoft 365 is cross-platform you can use it on any OS and in any shell. To help you get started using the CLI for Microsoft 365 for automation scenarios, we started gathering some [sample scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+ 
+If you have any scripts that you use frequently, please [share](https://github.com/pnp/cli-microsoft365/discussions) them with us so that we can learn more about the common automation scenarios.
+
+### List all external users in site groups across all site collections
+
+Martin Lingstuyl contributed a sample that shows external users in site groups across all site collections [List all external users in site groups across all site collections](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/list-externalusers-in-sitegroups/).
 
 ### What else
 
@@ -138,19 +144,14 @@ This release wouldn't be possible without the help of (in alphabetical order):
 
 - [Adam Wójcik](https://github.com/Adam-it)
 - [Albert-Jan Schot](https://github.com/appieschot)
-- [crispinboylan-int](https://github.com/crispinboylan-int)
-- [fonbrauzen](https://github.com/fonbrauzen)
 - [Garry Trinder](https://github.com/garrytrinder)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
-- [Jörg Dähler](https://github.com/jdaehler)
 - [Kevin McDonnell](https://github.com/kevmcdonk)
-- [Konrad K.](https://github.com/wilecoyotegenius)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
 - [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Patrick Lamber](https://github.com/plamber)
-- [Peter Reavy](https://github.com/preavy)
 - [Smita Nachan](https://github.com/SmitaNachan)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
