@@ -106,6 +106,28 @@ m365 teams cache remove
 
 For more information see the [teams cache remove](https://pnp.github.io/cli-microsoft365/cmd/teams/cache/cache-remove/)
 
+### Introduce @meId and @meUsername user tokens to simplify working with the current user
+
+We're constantly seeking for ways to let you work with CLI for Microsoft 365 more efficiently. In this release we introduce the @meId and @meUsername which we may use to easily specify information about the current user in a command. This is a huge improvement as now we no longer need to retrieve current user name from the `status` command or use `aad user get` to get the current user id.
+
+Get information about the currently logged user using the Id token
+
+```sh
+m365 aad user get --id "@meId"
+```
+
+Get information about the currently logged in user using the UserName token
+
+```sh
+m365 aad user get --userName "@meUsername"
+```
+
+For more information see the [@meId and @meUserName tokens](https://pnp.github.io/cli-microsoft365/user-guide/using-cli/#meid-and-meusername-tokens)
+
+#### List all external users in site groups across all site collections
+
+Martin Lingstuyl contributed a sample that shows external users in site groups across all site collections [List all external users in site groups across all site collections](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/list-externalusers-in-sitegroups/).
+
 ### What else
 
 These features are just the tip of the ice berg of what we've shipped in this version. Check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v550) for the complete list of what's new and improved.
