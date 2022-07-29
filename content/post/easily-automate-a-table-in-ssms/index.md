@@ -14,6 +14,7 @@ tags: ["Power Automate"]
 type: "regular"
 ---
 
+
 This Step in this blog shows you how to Update a row in [Microsoft SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16) from the response of a [Microsoft Forms](https://www.microsoft.com/microsoft-365/online-surveys-polls-quizzes) using Power Automate
 
 ## Technologies Used
