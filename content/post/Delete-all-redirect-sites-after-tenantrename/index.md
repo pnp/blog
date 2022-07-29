@@ -12,99 +12,95 @@ type: "regular"
 
 It is possible to change the SharePoint domain name after an organisation has gone through a rebranding, acquisition or needs to change to a more appropriate name [Change your SharePoint domain name (preview)](https://docs.microsoft.com/en-us/sharepoint/change-your-sharepoint-domain-name). Before migrating the all SharePoint 2013 applications to SharePoint Online, we changed the domain name end of last year in November 2021 which created a subsequent redirect site for all existing sites. There was a business need to remove these redirect sites to prevent failures in a backup solution. Redirect sites [Manage site redirects (https://docs.microsoft.com/en-us/sharepoint/manage-site-redirects)] can be removed using PowerShell in a similar way deleting a normal site.
 
--   it's platform-agnostic and even works on [Azure Cloud
-    Shell](https://azure.microsoft.com/features/cloud-shell/?&ef_id=Cj0KCQiAnKeCBhDPARIsAFDTLTIDlnMADqglDP6WLiQ_Yq23PQL7px3W9ElP7bBanGB6762ENh6DzScaAsTxEALw_wcB:G:s&OCID=AID2100049_SEM_Cj0KCQiAnKeCBhDPARIsAFDTLTIDlnMADqglDP6WLiQ_Yq23PQL7px3W9ElP7bBanGB6762ENh6DzScaAsTxEALw_wcB:G:s) so
-    that every browser can be my admin machine
--   the syntax is easy and almost intuitive to use for me, although I
-    only start to not use the UI for everything I want to manage in my
-    Microsoft 365 tenant
--   documentation is clear and concise with excellent code samples.
+Things to be mindful
 
-Bonus: Caring maintainers and awesome contributors
+## 1. Some protected sites can not be deleted even they are redirect sites
 
-In case you never used CLI for Microsoft 365 before, please first
-read [how to get started with CLI Microsoft
-365](https://m365princess.com/how-to-get-started-with-cli-microsoft-365-and-adaptive-cards/#how-to-use-cli-microsoft-365) where
-I explain how to install the CLI.
+### 1.1 Redirect site for admin Site
+Unable to delete redirect site for admin site with error message "Remove-PnPTenantSite : User is not authorized.". The error is misleading despite running the script as SharePoint Administrator or Global Admin
 
-My screenshots will show that I work in PowerShell in Visual Studio
-Code, but you can use any other shell you like to use.
+'''
+PS C:\Windows\system32> Remove-PnPTenantSite -Url https://<newDomain>-admin.sharepoint.com/ -Force
+Remove-PnPTenantSite : User is not authorized.
+At line:1 char:1
++ Remove-PnPTenantSite -Url https://<oldDomain>-admin.sharepoint.com/ -For ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (:) [Remove-PnPTenantSite], ServerException
+    + FullyQualifiedErrorId : EXCEPTION,PnP.PowerShell.Commands.RemoveSite
+PS C:\Windows\system32>
+ 
+''' 
+Microsoft deleted the redirect site for admin from a case which was raised for that purpose.
 
-## Get a list of Power Apps
+### 1.2 Redirect site for search site
 
-Wouldn't it be nice to get a list of apps? This is what I thought as
-well. We will look into the [CLI for Microsoft 365
-documentation](https://pnp.github.io/cli-microsoft365/cmd/pa/app/app-list/) find
-the command to list all Power Apps in this tenant, which gives us an
-idea, what makers are doing to be able to offer help and support as
-well.
+Attempt to delete redirect site for search https://<oldDomain>.sharepoint.com/search throws error message
 
-After having installed CLI and logged in:
+"The requested operation is not supported for site: https://<oldDomain>.sharepoint.com/search “
 
-Run `m365 pa app list`
+![image-1](images/ErrorDeletingSearchSite.png)
 
-which will get you exactly that list - with internal names and display
-names:
+Microsoft deleted the redirect site for search from a case which was raised for that purpose.
 
-![list-pa.png](images/list-pa.png)
+## 2. Don't delete the root redirect site prior to deletion of all corresponding sites
 
-## Get an overview of custom connectors in an environment
+ The root redirect site https://<oldDomain>.sharepoint.com was deleted first as the script to retrieve redirect sites return the root redirect site first and hence the subsequent deletions of the rest of the redirect sites failed with message "The site url <oldDomain>-my.sharepoint.com does not reference a domain in this tenant." 
 
-If we allowed makers to build their custom connectors to fulfill their
-unique needs, we might want to look at that as well. If you never create
-a custom connector, you can read my blog post about [how to build a
-custom
-connector](https://m365princess.com/how-to-use-a-custom-connector-in-power-automate/).
+![image-2](images/RemoveRedirectSiteWithoutRootDomain.png)
 
-Run `m365 pa environment get --name Default-<name of your default environment>`
+Microsoft recreated the root redirect site by raising a case to enable deletion of all redirect sites.
+ 
 
-Now, where do we get this `<name of your default environment>` from?
-This is your tenant ID, which you can obtain from the URL of any Power
-App running in this environment, or you can copy it
-from [portal.azure.com](https://portal.azure.com/), where you will find
-it in Azure Active Directory as **Tenant ID**.
+'''
 
-![url-powerapps.png](images/url-powerapps.png)
+$AdminCenterURL=https://ppfonline-admin.sharepoint.com/
 
--   Copy this Tenant ID
--   Replace `<name of your default environment>` with this Tenant ID
--   Run the command
+ 
 
-## Get a list of users
+#Connect to SharePoint Online
 
-Obtaining a list of users on a specific SharePoint website will be
-helpful to get their IDs.
+Connect-PnPOnline -Url $AdminCenterURL -Interactive
 
-Run `m365 spo user list --webUrl "https://m365princess.sharepoint.com/sites/m365princess"`by
-replacing my webUrl with the tenant you are logged in and a site URL you
-want to query.
+ 
 
-The response will be something like this:
+#$redirectSites = Get-PnPTenantSite -Template RedirectSite#0 -IncludeOneDriveSites -Filter {Url -like  https://ppfcouk0  }
 
-![list-spo-users.png](images/list-spo-users.png)
+$redirectSites = Get-PnPTenantSite -Template RedirectSite#0 -IncludeOneDriveSites -Filter {Url -like '*//ppfcouk0*'}  | Where -Property Url -NotIn (https://ppfcouk0-my.sharepoint.com/, https://ppfcouk0-admin.sharepoint.com/,https://ppfcouk0.sharepoint.com/)
 
-## Get a list of external users
+ 
 
-Another cool starting point is to get a list of external users. As
-internal users tend to invite many guests, it could help have an
-overview of external users and see when these external users were
-created. You can also obtain the ID of users.
+$redirectSites | Format-Table Title, Url, Template  | out-file "c:\temp\redirectSites.csv"
 
-Run `m365 spo externaluser list`,
+ 
 
-![list-external.png](images/list-external.png)
+Read-Host -Prompt "Press Enter to start deleting (CTRL + C to exit)"
 
-## remove users
+ 
 
-With
+$redirectSites | ForEach-Object{
 
-`m365 spo user remove --webUrl "https://contoso.sharepoint.com/sites/HR" --id 10 --confirm`
+ Write-Output ("Deleting Site " + $_.Url )
 
-we can remove users.
+ Try{
 
-## Feedback & What's next?
+  Remove-PnPTenantSite -Url $_.Url -Force
 
-I hope that you now got an idea of how you can get started with CLI for
-Microsoft 365 :) Shall I blog more about it and show even more commands?
-Still, I am curious, what would you use it for? Which are the commands
-that you use every single day? Please comment below!
+  Write-Output ("Deleted Site " + $_.Url )
+
+  $_ | Add-Member -Name "Deleted?" -MemberType NoteProperty -Value "yes" -Force
+
+ }
+
+ Catch{
+
+  Write-Host $_.Exception
+
+  $_ | Add-Member -Name "Deleted?" -MemberType NoteProperty -Value "no" -Force
+
+ }
+
+}
+
+$redirectSites | Format-Table Title, Url, Template,Deleted?  | out-file "c:\temp\deletedRedirectSites.csv"
+
+...
