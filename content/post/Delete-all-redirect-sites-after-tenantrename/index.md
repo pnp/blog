@@ -21,7 +21,7 @@ It is possible to change the SharePoint domain name after an organisation has go
 It was not possible to delete redirect site for admin site with error message "Remove-PnPTenantSite : User is not authorized.". The error is misleading despite running the script as SharePoint Administrator or Global Admin
 
 ```
-PS C:\Windows\system32> Remove-PnPTenantSite -Url https://<newDomain>-admin.sharepoint.com/ -Force
+PS C:\Windows\system32> Remove-PnPTenantSite -Url https://<oldDomain>-admin.sharepoint.com/ -Force
 Remove-PnPTenantSite : User is not authorized.
 At line:1 char:1
 + Remove-PnPTenantSite -Url https://<oldDomain>-admin.sharepoint.com/ -For ...
