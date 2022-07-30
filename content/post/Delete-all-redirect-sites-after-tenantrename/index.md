@@ -5,7 +5,8 @@ author: "Reshmee Auckloo"
 githubname: Reshmee011
 categories: ["Community post"]
 images:
-- images/list-pa.png
+- images/RemoveRedirectSiteWithoutRootDomain.png
+- images/ErrorDeletingSearchSite.png
 tags: ["Redirect sites after tenant rename"]
 type: "regular"
 ---
@@ -19,7 +20,7 @@ It is possible to change the SharePoint domain name after an organisation has go
 ### 1.1 Redirect site for admin Site
 It was not possible to delete redirect site for admin site with error message "Remove-PnPTenantSite : User is not authorized.". The error is misleading despite running the script as SharePoint Administrator or Global Admin
 
-'''
+`
 PS C:\Windows\system32> Remove-PnPTenantSite -Url https://<newDomain>-admin.sharepoint.com/ -Force
 Remove-PnPTenantSite : User is not authorized.
 At line:1 char:1
@@ -29,16 +30,16 @@ At line:1 char:1
     + FullyQualifiedErrorId : EXCEPTION,PnP.PowerShell.Commands.RemoveSite
 PS C:\Windows\system32>
  
-''' 
+`
 Microsoft deleted the redirect site for admin from a case which was raised for that specific purpose.
 
 ### 1.2 Redirect site for search site
 
 Attempt to delete redirect site for search https://<oldDomain>.sharepoint.com/search throws error message
 
-"The requested operation is not supported for site: https://<oldDomain>.sharepoint.com/search “
+`The requested operation is not supported for site: https://<oldDomain>.sharepoint.com/search`
 
-![image-1](images/ErrorDeletingSearchSite.png)
+![ErrorDeletingSearchSite.png](images/ErrorDeletingSearchSite.png)
 
 Microsoft deleted the redirect site for search from another case raised for that purpose.
 
@@ -46,14 +47,13 @@ Microsoft deleted the redirect site for search from another case raised for that
 
  The root redirect site https://<oldDomain>.sharepoint.com was deleted first as the script to retrieve redirect sites returns the root redirect site first and hence the subsequent deletions of the rest of the redirect sites failed with message "The site url <oldDomain>-my.sharepoint.com does not reference a domain in this tenant." 
 
-![image-2](images/RemoveRedirectSiteWithoutRootDomain.png)
+![RemoveRedirectSiteWithoutRootDomain](images/RemoveRedirectSiteWithoutRootDomain.png)
 
 Microsoft recreated the root redirect site throught a separate case to enable deletion of all redirect sites.
  
 The script using PnP PowerShell used to delete redirect sites pointing to the old domain is as below
     
-'''
-
+`
 $AdminCenterURL=https://<newdomain>-admin.sharepoint.com/
 
 #Connect to SharePoint Online
@@ -84,4 +84,4 @@ $redirectSites | ForEach-Object{
 }
 
 $redirectSites | Format-Table Title, Url, Template,Deleted?  | out-file "c:\temp\deletedRedirectSites.csv"
-...
+`
