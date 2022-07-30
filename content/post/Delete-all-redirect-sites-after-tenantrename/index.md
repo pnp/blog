@@ -45,7 +45,9 @@ Microsoft deleted the redirect site for search from another case raised for that
 
 ## 2. Don't delete the root redirect site prior to deletion of all corresponding sites
 
- The root redirect site https://<oldDomain>.sharepoint.com was deleted first as the script to retrieve redirect sites returns the root redirect site first and hence the subsequent deletions of the rest of the redirect sites failed with message "The site url <oldDomain>-my.sharepoint.com does not reference a domain in this tenant." 
+ The root redirect site https://<oldDomain>.sharepoint.com was deleted first as the following script to retrieve redirect sites returns the root redirect site first.
+   ``` $redirectSites = Get-PnPTenantSite -Template RedirectSite#0 -IncludeOneDriveSites -Filter {Url -like  https://<olddomain>  }```
+ Hence the subsequent deletions of the rest of the redirect sites failed with message "The site url <oldDomain>-my.sharepoint.com does not reference a domain in this tenant." 
 
 ![RemoveRedirectSiteWithoutRootDomain](images/RemoveRedirectSiteWithoutRootDomain.png)
 
@@ -58,8 +60,6 @@ $AdminCenterURL=https://<newdomain>-admin.sharepoint.com/
 
 #Connect to SharePoint Online
 Connect-PnPOnline -Url $AdminCenterURL -Interactive
-
-#$redirectSites = Get-PnPTenantSite -Template RedirectSite#0 -IncludeOneDriveSites -Filter {Url -like  https://<olddomain>  }
 
 $redirectSites = Get-PnPTenantSite -Template RedirectSite#0 -IncludeOneDriveSites -Filter {Url -like '*//<olddomain>*'}  | Where -Property Url -NotIn (https://<olddomain>-my.sharepoint.com/, https://<olddomain>-admin.sharepoint.com/,https://<olddomain>.sharepoint.com/,https://<oldDomain>.sharepoint.com/search)
 
