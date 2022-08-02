@@ -5,7 +5,7 @@ author: "Eli Schei"
 githubname: eli-schei
 categories: ["Community post"]
 images:
-- images/resources.jpg
+- images/uploaddoc.jpg
 tags: ["Microsoft 365"]
 type: "regular"
 canonicalURL: "https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/"
@@ -82,7 +82,7 @@ Information on how to get the example code up and running is documentet in the r
 
 To be able to upload a document we first need to authenticate the user against the SPA you have registered in Azure AD.
 
-### Configuration
+### MSAL Configuration
 ```javascript
 const msalConfig = {
   auth: {
@@ -99,7 +99,7 @@ const msalRequest = {
 };
 
 ```
-### Code
+### MSAL Code
 
 First we create and initialize an msal-client. This is what we’ll use to communicate with the Azure SPA and authenticate the user.
 
@@ -243,6 +243,8 @@ And thats it. You have now uploaded a file to SharePoint!
 
 ### Working with large files
 If you are working with larger files (4MB+) you could use an upload session to handle the request. See links in Resources below for more information about that.
+<p></p>
+
 *** 
 ## Resources
 * [Microsoft Graph JavaScript Client Library](https://www.npmjs.com/package/@microsoft/microsoft-graph-client) – npm site.
