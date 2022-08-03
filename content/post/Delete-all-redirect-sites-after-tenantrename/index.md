@@ -36,7 +36,7 @@ Microsoft deleted the redirect site for admin from a case which was raised for t
 
 #### 1.2 Redirect site for search site
 
-Attempt to delete redirect site for search https://<oldDomain>.sharepoint.com/search throws error message
+Attempt to delete redirect site for search `https://<oldDomain>.sharepoint.com/search` throws error message
 
 ```The requested operation is not supported for site: https://<oldDomain>.sharepoint.com/search```
 

@@ -9,33 +9,39 @@ images:
 tags: ["Microsoft 365"]
 type: "regular"
 canonicalURL: "https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/"
-draft: true
+draft: false
 ---
 
-Phu, thats a long title – but I wanted to make it really clear what this blogpost is about. So as you might have guessed, in this blogpost I will cover how to upload files to SharePoint with JavaScript using Microsoft Graph for the request, and Microsoft Authentication Library for authentication.
+Phu, thats a long title – but I wanted to make it really clear what this blog post is about. So as you might have guessed, in this blog post I will cover how to upload files to SharePoint with JavaScript using Microsoft Graph for the request, and Microsoft Authentication Library for authentication.
 
-I recently had to solve this for a client, and I used a lot of time banging my head against the wall looking for resources. It was not really the lack of resorces that was the issue – but that every example was either to big – or it took for granted that I had some sort of understanding that I was obviously lacking. So when I finally figured out how to do it – and how little code it actually requires – I decided that I needed to blog about it. Hopefully this blogpost will save you some time!
+I recently had to solve this for a client, and I used a lot of time banging my head against the wall looking for resources. It was not really the lack of resources that was the issue – but that every example was either to big – or it took for granted that I had some sort of understanding that I was obviously lacking. So when I finally figured out how to do it – and how little code it actually requires – I decided that I needed to blog about it. Hopefully this blog post will save you some time!
 
-I also made a small vuejs app so you can get up and running quicly. My goal was to present you with the bare minimum amount of code that you need – and hopefully you can build on top of that.
+I also made a small vuejs app so you can get up and running quickly. My goal was to present you with the bare minimum amount of code that you need – and hopefully you can build on top of that.
 
-> **Prerequesites:** You should know basic programming, and have an understanding of working against an API – and different authentication flows.
+> **Prerequisites:** You should know basic programming, and have an understanding of working against an API – and different authentication flows.
 
 >**Source code:** You can [find the full source code for this example on my github](https://github.com/Eli-Schei/upload-files-to-sp-using-graph). Note, this is a stripped down example to show you the minimum of what you need to upload a file. Its a good baseline/starting point to build on.
 
-## Table of contents:
-* [Introduction](#introduction)
-* [Creating an app registration for a single page application in Azure AD](#creating-an-app-registration-for-a-single-page-application-in-azure-ad)
-* [Authenticating with MSAL](#authenticating-with-microsoft-authentication-library)
-* [Handling the file using FileReader](#handling-the-selected-file)
-* [Making request to Graph](#making-a-request-to-graph)
-* [Resources](#resources)
-<p></p>
+## Table of contents
 
-***
+- [Table of contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Creating an app registration for a single page application in Azure AD](#creating-an-app-registration-for-a-single-page-application-in-azure-ad)
+- [Authenticating with Microsoft Authentication Library](#authenticating-with-microsoft-authentication-library)
+  - [MSAL Configuration](#msal-configuration)
+  - [MSAL Code](#msal-code)
+- [Handling the selected file](#handling-the-selected-file)
+- [Making a request to graph](#making-a-request-to-graph)
+  - [Building the graph url to use](#building-the-graph-url-to-use)
+  - [Making the request](#making-the-request)
+  - [Working with large files](#working-with-large-files)
+- [Resources](#resources)
+
 ## Introduction
+
 There are four steps you need to complete when uploading files from a javascript app with graph. Lets have a quick look at each of them before we go into the details.
 
-1. You need to register a single page application (SPA) in Azure Acive Directory (AAD).
+1. You need to register a single page application (SPA) in Azure Active Directory (AAD).
 You will use this to authenticate your users.
 2. You need to use Microsoft Authentication library (msal) to authenticate against the SPA you create in the first step.
 So you know who wants to upload a file – and that they have permission to do so.
@@ -43,38 +49,34 @@ So you know who wants to upload a file – and that they have permission to do s
 Microsoft Graph accepts ArrayBuffer, Buffer or Blob objects.
 4. You need to make a request to Microsoft Graph with an Authentication Token from msal, and the file your user has selected.
 
-Maybe you allready know how to do some of these steps, or maybe you are new to all of them. In the rest of this blogpost I will cover every step in detail. I also provide you with a list of resources.
-<p></p>
-
-***
+Maybe you already know how to do some of these steps, or maybe you are new to all of them. In the rest of this blog post I will cover every step in detail. I also provide you with a list of resources.
 
 ## Creating an app registration for a single page application in Azure AD
-_Since you are reading this blogpost I’ll asume that you allready have a Microsoft 365 tenant where you would like to upload the documents. If not you can [register for a free dev tenant her](https://developer.microsoft.com/en-us/microsoft-365/dev-program)._
 
-If you don’t have admin priveleges to Azure AD you need to get someone who does to register the app for you.
+_Since you are reading this blog post I’ll assume that you allready have a Microsoft 365 tenant where you would like to upload the documents. If not you can [register for a free dev tenant here](https://developer.microsoft.com/microsoft-365/dev-program)._
 
-**1.** Log in to [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview).
+If you don’t have admin privileges to Azure AD you need to get someone who does to register the app for you.
 
-**2.** In the menu on the left select App registrations
+1. Log in to [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview).
+
+1.  In the menu on the left select App registrations
 
 ![Image of AD menu](images/image-1.png)
 
-**3.** Select “New registration
+1. Select “New registration
 
 ![Image of AD menu](images/image-2.png)
 
-**4.** Fill in the name, select the account types you would like to support. And set the Redirect URI type to “Single-page application (SPA)”. 
+1. Fill in the name, select the account types you would like to support. And set the Redirect URI type to **Single-page application (SPA)**. 
 
 _Note, the URI you fill in must match the url where your app is running. In my example code that is localhost:3000. You can change this URI later when the code is running from somewhere else._
 
 ![Image of Registration site - select Single-page application (SPA)](images/image-3.png)
 
-**5.** Click “Register”. On the app info page copy down the Application (client) ID, and the Directory (tenant) ID.
+1.  Click **Register**. On the app info page copy down the Application (client) ID, and the Directory (tenant) ID.
 
 ![Finished registration - copy down app ID and Tenant (Directory) ID](images/image-4.png)
-<p></p>
 
-***
 ## Authenticating with Microsoft Authentication Library
 
 > **Example code**
@@ -84,6 +86,7 @@ Information on how to get the example code up and running is documentet in the r
 To be able to upload a document we first need to authenticate the user against the SPA you have registered in Azure AD.
 
 ### MSAL Configuration
+
 ```javascript
 const msalConfig = {
   auth: {
@@ -100,6 +103,7 @@ const msalRequest = {
 };
 
 ```
+
 ### MSAL Code
 
 First we create and initialize an msal-client. This is what we’ll use to communicate with the Azure SPA and authenticate the user.
@@ -108,9 +112,10 @@ First we create and initialize an msal-client. This is what we’ll use to commu
 const msalClient = new msal.PublicClientApplication(msalConfig);
 
 ```
+
 Then we write a function to handle the login. This is done by using the msal-client and calling the loginPopup function with the scopes we created in the configuration.
 
-You can also add functionallity to get the token silently first if the user is allready logged in – so the user is not promted to log in every time. But since I wanted to keep this code sample as small as possible I left this out here, but you can see an example in the next code snippet.
+You can also add functionality to get the token silently first if the user is already logged in – so the user is not prompted to log in every time. But since I wanted to keep this code sample as small as possible I left this out here, but you can see an example in the next code snippet.
 
 ```javascript
 export async function signInWithMsal() {
@@ -118,7 +123,9 @@ export async function signInWithMsal() {
   sessionStorage.setItem("msalAuthName", authResponse.account.username);
 }
 ```
-We also have a function to get the msal token. This function is used in the next step when we call Graph. Here you can also se an example of ataining the token silently.
+
+We also have a function to get the msal token. This function is used in the next step when we call Graph. Here you can also see an example of obtaining the token silently.
+
 ```javascript
 export async function getMsalToken() {
   let username = sessionStorage.getItem("msalAuthName");
@@ -136,18 +143,22 @@ export async function getMsalToken() {
 }
 
 ```
-*** 
+
 ## Handling the selected file
-Graph will axcept the file as an ArrayBuffer, a Buffer or a Blob. In my example we use a filereader object to read the file as an ArrayBuffer and send it to the uploadDocument function.
+
+Graph will accept the file as an ArrayBuffer, a Buffer or a Blob. In my example we use a file reader object to read the file as an ArrayBuffer and send it to the uploadDocument function.
 
 Obtain the filename and the file itself from the input field.
+
 ```javascript
 const filename = 
           document.getElementById("selectedFile").files[0].name;
 const fileToUplode = 
           document.getElementById("selectedFile").files[0];
 ```
-Create a FileReader and a function that will run when the FileReader is loading. Then call the readFileAsArrayBuffer function passing in the file. The onload function has an event parameter ‘event.target.result’ will contain the ArrayBuffer version of the selected file.
+
+Create a FileReader and a function that will run when the FileReader is loading. Then call the `readFileAsArrayBuffer` function passing in the file. The `onload` function has an event parameter `event.target.result` will contain the ArrayBuffer version of the selected file.
+
 ```javascript
 filereader.onload = async (event) => {
   await uploadDocument(filename, event.target.result);
@@ -155,7 +166,9 @@ filereader.onload = async (event) => {
 //This will trigger the onload function above.
 filereader.readAsArrayBuffer(fileToUplode);
 ```
-Complete code for handling the file and calling uploadDocument()
+
+Complete code for handling the file and calling `uploadDocument()`
+
 ```javascript
 const onSubmit = async (event) => {
       //prevents the site from reloading
@@ -179,11 +192,13 @@ const onSubmit = async (event) => {
       filereader.readAsArrayBuffer(fileToUplode);
     };
 ```
-***
+
 ## Making a request to graph
-Now that the authenitcation is handled we can go ahead an make a request to Microsoft Graph. First we need to build the url to use with the request. Then we need to handle the file so it can be sent with the request, and lastly we need to send the request to graph.
+
+Now that the authentication is handled we can go ahead an make a request to Microsoft Graph. First we need to build the url to use with the request. Then we need to handle the file so it can be sent with the request, and lastly we need to send the request to graph.
 
 ### Building the graph url to use
+
 I decided to write a section on how to build your graph-url since I thought it was difficult to figure out exactly what it should contain.
 
 This is how the url should look:
@@ -193,7 +208,8 @@ This is how the url should look:
  + filename + ":/content";
 
 ```
-I think “SOME_ID” should be the Site-id, and the “SOME_OTHER_ID” should be the web-id. But instead of looking these up I found a graph request that will return the complete id including domian.
+
+I think “SOME_ID” should be the Site-id, and the “SOME_OTHER_ID” should be the web-id. But instead of looking these up I found a graph request that will return the complete id including domain.
 
 To attain it just run the below request in Graph Explorer (or Postman).
 
@@ -202,19 +218,22 @@ _Note, to run this request you need to include a bearer token. If you do it from
 ```
 https://graph.microsoft.com/v1.0/sites/YOUR_DOMAIN.sharepoint.com:/sites/NAME_OF_SITE_YOU_WANT_TO_UPLOAD_TO/
 
-
 ```
+
 This will give you a response that contains an id like this:
 
 ![Image of response that contains the ID you want to use when making graph call](images/image-5.png)
 
 Copy the whole “id” and put it in your uploadURL
+
 ```javascript
 "https://graph.microsoft.com/v1.0/sites/PUT_THE_ID_FROM_PREVIOUS_STEP_HERE/drive/root:/"
  + filename + ":/content"
 
 ```
+
 ### Making the request
+
 There is a Microsoft Graph SDK for javascript, but for this example I’m using a regular window.fetch request instead of creating a graphClient. To learn more about the Graph SDK see links listed in Resources.
 
 We pass our uploadURL as the first parameter to fetch. The secod parameter is an object that contains the header with the authorization Bearer token, and a body that contains the file.
@@ -240,17 +259,18 @@ export async function uploadDocument(filename, fileToUpload){
 }
 
 ```
+
 And thats it. You have now uploaded a file to SharePoint!
 
 ### Working with large files
-If you are working with larger files (4MB+) you could use an upload session to handle the request. See links in Resources below for more information about that.
-<p></p>
 
-*** 
+If you are working with larger files (4MB+) you could use an upload session to handle the request. See links in Resources below for more information about that.
+
 ## Resources
+
 * [Microsoft Graph JavaScript Client Library](https://www.npmjs.com/package/@microsoft/microsoft-graph-client) – npm site.
 * [Make API calls using the Microsoft Graph SDK](https://docs.microsoft.com/en-us/graph/sdks/create-requests?tabs=TypeScript) – Microsoft docs
-*[Upload a large file with a upload session](https://docs.microsoft.com/en-us/graph/api/driveitem-createuploadsession?view=graph-rest-1.0&preserve-view=true) – Microsoft docs
+* [Upload a large file with a upload session](https://docs.microsoft.com/en-us/graph/api/driveitem-createuploadsession?view=graph-rest-1.0&preserve-view=true) – Microsoft docs
 * [Upload small or large files using Graph](https://www.youtube.com/watch?v=YYMFP8xcNOQ) – YouTube, Microsoft 365 Developer channel
 * [Microsoft Graph JavaScript Client Library](https://github.com/microsoftgraph/msgraph-sdk-javascript) – GitHub, Microsoft Graph repo
 * [Build JavaScript single page apps with Graph](https://docs.microsoft.com/en-us/graph/tutorials/javascript) – Tutorial – Microsoft docs
