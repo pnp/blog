@@ -9,6 +9,7 @@ images:
 tags: ["Microsoft 365"]
 type: "regular"
 canonicalURL: "https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/"
+draft: true
 ---
 
 Phu, thats a long title – but I wanted to make it really clear what this blogpost is about. So as you might have guessed, in this blogpost I will cover how to upload files to SharePoint with JavaScript using Microsoft Graph for the request, and Microsoft Authentication Library for authentication.
