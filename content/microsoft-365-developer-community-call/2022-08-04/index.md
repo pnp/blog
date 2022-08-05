@@ -8,7 +8,7 @@ images:
 - images/recording-4th-august.png
 tags: []
 type: "regular"
-summary: "Demos: ProvisionGenie v.3.0 – focus on Localization and Accessability and List formatting for backgrounds and borders based on classes used. Delivered 8 new/updated Power Platform Independent Publisher Connectors along with 5 script, and 2 Power Platform samples."
+summary: "Demos: ProvisionGenie v.3.0 – focus on Localization and Accessability and List formatting backgrounds and borders using new isSelected placeholder. Delivered 8 new/updated Power Platform Independent Publisher Connectors along with 5 script, and 2 Power Platform samples."
 videos:
 - https://www.youtube.com/watch?v=yZ-dJvmt8Zo
 draft: false
@@ -51,7 +51,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 ### Demos
 
 * **ProvisionGenie v.3.0 – focus on Localization and Accessibility** – newly released v3.0 delivers Localization - UI in 12 languages. Languages are easily added – upload from spreadsheet to localization table in Microsoft Dataverse. Admins can limit language options presented for user to choose. Accessibility options include Theming, Screen reader and Keyboard-only support, and language availability. Call to action is to translate ProvisionGenie into more languages to enable more people to benefit from this application.
-* **List formatting for backgrounds and borders based on classes used** – new placeholder isSelected used with classes found on formatting samples site, applies formatting (backgrounds, borders) to selected row or changes image in column of selected row. Classes used ms-bgColor- applies a background color, sp-field-border sets border-width and border-style. Two Bonus on-the-fly demos show new “customRowAction” to expose a context menu and new expression called “split” for formatting text and borders around text.
+* **List formatting backgrounds and borders using new isSelected placeholder** – isSelected is used with classes found on formatting samples site, applies formatting (backgrounds, borders) to selected row or changes image in column of selected row. Classes used ms-bgColor- applies a background color, sp-field-border sets border-width and border-style. Two Bonus on-the-fly demos show new “customRowAction” to expose a context menu and new expression called “split” for formatting text and borders around text.
 
 The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
@@ -66,7 +66,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 * Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German – [8:46](https://youtu.be/yZ-dJvmt8Zo?t=526)
 * Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:30](https://youtu.be/yZ-dJvmt8Zo?t=630)
 * Demo - ProvisionGenie v.3.0 – focus on Localization and Accessability – [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese – [11:51](https://youtu.be/yZ-dJvmt8Zo?t=711)
-* Demo - List formatting for backgrounds and borders based on classes used – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [28:42](https://youtu.be/yZ-dJvmt8Zo?t=1722)
+* Demo - List formatting backgrounds and borders using new isSelected placeholder – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [28:42](https://youtu.be/yZ-dJvmt8Zo?t=1722)
 
 ## Together Mode
 
@@ -99,7 +99,7 @@ Thank you for your amazing support to the community. If you missed the call. No 
     * Documentation – [ProvisionGenie – Dataverse vs Dataverse for Teams](https://provisiongenie.com/architecturedecisions/#dataverse-vs-dataverse-for-teams)
     * Tool – [ProvisionGenie](https://github.com/ProvisionGenie)
     * Documentation - [Release notes](https://provisiongenie.com/about/releasenotes/)
-* **List formatting for backgrounds and borders based on classes used**
+* **List formatting backgrounds and borders using new isSelected placeholder**
     * List Formatting Samples - [Samples by Class: ms-bgColor-\*](https://pnp.github.io/List-Formatting/groupings/classes/ms-bgColor/)
     * List Formatting Samples - [Samples by Class: sp-field-border\*](https://pnp.github.io/List-Formatting/groupings/classes/sp-field-border/)
     * Documentation - [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) \| [aka.ms/spdev-column-formatting](https://aka.ms/spdev-column-formatting)
@@ -176,7 +176,7 @@ You can download recurrent invite from [https://aka.ms/m365-dev-sig](https://aka
 
 *“Sharing is caring”*
 
-*Microsoft 365 Community (PnP) team, Microsoft - 8th of August 2022*
+*Microsoft 365 Community (PnP) team, Microsoft - 4th of August 2022*
 
 {{< attachments >}}
 
