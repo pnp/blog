@@ -181,7 +181,7 @@ Microsoft 365 Developer Platform - Microsoft Tech Community
     * Debugging tool for examining tokens - [jwt.ms](https://jwt.ms/)
     * SSO NodeJS walkthrough - [Create a Node.js Office Add-in that uses single sign-on](https://docs.microsoft.com/office/dev/add-ins/develop/create-sso-office-add-ins-nodejs)
     * SSO NodeJS sample repo - [Office Add-in that supports Single Sign-on to Office, the Add-in, and Microsoft Graph](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/auth/Office-Add-in-NodeJS-SSO)
-    * Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
+    * Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/)
 
 ## General resources
 
