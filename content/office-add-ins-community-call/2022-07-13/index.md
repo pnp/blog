@@ -132,7 +132,7 @@ Public folders should be supported. We invite you to try out this feature in bet
 
 **Are you going to provide an API that lets Office.js add-ins create comparison documents, which is possible with VSTO add-ins, for example?**
 
-We currently don't have this on our list. However, we'd love to know more about your use case to help us understand. Please connect with Yung Wang at wyun@microsoft.com.
+We currently don't have this on our list. However, we'd love to know more about your use case to help us understand.
 
 **Maybe I missed something, but I was not able to get types working when I was trying the JS API in Word. I ended up with a pile of ts-ignores. Is there a better way? I am using WebStorm, but I would be happy to use VS Code if that solves it. My hope would be to use imports like import {OfficeStuff} from 'officesdk'.**
 
