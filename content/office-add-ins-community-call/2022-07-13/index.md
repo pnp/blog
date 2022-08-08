@@ -179,7 +179,7 @@ Microsoft 365 Developer Platform - Microsoft Tech Community
     * Documentation - [Microsoft identity platform and OAuth 2.0 On-Behalf-Of flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow)
     * Documentation - [Middle-tier access token request](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#middle-tier-access-token-request)
     * Debugging tool for examining tokens - [jwt.ms](https://jwt.ms/)
-    * SSO NodeJS walkthrough - [Create a Node.js Office Add-in that uses single sign-on](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/create-sso-office-add-ins-nodejs)
+    * SSO NodeJS walkthrough - [Create a Node.js Office Add-in that uses single sign-on](https://docs.microsoft.com/office/dev/add-ins/develop/create-sso-office-add-ins-nodejs)
     * SSO NodeJS sample repo - [Office Add-in that supports Single Sign-on to Office, the Add-in, and Microsoft Graph](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/auth/Office-Add-in-NodeJS-SSO)
     * Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
 
