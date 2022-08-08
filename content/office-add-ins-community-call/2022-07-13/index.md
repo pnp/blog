@@ -77,7 +77,7 @@ https://stackoverflow.com/questions/66776046/whats-the-different-about-office-co
 but the third sentence on this page says that the "Office.auth.getAccessToken" will be the one to receive updates in the future.
 https://docs.microsoft.com/en-us/javascript/api/office-runtime/officeruntime.auth?view=common-js-preview
 
-(2) Why does the documentation refer to "Office.auth" when the full namespace is "Office.context.auth" ?
+(2) Why does the documentation refer to "Office.auth" when the full namespace is "Office.context.auth"?
 Could you confirm that the full namespace is actually
 Office.context.auth.getAccessToken
 and not Office.auth.getAccessToken
