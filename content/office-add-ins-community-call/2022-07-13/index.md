@@ -71,7 +71,7 @@ If you're referring to keyboard shortcuts, yes, but this is only available in Ex
 
 **I have two questions both relating to getAccessToken
 
-(1) Can you clarify which namespace we should be using to access the getAccessToken method please ?
+(1) Can you clarify which namespace we should be using to access the getAccessToken method please?
 The Microsoft answer to this post says that we should be using the OfficeRuntime.Auth.getAccessToken.
 https://stackoverflow.com/questions/66776046/whats-the-different-about-office-context-auth-getaccesstokenasync-vs-officerun
 but the third sentence on this page says that the "Office.auth.getAccessToken" will be the one to receive updates in the future.
