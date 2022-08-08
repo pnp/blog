@@ -141,7 +141,7 @@ Use the Node.js environment to create your add-in could help. For further guidan
 **Did I read correctly from the Q&A slides that you can embed add-ins in an Excel workbook?**
 
 Yes, you can embed add-ins in an Excel workbook. For guidance, see [Open Excel from your web page and embed your Office Add-in](https://docs.microsoft.com/office/dev/add-ins/excel/pnp-open-in-excel).
-For the technique to embed an add-in Excel using open in Teams approach, see Office-Add-in-samples/Samples/excel-open-in-teams at main · OfficeDev/Office-Add-in-samples (github.com).
+For the technique to embed an add-in Excel using open in Teams approach, see the [Office Add-ins sample](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/excel-open-in-teams).
 
 **Via the Microsoft Graph API, it is possible to add an attachment to an email object (https://docs.microsoft.com/en-us/graph/api/message-post-attachments?view=graph-rest-1.0&tabs=http), however, I cannot specify metadata such as Content-Type, name, or Content-Transfer-Encoding. Will it be supported in the future or is there another way to add this information?**
 
