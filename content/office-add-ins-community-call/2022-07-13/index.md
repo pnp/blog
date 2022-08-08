@@ -108,7 +108,7 @@ We'd love to discuss your use case with you further. Please contact Yun Wang at 
 
 **Is there planned support for onSelectionChanged() for the Word API in Content Controls? I am curious about when it will work with the production release of the API.**
 
-There will be more content control support going forward, but there are currently no production plans for it this year. However, we'd like to further discuss your use case with you to help us reprioritize and see if we could push forward for another release. Please contact Yun Wang (wyun@microsoft.com) and Maja Damjanic (maja.damjanic@microsoft.com).
+There will be more content control support going forward, but there are currently no production plans for it this year. However, we'd like to further discuss your use case with you to help us reprioritize and see if we could push forward for another release. 
 
 **Any idea if "run on startup" will be available in all platforms for Word API? I see it depends on shared execution which is broken in Word?**
 
