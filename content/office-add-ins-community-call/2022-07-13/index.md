@@ -161,7 +161,8 @@ For any products please create an issue at: https://github.com/OfficeDev/office-
 
 **Thank you for the PowerPoint preview APIs and the progress being made there! Are there plans to continue extending the functionality such that eventually everything on a slide can be read and updated?**
 
-We encourage the users to try and test the current preview APIs and provide us the feedbacks. If the users have specific requirements other than those listed in the preview, they need to go to where to submit office proposal - Search (aka.ms) to submit new proposals.
+
+We encourage you to try and test the current preview APIs and provide us with your feedback. If you have specific requirements other than those listed in the preview, please submit your request at https://aka.ms/m365dev-suggestions.
 
 **Any plans to support the onSelectionChanged event in the Outlook Javascript Add-in APIs? In our Word and Excel Add-ins we have buttons that dynamically update according to user selection, but we can't do this in Outlook yet.**
 
