@@ -120,7 +120,7 @@ There are currently no plans to release an API for this. However, the identity a
 
 **Any ETA on when track changes will be available for all platforms?**
 
-By the end of this year or early next year. We encourage you to try this feature on the online version first, then have your users try it in production before the features is supported on all platforms. To see a demo of this feature, see Office Add-ins community call – February 9, 2022 (pnp.github.io).
+By the end of this year or early next year. We encourage you to try this feature on the online version first, then have your users try it in production before the features is supported on all platforms. To see a demo of this feature, see [Office Add-ins community call – February 9, 2022](https://pnp.github.io/blog/office-add-ins-community-call/office-add-ins-community-call-february-9-2022).
 
 **Graph-compatible tokens are really easy to get when using TeamsFX. Are you considering replicating that very nice user experience for Office.js as well?**
 
