@@ -93,7 +93,7 @@ If you need more capabilities, please create an idea request with more details a
 
 **While we are waiting; we are considering dropping support for our COM addin for 32-bit Office; do you have any data, what percentage of users is still using 32-bit office, as opposed to 64-bit office (say since Excel 2013...) ?
 
-we have a Web Addin as well, which is backed/interacts with a server, but we are not yet in a position to completely switch away from COM; we use 3rd party DLLs, which are getting harder and harder to come by in 32-bit format.**
+We have a web add-in as well, which is backed/interacts with a server, but we are not yet in a position to completely switch away from COM; we use 3rd party DLLs, which are getting harder and harder to come by in 32-bit format.**
 
 We unfortunately cannot disclose user information regarding bitness. That being said for a modern add-in the users using 32 bit office may not make a heavy impact. 
 
