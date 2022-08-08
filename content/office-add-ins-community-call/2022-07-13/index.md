@@ -145,7 +145,7 @@ For the technique to embed an add-in Excel using open in Teams approach, see the
 
 **Via the Microsoft Graph API, it is possible to add an attachment to an email object (https://docs.microsoft.com/en-us/graph/api/message-post-attachments?view=graph-rest-1.0&tabs=http), however, I cannot specify metadata such as Content-Type, name, or Content-Transfer-Encoding. Will it be supported in the future or is there another way to add this information?**
 
-We currently do not have concrete plans on the roadmap. It would be great if you could create a feature request with more information at https://aka.ms/m365dev-suggestions.
+We currently don't have concrete plans on the roadmap. It would be great if you could create a feature request with more information at https://aka.ms/m365dev-suggestions.
 
 **Thank you for the great APIs! My company is developing a suite of Office Add-ins and from time to time runs into API limitations and/or feature parity issues across different applications. What would be the best way to bring these to the attention of Office Add-ins team? Do you have an email address for a developer liaison? techcommunity.microsoft.com can sometime feel like a black hole.**
 
