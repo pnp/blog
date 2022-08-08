@@ -14,9 +14,7 @@ videos:
 draft: true
 ---
 
-## Call Summary
-
-This month's community call topics:
+## Call summary
 
 * **Updates on Word** – JavaScript API online-only GA features, Fields API preview, and 6-month roadmap – [Yun Wang] - Principal Product Manager (Microsoft) 
 * **Updates on Outlook Add-ins** – REST decommission, Shared Folders support, and pre-beta look at Item Multi-Select capability – [Juan Balmori] - Principal Product Manager (Microsoft) | @juaneloBalmor & [Victoria Iannotti] - Software Engineer (Microsoft) 
@@ -28,13 +26,6 @@ This month's community call topics:
 The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded July 13, 2022.
 
 {{< youtube COic6ghBWsU&t >}}
-
-## Topic summaries
-
-* **Microsoft Word update** – specifically, Word JavaScript API online-only requirement set - GA feature areas available only for Word on the web.  Feature areas include support for footnotes and endnotes (insert, get collections, navigate and operate footnotes/endnotes), comments and track changes.  Additionally, Fields APIs (web-only Preview) to Get collections of fields, Paragraph, Range, Table and TableRow objects and Navigate fields.  Feature candidates for next GA release.  
-* **Outlook Add-ins Update (REST decommission, Shared Folders support, Item Multi-Select)** – Outlook add-in news.  1) REST Decommission update - APIs impacted, key dates for add-ins using REST and Microsoft Graph calls plus issues reporting; 2) Support for Shared Folders - Delegates and Shared Mailbox in Exchange OnPrem is in beta! (win32 16.0.15505.20000), and 3) Support for Item Multi-Select (Beta coming soon).  For example select 3 e-mails and retrieve information from all three simultaneously.  
-* **SSO samples update** – token handling in SSO NodeJS sample has been updated to not return a middle-tier token back to the client.   Step through the logic of the three scenarios addressed in this sample.  SSO with OBO (successful flow), SSO fails and must use MSAL (fallback flow) and the SSO token expired flow.   Tips on extending this sample along with security notes.
-
 ## Agenda
 
 * Word update – [Yun Wang] - Principal Product Manager (Microsoft) – [1:21](https://www.youtube.com/watch?v=COic6ghBWsU&t=81s)
@@ -42,7 +33,14 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 * SSO samples update – [David Chesnut] - Senior Technical Writer (Microsoft) | @davidchesnut – [23:38] (https://www.youtube.com/watch?v=COic6ghBWsU&t=1418s)
 * Community spotlight – [42:40](https://www.youtube.com/watch?v=COic6ghBWsU&t=2560s)
 * Community panels – [43:14](https://www.youtube.com/watch?v=COic6ghBWsU&t=2594s)
-* Q&A – (http://twitter.com/davidchesnut) – Senior Technical Writer (Microsoft) \| @davidchesnut – [44:34](https://www.youtube.com/watch?v=COic6ghBWsU&t=2674s)
+* Q&A – (http://twitter.com/davidchesnut) – Senior Technical Writer (Microsoft) | @davidchesnut – [44:34](https://www.youtube.com/watch?v=COic6ghBWsU&t=2674s)
+
+## Topic summaries
+
+* **Microsoft Word JavaScript API online-only requirement set update** –  GA feature areas available only for Word on the web. Feature areas include support for comments, track changes, and footnotes/endnotes (Insert, GetCollection, Navigate, and Operate objects). Additionally, Fields APIs (web-only Preview) to get collections of fields, Paragraph, Range, Table, and TableRow objects and Navigate fields. Feature candidates for next GA release.
+* **Outlook Add-ins Updates** 1) REST Decommission update: APIs impacted, key dates for add-ins using REST, and Microsoft Graph calls plus issues reporting; 2) Support for Shared Folders: delegates and shared Mailbox in Exchange OnPrem is in Beta! (Win32 16.0.15505.20000), and 3) Support for item multi-select (Beta coming soon). For example, select three e-mails and retrieve information from all three simultaneously.  
+* **SSO samples update** – token handling in SSO NodeJS sample has been updated to not return a middle-tier token back to the client. Step through the logic of the three scenarios addressed in this sample: SSO with OBO (successful flow), SSO fails, and must use MSAL (fallback flow), and the SSO token expired flow. Tips on extending this sample along with security notes.
+
 
 ## Actions
 
@@ -145,7 +143,7 @@ Using the Node.js environment to create your add-in could help. For further guid
 Yes, you can embed add-ins in an Excel workbook. For guidance, see Open Excel from your web page and embed your Office Add-in. 
 For the technique to embed an add-in Excel using open in Teams approach, see Office-Add-in-samples/Samples/excel-open-in-teams at main · OfficeDev/Office-Add-in-samples (github.com).
 
-**Via the GraphAPI it is possible to add an attachment to an email object (https://docs.microsoft.com/en-us/graph/api/message-post-attachments?view=graph-rest-1.0&tabs=http), however, I cannot specify metadata such as Content-Type, name, or Content-Transfer-Encoding. Will it be supported in the future or is there another way to add this information?**
+**Via the Microsoft Graph API, it is possible to add an attachment to an email object (https://docs.microsoft.com/en-us/graph/api/message-post-attachments?view=graph-rest-1.0&tabs=http), however, I cannot specify metadata such as Content-Type, name, or Content-Transfer-Encoding. Will it be supported in the future or is there another way to add this information?**
 
 We currently do not have concrete plans on the roadmap. It would be great if you could create a feature request with more information at https://aka.ms/m365dev-suggestions.
 
@@ -190,11 +188,11 @@ Microsoft 365 Developer Platform - Microsoft Tech Community
 
 ## Stay connected
 
-* See the full blog post for this call in the Microsoft 365 platform community blog – <https://aka.ms/m365pnp/blog>
-* Follow us on Twitter – <https://twitter.com/microsoft365dev>
-* Microsoft 365 Platform Community on YouTube – <https://aka.ms/m365/videos>
-* All Microsoft Developer Community calls – <https://aka.ms/M365DevCalls>
-* Submit questions about add-ins development for our next community call – <https://aka.ms/officeaddinsform>
+* See the full blog post at [Microsoft 365 platform community blog](https://aka.ms/m365pnp/blog)
+* Follow us on [Twitter](https://twitter.com/microsoft365dev)
+* Microsoft 365 Platform Community on [YouTube](https://aka.ms/m365/videos)
+* All Microsoft Developer Community calls(https://aka.ms/M365DevCalls>)
+* Submit questions about add-ins development for our [next community call](https://aka.ms/officeaddinsform)
 * Next community call – August 10th at 8:00 AM PT – <https://aka.ms/officeaddinscommunitycall>
 
 {{< attachments >}}
