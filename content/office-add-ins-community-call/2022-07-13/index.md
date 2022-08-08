@@ -128,7 +128,7 @@ Yes, we're looking to unify these concepts for Office.js.
 
 **Public folders are basically shared mailboxes (folders). They are special shared mailboxes for public folders. Are they supported?**
 
-Public folders should be supported. We invite you to try out this feature in beta and welcome your feedback.
+Public folders are supported. We invite you to try out this feature in beta and welcome your feedback.
 
 **Are you going to provide an API that lets Office.js add-ins create comparison documents, which is possible with VSTO add-ins, for example?**
 
