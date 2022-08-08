@@ -166,7 +166,7 @@ We encourage you to try and test the current preview APIs and provide us with yo
 
 **Any plans to support the onSelectionChanged event in the Outlook Javascript Add-in APIs? In our Word and Excel Add-ins we have buttons that dynamically update according to user selection, but we can't do this in Outlook yet.**
 
-There currently aren't any plans on our roadmap to support this event in our Outlook Javascript apis. It would be great if you could go add this feature as a new feature request so we can do further investigation into this. 
+There currently aren't any plans on our roadmap to support this event in our Outlook JavaScript APIs. It would be great if you could add this as a new feature request at https://aka.ms/m365dev-suggestions so we could further investigate this. 
 Microsoft 365 Developer Platform - Microsoft Tech Community
 
 ## References
