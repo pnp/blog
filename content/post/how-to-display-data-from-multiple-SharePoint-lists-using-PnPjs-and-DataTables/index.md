@@ -5,7 +5,7 @@ author: "Arash Aghajani"
 githubname: ArashAghajani
 categories: ["Community post"]
 images:
-- images/myImage.png
+- images/sp-pnpjs-datatables-sample-image.PNG
 tags: []
 type: "regular"
 ---
