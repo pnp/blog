@@ -1,6 +1,6 @@
 ---
 title: "Office Add-ins community call – July 13, 2022"
-summary: "Word update, updates on Outlook Add-ins (REST decommission, Shared Folders support, Item multiselect), and on SSO samples update.  This month’s Community Spotlight recognizes Maarten van Stam.  Covered Community panels plus Q&A in chat and at end of call. "
+summary: "Word API updates, Outlook add-ins updates (REST decommission, shared folders support, item multi-select), and SSO samples update.  This month’s Community Spotlight recognizes Maarten van Stam.  Covered community panels plus Q&A in chat and at end of call."
 date: 2022-07-22T08:01:00-05:00
 author: "Preethika Kiruveedula"
 githubname: pkiruveedula
