@@ -91,7 +91,7 @@ and not Office.auth.getAccessToken
 It isn't possible to conditionally install an add-in based on various conditions about the opened file. You can however enable functionality in your add-in based on the conditions you want to detect. For more information, see [Run code in your Office Add-in when the document opens](https://docs.microsoft.com/office/dev/add-ins/develop/run-code-on-document-open). You can also show the task pane or hide the task pane based on conditions you define. For more information, see [Show or hide the task pane of your Office Add-in](https://docs.microsoft.com/office/dev/add-ins/develop/show-hide-add-in). You can also embed your add-in into an Excel spreadsheet if opening the file from your service. For more information, see [Open Excel from your web page and embed your Office Add-in](https://docs.microsoft.com/office/dev/add-ins/excel/pnp-open-in-excel).
 If you need more capabilities, please create an idea request with more details about your scenario at https://aka.ms/m365dev-suggestions
 
-**While we are waiting; we are considering dropping support for our COM addin for 32-bit Office; do you have any data, what percentage of users is still using 32-bit office, as opposed to 64-bit office (say since Excel 2013...) ?
+**While we're waiting; we're considering dropping support for our COM add-in for 32-bit Office; do you have any data, what percentage of users is still using 32-bit Office, as opposed to 64-bit Office (say since Excel 2013...)?
 
 We have a web add-in as well, which is backed/interacts with a server, but we are not yet in a position to completely switch away from COM; we use 3rd party DLLs, which are getting harder and harder to come by in 32-bit format.**
 
