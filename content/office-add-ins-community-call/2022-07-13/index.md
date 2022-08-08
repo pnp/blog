@@ -124,7 +124,7 @@ By the end of this year or early next year. We encourage you to try this feature
 
 **Graph-compatible tokens are really easy to get when using TeamsFX. Are you considering replicating that very nice user experience for Office.js as well?**
 
-Yes, we are looking to unify these concepts for Office.js.
+Yes, we're looking to unify these concepts for Office.js.
 
 **Public folders are basically shared mailboxes (folders). They are special shared mailboxes for public folders. Are they supported?**
 
