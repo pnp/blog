@@ -177,7 +177,7 @@ Microsoft 365 Developer Platform - Microsoft Tech Community
     * Verification form - [REST API Add-in verification request](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxxP2zxSbypLp5NxVTGn_ONUN0JVQ1Y5NlVEUUU4Uk5DSkVYR01KVElVVC4u)
 * **SSO samples update**
     * Documentation - [Microsoft identity platform and OAuth 2.0 On-Behalf-Of flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow)
-    * Documentation - [Middle-tier access token request](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#middle-tier-access-token-request)
+    * Documentation - [Middle-tier access token request](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#middle-tier-access-token-request)
     * Debugging tool for examining tokens - [jwt.ms](https://jwt.ms/)
     * SSO NodeJS walkthrough - [Create a Node.js Office Add-in that uses single sign-on](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/create-sso-office-add-ins-nodejs)
     * SSO NodeJS sample repo - [Office Add-in that supports Single Sign-on to Office, the Add-in, and Microsoft Graph](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/auth/Office-Add-in-NodeJS-SSO)
