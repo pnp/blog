@@ -136,7 +136,7 @@ We currently don't have this on our list. However, we'd love to know more about 
 
 **Maybe I missed something, but I was not able to get types working when I was trying the JS API in Word. I ended up with a pile of ts-ignores. Is there a better way? I am using WebStorm, but I would be happy to use VS Code if that solves it. My hope would be to use imports like import {OfficeStuff} from 'officesdk'.**
 
-Using the Node.js environment to create your add-in could help. For further guidance with setting up your environment, see Set up your development environment - Office Add-ins | Microsoft Docs.
+Use the Node.js environment to create your add-in could help. For further guidance with setting up your environment, see [Set up your development environment](https://docs.microsoft.com/office/dev/add-ins/overview/set-up-your-dev-environment).
 
 **Did I read correctly from the Q&A slides that you can embed add-ins in an Excel workbook?**
 
