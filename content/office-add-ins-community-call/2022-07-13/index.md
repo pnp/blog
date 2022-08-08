@@ -67,7 +67,7 @@ There isn't anything on the roadmap to share at this time. If you have ideas or 
 
 **Is there a way we can create desktop shortcuts for MS Office Add-ins (specifically for Word)?**
 
-If you are referring to keyboard shortcuts, yes, but this is only available in Excel today. You can find more information in https://docs.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts. If you are looking for keyboard shortcut support in Word, please let us know more about your scenario in a feature request at https://aka.ms/m365dev-suggestions.
+If you're referring to keyboard shortcuts, yes, but this is only available in Excel today. You can find more information in [Add custom keyboard shortcuts to your Office Add-ins](https://docs.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts). If you're looking for keyboard shortcut support in Word, please let us know more about your scenario in a feature request at https://aka.ms/m365dev-suggestions.
 
 **I have two questions both relating to getAccessToken
 
