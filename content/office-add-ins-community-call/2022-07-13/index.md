@@ -28,7 +28,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 {{< youtube COic6ghBWsU&t >}}
 ## Agenda
 
-* Word update – [Yun Wang] - Principal Product Manager (Microsoft) – [1:21](https://www.youtube.com/watch?v=COic6ghBWsU&t=81s)
+* Word API update – Yun Wang – Principal Product Manager (Microsoft) – [1:21](https://www.youtube.com/watch?v=COic6ghBWsU&t=81s)
 * Outlook Add-ins Update – [Juan Balmori] - Principal Product Manager (Microsoft) | @juaneloBalmor & - [Victoria Iannotti] - Software Engineer (Microsoft) – [6:11](https://www.youtube.com/watch?v=COic6ghBWsU&t=371s) 
 * SSO samples update – [David Chesnut] (http://twitter.com/davidchesnut) – Senior Technical Writer (Microsoft) | @davidchesnut – [23:38] (https://www.youtube.com/watch?v=COic6ghBWsU&t=1418s)
 * Community spotlight – [42:40](https://www.youtube.com/watch?v=COic6ghBWsU&t=2560s)
