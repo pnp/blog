@@ -1,6 +1,6 @@
 ---
 title: "How to Display Data from Multiple SharePoint Lists using PnPjs and DataTables"
-date: 2022-08-07T19:15:00-08:00
+date: 2022-08-09T19:15:00-08:00
 author: "Arash Aghajani"
 githubname: ArashAghajani
 categories: ["Community post"]
@@ -13,26 +13,26 @@ type: "regular"
 In this article, we will learn how to use PnPjs to get data from multiple SharePoint lists and display the collected data in a jQuery Datatables in SharePoint 2013/2016/2019 or online without a SPFx webpart.
 You will also learn how to filter data in PnPjs and also group items with count in DataTables. 
 
-### What is PnPjs?
+## What is PnPjs?
 
 PnPjs is a collection of fluent libraries for consuming SharePoint, Graph, and Office 365 REST APIs in a type-safe way. You can use it within SharePoint Framework, Nodejs, or any JavaScript project
 
 More information: <https://pnp.github.io/pnpjs/>
 
-### What is DataTables?
+## What is DataTables?
 
 DataTables is a plug-in for the jQuery JavaScript library. It is a highly flexible tool, built upon the foundations of progressive enhancement, that adds all these advanced features to any HTML table.
 
 More information: <https://datatables.net>
 
-## Introduction
+### Introduction
 
 In SharePoint on-premises if you intend to aggregate multiple SharePoint lists and display them in a data view, you need to use a linked data source in SharePoint Designer (SPD). But when you have thousands of items in multiple lists, then the performance will be important for you as a developer.
 Also, convenient and fast development will be another of your needs. Because the SPD has some problems and it is difficult to deal with XSLT codes for linked data source. To achieve this, you can easily use the PnPjs capabilities to get and filter lists items and finally display the data using a DataTables with great performance in a simple Content Query WebPart (CQWP).
 
 For this, you will not even need to use the SharePoint Framework (SPFx). If you are interested in using SPFx in your SharePoint environment, you can read this great [article](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/guidance-on-how-to-use-react-datatable-webpart/ba-p/2772933).
 
-## Get Started
+### Get Started
 
 In this example, we have three task lists with similar columns that have many items. We intend to aggregate and display them in a DataTables. We also need to filter items by status equal to “Not Started”. 
 
