@@ -117,11 +117,10 @@ In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Mi
 
 PnP Weekly is a recurrent podcast with visitors where Vesa and Waldek talk about the latest news and announcements in Microsoft 365 and SharePoint areas.
 
-* 6th of June - [Microsoft 365 PnP Weekly - Episode 169 - Yannick Reekmans](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/)
-* 31st of May - [Microsoft 365 PnP Weekly - Episode 168 - Sébastien Levert ](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-168/)
-* 24th of May - [Microsoft 365 PnP Weekly - Episode 167 - Gautam Sheth](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-167/)
-* 17th of May - [Microsoft 365 PnP Weekly - Episode 166 - Pierce Boggan](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-166/)
-* 10th of May - [Microsoft 365 PnP Weekly - Episode 165 - Laura Kokkarinen](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/)
+* 5th of July - [Microsoft 365 PnP Weekly - Episode 173 - Garry Trinder](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-173/)
+* 28th of June - [Microsoft 365 PnP Weekly - Episode 172 - Beau Cameron](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-172/)
+* 21st of June - [Microsoft 365 PnP Weekly - Episode 171 - Edyta Gorzon](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-171/)
+* 14th of June - [Microsoft 365 PnP Weekly - Episode 170 -  Marcin Wojciechowski](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-17)
 
 ## Community calls
 
