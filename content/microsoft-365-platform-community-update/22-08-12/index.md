@@ -111,7 +111,11 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Dev podcast is back. 
 
-* 1st of June - [Day in the life of an API Architect on Microsoft Graph with Darrel Miller](https://www.m365devpodcast.com/e/microsoft-apis-with-darrel-miller/)
+* 1st of August - [TeamsJS SDK Update with Alicia Lu](https://www.m365devpodcast.com/e/teamsjs-sdk-update-with-alicia-liu/)
+* 6th of July - [Microsoft Teams Toolkit with Pierce Boggan](https://www.m365devpodcast.com/e/microsoft-teams-toolkit-with-pierce-boggan/)
+* 28th of June - [PowerShell and Azure AD with Merill Fernando](https://www.m365devpodcast.com/e/powershell-and-azure-ad-with-merill-fernando/)
+* 23rd of June - [What’s new in Azure Communication Services with David de Mattheu](https://www.m365devpodcast.com/e/what-s-new-in-azure-communication-services/)
+
 
 ### Microsoft 365 PnP Weekly Podcasts and vlogs
 
