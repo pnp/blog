@@ -1,6 +1,6 @@
 ---
 title: CLI for Microsoft 365 v5.6
-date: 2022-08-11T11:30:00.000Z
+date: 2022-08-11T12:53:34.970Z
 author: Garry Trinder
 githubname: garrytrinder
 categories:
