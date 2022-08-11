@@ -75,7 +75,7 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 * 3rd of July - [How to build a color-contrast-ratio checker for improved accessibility in Power Apps](https://pnp.github.io/blog/post/how-to-create-a-color-contrast-ratio-checker-in-power-apps/) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 * 30th of June - [What is a Microsoft 365 Developer, and how to get started](https://pnp.github.io/blog/post/what-is-a-m365-dev-and-how-to-start/) by [Eli Schei](https://twitter.com/acupof_dev) | @acupof_dev
 * 26th of June - [A collection of resources for Microsoft 365 developers](https://pnp.github.io/blog/post/a-collection-of-resources-for-m365-devs/) by [Eli Schei](https://twitter.com/acupof_dev) | @acupof_dev
-* 24th ogf June - [Easily Automate a Table in SQL Server Management Studio with Power Automate](https://pnp.github.io/blog/post/easily-automate-a-table-in-ssms/) by [Rachel Irabor](https://twitter.com/Richie4love) | @Richie4love
+* 24th of June - [Easily Automate a Table in SQL Server Management Studio with Power Automate](https://pnp.github.io/blog/post/easily-automate-a-table-in-ssms/) by [Rachel Irabor](https://twitter.com/Richie4love) | @Richie4love
 * 24th of June - [We love community](https://pnp.github.io/blog/post/we-love-community/) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 * 17th of June - [Manage Teams Devices in Graph](https://pnp.github.io/blog/post/manage-teams-devices-in-graph/) by [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
 * 17th of June - [Happy 1st Birthday PnP Script Samples](https://pnp.github.io/blog/post/happy-first-birthday-script-samples/) by [Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @Pkbullock
@@ -370,6 +370,7 @@ If you are interested on Microsoft Teams samples, we have just released also new
 * New sample [sharepoint-set-item-level-permissions](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-set-item-level-permissions) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986) | @raminahmadi19
 * New sample [sharepoint-group-creation-with-user-added](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-group-creation-with-user-added) by [Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
 * New sample [ProjectForTheWeb-Provisioning](https://github.com/pnp/powerautomate-samples/tree/main/samples/ProjectForTheWeb-Provisioning) by Lenard Schockert | Lschockaert
+
 There were also numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location
 
 Power Platform sample gallery - [https://aka.ms/powerplatform-samples](https://pnp.github.io/powerplatform-samples/)
@@ -400,7 +401,7 @@ For more information, you can watch this video on [Publish a connector to the Pu
 
 #### These are the latest connectors
 
-<!-- Natalie, please insert  the latest connectors here in the following format, thank you-->
+<!-- Natalie, please insert the latest connectors here in the following format, thank you-->
 
 
 * Unofficial Netflix Search - [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
@@ -632,7 +633,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Leif Fredriksen | Leif-Frederiksen
 *   Lenard Schockert | Lschockaert
 *   [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
-*   [Lewis Baybutt](https://twitter.com/lowcodelewis) (HybrIT) |@lowcodelewis
+*   [Lewis Baybutt](https://twitter.com/lowcodelewis) (HybrIT) | @lowcodelewis
 *   [Lindsay Shelton](https://twitter.com/lshelton_tech) (Stowers Institute for Medical Research) | @lshelton_tech
 *   Llewellyn Roos | Llewellyn Roos
 *   [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
