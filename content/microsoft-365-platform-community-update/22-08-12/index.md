@@ -601,6 +601,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xChris S | chrisms86
 *   x[Christian Zuellig](https://github.com/czullu) (MondayCoffee) | czullu
 *   [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
+*   [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
 *   [Clément Olivier](https://twitter.com/Clement0livier ) | @Clement0livier  
 *   xCynthia Tiwana (city of sammamish) | ctiwana
 *   x[Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
@@ -651,6 +652,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xJennifer McGee | RainWatcher
 *   [Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
 *   [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
+*   [Jiten Palmer](https://twitter.com/Jitenpa44241205)  | @Jitenpa44241205
 *   [João Ferreira](https://twitter.com/Joao12Ferreira) | @Joaoferreira
 *   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
 *   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
@@ -696,9 +698,11 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 *   [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
 *   x[Patrik Hellgren](https://twitter.com/patrikhellgren) (Sherpas Group) | @Patrikhellgren  
+*   [Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @pkbullock
+*   [Paul Matthews](https://twitter.com/cann0nf0dder)  | @cann0nf0dder
 *   [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | @Paulschaeflein
 *   [Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4l
-*   [Ramin Ahmadi](https://twitter.com/raminahmadi1986) | @raminahmadi1986
+*   [Ramin Ahmadi](https://twitter.com/raminahmadi1986) (Content and Cloud) | @raminahmadi1986
 *   x[Ravichandran Krishnasamy](https://twitter.com/spfx_blog) (Content Formula) | @Spfx\_blog
 *   x[Rene Modery](https://twitter.com/modery) (WPP) | @modery 
 *   rentu | SLdragon
@@ -711,6 +715,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xRobert Lindström | robert-lindstrom
 *   [Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
 *   x[Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology) | @ScoutmanPt
+*   [Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
 *   xRohit S Patil (C3it)
 *   xSabrina Faragoza (Cognizant's Microsoft Business Group)
 *   x[Saisang Cai](https://github.com/Saisang)
@@ -735,6 +740,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xTod Beane
 *   xTodd Alexander (Island Way Technology)
 *   x[Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | @Toddbaginski
+*   [Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
 *   x[Tom Morgan](https://twitter.com/tomorgan) (Modality Systems) | @tomorgan
 *   x[Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 *   x[Troy Tanon](https://www.github.com/troytanon) | troytanon
