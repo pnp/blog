@@ -361,6 +361,15 @@ If you are interested on Microsoft Teams samples, we have just released also new
 
 ![Power Platform samples](images/powerplatform-samples.png)
 
+* New sample [TheSvgWorld-SVGexamples](https://github.com/pnp/powerapps-samples/tree/main/samples/TheSvgWorld-SVGexamples) by [Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
+* New sample [progress-bar](https://github.com/pnp/powerapps-samples/tree/main/samples/progress-bar) by [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
+* New sample [accessibility-color-contrast-checker](https://github.com/pnp/powerapps-samples/tree/main/samples/accessibility-color-contrast-checker) by [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
+* New sample [fluentui-for-teams-theme](https://github.com/pnp/powerapps-samples/tree/main/samples/fluentui-for-teams-theme) by [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
+* New sample [timesheet-using-dataverse](https://github.com/pnp/powerapps-samples/tree/main/samples/timesheet-using-dataverse) by [Darren Lutchne](https://twitter.com/assist_365) | @assist_365
+* New sample [sharepoint-get-terms-from-term-store](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-get-terms-from-term-store) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986) | @raminahmadi19
+* New sample [sharepoint-set-item-level-permissions](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-set-item-level-permissions) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986) | @raminahmadi19
+* New sample [sharepoint-group-creation-with-user-added](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-group-creation-with-user-added) by [Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
+* New sample [ProjectForTheWeb-Provisioning](https://github.com/pnp/powerautomate-samples/tree/main/samples/ProjectForTheWeb-Provisioning) by Lenard Schockert | Lschockaert
 There were also numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location
 
 Power Platform sample gallery - [https://aka.ms/powerplatform-samples](https://pnp.github.io/powerplatform-samples/)
@@ -568,7 +577,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
 *   xDennis van Niel | dennisvanniel
 *   x[Dipen Shah](https://www.twitter.com/Dips_365) (Rapid Circle) | @Dips\_365
-*   x[Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
+*   [Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
 *   x[Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
 *   xEdmund David (Insentra)
 *   x[Ejaz Hussain](https://twitter.com/EjazHussain_) (Content and Cloud) | @EjazHussain
@@ -613,6 +622,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xKrishna Rachakonda (Catapult) | rsk2013
 *   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 *   [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
+*   Lenard Schockert | Lschockaert
 *   x[Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
 *   [Lewis Baybutt](https://twitter.com/lowcodelewis) (HybrIT) |@lowcodelewis
 *   [Lindsay Shelton](https://twitter.com/lshelton_tech) (Stowers Institute for Medical Research) | @lshelton_tech
@@ -641,9 +651,10 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 *   x[Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
 *   x[Patrik Hellgren](https://twitter.com/patrikhellgren) (Sherpas Group) | @Patrikhellgren 
-*   
+  
 *   x[Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | @Paulschaeflein
-*   [Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4love
+*   [Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4l
+*   [Ramin Ahmadi](https://twitter.com/raminahmadi1986) | @raminahmadi1986
 *   x[Ravichandran Krishnasamy](https://twitter.com/spfx_blog) (Content Formula) | @Spfx\_blog
 *   x[Rene Modery](https://twitter.com/modery) (WPP) | @modery 
 *   [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
@@ -653,6 +664,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xRob Ellis | ee61re
 *   x[Rob Windsor](https://twitter.com/robwindsor) | @robwindsor
 *   xRobert Lindström | robert-lindstrom
+*   [Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
 *   x[Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology) | @ScoutmanPt
 *   xRohit S Patil (C3it)
 *   xSabrina Faragoza (Cognizant's Microsoft Business Group)
