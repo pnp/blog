@@ -312,14 +312,23 @@ Have ideas for articles or want to contribute yourself? - Get involved! Here are
 
 *   YouTube - [Introducing Microsoft 365 Community Docs](https://www.youtube.com/watch?v=HTbgjWvsh3k)
 *   [GitHub issue list](https://github.com/MicrosoftDocs/microsoft-365-community/issues) with articles ideas
-
 ### SharePoint Framework development samples
 
 ![SPFx samples ](images/SPFX-dev-samples.png)
 
 These are the updated SharePoint Framework samples which are available from the different repositories.
 
-* New sample [react-fluentui-9](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-fluentui-9) by [Nick Brown](https://twitter.com/techienickb)  (JISC) | @techieni, that shows the use of the new Fluent UI version 9 controls and theme provider
+* New sample [react-roomchat](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-roomchat) by [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
+* Updated sample [react-page-navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) by [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert 
+* Updated sample [react-taxonomy-file-explorer](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-taxonomy-file-explorer) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
+* Updated sample [react-list-search](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-list-search) by Aaron B | mackilroy007
+* Updated sample [react-graph-app-secret-expiration](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-app-secret-expiration) by [Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
+* Updated sample[react-staffdirectory](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/) by Milan Holemans | milanholemans
+* Updated sample [react-script-editor](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-script-editor) by Felix Bohnacker | felixbohnacker
+* 
+
+
+
 * New sample [ace-strategy-pattern](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/ace-strategy-pattern) by [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
 * New sample [react-graph-profile-awards](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-profile-awards) by [Luis Mañez](https://twitter.com/luismanez) () | @luismanez
 * Updated sample [react-faqs](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs) by 
@@ -516,6 +525,8 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Ahmad](https://www.twitter.com/ahmadpirani) | @ahmadpirani
 *   x[Ahmed](https://www.github.com/ahghaith) (Diyar United Company) | ahghaith
 *   x[Aiden Kasakya Muganzi](https://www.github.com/muganzix) | muganzix
+*   [Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
+\
 *   x[Aja ifeanyi](https://www.twitter.com/Ajaifeanyi) | @Ajaifeanyi
 *   x[Ajo Suresh](https://www.github.com/ajo3403) | ajo3403
 *   x[Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
@@ -567,7 +578,8 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
 *   x[Faride Ilanda](https://www.twitter.com/FarideIlanda) (Atos) | @FarideIlanda
 *   xFavour Adekunle
-*   Federico Sapia (ANPAL Servizi) 
+*   Federico Sapia (ANPAL Servizi)
+*   Felix Bohnacker | felixbohnacker
 *   xFlorian Zink | fzbm
 *   x[Franck Cornu](https://twitter.com/FranckCornu) | @FranckCornu
 *   x[Gerard Simpson](https://www.twitter.com/powerfanaddict) | @powerfanaddict
@@ -583,7 +595,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xJake Stanger | JakeStanger
 *   xJames May | fowl2
 *   x[Jan Vidar Elven](https://www.twitter.com/JanVidarElven) (Skill AS) | @JanVidarElven
-*   x[Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
+*   [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 *   xJennifer Davison (Akron Children's Hospital)
 *   xJennifer McGee | RainWatcher
 *   x[Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
@@ -618,7 +630,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xMichelle Heisler (Hennepin County)
 *   x[Miguel Angel García](https://twitter.com/miangama) | @Miangama
 *   [Miguel Verweij](https://twitter.com/miguelverweij) (Sogeti) | @MiguelVerweij
-*   xMilan Holemans | milanholemans
+*   Milan Holemans | milanholemans
 *   xMitanshu Garg
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
 *   xNicole Fleming (Sherwin Williams)
