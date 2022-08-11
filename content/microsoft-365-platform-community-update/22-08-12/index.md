@@ -611,8 +611,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
 *   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
 *   [Giacomo Pozzoni](https://github.com/jackpoz) (Fellowmind) | jackpoz
-*   xHaritha Sama (Intouch Solutions)
-*   xHarsh S (SRK Consulting)
+*   Harold Anderson
 *   x[Heidi Jordan](https://twitter.com/heidi_jordan14) (High Plains Technology) | @heidi_jordan14
 *   Hilton Giesenow | HiltonGiesenow
 *   xInez Jacobs (Amplexor)
@@ -670,6 +669,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
 *   xNicole Fleming (Sherwin Williams)
 *   x[Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/)
+*   Oleksii Skirko
 *   [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 *   [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
 *   x[Patrik Hellgren](https://twitter.com/patrikhellgren) (Sherpas Group) | @Patrikhellgren  
@@ -677,6 +677,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4l
 *   [Ramin Ahmadi](https://twitter.com/raminahmadi1986) | @raminahmadi1986
 *   x[Ravichandran Krishnasamy](https://twitter.com/spfx_blog) (Content Formula) | @Spfx\_blog
+*   Rene Koch
 *   x[Rene Modery](https://twitter.com/modery) (WPP) | @modery 
 *   rentu | SLdragon
 *   [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
