@@ -325,7 +325,7 @@ These are the updated SharePoint Framework samples which are available from the 
 * Updated sample [react-graph-app-secret-expiration](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-app-secret-expiration) by [Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
 * Updated sample[react-staffdirectory](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/) by Milan Holemans | milanholemans
 * Updated sample [react-script-editor](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-script-editor) by Felix Bohnacker | felixbohnacker
-* 
+* Updated sample [react-application-news-ticker](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-news-ticker) by Sudharsan Kesavanarayanan | sudharsank
 
 
 
@@ -526,17 +526,16 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Ahmed](https://www.github.com/ahghaith) (Diyar United Company) | ahghaith
 *   x[Aiden Kasakya Muganzi](https://www.github.com/muganzix) | muganzix
 *   [Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
-\
 *   x[Aja ifeanyi](https://www.twitter.com/Ajaifeanyi) | @Ajaifeanyi
 *   x[Ajo Suresh](https://www.github.com/ajo3403) | ajo3403
-*   x[Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
+*   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 *   xAlexander Ernon (Amplexor)
 *   xAleksandr Sapozhkov | shurick81
 *   [Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
 *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 *   xAndreas Omayrat | andreasomayrat
 *   x[Andrew Burns](https://www.twitter.com/SharePointRox) (AmSty) | @SharePointRox
-*   x[Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+*   [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 *   xAnnie Torres (Coppin State University)
 *   [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 *   [Arash Aghajani](ps://twitter.com/AghajaniArash) | @AghajaniArash
@@ -668,9 +667,9 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 *   x[Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
 *   xStephen Peters | StephenBrentPeters
-*   xSudharsan Kesavanarayanan | sudharsank
+*   Sudharsan Kesavanarayanan | sudharsank
 *   xTammy Dupuy (CSULB)
-*   x[Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
+*   [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
 *   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 *   xTod Beane
 *   xTodd Alexander (Island Way Technology)
