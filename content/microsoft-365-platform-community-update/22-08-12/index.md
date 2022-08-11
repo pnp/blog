@@ -312,6 +312,7 @@ Have ideas for articles or want to contribute yourself? - Get involved! Here are
 
 *   YouTube - [Introducing Microsoft 365 Community Docs](https://www.youtube.com/watch?v=HTbgjWvsh3k)
 *   [GitHub issue list](https://github.com/MicrosoftDocs/microsoft-365-community/issues) with articles ideas
+
 ### SharePoint Framework development samples
 
 ![SPFx samples ](images/SPFX-dev-samples.png)
@@ -326,7 +327,9 @@ These are the updated SharePoint Framework samples which are available from the 
 * Updated sample[react-staffdirectory](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/) by Milan Holemans | milanholemans
 * Updated sample [react-script-editor](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-script-editor) by Felix Bohnacker | felixbohnacker
 * Updated sample [react-application-news-ticker](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-news-ticker) by Sudharsan Kesavanarayanan | sudharsank
-
+* Updated sample [PrimaryTextCard-My-M365-Groups](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-My-M365-Groups) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
+* Updated sample [ace-designtemplate-gallery](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-designtemplate-gallery) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
+* New sample [spfx-formcustomizer-basics](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/spfx-formcustomizer-basics) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
 
 
 * New sample [ace-strategy-pattern](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/ace-strategy-pattern) by [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
@@ -349,7 +352,8 @@ How to find what's relevant for you? Take advantage of our SharePoint Framework 
 
 These are samples which have been contributed on the community samples since last summary. We do welcome all Microsoft Teams samples to this gallery. They can be implemented using in any technology.
 
-*   New sample [bot-microsoft-search-api](https://github.com/pnp/teams-dev-samples/tree/main/samples/bot-microsoft-search-api) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German which shows how a bot can retreive different entities such as messages, events, files, and SharePoint list items using Microsoft Graph Search API, and display the resutls in adaptive cards with paging capability.
+*   New sample [tab-meeting-stageview-vote-movie-fluid](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-stageview-vote-movie-fluid) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
+*   New sample [tab-meeting-stageview-vote-movie](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-stageview-vote-movie) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
 
 If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://pnp.github.io/teams-dev-samples/). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
 
