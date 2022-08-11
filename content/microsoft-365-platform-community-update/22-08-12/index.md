@@ -572,6 +572,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Clément Olivier](https://twitter.com/Clement0livier ) | @Clement0livier  
 *   xCynthia Tiwana (city of sammamish) | ctiwana
 *   x[Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
+*   [Daniel Watford](https://twitter.com/danwatford) | @danwatford
 *   xDaniel Pastoor | danielpastoor
 *   xDarren Brown (Node4)
 *   xDavid Gray (Visa)
@@ -650,10 +651,11 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Michaël Maillot](https://twitter.com/michael_maillot) ( OnePoint) | @michael_maillot
 *   x[Michael Roth](https://twitter.com/michaelroth42) ( ITP) | @MichaelRoth42
 *   xMichelle Heisler (Hennepin County)
-*   x[Miguel Angel García](https://twitter.com/miangama) | @Miangama
+*   [Miguel Angel García](https://twitter.com/miangama) | @Miangama
 *   Miguel A. Tena | mikewar 
 *   [Miguel Verweij](https://twitter.com/miguelverweij) (Sogeti) | @MiguelVerweij
 *   Milan Holemans | milanholeman
+*   Morten Andersen | spcph
 *   [Musale Martin](https://twitter.com/m4musale) | @m4musale
 *   xMitanshu Garg
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
@@ -672,7 +674,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xRico van de Ven | RicoNL
 *   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
 *   xRob Bell (Kizan technologies)
-*   xRob Ellis | ee61re
+*   Rob Ellis | ee61re
 *   x[Rob Windsor](https://twitter.com/robwindsor) | @robwindsor
 *   xRobert Lindström | robert-lindstrom
 *   [Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
