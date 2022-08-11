@@ -426,8 +426,17 @@ You can find all Microsoft 365 related videos on our YouTube Channel at [https:/
 
 Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 
-*  [Publish your app in the Microsoft Teams App Store](https://www.youtube.com/watch?v=IQf2Zs9Mob8) by Natalia Kats (Microsoft)
-*  [Dynamic User Scope in Microsoft Graph Data Connect](https://www.youtube.com/watch?v=TMRrDUsqcYo&t=34s) by Nik Charlebois (Microsoft) | @NikCharlebois### Community demo videos
+*  [Make an API call in less than one minute...](https://www.youtube.com/shorts/JG6S4DWsScI) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+*  [Create collaborative apps with Fluid Framework and Azure Fluid Relay service](https://www.youtube.com/watch?v=j0DH9GXOVwk)
+*  [Adaptive Cards-based Microsoft Loop components](https://www.youtube.com/watch?v=U40-CZot2T4)
+*  [Join your calling app to a Microsoft Teams meeting with Azure Communication Services](https://www.youtube.com/watch?v=FF1LS516Bjw) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+*  [Send an email with Azure Communication Services](https://www.youtube.com/watch?v=t0in_d9Q2mU) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+*  [Add calling capabilities to your Android app with Azure Communication UI Library](https://www.youtube.com/watch?v=8hOKCHgSNsg) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+*  [Add calling capabilities to your iOS app with Azure Communication UI Library](https://www.youtube.com/watch?v=Aq5VTLfXU_4) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+*  [A tour around “Perspektywy Women in Tech Summit”](https://www.youtube.com/watch?v=KSMsHzmHnn4
+*  [What's new in Graph Explorer?](https://www.youtube.com/watch?v=-MzmaPr7EHY) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani 
+*  [What’s Kiota? How can developers use Kiota?](https://www.youtube.com/watch?v=Utm4sFJ1e_I&t=460s) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani 
+*  [What's new in Microsoft Graph Toolkit?](https://www.youtube.com/watch?v=fSvQEBfHzlc&t=18s) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani 
 
 ### Community demo videos
 
