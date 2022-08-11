@@ -534,7 +534,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 
 *   [Abdul Mughni Ansari](https://www.twitter.com/Ansarimughni) (Hexaware) | @Ansarimi
 *   x[Abdur Raheem](https://www.twitter.com/im_offline) (Avanade) | @im_offline
-*   x[Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
+*   [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 *   x[Ahmad](https://www.twitter.com/ahmadpirani) | @ahmadpirani
 *   x[Ahmed](https://www.github.com/ahghaith) (Diyar United Company) | ahghaith
 *   x[Aiden Kasakya Muganzi](https://www.github.com/muganzix) | muganzix
@@ -798,10 +798,9 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[John Sudds](https://twitter.com/jsuddsjr) (Microsoft) | @Jsuddsjr
 *   x[Jos Verlinde](https://github.com/Josverl) (Microsoft) Josverl
 *   [J.P. Roca](https://twitter.com/jpthepm ) (Microsoft) | @jpthepm 
-*   c
 *   xJyoti Pal (Microsoft)
 *   x[Kevin Coughlin](https://twitter.com/kevintcoughlin) (Microsoft) | @Kevintcoughlin
-*   x[Koen Zomers](https://twitter.com/koenzomers) (Microsoft) | @Koenzomers
+*   [Kevin McDonnell](https://twitter.com/kevmcdonk) (CPS) | @kevmcdonk*   x[Koen Zomers](https://twitter.com/koenzomers) (Microsoft) | @Koenzomers
 *   x[Laura Graham](https://github.com/Lauragra) (Microsoft) | Lauragra
 *   xHolland Kaviani (Microsoft)
 *   x[Linda Lu Cannon](https://github.com/lindalu-MSFT) - (Microsoft) | lindalu-MSFT
@@ -811,6 +810,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   Luis Ramos Vea (Microsoft)
 *   Mathangi Chakrapani ( Microsoft)
 *   [Mark Kashman](https://twitter.com/MKashman) (Microsoft) | @MKashman
+*   [Martin Lingstuyl](gttps://twitter.com/martinlingstuyl) | @martinlingstuyl
 *   xMichael Aldridge (Microsoft)
 *   x[Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @Mikaelsvenson
 *   x[Mike Hollinshead](https://twitter.com/mahollinshead) (Microsoft) | @Mahollinshea
