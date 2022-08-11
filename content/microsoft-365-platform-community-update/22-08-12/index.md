@@ -298,22 +298,15 @@ The Community Docs model was announced in April 2020 and it's great to see the i
 
 #### New articles
 
-* [Teams Shared Channels for Admins](https://docs.microsoft.com/microsoft-365/community/teams-shared-channel-for-admins) by [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
+* [Origin Story for the Maturity Model for Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/community/microsoft365-maturity-model-origin-story) by [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
 
 #### Updated articles
 
-* [Content Type Propagation](https://docs.microsoft.com/microsoft-365/community/content-type-propagation) by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
-* [Query String URL Tricks for SharePoint and Microsoft 365](https://docs.microsoft.com/microsoft-365/community/query-string-url-tricks-sharepoint-m365) by [Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/)
-* [Power Automate - Send SharePoint files as attachments](https://docs.microsoft.com/microsoft-365/community/power-automate-send-sharepoint-files-as-attachments) by [blb0004](https://github.com/blb0004/)
-* [Glossary](https://docs.microsoft.com/microsoft-365/community/glossary) by [Saisang Cai](https://github.com/Saisang)
-* [Accessibility by Design](https://docs.microsoft.com/microsoft-365/community/accessibility-by-design) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [Benefits of using PowerShell with SharePoint](https://docs.microsoft.com/microsoft-365/community/benefits-of-using-powershell-with-sharepoint) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [Glossary](https://docs.microsoft.com/microsoft-365/community/glossary) by [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-* [Glossary](https://docs.microsoft.com/microsoft-365/community/glossary) by [Rene Modery](https://www.linkedin.com/in/modery/)
-* [Why Microsoft 365 adoption projects fail](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail) by [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
-* [Elevating People and Communities](https://docs.microsoft.com/microsoft-365/community/microsoft-maturity-model-how-to-people-communities) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [SharePoint Naming Guidelines](https://docs.microsoft.com/microsoft-365/community/sharepoint-naming-guidelines) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--governance-and-compliance) by [Saisang Cai](https://github.com/Saisang)
+* [Follow Microsoft 365 on Social Media](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Community/microsoft-365-on-social-media.md) by [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
+* [Working with modern client-side pages using PnP PowerShell](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Community/working-with-modern-clientside-pages-using-pnp-powershell.md) by [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) and [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
+* [Maturity Model for Microsoft 365 - Communication Competency](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Community/microsoft365-maturity-model--communication.md) by [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) and [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
+* [Maturity Model for Microsoft 365 - Introduction](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Community/microsoft365-maturity-model--intro.md) by [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini and [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
+* Maturity Model Articles (Various) by [Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model in more detail.
 
@@ -565,15 +558,14 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xChris Sparrow (PA Consulting)
 *   xChris S | chrisms86
 *   x[Christian Zuellig](https://github.com/czullu) (MondayCoffee) | czullu
-*   x[Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
+*   [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
 *   xCynthia Tiwana (city of sammamish) | ctiwana
 *   x[Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
-*   x[Daniel Laskewitz](https://twitter.com/laskewitz) (Sogeti) | @Laskewitz
 *   xDaniel Pastoor | danielpastoor
 *   xDarren Brown (Node4)
 *   xDavid Gray (Visa)
 *   xDennis Kuhn | DennisKuhn
-*   x[Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
+*   [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
 *   xDennis van Niel | dennisvanniel
 *   x[Dipen Shah](https://www.twitter.com/Dips_365) (Rapid Circle) | @Dips\_365
 *   x[Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
@@ -581,8 +573,8 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xEdmund David (Insentra)
 *   x[Ejaz Hussain](https://twitter.com/EjazHussain_) (Content and Cloud) | @EjazHussain
 *   [Eli Schei](https://twitter.com/acupof_dev) | @acupof_dev
-*   x[Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
-*   x[Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
+*   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
+*   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
 *   x[Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
 *   x[Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) | @Erwinvanhunen
 *   [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
@@ -607,7 +599,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xJennifer Davison (Akron Children's Hospital)
 *   xJennifer McGee | RainWatcher
 *   x[Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
-*   x[Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
+*   [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
 *   x[João Ferreira](https://twitter.com/Joao12Ferreira) | @Joaoferreira
 *   x[João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
 *   x[Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
@@ -753,6 +745,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
 *   x[David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
 *   David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
+*   x[Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @Laskewitz
 *   xDidun Ayodeji (Microsoft)
 *   x[Doğan Erişen](https://github.com/derisen) (Microsoft) | derisen
 *   x[Dragan Panjkov](https://twitter.com/panjkov) (Microsoft) | @Panjkov
