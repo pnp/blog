@@ -283,7 +283,7 @@ These are different areas which are closely involved on the community work acros
 
 Microsoft Graph Toolkit is engineering lead initiative, which works closely with the community on the open-source areas. The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic web components and helpers for accessing and working with Microsoft Graph. The components are fully functional right of out of the box, with built in providers that authenticate with and fetch data from Microsoft Graph.
 
-*   Latest version currently is 2.5.2
+*   Latest version currently is 2.6
 *   [mgt.dev](https://mgt.dev/?path=/story/components-mgt-agenda--simple) - Microsoft Graph Toolkit Playground
 *   [Getting started with Microsoft Graph Toolkit guidance video](https://www.youtube.com/watch?v=TbAZHvB5NEk) from developer community call by [Beth Pan](https://twitter.com/beth_panx) (Microsoft)
 *   Latest code and preview versions from [https://aka.ms/mgt](https://github.com/microsoftgraph/microsoft-graph-toolkit)
@@ -545,6 +545,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xAlexander Ernon (Amplexor)
 *   xAleksandr Sapozhkov | shurick81
 *   [Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
+*   Anders Roos | AndersSahlin
 *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 *   xAndreas Omayrat | andreasomayrat
 *   x[Andrew Burns](https://www.twitter.com/SharePointRox) (AmSty) | @SharePointRox
@@ -582,6 +583,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xEdmund David (Insentra)
 *   x[Ejaz Hussain](https://twitter.com/EjazHussain_) (Content and Cloud) | @EjazHussain
 *   [Eli Schei](https://twitter.com/acupof_dev) | @acupof_dev
+*   Elinor | ElinorW
 *   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 *   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
 *   [Emanuele Bartolesi](https://twitter.com/kasuken) (SoftwareONE) | @kasuken  
@@ -601,6 +603,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xHaritha Sama (Intouch Solutions)
 *   xHarsh S (SRK Consulting)
 *   x[Heidi Jordan](https://twitter.com/heidi_jordan14) (High Plains Technology) | @heidi_jordan14
+*   Hilton Giesenow | HiltonGiesenow
 *   xInez Jacobs (Amplexor)
 *   xIsolde Kanikani (SoftwareONE)
 *   xJay Jani
@@ -643,20 +646,21 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xMichelle Heisler (Hennepin County)
 *   x[Miguel Angel García](https://twitter.com/miangama) | @Miangama
 *   [Miguel Verweij](https://twitter.com/miguelverweij) (Sogeti) | @MiguelVerweij
-*   Milan Holemans | milanholemans
+*   Milan Holemans | milanholeman
+*   [Musale Martin](https://twitter.com/m4musale) | @m4musale
 *   xMitanshu Garg
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
 *   xNicole Fleming (Sherwin Williams)
 *   x[Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/)
 *   [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
-*   x[Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
-*   x[Patrik Hellgren](https://twitter.com/patrikhellgren) (Sherpas Group) | @Patrikhellgren 
-  
-*   x[Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | @Paulschaeflein
+*   [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
+*   x[Patrik Hellgren](https://twitter.com/patrikhellgren) (Sherpas Group) | @Patrikhellgren  
+*   [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | @Paulschaeflein
 *   [Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4l
 *   [Ramin Ahmadi](https://twitter.com/raminahmadi1986) | @raminahmadi1986
 *   x[Ravichandran Krishnasamy](https://twitter.com/spfx_blog) (Content Formula) | @Spfx\_blog
 *   x[Rene Modery](https://twitter.com/modery) (WPP) | @modery 
+*   rentu | SLdragon
 *   [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
 *   xRico van de Ven | RicoNL
 *   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
@@ -778,6 +782,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   xElizabeth Samuel (Microsoft)
 *   x[Erin Bailie](https://twitter.com/EMBailie) (Microsoft) | @EMBailie
 *   [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
+*   [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
 *   Gloria Sánchez (Microsoft) 
 *   x[Holger Lutz](https://github.com/HolgerLutz) (Microsoft) | HolgerLutz
 *   [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
@@ -815,8 +820,8 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[Nathan Zipf](https://github.com/NathZ1) (Microsoft) | NathZ1
 *   xNick Kramer (Microsoft)
 *   [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
-*   x[Nicolas Vogt](https://github.com/vogtn) (Microsoft) | vogtn
-*   x[Nickii Miaro](https://github.com/Mnickii) (Microsoft) | Nickii Miaro
+*   [Nicolas Vogt](https://github.com/vogtn) (Microsoft) | vogtn
+*   [Nickii Miaro](https://github.com/Mnickii) (Microsoft) | Nickii Miaro
 *   Nikita Mittal (Microsoft)
 *   x[Niko](https://github.com/NikoMix) (Microsoft) | NikoMix
 *   x[Nikola Metulev](https://twitter.com/metulev) (Microsoft) | @Metulev
