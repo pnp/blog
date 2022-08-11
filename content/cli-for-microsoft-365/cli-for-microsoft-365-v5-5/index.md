@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - SharePoint
   - SharePoint Framework (SPFx)
-type: popular
+type: regular
 ---
 
 We've just published a new major version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 and SharePoint Framework projects on any platform.
@@ -50,7 +50,7 @@ Disable Outlook calendar sync and mobile push notifications
 m365 planner tenant settings set --allowCalendarSharing false --allowPlannerMobilePushNotifications false
 ```
 
-For more information see the [planner plan remove](https://pnp.github.io/cli-microsoft365/cmd/planner/plan/plan-remove/) and [planner tenant settings set](https://pnp.github.io/cli-microsoft365/cmd/planner/tenant/tenant-settings-set/) 
+For more information see the [planner plan remove](https://pnp.github.io/cli-microsoft365/cmd/planner/plan/plan-remove/) and [planner tenant settings set](https://pnp.github.io/cli-microsoft365/cmd/planner/tenant/tenant-settings-set/)
 
 ### Get external connection in Microsoft Search
 
@@ -127,7 +127,7 @@ For more information see the [@meId and @meUserName tokens](https://pnp.github.i
 ## New script samples
 
 CLI for Microsoft 365 is a great tool both for quick adjustments to the configuration of your Microsoft 365 tenant as well as automating more complex tasks. Because CLI for Microsoft 365 is cross-platform you can use it on any OS and in any shell. To help you get started using the CLI for Microsoft 365 for automation scenarios, we started gathering some [sample scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
- 
+
 If you have any scripts that you use frequently, please [share](https://github.com/pnp/cli-microsoft365/discussions) them with us so that we can learn more about the common automation scenarios.
 
 ### List all external users in site groups across all site collections
