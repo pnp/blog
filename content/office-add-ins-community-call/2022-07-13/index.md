@@ -194,6 +194,6 @@ Microsoft 365 Developer Platform - Microsoft Tech Community
 * [Microsoft 365 Platform Community on YouTube](https://aka.ms/m365/videos)
 * All Microsoft Developer Community calls(https://aka.ms/M365DevCalls>)
 * Submit questions about add-ins development for our [next community call](https://aka.ms/officeaddinsform)
-* Next community call – August 10th at 8:00 AM PT – <https://aka.ms/officeaddinscommunitycall>
+* [Join us for our next community call](https://aka.ms/officeaddinscommunitycall) on August 10th at 8:00 AM PT
 
 {{< attachments >}}
