@@ -62,7 +62,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 **What can you tell us about the approach and timing of the upcoming integration of Loop components with Excel?**
 
-There isn't anything on the roadmap to share at this time. If you have ideas or requests please create a feature request with more information at https://aka.ms/m365dev-suggestions.
+There isn't anything on the roadmap to share at this time. If you have ideas or requests, please create a feature request with more information at [Microsoft 365 Developer Platform Ideas forum](https://aka.ms/m365dev-suggestions).
 
 
 **Is there a way we can create desktop shortcuts for MS Office Add-ins (specifically for Word)?**
