@@ -7,7 +7,7 @@ githubname: kasperbolarsen
 categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
-- images/myImage.png
+- images/formformatting.png
 # don't change
 tags: []
 # don't change
