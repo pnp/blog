@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 Platform Community (PnP) - August 2022 update
-date: 2022-08-12T08:30:55.909Z
+date: 2022-08-15T08:30:55.909Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -298,7 +298,7 @@ The Community Docs model was announced in April 2020 and it's great to see the i
 
 #### New articles
 
-* [Origin Story for the Maturity Model for Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/community/microsoft365-maturity-model-origin-story) by [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
+* [Origin Story for the Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model-origin-story) by [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
 
 #### Updated articles
 
@@ -464,7 +464,7 @@ Here are the new Microsoft demo or guidance videos released since the last month
 *  [Send an email with Azure Communication Services](https://www.youtube.com/watch?v=t0in_d9Q2mU) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 *  [Add calling capabilities to your Android app with Azure Communication UI Library](https://www.youtube.com/watch?v=8hOKCHgSNsg) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 *  [Add calling capabilities to your iOS app with Azure Communication UI Library](https://www.youtube.com/watch?v=Aq5VTLfXU_4) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*  [A tour around “Perspektywy Women in Tech Summit”](https://www.youtube.com/watch?v=KSMsHzmHnn4
+*  [A tour around "Perspektywy Women in Tech Summit"](https://www.youtube.com/watch?v=KSMsHzmHnn4)
 *  [What's new in Graph Explorer?](https://www.youtube.com/watch?v=-MzmaPr7EHY) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani 
 *  [What’s Kiota? How can developers use Kiota?](https://www.youtube.com/watch?v=Utm4sFJ1e_I&t=460s) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani 
 *  [What's new in Microsoft Graph Toolkit?](https://www.youtube.com/watch?v=fSvQEBfHzlc&t=18s) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani 
@@ -482,7 +482,7 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [Building custom accordion Tabs experience with rich text experiences](https://www.youtube.com/watch?v=lcmZ4Ki0ZNs&t=123s) by [Arun Kumar Perumal](https://twitter.com/@arun_perumal16 ) | @arun_perumal16 
 * [Getting started with the Teams Toolkit for Visual Studio](https://www.youtube.com/watch?v=YGXfz7YxlkY) by [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 * [Adaptive Card Extensions strategy pattern for multi-action QuickView](https://www.youtube.com/watch?v=glbgzBX09As&t=3s) by [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
-* [Using Microsoft Graph Profile API in SPFx for awards web part experience](https://www.youtube.com/watch?v=5PksNs6B4Sk&t=9s) by [Luis Mañez](https://twitter.com/luismanez @luismanez 
+* [Using Microsoft Graph Profile API in SPFx for awards web part experience](https://www.youtube.com/watch?v=5PksNs6B4Sk&t=9s) by [Luis Mañez](https://twitter.com/luismanez) @luismanez 
 * [Getting started with Microsoft Teams private channels](https://www.youtube.com/watch?v=c_q7iz57cK4&t=12s)) by [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
 * [Taking advantage of the Microsoft Graph Postman collections](https://www.youtube.com/watch?v=DlGcsPu9XfA&t=9s) by [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani 
 * [Introduction to Virtual Appointment Microsoft Graph API](https://www.youtube.com/watch?v=q1yt-QCjnFo&t=3s) by Ben Olsen (Microsoft)
@@ -505,7 +505,7 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [Taking your Power Apps mobile navigation UI to the next level!](https://www.youtube.com/watch?v=BjhsmcaV2TM&t=734s) by [Kristine Kolodziejski](https://twitter.com/kristinekk94) (Computacenter) | @kristinekk94
 * [Using the Microsoft Graph PowerShell SDK for common operations](https://www.youtube.com/watch?v=ib3BrVNQkFM&t=16s) by [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
 * [Power to the Pages – Introduction to Power Pages!](https://www.youtube.com/watch?v=b22CoM4c5x0&t=15s) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
-* [Building a safer custom Content Editor Web Part with SPFx](https://www.youtube.com/watch?v=bMGNAw by [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
+* [Building a safer custom Content Editor Web Part with SPFx](https://www.youtube.com/watch?v=bMGNAw) by [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
 * [Introduction to Microsoft Graph .Net SDK v5](https://www.youtube.com/watch?v=8WTw4Sozvj8&t=68s) by Andrew Omondi (Microsoft)  
 * [Introduction to Microsoft Graph Postman collection](https://www.youtube.com/watch?v=ymAPHTuUCM4&t=30s) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
 * [List Formatting - Building custom no-code payment registration tracking solution](https://www.youtube.com/watch?v=D6C7d3FsJBA&t=8s) by [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
@@ -790,7 +790,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 *   [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
 *   x[David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
-*   David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
+*   [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 *   x[Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @Laskewitz
 *   xDidun Ayodeji (Microsoft)
 *   Divyanka Malik (Microsoft)
