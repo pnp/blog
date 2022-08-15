@@ -9,7 +9,7 @@ categories: ["Community post"]
 images:
 - images/formformatting.png
 # don't change
-tags: []
+tags: ["SharePoint"]
 # don't change
 type: "regular"
 ---
