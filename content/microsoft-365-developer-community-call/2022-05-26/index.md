@@ -90,7 +90,7 @@ Awesome seeing everybody on the call today. Thank you everyone for being so coll
 * **Introduction on getting stared on building Independent Publishing Connectors – Case Netherland Railroads**
     * Documentation - [Nederlandse Spoorwegen (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/nederlandsespoorweip/)
     * Repo - [Nederlandse Spoorwegen](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Nederlandse%20Spoorwegen)
-    * Blog - [Power Platform Challenge 004](https://www.powerplatformchallenge.com/challenges/2022/04/01/challenge-004.html)
+    * Blog - [Power Platform Challenge 004](https://www.powerplatformchallenge.com/post/challenge-004)
     * Connectors - [Welcome to the Independent Publisher Connector Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Miro)
 * **Data Loss Prevention (DLP) solution for emails with Microsoft Graph**
     * Documentation – [Get change notifications delivered in different ways](https://docs.microsoft.com/graph/change-notifications-delivery)
