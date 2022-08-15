@@ -124,7 +124,7 @@ PnP Weekly is a recurrent podcast with visitors where Vesa and Waldek talk about
 * 5th of July - [Microsoft 365 PnP Weekly - Episode 173 - Garry Trinder](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-173/)
 * 28th of June - [Microsoft 365 PnP Weekly - Episode 172 - Beau Cameron](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-172/)
 * 21st of June - [Microsoft 365 PnP Weekly - Episode 171 - Edyta Gorzon](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-171/)
-* 14th of June - [Microsoft 365 PnP Weekly - Episode 170 -  Marcin Wojciechowski](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-17)
+* 14th of June - [Microsoft 365 PnP Weekly - Episode 170 -  Marcin Wojciechowski](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-170)
 
 ## Community calls
 
