@@ -68,7 +68,7 @@ call.
 * Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German – [9:23](https://youtu.be/k2yKGOCj4Ck?t=563)
 * Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:35](https://youtu.be/k2yKGOCj4Ck?t=635)
 * Demo - Document automation using Microsoft SharePoint Syntex Content Assembly – Ankit Rastogi (Microsoft) – [12:14](https://youtu.be/k2yKGOCj4Ck?t=734)
-* Demo - Building a conversational tab in a Microsoft Teams app that captures external event conversations - [Eoin O'Brien](https://ca.linkedin.com/in/obrieneoin) (Microsoft) – [20:53](https://youtu.be/k2yKGOCj4Ck?t=1253)
+* Demo - Building a conversational tab in a Microsoft Teams app that captures external event conversations - [Eoin O'Brien](https://www.linkedin.com/in/obrieneoin/) (Microsoft) – [20:53](https://youtu.be/k2yKGOCj4Ck?t=1253)
 * Demo - Use folders to create a dynamic list filter and Power Automate to populate folders and create pages - [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [34:18](https://youtu.be/k2yKGOCj4Ck?t=2058)
 
 ## Together Mode
