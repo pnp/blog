@@ -567,7 +567,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Abdul Mughni Ansari](https://www.twitter.com/Ansarimughni) (Hexaware) | @Ansarimi
 *   x[Abdur Raheem](https://www.twitter.com/im_offline) (Avanade) | @im_offline
 *   [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
-*   x[Ahmad](https://www.twitter.com/ahmadpirani) | @ahmadpirani
+*   [Ahmad](https://www.twitter.com/ahmadpirani) | @ahmadpirani
 *   x[Ahmed](https://www.github.com/ahghaith) (Diyar United Company) | ahghaith
 *   x[Aiden Kasakya Muganzi](https://www.github.com/muganzix) | muganzix
 *   [Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
@@ -583,19 +583,25 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xAndreas Omayrat | andreasomayrat
 *   x[Andrew Burns](https://www.twitter.com/SharePointRox) (AmSty) | @SharePointRox
 *   [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+    [Andrew Pilcher](https://www.github.com/andrewpilcher) (CSULB) | andrewpilcher
+    [Andy](https://www.github.com/ITAndy) (white & Case) | ITAndy
 *   xAnnie Torres (Coppin State University)
 *   [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 *   [Arash Aghajani](ps://twitter.com/AghajaniArash) | @AghajaniArash
 *   x[Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
 *   [Arleta Wanat](https://github.com/PowershellScripts) | PowershellScripts
 *   xArt Pagano (University of Texas San Antonio)
-*   [Arun Kumar Perumal](https://twitter.com/@arun_perumal16 ) | @arun_perumal16 
+*   [Arun Kumar Perumal](https://twitter.com/@arun_perumal16 ) | @arun_perumal16
+    [Ashish Kumar Baranwal](https://www.twitter.com/ashish2baranwal) (Tata) | @ashish2baranwal
 *   [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
+    [Ben Kereopa-Yorke](https://www.github.com/Benjamin-KY) (Telstra) | Benjamin-KY
 *   [Benny Killua](https://twitter.com/Bennykillua) | @Bennykill
 *   x[Bhushan Mittal](https://www.github.com/mit579) (UBS) | mit579
+    [Brenden Salter](https://www.twitter.com/GinjaCodeNinja) (Northern Computer) | @GinjaCodeNinja
 *   xBianca W | bianca-git
 *   xBob Morris (ThreeWill)
 *   x[Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
+    [Chris Aragao](https://www.twitter.com/aragaocb) | @aragaocb
 *   [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
 *   xChris Sparrow (PA Consulting)
 *   xChris S | chrisms86
@@ -603,6 +609,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
 *   [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
 *   [Clément Olivier](https://twitter.com/Clement0livier ) | @Clement0livier  
+    [Craig Savel](https://www.github.com/csavel) (Population Council) | csavel
 *   xCynthia Tiwana (city of sammamish) | ctiwana
 *   x[Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
 *   [Daniel Watford](https://twitter.com/danwatford) | @danwatford
@@ -613,6 +620,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
 *   xDennis van Niel | dennisvanniel
 *   x[Dipen Shah](https://www.twitter.com/Dips_365) (Rapid Circle) | @Dips\_365
+    [Divya Akula](https://www.twitter.com/_divyaakula) | @_divyaakula
 *   [Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
 *   x[Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
 *   xEdmund David (Insentra)
@@ -629,8 +637,10 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xFavour Adekunle
 *   Federico Sapia (ANPAL Servizi)
 *   Felix Bohnacker | felixbohnacker
+    [Fenil Desai](https://www.twitter.com/fenildesai) (TCS) | @fenildesai
 *   xFlorian Zink | fzbm
 *   x[Franck Cornu](https://twitter.com/FranckCornu) | @FranckCornu
+    [Frederik Bisback](https://www.twitter.com/bisbackFrederik) | @bisbackFrederik
 *   x[Gerard Simpson](https://www.twitter.com/powerfanaddict) | @powerfanaddict
 *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
 *   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
@@ -679,11 +689,13 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
 *   [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 *   x[Matthew Jones](https://www.github.com/msterlingjones) (The Church of Jesus Christ of Latter-day Saints) | msterlingjones
+    [Matt Schuessler](https://www.twitter.com/MattSchues) | @MattSchues
 *   xMai Mostafa | Maya-Mostafa
 *   x[Michael Badia](https://www.github.com/stoicvincero) | stoicvincero
 *   x[Michaël Maillot](https://twitter.com/michael_maillot) ( OnePoint) | @michael_maillot
 *   x[Michael Roth](https://twitter.com/michaelroth42) ( ITP) | @MichaelRoth42
 *   xMichelle Heisler (Hennepin County)
+    [Michelle Sanchez](https://www.twitter.com/TheLoadingPoint) (Microsoft) | @TheLoadingPoint
 *   [Miguel Angel García](https://twitter.com/miangama) | @Miangama
 *   Miguel A. Tena | mikewar 
 *   [Miguel Verweij](https://twitter.com/miguelverweij) (Sogeti) | @MiguelVerweij
@@ -701,11 +713,13 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @pkbullock
 *   [Paul Matthews](https://twitter.com/cann0nf0dder)  | @cann0nf0dder
 *   [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | @Paulschaeflein
+    [Phil McNiven](https://www.github.com/phil0074) | phil0074
+    [Priscilla Panizza](https://www.twitter.com/ptpanizza) (Liberty Bank) | @ptpanizza
 *   [Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4l
 *   [Ramin Ahmadi](https://twitter.com/raminahmadi1986) (Content and Cloud) | @raminahmadi1986
 *   x[Ravichandran Krishnasamy](https://twitter.com/spfx_blog) (Content Formula) | @Spfx\_blog
 *   Rene Koch
-*   x[Rene Modery](https://twitter.com/modery) (WPP) | @modery 
+*   [Rene Modery](https://twitter.com/modery) (WPP) | @modery 
 *   rentu | SLdragon
 *   [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
 *   xRico van de Ven | RicoNL
@@ -721,6 +735,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xSabrina Faragoza (Cognizant's Microsoft Business Group)
 *   x[Saisang Cai](https://github.com/Saisang)
 *   xSami Nieminen | stniemin
+    [Sami Stephan](https://www.github.com/sstephan01) (SubCom, LLC) | sstephan01
 *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 *   [Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
 *   xShrushti Shah (Rapid Circle)
@@ -728,6 +743,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh\_me
 *   [Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy
 *   [Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @Simonjhudson
+    [Sivam Pandey](https://www.twitter.com/sivamspandey) (HCL Technologies) | @sivamspandey
 *   [Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
 *   Sohil Bhalla | sohilbhalla
 *   xSorina Becheru (abtis GmbH)
@@ -735,6 +751,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
 *   xStephen Peters | StephenBrentPeters
 *   Sudharsan Kesavanarayanan | sudharsank
+    [Sven Sieverding](https://www.twitter.com/365Knoten) (team neusta) | @365Knoten
 *   xTammy Dupuy (CSULB)
 *   [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
 *   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
