@@ -1,9 +1,9 @@
 ---
 title: "CLI for Microsoft 365 - how cool is that? - Tips and tricks"
-date: 2022-08-08T02:44:24+06:00
+date: 2022-08-15T02:44:24+06:00
 # post thumb
 images:
-  - "images/main.png"
+  - images/main.png
 #author
 author: "Adam Wójcik"
 githubname: Adam-it
@@ -14,8 +14,8 @@ summary: "CLI for Microsoft 365 is a cross platform command line tool based on N
 categories: ["Community post"]
 tags: ["CLI for Microsoft 365"]
 type: "regular" 
-
 ---
+
 Are you regularly using CLI for Microsoft 365 and looking for a way to be more productive? Or is this totally new for you and you are looking for something 'special' which will make CLI for M365 stand out when compared with other command line tools? Well, you are in the right place. In this post I will show you some tips and tricks which may improve your experience with CLI for Microsoft 365.
 
 ## 🤔 But first of all what is CLI for Microsoft 365? Quick intro
