@@ -1,6 +1,6 @@
 ---
-title: "Excel File Tricks with PowerAutomate"
-date: 2022-08-07T11:06:00-04:00
+title: "Run Azure DevOps Pipelines by uninvited users to projects from Power Platform"
+date: 2022-08-14T11:06:00-04:00
 author: "Duvan Baena"
 githubname: DuvanBaena
 categories: ["Community post"]
