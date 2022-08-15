@@ -384,30 +384,30 @@ We welcome all scripts on Microsoft 365 automation to this centralized repositor
 
 Here are the latest updates on the Script Samples:
 
-- Updated [Export SharePoint List Data to CSV with attachments](https://pnp.github.io/script-samples/spo-export-sharepoint-list-items-to-csv/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
-- Updated [Bulk Create Teams with JSON File](https://pnp.github.io/script-samples/teams-bulk-create-teams/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
-- Updated [Set Home site for SharePoint online tenant](https://pnp.github.io/script-samples/spo-set-home-site/README.html) by [Smita Nachan](https://twitter.com/smitanachan)  | @smitanachan
-- New [Add/Remove users(bulk) from Power Apps from CSV file](https://pnp.github.io/script-samples/powerapps-bulk-useraccess/README.html) by [Smita Nachan](https://twitter.com/LuiseFreese)  (Independant Consultant) | @LuiseFreese 
-- Updated [Delete custom color themes from SharePoint](https://pnp.github.io/script-samples/spo-remove-custom-themes/README.html) by [Leon Armston](https://twitter.com/LeonArmston)  (Intelogy) | @LeonArmston
-- Updated [Copy library view to another library(ies)](https://pnp.github.io/script-samples/spo-copy-library-view/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
-- Updated [Copy Planner plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html) by [Milan Holemans](https://twitter.com/Milan Holemans)  | Milan Holemans
-- Updated [Multiple samples update - m365 connection check](https://pnp.github.io/script-samples/) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
-- Updated [Add multiple folders in libraries using a csv file](https://pnp.github.io/script-samples/spo-add-multiple-folders-in-libraries-using-csv-file/README.html) by [Jiten Palmer](https://twitter.com/Jitenpa44241205)  | @Jitenpa44241205
-- New [Get Flows Connected to SharePoint](https://pnp.github.io/script-samples/flow-get-flows-connected-to-sharepoint/README.html) by [Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
-- Updated [SharePoint Modern Page Publishing Report](https://pnp.github.io/script-samples/spo-modern-page-publishing-report/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
-- Updated [Planner migration to SharePoint list](https://pnp.github.io/script-samples/planner-migration-spo-list/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
-- New [Add bulk users to SharePoint site groups from CSV](https://pnp.github.io/script-samples/spo-add-bulk-users-to-groups/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
-- New [Export SharePoint Term Store terms to CSV](https://pnp.github.io/script-samples/spo-export-termstore-terms-to-csv/README.html) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986)  (Content and Cloud) | @raminahmadi1986
-- New [List external users across all sites and in what site groups they are](https://pnp.github.io/script-samples/spo-list-site-externalusers-in-groups/README.html) by [Martin Lingstuyl](https://twitter.com/martinlingstuyl)  | @martinlingstuyl
-- Updated [List all external users in all site collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html) by [Martin Lingstuyl](https://twitter.com/martinlingstuyl)  | @martinlingstuyl
-- Updated [Copy Planner plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
-- New [Update web part properties on modern pages](https://pnp.github.io/script-samples/spo-update-modern-webpart-properties/README.html) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986)  (Content and Cloud) | @raminahmadi1986
-- New [Bulk Publish Syntex Models To Libraries](https://pnp.github.io/script-samples/spo-bulk-publish-syntex-model/README.html) by [Leon Armston](https://twitter.com/LeonArmston)  (Intelogy) | @LeonArmston
-- New [Create a SharePoint site using the configuration of another site](https://pnp.github.io/script-samples/spo-extract-and-invoke-site-template/README.html) by [Lewis Baybutt](https://twitter.com/lowcodelewis)  (HybrIT Services) | @lowcodelewis
-- New [Request Reindex of SharePoint User Profile Properties](https://pnp.github.io/script-samples/spo-request-pnp-reindex-user-profile/README.html) by [Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
-- Updated [Request Reindex of SharePoint User Profile Properties](https://pnp.github.io/script-samples/spo-request-pnp-reindex-user-profile/README.html) by [Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
-- Updated [Add a document library web part to a page](https://pnp.github.io/script-samples/spo-add-document-library-webpart-to-page/README.html) by [Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
-- New [Restore large number of items from SharePoint Recycle bin in bulk](https://pnp.github.io/script-samples/bulk-restore-from-recyclebin/README.html) by [Paul Matthews](https://twitter.com/cann0nf0dder)  | @cann0nf0dder
+* Updated [Export SharePoint List Data to CSV with attachments](https://pnp.github.io/script-samples/spo-export-sharepoint-list-items-to-csv/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
+* Updated [Bulk Create Teams with JSON File](https://pnp.github.io/script-samples/teams-bulk-create-teams/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
+* Updated [Set Home site for SharePoint online tenant](https://pnp.github.io/script-samples/spo-set-home-site/README.html) by [Smita Nachan](https://twitter.com/smitanachan)  | @smitanachan
+* New [Add/Remove users(bulk) from Power Apps from CSV file](https://pnp.github.io/script-samples/powerapps-bulk-useraccess/README.html) by [Smita Nachan](https://twitter.com/LuiseFreese)  (Independant Consultant) | @LuiseFreese 
+* Updated [Delete custom color themes from SharePoint](https://pnp.github.io/script-samples/spo-remove-custom-themes/README.html) by [Leon Armston](https://twitter.com/LeonArmston)  (Intelogy) | @LeonArmston
+* Updated [Copy library view to another library(ies)](https://pnp.github.io/script-samples/spo-copy-library-view/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
+* Updated [Copy Planner plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html) by [Milan Holemans](<https://twitter.com/Milan> Holemans)  | Milan Holemans
+* Updated [Multiple samples update - m365 connection check](https://pnp.github.io/script-samples/) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
+* Updated [Add multiple folders in libraries using a csv file](https://pnp.github.io/script-samples/spo-add-multiple-folders-in-libraries-using-csv-file/README.html) by [Jiten Palmer](https://twitter.com/Jitenpa44241205)  | @Jitenpa44241205
+* New [Get Flows Connected to SharePoint](https://pnp.github.io/script-samples/flow-get-flows-connected-to-sharepoint/README.html) by [Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
+* Updated [SharePoint Modern Page Publishing Report](https://pnp.github.io/script-samples/spo-modern-page-publishing-report/README.html) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan)  | @NanddeepNachan
+* Updated [Planner migration to SharePoint list](https://pnp.github.io/script-samples/planner-migration-spo-list/README.html) by [Jasey Waegebaert](https://twitter.com/Jwaegebaert)  | @Jwaegebaert
+* New [Add bulk users to SharePoint site groups from CSV](https://pnp.github.io/script-samples/spo-add-bulk-users-to-groups/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+* New [Export SharePoint Term Store terms to CSV](https://pnp.github.io/script-samples/spo-export-termstore-terms-to-csv/README.html) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986)  (Content and Cloud) | @raminahmadi1986
+* New [List external users across all sites and in what site groups they are](https://pnp.github.io/script-samples/spo-list-site-externalusers-in-groups/README.html) by [Martin Lingstuyl](https://twitter.com/martinlingstuyl)  | @martinlingstuyl
+* Updated [List all external users in all site collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html) by [Martin Lingstuyl](https://twitter.com/martinlingstuyl)  | @martinlingstuyl
+* Updated [Copy Planner plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
+* New [Update web part properties on modern pages](https://pnp.github.io/script-samples/spo-update-modern-webpart-properties/README.html) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986)  (Content and Cloud) | @raminahmadi1986
+* New [Bulk Publish Syntex Models To Libraries](https://pnp.github.io/script-samples/spo-bulk-publish-syntex-model/README.html) by [Leon Armston](https://twitter.com/LeonArmston)  (Intelogy) | @LeonArmston
+* New [Create a SharePoint site using the configuration of another site](https://pnp.github.io/script-samples/spo-extract-and-invoke-site-template/README.html) by [Lewis Baybutt](https://twitter.com/lowcodelewis)  (HybrIT Services) | @lowcodelewis
+* New [Request Reindex of SharePoint User Profile Properties](https://pnp.github.io/script-samples/spo-request-pnp-reindex-user-profile/README.html) by [Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
+* Updated [Request Reindex of SharePoint User Profile Properties](https://pnp.github.io/script-samples/spo-request-pnp-reindex-user-profile/README.html) by [Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
+* Updated [Add a document library web part to a page](https://pnp.github.io/script-samples/spo-add-document-library-webpart-to-page/README.html) by [Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
+* New [Restore large number of items from SharePoint Recycle bin in bulk](https://pnp.github.io/script-samples/bulk-restore-from-recyclebin/README.html) by [Paul Matthews](https://twitter.com/cann0nf0dder)  | @cann0nf0dder
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative.
 
