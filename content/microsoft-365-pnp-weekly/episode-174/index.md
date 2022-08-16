@@ -1,46 +1,52 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 174"
-summary: "Cloud Developer Advocate at Microsoft - Garry Trinder, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss consulting your way into Microsoft, training challenges and rewards, getting involved in open-source community-work, plus latest 22 articles/videos from Microsoft/Community this week."
-date: 2022-07-15T04:00:01-00:00
+summary: "Oslo based Power Platform Architect and MVP at Avanade - Ahmad Najjar, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss evolution, need, connectors, and key wave 2 release features of Power Platform, plus latest 28 articles/videos from Microsoft/Community this week."
+date: 2022-08-15T04:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-173-promo.png
+- images/pnp-weekly-174-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=2JBtVXDGJDg
-draft: true
+- https://www.youtube.com/watch?v=hmZPbdvgte4
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by ....
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Oslo Norway based Power Platform Architect Lead and MVP at Avanade - [Ahmad Najjar](https://twitter.com/ahmadn82) \| @ahmadn82
 
 ## Topics discussed in this session
 
-* Topic
-* Topic
-* Topic
-* Topic
-* Topic
-* Topic
-* Topic
+* What attracted you to the Microsoft Power Platform back in 2016? Thoughts on Platform evolution since that time and on Partner opportunities?
+* What is the need for a Power Platform Architect? The need is for a specialist’s guidance on using the Power Platform correctly including governance, policies, control of data, and to address functionality gaps remains necessary. And yes, professional developers are still needed as well!
+* Why use the Microsoft Power Platform vs other options? What about quality vs speed – a balance or shift rather than a tradeoff.
+* Why are you contributing to the open-source Power Platform Independent Publisher Connector program? It’s about the Community.
+* What are your top 3 picks on Microsoft Power Platform 2022 release wave 2 features?
 
-Also, we showcased xx articles/videos published by Microsoft and the PnP Community in the last week. 
+Also, we showcased 28 articles/videos published by Microsoft and the PnP Community in the last week. 
 
 ## This week
 
-* **Waldek** – Planning and addressing a question: Why would/should a developer care about building on Microsoft 365? Stay tuned!
-* **Vesa** – Wrapping up loose ends and gearing up for a most remote vacation.
-* **Ahmad** - Planning and learning other aspects of his role. 
+* **Waldek** – catch-up and meetings.
+* **Vesa** – catch-up  and meetings.
+* **Ahmad** - continuing on authoring a Power Automate “cookbook” and on prepping presentations and workshops for upcoming conferences – Nordic Summit and ESPC22.
+    * Documentation - [Microsoft Power Platform: 2022 release wave 2
+      plan](https://docs.microsoft.com/power-platform-release-plan/2022wave2/)
+    * Event – [Nordic Summit - a FREE Power Platform and Dynamics 365 community
+      event](https://nordicsummit.info/) – Stockholm, Sweden, 24 September, 2022
+    * Event – [European SharePoint, Office 365 & Azure Conference 2022
+      (ESPC22)](https://www.sharepointeurope.com/), Copenhagen, Denmark, 28
+      November - 1 December, 2022
+ 
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, July 4, 2022.
+This session was recorded on Monday, August 15, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 2JBtVXDGJDg >}}
+    {{< youtube hmZPbdvgte4 >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-h8afv-1267cf7 >}}    
+    {{< podbean pb-eqara-129cf7c >}}    
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -82,7 +88,6 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
   
 ## Additional resources
 
-* [Release Notes for PnPjs v3.4.1](https://pnp.github.io/pnpjs/)  
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
 * Check out all the great community calls, SDKs, and tooling for Microsoft 365 from <https://aka.ms/m365/community>
 
