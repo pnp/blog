@@ -29,8 +29,8 @@ hooks. We will also touch upon some advanced concepts like how apps can prepare
 themselves for Continuous Access Evaluation (CAE) events. We will cap the
 session with showing you how to successfully deploy your app on Azure Static Web
 Apps service. Microsoft Presenters [Doğan
-Erişen](https://ca.linkedin.com/in/doganerisen), [Salman
-Salem](https://ca.linkedin.com/in/salman-salem) and [Kalyan
+Erişen](https://www.linkedin.com/in/doganerisen/), [Salman
+Salem](https://www.linkedin.com/in/salman-salem/) and [Kalyan
 Krishna](https://twitter.com/kalyankrishna1). Recorded July 21,2022
 
 {{< youtube 7oPSL5wWeS0 >}}

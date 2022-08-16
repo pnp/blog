@@ -36,7 +36,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 
 ### Demos
 
-* **Introduction on getting stared on building Independent Publishing Connectors – Case Netherland Railroads** – Microsoft Teams app gets information on train arrivals, departures, stations, and station disruptions through connector accessing Dutch railway operator’s open API. Power Automate flow is triggered each afternoon to assess if commuter train is on time, notification delivered by a chatbot. See detailed [article](https://www.powerplatformchallenge.com/challenges/2022/04/01/challenge-004.html) on creating a custom connector in Miguel’s blog. 128 certified Independent Publisher Connectors in production, 27 in pipeline today!
+* **Introduction on getting stared on building Independent Publishing Connectors – Case Netherland Railroads** – Microsoft Teams app gets information on train arrivals, departures, stations, and station disruptions through connector accessing Dutch railway operator’s open API. Power Automate flow is triggered each afternoon to assess if commuter train is on time, notification delivered by a chatbot. See detailed [article](https://www.powerplatformchallenge.com/post/challenge-004) on creating a custom connector in Miguel’s blog. 128 certified Independent Publisher Connectors in production, 27 in pipeline today!
 * **Data Loss Prevention (DLP) solution for emails with Microsoft Graph** – the new secure and customizable alternative to Microsoft Purview Insider Risk Management uses Microsoft Graph subscriptions for email (and other event) notifications and Azure.Messaging.EventHub as an incident reporting end-point. See how to create an EventHub and configure policies. Essentially 2 policies - Graph can only send to my EventHub and my custom code can only listen to my Event Hub! Solution uses an Azure Durable Function.
 * **TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo** – see use of TeamsFx for scaffolding a Teams Tab as a Blazor project, use Entity Framework Core to manage data in SQLite, use C\# Source Code Generators to auto create service classes, usage of Mezaiantou’s generic forms for Blazor, and use of the generators to also create razor components. This demo assumes familiarity of building TeamsFx apps, covered in previous PnP demos.
 
@@ -90,7 +90,7 @@ Awesome seeing everybody on the call today. Thank you everyone for being so coll
 * **Introduction on getting stared on building Independent Publishing Connectors – Case Netherland Railroads**
     * Documentation - [Nederlandse Spoorwegen (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/nederlandsespoorweip/)
     * Repo - [Nederlandse Spoorwegen](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Nederlandse%20Spoorwegen)
-    * Blog - [Power Platform Challenge 004](https://www.powerplatformchallenge.com/challenges/2022/04/01/challenge-004.html)
+    * Blog - [Power Platform Challenge 004](https://www.powerplatformchallenge.com/post/challenge-004)
     * Connectors - [Welcome to the Independent Publisher Connector Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Miro)
 * **Data Loss Prevention (DLP) solution for emails with Microsoft Graph**
     * Documentation – [Get change notifications delivered in different ways](https://docs.microsoft.com/graph/change-notifications-delivery)

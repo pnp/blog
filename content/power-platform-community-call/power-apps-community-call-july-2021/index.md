@@ -204,9 +204,6 @@ or viewing it on demand. 
 -   Documentation - [Use expressions in conditions to check multiple
     values](https://docs.microsoft.com/power-automate/use-expressions-in-conditions) 
 
--   chrome web store - [Metadata Browser for Dynamics 365/Power
-    Apps](https://chrome.google.com/webstore/detail/metadata-browser-for-dyna/ahbljnhlfdbecefhilipmpnlfldnplpb) 
-
 -   Article - [Setting Lookup in a Flow CDS Connector: Classic vs.
     Current Environment
     connector](https://d365demystified.com/2020/12/03/setting-lookup-in-a-flow-cds-connector-classic-vs-current-environment-connector-power-automate-quick-tip/)
