@@ -11,7 +11,7 @@ tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=COic6ghBWsU
-draft: true
+draft: false
 ---
 
 ## Call summary
