@@ -1,6 +1,6 @@
 ---
 title: "How to monitor build host agent from power platform"
-date: 2022-08-15T11:06:00-04:00
+date: 2022-08-17T11:06:00-04:00
 author: "Duvan Baena"
 githubname: DuvanBaena
 categories: ["Community post"]
@@ -44,6 +44,8 @@ Agent.Job status: Build status.
 `SucceededWithIssues `
 
 
+```
+
 - [ ] Build.Reason : Event that caused the build to run
 
 - [ ] Manual: a user manually queues the build.
@@ -71,6 +73,7 @@ Agent.Job status: Build status.
 - [x] Build.SourceVersionMessage : Comment on the commit or change set of the trigger repository. Truncate the message to the first line or 200 characters, whichever is shorter.
 
 - [x] Build.SourceBranchName : Name of the branch in the trigger repository for which the build was queued.
+```
 
 
 ## How does this process work?
