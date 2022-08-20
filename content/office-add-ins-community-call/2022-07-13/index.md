@@ -25,7 +25,8 @@ draft: false
 
 The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded July 13, 2022.
 
-{{< youtube COic6ghBWsU&t >}}
+{{< youtube COic6ghBWsU >}}
+
 ## Agenda
 
 * Word API update. Yun Wang, Principal Product Manager (Microsoft), [1:21](https://www.youtube.com/watch?v=COic6ghBWsU&t=81s)
