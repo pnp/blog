@@ -144,7 +144,8 @@ Once you finished the component, add it to your app and try it out.
 
 As a last hint: This is how proper docs for a component could look like:
 
-![proper docs for a component](/images/docs.png)
+
+![proper docs for a component](images/docs.png)
 
 ## Result
 
