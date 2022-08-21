@@ -144,8 +144,7 @@ Once you finished the component, add it to your app and try it out.
 
 As a last hint: This is how proper docs for a component could look like:
 
-![proper docs for a component](/images/docs.png)
-
+![proper docs for a component](images/docs.png)
 ## Result
 
 As a result, you can establish this as your standard process to build components, which will also reduce your development time and increase component quality. You will also take advantage of proper documentation, which will make sure that you are not the only one who needs to take care if the component needs an adjustment or if users need a similar component. What do you think? [Let me know on twitter](https://twitter.com/LuiseFreese/status/1559948044078030853) or below in the comments. 
