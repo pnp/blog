@@ -17,7 +17,7 @@ tags:
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
-draft: true
+draft: false
 ---
 
 Microsoft 365 Platform Community (PnP) August 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success.
