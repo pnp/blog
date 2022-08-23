@@ -3,7 +3,7 @@ title: "Office Add-ins community call – August 10, 2022"
 summary: "Excel add-in User Pattern – Open in Excel, Using Linq to XML in Office.js Add-ins, Office Add-ins Community engagement update, Outlook Add-in API update - REST decommission and Mailbox 1.12 Scope definition."
 date: 2022-08-10T08:01:00-05:00
 author: "Preethika Kiruveedula"
-githubname: pkiruveedula
+githubname: preethikakiru
 categories: ["Office Add-in developer community call"]
 images:
 - images/office-add-ins-call-august-2022-recording.png
