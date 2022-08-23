@@ -10,7 +10,7 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=34SoeV_4bpw
-draft: true
+draft: false
 ---
  
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Redmond-based Principal Software Engineer for Microsoft Graph - [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) \| @gavinbarron
@@ -23,7 +23,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * Deciding about working in a software engineering vs a PM role.
 * What does a principal software engineer do for a living and more specifically on the Microsoft Graph Team?
 * About the Dev interview at Microsoft and 3-5 preparation tips for interviewing at Microsoft.
-* Insert link to Vincent Biret's article on PM vs Software engineer role.
+* Vincent Biret's [article](https://baywet.github.io/pm-experience-dev-sdk/) on PM vs Software engineer role.
 
 Also, we showcased 15 articles/videos published by Microsoft and the PnP Community in the last week.
 
