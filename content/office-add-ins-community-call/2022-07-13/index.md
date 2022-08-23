@@ -3,7 +3,7 @@ title: "Office Add-ins community call – July 13, 2022"
 summary: "Word API updates, Outlook add-ins updates (REST decommission, shared folders support, item multi-select), and SSO samples update. This month’s Community Spotlight recognizes Maarten van Stam.  Covered community panels plus Q&A in chat and at end of call."
 date: 2022-07-22T08:01:00-05:00
 author: "Preethika Kiruveedula"
-githubname: pkiruveedula
+githubname: preethikakiru
 categories: ["Office Add-in developer community call"]
 images:
 - images/office-add-ins-call-july-2022-recording.png
@@ -24,8 +24,7 @@ draft: false
 * **Q&A.** See question and answers at end of call and in chat throughout call
 
 The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded July 13, 2022.
-
-{{< youtube COic6ghBWsU&t >}}
+{{< youtube COic6ghBWsU >}}
 ## Agenda
 
 * Word API update. Yun Wang, Principal Product Manager (Microsoft), [1:21](https://www.youtube.com/watch?v=COic6ghBWsU&t=81s)
