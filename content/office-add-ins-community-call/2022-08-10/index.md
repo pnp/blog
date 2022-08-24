@@ -96,6 +96,6 @@ This is a great feature to request, please go to the M365 developer platform and
 * [Microsoft 365 Platform Community on YouTube](https://aka.ms/m365/videos)
 * Invites to all [Microsoft 365 Developer Community calls](https://aka.ms/M365DevCalls)
 * [Submit questions about Office Add-ins development](https://aka.ms/officeaddinsform) for our next community call
-* [Join us for our next community call](https://aka.ms/officeaddinscommunitycall) on August 10th at 8:00 AM PT
+* [Join us for our next community call](https://aka.ms/officeaddinscommunitycall) on September 14th at 8:00 AM PT
 
 {{< attachments >}}
