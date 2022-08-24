@@ -15,7 +15,9 @@ draft: true
 ---
 
 # Office Add-ins developer platform community call - August 10, 2022
+## This month's agenda and presenters
 
+The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior Technical Writer, Microsoft Office Developer Platform.
 ## This month's agenda and presenters
 
 The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior Technical Writer, Microsoft Office Developer Platform
