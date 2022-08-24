@@ -607,6 +607,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Clément Olivier](https://twitter.com/Clement0livier ) | @Clement0livier  
 *   [Craig Savel](https://www.github.com/csavel) (Population Council) | csavel
 *   [Daniel Watford](https://twitter.com/danwatford) | @danwatford
+*   [Dennis Goedegebuure](https://twitter.com/expiscornovus) (Ultima Business Solutions) | Expiscornovus
 *   [Darren Lutchne](https://twitter.com/assist_365) | @assist_365
 *   [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
 *   [Divya Akula](https://www.twitter.com/_divyaakula) | @_divyaakula
@@ -697,7 +698,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Sohil Bhalla | sohilbhalla
 *   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 *   [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
-*   [Sudharsan Kesavanarayanan](https://github.com/sudharsank)
+*   [Sudharsan Kesavanarayanan](https://twitter.com/sudharsank) (NTT Digital Business Solutions) | @sudharsank
     [Sven Sieverding](https://www.twitter.com/365Knoten) (team neusta) | @365Knoten
 *   [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
 *   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
@@ -726,9 +727,12 @@ Here's the companies, which provided support the community initiative for this m
 *   [iThink 365](https://www.ithink365.co.uk/)
 *   [MondayCoffee](https://mondaycoffee.com/-home)
 *   [N8D - Stefan Bauer - Innovation and Design Agency](https://n8d.at/)
+*   [NTT Digital Business Solutions](https://www.global.ntt/)   
+*   [onepoint](https://www.groupeonepoint.com/en/)
 *   [Piasys](https://piasys.com/)
 *   [PixelMill](https://pixelmill.com/)
 *   [Rapid Circle](https://en.rapidcircle.com/)
+*   [ShareSquared](https://www.sharesquared.com)
 *   [Solvion](https://www.solvion.net/)
 *   [Sogeti](https://www.sogeti.com/)
 *   [Storm Technology](https://www.storm.ie/)
@@ -736,6 +740,7 @@ Here's the companies, which provided support the community initiative for this m
 *   [Sulava](https://sulava.com/en/home/)
 *   [Sympraxis Consulting](https://sympraxisconsulting.com/)
 *   [ThreeWill](https://threewill.com/)
+*   [Ultima Business Solutions](https://www.ultima.com/)
 *   [Valo](https://www.valointranet.com/)
 *   [Voitanos](https://www.voitanos.io/)
 
