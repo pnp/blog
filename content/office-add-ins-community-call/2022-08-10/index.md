@@ -77,7 +77,7 @@ This is a great feature to request, please go to the M365 developer platform and
     *[Deploy add-ins in the Microsoft 365 admin center](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
     *[Configure your Office Add-in to use a shared JavaScript runtime](https://docs.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime)
     * Feedback - [Open in Excel pattern proposal feedback](https://forms.office.com/r/14KL0MjPfJ)
-* **Use Linq to XML in Office.js Add-ins**
+* **Use Linq to XML in Office Add-ins**
     * Github Sample repo - [OpenXmlDev/linq-to-xml](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/Office Videos/Add In Calls/2022-08-10-OfficeAdd-ins/OpenXmlDev / linq-to-xml)
     * npm - [LINQ to XML for TypeScript](https://www.npmjs.com/package/@openxmldev/linq-to-xml)
     * Github Sample repo - [OpenXmlDev/linq-to-ooxml](https://github.com/OpenXmlDev/linq-to-ooxml)
