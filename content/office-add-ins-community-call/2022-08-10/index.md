@@ -28,7 +28,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior 
 
 * Excel add-in user pattern: Open in Excel [1:12](https://youtu.be/KxaE0SLk-lM?t=72)
 * Use Linq to XML in Office.js Add-ins [9:27] (https://youtu.be/KxaE0SLk-lM?t=567)
-* Office Add-ins community engagement update[31:00] (https://youtu.be/KxaE0SLk-lM?t=1860)
+* Office Add-ins community engagement update [31:00](https://youtu.be/KxaE0SLk-lM?t=1860)
 * Outlook add-in API update: REST decommission and Mailbox v1.12 scope [42:05] (https://youtu.be/KxaE0SLk-lM?t=2525)
 * Q&A [59:17](https://youtu.be/KxaE0SLk-lM?t=3557)
 
