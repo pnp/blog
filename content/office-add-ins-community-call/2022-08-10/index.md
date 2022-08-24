@@ -85,6 +85,7 @@ This is a great feature to request, please go to the M365 developer platform and
     * Github sample repo- [OpenXmlDev/inq-add-in](https://github.com/OpenXmlDev/linq-add-in)
   **Outlook Add-in API update: REST decommission and Mailbox 1.12 scope **
     *[REST API Add-in verification request](https://aka.ms/RESTCheck)
+    *[Use the Outlook REST APIs from an Outlook add-in](https://docs.microsoft.com/office/dev/add-ins/outlook/use-rest-api)
     *[Add-ins for Outlook mobile](https://docs.microsoft.com/office/dev/add-ins/outlook/outlook-mobile-addins)
     *[On-Premises Architectural Requirements for the REST API](https://techcommunity.microsoft.com/t5/exchange-team-blog/on-premises-architectural-requirements-for-the-rest-api/ba-p/605609)
     
