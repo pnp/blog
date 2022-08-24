@@ -80,7 +80,7 @@ This is a great feature to request, please go to the M365 developer platform and
 * **Use Linq to XML in Office Add-ins**
     * Github Sample repo - [OpenXmlDev/linq-to-xml](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/Office Videos/Add In Calls/2022-08-10-OfficeAdd-ins/OpenXmlDev / linq-to-xml)
     * npm - [LINQ to XML for TypeScript](https://www.npmjs.com/package/@openxmldev/linq-to-xml)
-    * Github Sample repo - [OpenXmlDev/linq-to-ooxml](https://github.com/OpenXmlDev/linq-to-ooxml)
+    * Github sample repo - [OpenXmlDev/linq-to-ooxml](https://github.com/OpenXmlDev/linq-to-ooxml)
     * npm - [OOXML Namespace-Related Classes for LINQ to XML for TypeScript](https://www.npmjs.com/package/@openxmldev/linq-to-ooxml)
     * Github sample repo- [OpenXmlDev/inq-add-in](https://github.com/OpenXmlDev/linq-add-in)
   **Outlook Add-in API update: REST decommission and Mailbox 1.12 scope **
