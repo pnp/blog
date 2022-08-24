@@ -73,7 +73,7 @@ We currently don't have concrete plans on the roadmap. It would be great if you 
 
 This is a great feature to request, please go to the M365 developer platform and put in a new idea request with more information at https://aka.ms/m365dev-suggestions.
 
-## Additional Resources
+## Additional resources
 
 * **Excel add-in user pattern: Open in Excel**
     *[Open Excel from your web page and embed your Office Add-in](https://docs.microsoft.com/office/dev/add-ins/excel/pnp-open-in-excel)
