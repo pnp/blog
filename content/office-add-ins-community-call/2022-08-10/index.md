@@ -41,7 +41,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior 
   
 ## Call to action
 
-* Give us feedback on what you need from Word apis. Join the Teams call. [Survey](aka.ms/WordAPI).
+* Give us feedback on what you need from Word APIs. [Complete the survey](aka.ms/WordAPI).
 * Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel. 
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
