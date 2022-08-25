@@ -14,7 +14,7 @@ tags:
 type: popular
 ---
 
-We've just published a new major version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 and SharePoint Framework projects on any platform.
+We've just published a new minor version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 and SharePoint Framework projects on any platform.
 
 ## Manage Microsoft 365 and SharePoint Framework projects on any platform
 
@@ -78,7 +78,7 @@ For more information see the [spo list roleassignment add](https://pnp.github.io
 
 ### Removing external connection in Microsoft Search
 
-There is no better place to find what you are looking for than Microsoft Search. Now we allow the administrator to remove a specific external connection.
+There is no better place to find what you are looking for than Microsoft Search. We are constantly adding more and more commands to help you manage a variety of settings in Search. Now we allow the administrator to remove a specific external connection.
 
 Removes external connection with id MyApp
 
@@ -87,6 +87,37 @@ m365 search externalconnection remove --id "MyApp"
 ```
 
 For more information see the [search externalconnection remove](https://pnp.github.io/cli-microsoft365/cmd/search/externalconnection/externalconnection-remove/)
+
+### Improvements to CLI for Microsoft 365 web page
+
+CLI for Microsoft 365 has a large range of commands that you may use. Browsing the CLI for Microsoft 365 docs is a common thing to do in order to find the proper command or setting you might want to use. It's important that using our site is convenient and easy. In this release we added dark mode which may be turned on or off in the page header just next to the search bar. We also added a new page that presents the list of maintainers and contributors. If you are looking for someone who might help you out with CLI, well this is the page that might have that information.
+
+For more information see the [CLI for Microsoft 365 team](https://pnp.github.io/cli-microsoft365/about/team/)
+
+### Extend adding app command to support granting admin consent
+
+It's always better if you may do something with just a single line of code. In order to streamline the process of app registration in Azure AD we extended the command with a new option which allows you to grant admin consent. Try it out today and see how easy and fast it is to register your new app.
+
+In order to create a new Azure AD app registration for a app with specified Microsoft Graph application permissions, including admin consent
+
+```sh
+m365 aad app add --name 'My AAD app' --apisApplication 'https://graph.microsoft.com/Group.ReadWrite.All' --grantAdminConsent
+```
+
+For more information see the updated docs for [aad app add command](https://pnp.github.io/cli-microsoft365/cmd/aad/app/app-add/)
+
+
+### Verify your environment configuration for using the latest version of the SharePoint Framework
+
+Are you using the SPFx v1.15.2 release? Not sure if your environment is configured correctly? Well this single command is the answer to all of you problems. This commands helps you to verify if your environment meets all prerequisites for building solutions using a particular version of the SharePoint Framework. Node.js, npm, Yeoman, Gulp, TypeScript... you name it. All is verified if their meet the requirements of that particular version of the SharePoint Framework. If you miss any required tools or use a version that doesn't meet the SharePoint Framework requirements, the command will give you a list of recommendation how to address these issues. This is a must use command in order to be sure you are all set up and ready to start coding.
+
+Verify if your environment meets the requirements to work with the SharePoint Framework
+
+```sh
+m365 spfx doctor
+```
+
+For more information see the [spfx doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/)
 
 ### What else
 
@@ -100,12 +131,12 @@ This release wouldn't be possible without the help of (in alphabetical order):
 - [Arjun Menon](https://github.com/arjunumenon)
 - [Garry Trinder](https://github.com/garrytrinder)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
-- [Kevin McDonnell](https://github.com/kevmcdonk)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
+- [Michaël Maillot](https://github.com/michaelmaillot)
 - [Milan Holemans](https://github.com/milanholemans)
+- [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Patrick Lamber](https://github.com/plamber)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
-- [Yvan Duhamel](https://github.com/Yvand)
 
 Thank you all for the time you chose to spend on CLI for Microsoft 365 and for your help to advance it!
 
