@@ -23,7 +23,7 @@ Rather than having all the columns displayed as one column in the right hand sid
 
 Below is the updated entry form for former warhorses that have seen the light and now wishes the join the Corps of Peacehorses.
 
-![peacehorses](/images/formformatting.png)
+![peacehorses](images/formformatting.png)
 
 Using form formatting on a single list is easy however once you get a requirement to deploy those form formatting settings across multiple sites or as a part of a template in your provisioning tool things get a little tricky.
 
@@ -31,34 +31,29 @@ As far as I know the [PnP provisioning engine](https://docs.microsoft.com/en-us/
 
 In order to extract the JSON you can use this:
 
-    \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\# ClientFormCustomFormatter extractor
-    
-    \$templateUrl = "https://tenantonline.sharepoint.com/sites/testing"
-    
-    \$clientId = ""
-    
-    \$clientSecret = ""
-    
-    \$targetConn= Connect-PnPOnline -Url \$templateUrl -ClientId \$clientId -ClientSecret \$clientSecret -ReturnConnection
-    
-    \$clientContext = Get-PnPContext
-    
-    \$listName = "Name of list"
-    
-    \$list = Get-PnPList \$listName -Includes SchemaXml
-    
-    \$contentType = Get-PnPContentType -List \$listName \| Where-Object { \$_.Name -eq "Name of the content type"}
-    
-    \$clientContext.Load(\$list.Views)
-    
-    \$clientContext.Load(\$contentType)
-    
-    \$clientContext.Load(\$contentType.FieldLinks)
-    
-    \$clientContext.ExecuteQuery()
-    
-    \$contentType.ClientFormCustomFormatter \| Out-File "c:\\temp\\test.json"
-    
+``` PowerShell
+################## ClientFormCustomFormatter extractor
+
+$templateUrl = "https://tenantonline.sharepoint.com/sites/testing"
+$clientId = ""
+$clientSecret = ""
+
+$targetConn = Connect-PnPOnline -Url $templateUrl -ClientId $clientId -ClientSecret $clientSecret -ReturnConnection
+$clientContext = Get-PnPContext
+
+$listName = "Name of list"
+
+$list = Get-PnPList $listName -Includes SchemaXml
+$contentType = Get-PnPContentType -List $listName | Where-Object { $_.Name -eq "Name of the content type"}
+
+$clientContext.Load(\$list.Views)
+$clientContext.Load(\$contentType)
+$clientContext.Load(\$contentType.FieldLinks)
+$clientContext.ExecuteQuery()
+
+$contentType.ClientFormCustomFormatter | Out-File "c:\\temp\\test.json"
+```
+
 So you basically just have to connect to the site that contains the updated list and extract the JSON to a file.
 
 The provisioning tool I was using in this case is based on Microsoft Azure so in order to apply the form formatting to a new site I decided to use an Azure Function with a HTTP trigger:
@@ -68,100 +63,67 @@ There is a good reason why I don't upload the JSON file to the Azure storage but
 
 The only issue I have with this code was that I had to remember to open the content type if it was set as read only.
 
-    \$targetURL = \$Request.Query.TargetURL
+``` PowerShell
+$targetURL = $Request.Query.TargetURL
     
-    if (-not \$targetURL)
-    
-    {
-    
-    Write-Host " no targeturl received, aborting"
-    
-    \$body = "No TargetUrl received"
-    
-    \$HttpStatusCode = [HttpStatusCode]::BadRequest
-    
-    }
-    
-    else
-    
-    {
-    
-    Write-Host " Targeturl received: \$targetURL"
-    
-    \$clientId = \$env:ClientId
-    
-    \$clientSecret = \$env:clientSecret
-    
-    Connect-PnPOnline -Url "https://[SiteWhereTheJSONIsStored]" -ClientId \$clientId -ClientSecret \$clientSecret
-    
-    \$ClientFormCustomFormatter = Get-PnPFile -Url "/sites/[SiteWhereTheJSONIsStored]/exportedtemplates/formatting.json" -AsString
-    
-    \$listName = "[ListName]"
-    
-    Connect-PnPOnline -Url \$targetURL -ClientId \$clientId -ClientSecret \$clientSecret
-    
-    \$clientContext = Get-PnPContext
-    
-    \$list = Get-PnPList \$listName -ErrorAction Stop
-    
-    \#Get Content Type
-    
-    \$contentType = Get-PnPContentType -List \$listName \| Where-Object { \$_.Name -eq "[NameOfContentType]" -or \$_.Name -eq "Element" }
-    
-    \$clientContext.Load(\$contentType)
-    
-    \$clientContext.Load(\$contentType.FieldLinks)
-    
-    \$clientContext.ExecuteQuery()
-    
-    \#open the ct if it is read only
-    
-    if(\$contentType.ReadOnly)
-    
-    {
-    
-    \$contentType.ReadOnly = \$false
-    
-    \$contentType.Update(0)
-    
-    \$clientContext.ExecuteQuery()
-    
-    }
-    
-    \#
-    
-    \$contentType.ClientFormCustomFormatter = \$ClientFormCustomFormatter
-    
-    \$contentType.Update(0)
-    
-    \$clientContext.ExecuteQuery()
-    
-    if(\$false -eq \$contentType.ReadOnly)
-    
-    {
-    
-    \$contentType.ReadOnly = \$true
-    
-    \$contentType.Update(0)
-    
-    \$clientContext.ExecuteQuery()
-    
-    }
-    
-    \$body = "ClientFormCustomFormatter updated for \$listName on \$targetURL"
-    
-    \$HttpStatusCode = [HttpStatusCode]::OK
-    
-    }
-    
-    \# Associate values to output bindings by calling 'Push-OutputBinding'.
-    
-    Push-OutputBinding -Name Response -Value ([HttpResponseContext]@{
-    
-    StatusCode = \$HttpStatusCode
-    
-    Body = \$body
-    
-    })
-    
+if (-not $targetURL) {
+  Write-Host " no targeturl received, aborting"
+
+  $body = "No TargetUrl received"
+  $HttpStatusCode = [HttpStatusCode]::BadRequest
+} else {
+  Write-Host " Targeturl received: $targetURL"
+
+  $clientId = $env:ClientId
+  $clientSecret = $env:clientSecret
+
+  Connect-PnPOnline -Url "https://[SiteWhereTheJSONIsStored]" -ClientId $clientId -ClientSecret $clientSecret
+
+  $ClientFormCustomFormatter = Get-PnPFile -Url "/sites/[SiteWhereTheJSONIsStored]/exportedtemplates/formatting.json" -AsString
+  $listName = "[ListName]"
+
+  Connect-PnPOnline -Url $targetURL -ClientId $clientId -ClientSecret $clientSecret
+
+  $clientContext = Get-PnPContext
+  $list = Get-PnPList $listName -ErrorAction Stop
+
+  #Get Content Type
+
+  $contentType = Get-PnPContentType -List $listName \| Where-Object { $_.Name -eq "[NameOfContentType]" -or $_.Name -eq "Element" }
+
+  $clientContext.Load($contentType)
+  $clientContext.Load($contentType.FieldLinks)
+  $clientContext.ExecuteQuery()
+
+  #open the ct if it is read only
+
+  if($contentType.ReadOnly) {
+    $contentType.ReadOnly = $false
+    $contentType.Update(0)
+    $clientContext.ExecuteQuery()
+  }
+
+  $contentType.ClientFormCustomFormatter = $ClientFormCustomFormatter
+  $contentType.Update(0)
+  $clientContext.ExecuteQuery()
+
+  if($false -eq $contentType.ReadOnly) {
+    $contentType.ReadOnly = $true
+    $contentType.Update(0)
+    $clientContext.ExecuteQuery()
+  }
+
+  $body = "ClientFormCustomFormatter updated for $listName on $targetURL"
+
+  $HttpStatusCode = [HttpStatusCode]::OK
+}
+
+# Associate values to output bindings by calling 'Push-OutputBinding'.
+
+Push-OutputBinding -Name Response -Value ([HttpResponseContext]@{
+  StatusCode = $HttpStatusCode
+  Body = $body
+})
+```   
+
 And there you go, the form formatting has now been applied to the list as requested
