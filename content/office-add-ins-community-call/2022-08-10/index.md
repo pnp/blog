@@ -15,7 +15,9 @@ draft: false
 ---
 
 # Office Add-ins developer platform community call - August 10, 2022
+
 ## This month's agenda and presenters
+
 The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior Technical Writer, Microsoft Office Developer Platform
 * **Excel add-in user pattern – Open in Excel.** Export data from any system to Excel. [Yawei Zhu](https://www.linkedin.com/in/yaweizhu-henson/), Senior Product Manager, Microsoft. 
 * **Use Linq to XML in Office.js Add-ins.** Two TypeScript libraries for dealing with Open XML markup. [Thomas Barnekow](https://www.linkedin.com/in/thomas-barnekow-2580b11), Senior Principal Software Architect, [Analog Devices](https://www.analog.com/en/index.html).
@@ -23,6 +25,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior 
 * **Outlook add-in API update: REST decommission and Mailbox 1.12 scope.** New event-based features in Mailbox v1.12 and REST decommission update. [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager, Microsoft.
 * **Q&A.** See question and answers at end of call and in chat throughout call.
 {{< youtube COic6ghBWsU&t >}}
+
 ## View Video Segments
 
 * Excel add-in User Pattern: Open in Excel [1:12] (https://youtu.be/KxaE0SLk-lM?t=72)
@@ -59,7 +62,6 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior 
 **Is there a resource that shows speed parity issues between PC/Mac/Web? For text search and selection, we see much faster performance on PC than on Mac. It would be great to see best practices on how to keep performance consistent among platforms.**
 
 In order to best answer your question we need further clarification. Does this performance issue occur with a particular set of Word APIs being introduced or is there a difference in performance for the host Word on PC and Mac? It would be great if you could log an issue and provide more context here on our [Office.js Github repo](https://github.com/OfficeDev/office-js). 
-
 
 **Any timelines on when these Smart Alerts will be supported on Outlook Mobile?**
 
@@ -105,13 +107,11 @@ Excel supports multiple task panes opening at the same time. This is something w
 
 We'll look into this further. We do want to understand the scenario for "Open in Word" integration. For Word developers interested in this, please complete the feedback form.
 
-**I want to develop an Outlook add-ins project. What is the best tech stack? I would prefer React Typescript.**
+**I want to develop an Outlook add-ins project. What is the best tech stack? (Would prefer React Typescript.)**
 
 The beauty of web add-ins is that you can choose the technology you know best! For further guidance, see Develop Office Add-ins and Office Add-ins platform overview.
 
-**Is there any way to know Excel calculation is complete after calling calculate method on Range or Application (for both Manual and Automatic mode)?
-
-Tried with Worksheet and WorksheetCollection oncalculated event, but these are unreliable in case of volatile functions. Multiple events are triggered for single worksheet before entire worksheet is calculated.**
+**Is there any way to know if the Excel calculation is complete after calling calculate method on Range or Application (for both Manual and Automatic mode)? Previously tried with Worksheet and WorksheetCollection oncalculated event, but these are unreliable in case of volatile functions. Multiple events are triggered for single worksheet before entire worksheet is calculated.**
 
 Please open an issue on GitHub so that we can assist you further.
 
@@ -124,9 +124,7 @@ Please open an issue on GitHub so that we can assist you further.
 
 You could develop a web service that sends out Outlook Actionable Message emails; a button within that message can auto-install an Outlook add-in that is published in AppSource.
 
-**1) Can we get a quick status/timeline update for One Outlook?
-
-2) Outlook Add-in on Mac Desktop still has issues writing attachments on send, which have been acknowledged by MS team in various posts. Is there any plan for resolution or any feasible workarounds?**
+**1) Can we get a quick status/timeline update for One Outlook? 2) Outlook Add-in on Mac Desktop still has issues writing attachments on send, which have been acknowledged by MS team in various posts. Is there any plan for resolution or any feasible workarounds?**
 
 We'll provide an update on One Outlook regularly via the monthly community call. For a recent update on the timeline, see the Office Add-ins June community call blog post.
 
@@ -136,11 +134,11 @@ We are working on fixing this bug. Stay tuned!
 
 Yes! Please complete the Word add-ins survey at aka.ms/wordAPI.
 
-**I am unclear if "the feedback portal" is where I should be submitting things, or if we are seeing how things WERE?**
+**Is the "the feedback portal" where I should be submitting things?**
 
 Tech Communities is where we currently ask customers to submit their ideas and requests. The Feedback Portal is a new platform option we're weighing against GitHub for issue and idea submissions. We encourage you to review the new Feedback Portal versus GitHub and send your thoughts about the two by opening an issue on GitHub and mentioning @lindalu-MSFT.
 
-**Can you check with the languages team how they do that? For them GitHub is leading I think but -is- rerouting feature requests to internal systems.**
+**Can you check with the languages team how they do that? For them GitHub is leading I think but is rerouting feature requests to internal systems.**
 
 Thanks, we'll take a look. There are a few sites out there that we can see if we can borrow some processes or tools to help set this up.
 
@@ -148,21 +146,15 @@ Thanks, we'll take a look. There are a few sites out there that we can see if we
 
 For the vast majority of scenarios, the performance between the two isn't significantly different.
 
-**Thanks so much for the incredible progress on this front. It's definitely been a pain point for us to know where Microsoft engineers commune or are able to engage with the developer community. I'm looking forward to hearing more next month! :) Can you clarify if there will be a paid support path for non-enterprise developers?**
+**It's definitely been a pain point for us to know where Microsoft engineers commune or are able to engage with the developer community. Can you clarify if there will be a paid support path for non-enterprise developers?**
 
 No, there is no paid support for non-enterprise Office Add-ins developer customers. I do believe Graph has paid support so that's good news if you have a suggestion for a Graph service API.
 
-**How can we move API calls to the server for a mobile add-in and get a token that can be used with EWS or Graph without user interaction?**
+**How can we move API calls to the server for a Outlook mobile add-in and obtain a token that can be used with EWS or Graph without user interaction?**
 
 The idea is that you do expose a server service as part of your add-in. That service is the one calling Graph (on the server) and returning the needed data to your add-in JS layer.
 
-**On mobile we won't have that initial bootstrap token from the user to send to the server though so how should we be retrieving that in mobile environment given all we'll have is user email address?
-
-Is the idea that the server would be authenticating as a service user? I'm missing who the server is meant to authenticate with the Graph API as.
-
-Regular desktop flow: Bootstrap token generated on client by add-in getAccess, specific to user. Sent to server and on-behalf of token retrieved to issue actual Graph API calls.
-
-Mobile: ?**
+**On Outlook mobile we won't be provided with the initial bootstrap token from the user to send to the server, so how can we go about retrieving that token in then mobile environment given all we'll have is user email address? Is the concept that the server would authenticate as a service user? Need further clarifcation on who the server is meant to authenticate with the Graph APIs. Context: Regular desktop flow: Bootstrap token generated on client by add-in getAccess, specific to user. Sent to server and on-behalf of token retrieved to issue actual Graph API calls. Mobile: what is the mobile equivalent?**
 
 During the REST exemption period, we will be working on providing a similar API for mobile so you can implement that functionality. Until then, you can keep using REST.
 
@@ -173,14 +165,6 @@ REST exemption will apply to existing and new add-ins. Add-ins created after the
 **We currently use the PowerPoint.run() on a timer to check for tag changes of the document in the background. Ideally we'd like to make it so there isn't an icon change so the user doesn't feel like they need to wait for something to load.**
 
 Try creating a web worker that runs the timer. This would put it on a separate thread and would stop the icon from changing. For an example, see Office-Add-in-samples/Excel-custom-functions/web-worker at main · OfficeDev/Office-Add-in-samples (github.com).
-
-
-
-
-
-
-
-
 
 
 ## Additional Resources
