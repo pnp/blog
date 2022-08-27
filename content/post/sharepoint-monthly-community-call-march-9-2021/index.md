@@ -125,7 +125,7 @@ Additional resources on covered topics and discussions.
 -   [SharePoint Syntex](https://aka.ms/SharePointSyntex) 
 
 -   [Content Services Partner
-    Program](https://aka.ms/ContentServicesProgram) 
+    Program](https://adoption.microsoft.com/en-us/tech-community-resource-center/) 
 
 -   [Microsoft Knowledge & Content Services Resource
     Center](https://aka.ms/KCS) 

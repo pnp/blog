@@ -11,7 +11,7 @@ type: "regular"
 summary: "Microsoft Graph’s advanced capabilities for querying directory objects – learn how to unlock the full potential of our Directory Object APIs using the Advanced Query Capabilities, allowing developers to Count, Filter, Search and Sort Directory Objects on more properties with more OData operators."
 videos:
 - https://www.youtube.com/watch?v=6yV8ejEiAvk
-- draft: false
+draft: false
 ---
 
 

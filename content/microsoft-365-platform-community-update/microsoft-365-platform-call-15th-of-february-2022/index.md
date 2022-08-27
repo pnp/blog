@@ -99,7 +99,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D1:**  SDK - [Microsoft Information Protection Software Development Kit Version 1.11](https://www.microsoft.com/download/details.aspx?id=103655) | aka.ms/mipsdkbins
 *   **D1:**  Documentation - [Microsoft Information Protection SDK documentation](https://docs.microsoft.com/information-protection/develop/) | aka.ms/MIPSDKDocs
 *   **D1:**  Code Samples - [mip sdk](https://docs.microsoft.com/samples/browse/?terms=mip%20sdk) | aka.ms/MIPSDKSamples
-*   **D1:**  Documentation - [Information Protection overview](https://docs.microsoft.com/graph/information-protection-overview) 
+*   **D1:**  Documentation - [Information Protection overview](https://docs.microsoft.com/graph/security-information-protection-overview) 
 *   **D1:**  Tool - [Microsoft.InformationProtection.Protection](https://www.nuget.org/packages/Microsoft.InformationProtection.Protection) 
 *   **D1:**  Documentation - [Learn about sensitivity labels](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 *   **D2:**  Documentation - [Overview of Microsoft Graph connectors](https://docs.microsoft.com/MicrosoftSearch/connectors-overview) | aka.ms/GraphConnectors
