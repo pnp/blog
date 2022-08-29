@@ -22,7 +22,7 @@ If there is a need to communicate constantly to other people, you have several o
 
 * Send multiple communications according to the number of times you want to communicate something new.
 
-* Tener un sitio web, donde se encuentre de forma pública la información actualizada y redireccionar las personas a ese sitio web.
+* Have a website, where updated information is publicly found and redirect people to that website.
 
 ## Have a website, where updated information is publicly found and redirect people to that website.
 
