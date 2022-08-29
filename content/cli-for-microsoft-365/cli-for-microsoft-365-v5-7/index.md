@@ -44,7 +44,7 @@ In order to retrieve the specified Microsoft Bookings business with name busines
 m365 booking business get --name 'business name'
 ```
 
-For more information see the [business list](https://pnp.github.io/cli-microsoft365/cmd/booking/business/business-list/) and [business get](https://pnp.github.io/cli-microsoft365/cmd/booking/business/business-get/)
+For more information see the [business list](https://pnp.github.io/cli-microsoft365/cmd/booking/business/business-list/) and [business get](https://pnp.github.io/cli-microsoft365/cmd/booking/business/business-get/) commands.
 
 ### Manage SharePoint Online permissions
 
