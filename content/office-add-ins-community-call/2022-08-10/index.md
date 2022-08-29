@@ -24,7 +24,8 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior 
 * **Office Add-ins community engagement update.** Help us select a single destination for product ideas and suggestions. [Linda Lu Cannon](https://www.linkedin.com/in/lindalu-msft/), Senior Content Project Manager Microsoft, Microsoft.
 * **Outlook add-in API update: REST decommission and Mailbox 1.12 scope.** New event-based features in Mailbox v1.12 and REST decommission update. [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager, Microsoft.
 * **Q&A.** See question and answers at end of call and in chat throughout call.
-{{< youtube COic6ghBWsU&t >}}
+
+{{< youtube COic6ghBWsU >}}
 
 ## View Video Segments
 
