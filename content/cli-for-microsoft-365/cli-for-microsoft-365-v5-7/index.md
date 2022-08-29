@@ -74,7 +74,7 @@ To restore role inheritance for subsite
 m365 spo web roleinheritance reset --webUrl https://contoso.sharepoint.com/sites/project-x
 ```
 
-For more information see the [spo list roleassignment add](https://pnp.github.io/cli-microsoft365/cmd/spo/list/list-roleassignment-add/), [spo list roleassignment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/list/list-roleassignment-remove/) and [spo web roleinheritance reset](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-roleinheritance-reset/)
+For more information see the [spo list roleassignment add](https://pnp.github.io/cli-microsoft365/cmd/spo/list/list-roleassignment-add/), [spo list roleassignment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/list/list-roleassignment-remove/) and [spo web roleinheritance reset](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-roleinheritance-reset/) commands.
 
 ### Remove external connections in Microsoft Search
 
