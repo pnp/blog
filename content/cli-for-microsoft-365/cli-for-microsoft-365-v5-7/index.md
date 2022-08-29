@@ -86,7 +86,7 @@ Removes external connection with id MyApp
 m365 search externalconnection remove --id "MyApp"
 ```
 
-For more information see the [search externalconnection remove](https://pnp.github.io/cli-microsoft365/cmd/search/externalconnection/externalconnection-remove/)
+For more information see the [search externalconnection remove](https://pnp.github.io/cli-microsoft365/cmd/search/externalconnection/externalconnection-remove/) command.
 
 ### CLI for Microsoft 365 web site now with a dark theme and a team page
 
