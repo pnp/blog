@@ -76,11 +76,11 @@ Now only select the `btn_primary` and set its **X** to `(Parent.Width-Self.Width
 
 ### The Icons
 
-Set **Width** of all icons to `32` and **Height** to `Self.Width`
-Set **X** of all icons to `btn_primary.X+ (btn_primary.Width-Self.Width)/2`
-Set **Y** of `btn_secondary` to `btn_secondary.Y+ (btn_secondary.Height-Self.Height)/2`
-Set **Y** of `btn_tertiary` to `btn_tertiary.Y+ (btn_tertiary.Height-Self.Height)/2`
-Set **Y** of `btn_quarternary` to `btn_quarternary.Y+ (btn_quarternary.Height-Self.Height)/2`
+1. Set **Width** of all icons to `32` and **Height** to `Self.Width`
+2. Set **X** of all icons to `btn_primary.X+ (btn_primary.Width-Self.Width)/2`
+3. Set **Y** of `btn_secondary` to `btn_secondary.Y+ (btn_secondary.Height-Self.Height)/2`
+4. Set **Y** of `btn_tertiary` to `btn_tertiary.Y+ (btn_tertiary.Height-Self.Height)/2`
+5. Set **Y** of `btn_quarternary` to `btn_quarternary.Y+ (btn_quarternary.Height-Self.Height)/2`
 
 Make sure that all controls sit in the correct order as they overlap:
 
