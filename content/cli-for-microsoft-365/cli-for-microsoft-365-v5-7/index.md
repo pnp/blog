@@ -28,7 +28,7 @@ Following our monthly release cadence, we've released a new version of the CLI f
 
 > For the complete list of what's new and changed, see the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v570).
 
-### Checking Bookings
+### Check Bookings
 
 Meetings are a crucial part of any organization's business. Microsoft Bookings makes scheduling and managing appointments a breeze. Currently we added new commands to the CLI for Microsoft 365 that will help you list all bookings or get a specific booking.
 
@@ -46,7 +46,7 @@ m365 booking business get --name 'business name'
 
 For more information see the [business list](https://pnp.github.io/cli-microsoft365/cmd/booking/business/business-list/) and [business get](https://pnp.github.io/cli-microsoft365/cmd/booking/business/business-get/)
 
-### SharePoint Online permission management
+### Manage SharePoint Online permissions
 
 Managing permissions in SharePoint Online is a tedious task. With the CLI for Microsoft 365, you can manage permissions in SharePoint Online in a simple and easy way. In current release we introduced a couple of new commands that will help you with that. New commands allow to add or remove role assignment on list level as well as resetting role inheritance on web.
 
@@ -76,7 +76,7 @@ m365 spo web roleinheritance reset --webUrl https://contoso.sharepoint.com/sites
 
 For more information see the [spo list roleassignment add](https://pnp.github.io/cli-microsoft365/cmd/spo/list/list-roleassignment-add/), [spo list roleassignment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/list/list-roleassignment-remove/) and [spo web roleinheritance reset](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-roleinheritance-reset/)
 
-### Removing external connection in Microsoft Search
+### Remove external connections in Microsoft Search
 
 There is no better place to find what you are looking for than Microsoft Search. We are constantly adding more and more commands to help you manage a variety of settings in Search. Now we allow the administrator to remove a specific external connection.
 
@@ -88,36 +88,38 @@ m365 search externalconnection remove --id "MyApp"
 
 For more information see the [search externalconnection remove](https://pnp.github.io/cli-microsoft365/cmd/search/externalconnection/externalconnection-remove/)
 
-### Improvements to CLI for Microsoft 365 web page
+### CLI for Microsoft 365 web site now with a dark theme and a team page
 
-CLI for Microsoft 365 has a large range of commands that you may use. Browsing the CLI for Microsoft 365 docs is a common thing to do in order to find the proper command or setting you might want to use. It's important that using our site is convenient and easy. In this release we added dark mode which may be turned on or off in the page header just next to the search bar. We also added a new page that presents the list of maintainers and contributors. If you are looking for someone who might help you out with CLI, well this is the page that might have that information.
+CLI for Microsoft 365 has many commands that you can use. Browsing the CLI for Microsoft 365 docs is a common thing to do in order to find the proper command or setting you might want to use. It's important that using our site is convenient and easy. In this release we added dark mode which may be turned on or off in the page header just next to the search bar.
+
+We also added a new page that presents the list of maintainers and contributors. If you are looking for someone who might help you out with CLI, well this is the page that might have that information.
 
 For more information see the [CLI for Microsoft 365 team](https://pnp.github.io/cli-microsoft365/about/team/)
 
-### Extend adding app command to support granting admin consent
+### Create Azure AD apps with admin consent
 
-It's always better if you may do something with just a single line of code. In order to streamline the process of app registration in Azure AD we extended the command with a new option which allows you to grant admin consent. Try it out today and see how easy and fast it is to register your new app.
+It's always better if you can do something with just a single line of code. In order to streamline the process of registrating apps in Azure AD we extended the command with a new option which allows you to grant admin consent. Try it out today and see how easy and fast it is to register your new app.
 
-In order to create a new Azure AD app registration for a app with specified Microsoft Graph application permissions, including admin consent
+In order to create a new Azure AD app registration for a app with specified Microsoft Graph application permissions, including admin consent, run:
 
 ```sh
 m365 aad app add --name 'My AAD app' --apisApplication 'https://graph.microsoft.com/Group.ReadWrite.All' --grantAdminConsent
 ```
 
-For more information see the updated docs for [aad app add command](https://pnp.github.io/cli-microsoft365/cmd/aad/app/app-add/)
+For more information see the updated docs for [aad app add command](https://pnp.github.io/cli-microsoft365/cmd/aad/app/app-add/).
 
 
 ### Verify your environment configuration for using the latest version of the SharePoint Framework
 
-Are you using the SPFx v1.15.2 release? Not sure if your environment is configured correctly? Well this single command is the answer to all of you problems. This commands helps you to verify if your environment meets all prerequisites for building solutions using a particular version of the SharePoint Framework. Node.js, npm, Yeoman, Gulp, TypeScript... you name it. All is verified if their meet the requirements of that particular version of the SharePoint Framework. If you miss any required tools or use a version that doesn't meet the SharePoint Framework requirements, the command will give you a list of recommendation how to address these issues. This is a must use command in order to be sure you are all set up and ready to start coding.
+Are you using the SPFx v1.15.2 release? Not sure if your environment is configured correctly? Well this single command is the answer to all of you problems. The `spfx doctor` command helps you to verify if your environment meets all prerequisites for building solutions using a particular version of the SharePoint Framework. Node.js, npm, Yeoman, Gulp, TypeScript... you name it. All is verified if it meet the requirements of that particular version of the SharePoint Framework. If you miss any required tools or use a version that doesn't meet the SharePoint Framework requirements, the command will give you a list of recommendation how to address these issues. This is a must-use command in order to be sure you are all set up and ready to start coding.
 
-Verify if your environment meets the requirements to work with the SharePoint Framework
+Verify if your environment meets the requirements to work with the latest version of the SharePoint Framework:
 
 ```sh
 m365 spfx doctor
 ```
 
-For more information see the [spfx doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/)
+For more information see the [spfx doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/) command.
 
 ### What else
 
