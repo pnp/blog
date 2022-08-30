@@ -10,7 +10,7 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=34SoeV_4bpw
-draft: true
+draft: false
 ---
  
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Redmond-based Principal Software Engineer for Microsoft Graph - [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) \| @gavinbarron
@@ -23,7 +23,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * Deciding about working in a software engineering vs a PM role.
 * What does a principal software engineer do for a living and more specifically on the Microsoft Graph Team?
 * About the Dev interview at Microsoft and 3-5 preparation tips for interviewing at Microsoft.
-* Insert link to Vincent Biret's article on PM vs Software engineer role.
+* Vincent Biret's [article](https://baywet.github.io/pm-experience-dev-sdk/) on PM vs Software engineer role.
 
 Also, we showcased 15 articles/videos published by Microsoft and the PnP Community in the last week.
 
@@ -44,7 +44,7 @@ This session was recorded on Monday, August 22, 2022.
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 34SoeV_4bpw >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-      
+    {{< podbean pb-z7qu4-12a7b3f >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 

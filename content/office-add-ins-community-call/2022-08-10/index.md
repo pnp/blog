@@ -24,6 +24,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior 
 * **Office Add-ins community engagement update.** Help us select a single destination for product ideas and suggestions. [Linda Lu Cannon](https://www.linkedin.com/in/lindalu-msft/), Senior Content Project Manager Microsoft, Microsoft.
 * **Outlook add-in API update: REST decommission and Mailbox 1.12 scope.** New event-based features in Mailbox v1.12 and REST decommission update. [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager, Microsoft.
 * **Q&A.** See question and answers at end of call and in chat throughout call.
+
 {{< youtube COic6ghBWsU >}}
 
 ## View Video Segments
@@ -42,6 +43,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior 
 * **Outlook add-in API update: REST decommission and Mailbox 1.12 scope** Updates since February regarding Outlook v2.0 REST API decommission. Mailbox v1.12 adds two big event-based features: Smart Alerts (onMessageSend and onAppointmentSend) and New Compose events (onMessageCompose and onAppointmentOrganizer). The features are available in preview for Windows and Outlook on the web. Q&A at end of demo addresses when you can still use the REST API, solution for mobile, and using REST in OnPrem.
   
 ## Call to action
+
 
 * If you are a Word developer give us feedback on what you need from Word apis.[Word API Survey](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6n1U-1y30dHploxSapt6sxUMEdRQUMyU1kzSExENUI1WTIzN1k1WlMxQy4u).
 * Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel. 
