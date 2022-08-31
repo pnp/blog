@@ -94,13 +94,13 @@ We will make use of Microsoft services in Azure DevOps and through automatic cod
 
  What is Key Vault? It is a cloud service for storing secrets and accessing them securely.
 
- ***{X} componentes de tipo variables:*** In charge of storing the syntax of the basic structure of Html5, in the tag  `href=""` we will make use of the public URL generated from the Storage Account according to the necessary file.
+ ***{X} variable type components:*** In charge of storing the syntax of the basic structure of Html5, in the tag  `href=""` we will make use of the public URL generated from the Storage Account according to the necessary file.
 
- ***{X} componentes de tipo variables:*** Responsible for publishing a personalized message to a Microsoft Team channel.
+ ***{X} variable type components:*** Responsible for publishing a personalized message to a Microsoft Team channel.
 
  ***Action / Execute a SQL query (V2):*** Responsible for publishing a personalized message to a Microsoft Team channel.
 
- ***Componentes de tipo For each:*** In charge of receiving the result of the previous action and evaluating the recipients to send the email.
+ ***Component Type For each:*** In charge of receiving the result of the previous action and evaluating the recipients to send the email.
 
  ![TC5](images/TC5.png)
 
