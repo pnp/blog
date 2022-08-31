@@ -84,7 +84,7 @@ We will make use of Microsoft services in Azure DevOps and through automatic cod
 
  ***Run Inline Powershell:***Task responsible for executing an AzCli command-line statement that affects the Storage Account in container $web
 
-***$()*** = Éste es un patrón en azure DevOps para definir el uso de variables las cuales almacenarán valores y están ubicadas en la pestaña del release variables.
+***$()*** = This is a pattern in azure DevOps to define the use of variables which will store values and are located in the variables release tab..
 
  ![TC4](images/TC4.png)
 
