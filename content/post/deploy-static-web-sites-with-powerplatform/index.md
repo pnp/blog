@@ -1,5 +1,5 @@
 ---
-title: "deploy static web sites with PowerPlatform third contribution"
+title: "Deploy static web sites with Power Platform"
 date: 2022-09-03T11:06:00-04:00
 author: "Duvan Baena"
 githubname: DuvanBaena
