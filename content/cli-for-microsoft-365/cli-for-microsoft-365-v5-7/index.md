@@ -28,17 +28,17 @@ Following our monthly release cadence, we've released a new version of the CLI f
 
 > For the complete list of what's new and changed, see the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v570).
 
-### Check Bookings
+### Check Bookings Businesses
 
-Meetings are a crucial part of any organization's business. Microsoft Bookings makes scheduling and managing appointments a breeze. Currently we added new commands to the CLI for Microsoft 365 that will help you list all bookings or get a specific booking.
+Meetings are a crucial part of any organization's business. Microsoft Bookings makes scheduling and managing appointments a breeze. Currently we added new commands to the CLI for Microsoft 365 that will help you list all Microsoft Bookings businesses or get a specific booking business.
 
-To get the full list of bookings that are created for the tenant simply run the following command:
+To get the full list of Microsoft Bookings businesses that are created for the tenant simply run the following command:
 
 ```sh
 m365 booking business list
 ```
 
-In order to retrieve the specified Microsoft Bookings business with name business name.
+In order to retrieve the specified Microsoft Bookings business with the name _business name_.
 
 ```sh
 m365 booking business get --name 'business name'

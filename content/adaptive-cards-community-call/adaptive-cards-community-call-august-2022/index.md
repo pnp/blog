@@ -16,7 +16,7 @@ videos:
 
 ## Call summary
 
-In this month’s community call, get an overview of the React Native Adaptive Cards Renderer and on usage of the React Native adaptive card SDK in a Microsoft Viva Connections mobile app and in a LUIS chatbot app delivered by CEO & Founder – [Vasanthakumar Sarpasayanam](https://in.linkedin.com/in/vasanthakumar-sarpasayanam) and his team at BigThinkCode. The community-supported ReactNative renderer for Adaptive Cards is maintained by BigThinkCode. There was a 10-minute Q&A covering a host of topics. This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on August 11, 2022.
+In this month’s community call, get an overview of the React Native Adaptive Cards Renderer and on usage of the React Native Adaptive Cards SDK in a Microsoft Viva Connections mobile app and in a LUIS chatbot app delivered by CEO & Founder – [Vasanthakumar Sarpasayanam](https://in.linkedin.com/in/vasanthakumar-sarpasayanam) and his team at BigThinkCode. The community-supported React Native renderer for Adaptive Cards is maintained by BigThinkCode. There was a 10-minute Q&A covering a host of topics. This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on August 11, 2022.
 
 {{< youtube 9x9YMNvdH3A >}}
 
@@ -28,9 +28,9 @@ In this month’s community call, get an overview of the React Native Adaptive C
 
 ## Topic summary
 
-* **React Native Adaptive Cards Renderer** - Adaptive Cards overview, React Native (RN) Adaptive card deep dive with implementation details.  How to integrate RN adaptive card with your app?  How can you extend RN adaptive card component in RN way?  Development roadmap, contributing to RN Adaptive card open-source software OSS, Q&A.  
+* **React Native Adaptive Cards Renderer** - Adaptive Cards overview, React Native (RN) Adaptive Cards deep dive with implementation details.  How to integrate RN adaptive card with your app?  How can you extend RN adaptive card component in RN way?  Development roadmap, contributing to RN Adaptive Cards open-source software OSS, Q&A.  
 * **Using the React Native Adaptive Cards Renderer in a Microsoft Viva Connections Mobile App** -
-showcasing the use of the React Native Adaptive Card SDK in a Microsoft Viva Connections app and an E-commerce Microsoft LUIS based chatbot for purposes of reducing customer care queries and chat-based shopping experience.  
+Showcasing the use of the React Native Adaptive Cards SDK in a Microsoft Viva Connections app and an E-commerce Microsoft LUIS based chatbot for purposes of reducing customer care queries and chat-based shopping experience.  
 
 ## BigThinkCode presenters
 
