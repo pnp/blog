@@ -5,7 +5,7 @@ author: "Dipesh Bhanani"
 githubname: Dipesh-Bhanani
 categories: ["Community post"]
 images:
-- images/intro.png
+- images/do-what-is-great.png
 tags: ["SPFx", "SharePoint"]
 type: "regular"
 ---
