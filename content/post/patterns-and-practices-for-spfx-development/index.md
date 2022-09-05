@@ -4,6 +4,8 @@ date: 2022-09-05T09:00:00-00:00
 author: "Dipesh Bhanani"
 githubname: Dipesh-Bhanani
 categories: ["Community post"]
+images:
+- images/intro.png
 tags: ["SPFx", "SharePoint"]
 type: "regular"
 ---
