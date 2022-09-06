@@ -11,7 +11,7 @@ githubname: sohilbhalla
 categories: ["Community post"]
 # Link to the thumbnail image for the post
 images:
-- images/myImage.png
+- images/Contacts with Outlook.png
 # don't change
 tags: ["Outlook","Graph"]
 # don't change
