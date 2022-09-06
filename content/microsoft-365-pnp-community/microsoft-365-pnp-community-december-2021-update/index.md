@@ -433,7 +433,7 @@ Community docs model was announced in the April 2020 and it's great to see the i
 -   [Building Great Content for Your
     Intranet](https://docs.microsoft.com/microsoft-365/community/intranet-content-sources) -
     [Paul
-    Bullock](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fpkbullock&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=WcGXlwfG%2Bbdhllqsdls87WrmZS%2FAFeU46dz4Fpk4G88%3D&reserved=0) (CPS)
+    Bullock](https://twitter.com/pkbullock) (CPS)
     | @pkbullock
 -   [Microsoft 365 Search
     Technologies](https://docs.microsoft.com/microsoft-365/community/microsoft-365-search-technologies)
@@ -527,61 +527,63 @@ We have released new Microsoft 365 Script Sample gallery within past month. We w
 Here are the latest updates on the Script Samples
 
 -   Updated [Export all flows in
-    environment](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fflow-export-all-flows-in-environment%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=aOLZc38SgH6SiEHNijJ6ZMPd0P6lAKIZLRnB38INImQ%3D&reserved=0)
+    environment](https://pnp.github.io/script-samples/flow-export-all-flows-in-environment/README.html?tabs=cli-m365-ps)
     by [Leon
-    Armston](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FLeonArmston&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=JJBITkM3iDUYdrw1%2Fs3phVO58TvxREAoGT54PXhO6tQ%3D&reserved=0)
+    Armston](https://twitter.com/LeonArmston)
     (Intelogy) |
     @LeonArmston
 -   Updated [Report of Private Teams channels to
-    Excel](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Freport-private-teams-excel%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=gno6zCmzanqTNIaonGjjyt%2FW1RInOi1kQhkIC0Vcl5Y%3D&reserved=0)
+    Excel](https://pnp.github.io/script-samples/report-private-teams-excel/README.html?tabs=pnpps)
     by [Adam
-    Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ou1UssfsX%2FGuAkrYEi0B7XnbGHgC669zrH3vjq%2FBJdw%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 -   New [Export all Power Apps details and its Role assignments from
     Tenant in CSV
-    format](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fpowerapps-get-app-users-list-csv%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=qsNgZyojfbGn0heuJD87Tmgo9wBJedCAoGdfJ57RMVA%3D&reserved=0)
+    format](https://pnp.github.io/script-samples/powerapps-get-app-users-list-csv/README.html?tabs=powerapps-ps)
     by [Siddharth
-    Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0)
+    Vaghasia](https://twitter.com/siddh_me)
     (Independent Consultant) | @siddh_me
 -   New [Export / Import list
-    formatting](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-list-formatting%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=X0fHzodSRqz6dYAvYw8HKRP%2BaNUdeGm7GZcdoNN9gTk%3D&reserved=0)
+    formatting](https://pnp.github.io/script-samples/spo-list-formatting/README.html?tabs=pnpps)
     by [Kinga
-    Kazala](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkinga_kazala&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=YXcunQsz4ooiKW7cOPOQLTfdbCsQB4hRD7UqjjkV5sg%3D&reserved=0)
+    Kazala](https://twitter.com/kinga_kazala)
     (SharePoint and Azure Architect) | @kinga_kazala
 -   New [Add/Remove users(bulk) from Power Apps from CSV
-    file](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fpowerapps-bulk-useraccess%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=sjEpKsZ9zPuZIZDJgV6mXJmwk3n9ukpQ6IoqiElH3Mk%3D&reserved=0)
+    file](https://pnp.github.io/script-samples/powerapps-bulk-useraccess/README.html?tabs=powerapps-ps)
     by [Siddharth
-    Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0)
+    Vaghasia](https://twitter.com/sidd_me)
     (Independent Consultant) | @siddh_me
 -   New [Reports to Excel where the specified Term is
-    used](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2FReportTermUse%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=ZCyc3mdKLqwMn%2FM%2BTOgDA1N9hX9Ycmgnd4h1jNhplqc%3D&reserved=0)
+    used](https://pnp.github.io/script-samples/ReportTermUse/README.html?tabs=pnpps)
     by [Kasper Bo
-    Larsen](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkasperbolarsen&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=8jcXC26PxWaLGQXyujuV7zdZM%2FZp3lqjvVnRuNT2%2FPs%3D&reserved=0)
+    Larsen](https://twitter.com/kasperbolarsen)
     (Fellowmind Denmark) | @kasperbolarsen
 -   Updated [Remove delete option on a document
-    library](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fremove-delete-option-library%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=eilP9YG%2F7x5Pa5P7fgLHnXPJVxEY1Aj%2BPU6Z6wmCERI%3D&reserved=0)
+    library](https://pnp.github.io/script-samples/remove-delete-option-library/README.html?tabs=pnpps)
     by [Adam
-    Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ou1UssfsX%2FGuAkrYEi0B7XnbGHgC669zrH3vjq%2FBJdw%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 -   New [Create bulk dummy documents in SharePoint Document
-    library](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fcreate-dummy-docs-in-library%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=m%2BIBJb046kIi0JF1Nsb759nOwNZfuFkrlq33yJ6mXcI%3D&reserved=0)
-    by [Siddharth
-    Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0)
+    library](https://pnp.github.io/script-samples/create-dummy-docs-in-library/README.html?tabs=pnpps)
+    by [Siddharth Vaghasia](https://twitter.com/sidd_me)
+
     (Independent Consultant) | @siddh_me
 -   New [Get All Apps From The App Catalog And Export It To
-    CSV](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-get-all-apps-from-appcatalog%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=CnkEhyNQvroVswr4gAkU%2Fr0LbIVLzZl6EMicjjziwAA%3D&reserved=0)
+    CSV](https://pnp.github.io/script-samples/spo-get-all-apps-from-appcatalog/README.html?tabs=pnpps)
     by [Chandani
-    Prajapati](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FChandani_SPD&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=D3BEYiLF7zFYnlLXceqMqv%2FSD7Uf%2BsxxCEDfdFFQ6lY%3D&reserved=0)
+    Prajapati](https://twitter.com/Chandani_SPD)
     (Rapid Circle) | @Chandani_SPD
 -   Updated [List all external users in all site
-    collections](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-list-site-externalusers%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142743626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Z8ZUbVlDvxT4zafORTP%2FiRRdgCysyGx%2BCH83sVzi6Cc%3D&reserved=0)
+    collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html?tabs=cli-m365-ps)
     by [Paul
-    Bullock](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fpkbullock&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142743626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=dEMSK2Ep22w0NYYCrb0dJaY5S1mWi8kqUUQ1LtJ0OHY%3D&reserved=0)
+    Bullock](https://twitter.com/pkbullock)
+
+
     (CPS) | @pkbullock
 -   Updated [Generate Markdown Report of
-    LCIDs](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fgenerate-markdown-lcids%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142743626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=lzXrzug5XxZXA2IU%2FC3w37NkbUn3veVTXYw6dlefCpo%3D&reserved=0)
+    LCIDs](https://pnp.github.io/script-samples/generate-markdown-lcids/README.html?tabs=pnpps)
     by [Adam
-    Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142743626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=mrTRuxyTkkQyHkHcNjjZg2%2FoC3779Tdr8ff4MQnoVf4%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative. 
@@ -768,7 +770,7 @@ See exact details on the latest updates from the specific open-source project re
     controls are using Office UI Fabric React controls under the covers
     and they are SharePoint aware to increase the productivity of
     developers.
--   **Office 365 CLI** - Using the Office 365 CLI, you can manage your
+-   **CLI for Microsoft 365** - Using the CLI for Microsoft 365, you can manage your
     Microsoft Office 365 tenant and SharePoint Framework projects on any
     platform. See [release
     notes](https://pnp.github.io/cli-microsoft365/about/release-notes/) for
@@ -1114,7 +1116,7 @@ Here's the list of active contributors (in alphabetical order) since last releas
 -   [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
     | @jfj1997
 -   [Kasper Bo
-    Larsen](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkasperbolarsen&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=8jcXC26PxWaLGQXyujuV7zdZM%2FZp3lqjvVnRuNT2%2FPs%3D&reserved=0)
+    Larsen](https://twitter.com/kasperbolarsen)
     (Fellowmind Denmark) | @kasperbolarsen
 -   Kat Memenza (W. L. Gore & Associates)
 -   [Kathleen Boilek](https://www.twitter.com/kaboilek) (Alakaâ€™Ina
@@ -1124,7 +1126,7 @@ Here's the list of active contributors (in alphabetical order) since last releas
     @kazoogal23
 -   [Kevin McDonnell](https://twitter.com/kevmcdonk) (CPS) |
     @kevmcdonk
--   [Kinga Kazala](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkinga_kazala&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=YXcunQsz4ooiKW7cOPOQLTfdbCsQB4hRD7UqjjkV5sg%3D&reserved=0) (SharePoint
+-   [Kinga Kazala](https://twitter.com/kinga_kazala) (SharePoint
     and Azure Architect) | @kinga\_kazala 
 -   Kirt Spaulding
 -   [Lance Yoder](https://www.twitter.com/lyoder)
@@ -1137,7 +1139,7 @@ Here's the list of active contributors (in alphabetical order) since last releas
 -   [Laurent](https://twitter.com/lioncoding) | @lioncoding
 -   [Laurie Danison](https://www.github.com/ljd144) | @ljd144
 -   [Leon
-    Armston](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FLeonArmston&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Nq7932KMpx5mQWbeB1By3iBnRtzdqR07uYIz%2FOB5qqU%3D&reserved=0) (Intelogy)
+    Armston](https://twitter.com/leonarmston) (Intelogy)
     | @LeonArmston
 -   [Lindsay Shelton](https://www.twitter.com/lshelton_tech) (Stowers
     Institute for Medical Research) | @lshelton_tech
@@ -1331,7 +1333,7 @@ Here's the list of Microsoft people who have been closely involved with the PnP 
 -   [Ed Averett](https://twitter.com/Ed_Averett) | @Ed_Averett
 -   Emily Lynam (Microsoft)
 -   Elizabeth Samuel
-    - [ElizabethSamuel-MSFT](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FElizabethSamuel-MSFT&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158426857%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=36jxGazKZR9TtD7Xt3E%2BqS8s0%2BcxsCPrZ6mZc2Khkog%3D&reserved=0)
+    - [ElizabethSamuel-MSFT](https://github.com/ElizabethSamuel-MSFT)
 -   [Garry Trinder](https://twitter.com/garrytrinder) | @garrytrinder
 -   [Haimantika Mitra](https://twitter.com/HaimantikaM) (Microsoft) |
     @HaimantikaM
@@ -1350,7 +1352,7 @@ Here's the list of Microsoft people who have been closely involved with the PnP 
 -   Kevin Coughlin
     - [@kevintcoughlin](https://twitter.com/kevintcoughlin)
 -   Keyur Patel
-    - [keyur32](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fkeyur32&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wuL4ROZqAuJ2N6DosAfpyX5lO4BQorlpntSxHphncpA%3D&reserved=0)
+    - [keyur32](https://github.com/keyur32)
 -   [Koen Zomers](https://twitter.com/koenzomers) | @koenzomers
 -   Holland Kaviani - [Holland-ODSP](https://github.com/Holland-ODSP)
 -   Laura Graham - [Lauragra](https://github.com/Lauragra)
@@ -1385,7 +1387,7 @@ Here's the list of Microsoft people who have been closely involved with the PnP 
 -   [Richard Astbury](https://twitter.com/richorama) (Microsoft) |
     @richorama
 -   Rick
-    Kirkham | [Rick-Kirkham](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FRick-Kirkham&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=dxJSOcjYFcyHpZgsHFjTJ5dUvNhwOH7dUiSV06GC7P8%3D&reserved=0)
+    Kirkham | [Rick-Kirkham](https://github.com/Rick-Kirkham)
 -   [Roy Paar](https://www.linkedin.com/in/roypaar/)
 -   [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) 
 -   Sam Larson | [salarson](https://github.com/salarson)
@@ -1394,7 +1396,7 @@ Here's the list of Microsoft people who have been closely involved with the PnP 
 -   [Sébastien
     Levert](https://twitter.com/sebastienlevert) | @sebastienlevert
 -   [Srinivas
-    Varukala](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsvarukala&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=hB1N9L15hhOUOVPXd%2FuYCG8sPJP0HinF1fADwf0YOCk%3D&reserved=0) (Microsoft)
+    Varukala](https://twitter.com/svarukala) (Microsoft)
     | @svarukala
 -   [Steven Jia](https://github.com/Steven-Jia) | Steven-Jia
 -   Shubham Gatkal (Microsoft)

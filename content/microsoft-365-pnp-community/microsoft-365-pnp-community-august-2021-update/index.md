@@ -961,7 +961,7 @@ involved!
     controls are using Office UI Fabric React controls under the covers
     and they are SharePoint aware to increase the productivity of
     developers.
--   **Office 365 CLI** - Using the Office 365 CLI, you can manage your
+-   **CLI for Microsoft 365** - Using the CLI for Microsoft 365, you can manage your
     Microsoft Office 365 tenant and SharePoint Framework projects on any
     platform. See [release
     notes](https://pnp.github.io/cli-microsoft365/about/release-notes/) for
@@ -1582,7 +1582,7 @@ missed someone, please let us know.
     [@JoelFMRodrigues](https://twitter.com/JoelFMRodrigues)
 
 -   Jouni Pohjolainen (Valo)
-    - [jonepo](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fjonepo&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158396871%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=argnqo90h0W%2FzlpbdEXUUrjC5Bp9Z%2BIUKtUMwFvc9fs%3D&reserved=0)
+    - [jonepo](https://github.com/jonepo)
 
 -   Johan van Dyk (BCX) - [johanvandy](https://github.com/johanvandy)
 
@@ -1992,7 +1992,7 @@ closely involved with the PnP work during last month.
 -   Aakash Bhardwaj - [@aakash_316](https://twitter.com/aakash_316)
 -   Adam Jimenez - [Adam-Jimenez](https://github.com/Adam-Jimenez)
 -   Alex Jerabek
-    - [AlexJerabek](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FAlexJerabek&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158426857%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=ykoVPLUU7Q8wb6z3Q9BY0xiP5XxnaD%2FiBxLcmJ4QYlo%3D&reserved=0)
+    - [AlexJerabek](https://github.com/****)
 -   Alex Talarico - [getalex](https://github.com/getalex)
 -   Alex Terentiev -
     [@alexaterentiev](https://twitter.com/alexaterentiev)
@@ -2007,7 +2007,7 @@ closely involved with the PnP work during last month.
 -   Dan Wahlin - [@DanWahlin](https://twitter.com/DanWahlin)
 -   David Chesnut - [davidchesnut](https://github.com/davidchesnut)
 -   Elizabeth Samuel
-    - [ElizabethSamuel-MSFT](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FElizabethSamuel-MSFT&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158426857%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=36jxGazKZR9TtD7Xt3E%2BqS8s0%2BcxsCPrZ6mZc2Khkog%3D&reserved=0)
+    - [ElizabethSamuel-MSFT](hgithub.com/ElizabethSamuel-MSFT)
 -   Elise Yang - [@elisenyang](https://twitter.com/elisenyang)
 -   Hugo Bernier - [bernierh](https://twitter.com/bernierh)
 -   Jason Johnston - [jasonjoh](https://github.com/jasonjoh)
@@ -2022,7 +2022,7 @@ closely involved with the PnP work during last month.
 -   Kevin Coughlin -
     [@kevintcoughlin](https://twitter.com/kevintcoughlin)
 -   Keyur Patel
-    - [keyur32](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fkeyur32&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wuL4ROZqAuJ2N6DosAfpyX5lO4BQorlpntSxHphncpA%3D&reserved=0)
+    - [keyur32](https://github.com/keyur32)
 -   Koen Zomers - [@koenzomers](https://twitter.com/koenzomers)
 -   Holland Kaviani - [Holland-ODSP](https://github.com/Holland-ODSP)
 -   Laura Graham - [Lauragra](https://github.com/Lauragra)
@@ -2048,7 +2048,7 @@ closely involved with the PnP work during last month.
 -   Rabia Williams -
     [@williamsrabia](https://twitter.com/williamsrabia)
 -   Rick Kirkham
-    - [Rick-Kirkham](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FRick-Kirkham&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=dxJSOcjYFcyHpZgsHFjTJ5dUvNhwOH7dUiSV06GC7P8%3D&reserved=0)
+    - [Rick-Kirkham](https://github.com/Rick-Kirkham)
 -   Sam Larson - [salarson](https://github.com/salarson)
 -   Shane Weaver - [shweaver-MSFT](https://github.com/shweaver-MSFT)
 -   Sébastien Levert -

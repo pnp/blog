@@ -60,7 +60,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Community articles
 
-* [List Formatting - View the contents of a file with file preview card](https://pnp.github.io/blog/post/list-formatting-view-the-contents-of-a-file-with-file-preview-card/) - [Tetsuya Kawahara](https://twitter.com/techan_k) | @techan_k
+<!-- * [List Formatting - View the contents of a file with file preview card](https://pnp.github.io/blog/post/list-formatting-view-the-contents-of-a-file-with-file-preview-card/) - [Tetsuya Kawahara](https://twitter.com/techan_k) | @techan_k -->
 * [Teams Meeting apps – A sample for in-Meeting experience and stageView (Vote Movies)](https://mmsharepoint.wordpress.com/2022/05/26/teams-meeting-apps-a-sample-for-in-meeting-experience-and-stageview-vote-movies/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Create an app using the new image import in Power Apps](https://sharepains.com/2022/05/27/create-app-new-image-import-power-apps/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 * [The Secret Life of Tilde in SPFx’s CSS](https://n8d.at/the-secret-life-of-tilde-in-spfxs-css) - [Stefan Bauer](https://twitter.com/StfBauer) (N8D) | @StfBauer

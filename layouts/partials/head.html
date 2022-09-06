@@ -107,7 +107,11 @@
          {{ with $.Site.GetPage (printf " /%s/%s" "tags" . ) }} {{- .Title -}} {{- end }} {{- end }} {{- end }}" />
 
 <!-- Canonical URLs -->
-<link rel="canonical" href="{{ .Permalink }}" />
+{{ if .Params.canonicalUrl }}
+<link rel="canonical" href="{{ .Params.canonicalUrl }}">
+{{ else }}
+<link rel="canonical" href="{{ .Permalink }}">
+{{ end }}
 <link rel="alternate" href="{{ .Permalink }}" hreflang="{{ .Site.LanguageCode }}" />
 
 <!-- Links to RSS Feed -->

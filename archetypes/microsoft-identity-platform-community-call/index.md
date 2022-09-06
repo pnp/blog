@@ -27,7 +27,7 @@ This month’s in-depth topic: INSERT TEXT HERE.  Recorded DATE. Q&A in chat a
 
 ## Actions
 
--   Let us know how we’re doing and suggest topics for future calls, please complete this survey [https://aka.ms/IDDevCommunityCallSurvey](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FIDDevCommunityCallSurvey&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=I5LYE8pBSlftGEofnz98KPtVi5KfZFts7UZ7CHjRRQk%3D&reserved=0)
+-   Let us know how we’re doing and suggest topics for future calls, please complete this survey [https://aka.ms/IDDevCommunityCallSurvey](https://aka.ms/IDDevCommunityCallSurvey)
 -   Join us for the next Microsoft Identity Platform community call on DATE 
 
 ## Resources in General

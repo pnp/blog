@@ -8,6 +8,7 @@ images:
 - images/FAQWebpart.png
 tags: ["SharePoint framework (SPFx)"]
 type: "regular"
+draft: false
 ---
 
 Frequently Asked Questions (FAQ) is a useful addition to pages where you need to display common requests. The FAQ Web Part can be added to a page as a straight list of questions and answers or a series of grouped questions and answers when the need for a more organized approach is required.

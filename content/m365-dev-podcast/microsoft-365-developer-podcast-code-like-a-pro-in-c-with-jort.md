@@ -13,7 +13,7 @@ Paul talks with Jort Rodenburg about his new book *Code Like a Pro in
 C#*.
 
 Listen to the show here: [Code Like a Pro in C# with Jort Rodenburg
-(m365devpodcast.com)](https://www.m365devpodcast.com/e/microsoft-graph-connectors-with-brian-t-jackett) 
+[m365devpodcast.com](https://www.m365devpodcast.com/e/microsoft-graph-connectors-with-brian-t-jackett) 
 
 
 ## Links from the show
@@ -29,7 +29,7 @@ here](https://livebook.manning.com/#!/book/code-like-a-pro-in-c-sharp/discussion
 [Jort Rodenburg on
 LinkedIn](https://www.linkedin.com/in/jort-rodenburg/)
 
-[Jort's blog](https://www.jortrodenburg.com/)
+<!-- [Jort's blog](https://www.jortrodenburg.com/) -->
 
 ## Microsoft News 
 

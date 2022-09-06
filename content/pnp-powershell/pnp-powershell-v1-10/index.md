@@ -7,6 +7,7 @@ githubname: "gautamdsheth"
 categories: ["PnP PowerShell"]
 images:
 - images/banner-pnp-powershell.PNG
+
 tags: ["Azure AD","PnP PowerShell","Microsoft Teams", "SharePoint"]
 type: "regular"
 ---

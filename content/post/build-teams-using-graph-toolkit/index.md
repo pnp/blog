@@ -9,27 +9,30 @@ categories: ["Community post"]
 images:
 - images/Full-Screen-03.png
 # don't change
-tags: ["Microsoft Teams", "Graph", "Graph Toolkit"]
+tags: ["Microsoft Teams", "Microsoft Graph", "Microsoft Graph toolkit"]
 # don't change
 type: "regular"
+draft: false
 ---
 
-# Business Case  
+## Business Case
+
 Teams chat is a great communication tool that is adopted worldwide. Our customers use it extensively, so we decided to integrate it in our [Codeless](https://codeless.com/) ERP software platform.
 
 Build your own Microsoft Teams in React Typescript and integrated with a web application using web components. The teams functionality should include
 
-Sending messages from web app and posting in MS Teams
-Receiving messages in web app when new message is posted in teams
-Get notified in web app when someone post a message in teams
-Show emojis in web app when reactions happen in teams
+* Sending messages from web app and posting in MS Teams
+* Receiving messages in web app when new message is posted in teams
+* Get notified in web app when someone post a message in teams
+* Show emojis in web app when reactions happen in teams
+
 Before we go through the technical details of the implementation, here how custom teams chat looks today in the web application.
 
 ![Full Screen](images/Full-Screen-03.png)
 
-# List of components included
+## List of components included
 
-## Front End
+### Front End
 
 1. Microsoft Graph Toolkit
 2. React Typescript 16.13.1
@@ -37,22 +40,22 @@ Before we go through the technical details of the implementation, here how custo
 4. babel 8.2.2
 5. jest – unit testing (Will Cover in another Blog)
 
-## Back End
+### Back End
 
 1. .NET 5.0 ( CORE )
 2. Graph Change Subscriptions
 3. SignalR
 4. Kubernetes / Docker / Helm (Optional)(Will Cover in another Blog)
 
-# Architecture
+## Architecture
 
 ![Architecture](images/Architecture.png)
 
-# Microsoft Graph Toolkit
+## Microsoft Graph Toolkit
 
 The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic components and authentication providers for accessing and working with Microsoft Graph. The components are fully functional right of out of the box, with built in providers that authenticate with and fetch data from Microsoft Graph.
 
-## MGT-GET
+### MGT-GET
 
 You can use mgt-get to make any GET query from Microsoft Graph directly in your HTML. The component does not provide a default UI and requires that you write a template.
 Before we talk about sub components of the teams chat . For every Microsoft Graph toolkit component to work it needs a provider.  
@@ -60,7 +63,7 @@ The Microsoft Graph Toolkit providers enable your application to authenticate wi
 In this case I am using a proxy provider which will redirect all the request from the Graph toolkit components to my custom .NET Core API. This gives lot of flexibility of managing the request and overcoming any thresholds imposed by Microsoft Graph.
 You can read more about proxy provider [here](https://docs.microsoft.com/en-us/graph/toolkit/providers/proxy) 
 
-## Initialize Proxy Provider
+### Initialize Proxy Provider
 
 Since my .NET Core API is authenticated against Azure AD , so I am passing and additional header for the authorization carrying Bearer token from client. More details on the authentication can be found [here](https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial/tree/main/3-Authorization-II/1-call-api)
 
@@ -74,13 +77,14 @@ Providers.globalProvider = new ProxyProvider(`${notificationAPIURL}`,
         }
         );
 ```
-# Left and Right side screen Components
+
+## Left and Right side screen Components
 
 The left and right hand side of the screen components are multiple MGT-GET components templatized as below.
 
 ![Left Component](images/Left%20Side.png)
 
-## LastMessageComponent
+### LastMessageComponent
 
 ```typescript
 <Get cacheEnabled={true} 
@@ -92,9 +96,10 @@ resource={"teams/<TeamID>/channels/<ChannelID>/messages/<MessageID>/replies?$top
         <LoadingTemplate template="loading" />
 </Get>
 ```
-In the above component we have 2 sub components having their own templates. The LastMessageItem component loads when the data is received from the API and LoadingTemplate component loads when the call is happening to the backend service. The loading template is used to show the progress or loading behavior. In my case I am showing shimmers from Office UI Fabric Controls (https://developer.microsoft.com/en-us/fluentui#/controls/web).
 
-## LoadingTemplate
+In the above component we have 2 sub components having their own templates. The LastMessageItem component loads when the data is received from the API and LoadingTemplate component loads when the call is happening to the backend service. The loading template is used to show the progress or loading behavior. In my case I am showing shimmers from [Fluent UI Controls](https://developer.microsoft.com/en-us/fluentui#/controls/web).
+
+### LoadingTemplate
 
 ```typescript
 const shimmerWithElementThirdRow = [
@@ -112,7 +117,8 @@ export function LoadingTemplate(props: MgtTemplateProps) {
         <Shimmer shimmerElements={shimmerWithElementThirdRow} /></div>);
 }
 ```
-## LastMessageItem
+
+### LastMessageItem
 
 ```typescript
 export const LastMessageItem = (props: any) => {
@@ -155,7 +161,7 @@ The right side is another MGT-GET component but for demo purpose I am sharing th
  </mgt-get>
  ```
 
- # Back End Implementation ( .NET 5 )
+### Back End Implementation ( .NET 5 )
 
 The backend implementation involves development of .NET core API, which manages following
 
@@ -167,7 +173,7 @@ The backend implementation involves development of .NET core API, which manages 
 
 4) Respond to all the graph calls ( acting as a provider in the Microsoft Graph toolkit proxy provider ) 
 
-User Authentication
+### User Authentication
 
 All the calls to the .NET core API are authenticated against Azure AD except the receiver for the change notification which I will cover below in this blog as well.
 
@@ -219,7 +225,7 @@ public static void AddMicrosoftGraph(this IServiceCollection services,
         }
 ```
 
-# Graph Change Subscription
+## Graph Change Subscription
 
 A subscription allows a client app to receive change notifications about changes to data in Microsoft Graph.
 Please refer the below article for the details of the change subscription 
@@ -228,7 +234,7 @@ In this case a change subscription is created for the channel to receive the not
 
 ## Sample Request to Graph
 
-https://graph.microsoft.com/v1.0/subscriptions
+`https://graph.microsoft.com/v1.0/subscriptions`
 
 ```
 {
@@ -240,12 +246,13 @@ https://graph.microsoft.com/v1.0/subscriptions
     "latestSupportedTlsVersion": "v1_2"
 }
 ```
+
 **Please note that all the subscriptions have the expiry period, so managing the subscriptions and keeping it alive should be taken care as part of the implementation.**
 See below article for the expiry details for each subscription type.
 
-https://docs.microsoft.com/en-us/graph/api/resources/subscription?view=graph-rest-1.0#maximum-length-of-subscription-per-resource-type
+[Maximum length of subscription per resource type](https://docs.microsoft.com/graph/api/resources/subscription?view=graph-rest-1.0#maximum-length-of-subscription-per-resource-type)
 
-# SignalR Implementation
+## SignalR Implementation
 
 In order to send out the notifications to client for any new messages posted on the Microsoft Teams channel SignalR is used.
 
@@ -286,7 +293,8 @@ public class SignalRManager : ISignalRManager
         }
     }
 ```
-when a new message is received from the graph change notification, signalR SendSignalRMessage method is called to push the notification to the signal R groups containing all the clients connected.
+
+When a new message is received from the graph change notification, signalR SendSignalRMessage method is called to push the notification to the signal R groups containing all the clients connected.
 
 The client has to implement the following code in order connect to the SignalR endpoint to receive the SignalR messages.
 
@@ -308,7 +316,7 @@ const newConnection = new HubConnectionBuilder()
             console.log('Error while establishing connection :(' + endpoint);
             }); 
 ```
-# Respond to All Graph Calls ( Proxy Provider )
+## Respond to All Graph Calls ( Proxy Provider )
 
 The backend API will expose an endpoint which responds to all the Graph calls from the client. This includes
 
@@ -375,7 +383,7 @@ GetCache(CacheKeys.ChannelConversationMessages + teamMessagesInput.ConversationI
 
 Please not I am using LockManager here, this is required to streamline the requests to get the data from teams. As when the new message is posted on teams, signalR will notify all the clients simultaneously to get the data from Teams, so lockmanager will allow the first request to go and get the data from teams while other requests wait, once the first request releases the lock, all other clients will be served from the cache.
 
-# Client Side Changes to Get latest messages from Teams
+## Client Side Changes to Get latest messages from Teams
 
 Now we have the backend API ready to serve the client requests. So what will happen in the client when the signalR sends a message saying a new message is posted on teams.
 
@@ -403,7 +411,7 @@ https://docs.microsoft.com/en-us/graph/toolkit/components/get#methods
 
 So, above components are involved in making a stable version of your own teams chat. Below are few optional things added on bundling the project and creating a web component.
 
-# Webpack Config
+### Webpack Config
 
 ```typescript
 const path = require('path');
@@ -460,7 +468,8 @@ module.exports = {
     //devtool: 'inline-source-map' // this will be required for the debugging and testing purpose
 };
 ```
-# React to Web Component
+
+## React to Web Component
 
 react-to-webcomponent converts React components to custom elements! It lets you share react components as native elements that don’t require mounted being through React. The custom element acts as a wrapper for the underlying react component. Use these custom elements in any framework (vue, svelte, angular, ember, canjs) the same way you would use standard HTML elements.
 

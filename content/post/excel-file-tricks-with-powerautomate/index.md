@@ -8,6 +8,7 @@ images:
 - images/DamoBird365_0-1628093847880.png
 tags: ["Power Automate"]
 type: "regular"
+draft: false
 ---
 
 
@@ -96,31 +97,24 @@ four sheets.  Then we can create a copy of the original file using the
 file content and a prefix of "Current Item".  Finally calling the
 "Delete Sheets" Office Script using the dynamic Id of the Create File
 Action, based on the result of the filter array.  
-
  
 ![DamoBird365_1-1628094142942.png](images/DamoBird365_1-1628094142942.png)
-
 
 The end result is an excel workbook, containing one sheet and as we are
 in an apply to each, we end up with five worksheets, each with a unique
 worksheet.  Below we have the original workbook containing five
 worksheets.
-
  
-![DamoBird365_3-1628094699559.png](images/DamoBird365_3-1628094699559.png)
-
+![DamoBird365_3-1628094699559.png](images/DamoBird365_3-1628094699559.png
  
 Here we see the individual workbooks on OneDrive, prefixed with the
 sheet name:
- 
 
 ![DamoBird365_2-1628094676818.png](images/DamoBird365_2-1628094676818.png)
 
 Now we have a single workbook with a unique sheet, called "ATable":
- 
 
 ![DamoBird365_4-1628094930996.png](images/DamoBird365_4-1628094930996.png)
- 
 
 Why might you want to do this?  If you maintain a single workbook with
 multiple sheets and want to share a copy of each worksheet with
@@ -138,13 +132,11 @@ By creating an empty Excel file on SharePoint and using the get file
 content action, it's possible to save the JSON output to a compose and
 re-use the empty template file when using the "create file" action.
 
- 
 ![DamoBird365_0-1628095727802.png](images/DamoBird365_0-1628095727802.png)
 
 A compose action with the File Content copied into it.  
  
 ![DamoBird365_1-1628095823450.png](images/DamoBird365_1-1628095823450.png)
-
 
 By doing it this way, we achieve two things.
 
@@ -155,11 +147,10 @@ compose action we have created
  
 By using the output of the compose action we can create a new file (in
 this case named with a unique datetime string
-formatdatetime(utcnow(),'yyyyMMddhhmmss').xlsx and then create a new
+`formatdatetime(utcnow(),'yyyyMMddhhmmss').xlsx` and then create a new
 table to allow data to be inserted.  Here we have a table range from
 column A to E on row 1, i.e. 5 columns with headers Name, Age, Address1,
 Address2, PostCode.
- 
 
 ![DamoBird365_2-1628096048590.png](images/DamoBird365_2-1628096048590.png)
 
@@ -167,18 +158,13 @@ To populate our excel file, I have an array contained within a compose,
 this data array could be the result of another action or a filter or
 OData query on another Excel Worksheet that you simply want to save a
 copy of:
-
  
 ![DamoBird365_4-1628096378139.png](images/DamoBird365_4-1628096378139.png)
- 
  
 Then using an apply to each and the compose array as an input we can add
 rows to the table and construct the row input array for our "add a
 row" action with keys / name pairs based on the column headers from the
 create table action. 
- 
- 
- 
  
 ```json
 {
@@ -190,13 +176,11 @@ create table action. 
 }
 ```
  
- 
- 
- 
 The table name is provided dynamically from the create table action and
 the File Id is the dynamic value from the create file action.
  
 ![DamoBird365_3-1628096174072.png](images/DamoBird365_3-1628096174072.png)
+
 If we turn on concurrency, we can add 50 rows to the newly created excel
 file in a matter of seconds.  Whilst I haven't covered this here, it
 would be possible to write an office script to take an array of objects
@@ -238,19 +222,17 @@ array of key/value pairs like follows:
 
 ![DamoBird365_7-1628097240857.png](images/DamoBird365_7-1628097240857.png)
 
- 
 And if we update the apply to each source as the select output, we end
 up with a new excel file using a CSV file as our input:
 
 
 ![DamoBird365_8-1628097338222.png](images/DamoBird365_8-1628097338222.png)
 
- 
 For more information about parsing CSV files in PowerAutomate, please
 read my blog article [How To Parse any CSV to JSON Array -
 DamoBird365](https://www.damobird365.com/how-to-parse-a-csv-to-json-array-flow/).
  
 More ideas and concepts on my
 [YouTube](https://www.youtube.com/channel/UC-NCKrEw6CM8fidaIk-yrUQ?sub_confirmation=1)
-or [Blog](http://www.damobird365.com).  Please feel free to reach out if
+or [Blog](http://www.damobird365.com). Please feel free to reach out if
 you have any questions.

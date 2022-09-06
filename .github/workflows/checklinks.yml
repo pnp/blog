@@ -17,7 +17,6 @@ jobs:
         uses: lycheeverse/lychee-action@master
         with:
           args: --no-progress './content/**/*.md' --accept 200,201,403,429,401 --exclude-file ./.lychee/.lycheeignore
-          output: ./.lychee/.out.md
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
@@ -26,5 +25,5 @@ jobs:
         uses: peter-evans/create-issue-from-file@v3
         with:
           title: Link Checker Report
-          content-filepath: ./.lychee/out.md
+          content-filepath: ./lychee/out.md
           labels: report, automated issue
