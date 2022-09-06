@@ -201,6 +201,7 @@ Using dependency injection following authentication is injected in the .NET core
                 })
                 .AddInMemoryTokenCaches();
 ```
+
 Also, we need to inject GraphServiceClient to call the graph APIs from the .net core api. The below function needs to called in your startup.cs.
 
 ```cs
@@ -264,6 +265,7 @@ First we need to inject the SignalR in .NET core API using dependency injection.
 services.AddSingleton<ISignalRManager, SignalRManager>();
 services.AddSignalR();
 ```
+
 Below is the implementation for the SignalRManager class.
 
 ```cs
@@ -482,6 +484,7 @@ import reactToWebComponent from "react-to-webcomponent";
  
 customElements.define("cln-teams-chat-element", reactToWebComponent(TeamsContainer, React, ReactDOM));
 ```
+
 This will define a custom html tag for my react application which can be used in any javascript/html based application
 
 ## Usage
