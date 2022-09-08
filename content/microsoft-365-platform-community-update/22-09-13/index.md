@@ -257,19 +257,6 @@ All the latest updates on the Microsoft Graph Toolkit is being presented in our 
 ![Community Docs ](images/communitydocs.png)
 
 The Community Docs model was announced in April 2020 and it's great to see the interest for community to help each other by providing new guidance on non-dev areas. See more on the announcement from the SharePoint blog - [Announcing the Microsoft 365 Community Docs](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/announcing-the-microsoft-365-community-docs/ba-p/1288203). We welcome contributions from the community: our objective is to build a valuable location for articles from Microsoft and the community together.
-
-#### New articles
-
-* [Origin Story for the Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model-origin-story) by [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
-
-#### Updated articles
-
-* [Follow Microsoft 365 on Social Media](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Community/microsoft-365-on-social-media.md) by [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
-* [Working with modern client-side pages using PnP PowerShell](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Community/working-with-modern-clientside-pages-using-pnp-powershell.md) by [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) and [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
-* [Maturity Model for Microsoft 365 - Communication Competency](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Community/microsoft365-maturity-model--communication.md) by [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) and [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
-* [Maturity Model for Microsoft 365 - Introduction](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Community/microsoft365-maturity-model--intro.md) by [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini and [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-* Maturity Model Articles (Various) by [Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy
-
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model in more detail.
 
 *   YouTube - [Introducing Microsoft 365 Community Docs](https://www.youtube.com/watch?v=HTbgjWvsh3k)
@@ -280,6 +267,8 @@ Have ideas for articles or want to contribute yourself? - Get involved! Here are
 ![SPFx samples ](images/SPFX-dev-samples.png)
 
 These are the updated SharePoint Framework samples which are available from the different repositories.
+
+* New sample [react-copy-views](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-copy-views) by  [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
 
 * New sample [react-roomchat](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-roomchat) by [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
 * Updated sample [react-page-navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) by [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert 
@@ -485,6 +474,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xFederico Sapia (ANPAL Servizi)
 *   x[Felix Bohnacker](https://github.com/felixbohnacker) | felixbohnacker
 *   x[Fenil Desai](https://www.twitter.com/fenildesai) (TCS) | @fenildesai
+*   flowerbot | flowerbot
 *   x[Franck Cornu](https://twitter.com/FranckCornu) | @FranckCornu
 *   x[Frederik Bisback](https://www.twitter.com/bisbackFrederik) | @bisbackFrederik
 *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
@@ -546,7 +536,9 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
 *   xRob Ellis | ee61re
 *   x[Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
+*   Rosa Alice | alicelupsan
 *   x[Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
+*   salascz | salascz
     x[Sami Stephan](https://www.github.com/sstephan01) (SubCom, LLC) | sstephan01
 *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 *   x[Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
@@ -554,6 +546,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy
 *   x[Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @Simonjhudson
     x[Sivam Pandey](https://www.twitter.com/sivamspandey) (HCL Technologies) | @sivamspandey
+    SlowRobot | SlowRobot
 *   x[Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
 *   Sohil Bhalla | sohilbhalla
 *   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
