@@ -72,14 +72,11 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 * 1st of September - [Microsoft 365 & Power Platform Development Community call - 1st of September, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-09-01/)
 * 25th of September - [Viva Connections & SharePoint Framework Community Call – 25th of August, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-08-25/)
 
-
-
-
 ## Microsoft 365 Developer Podcasts
 
 ### Microsoft 365 Developer Podcast
 
-In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Dev podcast is back. 
+In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Dev podcast is back. Soon new episodes to be published
 
 * 1st of August - [TeamsJS SDK Update with Alicia Lu](https://www.m365devpodcast.com/e/teamsjs-sdk-update-with-alicia-liu/)
 
@@ -87,8 +84,9 @@ In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Mi
 
 PnP Weekly is a recurrent podcast with visitors where Vesa and Waldek talk about the latest news and announcements in Microsoft 365 and SharePoint areas.
 
-* 15th of August - [Microsoft 365 PnP Weekly - Episode 174 - Ahmad Najjar](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-174/)
-
+* 5th of September - [Microsoft 365 PnP Weekly - Episode 177 - Kevin McDonnell](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-177/)
+* 30th of August - [Microsoft 365 PnP Weekly - Episode 176 - Daniel Laskewitz](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-176/)
+* 23rd of August - [Microsoft 365 PnP Weekly - Episode 175 - Gavin Barron](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-175/)
 
 ## Community calls
 
