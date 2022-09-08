@@ -54,8 +54,13 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
-* 22nd of August - [Jasey Waegebaert and Milan Holemans join CLI for Microsoft 365 maintainers team](https://pnp.github.io/blog/cli-for-microsoft-365/new-maintainers-2022-2/) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
 
+* 8th of September - [Patterns and Practices for SPFx Development](https://pnp.github.io/blog/post/patterns-and-practices-for-spfx-development/) by [Dipesh Bhanani](https://twitter.com/AskDipesh) | @AskDipesh
+* 4th of September - [How do you monitor Azure resources with Power Platform](https://pnp.github.io/blog/post/how-to-monitor-azure-resources-with-power-platform/) by Duvan Baena | DuvanBaena 
+* 4th of September - Series: [Build Power Apps that don't look like Power Apps - Material Design part 2](https://pnp.github.io/blog/post/build-powerapps-that-dont-look-like-powerapps-2/) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
+* 3rd of September - [Deploy static web sites with Power Platform](https://pnp.github.io/blog/post/deploy-static-web-sites-with-powerplatform/)  by Duvan Baena | DuvanBaena 
+* 2nd of September -[ Sync Contacts to Outlook using Logic App and Graph extended property](https://pnp.github.io/blog/post/sync-contacts-with-outlook/) by Sohil Bhalla | sohilbhalla
+* 25th of August - [Series: Build Power Apps that don't look like Power Apps - Material Design part 1](https://pnp.github.io/blog/post/build-powerapps-that-dont-look-like-powerapps-1/) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 
 ### Community call recording blog posts
 
@@ -430,84 +435,84 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 *   x[Ahmad](https://www.twitter.com/ahmadpirani) | @ahmadpirani
 *   x[Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
-*   x[Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
+*   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 *   x[Ali Robertson](@https://twitter.comalirobe) |@alirobe
 *   x[Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
 *   xAnders Roos | AndersSahlin
 *   x[André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
-*   x[Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+*   [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 *   x[Andrew Pilcher](https://www.github.com/andrewpilcher) (CSULB) | andrewpilcher
 *   x[Andy](https://www.github.com/ITAndy) (white & Case) | ITAndy
-*   x[Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
+*   [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 *   x[Arash Aghajani](ps://twitter.com/AghajaniArash) | @AghajaniArash
 *   x[Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
 *   x[Arleta Wanat](https://github.com/PowershellScripts) | PowershellScripts
 *   x[Arun Kumar Perumal](https://twitter.com/@arun_perumal16 ) | @arun_perumal16
 *   x[Ashish Kumar Baranwal](https://www.twitter.com/ashish2baranwal) (Tata) | @ashish2baranwal
-*   x[Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
+*   [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
 *   x[Ben Kereopa-Yorke](https://www.github.com/Benjamin-KY) (Telstra) | Benjamin-KY
 *   x[Benny Killua](https://twitter.com/Bennykillua) | @Bennykill
 *   x[Brenden Salter](https://www.twitter.com/GinjaCodeNinja) (Northern Computer) | @GinjaCodeNinja
-*   x[Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
 *   x[Chris Aragao](https://www.twitter.com/aragaocb) | @aragaocb
 *   x[Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
 *   x[Christian Zuellig](https://github.com/czullu) (MondayCoffee) | czullu
 *   x[Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
-*   x[Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+*   [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
 *   x[Clément Olivier](https://twitter.com/Clement0livier ) | @Clement0livier  
 *   x[Craig Savel](https://www.github.com/csavel) (Population Council) | csavel
 *   x[Daniel Watford](https://twitter.com/danwatford) | @danwatford
 *   x[Dennis Goedegebuure](https://twitter.com/expiscornovus) (Ultima Business Solutions) | Expiscornovus
 *   x[Darren Lutchne](https://twitter.com/assist_365) | @assist_365
-*   x[Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
+*   [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
+*   [Dipesh Bhanani](https://twitter.com/AskDipesh) | @AskDipesh
 *   x[Divya Akula](https://www.twitter.com/_divyaakula) | @_divyaakula
 *   x[Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
 *   x[Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
 *   x[Duvan Baena](https://twitter.com/djb349) | @djb349
 *   x[Eli Schei](https://twitter.com/acupof_dev) | @acupof_dev
 *   xElinor | ElinorW
-*   x[Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
-*   x[Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
+*   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
+*   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
 *   x[Emanuele Bartolesi](https://twitter.com/kasuken) (SoftwareONE) | @kasuken  
 *   x[Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
-*   x[Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) | @Erwinvanhunen
-*   x[Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
+*   [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) | @Erwinvanhunen
+*   [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
 *   xFederico Sapia (ANPAL Servizi)
 *   x[Felix Bohnacker](https://github.com/felixbohnacker) | felixbohnacker
 *   x[Fenil Desai](https://www.twitter.com/fenildesai) (TCS) | @fenildesai
 *   x[Franck Cornu](https://twitter.com/FranckCornu) | @FranckCornu
 *   x[Frederik Bisback](https://www.twitter.com/bisbackFrederik) | @bisbackFrederik
-*   x[Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
-*   x[Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
+*   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
+*   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
 *   x[Giacomo Pozzoni](https://github.com/jackpoz) (Fellowmind) | jackpoz
 *   x[Harold Anderson](https://github.com/Harold-Anderson)
 *   xHilton Giesenow | HiltonGiesenow
 *   x[Ivan Wilson](https://twitter.com/IvanWilson) | @IvanWilson
 *   x[James May](https://twitter.com/fowl2) | @fowl2
-*   x[Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
+*   [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 *   x[Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
 *   x[Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
 *   x[Jiten Palmer](https://twitter.com/Jitenpa44241205)  | @Jitenpa44241205
-*   x[João Ferreira](https://twitter.com/Joao12Ferreira) | @Joaoferreira
-*   x[João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
-*   x[Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
-*   x[Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997
-*   x[Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
-*   x[Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
+*   [João Ferreira](https://twitter.com/Joao12Ferreira) | @Joaoferreira
+*   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
+*   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
+*   [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997
+*   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
+*   [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
 *   xLeif Fredriksen | Leif-Frederiksen
 *   x[Lenard Schockert](https://github.com/Lschockaert) | Lschockaert
 *   x[Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
 *   x[Lewis Baybutt](https://twitter.com/lowcodelewis) (HybrIT) |@lowcodelewis
 *   x[Lindsay Shelton](https://twitter.com/lshelton_tech) (Stowers Institute for Medical Research) | @lshelton_tech
 *   xLlewellyn Roos | Llewellyn Roos
-*   x[Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
-*   x[Luis Mañez](https://twitter.com/luismanez) () | @luismanez
+*   [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
+*   [Luis Mañez](https://twitter.com/luismanez) () | @luismanez
 *   x[Maarten van Stam](https://twitter.com/aafvstam) | @aafvstam
-*   x[Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
+*   [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
 *   x[Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
 *   x[Marcus Blennegård](https://twitter.com/mblennegard) (Sogeti)  | @mblennegard
 *   x[Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
-*   x[Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
+*   [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
 *   x[Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 *   x[Matt Schuessler](https://www.twitter.com/MattSchues) | @MattSchues
 *   x[Mai Mostafa](https://github.com/Maya-Mostafa) | Maya-Mostafa
@@ -520,11 +525,11 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Musale Martin](https://twitter.com/m4musale) | @m4musale
 *   x[Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
 *   xOleksii Skirko
-*   x[Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
-*   x[Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
-*   x[Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @pkbullock
+*   [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+*   [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
+*   [Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @pkbullock
 *   x[Paul Matthews](https://twitter.com/cann0nf0dder)  | @cann0nf0dder
-*   x[Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | @Paulschaeflein
+*   [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | @Paulschaeflein
     x[Phil McNiven](https://www.github.com/phil0074) | phil0074
     x[Priscilla Panizza](https://www.twitter.com/ptpanizza) (Liberty Bank) | @ptpanizza
 *   x[Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4l
@@ -532,30 +537,30 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Rene Koch](https://github.com/rekodus)
 *   x[Rene Modery](https://twitter.com/modery) (WPP) | @modery 
 *   xrentu | SLdragon
-*   x[Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
-*   x[Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
+*   [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
+*   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
 *   xRob Ellis | ee61re
 *   x[Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
 *   x[Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
     x[Sami Stephan](https://www.github.com/sstephan01) (SubCom, LLC) | sstephan01
-*   x[Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
+*   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 *   x[Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
 *   x[Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh\_me
 *   x[Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy
 *   x[Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @Simonjhudson
     x[Sivam Pandey](https://www.twitter.com/sivamspandey) (HCL Technologies) | @sivamspandey
 *   x[Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
-*   xSohil Bhalla | sohilbhalla
-*   x[Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
-*   x[Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
+*   Sohil Bhalla | sohilbhalla
+*   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
+*   [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
 *   x[Sudharsan Kesavanarayanan](https://twitter.com/sudharsank) (NTT Digital Business Solutions) | @sudharsank
     x[Sven Sieverding](https://www.twitter.com/365Knoten) (team neusta) | @365Knoten
-*   x[Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
-*   x[Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
+*   [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
+*   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 *   x[Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | @Toddbaginski
 *   x[Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
 *   x[Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
-*   x[Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
+*   [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
 *   x[Zoe Wilson](https://twitter.com/SharePoint_Zoe) | @SharePoint_Zoe
 
 ### Companies
