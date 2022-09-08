@@ -1,6 +1,6 @@
 ---
 title: "Patterns and Practices for SPFx Development"
-date: 2022-09-05T09:00:00-00:00
+date: 2022-09-08T09:00:00-00:00
 author: "Dipesh Bhanani"
 githubname: Dipesh-Bhanani
 categories: ["Community post"]
@@ -9,8 +9,6 @@ images:
 tags: ["SPFx", "SharePoint"]
 type: "regular"
 ---
-
-# Patterns and Practices for SPFx Development
 
 When building any solution, whether it is SPFx-based or with any other programming language, it is best to make it loosely coupled to achieve easy maintenance and scalability. To achieve that, you can use concepts like Separation of Concern, IoC (Inversion of Control), dependency injection or any of SOLID principles.
 
