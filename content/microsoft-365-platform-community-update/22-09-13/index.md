@@ -47,7 +47,13 @@ The initiative is facilitated by Microsoft, but we have multiple community membe
 Here are the latest blog posts and announcements around Microsoft 365 development topics from [https://developer.microsoft.com/microsoft-365/blogs](https://developer.microsoft.com/microsoft-365/blogs)
 
 
-* 11th of August - [New features in Microsoft Graph To Do APIs and retirement of the Tasks (Beta) API](https://devblogs.microsoft.com/microsoft365dev/new-features-in-microsoft-graph-to-do-apis-and-retirement-of-the-tasks-beta-api/)
+* 8th of September - [Start your journey to becoming a Microsoft 365 developer](https://devblogs.microsoft.com/microsoft365dev/start-your-journey-to-becoming-a-microsoft-365-developer/) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
+* 31st of August - [Account linking with Microsoft Teams single sign-on](https://devblogs.microsoft.com/microsoft365dev/account-linking-with-microsoft-teams-single-sign-on/) by Aditya Challapally
+* 30th of August - [Public preview of SharePoint Framework 1.16 – First release of upcoming features](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-16-first-release-of-upcoming-features/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
+* 30th of August - [Introducing Microsoft Teams App Camp](https://devblogs.microsoft.com/microsoft365dev/introducing-microsoft-teams-app-camp/) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* 24th of August - [How Cloud Storage Partners integrate their services with Microsoft Teams and Office](https://devblogs.microsoft.com/microsoft365dev/how-cloud-storage-partners-integrate-their-services-with-microsoft-teams-and-office/) by Ben Summers (Microsoft)
+* 23rd of August - [Build a productivity dashboard with Microsoft Teams Toolkit for Visual Studio](https://devblogs.microsoft.com/microsoft365dev/build-a-productivity-dashboard-with-microsoft-teams-toolkit-for-visual-studio/) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+
 
 
 ### Microsoft 365 Platform Community Blog
@@ -604,15 +610,16 @@ Here's the companies, which provided support the community initiative for this m
 Here’s the list of Microsoft people who have been closely involved with the Microsoft 365 Platform community work during last month.
 
 *   xAbid Rahman  (Microsoft) 
+*   Aditya Challapally (Microsoft)
 *   xAlex Kwan (Microsoft)
 *   x[Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
 *   xAndrew Omondi (Microsoft)  
 *   x[April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
 *   x[Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 *   xBen Olsen (Microsoft)
-*   xBen Summers (Microsoft)
-*   x[Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
-*   x[Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+*   Ben Summers (Microsoft)
+*   [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
+*   [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 *   x[Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | BrianTJackett
 *   x[Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @Catpaint
 *   xChris Dietsch (Microsoft)
@@ -623,7 +630,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @Laskewitz
 *   xDivyanka Malik (Microsoft)
 *   x[Erin Bailie](https://twitter.com/EMBailie) (Microsoft) | @EMBailie
-*   x[Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
+*   [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 *   x[Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
 *   xGloria Sánchez (Microsoft) 
 *   x[Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
@@ -657,9 +664,9 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   xSam Ramon (Microsoft)
 *   x[Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
 *   xTricia Van Hollebeke (Microsoft)
-*   x[Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
+*   [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 *   xWajeed Shaikh | [Wajeed-msft](https://github.com/Wajeed-msft)
-*   x[Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
+*   [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
 *   x[Wictor Wilen](https://twitter.com/wictor)(Microsoft) | @Wictor
 *   x[Vincent Biret](https://twitter.com/baywet) (Microsoft) | @baywet
 *   xVictoria Iannotti (Microsoft)
