@@ -1,5 +1,5 @@
 ---
-title: "how do you monitor azure resources with power platform / four contribution"
+title: "How do you monitor Azure resources with Power Platform"
 date: 2022-09-04T11:06:00-04:00
 author: "Duvan Baena"
 githubname: DuvanBaena
@@ -11,11 +11,11 @@ type: "regular"
 draft: false
 ---
 
-## how do you monitoring azure resources with power platform
+## How do you do monitoring Azure resources with Power Platform
 
 We will use timer type objects, this not being cataloged as a connector will have a role in the construction of the process.
 
-Our Flow will be a (Flow on a schedule) in short words the process will have a responsibility to execute due to a schedule that the creator of the process will assign to it.
+Our Flow will be a (Flow on a schedule). In short words the process will have a responsibility to execute due to a schedule that the creator of the process will assign to it.
 
 When you have a defined role in the subscription, resource group, or resource scope in Azure, and you're interested in knowing or monitoring the health of your app.
 
@@ -34,13 +34,13 @@ I share with you some valid options when you make use of the Microsoft Office 36
 1. Monthly charge of USD $1.60 per alert created
 2. More configuration steps to notify IT
 
-*Power Platforms*
+*Power Platform*
 
 1. Use the Premium Application Insights connector for free for 90 days, through Power Automate included in your Office 365 subscription
 
 2. Zero complexities when choosing who to notify about the result of this connector.
 
-## Why does this Process?
+## Why do we do this Process?
 
 Imagine that you are Sysadmin / IT Support Engineer / SRE of a very robust infrastructure, you need to know the 24/7 health of your applications and your organization also requires saving some money.
 
