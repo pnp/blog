@@ -269,7 +269,9 @@ Have ideas for articles or want to contribute yourself? - Get involved! Here are
 These are the updated SharePoint Framework samples which are available from the different repositories.
 
 * New sample [react-copy-views](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-copy-views) by  [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
-
+* New sampple [ImageCard-PublicHolidays](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-PublicHolidays) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
+* Updated sample [PrimaryTextCard-RecentFiles](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-RecentFiles) by Guido Zambarda (PiaSys) 
+* 
 * New sample [react-roomchat](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-roomchat) by [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
 * Updated sample [react-page-navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) by [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert 
 * Updated sample [react-taxonomy-file-explorer](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-taxonomy-file-explorer) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
@@ -448,7 +450,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Benny Killua](https://twitter.com/Bennykillua) | @Bennykill
 *   x[Brenden Salter](https://www.twitter.com/GinjaCodeNinja) (Northern Computer) | @GinjaCodeNinja
 *   x[Chris Aragao](https://www.twitter.com/aragaocb) | @aragaocb
-*   x[Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
+*   [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
 *   x[Christian Zuellig](https://github.com/czullu) (MondayCoffee) | czullu
 *   x[Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
 *   [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
@@ -480,10 +482,12 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
 *   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
 *   x[Giacomo Pozzoni](https://github.com/jackpoz) (Fellowmind) | jackpoz
+*   Guido Zambarda (PiaSys)
 *   x[Harold Anderson](https://github.com/Harold-Anderson)
 *   xHilton Giesenow | HiltonGiesenow
 *   x[Ivan Wilson](https://twitter.com/IvanWilson) | @IvanWilson
 *   x[James May](https://twitter.com/fowl2) | @fowl2
+*   Jarbas Horst | JarbasHorst
 *   [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 *   x[Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
 *   x[Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
@@ -518,7 +522,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xMilan Holemans | milanholeman
 *   xMorten Andersen | spcph
 *   x[Musale Martin](https://twitter.com/m4musale) | @m4musale
-*   x[Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
+*   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
 *   xOleksii Skirko
 *   [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 *   [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
