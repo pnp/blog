@@ -89,7 +89,84 @@ How cool is that 😎? If only there was a setting which will the the full login
 
 ## 📅 Csv master
 
+So how many times you created a script to make a small report with some exported data from SharePoint Online? I bet that at least more than once 😉. Usually first we need to retrieve the data to some object and then parse it to, usually, a csv file. Adding headers, handling type of quotes, escaping special characters, etc. What if I tell you that all that may be done with a single line of code for any command in CLI for Microsoft 365? Pretty cool huh 😎? Lets have a bit deeper look on how we may do that and what are the CLI settings that support this feature. 
+
+First of all, lets see how is it possible to output the command in csv format. Well it's as easy as adding `--output csv` to the command 🙂. So if we would like to have a simple report with list of SharePoint lists from a site we may just run:
+
+```sh
+m365 spo list list --webUrl https://awesome.sharepoint.com/sites/bestSiteEver --output csv
+```
+
+Of course you don't need to always provide the `--output` if most of the times you will be using `csv` you may just set it as default output format as mentioned in previous chapter. 
+
+So the output of the above command will be something like:
+
+```sh
+Title,Url,Id
+appdata,/sites/hr-life/_catalogs/appdata,6532cc54-75fe-416e-803a-6bb46b1e38cc
+appfiles,/sites/hr-life/_catalogs/appfiles,34752b0f-1b4d-450d-8c90-92895624c2aa
+breakInheritance,/sites/hr-life/Lists/breakInheritance,fd1d9343-9a3a-476d-b722-7ae1679aa10b
+breakPermissionTest,/sites/hr-life/Lists/breakPermissionTest,dd683d61-9c44-4a24-a500-409eddac7212
+....
+```
+
+But don't we want a file not a plain output in console. No problem, we may simply add `> C:\some\path\to\file.csv` to the end of the command.
+
+```sh
+m365 spo list list --webUrl https://awesome.sharepoint.com/sites/bestSiteEver --output csv > C:\some\path\to\file.csv
+```
+
+Ok quite cool right? A simple report ready with a single line of code. Ok but usually we don't just want the full list. Usually we want to filter out some items or add sorting. CLI for Microsoft 365 got you covered here as well. Each command supports Filter CLI data using JMESPath queries 😮. Interested in more info about JMESPath queries? I will try to get in more details next time but mean while checkout the awesome blog written by Albert-Jan Schot 👉[MESPath queries for CLI for Microsoft 365](https://www.cloudappie.nl/jmespath-queries-cli-microsoft365/) or check the [docs](https://pnp.github.io/cli-microsoft365/user-guide/filter-cli-data/).
+
+So lets check what are the CLI settings that we may use to customize this output mode. First of all you may have noticed that headers are included by default in the output. We of course may change that by setting:
+
+```sh
+m365 cli config set --key csvHeader --value false
+```
+
+Sometimes we need to add quotes to the values. For example if we have a list with a column with a comma in it. We may want to have the comma in the csv file as a comma and not use to separate the value to next column. In that case we may turn quotes on by setting:
+
+```sh
+m365 cli config set --key csvQuoted --value true
+```
+
+There are times we want to change the quotes from double to single. This may be also done by setting:
+
+```sh
+m365 cli config set --key csvQuote --value "'"
+```
+
+By default there are no quotes around empty values. If we would like to change this behavior we have a setting for that as well:
+
+```sh
+m365 cli config set --key csvQuotedEmpty --value true
+```
+
+Last but not least we may also have quotes in values which we want to preserve. If so we need to escape them and we may do that by setting the types of character that may be used for escaping. Lets say we want to use `'` then we may set it using:
+
+```sh
+m365 cli config set --key csvEscape --value "'"
+```
+
+So to sum up. We may export to csv file with additional filtering and sorting in a single line, and we may config the behaviors of headers, quotes, empty values, escaping and quoting characters. How cool is that 😎?
+
 ## 🐞 Error handling
+
+When it comes to writting scripts the way we handle errors is very important and CLI for Microsoft 365 of course has additional support in that area as well 💪. 
+
+First of all we have a `showHelpOnFailure` setting which may not seem like anything special when it comes to error handling. This setting determines whether the command docs are output when the command fails. This might be very helpful when executing command by command but when we have a script file and we log output from every command to some log file then this additional information might not be very useful. In order to disable it we may set:
+
+```sh
+m365 cli config set --key showHelpOnFailure --value false
+```
+
+Usually we want the error to be printed in console as plain text and that is what is set by default in setting `printErrorsAsPlainText`. But lets think of a scenario we have a script with output mode set to `json`. In that case it might be easier to have an error as a json object as check if the output of the command is has an error property. In that case we may do that by setting:
+
+```sh
+m365 cli config set --key printErrorsAsPlainText --value false
+```
+
+One last setting that we may use is the `errorOutput` which allows us to define if error messages should be written to standard output or error. By default it is `stderr` and TBH this actually is the best way to do that but if by preference you would like to change this behavior it is also possible 😉.
 
 ## 📎 Don't mis that required option ever again
 
