@@ -245,7 +245,7 @@ These are different areas which are closely involved on the community work acros
 
 Microsoft Graph Toolkit is engineering lead initiative, which works closely with the community on the open-source areas. The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic web components and helpers for accessing and working with Microsoft Graph. The components are fully functional right of out of the box, with built in providers that authenticate with and fetch data from Microsoft Graph.
 
-*   Latest version currently is 2.6
+*   Latest version currently is 2.6.1
 *   [mgt.dev](https://mgt.dev/?path=/story/components-mgt-agenda--simple) - Microsoft Graph Toolkit Playground
 *   [Getting started with Microsoft Graph Toolkit guidance video](https://www.youtube.com/watch?v=TbAZHvB5NEk) from developer community call by [Beth Pan](https://twitter.com/beth_panx) (Microsoft)
 *   Latest code and preview versions from [https://aka.ms/mgt](https://github.com/microsoftgraph/microsoft-graph-toolkit)
@@ -257,6 +257,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented in our 
 ![Community Docs ](images/communitydocs.png)
 
 The Community Docs model was announced in April 2020 and it's great to see the interest for community to help each other by providing new guidance on non-dev areas. See more on the announcement from the SharePoint blog - [Announcing the Microsoft 365 Community Docs](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/announcing-the-microsoft-365-community-docs/ba-p/1288203). We welcome contributions from the community: our objective is to build a valuable location for articles from Microsoft and the community together.
+
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model in more detail.
 
 *   YouTube - [Introducing Microsoft 365 Community Docs](https://www.youtube.com/watch?v=HTbgjWvsh3k)
@@ -271,24 +272,6 @@ These are the updated SharePoint Framework samples which are available from the 
 * New sample [react-copy-views](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-copy-views) by  [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
 * New sampple [ImageCard-PublicHolidays](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-PublicHolidays) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
 * Updated sample [PrimaryTextCard-RecentFiles](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-RecentFiles) by Guido Zambarda (PiaSys) 
-* 
-* New sample [react-roomchat](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-roomchat) by [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
-* Updated sample [react-page-navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) by [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert 
-* Updated sample [react-taxonomy-file-explorer](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-taxonomy-file-explorer) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
-* Updated sample [react-list-search]([https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-list-search) by [Aaron Bumberger](https://github.com/mackilroy007) | mackilroy007
-* Updated sample [react-graph-app-secret-expiration](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-app-secret-expiration) by [Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
-* Updated sample [react-staffdirectory](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-staffdirectory) by [Milan Holemans](https://github.com/milanholemans) | milanholemans
-* Updated sample [react-script-editor](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-script-editor) by [Felix Bohnacker](https://github.com/felixbohnacker) | felixbohnacker
-* Updated sample [react-application-news-ticker](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-news-ticker) by [Sudharsan Kesavanarayanan](https://github.com/sudharsank) | sudharsank
-* Updated sample [PrimaryTextCard-My-M365-Groups](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-My-M365-Groups) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
-* Updated sample [ace-designtemplate-gallery](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-designtemplate-gallery) by [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
-* New sample [spfx-formcustomizer-basics](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/spfx-formcustomizer-basics) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
-* New sample [ace-strategy-pattern](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/ace-strategy-pattern) by [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
-* New sample [react-graph-profile-awards](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-profile-awards) by [Luis Mañez](https://twitter.com/luismanez) () | @luismanez
-* Updated sample [react-faqs](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs) by 
-* Updated sample [react-birthdays](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-birthdays) by Milan Holemans | milanholemans
-* Updated sample [react-follow-document](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-follow-document) by [Mai Mostafa](https://github.com/Maya-Mostafa) | Maya-Mostafa
-* Updated sample [js-application-appinsights-advanced](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-application-appinsights) by [Sudharsan Kesavanarayanan](https://github.com/sudharsank) | sudharsank
 
 How to find what's relevant for you? Take advantage of our SharePoint Framework web part and extension sample galleries - also includes solutions which work in Microsoft Teams
 
@@ -303,10 +286,8 @@ How to find what's relevant for you? Take advantage of our SharePoint Framework 
 
 These are samples which have been contributed on the community samples since last summary. We do welcome all Microsoft Teams samples to this gallery. They can be implemented using in any technology.
 
-*   New sample [tab-meeting-stageview-vote-movie-fluid](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-stageview-vote-movie-fluid) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
-*   New sample [tab-meeting-stageview-vote-movie](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-stageview-vote-movie) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
+*   New sample [tab-meeting-details](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-details) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
 
-If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://pnp.github.io/teams-dev-samples/). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
 
 ### Power Platform samples
 
@@ -418,7 +399,7 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [Building a SharePoint Document Library Approvals System](https://www.youtube.com/watch?v=CHqQz9Azfm8) by [Lindsay Shelton](https://twitter.com/lshelton_tech) (Stowers Institute for Medical Research) | @lshelton_tech
 
 
-## Key contributors to the August 2022 update
+## Key contributors to the September 2022 update
 
 Here’s the list of active contributors (in alphabetical order) since last release details in GitHub repositories or community channels. PnP is really about building tooling and knowledge together with the community for the community, so your contributions are highly valued across the Microsoft 365 customers, partners and obviously also at Microsoft.
 
@@ -428,20 +409,20 @@ Thank you for your assistance and contributions on behalf of the community. You 
 
 *   x[Aaron Bumberger](https://github.com/mackilroy007) | mackilroy007
 *   x[Abdul Mughni Ansari](https://www.twitter.com/Ansarimughni) (Hexaware) | @Ansarimi
-*   x[Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
+*   [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 *   x[Ahmad](https://www.twitter.com/ahmadpirani) | @ahmadpirani
 *   x[Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
 *   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 *   x[Ali Robertson](@https://twitter.comalirobe) |@alirobe
 *   x[Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
-*   xAnders Roos | AndersSahlin
+*   Anders Roos | AndersSahlin
 *   x[André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 *   [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 *   x[Andrew Pilcher](https://www.github.com/andrewpilcher) (CSULB) | andrewpilcher
 *   x[Andy](https://www.github.com/ITAndy) (white & Case) | ITAndy
 *   [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 *   x[Arash Aghajani](ps://twitter.com/AghajaniArash) | @AghajaniArash
-*   x[Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
+*   [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
 *   x[Arleta Wanat](https://github.com/PowershellScripts) | PowershellScripts
 *   x[Arun Kumar Perumal](https://twitter.com/@arun_perumal16 ) | @arun_perumal16
 *   x[Ashish Kumar Baranwal](https://www.twitter.com/ashish2baranwal) (Tata) | @ashish2baranwal
@@ -464,7 +445,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Divya Akula](https://www.twitter.com/_divyaakula) | @_divyaakula
 *   x[Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
 *   x[Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
-*   x[Duvan Baena](https://twitter.com/djb349) | @djb349
+*   [Duvan Baena](https://twitter.com/djb349) | @djb349
 *   x[Eli Schei](https://twitter.com/acupof_dev) | @acupof_dev
 *   xElinor | ElinorW
 *   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
@@ -521,7 +502,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Miguel Verweij](https://twitter.com/miguelverweij) (Sogeti) | @MiguelVerweij
 *   xMilan Holemans | milanholeman
 *   xMorten Andersen | spcph
-*   x[Musale Martin](https://twitter.com/m4musale) | @m4musale
+*   [Musale Martin](https://twitter.com/m4musale) | @m4musale
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
 *   xOleksii Skirko
 *   [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
@@ -627,7 +608,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   xDivyanka Malik (Microsoft)
 *   x[Erin Bailie](https://twitter.com/EMBailie) (Microsoft) | @EMBailie
 *   [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
-*   x[Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
+*   [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
 *   xGloria Sánchez (Microsoft) 
 *   x[Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
 *   xIsaac Vargas Chacon (Microsoft)
@@ -649,7 +630,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1
 *   x[Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
 *   x[Nicolas Vogt](https://github.com/vogtn) (Microsoft) | vogtn
-*   x[Nickii Miaro](https://github.com/Mnickii) (Microsoft) | Nickii Miaro
+*   [Nickii Miaro](https://github.com/Mnickii) (Microsoft) | Nickii Miaro
 *   xNikita Mittal (Microsoft)
 *   x[Pankaj Surti](https://twitter.com/pankajsurti ) (Microsoft) | @pankajsurti 
 *   x[Pam Green](https://www.twitter.com/contextuallib) (Microsoft) | @Contextuallib
