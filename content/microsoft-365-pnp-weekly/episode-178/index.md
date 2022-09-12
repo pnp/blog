@@ -10,7 +10,7 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=iL4KIA7nQu4
-draft: false
+draft: true
 ---
  
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK-based [Kevin McDonnell](https://twitter.com/kevmcdonk), Head of Practice Modern Workplace at CPS, Microsoft MVP (Office Apps & Services) \| @kevmcdonk
