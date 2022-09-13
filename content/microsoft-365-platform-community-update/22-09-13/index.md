@@ -435,6 +435,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Ben Kereopa-Yorke](https://www.github.com/Benjamin-KY) (Telstra) | Benjamin-KY
 *   x[Benny Killua](https://twitter.com/Bennykillua) | @Bennykill
 *   x[Brenden Salter](https://www.twitter.com/GinjaCodeNinja) (Northern Computer) | @GinjaCodeNinja
+*   Chad Eiserloh | c-eiser13
 *   x[Chris Aragao](https://www.twitter.com/aragaocb) | @aragaocb
 *   [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
 *   Chris Palmer | chris-p-source
@@ -452,6 +453,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
 *   x[Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
 *   [Duvan Baena](https://twitter.com/djb349) | @djb349
+*   Edin Kapic | ekapic
 *   x[Eli Schei](https://twitter.com/acupof_dev) | @acupof_dev
 *   xElinor | ElinorW
 *   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
@@ -556,6 +558,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Sohil Bhalla | sohilbhalla
 *   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 *   [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
+*   Steve Beaugé | stevebeauge
 *   x[Sudharsan Kesavanarayanan](https://twitter.com/sudharsank) (NTT Digital Business Solutions) | @sudharsank
 *   x[Sven Sieverding](https://www.twitter.com/365Knoten) (team neusta) | @365Knoten
 *   [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
@@ -564,6 +567,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
 *   x[Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
 *   [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
+*   Victor Romanov | VRomanovTau
 *   Yuning Chen | hnzkcyn
 *   x[Zoe Wilson](https://twitter.com/SharePoint_Zoe) | @SharePoint_Zoe
 
