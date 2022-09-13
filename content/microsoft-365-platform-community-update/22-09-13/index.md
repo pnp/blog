@@ -293,15 +293,18 @@ These are samples which have been contributed on the community samples since las
 
 ![Power Platform samples](images/powerplatform-samples.png)
 
-* New sample [TheSvgWorld-SVGexamples](https://github.com/pnp/powerapps-samples/tree/main/samples/TheSvgWorld-SVGexamples) by [Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
-* New sample [progress-bar](https://github.com/pnp/powerapps-samples/tree/main/samples/progress-bar) by [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
-* New sample [accessibility-color-contrast-checker](https://github.com/pnp/powerapps-samples/tree/main/samples/accessibility-color-contrast-checker) by [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
-* New sample [fluentui-for-teams-theme](https://github.com/pnp/powerapps-samples/tree/main/samples/fluentui-for-teams-theme) by [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
-* New sample [timesheet-using-dataverse](https://github.com/pnp/powerapps-samples/tree/main/samples/timesheet-using-dataverse) by [Darren Lutchne](https://twitter.com/assist_365) | @assist_365
-* New sample [sharepoint-get-terms-from-term-store](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-get-terms-from-term-store) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986) | @raminahmadi19
-* New sample [sharepoint-set-item-level-permissions](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-set-item-level-permissions) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986) | @raminahmadi19
-* New sample [sharepoint-group-creation-with-user-added](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-group-creation-with-user-added) by [Django Lohn](https://www.twitter.com/LohnDjango) (InSpark) | @LohnDjango
-* New sample [ProjectForTheWeb-Provisioning](https://github.com/pnp/powerautomate-samples/tree/main/samples/ProjectForTheWeb-Provisioning) by [Lenard Schockert](https://github.com/Lschockaert) | Lschockaert
+* New sample [Image slider component](https://github.com/pnp/powerapps-samples/tree/main/samples/image-slider) by Sagar Vishwakarma | sagar7046
+* New sample [Email translate](https://github.com/pnp/powerapps-samples/tree/main/samples/EmailTranslate) by Yuning Chen | hnzkcyn
+* New sample [OpenAI-GPT3-chatbot](https://github.com/pnp/powerapps-samples/tree/main/samples/openai-gpt3-chatbot) by [Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
+* New sample [File Format Changer](https://github.com/pnp/powerapps-samples/tree/main/samples/FileFormatChanger) by Simone Lin | SimonL26
+Version history
+* New sample [Weather](https://github.com/pnp/powerapps-samples/tree/main/samples/weather) by Chris Palmer | chris-p-source
+* New sample [what3words](https://github.com/pnp/powerapps-samples/tree/main/samples/what3words) by Lama | Lama-alluwaymi
+* New sample [random Roll dice](https://github.com/pnp/powerapps-samples/tree/main/samples/random-rolldice) by [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
+* New sample [sharepoint-move-list-item-to-folder](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-move-list-item-to-folder) by [Michel Mendes](https://twitter.com/michelcarlo) | @michelcarlo
+* New sample [sharepoint-get-terms-from-term-store](https://github.com/pnp/powerautomate-samples/tree/main/samples/sharepoint-get-terms-from-term-store) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986) (Content and Cloud) | @raminahmadi1986
+
+
 There were also numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location
 
 Power Platform sample gallery - [https://aka.ms/powerplatform-samples](https://pnp.github.io/powerplatform-samples/)
@@ -416,7 +419,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Ali Robertson](@https://twitter.comalirobe) |@alirobe
 *   x[Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
 *   Anders Roos | AndersSahlin
-*   x[André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
+*   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 *   [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 *   x[Andrew Pilcher](https://www.github.com/andrewpilcher) (CSULB) | andrewpilcher
 *   x[Andy](https://www.github.com/ITAndy) (white & Case) | ITAndy
@@ -432,6 +435,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Brenden Salter](https://www.twitter.com/GinjaCodeNinja) (Northern Computer) | @GinjaCodeNinja
 *   x[Chris Aragao](https://www.twitter.com/aragaocb) | @aragaocb
 *   [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
+*   Chris Palmer | chris-p-source
 *   x[Christian Zuellig](https://github.com/czullu) (MondayCoffee) | czullu
 *   x[Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
 *   [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
@@ -477,6 +481,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
 *   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
 *   [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997
+*   Lama | Lama-alluwaymi
 *   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 *   [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
 *   xLeif Fredriksen | Leif-Frederiksen
@@ -510,40 +515,43 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @pkbullock
 *   x[Paul Matthews](https://twitter.com/cann0nf0dder)  | @cann0nf0dder
 *   [Paul Schaeflein](https://twitter.com/paulschaeflein) (AddIn365) | @Paulschaeflein
-    x[Phil McNiven](https://www.github.com/phil0074) | phil0074
-    x[Priscilla Panizza](https://www.twitter.com/ptpanizza) (Liberty Bank) | @ptpanizza
+*   x[Phil McNiven](https://www.github.com/phil0074) | phil0074
+*   x[Priscilla Panizza](https://www.twitter.com/ptpanizza) (Liberty Bank) | @ptpanizza
 *   x[Rachel Irabor](https://www.twitter.com/Richie4love) | @Richie4l
-*   x[Ramin Ahmadi](https://twitter.com/raminahmadi1986) (Content and Cloud) | @raminahmadi1986
+*   [Ramin Ahmadi](https://twitter.com/raminahmadi1986) (Content and Cloud) | @raminahmadi1986
 *   x[Rene Koch](https://github.com/rekodus)
 *   x[Rene Modery](https://twitter.com/modery) (WPP) | @modery 
 *   xrentu | SLdragon
 *   [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
 *   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
 *   xRob Ellis | ee61re
-*   x[Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
+*   [Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
 *   Rosa Alice | alicelupsan
 *   x[Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
+*   Sagar Vishwakarma | sagar7046
 *   salascz | salascz
-    x[Sami Stephan](https://www.github.com/sstephan01) (SubCom, LLC) | sstephan01
+*    x[Sami Stephan](https://www.github.com/sstephan01) (SubCom, LLC) | sstephan01
 *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 *   x[Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
 *   x[Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh\_me
 *   x[Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy
 *   x[Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @Simonjhudson
-    x[Sivam Pandey](https://www.twitter.com/sivamspandey) (HCL Technologies) | @sivamspandey
-    SlowRobot | SlowRobot
+*   Simone Lin | SimonL26
+*    x[Sivam Pandey](https://www.twitter.com/sivamspandey) (HCL Technologies) | @sivamspandey
+*    SlowRobot | SlowRobot
 *   x[Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
 *   Sohil Bhalla | sohilbhalla
 *   [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 *   [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
 *   x[Sudharsan Kesavanarayanan](https://twitter.com/sudharsank) (NTT Digital Business Solutions) | @sudharsank
-    x[Sven Sieverding](https://www.twitter.com/365Knoten) (team neusta) | @365Knoten
+*   x[Sven Sieverding](https://www.twitter.com/365Knoten) (team neusta) | @365Knoten
 *   [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
 *   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 *   x[Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | @Toddbaginski
 *   x[Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
 *   x[Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
 *   [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
+*   Yuning Chen | hnzkcyn
 *   x[Zoe Wilson](https://twitter.com/SharePoint_Zoe) | @SharePoint_Zoe
 
 ### Companies
@@ -625,6 +633,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[Mark Kashman](https://twitter.com/MKashman) (Microsoft) | @MKashman
 *   xMarcus Blennegård | 
 *   x[Martin Lingstuyl](gttps://twitter.com/martinlingstuyl) | @martinlingstuyl
+*   [Michel Mendes](https://twitter.com/michelcarlo) | @michelcarlo
 *   x[Michelle Sanchez](https://www.twitter.com/TheLoadingPoint) (Microsoft) | @TheLoadingPoint
 *   x[Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @Mikaelsvenson
 *   x[Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1
