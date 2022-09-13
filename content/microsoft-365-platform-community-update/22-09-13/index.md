@@ -504,11 +504,11 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 *   x[Matt Schuessler](https://www.twitter.com/MattSchues) | @MattSchues
 *   x[Mai Mostafa](https://github.com/Maya-Mostafa) | Maya-Mostafa
-*   x[Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot
+*   [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot
 *   x[Miguel Angel García](https://twitter.com/miangama) | @Miangama
 *   xMiguel A. Tena | mikewar 
 *   x[Miguel Verweij](https://twitter.com/miguelverweij) (Sogeti) | @MiguelVerweij
-*   xMilan Holemans | milanholeman
+*   Milan Holemans | milanholeman
 *   xMorten Andersen | spcph
 *   [Musale Martin](https://twitter.com/m4musale) | @m4musale
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
