@@ -420,6 +420,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
 *   Anders Roos | AndersSahlin
 *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
+*   [Andreas Markussen](https://twitter.com/andreasm_dk) | @andreasm_dk
 *   [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 *   x[Andrew Pilcher](https://www.github.com/andrewpilcher) (CSULB) | andrewpilcher
 *   x[Andy](https://www.github.com/ITAndy) (white & Case) | ITAndy
@@ -471,6 +472,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Harold Anderson](https://github.com/Harold-Anderson)
 *   xHilton Giesenow | HiltonGiesenow
 *   x[Ivan Wilson](https://twitter.com/IvanWilson) | @IvanWilson
+*   Jake Stanger | JakeStanger
 *   x[James May](https://twitter.com/fowl2) | @fowl2
 *   Jarbas Horst | JarbasHorst
 *   [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
@@ -481,6 +483,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
 *   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
 *   [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997
+*   Konrad K. | wilecoyotegenius
 *   Lama | Lama-alluwaymi
 *   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 *   [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
@@ -526,11 +529,13 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
 *   xRob Ellis | ee61re
 *   [Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
+*   Rolf Isler | Tripplefix
 *   Rosa Alice | alicelupsan
 *   x[Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
 *   Sagar Vishwakarma | sagar7046
+*   Saintenr | Saintenr
 *   salascz | salascz
-*    x[Sami Stephan](https://www.github.com/sstephan01) (SubCom, LLC) | sstephan01
+*   x[Sami Stephan](https://www.github.com/sstephan01) (SubCom, LLC) | sstephan01
 *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 *   x[Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
 *   x[Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh\_me
