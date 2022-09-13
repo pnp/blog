@@ -468,10 +468,12 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   flowerbot | flowerbot
 *   x[Franck Cornu](https://twitter.com/FranckCornu) | @FranckCornu
 *   x[Frederik Bisback](https://www.twitter.com/bisbackFrederik) | @bisbackFrederik
+*   [Ganesh Sanap](https://twitter.com/ganeshsanap20) | @GaneshSanap20
 *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
 *   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
 *   [Giacomo Pozzoni](https://github.com/jackpoz) (Fellowmind) | jackpoz
 *   Guido Zambarda (PiaSys)
+*   hakki-max | hakki-max
 *   x[Harold Anderson](https://github.com/Harold-Anderson)
 *   Hilton Giesenow | HiltonGiesenow
 *   x[Ivan Wilson](https://twitter.com/IvanWilson) | @IvanWilson
@@ -479,11 +481,12 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [James May](https://twitter.com/fowl2) | @fowl2
 *   Jarbas Horst | JarbasHorst
 *   [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
-*   x[Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
+*   [Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
 *   x[Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
 *   x[Jiten Palmer](https://twitter.com/Jitenpa44241205)  | @Jitenpa44241205
 *   [João Ferreira](https://twitter.com/Joao12Ferreira) | @Joaoferreira
 *   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
+*   Joey Bloom | JoeyBloom
 *   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
 *   [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997
 *   Kalpesh Vaghela | kavaghela
@@ -514,7 +517,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot
 *   x[Miguel Angel García](https://twitter.com/miangama) | @Miangama
 *   xMiguel A. Tena | mikewar 
-*   x[Miguel Verweij](https://twitter.com/miguelverweij) (Sogeti) | @MiguelVerweij
+*   [Miguel Verweij](https://twitter.com/miguelverweij) (Sogeti) | @MiguelVerweij
 *   Milan Holemans | milanholeman
 *   xMorten Andersen | spcph
 *   [Musale Martin](https://twitter.com/m4musale) | @m4musale
