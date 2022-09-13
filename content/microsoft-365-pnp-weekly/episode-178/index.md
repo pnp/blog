@@ -1,41 +1,35 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 178"
-summary: "Head of Practice Modern Workplace at CPS and Microsoft MVP - Kevin McDonnell, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a human sided discussion focused on employee experience, remote work, and Microsoft Viva. As well, 17 articles/videos by Microsoft/Community are highlighted."
-date: 2022-09-05T02:00:01-00:00
+summary: "UK-based Microsoft MVP Paul Hunt joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a mindful discussion around career, personal and technology transitions; business process engineering, change management, and work-life balance. 20 articles/videos by Microsoft/Community are highlighted."
+date: 2022-09-12T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-177-promo.png
+- images/pnp-weekly-178-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=iL4KIA7nQu4
+- https://www.youtube.com/watch?v=ghVgeSJhPEg
 draft: true
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK-based [Kevin McDonnell](https://twitter.com/kevmcdonk), Head of Practice Modern Workplace at CPS, Microsoft MVP (Office Apps & Services) \| @kevmcdonk
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK-based [Paul Hunt](https://twitter.com/cimares), Microsoft MVP \| @cimares
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* Transitioning from development to consulting and from consultant to client
+* Business processes engineering and change management
+* Experiences transitioning customers from on-prem to cloud - the mentalities
+* The Partner opportunity in cloud transformations
+* With constant change, there is stress, how does one stay up to date?
+* The importance of striking the right work-life balance and being there for others
 
 ## Resources referenced during discussion
 
-* Viva Explorers – <https://www.vivaexplorers.com/>
-* Book - <https://tonyfadell.com/the-book/>
-* Event September 22nd - Empowering Your Workforce in Economic Uncertainty - Satya Nadella, <https://www.microsoft.com/microsoft-viva/event>
-* Podcast Series - [GreyHatBeardPrincess Podcast](https://www.greyhatbeard.com/) \| @greyhatbeard
-* Documentation - [Introduction to Microsoft Viva Goals](https://docs.microsoft.com/viva/goals/intro-to-ms-viva-goals)
+* Collabdays - National Museum of Computing - Bletchley Park, England 2022 - October Edition – Wednesday, 5 October 2022. [Register](https://www.collabdays.org/2022-bletchleypark-oct/)
 
 
-Also, we showcased 17 articles/videos published by Microsoft and the PnP Community in the last week.
+Also, we showcased 20 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## Action requested
 
@@ -43,12 +37,12 @@ Thinking like a Principal Software Engineer, should we have the capability (rela
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, September 5, 2022.
+This session was recorded on Monday, September 12, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube iL4KIA7nQu4 >}}
-    *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-7edi5-12bc1a1 >}}   
+    {{< youtube ghVgeSJhPEg >}}
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+    {{< podbean pb-h8ads-12c134e >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -58,11 +52,11 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [Microsoft Teams helps manage apps for everyday work functions and fit our modern hybrid needs](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-helps-manage-apps-for-everyday-work-functions/ba-p/3620088) - Ronit_Ben_Sheffer (Microsoft)
 * [SharePoint Roadmap Pitstop: August 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-august-2022/ba-p/3617837) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
-* [Learn on the go with Viva Learning mobile app updates](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/learn-on-the-go-with-viva-learning-mobile-app-updates/ba-p/3620078) -Andrea Lum (Microsoft)
+* [Learn on the go with Viva Learning mobile app updates](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/learn-on-the-go-with-viva-learning-mobile-app-updates/ba-p/3620078) - Andrea Lum (Microsoft)
 * [Digital event: Empowering Your Workforce in Economic Uncertainty](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/digital-event-empowering-your-workforce-in-economic-uncertainty/ba-p/3615144) - Shin-Yi Lim (Microsoft)
 * [Start your journey to becoming a Microsoft 365 developer](https://devblogs.microsoft.com/microsoft365dev/start-your-journey-to-becoming-a-microsoft-365-developer/) - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
-* [Power Platform Administration Planning](https://powerapps.microsoft.com/en-us/blog/power-platform-administration-planning/) - Steve Jeffery (Microsoft)
-* [3 Primary Reasons to Learn Dataverse](https://powerapps.microsoft.com/en-us/blog/3-primary-reasons-to-learn-dataverse/) - [Audrie Gordon](https://twitter.com/ArtsyPowerApper) (Microsoft) | @ArtsyPowerApper
+* [Power Platform Administration Planning](https://powerapps.microsoft.com/blog/power-platform-administration-planning/) - Steve Jeffery (Microsoft)
+* [3 Primary Reasons to Learn Dataverse](https://powerapps.microsoft.com/blog/3-primary-reasons-to-learn-dataverse/) - [Audrie Gordon](https://twitter.com/ArtsyPowerApper) (Microsoft) | @ArtsyPowerApper
 
 ## Community articles
 
