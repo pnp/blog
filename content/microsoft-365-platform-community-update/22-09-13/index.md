@@ -484,6 +484,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
 *   [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
 *   [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997
+*   Kalpesh Vaghela | kavaghela
 *   Konrad K. | wilecoyotegenius
 *   Lama | Lama-alluwaymi
 *   Landon Petzoldt | clurdish
@@ -502,7 +503,8 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Marc Studer | Studermarc
 *   x[Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
 *   x[Marcus Blennegård](https://twitter.com/mblennegard) (Sogeti)  | @mblennegard
-*   x[Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
+*   [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
+*   martinewald | martinewald
 *   [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
 *   x[Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 *   x[Matt Schuessler](https://www.twitter.com/MattSchues) | @MattSchues
@@ -515,6 +517,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xMorten Andersen | spcph
 *   [Musale Martin](https://twitter.com/m4musale) | @m4musale
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
+*   Ole Rühaak | ohaak2
 *   xOleksii Skirko
 *   [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 *   [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
@@ -534,6 +537,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xRob Ellis | ee61re
 *   [Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
 *   Rolf Isler | Tripplefix
+*   Ronald Booden | rjbooden
 *   Rosa Alice | alicelupsan
 *   x[Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
 *   Sagar Vishwakarma | sagar7046
