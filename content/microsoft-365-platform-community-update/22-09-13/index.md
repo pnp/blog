@@ -470,7 +470,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Giacomo Pozzoni](https://github.com/jackpoz) (Fellowmind) | jackpoz
 *   Guido Zambarda (PiaSys)
 *   x[Harold Anderson](https://github.com/Harold-Anderson)
-*   xHilton Giesenow | HiltonGiesenow
+*   Hilton Giesenow | HiltonGiesenow
 *   x[Ivan Wilson](https://twitter.com/IvanWilson) | @IvanWilson
 *   Jake Stanger | JakeStanger
 *   x[James May](https://twitter.com/fowl2) | @fowl2
@@ -485,6 +485,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997
 *   Konrad K. | wilecoyotegenius
 *   Lama | Lama-alluwaymi
+*   Landon Petzoldt | clurdish
 *   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 *   [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
 *   xLeif Fredriksen | Leif-Frederiksen
@@ -492,7 +493,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
 *   x[Lewis Baybutt](https://twitter.com/lowcodelewis) (HybrIT) |@lowcodelewis
 *   x[Lindsay Shelton](https://twitter.com/lshelton_tech) (Stowers Institute for Medical Research) | @lshelton_tech
-*   xLlewellyn Roos | Llewellyn Roos
+*   Llewellyn Roos | Llewellyn Roos
 *   [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
 *   [Luis Mañez](https://twitter.com/luismanez) () | @luismanez
 *   x[Maarten van Stam](https://twitter.com/aafvstam) | @aafvstam
