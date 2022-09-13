@@ -10,7 +10,7 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=ghVgeSJhPEg
-draft: true
+draft: false
 ---
  
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK-based [Paul Hunt](https://twitter.com/cimares), Microsoft MVP \| @cimares
