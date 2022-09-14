@@ -6,11 +6,11 @@ githubname: dips365
 categories: []
 images:
 - images/GN3.jpg
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
-## Introduction 
+## Introduction
 
 Modern SharePoint architecture gives fantastic OOTB global navigation,
 and hub site navigation has amazing potential to maintain consistency
@@ -46,7 +46,7 @@ Below Artifacts are going to be used,
 -   [Fluent Ui Command
     Bar](https://developer.microsoft.com/fluentui#/controls/web/commandbar)
 
-## Steps 
+## Steps
 
 1.  Configure Terms in Term Stores
 2.  Create Solution for Application Customizer
@@ -205,7 +205,7 @@ export default class GlobalNav extends React.Component<IGlobalNavProps, IGobalNa
     }
     public render(): React.ReactElement<IGlobalNavProps> {
         return (
-            
+
 
                 Hello World
             </div>
@@ -420,7 +420,7 @@ public render(): React.ReactElement<IGlobalNavProps> {
             <>
                 {
                     this.state.terms.length > 0 &&
-                    
+
 
                         <CommandBar  {...CommandBarProps}
                             style={{ width: "100%" }}
@@ -488,7 +488,7 @@ Copy URL which is highlighted in yellow and paste it into the browser.
 ![Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif](images/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif)
 
 
-## Conclusion 
+## Conclusion
 
 We have implemented the SPFx solution and get terms from the term store
 using PnP and render items in the command bar which is fluent UI

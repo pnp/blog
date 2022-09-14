@@ -4,11 +4,11 @@ date: 2021-10-18T04:08:00-04:00
 author: "Simon Doy"
 githubname: SimonDoy
 categories: ["Community post"]
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
-## Introduction 
+## Introduction
 
 Recently we seem to be getting involved in projects after they have gone
 awry. One of our partners reached out asking for help with an issue they
@@ -27,7 +27,7 @@ Several options were discussed which will be covered in the next
 section.
  
  
-## The approach 
+## The approach
 
 So several options were looked at, and as moving the database was
 quickly ruled out, we came up with these two:
@@ -60,7 +60,7 @@ Id Connect to ensure that only authenticated and authorized users can
 access the API. Further protection was provided by setting the API
 behind Azure API Management.
  
-### Authentication 
+### Authentication
 
 For the SharePoint Framework web parts to be able to authenticate with
 the REST API there are a couple of steps that need to be performed:
@@ -103,7 +103,7 @@ this right.
 ]
 ```
 
-### Azure Hybrid Connections 
+### Azure Hybrid Connections
 
 The Azure Hybrid Connection is set up in two places.
 
@@ -125,7 +125,7 @@ which is supported and works really well.
 For information on setting up the Azure Hybrid Connection see the
 following [Microsoft article](https://docs.microsoft.com/azure/app-service/app-service-hybrid-connections).
  
-### Performance 
+### Performance
 
 One of the areas that we wanted to ensure was the performance of the
 application. So we put together a POC was put together to prove the
@@ -140,7 +140,7 @@ optimizations we made were
 -   Using Dapper and performing filtering at the SQL layer rather than
     pulling the data down and filtering in the API
 
-## Conclusion 
+## Conclusion
 
 This solution enables SharePoint Online solutions to access data hosted
 On-Premises in a secure manner which is very effective. I was surprised

@@ -4,9 +4,9 @@ date: 2021-02-14T08:40:00-04:00
 author: "Toni Pohl"
 githubname: tonipohl
 categories: ["Community post"]
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
-images: 
+images:
 - images/p6.png
 summary: "To develop applications for SharePoint or Microsoft Teams with the SPFx framework, a few requirements must be met on your development computer. Learn how to install the supported Node.js v10.x version and how you can use other Node.js versions additionally with Node Version Manager"
 ---
@@ -18,7 +18,7 @@ to install the supported Node.js v10.x version and how you can use other
 Node.js versions additionally with Node Version
 Manager!
 
-## Why? 
+## Why?
 
 As developer, it often makes sense to have multiple versions of a
 framework installed on a single computer. For developing an app for
@@ -37,7 +37,7 @@ install NVM and desired Node.js versions, and how to switch between the
 Node.js versions. After the installation process, learn how to develop
 your custom SharePoint app using the provided tools.
 
-## Install nvm and Node.js 
+## Install nvm and Node.js
 
 First, follow the steps here to install the Node.js frameworks on your
 machine. Alternatively, there´s a good description at [Set up your
@@ -112,7 +112,7 @@ Etc. For the latest Node.js version, simply run
 nvm install latest
 ```
 
-Now check the installed versions: 
+Now check the installed versions:
 
 ```bash
 nvm ls
@@ -135,7 +135,7 @@ nvm use 14.15.4
 That´s the basic installation of Node.js and
 [npm](https://www.npmjs.com/get-npm).
 
-## Install the SPFx development tools once 
+## Install the SPFx development tools once
 
 To install the required tools
 [yo](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#install-yeoman)
@@ -155,7 +155,7 @@ npm install gulp yo @microsoft/generator-sharepoint --global
 
 ![npm install](images/p8.png)
 
-## Create a new SPFx web part 
+## Create a new SPFx web part
 
 To create a new SPFx app, follow the steps described at [Build your
 first SharePoint client-side web part (Hello World part
@@ -182,7 +182,7 @@ gulp trust-dev-cert
 
 You can open Visual Studio Code now to modify the solution: *code .*
 
-## Run the SPFx web part 
+## Run the SPFx web part
 
 The generated solution includes the sample app that can now be modified.
 
@@ -204,7 +204,7 @@ web part to the workbench page and test it.
 site and use the custom web part with the data from SharePoint, too:
 [https://\<tenant>.sharepoint.com/sites/\<sitename>/\_layouts/15/workbench.aspx](https://%3ctenant%3e.sharepoint.com/sites/%3Csitename%3E/_layouts/15/workbench.aspx)
 
-## Deploy the SPFx solution 
+## Deploy the SPFx solution
 
 To build the ready-to-use solution, run
 
@@ -222,7 +222,7 @@ to create the `\sharepoint\solution\<project>.sppkg` file that can
 be uploaded to the [SharePoint App
 catalog](https://docs.microsoft.com/sharepoint/use-app-catalog?redirectSourcePath=%252farticle%252fuse-the-app-catalog-to-make-custom-business-apps-available-for-your-sharepoint-online-environment-0b6ab336-8b83-423f-a06b-bcc52861cba0).
 
-## Develop the solution 
+## Develop the solution
 
 You can follow the next steps to develop the app described here:
 
