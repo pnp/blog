@@ -9,7 +9,7 @@ categories: ["Community post"]
 images:
 - images/TestFails.PNG
 # don't change
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 # don't change
 type: "regular"
 ---
@@ -18,7 +18,7 @@ type: "regular"
 
 Contrary to popular belief I don't think unit testing is easy. To be honest, unit testing in SharePoint world is even more difficult than any other.
 Going even further - unit testing SPFx is extremely challenging. If You have ever tried to write unit tests in Your SPFx project I'm sure You can share my opinion.
-The constant stream of enigmatic exceptions can successfully discourage from pursuing the concept all together. 
+The constant stream of enigmatic exceptions can successfully discourage from pursuing the concept all together.
 
 There are some great resources on the topic online, but the problem with them is that they outdate quite quickly. Moreover SPFx changes each version which requires You to understand how the unit tests are working to be able to correctly maintain them.
 
@@ -79,15 +79,15 @@ What is happening here is
 
  * Transforming ts and tsx files using ts-jest - effectively we add support for typescript in our unit tests
  * testRegex - we basically define what files we will consider as a unit test file
- * moduleFileExtensions - we define what files are considered modules in our solution. I would consider it optional, unless You are using some .js files in the solution. The order matters so we want to give typescript files priority over javascript files and jest defaults to js over ts. 
+ * moduleFileExtensions - we define what files are considered modules in our solution. I would consider it optional, unless You are using some .js files in the solution. The order matters so we want to give typescript files priority over javascript files and jest defaults to js over ts.
  * moduleNameMapper - module names we want to stub. This will be the most important configuration entry for us as it's the easiest way to "ignore" SPFx dependencies. Here we just say we don't want to deal with css nor scss files in our tests, so every time they are requested just return requested object name.
 
  ### Class we will test
 
- As I mentioned before in this post we will focus only on data access layer and data manipulation, so what we want to test is if our class to call MS Graph API will correctly construct the search query and map returned object to our document. 
- 
+ As I mentioned before in this post we will focus only on data access layer and data manipulation, so what we want to test is if our class to call MS Graph API will correctly construct the search query and map returned object to our document.
+
  #### Mock and Test
- 
+
  Let's start by building and testing the query. The easiest way to do that is to use [Graph explorer](https://developer.microsoft.com/en-us/graph/graph-explorer). Here we can fine tune our query and get the response we expect from the endpoint.
  Once we are ready I recommend replacing Your tenant name with test, so You won't leak any information about Your tenant. Let's say we want to have a class called GraphDocumentsProvider. Now let's write out test class.
 

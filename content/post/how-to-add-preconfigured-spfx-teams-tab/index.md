@@ -8,7 +8,7 @@ categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
 - images/tianyi-ma-WiONHd_zYI4-unsplash.jpg
-tags: ["SharePoint frameworks (SPFx)", "Microsoft Teams"]
+tags: ["SharePoint Framework (SPFx)", "Microsoft Teams"]
 # don't change
 type: "regular"
 draft: false

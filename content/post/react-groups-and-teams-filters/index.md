@@ -6,7 +6,7 @@ githubname: ReactIntern
 categories: ["Community post"]
 images:
 - images/img1.png
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -38,7 +38,7 @@ this because if I were to filter the AllGroupsresults to private and
 then switch to public and filter that, we're just filtering a filtered
 list and you won't get back any results. AllGroupsresults hold all of
 the results for Groups in my Organization and AllGroupsresultsFiltered
-is the filtered version of that list. 
+is the filtered version of that list.
 
 In other words, when we get back
 the Groups ( both Groups in my Org and My Groups ) we make a copy of
@@ -55,7 +55,7 @@ visibility, and assigns the value to SwitchedALL. Same thing for
 MyGroupResults; It maps through MyGroupResults and filters the groups to
 be the ones that match the visibility you selected. Next, we set the
 state of AllGroupsresultsFiltered and MyGroupResultsFiltered to be
-SwitchedALL and SwitchedMY, respectively. 
+SwitchedALL and SwitchedMY, respectively.
 
 In our case, we selected the
 button with the text 'Private' so AllGroupsresultsFiltered and

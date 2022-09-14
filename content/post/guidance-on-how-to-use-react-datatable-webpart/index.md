@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: []
 images:
 - images/ChandaniPrajapati.png
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -88,7 +88,7 @@ Now create a **page** and add web part.
 
  
 
-### **3 Configure properties from property pane configuration** 
+### **3 Configure properties from property pane configuration**
 
  
 
@@ -96,7 +96,7 @@ Now we will configure a web part as below,
 
  
 
-#### 1. First we will configure the List Configuration section 
+#### 1. First we will configure the List Configuration section
 
 -   Change the web part title that you want to show as a header/title.
 -   Select a list that you want to show in data table format
@@ -108,7 +108,7 @@ Now we will configure a web part as below,
 
  
 
-#### **2. Now configure the Search and Sort Section.** 
+#### **2. Now configure the Search and Sort Section.**
 
 -   **Search**
     -   If you will enable search then it will ask the user for which
@@ -126,7 +126,7 @@ Now we will configure a web part as below,
 
 ![Search_Sort_Config.png](images/Search_Sort_Config.png)
 
-####  3. Now we will configure Advanced features. 
+####  3. Now we will configure Advanced features.
 
  
 

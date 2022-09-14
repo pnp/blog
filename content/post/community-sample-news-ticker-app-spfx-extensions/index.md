@@ -6,7 +6,7 @@ githubname: AriGunawan
 categories: ["Community post"]
 images:
 - images/react-application-news-ticker.gif
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 

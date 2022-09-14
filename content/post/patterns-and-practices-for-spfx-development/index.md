@@ -6,7 +6,7 @@ githubname: Dipesh-Bhanani
 categories: ["Community post"]
 images:
 - images/do-what-is-great.png
-tags: ["SPFx", "SharePoint"]
+tags: ["SharePoint Framework (SPFx)", "SharePoint"]
 type: "regular"
 ---
 
@@ -50,31 +50,31 @@ The first and foremost best practice for SPFx solutions is building solution str
 +-- teams
 ```
 
-* **webparts:** 
+* **webparts:**
 
     * `webparts` folder is created as a part of default scaffolding as mentioned above. This contains main webpart classes and other UI components.
 
-* **services:** 
+* **services:**
 
     * `services` folder contains classes and interfaces to implement core business logic. This is very useful while implementing enterprise grade solutions.
 
-* **models:** 
+* **models:**
 
     * `models` folder contains model/entity classes which can be used to pass the data between components. You can choose the name as 'entities' if you would like.
 
-* **helpers:** 
+* **helpers:**
 
     * `helpers` folder contains static/non-static classes that helps you to execute small reusable functions. i.e. `UIHelper.ts`, `DateHelper.ts`
 
-* **hooks:** 
+* **hooks:**
 
-    * `hooks` folder contains hook components. Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class. You can keep all hooks implementations in this folder which will be used across the solution. 
+    * `hooks` folder contains hook components. Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class. You can keep all hooks implementations in this folder which will be used across the solution.
 
-* **common:** 
+* **common:**
 
     * `common` folder contains classes like Constants.ts, Enums.ts or anything you want to make a common among all.
 
-* **controls:** 
+* **controls:**
 
     * `controls` folder contains common UI classes or function components which will be shared across all webparts in solution. For example, `SpinnerOverlay.tsx` which can be used to display spinner with overlay for long operations.
 
@@ -246,7 +246,7 @@ There are multiple ways to consume these services. One simple example is as foll
 
 let productService: IProductService;
 if (Environment.type === EnvironmentType.Test) {
-    productService = this.context.serviceScope.consume(MockProductService.serviceKey);    
+    productService = this.context.serviceScope.consume(MockProductService.serviceKey);
 } else {
     productService = this.context.serviceScope.consume(ProductService.serviceKey);
 }
@@ -272,7 +272,7 @@ As you see in the above example, productService object will be created based on 
 * These UI components should only contain rendering logic. Do not add any business logic or data access code in these components.
 * You should not add multiple function components/classes to single file.
 * Consider keeping the code minimal in render method.
-* Consider handling exception properly. Log the exception details with logger components and present generic informative message for end-user on screen. 
+* Consider handling exception properly. Log the exception details with logger components and present generic informative message for end-user on screen.
 * Do not hardcode strings including generic messages. Use string labels defined in language files (`en-us.js`) located at `src > webparts > myWebPart > loc`
 * Do not store large objects in session/local storages
 * Consider importing leaf level components while importing third party libraries. For example, if you want to import `PrimayButton` from Office Fabric library, use `import { PrimaryButton } from "@fluentui/react/lib/Button";` rather than `import { PrimaryButton } from "@fluentui/react";`. This will help you to keep your package size compact. This can be very useful in scenarios where you would want to build home page components which are required to be performance effective at first load.
