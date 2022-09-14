@@ -394,7 +394,26 @@ You can find all Microsoft 365 related videos on our YouTube Channel at [https:/
 
 Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 
-*  [Make an API call in less than one minute...](https://www.youtube.com/shorts/JG6S4DWsScI) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+*  [Check required permissions for Microsoft Graph in the Graph Explorer](https://www.youtube.com/shorts/fWc7i-YDFM0) by [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
+*  [Microsoft ISV One Place Solutions shows how they built their One Place Mail app](https://www.youtube.com/watch?v=cPRE8HfBCLA) with [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs, [Cameron Dwyer](https://twitter.com/CameronDwyer) (One Place Solutions) | @CameronDwyer, and [Mathieu Rebuffet](https://twitter.com/rebuf) (One Place Solutions) | @rebuf
+* [Get started with Microsoft Teams app development and monetization](https://www.youtube.com/watch?v=ntFBgnrTt-s) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [Security Scenarios with Microsoft Graph Data Connect and Neo4j Analytics](https://www.youtube.com/watch?v=OyEqh-7jvWs) with Ben Summers (Microsoft) and Michael Moore (Neo4j)
+* [Build a productivity dashboard with Microsoft Teams Toolkit for Visual Studio](https://www.youtube.com/watch?v=0WFN8X9Tp8A) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+* [If I’m a developer, why would I use Microsoft Graph?](https://www.youtube.com/shorts/5hwW4tyOBeM)
+* [Access Microsoft 365 data from Microsoft Graph Data Connect for reporting dashboard](https://www.youtube.com/watch?v=d7HRMUbLr_Q) with Ben Summers (Microsoft) and Michael Moore (Neo4j)
+* [Microsoft Graph Data Connect: Integrate with API and Query Data](https://www.youtube.com/watch?v=IXAUstm4Oa4) with Ben Summers (Microsoft) and Michael Moore (Neo4j)
+* [All Things Microsoft Cloud: Accessibility](https://www.youtube.com/watch?v=h0gByFYotZw) with [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs, [Dona Sarkar](https://twitter.com/donasarkar) (Microsoft) | @DonaSarkar, and [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Data Exfiltration with Microsoft Graph Data Connect](https://www.youtube.com/watch?v=BHwh2JW56Pc) with Ben Summers (Microsoft) and Michael Moore (Neo4j)
+* [All Things Microsoft Cloud: Microsoft 365 and Microsoft Teams](https://www.youtube.com/watch?v=777ypUr2hwA) with [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs, [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin, and [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [Using Microsoft Graph to understand enterprise communication](https://www.youtube.com/watch?v=no6iWuswR0c&list=PLWZJrkeLOrbaSmfaIM6ogv-LQUP0tleTw) with Ben Summers (Microsoft) and Michael Moore (Neo4j)
+* [Monitoring Watch Terms and Sentiment Analysis](https://www.youtube.com/watch?v=FnInEIa8XnY) with Ben Summers (Microsoft) and Michael Moore (Neo4j)
+* [All Things Microsoft Cloud: Microsoft 365 and Microsoft Graph](https://www.youtube.com/watch?v=MXq-M6qRffE) with [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs, [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin, and [Yina Arenas](https://twitter.com/yina_arenas) (Microsoft) | @yina_arenas
+* [Overview of Microsoft Graph Data and Neo4j Data Model](https://www.youtube.com/watch?v=NOgvz-fv9VI) with Ben Summers (Microsoft) and Michael Moore (Neo4j)
+* [All Things Microsoft Cloud: GitHub](https://www.youtube.com/watch?v=a7zwFpkPoy0) with [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs, [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin, and [Todd Anglin](https://twitter.com/ToddAnglin) (Microsoft) | @ToddAnglin
+* [Using Microsoft Graph to understand enterprise communication](https://www.youtube.com/watch?v=no6iWuswR0c&t=176s) with Ben Summers (Microsoft) and Michael Moore (Neo4j)
+* [All Things Microsoft Cloud: Power Platform](https://www.youtube.com/watch?v=z19QZwmy1yg) with [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs, [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin, and [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
+* [All Things Microsoft Cloud: What is the Microsoft Cloud?](https://www.youtube.com/watch?v=SfAy0f2ir5k) with [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+
 
 
 ### Community demo videos
@@ -461,6 +480,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Ben Kereopa-Yorke](https://www.github.com/Benjamin-KY) (Telstra) | Benjamin-KY
 *   x[Benny Killua](https://twitter.com/Bennykillua) | @Bennykill
 *   x[Brenden Salter](https://www.twitter.com/GinjaCodeNinja) (Northern Computer) | @GinjaCodeNinja
+*   [Cameron Dwyer](https://twitter.com/CameronDwyer) ( One Place Solutions) | @CameronDwyer
 *   Chad Eiserloh | c-eiser13
 *   x[Chris Aragao](https://www.twitter.com/aragaocb) | @aragaocb
 *   [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
@@ -539,6 +559,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
 *   martinewald | martinewald
 *   [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
+*   [Mathieu Rebuffet](https://twitter.com/rebuf) (One Place Solutions) | @rebuf
 *   x[Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 *   x[Matt Schuessler](https://www.twitter.com/MattSchues) | @MattSchues
 *   x[Mai Mostafa](https://github.com/Maya-Mostafa) | Maya-Mostafa
@@ -653,8 +674,8 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
 *   xAndrew Omondi (Microsoft)  
 *   Ankit Rastogi (Microsoft)   
-*   x[April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
-*   x[Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+*   [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
+*   [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 *   xBen Olsen (Microsoft)
 *   Ben Summers (Microsoft)
 *   [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
@@ -662,11 +683,12 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | BrianTJackett
 *   x[Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @Catpaint
 *   xChris Dietsch (Microsoft)
-*   x[Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+*   [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 *   x[David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
 *   x[David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
 *   [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 *   x[Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @Laskewitz
+*   [Dona Sarkar](https://twitter.com/donasarkar) (Microsoft) | @DonaSarkar
 *   xDivyanka Malik (Microsoft)
 *   Eoin O'Brien (Microsoft) 
 *   x[Erin Bailie](https://twitter.com/EMBailie) (Microsoft) | @EMBailie
@@ -699,10 +721,11 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[Pam Green](https://www.twitter.com/contextuallib) (Microsoft) | @Contextuallib
 *   [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
 *   xPranshu Kumar (Microsoft)
-*   x[Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
-*   x[Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
+*   [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
+*   [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
 *   xSam Ramon (Microsoft)
-*   x[Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
+*   [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
+*   [Todd Anglin](https://twitter.com/ToddAnglin) (Microsoft) | @ToddAnglin 
 *   xTricia Van Hollebeke (Microsoft)
 *   Troy Starr (Microsoft) | TroyStarr
 *   [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
@@ -712,6 +735,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[Vincent Biret](https://twitter.com/baywet) (Microsoft) | @baywet
 *   xVictoria Iannotti (Microsoft)
 *   Yawei Zhu  (Microsoft)
+*   [Yina Arenas](https://twitter.com/yina_arenas) (Microsoft) | @yina_arenas
 *   Yun Wang (Microsoft)
 *   xZac Sun (Microsoft) 
 
