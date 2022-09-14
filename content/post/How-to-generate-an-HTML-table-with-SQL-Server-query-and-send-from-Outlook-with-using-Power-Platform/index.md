@@ -1,6 +1,6 @@
 ---
-title: "How to generate an HTML table with the output of a SQL Server query and send it from Outlook by using Power Platform / five contribution"
-date: 2022-09-04T11:06:00-04:00
+title: "How to generate an HTML table with the output of a SQL Server query and send it from Outlook by using Power Platform"
+date: 2022-09-13T11:06:00-04:00
 author: "Duvan Baena"
 githubname: DuvanBaena
 categories: ["Community post"]
@@ -10,6 +10,7 @@ tags: ["Power Automate","Azure DevOps","Power Apps"]
 type: "regular"
 draft: false
 ---
+
 ## How to generate an HTML table with a SQL Server query and send it from Outlook using Power Platform
 
 We will make use of the Premium SQL Server connector and the standard Outlook connector.
@@ -20,7 +21,7 @@ Flow will be a (Flow on a schedule) in short words the process will have a respo
 
 ![header](images/header.png)
 
-**Why does this Process?**
+**Why do we do this Process?**
 
 Imagine that your cloud provider for databases is Microsoft Azure; There you have the responsibility to track the level of service with which those databases are provisioned.
 
