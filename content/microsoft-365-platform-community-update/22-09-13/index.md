@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 Platform Community (PnP) - September 2022 update
-date: 2022-09-13T08:30:55.909Z
+date: 2022-09-15T08:30:55.909Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -701,7 +701,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev
 *   x[Jos Verlinde](https://github.com/Josverl) (Microsoft) Josverl
 *   Josef Benda | SmarterJB
-*   x[J.P. Roca](https://twitter.com/jpthepm ) (Microsoft) | @jpthepm 
+*   [J.P. Roca](https://twitter.com/jpthepm ) (Microsoft) | @jpthepm 
 *   x[Koen Zomers](https://twitter.com/koenzomers) (Microsoft) | @Koenzomers
 *   x[Laura Graham](https://github.com/Lauragra) (Microsoft) | Lauragra
 *   [Linda Lu Cannon](https://github.com/lindalu-MSFT) - (Microsoft) | lindalu-MSFT
@@ -713,7 +713,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[Michelle Sanchez](https://www.twitter.com/TheLoadingPoint) (Microsoft) | @TheLoadingPoint
 *   [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @Mikaelsvenson
 *   [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1
-*   x[Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
+*   [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
 *   x[Nicolas Vogt](https://github.com/vogtn) (Microsoft) | vogtn
 *   [Nickii Miaro](https://github.com/Mnickii) (Microsoft) | Nickii Miaro
 *   xNikita Mittal (Microsoft)
@@ -731,7 +731,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 *   xWajeed Shaikh | [Wajeed-msft](https://github.com/Wajeed-msft)
 *   [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
-*   x[Wictor Wilen](https://twitter.com/wictor)(Microsoft) | @Wictor
+*   [Wictor Wilen](https://twitter.com/wictor)(Microsoft) | @Wictor
 *   x[Vincent Biret](https://twitter.com/baywet) (Microsoft) | @baywet
 *   xVictoria Iannotti (Microsoft)
 *   Yawei Zhu  (Microsoft)
