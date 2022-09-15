@@ -6,7 +6,7 @@ githubname: derhallim
 categories: ["Community post"]
 images:
 - images/derhallim_0-1620249069072.png
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
