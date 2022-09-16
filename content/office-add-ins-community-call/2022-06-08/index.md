@@ -10,7 +10,7 @@ images:
 tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
-- https://www.youtube.com/watch?v=aIydcCxJFBo
+- https://www.youtube.com/watch?v=k9k70_QQZ-Q
 draft: false
 ---
 
@@ -27,7 +27,7 @@ This month's community call topics:
 
 The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded June 8, 2022.
 
-{{< youtube aIydcCxJFBo >}}
+{{< youtube k9k70_QQZ-Q >}}
 
 ## Topic summaries
 
