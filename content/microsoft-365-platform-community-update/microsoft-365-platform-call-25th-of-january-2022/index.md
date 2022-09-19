@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
 images:
 - images/recording-25th-jan.png
-tags: ["Office Add-ins","Extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins","SPFx Extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 

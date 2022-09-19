@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-8th-september.png
-tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Demos on Building polished form experiences with SPFx form customizer and Building SPFx solution with Azure Communication Services integration. Project releases for SharePoint Framework, CLI for Microsoft 365, PnPjs and Modern Search. 6 web part samples delivered."
 videos:
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the bi-weekly call focused on Microsoft 365 client-side development.  In this call, we focus on using Viva Connections and SharePoint Framework to build solutions for Microsoft Teams and SharePoint Online. 
+Welcome to the bi-weekly call focused on Microsoft 365 client-side development.  In this call, we focus on using Viva Connections and SharePoint Framework to build solutions for Microsoft Teams and SharePoint Online.
 
 ### New this week
 
@@ -72,7 +72,7 @@ The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (M
 
 ![together-mode-220908.gif](images/together-mode-220908.gif)
 
-It’s a full house today for picture time!  Thank you everybody for joining the call today or viewing it at as time permits. 
+It’s a full house today for picture time!  Thank you everybody for joining the call today or viewing it at as time permits.
 
 ## Actions
 
@@ -108,7 +108,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 **PnP Project**|**Current version**|**Release/Status**
 ---|---|---
 [SharePoint Framework (SPFx)](https://aka.ms/spfx)|v1.15.2 GA, v1.16 (Preview)|v1.16 (GA) end of 2022, v1.17 Preview December/January
-[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v3.7.0 GA, v2.13 GA| 
+[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v3.7.0 GA, v2.13 GA|
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)|v4.3.0 GA, v5.7.0 GA, v5.7 beta|v6.0.0 ETA November 2022
 [Reusable SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react)|v3.10.0, v2.9.0 (SPFx v1.11)|Supports SPFx v1.15.2
 [Reusable SPFx React Property Controls](https://github.com/pnp/sp-dev-fx-property-controls)|v3.9.0, v2.7.0 (SPFx v1.11)|Supports SPFx v1.15.2

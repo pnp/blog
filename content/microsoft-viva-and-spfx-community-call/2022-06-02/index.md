@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-2nd-june.png
-tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Demos: Building FAQs web part with Property Field Collection Data, Solve Teams and SharePoint Theme problems with the 'Enhanced Theme Provider' control, and Building custom list form components with SPFx v1.15. Released SPFx v1.15 (RC), 6 web part, 4 ACE samples."
 videos:
@@ -199,4 +199,3 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 *Microsoft 365 PnP team, Microsoft - 3rd of June 2022*
 
 {{< attachments >}}
-

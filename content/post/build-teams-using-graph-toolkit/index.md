@@ -9,7 +9,7 @@ categories: ["Community post"]
 images:
 - images/Full-Screen-03.png
 # don't change
-tags: ["Microsoft Teams", "Microsoft Graph", "Microsoft Graph toolkit"]
+tags: ["Microsoft Teams", "Microsoft Graph", "Microsoft Graph Toolkit"]
 # don't change
 type: "regular"
 draft: false
@@ -58,10 +58,10 @@ The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic comp
 ### MGT-GET
 
 You can use mgt-get to make any GET query from Microsoft Graph directly in your HTML. The component does not provide a default UI and requires that you write a template.
-Before we talk about sub components of the teams chat . For every Microsoft Graph toolkit component to work it needs a provider.  
+Before we talk about sub components of the teams chat . For every Microsoft Graph toolkit component to work it needs a provider.
 The Microsoft Graph Toolkit providers enable your application to authenticate with Microsoft Identity and access Microsoft Graph in only few lines of code. Each provider handles user authentication and acquiring the access tokens to call Microsoft Graph APIs, so that you don’t have to write this code yourself.
 In this case I am using a proxy provider which will redirect all the request from the Graph toolkit components to my custom .NET Core API. This gives lot of flexibility of managing the request and overcoming any thresholds imposed by Microsoft Graph.
-You can read more about proxy provider [here](https://docs.microsoft.com/en-us/graph/toolkit/providers/proxy) 
+You can read more about proxy provider [here](https://docs.microsoft.com/en-us/graph/toolkit/providers/proxy)
 
 ### Initialize Proxy Provider
 
@@ -72,7 +72,7 @@ Providers.globalProvider = new ProxyProvider(`${notificationAPIURL}`,
  async () => {
           return {
             "Content-Type" : "application/json",
-            "Authorization" : "Bearer <token>"+ 
+            "Authorization" : "Bearer <token>"+
           };
         }
         );
@@ -87,9 +87,9 @@ The left and right hand side of the screen components are multiple MGT-GET compo
 ### LastMessageComponent
 
 ```typescript
-<Get cacheEnabled={true} 
-cacheInvalidationPeriod={36000} 
-maxPages={1} 
+<Get cacheEnabled={true}
+cacheInvalidationPeriod={36000}
+maxPages={1}
 version="beta"
 resource={"teams/<TeamID>/channels/<ChannelID>/messages/<MessageID>/replies?$top=1"}>
         <LastMessageItem template="value" />
@@ -110,7 +110,7 @@ const shimmerWithElementThirdRow = [
 ];
 /**
  * This components provides the loading effect as in when the graph calls happens
- * @param props 
+ * @param props
  */
 export function LoadingTemplate(props: MgtTemplateProps) {
     return (<div><Shimmer shimmerElements={shimmerWithElementThirdRow} />
@@ -122,14 +122,14 @@ export function LoadingTemplate(props: MgtTemplateProps) {
 
 ```typescript
 export const LastMessageItem = (props: any) => {
-        
+
     return (
     <div className="teams-chat-last-message-container">
         <div className="teams-chat-last-message-container-block">
              <div className="teams-chat-conversation-message">
-                <Person line1Property={"givenName"} fetchImage={true} 
-                        userId={props.dataContext.from.user.id} 
-                        showPresence={true} personCardInteraction={1} 
+                <Person line1Property={"givenName"} fetchImage={true}
+                        userId={props.dataContext.from.user.id}
+                        showPresence={true} personCardInteraction={1}
                         view={PersonViewType.oneline}>
                 </Person>
                 <div data-testid="content" className={`teams-chat-last-message-content>
@@ -149,13 +149,13 @@ export const LastMessageItem = (props: any) => {
 The right side is another MGT-GET component but for demo purpose I am sharing the pure MGT-GET instead on MGT react as demoed for the left side.
 
 ```typescript
-<mgt-get cache-enabled={true} 
-    cache-invalidation-period={36000} 
+<mgt-get cache-enabled={true}
+    cache-invalidation-period={36000}
      id="messagesGet"
     version="beta"
     resource={"teams/<TeamID>/channels/<ChannelID>/messages/<MessageID>/replies"}>
     <template data-type="value"
-        <Inside the template based on the graph response , rendering can happen like 
+        <Inside the template based on the graph response , rendering can happen like
         emojis , logged in user message UI and other users message UI as shown above
     </template>
  </mgt-get>
@@ -167,11 +167,11 @@ The backend implementation involves development of .NET core API, which manages 
 
 1) User Authentication
 
-2) Graph Change Subscription 
+2) Graph Change Subscription
 
 3) SignalR management with groups
 
-4) Respond to all the graph calls ( acting as a provider in the Microsoft Graph toolkit proxy provider ) 
+4) Respond to all the graph calls ( acting as a provider in the Microsoft Graph toolkit proxy provider )
 
 ### User Authentication
 
@@ -182,10 +182,10 @@ Using dependency injection following authentication is injected in the .NET core
 ```cs
 // The below configuration is done to read Azure AD configuration from Helm
             // Direct section bind doesnt work with AddMicrosoftIdentityWebApi and environment variables.
- 
+
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddMicrosoftIdentityWebApi(options => { }, options => {
-                    options.Instance = azureAD.Instance != null ? azureAD.Instance 
+                    options.Instance = azureAD.Instance != null ? azureAD.Instance
 : "https://login.microsoftonline.com/"; // default value
       options.Domain = <Domain>;
            options.TenantId = <Tenant ID>;
@@ -210,17 +210,17 @@ public static void AddMicrosoftGraph(this IServiceCollection services,
                                              )
         {
             services.AddTokenAcquisition(true);
- 
+
             services.AddSingleton<GraphServiceClient, GraphServiceClient>(serviceProvider =>
             {
                 ITokenAcquisition? tokenAquisitionService = serviceProvider.GetService<ITokenAcquisition>();
                 GraphServiceClient client = string.IsNullOrWhiteSpace(graphBaseUrl) ?
- 
-            new GraphServiceClient(new TokenAcquisitionCredentialProvider(tokenAquisitionService, 
+
+            new GraphServiceClient(new TokenAcquisitionCredentialProvider(tokenAquisitionService,
                                       initialScopes)) :
-                             new GraphServiceClient(graphBaseUrl, 
+                             new GraphServiceClient(graphBaseUrl,
             new TokenAcquisitionCredentialProvider(tokenAquisitionService, initialScopes));
- 
+
                 return client;
             });
         }
@@ -229,7 +229,7 @@ public static void AddMicrosoftGraph(this IServiceCollection services,
 ## Graph Change Subscription
 
 A subscription allows a client app to receive change notifications about changes to data in Microsoft Graph.
-Please refer the below article for the details of the change subscription 
+Please refer the below article for the details of the change subscription
 https://docs.microsoft.com/en-us/graph/api/subscription-post-subscriptions?view=graph-rest-1.0&tabs=http
 In this case a change subscription is created for the channel to receive the notifications for the messages posted , updated or deleted from the channel.
 
@@ -273,10 +273,10 @@ public class SignalRManager : ISignalRManager
     {
         private readonly IHubContext<NotificationHub, IHubClient> hubContext;
         private readonly NotificationHub hub;
-        public SignalRManager(IHubContext<NotificationHub, IHubClient> hubContext, 
+        public SignalRManager(IHubContext<NotificationHub, IHubClient> hubContext,
                               NotificationHub hub)
         {
-            this.hubContext = hubContext ?? 
+            this.hubContext = hubContext ??
                             throw new ArgumentNullException(nameof(hubContext));
             this.hub = hub ?? throw new ArgumentNullException(nameof(hub));
         }
@@ -288,7 +288,7 @@ public class SignalRManager : ISignalRManager
                 hubContext.Groups.AddToGroupAsync(connectionID, groupName).Wait();
             }
         }
- 
+
         public void SendSignalRMessage(string groupName,Notification signalRMessage)
         {
             hubContext.Clients.Group(groupName).BroadcastMessage(signalRMessage);
@@ -307,7 +307,7 @@ const newConnection = new HubConnectionBuilder()
             skipNegotiation: true,
             transport: signalR.HttpTransportType.WebSockets,
           }).build();
- 
+
         // start the connection
         newConnection
           .start()
@@ -316,13 +316,13 @@ const newConnection = new HubConnectionBuilder()
           })
           .catch(_ => {
             console.log('Error while establishing connection :(' + endpoint);
-            }); 
+            });
 ```
 ## Respond to All Graph Calls ( Proxy Provider )
 
 The backend API will expose an endpoint which responds to all the Graph calls from the client. This includes
 
-1) Get new messages 
+1) Get new messages
 
 2) Profile information (Including profile card)
 
@@ -331,7 +331,7 @@ The backend API will expose an endpoint which responds to all the Graph calls fr
 ```cs
 [HttpGet]
         [Route("{version}/teams/{teamId}/channels/{channelId}/messages/{conversationId}/replies")]
-        public async Task<IActionResult> GetAsync(string version, string teamId, 
+        public async Task<IActionResult> GetAsync(string version, string teamId,
                                                   string channelId, string conversationId)
         {
             bool needsUpdate = false;
@@ -363,17 +363,17 @@ GetCache(CacheKeys.ChannelConversationMessages + teamMessagesInput.ConversationI
                           {
                             // Serve from Cache
                           }
- 
-                          
+
+
                       });
                 }
                 else
                 {
-                    finalCollectionPage = 
+                    finalCollectionPage =
        (ChannelConversationReplies)cacheHelper.
 GetCache(CacheKeys.ChannelConversationMessages + teamMessagesInput.ConversationID);
                 }
-                
+
                 return Ok(finalCollectionPage);
             }
             else
@@ -481,7 +481,7 @@ In my main component tsx file I have added below to create a web component eleme
 
 ```typescript
 import reactToWebComponent from "react-to-webcomponent";
- 
+
 customElements.define("cln-teams-chat-element", reactToWebComponent(TeamsContainer, React, ReactDOM));
 ```
 
@@ -498,12 +498,3 @@ I’ve received so much help from the Microsoft community, that I hope by writin
 If you have any questions/clarifications please post it in the comments, I’m more than happy to help you out.
 
 THANK YOU….
-
-
-
-
-
-
-
-
-

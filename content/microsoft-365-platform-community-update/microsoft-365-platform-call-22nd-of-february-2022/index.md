@@ -4,9 +4,9 @@ date: 2022-02-22T06:16:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
-images: 
+images:
 - images/recording-22nd-feb.png
-tags: ["Office Add-ins","Extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins","SPFx Extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=627L2Lz5K3w

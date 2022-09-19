@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/recording-3rd-feb.png
-tags: ["Office Add-ins", "Extensions","Microsoft 365", "Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions","Microsoft 365", "Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
 type: "regular"
 summary: "One location the Microsoft 365 tenant – script samples gallery (136 scenarios and 187 scripts) including recently added Teams PowerShell support!  Sign up and attend an AMA and other events this month hosted by Sharing is Caring.  Get the recognition you deserve, sign up for the PnP Recognition Program.  Heads down on PnP projects.  Expecting to ship Microsoft Graph Toolkit v2.3.2 on Friday!  To see current releases and latest updates/nightly builds, access the Repos via the links in table below.  There were 5 new/updated script, 5 Power Platform samples delivered this week."
 videos:
@@ -81,7 +81,7 @@ The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)�
 *   **Create M365 Groups using Graph\* -** [Michel Mendes](https://twitter.com/michelcarlo) | @michelcarlo
 *   **Hide List from Site Contents\* -** [Michel Mendes](https://twitter.com/michelcarlo) | @michelcarlo
 *   **[Breadcrumb Component](https://github.com/pashasongz/powerapps-samples/tree/main/samples/breadcrumb-component) -** [Pavel Kovalevskij](https://www.linkedin.com/in/pavel-kovalevskij-4a55b41b2)
-*   **SelfService Portal for Microsoft 365\* -** [Jan Bakker](https://twitter.com/janbakker_) | @janbakker\_  
+*   **SelfService Portal for Microsoft 365\* -** [Jan Bakker](https://twitter.com/janbakker_) | @janbakker\_
     [Albert-Jan Schot](https://twitter.com/appieschot) | @appieschot
 *   **Users and Groups Directory\* -** [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh\_me
 
@@ -199,4 +199,3 @@ You can download recurrent invite from [https://aka.ms/m365-dev-sig](https://ak
 _“Sharing is caring”_
 
 _Microsoft 365 Community (PnP) team, Microsoft - 4th of February 2022_
-

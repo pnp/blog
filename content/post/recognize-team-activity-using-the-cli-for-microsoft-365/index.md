@@ -6,11 +6,11 @@ githubname: appieschot
 categories: ["CLI for Microsoft 365"]
 images:
 - images/team-champion-script.png
-tags: ["CLI Microsoft 365", "Microsoft Teams"]
+tags: ["CLI for Microsoft 365", "Microsoft Teams"]
 type: "regular"
 ---
 
-## The scenario 
+## The scenario
 
 Not unlike the previous scenario the goal of this blog post is to
 identify the activities per team. We want to capture how active each
@@ -22,7 +22,7 @@ functionality. Given that we want to identify those users within a
 timeframe the script should be able to handle activity within a
 timeslot.
 
-## Available metrics 
+## Available metrics
 
 The CLI for Microsoft offers a range of commands to work with teams,
 channels, and the data within Teams. As well as information for other
@@ -40,7 +40,7 @@ initial post has a subject to promote the use of best practices in
 working with Teams. Once we have all that information, we can post to
 Teams using an adaptive card.
 
-## Microsoft 365 CLI Commands 
+## Microsoft 365 CLI Commands
 
 Interacting with the CLI for Microsoft will be done using a set of basic
 commands:
@@ -54,7 +54,7 @@ commands:
 -   m365 adaptivecard send to send our results to Teams and present a
     score card for all team members.
 
-## The scripts 
+## The scripts
 
 The script itself list all channels, loops through those channels and
 retrieves all replies. It constructs a new object that saves the UserID
