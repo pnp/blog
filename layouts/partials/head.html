@@ -71,25 +71,27 @@
 <meta name="twitter:creator" content="@{{ . }}" />{{ end }}
 {{ end }}
 
+<meta property="og:site_name" content="{{ .Site.Title }}" />
 <meta name="og:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}" />
 <meta name="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:url" content="{{ .Permalink }}" />
-
-<meta property="og:site_name" content="{{ .Site.Title }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 
 {{ if .IsPage }}
-{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
-
-<meta property="og:type" content="article" />
-{{ with .PublishDate }}<meta property="article:published_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
-{{ with .Lastmod }}<meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
-<meta property="article:section" content="post" />
-{{ else }}
-{{end}}
-
-<meta property="og:url" content="http://localhost:1313/blog/post/new-community-blog-platform/" />
+  {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+  <meta property="og:type" content="article" />
+  {{ with .PublishDate }}
+    <meta property="article:published_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />
+    <meta property="datePublished" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />
+  {{ end }}
+  {{ with .Lastmod }}
+    <meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />
+    <meta property="dateModified" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />
+  {{ end }}
+  <meta property="article:section" content="post" />
+  <meta itemprop="wordCount" content="{{ .WordCount }}">
+   else }}
+  <meta property="og:type" content="website" />
+{{ end }}
 
 <!-- google analytics -->
 {{ template "_internal/google_analytics.html" . }}
