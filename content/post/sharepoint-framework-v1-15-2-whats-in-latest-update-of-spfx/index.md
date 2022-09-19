@@ -29,7 +29,7 @@ In early August, Microsoft released a minor update to the SharePoint Framework (
 - ✅  automatically register Azure Service Principals when permission scope requests are approved
 - ✅  ACE QuickView cards support deferred loading
 - 🚀  ACE media selectors promoted to GA
-- 🐞 squashed 16+ issues/bugs (including 5 of mine!)
+- 🐞 squashed 16+ issues/bugs
 
 In this post, [Andrew Connell](https://www.twitter.com/andrewconnell) goes over these updates and shares some additional things he found after spending some time picking apart this latest release of the SharePoint Framework!
 
