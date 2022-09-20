@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-11th-aug.png
-tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Demos on Building React Taxonomy File Explorer experience with SPFx and Introduction to new Viva Connections Toolkit VS Code extension to streamline your development. Project releases for SPFx, PnPjs and CLI for Microsoft 365. Delivered 3 web part + 1 ACE sample."
 videos:
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the bi-weekly call focused on Microsoft 365 client-side development.  In this call, we focus on using Viva Connections and SharePoint Framework to build solutions for Microsoft Teams and SharePoint Online. 
+Welcome to the bi-weekly call focused on Microsoft 365 client-side development.  In this call, we focus on using Viva Connections and SharePoint Framework to build solutions for Microsoft Teams and SharePoint Online.
 
 ### New this week
 
@@ -57,7 +57,7 @@ call.
 
 ![together-mode-220811.gif](images/together-mode-220811.gif)
 
-It’s good to see so many familiar faces.  Thanks everybody for joining the call today or for watching the session at your convenience.   
+It’s good to see so many familiar faces.  Thanks everybody for joining the call today or for watching the session at your convenience.
 
 ## Actions
 
@@ -91,7 +91,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 **PnP Project**|**Current version**|**Release/Status**
 ---|---|---
 SharePoint Framework (SPFx)|v1.14 GA, v1.15.2 RC|v1.16 preview late July/early August, v1.16 GA September
-[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v2.13 GA, v3.6.0 GA| 
+[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v2.13 GA, v3.6.0 GA|
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)|v4.3.0 GA, v5.6.0 GA|
 [Reusable SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react)|v3.9.0, v2.9.0 (SPFx v1.11)|Update to SPFx v1.15.2 - work in progress
 [Reusable SPFx React Property Controls](https://github.com/pnp/sp-dev-fx-property-controls)|v3.8.0, v2.7.0 (SPFx v1.11)|Update to SPFx v1.15.2 - work in progress

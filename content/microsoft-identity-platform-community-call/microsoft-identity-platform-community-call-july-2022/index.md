@@ -1,10 +1,10 @@
 ---
 title: "Microsoft Identity Platform community call – July 2022"
-tags: ["Microsoft 365", "Azure", "Microsoft Identity Platform"]
+tags: ["Microsoft 365", "Azure", "Microsoft identity Platform"]
 date: 2022-07-25T05:11:59-05:00
 author: "Nandeesh Swami"
 githubname: Nandeeshswami
-categories: ["Microsoft Identity platform community call"]
+categories: ["Microsoft identity platform community call"]
 images:
 - images/recording-identity-community-call-july-2022.png
 type: "regular"
@@ -63,7 +63,7 @@ Krishna](https://twitter.com/kalyankrishna1). Recorded July 21,2022
 * Cheat Sheet - [Cross Site Scripting Prevention Cheat
     Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
 * Demo - [Getting Started with Create React
-    App](https://github.com/derisen/msal-react-demo) 
+    App](https://github.com/derisen/msal-react-demo)
 * Documentation - [Microsoft identity platform ID
     tokens](https://docs.microsoft.com/azure/active-directory/develop/id-tokens)
     \| aka.ms/id-tokens

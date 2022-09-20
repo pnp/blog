@@ -6,7 +6,7 @@ githubname: PopWarner
 categories: ["Power Apps community call"]
 images:
 - images/powerplatform-call-promo-July-2022.png
-tags: ["Extensions", "Microsoft 365", "Power Apps"]
+tags: ["SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
 summary: "Latest Power Platform related news, events and Community Tip. Three demos delivered – Building a SharePoint Document Library Approvals System, Microsoft Teams Approvals in Dynamics 365 using Power Automate, and How to connect Microsoft Dataverse to Microsoft Teams."
 videos:

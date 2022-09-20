@@ -6,9 +6,9 @@ githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call"]
 images:
 - images/recording-17th-feb.png
-tags: ["Office Add-ins","Extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins","SPFx Extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
 type: "regular"
-summary: "One location the Microsoft 365 tenant – script samples gallery (138 scenarios and 193 scripts) now integrated into Sample Solution Gallery!  Sign up and attend an AMA and other events this month hosted by Sharing is Caring.  Added today - Ask me anything (PnPjs 3.0 – March 15th) and don’t forget the AMA on February 22 – PnP React Controls.  Get the recognition you deserve, sign up for the PnP Recognition Program.  Released Yo teams - yoteams-build-core v1.6.0 and Microsoft Graph Toolkit (MGT) v2.3.2, and Refreshed the MGT playground!   To see current releases and latest updates/nightly builds, access the Repos via the links in table below.  There were 6 new/updated script, 46 Bot samples, 2 Power Platform samples delivered this week.   Wanted! – Teams Samples." 
+summary: "One location the Microsoft 365 tenant – script samples gallery (138 scenarios and 193 scripts) now integrated into Sample Solution Gallery!  Sign up and attend an AMA and other events this month hosted by Sharing is Caring.  Added today - Ask me anything (PnPjs 3.0 – March 15th) and don’t forget the AMA on February 22 – PnP React Controls.  Get the recognition you deserve, sign up for the PnP Recognition Program.  Released Yo teams - yoteams-build-core v1.6.0 and Microsoft Graph Toolkit (MGT) v2.3.2, and Refreshed the MGT playground!   To see current releases and latest updates/nightly builds, access the Repos via the links in table below.  There were 6 new/updated script, 46 Bot samples, 2 Power Platform samples delivered this week.   Wanted! – Teams Samples."
 videos:
 - https://www.youtube.com/watch?v=NqwmtJyDEo8
 ---
@@ -137,7 +137,7 @@ Thank you for your work. Samples are often showcased in Demos.    Request a De
 *   Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [12:32](https://youtu.be/NqwmtJyDEo8?t=752)
 *   **Demo 1**:  Introduction to Adaptive Card Studio VS Code extension – [Tim Cadenbach](https://twitter.com/TimCadenbach) | @TimCadenbach – [15:18](https://youtu.be/NqwmtJyDEo8?t=918)
 *   **Demo 2**:  Solving reCaptcha with Power Automate Desktop – [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | [@TomaszPoszytek](/t5/user/viewprofilepage/user-id/335682) – [21:33](https://youtu.be/NqwmtJyDEo8?t=1293)
-*   **Demo 3**:  Bringing in your own data to Microsoft Search – [Kevin McDonnell](https://twitter.com/kevmcdonk) | @kevmcdonk  
+*   **Demo 3**:  Bringing in your own data to Microsoft Search – [Kevin McDonnell](https://twitter.com/kevmcdonk) | @kevmcdonk
     – [34:25](https://youtu.be/NqwmtJyDEo8?t=2065)
 
 ## Resources

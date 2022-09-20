@@ -6,7 +6,7 @@ githubname: Tbag
 categories: ["Power Apps community call"]
 images:
 - images/recording-power-apps-community-call-april-2022.png
-tags: [ "Extensions", "Microsoft 365", "Power Apps"]
+tags: [ "SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
 summary: "Two demos: Customer Inventory and Daily Expenses App and Introduction to Power Apps Portals.   Changes to Community and call structure, Power Platform Community events, recent news – five items.  Register for Power Platform Samples – First Time Contributor May 9th."
 videos:
@@ -23,7 +23,7 @@ with David Warner during Power Apps Community Program Manager Office Hours.
 There was live Q & A regarding program changes, dates for upcoming training and
 community events announced, recent news, PnP Community Recognition Program, and
 2 demos - Customer Inventory and Daily Expenses App and Introduction to Power
-Apps Portals. This call was hosted by [Todd 
+Apps Portals. This call was hosted by [Todd
 Baginski](http://twitter.com/toddbaginski) (Canviz) and [David Warner
 II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. The call
 was recorded on April 20, 2022. Questions additionally addressed in chat

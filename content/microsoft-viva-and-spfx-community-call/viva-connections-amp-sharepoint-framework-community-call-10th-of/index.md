@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-10th-march.png
-tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Latest news from Microsoft engineering on Microsoft 365 topics; Three demos: Siddharth Vaghasia -- My Emails Viva Connections Adaptive Card Extension, Yves Habersaat -- Getting started with Microsoft Graph Toolkit and SharePoint Framework, Paolo Pialorsi -- Using Microsoft Graph APIs in Viva Connection ACEs"
 videos:
@@ -34,7 +34,7 @@ Viva Connections & SharePoint Framework bi-weekly community call recording from 
     *   **CLI for Microsoft 365** – v5.1 preview
 *   2 ACE samples were delivered in the last two weeks!  Your contributions are greatly appreciated by members of this community.
 
-## Latest project updates 
+## Latest project updates
 
 (**Bold** indicates update from previous report 2 weeks ago) 
 
@@ -77,11 +77,11 @@ Thank you for joining the call today and/or for viewing the recording.  Can any
 ## Demos
 
 *   **My Emails Viva Connections Adaptive Card Extension** – this Adaptive Card Extension (ACE) displays emails for the currently logged in user.  Walk through code to see how to get the current user’s email message from the Graph and render it in SPFx ACE Card View with previous and next buttons to navigate between emails.  Demonstrates how to modify Quick View to display email detail on click of any Email from Card View.   
-    
+
 *   **Getting started with Microsoft Graph Toolkit and SharePoint Framework** – use Microsoft Graph Toolkit (MGT) together with SharePoint Framework (SPFx) and custom templates to display agendas, files, tasks, messages and more.  Set up your environment - install mgt-spfx, mgt-spfx npm, and mgt React components packages.  Instantiate the SharePointProvider.  Finally, import selected MGT React components into your web part and grant permissions to SPO.   See how presenter uses GET component and renders results in custom templates.    
-    
+
 *   **Using Microsoft Graph APIs in Viva Connection ACEs** – learn how you can consume Microsoft Graph APIs within ACEs.  Use Graph in an ACE to read from and write to calendar.  Step through configuring webApiPermissionRequests in package-solution.json file, granting permissions via SPO Admin UI and consuming Microsoft Graph via SPFx context object (MSGraphClient) and binding the data to the UI of CardView(s) and/or QuickView(s).  Deploy solution with sppkg package with stated permissions requirements.  
-    
+
 
 ## SPFx extension samples
 
@@ -212,4 +212,3 @@ _“Sharing is caring”_
 * * *
 
 _Microsoft 365 PnP team, Microsoft - 11th of March 2022_
-

@@ -6,7 +6,7 @@ githubname: Uchemena
 categories: ["Community post"]
 images:
 - images/Microsoft-365.jpg
-tags: ["Microsoft 365 Developer Account", "Microsoft 365"]
+tags: ["Microsoft 365"]
 type: "regular"
 draft: false
 ---
@@ -162,5 +162,3 @@ If its still showing Default environment
 
 
 If you have any question feel free to reach out to me on [Linkedln](https://www.linkedin.com/in/rachelirabor/) and [Twitter](https://twitter.com/Richie4love)
-
-

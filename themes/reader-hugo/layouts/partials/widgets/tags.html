@@ -4,9 +4,9 @@
   {{- if isset site.Taxonomies "tags" }}
   {{- if not (eq (len site.Taxonomies.tags) 0) }}
   <ul class="list-inline widget-list-inline widget-card">
-    {{- range $name, $items := site.Taxonomies.tags }}
+    {{- range site.Taxonomies.tags }}
     <li class="list-inline-item"><a
-        href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | humanize }}</a></li>
+        href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
     {{- end }}
   </ul>
   {{- end }}

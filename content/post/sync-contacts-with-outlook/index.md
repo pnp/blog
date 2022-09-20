@@ -13,7 +13,7 @@ categories: ["Community post"]
 images:
 - images/Contacts with Outlook.png
 # don't change
-tags: ["Outlook","Graph"]
+tags: ["Outlook","Microsoft Graph"]
 # don't change
 type: "regular"
 ---

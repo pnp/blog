@@ -7,7 +7,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-27th-jan.png
-tags: ["Adaptive Cards", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["Adaptive Cards", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=WkFVkFKPDMc
@@ -76,9 +76,9 @@ Thank you for joining the call today and/or for viewing the recording.  Awesome
 ## Demos
 
 *   **CRUD Operations in Viva Connections – Adaptive Card Extensions with SharePoint Framework** – Creating, Reading, Updating, and Deleting data through an ACE that handles (reformats as necessary) data formatting (strings, arrays, time) from all field types in a SharePoint list.  On CardView, there are buttons for “view items” in list and “add item” to list.  From a QuickView card, call separate Display, Edit, New cards.  Appreciate code for navigating between cards and for data reformatting.  
-    
+
 *   **Viva Connections – Data Binding in SPFx Adaptive Card Extensions –** the fundamentals – data is stored in properties and state, CardView renders a limited set of information, and QuickView renders as much data as you like (many formatting options including conditional and JSON parsing).  Step through various samples showing the many functions, keywords, properties in the Adaptive Card syntax used for dynamically formatting and rendering data.  Last sample shows rendering user data from Graph into a QuickView card. 
-    
+
 *   **SPFx Design Guidance – Property pane input validation and error messages –** custom properties (part 4).  Help users give you the right information for best and most secure user experience.  Best error messages are non-dramatic and helpful.  Validate inputs using _onGetErrorMessage_ attribute.  Avoid throttling issue by not validating user’s every key stroke, give user time to type using _deferredValidationTime_ attribute, then validate.  Validation often requires checking on the existence of list or data before validation can occur.
 
 ## SPFx extension samples
@@ -119,11 +119,11 @@ Thank you for your great work.  Samples are often showcased in Demos.    
 ## Demos
 
 *   **Demo 1**:  CRUD Operations in Viva Connections – Adaptive Card Extensions with SharePoint Framework – [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | [@Spdcp](/t5/user/viewprofilepage/user-id/386549) – [13:46](https://youtu.be/WkFVkFKPDMc?t=826) 
-    
+
 *   **Demo 2**:  Viva Connections – Data Binding in SPFx Adaptive Card Extensions – [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia – [21:37](https://youtu.be/WkFVkFKPDMc?t=1297)
-    
+
 *   **Demo 3**:  SPFx Design Guidance – Property pane input validation and error messages – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh – [41:39](https://youtu.be/WkFVkFKPDMc?t=2499) 
-    
+
 
 ## Resources
 
@@ -133,9 +133,9 @@ Additional resources around the covered topics and links from the slides.
 *   **D1**:  Samples - [ace-cardgallery](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ace-cardgallery) 
 *   **D2**:  Documentation/Tools - [A whole new way to deliver UI](https://adaptivecards.io/) 
 *   **D2**:  Documentation - [Adaptive Cards Template Language](https://docs.microsoft.com/adaptive-cards/templating/language) 
-    
+
 *   **D2**:  Samples - [Conferences-Samples](https://github.com/PiaSys/Conferences-Samples/tree/master/ACEs) 
-    
+
 *   **D3**:  Documentation - [Validate web part property values](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/validate-web-part-property-values) 
 *   **D3**:  Documentation - [Make your SharePoint client-side web part configurable](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/basics/integrate-with-property-pane) 
 *   **D3**:  Documentation - [Integrate web part properties with SharePoint](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/integrate-web-part-properties-with-sharepoint) 
@@ -145,9 +145,9 @@ Additional resources around the covered topics and links from the slides.
     *   [SPFx Design Patterns – Custom Properties (Part 1)](https://youtu.be/8QrZOw4UmL0) – 4 November
     *   [SPFx Design Patterns – Property Panes](https://youtu.be/L1b812A-U-E) \- 21 October
 *   **PnP Weekly – Episode 150** (January 24th) with London, UK-based SharePoint developer architect and MVP, [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-150-%E2%80%93-24th-of-january-2022/)
-    
+
     **PnP Weekly – Episode 149** (January 17th) with Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph, [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/)
-    
+
 
 ## General Resources
 
@@ -155,7 +155,7 @@ Additional resources around the covered topics and links from the slides.
 *   Archives - Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
 *   Tools - [Teams Toolkit (v2.2 Preview)](https://aka.ms/teams-toolkit) 
 *   Tools - [Microsoft Teams Framework (TeamsFx)](https://github.com/officedev/teamsfx) 
-    
+
 *   Gallery - [Microsoft 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)   
 *   [Microsoft Build sessions guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital Brochure) - aka.ms/modernworkbuildsessions
 *   SharePoint Framework - v1.12.1 npm install –g @microsoft/generator-sharepoint@next
@@ -226,4 +226,3 @@ _“Sharing is caring”_
 * * *
 
 _Microsoft 365 PnP team, Microsoft - 28th of January 2022_
-

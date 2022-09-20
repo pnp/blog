@@ -6,14 +6,14 @@ githubname: WaldekMastykarz
 categories: ["Community post"]
 images:
 - images/banner-mgt-login-single-tenant-azure-ad.png
-tags: ["Microsoft Graph toolkit"]
+tags: ["Microsoft Graph Toolkit"]
 type: "regular"
 ---
 When using Microsoft Graph Toolkit with Azure AD single-tenant Azure AD
 apps, you need to adjust MSAL Provider initiation for your app to work.
 Here is how.
 
-## Microsoft Graph Toolkit - the easiest way to connect to Microsoft 365 
+## Microsoft Graph Toolkit - the easiest way to connect to Microsoft 365
 
 [Microsoft Graph
 Toolkit](https://docs.microsoft.com/graph/toolkit/overview?WT.mc_id=m365-12257-wmastyka)
@@ -30,7 +30,7 @@ you can use the
 package which wraps MGT web component in React components making it
 easier to pass complex data and hook the components up to events.
 
-## Before you begin, connect to Azure AD 
+## Before you begin, connect to Azure AD
 
 Microsoft Graph Toolkit allows you to connect your app to Microsoft 365
 through [Microsoft
@@ -57,7 +57,7 @@ Providers.globalProvider = new MsalProvider({
 
 In some cases though, this setup is not enough.
 
-## Single- vs. multi-tenant Azure AD apps 
+## Single- vs. multi-tenant Azure AD apps
 
 When you create an Azure AD app, you choose whether you want the
 application to be single- or multi-tenant. In other words, whether users
@@ -71,7 +71,7 @@ The side-effect is though, that if you want to use a single-tenant Azure
 AD app with Microsoft Graph Toolkit, you need to instruct it where your
 Azure AD app is registered.
 
-## Use single-tenant Azure AD apps with Microsoft Graph Toolkit 
+## Use single-tenant Azure AD apps with Microsoft Graph Toolkit
 
 If you try to use a single-tenant Azure AD with Microsoft Graph Toolkit
 using the default MSAL Provider setup with just the `clientId`, when you

@@ -7,7 +7,7 @@ githubname: "vesajuvonen"
 categories: ["Microsoft 365 platform call"]
 images:
 - images/recording-1st-march.png
-tags: ["Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=fUElSw9OQN8
@@ -67,11 +67,11 @@ And now we are in the month of March.  Everyone looks great.  Thank you for jo
 ## Demos
 
 *   **What's new with Profile Photos API on Microsoft Graph** – learn about Microsoft Graph v1 improvements that significantly address User Profile Photo incoherence.   Graph now supports enterprise and consumer user photos, larger photos (for hi-def), Weak eTags, and If-None-Match.  Additionally, more Microsoft apps across Microsoft 365 are accessing photos through Graph.  Graph is becoming single photo endpoint for 1st and 3rd party applications.  Access photos in Graph using me, ID or principal name.   
-    
+
 *   **Engineering update on SharePoint Framework - 1.14 and next steps** – continuing evolution of SPFx experiences in Microsoft 365 across Teams and Viva Connections canvases.   Rundown on capabilities delivered in SPFx v1.14 and on capabilities being built for v1.15 to be released in phases.  Two items shown - Command Set API update for ListViewAccessor (update asynchronously for list state changes) and a new action called VivaAction.SelectMedia providing media upload capabilities on an Adaptive Card Extension. 
-    
+
 *   **Building Microsoft Graph Toolkit apps with React** – MGT is Framework agnostic.   If you're building apps with React, you can use Microsoft Graph Toolkit React components (mgt-react).   To get started - create a react app, select an MSAL provider for authentication and use MGT react components in your code.   MGT react components look and behave like native react.  In this demo, presenter looks at Login, Agenda, FileList and Get (for customizations) components.   
-    
+
 
 Thank you for your creativity and work execution.   Samples are often showcased in Demos.
 
@@ -153,4 +153,3 @@ _“Sharing is caring”_
 * * *
 
 _Microsoft 365 PnP team, Microsoft - 2nd of March 2022_
-

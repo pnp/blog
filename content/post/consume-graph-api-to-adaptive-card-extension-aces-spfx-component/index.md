@@ -6,7 +6,7 @@ githubname: dips365
 categories: ["Community post"]
 images:
 - images/People1.jpg
-tags: ["SharePoint framework (SPFx)", "Adaptive card extensions", "Microsoft Graph"]
+tags: ["SharePoint framework (SPFx)", "SPFx Adaptive Card Extensions", "Microsoft Graph"]
 type: "regular"
 ---
 
@@ -146,7 +146,7 @@ export class MMPServie implements IMMPService {
                         officeLocation: o.officeLocation,
                         preferredLanguage: o.preferredLanguage,
                         surname: o.surname,
-                        userPrincipalName: o.userPrincipalName 
+                        userPrincipalName: o.userPrincipalName
                     });
                 });
             }
@@ -283,7 +283,7 @@ public get cardButtons(): [ICardButton] | [ICardButton, ICardButton] | undefined
   public get data(): IBasicCardParameters {
     const { givenName, mail,displayName } = this.state.currentConfig.members[this.state.currentIndex];
     return {
-      primaryText: `Display Name: ${displayName} | mail: ${mail}`, 
+      primaryText: `Display Name: ${displayName} | mail: ${mail}`,
     };
   }
   public get onCardSelection(): IQuickViewCardAction | IExternalLinkCardAction | undefined {
@@ -308,7 +308,7 @@ export interface IQuickViewData {
   subTitle: string;
   title: string;
   description: string;
-  item: IMyTeam; // Add it 
+  item: IMyTeam; // Add it
 }
 ```
  
@@ -351,12 +351,12 @@ public get template(): ISPFxAdaptiveCard {
                 {
                   "type": "TextBlock",
                   "text": "Surname: ${surname}",
-                  "spacing": "Small" 
+                  "spacing": "Small"
                 },
                 {
                   "type": "TextBlock",
                   "text": "Given Name: ${givenName}",
-                  "spacing": "Small" 
+                  "spacing": "Small"
                 },
                 {
                   "type": "TextBlock",

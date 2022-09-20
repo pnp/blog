@@ -7,7 +7,7 @@ githubname: "siddharth-vaghasia"
 categories: []
 images:
 - images/img_61d1fb4343467.png
-tags: ["Adaptive card extensions", "API data","SharePoint Framework (SPFx)"]
+tags: ["SPFx Adaptive Card Extensions", "SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -98,7 +98,7 @@ Add a new method `getOutlookData` to make Graph API call and set State of `curre
 
 ```typescript
 private getOutlookData(){
-    
+
     this.context.msGraphClientFactory.getClient().then((client: MSGraphClient): void => {
         client.api("/me/mailfolders/Inbox/messages").get((error, messages: any) => {
         console.log(messages);
@@ -184,7 +184,7 @@ public onAction(action: IActionArguments): void {
             break;
         }
         case 'default' : {}
-            
+
         }
     }
     }
@@ -203,7 +203,7 @@ If you notice here
 *   For user photo, we are using the userphoto.aspx page and passing the sender’s email address. this is one of the way to get photo
 *   We have also added one button in Quick view which will take user to target outlook email link, this we get from webLink property of email object.
 *   To find list of properties returned by the email object, you can refer to this  [link](https://docs.microsoft.com/graph/api/resources/message?view=graph-rest-1.0#properties)
-    
+
 ```json
 {
     "type": "AdaptiveCard",
@@ -269,9 +269,9 @@ If you notice here
     "version": "1.3"
 }
 ```
-    
+
 ## Step Modify QuickView to pass the message object from state to Adaptive Card
-    
+
 Go to `src\adaptiveCardExtensions\graphdatademo\quickView\QuickView.ts`
 
 Modify `IQuickViewDate` interface to hold the message object

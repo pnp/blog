@@ -5,9 +5,9 @@ date: 2022-02-25T05:44:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
-images: 
+images:
 - images/recording-24th-feb.png
-tags: ["Adaptive Cards", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["Adaptive Cards", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=9ofUQax_Fio
@@ -21,7 +21,7 @@ Viva Connections & SharePoint Framework bi-weekly community call recording from 
 
 *   Tune in each Tuesday for the [Microsoft 365 platform community call](https://aka.ms/m365-dev-call).  Next call on the 1st of March @ 8 AM PT
     *   Latest news from Microsoft engineering on Microsoft 365 topics
-    *   **Harald Liavaag** - What’s new with  
+    *   **Harald Liavaag** - What’s new with
         Profile Photos API on Microsoft Graph 
     *   **Sébastien Levert** - Building MGT apps with React
     *   **Luca Bandinelli** and **John Nguyen** - Engineering update on SharePoint Framework - 1.14 and next steps 
