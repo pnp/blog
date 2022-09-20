@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 179"
 summary: "Netherlands-based Global XR Technology Lead - Alexander Meijers (Avanade), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a present/future discussion about the XR/metaverse space, opportunities, and the killer app for office workers. 14 articles/videos by Microsoft/Community are highlighted."
-date: 2022-08-30T02:00:01-00:00
+date: 2022-09-19T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -10,7 +10,7 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=uHGnHdL2oLg
-draft: true
+draft: false
 ---
  
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands-based Global XR Technology and Metaverse Lead - [Alexander Meijers](https://twitter.com/ameijers) (Avanade) \| @ameijers.
