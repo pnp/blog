@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 Platform Community (PnP) - September 2022 update
-date: 2022-09-15T08:30:55.909Z
+date: 2022-09-27T08:30:55.909Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -47,6 +47,7 @@ The initiative is facilitated by Microsoft, but we have multiple community membe
 Here are the latest blog posts and announcements around Microsoft 365 development topics from [https://developer.microsoft.com/microsoft-365/blogs](https://developer.microsoft.com/microsoft-365/blogs)
 
 
+* 14th of September - [Priority Matrix improves user activation through Universal Actions for Adaptive Cards](https://devblogs.microsoft.com/microsoft365dev/priority-matrix-improves-user-activation-through-universal-actions-for-adaptive-cards/) by [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) | @fabianwilliams
 * 8th of September - [Start your journey to becoming a Microsoft 365 developer](https://devblogs.microsoft.com/microsoft365dev/start-your-journey-to-becoming-a-microsoft-365-developer/) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * 31st of August - [Account linking with Microsoft Teams single sign-on](https://devblogs.microsoft.com/microsoft365dev/account-linking-with-microsoft-teams-single-sign-on/) by Aditya Challapally
 * 30th of August - [Public preview of SharePoint Framework 1.16 – First release of upcoming features](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-16-first-release-of-upcoming-features/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
@@ -56,9 +57,12 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 
 ### Microsoft 365 Platform Community Blog
 
-Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
+Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pp/community/blog)
 
 
+* 14th of September - [Unboxing the SharePoint Framework (SPFx) v1.15.2 release](https://pnp.github.io/blog/post/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* 13th of September - [How to generate an HTML table with the output of a SQL Server query and send it from Outlook by using Power Platform](https://pnp.github.io/blog/post/how-to-generate-an-html-table-with-sql-server-query-and-send-from-outlook-with-using-power-platform/) by Duvan Baena | DuvanBaena 
+* 11th of September - [CLI for Microsoft 365 - how cool is that? - Configuring settings](https://pnp.github.io/blog/post/cli-how-cool-is-that-config-settings/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam258587
 * 8th of September - [Patterns and Practices for SPFx Development](https://pnp.github.io/blog/post/patterns-and-practices-for-spfx-development/) by [Dipesh Bhanani](https://twitter.com/AskDipesh) | @AskDipesh
 * 4th of September - [How do you monitor Azure resources with Power Platform](https://pnp.github.io/blog/post/how-to-monitor-azure-resources-with-power-platform/) by Duvan Baena | DuvanBaena 
 * 4th of September - Series: [Build Power Apps that don't look like Power Apps - Material Design part 2](https://pnp.github.io/blog/post/build-powerapps-that-dont-look-like-powerapps-2/) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
@@ -68,6 +72,12 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 ### Community call recording blog posts
 
+* 21st of September - [Power Platform Community Call – September 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-september-2022/)
+* 20th of September - [Microsoft 365 Platform Community Call - 20th of September, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-09-20/)
+* 15th of September - [Microsoft Identity Platform community call – September 2022](https://pnp.github.io/blog/microsoft-identity-platform-community-call/microsoft-identity-platform-community-call-september-2022/)
+* 15th of september -  [Microsoft 365 & Power Platform Development Community call - 15th of September, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-09-15/)
+* 13th of September - [Microsoft 365 Platform Community Call - 13th of September, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-09-13/)
+* 8th of September - [Adaptive Cards community call – September 2022](https://pnp.github.io/blog/adaptive-cards-community-call/adaptive-cards-community-call-september-2022/)
 * 6th of September - [Microsoft 365 Platform Community Call - 6th of September, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-09-06/)
 * 1st of September - [Microsoft 365 & Power Platform Development Community call - 1st of September, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-09-01/)
 * 25th of September - [Viva Connections & SharePoint Framework Community Call – 25th of August, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-08-25/)
@@ -84,6 +94,9 @@ In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Mi
 
 PnP Weekly is a recurrent podcast with visitors where Vesa and Waldek talk about the latest news and announcements in Microsoft 365 and SharePoint areas.
 
+
+* 19th of September - [Microsoft 365 PnP Weekly - Episode 179 - Alexander Meijers](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-179/)
+* 12th of September - [Microsoft 365 PnP Weekly - Episode 178 - Paul Hunt](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-178/)
 * 5th of September - [Microsoft 365 PnP Weekly - Episode 177 - Kevin McDonnell](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-177/)
 * 30th of August - [Microsoft 365 PnP Weekly - Episode 176 - Daniel Laskewitz](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-176/)
 * 23rd of August - [Microsoft 365 PnP Weekly - Episode 175 - Gavin Barron](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-175/)
@@ -692,6 +705,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   xDivyanka Malik (Microsoft)
 *   Eoin O'Brien (Microsoft) 
 *   x[Erin Bailie](https://twitter.com/EMBailie) (Microsoft) | @EMBailie
+*   [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) | @fabianwilliams
 *   [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 *   [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
 *   xGloria Sánchez (Microsoft) 
@@ -747,7 +761,7 @@ Thank you for all that you do!
 
 *   [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
 *   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
-*   Geetha Sivasailam](<https://twitter.com/gsived>) (Artis Consulting) | [@gSiVed
+*   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | [@gSiVed
 *   [Julie Turner](https://twitter.com/jfj1997)(Sympraxis Consulting) | @Jfj1997
 *   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 *   [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
