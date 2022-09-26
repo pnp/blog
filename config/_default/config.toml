@@ -18,7 +18,10 @@ enableEmoji = true
 
 # Image Processing Config
 [imaging]
-quality = 75
+quality = 100
+
+
+
 
 ############################# Outputs ##############################
 [outputs]
