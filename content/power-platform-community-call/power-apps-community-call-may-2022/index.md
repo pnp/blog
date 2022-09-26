@@ -6,7 +6,7 @@ githubname: PopWarner
 categories: ["Power Apps community call"]
 images:
 - images/powerplatform-may-2022-call-promo.png
-tags: ["Extensions", "Microsoft 365", "Power Apps"]
+tags: ["SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
 summary: "Demos: Automatically generate technical documentation of your Power Apps and Power Automate Flows, Streamline Annual Document Reviews with Power Apps, and Power Platform and Microsoft Teams- Create a 'back-channel'​ internal chat for any meeting. Articles and trainings reviewed."
 videos:

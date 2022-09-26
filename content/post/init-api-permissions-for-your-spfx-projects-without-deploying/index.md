@@ -6,7 +6,7 @@ githubname: michaelmaillot
 categories: ["Community post"]
 images:
 - images/peoplepicker-ui-fail.png
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -33,18 +33,18 @@ you should update your `package-solution.json` file to add required
 permissions and allow them (or ask for validation) in the *API
 access* page.
 
-## Prerequisites 
+## Prerequisites
 
 1.  An Office 365 (Dev) Tenant or a Partner Demo Tenant
 2.  The following Azure AD role at least
     -   Application Administrator
 
-## With Graph API 
+## With Graph API
 
 First, we're going to play with Graph API through the [Microsoft Graph
 Toolkit](https://docs.microsoft.com/fr-fr/graph/toolkit/overview).
 
-### Prepare your sample 
+### Prepare your sample
 
 Init a SPFx project (WebPart one with React, let's call it *HelloApi*),
 then add the Microsoft Graph Toolkit by
@@ -83,7 +83,7 @@ export default class HelloApi extends React.Component<IHelloApiProps, {}> {
 }
 ```
 
-### Run it in remote workbench 
+### Run it in remote workbench
 
 Now run your sample with `gulp serve` and display your web part in your
 remote workbench
@@ -100,7 +100,7 @@ As you can see, it's a 403 error, which is well-known when using Graph
 API endpoints that have not been allowed on the first place.
  
 
-### Add Graph API through UI 
+### Add Graph API through UI
 
 From the Azure portal, display the *Azure Active Directory* (AAD), then
 select the **App Registration** menu and select **All Applications**,
@@ -137,14 +137,14 @@ Don't be surprised if by that way, the permission appears in the
 \"Other permissions granted for \[your tenant\]\": it won't prevent
 your SPFx solution to work.
 
-### Try again 
+### Try again
 
 Now try to use the `PeoplePicker` component again: you'll see that with
 the addition of the Graph API permission, you should be able to use that
 component!
 ![peoplepicker-ui-success.png](images/peoplepicker-ui-success.png)
 
-## With custom API 
+## With custom API
 
 When using a custom API, it's a little bit more tricky but easy to
 handle anyway.
@@ -158,7 +158,7 @@ Instead of bundling and shipping, we'll add the AAD App
 created from the Azure Function Authentication part in the SharePoint
 Service Principal.
 
-### Add your AAD Application to the SharePoint Service Principal 
+### Add your AAD Application to the SharePoint Service Principal
 
 Display again the AAD page, then select the **App Registration** menu,
 select **All Applications** and select  **SharePoint Online Client

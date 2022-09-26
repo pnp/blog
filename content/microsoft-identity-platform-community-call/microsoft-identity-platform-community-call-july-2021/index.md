@@ -2,7 +2,7 @@
 title: "Microsoft Identity Platform community call -- July 2021"
 date: 2021-07-21T12:11:00-04:00
 author: "Andrew Benson"
-categories: ["Microsoft Identity platform community call"]
+categories: ["Microsoft identity platform community call"]
 images:
 - images/ViewPorter.png
 tags: []

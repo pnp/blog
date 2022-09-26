@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-2022-07-28.png
-tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Demos on Using OneDrive File Picker v8 control in your solution & How to create
 custom list forms with SPFx. Released [CLI for Microsoft
@@ -19,7 +19,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the bi-weekly call focused on Microsoft 365 client-side development.  In this call, we focus on using Viva Connections and SharePoint Framework to build solutions for Microsoft Teams and SharePoint Online. 
+Welcome to the bi-weekly call focused on Microsoft 365 client-side development.  In this call, we focus on using Viva Connections and SharePoint Framework to build solutions for Microsoft Teams and SharePoint Online.
 
 ### New this week
 
@@ -87,7 +87,7 @@ call.
 
 Hands waving and faces smiling, clearly shouting: “Hello Community.”  Hope you’re
 having a great summer! Join the calls when you are able, view the recordings
-anytime. Cheers!   
+anytime. Cheers!
 
 ## Actions
 
@@ -146,7 +146,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 **PnP Project**|**Current version**|**Release/Status**
 ---|---|---
 SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.16 preview late July/early August, v1.16 GA September
-[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v2.13 GA, v3.5.1 GA|Version 3.6 to be released Aug 12th 
+[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v2.13 GA, v3.5.1 GA|Version 3.6 to be released Aug 12th
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)|v4.3.0 GA, v5.5.0 GA|
 [Reusable SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react)|v3.9.0, v2.9.0 (SPFx v1.11)|
 [Reusable SPFx React Property Controls](https://github.com/pnp/sp-dev-fx-property-controls)|v3.8.0, v2.7.0 (SPFx v1.11)|
@@ -233,4 +233,3 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 *Microsoft 365 PnP team, Microsoft - 28th of July 2022*
 
 {{< attachments >}}
-

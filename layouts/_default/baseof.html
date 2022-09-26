@@ -29,7 +29,7 @@
 	<!-- cache partial only in production -->
 	{{ if hugo.IsProduction }}
 	{{ partialCached "script.html" . }}
-	{{ partial "footer.html" . }}
+	{{ partialCached "footer.html" . }}
 	{{ else }}
 	{{ partial "script.html" . }}
 	{{ partial "footer.html" . }}

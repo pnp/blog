@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-19th-may.png
-tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Demos:  Building Office Locations Viva Connections Adaptive Card Extension with SPF, and Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions.     Released PnPjs Client-Side Libraries v3.3.2 GA and CLI for Microsoft 365 v5.3.0 beta."
 videos:
@@ -56,7 +56,7 @@ call.
 
 ![220519-together-mode.gif](images/220519-together-mode.gif)
 
-Thank you for joining today and for being part of this awesome community, really pleased to have you here again. 
+Thank you for joining today and for being part of this awesome community, really pleased to have you here again.
 
 ## Actions
 
@@ -184,4 +184,3 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 *Microsoft 365 PnP team, Microsoft - 19th of May 2022*
 
 {{< attachments >}}
-

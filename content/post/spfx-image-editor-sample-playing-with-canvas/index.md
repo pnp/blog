@@ -5,7 +5,7 @@ author: "Peter Paul Kirschner"
 categories: ["Community post"]
 images:
 - images/Screenshot 2021-03-22 at 21.42.06.png
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -120,7 +120,7 @@ const img= new Image()
   const oldheight =c.height = img.height;
   const degree=20;
   const radian=degree*Math.PI/180 //Radian
-  
+
   const a = oldwidth * Math.abs(Math.cos(radian));
   const b =  oldheight * Math.abs(Math.sin(radian));
   const p = oldwidth * Math.abs(Math.sin(radian));
@@ -132,18 +132,18 @@ const img= new Image()
    const offsetheight = (newheight - oldheight) / 2;
     c.width = newwidth;
     c.height = newheight;
-  
+
   ctx.translate(newwidth/2,newheight/2);
   ctx.rotate(radian);
   ctx.translate(-newwidth/2,-newheight/2);
-  
+
   ctx.fillStyle = "#0078d4";
   ctx.fillRect(offsetwidth,offsetheight,oldwidth,oldheight);
-  
+
   ctx.drawImage(img, offsetwidth, offsetheight);
    ctx.font = "30px Arial";
   ctx.strokeText("Hello PnP-Community",offsetwidth+10,offsetheight+50);
-  
+
 }
 ```
 
@@ -157,4 +157,3 @@ Try it [sp-dev-fx-webparts/samples/react-image-editor at master ·
 pnp/sp-dev-fx-webparts
 (github.com)](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-image-editor)
  
-

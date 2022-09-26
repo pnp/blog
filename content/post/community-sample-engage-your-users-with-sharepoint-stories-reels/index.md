@@ -6,7 +6,7 @@ githubname: luismanez
 categories: ["Community post"]
 images:
 - images/6-component-did-mount.png
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 

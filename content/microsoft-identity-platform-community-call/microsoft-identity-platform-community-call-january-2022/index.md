@@ -1,9 +1,9 @@
 ---
 title: Microsoft Identity Platform community call – January 2022
-tags: ["Microsoft 365", "Azure", "Microsoft Identity Platform"]
+tags: ["Microsoft 365", "Azure", "Microsoft identity Platform"]
 date: 2022-01-24T05:15:00-05:00
 author: "Steven Salazar Aray"
-categories: ["Microsoft Identity platform community call"]
+categories: ["Microsoft identity platform community call"]
 images:
 - images/identity-call-Thumbnail-January-2022.png
 type: "regular"
@@ -40,11 +40,11 @@ This month’s in-depth topic:  **Secure DevOps with the Microsoft Identity pl
 ## Resources in General
 
 *   Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/) 
-    
+
 *   Microsoft Security - [Integrate modern identity capabilities into your apps](https://www.microsoft.com/security/business/identity-access-management/microsoft-identity-management-platform) 
-    
+
 *   Developer – [Microsoft Identity Platform](https://developer.microsoft.com/identity)
-    
+
 
 ## Stay connected
 

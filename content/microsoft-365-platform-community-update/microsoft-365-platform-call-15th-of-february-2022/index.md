@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
 images:
 - images/recording-15th-feb.png
-tags: ["Office Add-ins", "Extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=9w2L3-7sCDI
@@ -75,11 +75,11 @@ Thank you everybody for joining the call today, for being part of this community
 ## Demos
 
 *   **Introduction to Microsoft Information Protection Policy APIs** – MIP capabilities help organizations to classify, label, manage and protect data based on [sensitivity](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels).  Learn about the MIP SDK (File, Policy and Protection SDKs).  Microsoft Graph exposes MIP Policy APIs - policy-specific functionality and resolves state to Actions (add a header/footer, add metadata…).   Graph (Beta) endpoint Policy APIs reviewed - Get Labels, Evaluate (add/remove labels), Extract Label (metadata), are moving to Graph this week.      
-    
+
 *   **Latest on Cloud Hybrid Search (SSA) & Graph connectors​ for indexing content from on-premises** – Cloud Hybrid Search a.k.a. Cloud SSA, creates a single cloud-based index and interleaves search content from multiple internal/external sources in results.  Alternatively, Microsoft Search powered by Microsoft Graph uses Graph connectors (3 types) to bring in data from sources.  See search experiences that use Graph connectors rolling out in 2022 - Intelligent Discovery, Viva Topics, Context IQ, etc.   Sign-up for Graph connectors SDK Preview. 
-    
+
 *   **Using the Microsoft Graph Toolkit Get Component in your solutions** – the very flexible all-purpose GET query allows developers to connect to any endpoint in Microsoft Graph and render the MTTs from Graph directly inside your UI.  E-mail and files explorer experiences are showcased.  E-mail – get, read, write, delete, and the best part, you can customize the UI layout to your exact requirements.  Files explorer is built using hTWOo and uses MGT.    
-    
+
 
 Thank you for your creativity and work execution.   Samples are often showcased in Demos.
 
@@ -176,4 +176,3 @@ _“Sharing is caring”_
 * * *
 
 _Microsoft 365 PnP team, Microsoft - 16th of February 2022_
-

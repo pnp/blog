@@ -8,7 +8,7 @@ categories:
 # TODO Insert image
 images:
 - images/monthly-summary-may-2022.png
-tags: ["Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
 type: default
 ---
 

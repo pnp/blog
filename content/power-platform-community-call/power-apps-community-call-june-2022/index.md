@@ -6,7 +6,7 @@ githubname: PopWarner
 categories: ["Power Apps community call"]
 images:
 - images/powerplatform-monthly-call-promo-june-2022.png
-tags: ["Extensions", "Microsoft 365", "Power Apps"]
+tags: ["SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
 summary: "Latest Power Platform related news and events. Welcome Hugo Bernier - Community Program Manager for Power Pages. Two brilliant demos delivered – Taking your Power Apps mobile navigation UI to the next level! And Power to the Pages – Introduction to Power Pages!"
 videos:
@@ -42,7 +42,7 @@ Latest updates and news on Power Platform including community events, training o
 
 ![Attendees waving hands in Microsoft Teams together mode picture](images/220615-together-mode.gif)
 
-Hello extended Power Platform community! This picture conveys many words – excited, committed, empowered. You are absolutely amazing! Thank you for being part of this community. 
+Hello extended Power Platform community! This picture conveys many words – excited, committed, empowered. You are absolutely amazing! Thank you for being part of this community.
 
 ## Actions
 

@@ -6,7 +6,7 @@ githubname: PopWarner
 categories: ["Power Apps community call"]
 images:
 - images/powerplatform-august-recording-promo.png
-tags: ["Extensions", "Microsoft 365", "Power Apps"]
+tags: ["SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
 summary: "Latest Power Platform related news, events and Community Tip. Demos - Using Forms and Power Automate to Upgrade your Customer Onboarding Experience, Building a Time Sheeting Power Apps canvas app using Dataverse, and Connecting Power Pages to your Dataverse data."
 videos:
