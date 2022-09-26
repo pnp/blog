@@ -9,7 +9,7 @@
     <!-- left sidebar -->
     {{ if eq $sidebar "left" }}
     <aside class="col-lg-4 order-2 order-lg-1 {{.Scratch.Get `sidebar-margin`}}">
-      {{- partial "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
+      {{- partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
     </aside>
     {{ end }}
     <!-- /left sidebar -->
@@ -388,7 +388,7 @@
     <!-- right sidebar -->
     {{ if eq $sidebar "right" }}
     <aside class="col-lg-4 {{.Scratch.Get `sidebar-margin`}}">
-      {{- partial "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
+      {{- partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
     </aside>
     {{ end }}
     <!-- /right sidebar -->

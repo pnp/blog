@@ -1,12 +1,30 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "microsoft-viva-and-spfx-community-call") (eq .Section "cli-for-microsoft-365") (eq .Section "cli-for-microsoft-365") (eq .Section "m365-dev-podcast") (eq .Section "microsoft-365-developer-community-call")
-(eq .Section "categories") (eq .Section "tags") (eq .Section "adaptive-card-community-call") (eq .Section "power-platform-community-call") (eq .Section "microsoft-teams-community-call") (eq .Section "microsoft-365-platform-community-update") (eq .Section "microsoft-365-pnp-weekly") (eq .Section "m365-pnp-weekly") (eq .Section "adaptive-cards-community-call") (eq .Section "microsoft-365-pnp-community") (eq .Section "office-add-ins-community-call") (eq .Section "microsoft-graph-community-call") (eq .Section "microsoft-identity-platform-community-call") (eq .Section "microsoft-365-platform-community-call") (eq .Section "pnp-powershell")}}
+{{ if or
+    (eq .Section "adaptive-cards-community-call")
+    (eq .Section "categories") (eq .Section "tags")
+    (eq .Section "cli-for-microsoft-365")
+    (eq .Section "m365-dev-podcast")
+    (eq .Section "m365-pnp-weekly")
+    (eq .Section "microsoft-365-developer-community-call")
+    (eq .Section "microsoft-365-platform-community-call")
+    (eq .Section "microsoft-365-platform-community-update")
+    (eq .Section "microsoft-365-pnp-community")
+    (eq .Section "microsoft-365-pnp-weekly")
+    (eq .Section "microsoft-graph-community-call")
+    (eq .Section "microsoft-identity-platform-community-call")
+    (eq .Section "microsoft-teams-community-call")
+    (eq .Section "microsoft-viva-and-spfx-community-call")
+    (eq .Section "office-add-ins-community-call")
+    (eq .Section "pnp-powershell")
+    (eq .Section "post")
+    (eq .Section "power-platform-community-call")
+}}
 
 {{ $sidebar:= site.Params.sidebar }}
 {{ $hasbar:= or (eq $sidebar `left`) (eq $sidebar `right`)}}
-{{ $layout:= site.Params.post_layout}}
+
 {{ $widget:= site.Params.widgets.sidebar }}
 
 
@@ -19,7 +37,7 @@
             <!-- left sidebar -->
             {{ if eq $sidebar "left" }}
             <aside class="col-lg-4 order-2 order-lg-1">
-                {{- partial "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
+                {{- partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
             </aside>
             {{ end }}
             <!-- /left sidebar -->
@@ -39,9 +57,7 @@
                                 {{ $image:= resources.Get $imgPath }}
                                 {{ $imageMD:= $image.Fill "700x330 webp" }}
                                 {{ $imageLG:= $image.Fill "510x240 webp" }}
-                                {{ $imageSM:= $image.Fill "380x180 webp" }}
                                 <picture>
-                                    <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
                                     <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 767px)">
                                     <source srcset="{{ $imageLG.Permalink }}" media="(max-width: 991px)">
                                     <source srcset="{{$imageMD.Permalink}}">
@@ -53,9 +69,7 @@
                                 {{ $image:= . }}
                                 {{ $imageMD:= $image.Fill "700x330 webp" }}
                                 {{ $imageLG:= $image.Fill "510x240 webp" }}
-                                {{ $imageSM:= $image.Fill "380x180 webp" }}
                                 <picture>
-                                    <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
                                     <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 767px)">
                                     <source srcset="{{ $imageLG.Permalink }}" media="(max-width: 991px)">
                                     <source srcset="{{$imageMD.Permalink}}">
@@ -133,7 +147,7 @@
             <!-- right sidebar -->
             {{ if eq $sidebar "right" }}
             <aside class="col-lg-4">
-                {{- partial "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
+                {{- partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
             </aside>
             {{ end }}
             <!-- /right sidebar -->
