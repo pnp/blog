@@ -47,7 +47,7 @@ m365 request --url "https://contoso.sharepoint.com/sites/project-x/_api/web/site
 
 For more information, see the [request](https://pnp.github.io/cli-microsoft365/cmd/request/) command documentation.
 
-### Manage SharePoint Online permissions and updating Content Types
+### Manage SharePoint Online permissions
 
 Managing permissions in SharePoint Online is a tedious task. With the CLI for Microsoft 365, you can manage permissions in SharePoint Online in a simple and easy way. In the current release we introduced a couple of new commands that will help you with that. The new commands allow you to add or remove role assignments on web level, removing a role assignment on listitem level and adding new role definitions.
 
@@ -69,7 +69,11 @@ To create a brand new role definition named _test_ with certain permissions, we 
 m365 spo roledefinition add --webUrl https://contoso.sharepoint.com/sites/project-x --name test --description "test description" --rights "ViewListItems,AddListItems,EditListItems,DeleteListItems"
 ```
 
-Another important change in managing SharePoint Online, is that it's now possible to update existing content types.
+For more information, see the [spo web roleassignment add](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-roleassignment-add/), [spo web roleassignment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-roleassignment-remove/), [spo roledefinition add](https://pnp.github.io/cli-microsoft365/cmd/spo/roledefinition/roledefinition-add/) and [spo listitem roleassignment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-roleassignment-remove/) commands.
+
+### Updating content types on SharePoint
+
+Another important change in managing SharePoint Online, is that it's now possible to update existing content types. This new command comes right on time, as it can for example be used to configure the newly released SharePoint Framework Form Customizer extensions.    
 
 To move a content type to a new group, execute:
 
@@ -77,9 +81,15 @@ To move a content type to a new group, execute:
 m365 spo contenttype set --id 0x001001 --webUrl https://contoso.sharepoint.com --Group "My group"
 ```
 
-For more information, see the [spo web roleassignment add](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-roleassignment-add/), [spo web roleassignment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-roleassignment-remove/), [spo roledefinition add](https://pnp.github.io/cli-microsoft365/cmd/spo/roledefinition/roledefinition-add/), [spo listitem roleassignment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-roleassignment-remove/) and [spo contenttype set](https://pnp.github.io/cli-microsoft365/cmd/spo/contenttype/contenttype-set/) commands.
+To configure an SPFx Form Customizer extension on a content type modifying a display form, execute:
 
-### Retrieving Microsoft Graph insights
+```sh
+m365 spo contenttype set --id 0x001001 --webUrl https://contoso.sharepoint.com --DisplayFormClientSideComponentId 'e429c36f-b4ab-4a0a-a14f-e15920cdd53b' --DisplayFormClientSideComponentProperties '{ \"someProperty\": \"some value\" }'
+```
+
+For more information, see the [spo contenttype set](https://pnp.github.io/cli-microsoft365/cmd/spo/contenttype/contenttype-set/) commands documentation.
+
+### Retrieving the Microsoft Graph change log
 
 This update to the CLI for Microsoft 365 also brings extras that are useful in the developer workflow. As the API surface of the Microsoft Graph is huge, it's sometimes a lot of work to get at the latest changes in the area you are interested in. You can now retrieve specific API-level changes in the Microsoft Graph using the new `graph changelog list` command. It offers options such as digging into specific services of the Graph and querying changes within a specific timeframe. All from the command line, using the tool you're familiar with.  
 
@@ -97,11 +107,11 @@ m365 graph changelog list --services 'Security' --changeType Addition --startDat
 
 For more information, see the [graph changelog list](https://pnp.github.io/cli-microsoft365/cmd/graph/changelog/changelog-list/) command documentation.
 
-### Listing OneNote Notebooks
+### Listing OneNote notebooks
 
 This update also brings a command targeted at a new workload for the CLI for Microsoft 365: OneNote. It's now super easy to get a list of OneNote notebooks.
 
-Retrieving OneNote Notebooks for the current user is as easy as running:
+Retrieving OneNote notebooks for the current user is as easy as running:
 
 ```sh
 m365 onenote notebook list
