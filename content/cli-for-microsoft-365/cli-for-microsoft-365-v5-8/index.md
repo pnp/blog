@@ -30,7 +30,7 @@ Following our monthly release cadence, we've released a new version of the CLI f
 
 ### Execute any web request using CLI for Microsoft 365 
 
-The CLI for Microsoft 365 covers a lot of workloads and functionality. But what if you run into a situation where you need that specific functionality that's not available yet? Or what if you want to leverage your extensive knowledge of API's and call specific endpoints in your scripts. You can now use the new `request` command to do just that. Authentication and web request specifics like throttling and compression are taken care of for you. Adding things like headers and body is super easy. 
+The CLI for Microsoft 365 covers a lot of workloads and functionality. But what if you run into a situation where you need that specific functionality that's not available yet? Or what if you want to leverage your extensive knowledge of APIs and call specific endpoints in your scripts. You can now use the new `request` command to do just that. Authentication and web request specifics like throttling and compression are taken care of for you. Adding things like headers and body is super easy. 
 
 Calling the Microsoft Graph beta endpoint is as easy as running:
 
@@ -38,7 +38,7 @@ Calling the Microsoft Graph beta endpoint is as easy as running:
 m365 request --url "https://graph.microsoft.com/beta/me"
 ```
 
-Calling the SharePoint Rest API using a GET request with a constructed URL containing expands, filters and selects? It's now super easy:
+Calling the SharePoint REST API using a GET request with a constructed URL containing expands, filters and selects? It's now super easy:
 
 ```sh
 m365 request --url "https://contoso.sharepoint.com/sites/project-x/_api/web/siteusers?\$filter=IsShareByEmailGuestUser eq true&\$expand=Groups&\$select=Title,LoginName,Email,Groups/LoginName" --accept "application/json;odata=nometadata"
@@ -81,7 +81,7 @@ For more information, see the [spo web roleassignment add](https://pnp.github.io
 
 ### Retrieving Microsoft Graph insights
 
-This update to the CLI for Microsoft 365 also brings extra's that are useful in the developer workflow. As the API surface of the Microsoft Graph is huge, it's sometimes a lot of work to get at the latest changes in the area you are interested in. You can now retrieve specific API-level changes in the Microsoft Graph using the new `graph changelog list` command. It offers options such as digging into specific services of the Graph and querying changes within a specific timeframe. All from the commandline, using the tool you're familiar with.  
+This update to the CLI for Microsoft 365 also brings extras that are useful in the developer workflow. As the API surface of the Microsoft Graph is huge, it's sometimes a lot of work to get at the latest changes in the area you are interested in. You can now retrieve specific API-level changes in the Microsoft Graph using the new `graph changelog list` command. It offers options such as digging into specific services of the Graph and querying changes within a specific timeframe. All from the command line, using the tool you're familiar with.  
 
 Get a list of all changes in the Groups and Users services:
 
