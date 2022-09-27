@@ -30,7 +30,7 @@ Following our monthly release cadence, we've released a new version of the CLI f
 
 ### Execute any web request using CLI for Microsoft 365 
 
-The CLI for Microsoft 365 covers a lot of workloads and functionality. But what if you run into a situation where you need that specific functionality that's not available yet? Of what if you want to leverage your extensive knowledge of API's and call specific endpoints in your scripts. You can now use the new `request` command to do just that. Authentication and web request specifics like throttling and compression are taken care of for you. Adding things like headers and body is super easy. 
+The CLI for Microsoft 365 covers a lot of workloads and functionality. But what if you run into a situation where you need that specific functionality that's not available yet? Or what if you want to leverage your extensive knowledge of API's and call specific endpoints in your scripts. You can now use the new `request` command to do just that. Authentication and web request specifics like throttling and compression are taken care of for you. Adding things like headers and body is super easy. 
 
 Calling the Mirosoft Graph beta endpoint is as easy as running:
 
@@ -127,6 +127,7 @@ This release wouldn't be possible without the help of (in alphabetical order):
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
+- [Otto](https://github.com/berot3)
 - [Patrick Lamber](https://github.com/plamber)
 - [Vipul Kelkar](https://github.com/vipulkelkar)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
