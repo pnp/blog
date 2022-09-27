@@ -32,7 +32,7 @@ Following our monthly release cadence, we've released a new version of the CLI f
 
 The CLI for Microsoft 365 covers a lot of workloads and functionality. But what if you run into a situation where you need that specific functionality that's not available yet? Or what if you want to leverage your extensive knowledge of API's and call specific endpoints in your scripts. You can now use the new `request` command to do just that. Authentication and web request specifics like throttling and compression are taken care of for you. Adding things like headers and body is super easy. 
 
-Calling the Mirosoft Graph beta endpoint is as easy as running:
+Calling the Microsoft Graph beta endpoint is as easy as running:
 
 ```sh
 m365 request --url "https://graph.microsoft.com/beta/me"
@@ -45,7 +45,7 @@ m365 request --url "https://contoso.sharepoint.com/sites/project-x/_api/web/site
 
 ```
 
-For more information see the [request](https://pnp.github.io/cli-microsoft365/cmd/request/) command documentation.
+For more information, see the [request](https://pnp.github.io/cli-microsoft365/cmd/request/) command documentation.
 
 ### Manage SharePoint Online permissions and updating Content Types
 
@@ -77,7 +77,7 @@ To move a content type to a new group, execute:
 m365 spo contenttype set --id 0x001001 --webUrl https://contoso.sharepoint.com --Group "My group"
 ```
 
-For more information see the [spo web roleassignment add](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-roleassignment-add/), [spo web roleassignment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-roleassignment-remove/), [spo roledefinition add](https://pnp.github.io/cli-microsoft365/cmd/spo/roledefinition/roledefinition-add/), [spo listitem roleassignment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-roleassignment-remove/) and [spo contenttype set](https://pnp.github.io/cli-microsoft365/cmd/spo/contenttype/contenttype-set/) commands.
+For more information, see the [spo web roleassignment add](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-roleassignment-add/), [spo web roleassignment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-roleassignment-remove/), [spo roledefinition add](https://pnp.github.io/cli-microsoft365/cmd/spo/roledefinition/roledefinition-add/), [spo listitem roleassignment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-roleassignment-remove/) and [spo contenttype set](https://pnp.github.io/cli-microsoft365/cmd/spo/contenttype/contenttype-set/) commands.
 
 ### Retrieving Microsoft Graph insights
 
@@ -95,7 +95,25 @@ Get all security related additions to the Microsoft Graph since january 2022:
 m365 graph changelog list --services 'Security' --changeType Addition --startDate 2022-01-01
 ```
 
-For more information see the [graph changelog list](https://pnp.github.io/cli-microsoft365/cmd/graph/changelog/changelog-list/) command documentation.
+For more information, see the [graph changelog list](https://pnp.github.io/cli-microsoft365/cmd/graph/changelog/changelog-list/) command documentation.
+
+### Listing OneNote Notebooks
+
+This update also brings a command targeted at a new workload for the CLI for Microsoft 365: OneNote. It's now super easy to get a list of OneNote notebooks.
+
+Retrieving OneNote Notebooks for the current user is as easy as running:
+
+```sh
+m365 onenote notebook list
+```
+
+But it's also possible to get them for Microsoft 365 Groups:
+
+```sh
+m365 onenote notebook list --userName user1@contoso.onmicrosoft.com
+```
+
+And there are more possibilities, like getting notebooks for a specific user or SharePoint site. For more information, see the [onenote notebook list](https://pnp.github.io/cli-microsoft365/cmd/onenote/notebook/notebook-list/) command documentation.
 
 ### Extending outlook mail send
 
@@ -107,7 +125,7 @@ Sending an email on behalf of a shared sales mailbox, marked as _highly importan
 m365 outlook mail send --to chris@contoso.com --subject "DG2000 Data Sheets" --bodyContents "The latest data sheets are in the team site" --sender svc_project@contoso.com --mailbox sales@contoso.com --importance high
 ```
 
-For more information see the [outlook mail send](https://pnp.github.io/cli-microsoft365/cmd/outlook/mail/mail-send/) command documentation.
+For more information, see the [outlook mail send](https://pnp.github.io/cli-microsoft365/cmd/outlook/mail/mail-send/) command documentation.
 
 ### What else
 
