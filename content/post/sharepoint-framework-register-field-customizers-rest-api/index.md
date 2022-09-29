@@ -23,6 +23,7 @@ tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
 canonicalURL: https://www.voitanos.io/blog/sharepoint-framework-register-field-customizers-rest-api
 ---
+
 The SharePoint Framework enables developers to customize the rendering of data in a SharePoint list’s column. This is done by creating a custom field customizer and associating it with column.
 
 The project template that’s created by the Yeoman generator when you create a field customizer extension only has the necessary things to associate the extension with a new site column created using the legacy Feature schema and XML provisioning.
