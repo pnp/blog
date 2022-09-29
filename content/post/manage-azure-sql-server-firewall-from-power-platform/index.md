@@ -1,5 +1,5 @@
 ---
-title: "how Manage Azure SQL server Firewall using Power Platform / five contribution"
+title: "How Manage Azure SQL server Firewall using Power Platform"
 date: 2022-09-16T11:06:00-04:00
 author: "Duvan Baena"
 githubname: DuvanBaena
@@ -10,7 +10,8 @@ tags: ["Power Automate","Azure DevOps","Power Apps"]
 type: "regular"
 draft: false
 ---
-## How does to manage SQL Azure firewall from a Business Application on Power Platform
+
+## How to manage SQL Azure firewall from a Business Application on Power Platform
 
 Today we will make use of one premium SQL Server connector and four (04) standard connectors (SharePoint, Office 365 Outlook, Office 365 Users, Power Apps).
 
