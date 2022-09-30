@@ -411,6 +411,9 @@ You can find all Microsoft 365 related videos on our YouTube Channel at [https:/
 
 Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 
+*  [Roll A Dice! - Building a Command Bot for Microsoft Teams Using Team Toolkit v4 with VS Cod](https://www.youtube.com/watch?v=BSxanVdealA)
+*  [Shorts: Building a Dice Bot 🎲 for Microsoft Teams with Teams Toolkit in Visual Studio Code](https://www.youtube.com/shorts/_LbulbZr5ZA)
+*  [Shorts: Challenge: Build Microsoft Teams apps in less than 60 seconds!](https://www.youtube.com/shorts/_hg2VmBA_yQ) 
 *  [Check required permissions for Microsoft Graph in the Graph Explorer](https://www.youtube.com/shorts/fWc7i-YDFM0) by [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
 *  [Microsoft ISV One Place Solutions shows how they built their One Place Mail app](https://www.youtube.com/watch?v=cPRE8HfBCLA) with [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs, [Cameron Dwyer](https://twitter.com/CameronDwyer) (One Place Solutions) | @CameronDwyer, and [Mathieu Rebuffet](https://twitter.com/rebuf) (One Place Solutions) | @rebuf
 * [Get started with Microsoft Teams app development and monetization](https://www.youtube.com/watch?v=ntFBgnrTt-s) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
