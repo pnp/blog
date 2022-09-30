@@ -10,7 +10,7 @@ tags: ["SharePoint", "Lists"]
 type: "regular"
 ---
 
-## Build a vacation tracker app with Lists and SharePoint for Teams
+# Build a vacation tracker app with Lists and SharePoint for Teams
 
 When it is summer or the holidays season, we know it is vacation time. A likely number one question would then be when everyone else in the team is going to be on vacation. And that means someone in the team is creating or re-using a tracker, usually made with excel, to track people’s vacation days. This is usually complimented with a quick round-the-table update in a team meeting or chat, and sometimes this is the only way the information is shared. ​​​​​​​​
 
@@ -23,7 +23,7 @@ With Lists, there is a smarter way to do that. Lists is your smart information t
 ![image1.png](images/image1.png)
 
  
-## Teams
+### Teams
 
 The vacation tracker can be added as a tab in a Teams channel using the Lists app, from where everyone can add their vacation days and view others’ vacation days. With the Lists calendar view, each day in the calendar shows up to 5 entries in the view. Upon selecting the day, the events pane on the right shows all the entries for the day, which is, everyone who is on vacation that selected day.
 
@@ -31,7 +31,8 @@ The vacation tracker can be added as a tab in a Teams channel using the Lists ap
 ![image2.png](images/image2.png)
 
 
-## SharePoint
+
+### SharePoint
  
 When added to a SharePoint communication or teamsite, with the addition of a helper list (a second list) that contains just the team members names, it is then possible to create dynamic filters for the vacation tracker. So, when selecting a name in the helper list, the vacation tracker is filtered to show the selected team members’ vacation days.
 
@@ -45,9 +46,10 @@ If you would like to set this up for your team, follow the below steps under “
 ![image4.png](images/image4.png)
 
 
+
 ## Creating the vacation tracker using the lists app in Teams
 
-## How to create the vacation tracker list and display it in a Teams channel
+### How to create the vacation tracker list and display it in a Teams channel
 
 In your team’s Teams channel, add a tab and select the “Lists” app.
 
@@ -125,7 +127,7 @@ At this point you can stop and use the list (vacation tracker) as it is. But if 
 ## Extending the vacation tracker for dynamic filtering using SharePoint page in Teams
 
 
-## How to display the vacation tracker list on a SharePoint page
+### How to display the vacation tracker list on a SharePoint page
 
 
 From the Posts tab in your teams' channel, open the connected SharePoint team site.
