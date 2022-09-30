@@ -53,11 +53,6 @@ call.
 * Demo - Building React Taxonomy File Explorer experience with SPFx – [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \| @Moeller2_0 – [16:47](https://youtu.be/lMmYhfqOspY?t=1007)
 * Introduction to new Viva Connections Toolkit VS Code extension to streamline your development – [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf – [32:21](https://youtu.be/lMmYhfqOspY?t=1941)
 
-## Together Mode
-
-![together-mode-220811.gif](images/together-mode-220811.gif)
-
-It’s good to see so many familiar faces.  Thanks everybody for joining the call today or for watching the session at your convenience.
 
 ## Actions
 

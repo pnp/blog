@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 Developer Community Call"]
 images:
-- images/PnP-Calls-TogetherMode-LowerResolution.gif
 tags: []
 type: "regular"
 --- 
@@ -100,9 +99,7 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
     Theme**](https://github.com/pnp/powerapps-samples/tree/main/samples/fluentui-custom-theme) -
     [Fabio
     Franzini](https://twitter.com/franzinifabio) | @franzinifabio
-![PnP-Calls-TogetherMode-LowerResolution.gif](images/PnP-Calls-TogetherMode-LowerResolution.gif)
-A packed house today.  Hope all are enjoying summer or winter, in
-Southern Hemisphere.  Nice seeing everyone.   Be well.  
+
 
 ## Demos
 

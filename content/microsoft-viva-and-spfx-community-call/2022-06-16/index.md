@@ -67,12 +67,6 @@ call.
 * Demo - MyShifts – SharePoint Framework Viva Connections - Adaptive Card Extension – [Siddharth Vaghasia](https://twitter.com/siddh_me) \| @siddh_me – [50:50](https://youtu.be/cB63Da065dw?t=3050)
 
 
-## Together Mode
-
-![together-mode-220616.gif](images/together-mode-220616.gif)
-
-Yet again, a packed house. Arms swaying, hands waving, faces smiling. Thanks for joining the call and for being part of this community.
-
 ## Actions
 
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)

@@ -131,13 +131,7 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
     -   [Dipen Shah](https://twitter.com/Dips_365) | @Dips_365
 
 -- Thank you
-
-## Together Mode!
-
-![211014-together-mode.gif](images/211014-together-mode.gif)
-
-Awesome to have you as part of this Community, please keep the feedback
-coming, see you again soon.      
+   
 
 ## Demos
 

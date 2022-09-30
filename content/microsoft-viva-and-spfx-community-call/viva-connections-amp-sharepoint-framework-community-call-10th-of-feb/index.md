@@ -52,9 +52,6 @@ SharePoint Framework (SPFx)|v1.13 GA, **v****1.14 RC**|GA targeted for mid-Febru
 
 The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
 
-![thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 10th of February, 2022 ](images/220210-together-mode.gif)
-
-Thank you for joining the call today and/or for viewing the recording.  You are part of making this a truly awesome community.   
 
 ## Actions
 

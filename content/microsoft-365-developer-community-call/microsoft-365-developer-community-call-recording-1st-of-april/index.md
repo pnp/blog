@@ -88,11 +88,7 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     [Nanddeep Nachan](https://twitter.com/NanddeepNachan) |
     [nanddeepn](https://github.com/nanddeepn), Ravi
     Kulkarni, and Smita Nachan
-![1st-april-together-mode.gif](images/1st-april-together-mode.gif)
  
-
-**It's together time - Spring time!**
-
 
 ## Demos
 

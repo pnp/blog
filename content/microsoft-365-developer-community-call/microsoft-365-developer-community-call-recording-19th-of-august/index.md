@@ -127,11 +127,6 @@ Samples:  **([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatf
     -- [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) |
     @ReshmeeAuckloo
 
-![210819-together-mode.gif](images/210819-together-mode.gif)
-
-Hopefully by the end of this year we will finally have the opportunity
-to meet face-to-face, that would be awesome.
-
 
 ## Demos
 

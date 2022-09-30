@@ -84,9 +84,6 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
 -   Document manager sample app using messaging -- Sathya Raveendran,
     Varaprasa\...
-![210429-together-mode.gif](images/210429-together-mode.gif)
-Thank you for being part of the community and for helping others to
-succeed.  You are awesome!
  
 
 ## Demos

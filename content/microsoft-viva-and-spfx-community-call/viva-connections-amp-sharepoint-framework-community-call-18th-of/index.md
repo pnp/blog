@@ -55,11 +55,7 @@ Additionally, there were 1 web part and 2 ACE **samples** delivered!
 The host of this call is [David Warner
 II](https://twitter.com/DavidWarnerII) (Catapult Systems)
 @DavidWarnerII.  Q&A takes place as always in chat throughout the call.
-![211118-together-mode.gif](images/211118-together-mode.gif)
- 
 
-Great to see all of you today - humans and ghosts.  Possibly some will
-meet in Düsseldorf or in Las Vegas later this year.     
 
 ## Actions
 

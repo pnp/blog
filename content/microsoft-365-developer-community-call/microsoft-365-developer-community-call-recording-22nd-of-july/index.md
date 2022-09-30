@@ -90,9 +90,6 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
     Bot**](https://aka.ms/bot-teams-incidentmanagement) - [Nanddeep
     Nachan](https://twitter.com/NanddeepNachan) |
     [nanddeepn](https://github.com/nanddeepn)]{style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;"}
-![wave3.gif](images/wave3.gif)
-Thank you for making time in your Summer time schedule to join us for
-today's PnP Community call.   You're awesome!   
 
 ## Demos
 

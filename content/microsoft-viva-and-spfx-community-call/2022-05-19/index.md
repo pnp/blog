@@ -52,11 +52,6 @@ call.
 * Demo - Building Office Locations Viva Connections Adaptive Card Extension with SPFx – [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) \| @anooptells – [15:10](https://youtu.be/NQUoEQZECe0?t=910)
 * Demo - Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions – [Fabio Franzini](http://twitter.com/franzinifabio) (Apvee Solutions) \| @franzinifabio – [35:31](https://youtu.be/NQUoEQZECe0?t=2131)
 
-## Together Mode
-
-![220519-together-mode.gif](images/220519-together-mode.gif)
-
-Thank you for joining today and for being part of this awesome community, really pleased to have you here again.
 
 ## Actions
 

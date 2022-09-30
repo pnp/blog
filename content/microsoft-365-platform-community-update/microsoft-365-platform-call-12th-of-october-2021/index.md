@@ -110,11 +110,6 @@ call and specifically during the last 10 minutes of call. 
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211012-together-mode.gif](images/211012-together-mode.gif)
-
-
-Thank you everybody for being here today in the Microsoft 365 Platform
-Community Call.
 
 ## Demos
 

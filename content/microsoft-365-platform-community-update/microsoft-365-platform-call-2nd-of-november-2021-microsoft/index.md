@@ -108,11 +108,6 @@ place in chat throughout the call   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211102-together-mode.gif](images/211102-together-mode.gif)
-Here we in a large, but comfortably intimate expo hall at Microsoft
-Ignite 2021!  Thank you for taking the time to join us today.  Hope you
-have a great event.    
- 
 
 **Microsoft Ignite 2021 announcements** (and there will be more!)
 

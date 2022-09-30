@@ -103,12 +103,6 @@ Article:  [Getting started with PnP Script Samples](https://aka.ms/script-sampl
 
 – Many thanks!
 
-## Together Mode!
-
-![thumbnail image 2 of blog post titled Microsoft 365 Developer Community Call recording – 3rd of February, 2022 ](images/220203-together-mode.gif)
-
-The pleasure of seeing everyone here is shared by all.  You are an awesome community.   
-
 ## Demos
 
 **Make a simple bot using Webhooks in Microsoft Teams** – this simple (request/response capability) Teams bot gets weather using an outgoing webhook.  A user @ mentions the webhook (@weather) and a location (London) triggering an Azure function, that calls the [OpenWeatherMap API](https://openweathermap.org/api) for local weather information.  An Adaptive Card is returned to user with weather conditions.   Technically, any member of a Team can create this simple webhook, not creating and registering a full-fledged bot.

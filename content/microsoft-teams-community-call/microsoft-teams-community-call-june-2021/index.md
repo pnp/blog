@@ -80,16 +80,6 @@ Samples:**<https://aka.ms/teams-samples>
 -   Your community is looking for Samples!  Please share your good
     work  
 
- 
-
-![210615-together-mode.gif](images/210615-together-mode.gif)
-
- 
-
-**Always a highlight to see you here.   Looking forward to seeing you in
-person at an event one day.**
-
- 
 
 
 ## Demos

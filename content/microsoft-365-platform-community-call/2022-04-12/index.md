@@ -67,9 +67,6 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 * Download the recurrent invite for this call – [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call%C2%A0)
 * Call attention to your great work by using the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
 
-![220412-together-mode.gif](images/220412-together-mode.gif)
-
-Awesome to see all of the faces of this community.   Please keep the feedback coming.
 
 ## Demo summaries
 

@@ -95,12 +95,6 @@ Article:  [Getting started with PnP Script Samples](https://aka.ms/script-sampl
 
 – Many thanks!
 
-## Together Mode!
-
-![Together mode](images/together-mode.gif)
-
-The pleasure of seeing everyone here is shared by all.  You are an awesome community.   
-
 ## Demos
 
 ### DEMO TITLE

@@ -72,11 +72,6 @@ Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
 **Microsoft Teams Development
 Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 
--   Looking for Samples!  Please share your good work  
-![210415-together-mode.gif](images/210415-together-mode.gif)
-
-**It's together time - Super comfy seats!     **
-
 ## Demos
 
 Demos delivered in this session

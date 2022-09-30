@@ -63,12 +63,6 @@ call.
 * Demo - Auto Batching Microsoft Graph Calls in your SPFx solutions – [Marcin Wojciechowski](http://twitter.com/mgwojciech) (Valo) \| @mgwojciech – [26:53](https://youtu.be/5B1tPAEySVo?t=1613)
 * Demo - SPFx Design Patterns – Property pane exception handling – [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [41:46](https://youtu.be/5B1tPAEySVo?t=2506)
 
-## Together Mode
-
-![220505-together-mode.gif](images/220505-together-mode.gif)
-
-Great seeing your smiles and your best Seb-like movements.  Thank you for attending this call today.
-
 ## Actions
 
 * Register for [Microsoft Build](https://mybuild.microsoft.com/) \| May 24-26, 2022

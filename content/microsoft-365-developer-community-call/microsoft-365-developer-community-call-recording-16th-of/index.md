@@ -124,13 +124,6 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
     -** [Paul Bullock](https://twitter.com/pkbullock) (CaPa Creative Ltd)
     | @pkbullock
 
-## Together Mode!
-
-![PnP-Calls-TogetherMode-800W.gif](images/PnP-Calls-TogetherMode-800W.gif)
-
-Picture time is back and it's a packed House!  Thank you for joining
-the PnP Community call today.   You're awesome!  
-
 ## Demos
 
 Demos delivered in this session

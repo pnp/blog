@@ -56,12 +56,6 @@ call.
 * Demo Adaptive Card Extensions - Dynamic Announcements – [Siddharth Vaghasia](https://twitter.com/siddh_me) \| @siddh_me – [32:54](https://youtu.be/Mv-bZfMYCIo?t=1974)
 
 
-## Together Mode
-
-![together-mode-220714.gif](images/together-mode-220714.gif)
-
-Thank you for sharing your smiles during today's Together Mode moment.  We look forward to seeing you again soon.
-
 ## Actions
 
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)

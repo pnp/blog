@@ -101,9 +101,6 @@ place in chat throughout and live at end of the call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211214-together-mode.gif](images/211214-together-mode.gif)
-Thank you for joining the call.  It is great to see over 200 attendees
-on this call today.
 
 ## Demos
 

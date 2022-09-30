@@ -58,12 +58,6 @@ The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
-## Together Mode 
-   
-![Attendees waving hands in Microsoft Teams together mode picture](images/220531-together-mode.gif)
-
-Thank you everyone for joining the call today. Awesome to see your faces. 
-
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>

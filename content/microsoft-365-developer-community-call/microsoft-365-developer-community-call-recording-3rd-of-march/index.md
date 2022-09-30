@@ -104,12 +104,6 @@ Article:  [Getting started with PnP Script Samples](https://aka.ms/script-sampl
 
 – Many thanks!
 
-## Together Mode!
-
-![thumbnail image 2 of blog post titled Microsoft 365 Developer Community Call recording – 3rd of March, 2022 ](images/220303-together-mode.gif)
-
-Thanks everyone for joining the call today.  It’s awesome to see your faces.     
-
 ## Demos
 
 **Updates on Independent Publisher Connectors & LibreBor Connector Demo** – there are 72 Independent Publisher Connectors in production and 42 in the pipeline today!  LibreBor APIs retrieve company details from the Spanish Register.  Information such as acquisitions, incorporations, Directors, NIF (Tax Identification Number) validation and more.   This Preview LibreBor connector retrieves information from LibreBor APIs and makes it available in Logic Apps, Power Apps and Power Automate, in most regions with some exceptions.     
