@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/teams-hero.png
 tags: ["Microsoft Teams"]
-type: "trending"
+type: "regular"
 
 
 ---
