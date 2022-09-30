@@ -71,12 +71,6 @@ call.
 * Demo - Building a conversational tab in a Microsoft Teams app that captures external event conversations - [Eoin O'Brien](https://www.linkedin.com/in/obrieneoin/) (Microsoft) – [20:53](https://youtu.be/k2yKGOCj4Ck?t=1253)
 * Demo - Use folders to create a dynamic list filter and Power Automate to populate folders and create pages - [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [34:18](https://youtu.be/k2yKGOCj4Ck?t=2058)
 
-## Together Mode
-
-![220721-together-mode.gif](images/220721-together-mode.gif)
-
-It is a pleasure as always to see many who joined the call today and if you have yet to view the session, enjoy the top-notch content.
-
 ## Actions
 
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)

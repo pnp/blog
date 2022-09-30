@@ -60,12 +60,6 @@ call.
 * Demo - TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo – [Thomy Gölles](http://twitter.com/thomyg) (Solvion) \| @thomyg – [39:02](https://youtu.be/Yx9-HUaJsak?t=2342)
 
 
-## Together Mode
-
-![220526-together-mode.gif](images/220526-together-mode.gif)
-
-Awesome seeing everybody on the call today. Thank you everyone for being so collaborative. See you again.
-
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>

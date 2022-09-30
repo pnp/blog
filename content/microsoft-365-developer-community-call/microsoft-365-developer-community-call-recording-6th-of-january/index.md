@@ -133,13 +133,6 @@ Samples](https://aka.ms/script-samples/getting-started)
 -- aka.ms/script-samples/getting-started
 -- Many thanks!
 
-## Together Mode!
-
-![220106-together-mode.gif](images/220106-together-mode.gif)
-
-Happy New Year!  Awesome to see everyone 170+ attendees in the call
-today.    Please keep the feedback coming.
-
 ## Demos
 
 Demos delivered in this session

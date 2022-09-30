@@ -155,13 +155,6 @@ call.
     @ValerasNarbutas
 
 
-### Together mode
-
-![210930-together-mode.gif](images/210930-together-mode.gif)
-
-A fully packed room!  Waiting on the beginning of a new year where we
-will be able to get together in person again.
-
 
 ### Demos delivered in this session
 

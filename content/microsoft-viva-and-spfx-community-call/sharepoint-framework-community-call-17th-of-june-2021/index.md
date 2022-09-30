@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/210617-together-mode.gif
 tags: []
 type: "regular"
 ---
@@ -47,10 +46,6 @@ previous report 2 weeks ago) 
 
 The host of this call is [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) @vesajuvonen.  Q&A takes place in chat throughout the call.
-![210617-together-mode.gif](images/210617-together-mode.gif)
-The waving wall!  Impressive.  Great to see you.  Truly looking forward
-to seeing you in Las Vegas, Düsseldorf or another conference venue in
-the future!
 
 ## Actions
 

@@ -45,12 +45,6 @@ Latest updates and news on Power Platform including community events, training o
 * Demo - Building a Time Sheeting Microsoft Power Apps canvas app using Microsoft Dataverse – [Darren Lutchner](https://twitter.com/assist_365) (365 Assist) \| @assist_365 – [30:40](https://youtu.be/_nTwtSKVRzc?t=1840)
 * Demo - Connecting Microsoft Power Pages to your Microsoft Dataverse data – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [41:08](https://youtu.be/_nTwtSKVRzc?t=2468)
 
-## Together Mode
-
-![Attendees waving hands in Microsoft Teams together mode picture](images/Together-Mode-August-2022.gif)
-
-Everybody is looking amazing today. Great to see so many passionate Community contributors. We really appreciate you and all that you do.
-
 ## Actions
 
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)

@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
 images:
-- images/210831-together-mode.gif
 tags: []
 type: "regular"
 ---
@@ -92,10 +91,6 @@ call.
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![210831-together-mode.gif](images/210831-together-mode.gif)
-
-Thank you for your continued contributions of your time and talent to
-the betterment of this community.  Stay well.  See you soon.  
 
 ## Demos
 

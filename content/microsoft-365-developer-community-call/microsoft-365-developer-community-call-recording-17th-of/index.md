@@ -110,12 +110,6 @@ Article:  [Getting started with PnP Script Samples](https://aka.ms/script-sampl
 
 – Many thanks!
 
-## Together Mode!
-
-![thumbnail image 2 of blog post titled Microsoft 365 Developer Community Call recording – 17th of February, 2022](images/220217-together-mode.gif)
-
-Mid-February and all's well at the amphitheater.   Thank you for joining your community today.    
-
 ## Demos
 
 **Introduction to Adaptive Card Studio VS Code extension** – step through the Visual Code extension that makes it easy to add to and work with Adaptive Cards in your project. The Adaptive Cards button exposes all Adaptive Cards resident in your workspace.  Within the extension, you can see and download samples (code, example, snippets, container) from AdaptiveCards.io.  Today you can send a card (layout, sample, json) to recipient in Outlook and soon Teams.    

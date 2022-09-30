@@ -99,10 +99,7 @@ live at end of the call.   
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
 
-![220104-together-mode.gif](images/220104-together-mode.gif)
-
-Welcome to the first call of the new year - 2022.  Glad you're here. 
-See you soon.      
+ 
 
 ## Demos
 

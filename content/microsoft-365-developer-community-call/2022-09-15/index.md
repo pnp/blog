@@ -67,12 +67,6 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 * Demo - List formatting magic - neomorphic design for polished UX – [André Lage](https://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [18:27](https://youtu.be/q5C2cOPMuqs?t=1107)
 * Demo - Using Mockaroo Independent Publisher Connectors to automatically generate sample data – [Richard A. Wilson](https://twitter.com/PowerAppsRAW) (Microsoft) \| @PowerAppsRAW – [34:07](https://youtu.be/q5C2cOPMuqs?t=2047)
 
-## Together Mode
-
-![together-mode-220915.gif](images/together-mode-220915.gif)
-
-What time is it? It’s picture time starring members of this Community! Another packed house! If only a room could physically expand as more people entered it. So easy with virtual rooms. Thank you for attending the call and for all of the feedback you provide across the Microsoft 365 stack.
-
 ## Actions
 
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)

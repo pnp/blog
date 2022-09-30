@@ -53,12 +53,6 @@ The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Micro
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
-## Together Mode 
-   
-![Attendees waving hands in Microsoft Teams together mode picture](images/together-mode-220628.gif)
-
-Thank you everyone for joining the call today. It has been great seeing you thoughout the year. Enjoy your summer learning time!  See you on September 6, 2022. 
-
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>

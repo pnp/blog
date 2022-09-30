@@ -127,10 +127,7 @@ takes place in chat throughout the call.   
     -- [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call%C2%A0)
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
-    Twitter.
-![211019-together-mode.gif](images/211019-together-mode.gif)
-Thank you everybody for being part of the call today and for being a
-member of this community.       
+    Twitter. 
 
 ## Demos
 

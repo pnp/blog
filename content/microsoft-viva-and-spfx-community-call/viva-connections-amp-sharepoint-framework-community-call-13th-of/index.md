@@ -62,10 +62,7 @@ previous report 2 weeks ago) 
 The host of this call is [Vesa Juvonen](https://twitter.com/vesajuvonen)
 (Microsoft) | @vesajuvonen.  Q&A takes place as always in chat
 throughout the call.
-![220113-together-mode.gif](images/220113-together-mode.gif)
 
-Thank you for joining the call today and/or for viewing the recording. 
-Awesome to see many of you on the screen.
 
 ## Actions
 

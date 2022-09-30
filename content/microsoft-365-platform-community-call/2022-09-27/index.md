@@ -51,12 +51,6 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
-## Together Mode 
-   
-![Attendees waving hands in Microsoft Teams together mode picture](images/220127-together-mode.gif)
-
-Thank you for joining the community call today. Awesome to see all of you on the call. Please join us again.
-
 ## Actions
 
 * [Register](https://ignite.microsoft.com) for Microsoft Ignite – October 12-14, 2022. Attendance options: Online, in-person in Redmond and selected geographies (local language) as well.

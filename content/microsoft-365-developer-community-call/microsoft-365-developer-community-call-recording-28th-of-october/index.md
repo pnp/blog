@@ -124,14 +124,6 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -- Thank you :clapping_hands:
 
-## Together Mode!
-
-![211028-together-mode.gif](images/211028-together-mode.gif)
-
-Are there ghosts or shadows occupying seats in this week's Together
-Mode photo?  Mention during call about people \"beaming up/down\" to the
-theater today?  
-
 ## Demos
 
 Demos delivered in this session

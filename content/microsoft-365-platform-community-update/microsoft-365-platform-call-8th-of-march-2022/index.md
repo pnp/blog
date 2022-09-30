@@ -56,10 +56,6 @@ The host of this call was [Brian T. Jackett](https://twitter.com/BrianTJackett) 
 *   Download the recurrent invite for this call – [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call%C2%A0)
 *   Call attention to your great work by using the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
 
-![thumbnail image 2 of blog post titled Microsoft 365 Platform Call – 8th of March, 2022 ](images/220308-together-mode.gif)
-
-Social distancing?  Always great to see everyone so virtually close while being located so physically far from one another.    In person events soon! 
-
 ## Demos
 
 *   **Managing your Viva Connections and SharePoint Framework solutions using the new Apps site in SharePoint Online** –​ completely Modernized App Catalog – Modernized app request process and Modernized app catalog experiences.  One place to upload, manage (app request and approval) and deploy SPFx solutions (custom components) in an organization.   Existing catalog UX will be updated (aligned to typical Admin UX), no action on your part and no impact on existing catalog functionality.   Demo and next steps on SPFx store and app catalog reviewed.

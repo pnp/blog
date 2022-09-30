@@ -137,12 +137,6 @@ call.
     Gölles](http://twitter.com/thomyg) (Solvion) \| @thomyg –
     [42:05](https://youtu.be/6ko2z7RSjTY?t=2525)
 
-## Together Mode
-
-![220428-together-mode.gif](images/220428-together-mode.gif)
-
-Thank you for waving to those who are looking at you presently!  Awesome having you in this Community.
-
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>

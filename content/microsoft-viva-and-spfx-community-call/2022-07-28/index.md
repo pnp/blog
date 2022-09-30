@@ -81,13 +81,6 @@ call.
     Pialorsi](https://twitter.com/paolopia) (PiaSys.com) \| @paolopia –
     [40:47](https://youtu.be/oheJxCGA_cw?t=2447)
 
-## Together Mode
-
-![220728-together-mode.gif](images/220728-together-mode.gif)
-
-Hands waving and faces smiling, clearly shouting: “Hello Community.”  Hope you’re
-having a great summer! Join the calls when you are able, view the recordings
-anytime. Cheers!
 
 ## Actions
 

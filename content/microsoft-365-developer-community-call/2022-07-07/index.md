@@ -76,12 +76,6 @@ call.
 * Demo - Microsoft Graph “Sites.Selected” permissions within SharePoint Online – [Pankaj Surti](https://twitter.com/pankajsurti) (Microsoft) \| @pankajsurti – [22:50](https://youtu.be/hH5Bk4OGuxQ?t=1370)
 * Demo - Introduction to available open-source list formatting samples from updated list formatting sample portal – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [41:41](https://youtu.be/hH5Bk4OGuxQ?t=2501)
 
-## Together Mode
-
-![together-mode-220707.gif](images/together-mode-220707.gif)
-
-Welcome to July.  You are looking marvelous today!  Thanks for taking the time to join this call. 
-
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>

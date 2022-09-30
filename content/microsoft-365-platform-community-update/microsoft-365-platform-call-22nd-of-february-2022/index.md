@@ -60,10 +60,6 @@ The host of this call was [Brian T. Jackett](https://twitter.com/BrianTJackett) 
 *   Download the recurrent invite for this call – [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call%C2%A0)
 *   Call attention to your great work by using the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
 
-![thumbnail image 2 of blog post titled Microsoft 365 Platform Call – 22nd of February, 2022 ](images/PnP-TogetherMode-2-22-2022 - 500W.gif)
-
-Thank you everybody for joining the call today, great seeing you today - Tuesday 22/2/22.  Glad you are part of the Microsoft 365 Platform PnP community.       
-
 ## Demos
 
 *   **PowerShell Snippets for Microsoft Graph Docs** – Microsoft Graph now supports PowerShell Code Snippets both in the documentation portal and in Graph Explorer as well as in integrations with MGT and Adaptive Cards.  Today, see where to find the code snippets and see what you can do with them.  Install the Microsoft Graph PowerShell SDK and test snippets in a Microsoft 365 Developer tenant so you’re not using your real data.    

@@ -51,12 +51,6 @@ The host of this call is [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microso
 * Demo – Getting started on building custom list form experiences with SharePoint Framework – [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm – [37:36](https://youtu.be/nHM2rXHs7nY?t=2256)
 
 
-## Together Mode
-
-![together-mode-220825.gif](images/together-mode-220825.gif)
-
-Thank you everybody for joining. Great to see many familiar faces. It’s awesome to have you on the call today.
-
 ## Actions
 
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| aka.ms/m365pnp-recognition

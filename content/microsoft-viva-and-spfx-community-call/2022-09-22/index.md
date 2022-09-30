@@ -52,12 +52,6 @@ The host of this call is [Garry Trinder](http://twitter.com/garrytrinder) (Micro
 * Demo – Building Viva Connections ACE for public holidays - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan & [Ravi Kulkarni](https://twitter.com/RaviKul16a87) (Microsoft) \| @RaviKul16a87 – [21:19](https://youtu.be/hrJaZcg4SCk?t=1279)
 * Demo - Accelerate SPFx development with reusable open-source controls – [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev – [35:59](https://youtu.be/hrJaZcg4SCk?t=2159)
 
-## Together Mode
-
-![together-mode-220922.gif](images/together-mode-220922.gif)
-
-We are so lucky you have you joining us, helping us and communicating to us what we should be delivering. Great to see you on the call today.
-
 ## Actions
 
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| aka.ms/m365pnp-recognition

@@ -111,10 +111,7 @@ Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211228-together-mode.gif](images/211228-together-mode.gif)
 
-Always nice to see YOU and the actual people who are behind the scenes
-of this community.  Wishing you a happy and healthy entry into 2022.
 **Discussion and Resources referenced **in this session
 
 -   Developer tenant renewals and possibility of multi-geo and GCC dev

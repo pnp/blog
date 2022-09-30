@@ -50,12 +50,6 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
-## Together Mode 
-   
-![Attendees waving hands in Microsoft Teams together mode picture](images/220517-together-mode.gif)
-
-Thank you for joining us today or for viewing this session when you are able.  
-
 ## Actions
 
 * Register for [Microsoft Build](http://register.build.microsoft.com) \| May 24-26, 2022
