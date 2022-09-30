@@ -7,28 +7,31 @@
         {{ $image_ext := path.Ext $image.RelPermalink }}
         {{ $image_width := $image.Width }}
         {{ if  (ne $image_ext ".gif") }}
+            {{ $tinyImage := $image.Resize "500x webp" }}
             {{ $smallImage := $image.Resize "800x webp" }}
             {{ $mediumImage := $image.Resize "1200x webp" }}
             {{ $largeImage := $image.Resize "1500x webp" }}
-
+            
             {{ if .Title }}
             <figure>
                 <picture>
+                    <source media="(min-width:500px)" srcset={{ $smallImage.RelPermalink | safeURL }}>
                     <source media="(min-width:800px)" srcset={{ $mediumImage.RelPermalink | safeURL }}>
                     <source media="(min-width:1200px)" srcset={{ $largeImage.RelPermalink | safeURL }}>
                     <source media="(min-width:1500px)" srcset={{ .Destination | safeURL }}>
-                    <img src="{{ $smallImage.RelPermalink | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} {{ with .Title }}
+                    <img src="{{ $tinyImage.RelPermalink | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} {{ with .Title }}
                         title="{{ . }}" {{ end }} style="width:auto;">
                 </picture>
-
+            
                 {{ with .Title}} <figcaption>{{ . | markdownify }}</figcaption> {{ end }}
             </figure>
             {{ else }}
             <picture>
+                <source media="(min-width:500px)" srcset={{ $smallImage.RelPermalink | safeURL }}>
                 <source media="(min-width:800px)" srcset={{ $mediumImage.RelPermalink | safeURL }}>
                 <source media="(min-width:1200px)" srcset={{ $largeImage.RelPermalink | safeURL }}>
                 <source media="(min-width:1500px)" srcset={{ .Destination | safeURL }}>
-                <img src="{{ $smallImage.RelPermalink | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} style="width:auto;">
+                <img src="{{ $tinyImage.RelPermalink | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} style="width:auto;">
             </picture>
             {{ end }}
         {{ else }}
