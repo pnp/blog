@@ -74,12 +74,6 @@ The host of this call was [Vesa Juvonen](https://twitter.com/VesaJuvonen)<http:/
 * Demo – How to build a good vibes generator bot for Microsoft Teams – [Lee Ford](https://twitter.com/lee_ford) (Symity) \| @lee_ford and [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese – [20:46](https://youtu.be/H3YNMCIi3xw?t=1246)
 * Demo – Building a movie voting experience as Microsoft Teams meeting app – [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \| @Moeller2_0 – [33:00](https://youtu.be/H3YNMCIi3xw?t=1980)
 
-## Together Mode
-
-![together-mode-220929.gif](images/together-mode-220929.gif)
-
-Awesome that you could join us on the call today or view this session when you are able.
-
 ## Actions
 
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)

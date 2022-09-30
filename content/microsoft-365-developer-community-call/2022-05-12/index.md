@@ -62,12 +62,6 @@ call.
 * Demo - List formatting magic – Advance discussion board formatting with Power Automate – [André Lage](http://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [26:24](https://www.youtube.com/watch?v=SM_KlEcefcw?t=1588)
 * Demo - List formatting magic – Taking advantage of new multi-lingual capabilities in list formatting – [Chris Kent](http://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [43:25](https://www.youtube.com/watch?v=SM_KlEcefcw?t=2628)
 
-## Together Mode
-
-![220512-together-mode.gif](images/220512-together-mode.gif)
-
-Nice to get virtually outside again in today’s dynamic community picture. Great seeing everybody in the packed amphitheater and a great call!
-
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
