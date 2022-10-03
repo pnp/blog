@@ -75,7 +75,7 @@ Update of the newly created videos in our two YouTube channels at [https://aka.m
 
 ## New Microsoft 365 Developer Blog posts
 
-All the latest updates on the Mcirosoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
 *  [Microsoft Teams apps coming in preview to Office and Outlook apps on Android](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-apps-coming-in-preview-to-office-and-outlook-apps-on-android/) by [Sanjay Joshi](https://twitter.com/sanjoshi) (Microsoft) | @sanjoshi
 *  [Build a stock update notification bot for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/build-a-stock-update-notification-bot-for-microsoft-teams-using-teams-toolkit-for-visual-studio-code/) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
