@@ -78,12 +78,6 @@ call.
 * Demo - List Formatting - Payment Registration - [André Lage](http://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [29:05](https://youtu.be/DPye7S6lVf0?t=1745)
 * Demo - Understanding Sites.Selected permissions in SharePoint Online - [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys.com) \| @PaoloPia – [43:56](https://youtu.be/DPye7S6lVf0?t=2636)
 
-## Together Mode
-
-![together-mode-220609.gif](images/together-mode-220609.gif)
-
-Feeling the air moving during the 15-minute-mark photo event. Everybody is looking great today! Thanks for joining and participating on the call.
-
 ## Actions
 
 * Create a connector – [Top Power Platform Independent Publisher Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)

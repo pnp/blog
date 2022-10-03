@@ -68,11 +68,6 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 * Demo - ProvisionGenie v.3.0 – focus on Localization and Accessability – [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese – [11:51](https://youtu.be/yZ-dJvmt8Zo?t=711)
 * Demo - List formatting backgrounds and borders using new isSelected placeholder – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [28:42](https://youtu.be/yZ-dJvmt8Zo?t=1722)
 
-## Together Mode
-
-![220804-together-mode.gif](images/220804-together-mode.gif)
-
-Thank you for your amazing support to the community. If you missed the call. No worries, view the call on demand. It’s great seeing everyone today.
 
 ## Actions
 

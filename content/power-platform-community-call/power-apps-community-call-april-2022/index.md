@@ -93,13 +93,6 @@ throughout the call.
     Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh –
     [33:48](https://youtu.be/lxVuESLcl-c?t=2028)
 
-## Together Mode
-
-![PowerApps-CommunityCall-TogetherMode-April2022-500w.gif](images/PowerApps-CommunityCall-TogetherMode-April2022-500w.gif)
-
-Maximum participation in the Community’s first time Together Mode photo! Great
-to see the many faces of this vibrant Community.
-
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>

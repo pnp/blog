@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/210603-together-mode.gif
 tags: []
 type: "regular"
 ---
@@ -48,9 +47,6 @@ previous report 2 weeks ago) 
 The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-![210603-together-mode.gif](images/210603-together-mode.gif)
-Thanks everybody for being part of the Community and helping making
-things happen. You are absolutely awesome!
 
 ## Actions
 

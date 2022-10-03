@@ -90,10 +90,6 @@ place in chat throughout the call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![PnP-Calls-TogetherMode-500w-Trimmed.gif](images/PnP-Calls-TogetherMode-500w-Trimmed.gif)
-
-It's great to see everyone today.  Some of you are joining from the
-European Collaboration Summit in *Düsseldorf*, Germany!
 
 ## Demos
 

@@ -70,11 +70,6 @@ call.
 * Demo - Solve Teams and SharePoint Theme problems with the "Enhanced Theme Provider" control for SPFx solutions – [Fabio Franzini](http://twitter.com/franzinifabio) (Apvee Solutions) \| @franzinifabio – [25:58](https://youtu.be/XvZz75q8vag?t=1558)
 * Demo - Getting started on building custom list form components with SPFx v1.15 – [Alex Terentiev](http://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev & [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [36:40](https://youtu.be/XvZz75q8vag?t=2200)
 
-## Together Mode
-
-![220602-together-mode.gif](images/220602-together-mode.gif)
-
-We have a full room of people today! Great seeing everyone. Thank you for being part of this awesome community.
 
 ## Actions
 

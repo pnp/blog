@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/PnP-Calls-TogetherMode-July1-LowerRes.gif
 tags: []
 type: "regular"
 ---
@@ -51,10 +50,7 @@ previous report 2 weeks ago) 
 The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-![PnP-Calls-TogetherMode-July1-LowerRes.gif](images/PnP-Calls-TogetherMode-July1-LowerRes.gif)
 
-It appears fun is being had by all!  Great to see everyone.  Thanks for
-making this a great community.  
 
 ## Actions
 

@@ -87,10 +87,6 @@ Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![210928-together-mode.gif](images/210928-together-mode.gif)
-
-Seated outdoors and waving in the Fall season.  It's awesome having you
-as a member of this community.    
 
 ## Demos
 

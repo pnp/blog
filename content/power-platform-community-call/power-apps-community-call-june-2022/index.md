@@ -38,12 +38,6 @@ Latest updates and news on Power Platform including community events, training o
 * Demo - Taking your Power Apps mobile navigation UI to the next level! – [Kristine Kolodziejski](https://twitter.com/kristinekk94) (Computacenter) \| @kristinekk94 – [9:54](https://youtu.be/Uv2xoEywYMI?t=594)
 * Demo - Power to the Pages – Introduction to Power Pages! – [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [26:18](https://youtu.be/Uv2xoEywYMI?t=1578)
 
-## Together Mode
-
-![Attendees waving hands in Microsoft Teams together mode picture](images/220615-together-mode.gif)
-
-Hello extended Power Platform community! This picture conveys many words – excited, committed, empowered. You are absolutely amazing! Thank you for being part of this community.
-
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>

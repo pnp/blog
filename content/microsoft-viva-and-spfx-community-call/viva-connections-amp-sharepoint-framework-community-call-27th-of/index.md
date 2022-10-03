@@ -49,9 +49,6 @@ SharePoint Framework (SPFx)|v1.13 GA, **updated v1.14 (beta 5) public developer 
 
 The host of this call is [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997.  Q&A takes place as always in chat throughout the call.
 
-![thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 27th of January, 2022 ](images/220127-together-mode.gif)
-
-Thank you for joining the call today and/or for viewing the recording.  Awesome to see many of you on the screen.
 
 ## Actions
 

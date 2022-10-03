@@ -47,12 +47,6 @@ The hosts of this call were [Fabian Williams](https://twitter.com/fabianwilliams
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
-## Together Mode 
-   
-![Attendees waving hands in Microsoft Teams together mode picture](images/together-mode-220920.gif)
-
-Thank you for joining the community call today. Always a joy to see your smiling faces. You make this community great.
-
 ## Actions
 
 * [Register](https://ignite.microsoft.com) for Microsoft Ignite – October 12-14, 2022

@@ -60,9 +60,6 @@ The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Micro
 *   Download the recurrent invite for this call – [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call%C2%A0)
 *   Call attention to your great work by using the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
 
-![thumbnail image 2 of blog post titled Microsoft 365 Platform Call – 1st of March, 2022](images/220301-together-mode.gif)
-
-And now we are in the month of March.  Everyone looks great.  Thank you for joining the call today.         
 
 ## Demos
 

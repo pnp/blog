@@ -74,12 +74,6 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 * Demo - How to animate SVGs in Adaptive Cards – [Kristine Kolodziejski](https://twitter.com/kristinekk94) (Computacenter) \| @kristinekk94 – [34:08](https://youtu.be/Yt4QcHjNr6A?t=2048)
 
 
-## Together Mode
-
-![together-mode-220901.gif](images/together-mode-220901.gif)
-
-Thank you for being part of the Community. We appreciate you and your feedback. Our goal is to make everyone’s lives a bit easier.
-
 ## Actions
 
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)

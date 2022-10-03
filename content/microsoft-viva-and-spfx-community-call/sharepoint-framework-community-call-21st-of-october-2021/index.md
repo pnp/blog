@@ -53,9 +53,6 @@ in the last 2 weeks!   Grrrreat!  Thank you all for your contributions. 
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
-![211021-together-mode.gif](images/211021-together-mode.gif)
-Full house today.  Clearly we've outgrow this venue.   Great to see
-everybody.  See you again soon. 
   
 ## Actions
 

@@ -74,16 +74,6 @@ Samples:** <https://aka.ms/teams-samples>
     work  
 
  
-
-![210518-together-mode.gif](images/210518-together-mode.gif)
-
- 
-
-**Always a highlight to see you here.  Enjoy Microsoft Build.  Looking forward to seeing you in person at an event one day.**
-
- 
-
-
 ## Demos
 
 Demos delivered in this session

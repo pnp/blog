@@ -104,10 +104,7 @@ call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211221-together-mode.gif](images/211221-together-mode.gif)
 
-Thank you for being part of this community in 2021, we are looking
-forward to continuing sharing and caring with community in 2022.
 **Discussion and Resources referenced **in this session
 
 -   Vesa's work-in-progress on Adaptive Card Design samples

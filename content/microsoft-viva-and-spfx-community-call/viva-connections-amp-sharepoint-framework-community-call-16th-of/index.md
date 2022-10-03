@@ -55,11 +55,6 @@ The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
-![ViewPorter_0-1639698085131.gif](images/ViewPorter_0-1639698085131.gif)
-
-
-Great to see all of you today.  Happy Holidays.  Enjoy some down time
-from work and up time with family, friends, hobbies.
 
 ## Actions
 

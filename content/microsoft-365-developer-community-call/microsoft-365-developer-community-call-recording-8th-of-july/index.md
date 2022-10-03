@@ -88,9 +88,6 @@ Samples:  **(<https://aka.ms/TeamsSampleBrowser>)
 -   **[ReporterPlus -- Teams Device Capabilities
     Application](https://github.com/pnp/teams-dev-samples/tree/main/samples/app-ReporterPlus)
     -** Sathya Raveendran (Microsoft) and Veera Venkata Sai Pothan Thota
-![PictureTimeGIF-8JUly2021-2Sec-30FPS.gif](images/PictureTimeGIF-8JUly2021-2Sec-30FPS.gif)
-Thank you for making time in your Summer time schedule to join us for
-today's PnP Community call.   You're awesome!   
 
 ## Demos
 

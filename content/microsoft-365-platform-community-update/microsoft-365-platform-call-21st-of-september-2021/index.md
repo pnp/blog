@@ -90,9 +90,7 @@ takes place in chat throughout the call.
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![210921-together-mode.gif](images/210921-together-mode.gif)
-Together mode is back and the house is packed!   Great seeing
-everybody.   See you again soon.  
+
 **Program:**
 
 -   **M365 Ecosystem Security -- ISV and Customer Survey --** walk

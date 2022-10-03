@@ -58,9 +58,6 @@ contributions are greatly appreciated by many.  The host of this call is
 [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
-![211202-together-mode.gif](images/211202-together-mode.gif)
-Awesome to see many of you seated in those plush brown seats and others
-joining off camera on the call today.  It's December!
 
 ## Actions
 

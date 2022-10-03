@@ -38,12 +38,6 @@ Latest updates and news on Power Platform including community events, training o
 * Demo - UX Tips & Tricks for Model-Driven Apps – [Chris Piasecki](https://www.linkedin.com/in/chris-piasecki/) (CGI) – [15:53](https://youtu.be/nMIFCNGQP54?t=953)
 * Demo - You can be an author of an Independent Publisher Connector – [Vivek Bavishi](https://twitter.com/that_API_guy) (Hitachi Solutions) \| @that_API_guy – [26:59](https://youtu.be/nMIFCNGQP54?t=1619)
 
-## Together Mode
-
-![Attendees waving hands in Microsoft Teams together mode picture](images/together-mode-220921.gif)
-
-So great to see so many community members in person this week at the Microsoft Power Platform Conference 2022 in Orlando, Florida and on-line for today's call.  Thank you for all you do.  
-
 ## Actions
 
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)

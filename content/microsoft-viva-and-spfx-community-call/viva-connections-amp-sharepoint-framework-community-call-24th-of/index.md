@@ -52,10 +52,6 @@ SharePoint Framework (SPFx)|**v1.14 GA**|v1.15 Preview in weeks, GA in June 2022
 
 The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
 
-![thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 24th of February, 2022 ](images/Feb24TogetherModeGif.gif)
-
-Thank you for joining the call today and/or for viewing the recording.  You are part of making this a truly awesome community.   
-
 ## Actions
 
 *   Opt into PnP Recognition Program | [https://aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)

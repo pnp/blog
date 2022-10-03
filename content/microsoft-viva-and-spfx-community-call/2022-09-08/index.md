@@ -68,11 +68,6 @@ The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (M
 * Demo – Building polished form experiences with SPFx form customizer – [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) \| @ EjazHussain\_ – [17:36](https://youtu.be/r2iTAgNRREA?t=1056)
 * Demo – Building SPFx solution with Azure Communication Services integration – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [30:25](https://youtu.be/r2iTAgNRREA?t=1825)
 
-## Together Mode
-
-![together-mode-220908.gif](images/together-mode-220908.gif)
-
-It’s a full house today for picture time!  Thank you everybody for joining the call today or viewing it at as time permits.
 
 ## Actions
 

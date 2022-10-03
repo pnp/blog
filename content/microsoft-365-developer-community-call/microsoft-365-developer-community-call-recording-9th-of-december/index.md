@@ -115,12 +115,6 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -- Many thanks!
 
-## Together Mode!
-
-![211209-together-mode.gif](images/211209-together-mode.gif)
-The house is full!   Great seeing everyone today.   Coordinated stadium
-style wave rehearsals starting soon.   
-
 ## Demos
 
 Demos delivered in this session

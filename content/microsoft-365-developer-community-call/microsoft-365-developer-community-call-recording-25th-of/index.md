@@ -148,15 +148,6 @@ Samples: ** ([https://aka.ms/script-samples)](https://aka.ms/script-samples)
 
 -- Fabulous!
 
-## Together Mode!
-
-![211125-together-mode.gif](images/211125-together-mode.gif)
-Great seeing everyone today. See you at the [European Collaboration and
-Cloud Summit](https://collabsummit.eu/) in Düsseldorf, Germany or
-perhaps at the [Microsoft 365 Collaboration
-Conference](https://m365conf.com/#!/) in Las Vegas, Nevada, US.     
-   
-
 ## Demos
 
 Demos delivered in this session

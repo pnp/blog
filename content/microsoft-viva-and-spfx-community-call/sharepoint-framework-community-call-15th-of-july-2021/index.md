@@ -46,9 +46,6 @@ delivered in the last 2 weeks as well.  Way to go contributors!    The
 host of this call is [David Warner II](https://twitter.com/DavidWarnerII)
 (Catapult Systems) @DavidWarnerII.  Q&A takes place in chat throughout
 the call.
-![210715-together-mode.gif](images/210715-together-mode.gif)
-It's great to see spirits are high in the month of July!   Nice to see
-everyone.   See you again soon!  
 
 ## Actions
 

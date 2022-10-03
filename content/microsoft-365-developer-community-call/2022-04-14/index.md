@@ -92,13 +92,7 @@ The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (
 
 Article: [Getting started with PnP Script Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) – aka.ms/script-samples/getting-started
 
-– Many thanks!
-
-## Together Mode!
-
-![thumbnail image 2 of blog post titled Microsoft 365 Developer Community Call recording – 14th of April, 2022](images/220414-together-mode.gif)
-
-Thanks everyone for joining the call today.  It’s awesome to see your smiling faces.     
+– Many thanks!    
 
 ## Demos delivered in this session
 

@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/210422-spfx.gif
 tags: []
 type: "regular"
 ---
@@ -44,15 +43,8 @@ Great work!    
 The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-![210422-spfx.gif](images/210422-spfx.gif)
-
-Jungle seating in a Pacific Northwest, Washington, US amphitheater! 
-Truly unique like this Community!
 
 ## Actions
-
-
-
 
 
 -   Complete the Microsoft 365 Developer Community Survey --

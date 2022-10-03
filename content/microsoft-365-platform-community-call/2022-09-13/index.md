@@ -58,11 +58,6 @@ The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Micro
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
-## Together Mode 
-   
-![Attendees waving hands in Microsoft Teams together mode picture](images/together-mode-220913.gif)
-
-Thank you for joining the community call today. Awesome to see all of you on the call, many on a weekly basis. See you next week in Orlando, Florida, US!
 
 ## Actions
 

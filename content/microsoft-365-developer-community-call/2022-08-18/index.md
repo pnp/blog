@@ -73,11 +73,6 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 * Demo - List Formatting Magic – Data and Time formatting options – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [24:52](https://youtu.be/N1ZsqY6JdFo?t=1492)
 * Demo - Create a list template from your pre-configured list with list formatting definitions – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [47:00](https://youtu.be/N1ZsqY6JdFo?t=2820)
 
-## Together Mode
-
-![together-mode-220818.gif](images/together-mode-220818.gif)
-
-Thank you for joining us on this Community call today. This Community is here for you and this Community wouldn’t be here without you. Thank you for being part of this Community!
 
 ## Actions
 

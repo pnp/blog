@@ -156,12 +156,6 @@ call.
     [47:57](https://youtu.be/3_QF94JWIlk?t=2877)
 
 
-## Together Mode
-
-![220421-together-mode.gif](images/220421-together-mode.gif)
-
-Nice to capture a video of everybody in the same room today. Thank you for being a part of this Community. Please keep the feedback coming.
-
 ## Actions
 
 *   Mark your calendar for [Microsoft Tech Days](https://aka.ms/techdays/m365)

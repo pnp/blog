@@ -78,12 +78,6 @@ call.
 * Demo - Keep track of your activities with Microsoft Lists and Power Automate – Federico Sapia (ANPAL Servizi) – [28:17](https://youtu.be/WZwg_Zo1ZL4?t=1697)
 * Demo - Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components – [Sohil Bhalla](https://twitter.com/SohilBhalla) (Codeless Technology) \| @SohilBhalla – [35:20](https://youtu.be/WZwg_Zo1ZL4?t=2120)
 
-## Together Mode
-
-![together-mode-220623.gif](images/together-mode-220623.gif)
-
-Greetings from us to everyone in or considering becoming part of this community. You are welcome and valued.
-
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>

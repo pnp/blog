@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/210826-together-mode.gif
 tags: []
 type: "regular"
 --- 
@@ -50,9 +49,7 @@ for contributing!  There was a formal demo and an informal sneak peek
 demo during this call.    The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-![210826-together-mode.gif](images/210826-together-mode.gif)
-Thank you everybody for being part of this call, the community, a tweet,
-a blog post, and the solution to your customer's needs.  
+
 
 ## Actions
 

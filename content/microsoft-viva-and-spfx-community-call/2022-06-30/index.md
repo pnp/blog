@@ -56,12 +56,6 @@ call.
 * Demo - Adaptive Cards Extensions strategy pattern for multi-action QuickView – [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) \| @mgwojciech – [32:38](https://youtu.be/y-XxYJiEINM?t=1958)
 
 
-## Together Mode
-
-![together-mode-220630.gif](images/together-mode-220630.gif)
-
-In a room at the end of June is this wonderful group, see you soon. Thanks for joining the call today!
-
 ## Actions
 
 * Opt into the [PnP Recognition Program](https://aka.ms/m365pnp-recognition) \| [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)

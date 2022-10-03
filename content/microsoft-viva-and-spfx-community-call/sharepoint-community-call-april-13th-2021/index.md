@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/15th-april-together-mode.gif
 tags: []
 type: "regular"
 ---
@@ -38,8 +37,7 @@ actively participating in this PnP Community. You continue to amaze. 
 The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call. 
-![15th-april-together-mode.gif](images/15th-april-together-mode.gif)
- 
+
 
 **Getting started with Microsoft Viva Connections** **Desktop** - an
 employee centric app in Teams with one stop access to internet
