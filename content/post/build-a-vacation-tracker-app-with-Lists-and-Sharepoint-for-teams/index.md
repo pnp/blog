@@ -10,7 +10,6 @@ tags: ["SharePoint", "Lists"]
 type: "regular"
 ---
 
-# Build a vacation tracker app with Lists and SharePoint for Teams
 
 When it is summer or the holidays season, we know it is vacation time. A likely number one question would then be when everyone else in the team is going to be on vacation. And that means someone in the team is creating or re-using a tracker, usually made with excel, to track people’s vacation days. This is usually complimented with a quick round-the-table update in a team meeting or chat, and sometimes this is the only way the information is shared. ​​​​​​​​
 
@@ -19,18 +18,14 @@ When it is summer or the holidays season, we know it is vacation time. A likely 
 
 With Lists, there is a smarter way to do that. Lists is your smart information tracking app across Microsoft 365. Lists are flexible and can be used to meet several different scenarios — business, team and personal. The calendar view in Lists offers a month-based view, with a customizable form interface to capture vacation information, making it a useful, easy-to-update vacation tracker, with neat display and accessibility options in Teams and SharePoint.
 
-
 ![Vacation tracker calendar list on a SharePoint page.png](images/Vacation tracker calendar list on a SharePoint page.png)
 
- 
 ### Teams
 
 The vacation tracker can be added as a tab in a Teams channel using the Lists app, from where everyone can add their vacation days and view others’ vacation days. With the Lists calendar view, each day in the calendar shows up to 5 entries in the view. Upon selecting the day, the events pane on the right shows all the entries for the day, which is, everyone who is on vacation that selected day.
 
  
 ![image2.png](images/image2.png)
-
-
 
 ### SharePoint
 
@@ -46,8 +41,6 @@ If you would like to set this up for your team, follow the below steps under “
 ![image4.png](images/image4.png)
 
 
-
-
 ## Creating the vacation tracker using the lists app in Teams
 
 ### How to create the vacation tracker list and display it in a Teams channel
@@ -56,7 +49,6 @@ In your team’s Teams channel, add a tab and select the “Lists” app.
 
  
 ![image5.png](images/image5.png)
-
 
 Save the tab.
 
@@ -68,14 +60,12 @@ Create the list.
 
  
 ![image7.jpg](images/image7.png)
-
  
 Start from a blank list.
 
-
 ![image8.png](images/image8.png)
 
- 
+
 Give it a name and create.
 
  
