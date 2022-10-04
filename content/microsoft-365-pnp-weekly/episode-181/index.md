@@ -1,50 +1,57 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 181"
-summary: " joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about technology migration strategies, work as consultant and MVP, and community involvement. 20 articles/videos/document updates by Microsoft/Community are highlighted."
-date: 2022-10-04T02:00:01-00:00
+summary: "Belgium based Microsoft Senior Service Engineer Bert Jansen joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about PnP tools - .NET libraries, Modernization, Microsoft 365 Assessment and about throttling vs rate limit headers. 14 articles/videos by Microsoft/Community are highlighted."
+date: 2022-10-03T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-180-promo.png
+- images/pnp-weekly-181-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=2uQA1iMhiFI
+- https://www.youtube.com/watch?v=0B3T8Qcfo3s
 draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Independent consultant and Microsoft MVP - [Chirag Patel](https://twitter.com/techChirag) (Patel Consulting) \| @techChirag.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Belgium based Senior Service Engineer [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) \| @O365Bert.
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
+* Evolution of and updates on PnP .NET libraries – PnP Framework and PnP Core SDK, and on Modernization (page transformation) tooling.
+* Development opportunities on core PnP tools. Do you write .NET?
+* Why should one care about the PnP Core library?
+* Work on the Microsoft 365 Assessment Tool (Scanner) with 2 assessment modules today - Syntex and Workflow and another in the works.
+* Understanding throttling, rate limit headers (alternative to throttling), resource units, requests and more.
+* Current work on a sample to show app performance using rate limit headers vs  throttling.
+* Tips on app development with throttling and rate limit headers.
 
 ## Resources referenced during discussion
 
-* [Hacktoberfest 2022](https://hacktoberfest.com/)
-* [Hacktoberfest and Microsoft Docs](https://learn.microsoft.com/contribute/hacktoberfest)
+* Tool - [Microsoft 365 Assessment tool](https://pnp.github.io/pnpassessment/index.html) \| aka.ms/microsoft365assessmenttool
+* Documentation - [Modernize your classic SharePoint sites](https://learn.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) \| aka.ms/sharepoint/modernization
+* Tool - [PnP Core SDK](https://pnp.github.io/pnpcore/) 
+* Documentation - [Microsoft Graph throttling guidance](https://learn.microsoft.com/graph/throttling) 
+* Documentation - [Avoid getting throttled or blocked in SharePoint Online](https://learn.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online) 
+* Event - [European SharePoint, Office 3665 & Azure Conference (ESPC22)](https://www.sharepointeurope.com/) – Copenhagen, November 2022 \| Bert’s session on APIs and throttling.
 
-Also, we showcased 20 articles/videos published by Microsoft and the PnP Community in the last week.
+Also, we showcased 14 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
-* **Bert** – 
-* **Waldek** – 
-* **Vesa** – 
+* **Bert** – talking to ISVs and customers, starting on spec for new scoring module for Microsoft 365 Assessment tool that will deliver actionable guidance, and on Throttling/Rate Limit Header sample.
+* **Waldek** – celebrating release of CLI for Microsoft 365 v5.8 last Friday and refocusing on v5.9 developments to be released in late October.
+* **Vesa** – defragging his calendar, evaluating an updated release on Microsoft Viva Toolkit (extensibility focus) after Microsoft Ignite. Supporting Ignite preparation plus baseline community coordination activities.
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, September 26, 2022.
+This session was recorded on Monday, October 3, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 2uQA1iMhiFI >}}
+    {{< youtube 0B3T8Qcfo3s >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-9cb9v-12d3268 >}}   
+    {{< podbean pb-c35mr-12dc349 >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -56,7 +63,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Microsoft Ignite 2022 guide to Viva, Syntex, SharePoint, OneDrive, Lists, Stream, Project and more](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-ignite-2022-guide-to-viva-syntex-sharepoint-onedrive/ba-p/3639460) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 * [Build a stock update notification bot for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/build-a-stock-update-notification-bot-for-microsoft-teams-using-teams-toolkit-for-visual-studio-code/) - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
 * [Microsoft Teams apps coming in preview to Office and Outlook apps on Android](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-apps-coming-in-preview-to-office-and-outlook-apps-on-android/) - [Sanjay Joshi](https://twitter.com/sanjoshi) (Microsoft) | @sanjoshi
-* [Power Platform Developer Tools monthly release update (August Refresh)](https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-monthly-release-update-august-refresh/) - Kartik Kanakasabesan (Microsoft)
+* [Power Platform Developer Tools monthly release update (August Refresh)](https://powerapps.microsoft.com/blog/power-platform-developer-tools-monthly-release-update-august-refresh/) - Kartik Kanakasabesan (Microsoft)
 
 
 ## Community articles
