@@ -35,7 +35,8 @@ When added to a SharePoint communication or teamsite, with the addition of a hel
 ![Vacation tracker with filters embedded in a SharePoint page.png](images/image3.png "Vacation tracker with filters embedded in a SharePoint page")
 
 
-If you would like to set this up for your team, follow the below steps under “Creating the vacation tracker using the lists app in Teams”. If you would like to extend that and add additional capability of dynamic filtering illustrated in the image above, follow the steps under “Extending the vacation tracker for dynamic filtering using SharePoint page in Teams”
+If you would like to set this up for your team, follow the below steps under “Creating the vacation tracker using the lists app in Teams”. If you would like to extend that and add additional capability of dynamic filtering illustrated in the image above, follow the steps under “Extending the vacation tracker for dynamic filtering using SharePoint page in Teams.”
+
 
 
 
@@ -48,25 +49,35 @@ In your team’s Teams channel, add a tab and select the “Lists” app.
 
 ![Add the Lists app as a tab in Teams.png](images/image4.png "Add the Lists app as a tab in Teams")
 
+
 Save the tab.
+
  
 ![Save the Lists tab.png](images/image5.png "Save the Lists tab")
 
+
 Create the list.
+
  
 ![Create the list.png](images/image6.png "Create the list")
 
+
 Start from a blank list.
 
+
 ![Start from a blank list..jpg](images/image7.png "Start from a blank list.")
+
  
 Give it a name and create.
 
+
 ![Name the list.png](images/image8.png "Name the list")
+
 
 Use the “Add column” button to add fields for start & end dates. You could add more fields that are relevant for your team, if needed.
 
 Optional at this stage: click “New” and add your own vacation entry, to get some initial data in.
+
  
 ![Add and rename columns.png](images/image9.png "Add and rename columns")
 
