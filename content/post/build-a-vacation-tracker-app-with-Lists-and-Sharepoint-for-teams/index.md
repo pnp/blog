@@ -18,7 +18,7 @@ When it is summer or the holidays season, we know it is vacation time. A likely 
 
 With Lists, there is a smarter way to do that. Lists is your smart information tracking app across Microsoft 365. Lists are flexible and can be used to meet several different scenarios — business, team and personal. The calendar view in Lists offers a month-based view, with a customizable form interface to capture vacation information, making it a useful, easy-to-update vacation tracker, with neat display and accessibility options in Teams and SharePoint.
 
-![Vacation tracker calendar list on a SharePoint page.png](images/image1.png)
+![Vacation tracker calendar list on a SharePoint page.png](images/image1.png "Vacation tracker calendar list on a SharePoint page")
 
 ### Teams
 
