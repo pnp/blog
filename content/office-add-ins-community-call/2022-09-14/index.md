@@ -66,7 +66,7 @@ Yes, both new and existing add-ins will be able to use the Outlook REST API unti
 
 **Will the 'auto-launch' of an add-in from a Word document also apply to add-ins that are not acquired from the Office Store, but are deployed by an administrator internally as one of the admin-managed add-ins?**
 
-We will need to verify this. Add-ins that are centrally deployed are supported.
+Add-ins that are centrally deployed by an administrator are currently supported by auto-launch.
 
 
 **This embedding is nice to have (if it works correctly), but are you considering to come up with the more traditional way, i.e. possibility to 'install/enable' the add-in for application level, not per the document? Or is it totally out of scope?**
@@ -96,7 +96,7 @@ We're sorry to hear you're experiencing issues in Outlook on Mac. If you haven't
     *Sample - [Web application that uses Open XML SDK to configure Office documents to automatically open a specified add-in](https://github.com/OfficeDev/Office-OOXML-EmbedAddin)
     *Documentation - [Configure your Office Add-in to use a shared runtime](https://docs.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime)
     *Survey - [Structured document content usage in Word add-ins](https://aka.ms/WordAPI)
-    * Feedback - [Improve Word add-ins](https://ux.microsoft.com/Panel/WordAddinDeveloper?utm_campaign=community_call&&utm_source=community_call&&utm_medium=qrcode)
+    *Community Panel - [Improve Word add-ins](https://ux.microsoft.com/Panel/WordAddinDeveloper?utm_campaign=community_call&&utm_source=community_call&&utm_medium=qrcode)
 * **Blazer Sample Update**
     * Repo - [Office Add-ins code samples](https://github.com/OfficeDev/Office-Add-in-samples)
     * Sample - [Create a Blazor Webassembly Outlook add-in](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/blazor-add-in/outlook-blazor-add-in) 
@@ -118,7 +118,7 @@ We're sorry to hear you're experiencing issues in Outlook on Mac. If you haven't
 
 ## Stay connected
 
-* See the full blog post at [Microsoft 365 platform community blog](https://aka.ms/m365pnp/blog)
+* Follow our blog posts at [Microsoft 365 platform community blog](https://aka.ms/m365pnp/blog)
 * [Follow @microsoft365dev on Twitter](https://twitter.com/microsoft365dev)
 * [Microsoft 365 Platform Community on YouTube](https://aka.ms/m365/videos)
 * Invites to all [Microsoft 365 Developer Community calls](https://aka.ms/M365DevCalls)
