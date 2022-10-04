@@ -25,20 +25,19 @@ With Lists, there is a smarter way to do that. Lists is your smart information t
 The vacation tracker can be added as a tab in a Teams channel using the Lists app, from where everyone can add their vacation days and view others’ vacation days. With the Lists calendar view, each day in the calendar shows up to 5 entries in the view. Upon selecting the day, the events pane on the right shows all the entries for the day, which is, everyone who is on vacation that selected day.
 
  
-![Vacation tracker as a tab in a Teams channel.png](images/image2.png)
+![Vacation tracker as a tab in a Teams channel.png](images/image2.png "Vacation tracker as a tab in a Teams channel")
 
 ### SharePoint
 
 When added to a SharePoint communication or teamsite, with the addition of a helper list (a second list) that contains just the team members names, it is then possible to create dynamic filters for the vacation tracker. So, when selecting a name in the helper list, the vacation tracker is filtered to show the selected team members’ vacation days.
 
 
-![Vacation tracker with filters embedded in a SharePoint page.png](images/image3.png)
+![Vacation tracker with filters embedded in a SharePoint page.png](images/image3.png "Vacation tracker with filters embedded in a SharePoint page")
 
 
 If you would like to set this up for your team, follow the below steps under “Creating the vacation tracker using the lists app in Teams”. If you would like to extend that and add additional capability of dynamic filtering illustrated in the image above, follow the steps under “Extending the vacation tracker for dynamic filtering using SharePoint page in Teams”
 
 
-![Add a tab in Teams.png](images/image4.png)
 
 
 ## Creating the vacation tracker using the lists app in Teams
@@ -47,49 +46,43 @@ If you would like to set this up for your team, follow the below steps under “
 
 In your team’s Teams channel, add a tab and select the “Lists” app.
 
- 
-![image5.png](images/image5.png)
+![Add the Lists app as a tab in Teams.png](images/image4.png "Add the Lists app as a tab in Teams")
 
 Save the tab.
-
  
-![image6.jpg](images/image6.png)
-
+![Save the Lists tab.png](images/image5.png "Save the Lists tab")
 
 Create the list.
+ 
+![Create the list.png](images/image6.png "Create the list")
 
- 
-![image7.jpg](images/image7.png)
- 
 Start from a blank list.
 
-![image8.png](images/image8.png)
-
-
+![Start from a blank list..jpg](images/image7.png "Start from a blank list.")
+ 
 Give it a name and create.
 
- 
-![image9.png](images/image9.png)
+![Name the list.png](images/image8.png "Name the list")
 
- 
 Use the “Add column” button to add fields for start & end dates. You could add more fields that are relevant for your team, if needed.
 
 Optional at this stage: click “New” and add your own vacation entry, to get some initial data in.
-
  
-![image10.png](images/image10.png)
+![Add and rename columns.png](images/image9.png "Add and rename columns")
 
 
 Create the calendar view.
 
+![Create a new view.png](images/image10.png "Create a new view")
+
  
-![image11.png](images/image11.png)
+![Create the calendar view.png](images/image11.png "Create the calendar view")
 
 
 Set the view as the default view.
 
 
-![image12.png](images/image12.png)
+![Set the view as the default view.png](images/image12.png "Set the view as the default view")
 
 
 That is, it and the list calendar is ready to use.
@@ -97,19 +90,19 @@ That is, it and the list calendar is ready to use.
 To add an entry to the vacation tracker list, click the new button to open the form.
 
  
-![image13.png](images/image13.png)
+![Add an entry to the list.png](images/image13.png "Add an entry to the list")
 
 
 In the form, fill up your name and vacation start and end dates and save.
 
 
-![image14.png](images/image14.png)
+![Fill up the form to complete the entry.png](images/image14.png "Fill up the form to complete the entry")
 
  
 You should then see your entry show up in the calendar view of the list.
 
 
-![image15.png](images/image15.png)
+![Your entry show up in the list.png](images/image15.png "Your entry show up in the list")
 
  
 At this point you can stop and use the list (vacation tracker) as it is. But if you would like to add more flexibility to it by adding the ability to filter and see anyone’s vacation days, read on. The steps under “Extending the vacation tracker for dynamic filtering using SharePoint page in Teams” below show you how to add that dynamic filtering to the vacation tracker, which will be useful especially for a large team.
@@ -125,56 +118,56 @@ At this point you can stop and use the list (vacation tracker) as it is. But if 
 From the Posts tab in your teams' channel, open the connected SharePoint team site.
 
 
-![image16.png](images/image16.png)
+![Open the connected SharePoint team site.png](images/image16.png "Open the connected SharePoint team site")
 
 
 Head to the Home tab
 
 
-![image17.png](images/image17.png)
+![Head to the Home tab.png](images/image17.png "Head to the Home tab")
 
 
 Create a new page
 
 
-![image18.png](images/image18.png)
-![image19.png](images/image19.png)
+![Create a new page.png](images/image18.png "Create a new page")
+![Create a new page.png](images/image19.png "Create a new page")
 
 
 Give the page a title
 
 
-![image20.png](images/image20.png)
+![Give the page a title.png](images/image20.png "Give the page a title")
 
 
 Add the Lists web part
 
 
-![image21.png](images/image21.png)
+![Add the Lists web part.png](images/image21.png "Add the Lists web part")
 
 
 Select the team vacation tracker list you just created.
 
 
-![image22.png](images/image22.png)
+![Select the vacation tracker list.png](images/image22.png "Select the vacation tracker list")
 
 
 Select the vacation tracker view and apply the settings below.
 
 
-![image23.png](images/image23.png)
+![Select the vacation tracker view.png](images/image23.png "Select the vacation tracker view")
 
 
 Save and publish the page.
 
 
-![image24.png](images/image24.png)
+![Save and publish the page.png](images/image24.png "Save and publish the page")
 
 
 Once published, the page looks like this below.
 
 
-![image25.png](images/image25.png)
+![The published page with the list embedded.png](images/image25.png "The published page with the list embedded")
 
 
 
@@ -186,37 +179,37 @@ The helper list is a list of all team members that can be used to filter the tea
 From the SharePoint page, open the home page in a separate tab/window.
 
 
-![image26.png](images/image26.png)
+![Open the home page in a separate browser tab or window.png](images/image26.png "Open the home page in a separate browser tab or window")
 
 
 In the new browser tab/window, create a new List.
 
 
-![image27.png](images/image27.png)
+![Create a new List.png](images/image27.png "Create a new List")
 
 
 Create the list from a blank List
 
 
-![image28.png](images/image28.png)
+![Create the list from a blank List.png](images/image28.png "Create the list from a blank List")
 
 
 Give the list a name and create
 
 
-![image29.png](images/image29.png)
+![Give the list a name and create.png](images/image29.png "Give the list a name and create")
 
 
-Edit in Grid view
+Edit the list in Grid view
 
 
-![image30.png](images/image30.png)
+![Edit in the list in Grid view.png](images/image30.png "Edit in the list in Grid view")
 
 
 Enter all team members’ names in the Title field and then Exit grid view to save the data.
 
 
-![image31.png](images/image31.png)
+![Create entries in the list and save.png](images/image31.png "Create entries in the list and save")
 
 
 
@@ -228,38 +221,38 @@ Head back to the Vacations tracker page you created earlier, which is in the pre
 Edit the page.
 
 
-![image32.png](images/image32.png)
+![Edit the Vacations tracker page.png](images/image32.png "Edit the Vacations tracker page")
 
 
 Add a vertical section to the page.
 
 
-![image33.png](images/image33.png)
-![image34.png](images/image34.png)
+![Add a vertical section to the page.png](images/image33.png "Add a vertical section to the page")
+![Add a vertical section to the page.png](images/image34.png "Add a vertical section to the page")
 
 
 Add the list web part.
 
 
-![image35.png](images/image35.png)
+![Add the list web part.png](images/image35.png "Add the list web part")
 
 
 Select the Team members list.
 
 
-![image36.png](images/image36.png)
+![Select the Team members list.png](images/image36.png "Select the Team members list")
 
 
 Apply the below settings.
 
 
-![image37.png](images/image37.png)
+![Apply settings.png](images/image37.png "Apply settings")
 
 
 Now that the two lists are displayed on the page, the last step is to connect them both. To do that, select the vacations tracker list on the page and click Edit. Enable dynamic filtering and apply the settings shown below.
 
 
-![image38.png](images/image38.png)
+![Apply dynamic filter settings.png](images/image38.png "Apply dynamic filter settings")
 
 
 Save the page and republish.
@@ -267,7 +260,7 @@ Save the page and republish.
 Now, when one or more of the team members are selected, the vacations tracker list on the page will only show the vacation days of the selected team member names.
 
 
-![image39.png](images/image39.png)
+![Filter in action.png](images/image39.png "Filter in action")
 
 
 
@@ -279,33 +272,33 @@ By doing this last step, you bring the page directly into a teams channel as a t
 In your teams channel, add a tab and select the app SharePoint pages.
 
 
-![image40.png](images/image40.png)
+![Add the SharePoint pages app as a tab in Teams.png](images/image40.png "Add the SharePoint pages app as a tab in Teams")
 
 
 Select the Vacations tracker page and save.
 
 
-![image41.png](images/image41.png)
+![Vacations tracker page.png](images/image41.png "Vacations tracker page")
 
 
 To allow team members to add their vacation entries, edit the page and enable the command bar for the vacations tracker list.
  
 
-![image42.png](images/image42.png)
+![Enable the command bar for the list.png](images/image42.png "Enable the command bar for the list")
 
-![image43.png](images/image43.png)
+![Enable the command bar for the list.png](images/image43.png "Enable the command bar for the list")
 
 
 Save and republish the page.
 
 
-![image44.png](images/image244.png)
+![Save and republish the page.png](images/image244.png "Save and republish the page")
 
 
 Everyone in the team can add vacation entries using the form.
 
 
-![image45.png](images/image45.png)
+![The command bar is enabled.png](images/image45.png "The command bar is enabled")
 
 
 
@@ -317,25 +310,25 @@ With the new conditional formatting feature for Calendar views, you can color co
 Open the view, format it and set colors based on rules applied on fields available in the view.
 
 
-![image46.png](images/image46.png)
+![Format the calendar view.png](images/image46.png "Format the calendar view")
 
 
 Add rule.
 
 
-![image47.png](images/image47.png)
+![Add rule.png](images/image47.png "Add rule")
 
 
 Apply the settings below and save the rule. Go back and create a rule for each team member and save.
 
 
-![image48.png](images/image48.png)
+![Apply settings and save the rule.png](images/image48.png "Apply settings and save the rule")
 
 
 The final result is a vacation tracker that looks like this.
 
 
-![image49.png](images/image49.png)
+![The end result of the vacation tracker, embedded in SharePoint and displayed in Teams.png](images/image49.png "The end result of the vacation tracker, embedded in SharePoint and displayed in Teams")
 
 
 
