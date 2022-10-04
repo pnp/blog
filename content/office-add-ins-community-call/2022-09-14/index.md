@@ -19,16 +19,16 @@ draft: false
 ## This month's agenda and presenters
 
 The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft  
-* **Microsoft Word Extensibility Update.** Four topics covered:  Embed an Add-in into a Word document, shared runtime support, structured document survey result, and Word panel introduction. [Yun Wang](), Principal Product Manager, Microsoft. 
-* **Microsoft Outlook Add-in Blazer Sample Update.** Step through setting up Blazor environment and sample project. [Eric Legault](https://twitter.com/elegault).
-* **Community spotlight.** recognizes [Thomas Barnekow](https://www.linkedin.com/in/thomas-barnekow-2580b11), Senior Principal Software Architect, [Analog Devices](https://www.analog.com/en/index.html).
+* **Microsoft Word Extensibility Update.** Four topics covered:  Embed an add-in into a Word document, shared runtime support, structured document survey result, and Word panel introduction. Yun Wang, Principal Product Manager, Microsoft. 
+* **Microsoft Outlook Add-in Blazer Sample Update.** Step through Blazor environment setup and sample project. [Eric Legault](https://twitter.com/elegault).
+* **Community spotlight.** Recognizing [Thomas Barnekow](https://www.linkedin.com/in/thomas-barnekow-2580b11), Senior Principal Software Architect, [Analog Devices](https://www.analog.com/en/index.html).
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
 
 {{< youtu.be/KKAGvdh1Jfk >}}
 
-## View Video Segments
+## View video segments
 
-* Microsoft Word Extensibility Update [00:54] (https://youtu.be/KKAGvdh1Jfk?t=54)
+* Microsoft Word Extensibility Update [00:54](https://youtu.be/KKAGvdh1Jfk?t=54)
 * Demo - Microsoft Outlook Add-in Blazer Sample Update [9:22] (https://youtu.be/KKAGvdh1Jfk?t=562)
 * Community spotlight [23:44] (https://youtu.be/KKAGvdh1Jfk?t=1424)
 * Q&A [23:56](https://youtu.be/KKAGvdh1Jfk?t=1436)
@@ -83,7 +83,7 @@ Office 2016, Version 1705, build 16.0.8122.1000 Click-to-Run, or later. For thos
 
 **Does Blazor support async/await?**
 
-Yes, you can write c# code and use async/await. However Blazor WebAssembly runs in the JavaScript runtime, and therefore runs single-threaded. Be careful not to call .Result, or Wait() as this can block the thread and lead to a deadlock. For more details, and patterns to consider, see https://github.com/dotnet/aspnetcore/issues/14253
+Yes, you can write C# code and use async/await. However, Blazor WebAssembly runs in the JavaScript runtime, and therefore runs single-threaded. Be careful not to call .Result, or Wait() as this can block the thread and lead to a deadlock. For more details, and patterns to consider, see https://github.com/dotnet/aspnetcore/issues/14253.
 
 **Bumping the One Outlook topic and wondering about improved Mac Outlook support. We still continue to face edge cases and inconsistencies on Mac surrounding writing base64 attachments, as well as inline images.**
 
@@ -94,7 +94,7 @@ We're sorry to hear you're experiencing issues in Outlook on Mac. If you haven't
 
 * **Microsoft Word Extensibility Update **
     *Sample - [Web application that uses Open XML SDK to configure Office documents to automatically open a specified add-in](https://github.com/OfficeDev/Office-OOXML-EmbedAddin)
-    *Documentation - [Configure your Office Add-in to use a shared runtime](https://docs.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime)
+    *Documentation - [Configure your Office Add-in to use a shared runtime](https://learn.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime)
     *Survey - [Structured document content usage in Word add-ins](https://aka.ms/WordAPI)
     *Community Panel - [Improve Word add-ins](https://ux.microsoft.com/Panel/WordAddinDeveloper?utm_campaign=community_call&&utm_source=community_call&&utm_medium=qrcode)
 * **Blazer Sample Update**
@@ -102,9 +102,9 @@ We're sorry to hear you're experiencing issues in Outlook on Mac. If you haven't
     * Sample - [Create a Blazor Webassembly Outlook add-in](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/blazor-add-in/outlook-blazor-add-in) 
     * Developer sandbox - [Join the Microsoft 365 Developer Program today!](https://developer.microsoft.com/microsoft-365/dev-program) 
     * Website – [Blazor - Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-    * Documentation - [ASP.NET Core Blazor fundamentals](https://docs.microsoft.com/aspnet/core/blazor/fundamentals) 
-    * Documentation - [Tooling for ASP.NET Core Blazor](https://docs.microsoft.com/aspnet/core/blazor/tooling)
-    * Documentation - [ASP.NET Core Blazor project structure](https://docs.microsoft.com/aspnet/core/blazor/project-structure) 
+    * Documentation - [ASP.NET Core Blazor fundamentals](https://learn.microsoft.com/aspnet/core/blazor/fundamentals) 
+    * Documentation - [Tooling for ASP.NET Core Blazor](https://learn.microsoft.com/aspnet/core/blazor/tooling)
+    * Documentation - [ASP.NET Core Blazor project structure](https://learn.microsoft.com/aspnet/core/blazor/project-structure) 
     * Documentation - [ASP.NET Core Blazor hosting models](https://docs.microsoft.com/aspnet/core/blazor/hosting-models)
     * Documentation - [ASP.NET Core Blazor JavaScript interoperability (JS interop)](https://docs.microsoft.com/aspnet/core/blazor/javascript-interoperability)
     * Documentation - [Host and deploy ASP.NET Core Blazor](https://docs.microsoft.com/aspnet/core/blazor/host-and-deploy) 
