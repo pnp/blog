@@ -53,6 +53,10 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
+{{< image alt="together-stil-221004.png" src="images/together-stil-221004.png" >}} 
+
+Great seeing so many familiar faces in the room today. Thank you for joining the community call today and/or for viewing it on demand.
+
 ## Actions
 
 * [Register](https://ignite.microsoft.com) for Microsoft Ignite – October 12-14, 2022. Attendance options: Online, in-person in Redmond and selected geographies (local language) as well.
