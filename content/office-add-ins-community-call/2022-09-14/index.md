@@ -24,7 +24,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 * **Community spotlight.** Recognizing [Thomas Barnekow](https://www.linkedin.com/in/thomas-barnekow-2580b11), Senior Principal Software Architect, [Analog Devices](https://www.analog.com/en/index.html).
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
 
-{{< youtu.be/KKAGvdh1Jfk >}}
+{{< youtube KKAGvdh1Jfk >}}
 
 ## View video segments
 
