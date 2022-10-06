@@ -8,27 +8,14 @@
       <img src="{{ $image.RelPermalink }}" style="width:auto;" {{ with .Text }} title="{{ . }}" alt="{{ . }}"{{ end }}>
     {{/*  else, resize to responsive breakpoints  */}}
     {{ else }}
-      {{- $fallbackImage := $image.Resize "850x jpg" -}}
-      {{/*  supported responsive image dimensions  */}}
-      {{- $respSizes := slice "325" "675" -}}
-      {{- $sourceSizes := "(max-width: 400px) 325px, 675px" -}}
       <figure>
-        <picture>
-          <source type="image/webp"
-                  srcset="{{- with $respSizes -}}
-                    {{- range $i, $e := . -}}
-                      {{- if ge $image.Width . -}}
-                        {{- if $i }}, {{ end -}}{{- ($image.Resize (printf "%sx%s" . " webp") ).RelPermalink }} {{ . }}w
-                      {{- end -}}
-                    {{- end -}}
-                  {{- end -}}"
-                  sizes="{{ $sourceSizes }}"
-          />
-          <img src="{{ $fallbackImage.RelPermalink | safeURL }}"
-               style="width:auto;" loading="lazy"
-               width="{{ $image.Width }}" height="{{ $image.Height }}"
-               {{ with .Text }} title="{{ . }}" alt="{{ . }}"{{ end }}>
-        </picture>
+        {{ partial "responsive-image" (dict
+              "image" $image
+              "imageSizes" (slice "325" "700")
+              "sourceSizes" "(max-width: 325px) 325px, 700px"
+              "altTitle" .Text
+            )
+        }}
         {{ with .Title }}<figcaption>{{ . | markdownify }}</figcaption> {{ end }}
       </figure>
     {{ end }}
