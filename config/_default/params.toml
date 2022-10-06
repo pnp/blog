@@ -91,6 +91,7 @@ expire_days = 2
 [widgets]
 sidebar = ["categories", "tags", "recent-post", "social"]
 # available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
+# do not use: about-me,authors (all widgets are cached so will be same across entire site)
 
 
 ############################# social site ########################

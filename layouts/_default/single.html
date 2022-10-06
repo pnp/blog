@@ -1,160 +1,150 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "microsoft-viva-and-spfx-community-call") (eq .Section "cli-for-microsoft-365") (eq .Section "cli-for-microsoft-365") (eq .Section "m365-dev-podcast") (eq .Section "microsoft-365-developer-community-call")
-(eq .Section "categories") (eq .Section "tags") (eq .Section "adaptive-card-community-call") (eq .Section "power-platform-community-call") (eq .Section "microsoft-teams-community-call") (eq .Section "microsoft-365-platform-community-update") (eq .Section "microsoft-365-pnp-weekly") (eq .Section "m365-pnp-weekly") (eq .Section "adaptive-cards-community-call") (eq .Section "microsoft-365-pnp-community") (eq .Section "weekly-agenda") (eq .Section "office-add-ins-community-call") (eq .Section "microsoft-graph-community-call") (eq .Section "microsoft-identity-platform-community-call") (eq .Section "microsoft-365-platform-community-call") (eq .Section "pnp-powershell")}}
+{{ if or (eq .Section "post") (eq .Section "microsoft-viva-and-spfx-community-call") (eq .Section
+"cli-for-microsoft-365") (eq .Section "cli-for-microsoft-365") (eq .Section "m365-dev-podcast") (eq .Section
+"microsoft-365-developer-community-call")
+(eq .Section "categories") (eq .Section "tags") (eq .Section "adaptive-card-community-call") (eq .Section
+"power-platform-community-call") (eq .Section "microsoft-teams-community-call") (eq .Section
+"microsoft-365-platform-community-update") (eq .Section "microsoft-365-pnp-weekly") (eq .Section "m365-pnp-weekly") (eq
+.Section "adaptive-cards-community-call") (eq .Section "microsoft-365-pnp-community") (eq .Section "weekly-agenda") (eq
+.Section "office-add-ins-community-call") (eq .Section "microsoft-graph-community-call") (eq .Section
+"microsoft-identity-platform-community-call") (eq .Section "microsoft-365-platform-community-call") (eq .Section
+"pnp-powershell")}}
 
-{{ $sidebar:= site.Params.sidebar }}
-{{ $hasbar:= or (eq $sidebar `left`) (eq $sidebar `right`)}}
-{{ $layout:= site.Params.post_layout}}
-{{ $widget:= site.Params.widgets.sidebar }}
+  {{ $sidebar:= site.Params.sidebar }}
+  {{ $hasbar:= or (eq $sidebar `left`) (eq $sidebar `right`)}}
+  {{ $layout:= site.Params.post_layout}}
+  {{ $widget:= site.Params.widgets.sidebar }}
 
+  <div class="py-4"></div>
 
-
-<div class="py-4"></div>
-
-<section class="section">
+  <section class="section">
     <div class="container">
-        <div class="row">
-            <!-- left sidebar -->
-            {{ if eq $sidebar "left" }}
-            <aside class="col-lg-4 order-2 order-lg-1">
-                {{- partial "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
-            </aside>
-            {{ end }}
-            <!-- /left sidebar -->
+      <div class="row">
+        <!-- left sidebar -->
+        {{ if eq $sidebar "left" }}
+        <aside class="col-lg-4 order-2 order-lg-1">
+          {{- partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
+        </aside>
+        {{ end }}
+        <!-- /left sidebar -->
 
-            <div
-                class="{{if $hasbar}} col-lg-8 {{ else }} col-lg-10 mx-auto {{end}} {{if eq $sidebar `left`}} order-1 order-lg-2 {{end}} mb-5 mb-lg-0">
-                <article>
-                    {{ $resources:= .Resources }}
-                    <!-- post thumb -->
-                    {{ with .Params.images }}
-                    <div class="mb-4">
-                        {{ range first 1 .}}
-                        {{ $imgPath:= . }}
-                            {{ if findRE `^https?://` $imgPath }}
-                                <img src="{{ $imgPath | absURL }}" class="card-img" loading="lazy" alt="post-thumb">
-                            {{ else  if (and (hasPrefix $imgPath `images/blog/`) (fileExists (add `assets/` $imgPath))) }}
-                                {{ $image:= resources.Get $imgPath }}
-                                {{ $imageMD:= $image.Fill "700x330 webp" }}
-                                {{ $imageLG:= $image.Fill "510x240 webp" }}
-                                {{ $imageSM:= $image.Fill "380x180 webp" }}
-                                <picture>
-                                    <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
-                                    <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 767px)">
-                                    <source srcset="{{ $imageLG.Permalink }}" media="(max-width: 991px)">
-                                    <source srcset="{{$imageMD.Permalink}}">
-                                    <img src="{{$image.Permalink}}" class="card-img img-fluid" loading="lazy" alt="post-thumb"
-                                    max-width="{{$image.Width}}" max-height="{{$image.Height}}">
-                                </picture>
-                            {{ else }}
-                                {{ with $resources.GetMatch $imgPath }}
-                                {{ $image:= . }}
-                                {{ $imageMD:= $image.Fill "700x330 webp" }}
-                                {{ $imageLG:= $image.Fill "510x240 webp" }}
-                                {{ $imageSM:= $image.Fill "380x180 webp" }}
-                                <picture>
-                                    <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
-                                    <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 767px)">
-                                    <source srcset="{{ $imageLG.Permalink }}" media="(max-width: 991px)">
-                                    <source srcset="{{$imageMD.Permalink}}">
-                                    <img src="{{$image.Permalink}}" class="card-img img-fluid" loading="lazy" alt="post-thumb"
-                                    max-width="{{$image.Width}}" max-height="{{$image.Height}}">
-                                </picture>
-                                {{ else }}
-                                <img src="{{ . | absURL }}" class="card-img" loading="lazy" alt="post-thumb">
-                                {{ end }}
-                            {{ end }}
-                        {{ end }}
-                    </div>
-                    {{ end }}
-                    <!-- /post thumb -->
+        <div class="{{if $hasbar}} col-lg-8 {{ else }} col-lg-10 mx-auto {{end}} {{if eq $sidebar `left`}} order-1 order-lg-2 {{end}} mb-5 mb-lg-0">
+          <article>
+            <!-- post thumb -->
+            {{ $thumbnail := partial "get-featured-image" . }}
 
-                    <h1 class="h2">{{ .Title }}</h1>
-                    <ul class="card-meta my-3 list-inline">
-                        <li class="list-inline-item">
-                            {{ if .Params.githubname }}
-                            <a href="https://github.com/{{ .Params.githubname }}/" class="card-meta-author">
-                              <img loading="lazy" decoding="async" width="24" height="24" src="https://github.com/{{ .Params.githubname }}.png" alt="{{ .Params.githubname }}" class="img-fluid">
-                              <span>{{ .Params.author }}</span>
-                            </a>
-                            {{ else }}
-                            <span>{{ .Params.author }}</span>
-                            {{ end }}
-                        </li>
-                        <li class="list-inline-item">
-                            <i class="far fa-clock"></i>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}
-                        </li>
-                        <li class="list-inline-item">
-                            <i class="far fa-calendar-alt"></i>{{ .PublishDate.Format "02 Jan, 2006" }}
-                        </li>
-                        <li class="list-inline-item">
-                            <ul class="card-meta-tag list-inline">
-                                {{ $filter:= site.Params.main_taxonomy }}
-                                {{ if eq $filter "tag" }}
-                                {{ $taxonomies := .Params.tags }}
-                                {{ range $taxonomies }}
-                                <li class="list-inline-item"><a
-                                        href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a>
-                                </li>
-                                {{ end }}
-                                {{ else if eq $filter "category" }}
-                                {{ $taxonomies := .Params.categories }}
-                                {{ range $taxonomies }}
-                                <li class="list-inline-item"><a
-                                        href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize
-                                        }}</a></li>
-                                {{ end }}
-                                {{ end }}
-                            </ul>
-                        </li>
-                        <li class="list-inline-item">
-                            <img src="https://api.visitorbadge.io/api/combined?path={{ .Permalink | safeURL }}&label=Views&labelColor=%23ffffff&countColor=%234c71d2&style=flat-square" title="Daily/total views" alt="Views (daily/total)" />
-                            </li>
-                    </ul>
-                    <div class="content">{{ .Content }}</div>
-                </article>
-                <!-- comments -->
-                {{ if site.DisqusShortname }}
-                <div class="mt-5 border-default border p-4 bg-white">
-                    {{ template "_internal/disqus.html" . }}
+            {{ if $thumbnail }}
+              {{- $fallbackImage := $thumbnail.Resize "700x jpg" -}}
+              {{/*  supported responsive image dimensions  */}}
+              {{- $respSizes := slice "400" "700" -}}
+              {{- $sourceSizes := "(max-width: 400px) 400px, 700px" -}}
+              <div class="mb-4">
+                <picture>
+                  <source type="image/webp"
+                          srcset="{{- with $respSizes -}}
+                            {{- range $i, $e := . -}}
+                              {{- if ge $thumbnail.Width . -}}
+                                {{- if $i }}, {{ end -}}{{- ($thumbnail.Resize (printf "%sx%s" . " webp") ).RelPermalink }} {{ . }}w
+                              {{- end -}}
+                            {{- end -}}
+                          {{- end -}}"
+                          sizes="{{ $sourceSizes }}"
+                  />
+                  <img src="{{ $fallbackImage.RelPermalink | safeURL }}"
+                       style="width:auto;" loading="lazy"
+                       {{ with .Title }} title="{{ . }}" alt="{{ . }}"{{ end }}>
+                </picture>
+              </div>
+            {{ else }}
+              {{ with .Params.images }}
+                {{/*  use string path to image  */}}
+                <div class="mb-4">
+                  <img src="{{ (index . 0) | absURL }}" class="card-img" loading="lazy" alt="post-thumb">
                 </div>
+              {{ end }}
+            {{ end }}
+            <!-- /post thumb -->
+
+            <h1 class="h2">{{ .Title }}</h1>
+            <ul class="card-meta my-3 list-inline">
+              <li class="list-inline-item">
+                {{ if .Params.githubname }}
+                  <a href="https://github.com/{{ .Params.githubname }}/" class="card-meta-author">
+                    <img loading="lazy" decoding="async" width="24" height="24" src="https://github.com/{{ .Params.githubname }}.png" alt="{{ .Params.githubname }}" class="img-fluid">
+                    <span>{{ .Params.author }}</span>
+                  </a>
+                {{ else }}
+                  <span>{{ .Params.author }}</span>
                 {{ end }}
-                <script src="https://utteranc.es/client.js"
-                repo="pnp/blog"
-                issue-term="title"
-                theme="github-light"
-                crossorigin="anonymous"
-                async>
-        </script>
+              </li>
+              <li class="list-inline-item">
+                <i class="far fa-clock"></i>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}
+              </li>
+              <li class="list-inline-item">
+                <i class="far fa-calendar-alt"></i>{{ .PublishDate.Format "02 Jan, 2006" }}
+              </li>
+              <li class="list-inline-item">
+                <ul class="card-meta-tag list-inline">
+                  {{ $filter:= site.Params.main_taxonomy }}
+                  {{ if eq $filter "tag" }}
+                    {{ range .Params.tags }}
+                      <li class="list-inline-item">
+                        <a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a>
+                      </li>
+                    {{ end }}
+                  {{ else if eq $filter "category" }}
+                    {{ range .Params.categories }}
+                      <li class="list-inline-item">
+                        <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a>
+                      </li>
+                    {{ end }}
+                  {{ end }}
+                </ul>
+              </li>
+              <li class="list-inline-item">
+                <img src="https://api.visitorbadge.io/api/combined?path={{ .Permalink | safeURL }}&label=Views&labelColor=%23ffffff&countColor=%234c71d2&style=flat-square" title="Daily/total views" alt="Views (daily/total)" />
+              </li>
+            </ul>
+            <div class="content">
+              {{ .Content }}
             </div>
-
-            <!-- right sidebar -->
-            {{ if eq $sidebar "right" }}
-            <aside class="col-lg-4">
-                {{- partial "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
-            </aside>
-            {{ end }}
-            <!-- /right sidebar -->
+          </article>
+          <!-- comments -->
+          {{ if site.DisqusShortname }}
+            <div class="mt-5 border-default border p-4 bg-white">
+              {{ template "_internal/disqus.html" . }}
+            </div>
+          {{ end }}
+          <script src="https://utteranc.es/client.js" repo="pnp/blog" issue-term="title" theme="github-light" crossorigin="anonymous" async></script>
         </div>
-    </div>
-</section>
 
-<!-- regular page -->
+        <!-- right sidebar -->
+        {{ if eq $sidebar "right" }}
+        <aside class="col-lg-4">
+          {{- partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
+        </aside>
+        {{ end }}
+        <!-- /right sidebar -->
+      </div>
+    </div>
+  </section>
+
+  <!-- regular page -->
 {{ else }}
-{{ partial "page-header.html" . }}
-<section class="section-sm">
+  {{ partialCached "page-header.html" . }}
+  <section class="section-sm">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-10 mx-auto">
-                <div class="content">
-                    {{.Content}}
-                </div>
-            </div>
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <div class="content">
+            {{.Content}}
+          </div>
         </div>
+      </div>
     </div>
-</section>
+  </section>
 {{ end }}
 <!-- /regular page -->
 

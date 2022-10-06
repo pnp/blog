@@ -1,0 +1,40 @@
+{{/*
+    Get the featured image for a page.
+
+    It first tries to find the featured image for the page. If not
+    present, it falls back to the first page listed in the page
+    `images` collection.
+
+    {{ partial "get-featured-image" . }}
+
+    Parameters:
+    - (default): current page
+  */}}
+
+{{ $currentPage := . }}
+
+{{/*  default to thumbail image in page bundle (eg: file named '*thumbnail*.*' aside index.md)  */}}
+{{ $featuredImage := ($currentPage.Resources.ByType "image").GetMatch "*thumbnail*" }}
+{{/*  ... if not found, try to get image from page params  */}}
+{{ if not $featuredImage }}
+  {{ with $currentPage.Params.images }}
+    {{ $firstImage := (index . 0) }}
+    {{/*  ... if remote image...  */}}
+    {{ if findRE `^https?://` $firstImage }}
+      {{ $featuredImage = resources.GetRemote $firstImage }}
+    {{/*  ... else if found in [assets]/images/blog...  */}}
+    {{ else if (and (hasPrefix $firstImage "images/blog") (fileExists (add "assets/" $firstImage) ) ) }}
+      {{ $featuredImage = resources.Get $firstImage }}
+    {{/*  ... else, try to load a matching file...  */}}
+    {{ else }}
+      {{ $featuredImage = $currentPage.Resources.GetMatch $firstImage }}
+    {{ end }}
+
+    {{/*  if still don't have thumbnail, try to get image non non-page bundle  */}}
+    {{ if not $featuredImage }}
+      {{ $featuredImage = resources.Get $firstImage }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $featuredImage }}

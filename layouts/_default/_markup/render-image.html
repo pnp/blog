@@ -1,45 +1,38 @@
 {{ if findRE `^https?://` .Destination   }}
-        <img src="{{ .Destination | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} {{ with .Title }}
-            title="{{ . }}" {{ end }} style="width:auto;">
+  <img src="{{ .Destination | safeURL }}" style="width:auto;"{{ with .Text }} title="{{ . }}" alt="{{ . }}"{{ end }}>
 {{ else }}
-    {{ $image := .Page.Resources.GetMatch .Destination }}
-    {{ if $image }}
-        {{ $image_ext := path.Ext $image.RelPermalink }}
-        {{ $image_width := $image.Width }}
-        {{ if  (ne $image_ext ".gif") }}
-            {{ $tinyImage := $image.Resize "500x webp" }}
-            {{ $smallImage := $image.Resize "800x webp" }}
-            {{ $mediumImage := $image.Resize "1200x webp" }}
-            {{ $largeImage := $image.Resize "1500x webp" }}
-            
-            {{ if .Title }}
-            <figure>
-                <picture>
-                    <source media="(min-width:500px)" srcset={{ $smallImage.RelPermalink | safeURL }}>
-                    <source media="(min-width:800px)" srcset={{ $mediumImage.RelPermalink | safeURL }}>
-                    <source media="(min-width:1200px)" srcset={{ $largeImage.RelPermalink | safeURL }}>
-                    <source media="(min-width:1500px)" srcset={{ .Destination | safeURL }}>
-                    <img src="{{ $tinyImage.RelPermalink | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} {{ with .Title }}
-                        title="{{ . }}" {{ end }} style="width:auto;">
-                </picture>
-            
-                {{ with .Title}} <figcaption>{{ . | markdownify }}</figcaption> {{ end }}
-            </figure>
-            {{ else }}
-            <picture>
-                <source media="(min-width:500px)" srcset={{ $smallImage.RelPermalink | safeURL }}>
-                <source media="(min-width:800px)" srcset={{ $mediumImage.RelPermalink | safeURL }}>
-                <source media="(min-width:1200px)" srcset={{ $largeImage.RelPermalink | safeURL }}>
-                <source media="(min-width:1500px)" srcset={{ .Destination | safeURL }}>
-                <img src="{{ $tinyImage.RelPermalink | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} style="width:auto;">
-            </picture>
-            {{ end }}
-        {{ else }}
-            <img src="{{ $image.RelPermalink }}" {{ with .Text }} alt="{{ . }}" {{ end }} {{ with .Title }}
-                title="{{ . }}" {{ end }} style="width:auto;">
-        {{ end }}
+  {{ $image := .Page.Resources.GetMatch .Destination }}
+  {{ if $image }}
+    {{/*  if GIF, assume animated => don't resize*/}}
+    {{ if eq (path.Ext $image.RelPermalink) ".gif" }}
+      <img src="{{ $image.RelPermalink }}" style="width:auto;" {{ with .Text }} title="{{ . }}" alt="{{ . }}"{{ end }}>
+    {{/*  else, resize to responsive breakpoints  */}}
     {{ else }}
-        <img src="{{ .Destination | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} {{ with .Title }}
-            title="{{ . }}" {{ end }} style="width:auto;">
+      {{- $fallbackImage := $image.Resize "850x jpg" -}}
+      {{/*  supported responsive image dimensions  */}}
+      {{- $respSizes := slice "325" "675" -}}
+      {{- $sourceSizes := "(max-width: 400px) 325px, 675px" -}}
+      <figure>
+        <picture>
+          <source type="image/webp"
+                  srcset="{{- with $respSizes -}}
+                    {{- range $i, $e := . -}}
+                      {{- if ge $image.Width . -}}
+                        {{- if $i }}, {{ end -}}{{- ($image.Resize (printf "%sx%s" . " webp") ).RelPermalink }} {{ . }}w
+                      {{- end -}}
+                    {{- end -}}
+                  {{- end -}}"
+                  sizes="{{ $sourceSizes }}"
+          />
+          <img src="{{ $fallbackImage.RelPermalink | safeURL }}"
+               style="width:auto;" loading="lazy"
+               width="{{ $image.Width }}" height="{{ $image.Height }}"
+               {{ with .Text }} title="{{ . }}" alt="{{ . }}"{{ end }}>
+        </picture>
+        {{ with .Title }}<figcaption>{{ . | markdownify }}</figcaption> {{ end }}
+      </figure>
     {{ end }}
+  {{ else }}
+    <img src="{{ .Destination | safeURL }}" style="width:auto;" {{ with .Text }} title="{{ . }}" alt="{{ . }}"{{ end }}>
+  {{ end }}
 {{ end}}
