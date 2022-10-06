@@ -1,5 +1,5 @@
 ---
-title: How to make an auto-height textinput component for Power Apps
+title: "Series: How to build Power Apps that don't look like Power Apps - auto-height textinput - Material Design part 3"
 date: 2022-10-05T16:53:24.602Z
 author: "Luise Freese"
 githubname: LuiseFreese
@@ -12,6 +12,8 @@ type: "regular"
 
 
 Some controls in Power Apps do not have an auto height property, which means that we can't get the **Height** of a control to automagically ✨ adjust to its content. Especially for the textinput control, this is a real bummer, as we a user's input a pretty much unpredictable. On the one hand, we do not want to waste precious screen estate by making the box as big as possible, on the other hand, a too small box will result in an endless scrollbar which is a bad user experience.
+
+This is part 3 of How to build Power Apps - that don’t like Power Apps. If you didn’t read [part 1](https://pnp.github.io/blog/post/build-powerapps-that-dont-look-like-powerapps-1/)  or [part 2](https://pnp.github.io/blog/post/build-powerapps-that-dont-look-like-powerapps-2/) yet, this is your chance to catch up :-) We will again use guidance from [Material Design](https://material.io/design/introduction) 
 
 ![gif of autoheight textinput](images/textinputauto.gif)
 
