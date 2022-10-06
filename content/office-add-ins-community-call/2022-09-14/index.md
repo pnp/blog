@@ -92,11 +92,11 @@ We're sorry to hear you're experiencing issues in Outlook on Mac. If you haven't
 
 ## Additional Resources
 
-* **Microsoft Word Extensibility Update **
-    *Sample - [Web application that uses Open XML SDK to configure Office documents to automatically open a specified add-in](https://github.com/OfficeDev/Office-OOXML-EmbedAddin)
-    *Documentation - [Configure your Office Add-in to use a shared runtime](https://learn.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime)
-    *Survey - [Structured document content usage in Word add-ins](https://aka.ms/WordAPI)
-    *Community Panel - [Improve Word add-ins](https://ux.microsoft.com/Panel/WordAddinDeveloper?utm_campaign=community_call&&utm_source=community_call&&utm_medium=qrcode)
+* **Microsoft Word Extensibility Update**
+    * Sample - [Web application that uses Open XML SDK to configure Office documents to automatically open a specified add-in](https://github.com/OfficeDev/Office-OOXML-EmbedAddin)
+    * Documentation - [Configure your Office Add-in to use a shared runtime](https://learn.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime)
+    * Survey - [Structured document content usage in Word add-ins](https://aka.ms/WordAPI)
+    * Community Panel - [Improve Word add-ins](https://ux.microsoft.com/Panel/WordAddinDeveloper?utm_campaign=community_call&&utm_source=community_call&&utm_medium=qrcode)
 * **Blazer Sample Update**
     * Repo - [Office Add-ins code samples](https://github.com/OfficeDev/Office-Add-in-samples)
     * Sample - [Create a Blazor Webassembly Outlook add-in](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/blazor-add-in/outlook-blazor-add-in) 
