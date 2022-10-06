@@ -1,0 +1,36 @@
+{{/*
+  Generate responsive image with fallback for legacy browsers
+
+  {{ partial "responsive-image"
+    (dict
+      "image" $image
+      "imageSizes" (slice "400" "700")
+      "sourceSizes" "(max-width: 400px) 400px, 700px"
+      "altTitle" "This is the image alt & title value"
+    )
+  }}
+
+  Parameters:
+    - `image`: Hugo resource image
+    - `imageSizes`: array of responsive image sizes to use
+    - `sourceSizes`: string of sizes to use for the responsive breakpoints
+    - `altTitle`: string to use fo rthe alt text/title of the image
+*/}}
+
+{{ $image := .image }}
+{{ $fallbackImage := $image.Resize ( printf "%sx jpg" (index (last 1 .imageSizes) 0) ) }}
+<picture>
+  <source type="image/webp"
+          srcset="{{- with .imageSizes -}}
+            {{- range $i, $e := . -}}
+              {{- if ge $image.Width . -}}
+                {{- if $i }}, {{ end -}}{{- ($image.Resize (printf "%sx%s" . " webp") ).RelPermalink }} {{ . }}w
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}"
+          sizes="{{ .sourceSizes }}"
+  />
+  <img src="{{ $fallbackImage.RelPermalink | safeURL }}"
+       style="width:auto;" loading="lazy"
+       {{ with .altTitle }} title="{{ . }}" alt="{{ . }}"{{ end }}>
+</picture>

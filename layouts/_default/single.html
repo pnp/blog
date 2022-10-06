@@ -36,26 +36,14 @@
             {{ $thumbnail := partial "get-featured-image" . }}
 
             {{ if $thumbnail }}
-              {{- $fallbackImage := $thumbnail.Resize "700x jpg" -}}
-              {{/*  supported responsive image dimensions  */}}
-              {{- $respSizes := slice "400" "700" -}}
-              {{- $sourceSizes := "(max-width: 400px) 400px, 700px" -}}
               <div class="mb-4">
-                <picture>
-                  <source type="image/webp"
-                          srcset="{{- with $respSizes -}}
-                            {{- range $i, $e := . -}}
-                              {{- if ge $thumbnail.Width . -}}
-                                {{- if $i }}, {{ end -}}{{- ($thumbnail.Resize (printf "%sx%s" . " webp") ).RelPermalink }} {{ . }}w
-                              {{- end -}}
-                            {{- end -}}
-                          {{- end -}}"
-                          sizes="{{ $sourceSizes }}"
-                  />
-                  <img src="{{ $fallbackImage.RelPermalink | safeURL }}"
-                       style="width:auto;" loading="lazy"
-                       {{ with .Title }} title="{{ . }}" alt="{{ . }}"{{ end }}>
-                </picture>
+                {{ partial "responsive-image" (dict
+                     "image" $thumbnail
+                     "imageSizes" (slice "400" "700")
+                     "sourceSizes" "(max-width: 400px) 400px, 700px"
+                     "altTitle" .Title
+                   )
+                }}
               </div>
             {{ else }}
               {{ with .Params.images }}
