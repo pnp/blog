@@ -30,46 +30,23 @@
           <!-- list article -->
           <article class="card mb-4">
             <div class="row card-body">
-              {{ $resources:= .Resources }}
               <!-- post thumb -->
-              <div class="col-md-4 mb-4 mb-md-0">
-                {{ if .Params.images }}
+              {{ $thumbnail := partial "get-featured-image" . }}
+              {{ if $thumbnail }}
+                <div class="col-md-4 mb-4 mb-md-0">
                   <div class="post-slider slider-sm">
                     <a href="{{ .Permalink }}">
-                      {{ range .Params.images }}
-                        {{ $imgPath:= . }}
-                        {{ if fileExists (add `assets/` $imgPath) }}
-                          {{ $img:= resources.Get $imgPath }}
-                          {{ $imageSM:= $img.Fill "460x200 webp" }}
-                          {{ $imageXS:= $img.Fill "200x200 webp" }}
-                          <picture>
-                            <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 767px)">
-                            <source srcset="{{ $imageXS.Permalink }}" media="(min-width: 768px)">
-                            <source srcset="{{$img.RelPermalink}}">
-                            <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb" width="{{$img.Width}}" height="{{$img.Height}}">
-                          </picture>
-                        {{ else }}
-                          {{ with $resources.GetMatch $imgPath }}
-                            {{ $img:= . }}
-                            {{ $imageSM:= $img.Fill "460x200 webp" }}
-                            {{ $imageXS:= $img.Fill "200x200 webp" }}
-                            <picture>
-                              <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 767px)">
-                              <source srcset="{{ $imageXS.Permalink }}" media="(min-width: 768px)">
-                              <source srcset="{{$img.RelPermalink}}">
-                              <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb" width="{{$img.Width}}" height="{{$img.Height}}">
-                            </picture>
-                          {{ else }}
-                            <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
-                          {{ end }}
-                        {{ end }}
-                      {{ end }}
+                      {{ partial "responsive-image" (dict
+                        "image" $thumbnail
+                        "fillSizes" (slice "200x200" "460x200")
+                        "sourceSizes" "(max-width: 768px) 200px, 460px"
+                        "altTitle" .Title
+                        )
+                      }}
                     </a>
                   </div>
-                {{ else }}
-                  <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
-                {{ end }}
-              </div>
+                </div>
+              {{ end }}
               <!-- /post thumb -->
               <div class="col-md-8">
                 <h3 class="h4 mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
@@ -130,49 +107,23 @@
           {{ range $paginator.Pages }}
             <div class="{{if $hasbar}}col-md-6{{else}}col-lg-4 col-md-6{{end}} mb-4">
               <article class="card h-100">
-                {{ $resources:= .Resources }}
                 <!-- post thumb -->
-                {{ if .Params.images }}
+                {{ $thumbnail := partial "get-featured-image" . }}
+                {{ if $thumbnail }}
                   <div class="post-slider slider-sm">
                     <a href="{{ .Permalink }}">
-                      {{ range .Params.images }}
-                        {{ $imgPath:= . }}
-                        {{ if fileExists (add `assets/` $imgPath) }}
-                          {{ $img:= resources.Get $imgPath }}
-                          {{ $imageLG:= $img.Fill "700x330 webp" }}
-                          {{ $imageMD:= $img.Fill "510x240 webp" }}
-                          {{ $imageSM:= $img.Fill "380x180 webp" }}
-                          <picture>
-                            <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
-                            <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
-                            <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
-                            <source srcset="{{$imageSM.RelPermalink}}">
-                            <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb" width="{{$img.Width}}" height="{{$img.Height}}">
-                          </picture>
-                        {{ else }}
-                          {{ with $resources.GetMatch $imgPath }}
-                            {{ $img:= . }}
-                            {{ $imageLG:= $img.Fill "700x330 webp" }}
-                            {{ $imageMD:= $img.Fill "510x240 webp" }}
-                            {{ $imageSM:= $img.Fill "380x180 webp" }}
-                            <picture>
-                              <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
-                              <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
-                              <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
-                              <source srcset="{{$imageSM.RelPermalink}}">
-                              <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb" width="{{$img.Width}}" height="{{$img.Height}}">
-                            </picture>
-                          {{ else }}
-                            <div class="image-fallback h-auto"><span>{{.Title | truncate 1}}</span></div>
-                          {{ end }}
-                        {{ end }}
-                      {{ end }}
+                      {{ partial "responsive-image" (dict
+                          "image" $thumbnail
+                          "fillSizes" (slice "380x180" "700x330")
+                          "sourceSizes" "(max-width: 400px) 380px, 700px"
+                          "altTitle" .Title
+                        )
+                      }}
                     </a>
                   </div>
-                {{ else }}
-                  <div class="image-fallback h-auto"><span>{{.Title | truncate 1}}</span></div>
                 {{ end }}
                 <!-- /post thumb -->
+
                 <div class="card-body">
                   <h3 class="h4 mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
                   <ul class="card-meta list-inline">
@@ -221,38 +172,22 @@
         <!-- grid article -->
 
       {{ else }}
+
         {{ range $paginator.Pages }}
           <!-- full article -->
           <article class="card mb-4">
-            {{ $resources:= .Resources }}
             <!-- post thumb -->
-            {{ if .Params.images }}
+            {{ $thumbnail := partial "get-featured-image" . }}
+            {{ if $thumbnail }}
               <div class="post-slider slider-sm">
                 <a href="{{ .Permalink }}">
-                  {{ range .Params.images }}
-                    {{ $imgPath:= . }}
-                    {{ if fileExists (add `assets/` $imgPath) }}
-                      {{ $img:= resources.Get $imgPath }}
-                      {{ $imageMD:= $img.Fill "700x330 webp" }}
-                      {{ $imageSM:= $img.Fill "380x180 webp" }}
-                      <picture>
-                        <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
-                        <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">
-                        <img loading="lazy" decoding="async" src="{{$imageMD.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb" width="{{$img.Width}}" height="{{$img.Height}}">
-                      </picture>
-                    {{ else }}
-                      {{ with $resources.GetMatch $imgPath }}
-                        {{ $img:= . }}
-                        {{ $imageMD:= $img.Fill "700x330 webp" }}
-                        {{ $imageSM:= $img.Fill "380x180 webp" }}
-                        <picture>
-                          <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
-                          <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">
-                          <img loading="lazy" decoding="async" src="{{$imageMD.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb" width="{{$img.Width}}" height="{{$img.Height}}">
-                        </picture>
-                      {{ end }}
-                    {{ end }}
-                  {{ end }}
+                  {{ partial "responsive-image" (dict
+                      "image" $thumbnail
+                      "fillSizes" (slice "380x180" "700x330")
+                      "sourceSizes" "(max-width: 400px) 380px, 700px"
+                      "altTitle" .Title
+                    )
+                  }}
                 </a>
               </div>
             {{ end }}
