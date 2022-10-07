@@ -48,10 +48,10 @@
   <source type="image/webp"
           srcset="{{- with $resizeWidths -}}
             {{- range $i, $e := . -}}
-              {{/*  if rendering with 'Fill' image processor...  */}}
+              {{- /*  if rendering with 'Fill' image processor...  */ -}}
               {{- with $fillSizes -}}
                 {{- if $i }}, {{ end -}}{{- ($image.Fill (printf "%s webp" (index $fillSizes $i)) ).RelPermalink }} {{ $e }}w
-              {{/*  ... else, assume rendering with `Resize` image processor...  */}}
+              {{- /*  ... else, assume rendering with `Resize` image processor...  */ -}}
               {{- else -}}
                 {{- if ge $image.Width . -}}
                   {{- if $i }}, {{ end -}}{{- ($image.Resize (printf "%sx webp" .) ).RelPermalink }} {{ $e }}w
