@@ -8,6 +8,7 @@
       "fillSizes" (slice "380x180" "700x330")
       "sourceSizes" "(max-width: 400px) 400px, 700px"
       "altTitle" "This is the image alt & title value"
+      "cssImgOverride" "card-img-top img-fluid"
     )
   }}
 
@@ -16,8 +17,10 @@
     - `resizeSizes` | `fillSizes`: ONLY use one option, not both
       - `resizeSizes`: array of responsive image sizes to use for resizing
       - `fillSizes`: array of responsive image sizes to use for resizing
-    - `sourceSizes`: string of sizes to use for the responsive breakpoints
-    - `altTitle`: string to use fo rthe alt text/title of the image
+    - `sourceSizes`: (OPTIONAL) string of sizes to use for the responsive breakpoints
+        > NOTE: optional ONLY if [resizeSizes|fillSizes] have only one option
+    - `altTitle`: (OPTIONAL) string to use fo rthe alt text/title of the image
+    - `cssImgOverride`: (OPTIONAL) css styles to override for IMG element
 */}}
 
 {{ $image := .image }}
@@ -59,9 +62,10 @@
               {{- end -}}
             {{- end -}}
           {{- end -}}"
-          sizes="{{ .sourceSizes }}"
+          {{ with .sourceSizes }}sizes="{{ . }}"{{ end }}
   />
   <img src="{{ $fallbackImage.RelPermalink | safeURL }}"
-       style="width:auto;" loading="lazy"
+       {{ with .cssImgOverride }} class="{{ . }}"{{ else }} style="width:auto;"{{ end }}
+       loading="lazy"
        {{ with .altTitle }} title="{{ . }}" alt="{{ . }}"{{ end }}>
 </picture>
