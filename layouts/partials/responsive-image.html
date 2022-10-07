@@ -25,17 +25,16 @@
 {{/*  determine widths to parse  */}}
 {{ $resizeWidths := slice }}
 {{ $fillSizes := .fillSizes }}
-{{/*  if resizeSizes set...  */}}
+{{/*  if resizeSizes set, use those as resize widths...  */}}
 {{ with .resizeSizes }}
   {{ $resizeWidths = sort . }}
 {{ end }}
-{{/*  if fillSizes set...  */}}
+{{/*  if fillSizes set, use those widths as resize widths...  */}}
 {{ with .fillSizes }}
   {{ range sort . }}
     {{ $resizeWidths = $resizeWidths | append (index (split . "x") 0) }}
   {{ end }}
 {{ end }}
-{{ warnf "widths: %s" (delimit $resizeWidths ",") }}
 
 
 {{/*  validate exactly one of [].resizeSizes | .fillSizes] is set */}}
@@ -44,14 +43,15 @@
 {{ end }}
 
 
-
 {{ $fallbackImage := $image.Resize ( printf "%sx jpg" (index (last 1 $resizeWidths) 0) ) }}
 <picture>
   <source type="image/webp"
           srcset="{{- with $resizeWidths -}}
             {{- range $i, $e := . -}}
+              {{/*  if rendering with 'Fill' image processor...  */}}
               {{- with $fillSizes -}}
                 {{- if $i }}, {{ end -}}{{- ($image.Fill (printf "%s webp" (index $fillSizes $i)) ).RelPermalink }} {{ $e }}w
+              {{/*  ... else, assume rendering with `Resize` image processor...  */}}
               {{- else -}}
                 {{- if ge $image.Width . -}}
                   {{- if $i }}, {{ end -}}{{- ($image.Resize (printf "%sx webp" .) ).RelPermalink }} {{ $e }}w
