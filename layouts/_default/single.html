@@ -39,7 +39,7 @@
               <div class="mb-4">
                 {{ partial "responsive-image" (dict
                      "image" $thumbnail
-                     "imageSizes" (slice "400" "700")
+                     "resizeSizes" (slice "400" "700")
                      "sourceSizes" "(max-width: 400px) 400px, 700px"
                      "altTitle" .Title
                    )

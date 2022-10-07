@@ -11,7 +11,7 @@
       <figure>
         {{ partial "responsive-image" (dict
               "image" $image
-              "imageSizes" (slice "325" "700")
+              "resizeSizes" (slice "325" "700")
               "sourceSizes" "(max-width: 325px) 325px, 700px"
               "altTitle" .Text
             )

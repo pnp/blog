@@ -4,7 +4,8 @@
   {{ partial "responsive-image"
     (dict
       "image" $image
-      "imageSizes" (slice "400" "700")
+      "resizeSizes" (slice "400" "700")
+      "fillSizes" (slice "380x180" "700x330")
       "sourceSizes" "(max-width: 400px) 400px, 700px"
       "altTitle" "This is the image alt & title value"
     )
@@ -12,19 +13,49 @@
 
   Parameters:
     - `image`: Hugo resource image
-    - `imageSizes`: array of responsive image sizes to use
+    - `resizeSizes` | `fillSizes`: ONLY use one option, not both
+      - `resizeSizes`: array of responsive image sizes to use for resizing
+      - `fillSizes`: array of responsive image sizes to use for resizing
     - `sourceSizes`: string of sizes to use for the responsive breakpoints
     - `altTitle`: string to use fo rthe alt text/title of the image
 */}}
 
 {{ $image := .image }}
-{{ $fallbackImage := $image.Resize ( printf "%sx jpg" (index (last 1 .imageSizes) 0) ) }}
+
+{{/*  determine widths to parse  */}}
+{{ $resizeWidths := slice }}
+{{ $fillSizes := .fillSizes }}
+{{/*  if resizeSizes set...  */}}
+{{ with .resizeSizes }}
+  {{ $resizeWidths = sort . }}
+{{ end }}
+{{/*  if fillSizes set...  */}}
+{{ with .fillSizes }}
+  {{ range sort . }}
+    {{ $resizeWidths = $resizeWidths | append (index (split . "x") 0) }}
+  {{ end }}
+{{ end }}
+{{ warnf "widths: %s" (delimit $resizeWidths ",") }}
+
+
+{{/*  validate exactly one of [].resizeSizes | .fillSizes] is set */}}
+{{ if eq (len $resizeWidths) 0 }}
+  {{ errorf "Partial 'responsive-image' must have either 'resizeSizes' or 'fillSizes' set." }}
+{{ end }}
+
+
+
+{{ $fallbackImage := $image.Resize ( printf "%sx jpg" (index (last 1 $resizeWidths) 0) ) }}
 <picture>
   <source type="image/webp"
-          srcset="{{- with .imageSizes -}}
+          srcset="{{- with $resizeWidths -}}
             {{- range $i, $e := . -}}
-              {{- if ge $image.Width . -}}
-                {{- if $i }}, {{ end -}}{{- ($image.Resize (printf "%sx%s" . " webp") ).RelPermalink }} {{ . }}w
+              {{- with $fillSizes -}}
+                {{- if $i }}, {{ end -}}{{- ($image.Fill (printf "%s webp" (index $fillSizes $i)) ).RelPermalink }} {{ $e }}w
+              {{- else -}}
+                {{- if ge $image.Width . -}}
+                  {{- if $i }}, {{ end -}}{{- ($image.Resize (printf "%sx webp" .) ).RelPermalink }} {{ $e }}w
+                {{- end -}}
               {{- end -}}
             {{- end -}}
           {{- end -}}"
