@@ -8,7 +8,7 @@ images:
 - images/image49.png
 tags: ["SharePoint", "Microsoft Lists"]
 type: "regular"
-draft: true
+draft: false
 ---
 
 
