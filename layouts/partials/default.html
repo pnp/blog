@@ -8,187 +8,202 @@
   <div class="row">
     <!-- left sidebar -->
     {{ if eq $sidebar "left" }}
-    <aside class="col-lg-4 order-2 order-lg-1 {{.Scratch.Get `sidebar-margin`}}">
-      {{- partial "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
-    </aside>
+      <aside class="col-lg-4 order-2 order-lg-1 {{.Scratch.Get `sidebar-margin`}}">
+        {{- partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
+      </aside>
     {{ end }}
     <!-- /left sidebar -->
 
-    <div
-      class="{{if $hasbar}}col-lg-8{{ else }}{{if eq $layout `grid` }} col-12 {{else}} col-lg-8 mx-auto {{end}}{{end}} {{if eq $sidebar `left`}}order-1 order-lg-2{{end}} mb-5 mb-lg-0">
+    <div class="{{if $hasbar}}col-lg-8{{ else }}{{if eq $layout `grid` }} col-12 {{else}} col-lg-8 mx-auto {{end}}{{end}} {{if eq $sidebar `left`}}order-1 order-lg-2{{end}} mb-5 mb-lg-0">
 
       <!-- wrapper title -->
       {{ if eq (.Scratch.Get "title") "taxonomies"}}
-      <h1 class="h2 mb-5">{{i18n `showing_from`}} <mark>{{ .Title }}</mark></h1>
-      {{else if eq (.Scratch.Get "title") "recent"}}
-      <h2 class="h5 section-title">{{ i18n "recent_post" }}</h2>
+        <h1 class="h2 mb-5">{{i18n `showing_from`}} <mark>{{ .Title }}</mark></h1>
+      {{ else if eq (.Scratch.Get "title") "recent" }}
+        <h2 class="h5 section-title">{{ i18n "recent_post" }}</h2>
       {{ end }}
       <!-- /wrapper title -->
 
       {{ if eq $layout "list" }}
-      {{ range $paginator.Pages }}
-      <!-- list article -->
-      <article class="card mb-4">
-        <div class="row card-body">
-          {{ $resources:= .Resources }}
-          <!-- post thumb -->
-          <div class="col-md-4 mb-4 mb-md-0">
-            {{ if .Params.images }}
-            <div class="post-slider slider-sm">
-              <a href="{{ .Permalink }}">
-              {{ range .Params.images }}
-              {{ $imgPath:= . }}
-              {{ if fileExists (add `assets/` $imgPath) }}
-              {{ $img:= resources.Get $imgPath }}
-              {{ $imageSM:= $img.Fill "460x200 webp" }}
-              {{ $imageXS:= $img.Fill "200x200 webp" }}
-              <picture>
-                <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 767px)">
-                <source srcset="{{ $imageXS.Permalink }}" media="(min-width: 768px)">
-                <source srcset="{{$img.RelPermalink}}">
-                <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid"
-                  alt="post-thumb" width="{{$img.Width}}" height="{{$img.Height}}">
-              </picture>
-              {{ else }}
-              {{ with $resources.GetMatch $imgPath }}
-              {{ $img:= . }}
-              {{ $imageSM:= $img.Fill "460x200 webp" }}
-              {{ $imageXS:= $img.Fill "200x200 webp" }}
-              <picture>
-                <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 767px)">
-                <source srcset="{{ $imageXS.Permalink }}" media="(min-width: 768px)">
-                <source srcset="{{$img.RelPermalink}}">
-                <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb"
-                  width="{{$img.Width}}" height="{{$img.Height}}">
-              </picture>
-              {{ else }}
-              <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
+
+        {{ range $paginator.Pages }}
+          <!-- list article -->
+          <article class="card mb-4">
+            <div class="row card-body">
+              <!-- post thumb -->
+              {{ $thumbnail := partial "get-featured-image" . }}
+              {{ if $thumbnail }}
+                <div class="col-md-4 mb-4 mb-md-0">
+                  <div class="post-slider slider-sm">
+                    <a href="{{ .Permalink }}">
+                      {{ partial "responsive-image" (dict
+                        "image" $thumbnail
+                        "fillSizes" (slice "200x200" "460x200")
+                        "sourceSizes" "(max-width: 768px) 200px, 460px"
+                        "altTitle" .Title
+                        )
+                      }}
+                    </a>
+                  </div>
+                </div>
               {{ end }}
-              {{ end }}
-              {{ end }}</a>
-            </div>
-            {{ else }}
-            <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
-            {{ end }}
-          </div>
-          <!-- /post thumb -->
-          <div class="col-md-8">
-            <h3 class="h4 mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
-            <ul class="card-meta list-inline">
-              <li class="list-inline-item">
-                {{ if .Params.githubname }}
-                <a href="https://github.com/{{ .Params.githubname }}/" class="card-meta-author">
-                  <img loading="lazy" decoding="async" width="24" height="24"
-                    src="https://github.com/{{ .Params.githubname }}.png" alt="{{ .Params.githubname }}"
-                    class="img-fluid">
-                  <span>{{ .Params.author }}</span>
-                </a>
-                {{ else }}
-                <span>{{ .Params.author }}</span>
-                {{ end }}
-              </li>
-              <li class="list-inline-item">
-                <i class="far fa-clock"></i>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}
-              </li>
-              <li class="list-inline-item">
-                <i class="far fa-calendar-alt"></i>{{ .PublishDate.Format "02 Jan, 2006" }}
-              </li>
-              <li class="list-inline-item">
-                <ul class="card-meta-tag list-inline">
-                  {{ $filter:= site.Params.main_taxonomy }}
-                  {{ if eq $filter "tag" }}
-                  {{ $taxonomies := .Params.tags }}
-                  {{ range $taxonomies }}
-                  <li class="list-inline-item"><a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . |
-                      humanize }}</a></li>
-                  {{ end }}
-                  {{ else if eq $filter "category" }}
-                  {{ $taxonomies := .Params.categories }}
-                  {{ range $taxonomies }}
-                  <li class="list-inline-item"><a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . |
-                      humanize }}</a></li>
-                  {{ end }}
-                  {{ end }}
+              <!-- /post thumb -->
+              <div class="col-md-8">
+                <h3 class="h4 mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <ul class="card-meta list-inline">
+                  <li class="list-inline-item">
+                    {{ if .Params.githubname }}
+                      <a href="https://github.com/{{ .Params.githubname }}/" class="card-meta-author">
+                        <img loading="lazy" decoding="async" width="24" height="24" src="https://github.com/{{ .Params.githubname }}.png" alt="{{ .Params.githubname }}" class="img-fluid">
+                        <span>{{ .Params.author }}</span>
+                      </a>
+                    {{ else }}
+                      <span>{{ .Params.author }}</span>
+                    {{ end }}
+                  </li>
+                  <li class="list-inline-item">
+                    <i class="far fa-clock"></i>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}
+                  </li>
+                  <li class="list-inline-item">
+                    <i class="far fa-calendar-alt"></i>{{ .PublishDate.Format "02 Jan, 2006" }}
+                  </li>
+                  <li class="list-inline-item">
+                    <ul class="card-meta-tag list-inline">
+                      {{ $filter:= site.Params.main_taxonomy }}
+                      {{ if eq $filter "tag" }}
+                        {{ range .Params.tags }}
+                          <li class="list-inline-item">
+                            <a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a>
+                          </li>
+                        {{ end }}
+                      {{ else if eq $filter "category" }}
+                        {{ range .Params.categories }}
+                          <li class="list-inline-item">
+                            <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a>
+                          </li>
+                        {{ end }}
+                      {{ end }}
+                    </ul>
+                  </li>
                 </ul>
-              </li>
-            </ul>
-            <p>
-              {{ if .Params.Images }}
-              {{ .Summary | truncate 100 }}
-              {{ else }}
-              {{ .Summary | truncate 250 }}
-              {{ end }}
-            </p>
-            <a href="{{.Permalink}}" class="btn btn-outline-primary">{{i18n "read_more"}}</a>
-          </div>
-        </div>
-      </article>
-      <!-- /list article -->
-      {{ end }}
+                <p>
+                  {{ if .Params.Images }}
+                    {{ .Summary | truncate 100 }}
+                  {{ else }}
+                    {{ .Summary | truncate 250 }}
+                  {{ end }}
+                </p>
+                <a href="{{.Permalink}}" class="btn btn-outline-primary">{{i18n "read_more"}}</a>
+              </div>
+            </div>
+          </article>
+          <!-- /list article -->
+        {{ end }}
 
       {{ else if eq $layout "grid" }}
-      <!-- grid article -->
-      <div class="row">
-        {{ range $paginator.Pages }}
-        <div class="{{if $hasbar}}col-md-6{{else}}col-lg-4 col-md-6{{end}} mb-4">
-          <article class="card h-100">
-            {{ $resources:= .Resources }}
-            <!-- post thumb -->
-            {{ if .Params.images }}
-            <div class="post-slider slider-sm">
-              <a href="{{ .Permalink }}">
-              {{ range .Params.images }}
-              {{ $imgPath:= . }}
-              {{ if fileExists (add `assets/` $imgPath) }}
-              {{ $img:= resources.Get $imgPath }}
-              {{ $imageLG:= $img.Fill "700x330 webp" }}
-              {{ $imageMD:= $img.Fill "510x240 webp" }}
-              {{ $imageSM:= $img.Fill "380x180 webp" }}
-              <picture>
-                <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
-                <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
-                <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
-                <source srcset="{{$imageSM.RelPermalink}}">
-                <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid"
-                  alt="post-thumb" width="{{$img.Width}}" height="{{$img.Height}}">
-              </picture>
-              {{ else }}
-              {{ with $resources.GetMatch $imgPath }}
-              {{ $img:= . }}
-{{ $imageLG:= $img.Fill "700x330 webp" }}
-{{ $imageMD:= $img.Fill "510x240 webp" }}
-{{ $imageSM:= $img.Fill "380x180 webp" }}
-<picture>
-  <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
-  <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
-  <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
-  <source srcset="{{$imageSM.RelPermalink}}">
-  <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb"
-    width="{{$img.Width}}" height="{{$img.Height}}">
-</picture>
-{{ else }}
-              <div class="image-fallback h-auto"><span>{{.Title | truncate 1}}</span></div>
-              {{ end }}
-              {{ end }}
-              {{ end }}</a>
+
+        <!-- grid article -->
+        <div class="row">
+          {{ range $paginator.Pages }}
+            <div class="{{if $hasbar}}col-md-6{{else}}col-lg-4 col-md-6{{end}} mb-4">
+              <article class="card h-100">
+                <!-- post thumb -->
+                {{ $thumbnail := partial "get-featured-image" . }}
+                {{ if $thumbnail }}
+                  <div class="post-slider slider-sm">
+                    <a href="{{ .Permalink }}">
+                      {{ partial "responsive-image" (dict
+                          "image" $thumbnail
+                          "fillSizes" (slice "380x180" "700x330")
+                          "sourceSizes" "(max-width: 400px) 380px, 700px"
+                          "altTitle" .Title
+                        )
+                      }}
+                    </a>
+                  </div>
+                {{ end }}
+                <!-- /post thumb -->
+
+                <div class="card-body">
+                  <h3 class="h4 mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                  <ul class="card-meta list-inline">
+                    <li class="list-inline-item">
+                      {{ if .Params.githubname }}
+                        <a href="https://github.com/{{ .Params.githubname }}/" class="card-meta-author">
+                          <img loading="lazy" decoding="async" width="24" height="24" src="https://github.com/{{ .Params.githubname }}.png" alt="{{ .Params.githubname }}" class="img-fluid">
+                          <span>{{ .Params.author }}</span>
+                        </a>
+                      {{ else }}
+                        <span>{{ .Params.author }}</span>
+                      {{ end }}
+                    </li>
+                    <li class="list-inline-item">
+                      <i class="far fa-clock"></i>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}
+                    </li>
+                    <li class="list-inline-item">
+                      <i class="far fa-calendar-alt"></i>{{ .PublishDate.Format "02 Jan, 2006" }}
+                    </li>
+                    <li class="list-inline-item">
+                      <ul class="card-meta-tag list-inline">
+                        {{ $filter:= site.Params.main_taxonomy }}
+                        {{ if eq $filter "tag" }}
+                          {{ range .Params.tags }}
+                            <li class="list-inline-item">
+                              <a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a>
+                            </li>
+                          {{ end }}
+                        {{ else if eq $filter "category" }}
+                          {{ range .Params.categories }}
+                            <li class="list-inline-item">
+                              <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a>
+                            </li>
+                          {{ end }}
+                        {{ end }}
+                      </ul>
+                    </li>
+                  </ul>
+                  <p>{{ .Summary | truncate 80 }}</p>
+                  <a href="{{.Permalink}}" class="btn btn-outline-primary">{{i18n "read_more"}}</a>
+                </div>
+              </article>
             </div>
-            {{ else }}
-            <div class="image-fallback h-auto"><span>{{.Title | truncate 1}}</span></div>
+          {{ end }}
+        </div>
+        <!-- grid article -->
+
+      {{ else }}
+
+        {{ range $paginator.Pages }}
+          <!-- full article -->
+          <article class="card mb-4">
+            <!-- post thumb -->
+            {{ $thumbnail := partial "get-featured-image" . }}
+            {{ if $thumbnail }}
+              <div class="post-slider slider-sm">
+                <a href="{{ .Permalink }}">
+                  {{ partial "responsive-image" (dict
+                      "image" $thumbnail
+                      "fillSizes" (slice "380x180" "700x330")
+                      "sourceSizes" "(max-width: 400px) 380px, 700px"
+                      "altTitle" .Title
+                    )
+                  }}
+                </a>
+              </div>
             {{ end }}
             <!-- /post thumb -->
+
             <div class="card-body">
-              <h3 class="h4 mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
+              <h3 class="mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
               <ul class="card-meta list-inline">
                 <li class="list-inline-item">
                   {{ if .Params.githubname }}
-                  <a href="https://github.com/{{ .Params.githubname }}/" class="card-meta-author">
-                    <img loading="lazy" decoding="async" width="24" height="24"
-                      src="https://github.com/{{ .Params.githubname }}.png" alt="{{ .Params.githubname }}"
-                      class="img-fluid">
-                    <span>{{ .Params.author }}</span>
-                  </a>
+                    <a href="https://github.com/{{ .Params.githubname }}/" class="card-meta-author">
+                      <img loading="lazy" decoding="async" width="24" height="24" src="https://github.com/{{ .Params.githubname }}.png" alt="{{ .Params.githubname }}" class="img-fluid">
+                      <span>{{ .Params.author }}</span>
+                    </a>
                   {{ else }}
-                  <span>{{ .Params.author }}</span>
+                    <span>{{ .Params.author }}</span>
                   {{ end }}
                 </li>
                 <li class="list-inline-item">
@@ -201,115 +216,27 @@
                   <ul class="card-meta-tag list-inline">
                     {{ $filter:= site.Params.main_taxonomy }}
                     {{ if eq $filter "tag" }}
-                    {{ $taxonomies := .Params.tags }}
-                    {{ range $taxonomies }}
-                    <li class="list-inline-item"><a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . |
-                        humanize }}</a></li>
-                    {{ end }}
+                      {{ range .Params.tags }}
+                        <li class="list-inline-item">
+                          <a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a>
+                        </li>
+                      {{ end }}
                     {{ else if eq $filter "category" }}
-                    {{ $taxonomies := .Params.categories }}
-                    {{ range $taxonomies }}
-                    <li class="list-inline-item"><a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ .
-                        | humanize }}</a></li>
-                    {{ end }}
+                      {{ range .Params.categories }}
+                        <li class="list-inline-item">
+                          <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . |humanize }}</a>
+                        </li>
+                      {{ end }}
                     {{ end }}
                   </ul>
                 </li>
               </ul>
-              <p>{{ .Summary | truncate 80 }}</p>
+              <p>{{ .Summary }}</p>
               <a href="{{.Permalink}}" class="btn btn-outline-primary">{{i18n "read_more"}}</a>
             </div>
           </article>
-        </div>
+          <!-- /full article -->
         {{ end }}
-      </div>
-      <!-- grid article -->
-
-      {{ else }}
-      {{ range $paginator.Pages }}
-      <!-- full article -->
-      <article class="card mb-4">
-                    {{ $resources:= .Resources }}
-        <!-- post thumb -->
-        {{ if .Params.images }}
-        <div class="post-slider slider-sm">
-          <a href="{{ .Permalink }}">
-          {{ range .Params.images }}
-          {{ $imgPath:= . }}
-          {{ if fileExists (add `assets/` $imgPath) }}
-          {{ $img:= resources.Get $imgPath }}
-          {{ $imageMD:= $img.Fill "700x330 webp" }}
-          {{ $imageSM:= $img.Fill "380x180 webp" }}
-          <picture>
-            <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
-            <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">
-            <img loading="lazy" decoding="async" src="{{$imageMD.RelPermalink}}" class="card-img-top img-fluid"
-              alt="post-thumb" width="{{$img.Width}}" height="{{$img.Height}}">
-          </picture>
-          {{ else }}
-          {{ with $resources.GetMatch $imgPath }}
-          {{ $img:= . }}
-          {{ $imageMD:= $img.Fill "700x330 webp" }}
-          {{ $imageSM:= $img.Fill "380x180 webp" }}
-          <picture>
-            <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
-            <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">
-            <img loading="lazy" decoding="async" src="{{$imageMD.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb"
-              width="{{$img.Width}}" height="{{$img.Height}}">
-          </picture>
-          {{ end }}
-          {{ end }}
-          {{ end }}</a>
-        </div>
-        {{ end }}
-        <!-- /post thumb -->
-
-        <div class="card-body">
-          <h3 class="mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
-          <ul class="card-meta list-inline">
-            <li class="list-inline-item">
-              {{ if .Params.githubname }}
-              <a href="https://github.com/{{ .Params.githubname }}/" class="card-meta-author">
-                <img loading="lazy" decoding="async" width="24" height="24"
-                  src="https://github.com/{{ .Params.githubname }}.png" alt="{{ .Params.githubname }}"
-                  class="img-fluid">
-                <span>{{ .Params.author }}</span>
-              </a>
-              {{ else }}
-              <span>{{ .Params.author }}</span>
-              {{ end }}
-            </li>
-            <li class="list-inline-item">
-              <i class="far fa-clock"></i>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}
-            </li>
-            <li class="list-inline-item">
-              <i class="far fa-calendar-alt"></i>{{ .PublishDate.Format "02 Jan, 2006" }}
-            </li>
-            <li class="list-inline-item">
-              <ul class="card-meta-tag list-inline">
-                {{ $filter:= site.Params.main_taxonomy }}
-                {{ if eq $filter "tag" }}
-                {{ $taxonomies := .Params.tags }}
-                {{ range $taxonomies }}
-                <li class="list-inline-item"><a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . |
-                    humanize }}</a></li>
-                {{ end }}
-                {{ else if eq $filter "category" }}
-                {{ $taxonomies := .Params.categories }}
-                {{ range $taxonomies }}
-                <li class="list-inline-item"><a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . |
-                    humanize }}</a></li>
-                {{ end }}
-                {{ end }}
-              </ul>
-            </li>
-          </ul>
-          <p>{{ .Summary }}</p>
-          <a href="{{.Permalink}}" class="btn btn-outline-primary">{{i18n "read_more"}}</a>
-        </div>
-      </article>
-      <!-- /full article -->
-      {{ end }}
       {{ end }}
 
       <!-- pagination -->
@@ -324,72 +251,71 @@
       {{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
       <!-- If there's more than one page. -->
       {{ if gt $paginator.TotalPages 1 }}
-      <ul class="pagination justify-content-center mt-4">
-        <!-- Previous page. -->
-        {{ if $paginator.HasPrev }}
-        <li class="page-item">
-          <a href="{{ $paginator.Prev.URL }}" class="page-link">
-            <i class="fas fa-angle-left"></i>
-          </a>
-        </li>
-        {{ end }}
-        <!-- Page numbers. -->
-        {{ range $paginator.Pagers }}
-        {{ $.Scratch.Set "page_number_flag" false }}
-        <!-- Advanced page numbers. -->
-        {{ if gt $paginator.TotalPages $max_links }}
-        <!-- Lower limit pages. -->
-        <!-- If the user is on a page which is in the lower limit.  -->
-        {{ if le $paginator.PageNumber $lower_limit }}
-        <!-- If the current loop page is less than max_links. -->
-        {{ if le .PageNumber $max_links }}
-        {{ $.Scratch.Set "page_number_flag" true }}
-        {{ end }}
-        <!-- Upper limit pages. -->
-        <!-- If the user is on a page which is in the upper limit. -->
-        {{ else if ge $paginator.PageNumber $upper_limit }}
-        <!-- If the current loop page is greater than total pages minus $max_links -->
-        {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }}
-        {{ $.Scratch.Set "page_number_flag" true }}
-        {{ end }}
-        <!-- Middle pages. -->
-        {{ else }}
-        {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add
-        $paginator.PageNumber $adjacent_links) ) }}
-        {{ $.Scratch.Set "page_number_flag" true }}
-        {{ end }}
-        {{ end }}
-        <!-- Simple page numbers. -->
-        {{ else }}
-        {{ $.Scratch.Set "page_number_flag" true }}
-        {{ end }}
-        <!-- Output page numbers. -->
-        {{ if eq ($.Scratch.Get "page_number_flag") true }}
-        <li class="page-item{{ if eq . $paginator }} page-item active {{ end }}">
-          <a href="{{ .URL }}" class="page-link">
-            {{ .PageNumber }}
-          </a>
-        </li>
-        {{ end }}
-        {{ end }}
-        <!-- Next page. -->
-        {{ if $paginator.HasNext }}
-        <li class="page-item">
-          <a href="{{ $paginator.Next.URL }}" class="page-link">
-            <i class="fas fa-angle-right"></i>
-          </a>
-        </li>
-        {{ end }}
-      </ul>
+        <ul class="pagination justify-content-center mt-4">
+          <!-- Previous page. -->
+          {{ if $paginator.HasPrev }}
+            <li class="page-item">
+              <a href="{{ $paginator.Prev.URL }}" class="page-link">
+                <i class="fas fa-angle-left"></i>
+              </a>
+            </li>
+          {{ end }}
+          <!-- Page numbers. -->
+          {{ range $paginator.Pagers }}
+            {{ $.Scratch.Set "page_number_flag" false }}
+            <!-- Advanced page numbers. -->
+            {{ if gt $paginator.TotalPages $max_links }}
+              <!-- Lower limit pages. -->
+              <!-- If the user is on a page which is in the lower limit.  -->
+              {{ if le $paginator.PageNumber $lower_limit }}
+                <!-- If the current loop page is less than max_links. -->
+                {{ if le .PageNumber $max_links }}
+                  {{ $.Scratch.Set "page_number_flag" true }}
+                {{ end }}
+                <!-- Upper limit pages. -->
+              <!-- If the user is on a page which is in the upper limit. -->
+              {{ else if ge $paginator.PageNumber $upper_limit }}
+                <!-- If the current loop page is greater than total pages minus $max_links -->
+                {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }}
+                  {{ $.Scratch.Set "page_number_flag" true }}
+                {{ end }}
+              <!-- Middle pages. -->
+              {{ else }}
+                {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber $adjacent_links) ) }}
+                  {{ $.Scratch.Set "page_number_flag" true }}
+                {{ end }}
+              {{ end }}
+              <!-- Simple page numbers. -->
+            {{ else }}
+              {{ $.Scratch.Set "page_number_flag" true }}
+            {{ end }}
+            <!-- Output page numbers. -->
+            {{ if eq ($.Scratch.Get "page_number_flag") true }}
+              <li class="page-item{{ if eq . $paginator }} page-item active {{ end }}">
+                <a href="{{ .URL }}" class="page-link">
+                  {{ .PageNumber }}
+                </a>
+              </li>
+            {{ end }}
+          {{ end }}
+          <!-- Next page. -->
+          {{ if $paginator.HasNext }}
+          <li class="page-item">
+            <a href="{{ $paginator.Next.URL }}" class="page-link">
+              <i class="fas fa-angle-right"></i>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
       {{ end }}
 
     </div>
 
     <!-- right sidebar -->
     {{ if eq $sidebar "right" }}
-    <aside class="col-lg-4 {{.Scratch.Get `sidebar-margin`}}">
-      {{- partial "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
-    </aside>
+      <aside class="col-lg-4 {{.Scratch.Get `sidebar-margin`}}">
+        {{- partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) -}}
+      </aside>
     {{ end }}
     <!-- /right sidebar -->
   </div>
