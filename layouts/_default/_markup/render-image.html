@@ -1,7 +1,13 @@
 {{ if findRE `^https?://` .Destination   }}
   <img src="{{ .Destination | safeURL }}" style="width:auto;"{{ with .Text }} title="{{ . }}" alt="{{ . }}"{{ end }}>
 {{ else }}
+  {{/*  try to get reference to image  */}}
   {{ $image := .Page.Resources.GetMatch .Destination }}
+
+  {{ if and (not $image) (hasPrefix .Destination "./") }}
+    {{ $image = .Page.Resources.Get (strings.TrimPrefix "./" .Destination) }}
+  {{ end }}
+
   {{ if $image }}
     {{/*  if GIF, assume animated => don't resize*/}}
     {{ if eq (path.Ext $image.RelPermalink) ".gif" }}
