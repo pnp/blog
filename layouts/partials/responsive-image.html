@@ -46,7 +46,7 @@
 {{ end }}
 
 
-{{ $fallbackImage := $image.Resize ( printf "%sx jpg" (index (last 1 $resizeWidths) 0) ) }}
+{{ $fallbackImage := $image.Resize ( printf "%sx webp" (index (last 1 $resizeWidths) 0) ) }}
 <picture>
   <source type="image/webp"
           srcset="{{- with $resizeWidths -}}
@@ -58,6 +58,8 @@
               {{- else -}}
                 {{- if ge $image.Width . -}}
                   {{- if $i }}, {{ end -}}{{- ($image.Resize (printf "%sx webp" .) ).RelPermalink }} {{ $e }}w
+                {{- else -}}
+                  {{- if $i }}, {{ end -}}{{- ($image.Resize (printf "%dx%d webp" $image.Width $image.Height) ).RelPermalink }} {{ $e }}w
                 {{- end -}}
               {{- end -}}
             {{- end -}}
