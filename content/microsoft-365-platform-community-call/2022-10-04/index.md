@@ -53,7 +53,9 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
-{{< image alt="together-stil-221004.png" src="images/together-stil-221004.png" >}} 
+## Together Mode
+
+![together-stil-221004.png](images/together-stil-221004.png)
 
 Great seeing so many familiar faces in the room today. Thank you for joining the community call today and/or for viewing it on demand.
 

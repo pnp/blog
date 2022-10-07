@@ -1,5 +1,5 @@
 ---
-title: Weekly Agenda 3rd of October 2022
+title: Weekly Agenda - 10th of October 2022 week
 date: 2022-10-07T07:18:21.858Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
@@ -16,9 +16,9 @@ We want to give you a better overview on what's happening each week. This is a s
 
 ## Community Calls
 
-Get involved by joining a call! We host a variety of community calls each week, where we demo solutions, announce new features and where you can connect with like-minded people. This is the agenda for the following week:
+Get involved by joining a call! We host a variety of [community calls](https://aka.ms/m365/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. This is the agenda for the following week:
 
-### Microsoft 365 platform call
+### Microsoft 365 platform call - 11th of October
 
 * Tuesday, 11th of October 2022, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
@@ -31,13 +31,13 @@ Demos:
 
 Also: 📷 Picture Time with community in Together Mode!
 
-### Microsoft Office Add-ins developer community call
+### Microsoft Office Add-ins developer community call - 12th of October
 
 * Wednesday, 12th of October, 2022, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/officeaddinscommunitycall) - we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Office Add-ins developer community call](https://pnp.github.io/blog/categories/office-add-in-developer-community-call/)
 
-### Microsoft 365 & Power Platform Development Community call
+### Microsoft 365 & Power Platform Development Community call - 13th of October
 
 * Thursday, 13th of October, 2022, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
@@ -45,7 +45,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos: 
 
-* Fantasy Premier League Independent Connector by [Joe Unwin](https://twitter.com/Flow_Joe_) | @Flow_Joe_
+* Fantasy Premier League Independent Power Platform Connector by [Joe Unwin](https://twitter.com/Flow_Joe_) | @Flow_Joe_
 * Create a better version of HTML Text component using PCF by [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | @franzinifabio
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -70,7 +70,7 @@ Update of the newly created videos in our two YouTube channels at [https://aka.m
 
 ### Microsoft 365 Developer Channel
 
-*  [Challenge: Build Microsoft Teams apps in less than 60 seconds!](https://www.youtube.com/shorts/_hg2VmBA_yQ) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+No new videos on this channel during last week.
 
 ## New Microsoft 365 Developer Blog posts
 
@@ -82,8 +82,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-*  [Microsoft 365 Platform Community Call - 4th of October, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-10-04/)
-*  [Microsoft 365 & Power Platform Development Community call - 29th of September, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-09-29/)
+* [Microsoft 365 Platform Community Call - 4th of October, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-10-04/)
+* [Viva Connections & SharePoint Framework Community Call – 6th of October, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-10-06/)
 
 ## Sharing is Caring sessions
 
@@ -95,9 +95,19 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 ## Upcoming events
 
-* Microsoft Ignite, October 12-14, [Register now](https://ignite.microsoft.com/en-US/home)
-* South Coast Summit, October 13-15, Southampton, UK, [Register now](https://www.southcoastsummit.com/)
-* Microsoft 365 Conference, December 6-8, Las Vegas, NV, [Register now](https://m365conf.com/#!/)
+Please take the opportuntiy to join these great conferences. There are online and in-person options.
+
+* [Technorama](https://www.techorama.nl/) - October 10-12, 2022, Utrecht Netherlands
+* [​​​​​​​​​​​​​​​​​​​​​North American Collaboration Summit](https://nacs.ticketspice.com/2022) - October 12-14, 2022  Branson, MO
+* [Community Summit](https://www.summitna.com/) - October 10-13, 2022, Orlando, FL
+* [Microsoft Ignite](https://ignite.microsoft.com/en-US/home) - October 12-14, Seattle and online
+* [South Coast Summit](https://www.southcoastsummit.com/) -  October 13-15, Southampton, UK
+* [Collabdays Belgium 2022](https://www.collabdays.org/2022-belgium/) - October 1​​​​​​​​​​​​​​​​​​​5, Brussels, Belgium
+* [Collabdays New England 2022](https://www.collabdays.org/2022-ne/) - October 22, Burlington, MA
+* [Collabdays Barcelona 2022](https://www.collabdays.org/2022-barcelona/) - October 22, Barcelona, Spain
+* [Collab Days Lisbon 2022](https://www.collabdays.org/2022-lisbon/) - November 26, Lisbon, Portugal
+* [​​​​​​​European SharePoint, Office 365 and Azure Conference 2022](https://www.sharepointeurope.com/) - November 28 - December 1st, 2022, Copenhagen, Denmark
+* [Microsoft 365 Conference](https://m365conf.com/#!/) - December 6-8, Las Vegas, NV
 
 We hope to see you around!
 
