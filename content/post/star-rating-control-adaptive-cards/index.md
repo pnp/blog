@@ -1,6 +1,6 @@
 ---
 title: "Star rating control in Adaptive Cards"
-date: 2022-10-04T19:30:00+02:00
+date: 2022-10-08T19:30:00+02:00
 author: "Tomasz Poszytek"
 githubname: TomaszPoszytek
 # don't change
@@ -9,10 +9,11 @@ categories: ["Community post"]
 images:
 - images/stars-results.png
 # don't change
-tags: []
+tags: ["Adaptive Cards"]
 # don't change
 type: "regular"
 ---
+
 The rating control in Adaptive Cards was on a roadmap. Long time ago. However, no updates were published and still no such control is available oob. Despite that, it is still possible to build a star rating, maybe not the perfect one, but working one for sure.
 
 Possibly the star rating control you are thinking of displays eg. 5 starts in a row and has filled stars from the left side until the one that is being hovered. And also, returns a precise value of the selected star. Like this one:
