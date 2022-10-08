@@ -2,7 +2,7 @@
 title: "Star rating control in Adaptive Cards"
 date: 2022-10-08T19:30:00+02:00
 author: "Tomasz Poszytek"
-githubname: TomaszPoszytek
+githubname: tposzytek
 # don't change
 categories: ["Community post"]
 # link to the thumbnail image for the post
