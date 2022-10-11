@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 182"
-summary: "intro intro intro."
-date: 2022-10-11T02:00:01-00:00
+summary: "Netherlands based Microsoft 365 Architect Martin Lingstuyl (I4-YOU Business Solutions) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about business climate and connecting with remote workers in Netherlands, career progression and MVP attainment. 18 articles/videos by Microsoft/Community are highlighted."
+date: 2022-10-10T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,49 +9,43 @@ images:
 - images/pnp-weekly-182-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=0B3T8Qcfo3s
-draft: true
+- https://www.youtube.com/watch?v=24LRYi76f7Q
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands based Microsoft 365 Architect [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) \| @martinlingstuyl
+
 
 ## Topics discussed in this session
 
-* Item 1
-* Item 1
-* Item 1
-* Item 1
-* Item 1
-* Item 1
-
+* What’s the demand for Microsoft technologies in Netherlands today?
+* How have work practices changed after the pandemic?
+* How do you build a connection with remote team members?
+* Martin’s career progression to becoming an M365 architect?
+* How did Martin become an MVP and 3 tips to achieving MVP status?
 
 ## Resources referenced during discussion
 
-* Tool - [Microsoft 365 Assessment tool](https://pnp.github.io/pnpassessment/index.html) \| aka.ms/microsoft365assessmenttool
-* Documentation - [Modernize your classic SharePoint sites](https://learn.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) \| aka.ms/sharepoint/modernization
-* Tool - [PnP Core SDK](https://pnp.github.io/pnpcore/) 
-* Documentation - [Microsoft Graph throttling guidance](https://learn.microsoft.com/graph/throttling) 
-* Documentation - [Avoid getting throttled or blocked in SharePoint Online](https://learn.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online) 
-* Event - [European SharePoint, Office 3665 & Azure Conference (ESPC22)](https://www.sharepointeurope.com/) – Copenhagen, November 2022 \| Bert’s session on APIs and throttling.
+Waldek’s article on freeCodeCamp - [How to Build Your First Microsoft 365 Application in 10 minutes](https://www.freecodecamp.org/news/author/waldek/)
 
-Also, we showcased 14 articles/videos published by Microsoft and the PnP Community in the last week.
+Also, we showcased 18 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
-* **Martin** – talking to ISVs and customers, starting on spec for new scoring module for Microsoft 365 Assessment tool that will deliver actionable guidance, and on Throttling/Rate Limit Header sample.
-* **Waldek** – celebrating release of CLI for Microsoft 365 v5.8 last Friday and refocusing on v5.9 developments to be released in late October.
-* **Vesa** – defragging his calendar, evaluating an updated release on Microsoft Viva Toolkit (extensibility focus) after Microsoft Ignite. Supporting Ignite preparation plus baseline community coordination activities.
+* **Martin** – working on a migration and on a large application with critical SharePoint integration.
+* **Waldek** – Microsoft Ignite activities, prep for Microsoft Teams App Camp – October 20th, a 5th birthday celebration for CLI for Microsoft 365 and ideas for attracting more people to build on Microsoft 365.
+* **Vesa** – work on promoting Microsoft Viva after the Viva Home announcement, one more beta for SPFx v1.16 to be followed with GA in short order and community coordination activities.
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, October 3, 2022.
+This session was recorded on Monday, October 10, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 0B3T8Qcfo3s >}}
+    {{< youtube 24LRYi76f7Q >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-c35mr-12dc349 >}}   
+    {{< podbean pb-6kawv-12e502f >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -67,7 +61,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Documentation updates
 
-* [Universal Actions for search based message extensions](https://learn.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/search-commands/universal-actions-for-search-based-message-extensions?referrer=whats.new.rssfeed)
+* [Universal Actions for search based message extensions](https://learn.microsoft.com/microsoftteams/platform/messaging-extensions/how-to/search-commands/universal-actions-for-search-based-message-extensions?referrer=whats.new.rssfeed)
 
 ## Community articles
 
