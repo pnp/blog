@@ -6,8 +6,6 @@ theme = "reader-hugo"
 paginate = "6"
 # post excerpt
 summaryLength = "10"
-# google analytics
-googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 
