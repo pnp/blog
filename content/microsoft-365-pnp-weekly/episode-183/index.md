@@ -1,7 +1,7 @@
 ---
-title: "Microsoft 365 PnP Weekly - Episode 182"
-summary: "intro intro intro. 18 articles/videos by Microsoft/Community are highlighted."
-date: 2022-10-18T02:00:01-00:00
+title: "Microsoft 365 PnP Weekly - Episode 183"
+summary: "Italy based Solution Architect Paolo Pialorsi (PiaSys) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on the benefits of community, a Microsoft 365 solution hosted on AWS cloud and more. 14 articles/videos by Microsoft/Community are highlighted."
+date: 2022-10-17T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,47 +9,42 @@ images:
 - images/pnp-weekly-183-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=24LRYi76f7Q
-draft: true
+- https://www.youtube.com/watch?v=PcLzMOvGorQ
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by 
-
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Italy based Solution Architect [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys) \| @paolopia
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* PiaSys’ and their customers business focus areas – solutions, projects, products.
+* Bridging the gap between clouds and a Microsoft 365 solution hosted on AWS cloud back-end.
+* Recent return from Collabdays - Belgium 2022, that included delivering a session on Becoming a Microsoft Graph Ninja. 
+* The return to in-person conferences, benefit of in-person interactions and thoughts on the future of hybrid conferences.
+* Paolo’s community contributions over the years.
+* Latest new features in the PnP provisioning engine.
+* Creating win win solutions that benefit both customer and community.
+* Observations on what makes a successful open-source project.
+* Top-of-mind Ignite announcement highlights.
 
-## Resources referenced during discussion
-
-Waldek’s article on freeCodeCamp - [How to Build Your First Microsoft 365 Application in 10 minutes](https://www.freecodecamp.org/news/author/waldek/)
-
-Also, we showcased 18 articles/videos published by Microsoft and the PnP Community in the last week.
+Also, we showcased 14 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
-* **Paolo** – hey
-* **Waldek** – hoy
-* **Vesa** – hiy
+* **Paolo** – working on customer projects and demo prep for this Thursday’s Viva Connections & SharePoint Framework Bi-weekly sync call on how to use on-behalf-of (OBO) flow within SharePoint Framework.
+* **Waldek** – reviewing Hacktoberfest PRs, ideating program to expose non-Microsoft 365 developers to Microsoft Graph without forcing developers to spend days learning Auth.
+* **Vesa** – meetings, SPFx v1.16 beta release this week, recording Viva videos, and random assignments.
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, October 10, 2022.
+This session was recorded on Monday, October 17, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 24LRYi76f7Q >}}
+    {{< youtube PcLzMOvGorQ >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-6kawv-12e502f >}}   
+    {{< podbean pb-xzpj6-12ee995 >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -58,19 +53,12 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Microsoft articles
 
 * [Microsoft Ignite 2022 - Book of News](https://news.microsoft.com/ignite-2022-book-of-news/) - Microsoft
-* [Microsoft 365 at Ignite—Re-energize your workforce in the office, at home, and everywhere in between](https://www.microsoft.com/en-us/microsoft-365/blog/2022/10/12/microsoft-365-at-ignite-re-energize-your-workforce-in-the-office-at-home-and-everywhere-in-between/) - [Jared Spataro](https://twitter.com/jared_spataro) (Microsoft) | @jared_spataro
-* [Welcome to Microsoft Syntex—Content AI integrated in the flow of work](https://www.microsoft.com/en-us/microsoft-365/blog/2022/10/12/welcome-to-microsoft-syntexcontent-ai-integrated-in-the-flow-of-work/) - [Seth Patton](https://twitter.com/SethPat) (Microsoft) | @SethPat
+* [Microsoft 365 at Ignite—Re-energize your workforce in the office, at home, and everywhere in between](https://www.microsoft.com/microsoft-365/blog/2022/10/12/microsoft-365-at-ignite-re-energize-your-workforce-in-the-office-at-home-and-everywhere-in-between/) - [Jared Spataro](https://twitter.com/jared_spataro) (Microsoft) | @jared_spataro
+* [Welcome to Microsoft Syntex—Content AI integrated in the flow of work](https://www.microsoft.com/microsoft-365/blog/2022/10/12/welcome-to-microsoft-syntexcontent-ai-integrated-in-the-flow-of-work/) - [Seth Patton](https://twitter.com/SethPat) (Microsoft) | @SethPat
 * [Microsoft Teams blog - Ignite 2022 announcements](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog) - Microsoft
 * [Microsoft Viva blog - Ignite 2022 announcements](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/bg-p/MicrosoftVivaBlog) - Microsoft
 * [Microsoft 365 Developer blog - ignite 2022 announcements](https://devblogs.microsoft.com/microsoft365dev/) - Microsoft
 * [Ignite 2022: Transforming collaboration with low and pro code dev tools](https://devblogs.microsoft.com/microsoft365dev/ignite-2022-transforming-collaboration-with-low-and-pro-code-dev-tools/) - [Ben Summers](https://twitter.com/bensum365) (Microsoft) | @bensum365
-* 
-* ---
-* [Your Guide to Microsoft Teams at Microsoft Ignite 2022](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/your-guide-to-microsoft-teams-at-microsoft-ignite-2022/ba-p/3614153) - Maria Figueroa (Microsoft)
-* [SharePoint Roadmap Pitstop: September 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-september-2022/ba-p/3644614) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
-* [More options coming soon for the Viva Connections desktop experience](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/more-options-coming-soon-for-the-viva-connections-desktop/ba-p/3644419) - Ling Ma (Microsoft)
-* [Join us at Microsoft Teams App Camp on October 20, 2022](https://devblogs.microsoft.com/microsoft365dev/join-us-at-microsoft-teams-app-camp-on-october-20-2022/) - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
-* [Link unfurling public preview in Outlook](https://devblogs.microsoft.com/microsoft365dev/link-unfurling-public-preview-in-outlook/) - Namrata Khubchandani (Microsoft)
 
 ## Community articles
 
