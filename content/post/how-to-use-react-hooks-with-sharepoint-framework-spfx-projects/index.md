@@ -3,7 +3,7 @@ title: How to use React hooks with the SharePoint Framework (SPFx)
 
 # Add a summary to convince readers to read your article (recommended). It will display on the homepage.
 summary: Learn how to convert a default class-based React component to a functional component, and then see how to implement React hooks in the web part!
-date: 2022-10-19T10:59:07-04:00
+date: 2022-10-19T15:12:25.011Z
 
 # Author. Your own name
 author: "Andrew Connell"
