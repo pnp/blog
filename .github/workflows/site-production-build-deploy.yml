@@ -47,6 +47,7 @@ jobs:
       ######################################################################
       - name: ⚙️ Setup (& acquire) GitHub Pages config
         id: gh_pages
+        if: github.repository == 'pnp/blog'
         uses: actions/configure-pages@v2
       ######################################################################
       # download & install hugo
@@ -91,7 +92,7 @@ jobs:
       ######################################################################
       - name: 💾  Save site generated artifacts for deployment
         uses: actions/upload-pages-artifact@v1
-        if: github.ref == 'refs/heads/main'
+        if: (github.ref == 'refs/heads/main') && github.repository == 'pnp/blog'
         with:
           path: ./public
 
@@ -100,7 +101,7 @@ jobs:
   ######################################################################
   deploy:
     name: Deploy site Hugo site
-    if: github.ref == 'refs/heads/main'
+    if: (github.ref == 'refs/heads/main') && github.repository == 'pnp/blog'
     runs-on: ubuntu-latest
     needs:
       - build
