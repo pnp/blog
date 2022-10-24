@@ -448,10 +448,29 @@ You can find all Microsoft 365 related videos on our YouTube Channel at [https:/
 
 Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 
-*  [Roll A Dice! - Building a Command Bot for Microsoft Teams Using Team Toolkit v4 with VS Cod](https://www.youtube.com/watch?v=BSxanVdealA)
-*  [Shorts: Building a Dice Bot 🎲 for Microsoft Teams with Teams Toolkit in Visual Studio Code](https://www.youtube.com/shorts/_LbulbZr5ZA)
-*  [Shorts: Challenge: Build Microsoft Teams apps in less than 60 seconds!](https://www.youtube.com/shorts/_hg2VmBA_yQ) 
-*  [Check required permissions for Microsoft Graph in the Graph Explorer](https://www.youtube.com/shorts/fWc7i-YDFM0) by [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
+
+* [Join the 30 Days of Microsoft Graph Challenge! 🦒](https://www.youtube.com/shorts/yNGOi51DJbY) - Microsoft
+* [Northwind solution offers support for Android devices](https://www.youtube.com/watch?v=wwgNav8X4oY) - Microsoft
+* [Live Share SDK adds Teams Live Canvas package](https://www.youtube.com/watch?v=ehjMI-ugSWQ) - [Graham Sheldon](https://twitter.com/gsheldon) (Microsoft) | @gsheldon
+* [Adaptive Cards-based Loop components](https://www.youtube.com/watch?v=FX9-MO3hRdQ)
+* [Zero-install link unfurling](https://www.youtube.com/watch?v=1kcju-lefiw)
+* [Lynk & Co brings meetings into the car with Azure Communication Services and Microsoft Teams](https://www.youtube.com/watch?v=jYhOVyvNpOU)
+* [Microsoft Graph Data Connect for analytics and more](https://www.youtube.com/watch?v=1Kr2eH-ELPs) - [Graham Sheldon](https://twitter.com/gsheldon) (Microsoft) | @gsheldon
+* [Azure Communication Services support for Teams users](https://www.youtube.com/watch?v=fNwcdLq4K-I) - [Graham Sheldon](https://twitter.com/gsheldon) (Microsoft) | @gsheldon
+* [From low code to pro code: building and buying collaborative apps to power an evolving workplace](https://www.youtube.com/watch?v=v5CpdIWaul4) - [Graham Sheldon](https://twitter.com/gsheldon) (Microsoft) | @gsheldon
+* [Learn how to build and monetize apps for Microsoft Teams!](https://www.youtube.com/watch?v=_dRE-SFh9so) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [Demystifying Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=aCfZcYCPz4I) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia and Zhidi Shang (Microsoft)
+* [Extending your SharePoint Framework (SPFx) solutions also to Outlook and Office.com](https://www.youtube.com/watch?v=UZensJzonbw) by Microsoft
+* [Lynk & Co brings meetings into the car with Azure Communication Services and Microsoft Teams](https://www.youtube.com/watch?v=4tPJoaZKF6k) by Microsoft
+* [United Airlines uses Microsoft Teams for collaboration](https://www.youtube.com/watch?v=pJYrKk-F4mY) by Microsoft
+* [App Compliance Automation Tool for Microsoft 365](https://www.youtube.com/watch?v=IXFLT87eFWA) by Microsoft
+* [Northwind Orders app runs in Office and Outlook Android apps](https://www.youtube.com/watch?v=lEUsdkZjUVA) by Microsoft
+* [Mural Demo](https://www.youtube.com/watch?v=1CFJOhpXk74) by Microsoft
+* [Northwind Orders sample app running in Office and Outlook Android apps](https://www.youtube.com/watch?v=nj1mzasheyo) by Microsoft
+* [Roll A Dice! - Building a Command Bot for Microsoft Teams Using Team Toolkit v4 with VS Cod](https://www.youtube.com/watch?v=BSxanVdealA)
+* [Shorts: Building a Dice Bot 🎲 for Microsoft Teams with Teams Toolkit in Visual Studio Code](https://www.youtube.com/shorts/_LbulbZr5ZA)
+* [Shorts: Challenge: Build Microsoft Teams apps in less than 60 seconds!](https://www.youtube.com/shorts/_hg2VmBA_yQ) 
+* [Check required permissions for Microsoft Graph in the Graph Explorer](https://www.youtube.com/shorts/fWc7i-YDFM0) by [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
 *  [Microsoft ISV One Place Solutions shows how they built their One Place Mail app](https://www.youtube.com/watch?v=cPRE8HfBCLA) with [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs, [Cameron Dwyer](https://twitter.com/CameronDwyer) (One Place Solutions) | @CameronDwyer, and [Mathieu Rebuffet](https://twitter.com/rebuf) (One Place Solutions) | @rebuf
 * [Get started with Microsoft Teams app development and monetization](https://www.youtube.com/watch?v=ntFBgnrTt-s) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Security Scenarios with Microsoft Graph Data Connect and Neo4j Analytics](https://www.youtube.com/watch?v=OyEqh-7jvWs) with Ben Summers (Microsoft) and Michael Moore (Neo4j)
@@ -475,10 +494,30 @@ Here are the new Microsoft demo or guidance videos released since the last month
 
 ### Community demo videos
 
+* [Introduction to SharePoint app bar](https://www.youtube.com/watch?v=tkWucE_rnoA) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1 
+* [Build a productivity dashboard by using Teams Toolkit for Visual Studio](https://www.youtube.com/watch?v=AZMH1tq7wEw) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs 
+* [Accelerate SPFx development with reusable open-source controls](https://www.youtube.com/watch?v=1vYEFJGtPQc) by [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @alexaterentiev
+* [UX Tips & Tricks for Model-Driven Power Apps](https://www.youtube.com/watch?v=SdcX89wOBJY) by Chris Piasecki (CGI) 
+* [Introduction to Privacy APIs on Microsoft Graph](https://www.youtube.com/watch?v=umkCfWQyfJw) by [Brian T. Jackett](https://twitter.com/aycabs) (Microsoft) | @BrianTJackett & Cameron Parker (Microsoft) 
+* [Building a movie voting experience as Microsoft Teams meeting app](https://www.youtube.com/watch?v=Tzu0TRhKT8s) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
+* [Introduction to SharePoint Online Admin APIs on Microsoft Graph](https://www.youtube.com/watch?v=MjV2Cso-YG8) by Adriana Wood (Microsoft) and Liam Fernandez (Microsoft)
+* [Building polished form experiences with SPFx form customizer](https://www.youtube.com/watch?v=OkOl6anqvc4) by [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) | @EjazHussain_ 
+* [Microsoft Lists - MSA Preview for work and life](https://www.youtube.com/watch?v=WEkQGRAqkNA) - Microsoft
+* [Parsing JSON in Power Apps](https://www.youtube.com/watch?v=VRXM7UT3iwU) by [Cat Schneider](https://twitter.com/YerAWizardCat) | @YerAWizardCat
+* [OneDrive value and innovation - Microsoft Ignite 2022](https://www.youtube.com/watch?v=TlYDPn_F8RA) by Ifan Shahdad (Microsoft)
+* [Microsoft Lists value and innovation - Microsoft Ignite 2022](https://www.youtube.com/watch?v=Wu9onfbe3J0) by Steven Jia (Microsoft)
+* [Project and Planner value and innovation - Microsoft Ignite 2022](https://www.youtube.com/watch?v=ZuwFUs4OJgg) - Mukul Kumar (Microsoft)
+* [Building Viva Connections ACE for public holidays](https://www.youtube.com/watch?v=zViWHCfEhrI) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @NanddeepNachan and [Ravi Kulkarni](https://twitter.com/RaviKul16a87) (Microsoft) | @RaviKul16a87
+* [You can be an author of an Independent Publisher Connector](https://www.youtube.com/watch?v=SYln7bWoNzc) (Hitachi Solutions) | @that_API_guy
+* [Building SPFx solution with Azure Communication Services integration](https://www.youtube.com/watch?v=-wMfFLJIR1w) presented by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh and built by [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
+* [Getting started with Teams Toolkit for Visual Studio](https://www.youtube.com/watch?v=7oa0hW5pXt8) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
+* [Microsoft Graph Postman - Scripts and advanced functionality](https://www.youtube.com/watch?v=Y2uzICgmyF8) by [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
+* [Introduction to app camp training package for Microsoft Teams ISVs](https://www.youtube.com/watch?v=V9tdBb20qg4) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [Microsoft Word Extensibility Update – September 2022](https://www.youtube.com/watch?v=KKofGicthkg) by Yun Wang (Microsoft)
+* [Microsoft Outlook Add-in Blazer Sample Update – September 2022](https://www.youtube.com/watch?v=nRhEgTwJDtY) by [Eric Legault](https://twitter.com/elegault) (Eric Legault Consulting) | @elegault 
 * [Using Mockaroo Independent Publisher Connectors to automatically generate sample data](https://www.youtube.com/watch?v=nRhEgTwJDtY) by  [Richard A. Wilson](https://twitter.com/PowerAppsRAW) (Microsoft) | @PowerAppsRAW 
 * [List formatting magic – neomorphic design for polished UX](https://www.youtube.com/watch?v=8Nboe31bmB4) by [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 * [Introduction to Microsoft Teams Toolkit](https://www.youtube.com/watch?v=z8-cMEz350E) by [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev
-* 
 * [Latest on eDiscovery Premium APIs on Microsoft Graph](https://www.youtube.com/watch?v=OJr48y8kIio) by [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | BrianTJacket and Cameron Parker (Microsoft)
 * [Understand Azure AD extensions and their role in Application integration – September 2022](https://www.youtube.com/watch?v=z-7kpn_R_JE)
 * [Introduction to Microsoft Graph X-Ray project](https://www.youtube.com/watch?v=6_aywwBWgr8) by  [Merill Fernando](https://twitter.com/merill) (Microsoft) | @merill
