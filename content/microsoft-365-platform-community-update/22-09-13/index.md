@@ -449,6 +449,15 @@ You can find all Microsoft 365 related videos on our YouTube Channel at [https:/
 Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 
 
+* [From low code to pro code: building and buying collaborative apps to power an evolving workplace](https://www.youtube.com/watch?v=v5CpdIWaul4) - Microsoft
+* [Azure Communication Services support for Teams users](https://www.youtube.com/watch?v=fNwcdLq4K-I) - Microsoft
+* [Microsoft Graph Data Connect for analytics and more](https://www.youtube.com/watch?v=1Kr2eH-ELPs) - Microsoft
+* [Zero-install link unfurling](https://www.youtube.com/watch?v=1kcju-lefiw) - Microsoft
+* [Lynk & Co brings meetings into the car with Azure Communication Services and Microsoft Teams](https://www.youtube.com/watch?v=jYhOVyvNpOU) - Microsoft
+* [Adaptive Cards-based Loop components](https://www.youtube.com/watch?v=FX9-MO3hRdQ) - Microsoft
+* [Live Share SDK adds Teams Live Canvas package](https://www.youtube.com/watch?v=ehjMI-ugSWQ) - Microsoft
+* [Northwind solution offers support for Android devices](https://www.youtube.com/watch?v=wwgNav8X4) - Microsoft
+* [Microsoft Teams App Camp](https://www.youtube.com/watch?v=5x_k2OEYDZg) - Microsoft
 * [Join the 30 Days of Microsoft Graph Challenge! 🦒](https://www.youtube.com/shorts/yNGOi51DJbY) - Microsoft
 * [Northwind solution offers support for Android devices](https://www.youtube.com/watch?v=wwgNav8X4oY) - Microsoft
 * [Live Share SDK adds Teams Live Canvas package](https://www.youtube.com/watch?v=ehjMI-ugSWQ) - [Graham Sheldon](https://twitter.com/gsheldon) (Microsoft) | @gsheldon
@@ -494,6 +503,7 @@ Here are the new Microsoft demo or guidance videos released since the last month
 
 ### Community demo videos
 
+* [Account Linking for Microsoft Teams apps](https://www.youtube.com/watch?v=UvC8Tsqcw7U) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German and Aditya Challapally (Microsoft)
 * [Introduction to SharePoint app bar](https://www.youtube.com/watch?v=tkWucE_rnoA) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1 
 * [Build a productivity dashboard by using Teams Toolkit for Visual Studio](https://www.youtube.com/watch?v=AZMH1tq7wEw) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs 
 * [Accelerate SPFx development with reusable open-source controls](https://www.youtube.com/watch?v=1vYEFJGtPQc) by [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @alexaterentiev
@@ -557,7 +567,7 @@ Here are the new Microsoft demo or guidance videos released since the last month
 
 
 
-## Key contributors to the September 2022 update
+## Key contributors to the September and October 2022 update
 
 Here’s the list of active contributors (in alphabetical order) since last release details in GitHub repositories or community channels. PnP is really about building tooling and knowledge together with the community for the community, so your contributions are highly valued across the Microsoft 365 customers, partners and obviously also at Microsoft.
 
