@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Platform Community (PnP) - September 2022 update
+title: Microsoft 365 Platform Community (PnP) - September and October 2022 update
 date: 2022-09-27T08:30:55.909Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
@@ -20,7 +20,7 @@ type: regular
 draft: true
 ---
 
-Microsoft 365 Platform Community (PnP) September 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success.
+Microsoft 365 Platform Community (PnP) September and October 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success.
 
 _We are committed on building the best tech community in the world where everyone feels welcome and we help to empower each and every community member to achieve more._
 
@@ -46,6 +46,23 @@ The initiative is facilitated by Microsoft, but we have multiple community membe
 
 Here are the latest blog posts and announcements around Microsoft 365 development topics from [https://developer.microsoft.com/microsoft-365/blogs](https://developer.microsoft.com/microsoft-365/blogs)
 
+* 19th of October - [Ignite 2022: Highlights for Microsoft Teams app builders](https://devblogs.microsoft.com/microsoft365dev/ignite-2022-highlights-for-microsoft-teams-app-builders/) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia
+* 19th of October - [5 ways to boost your collaborative app development](https://devblogs.microsoft.com/microsoft365dev/5-ways-to-boost-your-collaborative-app-development/) by Daniel Carrasco
+* 19th of October - [Removal of SPHome APIs from SharePoint Online](https://devblogs.microsoft.com/microsoft365dev/removal-of-sphome-apis-from-sharepoint-online/) by SharePoint team
+* 18th of October -[Prevent throttling in your application by using RateLimit headers in SharePoint Online](https://devblogs.microsoft.com/microsoft365dev/prevent-throttling-in-your-application-by-using-ratelimit-headers-in-sharepoint-online/) by SharePoint team
+* 17th of October - [Join the 30 Days of Microsoft Graph Challenge](https://devblogs.microsoft.com/microsoft365dev/announcement-30-days-of-microsoft-graph-challenge/) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs 
+* 12th of October - [Ignite 2022: Transforming collaboration with low and pro code dev tools](https://devblogs.microsoft.com/microsoft365dev/ignite-2022-transforming-collaboration-with-low-and-pro-code-dev-tools/) by [Ben Summers](https://twitter.com/bensum365) (Microsoft) | @bensum365
+* 12th of October - [Want to embed Microsoft Teams in your app? Here’s how](https://devblogs.microsoft.com/microsoft365dev/) by omas Chladek (Microsoft) and Daniel Carrasco (Microsoft)
+* 12th of October - [Scale access to Microsoft 365 data with Microsoft Graph Data Connect](https://devblogs.microsoft.com/microsoft365dev/scale-access-to-microsof5-data-with-microsoft-graph-data-connect/) by Philip Li (Microsoft)
+* 12th of October - [App Compliance Automation Tool for Microsoft 365 launching in public preview](https://devblogs.microsoft.com/microsoft365dev/app-compliance-automation-tool-for-microsoft-365-launching-in-public-preview/) by Sreekanth Thirthala Venkata (Microsoft)
+* 12th of October - [Announcing updates to Microsoft Teams API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/announcing-updates-to-microsoft-teams-api-in-microsoft-graph/) by Nick Kramer (Microsoft)
+* 12th of October - [What’s new for Office Add-ins at Ignite 2022](https://devblogs.microsoft.com/microsoft365dev/whats-new-for-office-add-ins-at-ignite-2022/) by Office add-ins team
+* 12th of October - [Announcing updates to the Planner API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/announcing-updates-to-the-planner-api-in-microsoft-graph/) by Brijesh Bharadwaj (Microsoft), Andrew Friedman (Microsoft) and Tarkan Sevilmis (Microsoft)
+* 11th of October - [Raise the bar for your app: Get Microsoft 365 Certified](https://devblogs.microsoft.com/microsoft365dev/raise-the-bar-for-your-app-get-microsoft-365-certified/) by Krishna Mawani (Microsoft)
+* 10th of October - [Beginners’ crash course to build apps for Teams using Teams Toolkit for Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/beginners-crash-course-to-build-apps-for-teams-using-teams-toolkit-for-visual-studio-code/) by by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia and Zhidi Shang (Microsoft)
+* 7th of October - [Join us at Microsoft Teams App Camp on October 20, 2022](https://devblogs.microsoft.com/microsoft365dev/join-us-at-microsoft-teams-app-camp-on-october-20-2022/) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* 4th of October - [Link unfurling public preview in Outlook](https://devblogs.microsoft.com/microsoft365dev/link-unfurling-public-preview-in-outlook/) by Namrata Khubchandani (Microsoft)
+*  29th of September - [Microsoft Teams apps coming in preview to Office and Outlook apps on Android](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-apps-coming-in-preview-to-office-and-outlook-apps-on-android/) by [Sanjay Joshi](https://twitter.com/sanjoshi) (Microsoft) | @sanjoshi
 * 27th of September - [Build a stock update notification bot for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/build-a-stock-update-notification-bot-for-microsoft-teams-using-teams-toolkit-for-visual-studio-code/) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * 14th of September - [Priority Matrix improves user activation through Universal Actions for Adaptive Cards](https://devblogs.microsoft.com/microsoft365dev/priority-matrix-improves-user-activation-through-universal-actions-for-adaptive-cards/) by [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) | @fabianwilliams
 * 8th of September - [Start your journey to becoming a Microsoft 365 developer](https://devblogs.microsoft.com/microsoft365dev/start-your-journey-to-becoming-a-microsoft-365-developer/) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
@@ -59,7 +76,13 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pp/community/blog)
 
-
+* 19th of October - [How to use React hooks with the SharePoint Framework (SPFx)](https://pnp.github.io/blog/post/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* 8th of October - [Star rating control in Adaptive Cards](https://pnp.github.io/blog/post/star-rating-control-adaptive-cards/) by [TomaszPoszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek 
+* 8th of October - [How to get notifications on PnP samples shared on GitHub](https://pnp.github.io/blog/post/using-power-automate-sample-notifications/) by [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
+* 5th of October - [Series: How to build Power Apps that don't look like Power Apps - auto-height textinput - Material Design part 3](https://pnp.github.io/blog/post/how-to-build-an-auto-height-textinput-component-for-power-apps.md/) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
+* 30th of September - [Build a vacation tracker app with Lists and SharePoint for Teams](https://pnp.github.io/blog/post/build-a-vacation-tracker-app-with-lists-and-sharepoint-for-teams/) by [Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
+* 19th of September - [How to register SPFx field customizers with the SharePoint REST API](https://pnp.github.io/blog/post/sharepoint-framework-register-field-customizers-rest-api/) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* 16th of September - [How Manage Azure SQL server Firewall using Power Platform](https://pnp.github.io/blog/post/manage-azure-sql-server-firewall-from-power-platform/) by by Duvan Baena | DuvanBaena ) 
 * 14th of September - [Unboxing the SharePoint Framework (SPFx) v1.15.2 release](https://pnp.github.io/blog/post/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * 13th of September - [How to generate an HTML table with the output of a SQL Server query and send it from Outlook by using Power Platform](https://pnp.github.io/blog/post/how-to-generate-an-html-table-with-sql-server-query-and-send-from-outlook-with-using-power-platform/) by Duvan Baena | DuvanBaena 
 * 11th of September - [CLI for Microsoft 365 - how cool is that? - Configuring settings](https://pnp.github.io/blog/post/cli-how-cool-is-that-config-settings/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam258587
@@ -72,6 +95,15 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 ### Community call recording blog posts
 
+* 20th of October - [Viva Connections & SharePoint Framework Community Call – 20th of October, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-10-20/)
+* 19th of October  [Power Platform Community Call – October 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-october-2022/)
+* 18th of October - [Microsoft 365 Platform Community Call - 18th of October, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-10-18/)
+* 14th of October - [Adaptive Cards community call – October 2022](https://pnp.github.io/blog/adaptive-cards-community-call/adaptive-cards-community-call-october-2022/)
+* 13th of October - [Microsoft 365 & Power Platform Development Community call - 13th of October, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-10-13/) 
+* 11th of October - [Microsoft 365 Platform Community Call - 11th of October, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-10-11/)
+* 6th of October - [Viva Connections & SharePoint Framework Community Call – 6th of October, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-10-06/)
+* 4th of October - [Microsoft 365 Platform Community Call - 4th of October, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-10-04/)
+* 27th of September [Microsoft 365 & Power Platform Development Community call - 29th of September, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-09-29/)
 * 27th of September - [Microsoft 365 Platform Community Call - 27th of September, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-09-27/) 
 * 22nd of September - [Viva Connections & SharePoint Framework Community Call – 22nd of September, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-09-22/)  
 * 21st of September - [Power Platform Community Call – September 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-september-2022/)
@@ -90,13 +122,18 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Dev podcast is back. Soon new episodes to be published
 
+* 17th of October - [Viva Connections with Anoop Tatti](https://www.m365devpodcast.com/e/viva-connections-with-anoop-tatti/)
+* 26th of September - [Building OfficeAtWork with Martin Seifert](https://www.m365devpodcast.com/e/building-officeatwork-with-martin-seifert/)
+* 22nd of September - [SPFx releases and features with Alex Terentiev](https://www.m365devpodcast.com/e/spfx-releases-and-features-with-alex-terentiev/)
 * 1st of August - [TeamsJS SDK Update with Alicia Lu](https://www.m365devpodcast.com/e/teamsjs-sdk-update-with-alicia-liu/)
 
 ### Microsoft 365 PnP Weekly Podcasts and vlogs
 
 PnP Weekly is a recurrent podcast with visitors where Vesa and Waldek talk about the latest news and announcements in Microsoft 365 and SharePoint areas.
 
-
+* 17th of October - [Microsoft 365 PnP Weekly - Episode 183 - Paolo Pialorsi](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-183/)
+* 10th of October - [Microsoft 365 PnP Weekly - Episode 182 - Martin Lingstuyl](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-182/)
+* 3rd of October - [Microsoft 365 PnP Weekly - Episode 181 - Bert Jansen](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-181/)
 * 27th of September - [Microsoft 365 PnP Weekly – Episode 180 – Chirag Patel](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-180/)
 * 19th of September - [Microsoft 365 PnP Weekly - Episode 179 - Alexander Meijers](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-179/)
 * 12th of September - [Microsoft 365 PnP Weekly - Episode 178 - Paul Hunt](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-178/)
@@ -411,10 +448,38 @@ You can find all Microsoft 365 related videos on our YouTube Channel at [https:/
 
 Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 
-*  [Roll A Dice! - Building a Command Bot for Microsoft Teams Using Team Toolkit v4 with VS Cod](https://www.youtube.com/watch?v=BSxanVdealA)
-*  [Shorts: Building a Dice Bot 🎲 for Microsoft Teams with Teams Toolkit in Visual Studio Code](https://www.youtube.com/shorts/_LbulbZr5ZA)
-*  [Shorts: Challenge: Build Microsoft Teams apps in less than 60 seconds!](https://www.youtube.com/shorts/_hg2VmBA_yQ) 
-*  [Check required permissions for Microsoft Graph in the Graph Explorer](https://www.youtube.com/shorts/fWc7i-YDFM0) by [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
+
+* [From low code to pro code: building and buying collaborative apps to power an evolving workplace](https://www.youtube.com/watch?v=v5CpdIWaul4) - Microsoft
+* [Azure Communication Services support for Teams users](https://www.youtube.com/watch?v=fNwcdLq4K-I) - Microsoft
+* [Microsoft Graph Data Connect for analytics and more](https://www.youtube.com/watch?v=1Kr2eH-ELPs) - Microsoft
+* [Zero-install link unfurling](https://www.youtube.com/watch?v=1kcju-lefiw) - Microsoft
+* [Lynk & Co brings meetings into the car with Azure Communication Services and Microsoft Teams](https://www.youtube.com/watch?v=jYhOVyvNpOU) - Microsoft
+* [Adaptive Cards-based Loop components](https://www.youtube.com/watch?v=FX9-MO3hRdQ) - Microsoft
+* [Live Share SDK adds Teams Live Canvas package](https://www.youtube.com/watch?v=ehjMI-ugSWQ) - Microsoft
+* [Northwind solution offers support for Android devices](https://www.youtube.com/watch?v=wwgNav8X4) - Microsoft
+* [Microsoft Teams App Camp](https://www.youtube.com/watch?v=5x_k2OEYDZg) - Microsoft
+* [Join the 30 Days of Microsoft Graph Challenge! 🦒](https://www.youtube.com/shorts/yNGOi51DJbY) - Microsoft
+* [Northwind solution offers support for Android devices](https://www.youtube.com/watch?v=wwgNav8X4oY) - Microsoft
+* [Live Share SDK adds Teams Live Canvas package](https://www.youtube.com/watch?v=ehjMI-ugSWQ) - [Graham Sheldon](https://twitter.com/gsheldon) (Microsoft) | @gsheldon
+* [Adaptive Cards-based Loop components](https://www.youtube.com/watch?v=FX9-MO3hRdQ)
+* [Zero-install link unfurling](https://www.youtube.com/watch?v=1kcju-lefiw)
+* [Lynk & Co brings meetings into the car with Azure Communication Services and Microsoft Teams](https://www.youtube.com/watch?v=jYhOVyvNpOU)
+* [Microsoft Graph Data Connect for analytics and more](https://www.youtube.com/watch?v=1Kr2eH-ELPs) - [Graham Sheldon](https://twitter.com/gsheldon) (Microsoft) | @gsheldon
+* [Azure Communication Services support for Teams users](https://www.youtube.com/watch?v=fNwcdLq4K-I) - [Graham Sheldon](https://twitter.com/gsheldon) (Microsoft) | @gsheldon
+* [From low code to pro code: building and buying collaborative apps to power an evolving workplace](https://www.youtube.com/watch?v=v5CpdIWaul4) - [Graham Sheldon](https://twitter.com/gsheldon) (Microsoft) | @gsheldon
+* [Learn how to build and monetize apps for Microsoft Teams!](https://www.youtube.com/watch?v=_dRE-SFh9so) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [Demystifying Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=aCfZcYCPz4I) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia and Zhidi Shang (Microsoft)
+* [Extending your SharePoint Framework (SPFx) solutions also to Outlook and Office.com](https://www.youtube.com/watch?v=UZensJzonbw) by Microsoft
+* [Lynk & Co brings meetings into the car with Azure Communication Services and Microsoft Teams](https://www.youtube.com/watch?v=4tPJoaZKF6k) by Microsoft
+* [United Airlines uses Microsoft Teams for collaboration](https://www.youtube.com/watch?v=pJYrKk-F4mY) by Microsoft
+* [App Compliance Automation Tool for Microsoft 365](https://www.youtube.com/watch?v=IXFLT87eFWA) by Microsoft
+* [Northwind Orders app runs in Office and Outlook Android apps](https://www.youtube.com/watch?v=lEUsdkZjUVA) by Microsoft
+* [Mural Demo](https://www.youtube.com/watch?v=1CFJOhpXk74) by Microsoft
+* [Northwind Orders sample app running in Office and Outlook Android apps](https://www.youtube.com/watch?v=nj1mzasheyo) by Microsoft
+* [Roll A Dice! - Building a Command Bot for Microsoft Teams Using Team Toolkit v4 with VS Cod](https://www.youtube.com/watch?v=BSxanVdealA)
+* [Shorts: Building a Dice Bot 🎲 for Microsoft Teams with Teams Toolkit in Visual Studio Code](https://www.youtube.com/shorts/_LbulbZr5ZA)
+* [Shorts: Challenge: Build Microsoft Teams apps in less than 60 seconds!](https://www.youtube.com/shorts/_hg2VmBA_yQ) 
+* [Check required permissions for Microsoft Graph in the Graph Explorer](https://www.youtube.com/shorts/fWc7i-YDFM0) by [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
 *  [Microsoft ISV One Place Solutions shows how they built their One Place Mail app](https://www.youtube.com/watch?v=cPRE8HfBCLA) with [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs, [Cameron Dwyer](https://twitter.com/CameronDwyer) (One Place Solutions) | @CameronDwyer, and [Mathieu Rebuffet](https://twitter.com/rebuf) (One Place Solutions) | @rebuf
 * [Get started with Microsoft Teams app development and monetization](https://www.youtube.com/watch?v=ntFBgnrTt-s) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Security Scenarios with Microsoft Graph Data Connect and Neo4j Analytics](https://www.youtube.com/watch?v=OyEqh-7jvWs) with Ben Summers (Microsoft) and Michael Moore (Neo4j)
@@ -438,10 +503,31 @@ Here are the new Microsoft demo or guidance videos released since the last month
 
 ### Community demo videos
 
+* [Account Linking for Microsoft Teams apps](https://www.youtube.com/watch?v=UvC8Tsqcw7U) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German and Aditya Challapally (Microsoft)
+* [Introduction to SharePoint app bar](https://www.youtube.com/watch?v=tkWucE_rnoA) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1 
+* [Build a productivity dashboard by using Teams Toolkit for Visual Studio](https://www.youtube.com/watch?v=AZMH1tq7wEw) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs 
+* [Accelerate SPFx development with reusable open-source controls](https://www.youtube.com/watch?v=1vYEFJGtPQc) by [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @alexaterentiev
+* [UX Tips & Tricks for Model-Driven Power Apps](https://www.youtube.com/watch?v=SdcX89wOBJY) by Chris Piasecki (CGI) 
+* [Introduction to Privacy APIs on Microsoft Graph](https://www.youtube.com/watch?v=umkCfWQyfJw) by [Brian T. Jackett](https://twitter.com/aycabs) (Microsoft) | @BrianTJackett & Cameron Parker (Microsoft) 
+* [Building a movie voting experience as Microsoft Teams meeting app](https://www.youtube.com/watch?v=Tzu0TRhKT8s) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
+* [Introduction to SharePoint Online Admin APIs on Microsoft Graph](https://www.youtube.com/watch?v=MjV2Cso-YG8) by Adriana Wood (Microsoft) and Liam Fernandez (Microsoft)
+* [Building polished form experiences with SPFx form customizer](https://www.youtube.com/watch?v=OkOl6anqvc4) by [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) | @EjazHussain_ 
+* [Microsoft Lists - MSA Preview for work and life](https://www.youtube.com/watch?v=WEkQGRAqkNA) - Microsoft
+* [Parsing JSON in Power Apps](https://www.youtube.com/watch?v=VRXM7UT3iwU) by [Cat Schneider](https://twitter.com/YerAWizardCat) | @YerAWizardCat
+* [OneDrive value and innovation - Microsoft Ignite 2022](https://www.youtube.com/watch?v=TlYDPn_F8RA) by Ifan Shahdad (Microsoft)
+* [Microsoft Lists value and innovation - Microsoft Ignite 2022](https://www.youtube.com/watch?v=Wu9onfbe3J0) by Steven Jia (Microsoft)
+* [Project and Planner value and innovation - Microsoft Ignite 2022](https://www.youtube.com/watch?v=ZuwFUs4OJgg) - Mukul Kumar (Microsoft)
+* [Building Viva Connections ACE for public holidays](https://www.youtube.com/watch?v=zViWHCfEhrI) by [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @NanddeepNachan and [Ravi Kulkarni](https://twitter.com/RaviKul16a87) (Microsoft) | @RaviKul16a87
+* [You can be an author of an Independent Publisher Connector](https://www.youtube.com/watch?v=SYln7bWoNzc) (Hitachi Solutions) | @that_API_guy
+* [Building SPFx solution with Azure Communication Services integration](https://www.youtube.com/watch?v=-wMfFLJIR1w) presented by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh and built by [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
+* [Getting started with Teams Toolkit for Visual Studio](https://www.youtube.com/watch?v=7oa0hW5pXt8) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
+* [Microsoft Graph Postman - Scripts and advanced functionality](https://www.youtube.com/watch?v=Y2uzICgmyF8) by [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
+* [Introduction to app camp training package for Microsoft Teams ISVs](https://www.youtube.com/watch?v=V9tdBb20qg4) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [Microsoft Word Extensibility Update – September 2022](https://www.youtube.com/watch?v=KKofGicthkg) by Yun Wang (Microsoft)
+* [Microsoft Outlook Add-in Blazer Sample Update – September 2022](https://www.youtube.com/watch?v=nRhEgTwJDtY) by [Eric Legault](https://twitter.com/elegault) (Eric Legault Consulting) | @elegault 
 * [Using Mockaroo Independent Publisher Connectors to automatically generate sample data](https://www.youtube.com/watch?v=nRhEgTwJDtY) by  [Richard A. Wilson](https://twitter.com/PowerAppsRAW) (Microsoft) | @PowerAppsRAW 
 * [List formatting magic – neomorphic design for polished UX](https://www.youtube.com/watch?v=8Nboe31bmB4) by [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 * [Introduction to Microsoft Teams Toolkit](https://www.youtube.com/watch?v=z8-cMEz350E) by [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev
-* 
 * [Latest on eDiscovery Premium APIs on Microsoft Graph](https://www.youtube.com/watch?v=OJr48y8kIio) by [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | BrianTJacket and Cameron Parker (Microsoft)
 * [Understand Azure AD extensions and their role in Application integration – September 2022](https://www.youtube.com/watch?v=z-7kpn_R_JE)
 * [Introduction to Microsoft Graph X-Ray project](https://www.youtube.com/watch?v=6_aywwBWgr8) by  [Merill Fernando](https://twitter.com/merill) (Microsoft) | @merill
@@ -481,7 +567,7 @@ Here are the new Microsoft demo or guidance videos released since the last month
 
 
 
-## Key contributors to the September 2022 update
+## Key contributors to the September and October 2022 update
 
 Here’s the list of active contributors (in alphabetical order) since last release details in GitHub repositories or community channels. PnP is really about building tooling and knowledge together with the community for the community, so your contributions are highly valued across the Microsoft 365 customers, partners and obviously also at Microsoft.
 
@@ -497,7 +583,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 *   Alex Grover | groveale
 *   x[Ali Robertson](@https://twitter.comalirobe) |@alirobe
-*   x[Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
+*   [Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
 *   Anders Roos | AndersSahlin
 *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 *   [Andreas Markussen](https://twitter.com/andreasm_dk) | @andreasm_dk
