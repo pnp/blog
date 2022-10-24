@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Platform Community (PnP) - September 2022 update
+title: Microsoft 365 Platform Community (PnP) - September and October 2022 update
 date: 2022-09-27T08:30:55.909Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
@@ -20,7 +20,7 @@ type: regular
 draft: true
 ---
 
-Microsoft 365 Platform Community (PnP) September 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success.
+Microsoft 365 Platform Community (PnP) September and October 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. This article is a summary of all the different areas and topics around the community work we do around Microsoft 365 ecosystem during the past month. Thank you for being part of this success.
 
 _We are committed on building the best tech community in the world where everyone feels welcome and we help to empower each and every community member to achieve more._
 
@@ -46,6 +46,23 @@ The initiative is facilitated by Microsoft, but we have multiple community membe
 
 Here are the latest blog posts and announcements around Microsoft 365 development topics from [https://developer.microsoft.com/microsoft-365/blogs](https://developer.microsoft.com/microsoft-365/blogs)
 
+* 19th of October - [Ignite 2022: Highlights for Microsoft Teams app builders](https://devblogs.microsoft.com/microsoft365dev/ignite-2022-highlights-for-microsoft-teams-app-builders/) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia
+* 19th of October - [5 ways to boost your collaborative app development](https://devblogs.microsoft.com/microsoft365dev/5-ways-to-boost-your-collaborative-app-development/) by Daniel Carrasco
+* 19th of October - [Removal of SPHome APIs from SharePoint Online](https://devblogs.microsoft.com/microsoft365dev/removal-of-sphome-apis-from-sharepoint-online/) by SharePoint team
+* 18th of October -[Prevent throttling in your application by using RateLimit headers in SharePoint Online](https://devblogs.microsoft.com/microsoft365dev/prevent-throttling-in-your-application-by-using-ratelimit-headers-in-sharepoint-online/) by SharePoint team
+* 17th of October - [Join the 30 Days of Microsoft Graph Challenge](https://devblogs.microsoft.com/microsoft365dev/announcement-30-days-of-microsoft-graph-challenge/) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs 
+* 12th of October - [Ignite 2022: Transforming collaboration with low and pro code dev tools](https://devblogs.microsoft.com/microsoft365dev/ignite-2022-transforming-collaboration-with-low-and-pro-code-dev-tools/) by [Ben Summers](https://twitter.com/bensum365) (Microsoft) | @bensum365
+* 12th of October - [Want to embed Microsoft Teams in your app? Here’s how](https://devblogs.microsoft.com/microsoft365dev/) by omas Chladek (Microsoft) and Daniel Carrasco (Microsoft)
+* 12th of October - [Scale access to Microsoft 365 data with Microsoft Graph Data Connect](https://devblogs.microsoft.com/microsoft365dev/scale-access-to-microsof5-data-with-microsoft-graph-data-connect/) by Philip Li (Microsoft)
+* 12th of October - [App Compliance Automation Tool for Microsoft 365 launching in public preview](https://devblogs.microsoft.com/microsoft365dev/app-compliance-automation-tool-for-microsoft-365-launching-in-public-preview/) by Sreekanth Thirthala Venkata (Microsoft)
+* 12th of October - [Announcing updates to Microsoft Teams API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/announcing-updates-to-microsoft-teams-api-in-microsoft-graph/) by Nick Kramer (Microsoft)
+* 12th of October - [What’s new for Office Add-ins at Ignite 2022](https://devblogs.microsoft.com/microsoft365dev/whats-new-for-office-add-ins-at-ignite-2022/) by Office add-ins team
+* 12th of October - [Announcing updates to the Planner API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/announcing-updates-to-the-planner-api-in-microsoft-graph/) by Brijesh Bharadwaj (Microsoft), Andrew Friedman (Microsoft) and Tarkan Sevilmis (Microsoft)
+* 11th of October - [Raise the bar for your app: Get Microsoft 365 Certified](https://devblogs.microsoft.com/microsoft365dev/raise-the-bar-for-your-app-get-microsoft-365-certified/) by Krishna Mawani (Microsoft)
+* 10th of October - [Beginners’ crash course to build apps for Teams using Teams Toolkit for Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/beginners-crash-course-to-build-apps-for-teams-using-teams-toolkit-for-visual-studio-code/) by by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia and Zhidi Shang (Microsoft)
+* 7th of October - [Join us at Microsoft Teams App Camp on October 20, 2022](https://devblogs.microsoft.com/microsoft365dev/join-us-at-microsoft-teams-app-camp-on-october-20-2022/) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* 4th of October - [Link unfurling public preview in Outlook](https://devblogs.microsoft.com/microsoft365dev/link-unfurling-public-preview-in-outlook/) by Namrata Khubchandani (Microsoft)
+*  29th of September - [Microsoft Teams apps coming in preview to Office and Outlook apps on Android](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-apps-coming-in-preview-to-office-and-outlook-apps-on-android/) by [Sanjay Joshi](https://twitter.com/sanjoshi) (Microsoft) | @sanjoshi
 * 27th of September - [Build a stock update notification bot for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/build-a-stock-update-notification-bot-for-microsoft-teams-using-teams-toolkit-for-visual-studio-code/) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * 14th of September - [Priority Matrix improves user activation through Universal Actions for Adaptive Cards](https://devblogs.microsoft.com/microsoft365dev/priority-matrix-improves-user-activation-through-universal-actions-for-adaptive-cards/) by [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) | @fabianwilliams
 * 8th of September - [Start your journey to becoming a Microsoft 365 developer](https://devblogs.microsoft.com/microsoft365dev/start-your-journey-to-becoming-a-microsoft-365-developer/) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
