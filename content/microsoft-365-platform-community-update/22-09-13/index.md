@@ -122,13 +122,18 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Dev podcast is back. Soon new episodes to be published
 
+* 17th of October - [Viva Connections with Anoop Tatti](https://www.m365devpodcast.com/e/viva-connections-with-anoop-tatti/)
+* 26th of September - [Building OfficeAtWork with Martin Seifert](https://www.m365devpodcast.com/e/building-officeatwork-with-martin-seifert/)
+* 22nd of September - [SPFx releases and features with Alex Terentiev](https://www.m365devpodcast.com/e/spfx-releases-and-features-with-alex-terentiev/)
 * 1st of August - [TeamsJS SDK Update with Alicia Lu](https://www.m365devpodcast.com/e/teamsjs-sdk-update-with-alicia-liu/)
 
 ### Microsoft 365 PnP Weekly Podcasts and vlogs
 
 PnP Weekly is a recurrent podcast with visitors where Vesa and Waldek talk about the latest news and announcements in Microsoft 365 and SharePoint areas.
 
-
+* 17th of October - [Microsoft 365 PnP Weekly - Episode 183 - Paolo Pialorsi](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-183/)
+* 10th of October - [Microsoft 365 PnP Weekly - Episode 182 - Martin Lingstuyl](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-182/)
+* 3rd of October - [Microsoft 365 PnP Weekly - Episode 181 - Bert Jansen](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-181/)
 * 27th of September - [Microsoft 365 PnP Weekly – Episode 180 – Chirag Patel](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-180/)
 * 19th of September - [Microsoft 365 PnP Weekly - Episode 179 - Alexander Meijers](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-179/)
 * 12th of September - [Microsoft 365 PnP Weekly - Episode 178 - Paul Hunt](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-178/)
