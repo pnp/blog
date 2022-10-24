@@ -116,7 +116,7 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 ## Upcoming events
 
-Please take the opportuntiy to join these great conferences organized by the best community in tech across the world. There are online and in-person options.
+Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options.
 
 * [Power of the Cloud](https://powerofthecloud.net/) - October 21, Toronto, Canada
 * [M365 Friday Cincinnati](https://www.communitydays.org/event/2022-10-21/m365-friday-cincinnati) - October 21, Online
