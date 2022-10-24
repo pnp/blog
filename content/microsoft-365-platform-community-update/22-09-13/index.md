@@ -76,7 +76,13 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pp/community/blog)
 
-
+* 19th of October - [How to use React hooks with the SharePoint Framework (SPFx)](https://pnp.github.io/blog/post/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* 8th of October - [Star rating control in Adaptive Cards](https://pnp.github.io/blog/post/star-rating-control-adaptive-cards/) by [TomaszPoszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek 
+* 8th of October - [How to get notifications on PnP samples shared on GitHub](https://pnp.github.io/blog/post/using-power-automate-sample-notifications/) by [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
+* 5th of October - [Series: How to build Power Apps that don't look like Power Apps - auto-height textinput - Material Design part 3](https://pnp.github.io/blog/post/how-to-build-an-auto-height-textinput-component-for-power-apps.md/) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
+* 30th of September - [Build a vacation tracker app with Lists and SharePoint for Teams](https://pnp.github.io/blog/post/build-a-vacation-tracker-app-with-lists-and-sharepoint-for-teams/) by [Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
+* 19th of September - [How to register SPFx field customizers with the SharePoint REST API](https://pnp.github.io/blog/post/sharepoint-framework-register-field-customizers-rest-api/) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* 16th of September - [How Manage Azure SQL server Firewall using Power Platform](https://pnp.github.io/blog/post/manage-azure-sql-server-firewall-from-power-platform/) by by Duvan Baena | DuvanBaena ) 
 * 14th of September - [Unboxing the SharePoint Framework (SPFx) v1.15.2 release](https://pnp.github.io/blog/post/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * 13th of September - [How to generate an HTML table with the output of a SQL Server query and send it from Outlook by using Power Platform](https://pnp.github.io/blog/post/how-to-generate-an-html-table-with-sql-server-query-and-send-from-outlook-with-using-power-platform/) by Duvan Baena | DuvanBaena 
 * 11th of September - [CLI for Microsoft 365 - how cool is that? - Configuring settings](https://pnp.github.io/blog/post/cli-how-cool-is-that-config-settings/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam258587
@@ -89,6 +95,15 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 ### Community call recording blog posts
 
+* 20th of October - [Viva Connections & SharePoint Framework Community Call – 20th of October, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-10-20/)
+* 19th of October  [Power Platform Community Call – October 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-october-2022/)
+* 18th of October - [Microsoft 365 Platform Community Call - 18th of October, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-10-18/)
+* 14th of October - [Adaptive Cards community call – October 2022](https://pnp.github.io/blog/adaptive-cards-community-call/adaptive-cards-community-call-october-2022/)
+* 13th of October - [Microsoft 365 & Power Platform Development Community call - 13th of October, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-10-13/) 
+* 11th of October - [Microsoft 365 Platform Community Call - 11th of October, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-10-11/)
+* 6th of October - [Viva Connections & SharePoint Framework Community Call – 6th of October, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-10-06/)
+* 4th of October - [Microsoft 365 Platform Community Call - 4th of October, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-10-04/)
+* 27th of September [Microsoft 365 & Power Platform Development Community call - 29th of September, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-09-29/)
 * 27th of September - [Microsoft 365 Platform Community Call - 27th of September, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-09-27/) 
 * 22nd of September - [Viva Connections & SharePoint Framework Community Call – 22nd of September, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-09-22/)  
 * 21st of September - [Power Platform Community Call – September 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-september-2022/)
@@ -514,7 +529,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 *   Alex Grover | groveale
 *   x[Ali Robertson](@https://twitter.comalirobe) |@alirobe
-*   x[Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
+*   [Anand Vragav](https://twitter.com/anandVragav) | @anandVragav
 *   Anders Roos | AndersSahlin
 *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 *   [Andreas Markussen](https://twitter.com/andreasm_dk) | @andreasm_dk
