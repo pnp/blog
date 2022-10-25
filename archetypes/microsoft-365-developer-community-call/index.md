@@ -4,7 +4,7 @@ summary: "INSERT SUMMARY HERE"
 date: {{ .Date }}
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call"]
+categories: ["Microsoft 365 and Power Platform Development Community Call"]
 # Featured image
 # To use, add an image named `thumbnail.jpg/png` to your page's images folder. Make sure to replace the placeholder image
 images:
