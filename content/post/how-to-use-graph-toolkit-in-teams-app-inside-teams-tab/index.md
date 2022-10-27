@@ -78,7 +78,7 @@ Create a new page in a public folder as  `src\public\auth.html`. Copy below c
 <html>
     <head>
     <script src="https://unpkg.com/@microsoft/teams-js/dist/MicrosoftTeams.min.js" crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/@microsoft/mgt/dist/bundle/mgt-loader.js"></script>
+    <script src="https://unpkg.com/@microsoft/mgt@2/dist/bundle/mgt-loader.js"></script>
     </head>
     <body>
     <script>
@@ -326,7 +326,7 @@ In your `auth.html`, there would be below code
 <html>
     <head>
     <script src="https://unpkg.com/@microsoft/teams-js/dist/MicrosoftTeams.min.js" crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/@microsoft/mgt/dist/bundle/mgt-loader.js"></script>
+    <script src="https://unpkg.com/@microsoft/mgt@2/dist/bundle/mgt-loader.js"></script>
     </head>
     <body>
     <script>

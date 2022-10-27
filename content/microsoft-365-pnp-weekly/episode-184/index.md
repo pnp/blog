@@ -1,49 +1,51 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 184"
-summary: ".... joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on  and more. 14 articles/videos by Microsoft/Community are highlighted."
-date: 2022-10-25T02:00:01-00:00
+summary: "UK based Microsoft MVP and Power Platform Technical Architect Kristine Kolodziejski (Computacenter) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on being an MVP with a passion for UI/UX style and for community. 18 articles/videos by Microsoft/Community are highlighted."
+date: 2022-10-24T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-183-promo.png
+- images/pnp-weekly-184-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=PcLzMOvGorQ
-draft: true
+- https://www.youtube.com/watch?v=LlTnZVHF8bE
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Microsoft MVP and Power Platform Technical Architect - [Kristine Kolodziejski](https://twitter.com/@kristinekk94) (Computacenter) \| @kristinekk94.
 
 ## Topics discussed in this session
 
-* Item A
-* Item B
-* Item C
-* Item D
-* Item E
-* Item F
-* Item G
-* Item H
-* Item I
+* What’s changed for you since becoming an MVP on October 1st?
+* The great thing about being an MVP?
+* What is role of a technical architect for Power Platform?
+* What are your specialties and superpowers?
+* Explain the meaning behind the statement - Don’t judge an app by its UI.
+* Where are we today with out-of-box Canvas Apps UI?
+* How stay up to date on the latest trends? A few recommendations.
+    * Favourite UI/UX expert - [Michal Malewicz](https://www.youtube.com/c/MalewiczHype)
+    * UI inspiration – [Dribbble.com](https://dribbble.com/)
+    * CSS/HTML/JS inspiration – [CodePen](https://codepen.io/)
+    * Gary Simon – live streamer, website UI/UX and pro dev content judging/advisory – [DesignCourse](https://www.youtube.com/c/DesignCourse)
 
-Also, we showcased xx articles/videos published by Microsoft and the PnP Community in the last week.
+Also, we showcased 18 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
-* **Waldek** – reviewing Hacktoberfest PRs, ideating program to expose non-Microsoft 365 developers to Microsoft Graph without forcing developers to spend days learning Auth.
-* **Vesa** – meetings, SPFx v1.16 beta release this week, recording Viva videos, and random assignments.
+* **Waldek** – hacked an app that will be demoed during the Nov 1st Platform call, planning meetings, create more Microsoft Graph learning content, and closing in on next release of CLI for Microsoft 365 that includes a number of PRs from Hactoberfest.
+* **Vesa** – SPFx v1.16 beta release on Tuesday (proper Microsoft Teams JavaScript SDK v2 integration), learning videos and a ka jillion other things!
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, October 17, 2022.
+This session was recorded on Monday, October 24, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube PcLzMOvGorQ >}}
+    {{< youtube LlTnZVHF8bE >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-xzpj6-12ee995 >}}   
+    {{< podbean pb-brv6e-12f7bd6 >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -57,20 +59,12 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Removal of SPHome APIs from SharePoint Online](https://devblogs.microsoft.com/microsoft365dev/removal-of-sphome-apis-from-sharepoint-online/) - Microsoft
 * [5 ways to boost your collaborative app development](https://devblogs.microsoft.com/microsoft365dev/5-ways-to-boost-your-collaborative-app-development/) - [Daniel Carrasco](https://twitter.com/danielserver) (Microsoft) | @danielserver
 * [Ignite 2022: Highlights for Microsoft Teams app builders](https://devblogs.microsoft.com/microsoft365dev/ignite-2022-highlights-for-microsoft-teams-app-builders/) - [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia
-* [Connect with other makers in your organization via maker matching, now in public preview!](https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-maker-matching-in-power-apps/) - Zankar Desai (Microsoft)
-* [10 New Independent Publisher Connectors in September 2022](https://powerautomate.microsoft.com/en-us/blog/10-new-independent-publisher-connectors-in-september-2022/) - Amjed Ayoub (Microsoft)
-* ---
-* [Microsoft Ignite 2022 - Book of News](https://news.microsoft.com/ignite-2022-book-of-news/) - Microsoft
-* [Microsoft 365 at Ignite—Re-energize your workforce in the office, at home, and everywhere in between](https://www.microsoft.com/microsoft-365/blog/2022/10/12/microsoft-365-at-ignite-re-energize-your-workforce-in-the-office-at-home-and-everywhere-in-between/) - [Jared Spataro](https://twitter.com/jared_spataro) (Microsoft) | @jared_spataro
-* [Welcome to Microsoft Syntex—Content AI integrated in the flow of work](https://www.microsoft.com/microsoft-365/blog/2022/10/12/welcome-to-microsoft-syntexcontent-ai-integrated-in-the-flow-of-work/) - [Seth Patton](https://twitter.com/SethPat) (Microsoft) | @SethPat
-* [Microsoft Teams blog - Ignite 2022 announcements](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog) - Microsoft
-* [Microsoft Viva blog - Ignite 2022 announcements](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/bg-p/MicrosoftVivaBlog) - Microsoft
-* [Microsoft 365 Developer blog - ignite 2022 announcements](https://devblogs.microsoft.com/microsoft365dev/) - Microsoft
-* [Ignite 2022: Transforming collaboration with low and pro code dev tools](https://devblogs.microsoft.com/microsoft365dev/ignite-2022-transforming-collaboration-with-low-and-pro-code-dev-tools/) - [Ben Summers](https://twitter.com/bensum365) (Microsoft) | @bensum365
+* [Connect with other makers in your organization via maker matching, now in public preview!](https://powerapps.microsoft.com/blog/announcing-public-preview-of-maker-matching-in-power-apps/) - Zankar Desai (Microsoft)
+* [10 New Independent Publisher Connectors in September 2022](https://powerautomate.microsoft.com/blog/10-new-independent-publisher-connectors-in-september-2022/) - Amjed Ayoub (Microsoft)
 
 ## Community articles
 
-* [How to use React hooks with the SharePoint Framework (SPFx)](https://pnp.github.io/blog/post/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [How to use React hooks with the SharePoint Framework (SPFx)](https://pnp.github.io/blog/post/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell   
 * [How to Show Upcoming Meetings for a Microsoft 365 User](https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Use Power Automate to Retrieve Data from an Azure Function for Reporting](https://blog.codewithdan.com/use-power-automate-to-retrieve-data-from-an-azure-function-for-reporting/) - [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [New! Format data by examples in Power Automate](https://sharepains.com/2022/10/21/new-format-data-by-examples-in-power-automate/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
@@ -94,7 +88,7 @@ Here are the most upcoming events from the centralized [Community Days site](htt
 * [Tech Summit Nigeria 2022](https://www.techsummitnigeria.com/) - November 9-10, Lgos, Nigeria
 * [M365 Chicago](https://m365chicago.com/) - November 11-12, Online
 * [Viva Explorers Community Day - UK](https://www.vivaexplorers.com/) - November 12, Manchester, United Kingdom
-* [aMS Germany Microsoft Community Event 2022](https://www.bechtle.com/de-en/about-bechtle/events/amsgermany) - November 11-15, Aachen, Germany
+* [aMS Germany Microsoft Community Event 2022](https://www.bechtle.com/about-bechtle/events/amsgermany) - November 11-15, Aachen, Germany
 
 
 ## Additional resources
