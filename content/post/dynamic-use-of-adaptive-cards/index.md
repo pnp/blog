@@ -19,7 +19,7 @@ type: "regular"
 draft: true
 ---
 
-## What are Adaptive cards?
+## What are Adaptive Cards?
 
 Adaptive cards is the name for the pop-up you can get in Teams, with custom content asking you to confirm something, or to submit a remark.
 
@@ -33,15 +33,16 @@ This ID Element is important so you can recognize your data later on in the PARS
 3. Once designed you can copy the code from the lower left corner Card Payload Editor into a text editor (to save for later/backup), or paste directly in your Flow. 
 
 The new Cards Preview function offers the same functionality, however while I find the UI easier to use, the technical coding backend to it doesn't give you an error when you don't specify the ID.
-Your flow run will fail as it needs this parameter. (To bypass, I copy/paste the code from the Card Preview option, into the Card Payload Editor from Adaptivecards.IO and check for an error there.
+Your flow run will fail as it needs this parameter. (To bypass, I copy/paste the code from the Card Preview option, into the Card Payload Editor from Adaptive Cards.IO and check for an error there.
 
-##Power Automate
+## Power Automate
 
 4. Once you designed your card, insert it in your Power Automate Flow:
 5. Add a step, click on **Teams**, **Post an Adaptive Card and wait for a response**.
 6. Choose your channel or chat option, and in the body copy/paste the code from the designer or adaptive card in your adaptive card message body.
 
 Use cases for adaptive cards:
+
 * Approvals
 * Needing information through text output
 * Different choices of material, feedback or other choice options
