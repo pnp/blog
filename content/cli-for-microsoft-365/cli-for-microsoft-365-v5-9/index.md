@@ -135,6 +135,7 @@ A warm welcome to all our new contributors! (in alphabetical order):
 - [Karnail Singh Choudhary](https://github.com/nightfury-crypto)
 - [Nico De Cleyre](https://github.com/nicodecleyre)
 - [Priyanshu Ahlawat](https://github.com/PriyanshuAhlawat)
+- [Raghwendra Rishabh](https://github.com/Rishabhraghwendra18)
 - [Riccardo Solazzi](https://github.com/TheZal)
 - [Tanmay Rathi](https://github.com/Tanmay-21)
 - [Vividh Pandey](https://github.com/VividhPandey003)
