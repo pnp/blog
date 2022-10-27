@@ -30,7 +30,7 @@ Following our monthly release cadence, we've released a new version of the CLI f
 
 ### Get information about the Power Platform cards
 
-Just started playing around with the preview of Power Apps cards and you want to do some more automation? No worries, CLI for Microsoft 365 got you covered. We stay up to date with the latest tools and added news commands to fetch your Power Apps cards information.
+Just started playing around with the preview of Power Apps cards and you want to do some more automation? No worries, CLI for Microsoft 365 has got you covered. We stay up to date with the latest tools and added news commands to fetch your Power Apps cards information.
 
 Get a Power Platform card in a specific environment based on name.
 
@@ -46,7 +46,7 @@ m365 pp card list --environment "Default-d87a7535-dd31-4437-bfe1-95340acd55c5" -
 
 For more information, see the [pp card get](https://pnp.github.io/cli-microsoft365/cmd/pp/card/card-get/) and the [pp card list](https://pnp.github.io/cli-microsoft365/cmd/pp/card/card-list/) commands documentation.
 
-### Manage **MORE** SharePoint Online permissions
+### Improved managing permissions in SharePoint Online
 
 In our previous release we already introduced several new commands to permissions in SharePoint Online. We felt the need to add more, more and more permission commands. The new release allows you to easily manage file role assignments, file role inheritance, folder role assignments, folder role inheritance, and last but not least listitem role assignments.
 
@@ -84,6 +84,18 @@ Another improvement is the start of something great. We will be updating all our
 
 Many more improvements have been made. Check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#changes) to get more insight.
 
+### Sending attachments with outlook
+
+Another notable change is the update to the outlook mail send command. This allows you to add multiple attachments to the command. 
+
+Send an email with multiple attachments.
+
+```sh
+m365 outlook mail send --to chris@contoso.com --subject "Monthly reports" --bodyContents "Here are the reports of this month." --attachment "C:/Reports/File1.jpg" --attachment "C:/Reports/File2.docx" --attachment "C:/Reports/File3.xlsx"
+```
+
+For more information, see the [outlook mail send](https://pnp.github.io/cli-microsoft365/cmd/outlook/mail/mail-send/) command documentation.
+
 ### Hacktoberfest, what a success!
 
 Hacktoberfest was a great success! Thanks so much to all our active and new contributors for your hard work and to all the maintainers for creating so many good first issues. 
@@ -91,7 +103,7 @@ Hacktoberfest was a great success! Thanks so much to all our active and new cont
 ### What else
 
 These features are just the tip of the ice berg of what we've shipped in this version. The code base of the CLI for Microsoft 365 has received a huge update as well, making it easier for maintainers and contributors to create new functionality. And so many other fixes.
-Check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v580) for the complete list of what's new and improved.
+Check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v590) for the complete list of what's new and improved.
 
 ## Contributors
 
