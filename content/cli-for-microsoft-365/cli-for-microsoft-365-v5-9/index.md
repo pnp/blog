@@ -1,6 +1,6 @@
 ---
 title: CLI for Microsoft 365 v5.9
-date: 2022-10-31T22:00:00.000Z
+date: 2022-10-31T12:00:00.000Z
 author: Jasey Waegebaert
 githubname: Jwaegebaert
 categories:
@@ -30,7 +30,7 @@ Following our monthly release cadence, we've released a new version of the CLI f
 
 ### Get information about the Power Platform cards
 
-Just started playing around with the preview of Power Apps cards and you want to do some more automation? No worries, CLI for Microsoft 365 has got you covered. We stay up to date with the latest tools and added news commands to fetch your Power Apps cards information.
+Just started playing around with the preview of Power Apps cards and you want to do some more automation? No worries, CLI for Microsoft 365 has got you covered. We stay up to date with the latest tools and added new commands to fetch your Power Apps cards information.
 
 Get a Power Platform card in a specific environment based on name.
 
@@ -44,11 +44,11 @@ List the Power Platform cards in a specific environment as admin.
 m365 pp card list --environment "Default-d87a7535-dd31-4437-bfe1-95340acd55c5" --asAdmin
 ```
 
-For more information, see the [pp card get](https://pnp.github.io/cli-microsoft365/cmd/pp/card/card-get/) and the [pp card list](https://pnp.github.io/cli-microsoft365/cmd/pp/card/card-list/) commands documentation.
+For more information, see the [pp card get](https://pnp.github.io/cli-microsoft365/cmd/pp/card/card-get/) and the [pp card list](https://pnp.github.io/cli-microsoft365/cmd/pp/card/card-list/) command documentation.
 
-### Improved managing permissions in SharePoint Online
+### Improved permissions management in SharePoint Online
 
-In our previous release we already introduced several new commands to permissions in SharePoint Online. We felt the need to add more, more and more permission commands. The new release allows you to easily manage file role assignments, file role inheritance, folder role assignments, folder role inheritance, and last but not least listitem role assignments.
+In our previous release we already introduced several new commands to manage permissions in SharePoint Online. We weren't done yet, we still had some missing commands. The new release allows you to easily manage file role assignments, file role inheritance, folder role assignments, folder role inheritance, and last but not least listitem role assignments.
 
 Remove a role assignment by upn from a file by url.
 
@@ -72,21 +72,21 @@ For more information, see the [spo file roleassignment remove](https://pnp.githu
 
 ### Lots of improvements to the documentation
 
-This release also includes several improvements and new features to the CLI for Microsoft 365 documentation site. A whole of bunch of typos have been exterminated from existence, several headers have been correct to be more aligned with all the other headers and much more. Like mentioned, there are also a few new features added.
+This release also includes several improvements and new features to the CLI for Microsoft 365 documentation site. A whole of bunch of typos have been exterminated from existence, several headers have been corrected to be more aligned with all the other headers and much more. Like mentioned before, there are also a few new features added.
 
-Are all the samples a bit overwhelming and is a bit confusing to find the correct one for you? The samples have been updated with tags to make it much easier to find. A modification has been made on the introduction page to showcase all the available tags.
+Are all the samples a bit overwhelming and is a bit confusing to find the correct one for you? The samples have been updated with tags which make it much easier to find. A modification has been made on the [introduction page](https://pnp.github.io/cli-microsoft365/sample-scripts/) to showcase all the available tags.
 
 ![CLI for Microsoft 365 samples introduction](./images/samples.png)
 
-Another improvement is the start of something great. We will be updating all our command documentation to include the response output. A few commands have been updated to include the response but their is still a lot of work for all our other commands. This is where we need **your help**. We created a whole lot of issues to include the response output for several commands. If you feel like writing some documentation be sure to take a look at [issue #3754](https://github.com/pnp/cli-microsoft365/issues/3754).
+We also made an improvement which is the start of something great. We will be updating all our command documentation to include the response output. A few commands have been updated already with their response, but there is still a lot of work left to include this for all other commands. This is where we need **your help**. We created a whole lot of issues to include the response output for several commands. If you feel like writing some documentation be sure to take a look at this [response output epic issue](https://github.com/pnp/cli-microsoft365/issues/3754).
 
 ![CLI for Microsoft 365 output response](./images/response.png)
 
-Many more improvements have been made. Check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#changes) to get more insight.
+Of course we can not cover everything in this blog post, many more improvements have been made. Check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#changes) to get more insight.
 
 ### Sending attachments with outlook
 
-Another notable change is the update to the outlook mail send command. This allows you to add multiple attachments to the command. 
+Another notable change is the update to the `outlook mail send` command. You are now able to add attachments to your emails. 
 
 Send an email with multiple attachments.
 
@@ -98,7 +98,7 @@ For more information, see the [outlook mail send](https://pnp.github.io/cli-micr
 
 ### Hacktoberfest, what a success!
 
-Hacktoberfest was a great success! Thanks so much to all our active and new contributors for your hard work and to all the maintainers for creating so many good first issues. 
+Hacktoberfest was a great success! Thank you so much to all our active and new contributors for your hard work and to all the maintainers for creating so many good first issues. 
 
 ### What else
 
@@ -125,7 +125,7 @@ This release wouldn't be possible without the help of (in alphabetical order):
 
 ### New contributors
 
-A warm welcome to all our new contributors! (in alphabetical order):
+A warm welcome to this month's new contributors! (in alphabetical order):
 
 - [Conor O'Callaghan](https://github.com/Conor0Callaghan)
 - [Daniaal Nadir](https://github.com/daniaalnadir)
@@ -148,15 +148,19 @@ Here are some things that we're currently working on.
 
 ### Include response output in the docs
 
-We're actively working on improving our documentation and adding response output to all our commands. This is a lot of work because we have a ton of commands. A few commands are already done to show an example of what we are trying to do but we are definitely looking for contributors to help us. If you feel like writing some documentation be sure to take a look at [issue #3754](https://github.com/pnp/cli-microsoft365/issues/3754).
+We're actively working on improving our documentation and adding response output to all our commands. This is a lot of work because we have a ton of commands. A few commands are already done to show an example of what we are trying to do but we are definitely looking for contributors to help us. If you feel like writing some documentation be sure to take a look at this [response output epic issue](https://github.com/pnp/cli-microsoft365/issues/3754).
 
 ### New Teams commands to work with meetings
 
 We're working on a series of new commands to allow you to work with teams meetings. There's a lot of work to be done here, so if you like to join in, you're very welcome to checkout our [Teams meetings epic issue](https://github.com/pnp/cli-microsoft365/issues/3788). 
 
+### More Power Platform commands in the making
+
+We're working on a series of new commands that will help manage Power Platform solutions, Dataverse, Power Platform settings, etc. There's a lot of work to be done here, so if you like to join in, you're very welcome to checkout our [Power Platform epic issue](https://github.com/pnp/cli-microsoft365/issues/3670). 
+
 ### Discussions 
 
-CLI for Microsoft 365 is constantly growing and evolving. We're always looking for ways to improve. There are still many areas not covered by the CLI as well as many amazing ideas for unique features the tool might provide. Currently we are considering adding support with commands which will allow you to manage file versioning or document sets in SharePoint Online. Your feedback will help us make the right decisions in which areas we should focus on. If you want to help out please do join the currently open [discussions](https://github.com/pnp/cli-microsoft365/discussions)
+CLI for Microsoft 365 is constantly growing and evolving. We're always looking for ways to improve. There are still many areas not covered by the CLI as well as many amazing ideas for unique features the tool might provide. Your feedback will help us make the right decisions in which areas we should focus on. If you want to help out please do join the currently open [discussions](https://github.com/pnp/cli-microsoft365/discussions)
 
 What else could we simplify? Let us know what you think by helping out with one of our [open issues](https://github.com/pnp/cli-microsoft365/issues) or chime in on our [discussions](https://github.com/pnp/cli-microsoft365/discussions)!
 
@@ -174,4 +178,4 @@ Alternatively, you can get the latest release from Docker by executing:
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
 
-If you need more help getting started or want more details about the commands, architecture, or project, go to [aka.ms/cli-m365](https://aka.ms/cli-m365). And if you see any room for improvement, please, don't hesitate to reach out to us either on [GitHub](https://github.com/pnp/cli-microsoft365/discussions), [Discord](https://discord.com/invite/7rfW4kg6B5), or [Twitter](https://twitter.com/climicrosoft365).
+If you need more help getting started or want more details about the commands, architecture, or project, go to [aka.ms/cli-m365](https://aka.ms/cli-m365). If you see any room for improvement, please, don't hesitate to reach out to us either on [GitHub](https://github.com/pnp/cli-microsoft365/discussions), [Discord](https://discord.com/invite/7rfW4kg6B5), or [Twitter](https://twitter.com/climicrosoft365).
