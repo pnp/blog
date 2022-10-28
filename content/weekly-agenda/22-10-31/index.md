@@ -9,10 +9,12 @@ images:
   - images/weeklyagenda44.png
 tags: []
 type: trending
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
+
+**Notice -** this week the times of the calls might be a bit different due the summer time differences across the areas. If you download the recurrent meeting, times are assigned properly. As an example - the calls are one hour earlier this week for most of the Europe, as time adjustment for Europe happens one week later.
 
 ## Community Calls
 
