@@ -1,6 +1,6 @@
 ---
 title: CLI for Microsoft 365 v5.9
-date: 2022-10-31T12:00:00.000Z
+date: 2022-10-31T06:00:00.000Z
 author: Jasey Waegebaert
 githubname: Jwaegebaert
 categories:
