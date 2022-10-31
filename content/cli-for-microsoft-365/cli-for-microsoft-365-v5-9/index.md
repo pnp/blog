@@ -146,6 +146,12 @@ Thank you all for the time you chose to spend on CLI for Microsoft 365 and for y
 
 Here are some things that we're currently working on.
 
+### CLI for Microsoft 365 v6
+
+For the last few months we've been working on a new major version of CLI for Microsoft 365 – v6. This new major version will introduce several breaking changes. A few commands have been merged with their similar command to make the usage much easier. A lot of option names have been changed to be consistent and make it easier for you to use the CLI for Microsoft 365.
+
+We are expecting to release CLI for Microsoft 365 v6 by the end of November 2022. Once the release of v6 is complete, we'll publish an upgrade guidance to help you determine the impact of the upgrade on your work.
+
 ### Include response output in the docs
 
 We're actively working on improving our documentation and adding response output to all our commands. This is a lot of work because we have a ton of commands. A few commands are already done to show an example of what we are trying to do but we are definitely looking for contributors to help us. If you feel like writing some documentation be sure to take a look at this [response output epic issue](https://github.com/pnp/cli-microsoft365/issues/3754).
