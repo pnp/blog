@@ -14,7 +14,7 @@ draft: false
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
 
-**Notice -** this week the times of the calls might be a bit different due the summer time differences across the areas. If you download the recurrent meeting, times are assigned properly. As an example - the calls are one hour earlier this week for most of the Europe, as time adjustment for Europe happens one week later.
+**Notice -** this week the times of the calls might be a bit different due the summer time differences across the areas. If you download the recurrent meeting, times are assigned properly. As an example - the calls are one hour earlier this week for most of the Europe, as the winter time adjustment for US happens one week later.
 
 ## Community Calls
 
@@ -24,7 +24,7 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 ### Microsoft 365 platform call - 1st of November
 
-* Tuesday, 1st of November 2022, 8:00 AM PT / 4:00 PM GMT
+* Tuesday, 1st of November 2022, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
 
@@ -39,14 +39,14 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ### Viva Connections & SharePoint Framework Community Call - 3rd of November
 
-* Thursday, 3rd of November, 2022, 7:00 AM PT / 3:00 PM GMT
+* Thursday, 3rd of November, 2022, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-developer-community-call/)
 
 Demos: 
 
-* [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @Sharepointalex – Adaptive Cards samples for Viva Connections
 * [Julie Turner](https://twitter.com/jfj1997)(Sympraxis Consulting) | @Jfj1997 – Getting started with PnPjs in SPFx solutions
+* [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys) | @paolopia – Building ISV offering for Microsoft Viva with SPFx ACEs and multi-tenant API
 
 Also: 📷 Picture Time with community in Together Mode!
 
