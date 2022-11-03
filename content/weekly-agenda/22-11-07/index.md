@@ -1,15 +1,15 @@
 ---
-title: Weekly Agenda - 31st of October 2022 week
-date: 2022-10-28T15:07:04.917Z
+title: Weekly Agenda - 7th of November 2022 week
+date: 2022-11-04T11:11:00.211Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda44.png
+  - images/weeklyagenda45.png
 tags: []
-type: regular
-draft: false
+type: trending
+draft: true
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -22,35 +22,44 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 ---
 
-### Microsoft 365 platform call - 1st of November
+### Microsoft 365 platform call - 8th of November
 
-* Tuesday, 1st of November 2022, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 8th of November 2022, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
 
 Demos: 
 
-* [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh – Getting started with styling your Power Pages
-* [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @dcpadur – Introduction to new SharePoint Pages Microsoft Graph API
-* [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm – Find meeting times for multiple people on Microsoft 365
+* [Bert Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert– Avoid throttling in SharePoint Online by using RateLimit headers in API calls
+* [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder – Build your first Workflow bot for Microsoft Teams with Teams Toolkit for Visual Studio Code
 
 Also: 📷 Picture Time with community in Together Mode!
 
+### Microsoft Office Add-ins developer community call - 9th of November
 
-### Viva Connections & SharePoint Framework Community Call - 3rd of November
+* Wednesday, 9th of November, 2022, 8:00 AM PT / 3:00 PM GMT
+* Download the [recurring invite](https://aka.ms/officeaddinscommunitycall) - we'd love to see you in the call!
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Office Add-ins developer community call](https://pnp.github.io/blog/categories/office-add-in-developer-community-call/)
 
-* Thursday, 3rd of November, 2022, 7:00 AM PT / 2:00 PM GMT
+
+### Microsoft 365 & Power Platform Development Community call - 10th of November
+
+* Thursday, 10th of November, 2022, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-developer-community-call/)
 
 Demos: 
 
-* [Julie Turner](https://twitter.com/jfj1997)(Sympraxis Consulting) | @Jfj1997 – Getting started with PnPjs in SPFx solutions
-* [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys) | @paolopia – Building ISV offering for Microsoft Viva with SPFx ACEs and multi-tenant API
+* [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells - Using Microsoft Syntex Bulk Content Assembly to automatically generate documents
+* [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskwitz and [Manuala Pichler](https://twitter.com/ManuelaPichler) (Microsoft) | @ManuelaPichler_ - Power Platform Communication Site Template
 
 Also: 📷 Picture Time with community in Together Mode!
 
-**Interested on doing a demo here?** - [Let us know](https://aka.ms/m365pnp/request/demo) and we'll get you scheduled!
+### Adaptive Cards community call
+
+* Thursday, 10th of November, 2022, 9:00 AM PT / 5:00 PM GMT
+* Download the [recurring invite](https://aka.ms/adaptivecardscommunitycall) - we'd love to see you in the call!
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Adaptive Cards community call](https://pnp.github.io/blog/categories/adaptive-cards-community-call/)
 
 ---
 
@@ -60,20 +69,11 @@ Update of the newly created videos in our two YouTube channels which are the [Mi
 
 ### Microsoft 365 Community Channel
 
-* [Getting started on building SPFx solutions with reusable open-source controls](https://www.youtube.com/watch?v=4zGVtHgqxcY) by [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
-* [Building a Help Desk Adaptive Card Extension for Microsoft Viva](https://www.youtube.com/watch?v=ZWxfbrVQtK4) by [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
-* [Maturity Model for Microsoft 365 - October 2022](https://www.youtube.com/watch?v=nsfgxd2TP9Q) by [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc, [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini, [Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy, [Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @Simonjhudson, and [Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
-* [Build your first Notification bot for Microsoft Teams with Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=bwyd46tVzQo) by [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder
-* [Introduction to Site Templates in SharePoint Online](https://www.youtube.com/watch?v=88bAFBfSm0o) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1
-* [Latest status and the next investment areas for SharePoint Framework](https://www.youtube.com/watch?v=PKN0lYJHzWE) by [Alex Terentiev](https://twitter.com/alexaterentiev) | @Alexaterentiev and [Vesa Juvonen](https://twitter.com/vesajuvonen) | @Vesajuvonen
-* [Account Linking for Microsoft Teams apps](https://www.youtube.com/watch?v=UvC8Tsqcw7U) by [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German and Aditya Challapally (Microsoft)
-
-### Microsoft 365 Developer Channel
-
-* [Reuse your application to reach more users in Microsoft Teams](https://www.youtube.com/watch?v=ApnVL2H4qdU) - Microsoft
-* [Benefits of having your app in Microsoft Teams](https://www.youtube.com/watch?v=6fGaOz4obdk) - Microsoft
-* [Opportunity to build and grow on Microsoft Teams](https://www.youtube.com/watch?v=TFxTQy-3rmA) - Microsoft
-* [Monetize your apps in Microsoft Teams](https://www.youtube.com/watch?v=2H0CFdMT3_Y) - Microsoft
+* [Building Windows 11 Widgets with Adaptive Cards](https://www.youtube.com/watch?v=7ZB_3TeC-_s) by [J.P.Roca](http://twitter.com/jpthepm) (Microsoft) | @JPthePM
+* [Power Automate and Microsoft Teams approvals advanced scenarios](https://www.youtube.com/watch?v=bFEqxMRnSVo) by [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
+* [Latest branding capabilities for modern SharePoint sites](https://www.youtube.com/watch?v=4YImHhGmJJ4) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1
+* [Build your first Command bot for Microsoft Teams with Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=3skgtkJ1McQ) by [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder
+* [How to build a good vibes generator bot for Microsoft Teams](https://www.youtube.com/watch?v=ex76o2E_WfI) by Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese and [Lee Ford](https://twitter.com/lee_ford) ( Symity) | @Lee\_Ford
 
 ---
 
@@ -81,9 +81,9 @@ Update of the newly created videos in our two YouTube channels which are the [Mi
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Updated preview of the SharePoint Framework 1.16](https://devblogs.microsoft.com/microsoft365dev/updated-preview-of-the-sharepoint-framework-1-16/)
-* [Roll A Dice! Building a command bot for Microsoft Teams using Teams Toolkit with Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/roll-a-dice-building-a-command-bot-for-microsoft-teams-using-teams-toolkit-with-visual-studio-code/) by [Tomomi Imura](https://twitter.com/girlie_mac) (Microsoft) | @Girlie\_mac
-* [Microsoft 365 Developer Program instant sandbox update](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-program-instant-sandbox-update/)
+* [Customizing F5 debugging in Teams Toolkit for Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/customizing-f5-debugging-in-teams-toolkit-for-visual-studio-code/) by [Tomomi Imura](https://twitter.com/girlie_mac) (Microsoft) | @Girlie\_mac
+* [Announcing SharePoint Framework 1.16 release candidate](https://devblogs.microsoft.com/microsoft365dev/updated-preview-of-the-sharepoint-framework-1-16/)
+* [Announcing the new SharePoint Pages API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/announcing-the-new-sharepoint-pages-api-in-microsoft-graph/)
 
 ---
 
@@ -91,9 +91,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft 365 & Power Platform Development Community call - 27th of October, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-10-27/)
-* [Microsoft 365 Platform Community Call - 25th of October, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-10-25/)
-* [Viva Connections & SharePoint Framework Community Call – 20th of October, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-10-20/)
+* [Microsoft 365 Platform Community Call - 1st of November, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-11-01/)
 
 ---
 
@@ -116,9 +114,6 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options.
 
-* [Global AI Developer Day](https://globalai.community/developer-days/north-america-thetechplatform-5574/) - November 2, New York, USA
-* [Microsoft Community Days Mexico City 2022](https://mscloudevents.com/) - November 3-4, Mexico City, Mexico
-* [Microsoft 365 / Dynamics 365 Ottawa Event](https://m365ottawa.com/) - November 4, Ottawa, Canada
 * [M365 Change Management Forum](https://www.communitydays.org/event/2022-11-07/m365-change-management-forum#Home) - November 7, Online
 * [DYNUG Autum Conference](https://dynug.no/arrangementer/dynug-hostkonferanse-2/) - November 8-9, Oslo, Norway
 * [Tech Summit Nigeria 2022](https://www.techsummitnigeria.com/) - November 9-10, Lgos, Nigeria
