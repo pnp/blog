@@ -2,7 +2,7 @@
 title: "M365 Development Security - From full trust to ZeroTrust"
 date: 2022-07-09T10:55:12.185Z
 author: "Markus Moeller"
-githubname: mmsharepoint
+githubname: msharepoint
 categories: ["Community post"]
 images:
 - images/SecurityLock.jpg
@@ -57,6 +57,7 @@ You can further [secure your backend function either server-side](https://mmshar
 
 Client-side makes sense to disable or hide functionality in the UI immediately while server-side of course is the more secure one as the API cannot be called by any client without an appropriate user. 
 
+<a name="avoid-app-permissions"></a>
 ## Avoid app permissions
 
 To be precisely and clear: Always prefer to use delegated access and delegated permissions. App permissions always are applied non-resource specific. This means what you can do with one site you can do with every site. No user specific access to specific resources is possible that way. In the past there was the option to authenticate with ACS site-scoped which is not recommended anymore. For instance this is not centrally managed in Azure AD where you could apply conditional access policies as an example from a typical ZeroTrust scenario. A new option is the so called [resource specific consent (RSC)](https://mmsharepoint.wordpress.com/2021/08/18/accessing-sharepoint-sites-with-resource-specific-consent-rsc-and-microsoft-graph/). This is not SharePoint specific as for instance it also works with Teams. 
@@ -65,7 +66,7 @@ This is a big advantage over the old site-scoped ACS approach. One disadvantage 
 
 ### Domain Isolated
 
-Of course there is another option to prevent granting permissions too broad. You could make use of [domain isolated web parts](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/isolated-web-parts). But honestly I’ve never seen a really good enterprise implementation nor have I met an expert actively promoting this. Furthermore, as you can guess from above's Azure AD screenshot, it also works in combination with a public enterprise application. A potential showstopper in ZeroTrust environments as we have seen, already ...
+Of course there is another option to prevent granting permissions too broad. You could make use of [domain isolated web parts](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/isolated-web-parts?WT.mc_id=M365-MVP-5004617). But honestly I’ve never seen a really good enterprise implementation nor have I met an expert actively promoting this. Furthermore, as you can guess from above's Azure AD screenshot, it also works in combination with a public enterprise application. A potential showstopper in ZeroTrust environments as we have seen, already ...
 
 ## Managed Identities
 
@@ -78,6 +79,12 @@ Dealing with sensitive information of course always is a potential security risk
 Nevertheless there is one disadvantage in managed identities. In combination with Microsoft Graph or SharePoint permissions it only works with app permissions. Although I already implemented a delegated sample working in AzureAutomation I couldn’t reproduce this as an Azure function and I’m quite sure this is not yet supported. So my wish would be this becomes a valid scenario in the near future:
 
 Managed Identity—>Member of AD security group—>Granted access to Graph or SharePoint resource—>Access Token with delegated permissions works 
+
+## Use SSO wherever possible
+As we have seen under [avoid app permissions](#avoid-app-permissions) or use the context with delegated permissions should be preferred. SPFx solutions provide that out of the box. Other application development scenarios should make use of single sign on( SSO) wherever possible. In typical Microsoft 365 apps such as Teams or office add-ins the [on-behalf-of flow](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow?WT.mc_id=M365-MVP-5004617) should be the matter of choice.
+To implement it correctly the only thing that should take place client-side is the retrieval of the user’s bootstrap or identity token. Having that everything else should take place so server-side. Providing the bootstrap token the on behalf of flow using a client secret needs to exchange the bootstrap to an access token and finally executing with that an API request. All that can be done and kept exclusively server-side while only finally providing the API call result back to the client.
+A detailed implementation scenario can be found [here](https://mmsharepoint.wordpress.com/2022/08/31/extend-teams-apps-to-m365-with-sso-the-right-way/).
+
 
 ## Summary
 
