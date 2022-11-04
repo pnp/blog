@@ -2,7 +2,7 @@
 title: "M365 Development Security - From full trust to ZeroTrust"
 date: 2022-07-09T10:55:12.185Z
 author: "Markus Moeller"
-githubname: msharepoint
+githubname: mmsharepoint
 categories: ["Community post"]
 images:
 - images/SecurityLock.jpg
