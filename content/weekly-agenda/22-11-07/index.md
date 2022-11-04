@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 7th of November 2022 week
-date: 2022-11-04T11:11:00.211Z
+date: 2022-11-04T05:11:00.211Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -9,7 +9,7 @@ images:
   - images/weeklyagenda45.png
 tags: []
 type: trending
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -31,7 +31,7 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 Demos: 
 
 * [Bert Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert– Avoid throttling in SharePoint Online by using RateLimit headers in API calls
-* [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder – Build your first Workflow bot for Microsoft Teams with Teams Toolkit for Visual Studio Code
+* [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder – Build your first Workflow bot for Microsoft Teams with Teams Toolkit for Visual Studio Code
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -51,11 +51,11 @@ Also: 📷 Picture Time with community in Together Mode!
 Demos: 
 
 * [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells - Using Microsoft Syntex Bulk Content Assembly to automatically generate documents
-* [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskwitz and [Manuala Pichler](https://twitter.com/ManuelaPichler) (Microsoft) | @ManuelaPichler_ - Power Platform Communication Site Template
+* [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @laskwitz and [Manuala Pichler](https://twitter.com/ManuelaPichler) (Microsoft) | @ManuelaPichler_ - Power Platform Communication Site Template
 
 Also: 📷 Picture Time with community in Together Mode!
 
-### Adaptive Cards community call
+### Adaptive Cards community call - 10th of November
 
 * Thursday, 10th of November, 2022, 9:00 AM PT / 5:00 PM GMT
 * Download the [recurring invite](https://aka.ms/adaptivecardscommunitycall) - we'd love to see you in the call!
@@ -65,10 +65,11 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ## New videos
 
-Update of the newly created videos in our two YouTube channels which are the [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) or [Microsoft 365 Developer](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ) channels.
+Update of the newly published videos in our two YouTube channels which are the [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) or [Microsoft 365 Developer](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ) channels.
 
 ### Microsoft 365 Community Channel
 
+* [Introduction to Records Management APIs on Microsoft Graph](https://www.youtube.com/watch?v=YpQVlpzvJw4) by Samriddhi Seth (Microsoft) and Cameron Parker (Microsoft) 
 * [Building Windows 11 Widgets with Adaptive Cards](https://www.youtube.com/watch?v=7ZB_3TeC-_s) by [J.P.Roca](http://twitter.com/jpthepm) (Microsoft) | @JPthePM
 * [Power Automate and Microsoft Teams approvals advanced scenarios](https://www.youtube.com/watch?v=bFEqxMRnSVo) by [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 * [Latest branding capabilities for modern SharePoint sites](https://www.youtube.com/watch?v=4YImHhGmJJ4) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1
@@ -91,6 +92,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Viva Connections & SharePoint Framework Community Call – 3rd of November, 2022 - 3rd of November, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-11-03/)
 * [Microsoft 365 Platform Community Call - 1st of November, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-11-01/)
 
 ---
