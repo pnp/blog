@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-5th-may.png
-tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Three demos Manage data in OneDrive application folder, Using Adaptive Cards control from the PnP control gallery in SPFx solutions, and SPFx Design Patterns – Property pane exception handling. Released React Controls v3.8.0, Reusable Controls v3.7.0 and 4 samples!"
 videos:
@@ -62,12 +62,6 @@ call.
 * Demo - Manage data in OneDrive application folder – [Adam Wójcik](http://twitter.com/Adam25858782) (Hitachi) \| @Adam25858782 – [14:17](https://youtu.be/5B1tPAEySVo?t=857)
 * Demo - Auto Batching Microsoft Graph Calls in your SPFx solutions – [Marcin Wojciechowski](http://twitter.com/mgwojciech) (Valo) \| @mgwojciech – [26:53](https://youtu.be/5B1tPAEySVo?t=1613)
 * Demo - SPFx Design Patterns – Property pane exception handling – [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [41:46](https://youtu.be/5B1tPAEySVo?t=2506)
-
-## Together Mode
-
-![220505-together-mode.gif](images/220505-together-mode.gif)
-
-Great seeing your smiles and your best Seb-like movements.  Thank you for attending this call today.    
 
 ## Actions
 
@@ -190,4 +184,3 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 *Microsoft 365 PnP team, Microsoft - 6th of May 2022*
 
 {{< attachments >}}
-

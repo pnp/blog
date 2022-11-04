@@ -8,7 +8,7 @@ categories:
 # TODO Insert image
 images:
 - images/monthly-summary-may-2022.png
-tags: ["Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
 type: default
 ---
 
@@ -519,7 +519,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Edmund David (Insentra)
 *   [Edris Kakembo](https://www.twitter.com/kaxeddie) (WFP) | @Kaxeddie
 *   [Eduardo Cáceres](https://github.com/eduherminio) | eduherminio
-*   [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content and Cloud) | @EjazHussain"
+*   [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content and Cloud) | @EjazHussain
 *   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 *   [Elise Yang](https://github.com/elisenyang) (Shopify) | elisenyang
 *   [Elka Dunnette](https://www.twitter.com/ElkaD_YYC) | @ElkaD\_YYC

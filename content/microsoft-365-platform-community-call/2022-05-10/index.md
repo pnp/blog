@@ -45,11 +45,6 @@ The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
-## Together Mode 
-   
-![Attendees waving hands in Microsoft Teams together mode picture](images/220510-together-mode.gif)
-
-We are celebrating you as a member of this community today. Thank you for joining this community and for all you do. 
 
 ## Actions
 

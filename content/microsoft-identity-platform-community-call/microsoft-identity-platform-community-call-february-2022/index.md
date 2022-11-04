@@ -1,9 +1,9 @@
 ---
 title: "Microsoft Identity Platform community call – February 2022"
-tags: ["Microsoft 365", "Azure", "Microsoft Identity Platform"]
+tags: ["Microsoft 365", "Azure", "Microsoft identity Platform"]
 date: 2022-02-18T05:11:59-05:00
 author: "Steven Salazar Aray"
-categories: ["Microsoft Identity platform community call"]
+categories: ["Microsoft identity platform community call"]
 images:
 - images/identity-call-Thumbnail-February 2022.png
 type: "regular"

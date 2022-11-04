@@ -4,8 +4,7 @@ date: 2021-03-09T11:19:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
-images:
-- images/march-sp-monthly-together-mode.gif
+images: 
 tags: []
 type: "regular"
 ---
@@ -44,7 +43,7 @@ participating in this PnP Community during February. You are truly
 amazing.  The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call.
-![march-sp-monthly-together-mode.gif](images/march-sp-monthly-together-mode.gif)
+ 
 
 **Demo: Getting started with Microsoft Viva Topics** -- system and tools
 to help customers manage knowledge within their organizations through a
@@ -125,7 +124,7 @@ Additional resources on covered topics and discussions.
 -   [SharePoint Syntex](https://aka.ms/SharePointSyntex) 
 
 -   [Content Services Partner
-    Program](https://aka.ms/ContentServicesProgram) 
+    Program](https://adoption.microsoft.com/en-us/tech-community-resource-center/) 
 
 -   [Microsoft Knowledge & Content Services Resource
     Center](https://aka.ms/KCS) 

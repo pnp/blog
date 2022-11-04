@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-21st-april.png
-tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Three demos – Introduction to Adaptive Card Design Gallery reusable reference sample, Using Adaptive Cards control from the PnP control gallery in SPFx solutions, and Navigating Cards in Viva Connections ACEs.  Released SPFx beta v1.15, CLI v5.2, PnP Modern Search v4.6.1 and 14 samples!"
 videos:
@@ -156,12 +156,6 @@ call.
     [47:57](https://youtu.be/3_QF94JWIlk?t=2877)
 
 
-## Together Mode
-
-![220421-together-mode.gif](images/220421-together-mode.gif)
-
-Nice to capture a video of everybody in the same room today. Thank you for being a part of this Community. Please keep the feedback coming.
-
 ## Actions
 
 *   Mark your calendar for [Microsoft Tech Days](https://aka.ms/techdays/m365)
@@ -310,4 +304,3 @@ _“Sharing is caring”_
 _Microsoft 365 PnP team, Microsoft - 22nd of April 2022_
 
 {{< attachments >}}
-

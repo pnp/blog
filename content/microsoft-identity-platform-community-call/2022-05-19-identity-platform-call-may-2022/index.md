@@ -1,17 +1,17 @@
 ---
 title: "Microsoft Identity Platform community call – May 2022"
-tags: ["Microsoft 365", "Azure", "Microsoft Identity Platform"]
+tags: ["Microsoft 365", "Azure", "Microsoft identity Platform"]
 date: 2022-05-19T05:11:59-05:00
 author: "Nandeesh Swami"
 githubname: Nandeeshswami
-categories: ["Microsoft Identity platform community call"]
+categories: ["Microsoft identity platform community call"]
 images:
 - images/recording-identity-community-call-may-2022.png
 type: "regular"
 summary: "Microsoft Graph’s advanced capabilities for querying directory objects – learn how to unlock the full potential of our Directory Object APIs using the Advanced Query Capabilities, allowing developers to Count, Filter, Search and Sort Directory Objects on more properties with more OData operators."
 videos:
 - https://www.youtube.com/watch?v=6yV8ejEiAvk
-- draft: false
+draft: false
 ---
 
 

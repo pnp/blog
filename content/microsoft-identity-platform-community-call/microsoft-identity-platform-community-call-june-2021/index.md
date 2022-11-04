@@ -2,7 +2,7 @@
 title: "Microsoft Identity Platform community call -- June 2021"
 date: 2021-06-25T05:14:00-04:00
 author: "Andrew Benson"
-categories: ["Microsoft Identity platform community call"]
+categories: ["Microsoft identity platform community call"]
 images:
 - images/ViewPorter.png
 tags: []
@@ -95,4 +95,3 @@ throughout call
 -   YouTube [https://aka.ms/M365DevYouTube](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3RzWmpNU2VPRmh6dXBad3hKMmxySjBaQVl6Z3xBQ3Jtc0trVjYyeXZlSXZiX0JydHlyeHdqcTRSUnczX2xrVDloOWhzeGVCYXFibjBiM1VpXzFOd2dZX2dJdlNYQWYtekcyWXZOTHp3VkdoU2JsdmNVQ3dtdkw2ZHF0cVdCS29TQmJ1Z3hoVmJyd3JtYlFxUW92WQ&q=https%3A%2F%2Faka.ms%2FM365DevYouTube)​
 -   Blog <https://aka.ms/m365pnp/community/blog>
 -   Recurrent Invite  <https://aka.ms/IDDevCommunityCalendar> 
-

@@ -60,11 +60,6 @@ previous report 2 weeks ago) 
 The host of this call is [David Warner
 II](https://twitter.com/DavidWarnerII) (Catapult Systems)
 @DavidWarnerII.  Q&A takes place as always in chat throughout the call.
-![211230-together-mode.gif](images/211230-together-mode.gif)
-
-[Check out the new ship shape seating situation.  Perfect for rocketing
-into the New Year!  Hang on, see you
-soon. ]
 
 ## Actions
 

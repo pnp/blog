@@ -52,9 +52,7 @@ contributions.   The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
-![211007-together-mode.gif](images/211007-together-mode.gif)
-Not an empty seat in the house.  Nice seeing everyone on the call. 
-Please join again soon.
+
 
 ## Actions
 

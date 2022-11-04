@@ -2,7 +2,7 @@
 title: "Microsoft Identity Platform community call - March 2021"
 date: 2021-03-29T06:57:00-04:00
 author: "Andrew Benson"
-categories: ["Microsoft Identity platform community call"]
+categories: ["Microsoft identity platform community call"]
 images:
 - images/ViewPorter.png
 tags: []

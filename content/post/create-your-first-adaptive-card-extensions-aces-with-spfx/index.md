@@ -7,7 +7,7 @@ githubname: "siddharth-vaghasia"
 categories: ["Community post"]
 images:
 - images/img_61cbfcc5a7e38-1024x369.png
-tags: ["Adaptive Card Extensions", "SharePoint Framework (SPFx)"]
+tags: ["SPFx Adaptive Card Extensions", "SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -169,7 +169,7 @@ You will see here 3 methods
 public get data(): IBasicCardParameters {
     return {
         primaryText: strings.PrimaryText,
-        
+
     };
 }
 ```
@@ -241,7 +241,7 @@ Same way if you extend the view from `BaseImageCardView`. we will have to set `i
       return {
         imageUrl: "https://picsum.photos/id/237/200/300",
         primaryText: "My Primary Text"
-        
+
       };
     }
 
@@ -404,5 +404,3 @@ Hope this helps to understand the SPFx Adaptive Card Extension concept, Happy co
 [https://docs.microsoft.com/sharepoint/dev/spfx/viva/get-started/build-first-sharepoint-adaptive-card-extension](https://docs.microsoft.com/sharepoint/dev/spfx/viva/get-started/build-first-sharepoint-adaptive-card-extension)
 
 [https://nanddeepnachanblogs.com/posts/2021-09-21-build-ace-spfx/](https://nanddeepnachanblogs.com/posts/2021-09-21-build-ace-spfx/)
-
-

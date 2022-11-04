@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
 images:
 - images/recording-8th-march.png
-tags: ["Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -55,10 +55,6 @@ The host of this call was [Brian T. Jackett](https://twitter.com/BrianTJackett) 
 *   Request a Demo spot on the call – [https://aka.ms/m365pnp/request/demo](https://aka.ms/m365pnp/request/demo)
 *   Download the recurrent invite for this call – [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call%C2%A0)
 *   Call attention to your great work by using the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
-
-![thumbnail image 2 of blog post titled Microsoft 365 Platform Call – 8th of March, 2022 ](images/220308-together-mode.gif)
-
-Social distancing?  Always great to see everyone so virtually close while being located so physically far from one another.    In person events soon! 
 
 ## Demos
 

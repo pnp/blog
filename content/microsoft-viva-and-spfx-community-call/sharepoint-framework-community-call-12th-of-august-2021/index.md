@@ -45,9 +45,7 @@ There were 4** PnP web part samples** delivered in the last 2 weeks as
 well.  Nice work!    The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-![210812-together-mode.gif](images/210812-together-mode.gif)
-Ahhhh, the Comfy seats today!     Everyone is alive with sporting
-colorful clothing.   Great to see you.     
+
 
 ## Actions
 

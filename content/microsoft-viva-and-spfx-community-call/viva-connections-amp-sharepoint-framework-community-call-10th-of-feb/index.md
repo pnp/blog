@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-10th-feb.png
-tags: ["Adaptive Card Extensions", "Extensions", "Microsoft 365",  "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["SPFx Adaptive Card Extensions", "SPFx Extensions", "Microsoft 365",  "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Viva Connections & SharePoint Framework bi-weekly community call recording from February 10th is now available from the Microsoft 365 Community YouTube channel at https://aka.ms/m365pnp/videos. You can use SharePoint Framework for building solutions for Microsoft Teams and for SharePoint Online."
 videos:
@@ -52,9 +52,6 @@ SharePoint Framework (SPFx)|v1.13 GA, **v****1.14 RC**|GA targeted for mid-Febru
 
 The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
 
-![thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 10th of February, 2022 ](images/220210-together-mode.gif)
-
-Thank you for joining the call today and/or for viewing the recording.  You are part of making this a truly awesome community.   
 
 ## Actions
 
@@ -81,7 +78,7 @@ Thank you for joining the call today and/or for viewing the recording.  You are
 *   **Document Links Accordion SPFx Web Part** – takes information from a list or library, groups by metadata and displays in an interactive way.  Resources used: PnP React Controls (Accordion, Carousel, File Picker…) and PnPjs (Fluent API, Batching, Caching…).  Configure the web part – select library, content type…   Simple, elegant and native appearing UI.  Desktop and mobile experience.  Powerful as it reuses existing controls to accelerate development and benefits community when shared.
 *   **New Development Containers for SPFx Samples** – it is now possible to build and test samples built in any version of SPFx without worrying about dependencies with remote container support in VS Code.  Using Docker Desktop and the Remote containers VS Code extension (Preview). Understand the benefits of using containers, and the solution including manifests, certificate trust, rebinding ports. Find out how to tell if sample is supports containers using documentation and more.  All SPFx samples being containerized, starting with v1.13, then v1.12 …    
 *   **Viva Connections – Consuming SharePoint Online Data in SPFx Adaptive Card Extensions -** see 2 simple, quick and powerful examples of how to get and render a list of items from a Microsoft List/SharePoint list either using native SharePoint support in SPFx or using PnPjs into an ACE QuickView card.  Key points to remember – ACEs are built on top of SPFx, also can use PnPjs, and data binding works as usual with Adaptive Card syntax.
-    
+
 
 ## SPFx extension samples
 

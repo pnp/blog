@@ -100,8 +100,6 @@ place in chat throughout the call
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211116-together-mode.gif](images/211116-together-mode.gif)
-It's a full house and it's great seeing each and everyone of you.  
 
 ## Demos
 

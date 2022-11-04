@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/Thumb-Ep151-January31Beauty.png
-tags: ["Extensions","Microsoft 365", "SharePoint","SharePoint Framework (SPFx)"]
+tags: ["SPFx Extensions","Microsoft 365", "SharePoint","SharePoint Framework (SPFx)"]
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by UK-based SharePoint developer, architect and MVP, Paul Bullock"
 videos:
@@ -78,4 +78,3 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 
-

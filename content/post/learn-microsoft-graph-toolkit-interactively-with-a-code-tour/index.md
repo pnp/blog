@@ -6,7 +6,7 @@ githubname: WaldekMastykarz
 categories: ["Community post"]
 images:
 
-tags: ["Microsoft Graph toolkit"]
+tags: ["Microsoft Graph Toolkit"]
 type: "regular"
 ---
 

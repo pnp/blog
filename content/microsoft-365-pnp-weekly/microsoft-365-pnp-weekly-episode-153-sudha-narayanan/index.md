@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
 - images/Thumb-Ep153-February7.png
-tags: ["Extensions","Microsoft 365", "SharePoint","SharePoint Framework (SPFx)"]
+tags: ["SPFx Extensions","Microsoft 365", "SharePoint","SharePoint Framework (SPFx)"]
 type: "regular"
 summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – Vesa Juvonen (Microsoft) | @vesajuvonen, Waldek Mastykarz (Microsoft) | @waldekm are joined by Redmond, Washington, US-based Senior Program Manager in the OneDrive and SharePoint organization responsible of the Power Platform integration, Sudha Narayanan (Microsoft)."
 videos:

@@ -6,7 +6,7 @@ githubname: "vesajuvonen"
 categories: ["Microsoft 365 platform call"]
 images:
 - images/recording-15th-march.png
-tags: ["Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=LbVbaBZdK3o
@@ -70,9 +70,6 @@ The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Micro
 *   Download the recurrent invite for this call – [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call%C2%A0)
 *   Call attention to your great work by using the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
 
-![thumbnail image 2 of blog post titled Microsoft 365 Platform Call – 15th of March, 2022 ](images/Together-15March2022.gif)
-
-Full house, yet again.  You all look marvelous.  Great seeing you today.  
 
 ## Demos
 
@@ -99,12 +96,12 @@ Additional resources around the covered topics and links from the slides.
 *   **D1:**  Samples - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting) 
 *   **D1:**  Documentation - [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) | aka.ms/spdocs-column-formatting
 *   **D1:**  See latest list samples in [Sample Solution Gallery - Microsoft Adoption](https://adoption.microsoft.com/sample-solution-gallery?sortby=creationDateTime-true&keyword=&product=Microsoft%20Lists&action=ajax_plugin_call_sample_solution_gallery) from
-    
+
     *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | [@aaclage](/t5/user/viewprofilepage/user-id/861803)
     *   [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent
     *   [João Ferreira](https://twitter.com/joao12ferreira) (Beezy) | @joao12ferreira
     *   [Tetsuya Kawahara](https://twitter.com/techan_k) | @techan\_k
-        
+
 *   **D2:**  Documentation - [Build a SharePoint web part with the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/get-started/build-a-sharepoint-web-part) | aka.ms/mgt/spfx
 *   **D2:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://docs.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
 *   **D2:**  Documentation - [Styling components in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/customize-components/style) 
@@ -169,4 +166,3 @@ _“Sharing is caring”_
 * * *
 
 _Microsoft 365 PnP team, Microsoft - 16h of March 2022_
-

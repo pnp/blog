@@ -77,16 +77,6 @@ Samples:**<https://aka.ms/teams-samples>
 
 -   Looking for Samples!  Please share your good work  
 
- 
-
-![210420-teams.gif](images/210420-teams.gif)
-
- 
-
-**It's all about Community - Hello Microsoft Teams community!**
-
- 
-
 
 ## Demos
 

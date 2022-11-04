@@ -74,7 +74,7 @@ type: "regular"
 * upload all images for your article in this folder
 * in case you need some help on how markdown works, please see this article:
   
-[What's up with markdown?](content/post/what-s-up-with-markdown/)
+[What's up with markdown?](content/post/what-s-up-with-markdown/index.md)
 
 We also put together some information about markdown and how to use it in our [Wiki](https://github.com/pnp/blog/wiki/Microsoft-365-blog-Markdown-reference)
 

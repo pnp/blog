@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/PnP-Calls-TogetherMode-LowResolution.gif
 tags: []
 type: "regular"
 ---
@@ -45,13 +44,6 @@ There was 1 **PnP SPFx extension** and 4 **PnP web part samples**
 delivered in the last 2 weeks as well.  Nice work!    The host of this
 call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 | @mediocrebowler.  Q&A takes place in chat throughout the call.
-![PnP-Calls-TogetherMode-LowResolution.gif](images/PnP-Calls-TogetherMode-LowResolution.gif)
- 
-
-Yep!  Nice wave action.  Great seeing you this week.  Looking forward to
-seeing you again in August.    Data for Hugo:  24 left-handed wavers, 4
-right-handed wavers, 2 bi-handed wavers and 4 non-handed wavers.  But
-wait, now there's 35 wavers!   Data corruption.  
 
 ## Actions
 

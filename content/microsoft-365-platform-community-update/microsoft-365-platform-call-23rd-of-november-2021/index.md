@@ -114,9 +114,6 @@ call.   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211123-together-mode.gif](images/211123-together-mode.gif)
-Everyone do the Seb Rockelwave!  Thank you again to community members
-and organizations on your November contributions.    
 
 ## Demos
 

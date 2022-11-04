@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/together-pnp-25th-march-bi-weekly.gif
 tags: []
 type: "regular"
 ---
@@ -39,8 +38,7 @@ Modern Search** v3.18.1 released March 9th and v4.1.0 released March
 2 weeks.  Great work!    The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-![together-pnp-25th-march-bi-weekly.gif](images/together-pnp-25th-march-bi-weekly.gif)
- 
+
 
 ## Actions
 

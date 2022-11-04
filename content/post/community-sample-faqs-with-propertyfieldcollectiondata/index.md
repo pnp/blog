@@ -6,7 +6,7 @@ githubname: arunkumarperumal
 categories: ["Community post"]
 images:
 - images/FAQWebpart.png
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 draft: false
 ---

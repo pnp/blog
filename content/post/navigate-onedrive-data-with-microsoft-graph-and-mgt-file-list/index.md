@@ -7,7 +7,7 @@ githubname: aaclage
 categories: ["Community post"]
 images:
 - images/blog/monitor-and-notify-m365-health-using-cli-for-microsoft-365/ArjunMenon_0-1637745741073.jpeg
-tags: ["Microsoft Graph toolkit"]
+tags: ["Microsoft Graph Toolkit"]
 type: "regular"
 ---
 
@@ -32,7 +32,7 @@ retrieve associated folders and files from different locations.
 
 ![MainCalls.png](images/MainCalls.png)
 
-### How the Mgt-File-List Work 
+### How the Mgt-File-List Work
 
 As OneDrive, this control allow to display Shared Files and Folders, for
 this **ItemID (identity of the item to read, can be a folder or a
@@ -55,7 +55,7 @@ search files inside shared Libraries.
 ></FileList>
 ```
 
-#### Where can I found SiteID of a site? 
+#### Where can I found SiteID of a site?
 
 Use the **Site Graph API with search** query based on hostname to
 retrieve ID's of sites.
@@ -130,7 +130,7 @@ features that were used in sample
 
 ![SampleFileList.png](images/SampleFileList.png)
 
-### Mgt provider and SharePointProvider 
+### Mgt provider and SharePointProvider
 
 It's important that permissions are given from Microsoft Graph to SPFX
 WebPart that Mgt-File-List could make the necessary query's.
@@ -139,16 +139,16 @@ Access to config/package-solution.json and ensure the following
 permissions are given on SharePoint package.
 
 ```json
-    "webApiPermissionRequests": [{  
-      "resource": "Microsoft Graph",  
-      "scope": "Files.Read"  
-  }, {  
-      "resource": "Microsoft Graph",  
-      "scope": "Files.Read.All"  
-  }, {  
-      "resource": "Microsoft Graph",  
-      "scope": "Sites.Read.All"  
-  }] 
+    "webApiPermissionRequests": [{
+      "resource": "Microsoft Graph",
+      "scope": "Files.Read"
+  }, {
+      "resource": "Microsoft Graph",
+      "scope": "Files.Read.All"
+  }, {
+      "resource": "Microsoft Graph",
+      "scope": "Sites.Read.All"
+  }]
 ```
 
 Access to your code into **BaseClientSideWebPart** area and ensure
@@ -194,7 +194,7 @@ More information can be found on Mgt-File-List
 or by sample
 "[react-onedrive-finder](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder)".
 
-### Filtering file extensions 
+### Filtering file extensions
 
 The Mgt-File-List property **fileExtensions** allows to filter documents
 by file extension, this can be very handy when dealing with large
@@ -293,7 +293,7 @@ Graph Drive Search method to find Items in the Drive. Below an sample on
 how you could use a dynamic to search items in Drives.
 
 ``` {.lia-code-sample .language-html}
-//Make query on Shared Library or OneDrive Library 
+//Make query on Shared Library or OneDrive Library
 const checkSearchDrive = (SearchQuery: string) => {
       if (this.state.siteID != "") {
         this.setState({
@@ -305,8 +305,8 @@ const checkSearchDrive = (SearchQuery: string) => {
         });
       }
     };
-    
-//Search Box for Shared Library 
+
+//Search Box for Shared Library
 <SearchBox placeholder="Search Drive" onSearch={checkSearchDrive} onClear={checkClear} />
 
 //Display search content
@@ -317,7 +317,7 @@ const checkSearchDrive = (SearchQuery: string) => {
 }
 ```
 
-### Final sample solution 
+### Final sample solution
 
 Below the final result of the configuration of **Mgt-File-List** react
 controls:
@@ -332,7 +332,7 @@ Samples* - **OneDrive finder**:
 *PS: Solution will be updated with release version
 when **Mgt-File-List** is available by the Microsoft Graph Toolkit.*
 
-### How to start with Microsoft Graph Toolkit and SharePoint Online 
+### How to start with Microsoft Graph Toolkit and SharePoint Online
 
 There is a very good articles on how to start for example, [Build a
 SharePoint web part with the Microsoft Graph
@@ -372,4 +372,3 @@ Support Documentation:
     specifications](https://github.com/microsoftgraph/microsoft-graph-toolkit/blob/main/specs/mgt-file-list.md)
 -   [FileList
     Stories](https://github.com/microsoftgraph/microsoft-graph-toolkit/blob/main/stories/components/fileList.stories.js)
-
