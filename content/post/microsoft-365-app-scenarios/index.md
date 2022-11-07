@@ -5,7 +5,7 @@ author: "Markus Moeller"
 githubname: mmsharepoint
 categories: ["Community post"]
 images:
-- images/SecurityLock.jpg
+- images/TeamsOfficeOutlookLogo.jpg
 tags: []
 type: "regular"
 summary: "This post shall show various application development scenarios that can be used across different products inside Microsoft 365. The basis for this can either be SharePoint Framework (SPFx) or Teams application development."
@@ -28,21 +28,21 @@ Outlook can either reuse a personal tab as standalone app or it can use a search
 ## Personal app
 
 
-![Personal App In Teams](images\PersonalAppInActionInTeams.png)
+![Personal App In Teams](images/PersonalAppInActionInTeams.png)
 
-![Same Personal App In Outlook](images\PersonalAppInActionInOutlook.png)
+![Same Personal App In Outlook](images/PersonalAppInActionInOutlook.png)
 
 ## Search based messaging extension
 A search-based messaging extension allows you to select from a defined resultset of existing objects, such as documents or people and insert this selection into a compose message without any modification to the selected object.
 
-![Search based messaging extension](images\SearchBasedMessagingExtension.png)
+![Search based messaging extension](images/SearchBasedMessagingExtension.png)
 
 ## Action based messaging extension
 Instead of the search-based messaging extension the action-based variant allows to interact with the user about selection or modification or even creation of that selection. Instead of a simple pick here you can create custom forms or at least more customized selection areas.
 
-![Invoke Action based messaging extension](images\ActionBasedMessagingExtensionInvoke.png)
+![Invoke Action based messaging extension](images/ActionBasedMessagingExtensionInvoke.png)
 
-![Action based messaging extension task module](images\ActionBasedMessagingExtensionSelectTaskModule.png)
+![Action based messaging extension task module](images/ActionBasedMessagingExtensionSelectTaskModule.png)
 
 # Development approaches
 ## Teams native App
