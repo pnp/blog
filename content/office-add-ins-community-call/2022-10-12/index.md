@@ -72,7 +72,7 @@ This is a good question to ask here https://github.com/OfficeDev/office-js.
 
 **Would you say what you just demonstrated with Visual Studio is the preferred approach for developing a web add-in vs. the Yeoman and Visual Studio Code approach?**
 
-Either one works. Most VSTO background developers would probably use Visual Studio to stay in a familiar IDE.
+Either one works. If your background is in VSTO you may find that using the Visual Studio IDE a more familiar environment. But you probably also want to use a newer version of ASP.NET, which the demonstration shows. You may also be interested in the [Blazor Webassembly samples](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/blazor-add-in) which allow you to keep your task pane UI in C# as well.
 
 **What is the Mac equivalent of the Wef folder to clear the cache?**
 
