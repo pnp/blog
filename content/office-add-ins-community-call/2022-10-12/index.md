@@ -80,7 +80,7 @@ For instructions on how to clear the Office cache on Mac, see the "Clear the Off
 
 **I was just wondering if any of you are developing add-in for the IPAD since I am just experiencing an issue with the event handler on data changed in a worksheet. With the new Excel IPAD version (2.65.1) it seems that the event handler is not called any more while it was working with the previous versions. On Windows, Excel on the Web everything is working fine except with this new IPAD version and the issue is also that I can't revert back to a previous IPAD version :( Thanks in advance for any feedback or suggestion in reporting this issue to Microsoft!**
 
-We're sorry to hear you're experiencing an issue with developing an add-in on an iPad. If you haven't already, please submit a GitHub issue, so that we can escalate it to the Excel team for further investigation.
+We're sorry to hear you're experiencing an issue with developing an add-in on an iPad. If you haven't already, please submit a [GitHub issue on office-js](https://github.com/OfficeDev/office-js/issues), so that we can escalate it to the Excel team for further investigation.
 
 
 ## Additional Resources
