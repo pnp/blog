@@ -1,6 +1,6 @@
 ---
 title: "Office Add-ins developer platform community call – Ocotober 12, 2022"
-summary: "This month's community call topics include: Update the ASP.NET server in Visual Studio (update a task pane an Excel Add-in using the sideloader to point to an updated project) – David Chesnut (Microsoft) and Feedback request for Excel Add-in Auto install launch function (thoughts on making your office JS add-in discoverable and safely auto install and launch it) - Yawei Zhu (Microsoft),  Community spotlight – shines on Eric Legault (Eric Legault Consulting), and Q&A at end of call and in chat throughout call."
+summary: "This month's community call topics include: Update the ASP.NET server in Visual Studio (update a task pane in an Excel add-in updating the sideloader project to point to an updated ASP.NET Core project) – David Chesnut (Microsoft) and Feedback request for Excel add-in auto install launch function (thoughts on making your office JS add-in discoverable and safely auto install and launch it) - Yawei Zhu (Microsoft),  Community spotlight – shines on Eric Legault (Eric Legault Consulting), and Q&A at end of call and in chat throughout call."
 date: 2022-10-12T08:01:00-05:00
 author: "Preethika Kiruveedula"
 githubname: preethikakiru
