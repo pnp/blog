@@ -80,6 +80,7 @@ The House is full yet again today! Really awesome to see many familiar faces. Th
     * Documentation - [Get started with Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/get-started/overview)
     * Documentation - [Microsoft Graph SDK overview](https://learn.microsoft.com/graph/sdks/sdks-overview)
     * Repo - [Microsoft Graph JavaScript Client Library](https://github.com/microsoftgraph/msgraph-sdk-javascript)
+    * Blog post - [Find a meeting time and schedule a meeting on Microsoft 365](https://blog.mastykarz.nl/find-meeting-time-schedule-meeting-microsoft-365/)
 * **Introduction to new SharePoint Pages Microsoft Graph API**
     * Article - [Announcing the new SharePoint Pages API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/announcing-the-new-sharepoint-pages-api-in-microsoft-graph/) \| aka.ms/PagesAPI
     * Beta Testers - [SharePoint Pages graph API beta release testers sign up](https://forms.office.com/r/ZgNEgPa54g)
