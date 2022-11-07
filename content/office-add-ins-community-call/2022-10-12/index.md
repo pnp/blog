@@ -70,7 +70,7 @@ We currently do not have plans to add Microsoft Word Forms apis to Office JS. Cu
 
 This is a good question to ask here https://github.com/OfficeDev/office-js.
 
-**Would you say what you just demod with Visual Studio is the preferred approach for developing a web add-in vs. the Yeoman and Visual Studio Code approach?**
+**Would you say what you just demonstrated with Visual Studio is the preferred approach for developing a web add-in vs. the Yeoman and Visual Studio Code approach?**
 
 Either one works. Most VSTO background developers would probably use Visual Studio to stay in a familiar IDE.
 
