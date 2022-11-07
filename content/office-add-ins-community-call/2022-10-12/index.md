@@ -76,7 +76,7 @@ Either one works. Most VSTO background developers would probably use Visual Stud
 
 **What is the Mac equivalent of the Wef folder to clear the cache?**
 
-For instructions on how to clear the Office cache on Mac, see the "Clear the Office cache on Mac" section in Clear the Office cache.
+For instructions on how to clear the Office cache on Mac, see the "Clear the Office cache on Mac" section in [Clear the Office cache](https://learn.microsoft.com/office/dev/add-ins/testing/clear-cache#clear-the-office-cache-on-mac).
 
 **I was just wondering if any of you are developing add-in for the IPAD since I am just experiencing an issue with the event handler on data changed in a worksheet. With the new Excel IPAD version (2.65.1) it seems that the event handler is not called any more while it was working with the previous versions. On Windows, Excel on the Web everything is working fine except with this new IPAD version and the issue is also that I can't revert back to a previous IPAD version :( Thanks in advance for any feedback or suggestion in reporting this issue to Microsoft!**
 
