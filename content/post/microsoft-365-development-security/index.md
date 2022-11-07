@@ -81,7 +81,8 @@ Nevertheless there is one disadvantage in managed identities. In combination wit
 Managed Identity—>Member of AD security group—>Granted access to Graph or SharePoint resource—>Access Token with delegated permissions works 
 
 ## Use SSO wherever possible
-As we have seen under [avoid app permissions](#avoid-app-permissions) or use the context with delegated permissions should be preferred. SPFx solutions provide that out of the box. Other application development scenarios should make use of single sign on( SSO) wherever possible. In typical Microsoft 365 apps such as Teams or office add-ins the [on-behalf-of flow](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow?WT.mc_id=M365-MVP-5004617) should be the matter of choice.
+
+As we have seen under [avoid app permissions](#avoid-app-permissions) or use the context with delegated permissions should be preferred. SPFx solutions provide that out of the box. Other application development scenarios should make use of single sign on (SSO) wherever possible. In typical Microsoft 365 apps such as Teams or office add-ins the [on-behalf-of flow](https://learn.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow?WT.mc_id=M365-MVP-5004617) should be the matter of choice.
 To implement it correctly the only thing that should take place client-side is the retrieval of the user’s bootstrap or identity token. Having that everything else should take place so server-side. Providing the bootstrap token the on behalf of flow using a client secret needs to exchange the bootstrap to an access token and finally executing with that an API request. All that can be done and kept exclusively server-side while only finally providing the API call result back to the client.
 A detailed implementation scenario can be found [here](https://mmsharepoint.wordpress.com/2022/08/31/extend-teams-apps-to-m365-with-sso-the-right-way/).
 
