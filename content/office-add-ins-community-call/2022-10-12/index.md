@@ -35,7 +35,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Topic summaries
 
-* **Update the ASP.NET server in Visual Studio.** learn how to update a task pane an Excel Add-in using the sideloader to point to an updated project.   When you create a new project in Visual Studio and choose the Excel Web Add-in, actually two projects are created – a web ASP.NET server and a sideloader.  Configure your new project and update your manifest.  Add additional capabilities to the index page in the new project.  
+* **Update the ASP.NET server in Visual Studio.** Learn how to update a task pane in an Excel Add-in to use a new ASP.NET Core project. When you create a new project in Visual Studio and choose the Excel Web Add-in, actually two projects are created – a web ASP.NET server and a sideloader.  Configure the solution to add a new ASP.NET Core project, update the sideload project to point to it, and update your manifest.  Add additional capabilities to the index page in the new project.  
 * **Feedback request for Excel Add-in Auto install launch function.** what if your office JS add-in can be discovered and safely auto installed and auto launched!   Use scenario - one receives a file with elements created by an add-in used by the sender.  We would greatly appreciate it if you would provide feedback in this proposed capability by clicking on the survey link and answering 3 brief questions.  Use it?  Why? For what scenarios?  
   
 ## Call to action
