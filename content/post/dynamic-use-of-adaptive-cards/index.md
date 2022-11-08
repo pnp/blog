@@ -2,7 +2,7 @@
 # this is the title
 title: "Working with Adaptive cards as Dynamic data"
 # this is the publishing date of your article, usually this should match "now"
-date: 2022-10-26T08:00:00-04:00
+date: 2022-11-07T08:00:00-04:00
 # This is your name
 author: "Nathalie Leenders"
 # This is your GitHub name
@@ -16,7 +16,7 @@ images:
 tags: [Adaptive Cards]
 # don't change
 type: "regular"
-draft: true
+draft: false
 ---
 
 ## What are Adaptive Cards?
@@ -39,7 +39,7 @@ Your flow run will fail as it needs this parameter. (To bypass, I copy/paste the
 
 4. Once you designed your card, insert it in your Power Automate Flow:
 5. Add a step, click on **Teams**, **Post an Adaptive Card and wait for a response**.
-6. Choose your channel or chat option, and in the body copy/paste the code from the designer or adaptive card in your adaptive card message body.
+6. Choose your channel or chat option, and in the body copy/paste the code from the designer or Adaptive Card in your Adaptive Card message body.
 
 Use cases for adaptive cards:
 
@@ -52,8 +52,8 @@ Use cases for adaptive cards:
 
 ![Teams Adaptive card without JSON](images/AdaptiveCard-EmptyBody.png)
 
-7. After your Teams card, add an action for Parse JSON (JSON sounds scary but I’ll walk you through it)
-8. On outputs, type the name of your card step, add _ for spaces. Example: `outputs('Post_adaptive_card_and_wait_for_a_response')?['body']`
+7. After your Teams card, add an action for **Parse JSON** (JSON sounds scary but I’ll walk you through it)
+8. On outputs, type the name of your card step, add `_` for spaces. Example: `outputs('Post_adaptive_card_and_wait_for_a_response')?['body']`
 9. On the schema area type {}
 
 ![Parsejson image](images/AdaptiveCard-parse json filled out.png)
@@ -63,7 +63,7 @@ Use cases for adaptive cards:
 ![Display the card in teams](images/AdaptiveCards-CardinTeams.png)
 
 
-11. Copy the full output of the Teams adaptive card
+11. Copy the full output of the Teams Adaptive Card
 
 ![Body to copy](images/AdaptiveCard-Bodytocopy.png)
 
