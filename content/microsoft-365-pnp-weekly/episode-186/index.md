@@ -1,29 +1,32 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 186"
-summary: " Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on Career development, how to get an MVP, open-source community work and highlighting 16 articles/videos by Microsoft/Community."
-date: 2022-11-08T02:00:01-00:00
+summary: "US/India based Microsoft Principal Product Manager - DC Padur joins Microsoft’s Vesa Juvonen in a discussion on role of a Principal Product Manager, personal networking, working remotely and asynchronously on WW team, plus 16 articles/videos by Microsoft/Community are highlighted."
+date: 2022-11-07T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-185-promo.png
+- images/pnp-weekly-186-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=59KioNPc74Y
-draft: true
+- https://www.youtube.com/watch?v=K-CMcEeyUok
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Belgium based Microsoft 365 Development MVP and Consultant - [Jasey Waegebaert](https://twitter.com/jwaegebaert) (GMI group) \| @jwaegebaert.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US/India based Microsoft Principal Product Manager - [DC Padur](https://twitter.com/dcpadur) \| @dcpadur.
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* What is the role of a Principal Product Manager on the SharePoint team?
+* Explaining the PM’s focus on the what, why and success measurement as opposed to the how and when.
+* The importance of investing in accessibility.
+* How did DC get into Microsoft as a developer?
+* The value of personal networking.
+* How complexity and speed of execution necessitates an awareness of what other teams are doing.
+* Who owns code quality and testing at Microsoft?
+* How is Microsoft supporting DC’s working remotely in India and side benefits of being in India?
+* How does DC deal with time zone differences and prioritizing which meetings to take?
+* Tips for working asynchronously on a Worldwide team.
 
 Also, we showcased 16 articles/videos published by Microsoft and the PnP Community in the last week.
 
@@ -31,12 +34,12 @@ Also, we showcased 16 articles/videos published by Microsoft and the PnP Communi
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, October 31, 2022.
+This session was recorded on Monday, November 7, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 59KioNPc74Y >}}
+    {{< youtube K-CMcEeyUok >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-rpviv-1305ea9 >}}   
+    {{< podbean pb-xyxgw-130a0da >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
