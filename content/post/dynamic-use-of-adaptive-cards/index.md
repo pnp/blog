@@ -11,7 +11,7 @@ githubname: "Nathalie-Leenders"
 categories: ["Community post"]
 # Link to the thumbnail image for the post
 images:
-- images/myImage.png
+- images/AdaptiveCards-CardinTeams.png
 # don't change
 tags: [Adaptive Cards]
 # don't change
