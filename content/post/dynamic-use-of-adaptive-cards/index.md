@@ -2,7 +2,7 @@
 # this is the title
 title: "Working with Adaptive cards as Dynamic data"
 # this is the publishing date of your article, usually this should match "now"
-date: 2022-10-26T08:00:00-04:00
+date: 2022-11-07T08:00:00-04:00
 # This is your name
 author: "Nathalie Leenders"
 # This is your GitHub name
@@ -16,7 +16,7 @@ images:
 tags: [Adaptive Cards]
 # don't change
 type: "regular"
-draft: true
+draft: false
 ---
 
 ## What are Adaptive Cards?
@@ -39,7 +39,7 @@ Your flow run will fail as it needs this parameter. (To bypass, I copy/paste the
 
 4. Once you designed your card, insert it in your Power Automate Flow:
 5. Add a step, click on **Teams**, **Post an Adaptive Card and wait for a response**.
-6. Choose your channel or chat option, and in the body copy/paste the code from the designer or adaptive card in your adaptive card message body.
+6. Choose your channel or chat option, and in the body copy/paste the code from the designer or Adaptive Card in your Adaptive Card message body.
 
 Use cases for adaptive cards:
 
@@ -50,23 +50,22 @@ Use cases for adaptive cards:
 6.1 (Optional) I like to add a variable at the top level of my Power Automate Flow, something like VarColor so I can store the information from the output from the Parse JSON. You can of course just keep it as regular dynamic content. 
 (If you're using different nested steps a variable may be easier to work with)
 
-7. After your Teams card, add an action for Parse JSON (JSON sounds scary but I’ll walk you through it)
+![Teams Adaptive card without JSON](images/AdaptiveCard-EmptyBody.png)
 
-Parsejson image
-
-8. On outputs, type the name of your card step, add _ for spaces. Example: `outputs('Post_adaptive_card_and_wait_for_a_response')?['body']`
+7. After your Teams card, add an action for **Parse JSON** (JSON sounds scary but I’ll walk you through it)
+8. On outputs, type the name of your card step, add `_` for spaces. Example: `outputs('Post_adaptive_card_and_wait_for_a_response')?['body']`
 9. On the schema area type {}
 
-AdaptiveCard-parse json filled out image
+![Parsejson image](images/AdaptiveCard-parse json filled out.png)
 
 10. Run your flow and check the run.
 
-Image AdaptiveCards-CardinTeams
+![Display the card in teams](images/AdaptiveCards-CardinTeams.png)
 
 
-11. Copy the full output of the Teams adaptive card
+11. Copy the full output of the Teams Adaptive Card
 
-Image adaptive card body to copy
+![Body to copy](images/AdaptiveCard-Bodytocopy.png)
 
 12. Go back into edit, and in your Parse JSON step, click on **Generate from Sample**
 13. Paste the whole body there.
@@ -74,6 +73,6 @@ Image adaptive card body to copy
 
 Now the output thats in your newly generated schema will appear as Dynamic content.
 
-Dataendresult image
+![Dynamic output](images/AdaptiveCard-DynamicContentResult.png)
 
 I like to Append to string Variable the Data for Color for example, but of course you can leave this step out.
