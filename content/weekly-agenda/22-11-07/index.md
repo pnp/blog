@@ -51,7 +51,7 @@ Also: 📷 Picture Time with community in Together Mode!
 Demos: 
 
 * [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells - Using Microsoft Syntex Bulk Content Assembly to automatically generate documents
-* [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @laskwitz and [Manuala Pichler](https://twitter.com/ManuelaPichler) (Microsoft) | @ManuelaPichler_ - Power Platform Communication Site Template
+* [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @laskewitz and [Manuela Pichler](https://twitter.com/ManuelaPichler_) (Microsoft) | @ManuelaPichler_ - Power Platform Communication Site Template
 
 Also: 📷 Picture Time with community in Together Mode!
 
