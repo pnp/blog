@@ -1,15 +1,22 @@
 ---
-title: "PnP Core SDK v1.8"
-summary: "The PnP Core SDK is a modern .NET SDK designed to work for Microsoft 365. It provides a unified object model for working with SharePoint Online and Teams which is agnostic to the underlying API's being called."
-date: 2022-11-09T12:17:00-02:00
-author: "Bert Jansen"
-githubname: "jansenbe"
-categories: ["PnP Core SDK"]
+title: PnP Core SDK v1.8
+summary: The PnP Core SDK is a modern .NET SDK designed to work for Microsoft 365. It
+  provides a unified object model for working with SharePoint Online and Teams
+  which is agnostic to the underlying API's being called.
+date: 2022-11-09T13:32:34.170Z
+author: Bert Jansen
+githubname: jansenbe
+categories:
+  - PnP Core SDK
 images:
-- images/PnP-core-sdk-1-8-0-release.png
+  - images/PnP-core-sdk-1-8-0-release.png
 
-tags: [".Net","PnP Core SDK","Microsoft Teams", "SharePoint"]
-type: "regular"
+tags:
+  - .Net
+  - PnP Core SDK
+  - Microsoft Teams
+  - SharePoint
+type: regular
 ---
 
 We've just published a new minor version of the [.NET PnP Core SDK](https://aka.ms/pnp/coresdk/docs) ([GitHub repo](https://aka.ms/pnp/coresdk)) with new features to use in your cross-platform SharePoint Online and Microsoft Teams projects.
