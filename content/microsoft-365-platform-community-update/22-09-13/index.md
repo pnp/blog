@@ -374,6 +374,30 @@ We welcome all scripts on Microsoft 365 automation to this centralized repositor
 Here are the latest updates on the Script Samples:
 
 <!-- Paul, your script samples go in here :-) -->
+- New [Get all files in a Document Library along with Created By and Modified By](https://pnp.github.io/script-samples/spo-get-files-and-creators-modifiers/README.html) by [Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
+- New [Get users by license and review last signed in](https://pnp.github.io/script-samples/graph-get-license-and-signins/README.html) by [Paul Bullock](https://twitter.com/pkbullock)  (CaPa Creative Ltd) | @pkbullock
+- New [Create a Quick Links web part with items defined in a datasource](https://pnp.github.io/script-samples/spo-quicklink-wp-creator/README.html) by [Kasper Bo Larsen](https://twitter.com/kasperbolarsen)  (Fellowmind Denmark) | @kasperbolarsen
+- New [Add Content Type Hub with calendar format field to List](https://pnp.github.io/script-samples/spo-add-contenttypehub-format-field-to-List/README.html) by [André Lage](https://twitter.com/aaclage)  (Datalynx AG) | @aaclage
+- Updated [Export Term Store terms to CSV](https://pnp.github.io/script-samples/spo-export-termstore-terms-to-csv/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
+- New [Update content type of files in folder with system update](https://pnp.github.io/script-samples/spo-list-update-contenttype-systemupdate/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
+- New [Change the Placeholder text in SharePoint Search Box](https://pnp.github.io/script-samples/spo-search-change-placeholder-text/README.html) by [Ganesh Sanap](https://twitter.com/ganeshsanap20)  | @ganeshsanap20
+- New [Activate a site feature in SharePoint online](https://pnp.github.io/script-samples/spo-activate-site-feature/README.html) by [Ganesh Sanap](https://twitter.com/ganeshsanap20)  | @ganeshsanap20
+- New [Disable SharePoint List Commenting at tenant level](https://pnp.github.io/script-samples/spo-disable-list-comments-tenant/README.html) by [Ganesh Sanap](https://twitter.com/ganeshsanap20)  | @ganeshsanap20
+- New [Add/Update Image in SharePoint Image column](https://pnp.github.io/script-samples/spo-add-update-image-column/README.html) by [Ganesh Sanap](https://twitter.com/ganeshsanap20)  | @ganeshsanap20
+- New [Open Office documents in the Client](https://pnp.github.io/script-samples/spo-open-doc-in-client/README.html) by [Kasper Bo Larsen](https://twitter.com/kasperbolarsen)  (Fellowmind Denmark) | @kasperbolarsen
+- New [Sample on how to locate the classic Search Result Web part and check the Remove Duplicates setting](https://pnp.github.io/script-samples/spo-update-search-result-webparts/README.html) by [Kasper Bo Larsen](https://twitter.com/kasperbolarsen)  (Fellowmind Denmark) | @kasperbolarsen
+- New [Export all site pages details from Site Pages library](https://pnp.github.io/script-samples/spo-export-all-site-pages-details/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+- New [Export OneDrive Sites](https://pnp.github.io/script-samples/export-onedrive-sites-details-to-csv/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+- Updated [Delete orphaned temporary pages from Site Pages](https://pnp.github.io/script-samples/spo-delete-orphaned-temporary-sitepages/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
+- Updated [Export OneDrive Sites](https://pnp.github.io/script-samples/export-onedrive-sites-details-to-csv/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+- Updated [Add bulk users to SharePoint site groups from CSV.](https://pnp.github.io/script-samples/spo-add-bulk-users-to-groups/README.html) by [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+- New [Sample showing how to apply a custom Form Formatting as part of your Site Provisioning](https://pnp.github.io/script-samples/spo-apply-custom-form-formatting-json/README.html) by [Kasper Bo Larsen](https://twitter.com/kasperbolarsen)  (Fellowmind Denmark) | @kasperbolarsen
+-  [Delete all resources from a resource group](https://pnp.github.io/script-samples/azure-delete-allresources-resourcegroup/README.html) by [Arjun Menon](https://twitter.com/arjunumenon)  (Tata Consultancy Services) | @arjunumenon
+- New [Copy the folder structure of a directory to a SharePoint List](https://pnp.github.io/script-samples/spo-copy-directory-structure-to-sharepoint-list/README.html) by [Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
+- New [Gets usage from a particular user(s) or site(s) from the Unified Audit Log](https://pnp.github.io/script-samples/spo-get-usage-from-audit-logs/README.html) by [Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
+- New [Download all the content type document templates files associated with a library](https://pnp.github.io/script-samples/spo-list-download-contenttype-documenttemplate/README.html) by [Leon Armston](https://twitter.com/LeonArmston)  (Intelogy) | @LeonArmston
+- New [Add dummy folders and files](https://pnp.github.io/script-samples/spo-add-dummy-folders-and-files/README.html) by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo)  | @reshmeeauckloo
+
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative.
 
@@ -662,6 +686,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Kevin McDonnell](https://twitter.com/kevmcdonk) (CPS) | @kevmcdonk
 * [Kristine Kolodziejski](kristinekk94) (Computacenter) | @kristinekk94  
 * Konrad K. | wilecoyotegenius
+* [Kasper Bo Larsen](https://twitter.com/kasperbolarsen)  (Fellowmind Denmark) | @kasperbolarsen
 * Lama | Lama-alluwaymi
 * Landon Petzoldt | clurdish
 * [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
@@ -721,7 +746,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * Rolf Isler | Tripplefix
 * Ronald Booden | rjbooden
 * Rosa Alice | alicelupsan
-* x[Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
+* [Russell Gove](https://twitter.com/russgove)  (Tronox) | @russgove
 * Sagar Vishwakarma | sagar7046
 * Saintenr | Saintenr
 * salascz | salascz
@@ -745,7 +770,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Thomas Barnekow](https://twitter.com/thbarnekow) (Analog Devices) | @thbarnekow
 * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 * x[Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | @Toddbaginski
-* x[Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
+* [Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
 * [Tony Philips](https://twitter.com/TonyMSTeams) (Cloud Design Box) | @TonyMSTeams 
 * x[Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) | @Troystaylor
 * [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
