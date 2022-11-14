@@ -876,6 +876,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Wictor Wilen](https://twitter.com/wictor)(Microsoft) | @Wictor
 * x[Vincent Biret](https://twitter.com/baywet) (Microsoft) | @baywet
 * xVictoria Iannotti (Microsoft)
+
 MVP Community team manages the Microsoft 365 platform community work in the GitHub and also coordinates different open-source projects around Microsoft 365 topics. Platform Community Team members have a significant impact on driving adoption of Microsoft 365 topics. They have shown their commitment to the open-source and community-driven work by constantly contributing to the benefit of the others in the community.
 
 Thank you for all that you do!
