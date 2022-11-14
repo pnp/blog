@@ -594,17 +594,18 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Arash Aghajani](ps://twitter.com/AghajaniArash) | @AghajaniArash
 *   [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
 *   [Arleta Wanat](https://github.com/PowershellScripts) | PowershellScripts
-*   x[Arun Kumar Perumal](https://twitter.com/@arun_perumal16 ) | @arun_perumal16
+*   [Arun Kumar Perumal](https://twitter.com/@arun_perumal16 ) | @arun_perumal16
 *   x[Ashish Kumar Baranwal](https://www.twitter.com/ashish2baranwal) (Tata) | @ashish2baranwal
 *   [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
 *   x[Ben Kereopa-Yorke](https://www.github.com/Benjamin-KY) (Telstra) | Benjamin-KY
 *   x[Benny Killua](https://twitter.com/Bennykillua) | @Bennykill
 *   x[Brenden Salter](https://www.twitter.com/GinjaCodeNinja) (Northern Computer) | @GinjaCodeNinja
-*   [Cameron Dwyer](https://twitter.com/CameronDwyer) ( One Place Solutions) | @CameronDwyer
+*   [Cameron Dwyer](https://twitter.com/CameronDwyer) (One Place Solutions) | @CameronDwyer
 *   Chad Eiserloh | c-eiser13
 *   x[Chris Aragao](https://www.twitter.com/aragaocb) | @aragaocb
 *   [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
 *   Chris Palmer | chris-p-source
+*   Chris Piasecki (CGI) 
 *   x[Christian Zuellig](https://github.com/czullu) (MondayCoffee) | czullu
 *   x[Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
 *   [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
@@ -625,7 +626,8 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xElinor | ElinorW
 *   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 *   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
-*   x[Emanuele Bartolesi](https://twitter.com/kasuken) (SoftwareONE) | @kasuken  
+*   [Emanuele Bartolesi](https://twitter.com/kasuken) (SoftwareONE) | @kasuken  
+*   [Eric Legault](https://twitter.com/elegault) (Eric Legault Consulting) | @elegault
 *   x[Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
 *   [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) | @Erwinvanhunen
 *   [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
@@ -725,12 +727,13 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   salascz | salascz
 *   x[Sami Stephan](https://www.github.com/sstephan01) (SubCom, LLC) | sstephan01
 *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
-*   x[Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
+*   [Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
 *   [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh\_me
-*   x[Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy
-*   x[Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @Simonjhudson
+*   [Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy
+*   [Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @Simonjhudson
 *   Simone Lin | SimonL26
 *    x[Sivam Pandey](https://www.twitter.com/sivamspandey) (HCL Technologies) | @sivamspandey
+
 *    SlowRobot | SlowRobot
 *   x[Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
 *   Sohil Bhalla | sohilbhalla
@@ -796,6 +799,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @sharepointalex
 *   xAlex Kwan (Microsoft)
 *   [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
+*   Andrew Friedman (Microsoft)
 *   xAndrew Omondi (Microsoft)  
 *   Ankit Rastogi (Microsoft)   
 *   [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
@@ -805,15 +809,18 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
 *   [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 *   [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | BrianTJackett
+*   Brijesh Bharadwaj (Microsoft)
 *   Cameron Parker (Microsoft)
-*   x[Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @Catpaint
+*   [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @Catpaint
 *   xChris Dietsch (Microsoft)
 *   [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 *   [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
 *   x[David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
 *   [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
-*   x[Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @Laskewitz
-*   [Dona Sarkar](https://twitter.com/donasarkar) (Microsoft) | @DonaSarkar
+*   Daniel Carrasco (Microsoft)
+*   [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @Laskewitz
+*   [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @dcpadur
+*   x[Dona Sarkar](https://twitter.com/donasarkar) (Microsoft) | @DonaSarkar
 *   xDivyanka Malik (Microsoft)
 *   Eoin O'Brien (Microsoft) 
 *   x[Erin Bailie](https://twitter.com/EMBailie) (Microsoft) | @EMBailie
@@ -821,6 +828,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 *   [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
 *   xGloria Sánchez (Microsoft) 
+*   [Graham Sheldon](https://twitter.com/gsheldon) (Microsoft) | @gsheldon
 *   [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
 *   xIsaac Vargas Chacon (Microsoft)
 *   [Juan Balmori](https://twitter.com/@juaneloBalmori) ( Microsoft) | @juaneloBalmori
@@ -828,7 +836,8 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[Jos Verlinde](https://github.com/Josverl) (Microsoft) Josverl
 *   Josef Benda | SmarterJB
 *   [J.P. Roca](https://twitter.com/jpthepm ) (Microsoft) | @jpthepm 
-*   x[Koen Zomers](https://twitter.com/koenzomers) (Microsoft) | @Koenzomers
+*   [Koen Zomers](https://twitter.com/koenzomers) (Microsoft) | @Koenzomers
+*   Krishna Mawani (Microsoft)
 *   x[Laura Graham](https://github.com/Lauragra) (Microsoft) | Lauragra
 *   [Linda Lu Cannon](https://github.com/lindalu-MSFT) - (Microsoft) | lindalu-MSFT
 *   x[Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband
@@ -839,7 +848,9 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Merill Fernando](https://twitter.com/merill) (Microsoft) | @merill
 *   x[Michelle Sanchez](https://www.twitter.com/TheLoadingPoint) (Microsoft) | @TheLoadingPoint
 *   [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @Mikaelsvenson
+*   Namrata Khubchandani (Microsoft)
 *   [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1
+*   Nick Kramer (Microsoft)
 *   [Nik Charlebois](https://twitter.com/NikCharlebois) (Microsoft) | @nikCharlebois
 *   x[Nicolas Vogt](https://github.com/vogtn) (Microsoft) | vogtn
 *   [Nickii Miaro](https://github.com/Mnickii) (Microsoft) | Nickii Miaro
@@ -847,13 +858,18 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   x[Pankaj Surti](https://twitter.com/pankajsurti ) (Microsoft) | @pankajsurti 
 *   x[Pam Green](https://www.twitter.com/contextuallib) (Microsoft) | @Contextuallib
 *   [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
+*   Philip Li (Microsoft)
 *   xPranshu Kumar (Microsoft)
 *   [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
 *   [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
 *   [Richard A. Wilson](https://twitter.com/PowerAppsRAW) (Microsoft) | @PowerAppsRAW 
 *   xSam Ramon (Microsoft)
 *   [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
+*   Sreekanth Thirthala Venkata (Microsoft)
+*   Tarkan Sevilmis (Microsoft)
 *   [Todd Anglin](https://twitter.com/ToddAnglin) (Microsoft) | @ToddAnglin 
+*   Tomas Chladek (Microsoft)
+*   [Tomomi Imura](https://twitter.com/girlie_mac) (Microsoft) | @Girlie\_mac
 *   xTricia Van Hollebeke (Microsoft)
 *   Troy Starr (Microsoft) | TroyStarr
 *   [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
@@ -866,6 +882,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Yina Arenas](https://twitter.com/yina_arenas) (Microsoft) | @yina_arenas
 *   Yun Wang (Microsoft)
 *   xZac Sun (Microsoft) 
+*   Zhidi Shang (Microsoft)
 
 ### MVP Community team
 

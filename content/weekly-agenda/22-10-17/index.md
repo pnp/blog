@@ -102,7 +102,7 @@ Update of the newly created videos in our two YouTube channels which are the [Mi
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
 * [Ignite 2022: Transforming collaboration with low and pro code dev tools](https://devblogs.microsoft.com/microsoft365dev/ignite-2022-transforming-collaboration-with-low-and-pro-code-dev-tools/) by [Ben Summers](https://twitter.com/bensum365) (Microsoft) | @bensum365
-* [Want to embed Microsoft Teams in your app? Here’s how](https://devblogs.microsoft.com/microsoft365dev/) by omas Chladek (Microsoft) and Daniel Carrasco (Microsoft)
+* [Want to embed Microsoft Teams in your app? Here’s how](https://devblogs.microsoft.com/microsoft365dev/) by Tomas Chladek (Microsoft) and Daniel Carrasco (Microsoft)
 * [Scale access to Microsoft 365 data with Microsoft Graph Data Connect](https://devblogs.microsoft.com/microsoft365dev/boost-your-microsoft-teams-app-experience-with-new-link-unfurling-capabilities/) by Philip Li (Microsoft)
 * [App Compliance Automation Tool for Microsoft 365 launching in public preview](https://devblogs.microsoft.com/microsoft365dev/app-compliance-automation-tool-for-microsoft-365-launching-in-public-preview/) by Sreekanth Thirthala Venkata (Microsoft)
 * [Announcing updates to Microsoft Teams API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/announcing-updates-to-microsoft-teams-api-in-microsoft-graph/) by Nick Kramer (Microsoft)
