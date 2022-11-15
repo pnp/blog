@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 187"
-summary: "US/India based Microsoft Principal Product Manager - DC Padur joins Microsoft’s Vesa Juvonen in a discussion on role of a Principal Product Manager, personal networking, working remotely and asynchronously on WW team, plus 16 articles/videos by Microsoft/Community are highlighted."
-date: 2022-11-07T02:00:01-00:00
+summary: "Spain based SharePoint and Cloud Solution Architect Luis Máñez (ClearPeople) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on using PnP contributions in products, SPFx sample using Kiota, advice on becoming an MVP, plus 13 articles/videos by Microsoft/Community."
+date: 2022-11-14T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,20 +9,26 @@ images:
 - images/pnp-weekly-187-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=K-CMcEeyUok
-draft: true
+- https://www.youtube.com/watch?v=qhidaxkwW1Y
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US/India based Microsoft Principal Product Manager - [DC Padur](https://twitter.com/dcpadur) \| @dcpadur.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Velencia, Spain based SharePoint and Cloud Solution Architect and Microsoft MVP [Luis Máñez](https://twitter.com/luismanez) (ClearPeople) \| @luismanez.
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* Luis’ role as Chief Architect for ClearPeople and the organization's Atlas digital workspace solution.
+* Weighing your personal preference for product vs consulting project work?
+* Impact of incorporating community contributions in a commercial product and how open-source may influence how the product is built?
+* How have digital workspace products evolved in last 15 years?
+* Is there still room for partner solutions with all of the Microsoft capabilities being rolled out?
+* Tell us about your recent SPFx sample for API generation using Kiota.
+* Why you spend time coordinating Community Meet-ups and what is the role of in-person events today?
+* What are your recommendations to others wanting to be an MVP.
+* Referenced during discussion
+    * Sample - [React Kiota Custom API Client](https://adoption.microsoft.com/sample-solution-gallery/sample/pnp-sp-dev-fx-webparts-react-kiota-custom-api-client/) 
+    * Article - Using Microsoft Kiota tool to generate Atlas API SDKs 
+    * Article - Using a Kiota client for your API in a SharePoint framework solution 
 
 Also, we showcased 13 articles/videos published by Microsoft and the PnP Community in the last week.
 
@@ -33,9 +39,9 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Monday, November 14, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube K-CMcEeyUok >}}
+    {{< youtube qhidaxkwW1Y >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-xyxgw-130a0da >}}   
+    {{< podbean pb-zufjw-1314b06 >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -43,7 +49,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Microsoft articles
 
-* [16 New Independent Publisher Connectors in October 2022](https://powerautomate.microsoft.com/en-us/blog/16-new-independent-publisher-connectors-in-october-2022/) - Amjed Ayoub (Microsoft)
+* [16 New Independent Publisher Connectors in October 2022](https://powerautomate.microsoft.com/blog/16-new-independent-publisher-connectors-in-october-2022/) - Amjed Ayoub (Microsoft)
 * [Microsoft Teams Toolklit for Visual Studio Code v5.1.2](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) - Microsoft
 
 ## Community articles
