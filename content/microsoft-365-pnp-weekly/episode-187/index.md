@@ -26,9 +26,9 @@ In this installment of the weekly discussion revolving around the latest news an
 * Why you spend time coordinating Community Meet-ups and what is the role of in-person events today?
 * What are your recommendations to others wanting to be an MVP.
 * Referenced during discussion
-    * Sample - [React Kiota Custom API Client](https://adoption.microsoft.com/sample-solution-gallery/sample/pnp-sp-dev-fx-webparts-react-kiota-custom-api-client/) 
-    * Article - Using Microsoft Kiota tool to generate Atlas API SDKs 
-    * Article - Using a Kiota client for your API in a SharePoint framework solution 
+    *   Sample - [React Kiota Custom API Client](https://adoption.microsoft.com/sample-solution-gallery/sample/pnp-sp-dev-fx-webparts-react-kiota-custom-api-client/)
+    *   Article - [Using Microsoft Kiota tool to generate Atlas API SDKs](https://www.clearpeople.com/blog/microsoft-kiota-tool-to-generate-atlas-api-sdks)
+    *   Article - [Using a Kiota client for your API in a SharePoint framework solution](https://www.clearpeople.com/blog/howto-kiota-client-api-sharepoint-framework-solution)
 
 Also, we showcased 13 articles/videos published by Microsoft and the PnP Community in the last week.
 
