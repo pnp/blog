@@ -32,6 +32,12 @@ In this installment of the weekly discussion revolving around the latest news an
 
 Also, we showcased 13 articles/videos published by Microsoft and the PnP Community in the last week.
 
+## This week
+
+* **Luis** – merging PRs on PnP samples, traveling to Madrid on Friday to speak about Kiota,
+* **Waldek** – co-presenting at 30 Days of Microsoft Graph Challenge, working on a new tool to help everyone work with Microsoft Graph, celebrating the 5th birthday for CLI for Microsoft 365 on Thursday, SBC Samples work, etc.
+* **Vesa** SPFx v1.16 GA is released this week
+
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
