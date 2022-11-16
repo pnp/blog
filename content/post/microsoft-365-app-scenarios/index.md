@@ -1,6 +1,6 @@
 ---
 title: "M365 Across App scenarios - Teams apps and SPFx"
-date: 2022-11-07T10:30:12.185Z
+date: 2022-11-16T11:15:00.000Z
 author: "Markus Moeller"
 githubname: mmsharepoint
 categories: ["Community post"]
