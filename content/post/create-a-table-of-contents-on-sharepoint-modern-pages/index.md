@@ -1,6 +1,6 @@
 ---
 title: "Create a Table of Contents (TOC) on SharePoint Modern Pages"
-date: 2022-04-25T08:40:00-04:00
+date: 2022-11-15T08:40:00-04:00
 author: "Keith Craigo"
 githubname: kcraigo
 # don't change
@@ -9,13 +9,14 @@ categories: ["Community post"]
 images:
 - images/toc-thumbnail.png
 # don't change
-tags: []
+tags: ["SharePoint"]
 # don't change
 type: "regular"
+draft: true
 ---
 
 
-## Background ##
+## Background
 
 I find that the Modern SharePoint Page is a fantastic place for creating tutorials, articles, and even some ramblings to share with your co-workers.
 With all the out of the box web parts you can, if you have the permissions to do so of course, create some great content to help others in your organization.
@@ -25,18 +26,16 @@ Others including Engineers in the IT department started showing interest in some
 So I decided a few years ago to start putting a lot of my developer notes into the company wiki pages and then eventually decided a SharePoint Modern Page was a better platform. 
 
 
-In this new modern page I started writing about developing with the PnP Library, Power Platform, React, Angular, SharePoint, some best practices & internal resources from the perspective of a worker who is not part of the IT organization who would normally develop the internal apps. 
-Much of my experience was before the term "Citizen Developer" was coined, before then I would have been called a rogue programmer or something else.
+In this new modern page I started writing about developing with the PnP Library, Power Platform, React, Angular, SharePoint, some best practices & internal resources from the perspective of a worker who is not part of the IT organization who would normally develop the internal apps. Much of my experience was before the term "Citizen Developer" was coined, before then I would have been called a rogue programmer or something else.
 
 
-This page has become somewhat long not quite a Novel but long enough.  
-As time permits, I'll need to structure the topics into a more managable and digestible fashion. 
-In the meantime, I thought it would be a fun exercise and helpful to create a Table of Contents for this page. 
+This page has become somewhat long not quite a Novel but long enough. As time permits, I'll need to structure the topics into a more managable and digestible fashion. In the meantime, I thought it would be a fun exercise and helpful to create a Table of Contents for this page. 
 
-### Side Note ###
+### Side Note
 I have created some videos about creating a TOC on my personal YouTube - https://www.youtube.com/@WebDevByTheBay
 
-## Create the TOC ##
+## Create the TOC
+
 I believe you could accomplish this by creating a custom web part with SPFx but implementing custom web parts in my organization is not that easy, so I will only cover the Text Editor web part & the Markdown Editor web part.
 
 Copying the headers is an (optional) step for either the Text Editor web part or the Markdown Editor web part.
