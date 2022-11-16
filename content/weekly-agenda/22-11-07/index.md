@@ -51,7 +51,7 @@ Also: 📷 Picture Time with community in Together Mode!
 Demos: 
 
 * [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells - Using Microsoft Syntex Bulk Content Assembly to automatically generate documents
-* [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @laskwitz and [Manuala Pichler](https://twitter.com/ManuelaPichler) (Microsoft) | @ManuelaPichler_ - Power Platform Communication Site Template
+* [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @laskewitz and [Manuela Pichler](https://twitter.com/ManuelaPichler_) (Microsoft) | @ManuelaPichler_ - Power Platform Communication Site Template
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -74,7 +74,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 * [Power Automate and Microsoft Teams approvals advanced scenarios](https://www.youtube.com/watch?v=bFEqxMRnSVo) by [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 * [Latest branding capabilities for modern SharePoint sites](https://www.youtube.com/watch?v=4YImHhGmJJ4) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1
 * [Build your first Command bot for Microsoft Teams with Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=3skgtkJ1McQ) by [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder
-* [How to build a good vibes generator bot for Microsoft Teams](https://www.youtube.com/watch?v=ex76o2E_WfI) by Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese and [Lee Ford](https://twitter.com/lee_ford) ( Symity) | @Lee\_Ford
+* [How to build a good vibes generator bot for Microsoft Teams](https://www.youtube.com/watch?v=ex76o2E_WfI) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese and [Lee Ford](https://twitter.com/lee_ford) ( Symity) | @Lee\_Ford
 
 ---
 
