@@ -1,18 +1,19 @@
 ---
-title: "Create a Table of Contents (TOC) on SharePoint Modern Pages"
-date: 2022-11-15T08:40:00-04:00
-author: "Keith Craigo"
+title: Create a Table of Contents (TOC) on SharePoint Modern Pages
+date: 2022-11-16T10:09:33.878Z
+author: Keith Craigo
 githubname: kcraigo
 # don't change
-categories: ["Community post"]
+categories:
+  - Community post
 # link to the thumbnail image for the post
 images:
-- images/toc-thumbnail.png
+  - images/toc-thumbnail.png
 # don't change
-tags: ["SharePoint"]
+tags:
+  - SharePoint
 # don't change
-type: "regular"
-draft: false
+type: regular
 ---
 
 ## Background
@@ -20,13 +21,11 @@ draft: false
 I find that the Modern SharePoint Page is a fantastic place for creating tutorials, articles, and even some ramblings to share with your co-workers.
 With all the out of the box web parts you can, if you have the permissions to do so of course, create some great content to help others in your organization.
 
-
 Others including Engineers in the IT department started showing interest in some of the technologies I was using to develop apps for my department. 
 So I decided a few years ago to start putting a lot of my developer notes into the company wiki pages and then eventually decided a SharePoint Modern Page was a better platform. 
 
 
 In this new modern page I started writing about developing with the PnP Library, Power Platform, React, Angular, SharePoint, some best practices & internal resources from the perspective of a worker who is not part of the IT organization who would normally develop the internal apps. Much of my experience was before the term "Citizen Developer" was coined, before then I would have been called a rogue programmer or something else.
-
 
 This page has become somewhat long not quite a Novel but long enough. As time permits, I'll need to structure the topics into a more manageable and digestible fashion. In the meantime, I thought it would be a fun exercise and helpful to create a Table of Contents for this page. 
 
