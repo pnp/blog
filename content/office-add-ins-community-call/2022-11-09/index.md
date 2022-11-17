@@ -38,8 +38,8 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 * **Work with partial documents in PowerPoint.** Large files laden with graphics and videos are often broken up for faster download. This presentation explains capabilities and implications for add-ins developers working with partial documents including error handling, impacted APIs, and office.js API calls that may return errors. In Preview.     
 * **Content control enhancements in Word Online.** This presentation covers new and upcoming enhancements to content controls in Word including those created via UI and programmatically (Word for Windows) and those created with Rich Text in Office.js (Word Online). What’s new and in the pipeline.   
-* **Search Bar for Office Add-ins.** Helping users find their add-ins. Users can search for installed add-ins from the search box (TellMe) on the top of the Word, Excel and PowerPoint documents. Supports user installed add-ins and admin deployed add-ins. Configure a default task pane if your add-in only has only one task pane or had designated a default task pane.
-  
+* **Search Bar for Office Add-ins.** Learn how users can use TellMe to search for installed add-ins from the search box in Word, Excel and PowerPoint documents. Supports user installed add-ins and admin deployed add-ins.
+
 ## Call to action
 * Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel. 
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
@@ -56,11 +56,11 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 * Please complete the [Office add-in developing experience survey](https://forms.office.com/r/wmzCgccbPa)
 
 ## Q&A (Question & Answers)
-**We'd also love an update on https://github.com/OfficeDev/office-js/issues/2955 - Outlook OWA UI has been updated for some users and there is no way for them to open add-ins in compose mode. Major issue.**
+**We'd also love an update on [GitHub issue](https://github.com/OfficeDev/office-js/issues/2955) - Outlook OWA UI has been updated for some users and there is no way for them to open add-ins in compose mode. Major issue.**
 
 We've assigned the issue to the Outlook team for further investigation. 
 
-**Hi, anyone working on Outlook add-in - SSO with .Net Core - adding Authentication in Middleware. and adding redirect URI? This works in Outlook windows app but fails in Outlook from browser.**
+**Hi, anyone working on Outlook add-in - SSO with .Net Core - adding Authentication in Middleware. and adding redirect URI? This works in Outlook on Windows but fails in Outlook on the web.**
 
 We usually debug SSO issues with the browser dev tools. If you haven't already, please submit a [GitHub issue](https://github.com/OfficeDev/office-js/issues), so that we can assist you further.
 
