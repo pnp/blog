@@ -1,25 +1,28 @@
 ---
-title: "Create a Table of Contents (TOC) on SharePoint Modern Pages"
-date: 2022-11-15T08:40:00-04:00
-author: "Keith Craigo"
+title: Create a Table of Contents (TOC) on SharePoint Modern Pages
+date: 2022-11-16T10:09:33.878Z
+author: Keith Craigo
 githubname: kcraigo
 # don't change
-categories: ["Community post"]
+categories:
+  - Community post
 # link to the thumbnail image for the post
 images:
-- images/toc-thumbnail.png
+  - images/toc-thumbnail.png
 # don't change
-tags: ["SharePoint"]
+tags:
+  - SharePoint
 # don't change
+
 type: "regular"
 draft: false
+
 ---
 
 ## Background
 
 I find that the Modern SharePoint Page is a fantastic place for creating tutorials, articles, and even some ramblings to share with your co-workers.
 With all the out of the box web parts you can, if you have the permissions to do so of course, create some great content to help others in your organization.
-
 
 Others including Engineers in the IT department started showing interest in some of the technologies I was using to develop apps for my department. 
 So I decided a few years ago to start putting a lot of my developer notes into the company wiki pages and then eventually decided a SharePoint Modern Page was a better platform. 
