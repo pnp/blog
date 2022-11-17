@@ -53,7 +53,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
 * [Join the next Office Add-ins community call](https://aka.ms/officeaddinscommunitycall) on December 14th at 8:00 AM Pacific Time.
-* Please complete the [Office add-in developing experience survey](https://forms.office.com/r/wmzCgccbPa)
+
 
 ## Q&A (Question & Answers)
 **We'd also love an update on [GitHub issue](https://github.com/OfficeDev/office-js/issues/2955) - Outlook OWA UI has been updated for some users and there is no way for them to open add-ins in compose mode. Major issue.**
