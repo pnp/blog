@@ -1,6 +1,6 @@
 ---
 title: "Office Add-ins developer platform community call – November 9, 2022"
-summary: "This month's community call topics include Working with Partial Documents in PowerPoint (Large files are broken up for faster downloading) by John Teichman - Principal Product Manager(Microsoft) and Onur Onder - Senior Software Engineer (Microsoft), Content control enhancements in Word Online (what’s new and in the works) by Maja Damjanić - Senior Product Manager (Microsoft) and Search Bar for Office Add-ins (Help users find their add-ins) by Adrian Wu: Senior Product Manager (Microsoft), and Q&A at end of call and in chat throughout call. The call was hosted by Preethika Kiruveedula (Microsoft)."
+summary: "Topics include PowerPoint: Working with Partial Documents by John Teichman and Onur Onder, Word: Content control enhancements in Word Online  by Maja Damjanić, and Office Add-ins: Search Bar for Office Add-ins by Adrian Wu. The call was hosted by Preethika Kiruveedula (Microsoft)."
 date: 2022-11-09T08:01:00-05:00
 author: "Preethika Kiruveedula"
 githubname: preethikakiru
