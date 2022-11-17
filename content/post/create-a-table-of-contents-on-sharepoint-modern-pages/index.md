@@ -13,7 +13,10 @@ images:
 tags:
   - SharePoint
 # don't change
-type: regular
+
+type: "regular"
+draft: false
+
 ---
 
 ## Background
@@ -26,6 +29,7 @@ So I decided a few years ago to start putting a lot of my developer notes into t
 
 
 In this new modern page I started writing about developing with the PnP Library, Power Platform, React, Angular, SharePoint, some best practices & internal resources from the perspective of a worker who is not part of the IT organization who would normally develop the internal apps. Much of my experience was before the term "Citizen Developer" was coined, before then I would have been called a rogue programmer or something else.
+
 
 This page has become somewhat long not quite a Novel but long enough. As time permits, I'll need to structure the topics into a more manageable and digestible fashion. In the meantime, I thought it would be a fun exercise and helpful to create a Table of Contents for this page. 
 
