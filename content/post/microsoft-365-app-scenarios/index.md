@@ -5,7 +5,7 @@ author: "Markus Moeller"
 githubname: mmsharepoint
 categories: ["Community post"]
 images:
-- images/TeamsOfficeOutlookLogo.jpg
+- images/TeamsOfficeOutlookLogo.png
 tags: []
 type: "regular"
 summary: "This post shall show various application development scenarios that can be used across different products inside Microsoft 365. The basis for this can either be SharePoint Framework (SPFx) or Teams application development."

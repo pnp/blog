@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 21st of November 2022 week
-date: 2022-11-17T12:47:10.699Z
+date: 2022-11-17T06:47:10.699Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -9,7 +9,7 @@ images:
   - images/weeklyagenda47.png
 tags: []
 type: regular
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -30,7 +30,7 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 Demos: 
 
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen - Creating SPFx powered multi-tab solution using Microsoft Teams Toolkit
-* [Bill Baer](https://twitter.com/billbaer) (Microsoft) | @billbaer - Search Usage Reports
+* [Bill Baer](https://twitter.com/billbaer) (Microsoft) | @billbaer - What’s new for Microsoft Search Usage reports
 * [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs  - Build your first Notification bot in C# for Microsoft Teams with Teams Toolkit for Visual Studio
 
 
@@ -53,12 +53,14 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
+
 ## New videos
 
 Update of the newly published videos in our two YouTube channels which are the [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) or [Microsoft 365 Developer](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ) channels.
 
 ### Microsoft 365 Community Channel
 
+* [Access Microsoft Teams meeting details in a meeting app](https://www.youtube.com/watch?v=1GWRmmELYcI) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Building a Copy Views SharePoint Framework Web Part](https://www.youtube.com/watch?v=x7BRYidNKRg&t=5s) by [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
 * [Extend Microsoft Teams apps to Office and Outlook Mobile](https://www.youtube.com/watch?v=kcHBiXUxHzU&t=2s) by Sheena Makker (Microsoft) and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Power Pages - General Availability – Getting started](https://www.youtube.com/watch?v=HjTmdFGCbqE&t=4s) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh 
@@ -66,10 +68,12 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 ---
 
+
 ## New Microsoft 365 Developer Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [Security, governance and privacy built into Microsoft Graph Data Connect](https://devblogs.microsoft.com/microsoft365dev/security-governance-and-privacy-built-into-microsoft-graph-data-connect/) by Philip Li (Microsoft)
 * [App Compliance Automation Tool for Microsoft 365 is now in public preview](https://devblogs.microsoft.com/microsoft365dev/app-compliance-automation-tool-for-microsoft-365-is-now-in-public-preview/) by Sreekanth Thirthala Venkata (Microsoft)
 * [Build a stock update notification bot using C# and Teams Toolkit for Visual Studio](https://devblogs.microsoft.com/microsoft365dev/build-a-stock-update-notification-bot-for-microsoft-teams-using-c-and-teams-toolkit-for-visual-studio/) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Announcing general availability of SharePoint Framework 1.16 – Enabling SPFx across Microsoft 365 platform](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-sharepoint-framework-1-16-enabling-spfx-across-microsoft-365-platform/)
@@ -81,8 +85,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
+* [M365 Across App scenarios - Teams apps and SPFx](https://pnp.github.io/blog/post/microsoft-365-app-scenarios/) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Create a Table of Contents (TOC) on SharePoint Modern Pages](https://pnp.github.io/blog/post/create-a-table-of-contents-on-sharepoint-modern-pages/) by [Keith Craigo](https://twitter.com/KeithCraigo) | @KeithCraigo
-
 
 ---
 
@@ -90,11 +94,13 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Viva Connections & SharePoint Framework Community Call – 17th of November, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-11-17/)
 * [Power Platform Community Call – November 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-november-2022/)
 * [Microsoft 365 Platform Community Call - 15th of November, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-11-15/)
 * [Adaptive Cards community call – November 2022](https://pnp.github.io/blog/adaptive-cards-community-call/adaptive-cards-community-call-november-2022/)
 
 ---
+
 
 ## Sharing is Caring sessions
 
