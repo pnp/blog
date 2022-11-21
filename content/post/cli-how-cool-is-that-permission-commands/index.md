@@ -1,6 +1,6 @@
 ---
 title: "CLI for Microsoft 365 - how cool is that? - Permission commands"
-date: 2022-11-07T02:44:24+06:00
+date: 2022-11-20T02:44:24+06:00
 # post thumb
 images:
   - images/main.png
