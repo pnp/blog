@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 188"
-summary: "Spain based SharePoint and Cloud Solution Architect Luis Máñez (ClearPeople) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on using PnP contributions in products, SPFx sample using Kiota, advice on becoming an MVP, plus 13 articles/videos by Microsoft/Community."
-date: 2022-11-14T02:00:01-00:00
+summary: "Finland based Modern Work Lead and Microsoft MVP Karoliina Kettukari (Meltlake) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on adoption, governance, Viva, employee champions, becoming an MVP, plus 23 articles/videos by Microsoft/Community are highlighted."
+date: 2022-11-21T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,41 +9,44 @@ images:
 - images/pnp-weekly-188-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=qhidaxkwW1Y
-draft: true
+- https://www.youtube.com/watch?v=r0dA0X3NSOo
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Velencia, Spain based SharePoint and Cloud Solution Architect and Microsoft MVP [Luis Máñez](https://twitter.com/luismanez) (ClearPeople) \| @luismanez.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Finland based Modern Work Lead and Microsoft MVP [Karoliina Kettukari](https://twitter.com/kettukari) (Meltlake) \| @kettukari.
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* Customer maturity level - we have the technologies, now how do we best utilize them?
+* What is the need for a Governance plan?
+* What are simple Teams capabilities that deliver big impact?
+* Employee Champions network as a way to communicate success, adoption, activity.
+* How are people working and collaborating today?
+* Too many communications tools used for same purposes. Need to minimize context switching.
+* Governance starts at the team level.
+* What is the demand for Viva across Scandinavia?
+* Where should Microsoft invest on Viva?
+* Tips on becoming an MVP.
+* What are the most exciting Viva Features?
 
-Also, we showcased 22 articles/videos published by Microsoft and the PnP Community in the last week.
+Also, we showcased 23 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
-* **Luis** – 
-* **Waldek** – 
-* **Vesa** - 
+* **Karoliina** – finishing up 2 presentations to be delivered at [ESPC22](https://www.sharepointeurope.com/) next week.
+* **Waldek** – preparing CLI for Microsoft 365 v6.0 to go live at end of month Unveiling something exciting at ESPC22.
+* **Vesa –** Prepping for ESPC22 keynote and community video work.
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, November 14, 2022.
+This session was recorded on Monday, November 21, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube qhidaxkwW1Y >}}
+    {{< youtube r0dA0X3NSOo >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-zufjw-1314b06 >}}   
+    {{< podbean pb-tkirn-131dfc0 >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -53,9 +56,9 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [Introducing Sign Language View for Teams Meetings](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-sign-language-view-for-teams-meetings/ba-p/3671257) - Chris Sano (Microsoft), Elisabeth Jones (Microsoft)
 * [The Future of Employee Learning](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/the-future-of-employee-learning/ba-p/3678338) - Andrea Lum (Microsoft)
-* [November 2022 update of Power Automate for desktop](https://flow.microsoft.com/en-us/blog/november-2022-update-of-power-automate-for-desktop/) - Yiannis Mavridis (Microsoft)
-* [New Process Advisor template enables deeper insight into bot conversation flows](https://powervirtualagents.microsoft.com/en-us/blog/new-process-advisor-template-enables-deeper-insight-into-bot-conversation-flows/) - Henry Jammes (Microsoft)
-* [Update: Release of Modern Learn page in Power Apps!](https://powerapps.microsoft.com/en-us/blog/update-release-of-modern-learn-page-in-power-apps/) - Zankar Desai (Microsoft)
+* [November 2022 update of Power Automate for desktop](https://flow.microsoft.com/blog/november-2022-update-of-power-automate-for-desktop/) - Yiannis Mavridis (Microsoft)
+* [New Process Advisor template enables deeper insight into bot conversation flows](https://powervirtualagents.microsoft.com/blog/new-process-advisor-template-enables-deeper-insight-into-bot-conversation-flows/) - Henry Jammes (Microsoft)
+* [Update: Release of Modern Learn page in Power Apps!](https://powerapps.microsoft.com/blog/update-release-of-modern-learn-page-in-power-apps/) - Zankar Desai (Microsoft)
 * [Announcing general availability of SharePoint Framework 1.16 – Enabling SPFx across Microsoft 365 platform](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-sharepoint-framework-1-16-enabling-spfx-across-microsoft-365-platform/) - Microsoft
 * [Build a stock update notification bot using C# and Teams Toolkit for Visual Studio](https://devblogs.microsoft.com/microsoft365dev/build-a-stock-update-notification-bot-for-microsoft-teams-using-c-and-teams-toolkit-for-visual-studio/) - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
 * [App Compliance Automation Tool for Microsoft 365 is now in public preview](https://devblogs.microsoft.com/microsoft365dev/app-compliance-automation-tool-for-microsoft-365-is-now-in-public-preview/) - Sreekanth Thirthala Venkata (Microsoft)
