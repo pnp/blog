@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 Platform Community Call - 22nd of November, 2022"  
-summary: "Demos - Build your first Notification bot in C\# for Microsoft Teams with Teams Toolkit for Visual Studio, What’s new for Microsoft Search Usage reports, and Creating SPFx powered multi-tab solution using Microsoft Teams Toolkit. 11 documents, 2 conversations delivered."
+summary: "Demos - Build your first Notification bot in C# for Microsoft Teams with Teams Toolkit for Visual Studio, What’s new for Microsoft Search Usage reports, and Creating SPFx powered multi-tab solution using Microsoft Teams Toolkit. 11 documents, 2 conversations delivered."
 date: 2022-11-22 02:00:00 +0000
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
