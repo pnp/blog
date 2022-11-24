@@ -18,8 +18,8 @@ tags:
   - Power Platform
   - Power Apps
   - Power Automate
-type: trending
-draft: false
+type: normal
+draft: true
 ---
 
 Microsoft 365 Platform Community (PnP) November 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
