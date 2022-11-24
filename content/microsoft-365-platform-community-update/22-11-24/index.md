@@ -271,7 +271,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 * [StefanSchoof](https://github.com/StefanSchoof) | StefanSchoof
 * [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
-* [Steve Beaugé](https://github.com/stevebeauge) | stevebeauge
+* [Steve Beaugé](https://github.com/stevebeauge) (Solutions pour SharePoint) | stevebeauge
 * [Takashi Shinohara](https://github.com/karamem0) (Avanade) | @karamem0
 * [techsnap](https://github.com/techsnap) | techsnap
 * [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
