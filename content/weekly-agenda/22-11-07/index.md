@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklyagenda45.png
 tags: []
-type: trending
+type: normal
 draft: false
 ---
 
