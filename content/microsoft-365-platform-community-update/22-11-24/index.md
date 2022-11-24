@@ -5,9 +5,8 @@ author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - Microsoft 365 Platform Community update
-# TODO Insert image
 images:
-  - images/november-2022-promo.png
+  - images/nov-22-promo.png
 tags:
   - Office Add-ins
   - Extensions
@@ -16,16 +15,21 @@ tags:
   - Microsoft Teams
   - SharePoint
   - SharePoint Framework (SPFx)
-type: regular
-draft: true
+  - Power Platform
+  - Power Apps
+  - Power Automate
+type: epic
+draft: false
 ---
 
-Microsoft 365 Platform Community (PnP) November 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of our community.
+Microsoft 365 Platform Community (PnP) November 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
+
+Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the community.
 
 >  *We are committed on building the best tech community in the world where everyone feels welcome and we help to empower each and every community member to achieve more.*
 
 
-### Main resources around Microsoft 365 Platform Community
+## Main resources around Microsoft 365 Platform Community
 
 * Microsoft 365 Platform Community - [https://aka.ms/m365/community](https://aka.ms/m365/community) - One location for all the resources and news around Microsoft 365 platform
 * Microsoft 365 and Power Platform samples - [https://aka.ms/m365/samples](https://aka.ms/m365/samples)
@@ -34,6 +38,14 @@ Microsoft 365 Platform Community (PnP) November 2022 update is out with a summar
 * Microsoft 365 Community Channel on YouTube - [https://aka.ms/m365/videos](https://aka.ms/m365/videos)
 * Microsoft 365 Developer YouTube channel - [https://aka.ms/m365/dev/videos](https://aka.ms/m365/dev/videos)
 
+We also partnerly closely with the Power Platform topics, so let's not forget the following assets
+
+* [Power Platform Community - Be a part of something bigger](https://powerusers.microsoft.com/)
+* [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform)
+
+Do not also forget the awesome events which are being organized across the world. See more details from the CommunityDays web site.
+
+* [Communty Days - CommunityDays.org](https://www.communitydays.org/)
 
 ## Microsoft 365 Platform Community Ecosystem in GitHub
 
@@ -48,16 +60,16 @@ Most of the community driven repositories are in the PnP GitHub organization as 
 
 ## Microsoft 365 PnP Recognition Program
 
-![thumbnail image 3 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/recognitionprogram.png)
+![thumbnail image 3 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/pnp-recorgnition-program.png)
 
-We are excited to announce new community contributor program for all the active community members. Through this program you can get officially acknowledged with the a [Credly badge](https://www.credly.com/org/m365pnp/badge/community-contributor-2021) around your work on our open-source and community channels. See more from
+We are excited to announce new community contributor program for all the active community members. Through this program you can get officially acknowledged with the a [Credly badge](https://www.credly.com/org/m365pnp/badge/community-contributor-2022) around your work on our open-source and community channels. See more from
 
 [https://pnp.github.io/recognitionprogram/](https://pnp.github.io/recognitionprogram/). Thank you for being part of this journey with us.
 
 
 ## Microsoft 365 Unified Sample gallery
 
-![thumbnail image 3 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/unifiedsamplegallery.png)
+![Unfied Sample Gallery Promo](images/sample-gallery-promo.png)
 
 All of the cool samples for Microsoft 365 and Power Platform are listed in the unified sample gallery at [https://aka.ms/m365/samples](https://aka.ms/m365/samples). This is one centralized location to find samples from Microsoft and community.
 
@@ -66,7 +78,7 @@ All of the cool samples for Microsoft 365 and Power Platform are listed in the u
 
 ## Key contributors to the November 2022 update
 
-![Heart icon thank you pic]()
+![Thank you](images/thankyou-nov22.png)
 
 Here’s the list of active contributors (in alphabetical order) since last release details in GitHub repositories or community channels. Community is really about building tooling and knowledge together with the community for the community, so your contributions are highly valued across the Microsoft 365 customers, partners and obviously also at Microsoft.
 
@@ -98,7 +110,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Autophanous](https://github.com/Autophanous) | Autophanous
 * [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
 * [Brian McCullough](https://twitter.com/bpmccullough) (Marsh & McLennan Companies) | @bpmccullough
-* [Cameron Dwyer](https://twitter.com/CameronDwyer) ( One Place Solutions) | @CameronDwyer
+* [Cameron Dwyer](https://twitter.com/CameronDwyer) (One Place Solutions) | @CameronDwyer
 * [Chad Eiserloh](https://github.com/c-eiser13) (hubley) | c-eiser13
 * [Carlos Marins Jr](https://github.com/kadu-jr) (Inpartec) | kadu-jr
 * [Cat Schneider](https://twitter.com/YerAWizardCat) | @YerAWizardCat
@@ -134,7 +146,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Erfan Darroudi](https://github.com/edarroudi) | edarroudi
 * [Eric Legault](https://twitter.com/elegault) (Eric Legault Consulting) | @elegault
 * [Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
-* [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Valo Intranet) | @Erwinvanhunen
+* [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Staffbase) | @Erwinvanhunen
 * [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
 * [Fai](https://github.com/faiyu0816) | faiyu0816
 * [flowerbot](https://github.com/flowerbot) | flowerbot
@@ -153,13 +165,13 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [hofq](https://github.com/hofq) | hofq
 * [Jake Stanger](https://twitter.com/cakestanger) | @cakestanger
 * [James May](https://twitter.com/fowl2) | @fowl2
-* [Jarbas Horst](https://twitter.com/devjhorst) (StaffBase) | @devjhorst
+* [Jarbas Horst](https://twitter.com/devjhorst) (Staffbase) | @devjhorst
 * [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 * [Jean Netry-Valere](https://github.com/JeanNetryValere) | JeanNetryValere
 * [Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
 * [Joanne Klein](https://twitter.com/JoanneCKlein) | @JoanneCKlein
 * [João Ferreira](https://twitter.com/Joao12Ferreira) | @Joaoferreira
-* [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions) | @Joaojmendes
+* [João J. Mendes](https://twitter.com/joaojmendes) (Staffbase) | @Joaojmendes
 * [Joe Unwin](https://twitter.com/Flow_Joe_) (Hitachi Solutions) | @Flow_Joe_ 
 * [Joey Bloom](https://github.com/JoeyBloom) | JoeyBloom
 * [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
@@ -190,8 +202,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [madsmai](https://github.com/madsmai) | madsmai
 * [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
 * [Marc Studer](https://github.com/Studermarc) | Studermarc
-* [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
-* x[Marcus Blennegård](https://twitter.com/mblennegard) (Sogeti)  | @mblennegard
+* [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Staffbase) | @mgwojciech
 * [Mark Bice](https://github.com/mbice) (Habanero) | mbice
 * [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
 * [martinewald](https://github.com/martinewald) | martinewald
@@ -203,7 +214,6 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 * [Matt Schuessler](https://www.twitter.com/MattSchues) (Canviz) | @MattSchues
 * [Matteo Serpi](https://github.com/srpmtt) | srpmtt
-* x[Mai Mostafa](https://github.com/Maya-Mostafa) | Maya-Mostafa
 * [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot
 * [Michał Romiszewski](https://twitter.com/romiszewski) | @romiszewski
 * [Michael Ramich](https://github.com/michael-ra) (metanoy) | michael-ra
@@ -229,7 +239,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Ole Rühaak](https://github.com/ohaak2) (novaCapta GmbH) | ohaak2
 * [Otto](https://github.com/berot3) | berot3
 * [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
-* [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
+* [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside) | @Patricklamber
 * [Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @pkbullock
 * [Paul Matthews](https://twitter.com/cann0nf0dder) (CF Code) | @cann0nf0dder
 * [Paul Hunt](https://twitter.com/cimares) | @cimares
@@ -293,31 +303,40 @@ Thank you for your assistance and contributions on behalf of the community. You 
 
 ### Companies
 
-Here's the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications. If you still want your logo for this month's release, please let us know and share the logo with us. Thx.
+Here are the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications. 
 
+> If you'd like to see your company logo here,  please let us know and share the logo with us. Thx.
 
-![august companies](images/august-2022-company.png)
+![november companies](images/nov-22-companies.png)
 
 * [Addin365](https://www.addin365.com/)
 * [Arvo Systems](https://www.arvosys.com/)
 * [BLIS Digital](https://blisdigital.com/en/)
 * [Canviz Solutions](https://canviz.com/)
+* [ClearPeople](https://www.clearpeople.com/)
 * [CPS](https://www.cps.co.uk/)
 * [Content+Cloud](https://contentandcloud.com/)
+* [Cubido Business Solutions GmbH](http://www.cubido.at/)
 * [DMI](https://dminc.com/)
+* [Experts Inside GmbH](https://www.expertsinside.com/en/)
 * [Fellowmind](https://www.fellowmindcompany.com/)
 * [Intelogy](https://www.intelogy.co.uk/)
-* [iThink 365](https://www.ithink365.co.uk/)
+* [I4-YOU](https://i4-you.com/)
+* [IOZ](https://www.ioz.ch/)
 * [MondayCoffee](https://mondaycoffee.com/-home)
 * [N8D - Stefan Bauer - Innovation and Design Agency](https://n8d.at/)
-* [NTT Digital Business Solutions](https://www.global.ntt/)   
 * [onepoint](https://www.groupeonepoint.com/en/)
 * [Piasys](https://piasys.com/)
 * [PixelMill](https://pixelmill.com/)
+* [PVX Solutions](https://www.pvx-solutions.com/)
 * [Rapid Circle](https://en.rapidcircle.com/)
 * [ShareSquared](https://www.sharesquared.com)
-* [Solvion](https://www.solvion.net/)
+* [Sherpas](https://www.sherpas.se/)
 * [Sogeti](https://www.sogeti.com/)
+* [Solvion](https://www.solvion.net/)
+* [Solutions Pour SharePoint](https://sosp.fr/)
+* [Sopra Steria](https://www.soprasteria.com/)
+* [Staffbase GmbH](https://staffbase.com/en/)
 * [Storm Technology](https://www.storm.ie/)
 * [Struyf Consulting](https://www.eliostruyf.com/)
 * [Sulava](https://sulava.com/en/home/)
@@ -471,6 +490,6 @@ Here are the Microsoft Internal Platform Community team members:
 
 See all of the available community calls, tools, components and other assets from [https://aka.ms/m365/community](https://aka.ms/m365/community). Get involved!
 
-Got ideas or feedback on the topics to cover, additional partnerships, product feature capabilities? - let us know. Your input is important for us, so that we can support your journey in Microsoft 365. You can comment below this post 👇.
+Got ideas or feedback on the topics to cover, additional partnerships, product feature capabilities? - let us know. Your input is important for us, so that we can support your journey in Microsoft 365 and in Power Platform (better together). You can comment below this post 👇.
 
 _Sharing Is Caring!_
