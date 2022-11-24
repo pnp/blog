@@ -18,7 +18,7 @@ tags:
   - Power Platform
   - Power Apps
   - Power Automate
-type: epic
+type: trending
 draft: false
 ---
 
