@@ -24,7 +24,7 @@ draft: false
 
 Microsoft 365 Platform Community (PnP) November 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
 
-Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the community.
+Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the community. 
 
 >  *We are committed on building the best tech community in the world where everyone feels welcome and we help to empower each and every community member to achieve more.*
 
