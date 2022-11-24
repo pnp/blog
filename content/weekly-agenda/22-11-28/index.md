@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 28th of November 2022 week
-date: 2022-11-24T15:28:45.784Z
+date: 2022-11-25T08:28:45.784Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -9,7 +9,7 @@ images:
   - images/weeklyagenda48.png
 tags: []
 type: trending
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -60,6 +60,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 ### Microsoft 365 Community Channel
 
+* [Using Microsoft Syntex Bulk Content Assembly to automatically generate documents](https://www.youtube.com/watch?v=Upv2cSAPDAU) by [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
 * [Introduction to new SharePoint Pages Microsoft Graph API](https://www.youtube.com/watch?v=8PLxh3RuNP0) by [DC Padur](https://twitter.com/dcpadur) | @cdpadur
 * [Find meeting times for multiple people on Microsoft 365 with Microsoft Graph](https://www.youtube.com/watch?v=EzN0U_1QkVs) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
 * [Latest on the SharePoint pages text editing experiences](https://www.youtube.com/watch?v=DHPTkk6_vHA) by  [Sara Cummings](https://www.linkedin.com/in/sara-t-cummings/) (Microsoft)
@@ -91,6 +92,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Microsoft 365 & Power Platform Development Community call - 24th of November, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-11-24/)
 * [Microsoft 365 Platform Community Call - 22nd of November, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-11-22/)
 
 
@@ -116,13 +118,17 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options.
 
-
-* [M365 Saturday Coimbatore 2022](https://athen.tech/M365-Saturday-Coimbatore-2022/) - November 19, Coimbatore, India
 * [Collab Days Lisbon 2022](https://www.collabdays.org/2022-lisbon/) - November 26, Lisbon, Portugal
 * [​​​​​​​European SharePoint, Office 365 and Azure Conference 2022](https://www.sharepointeurope.com/) - November 28 - December 1st, 2022, Copenhagen, Denmark
 * [Microsoft 365 Toronto](https://www.communitydays.org/event/2022-12-02/microsoft-365-toronto) - December 2, Toronto, Canada
 * [M365 Saturday Bangalore](https://www.communitydays.org/event/2022-12-03/m365-saturday-bangalore-2022) - December 3, Bengaluru, India
 * [Microsoft 365 Conference](https://m365conf.com/#!/) - December 6-8, Las Vegas, NV, USA
+* [M365 Philly Virtual 2022](https://www.communitydays.org/event/2022-12-15/m365-philly-virtual-2022) - December 15, Virtual
+* [M365 Saturday Ahmedabad](https://www.communitydays.org/event/2023-01-07/m365-saturday-ahmedabad) - January 7, 2023 - Ahmedabad, India
+* [AMS Sophia-Antipolis](https://www.communitydays.org/event/2023-02-07/ams-sophia-antipolis) - February 7, 2023 - Biot, France
+* [M365 Conference](https://sharepointna.com/) - May 1-5, 2023
+* [CollabDays Poland 2023](https://www.communitydays.org/event/2023-05-13/collabdays-poland-2023) - May 13, 2023 - Warsaw, Poland
+* [CollabDays Netherlands](https://www.communitydays.org/event/2023-06-10/collabdays-netherlands-2023) - June 10, 2023 - Utrecht, Netherlands
 
 We hope to see you around!
 
