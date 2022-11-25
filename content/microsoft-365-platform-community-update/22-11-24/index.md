@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 Platform Community (PnP) - November 2022 update
-date: 2022-11-24T08:30:55.909Z
+title: Microsoft 365 & Power Platform Community (PnP) - November 2022 update
+date: 2022-11-25T09:30:55.909Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -18,11 +18,11 @@ tags:
   - Power Platform
   - Power Apps
   - Power Automate
-type: normal
+type: epic
 draft: false
 ---
 
-Microsoft 365 Platform Community (PnP) November 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
+Microsoft 365 & Power Platform Community (PnP) November 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
 
 Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the community. 
 
@@ -31,14 +31,14 @@ Starting from this update, we are a bit adjusting the format, so that we can foc
 
 ## Main resources around Microsoft 365 Platform Community
 
-* Microsoft 365 Platform Community - [https://aka.ms/m365/community](https://aka.ms/m365/community) - One location for all the resources and news around Microsoft 365 platform
+* Microsoft 365 & Power Platform  Community - [https://aka.ms/m365/community](https://aka.ms/m365/community) - One location for all the resources and news around Microsoft 365 & Power Platform
 * Microsoft 365 and Power Platform samples - [https://aka.ms/m365/samples](https://aka.ms/m365/samples)
 * Microsoft 365 community blog - [http://aka.ms/m365/community/blog](http://aka.ms/m365/community/blog)
 * Microsoft 365 development blog - [https://aka.ms/m365/dev/blog](https://aka.ms/m365/dev/blog)
 * Microsoft 365 Community Channel on YouTube - [https://aka.ms/m365/videos](https://aka.ms/m365/videos)
 * Microsoft 365 Developer YouTube channel - [https://aka.ms/m365/dev/videos](https://aka.ms/m365/dev/videos)
 
-We also partnerly closely with the Power Platform topics, so let's not forget the following assets
+We also partnerly closely with other Power Platform topics, so let's not forget the following assets
 
 * [Power Platform Community - Be a part of something bigger](https://powerusers.microsoft.com/)
 * [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform)
@@ -58,16 +58,16 @@ Most of the community driven repositories are in the PnP GitHub organization as 
 * [Microsoft Search GitHub organization](https://github.com/microsoft-search)
 
 
-## Microsoft 365 PnP Recognition Program
+## Microsoft 365 & Power Platform Community Recognition Program
 
-![thumbnail image 3 of blog post titled Microsoft 365 Platform Community (PnP) – March 2022 update ](images/pnp-recorgnition-program.png)
+![tMicrosoft 365 & Power Platform Community Recognition Program](images/pnp-recorgnition-program.png)
 
 We are excited to announce new community contributor program for all the active community members. Through this program you can get officially acknowledged with the a [Credly badge](https://www.credly.com/org/m365pnp/badge/community-contributor-2022) around your work on our open-source and community channels. See more from
 
 [https://pnp.github.io/recognitionprogram/](https://pnp.github.io/recognitionprogram/). Thank you for being part of this journey with us.
 
 
-## Microsoft 365 Unified Sample gallery
+## Microsoft 365 & Power Platform Unified Sample gallery
 
 ![Unfied Sample Gallery Promo](images/sample-gallery-promo.png)
 
@@ -80,7 +80,7 @@ All of the cool samples for Microsoft 365 and Power Platform are listed in the u
 
 ![Thank you](images/thankyou-nov22.png)
 
-Here’s the list of active contributors (in alphabetical order) since last release details in GitHub repositories or community channels. Community is really about building tooling and knowledge together with the community for the community, so your contributions are highly valued across the Microsoft 365 customers, partners and obviously also at Microsoft.
+Here’s the list of active contributors (in alphabetical order) since last release details in GitHub repositories or community channels. Community is really about building tooling and knowledge together with the community for the community, so your contributions are highly valued across the Microsoft 365 & Power Platform customers, partners and obviously also at Microsoft.
 
 Thank you for your assistance and contributions on behalf of the community. You are truly making a difference! If we missed someone, please let us know.
 
@@ -428,7 +428,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 
 ### MVP Community team
 
-MVP Community team manages the Microsoft 365 platform community work in the GitHub and also coordinates different open-source projects around Microsoft 365 topics. Platform Community Team members have a significant impact on driving adoption of Microsoft 365 topics. They have shown their commitment to the open-source and community-driven work by constantly contributing to the benefit of the others in the community.
+MVP Community team manages the Microsoft 365 & Power Platform community work in the GitHub and also coordinates different open-source projects around Microsoft 365 & Power Platform topics. Platform Community Team members have a significant impact on driving adoption of Microsoft 365 & Power Platform topics. They have shown their commitment to the open-source and community-driven work by constantly contributing to the benefit of the others in the community.
 
 Thank you for all that you do!
 
