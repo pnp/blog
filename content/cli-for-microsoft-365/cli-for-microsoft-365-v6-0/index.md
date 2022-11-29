@@ -229,7 +229,7 @@ This release wouldn't be possible without the help of (in alphabetical order):
 - [Reshmee Auckloo](https://github.com/reshmee011)
 - [Siddhart Vaghasia](https://github.com/siddharth-vaghasia)
 - [Smita Nachan](https://github.com/SmitaNachan)
-- [Stijn Haerkenss](https://github.com/stijnhaerkenss)
+- [Stijn Haerkens](https://github.com/stijnhaerkenss)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
 ### New contributors
@@ -238,7 +238,7 @@ A warm welcome to this month's new contributors! (in alphabetical order):
 
 - [Daniel Greuel](https://github.com/dgreuel)
 - [Geoffrey Hunt](https://github.com/runningdeveloper)
-- [Stijn Haerkenss](https://github.com/stijnhaerkenss)
+- [Stijn Haerkens](https://github.com/stijnhaerkenss)
 
 Thank you all for the time you chose to spend on CLI for Microsoft 365 and for your help to advance it!
 
