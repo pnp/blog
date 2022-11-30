@@ -68,6 +68,27 @@ For each command we included response in the JSON, text and CSV format supported
 
 As of publishing this article, we're half way through the process of adding the output to all commands. We'd appreciate your help in [adding the output to the remaining commands](https://github.com/pnp/cli-microsoft365/issues/3754). Also, we'd love to hear from you what you think of this addition.
 
+### Create list items in batch
+
+One of the things that developers and consultants need when working with Microsoft 365, is demo content in lists. Whether to have some data to test their app with, or demonstrate some functionality, there's no way around lists filled with demo content.
+
+To help you fill lists with content, we introduced a new command that lets you create list items from a CSV file.
+
+To create items from a specified file, run:
+
+```sh
+m365 spo listitem batch add --filePath "C:\Path\To\Csv\CsvFile.csv" --webUrl https://contoso.sharepoint.com/sites/project-x --listTitle "Demo List"
+```
+
+The CSV file is structured in such a way that the first row contains the internal name of fields to populate for each item, and the following rows represent the items to create.
+
+```csv
+ContentType,Title,SingleChoiceField,MultiChoiceField,SingleMetadataField,MultiMetadataField,SinglePeopleField,MultiPeopleField,CustomHyperlink,NumberField
+Item,Title A,Choice 1,Choice 1;#Choice 2,Engineering|4a3cc5f3-a4a6-433e-a07a-746978ff1760;,Engineering|4a3cc5f3-a4a6-433e-a07a-746978ff1760;Finance|f994a4ac-cf34-448e-a22c-2b35fd9bbffa;,[{'Key':'i:0#.f|membership|markh@contoso.com'}],"[{'Key':'i:0#.f|membership|markh@contoso.com'},{'Key':'i:0#.f|membership|adamb@contoso.com'}]","https://bing.com, URL",5
+```
+
+We're excited about providing you this functionality, and would love to hear from you how you like it and how we could make it even more helpful for you. To learn more about it, see [our documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-batch-add/).
+
 ### Extended support for managing Power Platform
 
 In v6 of CLI, we continued to extend the support for managing Power Platform. We added commands for managing Power Platform cards, Dataverse tables, solutions and publishers.
