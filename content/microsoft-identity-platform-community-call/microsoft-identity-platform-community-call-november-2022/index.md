@@ -10,7 +10,7 @@ images:
 type: "regular"
 summary: "Enable Single Sign-On on Android Apps using MSAL & also to secure it using Proof-of-Possession.  Learn how to enable Single-Sign-On (SSO) in Android Apps using Microsoft Authentication Library (MSAL) for Android and how to secure it using Proof-of-Possession (PoP)."
 videos:
-- https://www.youtube.com/watch?v=y_YDs6NKfjw
+- https://www.youtube.com/watch?v=x1_snVp0rIw
 - draft: false
 ---
 
@@ -18,7 +18,7 @@ videos:
 
 This month’s in-depth topic: **Enable Single Sign-On on Android Apps using MSAL & also to secure it using Proof-of-Possession.** In this interactive learning session, we will integrate Single Sign On (SSO) for users on an Android application. We will do a detailed code walk through on how to acquire an access token using Microsoft Authentication Library (MSAL) Android and further secure it using Proof-of-Possession (PoP). Agenda - overview of MSAL Android, of SSO and of PoP. Enabling Single Sign-On via Broker and via Browser, integrating with and the impact of a broker. Why we need PoP and how long is a PoP/AT valid? Q&A. Microsoft Presenters are [Neha Goel](https://www.linkedin.com/in/nehagoel/) – Senior Product Manager and [Shane Oatman](https://github.com/shoatman) – Principal Software Engineer. This call was hosted by [Nandeesh Swami](https://twitter.com/Nandeesh_Swami) (Microsoft) \| @Nandeesh_Swami on November 17, 2022. Questions addressed live and in chat throughout the call.
 
-{{< youtube y_YDs6NKfjw >}}
+{{< youtube x1_snVp0rIw >}}
 
 ## Referenced in this call
 
