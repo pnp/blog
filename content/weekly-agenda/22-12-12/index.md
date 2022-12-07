@@ -76,6 +76,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
+* [Microsoft Graph toolkit people-picker lookalike for Power Apps](https://pnp.github.io/blog/post/microsoft-graph-toolkit-people-picker-lookalike-in-power-apps/) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 * [CLI for Microsoft 365 - how cool is that? - Permission commands](https://pnp.github.io/blog/post/cli-how-cool-is-that-permission-commands/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 
 
