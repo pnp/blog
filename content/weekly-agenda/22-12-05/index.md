@@ -56,7 +56,7 @@ Also: 📷 Picture Time with community in Together Mode!
 Update of the newly published videos in our two YouTube channels which are the [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) or [Microsoft 365 Developer](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ) channels.
 
 ### Microsoft 365 Community Channel
-
+ 
 * [Adaptive Cards for Power Apps with Power Cards](https://www.youtube.com/watch?v=or4WL3ZHJwk) by Matt MacLaurin (Microsoft)  
 * [Building ISV offering for Microsoft Viva with SPFx ACEs and multi-tenant APIs hosted in Azure](https://www.youtube.com/watch?v=6VEYD11m0TA) by [Paolo Pialors](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Build your first Workflow bot for Microsoft Teams with Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=rQIXOo0BevM) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
