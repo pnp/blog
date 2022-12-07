@@ -370,7 +370,6 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
 * [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
-* [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @Laskewitz
 * [Dona Sarkar](https://twitter.com/donasarkar) (Microsoft) | @DonaSarkar
 * [Eoin O'Brien](https://github.com/eoinobrien) (Microsoft) | eoinobrien
 * [Erin Bailie](https://twitter.com/EMBailie) (Microsoft) | @EMBailie
