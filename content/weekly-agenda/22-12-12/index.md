@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 12th of December 2022 week
-date: 2022-12-08T08:56:37.534Z
+date: 2022-12-09T08:56:37.534Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -9,7 +9,7 @@ images:
   - images/weeklyagenda50.png
 tags: []
 type: trending
-draft: true
+draft: false
 ---
 
 
@@ -65,6 +65,8 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 ### Microsoft 365 Community Channel
 
+* [Calling Microsoft Graph from Polyglot Notebooks (.Net Interactive)](https://www.youtube.com/watch?v=f2NhkyG0XWk) by [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | @BrianTJackett &  [Jason Johnston](https://twitter.com/JasonJohMSFT) (Microsoft) | @JasonJohMSFT  
+* [Add form customizers to a list SPFx web part](https://www.youtube.com/watch?v=1I0uE-IiLEM) by [Siddharth Vaghasia](https://twitter.com/siddh_me) (Tata Consulting) | @siddh_me
 * [Add Azure AD single sign-on to your Microsoft Teams bots using Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=rvAf0v3jh0M) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Create internal community for Power Platform users with Power Platform Communication Site Template](https://www.youtube.com/watch?v=gV3cntVZCM0) by [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @Laskewitz
 * [Avoid throttling in SharePoint Online by using RateLimit headers in API calls](https://www.youtube.com/watch?v=vnBW66ncs80) by [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
@@ -86,8 +88,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft 365 Platform Community Call – 6th of December, 2022](https://www.youtube.com/watch?v=fDLm2xXpExY)
-* [Enable Single Sign-On on Android Apps using MSAL, secured using Proof-of-Possession – November 2022](https://www.youtube.com/watch?v=x1_snVp0rIw)
+* [Microsoft 365 Platform Community Call – 6th of December, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-12-06/)
+* [Microsoft 365 & Power Platform Development Community call – 8th of December 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-12-08/)
 
 ---
 
