@@ -260,7 +260,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Rishabh Raghwendra](https://github.com/Rishabhraghwendra18) | Rishabhraghwendra18
 * [Rob Lempens](https://github.com/RobLempens) | RobLempens
 * [Rob Windsor](https://twitter.com/robwindsor) | @robwindsor
-* [Robin Rosengrün](https://twitter.com/power_r2) | @power_r2
+* [Robin Rosengrün](https://twitter.com/power_r2) (EnBw) | @power_r2
 * [Rolf Isler](https://github.com/Tripplefix) | Tripplefix
 * [Ronald Booden](https://github.com/rjbooden) | rjbooden
 * [Rosa Alice (Ana Elisabeta)](https://github.com/alicelupsan) | alicelupsan
