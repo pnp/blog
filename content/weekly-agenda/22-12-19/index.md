@@ -76,14 +76,18 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 ---
 
-
 ## New Microsoft 365 Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [Extend Azure AD to add pronouns to a people card component in Power Apps](https://pnp.github.io/blog/post/extend-azure-active-directory-to-add-pronouns-to-a-people-card-in-power-apps) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 
----
+## New Microsoft 365 Developer Blog posts
+
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
+
+* [Build bots to automate repetitive workflows using Teams Toolkit for Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/build-bots-to-automate-repetitive-workflows-using-teams-toolkit-for-visual-studio-code/) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
+
 
 ## Last week's community call recordings
 
