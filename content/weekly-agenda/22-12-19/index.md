@@ -70,9 +70,6 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 ### Microsoft 365 Community Channel
 
-* [What’s new for Microsoft Search Usage reports](https://www.youtube.com/watch?v=jA7reGGz6Z0) by [Bill Baer](https://twitter.com/williambaer) (Microsoft) | @williambaer
-* [Creating SPFx powered multi-tab solution using Microsoft Teams Toolkit](https://www.youtube.com/watch?v=r9cSy7K9gG4) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
-* [Build your first Notification bot in C# for Microsoft Teams with Teams Toolkit for Visual Studio](https://www.youtube.com/watch?v=n2HrdzpBg-8) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs 
 * [Using Fluent UI 9 in SPFx solutions](https://www.youtube.com/watch?v=Abo8FdQZ4Dc) by [Nick Brown](https://twitter.com/techienickb) (Jisc) | @techienickb
 * [PowerShell predictors - PnP PowerShell and CLI for Microsoft 365](https://www.youtube.com/watch?v=2nwreG58VTk) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 * [Microsoft Graph Developer Proxy - Walkthrough](https://www.youtube.com/watch?v=I0FDTKSKe9U)
