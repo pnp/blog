@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 19th of December 2022 week
-date: 2022-12-15T07:46:15.964Z
+date: 2022-12-16T07:46:15.964Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -9,7 +9,7 @@ images:
   - images/weeklyagenda51.png
 tags: []
 type: trending
-draft: true
+draft: false
 ---
 
 
@@ -86,6 +86,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [10 features to jumpstart your Microsoft Teams app development](https://devblogs.microsoft.com/microsoft365dev/10-features-to-jumpstart-your-microsoft-teams-app-development/) by Daniel Carrasco (Microsoft)
 * [Build bots to automate repetitive workflows using Teams Toolkit for Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/build-bots-to-automate-repetitive-workflows-using-teams-toolkit-for-visual-studio-code/) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 
 
@@ -93,7 +94,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft 365 Platform Community Call – 13th of December, 2022](https://www.youtube.com/watch?v=F5c4Y3PkiEc)
+* [Viva Connections & SharePoint Framework Community Call – 15th of December, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-12-15/)
+* [Microsoft 365 Platform Community Call - 13th of December, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-12-13/)
 
 ---
 
