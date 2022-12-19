@@ -46,9 +46,9 @@ Demos:
 
 Also: 📷 Picture Time with community in Together Mode!
 
-### Microsoft 365 & Power Platform Community Call - 22th of December
+### Microsoft 365 & Power Platform Community Call - 22nd of December
 
-* Thursday, 8th of December, 2022, 7:00 AM PT / 2:00 PM GMT
+* Thursday, 22nd of December, 2022, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-developer-community-call/)
 
