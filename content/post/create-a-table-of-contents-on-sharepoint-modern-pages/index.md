@@ -35,7 +35,7 @@ This page has become somewhat long not quite a Novel but long enough. As time pe
 
 ### Side Note
 
-I have created some videos about creating a TOC on my personal YouTube - https://www.youtube.com/@WebDevByTheBay
+I have created some videos about creating a TOC on my personal YouTube - https://www.youtube.com/@kcraigo
 
 ## Create the TOC
 
