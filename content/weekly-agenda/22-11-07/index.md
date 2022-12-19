@@ -39,7 +39,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 * Wednesday, 9th of November, 2022, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/officeaddinscommunitycall) - we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Office Add-ins developer community call](https://pnp.github.io/blog/categories/office-add-in-developer-community-call/)
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Office Add-ins developer community call](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
 
 ### Microsoft 365 & Power Platform Development Community call - 10th of November

@@ -124,7 +124,7 @@ Please take the opportunity to join these great conferences organized by the bes
 
 * [M365 Saturday Ahmedabad](https://www.communitydays.org/event/2023-01-07/m365-saturday-ahmedabad) - January 7, 2023 - Ahmedabad, India
 * [AMS Sophia-Antipolis](https://www.communitydays.org/event/2023-02-07/ams-sophia-antipolis) - February 7, 2023 - Biot, France
-* [M365 Conference](https://sharepointna.com/) - May 1-5, 2023
+* [M365 Conference](https://m365conf.com/#!/) - May 1-5, 2023
 * [CollabDays Poland 2023](https://www.communitydays.org/event/2023-05-13/collabdays-poland-2023) - May 13, 2023 - Warsaw, Poland
 * [Techorama Belgium](https://www.techorama.be/) - May 15 - 17, 2023 - Antwerp, Belgium
 * [CollabDays Italy](https://www.collabdays.org/2023-italy/) - May 20, 2023 - Milan, Italy
