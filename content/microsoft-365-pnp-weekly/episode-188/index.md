@@ -92,7 +92,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [M365 Philly Virtual 2022](https://www.communitydays.org/event/2022-12-15/m365-philly-virtual-2022) - December 15, Virtual
 * [M365 Saturday Ahmedabad](https://www.communitydays.org/event/2023-01-07/m365-saturday-ahmedabad) - January 7, 2023 - Ahmedabad, India
 * [AMS Sophia-Antipolis](https://www.communitydays.org/event/2023-02-07/ams-sophia-antipolis) - February 7, 2023 - Biot, France
-* [M365 Conference](https://sharepointna.com/) - May 1-5, 2023
+* [M365 Conference](https://m365conf.com/#!/) - May 1-5, 2023
 * [CollabDays Poland 2023](https://www.communitydays.org/event/2023-05-13/collabdays-poland-2023) - May 13, 2023 - Warsaw, Poland
 * [CollabDays Netherlands](https://www.communitydays.org/event/2023-06-10/collabdays-netherlands-2023) - June 10, 2023 - Utrecht, Netherlands
 
