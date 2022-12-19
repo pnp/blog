@@ -126,7 +126,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [M365 Saturday Coimbatore 2022](https://athen.tech/M365-Saturday-Coimbatore-2022/) - November 19, Coimbatore, India
 * [Collab Days Lisbon 2022](https://www.collabdays.org/2022-lisbon/) - November 26, Lisbon, Portugal
 * [​​​​​​​European SharePoint, Office 365 and Azure Conference 2022](https://www.sharepointeurope.com/) - November 28 - December 1st, 2022, Copenhagen, Denmark
-* [Microsoft 365 Toronto](https://www.communitydays.org/event/2022-12-02/microsoft-365-toronto) - December 2, Toronto, Canada
+
 * [M365 Saturday Bangalore](https://www.communitydays.org/event/2022-12-03/m365-saturday-bangalore-2022) - December 3, Bengaluru, India
 * [Microsoft 365 Conference](https://m365conf.com/#!/) - December 6-8, Las Vegas, NV, USA
 

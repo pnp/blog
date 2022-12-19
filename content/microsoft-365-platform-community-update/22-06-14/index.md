@@ -76,11 +76,11 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 ### Community call recording blog posts
 
-* 9th of June - [Microsoft 365 & Power Platform Development Community call - 9th of June, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-06-09/)
+* 9th of June - [Microsoft 365 & Power Platform Development Community call - 9th of June, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-06-09/)
 * 7th of June - [Microsoft 365 Platform Community Call - 7th of June, 20](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-06-07/)
 * 3rd of June - [Viva Connections & SharePoint Framework Community Call – 2nd of June, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-06-02/)
 * 1st of June - [Microsoft 365 Platform Community Call - 31st of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-31/)
-* 27th of May - [Microsoft 365 & Power Platform Development Community call - 26th of May, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-05-26/)
+* 27th of May - [Microsoft 365 & Power Platform Development Community call - 26th of May, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-05-26/)
 * 25th of May - [Microsoft 365 Platform Community Call - 24th of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-24/)
 * 19th of May - [Microsoft Identity Platform community call – May 2022](https://pnp.github.io/blog/microsoft-identity-platform-community-call/2022-05-19-identity-platform-call-may-2022/)
 * 19th of May - [Power Platform Community Call – May 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-may-2022/)
@@ -88,7 +88,7 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 * 18th of May - [Adaptive Cards community call – May 2022](https://pnp.github.io/blog/adaptive-cards-community-call/adaptive-cards-community-call-may-2022/)
 * 17th of May - [Microsoft 365 Platform Community Call - 17th of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-17/)
 * 15th of May - [Office Add-ins community call – May 11, 2022](https://pnp.github.io/blog/office-add-ins-community-call/2022-05-11/)
-* 12th of May - [Microsoft 365 & Power Platform Development Community call - 12th of May, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-05-12/)
+* 12th of May - [Microsoft 365 & Power Platform Development Community call - 12th of May, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-05-12/)
 * 10th of May - [Office Add-ins community call – April 13, 2022](https://pnp.github.io/blog/office-add-ins-community-call/2022-04-13/)
 * 10th of May - [Microsoft 365 Platform Community Call - 10th of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-10/)
 

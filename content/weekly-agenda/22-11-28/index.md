@@ -38,7 +38,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 * Thursday, 1st of December, 2022, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-developer-community-call/)
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft Viva and SPFx community call](https://pnp.github.io/blog/categories/microsoft-viva-and-spfx-community-call/)
 
 Demos: 
 
@@ -120,13 +120,13 @@ Please take the opportunity to join these great conferences organized by the bes
 
 * [Collab Days Lisbon 2022](https://www.collabdays.org/2022-lisbon/) - November 26, Lisbon, Portugal
 * [​​​​​​​European SharePoint, Office 365 and Azure Conference 2022](https://www.sharepointeurope.com/) - November 28 - December 1st, 2022, Copenhagen, Denmark
-* [Microsoft 365 Toronto](https://www.communitydays.org/event/2022-12-02/microsoft-365-toronto) - December 2, Toronto, Canada
+
 * [M365 Saturday Bangalore](https://www.communitydays.org/event/2022-12-03/m365-saturday-bangalore-2022) - December 3, Bengaluru, India
 * [Microsoft 365 Conference](https://m365conf.com/#!/) - December 6-8, Las Vegas, NV, USA
 * [M365 Philly Virtual 2022](https://www.communitydays.org/event/2022-12-15/m365-philly-virtual-2022) - December 15, Virtual
 * [M365 Saturday Ahmedabad](https://www.communitydays.org/event/2023-01-07/m365-saturday-ahmedabad) - January 7, 2023 - Ahmedabad, India
 * [AMS Sophia-Antipolis](https://www.communitydays.org/event/2023-02-07/ams-sophia-antipolis) - February 7, 2023 - Biot, France
-* [M365 Conference](https://sharepointna.com/) - May 1-5, 2023
+* [M365 Conference](https://m365conf.com/#!/) - May 1-5, 2023
 * [CollabDays Poland 2023](https://www.communitydays.org/event/2023-05-13/collabdays-poland-2023) - May 13, 2023 - Warsaw, Poland
 * [CollabDays Netherlands](https://www.communitydays.org/event/2023-06-10/collabdays-netherlands-2023) - June 10, 2023 - Utrecht, Netherlands
 

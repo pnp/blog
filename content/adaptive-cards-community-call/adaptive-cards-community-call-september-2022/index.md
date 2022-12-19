@@ -35,7 +35,7 @@ In this month’s community call, updates on **Accessibility features in Adaptiv
 ## References
 
 * Demo - [How to add animated SVG's to Adaptive Cards](https://youtu.be/Yt4QcHjNr6A?t=2048) – [Kristine Kolodziejski](https://twitter.com/kristinekk94) (Computacenter) \| @kristinekk94 
-* Blog post – [Microsoft 365 & Power Platform Development Community call - 1st of September, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-09-01/) 
+* Blog post – [Microsoft 365 & Power Platform Development Community call - 1st of September, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-09-01/) 
 * Schema Explorer – [CaptionSource (Preview Feature)](https://adaptivecardsci.z5.web.core.windows.net/explorer/CaptionSource.html)
 * Samples - [Adaptive Card Design samples for Viva Connections](https://github.com/pnp/AdaptiveCards-Templates)
 * Sample (draft) - [Rendering array in data template](https://github.com/microsoft/AdaptiveCards/issues/7569#issuecomment-1167927785)

@@ -59,7 +59,7 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 * 6th of May - [Viva Connections & SharePoint Framework Community Call – 5th of May, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-05-05/)
 * 4th of May - [Microsoft 365 Platform Community Call - 3rd of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-03/)
-* 28th of April - [Microsoft 365 & Power Platform Development Community call - 28th of April, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-04-28/)
+* 28th of April - [Microsoft 365 & Power Platform Development Community call - 28th of April, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-04-28/)
 * 27th of April - [Microsoft 365 Platform Community Call - 26th of April, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-04-26/)
 * 21st of April - [Viva Connections & SharePoint Framework Community Call – 21st of March, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-04-21/)
 * 20th of April - [Power Platform Community Call – April 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-april-2022/)
