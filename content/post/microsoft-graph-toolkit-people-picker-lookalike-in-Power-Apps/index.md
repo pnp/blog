@@ -137,7 +137,7 @@ Save the value of `appId` and `secret`somewhere.
 
 ### Create the custom connector
 
-1. Open [make.powerapps.com](https://make.powerapps)
+1. Open [make.powerapps.com](https://make.powerapps.com)
 2. Select **Dataverse**
 3. Select **Custom Connectors**
 4. Select **New custom connector**

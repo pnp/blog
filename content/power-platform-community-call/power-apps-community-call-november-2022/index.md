@@ -60,7 +60,7 @@ Live from the Minnesota Microsoft Technology Center - latest updates and news on
 * Power Platform Videos – [aka.ms/powerplatform-videos](https://aka.ms/powerplatform-videos)
 * Power Platform Samples – [aka.ms/powerplatform-samples](https://aka.ms/powerplatform-samples)
 * Power Apps Community – [aka.ms/powerapps-community](https://aka.ms/powerapps-community)
-* Power Automate Community – [aka.ms/power-automate-community](https://aka.ms/power-automate-community)
+* Power Automate Community – [aka.ms/power-automate-community](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/FlowCommunity)
 * Power Pages Community – [aka.ms/power-pages-community](https://aka.ms/power-pages-community)
 * Power Virtual Agents Community – [aka.ms/power-virtual-agents-community](https://aka.ms/power-virtual-agents-community)
 

@@ -108,7 +108,7 @@ Thank you for joining this call today with your community mates. Your feedback i
     * Documentation - [How to create a command-line predictor](https://learn.microsoft.com/powershell/scripting/dev-cross-plat/create-cmdline-predictor?view=powershell-7.2)
     * Library – [PnP PowerShell](https://pnp.github.io/powershell/)
 * **Create an internal community for Power Platform users with Power Platform Communication Site Template**
-    * Documentation - [Create an internal Microsoft Power Platform hub](https://learn.microsoft.com/power-platform/guidance/adoption/) \| aka.ms/ppcst-docs
+    * Documentation - [Create an internal Microsoft Power Platform hub](https://learn.microsoft.com/power-platform/guidance/adoption/wiki-community?WT.mc_id=power-79474-dlaskewitz) | aka.ms/ppcst-docs
     * Issues - [Power Platform communication site template] Bug, question or feature ask report \| aka.ms/ppcst-issues
     * Download - [The Power Platform Hub template and scripts](https://aka.ms/ppcst-download) \| aka.ms/ppcst-download
 
