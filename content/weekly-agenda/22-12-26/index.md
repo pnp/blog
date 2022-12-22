@@ -6,14 +6,13 @@ githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda51.png
+  - images/weeklyagenda52.png
 tags: []
 type: trending
 draft: true
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
-
 
 ## Community Calls
 
@@ -56,9 +55,9 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 ### Microsoft 365 Community Channel
 
-* [Introduction to CLI for Microsoft 365 and PnP PowerShell VS Code extensions](https://www.youtube.com/watch?v=kTnlgESTas0) b [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
+* [Introduction to CLI for Microsoft 365 and PnP PowerShell VS Code extensions](https://www.youtube.com/watch?v=kTnlgESTas0) by [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
 * [Preview updates on Microsoft Graph Toolkit v3.0](https://www.youtube.com/watch?v=-mrH_EnYtpw) by [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron and [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
-* [Migrating an ASP.NET core application to MSAL from ADAL – A developer journey – December 2022](https://www.youtube.com/watch?v=3LZ6QVbiUug) by  Kyle Marsh (Microsoft),  Pramod HK h (Microsoft), Jitesh Nairh (Microsoft), and Bogdan Achim (Microsoft)
+* [Migrating an ASP.NET core application to MSAL from ADAL – A developer journey – December 2022](https://www.youtube.com/watch?v=3LZ6QVbiUug) by  Kyle Marsh (Microsoft), Pramod HK (Microsoft), Jitesh Nairh (Microsoft), and Bogdan Achim (Microsoft)
 * [Using list formatting to improve SharePoint pages library experience for content creators](https://www.youtube.com/watch?v=8Fa2DdIjTNc) by [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
 * [Visualizing dynamically SharePoint data within SPFx solutions using ERD model](https://www.youtube.com/watch?v=mQ8qreM7tZg) by [Niklas Wilhelm](https://twitter.com/NiklasWilhelm4) (NetForce 365) | @NiklasWilhelm4
 * [Use Microsoft Lists to track contacts throughout the year](https://www.youtube.com/watch?v=VR6kZCXOSbI) by [Mark Kashman](https://twitter.com/MKashman) (Microsoft) | @MKashman
@@ -109,11 +108,12 @@ Please take the opportunity to join these great conferences organized by the bes
 
 * [M365 Saturday Ahmedabad](https://www.communitydays.org/event/2023-01-07/m365-saturday-ahmedabad) - January 7, 2023 - Ahmedabad, India
 * [AMS Sophia-Antipolis](https://www.communitydays.org/event/2023-02-07/ams-sophia-antipolis) - February 7, 2023 - Biot, France
+* [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27 -29, 2023, Paris, France
 * [M365 Conference](https://m365conf.com/#!/) - May 1-5, 2023
 * [CollabDays Poland 2023](https://www.communitydays.org/event/2023-05-13/collabdays-poland-2023) - May 13, 2023 - Warsaw, Poland
 * [Techorama Belgium](https://www.techorama.be/) - May 15 - 17, 2023 - Antwerp, Belgium
 * [CollabDays Italy](https://www.collabdays.org/2023-italy/) - May 20, 2023 - Milan, Italy
-* [EUROPEAN COLLABORATION SUMMIT](https://www.collabsummit.eu/) - May 22-24, 2023 - Duesseldorf, Germany
+* [European Collaboration Summit](https://www.collabsummit.eu/) - May 22-24, 2023 - Duesseldorf, Germany
 * [CollabDays Netherlands](https://www.communitydays.org/event/2023-06-10/collabdays-netherlands-2023) - June 10, 2023 - Utrecht, Netherlands
 * [CollabDays Central Europe](https://www.collabdays.org/2023-ce/) - June 17, 2023 - Zurich, Switzerland
 * [European Power Platform conference](https://www.sharepointeurope.com/european-power-platform-conference/), June 20-22, 2023 - Dublin, UK
