@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklyagenda51.png
 tags: []
-type: trending
+type: regular
 draft: false
 ---
 
@@ -131,7 +131,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [EUROPEAN COLLABORATION SUMMIT](https://www.collabsummit.eu/) - May 22-24, 2023 - Duesseldorf, Germany
 * [CollabDays Netherlands](https://www.communitydays.org/event/2023-06-10/collabdays-netherlands-2023) - June 10, 2023 - Utrecht, Netherlands
 * [CollabDays Central Europe](https://www.collabdays.org/2023-ce/) - June 17, 2023 - Zurich, Switzerland
-* [European Power Platform conference](https://www.sharepointeurope.com/european-power-platform-conference/), June 20-22, 2023 - Dublin, UK
+* [European Power Platform conference](https://www.sharepointeurope.com/european-power-platform-conference/), June 20-22, 2023 - Dublin, Ireland
 
 We hope to see you around!
 
