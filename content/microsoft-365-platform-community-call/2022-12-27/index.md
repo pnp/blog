@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 Platform Community Call - 27th of December, 2022"  
-summary: "Holiday season coffee and chat call \#2. No formal demos, yet nothing less than a robust 60-minute call with informative PnP resource site tours, Q&A with code dives and engaging discussions in chat! 2 articles delivered from Microsoft in past week."
+summary: "Holiday season coffee and chat call #2. No formal demos, yet nothing less than a robust 60-minute call with informative PnP resource site tours, Q&A with code dives and engaging discussions in chat! 2 articles delivered from Microsoft in past week."
 date: 2022-12-27 02:00:00 +0000
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
