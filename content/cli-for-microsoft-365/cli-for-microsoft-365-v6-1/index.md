@@ -1,6 +1,6 @@
 ---
 title: CLI for Microsoft 365 v6.1
-date: 2022-12-30T06:00:00.000Z
+date: 2022-12-31T06:00:00.000Z
 author: Adam Wójcik
 githubname: adam-it
 categories:
