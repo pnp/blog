@@ -83,7 +83,7 @@ In Outlook we do not currently support automatically opening a task pane. It's a
 
 **Is the auto open feature is available also for the IPAD platform?**
 
-I don't think office for IPAD is supported for current autoopen. Office for web does support this. Please go to this link for further information.  [Automatically open a task pane with a document - Office Add-ins | Microsoft Learn](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)
+I don't think office for IPAD is supported for the current autoopen feature. Office for web does support this. Please go to this link for further information.  [Automatically open a task pane with a document - Office Add-ins | Microsoft Learn](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)
 
 
 **I can see that the Graph API is available https://graph.microsoft.com/v1.0/me/MailFolders/notes/messages, how can we add our add-in or any other UI so that the Notes can be accessed? Can we pin the task pane and see it in the Notes section?** 
