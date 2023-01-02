@@ -1,5 +1,5 @@
 ---
-title: What is SPFx? – An extensibility model for Microsoft 365
+title: "What is SPFx? – An extensibility model for Microsoft 365"
 date: 2023-01-02T08:00:00.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
