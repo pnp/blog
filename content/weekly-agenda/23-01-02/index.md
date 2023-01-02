@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 2nd of January 2023 week
-date: 2022-12-29T10:00:22.873Z
+date: 2022-12-30T02:00:22.873Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -8,8 +8,9 @@ categories:
 images:
   - images/weeklyagenda01.png
 tags: []
-type: regular
-draft: true
+
+type: trending
+draft: false
 ---
 
 
@@ -18,7 +19,9 @@ We want to give you a better overview on what's happening each week. This is a s
 
 ## Community Calls
 
-Get involved by joining a call! We host a variety of [community calls](https://aka.ms/m365/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. This is the agenda for the following week:
+Get involved by joining a call! We host a variety of [community calls](https://aka.ms/m365/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
+
+This is the agenda for the following week:
 
 ### Microsoft 365 platform call - 3rd of January
 
@@ -56,6 +59,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 ### Microsoft 365 Community Channel
 
+* [How to create or migrate SharePoint pages with Microsoft Graph API and Power Automate](https://www.youtube.com/watch?v=bcC5dCYmRr0) by [Giuliano De Luca](https://twitter.com/DeLucaGiulian) | @DeLucaGiulian 
 * [Introduction to Microsoft Viva Toolkit to kickstart your Microsoft Viva extensibility](https://www.youtube.com/watch?v=KsuzPK08jA4) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [List Formatting Magic – inlineEditField and setValue for making list fields editable](https://www.youtube.com/watch?v=7RkgpO-jA0Y)
 * [What’s new in the Microsoft Teams Toolkit – Fall, 2022](https://www.youtube.com/watch?v=rh_-odWazn0) by [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev
@@ -66,6 +70,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Viva Connections & SharePoint Framework Community Call – 29th of December, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-12-29/)
 * [Microsoft 365 Platform Community Call - 27th of December, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-12-27/)
 * [Microsoft 365 & Power Platform Development Community call - 22nd of December, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-12-22/)
 
@@ -91,7 +96,7 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 ## Upcoming events
 
-Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options.
+Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
 * [M365 Saturday Ahmedabad](https://www.communitydays.org/event/2023-01-07/m365-saturday-ahmedabad) - January 7, 2023 - Ahmedabad, India
 * [M365 Twin Cities](https://www.communitydays.org/event/2023-01-21/m365-twin-cities) - January 21, 2023 - Brooklyn Park, Minnesota, USA
