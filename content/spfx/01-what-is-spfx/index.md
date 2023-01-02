@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories:
   - SPFx
 images:
-  - images/spfx-experiences-m365.png
+  - images/01-introduction-what-is-spfx-promo.png
 tags:
   - Microsoft Teams
   - Microsoft Viva  
