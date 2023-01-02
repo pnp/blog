@@ -1,5 +1,5 @@
 ---
-title: "What is SPFx? – An extensibility model for Microsoft 365 -test"
+title: "What is SPFx? – An extensibility model for Microsoft 365"
 date: 2023-01-02T08:00:00.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
@@ -13,7 +13,7 @@ tags:
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
-draft: true
+draft: false
 ---
 
 [SharePoint Framework](https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365 enabling developers to extend the Microsoft 365 services by including JavaScript driven components and experiences within the user interface. 
