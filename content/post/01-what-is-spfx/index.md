@@ -25,6 +25,8 @@ SPFx provides a cost-efficient option to extend the user interface with industry
 
 {{< notice note>}}
 This blog post is part of the a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
+
+* Next blog post in this series - [Getting started with SPFx – Building your first extensibility for Microsoft 365](https://pnp.github.io/blog/post/spfx-02-getting-started-with-spfx/)
 {{< /notice >}}
 
 
@@ -104,7 +106,7 @@ SharePoint Framework (SPFx) is a confusing name for an extensibility model which
 
 ## References
 
-Here are some initial references to get started with the SPFx in your development. Please do provide us with feedback and suggestions on what is needed to help you to get started with the SPFx development.
+Here are some initial references to get started with the SPFx in your development. Please do provide us with feedback and suggestions on what is needed to help you to get started with the SPFx development for Microsoft 365.
 
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
