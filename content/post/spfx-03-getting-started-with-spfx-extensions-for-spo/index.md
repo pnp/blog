@@ -29,9 +29,10 @@ videos:
 -	That is a great question. Let’s elaborate on the different options which the SPFx extensions can provide on customizing SharePoint Online experiences.
 
 {{< notice note>}}
-This blog post is part of the a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
+This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
 
 * Previous blog post in this series - [Getting started with SPFx – Building your first extensibility for Microsoft 365](https://pnp.github.io/blog/post/spfx-02-getting-started-with-spfx/)
+* Next blog post in this series - [Using Microsoft Graph with SPFx solutions](https://pnp.github.io/blog/post/spfx-04-using-microsoft-graph-in-spfx-solutions/)
 {{< /notice >}}
 
 
