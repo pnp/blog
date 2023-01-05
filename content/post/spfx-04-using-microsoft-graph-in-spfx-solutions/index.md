@@ -42,7 +42,7 @@ Using Microsoft Graph APIs with SPFx solution is easy and the recommended option
 
 1. Define the used Graph APIs in SPFx solution in solution manifest (`package-solution.json`)
 2. Deploy SPFx solution to tenant app catalog as the administrator
-3. Graph permissions for the used APIs - API calls will be blocked unless the APIs are specifically allowed by administrator. This is a security feature to avoid any accidental access on unnecessary information.
+3. Grant permissions for the used APIs - API calls will be blocked unless the APIs are specifically allowed by administrator. This is a security feature to avoid any accidental access on unnecessary information.
 
 See following resources for the official documentation on how to use Microsoft Graph with SPFx solutions
 
