@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 & Power Platform Development Community call - 5th of January, 2023"
-date: 2023-01-05T02:02:00-04:00
+date: 2023-01-06T02:02:00-04:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 and Power Platform Development Community Call"]

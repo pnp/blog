@@ -8,8 +8,7 @@ categories:
 images:
   - images/weeklyagenda01.png
 tags: []
-
-type: trending
+type: regular
 draft: false
 ---
 
