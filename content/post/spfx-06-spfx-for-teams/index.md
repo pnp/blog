@@ -15,7 +15,7 @@ tags:
 type: regular
 videos:
 - https://www.youtube.com/watch?v=JoTAC2i-XeU
-draft: true
+draft: false
 ---
 
 [SharePoint Framework](https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365 enabling developers to build different kinds of extensibility for Microsoft Viva, Microsoft Teams, Outlook, Microsoft 365 app (Office), and SharePoint. SPFx has multiple benefits like automatic Single Sign On, automatic hosting in the customer tenant, reuse same code across the service and industry standard web stack tooling.
