@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 9th of January 2023 week
-date: 2023-01-06T08:47:06.365Z
+date: 2023-01-05T08:47:06.365Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -8,8 +8,9 @@ categories:
 images:
   - images/weeklyagenda02.png
 tags: []
+
 type: trending
-draft: false
+draft: true
 ---
 
 
@@ -30,18 +31,17 @@ This is the agenda for the following week:
 
 Demos this time
 
-* [Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsoft) | @maisarissi_msft and Peter Ombwa (Microsoft) – Introduction Microsoft Graph PowerShell v2 preview release
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen and  [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell – Introduction to Viva Connections learn module - Tutorial part 1
-* [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm - Test how your SPFx solutions respond to throttling with Graph Developer Proxy
+* [Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsoft) | @maisarissi_msft and Peter Ombwa (Microsoft) – Introduction Microsoft Graph PowerShell v2 preview release
 
 Also: 📷 Picture Time with community in Together Mode!
-
 
 ### Office Add-ins Community Call - 11th of January
 
 * Wednesday, 11th of January, 2023, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/officeaddinscommunitycall) - we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Platform Community Blog - Office add-in developer community call](https://pnp.github.io/blog/categories/office-add-in-developer-community-call/)
+
 
 
 ### Viva Connections & SharePoint Framework Community Call - 12th of January
@@ -67,7 +67,6 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 ### Microsoft 365 Community Channel
 
-* [Add-in Auto Open for Word and Excel](https://www.youtube.com/watch?v=_TxZy5AJ4oI) by Yun Wang (Microsoft)
 * [Create a useful People Search with PnP Modern Search Web Parts](https://www.youtube.com/watch?v=1Ny1nfU1iy0) by [Dave Mehr](https://twitter.com/davemehr) (IOZ AG) | @davemehr
 * [Introduction to Microsoft Graph Developer Proxy](https://www.youtube.com/watch?v=jsXliaZCGqg) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
 * [Automate tasks in Excel Desktop](https://www.youtube.com/watch?v=2-247I8DEAU)
@@ -80,8 +79,6 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [What does tenant or site scoped deployment mean for SPFx solutions?](https://pnp.github.io/blog/post/spfx-05-tenant-or-site-scoped-spfx-solutions/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
-* [Using Microsoft Graph with SPFx solutions](https://pnp.github.io/blog/post/spfx-04-using-microsoft-graph-in-spfx-solutions/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Getting started with SPFx extensions for SharePoint Online](https://pnp.github.io/blog/post/spfx-03-getting-started-with-spfx-extensions-for-spo/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Getting started with SPFx – Building your first extensibility for Microsoft 365](https://pnp.github.io/blog/post/spfx-02-getting-started-with-spfx/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [What is SPFx? – An extensibility model for Microsoft 365](https://pnp.github.io/blog/post/01-what-is-spfx/ ) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
@@ -99,7 +96,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft 365 & Power Platform Development Community call - 5th of January, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-01-05/)
+
 * [Microsoft 365 Platform Community Call - 3rd of January, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-01-03/)
 
 ---
