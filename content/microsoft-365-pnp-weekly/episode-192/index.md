@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 192"
-summary: "Redmond based Microsoft Dev Div Program Manager - Julia Kasper joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about career path progression, Microsoft enabled Fusion development, Pro and Citizen developer opportunities, plus 15 articles/videos by Microsoft/Community are highlighted."
-date: 2022-12-12T02:00:01-00:00
+summary: "Netherlands based CTO Low-Code Solutions and Microsoft MVP - Albert-Jan Schot (BLIS.digital), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about Fusion development, low code - pro code integration opportunities for Partners, plus 24 articles/videos by Microsoft/Community are highlighted."
+date: 2023-01-09T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,37 +9,54 @@ images:
 - images/pnp-weekly-192-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=hvD9W-SaRiA
-draft: true
+- https://www.youtube.com/watch?v=hUjQzg1CGAg
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Microsoft Redmond based Visual Studio Development Program Manager - [Julia Kasper](https://twitter.com/Jujujuliakasper) \| @Jujujuliakasper 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands based CTO Low-Code Solutions and Microsoft MVP - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS.digital) \| @appieschot 
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
+* What cool stuff does BLIS.digital build and how does BLIS.digial help customers expand their reach?
+* Do you have a lot of customers not using Azure AD and Microsoft 365?
+* How challenging is it to expose an application in Microsoft Teams?
+* Step through the Line-of-questioning to an ISV who says they want to expose their application on a Teams tab.
+* Is Fusion Dev a real opportunity for Partners?
+* Why do companies want to invest in low code - pro code integration?
+* How exactly do you define Fusion Dev and Low code?
+* What is the relevance of Fusion when building for yourself, your team, your organization?
+* Is there a decision tree that helps you determine when to build a power app vs a custom (pro developer created) app?
+* What are the top 3 tips on classifying a project at intake as low code vs pro code?
+* Will we need Pro Developers in 5 years?
 
-Also, we showcased 15 articles/videos published by Microsoft and the PnP Community in the last week.
+## Referenced
+
+* Learn - [Fusion development in Power Platform](https://learn.microsoft.com/power-platform/developer/fusion-development)
+* Game - [Flappy Bird](https://flappybird.io/)
+
+Also, we showcased 24 articles/videos published by Microsoft and the PnP Community in the last weeks.
 
 ## This week
 
-* **Waldek** – not yet experiencing the holiday slow down, so many ideas, so little time. Taking off the last week of December.
-* **Vesa** – working throughout, but not too hard during holiday.
+* **Waldek** – focused on alignment, agreement and execution. More CLI for Microsoft 365, more Graph Developer Proxy, and more announcements on a host of projects and products. Presenting on how to use Microsoft Graph Developer Proxy in context of SPFx during January 10th, Microsoft 365 Platform call.
+* **Vesa** – this week releasing Microsoft Graph Pages API (Preview), Microsoft Learn module for Viva ACE development, announcement on Viva Toolkit and more.
+
+## Agenda items
+
+* [02:26](https://youtu.be/hUjQzg1CGAg?t=146) – Interview
+* [43:52](https://youtu.be/hUjQzg1CGAg?t=2632) – Weekly Articles
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, December 12, 2022.
+This session was recorded on Monday, January 9, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube hvD9W-SaRiA >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-vp8k5-1338aee >}}   
+    {{< youtube hUjQzg1CGAg >}}
+    Podcast at [http://pnpweekly.podbean.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazhVYXlDS3JqaUUwSnBpUGRIaVpaSU9KVks1Z3xBQ3Jtc0tsYVlXSG1MU3YtOVNLX0RPVWhlYlppT1N6eENJZHhuYzNOR1htNkM0eHRQWDlkdUhYNmNxMUllcTNzSVAtaUpTNWVlUTJ0MGhTMi1RaE1rTFdhbW4zSVp0TEdndWNPOVhfWFFqTHc3V1V1b0hURjFMcw&q=http%3A%2F%2Fpnpweekly.podbean.com)​
+*   <!--- Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+    {{< podbean pb-vp8k5-1338aee >}} --->  
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -71,7 +88,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Microsoft Graph API and the Power Platform](https://sharepains.com/2023/01/03/microsoft-graph-api-the-power-platform/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 * [Building a Microsoft Teams app: Posting a message to Teams on behalf of the current user](https://www.vrdmn.com/2022/12/building-microsoft-teams-app-posting.html) - [Vardhaman Deshpande](https://twitter.com/vrdmn) | @vrdmn
 * [VALL-E: Microsoft’s new zero-shot text-to-speech model can duplicate everyone’s voice in three seconds](https://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/) - [Damir Yalalov](https://twitter.com/DanYal95244926) | @DanYal95244926 
-* [Episode #233 - Hosting SPFx 1.16 Web Parts in Office and Outlook](https://www.youtube.com/watch?v=EDubNXWZhb4) - [Paolo Pialors](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
+* [Episode #233 - Hosting SPFx 1.16 Web Parts in Office and Outlook](https://www.youtube.com/watch?v=EDubNXWZhb4) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Desk Reservation Power Apps Template: Make Reservations Easier!](https://www.youtube.com/watch?v=n8fJXTMPYsg) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [😲 7 great things you missed for Power Apps this year! 🥳 A 2022 Recap](https://www.youtube.com/watch?v=mXX6dTKWra8) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @shanescows
 
