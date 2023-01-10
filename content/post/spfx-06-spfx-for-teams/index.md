@@ -27,6 +27,7 @@ draft: false
 This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
 
 * Previous blog post in this series - [What does tenant or site scoped deployment mean for SPFx solutions?](https://pnp.github.io/blog/post/spfx-05-tenant-or-site-scoped-spfx-solutions/)
+* Next blog post in this series - [Automatic hosting of SPFx code in Microsoft 365](https://pnp.github.io/blog/post/spfx-07-automatic-hosting-spfx-solutions/)
 {{< /notice >}}
 
 
