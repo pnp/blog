@@ -19,12 +19,13 @@ draft: false
 [SharePoint Framework](https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365 enabling developers to build different kinds of extensibility for Microsoft Viva, Microsoft Teams, Outlook, Microsoft 365 app (Office), and SharePoint. SPFx has multiple benefits like automatic Single Sign On, automatic hosting in the customer tenant, reuse same code across the service and industry standard web stack tooling.
 
 -	*What does that automatic hosting of the SPFx solutions in Microsoft 365 means in practice? How does that work?*
--	That is a great question. 
+-	That is a great question. Let's have a closer look on the internals of how the automatic hosting works in Microsoft 365
 
 {{< notice note>}}
 This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
 
 * Previous blog post in this series - [Building SPFx solutions for Microsoft Teams](https://pnp.github.io/blog/post/spfx-06-spfx-for-teams/)
+* Next blog post in this series - [How to use SPFx powered Microsoft Teams apps in Outlook and Office](https://pnp.github.io/blog/post/spfx-08-spfx-powered-teams-solutions-outlook-office/)
 {{< /notice >}}
 
 
