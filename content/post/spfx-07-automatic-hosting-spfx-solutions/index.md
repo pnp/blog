@@ -46,7 +46,7 @@ When SPFx solution is deployed to the app catalog, this setting is automatically
 
 As SPFx components are then being used in Microsoft 365, the JavaScript files and associated assets are automatically referenced from this centralized location without requiring an externally hosted location. Of course, regardless of the chosen packaging model, you can still easily and securely call Microsoft Graph APIs and other assets in Microsoft Azure, so this setting has no impact on other areas.
 
-## Frequent questions around tenant scoped deployment
+## Frequent questions around automatic hosting of SPFx solutions
 
 **Will automatic-hosting work for all different hosts where SPFx solutions can be used?** 
 
