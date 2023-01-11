@@ -11,7 +11,7 @@ tags: []
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=vCFnqq690p8
-draft: false
+draft: true
 ---
 
 ## Call summary
