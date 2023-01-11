@@ -67,7 +67,7 @@ Here’s a great sample of a SPFx powered Microsoft Teams solutions. This soluti
 
 ![One Productivity Hub - SPFx solution in Teams](images/productivity-hub.png)
 
-## Frequent questions around tenant scoped deployment
+## Frequent questions on using SPFx for Microsoft Teams solutions
 
 **Is using SPFx for Teams only for SharePoint developers?** 
 
