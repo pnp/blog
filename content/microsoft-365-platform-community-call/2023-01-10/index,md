@@ -21,16 +21,16 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 ### New this week
 
 * Announcements
-  * Samples – [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) - aka.ms/m365/samples now with more than 1450 samples from Microsoft and community.
+    * Samples – [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) - aka.ms/m365/samples now with more than 1450 samples from Microsoft and community.
 * News
-  * Article – [SharePoint Pages Microsoft Graph API is now available for public preview](https://devblogs.microsoft.com/microsoft365dev/sharepoint-pages-microsoft-graph-api-is-now-available-for-public-preview/) \| SharePoint team
-  * Article – [New Microsoft Graph Developer Proxy preview v0.3 with support for all APIs](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-3/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm & [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder
-  * Article – [New year, new rituals with Microsoft Viva Insights](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/new-year-new-rituals-with-microsoft-viva-insights/ba-p/3708902) - Sakshi Budhraja (Microsoft)
+    * Article – [SharePoint Pages Microsoft Graph API is now available for public preview](https://devblogs.microsoft.com/microsoft365dev/sharepoint-pages-microsoft-graph-api-is-now-available-for-public-preview/) \| SharePoint team
+    * Article – [New Microsoft Graph Developer Proxy preview v0.3 with support for all APIs](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-3/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm & [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder
+    * Article – [New year, new rituals with Microsoft Viva Insights](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/new-year-new-rituals-with-microsoft-viva-insights/ba-p/3708902) - Sakshi Budhraja (Microsoft)
 * Microsoft Teams Platform Updates
-  * Feedback – [Frequently asked questions](https://learn.microsoft.com/microsoftteams/platform/teams-faq)
+    * Feedback – [Frequently asked questions](https://learn.microsoft.com/microsoftteams/platform/teams-faq)
 * Conversations
-  * Microsoft 365 PnP Weekly – Episode 192 (January 9th) with Netherlands based CTO Low-Code Solutions and Microsoft MVP - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS.digital) \| @appieschot \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-192/) \| [podcast](https://pnpweekly.podbean.com/)
-  * Microsoft 365 DDeveloper Podcast – [Partner Showcase: Integratin Yasoon with Tobias Viehweger](https://www.m365devpodcast.com/e/partner-showcase-integrating-yasoon-with-tobias-viehweger/)
+    * Microsoft 365 PnP Weekly – Episode 192 (January 9th) with Netherlands based CTO Low-Code Solutions and Microsoft MVP - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS.digital) \| @appieschot \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-192/) \| [podcast](https://pnpweekly.podbean.com/)
+    * Microsoft 365 DDeveloper Podcast – [Partner Showcase: Integratin Yasoon with Tobias Viehweger](https://www.m365devpodcast.com/e/partner-showcase-integrating-yasoon-with-tobias-viehweger/)
 
 ### Demos
 
@@ -63,12 +63,12 @@ Great to see so many familiar faces in this new year. Welcome to 2023! Awesome t
 
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:
-  * First Time Contributor \| Thursday, January 12th, 10am PT \| 1pm ET \| 7pm CET – [Register](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUNjAwRVNETlA1MkxIR1MyTEs5STZFVVRJMC4u)
-  * Maturity Model Practitioners \| Tuesday, January 17th, 7am PST – [Download reoccurring invite](https://aka.ms/mm4m365/invite)
-  * Writing for the Web \| Monday, January 23rd, 10am PT \| 1pm ET \| 7:00pm CET - [Register](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUMFNPNFMyUk9CNFROUjJWTFFGSzdJV0czVC4u)
-  * PnP SPFx Samples w/NVM \| Wednesday, January 25th, 9am PT \| 12pm ET - [Register](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUNEE2SUdTOU1UOEtCTFU3MlM1SERDMlNVNi4u)
-  * PnP Office Hours – 1:1 session \| [Register](https://outlook.office365.com/owa/calendar/PnPSharingisCaring@warner.digital/bookings/)
-  * PnP Buddy System \| [Request a Buddy](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUMjRRUVg4NElZUUJLTEY1TVVSVDJFRFpLRS4u)
+    * First Time Contributor \| Thursday, January 12th, 10am PT \| 1pm ET \| 7pm CET – [Register](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUNjAwRVNETlA1MkxIR1MyTEs5STZFVVRJMC4u)
+    * Maturity Model Practitioners \| Tuesday, January 17th, 7am PST – [Download reoccurring invite](https://aka.ms/mm4m365/invite)
+    * Writing for the Web \| Monday, January 23rd, 10am PT \| 1pm ET \| 7:00pm CET - [Register](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUMFNPNFMyUk9CNFROUjJWTFFGSzdJV0czVC4u)
+    * PnP SPFx Samples w/NVM \| Wednesday, January 25th, 9am PT \| 12pm ET - [Register](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUNEE2SUdTOU1UOEtCTFU3MlM1SERDMlNVNi4u)
+    * PnP Office Hours – 1:1 session \| [Register](https://outlook.office365.com/owa/calendar/PnPSharingisCaring@warner.digital/bookings/)
+    * PnP Buddy System \| [Request a Buddy](https://forms.office.com/Pages/ResponsePage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUMjRRUVg4NElZUUJLTEY1TVVSVDJFRFpLRS4u)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free developer tenant
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) with more than 1400 samples from Microsoft and community.
@@ -78,16 +78,16 @@ Great to see so many familiar faces in this new year. Welcome to 2023! Awesome t
 ## Demo references
 
 * **Introduction Microsoft Graph PowerShell v2 preview release**
-  * Article - [Microsoft Graph PowerShell v2 is now in public preview, half the size and speeds up automation](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-powershell-v2-is-now-in-public-preview-half-the-size-and-will-speed-up-your-automations/) \| aka.ms/graph/preview-psv2
-  * Documentation - [Microsoft Graph PowerShell V2 Changelog and Upgrade Guide](https://github.com/microsoftgraph/msgraph-sdk-powershell/blob/features/2.0/docs/upgrade-to-v2.md) \| aka.ms/graph/sdk/powershell/upgrade-to-v2
-  * Feedback/Issues - [msgraph-sdk-powershell/issues](https://github.com/microsoftgraph/msgraph-sdk-powershell/issues/new)
-  * Discussion - [Is it a good idea to have different cmdlet names in the V2 SDK? \#1705](https://github.com/microsoftgraph/msgraph-sdk-powershell/discussions/1705)
+    * Article - [Microsoft Graph PowerShell v2 is now in public preview, half the size and speeds up automation](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-powershell-v2-is-now-in-public-preview-half-the-size-and-will-speed-up-your-automations/) \| aka.ms/graph/preview-psv2
+    * Documentation - [Microsoft Graph PowerShell V2 Changelog and Upgrade Guide](https://github.com/microsoftgraph/msgraph-sdk-powershell/blob/features/2.0/docs/upgrade-to-v2.md) \| aka.ms/graph/sdk/powershell/upgrade-to-v2
+    * Feedback/Issues - [msgraph-sdk-powershell/issues](https://github.com/microsoftgraph/msgraph-sdk-powershell/issues/new)
+    * Discussion - [Is it a good idea to have different cmdlet names in the V2 SDK? \#1705](https://github.com/microsoftgraph/msgraph-sdk-powershell/discussions/1705)
 * **Test how your SPFx solutions respond to throttling with Graph Developer Proxy**
-  * Tool - [Microsoft Graph Developer Proxy v0.3.0](https://github.com/microsoftgraph/msgraph-developer-proxy/releases/tag/v0.3.0) \| aka.ms/graph/proxy/download
-  * Demo - [Introduction to Microsoft Graph Developer Proxy](https://youtu.be/jsXliaZCGqg) - Sébastien Levert (Microsoft) @sebastienlevert
+    * Tool - [Microsoft Graph Developer Proxy v0.3.0](https://github.com/microsoftgraph/msgraph-developer-proxy/releases/tag/v0.3.0) \| aka.ms/graph/proxy/download
+    * Demo - [Introduction to Microsoft Graph Developer Proxy](https://youtu.be/jsXliaZCGqg) - Sébastien Levert (Microsoft) @sebastienlevert
 * **Introduction to Microsoft Viva ACE development learn module - Getting started**
-  * Exercise - [Exercise - Create SPFx Basic Card ACE showing SharePoint list data](https://learn.microsoft.com/training/modules/sharepoint-spfx-adaptive-card-extension-card-types/3-exercise-ace-basic-card-rest)
-  * Learn Module - [Create Adaptive Card Extensions (ACE) for Microsoft Viva Connections](https://learn.microsoft.com/training/modules/sharepoint-spfx-adaptive-card-extension-card-types/) \| aka.ms/viva/ace/learn
+    * Exercise - [Exercise - Create SPFx Basic Card ACE showing SharePoint list data](https://learn.microsoft.com/training/modules/sharepoint-spfx-adaptive-card-extension-card-types/3-exercise-ace-basic-card-rest)
+    * Learn Module - [Create Adaptive Card Extensions (ACE) for Microsoft Viva Connections](https://learn.microsoft.com/training/modules/sharepoint-spfx-adaptive-card-extension-card-types/) \| aka.ms/viva/ace/learn
 
 ## General resources
 
