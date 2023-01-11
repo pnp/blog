@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 Platform Community Call - 10th of January, 2023"  
-summary: "Demos - Introduction Microsoft Graph PowerShell v2 preview release, Test how your SPFx solutions respond to throttling with Graph Developer Proxy, and Introduction to Microsoft Viva ACE development learn module - Getting started. Delivered 3 articles, 1 FAQ and 2 conversations."
+summary: "Demos - Introduction Microsoft Graph PowerShell v2 preview release, Test how your SPFx solutions respond to throttling with Graph Developer Proxy, and Introduction to Microsoft Viva ACE development learn module - Getting started."
 date: 2023-01-11T04:00:00.000Z
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
@@ -8,10 +8,10 @@ categories: ["Microsoft 365 platform call"]
 images:
 - images/recording-10th-january.png
 tags: []
-type: "regular"
+type: regular
 videos:
 - https://www.youtube.com/watch?v=vCFnqq690p8
-draft: true
+draft: false
 ---
 
 ## Call summary
