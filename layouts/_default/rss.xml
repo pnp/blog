@@ -64,7 +64,7 @@
 
         {{ end }}
         {{ else }}
-            <media:content url="{{ site.Params.image | absURL }}" medium="image"/>
+            <media:content url="{{ site.Params.socialFallbackImage | absURL }}" medium="image"/>
             <description>{{ htmlUnescape "<p><img src="}}"{{ site.Params.image | absURL }}" class="webfeedsFeaturedVisual" {{ htmlUnescape "/></p>" }}
             {{ htmlUnescape "<p>"}}{{ $summary | htmlUnescape }}{{ htmlUnescape "</p>"}}</description>
         {{end}}

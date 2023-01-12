@@ -28,12 +28,21 @@ img {
   border: 0;
 }
 
-a,
-a:hover,
-a:focus {
-  text-decoration: none;
+a{
+  color: var(--theme-hyperlink);
+  text-decoration: underline;
+  &:focus{
+    border: 1px solid var(--theme-hyperlink);
+  }
+  &.btn, &.btn-outline-primary{
+    text-decoration: none;
+  }
 }
-
+.widget-list, .widget-list-inline{
+  a{
+    text-decoration: none;
+  }
+}
 a,
 button,
 select {
@@ -46,7 +55,18 @@ select {
 }
 
 a:hover {
-  color: $primary-color;
+  text-decoration: none;
+}
+h1, h2, h3, h4, h5 {
+  a{
+    text-decoration: none;
+    &:hover{
+      text-decoration: underline;
+    }
+    &:focus{
+      text-decoration: underline;
+    }
+  }
 }
 
 .slick-slide {

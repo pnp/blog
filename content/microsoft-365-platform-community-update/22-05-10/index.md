@@ -8,7 +8,7 @@ categories:
 # TODO Insert image
 images:
 - images/monthly-summary-may-2022.png
-tags: ["Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
 type: default
 ---
 
@@ -24,7 +24,7 @@ Topics vary from Microsoft Viva, Microsoft Graph, Microsoft Teams, Power Platfor
 
 See more details from New Microsoft 365 Platform (PnP) team model with new community leads
 
-The initiative is facilitated by Microsoft, but we have multiple community members as part of the platform community team (see team details in end of the article) and we are always looking to extend the Platform Community team with more community members. Notice that since this is open-source community initiative, so there’s no SLAs for the support for the samples provided through GitHub. Obviously, all officially released components and libraries are under official support from Microsoft. 
+The initiative is facilitated by Microsoft, but we have multiple community members as part of the platform community team (see team details in end of the article) and we are always looking to extend the Platform Community team with more community members. Notice that since this is open-source community initiative, so there’s no SLAs for the support for the samples provided through GitHub. Obviously, all officially released components and libraries are under official support from Microsoft.
 
 ### Main resources around Microsoft 365 Community
 
@@ -48,7 +48,7 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
-* 3rd of May - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [How to contribute to this blog ](https://pnp.github.io/blog/post/contribute-blog/) 
+* 3rd of May - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [How to contribute to this blog ](https://pnp.github.io/blog/post/contribute-blog/)
 * 1st of May - [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert - [Style your command bar with formatting magic](https://pnp.github.io/blog/post/style-command-bar-with-formatting-magic/)
 * 29th of April - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - [CLI for Microsoft 365 v5.2](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-2/)
 * 27th of April - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese  - [How to rename files in SharePoint with Power Automate](https://pnp.github.io/blog/post/how-to-rename-files-in-sharepoint-with-power-automate/)
@@ -59,7 +59,7 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 * 6th of May - [Viva Connections & SharePoint Framework Community Call – 5th of May, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-05-05/)
 * 4th of May - [Microsoft 365 Platform Community Call - 3rd of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-03/)
-* 28th of April - [Microsoft 365 & Power Platform Development Community call - 28th of April, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-04-28/)
+* 28th of April - [Microsoft 365 & Power Platform Development Community call - 28th of April, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-04-28/)
 * 27th of April - [Microsoft 365 Platform Community Call - 26th of April, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-04-26/)
 * 21st of April - [Viva Connections & SharePoint Framework Community Call – 21st of March, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-04-21/)
 * 20th of April - [Power Platform Community Call – April 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-april-2022/)
@@ -71,8 +71,8 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 In the Microsoft 365 Developer Podcast, Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Podcast is back!
 
-* 26th of April - [M365 Dev Podcast - Bookings API with Altamish Ahmad](https://pnp.github.io/blog/m365-dev-podcast/22-04-26-Altamish-Ahmad)
-* 20th of April - [M365 Dev Podcast - Extensibility discussion with Ed Averett](https://pnp.github.io/blog/m365-dev-podcast/22-04-20-Ed-Averett)
+* 26th of April - [M365 Dev Podcast - Bookings API with Altamish Ahmad](https://www.m365devpodcast.com/e/Bookings-API-with-Altamish-Ahmad)
+* 20th of April - [M365 Dev Podcast - Extensibility discussion with Ed Averett](https://www.m365devpodcast.com/e/extensibility-discussion-with-ed-averett)
 
 ### Microsoft 365 PnP Weekly Podcasts and vlogs
 
@@ -182,7 +182,7 @@ We welcome all community members to get involved on the community and open-sourc
     *   [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 
 *   [New Microsoft 365 Patterns and Practices (PnP) team members – November 2021](https://pnp.github.io/blog/post/new-microsoft-365-patterns-and-practices-pnp-team-members)
-    
+
     *   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed,
     *   [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @NataliePienkow1,
     *   [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp,
@@ -194,7 +194,7 @@ We welcome all community members to get involved on the community and open-sourc
     *   [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 
 *   [New Microsoft 365 Patterns and Practices (PnP) team members - May 2021](https://pnp.github.io/blog/post/new-microsoft-365-patterns-and-practices-pnp-team-members-may)
-    
+
     *   [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo),
     *   [Patrick Lamber](https://github.com/plamber) (Experts Inside AG)
 
@@ -406,7 +406,7 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [Building a wellbeing solution with Teams and Viva Connections](https://www.youtube.com/watch?v=87HCKNs6KzI) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 * [Getting started with Microsoft Teams Private Channels](https://www.youtube.com/watch?v=oK_JKmG1wvs) by [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
 * [Controlling list toolbar with JSON using commandBarProps option](https://www.youtube.com/watch?v=P7HoSUnhmOE) by [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
-* [Building in-meeting document signing app for Microsoft Teams](https://www.youtube.com/watch?v=6cwj_UmNrlQ) by SaiBhavya Reddy (Microsoft) and Eoin O'Brien (Microsoft)   
+* [Building in-meeting document signing app for Microsoft Teams](https://www.youtube.com/watch?v=6cwj_UmNrlQ) by SaiBhavya Reddy (Microsoft) and Eoin O'Brien (Microsoft)
 * [Getting started with Branching in Microsoft Forms](https://www.youtube.com/watch?v=Pf8un8IZ4Tw) by [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
 * [Ribbon API updates with Office Add-ins](https://www.youtube.com/watch?v=SGQ5ccfQI_g) by Abid Rahman (Microsoft) and Preethika Kiruveedula (Microsoft)
 * [Getting started with PnPjs 3.0 JavaScript library](https://www.youtube.com/watch?v=Fxh6ha6UWmM&t=3s) by [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997 and [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
@@ -423,13 +423,13 @@ Here are the new Microsoft demo or guidance videos released since the last month
 * [Introduction on the new Microsoft Graph Toolkit sample gallery](https://www.youtube.com/watch?v=QsLgkPmDYeU) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
 * [Using 3rd Party APIs in Viva Connections ACEs](https://www.youtube.com/watch?v=YPTic0ZOO-M) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Updates on Independent Publisher Connectors & Miro Connector Demo](https://www.youtube.com/watch?v=iUzykwMCOGI) by [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) | @nataliePienkow1 and [Michał Romiszewski](https://twitter.com/romiszewski) | @romiszewski
-* [Securing your Java Web Apps and APIs with Microsoft Identity – April 2022](https://www.youtube.com/watch?v=a4vH9fKG8cs) by Didun Ayodeji (Microsoft) 
+* [Securing your Java Web Apps and APIs with Microsoft Identity – April 2022](https://www.youtube.com/watch?v=a4vH9fKG8cs) by Didun Ayodeji (Microsoft)
 * [Microsoft 365 Maturity Model - April 2022](https://www.youtube.com/watch?v=72cHzMdPdus) by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII, [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc, [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini, [Simon Doy](https://www.twitter.com/simondoy) (iThink 365) | @Simondoy, [Simon Hudson](https://www.twitter.com/simonjhudson) (Novia Works) | @Simonjhudson, [Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
 * [Creating a workflow engine within SharePoint Framework and Azure](https://www.youtube.com/watch?v=ZL6V0jgotuM) by Greg Hitchon | Greg-Hitchon
 * [Docker Loves SharePoint Framework (SPFx)](https://www.youtube.com/watch?v=7wTWj7sbswg) by Aleksandr Sapozhkov | shurick81
 * [Making SharePoint Syntex testing easy – new templates in look book service](https://www.youtube.com/watch?v=MEqd1pfV9aw) by [Sean Squires](https://twitter.com/iamseansquires) (Microsoft) | @iamseansquires
 * [Getting started on using Power Automate in Microsoft Lists](https://www.youtube.com/watch?v=jJVAh77cYmQ) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
-* [Microsoft Teams Meeting app sample with link unfurling](https://www.youtube.com/watch?v=zkd5_zMXokM) by Anuj Gupta (Microsoft) 
+* [Microsoft Teams Meeting app sample with link unfurling](https://www.youtube.com/watch?v=zkd5_zMXokM) by Anuj Gupta (Microsoft)
 * [Building Microsoft Graph Toolkit apps with Microsoft Teams](https://www.youtube.com/watch?v=AAKxbKDptwo) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
 * [Upgrade Web Parts using CLI for Microsoft 365](https://www.youtube.com/watch?v=NGYGJG4VNHs&t=27s) by [Hugo Bernier](https://twitter.com/bernierh) | @Bernierh
 * [Latest on Microsoft Graph connectors SDK](https://www.youtube.com/watch?v=rRLRXWjY11k) by Rajdeep Chandra
@@ -519,7 +519,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   Edmund David (Insentra)
 *   [Edris Kakembo](https://www.twitter.com/kaxeddie) (WFP) | @Kaxeddie
 *   [Eduardo Cáceres](https://github.com/eduherminio) | eduherminio
-*   [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content and Cloud) | @EjazHussain"
+*   [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content and Cloud) | @EjazHussain
 *   [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 *   [Elise Yang](https://github.com/elisenyang) (Shopify) | elisenyang
 *   [Elka Dunnette](https://www.twitter.com/ElkaD_YYC) | @ElkaD\_YYC
@@ -757,7 +757,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Allen Snow](https://twitter.com/asnow003) (Microsoft) | @Asnow003
 *   Altamish Ahmad (Microsoft)
 *   Andrey Esipov (Microsoft)
-*   Anuj Gupta (Microsoft) 
+*   Anuj Gupta (Microsoft)
 *   [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
 *   [Arijit Mondal](https://www.github.com/ArijitCloud) (Microsoft)
 *   Arvind Ravi (Microsoft)
@@ -778,7 +778,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 *   [Dave Randall](https://github.com/triplanedave) (Microsoft) | triplanedave
 *   [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
 *   [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
-*   Didun Ayodeji (Microsoft) 
+*   Didun Ayodeji (Microsoft)
 *   [Doğan Erişen](https://github.com/derisen) (Microsoft) | derisen
 *   [Dragan Panjkov](https://twitter.com/panjkov) (Microsoft) | @Panjkov
 *   [Ed Averett](https://twitter.com/Ed_Averett) (Microsoft) | Ed\_Everett

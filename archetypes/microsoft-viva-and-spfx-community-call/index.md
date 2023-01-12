@@ -51,11 +51,9 @@ SharePoint Framework (SPFx)|CURRENT VERSION|STATUS
 [PnP SPFx Generator](https://github.com/pnp/generator-spfx)|CURRENT VERSION|STATUS
 [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|CURRENT VERSION|STATUS
 
-The host of this call is [NAME](https://twitter.com/TWITTER) (Microsoft) | @TWITER.  Q&A takes place as always in chat throughout the call.
+The host of this call is [NAME](https://twitter.com/TWITTER) (Microsoft) | @twitter.  Q&A takes place as always in chat throughout the call.
 
-![A bunch of people smiling and waving](images/together-mode.gif)
 
-Thank you for joining the call today and/or for viewing the recording.  Awesome to see many of you on the screen.
 
 ## Actions
 
@@ -188,7 +186,7 @@ Additional resources around the covered topics and links from the slides.
 -   [Reusable web part property controls](https://sharepoint.github.io/sp-dev-fx-property-controls/)
 -   [Reusable react controls for SharePoint Framework solutions](https://sharepoint.github.io/sp-dev-fx-controls-react/)
 -   [Reusable controls webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
--   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
+-   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
 -   [PnP SPFx Yeoman Generator](https://github.com/pnp/generator-spfx) \- Extends the out-of-the-box experience with open-source community capabilities
 -   [SharePoint Dev UserVoice](https://aka.ms/spdev-uservoice) \- for new feature requests
 
@@ -211,7 +209,7 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 
 -   SharePoint Framework engineering update from Microsoft
 -   Talk about PnP JavaScript Core libraries
--   Office 365 CLI Updates
+-   CLI for Microsoft 365 Updates
 -   SPFx reusable controls
 -   PnP SPFx Yeoman generator
 -   Share code samples and best practices

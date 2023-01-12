@@ -7,7 +7,7 @@ githubname: "vesajuvonen"
 categories: ["Microsoft 365 platform call"]
 images:
 - images/recording-1st-feb.png
-tags: ["Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=Ddc0vZYAXDs
@@ -64,18 +64,16 @@ The host of this call was [Brian T. Jackett](https://twitter.com/BrianTJackett) 
 *   Download the recurrent invite for this call – [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call%C2%A0)
 *   Call attention to your great work by using the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
 
-![thumbnail image 2 of blog post titled Microsoft 365 Platform Call – 1st of February, 2022 ](images/TogetherMode-Feb12022.gif)
-
-Thank you everybody for joining the call today.  Nice seeing you.   Thanks for your invaluable feedback on our platform.    
+  
 
 ## Demos
 
 *   **Access a user's calendar events in an ASP.NET Core app with Microsoft Graph** - APIs and SDKs.  Like how you would tie into an individual’s e-mail, Teams conversations, OneDrive files, etc., follow this 6-step process from app creation to result rendering for calendar events. Specifically highlighted is the code for middleware (for authentication), the GraphCalendarClient, injection and for rendering a person’s calendar events for a specified date range and time zone.  Step-by-step details in Learn module.   
-    
+
 *   **Latest on Microsoft Bookings API on Microsoft Graph** – Bookings is an appointment scheduling app that integrates with Outlook calendars and with Teams online meetings.  Bookings allows owner to publish their calendar to the outside world for purposes of allowing others to book appointments with owner.  Available for 3 years already, Booking APIs are now available in Graph on v1.0 endpoint.  Hear about use cases, object entities, key operations, permissions, newest APIs and roadmap. 
-    
+
 *   **Using the MGT Agenda and Tasks Components in your solutions** – 3 components reviewed – Agenda, Planner Tasks, and To-Do tasks.  Agenda – listing of future events in your calendar – specify event order, by day of week, number events, number days, by reference time zone and customized rendering.  Planner Tasks – see tasks assigned to you from multiple projects.   Essentially manage Planner tasks (add, delete, modify) without having to launch Planner App. Finally in To-do – access my Reading List, add/delete readings. 
-    
+
 
 Thank you for your work. Samples are often showcased in Demos.
 
@@ -93,7 +91,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D1**:  Learn - [Access a user's calendar events in an ASP.NET Core app with Microsoft Graph](https://docs.microsoft.com/learn/modules/msgraph-dotnet-core-access-user-events/) | aka.ms/learn-msgraph-calendar
 *   **D1**:  Tool – [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer) | aka.ms/ge
 *   **D1**:  Related Demo - [Show a user's emails in an ASP.NET Core app with Microsoft Graph](https://youtu.be/YG16snk1fJU?t=621) – [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   **D2**:  Documentation - [Microsoft Bookings API overview (preview)](https://docs.microsoft.com/graph/booking-concept-overview)  
+*   **D2**:  Documentation - [Microsoft Bookings API overview (preview)](https://docs.microsoft.com/graph/booking-concept-overview) 
 *   **D2**:  Documentation - [Use the Microsoft Bookings API in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-1.0) 
 *   **D2**:  Microsoft.com - [Microsoft Bookings](https://www.microsoft.com/microsoft-365/business/scheduling-and-booking-app?rtc=1) 
 *   **D2**:  Documentation - [Use the Microsoft Bookings API in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-1.0) (v1) 

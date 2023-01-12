@@ -6,16 +6,16 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/Implementations.png
-tags: ["SharePoint framework (SPFx)", "Microsoft Graph toolkit"]
+tags: ["SharePoint framework (SPFx)", "Microsoft Graph Toolkit"]
 type: "regular"
 ---
 
-## Purpose 
+## Purpose
 
 We can use this when we have a requirement to show Azure AD users in
 People picker control.
 
-## Microsoft Graph Toolkit with React 
+## Microsoft Graph Toolkit with React
 
 The Microsoft Graph Toolkit React components (mgt-react) allow React
 developers to use the Microsoft Graph Toolkit in their React
@@ -26,7 +26,7 @@ PascalCase. To use a component, first, import it at the top.
 For more details refer to
 [use-toolkit-with-react](https://docs.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react).
 
-## Implementation 
+## Implementation
 
 -   Open a command prompt
 -   Move to the path where you want to create a project
@@ -35,7 +35,7 @@ For more details refer to
 Move to the above-created directory using:
     cd rect-azure-users
 Now execute the below command to create an SPFx solution:
-    yo @microsoft/sharepoint 
+    yo @microsoft/sharepoint
 It will ask some questions, as shown below,
 
 ![Implementations.png](images/Implementations.png)
@@ -62,7 +62,7 @@ Move to the **package-solution.json** and add the below permissions in
       {
         "resource": "Microsoft Graph",
         "scope": "Group.Read.All"
-      },     
+      },
       {
         "resource": "Microsoft Graph",
         "scope": "Directory.Read.All"
@@ -83,7 +83,7 @@ import { WebPartContext } from "@microsoft/sp-webpart-base";
 export interface IReactAzureadUsersProps {
   description: string;
   graphClient: MSGraphClient;
-  context: WebPartContext;  
+  context: WebPartContext;
 }
 ```
  
@@ -307,7 +307,7 @@ export default class ReactAzureadUsers extends React.Component<IReactAzureadUser
 ```
  
  
-## Output 
+## Output
 
 ![react-ad-mgt-users.gif](images/react-ad-mgt-users.gif)
  

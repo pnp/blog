@@ -1893,7 +1893,7 @@ LITHIUM.RenderedScripts = [
 <UL>
 <LI>SharePoint Framework engineering update from Microsoft</LI>
 <LI>Talk about PnP JavaScript Core libraries</LI>
-<LI>Office 365 CLI Updates</LI>
+<LI>CLI for Microsoft 365 Updates</LI>
 <LI>SPFx reusable controls</LI>
 <LI>PnP SPFx Yeoman generator</LI>
 <LI>Share code samples and best practices</LI>

@@ -552,7 +552,7 @@ from the the different repositories.
 -   New sample
     [react-find-parker](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-find-parker)
     by [Adam
-    Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361906635%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Eaq1arLCtDIRptVPmY0WeCk7rjMHs5oJk5sbpXJclds%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782 to showcase gamification like
     "where is Wally" on a site
 -   New sample
@@ -588,7 +588,7 @@ from the the different repositories.
 -   New sample
     [react-application-my-flows-list](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-my-flows-list)
     by [Adam
-    Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361906635%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Eaq1arLCtDIRptVPmY0WeCk7rjMHs5oJk5sbpXJclds%3D&reserved=0) (Hitachi
+    Wójcik](https://twitter.com/Adam25858782) (Hitachi
     Energy) | @Adam25858782 that represents the user flow list
 -   New sample
     [ImageCard-HybridWork-Checkin](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-HybridWork-Checkin)
@@ -666,114 +666,113 @@ day-to-day operations.
 Here are the latest updates on the Script Samples
 
 -   Updated [Clean Up Unwanted Site Columns from Content Types and
-    Lists/Libraries](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-cleanup-site-column-usage%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361906635%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=wpwud0Uc4owD1c%2B%2FsNJxZM4cJ4VxOXBf9gfx1eAfQNY%3D&reserved=0)
+    Lists/Libraries](https://pnp.github.io/script-samples/spo-cleanup-site-column-usage/README.html?tabs=pnp-ps)
     by [Adam
-    Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361906635%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Eaq1arLCtDIRptVPmY0WeCk7rjMHs5oJk5sbpXJclds%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 -   New [Clone a Microsoft
-    Team](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fteams-clone-team%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361906635%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=%2BevMACWWisfmXl0yWm3qjbESDdmpebUaqCAZhD%2FL0zs%3D&reserved=0)
+    Team](https://pnp.github.io/script-samples/teams-clone-team/README.html?tabs=pnpps)
     by [Rodrigo
-    Pinto](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361906635%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=JPD5eW%2BrSaEzphQoPU%2BMjiRZWKu3pRMzlviaFmbIuiM%3D&reserved=0)
+    Pinto](https://twitter.com/ScoutmanPt)
     (Storm Technology) | @ScoutmanPt
 -   Updated [Create list and libraries from CSV
-    file](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-add-multiple-lists-using-csv-file%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=6pZwLZae984A1rjpCAotfyVHGp%2BMyIw0fIy%2FsHypzws%3D&reserved=0)
+    file](https://pnp.github.io/script-samples/spo-add-multiple-lists-using-csv-file/README.html?tabs=pnpps)
     by [Valeras
-    Narbutas](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FValerasNarbutas&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=LOd94LvyPT5HY3%2F6%2BB%2FQ41r1KYAOZ8fi%2FkhgHKdS%2FWA%3D&reserved=0)
+    Narbutas](https://twitter.com/ValerasNarbutas)
     (Macaw) | @ValerasNarbutas
 -   New [SharePoint Modern Page URL
-    Report](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-modern-page-url-report%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=gIgzBg6FZPqXm6N3Z%2BCO4r7RhECC3y9zkqWk0CeKdOM%3D&reserved=0)
+    Report](https://pnp.github.io/script-samples/spo-modern-page-url-report/README.html?tabs=pnpps)
     by [Paul
-    Bullock](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fpkbullock&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=WcGXlwfG%2Bbdhllqsdls87WrmZS%2FAFeU46dz4Fpk4G88%3D&reserved=0)
+    Bullock](https://twitter.com/pkbullock)
     (CPS) | @pkbullock
 -   Updated [Export all List and Libraries with Item count and
     Permission in
-    CSV](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-get-lists-libraries-item-count-permissions%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=lViz5NWW8I5oafnCKurMIfjPyBVG1WL7xvlXFNQqypw%3D&reserved=0)
+    CSV](https://pnp.github.io/script-samples/spo-get-lists-libraries-item-count-permissions/README.html?tabs=pnpps)
     by [Adam
-    Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=DAN56WD8uCgRFCBFT9kIU8GjJ8Ypy0cN0hySitrFXs0%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 -   New [Flow run day
-    summary](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fflow-runs-day-summary%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=kJNcEabIBKQsybvtTuu9Pbfvfpuxec9eZkmrx2GhcdU%3D&reserved=0)
-    by [Adam
-    Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=DAN56WD8uCgRFCBFT9kIU8GjJ8Ypy0cN0hySitrFXs0%3D&reserved=0)
+    summary](https://pnp.github.io/script-samples/flow-runs-day-summary/README.html?tabs=cli-m365-ps)
+    by https://twitter.com/Adam25858782
     (Hitachi Energy) | @Adam25858782
 -   New [Create and add list template to SharePoint site with content
     types,site columns and list
-    views](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-add-list-template-with-custom-library%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=nL9x8feAucQDZjtcZZ1lYsFpcLRkisqcFFIxlJAzc7A%3D&reserved=0)
+    views](https://pnp.github.io/script-samples/spo-add-multiple-document-libraries-with-list-template/README.html?tabs=pnpps)
     by [Reshmee
-    Auckloo](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Freshmeeauckloo&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=%2BUusF9K4qoAgLz2dOGy3lmrufLwPleZi3Drocnv%2BL%2BU%3D&reserved=0)
+    Auckloo](https://twitter.com/reshmeeauckloo)
     | @reshmeeauckloo
 -   New [List out all Azure AD Apps along with their KeyCredentials and
     PasswordCredentials along with
-    Expira\...](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Faad-apps-expired-keys%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=i3XcfotFTvcRguqpYuf9Ke%2F6fj9jWqLELPIAEj3bTl0%3D&reserved=0)
+    Expira\...](https://pnp.github.io/script-samples/aad-apps-expired-keys/README.html?tabs=graphps)
     by [Srinivas
-    Varukala](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsvarukala&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=hB1N9L15hhOUOVPXd%2FuYCG8sPJP0HinF1fADwf0YOCk%3D&reserved=0)
+    Varukala](https://twitter.com/svarukala)
     (Microsoft) | @svarukala
 -   Updated [Add a tenant theme to SharePoint
-    Online](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-add-tenant-theme%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=DJRjV6LQkAWzccI3he%2BlbeL9a4gqJ%2FgwyUfbBYkfds0%3D&reserved=0)
+    Online](https://pnp.github.io/script-samples/spo-add-tenant-theme/README.html?tabs=pnpps)
     by [Adam
-    Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=18DBjdPOPkA3SWYTba%2FHuftYs%2FSDjyGo4g1JnZuVMO0%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 -   Updated [Read SharePoint List Items Using CAML
-    Query](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-list-items-with-caml-query%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=uO%2BzAlAE17JMHDcd2i%2FocUXJlqW2n64eK%2BHb6wJu%2BW8%3D&reserved=0)
+    Query](https://pnp.github.io/script-samples/spo-list-items-with-caml-query/README.html?tabs=pnpps)
     by [Adam
-    Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=18DBjdPOPkA3SWYTba%2FHuftYs%2FSDjyGo4g1JnZuVMO0%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 -   New [Force Team Files Tab
-    Provision](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fteams-force-filestab-provision%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=QpMyygTD%2B%2FhueJq1IeZ5CajmfHL%2FL3aKL2xpnqStlS4%3D&reserved=0)
+    Provision](https://pnp.github.io/script-samples/teams-force-filestab-provision/README.html?tabs=pnpps)
     by [Rodrigo
-    Pinto](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=y5PTIELlqinqHbl98SBNVbW7USfFp7MQAMG0zDiCE5w%3D&reserved=0)
+    Pinto](https://twitter.com/ScoutmanPt)
     (Storm Technology) | @ScoutmanPt
 -   New [Teams Full
-    Report](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fteams-full-report%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=pEw5BZ0FNJm7eXJQwUlyYHytaKob3SwdvfqIXKWgsuc%3D&reserved=0)
+    Report](https://pnp.github.io/script-samples/teams-full-report/README.html?tabs=pnpps)
     by [Rodrigo
-    Pinto](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=y5PTIELlqinqHbl98SBNVbW7USfFp7MQAMG0zDiCE5w%3D&reserved=0)
+    Pinto](https://twitter.com/ScoutmanPt)
     (Storm Technology) | @ScoutmanPt
 -   New [Create multiple document libraries using custom list
-    template](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-add-multiple-document-libraries-with-list-template%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=xhYDmetOwofyf32kb4oNAQFmFNgPWdhJqE%2BYJ832eq4%3D&reserved=0)
+    template](https://pnp.github.io/script-samples/spo-add-multiple-document-libraries-with-list-template/README.html?tabs=pnpps)
     by [Reshmee
-    Auckloo](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Freshmeeauckloo&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=madYELTTmDQjt2%2BFslG1z5d%2BcqKpUCwNmhuBR41P1UU%3D&reserved=0)
+    Auckloo](https://twitter.com/reshmeeauckloo)
     | @reshmeeauckloo
--   New [Run A Seach Query And Export To
-    CSV](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-search-export-to-csv%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=wIN3o2BQFnIK3Ijnb4rOTvFWzVhyA2oFY%2F%2B4UBe%2Fx%2BI%3D&reserved=0)
+-   New [Run A Search Query And Export To
+    CSV](https://pnp.github.io/script-samples/spo-search-export-to-csv/README.html?tabs=pnpps)
     by [Jim
-    Love](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fjimmywim&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=M%2BetG%2BYa%2FAjHfOnZ%2FfoOto9C1PEmqvjRWrMBZE78iOo%3D&reserved=0)
+    Love](https://twitter.com/jimmywim)
     (ID Live Ltd) | @jimmywim
 -   Updated [Create and add site design to SharePoint site with site
     columns, content
-    type](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-add-site-design-with-custom-list%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Swpa46c9hBd%2B5clPkgitMgMfjRnco7w974giPjzPoWs%3D&reserved=0)
+    type](https://pnp.github.io/script-samples/spo-export-space-page-as-template-and-save-to-sharepoint/README.html?tabs=pnpps)
     by [Valeras
-    Narbutas](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FValerasNarbutas&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=BqZIB3BtQ5f5%2BSN7bm1%2Fr%2B4QSfXtQe10bxmoQj49hcs%3D&reserved=0)
+    Narbutas](https://twitter.com/ValerasNarbutas)
     (Macaw) | @ValerasNarbutas
 -   Updated [Export CSV To SharePoint List
-    Data](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-export-data-to-sharepoint-lists%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Yx%2F9pYx0pTl%2B3peReWBkQzLMH2%2F8rFEMdXnckKrXKjY%3D&reserved=0)
+    Data](https://pnp.github.io/script-samples/spo-export-data-to-sharepoint-lists/README.html?tabs=pnpps)
     by [Adam
-    Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=YCl5LvWPNo3XS%2B7YwrHfVEaH7IyJZ4KHo%2FDLwPjhQu8%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 -   Updated [Add a document library web part to a page (and only show a
     specific
-    folder)](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-add-document-library-webpart-to-page%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=NWkAepojyY%2F%2FXum2lz8b%2BXwNhXIvF1R2AQPvx6i%2Frzw%3D&reserved=0)
+    folder)](
     by [Adam
-    Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=YCl5LvWPNo3XS%2B7YwrHfVEaH7IyJZ4KHo%2FDLwPjhQu8%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 -   New [SharePoint Modern Page Publishing
-    Report](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-modern-page-publishing-report%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=2myxogtQHROXSNEVwypvxwb63mpkElZduswp5bBE2LQ%3D&reserved=0)
+    Report](https://pnp.github.io/script-samples/spo-modern-page-publishing-report/README.html?tabs=pnpps)
     by [Paul
-    Bullock](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fpkbullock&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=YXix9ncsPrWgz92FNa1hHiXQ98fE6qj%2F8DOXG%2FvQzaY%3D&reserved=0)
+    Bullock](https://twitter.com/pkbullock)
     (CPS) | @pkbullock
 -   New [Adding a new modern calendar view to a SharePoint
-    list](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-add-modern-calendar-view%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=0Z3YIdR0qngCXljIHP8tywTqPohh5jLfQ2aKosV3jYo%3D&reserved=0)
+    list](https://pnp.github.io/script-samples/spo-add-modern-calendar-view/README.html?tabs=pnpps)
     by [Leon
-    Armston](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FLeonArmston&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Nq7932KMpx5mQWbeB1By3iBnRtzdqR07uYIz%2FOB5qqU%3D&reserved=0)
+    Armston](https://twitter.com/LeonArmston)
     (Intelogy) | @LeonArmston
 -   Updated [Export all flows in
-    environment](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fflow-export-all-flows-in-environment%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=KDHIvL5SeitNimHavheDVTscH6CaqFEAf1Noc5pYjvE%3D&reserved=0)
+    environment](https://pnp.github.io/script-samples/flow-export-all-flows-in-environment/README.html?tabs=cli-m365-ps)
     by [Leon
-    Armston](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FLeonArmston&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Nq7932KMpx5mQWbeB1By3iBnRtzdqR07uYIz%2FOB5qqU%3D&reserved=0)
+    Armston](https://twitter.com/LeonArmston)
     (Intelogy) | @LeonArmston
 -   Updated [Report of Private Teams channels to
-    Excel](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Freport-private-teams-excel%2FREADME.html&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Cb67gmSoC1r%2Bg%2BvjI6%2BAAsGlQQdU8IrtaCzAcZXkyng%3D&reserved=0)
+    Excel](https://pnp.github.io/script-samples/report-private-teams-excel/README.html?tabs=pnpps)
     by [Adam
-    Wójcik](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=ulMhSFwRQqnWXDKQiPuhBKCA99T2OBcYPx%2Bq2hYD%2Fp0%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 If you have any existing scripts which you'd be willing to share with
 others - please submit a pull request or contact the PnP team members to
@@ -978,7 +977,7 @@ involved!
     controls are using Office UI Fabric React controls under the covers
     and they are SharePoint aware to increase the productivity of
     developers.
--   **Office 365 CLI** - Using the Office 365 CLI, you can manage your
+-   **CLI for Microsoft 365** - Using the CLI for Microsoft 365, you can manage your
     Microsoft Office 365 tenant and SharePoint Framework projects on any
     platform. See [release
     notes](https://pnp.github.io/cli-microsoft365/about/release-notes/) for
@@ -1501,7 +1500,7 @@ please let us know.
 -   [Jese Navaranjan](https://twitter.com/JeseNav2) (Avanade) |
     @JeseNav
 -   [Jim
-    Love](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fjimmywim&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362056626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=M%2BetG%2BYa%2FAjHfOnZ%2FfoOto9C1PEmqvjRWrMBZE78iOo%3D&reserved=0) (ID
+    Love](https://twitter.com/jimmywim) (ID
     Live Ltd) | @jimmywim
 -   [João J. Mendes](https://twitter.com/joaojmendes) (Valo Solutions)
     | @joaojmendes
@@ -1538,7 +1537,7 @@ please let us know.
 -   [Lee Ford](https://twitter.com/lee_ford) (Symity)
     | [@Lee](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1218535)\_ford
 -   [Leon
-    Armston](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FLeonArmston&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Nq7932KMpx5mQWbeB1By3iBnRtzdqR07uYIz%2FOB5qqU%3D&reserved=0) (Intelogy)
+    Armston](https://twitter.com/LeonArmston) (Intelogy)
     | @LeonArmston
 -   [[Lindsay
     Shelton](https://www.twitter.com/lshelton_tech)]{.underline} (Stowers
@@ -1640,13 +1639,13 @@ please let us know.
     Husmo](https://www.github.com/reidarhusmo)]{.underline} (PointTaken)
     | @reidarhusmo
 -   [Reshmee
-    Auckloo](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Freshmeeauckloo&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=%2BUusF9K4qoAgLz2dOGy3lmrufLwPleZi3Drocnv%2BL%2BU%3D&reserved=0) |
+    Auckloo](https://twitter.com/reshmeeauckloo) |
     @reshmeeauckloo
 -   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive)
     | @RickVanRousselt
 -   Rob Bell (Kizan technologies)
 -   [Rodrigo
-    Pinto](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361906635%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=JPD5eW%2BrSaEzphQoPU%2BMjiRZWKu3pRMzlviaFmbIuiM%3D&reserved=0) (Storm
+    Pinto](https://twitter.com/ScoutmanPt) (Storm
     Technology) | @ScoutmanPt
 -   [[Rocio Holub](https://www.github.com/rsholub)]{.underline} (DAI)
 -   [[Roy
@@ -1717,7 +1716,7 @@ please let us know.
 -   [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions)
     | @troystaylor
 -   [Valeras
-    Narbutas](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FValerasNarbutas&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=LOd94LvyPT5HY3%2F6%2BB%2FQ41r1KYAOZ8fi%2FkhgHKdS%2FWA%3D&reserved=0) (Macaw)
+    Narbutas](https://twitter.com/ValerasNarbutas) (Macaw)
     | @ValerasNarbutas
 -   [[Varun](https://www.github.com/varunms365)]{.underline} (MVA)|
     @varunms365
@@ -1816,7 +1815,7 @@ closely involved with the PnP work during last month.
 -   [Dragan Panjkov](https://twitter.com/panjkov) | @panjkov
 -   [Ed Averett](https://twitter.com/Ed_Averett) | @Ed_Averett
 -   Elizabeth Samuel
-    - [ElizabethSamuel-MSFT](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FElizabethSamuel-MSFT&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158426857%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=36jxGazKZR9TtD7Xt3E%2BqS8s0%2BcxsCPrZ6mZc2Khkog%3D&reserved=0)
+    - [ElizabethSamuel-MSFT](https://github.com/ElizabethSamuel-MSFT)
 -   [Garry Trinder](https://twitter.com/garrytrinder) | @garrytrinder
 -   [Haimantika Mitra](https://twitter.com/HaimantikaM) (Microsoft) |
     @HaimantikaM
@@ -1834,7 +1833,7 @@ closely involved with the PnP work during last month.
 -   Kevin Coughlin -
     [@kevintcoughlin](https://twitter.com/kevintcoughlin)
 -   Keyur Patel
-    - [keyur32](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fkeyur32&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wuL4ROZqAuJ2N6DosAfpyX5lO4BQorlpntSxHphncpA%3D&reserved=0)
+    - [keyur32](https://github.com/keyur32)
 -   [Koen Zomers](https://twitter.com/koenzomers) | @koenzomers
 -   Holland Kaviani - [Holland-ODSP](https://github.com/Holland-ODSP)
 -   Laura Graham - [Lauragra](https://github.com/Lauragra)
@@ -1862,7 +1861,7 @@ closely involved with the PnP work during last month.
 -   [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft)
     | @williamsrabia
 -   Rick
-    Kirkham | [Rick-Kirkham](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FRick-Kirkham&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=dxJSOcjYFcyHpZgsHFjTJ5dUvNhwOH7dUiSV06GC7P8%3D&reserved=0)
+    Kirkham | [Rick-Kirkham](https://github.com/Rick-Kirkham)
 -   [Roy Paar](https://www.linkedin.com/in/roypaar/)
 -   [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) 
 -   Sam Larson | [salarson](https://github.com/salarson)
@@ -1871,7 +1870,7 @@ closely involved with the PnP work during last month.
 -   [Sébastien
     Levert](https://twitter.com/sebastienlevert) | @sebastienlevert
 -   [Srinivas
-    Varukala](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsvarukala&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=hB1N9L15hhOUOVPXd%2FuYCG8sPJP0HinF1fADwf0YOCk%3D&reserved=0) (Microsoft)
+    Varukala](https://twitter.com/svarukala) (Microsoft)
     | @svarukala
 -   [Steven Jia](https://github.com/Steven-Jia) | Steven-Jia
 -   [Tejas Mehta](https://twitter.com/tpmehta) | @tpmehta

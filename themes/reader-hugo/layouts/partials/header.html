@@ -79,12 +79,8 @@
             placeholder="{{ i18n `search_placeholder`}}">
         </form>
         {{ end }}
+        {{ partial "pnp-main-page-link.html" . }}
         {{ partial "gh-link.html" . }}
-
-        <!-- collapse button -->
-        <button class="navbar-toggler border-0 order-1" type="button" data-toggle="collapse" data-target="#navigation" aria-label="Navbar Button">
-          <i class="fas fa-bars"></i>
-        </button>
       </div>
     </nav>
   </div>

@@ -839,7 +839,7 @@ involved!
     controls are using Office UI Fabric React controls under the covers
     and they are SharePoint aware to increase the productivity of
     developers.
--   **Office 365 CLI** - Using the Office 365 CLI, you can manage your
+-   **CLI for Microsoft 365** - Using the CLI for Microsoft 365, you can manage your
     Microsoft Office 365 tenant and SharePoint Framework projects on any
     platform. See [release
     notes](https://pnp.github.io/cli-microsoft365/about/release-notes/) for

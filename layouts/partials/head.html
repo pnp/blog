@@ -2,42 +2,40 @@
 <title>{{.Title | default site.Title}}</title>
 
 <!-- base url -->
-{{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/")
-(eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL
-"https://examplesite.com/")}}{{else}}
-<base href="{{ .Permalink }}">
+{{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") }}
+{{ else }}
+  <base href="{{ .Permalink }}">
 {{ end }}
 
 <!-- multilingual SEO optimizations -->
 {{ if .IsTranslated }}
-{{ range .AllTranslations }}
-<link rel="alternate" hreflang="{{.Lang}}" href="{{ .RelPermalink | absLangURL }}">
-{{ end }}
-<link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
+  {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{.Lang}}" href="{{ .RelPermalink | absLangURL }}">
+  {{ end }}
+  <link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
 {{ end }}
 
 <!-- mobile responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" >
 
-{{ with site.Params.author }}
-<meta name="author" content="{{ . }}">{{ end }}
+{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 {{ hugo.Generator }}
 
 <!-- favicon -->
 {{ $favicon:= site.Params.favicon }}
 {{ if $favicon }}
-{{ if fileExists (add `assets/` $favicon) }}
-{{ $favicon:= resources.Get $favicon }}
-{{ $favicon_16:= $favicon.Resize "16x png"}}
-{{ $favicon_32:= $favicon.Resize "32x png"}}
-{{ $favicon_180:= $favicon.Resize "180x png"}}
-<link rel="shortcut icon" href="{{$favicon_32.RelPermalink}}" type="image/x-icon">
-<link rel="icon" href="{{$favicon_32.RelPermalink}}" type="image/x-icon">
-<link rel="icon" type="image/png" sizes="16x16" href="{{$favicon_16.RelPermalink}}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{$favicon_32.RelPermalink}}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{$favicon_180.RelPermalink}}">
-{{ end }}
+  {{ if fileExists (add `assets/` $favicon) }}
+    {{ $favicon:= resources.Get $favicon }}
+    {{ $favicon_16:= $favicon.Resize "16x png"}}
+    {{ $favicon_32:= $favicon.Resize "32x png"}}
+    {{ $favicon_180:= $favicon.Resize "180x png"}}
+    <link rel="shortcut icon" href="{{$favicon_32.RelPermalink}}" type="image/x-icon">
+    <link rel="icon" href="{{$favicon_32.RelPermalink}}" type="image/x-icon">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{$favicon_16.RelPermalink}}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{$favicon_32.RelPermalink}}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{$favicon_180.RelPermalink}}">
+  {{ end }}
 {{ end }}
 <link rel="manifest" href="{{`manifest.webmanifest` | relURL }}">
 <meta name="msapplication-TileColor" content="{{site.Params.variables.color_primary | default `#da532c`}}">
@@ -50,46 +48,44 @@
     {{ with $resources.GetMatch . }}
       {{ $img:= . }}
       {{ if (and (gt .Width 144) (gt .Height 144)) }}
-<meta name="twitter:card" content="summary{{ if (and (ge .Width 300) (gt .Height 157) (not (eq .Width .Height))) }}_large_image{{ end }}">
+        <meta name="twitter:card" content="summary{{ if (and (ge .Width 300) (gt .Height 157) (not (eq .Width .Height))) }}_large_image{{ end }}">
       {{ end }}
-<meta name="twitter:image" content="{{ $img.RelPermalink | absURL }}" />
-<meta property="og:image" content="{{ $img.RelPermalink | absURL }}" />
-<meta property="og:image:width" content="{{ .Width }}">
-<meta property="og:image:height" content="{{ .Height }}">
+        <meta name="twitter:image" content="{{ $img.RelPermalink | absURL }}" />
+        <meta property="og:image" content="{{ $img.RelPermalink | absURL }}" />
+        <meta property="og:image:width" content="{{ .Width }}">
+        <meta property="og:image:height" content="{{ .Height }}">
     {{ end }}
   {{ end }}
 {{ else }}
-<meta property="og:image" content="{{ site.Params.image | absURL }}" />
+  <meta property="og:image" content="{{ site.Params.socialFallbackImage | absURL }}" />
 {{end}}
-
 <meta name="twitter:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}" />
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
-{{ with site.Social.twitter }}
-<meta name="twitter:site" content="@{{ . }}" />{{ end }}
+{{ with site.Social.twitter }}<meta name="twitter:site" content="@{{ . }}" />{{ end }}
 {{ range site.Authors }}
-{{ with .twitter }}
-<meta name="twitter:creator" content="@{{ . }}" />{{ end }}
+  {{ with .twitter }}<meta name="twitter:creator" content="@{{ . }}" />{{ end }}
 {{ end }}
 
+<meta property="og:site_name" content="{{ .Site.Title }}" />
 <meta name="og:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}" />
 <meta name="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:url" content="{{ .Permalink }}" />
-
-<meta property="og:site_name" content="{{ .Site.Title }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 
 {{ if .IsPage }}
-{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
-
-<meta property="og:type" content="article" />
-{{ with .PublishDate }}<meta property="article:published_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
-{{ with .Lastmod }}<meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
-<meta property="article:section" content="post" />
-{{ else }}
-{{end}}
-
-<meta property="og:url" content="http://localhost:1313/blog/post/new-community-blog-platform/" />
+  {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+  <meta property="og:type" content="article" />
+  {{ with .PublishDate }}
+    <meta property="article:published_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />
+    <meta property="datePublished" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />
+  {{ end }}
+  {{ with .Lastmod }}
+    <meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />
+    <meta property="dateModified" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />
+  {{ end }}
+  <meta property="article:section" content="post" />
+  <meta itemprop="wordCount" content="{{ .WordCount }}">
+  <meta property="og:type" content="website" />
+{{ end }}
 
 <!-- google analytics -->
 {{ template "_internal/google_analytics.html" . }}
@@ -98,8 +94,7 @@
   .Permalink) "404.php" ) -}} "noindex, nofollow" {{- else -}} "index, follow" {{ end }} />
 
 <!-- Meta Keywords/Tags for Users to search for in Search Engines -->
-<meta name="keywords" content="
- {{- with .Params.tags }}
+<meta name="keywords" content="{{- with .Params.tags }}
      {{- range $key, $item := . -}}
          {{- if ne $key 0 -}}
          ,
@@ -107,11 +102,14 @@
          {{ with $.Site.GetPage (printf " /%s/%s" "tags" . ) }} {{- .Title -}} {{- end }} {{- end }} {{- end }}" />
 
 <!-- Canonical URLs -->
-<link rel="canonical" href="{{ .Permalink }}" />
+{{ if .Params.canonicalUrl }}
+  <link rel="canonical" href="{{ .Params.canonicalUrl }}">
+{{ else }}
+  <link rel="canonical" href="{{ .Permalink }}">
+{{ end }}
 <link rel="alternate" href="{{ .Permalink }}" hreflang="{{ .Site.LanguageCode }}" />
 
 <!-- Links to RSS Feed -->
 {{ range .AlternativeOutputFormats -}}
-{{ printf `
-<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}

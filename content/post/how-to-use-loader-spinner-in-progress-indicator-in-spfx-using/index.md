@@ -6,11 +6,11 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/spfx-loader.gif
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
-## Introduction 
+## Introduction
 
 A Spinner is an outline of a circle that animates around itself
 indicating to the user that things are processing. A Spinner is shown
@@ -26,12 +26,12 @@ Loader. We will use an Office UI fabric Spinner.
 For more information refer to
 [Fluent UI spinner](https://developer.microsoft.com/fluentui#/controls/web/spinner).
 
-## Implementation 
+## Implementation
 
 -   Open a command prompt
 -   Move to the path where you want to create a project
 -   Create a project directory using:
- 
+
 
 
 ```bash
@@ -45,7 +45,7 @@ Move to the above-created directory using:
 ```
 
 Now execute the below command to create an SPFx solution:
-    yo @microsoft/sharepoint 
+    yo @microsoft/sharepoint
 It will ask some questions, as shown below,
 
 ![How To Use LoaderSpinner In SPFx.png](images/How To Use LoaderSpinner In SPFx.png)
@@ -162,7 +162,7 @@ export default class SpfxLoaderWebPart extends BaseClientSideWebPart<ISpfxLoader
 -   And in the **render()** method we will check if state loading is
     true then show Spinner and if the length of items is greater than 0
     then we will show records.
-    
+
 
 ```javascript
 import * as React from 'react';
@@ -243,7 +243,7 @@ export default class SpfxLoader extends React.Component<ISpfxLoaderProps, ISpfxL
 }
 ```
  
-## Output 
+## Output
 
 ![spfx-loader.gif](images/spfx-loader.gif)
  
@@ -252,7 +252,7 @@ Find here the [full source code
 ](https://github.com/chandaniprajapati/react-spfx-loader).  
  
 
-## Summary 
+## Summary
 
 In this article, we have seen how to use Spinner/loading in the SPFx
 webpart.

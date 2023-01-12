@@ -6,7 +6,7 @@ githubname: AriGunawan
 categories: ["Community post"]
 images:
 - images/State of CSS 2020 Survey.png
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 

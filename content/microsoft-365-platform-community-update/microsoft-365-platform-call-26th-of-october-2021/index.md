@@ -112,10 +112,7 @@ call   
 -   Call attention to your great work by using
     the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on
     Twitter.
-![211026-together-mode.gif](images/211026-together-mode.gif)
-
-Thank you everybody for being part of the call today.   Join us next
-Tuesday at this same time for a Microsoft Ignite 2021 watch party.     
+ 
  
 
 ## Demos

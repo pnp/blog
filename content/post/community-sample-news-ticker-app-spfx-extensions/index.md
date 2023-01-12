@@ -6,7 +6,7 @@ githubname: AriGunawan
 categories: ["Community post"]
 images:
 - images/react-application-news-ticker.gif
-tags: ["SharePoint framework (SPFx)"]
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -48,7 +48,7 @@ It's great because we don't need to build any custom configuration
 mechanism in our app to configure (sort, filter, top, etc.) the data to
 be displayed. Just use the OOTB list view configuration.
 It's very easy to get the data based on the list view using the [PnP
-JS](https://pnp.github.io/pnpjs/sp/). Below is my implementation:
+JS](https://pnp.github.io/pnpjs/sp/behaviors/). Below is my implementation:
 
 1.  Get the view information
     using [list.views.getByTitle(\...)](https://pnp.github.io/pnpjs/sp/views/#get-views-in-a-list)
@@ -59,7 +59,7 @@ code [react-application-news-ticker](https://github.com/pnp/sp-dev-fx-extension
  
 ![Get Data Based on List View](images/2021-05-10 19_56_48-Window.png)
  
-### 3. Use React third party component 
+### 3. Use React third party component
 
 I'm using an open-source React third party component for the running
 text component:

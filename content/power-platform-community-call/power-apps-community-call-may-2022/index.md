@@ -6,7 +6,7 @@ githubname: PopWarner
 categories: ["Power Apps community call"]
 images:
 - images/powerplatform-may-2022-call-promo.png
-tags: ["Extensions", "Microsoft 365", "Power Apps"]
+tags: ["SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
 summary: "Demos: Automatically generate technical documentation of your Power Apps and Power Automate Flows, Streamline Annual Document Reviews with Power Apps, and Power Platform and Microsoft Teams- Create a 'back-channel'​ internal chat for any meeting. Articles and trainings reviewed."
 videos:
@@ -43,12 +43,6 @@ Latest updates and news on Power Platform including 2 articles and 3 training op
 * Demo - Automatically generate technical documentation of your Power Apps and Power Automate Flows - [Rene Modery](http://twitter.com/modery) (WPP) \| @modery – [11:08](https://youtu.be/nxRGr3DHn8U?t=668)
 * Demo - Streamline Annual Document Reviews with Power Apps - [Heidi Jordan](http://twitter.com/heidi_jordan14) (High Plains Technology) \| @heidi_jordan14 – [28:45](https://youtu.be/nxRGr3DHn8U?t=1725)
 * Demo - Power Platform + Microsoft Teams: Create a "back-channel"​ internal chat for any meeting - [Amber Weise](https://www.linkedin.com/in/amberweise/) (Microsoft) \| linkedin.com/in/amberweise/ – [43:00](https://youtu.be/nxRGr3DHn8U?t=2580)
-
-## Together Mode
-
-![Attendees waving hands in Microsoft Teams together mode picture](images/220518-together-mode.gif)
-
-What time is it? It’s optional picture time! Great to see so many smiling faces. The mood is contagious. Thank you for joining the call today.
 
 ## Actions
 

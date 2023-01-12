@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
 images:
 - images/recording-15th-feb.png
-tags: ["Office Add-ins", "Extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions","Microsoft 365","Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=9w2L3-7sCDI
@@ -68,18 +68,15 @@ The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Mic
 *   Download the recurrent invite for this call – [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call%C2%A0)
 *   Call attention to your great work by using the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
 
-![thumbnail image 2 of blog post titled Microsoft 365 Platform Call – 15th of February, 2022 ](images/220215-together-mode.gif)
-
-Thank you everybody for joining the call today, for being part of this community and for just being you in this picture.  You Rock!       
 
 ## Demos
 
 *   **Introduction to Microsoft Information Protection Policy APIs** – MIP capabilities help organizations to classify, label, manage and protect data based on [sensitivity](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels).  Learn about the MIP SDK (File, Policy and Protection SDKs).  Microsoft Graph exposes MIP Policy APIs - policy-specific functionality and resolves state to Actions (add a header/footer, add metadata…).   Graph (Beta) endpoint Policy APIs reviewed - Get Labels, Evaluate (add/remove labels), Extract Label (metadata), are moving to Graph this week.      
-    
+
 *   **Latest on Cloud Hybrid Search (SSA) & Graph connectors​ for indexing content from on-premises** – Cloud Hybrid Search a.k.a. Cloud SSA, creates a single cloud-based index and interleaves search content from multiple internal/external sources in results.  Alternatively, Microsoft Search powered by Microsoft Graph uses Graph connectors (3 types) to bring in data from sources.  See search experiences that use Graph connectors rolling out in 2022 - Intelligent Discovery, Viva Topics, Context IQ, etc.   Sign-up for Graph connectors SDK Preview. 
-    
+
 *   **Using the Microsoft Graph Toolkit Get Component in your solutions** – the very flexible all-purpose GET query allows developers to connect to any endpoint in Microsoft Graph and render the MTTs from Graph directly inside your UI.  E-mail and files explorer experiences are showcased.  E-mail – get, read, write, delete, and the best part, you can customize the UI layout to your exact requirements.  Files explorer is built using hTWOo and uses MGT.    
-    
+
 
 Thank you for your creativity and work execution.   Samples are often showcased in Demos.
 
@@ -99,7 +96,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D1:**  SDK - [Microsoft Information Protection Software Development Kit Version 1.11](https://www.microsoft.com/download/details.aspx?id=103655) | aka.ms/mipsdkbins
 *   **D1:**  Documentation - [Microsoft Information Protection SDK documentation](https://docs.microsoft.com/information-protection/develop/) | aka.ms/MIPSDKDocs
 *   **D1:**  Code Samples - [mip sdk](https://docs.microsoft.com/samples/browse/?terms=mip%20sdk) | aka.ms/MIPSDKSamples
-*   **D1:**  Documentation - [Information Protection overview](https://docs.microsoft.com/graph/information-protection-overview) 
+*   **D1:**  Documentation - [Information Protection overview](https://docs.microsoft.com/graph/security-information-protection-overview) 
 *   **D1:**  Tool - [Microsoft.InformationProtection.Protection](https://www.nuget.org/packages/Microsoft.InformationProtection.Protection) 
 *   **D1:**  Documentation - [Learn about sensitivity labels](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 *   **D2:**  Documentation - [Overview of Microsoft Graph connectors](https://docs.microsoft.com/MicrosoftSearch/connectors-overview) | aka.ms/GraphConnectors
@@ -176,4 +173,3 @@ _“Sharing is caring”_
 * * *
 
 _Microsoft 365 PnP team, Microsoft - 16th of February 2022_
-

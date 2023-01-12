@@ -52,9 +52,7 @@ contributions.   The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place as always in chat throughout the
 call.
-![211007-together-mode.gif](images/211007-together-mode.gif)
-Not an empty seat in the house.  Nice seeing everyone on the call. 
-Please join again soon.
+
 
 ## Actions
 
@@ -364,7 +362,7 @@ slides.
 -   [Reusable controls
     webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
 
--   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
+-   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365)
 
 -   [PnP SPFx Yeoman Generator](https://github.com/pnp/generator-spfx) -
     Extends the out-of-the-box experience with open-source community
@@ -403,7 +401,7 @@ calls are used for the following objectives.
 
 -   SharePoint Framework engineering update from Microsoft
 -   Talk about PnP JavaScript Core libraries
--   Office 365 CLI Updates
+-   CLI for Microsoft 365 Updates
 -   SPFx reusable controls
 -   PnP SPFx Yeoman generator
 -   Share code samples and best practices

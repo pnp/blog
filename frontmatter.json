@@ -3,10 +3,6 @@
   "frontMatter.content.fmHighlight": false,
   "frontMatter.content.pageFolders": [
     {
-      "title": "Blog posts",
-      "path": "[[workspace]]/content/posts"
-    },
-    {
       "title": "adaptive-cards-community-call",
       "path": "[[workspace]]/content/adaptive-cards-community-call",
       "excludeSubdir": true
@@ -45,6 +41,10 @@
       "title": "Power Platform Community Call",
       "path": "[[workspace]]/content/power-platform-community-call",
       "excludeSubdir": true
+    },
+    {
+      "title": "post",
+      "path": "[[workspace]]/content/post"
     }
   ],
   "frontMatter.content.publicFolder": "static",
@@ -57,5 +57,15 @@
   ],
   "frontMatter.framework.startCommand": "hugo server -D",
   "frontMatter.preview.host": "http://localhost:1313/blog/",
-  "frontMatter.taxonomy.seoDescriptionField": "summary"
+  "frontMatter.taxonomy.seoDescriptionField": "summary",
+  "frontMatter.content.snippets": {
+    "Media snippet (migrated)": {
+      "body": [
+        "{{< image alt=\"[[alt]]\" src=\"[[&mediaUrl]]\"  >}}"
+      ],
+      "isMediaSnippet": true,
+      "description": "Migrated media snippet from frontMatter.dashboard.mediaSnippet setting"
+    }
+  },
+  "frontMatter.templates.enabled": false
 }

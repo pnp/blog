@@ -1,9 +1,9 @@
 ---
 title: Microsoft Identity Platform community call – January 2022
-tags: ["Microsoft 365", "Azure", "Microsoft Identity Platform"]
+tags: ["Microsoft 365", "Azure", "Microsoft identity Platform"]
 date: 2022-01-24T05:15:00-05:00
 author: "Steven Salazar Aray"
-categories: ["Microsoft Identity platform community call"]
+categories: ["Microsoft identity platform community call"]
 images:
 - images/identity-call-Thumbnail-January-2022.png
 type: "regular"
@@ -11,40 +11,40 @@ type: "regular"
 
 ## Call summary
 
-This month’s in-depth topic:  **Secure DevOps with the Microsoft Identity platform.**  In this session, learn how to put the “Sec” in DevOps by securing your release pipeline with the Microsoft Identity platform running on Azure.  Bring your own developer tools, services and platforms, i.e., ARM, Bicep, Terraform or Pulumi, integrated with Microsoft’s developer ecosystem.  Eliminate secrets and sensitive information from your code once and for all.  Microsoft Identity provides a number of features such as Service Principals, Managed Identities and, the newest kid on the block, federated workload identities to allow you to deploy and access cloud resources without the need for secrets or keys in your code and release pipelines.  This session was delivered by [Christos Matskas](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Ftwitter.com%2FChristosMatskas&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396783333%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=MF%2F2pd9AwQVTRllx2pqwRaBBXDbUZr31cu5cqTOdDUk%3D&reserved=0) - Sr Program Manager (Microsoft) | @ChristosMatskas.  Recorded January 20, 2022. Q&A in chat and at end of call.
+This month’s in-depth topic:  **Secure DevOps with the Microsoft Identity platform.**  In this session, learn how to put the “Sec” in DevOps by securing your release pipeline with the Microsoft Identity platform running on Azure.  Bring your own developer tools, services and platforms, i.e., ARM, Bicep, Terraform or Pulumi, integrated with Microsoft’s developer ecosystem.  Eliminate secrets and sensitive information from your code once and for all.  Microsoft Identity provides a number of features such as Service Principals, Managed Identities and, the newest kid on the block, federated workload identities to allow you to deploy and access cloud resources without the need for secrets or keys in your code and release pipelines.  This session was delivered by [Christos Matskas](https://twitter.com/ChristosMatskas) - Sr Program Manager (Microsoft) | @ChristosMatskas.  Recorded January 20, 2022. Q&A in chat and at end of call.
 
 ## Referenced in this call
 
-*   Blog - [Join us to build solutions using Decentralized Identities](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fazure-active-directory-identity%2Fjoin-us-to-build-solutions-using-decentralized-identities%2Fba-p%2F2810649&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396783333%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=1nX8Ti6piNs%2BIRQjoLpwnypm%2BYNUhiJsQfq6mOpU20M%3D&reserved=0) 
-*   Blog – [The 425 Show](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdev.to%2F425show&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396832797%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=vb39l1mP6nz%2B8I0UduZqEx94te5Pps6ET4NGx8JR300%3D&reserved=0) | aka.ms/425Show/blog
-*   Documentation – [Azure Command-Line Interface (CLI) – Overview](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fcli%2Fazure%2F&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396832797%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=CBeGqTXlkQEDmU5uonYOdtBigJTagQUFRzL4CQ5HRhI%3D&reserved=0) 
-*   Documentation - [Workload identity federation (preview)](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fazure%2Factive-directory%2Fdevelop%2Fworkload-identity-federation&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396832797%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=6sQwBGO%2FO%2BDT%2Fy%2BddfWrblsjFnYfT7bWq6c%2FEXti%2FZQ%3D&reserved=0) 
-*   Documentation - [ASP.NET documentation](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Faspnet%2Fcore%2F%3Fview%3Daspnetcore-6.0&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396832797%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=IrVLhK%2Fgnw9flav7p7Ry1kxmLV3kG%2BTpjbnAZQP5dGU%3D&reserved=0) 
-*   Documentation - [About Azure Key Vault secrets](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fazure%2Fkey-vault%2Fsecrets%2Fabout-secrets&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396832797%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=lKMnRlOyp2qV%2FOgb%2Fs%2FG0%2Bc9P9XnrhhcvVb%2BheHxeA8%3D&reserved=0) 
-*   Documentation - [Safe storage of app secrets in development in ASP.NET Core](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Faspnet%2Fcore%2Fsecurity%2Fapp-secrets&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396832797%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=hdiMOy81tM21RggnP68AclZB1wPlSsq6sOhgK93la3k%3D&reserved=0) 
-*   Q&A - [Azure ad\*](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fanswers%2Fsearch.html%3Fc%3D%26includeChildren%3D%26f%3D%26type%3Dquestion%2BOR%2Bidea%2BOR%2Bkbentry%2BOR%2Banswer%2BOR%2Btopic%2BOR%2Buser%26redirect%3Dsearch%252Fsearch%26sort%3Drelevance%26q%3Dazure-ad-*&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396832797%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=bLBR0Xx7ShY5WlM1n0EFKTql98aAJoh0CeA5Bbv16do%3D&reserved=0) | aka.ms/425show/help
-*   Sessions - See Decentralized Identity service sessions on [The 425 Show](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.twitch.tv%2F425show&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396832797%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=qffJerwlmiF2sDZh6ykhrjMWA%2FTSXGSPTqeBL80vy%2FQ%3D&reserved=0) | aka.ms/425show
-*   Repos – [The 425 Show](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2F425show&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Ig9eGOkGrI56Ygl9e9lzGOjN6hTmrl7iGkPfw%2F29kgY%3D&reserved=0) | [https://github.com/425show](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2F425show&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Ig9eGOkGrI56Ygl9e9lzGOjN6hTmrl7iGkPfw%2F29kgY%3D&reserved=0)
-*   Samples – [Azure Identity, Resource Management, and Storage sample](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fdotnet%2Fsamples%2Ftree%2Fmain%2Fazure%2Fsdk-identity-resources-storage&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=w6ZL98gfhEVXfkD%2BIULq6kszQ4FN3CevrNm7nCsBEdc%3D&reserved=0) 
-*   Demo - [The Config secret is: I'm a config secret](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcmdotnetconfdemo.azurewebsites.net%2F&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=cTLcgd%2BST3R%2B1cuu44hM3w7vp4c2FN6JKNM9CT6PUHc%3D&reserved=0) 
+*   Blog - [Join us to build solutions using Decentralized Identities](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/join-us-to-build-solutions-using-decentralized-identities/ba-p/2810649) 
+*   Blog – [The 425 Show](https://dev.to/425show) | aka.ms/425Show/blog
+*   Documentation – [Azure Command-Line Interface (CLI) – Overview](https://docs.microsoft.com/cli/azure/what-is-azure-cli) 
+*   Documentation - [Workload identity federation (preview)](https://docs.microsoft.com/azure/active-directory/develop/workload-identity-federation) 
+*   Documentation - [ASP.NET documentation](https://docs.microsoft.com/aspnet/core/?view=aspnetcore-6.0) 
+*   Documentation - [About Azure Key Vault secrets](https://docs.microsoft.com/aspnet/core/security/app-secrets?view=aspnetcore-6.0&tabs=linux) 
+*   Documentation - [Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/aspnet/core/security/app-secrets?view=aspnetcore-6.0&tabs=linux) 
+*   Q&A - [Azure AD\*](https://aka.ms/425show/help) | aka.ms/425show/help
+*   Sessions - See Decentralized Identity service sessions on [The 425 Show](aka.ms/425show) | aka.ms/425show
+*   Repos – | [https://github.com/425show](https://github.com/425show)
+*   Samples – [Azure Identity, Resource Management, and Storage sample](https://docs.microsoft.com/samples/dotnet/samples/azure-identity-resource-management-storage/) 
+*   Demo - [The Config secret is: I'm a config secret](https://pnp.github.io/blog/microsoft-identity-platform-community-call/microsoft-identity-platform-community-call-january-2022/) 
 
 ## Actions
 
-*   Join our Hackathon – [Microsoft Decentralized Identity](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft-did.devpost.com%2Frules&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=FWZEr4JO64zsHOUupDJO1vyFkXmcWqWXlH5fTCLAphA%3D&reserved=0) – January 27 – 31, 2022
-*   Check out [The 425 Show](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.twitch.tv%2F425show&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=xSqus6OGl8NHBxd6qDfR4HjuONBgAjeEhsqYzvtiZNk%3D&reserved=0) – aka.ms/425show
-*   Download and go through the developer guide available at [https://aka.ms/ztdev](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Fztdev&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=EGnbjaB69aO%2Biry5zuqgJgEPH0papaTJxfLfVst7fFA%3D&reserved=0)
-*   Let us know how we’re doing and suggest topics for future calls, please complete this survey [https://aka.ms/IDDevCommunityCallSurvey](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FIDDevCommunityCallSurvey&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=I5LYE8pBSlftGEofnz98KPtVi5KfZFts7UZ7CHjRRQk%3D&reserved=0)
+*   Join our Hackathon – [Microsoft Decentralized Identity](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/join-us-to-build-solutions-using-decentralized-identities/ba-p/2810649) – January 27 – 31, 2022
+*   Check out [The 425 Show](https://aka.ms/425show) – aka.ms/425show
+*   Download and go through the developer guide available at [https://aka.ms/ztdev](https://aka.ms/ztdev)
+*   Let us know how we’re doing and suggest topics for future calls, please complete this survey [https://aka.ms/IDDevCommunityCallSurvey](https://aka.ms/IDDevCommunityCallSurvey)
 *   Join us for the next Microsoft Identity Platform community call on February 17th at 9:00am PT
 *   Join our Discord community [https://aka.ms/425Show/Discord/Join](https://aka.ms/425Show/Discord/Join) 
 
 ## Resources in General
 
 *   Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/) 
-    
+
 *   Microsoft Security - [Integrate modern identity capabilities into your apps](https://www.microsoft.com/security/business/identity-access-management/microsoft-identity-management-platform) 
-    
+
 *   Developer – [Microsoft Identity Platform](https://developer.microsoft.com/identity)
-    
+
 
 ## Stay connected
 

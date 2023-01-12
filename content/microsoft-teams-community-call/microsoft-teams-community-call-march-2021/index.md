@@ -28,8 +28,6 @@ Raveendran, Arun Kumar Anaparthi, Bob German, Anuj Bahl and Shubham
 Chauhan.  Recorded on February 16, 2021.  Thank for attending the call
 or viewing on demand. 
 
-![Jun_Pak_0-1616095092787.gif](images/Jun_Pak_0-1616095092787.gif)
-
 ## Demos
 
 **Business to Citizen Consumer Communication Bot** -- sample allows

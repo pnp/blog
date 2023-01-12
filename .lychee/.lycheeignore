@@ -72,12 +72,18 @@ https://regarding365.com/.*
 https://greenthumb.powerappsportals.com
 https://tahoeninjas.blog
 https://emilymancini.com
+https://eemancini.github.io
 https://m365princess.com
 https://elischei.com
+https://quickbooks.intuit.com
+https://medium.com/re-office-365
+https://www.wortell.nl
+https://www.cubido.at/
+https://www.donkirkham.com
 
-https://twitter.com/*
-https://www.twitter.com/*
-http://twitter.com/*
+https://twitter.com/.*
+https://www.twitter.com/.*
+http://twitter.com/.*
 https://www.linkedin.com/.*
 https://linkedin.com/.*
 https://www.youtube.com/watch.*
@@ -94,4 +100,4 @@ microsoft/generator-sharepoint@.*
 yo@.*
 gulp@.*
 https://sp2016.*
-'+'@currentField.desc
+.*@currentField.*

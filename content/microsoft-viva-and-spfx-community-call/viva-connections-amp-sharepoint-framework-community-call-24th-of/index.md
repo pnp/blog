@@ -5,9 +5,9 @@ date: 2022-02-25T05:44:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
-images: 
+images:
 - images/recording-24th-feb.png
-tags: ["Adaptive Cards", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["Adaptive Cards", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=9ofUQax_Fio
@@ -21,7 +21,7 @@ Viva Connections & SharePoint Framework bi-weekly community call recording from 
 
 *   Tune in each Tuesday for the [Microsoft 365 platform community call](https://aka.ms/m365-dev-call).  Next call on the 1st of March @ 8 AM PT
     *   Latest news from Microsoft engineering on Microsoft 365 topics
-    *   **Harald Liavaag** - What’s new with  
+    *   **Harald Liavaag** - What’s new with
         Profile Photos API on Microsoft Graph 
     *   **Sébastien Levert** - Building MGT apps with React
     *   **Luca Bandinelli** and **John Nguyen** - Engineering update on SharePoint Framework - 1.14 and next steps 
@@ -51,10 +51,6 @@ SharePoint Framework (SPFx)|**v1.14 GA**|v1.15 Preview in weeks, GA in June 2022
 [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|v4.5.4, v3.23.0
 
 The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
-
-![thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 24th of February, 2022 ](images/Feb24TogetherModeGif.gif)
-
-Thank you for joining the call today and/or for viewing the recording.  You are part of making this a truly awesome community.   
 
 ## Actions
 
@@ -182,7 +178,7 @@ Additional resources around the covered topics and links from the slides.
 *   [Reusable web part property controls](https://sharepoint.github.io/sp-dev-fx-property-controls/)
 *   [Reusable react controls for SharePoint Framework solutions](https://sharepoint.github.io/sp-dev-fx-controls-react/)
 *   [Reusable controls webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
-*   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
+*   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365)
 *   [PnP SPFx Yeoman Generator](https://github.com/pnp/generator-spfx) \- Extends the out-of-the-box experience with open-source community capabilities
 *   [SharePoint Dev UserVoice](https://aka.ms/spdev-uservoice) \- for new feature requests
 
@@ -205,7 +201,7 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 
 *   SharePoint Framework engineering update from Microsoft
 *   Talk about PnP JavaScript Core libraries
-*   Office 365 CLI Updates
+*   CLI for Microsoft 365 Updates
 *   SPFx reusable controls
 *   PnP SPFx Yeoman generator
 *   Share code samples and best practices

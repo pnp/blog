@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/PnP-Calls-TogetherMode-LowResolution.gif
 tags: []
 type: "regular"
 ---
@@ -45,13 +44,6 @@ There was 1 **PnP SPFx extension** and 4 **PnP web part samples**
 delivered in the last 2 weeks as well.  Nice work!    The host of this
 call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 | @mediocrebowler.  Q&A takes place in chat throughout the call.
-![PnP-Calls-TogetherMode-LowResolution.gif](images/PnP-Calls-TogetherMode-LowResolution.gif)
- 
-
-Yep!  Nice wave action.  Great seeing you this week.  Looking forward to
-seeing you again in August.    Data for Hugo:  24 left-handed wavers, 4
-right-handed wavers, 2 bi-handed wavers and 4 non-handed wavers.  But
-wait, now there's 35 wavers!   Data corruption.  
 
 ## Actions
 
@@ -305,7 +297,7 @@ slides.
 -   [Reusable controls
     webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
 
--   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
+-   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365)
 
 -   [PnP SPFx Yeoman Generator](https://github.com/pnp/generator-spfx) -
     Extends the out-of-the-box experience with open-source community
@@ -343,7 +335,7 @@ calls are used for the following objectives.
 
 -   SharePoint Framework engineering update from Microsoft
 -   Talk about PnP JavaScript Core libraries
--   Office 365 CLI Updates
+-   CLI for Microsoft 365 Updates
 -   SPFx reusable controls
 -   PnP SPFx Yeoman generator
 -   Share code samples and best practices

@@ -8,7 +8,7 @@ images:
 - images/parker-ms-300.png
 
 tags: []
-type: "epic"
+type: trending
 ---
 
 

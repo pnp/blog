@@ -96,12 +96,6 @@ end of the call.
 Thank you for your creativity and work execution. Samples are often showcased in
 Demos.
 
-## Together Mode 
-   
-![220419-together-mode.gif](images/220419-together-mode.gif)
-
-Thank you for being part of this community and these calls. You make this community great!
-
 ## Actions
 
 * Mark your calendar for [Microsoft Tech Days](https://aka.ms/techdays/m365)
