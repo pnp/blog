@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Platform Community Call - 3rd of January, 2023"  
 summary: "Holiday season coffee and chat call #3. No formal demos, yet nothing less than a robust 60-minute call with informative PnP resource site tours, Q&A with code dives and engaging discussions in chat! 3 articles delivered from Microsoft in past week."
-date: 2023-01-03 02:00:00 +0000
+date: 2023-01-03T11:00:00.000Z
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
