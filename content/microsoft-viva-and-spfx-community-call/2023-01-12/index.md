@@ -8,7 +8,7 @@ images:
 - images/recordng-12th-of-january.png
 tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
-summary: "Demos: Getting started with hTWOo React controls for Microsoft 365 and Adaptive Cards design samples for Viva Connections. Released PnPjs Client-Side Libraries, CLI for Microsoft 365, Microsoft Graph Developer Proxy, Viva Connections Toolkit for VS Code."
+summary: "Demos: Getting started with hTWOo React controls for Microsoft 365 and Adaptive Cards design samples for Viva Connections.  Releases for PnPjs, CLI for Microsoft 365, Microsoft Graph Developer Proxy, and Viva Connections Toolkit."
 videos:
 - https://www.youtube.com/watch?v=UCtKZCODlXg
 draft: false
