@@ -9,7 +9,7 @@ githubname: VesaJuvonen
 categories:
   - SPFx
 images:
-  - images/10-single-part-app-pages.png
+  - images/10-single-part-app-pages-spfx-spo.png
 tags:
   - Microsoft Teams
   - Microsoft Viva  
