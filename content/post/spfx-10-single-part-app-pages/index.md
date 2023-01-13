@@ -1,12 +1,15 @@
+
+
+
 ---
 title: "Creating single part app page for SharePoint Online with SPFx"
-date: 2023-01-12T04:00:00.000Z
+date: 2023-01-13T04:00:00.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - SPFx
 images:
-  - images/09-microsoft-viva-extensibility-with-spfx.png
+  - images/10-single-part-app-pages.png
 tags:
   - Microsoft Teams
   - Microsoft Viva  
@@ -21,7 +24,7 @@ draft: true
 [SharePoint Framework](https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365 enabling developers to build different kinds of extensibility for Microsoft Viva, Microsoft Teams, Outlook, Microsoft 365 app (Office), and SharePoint. SPFx has multiple benefits like automatic Single Sign On, automatic hosting in the customer tenant, reuse same code across the service and industry standard web stack tooling.
 
 -	*What are the single part app pages which you can use for SharePoint Online and how you can create them?*
--	That is a great question. 
+-	That is a great question. Single part app pages are available in the SharePoint Online. Idea of them is to take the whole available screen size and render the web part (SPFx component) in that. This provides you an option to own the whole layout and whatever is being rendered on the page.
 
 {{< notice note>}}
 This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
@@ -32,16 +35,21 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 
 ## What are the single part app pages for SharePoint Online?
 
-Same web part can work as a web part in Sharepoint, page etc.
+Single part app pages is another rendering option for the web parts, which is more as a generic name for a web widget which can be used in Microsoft Viva, Microsoft Teams, Outlook, Office or in SharePoint - like in this case. 
 
-[pic of the page picker]
+So the same piece of code can be also exposed as a full page experience in the SharePoint which gives the developer an option to fully own what's being rendered with the exception of the top navigation and app launcher.
 
+From content editor perspective single part apps are exposed using an **App** tab when you create a new page. This tab is visible if there are any single part app pages deployed to the particular tenant.
 
-[pic of the sample page]
+![Exposing app pages for content creators](images/pages-apps-creation.png)
 
+Here's how the web part is being rendered on the page. Notice that there are no sections or possibility to have multiple web parts on this same page. Web part is rather rendered in full page mode and owns the whole rendering experience.
 
-[pic of the hosts setting for web part]
+![Sample app page](images/single-part-app-rendering-full-page.png)
 
+From development perspective defining a web part to support this option is super easy. You define this option in the `supportedHosts` setting in the web part manifest. If this array will include `SharePointFullPage`, then the web part is also exposed as a single part app page. This is also the default setting for any new web part created with latest versions of SPFx.
+
+![Web part configuration for app pages](images/webpart-manifest-app-part.png)
 
 Here's a bit outdated video on how to create a single part app page in SharePoint Online with SPFx. Development process and the deployment models are still the same.
 
@@ -56,9 +64,11 @@ Documentation and references
 
 **Can I hide the top/suite navigation from the page as well?** 
 
+No. There's no supported way to do this for the single part pages.
 
+**What if I used CSS to hide the app launcher and the top navigation?** 
 
-
+As SharePoint is build with html, this is indeed technically possible, but it's not supported. This means that if the experience will have any issues, you'll not be able to get support for your issues from Microsoft channels.
 
 ## References
 
