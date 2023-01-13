@@ -9,7 +9,7 @@ images:
   - images/weeklyagenda03.png
 tags: []
 type: regular
-draft: true
+draft: false
 ---
 
 
@@ -80,19 +80,23 @@ Topics:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 
+* [Marketplace leads for Office plugins are now becoming available in the Referrals Workspace](https://www.youtube.com/watch?v=As9GHLm5Xqc) by Sudha Padmanabhan (Microsoft)
 * [Using custom SDK built with Microsoft Graph Kiota generator within SharePoint Framework solution](https://www.youtube.com/watch?v=RbCVJ7gfY0w) by [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez
-* [Create Adaptive Card Extensions (ACE) for Microsoft Viva Connections](https://www.youtube.com/watch?v=plIXeRPR92Y) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-* [Update the component to display SharePoint list data - Exercise 1](https://www.youtube.com/watch?v=kefrLAS2DRw) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-* [Update the component to display SharePoint list data - Exercise 1](https://www.youtube.com/watch?v=kefrLAS2DRw) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-* [ACE QuickViews and working with view navigators](https://www.youtube.com/watch?v=plePKkwZU-c) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-* [Create an SPFx Image Card ACE displaying image carousel - Exercise 2](https://www.youtube.com/watch?v=-Eb4KIMtwt0) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-* [Create an SPFx ACE with geo-location capabilities - Exercise 3](https://www.youtube.com/watch?v=tFAZsBDj8zw) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-* [Viva Connections Actions for media selection and locations](https://www.youtube.com/watch?v=P4x2-xd3QbU) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [How to get output from a Teams Adaptive card with Power Automate](https://www.youtube.com/watch?v=cr9oqwQzk2A) by [Nathalie Leenders](https://twitter.com/NathLeenders) (Chemours) | @NathLeenders
 * [Introduction to SharePoint pages Microsoft Graph API - public preview](https://www.youtube.com/watch?v=jV72gQhuSXk) by Hanbing Wang (Microsoft) 
 * [Using dynamic SVG images with Viva ACEs for business charts](https://www.youtube.com/watch?v=brUXYEHZg6E) by [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
 * [Introduction to App Compliance Automation Tool for Microsoft 365](https://www.youtube.com/watch?v=Z4UmshA24_w) by  Sreekanth Thirthala (Microsoft)
 * [Add-in Auto Open for Word and Excel](https://www.youtube.com/watch?v=_TxZy5AJ4oI) by Yun Wang (Microsoft)
+
+
+We also released a [new tutorial series](https://www.youtube.com/watch?v=plIXeRPR92Y&list=PLR9nK3mnD-OUjNKUMsWJwYnRnsmxXojYs) based on a new Microsoft Viva development learning module - [Create Adaptive Card Extensions (ACE) for Microsoft Viva Connections](https://learn.microsoft.com/en-us/training/modules/sharepoint-spfx-adaptive-card-extension-card-types/).
+
+* [Create Adaptive Card Extensions (ACE) for Microsoft Viva Connections](https://www.youtube.com/watch?v=plIXeRPR92Y) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [Update the component to display SharePoint list data - Exercise 1](https://www.youtube.com/watch?v=kefrLAS2DRw) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [ACE QuickViews and working with view navigators](https://www.youtube.com/watch?v=plePKkwZU-c) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [Create an SPFx Image Card ACE displaying image carousel - Exercise 2](https://www.youtube.com/watch?v=-Eb4KIMtwt0) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [Create an SPFx ACE with geo-location capabilities - Exercise 3](https://www.youtube.com/watch?v=tFAZsBDj8zw) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [Viva Connections Actions for media selection and locations](https://www.youtube.com/watch?v=P4x2-xd3QbU) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 
 ---
 
@@ -105,11 +109,22 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 ---
 
+## New Microsoft 365 Platform Community Blog posts
+
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
+
+* [Building Microsoft Viva extensibility with SPFx](https://pnp.github.io/blog/post/spfx-09-building-microsoft-viva-extensibility-spfx/)
+* [How to use SPFx powered Microsoft Teams apps in Outlook and Office](https://pnp.github.io/blog/post/spfx-08-spfx-powered-teams-solutions-outlook-office/)
+* [Automatic hosting of SPFx code in Microsoft 365](https://pnp.github.io/blog/post/spfx-07-automatic-hosting-spfx-solutions/)
+* [Building SPFx solutions for Microsoft Teams](https://pnp.github.io/blog/post/spfx-06-spfx-for-teams/)
+
+---
+
 ## Last week's community call recordings
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-
+* [Viva Connections & SharePoint Framework Community Call – 12th of January, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-01-12/)
 * [Microsoft 365 Platform Community Call - 10th of January, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-01-10/)
 * [Microsoft 365 & Power Platform Development Community call - 5th of January, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-01-05/)
 
