@@ -1,6 +1,5 @@
 ---
-title: Weekly Agenda - 16th of January 2023 week
-date: 2022-12-30T02:00:22.873Z
+date: 2023-01-13T05:47:06.365Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -8,10 +7,9 @@ categories:
 images:
   - images/weeklyagenda03.png
 tags: []
-type: regular
+type: trending
 draft: false
 ---
-
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
 
