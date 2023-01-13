@@ -1,5 +1,4 @@
 ---
-title: Weekly Agenda - 16th of January 2023 week
 date: 2023-01-13T05:00:06.365Z
 author: Vesa Juvonen
 githubname: VesaJuvonen

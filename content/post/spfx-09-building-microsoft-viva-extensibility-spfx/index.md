@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories:
   - SPFx
 images:
-  - images/09-microsoft-viva-extensibility-with-spfx.png
+  - images/10-single-part-app-pages-spfx-spo.png
 tags:
   - Microsoft Teams
   - Microsoft Viva  
@@ -40,7 +40,7 @@ As noted, we have two primary options to extend Microsoft Viva with SPFx for now
 - **Viva Connections** - Focuses on embedding corporate portal to the Microsoft Teams with mobile and desktop experiences. Mobile experiences support ACE extensibility and desktop experiences also support web parts and other extensions.
 - **Viva Home** - [Announced](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/more-options-coming-soon-for-the-viva-connections-desktop/ba-p/3644419) in October 2022 as an evolution to the Viva Connections. Starting to rollout in January 2023 for Microsoft 365 customers - Aligned experiences for the mobile and desktop users. Supports SPFx ACE style extensibility options.
 
-![Detecting current host](images/viva-home-connections.png)
+![Viva Home and Viva Connections experiences](images/viva-home-connections.png)
 
 Mobile first experiences are created using Adaptive Card Extensions (ACEs) which is a component type available from the SharePoint Framework. ACEs are designed as *small widgets* which can be exposed in both mobile and desktop experiences. You can think ACEs and an extension to Microsoft Teams apps or to any other services in Microsoft 365. They are designed to surface the most relevant information for the end users and to provide access to most common operations **without the need to open the full application** with complex options and experiences. 
 
