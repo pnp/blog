@@ -12,6 +12,7 @@ images:
 tags: []
 # don't change
 type: "regular"
+draft: true
 ---
 ## Introduction
 
