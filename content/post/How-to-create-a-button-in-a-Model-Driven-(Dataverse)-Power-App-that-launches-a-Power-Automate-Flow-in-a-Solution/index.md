@@ -2,7 +2,7 @@
 title: "How to create a button in a Model Driven (Dataverse) Power App that launches a Power Automate Flow in a Solution"
 date: 2023-01-12T08:40:00-04:00
 author: "Darren Lutchner"
-githubname: "Dlutchy""
+githubname: Dlutchy
 # don't change
 categories: ["Community post"]
 # link to the thumbnail image for the post
