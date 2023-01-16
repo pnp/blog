@@ -9,7 +9,7 @@ images:
   - images/weeklyagenda02.png
 tags: []
 
-type: trending
+type: regular
 draft: false
 ---
 

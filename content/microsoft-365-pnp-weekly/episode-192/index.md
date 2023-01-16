@@ -54,9 +54,8 @@ This session was recorded on Monday, January 9, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube hUjQzg1CGAg >}}
-    Podcast at [http://pnpweekly.podbean.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazhVYXlDS3JqaUUwSnBpUGRIaVpaSU9KVks1Z3xBQ3Jtc0tsYVlXSG1MU3YtOVNLX0RPVWhlYlppT1N6eENJZHhuYzNOR1htNkM0eHRQWDlkdUhYNmNxMUllcTNzSVAtaUpTNWVlUTJ0MGhTMi1RaE1rTFdhbW4zSVp0TEdndWNPOVhfWFFqTHc3V1V1b0hURjFMcw&q=http%3A%2F%2Fpnpweekly.podbean.com)​
-*   <!--- Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-vp8k5-1338aee >}} --->  
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+    {{< podbean pb-7qdvh-136174a >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
