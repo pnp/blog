@@ -8,14 +8,14 @@ categories:
 images:
   - images/weeklyagenda03.png
 tags: []
-type: trending
-draft: false
+
+type: regular
+draft: true
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
 
 
-## Community Calls
 
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/m365/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
@@ -79,6 +79,7 @@ Topics:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 
+* [Using custom SDK built with Microsoft Graph Kiota generator within SharePoint Framework solution](https://www.youtube.com/watch?v=RbCVJ7gfY0w) by [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez
 * [Marketplace leads for Office plugins are now becoming available in the Referrals Workspace](https://www.youtube.com/watch?v=As9GHLm5Xqc) by Sudha Padmanabhan (Microsoft)
 * [Using custom SDK built with Microsoft Graph Kiota generator within SharePoint Framework solution](https://www.youtube.com/watch?v=RbCVJ7gfY0w) by [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez
 * [How to get output from a Teams Adaptive card with Power Automate](https://www.youtube.com/watch?v=cr9oqwQzk2A) by [Nathalie Leenders](https://twitter.com/NathLeenders) (Chemours) | @NathLeenders
@@ -88,7 +89,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 Commu
 * [Add-in Auto Open for Word and Excel](https://www.youtube.com/watch?v=_TxZy5AJ4oI) by Yun Wang (Microsoft)
 
 
-We also released a [new tutorial series](https://www.youtube.com/watch?v=plIXeRPR92Y&list=PLR9nK3mnD-OUjNKUMsWJwYnRnsmxXojYs) based on a new Microsoft Viva development learning module - [Create Adaptive Card Extensions (ACE) for Microsoft Viva Connections](https://learn.microsoft.com/en-us/training/modules/sharepoint-spfx-adaptive-card-extension-card-types/).
+We also released a [new tutorial series](https://www.youtube.com/watch?v=plIXeRPR92Y&list=PLR9nK3mnD-OUjNKUMsWJwYnRnsmxXojYs) based on a new Microsoft Viva development learning module - [Create Adaptive Card Extensions (ACE) for Microsoft Viva Connections](https://learn.microsoft.com/training/modules/sharepoint-spfx-adaptive-card-extension-card-types/).
 
 * [Create Adaptive Card Extensions (ACE) for Microsoft Viva Connections](https://www.youtube.com/watch?v=plIXeRPR92Y) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [Update the component to display SharePoint list data - Exercise 1](https://www.youtube.com/watch?v=kefrLAS2DRw) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
