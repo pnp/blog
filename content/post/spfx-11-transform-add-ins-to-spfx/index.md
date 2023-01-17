@@ -26,6 +26,7 @@ draft: false
 This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
 
 * Previous blog post in this series - [Creating single part app page for SharePoint Online with SPFx](https://pnp.github.io/blog/post/spfx-10-single-part-app-pages/)
+* Next blog post in this series - [Publishing SPFx solution offerings to app source and SharePoint store](https://pnp.github.io/blog/post/spfx-12-publishing-spfx-solutions-store/)
 {{< /notice >}}
 
 
