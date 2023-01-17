@@ -30,7 +30,7 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 {{< /notice >}}
 
 
-## Transforming and modernizing SharePoint add-ins
+## Submitting your SPFX solution to store
 
 Support on publishing SPFx solutions to the store was introduced with the version 1.11 and we started accepting SPFx solution sin store since August 2020. There are currently hundreds of partner offerings in the app source and in the SharePoint store based as SPFx solutions and the submission numbers are growing rapidly. App source and the SharePoint store are a great ways to expose the solutions for customers using the native experiences.
 
@@ -38,13 +38,13 @@ We did also introduced completely new SharePoint store experience relatively rec
 
 {{< youtube _JKhNazaiXY >}}
 
-Submissing the solutions to the store is quite straight forward with following steps:
+Submitting the solutions to the store is quite straight forward with following steps:
 
 * You will need to use the Partner Center for the submission
 * Select new offering and use the **SharePoint Solution** as the offering type for SPFx solutions
 * Submit the solution to the validation
 
-After the initial submission, Microsoft's validation team will verify the solution behavior and the submitted information which will be shown in the store. After the validation team is completed the validation with potential adjustments from your side, solution will be available in the app source and in the SharePoint store. As part of this submission pipeline, the system will automatically detect what's included in the solution and different component types are exposed as an option in the SharePoint store.
+After the initial submission, Microsoft's validation team will verify the solution behaviour and the submitted information which will be shown in the store. After the validation team is completed the validation with potential adjustments from your side, solution will be available in the app source and in the SharePoint store. As part of this submission pipeline, the system will automatically detect what's included in the solution and different component types are exposed as an option in the SharePoint store.
 
 ![SharePoint store with the filtering options on component types](images/sharepoint-store.png)
 
