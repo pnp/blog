@@ -70,7 +70,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [Material Design component library for Power Apps](https://pnp.github.io/blog/post/Material-Design-component-library-for-Power-Apps) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese and [Robin Rosengrün](https://twitter.com/power_r2)(EnBW) | @power_r2
+* [Material Design component library for Power Apps](https://pnp.github.io/blog/post/material-design-component-library-for-power-apps/) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese and [Robin Rosengrün](https://twitter.com/power_r2)(EnBW) | @power_r2
 
 ## New Microsoft 365 Developer Blog posts
 
@@ -117,7 +117,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Microsoft Power Automate Bootcamp](https://events.powercommunity.com/microsoft-power-automate-bootcamp-2023/) - February 10-11, 2023 - London, UK
 * [AMS Sophia-Antipolis](https://www.communitydays.org/event/2023-02-07/ams-sophia-antipolis) - February 7, 2023 - Biot, France
 * [Workplacedudes Summit](https://www.communitydays.org/event/2023-02-24/workplacedudes-summit) - February 24, 2023 - Nieuwkoop, Netherlands
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/d365-finance-and-supply-chain-summit) - March 11, 2023 - Algarve, Portugal
+* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Algarve, Portugal
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Latinamerican Modern Workplace Conference](https://www.communitydays.org/event/2023-04-27/get-cslatam-conference-2023) - April 27-29, 2023 - Mexico City, Mexico
 * [M365 Conference](https://m365conf.com/#!/) - May 1-5, 2023 - Las Vegas, Nevada, USA
