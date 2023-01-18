@@ -27,6 +27,7 @@ draft: false
 This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
 
 * Previous blog post in this series - [Transforming SharePoint add-ins to SPFx solutions](https://pnp.github.io/blog/post/spfx-11-transform-add-ins-to-spfx/)
+* Next blog post in this series - [Design guidance and assets on building Microsoft Viva extensions with SPFx](https://pnp.github.io/blog/post/spfx-13-design-guidance-for-building-viva-extensions-spfx/)
 {{< /notice >}}
 
 
