@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with using PnPjs in your SPFx solutions"
-date: 2023-01-19T04:10:00.000Z
+date: 2023-01-19T04:20:00.000Z
 author: Julie Turner
 githubname: juliemturner
 categories:
