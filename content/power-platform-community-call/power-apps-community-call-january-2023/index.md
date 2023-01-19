@@ -1,6 +1,6 @@
 ---
 title: "Power Platform Community Call – January 2023"
-date: 2022-01-18T04:00:00-05:00
+date: 2023-01-18T04:00:00-05:00
 author: "David Warner II"
 githubname: PopWarner
 categories: ["Power Apps community call"]
