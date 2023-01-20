@@ -21,12 +21,13 @@ draft: false
 [SharePoint Framework](https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365 enabling developers to build different kinds of extensibility for Microsoft Viva, Microsoft Teams, Outlook, Microsoft 365 app (Office), and SharePoint. SPFx has multiple benefits like automatic Single Sign On, automatic hosting in the customer tenant, reuse same code across the service and industry standard web stack tooling.
 
 -	*We have heard that using PnPjs library helps on implementing SPFx solutions - can you share details on that?*
--	That is a great question. [PnPjs library](https://aka.ms/pnpjs) is an awesome community driver wrapper simplifying access to the SharePoint APIs and to Microsoft Graph APIs. You can use it also outside of the SPFx context, but it's widely indeed adopted and used in the SPFx solutions. I'll let the incredible co-maintainer [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) to share the details on the PnPjs.
+-	That is a great question. [PnPjs library](https://aka.ms/pnpjs) is an awesome community driver wrapper simplifying access to the SharePoint APIs and to Microsoft Graph APIs. You can use it also outside of the SPFx context, but it's widely indeed adopted and used in the SPFx solutions. I'll let the incredible co-maintainer [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) to share the details on the PnPjs - Vesa Juvonen, Microsoft
 
 {{< notice note>}}
 This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
 
 * Previous blog post in this series - [Design guidance and assets on building Microsoft Viva extensions with SPFx](https://pnp.github.io/blog/post/spfx-13-design-guidance-for-building-viva-extensions-spfx/)
+* Next blog post in this series - [Building a shared map solution for Microsoft Teams with SPFx](https://pnp.github.io/blog/post/spfx-15-building-a-shared-map-teams-solution-spfx/)
 {{< /notice >}}
 
 
