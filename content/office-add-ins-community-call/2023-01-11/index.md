@@ -81,6 +81,26 @@ We have been getting questions on on-send support for mobile quite frequently no
 **Is there an API or access point where we can call how many seats have been provisioned for an Office Add-in by the 365 Administrator? Say a company has 25 seats but authorizes only 5 for my add-in - is there a way for the add-in developer to know that? Please note that we do not have a SaaS application, just an Office Store add-in.**
 
 
+**We just saw that PowerPoint desktop client now supports PowerPointApi 1.5 with the semi-annual channel.  We tried the PowerPoint web client and it still does not.  Will that be rolling out soon to keep up with desktop client?**
+
+PowerPoint 1.5 support for PowerPoint Online web app is being rolled out, you should see it being available soon. The functionality should also work even if the supported requirement still returns 1.4 at this time.
+
+**I am in need of information on how to list our Outlook add-in as an MSI, inside Microsoft AppSource to run in the Outlook desktop app. The Microsoft support people referred us here. Could someone please take our case and help us? Maybe an email address to contact me?**
+
+AppSource only supports web add-ins and not COM add-ins. To distribute COM add-ins, use Azure Marketplace or any third-party digital delivery system or e-commerce solution. For guidance with publishing to Azure Marketplace, see [What is the Microsoft commercial marketplace?](https://learn.microsoft.com/en-us/azure/marketplace/overview).
+
+**We tried the setSelectedShapes() example in Script Lab and it did select the first two shapes as advertised.  But when we modified the example to pass in an empty array, it did not unselect the shapes as the doc indicates it should (and how it works on desktop).**
+
+This is a known bug. If you haven't already, please [open an issue on GitHub](https://github.com/OfficeDev/office-js/issues/new?assignees=&labels=&template=bug_report.md&title=) so that we can assist you further.
+
+**Does deployment of an SSO add-in work with PowerShell? When we try it through PowerShell, it fails and gives an error message. We tried it through the Exchange admin center, not from the Azure CLI.**
+
+We'll look into deploying an Outlook add-in that uses SSO and will provide a follow-up in the community call blog post.
+
+**Is anyone aware of the Excel Range Top and Left attribute errors?**
+So that we could help you further, please [open an issue on GitHub](https://github.com/OfficeDev/office-js/issues/new?assignees=&labels=&template=bug_report.md&title=).
+
+
 
 
 ## Resources related to to this blog's content
