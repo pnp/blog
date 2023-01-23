@@ -8,7 +8,6 @@ categories:
 images:
   - images/weeklyagenda03.png
 tags: []
-
 type: regular
 draft: true
 ---
