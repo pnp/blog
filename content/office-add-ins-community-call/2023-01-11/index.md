@@ -73,16 +73,11 @@ This is still not allowed. We recently shipped Smart alerts which has relatively
 
 **What is the timeline for upcoming features in PowerPoint? There’s a lot in Excel but can’t be done in Word or PowerPoint. The developer feedback and ideas forum doesn’t get much attention. Could there be more effort in this review?**
 
-
 Thank you for that feedback. There are currently a number of features currently being worked on in PowerPoint, if you have an feature requests you would like to see soon please fill out this [survey](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR5oYVeF9pExPnSjEMUhVOIdUQTY1NFU4TEFQMUxRSE1VRlVDNUhXU1AwTy4u)
 
 **Is there a timeline for when Outlook Mobile (on iOS and Android) will support compose mode for Office add-ins, and further when the on-send event will be supported? Currently only read-mode is supported for Outlook add-ins and this has been the state for many years now, but our add-in is essentially for compliance measures to ensure all sent messages include some extra input/metadata from the sender.**
 
 We have been getting questions on on-send support for mobile quite frequently now. This feature will be looked into once we are able to finish delivering other features that on-send would build upon. 
-
-**Is there an API or access point where we can call how many seats have been provisioned for an Office Add-in by the 365 Administrator? Say a company has 25 seats but authorizes only 5 for my add-in - is there a way for the add-in developer to know that? Please note that we do not have a SaaS application, just an Office Store add-in.**
-
-Still tracking down answer. 
 
 **We just saw that PowerPoint desktop client now supports PowerPoint API1.5 with the semi-annual channel. We tried the PowerPoint web client and it still does not.  Will that be rolling out soon to keep up with desktop client?**
 
@@ -98,12 +93,12 @@ This is a known bug. You can [see the issue on GitHub](https://github.com/Office
 
 **Does deployment of an SSO add-in work with PowerShell? When we try it through PowerShell, it fails and gives an error message. We tried it through the Exchange admin center, not from the Azure CLI.**
 
-Deployment of an SSO add-in many not work with PowerShell under certain conditions. For example when using the Powershell cmdlet, there isn't the ability to grant admin consent which then causes an error to be thrown. 
+Deployment of an SSO add-in may not work with PowerShell under certain conditions.The add-in may require admin consent, which means a UI needs to pop up from Microsoft identity platform to do the consent. Looks like this isn’t possible in PowerShell according to this post: [How to grant admin consent to an Azure AAD app in Powershell?](https://stackoverflow.com/questions/63529599/how-to-grant-admin-consent-to-an-azure-aad-app-in-powershell), but there is a workaround shown to use the Azure CLI.
+Another potential solution may be to grant admin consent in your app registration page that you created in the Azure portal. Then when the admin runs the cmdlet to deploy, it is already consented and should work without needed a UI.
+
 
 **Is anyone aware of the Excel Range Top and Left attribute errors?**
 So that we could help you further, please [open an issue on GitHub](https://github.com/OfficeDev/office-js/issues/new?assignees=&labels=&template=bug_report.md&title=). You can also follow [this topic](https://answers.microsoft.com/msoffice/forum/all/vba-in-excel-using-rangetop-rangeleft-to-get-cell/72f2276f-9d96-43c3-8e7b-c09e99a3988d) on Microsoft Community Answers forum.
-
-
 
 
 ## Resources related to to this blog's content
