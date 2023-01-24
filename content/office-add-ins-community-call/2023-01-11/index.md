@@ -94,8 +94,6 @@ This is a known bug. You can [see the issue on GitHub](https://github.com/Office
 **Does deployment of an SSO add-in work with PowerShell? When we try it through PowerShell, it fails and gives an error message. We tried it through the Exchange admin center, not from the Azure CLI.**
 
 Deployment of an SSO add-in may not work with PowerShell under certain conditions.The add-in may require admin consent, which means a UI needs to pop up from Microsoft identity platform to do the consent. Looks like this isn’t possible in PowerShell according to this post: [How to grant admin consent to an Azure AAD app in Powershell?](https://stackoverflow.com/questions/63529599/how-to-grant-admin-consent-to-an-azure-aad-app-in-powershell), but there is a workaround shown to use the Azure CLI.
-Another potential solution may be to grant admin consent in your app registration page that you created in the Azure portal. Then when the admin runs the cmdlet to deploy, it is already consented and should work without needed a UI.
-
 
 **Is anyone aware of the Excel Range Top and Left attribute errors?**
 So that we could help you further, please [open an issue on GitHub](https://github.com/OfficeDev/office-js/issues/new?assignees=&labels=&template=bug_report.md&title=). You can also follow [this topic](https://answers.microsoft.com/msoffice/forum/all/vba-in-excel-using-rangetop-rangeleft-to-get-cell/72f2276f-9d96-43c3-8e7b-c09e99a3988d) on Microsoft Community Answers forum.
