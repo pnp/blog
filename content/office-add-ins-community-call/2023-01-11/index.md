@@ -98,7 +98,7 @@ This is a known bug. You can [see the issue on GitHub](https://github.com/Office
 
 **Does deployment of an SSO add-in work with PowerShell? When we try it through PowerShell, it fails and gives an error message. We tried it through the Exchange admin center, not from the Azure CLI.**
 
-We'll look into deploying an Outlook add-in that uses SSO and will provide a follow-up in the community call blog post.
+Deployment of an SSO add-in many not work with PowerShell under certain conditions. For example when using the Powershell cmdlet, there isn't the ability to grant admin consent which then causes an error to be thrown. 
 
 **Is anyone aware of the Excel Range Top and Left attribute errors?**
 So that we could help you further, please [open an issue on GitHub](https://github.com/OfficeDev/office-js/issues/new?assignees=&labels=&template=bug_report.md&title=). You can also follow [this topic](https://answers.microsoft.com/msoffice/forum/all/vba-in-excel-using-rangetop-rangeleft-to-get-cell/72f2276f-9d96-43c3-8e7b-c09e99a3988d) on Microsoft Community Answers forum.
