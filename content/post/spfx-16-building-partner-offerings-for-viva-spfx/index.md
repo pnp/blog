@@ -60,7 +60,7 @@ Documentation and references on building partner offering for Microsoft Viva
 - [SPFx ACE Implementation Details](https://github.com/pnp/spfx-reference-scenarios/blob/main/samples/ace-pnp-contoso-orders/docs/ACEs-Implementation-Details.md)
 - [Build, sell, and thrive with Microsoft 365 - Partner Benefits program for Microsoft Viva](https://cloudpartners.transform.microsoft.com/practices/modernworkisv)
 
-## Frequent questions around Viva Home and Viva Connections design guidance
+## Frequent questions
 
 **Do I have to use the Azure to host my API for the Microsoft Viva?** 
 
