@@ -11,7 +11,7 @@ tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
 - https://youtu.be/MfEX1zdeQ3U
-draft: true
+draft: false
 ---
 
 # Office Add-ins developer platform community call - January 11, 2023
