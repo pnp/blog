@@ -1,51 +1,62 @@
 ---
-title: "Microsoft 365 PnP Weekly - Episode 193"
-summary: "UK-based Microsoft MVP (M365 Apps & Services) - Leon Armston (Intelogy), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about Microsoft Syntex, AI in the Enterprise, opportunities, plus 23 articles/videos."
-date: 2023-01-24T02:00:01-00:00
+title: "Microsoft 365 PnP Weekly - Episode 194"
+summary: "US-based Microsoft MVP - Mark Rackley (Avanade), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about Power Platform, low code development, community conferences, becoming a Microsoft MVP plus 16 articles/videos."
+date: 2023-01-23T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-193-promo.png
+- images/pnp-weekly-194-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=52iMkl1WqxU
-draft: true
+- https://www.youtube.com/watch?v=FpYdrSCHpRM
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK-based M365 Consultant, Content AI Specialist and Microsoft MVP (M365 Apps & Services) - [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) \| @LeonArmston
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US-based Developer, Speaker, Podcaster, Group Manager, Modern Workplace Architect, Microsoft MVP - [Mark Rackley](https://twitter.com/mrackley) (Avanade) \| @mrackley
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
+* Are we empowered to do more with low or no code?
+* How has the rise of the Citizen Developer and low code tools introduced new complexities for the enterprise?
+* Why is coding the last thing you do?
+* Are there fewer opportunities for Partners in the Cloud than in on-prem? Where is the need for 3rd party tools today?
+* Where do you see the Power Platform truly shine?
+* Do you see Pro Developers moving to Power Platform?
+* How does one get to be in Mark’s position – speaker, architect, Microsoft MVP?
+* How did Mark start hosting, running and growing conferences over the past 13 years?
+* Top 3 tips for starting a community group – 1 tip! [Community Days.org](http://communitydays.org).
+* Thoughts on using chatGPT to build scripts.
 
-Also, we showcased xx articles/videos published by Microsoft and the PnP Community in the last week.
+Also, we showcased 16 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
-* **Marc** – 
-* **Waldek** – 
-* **Vesa** – 
+* **Mark** – Avoiding [chatGPT noise](https://www.bing.com/news/search?q=ChatGPT&qpvt=chatGPT&FORM=EWRE).
+* **Waldek** – prep week for releases of Graph Developer Proxy and CLI for Microsoft 365 at month end. Planning for more things to come.
+* **Vesa** – community related planning – remote and in-person.
 
 ## Agenda items
 
-* [01:23](https://youtu.be/52iMkl1WqxU?t=83) – Interview
-* [43:33](https://youtu.be/52iMkl1WqxU?t=2613) – Weekly Articles
+[00:00](https://youtu.be/FpYdrSCHpRM?t=0) – Intro
+
+[01:17](https://youtu.be/FpYdrSCHpRM?t=77) – Interview
+
+[38:59](https://youtu.be/FpYdrSCHpRM?t=2339) – Weekly Articles
+
+[54:59](https://youtu.be/FpYdrSCHpRM?t=3299) - Closing
+
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, January 16, 2023.
+This session was recorded on Monday, January 23, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 52iMkl1WqxU >}}
+    {{< youtube FpYdrSCHpRM >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-z33y6-1365f69 >}}   
+    {{< podbean pb-xbgs2-136fd90 >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -53,7 +64,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Microsoft articles
 
-* [Microsoft Mesh: Creating connections at the World Economic Forum 2023](https://www.microsoft.com/en-us/microsoft-365/blog/2023/01/16/microsoft-mesh-creating-connections-at-the-world-economic-forum-2023/) - [Nicole Herskowitz](https://twitter.com/nicolelamb) (Microsoft) | @nicolelamb
+* [Microsoft Mesh: Creating connections at the World Economic Forum 2023](https://www.microsoft.com/microsoft-365/blog/2023/01/16/microsoft-mesh-creating-connections-at-the-world-economic-forum-2023/) - [Nicole Herskowitz](https://twitter.com/nicolelamb) (Microsoft) | @nicolelamb
 * [How to implement proactive notifications in Microsoft Teams using Power Automate or Azure Logic App](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-implement-proactive-notifications-in-microsoft-teams/ba-p/3717219) - Alexis Kinzelin (Microsoft)
 * [Transforming SharePoint add-ins to SPFx solutions](https://pnp.github.io/blog/post/spfx-11-transform-add-ins-to-spfx/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen
 * [Publishing SPFx solution offerings to app source and SharePoint store](https://pnp.github.io/blog/post/spfx-12-publishing-spfx-solutions-store/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen
@@ -67,7 +78,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Syntex Pay As You Go - how it helps and how to use it](https://www.sharepointnutsandbolts.com/2023/01/Syntex-PAYG.html) - [Chris O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud) | @ChrisO_Brien
 * [Item vs items in Apply to each steps in Power Automate](https://sharepains.com/2023/01/18/item-items-apply-to-each-power-automate/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 * [Introduction to Polyglot notebooks and PnP Core SDK](https://pkbullock.com/blog/2023/introduction-to-polyglot-notebooks-and-pnp-core-sdk/) - [Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @pkbullock
-* [More flexible SPFx development with simple react app](https://mgwdevcom.wordpress.com/2023/01/16/more-flexible-spfx-development-with-simple-react-app/) - [Marcin Wojciechowski](https://twitter.com/mgwojciech) (StaffBase) | @mgwojciech
+* [More flexible SPFx development with simple react app](https://mgwdevcom.wordpress.com/2023/01/16/more-flexible-spfx-development-with-simple-react-app/) - [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Staffbase) | @mgwojciech
 * [Announcing release 1.8.0 of hTWOo-React](https://twitter.com/jfj1997/status/1616496002382565382) - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997
 * [Export the list of Microsoft Teams team a user is part of using CLI for Microsoft 365](https://www.youtube.com/shorts/T3-S0c9eyP4) - [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia
 * [How to Use Virtual Tables to show SharePoint and SQL Data in Dataverse](https://www.youtube.com/watch?v=vMEKnAtpPL4) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
