@@ -55,11 +55,11 @@ The process to get started on using the MGT within your SPFx solution is as foll
 4. Build and deploy your solution to the tenant
 5. Test your solution and start using it in the production
 
-Here’s a great intro from Alex Terentiv (Microsoft) on the control usage
+Here’s a great intro from [Alex Terentiv](https://twitter.com/alexaterentiev) (Microsoft) on the control usage
 
 {{< youtube 1vYEFJGtPQc >}}
 
-Here’s another great video from Joel Rodrigues (Storm Technology) | @JoelFMRodrigues. 
+Here’s another great video from [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues. 
 
 {{< youtube 4zGVtHgqxcY >}}
 
