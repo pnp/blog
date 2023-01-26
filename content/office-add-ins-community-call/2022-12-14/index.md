@@ -30,7 +30,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 ## View video segments
 
 * Marketplace leads for Office plugins are now becoming available in the Referrals Workspace [00:41](https://youtu.be/oaYIy8kdVRU?t=41)
-* Add-in Auto Open for Word and Exce [05:02](https://youtu.be/oaYIy8kdVRU?t=302)
+* Add-in Auto Open for Word and Excel [05:02](https://youtu.be/oaYIy8kdVRU?t=302)
 * Top 5 AppSource Validation Errors hit by Office Add-ins' submissions [17:44](https://youtu.be/oaYIy8kdVRU?t=1064)
 * Q&A [28:00](https://youtu.be/oaYIy8kdVRU?t=1680)
 

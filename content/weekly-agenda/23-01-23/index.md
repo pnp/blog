@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 23rd of January 2023 week
-date: 2023-01-19T08:50:56.672Z
+date: 2023-01-20T04:50:56.672Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -9,8 +9,8 @@ images:
   - images/weeklyagenda04.png
 tags: []
 
-type: regular
-draft: true
+type: trending
+draft: false
 ---
 
 
@@ -60,6 +60,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 
+* [My experience as a first-time contributor to CLI for Microsoft 365](https://www.youtube.com/watch?v=hBzdaN5uWTU) by [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | @NicoDeCleyre
 * [Power Apps component library: Material design](https://www.youtube.com/watch?v=kkGjJBQoI3I) by [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam, [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese, [Robin Rosengrün](https://twitter.com/power_r2) (EnBw) | @power_r2
 * [Building SPFx Password Vault Web Part and SharePoint quick links extension for browser](https://www.youtube.com/watch?v=y38RFnrrxrI) by  [Sergej Schwabauer](https://github.com/SPFxAppDev) (Aurum) | SPFxAppDev
 * [Electricity Maps Independent Publisher Power Platform Connector](https://www.youtube.com/watch?v=utEppThfOP8)  by [Vitalii Sorokin](https://twitter.com/Magpie_V) | @Magpie_V
@@ -79,6 +80,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 Commu
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
+* [Getting Started with using PnPjs in your SPFx solutions](https://pnp.github.io/blog/post/spfx-14-getting-started-with-pnpjs-spfx/) by [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997
 * [Design guidance and assets on building Microsoft Viva extensions with SPFx](https://pnp.github.io/blog/post/spfx-13-design-guidance-for-building-viva-extensions-spfx/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Publishing SPFx solution offerings to app source and SharePoint store](https://pnp.github.io/blog/post/spfx-12-publishing-spfx-solutions-store/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Transforming SharePoint add-ins to SPFx solutions](https://pnp.github.io/blog/post/spfx-11-transform-add-ins-to-spfx/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
@@ -87,6 +89,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Microsoft 365 & Power Platform Development Community call - 19th of January, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-01-19/)
 * [Power Platform Community Call – January 2023](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-january-2023/)
 * [Microsoft 365 Platform Community Call - 17th of January, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-01-17/)
 * [Viva Connections & SharePoint Framework Community Call – 12th of January, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-01-12/)
@@ -114,10 +117,15 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Microsoft Power Automate Bootcamp](https://events.powercommunity.com/microsoft-power-automate-bootcamp-2023/) - February 10-11, 2023 - London, UK
+* [M365 Twin Cities](https://www.communitydays.org/event/2023-01-21/m365-twin-cities) - January 21, 2023 - Brooklyn Park, Minnesota, USA
 * [AMS Sophia-Antipolis](https://www.communitydays.org/event/2023-02-07/ams-sophia-antipolis) - February 7, 2023 - Biot, France
+* [Microsoft Power Automate Bootcamp](https://events.powercommunity.com/microsoft-power-automate-bootcamp-2023/) - February 10-11, 2023 - London, UK
+* [M365 ReVival](https://www.communitydays.org/event/2023-02-16/m365-revival-2023) - February 16, 2023 - Oslo, Norway
 * [Workplacedudes Summit](https://www.communitydays.org/event/2023-02-24/workplacedudes-summit) - February 24, 2023 - Nieuwkoop, Netherlands
+* [Global Power Platform Bootcamp 2023](https://www.communitydays.org/event/2023-02-24/global-power-platform-bootcamp-2023-new-york) - February 24-25, 2023 - New York, USA
+* [ Global AI Bootcamp 2023](https://www.communitydays.org/event/2023-03-03/global-ai-bootcamp-2023) - March 3-4, 2023 - Virtual
 * [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* [DynamicsCon Virtual](https://www.communitydays.org/event/2023-03-15/dynamicscon-virtual) - March 15-16, 2023 - Virtual
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Latinamerican Modern Workplace Conference](https://www.communitydays.org/event/2023-04-27/get-cslatam-conference-2023) - April 27-29, 2023 - Mexico City, Mexico
 * [M365 Conference](https://m365conf.com/#!/) - May 1-5, 2023 - Las Vegas, Nevada, USA
