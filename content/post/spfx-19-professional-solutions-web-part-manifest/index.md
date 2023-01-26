@@ -1,6 +1,6 @@
 ---
 title: "Professional SPFx Solutions: Unlocking the secrets of your web part manifest"
-date: 2023-01-26T08:00:00.000Z
+date: 2023-01-26T08:10:00.000Z
 author: Hugo Bernier
 githubname: hugoabernier
 categories:
