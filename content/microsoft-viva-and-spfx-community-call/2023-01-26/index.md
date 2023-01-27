@@ -8,7 +8,7 @@ images:
 - images/recordng-january-26th.png
 tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
-summary: "Demos: Building SPFx Visio file presenter for Teams and SharePoint, Extend the PnP React SPFx ListView control with a contextual menu, and Building CAML query web part for easy data presentation. Released CLI for Microsoft 365 beta and 4 samples."
+summary: "Demos: Building SPFx Visio file presenter for Teams and SharePoint, Extend the PnP React SPFx ListView control with a contextual menu, and Building CAML query web part for easy data presentation. CLI for Microsoft 365 + 4 samples."
 videos:
 - https://www.youtube.com/watch?v=49yC8DmN5lY
 draft: false
