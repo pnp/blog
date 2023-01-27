@@ -31,8 +31,9 @@ This is the agenda for the following week:
 
 Demos this time
 
-* [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband, John Nguyen (Microsoft) , [Alex Terentiev](alexaterentiev) (Microsoft) | @alexaterentiev – Roadmap updates on SPFx for Microsoft Viva, Microsoft Teams, and more…
-* [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen and  [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell – Creating Viva Connections SPFx ACE with geo-location capabilities
+* [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband, John Nguyen (Microsoft) , [Alex Terentiev](alexaterentiev) (Microsoft) | @alexaterentiev – Updates on SPFx and next steps with Microsoft engineering
+* [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen and  [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell – Introduction to Viva Connections learn module - Tutorial part 3
+
 
 Also: 📷 Picture Time with community in Together Mode!
 

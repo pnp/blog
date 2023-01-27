@@ -16,59 +16,63 @@ type: regular
 videos:
 - https://www.youtube.com/watch?v=1vYEFJGtPQc
 - https://www.youtube.com/watch?v=4zGVtHgqxcY
-draft: true
+draft: false
 ---
 
 [SharePoint Framework](https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365 enabling developers to build different kinds of extensibility for Microsoft Viva, Microsoft Teams, Outlook, Microsoft 365 app (Office), and SharePoint. SPFx has multiple benefits like automatic Single Sign On, automatic hosting in the customer tenant, reuse same code across the service and industry standard web stack tooling.
 
--	*I'd like to use the awesome Microsoft Graph Toolkit with my SPFx solutions. Is this possible?*
--	That is a great question. You can absolutely use the [Microsoft Graph Toolkit](https://aka.ms/mgt) (MGT) within your SPFx solutions. MGT is an awesome set of controls which increase the productivity of the developers and helps you to implement polished UX which is connected to the Microsoft Graph APIs with few lines of code.
+-	*I can see pretty cool controls in the out of the box SPFx experiences, can I get access on those controls or increase my productivity otherwise?*
+-	That is a great question. There are no out of the box controls provided as such from the Microoft engineering, except for the [Microsoft Graph Toolkit](https://pnp.github.io/blog/post/spfx-17-microsoft-graph-toolkit-spfx), but engineering has partnered with our commnity to provide tens of open-sourced community led controls for SPFx solutions.
 
 {{< notice note>}}
 This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
 
-* Previous blog post in this series - [Building partner offerings for Microsoft Viva Connections & Viva Home with SPFx](https://pnp.github.io/blog/post/spfx-16-building-partner-offerings-for-viva-spfx/)
+* Previous blog post in this series - [Using Microsoft Graph Toolkit with SPFx solutions](https://pnp.github.io/blog/post/spfx-17-microsoft-graph-toolkit-spfx/)
+* Next blog post in this series - [Professional SPFx Solutions: Unlocking the secrets of your web part manifest](https://pnp.github.io/blog/post/spfx-19-professional-solutions-web-part-manifest/)
 {{< /notice >}}
 
-## Using Microsoft Graph Toolkit with SPFx solutions
+## Increase your productivity with community provided controls for SPFx solutions
 
-Using Microsoft Graph Toolkit (MGT) within the SPFx solutions is really straightforward and can be done easily as the MGT takes advantage of the fully automatic single-sign. This means that the token handling is completely automatic, and you can focus on building your custom experience.
+To increase the productivity of developers who are building SPFx solutions, Microsoft engineering closely partners with the open-source community to provide reusable controls for SPFx solutions. 
 
-With MGT you can create engaging solutions with only a few lines of code and with SPFx – your solution is automatically hosted and available for production usage with few simple steps.
+These controls are provided to make the custom solutions more aligned with the 1st party experiences and to even adopt some 1st party controls to be available for the partners and customers. A great example being the Web Part title control, which is direct adoption of the same control which Microsoft uses in out of the box engineering work.
 
-![MGT loves SPFx](images/mgt-loves-spfx.png)
+Some of these controls are also automatically context aware, which means that they adopt automatically to the underlaying APIs for example for detecting lists or taxonomy information, meaning that you do not need to worry how to get the data, controls have the needed connectivity in them.
+
+There are two kind of controls which are available depending on the use case
+
+- [SPFx property controls]( https://pnp.github.io/sp-dev-fx-property-controls/) – Web part and tab property controls for the SharePoint Framework solutions
+- [SPFx react controls]( https://pnp.github.io/sp-dev-fx-controls-react/) – reusable React control that can be used in your SharePoint Framework solutions
+
+You can find overall tens and tens of controls which will help you to be more productive as you build your experiences for Microsoft Teams, Microsoft Viva, Outlook, Office or SharePoint.
+
+![Different controls](images/controls-preview.png)
 
 The process to get started on using the MGT within your SPFx solution is as follows:
 
 1. Set up your development environment and create a SPFx solution
-2. Install the Microsoft Graph Toolkit SharePoint Framework package to solution project
-3. Import the SharePoint Provider in your code
-4. Use MGT components based on your business requirements
-5. Configure permissions for the SPFx solution in `package-solution.json` file
-6. Deploy the [Microsoft Graph Toolkit SharePoint Framework package](https://learn.microsoft.com/en-us/graph/toolkit/get-started/mgt-spfx) to tenant app catalog – this package contains MGT SPFx provider as a library component which is then used by all SPFx solutions in the tenant
-7. Build and deploy your solution to the tenant - remember to grant the required API permissions
-8. Test your solution and start using it in the production
+2. Include the needed control package(s) based on your business needs using npm install command
+3. Implement your custom experience as needed
+4. Build and deploy your solution to the tenant
+5. Test your solution and start using it in the production
 
-Here’s a great video by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) on the required steps. 
+Here’s a great intro from [Alex Terentiv](https://twitter.com/alexaterentiev) (Microsoft) on the control usage
 
-{{< youtube PTWXRuPbSEw >}}
+{{< youtube 1vYEFJGtPQc >}}
 
-Documentation and references for the Microsoft Graph Toolkit usage within SPFx solutions
+Here’s another great video from [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues. 
 
-- [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph ](https://aka.ms/mgt/docs)
-- [Build a SharePoint web part with the Microsoft Graph Toolkit](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-web-part-microsoft-graph-toolkit)
-- [Use Microsoft Graph Toolkit to connect your solution to Microsoft Graph](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/use-microsoft-graph-toolkit)
-- [SharePoint Framework library for Microsoft Graph Toolkit ](https://learn.microsoft.com/en-us/graph/toolkit/get-started/mgt-spfx)
+{{< youtube 4zGVtHgqxcY >}}
 
-## Frequently asked questions on MGT usage within SPFx solutions
+## Frequently asked questions on the reusable SPFx controls
 
-**Do I need to use MSAL in my code to make this work?** 
+**Are these controls provided by Microsoft engineering?** 
 
-No. MSAL and auth is completely automatic with the SPFx and you do not need to perform any additional tricks to get the access token for the used APIs. All of this is abstracted from your code. 
+No. These are community provided and Microsoft employees are part of this community, but they are not Microsoft owned or Microsoft supported set of controls.
 
-**Can I use any Microsoft Graph Toolkit Control?**
+**Can I contribute on these controls if I see something which could improve?**
 
-Yes. As long as you grant the permissions for the SPFx solution for them. This really comes back to ensure that you have requested and granted the right permissions for the controls using the permission request model from the `package-solution.json` file.
+Absolutely. These are open-source controls provided by the community and both projects welcome contributions.
 
 ## References
 
