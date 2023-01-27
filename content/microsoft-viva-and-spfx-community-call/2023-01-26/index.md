@@ -5,7 +5,7 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/recordng-january-26th.png
+- images/recording-january-26th.png
 tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Demos: Building SPFx Visio file presenter for Teams and SharePoint, Extend the PnP React SPFx ListView control with a contextual menu, and Building CAML query web part for easy data presentation. CLI for Microsoft 365 + 4 samples."
