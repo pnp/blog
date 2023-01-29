@@ -27,7 +27,7 @@ The following describes how to change the background color of cards in the galle
 1. Open the Gallery view in Microsoft Lists
 2. Click on the name of the view displayed on the command bar > Click **Format curret view**
 3. Click **Edit card**
-4. Check the columns you want to show on the card and uncheck the columns you do not want to show
+4. Sort and show/hide content
 5. Click **Advance mode**
 
     ![steps to open advance mode](./images/steps-to-open-advance-mode.png)
