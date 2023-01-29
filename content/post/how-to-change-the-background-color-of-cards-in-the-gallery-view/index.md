@@ -38,7 +38,7 @@ The following describes how to change the background color of cards in the galle
 
     ``` json
     "style": {
-        "background-color": "*** HTML color code or name ***"
+      "background-color": "*** HTML color code or name ***"
     },
     ```
 
@@ -48,7 +48,7 @@ The following describes how to change the background color of cards in the galle
 
         ``` json
         "style": {
-            "background-color": "MistyRose"
+          "background-color": "MistyRose"
         },
         ```
 
@@ -58,7 +58,7 @@ The following describes how to change the background color of cards in the galle
 
         ``` json
         "style": {
-            "background-color": "=if([$Priority]=='Low','#d5ffd5',if([$Priority]=='Normal','#ffffd5',if([$Priority]=='High','#ffd5ea','#ffffff')))"
+          "background-color": "=if([$Priority]=='Low','#d5ffd5',if([$Priority]=='Normal','#ffffd5',if([$Priority]=='High','#ffd5ea','#ffffff')))"
         },
         ```
 
@@ -68,7 +68,7 @@ The following describes how to change the background color of cards in the galle
 
         ``` json
         "style": {
-            "background-color": "=if(@rowIndex%2==0,'#ffffff','#dddddd')"
+          "background-color": "=if(@rowIndex%2==0,'#dddddd','#ffffff')"
         },
         ```
 
@@ -83,7 +83,7 @@ This completes the background color change of the cards!
 
     ![edit view screen](./images/edit-view-screen.png)
 
-- To use a column value as a condition, write something like `[$FieldName]`, where FieldName should be set to the internal name of the column, not the display name of the column. The internal name of the column can be found in the URL of the Edit Column screen.
+- To use a column value as a condition, write something like `[$FieldName]` (e.g., `[$Priority]`, `[$Category]`). FieldName must be set to the internal name of the column, not the display name of the column. The internal name of the column can be found in the URL of the Edit Column screen.
 
     ![edit column screen](./images/edit-column-screen.png)
 
