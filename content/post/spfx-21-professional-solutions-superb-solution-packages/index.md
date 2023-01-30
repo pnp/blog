@@ -1,6 +1,6 @@
 ---
 title: "Professional SPFx Solutions: Superb solution packages"
-date: 2023-01-27T08:00:00.000Z
+date: 2023-01-30T08:00:00.000Z
 author: Hugo Bernier
 githubname: hugoabernier
 categories:
