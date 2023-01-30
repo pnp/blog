@@ -29,6 +29,7 @@ Great questions! Luckily, the answers to all your questions are the same: you ca
 This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
 
 - Previous blog post in this series - [Professional SPFx Solutions: Unlocking the secrets of your web part manifest](https://pnp.github.io/blog/post/spfx-19-professional-solutions-web-part-manifest/)
+* Next blog post in this series - [Professional SPFx Solutions: Superb solution packages](https://pnp.github.io/blog/post/spfx-21-professional-solutions-superb-solution-packagesspfx-21-professional-solutions-superb-solution-packages/)
 {{< /notice >}}
 
 ## What's this "manifest" thing you're talking about, again?
