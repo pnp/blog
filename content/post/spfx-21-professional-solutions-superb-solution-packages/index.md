@@ -6,7 +6,7 @@ githubname: hugoabernier
 categories:
   - SPFx
 images:
-  - images/21-professional-solutions-superb-solution-packages.png
+  - images/21-professional-solutions-package-solution.png
 tags:
   - Microsoft Teams
   - Microsoft Viva  
