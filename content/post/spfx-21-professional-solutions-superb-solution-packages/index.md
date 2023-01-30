@@ -31,7 +31,7 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 - Previous blog post in this series - [Professional SPFx Solutions: More web part manifest secrets](https://pnp.github.io/blog/post/spfx-20-professional-solutions-more-web-part-manifest-secrets/)
 {{< /notice >}}
 
-Unless you publish your SPFx solutions to the SharePoint Store for others to purchase, you may have never paid much attention to the **package-solution.json** file in your solution. But, just like the web part **.manifest.json**, the **package-solution.json** is full of cool configuration options that you should be aware of.
+Unless you have published your SPFx solutions to the SharePoint Store for others to purchase, you may have never paid much attention to the **package-solution.json** file. But, just like the web part **.manifest.json**, the **package-solution.json** is full of cool configuration options that you should be aware of.
 
 In today's post, I hope to convince you to spend a little bit more time with your **package-solution.json** to make your solutions appear more professional, and to change how your solutions behave when deployed.
 
