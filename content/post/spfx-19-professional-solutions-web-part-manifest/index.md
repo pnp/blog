@@ -317,4 +317,4 @@ Here are some initial references to get started with the SPFx in your developmen
 
 - - -
 
-We will provide more details on the different options and future direction of the SPFx in upcoming blog posts. This post focused on the getting started steps with SPFx - more details coming up with this series with one post within each business day of January 2023.
+We will provide more details on the different options and future direction of the SPFx in upcoming blog posts in this series.

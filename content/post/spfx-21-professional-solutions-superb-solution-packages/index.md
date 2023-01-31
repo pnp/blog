@@ -28,6 +28,7 @@ Great questions! You can control how your application appears in the app store b
 This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
 
 - Previous blog post in this series - [Professional SPFx Solutions: More web part manifest secrets](https://pnp.github.io/blog/post/spfx-20-professional-solutions-more-web-part-manifest-secrets/)
+- Next blog post in this series - [Do more with less in Microsoft 365 by using SPFx](https://pnp.github.io/blog/post/spfx-22-do-more-with-less-microsoft365-spfx/)
 {{< /notice >}}
 
 Unless you have published your SPFx solutions to the SharePoint Store for others to purchase, you may have never paid much attention to the **package-solution.json** file. But, just like the web part **.manifest.json**, the **package-solution.json** is full of cool configuration options that you should be aware of.
@@ -494,4 +495,4 @@ Here are some initial references to get started with the SPFx in your developmen
 
 - - -
 
-We will provide more details on the different options and future direction of the SPFx in [our next post](https://pnp.github.io/blog/post/spfx-20-professional-solutions-more-web-part-manifest-secrets/). This post focused on the getting started steps with SPFx - more details coming up with this series with one post within each business day of January 2023.
+We will provide more details on the different options and future direction of the SPFx in upcoming blog posts in this series.
