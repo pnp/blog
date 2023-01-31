@@ -29,7 +29,7 @@ Great questions! Luckily, the answers to all your questions are the same: you ca
 This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
 
 - Previous blog post in this series - [Professional SPFx Solutions: Unlocking the secrets of your web part manifest](https://pnp.github.io/blog/post/spfx-19-professional-solutions-web-part-manifest/)
-* Next blog post in this series - [Professional SPFx Solutions: Superb solution packages](https://pnp.github.io/blog/post/spfx-21-professional-solutions-superb-solution-packagesspfx-21-professional-solutions-superb-solution-packages/)
+* Next blog post in this series - [Professional SPFx Solutions: Superb solution packages](https://pnp.github.io/blog/post/spfx-21-professional-solutions-superb-solution-packages/)
 {{< /notice >}}
 
 ## What's this "manifest" thing you're talking about, again?
@@ -309,4 +309,4 @@ Here are some initial references to get started with the SPFx in your developmen
 
 - - -
 
-We will provide more details on the different options and future direction of the SPFx in [our next post](https://pnp.github.io/blog/post/spfx-20-professional-solutions-more-web-part-manifest-secrets/). This post focused on the getting started steps with SPFx - more details coming up with this series with one post within each business day of January 2023.
+We will provide more details on the different options and future direction of the SPFx in upcoming blog posts in this series.
