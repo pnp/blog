@@ -1,59 +1,65 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 195"
-summary: "US-based Microsoft MVP - Liam, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion "
-date: 2023-01-31T02:00:01-00:00
+summary: "US-based Microsoft MVP, MCT and CEO/Owner at SharePlicity - Liam Cleary, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about security, ChatGPT, assumed risk, and cultural transition UK to US, plus 26 articles/videos."
+date: 2023-01-30T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-194-promo.png
+- images/pnp-weekly-195-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=FpYdrSCHpRM
-draft: true
+- https://www.youtube.com/watch?v=ygwKmENvt0g
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US-based Developer, Speaker, Podcaster, Group Manager, Modern Workplace Architect, Microsoft MVP - [Mark Rackley](https://twitter.com/mrackley) (Avanade) \| @mrackley
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US-based Microsoft MVP and MCT, CEO/Owner of SharePlicity - [Liam Cleary](https://twitter.com/helloitsliam) \|@helloitsliam
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* Overview of Liam’s work as a Microsoft certified trainer, security and compliance assessments, migrations, etc.
+* Thoughts on several cultural differences between UK and US.
+* Security risks and product integration possibilities for ChatGPT?
+* Is there a way to protect organizations from the latest AI technologies?
+* Talking to organizations about “Assumed Risk.”
+* Top 3 items to address in a security review.
+* What did Vesa say in Finnish?
 
-Also, we showcased xx articles/videos published by Microsoft and the PnP Community in the last week.
+Referenced during discussion
+
+* Documentation - [What is Microsoft Purview?](https://learn.microsoft.com/purview/purview)
+* Documentation - [What is Microsoft Sentinel?](https://learn.microsoft.com/azure/sentinel/overview)
+* Website – [quetext](https://www.quetext.com/)
+* Website – [Grammarly](https://www.grammarly.com/)
+
+Also, we showcased 26 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
-* **Liam** – 
-* **Waldek** – 
-* **Vesa** – 
+* **Leon** – investigating authoring a book, recording a PowerShell forensics and incident response course, and kicking off a MS-500 recording, and content to write. A relaxed week!
+* **Waldek** – releasing new versions of Microsoft Graph Developer Proxy and CLI for Microsoft 365 on January 31st, along with planning for a new event to be delivered during March.
+* **Vesa** – conference and community development planning.
 
 ## Agenda items
 
-[00:00](https://youtu.be/FpYdrSCHpRM?t=0) – Intro
+[00:00](https://youtu.be/ygwKmENvt0g?t=0) – Intro
 
-[01:17](https://youtu.be/FpYdrSCHpRM?t=77) – Interview
+[01:10](https://youtu.be/ygwKmENvt0g?t=70) – Interview
 
-[38:59](https://youtu.be/FpYdrSCHpRM?t=2339) – Weekly Articles
+[34:18](https://youtu.be/ygwKmENvt0g?t=2058) – Weekly Articles
 
-[54:59](https://youtu.be/FpYdrSCHpRM?t=3299) - Closing
-
+[58:37](https://youtu.be/ygwKmENvt0g?t=3517) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, January 23, 2023.
+This session was recorded on Monday, January 30, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube FpYdrSCHpRM >}}
+    {{< youtube ygwKmENvt0g >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-xbgs2-136fd90 >}}   
+    {{< podbean pb-r56f6-1379bd4 >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -65,9 +71,9 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Set aside time for 1:1 with Microsoft Bookings in Outlook!](https://techcommunity.microsoft.com/t5/microsoft-365-blog/set-aside-time-for-1-1-with-microsoft-bookings-in-outlook/ba-p/3719259) - Vikram Gupta (Microsoft)
 * [Creating connections: How Microsoft BookwithMe (Bookings) can help your business grow](https://techcommunity.microsoft.com/t5/microsoft-365-blog/creating-connections-how-microsoft-bookwithme-bookings-can-help/ba-p/3725069) - Vikram Gupta (Microsoft)
 * [Maximizing organizational performance with GainX Artificial Intelligence and Microsoft Graph Data Connect](https://devblogs.microsoft.com/microsoft365dev/maximizing-organizational-performance-with-gainx-artificial-intelligence-and-microsoft-graph-data-connect/) - [Amit Panchal](https://www.linkedin.com/in/amitpnyc/) (Microsoft)
-* [From Teams to PowerPoint: 10 ways Azure AI enhances the Microsoft Apps we use everyday](https://azure.microsoft.com/en-us/blog/from-teams-to-powerpoint-10-ways-azure-ai-enhances-the-microsoft-apps-we-use-everyday/) - [Andy Beatman](https://twitter.com/andybeatman) (Microsoft) | @andybeatman
-* [Your ultimate email sentiment analysis solution!](https://powerautomate.microsoft.com/en-us/blog/your-ultimate-email-sentiment-analysis-solution/) - Philippe Larrue (Microsoft)
-* [13 New Verified Connectors and 12 Updates released in December 2022](https://powerautomate.microsoft.com/en-us/blog/13-new-verified-connectors-and-12-updates-released-in-december-2022/) - Amjed Ayoub (Microsoft)
+* [From Teams to PowerPoint: 10 ways Azure AI enhances the Microsoft Apps we use everyday](https://azure.microsoft.com/blog/from-teams-to-powerpoint-10-ways-azure-ai-enhances-the-microsoft-apps-we-use-everyday/) - [Andy Beatman](https://twitter.com/andybeatman) (Microsoft) | @andybeatman
+* [Your ultimate email sentiment analysis solution!](https://powerautomate.microsoft.com/blog/your-ultimate-email-sentiment-analysis-solution/) - Philippe Larrue (Microsoft)
+* [13 New Verified Connectors and 12 Updates released in December 2022](https://powerautomate.microsoft.com/blog/13-new-verified-connectors-and-12-updates-released-in-december-2022/) - Amjed Ayoub (Microsoft)
 * [100 million developers and counting](https://github.blog/2023-01-25-100-million-developers-and-counting/) - GitHub
 * [Building partner offerings for Microsoft Viva Connections & Viva Home with SPFx](https://pnp.github.io/blog/post/spfx-16-building-partner-offerings-for-viva-spfx/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen
 * [Using Microsoft Graph Toolkit with SPFx solutions](https://pnp.github.io/blog/post/spfx-17-microsoft-graph-toolkit-spfx/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen
@@ -84,7 +90,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Inconvenient Caching Issue with Microsoft Lists](https://sympmarc.com/2023/01/24/inconvenient-caching-issue-with-microsoft-lists/) - [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @sympmarc
 * [SharePoint Framework (SPFx), Authenticating to Api’s and Third Party Cookies](https://www.blimped.nl/spfx-authentication-and-third-party-cookies/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU) | @martinlingstuyl
 * [Search Explained Office Hour on 22 Feb 2023 – Content and Findability Assessment in Microsoft 365](https://searchexplained.com/search-explained-office-hour-2023-02-22/) - [Agnes Molnar](https://twitter.com/molnaragnes) (Search Explained) | @molnaragnes
-* [Talking Power Platform with new MVP Heidi Jordan]() - [Heidi Jordan](https://twitter.com/heidi_jordan14) | @heidi_jordan14, [Sarah Haase](https://twitter.com/sarahhaase) | @sarahhaase, [Antonio Maio](https://twitter.com/AntonioMaio2) | @AntonioMaio2 and [Mike Maadarani](https://twitter.com/mikemaadarani) | @mikemaadarani
+* [Talking Power Platform with new MVP Heidi Jordan](https://blog.splibrarian.com/2023/01/28/talking-power-platform-with-new-mvp-heidi-jordan/) - [Heidi Jordan](https://twitter.com/heidi_jordan14) | @heidi_jordan14, [Sarah Haase](https://twitter.com/sarahhaase) | @sarahhaase, [Antonio Maio](https://twitter.com/AntonioMaio2) | @AntonioMaio2 and [Mike Maadarani](https://twitter.com/mikemaadarani) | @mikemaadarani
 * [#MicrosoftTeams search-based messaging extension for doc review](https://twitter.com/Moeller2_0/status/1619802818558459904?s=20&t=ApNI_x_Zo7vphWW9iZndoA) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [New Birthday SPFx App](https://twitter.com/joaojmendes/status/1618261813782806528?s=20&t=syCE85dYPzP7KYGJt-VAxQ) - [João Mendes](https://twitter.com/joaojmendes) | @joaojmendes
 * [Power Automate for Desktop Machine Management Capability](https://www.youtube.com/watch?v=r6ThqH0qTIk) - [Daniel Christian](https://twitter.com/dchristian19) (Wells Fargo) | @dchristian19
