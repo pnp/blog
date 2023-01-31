@@ -36,7 +36,7 @@ Also, we showcased 26 articles/videos published by Microsoft and the PnP Communi
 
 ## This week
 
-* **Leon** – investigating authoring a book, recording a PowerShell forensics and incident response course, and kicking off a MS-500 recording, and content to write. A relaxed week!
+* **Liam** – investigating authoring a book, recording a PowerShell forensics and incident response course, and kicking off a MS-500 recording, and content to write. A relaxed week!
 * **Waldek** – releasing new versions of Microsoft Graph Developer Proxy and CLI for Microsoft 365 on January 31st, along with planning for a new event to be delivered during March.
 * **Vesa** – conference and community development planning.
 
