@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 30th of January 2023 week
-date: 2023-01-26T16:29:03.735Z
+date: 2023-01-27T02:29:03.735Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -8,14 +8,11 @@ categories:
 images:
   - images/weeklyagenda05.png
 tags: []
-
-type: regular
-draft: true
+type: trending
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
-
-
 
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/m365/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
@@ -32,7 +29,6 @@ Demos this time
 * Nancy Handa & Anshuman Gaur – Introduction to Microsoft Viva Home
 * Tomas Chladek – Introduction to Azure Communication Services
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 ### Microsoft 365 & Power Platform Community Call - 2nd of February
@@ -43,9 +39,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos: 
 
+* [Sabbika Siddiq](https://linkedin.com/in/sabbikasiddiq) (AIS) - Turn that Power Apps app into a Mobile app!
 * [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent - List Formatting Magic
-* [Sabbika Siddiq](https://linkedin.com/in/sabbikasiddiq) (AIS) | sabbikasiddiq - Turn that Power Apps app into a Mobile app!
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -53,8 +48,9 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ## New videos
 
-Update of the newly published videos in our YouTube channel [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
+Update of the newly published videos in our YouTube channel [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Outlook add-in preview API - prependOnSendAsync](https://www.youtube.com/watch?v=r7UPHTeBA1A) by Yashvardhan Joshi (Microsoft)
 * [Introduction to Microsoft Viva ACE development learn module - Getting started](https://www.youtube.com/watch?v=tH7VWyZsAIU) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen and  [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [Building Find Time solution with Microsoft Graph and Power Apps](https://www.youtube.com/watch?v=pLubg1ddrMA) by [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
 * [Productivity Tips for working with Microsoft Graph and Graph PowerShell – January 2023](https://www.youtube.com/watch?v=R4QdFdALlA0) by [Merill Fernando](https://twitter.com/merill) (Microsoft) | @merill
@@ -85,7 +81,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [Using reusable open-source controls within your SPFx solution](https://pnp.github.io/blog/post/spfx-18-reusable-open-source-controls-spfx/) by 
+* [Professional SPFx Solutions: Unlocking the secrets of your web part manifest](https://pnp.github.io/blog/post/spfx-19-professional-solutions-web-part-manifest/) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | 
+* [Using reusable open-source controls within your SPFx solution](https://pnp.github.io/blog/post/spfx-18-reusable-open-source-controls-spfx/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Getting Started with using PnPjs in your SPFx solutions](https://pnp.github.io/blog/post/spfx-14-getting-started-with-pnpjs-spfx/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Using Microsoft Graph Toolkit with SPFx solutions](https://pnp.github.io/blog/post/spfx-17-microsoft-graph-toolkit-spfx/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Building partner offerings for Microsoft Viva Connections & Viva Home with SPFx](https://pnp.github.io/blog/post/spfx-16-building-partner-offerings-for-viva-spfx/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
@@ -97,6 +94,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Viva Connections & SharePoint Framework Community Call – 26th of January, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-01-26/)
 * [Microsoft 365 Platform Community Call - 24th of January, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-01-24/)
 * [Microsoft Identity Platform community call – January 2023](https://pnp.github.io/blog/microsoft-identity-platform-community-call/microsoft-identity-platform-community-call-january-2023/)
 
@@ -134,8 +132,11 @@ Please take the opportunity to join these great conferences organized by the bes
 * [CollabDays Italy](https://www.collabdays.org/2023-italy/) - May 20, 2023 - Milan, Italy
 * [European Collaboration Summit](https://www.collabsummit.eu/) - May 22-24, 2023 - Duesseldorf, Germany
 * [CollabDays Netherlands](https://www.communitydays.org/event/2023-06-10/collabdays-netherlands-2023) - June 10, 2023 - Utrecht, Netherlands
+* [365 EduCon DC](https://365educon.com/DC/) - June 12-16, 2023 - Washington, D.C., USA
 * [CollabDays Central Europe](https://www.collabdays.org/2023-ce/) - June 17, 2023 - Zurich, Switzerland
 * [European Power Platform conference](https://www.sharepointeurope.com/european-power-platform-conference/), June 20-22, 2023 - Dublin, Ireland
+* [365 EduCon Seattle](https://365educon.com/Seattle/) – August 21-25, 2023 - Seattle, WA, USA
+* [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
 
 We hope to see you around!
 

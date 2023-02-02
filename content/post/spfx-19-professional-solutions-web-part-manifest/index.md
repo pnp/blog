@@ -1,20 +1,19 @@
 ---
 title: "Professional SPFx Solutions: Unlocking the secrets of your web part manifest"
-date: 2023-01-26T08:00:00.000Z
+date: 2023-01-26T08:10:00.000Z
 author: Hugo Bernier
 githubname: hugoabernier
 categories:
   - SPFx
 images:
-  - images/1
+  - images/19-professional-solutions-web-part-manifest.png
 tags:
   - Microsoft Teams
   - Microsoft Viva  
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
-
-draft: true
+draft: false
 ---
 
 [SharePoint Framework](https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365 enabling developers to build different kinds of extensibility for Microsoft Viva, Microsoft Teams, Outlook, Microsoft 365 app (Office), and SharePoint. SPFx has multiple benefits like automatic Single Sign On, automatic hosting in the customer tenant, reuse same code across the service and industry standard web stack tooling.
@@ -30,6 +29,7 @@ Great questions! You can use your web part's manifest to control how your web pa
 This blog post is part of a month long SPFx series for January 2023. Each business day we'll publish a new blog post covering different aspects of the SPFx.
 
 - Previous blog post in this series - [Using reusable open-source controls within your SPFx solution](https://pnp.github.io/blog/post/spfx-18-reusable-open-source-controls-spfx/)
+* Next blog post in this series - [Professional SPFx Solutions: More web part manifest secrets](https://pnp.github.io/blog/post/spfx-20-professional-solutions-more-web-part-manifest-secrets/)
 {{< /notice >}}
 
 ## What is the web part manifest?
@@ -317,4 +317,4 @@ Here are some initial references to get started with the SPFx in your developmen
 
 - - -
 
-We will provide more details on the different options and future direction of the SPFx in upcoming blog posts. This post focused on the getting started steps with SPFx - more details coming up with this series with one post within each business day of January 2023.
+We will provide more details on the different options and future direction of the SPFx in upcoming blog posts in this series.
