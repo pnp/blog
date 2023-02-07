@@ -1,63 +1,61 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 196"
-summary: "US-based Microsoft MVP, MCT and CEO/Owner at SharePlicity - Liam Cleary, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about security, ChatGPT, assumed risk, and cultural transition UK to US, plus 26 articles/videos."
-date: 2023-01-30T02:00:01-00:00
+summary: "Austria-based Technical Lead, Microsoft MVP at Solvion - Stephan Bisser, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on trends in Microsoft 365 development, Modern Workplace, Yo Teams, managing Power Apps, plus 25 articles."
+date: 2023-02-06T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-195-promo.png
+- images/pnp-weekly-196-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=ygwKmENvt0g
-draft: true
+- https://www.youtube.com/watch?v=X_v8pDXs4Vw
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US-based Microsoft MVP and MCT, CEO/Owner of SharePlicity - [Liam Cleary](https://twitter.com/helloitsliam) \|@helloitsliam
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Austria-based Microsoft AI & M365 Development MVP and Technical Project Lead at Solvion - Stephan Bisser | @stephanbisser
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
+* What is the role of the Technical Architect as opposed to a Building Architect?
+* As an MVP, how is Stephan balancing the onslaught of new features with customer adoption timelines?
+* Elaborate on how customers are no longer in a pandemic panic move mode but are now in value maximization during recessionary times mode.
+* How critical did Modern Workplace become in the last few years?
+* Observations on customer interaction with digital workplace over the past few years and into the future?
+* Tips on enabling interactivity/connection between employees and their organizations during the Great Resignation and the Great Reset.
+* What are the key trends related to Microsoft 365 development in your region?
+* How are you helping your customers manage the proliferation of Power Apps.
+* What are the benefits of exposing an app through a messaging extension as opposed to a Teams tab?
+* Why does Yo Teams exist and what are the differences between Yo Teams (PnP Community) and Microsoft Teams Toolkit (Microsoft)?
 
-Referenced during discussion
-
-* Documentation - [What is Microsoft Purview?](https://learn.microsoft.com/purview/purview)
-* Documentation - [What is Microsoft Sentinel?](https://learn.microsoft.com/azure/sentinel/overview)
-* Website – [quetext](https://www.quetext.com/)
-* Website – [Grammarly](https://www.grammarly.com/)
-
-Also, we showcased 26 articles/videos published by Microsoft and the PnP Community in the last week.
+Also, we showcased 25 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
-* **Liam** – investigating authoring a book, recording a PowerShell forensics and incident response course, and kicking off a MS-500 recording, and content to write. A relaxed week!
-* **Waldek** – releasing new versions of Microsoft Graph Developer Proxy and CLI for Microsoft 365 on January 31st, along with planning for a new event to be delivered during March.
-* **Vesa** – conference and community development planning.
+* **Stephan** – effort estimations for future projects and resuming tech webinars and recordings with the first recording happening today.
+* **Waldek** – prepping for a Microsoft Graph related event to happen in March and work on Microsoft Graph Proxy roadmap.
+* **Vesa** – meetings and product team connections regarding deliverables to come.
 
 ## Agenda items
 
-[00:00](https://youtu.be/ygwKmENvt0g?t=0) – Intro
+[00:00](https://youtu.be/X_v8pDXs4Vw?t=0) – Intro
 
-[01:10](https://youtu.be/ygwKmENvt0g?t=70) – Interview
+[02:08](https://youtu.be/X_v8pDXs4Vw?t=128) – Interview
 
-[34:18](https://youtu.be/ygwKmENvt0g?t=2058) – Weekly Articles
+[40:50](https://youtu.be/X_v8pDXs4Vw?t=2450) – Weekly Articles
 
-[58:37](https://youtu.be/ygwKmENvt0g?t=3517) – Closing
+[1:10:33](https://youtu.be/X_v8pDXs4Vw?t=4233) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, January 30, 2023.
+This session was recorded on Monday, February 6, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube ygwKmENvt0g >}}
+    {{< youtube X_v8pDXs4Vw >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-r56f6-1379bd4 >}}   
+    {{< podbean pb-3nrjj-1383b9a >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -65,7 +63,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Microsoft articles
 
-* [Microsoft Teams Premium: Cut costs and add AI-powered productivity](https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/) - [Nicole Herskowitz](https://twitter.com/nicolelamb) (Microsoft) | @nicolelamb
+* [Microsoft Teams Premium: Cut costs and add AI-powered productivity](https://www.microsoft.com/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/) - [Nicole Herskowitz](https://twitter.com/nicolelamb) (Microsoft) | @nicolelamb
 * [Microsoft boosts Viva Sales with new GPT seller experience](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/02/microsoft-boosts-viva-sales-with-new-gpt-seller-experience/) - [Lori Lamkin](https://twitter.com/LoriLamkin) (Microsoft) | @LoriLamkin
 * [What’s New in Microsoft Teams | January 2023](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-january-2023/ba-p/3728104) - [Holly Lehman](https://twitter.com/Lehman__Holly) (Microsoft) | @Lehman__Holly
 * [Delivering new webinar experiences with Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/delivering-new-webinar-experiences-with-microsoft-teams/ba-p/3725145) - Amber Waisanen (Microsoft)
@@ -74,7 +72,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [SharePoint Roadmap Pitstop: January 2023](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-january-2023/ba-p/3727711) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 * [Create a list across Microsoft 365](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/create-a-list-across-microsoft-365/ba-p/3730138) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 * [Let's Talk Education - Microsoft EDU](https://techcommunity.microsoft.com/t5/microsoft-365-blog/let-s-talk-education-microsoft-edu/ba-p/3726164) - Brian R. (Microsoft)
-* [The new look for model driven Power Apps is available now in preview](https://powerapps.microsoft.com/en-us/blog/the-new-look-for-model-driven-power-apps-is-available-now-in-preview/) - Ben Appleby (Microsoft)
+* [The new look for model driven Power Apps is available now in preview](https://powerapps.microsoft.com/blog/the-new-look-for-model-driven-power-apps-is-available-now-in-preview/) - Ben Appleby (Microsoft)
 * [Microsoft Graph Developer Proxy v0.4 with improved output, more guidance, and plugins](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-4-with-improved-output-more-guidance-and-plugins/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm & [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
 * [From zero to hero: Build a meetings app with Azure Communication Services and Microsoft Teams – Part 1](https://devblogs.microsoft.com/microsoft365dev/build-a-meetings-app-with-azure-communication-services-and-microsoft-teams-part-1/) - [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin & [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs
 * [Do more with less in Microsoft 365 using SharePoint Framework (SPFx)](https://devblogs.microsoft.com/microsoft365dev/do-more-with-less-in-microsoft-365-by-using-spfx/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen
@@ -96,7 +94,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Upcoming events
 
-Here are the upcoming events from the centralized [Community Days site](https://communitydays.org/events?when=upcoming) where you can find in-person, hybrid and online events for Microsoft 365 and mroe.
+Here are the upcoming events from the centralized [Community Days site](https://communitydays.org/events?when=upcoming) where you can find in-person, hybrid and online events for Microsoft 365 and more.
 
 * [AMS Sophia-Antipolis](https://www.communitydays.org/event/2023-02-07/ams-sophia-antipolis) - February 7, 2023 - Biot, France
 * [Cloud Technology Townhall Tallinn 2023](https://www.communitydays.org/event/2023-02-10/cloud-technology-townhall-tallinn-2023) - February 10, 2023 - Tallinn, Estonia
