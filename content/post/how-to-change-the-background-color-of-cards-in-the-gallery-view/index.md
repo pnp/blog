@@ -8,6 +8,7 @@ images:
 - images/how-to-change-the-background-color-of-cards-in-the-gallery-view.png
 tags: []
 type: "regular"
+draft: true
 ---
 
 ## Introduction
