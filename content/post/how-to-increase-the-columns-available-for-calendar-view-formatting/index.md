@@ -1,5 +1,5 @@
 ---
-title: "How to increase the columns available for calendar view formatting"
+title: "[Microsoft Lists] How to increase the columns available for calendar view formatting"
 date: 2023-02-06T00:00:00-00:00
 author: "Tetsuya Kawahara"
 githubname: tecchan1107
