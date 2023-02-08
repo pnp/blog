@@ -1,14 +1,14 @@
 ---
-title: "[Microsoft Lists] How to change the background color of cards in the Gallery View"
-date: 2023-01-30T00:00:00-00:00
+title: "Microsoft Lists: How to change the background color of cards in the Gallery View"
+date: 2023-02-08T00:00:00-00:00
 author: "Tetsuya Kawahara"
 githubname: tecchan1107
 categories: ["Community post"]
 images:
 - images/how-to-change-the-background-color-of-cards-in-the-gallery-view.png
-tags: []
+tags: ["Microsoft Lists", "SharePoint"]
 type: "regular"
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -26,10 +26,10 @@ The following describes how to change the background color of cards in the galle
 ## How to change the background color of cards in the Gallery View
 
 1. Open the Gallery view in Microsoft Lists
-2. Click on the name of the view displayed on the command bar > Click **Format curret view**
-3. Click **Edit card**
+2. Select on the name of the view displayed on the command bar > Select **Format curret view**
+3. Select **Edit card**
 4. Sort and show/hide content
-5. Click **Advance mode**
+5. Select **Advance mode**
 
     ![steps to open advance mode](./images/steps-to-open-advance-mode.png)
 
@@ -73,14 +73,14 @@ The following describes how to change the background color of cards in the galle
         },
         ```
 
-7. Click **Preview** to see if the background color of the cards has changed
-8. Click **Save**
+7. Select **Preview** to see if the background color of the cards has changed
+8. Select **Save**
 
 This completes the background color change of the cards!
 
 ## Additional notes
 
-- If you want to use a column value as a condition, the column does not have to be visible on the card, but it must be included in the view. You can see which columns are included in a view by clicking on **Edit Current View**.
+- If you want to use a column value as a condition, the column does not have to be visible on the card, but it must be included in the view. You can see which columns are included in a view selecting **Edit Current View**.
 
     ![edit view screen](./images/edit-view-screen.png)
 
