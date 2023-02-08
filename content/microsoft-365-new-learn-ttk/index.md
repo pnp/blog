@@ -10,6 +10,7 @@ images:
 tags: ['#Microsoft365', '#MicrosoftAppDevelopment', '#Office365Dev', '#SharePointDev', '#PowerApps', '#Flow', '#TeamsDev', '#OutlookDev', '#OneDriveDev', '#ExcelAPI', '#PowerAutomate', '#PowerPlatform', '#AzureAD', '#MicrosoftGraph', '#BusinessApplications', '#365Devs', '#ModernWorkplace', '#MicrosoftTeams', '#OfficeAddins', '#OfficeDev', '#SharePointFramework', '#SPFx', '#PowerBI', '#PowerVirtualAgents', '#MicrosoftCloud', '#MicrosoftDev', 'Microsoft365Dev']
 videos:
 - https://www.youtube.com/watch?v=vzmpJKMBOKk0
+draft: true
 ---
 
 As Microsoft Teams becomes increasingly popular as a collaboration platform, demand for developers who can build apps for Teams has skyrocketed. Learning how to build apps for Teams can open up new career opportunities for you as a developer.
