@@ -1,14 +1,14 @@
 ---
-title: "[Microsoft Lists] How to increase the columns available for calendar view formatting"
-date: 2023-02-06T00:00:00-00:00
+title: "Microsoft Lists: How to increase the columns available for calendar view formatting"
+date: 2023-02-08T00:00:00-00:00
 author: "Tetsuya Kawahara"
 githubname: tecchan1107
 categories: ["Community post"]
 images:
 - images/how-to-increase-the-columns-available-for-calendar-view-formatting.png
-tags: []
+tags: ["Microsoft Lists", "SharePoint"]
 type: "regular"
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -26,13 +26,13 @@ So, the following is a method to change the view settings and increase the colum
 ## How to increase the columns available for calendar view formatting
 
 1. Open the Calendar view in Microsoft Lists
-2. Click the **⚙** icon > Click **List settings**
-3. Click on the view name of the calendar view in Views
+2. Select the **⚙** icon > Click **List settings**
+3. Select on the view name of the calendar view in Views
 
     ![list settings screen](./images/list-settings-screen.png)
 
 4. Select the columns you want to use for formatting from the list of columns displayed in the Columns section
-5. Click **OK** button
+5. Select **OK** button
 
     ![edit view screen](./images/edit-view-screen.png)
 
