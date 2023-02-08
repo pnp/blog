@@ -1,16 +1,16 @@
 ---
 title: How to create apps for Microsoft Teams
 summary: "Announcing the launch of the new learning path at Microsoft Learn - Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code. It is a multi-part series that will guide you with hands-on exercises on how to use Teams Toolkit to develop, test, and deploy Microsoft Teams applications."
-date: 2023-02-06T00:00:00-00:00
+date: 2023-02-08T00:00:00-00:00
 author: "Rabia Williams"
 githubname: rabwill
 categories: ["Community post"]
 images:
 - images/TTK-doodle.png
-tags: ['#Microsoft365', '#MicrosoftAppDevelopment', '#Office365Dev', '#SharePointDev', '#PowerApps', '#Flow', '#TeamsDev', '#OutlookDev', '#OneDriveDev', '#ExcelAPI', '#PowerAutomate', '#PowerPlatform', '#AzureAD', '#MicrosoftGraph', '#BusinessApplications', '#365Devs', '#ModernWorkplace', '#MicrosoftTeams', '#OfficeAddins', '#OfficeDev', '#SharePointFramework', '#SPFx', '#PowerBI', '#PowerVirtualAgents', '#MicrosoftCloud', '#MicrosoftDev', 'Microsoft365Dev']
+tags: ["Microsoft365", "Azure AD", "Microsoft Graph", "Microsoft Teams",  "SharePoint Framework (SPFx)" ]
 videos:
 - https://www.youtube.com/watch?v=vzmpJKMBOKk0
-draft: true
+draft: false
 ---
 
 As Microsoft Teams becomes increasingly popular as a collaboration platform, demand for developers who can build apps for Teams has skyrocketed. Learning how to build apps for Teams can open up new career opportunities for you as a developer.
