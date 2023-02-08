@@ -8,6 +8,7 @@ images:
 - images/how-to-increase-the-columns-available-for-calendar-view-formatting.png
 tags: []
 type: "regular"
+draft: true
 ---
 
 ## Introduction
