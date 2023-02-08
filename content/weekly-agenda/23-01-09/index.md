@@ -72,7 +72,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 * [Automate tasks in Excel Desktop](https://www.youtube.com/watch?v=2-247I8DEAU)
 * [Building One Productivity Hub with SPFx for Teams, Microsoft 365 app, Outlook & SharePoint](https://www.youtube.com/watch?v=ZvMV192Lqi4) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
 * [Top 5 AppSource Validation Errors hit by Office Add-ins' submissions](https://www.youtube.com/watch?v=N47mXIQnEfc) by Elizabeth Samuel (Microsoft)
-
+                                       
 ---
 
 ## New Microsoft 365 Platform Community Blog posts
