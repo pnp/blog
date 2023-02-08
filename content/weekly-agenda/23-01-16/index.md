@@ -84,7 +84,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 Commu
 * [How to get output from a Teams Adaptive card with Power Automate](https://www.youtube.com/watch?v=cr9oqwQzk2A) by [Nathalie Leenders](https://twitter.com/NathLeenders) (Chemours) | @NathLeenders
 * [Introduction to SharePoint pages Microsoft Graph API - public preview](https://www.youtube.com/watch?v=jV72gQhuSXk) by Hanbing Wang (Microsoft) 
 * [Using dynamic SVG images with Viva ACEs for business charts](https://www.youtube.com/watch?v=brUXYEHZg6E) by [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
-* [Introduction to App Compliance Automation Tool for Microsoft 365](https://www.youtube.com/watch?v=Z4UmshA24_w) by  Sreekanth Thirthala (Microsoft)
+* [Introduction to App Compliance Automation Tool for Microsoft 365](https://www.youtube.com/watch?v=Z4UmshA24_w) by Sreekanth Thirthala (Microsoft)
 * [Add-in Auto Open for Word and Excel](https://www.youtube.com/watch?v=_TxZy5AJ4oI) by Yun Wang (Microsoft)
 
 
