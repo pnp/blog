@@ -1,5 +1,5 @@
 ---
-title: "How to change the background color of cards in the Gallery View"
+title: "[Microsoft Lists] How to change the background color of cards in the Gallery View"
 date: 2023-01-30T00:00:00-00:00
 author: "Tetsuya Kawahara"
 githubname: tecchan1107
