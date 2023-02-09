@@ -33,15 +33,17 @@ Demos this time
 
 Also: 📷 Picture Time with community in Together Mode!
 
-### Power Platform monthly Community Call - 17th of February
+### Power Platform monthly Community Call - 15th of February
 
-* Wednesday, 17th of February, 8:00 AM PT / 4:00 PM GMT
+* Wednesday, 15th of February, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Power Platform calls](https://pnp.github.io/blog/categories/power-apps-community-call/)
 
 Demos: 
 
-
+* [Carlos Solís](https://twitter.com/CarlosBKSolis1) | @CarlosBKSolis1 - Developing a personal wellness app to prevent burnout using Power Apps and SharePoint
+* [Vivian Voss](https://twitter.com/viviantiiman) | @VivianTiiman - Power Platform Release Planner - your new superpower!
+* [Yannick Reekmans](https://twitter.com/yannickreekmans) (Qubix) | @yannickreekmans - How to use "when an action is performed" trigger in Power Automate
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -67,9 +69,10 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/IDDEVCommunityCall) or [join the call](https://aka.ms/IDDEVCommunityCall-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft identity platform community call](https://pnp.github.io/blog/categories/microsoft-identity-platform-community-call/)
 
-Topics:
+Topic:
 
-* 
+* Get your Apps ready for Zero Trust.
+
 
 ## New videos
 
