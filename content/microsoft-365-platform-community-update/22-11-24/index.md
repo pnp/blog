@@ -369,6 +369,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Daniel Laskewitz](https://twitter.com/Laskewitz) (Microsoft) | @Laskewitz
 * [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
+* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous 
 * [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 * [Dona Sarkar](https://twitter.com/donasarkar) (Microsoft) | @DonaSarkar
 * [Eoin O'Brien](https://github.com/eoinobrien) (Microsoft) | eoinobrien
@@ -388,6 +389,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [J.P. Roca](https://twitter.com/jpthepm ) (Microsoft) | @jpthepm 
 * [Koen Zomers](https://twitter.com/koenzomers) (Microsoft) | @Koenzomers
 * [Laura Graham](https://github.com/Lauragra) (Microsoft) | Lauragra
+* Leslie Thomas (Microsoft) 
 * [Linda Lu Cannon](https://github.com/lindalu-MSFT) - (Microsoft) | lindalu-MSFT
 * [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband
 * [Marco Rocca](https://twitter.com/marco_r_73) (Microsoft) | @marco_r_73
