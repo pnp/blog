@@ -102,6 +102,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Andreas Markussen](https://twitter.com/andreasm_dk) | @andreasm_dk
 * [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [Angelo Gulisano](https://twitter.com/angelog1908) (Npo Sistemi) | @angelog1908
+* [Andrew Taylor](https://github.com/andrew-s-taylor) | andrew-s-taylor
 * [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 * [Antti K. Koskela](https://twitter.com/koskila) (Precio Fishbone) | @koskila
 * [Ari Gunawan](https://github.com/AriGunawan) | AriGunawan
@@ -114,7 +115,12 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Cameron Dwyer](https://twitter.com/CameronDwyer) (One Place Solutions) | @CameronDwyer
 * [Chad Eiserloh](https://github.com/c-eiser13) (hubley) | c-eiser13
 * [Carlos Marins Jr](https://github.com/kadu-jr) (Inpartec) | kadu-jr
+* [Carlos Solís](https://twitter.com/CarlosBKSolis1) | @CarlosBKSolis1
 * [Cat Schneider](https://twitter.com/YerAWizardCat) | @YerAWizardCat
+* [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+* [Chandra Sekhar Malla](https://twitter.com/ChandraSMalla) | @ChandraSMalla
+* [Charles Emmanuel S. Ndiaye](https://twitter.com/manusquall) | @manusquall
+* [Chinu Anand](https://twitter.com/anand_chinu) | @anand_chinu
 * [Chirag Patel](https://twitter.com/techChirag) (Patel Consulting) | @techChirag
 * [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
 * [Chris Palmer](https://github.com/chris-p-source) | chris-p-source
@@ -122,8 +128,6 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Christian McIntosh](https://twitter.com/_CMcIntosh) | @_CMcIntosh
 * [Christian Zuellig](https://github.com/czullu) (MondayCoffee) | czullu
 * [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
-* [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
-* [Chandra Sekhar Malla](https://twitter.com/ChandraSMalla) | @ChandraSMalla
 * [Cornelius J. van Dyk](https://twitter.com/cjvandyk) (Crayveon) | @cjvandyk
 * [Cyril C Kurian](https://github.com/cyrilckurian) | cyrilckurian
 * [Dan Greuel](https://github.com/dgreuel) | dgreuel
@@ -179,6 +183,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 * [Jean Netry-Valere](https://github.com/JeanNetryValere) | JeanNetryValere
 * [Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
+* [Jimmy Hang](https://twitter.com/Hang_Jimmy) | @Hang_Jimmy
 * [Joanne Klein](https://twitter.com/JoanneCKlein) | @JoanneCKlein
 * [João Ferreira](https://twitter.com/Joao12Ferreira) | @Joaoferreira
 * [João J. Mendes](https://twitter.com/joaojmendes) (Staffbase) | @Joaojmendes
@@ -213,7 +218,9 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
 * [Marc Studer](https://github.com/Studermarc) | Studermarc
 * [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Staffbase) | @mgwojciech
+* [Marco van Meurs](https://github.com/dutchdevil83) | dutchdevil83
 * [Mark Bice](https://github.com/mbice) (Habanero) | mbice
+* [Markus Hanisch](https://github.com/Markus-Hanisch) | Markus-Hanisch
 * [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
 * [martinewald](https://github.com/martinewald) | martinewald
 * [Martin Dubec](https://github.com/cebud) (Merck & Co., Inc.) | cebud
@@ -224,6 +231,8 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 * [Matt Schuessler](https://www.twitter.com/MattSchues) (Canviz) | @MattSchues
 * [Matteo Serpi](https://github.com/srpmtt) | srpmtt
+* [Michał Dzienisiewicz](https://github.com/Dzieni) | Dzieni
+* [Michael Kriese](https://twitter.com/viceice_mk) | @viceice_mk 
 * [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot
 * [Michał Romiszewski](https://twitter.com/romiszewski) | @romiszewski
 * [Michael Ramich](https://github.com/michael-ra) (metanoy) | michael-ra
@@ -273,6 +282,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Rishabh Raghwendra](https://github.com/Rishabhraghwendra18) | Rishabhraghwendra18
 * [Rob Lempens](https://github.com/RobLempens) | RobLempens
 * [Rob Windsor](https://twitter.com/robwindsor) | @robwindsor
+* [Robin Meure](https://github.com/robinmeure) | robinmeure
 * [Robin Rosengrün](https://twitter.com/power_r2) (EnBw) | @power_r2
 * [Rolf Isler](https://github.com/Tripplefix) | Tripplefix
 * [Ronald Booden](https://github.com/rjbooden) | rjbooden
@@ -283,6 +293,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Saintenr](https://github.com/Saintenr) | Saintenr
 * [salascz](https://github.com/salascz) | salascz
 * [Scott](https://github.com/lordneeko) | lordneeko
+* [Seth Addo](https://twitter.com/set_addo) | @set_addo
 * [Sergej Schwabauer](https://github.com/SPFxAppDev) (Aurum) | SPFxAppDev
 * [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
 * [Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
@@ -294,14 +305,18 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [soebje](https://github.com/soebje) | soebje
 * [Sohil Bhalla](https://github.com/sohilbhalla/) | sohilbhalla
 * [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
-* [StefanSchoof](https://github.com/StefanSchoof) | StefanSchoof
+* [Stefan Schoof](https://github.com/StefanSchoof) | StefanSchoof
 * [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
 * [Steve Beaugé](https://github.com/stevebeauge) (Solutions pour SharePoint) | stevebeauge
+* [Stijn Haerkens](https://github.com/stijnhaerkenss) | stijnhaerkenss
+* [Sven Sieverding](https://twitter.com/365Knoten) @365Knoten
 * [Takashi Shinohara](https://github.com/karamem0) (Avanade) | @karamem0
+* [Taaqif Peck (Tye)](https://github.com/Taaqif) | Taaqif
 * [techsnap](https://github.com/techsnap) | techsnap
 * [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
 * [Thomas Barnekow](https://twitter.com/thbarnekow) (Analog Devices) | @thbarnekow
 * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
+* [Tim van de Voorde](https://github.com/timdelavoorde) | timdelavoorde
 * [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 * [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | @Toddbaginski
 * [Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
@@ -314,10 +329,12 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Vipul Kelkar](https://github.com/vipulkelkar) (Rapid Circle) | vipulkelkar
 * [Vitalii Sorokin](https://twitter.com/Magpie_V) | @Magpie_V
 * [Vivek Bavishi](https://twitter.com/that_API_guy) (Hitachi Solutions) | @that_API_guy
+* [Vivian Voss](https://twitter.com/viviantiiman) | @VivianTiiman
 * [Vividh Pandey](https://github.com/VividhPandey003) | VividhPandey003
 * [Wes Preston](https://twitter.com/idubbs) | @idubbs
 * [Yuning Chen](https://github.com/hnzkcyn) | hnzkcyn
 * [Yannick Plenevaux](https://twitter.com/yp_code) (PVX Solutions) | @yp_code
+* [Yannick Reekmans](https://twitter.com/yannickreekmans) (Qubix) | @yannickreekmans
 * [Yves Habersaat](https://twitter.com/yhabersaat) | @yhabersaat
 
 ### Companies
@@ -452,6 +469,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Rick Kirkham](https://github.com/Rick-Kirkham) (Microsoft) | Rick-Kirkham
 * [Sam Ramon](https://github.com/samantharamon) (Microsoft) | samantharamon
 * Samriddhi Seth (Microsoft)
+* [Sangle Wang](https://github.com/sangle7) (Microsoft) | sangle7
 * Sara Cummings (Microsoft)
 * [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
 * Sheena Makker (Microsoft)
