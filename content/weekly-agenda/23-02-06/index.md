@@ -37,7 +37,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 * Wednesday, 8th of February, 2023, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/officeaddinscommunitycall) - we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Platform Community Blog - Office add-in developer community call](https://pnp.github.io/blog/categories/office-add-in-developer-community-call/)
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 and Power Platform Community Blog - Office add-in developer community call](https://pnp.github.io/blog/categories/office-add-in-developer-community-call/)
 
 ### Viva Connections & SharePoint Framework Community Call - 9th of February
 
@@ -80,9 +80,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 ---
 
-## New Microsoft 365 Platform Community Blog posts
+## New Microsoft 365 and Power Platform Community Blog posts
 
-All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [Do more with less in Microsoft 365 by using SPFx](https://pnp.github.io/blog/post/spfx-22-do-more-with-less-microsoft365-spfx/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [CLI for Microsoft 365 v6.2](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v6-2/) by [Milan Holemans](https://github.com/milanholemans) (VanRoey.be) | milanholeman

@@ -81,9 +81,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 ---
 
 
-## New Microsoft 365 Platform Community Blog posts
+## New Microsoft 365 and Power Platform Community Blog posts
 
-All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [M365 Across App scenarios - Teams apps and SPFx](https://pnp.github.io/blog/post/microsoft-365-app-scenarios/) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Create a Table of Contents (TOC) on SharePoint Modern Pages](https://pnp.github.io/blog/post/create-a-table-of-contents-on-sharepoint-modern-pages/) by [Keith Craigo](https://twitter.com/KeithCraigo) | @KeithCraigo

@@ -66,9 +66,9 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 ---
 
-## New Microsoft 365 Platform Community Blog posts
+## New Microsoft 365 and Power Platform Community Blog posts
 
-All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [Material Design component library for Power Apps](https://pnp.github.io/blog/post/material-design-component-library-for-power-apps/) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese and [Robin Rosengrün](https://twitter.com/power_r2)(EnBW) | @power_r2
 

@@ -62,7 +62,7 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 * 1st of July - [Changes to Microsoft 365 Apps usage reports API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/changes-to-microsoft-365-apps-usage-reports-api-in-microsoft-graph/)
 * 21st of June - [Announcing SharePoint Framework 1.15 – with updates for Viva Connections, Microsoft Teams and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-15-with-updates-for-viva-connections-microsoft-teams-and-sharepoint/)
 
-### Microsoft 365 Platform Community Blog
+### Microsoft 365 and Power Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 

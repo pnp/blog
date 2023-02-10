@@ -60,7 +60,7 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 * 10th of May - [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/)
 * 10th of May - [Publish your app in the Microsoft Teams app store ](https://devblogs.microsoft.com/microsoft365dev/publish-your-app-in-the-microsoft-teams-app-store/) - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 
-### Microsoft 365 Platform Community Blog
+### Microsoft 365 and Power Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
