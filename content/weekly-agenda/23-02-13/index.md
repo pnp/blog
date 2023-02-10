@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 13th of February 2023 week
-date: 2023-01-27T02:29:03.735Z
+date: 2023-02-10T02:29:03.735Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -8,8 +8,8 @@ categories:
 images:
   - images/weeklyagenda07.png
 tags: []
-type: regular
-draft: true
+type: trending
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -30,7 +30,6 @@ Demos this time
 * [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert- What's next for the Microsoft Graph Toolkit!
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder- Teams Toolkit Learn Path - Get started building apps for Microsoft Teams using Teams Toolkit for Visual Studio Code
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 ### Power Platform monthly Community Call - 15th of February
@@ -47,6 +46,8 @@ Demos:
 
 Also: 📷 Picture Time with community in Together Mode!
 
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
 ### Microsoft 365 & Power Platform Community Call - 16th of February
 
 * Thursday, 16th of February, 2023, 7:00 AM PT / 2:00 PM GMT
@@ -61,7 +62,7 @@ Demos:
 
 Also: 📷 Picture Time with community in Together Mode!
 
-**Interested on doing a demo here?** - [Let us know](https://aka.ms/m365pnp/request/demo) and we'll get you scheduled!
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 ### Microsoft identity platform community call - 17th of February
 
@@ -71,13 +72,15 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Topic:
 
-* Get your Apps ready for Zero Trust.
+* Get your Apps ready for Zero Trust
 
 
 ## New videos
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Extend Azure AD to add pronouns to a people card component in Power Apps using Microsoft Graph](https://www.youtube.com/watch?v=bTAFzyxBzbk) - [Luise Freese](https://twitter.com/LuiseFreese) | @luisefreese  
+* [Extend the PnP React SPFx ListView control with a contextual menu](https://www.youtube.com/watch?v=Z0d7s5ZukKk) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0  
 * [Authoring and administration in Viva Connections](https://www.youtube.com/watch?v=XlMgC_Ub-tE) by [Anshuman Gaur](https://twitter.com/_AnshumanGaur) (Microsoft) | @_AnshumanGaur
 * [Introduction to the Microsoft Viva Home experience](https://www.youtube.com/watch?v=iXbhUAmTN00) by Leslie Thomas (Microsoft) 
 * [Create an Microsoft Viva extension with SPFx displaying image carousel](https://www.youtube.com/watch?v=ETJ5ZH3XtUc) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen and [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
@@ -90,6 +93,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 Commu
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [Write simpler code with the new Microsoft Graph .NET SDK v5](https://devblogs.microsoft.com/microsoft365dev/write-simpler-code-with-the-new-microsoft-graph-net-sdk-v5/) by [Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsoft) | @maisarissi_msft
 * [From zero to hero: Build a meetings app with Azure Communication Services and Microsoft Teams – Part 2](https://devblogs.microsoft.com/microsoft365dev/from-zero-to-hero-build-a-meetings-app-with-azure-communication-services-and-microsoft-teams-part-2/) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin and [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 
 ---
@@ -98,7 +102,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [How to create apps for Microsoft Teams](https://pnp.github.io/blog/microsoft-365-new-learn-ttk/) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
+* [How to create apps for Microsoft Teams](https://pnp.github.io/blog/post/microsoft-365-new-learn-ttk/) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
 * [Microsoft Lists: How to change the background color of cards in the Gallery View](https://pnp.github.io/blog/post/how-to-change-the-background-color-of-cards-in-the-gallery-view/) by [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
 * [Microsoft Lists: How to increase the columns available for calendar view formatting](https://pnp.github.io/blog/post/how-to-increase-the-columns-available-for-calendar-view-formatting/) by [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
 
@@ -106,10 +110,10 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 ## Last week's community call recordings
 
-Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
+Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections & SharePoint Framework Community Call – 9th of February, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-02-09/)
 * [Microsoft 365 Platform Community Call - 7th of February, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-02-07/)
-* [Weekly Agenda - 6th of February 2023 week](https://pnp.github.io/blog/weekly-agenda/23-02-06/)
 
 ---
 
