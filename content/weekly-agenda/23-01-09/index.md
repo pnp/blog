@@ -40,7 +40,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 * Wednesday, 11th of January, 2023, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/officeaddinscommunitycall) - we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Platform Community Blog - Office add-in developer community call](https://pnp.github.io/blog/categories/office-add-in-developer-community-call/)
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 and Power Platform Community Blog - Office add-in developer community call](https://pnp.github.io/blog/categories/office-add-in-developer-community-call/)
 
 
 
@@ -75,9 +75,9 @@ Update of the newly published videos in our two YouTube channels which are the [
                                        
 ---
 
-## New Microsoft 365 Platform Community Blog posts
+## New Microsoft 365 and Power Platform Community Blog posts
 
-All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [Getting started with SPFx extensions for SharePoint Online](https://pnp.github.io/blog/post/spfx-03-getting-started-with-spfx-extensions-for-spo/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Getting started with SPFx – Building your first extensibility for Microsoft 365](https://pnp.github.io/blog/post/spfx-02-getting-started-with-spfx/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen

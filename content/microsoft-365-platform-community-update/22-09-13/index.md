@@ -72,7 +72,7 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 * 24th of August - [How Cloud Storage Partners integrate their services with Microsoft Teams and Office](https://devblogs.microsoft.com/microsoft365dev/how-cloud-storage-partners-integrate-their-services-with-microsoft-teams-and-office/) by Ben Summers (Microsoft)
 * 23rd of August - [Build a productivity dashboard with Microsoft Teams Toolkit for Visual Studio](https://devblogs.microsoft.com/microsoft365dev/build-a-productivity-dashboard-with-microsoft-teams-toolkit-for-visual-studio/) by [Ayca Bas](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 
-### Microsoft 365 Platform Community Blog
+### Microsoft 365 and Power Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pp/community/blog)
 

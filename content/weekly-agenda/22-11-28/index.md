@@ -79,9 +79,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 ---
 
 
-## New Microsoft 365 Platform Community Blog posts
+## New Microsoft 365 and Power Platform Community Blog posts
 
-All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [CLI for Microsoft 365 - how cool is that? - Permission commands](https://pnp.github.io/blog/post/cli-how-cool-is-that-permission-commands/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 
