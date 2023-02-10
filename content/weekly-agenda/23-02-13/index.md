@@ -14,7 +14,7 @@ draft: false
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
 
-Get involved by joining a call! We host a variety of [community calls](https://aka.ms/m365/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
+Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
 This is the agenda for the following week:
 
@@ -98,9 +98,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 ---
 
-## New Microsoft 365 Platform Community Blog posts
+## New Microsoft 365 & Power Platform Community Blog posts
 
-All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
+All the latest updates on the Microsoft 365 & Power Platform are shared from the [Microsoft 365 & Power Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [How to create apps for Microsoft Teams](https://pnp.github.io/blog/post/microsoft-365-new-learn-ttk/) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
 * [Microsoft Lists: How to change the background color of cards in the Gallery View](https://pnp.github.io/blog/post/how-to-change-the-background-color-of-cards-in-the-gallery-view/) by [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
@@ -119,7 +119,7 @@ Here are the last week's community call recordings. You can download recurrent i
 
 ## Sharing is Caring sessions
 
-If you are looking to learn how to use the Microsoft 365 Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
+If you are looking to learn how to use the Microsoft 365 & power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
 
 * [Power Platform Samples Contributor - 23rd of February, 2023](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUN0hMNTRPWVVWTkhFTk9QQzhFSTRIS1JLSC4u)
 * [Maturity Model Practitioners - monthly meeting](https://aka.ms/mm4m365/invite)
