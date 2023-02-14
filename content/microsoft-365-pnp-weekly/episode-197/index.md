@@ -1,10 +1,6 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 197"
-<<<<<<< HEAD
-summary: "Belgium-based Microsoft Senior Software Engineer - Bert Jansen (Microsoft) \| @O365Bert, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about Community, open-source, ChatGPT and AI’s impact on developers, plus 15 articles."
-=======
-summary: "Belgium-based Microsoft Senior Software Engineer - Bert Jansen (Microsoft) | @O365Bert, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about Community, open-source, ChatGPT and AI’s impact on developers, plus 15 articles."
->>>>>>> e8d062f7492e1db838c6178e2dbc8eafa9cbd8ad
+summary: "Belgium-based Microsoft Senior Software Engineer - Bert Jansen (Microsoft), joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about Community, open-source, ChatGPT and AI’s impact on developers, plus 15 articles."
 date: 2023-02-13T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
