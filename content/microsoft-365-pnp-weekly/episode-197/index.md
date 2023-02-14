@@ -1,61 +1,59 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 197"
-summary: "It's Bert - and discussion on AI impact for devs"
-date: 2023-02-06T02:00:01-00:00
+summary: "Belgium-based Microsoft Senior Software Engineer - Bert Jansen (Microsoft) \| @O365Bert, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about Community, open-source, ChatGPT and AI’s impact on developers, plus 15 articles."
+date: 2023-02-13T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-196-promo.png
+- images/pnp-weekly-197-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=X_v8pDXs4Vw
-draft: true
+- https://www.youtube.com/watch?v=j3QSMiC8Jho
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Belgium-based Senior Software Engineer on the ODSP team at Microsoft - [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) \| @O365Bert
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* Vesa and Bert are now in the same ODSP (OneDrive SharePoint) organization. There benefits of this latest organizational structuring for PnP, ISVs, Customers.
+* Recounting the beginnings of the open-source PnP program and the transition of Microsoft’s mentality to one of knowledge sharing.
+* The PnP Core SDK and PnP Framework libraries that work together hand-in-hand and the insane open-source product usage numbers.
+* Bert’s ChatGPT test and the surprising result.
+* What will be AI’s impact on developers - will it change everything, will it make developers irrelevant, can it help to reskill and make developers more productive?
+* A long way to go to embed this AI technology in products, but it’s super promising and a massive disrupter.
+* New job role - Prompt Engineer and a new wave of assistive tools for talking to AI – it’s all about rephrasing questions to get the most useful output.
+* Ideas for how AI can be a part of PnP projects – it’s datasets, training, and bots, oh my!
 
-Also, we showcased 25 articles/videos published by Microsoft and the PnP Community in the last week.
+Also, we showcased 15 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
-* **Bert** – Cool stuff
-* **Waldek** – Somethign awesome
-* **Vesa** – Connecting people
+* **Bert** – Microsoft 365 Assessment tool module for assessing usage of classic pages, add-ins, custom actions, etc.
+* **Waldek** – more work on Microsoft Graph Developer Proxy and CLI for Microsoft 365. Stay tuned for a possible announcement on February 15th about a cool thing planned for March.
+* **Vesa** – testing/prepping SPFx v1.17 (beta) and related Viva offerings to be released this quarter.
 
 ## Agenda items
 
-[00:00](https://youtu.be/X_v8pDXs4Vw?t=0) – Intro
+[00:00](https://youtu.be/j3QSMiC8Jho?t=0) – Intro
 
-[02:08](https://youtu.be/X_v8pDXs4Vw?t=128) – Interview
+[03:13](https://youtu.be/j3QSMiC8Jho?t=193) – Interview
 
-[40:50](https://youtu.be/X_v8pDXs4Vw?t=2450) – Weekly Articles
+[43:53](https://youtu.be/j3QSMiC8Jho?t=2633) – Weekly Articles
 
-[1:10:33](https://youtu.be/X_v8pDXs4Vw?t=4233) – Closing
+[1:05:07](https://youtu.be/j3QSMiC8Jho?t=3907) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, February 6, 2023.
+This session was recorded on Thursday, February 9, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube X_v8pDXs4Vw >}}
+    {{< youtube j3QSMiC8Jho >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-3nrjj-1383b9a >}}   
+    {{< podbean pb-jpx9m-138e49f >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
