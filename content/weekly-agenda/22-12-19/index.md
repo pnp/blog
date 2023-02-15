@@ -76,9 +76,9 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 ---
 
-## New Microsoft 365 Platform Community Blog posts
+## New Microsoft 365 and Power Platform Community Blog posts
 
-All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [Extend Azure AD to add pronouns to a people card component in Power Apps](https://pnp.github.io/blog/post/extend-azure-active-directory-to-add-pronouns-to-a-people-card-in-power-apps) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 

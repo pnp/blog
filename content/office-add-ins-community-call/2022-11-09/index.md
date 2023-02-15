@@ -110,7 +110,7 @@ This is one of the things we are considering. We would love to hear more of your
 
 ## Stay connected
 
-* Follow our blog posts at [Microsoft 365 platform community blog](https://aka.ms/m365pnp/blog)
+* Follow our blog posts at [Microsoft 365 and Power Platform Community Blog](https://aka.ms/m365pnp/blog)
 * [Follow @microsoft365dev on Twitter](https://twitter.com/microsoft365dev)
 * [Microsoft 365 Platform Community on YouTube](https://aka.ms/m365/videos)
 * Invites to all [Microsoft 365 Developer Community calls](https://aka.ms/M365DevCalls)

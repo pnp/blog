@@ -77,9 +77,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 ---
 
-## New Microsoft 365 Platform Community Blog posts
+## New Microsoft 365 and Power Platform Community Blog posts
 
-All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [Professional SPFx Solutions: Unlocking the secrets of your web part manifest](https://pnp.github.io/blog/post/spfx-19-professional-solutions-web-part-manifest/) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | 
 * [Using reusable open-source controls within your SPFx solution](https://pnp.github.io/blog/post/spfx-18-reusable-open-source-controls-spfx/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen

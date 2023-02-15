@@ -79,9 +79,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 ---
 
 
-## New Microsoft 365 Platform Community Blog posts
+## New Microsoft 365 and Power Platform Community Blog posts
 
-All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [CLI for Microsoft 365 v6](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v6-0/) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm 
 * [Microsoft 365 & Power Platform Community (PnP) - November 2022 update](https://pnp.github.io/blog/microsoft-365-platform-community-update/22-11-24/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen

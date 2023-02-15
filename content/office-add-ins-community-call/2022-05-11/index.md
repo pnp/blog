@@ -187,7 +187,7 @@ Yes, this should work. We do have customers who have implemented a service middl
 
 ## Stay connected
 
-* See the full blog post for this call in the Microsoft 365 platform community blog – <https://aka.ms/m365pnp/blog>
+* See the full blog post for this call in the Microsoft 365 and Power Platform Community Blog – <https://aka.ms/m365pnp/blog>
 * Twitter – [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​
 * Microsoft 365 Platform Community in YouTube – <https://aka.ms/m365/videos>
 * Link to all Microsoft Developer Community calls – <https://aka.ms/M365DevCalls>
