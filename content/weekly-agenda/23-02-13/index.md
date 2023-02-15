@@ -112,8 +112,9 @@ All the latest updates on the Microsoft 365 & Power Platform are shared from the
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Viva Connections & SharePoint Framework Community Call – 9th of February, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-02-09/)
-* [Microsoft 365 Platform Community Call - 7th of February, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-02-07/)
+* [Microsoft 365 Platform Community Call - 14th of February, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-02-14/)
+* [Maturity Model for Microsoft 365 - January 2023](https://www.youtube.com/watch?v=7S9YB0_vFAo)
+* [Office Add-ins community call – February 2023](https://www.youtube.com/watch?v=bUcpzn28VKs)
 
 ---
 
