@@ -8,7 +8,7 @@ images:
 - images/recording-feb-2023.png
 tags: ["SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
-summary: "3 demos - Developing a personal wellness app to prevent burnout using Power Apps and SharePoint, Power Platform Release Planner - your new superpower!, and How to use "when an action is performed" trigger in Power Automate, 8 documents, 3 samples."
+summary: "3 demos - Developing a personal wellness app to prevent burnout using Power Apps and SharePoint, Power Platform Release Planner - your new superpower, and How to use 'when an action is performed' trigger in Power Automate, 8 documents, 3 samples."
 videos:
 - https://www.youtube.com/watch?v=MQyRjD1nVRQ
 ---
