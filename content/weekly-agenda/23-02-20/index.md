@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 20th of February 2023 week
-date: 2023-02-15T07:02:45.303Z
+date: 2023-02-17T07:02:45.303Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
