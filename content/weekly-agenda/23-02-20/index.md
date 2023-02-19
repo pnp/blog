@@ -42,6 +42,7 @@ Demos:
 
 * [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot - Exploring the depths of undocumented admin REST API through an SPFx solution
 * [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech - Simplify your code with react-query
+* [Matteo Serpi](https://github.com/srpmtt) | srpmtt - SPFx Web Part Sample - Dynamically build feedback forms using PNPJS clientside-pages module
 
 Also: 📷 Picture Time with community in Together Mode!
 
