@@ -42,6 +42,7 @@ Demos:
 
 * [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot - Exploring the depths of undocumented admin REST API through an SPFx solution
 * [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech - Simplify your code with react-query
+* [Matteo Serpi](https://github.com/srpmtt) | srpmtt - SPFx Web Part Sample - Dynamically build feedback forms using PNPJS clientside-pages module
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -131,7 +132,6 @@ Please take the opportunity to join these great conferences organized by the bes
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
 * [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
-
 We hope to see you around!
 
 _Sharing is caring 🧡_
