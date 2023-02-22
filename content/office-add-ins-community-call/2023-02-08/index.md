@@ -1,6 +1,6 @@
 ---
 title: "Office Add-ins developer platform community call – February 8th, 2023"
-summary: "Topics include: Create a spreadsheet from your website by David Chestnut, Upcoming Preview Word APIs by Yun Wang, and Add-in Support for new Outlook by Nikita Mitta and Juan Balmori. The call was hosted by Preethika Kiruveedula. Recorded on February 8, 2023."
+summary: "Topics include: Create a spreadsheet from your website by David Chesnut, Upcoming Preview Word APIs by Yun Wang, and Add-in Support for new Outlook by Nikita Mitta and Juan Balmori. The call was hosted by Preethika Kiruveedula. Recorded on February 8, 2023."
 date: 2023-02-08T08:01:00-05:00
 author: "Preethika Kiruveedula"
 githubname: preethikakiru
@@ -65,7 +65,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 **Are there any plans to allow for add-ins to have limited functionality offline modes?**
 
-We have a sample for this at https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/Excel.OfflineStorageAddin, however I think they may be looking for more features such as loading while offline. Would be good to know if that sample doesn't work for them what additional features they need  and submit request to suggestions site.
+We have a sample at https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/Excel.OfflineStorageAddin, that shows some techniques for working offline. However, it would be good to know what additional features you may need for your scenario. Please let us know more at https://aka.ms/m365dev-suggestions.
 
 **Where can we find a roadmap regarding the future of Office Add-Ins using Office.JS?**
 
