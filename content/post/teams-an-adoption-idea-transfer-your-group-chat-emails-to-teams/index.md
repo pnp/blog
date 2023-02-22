@@ -5,7 +5,7 @@ author: "Damo Bird 365"
 categories: ["Community post"]
 images:
 - images/DamoBird365_0-1619420006466.png
-tags: []
+tags: ["Microsoft Teams", "Adaptive cards", "Power Automate"]
 type: "regular"
 ---
 
@@ -50,7 +50,7 @@ youremail\[at\]yourdomain\[dot\]com***.
 **So, what does the Cloud Flow look like?**
 
 
-{{< image alt="DamoBird365_0-1619420006466.png" src="images/DamoBird365_0-1619420006466.png" >}}
+![DamoBird365_0-1619420006466.png](images/DamoBird365_0-1619420006466.png)
 
 The cloud flow only has 2 actions
 The flow simply consists of a compose action in order to structure the
@@ -76,19 +76,19 @@ conversation with these users.
 My colleague Alex, sends me an email with a list of colleagues in the to
 field.  Before the conversation gets out of control, I simply flag the
 email and instigate a move to Teams Group Chat.
-{{< image alt="DamoBird365_1-1619420516989.png" src="images/DamoBird365_1-1619420516989.png" >}}
+![DamoBird365_1-1619420516989.png](images/DamoBird365_1-1619420516989.png)
 
 Within a matter of seconds, basically as fast as your Flow is triggered,
 a Flow Bot message is received to my Teams application with the subject
 and summary email body including a link to both a one to one and group
 chat.  
 
-{{< image alt="DamoBird365_2-1619420664133.png" src="images/DamoBird365_2-1619420664133.png" >}}
+![DamoBird365_2-1619420664133.png](images/DamoBird365_2-1619420664133.png)
 
 Clicking on that Group DM in Teams button results in an opening
 conversation line and conversation subject (in draft), all courtesy of
 the deep link.  Now it's time to get the conversation going.
-{{< image alt="DamoBird365_3-1619420755529.png" src="images/DamoBird365_3-1619420755529.png" >}}
+![DamoBird365_3-1619420755529.png](images/DamoBird365_3-1619420755529.png)
 
 **Want to try the solution quickly?**
 
@@ -102,7 +102,7 @@ to youremail\[at\]yourdomain\[dot\]com.  Just make sure you set this to
 your own email address to receive the Adaptive Card.
 
 
-{{< image alt="HowToCopyPasteSolution.gif" src="images/HowToCopyPasteSolution.gif" >}}
+![HowToCopyPasteSolution.gif](images/HowToCopyPasteSolution.gif)
 
 ```json
 {"id":"f616b2c7-1645-4360-aff5-1710-a2bfb6a1","brandColor":"#8C3900","connectionReferences":{"shared_office365":{"connection":{"id":"/providers/Microsoft.PowerApps/apis/shared_office365/connections/shared-office365-2c7a215d-616e-4cc2-9dab-9d05f14c21a5"}},"shared_teams_1":{"connection":{"id":"/providers/Microsoft.PowerApps/apis/shared_teams/connections/shared-teams-c32e6b36-e3dd-4ca6-806d-5969ba7e6dee"}}},"connectorDisplayName":"Control","icon":"data&colon;image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KIDxwYXRoIGQ9Im0wIDBoMzJ2MzJoLTMyeiIgZmlsbD0iIzhDMzkwMCIvPg0KIDxwYXRoIGQ9Im04IDEwaDE2djEyaC0xNnptMTUgMTF2LTEwaC0xNHYxMHptLTItOHY2aC0xMHYtNnptLTEgNXYtNGgtOHY0eiIgZmlsbD0iI2ZmZiIvPg0KPC9zdmc+DQo=","isTrigger":false,"operationName":"DamoBird365_Transfer_Email_To_Teams","operationDefinition":{"type":"Scope","actions":{"Get_All_To_and_From_Emails":{"type":"Compose","inputs":"@replace(tolower(concat(triggerOutputs()?['body/toRecipients'], ';', triggerOutputs()?['body/from'])), ';', ',')","runAfter":{}},"Post_your_own_adaptive_card_as_the_Flow_bot_to_a_user":{"type":"OpenApiConnection","inputs":{"host":{"connectionName":"shared_teams_1","operationId":"PostUserAdaptiveCard","apiId":"/providers/Microsoft.PowerApps/apis/shared_teams"},"parameters":{"PostAdaptiveCardRequest/recipient/to":"youremail[at]yourdomain[dot]com;","PostAdaptiveCardRequest/messageBody":"{\n    \"type\": \"AdaptiveCard\",\n    \"body\": [\n        {\n            \"type\": \"TextBlock\",\n            \"size\": \"Medium\",\n            \"weight\": \"Bolder\",\n            \"text\": \"Transfer Email to Chat\",\n            \"wrap\": true\n        },\n        {\n            \"type\": \"ColumnSet\",\n            \"columns\": [\n                {\n                    \"type\": \"Column\",\n                    \"items\": [\n                        {\n                            \"type\": \"TextBlock\",\n                            \"weight\": \"Bolder\",\n                            \"text\": \"@{triggerOutputs()?['body/from']}\",\n                            \"wrap\": true\n                        },\n                        {\n                            \"type\": \"TextBlock\",\n                            \"spacing\": \"None\",\n                            \"text\": \"@{triggerOutputs()?['body/subject']}\",\n                            \"isSubtle\": true,\n                            \"wrap\": true\n                        }\n                    ],\n                    \"width\": \"stretch\"\n                }\n            ]\n        },\n        {\n            \"type\": \"TextBlock\",\n            \"text\": \"@{triggerOutputs()?['body/bodyPreview']}\",\n            \"wrap\": true\n        }\n    ],\n  \"actions\": [\n    {\n      \"type\": \"Action.OpenUrl\",\n      \"title\": \"Start Group DM in Teams\",\n      \"url\": \"https://teams.microsoft.com/l/chat/0/0?users=@{outputs('Get_All_To_and_From_Emails')}&topicName=@{triggerOutputs()?['body/subject']}&message=Hi, regarding your Email (@{triggerOutputs()?['body/subject']}). \"\n    },\n    {\n      \"type\": \"Action.OpenUrl\",\n      \"title\": \"Start 1:1 DM in Teams\",\n      \"url\": \"https://teams.microsoft.com/l/chat/0/0?users=@{triggerOutputs()?['body/from']}&topicName=@{triggerOutputs()?['body/subject']}&message=Hi, regarding your Email (@{triggerOutputs()?['body/subject']}). \"\n    },\n  ],\n    \"$schema\": \"http://adaptivecards.io/schemas/adaptive-card.json\",\n    \"version\": \"1.2\"\n}","PostAdaptiveCardRequest/messageTitle":"Transfer Email To Teams"},"authentication":"@parameters('$authentication')"},"runAfter":{"Get_All_To_and_From_Emails":["Succeeded"]}}},"runAfter":{},"description":"***Please make sure you update the TO: in the Adaptive Card***"}}

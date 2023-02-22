@@ -17,7 +17,7 @@ videos:
 ---
 
 
-Viva Connections & SharePoint Framework bi-weekly community call recording from {{ dateFormat "January 2006" .Date }} {{ dateFormat "2" .Date }}{{ if in (slice 1 21 31) (dateFormat "2" .Date)}}st{{ else if in (slice 2 22) (dateFormat "2" .Date)}}nd{{ else if in (slice 3 23) (dateFormat "2" .Date)}}rd{{ else }}th{{ end }} is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp/videos). You can use SharePoint Framework for building solutions for **Microsoft Teams** and for **SharePoint** Online.
+Viva Connections & SharePoint Framework bi-weekly community call recording from {{ dateFormat "January 2006" .Date }} {{ dateFormat "2" .Date }}{{ if in (slice 1 21 31) (dateFormat "2" .Date)}}st{{ else if in (slice 2 22) (dateFormat "2" .Date)}}nd{{ else if in (slice 3 23) (dateFormat "2" .Date)}}rd{{ else }}th{{ end }} is now available from the Microsoft 365 Community YouTube channel at [https://aka.ms/m365pnp/videos](https://aka.ms/m365pnp/videos). You can use SharePoint Framework for building solutions for **Microsoft Teams** and for **SharePoint** Online.
 
 {{< youtube INSERT-VIDEO-CODE-HERE >}}
 
@@ -51,11 +51,9 @@ SharePoint Framework (SPFx)|CURRENT VERSION|STATUS
 [PnP SPFx Generator](https://github.com/pnp/generator-spfx)|CURRENT VERSION|STATUS
 [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|CURRENT VERSION|STATUS
 
-The host of this call is [NAME](https://twitter.com/TWITTER) (Microsoft) | @TWITER.  Q&A takes place as always in chat throughout the call.
+The host of this call is [NAME](https://twitter.com/TWITTER) (Microsoft) | @twitter.  Q&A takes place as always in chat throughout the call.
 
-{{< image alt="A bunch of people smiling and waving" src="images/together-mode.gif" >}}
 
-Thank you for joining the call today and/or for viewing the recording.  Awesome to see many of you on the screen.
 
 ## Actions
 
@@ -161,17 +159,17 @@ Additional resources around the covered topics and links from the slides.
 -   Gallery - [Microsoft 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)   
 -   [Microsoft Build sessions guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital Brochure) - aka.ms/modernworkbuildsessions
 -   SharePoint Framework - v1.12.1 npm install –g @microsoft/generator-sharepoint@next
--   [CLI for Microsoft 365 v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+-   [CLI for Microsoft 365 v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 -   [CodeTour](https://aka.ms/codetour)
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) | aka.ms/sharing-is-caring
--   [Tools -](http://aka.ms/pnp-search) [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)  [|](http://aka.ms/pnp-search) [https://aka.ms/pnp-search](https://aka.ms/pnp-search)
+-   [Tools -](https://aka.ms/pnp-search) [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)  [|](https://aka.ms/pnp-search) [https://aka.ms/pnp-search](https://aka.ms/pnp-search)
 -   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 -   [SharePoint Starter Kit v2](https://github.com/pnp/sp-starter-kit/tree/v2)
 -   Blog: "[A Lap Around Microsoft Graph Toolkit" blog series](https://aka.ms/mgtLap)
--   [New Microsoft 365 Patterns and Practices (PnP) team model with new community leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
--   [Microsoft 365 Community Content](http://aka.ms/m365-community-docs) (non-Dev docs)
--   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
--   [PnP SPFx extension samples](http://aka.ms/spfx-extensions)
+-   [New Microsoft 365 Patterns and Practices (PnP) team model with new community leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+-   [Microsoft 365 Community Content](https://aka.ms/m365-community-docs) (non-Dev docs)
+-   [PnP SPFx web part samples](https://aka.ms/spfx-webparts)
+-   [PnP SPFx extension samples](https://aka.ms/spfx-extensions)
 -   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 -   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 -   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
@@ -179,22 +177,22 @@ Additional resources around the covered topics and links from the slides.
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 -   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 -   [SPFx Extensions](https://aka.ms/spfx-extensions)
--   [SPFx Library Components](http://aka.ms/spfx-library-components)
+-   [SPFx Library Components](https://aka.ms/spfx-library-components)
 -   Documentation - [PnPjs v2 documentation](https://pnp.github.io/pnpjs/)
 -   Link - [Microsoft 365 developer training](https://aka.ms/M365DevTraining)
 -   Link - [Office 365 Developer Program](https://aka.ms/O365DevProgram)
--   [Latest documentation on SharePoint Framework](http://aka.ms/spdev-docs)
--   Found an issue with SharePoint Dev? - please let us know at [http://aka.ms/spdev-issues](http://aka.ms/spdev-issues)
+-   [Latest documentation on SharePoint Framework](https://aka.ms/spdev-docs)
+-   Found an issue with SharePoint Dev? - please let us know at [https://aka.ms/spdev-issues](https://aka.ms/spdev-issues)
 -   [Reusable web part property controls](https://sharepoint.github.io/sp-dev-fx-property-controls/)
 -   [Reusable react controls for SharePoint Framework solutions](https://sharepoint.github.io/sp-dev-fx-controls-react/)
 -   [Reusable controls webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
--   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
+-   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
 -   [PnP SPFx Yeoman Generator](https://github.com/pnp/generator-spfx) \- Extends the out-of-the-box experience with open-source community capabilities
--   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) \- for new feature requests
+-   [SharePoint Dev UserVoice](https://aka.ms/spdev-uservoice) \- for new feature requests
 
 ## Other mentioned topics
 
--   [SharePoint dev documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+-   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites
@@ -211,7 +209,7 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 
 -   SharePoint Framework engineering update from Microsoft
 -   Talk about PnP JavaScript Core libraries
--   Office 365 CLI Updates
+-   CLI for Microsoft 365 Updates
 -   SPFx reusable controls
 -   PnP SPFx Yeoman generator
 -   Share code samples and best practices

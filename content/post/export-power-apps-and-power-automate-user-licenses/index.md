@@ -6,7 +6,7 @@ githubname: yhabersaat
 categories: ["Community post"]
 images:
 - images/power-platform-licenses.png
-tags: []
+tags: ["Power Apps", "Power Automate"]
 type: "regular"
 ---
 
@@ -49,7 +49,7 @@ Global Administrator** to execute this command successfully.
 After this, you can easily use the generated CSV file in Power BI
 Desktop for further data analysis:
  
-{{< image alt="power-platform-licenses.png" src="images/power-platform-licenses.png" >}}
+![power-platform-licenses.png](images/power-platform-licenses.png)
 
 
 Happy reporting everyone!

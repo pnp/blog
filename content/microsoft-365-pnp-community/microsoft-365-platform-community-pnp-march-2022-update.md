@@ -60,7 +60,7 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 * 9th of February - [Client Secret expiration now limited to a maximum of two years](https://devblogs.microsoft.com/microsoft365dev/client-secret-expiration-now-limited-to-a-maximum-of-two-years/)
 * 8th of February - [Learn from the community: React web app and Azure QnA bot to centralize learning resources](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-react-web-app-and-azure-qna-bot-to-centralize-learning-resources/) - [Ayca Bas](https://twitter.com/aycabs) (Microsoft)- @aycabs
 
-### Microsoft 365 Platform Community Blog
+### Microsoft 365 and Power Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
@@ -112,7 +112,7 @@ There are numerous different community calls on different areas. All calls are b
 * Adaptive Cards  [https://aka.ms/adaptivecardscommunitycall](https://aka.ms/adaptivecardscommunitycall) - Updates and news around Adaptive Cards with live demos
 * Microsoft identity platform [https://aka.ms/IDDevCommunityCalendar](https://aka.ms/IDDevCommunityCalendar) - Latest on the identity side
 * Office Add-ins  [https://aka.ms/officeaddinscommunitycall](https://aka.ms/officeaddinscommunitycall) - News and community work around Office add-ins with live demos
-* PowerApps [https://aka.ms/PowerAppsMonthlyCall](https://aka.ms/PowerAppsMonthlyCall) - Monthly summary on PowerApps community with live demos
+* Power Apps [https://aka.ms/PowerAppsMonthlyCall](https://aka.ms/PowerAppsMonthlyCall) - Monthly summary on Power Apps community with live demos
 * M365 Community Call  [https://aka.ms/spdev-sig-call](https://aka.ms/spdev-sig-call)  - Bi-weekly - General topics on Microsoft 365 Dev from various aspects - Microsoft Teams, Microsoft Graph Toolkit, Provisioning, Automation, Scripting, Power Automate, Solution design
 * Viva Connections & SharePoint Framework Community call [https://aka.ms/spdev-spfx-call](https://aka.ms/spdev-spfx-call) - Bi-weekly - Consists of topics around SharePoint Framework and JavaScript-based development in the Microsoft Teams and in SharePoint platform.
 
@@ -191,7 +191,7 @@ Please see the specifics on the supportability on the tool, SDK or  component re
 
 ## Microsoft 365 Platform Community team model
 
-{{< image alt="Microsoft 365 Platform Community team model" src="/images/blog/microsoft-365-platform-community-pnp-march-2022-update/teammodel.png" >}}
+![Microsoft 365 Platform Community team model" src="/images/blog/microsoft-365-platform-community-pnp-march-2022-update/teammodel.png)
 
 In April 2020 we announced our new [Microsoft 365 PnP team model](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and grew the MVP team quite significantly. PnP model exists for having more efficient engagement between Microsoft engineering and community members. Let's build things together. Your contributions and feedback is always welcome! During August, we also crew the team with 5 new members. PnP Team coordinates and leads the different open-source and community efforts we execute in the Microsoft 365 platform.
 
@@ -230,7 +230,7 @@ Got feedback, suggestions or ideas? - Please let us know. Everything we do in th
 
 ## Microsoft 365 PnP Recognition Program
 
-{{< image alt="recognition program" src="images/blog/microsoft-365-platform-community-pnp-march-2022-update/recognitionprogram.png" >}}
+![recognition program](images/blog/microsoft-365-platform-community-pnp-march-2022-update/recognitionprogram.png)
 
 We are excited to announce new community contributor program for all the active community members. Through this program you can get officially acknowledged with the a [Credly badge](https://www.credly.com/org/m365pnp/badge/community-contributor-2021) around your work on our open-source and community channels. See more from
 

@@ -40,37 +40,37 @@ As a result, you will still face a few challenges when migrating:
 - Extract the ZIP package
 - Export your flows, apps and solutions to the `src` folder:
 
-    {{< image alt="Exporting a Package as .ZIP" src="images/export.png" >}}
+    ![Exporting a Package as .ZIP](images/export.png)
      
-    {{< image alt="Exporting Apps" src="images/export-apps.png" >}}
+    ![Exporting Apps](images/export-apps.png)
     
-    {{< image alt="The source" src="images/src.png" >}}
+    ![The source](images/src.png)
     
-    {{< image alt="Migrate Packages.bat" src="images/contents.png" >}}
+    ![Migrate Packages.bat](images/contents.png)
 
 
 - Launch on `Migrate-Packages.bat` file.
 
-    {{< image alt="The Flow and Power App Migrator splash screen" src="images/app.png" >}}
+    ![The Flow and Power App Migrator splash screen](images/app.png)
 
 - Enter source site URL and target site URL.
 
-    {{< image alt="Enter source and target site" src="images/dialog.png" >}}
+    ![Enter source and target site](images/dialog.png)
 
 - Select **OK**.
 - Select lists and libraries to migrate. These are dependencies used by your flows and apps.
 
-    {{< image alt="Select lists and libraries to migrate" src="images/lists.png" >}}
+    ![Select lists and libraries to migrate](images/lists.png)
 
 - Select **OK**. Sit back and wait for the lists and libraries to be migrated and the conversion process to finish.
 
 - Navigate to the `dist` folder and collect converted flows, apps and solutions
 
-    {{< image alt="The dist folder containing converted flows, apps, and solutions" src="images/dist.png" >}}
+    ![The dist folder containing converted flows, apps, and solutions](images/dist.png)
 
 - Now go ahead and import your flows and apps to the destination tenant or environment. All SharePoint actions are now be converted and point to the new SharePoint location. You will also notice that SharePoint dependencies were migrated.
 
-    {{< image alt="All SharePoint data sources converted with a smiley" src="images/converted.png" >}}
+    ![All SharePoint data sources converted with a smiley](images/converted.png)
 
 ## Bonus: Preparing a deployment package for your clients and partners
 
@@ -80,7 +80,7 @@ As a result, you will still face a few challenges when migrating:
 
 - Export your solutions, apps and flows and save them to the `package\src` folder.
 
-    {{< image alt="Exported solutions, apps, and flows to the package/src folder" src="images/client-package.png" >}}
+    ![Exported solutions, apps, and flows to the package/src folder](images/client-package.png)
 
 - Send the `package` folder to your client or partner.
 

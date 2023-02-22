@@ -16,9 +16,9 @@ month on Office Add-in samples.
 
 ## Encrypt attachments and more with Outlook event-based activation 
 
-{{< image alt="outlook-event-based-activation.png" src="images/outlook-event-based-activation.png" >}}
+![outlook-event-based-activation.png](images/outlook-event-based-activation.png)
 
-{{< image alt="eric-legault-github-photo.png" src="images/eric-legault-github-photo.png" >}}
+![eric-legault-github-photo.png](images/eric-legault-github-photo.png)
 
 Contributed by [Eric Legault](https://github.com/elegault)
 
@@ -42,7 +42,7 @@ rea\...](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/ou
 
 ## Get started with hello world samples 
 
-{{< image alt="hello-world.png" src="images/hello-world.png" >}}
+![hello-world.png](images/hello-world.png)
 Learn how to build the simplest Office Add-in with only a manifest, HTML
 web page, and a logo. These samples will help you understand the
 fundamental parts of an Office Add-in.
@@ -63,14 +63,14 @@ Get started with the following code samples:
 Thank you to our contributors who are actively helping each month with
 the Office Add-ins community effort.
 
-{{< image alt="maarten-van-stam-github-photo.png" src="images/maarten-van-stam-github-photo.png" >}}
+![maarten-van-stam-github-photo.png](images/maarten-van-stam-github-photo.png)
 [Maarten van
 Stam](https://mvp.microsoft.com/PublicProfile/33535)
 
 Helping review PRs and issues on
 [Office-Add-ins-samples.](https://github.com/OfficeDev/Office-Add-in-samples)
 
-[{{< image alt="eric-legault-github-photo.png" src="images/eric-legault-github-photo.png" >}}
+[![eric-legault-github-photo.png](images/eric-legault-github-photo.png)
  Eric Legault](https://github.com/elegault)
 
 Creating the sample for [encrypting attachments in Outlook using

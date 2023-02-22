@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/15th-april-together-mode.gif
 tags: []
 type: "regular"
 ---
@@ -38,8 +37,7 @@ actively participating in this PnP Community. You continue to amaze. 
 The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call. 
-{{< image alt="15th-april-together-mode.gif" src="images/15th-april-together-mode.gif" >}}
- 
+
 
 **Getting started with Microsoft Viva Connections** **Desktop** - an
 employee centric app in Teams with one stop access to internet
@@ -113,7 +111,7 @@ Channel](https://aka.ms/m365pnp-videos).
     and [Prateek Dudeja](https://twitter.com/PrateekDudeja4) (Microsoft)
     | @PrateekDudeja4 -- [16:16](https://youtu.be/CP_q6eRe3X4?t=976)
 The full recording of this session is available from Microsoft 365 &
-SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
+SharePoint Community YouTube channel - <https://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found
     at [OneDrive](https://1drv.ms/p/s!AlposW7ozA_90j5EJfwLne2Eji8W?e=lDmhoH).
 
@@ -167,12 +165,12 @@ Additional resources on covered topics and discussions.
 -   [SharePoint Starter
     Kit](https://github.com/SharePoint/sp-starter-kit)
 -   Recurrent invite to SharePoint Development monthly calls
-    - <http://aka.ms/spdev-call>
--   SharePoint Developer documentation - <http://aka.ms/spdev-docs>
--   SharePoint Development Issues - <http://aka.ms/spdev-issues>
+    - <https://aka.ms/spdev-call>
+-   SharePoint Developer documentation - <https://aka.ms/spdev-docs>
+-   SharePoint Development Issues - <https://aka.ms/spdev-issues>
 -   SharePoint GitHub organization - <http://github.com/SharePoint>
 -   SharePoint Development UserVoice - new feature requests
-    - <http://aka.ms/spdev-uservoice>
+    - <https://aka.ms/spdev-uservoice>
 
 
 ## Upcoming Calls | Recurrent Invites
@@ -199,7 +197,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/adaptivecardscommunitycall>
 \"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
-- <http://aka.ms/m365pnp>.
+- <https://aka.ms/m365pnp>.
 *"Sharing is caring"*
 
 ------------------------------------------------------------------------

@@ -107,7 +107,7 @@ From Q&A
 -   Suggestions -- <https://aka.ms/M365Dev-Suggestions>   
 -   Graph TAP Program - <https://aka.ms/GraphTAPForm>** **
 -   Microsoft 365 Developer Podcast <http://www.m365devpodcast.com/>
--   Microsoft Graph Mailbag - <http://aka.ms/MSGraphMailbag>
+-   Microsoft Graph Mailbag - <https://aka.ms/MSGraphMailbag>
 -   Microsoft Q & A -- Graph - <https://aka.ms/askgraph/>
 -   Learn Module - [Get started with Microsoft Graph
     Toolkit](https://docs.microsoft.com/learn/modules/msgraph-toolkit-intro/)

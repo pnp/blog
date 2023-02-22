@@ -97,54 +97,24 @@
         <h2 class="h5 section-title">{{ i18n "editors_pick" }}</h2>
         {{ range first 1 (where site.RegularPages "Type" "epic")}}
         <article class="card">
-                    {{ $resources:= .Resources }}
           <!-- post thumb -->
-          {{ if .Params.images }}
-
-          <div class="post-slider slider-sm">
-            <a href="{{ .Permalink }}">
-            {{ range .Params.images }}
-              {{ $imgPath:= . }}
-              
-                {{ if (and (hasPrefix $imgPath `images/blog/`) (fileExists (add `assets/` $imgPath))) }}
-                  {{ $img:= resources.Get $imgPath }}
-                  {{ $imageLG:= $img.Fill "700x330 webp" }}
-                  {{ $imageMD:= $img.Fill "510x240 webp" }}
-                  {{ $imageSM:= $img.Fill "380x180 webp" }}
-                  <picture>
-                    <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
-                    <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
-                    <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
-                    <source srcset="{{$imageSM.RelPermalink}}">
-                    <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb"
-                      width="{{$img.Width}}" height="{{$img.Height}}">
-                  </picture>
-                {{ else }}
-                  {{ with $resources.GetMatch $imgPath }}
-                    {{ $img:= . }}
-                    {{ $imageLG:= $img.Fill "700x330 webp" }}
-                    {{ $imageMD:= $img.Fill "510x240 webp" }}
-                    {{ $imageSM:= $img.Fill "380x180 webp" }}
-                    <picture>
-                      <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
-                      <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
-                      <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
-                      <source srcset="{{$imageSM.RelPermalink}}">
-                      <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb"
-                        width="{{$img.Width}}" height="{{$img.Height}}">
-                    </picture>
-                  {{ else }}
-                    <div class="image-fallback"><span>{{ .Title | truncate 1}}</span></div>
-                  {{ end }}
-                {{ end }}
-            {{ end }} 
-            </a>
-          </div>
-          {{ else }}
-            <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
+          {{ $thumbnail := partial "get-featured-image" . }}
+          {{ if $thumbnail }}
+            <div class="post-slider slider-sm">
+              <a href="{{ .Permalink }}">
+                {{ partial "responsive-image" (dict
+                    "image" $thumbnail
+                    "fillSizes" (slice "380x180" "700x330")
+                    "sourceSizes" "(max-width: 575px) 380px, 700px"
+                    "altTitle" .Title
+                    "cssImgOverride" "card-img-top img-fluid"
+                  )
+                }}
+              </a>
+            </div>
           {{ end }}
-
           <!-- /post thumb -->
+
           <div class="card-body">
             <h3 class="h4 mb-3"><a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
             <ul class="card-meta list-inline">
@@ -187,38 +157,28 @@
         </article>
         {{ end }}
       </div>
+
       <!-- trending post -->
       <div class="col-lg-4 col-md-6 mb-5">
         <h2 class="h5 section-title">{{ i18n "trending_post" }}</h2>
         {{ range first 3 (where site.RegularPages "Type" "trending")}}
         <article class="card mb-4">
           <div class="card-body d-flex">
-                    {{ $resources:= .Resources }}
-
             <!-- post thumb -->
-            {{ if .Params.images }}
-            <a href="{{ .Permalink }}">
-              {{ range first 1 .Params.images }}
-              {{ $imgPath:= . }}
-              {{ if fileExists (add `assets/` $imgPath) }}
-                {{ $img:= resources.Get $imgPath }}
-                {{ $imageXS:= $img.Fill "85x85 webp" }}
-                <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imageXS.RelPermalink}}" class="card-img-sm" loading="lazy" alt="post-thumb">
-              {{ else }}
-                {{ with $resources.GetMatch $imgPath }}
-                  {{ $img:= . }}
-                  {{ $imageXS:= $img.Fill "85x85 webp" }}
-                  <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imageXS.RelPermalink}}"
-                    class="card-img-sm" loading="lazy" alt="post-thumb">
-                {{ else }}
-                  <div class="image-fallback"><span>{{ .Title | truncate 1}}</span></div>
-                {{ end }}
-              {{ end }}</a>
-              {{ end }}
-            {{ else }}
-              <div class="image-fallback-sm"><span>{{.Title | truncate 1}}</span></div>
+            {{ $thumbnail := partial "get-featured-image" . }}
+            {{ if $thumbnail }}
+              <a href="{{ .Permalink }}">
+                {{ partial "responsive-image" (dict
+                    "image" $thumbnail
+                    "fillSizes" (slice "85x85")
+                    "altTitle" .Title
+                    "cssImgOverride" "card-img-sm"
+                  )
+                }}
+              </a>
             {{ end }}
             <!-- /post thumb -->
+
             <div class="ml-3">
               <h4><a href="{{.Permalink}}" class="post-title">{{ .Title }}</a></h4>
               <ul class="card-meta list-inline mb-0">
@@ -234,52 +194,27 @@
         </article>
         {{ end }}
       </div>
+
       <!-- popular post -->
       <div class="col-lg-4 mb-5">
         <h2 class="h5 section-title">{{ i18n "popular_post" }}</h2>
         {{ range first 1 (where site.RegularPages "Type" "popular")}}
         <article class="card">
-          {{ $resources:= .Resources }}
           <!-- post thumb -->
-          {{ if .Params.images }}
-          <div class="post-slider slider-sm">
-            <a href="{{ .Permalink }}">
-            {{ range .Params.images }}
-              {{ $imgPath:= . }}
-              {{ if fileExists (add `assets/` .) }}
-                {{ $img:= resources.Get . }}
-                {{ $imageLG:= $img.Fill "700x330 webp" }}
-                {{ $imageMD:= $img.Fill "510x240 webp" }}
-                {{ $imageSM:= $img.Fill "380x180 webp" }}
-                <picture>
-                  <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
-                  <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
-                  <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
-                  <source srcset="{{$imageSM.RelPermalink}}">
-                  <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid"  alt="post-thumb" width="{{$img.Width}}" height="{{$img.Height}}">
-                </picture>
-              {{ else }}
-              {{ with $resources.GetMatch $imgPath }}
-                {{ $img:= . }}
-                {{ $imageLG:= $img.Fill "700x330 webp" }}
-                {{ $imageMD:= $img.Fill "510x240 webp" }}
-                {{ $imageSM:= $img.Fill "380x180 webp" }}
-                <picture>
-                  <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
-                  <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
-                  <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
-                  <source srcset="{{$imageSM.RelPermalink}}">
-                  <img loading="lazy" decoding="async" src="{{$imageSM.RelPermalink}}" class="card-img-top img-fluid" alt="post-thumb"
-                    width="{{$img.Width}}" height="{{$img.Height}}">
-                </picture>
-              {{ else }}
-                <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
-              {{ end }}
-              {{ end }}
-            {{ end }}</a>
-          </div>
-          {{ else }}
-            <div class="image-fallback"><span>{{.Title | truncate 1}}</span></div>
+          {{ $thumbnail := partial "get-featured-image" . }}
+          {{ if $thumbnail }}
+            <div class="post-slider slider-sm">
+              <a href="{{ .Permalink }}">
+                {{ partial "responsive-image" (dict
+                    "image" $thumbnail
+                    "fillSizes" (slice "380x180" "700x330")
+                    "sourceSizes" "(max-width: 575px) 380px, 700px"
+                    "altTitle" .Title
+                    "cssImgOverride" "card-img-top img-fluid"
+                  )
+                }}
+              </a>
+            </div>
           {{ end }}
           <!-- /post thumb -->
           <div class="card-body">

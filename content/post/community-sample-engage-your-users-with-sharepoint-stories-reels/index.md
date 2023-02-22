@@ -6,7 +6,7 @@ githubname: luismanez
 categories: ["Community post"]
 images:
 - images/6-component-did-mount.png
-tags: []
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -16,12 +16,12 @@ sample, I built an SPFx web part to do so. Here is how I did it, but
 first, this is how it looks:
 
 
-{{< image alt="SharePoint stories webpart" src="images/1-sp-stories.png" >}}
+![SharePoint stories webpart](images/1-sp-stories.png)
 
 What we need first, is a SharePoint list that will contain all the
 "story images", with the author of that story, and some Text, if we want
 to show the "show more" option. This list will be something like this:
-{{< image alt="SP List" src="images/2-sp-list.png" >}}
+![SP List](images/2-sp-list.png)
 
 
 Now it is time to code our SPFx web part.
@@ -32,12 +32,12 @@ find in its GitHub
 component does most of the hard work with the image slide and so on. In
 its most simple way, the component just needs an array of images:
 
-{{< image alt="react package" src="images/3-react-insta-stories-library.png" >}}
+![react package](images/3-react-insta-stories-library.png)
  
 But you can also specify an array of Story objects, where a Story can
 have the following properties:
 
-{{< image alt="Story object properties" src="images/Story object properties.png" >}}
+![Story object properties](images/Story object properties.png)
  
 Now that we know how to use the Stories component, the web part
 functionality is quite easy. We just need to get the Stories information
@@ -49,7 +49,7 @@ avoid this practice, and only pass what you need.
 This is the main code in the Render web part method:
 
 
-{{< image alt="SPFx Webpart render" src="images/5-webpart-render.png" >}}
+![SPFx Webpart render](images/5-webpart-render.png)
  
 Once in the main React component, we are calling the SharePoint REST API
 to get the stories from the list. To do so, I am using the endpoint:
@@ -62,7 +62,7 @@ As this endpoint is given me the Image URL in the format that I need
 (but pretty sure you can do the same with other endpoints, or using the
 PnP JS library). The code to do so is:
 
-{{< image alt="componentDidMount" src="images/6-component-did-mount.png" >}}
+![componentDidMount](images/6-component-did-mount.png)
  
 The method "*\_getStoryFromListItem*" will create a Story object for the
 "react-insta-stories" component, and here we have an interesting
@@ -78,7 +78,7 @@ Header property, however, the Story object allow us to specify a custom
 render function for the entire Story, and in that function, we can use
 the Person component. This is the relevant code to achieve it:
 
-{{< image alt="Story custom render function" src="images/7-story-render.png" >}}
+![Story custom render function](images/7-story-render.png)
  
 The *storyRenderer* function is the one responsible for rendering the
 Story, and there, we use the GMT Person component. As you can see in the

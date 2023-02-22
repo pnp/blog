@@ -6,7 +6,7 @@ githubname: willholland
 categories: ["Community post"]
 images:
 - images/sad-mario.png
-tags: []
+tags: ["SharePoint", "PnP PowerShell"]
 type: "regular"
 ---
 
@@ -17,7 +17,7 @@ Have you ever heard this from a client or colleague?
 > "I have a list of data on this one site that I need to move to
 > another site."
 > 
-{{< image alt="sad-mario.png" src="images/sad-mario.png" >}}
+![sad-mario.png](images/sad-mario.png)
  
 Just a simple list of data that they want moved from **Site A** to
 **Site B**. For such a simple request, the solution has, historically,
@@ -106,4 +106,4 @@ Invoke-PnPSiteTemplate -Path Lists.xml
 Now you've got your list(s), complete with data, copied over to another
 site. All that's left to do is get rid of the old one, if necessary.
 
-{{< image alt="you-win.jpg" src="images/you-win.jpg" >}}
+![you-win.jpg](images/you-win.jpg)

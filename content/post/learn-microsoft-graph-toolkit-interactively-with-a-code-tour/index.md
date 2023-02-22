@@ -6,7 +6,7 @@ githubname: WaldekMastykarz
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Microsoft Graph Toolkit"]
 type: "regular"
 ---
 
@@ -41,7 +41,7 @@ an experiment - an [interactive code
 tour](https://github.com/microsoftgraph/mgt-react-codetour) that you can
 follow to add Microsoft Graph Toolkit to a React app.
 
-{{< image alt="mgt-code-tour.png" src="images/mgt-code-tour.png" >}}
+![mgt-code-tour.png](images/mgt-code-tour.png)
 
 By following the instructions in the tour, you gradually extend an empty
 React app with Microsoft Graph Toolkit turning it into a true Microsoft

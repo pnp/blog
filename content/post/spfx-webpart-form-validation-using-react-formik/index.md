@@ -5,19 +5,19 @@ author: "Chandani Prajapati"
 categories: ["Community post"]
 images:
 - images/Output.png
-tags: []
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
 
-## Introduction 
+## Introduction
 
 Formik is the world's most popular open-source form library for React
 and React Native. We can also use this library in our SPFx web part as
 well to manage form validations. Using this library we don't have to
 write custom validations. so let's start step-by-step implementation.
 
-### What is formik? 
+### What is formik?
 
 Formik is a small library that helps us with the these parts: Getting
 values in and out of form state. Validation and error messages. Handling
@@ -41,7 +41,7 @@ Formik](https://www.c-sharpcorner.com/article/manage-forms-in-react-with-formik/
 **[Formik validation
 Schema](https://formik.org/docs/guides/validation "Formik validation Schema") **
 
-## SharePoint List Structure 
+## SharePoint List Structure
 
 Create a list called **Tasks **with below fields,
   ------------------------------- ---------------------------
@@ -55,7 +55,7 @@ Create a list called **Tasks **with below fields,
 After the creation of the list, we will start to create the SPFx web
 part.
 
-## Formik implementation with SPFx 
+## Formik implementation with SPFx
 
 Open a command prompt\
 Move to the path where you want to create a project\
@@ -64,9 +64,9 @@ Create a project directory using:
 Move to the above-created directory using:
     cd react-formik
 Now execute the below command to create an SPFx solution:
-     yo @microsoft/sharepoint 
+     yo @microsoft/sharepoint
 It will ask some questions, as shown below,
-{{< image alt="Project Setup.png" src="images/Project Setup.png" >}}
+![Project Setup.png](images/Project Setup.png)
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
     code .
@@ -80,7 +80,7 @@ Now we will install the following packages:
 ```
 
 In the end, our output will be like this,
-{{< image alt="Output.png" src="images/Output.png" >}}
+![Output.png](images/Output.png)
 
 After the successful installation, we will start our form
 implementation.
@@ -89,7 +89,7 @@ implementation.
 
 *SPService.ts* file inside **src/webparts/shared/service**
 In the end, our structure will be looks like this,
-{{< image alt="Project Structure.png" src="images/Project Structure.png" >}}
+![Project Structure.png](images/Project Structure.png)
 2.  Create a state interface as below inside **IReactFormikState.ts.**
  
 
@@ -463,9 +463,9 @@ Now serve the application using the below command,
 Now test the webpart in SharePoint-SiteURL +
 /\_layouts/15/workbench.aspx.
 
-## Output 
+## Output
 
-{{< image alt="SPFx-react-formik.gif" src="images/SPFx-react-formik.gif" >}}
+![SPFx-react-formik.gif](images/SPFx-react-formik.gif)
  
 
 Find here the [full source code

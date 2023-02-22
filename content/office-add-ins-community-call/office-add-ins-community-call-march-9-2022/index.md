@@ -12,24 +12,24 @@ type: "regular"
 
 ## Call Summary
 
-
-This month's community call features updates on **Consuming Graph Services using SSO and CORS from event-based Outlook add-ins** (covers automatic initiation of an event-based add-in while composing an email with demo showing use of SSO to get a Graph compatible Token and Call the Graph using CORS!) – [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Program Manager (Microsoft) | @juaneloBalmori & [Hlynur Tryggvason](https://twitter.com/htryggva), Senior Software Architect ([officeatwork](https://www.officeatwork.com/)), and Excel API 1.15 preview (accessing and using Chart Series Dimension and Pivot Table Data Source APIs) – Sirui Sun, Software Engineer (Microsoft). There was Q&A at end of call and in chat throughout call. Don’t forget to register for the [PnP Recognition Program](https://aka.ms/m365pnp-recognition). The call was hosted by Alex Jerabek (Microsoft). Recorded March 9, 2022.
+This month's community call features an update on **Excel API 1.15 preview** (accessing and using Chart Series Dimension and Pivot Table Data Source APIs) – Sirui Sun, Software Engineer (Microsoft) and **Q&A** both at end of call and in chat throughout call. Don’t forget to register for the [PnP Recognition Program](https://aka.ms/m365pnp-recognition). The call was hosted by Alex Jerabek (Microsoft). Recorded March 9, 2022.
 
 ## Microsoft Presenters
 
-*   [Juan Balmori](https://twitter.com/juaneloBalmori) – Principal Program Manager (Microsoft)
-*   [Hlynur Tryggvason](https://twitter.com/htryggva) – Senior Software Architect ([officeatwork](https://www.officeatwork.com/))
 *   Sirui Sun – Software Engineer (Microsoft)
+*   Alex Jerabek - Dev Writer (Microsoft)
 
 ## Agenda
 
-*   **Consuming Graph Services using SSO and CORS from event–based Outlook add–ins** – [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Program Manager (Microsoft) | @juaneloBalmori & [Hlynur Tryggvason](https://twitter.com/htryggva), Senior Software Architect (officeatwork) | @htryggva – [00:51](https://youtu.be/95qxmmqWUAk&t=51)
-*   **Excel API 1.15 preview** – Sirui Sun, Software Engineer (Microsoft) – [21:08](https://youtu.be/95qxmmqWUAk&t=1268)
-*   **Q&A** – [25:45](https://youtu.be/95qxmmqWUAk&t=1545)
+*   **Excel API 1.15 preview** – Sirui Sun, Software Engineer (Microsoft) – [00:31](https://youtu.be/eC94i0ZJkao?t=31)
+*   **Q&A** – [05:10](https://youtu.be/eC94i0ZJkao?t=310)
+
+> Last updated: July 7. The presentation **Consuming Graph Services using SSO and CORS from event–based Outlook add–ins** was removed from this call. Upon further research, it came to our attention that this approach has a potential security risk. Once the Microsoft Graph token is obtained by the middle-tier, it sends the token to the add-in's client code running in Outlook. The Microsoft Graph access token created by the Microsoft identity platform as part of the on-behalf-of flow is only intended to be used by the middle-tier. Find more details about this security risk at [Middle-tier access token request](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#middle-tier-access-token-request).
+> We are working on creating a sample with prescriptive guidance on how to implement event-based add-ins in Outlook using SSO with the guidance documented at [Microsoft identity platform and OAuth 2.0 On-Behalf-Of flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow).
 
 ## Actions
 
-*   Earn contributor badges – sign up for the PnP Recognition program at [https://pnp.github.io/recognitionprogram/](https://pnp.github.io/recognitionprogram/)
+*   Earn contributor badges – sign up for the PnP Recognition program at [https://pnp.github.io/recognitionprogram/](https://pnp.github.io/recognitionprogram/)
 *   Follow channels in twitter – for call agendas, summaries, and release announcements
     *   [https://twitter.com/microsoft365dev](https://twitter.com/microsoft365dev)
     *   [https://twitter.com/m365pnp](https://twitter.com/m365pnp)
@@ -81,7 +81,7 @@ We see this issue is affecting multiple customers and we’ve moved this up in p
 
 ### Should we post in the Microsoft Q&A forum or StackOverflow or GitHub?
 
-The team monitors all of these locations. For development assistance, particularly with coding, please post your questions to [Microsoft Q&A](https://docs.microsoft.com/en-us/answers/products/m365) or [Stack Overflow](https://stackoverflow.com). To report bugs, please open an issue in [GitHub](https://github.com/OfficeDev/office-js).
+The team monitors all of these locations. For development assistance, particularly with coding, please post your questions to [Microsoft Q&A](https://docs.microsoft.com/answers/products/m365) or [Stack Overflow](https://stackoverflow.com). To report bugs, please open an issue in [GitHub](https://github.com/OfficeDev/office-js).
 
 ### Is there a documented or known issue that anyone is aware of with the Word API and supporting older versions of Word documents?
 
@@ -94,15 +94,15 @@ Enabling the APIs available across all endpoints is our strategy. However, due t
 ## Resources
 
 *   Microsoft Tech Community – Submit Feature Requests | [https://aka.ms/m365dev-suggestions](https://aka.ms/m365dev-suggestions)
-*   Office Developer Community help | [https://developer.microsoft.com/office](https://developer.microsoft.com/office) (**Office–js–docs–pr, PnP–OfficeAddins**)
+*   Office Developer Community help | [https://developer.microsoft.com/office](https://developer.microsoft.com/office) (**Office–js–docs–pr, PnP–OfficeAddins**)
 *   Office Add–ins documentation | [https://aka.ms/office-add-ins-docs](https://aka.ms/office-add-ins-docs)
 *   Office Scripts | [https://aka.ms/office-scripts-docs](https://aka.ms/office-scripts-docs)
 *   Microsoft 365 Developer Program | [https://aka.ms/M365devprogram](https://aka.ms/M365devprogram)
 *   Script Lab | [https://aka.ms/getscriptlab](https://aka.ms/getscriptlab)
-*   Office Add–ins documentation | [https://aka.ms/office-add-ins-docs](https://aka.ms/office-add-ins-docs) 
-*   Twitter | [https://twitter.com/microsoft365dev](https://twitter.com/microsoft365dev)
-*   YouTube | [https://aka.ms/m365pnp/videos](https://aka.ms/m365pnp/videos)
-*   Link to all Microsoft Developer Community calls | [https://aka.ms/M365DevCalls](https://aka.ms/M365DevCalls) 
+*   Office Add–ins documentation | [https://aka.ms/office-add-ins-docs](https://aka.ms/office-add-ins-docs) 
+*   Twitter | [https://twitter.com/microsoft365dev](https://twitter.com/microsoft365dev)
+*   YouTube | [https://aka.ms/m365pnp/videos](https://aka.ms/m365pnp/videos)
+*   Link to all Microsoft Developer Community calls | [https://aka.ms/M365DevCalls](https://aka.ms/M365DevCalls) 
 
 ### Office Add-ins community call
 
@@ -114,6 +114,6 @@ Enabling the APIs available across all endpoints is our strategy. However, due t
 ### Office Add-ins feedback
 
 *   Technical questions – Microsoft Q&A ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)), ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
-*   ​Questions for the developer community – [Stack Overflow](https://stackoverflow.com) (**office-js,​ outlook-web-addins​, office-scripts**)
+*   ​Questions for the developer community – [Stack Overflow](https://stackoverflow.com) (**office-js,​ outlook-web-addins​, office-scripts**)
 *   Issues – [GitHub](https://github.com/OfficeDev/office-js/issues)
 *   Recommendations and suggestions – [Microsoft 365 Developer Platform ideas](https://aka.ms/m365dev-suggestions)

@@ -6,7 +6,7 @@ githubname: appieschot
 categories: ["CLI for Microsoft 365"]
 images:
 - images/cli-ma.png
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 
@@ -55,7 +55,7 @@ In our resource group we can create a new user managed identity that we
 can use. Select  the **add** button and search for **User Assigned
 Managed Identity** to create the new managed identity. Simply provide a
 name and create your new managed identity. 
-{{< image alt="cli-ma.png" src="images/cli-ma.png" >}}
+![cli-ma.png](images/cli-ma.png)
  
 Once the managed identity is created it still need permissions to do
 anything. Just creating it is not enough. In order to use the managed
@@ -80,7 +80,7 @@ Navigate to <https://portal.azure.com> select **Azure Active Directory**
 and pick **Enterprise Applications**. In the Application Filter filter
 on **Managed Identities** and make sure to pick the **Application Id**
 of your newly created managed identity. 
-{{< image alt="cli-ma-id.png" src="images/cli-ma-id.png" >}}
+![cli-ma-id.png](images/cli-ma-id.png)
 
 Store it somewhere save as we need it at a later moment. 
 
@@ -145,7 +145,7 @@ for the same status. In the true statement we can implement the logic
 for retrieving our data. You can use the **Get logs from a container
 instance** and e-mail the output to yourself. 
 
-{{< image alt="cli-la-cleanup.png" src="images/cli-la-cleanup.png" >}}
+![cli-la-cleanup.png](images/cli-la-cleanup.png)
 
 In the false branche add an wait **action** that waits for 10 or 15
 seconds. That will make sure it takes a while before it retries checking

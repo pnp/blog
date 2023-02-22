@@ -24,7 +24,7 @@ this new model is targeted on covering more widely the awesomeness of
 Microsoft 365.
 We will also have some Northern Hemisphere summer cancellations.
 
-{{< image alt="VesaJuvonen_1-1624888942819.png" src="images/VesaJuvonen_1-1624888942819.png" >}}
+![VesaJuvonen_1-1624888942819.png](images/VesaJuvonen_1-1624888942819.png)
 
 ## What's new? - New weekly Microsoft 365 Platform community call 
 

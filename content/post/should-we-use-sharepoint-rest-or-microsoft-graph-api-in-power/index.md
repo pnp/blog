@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/hello-i-m-nik-n1ccr-zVG68-unsplash.jpg
-tags: []
+tags: ["Microsoft Graph", "SharePoint"]
 type: "regular"
 ---
 
@@ -73,7 +73,7 @@ text inputs:
  
 
 
-{{< image alt="mobileflowtrigger.png" src="images/mobileflowtrigger.png" >}}
+![mobileflowtrigger.png](images/mobileflowtrigger.png)
 
  
 
@@ -110,7 +110,7 @@ as body- make sure you replace the placeholder with Dynamic Content:
  
 
 
-{{< image alt="sendhttprequest.png" src="images/sendhttprequest.png" >}}
+![sendhttprequest.png](images/sendhttprequest.png)
 
  
 
@@ -191,7 +191,7 @@ will create us a column:
 -   Please replace again all placeholder by Dynamic content
 
 
-{{< image alt="sendhttprequest2.png" src="images/sendhttprequest2.png" >}}
+![sendhttprequest2.png](images/sendhttprequest2.png)
 
 Should you stumble upon the FieldTypeKind, please find
 reference here:  [FieldTypeKind](https://docs.microsoft.com/previous-versions/office/sharepoint-csom/ee540543(v=office.15)) -
@@ -222,7 +222,7 @@ another 'send an HTTP request to SharePoint' action:
  
 
 
-{{< image alt="senhttp3.png" src="images/senhttp3.png" >}}
+![senhttp3.png](images/senhttp3.png)
 
  
 
@@ -261,7 +261,7 @@ Again, to make things easy, we will use the same trigger as in Option
 No. 1.
 
 
-{{< image alt="mobileflowtrigger.png" src="images/mobileflowtrigger.png" >}}
+![mobileflowtrigger.png](images/mobileflowtrigger.png)
 
 #### HTTP action 
 
@@ -377,7 +377,7 @@ and so on. Let's go ahead and
 
 
 
-{{< image alt="varsandhttp.png" src="images/varsandhttp.png" >}}
+![varsandhttp.png](images/varsandhttp.png)
 
  
 When we now run our flow, we will see that the columns that we created
@@ -433,7 +433,7 @@ add them to default view, and so on, [feel free to try it
 out](https://pnp.github.io/cli-microsoft365/cmd/spo/field/field-add/)!
 
 
-{{< image alt="cli2.png" src="images/cli2.png" >}}
+![cli2.png](images/cli2.png)
 
 ## Conclusion 
 
@@ -446,5 +446,5 @@ as an example. Please tell me - which solution would you prefer? Which
 are your use cases? Please reply below; I am curious!
 
  
-{{< image alt="itdepends.png" src="images/itdepends.png" >}}
+![itdepends.png](images/itdepends.png)
 

@@ -21,7 +21,7 @@ of this success.
 
 ## What is Microsoft 365 Community (PnP) 
 
-[Microsoft 365 PnP](http://aka.ms/m365pnp) is a nick-name for Microsoft
+[Microsoft 365 PnP](https://aka.ms/m365pnp) is a nick-name for Microsoft
 365 platform community activities coordinated by numerous teams inside
 of the Microsoft 365 engineering organizations. PnP is a
 community-driven open-source initiative where Microsoft and external
@@ -47,13 +47,13 @@ libraries are under official support from Microsoft.
 Main resources around Microsoft 365 Community:
 
 -   Microsoft 365 Community -
-    [http://aka.ms/m365pnp](http://aka.ms/sppnp) - One location for all
+    [https://aka.ms/m365pnp](https://aka.ms/sppnp) - One location for all
     the resources and news around Microsoft 365 platform
 -   Microsoft 365 community blog - 
-    <http://aka.ms/m365pnp/community/blog>
--   Microsoft 365 development blog -  <http://aka.ms/m365pnp-blog>
+    <https://aka.ms/m365pnp/community/blog>
+-   Microsoft 365 development blog -  <https://aka.ms/m365pnp-blog>
 -   Microsoft 365 Community Channel on YouTube -
-    [http://aka.ms/m365pnp-videos](http://aka.ms/m365pnp-Videos)
+    [https://aka.ms/m365pnp-videos](https://aka.ms/m365pnp-Videos)
 -   Microsoft 365 Developer YouTube channel -
     <https://aka.ms/M365DevYouTube>
 
@@ -70,13 +70,11 @@ development topics from
     the v1
     endpoint](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-bookings-apis-now-available-on-the-v1-endpoint/)
 Latest community posts at <https://aka.ms/m365pnp/community/blog>
--   11th of January - [Adam
-    Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ou1UssfsX%2FGuAkrYEi0B7XnbGHgC669zrH3vjq%2FBJdw%3D&reserved=0)
+-   11th of January - https://twitter.com/Adam2585878
     (Hitachi Energy) | @Adam2585878 - [PnP PowerShell or CLI for
     Microsoft 365 or both or
     other](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/ba-p/3055126)
--   11th of January - [Adam
-    Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ou1UssfsX%2FGuAkrYEi0B7XnbGHgC669zrH3vjq%2FBJdw%3D&reserved=0)
+-   11th of January - https://twitter.com/Adam2585878
     (Hitachi Energy) | @Adam2585878 - [CLI for Microsoft 365 on your
     mobile](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-on-your-mobile/ba-p/3052058)
 -   8th of January - [Garry
@@ -84,7 +82,7 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
     | @garrytrinder - [CLI for Microsoft 365
     v4.3](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v4-3/ba-p/3051947)
 -   5th of January -  [Chandani
-    Prajapati](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FChandani_SPD&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=D3BEYiLF7zFYnlLXceqMqv%2FSD7Uf%2BsxxCEDfdFFQ6lY%3D&reserved=0)
+    Prajapati](https://twitter.com/Chandani_SPD)
     (Rapid Circle) | @Chandani_SPD - [How to convert HTML content or
     file to PDF using the Muhimbi
     API?](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-convert-html-content-or-file-to-pdf-using-the-muhimbi-api/ba-p/3041314)
@@ -133,7 +131,7 @@ YouTube](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 channels. Recordings are typically released within the following 24
 hours after the call. You can find a detailed agenda and links to
 specific covered topics on blog post articles at the [Microsoft 365
-developer blog](http://aka.ms/spdev-blog) when the videos are published.
+developer blog](https://aka.ms/spdev-blog) when the videos are published.
 
 -   Microsoft 365 Platform Call - <https://aka.ms/m365-dev-call> -
     Updates and demos from Microsoft as weekly call on Tuesdays - topics
@@ -146,8 +144,8 @@ developer blog](http://aka.ms/spdev-blog) when the videos are published.
     side
 -   Office Add-ins  <https://aka.ms/officeaddinscommunitycall> - News
     and community work around Office add-ins with live demos
--   PowerApps   <https://aka.ms/PowerAppsMonthlyCall> - Monthly summary
-    on PowerApps community with live demos
+-   Power Apps   <https://aka.ms/PowerAppsMonthlyCall> - Monthly summary
+    on Power Apps community with live demos
 -   M365 Community Call  <https://aka.ms/spdev-sig-call>  - Bi-weekly -
     General topics on Microsoft 365 Dev from various aspects - Microsoft
     Teams, Microsoft Graph Toolkit, Provisioning, Automation, Scripting,
@@ -318,7 +316,7 @@ component repository or download page.
 
 ## Microsoft 365 PnP team model 
 
-{{< image alt="pnp-community-model.png" src="images/pnp-community-model.png" >}}
+![pnp-community-model.png](images/pnp-community-model.png)
 
 In April 2020 we announced our new [Microsoft 365 PnP team
 model](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
@@ -381,7 +379,7 @@ more.
 
 ## Microsoft 365 PnP Recognition Program   
 
-{{< image alt="VesaJuvonen_0-1629736432373.png" src="images/VesaJuvonen_0-1629736432373.png" >}}
+![VesaJuvonen_0-1629736432373.png](images/VesaJuvonen_0-1629736432373.png)
 We are excited to announce new community contributor program for all the
 active community members. Through this program you can get officially
 acknowledged with the a [Credly
@@ -401,7 +399,7 @@ MVPs.
 
 ### Microsoft Graph Toolkit 
 
-{{< image alt="graph-toolkit.jpg" src="images/graph-toolkit.jpg" >}}
+![graph-toolkit.jpg](images/graph-toolkit.jpg)
 
 Microsoft Graph Toolkit is engineering lead initiative, which works
 closely with the community on the open-source areas. The Microsoft Graph
@@ -428,7 +426,7 @@ latest community contributors.
 
 ### Microsoft 365 Community docs 
 
-{{< image alt="community-dcos.png" src="images/community-dcos.png" >}}
+![community-dcos.png](images/community-dcos.png)
 Community docs model was announced in the April 2020 and it's great to
 see the interest for community to help each other by providing new
 guidance on the non-dev areas. See more on the announcement from the
@@ -456,7 +454,7 @@ detailed.
 
 ### SharePoint Framework development samples 
 
-{{< image alt="spfx-gallery.png" src="images/spfx-gallery.png" >}}
+![spfx-gallery.png](images/spfx-gallery.png)
 
 These are the updated SharePoint Framework samples which are available
 from the different repositories.
@@ -491,16 +489,16 @@ from the different repositories.
 How to find what's relevant for you? Take advantage of our SharePoint
 Framework web part and extension sample galleries - also includes
 solutions which work in Microsoft Teams
--   Web Part sample gallery - <http://aka.ms/spfx-webparts>
--   Extensions sample gallery - <http://aka.ms/spfx-extensions>
+-   Web Part sample gallery - <https://aka.ms/spfx-webparts>
+-   Extensions sample gallery - <https://aka.ms/spfx-extensions>
 -   Viva Connections Adaptive Card samples
-    - [http://aka.ms/spfx-aces](http://aka.ms/spfx-extensions)
+    - [https://aka.ms/spfx-aces](https://aka.ms/spfx-extensions)
 -   Microsoft Teams samples build with SharePoint Framework -
     <https://github.com/pnp/spfx-teams> - These will be relocated soon
 
 ### Microsoft Teams community samples 
 
-{{< image alt="teams-samples-promo.jpg" src="images/teams-samples-promo.jpg" >}}
+![teams-samples-promo.jpg](images/teams-samples-promo.jpg)
 
 These are samples which have been contributed on the community samples
 since last summary. We do welcome all Microsoft Teams samples to this
@@ -518,7 +516,7 @@ and community samples.
 
 ### Power Platform samples 
 
-{{< image alt="power-platform-samples.png" src="images/power-platform-samples.png" >}}
+![power-platform-samples.png](images/power-platform-samples.png)
 
 -   New PowerFX sample
     [table-functions](https://github.com/pnp/powerfx-samples/tree/main/samples/table-functions)
@@ -528,13 +526,12 @@ and community samples.
 -   New Power Apps sample
     [covid-vaccine-survey](https://github.com/pnp/powerapps-samples/tree/main/samples/covid-vaccine-survey)
     by [Siddharth
-    Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0) |
+    Vaghasia](https://twitter.com/siddh_me) |
     @siddh_me, that enables companies to collect surveys (data) on the
     vaccination status of their employees
 -   New Power Automate
     sample [new-employee-tip-of-the-day](https://github.com/pnp/powerautomate-samples/tree/main/samples/new-employee-tip-of-the-day)
-    by [Adam
-    Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ou1UssfsX%2FGuAkrYEi0B7XnbGHgC669zrH3vjq%2FBJdw%3D&reserved=0)
+    by https://twitter.com/Adam2585878
     (Hitachi Energy) | @Adam2585878 that improves onboarding
     experience
 
@@ -550,7 +547,7 @@ help.
 
 ### Microsoft 365 Script Samples 
 
-{{< image alt="script-gallery.png" src="images/script-gallery.png" >}}
+![script-gallery.png](images/script-gallery.png)
 
 
 We have released new Microsoft 365 Script Sample gallery within past
@@ -561,63 +558,63 @@ Here are the latest updates on the Script Samples
 
 -     New [Inventory Guest Sign-In Activity with CLI for M365 and
     Microsoft
-    Graph](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Faad-guest-signin-activity%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=avLWXCtsqn4G3fMH99RvDH7z8x1LAE89iDX8yxEx1XU%3D&reserved=0)
+    Graph](https://pnp.github.io/script-samples/aad-guest-signin-activity/README.html?tabs=cli-m365-ps)
     by [Pete
-    Skelly](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fpskelly&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Vk4sclj2zXJ4XqsL6eW5rqYWMo%2F9KynF6LikRWIUjZc%3D&reserved=0)
+    Skelly](https://twitter.com/pskelly)
     (ThreeWill, LLC) | @pskelly
 -     New [List guests within Teams in a
-    tenant](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fteams-list-guestusers%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=xSTMQCM9B%2B%2Fd5iXK0wnx9X0lBzykW6hYKvj07LRhtFA%3D&reserved=0)
+    tenant](https://pnp.github.io/script-samples/teams-list-guestusers/README.html?tabs=teamsps)
     by [Jiten
-    Palmer](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FJitenpa44241205&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=lBNZlxs9k66gtp%2FMCvfnBrVDXXxfk5vT8KErtzvdUtA%3D&reserved=0)
+    Palmer](https://twitter.com/Jitenpa44241205)
     | @Jitenpa44241205
 -     New [Add Large List items to PnP
-    Template](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-large-list-items-to-pnp-template%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=RdrITG9NMgoh7x3Me3UU3THviElqesHWj3HhjOmjwlE%3D&reserved=0)
+    Template](https://pnp.github.io/script-samples/spo-large-list-items-to-pnp-template/README.html?tabs=pnpps)
     by [Jiten
-    Palmer](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FJitenpa44241205&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=lBNZlxs9k66gtp%2FMCvfnBrVDXXxfk5vT8KErtzvdUtA%3D&reserved=0)
+    Palmer](https://twitter.com/Jitenpa44241205)
     | @Jitenpa44241205
 -     New [Collect and export Teams
-    templates](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fteams-get-templates%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=XKerLkgXTNeiUiWYn%2BLqN9ig4Dw%2FhMldo0JM1CFdw8c%3D&reserved=0)
+    templates](https://pnp.github.io/script-samples/teams-get-templates/README.html?tabs=pnpps)
     by [Rodrigo
-    Pinto](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Edmi%2BUNLTf3vX5Mam5M41pfsND64ZKWPsRaWv9W4UtY%3D&reserved=0)
+    Pinto](https://twitter.com/ScoutmanPt)
     (Storm Technology) | @ScoutmanPt
--     Updated [Improved reporting\\performance on clone team
-    operation](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fteams-clone-team%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Uoj6C8Bbv%2FNLufPT0O5o12fAuhMaZ0QTaI99PcBWyi4%3D&reserved=0)
+-     Updated [Improved reporting performance on clone team
+    operation](https://pnp.github.io/script-samples/teams-clone-team/README.html?tabs=pnpps)
     by [Rodrigo
-    Pinto](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Edmi%2BUNLTf3vX5Mam5M41pfsND64ZKWPsRaWv9W4UtY%3D&reserved=0)
+    Pinto](https://twitter.com/ScoutmanPt)
     (Storm Technology) | @ScoutmanPt
 -     New [Create a Teams based on a existing team
-    template](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fteams-createteam-from-template%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Wli3sulZwx%2FE6bK07XWRPx9finE0ED6q2ay3rL4k%2B4k%3D&reserved=0)
+    template](https://pnp.github.io/script-samples/teams-createteam-from-template/README.html?tabs=pnpps)
     by [Rodrigo
-    Pinto](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Edmi%2BUNLTf3vX5Mam5M41pfsND64ZKWPsRaWv9W4UtY%3D&reserved=0)
+    Pinto](hhttps://twitter.com/ScoutmanPt)
     (Storm Technology) | @ScoutmanPt
 -     New [Delete a library exceeding the list threshold
-    limit](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-remove-large-library%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=0hUAa2ekszwOD1Q91yEhJlk9BCjRYoin2UN9kXDa1gs%3D&reserved=0)
+    limit](https://pnp.github.io/script-samples/spo-remove-large-library/README.html?tabs=pnpps)
     by [Reshmee
-    Auckloo](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Freshmeeauckloo&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=in3S5RcPERF6IZrE7fGyTyV2X1lssMlgGvVJI7%2FwnUk%3D&reserved=0)
+    Auckloo](https://twitter.com/reshmeeauckloo)
     | @reshmeeauckloo
 -     New [Create bulk dummy documents, including minor/major versions,
     in SharePoint Document
-    library](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fcreate-dummy-docs-versions-in-library%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=TL%2Bl2D%2BxGd9dKAegejDX0q4ARetQfSZlh7vJy1105Tw%3D&reserved=0)
+    library](https://pnp.github.io/script-samples/create-dummy-docs-versions-in-library/README.html?tabs=pnpps)
     by [Kasper Bo
-    Larsen](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkasperbolarsen&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=dzrGKhGFEkvZBkY%2FkvxtPp1hNnk66cwb2Cpk26WQ%2F%2BI%3D&reserved=0)
+    Larsen](https://twitter.com/kasperbolarsen)
     (Fellowmind Denmark) | @kasperbolarsen
 -     New [Export a csv report on all Microsoft Stream
-    videos](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fstream-report-videos%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=r6fp2PniZDeNReHdJP6AwrFJC6WTVZaGT4xL2VKNN0E%3D&reserved=0)
+    videos](https://pnp.github.io/script-samples/stream-report-videos/README.html?tabs=pnpps)
     by [Rodrigo
-    Pinto](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Edmi%2BUNLTf3vX5Mam5M41pfsND64ZKWPsRaWv9W4UtY%3D&reserved=0)
+    Pinto](https://twitter.com/ScoutmanPt)
     (Storm Technology) | @ScoutmanPt
 -     New [Run jobs in parallel using ForEach-Object -Parallel to
     iterate SharePoint site
-    collections](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-run-jobs-in-parallel%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=kBxOklf2vKTPGNpBH16JSmJ%2BxoCI3GndbB%2F1Y0FtKGw%3D&reserved=0)
+    collections](https://pnp.github.io/script-samples/spo-run-jobs-in-parallel/README.html?tabs=pnpps)
     by [Kasper Bo
-    Larsen](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkasperbolarsen&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=dzrGKhGFEkvZBkY%2FkvxtPp1hNnk66cwb2Cpk26WQ%2F%2BI%3D&reserved=0)
+    Larsen](https://twitter.com/kasperbolarsen)
     (Fellowmind Denmark) | @kasperbolarsen
 If you have any existing scripts which you'd be willing to share with
 others - please submit a pull request or contact the PnP team members to
 get started on getting more closely involved on this initiative. 
 -   Microsoft 365 Script Samples - <https://aka.ms/script-samples>
 **Independent Connectors Program**
-{{< image alt="independent-connectors.png" src="images/independent-connectors.png" >}}
+![independent-connectors.png](images/independent-connectors.png)
 Microsoft Power Platform comes with a huge variety of already built-in
 connectors and also provides you with the ability of creating your own
 custom connectors. As of July 2021, anyone can submit the connectors
@@ -765,7 +762,7 @@ These are the latest connectors: 
 ### Sharing is Caring initiative 
 
 
-{{< image alt="sharing-is-caring-promo-1024x576.png" src="images/sharing-is-caring-promo-1024x576.png" >}}
+![sharing-is-caring-promo-1024x576.png](images/sharing-is-caring-promo-1024x576.png)
 The "Sharing Is Caring" imitative is targeted for learning the basics
 around making changes in Microsoft Docs, in GitHub, submitting pull
 requests to the PnP repositories and in GitHub in general. Take
@@ -774,7 +771,7 @@ contribute to docs or to open-source solutions. Everyone is welcome to
 learn how to get started on contributing to open-source docs or code!
 
 -   See more from the [guidance
-    documentation](http://aka.ms/sharing-is-caring) - including all
+    documentation](https://aka.ms/sharing-is-caring) - including all
     upcoming instructor lead sessions which you can participate!
 
 ### ✍ Different Microsoft 365 related open-source initiatives build together with the community
@@ -848,7 +845,7 @@ involved!
     <https://aka.ms/pnp-search>.
 -   **Modernization tooling** - All tools and guidance on helping you to
     transform you SharePoint to modern experiences from
-    <http://aka.ms/sppnp-modernize>.
+    <https://aka.ms/sppnp-modernize>.
 -   **SharePoint Starter Kit v2** - Building modern experiences with
     Microsoft Teams flavors for SharePoint Online and SharePoint 2019 -
     reference solution in
@@ -887,7 +884,7 @@ the related documentation sets and repositories as listed below:
 ### Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
 
 You can find all Microsoft 365 related videos on our YouTube Channel at
-[http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos) or at
+[https://aka.ms/m365pnp/videos](https://aka.ms/m365pnp-videos) or at
 [Microsoft 365
 Dev](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ). These
 channels contains already a significant amount of detailed training
@@ -1058,7 +1055,7 @@ please let us know.
     Jwaegebaert
 
 -   [Jiten
-    Palmer](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FJitenpa44241205&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=lBNZlxs9k66gtp%2FMCvfnBrVDXXxfk5vT8KErtzvdUtA%3D&reserved=0) |
+    Palmer](https://twitter.com/Jitenpa44241205) |
     @Jitenpa44241205
 
 -   [João Ferreira](https://twitter.com/Joao12Ferreira) |
@@ -1077,7 +1074,7 @@ please let us know.
     | @jfj1997
 
 -   [Kasper Bo
-    Larsen](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkasperbolarsen&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=8jcXC26PxWaLGQXyujuV7zdZM%2FZp3lqjvVnRuNT2%2FPs%3D&reserved=0)
+    Larsen](https://twitter.com/kasperbolarsen)
     (Fellowmind Denmark) | @kasperbolarsen
 
 -   [Kathleen Boilek](https://www.twitter.com/kaboilek) (Alaka'ina
@@ -1156,7 +1153,7 @@ please let us know.
     @bigpix2000
 
 -   [Reshmee
-    Auckloo](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Freshmeeauckloo&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=in3S5RcPERF6IZrE7fGyTyV2X1lssMlgGvVJI7%2FwnUk%3D&reserved=0)
+    Auckloo](https://twitter.com/reshmeeauckloo)
     | @reshmeeauckloo
 
 -   [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive)
@@ -1165,7 +1162,7 @@ please let us know.
 -   [Robert Dyjas](https://twitter.com/robdyy) (EQTek) | @Robdy
 
 -   [Rodrigo
-    Pinto](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FScoutmanPt&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7C2b794c58d24945ba79e608d9d43d0548%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637774180811665554%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Edmi%2BUNLTf3vX5Mam5M41pfsND64ZKWPsRaWv9W4UtY%3D&reserved=0)
+    Pinto](https://twitter.com/ScoutmanPt)
     (Storm Technology) | @ScoutmanPt
 
 -   [Russell Gove](https://www.twitter.com/russgove) (tronox) |
@@ -1215,7 +1212,7 @@ their logos and approval to show them in time for these communications.
 If you still want your logo for this month's release, please let us
 know and share the logo with us. Thx.
 
-{{< image alt="pnp-companies-january-2022.png" src="images/pnp-companies-january-2022.png" >}}
+![pnp-companies-january-2022.png](images/pnp-companies-january-2022.png)
 
 -   [Addin365](https://www.addin365.com/)
 -   [Arvo Systems](https://www.arvosys.com/)
@@ -1283,7 +1280,7 @@ closely involved with the PnP work during last month.
 -   [Ed Averett](https://twitter.com/Ed_Averett) | @Ed_Averett
 -   Emily Lynam (Microsoft)
 -   Elizabeth Samuel
-    - [ElizabethSamuel-MSFT](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FElizabethSamuel-MSFT&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158426857%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=36jxGazKZR9TtD7Xt3E%2BqS8s0%2BcxsCPrZ6mZc2Khkog%3D&reserved=0)
+    - [ElizabethSamuel-MSFT](https://twitter.com/ElizabethSamuel-MSFT)
 -   [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft)
     | @garrytrinder
 -   [Haimantika Mitra](https://twitter.com/HaimantikaM) (Microsoft) |
@@ -1305,7 +1302,7 @@ closely involved with the PnP work during last month.
 -   Kevin Coughlin
     - [@kevintcoughlin](https://twitter.com/kevintcoughlin)
 -   Keyur Patel
-    - [keyur32](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fkeyur32&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wuL4ROZqAuJ2N6DosAfpyX5lO4BQorlpntSxHphncpA%3D&reserved=0)
+    - [keyur32](https://github.com/keyur32)
 -   [Koen Zomers](https://twitter.com/koenzomers) | @koenzomers
 -   Holland Kaviani - [Holland-ODSP](https://github.com/Holland-ODSP)
 -   Laura Graham - [Lauragra](https://github.com/Lauragra)
@@ -1340,7 +1337,7 @@ closely involved with the PnP work during last month.
 -   [Richard Astbury](https://twitter.com/richorama) (Microsoft) |
     @richorama
 -   Rick
-    Kirkham | [Rick-Kirkham](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FRick-Kirkham&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=dxJSOcjYFcyHpZgsHFjTJ5dUvNhwOH7dUiSV06GC7P8%3D&reserved=0)
+    Kirkham | [Rick-Kirkham](https://github.com/Rick-Kirkham)
 -   [Roy Paar](https://www.linkedin.com/in/roypaar/)
 -   [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) 
 -   Sam Larson | [salarson](https://github.com/salarson)
@@ -1349,7 +1346,7 @@ closely involved with the PnP work during last month.
 -   [Sébastien
     Levert](https://twitter.com/sebastienlevert) | @sebastienlevert
 -   [Srinivas
-    Varukala](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsvarukala&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=hB1N9L15hhOUOVPXd%2FuYCG8sPJP0HinF1fADwf0YOCk%3D&reserved=0) (Microsoft)
+    Varukala](https://twitter.com/svarukala) (Microsoft)
     | @svarukala
 -   [Steven Jia](https://github.com/Steven-Jia) | Steven-Jia
 -   Shubham Gatkal (Microsoft)

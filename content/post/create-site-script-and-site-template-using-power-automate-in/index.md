@@ -6,7 +6,7 @@ githubname: dips365
 categories: ["Community post"]
 images:
 - images/Flow2.jpg
-tags: []
+tags: ["Power Automate", "SharePoint"]
 type: "regular"
 ---
 
@@ -53,7 +53,7 @@ Let's get started.
 You need to create JSON files in specific formats to implement
 SharePoint artifacts in SharePoint Site.
 Available Action includes.
-{{< image alt="Site Script and Site Template In Power Automate.png" src="images/Site Script and Site Template In Power Automate.png" >}}
+![Site Script and Site Template In Power Automate.png](images/Site Script and Site Template In Power Automate.png)
  
 ```json
 {
@@ -98,16 +98,16 @@ on Power automate.
 Select  "New Flow" and Select "Instant Cloud Flow"
 Select "Manually Trigger Flow" and Add Name "Create-SiteTemplate-Flow"
 Select  Create Button.
-{{< image alt="Site Script and Site Template In Power Automate11.jpg" src="images/Site Script and Site Template In Power Automate11.jpg" >}}
+![Site Script and Site Template In Power Automate11.jpg](images/Site Script and Site Template In Power Automate11.jpg)
  
 ### Create Site Script using REST Call in Power Automate
 
 Initialize variable in power automat to store JSON config.
-{{< image alt="Flow2.jpg" src="images/Flow2.jpg" >}}
+![Flow2.jpg](images/Flow2.jpg)
 
 Select "Send an HTTP request to SharePoint" from the list of actions.
 
-{{< image alt="Flow3.jpg" src="images/Flow3.jpg" >}}
+![Flow3.jpg](images/Flow3.jpg)
  
 **Parameters**
 Site Address - You can select any site Address either it's root or not\
@@ -133,12 +133,12 @@ Script Title Name>')
 Initialized before this action.
 Get Create Script ID and store it in Variable\
 \
-{{< image alt="Dips365_1-1630571668730.png" src="images/Dips365_1-1630571668730.png" >}}
+![Dips365_1-1630571668730.png](images/Dips365_1-1630571668730.png)
 
 
 ### Create Site Template using REST Call in Power Automate
 
-{{< image alt="Dips365_0-1630571387332.png" src="images/Dips365_0-1630571387332.png" >}}
+![Dips365_0-1630571387332.png](images/Dips365_0-1630571387332.png)
 
 **Parameters**
 Site Address - You can select any site Address either it's root or not\
@@ -171,9 +171,9 @@ Url -
 ```
 
 The flow looks like as below\
-{{< image alt="Flow6.jpg" src="images/Flow6.jpg" >}}
+![Flow6.jpg](images/Flow6.jpg)
 **Output**
 Select  the "gear" Icon in SharePoint Site.
 Select  "Apply a site template".
-{{< image alt="Site Script and Site Template In Power Automate7.gif" src="images/Site Script and Site Template In Power Automate7.gif" >}}
+![Site Script and Site Template In Power Automate7.gif](images/Site Script and Site Template In Power Automate7.gif)
  

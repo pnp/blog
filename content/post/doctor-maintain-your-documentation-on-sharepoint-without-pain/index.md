@@ -7,7 +7,7 @@ githubname: estruyf
 categories: ["Community post"]
 images:
 - images/doctor1.png
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 
@@ -87,7 +87,7 @@ this process, it does the following:
     add it
 -   Update the Markdown from the current page to the web part
  
-{{< image alt="doctor1.png" src="images/doctor1.png" >}}
+![doctor1.png](images/doctor1.png)
  
 The process is straightforward but so powerful.
  
@@ -127,7 +127,7 @@ To make your start as easy as possible, I shared a sample repository for
 you to use: [doctor sample](https://github.com/estruyf/doctor-sample).
 Clone it, and get started.
  
-{{< image alt="doctor2.png" src="images/doctor2.png" >}}
+![doctor2.png](images/doctor2.png)
  
 ## What do you think? 
  

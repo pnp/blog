@@ -6,7 +6,7 @@ githubname: Tbag
 categories: ["Power Apps community call"]
 images:
 - images/PowerApps Thumb February 2022.png
-tags: [ "Extensions", "Microsoft 365", "Power Apps"]
+tags: [ "SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
 summary: "Topics covered in this month’s community call includes 2 demos:  Make your wishes come true with Power Apps (Good Deeds App - 3 Lists, 3 E-mail addresses and 2 Flows) - Pranav Khurana and Spice up your Power Apps with SVGs (options - ranging from static to interactive - for adding SVG graphics with little code to your Power Apps) - Robin Rosengrün  (EnBW).  Recent Power Apps News and Community Contributions (Power Apps and Power Apps Portals code releases and new Dataverse auditing features) – Todd Baginski (Canviz).   ACTION:  Please vote on What to call this call?   This call was hosted by Todd Baginski (Canviz). The call was recorded on February 16, 2022.  Questions addressed in chat throughout the call."
 videos:
@@ -33,10 +33,10 @@ Topics covered in this month’s community call includes 2 demos:  **Make your 
 
 ## Recent News & Cool Stuff
 
-*   [Power Apps 2022 April Release Wave 1 updates for Model-driven apps!](https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-2022-april-release-wave-1-updates-for-model-driven-apps)
-*   [General Availability (GA) of Power Apps portals as mobile apps](https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps)
-*   [General Availability (GA) of code components for portals](https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-code-components-for-portals)
-*   [New Dataverse auditing features – granular and powerful – 100,000 days!](https://powerapps.microsoft.com/en-us/blog/announcing-new-dataverse-auditing-features)
+*   [Power Apps 2022 April Release Wave 1 updates for Model-driven apps!](https://powerapps.microsoft.com/blog/try-out-the-power-apps-2022-april-release-wave-1-updates-for-model-driven-apps)
+*   [General Availability (GA) of Power Apps portals as mobile apps](https://powerapps.microsoft.com/blog/announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps)
+*   [General Availability (GA) of code components for portals](https://powerapps.microsoft.com/blog/announcing-general-availability-ga-of-code-components-for-portals)
+*   [New Dataverse auditing features – granular and powerful – 100,000 days!](https://powerapps.microsoft.com/blog/announcing-new-dataverse-auditing-features)
 
 ## Actions
 

@@ -6,7 +6,7 @@ githubname: CameronDwyer
 categories: ["Community post"]
 images:
 - images/image.png
-tags: []
+tags: ["Microsoft Graph"]
 type: "regular"
 ---
 
@@ -29,20 +29,20 @@ SharePoint (`/sites`)
 `https://graph.microsoft.com/v1.0/sites/root/drives?test429=true`
  
 
-{{< image alt="image" src="images/image.png" >}}
+![image](images/image.png)
 
 SharePoint List Items
 
 `https://graph.microsoft.com/v1.0/sites/root/lists/{listid}/items?test429=true`
  
-{{< image alt="Graph Explorer" src="images/image-2.png" >}}
+![Graph Explorer](images/image-2.png)
 
 OneDrive (`/drive`)
 
 `https://graph.microsoft.com/v1.0/me/drive/root/children?test429=true`
  
 
-{{< image alt="image-1" src="images/image-1.png" >}}
+![image-1](images/image-1.png)
  
 Look at those beautiful 429 responses that I no longer have to intercept and hand craft. Now what would be amazing is if the Graph API standardized on this and gave us a way via parameters (or headers) to ask the Graph to respond with all the different types of errors that were possible so we could write and test code that was truly resilient and not just "theoretically" resilient until we hit an actual error one day in production and get a response that was a little different to what we were expecting.
 

@@ -5,7 +5,7 @@ author: "Michael Maillot"
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["PnP PowerShell"]
 type: "regular"
 ---
 
@@ -143,7 +143,7 @@ Once done, stay on the AAD Application page and go to **Certificates�
 
 
 \
-{{< image alt="aad-certificate.png" src="images/aad-certificate.png" >}}\
+![aad-certificate.png](images/aad-certificate.png)\
 
 ## Authenticate to SharePoint & Update list item 
 

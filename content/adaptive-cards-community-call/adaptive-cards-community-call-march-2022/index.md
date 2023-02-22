@@ -7,7 +7,7 @@ githubname: JeanRoca
 categories: ["Adaptive Cards community call"]
 images:
 - images/adaptive-cards-March Thumb.png
-tags: ["Adaptive Cards", "Community Call","Extensions", "Microsoft 365"]
+tags: ["Adaptive Cards", "Community Call","SPFx Extensions", "Microsoft 365"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=k5kNBgevDBM
@@ -36,7 +36,7 @@ The following topics are covered in this month’s community call.  Demo:  **A
 *   **D1**:  SPFx Controls - [Adaptive Card Host](https://pnp.github.io/sp-dev-fx-controls-react/controls/AdaptiveCardHost/) 
 *   **D1**:  SPFx Samples - [SharePoint Framework Client-Side Web Part Samples](https://pnp.github.io/sp-dev-fx-webparts/) (Demo will be posted here when complete) 
 *   **D2**:  [Nightly build for Adaptive Cards Designer with Device Emulator](https://adaptivecardsci.z5.web.core.windows.net/designer) 
-*   Power Automate for Desktop Announcement - [https://powerautomate.microsoft.com/en-us/blog/power-automate-for-desktop-february-2022-update/](https://powerautomate.microsoft.com/en-us/blog/power-automate-for-desktop-february-2022-update/)
+*   Power Automate for Desktop Announcement - [https://powerautomate.microsoft.com/blog/power-automate-for-desktop-february-2022-update/](https://powerautomate.microsoft.com/blog/power-automate-for-desktop-february-2022-update/)
 *   The latest Fluent React v9 here - [fluentui/packages/react-components at master · microsoft/fluentui (github.com)](https://github.com/microsoft/fluentui/tree/master/packages/react-components#readme)
 
 ## Actions 

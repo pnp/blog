@@ -7,7 +7,7 @@ githubname: "siddharth-vaghasia"
 categories: []
 images:
 - images/img_61d1fb4343467.png
-tags: ["Adaptive Card Extensions", "API data","SharePoint Framework (SPFx)"]
+tags: ["SPFx Adaptive Card Extensions", "SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -40,11 +40,11 @@ yo @microsoft/sharepoint
 
 We will be asked a series of questions, you can choose/enter below for our sample
 
-{{< image alt="thumbnail image 1 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs) " src="images/img_61d1bb39c2a12.png" >}}
+![thumbnail image 1 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs) ](images/img_61d1bb39c2a12.png)
 
 Once completed you would see below
 
-{{< image alt="thumbnail image 2 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs) " src="images/img_61d1bb5863a19.png" >}}
+![thumbnail image 2 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs) ](images/img_61d1bb5863a19.png)
 
 ## Step – Create Required properties/attributes to handle required state object
 
@@ -98,7 +98,7 @@ Add a new method `getOutlookData` to make Graph API call and set State of `curre
 
 ```typescript
 private getOutlookData(){
-    
+
     this.context.msGraphClientFactory.getClient().then((client: MSGraphClient): void => {
         client.api("/me/mailfolders/Inbox/messages").get((error, messages: any) => {
         console.log(messages);
@@ -184,7 +184,7 @@ public onAction(action: IActionArguments): void {
             break;
         }
         case 'default' : {}
-            
+
         }
     }
     }
@@ -202,8 +202,8 @@ If you notice here
 *   We would be using message object from state to populate the dynamic values…
 *   For user photo, we are using the userphoto.aspx page and passing the sender’s email address. this is one of the way to get photo
 *   We have also added one button in Quick view which will take user to target outlook email link, this we get from webLink property of email object.
-*   To find list of properties returned by the email object, you can refer to this  [link](https://docs.microsoft.com/en-us/graph/api/resources/message?view=graph-rest-1.0#properties)
-    
+*   To find list of properties returned by the email object, you can refer to this  [link](https://docs.microsoft.com/graph/api/resources/message?view=graph-rest-1.0#properties)
+
 ```json
 {
     "type": "AdaptiveCard",
@@ -269,9 +269,9 @@ If you notice here
     "version": "1.3"
 }
 ```
-    
+
 ## Step Modify QuickView to pass the message object from state to Adaptive Card
-    
+
 Go to `src\adaptiveCardExtensions\graphdatademo\quickView\QuickView.ts`
 
 Modify `IQuickViewDate` interface to hold the message object
@@ -316,23 +316,23 @@ Click on Add icon, Click on the graphDataDemo,
 
 We should see something like below
 
-{{< image alt="thumbnail image 3 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs)" src="images/img_61d1fa09cf8c2-768x338.png" >}}
+![thumbnail image 3 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs)](images/img_61d1fa09cf8c2-768x338.png)
 
 Notice here that once you click Next, it loads the next email but it does not show the Prev button, this is because by default the Card Size is set to Medium in ACE properties configuration, click on Edit web part and chase the Card Size to Large
 
-{{< image alt="thumbnail image 4 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs)" src="images/img_61d1fa7f3080a-1024x343.png" >}}
+![thumbnail image 4 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs)](images/img_61d1fa7f3080a-1024x343.png)
 
 Now you should see something like below
 
-{{< image alt="thumbnail image 5 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs) " src="images/img_61d1fabba64be.png" >}}
+![thumbnail image 5 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs) ](images/img_61d1fabba64be.png)
 
 You can use Previous and Next to move around different emails. If you would have noticed we have written logic to handle that previous and next buttons will be visible based on item index and total email counts(by default we will only get 10 from Graph API). You can make this configurable in the property window and use this number to pass to Graph API GraphdatademoAdaptiveCardExtension.tx file
 
 Click on any of the emails and we should see the email detail
 
-{{< image alt="thumbnail image 6 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs) " src="images/img_61d1fb4343467.png" >}}
+![thumbnail image 6 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs) ](images/img_61d1fb4343467.png)
 
-{{< image alt="thumbnail image 7 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs) " src="images/img_61d1fd38e908b.png" >}}
+![thumbnail image 7 of blog post titled How to call and show Graph API data in SPFx Adaptive Card Extensions(ACEs) ](images/img_61d1fd38e908b.png)
 
 That’s it for this article, Hope this helps..!!!
 

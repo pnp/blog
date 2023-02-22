@@ -3,10 +3,10 @@
 <!-- checking blog -->
 {{ if or (eq .Section "post") (eq .Section "microsoft-viva-and-spfx-community-call") (eq .Section
 "cli-for-microsoft-365") (eq .Section "cli-for-microsoft-365") (eq .Section "m365-dev-podcast") (eq .Section
-"microsoft-365-developer-community-call")
+"microsoft-365-and-power-platform-development-community-call")
 (eq .Section "categories") (eq .Section "tags") (eq .Section "adaptive-card-community-call") (eq .Section
 "power-platform-community-call") (eq .Section "microsoft-365-platform-community-update") (eq .Section
-"microsoft-365-pnp-weekly") (eq .Section "m365-pnp-weekly") (eq .Section "adaptive-cards-community-call") (eq .Section "microsoft-365-pnp-community") (eq .Section "office-add-ins-community-call") (eq .Section "microsoft-graph-community-call") (eq .Section "microsoft-identity-platform-community-call") (eq .Section "microsoft-teams-community-call")}}
+"microsoft-365-pnp-weekly") (eq .Section "m365-pnp-weekly") (eq .Section "weekly-agenda") (eq .Section "adaptive-cards-community-call") (eq .Section "microsoft-365-pnp-community") (eq .Section "office-add-ins-community-call") (eq .Section "pnp-core-sdk") (eq .Section "microsoft-graph-community-call") (eq .Section "microsoft-identity-platform-community-call") (eq .Section "microsoft-teams-community-call") }}
 
 <section class="section">
   <div class="py-4"></div>
@@ -18,7 +18,7 @@
 
 <!-- regular page -->
 {{ else }}
-{{ partial "page-header.html" . }}
+{{ partialCached "page-header.html" . }}
 <section class="section-sm">
   <div class="container">
     <div class="row">

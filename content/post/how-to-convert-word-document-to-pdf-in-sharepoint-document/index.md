@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/ChandaniPrajapati_0-1636792320998.png
-tags: []
+tags: ["Power Automate", "SharePoint"]
 type: "regular"
 ---
 
@@ -17,20 +17,20 @@ in SharePoint Document Library using **Power Automate** without using
 any license version.
 Using this method will be a bit lengthy but if we don't have the power
 to automate premium licenses then we can also achieve a solution.
-{{< image alt="Group 1.png" src="images/Group 1.png" >}}
+![Group 1.png](images/Group 1.png)
 
 ## Implementation
  
 1.  Go to **Power Automate** \> **My flows** \> Select  **New flow** \>
 Select **Automated Cloud Flow**
-{{< image alt="ChandaniPrajapati_0-1636792320998.png" src="images/ChandaniPrajapati_0-1636792320998.png" >}}
+![ChandaniPrajapati_0-1636792320998.png](images/ChandaniPrajapati_0-1636792320998.png)
  
 
 2.  It will ask for the flow name and trigger.
 Add flow name and choose a trigger **when a file is created (properties
 only).** A trigger is depending on our business requirement you can also
 choose when a file is created or modified too.
-{{< image alt="ChandaniPrajapati_1-1636792461300.png" src="images/ChandaniPrajapati_1-1636792461300.png" >}}
+![ChandaniPrajapati_1-1636792461300.png](images/ChandaniPrajapati_1-1636792461300.png)
 
 3.  Select  **Create.
 
@@ -38,7 +38,7 @@ choose when a file is created or modified too.
 
 At the end, our flow will be as below,
 
-{{< image alt="ChandaniPrajapati_0-1636793559861.png" src="images/ChandaniPrajapati_0-1636793559861.png" >}}
+![ChandaniPrajapati_0-1636793559861.png](images/ChandaniPrajapati_0-1636793559861.png)
  
 
 Now let's see an implementation.
@@ -49,7 +49,7 @@ Now let's see an implementation.
   **Site Address**   Select Site URL or Add Custom Site URL on which you want to run this flow
   **Library Name**   Select Library Name
   ------------------ ---------------------------------------------------------------------------
-{{< image alt="ChandaniPrajapati_0-1636864104189.png" src="images/ChandaniPrajapati_0-1636864104189.png" >}}
+![ChandaniPrajapati_0-1636864104189.png](images/ChandaniPrajapati_0-1636864104189.png)
 
 ### Get File content 
 
@@ -60,7 +60,7 @@ Now let's see an implementation.
     - **File Identifier** 
   [Select ]
 
-{{< image alt="ChandaniPrajapati_1-1636864275047.png" src="images/ChandaniPrajapati_1-1636864275047.png" >}}
+![ChandaniPrajapati_1-1636864275047.png](images/ChandaniPrajapati_1-1636864275047.png)
 
 ### Create a file to OneDrive 
 
@@ -72,7 +72,7 @@ Now let's see an implementation.
     - **File Content**
     - [Select File Content - which we have created in the previous action]
 
-{{< image alt="ChandaniPrajapati_7-1636864944228.png" src="images/ChandaniPrajapati_7-1636864944228.png" >}}
+![ChandaniPrajapati_7-1636864944228.png](images/ChandaniPrajapati_7-1636864944228.png)
 
 #### Convert file to PDF 
 
@@ -82,7 +82,7 @@ Now let's see an implementation.
   **File**          Select Id [which we have created in the previous action]
   **Target Type**   [Select ]
 
-{{< image alt="ChandaniPrajapati_6-1636864910697.png" src="images/ChandaniPrajapati_6-1636864910697.png" >}}
+![ChandaniPrajapati_6-1636864910697.png](images/ChandaniPrajapati_6-1636864910697.png)
 
 #### Create PDF File to OneDrive 
 
@@ -95,7 +95,7 @@ Now let's see an implementation.
     - **File Content**
   [Select File Content - which we have created in the previous action]
 
-{{< image alt="ChandaniPrajapati_5-1636864879248.png" src="images/ChandaniPrajapati_5-1636864879248.png" >}}
+![ChandaniPrajapati_5-1636864879248.png](images/ChandaniPrajapati_5-1636864879248.png)
 
 ### Create PDF file to Document Library 
 
@@ -109,7 +109,7 @@ Now let's see an implementation.
     - **File Content**
   [Select File Content - which we have created in the previous action]
 
-{{< image alt="ChandaniPrajapati_4-1636864839927.png" src="images/ChandaniPrajapati_4-1636864839927.png" >}}
+![ChandaniPrajapati_4-1636864839927.png](images/ChandaniPrajapati_4-1636864839927.png)
 
 #### Delete word file from OneDrive 
 
@@ -120,7 +120,7 @@ Now let's see an implementation.
   **Id**           Select eDrive word file ID
   ---------------- ------------------------------
 
-{{< image alt="ChandaniPrajapati_3-1636864760614.png" src="images/ChandaniPrajapati_3-1636864760614.png" >}}
+![ChandaniPrajapati_3-1636864760614.png](images/ChandaniPrajapati_3-1636864760614.png)
 
 ### Delete PDF file from OneDrive 
 
@@ -135,7 +135,7 @@ Now let's see an implementation.
 
 ## Output 
 
-{{< image alt="ChandaniPrajapati_0-1637069155125.png" src="images/ChandaniPrajapati_0-1637069155125.png" >}}
+![ChandaniPrajapati_0-1637069155125.png](images/ChandaniPrajapati_0-1637069155125.png)
  
 
 ## Summary 

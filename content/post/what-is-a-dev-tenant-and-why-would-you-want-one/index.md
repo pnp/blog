@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/SampleData.png
 tags: []
-type: "regular"
+type: regular
 ---
 
 By visiting [Developer Program - Microsoft
@@ -82,7 +82,7 @@ page and select  the kind of data pack you would like to add. You must
 have the "Users" sample data pack first but then you can also add Mail
 and Events as well as SharePoint data.
 
-{{< image alt="SampleData.png" src="images/SampleData.png" >}}
+![SampleData.png](images/SampleData.png)
 
 By having these data packs, it can make testing various scenarios with
 your application significantly simpler as you can have up to twenty-five

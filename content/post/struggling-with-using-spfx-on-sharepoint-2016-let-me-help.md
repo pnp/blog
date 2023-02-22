@@ -29,7 +29,7 @@ limitations with SharePoint 2016 which are more restrictive than
 SharePoint 2019.  In addition, some of the details I provide will be
 specific to my development environment which runs on Windows 10.
 
-## Confused Yet? 
+## Confused Yet?
 
 I think part of the confusion on developing with SPFx on SP2016 is
 because SP2016 hasn't changed in years, but SPFx is constantly
@@ -61,7 +61,7 @@ which is what I used.  But it was the latest at the time of that post. 
 I had trouble with later versions, which it recommended (but did caveat
 that they may not work).  Your mileage may vary.
 
-## Multiple Paths Forward and Limitations 
+## Multiple Paths Forward and Limitations
 
 I definitely recommend checking out the links above to see if they work
 for you.  If they don't, then hopefully the steps I outline below will
@@ -102,7 +102,7 @@ some I know of:
     were introduced in React 16.8.  I'm using React 15.4.2.  This may be
     why some newer Fluent UI controls cannot be used.
 
-## Prerequisites 
+## Prerequisites
 
 Regardless of the approach you take, everyone appears to agree on the
 prerequisites:
@@ -112,7 +112,7 @@ prerequisites:
 
 To check to see if Feature Pack 2 is installed, I went to [Feature Pack
 2 Required to Install ShortPoint SPFx on SharePoint 2016
-On-premise](https://support.shortpoint.com/support/solutions/articles/1000272505-feature-pack-2-required-to-install-shortpoint-spfx-on-sharepoint-2016-on-premise). 
+On-premise](https://support.shortpoint.com/support/solutions/articles/1000181281-shortpoint-farm-solution-installation-and-upgrade-sharepoint-on-premise-2013-and-2016). 
 There may be better articles out there.  Two key parts of this that
 helped me were:
 
@@ -123,7 +123,7 @@ helped me were:
     with a status of Installed.  If not, you'll need to install Feature
     Pack 2 as the link above describes.
 
-## Node v8.17.0 (Recommended: Install NVM for Windows) 
+## Node v8.17.0 (Recommended: Install NVM for Windows)
 
 If you're developing SPFx for SharePoint Online or SharePoint 2019 in
 the same development environment, you'll need to maintain multiple
@@ -152,7 +152,7 @@ installed node directly, you can check the version using: 
 node -v
 ```
  
-## Install NPM Packages 
+## Install NPM Packages
 
 Before installing other packages, I wanted to check on the version of
 npm.  I did this with: 
@@ -186,7 +186,7 @@ Regarding v1.9.1 of generator-sharepoint, it could be that a later
 version works for you.  This worked for me and v1.12.0 did not work for
 me.  Maybe something in between is a better choice.
 
-## Generate Your Project 
+## Generate Your Project
 
 This is old hat for many, but for those not used to it, I'll spell out
 some details...
@@ -215,7 +215,7 @@ Then you answer several questions.  Here are some example answers:
 |What is your Web part (on-prem) description?|A sample web part|
 |Which framework would you like to use?|React|
 
-## Test Your Project in the SharePoint Workbench 
+## Test Your Project in the SharePoint Workbench
 
 Even though you haven't done much yet, your project should run.  To run
 the workbench you would normally do a "gulp serve", but since we're
@@ -231,7 +231,7 @@ Note that the command above looks a little different when run on a Mac.
 From the resulting web page that pops up, you should be able to see your
 web part and edit the web part property.
 
-## Minor Cleanup 
+## Minor Cleanup
 
 The yeoman generator does a great job, but it does make some assumptions
 that aren't ideal.  One is the solution name could be friendlier.  This
@@ -271,7 +271,7 @@ groupId.
         "group": { "default": "Other" },
 ```
 
-## Dev Test / Deploy 
+## Dev Test / Deploy
 
 If your dev environment has access to the SharePoint 2016 server, you
 can use the following steps:
@@ -310,7 +310,7 @@ can use the following steps:
 
 -   Verify that your web part works.
 
-## Test a Minor Change 
+## Test a Minor Change
 
 With all of the potential problems around versioning of dependencies,
 it's a good idea to take small steps.  Let's start with a small
@@ -324,7 +324,7 @@ need to wait a few seconds and refresh your web page from the previous
 section.  There is no need to re-deploy the sppkg file for simple code
 changes.
 
-## Incorporate Office Fabric 
+## Incorporate Office Fabric
 
 The yeoman generator does not have Office Fabric as part of it.  Here we
 add that and do a small test that uses it:
@@ -387,7 +387,7 @@ add that and do a small test that uses it:
 
 - Refresh your page with the web part on it
 
-## Test a Production (Ship) Build -- First Time 
+## Test a Production (Ship) Build -- First Time
 
 So far the only tests we have done above are running from localhost and
 not running from SharePoint.  To have them run from SharePoint, you need
@@ -478,7 +478,7 @@ SharePoint and not localhost:
 -   Note: to go back to a dev build, you don't have to change
     write-manifest.json again (see the next two sections for what to do)
 
-## Subsequent Production (Ship) Build Tests 
+## Subsequent Production (Ship) Build Tests
 
 The section above described what to do the first time you deploy
 everything to SharePoint.  Here are the steps for any other times you
@@ -509,7 +509,7 @@ deploy to SharePoint:
     try using dev tools in your browser to see if there are network
     errors accessing files from the CDN
 
-## Subsequent Dev Tests 
+## Subsequent Dev Tests
 
 For most dev changes, the process is simple.  If you are already running
 gulp serve and didn't do a production/ship build recently, the process
@@ -543,7 +543,7 @@ instead:
 
 -   Refresh your page with the web part on it
 
-## Check package-lock.json On Every npm install 
+## Check package-lock.json On Every npm install
 
 Unfortunately, there is an issue with the SPFx TypeScript version which
 requires you to do something you aren't supposed to do: manually update
@@ -558,7 +558,7 @@ version of your build after doing an npm install.  Make sure you are
 using version control for your code and review your package-lock.json
 for changes every time you checkin changes.
 
-## Don't Be Tempted to Use a Later Version of Microsoft or PnP 
+## Don't Be Tempted to Use a Later Version of Microsoft or PnP
 
 If you look at your package.json file, the dependencies section, might
 look like this:
@@ -601,15 +601,15 @@ part says "Manifest not found", after updating from 1.1.0 to 1.
 Note that you might want to remove the "\~" and "" from some of those
 versions to make sure the version matches exactly (and doesn't use an
 [approximate equivalent
-version](https://docs.npmjs.com/cli/v7/using-npm/semver#tilde-ranges-123-12-1)
-or [compatible with
-version](https://docs.npmjs.com/cli/v7/using-npm/semver#caret-ranges-123-025-004)).
+version](https://docs.npmjs.com/about-semantic-versioning)
+or compatible with
+version.
 If you ever have to revert package.json and package-lock.json, the
 easiest way to get back where you were after you revert is to delete
 your node_modules folder, do an npm install, and then fix your
 package-lock.json as discussed in the previous section.
 
-## No SharePoint Server Access from Dev? 
+## No SharePoint Server Access from Dev?
 
 If this is the case for you, I'd like to say this is not really a
 problem, but it will be pretty painful.  If possible, I recommend
@@ -627,7 +627,7 @@ If you put the source map with the rest of the source (in Azure blob or
 SharePoint Site Assets) you won't need to manually add the source map
 to your browser.
 
-## TSLint Changes 
+## TSLint Changes
 
 As you start adding more of your own code, you may start seeing
 [TSLint](https://www.npmjs.com/package/tslint) warnings.  It can be
@@ -685,7 +685,7 @@ enact several rules within my code including:
     /* tslint:disable-next-line:semicolon */​
     ```
 
-## Summary 
+## Summary
 
 Well, if you made it this far, I applaud you -- and am a little
 surprised.  I don't tend to write blog posts that are this long, but I

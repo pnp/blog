@@ -6,7 +6,7 @@ githubname: DamoBird365
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 
@@ -22,20 +22,20 @@ this one.
 
 **Want to test your Power Automate knowledge?   [Click
 Here](https://forms.office.com/pages/responsepage.aspx?id=0QHJFmOXsUmWHGzXAfXQ92JiZGxvT_tLiMeGs9ElLKxUQ1RRWFpGSEtVTjFDQ0QwNU1FUlkzSDlKMC4u)**
-{{< image alt="DamoBird365_0-1619726369840.png" src="images/DamoBird365_0-1619726369840.png" >}}
+![DamoBird365_0-1619726369840.png](images/DamoBird365_0-1619726369840.png)
 
 For the **first flow** of **two**, using Microsoft Forms and Power
 Automate I have built a pretty standard process.  The user completes the
 quiz, the form gives them feedback on how well they have done and I
 capture the answers to a SharePoint List - seen below.
-{{< image alt="DamoBird365_0-1619730541847.png" src="images/DamoBird365_0-1619730541847.png" >}}
+![DamoBird365_0-1619730541847.png](images/DamoBird365_0-1619730541847.png)
  
 
 I use the **when a new \[form\] response is submitted** trigger and
 during the next couple of actions I calculate their score again (based
 on their answers) as the score is not passed back to the Cloud Flow via
 the Response Body.
-{{< image alt="DamoBird365_1-1619726475005.png" src="images/DamoBird365_1-1619726475005.png" >}}
+![DamoBird365_1-1619726475005.png](images/DamoBird365_1-1619726475005.png)
 
 **What's the Score?**
 
@@ -47,7 +47,7 @@ This will leave me with an array of true values.  During the create item
 score field and tweet action, I use the **length()** expression (i.e.
 length of array from 10 possible true answers) to return the number of
 answers equaling true and multiply by 10 to get the percentage correct.
-{{< image alt="DamoBird365_2-1619726584442.png" src="images/DamoBird365_2-1619726584442.png" >}}
+![DamoBird365_2-1619726584442.png](images/DamoBird365_2-1619726584442.png)
 
 The final stage of this flow is a **condition **where I check to see if
 the user has supplied a twitter handle.  If it's not empty I tweet out
@@ -68,14 +68,14 @@ second.  The end user loading the website almost doesn't know it's
 happening, albeit there is a slight delay for the flow to run, i'll
 admit. *Did you notice the delay in this page loading?*
 
-{{< image alt="DamoBird365_3-1619727062254.png" src="images/DamoBird365_3-1619727062254.png" >}}
+![DamoBird365_3-1619727062254.png](images/DamoBird365_3-1619727062254.png)
 
 The reponse to the embedded IFrame on my Blog and indeed this article
 which is simply calling the url provided by the HTTP Request trigger is
 an HTML table.  I create the table header and then using the select
 action body, I use the **join()** expression to join the elements of the
 array with '' into a string and complete the HTML table.
-{{< image alt="DamoBird365_4-1619727245209.png" src="images/DamoBird365_4-1619727245209.png" >}}
+![DamoBird365_4-1619727245209.png](images/DamoBird365_4-1619727245209.png)
 I'm not a web developer and I am sure that there will be slicker ways
 to embed the results of the http response into your site and for that I
 would be grateful to hear from those with experience but what do you

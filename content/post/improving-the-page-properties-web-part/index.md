@@ -6,7 +6,7 @@ githubname: mhomol
 categories: ["Community post"]
 images:
 - images/diff-screencap.png
-tags: []
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -31,7 +31,7 @@ it and build a new version of this web part. So with this in mind,
 let's lay out our goals with this new web part. We will call it the
 Advanced Page Properties web part. 
 
-## Feature Goals 
+## Feature Goals
 
 Attempt to replicate the functionality of Page Properties with the
 following improvements:
@@ -45,9 +45,9 @@ following improvements:
 
 In other words, we're shooting for this:
 
-{{< image alt="Screen Shot 2021-04-06 at 2.40.56 PM.png" src="images/Screen Shot 2021-04-06 at 2.40.56 PM.png" >}}
+![Screen Shot 2021-04-06 at 2.40.56 PM.png](images/Screen Shot 2021-04-06 at 2.40.56 PM.png)
 
-## Property Pane 
+## Property Pane
 
 For a part like this, it's all about getting the property page figured
 out first. We want this to feel familiar too and not stray too much from
@@ -195,7 +195,7 @@ pane with all it's needed functionality.
   }
 ```
 
-## Our Component and Displaying our fields/values 
+## Our Component and Displaying our fields/values
 
 Our React component needs to properly react to the list of selected
 properties changing. It also needs to react to our theme changing. I
@@ -332,7 +332,7 @@ the array of any need to be done a little differently than the default.
 Our 3 known cases of needing to do something different are
 TaxonomyFieldTypeMulti, MultiChoice and Thumbnail.
 
-## React and Display 
+## React and Display
 
 Our function component returns the following:
 
@@ -473,13 +473,13 @@ capsules for array labels.
 So that's all of the necessary code. Here's what the finished product
 looks like, compared to the original page properties web part.
 
-{{< image alt="diff-screencap" src="images/diff-screencap.png" >}}
+![diff-screencap](images/diff-screencap.png)
 This web part is now officially apart of the [PnP Web Parts repository](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-advanced-page-properties).
 I would love to hear about improvements you'd like to see and obviously
 you are more than welcome to contribute. I already have a bit of a list
 of things I'd love to see it do. 
 
-## Other ideas for improvements 
+## Other ideas for improvements
 
 -   Capsules to be linkable to either a search result page or a filtered
     view of site pages (we always get client requests for this)
@@ -490,7 +490,7 @@ of things I'd love to see it do. 
 -   Styling per property (i.e. colorizing per property or something to
     that effect)
 
-## Conclusion 
+## Conclusion
 
 Hopefully, I've gotten you excited about Page Properties again and
 you've learned a little along the way around how the current Page

@@ -5,8 +5,8 @@ author: "Simon Hudson"
 githubname: SimonJHudson
 categories: ["Community post"]
 images:
-- images/blog/learn-to-debug-your-power-apps/Debugging_Pic.png
-tags: []
+- images/Account.png
+tags: ["Azure AD", "SharePoint"]
 type: "regular"
 ---
 
@@ -36,7 +36,7 @@ Microsoft 365 and beyond, via AAD (Azure Active Directory).
 When creating a new user in AAD, you must add their Name and User Name
 (email address) as well as any Groups or Roles they should be in.
 
-{{< image alt="AAD.png" src="images/AAD.png" >}}
+![AAD.png](images/AAD.png)
 
 AAD also allows other 'organisational information' about the user to be
 added, specifically:
@@ -78,11 +78,11 @@ URL: [https://emicoltd-my.sharepoint.com//\_layouts/15/editprofile.aspx?UserSet
 Custom Properties, if any, can be edited from the ellipsis (Custom
 Properties)
 
-{{< image alt="Delve.png" src="images/Delve.png" >}}
+![Delve.png](images/Delve.png)
 
 They can also set who can see the information via a small Globe icon.
 
-{{< image alt="Delve2.png" src="images/Delve2.png" >}}
+![Delve2.png](images/Delve2.png)
 
 There are multiple 'ports of entry' to the profile update page:
 
@@ -91,11 +91,11 @@ There are multiple 'ports of entry' to the profile update page:
 -   Your account menu in Microsoft 365 (select your profile picture or
     initials)
 
-[{{< image alt="Account.png" src="images/Account.png" >}}
+[![Account.png](images/Account.png)
 
 -   Any Microsoft 365 People card
 
-[{{< image alt="People card.png" src="images/People card.png" >}}
+[![People card.png](images/People card.png)
 
 ### Admin management of profiles
 
@@ -152,12 +152,12 @@ which uses the pre-modern SharePoint UI and profile service:
 1.  Under User profiles, select Open.
 2.  Under People, select Manage User Properties.
 
-{{< image alt="Custom attributes.png" src="images/Custom attributes.png" >}}
+![Custom attributes.png](images/Custom attributes.png)
 
 1.  Select New Property.
 2.  In the Name box, enter a unique name for the property.
 
-{{< image alt="Custom attributes 2.png" src="images/Custom attributes 2.png" >}}
+![Custom attributes 2.png](images/Custom attributes 2.png)
 
 1.  In the Display Name box, enter the profile property name that will
     be displayed to all users. (This name doesn't have to be unique.)
@@ -306,7 +306,7 @@ than you might expect. Different products (Experiences as Microsoft
 would have you call them) source the image from different places; the
 last time I checked it was:
 
-{{< image alt="Profile pictures.png" src="images/Profile pictures.png" >}}
+![Profile pictures.png](images/Profile pictures.png)
 
 Updating a profile in one place will, usually, update it everywhere, but
 it can take up to 72 hours.

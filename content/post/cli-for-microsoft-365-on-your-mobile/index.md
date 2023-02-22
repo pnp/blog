@@ -12,7 +12,7 @@ description: "CLI for Microsoft 365 is a cross platform command line tool you ma
 summary: "CLI for Microsoft 365 is a cross platform command line tool you may use to manage many things. To name a few, you may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course), now there is even a dedicated command to help you set up Viva. The list keeps on growing and growing"
 # Taxonomies
 categories: ["Community post"]
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular" # available type (epic, trending, popular, or regular)
 
 ---
@@ -93,7 +93,7 @@ Lets check what we have using bash
 m365
 ```
 
-{{< image alt="2.png" src="images/2.png" >}}
+![2.png](images/2.png)
 
 CLI for Microsoft 365 is up and running... Nice.
 Now to manage the tenant we only need to login. This is done like
@@ -103,14 +103,14 @@ always
 m365 login
 ```
 
-{{< image alt="5.png" src="images/5.png" >}}
+![5.png](images/5.png)
 After successful login we may check the connection status running
 
 ```bash
 m365 status
 ```
 
-{{< image alt="3.png" src="images/3.png" >}}
+![3.png](images/3.png)
 
 Now lets try any command. Lets check my sites on tenant running
 
@@ -118,7 +118,7 @@ Now lets try any command. Lets check my sites on tenant running
 m365 spo site list
 ```
 
-{{< image alt="1.png" src="images/1.png" >}}
+![1.png](images/1.png)
 
 Or lets check my ToDo tasks
 
@@ -126,7 +126,7 @@ Or lets check my ToDo tasks
 m365 todo task list --listName 'Test list
 ```
 
-{{< image alt="7.png" src="images/7.png" >}}
+![7.png](images/7.png)
 
 I think I may mark the 'Try to write something close to an article' as
 done 🤩

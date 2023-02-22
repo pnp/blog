@@ -44,7 +44,7 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 *   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER
 *   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER      
 
-### Microsoft 365 Platform Community Blog
+### Microsoft 365 and Power Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
@@ -84,7 +84,7 @@ There are numerous different community calls on different areas. All calls are b
 *   Adaptive Cards [https://aka.ms/adaptivecardscommunitycall](https://aka.ms/adaptivecardscommunitycall) - Updates and news around Adaptive Cards with live demos
 *   Microsoft identity platform [https://aka.ms/IDDevCommunityCalendar](https://aka.ms/IDDevCommunityCalendar) - Latest on the identity side
 *   Office Add-ins [https://aka.ms/officeaddinscommunitycall](https://aka.ms/officeaddinscommunitycall) - News and community work around Office add-ins with live demos
-*   PowerApps [https://aka.ms/PowerAppsMonthlyCall](https://aka.ms/PowerAppsMonthlyCall) - Monthly summary on PowerApps community with live demos
+*   Power Apps [https://aka.ms/PowerAppsMonthlyCall](https://aka.ms/PowerAppsMonthlyCall) - Monthly summary on Power Apps community with live demos
 *   M365 Community Call [https://aka.ms/spdev-sig-call](https://aka.ms/spdev-sig-call) - Bi-weekly - General topics on Microsoft 365 Dev from various aspects - Microsoft Teams, Microsoft Graph Toolkit, Provisioning, Automation, Scripting, Power Automate, Solution design
 *   Viva Connections & SharePoint Framework Community call [https://aka.ms/spdev-spfx-call](https://aka.ms/spdev-spfx-call) - Bi-weekly - Consists of topics around SharePoint Framework and JavaScript-based development in the Microsoft Teams and in SharePoint platform.
 
@@ -422,7 +422,7 @@ Thank you for all that you do!
 
 *   [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani_SPD
 *   [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
-*   Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @gSiVed
+*   [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @gSiVed
 *   [Julie Turner](https://twitter.com/jfj1997)(Sympraxis Consulting) | @Jfj1997
 *   [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 *   [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese

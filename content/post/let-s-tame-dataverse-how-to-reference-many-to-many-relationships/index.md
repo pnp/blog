@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/platform.png
-tags: []
+tags: ["Dataverse"]
 type: "regular"
 ---
 
@@ -21,14 +21,14 @@ first:
 
 ## What is Dataverse 
 
-{{< image alt="platform.png" src="images/platform.png" >}}
+![platform.png](images/platform.png)
 
 Dataverse is a is a secure and scalable SaaS data service, that sits
 right in Power Platform. Dataverse's database is Azure SQL, and often,
 people refer to Dataverse just as 'a database', but it is so much
 more
 
-{{< image alt="dataverse-saas.png" src="images/dataverse-saas.png" >}}
+![dataverse-saas.png](images/dataverse-saas.png)
 
 
 I will not go into full detail in this blog post, but cover something
@@ -57,7 +57,7 @@ it so special?
 
 ## What kind of relationships do exist in Dataverse? 
 
-[[{{< image alt="relationships.jpg" src="images/relationships.jpg" >}}
+[[![relationships.jpg](images/relationships.jpg)
 
 ### 1-to-many relationships
 
@@ -76,7 +76,7 @@ the `Teams Request` table). This means, that we need to have a 1:N
 relationship between `Teams Requests` table and
 the `Teams Channels` table. We reference this like this:
  
-[{{< image alt="TeamsChannel1N.png" src="images/TeamsChannel1N.png" >}}
+[![TeamsChannel1N.png](images/TeamsChannel1N.png)
 
 We get the correct environment, fetch the table `Team Channels` and
 filter by `TeamsRequestId` so that only the related channels to that
@@ -103,7 +103,7 @@ of several different teams.
 This means, that we need to have two N:N relationships
 between `teams Requests` table and `Teams Users` table.
 
-[{{< image alt="TeamsRequests-TeamsUser.png" src="images/TeamsRequests-TeamsUser.png" >}}
+[![TeamsRequests-TeamsUser.png](images/TeamsRequests-TeamsUser.png)
 
 Now the intersection tables come into play: They make sure that we can
 associate many rows of the related table to the primary table.
@@ -111,7 +111,7 @@ associate many rows of the related table to the primary table.
 In Dataverse, we don't get to see these intersection tables, but we can
 customize their name:
 
-{{< image alt="TeamsRequests-TeamsUserNN.png" src="images/TeamsRequests-TeamsUserNN.png" >}}
+![TeamsRequests-TeamsUserNN.png](images/TeamsRequests-TeamsUserNN.png)
 
 and we can make them visible when we create a model of the data in Power
 BI. This also helps us understand, what the intersection table is and
@@ -120,7 +120,7 @@ how this works: \
 The intersection tables sit in between of the primary table and the
 related table: primary table (1) \--\>(N) intersection table(N) \<\--
 related table\
-{{< image alt="datamodel.png" src="images/datamodel.png" >}}
+![datamodel.png](images/datamodel.png)
 
 
 ## How can you reference Many-to-Many Relationships in Azure Logic Apps?
@@ -136,11 +136,11 @@ of the relationship table followed by a `set`, then we filter for the
 correct Teams Request ID so that only members for that specific team
 will be returned.
 
-{{< image alt="ListRowsForMembers.png" src="images/ListRowsForMembers.png" >}}
+![ListRowsForMembers.png](images/ListRowsForMembers.png)
 
 The very same applies to the relationship table for the owners.
 
-{{< image alt="ListRowsForOwners.png" src="images/ListRowsForOwners.png" >}}
+![ListRowsForOwners.png](images/ListRowsForOwners.png)
 
 ## Conclusion
 

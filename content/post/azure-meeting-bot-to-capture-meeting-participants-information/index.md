@@ -6,7 +6,7 @@ githubname: siddharth-vaghasia
 categories: ["Community post"]
 images:
 - images/SiddharthVaghasia_0-1630435722443.png
-tags: []
+tags: ["Microsoft Teams", "Azure"]
 type: "regular"
 ---
 
@@ -33,20 +33,20 @@ Select New resource from home page.
 
 Search for Web App Bot.
 
-{{< image alt="SiddharthVaghasia_0-1630435722443.png" src="images/SiddharthVaghasia_0-1630435722443.png" >}}
+![SiddharthVaghasia_0-1630435722443.png](images/SiddharthVaghasia_0-1630435722443.png)
 
 Select  Create and we shall see the below page. Enter below the
 required details.
 
-{{< image alt="SiddharthVaghasia_1-1630435722896.png" src="images/SiddharthVaghasia_1-1630435722896.png" >}}
+![SiddharthVaghasia_1-1630435722896.png](images/SiddharthVaghasia_1-1630435722896.png)
 
 Once you select create, it will validate and start creating resources, we
 can see a message in the notification bar.
 
-{{< image alt="SiddharthVaghasia_2-1630435722887.png" src="images/SiddharthVaghasia_2-1630435722887.png" >}}
+![SiddharthVaghasia_2-1630435722887.png](images/SiddharthVaghasia_2-1630435722887.png)
 Once completed we should see the below message.
 
-{{< image alt="SiddharthVaghasia_3-1630435722444.png" src="images/SiddharthVaghasia_3-1630435722444.png" >}}
+![SiddharthVaghasia_3-1630435722444.png](images/SiddharthVaghasia_3-1630435722444.png)
 
 ## Step - Enabling Bot for Calling
 
@@ -55,15 +55,15 @@ the below steps
 
 Go to the newly created Web App Bot Resource.
 
-{{< image alt="SiddharthVaghasia_4-1630435722736.png" src="images/SiddharthVaghasia_4-1630435722736.png" >}}
+![SiddharthVaghasia_4-1630435722736.png](images/SiddharthVaghasia_4-1630435722736.png)
 
 Select Channels from the left blade and then Teams(in the right blade).
-{{< image alt="SiddharthVaghasia_5-1630435722747.png" src="images/SiddharthVaghasia_5-1630435722747.png" >}}
+![SiddharthVaghasia_5-1630435722747.png](images/SiddharthVaghasia_5-1630435722747.png)
 
 Select  the Calling from the left blade and Enable the Calling
 checkbox.
 
-{{< image alt="SiddharthVaghasia_6-1630435722897.png" src="images/SiddharthVaghasia_6-1630435722897.png" >}}
+![SiddharthVaghasia_6-1630435722897.png](images/SiddharthVaghasia_6-1630435722897.png)
 
 Webhook (for calling) - We will need to enter a webhook URL (an API
 endpoint) which will be called when an event will occur in Teams meeting
@@ -94,7 +94,7 @@ yo teams
 It will ask you series of questions, you can select as per the below
 screenshot.
 
-{{< image alt="SiddharthVaghasia_7-1630435837476.png" src="images/SiddharthVaghasia_7-1630435837476.png" >}}
+![SiddharthVaghasia_7-1630435837476.png](images/SiddharthVaghasia_7-1630435837476.png)
 
 
 ## How to get Microsoft App ID
@@ -105,7 +105,7 @@ Resource(which we created in the previous step).
 Select configuration, and in the right blade you will find
 MicrosoftAppId in Application settings.
 
-{{< image alt="SiddharthVaghasia_8-1630435837628.png" src="images/SiddharthVaghasia_8-1630435837628.png" >}}
+![SiddharthVaghasia_8-1630435837628.png](images/SiddharthVaghasia_8-1630435837628.png)
 
 Please make sure you select yes to the question "Do you want to include
 bot calling support?"
@@ -145,12 +145,12 @@ from left blade.
 
 We can see an App with our Bot name here.
 
-{{< image alt="SiddharthVaghasia_9-1630435867496.png" src="images/SiddharthVaghasia_9-1630435867496.png" >}}
+![SiddharthVaghasia_9-1630435867496.png](images/SiddharthVaghasia_9-1630435867496.png)
 
 Select  this App, from the Left blade select  API Permission, and
 provide the below Application permissions.
 
-{{< image alt="SiddharthVaghasia_10-1630435867800.png" src="images/SiddharthVaghasia_10-1630435867800.png" >}}
+![SiddharthVaghasia_10-1630435867800.png](images/SiddharthVaghasia_10-1630435867800.png)
 
 We would be calling below GRAPH API document at
 <https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http>
@@ -163,7 +163,7 @@ From the left blade, select  Certificate and secrets, select  new
 select secret and note down this secret somewhere safely. We will use
 this later.
 
-{{< image alt="SiddharthVaghasia_11-1630435867960.png" src="images/SiddharthVaghasia_11-1630435867960.png" >}}
+![SiddharthVaghasia_11-1630435867960.png](images/SiddharthVaghasia_11-1630435867960.png)
 
 Also, note client Id and Tenant Id from the Overview tab.
 
@@ -273,19 +273,19 @@ The first thing Create variables of all the different dynamic values we
 have to pass. Initialize it with the default value from the above URL.
 Refer to the screenshot below.
 
-{{< image alt="SiddharthVaghasia_12-1630435910359.png" src="images/SiddharthVaghasia_12-1630435910359.png" >}}
+![SiddharthVaghasia_12-1630435910359.png](images/SiddharthVaghasia_12-1630435910359.png)
 
 Add action HTTP and configure as below.
 
-{{< image alt="SiddharthVaghasia_13-1630435910363.png" src="images/SiddharthVaghasia_13-1630435910363.png" >}}
+![SiddharthVaghasia_13-1630435910363.png](images/SiddharthVaghasia_13-1630435910363.png)
 
-{{< image alt="SiddharthVaghasia_14-1630435910364.png" src="images/SiddharthVaghasia_14-1630435910364.png" >}}
+![SiddharthVaghasia_14-1630435910364.png](images/SiddharthVaghasia_14-1630435910364.png)
 
 Select  the Advanced option and select Active Directory OAuth. Here you
 have to add the client Id and client secret which we noted in the above
 steps from the Azure Ad App Registration screen.
 
-{{< image alt="SiddharthVaghasia_15-1630435910363.png" src="images/SiddharthVaghasia_15-1630435910363.png" >}}
+![SiddharthVaghasia_15-1630435910363.png](images/SiddharthVaghasia_15-1630435910363.png)
 
 ## Step - Using ngRok to Start the API End Point 
 
@@ -299,7 +299,7 @@ Once it runs successfully, it will create a temporary ngrok domain URL
 which we have to use in the Power Automate variable
 "CallingAPIEndPointURL".
 
-{{< image alt="SiddharthVaghasia_16-1630435933837.png" src="images/SiddharthVaghasia_16-1630435933837.png" >}}
+![SiddharthVaghasia_16-1630435933837.png](images/SiddharthVaghasia_16-1630435933837.png)
 
 ## Step - Add ngrok URL in Azure Web App Bot Calling Webhook URL 
 
@@ -307,7 +307,7 @@ As mentioned earlier we will also have to add this temporary URL(while
 we are in development) to Teams Channel in our Azure Bot. In the
 published version, this will be according to our app service URL.
 
-{{< image alt="SiddharthVaghasia_17-1630435933853.png" src="images/SiddharthVaghasia_17-1630435933853.png" >}}
+![SiddharthVaghasia_17-1630435933853.png](images/SiddharthVaghasia_17-1630435933853.png)
 
 ## Step - Let's test
 
@@ -322,7 +322,7 @@ is documented in the URL
 
 *[https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam\...](https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media)*
 
-{{< image alt="SiddharthVaghasia_18-1630435934427.png" src="images/SiddharthVaghasia_18-1630435934427.png" >}}
+![SiddharthVaghasia_18-1630435934427.png](images/SiddharthVaghasia_18-1630435934427.png)
 
 Below are some notes based on my experience.
 

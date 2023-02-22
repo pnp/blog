@@ -187,7 +187,7 @@ or viewing it on demand. 
 -   Documentation - [What is the Speech
     service?](https://docs.microsoft.com/azure/cognitive-services/speech-service/overview) 
 
--   Video - [Speech to text in PowerApps with Power Automate by Yash
+-   Video - [Speech to text in Power Apps with Power Automate by Yash
     Kamdar at Hyd Power Apps & Power Automate
     UG](https://www.youtube.com/watch?v=g034jMgilGM) 
 
@@ -203,9 +203,6 @@ or viewing it on demand. 
 
 -   Documentation - [Use expressions in conditions to check multiple
     values](https://docs.microsoft.com/power-automate/use-expressions-in-conditions) 
-
--   chrome web store - [Metadata Browser for Dynamics 365/Power
-    Apps](https://chrome.google.com/webstore/detail/metadata-browser-for-dyna/ahbljnhlfdbecefhilipmpnlfldnplpb) 
 
 -   Article - [Setting Lookup in a Flow CDS Connector: Classic vs.
     Current Environment

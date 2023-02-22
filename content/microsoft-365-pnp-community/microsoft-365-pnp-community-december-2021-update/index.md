@@ -17,7 +17,7 @@ Microsoft 365 Community (PnP) December 2021 update is out with a summary of the 
 
 ## What is Microsoft 365 Community (PnP) 
 
-[Microsoft 365 PnP](http://aka.ms/m365pnp) is a nick-name for Microsoft 365 platform community activities coordinated by numerous teams inside of the Microsoft 365 engineering organizations. PnP is a community-driven open-source initiative where Microsoft and external community members are sharing their learning's around implementation practices for Microsoft 365. Topics vary from Microsoft Viva, Microsoft Graph, Microsoft Teams, Power Platform, OneDrive and SharePoint. Active development and contributions happen in GitHub by providing contributions to the samples, reusable components, and documentation for different areas. PnP is owned and coordinated by Microsoft engineering, but this is work done by the community for the community.
+[Microsoft 365 PnP](https://aka.ms/m365pnp) is a nick-name for Microsoft 365 platform community activities coordinated by numerous teams inside of the Microsoft 365 engineering organizations. PnP is a community-driven open-source initiative where Microsoft and external community members are sharing their learning's around implementation practices for Microsoft 365. Topics vary from Microsoft Viva, Microsoft Graph, Microsoft Teams, Power Platform, OneDrive and SharePoint. Active development and contributions happen in GitHub by providing contributions to the samples, reusable components, and documentation for different areas. PnP is owned and coordinated by Microsoft engineering, but this is work done by the community for the community.
 
 
 -   See more details from [New Microsoft 365 Patterns and Practices
@@ -33,13 +33,13 @@ libraries are under official support from Microsoft.
 Main resources around Microsoft 365 Community:
 
 -   Microsoft 365 Community -
-    [http://aka.ms/m365pnp](http://aka.ms/sppnp) - One location for all
+    [https://aka.ms/m365pnp](https://aka.ms/sppnp) - One location for all
     the resources and news around Microsoft 365 platform
 -   Microsoft 365 community blog - 
-    <http://aka.ms/m365pnp/community/blog>
--   Microsoft 365 development blog -  <http://aka.ms/m365pnp-blog>
+    <https://aka.ms/m365pnp/community/blog>
+-   Microsoft 365 development blog -  <https://aka.ms/m365pnp-blog>
 -   Microsoft 365 Community Channel on YouTube -
-    [http://aka.ms/m365pnp-videos](http://aka.ms/m365pnp-Videos)
+    [https://aka.ms/m365pnp-videos](https://aka.ms/m365pnp-Videos)
 -   Microsoft 365 Developer YouTube channel -
     <https://aka.ms/M365DevYouTube>
 
@@ -174,7 +174,7 @@ Microsoft 365 PnP Weekly Podcasts and vlogs
 
 ## Community Calls 
 
-There are numerous different community calls on different areas. All calls are being recorded and published either from [Microsoft 365 Developer](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ) or [Microsoft 365 Community (PnP) YouTube](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) channels. Recordings are typically released within the following 24 hours after the call. You can find a detailed agenda and links to specific covered topics on blog post articles at the [Microsoft 365 developer blog](http://aka.ms/spdev-blog) when the videos are published.
+There are numerous different community calls on different areas. All calls are being recorded and published either from [Microsoft 365 Developer](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ) or [Microsoft 365 Community (PnP) YouTube](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) channels. Recordings are typically released within the following 24 hours after the call. You can find a detailed agenda and links to specific covered topics on blog post articles at the [Microsoft 365 developer blog](https://aka.ms/spdev-blog) when the videos are published.
 
 -   Microsoft 365 Platform Call - <https://aka.ms/m365-dev-call> -
     Updates and demos from Microsoft as weekly call on Tuesdays - topics
@@ -187,8 +187,8 @@ There are numerous different community calls on different areas. All calls are b
     side
 -   Office Add-ins  <https://aka.ms/officeaddinscommunitycall> - News
     and community work around Office add-ins with live demos
--   PowerApps   <https://aka.ms/PowerAppsMonthlyCall> - Monthly summary
-    on PowerApps community with live demos
+-   Power Apps   <https://aka.ms/PowerAppsMonthlyCall> - Monthly summary
+    on Power Apps community with live demos
 -   M365 Community Call  <https://aka.ms/spdev-sig-call>  - Bi-weekly -
     General topics on Microsoft 365 Dev from various aspects - Microsoft
     Teams, Microsoft Graph Toolkit, Provisioning, Automation, Scripting,
@@ -343,7 +343,7 @@ component repository or download page.
 
 ## Microsoft 365 PnP team model 
 
-{{< image alt="pnp-community-model.png" src="images/pnp-community-model.png" >}}
+![pnp-community-model.png](images/pnp-community-model.png)
 In April 2020 we announced our new [Microsoft 365 PnP team model](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) and grew the MVP team quite significantly. PnP model exists for having more efficient engagement between Microsoft engineering and community members. Let's build things together. Your contributions and feedback is always welcome! During August, we also crew the team with 5 new members. PnP Team coordinates and leads the different open-source and community efforts we execute in the Microsoft 365 platform. We welcome all community members to get involved on the community and open-source efforts. Your input do matter!
 
 -   [New Microsoft 365 Patterns and Practices (PnP) team members --
@@ -393,7 +393,7 @@ Got feedback, suggestions or ideas? - Please let us know. Everything we do in th
 
 ## Microsoft 365 PnP Recognition Program   
 
-{{< image alt="VesaJuvonen_0-1629736432373.png" src="images/VesaJuvonen_0-1629736432373.png" >}}
+![VesaJuvonen_0-1629736432373.png](images/VesaJuvonen_0-1629736432373.png)
 
 We are excited to announce new community contributor program for all the active community members. Through this program you can get officially acknowledged with the a [Credly badge](https://www.credly.com/org/m365pnp/badge/community-contributor-2021) around your work on our open-source and community channels. See more from <https://aka.ms/m365pnp-recognition>. Thank you for being part of this journey with us.
 
@@ -403,7 +403,7 @@ These are different areas which are closely involved on the community work acros
 
 ### Microsoft Graph Toolkit 
 
-{{< image alt="graph-toolkit.jpg" src="images/graph-toolkit.jpg" >}}
+![graph-toolkit.jpg](images/graph-toolkit.jpg)
 
 Microsoft Graph Toolkit is engineering lead initiative, which works closely with the community on the open-source areas. The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic web components and helpers for accessing and working with Microsoft Graph. The components are fully functional right of out of the box, with built in providers that authenticate with and fetch data from Microsoft Graph.
 
@@ -424,7 +424,7 @@ All the latest updates on the Microsoft Graph Toolkit is being presented in our 
 
 ### Microsoft 365 Community docs 
 
-{{< image alt="community-dcos.png" src="images/community-dcos.png" >}}
+![community-dcos.png](images/community-dcos.png)
 
 Community docs model was announced in the April 2020 and it's great to see the interest for community to help each other by providing new guidance on the non-dev areas. See more on the announcement from the SharePoint blog - [Announcing the Microsoft 365 Community Docs](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/announcing-the-microsoft-365-community-docs/ba-p/1288203). We do welcome contributions from the community - our objective is to build a valuable location for articles from Microsoft and community together.
 
@@ -433,7 +433,7 @@ Community docs model was announced in the April 2020 and it's great to see the i
 -   [Building Great Content for Your
     Intranet](https://docs.microsoft.com/microsoft-365/community/intranet-content-sources) -
     [Paul
-    Bullock](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fpkbullock&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690361956632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=WcGXlwfG%2Bbdhllqsdls87WrmZS%2FAFeU46dz4Fpk4G88%3D&reserved=0) (CPS)
+    Bullock](https://twitter.com/pkbullock) (CPS)
     | @pkbullock
 -   [Microsoft 365 Search
     Technologies](https://docs.microsoft.com/microsoft-365/community/microsoft-365-search-technologies)
@@ -455,7 +455,7 @@ All [Microsoft 365 Community Content](https://docs.microsoft.com/microsoft-365/c
 
 ### SharePoint Framework development samples 
 
-{{< image alt="spfx-gallery.png" src="images/spfx-gallery.png" >}}
+![spfx-gallery.png](images/spfx-gallery.png)
 
 These are the updated SharePoint Framework samples which are available
 from the different repositories.
@@ -480,16 +480,16 @@ from the different repositories.
 
 How to find what's relevant for you? Take advantage of our SharePoint Framework web part and extension sample galleries - also includes solutions which work in Microsoft Teams
 
--   Web Part sample gallery - <http://aka.ms/spfx-webparts>
--   Extensions sample gallery - <http://aka.ms/spfx-extensions>
+-   Web Part sample gallery - <https://aka.ms/spfx-webparts>
+-   Extensions sample gallery - <https://aka.ms/spfx-extensions>
 -   Viva Connections Adaptive Card samples
-    - [http://aka.ms/spfx-aces](http://aka.ms/spfx-extensions)
+    - [https://aka.ms/spfx-aces](https://aka.ms/spfx-extensions)
 -   Microsoft Teams samples build with SharePoint Framework -
     <https://github.com/pnp/spfx-teams> - These will be relocated soon
 
 ### Microsoft Teams community samples 
 
-{{< image alt="teams-samples-promo.jpg" src="images/teams-samples-promo.jpg" >}}
+![teams-samples-promo.jpg](images/teams-samples-promo.jpg)
 
 These are samples which have been contributed on the community samples since last summary. We do welcome all Microsoft Teams samples to this gallery. They can be implemented using in any technology.
 
@@ -507,7 +507,7 @@ and community samples.
 ### Power Platform samples 
 
 
-{{< image alt="power-platform-samples.png" src="images/power-platform-samples.png" >}}
+![power-platform-samples.png](images/power-platform-samples.png)
 
 There was numerous smaller updates on the different Power Platforms samples. See more details on available samples from following location:
 
@@ -520,75 +520,77 @@ help.
 
 ### Microsoft 365 Script Samples 
 
-{{< image alt="script-gallery.png" src="images/script-gallery.png" >}}
+![script-gallery.png](images/script-gallery.png)
 
 We have released new Microsoft 365 Script Sample gallery within past month. We welcome all scripts on Microsoft 365 automation to this centralized repository, targeted to help to manage and automate day-to-day operations.
 
 Here are the latest updates on the Script Samples
 
 -   Updated [Export all flows in
-    environment](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fflow-export-all-flows-in-environment%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=aOLZc38SgH6SiEHNijJ6ZMPd0P6lAKIZLRnB38INImQ%3D&reserved=0)
+    environment](https://pnp.github.io/script-samples/flow-export-all-flows-in-environment/README.html?tabs=cli-m365-ps)
     by [Leon
-    Armston](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FLeonArmston&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=JJBITkM3iDUYdrw1%2Fs3phVO58TvxREAoGT54PXhO6tQ%3D&reserved=0)
+    Armston](https://twitter.com/LeonArmston)
     (Intelogy) |
     @LeonArmston
 -   Updated [Report of Private Teams channels to
-    Excel](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Freport-private-teams-excel%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=gno6zCmzanqTNIaonGjjyt%2FW1RInOi1kQhkIC0Vcl5Y%3D&reserved=0)
+    Excel](https://pnp.github.io/script-samples/report-private-teams-excel/README.html?tabs=pnpps)
     by [Adam
-    Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ou1UssfsX%2FGuAkrYEi0B7XnbGHgC669zrH3vjq%2FBJdw%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
--   New [Export all PowerApps details and its Role assignments from
+-   New [Export all Power Apps details and its Role assignments from
     Tenant in CSV
-    format](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fpowerapps-get-app-users-list-csv%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=qsNgZyojfbGn0heuJD87Tmgo9wBJedCAoGdfJ57RMVA%3D&reserved=0)
+    format](https://pnp.github.io/script-samples/powerapps-get-app-users-list-csv/README.html?tabs=powerapps-ps)
     by [Siddharth
-    Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0)
+    Vaghasia](https://twitter.com/siddh_me)
     (Independent Consultant) | @siddh_me
 -   New [Export / Import list
-    formatting](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-list-formatting%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=X0fHzodSRqz6dYAvYw8HKRP%2BaNUdeGm7GZcdoNN9gTk%3D&reserved=0)
+    formatting](https://pnp.github.io/script-samples/spo-list-formatting/README.html?tabs=pnpps)
     by [Kinga
-    Kazala](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkinga_kazala&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=YXcunQsz4ooiKW7cOPOQLTfdbCsQB4hRD7UqjjkV5sg%3D&reserved=0)
+    Kazala](https://twitter.com/kinga_kazala)
     (SharePoint and Azure Architect) | @kinga_kazala
--   New [Add/Remove users(bulk) from PowerApps from CSV
-    file](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fpowerapps-bulk-useraccess%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=sjEpKsZ9zPuZIZDJgV6mXJmwk3n9ukpQ6IoqiElH3Mk%3D&reserved=0)
+-   New [Add/Remove users(bulk) from Power Apps from CSV
+    file](https://pnp.github.io/script-samples/powerapps-bulk-useraccess/README.html?tabs=powerapps-ps)
     by [Siddharth
-    Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0)
+    Vaghasia](https://twitter.com/sidd_me)
     (Independent Consultant) | @siddh_me
 -   New [Reports to Excel where the specified Term is
-    used](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2FReportTermUse%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=ZCyc3mdKLqwMn%2FM%2BTOgDA1N9hX9Ycmgnd4h1jNhplqc%3D&reserved=0)
+    used](https://pnp.github.io/script-samples/ReportTermUse/README.html?tabs=pnpps)
     by [Kasper Bo
-    Larsen](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkasperbolarsen&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=8jcXC26PxWaLGQXyujuV7zdZM%2FZp3lqjvVnRuNT2%2FPs%3D&reserved=0)
+    Larsen](https://twitter.com/kasperbolarsen)
     (Fellowmind Denmark) | @kasperbolarsen
 -   Updated [Remove delete option on a document
-    library](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fremove-delete-option-library%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=eilP9YG%2F7x5Pa5P7fgLHnXPJVxEY1Aj%2BPU6Z6wmCERI%3D&reserved=0)
+    library](https://pnp.github.io/script-samples/remove-delete-option-library/README.html?tabs=pnpps)
     by [Adam
-    Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ou1UssfsX%2FGuAkrYEi0B7XnbGHgC669zrH3vjq%2FBJdw%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 -   New [Create bulk dummy documents in SharePoint Document
-    library](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fcreate-dummy-docs-in-library%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=m%2BIBJb046kIi0JF1Nsb759nOwNZfuFkrlq33yJ6mXcI%3D&reserved=0)
-    by [Siddharth
-    Vaghasia](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsiddh_me&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=hlXHhZHoQxrQZgvNIA8XYPDm04JPSfupE5%2FFZxG47Sw%3D&reserved=0)
+    library](https://pnp.github.io/script-samples/create-dummy-docs-in-library/README.html?tabs=pnpps)
+    by [Siddharth Vaghasia](https://twitter.com/sidd_me)
+
     (Independent Consultant) | @siddh_me
 -   New [Get All Apps From The App Catalog And Export It To
-    CSV](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-get-all-apps-from-appcatalog%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=CnkEhyNQvroVswr4gAkU%2Fr0LbIVLzZl6EMicjjziwAA%3D&reserved=0)
+    CSV](https://pnp.github.io/script-samples/spo-get-all-apps-from-appcatalog/README.html?tabs=pnpps)
     by [Chandani
-    Prajapati](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FChandani_SPD&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=D3BEYiLF7zFYnlLXceqMqv%2FSD7Uf%2BsxxCEDfdFFQ6lY%3D&reserved=0)
+    Prajapati](https://twitter.com/Chandani_SPD)
     (Rapid Circle) | @Chandani_SPD
 -   Updated [List all external users in all site
-    collections](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fspo-list-site-externalusers%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142743626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Z8ZUbVlDvxT4zafORTP%2FiRRdgCysyGx%2BCH83sVzi6Cc%3D&reserved=0)
+    collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html?tabs=cli-m365-ps)
     by [Paul
-    Bullock](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fpkbullock&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142743626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=dEMSK2Ep22w0NYYCrb0dJaY5S1mWi8kqUUQ1LtJ0OHY%3D&reserved=0)
+    Bullock](https://twitter.com/pkbullock)
+
+
     (CPS) | @pkbullock
 -   Updated [Generate Markdown Report of
-    LCIDs](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpnp.github.io%2Fscript-samples%2Fgenerate-markdown-lcids%2FREADME.html&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142743626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=lzXrzug5XxZXA2IU%2FC3w37NkbUn3veVTXYw6dlefCpo%3D&reserved=0)
+    LCIDs](https://pnp.github.io/script-samples/generate-markdown-lcids/README.html?tabs=pnpps)
     by [Adam
-    Wójcik](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FAdam25858782&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142743626%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=mrTRuxyTkkQyHkHcNjjZg2%2FoC3779Tdr8ff4MQnoVf4%3D&reserved=0)
+    Wójcik](https://twitter.com/Adam25858782)
     (Hitachi Energy) | @Adam25858782
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative. 
 
 -   Microsoft 365 Script Samples - <https://aka.ms/script-samples>
 **Independent Connectors Program**
-{{< image alt="independent-connectors.png" src="images/independent-connectors.png" >}}
+![independent-connectors.png](images/independent-connectors.png)
 
 Microsoft Power Platform comes with a huge variety of already built-in connectors and also provides you with the ability of creating your own custom connectors. As of July 2021, anyone can submit the connectors they built to Microsoft Power Platform so that they can be used by others as well. Previously, only API owners could publish their connectors. The Independent Publisher Connector Program's mission is to bring the best together: the best people, connecting great ideas to data, apps, and flows. We want to make it easier for connector developers to collaborate on connectors. For more information, you can watch this video on Publish a connector to the [Publish a connector to the Power Platform with Independent Publisher Connector Program](https://www.youtube.com/watch?v=ulTBvCHw8MU) gram and check out [Microsoft Power Platform Connectors on GitHub](https://github.com/microsoft/PowerPlatformConnectors)
 
@@ -723,12 +725,12 @@ These are the latest connectors: 
 
 ### Sharing is Caring initiative 
 
-{{< image alt="sharing-is-caring-promo-1024x576.png" src="images/sharing-is-caring-promo-1024x576.png" >}}
+![sharing-is-caring-promo-1024x576.png](images/sharing-is-caring-promo-1024x576.png)
 
 The "Sharing Is Caring" imitative is targeted for learning the basics around making changes in Microsoft Docs, in GitHub, submitting pull requests to the PnP repositories and in GitHub in general. Take advantage of this instructor lead training for learning how to contribute to docs or to open-source solutions. Everyone is welcome to learn how to get started on contributing to open-source docs or code!
 
 -   See more from the [guidance
-    documentation](http://aka.ms/sharing-is-caring) - including all
+    documentation](https://aka.ms/sharing-is-caring) - including all
     upcoming instructor lead sessions which you can participate!
 
 ### ✍ Different Microsoft 365 related open-source initiatives build together with the community
@@ -768,7 +770,7 @@ See exact details on the latest updates from the specific open-source project re
     controls are using Office UI Fabric React controls under the covers
     and they are SharePoint aware to increase the productivity of
     developers.
--   **Office 365 CLI** - Using the Office 365 CLI, you can manage your
+-   **CLI for Microsoft 365** - Using the CLI for Microsoft 365, you can manage your
     Microsoft Office 365 tenant and SharePoint Framework projects on any
     platform. See [release
     notes](https://pnp.github.io/cli-microsoft365/about/release-notes/) for
@@ -799,7 +801,7 @@ See exact details on the latest updates from the specific open-source project re
     <https://aka.ms/pnp-search>.
 -   **Modernization tooling** - All tools and guidance on helping you to
     transform you SharePoint to modern experiences from
-    <http://aka.ms/sppnp-modernize>.
+    <https://aka.ms/sppnp-modernize>.
 -   **SharePoint Starter Kit v2** - Building modern experiences with
     Microsoft Teams flavors for SharePoint Online and SharePoint 2019 -
     reference solution in
@@ -838,7 +840,7 @@ the related documentation sets and repositories as listed below:
 
 ### Microsoft 365 Developer and Microsoft 365 Community YouTube video channels 
 
-You can find all Microsoft 365 related videos on our YouTube Channel at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp-videos) or at [Microsoft 365 Dev](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ). These channels contains already a significant amount of detailed training material, demo videos, and community call recordings. Here are the new Microsoft demo or guidance videos released since the last monthly summary:
+You can find all Microsoft 365 related videos on our YouTube Channel at [https://aka.ms/m365pnp/videos](https://aka.ms/m365pnp-videos) or at [Microsoft 365 Dev](https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ). These channels contains already a significant amount of detailed training material, demo videos, and community call recordings. Here are the new Microsoft demo or guidance videos released since the last monthly summary:
 
 -   [Student Ambassadors share their low code QnA bot for Microsoft
     Teams](https://www.youtube.com/watch?v=flAOtxvOyvY) - Ayca Bas
@@ -1114,7 +1116,7 @@ Here's the list of active contributors (in alphabetical order) since last releas
 -   [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting)
     | @jfj1997
 -   [Kasper Bo
-    Larsen](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkasperbolarsen&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=8jcXC26PxWaLGQXyujuV7zdZM%2FZp3lqjvVnRuNT2%2FPs%3D&reserved=0)
+    Larsen](https://twitter.com/kasperbolarsen)
     (Fellowmind Denmark) | @kasperbolarsen
 -   Kat Memenza (W. L. Gore & Associates)
 -   [Kathleen Boilek](https://www.twitter.com/kaboilek) (Alakaâ€™Ina
@@ -1124,7 +1126,7 @@ Here's the list of active contributors (in alphabetical order) since last releas
     @kazoogal23
 -   [Kevin McDonnell](https://twitter.com/kevmcdonk) (CPS) |
     @kevmcdonk
--   [Kinga Kazala](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fkinga_kazala&data=04%7C01%7Cpaul.bullock%40capacreative.co.uk%7Cded5095f78c94e8e490f08d9c3f53240%7Cb65b38dfdc4640ca92b9547172742753%7C0%7C0%7C637756280142587034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=YXcunQsz4ooiKW7cOPOQLTfdbCsQB4hRD7UqjjkV5sg%3D&reserved=0) (SharePoint
+-   [Kinga Kazala](https://twitter.com/kinga_kazala) (SharePoint
     and Azure Architect) | @kinga\_kazala 
 -   Kirt Spaulding
 -   [Lance Yoder](https://www.twitter.com/lyoder)
@@ -1137,7 +1139,7 @@ Here's the list of active contributors (in alphabetical order) since last releas
 -   [Laurent](https://twitter.com/lioncoding) | @lioncoding
 -   [Laurie Danison](https://www.github.com/ljd144) | @ljd144
 -   [Leon
-    Armston](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FLeonArmston&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362106622%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=Nq7932KMpx5mQWbeB1By3iBnRtzdqR07uYIz%2FOB5qqU%3D&reserved=0) (Intelogy)
+    Armston](https://twitter.com/leonarmston) (Intelogy)
     | @LeonArmston
 -   [Lindsay Shelton](https://www.twitter.com/lshelton_tech) (Stowers
     Institute for Medical Research) | @lshelton_tech
@@ -1263,7 +1265,7 @@ Here's the list of active contributors (in alphabetical order) since last releas
 Here are the companies which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications. If you still want your logo for this month's release, please let us know and share the logo with us. Thx.
 
 
-{{< image alt="dec-2021-companies.png" src="images/dec-2021-companies.png" >}}
+![dec-2021-companies.png](images/dec-2021-companies.png)
 
 -   [Addin365](https://www.addin365.com/)
 -   [Arvo Systems](https://www.arvosys.com/)
@@ -1331,7 +1333,7 @@ Here's the list of Microsoft people who have been closely involved with the PnP 
 -   [Ed Averett](https://twitter.com/Ed_Averett) | @Ed_Averett
 -   Emily Lynam (Microsoft)
 -   Elizabeth Samuel
-    - [ElizabethSamuel-MSFT](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FElizabethSamuel-MSFT&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158426857%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=36jxGazKZR9TtD7Xt3E%2BqS8s0%2BcxsCPrZ6mZc2Khkog%3D&reserved=0)
+    - [ElizabethSamuel-MSFT](https://github.com/ElizabethSamuel-MSFT)
 -   [Garry Trinder](https://twitter.com/garrytrinder) | @garrytrinder
 -   [Haimantika Mitra](https://twitter.com/HaimantikaM) (Microsoft) |
     @HaimantikaM
@@ -1350,7 +1352,7 @@ Here's the list of Microsoft people who have been closely involved with the PnP 
 -   Kevin Coughlin
     - [@kevintcoughlin](https://twitter.com/kevintcoughlin)
 -   Keyur Patel
-    - [keyur32](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fkeyur32&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wuL4ROZqAuJ2N6DosAfpyX5lO4BQorlpntSxHphncpA%3D&reserved=0)
+    - [keyur32](https://github.com/keyur32)
 -   [Koen Zomers](https://twitter.com/koenzomers) | @koenzomers
 -   Holland Kaviani - [Holland-ODSP](https://github.com/Holland-ODSP)
 -   Laura Graham - [Lauragra](https://github.com/Lauragra)
@@ -1385,7 +1387,7 @@ Here's the list of Microsoft people who have been closely involved with the PnP 
 -   [Richard Astbury](https://twitter.com/richorama) (Microsoft) |
     @richorama
 -   Rick
-    Kirkham | [Rick-Kirkham](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FRick-Kirkham&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C3b5a6aee89ef4146219e08d967077e71%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637654104158416862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=dxJSOcjYFcyHpZgsHFjTJ5dUvNhwOH7dUiSV06GC7P8%3D&reserved=0)
+    Kirkham | [Rick-Kirkham](https://github.com/Rick-Kirkham)
 -   [Roy Paar](https://www.linkedin.com/in/roypaar/)
 -   [Rui Santos](https://www.linkedin.com/in/ruisantosnor/) 
 -   Sam Larson | [salarson](https://github.com/salarson)
@@ -1394,7 +1396,7 @@ Here's the list of Microsoft people who have been closely involved with the PnP 
 -   [Sébastien
     Levert](https://twitter.com/sebastienlevert) | @sebastienlevert
 -   [Srinivas
-    Varukala](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsvarukala&data=04%7C01%7CVesa.Juvonen%40microsoft.com%7C6382b4eff6084eb7b5e508d9ae808d84%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C637732690362006629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=hB1N9L15hhOUOVPXd%2FuYCG8sPJP0HinF1fADwf0YOCk%3D&reserved=0) (Microsoft)
+    Varukala](https://twitter.com/svarukala) (Microsoft)
     | @svarukala
 -   [Steven Jia](https://github.com/Steven-Jia) | Steven-Jia
 -   Shubham Gatkal (Microsoft)

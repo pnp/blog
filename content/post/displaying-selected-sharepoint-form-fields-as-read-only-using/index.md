@@ -136,6 +136,7 @@ Displaying selected SharePoint form fields as read-only using List Formatting
         ]
     }
 ```
+
 **Save** the form changes, and now the list form will now look like this, with the read-only values displayed in the header:
 
 ## Conclusion
@@ -144,6 +145,6 @@ This trick makes it harder for people to edit the values in the form, however, i
 
 ## Additional References
 
-Conditional formulas for form fields reference: [Show or hide columns in a list or library form](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/list-form-conditional-show-hide)
+Conditional formulas for form fields reference: [Show or hide columns in a list or library form](https://docs.microsoft.com/sharepoint/dev/declarative-customization/list-form-conditional-show-hide)
 
 

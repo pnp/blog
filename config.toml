@@ -1,9 +1,16 @@
 languageCode = 'en-us'
 baseURL = "https://pnp.github.io/blog"
-title = "Microsoft 365 Community Blog"
+title = "Microsoft 365 & Power Platform Community Blog"
+
+googleAnalytics = "G-73XT0YEW9J"
+
+[params]
+    PnPHomePageUrl = "https://pnp.github.io/"
+    PnPHomePageName = "Community Home Page"
 
 # Set content editor
 newContentEditor = "code"
+timeout = 90000
 
 [frontmatter]
 date = ['date', 'publishDate', 'lastmod']

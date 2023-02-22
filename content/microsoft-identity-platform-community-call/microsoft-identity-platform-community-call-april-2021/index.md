@@ -2,7 +2,7 @@
 title: "Microsoft Identity Platform community call - April 2021"
 date: 2021-05-20T05:28:00-04:00
 author: "Andrew Benson"
-categories: ["Microsoft Identity platform community call"]
+categories: ["Microsoft identity platform community call"]
 images:
 - images/ViewPorter.png
 tags: []
@@ -10,7 +10,7 @@ type: "regular"
 
 ---
 
-**{{< image alt="EventHubBlockDiagram.png" src="images/EventHubBlockDiagram.png" >}}
+**![EventHubBlockDiagram.png](images/EventHubBlockDiagram.png)
 
  
 ## Call summary

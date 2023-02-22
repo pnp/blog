@@ -6,11 +6,11 @@ githubname: dips365
 categories: []
 images:
 - images/GN3.jpg
-tags: []
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
-## Introduction 
+## Introduction
 
 Modern SharePoint architecture gives fantastic OOTB global navigation,
 and hub site navigation has amazing potential to maintain consistency
@@ -46,7 +46,7 @@ Below Artifacts are going to be used,
 -   [Fluent Ui Command
     Bar](https://developer.microsoft.com/fluentui#/controls/web/commandbar)
 
-## Steps 
+## Steps
 
 1.  Configure Terms in Term Stores
 2.  Create Solution for Application Customizer
@@ -72,7 +72,7 @@ Create Term Set inside created Term Group
 -   Copy term Set Id and Paste it in one document.
 
 Create Terms Inside create Term Sets.
-{{< image alt="Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI.gif" src="images/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI.gif" >}}
+![Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI.gif](images/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI.gif)
 
 **Step 2 - Create SPFx Solution for Application Customizer**
 
@@ -82,7 +82,7 @@ Go to your physical location where you want to create a solution.
 
 Once all required packages are installed then you will get the below
 message.
-{{< image alt="GN3.jpg" src="images/GN3.jpg" >}}
+![GN3.jpg](images/GN3.jpg)
 
 Open Code in visual studio code by typing below one line code in node
 command prompt.
@@ -92,7 +92,7 @@ C:\Demo\GlobalNavigation>code .
 ```
 
 The solution structure looks like the ad below.
-{{< image alt="GV3.jpg" src="images/GV3.jpg" >}}
+![GV3.jpg](images/GV3.jpg)
 
 ## Step 3 - Import required packages from npm
 
@@ -165,7 +165,7 @@ Create 3 files inside the components folder.
 2.  IGlobalNavProps.ts
 3.  IGlobalNavState.ts
 
-{{< image alt="GV4.jpg" src="images/GV4.jpg" >}}
+![GV4.jpg](images/GV4.jpg)
 
 Add below code to IGlobalNavProps.ts,
 
@@ -205,7 +205,7 @@ export default class GlobalNav extends React.Component<IGlobalNavProps, IGobalNa
     }
     public render(): React.ReactElement<IGlobalNavProps> {
         return (
-            
+
 
                 Hello World
             </div>
@@ -420,7 +420,7 @@ public render(): React.ReactElement<IGlobalNavProps> {
             <>
                 {
                     this.state.terms.length > 0 &&
-                    
+
 
                         <CommandBar  {...CommandBarProps}
                             style={{ width: "100%" }}
@@ -481,14 +481,14 @@ gulp build
 gulp serve --config:"gobalNavigationBar"
 ```
 
-{{< image alt="Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png" src="images/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png" >}}
+![Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png](images/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI5.png)
 
 Copy URL which is highlighted in yellow and paste it into the browser.
 
-{{< image alt="Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif" src="images/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif" >}}
+![Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif](images/Global navigation in Modern SharePoint Using SPFx PnP and Fluent UI6.gif)
 
 
-## Conclusion 
+## Conclusion
 
 We have implemented the SPFx solution and get terms from the term store
 using PnP and render items in the command bar which is fluent UI

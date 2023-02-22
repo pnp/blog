@@ -4,7 +4,7 @@ date: 2021-01-12T12:07:00-05:00
 author: "Paul Bullock"
 githubname: pkbullock
 categories: ["Community post"]
-tags: []
+tags: ["Power Automate", "Azure Logic Apps"]
 type: "regular"
 ---
 
@@ -77,12 +77,12 @@ SharePoint list item, get property from my Office 365 profile and Email
 me when the item has changed (btw, this is available as a template), the
 Flow would look like this:
 
-{{< image alt="Example Flow in Power Automate" src="images/Power Automate Flow Example.jpg" >}}
+![Example Flow in Power Automate](images/Power Automate Flow Example.jpg)
 
 Within Power Automate, you have the option of **exporting** a Flow to
 Logic apps:
 
-{{< image alt="Screenshot showing the export option to Logic Apps" src="images/Export to Logic Apps - When an item is modified.jpg" >}}
+![Screenshot showing the export option to Logic Apps](images/Export to Logic Apps - When an item is modified.jpg)
 
 
 The export feature generates an ARM template (an Azure Resource Manager
@@ -96,7 +96,7 @@ Subscription](https://azure.microsoft.com/pricing?WT.mc_id=AZ-MVP-5003816).
 Search for "custom template" then find the option to "Deploy a custom
 template" as shown below:
 
-{{< image alt="Deploy a template option in the Azure Portal" src="images/Deploy a custom template.jpg" >}}
+![Deploy a template option in the Azure Portal](images/Deploy a custom template.jpg)
 
 
 Following the instructions and complete the fields in which Azure
@@ -109,7 +109,7 @@ Once completed, you will need to Enable your Logic App then your Flow
 will be ready in Azure:
  
 
-{{< image alt="Showing the Logic App Designer and the example Flow" src="images/Azure Logic App Equivelant.jpg" >}}
+![Showing the Logic App Designer and the example Flow](images/Azure Logic App Equivelant.jpg)
 
 Whilst this is not the full instructions for performing the import, if
 you want to see the full process of importing the Flow, visit the
@@ -184,7 +184,7 @@ deploy -- the advantage of this, there is a feature called "Budgets"
 which allow you to set up an alerting period, e.g. monthly that send
 notifications if the costings go over a budget, allowing you to assess
 the resource and optimise -- but to note this isn't a cap.
-{{< image alt="Azure Resource Group with the Budget settings screen" src="images/Azure Budget.jpg" >}}
+![Azure Resource Group with the Budget settings screen](images/Azure Budget.jpg)
 
 Azure Logic apps also have the option of Integrated Service
 Environments, whilst they provide access to dedicated Azure resources,
@@ -202,7 +202,7 @@ explore the technologies further:
 
 -   Microsoft Learn - [Build automated workflows to integrate data and
     apps with Azure Logic Apps - Learn | Microsoft
-    Docs](https://docs.microsoft.com/learn/paths/build-workflows-with-logic-apps?WT.mc_id=AZ-MVP-5003816)
+    Docs](https://learn.microsoft.com/en-us/training/paths/build-workflows-with-logic-apps/?WT.mc_id=AZ-MVP-5003816%3FWT.mc_id%3DAZ-MVP-5003816)
 -   Microsoft Learn - [Browse all Power Automate Modules in Microsoft
     Learn | Microsoft
     Docs](https://docs.microsoft.com/learn/browse/?products=power-platform&terms=Flow&WT.mc_id=AZ-MVP-5003816)

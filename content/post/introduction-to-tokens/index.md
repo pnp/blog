@@ -3,7 +3,7 @@ title: "Introduction to tokens"
 date: 2021-04-12T07:44:00-04:00
 author: "Lee Ford"
 githubname: LeeFord
-categories: []
+categories: ["Community post"]
 images:
 - images/01ed60e47ba84e66b302a6ef0e9035d2.png
 tags: []
@@ -67,7 +67,7 @@ you would not be able to access with an ID token.
 If you are still confused of the difference between **authentication**
 and **authorization**, [@LuiseFreese](https://twitter.com/LuiseFreese)
 sums it up perfectly:
-{{< image alt="01ed60e47ba84e66b302a6ef0e9035d2.png" src="images/01ed60e47ba84e66b302a6ef0e9035d2.png" >}}
+![01ed60e47ba84e66b302a6ef0e9035d2.png](images/01ed60e47ba84e66b302a6ef0e9035d2.png)
 
 > The term "auth token" is widely used can become misleading as it
 > could be interpreted as an **authentication** (ID) or
@@ -106,7 +106,7 @@ end result is what we have above.
 
 Taking the sample above and putting in in to [jwt.ms](https://jwt.ms),
 it is possible to decode from "base64url" back to human-readable JSON.
-{{< image alt="e738e6ef6d6f41ab9e811c7d4e8d5371.png" src="images/e738e6ef6d6f41ab9e811c7d4e8d5371.png" >}}
+![e738e6ef6d6f41ab9e811c7d4e8d5371.png](images/e738e6ef6d6f41ab9e811c7d4e8d5371.png)
 
 You will now see a JWT is made up of 3 parts:
 
@@ -179,7 +179,7 @@ authentication, so the end-user is redirected to authenticate at the
 authorization server (I know, confusing). If successful, an ID token is
 returned and then validated by the application. If it passes validation,
 access is granted to the application.
-{{< image alt="openidconnect.png" src="images/openidconnect.png" >}}
+![openidconnect.png](images/openidconnect.png)
 
 ## OAuth 2.0 auth code grant 
 
@@ -191,7 +191,7 @@ authorization server with the authorization code, but this time an
 access token is returned. With the access token, a protected API can
 then be accessed.
 
-{{< image alt="LeeFord_0-1641203766651.png" src="images/LeeFord_0-1641203766651.png" >}}
+![LeeFord_0-1641203766651.png](images/LeeFord_0-1641203766651.png)
 
 ## Wrap up
 

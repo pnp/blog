@@ -12,7 +12,7 @@ type: "regular"
 
 
 
-PnP PowerShell has a set of cmdlets to [manage custom list templates.](https://docs.microsoft.com/en-us/sharepoint/lists-custom-template)
+PnP PowerShell has a set of cmdlets to [manage custom list templates.](https://docs.microsoft.com/sharepoint/lists-custom-template)
 
 [**Add-PnPListDesign**](https://pnp.github.io/powershell/cmdlets/Add-PnPListDesign.html)
 
@@ -132,7 +132,6 @@ if($lib)
 
 ```powershell-interactive
 
-```
     PS C:\Windows\system32> C:\Scripts\DocumentLibraryTemplate\ApplyListDesignToCreateLibaries.ps1
     
     Title                                        OutcomeText                            Outcome
@@ -178,6 +177,7 @@ if($lib)
     Annual Reports                                                                            
     	Setting versioning to major/minor to : Annual Reports
     
+```
 
 Libraries created after running the script
 

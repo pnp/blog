@@ -6,7 +6,7 @@ githubname: YannickRe
 categories: ["Community post"]
 images:
 - images/image.png
-tags: []
+tags: ["Microsoft Teams", "Azure AD"]
 type: "regular"
 ---
 I love Microsoft Teams and I also love controlling my online appearance,
@@ -14,7 +14,7 @@ but sadly both aren't big friends when you are a Guest in another
 tenant. There still isn't a good/easy way of controlling your own
 profile picture, which is sad because you are reduced to a
 not-very-personal colored circle with initials:
-{{< image alt="image.png" src="images/image.png" >}}
+![image.png](images/image.png)
 Fellow MVP [Kazushi Kamegawa](https://twitter.com/kkamegawa) shared a
 method of changing your profile picture in a private forum, but it
 stopped working due to some UI changes in the Azure Portal. Luckily,
@@ -40,7 +40,7 @@ will get confused ;).
 2.  Top right of the Teams UI, switch to the tenant where you want to
     change the profile picture of your Guest account
 
-{{< image alt="image-1.png" src="images/image-1.png" >}}
+![image-1.png](images/image-1.png)
 
 ## Get ID of user account
 
@@ -59,7 +59,7 @@ Chrome/Edge.
     are currently in. You'll need the value next to the `userId`
     property. In my screenshot, it is the GUID that starts with
     `f35707ec-...`
-{{< image alt="image-3.png" src="images/image-3.png" >}}
+![image-3.png](images/image-3.png)
 
 ## User profile page in Azure Portal
 
@@ -76,7 +76,7 @@ page in the Azure AD of the Guest tenant!
     previous step.
 4.  You should now see your profile page in the Azure AD where you are a
     Guest.
-{{< image alt="image-4.png" src="images/image-4.png" >}}
+![image-4.png](images/image-4.png)
 
 ## Edit profile and upload picture
 
@@ -85,7 +85,7 @@ Finally time to upload your profile picture!
 1.  Top of the profile, select the `Edit` button
 2.  With your profile in edit mode, you can browse for a photo on your
     computer and upload it to your profile!
- {{< image alt="image-5.png" src="images/image-5.png" >}}
+ ![image-5.png](images/image-5.png)
 
 ## Wait and enjoy success 
 
@@ -93,7 +93,7 @@ It takes a while for your profile picture to show in Teams, and it might
 even show for a short while and go away again. But if you have enough
 patience, after about a week or so, your profile picture should show
 consistently across the Teams UI both for you and for others!
-{{< image alt="image-6.png" src="images/image-6.png" >}}
+![image-6.png](images/image-6.png)
 
 Until Microsoft Teams or Microsoft 365 gives us an easier way to change
 our profile picture, this is the best way to do it self service. The

@@ -6,7 +6,7 @@ githubname: m3ngi3
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 
@@ -27,7 +27,7 @@ change not being updated in the settings of the action can cause a
  "*ValidationFailed error*" :cross_mark:. Such an error
 will stop the Flow because the schema validation failed:
 
-{{< image alt="PowerAutomate_ParseJSONfail" src="images/PowerAutomate_ParseJSONfail.png" >}}
+![PowerAutomate_ParseJSONfail](images/PowerAutomate_ParseJSONfail.png)
 
 
 As long as you remind to also update the Parse JSON action schema, it
@@ -47,7 +47,7 @@ action less that could fail (#Lean #LessActionsLessRisks).
 
 Let's first have a look at a simple JSON object:
 
-{{< image alt="PowerAutomate_JSONobject" src="images/PowerAutomate_JSONobject.png" >}}
+![PowerAutomate_JSONobject](images/PowerAutomate_JSONobject.png)
 
 
 
@@ -68,7 +68,7 @@ In these cases, the properties of these action do not show up in the
 Dynamic Content Panel for the rest of your Flow. When using the Parse
 JSON action on the output of such an action:
 
-{{< image alt="PowerAutomate_parseJSON" src="images/PowerAutomate_parseJSON.png" >}}
+![PowerAutomate_parseJSON](images/PowerAutomate_parseJSON.png)
 
 
 we can force the rest of the Flow to show us these properties in the
@@ -85,7 +85,7 @@ output of the Compose - SimpleJSONObject action:
 Thanks to the Parse JSON - SimpleJSONObject action, we can (from this
 action on) use the properties defined in its Schema as Dynamic Content:
 
-{{< image alt="PowerAutomate_parseJSONreference" src="images/PowerAutomate_parseJSONreference.png" >}}
+![PowerAutomate_parseJSONreference](images/PowerAutomate_parseJSONreference.png)
 
 The expression of this reference would look like:
 
@@ -119,7 +119,7 @@ SimpleJSONObject action directly. We can use an expression like:
 Power Automate can thus skip the Parse JSON action. Even without this
 parsing, we can reference the property of any action with a JSON output:
 
-{{< image alt="PowerAutomate_parseJSONreferenceDirectly" src="images/PowerAutomate_parseJSONreferenceDirectly.png" >}}
+![PowerAutomate_parseJSONreferenceDirectly](images/PowerAutomate_parseJSONreferenceDirectly.png)
 
 No Parse JSON action needed!
 

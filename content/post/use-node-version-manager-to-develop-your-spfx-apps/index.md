@@ -4,9 +4,9 @@ date: 2021-02-14T08:40:00-04:00
 author: "Toni Pohl"
 githubname: tonipohl
 categories: ["Community post"]
-tags: []
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
-images: 
+images:
 - images/p6.png
 summary: "To develop applications for SharePoint or Microsoft Teams with the SPFx framework, a few requirements must be met on your development computer. Learn how to install the supported Node.js v10.x version and how you can use other Node.js versions additionally with Node Version Manager"
 ---
@@ -18,7 +18,7 @@ to install the supported Node.js v10.x version and how you can use other
 Node.js versions additionally with Node Version
 Manager!
 
-## Why? 
+## Why?
 
 As developer, it often makes sense to have multiple versions of a
 framework installed on a single computer. For developing an app for
@@ -37,7 +37,7 @@ install NVM and desired Node.js versions, and how to switch between the
 Node.js versions. After the installation process, learn how to develop
 your custom SharePoint app using the provided tools.
 
-## Install nvm and Node.js 
+## Install nvm and Node.js
 
 First, follow the steps here to install the Node.js frameworks on your
 machine. Alternatively, there´s a good description at [Set up your
@@ -50,7 +50,7 @@ When you have a later version, such as 14.5, already installed, it´s
 usually not required to uninstall this version. nvm finds that version
 and allows to use it with nvm.
 
-{{< image alt="p1.png" src="images/p1.png" >}}
+![p1.png](images/p1.png)
 
 Alternatively, when you have [chocolatey](https://chocolatey.org/)
 installed, you can run
@@ -61,7 +61,7 @@ choco uninstall nodejs -y
 
 (as I did on my machine to cleanup.)
 
-{{< image alt="p2.png" src="images/p2.png" >}}
+![p2.png](images/p2.png)
 
 You can install nvm from [Node Version Manager (nvm) for
 Windows](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows "https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows")
@@ -81,7 +81,7 @@ nvm ls
 should find no Node.js versions.
 
 
-{{< image alt="p3.png" src="images/p3.png" >}}
+![p3.png](images/p3.png)
 
 To see the latest Node.js versions check <https://nodejs.org/en/>, or
 simply run
@@ -90,7 +90,7 @@ simply run
 nvm ls available
 ```
 
-{{< image alt="List available Node.js versions" src="images/p4.png" >}}
+![List available Node.js versions](images/p4.png)
 
 Now, install the desired Node.js versions:
 
@@ -98,13 +98,13 @@ Now, install the desired Node.js versions:
 nvm install 10.23.0
 ```
 
-{{< image alt="p5.png" src="images/p5.png" >}}
+![p5.png](images/p5.png)
 
 ```bash
 nvm install 14.15.4
 ```
 
-{{< image alt="p6.png" src="images/p6.png" >}}
+![p6.png](images/p6.png)
 
 Etc. For the latest Node.js version, simply run
 
@@ -112,13 +112,13 @@ Etc. For the latest Node.js version, simply run
 nvm install latest
 ```
 
-Now check the installed versions: 
+Now check the installed versions:
 
 ```bash
 nvm ls
 ```
 
-{{< image alt="p7.png" src="images/p7.png" >}}
+![p7.png](images/p7.png)
 
 You can now switch between versions with nvm. Use \<nvm version>, e.g.
 
@@ -135,7 +135,7 @@ nvm use 14.15.4
 That´s the basic installation of Node.js and
 [npm](https://www.npmjs.com/get-npm).
 
-## Install the SPFx development tools once 
+## Install the SPFx development tools once
 
 To install the required tools
 [yo](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#install-yeoman)
@@ -153,9 +153,9 @@ nvm use 10.23.0
 npm install gulp yo @microsoft/generator-sharepoint --global
 ```
 
-{{< image alt="npm install" src="images/p8.png" >}}
+![npm install](images/p8.png)
 
-## Create a new SPFx web part 
+## Create a new SPFx web part
 
 To create a new SPFx app, follow the steps described at [Build your
 first SharePoint client-side web part (Hello World part
@@ -166,7 +166,7 @@ In a new directory, run
 yo @microsoft/sharepoint
 ```
 
-{{< image alt="Run yo" src="images/p9.png" >}}
+![Run yo](images/p9.png)
 
 You need to trust the development self-signed SSL certificate as
 described at [Trusting the self-signed developer
@@ -178,15 +178,15 @@ gulp trust-dev-cert
 ```
 
 
-{{< image alt="gulp trust-dev-cert" src="images/p10.png" >}}
+![gulp trust-dev-cert](images/p10.png)
 
 You can open Visual Studio Code now to modify the solution: *code .*
 
-## Run the SPFx web part 
+## Run the SPFx web part
 
 The generated solution includes the sample app that can now be modified.
 
-{{< image alt="Coding\..." src="images/p11.png" >}}
+![Coding\...](images/p11.png)
 When done, let´s open the default browser with the gulp webserver:
 
 ```bash
@@ -198,13 +198,13 @@ This opens the SPFx workbench, in our sample at
 web part to the workbench page and test it.
 
 
-{{< image alt="Use the workbench to run the web part" src="images/p12.png" >}}
+![Use the workbench to run the web part](images/p12.png)
 
 **Tip:** When gulp serve is running, you can open your M365 tenant´s SPO
 site and use the custom web part with the data from SharePoint, too:
 [https://\<tenant>.sharepoint.com/sites/\<sitename>/\_layouts/15/workbench.aspx](https://%3ctenant%3e.sharepoint.com/sites/%3Csitename%3E/_layouts/15/workbench.aspx)
 
-## Deploy the SPFx solution 
+## Deploy the SPFx solution
 
 To build the ready-to-use solution, run
 
@@ -222,7 +222,7 @@ to create the `\sharepoint\solution\<project>.sppkg` file that can
 be uploaded to the [SharePoint App
 catalog](https://docs.microsoft.com/sharepoint/use-app-catalog?redirectSourcePath=%252farticle%252fuse-the-app-catalog-to-make-custom-business-apps-available-for-your-sharepoint-online-environment-0b6ab336-8b83-423f-a06b-bcc52861cba0).
 
-## Develop the solution 
+## Develop the solution
 
 You can follow the next steps to develop the app described here:
 

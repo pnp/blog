@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/Output.png
-tags: []
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -19,15 +19,15 @@ image or a composition of the person's initials on a background color),
 their name or identification, and so on. for more details refer to
 [Fluent UI persona](https://developer.microsoft.com/fluentui#/controls/web/persona).
 
-## Scenario  
+## Scenario 
 
 We will create an SPFx web part in the way to fetch users from any
 specific group and render these users using a persona. so let's see
 step-by-step implementation.
 In the end, our output will be like this,
-{{< image alt="Output.png" src="images/Output.png" >}}
+![Output.png](images/Output.png)
 
-## Implementation   
+## Implementation  
 
 Open a command prompt\
 Move to the path where you want to create a project\
@@ -44,12 +44,12 @@ Move to the above-created directory using:
 Now execute the below command to create an SPFx solution:
 
 
-    yo @microsoft/sharepoint 
+    yo @microsoft/sharepoint
 
 
 It will ask some questions, as shown below,
 
-{{< image alt="Project Structure.png" src="images/Project Structure.png" >}}
+![Project Structure.png](images/Project Structure.png)
 
 
 
@@ -183,7 +183,7 @@ export function RenderProfilePicture(props: IProfilePicProps) {
     }, [props])
 
     return (
-        
+
 
             <Persona
                 imageUrl={profileUrl}
@@ -258,7 +258,7 @@ export default class Spfxpersona extends React.Component<ISpfxpersonaProps, ISpf
             displayName={m.Title}
             getUserProfileUrl={() => this.getUserProfileUrl(m.LoginName)}  ></RenderProfilePicture>
         )}
-      
+
     );
   }
 }
@@ -277,16 +277,16 @@ Now test the webpart in SharePoint-SiteURL +
 
 
 
-## Output 
+## Output
 
-{{< image alt="Output.png" src="images/Output.png" >}}
+![Output.png](images/Output.png)
  
 
 Find here the [full source code
 ](https://github.com/chandaniprajapati/spfx-fluentui-persona).
  
 
-## Summary 
+## Summary
 
 In this article, we have seen the step-by-step implementation of how to
 use a persona card to show the users' profile picture.

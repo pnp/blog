@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/210608-together-mode.gif
 tags: []
 type: "regular"
 ---
@@ -45,7 +44,6 @@ actively participating in this PnP Community during May.  You make this
 community stronger.  The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call. 
-{{< image alt="210608-together-mode.gif" src="images/210608-together-mode.gif" >}}
 
 
 **SharePoint Site Templates -- the latest features and experiences**
@@ -118,7 +116,7 @@ Channel](https://aka.ms/m365pnp-videos).
     Matt Mooty (Microsoft --
     [19:32](https://youtu.be/Pxfq2i4ys1U?t=1172)
 The full recording of this session is available from Microsoft 365 &
-SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
+SharePoint Community YouTube channel - <https://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are attached to this
     post.
 
@@ -184,12 +182,12 @@ Additional resources on covered topics and discussions.
 -   [SharePoint Starter
     Kit](https://github.com/SharePoint/sp-starter-kit)
 -   Recurrent invite to SharePoint Development monthly calls
-    - <http://aka.ms/spdev-call>
--   SharePoint Developer documentation - <http://aka.ms/spdev-docs>
--   SharePoint Development Issues - <http://aka.ms/spdev-issues>
+    - <https://aka.ms/spdev-call>
+-   SharePoint Developer documentation - <https://aka.ms/spdev-docs>
+-   SharePoint Development Issues - <https://aka.ms/spdev-issues>
 -   SharePoint GitHub organization - <http://github.com/SharePoint>
 -   SharePoint Development UserVoice - new feature requests
-    - <http://aka.ms/spdev-uservoice>
+    - <https://aka.ms/spdev-uservoice>
 
 
 ## Upcoming Calls | Recurrent Invites
@@ -210,5 +208,5 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/IDDevCommunityCalendar>
 \"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics
-- <http://aka.ms/m365pnp>.
+- <https://aka.ms/m365pnp>.
 *"Sharing is caring"*

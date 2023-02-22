@@ -6,11 +6,11 @@ githubname: yhabersaat
 categories: ["Community post"]
 images:
 - images/web-part-width.png
-tags: []
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
-## Context 
+## Context
 
 You might know that this new SPFx v1.12 feature has an old story behind
 it. In the past, developers were getting web part's width by
@@ -24,7 +24,7 @@ an **onAfterResize()** event to determine the width of your web part.
 **Note:** In this article, I'm using a web part project with SPFx
 v.1.12 and React framework.
 
-## Determine web part size 
+## Determine web part size
 
 In your web part TS file, you can add the **onAfterResize()** method to
 get notified when the web part is resized (for example when you resize
@@ -92,14 +92,14 @@ And you can display it in your component render() method:
 Final result of this demo web part:
 
 
-{{< image alt="web-part-width.png" src="images/web-part-width.png" >}}
+![web-part-width.png](images/web-part-width.png)
 
 This a great add to SPFx and allows developers to re-render components
 when the web part is resized
 Happy coding everyone!
 
 
-## Resources 
+## Resources
 
 [Determine the rendered web part width | Microsoft
 Docs](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/basics/determine-web-part-width)

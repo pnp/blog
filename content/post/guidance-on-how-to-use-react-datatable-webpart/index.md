@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: []
 images:
 - images/ChandaniPrajapati.png
-tags: []
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -30,7 +30,7 @@ like this.
 
  
 
-{{< image alt="Output1.png" src="images/Output1.png" >}}
+![Output1.png](images/Output1.png)
 
  
 
@@ -67,7 +67,7 @@ Select  **App**.
 
  
 
-{{< image alt="Add_An_App.png" src="images/Add_An_App.png" >}}
+![Add_An_App.png](images/Add_An_App.png)
 
  
 It will open a page for the **SharePoint apps** store. At here find
@@ -75,7 +75,7 @@ It will open a page for the **SharePoint apps** store. At here find
 
  
 
- {{< image alt="App Store.png" src="images/App Store.png" >}}
+ ![App Store.png](images/App Store.png)
 
  
 
@@ -83,12 +83,12 @@ Now create a **page** and add web part.
 
  
 
-{{< image alt="Add-Webpart.png" src="images/Add-Webpart.png" >}}
+![Add-Webpart.png](images/Add-Webpart.png)
  
 
  
 
-### **3 Configure properties from property pane configuration** 
+### **3 Configure properties from property pane configuration**
 
  
 
@@ -96,7 +96,7 @@ Now we will configure a web part as below,
 
  
 
-#### 1. First we will configure the List Configuration section 
+#### 1. First we will configure the List Configuration section
 
 -   Change the web part title that you want to show as a header/title.
 -   Select a list that you want to show in data table format
@@ -104,11 +104,11 @@ Now we will configure a web part as below,
 
  
 
-{{< image alt="List Config.png" src="images/List Config.png" >}}
+![List Config.png](images/List Config.png)
 
  
 
-#### **2. Now configure the Search and Sort Section.** 
+#### **2. Now configure the Search and Sort Section.**
 
 -   **Search**
     -   If you will enable search then it will ask the user for which
@@ -124,9 +124,9 @@ Now we will configure a web part as below,
 
  
 
-{{< image alt="Search_Sort_Config.png" src="images/Search_Sort_Config.png" >}}
+![Search_Sort_Config.png](images/Search_Sort_Config.png)
 
-####  3. Now we will configure Advanced features. 
+####  3. Now we will configure Advanced features.
 
  
 
@@ -150,7 +150,7 @@ Now we will configure a web part as below,
         -   Using this color picker option we can set **odd/even row
             color** in the table dynamically.
 
-{{< image alt="Advanced_Features.png" src="images/Advanced_Features.png" >}}
+![Advanced_Features.png](images/Advanced_Features.png)
 
  
 
@@ -158,7 +158,7 @@ Now we will configure a web part as below,
 
  
 
-{{< image alt="Output1.png" src="images/Output1.png" >}}
+![Output1.png](images/Output1.png)
  
 
 ## Summary

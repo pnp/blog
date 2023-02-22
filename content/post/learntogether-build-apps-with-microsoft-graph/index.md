@@ -20,8 +20,8 @@ Call to action: Learn how to make apps with Microsoft Graph and complete
 this [Microsoft Graph Learn
 Challenge](https://docs.microsoft.com/learn/challenges?id=7ca6c7f7-cc0d-4c31-9b74-5ce5658787e7&WT.mc_id=m365-24198-cxa)
 
-{{< image alt="Segment1.png" src="images/Segment1.png" >}}
+![Segment1.png](images/Segment1.png)
 
-{{< image alt="Segment2.png" src="images/Segment2.png" >}}
+![Segment2.png](images/Segment2.png)
 
-{{< image alt="Segment3-5.png" src="images/Segment3-5.png" >}}
+![Segment3-5.png](images/Segment3-5.png)

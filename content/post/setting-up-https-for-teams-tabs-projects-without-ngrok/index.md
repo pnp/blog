@@ -6,8 +6,8 @@ githubname: BobGerman
 categories: ["Community post"]
 images:
 - images/localhostcert.png
-tags: []
-type: "trending"
+tags: ["Microsoft Teams"]
+type: "regular"
 ---
 
 I've started using the new Microsoft Teams toolkit, which is a Visual
@@ -21,7 +21,7 @@ and there's a different one for each project, so I need repeat the
 process frequently. Your teammates will need to do that as well.
 
 \
-{{< image alt="localhostcert.png" src="images/localhostcert.png" >}}
+![localhostcert.png](images/localhostcert.png)
 
 [Here is an alternative approach in which you create your own
 certificate authority and build certs from that so you can install just
@@ -75,11 +75,11 @@ your part.
 
 -   Double select  the `ca.crt` file and select "Install Certificate".
     \
-    {{< image alt="ssl-01.png" src="images/ssl-01.png" >}}
+    ![ssl-01.png](images/ssl-01.png)
 
 -   Choose Local Machine and select next.
     \
-    {{< image alt="ssl-02.png" src="images/ssl-02.png" >}}
+    ![ssl-02.png](images/ssl-02.png)
 
      
 
@@ -88,7 +88,7 @@ your part.
     Authorities" select "OK" to close the dialog box, and then click
     "Next".
     \
-    {{< image alt="ssl-03.png" src="images/ssl-03.png" >}}
+    ![ssl-03.png](images/ssl-03.png)
 
 -   Restart all instances of your browser to force it to re-read its
     trusted roots. If in doubt, reboot your computer.
@@ -98,16 +98,16 @@ your part.
 -   Double select  the **ca.crt** file, which should be found
     under `/Users/[your-name]/`. It will launch Keychain Access app.
 -   Enter your password or use Touch ID when prompted. \
-    {{< image alt="ssl-mac-01.png" src="images/ssl-mac-01.png" >}}
+    ![ssl-mac-01.png](images/ssl-mac-01.png)
 -   The new certificate (in this case, "MyOrg") should be added.
     Double-select it. \
-    {{< image alt="ssl-mac-02.png" src="images/ssl-mac-02.png" >}}
+    ![ssl-mac-02.png](images/ssl-mac-02.png)
 -   In a new window, expand the **Trust** section of the certificate
     details. Select "Always Trust" for every option. \
-    {{< image alt="ssl-mac-03.png" src="images/ssl-mac-03.png" >}}
+    ![ssl-mac-03.png](images/ssl-mac-03.png)
 -   Close the window. Enter your password or use Touch ID again if you
     are asked. Now the certificate is trusted. \
-    {{< image alt="ssl-mac-04.png" src="images/ssl-mac-04.png" >}}
+    ![ssl-mac-04.png](images/ssl-mac-04.png)
 -   Restart all instances of your browser to force it to re-read its
     trusted roots. If in doubt, reboot your computer.
 

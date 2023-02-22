@@ -6,7 +6,7 @@ githubname: yhabersaat
 categories: ["Community post"]
 images:
 - images/mgt-react-result-2.png
-tags: []
+tags: ["SharePoint framework (SPFx)", "Microsoft Graph Toolkit"]
 type: "regular"
 ---
 
@@ -149,12 +149,12 @@ https://your-sharepoint-online-site/_layouts/workbench.aspx
 We can now see the result of our web part using MGT in the SPO
 workbench:
 
-{{< image alt="mgt-react-result-2.png" src="images/mgt-react-result-2.png" >}}
+![mgt-react-result-2.png](images/mgt-react-result-2.png)
 
 That's it, you have configured a SPFx web part project with Microsoft
 Graph Toolkit and React. You can now integrate other components in your
 web part project without writing any line of code. And don't forget to
-look at the [Get](https://docs.microsoft.com/graph/toolkit/components/get) 
+look at the [Get](https://docs.microsoft.com/graph/toolkit/components/get)
 
 component which provides a great way to query any Microsoft Graph
 endpoint and display the results with a custom template you made for

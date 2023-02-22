@@ -3,10 +3,10 @@ title: "Getting started with SharePoint's custom view formatting"
 date: 2021-03-19T08:42:00-04:00
 author: "Will Holland"
 githubname: willholland
-categories: []
+categories: ["Community post"]
 images:
 - images/column-formatting-after.png
-tags: []
+tags: ["Microsoft lists", "SharePoint", "List formatting"]
 type: "regular"
 ---
 
@@ -17,7 +17,7 @@ post](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-star
 the basic building blocks of custom *column* formatting were introduced
 to us. From that, we learned how to customize our columns to create some
 interesting visuals.
-{{< image alt="column-formatting-after.png" src="images/column-formatting-after.png" >}}
+![column-formatting-after.png](images/column-formatting-after.png)
 
 Things look better, but each column is still a separate component. What
 if we want to tie them all together into a more cohesive presentation?
@@ -26,7 +26,7 @@ can also customize SharePoint list views! That will allow us to go from
 a traditional table/column/cell view, to something that looks 'put
 together', like so\...
 
-{{< image alt="view-formatting-after.png" src="images/view-formatting-after.png" >}}
+![view-formatting-after.png](images/view-formatting-after.png)
 
 ## Preparing for your journey 
 
@@ -56,7 +56,7 @@ previous blog post will apply here as well.
 In case you weren't aware, views in a Modern SharePoint list come in a
 few flavors.
 
-{{< image alt="list-view-flavors.png" src="images/list-view-flavors.png" >}}
+![list-view-flavors.png](images/list-view-flavors.png)
 
 Most of us are probably already very familiar with the *List* layout;
 It's what we've been used to for decades. *Compact List* is the same
@@ -83,7 +83,7 @@ it will be to plan things out in advance. This is where some
 understanding of HTML will come in handy.
 To help guide myself, I created the following image to try and visualize
 how my various DIVs and other elements would be laid out.
-{{< image alt="blowout-witharrows.png" src="images/blowout-witharrows.png" >}}
+![blowout-witharrows.png](images/blowout-witharrows.png)
 This isn't necessary, obviously, but I personally find it helpful to
 have a blueprint in front of me (even if it's only a mental one).
 
@@ -192,7 +192,7 @@ the built-in variable `@currentField`, but what about when we're
 dealing with more than one view? `@currentField` is still there, but it
 holds a slightly different meaning in this context. It will always be a
 reference to the standard *Title* field.
-{{< image alt="LOTR-Meme.png" src="images/LOTR-Meme.png" >}}
+![LOTR-Meme.png](images/LOTR-Meme.png)
 
 Instead of using `@currentField` to reference a column, we'll need to
 use a slightly different format: `[$InternalColumnName]`.
@@ -211,7 +211,7 @@ Alright. Enough with the lessons, it's time to get started.
 We can use the \"map\" we created earlier and turn it into a rough
 skeleton. Each layer in that blowout represent a parent/child
 relationship. So, by looking at our map\...
-{{< image alt="blowout-witharrows.png" src="images/blowout-witharrows.png" >}}
+![blowout-witharrows.png](images/blowout-witharrows.png)
 
 We come up with this.
 
@@ -492,7 +492,7 @@ column formatting used on the *Role* field.
 ```
 
 At this point, we have something like the below image.
-{{< image alt="column-1.png" src="images/column-1.png" >}}
+![column-1.png](images/column-1.png)
 
 
 ## Second column 
@@ -559,7 +559,7 @@ The `justify-content` property, on the other hand, tells the browser to
 evenly distribute our rows across the available height.
 
 We're getting closer to our desired end result.
-{{< image alt="column-2.png" src="images/column-2.png" >}}
+![column-2.png](images/column-2.png)
 
 
 
@@ -601,7 +601,7 @@ Weapon Icons. Let's take a look.
 ```
 
 There's nothing new to discuss here, but it does finish off our sample.
-{{< image alt="column-3.png" src="images/column-3.png" >}}
+![column-3.png](images/column-3.png)
 
 
 ## The Complete Schema 
@@ -747,7 +747,7 @@ There's nothing new to discuss here, but it does finish off our sample.
 
 Now that we've got our view formatted, we're done, right? We could be,
 but the list view is off somehow\...
-{{< image alt="list-view-complete.png" src="images/list-view-complete.png" >}}
+![list-view-complete.png](images/list-view-complete.png)
 Look at all that empty white space! Such a waste, but showing each item
 in a row is what the list view does. Sometimes, that may be exactly what
 you need in some cases but here\...we don't need it.
@@ -755,7 +755,7 @@ Instead, we can use the \"Gallery\" (or \"Tile)\" view, which will
 display our items in a grid view.
 We can copy the the schema we've already defined, and change the
 selected layout from \"List\" to \"Gallery\"
-{{< image alt="format-options.png" src="images/format-options.png" >}}
+![format-options.png](images/format-options.png)
 After that, we can paste it in, but we'll need to modify things every
 so slightly, as the Gallery layout has some additional properties we
 need to specify. Let's look at the basic schema for a gallery view.
@@ -783,7 +783,7 @@ After that, we can simply copy the contents of the `rowFormatter`
 property in the list view example and paste them into the new
 `formatter` property.
 Doing that should get us to where we want to be.
-{{< image alt="final-product.png" src="images/final-product.png" >}}
+![final-product.png](images/final-product.png)
 
 ## Prologue 
 

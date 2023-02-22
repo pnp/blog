@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/parsejson-SPList.png
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 
@@ -14,7 +14,7 @@ We can see a a lot of JSON in our Power Automate flow run history, and
 if you wonder, how you can *parse* JSON to make Dynamic Content (which
 is selectable) out of it so you can more easily make use of an object,
 then this post is made for you.
-{{< image alt="james-pond-26vBUtlufFo-unsplash (1).jpg" src="images/james-pond-26vBUtlufFo-unsplash (1).jpg" >}}
+![james-pond-26vBUtlufFo-unsplash (1).jpg](images/james-pond-26vBUtlufFo-unsplash (1).jpg)
 
 If you want to know what exactly is JSON and what you need to know about
 it, please read this [great article by Bob German in the Microsoft 365
@@ -31,11 +31,11 @@ case. Let's say we wanted to post a random item from a SharePoint list
 to twitter each day using Power Automate. This is a screenshot of my
 list:
 
-{{< image alt="parsejson-SPList.png" src="images/parsejson-SPList.png" >}}
+![parsejson-SPList.png](images/parsejson-SPList.png)
 and this is the overview of the flow that we are going to build:
 
 
-{{< image alt="parsejson-overview-flow.png" src="images/parsejson-overview-flow.png" >}}
+![parsejson-overview-flow.png](images/parsejson-overview-flow.png)
 
 ### Trigger 
 
@@ -80,7 +80,7 @@ we open the run history, and have a look at the Outputs of
 the **Compose** action and copy everything inside of that box.
 
 
-{{< image alt="parsejson-history.png" src="images/parsejson-history.png" >}}
+![parsejson-history.png](images/parsejson-history.png)
 
 Now we edit our flow again, add the Parse JSON action, add the Outputs
 from our Compose Action as Inputs to that action and click
@@ -108,7 +108,7 @@ items from the list, then identify a random list element and send out a
 tweet with the Title and URL auf exactly that list item.
 
 
-{{< image alt="parsejson-twitter.png" src="images/parsejson-twitter.png" >}}
+![parsejson-twitter.png](images/parsejson-twitter.png)
 
 ## Conclusion & What's next? 
 

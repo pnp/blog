@@ -2,10 +2,11 @@
 title: "Don't pay more for SharePoint Storage than you have to :-)"
 date: 2022-02-03T12:35:00-05:00
 author: "Kasper Bo Larsen"
-categories: []
+githubname: kasperbolarsen
+categories: ["Community post"]
 images:
 - images/VersionHistory.png
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
 
@@ -20,7 +21,7 @@ First of all it is important to know how the total SharePoint Storage is calcula
 
 It has been difficult to find any documentation from Microsoft confirming this, but as far as I know Microsoft calculate the Storage for this file as each version multiplied by its size. So in this case our file is roughly 25 \* 39 MB towards the Storage allowance. That is a lot. 
 
-{{< image alt="thumbnail image 1 of blog post titled Don't pay more for SharePoint Storage than you have to " src="images/VersionHistory.png" >}}
+![thumbnail image 1 of blog post titled Don't pay more for SharePoint Storage than you have to ](images/VersionHistory.png)
 
 So what can we do about it?
 
@@ -34,7 +35,7 @@ C) Monitor the Site Collections for activity and enforce that the Owners of a Si
 
 D) Monitor the Site Collections for activity and once it is no longer active the Archiving process starts. Depending on the requirements that could be something like:    
 
-{{< image alt="thumbnail image 2 of blog post titled Don't pay more for SharePoint Storage than you have to " src="images/archiveprocess.png" >}}
+![thumbnail image 2 of blog post titled Don't pay more for SharePoint Storage than you have to ](images/archiveprocess.png)
 
 Step number 2 can be omitted but is there to ensure that it will be possible to locate any version of a given document should the need arise.
 
@@ -50,4 +51,4 @@ This script will output a report showing how much Storage you can save per site 
 
 ## SharingIsCaring
 
-{{< image alt="thumbnail image 3 of blog post titled Don't pay more for SharePoint Storage than you have to " src="images/parker.png" >}}
+![thumbnail image 3 of blog post titled Don't pay more for SharePoint Storage than you have to ](images/parker.png)

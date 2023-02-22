@@ -6,7 +6,7 @@ githubname: Tbag
 categories: ["Power Apps community call"]
 images:
 - images/recording-power-apps-community-call-april-2022.png
-tags: [ "Extensions", "Microsoft 365", "Power Apps"]
+tags: [ "SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
 summary: "Two demos: Customer Inventory and Daily Expenses App and Introduction to Power Apps Portals.   Changes to Community and call structure, Power Platform Community events, recent news – five items.  Register for Power Platform Samples – First Time Contributor May 9th."
 videos:
@@ -23,7 +23,7 @@ with David Warner during Power Apps Community Program Manager Office Hours.
 There was live Q & A regarding program changes, dates for upcoming training and
 community events announced, recent news, PnP Community Recognition Program, and
 2 demos - Customer Inventory and Daily Expenses App and Introduction to Power
-Apps Portals. This call was hosted by [Todd 
+Apps Portals. This call was hosted by [Todd
 Baginski](http://twitter.com/toddbaginski) (Canviz) and [David Warner
 II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. The call
 was recorded on April 20, 2022. Questions additionally addressed in chat
@@ -38,15 +38,15 @@ throughout the call.
     and [OData Editor
     Improvements](https://docs.microsoft.com/power-platform-release-plan/2022wave1/power-automate/odata-editor-improvements-cloud-flows)
 * [Announcing Public Preview of a new Power Apps application on
-    Windows](https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-a-new-power-apps-application-on-windows/)
+    Windows](https://powerapps.microsoft.com/blog/announcing-public-preview-of-a-new-power-apps-application-on-windows/)
     \- run your Power Apps offline on the desktop, supports native device
     capabilities
 * [Introducing the new Power Automate pane in Power
-    Apps!](https://powerapps.microsoft.com/en-us/blog/introducing-the-new-power-automate-pane-in-power-apps/)
+    Apps!](https://powerapps.microsoft.com/blog/introducing-the-new-power-automate-pane-in-power-apps/)
     \- see Flows already in your App or edit existing Flows, create new Flow
     button
 * [Announcing Public Preview of wrap for Power
-    Apps](https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-wrap-for-power-apps/)
+    Apps](https://powerapps.microsoft.com/blog/announcing-public-preview-of-wrap-for-power-apps/)
     \- wrap Canvas apps as custom-branded Android & iOS apps
 * Power Platform sample - [Invoice Automation using the SharePoint
     Syntex](https://github.com/Spucelik/syntex-samples/tree/main/models/Invoice%20Processing)
@@ -92,13 +92,6 @@ throughout the call.
 * Demo - Introduction to Power Apps Portals - [Hugo
     Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh –
     [33:48](https://youtu.be/lxVuESLcl-c?t=2028)
-
-## Together Mode
-
-![PowerApps-CommunityCall-TogetherMode-April2022-500w.gif](images/PowerApps-CommunityCall-TogetherMode-April2022-500w.gif)
-
-Maximum participation in the Community’s first time Together Mode photo! Great
-to see the many faces of this vibrant Community.
 
 ## Actions
 

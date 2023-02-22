@@ -5,7 +5,7 @@ author: "Reshmee Auckloo"
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["PnP PowerShell"]
 type: "regular"
 ---
 
@@ -126,10 +126,10 @@ write-host $("End time " + (Get-Date))
 The script took up to 4 hours to add 300k items. The script resumed
 despite an error happening. 
 
-{{< image alt="reshmeeauckloo_0-1631278209238.png" src="images/reshmeeauckloo_0-1631278209238.png" >}}
+![reshmeeauckloo_0-1631278209238.png](images/reshmeeauckloo_0-1631278209238.png)
 
 The script took 7.5 hours to delete 300k items with a couple of
 retries.  
 
-{{< image alt="reshmeeauckloo_2-1631278372706.png" src="images/reshmeeauckloo_2-1631278372706.png" >}}
+![reshmeeauckloo_2-1631278372706.png](images/reshmeeauckloo_2-1631278372706.png)
 

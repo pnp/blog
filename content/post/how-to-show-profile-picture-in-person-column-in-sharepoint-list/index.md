@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/22.png
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
 
@@ -28,13 +28,13 @@ details refer to
 3.  Create a Person column in List/Library as below,
  
 
-{{< image alt="22.png" src="images/22.png" >}}
+![22.png](images/22.png)
 4.  Turn on to show profile photo to see profile URL.
 
-{{< image alt="1.png" src="images/1.png" >}}
+![1.png](images/1.png)
 5.  Then create a list item and check it in the list/library view.
 
-{{< image alt="3.png" src="images/3.png" >}}
+![3.png](images/3.png)
 
 ## Summary 
 

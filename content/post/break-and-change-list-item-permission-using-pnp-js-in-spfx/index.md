@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/FirstOP.png
-tags: []
+tags: ["PnPjs", "SharePoint framework (SPFx)"]
 type: "regular"
 ---
 
@@ -40,11 +40,11 @@ Now we will implement the logic for break permission as below,
 
 ### Setting list item permission to one user
 
-{{< image alt="Single user.png" src="images/Single user.png" >}}
+![Single user.png](images/Single user.png)
 
 ## Setting list item permission to multiple users
 
-{{< image alt="Multiple users.png" src="images/Multiple users.png" >}}
+![Multiple users.png](images/Multiple users.png)
 
 Here logic will be the same as above. just have to add one array with
 required user IDs and then will iterate this array and set the
@@ -57,17 +57,17 @@ so first select the list item and select  the details panel from the
 right corner second last icon (above the list title). you can see the
 panel as below,
 
-{{< image alt="FirstOP.png" src="images/FirstOP.png" >}}
+![FirstOP.png](images/FirstOP.png)
 
 Select  **manage access** and then select  Advanced as below,
 
 
-{{< image alt="SecondCropped.png" src="images/SecondCropped.png" >}}
+![SecondCropped.png](images/SecondCropped.png)
 
 It will open another tab and in this, you can see all the list item
 level permission as below,
 
-{{< image alt="Third.png" src="images/Third.png" >}}
+![Third.png](images/Third.png)
 
 ## Summary
 

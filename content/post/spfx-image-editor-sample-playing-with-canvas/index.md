@@ -5,7 +5,7 @@ author: "Peter Paul Kirschner"
 categories: ["Community post"]
 images:
 - images/Screenshot 2021-03-22 at 21.42.06.png
-tags: []
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -17,12 +17,12 @@ Image-Editor should work in every combination of applied manipulations.
 
 So, I started to play with canvas.
 
-{{< image alt="Screenshot 2021-03-22 at 21.42.06.png" src="images/Screenshot 2021-03-22 at 21.42.06.png" >}}
+![Screenshot 2021-03-22 at 21.42.06.png](images/Screenshot 2021-03-22 at 21.42.06.png)
 
 ## How HTML canvas  works
 
- {{< image alt="Screenshot 2021-03-22 at 20.29.22.png" src="images/Screenshot 2021-03-22 at 20.29.22.png" >}}
-{{< image alt="Screenshot 2021-03-22 at 20.29.33.png" src="images/Screenshot 2021-03-22 at 20.29.33.png" >}}
+ ![Screenshot 2021-03-22 at 20.29.22.png](images/Screenshot 2021-03-22 at 20.29.22.png)
+![Screenshot 2021-03-22 at 20.29.33.png](images/Screenshot 2021-03-22 at 20.29.33.png)
 
  
 The next step is to draw an image to our HTML canvas
@@ -49,7 +49,7 @@ The next step is to draw an image to our HTML canvas
 ```
  
 
-{{< image alt="Parker draw on canvas" src="images/Screenshot 2021-03-23 at 14.38.34.png" >}}
+![Parker draw on canvas](images/Screenshot 2021-03-23 at 14.38.34.png)
 
 How to Flip such thing
 
@@ -62,7 +62,7 @@ ctx.scale(-1, 1);
 ```
  
 
-{{< image alt="Flip Parker Y" src="images/Screenshot 2021-03-23 at 14.47.53.png" >}}
+![Flip Parker Y](images/Screenshot 2021-03-23 at 14.47.53.png)
 
 FlipX
  
@@ -73,7 +73,7 @@ ctx.scale(1, -1);
 ```
  
 
-{{< image alt="Flip Parker X" src="images/Screenshot 2021-03-23 at 14.47.07.png" >}}
+![Flip Parker X](images/Screenshot 2021-03-23 at 14.47.07.png)
 
 Rotate:
 
@@ -81,20 +81,20 @@ To explain rotation, I start with a straightforward Sample
 
 I draw only a Rectangle on a canvas
 
-{{< image alt="Screenshot 2021-03-22 at 21.48.21.png" src="images/Screenshot 2021-03-22 at 21.48.21.png" >}}
+![Screenshot 2021-03-22 at 21.48.21.png](images/Screenshot 2021-03-22 at 21.48.21.png)
 
  
 
 Then I rotate this thing for 20 Degree
 
-{{< image alt="Screenshot 2021-03-22 at 21.48.51.png" src="images/Screenshot 2021-03-22 at 21.48.51.png" >}}
+![Screenshot 2021-03-22 at 21.48.51.png](images/Screenshot 2021-03-22 at 21.48.51.png)
 
  
 
 As you can see the rotation Point is not in the Center of the Canvas.
 The Rotation Point is at Position 0,0
 
-{{< image alt="Screenshot 2021-03-22 at 21.54.42.png" src="images/Screenshot 2021-03-22 at 21.54.42.png" >}}
+![Screenshot 2021-03-22 at 21.54.42.png](images/Screenshot 2021-03-22 at 21.54.42.png)
 
 For this sample I want to rotate the Rectangle from the center of the
 Black box. So we have to move center to position 0,0 than the rotation
@@ -120,7 +120,7 @@ const img= new Image()
   const oldheight =c.height = img.height;
   const degree=20;
   const radian=degree*Math.PI/180 //Radian
-  
+
   const a = oldwidth * Math.abs(Math.cos(radian));
   const b =  oldheight * Math.abs(Math.sin(radian));
   const p = oldwidth * Math.abs(Math.sin(radian));
@@ -132,22 +132,22 @@ const img= new Image()
    const offsetheight = (newheight - oldheight) / 2;
     c.width = newwidth;
     c.height = newheight;
-  
+
   ctx.translate(newwidth/2,newheight/2);
   ctx.rotate(radian);
   ctx.translate(-newwidth/2,-newheight/2);
-  
+
   ctx.fillStyle = "#0078d4";
   ctx.fillRect(offsetwidth,offsetheight,oldwidth,oldheight);
-  
+
   ctx.drawImage(img, offsetwidth, offsetheight);
    ctx.font = "30px Arial";
   ctx.strokeText("Hello PnP-Community",offsetwidth+10,offsetheight+50);
-  
+
 }
 ```
 
-{{< image alt="Screenshot 2021-03-23 at 15.18.24.png" src="images/Screenshot 2021-03-23 at 15.18.24.png" >}}
+![Screenshot 2021-03-23 at 15.18.24.png](images/Screenshot 2021-03-23 at 15.18.24.png)
 
  
 
@@ -157,4 +157,3 @@ Try it [sp-dev-fx-webparts/samples/react-image-editor at master ·
 pnp/sp-dev-fx-webparts
 (github.com)](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-image-editor)
  
-

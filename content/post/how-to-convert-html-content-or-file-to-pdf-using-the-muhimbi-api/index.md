@@ -6,11 +6,11 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/ChandaniPrajapati_0-1639758794000.png
-tags: []
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
-## Introduction 
+## Introduction
 
 This article is used whenever you are getting any content from
 SharePoint List/Library or anything else and rendering it in any
@@ -19,7 +19,7 @@ extract CSS as well so here we will create a dynamic HTML (List or Table
 or anything else as per our requirement) and we can add some inline CSS
 as well. So in this article, we will see step-by-step implementations.
 
-## Implementation 
+## Implementation
 
 **1. Register to Muhimbi API**
 To get the trial version API key, Register to
@@ -42,10 +42,10 @@ Move to the above-created directory using:
     cd muhimbi-export-html-content-to-pdf
 
 Now execute the below command to create an SPFx solution:
-    yo @microsoft/sharepoint 
+    yo @microsoft/sharepoint
 It will ask some questions, as shown below,
 
-{{< image alt="ChandaniPrajapati_0-1639758794000.png" src="images/ChandaniPrajapati_0-1639758794000.png" >}}
+![ChandaniPrajapati_0-1639758794000.png](images/ChandaniPrajapati_0-1639758794000.png)
 
 After a successful installation, we can open a project in any source
 code tool. Here, I am using the VS code, so I will execute the command:
@@ -166,7 +166,7 @@ export class ConvertFileService {
     public convertToPDF(API_Key: string, apiUrl: string, htmlContent: string, fileName: string) {
         const base64data = btoa(htmlContent);
         const postURL = apiUrl;
-        const body = {          
+        const body = {
             "use_async_pattern": false,
             "source_file_name": `${fileName}.html`,
             "source_file_content": base64data,
@@ -301,7 +301,7 @@ export default class MuhimbiExportHtmlContentToPdf extends React.Component<IMuhi
   private htmlContent = `<table style="width:100%;border: 1px solid black;border-collapse: collapse;"">
                           <tr>
                             <th style="border: 1px solid black;border-collapse: collapse;padding: 5px;">Firstname</th>
-                            <th style="border: 1px solid black;border-collapse: collapse;padding: 5px;">Lastname</th> 
+                            <th style="border: 1px solid black;border-collapse: collapse;padding: 5px;">Lastname</th>
                             <th style="border: 1px solid black;border-collapse: collapse;padding: 5px;">Age</th>
                           </tr>
                           <tr>
@@ -354,22 +354,22 @@ export default class MuhimbiExportHtmlContentToPdf extends React.Component<IMuhi
           <PrimaryButton disabled={showLoader ? true : false} style={{ width: '200px', display: 'flex', alignSelf: 'end', marginBottom: '15px' }} text="Download as PDF" onClick={this.exportToPDF} allowDisabledFocus />
           <div dangerouslySetInnerHTML={{ __html: this.htmlContent }} />
         </Stack>
-      
+
     );
   }
 }
 ```
  
-## Output  
+## Output 
 
-{{< image alt="Muhimbi - Export to pdf.gif" src="images/Muhimbi - Export to pdf.gif" >}}
+![Muhimbi - Export to pdf.gif](images/Muhimbi - Export to pdf.gif)
  
 
 Please find my  [source code](https://github.com/chandaniprajapati/muhimbi-export-html-content-to-pdf).
 
 
 
-## Summary 
+## Summary
 
 In this article, we have seen the step-by-step implementation of Muhimbi
 API in the SPFx Web part.

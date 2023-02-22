@@ -20,7 +20,7 @@ playground where we can try out requests, get responses, learn about
 permission scopes, and more. To access Graph Explorer, visit
 [aka.ms/ge](https://aka.ms/ge) and make yourself familiar with it:
 
-{{< image alt="overview.png" src="images/overview.png" >}}
+![overview.png](images/overview.png)
 
 ### Authentication 
 
@@ -37,7 +37,7 @@ When you select the gear icon, you will find a shortcut to the Microsoft
 365 developer program website (to get your sandbox with sample data),
 and you can change the theme as it suits your needs best. I like dark
 mode most :black_heart:.
-{{< image alt="gear.png" src="images/gear.png" >}}
+![gear.png](images/gear.png)
 
 ### Sample queries 
 
@@ -46,34 +46,34 @@ if you are not logged in. If you select  a sample, like I did in the
 screenshot below, Graph Explorer will send this HTTP request to
 Microsoft Graph - and get my joined teams. We can see this in the
 request area (upper part) and the response area (lower part):
-{{< image alt="teams-channel.png" src="images/teams-channel.png" >}}
+![teams-channel.png](images/teams-channel.png)
 
 We now want to create a channel called 'Microsoft Graph' in the Team
 'Insidious Word Domination Plans'. We first copy the ID of the Team
 from the response of that request and then use this ID in the next
 sample we try out, which is:
 
-{{< image alt="post-teams-channel.png" src="images/post-teams-channel.png" >}}
+![post-teams-channel.png](images/post-teams-channel.png)
 
 We then replace the \`{teams-id}\` placeholder with the copied ID value
 from the previous request and change the body to our needs:
 
-{{< image alt="post-teams-channel-replace.png" src="images/post-teams-channel-replace.png" >}}
+![post-teams-channel-replace.png](images/post-teams-channel-replace.png)
 
 In the \*\*Modify permissions\*\* tab, we can learn about - and consent
 to permissions needed to execute this request:
 
-{{< image alt="modify-permissions.png" src="images/modify-permissions.png" >}}
+![modify-permissions.png](images/modify-permissions.png)
 
 But the awesomeness of this tool doesn't stop here - we get
 ready-to-use code snippets in different languages to insert them into
 our applications:
 
-{{< image alt="code-snippet-js.png" src="images/code-snippet-js.png" >}}
+![code-snippet-js.png](images/code-snippet-js.png)
 
 And for some GET requests, we even get Adaptive Cards:
 
-{{< image alt="adaptivecards-json.png" src="images/adaptivecards-json.png" >}}
+![adaptivecards-json.png](images/adaptivecards-json.png)
 
 We can also try out Microsoft Graph Toolkit components right here,
 although I would personally recommend doing this in the dedicated
@@ -87,7 +87,7 @@ browser.
 Last but not least: Documentation to every sample is nicely tied in -
 select  the pop-out icon next to the sample queries:
 
-{{< image alt="pop-out-docs.png" src="images/pop-out-docs.png" >}}
+![pop-out-docs.png](images/pop-out-docs.png)
 
 
 ## How does Graph Explorer help building apps? 

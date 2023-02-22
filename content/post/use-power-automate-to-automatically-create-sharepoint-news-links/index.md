@@ -6,7 +6,7 @@ githubname: willholland
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Power Automate", SharePoint"]
 type: "regular"
 ---
 
@@ -31,7 +31,7 @@ Link" in our home site whenever a new blog post is published to our
 public site.
 So, with this blog, we'll walk through the steps used to accomplish
 that feat.
-{{< image alt="FlowOverview.png" src="images/FlowOverview.png" >}}
+![FlowOverview.png](images/FlowOverview.png)
 
 ## Triggered 
 
@@ -39,7 +39,7 @@ As with any flow, we need something to kick things off. I was afraid
 that this was going to be the biggest technical challenge but,
 thankfully, it turns out that there is a trigger purpose built to do
 exactly what we need: the **When a feed item is published** trigger!
-{{< image alt="1-trigger.png" src="images/1-trigger.png" >}}
+![1-trigger.png](images/1-trigger.png)
 As you can see, the configuration here is dead simple. You simply
 provide it the URL to an RSS feed and select either the **PublishDate**
 or **UpdatedOn** values. We'll stick with the default **PublishDate**
@@ -70,14 +70,14 @@ what we need.
 
 Even better, this data gets turned into variables we can access through
 the *Dynamic Content* selector in Power Automate.
-{{< image alt="1-blog-properties.png" src="images/1-blog-properties.png" >}}
+![1-blog-properties.png](images/1-blog-properties.png)
 
 ## Take a picture, it'll last longer 
 
 One thing we don't get is any sort of image to show, which is a bummer
 because without them, all of our News Links would end up looking like
 the below image.
-{{< image alt="3-blog-no-image.png" src="images/3-blog-no-image.png" >}}
+![3-blog-no-image.png](images/3-blog-no-image.png)
 
 Thankfully, SharePoint has a handy-dandy little service hidden away that
 can help.
@@ -91,11 +91,11 @@ what handles all that 'magic' and it's also something we can leverage
 for our own ends here!
 Thanks to the output of our trigger, we know the URL of the blog post
 we're working with, and we can access it through the
-{{< image alt="5-primaryfeedlink.png" src="images/5-primaryfeedlink.png" >}} variable. However, we do need to make sure that
+![5-primaryfeedlink.png](images/5-primaryfeedlink.png) variable. However, we do need to make sure that
 the URL is in the right format, so we'll create our own variable to
 make it so.
 
-{{< image alt="4-primarylinkencoded.png" src="images/4-primarylinkencoded.png" >}}
+![4-primarylinkencoded.png](images/4-primarylinkencoded.png)
 
 We'll call it *PrimaryLinkEncoded*, make it a string, and initialize
 its value using the following expression:
@@ -105,7 +105,7 @@ which is what the `EmbedData` service expects.
 Now that we have that we just need to call the aforementioned service
 using the **Send an HTTP request to SharePoint** action.
 
-{{< image alt="6-getthumbnail.png" src="images/6-getthumbnail.png" >}}
+![6-getthumbnail.png](images/6-getthumbnail.png)
 
 
 We'll be making a GET request to the root of our SharePoint site.
@@ -124,7 +124,7 @@ We only need to include one header, the `accept` header, with a value of
 Finally, to make things a bit easier to use in a moment, we'll capture
 the output of this request into a variable using the
 `Initialize Variable` action again, like so.
-{{< image alt="7-BannerImageUrl.png" src="images/7-BannerImageUrl.png" >}}
+![7-BannerImageUrl.png](images/7-BannerImageUrl.png)
 We're creating a new string variable named **BannerImageUrl** and
 we're setting its value using the following expression:
 `outputs('Get_Thumbnail')?['body']?['d']?['ThumbnailUrl']`
@@ -134,7 +134,7 @@ we're setting its value using the following expression:
 Now that we've got just about everything we can get, we need to put
 into the format that SharePoint expects when creating a News Link item,
 so it's time to prepare our payload using the `Compose` action.
-{{< image alt="8-compose.png" src="images/8-compose.png" >}}
+![8-compose.png](images/8-compose.png)
 
 It's a fairly simply and (mostly) self-explanatory bit of JSON, so we
 won't dwell on it much. Below is the exact JSON used in the above
@@ -158,7 +158,7 @@ screenshot.
 
 The only thing left to do now is make our post, which will do by using
 another **Send an HTTP request to SharePoint** action, shown below.
-{{< image alt="9-post.png" src="images/9-post.png" >}}
+![9-post.png](images/9-post.png)
 This time, we'll be making a POST to the `_api/sitepages/pages/reposts`
 endpoint (which is what SharePoint does when you post a news link).
 Our headers are only slightly more involved. Our endpoint is expecting
@@ -182,5 +182,5 @@ Once that's all setup, go ahead and save.
 At this point, you're done developing. The only thing left to do is
 wait, really. Once new items are published to the RSS feed, you'll
 eventually see them start showing up in your News web parts!
-{{< image alt="10-done.png" src="images/10-done.png" >}}
+![10-done.png](images/10-done.png)
 

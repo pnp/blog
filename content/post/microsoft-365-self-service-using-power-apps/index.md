@@ -7,7 +7,7 @@ categories:
   - Community post
 images:
   - images/1641653378.png
-tags: []
+tags: ["Power Apps"]
 type: regular
 preview: 
   - images/1641653378.png

@@ -2,7 +2,7 @@
 title: "Microsoft Identity Platform community call -- December 2021"
 date: 2021-12-30T12:21:00-05:00
 author: "Steven Salazar Aray"
-categories: ["Microsoft Identity platform community call"]
+categories: ["Microsoft identity platform community call"]
 images:
 - images/identity-call-THumbnail-November-2021.png
 tags: []
@@ -62,9 +62,9 @@ Microsoft.  Recorded December 16, 2021. Q&A in chat and at end of call.
     aka.ms/zerotrustforidentitydeveloper
 -   Blog series - [Achieving Zero Trust readiness in your apps #1: Why
     it
-    matters](https://aka.ms/ZTRappsblog-part1) | [aka.ms/ZTRappsblog-part1](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FZTRappsblog-part1&data=04%7C01%7CKalyan.Krishna%40microsoft.com%7Cfd791ab56eed4e55417608d9ca314d33%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637763136913157969%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=HLIINSwzxrzMbue6f3OJQ7abZ%2BJCwZSSh0w0fPWcx64%3D&reserved=0)
+    matters](https://aka.ms/ZTRappsblog-part1) | [aka.ms/ZTRappsblog-part1](https://aka.ms/ZTRappsblog-part1)
 -   Documentation - [Code samples for
-    developers](https://aka.ms/aadcodesamples) | [aka.ms/aadcodesamples](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Faadcodesamples&data=04%7C01%7CKalyan.Krishna%40microsoft.com%7Cfd791ab56eed4e55417608d9ca314d33%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637763136913157969%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=XLFsFAs6Kgbmc1T6ceXxrwKHalm9rBVssqCy8L%2BM6XI%3D&reserved=0)
+    developers](https://aka.ms/aadcodesamples) | [aka.ms/aadcodesamples](https://aka.ms/aadcodesamples)
 -   Sample - [Add app roles to your application and receive them in the
     token](https://aka.ms/approles) | aka.ms/approles  
 -   Sample - [Use groups & group claims to an ASP.NET Core Web app that
@@ -101,7 +101,7 @@ Microsoft.  Recorded December 16, 2021. Q&A in chat and at end of call.
     <https://aka.ms/ztdev>
 -   Let us know how we're doing and suggest topics for future calls,
     please complete this
-    survey [https://aka.ms/IDDevCommunityCallSurvey](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FIDDevCommunityCallSurvey&data=04%7C01%7CKalyan.Krishna%40microsoft.com%7Cfd791ab56eed4e55417608d9ca314d33%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637763136913157969%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=OPYLVi9n%2BfrA5qI%2B2Is1%2F6tYFfX6X6lPsE2Qt%2BdCeqQ%3D&reserved=0)
+    survey [https://aka.ms/IDDevCommunityCallSurvey](https://aka.ms/IDDevCommunityCallSurvey)
 -   Join us for the next Microsoft Identity Platform community call
     on January 20^th^ at 9:00am PT
 

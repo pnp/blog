@@ -34,7 +34,7 @@ within [Microsoft 365]{.brand} platform.
 
 **Gautam Sheth - Software Designer**
 
-{{< image alt="gautam.jpg" src="images/gautam.jpg" >}}
+![gautam.jpg](images/gautam.jpg)
 
 [Gautam](https://github.com/gautamdsheth) is a Software Designer at
 [Valo](https://www.valointranet.com). Coming from a developer
@@ -53,7 +53,7 @@ songs or occasionally speaking at local community/user group events.
 **Patrick Lamber -- Microsoft 365 Solutions Architect**
 
 
-{{< image alt="patrick.jpg" src="images/patrick.jpg" >}}
+![patrick.jpg](images/patrick.jpg)
 
 [Patrick](https://github.com/plamber) is a Microsoft Developer MVP and
 Microsoft 365 solutions architect at [Experts Inside

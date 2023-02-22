@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/GraphFun.png
-tags: []
+tags: ["Microsoft Graph"]
 type: "regular"
 
 ---
@@ -161,4 +161,4 @@ learning module is fantastic! If you never heard about Graph, you'll
 get everything you need to start right away with it!
 
 
-{{< image alt="GraphFun-youdidit1.png" src="images/GraphFun-youdidit1.png" >}}
+![GraphFun-youdidit1.png](images/GraphFun-youdidit1.png)

@@ -14,7 +14,7 @@ videos:
 
 ## Call summary
 
-This month's community call features updates on **Excel data type APIs** (Review card view anatomy, data types, composable building blocks, New Values API and Data Types in Custom Functions) – Chris Gross, Senior Program Manager (Microsoft), **Word Online API updates** (Demo of In Preview capabilities – _Comment_ and _Track changes_, Coming soon – _Fields_) – Phoebe Yuan, Program Manager (Microsoft) and **Outlook add-ins and Outlook REST V2 decommission** (move to Graph or EWS before Nov 2022, APIs impacted, exceptions called out) – [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Program Manager (Microsoft). This month’s Community spotlight recognizes [Maarten van Stam](https://twitter.com/aafvstam) (Deloitte) for his continued contributions to this community. Q&A both at end of call and in chat throughout call. Please register for the [PnP Recognition Program](http://aka.ms/m365pnp-recognition). The call was hosted by [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded February 9, 2022.
+This month's community call features updates on **Excel data type APIs** (Review card view anatomy, data types, composable building blocks, New Values API and Data Types in Custom Functions) – Chris Gross, Senior Program Manager (Microsoft), **Word Online API updates** (Demo of In Preview capabilities – _Comment_ and _Track changes_, Coming soon – _Fields_) – Phoebe Yuan, Program Manager (Microsoft) and **Outlook add-ins and Outlook REST V2 decommission** (move to Graph or EWS before Nov 2022, APIs impacted, exceptions called out) – [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Program Manager (Microsoft). This month’s Community spotlight recognizes [Maarten van Stam](https://twitter.com/aafvstam) (Deloitte) for his continued contributions to this community. Q&A both at end of call and in chat throughout call. Please register for the [PnP Recognition Program](https://aka.ms/m365pnp-recognition). The call was hosted by [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded February 9, 2022.
 
 ## Microsoft presenters
 
@@ -111,7 +111,7 @@ Yes, this is on the backlog. The Outlook mobile team is focusing first on event-
   
 **Can Power automate 'Excel Run script' run macros in a .xlsm file?**
 
-No, you can't run VBA macros using the Run Script action. However, you can run Office Scripts in a .xlsm file. See [https://docs.microsoft.com/office/dev/scripts/develop/macros-power-automate](https://docs.microsoft.com/en-us/office/dev/scripts/develop/macros-power-automate) for more information.
+No, you can't run VBA macros using the Run Script action. However, you can run Office Scripts in a .xlsm file. See [https://docs.microsoft.com/office/dev/scripts/develop/macros-power-automate](https://docs.microsoft.com/office/dev/scripts/develop/macros-power-automate) for more information.
 
   
 **Is it possible to get the w14:paraId attribute value for paragraphs using the API? When getting the Open XML, it is not included even if the paragraphs have w14:paraId attributes.**

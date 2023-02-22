@@ -6,7 +6,7 @@ githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 images:
 - images/banner-cli-m365.png
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 

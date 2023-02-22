@@ -6,7 +6,7 @@ githubname: Marijnsomers
 categories: ["Community post"]
 images:
 - images/MS-list.png
-tags: []
+tags: ["PnP PowerShell"]
 type: "regular"
 ---
 As a non-developer (please read this as a disclaimer) I still try to
@@ -42,7 +42,7 @@ Using the user interface, following steps were required:
     This can be set up from the web part properties
 
 
-{{< image alt="Document library UI properties" src="images/MS-list.png" >}}
+![Document library UI properties](images/MS-list.png)
 
 
 That would definitely be a lot of work to do manually, so I decided that
@@ -67,12 +67,12 @@ using 2factor authentication.
 ### Create the page 
 
 First thing to do is to create the page, using
-the [Add-PnPClientSidePage ](https://pnp.github.io/powershell/cmdlets/Add-PnPClientSidePage.html)command.
+the [Add-PnPPage ](https://pnp.github.io/powershell/cmdlets/Add-PnPPage.html)command.
 I am using the \$name variable here to give it a name.
 
 
 ```powershell
-Add-PnPClientSidePage -Name $name
+Add-PnPPage -Name $name
   -LayoutType Article
   -HeaderLayoutType NoImage
   -CommentsEnabled:$false
@@ -89,12 +89,12 @@ The correct way to do is to use:
 ## Adding sections to the page 
 
 To add a new section to the page, I am using
-the [Add-PnPClientSidePageSection](https://pnp.github.io/powershell/cmdlets/Add-PnPClientSidePageSection.html) command.
+the [Add-PnPClientSidePageSection](https://pnp.github.io/powershell/cmdlets/Add-PnPPageSection.html) command.
 I can just add a TwoColumn section on the page.
 
 
 ```powershell
-Add-PnPClientSidePageSection -Page $name -SectionTemplate TwoColumn -Order 1
+Add-PnPPageSection -Page $name -SectionTemplate TwoColumn -Order 1
 ```
 
 ## Adding a text editor web part 
@@ -115,7 +115,7 @@ page is surprisingly hard in PnP PowerShell (unless I am missing
 something big.. in that case please call me out on this!)
 
 What you need to do, is to use the[ Add-PnPClientSideWebPart
-command](https://pnp.github.io/powershell/cmdlets/Add-PnPClientSideWebPart.html).
+command](https://pnp.github.io/powershell/cmdlets/Add-PnPPageWebPart.html).
 With this command you can add all kinds of webparts to the page.
 Document library isn't one of them.
 
@@ -124,7 +124,7 @@ need to mention that it is a document library AND what the ID is.
 
 
 ``` {.lia-code-sample .language-applescript}
-Add-PnPClientSideWebPart -Page $name
+Add-PnPPageWebPart -Page $name
   -DefaultWebPartType List -Section 1 -Column 2
   -WebPartProperties @{isDocumentLibrary="true";
                        selectedListId="1fa1fb45-e53b-4ea1-9325-ddca7afe986e";}
@@ -137,7 +137,7 @@ UI: If you go to the library settings, the document library Id is shown
 in the url:
 
 
-{{< image alt="SharePoint document library ID in the url of the library settings page" src="images/documentlibrary-id.png" >}}
+![SharePoint document library ID in the url of the library settings page](images/documentlibrary-id.png)
 
 Just cut out the %7B in the front, and the %7D on the back.
 In this example, the document library Id is
@@ -152,7 +152,7 @@ there. So here it is:
 In the WebPartProperties, add selectedFolderPath="/yourfoldername";
 
 ```powershell
-Add-PnPClientSideWebPart -Page $name
+Add-PnPPageWebPart -Page $name
   -DefaultWebPartType List -Section 1 -Column 2
   -WebPartProperties @{isDocumentLibrary="true";
                        selectedListId="1fa1fb45-e53b-4ea1-9325-ddca7afe986e";
@@ -171,7 +171,7 @@ use the hideCommandBar="false"; in the WebPartProperties:
 
 
 ```powershell
-Add-PnPClientSideWebPart -Page $name
+Add-PnPPageWebPart -Page $name
   -DefaultWebPartType List -Section 1 -Column 2
   -WebPartProperties @{isDocumentLibrary="true";
                        selectedListId="1fa1fb45-e53b-4ea1-9325-ddca7afe986e";
@@ -188,7 +188,7 @@ grab the page again and publish it.
 
 
 ```powershell
-$page = Get-PnPClientSidePage -Identity $name
+$page = Get-PnPPage -Identity $name
 $page.Publish()
 ```
 
@@ -213,17 +213,17 @@ $ray = "folder1",
 "folder3"
 foreach ($name in $ray) {
 #create page
-Add-PnPClientSidePage -Name $name -LayoutType Article -HeaderLayoutType NoImage -CommentsEnabled:$false
+Add-PnPPage -Name $name -LayoutType Article -HeaderLayoutType NoImage -CommentsEnabled:$false
 
 #add sections
-Add-PnPClientSidePageSection -Page $name -SectionTemplate TwoColumn -Order 1
+Add-PnPPageSection -Page $name -SectionTemplate TwoColumn -Order 1
 
 #add text web part
-Add-PnPClientSideText -Page $name -Section 1 -Column 1 -Text " "
+Add-PnPPageTextPart -Page $name -Section 1 -Column 1 -Text " "
 
 #add doclib
-Add-PnPClientSideWebPart -Page $name -DefaultWebPartType List -Section 1 -Column 2 -WebPartProperties @{isDocumentLibrary="true";selectedListId="1fa1fb45-e53b-4ea1-9325-ddca7afe986e";selectedFolderPath="/$name";hideCommandBar="false"}
-$page = Get-PnPClientSidePage -Identity $name
+Add-PnPPageWebPart -Page $name -DefaultWebPartType List -Section 1 -Column 2 -WebPartProperties @{isDocumentLibrary="true";selectedListId="1fa1fb45-e53b-4ea1-9325-ddca7afe986e";selectedFolderPath="/$name";hideCommandBar="false"}
+$page = Get-PnPPage -Identity $name
 $page.Publish()
 }
 ```

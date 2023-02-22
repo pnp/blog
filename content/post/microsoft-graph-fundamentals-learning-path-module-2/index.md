@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/GraphAccessTokenTicket.png
-tags: []
+tags: ["Microsoft Graph"]
 type: "regular"
 
 ---
@@ -84,7 +84,7 @@ ticket - but your application gives it to Graph to show it has
 permission to access the requested data in Microsoft 365. LOVE this
 explanation so much!
 
-{{< image alt="GraphAccessTokenTicket.png" src="images/GraphAccessTokenTicket.png" >}}
+![GraphAccessTokenTicket.png](images/GraphAccessTokenTicket.png)
 
 We use this movie ticket/access token in the Authorization header of our
 HTTP request.
@@ -99,7 +99,7 @@ tokens after authentication.
 In case you wondered: There is a big difference between authentication
 and authorization.
 
-{{< image alt="GraphFunAuth.png" src="images/GraphFunAuth.png" >}}
+![GraphFunAuth.png](images/GraphFunAuth.png)
 
 ## Exercise - Register an application with Azure Active Directory
 
@@ -107,7 +107,7 @@ This exercise walks us step by step through registering an app in Azure
 AD- I highly recommend following this unit if you never registered an
 application before:
 
-{{< image alt="appreg.png" src="images/appreg.png" >}}
+![appreg.png](images/appreg.png)
 
 Let's now
 
@@ -117,7 +117,7 @@ MSAL will make Token interaction more effortless for you because we can
 acquire tokens from the identity platform to authenticate users and
 access Microsoft Graph.
 
-{{< image alt="auth.gif" src="images/auth.gif" >}}
+![auth.gif](images/auth.gif)
 
 Now that we understood the authentication flow, it's time to get our
 hands dirty with
@@ -132,11 +132,11 @@ and app ID from your Azure app registration.
 The unit walks you through some crucial parts of your app and lets you
 map this code to the authentication flow.
 
-{{< image alt="GraphApp.png" src="images/GraphApp.png" >}}
+![GraphApp.png](images/GraphApp.png)
 
 Congrats! - you made it!
 
-{{< image alt="GraphFun-didit2.png" src="images/GraphFun-didit2.png" >}}
+![GraphFun-didit2.png](images/GraphFun-didit2.png)
 
 ## Conclusion
 

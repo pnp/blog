@@ -6,7 +6,7 @@ githubname: TracyGH
 categories: ["Community post"]
 images:
 - images/Tracy_1-1627940128961.png
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
 
@@ -43,7 +43,7 @@ Because flows under the 'My Flows' tab [are not currently
 supported](https://docs.microsoft.com/power-automate/web-api) by Power Automate web API's, you will need to
 interact with all programmatic flows via the 'Solutions' tab. 
 
-{{< image alt="" src="images/Tracy_1-1627940128961.png" >}}
+![](images/Tracy_1-1627940128961.png)
  
 **\*\*Note: I have only been able to programmatically create/access
 flows within the Default Solution for a relevant [Dataverse
@@ -55,12 +55,12 @@ scalability/performance implications.**
 
 To manually create a new Solutions flow, navigate to the Solutions tab and select Default Solution > New > Cloud flow 
 
-{{< image alt="" src="images/Tracy_2-1627940129014.png" >}}
+![](images/Tracy_2-1627940129014.png)
 
 To view existing Solutions flows, navigate to the Solutions tab and select Default Solution, then filter ‘Cloud flow’.
 To obtain the ID for a specific Solutions flow, select it and copy the GUID value (/flows/[GUID]/) from the browser URL.
 
-{{< image alt="" src="images/Tracy_3-1627940128946.png" >}}
+![](images/Tracy_3-1627940128946.png)
 
 
 ### Part 2 --- Get ClientData Content for New Flows 

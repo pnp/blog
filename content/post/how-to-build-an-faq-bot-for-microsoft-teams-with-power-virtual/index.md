@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/walle.png
-tags: []
+tags: ["Power Virtual Agents", "Microsoft Teams"]
 type: "regular"
 ---
 
@@ -42,7 +42,7 @@ you like.
 
 
 
-{{< image alt="pva-teams.png" src="images/pva-teams.png" >}}
+![pva-teams.png](images/pva-teams.png)
 
  
 -   Click **Add**
@@ -50,13 +50,13 @@ you like.
 
 
 
-{{< image alt="add-pva.png" src="images/add-pva.png" >}}
+![add-pva.png](images/add-pva.png)
  
 
 
  
 
-{{< image alt="pva-create.png" src="images/pva-create.png" >}}
+![pva-create.png](images/pva-create.png)
 
 -   Give your bot a name ans select a language that your bot shall
     understand (should be the same language as your FAQ)
@@ -64,20 +64,20 @@ you like.
 
  
 
-{{< image alt="pva-create2.png" src="images/pva-create2.png" >}}
+![pva-create2.png](images/pva-create2.png)
 
 -   Click **Chatbots** - here you get an overview of ALL your chatbots
 
  
 
-{{< image alt="my-chatsbots.png" src="images/my-chatsbots.png" >}}
+![my-chatsbots.png](images/my-chatsbots.png)
 
 ### Add topics from any website 
 
 -   Click **Topics**
 
 
-{{< image alt="topics.png" src="images/topics.png" >}}
+![topics.png](images/topics.png)
  
 You see, that some basic topics are already created for you. You can
 take a look later.
@@ -85,7 +85,7 @@ take a look later.
 -   Click **Suggested**
 
 
-{{< image alt="suggested.png" src="images/suggested.png" >}}
+![suggested.png](images/suggested.png)
 Now we want to work on feeding our bot with the FAQ from the website
 that we selected.
 
@@ -94,7 +94,7 @@ that we selected.
 
 
 
-{{< image alt="getfaq.png" src="images/getfaq.png" >}}
+![getfaq.png](images/getfaq.png)
 
   
 
@@ -107,7 +107,7 @@ suggested topics are now in:
 
 
 
-{{< image alt="success.png" src="images/success.png" >}}
+![success.png](images/success.png)
 
  
  
@@ -116,7 +116,7 @@ suggested topics are now in:
 
 You can now review and edit each topic:
 
-{{< image alt="edit-topics.png" src="images/edit-topics.png" >}}
+![edit-topics.png](images/edit-topics.png)
 
 -   Click **Save Topic**
 
@@ -127,7 +127,7 @@ to turn on the topics
 
 
 
-{{< image alt="turn-on.png" src="images/turn-on.png" >}}
+![turn-on.png](images/turn-on.png)
 
 > Train your bot by entering more trigger phrases. This way, it is more
 > likely that the Chatbot understands users asking questions even if
@@ -138,7 +138,7 @@ Time to test the bot!
 
 
 
-{{< image alt="end-connversation.png" src="images/end-connversation.png" >}}
+![end-connversation.png](images/end-connversation.png)
 
 You can now review and edit your topics until you are happy with the
 results.
@@ -150,25 +150,25 @@ results.
 
  
 
-{{< image alt="publish.png" src="images/publish.png" >}}
+![publish.png](images/publish.png)
 
 -   Click **Add**
 
  
 
-{{< image alt="add.png" src="images/add.png" >}}
+![add.png](images/add.png)
 
 -   Click **Add to Teams**
 
 
 
-{{< image alt="publish-bot.png" src="images/publish-bot.png" >}}
+![publish-bot.png](images/publish-bot.png)
 
 
 -   Use your bot
 
 
-{{< image alt="chat.png" src="images/chat.png" >}}
+![chat.png](images/chat.png)
 
 ## Conclusion & what's next
 

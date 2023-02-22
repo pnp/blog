@@ -6,7 +6,7 @@ githubname: derhallim
 categories: ["Community post"]
 images:
 - images/derhallim_0-1620249069072.png
-tags: []
+tags: ["SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -26,33 +26,33 @@ select a video (using the file picker control from the PnP Reusable
 Property Pane Controls), you will be able to modify the text overlay and
 its color, control the height of the video area and lastly (at least for
 now) modify the brightness: 
-  {{< image alt="derhallim_0-1620249069072.png" src="images/derhallim_0-1620249069072.png" >}}
+  ![derhallim_0-1620249069072.png](images/derhallim_0-1620249069072.png)
 
  These settings would provide you with a web part that looks like this: 
- {{< image alt="derhallim_4-1620249695924.png" src="images/derhallim_4-1620249695924.png" >}}
+ ![derhallim_4-1620249695924.png](images/derhallim_4-1620249695924.png)
  
 
 Now let's have a look at the code itself which is pretty simple. The
 file structure can be seen below:
 
 
- {{< image alt="derhallim_1-1620252146944.png" src="images/derhallim_1-1620252146944.png" >}}
+ ![derhallim_1-1620252146944.png](images/derhallim_1-1620252146944.png)
  
 The web part has only one functional component named: `VideoBackground`
 that accepts the following properties as defined in the
 IVideoBackgroundProps.ts file: wpTitle (string), videoUrl (string),
 labelColor (string), brightness (number), height (number).
- {{< image alt="derhallim_2-1620252225550.png" src="images/derhallim_2-1620252225550.png" >}}
+ ![derhallim_2-1620252225550.png](images/derhallim_2-1620252225550.png)
 The video url and the label color are set with the help of PnP Property
 Pane Controls as shown below: 
- {{< image alt="derhallim_0-1620252048668.png" src="images/derhallim_0-1620252048668.png" >}}
+ ![derhallim_0-1620252048668.png](images/derhallim_0-1620252048668.png)
 
 
 Once the properties are setup on the VideoBackgroundWebPart.ts file, we
 pass them to the VideoBackground.tsx component. 
 
 
- {{< image alt="derhallim_6-1620252844193.png" src="images/derhallim_6-1620252844193.png" >}}
+ ![derhallim_6-1620252844193.png](images/derhallim_6-1620252844193.png)
 
 
 All good so far? Now in our functional component, we have an HTML video
@@ -61,7 +61,7 @@ pass and we play with the CSS filter prop to set the brightness by
 adding the value concatenated with % as we need a brightness
 percentage: 
 
-{{< image alt="derhallim_3-1620252272134.png" src="images/derhallim_3-1620252272134.png" >}}
+![derhallim_3-1620252272134.png](images/derhallim_3-1620252272134.png)
 
 Notice the ref attribute on the video control? The reason we have it is
 that we want to refresh the video whenever we change the video url. By
@@ -74,7 +74,7 @@ We then use React's useEffect to check if the video url has changed or
 not, if it has changed, we call the load() function on the video
 reference itself: 
 
- {{< image alt="derhallim_4-1620252332115.png" src="images/derhallim_4-1620252332115.png" >}}
+ ![derhallim_4-1620252332115.png](images/derhallim_4-1620252332115.png)
 
  
 Some notable points about the CSS used is the div that's available just

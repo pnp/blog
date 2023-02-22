@@ -11,7 +11,7 @@ tags: []
 type: "regular"
 ---
 
-## {{< image alt="OctAdd-insRecordingThumb.png" src="images/OctAdd-insRecordingThumb.png" >}}
+## ![OctAdd-insRecordingThumb.png](images/OctAdd-insRecordingThumb.png)
 
 
 ## Call summary
@@ -55,7 +55,7 @@ Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @davidchesnut
 ## Actions 
 
 -   Please reach out to us to provide input on upcoming Word APIs such
-    as the Bookmark APIs: <http://aka.ms/wordextensibilitysurvey> 
+    as the Bookmark APIs: <https://aka.ms/wordextensibilitysurvey> 
 -   Give us feedback on the Hello World sample in the PR:
     <https://github.com/OfficeDev/PnP-OfficeAddins/pull/213>
 -   Earn contributor badges - sign up for the PnP Recognition
@@ -197,7 +197,7 @@ scenario. Please submit a feature request for this at
 -   Documentation -- [Outlook add-in API requirement set
     1.9](https://docs.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.9/outlook-requirement-set-1.9)
 -   Documentation -- [Outlook add-in API requirement set
-    1.10](https://docs.microsoft.com/en-us/office/dev/add-ins/reference/objectmodel/requirement-set-1.10/outlook-requirement-set-1.10)
+    1.10](https://docs.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.10/outlook-requirement-set-1.10)
 
 ### Demo: Hello World code sample 
 

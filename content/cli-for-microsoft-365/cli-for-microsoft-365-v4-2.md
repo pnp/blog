@@ -4,7 +4,7 @@ date: 2021-11-26T06:38:00-05:00
 author: "Albert-Jan Schot"
 githubname: appieschot
 categories: ["CLI for Microsoft 365"]
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 

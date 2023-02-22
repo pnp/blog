@@ -6,7 +6,7 @@ githubname: m3ngi3
 categories: ["Community post"]
 images:
 - images/PowerApps_Page_Unresponsive.png
-tags: []
+tags: ["Power Apps"]
 type: "regular"
 ---
 
@@ -23,7 +23,7 @@ data sources and too many controls referencing each other. The result
 was a Power Apps Studio with a *Page Unresponsive *error when when
 opening specific screens:
 
-{{< image alt="PowerApps_Page_Unresponsive" src="images/PowerApps_Page_Unresponsive.png" >}}
+![PowerApps_Page_Unresponsive](images/PowerApps_Page_Unresponsive.png)
 
 This left us with no way to clean up the latest version of the Canvas
 App through the Studio anymore
@@ -49,10 +49,10 @@ You can download your .msapp file by opening the Power App in the online
 Studio. Then select **Save as** and select **This computer** as your
 destination. A popup should appear that offers you to download the
 .msapp file:\
-{{< image alt="Save your .msapp file to a local destination" src="images/PowerApps_Studio_SaveAs.png" >}}
+![Save your .msapp file to a local destination](images/PowerApps_Studio_SaveAs.png)
 
 
-{{< image alt="" src="images/PowerApps_ExportPackage.png" >}}
+![](images/PowerApps_ExportPackage.png)
 
 
 2)  I then move the .msapp file to a folder within my Downloads
@@ -66,7 +66,7 @@ C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master\ConfigScreen.msa
 mentioned in the Microsoft post. Then download the Power Apps Language
 Tooling locally to your Downloads folder:
 
-{{< image alt="Download the Power Apps Language Tooling tool from GitHub locally" src="images/PowerApps_LanguageTooling_DownloadZIP.png" >}}
+![Download the Power Apps Language Tooling tool from GitHub locally](images/PowerApps_LanguageTooling_DownloadZIP.png)
 
 
 Unzip this file and save the unzipped folder in a local place of your
@@ -78,7 +78,7 @@ would be near each other:
 4) Then just run the build.cmd file of the unzipped folder as
 Administrator to be sure:
 
-{{< image alt="Run the build.cmd as an Administrator" src="images/PowerApps_LanguageTooling_BuildCMD.png" >}}
+![Run the build.cmd as an Administrator](images/PowerApps_LanguageTooling_BuildCMD.png)
 
 
 After a successful run, the bin folder will have a number of files in
@@ -95,7 +95,7 @@ should be the same. The PASopa file is where the magic happens.
 5) Now open the default Windows Command Prompt and Run as
 adminisrator:
 
-{{< image alt="CommanPromptAsAdministrator" src="images/CommanPromptAsAdministrator.png" >}}
+![CommanPromptAsAdministrator](images/CommanPromptAsAdministrator.png)
 
 
 1) Have a folder prepared where you want to store the unpacked
@@ -113,7 +113,7 @@ cd C:\Users\DjangoLohn\Downloads\PowerApps-Language-Tooling-master\PowerApps-Lan
 ```
 
 
-{{< image alt="" src="images/CommanPromptAsAdministrator_ChangeDirectory.png" >}}
+![](images/CommanPromptAsAdministrator_ChangeDirectory.png)
 
 
 **8)** Execute the following command to unpack the .msapp files to the
@@ -129,14 +129,14 @@ files. Warnings may occur because of checksums built in by the
 developers. However in the end, the folder with the unpacked .msapp file
 will have a default content structure:
 
-{{< image alt="FileExplorer_Unpacked_msapp_File" src="images/FileExplorer_Unpacked_msapp_File.png" >}}
+![FileExplorer_Unpacked_msapp_File](images/FileExplorer_Unpacked_msapp_File.png)
 
 With a tool like Notepad++ or my personal favorite Visual Studio Code,
 you can edit the individual files. This is how you edit Power Apps
 source code of Canvas Apps. I prefer Visual Studio Code because you can
 open up a whole folder in one go:
 
-{{< image alt="Visual Studio Code opening a whole Folder and Sub Folders to edit individual files" src="images/VisualStudioCode_Unpacked_msapp.png" >}} 
+![Visual Studio Code opening a whole Folder and Sub Folders to edit individual files](images/VisualStudioCode_Unpacked_msapp.png) 
 
 1) Now you can remove frozen screens, rename controls in bulk,
 update variables in bulk or any other action which in Power Apps Studio
@@ -155,7 +155,7 @@ command does not give an output directory... so where did the new
 repacked .msapp file go?? It gives you the new .msapp file in the PASopa
 directory:
 
-{{< image alt="FileExplorer_Repacked_msapp_Files" src="images/FileExplorer_Repacked_msapp_Files.png" >}}
+![FileExplorer_Repacked_msapp_Files](images/FileExplorer_Repacked_msapp_Files.png)
 
 The repacked ZIP file can be imported in the online Studio. This import
 will then update the existing Power App to a new version. Never thought

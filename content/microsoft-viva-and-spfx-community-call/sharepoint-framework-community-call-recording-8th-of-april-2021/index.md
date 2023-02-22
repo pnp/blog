@@ -5,14 +5,13 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/8th-april-together-mode.gif
 tags: []
 type: "regular"
 ---
 
 SharePoint Framework bi-weekly community call recording from April 8th
 is now available from the Microsoft 365 Community YouTube channel
-at <http://aka.ms/m365pnp-videos>. You can use SharePoint Framework for
+at <https://aka.ms/m365pnp-videos>. You can use SharePoint Framework for
 building solutions for **Microsoft Viva**, **Microsoft Teams** and
 for **SharePoint** Online.
 
@@ -39,7 +38,6 @@ v4.1.0 released March 20th.     There were eight **PnP SPFx web part
 samples** delivered last 2 weeks.  Great work!    The host of this call
 is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft)
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-{{< image alt="8th-april-together-mode.gif" src="images/8th-april-together-mode.gif" >}}
  
 
 -   Register for both:
@@ -246,7 +244,7 @@ slides.
 -   [CodeTour](https://aka.ms/codetour)
 -   [Sharing is Caring](https://aka.ms/sharing-is-caring) |
     aka.ms/sharing-is-caring
--   [PnP Modern Search](http://aka.ms/pnp-search) | aka.ms/pnp-search
+-   [PnP Modern Search](https://aka.ms/pnp-search) | aka.ms/pnp-search
 -   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 -   [SharePoint Starter Kit
     v2](https://github.com/pnp/sp-starter-kit/tree/v2)
@@ -256,9 +254,9 @@ slides.
     community
     leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
 -   [Microsoft 365 Community
-    Content](http://aka.ms/m365-community-docs) (non-Dev docs)
--   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
--   [PnP SPFx extension samples](http://aka.ms/spfx-extensions)
+    Content](https://aka.ms/m365-community-docs) (non-Dev docs)
+-   [PnP SPFx web part samples](https://aka.ms/spfx-webparts)
+-   [PnP SPFx extension samples](https://aka.ms/spfx-extensions)
 -   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 -   Tutorials - [Getting started with SharePoint Framework v1.10
     Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12
@@ -271,27 +269,27 @@ slides.
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 -   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 -   [SPFx Extensions](https://aka.ms/spfx-extensions)
--   [SPFx Library Components](http://aka.ms/spfx-library-components)
+-   [SPFx Library Components](https://aka.ms/spfx-library-components)
 -   Documentation - [PnPjs v2
     documentation](https://pnp.github.io/pnpjs/)
 -   Link - [Microsoft 365 developer
     training](https://aka.ms/M365DevTraining)
 -   Link - [Office 365 Developer Program](https://aka.ms/O365DevProgram)
 -   [Latest documentation on SharePoint
-    Framework](http://aka.ms/spdev-docs)
+    Framework](https://aka.ms/spdev-docs)
 -   Found an issue with SharePoint Dev? - please let us know
-    at <http://aka.ms/spdev-issues>
+    at <https://aka.ms/spdev-issues>
 -   [Reusable web part property
     controls](https://sharepoint.github.io/sp-dev-fx-property-controls/)
 -   [Reusable react controls for SharePoint Framework
     solutions](https://sharepoint.github.io/sp-dev-fx-controls-react/)
 -   [Reusable controls
     webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
--   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
+-   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365)
 -   [PnP SPFx Yeoman Generator](https://github.com/pnp/generator-spfx) -
     Extends the out-of-the-box experience with open-source community
     capabilities
--   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) - for new
+-   [SharePoint Dev UserVoice](https://aka.ms/spdev-uservoice) - for new
     feature requests
 
 ## Other topics mentioned
@@ -332,7 +330,7 @@ calls are used for the following objectives.
 
 -   SharePoint Framework engineering update from Microsoft
 -   Talk about PnP JavaScript Core libraries
--   Office 365 CLI Updates
+-   CLI for Microsoft 365 Updates
 -   SPFx reusable controls
 -   PnP SPFx Yeoman generator
 -   Share code samples and best practices

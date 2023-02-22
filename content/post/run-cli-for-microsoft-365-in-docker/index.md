@@ -6,7 +6,7 @@ githubname: garrytrinder
 categories: ["CLI for Microsoft 365"]
 images:
 - images/garrytrinder_0-1615630685864.png
-tags: []
+tags: ["CLI for Microsoft 365"]
 type: "regular"
 
 ---
@@ -52,7 +52,7 @@ by the presence of the `-it`
 switch in the `docker run`
 command.
 
-{{< image alt="garrytrinder_0-1615630685864.png" src="images/garrytrinder_0-1615630685864.png" >}}
+![garrytrinder_0-1615630685864.png](images/garrytrinder_0-1615630685864.png)
 
 By default, the interactive terminal that is opened is a
 `bash` shell, however if you
@@ -70,7 +70,7 @@ instead.
 docker run --rm -it m365pnp/cli-microsoft365:latest pwsh
 ```
 
-{{< image alt="garrytrinder_1-1615630685843.png" src="images/garrytrinder_1-1615630685843.png" >}}
+![garrytrinder_1-1615630685843.png](images/garrytrinder_1-1615630685843.png)
 
 Now that you are at the interactive terminal, you can now invoke any CLI
 for Microsoft 365 command using the `m365`{.language-plaintext
@@ -79,7 +79,7 @@ have even pre-configured tab command completion for you in both
 `bash` and
 `PowerShell`. Neat right.
 
-{{< image alt="garrytrinder_2-1615630685839.png" src="images/garrytrinder_2-1615630685839.png" >}}
+![garrytrinder_2-1615630685839.png](images/garrytrinder_2-1615630685839.png)
 
 When you are done with your session, just type
 `exit` and your interactive
@@ -89,7 +89,7 @@ is determined by the presence of the `--rm`{.language-plaintext
 .highlighter-rouge} switch in the `docker run`{.language-plaintext
 .highlighter-rouge} command.
 
-{{< image alt="garrytrinder_3-1615630685863.png" src="images/garrytrinder_3-1615630685863.png" >}}
+![garrytrinder_3-1615630685863.png](images/garrytrinder_3-1615630685863.png)
 
 This doesn't mean that the image you just downloaded has been removed as
 well, this remains on your machine, we just removed the container

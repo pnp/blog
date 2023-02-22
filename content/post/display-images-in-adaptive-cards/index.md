@@ -6,7 +6,7 @@ githubname: tposzytek
 categories: ["Community post"]
 images:
 - images/image-5.png
-tags: []
+tags: ["Adaptive cards", "Azure"]
 type: "regular"
 ---
 
@@ -20,7 +20,7 @@ the smallest image inline. What other options we have?
 Basically images are displayed in Adaptive Cards using "Image" element.
 In its properties you need to type the URL to an image:
  
-{{< image alt="image-5" src="images/image-5.png" >}}
+![image-5](images/image-5.png)
  
 **Important!** 
 Image's URL must start with **https** and be a **direct
@@ -38,7 +38,7 @@ Image Encoder](https://www.base64-image.de/). Or, using
 expression `dataUri(file content)` in Power Automate:
  
 
-{{< image alt="image-6" src="images/image-6.png" >}}
+![image-6](images/image-6.png)
 
  
 What is returned, looks like the following
@@ -76,7 +76,7 @@ OneDrive cannot be used as a storage to host images, since even when we
 select to share an image with anyone:
  
 
-{{< image alt="image-7" src="images/image-7.png" >}}
+![image-7](images/image-7.png)
 
  
 The generated link is still not a valid, absolute link to a file
@@ -84,7 +84,7 @@ itself, but to a page that displays the image, so when you put it as a
 Url property, it won't display the
 image:
  
-{{< image alt="image-8" src="images/image-8.png" >}}
+![image-8](images/image-8.png)
  
 ## How to store images securely, but still display them in Adaptive Cards? 
 
@@ -97,7 +97,7 @@ Let me show you how.
 
 
  
-{{< image alt="" src="images/image-9.png" >}}              
+![](images/image-9.png)              
 
 
 1.  Once account is provisioned, open it and:
@@ -105,7 +105,7 @@ Let me show you how.
     2.  Select to create new container
     3.  Provide its name and set its access to Private
  
-{{< image alt="image-10" src="images/image-10.png" >}}
+![image-10](images/image-10.png)
  
 1.  Now upload image you would like to display in Adaptive Card:
     1.  Select the Upoad link
@@ -113,7 +113,7 @@ Let me show you how.
         per your choice
     3.  Finally after upload navigate to Shared access tokens page
  
-{{< image alt="image-11" src="images/image-11.png" >}}
+![image-11](images/image-11.png)
  
 1.  And finally generate the SAS token, that you can append to the
     absolute image link to make it available for display.
@@ -125,17 +125,17 @@ Let me show you how.
     4.  Select to Generate SAS token and URL
     5.  Copy the SAS token
  
-{{< image alt="image-12" src="images/image-12.png" >}}
+![image-12](images/image-12.png)
  
 Now you're ready to navigate back to container contents, open file
 details, copy its path and append with SAS token:
  
-{{< image alt="image-13" src="images/image-13.png" >}}
+![image-13](images/image-13.png)
  
 Then paste such URL back to Url property of Image element in Adaptive
 Card and voilla! There it is:
  
-{{< image alt="image-14" src="images/image-14.png" >}}
+![image-14](images/image-14.png)
  
 I hope you will find this short tutorial useful. Please write down in
 comments what other providers you use to securely host images and access

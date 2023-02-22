@@ -1,5 +1,5 @@
 ---
-title: "New Microsoft 365 platform community blog"
+title: "New Microsoft 365 and Power Platform Community Blog"
 date: 2022-04-25T05:38:00-05:00
 author: "Luise Freese"
 githubname: LuiseFreese
@@ -8,14 +8,14 @@ images:
 - images/parker-ms-300.png
 
 tags: []
-type: "epic"
+type: trending
 ---
 
-![Parker](images/parker-ms-300.png)
+
 
 ## Hello World
 
-Let us introduce our new Microsoft 365 platform community blog to you! After a year on Tech Community we decided to make a move towards GitHub,  
+Let us introduce our new Microsoft 365 and Power Platform Community Blog to you! After a year on Tech Community we decided to make a move towards GitHub,  
 
 * to better align our efforts that span initiatives that provide samples, guidance, training, tools, encouragement
 * to provide you with a more pleasantly authoring experience
@@ -27,7 +27,7 @@ Let us introduce our new Microsoft 365 platform community blog to you! After a y
 * We will publish new articles including Community Call recording blogs, podcast blogs, monthly updates only here
 * The Tech Community hub will retire - we won't accept new content there anymore
 
-If you don't feel comfortable using GitHub, please sign up for an interactive training on how to contribute in our [Sharing Is Caring](https://aka.ms/sharing-is-caring) initiative
+If you don't feel comfortable using GitHub, please sign up for an interactive training on how to contribute in our [Sharing Is Caring](https://aka.ms/sharing-is-caring) initiative.
 
 
 ## What won't change

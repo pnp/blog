@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/solution-overview.png
-tags: []
+tags: ["Power Automate", "Power Apps"]
 type: "regular"
 ---
 
@@ -26,7 +26,7 @@ homepage](https://Flic.io/ "Flic homepage") to learn more.
 
 
 
-{{< image alt="PetrolPushTitle.png" src="images/PetrolPushTitle.png" >}}
+![PetrolPushTitle.png](images/PetrolPushTitle.png)
 
  
 Meet Petrol Push. A modern day organization that has a clear mission:
@@ -103,7 +103,7 @@ displayed with a proper color of a pin, inside the app. But in details,
 it's much more interesting.
 
 
-{{< image alt="PetrolFlow - part1.png" src="images/PetrolFlow - part1.png" >}}
+![PetrolFlow - part1.png](images/PetrolFlow - part1.png)
 
 The flow can be triggered by any driver (1). Also, for any Flic event,
 but that will be described later. Next, bot looks up details of the
@@ -112,7 +112,7 @@ used to record data along with information about the driver.
 
 
 
- {{< image alt="PetrolFlow - part2.png" src="images/PetrolFlow - part2.png" >}}
+ ![PetrolFlow - part2.png](images/PetrolFlow - part2.png)
 
  
 Next the flow calls **Azure Maps custom connector** via a dedicated
@@ -137,7 +137,7 @@ made an assumption\*\*, that there can be one station for a given postal
 code :)
 
 
-{{< image alt="PetrolFlow - part3.png" src="images/PetrolFlow - part3.png" >}}
+![PetrolFlow - part3.png](images/PetrolFlow - part3.png)
 
 
 
@@ -152,7 +152,7 @@ variable.
 
 
 
-{{< image alt="PetrolFlow - part4.png" src="images/PetrolFlow - part4.png" >}}
+![PetrolFlow - part4.png](images/PetrolFlow - part4.png)
 
 
 Now process moves to check what kind of action occurred on the Flic.
@@ -183,7 +183,7 @@ activity record OData id into a variable. And finally it relates records
 (4) - petrol station together with the created activity record.
 
 
-{{< image alt="PetrolFlow - part5.png" src="images/PetrolFlow - part5.png" >}}
+![PetrolFlow - part5.png](images/PetrolFlow - part5.png)
 
 
 What is also worth to mention is that the whole process is built using
@@ -265,7 +265,7 @@ pane of the map. Four fields are shown on the info card:
 
 This can be seen on the below screenshot.
 
-{{< image alt="App-MapFields.png" src="images/App-MapFields.png" >}}
+![App-MapFields.png](images/App-MapFields.png)
 
 
 The resulting app shows a map with all identified gas stations and their
@@ -273,7 +273,7 @@ last known status, indicated with the color of the pin. Selecting a
 specific gas station provides the user with more information on that
 station.
 
-{{< image alt="App-Details.png" src="images/App-Details.png" >}}
+![App-Details.png](images/App-Details.png)
 
 
 ## We need a real map - The custom connector to Azure Maps (Lee) 
@@ -412,4 +412,4 @@ language or tool set we build things in, but the approach and mindset we
 share. All of us are developers, and you can be one too.
 
 
-{{< image alt="NZ6_5087-focus (2).jpg" src="images/NZ6_5087-focus (2).jpg" >}}
+![NZ6_5087-focus (2).jpg](images/NZ6_5087-focus (2).jpg)

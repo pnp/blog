@@ -18,7 +18,7 @@ Well did you ever wondered how to go about this? Lately I did, and since not tha
 
 ## How to start
 
-First approach that I was thinking to use was the Microsoft Graph REST API as this should always be the way to go if it is supported and possible of course. So I checked out the [API reference](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0&preserve-view=true) (also [the beta one](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-beta&preserve-view=true)) and it turned out there is no Flow/PowerAutomate endpoint in the API 🥲 (at least I didn't find one 😀.
+First approach that I was thinking to use was the Microsoft Graph REST API as this should always be the way to go if it is supported and possible of course. So I checked out the [API reference](https://docs.microsoft.com/graph/api/overview?view=graph-rest-1.0&preserve-view=true) (also [the beta one](https://docs.microsoft.com/graph/api/overview?view=graph-rest-beta&preserve-view=true)) and it turned out there is no Flow/PowerAutomate endpoint in the API 🥲 (at least I didn't find one 😀.
 
 Ok so my next attempt to investigate how may I retrieve the list of flows was by checking out how it is already done in the tools used in Microsoft 365 world like the CLI for M365. The CLI offers many many helpful commands that allow you to manage your tenant (but not only that so I strongly encourage you to have a [check on this tool as well](https://pnp.github.io/cli-microsoft365/)). I checked out how the \`[m365 flow list](https://github.com/pnp/cli-microsoft365/blob/main/src/m365/flow/commands/flow-list.ts)\` command was developed (this is the power of the Open Source and PnP Community, why try to figure out all things from scratch when you may check how it was done by someone else and potentially totally better then your approach). Ok and it turned out that the CLI for M365 uses this endpoint 
 
@@ -90,15 +90,15 @@ One thing worth mentioning is the authorization. Since This is not a standard _S
 
 Ok so lets run `gulp serve` and check out what we have will be hopefully working.
 
-{{< image alt="thumbnail image 2 of blog post titled Using Power Automate flow API in your SPFx solution " src="images/flow3.png" >}}
+![thumbnail image 2 of blog post titled Using Power Automate flow API in your SPFx solution ](images/flow3.png)
 
 Well ok so it turned out it doesn't !:facepalm:. That’s cool !:smile:. But what we see in the error message is an AuthError and that the admin needs to consent to use the application with ID… and so on so on. Ok lets try to extend permissions of this app. When we search for it in the AAD App registrations we will find the 'SharePoint Online Client Extensibility Web Application Principal'. Ok so lets try to add appropriate permissions to make it work. Lets add Flow Service: `Flows.Read.All` permissions to the app and consent to it.
 
-{{< image alt="thumbnail image 3 of blog post titled Using Power Automate flow API in your SPFx solution " src="images/flow8.png" >}}
+![thumbnail image 3 of blog post titled Using Power Automate flow API in your SPFx solution ](images/flow8.png)
 
 Ok this seems about right lets retry our solution and check it out now.
 
-{{< image alt="thumbnail image 4 of blog post titled Using Power Automate flow API in your SPFx solution " src="images/flow1.png" >}}
+![thumbnail image 4 of blog post titled Using Power Automate flow API in your SPFx solution ](images/flow1.png)
 
 Sweet it turns out it works 😀. That’s nice 🤩. As you may see as a result we got the list of active flows from current environment. That’s a good starting point to develop any functionality using this API in our SPFx solution.
 

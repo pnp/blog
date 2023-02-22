@@ -46,7 +46,7 @@ dashboard](https://powerautomate.microsoft.com/). Select "Data" and then
 "Custom connectors"
 
 
-{{< image alt="custom-connector-1.png" src="images/custom-connector-1.png" >}}
+![custom-connector-1.png](images/custom-connector-1.png)
 
 no, it's not the Connectors menu, but the Data menu
 
@@ -55,7 +55,7 @@ empty. Select "+ New custom connector" in the upper right corner and
 then "Create from blank".
 
 
-{{< image alt="custom-connector-2.png" src="images/custom-connector-2.png" >}}
+![custom-connector-2.png](images/custom-connector-2.png)
 
 Now you are in the menu to create your own custom connector. At the top
 of the page you can see the necessary steps in a navigation:
@@ -94,7 +94,7 @@ another blog of this series. For now we're good and we can select
 the top of the page.
 
 
-{{< image alt="custom-connector-3.png" src="images/custom-connector-3.png" >}}
+![custom-connector-3.png](images/custom-connector-3.png)
 both links work, the one at the top and the one in the lower right
 corner
 
@@ -111,13 +111,13 @@ gets us the number of the day.
 
 Start by selecting "+ New action" on the right hand side.
 
-{{< image alt="custom-connector-4.png" src="images/custom-connector-4.png" >}}
+![custom-connector-4.png](images/custom-connector-4.png)
 Once again, only one mandatory field, yet I recommend to fill out the
 Summary and the Description as well.
 
 Summary: This will be the name of the action of your custom connector
 
-{{< image alt="custom-connector-5.png" src="images/custom-connector-5.png" >}}
+![custom-connector-5.png](images/custom-connector-5.png)
 
 Description: Gives colleagues a good idea of what it does
 
@@ -126,7 +126,7 @@ operation. Keep it simple, I guess.
 
 After that information is provided it's time for our request.
 
-{{< image alt="custom-connector-6.png" src="images/custom-connector-6.png" >}}
+![custom-connector-6.png](images/custom-connector-6.png)
 
 Select "+ Import from sample" and the next menu should look familiar
 to you. Here we can choose the **method** as well as the **URL**.
@@ -138,7 +138,7 @@ In this case the method is: **GET**, the URL is
 give those to the https request, remember?. When we're done, select
 \"Import\" to finish this step.
 
-{{< image alt="custom-connector-7.png" src="images/custom-connector-7.png" >}}
+![custom-connector-7.png](images/custom-connector-7.png)
 
 feels familiar?
 
@@ -160,7 +160,7 @@ create a new connection. Select "+ New connection".
 There should appear a connection with the name of your connector in the
 "Selected connection" field.
 
-{{< image alt="custom-connector-8.png" src="images/custom-connector-8.png" >}}
+![custom-connector-8.png](images/custom-connector-8.png)
 
 Now we just need to test the connector. Select "Test operation" and
 wait for the response.
@@ -186,12 +186,12 @@ Our flow contents of three actions:
 
 3. Post message in a chat or channel
 
-{{< image alt="custom-connector-9.png" src="images/custom-connector-9.png" >}}
+![custom-connector-9.png](images/custom-connector-9.png)
 
 In order to select your custom connector you select "Custom" when
 choosing a connector in Power Automate
 
-{{< image alt="custom-connector-10.png" src="images/custom-connector-10.png" >}}
+![custom-connector-10.png](images/custom-connector-10.png)
 
 Click on custom to see all custom connectors.
 
@@ -215,7 +215,7 @@ creating the connector.
 Last step: include that variable in a Microsoft Teams message like a
 boss
 
-{{< image alt="custom-connector-11.png" src="images/custom-connector-11.png" >}}
+![custom-connector-11.png](images/custom-connector-11.png)
 
 And that's it. That is how you call an API, get a JSON object back and
 use certain values from that object in Power Automate\...with a custom

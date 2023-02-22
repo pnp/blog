@@ -4,10 +4,10 @@ summary: "In this article, we will learn how to extend your Viva Connections wit
 date: 2022-01-26T06:24:00-05:00
 author: "Siddharth Vaghasia"
 githubname: "siddharth-vaghasia"
-categories: []
+categories: ["Community post"]
 images:
 - images/img_61cbfcc5a7e38-1024x369.png
-tags: ["Adaptive Card Extensions", "SharePoint Framework (SPFx)"]
+tags: ["SPFx Adaptive Card Extensions", "SharePoint Framework (SPFx)"]
 type: "regular"
 ---
 
@@ -29,7 +29,7 @@ As of writing this article, the latest beta SPFx version is v1.14, use the below
 npm install /generator-sharepoint@next --global
 ```
 
-{{< image alt="thumbnail image 1 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cbfcc5a7e38-1024x369.png" >}}
+![thumbnail image 1 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cbfcc5a7e38-1024x369.png)
 
 ## Step – Create a new SPFx solution
 
@@ -49,11 +49,11 @@ npm install --global yo
 
 We will be asked a series of questions, you can choose/enter below for our sample
 
-{{< image alt="thumbnail image 2 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc006876a3e-768x692.png" >}}
+![thumbnail image 2 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc006876a3e-768x692.png)
 
 It will take a while to install all dependencies and then you should see below once it is completed
 
-{{< image alt="thumbnail image 3 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc00b22d4e8-1024x328.png" >}}
+![thumbnail image 3 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc00b22d4e8-1024x328.png)
 
 ## Step  – Let us test Basic Card Template
 
@@ -71,25 +71,25 @@ Open a SharePoint Workbench in the browser
 
 Select the **Add** icon, select the FirstBasicCard,
 
-{{< image alt="thumbnail image 4 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc01f658816.png" >}}
+![thumbnail image 4 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc01f658816.png)
 
 Once it is added, click on preview and you can see the below output.
 
-{{< image alt="thumbnail image 5 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc032868181.png" >}}
+![thumbnail image 5 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc032868181.png)
 
 ACEs are rendered as 1. Card view(above is card view) which renders on Dashboard or Page load.
 
 We can also have 2. Quick View(below). Select **Quick view** will open a popup to display the quick view of your component. this is also referred to as ACE interaction. Please note that ACEs Interaction only works in Preview mode.
 
-{{< image alt="thumbnail image 6 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc03dc28ead-768x399.png" >}}
+![thumbnail image 6 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc03dc28ead-768x399.png)
 
 Let us now also see how we can configure ACE properties as we do with the SPFx web part. Select the **Edit web part** icon in the edit mode of the page.
 
-{{< image alt="thumbnail image 7 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc045b0ffba-1024x405.png" >}}
+![thumbnail image 7 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc045b0ffba-1024x405.png)
 
 Close the Property window and click on the preview to see updated property values being displayed in ACE.
 
-{{< image alt="thumbnail image 8 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc04be304e3.png" >}}
+![thumbnail image 8 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc04be304e3.png)
 
 So that’s it, we have see how we can create a simple hello world ACEs component and test it in workbench, Next let us go to code and understand how the all of these is working together
 
@@ -169,14 +169,14 @@ You will see here 3 methods
 public get data(): IBasicCardParameters {
     return {
         primaryText: strings.PrimaryText,
-        
+
     };
 }
 ```
 
 This method is the main method that will populate the Card based on template type, as in this case, we can only have to only set primaryText which will be displayed as in the below place
 
-{{< image alt="thumbnail image 9 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc26ba44803.png" >}}
+![thumbnail image 9 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc26ba44803.png)
 
 The current sample is getting this primary text value from the localization en-us.js file. You can extend this to get from anywhere else based on your logic.
 
@@ -212,11 +212,11 @@ import {
 
 Now modify the below line to change extends from “BaseBasicCardView” to “BasePrimaryTextCardView”
 
-{{< image alt="thumbnail image 10 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc2949304b6-1024x257.png" >}}
+![thumbnail image 10 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc2949304b6-1024x257.png)
 
 As soon as you do this, you will get the below error in `data()` method,
 
-{{< image alt="thumbnail image 11 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc29aa67192-1024x211.png" >}}
+![thumbnail image 11 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc29aa67192-1024x211.png)
 
 This is because PrimaryTextCardParameters will also require us to send description property which will be rendered below the primary text.
 
@@ -233,7 +233,7 @@ public get data(): IPrimaryTextCardParameters {
 
 Save the file and go and run gulp serve again to see the changes in the workbench, you should see below output
 
-{{< image alt="thumbnail image 12 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc2a3f461ba.png" >}}
+![thumbnail image 12 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc2a3f461ba.png)
 
 Same way if you extend the view from `BaseImageCardView`. we will have to set `imageUrl` and `primaryText` in `data` method(sample below)
 
@@ -241,13 +241,13 @@ Same way if you extend the view from `BaseImageCardView`. we will have to set `i
       return {
         imageUrl: "https://picsum.photos/id/237/200/300",
         primaryText: "My Primary Text"
-        
+
       };
     }
 
 Below is how it will be displayed 
 
-{{< image alt="thumbnail image 13 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc5606b41e5.png" >}}
+![thumbnail image 13 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc5606b41e5.png)
 
 #### `cardButtons`
 
@@ -280,7 +280,7 @@ public get cardButtons(): [ICardButton] | [ICardButton, ICardButton] | undefined
 
 Below is how it will be displayed(if you have BaseImageCardView as extended class)
 
-{{< image alt="thumbnail image 14 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc566937e47.png" >}}
+![thumbnail image 14 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc566937e47.png)
 
 #### `onCardSelection()` method
 
@@ -336,7 +336,7 @@ export class QuickView extends BaseAdaptiveCardView<
 
 We would see below the output.
 
-{{< image alt="thumbnail image 15 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx " src="images/img_61cc5a4b38db9.png" >}}
+![thumbnail image 15 of blog post titled Create your first Adaptive Card Extensions(ACEs) with SPFx ](images/img_61cc5a4b38db9.png)
 
 If you see the class should have below 3 generics implemented.
 
@@ -404,5 +404,3 @@ Hope this helps to understand the SPFx Adaptive Card Extension concept, Happy co
 [https://docs.microsoft.com/sharepoint/dev/spfx/viva/get-started/build-first-sharepoint-adaptive-card-extension](https://docs.microsoft.com/sharepoint/dev/spfx/viva/get-started/build-first-sharepoint-adaptive-card-extension)
 
 [https://nanddeepnachanblogs.com/posts/2021-09-21-build-ace-spfx/](https://nanddeepnachanblogs.com/posts/2021-09-21-build-ace-spfx/)
-
-

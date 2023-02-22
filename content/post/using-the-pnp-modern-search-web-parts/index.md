@@ -6,7 +6,7 @@ githubname: willholland
 categories: ["Community post"]
 images:
 - images/16-final.png
-tags: []
+tags: ["SharePoint framework (SPFx)", "PnP Modern Search"]
 type: "regular"
 ---
 
@@ -36,7 +36,7 @@ shipped).
 We're not going to be deep diving into every option or combination of
 setting. Instead, we're going for the classic \"Minimal Path to
 Awesome\"\...with a few detours throughout.
-{{< image alt="16-final.png" src="images/16-final.png" >}}
+![16-final.png](images/16-final.png)
 
 ## Getting the Web Parts 
 
@@ -72,7 +72,7 @@ this blog to help get you up to speed.
 In keeping with the spirit of our "Minimal Path to Awesome" approach,
 the Search Box web part will be the easiest to configure of the lot. We
 can just drop it on the page somewhere and be done.
-{{< image alt="4-search-box.png" src="images/4-search-box.png" >}}
+![4-search-box.png](images/4-search-box.png)
 
 That doesn't mean, however, that it has to be that simple. Version 4
 has introduced more advanced features than we'll be making use of, but
@@ -81,7 +81,7 @@ that doesn't mean we can't take a peek.
 ### Panel 1 - Search box settings 
 
 The first configuration panel initially offers two settings.
-{{< image alt="5-search-box-settings.png" src="images/5-search-box-settings.png" >}}
+![5-search-box-settings.png](images/5-search-box-settings.png)
 The first setting will replace the default \"*Enter your search
 terms\...*\" placeholder text with whatever you type here.
 
@@ -120,7 +120,7 @@ potential query.
 
 The last panel of options includes configurations that allow us to pull
 queries from other sources.
-{{< image alt="6-search-box-available-connections.png" src="images/6-search-box-available-connections.png" >}}
+![6-search-box-available-connections.png](images/6-search-box-available-connections.png)
 
 Again, we're not going to be dealing with these on our MPA. However,
 referring to the example of having a search box on a home page sending
@@ -141,7 +141,7 @@ verticals that enable our users to see results for specific platforms.
 In terms of difficulty, the *Search Verticals* web part comes in second
 place in our example, although it's probably the easiest to configure
 overall if you count the Search Box features we're not making use of.
-{{< image alt="7-search-verticals.png" src="images/7-search-verticals.png" >}}
+![7-search-verticals.png](images/7-search-verticals.png)
 
 While the other three web parts in this package saw new features (and
 added complexity) with the latest version, this web part is actually
@@ -152,10 +152,10 @@ with, so let's take a look.
 
 When you open the Search Verticals web part, you'll be greated with a
 singular button that says **Configure Verticals**.
-{{< image alt="8-meme.png" src="images/8-meme.png" >}}
+![8-meme.png](images/8-meme.png)
 
 When clicked, you get the real deal\...
-{{< image alt="9-real-deal.png" src="images/9-real-deal.png" >}}
+![9-real-deal.png](images/9-real-deal.png)
 
 We can add any number of verticals simply by giving them a name and
 setting an order. We can also make use of the standard Fabric icons if
@@ -197,11 +197,11 @@ refiners respect that.
 ### Panel 1 - Filter Settings 
 
 The other section has two different settings we can configure.
-{{< image alt="18-filters-settings.png" src="images/18-filters-settings.png" >}}
+![18-filters-settings.png](images/18-filters-settings.png)
 
 Clicking the edit button will, again, open a meme-worthy panel. Unlike
 the last panel, though, this new panel is far more involved.
-{{< image alt="19-refiners-settings.png" src="images/19-refiners-settings.png" >}}
+![19-refiners-settings.png](images/19-refiners-settings.png)
 
 Most of the settings are, I think, self explanatory and you can see the
 settings used for the demo in the above screenshot.
@@ -220,7 +220,7 @@ managed properties.
 We have three pre-canned layouts available to us, as well as a Custom
 option which you can use to present your filters in any way you can
 imagine.
-{{< image alt="17-vertical-layouts.png" src="images/17-vertical-layouts.png" >}}
+![17-vertical-layouts.png](images/17-vertical-layouts.png)
 
 The *Vertical* and *Horizontal* options are self-descriptive, while the
 *Panel* option will cause a panel to flyout from the right (like how the
@@ -234,7 +234,7 @@ with that option.
 The *Search Results* web part is, as the name implies, the component we
 use to show search results for the things users are searching for. It's
 also where things start getting little more involved.
-{{< image alt="10-search-results.png" src="images/10-search-results.png" >}}
+![10-search-results.png](images/10-search-results.png)
 
 Unlike the previous web parts, there are a lot of different settings,
 combinations, and customization potential in this web part. Since we're
@@ -245,7 +245,7 @@ basics.
 
 The first section we must deal with is choosing where we will pull
 search results from: SharePoint or Microsoft Search?
-{{< image alt="11-search-sources.png" src="images/11-search-sources.png" >}}
+![11-search-sources.png](images/11-search-sources.png)
 
 As was mentioned in the at the beginning of this blog, all our data is
 in SharePoint, so we're just going to go with that. We could, of
@@ -265,7 +265,7 @@ Search results are, behind the scenes, being rendered using
 *Slots* will create a variable that can be referenced in a template and
 is tied back to a property returned in the search results.
 
-{{< image alt="12-slots.png" src="images/12-slots.png" >}}
+![12-slots.png](images/12-slots.png)
 
 Considering the above, there will be a property exposed in the
 Handlebars template called \"Author\" that is mapped to the
@@ -345,7 +345,7 @@ on our result cards.
 
 I think this one is fairly self explanatory. You select a managed
 property (or properties), things get sorted as you specify.
-{{< image alt="13-sort.png" src="images/13-sort.png" >}}
+![13-sort.png](images/13-sort.png)
 
 The only thing to keep in mind here is that the property you select must
 be marked as being sortable in the Search schema, which they won't be
@@ -383,7 +383,7 @@ straggler if we left it at the default 10).
 
 This panel is more straight forward that the last. Select a layout and
 configure any common or layout specific options you want.
-{{< image alt="14-layouts.png" src="images/14-layouts.png" >}}
+![14-layouts.png](images/14-layouts.png)
 
 The complexity will come in when you want to customize the visual
 appearance of the search results. Many of the non-custom layouts have
@@ -422,7 +422,7 @@ However, we definitely want to flip that on, otherwise our *Search Box*
 web part will be about as useful as a glass nail. Once on, you can
 select Dynamic Value and select the **PnP - Search Box** option.
 
-{{< image alt="15-input-query.png" src="images/15-input-query.png" >}}
+![15-input-query.png](images/15-input-query.png)
 
 We'll also want to go ahead and connect our filters web part, which is
 as simple as toggling the switch and selecting the only item in the
@@ -449,7 +449,7 @@ web part to include these additions.
 
 If you've followed along with everything, you should have a page that
 looks something like the below\...
-{{< image alt="16-final.png" src="images/16-final.png" >}}
+![16-final.png](images/16-final.png)
 
 These web parts are amazingly cool, extremely powerful, and can be
 leveraged to create a lot of awesome experiences for our users.

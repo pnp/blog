@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/GraphFun-image.png
-tags: []
+tags: ["Microsoft Graph"]
 type: "regular"
 ---
 
@@ -51,7 +51,7 @@ that:
 
  
 
-{{< image alt="GraphFun-image.png" src="images/GraphFun-image.png" >}}
+![GraphFun-image.png](images/GraphFun-image.png)
 
  
 
@@ -83,7 +83,7 @@ on to view their profile picture.
 
  
 
-{{< image alt="get-pic.png" src="images/get-pic.png" >}}
+![get-pic.png](images/get-pic.png)
 
  
 
@@ -97,7 +97,7 @@ browser with \`localhost:8080\`.
 \* Select the \`show profile picture\` button\
 \* see that profile pic? YAY - time for a happy dance- You made it!
 
-{{< image alt="tropy.png" src="images/tropy.png" >}}
+![tropy.png](images/tropy.png)
 
  
 

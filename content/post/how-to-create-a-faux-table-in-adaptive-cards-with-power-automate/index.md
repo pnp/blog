@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories: ["Community post"]
 images:
 - images/LuiseFreese_12-1629042402697.png
-tags: []
+tags: ["Adaptive cards"]
 type: "regular"
 ---
 
@@ -31,7 +31,7 @@ To make things a bit more approachable, here is our little...
 
 We want to display items of a SharePoint list in an Adaptive Card as a table. The result should look like this:
 
-{{< image alt="LuiseFreese_12-1629042402697.png" src="images/LuiseFreese_12-1629042402697.png" >}}
+![LuiseFreese_12-1629042402697.png](images/LuiseFreese_12-1629042402697.png)
 
 Purpose is to notify the Team each Monday about all Unicorns with a unicornibility index of less than 85 so that the team can take care of them. We do not only want to display 1 single item of our list with a factsheet but display as many items as match our query (unicornibility lt 85). We don't want to hard-code any value in here to keep things flexible.
 
@@ -42,7 +42,7 @@ Purpose is to notify the Team each Monday about all Unicorns with a unicornibili
 We start with a **Recurrence** trigger, set the **interval** to `1` and
 the **Frequency** to `Week`.
 
-{{< image alt="recurrence.png" src="images/recurrence.png" >}}
+![recurrence.png](images/recurrence.png)
 
 
 ### get Items (SharePoint) 
@@ -57,7 +57,7 @@ limit how many items you want to retrieve.
 
 
 
-{{< image alt="get-items.png" src="images/get-items.png" >}}
+![get-items.png](images/get-items.png)
 
 ### Preparations to bind data and JSON schema of the Adaptive Card 
 
@@ -163,25 +163,25 @@ Let's break this into pieces:
 
 1. First variable will be the upper part of the Adaptive Card in which
     we define the schema, a title and create a column set. 
-{{< image alt="initialize variable for card- upper part" src="images/varCard-initialize.png" >}}
+![initialize variable for card- upper part](images/varCard-initialize.png)
 
 2. We initialize variables for the 3 Headers "Name", "Unicornibility" and
 "Party Readiness Index"
 
-{{< image alt="initialize var Column 1" src="images/varColumn1-initialize.png" >}}
+![initialize var Column 1](images/varColumn1-initialize.png)
 
-{{< image alt="initialize var Column 2" src="images/varColumn2-initialize.png" >}}
+![initialize var Column 2](images/varColumn2-initialize.png)
 
-{{< image alt="initialize var Column 3" src="images/varColumn3-initialize.png" >}}
+![initialize var Column 3](images/varColumn3-initialize.png)
 
 We create an **Apply to Each** and loop over the values of our
 SharePoint list for each column by appending our variables
 
-{{< image alt="initialize var Column 3" src="images/apply-to-each.png" >}}
+![initialize var Column 3](images/apply-to-each.png)
 
 We append the upper part of our card by the 3 columns (consisting of the headers and rows) and the actionset plus end of the card
 
-{{< image alt="append columns to card" src="images/append to Card.png" >}}
+![append columns to card](images/append to Card.png")
 
 In case you wonder why we needed to somehow unclean cut the JSON -- this is a bug in Power Automate.
 
@@ -191,11 +191,11 @@ We needed therefore to find a way to make Power Automate believe, that we are no
 
 Our Code would look color coded like this: [And if we now lay the color-code blocks over the Adaptive Card:]
 
-{{< image alt="color-coded" src="images/V2color-coded.png" >}}
+![color-coded](images/V2color-coded.png)
 
 You may choose if you want to send the Post as the Flow bot or as a user or if you want to send this into a 1:1 chat or into a Channel. The Adaptive Card is our card variable.
 
-{{< image alt="Adaptive Card" src="images/card.png" >}}
+![Adaptive Card](images/card.png)
 
 ## Conclusion and what's next 
 

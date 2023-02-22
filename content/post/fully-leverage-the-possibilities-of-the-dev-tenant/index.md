@@ -6,7 +6,7 @@ githubname: MichaelRoth42
 categories: []
 images:
 - images/Gezeitenbrand42_10-1614283053396.png
-tags: []
+tags: ["Power Apps", "Power Automate"]
 type: "regular"
 ---
 
@@ -22,7 +22,7 @@ Not quite. 
 Yes, you have access to Dataverse now and yes, you can even use premium
 connectors and that's cool. But you can go one step further.  
  
-{{< image alt="Kind of dev.png" src="images/Kind of dev.png" >}}
+![Kind of dev.png](images/Kind of dev.png)
  
  
 The Power Apps Community Plan gives you a Development Environment and
@@ -74,14 +74,14 @@ of the Power Apps license.  
 
 Log into your dev tenant and go to the Admin center. Select 
 the **waffle menu** in the upper left corner and select  **Admin.** 
-{{< image alt="Gezeitenbrand42_10-1614283053396.png" src="images/Gezeitenbrand42_10-1614283053396.png" >}}
+![Gezeitenbrand42_10-1614283053396.png](images/Gezeitenbrand42_10-1614283053396.png)
  
  
 
 Next, select  **Purchase services**. 
 
 
-{{< image alt="Gezeitenbrand42_11-1614283053399.png" src="images/Gezeitenbrand42_11-1614283053399.png" >}}
+![Gezeitenbrand42_11-1614283053399.png](images/Gezeitenbrand42_11-1614283053399.png)
  
  
 In the category Business apps you find all the Power Platform plans. In
@@ -90,7 +90,7 @@ also go for the Power Automate per user plan (it's way cheaper and you
 have very similar possibilities. Remember, you just want to create
 different environments and you can do that with both plans. Then click
 on **Details** to see, what's included. 
-{{< image alt="Gezeitenbrand42_12-1614283053411.png" src="images/Gezeitenbrand42_12-1614283053411.png" >}}
+![Gezeitenbrand42_12-1614283053411.png](images/Gezeitenbrand42_12-1614283053411.png)
  
  
  
@@ -99,26 +99,26 @@ apps** to see every detail. If you're happy with it click
 on **Purchase**. 
  
 Now Now
-{{< image alt="Gezeitenbrand42_13-1614283053413.png" src="images/Gezeitenbrand42_13-1614283053413.png" >}}
+![Gezeitenbrand42_13-1614283053413.png](images/Gezeitenbrand42_13-1614283053413.png)
  
  
 Now you're almost done. You already are at the Checkout. Fill in
 your postal address and your billing information. After that click
 on **Place order**. 
  
-{{< image alt="Gezeitenbrand42_14-1614283053403.png" src="images/Gezeitenbrand42_14-1614283053403.png" >}}
+![Gezeitenbrand42_14-1614283053403.png](images/Gezeitenbrand42_14-1614283053403.png)
  
  
 After a few minutes you will get your confirmation mail.  
-{{< image alt="Gezeitenbrand42_15-1614283053406.png" src="images/Gezeitenbrand42_15-1614283053406.png" >}}
+![Gezeitenbrand42_15-1614283053406.png](images/Gezeitenbrand42_15-1614283053406.png)
  
  
 If you select  **Get started** you will be transferred to the Your
 products section of the Admin center. Select  **Assign licenses**. 
-{{< image alt="Gezeitenbrand42_16-1614283053415.png" src="images/Gezeitenbrand42_16-1614283053415.png" >}}
+![Gezeitenbrand42_16-1614283053415.png](images/Gezeitenbrand42_16-1614283053415.png)
  
  
-{{< image alt="Gezeitenbrand42_17-1614283053416.png" src="images/Gezeitenbrand42_17-1614283053416.png" >}}
+![Gezeitenbrand42_17-1614283053416.png](images/Gezeitenbrand42_17-1614283053416.png)
  
  
 For whatever reasons, you have to select  Assign licenses once again.  
@@ -126,11 +126,11 @@ After that you can type in a name and select  the chevron icon next to
 Turn apps and services on or off. Check all the apps and services you
 want to assign, then finish the process by clicking on Assign again, on
 the bottom of the page. 
-{{< image alt="Gezeitenbrand42_18-1614283053408.png" src="images/Gezeitenbrand42_18-1614283053408.png" >}}
+![Gezeitenbrand42_18-1614283053408.png](images/Gezeitenbrand42_18-1614283053408.png)
  
  
 BOOM, there you go.  
-{{< image alt="Gezeitenbrand42_19-1614283053409.png" src="images/Gezeitenbrand42_19-1614283053409.png" >}}
+![Gezeitenbrand42_19-1614283053409.png](images/Gezeitenbrand42_19-1614283053409.png)
  
  
 As described in my previous post [*How to enhance your "dev tenant" to

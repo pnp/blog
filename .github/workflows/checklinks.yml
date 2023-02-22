@@ -19,11 +19,11 @@ jobs:
           args: --no-progress './content/**/*.md' --accept 200,201,403,429,401 --exclude-file ./.lychee/.lycheeignore
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-# Skipping issue creation until issue file is created
-#       - name: Create Issue From File
-#         if: ${{ steps.lychee.outputs.exit_code }} != 0
-#         uses: peter-evans/create-issue-from-file@v3
-#         with:
-#           title: Link Checker Report
-#           content-filepath: ./.lychee/out.md
-#           labels: report, automated issue
+
+      - name: Create Issue From File
+        if: ${{ steps.lychee.outputs.exit_code }} != 0
+        uses: peter-evans/create-issue-from-file@v3
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue

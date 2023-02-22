@@ -18,8 +18,8 @@ Listen to the show here:  [(m365devpodcast.com)](https://www.m365devpodcast.com
 
 ## Links from the show
 
-*   [inPerson helps you manage your flexible office hours and look up your team members' current location](https://appsource.microsoft.com/en-us/product/office/WA200002915?tab=Overview)
-*   [Overview of Progressive Web Apps (PWAs)](https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/)
+*   [inPerson helps you manage your flexible office hours and look up your team members' current location](https://appsource.microsoft.com/product/office/WA200002915?tab=Overview)
+*   [Overview of Progressive Web Apps (PWAs)](https://docs.microsoft.com/microsoft-edge/progressive-web-apps-chromium/)
 
 ## Microsoft News
 

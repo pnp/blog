@@ -3,8 +3,8 @@ title: "Getting started with PnP Script Samples"
 date: 2021-08-10T06:10:00-04:00
 author: "Paul Bullock"
 githubname: pkbullock
-categories: []
-tags: []
+categories: ["Community post"]
+tags: ["SharePoint"]
 type: "regular"
 ---
 
@@ -31,7 +31,7 @@ scripts, allowing you to reduce the time to perform script based tasks
 with the Microsoft 365 services. Like other PnP resources, you can refer
 to this resource to leverage existing scripts to achieve your goals
 quicker and easier.
-{{< image alt="Script Samples - Homepage" src="images/script-samples-home.png" >}}
+![Script Samples - Homepage](images/script-samples-home.png)
 
 ## Scenarios and Scripts 
 
@@ -54,7 +54,7 @@ type of operation e.g. reporting, provision, data, which tools the
 sample refers to and which Microsoft products the script targets.
 Using the metadata, we can provide filters and search capabilities on
 the listing pages enabling you to search for the scenario and script.
-{{< image alt="Searching Script Samples" src="images/script-samples-search.png" >}}
+![Searching Script Samples](images/script-samples-search.png)
 
 ## Copy to Clipboard 
 
@@ -62,7 +62,7 @@ We have introduced a feature within each of the script to copy to
 clipboard allowing you to quickly grab the sample to use in your
 preferred authoring tool. This is located top right-hand side of the
 script blocks:
-{{< image alt="Copy to Clipboard feature" src="images/copt-to-clipboard.png" >}}
+![Copy to Clipboard feature](images/copt-to-clipboard.png)
 
 
 ## Clickable commands 
@@ -71,7 +71,7 @@ In the scripts, there will be example usage of commands that each tool
 provides for the scenario. We have made it easier for you to learn about
 these commands, by automatically linking to the relevant documentation
 site.
-{{< image alt="Clickable Help for commands" src="images/script-clickable-help.png" >}}
+![Clickable Help for commands](images/script-clickable-help.png)
 
 Few points about this feature:
 

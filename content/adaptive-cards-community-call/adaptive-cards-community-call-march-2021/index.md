@@ -6,7 +6,7 @@ githubname: MattHidinger
 categories: ["Adaptive Cards community call"]
 images:
 - images/THumbnailTitleSlide.png
-tags: []
+tags: ["Adaptive Cards"]
 type: "regular"
 ---
 

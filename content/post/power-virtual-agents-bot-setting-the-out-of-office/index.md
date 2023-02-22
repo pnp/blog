@@ -6,7 +6,7 @@ githubname: veskunopanen
 categories: ["Community post"]
 images:
 
-tags: []
+tags: ["Power Virtual Agents"]
 type: "regular"
 ---
 
@@ -24,7 +24,7 @@ the **connection** **user** only. And since you can not act on behalf of
 that user it required to go beyond the wall and say "there is no spoon".
 And I found it there wasn't a spoon- just the miracle world of Graph
 API.
-{{< image alt="image-35" src="images/image-35.png" >}}
+![image-35](images/image-35.png)
 From that phase I advanced to create
 
 -   Azure Logic Apps that uses **Graph API **to set the Out of Office /
@@ -44,7 +44,7 @@ here](https://docs.microsoft.com/graph/api/user-update-mailboxsettings?view=grap
 Next I built a **Azure Logic Apps** that uses **HTTP Request
 trigger** (get) to retrieve user email and number of away days in
 parameters.
-{{< image alt="image-36" src="images/image-36.png" >}}
+![image-36](images/image-36.png)
 This is the format to exclude parameters from the GET
 request. **triggerOutputs()\['queries'\]\['FileID'\]**
 
@@ -52,9 +52,9 @@ After those steps I have user email and number of days that needs to be
 set Out of Office. I returned the HTTP-request and prepared variables
 with Application ID, TenantID and App Secret information to be able to
 call Graph API with application permissions.
-{{< image alt="image-37" src="images/image-37.png" >}}
+![image-37](images/image-37.png)
 The key is of course setting the Out of Office information JSON.
-{{< image alt="image-38" src="images/image-38.png" >}}
+![image-38](images/image-38.png)
 
 The Graph API call URL and example JSON I used to test this are:
  
@@ -82,13 +82,13 @@ https://graph.microsoft.com/v1.0/users/useremail/mailboxsettings
 ```
  
 Then it was just the case of patching the information
-{{< image alt="image-39" src="images/image-39.png" >}}
+![image-39](images/image-39.png)
 The next step was to create the [Azure API Management
 Service](https://azure.microsoft.com/services/api-management) and
 define the API call there. There are two ways to handle the information
 transportation: in the body (as JSON) or as parameters. I put the
 Username and Days in this Proof of Concept to parameters.
-{{< image alt="image-40" src="images/image-40.png" >}}
+![image-40](images/image-40.png)
 For how to create and set up Azure API Management you can [find
 information in this
 URL](https://docs.microsoft.com/azure/api-management/?WT.mc_id=M365-MVP-5003326).
@@ -110,24 +110,24 @@ single purpose does not get a good ROI for most cases.
 After setting the API up into the Azure you can export it directly to
 the Dataverse for Teams environment -- so it is there for the bot to use
 without any Premium licensing.
-{{< image alt="image-45" src="images/image-45.png" >}}
-{{< image alt="image-47" src="images/image-47.png" >}}
+![image-45](images/image-45.png)
+![image-47](images/image-47.png)
 
-{{< image alt="image-46" src="images/image-46.png" >}}
+![image-46](images/image-46.png)
 
 When adding an action to your Cloud Flow in the Dataverse for Teams
 environment where your bot runs you can find the custom action in the
 menu.
-{{< image alt="image-43" src="images/image-43.png" >}}
+![image-43](images/image-43.png)
 
-{{< image alt="image-44" src="images/image-44.png" >}}
+![image-44](images/image-44.png)
 **Cool -- what about the test-run side?**
 
 And when running this one from the PVA of the acting user I can see the
 results via Teams easily
-{{< image alt="image-42" src="images/image-42.png" >}}
+![image-42](images/image-42.png)
 
-{{< image alt="image-41" src="images/image-41.png" >}}
+![image-41](images/image-41.png)
 There are of course other steps as well in that PoC conversation & flow
 but setting up the Out of Office proved to require a bit more steps than
 I originally thought. I have to say that this was also a great learning

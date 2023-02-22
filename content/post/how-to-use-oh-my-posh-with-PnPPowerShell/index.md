@@ -4,7 +4,7 @@ date: 2022-04-14T09:08:00-05:00
 author: "Luise Freese"
 githubname:  luisefreese
 categories: ["Community post"]
-images: 
+images:
 - images/oh-my-posh.png
 tags: ["PnP PowerShell", "SharePoint"]
 type: "regular"
@@ -22,7 +22,7 @@ draft: false
 
 ### the M365Princess theme by Luise plus environment variables by Anoop
 
-Making good things even better: A while ago, [Luise](https://twitter.com/LuiseFreese) created her own theme and now [Anoop](https://twitter.com/anooptells) had the idea to level it up: 
+Making good things even better: A while ago, [Luise](https://twitter.com/LuiseFreese) created her own theme and now [Anoop](https://twitter.com/anooptells) had the idea to level it up:
 
 When interacting with Microsoft 365, most of the times we use the Microsoft 365 platform community driven PowerShell module called [**PnP PowerShell**](https://pnp.github.io/powershell/). One of the first commands we execute while using PnP PowerShell, is `Connect-PnPOnline` to connect to a SharePoint site. We can now see right in the terminal which SharePoint site we are connected to and which Microsoft 365 tenant the SharePoint site lives in.
 
@@ -39,20 +39,22 @@ The original idea to show these values comes from [Erwin van Hunen](https://twit
 To have this experience in Visual Studio Code, complete the following steps:
 
 1. Install oh-my-posh and posh-git
-   - Open the the terminal and run 
-        - `Install-Module oh-my-posh -Scope CurrentUser`
+   - Open the the terminal and run
+        - `winget install JanDeDobbeleer.OhMyPosh --scope user`
         - `Install-Module posh-git -Scope CurrentUser`
-1. Edit your PowerShell profile in VS Code
-   - Open it with `code $PROFILE` 
+
+      > If you are unable to use `winget` then please install oh-my-posh using the `install-amd64.exe` file under the oh-my-posh reopsitory's [latest release](https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest).
+
+2. Edit your PowerShell profile in VS Code
+   - Open it with `code $PROFILE`
    - Insert this:
 
 ```ps1
-Import-Module oh-my-posh
 Import-Module posh-git
-Set-PoshPrompt -Theme M365Princess
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\M365Princess.omp.json" | Invoke-Expression
 ```
 
-3. Install a font 
+3. Install a font
    - Download a font of your choice from [Nerdfonts](https://www.nerdfonts.com/font-downloads)
    - Install a monospace version of that font
    - Open settings in VS Code with CTRL + SHIFT + P and select **Preferences: Open settings (JSON)**
@@ -73,7 +75,7 @@ In the oh-my-posh M365Princess theme, we are displaying the values of `PNPPSHOST
 
 The above lines of code check if the corresponding variables have a value and if they do then, the value is shown.
 
-These values can be shown in any other oh-my-posh theme if needed. To customise any other on-my-posh theme, please follow the guide [here](https://ohmyposh.dev/docs/customize). As part of the customisation, the block between lines [4](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/M365Princess.omp.json#L4) and [33](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/M365Princess.omp.json#L33) of the M365Princess theme to the custom theme. 
+These values can be shown in any other oh-my-posh theme if needed. To customise any other on-my-posh theme, please follow the guide [here](https://ohmyposh.dev/docs/installation/customize). As part of the customisation, the block between lines [4](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/M365Princess.omp.json#L4) and [33](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/M365Princess.omp.json#L33) of the M365Princess theme to the custom theme.
 
 ### Slow prompt?
 
@@ -99,5 +101,5 @@ If you like the oh-my-posh and can afford it, go buy Jan, who builds and maintai
 
 *sharing is caring*
 
-*This post was written by Luise Freese and Anoop Tatti - we are working on having a co-author field.* 
+*This post was written by Luise Freese and Anoop Tatti - we are working on having a co-author field.*
 

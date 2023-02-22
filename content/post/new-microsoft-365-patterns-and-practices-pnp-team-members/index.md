@@ -38,7 +38,7 @@ community member to achieve more." 🧡*
 **Geetha Sivasailam - Business Applications MVP and an App Dev
 Architect**
 
-{{< image alt="VesaJuvonen_1-1636635763205.jpeg" src="images/VesaJuvonen_1-1636635763205.jpeg" >}}
+![VesaJuvonen_1-1636635763205.jpeg](images/VesaJuvonen_1-1636635763205.jpeg)
 
 [Geetha](https://twitter.com/gsived) is a Business Applications MVP and
 an App Dev Architect with [Artis
@@ -56,7 +56,7 @@ You can follow her on [Twitter](https://twitter.com/gsived),
 **Natalie Pienkowska - Program Manager**
 
 
-{{< image alt="VesaJuvonen_0-1636635734643.jpeg" src="images/VesaJuvonen_0-1636635734643.jpeg" >}}
+![VesaJuvonen_0-1636635734643.jpeg](images/VesaJuvonen_0-1636635734643.jpeg)
 
 [Natalie Pienkowska](https://twitter.com/NataliePienkow1) is a Program
 Manager II at Microsoft on the Ecosystem Integrations team, where she
@@ -71,7 +71,7 @@ sustainability.
 
 **Derek Cash-Peterson - Principal Architect**
 
-{{< image alt="VesaJuvonen_0-1636635885262.jpeg" src="images/VesaJuvonen_0-1636635885262.jpeg" >}}
+![VesaJuvonen_0-1636635885262.jpeg](images/VesaJuvonen_0-1636635885262.jpeg)
 
 [Derek](https://twitter.com/spdcp) is a Principal Architect at
 [Sympraxis Consulting](https://sympraxisconsulting.com/). Formerly a
@@ -93,7 +93,7 @@ looking for new restaurants or pubs
 
 **João J. Mendes - Senior SharePoint Developer and MVP**
 
-{{< image alt="VesaJuvonen_1-1636636072010.jpeg" src="images/VesaJuvonen_1-1636636072010.jpeg" >}}
+![VesaJuvonen_1-1636636072010.jpeg](images/VesaJuvonen_1-1636636072010.jpeg)
 
 Hi, my name is [João Mendes](https://twitter.com/joaojmendes), I'm
 Portuguese living in Porto, Portugal. I'm Senior SharePoint Developer
@@ -113,7 +113,7 @@ on [https://joaojmendes.com](https://joaojmendes.com/)
 
 **Joel Rodrigues - SharePoint Developer and MVP**
 
-{{< image alt="VesaJuvonen_2-1636636268963.jpeg" src="images/VesaJuvonen_2-1636636268963.jpeg" >}}
+![VesaJuvonen_2-1636636268963.jpeg](images/VesaJuvonen_2-1636636268963.jpeg)
 
 [Joel](https://twitter.com/JoelFMRodrigues) is a Microsoft MVP for
 Office development and SharePoint developer at [Storm
@@ -136,7 +136,7 @@ places around the UK.
 
 **Rick Van Rousselt - Managing Consultant\\Technical Evangelist & MVP**
 
-{{< image alt="VesaJuvonen_3-1636636294353.jpeg" src="images/VesaJuvonen_3-1636636294353.jpeg" >}}
+![VesaJuvonen_3-1636636294353.jpeg](images/VesaJuvonen_3-1636636294353.jpeg)
 
 [Rick](https://twitter.com/RickVanRousselt) is a consultant, speaker and
 author living in Belgium. He's been working with SharePoint since 2007
@@ -151,7 +151,7 @@ community event.
 
 **Stephan Bisser - Technical Lead & MVP**
 
-{{< image alt="VesaJuvonen_4-1636636392965.jpeg" src="images/VesaJuvonen_4-1636636392965.jpeg" >}}
+![VesaJuvonen_4-1636636392965.jpeg](images/VesaJuvonen_4-1636636392965.jpeg)
 
 [Stephan](https://twitter.com/stephanbisser) is a technical lead working
 for [Solvion](https://www.solvion.net) from Austria focusing on the
@@ -168,7 +168,7 @@ play football or spend time otherwise with his kids & family.
 
 **Tetsuya Kawahara - SharePoint Developer and MVP**
 
-{{< image alt="VesaJuvonen_5-1636636464067.png" src="images/VesaJuvonen_5-1636636464067.png" >}}
+![VesaJuvonen_5-1636636464067.png](images/VesaJuvonen_5-1636636464067.png)
 
 [Tetsuya](https://twitter.com/techan_k) is a Microsoft MVP in Office
 Development and a SharePoint Developer. He has been working with
@@ -188,7 +188,7 @@ When Tetsuya is not working, he often watches manga, anime, and movies.
 
 **Thomas Gölles - Head of Modern Workplace Solutions and MVP**
 
-{{< image alt="VesaJuvonen_7-1636636640526.jpeg" src="images/VesaJuvonen_7-1636636640526.jpeg" >}}
+![VesaJuvonen_7-1636636640526.jpeg](images/VesaJuvonen_7-1636636640526.jpeg)
 
 Together with his colleagues, [Thomas](https://twitter.com/thomyg) is
 responsible for a business unit that delivers customer projects on top

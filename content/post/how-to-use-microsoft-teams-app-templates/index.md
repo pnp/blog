@@ -6,7 +6,7 @@ githubname: mpaukkon
 categories: ["Community post"]
 images: 
 - images/ask-away-app.png
-tags: []
+tags: ["Microsoft Teams"]
 type: "regular"
 ---
 
@@ -17,7 +17,7 @@ of application architectures and coding patters or just start using an
 app right away in your organization. App templates are community driven,
 open source and production-ready apps.
 
-{{< image alt="ask-away-app.png" src="images/ask-away-app.png" >}}
+![ask-away-app.png](images/ask-away-app.png)
 
 
 Installation instructions, detailed prerequisites and source code are
@@ -94,14 +94,14 @@ All Azure related services are created with Azure Resource Manager
 template (ARM). Each app has a Deploy to Azure button, which opens up
 the Azure Portal based on your credentials.
 
-{{< image alt="Deploy to Azure button" src="images/68747470733a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67.png" >}}
+![Deploy to Azure button](images/68747470733a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67.png)
 
 Easiest way is to use that browser session, where you have logged in
 with an account linked to your Azure subscription where you like to
 deploy the services. Based on required resources for the app, ARM
 template is providing different configuration options.
 
-{{< image alt="Deploy resources to Azure" src="images/teams-app-azure-deployment.png" >}}
+![Deploy resources to Azure](images/teams-app-azure-deployment.png)
 
 First pick-up a subscription and a resource group to deploy new
 resources. I suggest creating a new resource group for the app, at least
@@ -154,13 +154,13 @@ App (image below) on Apps page or as a solution in Solutions page.
 Solution require a separate Dataverse environment, which can be created
 from Power App admin portal.
 
-{{< image alt="Import a Power App" src="images/Screenshot 2021-01-13 175255.png" >}}
+![Import a Power App](images/Screenshot 2021-01-13 175255.png)
 
 After import is complete, you can create a Teams app package for created
 Power App by selecting "*Add to Teams*". Fill-out details and click
 Download app.
 
-{{< image alt="Download Teams app package for a Power App" src="images/2021-01-13_17-54-25.png" >}}
+![Download Teams app package for a Power App](images/2021-01-13_17-54-25.png)
 
 Install the app (downloaded zip file) to Teams either using side-loading
 or uploading the app to Teams app catalog.
@@ -177,7 +177,7 @@ select "*Upload a custom app*" and select "*Upload for me or my
 teams*". If the option is not available for you, sideloading is
 disabled. Configure the app and you're done.
 
-{{< image alt="Add an app to Teams" src="images/2021-01-13_18-13-21.png" >}}
+![Add an app to Teams](images/2021-01-13_18-13-21.png)
 
 
 For uploading an app to your whole tenant, select \"*Upload a custom

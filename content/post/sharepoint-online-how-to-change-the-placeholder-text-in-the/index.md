@@ -6,7 +6,7 @@ githubname: ganesh-sanap
 categories: ["Community post"]
 images:
 - images/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
 
@@ -70,7 +70,7 @@ Set-PnPSearchSettings -Scope Site -SearchBoxPlaceholderText "Search Work @ SPExp
 ```
  
 
-#### {{< image alt="sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png" src="images/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png" >}}
+#### ![sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png](images/sharepoint-online-how-to-change-the-placeholder-text-in-the-search-box.png)
 
 ### Reset to default placeholder text
 
@@ -83,7 +83,7 @@ following command after connecting to a SharePoint site:
 Set-PnPSearchSettings -Scope Site -SearchBoxPlaceholderText ""
 ```
  
-{{< image alt="sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png" src="images/sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png" >}}
+![sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png](images/sharepoint-online-how-to-reset-the-placeholder-text-in-the-search-box.png)
 
 ------------------------------------------------------------------------
 

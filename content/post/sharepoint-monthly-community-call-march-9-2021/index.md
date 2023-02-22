@@ -4,8 +4,7 @@ date: 2021-03-09T11:19:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
-images:
-- images/march-sp-monthly-together-mode.gif
+images: 
 tags: []
 type: "regular"
 ---
@@ -44,7 +43,7 @@ participating in this PnP Community during February. You are truly
 amazing.  The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call.
-{{< image alt="march-sp-monthly-together-mode.gif" src="images/march-sp-monthly-together-mode.gif" >}}
+ 
 
 **Demo: Getting started with Microsoft Viva Topics** -- system and tools
 to help customers manage knowledge within their organizations through a
@@ -106,7 +105,7 @@ Channel](https://aka.ms/m365pnp-videos).
     Moneypenny](https://twitter.com/nmoneypenny) (Microsoft) |
     @nmoneypenny - [14:26](https://youtu.be/xXmpIVdokSs?t=866)
 The full recording of this session is available from Microsoft 365 &
-SharePoint Community YouTube channel - <http://aka.ms/m365pnp-videos>.
+SharePoint Community YouTube channel - <https://aka.ms/m365pnp-videos>.
 -   Presentation slides used in this community call are found at
     [OneDrive](https://1drv.ms/p/s!AlposW7ozA_90jQWIX5-19SSp93e?e=UXweGM).
 
@@ -125,7 +124,7 @@ Additional resources on covered topics and discussions.
 -   [SharePoint Syntex](https://aka.ms/SharePointSyntex) 
 
 -   [Content Services Partner
-    Program](https://aka.ms/ContentServicesProgram) 
+    Program](https://adoption.microsoft.com/en-us/tech-community-resource-center/) 
 
 -   [Microsoft Knowledge & Content Services Resource
     Center](https://aka.ms/KCS) 
@@ -166,12 +165,12 @@ Additional resources on covered topics and discussions.
 -   [SharePoint Starter
     Kit](https://github.com/SharePoint/sp-starter-kit)
 -   Recurrent invite to SharePoint Development monthly calls -
-    <http://aka.ms/spdev-call>
--   SharePoint Developer documentation - <http://aka.ms/spdev-docs>
--   SharePoint Development Issues - <http://aka.ms/spdev-issues>
+    <https://aka.ms/spdev-call>
+-   SharePoint Developer documentation - <https://aka.ms/spdev-docs>
+-   SharePoint Development Issues - <https://aka.ms/spdev-issues>
 -   SharePoint GitHub organization - <http://github.com/SharePoint>
 -   SharePoint Development UserVoice - new feature requests -
-    <http://aka.ms/spdev-uservoice>
+    <https://aka.ms/spdev-uservoice>
 
 
 ## Upcoming Calls | Recurrent Invites
@@ -194,7 +193,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/sp-call>
 \"*Too many links, can't remember*\" - not a problem\... **just one
 URL** is enough for all Microsoft 365 community topics -
-<http://aka.ms/m365pnp>.
+<https://aka.ms/m365pnp>.
 
 *"Sharing is caring"*
 

@@ -27,7 +27,7 @@ To start building this experience, create a Microsoft form with the
 setting **Anyone can respond** and with fields (Name, Email address etc)
 to collect information from the external user to send invitation.
 
-## {{< image alt="MSForm-ExternalUserdetails.png" src="images/MSForm-ExternalUserdetails.png" >}} 
+## ![MSForm-ExternalUserdetails.png](images/MSForm-ExternalUserdetails.png) 
 
 ## Azure Active Directory Application registration
 
@@ -41,7 +41,7 @@ generate the JSON webtoken to access Microsoft Graph API for sending
 invitation. Find below screenshot with the permission User.Invite.All
 added to the app. Keep in mind the permission requires Admin consent.
 
-{{< image alt="AdApp-GraphPermissiontoInviteGuestUser.png" src="images/AdApp-GraphPermissiontoInviteGuestUser.png" >}}
+![AdApp-GraphPermissiontoInviteGuestUser.png](images/AdApp-GraphPermissiontoInviteGuestUser.png)
 
 There is also delegated permission available for User.Invite.All.
 
@@ -68,7 +68,7 @@ selected from the dynamic content for the trigger to get the form
 details submitted in the Microsoft form by the external user. Find
 screenshot below
 
-{{< image alt="MSFormTrigger-ExternalUser.png" src="images/MSFormTrigger-ExternalUser.png" >}}
+![MSFormTrigger-ExternalUser.png](images/MSFormTrigger-ExternalUser.png)
 
 ## Adaptive card for Teams Approval
 
@@ -80,7 +80,7 @@ action by a Microsoft Teams user to proceed with Invitation for the
 Guest account creation. Find screenshot below from the adaptive card
 designer
 
-{{< image alt="AdaptiveCard-DesignforApproval.png" src="images/AdaptiveCard-DesignforApproval.png" >}}
+![AdaptiveCard-DesignforApproval.png](images/AdaptiveCard-DesignforApproval.png)
 
 1.  After the card is designed, copy the card payload from the designer
     and go to the flow and then add the action **Post adaptive card and
@@ -95,10 +95,10 @@ designer
         formatDateTime(utcNow(),'g') to display the current datetime
         information on the card.
 
-{{< image alt="AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png" src="images/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png" >}}
+![AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png](images/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse1.png)
 
 
-{{< image alt="AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png" src="images/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png" >}}
+![AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png](images/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponse2.png)
 
 -   **Update Message**: Custom message which appear after an action
     taken in Microsoft Teams
@@ -207,7 +207,7 @@ post adaptive card action and take an action on Microsoft Teams by
 clicking either Approve or Reject and then go to the Flow run from the
 history as shown below
 
-{{< image alt="AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponseRunHistory.png" src="images/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponseRunHistory.png" >}}
+![AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponseRunHistory.png](images/AdaptiveCard-PAFlow-POSTAdatptivecardandwaitforresponseRunHistory.png)
 
 From the above screenshot, we can see if the user has clicked the
 Approve or Reject button from the field **submitActionId**. To get this
@@ -242,7 +242,7 @@ outputs('Post_adaptive_card_and_wait_for_a\_response').body.submitActionId
 in the compose action, then add a condition control to decide action
 based on users approval
 
-{{< image alt="AdaptiveCard-cardactionoutput.png" src="images/AdaptiveCard-cardactionoutput.png" >}}
+![AdaptiveCard-cardactionoutput.png](images/AdaptiveCard-cardactionoutput.png)
 
 I have observed this issue occurs in other team's adaptive card actions
 as well, the above fix should work. Now we can implement the logic to
@@ -289,7 +289,7 @@ For the client secret make sure to URL encode using the expression
 encodeUriComponent(variables('clientSecret')) else the request will fail
 due to the presence of special characters.
 
-{{< image alt="MSGraph-GenerateJSONWebToken.png" src="images/MSGraph-GenerateJSONWebToken.png" >}}
+![MSGraph-GenerateJSONWebToken.png](images/MSGraph-GenerateJSONWebToken.png)
 
 In the above screen, I have added a compose action to store the
 SharePoint site address to be used for granting the external user access
@@ -325,7 +325,7 @@ schema
 ```
  
 
-{{< image alt="MSGraph-ParseJSONWebToken.png" src="images/MSGraph-ParseJSONWebToken.png" >}}
+![MSGraph-ParseJSONWebToken.png](images/MSGraph-ParseJSONWebToken.png)
 
 Include the access token when calling the Microsoft Graph API on the
 Headers section or raw as shown in the next section.
@@ -336,7 +336,7 @@ Before sending the invitation, validate if the user already exists in
 your organization AD tenant by using the email address of the external
 user with the help of the action **Search for users** as shown below
 
-{{< image alt="SearchforexternalUser.png" src="images/SearchforexternalUser.png" >}}
+![SearchforexternalUser.png](images/SearchforexternalUser.png)
 If there is null response for the action **Search for users**, then the
 user does not exist. This can be calculated using the expression length
 and by passing the value as a parameter, if it is equals zero then the
@@ -378,7 +378,7 @@ user](https://docs.microsoft.com/graph/api/invitation-post?view=graph-rest-1.0&t
 ```
  
 
-{{< image alt="MSGraph-SendInvitationforExternaluser.png" src="images/MSGraph-SendInvitationforExternaluser.png" >}}
+![MSGraph-SendInvitationforExternaluser.png](images/MSGraph-SendInvitationforExternaluser.png)
 
 In HTTP request body, use the dynamic content of the form to populate
 the fields invitedUserDisplayName & Emailaddress. The invite redirectUri
@@ -434,7 +434,7 @@ Go back to the flow and add the action **Send an HTTP request to
 SharePoint** to call the above REST api. Find below the screenshot of
 the action
 
-{{< image alt="AddUsertoSharePointGroup.png" src="images/AddUsertoSharePointGroup.png" >}}
+![AddUsertoSharePointGroup.png](images/AddUsertoSharePointGroup.png)
 
 The above action uses delegated permission, the user of the connection
 should have access to the SharePoint site. As of now, there is no Graph
@@ -449,7 +449,7 @@ for calling the REST API using the registered AD app.
 The whole flow can now be tested by submitting the form which sends the
 adaptive card on Teams first as shown below
 
-{{< image alt="AdaptiveCard-InTeamsChannel.png" src="images/AdaptiveCard-InTeamsChannel.png" >}}
+![AdaptiveCard-InTeamsChannel.png](images/AdaptiveCard-InTeamsChannel.png)
 
 After the card is approved, the invite is sent to the external user.
 After the external user accepts the invite, the user should be
@@ -472,7 +472,7 @@ the external user. To enable the setting login into the SharePoint admin
 center \> Policies \> Sharing \> Enable the checkbox Limit external
 sharing by domain \> Add domain
 
-{{< image alt="ExternalSharing-RestrictDomain.png" src="images/ExternalSharing-RestrictDomain.png" >}}
+![ExternalSharing-RestrictDomain.png](images/ExternalSharing-RestrictDomain.png)
 
 ### Onboard External users to a Microsoft Team
 
@@ -514,7 +514,7 @@ the external user which can be used in the Graph API request to add the
 member to a Team. **HTTP-SendGuestInvitation** is the name of the HTTP
 Action.
 
-{{< image alt="externalUserObjectId.png" src="images/externalUserObjectId.png" >}}
+![externalUserObjectId.png](images/externalUserObjectId.png)
 
 ## Permission for the Azure AD App to add a member to a Microsoft Team
 
@@ -539,7 +539,7 @@ External sharing
 With this, the Power Automate flow should send the invitation as shown
 below to the external user.
 
-{{< image alt="externalUserInvitationEmail.png" src="images/externalUserInvitationEmail.png" >}}
+![externalUserInvitationEmail.png](images/externalUserInvitationEmail.png)
 
 If it is for a Microsoft Team, the external user should be licensed for
 teams service to open it on their teams client. The same flow can be

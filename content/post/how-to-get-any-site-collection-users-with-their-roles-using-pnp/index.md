@@ -6,7 +6,7 @@ githubname: chandaniprajapati
 categories: ["Community post"]
 images:
 - images/UserRolesOP.png
-tags: []
+tags: ["SharePoint", "PnP PowerShell"]
 type: "regular"
 ---
 
@@ -99,7 +99,7 @@ StartProcessing
 
 ## Output 
 
-{{< image alt="UserRolesOP.png" src="images/UserRolesOP.png" >}}
+![UserRolesOP.png](images/UserRolesOP.png)
 
 ## Summary 
 

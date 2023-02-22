@@ -6,7 +6,7 @@ githubname: veskunopanen
 categories: ["Community post"]
 images:
 - images/2021-02-10_22-02-47.png
-tags: []
+tags: ["Azure", "Azure Logic Apps", "Microsoft Teams"]
 type: "regular"
 ---
 
@@ -15,7 +15,7 @@ the next level but there is no way we could justify that licensing --
 the ROI is simply not enough. Have you thought that you could be
 utilizing a Azure Logic App instead?
 
-{{< image alt="2021-02-10_22-02-47.png" src="images/2021-02-10_22-02-47.png" >}}
+![2021-02-10_22-02-47.png](images/2021-02-10_22-02-47.png)
 
 Following my earlier post ( [How to: initiate a document approval
 directly in team files tab (using Power
@@ -69,12 +69,12 @@ Navigate to your Resource Group and select  Add.
 
 
 Add a Logic App. Use search to narrow the list down.
-{{< image alt="image-55" src="images/image-55.png" >}}
+![image-55](images/image-55.png)
  
 
 **Note: Be careful how you name your Logic App in the next step because
 you won't be able to change it later!**
-{{< image alt="image-58" src="images/image-58.png" >}}
+![image-58](images/image-58.png)
  
 
 Add Tags if you use them, Review and Create the App. The Logic App is
@@ -82,7 +82,7 @@ deployed rather quickly and you can then go to the Resource.
 Go to Logic App Designer
  
 
-{{< image alt="image-59" src="images/image-59.png" >}}
+![image-59](images/image-59.png)
  
 
 From there you can start selecting your trigger how the Logic App is
@@ -90,11 +90,11 @@ activated. Since we are duplicating the earlier post functionality with
 Azure Logic Apps we choose "When a HTTP request is received"
  
 
-{{< image alt="image-60" src="images/image-60.png" >}}
+![image-60](images/image-60.png)
  
 
 And now the UI starts to look very Power Automatish
-{{< image alt="image-61" src="images/image-61.png" >}}
+![image-61](images/image-61.png)
  
 
 The difference is about available parameters. You need to select  Add
@@ -102,33 +102,33 @@ new parameter to open menu that is in this (and in many other actions)
 not visible unlike at Power Automate designer.
  
 
-{{< image alt="image-62" src="images/image-62.png" >}}
+![image-62](images/image-62.png)
  
 
 Check Method
-{{< image alt="image-63" src="images/image-63.png" >}}
+![image-63](images/image-63.png)
  
 
 And you can choose Get from the list.
  
 
-{{< image alt="image-64" src="images/image-64.png" >}}
+![image-64](images/image-64.png)
 And now we have the trigger part ready (waiting for a save)!
-{{< image alt="image-65" src="images/image-65.png" >}}
+![image-65](images/image-65.png)
  
 
 Then we add other parts. The search for actions is not as good as in
 Power Automate Cloud Flows but keep on trying -- the actions are there!
  
 
-{{< image alt="image-66" src="images/image-66.png" >}}
+![image-66](images/image-66.png)
  
 
 Let's populate that with triggerOutputs()\['queries'\]\['FileID'\] just
 like in the earlier blog post.
  
 
-{{< image alt="image-67" src="images/image-67.png" >}}
+![image-67](images/image-67.png)
  
 
 Add there Get File Properties from SharePoint. In this point we need to
@@ -136,12 +136,12 @@ add a connection to the SharePoint. Use credentials that you seem to be
 fit.
  
 
-{{< image alt="image-68" src="images/image-68.png" >}}
-{{< image alt="image-69" src="images/image-69.png" >}}
+![image-68](images/image-68.png)
+![image-69](images/image-69.png)
 
 Once you have signed in you can define the information how to get file
 properties.
-{{< image alt="image-70" src="images/image-70.png" >}}
+![image-70](images/image-70.png)
  
 
 The FileID is missing. You need to do a bit trick here:
@@ -150,12 +150,12 @@ The FileID is missing. You need to do a bit trick here:
 -   add it to the Get file properties
 -   Change parameter back to string
 
-{{< image alt="image-71" src="images/image-71.png" >}}
+![image-71](images/image-71.png)
 And select  see more at Variable section in Dynamic content
-{{< image alt="image-72" src="images/image-72.png" >}}
+![image-72](images/image-72.png)
 Choose fileid. And yes! (don't forget to change the fileid parameter
 back to string)
-{{< image alt="image-73" src="images/image-73.png" >}}
+![image-73](images/image-73.png)
  
 
 At this point we have
@@ -166,8 +166,8 @@ At this point we have
 
 Let's close that HTTP request first. Add Response-action and instruct to
 close the tab.
-**{{< image alt="image-74" src="images/image-74.png" >}}
-**{{< image alt="image-75" src="images/image-75.png" >}}
+**![image-74](images/image-74.png)
+**![image-75](images/image-75.png)
  
 
 **Note: here is when you need to progress differently than with Power
@@ -179,23 +179,23 @@ Power Automate with a when item is inserted trigger there.
 First -- let's create that list where we can write the information to.
 We can use Teams Lists -app for that.
 
-{{< image alt="image-76" src="images/image-76.png" >}}
+![image-76](images/image-76.png)
  
 
 Search for the action in Azure Logic Apps and add Create Item
-{{< image alt="image-77" src="images/image-77.png" >}}
+![image-77](images/image-77.png)
  
 
-{{< image alt="image-78" src="images/image-78.png" >}}
+![image-78](images/image-78.png)
  
 
 Now, we need to select  Add new parameter to add list columns to the
 action.
-{{< image alt="image-79" src="images/image-79.png" >}}
+![image-79](images/image-79.png)
 Choosing Approver, FileID, and Outcome. I actually should have named
 Approver as Approval Requestor but hopefully it doesn't confuse too
 much.
-{{< image alt="image-80" src="images/image-80.png" >}}
+![image-80](images/image-80.png)
  
 
 When filling up information you can use Dynamic values from Get file
@@ -203,14 +203,14 @@ properties. Since we don't really know who clicked that request approval
 button we just assume it was the person who did changes the last time.
 
 And that's it!
-{{< image alt="image-81" src="images/image-81.png" >}}
+![image-81](images/image-81.png)
 Hit save (if you haven't already) and you have the URL in the trigger
 action available. Proceed with column formatting [as stated in previous
 post](https://myteamsday.com/2021/01/29/approve-files/).
 
 Fast forwarding the Power Automate that is created as a trigger to the
 File Approvals -list looks like this:
-{{< image alt="image-83" src="images/image-83.png" >}}
+![image-83](images/image-83.png)
  
 
 Steps are roughly similar to the ones as in the earlier post.

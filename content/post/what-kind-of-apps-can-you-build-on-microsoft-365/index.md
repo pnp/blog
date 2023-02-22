@@ -20,7 +20,7 @@ Microsoft 365 is also a highly extensible development platform. All the informat
 
 Thinking about building apps on Microsoft 365, you can distinguish between two types of apps: standalone apps and apps that extend Microsoft 365.
 
-{{< image alt="Types of apps that you can build on Microsoft 365 grouped into extensions and custom apps" src="images/microsoft-365-types-apps.png" >}}
+![Types of apps that you can build on Microsoft 365 grouped into extensions and custom apps](images/microsoft-365-types-apps.png)
 
 
 ### Custom apps: build your experience
@@ -41,11 +41,11 @@ Microsoft 365 offers many extension points to bring your app where your users ar
 
 First of all, you can [build conversational bots](https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-16324-wmastyka). Bots help people complete tasks through conversations. They're a great way to expose relevant features of your app and guide users through the scenario like a personal assistant.
 
-{{< image alt="Custom bot integrated in Microsoft Teams" src="images/microsoft-365-teams-bot.png" >}}
+![Custom bot integrated in Microsoft Teams](images/microsoft-365-teams-bot.png)
 
 Another way to expose your app in a Teams conversation is through [messaging extensions](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions?WT.mc_id=m365-16324-wmastyka). Messaging extensions help people complete tasks in a visually-compelling way. They're similar to bots but are more visually oriented and ideal for showing rich data
 
-{{< image alt="Custom messaging extension integrated in Microsoft Teams" src="images/microsoft-365-teams-messaging-extension.png" >}}
+![Custom messaging extension integrated in Microsoft Teams](images/microsoft-365-teams-messaging-extension.png)
 
 Finally, you can [send
 notifications](https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/what-are-webhooks-and-connectors?WT.mc_id=m365-16324-wmastyka)
@@ -61,7 +61,7 @@ to facilitate communication and manage knowledge. Using rich pages, they
 publish content and build interactive dashboards. These pages consist of
 reusable building blocks - web parts, that end-users put together.
 
-{{< image alt="Custom SharePoint portal on Microsoft 365" src="images/full-layout-thelanding.jpg" >}}
+![Custom SharePoint portal on Microsoft 365](images/full-layout-thelanding.jpg)
 
 You can extend portals on Microsoft 365 in two ways. First, you can build widgets, called [web parts](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts?WT.mc_id=m365-16324-wmastyka). Users, who create pages, can put your web parts on pages to enrich the content. Your web parts can show data from Microsoft 365 as well as any other API.
 
@@ -71,12 +71,12 @@ Another way to extend portals is by building [extensions](https://docs.microsoft
 
 When creating documents on Microsoft 365, users can [enrich them with interactive elements](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins?WT.mc_id=m365-16324-wmastyka), like maps or charts. These elements can be connected to APIs and make documents interactive and present data that is always up-to-date.
 
-{{< image alt="Conceptual image showing a content add-in for Microsoft Office" src="images/about-addins-contentaddin.png" >}}
+![Conceptual image showing a content add-in for Microsoft Office](images/about-addins-contentaddin.png)
 
 
 You can also build [task pane extensions](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins?WT.mc_id=m365-16324-wmastyka) for Microsoft Office applications that help users work with their documents. A task pane could help people lookup their customer information when writing contracts or order information when creating invoices.
 
-{{< image alt="Conceptual image showing a task pane add-in for Microsoft Office" src="images/about-addins-taskpane.png" >}}
+![Conceptual image showing a task pane add-in for Microsoft Office](images/about-addins-taskpane.png)
 
 ## Connect your application to Microsoft 365
 

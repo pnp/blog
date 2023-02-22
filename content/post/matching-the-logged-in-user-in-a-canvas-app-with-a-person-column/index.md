@@ -6,7 +6,7 @@ githubname: CarmenYsewijn
 categories: ["Community post"]
 images:
 - images/Hermione-IconVisible.png
-tags: []
+tags: ["Power Apps", "SharePoint"]
 type: "regular"
 ---
 
@@ -36,10 +36,10 @@ or more of the items in the list are assigned to each of the users. If
 the logged in user is the approver, they should have the Approve/Reject
 option available in the list, which is indicated with the canvas apps
 "DockCheckIcon" icon.
-{{< image alt="Hermione-IconVisible.png" src="images/Hermione-IconVisible.png" >}}
+![Hermione-IconVisible.png](images/Hermione-IconVisible.png)
 
-{{< image alt="Harry-IconNotVisible.png" src="images/Harry-IconNotVisible.png" >}}
-{{< image alt="Ron-IconNotVisible.png" src="images/Ron-IconNotVisible.png" >}}
+![Harry-IconNotVisible.png](images/Harry-IconNotVisible.png)
+![Ron-IconNotVisible.png](images/Ron-IconNotVisible.png)
 
 The first user, Hermione, does not give any issues. The email address of
 the logged-in user matches that of the approver in the SharePoint list,
@@ -90,10 +90,10 @@ will be visible when relevant for them.
 
 For Hermione, the result is exactly the same. For Harry and Ron, it now
 looks different.
-{{< image alt="Harry-IconVisible.png" src="images/Harry-IconVisible.png" >}}
+![Harry-IconVisible.png](images/Harry-IconVisible.png)
 
 
-{{< image alt="Ron-IconVisible.png" src="images/Ron-IconVisible.png" >}}
+![Ron-IconVisible.png](images/Ron-IconVisible.png)
 
 ### A closing note
 

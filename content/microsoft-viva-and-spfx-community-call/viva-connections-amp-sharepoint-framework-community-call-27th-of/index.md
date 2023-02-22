@@ -1,19 +1,19 @@
 ---
 title: "Viva Connections & SharePoint Framework Community Call – 27th of January, 2022"
-summary: "Viva Connections & SharePoint Framework bi-weekly community call recording from January 27th is now available from the Microsoft 365 Community YouTube channel at http://aka.ms/m365pnp/videos. You can use SharePoint Framework for building solutions for Microsoft Teams and SharePoint Online"
+summary: "Viva Connections & SharePoint Framework bi-weekly community call recording from January 27th is now available from the Microsoft 365 Community YouTube channel at https://aka.ms/m365pnp/videos. You can use SharePoint Framework for building solutions for Microsoft Teams and SharePoint Online"
 date: 2022-01-28T02:07:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-27th-jan.png
-tags: ["Adaptive Cards", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["Adaptive Cards", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 videos:
 - https://www.youtube.com/watch?v=WkFVkFKPDMc
 ---
 
-Viva Connections & SharePoint Framework bi-weekly community call recording from January 27th is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](http://aka.ms/m365pnp/videos). You can use SharePoint Framework for building solutions for **Microsoft Teams** and for **SharePoint** Online.
+Viva Connections & SharePoint Framework bi-weekly community call recording from January 27th is now available from the Microsoft 365 Community YouTube channel at [https://aka.ms/m365pnp/videos](https://aka.ms/m365pnp/videos). You can use SharePoint Framework for building solutions for **Microsoft Teams** and for **SharePoint** Online.
 
 {{< youtube WkFVkFKPDMc >}}
 
@@ -49,9 +49,6 @@ SharePoint Framework (SPFx)|v1.13 GA, **updated v1.14 (beta 5) public developer 
 
 The host of this call is [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997.  Q&A takes place as always in chat throughout the call.
 
-{{< image alt="thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 27th of January, 2022 " src="images/220127-together-mode.gif" >}}
-
-Thank you for joining the call today and/or for viewing the recording.  Awesome to see many of you on the screen.
 
 ## Actions
 
@@ -76,9 +73,9 @@ Thank you for joining the call today and/or for viewing the recording.  Awesome
 ## Demos
 
 *   **CRUD Operations in Viva Connections – Adaptive Card Extensions with SharePoint Framework** – Creating, Reading, Updating, and Deleting data through an ACE that handles (reformats as necessary) data formatting (strings, arrays, time) from all field types in a SharePoint list.  On CardView, there are buttons for “view items” in list and “add item” to list.  From a QuickView card, call separate Display, Edit, New cards.  Appreciate code for navigating between cards and for data reformatting.  
-    
+
 *   **Viva Connections – Data Binding in SPFx Adaptive Card Extensions –** the fundamentals – data is stored in properties and state, CardView renders a limited set of information, and QuickView renders as much data as you like (many formatting options including conditional and JSON parsing).  Step through various samples showing the many functions, keywords, properties in the Adaptive Card syntax used for dynamically formatting and rendering data.  Last sample shows rendering user data from Graph into a QuickView card. 
-    
+
 *   **SPFx Design Guidance – Property pane input validation and error messages –** custom properties (part 4).  Help users give you the right information for best and most secure user experience.  Best error messages are non-dramatic and helpful.  Validate inputs using _onGetErrorMessage_ attribute.  Avoid throttling issue by not validating user’s every key stroke, give user time to type using _deferredValidationTime_ attribute, then validate.  Validation often requires checking on the existence of list or data before validation can occur.
 
 ## SPFx extension samples
@@ -119,11 +116,11 @@ Thank you for your great work.  Samples are often showcased in Demos.    
 ## Demos
 
 *   **Demo 1**:  CRUD Operations in Viva Connections – Adaptive Card Extensions with SharePoint Framework – [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | [@Spdcp](/t5/user/viewprofilepage/user-id/386549) – [13:46](https://youtu.be/WkFVkFKPDMc?t=826) 
-    
+
 *   **Demo 2**:  Viva Connections – Data Binding in SPFx Adaptive Card Extensions – [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia – [21:37](https://youtu.be/WkFVkFKPDMc?t=1297)
-    
+
 *   **Demo 3**:  SPFx Design Guidance – Property pane input validation and error messages – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh – [41:39](https://youtu.be/WkFVkFKPDMc?t=2499) 
-    
+
 
 ## Resources
 
@@ -133,9 +130,9 @@ Additional resources around the covered topics and links from the slides.
 *   **D1**:  Samples - [ace-cardgallery](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ace-cardgallery) 
 *   **D2**:  Documentation/Tools - [A whole new way to deliver UI](https://adaptivecards.io/) 
 *   **D2**:  Documentation - [Adaptive Cards Template Language](https://docs.microsoft.com/adaptive-cards/templating/language) 
-    
+
 *   **D2**:  Samples - [Conferences-Samples](https://github.com/PiaSys/Conferences-Samples/tree/master/ACEs) 
-    
+
 *   **D3**:  Documentation - [Validate web part property values](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/validate-web-part-property-values) 
 *   **D3**:  Documentation - [Make your SharePoint client-side web part configurable](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/basics/integrate-with-property-pane) 
 *   **D3**:  Documentation - [Integrate web part properties with SharePoint](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/integrate-web-part-properties-with-sharepoint) 
@@ -145,9 +142,9 @@ Additional resources around the covered topics and links from the slides.
     *   [SPFx Design Patterns – Custom Properties (Part 1)](https://youtu.be/8QrZOw4UmL0) – 4 November
     *   [SPFx Design Patterns – Property Panes](https://youtu.be/L1b812A-U-E) \- 21 October
 *   **PnP Weekly – Episode 150** (January 24th) with London, UK-based SharePoint developer architect and MVP, [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-150-%E2%80%93-24th-of-january-2022/)
-    
+
     **PnP Weekly – Episode 149** (January 17th) with Brisbane, Queensland, Australia-based Cloud Developer Advocate for Microsoft Teams and Graph, [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-149-rabia-williams-microsoft/ba-p/3063869) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-149-%E2%80%93-17th-of-january-2022/)
-    
+
 
 ## General Resources
 
@@ -155,21 +152,21 @@ Additional resources around the covered topics and links from the slides.
 *   Archives - Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
 *   Tools - [Teams Toolkit (v2.2 Preview)](https://aka.ms/teams-toolkit) 
 *   Tools - [Microsoft Teams Framework (TeamsFx)](https://github.com/officedev/teamsfx) 
-    
+
 *   Gallery - [Microsoft 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)   
 *   [Microsoft Build sessions guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital Brochure) - aka.ms/modernworkbuildsessions
 *   SharePoint Framework - v1.12.1 npm install –g @microsoft/generator-sharepoint@next
-*   [CLI for Microsoft 365 v3](https://developer.microsoft.com/en-us/office/blogs/cli-microsoft-365-3/)
+*   [CLI for Microsoft 365 v3](https://developer.microsoft.com/office/blogs/cli-microsoft-365-3/)
 *   [CodeTour](https://aka.ms/codetour)
 *   [Sharing is Caring](https://aka.ms/sharing-is-caring) | aka.ms/sharing-is-caring
-*   [Tools -](http://aka.ms/pnp-search) [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)  [|](http://aka.ms/pnp-search) [https://aka.ms/pnp-search](https://aka.ms/pnp-search)
+*   [Tools -](https://aka.ms/pnp-search) [PnP Modern Search v4](https://microsoft-search.github.io/pnp-modern-search/)  [|](https://aka.ms/pnp-search) [https://aka.ms/pnp-search](https://aka.ms/pnp-search)
 *   [M365 PnP site](https://aka.ms/m365pnp) | aka.ms/m365pnp
 *   [SharePoint Starter Kit v2](https://github.com/pnp/sp-starter-kit/tree/v2)
 *   Blog: "[A Lap Around Microsoft Graph Toolkit" blog series](https://aka.ms/mgtLap)
-*   [New Microsoft 365 Patterns and Practices (PnP) team model with new community leads](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
-*   [Microsoft 365 Community Content](http://aka.ms/m365-community-docs) (non-Dev docs)
-*   [PnP SPFx web part samples](http://aka.ms/spfx-webparts)
-*   [PnP SPFx extension samples](http://aka.ms/spfx-extensions)
+*   [New Microsoft 365 Patterns and Practices (PnP) team model with new community leads](https://developer.microsoft.com/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/)
+*   [Microsoft 365 Community Content](https://aka.ms/m365-community-docs) (non-Dev docs)
+*   [PnP SPFx web part samples](https://aka.ms/spfx-webparts)
+*   [PnP SPFx extension samples](https://aka.ms/spfx-extensions)
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
@@ -177,22 +174,22 @@ Additional resources around the covered topics and links from the slides.
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
-*   [SPFx Library Components](http://aka.ms/spfx-library-components)
+*   [SPFx Library Components](https://aka.ms/spfx-library-components)
 *   Documentation - [PnPjs v2 documentation](https://pnp.github.io/pnpjs/)
 *   Link - [Microsoft 365 developer training](https://aka.ms/M365DevTraining)
 *   Link - [Office 365 Developer Program](https://aka.ms/O365DevProgram)
-*   [Latest documentation on SharePoint Framework](http://aka.ms/spdev-docs)
-*   Found an issue with SharePoint Dev? - please let us know at [http://aka.ms/spdev-issues](http://aka.ms/spdev-issues)
+*   [Latest documentation on SharePoint Framework](https://aka.ms/spdev-docs)
+*   Found an issue with SharePoint Dev? - please let us know at [https://aka.ms/spdev-issues](https://aka.ms/spdev-issues)
 *   [Reusable web part property controls](https://sharepoint.github.io/sp-dev-fx-property-controls/)
 *   [Reusable react controls for SharePoint Framework solutions](https://sharepoint.github.io/sp-dev-fx-controls-react/)
 *   [Reusable controls webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
-*   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
+*   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365)
 *   [PnP SPFx Yeoman Generator](https://github.com/pnp/generator-spfx) \- Extends the out-of-the-box experience with open-source community capabilities
-*   [SharePoint Dev UserVoice](http://aka.ms/spdev-uservoice) \- for new feature requests
+*   [SharePoint Dev UserVoice](https://aka.ms/spdev-uservoice) \- for new feature requests
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/en-us/sharepoint/dev/)
+*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites
@@ -209,7 +206,7 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 
 *   SharePoint Framework engineering update from Microsoft
 *   Talk about PnP JavaScript Core libraries
-*   Office 365 CLI Updates
+*   CLI for Microsoft 365 Updates
 *   SPFx reusable controls
 *   PnP SPFx Yeoman generator
 *   Share code samples and best practices
@@ -226,4 +223,3 @@ _“Sharing is caring”_
 * * *
 
 _Microsoft 365 PnP team, Microsoft - 28th of January 2022_
-

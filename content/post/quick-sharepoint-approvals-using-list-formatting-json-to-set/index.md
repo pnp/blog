@@ -6,7 +6,7 @@ githubname: michelcarlo
 categories: ["Community post"]
 images:
 - images/choices.PNG
-tags: []
+tags: ["SharePoint","List formatting"]
 type: "regular"
 ---
 
@@ -29,7 +29,7 @@ useful for approvals scenarios. For example, we can update the item
 status and who approved the item with a single click, so as in the
 example below:
 
-{{< image alt="quick app 2.gif" src="images/quick app 2.gif" >}}
+![quick app 2.gif](images/quick app 2.gif)
 
 **The structure behind the example**
 
@@ -41,7 +41,7 @@ Three list columns are needed:
     The standard configurable formatting for the Choice column can do
     the trick as below:
 
-{{< image alt="choices.PNG" src="images/choices.PNG" >}}
+![choices.PNG](images/choices.png)
 
 -   A **user** field to register who approved or rejected the item
     (Suggested name **'Approval Action By'**)

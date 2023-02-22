@@ -13,7 +13,7 @@ type: "regular"
 
 
 
-Microsoft 365 Platform Community Call - weekly community call recording from April 12th, is now available from the Microsoft 365 Community YouTube channel at [http://aka.ms/m365pnp/videos](https://aka.ms/m365pnp-videos).
+Microsoft 365 Platform Community Call - weekly community call recording from April 12th, is now available from the Microsoft 365 Community YouTube channel at [https://aka.ms/m365pnp/videos](https://aka.ms/m365pnp-videos).
 
 {{< youtube 6Zcba6w7TBs >}}
 
@@ -67,9 +67,6 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 * Download the recurrent invite for this call – [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call%C2%A0)
 * Call attention to your great work by using the [#PnPWeekly](https://twitter.com/hashtag/PnPWeekly?src=hashtag_click) on Twitter.
 
-![220412-together-mode.gif](images/220412-together-mode.gif)
-
-Awesome to see all of the faces of this community.   Please keep the feedback coming.
 
 ## Demo summaries
 
@@ -87,7 +84,7 @@ Thank you for your creativity and work execution.   Samples are often showcased 
 
 * Building in meeting document signing app for Microsoft Teams – SaiBhavya Reddy (Microsoft) and Eoin O&#39;Brien (Microsoft) – [15:14](https://youtu.be/6Zcba6w7TBs?t=914)
     * Sample - [In-Meeting Document Signing](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/meetings-share-to-stage-signing/csharp)
-    * Documentation - [Share app content to stage API](https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/api-references?tabs=dotnet#share-app-content-to-stage-api)
+    * Documentation - [Share app content to stage API](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/api-references?tabs=dotnet#share-app-content-to-stage-api)
     * Documentation - [Share entire app to stage](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/enable-and-configure-your-app-for-teams-meetings#share-entire-app-to-stage)
     * Documentation - [Share specific parts of the app to stage](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/enable-and-configure-your-app-for-teams-meetings#share-specific-parts-of-the-app-to-stage)
     * Documentation – [People Picker in Adaptive Cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/people-picker)
@@ -115,7 +112,7 @@ Additional resources around the covered topics and links from the slides.
 * Viva Connections [https://aka.ms/VivaConnections](https://aka.ms/VivaConnections)
 * [SharePoint look book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
 * [Yo Teams video training package](https://aka.ms/yoteams-training)
-* [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/en-us/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
+* [.NET Standard 2.0 version of SharePoint Online CSOM API](https://developer.microsoft.com/microsoft-365/blogs/net-standard-version-of-sharepoint-online-csom-apis?WT.mc_id=m365-24198-cxa)
 * [Microsoft 365 community (PnP) videos](https://aka.ms/m365pnp-videos) | aka.ms/m365pnp-videos
 * [Microsoft Teams Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 * [yo Teams](https://aka.ms/yoteams) | aka.ms/yoteams
@@ -128,11 +125,11 @@ Additional resources around the covered topics and links from the slides.
 * [Page transformation guidance](https://aka.ms/sppnp-pagetransformation)
 * [Page transformation videos](https://aka.ms/sppnp-pagetransformationvideos)
 * [Modernization scanner](https://aka.ms/sppnp-modernizationscanner)
-* [Microsoft 365 developer program site](https://developer.microsoft.com/en-us/office/dev-program?WT.mc_id=m365-24198-cxa) - Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
+* [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) - Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
 * [SharePoint Provisioning Service ](https://provisioning.sharepointpnp.com/)- Easily provision look book designs to any tenant in the world
 * [SharePoint Provisioning templates on Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
-* [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
-* [SharePoint Page Transformation webcast series](https://developer.microsoft.com/en-us/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
+* [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+* [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 * [PnP Power Shell](https://aka.ms/sppnp-powershell)
 * [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)
 
@@ -146,7 +143,7 @@ Additional resources around the covered topics and links from the slides.
 * Viva Connections &amp; SharePoint Framework call | Thursday, April 21, 7:00 am PT - [https://aka.ms/spdev-spfx-call](https://aka.ms/spdev-spfx-call) (bi-weekly)
 * Microsoft Identity Platform call | Thursday, April 21, 9:00 am PT - [https://aka.ms/IDDevCommunityCalendar](https://aka.ms/IDDevCommunityCalendar) (monthly)
 
-Microsoft 365 Platform community call focuses on latest Microsoft 365 Platform updates and demos delivered by Microsoft presenters and takes place weekly on Tuesday.  The alternating Special Interest Group community calls each Thursday focus on SharePoint Framework (client-side development/implementation) and Microsoft 365 Platform (includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Microsoft Flow, PowerApps, Column Formatting, list formatting, etc. topics.) with demos commonly delivered by community members.   More details on the Microsoft 365 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
+Microsoft 365 Platform community call focuses on latest Microsoft 365 Platform updates and demos delivered by Microsoft presenters and takes place weekly on Tuesday.  The alternating Special Interest Group community calls each Thursday focus on SharePoint Framework (client-side development/implementation) and Microsoft 365 Platform (includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Power Automate, PowerApps, Column Formatting, list formatting, etc. topics.) with demos commonly delivered by community members.   More details on the Microsoft 365 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 
 You can download recurrent invite for this call from [https://aka.ms/m365-dev-call](https://aka.ms/m365-dev-call).  Welcome and join in the discussion. If you have any questions, comments, or feedback, feel free to provide your input as comments to this post as well. More details on the Microsoft 365 community and options to get involved are available from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 

@@ -80,16 +80,6 @@ Samples:**<https://aka.ms/teams-samples>
 -   Your community is looking for Samples!  Please share your good
     work  
 
- 
-
-{{< image alt="210615-together-mode.gif" src="images/210615-together-mode.gif" >}}
-
- 
-
-**Always a highlight to see you here.   Looking forward to seeing you in
-person at an event one day.**
-
- 
 
 
 ## Demos
@@ -190,7 +180,7 @@ slides.
     Manager](https://github.com/pnp/teams-dev-samples/tree/main/samples/msgext-bot-SPUploader) 
 
 -   Dev Tools - [Microsoft Teams Toolkit for Visual Studio
-    Code](http://aka.ms/teams-toolkit) 
+    Code](https://aka.ms/teams-toolkit) 
 
 -   PnP Weekly -- Episode 131 with guest Senior Program Manager Zhenya
     Savchenko (Microsoft) from the Developer Division of Visual Studio
@@ -228,12 +218,12 @@ slides.
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 -   [Microsoft Teams app
     templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
--   [Yo Teams video training package](http://aka.ms/yoteams-training)
+-   [Yo Teams video training package](https://aka.ms/yoteams-training)
 -   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) |
     aka.ms/m365devyoutube
 -   [Microsoft 365 community (PnP)
-    videos](http://aka.ms/m365pnp-videos) | aka.ms/m365pnp/videos
--   [yo Teams](http://aka.ms/yoteams) | aka.ms/yoteams
+    videos](https://aka.ms/m365pnp-videos) | aka.ms/m365pnp/videos
+-   [yo Teams](https://aka.ms/yoteams) | aka.ms/yoteams
 -   Video - [Getting started using yo
     Teams](https://youtu.be/w0OrFkzNC10) | [Wictor
     Wilén](https://twitter.com/wictor) (Avanade)| @wictor
@@ -263,7 +253,7 @@ Microsoft Teams monthly community calls are targeted at anyone who's
 interested in Microsoft Teams development topics. This includes
 Microsoft Teams, Bots, App templates, Samples, and more.  Details on the
 Microsoft 365 community
-from [http://aka.ms/m365pnp](http://aka.ms/sppnp). We also welcome
+from [https://aka.ms/m365pnp](https://aka.ms/sppnp). We also welcome
 community demos, if you are interested in doing a live demo in these
 calls!
 
@@ -274,7 +264,7 @@ from <https://aka.ms/microsoftteamscommunitycall>. Welcome and join in
 the discussion. If you have any questions, comments, or feedback, feel
 free to provide your input as comments to this post as well. More
 details on the Microsoft 365 community and options to get involved are
-available from [http://aka.ms/m365pnp](http://aka.ms/sppnp).
+available from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 
  
 

@@ -6,7 +6,7 @@ githubname: LeeFord
 categories: []
 images:
 - images/Teams.png
-tags: []
+tags: ["Microsoft Teams", "Power Automate"]
 type: "regular"
 ---
 
@@ -27,7 +27,7 @@ Graph](https://docs.microsoft.com/en-gb/graph/todo-concept-overview), it
 is now possible to integrate with your To Do tasks outside of To Do.
 
 
-{{< image alt="Teams.png" src="images/Teams.png" >}}
+![Teams.png](images/Teams.png)
 
 
 ## A Helpful Reminder
@@ -37,7 +37,7 @@ awesome to have these surface outside of the To Do app too? Before we
 start, make sure you have some pending tasks on your **Tasks** list in
 To Do!
 
-{{< image alt="ToDo.png" src="images/ToDo.png" >}}
+![ToDo.png](images/ToDo.png)
 
 In this article, we will go over how we can have Power Automate send
 your outstanding tasks daily into Microsoft Teams. To achieve this, we
@@ -69,7 +69,7 @@ queries** run the **my To Do task lists** query. This should run the
 query of *<https://graph.microsoft.com/v1.0/me/todo/lists>* and return
 your task lists.
 
-{{< image alt="GraphExplorer.png" src="images/GraphExplorer.png" >}}
+![GraphExplorer.png](images/GraphExplorer.png)
 
 You will notice inside the response there is a task list with an *id*.
 Using the *id*, change the address of the query to
@@ -84,7 +84,7 @@ Based on my response above, my query would be
 *[https://graph.microsoft.com/v1.0/me/todo/lists/AQMkAGYxYjhlNDIxLTRlN2YtNGMwNi1hYzg2LTJmMzVkMDYxYzQ1N\...](https://graph.microsoft.com/v1.0/me/todo/lists/AQMkAGYxYjhlNDIxLTRlN2YtNGMwNi1hYzg2LTJmMzVkMDYxYzQ1NQAALgAAA_Q4rkw0lJdNrFQfLSNpWB8BAA_o0Quzv4FCs60F7sB5NAAAAwESAAAA/tasks)*
 
 
-{{< image alt="GraphExplorer2.png" src="images/GraphExplorer2.png" >}}
+![GraphExplorer2.png](images/GraphExplorer2.png)
 
  
 > Ensure you set the request type to *GET* and the version to *v1.0*
@@ -105,7 +105,7 @@ First, go to **Azure Active Directory** in the [Azure
 Portal](https://portal.azure.com). Under **App registrations** select
 **New registration** from the top menu.
 
-{{< image alt="AADApp.png" src="images/AADApp.png" >}}
+![AADApp.png](images/AADApp.png)
 
 
 Give the app an arbitrary **Name** e.g. *To Do_PowerAutomate*, leave
@@ -113,26 +113,26 @@ Give the app an arbitrary **Name** e.g. *To Do_PowerAutomate*, leave
 values. Select **Register** to create the app.
 
 
-{{< image alt="AADApp2.png" src="images/AADApp2.png" >}}
+![AADApp2.png](images/AADApp2.png)
 
 With the app created, take note of the **Application (client) ID** as
 this will be needed later.
 
-{{< image alt="AADApp3.png" src="images/AADApp3.png" >}}
+![AADApp3.png](images/AADApp3.png)
 
 **Create a secret**
 Next, we need to create a secret under **Certificates and secrets** on
 the left-hand menu. To create a secret, select **New client secret** and
 give the secret a **Description** and when it **Expires**.
 
-{{< image alt="AADApp4.png" src="images/AADApp4.png" >}}
-{{< image alt="AADApp5.png" src="images/AADApp5.png" >}}
+![AADApp4.png](images/AADApp4.png)
+![AADApp5.png](images/AADApp5.png)
 
 Before the next step, take a copy of the **Value** of the secret and
 store it securely somewhere. This has to be copied now as once we move
 away the secret value will be hidden.
 
-{{< image alt="AADApp6.png" src="images/AADApp6.png" >}}
+![AADApp6.png](images/AADApp6.png)
 
 **Assign Microsoft Graph permissions**
 Finally, we need to assign Microsoft Graph To Do permissions to our app.
@@ -142,20 +142,20 @@ Microsoft Graph Explorer earlier.
 Under **API permissions** on the left-hand menu, select **Add a
 permission**.
 
-{{< image alt="AADApp7.png" src="images/AADApp7.png" >}}
+![AADApp7.png](images/AADApp7.png)
 
 Select **Microsoft Graph** as the **Microsoft API** and **Delegated
 permissions**. Search for *Tasks* and choose the *Tasks.Read* permission
 and select **Add permissions**.
 
-{{< image alt="AADApp8.png" src="images/AADApp8.png" >}}
+![AADApp8.png](images/AADApp8.png)
 
 You should now see *Tasks.Read* under **Configured permissions**.
 
 > Tasks.Read is one of many different API permissions in Graph.
 > Helpfully, there is a full breakdown of the different [Microsoft Graph
 > Permissions](https://docs.microsoft.com/graph/permissions-reference)
-{{< image alt="AADApp9.png" src="images/AADApp9.png" >}}
+![AADApp9.png](images/AADApp9.png)
 That is all we need to do here for now, but there is one final step to
 be done, later on, so leave the page open in your browser.
 
@@ -169,18 +169,18 @@ To create a Custom Connector, go to **Data \> Custom connectors** on the
 left-hand menu in Power Automate. Here, select **New custom connector**
 and **Create from blank**
 
-**{{< image alt="PA.png" src="images/PA.png" >}}
+**![PA.png](images/PA.png)
 
 Give your connector an arbitrary **Connector name** e.g. *To
 Do_Connector* and choose **Continue**
 
-**{{< image alt="PA2.png" src="images/PA2.png" >}}
+**![PA2.png](images/PA2.png)
 
 For the first step, we need to specify the **Host** as
 *graph.microsoft.com* and select **Security** to move on to the next
 step.
 
-{{< image alt="PA3.png" src="images/PA3.png" >}}
+![PA3.png](images/PA3.png)
 
 For security, set as follows:
 
@@ -195,7 +195,7 @@ For security, set as follows:
 -   Everything else can be left as it is
 Select **Definition** to move on to the next step.
 
-{{< image alt="PA4.png" src="images/PA4.png" >}}mage-alt="PA4.png" style="width: 888px;"}
+![PA4.png](images/PA4.png)mage-alt="PA4.png" style="width: 888px;"}
 
 We now need to create an **Action**. An **Action** is an operation that
 our connector will perform when asked. In our case, our connector will
@@ -211,7 +211,7 @@ Select **New action** and provide the action with the following:
     *GetToDoTasks*
 -   **Visibility**: *Important*
 
-{{< image alt="PA5.png" src="images/PA5.png" >}}
+![PA5.png](images/PA5.png)
 
 Under the **Request** section, we need to provide it with sample data so
 the action understands what the data from Microsoft Graph will look
@@ -225,19 +225,19 @@ like. Choose **Import from sample** and provide the following:
 -   **Headers**: Leave blank
 Select **Import**
 
-**{{< image alt="PA6.png" src="images/PA6.png" >}}
+**![PA6.png](images/PA6.png)
 
 Finally, select **Create connector** at the top right. Once saved, go to
 the **Security** section and copy the **Redirect URI**
 
-**{{< image alt="PA7.png" src="images/PA7.png" >}}
+**![PA7.png](images/PA7.png)
 
 If we now briefly head back to the Azure AD App with the **Redirect
 URI**. Under **Authentication**, select **Add a platform** and paste the
 **Redirect URI** you copied into the **Redirect URIs** text box. Select
 **Configure** to add it.
 
-{{< image alt="AADApp10.png" src="images/AADApp10.png" >}}
+![AADApp10.png](images/AADApp10.png)
 
 **Create Power Automate Flow**
 Now we are going to tie everything together with a Power Automate Flow.
@@ -249,7 +249,7 @@ To do this, head back the [Power Automate](https://flow.microsoft.com)
 and select **Create** from the left-hand menu and choose **Scheduled
 cloud flow**.
 
-{{< image alt="PA8.png" src="images/PA8.png" >}}
+![PA8.png](images/PA8.png)
 
 > By sheduling this flow trigger type, it can be scheduled to run as
 > frequently as you like.
@@ -258,7 +258,7 @@ cloud flow**.
 Give your flow a **Name** and set a **Repeat every** of *1 Day*. Once
 done, select **Create**
 
-**{{< image alt="PA9.png" src="images/PA9.png" >}}
+**![PA9.png](images/PA9.png)
 As this is a Flow, the logic will behave as a flow chart would. Under
 the **Recurrance** trigger, we need to add some additional steps to the
 Flow.
@@ -267,37 +267,37 @@ To start, select **New step** and here we need to find the action we
 created. The quickest way is to change the type to **Custom** and then
 select it under **Actions**.
 
-{{< image alt="PA10.png" src="images/PA10.png" >}}
+![PA10.png](images/PA10.png)
 
 Next, you need to sign in to your account to get your tasks.
 
 > As mentioned earlier, this can be used in multiple flows, allowing a
 > whole team to use the connector to get their own tasks
 > 
-{{< image alt="PA11.png" src="images/PA11.png" >}}
+![PA11.png](images/PA11.png)
 
 During the sign-in process, you will need to consent the app to read
 your task lists.
 
-{{< image alt="PA12.png" src="images/PA12.png" >}}
+![PA12.png](images/PA12.png)
 
 Before we go any further, select **Save** at the top of the page and
 then go back to **My flows**. Hover over the Flow you created and choose
 **Run**.
 
-{{< image alt="PA13.png" src="images/PA13.png" >}}
+![PA13.png](images/PA13.png)
 
 Hopefully, it was successful and you can see the result in the **Flow
 Runs Page**.
 
-{{< image alt="PA14.png" src="images/PA14.png" >}}
+![PA14.png](images/PA14.png)
 
 Looking at the **body** of the **Output** there is some data (which is
 the same as what was shown in Graph Explorer earlier). Copy the **body**
 output and then select **Edit** at the top of the page to finish off the
 last bits of the Flow.
 
-{{< image alt="PA15.png" src="images/PA15.png" >}}
+![PA15.png](images/PA15.png)
 
 The body output is great in JSON format, but we need to be able to split
 it down into smaller chunks (tasks). To do this, we need to be able to
@@ -305,18 +305,18 @@ parse (read) the JSON output. Add a **Parse JSON** step and set the
 **Content** as *Body*. To create a **Schema** choose **Generate from
 sample**.
 
-{{< image alt="PA16.png" src="images/PA16.png" >}}
+![PA16.png](images/PA16.png)
 
 Paste in the body output from earlier and select **Done**.
 
-{{< image alt="PA17.png" src="images/PA17.png" >}}
+![PA17.png](images/PA17.png)
 
 The next step we need to add is **Initialize variable**. We need to
 create an Array. An array is a collection of values or objects. In our
 case, ours is a collection of tasks. Give the variable the name of
 *Tasks* and set the type to *Array*.
 
-{{< image alt="PA18.png" src="images/PA18.png" >}}
+![PA18.png](images/PA18.png)
 
 After creating the *Tasks* array, we need to populate it with the tasks.
 This is achieved by adding an **Apply to each** step. A **Apply to
@@ -327,20 +327,20 @@ each task.
 Start by adding an **Apply to each** loop and selecting *value* output
 from **Parse JSON**
 
-{{< image alt="PA19.png" src="images/PA19.png" >}}
+![PA19.png](images/PA19.png)
 
 Next, within the **Apply to each** step, **Add an action** and choose
 **Compose**. This will take a specific value from the task. Under
 inputs, choose *title* under **Parse JSON**.
 
-{{< image alt="PA20.png" src="images/PA20.png" >}}
+![PA20.png](images/PA20.png)
 
 The next step we need to add in the loop is an **Append to array
 variable**. We will use this to add the task *title* to the *Tasks*
 array we created earlier. Set the **Value** to the *Outputs* of
 **Compose**.
 
-{{< image alt="PA21.png" src="images/PA21.png" >}}
+![PA21.png](images/PA21.png)
 
 Now we should have a list of tasks ready to use. The next step is to
 send these to us in Teams. To do this, we need to add **Post a choice of
@@ -350,7 +350,7 @@ options as the Flow bot to a user**, making sure this is added after the
 Before entering any details, change the options type to an array by
 clicking the *T* icon.
 
-{{< image alt="PA22.png" src="images/PA22.png" >}}
+![PA22.png](images/PA22.png)
 
 Now, add the following:
 
@@ -362,18 +362,18 @@ Now, add the following:
 -   **IsAlert**: *Yes* - This makes it so you are notified of the
     message in Teams
 
-{{< image alt="PA23.png" src="images/PA23.png" >}}
+![PA23.png](images/PA23.png)
 
 If you were to run the Flow now, you will see the list of tasks appear
 in Teams. However, choosing any of the tasks doesn't do anything.
 
-{{< image alt="Teams.png" src="images/Teams.png" >}}
+![Teams.png](images/Teams.png)
 
 Back in the Flow, we need to fix it so when an option (task) is chosen,
 we do something with it. Add another **Apply to each** and like the
 previous loop, select *value* output from **Parse JSON**.
 
-{{< image alt="PA24.png" src="images/PA24.png" >}}
+![PA24.png](images/PA24.png)
              
              
 Within this **Apply to each** step, **Add an action** and choose
@@ -383,7 +383,7 @@ looking for the one that matches what the user selected in Teams. To do
 this set the first value as *selectedOption* under **Post a choice\...**
 and the second value is *title* under **Parse JSON**.
 
-{{< image alt="PA25.png" src="images/PA25.png" >}}
+![PA25.png](images/PA25.png)
   
 We now need to act upon when the condition is met (the task equals the
 chosen option in Teams). Under **If yes**, add **Post message as the
@@ -396,18 +396,18 @@ Flow bot to a user**. Complete it as follows:
 -   **IsAlert**: *Yes* - This makes it so you are notified of the
     message in Teams
 
-{{< image alt="PA26.png" src="images/PA26.png" >}}
+![PA26.png](images/PA26.png)
 
 Leave **If no** blank.
 
 **Finishing up**
 If you now run the Flow it should send you a message with your tasks.
 
-{{< image alt="Teams2.png" src="images/Teams2.png" >}}
+![Teams2.png](images/Teams2.png)
 
 Choosing a task will then return details on that task.
 
-{{< image alt="Teams3.png" src="images/Teams3.png" >}}
+![Teams3.png](images/Teams3.png)
 
 Congratulations, you have now managed to create an Azure AD application,
 talk to Microsoft Graph, pass that into Power Automate and on to Teams!\

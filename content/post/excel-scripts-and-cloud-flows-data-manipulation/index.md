@@ -6,7 +6,7 @@ githubname: DamoBird365
 categories: ["Community post"]
 images:
 - images/Capture.PNG
-tags: []
+tags: ["Power Automate"]
 type: "regular"
 ---
  
@@ -44,7 +44,7 @@ Scripts is that the Script Action is dynamic.  It will return the fields
 you have defined in the action window and ensure the datatype provided
 is correct, i.e. string or number.
  
-{{< image alt="DamoBird365_0-1621076762535.png" src="images/DamoBird365_0-1621076762535.png" >}}
+![DamoBird365_0-1621076762535.png](images/DamoBird365_0-1621076762535.png)
  
 
 In the sample Typescript Excel Script built below, you can try this for
@@ -129,7 +129,7 @@ used a select action to reformat the Array and rename the keys.  Both
 the Select Action and the List Rows Action demonstrate the two methods
 for retrieving data from Excel where no table was present previously.
  
-{{< image alt="DamoBird365_1-1621076794170.png" src="images/DamoBird365_1-1621076794170.png" >}}
+![DamoBird365_1-1621076794170.png](images/DamoBird365_1-1621076794170.png)
  
 Again, in the sample Typescript Excel Script built below, you can
 quickly test out the functionality of creating a table and returning
@@ -174,14 +174,14 @@ can view all scripts, record some actions and edit new or existing
 scripts that have been built.
  
 
-{{< image alt="DamoBird365_0-1621236507649.png" src="images/DamoBird365_0-1621236507649.png" >}}
+![DamoBird365_0-1621236507649.png](images/DamoBird365_0-1621236507649.png)
 
  
 **Wondering where they live?**  Jump onto OneDrive and take a look at
 Documents/Office Scripts where you can export/import and share.
  
 
-{{< image alt="DamoBird365_1-1621236596024.png" src="images/DamoBird365_1-1621236596024.png" >}}
+![DamoBird365_1-1621236596024.png](images/DamoBird365_1-1621236596024.png)
 
  
 Want to see a proof of concept ?  Take a look at my [Invoicing Demo](https://damobird365.birdhoose.co.uk/2021/03/24/power-automate-office-scripts-populate-an-excel-template-dynamically-using-type-script/)

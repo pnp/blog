@@ -16,7 +16,7 @@ Microsoft Graph Toolkit.
 
  
 
-{{< image alt="TitleSlidewithPhotos.png" src="images/TitleSlidewithPhotos.png" >}}
+![TitleSlidewithPhotos.png](images/TitleSlidewithPhotos.png)
 
  
 
@@ -125,13 +125,13 @@ at <https://aka.ms/GraphTAPForm>.  
 -   Graph TAP Program -
     [**https://aka.ms/GraphTAPForm**](https://aka.ms/GraphTAPForm)** **
 -   Microsoft 365 Developer Podcast <http://www.m365devpodcast.com/>
--   Microsoft Graph Mailbag - <http://aka.ms/MSGraphMailbag>
+-   Microsoft Graph Mailbag - <https://aka.ms/MSGraphMailbag>
 -   Microsoft Q & A -- Graph - <https://aka.ms/askgraph/>
 
 ## Stay connected
 
 -   See the full blog post for this call at -
-    <http://aka.ms/m365pnp-blog>
+    <https://aka.ms/m365pnp-blog>
 -   Twitter -
     [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​
 -   YouTube - <https://aka.ms/M365DevYouTube>​

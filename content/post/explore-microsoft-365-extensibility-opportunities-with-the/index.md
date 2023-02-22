@@ -6,7 +6,7 @@ githubname: WaldekMastykarz
 categories: ["Community post"]
 images:
 - images/thumbnail_image.png
-tags: []
+tags: ["SharePoint"]
 type: "regular"
 ---
  
