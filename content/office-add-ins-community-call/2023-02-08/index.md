@@ -65,7 +65,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 **Are there any plans to allow for add-ins to have limited functionality offline modes?**
 
-For a sample that shows some techniques for working offline, see [Excel.OfficlenStoreAddin](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/Excel.OfflineStorageAddin) in our samples GitHub repo. However, it would be good to know what additional features you may need for your scenario. Please let us know more at https://aka.ms/m365dev-suggestions.
+For a sample that shows some techniques for working offline, see [Techniques to access data from an Office Add-in when offline](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/Excel.OfflineStorageAddin) in our samples GitHub repo. However, it would be good to know what additional features you may need for your scenario. Please let us know more at https://aka.ms/m365dev-suggestions.
 
 **Where can we find a roadmap regarding the future of Office Add-Ins using Office.JS?**
 
