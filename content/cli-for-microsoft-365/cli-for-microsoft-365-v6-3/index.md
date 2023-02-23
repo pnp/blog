@@ -24,7 +24,7 @@ While building solutions for Microsoft 365 expands beyond the Windows operating 
 
 ## New version of CLI for Microsoft 365 – v6.3
 
-Following our monthly release cadence, we've released a new version of the CLI for Microsoft 365 with some new capabilities. The month of February was no exception. We had a ton of improvements and new commands. Here are a few of the most noteworthy additions.
+Following our monthly release cadence, we've released a new version of the CLI for Microsoft 365 with some new capabilities. February was no exception. We had a ton of improvements and no fewer than 29 new commands. Here are a few of the most noteworthy additions.
 
 > For the complete list of what's new and changed, see the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v630).
 
@@ -61,7 +61,7 @@ Here's a list of all new Azure AD commands for this release:
 
 ## Added new Planner Commands
 
-In this release another series of Microsoft Planner commands where introduced. With these commands you can manage Planner Roster, which is a new type of container that can be used to manage access to planner plans.
+In this release, another series of Microsoft Planner commands are introduced. With these commands you can manage Planner Roster. Rosters are a new type of container that you can use to manage access to planner plans without the need for a Microsoft 365 group.
 
 To create a new Microsoft Planner Roster, run: 
 
@@ -93,7 +93,7 @@ Here's a list of all new Planner commands for this release:
 
 ## Added new Compliance Commands
 
-The last few releases introduced a lot of functionality around Microsoft 365 Purview retention labels. This release expands on that by adding new commands around event-based retention labels. Aside from data retention, a new command was introduced for accessing the audit log.
+The last few releases we introduced a lot of new commands around managing and applying Microsoft 365 Purview retention labels. This release we're expanding on that. We've introduced new commands for managing event-based retention labels and for accessing the audit log within your tenant.
 
 To list all SharePoint audit logs for the past 24 hours, run:
 
@@ -133,7 +133,7 @@ Here's a list of all new Compliance commands for this release:
 
 ## Added new SharePoint commands
 
-SharePoint has always been a part of Microsoft 365 that's covered by the most commands in the CLI for Microsoft 365. In this release more commands where introduced that make managing SharePoint easier. The main subjects Application Customizers, Sharing Links and Navigation:
+The CLI for Microsoft 365 has a lot of commands for managing and accessing SharePoint. In this release, more commands were introduced that make managing SharePoint easier. The main subjects are Application Customizers, Sharing Links and Navigation:
 
 To add an application customizer to a SharePoint site, run:
 
@@ -144,13 +144,13 @@ m365 spo applicationcustomizer add --title 'Some customizer' --clientSideCompone
 To remove all sharing links from a file, run:
 
 ```sh
-m365 spo file sharinglink clear --webUrl https://contoso.sharepoint.com/sites/demo --fileId daebb04b-a773-4baa-b1d1-3625418e3234
+m365 spo file sharinglink clear --webUrl https://contoso.sharepoint.com/sites/demo --fileUrl '/sites/demo/Shared Documents/document.docx'
 ```
 
-To update the title of a navigation node, run:
+To update the title and intended audience of a navigation node, run:
 
 ```sh
-m365 spo navigation node set --webUrl https://contoso.sharepoint.com/sites/marketing --id 2209 --title "Pictures"
+m365 spo navigation node set --webUrl https://contoso.sharepoint.com/sites/marketing --id 2209 --title "Pictures" --audienceIds "61f78c73-f71a-471e-a3b9-15daa936e200,9524e6b4-e663-44fe-b179-210c963e37e7,c42b8756-494d-4141-a575-45f01320e26a"
 ```
 
 Here's a list of all new SharePoint commands for this release:
@@ -164,7 +164,7 @@ Here's a list of all new SharePoint commands for this release:
 
 ## Making SharePoint Framework Development easier
 
-Granting permissions in SharePoint Framework projects can be a bother. Developers need to deploy the package before the permissions are visible on the API access page of the SharePoint admin dashboard. This is experienced by many as suboptimal. In this release we introduce a new command to make the life of SPFx developers easier. You can now grant consent to all API permissions that are included in the project. No need to execute multiple gulp commands and leave VS Code. 
+Granting permissions in SharePoint Framework projects can be a bother. Developers need to deploy the package before the permissions are visible on the API access page of the SharePoint admin dashboard. This process takes a lot of small steps. In this release we introduce a new command to make this process easier. You can now grant consent to all API permissions that are included in your SPFx project. No need to execute multiple gulp commands. No need to leave VS Code. 
 
 You can now simply run:
 
@@ -174,7 +174,7 @@ m365 spfx project permissions grant
 
 ## Another steps in implementing CLI for Microsoft 365 context
 
-In our previous releases, we have taken the first steps to create a CLI context. This allows you to save time by storing default values for options that you often use. For example, if you're working with a specific site collection, you can save the URL of the site collection in the context, and CLI for Microsoft 365 will automatically use it when you run a command that requires the URL of the site collection. This way, you don't have to specify the URL of the site collection every time you run a command. In this release, we created an extra commands to work with the CLI context. Note this is still a work in progress. We allow managing context settings but don't apply them to commands just yet.
+In our previous releases, we have taken the first steps to creating a CLI context. This allows you to save time by storing default values for options that you often use. For example, if you're working with a specific site collection, you can save the URL of the site collection in the context, and CLI for Microsoft 365 will automatically use it when you run a command that requires the URL of the site collection. This way, you don't have to specify the URL of the site collection every time you run a command. In this release, we created an extra command to work with the CLI context. Note this is still a work in progress. We allow managing context settings but don't apply them to commands just yet.
 
 To list all options added to the context, run:
 
@@ -182,9 +182,29 @@ To list all options added to the context, run:
 m365 context option list
 ```
 
+## Listing Power Automate flow runs
+
+Aside from new commands, we implemented a ton of enhancements and bugfixes. One we want to call out here is the command to list flow runs. It's now possible to list flow runs by status and within a time range.
+
+To get a list of all currently running instances of a Power Automate flow, run:
+
+```sh
+m365 flow run list --environmentName Default-d87a7535-dd31-4437-bfe1-95340acd55c5 --flowName 5923cb07-ce1a-4a5c-ab81-257ce820109a --status Running
+```    
+
+To list runs of the specified Microsoft Flow between a specific time range, run:
+
+```sh
+m365 flow run list --environmentName Default-d87a7535-dd31-4437-bfe1-95340acd55c5 --flowName 5923cb07-ce1a-4a5c-ab81-257ce820109a --triggerStartTime 2023-01-21T18:19:00Z --triggerEndTime 2023-01-22T00:00:00Z
+```    
+
 ## What's next
 
 Here are some things that we are currently working on.
+
+### Azure AD 
+
+We're currently busy implementing another series of commands around user management in Azure AD. Things like adding and removing licenses for example.
 
 ### Microsoft 365 Purview
 
@@ -205,10 +225,10 @@ This release wouldn't be possible without the help of (in alphabetical order):
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Nico De Cleyre](https://github.com/nicodecleyre)
-- [Nico De Cleyre](https://github.com/rabwill)
 - [Patrick Lamber](https://github.com/plamber)
+- [Rabia Williams](https://github.com/rabwill)
+- [Reshmee Auckloo](https://github.com/reshmee011)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
-
 
 Thank you all for the time you chose to spend on CLI for Microsoft 365 and for your help to advance it!
 
@@ -216,7 +236,11 @@ Thank you all for the time you chose to spend on CLI for Microsoft 365 and for y
 
 CLI for Microsoft 365 wouldn't be where it is today if it weren't for our users who provide us with feedback. High fives to the following people who took the time to share their feedback and ideas for improvement with us (in alphabetical order):
 
-- [FinderFees](https://github.com/FinderFees)
+- [Carl Henrik Lunde](https://github.com/chlunde)
+- [hsicilia](https://github.com/hsicilia)
+- [Pol Van Dingenen](https://github.com/Cyhexy)
+- [Reshmee Auckloo](reshmee011)
+- [Trygvi Zachariassen Laksafoss](https://github.com/TrygviZL)
 
 ### Discussions
 
