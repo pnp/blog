@@ -20,7 +20,7 @@ draft: false
 
 It all started in our weekly team meeting, which is mostly a stand-up though we're often working on different projects. Since the team is scattered around the globe, we always meet in Microsoft Teams.
 
-Even though it's super friendly, it seems like nobody wants to go first - or next - and there are a lot of awkward silences. One day someone said, "there ought to be an app for this" and the idea for Who's Next was born. [Rabia Williams](#) and I decided to build it as a "Fix Hack Learn week" project, and this is the result.
+Even though it's super friendly, it seems like nobody wants to go first - or next - and there are a lot of awkward silences. One day someone said, "there ought to be an app for this" and the idea for Who's Next was born. [Rabia Williams](https://rabiawilliams.com/) and I decided to build it as a "Fix Hack Learn week" project, and this is the result.
 
 ![3 screens of different people in a meeting using the Who's Next app](./images/WhosnextAnimatedScreenshot.gif)
 
@@ -32,11 +32,13 @@ Now everybody knows when it will be their turn, and there are no more awkward si
 
 Displaying an app "in meeting" is nice, but it's a lot more useful if people can work together in the app while they're interacting in Teams. Who's Next is a super-simple example; there is a shared list of names and everyone can view and edit it simultaneously.
 
-This ends up being pretty simple due to the [Fluid Framework](#) which allows any web page (including a Teams tab) to easily synchronize with other users in real time. Each user's tab maintains a local array of names, and the Fluid Framework keeps them in sync. Screen sharing is purely a spectator sport; Fluid apps allow everyone to participate.
+This ends up being pretty simple due to the [Fluid Framework](https://fluidframework.com/) which allows any web page (including a Teams tab) to easily synchronize with other users in real time. Each user's tab maintains a local array of names, and the Fluid Framework keeps them in sync. Screen sharing is purely a spectator sport; Fluid apps allow everyone to participate.
+
+The Fluid Framework organizes shared data in [containers](https://fluidframework.com/docs/build/containers/); the easiest way to get a Fluid container in a Teams meeting app is using the [Live Share SDK](https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-live-share-overview?WT.mc_id=m365-82480-cxa). The Live Share SDK will hand you a Fluid container that's hosted in Microsoft 365 and secured to allow access by the meeting attendees.
 
 ### Building the meeting app
 
-The meeting app was created in [Teams Toolkit](#) using the sample "My First Meeting App".
+The meeting app was created in [Teams Toolkit](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?WT.mc_id=m365-82480-cxa) using the sample "My First Meeting App".
 
 ![Teams Toolkit creating a meeting app](./images/TTK-new-meeting-app.png)
 
@@ -52,9 +54,9 @@ For details [check the Teams Toolkit documentation](https://learn.microsoft.com/
 
 ### It's a React app
 
-A Teams tab is just a web page displayed in an IFrame, whether it's used in a meeting or elsewhere in Teams. Teams toolkit generates [a React app](https://create-react-app.dev/) to provide the tab's web page as well as other pages such as a configuration page, privacy declaration page, and terms of use page.
+A Teams tab is just a web page displayed in an IFrame, whether it's used in a meeting or elsewhere in Teams. Teams toolkit generates [a React app using react-scripts](https://create-react-app.dev/) to provide the tab's web page as well as other pages such as a configuration page, privacy declaration page, and terms of use page.
 
-A new React component, [WhosNext.jsx](#), serves as the app's main user interface. It displays the list of names, which it obtains from a module [fluidLiveShare.js](#). This module exports a singleton service, `FluidService`, which handles the shared data.
+A new React component, [WhosNext.jsx](https://github.com/OfficeDev/TeamsFx-Samples/blob/dev/whos-next-meeting-app/tabs/src/components/WhosNext.jsx), serves as the app's main user interface. It displays the list of names, which it obtains from a module [fluidLiveShare.js](https://github.com/OfficeDev/TeamsFx-Samples/blob/dev/whos-next-meeting-app/tabs/src/services/fluidLiveShare.js). This module exports a singleton service, `FluidService`, which handles the shared data.
 
 In the React compnent's `componentDidMount()` function, it connects to the Fluid service, obtains the current list of names, and sets up a small event handler to update the UI:
 
@@ -96,7 +98,7 @@ await pages.config.setConfig({
 
 All interaction with the Live Share SDK and Fluid Framework is contained in a client-side service in [fluidLiveShare.js](https://github.com/OfficeDev/TeamsFx-Samples/blob/dev/whos-next-meeting-app/tabs/src/services/fluidLiveShare.js). If this project was written in TypeScript, the service interface would look like this:
 
-~~~typescript
+```typescript
 interface IFluidService {
   // Connect to the Fluid service
   connect: () => void;
@@ -114,7 +116,7 @@ interface IFluidService {
   // when the person array is updated
   onNewData: (handler: (personList: string[]) => void) => void;
 }
-~~~
+```
 
 To connect to the Fluid Framework, the code must
 
@@ -133,9 +135,9 @@ To connect to the Fluid Framework, the code must
       });
 ~~~
 
-Notice that the `joinContainer()` function is passed a schema for our [distributed data structures](https://fluidframework.com/docs/build/dds/) in the form of a JavaScript object. In this case, we're using a [shared map](#), which is a set of key-value pairs, and we're saving the array of names in JSON in one of the values. 
+Notice that the `joinContainer()` function is passed a schema for our [distributed data structures](https://fluidframework.com/docs/build/dds/) in the form of a JavaScript object. In this case, we're using a [shared map](https://fluidframework.com/docs/data-structures/map/), which is a set of key-value pairs, and we're saving the array of names in JSON in one of the values. 
 
-This is a super-simple approach but of course there is a race condition, as one user's change might overwrite another's depending on the order they're processed in the Fluid Relay service. We considered using a [sequence](#) but sequences only store immutable data, so for example there would be no way to shuffle the names or remove one from the middle. The mitigation strategy for this is to only show users the data after it's returned from the Fluid container; if an update is overwritten, we depend on the user to notice their change didn't work and try again.
+This is a super-simple approach but of course there is a race condition, as one user's change might overwrite another's depending on the order they're processed in the Fluid Relay service. We considered using a [sequence](https://fluidframework.com/docs/data-structures/sequences/) but sequences only store immutable data, so for example there would be no way to shuffle the names or remove one from the middle. The mitigation strategy for this is to only show users the data after it's returned from the Fluid container; if an update is overwritten, we depend on the user to notice their change didn't work and try again.
 
 Once the connection is set up, the service reads the container and stores a local copy. This is important because the container may not be empty when someone opens the tab.
 
@@ -173,15 +175,14 @@ When the user makes a change locally, such as adding a name or shuffling the lis
 
 ### Hosting the Fluid Relay service in Azure
 
-If you want to use the Fluid Framework outside of Teams, or for some reason want to host the service in your own Azure instance, the sample includes instructions and code changes [here](#).
+If you want to use the Fluid Framework outside of Teams, or for some reason want to host the service in your own Azure instance, the sample includes instructions and code changes [here](https://github.com/OfficeDev/TeamsFx-Samples/tree/dev/whos-next-meeting-app/alt-tabs-azure).
 
 ## References
 
 Here are some initial references to get started building Teams meeting apps with the LiveShare SDK:
 
-- SPFx documentation – <https://aka.ms/spfx>
-- Teams Meeting Apps - <#>
-- Teams Toolkit - <#>
-- Who's Next sample code - <#>
-- Live Share SDK - <#>
-- Fluid Framework - <#>
+- Teams Meeting Apps - <https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings?WT.mc_id=m365-82480-cxa>
+- Teams Toolkit - <https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?WT.mc_id=m365-82480-cxa>
+- Who's Next sample code - <https://aka.ms/who-is-next>
+- Live Share SDK - <https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-live-share-overview?WT.mc_id=m365-82480-cxa>
+- Fluid Framework - <https://fluidframework.com/docs/>
