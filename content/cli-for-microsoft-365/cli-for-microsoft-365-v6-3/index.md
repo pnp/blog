@@ -172,7 +172,7 @@ You can now simply run:
 m365 spfx project permissions grant
 ```
 
-## Another steps in implementing CLI for Microsoft 365 context
+## Another step in implementing CLI for Microsoft 365 context
 
 In our previous releases, we have taken the first steps to creating a CLI context. This allows you to save time by storing default values for options that you often use. For example, if you're working with a specific site collection, you can save the URL of the site collection in the context, and CLI for Microsoft 365 will automatically use it when you run a command that requires the URL of the site collection. This way, you don't have to specify the URL of the site collection every time you run a command. In this release, we created an extra command to work with the CLI context. Note this is still a work in progress. We allow managing context settings but don't apply them to commands just yet.
 
