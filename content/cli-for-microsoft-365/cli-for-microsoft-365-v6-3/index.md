@@ -239,7 +239,6 @@ CLI for Microsoft 365 wouldn't be where it is today if it weren't for our users 
 - [Carl Henrik Lunde](https://github.com/chlunde)
 - [hsicilia](https://github.com/hsicilia)
 - [Pol Van Dingenen](https://github.com/Cyhexy)
-- [Reshmee Auckloo](reshmee011)
 - [Trygvi Zachariassen Laksafoss](https://github.com/TrygviZL)
 
 ### Discussions
