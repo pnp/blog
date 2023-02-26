@@ -13,7 +13,7 @@ tags: []
 # don't change
 type: regular
 ---
-# Background
+# Background 
 When I build apps for my department or enterprise, it is sometimes a challenge to sync up with co-workers, everyone is busier these days. But I need to test my apps with other user accounts. Fortunately Microsoft provides a way to meet these testing needs with the Microsoft 365 Developer Program. A huge thanks goes out to Microsoft for providing this service.
 
 ## Getting Started
