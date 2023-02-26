@@ -9,7 +9,7 @@ categories: [Community post]
 images:
 - images/thumbnail.png
 # don't change
-tags: []
+tags: ["Power Apps","Microsoft 365 Developer Program"]
 # don't change
 type: regular
 ---
