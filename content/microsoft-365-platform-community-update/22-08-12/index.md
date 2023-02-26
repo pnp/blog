@@ -62,7 +62,7 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 * 1st of July - [Changes to Microsoft 365 Apps usage reports API in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/changes-to-microsoft-365-apps-usage-reports-api-in-microsoft-graph/)
 * 21st of June - [Announcing SharePoint Framework 1.15 – with updates for Viva Connections, Microsoft Teams and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-15-with-updates-for-viva-connections-microsoft-teams-and-sharepoint/)
 
-### Microsoft 365 Platform Community Blog
+### Microsoft 365 and Power Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
@@ -92,22 +92,22 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 
 ### Community call recording blog posts
 
-* 18th of August - [Microsoft 365 & Power Platform Development Community call - 18th of August, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-08-18/)
+* 18th of August - [Microsoft 365 & Power Platform Development Community call - 18th of August, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-08-18/)
 * 17th of August - [https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-08-11/](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-august-2022/)
 * 12th of August - [Viva Connections & SharePoint Framework Community Call – 11th of August, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-08-11/)
 * 11th of August - [Adaptive Cards community call – August 2022](https://pnp.github.io/blog/adaptive-cards-community-call/adaptive-cards-community-call-august-2022/)
-* 4th of August - [Microsoft 365 & Power Platform Development Community call - 4th of August, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-08-04/)
+* 4th of August - [Microsoft 365 & Power Platform Development Community call - 4th of August, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-08-04/)
 * 28th of July - [Viva Connections & SharePoint Framework Community Call – 28th of July, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-07-28/)
 * 25th of July - [Microsoft Identity Platform community call – July 2022](https://pnp.github.io/blog/microsoft-identity-platform-community-call/microsoft-identity-platform-community-call-july-2022/)
-* 21st of July - [Microsoft 365 & Power Platform Development Community call - 21st of July, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-07-21/)
+* 21st of July - [Microsoft 365 & Power Platform Development Community call - 21st of July, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-07-21/)
 * 20th of July - [Power Platform Community Call – July 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-july-2022/)
 * 17th of July - [Adaptive Cards community call – July 2022](https://pnp.github.io/blog/adaptive-cards-community-call/adaptive-cards-community-call-july-2022/) 
 * 14th of July - [Viva Connections & SharePoint Framework Community Call – 14th of July, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-07-14/)
 * 13th of July - [Community call schedules - July-August 2022](https://pnp.github.io/blog/post/2022-07-m365call-summer-schedule/)
-* 7th of July - [Microsoft 365 & Power Platform Development Community call - 7th of July, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-07-07/)
+* 7th of July - [Microsoft 365 & Power Platform Development Community call - 7th of July, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-07-07/)
 * 1st of July - [Viva Connections & SharePoint Framework Community Call – 30th of June, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-06-30/)
 * 29th of June - [Microsoft 365 Platform Community Call - 28th of June, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-06-28/)
-* 23rd of June - [Microsoft 365 & Power Platform Development Community call - 23rd of June, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-06-23/)
+* 23rd of June - [Microsoft 365 & Power Platform Development Community call - 23rd of June, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-06-23/)
 * 22nd of June - [Microsoft 365 Platform Community Call - 21st of June, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-06-21/)
 * 17th of JUne - [Microsoft Teams Community Call - June 2021](https://pnp.github.io/blog/microsoft-teams-community-call/microsoft-teams-community-call-june-2021/)
 * 17th of June - [Viva Connections & SharePoint Framework Community Call – 16th of June, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-06-16/)

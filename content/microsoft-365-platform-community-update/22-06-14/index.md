@@ -60,7 +60,7 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 * 10th of May - [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/)
 * 10th of May - [Publish your app in the Microsoft Teams app store ](https://devblogs.microsoft.com/microsoft365dev/publish-your-app-in-the-microsoft-teams-app-store/) - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 
-### Microsoft 365 Platform Community Blog
+### Microsoft 365 and Power Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
@@ -70,17 +70,17 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 * 31st of May - [Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components](https://pnp.github.io/blog/post/build-teams-using-graph-toolkit/) - Sohil Bhalla | sohilbhalla
 * 31st orf May - [CLI for Microsoft 365 v5.3](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-3/) - [Patrick Lamber](https://twitter.com/patricklamber) (ExpertsInside AG) | @Patricklamber
 * 22nd of May - [Power App for Time Sheeting](https://pnp.github.io/blog/post/timesheet-app/) - [Darren Lutchner](https://twitter.com/assist_365) | @assist_365
-* 22nd of May - [How to use the Power Platform developer plan with the Microsoft 365 Developer program](https://pnp.github.io/blog/post/microsoft-365-developer-account/images/) - [Rachel Irabor](https://twitter.com/Richie4love) | @Richie4love
+* 22nd of May - [How to use the Power Platform developer plan with the Microsoft 365 Developer program](https://pnp.github.io/blog/post/microsoft-365-developer-account/) - [Rachel Irabor](https://twitter.com/Richie4love) | @Richie4love
 * 12th of May - [Adam Wójcik and Martin Lingstuyl join CLI for Microsoft 365 maintainers team](https://pnp.github.io/blog/cli-for-microsoft-365/new-maintainers-2022/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
 * 9th of May - [Microsoft 365 Platform Community (PnP) - May 2022 update](https://pnp.github.io/blog/microsoft-365-platform-community-update/22-05-10/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 
 ### Community call recording blog posts
 
-* 9th of June - [Microsoft 365 & Power Platform Development Community call - 9th of June, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-06-09/)
+* 9th of June - [Microsoft 365 & Power Platform Development Community call - 9th of June, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-06-09/)
 * 7th of June - [Microsoft 365 Platform Community Call - 7th of June, 20](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-06-07/)
 * 3rd of June - [Viva Connections & SharePoint Framework Community Call – 2nd of June, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-06-02/)
 * 1st of June - [Microsoft 365 Platform Community Call - 31st of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-31/)
-* 27th of May - [Microsoft 365 & Power Platform Development Community call - 26th of May, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-05-26/)
+* 27th of May - [Microsoft 365 & Power Platform Development Community call - 26th of May, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-05-26/)
 * 25th of May - [Microsoft 365 Platform Community Call - 24th of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-24/)
 * 19th of May - [Microsoft Identity Platform community call – May 2022](https://pnp.github.io/blog/microsoft-identity-platform-community-call/2022-05-19-identity-platform-call-may-2022/)
 * 19th of May - [Power Platform Community Call – May 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-may-2022/)
@@ -88,7 +88,7 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 * 18th of May - [Adaptive Cards community call – May 2022](https://pnp.github.io/blog/adaptive-cards-community-call/adaptive-cards-community-call-may-2022/)
 * 17th of May - [Microsoft 365 Platform Community Call - 17th of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-17/)
 * 15th of May - [Office Add-ins community call – May 11, 2022](https://pnp.github.io/blog/office-add-ins-community-call/2022-05-11/)
-* 12th of May - [Microsoft 365 & Power Platform Development Community call - 12th of May, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-05-12/)
+* 12th of May - [Microsoft 365 & Power Platform Development Community call - 12th of May, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-05-12/)
 * 10th of May - [Office Add-ins community call – April 13, 2022](https://pnp.github.io/blog/office-add-ins-community-call/2022-04-13/)
 * 10th of May - [Microsoft 365 Platform Community Call - 10th of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-10/)
 

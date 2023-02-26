@@ -108,7 +108,7 @@ Thank you for joining this call today with your community mates. Your feedback i
     * Documentation - [How to create a command-line predictor](https://learn.microsoft.com/powershell/scripting/dev-cross-plat/create-cmdline-predictor?view=powershell-7.2)
     * Library – [PnP PowerShell](https://pnp.github.io/powershell/)
 * **Create an internal community for Power Platform users with Power Platform Communication Site Template**
-    * Documentation - [Create an internal Microsoft Power Platform hub](https://learn.microsoft.com/power-platform/guidance/adoption/) \| aka.ms/ppcst-docs
+    * Documentation - [Create an internal Microsoft Power Platform hub](https://learn.microsoft.com/power-platform/guidance/adoption/wiki-community?WT.mc_id=power-79474-dlaskewitz) | aka.ms/ppcst-docs
     * Issues - [Power Platform communication site template] Bug, question or feature ask report \| aka.ms/ppcst-issues
     * Download - [The Power Platform Hub template and scripts](https://aka.ms/ppcst-download) \| aka.ms/ppcst-download
 
@@ -139,7 +139,7 @@ PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.
 *   Archives - Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
 *   PnP Teams Quickstart | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
 *   Microsoft Teams Toolkit v3.x | [https://aka.ms/teams-toolkit](https://aka.ms/teams-toolkit)
-*   [Microsoft 365 platform community blog](https://pnp.github.io/blog) | aka.ms/m365pnp/blog
+*   [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog) | aka.ms/m365pnp/blog
 *   Microsoft Graph Toolkit in Microsoft Learn | [https://aka.ms/learn-mgt](https://aka.ms/learn-mgt)
 *   Viva Connections [https://aka.ms/VivaConnections](https://aka.ms/VivaConnections)
 *   [SharePoint look book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)

@@ -60,7 +60,7 @@ Yes, this requirement will still apply on October 30th. Full details are in the 
 
 **Hi. Thanks for a good community! I especially enjoyed the April session where Onur Onder made a really good demonstration on some beta PowerPoint APIs and some nice features he developed in ScriptLab. I was just curious if these snippets were shared in a public gist to allow for a closer look. Would be really appreciated if that was the case. If I could make a wish for future content, I'm really curious to get some high-level pointers on how to develop a custom chart object. I'm inspired by ThinkCell (this is not Office.js as far as I understand) and MekkoChart (www.mekkographics.com) that have some nice chart elements and a few steps down the road I would like to make my own charts... Would be really good to go about it in the best way with some guidance from the real experts Thanks again!** 
 
-They are in progress to be added to Script Lab soon. We'll update this blog here with updated information when they are published.
+Update (December 5, 2022): These were added to Script Lab. Open Script Lab in PowerPoint, then go to **Samples**. The new PowerPoint API samples are located in the **Shapes**, **Slide Management**, and **Text** sections.
 
 **When will Microsoft Word Forms API's will be added in office JS?**
 
@@ -96,7 +96,7 @@ We're sorry to hear you're experiencing an issue with developing an add-in on an
 
 ## Stay connected
 
-* Follow our blog posts at [Microsoft 365 platform community blog](https://aka.ms/m365pnp/blog)
+* Follow our blog posts at [Microsoft 365 and Power Platform Community Blog](https://aka.ms/m365pnp/blog)
 * [Follow @microsoft365dev on Twitter](https://twitter.com/microsoft365dev)
 * [Microsoft 365 Platform Community on YouTube](https://aka.ms/m365/videos)
 * Invites to all [Microsoft 365 Developer Community calls](https://aka.ms/M365DevCalls)

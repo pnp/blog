@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklyagenda45.png
 tags: []
-type: trending
+type: normal
 draft: false
 ---
 
@@ -39,14 +39,14 @@ Also: 📷 Picture Time with community in Together Mode!
 
 * Wednesday, 9th of November, 2022, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/officeaddinscommunitycall) - we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Office Add-ins developer community call](https://pnp.github.io/blog/categories/office-add-in-developer-community-call/)
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Office Add-ins developer community call](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
 
 ### Microsoft 365 & Power Platform Development Community call - 10th of November
 
 * Thursday, 10th of November, 2022, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-developer-community-call/)
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
 Demos: 
 
@@ -74,7 +74,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 * [Power Automate and Microsoft Teams approvals advanced scenarios](https://www.youtube.com/watch?v=bFEqxMRnSVo) by [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 * [Latest branding capabilities for modern SharePoint sites](https://www.youtube.com/watch?v=4YImHhGmJJ4) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1
 * [Build your first Command bot for Microsoft Teams with Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=3skgtkJ1McQ) by [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder
-* [How to build a good vibes generator bot for Microsoft Teams](https://www.youtube.com/watch?v=ex76o2E_WfI) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese and [Lee Ford](https://twitter.com/lee_ford) ( Symity) | @Lee\_Ford
+* [How to build a good vibes generator bot for Microsoft Teams](https://www.youtube.com/watch?v=ex76o2E_WfI) by [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese and [Lee Ford](https://twitter.com/lee_ford) (Symity) | @Lee\_Ford
 
 ---
 
@@ -126,7 +126,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [M365 Saturday Coimbatore 2022](https://athen.tech/M365-Saturday-Coimbatore-2022/) - November 19, Coimbatore, India
 * [Collab Days Lisbon 2022](https://www.collabdays.org/2022-lisbon/) - November 26, Lisbon, Portugal
 * [​​​​​​​European SharePoint, Office 365 and Azure Conference 2022](https://www.sharepointeurope.com/) - November 28 - December 1st, 2022, Copenhagen, Denmark
-* [Microsoft 365 Toronto](https://www.communitydays.org/event/2022-12-02/microsoft-365-toronto) - December 2, Toronto, Canada
+
 * [M365 Saturday Bangalore](https://www.communitydays.org/event/2022-12-03/m365-saturday-bangalore-2022) - December 3, Bengaluru, India
 * [Microsoft 365 Conference](https://m365conf.com/#!/) - December 6-8, Las Vegas, NV, USA
 

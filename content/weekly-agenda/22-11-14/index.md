@@ -55,7 +55,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 * Thursday, 17th of November, 2022, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-developer-community-call/)
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
 Demos: 
 
@@ -103,9 +103,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 ---
 
 
-## New Microsoft 365 Platform Community Blog posts
+## New Microsoft 365 and Power Platform Community Blog posts
 
-All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/). Here are the updates from last week.
+All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [Working with Adaptive cards as Dynamic data](https://pnp.github.io/blog/post/dynamic-use-of-adaptive-cards/) by [Nathalie Leenders](https://twitter.com/NathLeenders) | @NathLeenders
 * [PnP Core SDK v1.8](https://pnp.github.io/blog/pnp-core-sdk/pnp-core-sdk-v1-8/) by [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
@@ -146,7 +146,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [M365 Saturday Coimbatore 2022](https://athen.tech/M365-Saturday-Coimbatore-2022/) - November 19, Coimbatore, India
 * [Collab Days Lisbon 2022](https://www.collabdays.org/2022-lisbon/) - November 26, Lisbon, Portugal
 * [​​​​​​​European SharePoint, Office 365 and Azure Conference 2022](https://www.sharepointeurope.com/) - November 28 - December 1st, 2022, Copenhagen, Denmark
-* [Microsoft 365 Toronto](https://www.communitydays.org/event/2022-12-02/microsoft-365-toronto) - December 2, Toronto, Canada
+
 * [M365 Saturday Bangalore](https://www.communitydays.org/event/2022-12-03/m365-saturday-bangalore-2022) - December 3, Bengaluru, India
 * [Microsoft 365 Conference](https://m365conf.com/#!/) - December 6-8, Las Vegas, NV, USA
 

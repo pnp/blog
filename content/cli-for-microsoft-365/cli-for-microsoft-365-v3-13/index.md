@@ -120,7 +120,7 @@ m365 spo group user add --webUrl https://contoso.sharepoint.com/sites/SiteA --gr
 ```
  
 For more information about managing users in SharePoint groups, see the
-[documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/group/group-user-add/).
+[documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/group/group-add/).
  
 ### Manage application permissions for SharePoint sites 
 

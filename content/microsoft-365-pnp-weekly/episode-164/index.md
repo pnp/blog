@@ -78,7 +78,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [365 EduCon - Seattle and PWR EduCon - Seattle](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/two-conferences-in-one-365-educon-amp-pwr-educon-seattle-wa/ba-p/3285243) - May 9-13, 2022
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
-* Want to ask a question or in general engage with the community - Add a question as an issue in the Microsoft 365 Platform Community blog repository at [https://github.com/pnp/blog](https://github.com/pnp/blog/issues/new/choose)
+* Want to ask a question or in general engage with the community - Add a question as an issue in the Microsoft 365 and Power Platform Community Blog repository at [https://github.com/pnp/blog](https://github.com/pnp/blog/issues/new/choose)
 * Check out all the great community calls, SDKs, and tooling for Microsoft 365 from <https://aka.ms/m365pnp>
 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.

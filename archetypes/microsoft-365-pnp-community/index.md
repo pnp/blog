@@ -44,7 +44,7 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 *   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER
 *   **[SAMPLE TITLE](SAMPLE URL) -** [AUTHOR](https://twitter.com/TWITTER) | @TWITTER      
 
-### Microsoft 365 Platform Community Blog
+### Microsoft 365 and Power Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
