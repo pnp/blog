@@ -1,6 +1,6 @@
 ---
 title: Power Apps User Permissions & The AADUser Table
-date: 2023-03-1T00:00:00-00:00
+date: 2023-02-26T00:00:00-00:00
 author: Keith Craigo
 githubname: kcraigo
 # don't change
