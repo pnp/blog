@@ -7,7 +7,7 @@ githubname: kcraigo
 categories: [Community post]
 # link to the thumbnail image for the post
 images:
-- images/toc-thumbnail.png
+- images/thumbnail.png
 # don't change
 tags: []
 # don't change
