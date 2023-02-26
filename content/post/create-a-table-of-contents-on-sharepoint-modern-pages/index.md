@@ -41,22 +41,21 @@ I believe you could accomplish this by creating a custom web part with SPFx but 
 
 Copying the headers is an (optional) step for either the Text Editor web part or the Markdown Editor web part.
 
-1. Right click each of the headers in your page, copy & paste each link into a text editor such as notepad or Notes if your on a MAC. 
+> Right click each of the headers in your page, copy & paste each link into a text editor such as notepad or Notes if your on a MAC. 
 
-- Make sure your text editor does not add additional formatting.
+> Make sure your text editor does not add additional formatting.
 
-![Add the Markdown Editor web part to the SharePoint Modern Page](images/markdown-web-part.png) 
+![Add the Markdown Editor web part to the SharePoint Modern Page](images/markdown-web-part.png "SharePoint Markdown Editor web part") 
 
-2. Add the title in square brackets: [Topic 1]
-3. Add the link in parethesis: (https://[Your Site URL].aspx#topic-1)
+> Add the title in square brackets: [Topic 1]
 
-Ex.
+> Add the link in parethesis: (https://[Your Site URL].aspx#topic-1)
 
-`- [Heading 1](REPLACE WITH HEADING LINK)`
+**Ex.**
 
-`- [Heading 2](REPLACE WITH HEADING LINK)`
-
-`- [Heading 3](REPLACE WITH HEADING LINK)`
+- [Heading 1](REPLACE WITH HEADING LINK)
+- [Heading 2](REPLACE WITH HEADING LINK)
+- [Heading 3](REPLACE WITH HEADING LINK)
 
 Why I say copying the links is optional, 
 
@@ -67,28 +66,28 @@ For the link you only need the <strong>#</strong> symbol and heading i.e., <stro
 
 You should now have something similar to 
 
-![Markdown - TOC](images/toc-markdown-links.png) 
+![Markdown - TOC](images/toc-markdown-links.png "Markdown Editor Output") 
 
 
 An alternative is to use the Text Editor web part
 
-![Add the Text Editor web part to the SharePoint Modern Page](images/text-editor-web-part.png) 
+![Add the Text Editor web part to the SharePoint Modern Page](images/text-editor-web-part.png "SharePoint Text Editor web part") 
 
 Add a Hyperlink
-![Add a Hyperlink](images/text-editor-hyperlink.png) 
+![Add a Hyperlink](images/text-editor-hyperlink.png "Text Editor Insert Link") 
 
 {{< notice tip>}}
 For the link you only need the <strong>#</strong> symbol and heading i.e., <strong>#topic-1</strong>
 {{< /notice >}}
 
 
-![Section Heading](images/text-editor-hyperlink-heading.png) 
+![Section Heading](images/text-editor-hyperlink-heading.png "Text Editor Insert Link Dialog") 
 
 You should now have something similar to,
 
-![Text Editor TOC](images/text-editor-TOC.png) 
+![Text Editor TOC](images/text-editor-TOC.png "Text Editor Insert Link Output") 
 
-To learn more about the Markdown language I suggest taking a look at
+To learn more about the Markdown language I suggest these great resources:
 [Microsoft 365 Community Blog Markdown reference](https://github.com/pnp/blog/wiki/Microsoft-365-Community-Blog-Markdown-reference)
 
 &
