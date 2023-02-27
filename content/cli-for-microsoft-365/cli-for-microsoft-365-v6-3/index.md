@@ -24,7 +24,7 @@ While building solutions for Microsoft 365 expands beyond the Windows operating 
 
 ## New version of CLI for Microsoft 365 – v6.3
 
-Following our monthly release cadence, we've released a new version of the CLI for Microsoft 365 with some new capabilities. February was no exception. We had a ton of improvements and no fewer than 29 new commands. Here are a few of the most noteworthy additions.
+Following our monthly release cadence, we've released a new version of the CLI for Microsoft 365 with some new capabilities. February was no exception. We had a ton of improvements and no fewer than 33 new commands. Here are a few of the most noteworthy additions.
 
 > For the complete list of what's new and changed, see the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v630).
 
