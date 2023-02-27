@@ -22,8 +22,40 @@ Are you regularly using CLI for Microsoft 365 and looking for a way to be more p
 
 If your already know what CLI for M365 is then I suppose you may skip this part😀. CLI for Microsoft 365 is a cross platform command line tool based on Node.js that helps you manage many things around Microsoft 365 and your SPFx project (yes, that as well 🤩. rename, upgrade ... you name it). To name a few, you may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course). The list keeps on growing and growing, [check out the CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/). But it's not only about managing Microsoft 365. The CLI helps you also manage your own SPFx environment (check out the [doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/)) or projects (rename, upgrade etc.). This is very unique that many similar command line tools don't have. Some commands do simple things but some actually are ready to use scenarios all done under a single command. Check out the full list of [commands](https://pnp.github.io/cli-microsoft365/cmd/login/#usage)
 
-## Add content here 
+## 💡 What is it all about?
 
+Remember when you executed a couple of CLI for Microsoft 365 commands one after another and almost every time you passed the same options. The same site url, file, folder relative path, list title ect ect. Wouldn't it be great if you could just keep all options related to your current work or SharePoint site, or current planner plan, or whatever you may imagine 🧠 in a single place? Well, now it is possible. The CLI for Microsoft 365 context gives you the possibility to save any kind of option and its value and then before any command is executed the CLI for Microsoft 365 will first check if any option of the current command may be populated based on what you currently have in the context. Cool right 😎?
+
+## 👉 How to get started?
+
+Before we start adding anything to the context we may first insure it is created using the following command:
+
+```powershell
+m365 context init
+```
+
+This will create a file `.m365rc.json` in the current location, with a `context` section in it, yep this is the same file used by the `m365 aad app` commands that will store your app registration ID and name when `--save` option will be used.
+
+At the begining the context will be empty so, of course, what we want to do first is adding (saving) new options in it. This is may be done by using the `context option set` command. For example:
+
+```powershell
+m365 context option set --name 'listTitle' --value 'issue list'
+```
+
+From that moment on every command you will execute that has the `--listTitle` option, for which you did not provide any value, will be automatically filled with the value saved in the context. If you do however execute some command providing the list title, then the context will not overwrite the given value. In other words, the provided options inline with the commands will have higher priority than those saved in the context file. So now when we would execute:
+
+```powershell
+m365 spo listitem list --webUrl "https://contoso.sharepoint.com/sites/sales"
+```
+
+Instead of getting a failure (which should as we did not provide any option to identify the list, like `--listTitle`), we will get all list items from list 'issue list' from the 'sites/sales' site.
+
+
+## ⚙️ How does it work?
+
+
+
+For more details check the [guidance provided in the CLI for Micorosft 365 docs](URL)
 
 ## 🙋 Wanna help out?
 
