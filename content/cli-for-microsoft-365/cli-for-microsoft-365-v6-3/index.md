@@ -52,12 +52,16 @@ m365 aad user license list --userName john.doe@contoso.com
 
 Here's a list of all new Azure AD commands for this release:
 
+- [aad license list](https://pnp.github.io/cli-microsoft365/cmd/aad/license-list)
 - [aad user add](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-add)
 - [aad user remove](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-remove)
 - [aad user license list](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-license-list)
+- [aad user license add](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-license-add)
+- [aad user license remove](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-license-remove)
 - [aad user recyclebinitem clear](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-recyclebinitem-clear)
 - [aad user recyclebinitem list](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-recyclebinitem-list)
 - [aad user recyclebinitem remove](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-recyclebinitem-remove)
+- [aad user recyclebinitem restore](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-recyclebinitem-restore)
 
 ## Added new Planner Commands
 
@@ -202,9 +206,9 @@ m365 flow run list --environmentName Default-d87a7535-dd31-4437-bfe1-95340acd55c
 
 Here are some things that we are currently working on.
 
-### Azure AD 
+### Power Platform 
 
-We're currently busy implementing another series of commands around user management in Azure AD. Things like adding and removing licenses for example.
+We're currently busy implementing a new commands for managing the owners of a Power Automate flow. Things like listing, adding and removing owners.
 
 ### Microsoft 365 Purview
 
