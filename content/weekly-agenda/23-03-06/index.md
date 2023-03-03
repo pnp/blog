@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda08.png
+  - images/weeklyagenda10.png
 tags: []
 type: trending
 draft: false
