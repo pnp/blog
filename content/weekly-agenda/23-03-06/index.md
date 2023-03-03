@@ -40,7 +40,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos: 
 
-* [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez - Build a SPFx solution to create AI genered images DALL-E API
+* [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez - Build a SPFx solution to create AI generated images DALL-E API
 * [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | NicoDeCleyre - Chat GPT integration to Microsoft 365 with SPFx solution
 
 Also: 📷 Picture Time with community in Together Mode!
