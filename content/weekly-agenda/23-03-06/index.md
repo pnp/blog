@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 6th of March 2023 week
-date: 2023-03-03T04:18:59.094Z
+date: 2023-03-03T03:29:03.735Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -9,7 +9,7 @@ images:
   - images/weeklyagenda08.png
 tags: []
 type: trending
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
