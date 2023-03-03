@@ -42,7 +42,7 @@ Also, we showcased 23 articles/videos published by Microsoft and the community i
 
 [03:30](https://youtu.be/vHJOsHhWXNs?t=210) – Microsoft 365 Conference
 
-[9:55](https://youtu.be/vHJOsHhWXNs?t=595) – European Collaboration Conference
+[09:55](https://youtu.be/vHJOsHhWXNs?t=595) – European Collaboration Conference
 
 [16:48](https://youtu.be/vHJOsHhWXNs?t=1008) – 365 EduCon
 
@@ -60,7 +60,8 @@ This session was recorded on Monday, February 28, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube vHJOsHhWXNs >}}
-*   Podcast coming soon
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+    {{< podbean pb-tdkub-13a78bc >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -73,8 +74,8 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [New capabilities available in Microsoft Graph To Do APIs](https://devblogs.microsoft.com/microsoft365dev/new-capabilities-available-in-microsoft-graph-to-do-apis/) - [Swapna Ninan](https://www.linkedin.com/in/swapna-elma-ninan/) (Microsoft)
 * [Public preview of SharePoint Framework 1.17 – First release of upcoming features](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-17-first-release-of-upcoming-features/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * [Get ready for the first week of Hack Together: Microsoft Graph and .NET 🦒](https://devblogs.microsoft.com/microsoft365dev/get-ready-for-the-first-week-of-hack-together-microsoft-graph-and-net/) - [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs & [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
-* [Power Automate desktop flows in Dataverse updates](https://powerautomate.microsoft.com/en-us/blog/power-automate-desktop-flows-in-dataverse-updates/) - [Dimitri Bekiropoulos](https://www.linkedin.com/in/dimitri-b/) (Microsoft)
-* [February 2023 update of Power Automate for desktop](https://powerautomate.microsoft.com/en-us/blog/february-2023-update-of-power-automate-for-desktop/) - Yiannis Mavridis (Microsoft)
+* [Power Automate desktop flows in Dataverse updates](https://powerautomate.microsoft.com/blog/power-automate-desktop-flows-in-dataverse-updates/) - [Dimitri Bekiropoulos](https://www.linkedin.com/in/dimitri-b/) (Microsoft)
+* [February 2023 update of Power Automate for desktop](https://powerautomate.microsoft.com/blog/february-2023-update-of-power-automate-for-desktop/) - Yiannis Mavridis (Microsoft)
 * [SharePoint Framework 6 year anniversary](https://twitter.com/SharePoint/status/1628683841098358786) - Microsoft
 * [A beginner’s guide to learning to code with GitHub Codespaces](https://github.blog/2023-02-22-a-beginners-guide-to-learning-to-code-with-github-codespaces/) - GitHub
 
