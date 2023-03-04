@@ -54,7 +54,7 @@ Instead of getting a failure (which we should as we did not provide any option t
 
 If in the current location the `.m365rc.json` file with `context` section is present, CLI before executing any command will first check if any of the options saved in it may be used. If some option from the currently executed command matches one of the options saved in the context and there wasn't any value specified for it together with the command, then CLI will use the value for that option from the context. We may think of the context as a key value pair list where, of course, the key has to be unique, which means it is not possible to save multiple values for the same option.
 
-It's also good to know that it does not make sense to save options short names in the context as CLI for Microsoft 365 under the hood will match command options with options saved in the context only by long name.
+It's also good to know that it does not make sense to save options with short names in the context as CLI for Microsoft 365 under the hood will match command options with options saved in the context only by long name.
 
 ## 📑 Why would I use it? What is the use case?
 
