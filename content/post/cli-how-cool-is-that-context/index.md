@@ -8,7 +8,7 @@ images:
 author: "Adam Wójcik"
 githubname: Adam-it
 # description
-description: "CLI for Microsoft 365 is a cross platform command line tool based on Node.js that helps you manage many things around Microsoft 365 and your SPFx project (yes, that as well 🤩. rename, upgrade ... you name it). You may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course). The list keeps on growing and growing. Lets check some tips and tricks which may improve your experience with CLI for Microsoft 365."
+description: "CLI for Microsoft 365 is a cross-platform command line tool based on Node.js that helps you manage many things around Microsoft 365 and your SPFx project (yes, that as well 🤩. rename, upgrade ... you name it). You may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course). The list keeps on growing and growing. Let's check some tips and tricks which may improve your experience with CLI for Microsoft 365."
 summary: "CLI for Microsoft 365 is a cross platform command line tool based on Node.js that helps you manage many things around Microsoft 365 and your SPFx project (yes, that as well 🤩. rename, upgrade ... you name it). You may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course). The list keeps on growing and growing. Lets check some tips and tricks which may improve your experience with CLI for Microsoft 365."
 # Taxonomies
 categories: ["Community post"]
