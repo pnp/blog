@@ -1,6 +1,6 @@
 ---
 title: "CLI for Microsoft 365 - how cool is that? - Context"
-date: 2023-02-27T02:44:24+06:00
+date: 2023-03-04T02:44:24+06:00
 # post thumb
 images:
   - images/main.png
@@ -62,7 +62,7 @@ First of all, CLI for Microsoft 365 context gives you a great opportunity to gro
 
 Let's now think of a scenario in which we have a script that uses CLI for Microsoft 365 commands which we want to execute in a loop providing different set of parameters (options) for each run. Context seems perfect for that task as we may just provide different `.m365rc.json` with different context for each run and ... that's it 🙂.
 
-Another use case we may think of is what I like to call 'YOLO mode' 😅. In CLI for Microsoft 365 when a `remove` command is executed the user always has to confirm the operation either by answering yes to the prompt or by adding the `--confirm` option to the command. Well, we may forget all of that if we just execute `m365 context option set --name "confirm" --value "true"`. After that CLI will automatically confirm for us any operation although I would not suggest this as best practice 😜.
+Another use case we may think of is what I like to call 'YOLO mode' 😅, which for sure is highly dangerous and I don't recommend it, but it is a good example of how many possibilities and freedom with have with CLI for Microsoft 365 context. In CLI for Microsoft 365 when a `remove` command is executed the user always has to confirm the operation either by answering yes to the prompt or by adding the `--confirm` option to the command. Well, we may forget all of that if we just execute `m365 context option set --name "confirm" --value "true"`. After that CLI will automatically confirm for us any operation 🤯.
 
 ## 🧑‍💻 Commands
 
