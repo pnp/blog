@@ -24,7 +24,7 @@ If you already know what CLI for Microsoft 365 is then I suppose you may skip th
 
 ## 💡 What is it all about?
 
-Remember when you executed a couple of CLI for Microsoft 365 commands one after another and almost every time you passed the same options. The same site url, file, folder relative path, list title, etc. Wouldn't it be great if you could just keep all options related to your current work or SharePoint site, or current planner plan, or whatever you may imagine 🧠 in a single place? Well, now it is possible. The CLI for Microsoft 365 context gives you the possibility to save any kind of option and its value and then before any command is executed the CLI for Microsoft 365 will first check if any option of the current command may be populated based on what you currently have in the context. Cool right 😎?
+Remember when you executed a couple of CLI for Microsoft 365 commands one after another and almost every time you passed the same options. The same site URL, file, folder relative path, list title, etc. Wouldn't it be great if you could just keep all options related to your current work or SharePoint site, current planner plan, or whatever you may imagine 🧠 in a single place? Well, now it is possible. The CLI for Microsoft 365 context gives you the possibility to save any kind of option and its value and then before any command is executed the CLI for Microsoft 365 will first check if any option of the current command may be populated based on what you currently have in the context. Cool right 😎?
 
 ## 👉 How to get started?
 
