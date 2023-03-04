@@ -28,7 +28,7 @@ Remember when you executed a couple of CLI for Microsoft 365 commands one after 
 
 ## 👉 How to get started?
 
-Before we start adding anything to the context we may first insure it is created using the following command:
+Before we start adding anything to the context we may first ensure it is created using the following command:
 
 ```powershell
 m365 context init
