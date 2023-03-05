@@ -58,11 +58,11 @@ It's also good to know that it does not make sense to save options with short na
 
 ## 📑 Why would I use it? What is the use case?
 
-First of all, CLI for Microsoft 365 context gives you a great opportunity to group all of your options in a single place without having to provide them for each executed command, that's just plain convenience and time-saving. 
+First of all, CLI for Microsoft 365 context gives you a great opportunity to group all of your options in a single place without having to provide them for each executed command, that's just plain convenience and time-saving.
 
 Let's now think of a scenario in which we have a script that uses CLI for Microsoft 365 commands which we want to execute in a loop providing a different set of parameters (options) for each run. The context seems perfect for that task as we may just provide different `.m365rc.json` with different contexts for each run and ... that's it 🙂.
 
-Another use case we may think of is what I like to call 'YOLO mode' 😅, which for sure is highly dangerous and I don't recommend it, but it is a good example of how many possibilities and freedom with have with CLI for Microsoft 365 context. In CLI for Microsoft 365 when a `remove` command is executed the user always has to confirm the operation either by answering yes to the prompt or by adding the `--confirm` option to the command. Well, we may forget all of that if we just execute `m365 context option set --name "confirm" --value "true"`. After that CLI will automatically confirm for us any operation 🤯.
+Another use case we may think of is keeping data related to the current project/script. Let's imagine we have an SPFx solution with a custom deploy script that uses CLI for Microsoft 365 commands. This script could be doing a lot of things like setting up new sites with a site app catalog, turning on some features, building and deploying an SPFx package to a site app catalog, adding a command set to a list, etc. I am almost sure some options like `webUrl` would need to be used in multiple commands in this script. It's a lot better to extract all of those options to a separate file which might be environment specific which we may keep as part of our project together with the script file. We may even have multiple context files for each environment like `dev.m365rc.json`, `qa.m365rc.json` etc. And just use the one we need at the current moment, but we need to still consider that CLI for Microsoft 365 will be only looking for `.m365rc.json` so we would need to rename the file we want to use, remove the environment prefix so that the context will be used in the script.
 
 ## 🧑‍💻 Commands
 
