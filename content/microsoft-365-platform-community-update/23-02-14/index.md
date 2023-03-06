@@ -1,10 +1,10 @@
 ---
-title: Microsoft 365 & Power Platform Community (PnP) - February 2024 update
+title: Microsoft 365 & Power Platform Community (PnP) - February 2023 update
 date: 2023-03-06T10:20:03.277Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
-  - Microsoft 365 Platform Community update
+  - Microsoft 365 & Power Platform Community update
 images:
   - images/feb-23-promo.png
 tags:
@@ -24,21 +24,24 @@ draft: true
 
 Microsoft 365 & Power Platform Community (PnP) February 2023 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
 
-Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the community. 
+Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the Microsoft 365 and Power Platform community. Time sequence for this summary is also longer than one month, but we will be aligning on the monthly updates again from this post forward.
 
 >  *We are committed on building the best tech community in the world where everyone feels welcome and we help to empower each and every community member to achieve more.*
 
 
 ## Main resources around Microsoft 365 Platform Community
 
-* Microsoft 365 & Power Platform  Community - [https://aka.ms/m365/community](https://aka.ms/m365/community) - One location for all the resources and news around Microsoft 365 & Power Platform
-* Microsoft 365 and Power Platform samples - [https://aka.ms/m365/samples](https://aka.ms/m365/samples)
-* Microsoft 365 community blog - [https://aka.ms/m365/community/blog](http://aka.ms/m365/community/blog)
+* Microsoft 365 & Power Platform Community - [https://aka.ms/community/home](https://aka.ms/community/home) - One location for all the resources and news around Microsoft 365 & Power Platform
+* Microsoft 365 & Power Platform samples - [https://aka.ms/community/samples](https://aka.ms/m365/samples)
+* Microsoft 365 & Power Platform blog - [https://aka.ms/community/blog](http://aka.ms/m365/community/blog)
+* Microsoft 365 & Power Platform Channel on YouTube - [https://aka.ms/community/videos](https://aka.ms/m365/videos)
+
+Microsoft 365 Developer assets:
+
 * Microsoft 365 development blog - [https://aka.ms/m365/dev/blog](https://aka.ms/m365/dev/blog)
-* Microsoft 365 Community Channel on YouTube - [https://aka.ms/m365/videos](https://aka.ms/m365/videos)
 * Microsoft 365 Developer YouTube channel - [https://aka.ms/m365/dev/videos](https://aka.ms/m365/dev/videos)
 
-We also partnerly closely with other Power Platform topics, so let's not forget the following assets
+We also partnerly closely with other Power Platform topics, so let's not forget the following assets:
 
 * [Power Platform Community - Be a part of something bigger](https://powerusers.microsoft.com/)
 * [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform)
@@ -47,11 +50,11 @@ Do not also forget the awesome events which are being organized across the world
 
 * [Community Days - CommunityDays.org](https://www.communitydays.org/)
 
-## Microsoft 365 Platform Community Ecosystem in GitHub
+## Microsoft 365 & Power Platform Community Ecosystem in GitHub
 
 Most of the community driven repositories are in the PnP GitHub organization as samples are not product specifics as they can contain numerous different solutions or the solution works in multiple different applications.
 
-* [Microsoft 365 Platform Community GitHub organization](https://github.com/pnp)
+* [Microsoft 365 & Power Platform Community GitHub organization](https://github.com/pnp)
 * [OfficeDev GitHub organization](https://github.com/officedev)
 * [Microsoft Graph GitHup organization](https://github.com/microsoftgraph)
 * [SharePoint GitHub organization](https://github.com/sharepoint)
@@ -71,12 +74,12 @@ We are excited to announce new community contributor program for all the active 
 
 ![Unfied Sample Gallery Promo](images/sample-gallery-promo.png)
 
-All of the cool samples for Microsoft 365 and Power Platform are listed in the unified sample gallery at [https://aka.ms/m365/samples](https://aka.ms/m365/samples). This is one centralized location to find samples from Microsoft and community.
+All of the cool samples for Microsoft 365 and Power Platform are listed in the unified sample gallery at [https://aka.ms/community/samples](https://aka.ms/community/samples). This is one centralized location to find samples from Microsoft and community.
 
 > No reason to start from scratch - see what's available and take advantage of the contributions and samples from the community and Microsoft
 
 
-## Key contributors to the November 2022 update
+## Key contributors to the February 2023 update
 
 ![Thank you](images/thankyou-feb23.png)
 
@@ -350,7 +353,7 @@ Here are the companies, which provided support the community initiative for this
 
 > If you'd like to see your company logo here,  please let us know and share the logo with us. Thx.
 
-![november companies](images/nov-22-companies.png)
+![november companies](images/feb-23-companies.png)
 
 * [Addin365](https://www.addin365.com/)
 * [Arvo Systems](https://www.arvosys.com/)
@@ -367,7 +370,7 @@ Here are the companies, which provided support the community initiative for this
 * [I4-YOU](https://i4-you.com/)
 * [IOZ](https://www.ioz.ch/)
 * [MondayCoffee](https://mondaycoffee.com/-home)
-* [N8D - Stefan Bauer - Innovation and Design Agency](https://n8d.at/)
+* [N8D - Innovation and Design Agency](https://n8d.at/)
 * [onepoint](https://www.groupeonepoint.com/en/)
 * [Piasys](https://piasys.com/)
 * [PixelMill](https://pixelmill.com/)
@@ -384,9 +387,7 @@ Here are the companies, which provided support the community initiative for this
 * [Struyf Consulting](https://www.eliostruyf.com/)
 * [Sulava](https://sulava.com/en/home/)
 * [Sympraxis Consulting](https://sympraxisconsulting.com/)
-* [ThreeWill](https://threewill.com/)
 * [Ultima Business Solutions](https://www.ultima.com/)
-* [Valo](https://www.valointranet.com/)
 * [Voitanos](https://www.voitanos.io/)
 
 ### Microsoft people
@@ -504,9 +505,9 @@ MVP Community team manages the Microsoft 365 & Power Platform community work in 
 
 Thank you for all that you do!
 
-* [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani\_SPD
+* [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani_SPD
 * [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
-* [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | [@gSiVed
+* [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @gSiVed
 * [Julie Turner](https://twitter.com/jfj1997)(Sympraxis Consulting) | @Jfj1997
 * [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 * [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
@@ -516,9 +517,8 @@ Thank you for all that you do!
 * [Andrew Koltyakov](https://twitter.com/andrewkoltyakov) (ARVO Systems) | @Andrewkoltyakov
 * [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 * [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @arjunumenon
-* [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
+* [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau__Cameron
 * [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
-
 * [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
 * [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 * [Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
@@ -532,10 +532,10 @@ Thank you for all that you do!
 * [Patrick Lamber](https://twitter.com/patricklamber) (Expertsinside AG) | @Patricklamber
 * [Paul Bullock](https://twitter.com/pkbullock) (Avanade) | @Pkbullock
 * [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
-* [Sergei Sergeev](https://twitter.com/sergeev_srg) | @sergeev\_srg
+* [Sergei Sergeev](https://twitter.com/sergeev_srg) | @sergeev_srg
 * [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 * [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
-* [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
+* [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan_k
 * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 
 ### Microsoft Internal Platform community team members
@@ -543,7 +543,6 @@ Thank you for all that you do!
 Here are the Microsoft Internal Platform Community team members:
 
 * [April Dunnam](https://twitter.com/aprildunnam) | @Aprildunnam
-* [Natalie Pienkowska](https://twitter.com/NataliePienkow1) | @nataliePienkow1
 * [Rabia Williams](https://twitter.com/williamsrabia) | @Williamsrabia
 * [Alex Terentiev](https://twitter.com/alexaterentiev) | @Alexaterentiev
 * [Bert Jansen](https://twitter.com/O365Bert) | @O365Bert
@@ -560,8 +559,8 @@ Here are the Microsoft Internal Platform Community team members:
 
 ## Next steps
 
-See all of the available community calls, tools, components and other assets from [https://aka.ms/m365/community](https://aka.ms/m365/community). Get involved!
+See all of the available community calls, tools, components and other assets from [https://aka.ms/community/home](https://aka.ms/community/home). Get involved!
 
 Got ideas or feedback on the topics to cover, additional partnerships, product feature capabilities? - let us know. Your input is important for us, so that we can support your journey in Microsoft 365 and in Power Platform (better together). You can comment below this post 👇.
 
-*Sharing Is Caring!*
+*Sharing Is Caring!* 🧡
