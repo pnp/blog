@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Identity Platform community call – January 2023"
 tags: ["Microsoft 365", "Azure", "Microsoft identity Platform"]
-date: 2023-01-19T05:11:59-05:00
+date: 2023--01-19T05:11:59-05:00
 author: "Nandeesh Swami"
 githubname: Nandeeshswami
 categories: ["Microsoft identity platform community call"]

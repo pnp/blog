@@ -1,15 +1,15 @@
 ---
 title: Weekly Agenda - 6th of March 2023 week
-date: 2023-03-02T08:18:59.094Z
+date: 2023-03-03T03:29:03.735Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda08.png
+  - images/weeklyagenda10.png
 tags: []
-type: regular
-draft: true
+type: trending
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -22,17 +22,13 @@ This is the agenda for the following week:
 
 * Tuesday, 7th of March 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
 
 Demos this time
 
 * [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs - Dynamically Create an Azure Communication Services Identity and Token
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder  - Teams Toolkit Learn Path - Build a Microsoft Teams tab app using Teams Toolkit for Visual Studio Code
 * [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - Microsoft Graph Hackathon – Recap on the first week
-
-
-
-Also: 📷 Picture Time with community in Together Mode!
 
 ### Viva Connections & SharePoint Framework Community Call - 9th of March
 
@@ -44,8 +40,7 @@ Demos:
 
 * [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez - Image generation WebPart using DALL-E API
 * [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | NicoDeCleyre - Chat GPT from within SPFx
-
-Also: 📷 Picture Time with community in Together Mode!
+* [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez - Build a SPFx solution to create AI generated images DALL-E API
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/m365pnp/request/demo) and we'll get you scheduled!
 
@@ -53,13 +48,33 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Getting Started with Azure Communication Services, Microsoft Graph, and Microsoft Teams](https://www.youtube.com/watch?v=TpEK4zkw6_0&t=5s) by * [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-* [How to achieve success in your Viva Topics adoption - Spring Series 2023](https://www.youtube.com/watch?v=SJP89gj0ggk&t=19s) by [Naomi Moneypenny](https://twitter.com/@nmoneypenny) (Microsoft) | @nmoneypenny, Britt Boston (Microsoft), Maeneka Grewal (Microsoft)
-* [Power Pages Data workspace is now solution aware](https://www.youtube.com/watch?v=1VuacJkJL00&t=6s) by Pranita Padalwar (Microsoft)
+* [Consuming Search API in Viva Connections Adaptive Card Extension](https://www.youtube.com/watch?v=7_eI8Cy7hUE) by [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech 
+* [Build a "Who's Next" Teams Meeting app](https://www.youtube.com/watch?v=rHnd4g8uLTA) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | and [Bob German](https://twitter.com/Bob1German) (Microsoft) | 
+* [Getting Started with Azure Communication Services, Microsoft Graph, and Microsoft Teams](https://www.youtube.com/watch?v=TpEK4zkw6_0) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [How to achieve success in your Viva Topics adoption - Spring Series 2023](https://www.youtube.com/watch?v=SJP89gj0ggk) by [Naomi Moneypenny](https://twitter.com/@nmoneypenny) (Microsoft) | @nmoneypenny, Britt Boston (Microsoft), Maeneka Grewal (Microsoft)
+* [Power Pages Data workspace is now solution aware](https://www.youtube.com/watch?v=1VuacJkJL00) by Pranita Padalwar (Microsoft)
 * [Microsoft Graph Developer Proxy recording mode](https://www.youtube.com/watch?v=VVNhI0Mg12M)
-* [What's new & next for Viva Topics - Spring Series 2023](https://www.youtube.com/watch?v=MQUF8o3Qcn8&t=57s) by [Naomi Moneypenny](https://twitter.com/@nmoneypenny) (Microsoft) | @nmoneypenny, CJ Tan (Microsoft), Maeneka Grewal (Microsoft)
-* [Turn text to images in Microsoft Teams using OpenAI DALL-E 2 & Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=_vuGRC6BGk4&t=3s) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
-* [List Formatting Magic – Query string options and look up field handling](https://www.youtube.com/watch?v=rtI8QnkV5Ts&t=6s) by [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
+* [What's new & next for Viva Topics - Spring Series 2023](https://www.youtube.com/watch?v=MQUF8o3Qcn8) by [Naomi Moneypenny](https://twitter.com/@nmoneypenny) (Microsoft) | @nmoneypenny, CJ Tan (Microsoft), Maeneka Grewal (Microsoft)
+* [Turn text to images in Microsoft Teams using OpenAI DALL-E 2 & Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=_vuGRC6BGk4) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
+* [List Formatting Magic – Query string options and look up field handling](https://www.youtube.com/watch?v=rtI8QnkV5Ts) by [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
+
+
+We also release new playlist focusing on the [Microsoft Teams app camp](https://www.youtube.com/playlist?list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU) and development scenarios. Please see the following new videos for more details.
+
+* [Microsoft Teams App Camp: Get started with Teams app development and monetization](https://www.youtube.com/watch?v=hFwLfG95rVU&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=1)
+* [Microsoft Teams App Camp - Microsoft Teams Marketplace Strategy](https://www.youtube.com/watch?v=qcwcOFu8QBU&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=2) - Masako Kodama (Microsoft)
+* [Microsoft Teams App Camp - 5 Steps to Monetize your Teams Application](https://www.youtube.com/watch?v=J7XSf3x05SU&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=3) - James Skay (Microsoft)
+* [Microsoft Teams App Camp - Buying a Teams Application](https://www.youtube.com/watch?v=nuOjlTnoj7s&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=4)
+* [Microsoft Teams App Camp - Anatomy of a SaaS Application](https://www.youtube.com/watch?v=CrvX_UZ38eA&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=5)
+* [Microsoft Teams App Camp - Start with Azure Active Directory - Lab A01](https://www.youtube.com/watch?v=5B50MusyNR8&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=6)
+* [Microsoft Teams App Camp - Create a Teams app with Azure AD Single Sign-On - Lab A02](https://www.youtube.com/watch?v=khpjsWwmB5U&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=7)
+* [Microsoft Teams App Camp - Teams styling and themes - Lab A03](https://www.youtube.com/watch?v=ZfXapTSbECM&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=8)
+* [Microsoft Teams App Camp - Linking your identity system to Azure AD SSO - Lab](https://www.youtube.com/watch?v=02qe0KZB3T0&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=9)
+* [Microsoft Teams App Camp - Create a Configurable Tab - Lab](https://www.youtube.com/watch?v=RjFtsd7KcuE&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=10)
+* [Microsoft Teams App Camp - Add a Deep link to a personal Tab - Lab](https://www.youtube.com/watch?v=i66U1-QSrOI&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=11)
+* [Microsoft Teams App Camp - Add a Messaging Extension - Lab](https://www.youtube.com/watch?v=HzK_YHAz05w&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=12)
+* [Microsoft Teams App Camp - Add a Dialog - Lab](https://www.youtube.com/watch?v=tqNO5qaYmL0&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=13)
+* [Microsoft Teams App Camp - How to monetize your apps - Lab](https://www.youtube.com/watch?v=foPEXYocOmU&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=14)
 
 ---
 
@@ -93,6 +108,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
 * [Microsoft 365 Platform Community Call - 28th of February, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-02-28/)
+* [Microsoft 365 & Power Platform Development Community call - 2nd of March, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-03-02/)
 
 ---
 
@@ -108,6 +124,8 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 ## Recognition
 
 You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+
+![together-221201.png](images/community-recognization-program.png)
 
 ---
 
