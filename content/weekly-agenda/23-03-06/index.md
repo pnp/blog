@@ -30,8 +30,6 @@ Demos this time
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder  - Teams Toolkit Learn Path - Build a Microsoft Teams tab app using Teams Toolkit for Visual Studio Code
 * [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - Microsoft Graph Hackathon – Recap on the first week
 
-Also: 📷 Picture Time with community in Together Mode!
-
 ### Viva Connections & SharePoint Framework Community Call - 9th of March
 
 * Thursday, 9th of March, 7:00 AM PT / 2:00 PM GMT
@@ -40,10 +38,9 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos: 
 
+* [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez - Image generation WebPart using DALL-E API
+* [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | NicoDeCleyre - Chat GPT from within SPFx
 * [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez - Build a SPFx solution to create AI generated images DALL-E API
-* [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | NicoDeCleyre - Chat GPT integration to Microsoft 365 with SPFx solution
-
-Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/m365pnp/request/demo) and we'll get you scheduled!
 

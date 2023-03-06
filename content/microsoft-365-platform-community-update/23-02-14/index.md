@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 & Power Platform Community (PnP) - February 2024 update
-date: 2022-11-25T09:30:55.909Z
+date: 2023-03-06T10:20:03.277Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -22,7 +22,7 @@ type: epic
 draft: true
 ---
 
-Microsoft 365 & Power Platform Community (PnP) February 2024 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
+Microsoft 365 & Power Platform Community (PnP) February 2023 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
 
 Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the community. 
 
@@ -33,7 +33,7 @@ Starting from this update, we are a bit adjusting the format, so that we can foc
 
 * Microsoft 365 & Power Platform  Community - [https://aka.ms/m365/community](https://aka.ms/m365/community) - One location for all the resources and news around Microsoft 365 & Power Platform
 * Microsoft 365 and Power Platform samples - [https://aka.ms/m365/samples](https://aka.ms/m365/samples)
-* Microsoft 365 community blog - [http://aka.ms/m365/community/blog](http://aka.ms/m365/community/blog)
+* Microsoft 365 community blog - [https://aka.ms/m365/community/blog](http://aka.ms/m365/community/blog)
 * Microsoft 365 development blog - [https://aka.ms/m365/dev/blog](https://aka.ms/m365/dev/blog)
 * Microsoft 365 Community Channel on YouTube - [https://aka.ms/m365/videos](https://aka.ms/m365/videos)
 * Microsoft 365 Developer YouTube channel - [https://aka.ms/m365/dev/videos](https://aka.ms/m365/dev/videos)
@@ -45,7 +45,7 @@ We also partnerly closely with other Power Platform topics, so let's not forget 
 
 Do not also forget the awesome events which are being organized across the world. See more details from the CommunityDays web site.
 
-* [Communty Days - CommunityDays.org](https://www.communitydays.org/)
+* [Community Days - CommunityDays.org](https://www.communitydays.org/)
 
 ## Microsoft 365 Platform Community Ecosystem in GitHub
 
@@ -104,10 +104,12 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Angelo Gulisano](https://twitter.com/angelog1908) (Npo Sistemi) | @angelog1908
 * [Andrew Taylor](https://github.com/andrew-s-taylor) | andrew-s-taylor
 * [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
+* [Anshuman Gaur](https://twitter.com/_AnshumanGaur) (Microsoft) | @_AnshumanGaur
 * [Antti K. Koskela](https://twitter.com/koskila) (Precio Fishbone) | @koskila
 * [Ari Gunawan](https://github.com/AriGunawan) | AriGunawan
 * [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
 * [Arleta Wanat](https://github.com/PowershellScripts) | PowershellScripts
+* [Arnaud Rompen](https://twitter.com/arnaudrompen) | @arnaudrompen
 * [Asad Refai](https://github.com/asadrefai) | asadrefai
 * [Autophanous](https://github.com/Autophanous) | Autophanous
 * [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
@@ -142,6 +144,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Dian Taylor](https://twitter.com/D365Goddess) (RSM) | @D365Goddess 
 * [Divya Akula](https://github.com/divya-akula) (Tarento) | divya-akula
 * [Dipesh Bhanani](https://twitter.com/AskDipesh) | @AskDipesh
+* [Django Lohn](https://twitter.com/lohndjango) | @lohndjango
 * [Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
 * [Drew Russell](https://twitter.com/drusse11) (Rubrikinc) | @drusse11
 * [Duvan Baena](https://twitter.com/djb349) | @djb349
@@ -199,7 +202,8 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Keith Craigo](https://twitter.com/KeithCraigo) | @KeithCraigo
 * [Kevin McDonnell](https://twitter.com/kevmcdonk) (CPS) | @kevmcdonk
 * [Kinga Kazala](https://twitter.com/kinga_kazala) (ETH) | @kinga_kazala
-* [Kristine Kolodziejski](kristinekk94) (Computacenter) | @kristinekk94  
+* [Kristine Kolodziejski](kristinekk94) (EY) | @kristinekk94  
+* [krishna-vijas](https://github.com/krishna-vijas) | krishna-vijas
 * [Konrad Kolodziejak](https://github.com/wilecoyotegenius) (Capgemini) | wilecoyotegenius
 * [kon-iro](https://twitter.com/kon_iro) | @kon_iro
 * [Kunj Sangani](https://twitter.com/sanganikunj) | @sanganikunj
@@ -219,6 +223,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Marc Studer](https://github.com/Studermarc) | Studermarc
 * [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Staffbase) | @mgwojciech
 * [Marco van Meurs](https://github.com/dutchdevil83) | dutchdevil83
+* [Marijn Somers](https://twitter.com/marijnsomers) | @marijnsomers
 * [Mark Bice](https://github.com/mbice) (Habanero) | mbice
 * [Markus Hanisch](https://github.com/Markus-Hanisch) | Markus-Hanisch
 * [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
@@ -293,6 +298,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Saintenr](https://github.com/Saintenr) | Saintenr
 * [salascz](https://github.com/salascz) | salascz
 * [Scott](https://github.com/lordneeko) | lordneeko
+* [Scott Durow](https://twitter.com/ScottDurow) (Develop 1) | @ScottDurow
 * [Seth Addo](https://twitter.com/set_addo) | @set_addo
 * [Sergej Schwabauer](https://github.com/SPFxAppDev) (Aurum) | SPFxAppDev
 * [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
@@ -313,6 +319,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Takashi Shinohara](https://github.com/karamem0) (Avanade) | @karamem0
 * [Taaqif Peck (Tye)](https://github.com/Taaqif) | Taaqif
 * [techsnap](https://github.com/techsnap) | techsnap
+* [Tejas Mehta](https://twitter.com/tpmehta) (Microsoft) | @tpmehta
 * [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
 * [Thomas Barnekow](https://twitter.com/thbarnekow) (Analog Devices) | @thbarnekow
 * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
@@ -409,6 +416,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Daniel Laskewitz](https://twitter.com/Laskewitz) (Microsoft) | @Laskewitz
 * [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
+* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous 
 * [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 * [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @cdpadur
 * [Dona Sarkar](https://twitter.com/donasarkar) (Microsoft) | @DonaSarkar
@@ -418,7 +426,8 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) | @fabianwilliams
 * [Frank Lan](https://linkedin.com/in/frankwlan/) (Microsoft) | frankwlan
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
-* [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
+* [Gavin Barron](https://twitter.com/gavinbarron (Microsoft) | @gavinbarron
+* Gino Buzzelli (Microsoft)]
 * Gloria Sánchez (Microsoft) 
 * Hanbing Wang (Microsoft) 
 * [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
@@ -477,7 +486,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Sudha Padmanabhan (Microsoft) 
 * [Tee Earls](https://github.com/TeeEarls) (Microsoft) | @TeeEarls
 * [Todd Anglin](https://twitter.com/ToddAnglin) (Microsoft) | @ToddAnglin 
-* Tomas Chladek (Microsoft)
+* [Tomas Chladek](https://twitter.com/tomaschladek2) (Microsoft) | @tomaschladek2
 * Troy Starr (Microsoft) | TroyStarr
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * Wajeed Shaikh | [Wajeed-msft](https://github.com/Wajeed-msft)
@@ -509,7 +518,7 @@ Thank you for all that you do!
 * [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @arjunumenon
 * [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
 * [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
-* [David Warner II](https://twitter.com/DavidWarnerII) (Catapult) | @DavidWarnerII
+
 * [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
 * [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 * [Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
