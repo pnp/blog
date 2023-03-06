@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 & Power Platform Community (PnP) - February 2023 update
-date: 2023-03-06T10:20:03.277Z
+date: 2023-03-07T04:20:03.277Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -22,7 +22,7 @@ type: epic
 draft: true
 ---
 
-Microsoft 365 & Power Platform Community (PnP) February 2023 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
+Microsoft 365 & Power Platform Community February 2023 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
 
 Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the Microsoft 365 and Power Platform community. Time sequence for this summary is also longer than one month, but we will be aligning on the monthly updates again from this post forward.
 
@@ -32,9 +32,9 @@ Starting from this update, we are a bit adjusting the format, so that we can foc
 ## Main resources around Microsoft 365 Platform Community
 
 * Microsoft 365 & Power Platform Community - [https://aka.ms/community/home](https://aka.ms/community/home) - One location for all the resources and news around Microsoft 365 & Power Platform
-* Microsoft 365 & Power Platform samples - [https://aka.ms/community/samples](https://aka.ms/m365/samples)
-* Microsoft 365 & Power Platform blog - [https://aka.ms/community/blog](http://aka.ms/m365/community/blog)
-* Microsoft 365 & Power Platform Channel on YouTube - [https://aka.ms/community/videos](https://aka.ms/m365/videos)
+* Microsoft 365 & Power Platform samples - [https://aka.ms/community/samples](https://aka.ms/community/samples)
+* Microsoft 365 & Power Platform blog - [https://aka.ms/community/blog](http://aka.ms/community/blog)
+* Microsoft 365 & Power Platform Channel on YouTube - [https://aka.ms/community/videos](https://aka.ms/community/videos)
 
 Microsoft 365 Developer assets:
 
@@ -107,7 +107,6 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Angelo Gulisano](https://twitter.com/angelog1908) (Npo Sistemi) | @angelog1908
 * [Andrew Taylor](https://github.com/andrew-s-taylor) | andrew-s-taylor
 * [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
-* [Anshuman Gaur](https://twitter.com/_AnshumanGaur) (Microsoft) | @_AnshumanGaur
 * [Antti K. Koskela](https://twitter.com/koskila) (Precio Fishbone) | @koskila
 * [Ari Gunawan](https://github.com/AriGunawan) | AriGunawan
 * [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
@@ -304,10 +303,10 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Scott Durow](https://twitter.com/ScottDurow) (Develop 1) | @ScottDurow
 * [Seth Addo](https://twitter.com/set_addo) | @set_addo
 * [Sergej Schwabauer](https://github.com/SPFxAppDev) (Aurum) | SPFxAppDev
-* [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
+* [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev_srg
 * [Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
 * [Sherman Ouko](https://github.com/SHERMANOUKO) | SHERMANOUKO
-* [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh\_me
+* [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh_me
 * [Simone Lin](https://github.com/SimonL26) | SimonL26
 * [SlowRobot](https://github.com/SlowRobot) | SlowRobot
 * [Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
@@ -322,8 +321,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Takashi Shinohara](https://github.com/karamem0) (Avanade) | @karamem0
 * [Taaqif Peck (Tye)](https://github.com/Taaqif) | Taaqif
 * [techsnap](https://github.com/techsnap) | techsnap
-* [Tejas Mehta](https://twitter.com/tpmehta) (Microsoft) | @tpmehta
-* [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
+* [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan_k
 * [Thomas Barnekow](https://twitter.com/thbarnekow) (Analog Devices) | @thbarnekow
 * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
 * [Tim van de Voorde](https://github.com/timdelavoorde) | timdelavoorde
@@ -375,6 +373,7 @@ Here are the companies, which provided support the community initiative for this
 * [Piasys](https://piasys.com/)
 * [PixelMill](https://pixelmill.com/)
 * [PVX Solutions](https://www.pvx-solutions.com/)
+* [Qubix](https://www.qubix.be/)
 * [Rapid Circle](https://en.rapidcircle.com/)
 * [ShareSquared](https://www.sharesquared.com)
 * [Sherpas](https://www.sherpas.se/)
@@ -402,7 +401,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Alison McKay](https://github.com/alison-mk) (Microsoft) | alison-mk
 * [Amjed Ayoub](https://linkedin.com/in/amjed-ayoub/) (Microsoft) | amjed-ayoub
 * Ankit Rastogi (Microsoft)   
-* Anshuman Gaur (Microsoft)
+* [Anshuman Gaur](https://twitter.com/_AnshumanGaur) (Microsoft) | @_AnshumanGaur
 * [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
 * [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 * Ben Summers (Microsoft)
@@ -486,6 +485,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Sreekanth Thirthala (Microsoft)
 * Sudha Padmanabhan (Microsoft) 
 * [Tee Earls](https://github.com/TeeEarls) (Microsoft) | @TeeEarls
+* [Tejas Mehta](https://twitter.com/tpmehta) (Microsoft) | @tpmehta
 * [Todd Anglin](https://twitter.com/ToddAnglin) (Microsoft) | @ToddAnglin 
 * [Tomas Chladek](https://twitter.com/tomaschladek2) (Microsoft) | @tomaschladek2
 * Troy Starr (Microsoft) | TroyStarr
@@ -501,9 +501,9 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 
 ### MVP Community team
 
-MVP Community team manages the Microsoft 365 & Power Platform community work in the GitHub and also coordinates different open-source projects around Microsoft 365 & Power Platform topics. Platform Community Team members have a significant impact on driving adoption of Microsoft 365 & Power Platform topics. They have shown their commitment to the open-source and community-driven work by constantly contributing to the benefit of the others in the community.
+MVP Community team manages the Microsoft 365 & Power Platform community work in the GitHub and also coordinates different open-source projects around Microsoft 365 & Power Platform topics. Platform Community Team members have a significant impact on driving adoption of Microsoft 365 & Power Platform areas. They have shown their commitment to the open-source and community-driven work by constantly contributing to the benefit of the others in the community.
 
-Thank you for all that you do!
+Thank you for all that you do! 🧡
 
 * [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani_SPD
 * [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
