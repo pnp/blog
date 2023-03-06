@@ -104,6 +104,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Angelo Gulisano](https://twitter.com/angelog1908) (Npo Sistemi) | @angelog1908
 * [Andrew Taylor](https://github.com/andrew-s-taylor) | andrew-s-taylor
 * [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
+* [Anshuman Gaur](https://twitter.com/_AnshumanGaur) (Microsoft) | @_AnshumanGaur
 * [Antti K. Koskela](https://twitter.com/koskila) (Precio Fishbone) | @koskila
 * [Ari Gunawan](https://github.com/AriGunawan) | AriGunawan
 * [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
@@ -297,6 +298,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Saintenr](https://github.com/Saintenr) | Saintenr
 * [salascz](https://github.com/salascz) | salascz
 * [Scott](https://github.com/lordneeko) | lordneeko
+* [Scott Durow](https://twitter.com/ScottDurow) (Develop 1) | @ScottDurow
 * [Seth Addo](https://twitter.com/set_addo) | @set_addo
 * [Sergej Schwabauer](https://github.com/SPFxAppDev) (Aurum) | SPFxAppDev
 * [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev\_srg
@@ -317,6 +319,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Takashi Shinohara](https://github.com/karamem0) (Avanade) | @karamem0
 * [Taaqif Peck (Tye)](https://github.com/Taaqif) | Taaqif
 * [techsnap](https://github.com/techsnap) | techsnap
+* [Tejas Mehta](https://twitter.com/tpmehta) (Microsoft) | @tpmehta
 * [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan\_k
 * [Thomas Barnekow](https://twitter.com/thbarnekow) (Analog Devices) | @thbarnekow
 * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
@@ -413,6 +416,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Daniel Laskewitz](https://twitter.com/Laskewitz) (Microsoft) | @Laskewitz
 * [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
+* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous 
 * [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 * [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @cdpadur
 * [Dona Sarkar](https://twitter.com/donasarkar) (Microsoft) | @DonaSarkar
@@ -422,7 +426,8 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) | @fabianwilliams
 * [Frank Lan](https://linkedin.com/in/frankwlan/) (Microsoft) | frankwlan
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
-* [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
+* [Gavin Barron](https://twitter.com/gavinbarron (Microsoft) | @gavinbarron
+* Gino Buzzelli (Microsoft)]
 * Gloria Sánchez (Microsoft) 
 * Hanbing Wang (Microsoft) 
 * [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
@@ -481,7 +486,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Sudha Padmanabhan (Microsoft) 
 * [Tee Earls](https://github.com/TeeEarls) (Microsoft) | @TeeEarls
 * [Todd Anglin](https://twitter.com/ToddAnglin) (Microsoft) | @ToddAnglin 
-* Tomas Chladek (Microsoft)
+* [Tomas Chladek](https://twitter.com/tomaschladek2) (Microsoft) | @tomaschladek2
 * Troy Starr (Microsoft) | TroyStarr
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * Wajeed Shaikh | [Wajeed-msft](https://github.com/Wajeed-msft)
@@ -513,7 +518,7 @@ Thank you for all that you do!
 * [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @arjunumenon
 * [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
 * [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
-* [David Warner II](https://twitter.com/DavidWarnerII) (Catapult) | @DavidWarnerII
+
 * [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
 * [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 * [Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
