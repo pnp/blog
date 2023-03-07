@@ -4,7 +4,7 @@ summary: "Topics include: Deploy Office Add-in that uses SSO to Azure App Servic
 date: 2023-01-11T08:01:00-05:00
 author: "Preethika Kiruveedula"
 githubname: preethikakiru
-categories: ["Office Add-ins community call"]
+categories: ["Office add in developer community call"]
 images:
 - images/Session-Promo-Jan-2023.jpg
 tags: ["Office Add-ins","Microsoft 365"]
@@ -14,7 +14,7 @@ videos:
 draft: false
 ---
 
-# Office Add-ins developer platform community call - January 11, 2023
+Office Add-ins developer platform community call - January 11, 2023
 
 ## This month's agenda and presenters
 
