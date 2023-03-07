@@ -2,6 +2,7 @@
 title: "🐫(CAML) Query: What is it and why is it relevant in 2023?"
 author: "Dan Toft"
 githubname: Tanddant
+date: 2023-03-07T07:20:04.878Z
 # don't change
 categories: ["Community post"]
 # link to the thumbnail image for the post
