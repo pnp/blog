@@ -1,45 +1,44 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 200"
-summary: "Episode 200."
-date: 2023-02-28T02:00:01-00:00
+summary: "In this 200th episode Microsoft’s Sébastien Levert, Vesa Juvonen and Waldek Mastykarz discuss open-source community evolution over the last 4.5 years, share personal reflections and predictions on the look of this Community for Episode 300!"
+date: 2023-03-06T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-199-promo.png
+- images/pnp-weekly-200-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=vHJOsHhWXNs
-draft: true
+- https://www.youtube.com/watch?v=Em0B-NnUWAs
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm focused on the upcoming conferences and their previous experiences on the in-person events across the world. No visitor in this episode due to an unfortunate last minute cancellation, which is party visible within the recording.
+In this 200th installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, US-based interview host – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert is joined by Finland-based show host [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and Netherlands-based show host [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm.
 
 ## Topics discussed in this session
 
-* Spring events and conferences
-* Personal experiences from in-person attendance
-* Las Vegas as the conference venue
-* Value of attending the in-person events
+* Remembering [Episode 1](https://www.youtube.com/watch?v=Z4FDQnffkO8) recorded on 17 August 2018. 
+* Why exactly are the PnP Weekly hosts spending time each week to interview community members and review articles?
+* What/Who initially provoked the show’s hosts to communicate to community? Why?
+* In what ways have community members been effectively broadening their career journeys by working with other members of this Community?
+* What were the host’s biggest mistakes or failures that resulted in positive change for Community?
+* Various thoughts on achieving the 200th episode milestone.
+* Just so you know, it was Vesa’s 6000th day at Microsoft anniversary today!
+* How will the Community look in Episode 300? Where is the community headed?
+* Thank you to all Community members for watching/listening to this series.
+* Also referenced during discussion - [Vesa’s Blog](https://www.youtube.com/channel/UCMZR3Yvur84PhKAZ-oO3YDQ/videos) (inactive) 
 
-Also, we showcased 23 articles/videos published by Microsoft and the community in the last week.
-
+We showcased 26 articles/videos published by Microsoft and the community in the last week.
 
 ## Agenda items
 
-[00:00](https://youtu.be/vHJOsHhWXNs?t=0) – Intro
+[00:00](https://youtu.be/Em0B-NnUWAs?t=0) – Intro
 
-[03:30](https://youtu.be/vHJOsHhWXNs?t=210) – Microsoft 365 Conference
+[04:22](https://youtu.be/Em0B-NnUWAs?t=262) – Interview
 
-[09:55](https://youtu.be/vHJOsHhWXNs?t=595) – European Collaboration Conference
+[42:42](https://youtu.be/Em0B-NnUWAs?t=2562) – Weekly Articles
 
-[16:48](https://youtu.be/vHJOsHhWXNs?t=1008) – 365 EduCon
-
-[17:33](https://youtu.be/vHJOsHhWXNs?t=1053) – CommunityDays.org
-
-[28:38](https://youtu.be/vHJOsHhWXNs?t=1718) – Weekly Articles
-
-[50:40](https://youtu.be/vHJOsHhWXNs?t=3040) – Closing
+[1:04:32](https://youtu.be/Em0B-NnUWAs?t=3872) – Closing
 
 ## Action requested
 
@@ -48,9 +47,9 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Monday, February 28, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube vHJOsHhWXNs >}}
+    {{< youtube Em0B-NnUWAs >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-tdkub-13a78bc >}}   
+    {{< podbean pb-cuzet-13ad58a >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -58,7 +57,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Microsoft articles
 
-* [From AI in Teams Premium to updates for Viva—here’s what’s new in Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/28/from-ai-in-teams-premium-to-updates-for-viva-heres-whats-new-in-microsoft-365/) - Colette Stallbaumer (Microsoft)
+* [From AI in Teams Premium to updates for Viva—here’s what’s new in Microsoft 365](https://www.microsoft.com/microsoft-365/blog/2023/02/28/from-ai-in-teams-premium-to-updates-for-viva-heres-whats-new-in-microsoft-365/) - Colette Stallbaumer (Microsoft)
 * [Rapidly deploy Microsoft Teams at scale to empower your frontline workforce](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/rapidly-deploy-microsoft-teams-at-scale-to-empower-your/ba-p/3755253) - Rahul Dey (Microsoft)
 * [What’s New in Microsoft Teams | February 2023](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-february-2023/ba-p/3755049) - Steven Stein (Microsoft)
 * [Microsoft 365 admin digest - February 2023](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-admin-digest-february-2023/ba-p/3754075) - Gabe Ho (Microsoft)
@@ -68,9 +67,9 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Introducing apps in Microsoft Teams channel meetings general availability](https://devblogs.microsoft.com/microsoft365dev/introducing-apps-in-microsoft-teams-channel-meetings-general-availability/) - [Gino Buzzelli](https://twitter.com/ginobuzz) (Microsoft) | @ginobuzz
 * [New Microsoft Graph Planner API capabilities now available](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-planner-api-capabilities-now-available-in-microsoft-graph/) - Andrew Friedman (Microsoft), Brijesh Bharadwaj (Microsoft) & Tarkan Sevilmis (Microsoft)
 * [SharePoint Roadmap Pitstop: February 2023](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-february-2023/ba-p/3755315) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
-* [Automate workflows with Power Automate connector for Updates in Microsoft Teams](https://powerautomate.microsoft.com/en-us/blog/automate-workflows-with-power-automate-connector-for-updates-in-microsoft-teams/) - Apoorva Kumar (Microsoft)
-* [Monitor your RPA automations with desktop flow activity (Generally Available)](https://powerautomate.microsoft.com/en-us/blog/monitor-your-rpa-automations-with-desktop-flow-activity-generally-available/) - Quentin Sele Barancy (Microsoft)
-* [Pipelines in Power Platform is Generally Available (GA)](https://powerapps.microsoft.com/en-us/blog/pipelines-in-power-platform-is-generally-available-ga/) - Casey Burke (Microsoft)
+* [Automate workflows with Power Automate connector for Updates in Microsoft Teams](https://powerautomate.microsoft.com/blog/automate-workflows-with-power-automate-connector-for-updates-in-microsoft-teams/) - Apoorva Kumar (Microsoft)
+* [Monitor your RPA automations with desktop flow activity (Generally Available)](https://powerautomate.microsoft.com/blog/monitor-your-rpa-automations-with-desktop-flow-activity-generally-available/) - Quentin Sele Barancy (Microsoft)
+* [Pipelines in Power Platform is Generally Available (GA)](https://powerapps.microsoft.com/blog/pipelines-in-power-platform-is-generally-available-ga/) - Casey Burke (Microsoft)
 * [Build a "Who's Next" Teams meeting app with Fluid Framework and the Live Share SDK](https://pnp.github.io/blog/post/build-a-teams-meeting-app-with-liveshare-sdk/) - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Create Playlists to share your video and audio files in Microsoft 365](https://kashbox.substack.com/p/create-playlists-to-share-your-video) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 
