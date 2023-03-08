@@ -6,7 +6,7 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft 365 platform call"]
 images:
-- images/recording-7th-march.png
+- images/recording-7th-mar.png
 tags: []
 type: regular
 videos:
