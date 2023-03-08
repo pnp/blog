@@ -107,6 +107,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Angelo Gulisano](https://twitter.com/angelog1908) (Npo Sistemi) | @angelog1908
 * [Andrew Taylor](https://github.com/andrew-s-taylor) | andrew-s-taylor
 * [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
+* [Anshuman Gaur](https://twitter.com/_AnshumanGaur) (Microsoft) | @_AnshumanGaur
 * [Antti K. Koskela](https://twitter.com/koskila) (Precio Fishbone) | @koskila
 * [Ari Gunawan](https://github.com/AriGunawan) | AriGunawan
 * [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
