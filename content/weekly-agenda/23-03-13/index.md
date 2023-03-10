@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 13th of March 2023 week
-date: 2023-03-08T08:02:03.005Z
+date: 2023-03-10T04:02:03.005Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -15,6 +15,12 @@ draft: false
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
 
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
+
+{{< notice important>}}
+As United States moves to daylight saving time starting from the Sunday 12th of March which is two weeks before Europe, some of the meeting times might be impacted for you for following two weeks. 
+
+If you have downloaded the recurrent invite, meeting time should be properly adjusted in your calendar.
+{{< /notice >}}
 
 This is the agenda for the following week:
 
