@@ -38,6 +38,10 @@ Demos this time
 
 Demos: 
 
+* From Epilepsy to MVP - Empowerment using the Power Platform - [Daniel Christian](https://twitter.com/dchristian19) | @dchristian19
+* Igniting a Power Automate Revolution: What Happens When Salespeople like to Click Buttons? - [Gizzelle Akin](https://twitter.com/gizzelleakin) | @gizzelleakin
+* Quality Assurance with Power Platform Pipelines using Power Apps - [Nati Turtledove](https://twitter.com/NatiTurts) | @NatiTurts
+
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -65,8 +69,6 @@ Also: 📷 Picture Time with community in Together Mode!
 * Thursday, 17th of March, 2023, 9:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/IDDEVCommunityCall) or [join the call](https://aka.ms/IDDEVCommunityCall-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft identity platform community call](https://pnp.github.io/blog/categories/microsoft-identity-platform-community-call/)
-
-Topic:
 
 
 
