@@ -9,7 +9,7 @@ images:
   - images/weeklyagenda11.png
 tags: []
 type: trending
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -70,12 +70,16 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/IDDEVCommunityCall) or [join the call](https://aka.ms/IDDEVCommunityCall-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft identity platform community call](https://pnp.github.io/blog/categories/microsoft-identity-platform-community-call/)
 
-
+Topic:
+* Staying Up to Date with Authentication for JavaScript Applications 
 
 ## New videos
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Upcoming Preview Word APIs - March 2023](https://www.youtube.com/watch?v=zn28EyMIScQ) by Yun Wang (Microsoft)
+* [Power Platform Release Planner - your new superpower!](https://www.youtube.com/watch?v=AS2eES2KPPc) by [Vivian Voss](https://twitter.com/VivianTiiman) (Avanade) | @VivianTiiman
+* [What's next for the Microsoft Graph Toolkit!](https://www.youtube.com/watch?v=lFobFO2G1-8) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert & [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
 * [Setup and launch Viva Connections in under 5 minutes](https://www.youtube.com/watch?v=wnZAB-lZHfw&t=37s) by [Anshuman Gaur](https://twitter.com/_AnshumanGaur) (Microsoft) | @_AnshumanGaur
 * [Developing a personal wellness app to prevent burnout using Power Apps and SharePoint](https://www.youtube.com/watch?v=hvWJ5YVukMU&t=9s) by [Carlos Solís](https://twitter.com/CarlosBKSolis1) | @CarlosBKSolis1
 * [Getting started on your SPFx form customizer journey with a boilerplate](https://www.youtube.com/watch?v=LhlV5dhjLX0) by [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot
@@ -123,7 +127,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft 365 & Power Platform Development Community call - 2nd of March, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-03-02/)
+* [Viva Connections & SharePoint Framework Community Call – 9th of March, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-03-09/) with demos from [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez and [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina) | @NicoDeCleyre
+* [Microsoft 365 & Power Platform Development Community call - 2nd of March, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-03-02/) with demos from [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm, [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
 
 ---
 
