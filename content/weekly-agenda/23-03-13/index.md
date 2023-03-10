@@ -28,12 +28,12 @@ This is the agenda for the following week:
 
 * Tuesday, 7th of March 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 & Power Platform Community blog - Microsoft 365 & Power Platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
 
 Demos this time
 
 * [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin - Deploying the Azure Communications Services Application to Azure
-* Gary Pretty (Microsoft) – Take advantage of latest Power Virtual Agents improvements
+* [Dewain Robinson](https://twitter.com/dewain76) (Microsoft) | @dewain76 – Take advantage of latest Power Virtual Agents improvements
 * [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - Microsoft Graph Hackathon – Recap on the second week
 
 ### Power Platform monthly Community Call - 15th of March
