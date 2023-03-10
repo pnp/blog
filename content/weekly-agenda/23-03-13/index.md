@@ -76,6 +76,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/IDDEVCommunityCall) or [join the call](https://aka.ms/IDDEVCommunityCall-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft identity platform community call](https://pnp.github.io/blog/categories/microsoft-identity-platform-community-call/)
 
+
 Topic:
 * Staying Up to Date with Authentication for JavaScript Applications 
 
