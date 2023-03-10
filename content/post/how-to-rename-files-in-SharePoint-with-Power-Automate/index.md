@@ -34,7 +34,7 @@ In order to change a filename, we will need to use SharePoint REST API, which is
    * Method: `Post`
    * Uri: `_api/lists/GetByTitle('<DisplayName of your Library goes here>')/Items(@{outputs('Get_file_properties')?['body/ID']})`
    * Headers:
-      * **Content-type**: `application/json`
+      * **Content-type**: `application/json;odata=verbose `
       * **IF-MATCH**: `*`
       * **X-HTTP-METHOD**: `PATCH`
    * Body:
