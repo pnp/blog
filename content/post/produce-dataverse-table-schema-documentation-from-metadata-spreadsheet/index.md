@@ -293,4 +293,4 @@ The knowledge that descriptions will be used in Documentation is a further encou
 
 [Tanguy Touzard](https://twitter.com/TanguyTOUZARD) for the invaluable XrmToolBox and for adding the feature to  [export to a single Excel sheet](https://github.com/MscrmTools/MsCrmTools.MetadataDocumentGenerator/issues/14) to the Metadata Document Generator.
 
-PNP for hosting this blog platform.
+PnP for hosting this blog platform.
