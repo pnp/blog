@@ -1,5 +1,5 @@
 ---
-title: "Produce  Dataverse Table Schema Documentation from Metadata Spreadsheet"
+title: "Produce Dataverse Table Schema Documentation from Metadata Spreadsheet"
 date: 2023-03-04T08:40:00-00:00
 author: "Alex McLachlan"
 githubname: alex-mcla
