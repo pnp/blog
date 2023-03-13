@@ -7,7 +7,7 @@ githubname: alex-mcla
 categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
-- images/myImage.png
+- images/WikiThumbnail.png
 # don't change
 tags: []
 # don't change
