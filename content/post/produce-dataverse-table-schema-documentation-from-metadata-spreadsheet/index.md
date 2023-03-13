@@ -13,7 +13,7 @@ tags: []
 # don't change
 type: "regular"
 ---
-# TL;DR
+## TL;DR
 
 This post shows how to produce Markdown or HTML documentation from an Excel file exported from the **Metadata Document Generator** XrmToolBox tool.
 
@@ -21,9 +21,9 @@ Adding `concat` columns in the exported spreadsheet gives content that can be in
 
 ---
 
-# Contents
+## Contents
 
-- [Creating the Metadata Spreadsheet](#creating-the-metadata-spreadsheet)  
+- [Creating the Metadata spreadsheet](#creating-the-metadata-spreadsheet)  
 - [Markdown Table](#markdown-table)  
 - [Markdown List](#markdown-lst)  
 - [HTML Table](#html-table)  
@@ -33,7 +33,7 @@ Adding `concat` columns in the exported spreadsheet gives content that can be in
 
 ---
 
-# Creating the Metadata Spreadsheet
+## Creating the Metadata spreadsheet
 
 The **Metadata Document Generator** an [XrmToolBox](https://www.xrmtoolbox.com/) tool that exports Dataverse schema / metadata to Excel spreadsheets or Word documents. 
 
@@ -63,7 +63,7 @@ Tables automatically expand when contents is added in the adjacent column, and t
 
 ---
 
-# Markdown Table
+## Markdown Table
 
 The [Markdown format for a table](https://www.markdownguide.org/extended-syntax/#tables) is:
 
@@ -119,7 +119,7 @@ And the result is:
 
 ---
 
-# Markdown List
+## Markdown List
 
 In some situations, a [Markdown list](https://www.markdownguide.org/basic-syntax/#unordered-lists) with just the Display Name and Description is better than a table, and a similar method can be used to the tables above. Firstly, select cell Q2 (Q1 can be left blank for the Markdown list) and paste the formula:
 
@@ -139,7 +139,7 @@ The result is:
 
 ---
 
-# HTML Table
+## HTML Table
 
 For an [HTML table](https://www.w3schools.com/html/html_tables.asp), the table footer needs to be used as well as the table header. The table footer is turned on in the Table Design Tab:
 
@@ -249,7 +249,7 @@ To give:
 
 ---
 
-# HTML List
+## HTML List
 
 For an [HTML list](https://www.w3schools.com/html/html_lists_unordered.asp), paste into cell S1:
 
@@ -279,7 +279,7 @@ Which gives:
 
 ---
 
-# Summary
+## Summary
 
 By adding columns with formulas to the output of the Metadata Document Generator, documentation can be produced from the column metadata, including the column descriptions.
 
@@ -289,7 +289,7 @@ The knowledge that descriptions will be used in Documentation is a further encou
 
 ---
 
-# Acknowledgements
+## Acknowledgements
 
 [Tanguy Touzard](https://twitter.com/TanguyTOUZARD) for the invaluable XrmToolBox and for adding the feature to  [export to a single Excel sheet](https://github.com/MscrmTools/MsCrmTools.MetadataDocumentGenerator/issues/14) to the Metadata Document Generator.
 
