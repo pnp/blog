@@ -51,9 +51,9 @@ Provide the file path and select the tables you wish in include in the export - 
 
 Select **Generate document** to export the file. 
 
-Open the file when the export has completed and select the Metadata tab.
+Open the file when the export has completed and select the **Metadata tab**.
 
-Select a cell that contains a value and use **Ctrl-T** to create a table with the exported contents.  
+Select a cell that contains a value and **Ctrl-T** to create a table with the exported contents.  
 
 ![Create Table](images/createTable.png)
 
@@ -76,7 +76,7 @@ The [Markdown format for a table](https://www.markdownguide.org/extended-syntax/
 
 To create a Markdown table from the spreadsheet:
 
-Select cell P1, the table header cell, and **in the formula bar** paste the contents for the Markdown table header:
+Select **cell P1**, the table header cell, and **in the formula bar** paste the contents for the Markdown table header:
 
 ``` 
 | Display Name | Schema Name | Type | Description |
@@ -89,7 +89,7 @@ The return between the first and second lines is important for the Markdown tabl
 
 This will add column P to the table.
 
-In cell P2, paste the formula:
+Paste the following formula in **cell P2**:
 
 ```
 =CONCAT("| ",E2," | ",D2," | ",F2," | ",G2," |")
@@ -121,7 +121,7 @@ And the result is:
 
 ## Markdown List
 
-In some situations, a [Markdown list](https://www.markdownguide.org/basic-syntax/#unordered-lists) with just the Display Name and Description is better than a table, and a similar method can be used to the tables above. Firstly, select cell Q2 (Q1 can be left blank for the Markdown list) and paste the formula:
+In some situations, a [Markdown list](https://www.markdownguide.org/basic-syntax/#unordered-lists) with just the Display Name and Description is better than a table, and a similar method can be used to the tables above. Firstly, select **cell Q2** (Q1 can be left blank for the Markdown list) and paste the formula:
 
 ```
 =CONCAT("- **",E2,"** - ",G2)
@@ -145,19 +145,19 @@ For an [HTML table](https://www.w3schools.com/html/html_tables.asp), the table f
 
 ![Excel Table Footer](images/tableFooter.png)
 
-In cell R1, paste:
+Paste the following in **cell R1**:
 
 ``` html
 <table><tr><th>Display Name</th><th>Schema Name</th><th>Type</th><th>Description</th></tr>
 ```
 
-In cell R2, paste:
+Paste in **cell R2**:
 
 ``` html
 =CONCAT("<tr><td>",E2,"</td><td>",D2,"</td><td>",F2,"</td><td>",G2,"</td></tr>")
 ```
 
-And in the footer cell of column R:
+And in the **footer cell** of column R:
 
 ``` html
 </table>
@@ -257,13 +257,13 @@ For an [HTML list](https://www.w3schools.com/html/html_lists_unordered.asp), pas
 <ul>
 ```
 
-Paste into S2 the formula:
+Paste into **cell S2** the formula:
 
 ``` HTML
 =CONCAT("<li><strong>",E2,"</strong> - ",G2,"</li>")
 ```
 
-And into the footer cell in column S:
+And into the **footer cell** in column S:
 
 ``` HTML
 </ul>
