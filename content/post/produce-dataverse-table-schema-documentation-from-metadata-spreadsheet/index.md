@@ -17,7 +17,7 @@ type: "regular"
 
 This post shows how to produce Markdown or HTML documentation from an Excel file exported from the **Metadata Document Generator** XrmToolBox tool.
 
-Adding `concat` columns in the exported spreadsheet gives content that can be included in Markdown or HTML documentation for the columns in Dataverse tables.
+Adding **concat** columns in the exported spreadsheet gives content that can be included in Markdown or HTML documentation for the columns in Dataverse tables.
 
 ---
 
@@ -49,11 +49,11 @@ Provide the file path and select the tables you wish in include in the export - 
 
 ![Add Filename](images/addFileName.png)
 
-Select `Generate document` to export the file. 
+Select **Generate document** to export the file. 
 
 Open the file when the export has completed and select the Metadata tab.
 
-Select a cell that contains a value and use `Ctrl-T` to create a table with the exported contents.  
+Select a cell that contains a value and use **Ctrl-T** to create a table with the exported contents.  
 
 ![Create Table](images/createTable.png)
 
@@ -83,7 +83,7 @@ Select cell P1, the table header cell, and **in the formula bar** paste the cont
 |--|--|--|--|
 ```
 
-The return between the first and second lines is important for the Markdown table as the header and '|--|--...' have to be on separate lines. This can also be typed into the formula bar using `Alt-Enter` to separate the rows.
+The return between the first and second lines is important for the Markdown table as the header and '|--|--...' have to be on separate lines. This can also be typed into the formula bar using **Alt-Enter** to separate the rows.
 
 ![Markdown Table Header](images/markdownTableHeader.png)
 
