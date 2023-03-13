@@ -251,7 +251,7 @@ To give:
 
 ## HTML List
 
-For an [HTML list](https://www.w3schools.com/html/html_lists_unordered.asp), paste into cell S1:
+For an [HTML list](https://www.w3schools.com/html/html_lists_unordered.asp), paste into **cell S1**:
 
 ``` HTML
 <ul>
