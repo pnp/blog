@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/new-team-members-march-2023.png
 tags: []
-type: "regular"
+type: popular
 draft: false
 ---
 
@@ -47,7 +47,7 @@ You will find Adam on:
 * [LinkedIn](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/)
 
 
-## Daniel Laskewitch - Power Platform Developer Advocate
+## Daniel Laskewitz - Power Platform Developer Advocate
 
 ![Daniel Laskewitch](images/daniel.png)
 
