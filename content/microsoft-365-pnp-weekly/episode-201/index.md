@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 201"
-summary: " joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion about  plus 20 articles."
-date: 2023-02-21T02:00:01-00:00
+summary: "US-based Microsoft MVP, Microsoft RD and CPO at Pixelmill - Eric Overfield, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion around wearing many hats, Viva Goals, SharePoint Starter Kit, ChatGPT, conferences plus 22 articles/videos."
+date: 2023-03-13T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,37 +9,50 @@ images:
 - images/pnp-weekly-201-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=WA5UQCU5K2M
-draft: true
+- https://www.youtube.com/watch?v=kdQhzeUsO50
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Microsoft MVP, Microsoft RD and CPO of PixelMill, Cloudspark, and Creospark - [Eric Overfield](https://twitter.com/EricOverfield) \| @EricOverfield
 
 ## Topics discussed in this session
 
-* Itenm
+* What is an RD (Microsoft Regional Director) and the RD program?
+* How Eric came to be an MVP in M365 Apps and Services space?
+* What does it mean to be a CPO (Chief Product Officer)?
+* Why excited about [Viva Goals](https://learn.microsoft.com/viva/goals/intro-to-ms-viva-goals) and a proponent of OKRs (objectives and key results)?
+* What is the SharePoint Starter Kit – a technology demonstrator and more?
+* Why is Teams Premium so enticing?
+* The future of ChatGPT, the business model and implications of usage inside the organization.
+* What about the AI enhanced Bing Mobile app?
+* What does it take to become an MVP?
+* The line-up of community events and conferences this Spring and Summer.
+* On becoming an MVP and the value of MVPs to Microsoft and Community.
 
 **Referenced**
 
-* if any
-* if any
-* if any
+* Repo - [SharePoint Starter Kit v3](https://github.com/pnp/sp-starter-kit)
+* Documentation - [Introduction to Microsoft Viva Goals](https://learn.microsoft.com/viva/goals/intro-to-ms-viva-goals)
+* Bio - <https://rd.microsoft.com/en-us/eric-overfield>
+* March Hack Together \| aka.ms/hack-together - [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0ktYAUCTtVIvJkJdFsfkalUMlM0SVBXRjIyTEFJQVFYOUMzTDE2SEY1WS4u)
 
-Also, we showcased 19 articles/videos published by Microsoft and the community in the last week.
+Also, we showcased 22 articles/videos published by Microsoft and the community in the last week.
 
 ## This week
 
-* **Mustafa** – business as usual
-* **Waldek** – prepping for a 2-week [Hack Together](https://aka.ms/hack-together) with Microsoft Graph and .NET – between March 1st to March 15th - [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0ktYAUCTtVIvJkJdFsfkalUMlM0SVBXRjIyTEFJQVFYOUMzTDE2SEY1WS4u). Also, month-end releases of CLI for Microsoft 365 and Microsoft Graph Developer Proxy.
-* **Vesa** – taking a little time off while overseeing community activities and testing/prepping SPFx v1.17 (beta) for month end release.
+* **Eric** – prepping to release Q1 Refresh. Lining up community events to attend/speak.
+* **Waldek** – wrapping up [Hack Together](https://aka.ms/hack-together) on the March 15th. Choosing Hack winners to be announced on Wednesday March 29th. Creating a session about taking the next step with .NET and Microsoft Graph. Then the usual work on next releases of CLI for Microsoft 365 and Microsoft Graph Developer Proxy.
+* **Vesa** – community stuff and releasing SPFx v1.17 (beta) later this week.
 
 ## Agenda items
 
-[00:00](https://youtu.be/WA5UQCU5K2M?t=0) – Intro
-[02:26](https://youtu.be/WA5UQCU5K2M?t=146) – Interview
-[38:45](https://youtu.be/WA5UQCU5K2M?t=2325) – Post Interview wrap
-[41:57](https://youtu.be/WA5UQCU5K2M?t=2517) – Weekly Articles
-[55:08](https://youtu.be/WA5UQCU5K2M?t=3308) – Closing
+[00:00](https://youtu.be/kdQhzeUsO50?t=0) – Intro
+
+[02:18](https://youtu.be/kdQhzeUsO50?t=138) – Interview
+
+[43:51](https://youtu.be/kdQhzeUsO50?t=2631) – Weekly Articles
+
+[1:05:26](https://youtu.be/kdQhzeUsO50?t=3926) – Closing
 
 ## Action requested
 
@@ -48,9 +61,9 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Monday, March 13, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube WA5UQCU5K2M >}}
+    {{< youtube kdQhzeUsO50 >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-hfy3i-13965d2 >}}   
+    {{< podbean pb-6vf3z-13b6d1d >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -61,14 +74,14 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Hack Together: Microsoft Graph and .NET week 1 recap and what’s coming](https://devblogs.microsoft.com/microsoft365dev/hack-together-microsoft-graph-and-dotnet-week-1-recap/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Microsoft Graph .NET SDK v5 is now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-net-sdk-v5-is-now-generally-available/) - [Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsoft) | @maisarissi_msft
 * [Announcing Microsoft Graph Toolkit v3.0 preview-1](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-toolkit-v3-0-preview-1/) - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
-* [Maximizing Your Productivity with Power Automate: Automating your calendar](https://powerautomate.microsoft.com/en-us/blog/maximizing-your-productivity-with-power-automate-automating-your-calendar/) - Harysh Menon (Microsoft)
-* [11 New Independent Publisher Connectors in February 2023](https://powerautomate.microsoft.com/en-us/blog/11-new-independent-publisher-connectors-in-february-2023/) - Amjed Ayoub (Microsoft)
+* [Maximizing Your Productivity with Power Automate: Automating your calendar](https://powerautomate.microsoft.com/blog/maximizing-your-productivity-with-power-automate-automating-your-calendar/) - Harysh Menon (Microsoft)
+* [11 New Independent Publisher Connectors in February 2023](https://powerautomate.microsoft.com/blog/11-new-independent-publisher-connectors-in-february-2023/) - Amjed Ayoub (Microsoft)
 * [GPT Powered Power Virtual Agents Conversations](https://www.youtube.com/watch?v=ioP02_N3f78) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 
 ## Microsoft events
 
 * [The future of Work with AI](https://www.linkedin.com/events/7038508574142074880/) - 16th of March, 2023
-* [Build once, deploy efficiently, connect across Microsoft 365](https://developer.microsoft.com/en-us/reactor/events/18556/) - 23rd of March, 2023
+* [Build once, deploy efficiently, connect across Microsoft 365](https://developer.microsoft.com/reactor/events/18556/) - 23rd of March, 2023
 
 ## Community articles
 
