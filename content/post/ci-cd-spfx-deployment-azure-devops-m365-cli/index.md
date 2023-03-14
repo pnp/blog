@@ -309,14 +309,17 @@ In release variable tabs link both groups created in earlier step
 ![](images/releasepipelineVirables.PNG)
 
 ### Agent
-  
-    I have used ubuntu-20.04 agent for this release pipeline. You can use any agent which has powershell installed.
-    ![](images/reAgent.PNG)
+
+I have used ubuntu-20.04 agent for this release pipeline. You can use any agent which has powershell installed.
+
+![](images/reAgent.PNG)
+
 
 ### Use Node 14.15.0
 
-    This task is used to install node 14.15.0 on agent machine.
-    ![](images/reNode.PNG)
+This task is used to install node 14.15.0 on agent machine.
+
+![](images/reNode.PNG)
 
 ```yaml
     steps:
@@ -327,8 +330,9 @@ In release variable tabs link both groups created in earlier step
 ```
 ### Install M365 CLI
   
-      This task is used to install M365 CLI on agent machine.
-      ![](images/reInstallCLIPNG.PNG)
+This task is used to install M365 CLI on agent machine.
+
+![](images/reInstallCLIPNG.PNG)
   
 ```yaml
       steps:
@@ -341,8 +345,9 @@ In release variable tabs link both groups created in earlier step
 ```
 ### Download secure file
 
-    This task is used to download secure file which contains certificate file.
-    ![](images/reSecureFile.PNG)
+This task is used to download secure file which contains certificate file.
+
+![](images/reSecureFile.PNG)
 
 ```yaml
     steps:
@@ -353,8 +358,9 @@ In release variable tabs link both groups created in earlier step
 ```
 ### M365 login SPO powershell task
 
-    This task is used to login to SPO using M365 CLI.
-    ![](images/reLoginSPO.PNG)
+This task is used to login to SPO using M365 CLI.
+
+![](images/reLoginSPO.PNG)
 
   > Note: Errors in yaml are show as it cannot see variable required in script function, but should work if powershell files are copied in previous step.
   {: .prompt-info }
@@ -377,8 +383,9 @@ In release variable tabs link both groups created in earlier step
 
   ### SPFx package add, deploy and install
 
-    This task is used to add, deploy and install SPFx package to SPO site.
-    ![](images/reDeploy.PNG)
+This task is used to add, deploy and install SPFx package to SPO site.
+
+![](images/reDeploy.PNG)
 
   > Note: Errors in yaml are show as it cannot see variable required in script function, but should work if powershell files are copied in previous step.
   {: .prompt-info }
@@ -401,10 +408,11 @@ In release variable tabs link both groups created in earlier step
 
 ## Project Folder Structure and scripts used in pipeline
 
-  [https://github.com/ValerasNarbutas/PDPApp](https://github.com/ValerasNarbutas/PDPApp)
+[https://github.com/ValerasNarbutas/PDPApp](https://github.com/ValerasNarbutas/PDPApp)
 
 View in devops
-  ![](images/devopsFolderstructure.PNG)
+
+![](images/devopsFolderstructure.PNG)
 
 ## End of the journey
 
