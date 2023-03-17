@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 20th of March 2023 week
-date: 2023-03-16T09:49:36.301Z
+date: 2023-03-17T04:02:02.301Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -8,8 +8,8 @@ categories:
 images:
   - images/weeklyagenda12.png
 tags: []
-type: regular
-draft: true
+type: trending
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -17,7 +17,7 @@ We want to give you a better overview on what's happening each week. This is a s
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
 {{< notice important>}}
-As United States moves to daylight saving time starting from the Sunday 12th of March which is two weeks before Europe, some of the meeting times might be impacted for you for following two weeks. 
+As United States moves to daylight saving time starting from the Sunday 12th of March which is two weeks before Europe, some of the meeting times might be impacted for you for following week. 
 
 If you have downloaded the recurrent invite, meeting time should be properly adjusted in your calendar.
 {{< /notice >}}
@@ -28,12 +28,12 @@ This is the agenda for the following week:
 
 * Tuesday, 21st of March 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 & Power Platform Community blog - Microsoft 365 & Power Platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
 
 Demos this time
 
+* [Gary Pretty](https://twitter.com/GaryPretty) (Microsoft) - Introduction to the Copilot in Power Virtual Agents
 * [Tomas Chladek](https://twitter.com/tomaschladek2) (Microsoft) | @tomaschladek2 - Additional Azure Communication Services Features​
-* Gary Pretty (Microsoft) - Power Virtual Agents – latest features and capabilities
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder  - Teams Toolkit Learn Path - Add chat capability to Microsoft Teams app using Teams JavaScript client library​
 
 
@@ -45,9 +45,9 @@ Demos this time
 
 Demos: 
 
-* [Paolo Pialorsi](https://twitter.com/PaoloPia) (Piasys.com) | @PaoloPia - Consuming Data API builder with SPFx​
-* [Sergej Schwabauer](https://github.com/SPFxAppDev) (Aurum) | SPFxAppDev - Interactive world map Web Part​
-* [Yves Habersaat](https://twitter.com/yhabersaat) | @yhabersaat - Getting started with Microsoft Graph Presence API and Adaptive Card Extensions
+* [Sergej Schwabauer](https://github.com/SPFxAppDev) (Aurum) | SPFxAppDev - Building advance interactive world map for business information with SPFx
+* [Yves Habersaat](https://twitter.com/yhabersaat) | @yhabersaat - Creating Viva Connections extension with user presence status using Microsoft Graph Presence API and SPFx
+* [Paolo Pialorsi](https://twitter.com/PaoloPia) (Piasys.com) | @PaoloPia - Exposing business data in Microsoft 365 using Azure Data API builder and SPFx
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/m365pnp/request/demo) and we'll get you scheduled!
 
@@ -55,36 +55,23 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Creating an Internal CV (Curriculum Vitae) with List Formatting](https://www.youtube.com/watch?v=QHqhcGw1huA&t=6s) by [Federico Sapia](https://twitter.com/X365Fede) | @X365Fede
-* [Introduction to Viva Connections Toolkit VS Code extension](https://www.youtube.com/watch?v=KqH1iMBNTZc&t=1s) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
-* [Install Viva Connections Toolkit VS Code extension](https://www.youtube.com/watch?v=Fs9r4dvSxU4&t=52s) by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
-* [Validate and install required tooling for Viva Connections development](https://www.youtube.com/watch?v=lAcs45jPU_A&t=10s) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
-* [Create your first Viva Connection extension with VS Code](https://www.youtube.com/watch?v=jXQFgGlId00&t=31s) by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
-* [Debugging your Viva Connections extensions with VS Code extension](https://www.youtube.com/watch?v=6JfXVf_FufI&t=8s) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
-* [Use the Viva Connection Toolkit scenarios to create your solution](https://www.youtube.com/watch?v=OmFKAw0g61w&t=7s) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
-* [Deploy and publish your Viva Connections extensibility to production](https://www.youtube.com/watch?v=ifOj6M7Qpf4&t=7s) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
-* [Using Viva Connections Toolkit with any SPFx solution](https://www.youtube.com/watch?v=UlB3c6-8g_A&t=30s) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
-* [Create an Azure Communication Services Resource](https://www.youtube.com/watch?v=_SlrNEXCG8c&t=6s) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin and [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
-* [How to use "when an action is performed" trigger in Power Automate](https://www.youtube.com/watch?v=MFMwvZ-S3cY&t=3s) by [Yannick Reekmans](https://twitter.com/yannickreekmans) (Qubix) | @yannickreekmans
-* [Add-in Support for New Outlook](https://www.youtube.com/watch?v=fr0ywOlIicU&t=4s) by Nikita Mittal (Microsoft) and [Juan Balmori](https://twitter.com/@juaneloBalmori) ( Microsoft) | @juaneloBalmori
+* [Create a spreadsheet from your website](https://www.youtube.com/watch?v=AIZx7Yjcxzw) by [David Chesnut](https://twitter.com/DavidChesnut) (Microsoft) | @DavidChesnut
+* [Creating an Internal CV (Curriculum Vitae) with List Formatting](https://www.youtube.com/watch?v=QHqhcGw1huA) by [Federico Sapia](https://twitter.com/X365Fede) | @X365Fede
+* [Introduction to Viva Connections Toolkit VS Code extension](https://www.youtube.com/watch?v=KqH1iMBNTZc) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
+* [Create an Azure Communication Services Resource](https://www.youtube.com/watch?v=_SlrNEXCG8c) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin and [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+* [How to use "when an action is performed" trigger in Power Automate](https://www.youtube.com/watch?v=MFMwvZ-S3cY) by [Yannick Reekmans](https://twitter.com/yannickreekmans) (Qubix) | @yannickreekmans
+* [Add-in Support for New Outlook](https://www.youtube.com/watch?v=fr0ywOlIicU) by Nikita Mittal (Microsoft) and [Juan Balmori](https://twitter.com/@juaneloBalmori) ( Microsoft) | @juaneloBalmori
 
 
-We also release new playlist focusing on the [Microsoft Teams app camp](https://www.youtube.com/playlist?list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU) and development scenarios. Please see the following new videos for more details.
+We also release new playlist focusing on the [Microsoft Viva Connections Toolkit](https://www.youtube.com/watch?v=KqH1iMBNTZc&list=PLR9nK3mnD-OW1XNbtsHiFDG___W8wnfHp). Please see the following new videos for more details.
 
-* [Microsoft Teams App Camp: Get started with Teams app development and monetization](https://www.youtube.com/watch?v=hFwLfG95rVU&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=1)
-* [Microsoft Teams App Camp - Microsoft Teams Marketplace Strategy](https://www.youtube.com/watch?v=qcwcOFu8QBU&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=2) - Masako Kodama (Microsoft)
-* [Microsoft Teams App Camp - 5 Steps to Monetize your Teams Application](https://www.youtube.com/watch?v=J7XSf3x05SU&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=3) - James Skay (Microsoft)
-* [Microsoft Teams App Camp - Buying a Teams Application](https://www.youtube.com/watch?v=nuOjlTnoj7s&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=4)
-* [Microsoft Teams App Camp - Anatomy of a SaaS Application](https://www.youtube.com/watch?v=CrvX_UZ38eA&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=5)
-* [Microsoft Teams App Camp - Start with Azure Active Directory - Lab A01](https://www.youtube.com/watch?v=5B50MusyNR8&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=6)
-* [Microsoft Teams App Camp - Create a Teams app with Azure AD Single Sign-On - Lab A02](https://www.youtube.com/watch?v=khpjsWwmB5U&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=7)
-* [Microsoft Teams App Camp - Teams styling and themes - Lab A03](https://www.youtube.com/watch?v=ZfXapTSbECM&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=8)
-* [Microsoft Teams App Camp - Linking your identity system to Azure AD SSO - Lab](https://www.youtube.com/watch?v=02qe0KZB3T0&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=9)
-* [Microsoft Teams App Camp - Create a Configurable Tab - Lab](https://www.youtube.com/watch?v=RjFtsd7KcuE&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=10)
-* [Microsoft Teams App Camp - Add a Deep link to a personal Tab - Lab](https://www.youtube.com/watch?v=i66U1-QSrOI&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=11)
-* [Microsoft Teams App Camp - Add a Messaging Extension - Lab](https://www.youtube.com/watch?v=HzK_YHAz05w&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=12)
-* [Microsoft Teams App Camp - Add a Dialog - Lab](https://www.youtube.com/watch?v=tqNO5qaYmL0&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=13)
-* [Microsoft Teams App Camp - How to monetize your apps - Lab](https://www.youtube.com/watch?v=foPEXYocOmU&list=PLR9nK3mnD-OW5yCjKO0K8b-Xi4Ci1iBlU&index=14)
+* [Install Viva Connections Toolkit VS Code extension](https://www.youtube.com/watch?v=Fs9r4dvSxU4) by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
+* [Validate and install required tooling for Viva Connections development](https://www.youtube.com/watch?v=lAcs45jPU_A) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
+* [Create your first Viva Connection extension with VS Code](https://www.youtube.com/watch?v=jXQFgGlId00) by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
+* [Debugging your Viva Connections extensions with VS Code extension](https://www.youtube.com/watch?v=6JfXVf_FufI) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
+* [Use the Viva Connection Toolkit scenarios to create your solution](https://www.youtube.com/watch?v=OmFKAw0g61w) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
+* [Deploy and publish your Viva Connections extensibility to production](https://www.youtube.com/watch?v=ifOj6M7Qpf4) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
+* [Using Viva Connections Toolkit with any SPFx solution](https://www.youtube.com/watch?v=UlB3c6-8g_A) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 
 ---
 
@@ -92,6 +79,8 @@ We also release new playlist focusing on the [Microsoft Teams app camp](https://
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [Tailored SDK experiences via Kiota now generally available](https://devblogs.microsoft.com/microsoft365dev/tailored-sdk-experiences-via-kiota-now-generally-available/) by [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani & [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
+* [Microsoft Teams App Camp in a Box is now available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-app-camp-in-a-box-is-now-available/) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Recent changes to data visibility for Microsoft Graph callRecords APIs](https://devblogs.microsoft.com/microsoft365dev/recent-changes-to-data-visibility-for-microsoft-graph-callrecords-apis/)
 * [Viva Connections Toolkit for Visual Studio Code now in preview](https://devblogs.microsoft.com/microsoft365dev/preview-of-viva-connections-toolkit-for-vs-code/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Hack Together: Microsoft Graph and .NET week 2 recap and final week overview](https://devblogs.microsoft.com/microsoft365dev/hack-together-microsoft-graph-and-net-week-2-recap-and-final-week-overview/) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
@@ -113,6 +102,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Microsoft 365 & Power Platform Development Community call - 16th of March, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-03-16/)
+* [Power Platform Community Call – March 2023](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-march-2023/)
 * [Microsoft 365 Platform Community Call - 14th of March, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-03-14/)
 
 ---
