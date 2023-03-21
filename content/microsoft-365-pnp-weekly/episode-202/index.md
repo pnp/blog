@@ -1,53 +1,53 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 202"
-summary: ", joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion around  plus xx articles/videos."
-date: 2023-03-13T02:00:01-00:00
+summary: "US-based Microsoft MVP, Vice President at tyGraph - Corey Roth, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion around product strategy, AI for analytics, role of VP Product Strategy, on becoming and tips for becoming an MVP, plus 20 articles/videos."
+date: 2023-03-20T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-201-promo.png
+- images/pnp-weekly-202-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=kdQhzeUsO50
-draft: true
+- https://www.youtube.com/watch?v=NNEDqTz6Cts
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Microsoft MVP, Microsoft RD and CPO of PixelMill, Cloudspark, and Creospark - [Eric Overfield](https://twitter.com/EricOverfield) \| @EricOverfield
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Microsoft MVP and Vice President of Engineering at tyGraph - [Corey Roth](https://twitter.com/coreyroth) \| @coreyroth
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* What capabilities are delivered by the tyGraph and AvePoint suite of products?
+* Where are we at with AI for analytics?
+* What is the job of a VP of Product Strategy?
+* How do you get to be a VP of Product Strategy?
+* How did you become an MVP?
+* What does the MVP mean to you - how did your community connections help you get to where you are and in the organization you are with?
+* What are your 3 recommendations for becoming an MVP in 2023?
 
 **Referenced**
 
-* Repo - [SharePoint Starter Kit v3](https://github.com/pnp/sp-starter-kit)
-* Documentation - [Introduction to Microsoft Viva Goals](https://learn.microsoft.com/viva/goals/intro-to-ms-viva-goals)
-* Bio - <https://rd.microsoft.com/en-us/eric-overfield>
-* March Hack Together \| aka.ms/hack-together - [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0ktYAUCTtVIvJkJdFsfkalUMlM0SVBXRjIyTEFJQVFYOUMzTDE2SEY1WS4u)
+* Website – [tyGraph.com](https://www.tygraph.com/)
+* Website – [AvePoint.com](https://www.avepoint.com/)
+* Blog – [Corey Roth's Blog](https://coreyroth.com/)
 
-Also, we showcased 22 articles/videos published by Microsoft and the community in the last week.
+Also, we showcased 20 articles/videos published by Microsoft and the community in the last week.
 
 ## This week
 
-* **Corey** – 
-* **Waldek** – 
-* **Vesa** – 
+* **Corey** – planning cycle - defining capabilities in the tyGraph product roadmap along with further integration between AvePoint and tyGraph products.
+* **Waldek** – Reviewing 130 virtual [Hack Together](https://aka.ms/hack-together) projects from tutorials to complex apps. All submissions are first rate. The plan is to announce winners on Wednesday, March 29th.
+* **Vesa** – releasing 2nd beta of SPFx v1.17 (beta) on March 21st (Tuesday). Refining release notes presently.
 
 ## Agenda items
 
-[00:00](https://youtu.be/kdQhzeUsO50?t=0) – Intro
+[00:00](https://youtu.be/NNEDqTz6Cts?t=0) – Intro
 
-[02:18](https://youtu.be/kdQhzeUsO50?t=138) – Interview
+[01:50](https://youtu.be/NNEDqTz6Cts?t=110) – Interview
 
-[43:51](https://youtu.be/kdQhzeUsO50?t=2631) – Weekly Articles
+[39:59](https://youtu.be/NNEDqTz6Cts?t=2399) – Weekly Articles
 
-[1:05:26](https://youtu.be/kdQhzeUsO50?t=3926) – Closing
+[1:05:33](https://youtu.be/NNEDqTz6Cts?t=3933) – Closing
 
 ## Action requested
 
@@ -56,9 +56,9 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Monday, March 20, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube kdQhzeUsO50 >}}
+    {{< youtube NNEDqTz6Cts >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-6vf3z-13b6d1d >}}   
+    {{< podbean pb-gr6za-13c0bd8 >}}   
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -66,7 +66,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Microsoft articles
 
-* [Introducing Microsoft 365 Copilot—A whole new way to work](https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/) - Colette Stallbaumer (Microsoft)
+* [Introducing Microsoft 365 Copilot—A whole new way to work](https://www.microsoft.com/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/) - Colette Stallbaumer (Microsoft)
 * [Administration of Microsoft 365 in the new era of AI](https://techcommunity.microsoft.com/t5/microsoft-365-blog/administration-of-microsoft-365-in-the-new-era-of-ai/ba-p/3767079) - Microsoft
 * [Explaining the Microsoft 365 Copilot System](https://www.youtube.com/watch?v=8_lXSmlwk1s) - Microsoft
 * [Tips for using Teams chat to stay organized, engaged, and have fun](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/tips-for-using-teams-chat-to-stay-organized-engaged-and-have-fun/ba-p/3766735) - Noga Ronen (Microsoft)
@@ -75,7 +75,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Recent changes to data visibility for Microsoft Graph callRecords APIs](https://devblogs.microsoft.com/microsoft365dev/recent-changes-to-data-visibility-for-microsoft-graph-callrecords-apis/) - Microsoft
 * [Microsoft Teams App Camp in a Box is now available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-app-camp-in-a-box-is-now-available/) - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Tailored SDK experiences via Kiota now generally available](https://devblogs.microsoft.com/microsoft365dev/tailored-sdk-experiences-via-kiota-now-generally-available/) - [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani & [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
-* [Announcing Tenant Switcher in Power Apps Mobile](https://powerapps.microsoft.com/en-us/blog/switch-directories-in-power-apps-mobile/) - Tristan Dehove (Microsoft)
+* [Announcing Tenant Switcher in Power Apps Mobile](https://powerapps.microsoft.com/blog/switch-directories-in-power-apps-mobile/) - Tristan Dehove (Microsoft)
 * [New Microsoft 365 & Power Platform Community coordination team members – March 2023](https://pnp.github.io/blog/post/new-community-team-members-march-2023/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen 
 * [The easiest way to test how your app handles API errors](https://blog.mastykarz.nl/easiest-way-test-app-handles-api-errors/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Power Apps Copilot is here - Let's Get Hands On With It](https://www.youtube.com/watch?v=FMEQT8NC-5I) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
