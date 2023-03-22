@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 20th of February 2023 week
-date: 2023-02-15T07:02:45.303Z
+date: 2023-02-17T07:02:45.303Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -9,16 +9,16 @@ images:
   - images/weeklyagenda08.png
 tags: []
 type: regular
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
 
-Get involved by joining a call! We host a variety of [community calls](https://aka.ms/m365/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
+Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
 This is the agenda for the following week:
 
-### Microsoft 365 platform call - 21st of February
+### Microsoft 365 Platform call - 21st of February
 
 * Tuesday, 21st of February 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
@@ -42,6 +42,7 @@ Demos:
 
 * [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot - Exploring the depths of undocumented admin REST API through an SPFx solution
 * [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech - Simplify your code with react-query
+* [Matteo Serpi](https://github.com/srpmtt) | srpmtt - SPFx Web Part Sample - Dynamically build feedback forms using PNPJS clientside-pages module
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -49,8 +50,11 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ## New videos
 
-Update of the newly published videos in our YouTube channel [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
+Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Building SPFx Visio file presenter for Teams and SharePoint](https://www.youtube.com/watch?v=WQ7eaxPyTqg) by [Nikolay Belykh](https://www.linkedin.com/in/nbelyh/) (unmanagedvisio)
+* [Mention a bot from a Power Automate flow](https://www.youtube.com/watch?v=jIrXxjmhve0) by [Dennis Goedegebuure](https://twitter.com/expiscornovus) (Ultima Business Solutions) | @expiscornovus
+* [Create a conversational bot in Microsoft Teams using OpenAI](https://www.youtube.com/watch?v=PtdOdYax84A) by [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford 
 * [Building a Name Pronunciation Database with Power Apps and Power Automate](https://www.youtube.com/watch?v=As0ie1bXVvQ) by [Lindsay Shelton](https://twitter.com/lshelton_tech) (Stowers Institute for Medical Research) | @lshelton_tech
 * [Jeff Teper invites you to the Microsoft 365 Conference (May 2-4, 2023)](https://www.youtube.com/watch?v=XeDmQSiU-w8)
 * [Creating Viva Connections SPFx ACE with geo-location capabilities](https://www.youtube.com/watch?v=di3HBsAXE-g) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell and [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
@@ -70,14 +74,15 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft 365 & Power Platform Development Community call - 2nd of February, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-02-02/)
-* [Microsoft 365 Platform Community Call - 31st of January, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-01-31/)
+* [Microsoft 365 & Power Platform Development Community call - 16th of February, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-02-16/)
+* [Power Platform Community Call – February 2023](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-february-2023/)
+* [Microsoft 365 Platform Community Call - 14th of February, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-02-14/)
 
 ---
 
 ## Sharing is Caring sessions
 
-If you are looking to learn how to use the Microsoft 365 Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
+If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
 
 * [Power Platform Samples Contributor - 23rd of February, 2023](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUN0hMNTRPWVVWTkhFTk9QQzhFSTRIS1JLSC4u)
 * [Maturity Model Practitioners - monthly meeting](https://aka.ms/mm4m365/invite)
@@ -93,7 +98,6 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 ## Upcoming events
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
-
 
 * [Workplacedudes Summit](https://www.communitydays.org/event/2023-02-24/workplacedudes-summit) - February 24, 2023 - Nieuwkoop, Netherlands
 * [Global Power Platform Bootcamp 2023](https://www.communitydays.org/event/2023-02-24/global-power-platform-bootcamp-2023-new-york) - February 24-25, 2023 - New York, NY, USA
