@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 7th of March, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 7th of March, 2023"  
 summary: "Demos: Microsoft Graph Hackathon – first week recap, Dynamically Create an Azure Communication Services Identity and Token, and Teams Toolkit Learn Path - Build a Microsoft Teams tab app using Teams Toolkit for Visual Studio Code, plus 10 articles, 2 conversations."
 date: 2023-03-07T03:00:00.000Z
 author: "Vesa Juvonen"
