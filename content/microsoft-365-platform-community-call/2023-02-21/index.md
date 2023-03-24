@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 21st of February, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 21st of February, 2023"  
 summary: "Two demos: Integrate Azure Communication Services Calling into a React App and Teams Toolkit Learn Path – Get started building apps for Microsoft Teams using Teams Toolkit for Visual Studio Code. 6 new articles and 1 conversation."
 date: 2023-02-21T04:00:00.000Z
 author: "Vesa Juvonen"

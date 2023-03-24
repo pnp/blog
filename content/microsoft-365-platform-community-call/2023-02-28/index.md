@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 28th of February, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 28th of February, 2023"  
 summary: "Three demos: Dynamically Create a Microsoft Teams Meeting using Microsoft Graph, Teams Toolkit Learn Path - Build a bot using Teams Toolkit for Visual Studio Code, and Remotely debug your Microsoft Teams apps from any device using Vorlon.js."
 date: 2023-02-28T04:00:00.000Z
 author: "Vesa Juvonen"
