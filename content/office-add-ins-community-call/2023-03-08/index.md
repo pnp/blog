@@ -120,7 +120,7 @@ We don't have any plans to support this in the near future.
 
 ## Stay connected
 
-* See the full blog post for this call in the Microsoft 365 platform community blog [https://aka.ms/m365pnp/blog](https://aka.ms/m365pnp/blog)
+* See the full blog post for this call in the [Microsoft 365 platform community blog](https://aka.ms/m365pnp/blog)
 * [Twitter](https://twitter.com/microsoft365dev)
 * [Microsoft 365 Unified Sample gallery](https://aka.ms/community/samples)
 * [Microsoft 365 Platform Community in YouTube](https://aka.ms/community/videos)
