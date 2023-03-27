@@ -1,55 +1,51 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 203"
-summary: ", plus 23 articles/videos."
-date: 2023-03-28T02:00:01-00:00
+summary: "Germany-based Microsoft MVP, Developer - Luise Freese, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion around integrating apps across clouds, opinions on AI and ChatGPT, the driving force behind Luisa’s ability to do so much, plus 23 articles/videos."
+date: 2023-03-27T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-202-promo.png
+- images/pnp-weekly-203-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=NNEDqTz6Cts
+- https://www.youtube.com/watch?v=Wi4t4aMGXyQ
 draft: true
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Microsoft MVP and Vice President of Engineering at tyGraph - [Corey Roth](https://twitter.com/coreyroth) \| @coreyroth
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Germany-based Microsoft MVP, Developer, Consultant - [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* What is Luise’s favorite number, what did she quit drinking at the beginning of the year, what is her daily routine and for what purpose is she in Amsterdam this week?
+* Approaches for integrating apps in 3 different clouds.
+* On managing the “spread of tools.”
+* Our many identities. Why is identity management challenging?
+* Opinions on AI and ChatGPT – trials, learnings, how might ChatGPT become a part of how we work?
+* Appreciating the breadth of activities covered by Luise each day and the driver behind how she does it.
+* Why Luise loves events and her recommendations on becoming a presenter.
 
 **Referenced**
 
-* Website – [tyGraph.com](https://www.tygraph.com/)
-* Website – [AvePoint.com](https://www.avepoint.com/)
-* Blog – [Corey Roth's Blog](https://coreyroth.com/)
+* [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
 
 Also, we showcased 23 articles/videos published by Microsoft and the community in the last week.
 
 ## This week
 
-* **Luise** – 
-* **Waldek** – 
-* **Vesa** – 
+* **Luise** – planning for ESPC23 in Amsterdam.
+* **Waldek** – announcing winners of Virtual Hack Together on March 29th (Wednesday). New releases of Microsoft Graph Developer Proxy and CLI for Microsoft 365 due out this week. Kicking off a new initiative around Microsoft Graph.
+* **Vesa** – releasing SPFx v1.17 (RC) on March 28th (Tuesday). Attention to community calls and actions.
 
 ## Agenda items
 
-[00:00](https://youtu.be/NNEDqTz6Cts?t=0) – Intro
+[00:00](https://youtu.be/Wi4t4aMGXyQ?t=0) – Intro
 
-[01:50](https://youtu.be/NNEDqTz6Cts?t=110) – Interview
+[01:27](https://youtu.be/Wi4t4aMGXyQ?t=87) – Interview
 
-[39:59](https://youtu.be/NNEDqTz6Cts?t=2399) – Weekly Articles
+[46:55](https://youtu.be/Wi4t4aMGXyQ?t=2815) – Weekly Articles
 
-[1:05:33](https://youtu.be/NNEDqTz6Cts?t=3933) – Closing
+[1:10:52](https://youtu.be/Wi4t4aMGXyQ?t=4252) – Closing
 
 ## Action requested
 
@@ -58,9 +54,9 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Monday, March 27, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube NNEDqTz6Cts >}}
+    {{< youtube Wi4t4aMGXyQ >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-gr6za-13c0bd8 >}}   
+    <!---{{< podbean pb-gr6za-13c0bd8 >}}--->
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -78,7 +74,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Updated public preview of SharePoint Framework 1.17 – Preview on upcoming features](https://devblogs.microsoft.com/microsoft365dev/updated-public-preview-of-sharepoint-framework-1-17-preview-on-upcoming-features/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * [Teams Toolkit for Visual Studio Code update – March 2023](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-march-2023/) - Junjie Li (Microsoft)
 * [Build custom communication experiences with Azure Communication Services UI Library for Microsoft Teams users](https://devblogs.microsoft.com/microsoft365dev/build-custom-communication-experiences-with-azure-communication-services-ui-library-for-microsoft-teams-users/) - [David de Matheu](https://twitter.com/ddematheu) (Microsoft) | @ddematheu
-* [Celebrating the first graduates of the Microsoft Power Up Program](https://powerapps.microsoft.com/en-us/blog/celebrating-the-first-graduates-of-the-microsoft-power-up-program/) - Dimpi Gandhi (Microsoft)
+* [Celebrating the first graduates of the Microsoft Power Up Program](https://powerapps.microsoft.com/blog/celebrating-the-first-graduates-of-the-microsoft-power-up-program/) - Dimpi Gandhi (Microsoft)
 * [Build a Viva Connections card to display stock prices - Part 1: the backend](https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/build-a-viva-connections-card-to-display-stock-prices-part-1-the/ba-p/3773345) - [Matteo Pagani](https://twitter.com/qmatteoq) (Microsoft) | @qmatteoq
 * [Build a Viva Connections card to display stock prices - Part 2: the card](https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/build-a-viva-connections-card-to-display-stock-prices-part-2-the/ba-p/3773938) - [Matteo Pagani](https://twitter.com/qmatteoq) (Microsoft) | @qmatteoq
 * [Build a Viva Connections card to display stock prices - Part 3: deployment and security](https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/build-a-viva-connections-card-to-display-stock-prices-part-3/ba-p/3774021) - [Matteo Pagani](https://twitter.com/qmatteoq) (Microsoft) | @qmatteoq
