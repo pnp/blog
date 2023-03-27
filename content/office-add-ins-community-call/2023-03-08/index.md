@@ -56,7 +56,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Q&A (Question & Answers)
 
-**How long does it take to reflect the changes made in app registration inside azure portal to the development?**
+**How long does it take to reflect the changes made in app registration inside Azure portal to the development?**
 
 Need Answer.
 
