@@ -1,6 +1,6 @@
 ---
 title: "Office Add-ins developer platform community call – March 8th, 2023"
-summary: "Topic included was: March 2023 Word Extensibility APIs (Preview) presented by Yun Wang, Principal Product Manager at Microsoft. The call was hosted by Preethika Kiruveedula. Recorded on March 8, 2023."
+summary: "Topic: March 2023 Word Extensibility APIs (preview) presented by Yun Wang, Principal Product Manager at Microsoft. The call was hosted by Preethika Kiruveedula. Recorded on March 8, 2023."
 date: 2023-03-08T08:01:00-05:00
 author: "Preethika Kiruveedula"
 githubname: preethikakiru
