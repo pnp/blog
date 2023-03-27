@@ -62,7 +62,7 @@ Need Answer.
 
 **What's the timeframe for providing feedback from the "Auto install and auto launch add-ins for Word, Excel, and PowerPoint" survey?**
 
-Thank you for sharing great feedback. We are planning to present the survey results in the next community call.
+Thank you for sharing great feedback. We're planning to present the survey results in the next community call.
 
 **Are the functions in the demo still in beta?**
 
