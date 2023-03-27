@@ -79,7 +79,7 @@ To learn more about the Word JavaScript API in preview, see [Word JavaScript pre
    * As part of the handler of that event, display a notification bar so the user can select from the predefined list of subjects.  
    * When the notification bar is clicked, you can open a task pane from which the user can select and insert. 
    * To make sure that the user is actually changing the subject, add an OnSend event handler. After the user clicks “send” you can validate if the subject is compliant and stop the send until the user changes it.
-2. The ability to support on-send Outlook events (or Smart Alerts) in iPhone or Android. This is in our backlog and  been currently planned for implementation. 
+2. Regarding the ability to support on-send Outlook events (or Smart Alerts) in iPhone or Android, this is in our backlog and is planned for implementation. 
 
 **I am looking at developing an add-in for PowerPoint. As the task pane and content add-in have different functions, are we able to essentially combine them into one add-in for the user? Or are there any issues with having two types of add-ins, with one add-in drawing information from the other? Would also like to know if there are any restrictions or security issues from developing the add-in this way.**
 
