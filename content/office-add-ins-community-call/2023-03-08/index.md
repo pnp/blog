@@ -35,7 +35,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Topic summaries
 
-* **Word Extensibility APIs (Preview) - March 2023.** Five Word desktop APIs reviewed in last month’s call plus 3 new features (Application.retrieveStylesFromBase64, recognize deleted content controls and plain text content control support), are available now for you to test.  Requires running desktop version 16.0.16130.20218 and above.  Hear about all 8 desktop features plus 1 new Word online feature “Track changes for content controls” is now in production.  Targeting mid-year GA on features.
+* **Word Extensibility APIs (preview) - March 2023.** Five Word desktop APIs reviewed in last month’s call plus three new features (Application.retrieveStylesFromBase64, recognize deleted content controls and plain text content control support), are available now for you to test.  Requires running desktop version 16.0.16130.20218 and above.  Hear about all eight desktop features plus one new Word online feature “Track changes for content controls” is now in production. Targeting mid-year GA on features.
 
 ## Call to action
 
