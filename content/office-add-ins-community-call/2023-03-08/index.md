@@ -51,7 +51,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
-* [Next community call ](https://aka.ms/officeaddinscommunitycall) on April 12th at 8:00 AM Pacific Time.
+* [Next community call](https://aka.ms/officeaddinscommunitycall) on April 12th at 8:00 AM Pacific Time.
 * Please complete the [Office add-in developing experience survey](https://forms.office.com/r/wmzCgccbPa).
 
 ## Q&A (Question & Answers)
