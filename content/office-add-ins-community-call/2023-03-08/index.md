@@ -93,7 +93,7 @@ We don't have any plans to support this in the near future.
 
 * Feedback Repo: [Issues – OfficeDev/Office-js](https://github.com/OfficeDev/office-js/issues)
 * Add-in: [Grammarly for Microsoft Word and Outlook](https://www.grammarly.com/office-addin)
-* Community panels – discussion and feedback 
+* Community panels – discussion and feedback:
   * [Outlook add-ins](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
   * [Excel add-ins](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
   * [Word add-ins ](https://ux.microsoft.com/Panel/WordAddinDeveloper)
