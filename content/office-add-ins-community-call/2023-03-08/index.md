@@ -60,7 +60,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 Need Answer.
 
-**What's the timeframe for providing feedback from the "Auto install and auto launch add-ins for Word, Excel and PowerPoint" survey?**
+**What's the timeframe for providing feedback from the "Auto install and auto launch add-ins for Word, Excel, and PowerPoint" survey?**
 
 Thank you for sharing great feedback. We are planning to present the survey results in the next community call.
 
