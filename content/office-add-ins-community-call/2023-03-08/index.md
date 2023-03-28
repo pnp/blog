@@ -39,7 +39,6 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Call to action
 
-* Call to Action for Outlook Add-in Mobile Developers – provide feedback on Outlook add-in scenarios you are trying to support [Outlook Mobile Add-in Developer Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw5b9d2wAdRLj9NKAu1xfddUM1pW).
 * Join a community panel – product focused add-in discussion groups.
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
