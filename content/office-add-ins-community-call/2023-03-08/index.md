@@ -86,7 +86,7 @@ It isn't currently possible to develop a task pane and content add-in in a singl
 
 **Will task pane in Outlook add-in support change default width?**
 
-We don't have any plans to support this in the near future.
+We don't have any plans to support this in the near future. That being said if you would like to submit a feature request for this you can create one here: [https://aka.ms/m365dev-suggestions](https://aka.ms/m365dev-suggestions).
 
 ## Resources related to to this blog's content
 
