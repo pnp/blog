@@ -1,5 +1,5 @@
 ---
-title: "Deploying and Installing SharePoint Framework (SPFx) using PowerShell to a hub site"
+title: "Deploying and Installing SharePoint Framework (SPFx) using PowerShell Hub Site and Associated Sites"
 date: 2023-03-27T10:00:00.000Z
 author: Reshmee Auckloo
 githubname: reshmee011
@@ -14,12 +14,11 @@ type: regular
 draft: false
 ---
 
-
-## Deploying and Installing SharePoint Framework (SPFx) using PowerShell to a hub site
+## Deploying and Installing SharePoint Framework (SPFx) using PowerShell to Hub Site and Associated Sites
 
 [SharePoint Framework] (https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365. It provides a set of tools and libraries that developers can use to create client-side web parts, extensions, and other customizations.
 
-In this article, we will explain the PowerShell code that can be used to deploy and install SPFx packages to multiple site collections within a hub site. There is no "hub site app catalog." at the time of writing the current blog post. Instead, each site collection in SharePoint Online can have its own app catalog, or the tenant can have a tenant-level app catalog. One scenerio to use the script is to deploy or update SPFx solution(s) across all intranet sites associated with a hub site.
+In this article, we will explain the PowerShell code that can be used to deploy and install SPFx packages to a hub site and associated sites. There is no "hub site app catalog" at the time of writing the current blog post. Instead, each site collection in SharePoint Online can have its own app catalog, or the tenant can have a tenant-level app catalog. One scenerio to use the script is to deploy or update SPFx solution(s) across all intranet sites associated with a hub site.
 
 The script provided in the code above is designed to deploy SPFx packages to all site collections that are associated with a particular hub site. If an app catalog does not exist in a site collection, the script will create one before deploying the SPFx package.
 
@@ -29,7 +28,17 @@ Once you have updated the variables in the script, you can run it from a PowerSh
 
 It is worth noting that the script assumes that all site collections associated with the hub site should have the same set of SPFx packages deployed. If you need to deploy different sets of packages to different site collections, you will need to modify the script accordingly.
 
-PowerShell Code Explanation
+## Pre-requisites
+
+Before we begin, make sure you have the following pre-requisites in place:
+
+- Office 365 tenant
+- SharePoint app catalog at the tenant or site collection level
+- Hub site and associated sites
+- SPFx package files in a folder accessible to the PowerShell script
+- PowerShell PnP module installed
+
+## PowerShell Code Explanation
 
 ```powershell
 $adminCenterURL=https://tenant-admin.sharepoint.com
@@ -122,8 +131,19 @@ Get-PnPTenantSite -Detailed | select url | ForEach-Object {
 
 #Export the result Array to CSV file
 $ViewCollection | Export-CSV $OutPutView -Force -NoTypeInformation
-#Disconnect-PnPOnline
+Disconnect-PnPOnline
 ```
-The script loops through all site collections associated with a Hub Site, adds the specified SPFx package file to their app catalogs, installs the app to the site if it's not already installed, updates the installed app to the latest version, and exports the results to a CSV file. It also checks and creates a site collection app catalog for each site collection if one doesn't exist.
+Here's how the above snippet works:
+1. Get the hub site ID using the `Get-PnPTenantSite` cmdlet.
+2. Get all site collections associated with the hub site using the `Get-PnPTenantSite` cmdlet.
+3. For each site collection, check if it's associated with the hub site using the site's `HubSiteId` property.
+4. Connect to the site using `Connect-PnPOnline`.
+5. Check if the site collection app catalog exists. If it doesn't, create it using `Add-PnPSiteCollectionAppCatalog`.
+6. Deploy the SPFx package using `Add-pnpapp`.
+7. Check if the package is already installed on the site using `Get-PnPApp`.
+8. If the package is not installed, install it using `Install-PnPApp`.
+9. If a newer version of the package is available, update the package using `Update-PnPApp`.
+10. Export the site collection URL, package name, and package version to a CSV file for a record of what's updated
 
+ 
 ![example.png](images/example.png)
