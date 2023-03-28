@@ -20,20 +20,12 @@ draft: false
 
 In this article, we will explain the PowerShell code that can be used to deploy and install SPFx packages to a hub site and associated sites. There is no "hub site app catalog" at the time of writing the current blog post. Instead, each site collection in SharePoint Online can have its own app catalog, or the tenant can have a tenant-level app catalog. One scenerio to use the script is to deploy or update SPFx solution(s) across all intranet sites associated with a hub site.
 
-The script provided in the code above is designed to deploy SPFx packages to all site collections that are associated with a particular hub site. If an app catalog does not exist in a site collection, the script will create one before deploying the SPFx package.
-
-In order to use this script successfully, you will need to have the necessary permissions to create app catalogs and deploy SPFx packages. You will also need to update the variables in the script to reflect your specific environment, including the URL of the SharePoint Online admin center, the URL of the hub site, and the file path to the SPFx packages that you want to deploy.
-
-Once you have updated the variables in the script, you can run it from a PowerShell console or from a PowerShell script editor like Visual Studio Code. The script will iterate through all site collections associated with the hub site, create app catalogs if necessary, and deploy the SPFx packages.
-
-It is worth noting that the script assumes that all site collections associated with the hub site should have the same set of SPFx packages deployed. If you need to deploy different sets of packages to different site collections, you will need to modify the script accordingly.
-
 ## Pre-requisites
 
 Before we begin, make sure you have the following pre-requisites in place:
 
+- SharePoint Administrator rights
 - Office 365 tenant
-- SharePoint app catalog at the tenant or site collection level
 - Hub site and associated sites
 - SPFx package files in a folder accessible to the PowerShell script
 - PowerShell PnP module installed
@@ -55,6 +47,13 @@ $packageFiles = Get-ChildItem $sppkgFolder
 ```
 
 This section of the code sets some variables that will be used later. The $AdminCenterURL variable is the URL of the SharePoint Online admin center. The $dateTime variable is a formatted date string that will be used in the output file name. The $directorypath variable is the directory path of the current script. The $fileName variable is the name of the output file that will be created. The $hubSiteUrl variable is the URL of the hub site where the SPFx packages will be deployed. The $OutPutView variable is the full path of the output file that will be created. The $sppkgFolder variable is the path to the folder where the SPFx packages are stored. Finally, the Get-ChildItem cmdlet is used to get a list of all the files in the $sppkgFolder folder.
+
+In order to use this script successfully, you will need to have the necessary permissions to create app catalogs and deploy SPFx packages. You will also need to update the variables in the script to reflect your specific environment, including the URL of the SharePoint Online admin center, the URL of the hub site, and the file path to the SPFx packages that you want to deploy.
+
+Once you have updated the variables in the script, you can run it from a PowerShell console or from a PowerShell script editor like Visual Studio Code. The script will iterate through all site collections associated with the hub site, create app catalogs if necessary, and deploy the SPFx packages.
+
+It is worth noting that the script assumes that all site collections associated with the hub site should have the same set of SPFx packages deployed. If you need to deploy different sets of packages to different site collections, you will need to modify the script accordingly.
+
 
 ```powershell
 Connect-PnPOnline $adminCenterURL -Interactive
@@ -133,7 +132,9 @@ Get-PnPTenantSite -Detailed | select url | ForEach-Object {
 $ViewCollection | Export-CSV $OutPutView -Force -NoTypeInformation
 Disconnect-PnPOnline
 ```
+
 Here's how the above snippet works:
+
 1. Get the hub site ID using the `Get-PnPTenantSite` cmdlet.
 2. Get all site collections associated with the hub site using the `Get-PnPTenantSite` cmdlet.
 3. For each site collection, check if it's associated with the hub site using the site's `HubSiteId` property.
