@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 203"
-summary: "Germany-based Microsoft MVP, Developer - Luise Freese, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion around integrating apps across clouds, opinions on AI and ChatGPT, the driving force behind Luisa’s ability to do so much, plus 23 articles/videos."
+summary: "Germany-based Microsoft MVP, Developer - Luise Freese, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion around integrating apps across clouds, opinions on AI and ChatGPT, the driving force behind Luise’s ability to do so much, plus 23 articles/videos."
 date: 2023-03-27T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
