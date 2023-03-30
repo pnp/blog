@@ -57,7 +57,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 **How long does it take to reflect the changes made in app registration inside Azure portal to the development?**
 
-Need Answer.
+It is generally a pretty quick process; that being said, there could be a myriad of reasons such as location that maybe causing delay. It would be great if you could provide us with more context here [Github office-js issues](https://github.com/OfficeDev/office-js/issues).
 
 **What's the timeframe for providing feedback from the "Auto install and auto launch add-ins for Word, Excel, and PowerPoint" survey?**
 
