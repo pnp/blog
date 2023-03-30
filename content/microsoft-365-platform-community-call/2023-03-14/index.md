@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 14th of March, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 14th of March, 2023"  
 summary: "Demos: Boost your conversations in Microsoft Teams with Chat GPT AI and Power Virtual Agents and Deploying the Azure Communications Services Application to Azure. Recap week 2 - Microsoft Graph Hackathon, plus 4 articles and 3 conversations."
 date: 2023-03-14T03:00:00.000Z
 author: "Vesa Juvonen"

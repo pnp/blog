@@ -8,8 +8,8 @@ categories:
 images:
   - images/weeklyagenda13.png
 tags: []
-type: regular
-draft: true
+type: trending
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -32,9 +32,9 @@ This is the agenda for the following week:
 
 Demos this time
 
-* [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband & [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev - SPFx v1.17 release - what's new and what's there 
+* [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband & [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev - SPFx v1.17 release - Live covered of new features and capabilities
 * [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert - Kiota SDK generator is now available - What you need to know!
-* [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder - Teams Toolkit Learn Path - Deploy a Microsoft Teams app to Azure using Teams Toolkit for Visual Studio Code
+* [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder - Deploy a Microsoft Teams app to Azure using Teams Toolkit for Visual Studio Code
 
 
 ### Microsoft 365 & Power Platform Community Call - 30th of March
@@ -60,13 +60,15 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Word Extensibility APIs (Preview) - March 2023](https://www.youtube.com/watch?v=J2yBraxqj5o) - Yun Wang, Principal Product Manager (Microsoft)
+* [Improve your test strategy with Microsoft Graph Developer Proxy](https://www.youtube.com/watch?v=L8E4PddI2sQ) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
 * [Acquiring and adding custom cards to Viva Connections dashboard](https://www.youtube.com/watch?v=6GcTE2pZnaY) by Catherine Chuaga (Microsoft)
 * [Build a bot using Microsoft Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=naNkZ6W1GHU) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Dynamically Create a Microsoft Teams Meeting using Microsoft Graph](https://www.youtube.com/watch?v=nIYP2fCtnws) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin and [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 * [Building Microsoft Teams tabs with Adaptive Cards](https://www.youtube.com/watch?v=k49Yrmu6ad0) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986) (Content and Cloud) | @raminahmadi1986
 
 
-We also release new playlist focusing on the [Microsoft Viva Connections Toolkit](https://www.youtube.com/watch?v=KqH1iMBNTZc&list=PLR9nK3mnD-OW1XNbtsHiFDG___W8wnfHp). Please see the following new videos for more details.
+We also recently released new playlist focusing on the [Microsoft Viva Connections Toolkit](https://www.youtube.com/watch?v=KqH1iMBNTZc&list=PLR9nK3mnD-OW1XNbtsHiFDG___W8wnfHp). Please see the following new videos for more details.
 
 * [Install Viva Connections Toolkit VS Code extension](https://www.youtube.com/watch?v=Fs9r4dvSxU4) by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 * [Validate and install required tooling for Viva Connections development](https://www.youtube.com/watch?v=lAcs45jPU_A) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
@@ -82,6 +84,7 @@ We also release new playlist focusing on the [Microsoft Viva Connections Toolkit
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [Build custom communication experiences with Azure Communication Services UI Library for Microsoft Teams users](https://devblogs.microsoft.com/microsoft365dev/build-custom-communication-experiences-with-azure-communication-services-ui-library-for-microsoft-teams-users/) by [David de Matheu](https://twitter.com/ddematheu) (Microsoft) | @ddematheu
 * [Teams Toolkit for Visual Studio Code update – March 2023](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-march-2023/) by Junjie Lie (Microsoft)
 * [Updated public preview of SharePoint Framework 1.17 – Preview on upcoming features](https://devblogs.microsoft.com/microsoft365dev/updated-public-preview-of-sharepoint-framework-1-17-preview-on-upcoming-features/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 
@@ -98,7 +101,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft 365 Platform Community Call - 21st of March, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-03-21/)
+* [Viva Connections & SharePoint Framework Community Call – 23rd of March, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-03-23/)
+* [Microsoft 365 & Power Platform Community Call - 21st of March, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-03-21/)
 
 ---
 
